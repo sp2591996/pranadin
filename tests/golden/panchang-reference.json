@@ -1,0 +1,4 @@
+{
+  "_readme": "Panchang golden cases (ADR-008, PR-9). Content fills `cases` from two published panchangs. tithiIndex 0-29 (0 = Shukla Pratipada, 14 = Purnima, 15 = Krishna Pratipada, 29 = Amavasya) at local sunrise; nakshatraIndex 0-26 (0 = Ashwini) at local sunrise; sunrise/sunset HH:MM local. cityId from src/lib/cities.ts. Example: {\"date\":\"2026-11-20\",\"cityId\":\"pune\",\"tithiIndex\":0,\"nakshatraIndex\":0,\"sunrise\":\"06:45\",\"sunset\":\"17:58\",\"source\":\"<panchang A> + <panchang B>\"} (values illustrative, not real).",
+  "cases": []
+}

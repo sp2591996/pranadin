@@ -15,8 +15,8 @@
  * Content in your stand-up so they can write the copy.
  */
 export const catalog = {
-  "app.name": { en: "Antaryatra", note: "Product name. Do not translate; HI/MR use अंतर्यात्रा." },
-  "app.tagline": { en: "The inner journey", note: "Under the name on onboarding and About." },
+  "app.name": { en: "PranaDin", note: "Product name. Do not translate; HI/MR use प्राणदिन (D-021)." },
+  "app.tagline": { en: "Daily practice, calendar and journal", note: "Placeholder; Content to write. Under the name on onboarding and About." },
   "app.betaBadge": { en: "Beta", note: "Small badge in the header." },
 
   "nav.label": { en: "Main", note: "Screen-reader name of the bottom navigation." },
@@ -63,7 +63,7 @@ export const catalog = {
   "settings.privacy": { en: "Privacy and your data", note: "Settings row." },
   "settings.help": { en: "Help and safety", note: "Settings row, same place on every screen." },
 
-  "trust.about": { en: "About Antaryatra", note: "Trust page title." },
+  "trust.about": { en: "About PranaDin", note: "Trust page title." },
   "trust.privacy": { en: "Privacy notice", note: "Trust page title." },
   "trust.terms": { en: "Terms of use", note: "Trust page title." },
   "trust.disclaimer": { en: "Health and content disclaimer", note: "Trust page title." },

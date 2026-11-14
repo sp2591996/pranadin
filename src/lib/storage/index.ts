@@ -117,7 +117,7 @@ export async function requestPersistence(): Promise<boolean> {
 }
 
 /**
- * "Clear my data" (FR-13, ADR-011): wipe IndexedDB, every `antaryatra.*`
+ * "Clear my data" (FR-13, ADR-011): wipe IndexedDB, every `pranadin.*`
  * localStorage/sessionStorage key, Cache Storage and service workers.
  * Callers then navigate to onboarding.
  */
@@ -178,7 +178,7 @@ export async function clearAllData(): Promise<void> {
 export function serializeJournal(entries: readonly JournalEntry[], format: "json" | "txt"): string {
   const sorted = [...entries].sort((a, b) => a.createdAt - b.createdAt);
   if (format === "json") {
-    return JSON.stringify({ app: "antaryatra", exportVersion: 1, entries: sorted }, null, 2);
+    return JSON.stringify({ app: "pranadin", exportVersion: 1, entries: sorted }, null, 2);
   }
   return sorted
     .map((e) => [`# ${e.localDate}`, e.mood ? `Mood: ${e.mood}` : null, "", e.text].filter((x) => x !== null).join("\n"))

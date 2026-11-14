@@ -9,7 +9,7 @@ import { StorageError, type ListQuery, type Repo, type StoreSpec } from "./types
 
 type Rec = { id: string; localDate: string } & Record<string, unknown>;
 
-export interface AntaryatraDB extends DBSchema {
+export interface PranaDinDB extends DBSchema {
   journal: { key: string; value: JournalEntry; indexes: { createdAt: number; localDate: string } };
   practiceLog: { key: string; value: PracticeLog; indexes: { at: number; localDate: string } };
 }
@@ -18,7 +18,7 @@ export interface AntaryatraDB extends DBSchema {
  * Ordered schema migrations. Index i upgrades from version i to i+1.
  * Never edit a shipped step; append a new one and bump DB_VERSION.
  */
-export const MIGRATIONS: ((db: IDBPDatabase<AntaryatraDB>) => void)[] = [
+export const MIGRATIONS: ((db: IDBPDatabase<PranaDinDB>) => void)[] = [
   // v0 -> v1: initial stores
   (db) => {
     const j = db.createObjectStore("journal", { keyPath: "id" });
@@ -30,11 +30,11 @@ export const MIGRATIONS: ((db: IDBPDatabase<AntaryatraDB>) => void)[] = [
   },
 ];
 
-export function openAppDb(): Promise<IDBPDatabase<AntaryatraDB>> {
+export function openAppDb(): Promise<IDBPDatabase<PranaDinDB>> {
   if (MIGRATIONS.length !== DB_VERSION) {
     throw new Error(`DB_VERSION (${DB_VERSION}) must equal the number of migrations (${MIGRATIONS.length})`);
   }
-  return openDB<AntaryatraDB>(DB_NAME, DB_VERSION, {
+  return openDB<PranaDinDB>(DB_NAME, DB_VERSION, {
     upgrade(db, oldVersion) {
       for (let v = oldVersion; v < DB_VERSION; v++) MIGRATIONS[v]!(db);
     },
@@ -64,7 +64,7 @@ function clone<T>(x: T): T {
 
 export class IdbRepo<T extends Rec> implements Repo<T> {
   constructor(
-    private readonly dbp: Promise<IDBPDatabase<AntaryatraDB>>,
+    private readonly dbp: Promise<IDBPDatabase<PranaDinDB>>,
     private readonly spec: StoreSpec<T>,
   ) {}
 

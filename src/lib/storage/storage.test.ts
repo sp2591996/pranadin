@@ -271,7 +271,7 @@ describe("prefs", () => {
 });
 
 describe("clearAllData", () => {
-  it("wipes IndexedDB and every antaryatra.* key, and leaves other keys alone", async () => {
+  it("wipes IndexedDB and every pranadin.* key, and leaves other keys alone", async () => {
     const s = await getStorage();
     await s.journal.put(entry());
     await s.practiceLog.put(log());
@@ -283,7 +283,7 @@ describe("clearAllData", () => {
     expect(g.localStorage!.getItem(PREFS_KEY)).toBeNull();
     expect(g.localStorage!.getItem("other.site.key")).toBe("keep");
     for (let i = 0; i < g.localStorage!.length; i++) {
-      expect(g.localStorage!.key(i)?.startsWith("antaryatra.")).toBe(false);
+      expect(g.localStorage!.key(i)?.startsWith("pranadin.")).toBe(false);
     }
     const dbs = await g.indexedDB!.databases();
     expect(dbs.map((d) => d.name)).not.toContain(DB_NAME);
@@ -301,7 +301,7 @@ describe("serializeJournal", () => {
   ];
   it("exports JSON oldest first with a version header", () => {
     const parsed = JSON.parse(serializeJournal(entries, "json"));
-    expect(parsed.app).toBe("antaryatra");
+    expect(parsed.app).toBe("pranadin");
     expect(parsed.exportVersion).toBe(1);
     expect(parsed.entries.map((e: JournalEntry) => e.id)).toEqual(["1", "2"]);
   });

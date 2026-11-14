@@ -13,8 +13,8 @@ import {
 import { StorageError, type StoreSpec } from "./types";
 
 /** Every key and database we create starts with this, so "Clear my data" can find them all. */
-export const STORAGE_PREFIX = "antaryatra.";
-export const DB_NAME = "antaryatra";
+export const STORAGE_PREFIX = "pranadin.";
+export const DB_NAME = "pranadin";
 export const DB_VERSION = 1;
 export const PREFS_KEY = `${STORAGE_PREFIX}prefs.v1`;
 export const lsStoreKey = (store: string) => `${STORAGE_PREFIX}store.${store}.v1`;
