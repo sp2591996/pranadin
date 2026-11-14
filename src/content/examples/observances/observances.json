@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "example-observance",
+      "status": "draft",
+      "aiAssisted": false,
+      "date": "2026-12-25",
+      "tradition": "christian",
+      "datesVary": false,
+      "moonSighting": false,
+      "regions": [],
+      "provenance": {
+        "sources": [
+          { "title": "EXAMPLE SOURCE A (replace)", "url": "https://example.org/a", "accessedOn": "2026-11-15" },
+          { "title": "EXAMPLE SOURCE B (replace)", "url": "https://example.org/b", "accessedOn": "2026-11-15" }
+        ],
+        "checkedOn": "2026-11-15",
+        "subjectReviewer": "board",
+        "translator": null
+      },
+      "i18n": {
+        "en": { "name": "Example observance", "note": "Example only. One or two neutral lines; no ritual prescriptions." },
+        "hi": { "name": "उदाहरण", "review": { "status": "pending", "by": "board", "on": "2026-11-15" } }
+      }
+    }
+  ]
+}
