@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# e2e (E-16)
+/tests/e2e/.results/
+/tests/e2e/.report/
