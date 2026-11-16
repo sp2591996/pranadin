@@ -60,6 +60,10 @@ export function applyQuery<T extends Rec>(rows: T[], timeField: string, q: ListQ
   return q.limit !== undefined ? out.slice(0, Math.max(0, q.limit)) : out;
 }
 
+function upgrade<T>(spec: StoreSpec<T>, x: T): T {
+  return spec.upgrade ? spec.upgrade(x) : x;
+}
+
 function clone<T>(x: T): T {
   return structuredClone(x);
 }
@@ -75,11 +79,12 @@ export class IdbRepo<T extends Rec> implements Repo<T> {
     // Fine for launch volumes (≤ a few thousand rows). Switch to an index
     // cursor if journals grow large.
     const rows = (await db.getAll(this.spec.name)) as unknown as T[];
-    return applyQuery(rows, this.spec.timeField, q);
+    return applyQuery(rows.map((r) => upgrade(this.spec, r)), this.spec.timeField, q);
   }
   async get(id: string): Promise<T | undefined> {
     const db = await this.dbp;
-    return (await db.get(this.spec.name, id)) as unknown as T | undefined;
+    const r = (await db.get(this.spec.name, id)) as unknown as T | undefined;
+    return r ? upgrade(this.spec, r) : undefined;
   }
   async put(record: T): Promise<void> {
     this.spec.validate(record);
@@ -147,7 +152,7 @@ export class LocalStorageRepo<T extends Rec> extends MemoryRepo<T> {
     try {
       const raw = ls.getItem(this.key);
       const arr = raw ? (JSON.parse(raw) as T[]) : [];
-      for (const r of Array.isArray(arr) ? arr : []) if (r && typeof r.id === "string") this.rows.set(r.id, r);
+      for (const r of Array.isArray(arr) ? arr : []) if (r && typeof r.id === "string") this.rows.set(r.id, upgrade(spec, r));
     } catch {
       // Corrupt value: start empty rather than crash. The old value is overwritten on next write.
     }

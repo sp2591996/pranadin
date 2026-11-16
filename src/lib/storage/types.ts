@@ -55,4 +55,6 @@ export interface StoreSpec<T> {
   name: "journal" | "practiceLog";
   timeField: "createdAt" | "at";
   validate(x: T): void;
+  /** Upgrade an older stored shape to the current one, on every read. Must be idempotent. */
+  upgrade?(x: T): T;
 }

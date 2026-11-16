@@ -55,9 +55,24 @@ export interface Prefs {
 
 // ---------- On-device records (IndexedDB) ----------
 
-export const MOODS = ["heavy", "low", "steady", "light", "bright"] as const;
-/** Mood ids are stable; display labels come from content (`journal/moods.json`). */
+/**
+ * Mood ids = Content's keys without the `mood.` prefix (`content/en/journal.json`),
+ * in display order. Labels come from content. Content owns these names.
+ */
+export const MOODS = ["peaceful", "grateful", "okay", "restless", "heavy"] as const;
 export type Mood = (typeof MOODS)[number];
+
+/**
+ * Ids stored by builds before 18 Nov 2026, mapped to Content's ids (same
+ * meaning as Dev-2's old label map). Applied when records are read, so
+ * existing journals keep their moods.
+ */
+export const LEGACY_MOODS: Readonly<Record<string, Mood>> = {
+  bright: "peaceful",
+  light: "grateful",
+  steady: "okay",
+  low: "restless",
+};
 
 export const JOURNAL_MAX_CHARS = 1000; // PRD FR-10.1
 

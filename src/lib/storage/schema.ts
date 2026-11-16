@@ -4,6 +4,7 @@
  */
 import {
   JOURNAL_MAX_CHARS,
+  LEGACY_MOODS,
   LOCALES,
   MOODS,
   PRACTICE_KINDS,
@@ -44,6 +45,10 @@ export const journalSpec: StoreSpec<JournalEntry> = {
     if (x.mood !== null && !(MOODS as readonly string[]).includes(x.mood)) fail("unknown mood");
     if (!(LOCALES as readonly string[]).includes(x.locale)) fail("unknown locale");
     if (x.promptId !== null && typeof x.promptId !== "string") fail("promptId must be string or null");
+  },
+  upgrade(x) {
+    const legacy = x.mood ? LEGACY_MOODS[x.mood] : undefined;
+    return legacy ? { ...x, mood: legacy } : x;
   },
 };
 

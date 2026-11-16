@@ -52,7 +52,7 @@ function entry(over: Partial<JournalEntry> = {}): JournalEntry {
     createdAt: 1_763_000_000_000,
     updatedAt: 1_763_000_000_000,
     localDate: "2026-11-15",
-    mood: "steady",
+    mood: "okay",
     text: "A quiet morning.",
     promptId: null,
     locale: "en",
@@ -192,6 +192,29 @@ describe("migrations", () => {
     const r2 = new IdbRepo<JournalEntry>(openAppDb(), journalSpec);
     expect(await r2.get(e.id)).toEqual(e);
   });
+
+  it("upgrades moods stored with the old ids to Content's ids on read (IndexedDB)", async () => {
+    const db = await openAppDb();
+    const old = { ...entry(), mood: "bright" } as unknown as JournalEntry;
+    await db.put("journal", old as never); // written by an older build, bypassing validation
+    db.close();
+    const repo = new IdbRepo<JournalEntry>(openAppDb(), journalSpec);
+    expect((await repo.get(old.id))?.mood).toBe("peaceful");
+    expect((await repo.list()).map((r) => r.mood)).toEqual(["peaceful"]);
+    const got = (await repo.get(old.id))!;
+    await repo.put({ ...got, text: "edited" }); // re-saving passes the new validator
+  });
+
+  it("upgrades every old mood id from localStorage and leaves new ids alone", async () => {
+    const ls = g.localStorage!;
+    const olds = { bright: "peaceful", light: "grateful", steady: "okay", low: "restless", heavy: "heavy" } as const;
+    const rows = Object.keys(olds).map((m, i) => ({ ...entry({ createdAt: i }), mood: m }));
+    ls.setItem("pranadin.store.journal.v1", JSON.stringify([...rows, entry({ mood: "grateful" })]));
+    const repo = new LocalStorageRepo<JournalEntry>(journalSpec, ls);
+    const byId = new Map((await repo.list()).map((r) => [r.id, r.mood]));
+    for (const r of rows) expect(byId.get(r.id)).toBe(olds[r.mood as keyof typeof olds]);
+    expect([...byId.values()].filter((m) => m === "grateful")).toHaveLength(2);
+  });
 });
 
 describe("backend selection", () => {
@@ -306,7 +329,7 @@ describe("serializeJournal", () => {
     expect(parsed.entries.map((e: JournalEntry) => e.id)).toEqual(["1", "2"]);
   });
   it("exports readable text", () => {
-    expect(serializeJournal(entries, "txt")).toBe("# 2026-11-15\nMood: steady\n\nFirst\n\n# 2026-11-16\n\nSecond");
+    expect(serializeJournal(entries, "txt")).toBe("# 2026-11-15\nMood: okay\n\nFirst\n\n# 2026-11-16\n\nSecond");
   });
 });
 

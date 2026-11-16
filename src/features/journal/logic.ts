@@ -6,19 +6,13 @@ import { JOURNAL_MAX_CHARS, MOODS, type JournalEntry, type Locale, type LocalDat
 import { parseDateKey } from "@/i18n/format";
 
 /**
- * Content's mood keys (`content/en/journal.json`) mapped to the stored Mood
- * ids from the E-02 contract. The contract ids differ from Content's names,
- * so this map keeps stored data stable (CR-D2-02 asks to align them).
- * Order = display order.
+ * Content's mood key (`content/en/journal.json`) for each stored Mood id.
+ * Since CR-D2-02 the ids are Content's own names, so this is just the prefix.
+ * Older stored ids are upgraded on read (`LEGACY_MOODS`, storage layer).
  */
-export const MOOD_CONTENT_KEY: Record<Mood, string> = {
-  bright: "mood.peaceful",
-  light: "mood.grateful",
-  steady: "mood.okay",
-  low: "mood.restless",
-  heavy: "mood.heavy",
-};
-export const MOOD_ORDER: readonly Mood[] = ["bright", "light", "steady", "low", "heavy"];
+export const MOOD_CONTENT_KEY = Object.fromEntries(MOODS.map((m) => [m, `mood.${m}`])) as Record<Mood, `mood.${Mood}`>;
+/** Display order = Content's order. */
+export const MOOD_ORDER: readonly Mood[] = MOODS;
 
 const EPOCH = Date.UTC(2026, 0, 1);
 

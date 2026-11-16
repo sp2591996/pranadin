@@ -23,7 +23,7 @@ import { getStorage, newId, requestPersistence, StorageError, type StorageBacken
 import { JOURNAL_MAX_CHARS, type JournalEntry, type Mood } from "@/lib/types";
 import { buildEntry, exportFileName, journalToJson, journalToText, MOOD_CONTENT_KEY, MOOD_ORDER, promptIndexFor, validateDraft } from "./logic";
 
-const MOOD_ICON: Record<Mood, Icon> = { bright: LeafIcon, light: HeartIcon, steady: SmileyMehIcon, low: WindIcon, heavy: CloudIcon };
+const MOOD_ICON: Record<Mood, Icon> = { peaceful: LeafIcon, grateful: HeartIcon, okay: SmileyMehIcon, restless: WindIcon, heavy: CloudIcon };
 
 /** Export buttons, reused on the Me screen (US-22). */
 export function JournalExport({ content, entries }: { content: JournalContent; entries: JournalEntry[] | null }) {

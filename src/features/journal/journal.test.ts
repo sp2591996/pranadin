@@ -24,8 +24,8 @@ describe("journal drafts (FR-8.1)", () => {
   });
 
   it("builds a valid stored record that passes the E-04 validator", async () => {
-    const e = buildEntry({ ...base, text: "  steady today  ", mood: "steady", promptId: "prompt.01" });
-    expect(e).toMatchObject({ v: 1, text: "steady today", mood: "steady", createdAt: 1000, updatedAt: 1000 });
+    const e = buildEntry({ ...base, text: "  okay today  ", mood: "okay", promptId: "prompt.01" });
+    expect(e).toMatchObject({ v: 1, text: "okay today", mood: "okay", createdAt: 1000, updatedAt: 1000 });
     const repo = new MemoryRepo<JournalEntry>(journalSpec);
     await repo.put(e);
     expect(await repo.count()).toBe(1);
