@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import type { PracticeLog } from "@/lib/types";
 import { formatClock, isComplete, positionAt, roundsFor, SessionClock, sessionMs } from "./engine";
+import { addDays } from "@/i18n/format";
 import { computeProgress, computeStreak, isWpuWeek, mondayOf } from "./streak";
 
 const sama = [
@@ -152,6 +153,26 @@ describe("streak (US-16)", () => {
     // Two misses 7 days apart are both bridged.
     const d = days("2026-11-02", "2026-11-04", "2026-11-05", "2026-11-06", "2026-11-07", "2026-11-08", "2026-11-09", "2026-11-10", "2026-11-12");
     expect(computeStreak(d, "2026-11-12").streak).toBe(11);
+  });
+
+  // The rule (kept from Dev-2, CoS 18 Nov): at most ONE rest day in any rolling
+  // 7-day window. Rest days 7+ days apart are both bridged; 6 apart, only the later one.
+  it("US-16 rule: one rest day per rolling 7 days, not per calendar week", () => {
+    const run = (from: string, n: number, skip: number[]) => {
+      const out: string[] = [];
+      for (let i = 0; i < n; i++) if (!skip.includes(i)) out.push(addDays(from, i));
+      return new Set(out);
+    };
+    const start = "2026-11-01"; // Sunday, so the window crosses a Mon week boundary
+    // 15 days with rests on day 3 and day 10 (7 apart): unbroken, 15.
+    expect(computeStreak(run(start, 15, [3, 10]), addDays(start, 14))).toEqual({
+      streak: 15,
+      graceDays: [addDays(start, 10), addDays(start, 3)],
+    });
+    // Rests on day 3 and day 9 (6 apart): the later one is bridged, so the streak restarts at day 4.
+    expect(computeStreak(run(start, 15, [3, 9]), addDays(start, 14))).toEqual({ streak: 11, graceDays: [addDays(start, 9)] });
+    // Rests on Sat 7 Nov and Mon 9 Nov fall in different calendar weeks but the same rolling window: still only one.
+    expect(computeStreak(run(start, 12, [6, 8]), addDays(start, 11)).streak).toBe(5);
   });
 
   it("a pending rest day (yesterday missed) keeps the streak if no rest day was used this week", () => {
