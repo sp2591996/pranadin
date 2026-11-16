@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 
 export const dynamic = "force-static";
 
-/** Web app manifest. Icons arrive with DS-6; PWA install is P1 (FR-12). */
+/** Web app manifest (icons from DS-6). PWA install prompt and offline are P1 (FR-12, E-12). */
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: "PranaDin",
@@ -13,6 +13,12 @@ export default function manifest(): MetadataRoute.Manifest {
     background_color: "#FBF7F0",
     theme_color: "#FBF7F0",
     lang: "en",
-    icons: [],
+    icons: [
+      { src: "/icons/icon-192.png", sizes: "192x192", type: "image/png", purpose: "any" },
+      { src: "/icons/icon-512.png", sizes: "512x512", type: "image/png", purpose: "any" },
+      { src: "/icons/maskable-192.png", sizes: "192x192", type: "image/png", purpose: "maskable" },
+      { src: "/icons/maskable-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
+      { src: "/icons/monochrome-512.png", sizes: "512x512", type: "image/png", purpose: "monochrome" },
+    ],
   };
 }

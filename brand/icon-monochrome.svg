@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="t">
+  <title id="t">PranaDin</title>
+  <!-- PWA icon, purpose "monochrome" (Android themed icons). Single colour on transparent; the OS tints it. -->
+  <g transform="translate(0 -16)">
+    <path d="M172 244 A84 84 0 0 1 340 244 Z" fill="#FFFFFF"/>
+    <path d="M104 264 H408" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" fill="none"/>
+    <path d="M152 318 C 186 298, 222 298, 256 318 S 326 338, 360 318" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" fill="none"/>
+    <path d="M196 370 C 216 358, 236 358, 256 370 S 296 382, 316 370" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

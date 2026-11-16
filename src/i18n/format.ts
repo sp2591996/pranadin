@@ -6,26 +6,87 @@
 import type { LocalDateKey, TimeZone } from "@/lib/types";
 import { DEFAULT_TIME_ZONE, INTL_LOCALE, type Locale } from "./config";
 
-type Params = Record<string, string | number>;
+export type Params = Record<string, string | number>;
 
-/**
- * Replace `{name}` placeholders. Unknown placeholders are left visible so a
- * missing param is caught in review rather than silently dropped. No string
- * concatenation for sentences (ML-7): put the whole sentence in the catalog.
- */
-export function interpolate(template: string, params?: Params): string {
-  if (!params) return template;
-  return template.replace(/\{(\w+)\}/g, (whole, name: string) =>
-    Object.prototype.hasOwnProperty.call(params, name) ? String(params[name]) : whole,
-  );
+/** Plural category for a count (`one`, `other`, ...) in a locale. */
+export function pluralCategory(locale: Locale, count: number): Intl.LDMLPluralRule {
+  return new Intl.PluralRules(INTL_LOCALE[locale]).select(count);
+}
+
+/** Index of the `}` matching the `{` at `open`, or -1. */
+function matchBrace(s: string, open: number): number {
+  let depth = 0;
+  for (let i = open; i < s.length; i++) {
+    if (s[i] === "{") depth++;
+    else if (s[i] === "}" && --depth === 0) return i;
+  }
+  return -1;
+}
+
+/** Parse ICU options: `one {# day} other {# days} =0 {none}`. */
+function parseOptions(s: string): Map<string, string> {
+  const out = new Map<string, string>();
+  let i = 0;
+  while (i < s.length) {
+    const m = /^\s*(=?\w+)\s*\{/.exec(s.slice(i));
+    if (!m) break;
+    const open = i + m[0].length - 1;
+    const close = matchBrace(s, open);
+    if (close < 0) break;
+    out.set(m[1]!, s.slice(open + 1, close));
+    i = close + 1;
+  }
+  return out;
 }
 
 /**
- * Plural category for a count (`one`, `other`, ...). Catalog keys for plurals
- * use the suffix convention `key.one` / `key.other`.
+ * Format a message: `{name}` placeholders plus the ICU subset Content uses,
+ * `{n, plural, one {...} other {...}}` (with `#` and `=N`) and
+ * `{x, select, a {...} other {...}}`. Unknown placeholders stay visible so a
+ * missing param is caught in review. No sentence concatenation (ML-7).
  */
-export function pluralCategory(locale: Locale, count: number): Intl.LDMLPluralRule {
-  return new Intl.PluralRules(INTL_LOCALE[locale]).select(count);
+export function formatMessage(template: string, params: Params | undefined, locale: Locale): string {
+  let out = "";
+  let i = 0;
+  while (i < template.length) {
+    const open = template.indexOf("{", i);
+    if (open < 0) {
+      out += template.slice(i);
+      break;
+    }
+    out += template.slice(i, open);
+    const close = matchBrace(template, open);
+    if (close < 0) {
+      out += template.slice(open);
+      break;
+    }
+    const inner = template.slice(open + 1, close);
+    const icu = /^\s*(\w+)\s*,\s*(plural|select)\s*,([\s\S]*)$/.exec(inner);
+    if (icu) {
+      const [, name, kind, rest] = icu as unknown as [string, string, string, string];
+      const value = params?.[name];
+      const opts = parseOptions(rest);
+      let chosen: string | undefined;
+      if (kind === "plural" && typeof value === "number") {
+        chosen = opts.get(`=${value}`) ?? opts.get(pluralCategory(locale, value)) ?? opts.get("other");
+        chosen = chosen?.replace(/#/g, formatNumber(value, locale));
+      } else if (value !== undefined) {
+        chosen = opts.get(String(value)) ?? opts.get("other");
+      }
+      out += chosen !== undefined ? formatMessage(chosen, params, locale) : template.slice(open, close + 1);
+    } else if (/^\w+$/.test(inner) && params && Object.prototype.hasOwnProperty.call(params, inner)) {
+      out += String(params[inner]);
+    } else {
+      out += template.slice(open, close + 1);
+    }
+    i = close + 1;
+  }
+  return out;
+}
+
+/** `{name}` substitution only (kept for non-ICU callers). */
+export function interpolate(template: string, params?: Params): string {
+  return formatMessage(template, params, "en");
 }
 
 const dtfCache = new Map<string, Intl.DateTimeFormat>();

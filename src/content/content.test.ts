@@ -1,80 +1,126 @@
 /**
- * Content gate (runs in CI via `npm test`):
- * 1. The example files Content can copy are valid.
- * 2. Every file Content has delivered in `app/content/` matches the schema.
- * 3. UI string files use only known keys.
- * 4. A report lists keys still on developer placeholders and HI/MR keys
- *    not yet approved. (Informational now; becomes a hard gate at content freeze.)
+ * Content gate (runs in CI via `npm test`). Validates Content's delivered
+ * files, checks that every message key code depends on exists, and prints a
+ * translation-status report.
  */
 import fs from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
-import { MESSAGE_KEYS } from "@/i18n/catalog";
-import { resolveMessages } from "@/i18n/resolve";
-import { CONTENT_DIR } from "./load";
-import { COLLECTIONS, observancesSchema, uiEnSchema, uiTranslationSchema } from "./schema";
+import { LOCALES } from "@/i18n/config";
+import { formatMessage } from "@/i18n/format";
+import { CONTENT_DIR, loadMessages, loadObservances, loadTrustPage, localizeObservance } from "./load";
+import { observancesDataSchema, observancesTextSchema, observancesTranslationSchema, uiEnSchema, uiTranslationSchema } from "./schema";
+import { TRUST_PAGE_FILES } from "@/lib/routes";
 
-const EXAMPLES = path.join(__dirname, "examples");
-const readJson = (f: string) => JSON.parse(fs.readFileSync(f, "utf8").replace(/^﻿/, "")) as unknown;
+const read = (rel: string) => JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, rel), "utf8").replace(/^﻿/, "")) as unknown;
+const present = (rel: string) => fs.existsSync(path.join(CONTENT_DIR, rel));
+const issues = (r: { error?: { issues: unknown[] } }) => r.error?.issues ?? [];
 
-describe("content examples", () => {
-  it("are valid against the schema", () => {
-    expect(uiEnSchema.safeParse(readJson(path.join(EXAMPLES, "ui/en.json"))).success).toBe(true);
-    expect(uiTranslationSchema.safeParse(readJson(path.join(EXAMPLES, "ui/mr.json"))).success).toBe(true);
-    const obs = observancesSchema.safeParse(readJson(path.join(EXAMPLES, "observances/observances.json")));
-    expect(obs.error?.issues ?? []).toEqual([]);
+describe("UI strings", () => {
+  it("content/en/ui.json exists and is valid", () => {
+    expect(issues(uiEnSchema.safeParse(read("en/ui.json")))).toEqual([]);
   });
 
-  it("rejects a published observance with only one source", () => {
-    const file = readJson(path.join(EXAMPLES, "observances/observances.json")) as {
-      items: { status: string; provenance: { sources: unknown[] } }[];
-    };
-    file.items[0]!.status = "published";
-    file.items[0]!.provenance.sources = file.items[0]!.provenance.sources.slice(0, 1);
-    expect(observancesSchema.safeParse(file).success).toBe(false);
+  for (const l of ["hi", "mr"] as const) {
+    it.runIf(present(`${l}/ui.json`))(`content/${l}/ui.json is valid and uses only English keys`, () => {
+      const data = read(`${l}/ui.json`);
+      expect(issues(uiTranslationSchema.safeParse(data))).toEqual([]);
+      const en = Object.keys((read("en/ui.json") as { strings: object }).strings);
+      const extra = Object.keys((data as { strings: object }).strings).filter((k) => !en.includes(k));
+      expect(extra).toEqual([]);
+    });
+  }
+
+  it("every English message parses with sample params (no broken ICU)", () => {
+    const { messages } = loadMessages("en");
+    for (const [k, v] of Object.entries(messages)) {
+      const out = formatMessage(v, { count: 2, n: 1, name: "x", time: "6:00", city: "Pune" }, "en");
+      expect(out.includes("plural,"), k).toBe(false);
+    }
   });
 
-  it("rejects an HI/MR block without a review record", () => {
-    const file = readJson(path.join(EXAMPLES, "ui/mr.json")) as { strings: Record<string, { review?: unknown }> };
-    delete file.strings["nav.today"]!.review;
-    expect(uiTranslationSchema.safeParse(file).success).toBe(false);
+  it("reports translation status (informational until content freeze)", () => {
+    const lines = LOCALES.map((l) => {
+      const m = loadMessages(l);
+      return `${l}: ${Object.keys(m.messages).length} strings, ${m.fallbackCount} showing English`;
+    });
+    console.info(`[content report]\n  ${lines.join("\n  ")}`);
+    expect(lines).toHaveLength(3);
   });
 });
 
-const present = (rel: string) => fs.existsSync(path.join(CONTENT_DIR, rel));
-const ui = ["ui/en.json", "ui/hi.json", "ui/mr.json"] as const;
+describe("observances", () => {
+  it.runIf(present("data/observances.json"))("data file is valid (2 sources, known flags, in window)", () => {
+    expect(issues(observancesDataSchema.safeParse(read("data/observances.json")))).toEqual([]);
+  });
 
-describe("delivered content in app/content/", () => {
-  for (const [rel, schema] of Object.entries(COLLECTIONS)) {
-    it.runIf(present(rel))(`${rel} matches the schema`, () => {
-      const r = schema.safeParse(readJson(path.join(CONTENT_DIR, rel)));
-      expect(r.error?.issues ?? []).toEqual([]);
-    });
-  }
+  it.runIf(present("en/observances.json"))("English text exists for every shown item", () => {
+    const text = read("en/observances.json");
+    expect(issues(observancesTextSchema.safeParse(text))).toEqual([]);
+    const data = observancesDataSchema.parse(read("data/observances.json"));
+    const t = (text as { items: Record<string, unknown> }).items;
+    const missing = data.items.filter((i) => i.status !== "hold" && !t[i.id]).map((i) => i.id);
+    expect(missing).toEqual([]);
+  });
 
-  for (const rel of ui) {
-    it.runIf(present(rel))(`${rel} matches the schema and uses only known keys`, () => {
-      const data = readJson(path.join(CONTENT_DIR, rel));
-      const schema = rel === "ui/en.json" ? uiEnSchema : uiTranslationSchema;
-      const r = schema.safeParse(data);
-      expect(r.error?.issues ?? []).toEqual([]);
-      const keys = Object.keys((data as { strings: object }).strings);
-      const unknown = keys.filter((k) => !(MESSAGE_KEYS as string[]).includes(k));
-      expect(unknown, "Unknown keys: ask Dev to add them to src/i18n/catalog.ts").toEqual([]);
-    });
-  }
-
-  it("reports translation status (informational)", () => {
-    const load = (rel: string) => (present(rel) ? (readJson(path.join(CONTENT_DIR, rel)) as never) : null);
-    const en = load("ui/en.json");
-    const lines: string[] = [];
-    for (const locale of ["en", "hi", "mr"] as const) {
-      const r = resolveMessages(locale, en, locale === "en" ? null : load(`ui/${locale}.json`));
-      const placeholder = MESSAGE_KEYS.filter((k) => r.source[k] === "placeholder").length;
-      const english = locale === "en" ? 0 : MESSAGE_KEYS.filter((k) => r.source[k] !== "approved").length;
-      lines.push(`${locale}: ${MESSAGE_KEYS.length} keys, ${placeholder} on dev placeholder` + (locale === "en" ? "" : `, ${english} showing English`));
+  it("the loader hides 'hold' items and maps flags to existing UI keys", () => {
+    const table = loadObservances("en");
+    const { messages } = loadMessages("en");
+    const data = present("data/observances.json") ? observancesDataSchema.parse(read("data/observances.json")) : null;
+    const held = new Set(data?.items.filter((i) => i.status === "hold").map((i) => i.id) ?? []);
+    for (const o of table.items) {
+      expect(held.has(o.id)).toBe(false);
+      for (const k of o.flagKeys) expect(Object.keys(messages), `flag key ${k}`).toContain(k);
     }
-    console.info(`[content report]\n  ${lines.join("\n  ")}`);
-    expect(lines).toHaveLength(3);
+  });
+
+  it("falls back to English per item for hi/mr until reviewed", () => {
+    const hi = loadObservances("hi");
+    const en = loadObservances("en");
+    expect(hi.items.length).toBe(en.items.length);
+    for (const o of hi.items) if (o.lang === "en" || o.noteLang === "en") expect(o.fellBack).toBe(true);
+  });
+
+  for (const l of ["hi", "mr"] as const) {
+    it.runIf(present(`${l}/observances.json`))(`content/${l}/observances.json is valid (notes may be untranslated)`, () => {
+      expect(issues(observancesTranslationSchema.safeParse(read(`${l}/observances.json`)))).toEqual([]);
+    });
+  }
+});
+
+describe("observance per-field fallback (D-008)", () => {
+  const en = { name: "Tulsi Vivah", note: "English note." };
+  it("uses a reviewed name and falls back to the English note when it is missing, blank or noteLang en", () => {
+    for (const tr of [
+      { name: "तुलसी विवाह", reviewed: true },
+      { name: "तुलसी विवाह", note: "  ", reviewed: true },
+      { name: "तुलसी विवाह", note: "English note.", noteLang: "en" as const, reviewed: true },
+    ]) {
+      expect(localizeObservance(en, tr, "hi")).toEqual({ name: "तुलसी विवाह", lang: "hi", note: "English note.", noteLang: "en", fellBack: true });
+    }
+  });
+  it("uses both fields when both are reviewed and translated", () => {
+    expect(localizeObservance(en, { name: "तुलसी विवाह", note: "हिंदी", reviewed: true }, "hi")).toMatchObject({ noteLang: "hi", fellBack: false });
+  });
+  it("ignores unreviewed items entirely", () => {
+    expect(localizeObservance(en, { name: "तुलसी विवाह", note: "हिंदी" }, "hi")).toMatchObject({ name: "Tulsi Vivah", lang: "en", fellBack: true });
+  });
+  it("accepts a translation file whose items have no note", () => {
+    const file = { $schema: "pranadin-content/1.0", namespace: "observances", lang: "hi", version: "x", status: "final", items: { a: { name: "क", reviewed: true } } };
+    expect(observancesTranslationSchema.safeParse(file).success).toBe(true);
+  });
+});
+
+describe("trust pages", () => {
+  it.each(Object.entries(TRUST_PAGE_FILES).filter(([, f]) => f))("%s resolves (content/ or legal/) with valid front matter", (_slug, file) => {
+    const page = loadTrustPage("en", file!);
+    expect(page?.title.length).toBeGreaterThan(0);
+    expect(page!.markdown).not.toMatch(/\{\{feedbackLink\}\}/);
+    expect(page!.markdown).not.toMatch(/^>/m); // Legal's internal header is stripped
+  });
+
+  it("hi/mr fall back to English Legal pages", () => {
+    const page = loadTrustPage("hi", "privacy");
+    expect(page).toMatchObject({ lang: "en", fellBack: true });
   });
 });

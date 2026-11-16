@@ -18,7 +18,7 @@ export function RootRedirect() {
     window.location.replace(prefs.onboarded ? routes.today(locale) : routes.onboarding(locale));
   }, []);
   return (
-    <main className="mx-auto flex min-h-dvh max-w-xl flex-col justify-center gap-6 px-[var(--gutter)]">
+    <main className="mx-auto flex min-h-dvh max-w-xl flex-col justify-center gap-6 px-[var(--size-gutter)]">
       <h1>PranaDin</h1>
       {/* Only language names appear in HI/MR here: other HI/MR copy must be Board-reviewed first. */}
       <p className="text-text-muted">Choose your language</p>
@@ -28,7 +28,7 @@ export function RootRedirect() {
             <Link
               lang={l}
               href={routes.onboarding(l)}
-              className="flex min-h-12 items-center rounded-md border border-border-input bg-surface px-4 text-[18px] text-text"
+              className="flex min-h-12 items-center rounded-md border border-border-input bg-surface px-4 text-body-lg text-text"
             >
               {LOCALE_NATIVE_NAME[l]}
             </Link>
@@ -47,7 +47,7 @@ export function LocaleHomeRedirect() {
     window.location.replace(prefs.onboarded ? routes.today(locale) : routes.onboarding(locale));
   }, [locale]);
   return (
-    <main className="mx-auto max-w-xl px-[var(--gutter)] py-8">
+    <main className="mx-auto max-w-xl px-[var(--size-gutter)] py-8">
       <Link href={routes.today(locale)} className="text-primary underline">
         {t("nav.today")}
       </Link>

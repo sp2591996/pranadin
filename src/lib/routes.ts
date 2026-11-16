@@ -3,23 +3,60 @@
  * paths stay consistent across locales. All routes are prerendered for
  * en / hi / mr by the static export; there are no server routes.
  */
+import type { MessageKey } from "@/i18n/keys";
 import type { Locale } from "./types";
 
 export const TABS = ["today", "practice", "calendar", "journal"] as const;
 export type Tab = (typeof TABS)[number];
 
-/** Trust and legal pages (C9, L1). Content lives in `app/content/trust/<slug>.json`. */
+/** Trust and legal pages (C9, L1). */
 export const TRUST_PAGES = [
   "about",
   "privacy",
   "terms",
   "disclaimer",
-  "safety",
+  "help",
   "sources",
   "ai-use",
   "corrections",
 ] as const;
 export type TrustPage = (typeof TRUST_PAGES)[number];
+
+/**
+ * Markdown file for each trust page. Looked up in `content/<lang>/pages/`
+ * (Content), then `legal/<lang>/` (Legal's finals via scripts/sync-legal.mjs:
+ * privacy, terms, help = Health & Content Disclaimer). `null` = not delivered.
+ * Links inside the Markdown use these file names.
+ */
+export const TRUST_PAGE_FILES: Record<TrustPage, string | null> = {
+  about: "about",
+  privacy: "privacy",
+  terms: "terms",
+  disclaimer: "disclaimer",
+  help: "help",
+  sources: "sources",
+  "ai-use": "ai-use",
+  corrections: "corrections",
+};
+
+/** UI string for each trust page's title in lists (Content's `me.*` / `privacy.*` / `help.*` keys). */
+/** `null` = no UI string yet (asked Content for `me.terms`); the page is hidden from lists. */
+export const TRUST_TITLE_KEYS: Record<TrustPage, MessageKey | null> = {
+  about: "me.about",
+  privacy: "privacy.readNotice",
+  terms: null,
+  disclaimer: "help.disclaimer",
+  help: "me.help",
+  sources: "me.sources",
+  "ai-use": "me.aiUse",
+  corrections: "me.corrections",
+};
+
+/** Map a Markdown link target (`disclaimer`, `sources`) to its page slug. */
+export function trustSlugForFile(file: string): TrustPage | null {
+  const hit = (Object.entries(TRUST_PAGE_FILES) as [TrustPage, string | null][]).find(([, f]) => f === file);
+  return hit ? hit[0] : null;
+}
 
 export const routes = {
   /** Language picker / redirect. Sends the user to their stored or browser locale. */

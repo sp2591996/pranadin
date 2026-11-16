@@ -5,32 +5,41 @@
  * passes them here, so each page ships only its own language.
  *
  *   const { t, locale } = useI18n();
- *   t("panchang.until", { time: "6:52 am" })
+ *   t("today.panchang.until", { time: "6:52 am" })
+ *   t("today.week.days", { count: 3 })      // ICU plural
  */
 import { createContext, useContext, useMemo, type ReactNode } from "react";
-import type { MessageKey, Messages } from "./catalog";
 import type { Locale } from "./config";
-import { interpolate, pluralCategory } from "./format";
+import { formatMessage, type Params } from "./format";
+import type { MessageKey, Messages } from "./keys";
 
 interface I18nValue {
   locale: Locale;
-  t: (key: MessageKey, params?: Record<string, string | number>) => string;
-  /** Plural helper: looks up `${base}.${category}`, falling back to `${base}.other`. */
-  tp: (base: string, count: number, params?: Record<string, string | number>) => string;
+  t: (key: MessageKey, params?: Params) => string;
+  /** How many UI strings on this locale are showing English (no reviewed translation yet). */
+  fallbackCount: number;
 }
 
 const I18nContext = createContext<I18nValue | null>(null);
 
-export function I18nProvider({ locale, messages, children }: { locale: Locale; messages: Messages; children: ReactNode }) {
+export function I18nProvider({
+  locale,
+  messages,
+  fallbackCount,
+  children,
+}: {
+  locale: Locale;
+  messages: Messages;
+  fallbackCount: number;
+  children: ReactNode;
+}) {
   const value = useMemo<I18nValue>(() => {
-    const t: I18nValue["t"] = (key, params) => interpolate(messages[key], params);
-    const tp: I18nValue["tp"] = (base, count, params) => {
-      const all = messages as Record<string, string>;
-      const tpl = all[`${base}.${pluralCategory(locale, count)}`] ?? all[`${base}.other`] ?? base;
-      return interpolate(tpl, { count, ...params });
+    return {
+      locale,
+      t: (key, params) => formatMessage(messages[key] ?? key, params, locale),
+      fallbackCount,
     };
-    return { locale, t, tp };
-  }, [locale, messages]);
+  }, [locale, messages, fallbackCount]);
   return <I18nContext.Provider value={value}>{children}</I18nContext.Provider>;
 }
 

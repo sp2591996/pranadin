@@ -1,184 +1,341 @@
-/*
- * Design tokens, "Prabhat" v0 (13_Design/design-system-v0.md, Direction A "Ghat at Dawn").
- * Hand-copied by Dev-1 because 13_Design/tokens/ did not exist yet (14 Nov).
- * DS-1 replaces this file with the generated tokens.css; keep the variable
- * names so components do not change. Components must use semantic or
- * component tokens only, never primitives or raw hex.
- */
+/* PranaDin design tokens v1.0.0 (2026-11-14). GENERATED from design-tokens.json by build-tokens.mjs. Do not edit by hand. */
+/* Light is default. Dark follows the phone (prefers-color-scheme) unless <html data-theme="light|dark"> overrides it from Settings. */
 
 :root {
-  /* ---- Primitives ---- */
-  --ivory-50: #fbf7f0;
-  --white: #ffffff;
-  --sand-100: #f3ebdd;
-  --sand-200: #e6dccd;
-  --clay-500: #8a7867;
-  --earth-600: #6b5a4b;
-  --ink-900: #2a1f17;
-  --kumkum-100: #f7e4d9;
-  --kumkum-600: #a3401c;
-  --kumkum-700: #87341a;
-  --kumkum-300: #f2a174;
-  --kumkum-200: #f7b994;
-  --tulsi-100: #e3efe7;
-  --tulsi-600: #2e6a4e;
-  --tulsi-300: #7fc6a2;
-  --marigold-400: #e5a823;
-  --marigold-300: #f2c14e;
-  --neel-700: #1d5c8a;
-  --neel-200: #8ec5f0;
-  --lamp-950: #16110d;
-  --lamp-900: #211a14;
-  --lamp-850: #2c231b;
-  --lamp-800: #3a2418;
-  --lamp-700: #3a2e24;
-  --lamp-500: #7e6d5d;
-  --parchment-400: #bba994;
-  --parchment-50: #f4ece0;
-  --red-700: #b42318;
-  --red-300: #f97066;
-  --amber-800: #8a5300;
-  --amber-300: #f5b860;
+  color-scheme: light dark;
 
-  /* ---- Spacing (4px base) ---- */
-  --space-1: 4px;
-  --space-2: 8px;
-  --space-3: 12px;
-  --space-4: 16px;
-  --space-5: 20px;
-  --space-6: 24px;
-  --space-8: 32px;
-  --space-10: 40px;
-  --space-12: 48px;
-  --space-16: 64px;
+  /* ---------- Primitives (never use directly in components) ---------- */
+  --p-ivory-50: #FBF7F0;
+  --p-white: #FFFFFF;
+  --p-sand-100: #F3EBDD;
+  --p-sand-200: #E6DCCD;
+  --p-clay-500: #8A7867;
+  --p-earth-600: #6B5A4B;
+  --p-ink-900: #2A1F17;
+  --p-kumkum-100: #F7E4D9;
+  --p-kumkum-200: #F7B994;
+  --p-kumkum-300: #F2A174;
+  --p-kumkum-600: #A3401C;
+  --p-kumkum-700: #87341A;
+  --p-tulsi-100: #E3EFE7;
+  --p-tulsi-300: #7FC6A2;
+  --p-tulsi-600: #2E6A4E;
+  --p-tulsi-900: #1B3328;
+  --p-marigold-200: #F8D98C;
+  --p-marigold-300: #F2C14E;
+  --p-marigold-400: #E5A823;
+  --p-neel-200: #8EC5F0;
+  --p-neel-700: #1D5C8A;
+  --p-lamp-950: #16110D;
+  --p-lamp-900: #211A14;
+  --p-lamp-850: #2C231B;
+  --p-lamp-800: #3A2418;
+  --p-lamp-700: #3A2E24;
+  --p-lamp-500: #7E6D5D;
+  --p-parchment-400: #BBA994;
+  --p-parchment-50: #F4ECE0;
+  --p-red-50: #FCEBE9;
+  --p-red-300: #F97066;
+  --p-red-700: #B42318;
+  --p-red-900: #3B1A17;
+  --p-amber-50: #FBF0DC;
+  --p-amber-300: #F5B860;
+  --p-amber-800: #8A5300;
+  --p-amber-900: #38280F;
 
-  /* ---- Radius ---- */
-  --radius-sm: 8px;
-  --radius-md: 12px;
-  --radius-lg: 16px;
-  --radius-xl: 24px;
-  --radius-full: 9999px;
+  --font-display-stack: var(--font-eczar), "Eczar", "Noto Serif Devanagari", Georgia, serif;
+  --font-ui-stack: var(--font-mukta), "Mukta", "Noto Sans Devanagari", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-num-stack: var(--font-eczar), "Eczar", Georgia, serif;
 
-  /* ---- Motion ---- */
+  --space-0: 0;
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 16px;
+  --r-xl: 24px;
+  --r-full: 9999px;
+
   --dur-instant: 100ms;
   --dur-fast: 150ms;
   --dur-base: 220ms;
   --dur-slow: 320ms;
-  --ease-standard: cubic-bezier(0.2, 0, 0, 1);
-  --ease-exit: cubic-bezier(0.4, 0, 1, 1);
-  --ease-breath: cubic-bezier(0.37, 0, 0.63, 1);
+  --easing-standard: cubic-bezier(0.2, 0, 0, 1);
+  --easing-exit: cubic-bezier(0.4, 0, 1, 1);
+  --easing-breath: cubic-bezier(0.37, 0, 0.63, 1);
+  --breath-in: 4s;   /* user-set at runtime by the player (style attribute) */
+  --breath-hold: 4s;
+  --breath-out: 6s;
 
-  /* ---- Typography (fonts self-hosted in DS-2; system fallbacks until then) ---- */
-  --font-display: "Eczar", "Noto Serif Devanagari", Georgia, serif;
-  --font-body: "Mukta", "Noto Sans Devanagari", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --size-target-min: 44px;
+  --size-target-primary: 48px;
+  --size-appbar: 56px;
+  --size-nav: 64px;
+  --size-mini-bar: 56px;
+  --size-gutter: 16px;
+  --size-gutter-wide: 20px;
+  --size-content-max: 600px;
+  --size-focus-width: 2px;
+  --size-focus-offset: 2px;
+  --size-orb-max: 240px;
 
-  /* ---- Layout ---- */
-  --app-bar-h: 56px;
-  --bottom-nav-h: 64px;
-  --gutter: 16px;
+  --z-base: 0;
+  --z-sticky: 10;
+  --z-nav: 20;
+  --z-sheet: 40;
+  --z-dialog: 50;
+  --z-toast: 60;
 
-  /* ---- Elevation (light) ---- */
-  --elev-1: 0 1px 2px rgba(42, 31, 23, 0.06), 0 1px 3px rgba(42, 31, 23, 0.04);
-  --elev-2: 0 -1px 0 var(--divider), 0 -4px 16px rgba(42, 31, 23, 0.06);
-  --elev-3: 0 12px 32px rgba(42, 31, 23, 0.14);
+  /* ---------- Semantic: light ("Prabhat") ---------- */
+  --bg: var(--p-ivory-50);
+  --surface: var(--p-white);
+  --surface-2: var(--p-sand-100);
+  --surface-raised: var(--p-white);
+  --divider: var(--p-sand-200);
+  --border-input: var(--p-clay-500);
+  --text: var(--p-ink-900);
+  --text-muted: var(--p-earth-600);
+  --primary: var(--p-kumkum-600);
+  --primary-pressed: var(--p-kumkum-700);
+  --on-primary: var(--p-white);
+  --primary-tint: var(--p-kumkum-100);
+  --on-primary-tint: var(--p-kumkum-700);
+  --secondary: var(--p-tulsi-600);
+  --on-secondary: var(--p-white);
+  --secondary-tint: var(--p-tulsi-100);
+  --on-secondary-tint: var(--p-tulsi-600);
+  --accent: var(--p-marigold-400);
+  --on-accent: var(--p-ink-900);
+  --focus-ring: var(--p-neel-700);
+  --error: var(--p-red-700);
+  --on-error: var(--p-white);
+  --error-tint: var(--p-red-50);
+  --warning: var(--p-amber-800);
+  --warning-tint: var(--p-amber-50);
+  --success: var(--p-tulsi-600);
+  --success-tint: var(--p-tulsi-100);
+  --orb-fill: var(--p-kumkum-100);
+  --orb-core: var(--p-marigold-300);
+  --orb-ring: var(--p-kumkum-600);
+  --orb-guide: var(--p-clay-500);
   --scrim: rgba(22, 17, 13, 0.48);
-}
+  --shadow-color: 42, 31, 23;
 
-@media (min-width: 390px) {
-  :root {
-    --gutter: 20px;
-  }
-}
+  /* ---------- Elevation (dark mode relies on surface steps; shadows are near-invisible) ---------- */
+  --elev-0: none;
+  --elev-1: 0 1px 2px rgba(var(--shadow-color), 0.06), 0 1px 3px rgba(var(--shadow-color), 0.04);
+  --elev-2: 0 -1px 0 var(--divider), 0 -4px 16px rgba(var(--shadow-color), 0.06);
+  --elev-3: 0 12px 32px rgba(var(--shadow-color), 0.14);
 
-/* ---- Semantic: light (default) ---- */
-:root,
-[data-theme="light"] {
-  color-scheme: light;
-  --bg: var(--ivory-50);
-  --surface: var(--white);
-  --surface-2: var(--sand-100);
-  --text: var(--ink-900);
-  --text-muted: var(--earth-600);
-  --primary: var(--kumkum-600);
-  --on-primary: var(--white);
-  --primary-pressed: var(--kumkum-700);
-  --primary-tint: var(--kumkum-100);
-  --secondary: var(--tulsi-600);
-  --on-secondary: var(--white);
-  --secondary-tint: var(--tulsi-100);
-  --accent: var(--marigold-400);
-  --border-input: var(--clay-500);
-  --divider: var(--sand-200);
-  --focus-ring: var(--neel-700);
-  --error: var(--red-700);
-  --success: var(--tulsi-600);
-  --warning: var(--amber-800);
-}
-
-/* ---- Semantic: dark (system preference unless the user chose light) ---- */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    color-scheme: dark;
-    --bg: var(--lamp-950);
-    --surface: var(--lamp-900);
-    --surface-2: var(--lamp-850);
-    --text: var(--parchment-50);
-    --text-muted: var(--parchment-400);
-    --primary: var(--kumkum-300);
-    --on-primary: var(--lamp-950);
-    --primary-pressed: var(--kumkum-200);
-    --primary-tint: var(--lamp-800);
-    --secondary: var(--tulsi-300);
-    --on-secondary: var(--lamp-950);
-    --accent: var(--marigold-300);
-    --border-input: var(--lamp-500);
-    --divider: var(--lamp-700);
-    --focus-ring: var(--neel-200);
-    --error: var(--red-300);
-    --success: var(--tulsi-300);
-    --warning: var(--amber-300);
-    --elev-1: none;
-    --elev-2: 0 -1px 0 var(--divider);
-    --elev-3: none;
-  }
-}
-
-[data-theme="dark"] {
-  color-scheme: dark;
-  --bg: var(--lamp-950);
-  --surface: var(--lamp-900);
-  --surface-2: var(--lamp-850);
-  --text: var(--parchment-50);
-  --text-muted: var(--parchment-400);
-  --primary: var(--kumkum-300);
-  --on-primary: var(--lamp-950);
-  --primary-pressed: var(--kumkum-200);
-  --primary-tint: var(--lamp-800);
-  --secondary: var(--tulsi-300);
-  --on-secondary: var(--lamp-950);
-  --accent: var(--marigold-300);
-  --border-input: var(--lamp-500);
-  --divider: var(--lamp-700);
-  --focus-ring: var(--neel-200);
-  --error: var(--red-300);
-  --success: var(--tulsi-300);
-  --warning: var(--amber-300);
-  --elev-1: none;
-  --elev-2: 0 -1px 0 var(--divider);
-  --elev-3: none;
-}
-
-/* ---- Component tokens ---- */
-:root {
+  /* ---------- Component ---------- */
   --button-primary-bg: var(--primary);
   --button-primary-fg: var(--on-primary);
   --button-primary-bg-pressed: var(--primary-pressed);
-  --nav-item-active-fg: var(--primary);
-  --nav-item-active-bg: var(--primary-tint);
-  --nav-item-fg: var(--text-muted);
+  --button-secondary-border: var(--border-input);
+  --button-secondary-fg: var(--text);
+  --button-ghost-fg: var(--primary);
+  --button-destructive-bg: var(--error);
+  --button-destructive-fg: var(--on-error);
+  --button-disabled-bg: var(--surface-2);
+  --button-disabled-fg: var(--text-muted);
   --card-bg: var(--surface);
   --card-border: var(--divider);
-  --breath-orb-fill: var(--primary-tint);
-  --breath-orb-ring: var(--primary);
+  --card-hero-bg: var(--primary-tint);
+  --nav-bg: var(--surface);
+  --nav-item-fg: var(--text-muted);
+  --nav-item-active-fg: var(--on-primary-tint);
+  --nav-item-active-bg: var(--primary-tint);
+  --chip-border: var(--border-input);
+  --chip-selected-bg: var(--primary-tint);
+  --chip-selected-fg: var(--on-primary-tint);
+  --chip-selected-border: var(--primary);
+  --input-bg: var(--surface);
   --input-border: var(--border-input);
+  --input-border-focus: var(--focus-ring);
+  --input-border-error: var(--error);
+  --tradition-tag-bg: var(--secondary-tint);
+  --tradition-tag-fg: var(--on-secondary-tint);
+  --week-dot-done-bg: var(--primary);
+  --week-dot-done-fg: var(--on-primary);
+  --week-dot-empty-border: var(--border-input);
+  --timer-track: var(--divider);
+  --timer-progress: var(--primary);
+  --breath-orb-fill: var(--orb-fill);
+  --breath-orb-core: var(--orb-core);
+  --breath-orb-ring: var(--orb-ring);
+  --breath-orb-guide: var(--orb-guide);
+  --sheet-bg: var(--surface-raised);
+  --toast-bg: var(--text);
+  --toast-fg: var(--bg);
+
+  /* ---------- Typography (Latin) ---------- */
+  --type-display-family: var(--font-display-stack);
+  --type-display-weight: 600;
+  --type-display-size: 2.25rem;
+  --type-display-line: 2.75rem;
+  --type-h1-family: var(--font-display-stack);
+  --type-h1-weight: 600;
+  --type-h1-size: 1.75rem;
+  --type-h1-line: 2.25rem;
+  --type-h2-family: var(--font-display-stack);
+  --type-h2-weight: 600;
+  --type-h2-size: 1.375rem;
+  --type-h2-line: 1.875rem;
+  --type-h3-family: var(--font-ui-stack);
+  --type-h3-weight: 600;
+  --type-h3-size: 1.125rem;
+  --type-h3-line: 1.625rem;
+  --type-body-lg-family: var(--font-ui-stack);
+  --type-body-lg-weight: 400;
+  --type-body-lg-size: 1.125rem;
+  --type-body-lg-line: 1.75rem;
+  --type-body-family: var(--font-ui-stack);
+  --type-body-weight: 400;
+  --type-body-size: 1rem;
+  --type-body-line: 1.5rem;
+  --type-label-family: var(--font-ui-stack);
+  --type-label-weight: 500;
+  --type-label-size: 0.9375rem;
+  --type-label-line: 1.25rem;
+  --type-small-family: var(--font-ui-stack);
+  --type-small-weight: 400;
+  --type-small-size: 0.875rem;
+  --type-small-line: 1.25rem;
+  --type-caption-family: var(--font-ui-stack);
+  --type-caption-weight: 500;
+  --type-caption-size: 0.75rem;
+  --type-caption-line: 1rem;
+  --type-numeral-xl-family: var(--font-num-stack);
+  --type-numeral-xl-weight: 600;
+  --type-numeral-xl-size: 3.5rem;
+  --type-numeral-xl-line: 3.75rem;
 }
+
+/* ---------- Semantic: dark ("Sandhya") following the phone ---------- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: var(--p-lamp-950);
+    --surface: var(--p-lamp-900);
+    --surface-2: var(--p-lamp-850);
+    --surface-raised: var(--p-lamp-850);
+    --divider: var(--p-lamp-700);
+    --border-input: var(--p-lamp-500);
+    --text: var(--p-parchment-50);
+    --text-muted: var(--p-parchment-400);
+    --primary: var(--p-kumkum-300);
+    --primary-pressed: var(--p-kumkum-200);
+    --on-primary: var(--p-lamp-950);
+    --primary-tint: var(--p-lamp-800);
+    --on-primary-tint: var(--p-kumkum-300);
+    --secondary: var(--p-tulsi-300);
+    --on-secondary: var(--p-lamp-950);
+    --secondary-tint: var(--p-tulsi-900);
+    --on-secondary-tint: var(--p-tulsi-300);
+    --accent: var(--p-marigold-300);
+    --on-accent: var(--p-lamp-950);
+    --focus-ring: var(--p-neel-200);
+    --error: var(--p-red-300);
+    --on-error: var(--p-lamp-950);
+    --error-tint: var(--p-red-900);
+    --warning: var(--p-amber-300);
+    --warning-tint: var(--p-amber-900);
+    --success: var(--p-tulsi-300);
+    --success-tint: var(--p-tulsi-900);
+    --orb-fill: var(--p-lamp-800);
+    --orb-core: var(--p-marigold-300);
+    --orb-ring: var(--p-kumkum-300);
+    --orb-guide: var(--p-lamp-500);
+    --scrim: rgba(0, 0, 0, 0.60);
+    --shadow-color: 0, 0, 0;
+  }
+}
+/* ---------- Semantic: dark forced from Settings ---------- */
+:root[data-theme="dark"] {
+  --bg: var(--p-lamp-950);
+  --surface: var(--p-lamp-900);
+  --surface-2: var(--p-lamp-850);
+  --surface-raised: var(--p-lamp-850);
+  --divider: var(--p-lamp-700);
+  --border-input: var(--p-lamp-500);
+  --text: var(--p-parchment-50);
+  --text-muted: var(--p-parchment-400);
+  --primary: var(--p-kumkum-300);
+  --primary-pressed: var(--p-kumkum-200);
+  --on-primary: var(--p-lamp-950);
+  --primary-tint: var(--p-lamp-800);
+  --on-primary-tint: var(--p-kumkum-300);
+  --secondary: var(--p-tulsi-300);
+  --on-secondary: var(--p-lamp-950);
+  --secondary-tint: var(--p-tulsi-900);
+  --on-secondary-tint: var(--p-tulsi-300);
+  --accent: var(--p-marigold-300);
+  --on-accent: var(--p-lamp-950);
+  --focus-ring: var(--p-neel-200);
+  --error: var(--p-red-300);
+  --on-error: var(--p-lamp-950);
+  --error-tint: var(--p-red-900);
+  --warning: var(--p-amber-300);
+  --warning-tint: var(--p-amber-900);
+  --success: var(--p-tulsi-300);
+  --success-tint: var(--p-tulsi-900);
+  --orb-fill: var(--p-lamp-800);
+  --orb-core: var(--p-marigold-300);
+  --orb-ring: var(--p-kumkum-300);
+  --orb-guide: var(--p-lamp-500);
+  --scrim: rgba(0, 0, 0, 0.60);
+  --shadow-color: 0, 0, 0;
+}
+:root[data-theme="light"] { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
+
+/* ---------- Devanagari: +1px from h3 down and taller line height ---------- */
+:lang(hi), :lang(mr), :lang(sa) {
+  --type-display-size: 2.25rem;
+  --type-display-line: 3.25rem;
+  --type-h1-size: 1.75rem;
+  --type-h1-line: 2.625rem;
+  --type-h2-size: 1.375rem;
+  --type-h2-line: 2.125rem;
+  --type-h3-size: 1.1875rem;
+  --type-h3-line: 1.875rem;
+  --type-body-lg-size: 1.1875rem;
+  --type-body-lg-line: 2rem;
+  --type-body-size: 1.0625rem;
+  --type-body-line: 1.75rem;
+  --type-label-size: 1rem;
+  --type-label-line: 1.5rem;
+  --type-small-size: 0.9375rem;
+  --type-small-line: 1.5rem;
+  --type-caption-size: 0.875rem;
+  --type-caption-line: 1.25rem;
+  --type-numeral-xl-size: 3.5rem;
+  --type-numeral-xl-line: 4rem;
+}
+
+/* ---------- Reduced motion: OS setting or Settings toggle (<html data-motion="reduce">) ---------- */
+@media (prefers-reduced-motion: reduce) {
+  :root:not([data-motion="full"]) { --dur-fast: 0ms; --dur-base: 100ms; --dur-slow: 100ms; }
+}
+:root[data-motion="reduce"] { --dur-fast: 0ms; --dur-base: 100ms; --dur-slow: 100ms; }
+
+/* ---------- Type utility classes (optional; Tailwind users can use text-* from tailwind-theme.css) ---------- */
+.t-display { font-family: var(--type-display-family); font-weight: var(--type-display-weight); font-size: var(--type-display-size); line-height: var(--type-display-line); }
+.t-h1 { font-family: var(--type-h1-family); font-weight: var(--type-h1-weight); font-size: var(--type-h1-size); line-height: var(--type-h1-line); }
+.t-h2 { font-family: var(--type-h2-family); font-weight: var(--type-h2-weight); font-size: var(--type-h2-size); line-height: var(--type-h2-line); }
+.t-h3 { font-family: var(--type-h3-family); font-weight: var(--type-h3-weight); font-size: var(--type-h3-size); line-height: var(--type-h3-line); }
+.t-body-lg { font-family: var(--type-body-lg-family); font-weight: var(--type-body-lg-weight); font-size: var(--type-body-lg-size); line-height: var(--type-body-lg-line); }
+.t-body { font-family: var(--type-body-family); font-weight: var(--type-body-weight); font-size: var(--type-body-size); line-height: var(--type-body-line); }
+.t-label { font-family: var(--type-label-family); font-weight: var(--type-label-weight); font-size: var(--type-label-size); line-height: var(--type-label-line); }
+.t-small { font-family: var(--type-small-family); font-weight: var(--type-small-weight); font-size: var(--type-small-size); line-height: var(--type-small-line); }
+.t-caption { font-family: var(--type-caption-family); font-weight: var(--type-caption-weight); font-size: var(--type-caption-size); line-height: var(--type-caption-line); }
+.t-numeral-xl { font-family: var(--type-numeral-xl-family); font-weight: var(--type-numeral-xl-weight); font-size: var(--type-numeral-xl-size); line-height: var(--type-numeral-xl-line); }
+.t-numeral-xl { font-variant-numeric: tabular-nums; }

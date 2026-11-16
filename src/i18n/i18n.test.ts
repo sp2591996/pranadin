@@ -1,9 +1,10 @@
 import { describe, expect, it } from "vitest";
-import { catalog, MESSAGE_KEYS } from "./catalog";
+import { masaKey, nakshatraKey, tithiKey } from "./keys";
 import { DEFAULT_TIME_ZONE, isLocale, negotiateLocale } from "./config";
 import {
   addDays,
   formatDateKey,
+  formatMessage,
   formatNumber,
   formatTime,
   interpolate,
@@ -13,10 +14,8 @@ import {
   pluralCategory,
   weekday,
 } from "./format";
-import { localizeItem, publishedOnly, resolveMessages } from "./resolve";
+import { localizeItem, resolveMessages } from "./resolve";
 
-const approved = { status: "approved" as const };
-const pending = { status: "pending" as const };
 
 describe("locale negotiation", () => {
   it("prefers a stored locale, then the browser, then English", () => {
@@ -30,59 +29,79 @@ describe("locale negotiation", () => {
 });
 
 describe("resolveMessages: per-item English fallback", () => {
-  it("uses developer placeholders when no content exists", () => {
-    const r = resolveMessages("hi");
-    expect(r.messages["nav.today"]).toBe(catalog["nav.today"].en);
-    expect(r.source["nav.today"]).toBe("placeholder");
-    expect(Object.keys(r.messages)).toHaveLength(MESSAGE_KEYS.length);
-  });
-
-  it("uses approved HI text, and English for pending or missing items", () => {
-    const en = { strings: { "nav.today": "Today", "nav.journal": "Journal" } };
+  const en = { strings: { "nav.today": "Today", "nav.journal": "Journal", "nav.practice": "Practice" } };
+  it("uses reviewed HI text, and English for unreviewed or missing items", () => {
     const hi = {
       strings: {
-        "nav.today": { text: "आज", review: approved },
-        "nav.journal": { text: "डायरी", review: pending },
+        "nav.today": { text: "आज", reviewed: true },
+        "nav.journal": { text: "डायरी", reviewed: false },
       },
     };
     const r = resolveMessages("hi", en, hi);
     expect(r.messages["nav.today"]).toBe("आज");
-    expect(r.source["nav.today"]).toBe("approved");
+    expect(r.source["nav.today"]).toBe("reviewed");
     expect(r.messages["nav.journal"]).toBe("Journal");
-    expect(r.source["nav.journal"]).toBe("content-en");
-    expect(r.source["nav.practice"]).toBe("placeholder");
+    expect(r.source["nav.journal"]).toBe("en");
+    expect(r.messages["nav.practice"]).toBe("Practice");
   });
 
-  it("never uses a translation for English, and ignores blank text", () => {
-    const hi = { strings: { "nav.today": { text: "  ", review: approved } } };
-    expect(resolveMessages("hi", null, hi).messages["nav.today"]).toBe("Today");
-    expect(resolveMessages("en", null, hi).messages["nav.today"]).toBe("Today");
+  it("never uses a translation for English, and ignores blank reviewed text", () => {
+    const hi = { strings: { "nav.today": { text: "  ", reviewed: true } } };
+    expect(resolveMessages("hi", en, hi).messages["nav.today"]).toBe("Today");
+    expect(resolveMessages("en", en, hi).messages["nav.today"]).toBe("Today");
+    expect(resolveMessages("mr", en, null).messages["nav.today"]).toBe("Today");
   });
 });
 
 describe("localizeItem", () => {
-  const item = {
-    status: "published",
-    i18n: {
-      en: { name: "Guru Nanak Jayanti", note: "Birth anniversary of Guru Nanak Dev Ji." },
-      hi: { name: "गुरु नानक जयंती", review: approved },
-      mr: { name: "गुरु नानक जयंती", note: "…", review: pending },
-    },
-  };
+  const en = { name: "Guru Nanak Gurpurab", note: "Birth anniversary of Guru Nanak Dev Ji." };
   it("returns English for en", () => {
-    expect(localizeItem(item, "en")).toMatchObject({ name: "Guru Nanak Jayanti", lang: "en", fellBack: false });
+    expect(localizeItem(en, undefined, "en")).toMatchObject({ name: en.name, lang: "en", fellBack: false });
   });
-  it("merges an approved block field by field, flagging the partial fallback", () => {
-    const r = localizeItem(item, "hi");
-    expect(r.name).toBe("गुरु नानक जयंती");
-    expect(r.note).toBe(item.i18n.en.note);
+  it("merges a reviewed item field by field, flagging a partial fallback", () => {
+    const r = localizeItem(en, { name: "गुरु नानक गुरपुरब", reviewed: true }, "hi");
+    expect(r.name).toBe("गुरु नानक गुरपुरब");
+    expect(r.note).toBe(en.note);
     expect(r.fellBack).toBe(true);
   });
-  it("falls back to the whole English item when the block is not approved", () => {
-    expect(localizeItem(item, "mr")).toMatchObject({ name: "Guru Nanak Jayanti", lang: "en", fellBack: true });
+  it("falls back to the whole English item when not reviewed", () => {
+    expect(localizeItem(en, { name: "x", note: "y", reviewed: false }, "mr")).toMatchObject({ name: en.name, lang: "en", fellBack: true });
+    expect(localizeItem(en, undefined, "mr").fellBack).toBe(true);
   });
-  it("filters to published items", () => {
-    expect(publishedOnly([{ status: "draft" }, { status: "published" }])).toHaveLength(1);
+  it("accepts a file-level review unless the item opts out", () => {
+    expect(localizeItem(en, { name: "a", note: "b" }, "hi", true)).toMatchObject({ name: "a", lang: "hi", fellBack: false });
+    expect(localizeItem(en, { name: "a", note: "b", reviewed: false }, "hi", true).lang).toBe("en");
+  });
+});
+
+describe("glossary keys", () => {
+  it("maps engine indices to Content's keys", () => {
+    expect(tithiKey(0)).toBe("tithi.1");
+    expect(tithiKey(14)).toBe("tithi.purnima");
+    expect(tithiKey(15)).toBe("tithi.1");
+    expect(tithiKey(28)).toBe("tithi.14");
+    expect(tithiKey(29)).toBe("tithi.amavasya");
+    expect(nakshatraKey(26)).toBe("nakshatra.27");
+    expect(masaKey(0)).toBe("masa.1");
+  });
+});
+
+describe("formatMessage (ICU subset)", () => {
+  it("handles plurals with # and =N, per locale", () => {
+    const tpl = "{count, plural, =0 {No days} one {# practice day} other {# practice days}}";
+    expect(formatMessage(tpl, { count: 0 }, "en")).toBe("No days");
+    expect(formatMessage(tpl, { count: 1 }, "en")).toBe("1 practice day");
+    expect(formatMessage(tpl, { count: 3 }, "en")).toBe("3 practice days");
+    expect(formatMessage("{n, plural, one {# min} other {# mins}}", { n: 1200 }, "en")).toBe("1,200 mins");
+  });
+  it("handles select and nested placeholders", () => {
+    const tpl = "{kind, select, breath {Breathe for {m} min} other {Sit for {m} min}}";
+    expect(formatMessage(tpl, { kind: "breath", m: 3 }, "en")).toBe("Breathe for 3 min");
+    expect(formatMessage(tpl, { kind: "x", m: 5 }, "en")).toBe("Sit for 5 min");
+  });
+  it("leaves unknown or missing params visible", () => {
+    expect(formatMessage("Hi {name}", undefined, "en")).toBe("Hi {name}");
+    expect(formatMessage("{count, plural, one {#} other {#}}", {}, "en")).toBe("{count, plural, one {#} other {#}}");
   });
 });
 
