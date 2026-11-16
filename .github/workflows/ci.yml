@@ -1,0 +1,36 @@
+# E-01 / ADR-010: every push and PR must pass lint, typecheck, tests and the
+# static build. No deploy step here: Vercel's Git integration builds previews
+# and production from vercel.json once the Board-approved account is linked.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm run test
+      - run: npm run build
+        env:
+          NEXT_TELEMETRY_DISABLED: "1"
+      - name: Dependency audit (production deps, high and above)
+        run: npm run audit:prod
