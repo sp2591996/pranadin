@@ -1,0 +1,184 @@
+/*
+ * Design tokens, "Prabhat" v0 (13_Design/design-system-v0.md, Direction A "Ghat at Dawn").
+ * Hand-copied by Dev-1 because 13_Design/tokens/ did not exist yet (14 Nov).
+ * DS-1 replaces this file with the generated tokens.css; keep the variable
+ * names so components do not change. Components must use semantic or
+ * component tokens only, never primitives or raw hex.
+ */
+
+:root {
+  /* ---- Primitives ---- */
+  --ivory-50: #fbf7f0;
+  --white: #ffffff;
+  --sand-100: #f3ebdd;
+  --sand-200: #e6dccd;
+  --clay-500: #8a7867;
+  --earth-600: #6b5a4b;
+  --ink-900: #2a1f17;
+  --kumkum-100: #f7e4d9;
+  --kumkum-600: #a3401c;
+  --kumkum-700: #87341a;
+  --kumkum-300: #f2a174;
+  --kumkum-200: #f7b994;
+  --tulsi-100: #e3efe7;
+  --tulsi-600: #2e6a4e;
+  --tulsi-300: #7fc6a2;
+  --marigold-400: #e5a823;
+  --marigold-300: #f2c14e;
+  --neel-700: #1d5c8a;
+  --neel-200: #8ec5f0;
+  --lamp-950: #16110d;
+  --lamp-900: #211a14;
+  --lamp-850: #2c231b;
+  --lamp-800: #3a2418;
+  --lamp-700: #3a2e24;
+  --lamp-500: #7e6d5d;
+  --parchment-400: #bba994;
+  --parchment-50: #f4ece0;
+  --red-700: #b42318;
+  --red-300: #f97066;
+  --amber-800: #8a5300;
+  --amber-300: #f5b860;
+
+  /* ---- Spacing (4px base) ---- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+
+  /* ---- Radius ---- */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* ---- Motion ---- */
+  --dur-instant: 100ms;
+  --dur-fast: 150ms;
+  --dur-base: 220ms;
+  --dur-slow: 320ms;
+  --ease-standard: cubic-bezier(0.2, 0, 0, 1);
+  --ease-exit: cubic-bezier(0.4, 0, 1, 1);
+  --ease-breath: cubic-bezier(0.37, 0, 0.63, 1);
+
+  /* ---- Typography (fonts self-hosted in DS-2; system fallbacks until then) ---- */
+  --font-display: "Eczar", "Noto Serif Devanagari", Georgia, serif;
+  --font-body: "Mukta", "Noto Sans Devanagari", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  /* ---- Layout ---- */
+  --app-bar-h: 56px;
+  --bottom-nav-h: 64px;
+  --gutter: 16px;
+
+  /* ---- Elevation (light) ---- */
+  --elev-1: 0 1px 2px rgba(42, 31, 23, 0.06), 0 1px 3px rgba(42, 31, 23, 0.04);
+  --elev-2: 0 -1px 0 var(--divider), 0 -4px 16px rgba(42, 31, 23, 0.06);
+  --elev-3: 0 12px 32px rgba(42, 31, 23, 0.14);
+  --scrim: rgba(22, 17, 13, 0.48);
+}
+
+@media (min-width: 390px) {
+  :root {
+    --gutter: 20px;
+  }
+}
+
+/* ---- Semantic: light (default) ---- */
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+  --bg: var(--ivory-50);
+  --surface: var(--white);
+  --surface-2: var(--sand-100);
+  --text: var(--ink-900);
+  --text-muted: var(--earth-600);
+  --primary: var(--kumkum-600);
+  --on-primary: var(--white);
+  --primary-pressed: var(--kumkum-700);
+  --primary-tint: var(--kumkum-100);
+  --secondary: var(--tulsi-600);
+  --on-secondary: var(--white);
+  --secondary-tint: var(--tulsi-100);
+  --accent: var(--marigold-400);
+  --border-input: var(--clay-500);
+  --divider: var(--sand-200);
+  --focus-ring: var(--neel-700);
+  --error: var(--red-700);
+  --success: var(--tulsi-600);
+  --warning: var(--amber-800);
+}
+
+/* ---- Semantic: dark (system preference unless the user chose light) ---- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: var(--lamp-950);
+    --surface: var(--lamp-900);
+    --surface-2: var(--lamp-850);
+    --text: var(--parchment-50);
+    --text-muted: var(--parchment-400);
+    --primary: var(--kumkum-300);
+    --on-primary: var(--lamp-950);
+    --primary-pressed: var(--kumkum-200);
+    --primary-tint: var(--lamp-800);
+    --secondary: var(--tulsi-300);
+    --on-secondary: var(--lamp-950);
+    --accent: var(--marigold-300);
+    --border-input: var(--lamp-500);
+    --divider: var(--lamp-700);
+    --focus-ring: var(--neel-200);
+    --error: var(--red-300);
+    --success: var(--tulsi-300);
+    --warning: var(--amber-300);
+    --elev-1: none;
+    --elev-2: 0 -1px 0 var(--divider);
+    --elev-3: none;
+  }
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: var(--lamp-950);
+  --surface: var(--lamp-900);
+  --surface-2: var(--lamp-850);
+  --text: var(--parchment-50);
+  --text-muted: var(--parchment-400);
+  --primary: var(--kumkum-300);
+  --on-primary: var(--lamp-950);
+  --primary-pressed: var(--kumkum-200);
+  --primary-tint: var(--lamp-800);
+  --secondary: var(--tulsi-300);
+  --on-secondary: var(--lamp-950);
+  --accent: var(--marigold-300);
+  --border-input: var(--lamp-500);
+  --divider: var(--lamp-700);
+  --focus-ring: var(--neel-200);
+  --error: var(--red-300);
+  --success: var(--tulsi-300);
+  --warning: var(--amber-300);
+  --elev-1: none;
+  --elev-2: 0 -1px 0 var(--divider);
+  --elev-3: none;
+}
+
+/* ---- Component tokens ---- */
+:root {
+  --button-primary-bg: var(--primary);
+  --button-primary-fg: var(--on-primary);
+  --button-primary-bg-pressed: var(--primary-pressed);
+  --nav-item-active-fg: var(--primary);
+  --nav-item-active-bg: var(--primary-tint);
+  --nav-item-fg: var(--text-muted);
+  --card-bg: var(--surface);
+  --card-border: var(--divider);
+  --breath-orb-fill: var(--primary-tint);
+  --breath-orb-ring: var(--primary);
+  --input-border: var(--border-input);
+}

@@ -1,0 +1,95 @@
+@import "tailwindcss";
+@import "../styles/tokens.css";
+
+/* Map design tokens to Tailwind utilities: bg-surface, text-text-muted, text-primary, ... */
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-primary: var(--primary);
+  --color-on-primary: var(--on-primary);
+  --color-primary-pressed: var(--primary-pressed);
+  --color-primary-tint: var(--primary-tint);
+  --color-secondary: var(--secondary);
+  --color-on-secondary: var(--on-secondary);
+  --color-accent: var(--accent);
+  --color-divider: var(--divider);
+  --color-border-input: var(--border-input);
+  --color-focus-ring: var(--focus-ring);
+  --color-error: var(--error);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+  --radius-xl: var(--radius-xl);
+}
+
+html {
+  /* Focus Not Obscured (WCAG 2.4.11): keep focused items clear of the sticky bars. */
+  scroll-padding-top: var(--app-bar-h);
+  scroll-padding-bottom: calc(var(--bottom-nav-h) + env(safe-area-inset-bottom) + var(--space-4));
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h1,
+h2 {
+  font-family: var(--font-display);
+  font-weight: 600;
+}
+h1 {
+  font-size: 28px;
+  line-height: 36px;
+}
+h2 {
+  font-size: 22px;
+  line-height: 30px;
+}
+
+/* Devanagari runs need +1px and taller line height (design-system-v0 §2). */
+:lang(hi),
+:lang(mr),
+:lang(sa) {
+  line-height: 28px;
+}
+:lang(hi) h1,
+:lang(mr) h1 {
+  line-height: 42px;
+}
+:lang(hi) h2,
+:lang(mr) h2 {
+  line-height: 34px;
+}
+:lang(hi) body,
+:lang(mr) body {
+  font-size: 17px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -7,7 +7,7 @@ import type { JournalEntry, PracticeLog } from "@/lib/types";
 import { DB_NAME, DB_VERSION, lsStoreKey } from "./schema";
 import { StorageError, type ListQuery, type Repo, type StoreSpec } from "./types";
 
-type Rec = { id: string; localDate: string } & Record<string, unknown>;
+type Rec = { id: string; localDate: string };
 
 export interface PranaDinDB extends DBSchema {
   journal: { key: string; value: JournalEntry; indexes: { createdAt: number; localDate: string } };
@@ -52,7 +52,9 @@ export function applyQuery<T extends Rec>(rows: T[], timeField: string, q: ListQ
   );
   const dir = q.direction === "asc" ? 1 : -1;
   out = out.sort((a, b) => {
-    const d = ((a[timeField] as number) - (b[timeField] as number)) * dir;
+    const ta = (a as unknown as Record<string, number>)[timeField]!;
+    const tb = (b as unknown as Record<string, number>)[timeField]!;
+    const d = (ta - tb) * dir;
     return d !== 0 ? d : a.id < b.id ? -dir : a.id > b.id ? dir : 0;
   });
   return q.limit !== undefined ? out.slice(0, Math.max(0, q.limit)) : out;
@@ -68,11 +70,6 @@ export class IdbRepo<T extends Rec> implements Repo<T> {
     private readonly spec: StoreSpec<T>,
   ) {}
 
-  private async store(mode: IDBTransactionMode) {
-    const db = await this.dbp;
-    return db.transaction(this.spec.name, mode).objectStore(this.spec.name);
-  }
-
   async list(q?: ListQuery): Promise<T[]> {
     const db = await this.dbp;
     // Fine for launch volumes (≤ a few thousand rows). Switch to an index
@@ -87,20 +84,20 @@ export class IdbRepo<T extends Rec> implements Repo<T> {
   async put(record: T): Promise<void> {
     this.spec.validate(record);
     try {
-      const s = await this.store("readwrite");
-      await s.put(clone(record) as never);
+      const db = await this.dbp;
+      await db.put(this.spec.name, clone(record) as never);
     } catch (e) {
       if ((e as DOMException)?.name === "QuotaExceededError") throw new StorageError("quota", "Device storage is full");
       throw e;
     }
   }
   async delete(id: string): Promise<void> {
-    const s = await this.store("readwrite");
-    await s.delete(id);
+    const db = await this.dbp;
+    await db.delete(this.spec.name, id);
   }
   async clear(): Promise<void> {
-    const s = await this.store("readwrite");
-    await s.clear();
+    const db = await this.dbp;
+    await db.clear(this.spec.name);
   }
   async count(): Promise<number> {
     const db = await this.dbp;
