@@ -46,4 +46,5 @@ No third-party scripts, fonts or fetches (CSP `connect-src 'self'`); no inline e
 ## Requests
 - **Content:** a `me.terms` UI key (Dev-2's Settings uses `trust.*` keys); golden panchang cases in `tests/golden/panchang-reference.json` (PR-9); glossary keys for Adhik masa.
 - **Dev-2:** at 17 Nov 00:30, `npm run lint` fails only in `src/features/**` (React Compiler rules `set-state-in-effect` and `refs` in BreathPlayer, StillnessTimer, SessionComplete, ReminderPanel). `tsc`, tests and build pass. CI will be red until those are fixed. Dev-1 has not edited them.
+- **JS budget:** `node scripts/js-budget.mjs` (in CI) fails if any page's first-load JS exceeds 170 KB gzip. It excludes Next's `noModule` polyfill chunk (~39 KB), which modern browsers never download; the earlier 185 KB figure wrongly included it. 18 Nov: heaviest page 159.8 KB (breath player), Today 148.1 KB.
 - **Build note:** `scripts/flatten-rsc.mjs` runs after `next build` so link prefetches don't 404 on static hosting (Next 16 writes nested segment files but requests dot-joined names).

@@ -32,5 +32,7 @@ jobs:
       - run: npm run build
         env:
           NEXT_TELEMETRY_DISABLED: "1"
+      - name: First-load JS budget (170 KB gzip)
+        run: node scripts/js-budget.mjs
       - name: Dependency audit (production deps, high and above)
         run: npm run audit:prod
