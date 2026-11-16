@@ -23,7 +23,9 @@
       ],
       "defaultMinutes": 3,
       "cautionKey": "safety.caution",
-      "safetyReviewed": false
+      "safetyReviewed": true,
+      "safetyReviewedBy": "Board",
+      "safetyReviewedOn": "2026-11-17"
     },
     {
       "id": "breath.deergha",
@@ -43,7 +45,9 @@
       ],
       "defaultMinutes": 3,
       "cautionKey": "safety.caution",
-      "safetyReviewed": false
+      "safetyReviewed": true,
+      "safetyReviewedBy": "Board",
+      "safetyReviewedOn": "2026-11-17"
     },
     {
       "id": "breath.nadi-shodhana",
@@ -77,7 +81,9 @@
       ],
       "defaultMinutes": 3,
       "cautionKey": "safety.caution",
-      "safetyReviewed": false
+      "safetyReviewed": true,
+      "safetyReviewedBy": "Board",
+      "safetyReviewedOn": "2026-11-17"
     },
     {
       "id": "breath.bhramari",
@@ -97,7 +103,9 @@
       ],
       "defaultMinutes": 3,
       "cautionKey": "safety.caution",
-      "safetyReviewed": false
+      "safetyReviewed": true,
+      "safetyReviewedBy": "Board",
+      "safetyReviewedOn": "2026-11-17"
     }
   ],
   "meditations": [

@@ -1,0 +1,941 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "ui",
+  "lang": "hi",
+  "version": "2026-11-14.1",
+  "status": "final",
+  "note": "Board-approved translations only (D-012). Anything missing shows in English.",
+  "count": 155,
+  "strings": {
+    "common.appName": {
+      "text": "प्राणदिन",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.tagline": {
+      "text": "रोज़ की साँस",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.continue": {
+      "text": "आगे बढ़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.back": {
+      "text": "वापस",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.skip": {
+      "text": "छोड़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.done": {
+      "text": "हो गया",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.close": {
+      "text": "बंद करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.cancel": {
+      "text": "रद्द करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.save": {
+      "text": "सहेजें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.edit": {
+      "text": "बदलें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.delete": {
+      "text": "मिटाएँ",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.keep": {
+      "text": "रहने दें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.change": {
+      "text": "बदलें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.start": {
+      "text": "शुरू करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.pause": {
+      "text": "रोकें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.resume": {
+      "text": "फिर शुरू करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.end": {
+      "text": "समाप्त करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.retry": {
+      "text": "फिर कोशिश करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.readMore": {
+      "text": "और पढ़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.notNow": {
+      "text": "अभी नहीं",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.optional": {
+      "text": "वैकल्पिक",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.loading": {
+      "text": "लोड हो रहा है…",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.beta": {
+      "text": "बीटा",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.on": {
+      "text": "चालू",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.off": {
+      "text": "बंद",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.today": {
+      "text": "आज",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.tomorrow": {
+      "text": "कल",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.minutesShort": {
+      "text": "{count} मिनट",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "common.minutesLong": {
+      "text": "{count} मिनट",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "nav.today": {
+      "text": "आज",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "nav.practice": {
+      "text": "साधना",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "nav.calendar": {
+      "text": "कैलेंडर",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "nav.journal": {
+      "text": "डायरी",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "nav.me": {
+      "text": "मेरा",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.progress": {
+      "text": "चरण {current} / {total}",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.lang.title": {
+      "text": "अपनी भाषा चुनें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.lang.hint": {
+      "text": "इसे कभी भी 'मेरा' में बदला जा सकता है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.welcome.title": {
+      "text": "प्राणदिन में आपका स्वागत है",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.welcome.body": {
+      "text": "रोज़ कुछ मिनट श्वास, ध्यान और चिंतन के लिए, साथ में कई परंपराओं के पर्व और पावन दिन।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.welcome.point1": {
+      "text": "कोई खाता नहीं चाहिए। आपकी साधना और डायरी इसी फ़ोन पर रहती है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.welcome.point2": {
+      "text": "बीटा के दौरान मुफ़्त, कोई विज्ञापन नहीं।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.welcome.point3": {
+      "text": "हम अपने स्रोत बताते हैं, और हर हिंदी व मराठी पाठ दिखने से पहले एक व्यक्ति उसे जाँचता है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.welcome.cta": {
+      "text": "शुरू करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.safety.title": {
+      "text": "शुरू करने से पहले",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.safety.body": {
+      "text": "प्राणदिन सौम्य श्वास और ध्यान अभ्यास, और परंपराओं व पर्वों की जानकारी देता है। यह चिकित्सा सलाह नहीं है, और डॉक्टर, थेरेपिस्ट या आपके अपने गुरु की जगह नहीं लेता।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.safety.point1": {
+      "text": "धीरे-धीरे करें। दर्द, चक्कर, साँस फूलने या घबराहट पर रुक जाएँ।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.safety.point2": {
+      "text": "अगर आप गर्भवती हैं, या आपको हृदय रोग, उच्च या निम्न रक्तचाप, ग्लूकोमा, मिर्गी, हाल की सर्जरी या चोट, या कोई मानसिक स्वास्थ्य समस्या है, तो पहले डॉक्टर से पूछें।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.safety.point3": {
+      "text": "आपातकाल में 112 पर कॉल करें। मानसिक स्वास्थ्य सहायता के लिए टेली-मानस 14416 पर कॉल करें (टोल-फ़्री)।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.safety.cta": {
+      "text": "समझ गए, आगे बढ़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.safety.more": {
+      "text": "पूरी स्वास्थ्य सूचना पढ़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.goal.title": {
+      "text": "किस बात में मदद चाहिए?",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.goal.hint": {
+      "text": "कोई एक चुनें। इसे बाद में बदला जा सकता है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.calm": {
+      "text": "मन को शांत करना",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.calm.desc": {
+      "text": "धीमी, स्थिर साँस और थोड़ी देर बैठना",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.sleep": {
+      "text": "बेहतर नींद",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.sleep.desc": {
+      "text": "शाम को लंबी, सहज साँस छोड़ना और शरीर पर ध्यान",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.focus": {
+      "text": "एकाग्रता",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.focus.desc": {
+      "text": "ध्यान टिकाने के लिए बराबर साँस और गिनती",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.devotion": {
+      "text": "भक्ति और जुड़ाव",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.devotion.desc": {
+      "text": "गुंजन वाली साँस और किसी प्रिय शब्द या नाम का मौन जप",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.explore": {
+      "text": "बस जानना है",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "goal.explore.desc": {
+      "text": "हर दिन कुछ अलग",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.time.title": {
+      "text": "रोज़ कितना समय है?",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.time.hint": {
+      "text": "5 मिनट भी अच्छी शुरुआत है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.when.title": {
+      "text": "साधना के लिए कौन-सा समय ठीक रहेगा?",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "when.morning": {
+      "text": "सुबह",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "when.evening": {
+      "text": "शाम",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "when.any": {
+      "text": "जब भी सुविधा हो",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "onb.finish": {
+      "text": "मेरी साधना दिखाएँ",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.greeting.morning": {
+      "text": "सुप्रभात",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.greeting.afternoon": {
+      "text": "नमस्ते",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.greeting.evening": {
+      "text": "शुभ संध्या",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.dateLine": {
+      "text": "{weekday}, {date}",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.title": {
+      "text": "आज की साधना",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.summary": {
+      "text": "{steps} चरण · {minutes} मिनट",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.begin": {
+      "text": "चरण {n} शुरू करें ({minutes} मिनट)",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.continue": {
+      "text": "चरण {n} के साथ आगे बढ़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.allDone": {
+      "text": "आज की साधना पूरी हुई।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.allDoneSub": {
+      "text": "कल फिर आएँ, दो मिनट के लिए ही सही।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.swap": {
+      "text": "बदलें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.swapTitle": {
+      "text": "कोई दूसरी साधना चुनें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.plan.swapHint": {
+      "text": "उतना ही समय, अलग साधना।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.first": {
+      "text": "आपकी पहली साधना तैयार है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.welcomeBack.title": {
+      "text": "फिर से स्वागत है",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.welcomeBack.body": {
+      "text": "तीन मिनट से फिर शुरू करें। पिछले दिन भी गिने जाते हैं।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "step.breath": {
+      "text": "श्वास",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "step.stillness": {
+      "text": "ध्यान",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "step.reflection": {
+      "text": "चिंतन",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "step.done": {
+      "text": "हो गया",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.observance.banner": {
+      "text": "आज: {name}",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.observance.upcoming": {
+      "text": "आने वाले",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.observance.mayVary": {
+      "text": "तिथि क्षेत्र के अनुसार बदल सकती है",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "today.observance.moon": {
+      "text": "चाँद दिखने पर निर्भर",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.title": {
+      "text": "साधना",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.breathe.title": {
+      "text": "श्वास",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.breathe.sub": {
+      "text": "निर्देशित श्वास, 2 से 10 मिनट",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.meditate.title": {
+      "text": "ध्यान",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.meditate.sub": {
+      "text": "सौम्य मार्गदर्शन के साथ शांत टाइमर",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.duration": {
+      "text": "अवधि",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.durationPick": {
+      "text": "मिनट चुनें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.ambience": {
+      "text": "पृष्ठभूमि ध्वनि",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "ambience.silence": {
+      "text": "मौन",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "ambience.rain": {
+      "text": "बारिश",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "ambience.river": {
+      "text": "नदी",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "practice.ambienceNote": {
+      "text": "ये ध्वनियाँ आपके फ़ोन पर ही बनती हैं। कुछ भी डाउनलोड नहीं होता।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.what": {
+      "text": "यह क्या है",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.how": {
+      "text": "कैसे करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.skipIf": {
+      "text": "यह न करें, यदि",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.stopIf": {
+      "text": "रुक जाएँ, यदि",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.rhythm": {
+      "text": "लय",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.rhythmValue": {
+      "text": "श्वास लें {in} · छोड़ें {out} सेकंड",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.level.gentle": {
+      "text": "सौम्य",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.noHold": {
+      "text": "साँस रोकनी नहीं है",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.startBreathing": {
+      "text": "श्वास-अभ्यास शुरू करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "tech.firstTime": {
+      "text": "पहली बार से पहले",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "safety.title": {
+      "text": "सुरक्षित अभ्यास",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "safety.caution": {
+      "text": "धीरे-धीरे करें, और चक्कर, साँस फूलने या अस्वस्थता महसूस हो तो रुक जाएँ। इनमें से किसी भी अभ्यास में साँस रोकनी नहीं है। अगर आप गर्भवती हैं, या आपको हृदय, फेफड़े या रक्तचाप की कोई समस्या है, तो शुरू करने से पहले अपने डॉक्टर से पूछें। यह स्वास्थ्य-सुख का अभ्यास है, चिकित्सा उपचार नहीं।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "safety.short": {
+      "text": "चक्कर या अस्वस्थता हो तो रुक जाएँ।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.inhale": {
+      "text": "साँस लें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.exhale": {
+      "text": "साँस छोड़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.hum": {
+      "text": "साँस छोड़ते हुए गुनगुनाएँ",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.inLeft": {
+      "text": "बाईं नासिका से साँस लें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.outRight": {
+      "text": "दाईं नासिका से साँस छोड़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.inRight": {
+      "text": "दाईं नासिका से साँस लें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.outLeft": {
+      "text": "बाईं नासिका से साँस छोड़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.rest": {
+      "text": "सामान्य रूप से साँस लें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.getReady": {
+      "text": "आराम से बैठें। {seconds} सेकंड में शुरू होगा।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.round": {
+      "text": "चक्र {n}",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.paused": {
+      "text": "रुका हुआ",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.resumePrompt": {
+      "text": "आप सत्र से बाहर चले गए थे। फिर शुरू करें या समाप्त करें?",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.endTitle": {
+      "text": "यह सत्र समाप्त करें?",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.endBody": {
+      "text": "अभी समाप्त करने पर यह चरण पूरा नहीं माना जाएगा।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.endConfirm": {
+      "text": "सत्र समाप्त करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.endKeep": {
+      "text": "जारी रखें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.chime": {
+      "text": "हर बदलाव पर हल्की घंटी",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "breath.screenOn": {
+      "text": "अभ्यास के दौरान स्क्रीन चालू रहेगी।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "timer.title": {
+      "text": "ध्यान",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "timer.focus": {
+      "text": "ध्यान का आधार",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "focus.breath": {
+      "text": "श्वास पर ध्यान",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "focus.bodyScan": {
+      "text": "शरीर पर ध्यान",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "focus.repetition": {
+      "text": "मौन जप",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "timer.intervalBell": {
+      "text": "बीच-बीच में घंटी",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "timer.intervalEvery": {
+      "text": "हर {minutes} मिनट",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "timer.muted": {
+      "text": "आपके फ़ोन की आवाज़ बंद है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "timer.showGuidance": {
+      "text": "मार्गदर्शन दिखाएँ",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "timer.hideGuidance": {
+      "text": "मार्गदर्शन छिपाएँ",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "timer.endEarly": {
+      "text": "पहले समाप्त करें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "complete.title": {
+      "text": "बहुत अच्छा",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "complete.summary": {
+      "text": "{minutes} मिनट {type}",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "complete.addReflection": {
+      "text": "एक चिंतन लिखें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "complete.next": {
+      "text": "अगला: {step}",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "complete.doneForNow": {
+      "text": "अभी के लिए बस",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "reminder.cr01.button": {
+      "text": "मेरे कैलेंडर में रोज़ की याद जोड़ें",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "reminder.cr01.explainer": {
+      "text": "हम रोज़ {time} बजे के इवेंट वाली एक कैलेंडर फ़ाइल बनाएँगे। उसे खोलकर याद अपने फ़ोन के कैलेंडर में जोड़ें। हमें कुछ नहीं भेजा जाता।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "reminder.cr01.change": {
+      "text": "समय 'मेरा' में 'रोज़ की याद' के अंतर्गत बदला जा सकता है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    }
+  }
+}

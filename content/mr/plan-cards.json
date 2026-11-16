@@ -1,0 +1,94 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "plan-cards",
+  "lang": "mr",
+  "version": "2026-11-14.1",
+  "status": "final",
+  "note": "Board-approved translations only (D-012). Anything missing shows in English.",
+  "cards": {
+    "card.breath.sama-vritti": {
+      "title": "समान श्वास",
+      "body": "4 पर्यंत श्वास घ्या आणि 4 पर्यंत सोडा, सहज आणि शांत. सुरुवातीचा एक स्थिर मार्ग.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.breath.deergha": {
+      "title": "तीन टप्प्यांचा श्वास",
+      "body": "पोट, बरगड्या, मग छाती भरा. श्वास सोडणे घेण्यापेक्षा थोडे लांब ठेवा.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.breath.nadi-shodhana": {
+      "title": "अनुलोम-विलोम",
+      "body": "एका नाकपुडीने श्वास घ्या, दुसरीने सोडा. सौम्य, श्वास न रोखता.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.breath.bhramari": {
+      "title": "भ्रामरी: गुंजारव श्वास",
+      "body": "श्वास घ्या, मग सोडताना हलका गुंजारव करा. हवा तितका मंद.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.stillness.breath": {
+      "title": "श्वासासोबत बसा",
+      "body": "श्वास आपोआप चालू द्या. मन भटकले की पुढच्या श्वासाकडे परत या.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.stillness.body-scan": {
+      "title": "शरीरावर लक्ष",
+      "body": "लक्ष पावलांपासून डोक्यापर्यंत हळूहळू न्या. फक्त पाहा; काहीही दुरुस्त करायचे नाही.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.stillness.repetition": {
+      "title": "मौन जप",
+      "body": "प्रत्येक श्वासासोबत प्रिय शब्द किंवा नाम मनात म्हणा, किंवा 'सोऽहम्'.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.one-word": {
+      "title": "आजसाठी एक शब्द",
+      "body": "आत्ता मन कसे आहे, यासाठी एक शब्द लिहा. फक्त एक.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.gratitude": {
+      "title": "आज कशाबद्दल कृतज्ञता",
+      "body": "आज ज्या गोष्टीबद्दल किंवा व्यक्तीबद्दल कृतज्ञ वाटते, त्यावर एक ओळ लिहा.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.intention": {
+      "title": "एक संकल्प",
+      "body": "आज करायची एक छोटी गोष्ट लिहा, आणि ती कोणत्या भावनेने करायची तेही.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.notice": {
+      "title": "एक गोष्ट टिपा",
+      "body": "साधनेदरम्यान काय जाणवले? एखादा आवाज, विचार किंवा भावना. ते लिहून ठेवा.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.kindness": {
+      "title": "एक छोटासा चांगुलपणा",
+      "body": "आज कोणासाठी तरी करता येईल असा एक छोटासा चांगुलपणा आठवा. कोणासाठी आणि काय, ते लिहा.",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    }
+  }
+}

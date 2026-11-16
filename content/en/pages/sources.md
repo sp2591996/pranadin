@@ -1,5 +1,5 @@
 ---
-id: page.sources-credits
+id: page.sources
 title: Sources and credits
 lang: en
 version: 2026-11-14.1

@@ -26,7 +26,7 @@ PranaDin (प्राणदिन) means "daily breath". It gives you a short p
 
 ## How we choose what to publish
 
-Every festival date is checked against two published sources before it appears. Every breathing practice uses our own wording and follows published guidance, such as the Ministry of AYUSH Common Yoga Protocol. You can see each source on our [Sources and credits](sources-credits) page.
+Every festival date is checked against two published sources before it appears. Every breathing practice uses our own wording and follows published guidance, such as the Ministry of AYUSH Common Yoga Protocol. You can see each source on our [Sources and credits](sources) page.
 
 ## This is a beta
 

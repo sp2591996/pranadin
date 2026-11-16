@@ -1,0 +1,266 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "observances",
+  "lang": "hi",
+  "version": "2026-11-14.1",
+  "status": "final",
+  "note": "Names are Board-approved. Notes are not translated yet: 'note' repeats the English note because the schema requires one (noteLang: en).",
+  "items": {
+    "obs.2026.prabodhini-ekadashi": {
+      "name": "देवउठनी (प्रबोधिनी) एकादशी",
+      "note": "Marks the end of Chaturmas. In Maharashtra, many devotees walk to Pandharpur for Kartiki Ekadashi; Vaishnava calendars observe it on 21 November.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.tulsi-vivah": {
+      "name": "तुलसी विवाह",
+      "note": "The ceremonial marriage of the tulsi plant to Vishnu, celebrated in many homes. Families keep it on different days in this week.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.kartik-purnima": {
+      "name": "कार्तिक पूर्णिमा और देव दीपावली",
+      "note": "The full moon of Kartik. Many people take a ritual bath and light lamps; in Varanasi the ghats are lit for Dev Deepawali.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.guru-nanak-gurpurab": {
+      "name": "गुरु नानक गुरपुरब (प्रकाश पर्व)",
+      "note": "The birth anniversary of Guru Nanak Dev Ji, the first Sikh Guru. Gurdwaras hold kirtan, prabhat pheris and langar open to all.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.advent-sunday": {
+      "name": "आगमन काल का पहला रविवार",
+      "note": "The start of the Christian liturgical year and four weeks of preparation for Christmas.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.st-francis-xavier": {
+      "name": "संत फ्रांसिस ज़ेवियर का पर्व",
+      "note": "Goa's patron saint, whose relics are kept at the Basilica of Bom Jesus in Old Goa. Pilgrims of many faiths attend the feast.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.hanukkah": {
+      "name": "हनुक्का",
+      "note": "The eight-night Jewish festival of lights, remembering the rededication of the Temple in Jerusalem. A lamp is lit each evening, from 4 to 12 December.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.mahaparinirvan-din": {
+      "name": "महापरिनिर्वाण दिवस",
+      "note": "The death anniversary of Dr B. R. Ambedkar in 1956. Large numbers, many of them Ambedkarite Buddhists, gather at Chaitya Bhoomi in Mumbai to pay respects.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.bodhi-day": {
+      "name": "बोधि दिवस",
+      "note": "Marks the Buddha's enlightenment in Japanese and some other Mahayana traditions. Theravada Buddhists remember it on Vesak, in April or May.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.gita-jayanti": {
+      "name": "गीता जयंती",
+      "note": "Remembers the day the Bhagavad Gita is traditionally said to have been spoken. It falls on Mokshada Ekadashi; many read or recite the Gita.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.datta-jayanti": {
+      "name": "दत्त जयंती",
+      "note": "The birth anniversary of Dattatreya, on Margashirsha Purnima. Widely observed in Maharashtra and Karnataka at Datta temples.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.hazrat-ali-birthday": {
+      "name": "हज़रत अली का जन्मदिवस",
+      "note": "Remembers the birth of Ali ibn Abi Talib, on 13 Rajab. The date depends on the sighting of the moon.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2026.christmas": {
+      "name": "क्रिसमस (बड़ा दिन)",
+      "note": "Christians celebrate the birth of Jesus with midnight Mass, carols and time with family.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.lohri": {
+      "name": "लोहड़ी",
+      "note": "A winter harvest festival of Punjab, celebrated around a bonfire on the eve of Maghi. Some calendars list it on 14 January.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.makar-sankranti": {
+      "name": "मकर संक्रांति",
+      "note": "The sun's move into Makara (Capricorn). Many observe it on 14 January and others on the morning of 15 January; in Maharashtra, til-gul is shared.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.pongal": {
+      "name": "पोंगल",
+      "note": "The Tamil harvest festival. Rice is boiled in new pots until it overflows, as thanks for the harvest.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.guru-gobind-singh-prakash": {
+      "name": "गुरु गोबिंद सिंह जी का प्रकाश पर्व",
+      "note": "The birth anniversary of Guru Gobind Singh Ji, the tenth Sikh Guru. Some Sikh calendars mark it on a different January date.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.thaipusam": {
+      "name": "थाईपूसम",
+      "note": "A Tamil festival for Murugan on the full moon of the month of Thai. Devotees offer prayers, and some carry kavadi in procession.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.republic-day": {
+      "name": "गणतंत्र दिवस",
+      "note": "The day the Constitution of India came into force in 1950.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.ramadan-begins": {
+      "name": "रमज़ान की शुरुआत (अपेक्षित)",
+      "note": "The month of fasting from dawn to sunset begins. The start depends on the sighting of the new moon.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.ash-wednesday": {
+      "name": "राख बुधवार (ऐश वेडनेसडे)",
+      "note": "The first day of Lent, a season of prayer and fasting before Easter.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.ganesh-jayanti": {
+      "name": "गणेश जयंती (माघी)",
+      "note": "The birth anniversary of Ganesha in the month of Magha, observed especially in Maharashtra and at Ganesha temples.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.vasant-panchami": {
+      "name": "वसंत पंचमी",
+      "note": "Welcomes spring. Many honour Saraswati, the goddess of learning, and some children begin their first letters on this day.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.ratha-saptami": {
+      "name": "रथ सप्तमी",
+      "note": "A day for honouring Surya, the sun, at sunrise.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.guru-ravidas-jayanti": {
+      "name": "गुरु रविदास जयंती",
+      "note": "The birth anniversary of Sant Guru Ravidas, whose hymns are part of the Guru Granth Sahib. Observed on Magha Purnima.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.jamat-ul-vida": {
+      "name": "जमात-उल-विदा (अपेक्षित)",
+      "note": "The last Friday of Ramadan, marked by special congregational prayers. The date depends on the moon.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.maha-shivaratri": {
+      "name": "महाशिवरात्रि",
+      "note": "A night for Shiva. Many keep a fast and a night vigil with prayer.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.eid-al-fitr": {
+      "name": "ईद-उल-फ़ित्र (अपेक्षित)",
+      "note": "Marks the end of Ramadan with prayers, charity and meals with family and friends. It may fall on 11 March, depending on the moon.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.holika-dahan": {
+      "name": "होलिका दहन",
+      "note": "Bonfires are lit on the eve of Holi. Devotees recount the story of Prahlad's faith.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.holi": {
+      "name": "होली",
+      "note": "The festival of colours, welcoming spring. In some states the public holiday is on 23 March.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.good-friday": {
+      "name": "गुड फ्राइडे",
+      "note": "Christians remember the crucifixion of Jesus with prayer and quiet services.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "obs.2027.easter": {
+      "name": "ईस्टर",
+      "note": "Christians celebrate the resurrection of Jesus.",
+      "noteLang": "en",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    }
+  }
+}

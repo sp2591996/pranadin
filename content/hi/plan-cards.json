@@ -1,0 +1,94 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "plan-cards",
+  "lang": "hi",
+  "version": "2026-11-14.1",
+  "status": "final",
+  "note": "Board-approved translations only (D-012). Anything missing shows in English.",
+  "cards": {
+    "card.breath.sama-vritti": {
+      "title": "बराबर साँस",
+      "body": "4 तक साँस लें और 4 तक छोड़ें, सहज और शांत। शुरुआत का एक स्थिर तरीका।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.breath.deergha": {
+      "title": "तीन भागों वाली साँस",
+      "body": "पेट, पसलियाँ, फिर छाती भरें। साँस छोड़ना, लेने से थोड़ा लंबा रखें।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.breath.nadi-shodhana": {
+      "title": "अनुलोम-विलोम",
+      "body": "एक नासिका से साँस लें, दूसरी से छोड़ें। सौम्य, साँस रोके बिना।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.breath.bhramari": {
+      "title": "भ्रामरी: गुंजन वाली साँस",
+      "body": "साँस लें, फिर छोड़ते हुए हल्के से गुनगुनाएँ। जितना चाहें, उतना धीमा।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.stillness.breath": {
+      "title": "साँस के साथ बैठें",
+      "body": "साँस को अपने-आप चलने दें। मन भटके तो अगली साँस पर लौट आएँ।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.stillness.body-scan": {
+      "title": "शरीर पर ध्यान",
+      "body": "ध्यान को पैरों से सिर तक धीरे-धीरे ले जाएँ। बस देखें; कुछ ठीक नहीं करना है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.stillness.repetition": {
+      "title": "मौन जप",
+      "body": "हर साँस के साथ किसी प्रिय शब्द या नाम को मन में दोहराएँ, या 'सोऽहम्'।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.one-word": {
+      "title": "आज के लिए एक शब्द",
+      "body": "अभी मन कैसा है, इसके लिए एक शब्द लिखें। बस एक।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.gratitude": {
+      "title": "आज किस बात का आभार",
+      "body": "आज जिस बात या व्यक्ति के लिए मन आभारी है, उस पर एक पंक्ति लिखें।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.intention": {
+      "title": "एक संकल्प",
+      "body": "आज करने की एक छोटी बात लिखें, और उसे किस भाव से करना है।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.notice": {
+      "title": "एक बात पर ध्यान",
+      "body": "साधना के दौरान क्या महसूस हुआ? कोई आवाज़, विचार या भाव। उसे लिख लें।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    },
+    "card.reflect.kindness": {
+      "title": "एक छोटी-सी भलाई",
+      "body": "आज किसी के लिए की जा सकने वाली एक छोटी भलाई सोचें। किसके लिए और क्या, लिखें।",
+      "reviewed": true,
+      "reviewer": "Board",
+      "reviewedOn": "2026-11-17"
+    }
+  }
+}
