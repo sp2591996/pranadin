@@ -1,0 +1,110 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "practices",
+  "lang": "en",
+  "version": "2026-11-14.1",
+  "status": "final",
+  "techniques": {
+    "breath.sama-vritti": {
+      "name": "Sama Vritti",
+      "subtitle": "Equal breathing",
+      "what": "Breathing in and out for the same count. Sama vritti is Sanskrit for \"equal movement\". Many people find the steady rhythm settling.",
+      "steps": [
+        "Sit comfortably with your back upright but not stiff, or lie down.",
+        "Breathe in through your nose for a count of 4.",
+        "Breathe out through your nose for a count of 4.",
+        "Keep the breath smooth and quiet, with no pause and no holding.",
+        "If 4 feels long, breathe more softly or at your own pace."
+      ],
+      "skipIf": [
+        "Your nose is blocked. Breathe gently through your mouth, or choose a meditation today."
+      ]
+    },
+    "breath.deergha": {
+      "name": "Deergha Pranayama",
+      "subtitle": "Three-part breath",
+      "what": "A slow, full breath that fills the belly, then the ribs, then the upper chest, and empties in the same easy way. Deergha means \"long\". Here the out-breath is a little longer than the in-breath.",
+      "steps": [
+        "Sit or lie down and rest one hand on your belly and one on your chest.",
+        "Breathe in through your nose for 4: let the belly rise, then the ribs widen, then the chest lift a little.",
+        "Breathe out through your nose for 6, letting the chest, the ribs and then the belly soften.",
+        "Keep it easy. The breath should never feel forced.",
+        "If the counts feel long, take smaller breaths at the same pace."
+      ],
+      "skipIf": [
+        "You have had surgery on your belly or chest recently."
+      ]
+    },
+    "breath.nadi-shodhana": {
+      "name": "Nadi Shodhana",
+      "subtitle": "Alternate-nostril breathing",
+      "what": "Breathing in through one nostril and out through the other, then the other way round. It is also called Anulom Vilom. This beginner version has no breath-holding.",
+      "steps": [
+        "Sit upright and rest your left hand on your knee.",
+        "Use your right thumb to close the right nostril and your ring finger to close the left.",
+        "Close the right nostril and breathe in through the left for 4. Close the left, open the right, and breathe out for 4.",
+        "Breathe in through the right for 4. Close it, open the left, and breathe out for 4. That is one round.",
+        "Press lightly. If your arm tires, lower it and breathe normally for a moment."
+      ],
+      "skipIf": [
+        "Your nose is blocked or you have a cold."
+      ]
+    },
+    "breath.bhramari": {
+      "name": "Bhramari",
+      "subtitle": "Humming-bee breath",
+      "what": "A slow breath out with a soft, steady hum, like a bee. Bhramara is Sanskrit for a black bee. The sound can be as quiet as you like.",
+      "steps": [
+        "Sit comfortably and close your eyes if you like.",
+        "Breathe in slowly through your nose for 4.",
+        "With your lips closed, breathe out for 6 while making a soft \"mmm\" hum.",
+        "If you like, rest your index fingers lightly on the small flap at the front of each ear. Never press hard.",
+        "Let the hum fade naturally. Take a normal breath whenever you need one."
+      ],
+      "skipIf": [
+        "You have an ear or nose infection."
+      ]
+    }
+  },
+  "meditations": {
+    "med.breath-awareness": {
+      "title": "Breath awareness",
+      "guidance": [
+        "Sit in a way that lets you stay still and alert: on a chair, a cushion or the floor. Rest your hands. Close your eyes, or lower your gaze.",
+        "Let the breath move on its own. You don't need to change it.",
+        "Notice where you feel it most clearly: the cool air at the nostrils, or the rise and fall of the belly. Rest your attention there.",
+        "Your mind will wander. That is normal. When you notice it has wandered, come back gently to the next breath. Coming back is the practice.",
+        "If it helps, count each out-breath from 1 to 10, then start again at 1."
+      ],
+      "repetitionVariant": "If you prefer, silently repeat a word or name you hold dear with each breath. Some people use \"so\" on the in-breath and \"ham\" on the out-breath (so'ham, an old Sanskrit phrase often read as \"I am that\"). Any word that matters to you is fine.",
+      "cues": [
+        "If your mind has wandered, come back to the breath.",
+        "Still here. Just the next breath.",
+        "Nearly done. Stay with the breath."
+      ],
+      "closing": "When the bell sounds, take one fuller breath. Open your eyes slowly and notice how you feel.",
+      "note": "Meditation can sometimes bring up strong feelings or memories. You can open your eyes, move or stop at any time."
+    },
+    "med.body-scan": {
+      "title": "Body scan",
+      "guidance": [
+        "Sit or lie down comfortably. Close your eyes if you like.",
+        "Take two slow breaths, letting each out-breath be a little longer.",
+        "Bring your attention to your feet. Notice whatever is there: warmth, pressure, tingling, or nothing much. There is nothing to fix.",
+        "Slowly move your attention up through the ankles, calves, knees and thighs, then the hips, lower back, belly, chest and upper back.",
+        "Notice your hands, arms and shoulders. Let the shoulders drop a little.",
+        "Move to the neck, jaw, face and the top of the head. Soften the jaw and the space between the eyebrows.",
+        "Finally, feel the whole body at once, breathing. If you find tension, you don't need to make it go. Notice it, and keep moving."
+      ],
+      "cues": [
+        "Start with your feet.",
+        "Legs, hips and lower back.",
+        "Belly, chest, hands and arms.",
+        "Neck, jaw and face.",
+        "The whole body, breathing."
+      ],
+      "closing": "When the bell sounds, move your fingers and toes. Open your eyes slowly.",
+      "note": "Meditation can sometimes bring up strong feelings or memories. You can open your eyes, move or stop at any time."
+    }
+  }
+}

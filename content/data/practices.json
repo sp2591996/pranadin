@@ -1,0 +1,141 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "practices-data",
+  "lang": "none",
+  "version": "2026-11-14.1",
+  "status": "final",
+  "techniques": [
+    {
+      "id": "breath.sama-vritti",
+      "level": "gentle",
+      "retention": false,
+      "pattern": [
+        {
+          "phase": "inhale",
+          "labelKey": "breath.inhale",
+          "seconds": 4
+        },
+        {
+          "phase": "exhale",
+          "labelKey": "breath.exhale",
+          "seconds": 4
+        }
+      ],
+      "defaultMinutes": 3,
+      "cautionKey": "safety.caution",
+      "safetyReviewed": false
+    },
+    {
+      "id": "breath.deergha",
+      "level": "gentle",
+      "retention": false,
+      "pattern": [
+        {
+          "phase": "inhale",
+          "labelKey": "breath.inhale",
+          "seconds": 4
+        },
+        {
+          "phase": "exhale",
+          "labelKey": "breath.exhale",
+          "seconds": 6
+        }
+      ],
+      "defaultMinutes": 3,
+      "cautionKey": "safety.caution",
+      "safetyReviewed": false
+    },
+    {
+      "id": "breath.nadi-shodhana",
+      "level": "gentle",
+      "retention": false,
+      "pattern": [
+        {
+          "phase": "inhale",
+          "side": "left",
+          "labelKey": "breath.inLeft",
+          "seconds": 4
+        },
+        {
+          "phase": "exhale",
+          "side": "right",
+          "labelKey": "breath.outRight",
+          "seconds": 4
+        },
+        {
+          "phase": "inhale",
+          "side": "right",
+          "labelKey": "breath.inRight",
+          "seconds": 4
+        },
+        {
+          "phase": "exhale",
+          "side": "left",
+          "labelKey": "breath.outLeft",
+          "seconds": 4
+        }
+      ],
+      "defaultMinutes": 3,
+      "cautionKey": "safety.caution",
+      "safetyReviewed": false
+    },
+    {
+      "id": "breath.bhramari",
+      "level": "gentle",
+      "retention": false,
+      "pattern": [
+        {
+          "phase": "inhale",
+          "labelKey": "breath.inhale",
+          "seconds": 4
+        },
+        {
+          "phase": "hum",
+          "labelKey": "breath.hum",
+          "seconds": 6
+        }
+      ],
+      "defaultMinutes": 3,
+      "cautionKey": "safety.caution",
+      "safetyReviewed": false
+    }
+  ],
+  "meditations": [
+    {
+      "id": "med.breath-awareness",
+      "focusKey": "focus.breath",
+      "cues": [
+        {
+          "at": 0.33
+        },
+        {
+          "at": 0.66
+        },
+        {
+          "at": 0.9
+        }
+      ]
+    },
+    {
+      "id": "med.body-scan",
+      "focusKey": "focus.bodyScan",
+      "cues": [
+        {
+          "at": 0
+        },
+        {
+          "at": 0.25
+        },
+        {
+          "at": 0.5
+        },
+        {
+          "at": 0.75
+        },
+        {
+          "at": 0.9
+        }
+      ]
+    }
+  ]
+}

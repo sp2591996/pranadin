@@ -1,0 +1,24 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "lint",
+  "version": "2026-11-14.1",
+  "owner": "Content Creator (C2). Human-readable version: 15_Content/style-guide.md, section 4.",
+  "howToUse": "Case-insensitive regex per rule, run over every English string and page. A hit fails the content build unless the 60-character context matches allowIfContext (used for negations such as 'not medical treatment'). Dev may reuse this file in CI.",
+  "rules": [
+    { "id": "MED-01", "pattern": "\\bcur(e|es|ed|ing)\\b", "why": "Cure claim (Drugs & Magic Remedies Act 1954; ASCI)", "allowIfContext": "\\b(not|never|no claim|does not)\\b" },
+    { "id": "MED-02", "pattern": "\\bheal(s|ed|ing)?\\b", "why": "Healing claim", "allowIfContext": "\\b(not|never)\\b" },
+    { "id": "MED-03", "pattern": "\\btreat(s|ed|ing|ment)?\\b", "why": "Treatment claim", "allowIfContext": "\\b(not|never|replace|substitute)\\b" },
+    { "id": "MED-04", "pattern": "\\btherap(eutic|y)\\b", "why": "Therapy claim", "allowIfContext": "\\b(not|never|replace|substitute)\\b" },
+    { "id": "MED-05", "pattern": "\\b(lower|lowers|reduce|reduces|boost|boosts|relieve|relieves|prevent|prevents|balance|balances|regulate|regulates)\\b[^.]{0,40}\\b(blood pressure|stress|anxiety|immunity|depression|pain|heart|thyroid|digestion|insomnia|hormones?|cortisol|nervous system|vagus)", "why": "Health-outcome claim stated as fact" },
+    { "id": "MED-06", "pattern": "\\b(detox|tranquil+i[sz]er|natural medicine)\\b", "why": "Medical/marketing claim" },
+    { "id": "MED-07", "pattern": "\\b(scientifically|clinically) proven\\b|\\bstudies (show|prove)\\b", "why": "Evidence claim without a citation" },
+    { "id": "FEAR-01", "pattern": "\\bnegative energ(y|ies)\\b|\\bdosha\\b|\\bevil eye\\b", "why": "Fear-based or superstition framing" },
+    { "id": "FEAR-02", "pattern": "\\binauspicious\\b|\\bauspicious (time|for you)\\b|\\bRahu\\s?Kaa?l\\b|\\bmuhur(a)?t(a)?\\b", "why": "Red line: no Rahu Kaal, muhurta or fear timing", "allowIfContext": "\\b(not|don't|do not|never)\\b" },
+    { "id": "FEAR-03", "pattern": "\\b(horoscope|prediction|predicts?|remed(y|ies)|gemstone)\\b", "why": "Red line: no predictions or remedies", "allowIfContext": "\\b(not|don't|do not|never|no)\\b" },
+    { "id": "HYPE-01", "pattern": "\\b(guaranteed?|miracle|miraculous|unlock|manifest(ing|ation)?|life-changing|transformative)\\b", "why": "Hype or outcome promise" },
+    { "id": "HYPE-02", "pattern": "!", "why": "No exclamation marks in product copy (style guide 3.4)" },
+    { "id": "GUILT-01", "pattern": "\\b(you broke|you lost|you missed|don't break|don't lose)\\b", "why": "Guilt-driven streak copy (PRD FR-6.4)" },
+    { "id": "NAME-01", "pattern": "\\b(PranaPath|Antaryatra)\\b|प्राणपथ|अंतर्यात्रा", "why": "Retired product names (D-014, D-021). Use PranaDin / प्राणदिन" },
+    { "id": "RANK-01", "pattern": "\\b(the (only|best|truest|holiest) (religion|faith|path|way))\\b", "why": "Ranking faiths" }
+  ]
+}

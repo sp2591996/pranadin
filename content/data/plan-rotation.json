@@ -1,0 +1,65 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "plan-rotation",
+  "lang": "none",
+  "version": "2026-11-14.1",
+  "status": "final",
+  "rule": "dayIndex = (number of local calendar days since 2026-01-01) mod 7, using the device's time zone. Look up rotation[goal][dayIndex] to get one card per step type. Same inputs on the same date give the same plan (PRD FR-3.2). The breath card changes every day for every goal, so consecutive days always differ (FR-3 AC).",
+  "minutesByBudget": {
+    "5": { "breath": 2, "stillness": 2, "reflection": 1 },
+    "10": { "breath": 3, "stillness": 6, "reflection": 1 },
+    "20": { "breath": 5, "stillness": 13, "reflection": 2 }
+  },
+  "welcomeBack": { "when": "no practice day in the last 2 local days", "steps": [ { "type": "breath", "card": "card.breath.sama-vritti", "minutes": 2 }, { "type": "reflection", "card": "card.reflect.one-word", "minutes": 1 } ] },
+  "defaultGoal": "calm",
+  "ambienceByGoal": { "calm": "rain", "sleep": "river", "focus": "silence", "devotion": "silence", "explore": ["silence", "rain", "river", "silence", "rain", "river", "silence"] },
+  "swap": "Offer the other cards of the same type, limited to 2, in the order listed in plan-cards.json, skipping the current card.",
+  "rotation": {
+    "calm": [
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.breath", "reflection": "card.reflect.one-word" },
+      { "breath": "card.breath.deergha", "stillness": "card.stillness.breath", "reflection": "card.reflect.notice" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.one-word" },
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.breath", "reflection": "card.reflect.gratitude" },
+      { "breath": "card.breath.deergha", "stillness": "card.stillness.breath", "reflection": "card.reflect.one-word" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.notice" },
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.breath", "reflection": "card.reflect.intention" }
+    ],
+    "sleep": [
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.gratitude" },
+      { "breath": "card.breath.deergha", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.gratitude" },
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.notice" },
+      { "breath": "card.breath.deergha", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.gratitude" },
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.gratitude" },
+      { "breath": "card.breath.deergha", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.kindness" },
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.gratitude" }
+    ],
+    "focus": [
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.breath", "reflection": "card.reflect.intention" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.repetition", "reflection": "card.reflect.intention" },
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.breath", "reflection": "card.reflect.notice" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.repetition", "reflection": "card.reflect.intention" },
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.breath", "reflection": "card.reflect.intention" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.repetition", "reflection": "card.reflect.one-word" },
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.breath", "reflection": "card.reflect.intention" }
+    ],
+    "devotion": [
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.repetition", "reflection": "card.reflect.gratitude" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.repetition", "reflection": "card.reflect.kindness" },
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.repetition", "reflection": "card.reflect.notice" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.repetition", "reflection": "card.reflect.gratitude" },
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.repetition", "reflection": "card.reflect.kindness" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.repetition", "reflection": "card.reflect.one-word" },
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.repetition", "reflection": "card.reflect.intention" }
+    ],
+    "explore": [
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.breath", "reflection": "card.reflect.one-word" },
+      { "breath": "card.breath.deergha", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.gratitude" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.repetition", "reflection": "card.reflect.intention" },
+      { "breath": "card.breath.bhramari", "stillness": "card.stillness.breath", "reflection": "card.reflect.notice" },
+      { "breath": "card.breath.deergha", "stillness": "card.stillness.body-scan", "reflection": "card.reflect.kindness" },
+      { "breath": "card.breath.sama-vritti", "stillness": "card.stillness.repetition", "reflection": "card.reflect.one-word" },
+      { "breath": "card.breath.nadi-shodhana", "stillness": "card.stillness.breath", "reflection": "card.reflect.gratitude" }
+    ]
+  },
+  "devNote": "If the P1 'Thought for today' card (C6) ships, Devotion and Explore may replace the reflection card with the day's thought. Until then, use the cards above."
+}

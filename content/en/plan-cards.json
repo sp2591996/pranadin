@@ -1,0 +1,22 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "plan-cards",
+  "lang": "en",
+  "version": "2026-11-14.1",
+  "status": "final",
+  "limits": { "titleMaxChars": 40, "bodyMaxChars": 140 },
+  "cards": {
+    "card.breath.sama-vritti": { "type": "breath", "practiceId": "breath.sama-vritti", "title": "Equal breathing", "body": "Breathe in for 4 and out for 4, smooth and quiet. A steady way to start." },
+    "card.breath.deergha": { "type": "breath", "practiceId": "breath.deergha", "title": "Three-part breath", "body": "Fill the belly, ribs, then chest. Let the out-breath be a little longer than the in-breath." },
+    "card.breath.nadi-shodhana": { "type": "breath", "practiceId": "breath.nadi-shodhana", "title": "Alternate-nostril breathing", "body": "In through one nostril, out through the other. Gentle, with no breath-holding." },
+    "card.breath.bhramari": { "type": "breath", "practiceId": "breath.bhramari", "title": "Humming-bee breath", "body": "Breathe in, then hum softly as you breathe out. As quiet as you like." },
+    "card.stillness.breath": { "type": "stillness", "practiceId": "med.breath-awareness", "title": "Sit with the breath", "body": "Let the breath move on its own. When the mind wanders, come back to the next breath." },
+    "card.stillness.body-scan": { "type": "stillness", "practiceId": "med.body-scan", "title": "Body scan", "body": "Move your attention slowly from your feet to the top of your head. Notice; there is nothing to fix." },
+    "card.stillness.repetition": { "type": "stillness", "practiceId": "med.breath-awareness", "variant": "repetition", "title": "Silent repetition", "body": "Repeat a word or name you hold dear with each breath, or use so'ham." },
+    "card.reflect.one-word": { "type": "reflection", "promptId": "prompt.01", "title": "One word for today", "body": "Write one word for how you feel right now. Just one." },
+    "card.reflect.gratitude": { "type": "reflection", "promptId": "prompt.02", "title": "One thing you're grateful for", "body": "Write one line about something, or someone, you're grateful for today." },
+    "card.reflect.intention": { "type": "reflection", "promptId": "prompt.08", "title": "Set one intention", "body": "Write one small thing you mean to do today, and how you'd like to do it." },
+    "card.reflect.notice": { "type": "reflection", "promptId": "prompt.03", "title": "Notice one thing", "body": "What did you notice during your practice? A sound, a thought, a feeling. Write it down." },
+    "card.reflect.kindness": { "type": "reflection", "promptId": "prompt.11", "title": "A small kindness", "body": "Think of one small kindness you could offer someone today. Write who, and what." }
+  }
+}
