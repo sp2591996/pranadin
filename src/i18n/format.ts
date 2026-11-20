@@ -94,7 +94,9 @@ function dtf(locale: string, opts: Intl.DateTimeFormatOptions): Intl.DateTimeFor
   const key = locale + JSON.stringify(opts);
   let f = dtfCache.get(key);
   if (!f) {
-    f = new Intl.DateTimeFormat(locale, opts);
+    // Latin digits in every language (CONTRACTS: mr-IN otherwise defaults to Devanagari digits,
+    // which also made visible text and accessible names disagree, QA a11y).
+    f = new Intl.DateTimeFormat(locale, { numberingSystem: "latn", ...opts });
     dtfCache.set(key, f);
   }
   return f;

@@ -46,19 +46,17 @@ test.describe("Tabs", () => {
   });
 
   test("US-08: Today shows a 3-step plan with Begin step 1 [QA-01]", async ({ page }) => {
-    test.fail(true, "QA-01: the plan generator is not built yet");
     await expect(page.getByRole("button", { name: /Begin step 1/i }).or(page.getByRole("link", { name: /Begin step 1/i }))).toBeVisible({ timeout: 3000 });
   });
 
   test("US-18: Calendar shows a month grid with observances [QA-02]", async ({ page }) => {
-    test.fail(true, "QA-02: Calendar is still a placeholder");
     await page.goto("/en/calendar/");
     await expect(page.getByText(/Placeholder/)).toHaveCount(0);
     await expect(page.getByRole("grid").or(page.getByRole("table"))).toBeVisible({ timeout: 3000 });
   });
 
   test("US-27: a Send feedback entry is reachable from Me [QA-05]", async ({ page }) => {
-    test.fail(true, "QA-05: no feedback link until D-022");
+    test.fail(true, "QA-05: entry is hidden by design until the Board supplies FEEDBACK_URL (D-022, src/lib/config.ts)");
     await page.goto("/en/settings/");
     await expect(page.getByRole("link", { name: /feedback/i }).or(page.getByRole("button", { name: /feedback/i }))).toBeVisible({ timeout: 3000 });
   });
