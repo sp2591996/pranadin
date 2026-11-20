@@ -12,8 +12,9 @@ describe("{{feedbackLink}} (QA-05, D-022)", () => {
     );
     expect(applyFeedbackLink("Found a missing credit? Please [tell us]({{feedbackLink}}).", null)).toBe("");
   });
-  it("leaves no feedback promise on the shipped Corrections page", () => {
+  it("points the shipped Corrections page at the feedback email", () => {
     const page = loadTrustPage("en", "corrections");
-    expect(page?.markdown).not.toMatch(/feedbackLink|Send feedback/);
+    expect(page?.markdown).not.toMatch(/feedbackLink/);
+    expect(page?.markdown).toContain("mailto:sachin@gmail.com");
   });
 });

@@ -3,6 +3,7 @@
 /** Me / settings (E-11, FR-9, J5, US-23/24/25, US-35). Every change is saved on the device at once. */
 import Link from "next/link";
 import { useEffect, useState, type ReactNode } from "react";
+import { FeedbackEntry } from "@/components/FeedbackEntry";
 import { useI18n } from "@/i18n/client";
 import { LOCALE_NATIVE_NAME, LOCALES } from "@/i18n/config";
 import { formatDateKey } from "@/i18n/format";
@@ -273,12 +274,7 @@ export function Settings({ journal }: { journal: JournalContent }) {
               </Link>
             </li>
           ))}
-          <li>
-            {/* Feedback link stays a placeholder until the Board supplies a contact (D-022). */}
-            <span className="flex min-h-14 items-center px-4 text-text-muted" aria-disabled="true">
-              {s("me.feedback")} · {t("common.comingSoon")}
-            </span>
-          </li>
+          <FeedbackEntry />
         </ul>
       </nav>
 

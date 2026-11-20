@@ -6,4 +6,4 @@
  * page sentences that point to it are removed, so the app never promises a
  * channel that doesn't exist. Use an https:// or mailto: URL.
  */
-export const FEEDBACK_URL: string | null = null;
+export const FEEDBACK_URL: string | null = "mailto:sachin@gmail.com?subject=PranaDin%20feedback";
