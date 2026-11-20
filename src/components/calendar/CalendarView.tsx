@@ -150,7 +150,7 @@ export function CalendarView({
         {dayItems.length > 0 ? (
           <ul className="flex flex-col gap-3">
             {dayItems.map((o) => (
-              <li key={o.id} className="rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] p-4">
+              <li key={o.id} className="rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-4">
                 <p className="text-h3">
                   <ObservanceName o={o} />
                 </p>
@@ -221,7 +221,7 @@ function DayPanchang({ date, city, citySet }: { date: LocalDateKey; city: Return
     [t("cal.day.sunset"), time(p.sunset)],
   ];
   return (
-    <div className="rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] p-4">
+    <div className="rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-4">
       <h3 className="text-h3">{t("cal.day.panchangFor", { city: city.name })}</h3>
       <dl className="mt-2">
         {rows.map(([k, v, sub]) => (

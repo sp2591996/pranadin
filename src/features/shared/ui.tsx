@@ -15,7 +15,7 @@ export const btn = {
   chip: "inline-flex min-h-11 items-center gap-2 rounded-full border border-border-input px-4 aria-[pressed=true]:border-primary aria-[pressed=true]:bg-primary-tint aria-[pressed=true]:text-on-primary-tint aria-[checked=true]:border-primary aria-[checked=true]:bg-primary-tint aria-[checked=true]:text-on-primary-tint",
 } as const;
 
-export const card = "rounded-lg border border-divider bg-surface p-4";
+export const card = "rounded-lg border-2 border-[var(--card-border)] bg-surface p-4";
 
 /** Accessible confirm dialog on the native <dialog> element (focus trap, Esc). */
 export function ConfirmDialog({

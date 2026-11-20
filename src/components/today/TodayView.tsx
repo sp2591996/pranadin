@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useMemo } from "react";
 import type { Observance } from "@/content/load";
+import { Mandala } from "@/components/Mandala";
 import { EnglishMark, ObservanceBody, ObservanceName } from "@/components/ObservanceBody";
 import { useLocalDay } from "@/components/useLocalDay";
 import { useI18n } from "@/i18n/client";
@@ -53,13 +54,15 @@ export function TodayView({
 
   return (
     <div className="flex flex-col gap-6">
-      <section aria-labelledby="greeting">
+      <section aria-labelledby="greeting" className="relative isolate overflow-hidden rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-hero-bg)] px-4 py-5">
+        <Mandala className="absolute -right-10 -top-10 -z-10 h-44 w-44 text-[var(--accent)] opacity-40" />
         <h1 id="greeting">{day.hour === null ? t("common.today") : t(greetingKey(day.hour))}</h1>
         <p className="min-h-6 text-text-muted">{day.live ? formatDateKey(dateKey, locale) : ""}</p>
       </section>
 
       {todays.map((o) => (
-        <section key={o.id} aria-labelledby={`obs-${o.id}`} className="rounded-lg bg-[var(--card-hero-bg)] p-4">
+        <section key={o.id} aria-labelledby={`obs-${o.id}`} className="relative isolate overflow-hidden rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-hero-bg)] p-4">
+          <Mandala className="absolute -bottom-12 -right-12 -z-10 h-40 w-40 text-[var(--accent)] opacity-30" />
           <p id={`obs-${o.id}`} className="text-h3">
             {t("today.observance.banner", { name: o.name })}
             {o.lang === "en" && <EnglishMark />}
@@ -71,7 +74,7 @@ export function TodayView({
       <section
         aria-labelledby="panchang-title"
         aria-busy={!p}
-        className="min-h-[248px] rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] p-4"
+        className="min-h-[248px] rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-4"
       >
         <h2 id="panchang-title" className="sr-only">
           {t("cal.day.panchangFor", { city: city.name })}
@@ -111,14 +114,14 @@ export function TodayView({
           {t("today.observance.upcoming")}
         </h2>
         {!covered ? (
-          <p className="text-text-muted">{t("cal.outOfRange")}</p>
+          <p className="relative isolate overflow-hidden rounded-lg border-2 border-dashed border-[var(--card-border)] p-4 text-text-muted"><Mandala className="absolute -right-8 -top-8 -z-10 h-28 w-28 text-[var(--accent)] opacity-30" />{t("cal.outOfRange")}</p>
         ) : next.length === 0 ? (
-          <p className="text-text-muted">{t("cal.noneWeek")}</p>
+          <p className="relative isolate overflow-hidden rounded-lg border-2 border-dashed border-[var(--card-border)] p-4 text-text-muted"><Mandala className="absolute -right-8 -top-8 -z-10 h-28 w-28 text-[var(--accent)] opacity-30" />{t("cal.noneWeek")}</p>
         ) : (
           <ul className="flex flex-col gap-3">
             {next.flatMap((g) =>
               g.items.map((o) => (
-                <li key={o.id} className="rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] p-4">
+                <li key={o.id} className="rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-4">
                   <p className="text-small text-text-muted">
                     {formatDateKey(g.date, locale, { weekday: "short", day: "numeric", month: "short" })}
                   </p>

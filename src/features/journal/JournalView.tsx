@@ -1,6 +1,7 @@
 "use client";
 
 /** Journal tab (E-10, FR-8, US-20/21/22). On-device only; text is never rendered as HTML. */
+import { Mandala } from "@/components/Mandala";
 import { useCallback, useEffect, useId, useRef, useState } from "react";
 import type { Icon } from "@phosphor-icons/react";
 import { LeafIcon } from "@phosphor-icons/react/dist/csr/Leaf";
@@ -300,7 +301,8 @@ export function JournalView({ content }: { content: JournalContent }) {
         <div aria-busy="true" className="min-h-24" />
       ) : entries.length === 0 ? (
         !writing ? (
-          <section className={`${card} text-center`} aria-labelledby="empty-h">
+          <section className={`${card} relative isolate overflow-hidden text-center`} aria-labelledby="empty-h">
+            <Mandala className="mx-auto mb-2 h-20 w-20 text-[var(--accent)]" />
             <h2 id="empty-h" className="text-[1.125rem] leading-[1.625rem]">
               {s("journal.empty.title")}
             </h2>

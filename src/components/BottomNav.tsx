@@ -24,7 +24,7 @@ export function BottomNav() {
   return (
     <nav
       aria-label={t("nav.label")}
-      className="fixed inset-x-0 bottom-0 z-[var(--z-nav)] border-t border-divider bg-[var(--nav-bg)] pb-[env(safe-area-inset-bottom)] shadow-elev-2"
+      className="fixed inset-x-0 bottom-0 z-[var(--z-nav)] border-t-2 border-[var(--accent)] bg-[var(--nav-bg)] pb-[env(safe-area-inset-bottom)] shadow-elev-2"
     >
       <ul className="mx-auto grid min-h-[var(--size-nav)] max-w-xl grid-cols-4">
         {TABS.map((tab) => {
@@ -40,7 +40,7 @@ export function BottomNav() {
                 <span
                   aria-hidden="true"
                   className={`flex h-8 w-14 items-center justify-center rounded-full transition-colors duration-fast ${
-                    active ? "bg-[var(--nav-item-active-bg)]" : ""
+                    active ? "diya-glow bg-[var(--nav-item-active-bg)]" : ""
                   }`}
                 >
                   <Icon name={ICONS[tab]} size={24} weight={active ? "fill" : "regular"} />
