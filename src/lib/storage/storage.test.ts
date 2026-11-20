@@ -178,7 +178,7 @@ describe("migrations", () => {
 
   it("v1 creates the journal and practiceLog stores with their indexes", async () => {
     const db = await openAppDb();
-    expect([...db.objectStoreNames].sort()).toEqual(["journal", "practiceLog"]);
+    expect([...db.objectStoreNames].sort()).toEqual(["japa", "journal", "practiceLog"]);
     const tx = db.transaction(["journal", "practiceLog"]);
     expect([...tx.objectStore("journal").indexNames].sort()).toEqual(["createdAt", "localDate"]);
     expect([...tx.objectStore("practiceLog").indexNames].sort()).toEqual(["at", "localDate"]);

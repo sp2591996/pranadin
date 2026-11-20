@@ -30,13 +30,13 @@ for (const lang of LOCALES) {
 test.describe("Tabs", () => {
   test.beforeEach(async ({ page }) => onboard(page, "en"));
 
-  test("bottom nav has exactly the 4 tabs and each opens", async ({ page }) => {
+  test("bottom nav has exactly the 5 tabs and each opens", async ({ page }) => {
     const nav = page.getByRole("navigation").last();
-    for (const name of ["Today", "Practice", "Calendar", "Journal"]) {
+    for (const name of ["Today", "Practice", "Sounds", "Calendar", "Journal"]) {
       await nav.getByRole("link", { name }).click();
       await expect(page).toHaveURL(new RegExp(`/en/${name.toLowerCase()}/`));
     }
-    await expect(nav.getByRole("link")).toHaveCount(4);
+    await expect(nav.getByRole("link")).toHaveCount(5);
   });
 
   test("US-10: Today shows the panchang line labelled Indicative and the city", async ({ page }) => {

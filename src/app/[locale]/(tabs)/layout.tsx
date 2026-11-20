@@ -3,7 +3,7 @@ import { BottomNav } from "@/components/BottomNav";
 import { FallbackNote } from "@/components/FallbackNote";
 import { SkipLink } from "@/components/SkipLink";
 
-/** Shell for the 4 tabs: header with "Me", main content, bottom navigation. */
+/** Shell for the 5 tabs: header with "Me", main content, bottom navigation. */
 export default function TabsLayout({ children }: LayoutProps<"/[locale]">) {
   return (
     <>

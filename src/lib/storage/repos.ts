@@ -3,7 +3,7 @@
  * All three behave identically; the shared test suite runs against each.
  */
 import { openDB, type DBSchema, type IDBPDatabase } from "idb";
-import type { JournalEntry, PracticeLog } from "@/lib/types";
+import type { JapaState, JournalEntry, PracticeLog } from "@/lib/types";
 import { DB_NAME, DB_VERSION, lsStoreKey } from "./schema";
 import { StorageError, type ListQuery, type Repo, type StoreSpec } from "./types";
 
@@ -12,6 +12,7 @@ type Rec = { id: string; localDate: string };
 export interface PranaDinDB extends DBSchema {
   journal: { key: string; value: JournalEntry; indexes: { createdAt: number; localDate: string } };
   practiceLog: { key: string; value: PracticeLog; indexes: { at: number; localDate: string } };
+  japa: { key: string; value: JapaState; indexes: { at: number; localDate: string } };
 }
 
 /**
@@ -27,6 +28,12 @@ export const MIGRATIONS: ((db: IDBPDatabase<PranaDinDB>) => void)[] = [
     const p = db.createObjectStore("practiceLog", { keyPath: "id" });
     p.createIndex("at", "at");
     p.createIndex("localDate", "localDate");
+  },
+  // v1 -> v2: japa mala count (one record)
+  (db) => {
+    const j = db.createObjectStore("japa", { keyPath: "id" });
+    j.createIndex("at", "at");
+    j.createIndex("localDate", "localDate");
   },
 ];
 

@@ -6,7 +6,7 @@
 import type { MessageKey } from "@/i18n/keys";
 import type { Locale } from "./types";
 
-export const TABS = ["today", "practice", "calendar", "journal"] as const;
+export const TABS = ["today", "practice", "sounds", "calendar", "journal"] as const;
 export type Tab = (typeof TABS)[number];
 
 /** Trust and legal pages (C9, L1). */
@@ -63,6 +63,7 @@ export const routes = {
   root: () => "/",
   today: (l: Locale) => `/${l}/today/`,
   practice: (l: Locale) => `/${l}/practice/`,
+  sounds: (l: Locale) => `/${l}/sounds/`,
   calendar: (l: Locale) => `/${l}/calendar/`,
   journal: (l: Locale) => `/${l}/journal/`,
   onboarding: (l: Locale) => `/${l}/onboarding/`,

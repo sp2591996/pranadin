@@ -152,3 +152,16 @@ export const TRADITIONS = [
   "national",
 ] as const;
 export type Tradition = (typeof TRADITIONS)[number];
+
+/**
+ * Japa mala count on this device (v1). One record, id "japa". `count` is the
+ * running total of beads; beads in the current mala = count % 108.
+ */
+export interface JapaState {
+  v: 1;
+  id: "japa";
+  localDate: LocalDateKey;
+  /** Last update, ms since epoch. */
+  at: number;
+  count: number;
+}

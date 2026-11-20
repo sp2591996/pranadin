@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved translations only (D-012). Anything missing shows in English.",
-  "count": 155,
+  "count": 215,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -924,6 +924,378 @@
       "reviewed": true,
       "reviewer": "Board",
       "reviewedOn": "2026-11-17"
+    },
+    "nav.sounds": {
+      "text": "ध्वनी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.title": {
+      "text": "ध्वनी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.intro": {
+      "text": "तुम्ही स्पर्श केल्याशिवाय काही वाजत नाही. आवाज कमी ठेवा.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.view.label": {
+      "text": "दृश्य निवडा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.view.listen": {
+      "text": "ऐका",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.view.japa": {
+      "text": "जप माळ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.now.title": {
+      "text": "आता वाजत आहे",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.now.idle": {
+      "text": "काही वाजत नाही. एखादी ध्वनी किंवा दृश्य निवडा.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.now.loading": {
+      "text": "{name} लोड होत आहे",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.now.error": {
+      "text": "ही ध्वनी सुरू होऊ शकली नाही. कनेक्शन तपासा आणि पुन्हा प्रयत्न करा.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.stop": {
+      "text": "थांबवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.play": {
+      "text": "वाजवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.playName": {
+      "text": "{name} वाजवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.stopName": {
+      "text": "{name} थांबवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.volumeOf": {
+      "text": "{name} ची आवाज पातळी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scenes.title": {
+      "text": "दृश्ये",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scenes.sub": {
+      "text": "दोन किंवा तीन ध्वनी एकत्र. एका वेळी एकच दृश्य वाजते.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scene.rain-hearth": {
+      "text": "शेकोटीजवळ पाऊस",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scene.wind-om": {
+      "text": "वारा आणि ओम",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scene.temple-night": {
+      "text": "रात्रीचे मंदिर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scene.still-breath": {
+      "text": "शांत श्वास",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.rec.title": {
+      "text": "रेकॉर्डिंग",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.rec.nature": {
+      "text": "निसर्ग",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.rec.temple": {
+      "text": "मंदिर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.rec.mantras": {
+      "text": "मंत्र",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.rain": {
+      "text": "पाऊस",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.fire": {
+      "text": "अग्नी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.wind": {
+      "text": "वारा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.conch": {
+      "text": "शंख",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.bell": {
+      "text": "घंटा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.title": {
+      "text": "तुमच्या फोनवर तयार झालेल्या",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.sub": {
+      "text": "अॅप यांना त्याच क्षणी तयार करते. कोणतेही रेकॉर्डिंग नाही.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.om": {
+      "text": "ओम ध्वनी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.bells": {
+      "text": "मृदू घंटा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.soham": {
+      "text": "सोऽहम्",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.soham.sub": {
+      "text": "श्वास आत घेताना \"सो\", बाहेर सोडताना \"हम\".",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.sleep.title": {
+      "text": "झोप टायमर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.sleep.off": {
+      "text": "बंद",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.sleep.min": {
+      "text": "{n} मिनिटे",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.sleep.left": {
+      "text": "{time} मध्ये हळू होऊन बंद होईल",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.title": {
+      "text": "ऑडिओ श्रेय",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.intro": {
+      "text": "ध्वनी टॅबमध्ये वापरलेली रेकॉर्डिंग. प्रत्येक लहान करून MP3 मध्ये बदलली आहे.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.author": {
+      "text": "रचनाकार",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.licence": {
+      "text": "परवाना",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.source": {
+      "text": "स्रोत",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.ai": {
+      "text": "AI ने तयार केलेले",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.generated": {
+      "text": "ओम ध्वनी, मृदू घंटा आणि सोऽहम् तुमच्या फोनवर तयार होतात. ही रेकॉर्डिंग नाहीत.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.title": {
+      "text": "जप माळ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.sub": {
+      "text": "प्रत्येक मण्यासाठी एकदा स्पर्श करा. 108 मण्यांची एक माळ होते.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.beadOf": {
+      "text": "मणी {n} / 108",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.tapA11y": {
+      "text": "एक मणी मोजा. आतापर्यंत {n} / 108.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.malas": {
+      "text": "{count, plural, one {# माळ} other {# माळा}}",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.total": {
+      "text": "एकूण {n} मणी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.vibrate": {
+      "text": "प्रत्येक मण्यावर कंपन",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.reset": {
+      "text": "मोजणी शून्य करा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.resetTitle": {
+      "text": "मोजणी शून्य करायची?",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.resetBody": {
+      "text": "या फोनवरील तुमचे मणी आणि माळा शून्य होतील. हे परत करता येणार नाही.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.resetConfirm": {
+      "text": "शून्य करा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.complete": {
+      "text": "माळ पूर्ण झाली",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.completeBody": {
+      "text": "108 मणी. एक संथ श्वास घ्या आणि इथेच विसावा घ्या.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.continue": {
+      "text": "पुढची माळ सुरू करा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.notSaved": {
+      "text": "हा ब्राउझर डेटा जतन करत नाही, त्यामुळे तुमची मोजणी राहणार नाही.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
     }
   }
 }

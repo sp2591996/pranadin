@@ -8,10 +8,10 @@
  *   const entries = await s.journal.list();          // newest first
  *   if (s.backend === "memory") showNotSavedWarning();
  */
-import type { JournalEntry, PracticeLog } from "@/lib/types";
+import type { JapaState, JournalEntry, PracticeLog } from "@/lib/types";
 import { createPrefsStore, type PrefsStore } from "./prefs";
 import { IdbRepo, LocalStorageRepo, MemoryRepo, openAppDb } from "./repos";
-import { DB_NAME, journalSpec, practiceLogSpec, STORAGE_PREFIX } from "./schema";
+import { DB_NAME, japaSpec, journalSpec, practiceLogSpec, STORAGE_PREFIX } from "./schema";
 import type { AppStorage } from "./types";
 
 export * from "./types";
@@ -63,6 +63,7 @@ export async function createStorage(): Promise<AppStorage> {
         backend: "indexeddb",
         journal: new IdbRepo<JournalEntry>(dbp, journalSpec),
         practiceLog: new IdbRepo<PracticeLog>(dbp, practiceLogSpec),
+        japa: new IdbRepo<JapaState>(dbp, japaSpec),
       };
     } catch {
       // Fall through (private mode, blocked, corrupt profile).
@@ -74,12 +75,14 @@ export async function createStorage(): Promise<AppStorage> {
       backend: "localstorage",
       journal: new LocalStorageRepo<JournalEntry>(journalSpec, ls),
       practiceLog: new LocalStorageRepo<PracticeLog>(practiceLogSpec, ls),
+      japa: new LocalStorageRepo<JapaState>(japaSpec, ls),
     };
   }
   return {
     backend: "memory",
     journal: new MemoryRepo<JournalEntry>(journalSpec),
     practiceLog: new MemoryRepo<PracticeLog>(practiceLogSpec),
+    japa: new MemoryRepo<JapaState>(japaSpec),
   };
 }
 
@@ -125,7 +128,7 @@ export async function clearAllData(): Promise<void> {
   if (storagePromise) {
     try {
       const s = await storagePromise;
-      await Promise.all([s.journal.clear(), s.practiceLog.clear()]);
+      await Promise.all([s.journal.clear(), s.practiceLog.clear(), s.japa.clear()]);
     } catch {
       /* continue with the hard wipe */
     }

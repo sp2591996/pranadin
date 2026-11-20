@@ -3,7 +3,7 @@
  * `Repo<T>` only, never to IndexedDB directly, so a sync adapter can be
  * added later without rewriting screens.
  */
-import type { JournalEntry, LocalDateKey, PracticeLog } from "@/lib/types";
+import type { JapaState, JournalEntry, LocalDateKey, PracticeLog } from "@/lib/types";
 
 export interface ListQuery {
   /** Sort by the store's time field. Default "desc" (newest first). */
@@ -36,6 +36,7 @@ export interface AppStorage {
   backend: StorageBackend;
   journal: Repo<JournalEntry>;
   practiceLog: Repo<PracticeLog>;
+  japa: Repo<JapaState>;
 }
 
 export type StorageErrorCode = "invalid_record" | "too_long" | "unavailable" | "quota";
@@ -52,7 +53,7 @@ export class StorageError extends Error {
 
 /** Describes a store: its name, time field for sorting, and a validator. */
 export interface StoreSpec<T> {
-  name: "journal" | "practiceLog";
+  name: "journal" | "practiceLog" | "japa";
   timeField: "createdAt" | "at";
   validate(x: T): void;
   /** Upgrade an older stored shape to the current one, on every read. Must be idempotent. */

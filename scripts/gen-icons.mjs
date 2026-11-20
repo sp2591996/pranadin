@@ -9,7 +9,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const ICONS = ["SunHorizon", "Wind", "CalendarBlank", "NotePencil", "UserCircle", "ArrowLeft"];
+const ICONS = ["SunHorizon", "Wind", "CalendarBlank", "NotePencil", "SpeakerHigh", "UserCircle", "ArrowLeft"];
 const WEIGHTS = ["regular", "fill"];
 const DEFS = join(process.cwd(), "node_modules", "@phosphor-icons", "react", "dist", "defs");
 

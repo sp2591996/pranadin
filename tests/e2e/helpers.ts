@@ -10,6 +10,7 @@ export const P0_PAGES = [
   "practice/",
   "practice/breath/sama-vritti/",
   "practice/stillness/silent/",
+  "sounds/",
   "calendar/",
   "journal/",
   "settings/",

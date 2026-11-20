@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { AudioCredits } from "@/components/AudioCredits";
 import { Markdown } from "@/components/Markdown";
 import { SimpleScreen } from "@/components/SimpleScreen";
 import { loadMessages, loadTrustPage } from "@/content/load";
@@ -49,6 +50,19 @@ export default async function TrustPageRoute({ params }: PageProps<"/[locale]/in
       <article lang={page.lang}>
         <Markdown source={page.markdown.replace(/^#\s+.*\n/, "")} resolveHref={resolveHref} />
       </article>
+      {slug === "sources" ? (
+        <AudioCredits
+          labels={{
+            title: messages["sounds.credits.title"],
+            intro: messages["sounds.credits.intro"],
+            author: messages["sounds.credits.author"],
+            licence: messages["sounds.credits.licence"],
+            source: messages["sounds.credits.source"],
+            ai: messages["sounds.credits.ai"],
+            generated: messages["sounds.credits.generated"],
+          }}
+        />
+      ) : null}
     </SimpleScreen>
   );
 }

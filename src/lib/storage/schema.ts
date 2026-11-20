@@ -8,6 +8,7 @@ import {
   LOCALES,
   MOODS,
   PRACTICE_KINDS,
+  type JapaState,
   type JournalEntry,
   type PracticeLog,
 } from "@/lib/types";
@@ -16,7 +17,7 @@ import { StorageError, type StoreSpec } from "./types";
 /** Every key and database we create starts with this, so "Clear my data" can find them all. */
 export const STORAGE_PREFIX = "pranadin.";
 export const DB_NAME = "pranadin";
-export const DB_VERSION = 1;
+export const DB_VERSION = 2;
 export const PREFS_KEY = `${STORAGE_PREFIX}prefs.v1`;
 export const lsStoreKey = (store: string) => `${STORAGE_PREFIX}store.${store}.v1`;
 
@@ -62,5 +63,16 @@ export const practiceLogSpec: StoreSpec<PracticeLog> = {
     if (!(x.plannedSec >= 0) || !(x.actualSec >= 0)) fail("durations must be >= 0");
     if (typeof x.completed !== "boolean") fail("completed must be boolean");
     if (x.source !== "plan" && x.source !== "free") fail("source must be plan or free");
+  },
+};
+
+export const japaSpec: StoreSpec<JapaState> = {
+  name: "japa",
+  timeField: "at",
+  validate(x) {
+    base(x);
+    if (x.id !== "japa") fail("id must be japa");
+    if (!Number.isFinite(x.at)) fail("at must be a number");
+    if (!Number.isInteger(x.count) || x.count < 0 || x.count > 1_000_000_000) fail("count must be a whole number >= 0");
   },
 };

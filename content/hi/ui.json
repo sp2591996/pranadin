@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved translations only (D-012). Anything missing shows in English.",
-  "count": 155,
+  "count": 215,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -924,6 +924,378 @@
       "reviewed": true,
       "reviewer": "Board",
       "reviewedOn": "2026-11-17"
+    },
+    "nav.sounds": {
+      "text": "ध्वनियाँ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.title": {
+      "text": "ध्वनियाँ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.intro": {
+      "text": "आप छुएँगे तभी कुछ बजेगा। आवाज़ धीमी रखें।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.view.label": {
+      "text": "दृश्य चुनें",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.view.listen": {
+      "text": "सुनें",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.view.japa": {
+      "text": "जप माला",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.now.title": {
+      "text": "अभी बज रहा है",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.now.idle": {
+      "text": "कुछ नहीं बज रहा। कोई ध्वनि या दृश्य चुनें।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.now.loading": {
+      "text": "{name} लोड हो रहा है",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.now.error": {
+      "text": "यह ध्वनि शुरू नहीं हो सकी। कनेक्शन जाँचें और फिर कोशिश करें।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.stop": {
+      "text": "रोकें",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.play": {
+      "text": "चलाएँ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.playName": {
+      "text": "{name} चलाएँ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.stopName": {
+      "text": "{name} रोकें",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.volumeOf": {
+      "text": "{name} की आवाज़",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scenes.title": {
+      "text": "दृश्य",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scenes.sub": {
+      "text": "दो या तीन ध्वनियाँ साथ में। एक समय में एक दृश्य बजता है।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scene.rain-hearth": {
+      "text": "अलाव के पास बारिश",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scene.wind-om": {
+      "text": "हवा और ओम",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scene.temple-night": {
+      "text": "रात का मंदिर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.scene.still-breath": {
+      "text": "शांत साँस",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.rec.title": {
+      "text": "रिकॉर्डिंग",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.rec.nature": {
+      "text": "प्रकृति",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.rec.temple": {
+      "text": "मंदिर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.rec.mantras": {
+      "text": "मंत्र",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.rain": {
+      "text": "बारिश",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.fire": {
+      "text": "आग",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.wind": {
+      "text": "हवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.conch": {
+      "text": "शंख",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.track.bell": {
+      "text": "घंटी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.title": {
+      "text": "आपके फ़ोन पर बनी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.sub": {
+      "text": "ऐप इन्हें उसी समय बनाता है। कोई रिकॉर्डिंग नहीं है।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.om": {
+      "text": "ओम ध्वनि",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.bells": {
+      "text": "कोमल घंटियाँ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.soham": {
+      "text": "सोऽहम्",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.gen.soham.sub": {
+      "text": "साँस भीतर लेते हुए \"सो\", बाहर छोड़ते हुए \"हम\"।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.sleep.title": {
+      "text": "नींद टाइमर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.sleep.off": {
+      "text": "बंद",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.sleep.min": {
+      "text": "{n} मिनट",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.sleep.left": {
+      "text": "{time} में धीमी होकर बंद होगी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.title": {
+      "text": "ऑडियो श्रेय",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.intro": {
+      "text": "ध्वनि टैब में इस्तेमाल की गई रिकॉर्डिंग। हर एक को छोटा करके MP3 में बदला गया है।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.author": {
+      "text": "रचयिता",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.licence": {
+      "text": "लाइसेंस",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.source": {
+      "text": "स्रोत",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.ai": {
+      "text": "AI से बनी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "sounds.credits.generated": {
+      "text": "ओम ध्वनि, कोमल घंटियाँ और सोऽहम् आपके फ़ोन पर बनती हैं। ये रिकॉर्डिंग नहीं हैं।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.title": {
+      "text": "जप माला",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.sub": {
+      "text": "हर मनके पर एक बार छुएँ। 108 मनकों की एक माला होती है।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.beadOf": {
+      "text": "मनका {n} / 108",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.tapA11y": {
+      "text": "एक मनका गिनें। अब तक {n} / 108।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.malas": {
+      "text": "{count, plural, one {# माला} other {# मालाएँ}}",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.total": {
+      "text": "कुल {n} मनके",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.vibrate": {
+      "text": "हर मनके पर कंपन",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.reset": {
+      "text": "गिनती शून्य करें",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.resetTitle": {
+      "text": "गिनती शून्य करें?",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.resetBody": {
+      "text": "इस फ़ोन पर आपके मनके और मालाएँ शून्य हो जाएँगे। इसे वापस नहीं किया जा सकता।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.resetConfirm": {
+      "text": "शून्य करें",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.complete": {
+      "text": "माला पूरी हुई",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.completeBody": {
+      "text": "108 मनके। एक धीमी साँस लें और यहीं विश्राम करें।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.continue": {
+      "text": "अगली माला शुरू करें",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "japa.notSaved": {
+      "text": "यह ब्राउज़र डेटा नहीं सहेज रहा, इसलिए आपकी गिनती नहीं बचेगी।",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
     }
   }
 }
