@@ -7,7 +7,7 @@ import { StillnessTimer } from "@/features/practice/StillnessTimer";
 
 export const dynamicParams = false;
 
-const PREFIXES = ["practice.", "breath.", "timer.", "ambience.", "focus.", "complete.", "streak.", "week.", "a11y.", "reminder."];
+const PREFIXES = ["safety.", "practice.", "breath.", "timer.", "ambience.", "focus.", "complete.", "streak.", "week.", "a11y.", "reminder."];
 
 export function generateStaticParams() {
   return [{ id: SILENT_ID }, ...loadMeditations("en").map((m) => ({ id: m.slug }))];
@@ -23,6 +23,7 @@ export default async function StillnessPage({ params }: PageProps<"/[locale]/pra
   return (
     <StringsProvider strings={strings}>
       <StillnessTimer
+        caution={strings["safety.caution"] ?? ""}
         meditation={meditation}
         refId={meditation?.id ?? "med.silent"}
         silentTitle={strings["practice.silent.title"] ?? "Silent sit"}

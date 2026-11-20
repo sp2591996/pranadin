@@ -8,6 +8,7 @@ import { XIcon } from "@phosphor-icons/react/dist/csr/X";
 import { MinusIcon } from "@phosphor-icons/react/dist/csr/Minus";
 import { PlusIcon } from "@phosphor-icons/react/dist/csr/Plus";
 import { useI18n } from "@/i18n/client";
+import { routes } from "@/lib/routes";
 import type { Meditation } from "@/features/shared/content.server";
 import { useS } from "@/features/shared/strings";
 import { useDeviceValue } from "@/features/shared/use-device";
@@ -29,7 +30,8 @@ const INTERVAL_MS = 120_000;
 const R = 110;
 const CIRC = 2 * Math.PI * R;
 
-export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId }: {
+export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId, caution }: {
+  caution: string;
   meditation: Meditation | null;
   silentTitle: string;
   silentGuidance: string;
@@ -227,7 +229,7 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId 
         >
           <XIcon size={24} aria-hidden="true" />
         </Link>
-        <h1 className="flex-1 text-[22px] leading-[30px]">
+        <h1 className="min-w-0 flex-1 text-[1.375rem] leading-[1.875rem] break-words">
           {title} · {s("common.minutesShort", { count: minutes })}
         </h1>
       </div>
@@ -248,11 +250,11 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId 
               strokeDashoffset={CIRC * (1 - progress)}
             />
           </svg>
-          <p aria-hidden="true" className="absolute inset-0 flex items-center justify-center font-display text-[56px] leading-[60px] font-semibold tabular-nums">
+          <p aria-hidden="true" className="absolute inset-0 flex items-center justify-center font-display text-[length:min(3.5rem,15vw)] leading-none font-semibold tabular-nums">
             {formatClock(leftMs)}
           </p>
         </div>
-        <p className="min-h-7 text-center text-[18px] leading-7">
+        <p className="min-h-7 text-center text-[1.125rem] leading-7">
           {phase === "settle"
             ? s("breath.getReady", { seconds: settleLeft })
             : phase === "paused"
@@ -300,6 +302,14 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId 
         )}
       </div>
 
+      {/* QA-10 / Go-No-Go C2: the standard non-medical caution on every meditation screen. */}
+      <div role="note" className="rounded-md bg-warning-tint p-3 text-[0.875rem] leading-5">
+        <p>{caution}</p>
+        <Link href={routes.trust(locale, "disclaimer")} className="mt-1 inline-flex min-h-11 items-center font-semibold text-primary underline">
+          {s("practice.disclaimerLink")}
+        </Link>
+      </div>
+
       {phase === "ready" ? (
         <fieldset className="flex flex-wrap justify-center gap-2">
           <legend className="mb-2 w-full text-center font-semibold">{s("practice.duration")}</legend>
@@ -312,7 +322,7 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId 
       ) : null}
 
       <section className={card} aria-labelledby="amb-h">
-        <h2 id="amb-h" className="mb-2 text-[18px] leading-[26px]">
+        <h2 id="amb-h" className="mb-2 text-[1.125rem] leading-[1.625rem]">
           {s("practice.ambience")}
         </h2>
         <div role="radiogroup" aria-labelledby="amb-h" className="flex flex-wrap gap-2">
@@ -322,8 +332,8 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId 
             </button>
           ))}
         </div>
-        <div className="mt-3 flex items-center gap-2">
-          <span className="flex-1 text-[14px] leading-5">{s("a11y.volume")}</span>
+        <div className="mt-3 flex flex-wrap items-center gap-2">
+          <span className="min-w-0 flex-1 basis-40 text-[0.875rem] leading-5">{s("a11y.volume")}</span>
           <button type="button" className={btn.icon} aria-label={s("a11y.decrease")} onClick={() => changeVol(-1)} disabled={vol <= 0}>
             <MinusIcon size={20} aria-hidden="true" />
           </button>
@@ -338,12 +348,12 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId 
           <input type="checkbox" role="switch" checked={intervalBell} onChange={(e) => setIntervalBell(e.target.checked)} className="h-5 w-5" />
           {s("timer.intervalBell")} · {s("timer.intervalEvery", { minutes: 2 })}
         </label>
-        <p className="mt-2 text-[14px] leading-5 text-text-muted">{s("practice.ambienceNote")}</p>
+        <p className="mt-2 text-[0.875rem] leading-5 text-text-muted">{s("practice.ambienceNote")}</p>
       </section>
 
       <section className={card} aria-labelledby="guide-h">
-        <div className="flex items-center justify-between gap-2">
-          <h2 id="guide-h" className="text-[18px] leading-[26px]">
+        <div className="flex flex-wrap items-center justify-between gap-2">
+          <h2 id="guide-h" className="text-[1.125rem] leading-[1.625rem]">
             {s("timer.focus")}
           </h2>
           <button type="button" className={btn.ghost} aria-expanded={showGuidance} onClick={() => setShowGuidance((v) => !v)}>
@@ -351,12 +361,12 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId 
           </button>
         </div>
         {showGuidance ? (
-          <div className="mt-2 flex flex-col gap-2 text-[18px] leading-7">
+          <div className="mt-2 flex flex-col gap-2 text-[1.125rem] leading-7">
             {guidance.map((g) => (
               <p key={g}>{g}</p>
             ))}
             {meditation?.closing ? <p className="text-text-muted">{meditation.closing}</p> : null}
-            {meditation?.note ? <p className="text-[14px] leading-5 text-text-muted">{meditation.note}</p> : null}
+            {meditation?.note ? <p className="text-[0.875rem] leading-5 text-text-muted">{meditation.note}</p> : null}
           </div>
         ) : null}
       </section>

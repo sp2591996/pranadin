@@ -252,7 +252,7 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
         }}>
           <XIcon size={24} aria-hidden="true" />
         </Link>
-        <h1 className="flex-1 text-[22px] leading-[30px]">
+        <h1 className="min-w-0 flex-1 text-[1.375rem] leading-[1.875rem] break-words">
           {technique.name} · {s("common.minutesShort", { count: minutes })}
         </h1>
         <button
@@ -325,13 +325,13 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
             </div>
 
             {cur?.side && phase !== "ready" ? (
-              <p className="rounded-full border border-border-input px-3 py-1 text-[14px] font-semibold">
+              <p className="rounded-full border border-border-input px-3 py-1 text-[0.875rem] font-semibold">
                 <span aria-hidden="true">{cur.side === "left" ? "L" : "R"} · </span>
                 {s(`practice.side.${cur.side}`)}
               </p>
             ) : null}
 
-            <p className="min-h-[52px] text-center text-[36px] leading-[52px] font-semibold" lang={locale}>
+            <p className="min-h-[52px] text-center text-[2.25rem] leading-[3.25rem] font-semibold" lang={locale}>
               {phase === "ready"
                 ? ""
                 : phase === "settle"
@@ -348,7 +348,7 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
 
             {phase === "running" && pos ? (
               <>
-                <p className="text-[28px] leading-9 font-semibold tabular-nums" aria-hidden="true">
+                <p className="text-[1.75rem] leading-9 font-semibold tabular-nums" aria-hidden="true">
                   {pos.phaseSecondsLeft}
                 </p>
                 {reduced ? (
@@ -365,7 +365,7 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
             ) : null}
 
             {pos && phase !== "ready" ? (
-              <p className="text-[14px] leading-5 text-text-muted">
+              <p className="text-[0.875rem] leading-5 text-text-muted">
                 {rhythm} · {s("practice.roundOf", { n: pos.round, total: totalRounds })} ·{" "}
                 {s("common.timeLeft", { time: formatClock(pos.sessionRemainingMs) })}
               </p>
@@ -432,7 +432,7 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
               </ol>
             </details>
           ) : (
-            <p className="rounded-md bg-warning-tint p-3 text-center text-[14px] leading-5">{s("safety.short")}</p>
+            <p className="rounded-md bg-warning-tint p-3 text-center text-[0.875rem] leading-5">{s("safety.short")}</p>
           )}
 
           {phase === "ready" && haptics ? (
@@ -441,7 +441,7 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
               {s("practice.haptic")}
             </label>
           ) : null}
-          {phase === "ready" ? <p className="text-center text-[14px] leading-5 text-text-muted">{s("breath.screenOn")}</p> : null}
+          {phase === "ready" ? <p className="text-center text-[0.875rem] leading-5 text-text-muted">{s("breath.screenOn")}</p> : null}
         </>
       )}
 
