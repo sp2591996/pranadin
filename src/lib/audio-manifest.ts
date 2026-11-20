@@ -19,6 +19,8 @@ export interface AudioTrack {
   name: string;
   /** "loop" plays until stopped, with no gap at the seam. "once" plays to its end. */
   mode: "loop" | "once";
+  /** True for an AI-made voice; the app shows an "AI-generated voice" label (D-027). */
+  ai?: boolean;
 }
 
 export const AUDIO_BASE = "/audio/";
@@ -30,6 +32,18 @@ export const TRACKS: readonly AudioTrack[] = [
   { id: "wind", file: "nature/wind.mp3", category: "nature", name: "Wind", mode: "loop" },
   { id: "conch", file: "temple/conch.mp3", category: "temple", name: "Conch", mode: "once" },
   { id: "bell", file: "temple/bell.mp3", category: "temple", name: "Bell", mode: "once" },
+  // AI-voiced mantras from the prototype, reused with a visible label (D-027, D-028).
+  { id: "om-chant", file: "mantras/om.mp3", category: "mantras", name: "Om chant", mode: "loop", ai: true },
+  { id: "gayatri", file: "mantras/gayatri.mp3", category: "mantras", name: "Gayatri mantra", mode: "loop", ai: true },
+  { id: "om-namah-shivaya", file: "mantras/om-namah-shivaya.mp3", category: "mantras", name: "Om Namah Shivaya", mode: "loop", ai: true },
+  { id: "hare-krishna", file: "mantras/hare-krishna.mp3", category: "mantras", name: "Hare Krishna mahamantra", mode: "loop", ai: true },
+  { id: "vasudeva", file: "mantras/vasudeva.mp3", category: "mantras", name: "Om Namo Bhagavate Vasudevaya", mode: "loop", ai: true },
+  { id: "ganesh", file: "mantras/ganesh.mp3", category: "mantras", name: "Ganesh mantra", mode: "loop", ai: true },
+  { id: "hanuman", file: "mantras/hanuman.mp3", category: "mantras", name: "Hanuman mantra", mode: "loop", ai: true },
+  { id: "durga", file: "mantras/durga.mp3", category: "mantras", name: "Durga mantra", mode: "loop", ai: true },
+  { id: "lakshmi", file: "mantras/lakshmi.mp3", category: "mantras", name: "Lakshmi mantra", mode: "loop", ai: true },
+  { id: "saraswati", file: "mantras/saraswati.mp3", category: "mantras", name: "Saraswati mantra", mode: "loop", ai: true },
+  { id: "asato-ma", file: "mantras/asato-ma.mp3", category: "mantras", name: "Asato Ma Sadgamaya", mode: "loop", ai: true },
 ];
 
 export function trackById(id: string): AudioTrack | undefined {

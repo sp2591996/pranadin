@@ -196,7 +196,13 @@ function Listen() {
               <h3 className="mb-2 font-semibold text-text-muted">{s(`sounds.rec.${c}`)}</h3>
               <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface">
                 {tracksIn(c).map((t) => (
-                  <PlayRow key={t.id} id={t.id} name={trackName(s, t)} layers={[{ id: t.id, volume: 0.8 }]} />
+                  <PlayRow
+                    key={t.id}
+                    id={t.id}
+                    name={trackName(s, t)}
+                    sub={t.ai ? s("sounds.aiVoice") : undefined}
+                    layers={[{ id: t.id, volume: 0.8 }]}
+                  />
                 ))}
               </ul>
             </div>

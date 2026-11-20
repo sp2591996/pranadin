@@ -80,8 +80,10 @@ describe("audio manifest", () => {
       expect(c.title, c.file).not.toBe("");
       expect(c.author, c.file).not.toBe("");
       expect(c.licence, c.file).not.toBe("");
-      expect(c.link, c.file).toMatch(/^https:\/\//);
-      expect(c.aiGenerated).toBe(false);
+      const track = TRACKS.find((t) => t.file === c.file);
+      // AI voices (D-027) are made for the app, so they have no source page; every recording has one.
+      expect(c.aiGenerated, c.file).toBe(track?.ai === true);
+      if (!c.aiGenerated) expect(c.link, c.file).toMatch(/^https:\/\//);
     }
   });
 
@@ -89,7 +91,7 @@ describe("audio manifest", () => {
     expect(trackById("rain")?.mode).toBe("loop");
     expect(trackById("nope")).toBeUndefined();
     expect(tracksIn("nature").map((t) => t.id)).toEqual(["rain", "fire", "wind"]);
-    expect(usedCategories()).toEqual(["nature", "temple"]);
+    expect(usedCategories()).toEqual(["nature", "temple", "mantras"]);
   });
 
   it("loops the nature files and plays the temple files once", () => {

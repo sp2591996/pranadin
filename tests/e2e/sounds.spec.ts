@@ -141,11 +141,12 @@ test.describe("Audio credits and nav", () => {
     await page.goto("/en/info/sources/");
     await expect(page.getByRole("heading", { name: "Audio credits" })).toBeVisible();
     const list = page.getByTestId("audio-credits");
-    await expect(list.getByRole("listitem")).toHaveCount(5);
+    await expect(list.getByRole("listitem")).toHaveCount(16);
     await expect(list).toContainText("ezwa");
     await expect(list).toContainText("CC BY-SA 4.0");
     await expect(list.getByRole("link").first()).toHaveAttribute("href", /^https:\/\/commons\.wikimedia\.org\//);
-    await expect(list).not.toContainText("AI-generated");
+    // D-027: the AI-voiced mantras are credited and visibly labelled.
+    await expect(list.getByText("AI-generated", { exact: false }).first()).toBeVisible();
   });
 
   test("5 tab labels stay inside the screen at 320 px and 200% text", async ({ page }) => {
