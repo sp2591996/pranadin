@@ -75,7 +75,6 @@ test.describe("Onboarding (US-01, US-03 to US-07)", () => {
   });
 
   test("US-03: a first-time user cannot reach Today without tapping I understand [QA-04]", async ({ page }) => {
-    test.fail(true, "QA-04: /en/today/ opens directly on a fresh device");
     await page.goto("/en/today/");
     await page.waitForTimeout(1000);
     await expect(page).toHaveURL(/\/onboarding\//);

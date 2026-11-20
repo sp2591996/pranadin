@@ -3,7 +3,10 @@ import { notFound } from "next/navigation";
 import { I18nProvider } from "@/i18n/client";
 import { isLocale, LOCALES } from "@/i18n/config";
 import { loadMessages } from "@/content/load";
+import { gateScript } from "@/components/gate";
+import { OnboardingGate } from "@/components/OnboardingGate";
 import { ThemeSync } from "@/components/ThemeSync";
+import { DisplaySync } from "@/features/settings/DisplaySync";
 import { fontClassName } from "../fonts";
 import "../globals.css";
 
@@ -43,9 +46,15 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
   const { messages, fallbackCount } = loadMessages(locale);
   return (
     <html lang={locale} className={fontClassName}>
+      <head>
+        {/* US-03 gate: runs before first paint. Hashed into the page CSP by scripts/csp-hash.mjs. */}
+        <script dangerouslySetInnerHTML={{ __html: gateScript() }} />
+      </head>
       <body className="min-h-dvh antialiased">
         <I18nProvider locale={locale} messages={messages} fallbackCount={fallbackCount}>
           <ThemeSync />
+          <DisplaySync />
+          <OnboardingGate />
           {children}
         </I18nProvider>
       </body>
