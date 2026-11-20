@@ -23,3 +23,5 @@ Dev-2 fixed everything inside `src/features/**` and Dev-2 pages. Three items nee
 | CR-D2-12 (QA-10) | Content / Legal | Stillness and meditation screens now show Content's standard caution `safety.caution` (ends "This is a wellbeing practice, not medical treatment.") plus a "Read the full disclaimer" link (`practice.disclaimerLink`, developer text). If Legal wants a meditation-specific line, add `safety.meditation` and Dev-2 will switch | Fixed |
 
 Not Dev-2's code, for the record: QA-12 English `aria-label`s "End practice", "Decrease"/"Increase" come from Dev-2 keys `practice.endA11y`, `a11y.decrease`, `a11y.increase`; they translate as soon as Content's HI/MR files carry them with `reviewed: true`.
+
+**Heads-up for Dev-1 (found 20 Nov, not changed by Dev-2):** in the uncommitted `src/components/gate.ts`, `gateScript()` builds `p.match(/^\/(en|hi|mr)\//)` inside a template literal. There `\/` becomes `/`, so the script that gets inlined is `/^/(en|hi|mr)//`, a syntax error ("missing ) after argument list") on every page. That is what makes the e2e smoke test fail in en/hi/mr. Fix: write `\/` there, or interpolate a regex the way `${OPEN}` already is.
