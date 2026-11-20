@@ -89,13 +89,4 @@ test.describe("Me (US-23, US-24, US-35)", () => {
     }));
     expect(left).toEqual({ ls: [], dbs: [], caches: [] });
   });
-
-  test("US-06: switching analytics off in Me stores the refusal", async ({ page }) => {
-    await page.goto("/en/settings/");
-    const sw = page.getByRole("switch");
-    if (!(await sw.isChecked())) await sw.click();
-    await sw.click();
-    const prefs = await page.evaluate(() => JSON.parse(localStorage.getItem("pranadin.prefs.v1") ?? "{}"));
-    expect(prefs.analyticsConsent).toBe("denied");
-  });
 });

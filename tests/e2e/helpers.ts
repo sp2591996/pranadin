@@ -43,8 +43,8 @@ export async function nextStep(page: Page): Promise<void> {
 }
 
 /**
- * Completes onboarding in `lang` by taking the primary option on every step and
- * "No thanks" for analytics. Leaves the page on Today.
+ * Completes onboarding in `lang` by taking the primary option on every step.
+ * Leaves the page on Today.
  */
 export async function onboard(page: Page, lang: Lang = "en"): Promise<void> {
   await page.goto("/");
@@ -52,15 +52,13 @@ export async function onboard(page: Page, lang: Lang = "en"): Promise<void> {
   await page.getByRole("radio", { name: NATIVE[lang] }).click();
   await page.waitForURL(new RegExp(`/${lang}/onboarding/`));
   await expect(page.locator("html")).toHaveAttribute("lang", lang);
-  // [language (Continue)], welcome (I understand), goal, time, city. Picking a
-  // different language reloads straight onto Welcome, so step until the
-  // analytics screen (the only one without a primary button).
+  // [language (Continue)], welcome (I understand), goal, time, city (Continue
+  // finishes). Picking a different language reloads straight onto Welcome.
   await expect(page.locator("section h2").first()).toBeVisible();
-  for (let i = 0; i < 6 && (await primary(page).count()) > 0; i++) {
+  for (let i = 0; i < 4 && (await primary(page).count()) > 0; i++) {
     await nextStep(page);
   }
-  // analytics: [Allow, No thanks, Back, Skip]
-  await page.locator("section button").nth(1).click();
+  await primary(page).click();
   await page.waitForURL(new RegExp(`/${lang}/today/`));
 }
 

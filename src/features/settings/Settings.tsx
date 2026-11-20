@@ -6,12 +6,11 @@ import { useEffect, useState, type ReactNode } from "react";
 import { FeedbackEntry } from "@/components/FeedbackEntry";
 import { useI18n } from "@/i18n/client";
 import { LOCALE_NATIVE_NAME, LOCALES } from "@/i18n/config";
-import { formatDateKey } from "@/i18n/format";
-import { analyticsConfigured, setAnalyticsConsent, track } from "@/features/analytics";
+import { track } from "@/features/analytics";
 import { JournalExport } from "@/features/journal/JournalView";
 import { ReminderPanel } from "@/features/reminder/ReminderPanel";
 import type { JournalContent } from "@/features/shared/content.server";
-import { applyMotionAttr, readLocal, todayKey, writeLocal } from "@/features/shared/device";
+import { applyMotionAttr } from "@/features/shared/device";
 import { readTextSize, TEXT_SIZE_PERCENT, TEXT_SIZES, writeTextSize, type TextSize } from "./display";
 import { useS } from "@/features/shared/strings";
 import { useDeviceValue } from "@/features/shared/use-device";
@@ -22,7 +21,6 @@ import { clearAllData, DEFAULT_PREFS, getPrefs, getStorage } from "@/lib/storage
 import { GOALS, PLAN_MINUTES, TIME_SLOTS, type JournalEntry, type Prefs, type ThemePref } from "@/lib/types";
 
 const SLOT_KEY = { morning: "when.morning", evening: "when.evening", whenever: "when.any" } as const;
-const CONSENT_DATE_KEY = "analytics.consentDate.v1";
 const VERSION = process.env.NEXT_PUBLIC_APP_VERSION ?? "0.1.0";
 
 function Section({ id, title, children }: { id: string; title: string; children: ReactNode }) {
@@ -59,7 +57,6 @@ export function Settings({ journal }: { journal: JournalContent }) {
   const { t, locale } = useI18n();
   const [prefs, setPrefs] = useDeviceValue<Prefs>(() => getPrefs().read(), DEFAULT_PREFS);
   const [entries, setEntries] = useState<JournalEntry[] | null>(null);
-  const [consentDate, setConsentDate] = useDeviceValue<string | null>(() => readLocal<string | null>(CONSENT_DATE_KEY, null), null);
   const [status, setStatus] = useState<string | null>(null);
   const [textSize, setTextSize] = useDeviceValue<TextSize>(readTextSize, "standard");
   const [confirmClear, setConfirmClear] = useState(false);
@@ -91,22 +88,12 @@ export function Settings({ journal }: { journal: JournalContent }) {
     applyMotionAttr(pref);
   };
 
-  const setConsent = (on: boolean) => {
-    setAnalyticsConsent(on);
-    const d = todayKey();
-    writeLocal(CONSENT_DATE_KEY, d);
-    setConsentDate(d);
-    setPrefs(getPrefs().read());
-  };
-
   const doClear = async () => {
     setConfirmClear(false);
     await clearAllData();
     setStatus(s("privacy.cleared"));
     window.location.assign(routes.onboarding(locale));
   };
-
-  const consentOn = prefs.analyticsConsent === "granted";
 
   return (
     <div className="flex flex-col gap-8">
@@ -199,30 +186,6 @@ export function Settings({ journal }: { journal: JournalContent }) {
       <Section id="me-privacy" title={s("privacy.title")}>
         <p>{s("privacy.summary")}</p>
         <div className={card}>
-          <label className="flex min-h-11 items-center gap-3">
-            <input
-              type="checkbox"
-              role="switch"
-              checked={consentOn}
-              onChange={(e) => setConsent(e.target.checked)}
-              className="h-5 w-5"
-              aria-describedby="consent-help"
-            />
-            <span className="font-semibold">{s("privacy.analytics")}</span>
-          </label>
-          <p id="consent-help" className="mt-1 text-[0.875rem] leading-5 text-text-muted">
-            {s("privacy.analyticsHelp")}
-          </p>
-          {consentDate && prefs.analyticsConsent !== "unset" ? (
-            <p className="mt-1 text-[0.875rem] leading-5 text-text-muted">
-              {s("privacy.consentRecord", { choice: consentOn ? s("common.on") : s("common.off"), date: formatDateKey(consentDate, locale) })}
-            </p>
-          ) : null}
-          {!analyticsConfigured ? (
-            <p className="mt-1 text-[0.875rem] leading-5 text-text-muted" lang="en">
-              (Beta: no analytics tool is connected yet, so nothing is sent either way.)
-            </p>
-          ) : null}
           <Link href={routes.trust(locale, "privacy")} className="mt-2 inline-flex min-h-11 items-center font-semibold text-primary underline">
             {s("privacy.readNotice")}
           </Link>

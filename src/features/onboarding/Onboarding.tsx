@@ -3,14 +3,14 @@
 /**
  * First run (E-11, FR-2, J1, US-01/03/04/05/06/07). Six screens:
  * Language → Welcome + safety (must acknowledge) → Goal → Time & when →
- * City → Anonymous usage choice. Every screen after Welcome has Back and Skip.
- * Skipping everything gives Calm, 10 min, Whenever, New Delhi, analytics off.
+ * City. Every screen after Welcome has Back and Skip.
+ * Skipping everything gives Calm, 10 min, Whenever, New Delhi.
  */
 import Link from "next/link";
 import { useEffect, useId, useMemo, useRef, useState, type ReactNode } from "react";
 import { useI18n } from "@/i18n/client";
 import { LOCALE_NATIVE_NAME, LOCALES } from "@/i18n/config";
-import { setAnalyticsConsent, track } from "@/features/analytics";
+import { track } from "@/features/analytics";
 import { useS } from "@/features/shared/strings";
 import { useDeviceValue } from "@/features/shared/use-device";
 import { btn } from "@/features/shared/ui";
@@ -19,7 +19,7 @@ import { routes } from "@/lib/routes";
 import { DEFAULT_PREFS, getPrefs } from "@/lib/storage";
 import { GOALS, PLAN_MINUTES, TIME_SLOTS, type Goal, type Locale, type PlanMinutes, type TimeSlot } from "@/lib/types";
 
-const TOTAL = 6;
+const TOTAL = 5;
 const SLOT_KEY: Record<TimeSlot, string> = { morning: "when.morning", evening: "when.evening", whenever: "when.any" };
 
 const ACK_KEY = "pranadin.onboarding.ack";
@@ -79,12 +79,10 @@ export function Onboarding() {
     heading.current?.focus();
   }, [step]);
 
-  const finish = (consent: boolean | null) => {
+  const finish = (city: string | null) => {
     const prefs = getPrefs();
-    prefs.write({ locale, goal, minutes, slot, cityId, onboarded: true });
-    if (consent === true) setAnalyticsConsent(true);
-    else if (consent === false) setAnalyticsConsent(false);
-    track("onboarding_completed", { lang: locale, goal, minutes, city_set: cityId !== null });
+    prefs.write({ locale, goal, minutes, slot, cityId: city, onboarded: true });
+    track("onboarding_completed", { lang: locale, goal, minutes, city_set: city !== null });
     window.location.assign(routes.today(locale));
   };
 
@@ -304,44 +302,11 @@ export function Onboarding() {
           </div>
           <p className="mt-3 text-[0.875rem] leading-5 text-text-muted">{s("onb.city.defaultNote")}</p>
           {nav(
-            () => {
-              setCityId(null);
-              next();
-            },
-            <button type="button" className={btn.primary} onClick={next}>
+            () => finish(null),
+            <button type="button" className={btn.primary} onClick={() => finish(cityId)}>
               {s("common.continue")}
             </button>,
           )}
-        </section>
-      ) : null}
-
-      {step === 5 ? (
-        <section aria-labelledby="ob-h">
-          <h2 id="ob-h" ref={heading} tabIndex={-1} className="focus:outline-none">
-            {s("onb.consent.title")}
-          </h2>
-          <p className="mt-2">{s("onb.consent.body")}</p>
-          <Link href={routes.trust(locale, "privacy")} className="mt-2 inline-flex min-h-11 items-center font-semibold text-primary underline">
-            {s("privacy.readNotice")}
-          </Link>
-          {/* US-06: equally prominent, nothing pre-selected. */}
-          <div className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2">
-            <button type="button" className={btn.secondary} onClick={() => finish(true)}>
-              {s("onb.consent.allow")}
-            </button>
-            <button type="button" className={btn.secondary} onClick={() => finish(false)}>
-              {s("onb.consent.deny")}
-            </button>
-          </div>
-          <p className="mt-3 text-[0.875rem] leading-5 text-text-muted">{s("onb.consent.note")}</p>
-          <div className="mt-6 flex justify-between">
-            <button type="button" className={btn.ghost} onClick={back}>
-              {s("common.back")}
-            </button>
-            <button type="button" className={btn.ghost} onClick={() => finish(null)}>
-              {s("common.skip")}
-            </button>
-          </div>
         </section>
       ) : null}
     </div>

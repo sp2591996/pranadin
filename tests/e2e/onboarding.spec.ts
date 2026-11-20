@@ -27,11 +27,9 @@ test.describe("Onboarding (US-01, US-03 to US-07)", () => {
     await page.waitForURL(/\/onboarding\//);
     let taps = 0;
     let screens = 1;
-    // Continue on language, then I understand / Continue x3, then No thanks.
+    // Continue on language, then I understand / Continue x3, then Continue on city.
     while (!/\/today\//.test(page.url()) && taps < 10) {
-      const hasPrimary = (await page.locator(primary).count()) > 0;
-      if (hasPrimary) await nextStep(page);
-      else await page.locator("section button").nth(1).click();
+      await page.locator(primary).first().click();
       taps++;
       if (!/\/today\//.test(page.url())) screens++;
       await page.waitForTimeout(150);
@@ -42,22 +40,21 @@ test.describe("Onboarding (US-01, US-03 to US-07)", () => {
     expect(thirdParty).toEqual([]);
   });
 
-  test("US-04/US-07: every step after Welcome has Back and Skip; skipping all gives Calm, 10 min, New Delhi, analytics off", async ({ page }) => {
+  test("US-04/US-07: every step after Welcome has Back and Skip; skipping all gives Calm, 10 min, New Delhi", async ({ page }) => {
     await page.goto("/");
     await page.waitForURL(/\/onboarding\//);
     await nextStep(page); // language
     await nextStep(page); // welcome: I understand (no Skip by design, US-03)
-    for (let step = 0; step < 4; step++) {
+    for (let step = 0; step < 3; step++) {
       await expect(page.locator("section").getByRole("button", { name: "Back" })).toBeVisible();
       const heading = await page.locator("section h2").first().innerText();
       await page.getByRole("button", { name: "Skip" }).click();
-      if (step < 3) await expect(page.locator("section h2").first()).not.toHaveText(heading);
+      if (step < 2) await expect(page.locator("section h2").first()).not.toHaveText(heading);
     }
     await page.waitForURL(/\/en\/today\//);
     const prefs = await page.evaluate(() => JSON.parse(localStorage.getItem("pranadin.prefs.v1") ?? "{}"));
     expect(prefs).toMatchObject({ goal: "calm", minutes: 10, onboarded: true });
     expect(prefs.cityId ?? "new-delhi").toBe("new-delhi");
-    expect(prefs.analyticsConsent).not.toBe("granted");
     await expect(page.getByText("New Delhi (default)", { exact: false }).first()).toBeVisible();
     await page.goto("/");
     await expect(page).toHaveURL(/\/en\/today\//); // US-07: reopen lands on Today
@@ -100,25 +97,11 @@ test.describe("Onboarding (US-01, US-03 to US-07)", () => {
     for (let i = 0; i < 4; i++) await nextStep(page);
     await page.getByRole("textbox").or(page.getByRole("searchbox")).first().fill("Pu");
     await page.getByRole("radio", { name: "Pune" }).click();
-    await nextStep(page);
-    await page.getByRole("button", { name: "No thanks" }).click();
+    await page.getByRole("button", { name: "Continue" }).click();
     await page.waitForURL(/\/en\/today\//);
     const prefs = await page.evaluate(() => JSON.parse(localStorage.getItem("pranadin.prefs.v1") ?? "{}"));
     expect(prefs.cityId).toBe("pune");
     expect(geoAsked).toBe(false);
-  });
-
-  test("US-06: analytics choice has nothing pre-selected, equal weight, and a privacy link", async ({ page }) => {
-    await page.goto("/");
-    await page.waitForURL(/\/onboarding\//);
-    for (let i = 0; i < 5; i++) await nextStep(page);
-    const yes = page.getByRole("button", { name: /Allow anonymous/ });
-    const no = page.getByRole("button", { name: "No thanks" });
-    await expect(yes).toBeVisible();
-    await expect(no).toBeVisible();
-    expect(await yes.getAttribute("class")).toBe(await no.getAttribute("class"));
-    await expect(page.locator("section button.bg-primary")).toHaveCount(0);
-    await expect(page.getByRole("link", { name: /privacy/i })).toBeVisible();
   });
 
   test("onboarding helper reaches Today in Marathi", async ({ page }) => {

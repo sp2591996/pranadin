@@ -1,18 +1,7 @@
 import { describe, expect, it } from "vitest";
-import { buildPayload, canSend, platformOf } from "./events";
+import { buildPayload, platformOf } from "./events";
 
 const common = { install_id: "abc", lang: "mr", app_version: "0.1.0", local_date: "2026-11-17", platform: "android" as const };
-
-describe("analytics gate (FR-2.4, L5 6.3)", () => {
-  it("sends nothing without a provider, outside production, or without a Yes", () => {
-    expect(canSend({ provider: undefined, env: "production" }, "granted")).toBe(false);
-    expect(canSend({ provider: "none", env: "production" }, "granted")).toBe(false);
-    expect(canSend({ provider: "umami", env: "preview" }, "granted")).toBe(false);
-    expect(canSend({ provider: "umami", env: "production" }, "unset")).toBe(false);
-    expect(canSend({ provider: "umami", env: "production" }, "denied")).toBe(false);
-    expect(canSend({ provider: "umami", env: "production" }, "granted")).toBe(true);
-  });
-});
 
 describe("event payloads (PRD §10, L5 4.2)", () => {
   it("keeps only allow-listed properties", () => {

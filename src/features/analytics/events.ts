@@ -11,7 +11,6 @@ export interface EventProps {
   journal_saved: Record<string, never>;
   language_changed: { to: string };
   feedback_opened: Record<string, never>;
-  consent_updated: { analytics: "on" };
 }
 export type EventName = keyof EventProps;
 
@@ -24,7 +23,6 @@ const ALLOWED: { [K in EventName]: readonly (keyof EventProps[K])[] } = {
   journal_saved: [],
   language_changed: ["to"],
   feedback_opened: [],
-  consent_updated: ["analytics"],
 };
 
 export interface CommonProps {
@@ -54,17 +52,4 @@ export function platformOf(userAgent: string): CommonProps["platform"] {
   if (/Android/i.test(userAgent)) return "android";
   if (/iPhone|iPad|iPod/i.test(userAgent)) return "ios";
   return "desktop";
-}
-
-export interface AnalyticsConfig {
-  provider: string | undefined;
-  env: string | undefined;
-}
-
-/**
- * Sending is allowed only when a provider is configured, this is the
- * production deployment (L5 6.3), and the user said Yes (FR-2.4).
- */
-export function canSend(cfg: AnalyticsConfig, consent: string): boolean {
-  return !!cfg.provider && cfg.provider !== "none" && cfg.env === "production" && consent === "granted";
 }
