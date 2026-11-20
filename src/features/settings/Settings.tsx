@@ -17,7 +17,7 @@ import { useDeviceValue } from "@/features/shared/use-device";
 import { btn, card, ConfirmDialog, Status } from "@/features/shared/ui";
 import { CITIES } from "@/lib/cities";
 import { routes, TRUST_PAGES } from "@/lib/routes";
-import { clearAllData, getPrefs, getStorage } from "@/lib/storage";
+import { clearAllData, DEFAULT_PREFS, getPrefs, getStorage } from "@/lib/storage";
 import { GOALS, PLAN_MINUTES, TIME_SLOTS, type JournalEntry, type Prefs, type ThemePref } from "@/lib/types";
 
 const SLOT_KEY = { morning: "when.morning", evening: "when.evening", whenever: "when.any" } as const;
@@ -56,7 +56,7 @@ function Choice<T extends string | number>({ label, value, options, onChange, te
 export function Settings({ journal }: { journal: JournalContent }) {
   const s = useS();
   const { t, locale } = useI18n();
-  const [prefs, setPrefs] = useDeviceValue<Prefs | null>(() => getPrefs().read(), null);
+  const [prefs, setPrefs] = useDeviceValue<Prefs>(() => getPrefs().read(), DEFAULT_PREFS);
   const [entries, setEntries] = useState<JournalEntry[] | null>(null);
   const [consentDate, setConsentDate] = useDeviceValue<string | null>(() => readLocal<string | null>(CONSENT_DATE_KEY, null), null);
   const [status, setStatus] = useState<string | null>(null);
