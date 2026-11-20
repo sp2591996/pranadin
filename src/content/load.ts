@@ -11,6 +11,10 @@ import fs from "node:fs";
 import path from "node:path";
 import type { z } from "zod";
 import type { Locale } from "@/i18n/config";
+import { DEFAULT_TIME_ZONE } from "@/i18n/config";
+import { localDateKey } from "@/i18n/format";
+import { FEEDBACK_URL } from "@/lib/config";
+import { applyFeedbackLink } from "./pages";
 import { resolveMessages, type ResolvedMessages } from "@/i18n/resolve";
 import {
   observancesDataSchema,
@@ -24,15 +28,13 @@ import {
 } from "./schema";
 
 export const CONTENT_DIR = path.join(process.cwd(), "content");
+
+/** The build's calendar date in India. Pages pre-render for it; the device then switches to its own day. */
+export const BUILD_DATE = localDateKey(Date.now(), DEFAULT_TIME_ZONE);
 /** Legal's final policies, copied by `scripts/sync-legal.mjs` (privacy, terms, help). English only. */
 export const LEGAL_DIR = path.join(process.cwd(), "legal");
 
-/**
- * Feedback/contact link that replaces `{{feedbackLink}}` in pages (SCHEMA.md
- * rule 6). Still to be supplied by the PMO (D-022). While null, the link
- * renders as plain text, so no dead or guessed URL ships.
- */
-export const FEEDBACK_LINK: string | null = null;
+
 
 function readJson(rel: string): unknown | null {
   const file = path.join(CONTENT_DIR, rel);
@@ -187,7 +189,7 @@ function readPage(lang: Locale, slug: string) {
     if (kv) fm[kv[1]!] = kv[2]!.replace(/^"(.*)"$/, "$1");
   }
   const meta = parseOrThrow(pageFrontMatterSchema, `${lang}/pages/${slug}.md`, fm);
-  const body = m[2]!.replace(/\(\{\{feedbackLink\}\}\)/g, FEEDBACK_LINK ? `(${FEEDBACK_LINK})` : "(#feedback-pending)");
+  const body = applyFeedbackLink(m[2]!, FEEDBACK_URL);
   return { meta, body };
 }
 
