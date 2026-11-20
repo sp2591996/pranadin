@@ -16,7 +16,8 @@ export interface MarkdownProps {
 
 function inline(text: string, resolveHref: MarkdownProps["resolveHref"], keyBase: string): ReactNode[] {
   const out: ReactNode[] = [];
-  const re = /\*\*([^*]+)\*\*|\[([^\]]+)\]\(([^)\s]+)\)/g;
+  // **bold** | *italic* or _italic_ | [label](target)
+  const re = /\*\*([^*]+)\*\*|\*([^*\s][^*]*)\*|(?<![\w])_([^_]+)_(?![\w])|\[([^\]]+)\]\(([^)\s]+)\)/g;
   let last = 0;
   let m: RegExpExecArray | null;
   let i = 0;
@@ -25,9 +26,11 @@ function inline(text: string, resolveHref: MarkdownProps["resolveHref"], keyBase
     const key = `${keyBase}-${i++}`;
     if (m[1] !== undefined) {
       out.push(<strong key={key}>{m[1]}</strong>);
+    } else if (m[2] !== undefined || m[3] !== undefined) {
+      out.push(<em key={key}>{m[2] ?? m[3]}</em>);
     } else {
-      const label = m[2]!;
-      const target = m[3]!;
+      const label = m[4]!;
+      const target = m[5]!;
       if (/^https:\/\//.test(target)) {
         out.push(
           <a key={key} href={target} rel="noopener noreferrer" target="_blank" className="text-primary underline underline-offset-2">
@@ -112,7 +115,8 @@ export function Markdown({ source, resolveHref }: MarkdownProps) {
       const [head, , ...body] = rows;
       const kb = key();
       blocks.push(
-        <div key={kb} className="my-4 overflow-x-auto">
+        // Keyboard users must be able to scroll a wide table (axe scrollable-region-focusable, QA-14).
+        <div key={kb} className="my-4 overflow-x-auto rounded-sm focus-visible:outline-2" tabIndex={0} role="region" aria-label={cells(head!).join(", ")}>
           <table className="w-full border-collapse text-small">
             <thead>
               <tr>

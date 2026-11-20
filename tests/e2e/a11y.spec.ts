@@ -5,7 +5,7 @@ import { LOCALES, onboard, P0_PAGES } from "./helpers";
 /** US-29 / DS-7 / Go-No-Go D1: axe on every P0 screen, light and dark, 0 serious or critical. */
 const TAGS = ["wcag2a", "wcag2aa", "wcag21a", "wcag21aa", "wcag22aa"];
 /** Known open defects, excluded here so new regressions still fail. Remove when fixed. */
-const KNOWN: Record<string, string[]> = { "info/privacy/": ["scrollable-region-focusable"] /* QA-14 */ };
+const KNOWN: Record<string, string[]> = {};
 
 for (const lang of LOCALES) {
   for (const colorScheme of ["light", "dark"] as const) {
@@ -32,7 +32,6 @@ for (const lang of LOCALES) {
 }
 
 test("axe: privacy page table is keyboard-scrollable [QA-14]", async ({ page }) => {
-  test.fail(true, "QA-14: scrollable-region-focusable on /info/privacy/");
   await onboard(page, "en");
   await page.goto("/en/info/privacy/");
   const { violations } = await new AxeBuilder({ page }).withRules(["scrollable-region-focusable"]).analyze();
@@ -89,7 +88,6 @@ test.describe("DS-7 layout checks", () => {
   });
 
   test("200% text: bottom nav labels stay inside the screen [QA-07]", async ({ page }) => {
-    test.fail(true, "QA-07: nav labels overlap and Journal is cut off at 200% text");
     await page.goto("/en/today/");
     await page.evaluate(() => (document.documentElement.style.fontSize = "200%"));
     const out = await page.evaluate(() =>

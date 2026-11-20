@@ -45,7 +45,7 @@ export default async function TrustPageRoute({ params }: PageProps<"/[locale]/in
     return s ? routes.trust(locale, s) : null;
   };
   return (
-    <SimpleScreen title={page.title}>
+    <SimpleScreen title={page.title} titleLang={page.lang} englishOnly={page.fellBack}>
       <article lang={page.lang}>
         <Markdown source={page.markdown.replace(/^#\s+.*\n/, "")} resolveHref={resolveHref} />
       </article>
