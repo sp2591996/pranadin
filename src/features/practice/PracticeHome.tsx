@@ -29,7 +29,7 @@ function Row({ href, title, sub }: { href: string; title: string; sub?: string }
       <Link href={href} className="flex min-h-16 items-center gap-3 px-4 py-3 hover:bg-surface-2">
         <span className="flex-1">
           <span className="block font-semibold">{title}</span>
-          {sub ? <span className="block text-[14px] leading-5 text-text-muted">{sub}</span> : null}
+          {sub ? <span className="block text-[0.875rem] leading-5 text-text-muted">{sub}</span> : null}
         </span>
         <CaretRightIcon size={20} aria-hidden="true" className="text-text-muted" />
       </Link>
@@ -70,7 +70,7 @@ export function PracticeHome({ techniques, meditations }: { techniques: Techniqu
             <Row key={t.slug} href={practiceRoutes.breath(locale, t.slug)} title={t.name} sub={`${t.subtitle} · ${t.rhythm}`} />
           ))}
         </ul>
-        <p className="mt-2 text-[14px] leading-5 text-text-muted">{s("tech.noHold")}</p>
+        <p className="mt-2 text-[0.875rem] leading-5 text-text-muted">{s("tech.noHold")}</p>
       </section>
 
       <section aria-labelledby="meditate-h">
@@ -82,7 +82,7 @@ export function PracticeHome({ techniques, meditations }: { techniques: Techniqu
             <Row key={m.slug} href={practiceRoutes.stillness(locale, m.slug)} title={m.title} />
           ))}
         </ul>
-        <p className="mt-2 text-[14px] leading-5 text-text-muted">{s("practice.ambienceNote")}</p>
+        <p className="mt-2 text-[0.875rem] leading-5 text-text-muted">{s("practice.ambienceNote")}</p>
       </section>
     </div>
   );

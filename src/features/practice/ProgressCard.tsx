@@ -19,7 +19,7 @@ export function WeekDots({ progress, today }: { progress: Progress; today?: stri
               aria-hidden="true"
               className={`h-4 w-4 rounded-full border-2 ${on ? "border-primary bg-primary" : "border-border-input"} ${d === today ? "outline-2 outline-offset-2 outline-primary" : ""}`}
             />
-            <span className="text-[12px] leading-4 text-text-muted">{s(DAY_KEYS[i]!)}</span>
+            <span className="text-[0.75rem] leading-4 text-text-muted">{s(DAY_KEYS[i]!)}</span>
             <span className="sr-only">{on ? s("a11y.stepDone") : s("a11y.stepNotDone")}</span>
           </li>
         );
@@ -39,12 +39,12 @@ export function ProgressCard({ progress, today }: { progress: Progress; today: s
       <h2 id="progress-h" className="sr-only">
         {s("progress.title")}
       </h2>
-      <p className="text-[22px] leading-[30px] font-semibold">{s("streak.count", { count: progress.streak })}</p>
+      <p className="text-[1.375rem] leading-[1.875rem] font-semibold">{s("streak.count", { count: progress.streak })}</p>
       <p className="mt-1 text-text-muted">{line}</p>
       <div className="mt-4">
         <WeekDots progress={progress} today={today} />
       </div>
-      <p className="mt-4 text-[14px] leading-5 text-text-muted">
+      <p className="mt-4 text-[0.875rem] leading-5 text-text-muted">
         {s("streak.totalDays", { count: progress.totalDays })} · {s("streak.totalMinutes", { count: progress.totalMinutes })}
       </p>
     </section>

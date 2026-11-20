@@ -64,7 +64,6 @@ test.describe("Tabs", () => {
   });
 
   test("US-23: Me offers text size 100/115/130% [QA-06]", async ({ page }) => {
-    test.fail(true, "QA-06: text size setting not built (CR-D2-05)");
     await page.goto("/en/settings/");
     await expect(page.getByText(/Text size/i)).toBeVisible({ timeout: 3000 });
   });

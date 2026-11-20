@@ -37,10 +37,10 @@ export function SessionComplete({ kind, minutes, saved }: { kind: "breath" | "st
 
   return (
     <section aria-labelledby="done-h" className="flex flex-col items-center gap-4 py-6 text-center">
-      <h1 id="done-h" ref={heading} tabIndex={-1} className="text-[36px] leading-[44px] focus:outline-none">
+      <h1 id="done-h" ref={heading} tabIndex={-1} className="text-[2.25rem] leading-[2.75rem] focus:outline-none">
         {s("complete.title")}
       </h1>
-      <p className="text-[18px] leading-7">{s("complete.summary", { minutes, type: s(`complete.type.${kind}`) })}</p>
+      <p className="text-[1.125rem] leading-7">{s("complete.summary", { minutes, type: s(`complete.type.${kind}`) })}</p>
       <p className="text-text-muted">{s(`complete.msg.${msgN}`)}</p>
       {!saved ? <p className="rounded-md bg-warning-tint p-3 text-text">{s("practice.notSaved")}</p> : null}
       {progress ? (
@@ -58,7 +58,7 @@ export function SessionComplete({ kind, minutes, saved }: { kind: "breath" | "st
       </div>
       {offer ? (
         <aside aria-labelledby="offer-h" className={`${card} mt-4 w-full max-w-sm text-left`}>
-          <h2 id="offer-h" className="mb-2 text-[18px] leading-[26px]">
+          <h2 id="offer-h" className="mb-2 text-[1.125rem] leading-[1.625rem]">
             {s("reminder.offer.title")}
           </h2>
           <ReminderPanel showRemoveHelp={false} />

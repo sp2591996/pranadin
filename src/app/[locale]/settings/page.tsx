@@ -4,7 +4,7 @@ import { loadJournalContent, loadStrings } from "@/features/shared/content.serve
 import { StringsProvider } from "@/features/shared/strings";
 import { Settings } from "@/features/settings/Settings";
 
-const PREFIXES = ["me.", "privacy.", "help.", "theme.", "goal.", "when.", "reminder.", "journal.", "lang."];
+const PREFIXES = ["me.", "textSize.", "privacy.", "help.", "theme.", "goal.", "when.", "reminder.", "journal.", "lang."];
 
 /** "Me" / settings (E-11, Dev-2). Trust pages are one tap from here, two from any screen (FR-9). */
 export default async function SettingsPage({ params }: PageProps<"/[locale]/settings">) {

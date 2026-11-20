@@ -11,6 +11,7 @@ import { JournalExport } from "@/features/journal/JournalView";
 import { ReminderPanel } from "@/features/reminder/ReminderPanel";
 import type { JournalContent } from "@/features/shared/content.server";
 import { applyMotionAttr, readLocal, todayKey, writeLocal } from "@/features/shared/device";
+import { readTextSize, TEXT_SIZE_PERCENT, TEXT_SIZES, writeTextSize, type TextSize } from "./display";
 import { useS } from "@/features/shared/strings";
 import { useDeviceValue } from "@/features/shared/use-device";
 import { btn, card, ConfirmDialog, Status } from "@/features/shared/ui";
@@ -26,7 +27,7 @@ const VERSION = process.env.NEXT_PUBLIC_APP_VERSION ?? "0.1.0";
 function Section({ id, title, children }: { id: string; title: string; children: ReactNode }) {
   return (
     <section aria-labelledby={id} className="flex flex-col gap-3">
-      <h2 id={id} className="text-[18px] leading-[26px]">
+      <h2 id={id} className="text-[1.125rem] leading-[1.625rem]">
         {title}
       </h2>
       {children}
@@ -59,6 +60,7 @@ export function Settings({ journal }: { journal: JournalContent }) {
   const [entries, setEntries] = useState<JournalEntry[] | null>(null);
   const [consentDate, setConsentDate] = useDeviceValue<string | null>(() => readLocal<string | null>(CONSENT_DATE_KEY, null), null);
   const [status, setStatus] = useState<string | null>(null);
+  const [textSize, setTextSize] = useDeviceValue<TextSize>(readTextSize, "standard");
   const [confirmClear, setConfirmClear] = useState(false);
 
   useEffect(() => {
@@ -170,6 +172,21 @@ export function Settings({ journal }: { journal: JournalContent }) {
         />
       </Section>
 
+      <Section id="me-text" title={s("me.textSize")}>
+        <Choice
+          label={s("me.textSize")}
+          value={textSize}
+          options={TEXT_SIZES}
+          onChange={(v) => {
+            setTextSize(v);
+            writeTextSize(v);
+            setStatus(s("me.saved"));
+          }}
+          text={(v) => `${s(`textSize.${v}`)} (${TEXT_SIZE_PERCENT[v]}%)`}
+        />
+        <p className="rounded-md bg-surface-2 p-3 text-[1rem]">{s("me.textPreview")}</p>
+      </Section>
+
       <Section id="me-theme" title={s("me.theme")}>
         <Choice label={s("me.theme")} value={prefs.theme} options={["system", "light", "dark"] as const} onChange={setTheme} text={(v) => s(`theme.${v}`)} />
       </Section>
@@ -192,16 +209,16 @@ export function Settings({ journal }: { journal: JournalContent }) {
             />
             <span className="font-semibold">{s("privacy.analytics")}</span>
           </label>
-          <p id="consent-help" className="mt-1 text-[14px] leading-5 text-text-muted">
+          <p id="consent-help" className="mt-1 text-[0.875rem] leading-5 text-text-muted">
             {s("privacy.analyticsHelp")}
           </p>
           {consentDate && prefs.analyticsConsent !== "unset" ? (
-            <p className="mt-1 text-[14px] leading-5 text-text-muted">
+            <p className="mt-1 text-[0.875rem] leading-5 text-text-muted">
               {s("privacy.consentRecord", { choice: consentOn ? s("common.on") : s("common.off"), date: formatDateKey(consentDate, locale) })}
             </p>
           ) : null}
           {!analyticsConfigured ? (
-            <p className="mt-1 text-[14px] leading-5 text-text-muted" lang="en">
+            <p className="mt-1 text-[0.875rem] leading-5 text-text-muted" lang="en">
               (Beta: no analytics tool is connected yet, so nothing is sent either way.)
             </p>
           ) : null}
@@ -245,7 +262,7 @@ export function Settings({ journal }: { journal: JournalContent }) {
       </Section>
 
       <nav aria-labelledby="me-trust">
-        <h2 id="me-trust" className="mb-3 text-[18px] leading-[26px]">
+        <h2 id="me-trust" className="mb-3 text-[1.125rem] leading-[1.625rem]">
           {s("me.trust")}
         </h2>
         <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface">
@@ -265,7 +282,7 @@ export function Settings({ journal }: { journal: JournalContent }) {
         </ul>
       </nav>
 
-      <p className="text-center text-[14px] leading-5 text-text-muted">{s("me.version", { version: VERSION })}</p>
+      <p className="text-center text-[0.875rem] leading-5 text-text-muted">{s("me.version", { version: VERSION })}</p>
 
       <ConfirmDialog
         open={confirmClear}

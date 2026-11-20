@@ -48,7 +48,7 @@ export function ReminderPanel({ showRemoveHelp = true }: { showRemoveHelp?: bool
       <p className="text-text-muted">{s("reminder.cr01.explainer", { time })}</p>
       <div className="flex flex-wrap items-end gap-3">
         <label htmlFor={id} className="flex flex-col gap-1">
-          <span className="text-[14px] leading-5 font-semibold">{s("reminder.time")}</span>
+          <span className="text-[0.875rem] leading-5 font-semibold">{s("reminder.time")}</span>
           <input
             id={id}
             type="time"
@@ -63,7 +63,7 @@ export function ReminderPanel({ showRemoveHelp = true }: { showRemoveHelp?: bool
         </button>
       </div>
       <Status message={status} />
-      {showRemoveHelp ? <p className="text-[14px] leading-5 text-text-muted">{s("reminder.howToRemove")}</p> : null}
+      {showRemoveHelp ? <p className="text-[0.875rem] leading-5 text-text-muted">{s("reminder.howToRemove")}</p> : null}
     </div>
   );
 }
