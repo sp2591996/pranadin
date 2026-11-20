@@ -102,6 +102,22 @@ export interface Technique {
   what: string;
   steps: string[];
   skipIf: string[];
+  /** Where the technique comes from (QA-21, US-26). English by design, like observance sources. */
+  source: PracticeSource | null;
+  /** Language the text is shown in: "en" on a hi/mr page means it fell back to English (QA-11). */
+  lang: Locale;
+}
+
+export interface PracticeSource {
+  name: string;
+  url?: string;
+}
+
+function sourceOf(x: unknown): PracticeSource | null {
+  if (!x || typeof x !== "object") return null;
+  const { name, url } = x as { name?: unknown; url?: unknown };
+  if (typeof name !== "string" || !name.trim()) return null;
+  return typeof url === "string" ? { name, url } : { name };
 }
 
 export interface Meditation {
@@ -112,6 +128,8 @@ export interface Meditation {
   cues: { at: number; text: string }[];
   closing: string;
   note: string;
+  source: PracticeSource | null;
+  lang: Locale;
 }
 
 const slugOf = (id: string) => id.replace(/^[a-z]+\./, "");
@@ -149,6 +167,8 @@ export function loadTechniques(locale: Locale): Technique[] {
         what: String(text.what ?? ""),
         steps: (text.steps as string[]) ?? [],
         skipIf: (text.skipIf as string[]) ?? [],
+        source: sourceOf(t.source),
+        lang: useTr ? locale : "en",
       };
     });
 }
@@ -172,6 +192,8 @@ export function loadMeditations(locale: Locale): Meditation[] {
       cues: ((m.cues as { at: number }[]) ?? []).map((c, i) => ({ at: c.at, text: cueTexts[i] ?? "" })).filter((c) => c.text),
       closing: String(text.closing ?? ""),
       note: String(text.note ?? ""),
+      source: sourceOf(m.source),
+      lang: l && (approved(l) || trApproved) ? locale : "en",
     };
   });
 }
@@ -180,7 +202,7 @@ export function loadMeditations(locale: Locale): Meditation[] {
 
 export interface JournalContent {
   /** Ordered prompts (prompt.01 … prompt.30). */
-  prompts: { id: string; text: string }[];
+  prompts: { id: string; text: string; lang: Locale }[];
   /** Content mood key → label, e.g. `mood.peaceful` → "Peaceful". */
   moods: Record<string, { label: string; a11y: string }>;
 }
@@ -191,7 +213,10 @@ export function loadJournalContent(locale: Locale): JournalContent {
   const trP = (tr?.prompts ?? {}) as Record<string, unknown>;
   const prompts = Object.keys(enP)
     .sort()
-    .map((id) => ({ id, text: pickLocalized(enP[id]!, trP[id], trApproved) }));
+    .map((id) => {
+      const text = pickLocalized(enP[id]!, trP[id], trApproved);
+      return { id, text, lang: (locale !== "en" && text !== enP[id] ? locale : "en") as Locale };
+    });
   const enMoods = (en.moods ?? {}) as Record<string, { label: string; a11y: string }>;
   const trMoods = (tr?.moods ?? {}) as Record<string, unknown>;
   const moods: JournalContent["moods"] = {};

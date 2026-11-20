@@ -10,6 +10,7 @@ const KNOWN: Record<string, string[]> = {};
 for (const lang of LOCALES) {
   for (const colorScheme of ["light", "dark"] as const) {
     test(`axe: ${lang} ${colorScheme}`, async ({ browser, baseURL }) => {
+      test.setTimeout(180_000); // 14 screens, each scanned by axe
       const ctx = await browser.newContext({ baseURL, colorScheme, locale: `${lang}-IN`, viewport: { width: 360, height: 780 } });
       const page = await ctx.newPage();
       await onboard(page, lang);

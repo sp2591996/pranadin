@@ -21,6 +21,8 @@ import { formatClock, positionAt, roundsFor, SessionClock, type BreathPosition }
 import { useOnHidden, useSessionKeys, useWakeLock } from "./hooks";
 import { readSessionQuery } from "./routes";
 import { SessionComplete } from "./SessionComplete";
+import { EnglishMark } from "@/components/ObservanceBody";
+import { SourceLine } from "./SourceLine";
 import { acknowledge, hasAcknowledged, readSound, recordSession, writeSound, type SoundSettings } from "./store";
 
 type Phase = "intro" | "ready" | "settle" | "running" | "paused" | "returning" | "complete";
@@ -253,7 +255,8 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
           <XIcon size={24} aria-hidden="true" />
         </Link>
         <h1 className="min-w-0 flex-1 text-[1.375rem] leading-[1.875rem] break-words">
-          {technique.name} · {s("common.minutesShort", { count: minutes })}
+          <span lang={technique.lang}>{technique.name}</span> · {s("common.minutesShort", { count: minutes })}
+          {technique.lang === "en" ? <EnglishMark /> : null}
         </h1>
         <button
           type="button"
@@ -265,6 +268,8 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
           {sound.chime ? <SpeakerHighIcon size={24} aria-hidden="true" /> : <SpeakerSlashIcon size={24} aria-hidden="true" />}
         </button>
       </div>
+
+      {phase === "intro" || phase === "ready" ? <SourceLine source={technique.source} /> : null}
 
       {phase === "intro" ? (
         <section aria-labelledby="first-h" className="flex flex-col gap-4">

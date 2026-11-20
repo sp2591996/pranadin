@@ -25,7 +25,10 @@
       "cautionKey": "safety.caution",
       "safetyReviewed": true,
       "safetyReviewedBy": "Board",
-      "safetyReviewedOn": "2026-11-17"
+      "safetyReviewedOn": "2026-11-17",
+      "source": {
+        "name": "Widely taught technique, described in our own words by the PranaDin content team"
+      }
     },
     {
       "id": "breath.deergha",
@@ -47,7 +50,10 @@
       "cautionKey": "safety.caution",
       "safetyReviewed": true,
       "safetyReviewedBy": "Board",
-      "safetyReviewedOn": "2026-11-17"
+      "safetyReviewedOn": "2026-11-17",
+      "source": {
+        "name": "Widely taught technique, described in our own words by the PranaDin content team"
+      }
     },
     {
       "id": "breath.nadi-shodhana",
@@ -83,7 +89,11 @@
       "cautionKey": "safety.caution",
       "safetyReviewed": true,
       "safetyReviewedBy": "Board",
-      "safetyReviewedOn": "2026-11-17"
+      "safetyReviewedOn": "2026-11-17",
+      "source": {
+        "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India",
+        "url": "https://www.mea.gov.in/images/pdf/common-yoga-protocol-english.pdf"
+      }
     },
     {
       "id": "breath.bhramari",
@@ -105,7 +115,11 @@
       "cautionKey": "safety.caution",
       "safetyReviewed": true,
       "safetyReviewedBy": "Board",
-      "safetyReviewedOn": "2026-11-17"
+      "safetyReviewedOn": "2026-11-17",
+      "source": {
+        "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India",
+        "url": "https://www.mea.gov.in/images/pdf/common-yoga-protocol-english.pdf"
+      }
     }
   ],
   "meditations": [
@@ -122,7 +136,10 @@
         {
           "at": 0.9
         }
-      ]
+      ],
+      "source": {
+        "name": "Our own script, written by the PranaDin content team"
+      }
     },
     {
       "id": "med.body-scan",
@@ -143,7 +160,10 @@
         {
           "at": 0.9
         }
-      ]
+      ],
+      "source": {
+        "name": "Our own script, written by the PranaDin content team"
+      }
     }
   ]
 }

@@ -1,6 +1,7 @@
 "use client";
 
 import { useI18n } from "@/i18n/client";
+import { LOCALE_NATIVE_NAME } from "@/i18n/config";
 
 /**
  * On hi/mr pages, says plainly that unreviewed text is shown in English
@@ -13,7 +14,7 @@ export function FallbackNote({ force = false }: { force?: boolean }) {
   if (locale === "en" || (fallbackCount === 0 && !force)) return null;
   return (
     <p role="note" className="mb-4 rounded-md border border-divider bg-surface-2 px-3 py-2 text-small text-text-muted">
-      {t("lang.fallback", { language: t(locale === "hi" ? "lang.name.hi" : "lang.name.mr") })}
+      {t("lang.fallback", { language: LOCALE_NATIVE_NAME[locale] })}
     </p>
   );
 }

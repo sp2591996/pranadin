@@ -56,7 +56,6 @@ test.describe("Tabs", () => {
   });
 
   test("US-27: a Send feedback entry is reachable from Me [QA-05]", async ({ page }) => {
-    test.fail(true, "QA-05: entry is hidden by design until the Board supplies FEEDBACK_URL (D-022, src/lib/config.ts)");
     await page.goto("/en/settings/");
     await expect(page.getByRole("link", { name: /feedback/i }).or(page.getByRole("button", { name: /feedback/i }))).toBeVisible({ timeout: 3000 });
   });
@@ -67,7 +66,6 @@ test.describe("Tabs", () => {
   });
 
   test("US-25: trust pages show the beta label and have no unfilled placeholders [QA-03]", async ({ page }) => {
-    test.fail(true, "QA-03: Legal fill-ins and [launch date] still visible");
     for (const p of ["privacy", "terms", "help"]) {
       await page.goto(`/en/info/${p}/`);
       const text = await page.locator("main").innerText();

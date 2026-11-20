@@ -77,6 +77,20 @@ test.describe("Onboarding (US-01, US-03 to US-07)", () => {
     await expect(page).toHaveURL(/\/onboarding\//);
   });
 
+  test("US-01: tapping the current language or another one both land on Welcome [QA-19]", async ({ page }) => {
+    await page.goto("/");
+    await page.waitForURL(/\/en\/onboarding\//);
+    await page.getByRole("radio", { name: NATIVE.en }).click();
+    await expect(page.locator("section h2").first()).not.toHaveText(/language/i);
+    await expect(page).toHaveURL(/#step-1$/);
+    const welcome = await page.locator("section h2").first().innerText();
+    await page.goto("/en/onboarding/");
+    await page.getByRole("radio", { name: NATIVE.hi }).click();
+    await page.waitForURL(/\/hi\/onboarding\/#step-1/);
+    await expect(page.locator("section h2").first()).toBeVisible();
+    expect(welcome.length).toBeGreaterThan(0);
+  });
+
   test("US-05: typing 'Pu' finds Pune, only the city id is stored, no location prompt", async ({ page, context }) => {
     let geoAsked = false;
     await context.exposeFunction("__geoAsked", () => {

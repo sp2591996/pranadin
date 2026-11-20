@@ -16,6 +16,7 @@ export default async function PracticePage({ params }: PageProps<"/[locale]/prac
     slug: t.slug,
     name: t.name,
     subtitle: t.subtitle,
+    lang: t.lang,
     rhythm: formatMessage(
       rhythmTpl,
       {
@@ -25,7 +26,7 @@ export default async function PracticePage({ params }: PageProps<"/[locale]/prac
       locale,
     ),
   }));
-  const meditations = loadMeditations(locale).map((m) => ({ slug: m.slug, title: m.title }));
+  const meditations = loadMeditations(locale).map((m) => ({ slug: m.slug, title: m.title, lang: m.lang }));
   return (
     <StringsProvider strings={strings}>
       <PracticeHome techniques={techniques} meditations={meditations} />

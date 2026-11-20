@@ -52,12 +52,10 @@ export async function onboard(page: Page, lang: Lang = "en"): Promise<void> {
   await page.getByRole("radio", { name: NATIVE[lang] }).click();
   await page.waitForURL(new RegExp(`/${lang}/onboarding/`));
   await expect(page.locator("html")).toHaveAttribute("lang", lang);
-  // [language (Continue)], welcome (I understand), goal, time, city (Continue
-  // finishes). Picking a different language reloads straight onto Welcome.
+  // Tapping a language (current or another) lands on Welcome (QA-19), then:
+  // I understand, goal, time, and city (Continue finishes onboarding).
   await expect(page.locator("section h2").first()).toBeVisible();
-  for (let i = 0; i < 4 && (await primary(page).count()) > 0; i++) {
-    await nextStep(page);
-  }
+  for (let i = 0; i < 3; i++) await nextStep(page);
   await primary(page).click();
   await page.waitForURL(new RegExp(`/${lang}/today/`));
 }

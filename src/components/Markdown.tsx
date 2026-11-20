@@ -14,6 +14,9 @@ export interface MarkdownProps {
   resolveHref: (target: string) => string | null;
 }
 
+/** At least 44 px tall and wide, like every other target (QA-18). */
+const LINK = "inline-flex min-h-11 min-w-11 items-center text-primary underline underline-offset-2";
+
 function inline(text: string, resolveHref: MarkdownProps["resolveHref"], keyBase: string): ReactNode[] {
   const out: ReactNode[] = [];
   // **bold** | *italic* or _italic_ | [label](target)
@@ -33,13 +36,13 @@ function inline(text: string, resolveHref: MarkdownProps["resolveHref"], keyBase
       const target = m[5]!;
       if (/^https:\/\//.test(target)) {
         out.push(
-          <a key={key} href={target} rel="noopener noreferrer" target="_blank" className="text-primary underline underline-offset-2">
+          <a key={key} href={target} rel="noopener noreferrer" target="_blank" className={LINK}>
             {label}
           </a>,
         );
       } else if (/^(mailto|tel):/.test(target)) {
         out.push(
-          <a key={key} href={target} className="text-primary underline underline-offset-2">
+          <a key={key} href={target} className={LINK}>
             {label}
           </a>,
         );
@@ -47,7 +50,7 @@ function inline(text: string, resolveHref: MarkdownProps["resolveHref"], keyBase
         const href = resolveHref(target);
         out.push(
           href ? (
-            <Link key={key} href={href} className="text-primary underline underline-offset-2">
+            <Link key={key} href={href} className={LINK}>
               {label}
             </Link>
           ) : (

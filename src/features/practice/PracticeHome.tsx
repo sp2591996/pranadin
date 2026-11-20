@@ -7,6 +7,8 @@ import { CaretRightIcon } from "@phosphor-icons/react/dist/csr/CaretRight";
 import { useI18n } from "@/i18n/client";
 import { todayKey } from "@/features/shared/device";
 import { useS } from "@/features/shared/strings";
+import { EnglishMark } from "@/components/ObservanceBody";
+import type { Locale } from "@/i18n/config";
 import { ProgressCard } from "./ProgressCard";
 import { loadProgress } from "./store";
 import type { Progress } from "./streak";
@@ -17,18 +19,23 @@ export interface TechniqueSummary {
   name: string;
   subtitle: string;
   rhythm: string;
+  lang: Locale;
 }
 export interface MeditationSummary {
   slug: string;
   title: string;
+  lang: Locale;
 }
 
-function Row({ href, title, sub }: { href: string; title: string; sub?: string }) {
+function Row({ href, title, sub, lang }: { href: string; title: string; sub?: string; lang?: Locale }) {
   return (
     <li>
       <Link href={href} className="flex min-h-16 items-center gap-3 px-4 py-3 hover:bg-surface-2">
         <span className="flex-1">
-          <span className="block font-semibold">{title}</span>
+          <span className="block font-semibold">
+            <span lang={lang}>{title}</span>
+            {lang === "en" ? <EnglishMark /> : null}
+          </span>
           {sub ? <span className="block text-[0.875rem] leading-5 text-text-muted">{sub}</span> : null}
         </span>
         <CaretRightIcon size={20} aria-hidden="true" className="text-text-muted" />
@@ -67,7 +74,7 @@ export function PracticeHome({ techniques, meditations }: { techniques: Techniqu
         <p className="mb-3 text-text-muted">{s("practice.breathe.sub")}</p>
         <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface">
           {techniques.map((t) => (
-            <Row key={t.slug} href={practiceRoutes.breath(locale, t.slug)} title={t.name} sub={`${t.subtitle} · ${t.rhythm}`} />
+            <Row key={t.slug} href={practiceRoutes.breath(locale, t.slug)} title={t.name} lang={t.lang} sub={`${t.subtitle} · ${t.rhythm}`} />
           ))}
         </ul>
         <p className="mt-2 text-[0.875rem] leading-5 text-text-muted">{s("tech.noHold")}</p>
@@ -79,7 +86,7 @@ export function PracticeHome({ techniques, meditations }: { techniques: Techniqu
         <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface">
           <Row href={practiceRoutes.stillness(locale, SILENT_ID)} title={s("practice.silent.title")} />
           {meditations.map((m) => (
-            <Row key={m.slug} href={practiceRoutes.stillness(locale, m.slug)} title={m.title} />
+            <Row key={m.slug} href={practiceRoutes.stillness(locale, m.slug)} title={m.title} lang={m.lang} />
           ))}
         </ul>
         <p className="mt-2 text-[0.875rem] leading-5 text-text-muted">{s("practice.ambienceNote")}</p>

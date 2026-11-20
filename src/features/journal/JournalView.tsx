@@ -21,6 +21,7 @@ import { useDeviceValue } from "@/features/shared/use-device";
 import { btn, card, ConfirmDialog, Status } from "@/features/shared/ui";
 import { getStorage, newId, requestPersistence, StorageError, type StorageBackend } from "@/lib/storage";
 import { JOURNAL_MAX_CHARS, type JournalEntry, type Mood } from "@/lib/types";
+import { EnglishMark } from "@/components/ObservanceBody";
 import { buildEntry, exportFileName, journalToJson, journalToText, MOOD_CONTENT_KEY, MOOD_ORDER, promptIndexFor, validateDraft } from "./logic";
 
 const MOOD_ICON: Record<Mood, Icon> = { peaceful: LeafIcon, grateful: HeartIcon, okay: SmileyMehIcon, restless: WindIcon, heavy: CloudIcon };
@@ -217,7 +218,10 @@ export function JournalView({ content }: { content: JournalContent }) {
           {prompt ? (
             <div>
               <p className="text-[0.875rem] leading-5 font-semibold text-text-muted">{s("journal.prompt")}</p>
-              <p className="text-[1.125rem] leading-7">{prompt.text}</p>
+              <p className="text-[1.125rem] leading-7">
+                <span lang={prompt.lang}>{prompt.text}</span>
+                {prompt.lang === "en" ? <EnglishMark /> : null}
+              </p>
               <button type="button" className={`${btn.ghost} -ml-4`} onClick={() => setPromptIdx((promptIdx + 1) % content.prompts.length)}>
                 {s("journal.prompt.another")}
               </button>

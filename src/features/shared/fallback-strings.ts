@@ -36,6 +36,7 @@ export const FALLBACK_STRINGS: Record<string, string> = {
   "journal.list": "Your reflections",
   // QA-15 / US-20 / FR-8.5: exact PRD wording; Content's shorter `journal.notice` lacks the middle sentence.
   "journal.noticeShared": "Saved only on this phone. Anyone using this phone can open it. Clearing browser data deletes it.",
+  "practice.source": "Source",
   "practice.disclaimerLink": "Read the full disclaimer",
   "journal.mood.none": "No mood",
   "journal.exportTxt": "Download as text (.txt)",

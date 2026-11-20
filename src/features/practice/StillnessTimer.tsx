@@ -18,6 +18,8 @@ import { formatClock, SessionClock } from "./engine";
 import { useOnHidden, useSessionKeys, useWakeLock } from "./hooks";
 import { readSessionQuery } from "./routes";
 import { SessionComplete } from "./SessionComplete";
+import { EnglishMark } from "@/components/ObservanceBody";
+import { SourceLine } from "./SourceLine";
 import { readSound, recordSession, writeSound } from "./store";
 
 type Phase = "ready" | "settle" | "running" | "paused" | "returning" | "complete";
@@ -230,7 +232,8 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId,
           <XIcon size={24} aria-hidden="true" />
         </Link>
         <h1 className="min-w-0 flex-1 text-[1.375rem] leading-[1.875rem] break-words">
-          {title} · {s("common.minutesShort", { count: minutes })}
+          <span lang={meditation?.lang}>{title}</span> · {s("common.minutesShort", { count: minutes })}
+          {meditation?.lang === "en" ? <EnglishMark /> : null}
         </h1>
       </div>
 
@@ -370,6 +373,8 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId,
           </div>
         ) : null}
       </section>
+
+      <SourceLine source={meditation?.source ?? null} />
 
       <ConfirmDialog
         open={confirmEnd}
