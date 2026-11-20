@@ -12,6 +12,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import type { Locale } from "@/i18n/config";
+import type { PlanContent } from "@/features/plan/plan";
 import { FALLBACK_STRINGS } from "./fallback-strings";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
@@ -53,6 +54,13 @@ function localizedFile(name: string, locale: Locale): { en: Json; tr: Json | nul
 
 export type Strings = Record<string, string>;
 
+/**
+ * Reserved entry in a `Strings` record: the keys whose text is a reviewed
+ * HI/MR translation, joined by "|". Every other key is English, so the client
+ * formats it with English plural rules (QA-16: "0 days", not "0 day").
+ */
+export const LOCALIZED_KEYS = "@localized";
+
 /** UI strings whose keys start with any of `prefixes` (plus `common.`), with developer fallbacks. */
 export function loadStrings(locale: Locale, prefixes: readonly string[]): Strings {
   const { en, tr, trApproved } = localizedFile("ui.json", locale);
@@ -60,10 +68,14 @@ export function loadStrings(locale: Locale, prefixes: readonly string[]): String
   const trStrings = (tr?.strings ?? {}) as Record<string, unknown>;
   const want = (k: string) => k.startsWith("common.") || prefixes.some((p) => k.startsWith(p));
   const out: Strings = {};
+  const localized: string[] = [];
   for (const [k, v] of Object.entries(FALLBACK_STRINGS)) if (want(k)) out[k] = v;
   for (const [k, v] of Object.entries(enStrings)) {
-    if (want(k)) out[k] = pickLocalized(v, trStrings[k], trApproved);
+    if (!want(k)) continue;
+    out[k] = pickLocalized(v, trStrings[k], trApproved);
+    if (locale !== "en" && out[k] !== v) localized.push(k);
   }
+  out[LOCALIZED_KEYS] = localized.join("|");
   return out;
 }
 
@@ -188,4 +200,36 @@ export function loadJournalContent(locale: Locale): JournalContent {
     moods[k] = l && (approved(l) || trApproved) ? { ...v, ...(l as object) } : v;
   }
   return { prompts, moods };
+}
+
+// ---------- Daily plan (FR-3.2) ----------
+
+/** Plan cards (`en/plan-cards.json`, reviewed HI/MR per card) + rotation rules (`data/plan-rotation.json`). */
+export function loadPlanContent(locale: Locale): PlanContent {
+  const { en, tr, trApproved } = localizedFile("plan-cards.json", locale);
+  const rot = readJson("data/plan-rotation.json") ?? {};
+  const enCards = (en.cards ?? {}) as Record<string, Json>;
+  const trCards = (tr?.cards ?? {}) as Record<string, Json>;
+  const cards: PlanContent["cards"] = {};
+  for (const [id, c] of Object.entries(enCards)) {
+    const l = trCards[id];
+    const text = (l && (approved(l) || trApproved) ? { ...c, ...l } : c) as Json;
+    const type = String(c.type);
+    if (type !== "breath" && type !== "stillness" && type !== "reflection") continue;
+    cards[id] = {
+      id,
+      type,
+      practiceId: typeof c.practiceId === "string" ? c.practiceId : null,
+      promptId: typeof c.promptId === "string" ? c.promptId : null,
+      title: String(text.title ?? ""),
+      body: String(text.body ?? ""),
+    };
+  }
+  return {
+    cards,
+    rotation: (rot.rotation ?? {}) as PlanContent["rotation"],
+    minutesByBudget: (rot.minutesByBudget ?? {}) as PlanContent["minutesByBudget"],
+    welcomeBack: (((rot.welcomeBack ?? {}) as Json).steps ?? []) as PlanContent["welcomeBack"],
+    defaultGoal: (rot.defaultGoal ?? "calm") as PlanContent["defaultGoal"],
+  };
 }
