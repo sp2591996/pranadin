@@ -34,5 +34,7 @@ jobs:
           NEXT_TELEMETRY_DISABLED: "1"
       - name: First-load JS budget (170 KB gzip)
         run: node scripts/js-budget.mjs
+      - name: Browser smoke + accessibility (E-16, QA)
+        run: npx playwright install --with-deps chromium && npm run test:e2e
       - name: Dependency audit (production deps, high and above)
         run: npm run audit:prod

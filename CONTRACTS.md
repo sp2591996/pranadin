@@ -43,6 +43,12 @@ All URLs have a trailing slash. `routes.today(l)`, `.practice(l)`, `.calendar(l)
 ## Security constraints for all code
 No third-party scripts, fonts or fetches (CSP `connect-src 'self'`); no inline event handlers (the build fails). Analytics needs its origin added to the CSP after Legal approval (`docs/security.md`).
 
+## Shared pieces added 20 Nov (fix sprint)
+- `src/lib/config.ts` `FEEDBACK_URL` (null until D-022). `<FeedbackEntry/>` (`src/components/FeedbackEntry.tsx`) renders an `<li>` link or nothing. **Dev-2:** please replace the "Send feedback · coming soon" placeholder `<li>` in `Settings.tsx` with `<FeedbackEntry />` (QA-05: hide, don't show a placeholder).
+- Onboarding gate (`src/components/gate.ts`): every page except `/xx/onboarding/` and `/xx/info/*` redirects to onboarding until `prefs.onboarded === true`. Onboarding must keep writing `onboarded: true` only after "I understand".
+- `<ObservanceBody/>`, `<EnglishMark/>` (per-item "English" marker, US-02), `useLocalDay(buildDate)`, `BUILD_DATE` (load.ts): pre-render for the build date, switch on the device.
+- Dates and times use Latin digits in every language (`numberingSystem: "latn"` in `src/i18n/format.ts`).
+
 ## Requests
 - **Content:** a `me.terms` UI key (Dev-2's Settings uses `trust.*` keys); golden panchang cases in `tests/golden/panchang-reference.json` (PR-9); glossary keys for Adhik masa.
 - **Lint:** green across the whole repo as of 18 Nov (`npm run lint`, 0 warnings).
