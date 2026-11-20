@@ -44,7 +44,6 @@ test.describe("Journal (US-20 to US-22)", () => {
   });
 
   test("US-20: the editor notice says anyone using this phone can open it [QA-15]", async ({ page }) => {
-    test.fail(true, "QA-15: sentence missing from the notice");
     await page.goto("/en/journal/");
     await page.getByRole("button", { name: "Write a reflection" }).click();
     await expect(page.getByText(/Anyone using this phone can open it/)).toBeVisible({ timeout: 2000 });

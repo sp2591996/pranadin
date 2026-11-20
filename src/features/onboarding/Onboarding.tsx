@@ -22,11 +22,30 @@ import { GOALS, PLAN_MINUTES, TIME_SLOTS, type Goal, type Locale, type PlanMinut
 const TOTAL = 6;
 const SLOT_KEY: Record<TimeSlot, string> = { morning: "when.morning", evening: "when.evening", whenever: "when.any" };
 
-function readStep(): number {
-  const m = /^#step-(\d)$/.exec(window.location.hash);
-  const n = m ? Number(m[1]) : 0;
-  return n >= 0 && n < TOTAL ? n : 0;
+const ACK_KEY = "pranadin.onboarding.ack";
+
+/** "I understand" was tapped in this tab session (sessionStorage; cleared by Clear my data). */
+function acknowledged(): boolean {
+  try {
+    return sessionStorage.getItem(ACK_KEY) === "1";
+  } catch {
+    return false;
+  }
 }
+
+/**
+ * Step from the URL hash. A deep link past Welcome (e.g. `#step-4`) lands on
+ * Welcome until "I understand" has been tapped (US-03), and on the asked step
+ * after that (QA-19: the same rule for every entry path).
+ */
+export function stepFromHash(hash: string, ack: boolean): number {
+  const m = /^#step-(\d)$/.exec(hash);
+  const n = m ? Number(m[1]) : 0;
+  if (!(n >= 0 && n < TOTAL)) return 0;
+  return n > 1 && !ack ? 1 : n;
+}
+
+const readStep = () => stepFromHash(window.location.hash, acknowledged());
 
 export function Onboarding() {
   const s = useS();
@@ -39,6 +58,13 @@ export function Onboarding() {
   const [query, setQuery] = useState("");
   const heading = useRef<HTMLHeadingElement>(null);
   const searchId = useId();
+
+  // Back/forward and same-page hash links (e.g. tapping the current language) move the step too.
+  useEffect(() => {
+    const onHash = () => setStep(readStep());
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
+  }, [setStep]);
 
   const go = (n: number) => {
     setStep(n);
@@ -94,13 +120,13 @@ export function Onboarding() {
       className="flex min-h-14 w-full flex-col items-start rounded-lg border border-border-input bg-surface px-4 py-3 text-left aria-[checked=true]:border-2 aria-[checked=true]:border-primary aria-[checked=true]:bg-primary-tint"
     >
       <span className="font-semibold">{title}</span>
-      {desc ? <span className="text-[14px] leading-5 text-text-muted">{desc}</span> : null}
+      {desc ? <span className="text-[0.875rem] leading-5 text-text-muted">{desc}</span> : null}
     </button>
   );
 
   return (
     <div className="flex flex-col">
-      <p className="mb-2 text-[14px] leading-5 text-text-muted">{s("onb.progress", { current: step + 1, total: TOTAL })}</p>
+      <p className="mb-2 text-[0.875rem] leading-5 text-text-muted">{s("onb.progress", { current: step + 1, total: TOTAL })}</p>
       <ol aria-hidden="true" className="mb-6 flex gap-2">
         {Array.from({ length: TOTAL }, (_, i) => (
           <li key={i} className={`h-2 flex-1 rounded-full ${i <= step ? "bg-primary" : "bg-divider"}`} />
@@ -121,8 +147,15 @@ export function Onboarding() {
                 role="radio"
                 aria-checked={l === locale}
                 href={`${routes.onboarding(l)}#step-1`}
-                onClick={() => getPrefs().write({ locale: l })}
-                className="flex min-h-14 items-center rounded-lg border border-border-input bg-surface px-4 text-[18px] aria-[checked=true]:border-2 aria-[checked=true]:border-primary aria-[checked=true]:bg-primary-tint"
+                onClick={(e) => {
+                  getPrefs().write({ locale: l });
+                  if (l === locale) {
+                    // Same language: no reload needed, go straight to Welcome like the other choices (QA-19).
+                    e.preventDefault();
+                    go(1);
+                  }
+                }}
+                className="flex min-h-14 items-center rounded-lg border border-border-input bg-surface px-4 text-[1.125rem] aria-[checked=true]:border-2 aria-[checked=true]:border-primary aria-[checked=true]:bg-primary-tint"
               >
                 {LOCALE_NATIVE_NAME[l]}
               </Link>
@@ -146,7 +179,7 @@ export function Onboarding() {
             <li>{s("onb.welcome.point3")}</li>
           </ul>
           <div role="note" className="mt-6 rounded-lg bg-warning-tint p-4">
-            <h3 className="mb-1 text-[18px] leading-[26px] font-semibold">{s("onb.safety.title")}</h3>
+            <h3 className="mb-1 text-[1.125rem] leading-[1.625rem] font-semibold">{s("onb.safety.title")}</h3>
             <p>{s("onb.safety.body")}</p>
             <ul className="mt-2 list-disc space-y-1 pl-6">
               <li>{s("onb.safety.point1")}</li>
@@ -159,7 +192,18 @@ export function Onboarding() {
           </div>
           <div className="mt-8 flex flex-col gap-3">
             {/* US-03: Today is unreachable until this is tapped. No Skip here. */}
-            <button type="button" className={btn.primary} onClick={next}>
+            <button
+              type="button"
+              className={btn.primary}
+              onClick={() => {
+                try {
+                  sessionStorage.setItem(ACK_KEY, "1");
+                } catch {
+                  /* blocked storage: the in-page flow still works */
+                }
+                next();
+              }}
+            >
               {s("onb.safety.cta")}
             </button>
             <button type="button" className={btn.ghost} onClick={back}>
@@ -203,7 +247,7 @@ export function Onboarding() {
               </button>
             ))}
           </div>
-          <h3 id="when-h" className="mt-6 mb-3 text-[18px] leading-[26px] font-semibold">
+          <h3 id="when-h" className="mt-6 mb-3 text-[1.125rem] leading-[1.625rem] font-semibold">
             {s("onb.when.title")}
           </h3>
           <div role="radiogroup" aria-labelledby="when-h" className="flex flex-col gap-3">
@@ -258,7 +302,7 @@ export function Onboarding() {
               ))
             )}
           </div>
-          <p className="mt-3 text-[14px] leading-5 text-text-muted">{s("onb.city.defaultNote")}</p>
+          <p className="mt-3 text-[0.875rem] leading-5 text-text-muted">{s("onb.city.defaultNote")}</p>
           {nav(
             () => {
               setCityId(null);
@@ -289,7 +333,7 @@ export function Onboarding() {
               {s("onb.consent.deny")}
             </button>
           </div>
-          <p className="mt-3 text-[14px] leading-5 text-text-muted">{s("onb.consent.note")}</p>
+          <p className="mt-3 text-[0.875rem] leading-5 text-text-muted">{s("onb.consent.note")}</p>
           <div className="mt-6 flex justify-between">
             <button type="button" className={btn.ghost} onClick={back}>
               {s("common.back")}

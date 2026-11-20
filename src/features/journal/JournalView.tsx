@@ -66,7 +66,7 @@ export function JournalExport({ content, entries }: { content: JournalContent; e
           {s("journal.exportJson")}
         </button>
       </div>
-      {empty ? <p className="text-[14px] leading-5 text-text-muted">{s("journal.exportEmpty")}</p> : null}
+      {empty ? <p className="text-[0.875rem] leading-5 text-text-muted">{s("journal.exportEmpty")}</p> : null}
       <Status message={status} />
     </div>
   );
@@ -86,7 +86,17 @@ export function JournalView({ content }: { content: JournalContent }) {
       return false;
     }
   }, false);
-  const [promptIdx, setPromptIdx] = useDeviceValue(() => promptIndexFor(todayKey(), content.prompts.length), 0);
+  const [promptIdx, setPromptIdx] = useDeviceValue(() => {
+    // A plan card can ask for a specific prompt (?prompt=prompt.02); otherwise today's prompt.
+    try {
+      const want = new URLSearchParams(window.location.search).get("prompt");
+      const i = content.prompts.findIndex((p) => p.id === want);
+      if (i >= 0) return i;
+    } catch {
+      /* ignore */
+    }
+    return promptIndexFor(todayKey(), content.prompts.length);
+  }, 0);
   const [mood, setMood] = useState<Mood | null>(null);
   const [text, setText] = useState("");
   const [error, setError] = useState<string | null>(null);
@@ -148,6 +158,14 @@ export function JournalView({ content }: { content: JournalContent }) {
       await st.journal.put(entry);
       void requestPersistence(); // ADR-005, L5 2.6: denial is handled silently
       track("journal_saved", {});
+      try {
+        if (new URLSearchParams(window.location.search).get("src") === "plan") {
+          // PRD §6: a saved reflection completes the plan's reflection step.
+          track("practice_completed", { type: "reflection", planned_min: 1, actual_min: 1, entry: "plan" });
+        }
+      } catch {
+        /* ignore */
+      }
       reset();
       setStatus(s("journal.saved"));
       await refresh();
@@ -198,8 +216,8 @@ export function JournalView({ content }: { content: JournalContent }) {
           </h2>
           {prompt ? (
             <div>
-              <p className="text-[14px] leading-5 font-semibold text-text-muted">{s("journal.prompt")}</p>
-              <p className="text-[18px] leading-7">{prompt.text}</p>
+              <p className="text-[0.875rem] leading-5 font-semibold text-text-muted">{s("journal.prompt")}</p>
+              <p className="text-[1.125rem] leading-7">{prompt.text}</p>
               <button type="button" className={`${btn.ghost} -ml-4`} onClick={() => setPromptIdx((promptIdx + 1) % content.prompts.length)}>
                 {s("journal.prompt.another")}
               </button>
@@ -241,7 +259,7 @@ export function JournalView({ content }: { content: JournalContent }) {
               aria-invalid={tooLong || !!error}
               className="rounded-md border border-border-input bg-surface p-3 text-text"
             />
-            <p id={`${textId}-count`} className={`text-[14px] leading-5 ${tooLong ? "text-error" : "text-text-muted"}`} aria-live="polite">
+            <p id={`${textId}-count`} className={`text-[0.875rem] leading-5 ${tooLong ? "text-error" : "text-text-muted"}`} aria-live="polite">
               {s("journal.text.count", { count: text.length })}
             </p>
             {error ? (
@@ -251,8 +269,8 @@ export function JournalView({ content }: { content: JournalContent }) {
             ) : null}
           </div>
 
-          <p id={`${textId}-notice`} className="rounded-md bg-surface-2 p-3 text-[14px] leading-5">
-            {s("journal.notice")}
+          <p id={`${textId}-notice`} className="rounded-md bg-surface-2 p-3 text-[0.875rem] leading-5">
+            {s("journal.noticeShared")}
           </p>
 
           <div className="flex flex-wrap gap-3">
@@ -279,7 +297,7 @@ export function JournalView({ content }: { content: JournalContent }) {
       ) : entries.length === 0 ? (
         !writing ? (
           <section className={`${card} text-center`} aria-labelledby="empty-h">
-            <h2 id="empty-h" className="text-[18px] leading-[26px]">
+            <h2 id="empty-h" className="text-[1.125rem] leading-[1.625rem]">
               {s("journal.empty.title")}
             </h2>
             <p className="mt-1 text-text-muted">{s("journal.empty.body")}</p>
@@ -299,9 +317,9 @@ export function JournalView({ content }: { content: JournalContent }) {
                 <li key={e.id} className={card}>
                   <div className="flex items-start gap-2">
                     <div className="flex-1">
-                      <p className="text-[14px] leading-5 text-text-muted">{dateLabel(e)}</p>
+                      <p className="text-[0.875rem] leading-5 text-text-muted">{dateLabel(e)}</p>
                       {e.mood && I ? (
-                        <p className="mt-1 inline-flex items-center gap-1 text-[14px] leading-5 font-semibold">
+                        <p className="mt-1 inline-flex items-center gap-1 text-[0.875rem] leading-5 font-semibold">
                           <I size={16} aria-hidden="true" />
                           {moodLabel(e.mood)}
                         </p>
@@ -316,7 +334,7 @@ export function JournalView({ content }: { content: JournalContent }) {
                       <TrashIcon size={20} aria-hidden="true" />
                     </button>
                   </div>
-                  {p ? <p className="mt-2 text-[14px] leading-5 text-text-muted italic">{p.text}</p> : null}
+                  {p ? <p className="mt-2 text-[0.875rem] leading-5 text-text-muted italic">{p.text}</p> : null}
                   <p className="mt-2 whitespace-pre-wrap">{e.text}</p>
                 </li>
               );
@@ -326,7 +344,7 @@ export function JournalView({ content }: { content: JournalContent }) {
       )}
 
       <section aria-labelledby="export-h" className="flex flex-col gap-2">
-        <h2 id="export-h" className="text-[18px] leading-[26px]">
+        <h2 id="export-h" className="text-[1.125rem] leading-[1.625rem]">
           {s("journal.export")}
         </h2>
         <JournalExport content={content} entries={entries} />
