@@ -1,0 +1,158 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "varanasi",
+  "sights": [
+    {
+      "id": "kashi-vishwanath",
+      "name": { "en": "Kashi Vishwanath Temple", "hi": { "text": "काशी विश्वनाथ मंदिर", "reviewed": false }, "mr": { "text": "काशी विश्वनाथ मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The main Shiva temple and a Jyotirlinga, reached through the Kashi Vishwanath Dham corridor from the Ganga side. Allow two to four hours including the queue.",
+        "hi": { "text": "शिव का मुख्य मंदिर और ज्योतिर्लिंग, गंगा की ओर से काशी विश्वनाथ धाम गलियारे से पहुँचा जाता है। कतार सहित दो से चार घंटे रखें।", "reviewed": false },
+        "mr": { "text": "शिवाचे मुख्य मंदिर आणि ज्योतिर्लिंग, गंगेच्या बाजूने काशी विश्वनाथ धाम मार्गिकेतून पोहोचता येते. रांगेसह दोन ते चार तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Opens before dawn with the early aarti and stays open most of the day with short breaks for aartis. Closes late evening.",
+        "hi": { "text": "भोर से पहले प्रातः आरती के साथ खुलता है और दिन भर आरतियों के छोटे अंतराल के साथ खुला रहता है। देर शाम बंद होता है।", "reviewed": false },
+        "mr": { "text": "पहाटेपूर्वी प्रभात आरतीसह उघडते आणि दिवसभर आरत्यांच्या लहान विश्रांतीसह उघडे असते. उशिरा संध्याकाळी बंद होते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes covering shoulders and knees. Some rituals ask men for traditional wear. Phones, bags and leather items are usually kept in lockers outside.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन कपड़े। कुछ अनुष्ठानों में पुरुषों से पारंपरिक वेश अपेक्षित है। फ़ोन, बैग और चमड़े की वस्तुएँ आमतौर पर बाहर लॉकर में रखी जाती हैं।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे साधे कपडे. काही विधींमध्ये पुरुषांना पारंपरिक पोशाख अपेक्षित असतो. फोन, पिशव्या आणि चामड्याच्या वस्तू सहसा बाहेर लॉकरमध्ये ठेवल्या जातात.", "reviewed": false }
+      }
+    },
+    {
+      "id": "dashashwamedh",
+      "name": { "en": "Dashashwamedh Ghat and Ganga aarti", "hi": { "text": "दशाश्वमेध घाट और गंगा आरती", "reviewed": false }, "mr": { "text": "दशाश्वमेध घाट आणि गंगा आरती", "reviewed": false } },
+      "desc": {
+        "en": "The busiest ghat. The evening Ganga aarti with priests, lamps and bells draws large crowds. Arrive early for a place on the steps, or watch from a boat.",
+        "hi": { "text": "सबसे व्यस्त घाट। पुजारियों, दीपों और घंटियों के साथ शाम की गंगा आरती में बड़ी भीड़ जुटती है। सीढ़ियों पर जगह के लिए जल्दी पहुँचें, या नाव से देखें।", "reviewed": false },
+        "mr": { "text": "सर्वात गजबजलेला घाट. पुजारी, दिवे आणि घंटांसह संध्याकाळच्या गंगा आरतीला मोठी गर्दी जमते. पायऱ्यांवर जागेसाठी लवकर पोहोचा किंवा नावेतून पाहा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Aarti starts around sunset, daily, and lasts about 45 minutes.",
+        "hi": { "text": "आरती प्रतिदिन सूर्यास्त के आसपास शुरू होती है और लगभग 45 मिनट चलती है।", "reviewed": false },
+        "mr": { "text": "आरती दररोज सूर्यास्ताच्या सुमारास सुरू होते आणि सुमारे 45 मिनिटे चालते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Everyday modest clothes. Keep valuables close in the crowd.",
+        "hi": { "text": "सामान्य शालीन कपड़े। भीड़ में कीमती सामान अपने पास रखें।", "reviewed": false },
+        "mr": { "text": "रोजचे साधे कपडे. गर्दीत मौल्यवान वस्तू जवळ ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "assi-sunrise",
+      "name": { "en": "Assi Ghat and a sunrise boat ride", "hi": { "text": "अस्सी घाट और सूर्योदय नौका यात्रा", "reviewed": false }, "mr": { "text": "अस्सी घाट आणि सूर्योदयाची नौका सफर", "reviewed": false } },
+      "desc": {
+        "en": "A quieter southern ghat with morning music and yoga. A one-hour boat ride at sunrise passes many ghats and gives the best view of the riverfront.",
+        "hi": { "text": "सुबह के संगीत और योग के साथ अपेक्षाकृत शांत दक्षिणी घाट। सूर्योदय पर एक घंटे की नौका यात्रा कई घाटों से गुज़रती है और तट का सबसे अच्छा दृश्य देती है।", "reviewed": false },
+        "mr": { "text": "सकाळचे संगीत आणि योगासह तुलनेने शांत दक्षिणेकडील घाट. सूर्योदयाच्या वेळची एक तासाची नौका सफर अनेक घाटांतून जाते आणि काठाचे सर्वोत्तम दृश्य देते.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Best from about half an hour before sunrise. Boats run through the morning.",
+        "hi": { "text": "सूर्योदय से लगभग आधा घंटा पहले से सर्वोत्तम। नावें पूरी सुबह चलती हैं।", "reviewed": false },
+        "mr": { "text": "सूर्योदयाच्या सुमारे अर्धा तास आधीपासून उत्तम. नावा सकाळभर चालतात.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light, quick-dry clothes and a layer for cool mornings. Wear a life jacket if offered.",
+        "hi": { "text": "हल्के, जल्दी सूखने वाले कपड़े और ठंडी सुबह के लिए एक परत। जीवन रक्षक जैकेट मिले तो पहनें।", "reviewed": false },
+        "mr": { "text": "हलके, लवकर सुकणारे कपडे आणि थंड सकाळसाठी एक थर. लाइफ जॅकेट मिळाले तर घाला.", "reviewed": false }
+      }
+    },
+    {
+      "id": "sankat-mochan",
+      "name": { "en": "Sankat Mochan Hanuman Temple", "hi": { "text": "संकट मोचन हनुमान मंदिर", "reviewed": false }, "mr": { "text": "संकट मोचन हनुमान मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A calm temple near Assi, linked by tradition to the poet Tulsidas. Tuesdays and Saturdays are the busiest days.",
+        "hi": { "text": "अस्सी के पास शांत मंदिर, परंपरा से कवि तुलसीदास से जुड़ा। मंगलवार और शनिवार सबसे व्यस्त दिन हैं।", "reviewed": false },
+        "mr": { "text": "अस्सीजवळील शांत मंदिर, परंपरेने कवी तुलसीदासांशी जोडलेले. मंगळवार आणि शनिवार हे सर्वात गर्दीचे दिवस आहेत.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open from early morning to late evening, with aartis morning and evening.",
+        "hi": { "text": "सुबह जल्दी से देर शाम तक खुला, सुबह और शाम आरती के साथ।", "reviewed": false },
+        "mr": { "text": "पहाटेपासून उशिरा संध्याकाळपर्यंत उघडे, सकाळ आणि संध्याकाळ आरतीसह.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Phones and cameras are usually not allowed inside.",
+        "hi": { "text": "शालीन कपड़े। फ़ोन और कैमरे आमतौर पर अंदर नहीं ले जा सकते।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. फोन आणि कॅमेरे सहसा आत नेता येत नाहीत.", "reviewed": false }
+      }
+    },
+    {
+      "id": "kal-bhairav",
+      "name": { "en": "Kal Bhairav Temple", "hi": { "text": "काल भैरव मंदिर", "reviewed": false }, "mr": { "text": "काल भैरव मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The guardian deity of Kashi. Many pilgrims visit here as well as the Vishwanath temple.",
+        "hi": { "text": "काशी के रक्षक देवता। कई श्रद्धालु विश्वनाथ मंदिर के साथ यहाँ भी आते हैं।", "reviewed": false },
+        "mr": { "text": "काशीचे रक्षक देवता. अनेक भाविक विश्वनाथ मंदिराबरोबरच येथेही येतात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open through most of the day with a midday break.",
+        "hi": { "text": "दिन के अधिकांश समय खुला, दोपहर में अल्प विराम।", "reviewed": false },
+        "mr": { "text": "दिवसाचा बहुतांश वेळ उघडे, दुपारी लहान विश्रांती.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside.",
+        "hi": { "text": "शालीन कपड़े। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "sarnath",
+      "name": { "en": "Sarnath", "hi": { "text": "सारनाथ", "reviewed": false }, "mr": { "text": "सारनाथ", "reviewed": false } },
+      "desc": {
+        "en": "Quiet Buddhist grounds with the Dhamek Stupa, ruins, a modern temple and a museum. A calm half day away from the ghats.",
+        "hi": { "text": "धमेख स्तूप, खंडहर, एक आधुनिक मंदिर और संग्रहालय के साथ शांत बौद्ध परिसर। घाटों से दूर एक शांत आधा दिन।", "reviewed": false },
+        "mr": { "text": "धमेख स्तूप, अवशेष, एक आधुनिक मंदिर आणि संग्रहालयासह शांत बौद्ध परिसर. घाटांपासून दूर एक शांत अर्धा दिवस.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Grounds usually open from morning to sunset. The museum keeps a weekly closing day.",
+        "hi": { "text": "परिसर आमतौर पर सुबह से सूर्यास्त तक खुला रहता है। संग्रहालय का साप्ताहिक बंद दिन होता है।", "reviewed": false },
+        "mr": { "text": "परिसर सहसा सकाळपासून सूर्यास्तापर्यंत उघडा असतो. संग्रहालयाचा साप्ताहिक बंदचा दिवस असतो.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, comfortable clothes and a hat for the sun.",
+        "hi": { "text": "शालीन, आरामदायक कपड़े और धूप के लिए टोपी।", "reviewed": false },
+        "mr": { "text": "साधे, आरामदायी कपडे आणि उन्हासाठी टोपी.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early. The first hours after the temple opens and weekday mornings are usually the calmest. Mondays, festival days and the month of Shravan are very crowded.",
+        "hi": { "text": "जल्दी जाएँ। मंदिर खुलने के बाद के पहले घंटे और कार्यदिवस की सुबहें आमतौर पर सबसे शांत होती हैं। सोमवार, त्योहार के दिन और श्रावण मास में बहुत भीड़ रहती है।", "reviewed": false },
+        "mr": { "text": "लवकर जा. मंदिर उघडल्यानंतरचे पहिले तास आणि आठवड्याच्या दिवसांची सकाळ सहसा सर्वात शांत असते. सोमवार, सणाचे दिवस आणि श्रावण महिन्यात खूप गर्दी असते.", "reviewed": false }
+      },
+      {
+        "en": "Security checks are strict. Carry a government photo ID and leave phones, bags, belts and leather in a locker before the queue.",
+        "hi": { "text": "सुरक्षा जाँच कड़ी होती है। सरकारी फ़ोटो पहचान पत्र साथ रखें और कतार से पहले फ़ोन, बैग, बेल्ट और चमड़े का सामान लॉकर में रखें।", "reviewed": false },
+        "mr": { "text": "सुरक्षा तपासणी कडक असते. सरकारी फोटो ओळखपत्र सोबत ठेवा आणि रांगेपूर्वी फोन, पिशव्या, पट्टे आणि चामड्याचे सामान लॉकरमध्ये ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "Follow the marked queue lines. Do not pay strangers who offer to skip the queue. Official counters and signs are inside the complex.",
+        "hi": { "text": "चिह्नित कतार का पालन करें। कतार तोड़ने का प्रस्ताव देने वाले अजनबियों को पैसे न दें। आधिकारिक काउंटर और संकेत परिसर के भीतर हैं।", "reviewed": false },
+        "mr": { "text": "चिन्हांकित रांगेचे पालन करा. रांग टाळण्याचे आमिष दाखवणाऱ्या अनोळखी लोकांना पैसे देऊ नका. अधिकृत काउंटर आणि फलक परिसरात आहेत.", "reviewed": false }
+      },
+      {
+        "en": "Keep offerings simple: water, flowers or bael leaves bought from the official shops. Avoid large bags of items you cannot carry through security.",
+        "hi": { "text": "चढ़ावा सरल रखें: जल, फूल या बेल पत्र अधिकृत दुकानों से लें। ऐसे बड़े थैले न रखें जो सुरक्षा जाँच से ले जाना संभव न हो।", "reviewed": false },
+        "mr": { "text": "अर्पण साधे ठेवा: पाणी, फुले किंवा बेलपत्र अधिकृत दुकानांतून घ्या. सुरक्षा तपासणीतून नेता येणार नाहीत अशा मोठ्या पिशव्या टाळा.", "reviewed": false }
+      },
+      {
+        "en": "Older visitors and people with limited walking can ask staff at the entrance about wheelchair or assisted routes, which change from time to time.",
+        "hi": { "text": "वृद्ध यात्री और कम चल सकने वाले लोग प्रवेश द्वार पर कर्मचारियों से व्हीलचेयर या सहायक मार्ग के बारे में पूछ सकते हैं, जो समय-समय पर बदलते रहते हैं।", "reviewed": false },
+        "mr": { "text": "वृद्ध यात्रेकरू आणि कमी चालू शकणारे लोक प्रवेशद्वारावरील कर्मचाऱ्यांना व्हीलचेअर किंवा साहाय्यक मार्गाबद्दल विचारू शकतात, जे वेळोवेळी बदलतात.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the temple trust publishes an official website that may offer online darshan or pass options and updated rules. This app does not book or sell anything. Use only the official site and check the current process yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: मंदिर न्यास की एक आधिकारिक वेबसाइट है जिस पर ऑनलाइन दर्शन या पास के विकल्प और अद्यतन नियम हो सकते हैं। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइट का उपयोग करें और वर्तमान प्रक्रिया स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: मंदिर न्यासाचे अधिकृत संकेतस्थळ आहे ज्यावर ऑनलाइन दर्शन किंवा पासचे पर्याय आणि अद्ययावत नियम असू शकतात. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळ वापरा आणि सध्याची प्रक्रिया स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}

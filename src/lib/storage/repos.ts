@@ -3,7 +3,7 @@
  * All three behave identically; the shared test suite runs against each.
  */
 import { openDB, type DBSchema, type IDBPDatabase } from "idb";
-import type { JapaState, JournalEntry, PracticeLog, YogaProgress } from "@/lib/types";
+import type { JapaState, JournalEntry, PracticeLog, TripPlan, YogaProgress } from "@/lib/types";
 import { DB_NAME, DB_VERSION, lsStoreKey } from "./schema";
 import { StorageError, type ListQuery, type Repo, type StoreSpec } from "./types";
 
@@ -14,6 +14,7 @@ export interface PranaDinDB extends DBSchema {
   practiceLog: { key: string; value: PracticeLog; indexes: { at: number; localDate: string } };
   japa: { key: string; value: JapaState; indexes: { at: number; localDate: string } };
   yogaProgress: { key: string; value: YogaProgress; indexes: { at: number; localDate: string } };
+  trips: { key: string; value: TripPlan; indexes: { at: number; localDate: string } };
 }
 
 /**
@@ -41,6 +42,12 @@ export const MIGRATIONS: ((db: IDBPDatabase<PranaDinDB>) => void)[] = [
     const y = db.createObjectStore("yogaProgress", { keyPath: "id" });
     y.createIndex("at", "at");
     y.createIndex("localDate", "localDate");
+  },
+  // v3 -> v4: yatra trip planner (one record)
+  (db) => {
+    const t = db.createObjectStore("trips", { keyPath: "id" });
+    t.createIndex("at", "at");
+    t.createIndex("localDate", "localDate");
   },
 ];
 

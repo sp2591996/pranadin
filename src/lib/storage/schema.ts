@@ -11,6 +11,7 @@ import {
   type JapaState,
   type JournalEntry,
   type PracticeLog,
+  type TripPlan,
   type YogaProgress,
 } from "@/lib/types";
 import { StorageError, type StoreSpec } from "./types";
@@ -18,7 +19,7 @@ import { StorageError, type StoreSpec } from "./types";
 /** Every key and database we create starts with this, so "Clear my data" can find them all. */
 export const STORAGE_PREFIX = "pranadin.";
 export const DB_NAME = "pranadin";
-export const DB_VERSION = 3;
+export const DB_VERSION = 4;
 export const PREFS_KEY = `${STORAGE_PREFIX}prefs.v1`;
 export const lsStoreKey = (store: string) => `${STORAGE_PREFIX}store.${store}.v1`;
 
@@ -91,6 +92,21 @@ export const yogaProgressSpec: StoreSpec<YogaProgress> = {
     for (const d of x.days) {
       if (!Number.isInteger(d) || d < 1 || d > 366 || seen.has(d)) fail("days must be unique whole numbers from 1");
       seen.add(d);
+    }
+  },
+};
+
+export const tripSpec: StoreSpec<TripPlan> = {
+  name: "trips",
+  timeField: "at",
+  validate(x) {
+    base(x);
+    if (x.id !== "trip") fail("id must be trip");
+    if (!Number.isFinite(x.at)) fail("at must be a number");
+    if (!Array.isArray(x.items) || x.items.length > 30) fail("items must be a short list");
+    for (const it of x.items) {
+      if (!it || typeof it.placeId !== "string" || !/^[a-z0-9-]+$/.test(it.placeId)) fail("placeId must be a place id");
+      if (it.days !== 1 && it.days !== 2 && it.days !== 3) fail("days must be 1, 2 or 3");
     }
   },
 };

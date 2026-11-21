@@ -1,0 +1,160 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "varanasi",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: ghats, Vishwanath and the evening aarti", "hi": { "text": "एक दिन: घाट, विश्वनाथ और संध्या आरती", "reviewed": false }, "mr": { "text": "एक दिवस: घाट, विश्वनाथ आणि संध्या आरती", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Sunrise boat ride from Assi towards Dashashwamedh, then a bath or a quiet sit at a ghat.", "hi": { "text": "अस्सी से दशाश्वमेध की ओर सूर्योदय नौका यात्रा, फिर घाट पर स्नान या शांत बैठना।", "reviewed": false }, "mr": { "text": "अस्सीपासून दशाश्वमेधाकडे सूर्योदयाची नौका सफर, मग घाटावर स्नान किंवा शांत बसणे.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan at Kashi Vishwanath through the corridor, then lunch nearby and a rest in the heat of the day.", "hi": { "text": "गलियारे से काशी विश्वनाथ के दर्शन, फिर पास में भोजन और दिन की गर्मी में विश्राम।", "reviewed": false }, "mr": { "text": "मार्गिकेतून काशी विश्वनाथाचे दर्शन, मग जवळ जेवण आणि दिवसाच्या उष्णतेत विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Walk to Dashashwamedh Ghat for the Ganga aarti, then a simple dinner in the old city.", "hi": { "text": "गंगा आरती के लिए दशाश्वमेध घाट तक पैदल जाएँ, फिर पुराने शहर में सादा भोजन।", "reviewed": false }, "mr": { "text": "गंगा आरतीसाठी दशाश्वमेध घाटापर्यंत चालत जा, मग जुन्या शहरात साधे जेवण.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: Kashi and Sarnath", "hi": { "text": "दो दिन: काशी और सारनाथ", "reviewed": false }, "mr": { "text": "दोन दिवस: काशी आणि सारनाथ", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Sunrise boat ride and a ghat bath.", "hi": { "text": "सूर्योदय नौका यात्रा और घाट पर स्नान।", "reviewed": false }, "mr": { "text": "सूर्योदयाची नौका सफर आणि घाटावर स्नान.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Kashi Vishwanath darshan, then Kal Bhairav Temple.", "hi": { "text": "काशी विश्वनाथ दर्शन, फिर काल भैरव मंदिर।", "reviewed": false }, "mr": { "text": "काशी विश्वनाथ दर्शन, मग काल भैरव मंदिर.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Ganga aarti at Dashashwamedh Ghat.", "hi": { "text": "दशाश्वमेध घाट पर गंगा आरती।", "reviewed": false }, "mr": { "text": "दशाश्वमेध घाटावर गंगा आरती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Drive to Sarnath. Walk the grounds and the Dhamek Stupa before the heat.", "hi": { "text": "सारनाथ जाएँ। गर्मी से पहले परिसर और धमेख स्तूप में घूमें।", "reviewed": false }, "mr": { "text": "सारनाथला जा. उष्णतेपूर्वी परिसर आणि धमेख स्तूपाभोवती फिरा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit the museum, return to the city and rest. Sankat Mochan darshan later in the afternoon.", "hi": { "text": "संग्रहालय देखें, शहर लौटें और विश्राम करें। दोपहर बाद संकट मोचन दर्शन।", "reviewed": false }, "mr": { "text": "संग्रहालय पाहा, शहरात परता आणि विश्रांती घ्या. दुपारनंतर संकट मोचन दर्शन.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A slow walk along Assi Ghat and an early night.", "hi": { "text": "अस्सी घाट पर धीमी सैर और जल्दी विश्राम।", "reviewed": false }, "mr": { "text": "अस्सी घाटावर सावकाश फेरफटका आणि लवकर विश्रांती.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: temples, ghats, Sarnath and a quiet day", "hi": { "text": "तीन दिन: मंदिर, घाट, सारनाथ और एक शांत दिन", "reviewed": false }, "mr": { "text": "तीन दिवस: मंदिरे, घाट, सारनाथ आणि एक शांत दिवस", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive, settle in and walk the lanes near your stay. Rest if you travelled overnight.", "hi": { "text": "पहुँचें, ठहरने की जगह पर बसें और पास की गलियों में घूमें। रात भर सफ़र किया हो तो विश्राम करें।", "reviewed": false }, "mr": { "text": "पोहोचा, राहण्याच्या जागी स्थिरावा आणि जवळच्या गल्ल्यांत फिरा. रात्रभर प्रवास केला असल्यास विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Kashi Vishwanath darshan once the midday crowd thins.", "hi": { "text": "दोपहर की भीड़ घटने पर काशी विश्वनाथ दर्शन।", "reviewed": false }, "mr": { "text": "दुपारची गर्दी कमी झाल्यावर काशी विश्वनाथ दर्शन.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Ganga aarti at Dashashwamedh Ghat.", "hi": { "text": "दशाश्वमेध घाट पर गंगा आरती।", "reviewed": false }, "mr": { "text": "दशाश्वमेध घाटावर गंगा आरती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Sunrise boat ride, ghat bath and a simple local breakfast.", "hi": { "text": "सूर्योदय नौका यात्रा, घाट पर स्नान और सादा स्थानीय नाश्ता।", "reviewed": false }, "mr": { "text": "सूर्योदयाची नौका सफर, घाटावर स्नान आणि साधा स्थानिक नाश्ता.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Sarnath: stupa, ruins and museum.", "hi": { "text": "सारनाथ: स्तूप, खंडहर और संग्रहालय।", "reviewed": false }, "mr": { "text": "सारनाथ: स्तूप, अवशेष आणि संग्रहालय.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return for a rest and a quiet evening at Assi Ghat.", "hi": { "text": "लौटकर विश्राम और अस्सी घाट पर शांत शाम।", "reviewed": false }, "mr": { "text": "परतून विश्रांती आणि अस्सी घाटावर शांत संध्याकाळ.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Kal Bhairav and Sankat Mochan temples, then a walk to the Tulsi Manas area.", "hi": { "text": "काल भैरव और संकट मोचन मंदिर, फिर तुलसी मानस क्षेत्र तक पैदल।", "reviewed": false }, "mr": { "text": "काल भैरव आणि संकट मोचन मंदिरे, मग तुळशी मानस परिसरापर्यंत चालत.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Free time for shopping Banarasi silk and a long lunch.", "hi": { "text": "बनारसी रेशम की ख़रीदारी और लंबे भोजन के लिए खाली समय।", "reviewed": false }, "mr": { "text": "बनारसी रेशमाच्या खरेदीसाठी आणि निवांत जेवणासाठी मोकळा वेळ.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A last evening aarti, or a quiet moment on the steps before you leave.", "hi": { "text": "अंतिम संध्या आरती, या जाने से पहले घाट की सीढ़ियों पर कुछ शांत क्षण।", "reviewed": false }, "mr": { "text": "शेवटची संध्या आरती, किंवा निघण्यापूर्वी घाटाच्या पायऱ्यांवर काही शांत क्षण.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near the ghats (Dashashwamedh to Assi)", "hi": { "text": "घाटों के पास (दशाश्वमेध से अस्सी)", "reviewed": false }, "mr": { "text": "घाटांजवळ (दशाश्वमेध ते अस्सी)", "reviewed": false } },
+      "body": { "en": "Closest to the aarti and the boats. Lanes are narrow and noisy, with steps and little vehicle access. Heritage houses, guesthouses and dharamshalas are common here.", "hi": { "text": "आरती और नावों के सबसे पास। गलियाँ संकरी और शोर भरी हैं, सीढ़ियाँ हैं और वाहन पहुँच कम है। यहाँ पुरानी हवेलियाँ, अतिथि गृह और धर्मशालाएँ आम हैं।", "reviewed": false }, "mr": { "text": "आरती आणि नावांच्या सर्वात जवळ. गल्ल्या अरुंद आणि गोंगाटाच्या आहेत, पायऱ्या आहेत आणि वाहनांची पोहोच कमी आहे. येथे जुनी हवेली, अतिथीगृहे आणि धर्मशाळा सामान्य आहेत.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Around the temple and Godowlia", "hi": { "text": "मंदिर और गोदौलिया के आसपास", "reviewed": false }, "mr": { "text": "मंदिर आणि गोदौलिया परिसर", "reviewed": false } },
+      "body": { "en": "Walking distance to Vishwanath and the main ghat. Busy and loud, but handy for early darshan. Vehicles stop at the edge of the zone.", "hi": { "text": "विश्वनाथ और मुख्य घाट तक पैदल दूरी। व्यस्त और शोरगुल वाला, पर सुबह के दर्शन के लिए सुविधाजनक। वाहन क्षेत्र के किनारे तक ही जाते हैं।", "reviewed": false }, "mr": { "text": "विश्वनाथ आणि मुख्य घाटापर्यंत चालत अंतर. गजबजलेला आणि गोंगाटाचा, पण पहाटेच्या दर्शनासाठी सोयीचा. वाहने क्षेत्राच्या काठापर्यंतच जातात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Cantonment and Sigra (modern hotels)", "hi": { "text": "कैंट और सिगरा (आधुनिक होटल)", "reviewed": false }, "mr": { "text": "कँटोन्मेंट आणि सिगरा (आधुनिक हॉटेल)", "reviewed": false } },
+      "body": { "en": "Wider roads, parking, chain hotels and easier access to the station and airport road. Allow 30 to 45 minutes to reach the ghats.", "hi": { "text": "चौड़ी सड़कें, पार्किंग, श्रृंखला होटल और स्टेशन व हवाई अड्डे की सड़क तक आसान पहुँच। घाटों तक पहुँचने में 30 से 45 मिनट रखें।", "reviewed": false }, "mr": { "text": "रुंद रस्ते, पार्किंग, साखळी हॉटेल आणि स्थानक व विमानतळ रस्त्यापर्यंत सोपी पोहोच. घाटांपर्यंत पोहोचण्यास 30 ते 45 मिनिटे ठेवा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Dharamshalas and ashrams", "hi": { "text": "धर्मशालाएँ और आश्रम", "reviewed": false }, "mr": { "text": "धर्मशाळा आणि आश्रम", "reviewed": false } },
+      "body": { "en": "Simple, low-cost rooms run by trusts, often with plain vegetarian meals. Rules on curfew and visitors vary. Ask each trust directly.", "hi": { "text": "न्यासों द्वारा संचालित सरल, कम लागत के कमरे, अक्सर सादे शाकाहारी भोजन के साथ। रात की समय-सीमा और आगंतुकों के नियम अलग-अलग हैं। हर न्यास से सीधे पूछें।", "reviewed": false }, "mr": { "text": "न्यासांद्वारे चालवलेल्या साध्या, कमी खर्चाच्या खोल्या, अनेकदा साध्या शाकाहारी जेवणासह. रात्रीची वेळमर्यादा आणि पाहुण्यांचे नियम वेगवेगळे असतात. प्रत्येक न्यासाला थेट विचारा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Kachori-sabzi and jalebi", "hi": { "text": "कचौड़ी-सब्ज़ी और जलेबी", "reviewed": false }, "mr": { "text": "कचोरी-भाजी आणि जिलेबी", "reviewed": false } },
+      "body": { "en": "The classic Banarasi breakfast, sold fresh from morning at old-city shops.", "hi": { "text": "बनारस का पारंपरिक नाश्ता, पुराने शहर की दुकानों पर सुबह से ताज़ा मिलता है।", "reviewed": false }, "mr": { "text": "बनारसचा पारंपरिक नाश्ता, जुन्या शहरातील दुकानांत सकाळपासून ताजा मिळतो.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Tamatar chaat and Banarasi chaat", "hi": { "text": "टमाटर चाट और बनारसी चाट", "reviewed": false }, "mr": { "text": "टमाटर चाट आणि बनारसी चाट", "reviewed": false } },
+      "body": { "en": "Spiced street snacks of the city. Choose busy stalls with fresh turnover and use bottled water.", "hi": { "text": "शहर के मसालेदार सड़क के नाश्ते। ताज़ा बिक्री वाले व्यस्त ठेले चुनें और बोतलबंद पानी लें।", "reviewed": false }, "mr": { "text": "शहरातील मसालेदार रस्त्यावरील खाऊ. ताजी विक्री असलेल्या गर्दीच्या गाड्या निवडा आणि बाटलीबंद पाणी घ्या.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Thandai, lassi and malaiyo", "hi": { "text": "ठंडाई, लस्सी और मलइयो", "reviewed": false }, "mr": { "text": "थंडाई, लस्सी आणि मलइयो", "reviewed": false } },
+      "body": { "en": "Cooling drinks and a light milk-foam sweet sold in winter mornings. Thandai is sometimes made with bhang, so ask for the plain kind.", "hi": { "text": "ठंडे पेय और सर्दियों की सुबह बिकने वाली दूध के झाग की हल्की मिठाई। ठंडाई कभी-कभी भांग से बनती है, इसलिए सादी माँगें।", "reviewed": false }, "mr": { "text": "थंड पेये आणि हिवाळ्याच्या सकाळी मिळणारी दुधाच्या फेसाची हलकी मिठाई. थंडाई कधी कधी भांगेने बनते, म्हणून साधी मागा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Litti-chokha and Banarasi paan", "hi": { "text": "लिट्टी-चोखा और बनारसी पान", "reviewed": false }, "mr": { "text": "लिट्टी-चोखा आणि बनारसी पान", "reviewed": false } },
+      "body": { "en": "Baked wheat balls with mashed vegetables, and the famous betel leaf. Ask for paan without tobacco.", "hi": { "text": "सेंकी हुई गेहूँ की लिट्टी और भुनी सब्ज़ियों का चोखा, और प्रसिद्ध पान। तंबाकू रहित पान माँगें।", "reviewed": false }, "mr": { "text": "भाजलेले गव्हाचे गोळे आणि मसलेल्या भाज्यांचा चोखा, आणि प्रसिद्ध पान. तंबाखूविरहित पान मागा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "The old city has many vegetarian-only shops. Dharamshala and ashram kitchens often serve simple meals without onion and garlic. Ask for satvik or Jain food at restaurants. Alcohol and meat are generally not sold near the main temple area.",
+    "hi": { "text": "पुराने शहर में कई केवल शाकाहारी दुकानें हैं। धर्मशाला और आश्रम की रसोइयाँ अक्सर बिना प्याज़-लहसुन का सादा भोजन देती हैं। रेस्तराँ में सात्त्विक या जैन भोजन माँगें। मुख्य मंदिर क्षेत्र के पास सामान्यतः शराब और मांस नहीं बिकते।", "reviewed": false },
+    "mr": { "text": "जुन्या शहरात अनेक केवळ शाकाहारी दुकाने आहेत. धर्मशाळा आणि आश्रमांच्या स्वयंपाकघरात अनेकदा कांदा-लसणाशिवाय साधे जेवण मिळते. उपाहारगृहांत सात्त्विक किंवा जैन जेवण मागा. मुख्य मंदिर परिसराजवळ सहसा मद्य आणि मांस विकले जात नाही.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 1000, "max": 2000 },
+      "mid": { "min": 2500, "max": 5000 },
+      "comfort": { "min": 6000, "max": 12000 }
+    },
+    "note": {
+      "en": "Per person per day for stay, food and local transport, assuming a twin-share room. Prices rise sharply around festivals, Shravan and winter weekends.",
+      "hi": { "text": "प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। त्योहारों, श्रावण और सर्दियों के सप्ताहांत में कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. सण, श्रावण आणि हिवाळ्यातील सप्ताहांताला दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Ghat steps are many, uneven and slippery near the water, and the lanes are crowded. Wear shoes with grip you can remove easily, and go slowly.",
+      "hi": { "text": "घाटों पर सीढ़ियाँ बहुत हैं, असमान हैं और पानी के पास फिसलन भरी हैं, और गलियाँ भीड़ भरी हैं। पकड़ वाले और आसानी से उतरने वाले जूते पहनें और धीरे चलें।", "reviewed": false },
+      "mr": { "text": "घाटांवर पायऱ्या खूप आहेत, असमान आहेत आणि पाण्याजवळ निसरड्या आहेत, आणि गल्ल्या गर्दीच्या आहेत. पकड असलेले आणि सहज काढता येणारे बूट घाला आणि सावकाश चाला.", "reviewed": false }
+    },
+    {
+      "en": "Summer heat can be severe. Visit early, carry water, cover your head and rest in the afternoon. Winter fog and cold mornings can be hard for older travellers.",
+      "hi": { "text": "गर्मी में तापमान बहुत अधिक हो सकता है। जल्दी जाएँ, पानी साथ रखें, सिर ढकें और दोपहर में विश्राम करें। सर्दियों का कोहरा और ठंडी सुबहें बुज़ुर्ग यात्रियों के लिए कठिन हो सकती हैं।", "reviewed": false },
+      "mr": { "text": "उन्हाळ्यात उष्णता तीव्र असू शकते. लवकर जा, पाणी सोबत ठेवा, डोके झाका आणि दुपारी विश्रांती घ्या. हिवाळ्यातील धुके आणि थंड सकाळ ज्येष्ठ प्रवाशांना कठीण असू शकते.", "reviewed": false }
+    },
+    {
+      "en": "River water quality varies and floods can make ghats unsafe. Do not drink Ganga water, bathe only where others bathe and stay out of the river in the monsoon.",
+      "hi": { "text": "नदी के जल की गुणवत्ता बदलती रहती है और बाढ़ से घाट असुरक्षित हो सकते हैं। गंगा जल न पिएँ, वहीं स्नान करें जहाँ अन्य लोग करते हैं और वर्षा ऋतु में नदी से दूर रहें।", "reviewed": false },
+      "mr": { "text": "नदीच्या पाण्याचा दर्जा बदलतो आणि पुरामुळे घाट असुरक्षित होऊ शकतात. गंगेचे पाणी पिऊ नका, इतर लोक जिथे स्नान करतात तिथेच करा आणि पावसाळ्यात नदीपासून दूर राहा.", "reviewed": false }
+    },
+    {
+      "en": "Only bottled or filtered water, and fresh hot food. Keep hands clean before eating. Carry your own medicines in their original packs.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी और ताज़ा गरम भोजन लें। खाने से पहले हाथ साफ़ रखें। अपनी दवाइयाँ मूल पैक में साथ रखें।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी आणि ताजे गरम अन्न घ्या. जेवणापूर्वी हात स्वच्छ ठेवा. आपली औषधे मूळ पाकिटात सोबत ठेवा.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly and remove footwear before temples. Ask before photographing people, priests or rituals.",
+      "hi": { "text": "शालीन वस्त्र पहनें और मंदिरों से पहले जूते-चप्पल उतारें। लोगों, पुजारियों या अनुष्ठानों की तस्वीर लेने से पहले पूछें।", "reviewed": false },
+      "mr": { "text": "साधे कपडे घाला आणि मंदिरांपूर्वी पादत्राणे काढा. लोक, पुजारी किंवा विधींचे छायाचित्र घेण्यापूर्वी विचारा.", "reviewed": false }
+    },
+    {
+      "en": "Manikarnika and Harishchandra are cremation ghats. Stay respectful and quiet, and do not take photos or drone footage there.",
+      "hi": { "text": "मणिकर्णिका और हरिश्चंद्र श्मशान घाट हैं। वहाँ सम्मान और शांति बनाए रखें, और तस्वीरें या ड्रोन वीडियो न लें।", "reviewed": false },
+      "mr": { "text": "मणिकर्णिका आणि हरिश्चंद्र हे स्मशान घाट आहेत. तिथे आदर आणि शांतता राखा आणि छायाचित्रे किंवा ड्रोन चित्रण करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Do not litter the river or the ghats. Use the bins or take your waste with you, and keep floral offerings to the places meant for them.",
+      "hi": { "text": "नदी या घाटों पर कचरा न डालें। कूड़ेदान का उपयोग करें या कचरा साथ ले जाएँ, और फूलों का अर्पण निर्धारित स्थानों पर ही करें।", "reviewed": false },
+      "mr": { "text": "नदी किंवा घाटांवर कचरा टाकू नका. कचरापेटी वापरा किंवा कचरा सोबत न्या, आणि फुलांचे अर्पण ठरलेल्या ठिकाणीच करा.", "reviewed": false }
+    },
+    {
+      "en": "Priests and guides may approach you. You may politely decline. Agree any donation or fee in advance and ask for the official receipt where there is one.",
+      "hi": { "text": "पुजारी और गाइड आपसे संपर्क कर सकते हैं। आप विनम्रता से मना कर सकते हैं। किसी भी दान या शुल्क को पहले तय करें और जहाँ रसीद हो वहाँ आधिकारिक रसीद माँगें।", "reviewed": false },
+      "mr": { "text": "पुजारी आणि मार्गदर्शक तुमच्याकडे येऊ शकतात. तुम्ही नम्रपणे नकार देऊ शकता. कोणतेही दान किंवा शुल्क आधी ठरवा आणि जिथे पावती असते तिथे अधिकृत पावती मागा.", "reviewed": false }
+    },
+    {
+      "en": "Do not touch or feed the cows and monkeys carelessly, and keep food covered near the temples.",
+      "hi": { "text": "गायों और बंदरों को लापरवाही से न छुएँ या खिलाएँ, और मंदिरों के पास भोजन ढककर रखें।", "reviewed": false },
+      "mr": { "text": "गायी आणि माकडांना निष्काळजीपणे स्पर्श करू नका किंवा खायला घालू नका, आणि मंदिरांजवळ अन्न झाकून ठेवा.", "reviewed": false }
+    }
+  ]
+}

@@ -8,10 +8,10 @@
  *   const entries = await s.journal.list();          // newest first
  *   if (s.backend === "memory") showNotSavedWarning();
  */
-import type { JapaState, JournalEntry, PracticeLog, YogaProgress } from "@/lib/types";
+import type { JapaState, JournalEntry, PracticeLog, TripPlan, YogaProgress } from "@/lib/types";
 import { createPrefsStore, type PrefsStore } from "./prefs";
 import { IdbRepo, LocalStorageRepo, MemoryRepo, openAppDb } from "./repos";
-import { DB_NAME, japaSpec, journalSpec, practiceLogSpec, STORAGE_PREFIX, yogaProgressSpec } from "./schema";
+import { DB_NAME, japaSpec, journalSpec, practiceLogSpec, STORAGE_PREFIX, tripSpec, yogaProgressSpec } from "./schema";
 import type { AppStorage } from "./types";
 
 export * from "./types";
@@ -65,6 +65,7 @@ export async function createStorage(): Promise<AppStorage> {
         practiceLog: new IdbRepo<PracticeLog>(dbp, practiceLogSpec),
         japa: new IdbRepo<JapaState>(dbp, japaSpec),
         yogaProgress: new IdbRepo<YogaProgress>(dbp, yogaProgressSpec),
+        trips: new IdbRepo<TripPlan>(dbp, tripSpec),
       };
     } catch {
       // Fall through (private mode, blocked, corrupt profile).
@@ -78,6 +79,7 @@ export async function createStorage(): Promise<AppStorage> {
       practiceLog: new LocalStorageRepo<PracticeLog>(practiceLogSpec, ls),
       japa: new LocalStorageRepo<JapaState>(japaSpec, ls),
       yogaProgress: new LocalStorageRepo<YogaProgress>(yogaProgressSpec, ls),
+      trips: new LocalStorageRepo<TripPlan>(tripSpec, ls),
     };
   }
   return {
@@ -86,6 +88,7 @@ export async function createStorage(): Promise<AppStorage> {
     practiceLog: new MemoryRepo<PracticeLog>(practiceLogSpec),
     japa: new MemoryRepo<JapaState>(japaSpec),
     yogaProgress: new MemoryRepo<YogaProgress>(yogaProgressSpec),
+    trips: new MemoryRepo<TripPlan>(tripSpec),
   };
 }
 
@@ -131,7 +134,7 @@ export async function clearAllData(): Promise<void> {
   if (storagePromise) {
     try {
       const s = await storagePromise;
-      await Promise.all([s.journal.clear(), s.practiceLog.clear(), s.japa.clear(), s.yogaProgress.clear()]);
+      await Promise.all([s.journal.clear(), s.practiceLog.clear(), s.japa.clear(), s.yogaProgress.clear(), s.trips.clear()]);
     } catch {
       /* continue with the hard wipe */
     }

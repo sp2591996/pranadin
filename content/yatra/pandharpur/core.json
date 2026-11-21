@@ -1,0 +1,167 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "pandharpur",
+  "name": { "en": "Pandharpur", "hi": { "text": "पंढरपुर", "reviewed": false }, "mr": { "text": "पंढरपूर", "reviewed": false } },
+  "state": { "en": "Maharashtra", "hi": { "text": "महाराष्ट्र", "reviewed": false }, "mr": { "text": "महाराष्ट्र", "reviewed": false } },
+  "stateKey": "maharashtra",
+  "traditions": ["hindu"],
+  "deity": {
+    "en": "Lord Vitthal (Vithoba, Panduranga), a form of Vishnu or Krishna, with Rakhumai (Rukmini). The centre of the Varkari tradition.",
+    "hi": { "text": "भगवान विट्ठल (विठोबा, पांडुरंग), विष्णु या कृष्ण का रूप, रखुमाई (रुक्मिणी) के साथ। वारकरी परंपरा का केंद्र।", "reviewed": false },
+    "mr": { "text": "भगवान विठ्ठल (विठोबा, पांडुरंग), विष्णू किंवा कृष्णाचे रूप, रखुमाईसह (रुक्मिणी). वारकरी संप्रदायाचे केंद्र.", "reviewed": false }
+  },
+  "significance": {
+    "en": "Pandharpur is the great pilgrimage of Maharashtra. For centuries the Varkaris have walked here, singing the abhangs of saints such as Dnyaneshwar, Tukaram, Namdev and Eknath. Devotion here is open to all, whatever one's caste or learning.",
+    "hi": { "text": "पंढरपुर महाराष्ट्र का महान तीर्थ है। सदियों से वारकरी संत ज्ञानेश्वर, तुकाराम, नामदेव और एकनाथ जैसे संतों के अभंग गाते हुए यहाँ पैदल आते रहे हैं। यहाँ भक्ति सबके लिए खुली है, चाहे जाति या विद्या कुछ भी हो।", "reviewed": false },
+    "mr": { "text": "पंढरपूर हे महाराष्ट्राचे महान तीर्थक्षेत्र आहे. शतकानुशतके वारकरी ज्ञानेश्वर, तुकाराम, नामदेव आणि एकनाथ यांसारख्या संतांचे अभंग गात येथे पायी येतात. येथे भक्ती सर्वांसाठी खुली आहे, जात किंवा विद्या कोणतीही असो.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "Vitthal's town on the Chandrabhaga",
+    "hi": { "text": "चंद्रभागा तट पर विट्ठल की नगरी", "reviewed": false },
+    "mr": { "text": "चंद्रभागेकाठी विठ्ठलाची नगरी", "reviewed": false }
+  },
+  "overview": {
+    "en": "Pandharpur is a small temple town on the banks of the Bhima river, locally called the Chandrabhaga because of its crescent shape. Life revolves around the Vitthal-Rukmini temple, the river ghats and the narrow streets of shops selling tulsi garlands, kumkum and devotional books. Most days are calm. On the great ekadashi days, the town fills with lakhs of pilgrims.",
+    "hi": { "text": "पंढरपुर भीमा नदी के तट पर बसा छोटा मंदिर नगर है, जिसे अर्धचंद्राकार रूप के कारण स्थानीय रूप से चंद्रभागा कहा जाता है। जीवन विट्ठल-रुक्मिणी मंदिर, नदी के घाटों और तुलसी की मालाएँ, कुमकुम और भक्ति पुस्तकें बेचने वाली संकरी गलियों के इर्द-गिर्द घूमता है। अधिकांश दिन शांत रहते हैं। बड़ी एकादशियों पर नगर लाखों श्रद्धालुओं से भर जाता है।", "reviewed": false },
+    "mr": { "text": "पंढरपूर हे भीमा नदीच्या काठावरील लहान मंदिर नगर आहे, जिला अर्धचंद्राकार रूपामुळे स्थानिक पातळीवर चंद्रभागा म्हणतात. जीवन विठ्ठल-रुक्मिणी मंदिर, नदीचे घाट आणि तुळशीच्या माळा, कुंकू व भक्तिग्रंथ विकणाऱ्या अरुंद गल्ल्यांभोवती फिरते. बहुतेक दिवस शांत असतात. मोठ्या एकादशीच्या दिवशी नगर लाखो भाविकांनी भरून जाते.", "reviewed": false }
+  },
+  "story": {
+    "en": "Tradition tells of Pundalik, a devoted son who was serving his parents when Krishna came to his door. Pundalik tossed out a brick for the Lord to stand on and asked him to wait until the service was done. Vitthal stood on the brick with his hands on his hips, and that is the form worshipped here. The Wari, the walk of the palkhis from Dehu and Alandi to Pandharpur for Ashadhi Ekadashi, takes about three weeks.",
+    "hi": { "text": "परंपरा में पुंडलिक की कथा है, जो अपने माता-पिता की सेवा में लगा था जब कृष्ण उसके द्वार पर आए। पुंडलिक ने प्रभु के खड़े होने के लिए ईंट फेंकी और सेवा पूरी होने तक प्रतीक्षा करने को कहा। विट्ठल हाथ कमर पर रखकर ईंट पर खड़े हो गए, और यही रूप यहाँ पूजित है। वारी, यानी आषाढ़ी एकादशी के लिए देहू और आलंदी से पालखियों की पदयात्रा, लगभग तीन सप्ताह में पूरी होती है।", "reviewed": false },
+    "mr": { "text": "परंपरेत पुंडलिकाची कथा आहे, जो आई-वडिलांच्या सेवेत मग्न असताना कृष्ण त्याच्या दारी आले. पुंडलिकाने प्रभूंना उभे राहण्यासाठी वीट फेकली आणि सेवा पूर्ण होईपर्यंत थांबण्यास सांगितले. विठ्ठल कमरेवर हात ठेवून विटेवर उभे राहिले, आणि हेच रूप येथे पूजले जाते. वारी, म्हणजे आषाढी एकादशीसाठी देहू आणि आळंदीहून पालख्यांची पायी यात्रा, सुमारे तीन आठवडे चालते.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Pundalik legend of the Varkari tradition and the abhangs of the saint-poets.",
+    "hi": { "text": "वारकरी परंपरा की पुंडलिक कथा और संत-कवियों के अभंगों से।", "reviewed": false },
+    "mr": { "text": "वारकरी संप्रदायातील पुंडलिक कथा आणि संतकवींच्या अभंगांतून.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [10, 11, 12, 1, 2],
+    "seasons": [
+      {
+        "months": [11, 12, 1, 2],
+        "rating": "best",
+        "weather": {
+          "en": "Dry and pleasant, roughly 12 to 30 degrees, with cool mornings. Best for walking and longer queues. Kartiki Ekadashi falls in October or November and brings large crowds.",
+          "hi": { "text": "शुष्क और सुहावना, लगभग 12 से 30 डिग्री, ठंडी सुबह के साथ। पैदल चलने और लंबी कतारों के लिए सर्वोत्तम। कार्तिकी एकादशी अक्टूबर या नवंबर में आती है और बड़ी भीड़ लाती है।", "reviewed": false },
+          "mr": { "text": "कोरडे आणि आल्हाददायक, सुमारे 12 ते 30 अंश, थंड सकाळसह. चालण्यासाठी आणि लांब रांगांसाठी उत्तम. कार्तिकी एकादशी ऑक्टोबर किंवा नोव्हेंबरमध्ये येते आणि मोठी गर्दी आणते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [3, 10],
+        "rating": "good",
+        "weather": {
+          "en": "Warm to hot in March, around 33 to 37 degrees. October is humid as the monsoon withdraws, with a chance of late showers.",
+          "hi": { "text": "मार्च में गर्म से तेज़ गर्म, लगभग 33 से 37 डिग्री। अक्टूबर में मानसून लौटते समय उमस रहती है और देर की बारिश संभव है।", "reviewed": false },
+          "mr": { "text": "मार्चमध्ये उबदार ते उष्ण, सुमारे 33 ते 37 अंश. ऑक्टोबरमध्ये मान्सून परतताना दमटपणा असतो आणि उशिराच्या सरी शक्य असतात.", "reviewed": false }
+        }
+      },
+      {
+        "months": [4, 5],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot and dry, often 38 to 43 degrees. If you must go, visit at dawn or late evening.",
+          "hi": { "text": "बहुत गर्म और शुष्क, अक्सर 38 से 43 डिग्री। जाना ही हो तो भोर या देर शाम जाएँ।", "reviewed": false },
+          "mr": { "text": "खूप उष्ण आणि कोरडे, अनेकदा 38 ते 43 अंश. जायचेच असेल तर पहाटे किंवा उशिरा संध्याकाळी जा.", "reviewed": false }
+        }
+      },
+      {
+        "months": [6, 7],
+        "rating": "difficult",
+        "weather": {
+          "en": "Monsoon begins. Ashadhi Ekadashi falls in June or July and brings lakhs of pilgrims with very long queues and crowded roads. Choose this time only for the Wari experience, and plan well ahead.",
+          "hi": { "text": "वर्षा शुरू होती है। आषाढ़ी एकादशी जून या जुलाई में आती है और लाखों श्रद्धालु, बहुत लंबी कतारें और भीड़ भरी सड़कें लाती है। इस समय केवल वारी के अनुभव के लिए जाएँ और पहले से अच्छी योजना बनाएँ।", "reviewed": false },
+          "mr": { "text": "पावसाळा सुरू होतो. आषाढी एकादशी जून किंवा जुलैमध्ये येते आणि लाखो भाविक, खूप लांब रांगा आणि गर्दीचे रस्ते आणते. या काळात फक्त वारीच्या अनुभवासाठी जा आणि आधीपासून नीट योजना करा.", "reviewed": false }
+        }
+      },
+      {
+        "months": [8, 9],
+        "rating": "good",
+        "weather": {
+          "en": "Green and fairly mild with moderate rain, and fewer crowds. The river can rise, so check the water level before going to the ghats.",
+          "hi": { "text": "हरा-भरा और मध्यम वर्षा के साथ काफ़ी सौम्य, भीड़ कम। नदी बढ़ सकती है, इसलिए घाटों पर जाने से पहले जल स्तर देख लें।", "reviewed": false },
+          "mr": { "text": "हिरवेगार आणि मध्यम पावसासह बऱ्यापैकी सौम्य, गर्दी कमी. नदी वाढू शकते, म्हणून घाटांवर जाण्यापूर्वी पाण्याची पातळी पाहा.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Solapur Airport (limited flights)", "hi": { "text": "सोलापुर हवाई अड्डा (सीमित उड़ानें)", "reviewed": false }, "mr": { "text": "सोलापूर विमानतळ (मर्यादित उड्डाणे)", "reviewed": false } },
+      "km": 75,
+      "how": {
+        "en": "Flights to Solapur are limited, so many pilgrims fly to Pune (about 210 km) and continue by road or rail. Check the current Solapur schedule before you plan around it.",
+        "hi": { "text": "सोलापुर की उड़ानें सीमित हैं, इसलिए कई श्रद्धालु पुणे (लगभग 210 किमी) तक उड़कर सड़क या रेल से आगे जाते हैं। योजना बनाने से पहले सोलापुर की वर्तमान समय-सारणी देखें।", "reviewed": false },
+        "mr": { "text": "सोलापूरची उड्डाणे मर्यादित आहेत, म्हणून अनेक भाविक पुण्यापर्यंत (सुमारे 210 किमी) विमानाने जाऊन पुढे रस्ता किंवा रेल्वेने जातात. नियोजनापूर्वी सोलापूरचे सध्याचे वेळापत्रक पाहा.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Pandharpur Station (PVR)", "hi": { "text": "पंढरपुर स्टेशन (PVR)", "reviewed": false }, "mr": { "text": "पंढरपूर स्थानक (PVR)", "reviewed": false } },
+      "km": 2,
+      "how": {
+        "en": "A short branch line connects the town through Kurduwadi, which is on the Pune to Solapur main line. Pune, Mumbai and Solapur have onward trains or connections. Extra trains run during the big ekadashi weeks.",
+        "hi": { "text": "एक छोटी शाखा लाइन कुर्डुवाड़ी से नगर को जोड़ती है, जो पुणे-सोलापुर मुख्य लाइन पर है। पुणे, मुंबई और सोलापुर से आगे की गाड़ियाँ या संपर्क हैं। बड़ी एकादशी के सप्ताहों में अतिरिक्त गाड़ियाँ चलती हैं।", "reviewed": false },
+        "mr": { "text": "एक लहान शाखा मार्ग कुर्डुवाडीमार्गे नगराला जोडतो, जे पुणे-सोलापूर मुख्य मार्गावर आहे. पुणे, मुंबई आणि सोलापूरहून पुढील गाड्या किंवा जोडणी आहेत. मोठ्या एकादशीच्या आठवड्यांत जादा गाड्या धावतात.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Solapur is about 75 km, Pune about 210 km and Mumbai about 400 km away. State transport buses and private coaches run from these cities, and extra buses are added at festival times. Expect the last stretch into town to slow down on ekadashi days.",
+        "hi": { "text": "सोलापुर लगभग 75 किमी, पुणे लगभग 210 किमी और मुंबई लगभग 400 किमी दूर है। इन शहरों से राज्य परिवहन की बसें और निजी कोच चलती हैं, और त्योहारों में अतिरिक्त बसें जोड़ी जाती हैं। एकादशी के दिन नगर में प्रवेश का अंतिम हिस्सा धीमा हो सकता है।", "reviewed": false },
+        "mr": { "text": "सोलापूर सुमारे 75 किमी, पुणे सुमारे 210 किमी आणि मुंबई सुमारे 400 किमी अंतरावर आहे. या शहरांतून राज्य परिवहनच्या बसेस आणि खासगी कोच धावतात, आणि सणांच्या वेळी जादा बसेस जोडल्या जातात. एकादशीच्या दिवशी नगरात प्रवेशाचा शेवटचा टप्पा संथ होऊ शकतो.", "reviewed": false }
+      },
+      "km": 210
+    }
+  },
+  "localTransport": {
+    "en": "The temple, ghats and main market are within a few kilometres, so most visitors walk. Auto-rickshaws and e-rickshaws cover longer hops, such as to the station or the bus stand. Roads near the temple are often closed to vehicles on ekadashi days, so keep time for the walk.",
+    "hi": { "text": "मंदिर, घाट और मुख्य बाज़ार कुछ किलोमीटर के भीतर हैं, इसलिए अधिकांश यात्री पैदल चलते हैं। लंबी दूरी, जैसे स्टेशन या बस स्थानक तक, ऑटो-रिक्शा और ई-रिक्शा चलते हैं। एकादशी के दिन मंदिर के पास की सड़कें अक्सर वाहनों के लिए बंद रहती हैं, इसलिए पैदल चलने का समय रखें।", "reviewed": false },
+    "mr": { "text": "मंदिर, घाट आणि मुख्य बाजार काही किलोमीटरच्या आत आहेत, म्हणून बहुतेक यात्रेकरू चालतात. स्थानक किंवा बसस्थानकासारख्या लांब अंतरासाठी ऑटो-रिक्षा आणि ई-रिक्षा चालतात. एकादशीच्या दिवशी मंदिराजवळचे रस्ते अनेकदा वाहनांसाठी बंद असतात, म्हणून चालण्यासाठी वेळ ठेवा.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "ashadhi-ekadashi",
+      "note": {
+        "en": "The biggest gathering, when the Wari palkhis arrive after about three weeks of walking.",
+        "hi": { "text": "सबसे बड़ा समागम, जब वारी की पालखियाँ लगभग तीन सप्ताह की पदयात्रा के बाद पहुँचती हैं।", "reviewed": false },
+        "mr": { "text": "सर्वात मोठा मेळावा, जेव्हा वारीच्या पालख्या सुमारे तीन आठवड्यांच्या पायी प्रवासानंतर पोहोचतात.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "tulsi-vivah",
+      "note": {
+        "en": "Kartiki Ekadashi, a few days before Tulsi Vivah, is the second great yatra here.",
+        "hi": { "text": "तुलसी विवाह से कुछ दिन पहले की कार्तिकी एकादशी यहाँ की दूसरी बड़ी यात्रा है।", "reviewed": false },
+        "mr": { "text": "तुळशी विवाहाच्या काही दिवस आधीची कार्तिकी एकादशी ही येथील दुसरी मोठी यात्रा आहे.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Gopalpur", "hi": { "text": "गोपालपुर", "reviewed": false }, "mr": { "text": "गोपाळपूर", "reviewed": false } },
+      "km": 8,
+      "note": { "en": "Small village shrine of Krishna that many pilgrims visit after Pandharpur.", "hi": { "text": "कृष्ण का छोटा ग्राम मंदिर जहाँ कई श्रद्धालु पंढरपुर के बाद जाते हैं।", "reviewed": false }, "mr": { "text": "कृष्णाचे लहान गावातील मंदिर जिथे अनेक भाविक पंढरपूरनंतर जातात.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Solapur (Siddheshwar Temple)", "hi": { "text": "सोलापुर (सिद्धेश्वर मंदिर)", "reviewed": false }, "mr": { "text": "सोलापूर (सिद्धेश्वर मंदिर)", "reviewed": false } },
+      "km": 75,
+      "note": { "en": "A city with a lake temple, and the usual gateway by rail and road.", "hi": { "text": "झील वाला मंदिर और रेल व सड़क का सामान्य प्रवेश द्वार वाला नगर।", "reviewed": false }, "mr": { "text": "तलावातील मंदिर असलेले आणि रेल्वे व रस्त्याचे नेहमीचे प्रवेशद्वार असलेले शहर.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Tuljapur (Tulja Bhavani)", "hi": { "text": "तुलजापुर (तुळजा भवानी)", "reviewed": false }, "mr": { "text": "तुळजापूर (तुळजा भवानी)", "reviewed": false } },
+      "km": 110,
+      "note": { "en": "One of the revered Devi shrines of Maharashtra, often paired with Pandharpur.", "hi": { "text": "महाराष्ट्र के पूज्य देवी मंदिरों में से एक, अक्सर पंढरपुर के साथ जोड़ा जाता है।", "reviewed": false }, "mr": { "text": "महाराष्ट्रातील पूजनीय देवी मंदिरांपैकी एक, अनेकदा पंढरपूरसह जोडले जाते.", "reviewed": false } }
+    }
+  ],
+  "photos": [],
+  "sources": [
+    { "label": "Pandharpur, Wikipedia", "url": "https://en.wikipedia.org/wiki/Pandharpur" },
+    { "label": "Vithoba Temple, Pandharpur, Wikipedia", "url": "https://en.wikipedia.org/wiki/Vitthal_Temple,_Pandharpur" },
+    { "label": "Pandharpur Wari, Wikipedia", "url": "https://en.wikipedia.org/wiki/Pandharpur_Wari" },
+    { "label": "Maharashtra Tourism", "url": "https://www.maharashtratourism.gov.in" }
+  ]
+}

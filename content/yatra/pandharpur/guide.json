@@ -1,0 +1,156 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "pandharpur",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: river bath, darshan and the evening", "hi": { "text": "एक दिन: नदी स्नान, दर्शन और शाम", "reviewed": false }, "mr": { "text": "एक दिवस: नदी स्नान, दर्शन आणि संध्याकाळ", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Early bath at the Chandrabhaga ghats, bow at Namdev Payari and join the darshan queue.", "hi": { "text": "चंद्रभागा के घाटों पर भोर में स्नान, नामदेव पायरी पर नमन और दर्शन की कतार में शामिल हों।", "reviewed": false }, "mr": { "text": "चंद्रभागेच्या घाटांवर पहाटे स्नान, नामदेव पायरीवर नमन आणि दर्शनाच्या रांगेत सामील व्हा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan of Vitthal and Rukmini, then a simple lunch and a rest.", "hi": { "text": "विट्ठल और रुक्मिणी के दर्शन, फिर सादा भोजन और विश्राम।", "reviewed": false }, "mr": { "text": "विठ्ठल आणि रुक्मिणीचे दर्शन, मग साधे जेवण आणि विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Visit Vishnupad temple and sit on the riverbank at sunset. Buy a tulsi garland and books from the market.", "hi": { "text": "विष्णुपद मंदिर जाएँ और सूर्यास्त पर नदी तट पर बैठें। बाज़ार से तुलसी की माला और पुस्तकें लें।", "reviewed": false }, "mr": { "text": "विष्णुपद मंदिरात जा आणि सूर्यास्ताच्या वेळी नदीकाठी बसा. बाजारातून तुळशीची माळ आणि पुस्तके घ्या.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: Pandharpur and Gopalpur", "hi": { "text": "दो दिन: पंढरपुर और गोपालपुर", "reviewed": false }, "mr": { "text": "दोन दिवस: पंढरपूर आणि गोपाळपूर", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "River bath and the Vitthal-Rukmini darshan.", "hi": { "text": "नदी स्नान और विट्ठल-रुक्मिणी दर्शन।", "reviewed": false }, "mr": { "text": "नदी स्नान आणि विठ्ठल-रुक्मिणी दर्शन.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Rest after lunch, then walk the market lanes and Namdev Payari.", "hi": { "text": "भोजन के बाद विश्राम, फिर बाज़ार की गलियों और नामदेव पायरी तक पैदल।", "reviewed": false }, "mr": { "text": "जेवणानंतर विश्रांती, मग बाजाराच्या गल्ल्या आणि नामदेव पायरीकडे चालत.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Listen to a kirtan or bhajan at a math or dharamshala, a common evening here.", "hi": { "text": "किसी मठ या धर्मशाला में कीर्तन या भजन सुनें, यहाँ की सामान्य शाम।", "reviewed": false }, "mr": { "text": "एखाद्या मठात किंवा धर्मशाळेत कीर्तन किंवा भजन ऐका, येथील नेहमीची संध्याकाळ.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Boat to the Pundalik Temple if the river allows, then Vishnupad.", "hi": { "text": "नदी अनुमति दे तो नाव से पुंडलिक मंदिर, फिर विष्णुपद।", "reviewed": false }, "mr": { "text": "नदीने परवानगी दिल्यास नावेने पुंडलिक मंदिर, मग विष्णुपद.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit Gopalpur and return for a rest.", "hi": { "text": "गोपालपुर जाएँ और लौटकर विश्राम करें।", "reviewed": false }, "mr": { "text": "गोपाळपूरला जा आणि परतून विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A last aarti or quiet time on the ghats before leaving.", "hi": { "text": "जाने से पहले अंतिम आरती या घाट पर शांत समय।", "reviewed": false }, "mr": { "text": "निघण्यापूर्वी शेवटची आरती किंवा घाटावर शांत वेळ.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: Pandharpur, Solapur and Tuljapur", "hi": { "text": "तीन दिन: पंढरपुर, सोलापुर और तुलजापुर", "reviewed": false }, "mr": { "text": "तीन दिवस: पंढरपूर, सोलापूर आणि तुळजापूर", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive, settle in and take a slow walk to the ghats.", "hi": { "text": "पहुँचें, ठहरें और घाटों तक धीमी सैर करें।", "reviewed": false }, "mr": { "text": "पोहोचा, स्थिरावा आणि घाटांपर्यंत सावकाश फेरफटका मारा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Vitthal-Rukmini darshan when the midday queue is shorter.", "hi": { "text": "दोपहर की कतार छोटी होने पर विट्ठल-रुक्मिणी दर्शन।", "reviewed": false }, "mr": { "text": "दुपारची रांग लहान असताना विठ्ठल-रुक्मिणी दर्शन.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "River bank at sunset and a kirtan.", "hi": { "text": "सूर्यास्त पर नदी तट और कीर्तन।", "reviewed": false }, "mr": { "text": "सूर्यास्ताच्या वेळी नदीकाठ आणि कीर्तन.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Early river bath, Pundalik Temple by boat if possible, and Vishnupad.", "hi": { "text": "भोर में नदी स्नान, संभव हो तो नाव से पुंडलिक मंदिर, और विष्णुपद।", "reviewed": false }, "mr": { "text": "पहाटे नदी स्नान, शक्य असल्यास नावेने पुंडलिक मंदिर, आणि विष्णुपद.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Gopalpur and a rest.", "hi": { "text": "गोपालपुर और विश्राम।", "reviewed": false }, "mr": { "text": "गोपाळपूर आणि विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Shop for tulsi garlands and devotional books in the market.", "hi": { "text": "बाज़ार से तुलसी की मालाएँ और भक्ति पुस्तकें खरीदें।", "reviewed": false }, "mr": { "text": "बाजारातून तुळशीच्या माळा आणि भक्तिपुस्तके खरेदी करा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Drive to Tuljapur (about 110 km) for the Tulja Bhavani darshan.", "hi": { "text": "तुळजा भवानी दर्शन के लिए तुलजापुर (लगभग 110 किमी) जाएँ।", "reviewed": false }, "mr": { "text": "तुळजा भवानी दर्शनासाठी तुळजापूरला (सुमारे 110 किमी) जा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Lunch, darshan and a rest in Tuljapur.", "hi": { "text": "तुलजापुर में भोजन, दर्शन और विश्राम।", "reviewed": false }, "mr": { "text": "तुळजापूरमध्ये जेवण, दर्शन आणि विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return towards Solapur and see the Siddheshwar temple lake, or travel on.", "hi": { "text": "सोलापुर की ओर लौटें और सिद्धेश्वर मंदिर की झील देखें, या आगे की यात्रा करें।", "reviewed": false }, "mr": { "text": "सोलापूरच्या दिशेने परता आणि सिद्धेश्वर मंदिराचा तलाव पाहा, किंवा पुढे प्रवास करा.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near the temple and Chandrabhaga", "hi": { "text": "मंदिर और चंद्रभागा के पास", "reviewed": false }, "mr": { "text": "मंदिर आणि चंद्रभागेजवळ", "reviewed": false } },
+      "body": { "en": "Walking distance to darshan. Rooms are simple and the lanes are busy. Book well ahead for ekadashi weeks.", "hi": { "text": "दर्शन तक पैदल दूरी। कमरे सादे हैं और गलियाँ व्यस्त। एकादशी के सप्ताहों के लिए बहुत पहले योजना बनाएँ।", "reviewed": false }, "mr": { "text": "दर्शनापर्यंत चालत अंतर. खोल्या साध्या आहेत आणि गल्ल्या गजबजलेल्या. एकादशीच्या आठवड्यांसाठी खूप आधी नियोजन करा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Bhakta niwas, maths and dharamshalas", "hi": { "text": "भक्त निवास, मठ और धर्मशालाएँ", "reviewed": false }, "mr": { "text": "भक्त निवास, मठ आणि धर्मशाळा", "reviewed": false } },
+      "body": { "en": "Low-cost rooms and dormitories run by trusts, maths and the temple committee. Common in Pandharpur and often with plain meals. Rules and rates vary, so ask each directly.", "hi": { "text": "न्यासों, मठों और मंदिर समिति द्वारा संचालित कम लागत के कमरे और शयनगृह। पंढरपुर में आम और अक्सर सादे भोजन के साथ। नियम और दरें अलग-अलग हैं, इसलिए हर एक से सीधे पूछें।", "reviewed": false }, "mr": { "text": "न्यास, मठ आणि मंदिर समितीद्वारे चालवलेल्या कमी खर्चाच्या खोल्या आणि शयनगृहे. पंढरपूरमध्ये सामान्य आणि अनेकदा साध्या जेवणासह. नियम आणि दर वेगवेगळे असतात, म्हणून प्रत्येकाला थेट विचारा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Town hotels along the main roads", "hi": { "text": "मुख्य सड़कों पर नगर के होटल", "reviewed": false }, "mr": { "text": "मुख्य रस्त्यांवरील शहरातील हॉटेल", "reviewed": false } },
+      "body": { "en": "Mid-range rooms with air conditioning and parking. Ten to fifteen minutes by auto from the temple, and quieter at night.", "hi": { "text": "वातानुकूलन और पार्किंग वाले मध्यम श्रेणी के कमरे। मंदिर से ऑटो में दस से पंद्रह मिनट, और रात में शांत।", "reviewed": false }, "mr": { "text": "वातानुकूलन आणि पार्किंग असलेल्या मध्यम श्रेणीच्या खोल्या. मंदिरापासून ऑटोने दहा ते पंधरा मिनिटे, आणि रात्री शांत.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Jowar and bajra bhakri with pitla or zunka", "hi": { "text": "ज्वार और बाजरे की भाकरी, पिठला या झुणका", "reviewed": false }, "mr": { "text": "ज्वारी आणि बाजरीची भाकरी, पिठले किंवा झुणका", "reviewed": false } },
+      "body": { "en": "The everyday meal of the region: flat millet bread with a gram-flour curry.", "hi": { "text": "क्षेत्र का रोज़ का भोजन: बेसन की सब्ज़ी के साथ मोटे अनाज की रोटी।", "reviewed": false }, "mr": { "text": "प्रदेशाचे रोजचे जेवण: बेसनाच्या पिठल्यासोबत भरड धान्याची भाकरी.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Shenga chutney", "hi": { "text": "शेंगा चटनी", "reviewed": false }, "mr": { "text": "शेंगा चटणी", "reviewed": false } },
+      "body": { "en": "A dry, spicy groundnut chutney, typical of the Solapur belt. It is hot, so start with a little.", "hi": { "text": "सूखी, तीखी मूँगफली की चटनी, सोलापुर क्षेत्र की विशेषता। यह तीखी है, इसलिए थोड़ी से शुरू करें।", "reviewed": false }, "mr": { "text": "कोरडी, तिखट शेंगदाण्याची चटणी, सोलापूर पट्ट्याची खासियत. ती तिखट असते, म्हणून थोडीशी घेऊन सुरुवात करा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Sabudana khichdi and fasting foods", "hi": { "text": "साबूदाना खिचड़ी और व्रत के व्यंजन", "reviewed": false }, "mr": { "text": "साबुदाणा खिचडी आणि उपवासाचे पदार्थ", "reviewed": false } },
+      "body": { "en": "Widely sold on ekadashi, along with rajgira laddus and peanut sweets, since many pilgrims fast.", "hi": { "text": "एकादशी पर बड़े पैमाने पर मिलती है, राजगिरा लड्डू और मूँगफली की मिठाइयों के साथ, क्योंकि कई श्रद्धालु उपवास रखते हैं।", "reviewed": false }, "mr": { "text": "एकादशीला मोठ्या प्रमाणात मिळते, राजगिरा लाडू आणि शेंगदाण्याच्या मिठाईसह, कारण अनेक भाविक उपवास करतात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Puran poli and shrikhand", "hi": { "text": "पूरन पोली और श्रीखंड", "reviewed": false }, "mr": { "text": "पुरणपोळी आणि श्रीखंड", "reviewed": false } },
+      "body": { "en": "Festive sweets of Maharashtra, found in simple restaurants and homes during celebrations.", "hi": { "text": "महाराष्ट्र की उत्सव की मिठाइयाँ, उत्सवों में सादे भोजनालयों और घरों में मिलती हैं।", "reviewed": false }, "mr": { "text": "महाराष्ट्राची सणाची मिठाई, उत्सवांच्या वेळी साध्या उपाहारगृहांत आणि घरांत मिळते.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Pandharpur is a largely vegetarian pilgrim town. Meals at maths and dharamshalas are simple and often free of onion and garlic, and fasting days have their own menu. On ekadashi many places serve only fasting food. Ask the kitchen what is served before you sit down.",
+    "hi": { "text": "पंढरपुर मुख्यतः शाकाहारी तीर्थ नगर है। मठों और धर्मशालाओं में भोजन सादा होता है और अक्सर बिना प्याज़-लहसुन का, और व्रत के दिनों का अलग भोजन होता है। एकादशी पर कई जगह केवल व्रत का भोजन मिलता है। बैठने से पहले रसोई से पूछ लें कि क्या परोसा जा रहा है।", "reviewed": false },
+    "mr": { "text": "पंढरपूर हे प्रामुख्याने शाकाहारी तीर्थ नगर आहे. मठ आणि धर्मशाळांतील जेवण साधे आणि अनेकदा कांदा-लसणाशिवाय असते, आणि उपवासाच्या दिवसांचे वेगळे जेवण असते. एकादशीला अनेक ठिकाणी फक्त उपवासाचे जेवण मिळते. बसण्यापूर्वी स्वयंपाकघरात काय वाढले जात आहे ते विचारा.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 600, "max": 1500 },
+      "mid": { "min": 1800, "max": 3500 },
+      "comfort": { "min": 4000, "max": 7000 }
+    },
+    "note": {
+      "en": "Per person per day for stay, food and local transport, assuming a shared room. Rates rise steeply in ekadashi weeks and rooms can sell out.",
+      "hi": { "text": "प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, साझा कमरा मानकर। एकादशी के सप्ताहों में दरें तेज़ी से बढ़ती हैं और कमरे भर सकते हैं।", "reviewed": false },
+      "mr": { "text": "प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, सामायिक खोली गृहीत धरून. एकादशीच्या आठवड्यांत दर झपाट्याने वाढतात आणि खोल्या संपू शकतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Queues on big days are long and tightly packed. Eat and drink before joining, wear light clothes and keep a small bottle of water. Leave if you feel faint or unwell and tell a volunteer.",
+      "hi": { "text": "बड़े दिनों में कतारें लंबी और सघन होती हैं। शामिल होने से पहले खाएँ-पिएँ, हल्के कपड़े पहनें और पानी की छोटी बोतल रखें। चक्कर या अस्वस्थता लगे तो कतार छोड़ दें और स्वयंसेवक को बताएँ।", "reviewed": false },
+      "mr": { "text": "मोठ्या दिवशी रांगा लांब आणि दाटीच्या असतात. सामील होण्यापूर्वी खा-प्या, हलके कपडे घाला आणि पाण्याची लहान बाटली ठेवा. चक्कर किंवा अस्वस्थ वाटल्यास रांग सोडा आणि स्वयंसेवकाला सांगा.", "reviewed": false }
+    },
+    {
+      "en": "The climate is dry and hot for much of the year. In April and May visit early and late. During the monsoon the ghats are slippery and the river can rise quickly.",
+      "hi": { "text": "वर्ष के अधिकांश समय जलवायु शुष्क और गर्म रहती है। अप्रैल और मई में भोर और देर शाम जाएँ। वर्षा में घाट फिसलन भरे होते हैं और नदी तेज़ी से बढ़ सकती है।", "reviewed": false },
+      "mr": { "text": "वर्षातील बहुतांश काळ हवामान कोरडे आणि उष्ण असते. एप्रिल आणि मेमध्ये पहाटे आणि उशिरा संध्याकाळी जा. पावसाळ्यात घाट निसरडे असतात आणि नदी झपाट्याने वाढू शकते.", "reviewed": false }
+    },
+    {
+      "en": "Walking is mostly flat but there are many steps at the temple and ghats. Wheelchair and assisted routes may be offered by the temple staff. Ask at the entrance.",
+      "hi": { "text": "चलना अधिकतर समतल है, पर मंदिर और घाटों पर कई सीढ़ियाँ हैं। मंदिर के कर्मचारी व्हीलचेयर और सहायक मार्ग दे सकते हैं। प्रवेश पर पूछें।", "reviewed": false },
+      "mr": { "text": "चालणे बहुतेक सपाट आहे, पण मंदिर आणि घाटांवर अनेक पायऱ्या आहेत. मंदिराचे कर्मचारी व्हीलचेअर आणि साहाय्यक मार्ग देऊ शकतात. प्रवेशद्वारावर विचारा.", "reviewed": false }
+    },
+    {
+      "en": "Use bottled or filtered water, eat freshly cooked food and use mosquito protection in the evening near the river.",
+      "hi": { "text": "बोतलबंद या छना हुआ पानी लें, ताज़ा पका भोजन खाएँ और शाम को नदी के पास मच्छरों से बचाव रखें।", "reviewed": false },
+      "mr": { "text": "बाटलीबंद किंवा गाळलेले पाणी वापरा, ताजे शिजवलेले अन्न खा आणि संध्याकाळी नदीजवळ डासांपासून संरक्षण ठेवा.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Remove footwear before the temple area, dress modestly and keep your voice low in the queue. Many pilgrims chant or sing quietly.",
+      "hi": { "text": "मंदिर क्षेत्र से पहले जूते-चप्पल उतारें, शालीन वस्त्र पहनें और कतार में धीमे बोलें। कई श्रद्धालु धीरे से जप या गायन करते हैं।", "reviewed": false },
+      "mr": { "text": "मंदिर परिसरापूर्वी पादत्राणे काढा, साधे कपडे घाला आणि रांगेत हळू बोला. अनेक भाविक हळूच जप किंवा गायन करतात.", "reviewed": false }
+    },
+    {
+      "en": "Greeting fellow pilgrims with Ram Krishna Hari or Jai Hari Vitthal is warmly received. Everyone is called Mauli, mother, as a sign of respect.",
+      "hi": { "text": "साथी श्रद्धालुओं को राम कृष्ण हरि या जय हरि विट्ठल कहकर अभिवादन करना सहर्ष स्वीकार होता है। सम्मान के रूप में सबको माउली, यानी माँ, कहा जाता है।", "reviewed": false },
+      "mr": { "text": "सहभाविकांना राम कृष्ण हरी किंवा जय हरी विठ्ठल म्हणून अभिवादन केल्यास ते आनंदाने स्वीकारले जाते. आदराचे चिन्ह म्हणून सर्वांना माउली, म्हणजे आई, म्हटले जाते.", "reviewed": false }
+    },
+    {
+      "en": "Take your waste with you and do not leave flowers or plastic in the river. Ask before photographing people, especially at the bath ghats.",
+      "hi": { "text": "अपना कचरा साथ ले जाएँ और नदी में फूल या प्लास्टिक न छोड़ें। लोगों की तस्वीर लेने से पहले पूछें, विशेषकर स्नान घाटों पर।", "reviewed": false },
+      "mr": { "text": "आपला कचरा सोबत न्या आणि नदीत फुले किंवा प्लास्टिक टाकू नका. लोकांचे छायाचित्र घेण्यापूर्वी विचारा, विशेषतः स्नान घाटांवर.", "reviewed": false }
+    },
+    {
+      "en": "Fees at the temple are set by the committee. Ask for the official receipt, and politely decline anyone who asks for large amounts for rituals or a quicker darshan.",
+      "hi": { "text": "मंदिर में शुल्क समिति तय करती है। आधिकारिक रसीद माँगें, और अनुष्ठान या शीघ्र दर्शन के लिए बड़ी रकम माँगने वालों को विनम्रता से मना कर दें।", "reviewed": false },
+      "mr": { "text": "मंदिरातील शुल्क समिती ठरवते. अधिकृत पावती मागा, आणि विधी किंवा लवकर दर्शनासाठी मोठी रक्कम मागणाऱ्यांना नम्रपणे नकार द्या.", "reviewed": false }
+    },
+    {
+      "en": "During the Wari, give way to the palkhi processions and walkers, and do not drive into the walking route.",
+      "hi": { "text": "वारी के दौरान पालखी जुलूस और पैदल चलने वालों को रास्ता दें, और पैदल मार्ग में वाहन न घुसाएँ।", "reviewed": false },
+      "mr": { "text": "वारीदरम्यान पालखी मिरवणुकी आणि पायी चालणाऱ्यांना वाट द्या, आणि पायी मार्गात वाहन घालू नका.", "reviewed": false }
+    }
+  ]
+}

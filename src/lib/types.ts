@@ -173,6 +173,15 @@ export interface YogaProgress {
   days: number[];
 }
 
+/** Yatra trip planner (D-026 Wave E). One record, `id: "trip"`; `items` are places in visiting order. */
+export interface TripPlan {
+  v: 1;
+  id: "trip";
+  localDate: LocalDateKey;
+  at: number;
+  items: { placeId: string; days: 1 | 2 | 3 }[];
+}
+
 export interface JapaState {
   v: 1;
   id: "japa";

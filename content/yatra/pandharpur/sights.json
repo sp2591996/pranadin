@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "pandharpur",
+  "sights": [
+    {
+      "id": "vitthal-rukmini",
+      "name": { "en": "Vitthal-Rukmini Temple", "hi": { "text": "विट्ठल-रुक्मिणी मंदिर", "reviewed": false }, "mr": { "text": "विठ्ठल-रुक्मिणी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The main temple, with the standing Vitthal on a brick and Rukmini in her own shrine. Queues run through a covered hall. Allow one to three hours on a normal day.",
+        "hi": { "text": "मुख्य मंदिर, जिसमें ईंट पर खड़े विट्ठल और अपने अलग मंदिर में रुक्मिणी हैं। कतारें एक ढके हॉल से गुज़रती हैं। सामान्य दिन एक से तीन घंटे रखें।", "reviewed": false },
+        "mr": { "text": "मुख्य मंदिर, ज्यात विटेवर उभे विठ्ठल आणि स्वतंत्र मंदिरात रुक्मिणी आहेत. रांगा झाकलेल्या सभामंडपातून जातात. सामान्य दिवशी एक ते तीन तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Opens in the early hours with the Kakad aarti and stays open most of the day, closing late at night, with short breaks for rituals.",
+        "hi": { "text": "भोर के घंटों में काकड़ आरती के साथ खुलता है और दिन भर अनुष्ठानों के छोटे अंतराल के साथ खुला रहकर देर रात बंद होता है।", "reviewed": false },
+        "mr": { "text": "पहाटेच्या तासांत काकड आरतीसह उघडते आणि दिवसभर विधींच्या लहान विश्रांतीसह उघडे राहून उशिरा रात्री बंद होते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, traditional clothes are preferred. Leave leather items outside. Phones and cameras may not be allowed near the sanctum, so ask at the entrance.",
+        "hi": { "text": "शालीन, पारंपरिक वस्त्र बेहतर हैं। चमड़े की वस्तुएँ बाहर छोड़ें। गर्भगृह के पास फ़ोन और कैमरे की अनुमति न हो सकती है, इसलिए प्रवेश पर पूछें।", "reviewed": false },
+        "mr": { "text": "साधे, पारंपरिक कपडे श्रेयस्कर. चामड्याच्या वस्तू बाहेर ठेवा. गाभाऱ्याजवळ फोन आणि कॅमेऱ्यांना परवानगी नसू शकते, म्हणून प्रवेशद्वारावर विचारा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "namdev-payari",
+      "name": { "en": "Namdev Payari", "hi": { "text": "नामदेव पायरी", "reviewed": false }, "mr": { "text": "नामदेव पायरी", "reviewed": false } },
+      "desc": {
+        "en": "The first step at the temple entrance, honouring Saint Namdev. Pilgrims bow here before they enter.",
+        "hi": { "text": "मंदिर के प्रवेश पर पहली सीढ़ी, संत नामदेव के सम्मान में। श्रद्धालु प्रवेश से पहले यहाँ नमन करते हैं।", "reviewed": false },
+        "mr": { "text": "मंदिराच्या प्रवेशद्वारावरील पहिली पायरी, संत नामदेवांच्या सन्मानार्थ. भाविक आत जाण्यापूर्वी येथे नमन करतात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open to visitors whenever the temple area is open.",
+        "hi": { "text": "जब तक मंदिर परिसर खुला है, दर्शकों के लिए खुला।", "reviewed": false },
+        "mr": { "text": "मंदिर परिसर उघडा असेल तोपर्यंत दर्शकांसाठी खुली.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear before the step.",
+        "hi": { "text": "शालीन कपड़े। सीढ़ी से पहले जूते-चप्पल उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पायरीपूर्वी पादत्राणे काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "chandrabhaga",
+      "name": { "en": "Chandrabhaga ghats", "hi": { "text": "चंद्रभागा के घाट", "reviewed": false }, "mr": { "text": "चंद्रभागेचे घाट", "reviewed": false } },
+      "desc": {
+        "en": "The riverfront where pilgrims bathe before darshan, and a pleasant place to sit at sunrise and sunset. Take care when the river is high.",
+        "hi": { "text": "नदी तट जहाँ श्रद्धालु दर्शन से पहले स्नान करते हैं, और सूर्योदय व सूर्यास्त पर बैठने की सुखद जगह। नदी ऊँची हो तो सावधानी रखें।", "reviewed": false },
+        "mr": { "text": "नदीकाठ जिथे भाविक दर्शनापूर्वी स्नान करतात, आणि सूर्योदय व सूर्यास्ताच्या वेळी बसण्याची आल्हाददायक जागा. नदी वाढलेली असताना काळजी घ्या.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Always open. Mornings and evenings are the most pleasant.",
+        "hi": { "text": "सदा खुला। सुबह और शाम सबसे सुखद हैं।", "reviewed": false },
+        "mr": { "text": "नेहमी खुला. सकाळ आणि संध्याकाळ सर्वात आल्हाददायक.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light clothes for bathing, and a dry set to change into. Keep valuables in your room.",
+        "hi": { "text": "स्नान के लिए हल्के कपड़े और बदलने के लिए सूखा जोड़ा। कीमती सामान अपने कमरे में रखें।", "reviewed": false },
+        "mr": { "text": "स्नानासाठी हलके कपडे आणि बदलण्यासाठी कोरडा जोड. मौल्यवान वस्तू खोलीत ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "pundalik",
+      "name": { "en": "Pundalik Temple", "hi": { "text": "पुंडलिक मंदिर", "reviewed": false }, "mr": { "text": "पुंडलिक मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A small shrine in the river bed dedicated to Pundalik, whose devotion is said to have brought Vitthal here. It is reached by boat and may be closed or under water when the river is high.",
+        "hi": { "text": "नदी के तल में पुंडलिक को समर्पित छोटा मंदिर, जिनकी भक्ति से विट्ठल यहाँ आए माने जाते हैं। यहाँ नाव से पहुँचा जाता है और नदी ऊँची होने पर यह बंद या पानी में डूबा हो सकता है।", "reviewed": false },
+        "mr": { "text": "नदीपात्रातील पुंडलिकाला समर्पित लहान मंदिर, ज्याच्या भक्तीमुळे विठ्ठल येथे आले असे मानले जाते. येथे नावेने जावे लागते आणि नदी वाढलेली असताना ते बंद किंवा पाण्याखाली असू शकते.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in daylight hours when the river allows.",
+        "hi": { "text": "नदी अनुमति दे तो आमतौर पर दिन के उजाले में खुला।", "reviewed": false },
+        "mr": { "text": "नदीने परवानगी दिल्यास सहसा दिवसाच्या प्रकाशात उघडे.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes and sandals that grip when wet.",
+        "hi": { "text": "शालीन कपड़े और गीले में पकड़ने वाली चप्पल।", "reviewed": false },
+        "mr": { "text": "साधे कपडे आणि ओल्यावर पकड धरणाऱ्या चपला.", "reviewed": false }
+      }
+    },
+    {
+      "id": "vishnupad",
+      "name": { "en": "Vishnupad Temple", "hi": { "text": "विष्णुपद मंदिर", "reviewed": false }, "mr": { "text": "विष्णुपद मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A quiet shrine on the riverbank marking footprints worshipped as those of Vishnu. Much calmer than the main temple.",
+        "hi": { "text": "नदी तट पर शांत मंदिर, जहाँ विष्णु के माने जाने वाले चरण चिह्न पूजे जाते हैं। मुख्य मंदिर से कहीं अधिक शांत।", "reviewed": false },
+        "mr": { "text": "नदीकाठचे शांत मंदिर, जिथे विष्णूचे मानले जाणारे पदचिन्ह पूजले जाते. मुख्य मंदिरापेक्षा खूपच शांत.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open in the morning and evening, often with a break at midday.",
+        "hi": { "text": "सुबह और शाम खुला, अक्सर दोपहर में विराम के साथ।", "reviewed": false },
+        "mr": { "text": "सकाळी आणि संध्याकाळी उघडे, अनेकदा दुपारी विश्रांतीसह.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside.",
+        "hi": { "text": "शालीन कपड़े। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "There are two kinds of darshan. Mukh darshan is a view of the deity's face from a distance and is quicker. Pad darshan, touching the feet, usually has the longer queue. The arrangement can change, so ask on the day.",
+        "hi": { "text": "दर्शन दो प्रकार के हैं। मुख दर्शन में दूर से देवता का मुख देखा जाता है और वह शीघ्र होता है। पद दर्शन, यानी चरण स्पर्श, में आमतौर पर लंबी कतार होती है। व्यवस्था बदल सकती है, इसलिए उसी दिन पूछें।", "reviewed": false },
+        "mr": { "text": "दर्शनाचे दोन प्रकार आहेत. मुख दर्शनात दुरून देवतेचे मुख पाहिले जाते आणि ते लवकर होते. पद दर्शन, म्हणजे चरणस्पर्श, यात सहसा रांग मोठी असते. व्यवस्था बदलू शकते, म्हणून त्याच दिवशी विचारा.", "reviewed": false }
+      },
+      {
+        "en": "On an ordinary weekday the wait can be an hour or two. On ekadashi days and during the Wari the wait can stretch to many hours or more than a day. Plan for food, water and rest.",
+        "hi": { "text": "सामान्य कार्यदिवस पर प्रतीक्षा एक-दो घंटे हो सकती है। एकादशी के दिनों और वारी में प्रतीक्षा कई घंटों या एक दिन से अधिक तक खिंच सकती है। भोजन, पानी और विश्राम की योजना रखें।", "reviewed": false },
+        "mr": { "text": "सामान्य आठवड्याच्या दिवशी प्रतीक्षा एक-दोन तास असू शकते. एकादशीच्या दिवशी आणि वारीत प्रतीक्षा अनेक तास किंवा एका दिवसापेक्षा जास्त वाढू शकते. जेवण, पाणी आणि विश्रांतीची योजना ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "Go on a weekday morning or late evening for the shortest lines. Mondays to Thursdays outside festival weeks are usually the lightest.",
+        "hi": { "text": "सबसे छोटी कतार के लिए कार्यदिवस की सुबह या देर शाम जाएँ। त्योहार के सप्ताहों के बाहर सोमवार से गुरुवार आमतौर पर सबसे हल्के होते हैं।", "reviewed": false },
+        "mr": { "text": "सर्वात लहान रांगेसाठी आठवड्याच्या दिवशी सकाळी किंवा उशिरा संध्याकाळी जा. सणांच्या आठवड्यांव्यतिरिक्त सोमवार ते गुरुवार सहसा सर्वात हलके असतात.", "reviewed": false }
+      },
+      {
+        "en": "Stay in the marked queue and follow volunteers and police. In dense crowds keep children and older family members close and agree a meeting point in case you are separated.",
+        "hi": { "text": "चिह्नित कतार में रहें और स्वयंसेवकों व पुलिस का निर्देश मानें। घनी भीड़ में बच्चों और बुज़ुर्गों को पास रखें और बिछड़ने की स्थिति में मिलने का स्थान तय कर लें।", "reviewed": false },
+        "mr": { "text": "चिन्हांकित रांगेत राहा आणि स्वयंसेवक व पोलिसांच्या सूचना पाळा. दाट गर्दीत मुले आणि ज्येष्ठांना जवळ ठेवा आणि चुकामूक झाल्यास भेटण्याचे ठिकाण ठरवा.", "reviewed": false }
+      },
+      {
+        "en": "Offer simple things: a tulsi garland, flowers or a coconut bought from shops near the temple. Do not give money to people who offer to take you ahead of the line.",
+        "hi": { "text": "सरल वस्तुएँ अर्पित करें: मंदिर के पास की दुकानों से तुलसी की माला, फूल या नारियल। कतार से आगे ले जाने का प्रस्ताव देने वालों को पैसे न दें।", "reviewed": false },
+        "mr": { "text": "साध्या वस्तू अर्पण करा: मंदिराजवळच्या दुकानांतून तुळशीची माळ, फुले किंवा नारळ. रांगेच्या पुढे नेण्याचे आमिष दाखवणाऱ्यांना पैसे देऊ नका.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the temple committee runs an official channel that has offered online darshan registration and has published rules for special days. This app does not book anything. Look for the committee's own official site, confirm the current process, and avoid agents who claim a pass.",
+      "hi": { "text": "केवल जानकारी के लिए: मंदिर समिति का एक आधिकारिक माध्यम है जिस पर ऑनलाइन दर्शन पंजीकरण की सुविधा रही है और विशेष दिनों के नियम प्रकाशित हुए हैं। यह ऐप कुछ भी बुक नहीं करता। समिति की अपनी आधिकारिक साइट देखें, वर्तमान प्रक्रिया की पुष्टि करें, और पास का दावा करने वाले एजेंटों से बचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: मंदिर समितीचे अधिकृत माध्यम आहे ज्यावर ऑनलाइन दर्शन नोंदणीची सोय उपलब्ध राहिली आहे आणि विशेष दिवसांचे नियम प्रसिद्ध झाले आहेत. हे ॲप काहीही आरक्षित करत नाही. समितीचे स्वतःचे अधिकृत संकेतस्थळ शोधा, सध्याच्या प्रक्रियेची खात्री करा आणि पास मिळवून देतो असे सांगणाऱ्या एजंटांपासून दूर राहा.", "reviewed": false }
+    }
+  }
+}

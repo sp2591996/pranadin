@@ -4,6 +4,7 @@ import { StringsProvider } from "@/features/shared/strings";
 import { formatMessage } from "@/features/shared/format-message";
 import { PracticeHome } from "@/features/practice/PracticeHome";
 import { ChakrasLink } from "@/features/chakras/ChakrasLink";
+import { YatraLink } from "@/features/yatra/YatraLink";
 
 const PREFIXES = ["practice.", "tech.", "streak.", "week.", "progress.", "a11y.", "yoga.title", "yoga.entry.sub"];
 
@@ -32,6 +33,7 @@ export default async function PracticePage({ params }: PageProps<"/[locale]/prac
     <StringsProvider strings={strings}>
       <PracticeHome techniques={techniques} meditations={meditations} />
       <ChakrasLink locale={locale} />
+      <YatraLink locale={locale} />
     </StringsProvider>
   );
 }

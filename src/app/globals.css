@@ -65,3 +65,9 @@ h2 {
   to { box-shadow: 0 0 0 1.5px var(--accent), 0 0 18px 4px color-mix(in srgb, var(--accent) 65%, transparent); }
 }
 :root[data-motion="reduce"] .diya-glow { animation: none; }
+
+/* Yatra trip planner: print only the plan (D-026 Wave E). */
+@media print {
+  header.fest-header, body > nav, #main ~ nav, .skip-link { display: none !important; }
+  body { background: #fff; }
+}
