@@ -154,7 +154,9 @@ export function formatTime(
   timeZone: TimeZone = DEFAULT_TIME_ZONE,
 ): string {
   if (instant === null) return "—";
-  return dtf(INTL_LOCALE[locale], { hour: "numeric", minute: "2-digit", timeZone }).format(instant);
+  // D-030: in Hindi/Marathi, name the part of the day ("पहाट 4:57", "शाम 5:26") instead of an English "AM/PM".
+  const dayPeriod = locale === "en" ? undefined : ("short" as const);
+  return dtf(INTL_LOCALE[locale], { hour: "numeric", minute: "2-digit", dayPeriod, timeZone }).format(instant);
 }
 
 /** Format a number with Western digits by default (ML-6). */
