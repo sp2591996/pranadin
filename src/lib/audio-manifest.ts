@@ -30,8 +30,16 @@ export const TRACKS: readonly AudioTrack[] = [
   { id: "rain", file: "nature/rain.mp3", category: "nature", name: "Rain", mode: "loop" },
   { id: "fire", file: "nature/fire.mp3", category: "nature", name: "Fire", mode: "loop" },
   { id: "wind", file: "nature/wind.mp3", category: "nature", name: "Wind", mode: "loop" },
+  { id: "river", file: "nature/river.mp3", category: "nature", name: "River", mode: "loop" },
+  { id: "ocean", file: "nature/ocean.mp3", category: "nature", name: "Ocean waves", mode: "loop" },
+  { id: "forest", file: "nature/forest.mp3", category: "nature", name: "Forest", mode: "loop" },
+  { id: "birds", file: "nature/birds.mp3", category: "nature", name: "Birds", mode: "loop" },
+  { id: "crickets", file: "nature/crickets.mp3", category: "nature", name: "Night crickets", mode: "loop" },
   { id: "conch", file: "temple/conch.mp3", category: "temple", name: "Conch", mode: "once" },
   { id: "bell", file: "temple/bell.mp3", category: "temple", name: "Bell", mode: "once" },
+  { id: "singing-bowl", file: "temple/singing-bowl.mp3", category: "temple", name: "Singing bowl", mode: "once" },
+  // Real human recording (CC0), listed before the AI-voiced mantras.
+  { id: "gayatri-human", file: "mantras/gayatri-human.mp3", category: "mantras", name: "Gayatri mantra (recorded voice)", mode: "loop" },
   // AI-voiced mantras from the prototype, reused with a visible label (D-027, D-028).
   { id: "om-chant", file: "mantras/om.mp3", category: "mantras", name: "Om chant", mode: "loop", ai: true },
   { id: "gayatri", file: "mantras/gayatri.mp3", category: "mantras", name: "Gayatri mantra", mode: "loop", ai: true },

@@ -90,7 +90,7 @@ describe("audio manifest", () => {
   it("looks tracks up and groups them", () => {
     expect(trackById("rain")?.mode).toBe("loop");
     expect(trackById("nope")).toBeUndefined();
-    expect(tracksIn("nature").map((t) => t.id)).toEqual(["rain", "fire", "wind"]);
+    expect(tracksIn("nature").map((t) => t.id)).toEqual(["rain", "fire", "wind", "river", "ocean", "forest", "birds", "crickets"]);
     expect(usedCategories()).toEqual(["nature", "temple", "mantras"]);
   });
 
