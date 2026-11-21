@@ -1,0 +1,1250 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "wisdom",
+ "version": "2026-11-21.1",
+ "status": "draft",
+ "note": "D-026 Wave C. Meanings are PranaDin's own plain paraphrases. EN verified against the listed sources on 2026-11-21. HI/MR are drafts (reviewed:false) and are shown only after the Board sets reviewed:true.",
+ "ui": {
+  "wisdom.title": {
+   "en": "Verse of the day",
+   "hi": {
+    "text": "आज का श्लोक",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "आजचा श्लोक",
+    "reviewed": false
+   }
+  },
+  "wisdom.meaning": {
+   "en": "Meaning",
+   "hi": {
+    "text": "भावार्थ",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भावार्थ",
+    "reviewed": false
+   }
+  },
+  "wisdom.paraphrase": {
+   "en": "Meaning: a plain paraphrase by PranaDin, not a published translation.",
+   "hi": {
+    "text": "भावार्थ: प्राणदिन द्वारा सरल शब्दों में दिया गया अर्थ, प्रकाशित अनुवाद नहीं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भावार्थ: प्राणदिनने सोप्या शब्दांत दिलेला अर्थ, प्रकाशित भाषांतर नव्हे.",
+    "reviewed": false
+   }
+  },
+  "wisdom.share": {
+   "en": "Share verse",
+   "hi": {
+    "text": "श्लोक साझा करें",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "श्लोक शेअर करा",
+    "reviewed": false
+   }
+  },
+  "wisdom.copied": {
+   "en": "Copied. You can paste it anywhere.",
+   "hi": {
+    "text": "कॉपी हो गया। आप इसे कहीं भी चिपका सकते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कॉपी झाले. तुम्ही ते कुठेही पेस्ट करू शकता.",
+    "reviewed": false
+   }
+  },
+  "wisdom.shareFailed": {
+   "en": "Could not share or copy. Please select the text and copy it.",
+   "hi": {
+    "text": "साझा या कॉपी नहीं हो सका। कृपया पाठ चुनकर कॉपी करें।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "शेअर किंवा कॉपी करता आले नाही. कृपया मजकूर निवडून कॉपी करा.",
+    "reviewed": false
+   }
+  },
+  "wisdom.sources": {
+   "en": "Sources",
+   "hi": {
+    "text": "स्रोत",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "स्रोत",
+    "reviewed": false
+   }
+  },
+  "wisdom.from": {
+   "en": "From PranaDin",
+   "hi": {
+    "text": "प्राणदिन से",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "प्राणदिनकडून",
+    "reviewed": false
+   }
+  },
+  "wisdom.by": {
+   "en": "by {name}",
+   "hi": {
+    "text": "{name} द्वारा",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "{name} यांचे",
+    "reviewed": false
+   }
+  },
+  "wisdom.tradition.gita": {
+   "en": "Bhagavad Gita",
+   "hi": {
+    "text": "भगवद्गीता",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता",
+    "reviewed": false
+   }
+  },
+  "wisdom.tradition.upanishad": {
+   "en": "Upanishads",
+   "hi": {
+    "text": "उपनिषद्",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "उपनिषदे",
+    "reviewed": false
+   }
+  },
+  "wisdom.tradition.yoga-sutras": {
+   "en": "Yoga Sutras",
+   "hi": {
+    "text": "योगसूत्र",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "योगसूत्रे",
+    "reviewed": false
+   }
+  },
+  "wisdom.tradition.dhammapada": {
+   "en": "Dhammapada",
+   "hi": {
+    "text": "धम्मपद",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "धम्मपद",
+    "reviewed": false
+   }
+  },
+  "wisdom.tradition.granth": {
+   "en": "Guru Granth Sahib",
+   "hi": {
+    "text": "गुरु ग्रन्थ साहिब",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "गुरू ग्रंथ साहिब",
+    "reviewed": false
+   }
+  },
+  "wisdom.tradition.dnyaneshwari": {
+   "en": "Dnyaneshwari",
+   "hi": {
+    "text": "ज्ञानेश्वरी",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी",
+    "reviewed": false
+   }
+  }
+ },
+ "verses": [
+  {
+   "id": "gita-2-47",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "2.47",
+   "script": {
+    "lang": "sa",
+    "text": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥"
+   },
+   "transliteration": "karmaṇyevādhikāraste mā phaleṣu kadācana |\nmā karmaphalaheturbhūrmā te saṅgo 'stvakarmaṇi ||",
+   "meaning": {
+    "en": "You have a right to your actions, never to their results. Do not act for the fruit, and do not cling to inaction.",
+    "hi": {
+     "text": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं। फल को कर्म का कारण मत बनाओ और अकर्म में भी आसक्त मत हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तुझा अधिकार फक्त कर्म करण्यावर आहे, त्याच्या फळांवर कधीही नाही. फळासाठी कर्म करू नकोस आणि अकर्मातही आसक्त होऊ नकोस.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/2/47"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "dhp-1",
+   "tradition": "dhammapada",
+   "work": "Dhammapada",
+   "reference": "1",
+   "script": {
+    "lang": "pi",
+    "text": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;\nManasā ce paduṭṭhena, bhāsati vā karoti vā;\nTato naṁ dukkhamanveti, cakkaṁva vahato padaṁ."
+   },
+   "meaning": {
+    "en": "Mind leads all things; mind is chief, and everything is made by mind. Speak or act with a troubled mind and sorrow follows, as the wheel follows the ox's foot.",
+    "hi": {
+     "text": "मन सब धर्मों का अगुआ है, मन ही प्रधान है, सब कुछ मन से बना है। दूषित मन से बोलने या करने पर दुःख पीछे चलता है, जैसे बैल के पैर के पीछे पहिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मन हे सर्व गोष्टींचे अग्रणी आहे, मन प्रधान आहे, सर्व मनानेच घडते. दूषित मनाने बोलले किंवा वागले तर दुःख मागे येते, जसे बैलाच्या पायामागे चाक.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "SuttaCentral: Dhammapada (Mahasangiti Pali)",
+     "url": "https://suttacentral.net/dhp1-20"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "isha-1",
+   "tradition": "upanishad",
+   "work": "Isha Upanishad",
+   "reference": "1",
+   "script": {
+    "lang": "sa",
+    "text": "ईशा वास्यमिदं सर्वं यत्किञ्च जगत्यां जगत्।\nतेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम् ॥"
+   },
+   "transliteration": "īśā vāsyamidaṃ sarvaṃ yatkiñca jagatyāṃ jagat |\ntena tyaktena bhuñjīthā mā gṛdhaḥ kasya sviddhanam ||",
+   "meaning": {
+    "en": "All this, whatever moves in this moving world, is dwelt in by the Divine. Enjoy through letting go, and do not covet anyone's wealth.",
+    "hi": {
+     "text": "इस चलते-फिरते जगत में जो कुछ भी है, वह सब ईश्वर से व्याप्त है। त्याग के भाव से भोग करो और किसी के धन का लोभ मत करो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या चराचर जगात जे काही आहे ते सर्व ईश्वराने व्यापलेले आहे. त्यागभावाने उपभोग घे आणि कोणाच्याही धनाचा लोभ धरू नकोस.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Hindu Devotional Texts: Devanagari edition (cross-checked)",
+     "url": "https://www.npmjs.com/package/hindu-devotional-texts"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ggs-1",
+   "tradition": "granth",
+   "work": "Guru Granth Sahib",
+   "reference": "Ang 1 (Mool Mantar)",
+   "by": "Guru Nanak",
+   "script": {
+    "lang": "pa",
+    "text": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥"
+   },
+   "transliteration": "ikOankaar sat naam karataa purakh nirabhau niravair akaal moorat ajoonee saibhan gur prasaadh ||",
+   "meaning": {
+    "en": "There is one Creator. Truth is the Name. Without fear, without hatred, beyond time, unborn, self-existent, known by the Guru's grace.",
+    "hi": {
+     "text": "एक ही सृष्टिकर्ता है। सत्य उसका नाम है। वह भय और वैर से रहित, काल से परे, अजन्मा और स्वयंभू है, गुरु की कृपा से जाना जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निर्माता एकच आहे. सत्य हे त्याचे नाव. तो भय आणि वैरापासून मुक्त, कालातीत, अजन्मा आणि स्वयंभू आहे, गुरूंच्या कृपेने कळतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "BaniDB: Sri Guru Granth Sahib, Ang 1",
+     "url": "https://api.banidb.com/v2/angs/1/G"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ys-1-2",
+   "tradition": "yoga-sutras",
+   "work": "Yoga Sutras",
+   "reference": "1.2",
+   "script": {
+    "lang": "sa",
+    "text": "योगश्चित्तवृत्तिनिरोधः ॥"
+   },
+   "transliteration": "yogaś citta-vṛtti-nirodhaḥ ||",
+   "meaning": {
+    "en": "Yoga is the settling of the mind's fluctuations.",
+    "hi": {
+     "text": "योग चित्त की वृत्तियों का शान्त हो जाना है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग म्हणजे चित्ताच्या वृत्तींचे शांत होणे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Yoga Sutras of Patanjali, Charles Johnston (1912), Project Gutenberg",
+     "url": "https://www.gutenberg.org/files/2526/2526-h/2526-h.htm"
+    },
+    {
+     "label": "Wikipedia: Yoga Sutras of Patanjali",
+     "url": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-6-5",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "6.5",
+   "script": {
+    "lang": "sa",
+    "text": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥"
+   },
+   "transliteration": "uddharedātmanātmānaṃ nātmānamavasādayet |\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ ||",
+   "meaning": {
+    "en": "Lift yourself by your own effort and do not let yourself sink. The self is its own friend, and the self is its own enemy.",
+    "hi": {
+     "text": "अपने प्रयास से स्वयं को ऊपर उठाओ, स्वयं को गिरने मत दो। मनुष्य स्वयं ही अपना मित्र है और स्वयं ही अपना शत्रु।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वतःच्या प्रयत्नाने स्वतःला वर उचल, स्वतःला खाली पडू देऊ नकोस. माणूस स्वतःच स्वतःचा मित्र आणि स्वतःच स्वतःचा शत्रू आहे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/6/5"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ggs-1375",
+   "tradition": "granth",
+   "work": "Guru Granth Sahib",
+   "reference": "Ang 1375 (Kabir, Salok 203)",
+   "by": "Kabir",
+   "script": {
+    "lang": "pa",
+    "text": "ਕਬੀਰ ਮੇਰਾ ਮੁਝ ਮਹਿ ਕਿਛੁ ਨਹੀ ਜੋ ਕਿਛੁ ਹੈ ਸੋ ਤੇਰਾ ॥\nਤੇਰਾ ਤੁਝ ਕਉ ਸਉਪਤੇ ਕਿਆ ਲਾਗੈ ਮੇਰਾ ॥"
+   },
+   "transliteration": "kabeer meraa mujh meh kichh nahee jo kichh hai so teraa ||\nteraa tujh kau saupate kiaa laagai meraa ||",
+   "meaning": {
+    "en": "Kabir says: nothing here is mine; whatever there is, is Yours. If I give back to You what is already Yours, what do I lose?",
+    "hi": {
+     "text": "कबीर कहते हैं: मेरा अपना कुछ नहीं है, जो कुछ है सब तेरा है। तेरा ही तुझे सौंपने में मेरा क्या जाता है?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कबीर म्हणतात: माझे स्वतःचे काहीच नाही, जे काही आहे ते सर्व तुझेच आहे. तुझेच तुला अर्पण केले तर माझे काय जाते?",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "BaniDB: Sri Guru Granth Sahib, Ang 1375",
+     "url": "https://api.banidb.com/v2/angs/1375/G"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "dhp-5",
+   "tradition": "dhammapada",
+   "work": "Dhammapada",
+   "reference": "5",
+   "script": {
+    "lang": "pi",
+    "text": "Na hi verena verāni, sammantīdha kudācanaṁ;\nAverena ca sammanti, esa dhammo sanantano."
+   },
+   "meaning": {
+    "en": "Hatred is never ended by hatred in this world; it is ended by non-hatred. This is an ancient law.",
+    "hi": {
+     "text": "इस संसार में वैर से वैर कभी शान्त नहीं होता; अवैर से ही शान्त होता है। यही सनातन धर्म है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या जगात वैराने वैर कधीही शांत होत नाही; अवैरानेच ते शांत होते. हाच सनातन धर्म आहे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "SuttaCentral: Dhammapada (Mahasangiti Pali)",
+     "url": "https://suttacentral.net/dhp1-20"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "katha-1-3-14",
+   "tradition": "upanishad",
+   "work": "Katha Upanishad",
+   "reference": "1.3.14",
+   "script": {
+    "lang": "sa",
+    "text": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत।\nक्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ॥"
+   },
+   "transliteration": "uttiṣṭhata jāgrata prāpya varānnibodhata |\nkṣurasya dhārā niśitā duratyayā durgaṃ pathastatkavayo vadanti ||",
+   "meaning": {
+    "en": "Arise, awake, and seek out those who know. The wise say the path is as hard to walk as the sharp edge of a razor.",
+    "hi": {
+     "text": "उठो, जागो, और ज्ञानी जनों के पास जाकर समझो। विद्वान कहते हैं कि यह मार्ग छुरे की तेज धार जैसा कठिन है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उठा, जागे व्हा, आणि जाणत्यांकडे जाऊन समजून घ्या. ज्ञानी म्हणतात की हा मार्ग वस्तऱ्याच्या तीक्ष्ण धारेसारखा कठीण आहे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Hindu Devotional Texts: Devanagari edition (cross-checked)",
+     "url": "https://www.npmjs.com/package/hindu-devotional-texts"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-2-48",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "2.48",
+   "script": {
+    "lang": "sa",
+    "text": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥"
+   },
+   "transliteration": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya |\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||",
+   "meaning": {
+    "en": "Stand firm in yoga and act, letting go of attachment, even-minded in success and failure. Evenness of mind is called yoga.",
+    "hi": {
+     "text": "योग में स्थित होकर, आसक्ति छोड़कर कर्म करो; सफलता और असफलता में सम रहो। इसी समभाव को योग कहा जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योगात स्थिर होऊन, आसक्ती सोडून कर्म कर; यश-अपयशात समान राहा. या समत्वालाच योग म्हणतात.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/2/48"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "pasaydan",
+   "tradition": "dnyaneshwari",
+   "work": "Dnyaneshwari",
+   "reference": "18.1796 (Pasaydan)",
+   "by": "Dnyaneshwar",
+   "script": {
+    "lang": "mr",
+    "text": "दुरितांचे तिमिर जावो ।\nविश्व स्वधर्मसूर्यें पाहो ।\nजो जे वांछील तो तें लाहो ।\nप्राणिजात ॥"
+   },
+   "transliteration": "Duritāñce timira jāvo |\nviśva svadharma-sūryēṁ pāho |\njo jē vāñchīla to teṁ lāho |\nprāṇijāta ||",
+   "meaning": {
+    "en": "May the darkness of wrong-doing lift, may the world see the sun of its own dharma, and may every living being receive what it truly wishes.",
+    "hi": {
+     "text": "पाप का अन्धकार दूर हो, विश्व अपने धर्म के सूर्य को देखे, और हर प्राणी जो चाहे वह पाए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पापाचा अंधार दूर होवो, विश्वाने आपल्या स्वधर्माचा सूर्य पाहावा, आणि प्रत्येक प्राण्याला जे हवे ते मिळो.",
+     "reviewed": false
+    }
+   },
+   "note": {
+    "en": "From the Pasaydan, the closing prayer of chapter 18. Ovi numbering differs by about one between editions.",
+    "hi": {
+     "text": "अध्याय 18 की समापन प्रार्थना पसायदान से। ओवी क्रमांक संस्करणों में लगभग एक का अन्तर रखते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अध्याय 18 च्या समारोपाच्या पसायदानातून. ओवी क्रमांक आवृत्त्यांनुसार साधारण एकाने बदलतात.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Sanskrit Documents: Pasaydan (text and ovi numbering)",
+     "url": "https://sanskritdocuments.org/marathi/documents/pasAyadAn.html"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "dhp-103",
+   "tradition": "dhammapada",
+   "work": "Dhammapada",
+   "reference": "103",
+   "script": {
+    "lang": "pi",
+    "text": "Yo sahassaṁ sahassena, saṅgāme mānuse jine;\nEkañca jeyyamattānaṁ, sa ve saṅgāmajuttamo."
+   },
+   "meaning": {
+    "en": "Better than conquering a thousand people in battle is to conquer one: oneself.",
+    "hi": {
+     "text": "युद्ध में हज़ार मनुष्यों को जीतने से श्रेष्ठ है एक स्वयं को जीतना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धात हजार माणसांना जिंकण्यापेक्षा एकाला, म्हणजे स्वतःला जिंकणे श्रेष्ठ.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "SuttaCentral: Dhammapada (Mahasangiti Pali)",
+     "url": "https://suttacentral.net/dhp100-115"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-2-58",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "2.58",
+   "script": {
+    "lang": "sa",
+    "text": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ॥"
+   },
+   "transliteration": "yadā saṃharate cāyaṃ kūrmo 'ṅgānīva sarvaśaḥ |\nindriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā ||",
+   "meaning": {
+    "en": "When one draws the senses back from their objects, as a tortoise draws in its limbs, wisdom becomes steady.",
+    "hi": {
+     "text": "जैसे कछुआ अपने अंगों को समेट लेता है, वैसे ही जब कोई इन्द्रियों को उनके विषयों से हटा लेता है, तब उसकी बुद्धि स्थिर हो जाती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कासव जसे आपले अवयव आत ओढून घेते, तसे जेव्हा कोणी इंद्रियांना विषयांपासून मागे घेतो, तेव्हा त्याची बुद्धी स्थिर होते.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/2/58"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ggs-62",
+   "tradition": "granth",
+   "work": "Guru Granth Sahib",
+   "reference": "Ang 62 (Sri Raag)",
+   "by": "Guru Nanak",
+   "script": {
+    "lang": "pa",
+    "text": "ਸਚਹੁ ਓਰੈ ਸਭੁ ਕੋ ਉਪਰਿ ਸਚੁ ਆਚਾਰੁ ॥"
+   },
+   "transliteration": "sachahu orai sabh ko upar sach aachaar ||",
+   "meaning": {
+    "en": "Truth is higher than everything, but higher still is truthful living.",
+    "hi": {
+     "text": "सत्य सबसे ऊपर है, पर उससे भी ऊपर है सत्य के अनुसार जीना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सत्य सर्वांपेक्षा श्रेष्ठ आहे, पण त्याहून श्रेष्ठ आहे सत्याप्रमाणे जगणे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "BaniDB: Sri Guru Granth Sahib, Ang 62",
+     "url": "https://api.banidb.com/v2/angs/62/G"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "mundaka-3-1-6",
+   "tradition": "upanishad",
+   "work": "Mundaka Upanishad",
+   "reference": "3.1.6",
+   "script": {
+    "lang": "sa",
+    "text": "सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः।\nयेनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत्सत्यस्य परमं निधानम् ॥"
+   },
+   "transliteration": "satyameva jayate nānṛtaṃ satyena panthā vitato devayānaḥ |\nyenākramantyṛṣayo hyāptakāmā yatra tatsatyasya paramaṃ nidhānam ||",
+   "meaning": {
+    "en": "Truth alone prevails, not falsehood. By truth the path of the sages is laid out, and along it they reach the highest home of truth.",
+    "hi": {
+     "text": "सत्य की ही विजय होती है, असत्य की नहीं। सत्य से ही ऋषियों का मार्ग बिछा है, जिस पर चलकर वे सत्य के परम धाम तक पहुँचते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सत्याचाच विजय होतो, असत्याचा नाही. सत्यानेच ऋषींचा मार्ग पसरलेला आहे, ज्यावरून चालून ते सत्याच्या परम धामी पोहोचतात.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Hindu Devotional Texts: Devanagari edition (cross-checked)",
+     "url": "https://www.npmjs.com/package/hindu-devotional-texts"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "dhp-183",
+   "tradition": "dhammapada",
+   "work": "Dhammapada",
+   "reference": "183",
+   "script": {
+    "lang": "pi",
+    "text": "Sabbapāpassa akaraṇaṁ, kusalassa upasampadā;\nSacittapariyodapanaṁ, etaṁ buddhāna sāsanaṁ."
+   },
+   "meaning": {
+    "en": "Do no evil, cultivate the good, purify your own mind: this is the teaching of the Buddhas.",
+    "hi": {
+     "text": "कोई पाप न करना, कुशल कर्म करना और अपने चित्त को शुद्ध करना: यही बुद्धों की शिक्षा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कोणतेही पाप न करणे, कुशल कर्म करणे आणि स्वतःचे चित्त शुद्ध करणे: हीच बुद्धांची शिकवण आहे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "SuttaCentral: Dhammapada (Mahasangiti Pali)",
+     "url": "https://suttacentral.net/dhp179-196"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-6-35",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "6.35",
+   "script": {
+    "lang": "sa",
+    "text": "असंशयं महाबाहो मनो दुर्निग्रहं चलम्।\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ॥"
+   },
+   "transliteration": "asaṃśayaṃ mahābāho mano durnigrahaṃ calam |\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate ||",
+   "meaning": {
+    "en": "The mind is restless and hard to hold, no doubt; yet it can be held by steady practice and by letting go of craving.",
+    "hi": {
+     "text": "निस्संदेह मन चंचल और वश में करना कठिन है; फिर भी निरन्तर अभ्यास और वैराग्य से उसे वश में किया जा सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मन चंचल आणि आवरणे कठीण आहे यात शंका नाही; तरीही सतत अभ्यासाने आणि वैराग्याने ते आवरता येते.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/6/35"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ggs-1372",
+   "tradition": "granth",
+   "work": "Guru Granth Sahib",
+   "reference": "Ang 1372 (Kabir, Salok 155)",
+   "by": "Kabir",
+   "script": {
+    "lang": "pa",
+    "text": "ਕਬੀਰਾ ਜਹਾ ਗਿਆਨੁ ਤਹ ਧਰਮੁ ਹੈ ਜਹਾ ਝੂਠੁ ਤਹ ਪਾਪੁ ॥\nਜਹਾ ਲੋਭੁ ਤਹ ਕਾਲੁ ਹੈ ਜਹਾ ਖਿਮਾ ਤਹ ਆਪਿ ॥"
+   },
+   "transliteration": "kabeeraa jahaa giaan teh dharam hai jahaa jhooTh teh paap ||\njahaa lobh teh kaal hai jahaa khimaa teh aap ||",
+   "meaning": {
+    "en": "Kabir says: where there is knowing, there is dharma; where there is falsehood, there is sin. Where there is greed, there is death; where there is forgiveness, there is the Divine itself.",
+    "hi": {
+     "text": "कबीर कहते हैं: जहाँ ज्ञान है वहाँ धर्म है, जहाँ झूठ है वहाँ पाप। जहाँ लोभ है वहाँ काल है, जहाँ क्षमा है वहाँ स्वयं ईश्वर है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कबीर म्हणतात: जिथे ज्ञान तिथे धर्म, जिथे असत्य तिथे पाप. जिथे लोभ तिथे काळ, जिथे क्षमा तिथे स्वतः ईश्वर.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "BaniDB: Sri Guru Granth Sahib, Ang 1372",
+     "url": "https://api.banidb.com/v2/angs/1372/G"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ys-2-46",
+   "tradition": "yoga-sutras",
+   "work": "Yoga Sutras",
+   "reference": "2.46",
+   "script": {
+    "lang": "sa",
+    "text": "स्थिरसुखमासनम् ॥"
+   },
+   "transliteration": "sthira-sukham āsanam ||",
+   "meaning": {
+    "en": "Posture should be steady and comfortable.",
+    "hi": {
+     "text": "आसन स्थिर और सुखद होना चाहिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आसन स्थिर आणि सुखकारक असावे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Wisdomlib: Yoga Sutras with commentaries, 2.46",
+     "url": "https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216697.html"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-12-13",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "12.13",
+   "script": {
+    "lang": "sa",
+    "text": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥"
+   },
+   "transliteration": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca |\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||",
+   "meaning": {
+    "en": "One who bears ill will to no being, who is friendly and compassionate, free of possessiveness and ego, even in pleasure and pain, and forgiving.",
+    "hi": {
+     "text": "जो किसी प्राणी से द्वेष नहीं रखता, मित्रवत और करुणावान है, ममता और अहंकार से रहित है, सुख-दुःख में सम है और क्षमाशील है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जो कोणत्याही प्राण्याचा द्वेष करत नाही, मित्रभावाने आणि करुणेने वागतो, ममता व अहंकारापासून मुक्त आहे, सुख-दुःखात समान आहे आणि क्षमाशील आहे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/12/13"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "dhp-223",
+   "tradition": "dhammapada",
+   "work": "Dhammapada",
+   "reference": "223",
+   "script": {
+    "lang": "pi",
+    "text": "Akkodhena jine kodhaṁ, asādhuṁ sādhunā jine;\nJine kadariyaṁ dānena, saccenālikavādinaṁ."
+   },
+   "meaning": {
+    "en": "Overcome anger with calm, the unkind with kindness, the miserly with giving, and the liar with truth.",
+    "hi": {
+     "text": "क्रोध को अक्रोध से जीतो, बुराई को भलाई से, कंजूसी को दान से और झूठ को सत्य से।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रागाला शांततेने जिंक, वाईटाला चांगुलपणाने, कंजूषपणाला दानाने आणि खोटेपणाला सत्याने.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "SuttaCentral: Dhammapada (Mahasangiti Pali)",
+     "url": "https://suttacentral.net/dhp221-234"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "isha-6",
+   "tradition": "upanishad",
+   "work": "Isha Upanishad",
+   "reference": "6",
+   "script": {
+    "lang": "sa",
+    "text": "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति।\nसर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥"
+   },
+   "transliteration": "yastu sarvāṇi bhūtānyātmanyevānupaśyati |\nsarvabhūteṣu cātmānaṃ tato na vijugupsate ||",
+   "meaning": {
+    "en": "One who sees all beings in the Self, and the Self in all beings, feels no hatred for anyone.",
+    "hi": {
+     "text": "जो सब प्राणियों को अपने आत्मा में और अपने आत्मा को सब प्राणियों में देखता है, वह किसी से घृणा नहीं करता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जो सर्व प्राणिमात्रांना आपल्या आत्म्यात आणि आपल्या आत्म्याला सर्व प्राणिमात्रांत पाहतो, तो कोणाचा द्वेष करत नाही.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Hindu Devotional Texts: Devanagari edition (cross-checked)",
+     "url": "https://www.npmjs.com/package/hindu-devotional-texts"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ggs-1349",
+   "tradition": "granth",
+   "work": "Guru Granth Sahib",
+   "reference": "Ang 1349 (Kabir, Prabhati)",
+   "by": "Kabir",
+   "script": {
+    "lang": "pa",
+    "text": "ਅਵਲਿ ਅਲਹ ਨੂਰੁ ਉਪਾਇਆ ਕੁਦਰਤਿ ਕੇ ਸਭ ਬੰਦੇ ॥\nਏਕ ਨੂਰ ਤੇ ਸਭੁ ਜਗੁ ਉਪਜਿਆ ਕਉਨ ਭਲੇ ਕੋ ਮੰਦੇ ॥"
+   },
+   "transliteration": "aval aleh noor upaiaa kudharat ke sabh bandhe ||\nek noor te sabh jag upajiaa kaun bhale ko mandhe ||",
+   "meaning": {
+    "en": "First, Allah made the light; then all beings were made by that power. From one light the whole world arose, so who is good and who is bad?",
+    "hi": {
+     "text": "पहले अल्लाह ने नूर (प्रकाश) बनाया, फिर उसकी कुदरत से सब प्राणी बने। एक ही नूर से सारा जगत उपजा, तो कौन अच्छा और कौन बुरा?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रथम अल्लाहने नूर (प्रकाश) निर्माण केला, मग त्याच्या सामर्थ्याने सर्व प्राणी झाले. एकाच नुरातून सारे जग उपजले, तर कोण चांगला आणि कोण वाईट?",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "BaniDB: Sri Guru Granth Sahib, Ang 1349",
+     "url": "https://api.banidb.com/v2/angs/1349/G"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-4-39",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "4.39",
+   "script": {
+    "lang": "sa",
+    "text": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥"
+   },
+   "transliteration": "śraddhāvāṃl labhate jñānaṃ tatparaḥ saṃyatendriyaḥ |\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ||",
+   "meaning": {
+    "en": "One who is faithful, devoted and self-restrained gains knowledge, and having gained it soon comes to supreme peace.",
+    "hi": {
+     "text": "श्रद्धावान, तत्पर और संयमी व्यक्ति ज्ञान पाता है, और ज्ञान पाकर शीघ्र ही परम शान्ति को प्राप्त होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रद्धावान, तत्पर आणि संयमी माणूस ज्ञान मिळवतो, आणि ज्ञान मिळाल्यावर लवकरच परम शांती प्राप्त करतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/4/39"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "dhp-80",
+   "tradition": "dhammapada",
+   "work": "Dhammapada",
+   "reference": "80",
+   "script": {
+    "lang": "pi",
+    "text": "Udakañhi nayanti nettikā, Usukārā namayanti tejanaṁ;\nDāruṁ namayanti tacchakā, Attānaṁ damayanti paṇḍitā."
+   },
+   "meaning": {
+    "en": "Irrigators guide water, fletchers straighten arrows, carpenters shape wood; the wise shape themselves.",
+    "hi": {
+     "text": "सिंचाई करने वाले पानी को राह देते हैं, बाण बनाने वाले बाण सीधे करते हैं, बढ़ई लकड़ी को आकार देते हैं; ज्ञानी स्वयं को साधते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाटकरी पाण्याला वाट देतात, बाणकार बाण सरळ करतात, सुतार लाकूड घडवतात; ज्ञानी स्वतःला घडवतात.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "SuttaCentral: Dhammapada (Mahasangiti Pali)",
+     "url": "https://suttacentral.net/dhp76-89"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "mundaka-3-2-8",
+   "tradition": "upanishad",
+   "work": "Mundaka Upanishad",
+   "reference": "3.2.8",
+   "script": {
+    "lang": "sa",
+    "text": "यथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय।\nतथा विद्वान् नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ॥"
+   },
+   "transliteration": "yathā nadyaḥ syandamānāḥ samudre'staṃ gacchanti nāmarūpe vihāya |\ntathā vidvān nāmarūpādvimuktaḥ parātparaṃ puruṣamupaiti divyam ||",
+   "meaning": {
+    "en": "As flowing rivers give up name and form when they reach the sea, so the knower, freed from name and form, reaches the highest divine reality.",
+    "hi": {
+     "text": "जैसे बहती नदियाँ समुद्र में पहुँचकर नाम और रूप छोड़ देती हैं, वैसे ही ज्ञानी नाम-रूप से मुक्त होकर परम दिव्य सत्ता को प्राप्त होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाहत्या नद्या समुद्रात पोहोचल्यावर नाम-रूप सोडून देतात, तसा ज्ञानी नाम-रूपातून मुक्त होऊन परम दिव्य तत्त्वाला प्राप्त होतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Hindu Devotional Texts: Devanagari edition (cross-checked)",
+     "url": "https://www.npmjs.com/package/hindu-devotional-texts"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ggs-1427",
+   "tradition": "granth",
+   "work": "Guru Granth Sahib",
+   "reference": "Ang 1427 (Salok, Guru Tegh Bahadur)",
+   "by": "Guru Tegh Bahadur",
+   "script": {
+    "lang": "pa",
+    "text": "ਭੈ ਕਾਹੂ ਕਉ ਦੇਤ ਨਹਿ ਨਹਿ ਭੈ ਮਾਨਤ ਆਨ ॥\nਕਹੁ ਨਾਨਕ ਸੁਨਿ ਰੇ ਮਨਾ ਗਿਆਨੀ ਤਾਹਿ ਬਖਾਨਿ ॥"
+   },
+   "transliteration": "bhai kaahoo kau dhet neh neh bhai maanat aan ||\nkahu naanak sun re manaa giaanee taeh bakhaan ||",
+   "meaning": {
+    "en": "One who neither frightens anyone nor is afraid of anyone: call that person wise.",
+    "hi": {
+     "text": "जो न किसी को डराता है और न किसी से डरता है, उसी को ज्ञानी कहो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जो कोणाला घाबरवत नाही आणि कोणाला घाबरतही नाही, त्यालाच ज्ञानी म्हणा.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "BaniDB: Sri Guru Granth Sahib, Ang 1427",
+     "url": "https://api.banidb.com/v2/angs/1427/G"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-6-17",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "6.17",
+   "script": {
+    "lang": "sa",
+    "text": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥"
+   },
+   "transliteration": "yuktāhāravihārasya yuktaceṣṭasya karmasu |\nyuktasvapnāvabodhasya yogo bhavati duḥkhahā ||",
+   "meaning": {
+    "en": "Yoga becomes a remover of sorrow for one who is moderate in eating and recreation, moderate in effort, and moderate in sleep and waking.",
+    "hi": {
+     "text": "जो आहार-विहार में संयमित है, कर्मों में संयमित प्रयास करता है और सोने-जागने में संयमित है, उसके लिए योग दुःख दूर करने वाला होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जो आहार-विहारात मर्यादशील आहे, कामात संयमित प्रयत्न करतो आणि झोप-जाग यात मर्यादा पाळतो, त्याच्यासाठी योग दुःख दूर करणारा ठरतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/6/17"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "dhp-160",
+   "tradition": "dhammapada",
+   "work": "Dhammapada",
+   "reference": "160",
+   "script": {
+    "lang": "pi",
+    "text": "Attā hi attano nātho, ko hi nātho paro siyā;\nAttanā hi sudantena, nāthaṁ labhati dullabhaṁ."
+   },
+   "meaning": {
+    "en": "One is one's own protector; who else could be? With a well-trained self one finds a rare refuge.",
+    "hi": {
+     "text": "व्यक्ति स्वयं ही अपना स्वामी है, भला दूसरा कौन स्वामी होगा? भली-भाँति सधे हुए स्वयं से दुर्लभ आश्रय मिलता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "माणूस स्वतःच स्वतःचा आधार आहे, दुसरा कोण असणार? नीट साधलेल्या स्वतःमुळे दुर्लभ आश्रय मिळतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "SuttaCentral: Dhammapada (Mahasangiti Pali)",
+     "url": "https://suttacentral.net/dhp157-166"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ggs-8",
+   "tradition": "granth",
+   "work": "Guru Granth Sahib",
+   "reference": "Ang 8 (Salok after Japji)",
+   "by": "Guru Nanak",
+   "script": {
+    "lang": "pa",
+    "text": "ਪਵਣੁ ਗੁਰੂ ਪਾਣੀ ਪਿਤਾ ਮਾਤਾ ਧਰਤਿ ਮਹਤੁ ॥\nਦਿਵਸੁ ਰਾਤਿ ਦੁਇ ਦਾਈ ਦਾਇਆ ਖੇਲੈ ਸਗਲ ਜਗਤੁ ॥"
+   },
+   "transliteration": "pavan guroo paanee pitaa maataa dharat mahat ||\ndhivas raat dhui dhaiee dhaiaa khelai sagal jagat ||",
+   "meaning": {
+    "en": "Air is the teacher, water the father, and the great earth the mother; day and night are the nurses in whose lap the whole world plays.",
+    "hi": {
+     "text": "वायु गुरु है, जल पिता है और विशाल धरती माता है; दिन और रात दो सेविकाएँ हैं, जिनकी गोद में सारा संसार खेलता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वायू गुरू आहे, पाणी पिता आणि महान पृथ्वी माता आहे; दिवस आणि रात्र या दोन सेविका आहेत, ज्यांच्या मांडीवर सारे जग खेळते.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "BaniDB: Sri Guru Granth Sahib, Ang 8",
+     "url": "https://api.banidb.com/v2/angs/8/G"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-2-14",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "2.14",
+   "script": {
+    "lang": "sa",
+    "text": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥"
+   },
+   "transliteration": "mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ |\nāgamāpāyino 'nityāstāṃstitikṣasva bhārata ||",
+   "meaning": {
+    "en": "Sense contacts bring cold and heat, pleasure and pain. They come and go and do not last, so bear them patiently.",
+    "hi": {
+     "text": "इन्द्रियों और विषयों के संयोग से सर्दी-गर्मी, सुख-दुःख होते हैं। वे आते-जाते हैं और टिकते नहीं; उन्हें धैर्य से सहन करो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इंद्रिय आणि विषय यांच्या संयोगाने थंडी-उष्णता, सुख-दुःख होतात. ते येतात-जातात, टिकत नाहीत; त्यांना धीराने सहन कर.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/2/14"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "dhp-197",
+   "tradition": "dhammapada",
+   "work": "Dhammapada",
+   "reference": "197",
+   "script": {
+    "lang": "pi",
+    "text": "Susukhaṁ vata jīvāma, verinesu averino;\nVerinesu manussesu, viharāma averino."
+   },
+   "meaning": {
+    "en": "How happily we live, without hatred among the hateful; among hateful people we dwell free of hatred.",
+    "hi": {
+     "text": "कितने सुख से हम जीते हैं, वैरियों के बीच वैर-रहित होकर; वैरी मनुष्यों के बीच हम बिना वैर के रहते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "किती सुखाने आपण जगतो, वैऱ्यांमध्ये वैररहित राहून; वैरी माणसांमध्ये आपण वैर न ठेवता राहतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "SuttaCentral: Dhammapada (Mahasangiti Pali)",
+     "url": "https://suttacentral.net/dhp197-208"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "bu-1-3-28",
+   "tradition": "upanishad",
+   "work": "Brihadaranyaka Upanishad",
+   "reference": "1.3.28",
+   "script": {
+    "lang": "sa",
+    "text": "ॐ असतो मा सद्गमय।\nतमसो मा ज्योतिर्गमय।\nमृत्योर्मा अमृतं गमय ॥"
+   },
+   "transliteration": "oṃ asato mā sadgamaya |\ntamaso mā jyotirgamaya |\nmṛtyormā amṛtaṃ gamaya ||",
+   "meaning": {
+    "en": "Lead me from the unreal to the real, from darkness to light, from death to immortality.",
+    "hi": {
+     "text": "मुझे असत्य से सत्य की ओर, अन्धकार से प्रकाश की ओर, मृत्यु से अमरता की ओर ले चलो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मला असत्याकडून सत्याकडे, अंधाराकडून प्रकाशाकडे, मृत्यूकडून अमरत्वाकडे ने.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Wikipedia: Pavamana Mantra (cites Brihadaranyaka 1.3.28)",
+     "url": "https://en.wikipedia.org/wiki/Pavamana_Mantra"
+    },
+    {
+     "label": "Bhakti Bharat: Pavman Mantra text",
+     "url": "https://www.bhaktibharat.com/mantra/pavman-mantra-om-asato-maa-sadgamaya"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "ys-1-33",
+   "tradition": "yoga-sutras",
+   "work": "Yoga Sutras",
+   "reference": "1.33",
+   "script": {
+    "lang": "sa",
+    "text": "मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनातश्चित्तप्रसादनम् ॥"
+   },
+   "transliteration": "maitrī-karuṇā-muditopekṣāṇāṃ sukha-duḥkha-puṇyāpuṇya-viṣayāṇāṃ bhāvanātaś citta-prasādanam ||",
+   "meaning": {
+    "en": "The mind grows clear by cultivating friendliness toward the happy, compassion toward the suffering, gladness toward the virtuous, and equanimity toward the faulty.",
+    "hi": {
+     "text": "सुखी के प्रति मैत्री, दुःखी के प्रति करुणा, पुण्यात्मा के प्रति प्रसन्नता और दोषी के प्रति उपेक्षा (समभाव) की भावना से चित्त निर्मल होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुखी लोकांबद्दल मैत्री, दुःखी लोकांबद्दल करुणा, पुण्यवानांबद्दल आनंद आणि दोषी लोकांबद्दल समभाव या भावनांनी चित्त प्रसन्न होते.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Wisdomlib: Yoga Sutras with commentaries, 1.33",
+     "url": "https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216632.html"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "gita-2-22",
+   "tradition": "gita",
+   "work": "Bhagavad Gita",
+   "reference": "2.22",
+   "script": {
+    "lang": "sa",
+    "text": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि।\nतथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही ॥"
+   },
+   "transliteration": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro 'parāṇi |\ntathā śarīrāṇi vihāya jīrṇāni anyāni saṃyāti navāni dehī ||",
+   "meaning": {
+    "en": "As a person sets aside worn clothes and puts on new ones, so the embodied self sets aside worn bodies and takes up new ones.",
+    "hi": {
+     "text": "जैसे मनुष्य पुराने वस्त्र त्यागकर नए धारण करता है, वैसे ही देही आत्मा पुराने शरीरों को त्यागकर नए शरीर धारण करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जसा माणूस जुनी वस्त्रे टाकून नवी धारण करतो, तशी देहधारी आत्मा जुनी शरीरे सोडून नवी धारण करते.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Vedic Scriptures: Bhagavad Gita (Sanskrit text)",
+     "url": "https://vedicscriptures.github.io/slok/2/22"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  },
+  {
+   "id": "taitt-1-11-1",
+   "tradition": "upanishad",
+   "work": "Taittiriya Upanishad",
+   "reference": "1.11.1",
+   "script": {
+    "lang": "sa",
+    "text": "सत्यं वद। धर्मं चर।"
+   },
+   "transliteration": "satyaṃ vada | dharmaṃ cara |",
+   "meaning": {
+    "en": "Speak the truth. Follow dharma.",
+    "hi": {
+     "text": "सत्य बोलो। धर्म का आचरण करो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सत्य बोल. धर्माचे आचरण कर.",
+     "reviewed": false
+    }
+   },
+   "note": {
+    "en": "Opening words of the teacher's farewell advice to the student. Only these two phrases are shown.",
+    "hi": {
+     "text": "गुरु की विदाई-शिक्षा के आरम्भिक शब्द। यहाँ केवल ये दो वाक्यांश दिए गए हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंच्या निरोपाच्या उपदेशाचे सुरुवातीचे शब्द. येथे फक्त हे दोन वाक्यांश दिले आहेत.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Hindu Devotional Texts: Devanagari edition (cross-checked)",
+     "url": "https://www.npmjs.com/package/hindu-devotional-texts"
+    }
+   ],
+   "verifiedOn": "2026-11-21"
+  }
+ ]
+}

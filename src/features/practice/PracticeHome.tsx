@@ -13,6 +13,7 @@ import { ProgressCard } from "./ProgressCard";
 import { loadProgress } from "./store";
 import type { Progress } from "./streak";
 import { practiceRoutes, SILENT_ID } from "./routes";
+import { yogaRoutes } from "@/features/yoga/routes";
 
 export interface TechniqueSummary {
   slug: string;
@@ -90,6 +91,13 @@ export function PracticeHome({ techniques, meditations }: { techniques: Techniqu
           ))}
         </ul>
         <p className="mt-2 text-[0.875rem] leading-5 text-text-muted">{s("practice.ambienceNote")}</p>
+      </section>
+
+      <section aria-labelledby="yoga-h">
+        <h2 id="yoga-h">{s("yoga.title")}</h2>
+        <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface">
+          <Row href={yogaRoutes.home(locale)} title={s("yoga.title")} sub={s("yoga.entry.sub")} />
+        </ul>
       </section>
     </div>
   );

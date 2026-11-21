@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved translations only (D-012). Anything missing shows in English.",
-  "count": 215,
+  "count": 307,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -1299,6 +1299,552 @@
     },
     "japa.notSaved": {
       "text": "हा ब्राउझर डेटा जतन करत नाही, त्यामुळे तुमची मोजणी राहणार नाही.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.title": {
+      "text": "योग",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.entry.sub": {
+      "text": "आसने, मार्गदर्शित सत्रे आणि दिवसागणिक कार्यक्रम",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.intro": {
+      "text": "टप्प्याटप्प्याने मार्गदर्शनासह सोपी आसने. आपल्या गतीने चला.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.tab.poses": {
+      "text": "आसने",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.tab.sessions": {
+      "text": "सत्रे",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.tab.programs": {
+      "text": "कार्यक्रम",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.tabs.label": {
+      "text": "योगाचे विभाग",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.level.all": {
+      "text": "सर्व स्तर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.level.label": {
+      "text": "स्तर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.level.Beginner": {
+      "text": "प्रारंभिक",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.level.Intermediate": {
+      "text": "मध्यम",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.level.Advanced": {
+      "text": "प्रगत",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.count": {
+      "text": "{count} आसने",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.cat.Standing": {
+      "text": "उभे आसने",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.cat.Balance": {
+      "text": "संतुलन",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.cat.Seated": {
+      "text": "बसलेली आसने",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.cat.Kneeling": {
+      "text": "गुडघ्यावर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.cat.Prone": {
+      "text": "पोटावर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.cat.Supine": {
+      "text": "पाठीवर",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.cat.Twist": {
+      "text": "वळण",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.cat.Inversion": {
+      "text": "उलटी आसने",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.time.Morning": {
+      "text": "सकाळ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.time.Evening": {
+      "text": "संध्याकाळ",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.time.Anytime": {
+      "text": "कधीही",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.focus.Energy": {
+      "text": "ऊर्जा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.focus.Calm": {
+      "text": "शांतता",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.focus.Flexibility": {
+      "text": "लवचिकता",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.focus.Strength": {
+      "text": "ताकद",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.focus.Sleep": {
+      "text": "झोप",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.stay": {
+      "text": "{seconds} सेकंद थांबा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.minutes": {
+      "text": "{minutes} मिनिटे",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.stepsCount": {
+      "text": "{count} टप्पे",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.aiImage": {
+      "text": "AI ने तयार केलेली प्रतिमा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.pose.back": {
+      "text": "सर्व आसने",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.pose.how": {
+      "text": "सराव कसा करावा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.pose.benefits": {
+      "text": "हे काय देते",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.pose.cautions": {
+      "text": "काळजी घ्या",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.pose.breath": {
+      "text": "श्वास",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.pose.sources": {
+      "text": "स्रोत",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.pose.sanskrit": {
+      "text": "संस्कृत नाव",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.safety.title": {
+      "text": "सुरू करण्यापूर्वी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.safety.1": {
+      "text": "आपल्या सोयीच्या मर्यादेत रहा. वेदना, चक्कर किंवा ताण जाणवला तर थांबा आणि विश्रांती घ्या.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.safety.2": {
+      "text": "हा वैद्यकीय सल्ला नाही. दुखापत किंवा आरोग्य समस्या असल्यास, किंवा आपण गर्भवती असल्यास, सुरू करण्यापूर्वी आपल्या स्थानिक आरोग्य तज्ज्ञांना भेटा.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.safety.3": {
+      "text": "प्रत्येक आसनात श्वास सहज आणि सुलभ ठेवा. त्यावर जोर देऊ नका.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.safety.4": {
+      "text": "आधी शरीर गरम करा, हळू चला आणि आज जे आसन योग्य वाटत नाही ते सोडून द्या.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.safety.ack": {
+      "text": "मला समजले",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.safety.short": {
+      "text": "वेदना किंवा चक्कर आल्यास थांबा.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.safety.link": {
+      "text": "सुरक्षा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.start": {
+      "text": "सत्र सुरू करा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.overview": {
+      "text": "या सत्रात",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.pause": {
+      "text": "थांबवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.resume": {
+      "text": "पुढे चालू ठेवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.next": {
+      "text": "पुढचा टप्पा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.prev": {
+      "text": "मागील टप्पा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.end": {
+      "text": "सत्र संपवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.stepOf": {
+      "text": "टप्पा {n} / {total}",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.upNext": {
+      "text": "पुढे: {title}",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.timeLeft": {
+      "text": "या टप्प्यात {minutes}:{seconds} बाकी",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.bellOn": {
+      "text": "घंटा चालू",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.bellOff": {
+      "text": "घंटा बंद",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.paused": {
+      "text": "थांबलेले",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.done": {
+      "text": "सत्र पूर्ण",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.doneBody": {
+      "text": "छान. क्षणभर थांबून तुम्हाला कसे वाटते ते पहा.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.doneProgram": {
+      "text": "{name} चा दिवस {day} पूर्ण म्हणून नोंदवला.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.doneShort": {
+      "text": "तुम्ही {minutes} मिनिटे सराव केला, जो सत्राच्या 80% पेक्षा कमी आहे, म्हणून हा दिवस नोंदवला गेला नाही.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.again": {
+      "text": "पुन्हा साधना",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.backYoga": {
+      "text": "योगाकडे परत",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.backProgram": {
+      "text": "कार्यक्रमाकडे परत",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.endConfirm": {
+      "text": "हे सत्र संपवायचे?",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.endBody": {
+      "text": "आतापर्यंतचा वेळ, बहुतांश सत्र झाल्याशिवाय, पूर्ण दिवस म्हणून गणला जाणार नाही.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.keepGoing": {
+      "text": "चालू ठेवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.programDay": {
+      "text": "{name}, दिवस {day}",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.session.poseGuide": {
+      "text": "आसन मार्गदर्शक",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.days": {
+      "text": "{count} दिवस",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.day": {
+      "text": "दिवस {n}",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.progress": {
+      "text": "{total} पैकी {done} दिवस पूर्ण",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.start": {
+      "text": "दिवस {n} सुरू करा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.continue": {
+      "text": "दिवस {n} पासून पुढे चला",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.finished": {
+      "text": "कार्यक्रम पूर्ण. छान.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.begin": {
+      "text": "कार्यक्रम सुरू करा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.open": {
+      "text": "कार्यक्रम उघडा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.markDone": {
+      "text": "दिवस {n} पूर्ण नोंदवा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.undo": {
+      "text": "दिवस {n} मागे घ्या",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.done": {
+      "text": "पूर्ण",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.restart": {
+      "text": "पुन्हा सुरू करा",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.restartTitle": {
+      "text": "हा कार्यक्रम पुन्हा सुरू करायचा?",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.restartBody": {
+      "text": "या कार्यक्रमातील तुमची प्रगती या उपकरणातून काढली जाईल.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.saved": {
+      "text": "प्रगती फक्त याच उपकरणावर जतन होते.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.notSaved": {
+      "text": "हा ब्राउझर डेटा जतन करत नाही, त्यामुळे प्रगती राहणार नाही.",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.back": {
+      "text": "सर्व कार्यक्रम",
+      "reviewed": false,
+      "reviewer": null,
+      "reviewedOn": null
+    },
+    "yoga.prog.list": {
+      "text": "दिवस",
       "reviewed": false,
       "reviewer": null,
       "reviewedOn": null

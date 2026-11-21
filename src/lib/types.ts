@@ -157,6 +157,22 @@ export type Tradition = (typeof TRADITIONS)[number];
  * Japa mala count on this device (v1). One record, id "japa". `count` is the
  * running total of beads; beads in the current mala = count % 108.
  */
+/**
+ * Day-by-day progress in one yoga programme (one record per programme id).
+ * `days` holds the completed day numbers (1-based), each stored once.
+ */
+export interface YogaProgress {
+  v: 1;
+  /** Programme id, e.g. `prog.beginner-7`. */
+  id: string;
+  /** Date of the latest update. */
+  localDate: LocalDateKey;
+  /** Last update, ms since epoch. */
+  at: number;
+  startedOn: LocalDateKey;
+  days: number[];
+}
+
 export interface JapaState {
   v: 1;
   id: "japa";

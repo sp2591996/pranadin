@@ -3,8 +3,9 @@ import { loadMeditations, loadStrings, loadTechniques } from "@/features/shared/
 import { StringsProvider } from "@/features/shared/strings";
 import { formatMessage } from "@/features/shared/format-message";
 import { PracticeHome } from "@/features/practice/PracticeHome";
+import { ChakrasLink } from "@/features/chakras/ChakrasLink";
 
-const PREFIXES = ["practice.", "tech.", "streak.", "week.", "progress.", "a11y."];
+const PREFIXES = ["practice.", "tech.", "streak.", "week.", "progress.", "a11y.", "yoga.title", "yoga.entry.sub"];
 
 /** Practice tab (E-08, Dev-2). Content is read at build time and passed to the client. */
 export default async function PracticePage({ params }: PageProps<"/[locale]/practice">) {
@@ -30,6 +31,7 @@ export default async function PracticePage({ params }: PageProps<"/[locale]/prac
   return (
     <StringsProvider strings={strings}>
       <PracticeHome techniques={techniques} meditations={meditations} />
+      <ChakrasLink locale={locale} />
     </StringsProvider>
   );
 }

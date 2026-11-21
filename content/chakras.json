@@ -1,0 +1,976 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "chakras",
+ "version": "2026-11-21.1",
+ "status": "draft",
+ "note": "D-026 Wave C. Framed as yogic tradition, with no health or healing claims. HI/MR are drafts (reviewed:false).",
+ "ui": {
+  "chakras.title": {
+   "en": "Chakras",
+   "hi": {
+    "text": "चक्र",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "चक्रे",
+    "reviewed": false
+   }
+  },
+  "chakras.intro": {
+   "en": "Seven centres described in yogic tradition. This is cultural and contemplative information, not health advice.",
+   "hi": {
+    "text": "योग परम्परा में वर्णित सात केन्द्र। यह सांस्कृतिक और चिन्तनात्मक जानकारी है, स्वास्थ्य सलाह नहीं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "योग परंपरेत वर्णिलेली सात केंद्रे. ही सांस्कृतिक आणि चिंतनात्मक माहिती आहे, आरोग्य सल्ला नाही.",
+    "reviewed": false
+   }
+  },
+  "chakras.back": {
+   "en": "All chakras",
+   "hi": {
+    "text": "सभी चक्र",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सर्व चक्रे",
+    "reviewed": false
+   }
+  },
+  "chakras.backToPractice": {
+   "en": "Practice",
+   "hi": {
+    "text": "अभ्यास",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सराव",
+    "reviewed": false
+   }
+  },
+  "chakras.read": {
+   "en": "Read about {name}",
+   "hi": {
+    "text": "{name} के बारे में पढ़ें",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "{name} बद्दल वाचा",
+    "reviewed": false
+   }
+  },
+  "chakras.location": {
+   "en": "Location",
+   "hi": {
+    "text": "स्थान",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "स्थान",
+    "reviewed": false
+   }
+  },
+  "chakras.element": {
+   "en": "Element",
+   "hi": {
+    "text": "तत्त्व",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "तत्त्व",
+    "reviewed": false
+   }
+  },
+  "chakras.colour": {
+   "en": "Colour",
+   "hi": {
+    "text": "रंग",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "रंग",
+    "reviewed": false
+   }
+  },
+  "chakras.bija": {
+   "en": "Seed sound (bija)",
+   "hi": {
+    "text": "बीज ध्वनि",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बीज ध्वनी",
+    "reviewed": false
+   }
+  },
+  "chakras.noBija": {
+   "en": "None. Traditionally left to silence.",
+   "hi": {
+    "text": "कोई नहीं। परम्परा में मौन के लिए छोड़ा गया।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "काही नाही. परंपरेत शांततेसाठी सोडलेले.",
+    "reviewed": false
+   }
+  },
+  "chakras.petals": {
+   "en": "{count, plural, one {# petal} other {# petals}}",
+   "hi": {
+    "text": "{count} पंखुड़ियाँ",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "{count} पाकळ्या",
+    "reviewed": false
+   }
+  },
+  "chakras.meaningOf": {
+   "en": "Name means",
+   "hi": {
+    "text": "नाम का अर्थ",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "नावाचा अर्थ",
+    "reviewed": false
+   }
+  },
+  "chakras.practice": {
+   "en": "A simple practice",
+   "hi": {
+    "text": "एक सरल अभ्यास",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "एक सोपा सराव",
+    "reviewed": false
+   }
+  },
+  "chakras.affirmation": {
+   "en": "Affirmation",
+   "hi": {
+    "text": "संकल्प-वाक्य",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "संकल्प वाक्य",
+    "reviewed": false
+   }
+  },
+  "chakras.sources": {
+   "en": "Source",
+   "hi": {
+    "text": "स्रोत",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "स्रोत",
+    "reviewed": false
+   }
+  },
+  "chakras.colourNote": {
+   "en": "The seven rainbow colours are a modern convention. The Shat-Chakra-Nirupana describes other lotus colours.",
+   "hi": {
+    "text": "सात इन्द्रधनुषी रंग एक आधुनिक परिपाटी हैं। षट्चक्रनिरूपण कमलों के अन्य रंग बताता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सात इंद्रधनुष्यी रंग ही आधुनिक प्रथा आहे. षट्चक्रनिरूपणात कमळांचे इतर रंग सांगितले आहेत.",
+    "reviewed": false
+   }
+  },
+  "chakras.disclaimer": {
+   "en": "Described as tradition, not as medicine. For any health concern, please see a qualified professional.",
+   "hi": {
+    "text": "यह परम्परा का वर्णन है, चिकित्सा नहीं। किसी भी स्वास्थ्य सम्बन्धी चिन्ता के लिए योग्य विशेषज्ञ से मिलें।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "हे परंपरेचे वर्णन आहे, वैद्यकीय उपचार नव्हे. कोणत्याही आरोग्यविषयक चिंतेसाठी पात्र तज्ज्ञांना भेटा.",
+    "reviewed": false
+   }
+  },
+  "chakras.motifLabel": {
+   "en": "Lotus motif with {count, plural, one {# petal} other {# petals}}",
+   "hi": {
+    "text": "{count} पंखुड़ियों वाला कमल चित्र",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "{count} पाकळ्यांचे कमळ चित्र",
+    "reviewed": false
+   }
+  }
+ },
+ "chakras": [
+  {
+   "id": "muladhara",
+   "n": 1,
+   "sa": "मूलाधार",
+   "iast": "Mūlādhāra",
+   "petals": 4,
+   "bija": {
+    "sa": "लं",
+    "iast": "Laṃ"
+   },
+   "hex": "#D64545",
+   "nick": {
+    "en": "Root",
+    "hi": {
+     "text": "मूल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मूळ",
+     "reviewed": false
+    }
+   },
+   "meaning": {
+    "en": "Root support",
+    "hi": {
+     "text": "मूल आधार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मूळ आधार",
+     "reviewed": false
+    }
+   },
+   "location": {
+    "en": "Base of the spine",
+    "hi": {
+     "text": "रीढ़ का आधार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाठीच्या कण्याचा पाया",
+     "reviewed": false
+    }
+   },
+   "element": {
+    "en": "Earth",
+    "hi": {
+     "text": "पृथ्वी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पृथ्वी",
+     "reviewed": false
+    }
+   },
+   "colour": {
+    "en": "Red",
+    "hi": {
+     "text": "लाल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लाल",
+     "reviewed": false
+    }
+   },
+   "about": {
+    "en": "In yogic tradition, Muladhara is described as the root support at the base of the spine: a four-petalled lotus linked with the earth element and the seed sound Lam. It is associated with steadiness and a sense of being grounded.",
+    "hi": {
+     "text": "योग परम्परा में मूलाधार को रीढ़ के आधार पर स्थित मूल आधार बताया गया है: चार पंखुड़ियों का कमल, जो पृथ्वी तत्त्व और बीज ध्वनि 'लं' से जुड़ा है। इसे स्थिरता और जड़ता के भाव से जोड़ा जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग परंपरेत मूलाधार हा पाठीच्या कण्याच्या पायाशी असलेला मूळ आधार मानला जातो: चार पाकळ्यांचे कमळ, जे पृथ्वी तत्त्व आणि बीज ध्वनी 'लं' शी जोडलेले आहे. स्थैर्य आणि स्थिरावल्याच्या भावनेशी त्याचा संबंध सांगितला जातो.",
+     "reviewed": false
+    }
+   },
+   "practice": {
+    "en": "Sit comfortably. For a few ordinary breaths, rest your attention at the base of the spine. If you like, repeat 'Lam' quietly in your mind, then sit in silence for a minute.",
+    "hi": {
+     "text": "आराम से बैठें। कुछ सामान्य श्वासों तक अपना ध्यान रीढ़ के आधार पर रखें। चाहें तो मन में धीरे से 'लं' दोहराएँ, फिर एक मिनट मौन बैठें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आरामात बसा. काही सामान्य श्वासांपर्यंत लक्ष पाठीच्या कण्याच्या पायाशी ठेवा. हवे असल्यास मनात हळूच 'लं' म्हणा, मग एक मिनिट शांत बसा.",
+     "reviewed": false
+    }
+   },
+   "affirmation": {
+    "en": "I am steady and supported.",
+    "hi": {
+     "text": "मैं स्थिर हूँ और आधार पर हूँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मी स्थिर आहे आणि आधारावर आहे.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Shat-Chakra-Nirupana (Purnananda, 1577), English by Arthur Avalon, The Serpent Power (1919): Wisdomlib edition",
+     "url": "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english/d/doc1144826.html"
+    },
+    {
+     "label": "Arthur Avalon, The Serpent Power (1919), full text on the Internet Archive",
+     "url": "https://archive.org/stream/x-the-serpent-power/x%20%20The%20serpent%20power_djvu.txt"
+    }
+   ]
+  },
+  {
+   "id": "svadhisthana",
+   "n": 2,
+   "sa": "स्वाधिष्ठान",
+   "iast": "Svādhiṣṭhāna",
+   "petals": 6,
+   "bija": {
+    "sa": "वं",
+    "iast": "Vaṃ"
+   },
+   "hex": "#E8833A",
+   "nick": {
+    "en": "Sacral",
+    "hi": {
+     "text": "स्वाधिष्ठान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वाधिष्ठान",
+     "reviewed": false
+    }
+   },
+   "meaning": {
+    "en": "One's own dwelling place",
+    "hi": {
+     "text": "अपना निवास स्थान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वतःचे निवासस्थान",
+     "reviewed": false
+    }
+   },
+   "location": {
+    "en": "Lower spine, above the base",
+    "hi": {
+     "text": "रीढ़ का निचला भाग, आधार के ऊपर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाठीच्या कण्याचा खालचा भाग, पायाच्या वर",
+     "reviewed": false
+    }
+   },
+   "element": {
+    "en": "Water",
+    "hi": {
+     "text": "जल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जल",
+     "reviewed": false
+    }
+   },
+   "colour": {
+    "en": "Orange",
+    "hi": {
+     "text": "नारंगी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नारिंगी",
+     "reviewed": false
+    }
+   },
+   "about": {
+    "en": "In yogic tradition, Svadhisthana is described as a six-petalled lotus in the lower spine, linked with the water element and the seed sound Vam. It is associated with flow, creativity and enjoyment of life.",
+    "hi": {
+     "text": "योग परम्परा में स्वाधिष्ठान को रीढ़ के निचले भाग में छह पंखुड़ियों वाला कमल बताया गया है, जो जल तत्त्व और बीज ध्वनि 'वं' से जुड़ा है। इसे प्रवाह, सृजन और जीवन के आनन्द से जोड़ा जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग परंपरेत स्वाधिष्ठान हे पाठीच्या कण्याच्या खालच्या भागातले सहा पाकळ्यांचे कमळ मानले जाते, जे जल तत्त्व आणि बीज ध्वनी 'वं' शी जोडलेले आहे. प्रवाह, सर्जनशीलता आणि जीवनाचा आनंद यांच्याशी त्याचा संबंध सांगितला जातो.",
+     "reviewed": false
+    }
+   },
+   "practice": {
+    "en": "Sit comfortably. For a few ordinary breaths, rest your attention in the lower spine, like water settling. If you like, repeat 'Vam' quietly in your mind, then sit in silence for a minute.",
+    "hi": {
+     "text": "आराम से बैठें। कुछ सामान्य श्वासों तक अपना ध्यान रीढ़ के निचले भाग में रखें, जैसे जल ठहर रहा हो। चाहें तो मन में धीरे से 'वं' दोहराएँ, फिर एक मिनट मौन बैठें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आरामात बसा. काही सामान्य श्वासांपर्यंत लक्ष पाठीच्या खालच्या भागात ठेवा, पाणी स्थिरावल्यासारखे. हवे असल्यास मनात हळूच 'वं' म्हणा, मग एक मिनिट शांत बसा.",
+     "reviewed": false
+    }
+   },
+   "affirmation": {
+    "en": "I move with ease and curiosity.",
+    "hi": {
+     "text": "मैं सहजता और जिज्ञासा के साथ चलता हूँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मी सहजतेने आणि कुतूहलाने पुढे जातो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Shat-Chakra-Nirupana (Purnananda, 1577), English by Arthur Avalon, The Serpent Power (1919): Wisdomlib edition",
+     "url": "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english/d/doc1144826.html"
+    },
+    {
+     "label": "Arthur Avalon, The Serpent Power (1919), full text on the Internet Archive",
+     "url": "https://archive.org/stream/x-the-serpent-power/x%20%20The%20serpent%20power_djvu.txt"
+    }
+   ]
+  },
+  {
+   "id": "manipura",
+   "n": 3,
+   "sa": "मणिपूर",
+   "iast": "Maṇipūra",
+   "petals": 10,
+   "bija": {
+    "sa": "रं",
+    "iast": "Raṃ"
+   },
+   "hex": "#E4B826",
+   "nick": {
+    "en": "Navel",
+    "hi": {
+     "text": "नाभि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नाभी",
+     "reviewed": false
+    }
+   },
+   "meaning": {
+    "en": "City of jewels",
+    "hi": {
+     "text": "मणियों का नगर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रत्नांची नगरी",
+     "reviewed": false
+    }
+   },
+   "location": {
+    "en": "Navel region",
+    "hi": {
+     "text": "नाभि क्षेत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नाभीचा भाग",
+     "reviewed": false
+    }
+   },
+   "element": {
+    "en": "Fire",
+    "hi": {
+     "text": "अग्नि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अग्नी",
+     "reviewed": false
+    }
+   },
+   "colour": {
+    "en": "Yellow",
+    "hi": {
+     "text": "पीला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पिवळा",
+     "reviewed": false
+    }
+   },
+   "about": {
+    "en": "In yogic tradition, Manipura is described as a ten-petalled lotus at the navel, linked with the fire element and the seed sound Ram. It is associated with energy, resolve and a sense of purpose.",
+    "hi": {
+     "text": "योग परम्परा में मणिपूर को नाभि पर दस पंखुड़ियों वाला कमल बताया गया है, जो अग्नि तत्त्व और बीज ध्वनि 'रं' से जुड़ा है। इसे ऊर्जा, संकल्प और उद्देश्य-बोध से जोड़ा जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग परंपरेत मणिपूर हे नाभीवरचे दहा पाकळ्यांचे कमळ मानले जाते, जे अग्नी तत्त्व आणि बीज ध्वनी 'रं' शी जोडलेले आहे. ऊर्जा, संकल्प आणि उद्देशाची जाणीव यांच्याशी त्याचा संबंध सांगितला जातो.",
+     "reviewed": false
+    }
+   },
+   "practice": {
+    "en": "Sit comfortably. For a few ordinary breaths, rest your attention at the navel, like a small steady flame. If you like, repeat 'Ram' quietly in your mind, then sit in silence for a minute.",
+    "hi": {
+     "text": "आराम से बैठें। कुछ सामान्य श्वासों तक अपना ध्यान नाभि पर रखें, जैसे एक छोटी स्थिर लौ। चाहें तो मन में धीरे से 'रं' दोहराएँ, फिर एक मिनट मौन बैठें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आरामात बसा. काही सामान्य श्वासांपर्यंत लक्ष नाभीवर ठेवा, एखाद्या लहान स्थिर ज्योतीसारखे. हवे असल्यास मनात हळूच 'रं' म्हणा, मग एक मिनिट शांत बसा.",
+     "reviewed": false
+    }
+   },
+   "affirmation": {
+    "en": "I act with clear purpose.",
+    "hi": {
+     "text": "मैं स्पष्ट उद्देश्य के साथ कर्म करता हूँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मी स्पष्ट उद्देशाने कृती करतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Shat-Chakra-Nirupana (Purnananda, 1577), English by Arthur Avalon, The Serpent Power (1919): Wisdomlib edition",
+     "url": "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english/d/doc1144826.html"
+    },
+    {
+     "label": "Arthur Avalon, The Serpent Power (1919), full text on the Internet Archive",
+     "url": "https://archive.org/stream/x-the-serpent-power/x%20%20The%20serpent%20power_djvu.txt"
+    }
+   ]
+  },
+  {
+   "id": "anahata",
+   "n": 4,
+   "sa": "अनाहत",
+   "iast": "Anāhata",
+   "petals": 12,
+   "bija": {
+    "sa": "यं",
+    "iast": "Yaṃ"
+   },
+   "hex": "#3FA06A",
+   "nick": {
+    "en": "Heart",
+    "hi": {
+     "text": "हृदय",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हृदय",
+     "reviewed": false
+    }
+   },
+   "meaning": {
+    "en": "The unstruck sound",
+    "hi": {
+     "text": "अनाहत नाद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनाहत नाद",
+     "reviewed": false
+    }
+   },
+   "location": {
+    "en": "Heart region",
+    "hi": {
+     "text": "हृदय क्षेत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हृदयाचा भाग",
+     "reviewed": false
+    }
+   },
+   "element": {
+    "en": "Air",
+    "hi": {
+     "text": "वायु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वायू",
+     "reviewed": false
+    }
+   },
+   "colour": {
+    "en": "Green",
+    "hi": {
+     "text": "हरा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हिरवा",
+     "reviewed": false
+    }
+   },
+   "about": {
+    "en": "In yogic tradition, Anahata is described as a twelve-petalled lotus in the heart region, linked with the air element and the seed sound Yam. Its name means 'unstruck sound', and it is associated with compassion and love.",
+    "hi": {
+     "text": "योग परम्परा में अनाहत को हृदय क्षेत्र में बारह पंखुड़ियों वाला कमल बताया गया है, जो वायु तत्त्व और बीज ध्वनि 'यं' से जुड़ा है। इसके नाम का अर्थ 'बिना आघात की ध्वनि' है, और इसे करुणा तथा प्रेम से जोड़ा जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग परंपरेत अनाहत हे हृदयाच्या भागातले बारा पाकळ्यांचे कमळ मानले जाते, जे वायू तत्त्व आणि बीज ध्वनी 'यं' शी जोडलेले आहे. त्याच्या नावाचा अर्थ 'आघात न झालेला नाद' आहे, आणि करुणा व प्रेम यांच्याशी त्याचा संबंध सांगितला जातो.",
+     "reviewed": false
+    }
+   },
+   "practice": {
+    "en": "Sit comfortably. For a few ordinary breaths, rest your attention in the centre of the chest. Think of one person you wish well. If you like, repeat 'Yam' quietly in your mind, then sit in silence for a minute.",
+    "hi": {
+     "text": "आराम से बैठें। कुछ सामान्य श्वासों तक अपना ध्यान छाती के मध्य में रखें। किसी एक व्यक्ति के बारे में सोचें जिसका आप भला चाहते हैं। चाहें तो मन में धीरे से 'यं' दोहराएँ, फिर एक मिनट मौन बैठें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आरामात बसा. काही सामान्य श्वासांपर्यंत लक्ष छातीच्या मध्यभागी ठेवा. ज्याचे भले व्हावे असे वाटते अशा एका व्यक्तीचा विचार करा. हवे असल्यास मनात हळूच 'यं' म्हणा, मग एक मिनिट शांत बसा.",
+     "reviewed": false
+    }
+   },
+   "affirmation": {
+    "en": "I meet others with kindness.",
+    "hi": {
+     "text": "मैं दूसरों से दयालुता के साथ मिलता हूँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मी इतरांना दयाळूपणे भेटतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Shat-Chakra-Nirupana (Purnananda, 1577), English by Arthur Avalon, The Serpent Power (1919): Wisdomlib edition",
+     "url": "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english/d/doc1144826.html"
+    },
+    {
+     "label": "Arthur Avalon, The Serpent Power (1919), full text on the Internet Archive",
+     "url": "https://archive.org/stream/x-the-serpent-power/x%20%20The%20serpent%20power_djvu.txt"
+    }
+   ]
+  },
+  {
+   "id": "vishuddha",
+   "n": 5,
+   "sa": "विशुद्ध",
+   "iast": "Viśuddha",
+   "petals": 16,
+   "bija": {
+    "sa": "हं",
+    "iast": "Haṃ"
+   },
+   "hex": "#3B82C4",
+   "nick": {
+    "en": "Throat",
+    "hi": {
+     "text": "कण्ठ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कंठ",
+     "reviewed": false
+    }
+   },
+   "meaning": {
+    "en": "The very pure",
+    "hi": {
+     "text": "अत्यन्त शुद्ध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अत्यंत शुद्ध",
+     "reviewed": false
+    }
+   },
+   "location": {
+    "en": "Throat",
+    "hi": {
+     "text": "कण्ठ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कंठ",
+     "reviewed": false
+    }
+   },
+   "element": {
+    "en": "Space (akasha)",
+    "hi": {
+     "text": "आकाश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आकाश",
+     "reviewed": false
+    }
+   },
+   "colour": {
+    "en": "Blue",
+    "hi": {
+     "text": "नीला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निळा",
+     "reviewed": false
+    }
+   },
+   "about": {
+    "en": "In yogic tradition, Vishuddha is described as a sixteen-petalled lotus at the throat, linked with space (akasha) and the seed sound Ham. It is associated with speech, truthfulness and listening.",
+    "hi": {
+     "text": "योग परम्परा में विशुद्ध को कण्ठ पर सोलह पंखुड़ियों वाला कमल बताया गया है, जो आकाश तत्त्व और बीज ध्वनि 'हं' से जुड़ा है। इसे वाणी, सत्यनिष्ठा और सुनने से जोड़ा जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग परंपरेत विशुद्ध हे कंठावरचे सोळा पाकळ्यांचे कमळ मानले जाते, जे आकाश तत्त्व आणि बीज ध्वनी 'हं' शी जोडलेले आहे. वाणी, सत्यनिष्ठा आणि ऐकणे यांच्याशी त्याचा संबंध सांगितला जातो.",
+     "reviewed": false
+    }
+   },
+   "practice": {
+    "en": "Sit comfortably. For a few ordinary breaths, rest your attention at the throat and let the jaw soften. If you like, repeat 'Ham' quietly in your mind, then sit in silence for a minute.",
+    "hi": {
+     "text": "आराम से बैठें। कुछ सामान्य श्वासों तक अपना ध्यान कण्ठ पर रखें और जबड़े को ढीला छोड़ें। चाहें तो मन में धीरे से 'हं' दोहराएँ, फिर एक मिनट मौन बैठें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आरामात बसा. काही सामान्य श्वासांपर्यंत लक्ष कंठावर ठेवा आणि जबडा सैल सोडा. हवे असल्यास मनात हळूच 'हं' म्हणा, मग एक मिनिट शांत बसा.",
+     "reviewed": false
+    }
+   },
+   "affirmation": {
+    "en": "I speak with honesty and care.",
+    "hi": {
+     "text": "मैं ईमानदारी और परवाह से बोलता हूँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मी प्रामाणिकपणे आणि काळजीने बोलतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Shat-Chakra-Nirupana (Purnananda, 1577), English by Arthur Avalon, The Serpent Power (1919): Wisdomlib edition",
+     "url": "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english/d/doc1144826.html"
+    },
+    {
+     "label": "Arthur Avalon, The Serpent Power (1919), full text on the Internet Archive",
+     "url": "https://archive.org/stream/x-the-serpent-power/x%20%20The%20serpent%20power_djvu.txt"
+    }
+   ]
+  },
+  {
+   "id": "ajna",
+   "n": 6,
+   "sa": "आज्ञा",
+   "iast": "Ājñā",
+   "petals": 2,
+   "bija": {
+    "sa": "ॐ",
+    "iast": "Oṃ"
+   },
+   "hex": "#5B5BD6",
+   "nick": {
+    "en": "Brow",
+    "hi": {
+     "text": "भ्रू-मध्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भ्रूमध्य",
+     "reviewed": false
+    }
+   },
+   "meaning": {
+    "en": "Command",
+    "hi": {
+     "text": "आज्ञा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आज्ञा",
+     "reviewed": false
+    }
+   },
+   "location": {
+    "en": "Between the eyebrows",
+    "hi": {
+     "text": "भौंहों के बीच",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भुवयांच्या मध्ये",
+     "reviewed": false
+    }
+   },
+   "element": {
+    "en": "Mind (manas)",
+    "hi": {
+     "text": "मन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मन",
+     "reviewed": false
+    }
+   },
+   "colour": {
+    "en": "Indigo",
+    "hi": {
+     "text": "नील",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गडद निळा",
+     "reviewed": false
+    }
+   },
+   "about": {
+    "en": "In yogic tradition, Ajna is described as a two-petalled lotus between the eyebrows, linked with the mind and the sound Om. Its name means 'command', and it is associated with insight and inner sight.",
+    "hi": {
+     "text": "योग परम्परा में आज्ञा को भौंहों के बीच दो पंखुड़ियों वाला कमल बताया गया है, जो मन और ध्वनि 'ॐ' से जुड़ा है। इसके नाम का अर्थ 'आदेश' है, और इसे अन्तर्दृष्टि तथा भीतरी देखने से जोड़ा जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग परंपरेत आज्ञा हे भुवयांच्या मध्यावरचे दोन पाकळ्यांचे कमळ मानले जाते, जे मन आणि ध्वनी 'ॐ' शी जोडलेले आहे. त्याच्या नावाचा अर्थ 'आज्ञा' आहे, आणि अंतर्दृष्टी व आतील पाहणे यांच्याशी त्याचा संबंध सांगितला जातो.",
+     "reviewed": false
+    }
+   },
+   "practice": {
+    "en": "Sit comfortably with eyes closed. For a few ordinary breaths, rest your attention between the eyebrows. If you like, repeat 'Om' quietly in your mind, then sit in silence for a minute.",
+    "hi": {
+     "text": "आँखें बन्द करके आराम से बैठें। कुछ सामान्य श्वासों तक अपना ध्यान भौंहों के बीच रखें। चाहें तो मन में धीरे से 'ॐ' दोहराएँ, फिर एक मिनट मौन बैठें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "डोळे मिटून आरामात बसा. काही सामान्य श्वासांपर्यंत लक्ष भुवयांच्या मध्ये ठेवा. हवे असल्यास मनात हळूच 'ॐ' म्हणा, मग एक मिनिट शांत बसा.",
+     "reviewed": false
+    }
+   },
+   "affirmation": {
+    "en": "I look within with calm attention.",
+    "hi": {
+     "text": "मैं शान्त ध्यान से भीतर देखता हूँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मी शांत लक्षाने आत पाहतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Shat-Chakra-Nirupana (Purnananda, 1577), English by Arthur Avalon, The Serpent Power (1919): Wisdomlib edition",
+     "url": "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english/d/doc1144826.html"
+    },
+    {
+     "label": "Arthur Avalon, The Serpent Power (1919), full text on the Internet Archive",
+     "url": "https://archive.org/stream/x-the-serpent-power/x%20%20The%20serpent%20power_djvu.txt"
+    }
+   ]
+  },
+  {
+   "id": "sahasrara",
+   "n": 7,
+   "sa": "सहस्रार",
+   "iast": "Sahasrāra",
+   "petals": 1000,
+   "bija": null,
+   "hex": "#8E5BC9",
+   "nick": {
+    "en": "Crown",
+    "hi": {
+     "text": "सहस्रार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सहस्रार",
+     "reviewed": false
+    }
+   },
+   "meaning": {
+    "en": "The thousand-petalled",
+    "hi": {
+     "text": "हज़ार पंखुड़ियों वाला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हजार पाकळ्यांचे",
+     "reviewed": false
+    }
+   },
+   "location": {
+    "en": "Crown of the head",
+    "hi": {
+     "text": "सिर का शीर्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मस्तकाचा माथा",
+     "reviewed": false
+    }
+   },
+   "element": {
+    "en": "Beyond the elements",
+    "hi": {
+     "text": "तत्त्वों से परे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तत्त्वांच्या पलीकडे",
+     "reviewed": false
+    }
+   },
+   "colour": {
+    "en": "Violet",
+    "hi": {
+     "text": "बैंगनी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जांभळा",
+     "reviewed": false
+    }
+   },
+   "about": {
+    "en": "In yogic tradition, Sahasrara is described as the thousand-petalled lotus at the crown of the head, beyond the elements. It is traditionally spoken of as the place of union and stillness, and it has no seed sound.",
+    "hi": {
+     "text": "योग परम्परा में सहस्रार को सिर के शीर्ष पर हज़ार पंखुड़ियों वाला कमल बताया गया है, जो तत्त्वों से परे है। इसे परम्परा में मिलन और शान्ति का स्थान कहा जाता है, और इसकी कोई बीज ध्वनि नहीं है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग परंपरेत सहस्रार हे मस्तकावरचे हजार पाकळ्यांचे कमळ मानले जाते, जे तत्त्वांच्या पलीकडे आहे. परंपरेत त्याला मिलन आणि शांततेचे स्थान म्हटले जाते, आणि त्याला बीज ध्वनी नाही.",
+     "reviewed": false
+    }
+   },
+   "practice": {
+    "en": "Sit comfortably. For a few ordinary breaths, rest your attention at the crown of the head, then let attention go wide and sit in silence for a minute.",
+    "hi": {
+     "text": "आराम से बैठें। कुछ सामान्य श्वासों तक अपना ध्यान सिर के शीर्ष पर रखें, फिर ध्यान को फैलने दें और एक मिनट मौन बैठें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आरामात बसा. काही सामान्य श्वासांपर्यंत लक्ष मस्तकाच्या माथ्यावर ठेवा, मग लक्ष विस्तारू द्या आणि एक मिनिट शांत बसा.",
+     "reviewed": false
+    }
+   },
+   "affirmation": {
+    "en": "I rest in quiet awareness.",
+    "hi": {
+     "text": "मैं शान्त जागरूकता में विश्राम करता हूँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मी शांत जाणीवेत विसावतो.",
+     "reviewed": false
+    }
+   },
+   "sources": [
+    {
+     "label": "Shat-Chakra-Nirupana (Purnananda, 1577), English by Arthur Avalon, The Serpent Power (1919): Wisdomlib edition",
+     "url": "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english/d/doc1144826.html"
+    },
+    {
+     "label": "Arthur Avalon, The Serpent Power (1919), full text on the Internet Archive",
+     "url": "https://archive.org/stream/x-the-serpent-power/x%20%20The%20serpent%20power_djvu.txt"
+    }
+   ]
+  }
+ ]
+}

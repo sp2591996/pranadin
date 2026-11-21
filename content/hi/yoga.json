@@ -1,0 +1,190 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yoga",
+  "lang": "hi",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "note": "Drafted from the prototype. Names only; nothing here is shown until the Board sets reviewed: true (D-012).",
+  "poses": {
+    "tadasana": {
+      "name": "पर्वत आसन",
+      "reviewed": false
+    },
+    "vrikshasana": {
+      "name": "वृक्ष आसन",
+      "reviewed": false
+    },
+    "adho-mukha-svanasana": {
+      "name": "अधोमुख श्वानासन",
+      "reviewed": false
+    },
+    "trikonasana": {
+      "name": "त्रिकोणासन",
+      "reviewed": false
+    },
+    "virabhadrasana-1": {
+      "name": "वीरभद्रासन १",
+      "reviewed": false
+    },
+    "virabhadrasana-2": {
+      "name": "वीरभद्रासन २",
+      "reviewed": false
+    },
+    "uttanasana": {
+      "name": "उत्तानासन",
+      "reviewed": false
+    },
+    "bhujangasana": {
+      "name": "भुजंगासन",
+      "reviewed": false
+    },
+    "balasana": {
+      "name": "बालासन",
+      "reviewed": false
+    },
+    "vajrasana": {
+      "name": "वज्रासन",
+      "reviewed": false
+    },
+    "sukhasana": {
+      "name": "सुखासन",
+      "reviewed": false
+    },
+    "padmasana": {
+      "name": "पद्मासन",
+      "reviewed": false
+    },
+    "paschimottanasana": {
+      "name": "पश्चिमोत्तानासन",
+      "reviewed": false
+    },
+    "ardha-matsyendrasana": {
+      "name": "अर्ध मत्स्येंद्रासन",
+      "reviewed": false
+    },
+    "setu-bandhasana": {
+      "name": "सेतु बंधासन",
+      "reviewed": false
+    },
+    "sarvangasana": {
+      "name": "सर्वांगासन",
+      "reviewed": false
+    },
+    "shavasana": {
+      "name": "शवासन",
+      "reviewed": false
+    },
+    "uttkatasana": {
+      "name": "उत्कटासन",
+      "reviewed": false
+    },
+    "parsvakonasana": {
+      "name": "पार्श्वकोणासन",
+      "reviewed": false
+    },
+    "virabhadrasana-3": {
+      "name": "वीरभद्रासन ३",
+      "reviewed": false
+    },
+    "garudasana": {
+      "name": "गरुडासन",
+      "reviewed": false
+    },
+    "marjaryasana": {
+      "name": "बिल्ली-गाय प्रवाह",
+      "reviewed": false
+    },
+    "ustrasana": {
+      "name": "उष्ट्रासन",
+      "reviewed": false
+    },
+    "baddha-konasana": {
+      "name": "बद्ध कोणासन",
+      "reviewed": false
+    },
+    "janu-sirsasana": {
+      "name": "जानु शीर्षासन",
+      "reviewed": false
+    },
+    "matsyasana": {
+      "name": "मत्स्यासन",
+      "reviewed": false
+    },
+    "viparita-karani": {
+      "name": "विपरीत करणी",
+      "reviewed": false
+    },
+    "chakrasana": {
+      "name": "चक्रासन",
+      "reviewed": false
+    },
+    "bakasana": {
+      "name": "बकासन",
+      "reviewed": false
+    }
+  },
+  "modules": {
+    "morning-surya-flow": {
+      "title": "सुबह का सूर्य-प्रवाह",
+      "reviewed": false
+    },
+    "beginner-foundation": {
+      "title": "शुरुआत की नींव",
+      "reviewed": false
+    },
+    "stress-relief-calm": {
+      "title": "धीमा और शांत",
+      "reviewed": false
+    },
+    "flexibility-journey": {
+      "title": "लचीलेपन की यात्रा",
+      "reviewed": false
+    },
+    "bedtime-wind-down": {
+      "title": "सोने से पहले शांति",
+      "reviewed": false
+    },
+    "core-fire-vinyasa": {
+      "title": "कोर-अग्नि विन्यास",
+      "reviewed": false
+    },
+    "inversion-path": {
+      "title": "विपरीत मुद्रा का पथ",
+      "reviewed": false
+    },
+    "deep-opening-evening": {
+      "title": "शाम का गहन उद्घाटन",
+      "reviewed": false
+    },
+    "restful-reset": {
+      "title": "विश्राम का सत्र",
+      "reviewed": false
+    },
+    "standing-strength": {
+      "title": "खड़े आसनों का बल",
+      "reviewed": false
+    },
+    "hips-and-twists": {
+      "title": "कूल्हे और मरोड़",
+      "reviewed": false
+    },
+    "balance-and-focus": {
+      "title": "संतुलन और एकाग्रता",
+      "reviewed": false
+    }
+  },
+  "programs": {
+    "prog.beginner-7": {
+      "title": "पहले कदम",
+      "reviewed": false
+    },
+    "prog.intermediate-14": {
+      "title": "स्थिर अभ्यास",
+      "reviewed": false
+    },
+    "prog.advanced-21": {
+      "title": "गहन अभ्यास",
+      "reviewed": false
+    }
+  }
+}

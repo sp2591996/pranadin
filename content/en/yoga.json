@@ -1,0 +1,2299 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yoga",
+  "lang": "en",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "note": "Yoga poses, guided sequences and programmes (D-026, D-027). Wording avoids medical claims; no breath retention anywhere. Images are AI-generated and captioned as such.",
+  "poses": [
+    {
+      "id": "pose.tadasana",
+      "slug": "tadasana",
+      "name": "Mountain Pose",
+      "sanskrit": "ताड़ासन",
+      "transliteration": "Tadasana",
+      "category": "Standing",
+      "level": "Beginner",
+      "holdSeconds": 60,
+      "image": {
+        "file": "tadasana.webp",
+        "alt": "Illustration of Mountain Pose"
+      },
+      "summary": "The base of every standing pose. It looks like simply standing, and teaches steady alignment and attention.",
+      "breathTip": "Breathe slowly through the nose, feeling the breath rise from the feet to the crown on each inhale.",
+      "steps": [
+        "Stand with feet together or hip-width apart, weight spread evenly across both feet.",
+        "Engage the thighs, gently lift the kneecaps and lengthen the tailbone toward the floor.",
+        "Roll the shoulders back and down, letting the arms rest beside the body, palms facing forward.",
+        "Lengthen the back of the neck and imagine a thread lifting the crown of the head toward the sky.",
+        "Soften the face, jaw and eyes while keeping the body alert and tall.",
+        "Hold and breathe steadily, grounding down through the feet with every exhale."
+      ],
+      "benefits": [
+        "Practises even weight through both feet",
+        "Builds awareness of posture and alignment",
+        "A quiet way to arrive before the rest of a session"
+      ],
+      "cautions": [
+        "Those with low blood pressure should rise slowly out of the pose",
+        "If balance is difficult, stand near a wall for support"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "pose.vrikshasana",
+      "slug": "vrikshasana",
+      "name": "Tree Pose",
+      "sanskrit": "वृक्षासन",
+      "transliteration": "Vrikshasana",
+      "category": "Balance",
+      "level": "Beginner",
+      "holdSeconds": 45,
+      "image": {
+        "file": "vrikshasana.webp",
+        "alt": "Illustration of Tree Pose"
+      },
+      "summary": "A one-legged balance where a steady gaze does most of the work, like a tree that sways but stays rooted.",
+      "breathTip": "Fix the gaze (drishti) on one still point and let each exhale root the standing foot deeper.",
+      "steps": [
+        "Stand tall in Tadasana and shift your weight slowly onto the left foot.",
+        "Place the right sole against the inner left thigh or calf — never against the knee.",
+        "Bring the palms together in Anjali Mudra at the heart, elbows relaxed.",
+        "Fix your gaze on a fixed point ahead at eye level.",
+        "On an inhale, raise the joined palms overhead, keeping the shoulders soft.",
+        "Hold for several slow breaths, then release and repeat on the other side."
+      ],
+      "benefits": [
+        "Strengthens the legs and ankles",
+        "Practises steady attention on a single point",
+        "Gently opens the hips and inner thighs"
+      ],
+      "cautions": [
+        "Avoid if you have acute ankle or knee injury",
+        "Those prone to dizziness should practise near a wall",
+        "Keep the neck relaxed if raising the arms causes strain"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "pose.adho-mukha-svanasana",
+      "slug": "adho-mukha-svanasana",
+      "name": "Downward Facing Dog",
+      "sanskrit": "अधोमुख श्वानासन",
+      "transliteration": "Adho Mukha Svanasana",
+      "category": "Inversion",
+      "level": "Beginner",
+      "holdSeconds": 45,
+      "image": {
+        "file": "adho-mukha-svanasana.webp",
+        "alt": "Illustration of Downward Facing Dog"
+      },
+      "summary": "A familiar full-body stretch with the hips lifted high, which also gives the arms and legs a change of load.",
+      "breathTip": "Let the breath be audible and oceanic (ujjayi); exhale as the heels reach toward the earth.",
+      "steps": [
+        "Begin on all fours, wrists under shoulders and knees under hips.",
+        "Tuck the toes, press into the palms and lift the hips high, forming an inverted V.",
+        "Keep a soft bend in the knees at first; lengthen the spine before straightening the legs.",
+        "Press the bases of the fingers down, rotate the upper arms outward and relax the neck.",
+        "Let the head hang heavy between the arms; gaze toward the navel.",
+        "Breathe for 5–10 rounds, pedalling the feet gently, then release to all fours."
+      ],
+      "benefits": [
+        "Stretches the backs of the legs, shoulders and spine",
+        "Builds strength in the arms, shoulders and wrists",
+        "A refreshing pose to move through between others"
+      ],
+      "cautions": [
+        "Avoid with carpal tunnel syndrome or late pregnancy",
+        "Keep knees bent if hamstrings are very tight",
+        "Those with uncontrolled high blood pressure should keep the head above the heart"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.trikonasana",
+      "slug": "trikonasana",
+      "name": "Triangle Pose",
+      "sanskrit": "त्रिकोणासन",
+      "transliteration": "Trikonasana",
+      "category": "Standing",
+      "level": "Beginner",
+      "holdSeconds": 40,
+      "image": {
+        "file": "trikonasana.webp",
+        "alt": "Illustration of Triangle Pose"
+      },
+      "summary": "A wide standing pose that lengthens one side of the body at a time while the chest stays open.",
+      "breathTip": "Inhale as you extend the top arm skyward; exhale and rotate the chest open a little more.",
+      "steps": [
+        "Stand with feet 3–4 feet apart, right foot turned out 90 degrees, left foot slightly in.",
+        "Raise both arms to shoulder height, palms down, reaching actively.",
+        "Exhale and hinge sideways over the right leg, bringing the right hand to the shin, ankle or floor.",
+        "Extend the left arm toward the ceiling, stacking the shoulders in one line.",
+        "Turn the chest and gaze upward (or down toward the floor if the neck strains).",
+        "Stay for 5 breaths, press firmly into the feet and rise on an inhale. Repeat left side."
+      ],
+      "benefits": [
+        "Stretches the sides of the body and the legs",
+        "Builds steadiness in the legs",
+        "Encourages easy breathing with an open chest"
+      ],
+      "cautions": [
+        "Avoid or modify with low blood pressure and neck problems",
+        "If hamstrings strain, bend the front knee slightly or use a block",
+        "Practise gently in case of diarrhoea or migraine"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "pose.virabhadrasana-1",
+      "slug": "virabhadrasana-1",
+      "name": "Warrior I Pose",
+      "sanskrit": "वीरभद्रासन १",
+      "transliteration": "Virabhadrasana I",
+      "category": "Standing",
+      "level": "Beginner",
+      "holdSeconds": 40,
+      "image": {
+        "file": "virabhadrasana-1.webp",
+        "alt": "Illustration of Warrior I Pose"
+      },
+      "summary": "A lunge with the arms overhead, named for a warrior of Indian tradition. Strong legs, a lifted chest and a steady gaze.",
+      "breathTip": "Inhale tall through the crown, exhale and sink a little deeper into the front knee.",
+      "steps": [
+        "From standing, step the left foot back 3.5–4 feet, turning it out about 45 degrees.",
+        "Bend the right knee directly over the ankle, thigh approaching parallel to the floor.",
+        "Square the hips forward as much as possible, drawing the right hip gently back.",
+        "Raise both arms overhead, palms facing or touching, shoulders melting away from the ears.",
+        "Lift through the chest and crown while grounding through the back heel.",
+        "Stay for 5 breaths, straighten on an exhale and repeat on the other side."
+      ],
+      "benefits": [
+        "Strengthens the legs, shoulders and back",
+        "Opens the hips and chest",
+        "Builds stamina and focus"
+      ],
+      "cautions": [
+        "Use caution with recent knee, hip or shoulder injury",
+        "Those with high blood pressure may keep hands on hips instead of overhead",
+        "Shorten the stance if balance is difficult"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.virabhadrasana-2",
+      "slug": "virabhadrasana-2",
+      "name": "Warrior II Pose",
+      "sanskrit": "वीरभद्रासन २",
+      "transliteration": "Virabhadrasana II",
+      "category": "Standing",
+      "level": "Beginner",
+      "holdSeconds": 40,
+      "image": {
+        "file": "virabhadrasana-2.webp",
+        "alt": "Illustration of Warrior II Pose"
+      },
+      "summary": "A wide, grounded stance with the arms reaching in opposite directions and the gaze over the front hand.",
+      "breathTip": "Long, even breaths; let the exhale soften the shoulders while the arms stay strong.",
+      "steps": [
+        "Step feet 4–4.5 feet apart, right foot out 90 degrees, left foot slightly in.",
+        "Bend the right knee over the ankle so the thigh nears parallel to the floor.",
+        "Extend the arms at shoulder height, palms down, reaching actively from fingertip to fingertip.",
+        "Keep the torso centred between the hips; shoulders stacked over pelvis.",
+        "Turn the gaze out over the right fingertips, jaw soft.",
+        "Stay for 5 breaths, straighten the leg on an inhale and repeat left."
+      ],
+      "benefits": [
+        "Strengthens and stretches the legs",
+        "Builds endurance in the legs and shoulders",
+        "Practises patience while the effort stays steady"
+      ],
+      "cautions": [
+        "Avoid with chronic knee injury or recent hip surgery",
+        "Neck issues: keep the head centred instead of turning the gaze",
+        "Reduce the bend of the knee if the stance tires quickly"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.uttanasana",
+      "slug": "uttanasana",
+      "name": "Standing Forward Bend",
+      "sanskrit": "उत्तानासन",
+      "transliteration": "Uttanasana",
+      "category": "Standing",
+      "level": "Beginner",
+      "holdSeconds": 45,
+      "image": {
+        "file": "uttanasana.webp",
+        "alt": "Illustration of Standing Forward Bend"
+      },
+      "summary": "A forward fold from the hips that lets the head and arms hang heavy.",
+      "breathTip": "With each exhale, let the torso hang a fraction heavier; each inhale, lengthen the spine.",
+      "steps": [
+        "From Tadasana, inhale and sweep the arms up; exhale and hinge forward from the hips.",
+        "Keep the knees soft at first and fold over the fronts of the legs.",
+        "Let the head hang, holding the elbows or bringing fingertips to the floor or shins.",
+        "Draw the sitting bones toward the ceiling and release the crown toward the ground.",
+        "Soften the belly against the thighs with every exhale.",
+        "To rise, engage the core and roll up vertebra by vertebra on an inhale."
+      ],
+      "benefits": [
+        "Stretches the backs of the legs and the back",
+        "A calm, inward-turning shape for a short rest",
+        "Lets the neck and shoulders soften"
+      ],
+      "cautions": [
+        "Rise very slowly to avoid dizziness; those with low blood pressure take care",
+        "Bend knees generously with back injury or hamstring tears",
+        "Avoid deep holds in late pregnancy"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.bhujangasana",
+      "slug": "bhujangasana",
+      "name": "Cobra Pose",
+      "sanskrit": "भुजंगासन",
+      "transliteration": "Bhujangasana",
+      "category": "Prone",
+      "level": "Beginner",
+      "holdSeconds": 30,
+      "image": {
+        "file": "bhujangasana.webp",
+        "alt": "Illustration of Cobra Pose"
+      },
+      "summary": "A gentle backbend where the chest lifts and the legs stay grounded, like a cobra raising its hood.",
+      "breathTip": "Inhale as you rise, feeling the chest expand; exhale to lower down with control.",
+      "steps": [
+        "Lie face down, legs extended, tops of the feet pressing into the mat.",
+        "Place hands under the shoulders, elbows close to the body, forehead resting down.",
+        "Press the pubic bone and legs firmly into the floor.",
+        "On an inhale, slowly lift the head, chest and upper abdomen — using back muscles more than arms.",
+        "Keep the elbows slightly bent and hugged in; shoulders away from the ears.",
+        "Hold a few breaths and exhale slowly back down. Repeat 2–4 times."
+      ],
+      "benefits": [
+        "Strengthens the back muscles",
+        "Opens the chest and the front of the shoulders",
+        "Counters long hours of sitting with a light extension"
+      ],
+      "cautions": [
+        "Avoid in pregnancy and with herniated disc flare-ups",
+        "Those with carpal tunnel syndrome should keep weight off the wrists",
+        "Stop if the lower back pinches — reduce the height of the lift"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "pose.balasana",
+      "slug": "balasana",
+      "name": "Child's Pose",
+      "sanskrit": "बालासन",
+      "transliteration": "Balasana",
+      "category": "Kneeling",
+      "level": "Beginner",
+      "holdSeconds": 90,
+      "image": {
+        "file": "balasana.webp",
+        "alt": "Illustration of Child's Pose"
+      },
+      "summary": "A resting fold over the knees, often used between more active poses.",
+      "breathTip": "Breathe into the back of the ribcage — let each exhale sink the hips heavier toward the heels.",
+      "steps": [
+        "Kneel with big toes touching and knees together or wide as comfortable.",
+        "Exhale and fold forward, laying the torso between or on the thighs.",
+        "Rest the forehead on the mat and let the shoulders release.",
+        "Arms can rest alongside the body, palms up, or extended forward, palms down.",
+        "Let the weight of the head fully surrender to the floor.",
+        "Stay for 10 or more slow breaths; to rise, walk the hands back and lift gently."
+      ],
+      "benefits": [
+        "Gently stretches the back, hips and shoulders",
+        "A comfortable place to return to the breath",
+        "Suits a pause at any point in a session"
+      ],
+      "cautions": [
+        "Keep knees wider if pregnant or with knee injury",
+        "Those with ankle issues may place a rolled blanket under the shins",
+        "If the forehead cannot reach, rest it on stacked fists or a block"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.vajrasana",
+      "slug": "vajrasana",
+      "name": "Thunderbolt Pose",
+      "sanskrit": "वज्रासन",
+      "transliteration": "Vajrasana",
+      "category": "Kneeling",
+      "level": "Beginner",
+      "holdSeconds": 120,
+      "image": {
+        "file": "vajrasana.webp",
+        "alt": "Illustration of Thunderbolt Pose"
+      },
+      "summary": "A kneeling seat on the heels, traditionally used for sitting quietly and for breath awareness.",
+      "breathTip": "Breathe deep into the belly; notice how the upright spine makes each breath naturally slow.",
+      "steps": [
+        "Kneel with the knees together and the tops of the feet flat on the floor.",
+        "Sit back so the sitting bones rest on the heels, thighs touching.",
+        "Rest the hands palms-down on the thighs, shoulders relaxed.",
+        "Lengthen the spine tall, chin parallel to the floor, gaze soft ahead.",
+        "Breathe slowly for 1–5 minutes, keeping the belly soft.",
+        "If the ankles ache, place a folded blanket under the knees or shins."
+      ],
+      "benefits": [
+        "Gives a steady, upright seat",
+        "Stretches the ankles, knees and thighs",
+        "A simple position for a few minutes of quiet"
+      ],
+      "cautions": [
+        "Place a cushion between heels and hips if knees are sensitive",
+        "Those with knee ligament injuries should avoid long holds",
+        "Numbness in the feet is a signal to come out and shake the legs"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "pose.sukhasana",
+      "slug": "sukhasana",
+      "name": "Easy Pose",
+      "sanskrit": "सुखासन",
+      "transliteration": "Sukhasana",
+      "category": "Seated",
+      "level": "Beginner",
+      "holdSeconds": 180,
+      "image": {
+        "file": "sukhasana.webp",
+        "alt": "Illustration of Easy Pose"
+      },
+      "summary": "The easy cross-legged seat, a comfortable base for sitting and breath practice.",
+      "breathTip": "Sit tall and let the breath become silent and even — the measure of a well-seated posture.",
+      "steps": [
+        "Sit on the front edge of a cushion so the knees drop below the hips.",
+        "Cross the shins, each foot resting beneath the opposite knee.",
+        "Place the hands on the knees, palms down or in Chin Mudra.",
+        "Rock side to side a few times and settle the sitting bones evenly.",
+        "Lift through the crown, soften the shoulders, close the eyes or lower the gaze.",
+        "Breathe naturally for several minutes; switch the cross of the legs halfway."
+      ],
+      "benefits": [
+        "Lengthens the spine in sitting",
+        "Opens the hips gently",
+        "A steady seat for quiet attention"
+      ],
+      "cautions": [
+        "Elevate the hips with a cushion if knees float high or ache",
+        "Avoid forcing the knees down — flexibility comes with time",
+        "Those with sciatica may prefer sitting on a chair with spine tall"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.padmasana",
+      "slug": "padmasana",
+      "name": "Lotus Pose",
+      "sanskrit": "पद्मासन",
+      "transliteration": "Padmasana",
+      "category": "Seated",
+      "level": "Intermediate",
+      "holdSeconds": 180,
+      "image": {
+        "file": "padmasana.webp",
+        "alt": "Illustration of Lotus Pose"
+      },
+      "summary": "The classic lotus seat of meditation. It asks for open hips, so most people begin with half-lotus or an easy seat.",
+      "breathTip": "Let the breath become subtle and long; a true lotus seat turns breath itself into meditation.",
+      "steps": [
+        "Sit in Dandasana with legs extended and spine tall.",
+        "Bend the right knee and cradle the foot, drawing it toward the navel.",
+        "Place the right foot on the left hip crease, sole facing upward.",
+        "Then draw the left foot over and up onto the right hip crease.",
+        "Rest the hands on the knees in Chin or Jnana Mudra, spine rising effortlessly.",
+        "Hold comfortably; release the legs in reverse order and repeat with the other leg first."
+      ],
+      "benefits": [
+        "A balanced, stable seat for long sitting",
+        "Opens the hips, knees and ankles over time",
+        "Traditionally associated with meditation"
+      ],
+      "cautions": [
+        "Never force — open the hips for months with half-lotus first",
+        "Avoid with knee or ankle injuries and sciatica",
+        "Come out slowly if the legs fall asleep"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.paschimottanasana",
+      "slug": "paschimottanasana",
+      "name": "Seated Forward Bend",
+      "sanskrit": "पश्चिमोत्तानासन",
+      "transliteration": "Paschimottanasana",
+      "category": "Seated",
+      "level": "Beginner",
+      "holdSeconds": 60,
+      "image": {
+        "file": "paschimottanasana.webp",
+        "alt": "Illustration of Seated Forward Bend"
+      },
+      "summary": "A seated forward fold that stretches the whole back of the body.",
+      "breathTip": "Inhale to lengthen the spine forward; exhale to fold a little deeper from the hips, never the neck.",
+      "steps": [
+        "Sit in Dandasana, legs extended together, hands beside the hips.",
+        "Press the sitting bones down and lift the crown to lengthen the spine.",
+        "Inhale and raise the arms; exhale and hinge forward from the hip creases.",
+        "Hold the shins, ankles or feet — wherever the body reaches without strain.",
+        "With each breath, lengthen the front body; with each exhale, soften into the fold.",
+        "Eventually rest the abdomen on the thighs; breathe calmly for 1–3 minutes."
+      ],
+      "benefits": [
+        "Stretches the back, hamstrings and calves",
+        "Encourages a slow, inward-turning pace",
+        "A quiet pose near the end of a session"
+      ],
+      "cautions": [
+        "Avoid deep folding with a slipped disc or severe back pain",
+        "Bend the knees generously if hamstrings are tight",
+        "Practise gently during asthma flare-ups",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.ardha-matsyendrasana",
+      "slug": "ardha-matsyendrasana",
+      "name": "Half Lord of the Fishes",
+      "sanskrit": "अर्ध मत्स्येन्द्रासन",
+      "transliteration": "Ardha Matsyendrasana",
+      "category": "Twist",
+      "level": "Intermediate",
+      "holdSeconds": 40,
+      "image": {
+        "file": "ardha-matsyendrasana.webp",
+        "alt": "Illustration of Half Lord of the Fishes"
+      },
+      "summary": "A seated spinal twist named for the sage Matsyendranath, turning from the belly and lengthening the spine.",
+      "breathTip": "Inhale to grow tall through the spine; exhale to rotate a little deeper from the belly, not the neck.",
+      "steps": [
+        "Sit in Dandasana, then bend the right knee and step the foot outside the left thigh.",
+        "Bend the left knee and tuck the left foot beside the right hip (or keep it extended).",
+        "Place the right hand behind you; wrap the left arm around the right knee.",
+        "Inhale and lengthen the spine; exhale and twist to the right from the navel.",
+        "Keep both sitting bones grounded; turn the chest, then the gaze last.",
+        "Stay for 5 breaths and unwind slowly. Repeat on the other side."
+      ],
+      "benefits": [
+        "Increases spinal movement and rotation",
+        "Stretches the shoulders, chest and outer hips",
+        "Leaves the body feeling lighter after a long sit"
+      ],
+      "cautions": [
+        "Avoid during pregnancy and with herniated discs",
+        "Keep the twist gentle with recent abdominal surgery",
+        "Never force the neck past the comfortable range"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.setu-bandhasana",
+      "slug": "setu-bandhasana",
+      "name": "Bridge Pose",
+      "sanskrit": "सेतु बन्धासन",
+      "transliteration": "Setu Bandhasana",
+      "category": "Supine",
+      "level": "Beginner",
+      "holdSeconds": 40,
+      "image": {
+        "file": "setu-bandhasana.webp",
+        "alt": "Illustration of Bridge Pose"
+      },
+      "summary": "A lying backbend where the hips lift to form a bridge between the shoulders and feet.",
+      "breathTip": "Inhale as you lift the hips; exhale and stay, feeling the chest reach toward the chin.",
+      "steps": [
+        "Lie on your back, knees bent, feet hip-width apart and close to the sitting bones.",
+        "Arms rest alongside the body, palms down.",
+        "Press the feet and arms down and on an inhale lift the hips toward the ceiling.",
+        "Keep the thighs parallel — do not let the knees splay outward.",
+        "Optionally clasp the hands under the back and press the shoulders down to open the chest.",
+        "Stay for 5–8 breaths, then release slowly, spine lowering vertebra by vertebra."
+      ],
+      "benefits": [
+        "Strengthens the legs, hips and lower back",
+        "Opens the chest and front of the body",
+        "A gentle backbend to prepare for deeper ones"
+      ],
+      "cautions": [
+        "Avoid with recent neck injury or cervical spondylitis",
+        "Keep the head still — never turn it while lifted",
+        "Those with knee problems should keep the feet wider",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "pose.sarvangasana",
+      "slug": "sarvangasana",
+      "name": "Shoulder Stand",
+      "sanskrit": "सर्वाङ्गासन",
+      "transliteration": "Sarvangasana",
+      "category": "Inversion",
+      "level": "Intermediate",
+      "holdSeconds": 60,
+      "image": {
+        "file": "sarvangasana.webp",
+        "alt": "Illustration of Shoulder Stand"
+      },
+      "summary": "The shoulder stand, a classic inversion that puts the weight on the shoulders and upper arms. Learn it with an experienced teacher.",
+      "breathTip": "Breathe slowly and fully; the chest is compressed, so let the belly and ribs do the work.",
+      "steps": [
+        "Lie on your back with 1–2 folded blankets under the shoulders, head off the edge.",
+        "Lift the legs together and swing them overhead, supporting the back with the hands.",
+        "Walk the hands down the back toward the shoulder blades, elbows shoulder-width.",
+        "Straighten the legs and torso into one vertical line, chest toward the chin.",
+        "Press the upper arms down; keep the neck still and relaxed — no turning.",
+        "Stay for 1–3 minutes, then lower with control and rest in Shavasana."
+      ],
+      "benefits": [
+        "Builds strength in the shoulders and upper back",
+        "Offers a new view and a steady, unhurried pace",
+        "Traditionally called the queen of the poses"
+      ],
+      "cautions": [
+        "Avoid during menstruation, pregnancy, high blood pressure and glaucoma",
+        "Never turn the head in the pose; keep the neck weight-free",
+        "Practise near a wall when learning; exit slowly to avoid dizziness"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.shavasana",
+      "slug": "shavasana",
+      "name": "Corpse Pose",
+      "sanskrit": "शवासन",
+      "transliteration": "Shavasana",
+      "category": "Supine",
+      "level": "Beginner",
+      "holdSeconds": 300,
+      "image": {
+        "file": "shavasana.webp",
+        "alt": "Illustration of Corpse Pose"
+      },
+      "summary": "Complete rest lying on the back at the end of practice, letting the body and breath settle.",
+      "breathTip": "Let the breath breathe itself. Follow it only if the mind wanders; otherwise, simply rest.",
+      "steps": [
+        "Lie flat on your back, legs a little apart, feet falling open naturally.",
+        "Arms rest beside the body, palms turning toward the sky.",
+        "Tuck the chin slightly so the back of the neck lengthens.",
+        "Scan the body from crown to toes, consciously releasing each part.",
+        "Let the breath become quiet and unforced; release all effort of mind.",
+        "Remain 5–10 minutes; to leave, deepen one breath, wiggle the fingers and roll gently to the right before rising."
+      ],
+      "benefits": [
+        "Lets the body rest after effort",
+        "Practises releasing tension on purpose",
+        "A quiet close that gathers the practice"
+      ],
+      "cautions": [
+        "Those with a sore low back may rest a bolster beneath the knees",
+        "Cover yourself with a blanket if the body cools in deep rest",
+        "If sleep comes, shorten the practice and rest earlier at night"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "pose.uttkatasana",
+      "slug": "uttkatasana",
+      "name": "Chair Pose",
+      "sanskrit": "उत्कटासन",
+      "transliteration": "Utkatasana",
+      "category": "Standing",
+      "level": "Beginner",
+      "holdSeconds": 45,
+      "image": {
+        "file": "uttkatasana.webp",
+        "alt": "Illustration of Chair Pose"
+      },
+      "summary": "A standing squat with the arms overhead, as if sitting back into an invisible chair.",
+      "breathTip": "Inhale as you sink, exhale and settle deeper — steady, unclenched jaw, soft eyes.",
+      "steps": [
+        "Stand with feet together or hip-width, arms sweeping overhead with the inhale, palms facing each other.",
+        "Exhale and bend both knees, sinking the hips as if lowering onto a chair behind you.",
+        "Keep the weight in the heels and the knees tracking over the toes, not past them.",
+        "Draw the lower ribs in, lengthen the tailbone down and lift through the crown.",
+        "Stay for 30–60 seconds, then inhale to straighten and exhale the arms down."
+      ],
+      "benefits": [
+        "Strengthens the thighs, calves and ankles",
+        "Builds stamina in the legs and back",
+        "Warms the body quickly"
+      ],
+      "cautions": [
+        "Avoid deep bending with acute knee or hip injury — take a shallower seat",
+        "Keep the neck relaxed; lower the arms to shoulder height if the shoulders tire",
+        "Those with low blood pressure should rise slowly afterwards"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.parsvakonasana",
+      "slug": "parsvakonasana",
+      "name": "Extended Side Angle",
+      "sanskrit": "पार्श्वकोणासन",
+      "transliteration": "Utthita Parsvakonasana",
+      "category": "Standing",
+      "level": "Intermediate",
+      "holdSeconds": 45,
+      "image": {
+        "file": "parsvakonasana.webp",
+        "alt": "Illustration of Extended Side Angle"
+      },
+      "summary": "A deep lunge with a long diagonal line from the back foot through the fingertips.",
+      "breathTip": "Let each inhale lengthen the underside of the body; each exhale, turn the chest a little toward the sky.",
+      "steps": [
+        "From a wide stance, turn the right foot out and bend the right knee to a right angle.",
+        "Lower the right forearm (or fingertips) onto the thigh — never collapsing the chest inward.",
+        "Inhale the left arm overhead and beside the left ear, palm facing down.",
+        "Roll the ribs open, gazing up under the armpit; press the back-edge of the back foot firmly.",
+        "Stay for 30–60 seconds, then inhale to rise and repeat on the left."
+      ],
+      "benefits": [
+        "Stretches the sides of the body, hips and groin",
+        "Strengthens the legs",
+        "Opens the chest after hours of sitting"
+      ],
+      "cautions": [
+        "Keep the bent knee from drifting past the toes to protect the joint",
+        "Rest the hand on a block if the forearm on the thigh collapses the chest",
+        "Neck strain — look down instead of up if the cervical spine complains"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.virabhadrasana-3",
+      "slug": "virabhadrasana-3",
+      "name": "Warrior III",
+      "sanskrit": "वीरभद्रासन ३",
+      "transliteration": "Virabhadrasana III",
+      "category": "Balance",
+      "level": "Intermediate",
+      "holdSeconds": 30,
+      "image": {
+        "file": "virabhadrasana-3.webp",
+        "alt": "Illustration of Warrior III"
+      },
+      "summary": "A one-legged balance with the body and back leg level, like a plank in the air.",
+      "breathTip": "Small, even breaths. If the breath runs short, come out, rest, and return lighter.",
+      "steps": [
+        "From Warrior I, shift weight into the front foot and lean the torso forward over it.",
+        "Lift the back leg as the chest descends, hinging at the hip until body and leg form one line.",
+        "Arms reach forward (or rest on the hips while learning); hips stay square to the floor.",
+        "Micro-bend the standing knee; press back actively through the lifted heel.",
+        "Gaze at one still point; stay for 15–30 seconds, then rise and switch sides."
+      ],
+      "benefits": [
+        "Builds single-leg strength and ankle steadiness",
+        "Strengthens the back of the body",
+        "Practises concentration, since balance asks for attention"
+      ],
+      "cautions": [
+        "Practise near a wall; touch fingertips to it when balance wanders",
+        "Avoid with acute hamstring pulls — keep the lift shallow",
+        "Do not lock the standing knee; a soft knee is a safe knee",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.garudasana",
+      "slug": "garudasana",
+      "name": "Eagle Pose",
+      "sanskrit": "गरुडासन",
+      "transliteration": "Garudasana",
+      "category": "Balance",
+      "level": "Intermediate",
+      "holdSeconds": 30,
+      "image": {
+        "file": "garudasana.webp",
+        "alt": "Illustration of Eagle Pose"
+      },
+      "summary": "An eagle-like balance with the arms and legs wrapped around each other.",
+      "breathTip": "Breathe into the squeezed shoulder blades; feel them spread apart on every inhale.",
+      "steps": [
+        "Bend both knees, sink slightly, and wrap the right thigh over the left.",
+        "Hook the right toes behind the left calf (or rest them on the floor as a prop).",
+        "Wrap the left elbow under the right; bring forearms and palms toward touching.",
+        "Sink the hips lower, lift the elbows to shoulder height, and lean the torso slightly forward.",
+        "Fix the gaze on one point; stay for 20–30 seconds, unwrap, and repeat on the other side."
+      ],
+      "benefits": [
+        "Stretches the shoulders and upper back",
+        "Stretches the hips and thighs",
+        "Practises focus while the limbs are wrapped"
+      ],
+      "cautions": [
+        "Recent knee surgery — keep the wrap shallow or skip the leg hook",
+        "Keep the standing knee bent but never strained inward",
+        "If the forearms won't touch, hold opposite shoulders instead",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.marjaryasana",
+      "slug": "marjaryasana",
+      "name": "Cat–Cow Flow",
+      "sanskrit": "मार्जारी-बिटिलासन",
+      "transliteration": "Marjaryasana–Bitilasana",
+      "category": "Kneeling",
+      "level": "Beginner",
+      "holdSeconds": 90,
+      "image": {
+        "file": "marjaryasana.webp",
+        "alt": "Illustration of Cat–Cow Flow"
+      },
+      "summary": "A flowing movement between a rounded and an arched spine on hands and knees, matched to the breath.",
+      "breathTip": "Inhale into the arch (cow), exhale into the round (cat). Let the breath lead, the spine obey.",
+      "steps": [
+        "Come to all fours: wrists under shoulders, knees under hips, spine neutral.",
+        "Inhale — drop the belly, lift the chest and tailbone, eyes softly up (Cow).",
+        "Exhale — press the floor away, round the spine to the ceiling, chin toward chest (Cat).",
+        "Move slowly and continuously for 8–12 rounds, letting the movement ripple to the tail.",
+        "Return to neutral and rest in Child's Pose for a breath."
+      ],
+      "benefits": [
+        "Moves the spine gently, one segment at a time",
+        "Warms the back before other poses",
+        "Links breath and movement"
+      ],
+      "cautions": [
+        "Pad the knees with a folded blanket if they complain",
+        "Wrist issues — make fists or lower to forearms",
+        "Keep the neck movement gentle if you have cervical concerns"
+      ],
+      "sources": [
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.ustrasana",
+      "slug": "ustrasana",
+      "name": "Camel Pose",
+      "sanskrit": "उष्ट्रासन",
+      "transliteration": "Ustrasana",
+      "category": "Kneeling",
+      "level": "Intermediate",
+      "holdSeconds": 30,
+      "image": {
+        "file": "ustrasana.webp",
+        "alt": "Illustration of Camel Pose"
+      },
+      "summary": "A kneeling backbend that opens the whole front of the body. Come up slowly and keep the neck easy.",
+      "breathTip": "Slow breaths into the opening chest. If panic or tears arrive, come up slowly and kneel quietly.",
+      "steps": [
+        "Kneel with knees hip-width, thighs vertical; hands rest on the lower back, fingers down.",
+        "Press hips forward, lift the sternum and begin to lean the shoulders back.",
+        "Reach one hand, then the other, to the heels (tuck toes for more height).",
+        "Push the hips forward so they stay over the knees; let the head release back only if the neck allows.",
+        "Stay for 20–30 seconds, then lead with the chest to rise; rest in Child's Pose."
+      ],
+      "benefits": [
+        "Opens the chest, shoulders and front of the thighs",
+        "Builds back strength and flexibility",
+        "Best practised after a good warm-up"
+      ],
+      "cautions": [
+        "Keep the hips stacked over knees — never let them drift back behind the legs",
+        "Avoid with recent abdominal or back surgery, or unmanaged high/low blood pressure",
+        "Support the lower back with hands instead of reaching the heels if the back pinches",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Common Yoga Protocol, Ministry of AYUSH, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "pose.baddha-konasana",
+      "slug": "baddha-konasana",
+      "name": "Bound Angle Pose",
+      "sanskrit": "बद्धकोणासन",
+      "transliteration": "Baddha Konasana",
+      "category": "Seated",
+      "level": "Beginner",
+      "holdSeconds": 120,
+      "image": {
+        "file": "baddha-konasana.webp",
+        "alt": "Illustration of Bound Angle Pose"
+      },
+      "summary": "A seated pose with the soles of the feet together and the knees falling open, also called Cobbler's Pose.",
+      "breathTip": "Long, soft breaths into the lower belly and groins; let gravity do the persuading.",
+      "steps": [
+        "Sit tall with the soles of the feet together, knees wide.",
+        "Hold the feet like a book — or ankles — drawing the heels comfortably near the pelvis.",
+        "Root the sitting bones, lengthen the crown, and let the knees sink without pushing.",
+        "To deepen, fold forward from the hips, chest leading, spine long.",
+        "Breathe 1–3 minutes; rise by pressing through the hips, not jerking the neck."
+      ],
+      "benefits": [
+        "Opens the hips and inner thighs",
+        "A comfortable seat for quiet breathing",
+        "Can be done with cushions under the knees"
+      ],
+      "cautions": [
+        "Never bounce the knees downward — patience, not force, opens groins",
+        "Place blocks or bolsters under the knees for groin or knee sensitivity",
+        "With sciatica, sit on a folded blanket to tilt the pelvis forward"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.janu-sirsasana",
+      "slug": "janu-sirsasana",
+      "name": "Head-to-Knee Pose",
+      "sanskrit": "जानुशीर्षासन",
+      "transliteration": "Janu Sirsasana",
+      "category": "Seated",
+      "level": "Beginner",
+      "holdSeconds": 90,
+      "image": {
+        "file": "janu-sirsasana.webp",
+        "alt": "Illustration of Head-to-Knee Pose"
+      },
+      "summary": "A seated forward fold over one extended leg, with the other foot drawn in.",
+      "breathTip": "Exhale to lengthen over the straight leg; inhale to grow tall again. Never round with violence.",
+      "steps": [
+        "Sit tall, extend the left leg long, and place the right sole against the inner left thigh.",
+        "Let the right knee fall open naturally (support it on a cushion if it floats high).",
+        "Inhale both arms up, exhale and hinge over the straight leg, holding shin, ankle or foot.",
+        "Keep the extended kneecap lifted and toes drawing back toward you.",
+        "Stay for 45–90 seconds, breathing into the back of the leg; switch sides."
+      ],
+      "benefits": [
+        "Stretches the back, hamstrings and calves, one side at a time",
+        "Encourages a slow, inward-turning pace",
+        "A calm pose before sitting or rest"
+      ],
+      "cautions": [
+        "Bend the straight knee generously if the hamstrings protest",
+        "Asthma or back injury — keep the torso raised, hold a strap around the foot",
+        "Never pull the head down by force; the fold comes from the hips",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.matsyasana",
+      "slug": "matsyasana",
+      "name": "Fish Pose",
+      "sanskrit": "मत्स्यासन",
+      "transliteration": "Matsyasana",
+      "category": "Supine",
+      "level": "Intermediate",
+      "holdSeconds": 30,
+      "image": {
+        "file": "matsyasana.webp",
+        "alt": "Illustration of Fish Pose"
+      },
+      "summary": "A gentle chest-opening pose lying on the back, often done after shoulder stand.",
+      "breathTip": "Breathe deep and slow into the lifted chest; the throat opening may feel unfamiliar at first.",
+      "steps": [
+        "Lie on the back, legs together or in Padmasana (the classical form).",
+        "Slide the hands palms-down beneath the hips, elbows close in.",
+        "Press the forearms and lift the chest high, letting the head tip back to touch the crown on the floor.",
+        "Keep almost no weight on the head — the lift must live in the chest.",
+        "Stay for 15–30 seconds, then lift the head before lowering, and rest."
+      ],
+      "benefits": [
+        "Opens the chest, throat and shoulders",
+        "Counters a rounded upper back from sitting",
+        "Stretches the front of the hips when the legs are extended"
+      ],
+      "cautions": [
+        "Avoid with neck injury, cervical spondylosis or migraine",
+        "Most weight belongs on the elbows, not the crown of the head",
+        "High or low blood pressure — keep the head lifted on a cushion instead",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.viparita-karani",
+      "slug": "viparita-karani",
+      "name": "Legs Up the Wall",
+      "sanskrit": "विपरीतकरणी",
+      "transliteration": "Viparita Karani",
+      "category": "Supine",
+      "level": "Beginner",
+      "holdSeconds": 300,
+      "image": {
+        "file": "viparita-karani.webp",
+        "alt": "Illustration of Legs Up the Wall"
+      },
+      "summary": "Legs resting up a wall, a supported, restful inversion also called Legs Up the Wall.",
+      "breathTip": "Natural, unhurried breathing — let the exhale grow a little longer with every minute.",
+      "steps": [
+        "Sit sideways against a wall, then swing the legs up as you lower the torso to the floor.",
+        "Scoot the hips close to the wall (a folded blanket under the hips adds softness).",
+        "Let the legs rest straight up, arms open to the sides or on the belly.",
+        "Close the eyes; stay 5–15 minutes, letting the legs be utterly heavy.",
+        "To leave, bend the knees, roll to the side and rest a breath before rising."
+      ],
+      "benefits": [
+        "A restful pose after a long day on your feet",
+        "Lets the legs and lower back relax",
+        "Easy to hold for several quiet minutes"
+      ],
+      "cautions": [
+        "Glaucoma or unmedicated hypertension — keep the hips low and legs lower",
+        "Menstruation traditionally calls for the hips to stay on the floor without elevation",
+        "Numbness or tingling: bend knees, feet on the wall instead",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.chakrasana",
+      "slug": "chakrasana",
+      "name": "Wheel Pose",
+      "sanskrit": "चक्रासन",
+      "transliteration": "Chakrasana (Urdhva Dhanurasana)",
+      "category": "Supine",
+      "level": "Advanced",
+      "holdSeconds": 20,
+      "image": {
+        "file": "chakrasana.webp",
+        "alt": "Illustration of Wheel Pose"
+      },
+      "summary": "The full wheel, or Urdhva Dhanurasana, a deep backbend lifting the whole body off the floor. Advanced, so learn it with a teacher and build up to it.",
+      "breathTip": "Keep the breath flowing steadily in the pose. The chest is already at full stretch.",
+      "steps": [
+        "Lie on the back, knees bent, heels drawn in close to the sitting bones.",
+        "Bend the elbows and place the palms flat beside the ears, fingers toward the shoulders.",
+        "Press into the feet and hands, and lift the hips first, then the chest, to crown of head (pause here if needed).",
+        "Straighten the arms fully and lift to the top of the head off the floor.",
+        "Stay for 10–20 seconds; tuck the chin and lower with control — crown, shoulders, hips — then hug the knees."
+      ],
+      "benefits": [
+        "Stretches the whole front of the body",
+        "Builds strength in the arms, legs and spine",
+        "A bold pose that asks for a thorough warm-up"
+      ],
+      "cautions": [
+        "Warm up shoulders and spine thoroughly — never enter cold",
+        "Avoid with back injury, carpal tunnel, heart conditions or recent surgery",
+        "Beginner's edge: practise bridge pose and shoulder-opening drills first",
+        "Come down slowly; rushing the exit strains the neck",
+        "In pregnancy, ask your health professional before practising this pose."
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    },
+    {
+      "id": "pose.bakasana",
+      "slug": "bakasana",
+      "name": "Crow Pose",
+      "sanskrit": "बकासन",
+      "transliteration": "Bakasana",
+      "category": "Balance",
+      "level": "Advanced",
+      "holdSeconds": 20,
+      "image": {
+        "file": "bakasana.webp",
+        "alt": "Illustration of Crow Pose"
+      },
+      "summary": "An arm balance with the knees resting on the upper arms, like a crow perched on its hands.",
+      "breathTip": "Short, steady breaths with the belly drawn in; the core, not the breath, holds you up here.",
+      "steps": [
+        "From a squat, place the palms flat shoulder-width, fingers spread wide.",
+        "Rise onto the toes, snuggle the knees onto the backs of the upper arms.",
+        "Lean forward, shifting weight into the hands — let one foot, then both, leave the floor.",
+        "Round the upper back, press the floor away, and draw the heels toward the hips.",
+        "Gaze slightly ahead of the fingertips; stay for 10–20 seconds and land softly back to the squat."
+      ],
+      "benefits": [
+        "Builds strength in the wrists, arms and core",
+        "Practises balance and body awareness",
+        "Teaches calm when you feel nervous about falling"
+      ],
+      "cautions": [
+        "Wrist or shoulder injury — practise the lifted variation on a block instead",
+        "Place a cushion in front of the face while learning; the fear lessens with padding",
+        "Pregnancy and carpal tunnel syndrome should skip this pose"
+      ],
+      "sources": [
+        {
+          "name": "B.K.S. Iyengar, Light on Yoga (1966)"
+        },
+        {
+          "name": "Yoga Journal, pose library",
+          "url": "https://www.yogajournal.com/poses/"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "mod.morning-surya-flow",
+      "slug": "morning-surya-flow",
+      "title": "Morning Surya Flow",
+      "description": "Awaken gently with a flowing sequence that warms the major muscle groups and sets a steady tone for the day.",
+      "level": "Beginner",
+      "timeOfDay": "Morning",
+      "focus": "Energy",
+      "steps": [
+        {
+          "title": "Wake-up breathing",
+          "seconds": 60,
+          "instruction": "Sit cross-legged, spine tall. Take five long breaths and set a quiet intention (sankalpa) for the day.",
+          "breath": "Inhale 4 · Exhale 6"
+        },
+        {
+          "title": "Mountain Pose",
+          "seconds": 60,
+          "instruction": "Stand tall, feet grounded, crown lifting. Feel the whole body arrive in the posture.",
+          "breath": "Slow, even breathing",
+          "pose": "tadasana"
+        },
+        {
+          "title": "Upward stretch",
+          "seconds": 45,
+          "instruction": "Inhale and sweep the arms overhead, interlacing the fingers. Press the palms up and lean gently right, then left, lengthening the side body.",
+          "breath": "Inhale up · Exhale side bend"
+        },
+        {
+          "title": "Standing Forward Bend",
+          "seconds": 60,
+          "instruction": "Exhale and fold forward from the hips. Let the head hang heavy, knees soft. Rise halfway on the breath, then fold again.",
+          "breath": "Exhale to fold · Inhale to lengthen",
+          "pose": "uttanasana"
+        },
+        {
+          "title": "Warrior I — right",
+          "seconds": 60,
+          "instruction": "Step the left foot back and bend the right knee. Raise the arms overhead and gaze forward with courage.",
+          "breath": "Steady ujjayi breathing",
+          "pose": "virabhadrasana-1"
+        },
+        {
+          "title": "Warrior II — right",
+          "seconds": 60,
+          "instruction": "Open the hips and arms to the side, gazing over the front fingertips. Let the legs burn gently and the breath stay calm.",
+          "breath": "Even 4-count breathing",
+          "pose": "virabhadrasana-2"
+        },
+        {
+          "title": "Downward Facing Dog",
+          "seconds": 75,
+          "instruction": "Step back and lift the hips into an inverted V. Pedal the feet, press the palms evenly and let the head hang.",
+          "breath": "Oceanic ujjayi breath",
+          "pose": "adho-mukha-svanasana"
+        },
+        {
+          "title": "Cobra Pose",
+          "seconds": 45,
+          "instruction": "Lower to the floor and rise into a gentle backbend, drawing the heart forward between the shoulders.",
+          "breath": "Inhale up · Exhale down",
+          "pose": "bhujangasana"
+        },
+        {
+          "title": "Child's Pose rest",
+          "seconds": 60,
+          "instruction": "Fold back onto the heels and rest the forehead down. Feel the warmth the flow has created.",
+          "breath": "Slow belly breathing",
+          "pose": "balasana"
+        },
+        {
+          "title": "Final stillness",
+          "seconds": 60,
+          "instruction": "Sit up, rub the palms warm and cup the eyes. Take three deep breaths together, then begin the day.",
+          "breath": "Three deep breaths"
+        }
+      ]
+    },
+    {
+      "id": "mod.beginner-foundation",
+      "slug": "beginner-foundation",
+      "title": "Beginner Foundation",
+      "description": "The essential first poses in one guided session, with simple alignment cues and an easy pace.",
+      "level": "Beginner",
+      "timeOfDay": "Anytime",
+      "focus": "Strength",
+      "steps": [
+        {
+          "title": "Centering in Easy Pose",
+          "seconds": 60,
+          "instruction": "Sit comfortably on a cushion, hands on the knees. Watch the breath without changing it for a minute.",
+          "breath": "Natural, quiet breathing",
+          "pose": "sukhasana"
+        },
+        {
+          "title": "Mountain Pose",
+          "seconds": 60,
+          "instruction": "Stand and find full-body alignment: feet even, thighs engaged, crown tall. This is the seed of every standing pose.",
+          "breath": "Slow and steady",
+          "pose": "tadasana"
+        },
+        {
+          "title": "Tree Pose — both sides",
+          "seconds": 90,
+          "instruction": "Root one foot and place the other sole to calf or thigh, palms at the heart. Gaze softly at one point. Switch sides halfway.",
+          "breath": "Calm breathing, soft gaze",
+          "pose": "vrikshasana"
+        },
+        {
+          "title": "Triangle Pose — both sides",
+          "seconds": 90,
+          "instruction": "Step wide, reach and fold sideways over the front leg, stacking the shoulders. Feel the whole side body breathe. Switch sides halfway.",
+          "breath": "5 slow breaths per side",
+          "pose": "trikonasana"
+        },
+        {
+          "title": "Thunderbolt sitting",
+          "seconds": 60,
+          "instruction": "Kneel and sit on the heels, spine tall, hands resting on the thighs. Notice how compact and steady the posture feels.",
+          "breath": "Deep belly breathing",
+          "pose": "vajrasana"
+        },
+        {
+          "title": "Cobra Pose — 3 rounds",
+          "seconds": 75,
+          "instruction": "Lie down and rise into a modest backbend three times, moving with the breath rather than forcing height.",
+          "breath": "Inhale up · Exhale down",
+          "pose": "bhujangasana"
+        },
+        {
+          "title": "Bridge Pose",
+          "seconds": 60,
+          "instruction": "Roll onto the back, bend the knees and lift the hips. Keep the thighs parallel and the jaw soft.",
+          "breath": "Inhale lift · Exhale lower",
+          "pose": "setu-bandhasana"
+        },
+        {
+          "title": "Supine twist",
+          "seconds": 60,
+          "instruction": "Hug the knees in and drop them gently to the right, arms wide, head to the left. Then switch sides.",
+          "breath": "Exhale deeper into the twist"
+        },
+        {
+          "title": "Corpse Pose",
+          "seconds": 180,
+          "instruction": "Let the whole body rest. Release the feet, the hands, the jaw. Allow the practice to settle like sediment in still water.",
+          "breath": "Breath breathing itself",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.stress-relief-calm",
+      "slug": "stress-relief-calm",
+      "title": "Slow and Settled",
+      "description": "A slow, floor-based sequence with long exhales and supported shapes for the end of a busy day.",
+      "level": "Beginner",
+      "timeOfDay": "Evening",
+      "focus": "Calm",
+      "steps": [
+        {
+          "title": "Long-exhale breathing",
+          "seconds": 90,
+          "instruction": "Sit or lie comfortably. Breathe in for 4 counts and out for 8. Let the exhale be a sigh you don't have to hold back.",
+          "breath": "Inhale 4 · Exhale 8"
+        },
+        {
+          "title": "Thunderbolt sitting",
+          "seconds": 60,
+          "instruction": "Kneel and sit back on the heels with a cushion if needed. Rest the hands low and soften the shoulders away from the ears.",
+          "breath": "Slow belly breaths",
+          "pose": "vajrasana"
+        },
+        {
+          "title": "Seated side stretch",
+          "seconds": 45,
+          "instruction": "Still kneeling, place the right palm on the floor and reach the left arm over the head, curving gently right. Switch sides halfway.",
+          "breath": "Breathe into the open side"
+        },
+        {
+          "title": "Child's Pose — supported",
+          "seconds": 120,
+          "instruction": "Fold forward, knees wide, arms long or folded under the forehead. Let the back widen like a leaf with every breath.",
+          "breath": "Breathe into the back ribs",
+          "pose": "balasana"
+        },
+        {
+          "title": "Seated Forward Bend",
+          "seconds": 90,
+          "instruction": "Extend the legs and fold halfway — elbows on the floor, head heavy. Rest here; there is nothing to reach.",
+          "breath": "Exhale to soften",
+          "pose": "paschimottanasana"
+        },
+        {
+          "title": "Half Lord of the Fishes — both sides",
+          "seconds": 90,
+          "instruction": "Twist gently, one side then the other, wringing out the day's accumulated tension with each exhale.",
+          "breath": "Inhale tall · Exhale twist",
+          "pose": "ardha-matsyendrasana"
+        },
+        {
+          "title": "Bridge Pose — gentle",
+          "seconds": 60,
+          "instruction": "Lie back and lift the hips only halfway. Let the pose be a soft arc, not a performance.",
+          "breath": "Long, slow breathing",
+          "pose": "setu-bandhasana"
+        },
+        {
+          "title": "Legs up the wall",
+          "seconds": 120,
+          "instruction": "Slide the legs up a wall or rest the calves on a chair seat. Arms wide, palms up. Let gravity do the resting.",
+          "breath": "Natural, fading breath",
+          "pose": "viparita-karani"
+        },
+        {
+          "title": "Corpse Pose with scan",
+          "seconds": 180,
+          "instruction": "Lie flat. Move awareness slowly from crown to toes, releasing each region. End by resting in the silence after the last exhale.",
+          "breath": "Breath breathing itself",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.flexibility-journey",
+      "slug": "flexibility-journey",
+      "title": "Flexibility Journey",
+      "description": "Lengthen the back, sides, hips and shoulders with patient, breath-led stretching.",
+      "level": "Beginner",
+      "timeOfDay": "Anytime",
+      "focus": "Flexibility",
+      "steps": [
+        {
+          "title": "Warm-up circles",
+          "seconds": 60,
+          "instruction": "Stand and circle the shoulders, wrists, hips and knees. Warm tissue stretches; cold tissue complains.",
+          "breath": "Easy breathing"
+        },
+        {
+          "title": "Standing Forward Bend — 3 rounds",
+          "seconds": 90,
+          "instruction": "Fold and rise three times: first round knees bent, second fingertips to shins, third wherever the body honestly reaches.",
+          "breath": "Exhale deeper each round",
+          "pose": "uttanasana"
+        },
+        {
+          "title": "Downward Facing Dog",
+          "seconds": 75,
+          "instruction": "Pedal the heels slowly, bend one knee as the other straightens, alternating for the full hold.",
+          "breath": "Steady ujjayi",
+          "pose": "adho-mukha-svanasana"
+        },
+        {
+          "title": "Triangle Pose — both sides",
+          "seconds": 90,
+          "instruction": "Stay with each side, long and low, reaching through both fingertips as if pulled by two ropes. Switch sides halfway.",
+          "breath": "5–6 breaths per side",
+          "pose": "trikonasana"
+        },
+        {
+          "title": "Seated Forward Bend",
+          "seconds": 120,
+          "instruction": "Fold over extended legs, holding feet or shins. Every exhale, lengthen the spine first, then soften.",
+          "breath": "Inhale long spine · Exhale fold",
+          "pose": "paschimottanasana"
+        },
+        {
+          "title": "Half Lord of the Fishes — both sides",
+          "seconds": 90,
+          "instruction": "Twist each side with the spine long. Imagine the breath rinsing the space between the vertebrae.",
+          "breath": "Exhale to rotate",
+          "pose": "ardha-matsyendrasana"
+        },
+        {
+          "title": "Dragonfly side leans",
+          "seconds": 90,
+          "instruction": "Sit with legs wide, walk the hands toward the centre, then lean over each leg in turn, breathing into the inner thigh.",
+          "breath": "Long exhales into the stretch"
+        },
+        {
+          "title": "Supine hamstring stretch",
+          "seconds": 90,
+          "instruction": "Lie back, loop a strap or towel around one foot and extend the leg toward the ceiling, knee soft. Switch legs halfway.",
+          "breath": "Exhale the leg a little closer"
+        },
+        {
+          "title": "Corpse Pose",
+          "seconds": 150,
+          "instruction": "Rest flat and let the new length settle into the body's memory. Openness on the mat becomes openness in life.",
+          "breath": "Completely natural",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.bedtime-wind-down",
+      "slug": "bedtime-wind-down",
+      "title": "Bedtime Wind-Down",
+      "description": "A dim, slow, floor-based sequence to close the day, with gentle folds and a long rest.",
+      "level": "Beginner",
+      "timeOfDay": "Evening",
+      "focus": "Sleep",
+      "steps": [
+        {
+          "title": "Unwind breathing",
+          "seconds": 90,
+          "instruction": "Sit on the bed or mat. Breathe in through the nose for 4, out through the mouth for 8, three times, then breathe only through the nose.",
+          "breath": "Inhale 4 · Sigh out 8"
+        },
+        {
+          "title": "Thunderbolt sitting — slow",
+          "seconds": 60,
+          "instruction": "Kneel back onto the heels, eyes closed. Let the day's events pass like clouds; follow none of them.",
+          "breath": "Slow, even, silent",
+          "pose": "vajrasana"
+        },
+        {
+          "title": "Neck & shoulder release",
+          "seconds": 60,
+          "instruction": "Drop the right ear to the right shoulder and breathe; then left; then roll the shoulders slowly backward.",
+          "breath": "Exhale as the muscles release"
+        },
+        {
+          "title": "Child's Pose — long hold",
+          "seconds": 120,
+          "instruction": "Fold forward with knees wide and forehead down. Feel the breath move the lower back like a tide.",
+          "breath": "Breathe into the back body",
+          "pose": "balasana"
+        },
+        {
+          "title": "Gentle Seated Forward Bend",
+          "seconds": 90,
+          "instruction": "Extend the legs and rest forward over a cushion or bolster. Support the head so the neck does nothing.",
+          "breath": "Slow fading breath",
+          "pose": "paschimottanasana"
+        },
+        {
+          "title": "Supine twist — both sides",
+          "seconds": 90,
+          "instruction": "Lie back and let the knees fall gently side to side, head opposite. Unwind the spine like a ribbon.",
+          "breath": "Exhale into each twist"
+        },
+        {
+          "title": "Corpse Pose — yoga nidra light",
+          "seconds": 240,
+          "instruction": "Lie flat, blanket over the body. Move awareness crown to toes once, then let the awareness itself dissolve. If sleep comes — accept it.",
+          "breath": "Breath breathing itself",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.core-fire-vinyasa",
+      "slug": "core-fire-vinyasa",
+      "title": "Core Fire Vinyasa",
+      "description": "A strong flow that builds from the belly outward: sun salutations, boat, warriors, crow attempts and wheel. Come warmed up.",
+      "level": "Advanced",
+      "timeOfDay": "Morning",
+      "focus": "Strength",
+      "steps": [
+        {
+          "title": "Seated centering",
+          "seconds": 120,
+          "instruction": "Sit tall in an easy seat. Take several easy breaths, set an intention for a steady practice, then three slow breaths to settle.",
+          "breath": "Natural, even breathing",
+          "pose": "sukhasana"
+        },
+        {
+          "title": "Sun salutations ×4",
+          "seconds": 240,
+          "instruction": "Full vinyasa rounds with low, slow chaturangas. Let each round be a little more precise than the last.",
+          "breath": "One breath, one movement"
+        },
+        {
+          "title": "Boat circuit ×2",
+          "seconds": 120,
+          "instruction": "Navasana to half-lower and back, twice through. Legs and spine long; the low back stays honest.",
+          "breath": "Steady through effort"
+        },
+        {
+          "title": "Warrior circuit — right",
+          "seconds": 150,
+          "instruction": "Warrior I to II to side angle, 5 breaths each, hips sinking low and breath staying wide.",
+          "breath": "Steady ujjayi",
+          "pose": "virabhadrasana-1"
+        },
+        {
+          "title": "Warrior circuit — left",
+          "seconds": 150,
+          "instruction": "The mirrored circuit. Anchor the back heel; light up the standing leg.",
+          "breath": "Steady ujjayi",
+          "pose": "virabhadrasana-2"
+        },
+        {
+          "title": "Crow Pose — attempts",
+          "seconds": 180,
+          "instruction": "Three crow attempts with rests between: 3, 5 and 8 breaths. Cushion before the face; courage in the belly.",
+          "breath": "Short and steady",
+          "pose": "bakasana"
+        },
+        {
+          "title": "Wheel Pose ×2",
+          "seconds": 120,
+          "instruction": "Two full lifts, 5 breaths each, knees hugging between. Bridge is always an honourable variation.",
+          "breath": "Steady belly breaths",
+          "pose": "chakrasana"
+        },
+        {
+          "title": "Twist & fold counter",
+          "seconds": 120,
+          "instruction": "Seated twist each side, then a long forward fold to pour cool water on the fire.",
+          "breath": "Exhale twist · Exhale fold",
+          "pose": "paschimottanasana"
+        },
+        {
+          "title": "Shavasana",
+          "seconds": 240,
+          "instruction": "Four minutes of complete stillness — the fire settles into warmth.",
+          "breath": "Natural",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.inversion-path",
+      "slug": "inversion-path",
+      "title": "Inversion Path",
+      "description": "A measured walk toward inversions, from legs up the wall to shoulder stand, with wall-supported options at each step.",
+      "level": "Advanced",
+      "timeOfDay": "Evening",
+      "focus": "Calm",
+      "steps": [
+        {
+          "title": "Settle & breathe",
+          "seconds": 120,
+          "instruction": "Lie back with knees bent. Twelve slow breaths, exhale longer than inhale, preparing the neck and mind.",
+          "breath": "In 4 · Out 7"
+        },
+        {
+          "title": "Bridge — preparation",
+          "seconds": 90,
+          "instruction": "Two bridges, lifting hips and chest, shoulders tucking under. Wake the upper back that will hold you.",
+          "breath": "Inhale lift · Exhale lower",
+          "pose": "setu-bandhasana"
+        },
+        {
+          "title": "Legs Up the Wall",
+          "seconds": 180,
+          "instruction": "Three minutes with legs rising — the gentlest inversion and the best teacher of letting go.",
+          "breath": "Natural",
+          "pose": "viparita-karani"
+        },
+        {
+          "title": "Shoulder Stand",
+          "seconds": 180,
+          "instruction": "From bridge, support the back with the hands, elbows shoulder-width. Legs rise quiet and vertical. Never turn the head.",
+          "breath": "Even and soft",
+          "pose": "sarvangasana"
+        },
+        {
+          "title": "Plough Pose",
+          "seconds": 120,
+          "instruction": "Lower the toes to the floor behind, hips stacked over shoulders. Stay for 8 breaths, arms pressing down.",
+          "breath": "Slow, unhurried",
+          "pose": "sarvangasana"
+        },
+        {
+          "title": "Fish Pose — counter",
+          "seconds": 60,
+          "instruction": "Release the throat and chest after the inversion. Crown light, weight in elbows.",
+          "breath": "Deep into chest",
+          "pose": "matsyasana"
+        },
+        {
+          "title": "Twist counter",
+          "seconds": 90,
+          "instruction": "Supine twist each side, knees falling heavy, shoulders staying home.",
+          "breath": "Exhale twist"
+        },
+        {
+          "title": "Shavasana",
+          "seconds": 300,
+          "instruction": "Five minutes of integration. The body has seen its own reflection in stillness — let it look a while longer.",
+          "breath": "Natural",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.deep-opening-evening",
+      "slug": "deep-opening-evening",
+      "title": "Deep Opening Evening",
+      "description": "A long, quiet evening sequence for hips and hamstrings. Long stays, props welcome, no force.",
+      "level": "Advanced",
+      "timeOfDay": "Evening",
+      "focus": "Flexibility",
+      "steps": [
+        {
+          "title": "Long exhale settle",
+          "seconds": 120,
+          "instruction": "Any comfortable seat. In 4 · Out 8 for ten rounds — the nervous system shifts gear before the body does.",
+          "breath": "In 4 · Out 8"
+        },
+        {
+          "title": "Half lotus preparation — both",
+          "seconds": 180,
+          "instruction": "Ankle cradles and figure-four circles. The knee is sacred — no force, ever, in either direction.",
+          "breath": "Slow"
+        },
+        {
+          "title": "Full pigeon — right",
+          "seconds": 180,
+          "instruction": "Shin forward, hips square, forehead toward the bolster. Three minutes of breathing into the deep glute.",
+          "breath": "Slow and deep"
+        },
+        {
+          "title": "Full pigeon — left",
+          "seconds": 180,
+          "instruction": "The other hip's own story. Same care, same patience.",
+          "breath": "Slow and deep"
+        },
+        {
+          "title": "Deep seated twist — both",
+          "seconds": 150,
+          "instruction": "Half Lord of the Fishes at full depth, spine lengthening on every inhale, twisting on every exhale.",
+          "breath": "Exhale twist",
+          "pose": "ardha-matsyendrasana"
+        },
+        {
+          "title": "Wide-legged dragonfly",
+          "seconds": 180,
+          "instruction": "Legs wide, walk the hands forward, chest lowering. Centre, then each side — long, silent holds.",
+          "breath": "Even"
+        },
+        {
+          "title": "Seated Forward Bend",
+          "seconds": 150,
+          "instruction": "The week's folds gather here. Hold the feet, forehead toward the shins, back body wide with breath.",
+          "breath": "Exhale fold",
+          "pose": "paschimottanasana"
+        },
+        {
+          "title": "Legs Up the Wall",
+          "seconds": 240,
+          "instruction": "Reverse the day. Four minutes of light, heavy legs.",
+          "breath": "Natural",
+          "pose": "viparita-karani"
+        },
+        {
+          "title": "Shavasana",
+          "seconds": 300,
+          "instruction": "Five minutes of complete release. The deepest flexibility is surrender.",
+          "breath": "Natural",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.restful-reset",
+      "slug": "restful-reset",
+      "title": "Restful Reset",
+      "description": "A short, restful session for a lighter day: a fold, legs up the wall and a long rest.",
+      "level": "Beginner",
+      "timeOfDay": "Anytime",
+      "focus": "Calm",
+      "steps": [
+        {
+          "title": "Settle in",
+          "seconds": 60,
+          "instruction": "Sit comfortably and let the breath settle. Notice where the body is holding on.",
+          "breath": "Natural, quiet breathing",
+          "pose": "sukhasana"
+        },
+        {
+          "title": "Child's Pose",
+          "seconds": 120,
+          "instruction": "Fold forward with the knees wide and the forehead resting down. Let the back widen with each breath.",
+          "breath": "Breathe into the back ribs",
+          "pose": "balasana"
+        },
+        {
+          "title": "Legs up the wall",
+          "seconds": 150,
+          "instruction": "Rest the legs up a wall or on a chair seat, arms wide, palms up.",
+          "breath": "Natural, unhurried breathing",
+          "pose": "viparita-karani"
+        },
+        {
+          "title": "Corpse Pose",
+          "seconds": 180,
+          "instruction": "Lie flat and release the feet, the hands and the jaw.",
+          "breath": "Let the breath move by itself",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.standing-strength",
+      "slug": "standing-strength",
+      "title": "Standing Strength",
+      "description": "A steady standing sequence of chair, warrior, side angle and balance poses, both sides each.",
+      "level": "Intermediate",
+      "timeOfDay": "Anytime",
+      "focus": "Strength",
+      "steps": [
+        {
+          "title": "Centering",
+          "seconds": 60,
+          "instruction": "Sit tall in an easy seat and take several slow breaths.",
+          "breath": "Natural, even breathing",
+          "pose": "sukhasana"
+        },
+        {
+          "title": "Mountain Pose",
+          "seconds": 45,
+          "instruction": "Stand tall and feel the weight even through both feet.",
+          "breath": "Slow and steady",
+          "pose": "tadasana"
+        },
+        {
+          "title": "Chair Pose",
+          "seconds": 60,
+          "instruction": "Bend the knees and sit back, arms overhead, chest lifted.",
+          "breath": "Steady breathing",
+          "pose": "uttkatasana"
+        },
+        {
+          "title": "Warrior I, both sides",
+          "seconds": 100,
+          "instruction": "Step back into a lunge with the arms overhead. Switch sides halfway.",
+          "breath": "Steady ujjayi breathing",
+          "pose": "virabhadrasana-1"
+        },
+        {
+          "title": "Warrior II, both sides",
+          "seconds": 100,
+          "instruction": "Open the hips and arms, gazing over the front hand. Switch sides halfway.",
+          "breath": "Even 4-count breathing",
+          "pose": "virabhadrasana-2"
+        },
+        {
+          "title": "Extended Side Angle, both sides",
+          "seconds": 100,
+          "instruction": "Rest the forearm on the thigh and reach the top arm over the ear. Switch sides halfway.",
+          "breath": "Inhale to lengthen, exhale to turn the chest",
+          "pose": "parsvakonasana"
+        },
+        {
+          "title": "Warrior III, both sides",
+          "seconds": 60,
+          "instruction": "Hinge forward and lift the back leg, keeping the standing knee soft. Switch sides halfway.",
+          "breath": "Small, even breaths",
+          "pose": "virabhadrasana-3"
+        },
+        {
+          "title": "Eagle Pose, both sides",
+          "seconds": 70,
+          "instruction": "Wrap the arms and legs and sink into a small squat. Switch sides halfway.",
+          "breath": "Breathe into the upper back",
+          "pose": "garudasana"
+        },
+        {
+          "title": "Standing Forward Bend",
+          "seconds": 45,
+          "instruction": "Fold forward from the hips and let the head hang.",
+          "breath": "Exhale to fold",
+          "pose": "uttanasana"
+        },
+        {
+          "title": "Corpse Pose",
+          "seconds": 150,
+          "instruction": "Lie flat and let the effort drain away.",
+          "breath": "Completely natural",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.hips-and-twists",
+      "slug": "hips-and-twists",
+      "title": "Hips and Twists",
+      "description": "An evening session of seated folds, hip openers and twists, ending with legs up the wall.",
+      "level": "Intermediate",
+      "timeOfDay": "Evening",
+      "focus": "Flexibility",
+      "steps": [
+        {
+          "title": "Bound Angle Pose",
+          "seconds": 120,
+          "instruction": "Sit with the soles of the feet together and the knees falling open. Sit on a folded blanket if the hips are tight.",
+          "breath": "Long, soft breaths",
+          "pose": "baddha-konasana"
+        },
+        {
+          "title": "Cat-Cow Flow",
+          "seconds": 90,
+          "instruction": "On hands and knees, arch and round the spine slowly with the breath.",
+          "breath": "Inhale to arch, exhale to round",
+          "pose": "marjaryasana"
+        },
+        {
+          "title": "Head-to-Knee Pose, both sides",
+          "seconds": 120,
+          "instruction": "Fold over one extended leg at a time. Switch sides halfway.",
+          "breath": "Exhale to lengthen over the leg",
+          "pose": "janu-sirsasana"
+        },
+        {
+          "title": "Half Lord of the Fishes, both sides",
+          "seconds": 100,
+          "instruction": "Sit tall and twist gently from the belly. Switch sides halfway.",
+          "breath": "Inhale tall, exhale twist",
+          "pose": "ardha-matsyendrasana"
+        },
+        {
+          "title": "Seated Forward Bend",
+          "seconds": 90,
+          "instruction": "Fold over both legs, bending the knees as much as you need.",
+          "breath": "Exhale to soften",
+          "pose": "paschimottanasana"
+        },
+        {
+          "title": "Bridge Pose",
+          "seconds": 60,
+          "instruction": "Lift the hips with the feet hip-width apart.",
+          "breath": "Inhale lift, exhale lower",
+          "pose": "setu-bandhasana"
+        },
+        {
+          "title": "Legs up the wall",
+          "seconds": 120,
+          "instruction": "Rest the legs up the wall and let the arms fall wide.",
+          "breath": "Natural, unhurried breathing",
+          "pose": "viparita-karani"
+        },
+        {
+          "title": "Corpse Pose",
+          "seconds": 180,
+          "instruction": "Lie flat and let everything rest.",
+          "breath": "Completely natural",
+          "pose": "shavasana"
+        }
+      ]
+    },
+    {
+      "id": "mod.balance-and-focus",
+      "slug": "balance-and-focus",
+      "title": "Balance and Focus",
+      "description": "A morning session of one-legged balances and a steady gaze, with a long rest to finish.",
+      "level": "Intermediate",
+      "timeOfDay": "Morning",
+      "focus": "Calm",
+      "steps": [
+        {
+          "title": "Centering",
+          "seconds": 60,
+          "instruction": "Sit tall and take slow, even breaths.",
+          "breath": "Natural, quiet breathing",
+          "pose": "sukhasana"
+        },
+        {
+          "title": "Mountain Pose",
+          "seconds": 60,
+          "instruction": "Stand tall with the weight even through both feet.",
+          "breath": "Slow and steady",
+          "pose": "tadasana"
+        },
+        {
+          "title": "Tree Pose, both sides",
+          "seconds": 90,
+          "instruction": "Root one foot and rest the other sole on the calf or thigh. Gaze at one point. Switch sides halfway.",
+          "breath": "Calm breathing, soft gaze",
+          "pose": "vrikshasana"
+        },
+        {
+          "title": "Eagle Pose, both sides",
+          "seconds": 70,
+          "instruction": "Wrap the arms and legs and settle into a small squat. Switch sides halfway.",
+          "breath": "Breathe into the upper back",
+          "pose": "garudasana"
+        },
+        {
+          "title": "Warrior III, both sides",
+          "seconds": 60,
+          "instruction": "Hinge forward and lift the back leg, keeping the standing knee soft. Switch sides halfway.",
+          "breath": "Small, even breaths",
+          "pose": "virabhadrasana-3"
+        },
+        {
+          "title": "Chair Pose",
+          "seconds": 45,
+          "instruction": "Sit back into the invisible chair, arms overhead.",
+          "breath": "Steady breathing",
+          "pose": "uttkatasana"
+        },
+        {
+          "title": "Standing Forward Bend",
+          "seconds": 45,
+          "instruction": "Fold forward and let the head hang.",
+          "breath": "Exhale to fold",
+          "pose": "uttanasana"
+        },
+        {
+          "title": "Child's Pose",
+          "seconds": 90,
+          "instruction": "Fold forward on the knees and rest the forehead down.",
+          "breath": "Breathe into the back ribs",
+          "pose": "balasana"
+        },
+        {
+          "title": "Corpse Pose",
+          "seconds": 150,
+          "instruction": "Lie flat and release the body.",
+          "breath": "Let the breath move by itself",
+          "pose": "shavasana"
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "prog.beginner-7",
+      "title": "First Steps",
+      "level": "Beginner",
+      "description": "Seven days of short sessions that introduce the basic poses and end with rest. About 10 to 15 minutes a day.",
+      "days": [
+        {
+          "day": 1,
+          "module": "beginner-foundation",
+          "name": "Foundation"
+        },
+        {
+          "day": 2,
+          "module": "morning-surya-flow",
+          "name": "Warmth"
+        },
+        {
+          "day": 3,
+          "module": "restful-reset",
+          "name": "Rest"
+        },
+        {
+          "day": 4,
+          "module": "flexibility-journey",
+          "name": "Opening"
+        },
+        {
+          "day": 5,
+          "module": "stress-relief-calm",
+          "name": "Settling"
+        },
+        {
+          "day": 6,
+          "module": "morning-surya-flow",
+          "name": "Energy"
+        },
+        {
+          "day": 7,
+          "module": "bedtime-wind-down",
+          "name": "Wind down"
+        }
+      ]
+    },
+    {
+      "id": "prog.intermediate-14",
+      "title": "Steady Practice",
+      "level": "Intermediate",
+      "description": "Fourteen days that build standing strength, balance and hip movement, with a rest day each week.",
+      "days": [
+        {
+          "day": 1,
+          "module": "standing-strength",
+          "name": "Strength"
+        },
+        {
+          "day": 2,
+          "module": "hips-and-twists",
+          "name": "Hips"
+        },
+        {
+          "day": 3,
+          "module": "balance-and-focus",
+          "name": "Balance"
+        },
+        {
+          "day": 4,
+          "module": "restful-reset",
+          "name": "Rest"
+        },
+        {
+          "day": 5,
+          "module": "flexibility-journey",
+          "name": "Opening"
+        },
+        {
+          "day": 6,
+          "module": "morning-surya-flow",
+          "name": "Warmth"
+        },
+        {
+          "day": 7,
+          "module": "bedtime-wind-down",
+          "name": "Wind down"
+        },
+        {
+          "day": 8,
+          "module": "standing-strength",
+          "name": "Strength"
+        },
+        {
+          "day": 9,
+          "module": "balance-and-focus",
+          "name": "Balance"
+        },
+        {
+          "day": 10,
+          "module": "hips-and-twists",
+          "name": "Hips"
+        },
+        {
+          "day": 11,
+          "module": "restful-reset",
+          "name": "Rest"
+        },
+        {
+          "day": 12,
+          "module": "morning-surya-flow",
+          "name": "Warmth"
+        },
+        {
+          "day": 13,
+          "module": "flexibility-journey",
+          "name": "Opening"
+        },
+        {
+          "day": 14,
+          "module": "bedtime-wind-down",
+          "name": "Wind down"
+        }
+      ]
+    },
+    {
+      "id": "prog.advanced-21",
+      "title": "Deep Practice",
+      "level": "Advanced",
+      "description": "Twenty-one days for people with a regular practice: strong flows, inversions and long evening openers, with rest days. Ideally with an experienced teacher.",
+      "days": [
+        {
+          "day": 1,
+          "module": "core-fire-vinyasa",
+          "name": "Flow"
+        },
+        {
+          "day": 2,
+          "module": "standing-strength",
+          "name": "Strength"
+        },
+        {
+          "day": 3,
+          "module": "hips-and-twists",
+          "name": "Hips"
+        },
+        {
+          "day": 4,
+          "module": "restful-reset",
+          "name": "Rest"
+        },
+        {
+          "day": 5,
+          "module": "inversion-path",
+          "name": "Inversions"
+        },
+        {
+          "day": 6,
+          "module": "deep-opening-evening",
+          "name": "Opening"
+        },
+        {
+          "day": 7,
+          "module": "bedtime-wind-down",
+          "name": "Wind down"
+        },
+        {
+          "day": 8,
+          "module": "core-fire-vinyasa",
+          "name": "Flow"
+        },
+        {
+          "day": 9,
+          "module": "balance-and-focus",
+          "name": "Balance"
+        },
+        {
+          "day": 10,
+          "module": "deep-opening-evening",
+          "name": "Opening"
+        },
+        {
+          "day": 11,
+          "module": "restful-reset",
+          "name": "Rest"
+        },
+        {
+          "day": 12,
+          "module": "inversion-path",
+          "name": "Inversions"
+        },
+        {
+          "day": 13,
+          "module": "standing-strength",
+          "name": "Strength"
+        },
+        {
+          "day": 14,
+          "module": "bedtime-wind-down",
+          "name": "Wind down"
+        },
+        {
+          "day": 15,
+          "module": "core-fire-vinyasa",
+          "name": "Flow"
+        },
+        {
+          "day": 16,
+          "module": "hips-and-twists",
+          "name": "Hips"
+        },
+        {
+          "day": 17,
+          "module": "inversion-path",
+          "name": "Inversions"
+        },
+        {
+          "day": 18,
+          "module": "restful-reset",
+          "name": "Rest"
+        },
+        {
+          "day": 19,
+          "module": "deep-opening-evening",
+          "name": "Opening"
+        },
+        {
+          "day": 20,
+          "module": "morning-surya-flow",
+          "name": "Warmth"
+        },
+        {
+          "day": 21,
+          "module": "bedtime-wind-down",
+          "name": "Wind down"
+        }
+      ]
+    }
+  ]
+}

@@ -35,12 +35,15 @@ export function TodayView({
   window,
   buildDate,
   plan,
+  verse,
 }: {
   observances: Observance[];
   window: { from: string; to: string };
   buildDate: string;
   /** Dev-2's 3-step plan (CR-D2-08, FR-3.2), rendered under the panchang card. */
   plan?: React.ReactNode;
+  /** Verse of the day (D-026 Wave C), rendered under the plan. */
+  verse?: React.ReactNode;
 }) {
   const { t, locale } = useI18n();
   const day = useLocalDay(buildDate);
@@ -108,6 +111,8 @@ export function TodayView({
       </section>
 
       {plan}
+
+      {verse}
 
       <section aria-labelledby="upcoming-title">
         <h2 id="upcoming-title" className="mb-2">
