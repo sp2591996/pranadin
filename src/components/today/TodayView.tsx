@@ -6,6 +6,7 @@ import type { Observance } from "@/content/load";
 import { Mandala } from "@/components/Mandala";
 import { EnglishMark, ObservanceBody, ObservanceName } from "@/components/ObservanceBody";
 import { useLocalDay } from "@/components/useLocalDay";
+import { cityName } from "@/lib/cities";
 import { useI18n } from "@/i18n/client";
 import { formatDateKey, formatTime } from "@/i18n/format";
 import { nakshatraKey, tithiKey, type MessageKey } from "@/i18n/keys";
@@ -80,7 +81,7 @@ export function TodayView({
         className="min-h-[248px] rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-4"
       >
         <h2 id="panchang-title" className="sr-only">
-          {t("cal.day.panchangFor", { city: city.name })}
+          {t("cal.day.panchangFor", { city: cityName(city, locale) })}
         </h2>
         {p && (
           <>
@@ -99,7 +100,7 @@ export function TodayView({
             <p className="mt-3 text-small text-text-muted">{t("today.panchang.indicative")}</p>
             <p className="mt-1 flex flex-wrap gap-x-4 text-small">
               <Link href={routes.settings(locale)} className="inline-flex min-h-11 items-center text-primary underline underline-offset-2">
-                {day.citySet ? t("today.panchang.city", { city: city.name }) : t("today.panchang.defaultCity")}
+                {day.citySet ? t("today.panchang.city", { city: cityName(city, locale) }) : t("today.panchang.defaultCity")}
               </Link>
               <Link href={routes.calendar(locale)} className="inline-flex min-h-11 items-center text-primary underline underline-offset-2">
                 {t("cal.title")}

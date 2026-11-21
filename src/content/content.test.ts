@@ -11,6 +11,7 @@ import { formatMessage } from "@/i18n/format";
 import { CONTENT_DIR, loadMessages, loadObservances, loadTrustPage, localizeObservance } from "./load";
 import { observancesDataSchema, observancesTextSchema, observancesTranslationSchema, uiEnSchema, uiTranslationSchema } from "./schema";
 import { TRUST_PAGE_FILES } from "@/lib/routes";
+import { FALLBACK_STRINGS } from "@/features/shared/fallback-strings";
 
 const read = (rel: string) => JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, rel), "utf8").replace(/^﻿/, "")) as unknown;
 const present = (rel: string) => fs.existsSync(path.join(CONTENT_DIR, rel));
@@ -25,7 +26,7 @@ describe("UI strings", () => {
     it.runIf(present(`${l}/ui.json`))(`content/${l}/ui.json is valid and uses only English keys`, () => {
       const data = read(`${l}/ui.json`);
       expect(issues(uiTranslationSchema.safeParse(data))).toEqual([]);
-      const en = Object.keys((read("en/ui.json") as { strings: object }).strings);
+      const en = [...Object.keys((read("en/ui.json") as { strings: object }).strings), ...Object.keys(FALLBACK_STRINGS)];
       const extra = Object.keys((data as { strings: object }).strings).filter((k) => !en.includes(k));
       expect(extra).toEqual([]);
     });
@@ -102,8 +103,8 @@ describe("observance per-field fallback (D-008)", () => {
   it("uses both fields when both are reviewed and translated", () => {
     expect(localizeObservance(en, { name: "तुलसी विवाह", note: "हिंदी", reviewed: true }, "hi")).toMatchObject({ noteLang: "hi", fellBack: false });
   });
-  it("ignores unreviewed items entirely", () => {
-    expect(localizeObservance(en, { name: "तुलसी विवाह", note: "हिंदी" }, "hi")).toMatchObject({ name: "Tulsi Vivah", lang: "en", fellBack: true });
+  it("shows unreviewed drafts too (D-030)", () => {
+    expect(localizeObservance(en, { name: "तुलसी विवाह", note: "हिंदी", reviewed: false }, "hi")).toMatchObject({ name: "तुलसी विवाह", lang: "hi", noteLang: "hi", fellBack: false });
   });
   it("accepts a translation file whose items have no note", () => {
     const file = { $schema: "pranadin-content/1.0", namespace: "observances", lang: "hi", version: "x", status: "final", items: { a: { name: "क", reviewed: true } } };
@@ -119,8 +120,19 @@ describe("trust pages", () => {
     expect(page!.markdown).not.toMatch(/^>/m); // Legal's internal header is stripped
   });
 
-  it("hi/mr fall back to English Legal pages", () => {
-    const page = loadTrustPage("hi", "privacy");
-    expect(page).toMatchObject({ lang: "en", fellBack: true });
+  it.each(["hi", "mr"] as const)("%s has every trust page, shown as a draft with an official-English line (D-030)", (l) => {
+    for (const [, file] of Object.entries(TRUST_PAGE_FILES).filter(([, f]) => f)) {
+      const page = loadTrustPage(l, file!);
+      expect(page, `${l} ${file}`).toMatchObject({ lang: l, fellBack: false });
+      expect(page!.markdown, `${l} ${file}`).toMatch(/^>/m);
+    }
+  });
+});
+
+describe("translation gaps (D-030)", () => {
+  it("every English item has Hindi and Marathi text (npm run content:gaps)", async () => {
+    const { execFileSync } = await import("node:child_process");
+    const out = execFileSync(process.execPath, ["scripts/content-gaps.mjs"], { cwd: process.cwd(), encoding: "utf8" });
+    expect(out.match(/TOTAL (\d+)/g)).toEqual(["TOTAL 0", "TOTAL 0"]);
   });
 });

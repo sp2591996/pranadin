@@ -15,7 +15,7 @@ import { readTextSize, TEXT_SIZE_PERCENT, TEXT_SIZES, writeTextSize, type TextSi
 import { useS } from "@/features/shared/strings";
 import { useDeviceValue } from "@/features/shared/use-device";
 import { btn, card, ConfirmDialog, Status } from "@/features/shared/ui";
-import { CITIES } from "@/lib/cities";
+import { CITIES, cityName, getCity } from "@/lib/cities";
 import { routes, TRUST_PAGES } from "@/lib/routes";
 import { clearAllData, DEFAULT_PREFS, getPrefs, getStorage } from "@/lib/storage";
 import { GOALS, PLAN_MINUTES, TIME_SLOTS, type JournalEntry, type Prefs, type ThemePref } from "@/lib/types";
@@ -140,10 +140,10 @@ export function Settings({ journal }: { journal: JournalContent }) {
           onChange={(e) => save({ cityId: e.target.value || null })}
           className="min-h-12 rounded-md border border-border-input bg-surface px-3 text-text"
         >
-          <option value="">New Delhi (default)</option>
+          <option value="">{t("me.cityDefault", { city: cityName(getCity(null), locale) })}</option>
           {CITIES.map((c) => (
             <option key={c.id} value={c.id}>
-              {c.name}
+              {cityName(c, locale)}
             </option>
           ))}
         </select>

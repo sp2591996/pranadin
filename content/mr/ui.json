@@ -4,8 +4,8 @@
   "lang": "mr",
   "version": "2026-11-14.1",
   "status": "final",
-  "note": "Board-approved translations only (D-012). Anything missing shows in English.",
-  "count": 307,
+  "note": "Board-approved strings have reviewed: true. Draft translations (reviewed: false) are shown too (D-030) until the Board reviews them.",
+  "count": 687,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -1848,6 +1848,1526 @@
       "reviewed": false,
       "reviewer": null,
       "reviewedOn": null
+    },
+    "practice.breathe.list": {
+      "text": "श्वासाच्या पद्धती",
+      "reviewed": false
+    },
+    "practice.meditate.list": {
+      "text": "बसण्याचे प्रकार",
+      "reviewed": false
+    },
+    "practice.silent.title": {
+      "text": "मौन बैठक",
+      "reviewed": false
+    },
+    "practice.silent.guidance": {
+      "text": "सुखाने बसा आणि मौनात विश्रांती घ्या. सुरुवातीला आणि शेवटी घंटा वाजेल.",
+      "reviewed": false
+    },
+    "practice.endA11y": {
+      "text": "साधना संपवा",
+      "reviewed": false
+    },
+    "practice.soundA11y": {
+      "text": "ध्वनी सेटिंग",
+      "reviewed": false
+    },
+    "practice.begin": {
+      "text": "सुरू करा",
+      "reviewed": false
+    },
+    "practice.ready": {
+      "text": "सुखाने बसा. तयार झालात की सुरू करा.",
+      "reviewed": false
+    },
+    "practice.starting": {
+      "text": "सुरू होत आहे",
+      "reviewed": false
+    },
+    "practice.welcomeBack": {
+      "text": "पुन्हा स्वागत आहे. पुढे चालू ठेवायचे की संपवायचे?",
+      "reviewed": false
+    },
+    "practice.hold": {
+      "text": "हळुवारपणे थांबा",
+      "reviewed": false
+    },
+    "practice.roundOf": {
+      "text": "फेरी {n} / {total}",
+      "reviewed": false
+    },
+    "practice.side.left": {
+      "text": "डावी नाकपुडी",
+      "reviewed": false
+    },
+    "practice.side.right": {
+      "text": "उजवी नाकपुडी",
+      "reviewed": false
+    },
+    "practice.chimeOn": {
+      "text": "घंटा चालू",
+      "reviewed": false
+    },
+    "practice.chimeOff": {
+      "text": "घंटा बंद",
+      "reviewed": false
+    },
+    "practice.haptic": {
+      "text": "प्रत्येक बदलावर हलकी कंपने",
+      "reviewed": false
+    },
+    "practice.endedEarly": {
+      "text": "तुम्ही {time} साधना केली.",
+      "reviewed": false
+    },
+    "practice.timeLeftA11y": {
+      "text": "{minutes} मिनिटे {seconds} सेकंद बाकी",
+      "reviewed": false
+    },
+    "practice.halfway": {
+      "text": "अर्धा वेळ झाला",
+      "reviewed": false
+    },
+    "practice.oneMinute": {
+      "text": "1 मिनिट बाकी",
+      "reviewed": false
+    },
+    "practice.safetyLink": {
+      "text": "सुरक्षितता",
+      "reviewed": false
+    },
+    "practice.notSaved": {
+      "text": "हा ब्राउझर डेटा जतन करत नाही, त्यामुळे हे सत्र जतन होणार नाही.",
+      "reviewed": false
+    },
+    "practice.volumeValue": {
+      "text": "आवाज {value} / 10",
+      "reviewed": false
+    },
+    "complete.type.breath": {
+      "text": "श्वास",
+      "reviewed": false
+    },
+    "complete.type.stillness": {
+      "text": "स्थिरता",
+      "reviewed": false
+    },
+    "progress.title": {
+      "text": "तुमची साधना",
+      "reviewed": false
+    },
+    "progress.week": {
+      "text": "या आठवड्यात",
+      "reviewed": false
+    },
+    "journal.list": {
+      "text": "तुमचे विचार",
+      "reviewed": false
+    },
+    "journal.noticeShared": {
+      "text": "फक्त याच फोनमध्ये जतन केले आहे. हा फोन वापरणारा कोणीही ते उघडू शकतो. ब्राउझर डेटा पुसल्यास ते नष्ट होते.",
+      "reviewed": false
+    },
+    "practice.source": {
+      "text": "स्रोत",
+      "reviewed": false
+    },
+    "practice.disclaimerLink": {
+      "text": "संपूर्ण अस्वीकरण वाचा",
+      "reviewed": false
+    },
+    "journal.mood.none": {
+      "text": "मनःस्थिती नाही",
+      "reviewed": false
+    },
+    "journal.exportTxt": {
+      "text": "मजकूर (.txt) म्हणून डाउनलोड करा",
+      "reviewed": false
+    },
+    "journal.exportJson": {
+      "text": "डेटा (.json) म्हणून डाउनलोड करा",
+      "reviewed": false
+    },
+    "journal.exportEmpty": {
+      "text": "डाउनलोड करण्यासाठी अजून काही नाही. आधी एक विचार लिहा.",
+      "reviewed": false
+    },
+    "journal.export.header": {
+      "text": "प्राणदिन रोजनिशी, {date} रोजी निर्यात केली. आतापर्यंत फक्त तुमच्या फोनमध्ये ठेवली होती.",
+      "reviewed": false
+    },
+    "journal.export.prompt": {
+      "text": "प्रश्न: {text}",
+      "reviewed": false
+    },
+    "journal.export.mood": {
+      "text": "मनःस्थिती: {label}",
+      "reviewed": false
+    },
+    "journal.empty.text": {
+      "text": "कृपया आधी काहीतरी लिहा.",
+      "reviewed": false
+    },
+    "me.motion.system": {
+      "text": "फोनप्रमाणेच",
+      "reviewed": false
+    },
+    "me.motion.on": {
+      "text": "चालू",
+      "reviewed": false
+    },
+    "me.motion.off": {
+      "text": "बंद",
+      "reviewed": false
+    },
+    "me.reminderHelp": {
+      "text": "वेळ निवडा, मग फाइल उघडून तुमच्या फोनच्या दिनदर्शिकेत रोजची नोंद जोडा.",
+      "reviewed": false
+    },
+    "me.trust": {
+      "text": "माहिती, स्रोत आणि धोरणे",
+      "reviewed": false
+    },
+    "me.journalData": {
+      "text": "तुमची रोजनिशी",
+      "reviewed": false
+    },
+    "onb.timeWhen.title": {
+      "text": "तुमची रोजची वेळ",
+      "reviewed": false
+    },
+    "onb.city.selected": {
+      "text": "निवडले: {city}",
+      "reviewed": false
+    },
+    "common.secondsShort": {
+      "text": "{count} सेकंद",
+      "reviewed": false
+    },
+    "common.timeLeft": {
+      "text": "{time} बाकी",
+      "reviewed": false
+    },
+    "lang.name.en": {
+      "text": "इंग्रजी",
+      "reviewed": false
+    },
+    "lang.name.hi": {
+      "text": "हिंदी",
+      "reviewed": false
+    },
+    "lang.name.mr": {
+      "text": "मराठी",
+      "reviewed": false
+    },
+    "lang.fallback": {
+      "text": "{language} मध्ये अजून उपलब्ध नाही. इंग्रजी दाखवले आहे.",
+      "reviewed": false
+    },
+    "beta.banner": {
+      "text": "बीटा: काही गोष्टी बदलू शकतात. तुम्हाला जे जाणवेल ते आम्हाला सांगा.",
+      "reviewed": false
+    },
+    "nav.label": {
+      "text": "मुख्य",
+      "reviewed": false
+    },
+    "a11y.openMe": {
+      "text": "माझे आणि सेटिंग उघडा",
+      "reviewed": false
+    },
+    "a11y.skipToContent": {
+      "text": "मुख्य मजकुराकडे जा",
+      "reviewed": false
+    },
+    "a11y.breathGuide": {
+      "text": "श्वास मार्गदर्शक",
+      "reviewed": false
+    },
+    "a11y.phaseNow": {
+      "text": "आता: {phase}, {seconds} सेकंद",
+      "reviewed": false
+    },
+    "a11y.stepDone": {
+      "text": "पूर्ण झाले",
+      "reviewed": false
+    },
+    "a11y.stepNotDone": {
+      "text": "अजून पूर्ण झाले नाही",
+      "reviewed": false
+    },
+    "a11y.volume": {
+      "text": "पार्श्वध्वनीचा आवाज",
+      "reviewed": false
+    },
+    "a11y.decrease": {
+      "text": "कमी करा",
+      "reviewed": false
+    },
+    "a11y.increase": {
+      "text": "वाढवा",
+      "reviewed": false
+    },
+    "a11y.opensOutside": {
+      "text": "अ‍ॅपच्या बाहेर उघडते",
+      "reviewed": false
+    },
+    "a11y.selected": {
+      "text": "निवडले",
+      "reviewed": false
+    },
+    "onb.city.title": {
+      "text": "तुमचे शहर",
+      "reviewed": false
+    },
+    "onb.city.body": {
+      "text": "आम्ही याचा वापर फक्त सूर्योदय, सूर्यास्त आणि दिवसाची तिथी दाखवण्यासाठी करतो. हे याच फोनमध्ये राहते.",
+      "reviewed": false
+    },
+    "onb.city.search": {
+      "text": "शहर शोधा",
+      "reviewed": false
+    },
+    "onb.city.useLocation": {
+      "text": "माझे स्थान वापरा",
+      "reviewed": false
+    },
+    "onb.city.locationHelp": {
+      "text": "तुमचा फोन परवानगी मागेल. आम्ही फक्त जवळचे शहर शोधतो.",
+      "reviewed": false
+    },
+    "onb.city.locationDenied": {
+      "text": "स्थान बंद आहे. त्याऐवजी तुमचे शहर शोधा.",
+      "reviewed": false
+    },
+    "onb.city.noResults": {
+      "text": "\"{query}\" नावाचे कोणतेही शहर सापडले नाही. जवळचे एखादे मोठे शहर वापरून पहा.",
+      "reviewed": false
+    },
+    "onb.city.defaultNote": {
+      "text": "वगळल्यास आम्ही नवी दिल्ली घेतो. तुम्ही ते नंतर बदलू शकता.",
+      "reviewed": false
+    },
+    "today.panchang.tithi": {
+      "text": "तिथी: {tithi}",
+      "reviewed": false
+    },
+    "today.panchang.nakshatra": {
+      "text": "नक्षत्र: {nakshatra}",
+      "reviewed": false
+    },
+    "today.panchang.until": {
+      "text": "{time} पर्यंत",
+      "reviewed": false
+    },
+    "today.panchang.sunrise": {
+      "text": "सूर्योदय {time}",
+      "reviewed": false
+    },
+    "today.panchang.sunset": {
+      "text": "सूर्यास्त {time}",
+      "reviewed": false
+    },
+    "today.panchang.indicative": {
+      "text": "सूचक · प्रदेशानुसार वेगळे असू शकते",
+      "reviewed": false
+    },
+    "today.panchang.city": {
+      "text": "{city} · बदला",
+      "reviewed": false
+    },
+    "today.panchang.defaultCity": {
+      "text": "नवी दिल्ली (डीफॉल्ट) · बदला",
+      "reviewed": false
+    },
+    "today.panchang.setCity": {
+      "text": "स्थानिक सूर्योदय आणि तिथीसाठी तुमचे शहर निवडा.",
+      "reviewed": false
+    },
+    "today.panchang.howTitle": {
+      "text": "आम्ही गणना कशी करतो",
+      "reviewed": false
+    },
+    "today.panchang.howBody": {
+      "text": "तुम्ही निवडलेल्या शहरासाठी तिथी, नक्षत्र, सूर्योदय आणि सूर्यास्ताची गणना आम्ही तुमच्या फोनवरच करतो. येथे दाखवलेली तिथी स्थानिक सूर्योदयाच्या वेळची आहे, जसे अनेक पारंपरिक पंचांग करतात. तुमच्या मंदिरातील किंवा छापील पंचांगात प्रदेश किंवा परंपरेनुसार फरक असू शकतो; फरक असल्यास तुमच्या परंपरेचे पालन करा.",
+      "reviewed": false
+    },
+    "today.week.title": {
+      "text": "या आठवड्यात",
+      "reviewed": false
+    },
+    "today.week.days": {
+      "text": "{count, plural, one {# साधना दिवस} other {# साधना दिवस}}",
+      "reviewed": false
+    },
+    "today.week.dot": {
+      "text": "{day}: {status}",
+      "reviewed": false
+    },
+    "week.mon": {
+      "text": "सोम",
+      "reviewed": false
+    },
+    "week.tue": {
+      "text": "मंगळ",
+      "reviewed": false
+    },
+    "week.wed": {
+      "text": "बुध",
+      "reviewed": false
+    },
+    "week.thu": {
+      "text": "गुरु",
+      "reviewed": false
+    },
+    "week.fri": {
+      "text": "शुक्र",
+      "reviewed": false
+    },
+    "week.sat": {
+      "text": "शनि",
+      "reviewed": false
+    },
+    "week.sun": {
+      "text": "रवि",
+      "reviewed": false
+    },
+    "streak.count": {
+      "text": "{count, plural, =0 {आजपासून सुरू करा} one {सलग # दिवस} other {सलग # दिवस}}",
+      "reviewed": false
+    },
+    "streak.grace": {
+      "text": "आठवड्यातून एक दिवस विश्रांती घेतली तरी तुमची सलगता टिकून राहते.",
+      "reviewed": false
+    },
+    "streak.graceUsed": {
+      "text": "तुम्ही एक दिवस विश्रांती घेतली. तुमची सलगता {count} दिवसांवर सुरू आहे.",
+      "reviewed": false
+    },
+    "streak.reset": {
+      "text": "आजपासून नवी सलगता सुरू होते. तुमचे एकूण दिवस येथेच आहेत.",
+      "reviewed": false
+    },
+    "streak.totalDays": {
+      "text": "{count, plural, one {एकूण # दिवस} other {एकूण # दिवस}}",
+      "reviewed": false
+    },
+    "streak.totalMinutes": {
+      "text": "एकूण {count} मिनिटे",
+      "reviewed": false
+    },
+    "streak.dayOne": {
+      "text": "दिवस 1",
+      "reviewed": false
+    },
+    "streak.dayN": {
+      "text": "दिवस {count}",
+      "reviewed": false
+    },
+    "streak.three": {
+      "text": "या आठवड्यात तीन साधना दिवस.",
+      "reviewed": false
+    },
+    "streak.seven": {
+      "text": "पूर्ण आठवडाभर साधना.",
+      "reviewed": false
+    },
+    "complete.msg.1": {
+      "text": "आत्ता तुम्हाला कसे वाटते आहे ते जाणवू द्या.",
+      "reviewed": false
+    },
+    "complete.msg.2": {
+      "text": "काही शांत मिनिटे पूर्ण झाली.",
+      "reviewed": false
+    },
+    "complete.msg.3": {
+      "text": "आज तुम्ही स्वतःसाठी वेळ काढला.",
+      "reviewed": false
+    },
+    "complete.msg.4": {
+      "text": "ही स्थिरता तुमच्या पुढच्या तासात सोबत घ्या.",
+      "reviewed": false
+    },
+    "complete.msg.5": {
+      "text": "पुढे जाण्यापूर्वी क्षणभर इथे विश्रांती घ्या.",
+      "reviewed": false
+    },
+    "complete.feedback.q": {
+      "text": "आजची साधना कशी वाटली?",
+      "reviewed": false
+    },
+    "complete.feedback.up": {
+      "text": "उपयुक्त",
+      "reviewed": false
+    },
+    "complete.feedback.down": {
+      "text": "माझ्यासाठी नाही",
+      "reviewed": false
+    },
+    "complete.feedback.thanks": {
+      "text": "धन्यवाद. यामुळे आम्हाला सुधारायला मदत होते.",
+      "reviewed": false
+    },
+    "reminder.offer.title": {
+      "text": "उद्या आठवण करून देऊ का?",
+      "reviewed": false
+    },
+    "reminder.offer.body": {
+      "text": "तुमच्या फोनच्या दिनदर्शिकेत {time} वाजता रोजची आठवण जोडा.",
+      "reviewed": false
+    },
+    "reminder.offer.add": {
+      "text": "दिनदर्शिकेत जोडा",
+      "reviewed": false
+    },
+    "reminder.time": {
+      "text": "आठवणीची वेळ",
+      "reviewed": false
+    },
+    "reminder.added": {
+      "text": "आठवणीची फाइल तयार आहे. ती उघडून नोंद तुमच्या दिनदर्शिकेत जोडा.",
+      "reviewed": false
+    },
+    "reminder.howToRemove": {
+      "text": "आठवण थांबवण्यासाठी तुमच्या दिनदर्शिका अ‍ॅपमधील नोंद हटवा.",
+      "reviewed": false
+    },
+    "reminder.ics.title": {
+      "text": "प्राणदिन: आजची साधना",
+      "reviewed": false
+    },
+    "reminder.ics.desc": {
+      "text": "श्वास आणि स्थिरतेसाठी काही मिनिटे. प्राणदिन उघडा: {link}",
+      "reviewed": false
+    },
+    "push.permission.title": {
+      "text": "रोजची आठवण हवी आहे का?",
+      "reviewed": false
+    },
+    "push.permission.body": {
+      "text": "दिवसातून एक हळुवार संदेश, {time} वाजता. तुम्ही तो केव्हाही बंद करू शकता.",
+      "reviewed": false
+    },
+    "push.permission.allow": {
+      "text": "आठवणी चालू करा",
+      "reviewed": false
+    },
+    "push.denied": {
+      "text": "आठवणी बंद आहेत. त्या चालू करण्यासाठी तुमच्या ब्राउझरच्या सेटिंगमध्ये या साइटच्या सूचनांना परवानगी द्या.",
+      "reviewed": false
+    },
+    "push.iosHelp": {
+      "text": "iPhone वर आठवणी मिळवण्यासाठी आधी प्राणदिन तुमच्या होम स्क्रीनवर जोडा.",
+      "reviewed": false
+    },
+    "push.title": {
+      "text": "प्राणदिन",
+      "reviewed": false
+    },
+    "push.v1": {
+      "text": "आजची तुमची साधना तयार आहे.",
+      "reviewed": false
+    },
+    "push.v2": {
+      "text": "तुम्ही तयार असाल तेव्हा, श्वासासाठी काही मिनिटे.",
+      "reviewed": false
+    },
+    "push.v3": {
+      "text": "तुम्हाला योग्य वाटत असेल तर आजच्या साधनेची वेळ झाली आहे.",
+      "reviewed": false
+    },
+    "push.v4": {
+      "text": "दोन मिनिटेही मोजली जातात. आजची साधना तयार आहे.",
+      "reviewed": false
+    },
+    "push.v5": {
+      "text": "थांबा, श्वास घ्या, पुन्हा सुरुवात करा.",
+      "reviewed": false
+    },
+    "push.v6": {
+      "text": "आजची योजना तयार आहे, पायऱ्यांच्या नव्या मिश्रणासह.",
+      "reviewed": false
+    },
+    "push.v7": {
+      "text": "काही शांत मिनिटांसाठी सुखाने बसा.",
+      "reviewed": false
+    },
+    "cal.title": {
+      "text": "दिनदर्शिका",
+      "reviewed": false
+    },
+    "cal.month": {
+      "text": "{month} {year}",
+      "reviewed": false
+    },
+    "cal.prev": {
+      "text": "मागील महिना",
+      "reviewed": false
+    },
+    "cal.next": {
+      "text": "पुढील महिना",
+      "reviewed": false
+    },
+    "cal.goToday": {
+      "text": "आजच्या दिवशी जा",
+      "reviewed": false
+    },
+    "cal.filter.label": {
+      "text": "परंपरा दाखवा",
+      "reviewed": false
+    },
+    "cal.filter.all": {
+      "text": "सर्व",
+      "reviewed": false
+    },
+    "tradition.hindu": {
+      "text": "हिंदू",
+      "reviewed": false
+    },
+    "tradition.sikh": {
+      "text": "शीख",
+      "reviewed": false
+    },
+    "tradition.jain": {
+      "text": "जैन",
+      "reviewed": false
+    },
+    "tradition.buddhist": {
+      "text": "बौद्ध",
+      "reviewed": false
+    },
+    "tradition.christian": {
+      "text": "ख्रिस्ती",
+      "reviewed": false
+    },
+    "tradition.islamic": {
+      "text": "इस्लामी",
+      "reviewed": false
+    },
+    "tradition.jewish": {
+      "text": "ज्यू",
+      "reviewed": false
+    },
+    "tradition.parsi": {
+      "text": "पारशी",
+      "reviewed": false
+    },
+    "tradition.national": {
+      "text": "राष्ट्रीय",
+      "reviewed": false
+    },
+    "cal.next7": {
+      "text": "पुढील 7 दिवस",
+      "reviewed": false
+    },
+    "cal.none": {
+      "text": "आमच्या यादीत या दिवशी कोणताही सण किंवा प्रसंग नाही.",
+      "reviewed": false
+    },
+    "cal.noneWeek": {
+      "text": "आमच्या यादीत पुढील 7 दिवसांत कोणताही सण किंवा प्रसंग नाही.",
+      "reviewed": false
+    },
+    "cal.listNote": {
+      "text": "आमची यादी 20 नोव्हेंबर 2026 ते 31 मार्च 2027 पर्यंतची आहे. आम्ही कोणतीही तारीख दोन प्रकाशित स्रोतांत तपासल्यानंतरच जोडतो.",
+      "reviewed": false
+    },
+    "cal.outOfRange": {
+      "text": "31 मार्च 2027 नंतरच्या तारखा आम्ही अजून तपासलेल्या नाहीत.",
+      "reviewed": false
+    },
+    "cal.day.panchangFor": {
+      "text": "{city} चे पंचांग",
+      "reviewed": false
+    },
+    "cal.day.tithi": {
+      "text": "तिथी",
+      "reviewed": false
+    },
+    "cal.day.paksha": {
+      "text": "पक्ष",
+      "reviewed": false
+    },
+    "cal.day.nakshatra": {
+      "text": "नक्षत्र",
+      "reviewed": false
+    },
+    "cal.day.masa": {
+      "text": "महिना (मास)",
+      "reviewed": false
+    },
+    "cal.day.sunrise": {
+      "text": "सूर्योदय",
+      "reviewed": false
+    },
+    "cal.day.sunset": {
+      "text": "सूर्यास्त",
+      "reviewed": false
+    },
+    "cal.day.observances": {
+      "text": "सण आणि प्रसंग",
+      "reviewed": false
+    },
+    "cal.day.panchangOff": {
+      "text": "या तारखेसाठी पंचांग अजून दाखवले जात नाही.",
+      "reviewed": false
+    },
+    "cal.obs.sources": {
+      "text": "स्रोत",
+      "reviewed": false
+    },
+    "cal.obs.mayVary": {
+      "text": "तारीख प्रदेश किंवा परंपरेनुसार वेगळी असू शकते.",
+      "reviewed": false
+    },
+    "cal.obs.moon": {
+      "text": "ही तारीख चंद्रदर्शनावर अवलंबून आहे आणि एका दिवसाने पुढे-मागे होऊ शकते.",
+      "reviewed": false
+    },
+    "cal.obs.evening": {
+      "text": "आदल्या संध्याकाळी सूर्यास्ताला सुरू होते.",
+      "reviewed": false
+    },
+    "cal.obs.range": {
+      "text": "{start} ते {end}",
+      "reviewed": false
+    },
+    "cal.obs.report": {
+      "text": "चूक कळवा",
+      "reviewed": false
+    },
+    "journal.title": {
+      "text": "रोजनिशी",
+      "reviewed": false
+    },
+    "journal.new": {
+      "text": "एक विचार लिहा",
+      "reviewed": false
+    },
+    "journal.empty.title": {
+      "text": "अजून कोणतेही विचार नाहीत",
+      "reviewed": false
+    },
+    "journal.empty.body": {
+      "text": "पुढच्या साधनेनंतर तुम्हाला कसे वाटते याबद्दल एक ओळ लिहा.",
+      "reviewed": false
+    },
+    "journal.empty.cta": {
+      "text": "तुमची पहिली ओळ लिहा",
+      "reviewed": false
+    },
+    "journal.prompt": {
+      "text": "आजचा प्रश्न",
+      "reviewed": false
+    },
+    "journal.prompt.another": {
+      "text": "दुसरा प्रश्न दाखवा",
+      "reviewed": false
+    },
+    "journal.mood.q": {
+      "text": "आत्ता तुमचे मन कसे आहे?",
+      "reviewed": false
+    },
+    "journal.text.label": {
+      "text": "तुमचा विचार",
+      "reviewed": false
+    },
+    "journal.text.placeholder": {
+      "text": "काही शब्द लिहा, किंवा हवे तितके.",
+      "reviewed": false
+    },
+    "journal.text.count": {
+      "text": "1,000 पैकी {count} अक्षरे",
+      "reviewed": false
+    },
+    "journal.text.tooLong": {
+      "text": "कृपया 1,000 अक्षरांपेक्षा कमी ठेवा.",
+      "reviewed": false
+    },
+    "journal.save": {
+      "text": "विचार जतन करा",
+      "reviewed": false
+    },
+    "journal.saved": {
+      "text": "या फोनमध्ये जतन केले",
+      "reviewed": false
+    },
+    "journal.notice": {
+      "text": "फक्त याच फोनमध्ये जतन केले आहे. ब्राउझर डेटा पुसल्यास ते नष्ट होते.",
+      "reviewed": false
+    },
+    "journal.draftKept": {
+      "text": "मसुदा या फोनमध्ये ठेवला आहे",
+      "reviewed": false
+    },
+    "journal.entryDate": {
+      "text": "{date} · {time}",
+      "reviewed": false
+    },
+    "journal.delete.title": {
+      "text": "हा विचार हटवायचा?",
+      "reviewed": false
+    },
+    "journal.delete.body": {
+      "text": "हे परत करता येत नाही.",
+      "reviewed": false
+    },
+    "journal.delete.confirm": {
+      "text": "हटवा",
+      "reviewed": false
+    },
+    "journal.delete.keep": {
+      "text": "ठेवा",
+      "reviewed": false
+    },
+    "journal.deleted": {
+      "text": "विचार हटवला",
+      "reviewed": false
+    },
+    "journal.discard.title": {
+      "text": "हा विचार सोडून द्यायचा?",
+      "reviewed": false
+    },
+    "journal.discard.body": {
+      "text": "तुम्ही तो अजून जतन केलेला नाही.",
+      "reviewed": false
+    },
+    "journal.discard.confirm": {
+      "text": "सोडून द्या",
+      "reviewed": false
+    },
+    "journal.discard.keep": {
+      "text": "लिहीत राहा",
+      "reviewed": false
+    },
+    "journal.export": {
+      "text": "माझी रोजनिशी डाउनलोड करा",
+      "reviewed": false
+    },
+    "journal.exportDone": {
+      "text": "तुमची रोजनिशीची फाइल तयार आहे. तुमचा फोन ती तुमच्या इतर डाउनलोडसोबत जतन करतो.",
+      "reviewed": false
+    },
+    "me.title": {
+      "text": "माझे",
+      "reviewed": false
+    },
+    "me.language": {
+      "text": "भाषा",
+      "reviewed": false
+    },
+    "me.goal": {
+      "text": "ध्येय",
+      "reviewed": false
+    },
+    "me.minutes": {
+      "text": "रोजची मिनिटे",
+      "reviewed": false
+    },
+    "me.when": {
+      "text": "साधनेची वेळ",
+      "reviewed": false
+    },
+    "me.city": {
+      "text": "शहर",
+      "reviewed": false
+    },
+    "me.reminder": {
+      "text": "रोजची आठवण",
+      "reviewed": false
+    },
+    "me.theme": {
+      "text": "थीम",
+      "reviewed": false
+    },
+    "theme.system": {
+      "text": "फोनप्रमाणेच",
+      "reviewed": false
+    },
+    "theme.light": {
+      "text": "फिकट",
+      "reviewed": false
+    },
+    "theme.dark": {
+      "text": "गडद",
+      "reviewed": false
+    },
+    "me.motion": {
+      "text": "हालचाल कमी करा",
+      "reviewed": false
+    },
+    "me.motionHelp": {
+      "text": "श्वास मार्गदर्शक हलण्याऐवजी मोजणी दाखवतो.",
+      "reviewed": false
+    },
+    "me.textSize": {
+      "text": "अक्षरांचा आकार",
+      "reviewed": false
+    },
+    "textSize.standard": {
+      "text": "सामान्य",
+      "reviewed": false
+    },
+    "textSize.large": {
+      "text": "मोठा",
+      "reviewed": false
+    },
+    "textSize.largest": {
+      "text": "सर्वात मोठा",
+      "reviewed": false
+    },
+    "me.textPreview": {
+      "text": "पूर्वावलोकन: हळूहळू श्वास घ्या.",
+      "reviewed": false
+    },
+    "me.sounds": {
+      "text": "ध्वनी",
+      "reviewed": false
+    },
+    "me.privacy": {
+      "text": "गोपनीयता आणि तुमचा डेटा",
+      "reviewed": false
+    },
+    "me.terms": {
+      "text": "वापराच्या अटी",
+      "reviewed": false
+    },
+    "me.help": {
+      "text": "मदत आणि सुरक्षितता",
+      "reviewed": false
+    },
+    "me.about": {
+      "text": "प्राणदिनबद्दल",
+      "reviewed": false
+    },
+    "me.sources": {
+      "text": "स्रोत आणि श्रेयनिर्देश",
+      "reviewed": false
+    },
+    "me.aiUse": {
+      "text": "आम्ही एआय कसे वापरतो",
+      "reviewed": false
+    },
+    "me.corrections": {
+      "text": "दुरुस्त्या",
+      "reviewed": false
+    },
+    "me.feedback": {
+      "text": "अभिप्राय पाठवा",
+      "reviewed": false
+    },
+    "me.version": {
+      "text": "आवृत्ती {version} (बीटा)",
+      "reviewed": false
+    },
+    "me.saved": {
+      "text": "जतन केले",
+      "reviewed": false
+    },
+    "privacy.title": {
+      "text": "गोपनीयता आणि तुमचा डेटा",
+      "reviewed": false
+    },
+    "privacy.summary": {
+      "text": "तुमचा साधनेचा इतिहास, सलग दिवसांची संख्या आणि रोजनिशी फक्त याच फोनमध्ये ठेवली जाते. आम्ही ती पाहू शकत नाही किंवा परत मिळवू शकत नाही.",
+      "reviewed": false
+    },
+    "privacy.readNotice": {
+      "text": "गोपनीयता सूचना वाचा",
+      "reviewed": false
+    },
+    "privacy.clear": {
+      "text": "माझा डेटा पुसा",
+      "reviewed": false
+    },
+    "privacy.clear.title": {
+      "text": "तुमचा सर्व डेटा पुसायचा?",
+      "reviewed": false
+    },
+    "privacy.clear.body": {
+      "text": "यामुळे तुमची रोजनिशी, सलग दिवसांची संख्या, साधनेचा इतिहास आणि सेटिंग या फोनमधून हटतील. हे परत करता येत नाही. ठेवायचे असल्यास आधी तुमची रोजनिशी डाउनलोड करा.",
+      "reviewed": false
+    },
+    "privacy.clear.confirm": {
+      "text": "सर्व काही हटवा",
+      "reviewed": false
+    },
+    "privacy.clear.keep": {
+      "text": "माझा डेटा ठेवा",
+      "reviewed": false
+    },
+    "privacy.cleared": {
+      "text": "सर्व डेटा पुसला गेला. प्राणदिन नव्याने सुरू होईल.",
+      "reviewed": false
+    },
+    "help.title": {
+      "text": "मदत आणि सुरक्षितता",
+      "reviewed": false
+    },
+    "help.notMedical": {
+      "text": "प्राणदिन हा वैद्यकीय सल्ला नाही. काही चुकीचे वाटले तर थांबा आणि विश्रांती घ्या.",
+      "reviewed": false
+    },
+    "help.whenToStop": {
+      "text": "साधना केव्हा थांबवावी",
+      "reviewed": false
+    },
+    "help.whenToStopBody": {
+      "text": "चक्कर, गरगरणे, दम लागणे, वेदना किंवा अस्वस्थता वाटल्यास थांबा आणि सामान्यपणे श्वास घ्या. बरे वाटेपर्यंत बसा किंवा झोपा. बरे वाटले नाही तर वैद्यकीय मदत घ्या.",
+      "reviewed": false
+    },
+    "help.emergency": {
+      "text": "आणीबाणीच्या वेळी",
+      "reviewed": false
+    },
+    "help.emergencyBody": {
+      "text": "भारतात कुठेही आपत्कालीन सेवांसाठी 112 वर कॉल करा. भारताबाहेर तुमच्या स्थानिक आपत्कालीन क्रमांकावर कॉल करा.",
+      "reviewed": false
+    },
+    "help.mental": {
+      "text": "मानसिक आरोग्य मदत",
+      "reviewed": false
+    },
+    "help.mentalBody": {
+      "text": "टेली-मानस ही भारत सरकारची मोफत मानसिक आरोग्य हेल्पलाइन आहे, जी अनेक भाषांत उपलब्ध आहे. 14416 किंवा 1-800-891-4416 वर कॉल करा.",
+      "reviewed": false
+    },
+    "help.call112": {
+      "text": "112 वर कॉल करा",
+      "reviewed": false
+    },
+    "help.callTeleManas": {
+      "text": "14416 वर कॉल करा",
+      "reviewed": false
+    },
+    "help.disclaimer": {
+      "text": "संपूर्ण अस्वीकरण वाचा",
+      "reviewed": false
+    },
+    "feedback.title": {
+      "text": "अभिप्राय पाठवा",
+      "reviewed": false
+    },
+    "feedback.label": {
+      "text": "तुम्हाला आम्हाला काय सांगायचे आहे?",
+      "reviewed": false
+    },
+    "feedback.helper": {
+      "text": "जास्तीत जास्त 500 अक्षरे. कृपया खासगी माहिती देऊ नका.",
+      "reviewed": false
+    },
+    "feedback.email": {
+      "text": "ईमेल (ऐच्छिक)",
+      "reviewed": false
+    },
+    "feedback.emailHelper": {
+      "text": "तुम्हाला उत्तर हवे असेल तरच.",
+      "reviewed": false
+    },
+    "feedback.send": {
+      "text": "अभिप्राय पाठवा",
+      "reviewed": false
+    },
+    "feedback.sent": {
+      "text": "धन्यवाद. तुमचा संदेश पाठवला गेला आहे.",
+      "reviewed": false
+    },
+    "feedback.failed": {
+      "text": "तुमचा संदेश गेला नाही. तुमचे कनेक्शन तपासा आणि पुन्हा प्रयत्न करा.",
+      "reviewed": false
+    },
+    "feedback.reportMistake": {
+      "text": "मजकुरातील चूक कळवा",
+      "reviewed": false
+    },
+    "error.generic": {
+      "text": "काहीतरी चुकले. कृपया पुन्हा प्रयत्न करा.",
+      "reviewed": false
+    },
+    "error.offline": {
+      "text": "तुम्ही ऑफलाइन आहात. तुमचे कनेक्शन तपासा आणि पुन्हा प्रयत्न करा.",
+      "reviewed": false
+    },
+    "error.storage": {
+      "text": "हा ब्राउझर स्टोरेज अडवत आहे, त्यामुळे आम्ही तुमची प्रगती जतन करू शकत नाही. खासगी ब्राउझिंग बंद करा किंवा साइट डेटाला परवानगी द्या, मग पृष्ठ पुन्हा लोड करा.",
+      "reviewed": false
+    },
+    "error.storageFull": {
+      "text": "तुमच्या फोनमध्ये जागा कमी आहे, त्यामुळे आम्ही जतन करू शकलो नाही. थोडी जागा रिकामी करा आणि पुन्हा प्रयत्न करा.",
+      "reviewed": false
+    },
+    "error.location": {
+      "text": "आम्हाला तुमचे स्थान सापडले नाही. त्याऐवजी तुमचे शहर शोधा.",
+      "reviewed": false
+    },
+    "error.audio": {
+      "text": "ध्वनी सुरू होऊ शकला नाही. सुरू करा पुन्हा दाबा, किंवा मौनात पुढे चला.",
+      "reviewed": false
+    },
+    "error.share": {
+      "text": "येथे शेअर करणे उपलब्ध नाही, म्हणून आम्ही मजकूर कॉपी केला आहे, तो पेस्ट करा.",
+      "reviewed": false
+    },
+    "error.notFound": {
+      "text": "ते पृष्ठ आम्हाला सापडले नाही.",
+      "reviewed": false
+    },
+    "error.goToday": {
+      "text": "आजच्या दिवशी जा",
+      "reviewed": false
+    },
+    "update.ready": {
+      "text": "नवी आवृत्ती तयार आहे.",
+      "reviewed": false
+    },
+    "update.reload": {
+      "text": "पुन्हा लोड करा",
+      "reviewed": false
+    },
+    "share.button": {
+      "text": "शेअर करा",
+      "reviewed": false
+    },
+    "share.copied": {
+      "text": "कॉपी केले",
+      "reviewed": false
+    },
+    "wisdom.title": {
+      "text": "आजचा विचार",
+      "reviewed": false
+    },
+    "wisdom.source": {
+      "text": "स्रोत: {source}",
+      "reviewed": false
+    },
+    "wisdom.translatedBy": {
+      "text": "भाषांतर: प्राणदिन",
+      "reviewed": false
+    },
+    "pwa.install.title": {
+      "text": "प्राणदिन तुमच्या होम स्क्रीनवर जोडायचे?",
+      "reviewed": false
+    },
+    "pwa.install.body": {
+      "text": "अ‍ॅपप्रमाणे एका टॅपमध्ये उघडा.",
+      "reviewed": false
+    },
+    "pwa.install.add": {
+      "text": "होम स्क्रीनवर जोडा",
+      "reviewed": false
+    },
+    "app.name": {
+      "text": "प्राणदिन",
+      "reviewed": false
+    },
+    "app.tagline": {
+      "text": "रोज एक शांत श्वास.",
+      "reviewed": false
+    },
+    "app.betaBadge": {
+      "text": "बीटा",
+      "reviewed": false
+    },
+    "common.comingSoon": {
+      "text": "हा भाग लवकरच येत आहे.",
+      "reviewed": false
+    },
+    "common.languageLabel": {
+      "text": "भाषा",
+      "reviewed": false
+    },
+    "nav.back": {
+      "text": "मागे",
+      "reviewed": false
+    },
+    "nav.skipToContent": {
+      "text": "मुख्य मजकुराकडे जा",
+      "reviewed": false
+    },
+    "calendar.title": {
+      "text": "दिनदर्शिका",
+      "reviewed": false
+    },
+    "settings.title": {
+      "text": "माझे",
+      "reviewed": false
+    },
+    "onboarding.title": {
+      "text": "सुरुवात",
+      "reviewed": false
+    },
+    "settings.privacy": {
+      "text": "गोपनीयता आणि तुमचा डेटा",
+      "reviewed": false
+    },
+    "panchang.tithi": {
+      "text": "तिथी",
+      "reviewed": false
+    },
+    "panchang.nakshatra": {
+      "text": "नक्षत्र",
+      "reviewed": false
+    },
+    "panchang.sunrise": {
+      "text": "सूर्योदय",
+      "reviewed": false
+    },
+    "panchang.sunset": {
+      "text": "सूर्यास्त",
+      "reviewed": false
+    },
+    "panchang.until": {
+      "text": "{time} पर्यंत",
+      "reviewed": false
+    },
+    "panchang.adhik": {
+      "text": "अधिक",
+      "reviewed": false
+    },
+    "panchang.paksha.shukla": {
+      "text": "शुक्ल पक्ष",
+      "reviewed": false
+    },
+    "panchang.paksha.krishna": {
+      "text": "कृष्ण पक्ष",
+      "reviewed": false
+    },
+    "panchang.indicative": {
+      "text": "वेळा तुमच्या शहरासाठी काढलेल्या आहेत आणि तुमच्या स्थानिक दिनदर्शिकेपेक्षा काही मिनिटांनी वेगळ्या असू शकतात.",
+      "reviewed": false
+    },
+    "panchang.defaultCity": {
+      "text": "{city} साठी दाखवले आहे. तुम्ही तुमचे शहर \"माझे\" मध्ये बदलू शकता.",
+      "reviewed": false
+    },
+    "trust.about": {
+      "text": "प्राणदिनबद्दल",
+      "reviewed": false
+    },
+    "trust.privacy": {
+      "text": "गोपनीयता",
+      "reviewed": false
+    },
+    "trust.terms": {
+      "text": "वापराच्या अटी",
+      "reviewed": false
+    },
+    "trust.disclaimer": {
+      "text": "आरोग्यविषयक अस्वीकरण",
+      "reviewed": false
+    },
+    "trust.help": {
+      "text": "मदत आणि सुरक्षितता",
+      "reviewed": false
+    },
+    "trust.sources": {
+      "text": "स्रोत आणि श्रेयनिर्देश",
+      "reviewed": false
+    },
+    "trust.ai-use": {
+      "text": "आम्ही एआय कसे वापरतो",
+      "reviewed": false
+    },
+    "trust.corrections": {
+      "text": "दुरुस्त्या",
+      "reviewed": false
+    },
+    "paksha.shukla": {
+      "text": "शुक्ल पक्ष",
+      "reviewed": false
+    },
+    "paksha.krishna": {
+      "text": "कृष्ण पक्ष",
+      "reviewed": false
+    },
+    "tithi.1": {
+      "text": "प्रतिपदा",
+      "reviewed": false
+    },
+    "tithi.2": {
+      "text": "द्वितीया",
+      "reviewed": false
+    },
+    "tithi.3": {
+      "text": "तृतीया",
+      "reviewed": false
+    },
+    "tithi.4": {
+      "text": "चतुर्थी",
+      "reviewed": false
+    },
+    "tithi.5": {
+      "text": "पंचमी",
+      "reviewed": false
+    },
+    "tithi.6": {
+      "text": "षष्ठी",
+      "reviewed": false
+    },
+    "tithi.7": {
+      "text": "सप्तमी",
+      "reviewed": false
+    },
+    "tithi.8": {
+      "text": "अष्टमी",
+      "reviewed": false
+    },
+    "tithi.9": {
+      "text": "नवमी",
+      "reviewed": false
+    },
+    "tithi.10": {
+      "text": "दशमी",
+      "reviewed": false
+    },
+    "tithi.11": {
+      "text": "एकादशी",
+      "reviewed": false
+    },
+    "tithi.12": {
+      "text": "द्वादशी",
+      "reviewed": false
+    },
+    "tithi.13": {
+      "text": "त्रयोदशी",
+      "reviewed": false
+    },
+    "tithi.14": {
+      "text": "चतुर्दशी",
+      "reviewed": false
+    },
+    "tithi.purnima": {
+      "text": "पौर्णिमा",
+      "reviewed": false
+    },
+    "tithi.amavasya": {
+      "text": "अमावस्या",
+      "reviewed": false
+    },
+    "nakshatra.1": {
+      "text": "अश्विनी",
+      "reviewed": false
+    },
+    "nakshatra.2": {
+      "text": "भरणी",
+      "reviewed": false
+    },
+    "nakshatra.3": {
+      "text": "कृत्तिका",
+      "reviewed": false
+    },
+    "nakshatra.4": {
+      "text": "रोहिणी",
+      "reviewed": false
+    },
+    "nakshatra.5": {
+      "text": "मृगशीर्ष",
+      "reviewed": false
+    },
+    "nakshatra.6": {
+      "text": "आर्द्रा",
+      "reviewed": false
+    },
+    "nakshatra.7": {
+      "text": "पुनर्वसू",
+      "reviewed": false
+    },
+    "nakshatra.8": {
+      "text": "पुष्य",
+      "reviewed": false
+    },
+    "nakshatra.9": {
+      "text": "आश्लेषा",
+      "reviewed": false
+    },
+    "nakshatra.10": {
+      "text": "मघा",
+      "reviewed": false
+    },
+    "nakshatra.11": {
+      "text": "पूर्वा फाल्गुनी",
+      "reviewed": false
+    },
+    "nakshatra.12": {
+      "text": "उत्तरा फाल्गुनी",
+      "reviewed": false
+    },
+    "nakshatra.13": {
+      "text": "हस्त",
+      "reviewed": false
+    },
+    "nakshatra.14": {
+      "text": "चित्रा",
+      "reviewed": false
+    },
+    "nakshatra.15": {
+      "text": "स्वाती",
+      "reviewed": false
+    },
+    "nakshatra.16": {
+      "text": "विशाखा",
+      "reviewed": false
+    },
+    "nakshatra.17": {
+      "text": "अनुराधा",
+      "reviewed": false
+    },
+    "nakshatra.18": {
+      "text": "ज्येष्ठा",
+      "reviewed": false
+    },
+    "nakshatra.19": {
+      "text": "मूळ",
+      "reviewed": false
+    },
+    "nakshatra.20": {
+      "text": "पूर्वाषाढा",
+      "reviewed": false
+    },
+    "nakshatra.21": {
+      "text": "उत्तराषाढा",
+      "reviewed": false
+    },
+    "nakshatra.22": {
+      "text": "श्रवण",
+      "reviewed": false
+    },
+    "nakshatra.23": {
+      "text": "धनिष्ठा",
+      "reviewed": false
+    },
+    "nakshatra.24": {
+      "text": "शततारका",
+      "reviewed": false
+    },
+    "nakshatra.25": {
+      "text": "पूर्वा भाद्रपदा",
+      "reviewed": false
+    },
+    "nakshatra.26": {
+      "text": "उत्तरा भाद्रपदा",
+      "reviewed": false
+    },
+    "nakshatra.27": {
+      "text": "रेवती",
+      "reviewed": false
+    },
+    "masa.1": {
+      "text": "चैत्र",
+      "reviewed": false
+    },
+    "masa.2": {
+      "text": "वैशाख",
+      "reviewed": false
+    },
+    "masa.3": {
+      "text": "ज्येष्ठ",
+      "reviewed": false
+    },
+    "masa.4": {
+      "text": "आषाढ",
+      "reviewed": false
+    },
+    "masa.5": {
+      "text": "श्रावण",
+      "reviewed": false
+    },
+    "masa.6": {
+      "text": "भाद्रपद",
+      "reviewed": false
+    },
+    "masa.7": {
+      "text": "आश्विन",
+      "reviewed": false
+    },
+    "masa.8": {
+      "text": "कार्तिक",
+      "reviewed": false
+    },
+    "masa.9": {
+      "text": "मार्गशीर्ष",
+      "reviewed": false
+    },
+    "masa.10": {
+      "text": "पौष",
+      "reviewed": false
+    },
+    "masa.11": {
+      "text": "माघ",
+      "reviewed": false
+    },
+    "masa.12": {
+      "text": "फाल्गुन",
+      "reviewed": false
+    },
+    "masa.adhik": {
+      "text": "अधिक {masa}",
+      "reviewed": false
+    },
+    "sounds.track.om-chant": {
+      "text": "ॐ जप",
+      "reviewed": false
+    },
+    "sounds.track.gayatri": {
+      "text": "गायत्री मंत्र",
+      "reviewed": false
+    },
+    "sounds.track.om-namah-shivaya": {
+      "text": "ॐ नमः शिवाय",
+      "reviewed": false
+    },
+    "sounds.track.hare-krishna": {
+      "text": "हरे कृष्ण महामंत्र",
+      "reviewed": false
+    },
+    "sounds.track.vasudeva": {
+      "text": "ॐ नमो भगवते वासुदेवाय",
+      "reviewed": false
+    },
+    "sounds.track.ganesh": {
+      "text": "गणेश मंत्र",
+      "reviewed": false
+    },
+    "sounds.track.hanuman": {
+      "text": "हनुमान मंत्र",
+      "reviewed": false
+    },
+    "sounds.track.durga": {
+      "text": "दुर्गा मंत्र",
+      "reviewed": false
+    },
+    "sounds.track.lakshmi": {
+      "text": "लक्ष्मी मंत्र",
+      "reviewed": false
+    },
+    "sounds.track.saraswati": {
+      "text": "सरस्वती मंत्र",
+      "reviewed": false
+    },
+    "sounds.track.asato-ma": {
+      "text": "असतो मा सद्गमय",
+      "reviewed": false
+    },
+    "sounds.credits.team": {
+      "text": "प्राणदिन टीम (टेक्स्ट-टू-स्पीच)",
+      "reviewed": false
+    },
+    "sounds.credits.madeForApp": {
+      "text": "या अ‍ॅपसाठी बनवलेले",
+      "reviewed": false
+    },
+    "sounds.credits.publicDomain": {
+      "text": "सार्वजनिक क्षेत्र",
+      "reviewed": false
+    },
+    "sounds.credits.sourceTitle": {
+      "text": "स्रोताचे शीर्षक",
+      "reviewed": false
+    },
+    "me.cityDefault": {
+      "text": "{city} (डीफॉल्ट)",
+      "reviewed": false
     }
   }
 }

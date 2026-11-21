@@ -4,7 +4,7 @@
   "lang": "en",
   "version": "2026-11-14.1",
   "status": "final",
-  "count": 623,
+  "count": 639,
   "strings": {
     "common.appName": "PranaDin",
     "common.tagline": "Daily breath",
@@ -628,6 +628,22 @@
     "yoga.prog.saved": "Progress is saved only on this device.",
     "yoga.prog.notSaved": "This browser is not saving data, so progress will not be kept.",
     "yoga.prog.back": "All programmes",
-    "yoga.prog.list": "Days"
+    "yoga.prog.list": "Days",
+    "sounds.track.om-chant": "Om chant",
+    "sounds.track.gayatri": "Gayatri mantra",
+    "sounds.track.om-namah-shivaya": "Om Namah Shivaya",
+    "sounds.track.hare-krishna": "Hare Krishna mahamantra",
+    "sounds.track.vasudeva": "Om Namo Bhagavate Vasudevaya",
+    "sounds.track.ganesh": "Ganesh mantra",
+    "sounds.track.hanuman": "Hanuman mantra",
+    "sounds.track.durga": "Durga mantra",
+    "sounds.track.lakshmi": "Lakshmi mantra",
+    "sounds.track.saraswati": "Saraswati mantra",
+    "sounds.track.asato-ma": "Asato Ma Sadgamaya",
+    "sounds.credits.team": "PranaDin team (text-to-speech)",
+    "sounds.credits.madeForApp": "Made for this app",
+    "sounds.credits.publicDomain": "Public domain",
+    "sounds.credits.sourceTitle": "Source title",
+    "me.cityDefault": "{city} (default)"
   }
 }

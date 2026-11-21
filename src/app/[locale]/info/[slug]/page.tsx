@@ -5,6 +5,7 @@ import { Markdown } from "@/components/Markdown";
 import { SimpleScreen } from "@/components/SimpleScreen";
 import { loadMessages, loadTrustPage } from "@/content/load";
 import { isLocale, LOCALES, type Locale } from "@/i18n/config";
+import { TRACKS } from "@/lib/audio-manifest";
 import { routes, TRUST_PAGE_FILES, TRUST_PAGES, trustSlugForFile, type TrustPage } from "@/lib/routes";
 
 export const dynamicParams = false;
@@ -60,6 +61,11 @@ export default async function TrustPageRoute({ params }: PageProps<"/[locale]/in
             source: messages["sounds.credits.source"],
             ai: messages["sounds.credits.ai"],
             generated: messages["sounds.credits.generated"],
+            team: messages["sounds.credits.team"],
+            madeForApp: messages["sounds.credits.madeForApp"],
+            publicDomain: messages["sounds.credits.publicDomain"],
+            sourceTitle: messages["sounds.credits.sourceTitle"],
+            trackNames: Object.fromEntries(TRACKS.map((t) => [t.file, (messages as Record<string, string>)[`sounds.track.${t.id}`] ?? t.name])),
           }}
         />
       ) : null}

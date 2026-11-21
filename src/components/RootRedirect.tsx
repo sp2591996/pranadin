@@ -20,8 +20,10 @@ export function RootRedirect() {
   return (
     <main className="mx-auto flex min-h-dvh max-w-xl flex-col justify-center gap-6 px-[var(--size-gutter)]">
       <h1>PranaDin</h1>
-      {/* Only language names appear in HI/MR here: other HI/MR copy must be Board-reviewed first. */}
-      <p className="text-text-muted">Choose your language</p>
+      {/* Shown before any language is chosen, so the prompt is given in all three (D-030). */}
+      <p className="text-text-muted">
+        <span lang="en">Choose your language</span> · <span lang="hi">भाषा चुनें</span> · <span lang="mr">भाषा निवडा</span>
+      </p>
       <ul className="flex flex-col gap-3">
         {LOCALES.map((l) => (
           <li key={l}>

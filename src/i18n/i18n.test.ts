@@ -30,7 +30,7 @@ describe("locale negotiation", () => {
 
 describe("resolveMessages: per-item English fallback", () => {
   const en = { strings: { "nav.today": "Today", "nav.journal": "Journal", "nav.practice": "Practice" } };
-  it("uses reviewed HI text, and English for unreviewed or missing items", () => {
+  it("uses HI text whether reviewed or not (D-030), and English only for missing items", () => {
     const hi = {
       strings: {
         "nav.today": { text: "आज", reviewed: true },
@@ -39,9 +39,9 @@ describe("resolveMessages: per-item English fallback", () => {
     };
     const r = resolveMessages("hi", en, hi);
     expect(r.messages["nav.today"]).toBe("आज");
-    expect(r.source["nav.today"]).toBe("reviewed");
-    expect(r.messages["nav.journal"]).toBe("Journal");
-    expect(r.source["nav.journal"]).toBe("en");
+    expect(r.source["nav.today"]).toBe("translated");
+    expect(r.messages["nav.journal"]).toBe("डायरी");
+    expect(r.source["nav.journal"]).toBe("translated");
     expect(r.messages["nav.practice"]).toBe("Practice");
   });
 
@@ -64,13 +64,13 @@ describe("localizeItem", () => {
     expect(r.note).toBe(en.note);
     expect(r.fellBack).toBe(true);
   });
-  it("falls back to the whole English item when not reviewed", () => {
-    expect(localizeItem(en, { name: "x", note: "y", reviewed: false }, "mr")).toMatchObject({ name: en.name, lang: "en", fellBack: true });
+  it("shows a draft item even when not reviewed (D-030)", () => {
+    expect(localizeItem(en, { name: "x", note: "y", reviewed: false }, "mr")).toMatchObject({ name: "x", lang: "mr", fellBack: false });
     expect(localizeItem(en, undefined, "mr").fellBack).toBe(true);
   });
-  it("accepts a file-level review unless the item opts out", () => {
+  it("ignores the review flags (D-030)", () => {
     expect(localizeItem(en, { name: "a", note: "b" }, "hi", true)).toMatchObject({ name: "a", lang: "hi", fellBack: false });
-    expect(localizeItem(en, { name: "a", note: "b", reviewed: false }, "hi", true).lang).toBe("en");
+    expect(localizeItem(en, { name: "a", note: "b", reviewed: false }, "hi", true).lang).toBe("hi");
   });
 });
 

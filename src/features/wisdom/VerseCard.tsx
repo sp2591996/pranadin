@@ -52,7 +52,7 @@ export function VerseCard({ verses, buildDate }: { verses: VerseView[]; buildDat
       <p lang={v.script.lang} className="mt-3 whitespace-pre-line text-lg leading-8">
         {v.script.text}
       </p>
-      {v.transliteration && <p className="mt-2 whitespace-pre-line italic text-text-muted">{v.transliteration}</p>}
+      {v.transliteration && <p lang={`${v.script.lang}-Latn`} className="mt-2 whitespace-pre-line italic text-text-muted">{v.transliteration}</p>}
       <p className="mt-3 text-small font-semibold text-text-muted">{s("wisdom.meaning")}</p>
       <p lang={v.meaning.lang}>{v.meaning.text}</p>
       {v.note && (

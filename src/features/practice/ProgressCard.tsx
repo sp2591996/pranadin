@@ -19,7 +19,7 @@ export function WeekDots({ progress, today }: { progress: Progress; today?: stri
               aria-hidden="true"
               className={`h-4 w-4 rounded-full border-2 ${on ? "border-primary bg-primary" : "border-border-input"} ${d === today ? "outline-2 outline-offset-2 outline-primary" : ""}`}
             />
-            <span className="text-[0.75rem] leading-4 text-text-muted">{s(DAY_KEYS[i]!)}</span>
+            <span className="text-[0.875rem] leading-5 text-text-muted">{s(DAY_KEYS[i]!)}</span>
             <span className="sr-only">{on ? s("a11y.stepDone") : s("a11y.stepNotDone")}</span>
           </li>
         );

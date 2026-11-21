@@ -1,0 +1,157 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "journal",
+  "lang": "hi",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "note": "Draft translation shown to users (D-030); reviewed: false until the Board reviews it.",
+  "moods": {
+    "mood.peaceful": {
+      "label": "शांत",
+      "a11y": "मनोदशा: शांत",
+      "reviewed": false
+    },
+    "mood.grateful": {
+      "label": "आभारी",
+      "a11y": "मनोदशा: आभारी",
+      "reviewed": false
+    },
+    "mood.okay": {
+      "label": "ठीक-ठाक",
+      "a11y": "मनोदशा: ठीक-ठाक",
+      "reviewed": false
+    },
+    "mood.restless": {
+      "label": "बेचैन",
+      "a11y": "मनोदशा: बेचैन",
+      "reviewed": false
+    },
+    "mood.heavy": {
+      "label": "भारी-भारी",
+      "a11y": "मनोदशा: मन भारी",
+      "reviewed": false
+    }
+  },
+  "prompts": {
+    "prompt.01": {
+      "text": "आप अभी जैसा महसूस कर रहे हैं, उसे एक शब्द में क्या कहेंगे?",
+      "reviewed": false
+    },
+    "prompt.02": {
+      "text": "आज आप किस बात के लिए आभारी हैं, चाहे वह कितनी भी छोटी हो?",
+      "reviewed": false
+    },
+    "prompt.03": {
+      "text": "साधना के दौरान आपने अपने शरीर में क्या महसूस किया?",
+      "reviewed": false
+    },
+    "prompt.04": {
+      "text": "क्या हो तो आज का दिन सार्थक लगेगा?",
+      "reviewed": false
+    },
+    "prompt.05": {
+      "text": "हाल ही में किसने आपका दिन थोड़ा आसान बनाया?",
+      "reviewed": false
+    },
+    "prompt.06": {
+      "text": "आज आप कौन-सी एक चीज़ नीचे रख सकते हैं?",
+      "reviewed": false
+    },
+    "prompt.07": {
+      "text": "आज आपको कब शांति महसूस हुई, भले ही एक पल के लिए?",
+      "reviewed": false
+    },
+    "prompt.08": {
+      "text": "आज आप कौन-सा एक छोटा काम करने का इरादा रखते हैं?",
+      "reviewed": false
+    },
+    "prompt.09": {
+      "text": "अभी आपको क्या सुनाई दे रहा है? तीन आवाज़ें लिखें।",
+      "reviewed": false
+    },
+    "prompt.10": {
+      "text": "आज आपके मन में सबसे ज़्यादा क्या चल रहा है?",
+      "reviewed": false
+    },
+    "prompt.11": {
+      "text": "आज आपने कौन-सा एक दयालु काम किया, या कर सकते हैं?",
+      "reviewed": false
+    },
+    "prompt.12": {
+      "text": "हाल ही में किसी कठिन क्षण में आपको किससे सहारा मिला?",
+      "reviewed": false
+    },
+    "prompt.13": {
+      "text": "आज के बारे में आप क्या याद रखना चाहेंगे?",
+      "reviewed": false
+    },
+    "prompt.14": {
+      "text": "आपके दिन का कौन-सा हिस्सा जल्दबाज़ी वाला लगा? उसे धीमा क्या कर सकता है?",
+      "reviewed": false
+    },
+    "prompt.15": {
+      "text": "ऐसी जगह का एक पंक्ति में वर्णन करें, जहाँ आपको शांति मिलती है।",
+      "reviewed": false
+    },
+    "prompt.16": {
+      "text": "इस सप्ताह आप किस बात का इंतज़ार कर रहे हैं?",
+      "reviewed": false
+    },
+    "prompt.17": {
+      "text": "आपने अपने से बड़े किसी व्यक्ति से क्या सीखा है?",
+      "reviewed": false
+    },
+    "prompt.18": {
+      "text": "आप किस पारिवारिक रीति या परंपरा को महत्व देते हैं, और क्यों?",
+      "reviewed": false
+    },
+    "prompt.19": {
+      "text": "आज जैसा आप महसूस कर रहे हैं, वैसा ही कोई मित्र महसूस करे तो आप उससे क्या कहेंगे?",
+      "reviewed": false
+    },
+    "prompt.20": {
+      "text": "आज आपको किससे ऊर्जा मिली? किसने उसे छीन लिया?",
+      "reviewed": false
+    },
+    "prompt.21": {
+      "text": "इस सप्ताह आपने कौन-सा एक काम किया, जिसकी आपको ख़ुशी है?",
+      "reviewed": false
+    },
+    "prompt.22": {
+      "text": "किसी ऐसे व्यक्ति के लिए धन्यवाद की एक पंक्ति लिखें, जिसे आपने अब तक धन्यवाद नहीं कहा।",
+      "reviewed": false
+    },
+    "prompt.23": {
+      "text": "आज आपने अपना ख़याल कैसे रखा?",
+      "reviewed": false
+    },
+    "prompt.24": {
+      "text": "हाल ही में आपने कौन-सी सुंदर चीज़ देखी?",
+      "reviewed": false
+    },
+    "prompt.25": {
+      "text": "इस समय आप कौन-सा प्रश्न अपने साथ लिए चल रहे हैं?",
+      "reviewed": false
+    },
+    "prompt.26": {
+      "text": "आप आख़िरी बार कब हँसे थे? बात क्या थी?",
+      "reviewed": false
+    },
+    "prompt.27": {
+      "text": "आज के लिए क्या पर्याप्त होगा?",
+      "reviewed": false
+    },
+    "prompt.28": {
+      "text": "क्या कुछ ऐसा है जिसे आप माफ़ करने के लिए तैयार हैं, अपने आप को या किसी और को?",
+      "reviewed": false
+    },
+    "prompt.29": {
+      "text": "इस मौसम का कौन-सा त्योहार या पवित्र दिन आपके लिए मायने रखता है, और क्यों?",
+      "reviewed": false
+    },
+    "prompt.30": {
+      "text": "इस महीने को पलटकर देखें तो क्या बदला है, भले ही थोड़ा-सा?",
+      "reviewed": false
+    }
+  }
+}

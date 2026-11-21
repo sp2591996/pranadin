@@ -257,13 +257,13 @@ export function SessionPlayer({
               {s(`yoga.level.${item.level}`)} · {s("yoga.minutes", { minutes: minutesOf(planned) })} · {s("yoga.stepsCount", { count: steps.length })}
             </p>
           </header>
-          <p lang="en">{module.description}</p>
+          <p lang={item.titleLang}>{module.description}</p>
           <button type="button" className={`${btn.primary} self-start`} onClick={start}>
             {s("yoga.session.start")}
           </button>
           <section aria-labelledby="ov-h" className={card}>
             <h2 id="ov-h">{s("yoga.session.overview")}</h2>
-            <ol className="list-decimal space-y-1 ps-5" lang="en">
+            <ol className="list-decimal space-y-1 ps-5" lang={item.titleLang}>
               {steps.map((x) => (
                 <li key={x.title}>
                   {x.title} <span className="text-text-muted">({formatClock(x.seconds * 1000)})</span>
@@ -281,7 +281,7 @@ export function SessionPlayer({
 
           {pose ? <YogaImage file={pose.image} alt={pose.alt} className="max-w-[220px]" /> : null}
 
-          <div className="text-center" lang="en">
+          <div className="text-center" lang={item.titleLang}>
             <h1 className="text-[1.5rem] leading-8" data-testid="step-title">
               {step.title}
             </h1>
@@ -308,7 +308,7 @@ export function SessionPlayer({
             data-testid="next-cue"
             className={`rounded-lg border-2 px-4 py-3 text-center ${cueNow ? "border-primary bg-primary-tint text-on-primary-tint" : "border-transparent text-text-muted"}`}
           >
-            {next ? <span lang="en">{s("yoga.session.upNext", { title: next.title })}</span> : <span>{s("yoga.session.done")}</span>}
+            {next ? <span lang={item.titleLang}>{s("yoga.session.upNext", { title: next.title })}</span> : <span>{s("yoga.session.done")}</span>}
           </p>
 
           <div className="flex items-center justify-center gap-3">
@@ -333,7 +333,7 @@ export function SessionPlayer({
             </button>
           </div>
 
-          <p className="sr-only" role="status" aria-live="polite" lang="en">
+          <p className="sr-only" role="status" aria-live="polite" lang={item.titleLang}>
             {step.title}. {step.breath}
           </p>
         </>

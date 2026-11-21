@@ -5,6 +5,7 @@ import { useMemo, useState } from "react";
 import type { Observance } from "@/content/load";
 import { ObservanceBody, ObservanceName } from "@/components/ObservanceBody";
 import { useLocalDay } from "@/components/useLocalDay";
+import { cityName } from "@/lib/cities";
 import { useI18n } from "@/i18n/client";
 import { formatDateKey, formatTime } from "@/i18n/format";
 import { masaKey, nakshatraKey, tithiKey } from "@/i18n/keys";
@@ -222,7 +223,7 @@ function DayPanchang({ date, city, citySet }: { date: LocalDateKey; city: Return
   ];
   return (
     <div className="rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-4">
-      <h3 className="text-h3">{t("cal.day.panchangFor", { city: city.name })}</h3>
+      <h3 className="text-h3">{t("cal.day.panchangFor", { city: cityName(city, locale) })}</h3>
       <dl className="mt-2">
         {rows.map(([k, v, sub]) => (
           <div key={k} className="flex justify-between gap-3 border-t border-divider py-2 first:border-t-0">
@@ -240,7 +241,7 @@ function DayPanchang({ date, city, citySet }: { date: LocalDateKey; city: Return
         <p className="text-text-muted">{t("today.panchang.howBody")}</p>
       </details>
       <Link href={routes.settings(locale)} className="inline-flex min-h-11 items-center text-small text-primary underline underline-offset-2">
-        {citySet ? t("today.panchang.city", { city: city.name }) : t("today.panchang.defaultCity")}
+        {citySet ? t("today.panchang.city", { city: cityName(city, locale) }) : t("today.panchang.defaultCity")}
       </Link>
     </div>
   );

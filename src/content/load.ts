@@ -100,9 +100,10 @@ export interface Observance {
 type TrItem = ObservancesTranslation["items"][string];
 
 /**
- * Per-field localisation of one observance (D-008). The translated name is
- * used only if reviewed; the translated note only if reviewed, non-blank and
- * not marked `noteLang: "en"`. Anything else falls back to English.
+ * Per-field localisation of one observance (D-008, D-030). Draft translations
+ * are shown whether or not they are reviewed. English is used only for a
+ * missing or blank name, or a note that is missing, blank or marked
+ * `noteLang: "en"`.
  */
 export function localizeObservance(
   en: { name: string; note: string },
@@ -112,7 +113,8 @@ export function localizeObservance(
 ): Pick<Observance, "name" | "note" | "lang" | "noteLang" | "fellBack"> {
   const english = { name: en.name, note: en.note, lang: "en" as Locale, noteLang: "en" as Locale };
   if (locale === "en") return { ...english, fellBack: false };
-  const ok = tr && (tr.reviewed === true || (fileReviewed && tr.reviewed !== false));
+  void fileReviewed;
+  const ok = !!tr && !!tr.name?.trim();
   if (!ok) return { ...english, fellBack: true };
   const noteOk = !!tr.note?.trim() && (tr.noteLang ?? locale) === locale;
   return {
@@ -193,11 +195,11 @@ function readPage(lang: Locale, slug: string) {
   return { meta, body };
 }
 
-/** Trust page (C9). HI/MR pages are used only if their front matter says `reviewed: true`. */
+/** Trust page (C9). D-030: a HI/MR page is shown whenever it exists, whatever its `reviewed` flag says. */
 export function loadTrustPage(locale: Locale, slug: string): TrustPageContent | null {
   if (locale !== "en") {
     const tr = readPage(locale, slug);
-    if (tr && String(tr.meta.reviewed) === "true") {
+    if (tr) {
       return { title: tr.meta.title, markdown: tr.body, lang: locale, fellBack: false };
     }
   }

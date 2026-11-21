@@ -4,263 +4,303 @@
   "lang": "mr",
   "version": "2026-11-14.1",
   "status": "final",
-  "note": "Names are Board-approved. Notes are not translated yet: 'note' repeats the English note because the schema requires one (noteLang: en).",
+  "note": "Names and notes shown in full (D-030). reviewed: false = draft awaiting Board review.",
   "items": {
     "obs.2026.prabodhini-ekadashi": {
       "name": "कार्तिकी (प्रबोधिनी) एकादशी",
-      "note": "Marks the end of Chaturmas. In Maharashtra, many devotees walk to Pandharpur for Kartiki Ekadashi; Vaishnava calendars observe it on 21 November.",
-      "noteLang": "en",
+      "note": "चातुर्मासाची समाप्ती. महाराष्ट्रात अनेक भाविक कार्तिकी एकादशीला पंढरपूरची वारी करतात; वैष्णव पंचांगे ती 21 नोव्हेंबरला पाळतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.tulsi-vivah": {
       "name": "तुळशी विवाह",
-      "note": "The ceremonial marriage of the tulsi plant to Vishnu, celebrated in many homes. Families keep it on different days in this week.",
-      "noteLang": "en",
+      "note": "तुळशीचा विष्णूशी प्रतीकात्मक विवाह, जो अनेक घरांत साजरा होतो. कुटुंबे या आठवड्यात वेगवेगळ्या दिवशी तो करतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.kartik-purnima": {
       "name": "कार्तिक (त्रिपुरारी) पौर्णिमा आणि देव दीपावली",
-      "note": "The full moon of Kartik. Many people take a ritual bath and light lamps; in Varanasi the ghats are lit for Dev Deepawali.",
-      "noteLang": "en",
+      "note": "कार्तिक महिन्याची पौर्णिमा. अनेक जण पवित्र स्नान करतात आणि दिवे लावतात; वाराणसीत देव दिवाळीसाठी घाट उजळतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.guru-nanak-gurpurab": {
       "name": "गुरू नानक गुरपुरब (प्रकाश पर्व)",
-      "note": "The birth anniversary of Guru Nanak Dev Ji, the first Sikh Guru. Gurdwaras hold kirtan, prabhat pheris and langar open to all.",
-      "noteLang": "en",
+      "note": "पहिले शीख गुरू, गुरू नानक देव यांची जयंती. गुरुद्वारांत कीर्तन, प्रभातफेरी आणि सर्वांसाठी खुले लंगर असते.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.advent-sunday": {
       "name": "आगमन काळाचा पहिला रविवार",
-      "note": "The start of the Christian liturgical year and four weeks of preparation for Christmas.",
-      "noteLang": "en",
+      "note": "ख्रिस्ती धर्मवर्षाची सुरुवात आणि नाताळच्या तयारीच्या चार आठवड्यांचा आरंभ.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.st-francis-xavier": {
       "name": "संत फ्रान्सिस झेविअर यांचे पर्व",
-      "note": "Goa's patron saint, whose relics are kept at the Basilica of Bom Jesus in Old Goa. Pilgrims of many faiths attend the feast.",
-      "noteLang": "en",
+      "note": "गोव्याचे संरक्षक संत, ज्यांचे अवशेष ओल्ड गोव्यातील बॉम जेसस बॅसिलिकामध्ये जतन केले आहेत. अनेक धर्मांचे यात्रेकरू या उत्सवाला येतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.hanukkah": {
       "name": "हनुक्का",
-      "note": "The eight-night Jewish festival of lights, remembering the rededication of the Temple in Jerusalem. A lamp is lit each evening, from 4 to 12 December.",
-      "noteLang": "en",
+      "note": "आठ रात्रींचा ज्यू प्रकाशोत्सव, जेरुसलेममधील मंदिराच्या पुनर्समर्पणाचे स्मरण करणारा. 4 ते 12 डिसेंबर दरम्यान दररोज संध्याकाळी एक दिवा लावला जातो.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.mahaparinirvan-din": {
       "name": "महापरिनिर्वाण दिन",
-      "note": "The death anniversary of Dr B. R. Ambedkar in 1956. Large numbers, many of them Ambedkarite Buddhists, gather at Chaitya Bhoomi in Mumbai to pay respects.",
-      "noteLang": "en",
+      "note": "1956 मध्ये डॉ. बी. आर. आंबेडकर यांची पुण्यतिथी. मोठ्या संख्येने लोक, त्यांपैकी अनेक आंबेडकरवादी बौद्ध, मुंबईतील चैत्यभूमीवर अभिवादनासाठी जमतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.bodhi-day": {
       "name": "बोधी दिन",
-      "note": "Marks the Buddha's enlightenment in Japanese and some other Mahayana traditions. Theravada Buddhists remember it on Vesak, in April or May.",
-      "noteLang": "en",
+      "note": "जपानी आणि काही इतर महायान परंपरांमध्ये बुद्धांच्या बोधिप्राप्तीचा दिवस. थेरवाद बौद्ध ते एप्रिल किंवा मे महिन्यातील वेसाकला स्मरतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.gita-jayanti": {
       "name": "गीता जयंती",
-      "note": "Remembers the day the Bhagavad Gita is traditionally said to have been spoken. It falls on Mokshada Ekadashi; many read or recite the Gita.",
-      "noteLang": "en",
+      "note": "परंपरेनुसार ज्या दिवशी भगवद्गीता सांगितली गेली त्या दिवसाचे स्मरण. ती मोक्षदा एकादशीला येते; अनेक जण गीतेचे वाचन किंवा पठण करतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.datta-jayanti": {
       "name": "दत्त जयंती",
-      "note": "The birth anniversary of Dattatreya, on Margashirsha Purnima. Widely observed in Maharashtra and Karnataka at Datta temples.",
-      "noteLang": "en",
+      "note": "मार्गशीर्ष पौर्णिमेला भगवान दत्तात्रेयांची जयंती. महाराष्ट्र आणि कर्नाटकात दत्त मंदिरांमध्ये ती मोठ्या प्रमाणात साजरी होते.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.hazrat-ali-birthday": {
       "name": "हजरत अली यांचा जन्मदिन",
-      "note": "Remembers the birth of Ali ibn Abi Talib, on 13 Rajab. The date depends on the sighting of the moon.",
-      "noteLang": "en",
+      "note": "13 रजब रोजी अली इब्न अबी तालिब यांच्या जन्माचे स्मरण. तारीख चंद्रदर्शनावर अवलंबून असते.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2026.christmas": {
       "name": "नाताळ (ख्रिसमस)",
-      "note": "Christians celebrate the birth of Jesus with midnight Mass, carols and time with family.",
-      "noteLang": "en",
+      "note": "ख्रिस्ती बांधव मध्यरात्रीची प्रार्थनासभा, कॅरोल आणि कुटुंबासोबत वेळ घालवून येशूचा जन्म साजरा करतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.lohri": {
       "name": "लोहडी",
-      "note": "A winter harvest festival of Punjab, celebrated around a bonfire on the eve of Maghi. Some calendars list it on 14 January.",
-      "noteLang": "en",
+      "note": "पंजाबचा हिवाळी पीक-उत्सव, जो माघीच्या पूर्वसंध्येला शेकोटीभोवती साजरा होतो. काही पंचांगे तो 14 जानेवारीला दाखवतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.makar-sankranti": {
       "name": "मकर संक्रांत",
-      "note": "The sun's move into Makara (Capricorn). Many observe it on 14 January and others on the morning of 15 January; in Maharashtra, til-gul is shared.",
-      "noteLang": "en",
+      "note": "सूर्याचा मकर राशीत प्रवेश. अनेक जण तो 14 जानेवारीला आणि काही जण 15 जानेवारीच्या सकाळी पाळतात; महाराष्ट्रात तिळगूळ वाटला जातो.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.pongal": {
       "name": "पोंगल",
-      "note": "The Tamil harvest festival. Rice is boiled in new pots until it overflows, as thanks for the harvest.",
-      "noteLang": "en",
+      "note": "तमिळ पीक-उत्सव. पिकाबद्दल कृतज्ञता म्हणून नव्या भांड्यांत भात उतू जाईपर्यंत शिजवला जातो.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.guru-gobind-singh-prakash": {
       "name": "गुरू गोबिंद सिंह जी प्रकाश पर्व",
-      "note": "The birth anniversary of Guru Gobind Singh Ji, the tenth Sikh Guru. Some Sikh calendars mark it on a different January date.",
-      "noteLang": "en",
+      "note": "दहावे शीख गुरू, गुरू गोबिंद सिंग यांची जयंती. काही शीख पंचांगे ती जानेवारीतील दुसऱ्या तारखेला दाखवतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.thaipusam": {
       "name": "थाईपूसम",
-      "note": "A Tamil festival for Murugan on the full moon of the month of Thai. Devotees offer prayers, and some carry kavadi in procession.",
-      "noteLang": "en",
+      "note": "थै महिन्याच्या पौर्णिमेला मुरुगनसाठी साजरा होणारा तमिळ उत्सव. भाविक प्रार्थना करतात आणि काही जण कावडी घेऊन मिरवणुकीत चालतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.republic-day": {
       "name": "प्रजासत्ताक दिन",
-      "note": "The day the Constitution of India came into force in 1950.",
-      "noteLang": "en",
+      "note": "1950 मध्ये भारताची राज्यघटना लागू झाल्याचा दिवस.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.ramadan-begins": {
       "name": "रमजान प्रारंभ (अपेक्षित)",
-      "note": "The month of fasting from dawn to sunset begins. The start depends on the sighting of the new moon.",
-      "noteLang": "en",
+      "note": "पहाटेपासून सूर्यास्तापर्यंत उपवासाचा महिना सुरू होतो. सुरुवात नव्या चंद्राच्या दर्शनावर अवलंबून असते.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.ash-wednesday": {
       "name": "राखेचा बुधवार (ॲश वेन्सडे)",
-      "note": "The first day of Lent, a season of prayer and fasting before Easter.",
-      "noteLang": "en",
+      "note": "लेंटचा पहिला दिवस, म्हणजे ईस्टरपूर्वीचा प्रार्थना आणि उपवासाचा काळ.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.ganesh-jayanti": {
       "name": "माघी गणेश जयंती",
-      "note": "The birth anniversary of Ganesha in the month of Magha, observed especially in Maharashtra and at Ganesha temples.",
-      "noteLang": "en",
+      "note": "माघ महिन्यातील गणेशाची जयंती, विशेषतः महाराष्ट्रात आणि गणेश मंदिरांमध्ये साजरी होते.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.vasant-panchami": {
       "name": "वसंत पंचमी",
-      "note": "Welcomes spring. Many honour Saraswati, the goddess of learning, and some children begin their first letters on this day.",
-      "noteLang": "en",
+      "note": "वसंताचे स्वागत. अनेक जण विद्येची देवता सरस्वतीचे पूजन करतात आणि काही मुले याच दिवशी अक्षरे गिरवायला सुरुवात करतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.ratha-saptami": {
       "name": "रथसप्तमी",
-      "note": "A day for honouring Surya, the sun, at sunrise.",
-      "noteLang": "en",
+      "note": "सूर्योदयाच्या वेळी सूर्यदेवाचे पूजन करण्याचा दिवस.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.guru-ravidas-jayanti": {
       "name": "संत गुरू रविदास जयंती",
-      "note": "The birth anniversary of Sant Guru Ravidas, whose hymns are part of the Guru Granth Sahib. Observed on Magha Purnima.",
-      "noteLang": "en",
+      "note": "संत गुरू रविदास यांची जयंती, ज्यांची पदे गुरू ग्रंथ साहिबमध्ये आहेत. ती माघ पौर्णिमेला साजरी होते.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.jamat-ul-vida": {
       "name": "जमात-उल-विदा (अपेक्षित)",
-      "note": "The last Friday of Ramadan, marked by special congregational prayers. The date depends on the moon.",
-      "noteLang": "en",
+      "note": "रमजानचा शेवटचा शुक्रवार, विशेष सामूहिक नमाजाने साजरा होतो. तारीख चंद्रावर अवलंबून असते.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.maha-shivaratri": {
       "name": "महाशिवरात्री",
-      "note": "A night for Shiva. Many keep a fast and a night vigil with prayer.",
-      "noteLang": "en",
+      "note": "शिवासाठीची रात्र. अनेक जण उपवास करतात आणि प्रार्थनेसह रात्री जागरण करतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.eid-al-fitr": {
       "name": "रमजान ईद (ईद-उल-फित्र) (अपेक्षित)",
-      "note": "Marks the end of Ramadan with prayers, charity and meals with family and friends. It may fall on 11 March, depending on the moon.",
-      "noteLang": "en",
+      "note": "नमाज, दानधर्म आणि कुटुंब व मित्रांसोबत जेवणाने रमजानच्या समाप्तीचा सण. चंद्रानुसार तो 11 मार्चलाही येऊ शकतो.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.holika-dahan": {
       "name": "होळी (होलिका दहन)",
-      "note": "Bonfires are lit on the eve of Holi. Devotees recount the story of Prahlad's faith.",
-      "noteLang": "en",
+      "note": "होळीच्या पूर्वसंध्येला शेकोटी पेटवली जाते. भाविक प्रल्हादाच्या श्रद्धेची कथा सांगतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.holi": {
       "name": "धुलिवंदन (धुळवड)",
-      "note": "The festival of colours, welcoming spring. In some states the public holiday is on 23 March.",
-      "noteLang": "en",
+      "note": "रंगांचा सण, जो वसंताचे स्वागत करतो. काही राज्यांत सार्वजनिक सुट्टी 23 मार्चला आहे.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.good-friday": {
       "name": "गुड फ्रायडे",
-      "note": "Christians remember the crucifixion of Jesus with prayer and quiet services.",
-      "noteLang": "en",
+      "note": "ख्रिस्ती बांधव प्रार्थना आणि शांत सभांद्वारे येशूच्या क्रुसावरील मृत्यूचे स्मरण करतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
     },
     "obs.2027.easter": {
       "name": "ईस्टर संडे",
-      "note": "Christians celebrate the resurrection of Jesus.",
-      "noteLang": "en",
+      "note": "ख्रिस्ती बांधव येशूच्या पुनरुत्थानाचा उत्सव साजरा करतात.",
       "reviewed": true,
       "reviewer": "Board",
-      "reviewedOn": "2026-11-17"
+      "reviewedOn": "2026-11-17",
+      "noteReviewed": false
+    },
+    "obs.2026.guru-tegh-bahadur-shaheedi": {
+      "name": "गुरू तेग बहादूर यांचा शहीदी दिवस",
+      "note": "नववे शीख गुरू, गुरू तेग बहादूर यांच्या हौतात्म्याचे स्मरण.",
+      "reviewed": false
+    },
+    "obs.2026.kartik-purnima-jain": {
+      "name": "कार्तिक पौर्णिमा (जैन)",
+      "note": "जैन यात्रेकरू पावसाळ्याच्या महिन्यांनंतर पालिताणा येथील शत्रुंजय टेकडीची चढाई पुन्हा सुरू करतात.",
+      "reviewed": false
+    },
+    "obs.2026.maun-ekadashi": {
+      "name": "मौन एकादशी",
+      "note": "मौन आणि उपवासाचा एक जैन दिवस.",
+      "reviewed": false
+    },
+    "obs.2027.shab-e-miraj": {
+      "name": "शब-ए-मेराज (अपेक्षित)",
+      "note": "पैगंबर मुहंमद यांच्या रात्रीच्या प्रवासाचे स्मरण. तारीख चंद्रावर अवलंबून असते.",
+      "reviewed": false
+    },
+    "obs.2027.shab-e-barat": {
+      "name": "शब-ए-बरात (अपेक्षित)",
+      "note": "15 शाबानची रात्र, प्रार्थना आणि स्मरणाने साजरी होते. तारीख चंद्रावर अवलंबून असते.",
+      "reviewed": false
+    },
+    "obs.2027.losar": {
+      "name": "लोसर",
+      "note": "तिबेटी आणि हिमालयीन बौद्धांचे नववर्ष.",
+      "reviewed": false
+    },
+    "obs.2027.hola-mohalla": {
+      "name": "होला मोहल्ला",
+      "note": "होळीच्या दुसऱ्या दिवशी आनंदपूर साहिब येथे होणारा शीखांचा मेळावा.",
+      "reviewed": false
+    },
+    "obs.2027.jamshedi-navroz": {
+      "name": "जमशेदी नवरोज",
+      "note": "फसली दिनदर्शिकेनुसार पारशी नववर्ष.",
+      "reviewed": false
     }
   }
 }

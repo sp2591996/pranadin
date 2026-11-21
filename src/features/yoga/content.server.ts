@@ -19,10 +19,60 @@ function read<T>(rel: string): T | null {
   return JSON.parse(fs.readFileSync(file, "utf8").replace(/^﻿/, "")) as T;
 }
 
+interface TrPose {
+  name?: string;
+  summary?: string;
+  breathTip?: string;
+  steps?: string[];
+  benefits?: string[];
+  cautions?: string[];
+  reviewed?: boolean;
+}
+interface TrModule {
+  title?: string;
+  description?: string;
+  steps?: { title?: string; instruction?: string; breath?: string }[];
+  reviewed?: boolean;
+}
+interface TrProgram {
+  title?: string;
+  description?: string;
+  days?: { name?: string }[];
+  reviewed?: boolean;
+}
 interface Tr {
-  poses?: Record<string, { name?: string; reviewed?: boolean }>;
-  modules?: Record<string, { title?: string; reviewed?: boolean }>;
-  programs?: Record<string, { title?: string; reviewed?: boolean }>;
+  poses?: Record<string, TrPose>;
+  modules?: Record<string, TrModule>;
+  programs?: Record<string, TrProgram>;
+}
+
+const str = (x: unknown): string | undefined => (typeof x === "string" && x.trim() ? x : undefined);
+const list = (x: unknown, n: number): string[] | undefined =>
+  Array.isArray(x) && x.length === n && x.every((v) => !!str(v)) ? (x as string[]) : undefined;
+
+/** The pose with its translated text laid over the English (D-030: drafts are shown). */
+function localizePose(p: YogaPose, t: TrPose | undefined): YogaPose {
+  if (!t) return p;
+  return {
+    ...p,
+    summary: str(t.summary) ?? p.summary,
+    breathTip: str(t.breathTip) ?? p.breathTip,
+    steps: list(t.steps, p.steps.length) ?? p.steps,
+    benefits: list(t.benefits, p.benefits.length) ?? p.benefits,
+    cautions: list(t.cautions, p.cautions.length) ?? p.cautions,
+  };
+}
+
+function localizeModule(m: YogaModule, t: TrModule | undefined): YogaModule {
+  if (!t) return m;
+  return {
+    ...m,
+    description: str(t.description) ?? m.description,
+    steps: m.steps.map((st, i) => {
+      const x = t.steps?.[i];
+      return { ...st, title: str(x?.title) ?? st.title, instruction: str(x?.instruction) ?? st.instruction, breath: str(x?.breath) ?? st.breath };
+    }),
+  };
 }
 
 let cache: YogaFile | null = null;
@@ -55,7 +105,9 @@ export function loadPoseList(locale: Locale): PoseListItem[] {
 
 export function loadPose(slug: string, locale: Locale): { pose: YogaPose; item: PoseListItem } | null {
   const pose = loadYogaFile().poses.find((p) => p.slug === slug);
-  return pose ? { pose, item: poseItem(pose, translations(locale), locale) } : null;
+  if (!pose) return null;
+  const tr = translations(locale);
+  return { pose: localizePose(pose, tr.poses?.[slug]), item: poseItem(pose, tr, locale) };
 }
 
 function moduleItem(m: YogaModule, tr: Tr, locale: Locale): ModuleListItem {
@@ -82,7 +134,7 @@ export function loadSession(slug: string, locale: Locale) {
       poses[st.pose] = { name: it.name, nameLang: it.nameLang, image: p.image.file, alt: p.image.alt };
     }
   }
-  return { module: mod, item: moduleItem(mod, tr, locale), poses };
+  return { module: localizeModule(mod, tr.modules?.[slug]), item: moduleItem(mod, tr, locale), poses };
 }
 
 function programItem(p: YogaProgram, tr: Tr, locale: Locale): ProgramListItem {
@@ -93,10 +145,10 @@ function programItem(p: YogaProgram, tr: Tr, locale: Locale): ProgramListItem {
     title: n.text,
     titleLang: n.lang,
     level: p.level,
-    description: p.description,
-    days: p.days.map((d) => {
+    description: pick(locale, tr.programs?.[p.id]?.description, undefined, p.description).text,
+    days: p.days.map((d, i) => {
       const m = file.modules.find((x) => x.slug === d.module)!;
-      return { day: d.day, name: d.name, module: d.module, moduleTitle: moduleItem(m, tr, locale).title, seconds: moduleSeconds(m.steps) };
+      return { day: d.day, name: pick(locale, tr.programs?.[p.id]?.days?.[i]?.name, undefined, d.name).text, module: d.module, moduleTitle: moduleItem(m, tr, locale).title, seconds: moduleSeconds(m.steps) };
     }),
   };
 }

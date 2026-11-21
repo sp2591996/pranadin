@@ -56,7 +56,7 @@ export function ProgramView({ program }: { program: ProgramListItem }) {
           <span lang={program.titleLang}>{program.title}</span>
           {program.titleLang === "en" ? <EnglishMark /> : null}
         </h1>
-        <p className="text-text-muted" lang="en">
+        <p className="text-text-muted" lang={program.titleLang}>
           {program.description}
         </p>
         <p className="mt-1 text-text-muted">

@@ -24,7 +24,7 @@ All URLs have a trailing slash. `routes.today(l)`, `.practice(l)`, `.calendar(l)
 - Client: `const { t, locale } = useI18n(); t("today.panchang.tithi", { tithi })`. Keys are typed from `content/en/ui.json`, so a missing key fails `tsc`.
 - Formatter: `formatMessage(template, params, locale)` in `src/i18n/format.ts` (ICU subset: `{x}`, `plural` with `#`/`=N`, `select`). **Dev-2:** `src/features/shared/format-message.ts` duplicates this; please switch to the shared one when convenient.
 - Dates: `localDateKey(ms, tz)`, `formatDateKey`, `formatTime`, `addDays`, `weekday`. Default zone `Asia/Kolkata`; digits are Latin in all locales.
-- Fallback: HI/MR text is used only when the item says `reviewed: true`; otherwise English for that key. `FallbackNote` tells the user.
+- Fallback (D-030): HI/MR draft text is shown whatever its `reviewed` flag says (flags stay as data for the Board). English only where an item is missing or blank; `FallbackNote`/`EnglishMark` then say so. `npm run content:gaps` lists any gap; a unit test requires zero. Trust pages exist in hi/mr (`content/<l>/pages/`, `legal/<l>/`) with an official-English line on top.
 
 ## Content loaders (`src/content/load.ts`, server/build only)
 `loadMessages(locale)`, `loadObservances(locale)` (hides `hold`; maps flags to `cal.flag.*` keys), `loadTrustPage(locale, file)`. Dev-2's `src/features/shared/content.server.ts` loads practices, plan cards and journal text. zod schemas in `src/content/schema.ts` fail the build on invalid content.

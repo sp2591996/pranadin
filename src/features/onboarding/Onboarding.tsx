@@ -14,7 +14,7 @@ import { track } from "@/features/analytics";
 import { useS } from "@/features/shared/strings";
 import { useDeviceValue } from "@/features/shared/use-device";
 import { btn } from "@/features/shared/ui";
-import { CITIES, getCity } from "@/lib/cities";
+import { CITIES, cityMatches, cityName, getCity } from "@/lib/cities";
 import { routes } from "@/lib/routes";
 import { DEFAULT_PREFS, getPrefs } from "@/lib/storage";
 import { GOALS, PLAN_MINUTES, TIME_SLOTS, type Goal, type Locale, type PlanMinutes, type TimeSlot } from "@/lib/types";
@@ -87,9 +87,9 @@ export function Onboarding() {
   };
 
   const results = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const q = query.trim();
     if (!q) return CITIES.slice(0, 8);
-    return CITIES.filter((c) => c.name.toLowerCase().includes(q) || c.id.includes(q)).slice(0, 12);
+    return CITIES.filter((c) => cityMatches(c, q)).slice(0, 12);
   }, [query]);
 
   const next = () => go(step + 1);
@@ -281,7 +281,7 @@ export function Onboarding() {
             onChange={(e) => setQuery(e.target.value)}
             className="mt-1 min-h-12 w-full rounded-md border border-border-input bg-surface px-3 text-text"
           />
-          {cityId ? <p className="mt-2 font-semibold">{s("onb.city.selected", { city: getCity(cityId).name })}</p> : null}
+          {cityId ? <p className="mt-2 font-semibold">{s("onb.city.selected", { city: cityName(getCity(cityId), locale) })}</p> : null}
           <div role="radiogroup" aria-label={s("onb.city.title")} className="mt-3 flex flex-col gap-2">
             {results.length === 0 ? (
               <p className="text-text-muted">{s("onb.city.noResults", { query })}</p>
@@ -295,7 +295,7 @@ export function Onboarding() {
                   onClick={() => setCityId(c.id)}
                   className="flex min-h-12 items-center rounded-md border border-border-input bg-surface px-4 text-left aria-[checked=true]:border-2 aria-[checked=true]:border-primary aria-[checked=true]:bg-primary-tint"
                 >
-                  <span lang="en">{c.name}</span>
+                  <span>{cityName(c, locale)}</span>
                 </button>
               ))
             )}

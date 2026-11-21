@@ -5,8 +5,9 @@
  * Content's format (`pranadin-content/1.0`):
  *   content/en/ui.json  { strings: { key: "English" } }
  *   content/hi/ui.json  { strings: { key: { text, reviewed, reviewer, reviewedOn } } }
- * A HI/MR string is shown only when `reviewed === true` (Board review, D-012);
- * otherwise that one string falls back to English.
+ * Board D-030: a HI/MR string is shown whenever it has text, whatever its
+ * `reviewed` flag says (the flag stays as data for the Board's later review).
+ * Only a missing or blank string falls back to English.
  */
 import type { Locale } from "./config";
 import type { MessageKey, Messages } from "./keys";
@@ -22,7 +23,7 @@ export interface UiTranslationFile {
   strings: Record<string, TranslatedString>;
 }
 
-export type MessageSource = "reviewed" | "en";
+export type MessageSource = "translated" | "en";
 
 export interface ResolvedMessages {
   messages: Messages;
@@ -31,7 +32,7 @@ export interface ResolvedMessages {
 }
 
 export function isReviewed(t: TranslatedString | undefined): t is TranslatedString {
-  return !!t && t.reviewed === true && typeof t.text === "string" && t.text.trim() !== "";
+  return !!t && typeof t.text === "string" && t.text.trim() !== "";
 }
 
 /** Resolve UI strings for a locale from Content's English file and, for hi/mr, its translation file. */
@@ -46,7 +47,7 @@ export function resolveMessages(
     const tr = locale === "en" ? undefined : translation?.strings[key];
     if (isReviewed(tr)) {
       messages[key] = tr.text;
-      source[key] = "reviewed";
+      source[key] = "translated";
     } else {
       messages[key] = en.strings[key]!;
       source[key] = "en";
@@ -57,9 +58,8 @@ export function resolveMessages(
 
 /**
  * Localize one content item (e.g. an observance's `{ name, note }`).
- * The translated item is used only if it is reviewed (item-level
- * `reviewed: true`, or the whole file is reviewed); missing fields fall back
- * to English. `fellBack` lets the UI say "Showing English" instead of
+ * D-030: the translated item is used whether or not it is reviewed; blank or
+ * missing fields fall back to English. `fellBack` lets the UI say "Showing English" instead of
  * mixing languages silently.
  */
 export function localizeItem<F extends Record<string, unknown>>(
@@ -69,7 +69,8 @@ export function localizeItem<F extends Record<string, unknown>>(
   fileReviewed = false,
 ): F & { lang: Locale; fellBack: boolean } {
   if (locale === "en") return { ...en, lang: "en", fellBack: false };
-  const ok = translated && (translated.reviewed === true || (fileReviewed && translated.reviewed !== false));
+  const ok = !!translated;
+  void fileReviewed;
   if (!ok) return { ...en, lang: "en", fellBack: true };
   const merged: Record<string, unknown> = { ...en };
   let partial = false;

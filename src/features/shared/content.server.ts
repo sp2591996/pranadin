@@ -5,9 +5,8 @@
  * to Client Components.
  *
  * Format: `app/content/SCHEMA.md` (pranadin-content/1.0).
- * HI/MR: a `content/{hi,mr}/<file>.json` is used per item only when that
- * item carries `reviewed: true` (D-008, D-012).
- * Otherwise the English text is used, item by item.
+ * HI/MR: a `content/{hi,mr}/<file>.json` item is used whenever it exists, as
+ * a draft (Board D-030). English is used only for a missing or blank item.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -29,27 +28,28 @@ function readJson(rel: string): Json | null {
   }
 }
 
-/** `content/SCHEMA.md`: HI/MR entries carry `reviewed: true` once the Board approves them (D-012). */
-const approved = (x: unknown): boolean =>
-  !!x &&
-  typeof x === "object" &&
-  ((x as { reviewed?: unknown }).reviewed === true || (x as { review?: { status?: string } }).review?.status === "approved");
-
 /**
- * Pick a localized value. `tr` may be a plain value (used only if the whole
- * file is approved) or `{ text, review }`.
+ * Board D-030: HI/MR draft translations are shown whatever their `reviewed`
+ * flag says (the flag stays as data for the Board's later review). An entry
+ * counts when it exists; blank text still falls back to English per field.
  */
+const approved = (x: unknown): boolean => !!x && typeof x === "object";
+
+/** Pick a localized value: `{ text }` objects or plain values; blank text falls back to English. */
 function pickLocalized<T>(en: T, tr: unknown, fileApproved: boolean): T {
   if (tr === undefined || tr === null) return en;
-  if (typeof tr === "object" && tr !== null && "text" in tr && approved(tr)) return (tr as { text: T }).text;
-  if (fileApproved && typeof tr === typeof en) return tr as T;
+  if (typeof tr === "object" && "text" in tr) {
+    const t = (tr as { text: unknown }).text;
+    return typeof t === "string" ? (t.trim() ? (t as unknown as T) : en) : en;
+  }
+  if (fileApproved && typeof tr === typeof en && !(typeof tr === "string" && !tr.trim())) return tr as T;
   return en;
 }
 
 function localizedFile(name: string, locale: Locale): { en: Json; tr: Json | null; trApproved: boolean } {
   const en = readJson(`en/${name}`) ?? {};
   const tr = locale === "en" ? null : readJson(`${locale}/${name}`);
-  return { en, tr, trApproved: approved(tr) };
+  return { en, tr, trApproved: !!tr };
 }
 
 export type Strings = Record<string, string>;
@@ -69,7 +69,11 @@ export function loadStrings(locale: Locale, prefixes: readonly string[]): String
   const want = (k: string) => k.startsWith("common.") || prefixes.some((p) => k.startsWith(p));
   const out: Strings = {};
   const localized: string[] = [];
-  for (const [k, v] of Object.entries(FALLBACK_STRINGS)) if (want(k)) out[k] = v;
+  for (const [k, v] of Object.entries(FALLBACK_STRINGS)) {
+    if (!want(k)) continue;
+    out[k] = pickLocalized(v, trStrings[k], trApproved);
+    if (locale !== "en" && out[k] !== v) localized.push(k);
+  }
   for (const [k, v] of Object.entries(enStrings)) {
     if (!want(k)) continue;
     out[k] = pickLocalized(v, trStrings[k], trApproved);

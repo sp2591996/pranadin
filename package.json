@@ -14,7 +14,8 @@
     "audit:prod": "npm audit --omit=dev --audit-level=high",
     "check": "npm run lint && npm run typecheck && npm run test && npm run build",
     "sync:legal": "node scripts/sync-legal.mjs",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "content:gaps": "node scripts/content-gaps.mjs"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",

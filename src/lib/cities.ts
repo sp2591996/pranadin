@@ -76,3 +76,40 @@ const byId = new Map(CITIES.map((c) => [c.id, c]));
 export function getCity(id: string | null | undefined): City {
   return (id && byId.get(id)) || byId.get(DEFAULT_CITY_ID)!;
 }
+
+/** Display names in Devanagari (D-030: the whole app is in the chosen language). Drafts, like other hi/mr text. */
+const HI: Record<string, string> = {
+  mumbai: "मुंबई", pune: "पुणे", thane: "ठाणे", nagpur: "नागपुर", nashik: "नासिक",
+  "chhatrapati-sambhajinagar": "छत्रपति संभाजीनगर", kolhapur: "कोल्हापुर", "new-delhi": "नई दिल्ली",
+  chennai: "चेन्नई", kolkata: "कोलकाता", bengaluru: "बेंगलुरु", hyderabad: "हैदराबाद", ahmedabad: "अहमदाबाद",
+  surat: "सूरत", jaipur: "जयपुर", lucknow: "लखनऊ", varanasi: "वाराणसी", patna: "पटना", bhopal: "भोपाल",
+  indore: "इंदौर", ujjain: "उज्जैन", chandigarh: "चंडीगढ़", amritsar: "अमृतसर", haridwar: "हरिद्वार",
+  guwahati: "गुवाहाटी", bhubaneswar: "भुवनेश्वर", thiruvananthapuram: "तिरुवनंतपुरम", kochi: "कोच्चि",
+  panaji: "पणजी (गोवा)", london: "लंदन", leicester: "लेस्टर", "edison-nj": "एडिसन, न्यू जर्सी",
+  "new-york": "न्यूयॉर्क", chicago: "शिकागो", houston: "ह्यूस्टन", "san-jose": "सैन जोस (बे एरिया)",
+  toronto: "टोरंटो", dubai: "दुबई", singapore: "सिंगापुर", kathmandu: "काठमांडू", sydney: "सिडनी",
+  melbourne: "मेलबर्न", auckland: "ऑकलैंड", "port-louis": "पोर्ट लुई",
+};
+const MR: Record<string, string> = {
+  ...HI,
+  nagpur: "नागपूर", nashik: "नाशिक", kolhapur: "कोल्हापूर", "new-delhi": "नवी दिल्ली", bengaluru: "बंगळुरू",
+  hyderabad: "हैदराबाद", varanasi: "वाराणसी", indore: "इंदूर", chandigarh: "चंदीगड", haridwar: "हरिद्वार",
+  guwahati: "गुवाहाटी", bhubaneswar: "भुवनेश्वर", thiruvananthapuram: "तिरुवनंतपुरम", kochi: "कोची",
+  panaji: "पणजी (गोवा)", london: "लंडन", leicester: "लेस्टर", "edison-nj": "एडिसन, न्यू जर्सी",
+  "new-york": "न्यू यॉर्क", houston: "ह्यूस्टन", "san-jose": "सॅन होजे (बे एरिया)", dubai: "दुबई",
+  singapore: "सिंगापूर", kathmandu: "काठमांडू", sydney: "सिडनी", melbourne: "मेलबर्न", auckland: "ऑकलंड",
+  "port-louis": "पोर्ट लुई", mumbai: "मुंबई", amritsar: "अमृतसर", ahmedabad: "अहमदाबाद", surat: "सुरत",
+  lucknow: "लखनौ", patna: "पाटणा", bhopal: "भोपाळ", ujjain: "उज्जैन", chennai: "चेन्नई", kolkata: "कोलकाता",
+  jaipur: "जयपूर", chicago: "शिकागो", toronto: "टोरांटो",
+};
+
+/** City name for display in a locale (English name where no translation exists). */
+export function cityName(city: City, locale: "en" | "hi" | "mr"): string {
+  return (locale === "hi" ? HI[city.id] : locale === "mr" ? MR[city.id] : undefined) ?? city.name;
+}
+
+/** True if the query matches the city's English or translated name. */
+export function cityMatches(city: City, q: string): boolean {
+  const s = q.trim().toLowerCase();
+  return !s || [city.name, HI[city.id] ?? "", MR[city.id] ?? "", city.id].some((n) => n.toLowerCase().includes(s));
+}

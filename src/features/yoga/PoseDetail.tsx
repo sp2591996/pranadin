@@ -11,11 +11,11 @@ import { YogaImage } from "./YogaImage";
 import { yogaRoutes } from "./routes";
 import type { PoseListItem, YogaPose } from "./types";
 
-/** One pose: image, steps, what it offers, cautions and sources. Pose text is English until reviewed. */
+/** One pose: image, steps, what it offers, cautions and sources. Draft translations are shown (D-030). */
 export function PoseDetail({ pose, item }: { pose: YogaPose; item: PoseListItem }) {
   const s = useS();
   const { locale } = useI18n();
-  const lang = "en";
+  const lang = item.nameLang;
   return (
     <article className="flex flex-col gap-5">
       <Link href={yogaRoutes.home(locale)} className="inline-flex min-h-11 items-center gap-1 text-primary">
@@ -84,11 +84,11 @@ export function PoseDetail({ pose, item }: { pose: YogaPose; item: PoseListItem 
               <li key={src.name}>
                 {src.url ? (
                   <a href={src.url} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-11 items-center underline underline-offset-2">
-                    {src.name}
+                    <span lang="en">{src.name}</span>
                     <span className="sr-only"> ({s("a11y.opensOutside")})</span>
                   </a>
                 ) : (
-                  src.name
+                  <span lang="en">{src.name}</span>
                 )}
               </li>
             ))}
