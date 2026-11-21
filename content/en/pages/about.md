@@ -16,7 +16,7 @@ PranaDin (प्राणदिन) means "daily breath". It gives you a short p
 - **A daily practice.** Four gentle breathing techniques, two meditation guides and a private journal. None of the breathing practices ask you to hold your breath.
 - **A calendar of many traditions.** Hindu, Sikh, Jain, Buddhist, Christian, Islamic, Jewish and national days, each described in its own terms. We don't rank or compare faiths.
 - **Private by design.** There is no account. Your practice history and journal stay on your phone.
-- **In your language.** English, Hindi and Marathi. A person checks every Hindi and Marathi text before it appears. Until then, you see English.
+- **In your language.** English, Hindi and Marathi. Hindi and Marathi text is a draft translation, shown straight away while a person reviews it. If something reads wrong, please tell us.
 
 ## What PranaDin is not
 

@@ -21,7 +21,7 @@ Tap **Report a mistake** on any festival, or use [Send feedback]({{feedbackLink}
 2. **Within 72 hours:** we fix the item or remove it while we check.
 3. **We record it here:** what changed, and when.
 
-If a festival date is in doubt, we hide it rather than show a guess. If a Hindi or Marathi text is in doubt, the app shows English for that item until it is checked again.
+If a festival date is in doubt, we hide it rather than show a guess. If a Hindi or Marathi text reads wrong, tell us and we will correct it.
 
 ## Corrections log
 

@@ -45,6 +45,6 @@ Tele-MANAS numbers from the National Health Mission, Ministry of Health and Fami
 
 ## Translation
 
-English, Hindi and Marathi text: PranaDin content team, 2026. AI-assisted drafts, checked by a person before publication. See [How we use AI](ai-use).
+English, Hindi and Marathi text: PranaDin content team, 2026. AI-assisted drafts; Hindi and Marathi are being reviewed by a person. See [How we use AI](ai-use).
 
 Found a missing credit? Please [tell us]({{feedbackLink}}).

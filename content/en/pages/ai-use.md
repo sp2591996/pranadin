@@ -13,7 +13,7 @@ We want you to know exactly where AI is and isn't involved in PranaDin.
 
 ## Where we use AI
 
-- **Drafting text.** Some English text, and the first drafts of our Hindi and Marathi translations, are written with the help of AI tools. A person on our team then checks and corrects them. Hindi and Marathi text appears in the app only after that check. Until then, you see English.
+- **Drafting text.** Some English text, and the first drafts of our Hindi and Marathi translations, are written with the help of AI tools. Hindi and Marathi text is shown as a draft straight away, and a person on our team is reviewing it.
 - **Checking facts.** We use AI tools to help search for published sources. Every festival date is still confirmed against two named sources, which you can see in the app.
 
 ## Where we don't use AI
