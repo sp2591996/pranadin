@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "raksha-bandhan",
+  "traditions": ["hindu", "jain"],
+  "months": [7, 8],
+  "observances": [],
+  "name": { "en": "Raksha Bandhan", "hi": { "text": "रक्षाबंधन", "reviewed": false }, "mr": { "text": "रक्षाबंधन", "reviewed": false } },
+  "tagline": {
+    "en": "The thread of care between siblings and loved ones",
+    "hi": { "text": "भाई-बहन और अपनों के बीच स्नेह का धागा", "reviewed": false },
+    "mr": { "text": "भाऊ-बहीण आणि आपल्या माणसांमधील स्नेहाचा धागा", "reviewed": false }
+  },
+  "story": {
+    "en": "A widely told story from the Mahabharata says that when Krishna's finger was hurt, Draupadi tore a strip of her sari to bind it, and Krishna promised to stand by her in need. Another popular tale speaks of the river goddess Yamuna tying a thread on her brother Yama. Accounts differ on the details and the setting, and these stories are traditions told around the festival rather than a single fixed origin.",
+    "hi": { "text": "महाभारत की एक प्रचलित कथा के अनुसार जब कृष्ण की उँगली में चोट लगी तो द्रौपदी ने अपनी साड़ी का टुकड़ा फाड़कर उस पर बाँधा, और कृष्ण ने ज़रूरत के समय उनके साथ खड़े रहने का वचन दिया। एक अन्य लोकप्रिय कथा में नदी देवी यमुना अपने भाई यम को धागा बाँधती हैं। ब्योरे और प्रसंग अलग-अलग मिलते हैं, और ये कथाएँ पर्व के आसपास सुनाई जाने वाली परंपराएँ हैं, कोई एक निश्चित उत्पत्ति नहीं।", "reviewed": false },
+    "mr": { "text": "महाभारतातील एका प्रचलित कथेनुसार कृष्णाच्या बोटाला जखम झाली तेव्हा द्रौपदीने आपल्या साडीचा तुकडा फाडून तो बांधला, आणि कृष्णाने गरजेच्या वेळी तिच्या पाठीशी उभे राहण्याचे वचन दिले. दुसऱ्या लोकप्रिय कथेत नदीदेवी यमुना आपल्या भावाला, यमाला, धागा बांधते. तपशील आणि प्रसंग वेगवेगळे सांगितले जातात, आणि या कथा सणाभोवती सांगितल्या जाणाऱ्या परंपरा आहेत, एकच निश्चित उगम नाही.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Mahabharata (Krishna and Draupadi) and popular Puranic and folk tradition (Yama and Yamuna); exact textual sources are debated.",
+    "hi": { "text": "महाभारत (कृष्ण और द्रौपदी) और लोकप्रिय पौराणिक व लोक परंपरा (यम और यमुना) से; सटीक ग्रंथ-स्रोत पर मतभेद हैं।", "reviewed": false },
+    "mr": { "text": "महाभारत (कृष्ण आणि द्रौपदी) आणि लोकप्रिय पौराणिक व लोकपरंपरा (यम आणि यमुना) यांतून; नेमक्या ग्रंथस्रोतांबाबत मतभेद आहेत.", "reviewed": false }
+  },
+  "why": {
+    "en": "Raksha Bandhan, on the full-moon day of Shravan, celebrates the bond of care and responsibility between siblings, and by extension cousins, friends and neighbours. The rakhi is a symbol of affection and a promise to look out for one another.",
+    "hi": { "text": "श्रावण पूर्णिमा को मनाया जाने वाला रक्षाबंधन भाई-बहन, और उसी तरह चचेरे भाई-बहनों, मित्रों व पड़ोसियों के बीच स्नेह और ज़िम्मेदारी के रिश्ते का उत्सव है। राखी स्नेह का प्रतीक और एक-दूसरे का ध्यान रखने का वचन है।", "reviewed": false },
+    "mr": { "text": "श्रावण पौर्णिमेला साजरे होणारे रक्षाबंधन म्हणजे भाऊ-बहीण, तसेच चुलत-आते भावंडे, मित्र आणि शेजारी यांच्यातील स्नेह आणि जबाबदारीच्या नात्याचा उत्सव. राखी हे स्नेहाचे प्रतीक आणि एकमेकांची काळजी घेण्याचे वचन आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Prepare a plate with a rakhi, a small lamp, rice grains, roli or kumkum and sweets.",
+      "hi": { "text": "थाली में राखी, छोटा दीया, चावल के दाने, रोली या कुमकुम और मिठाई सजाएँ।", "reviewed": false },
+      "mr": { "text": "ताटात राखी, छोटा दिवा, तांदळाचे दाणे, रोळी किंवा कुंकू आणि मिठाई सजवा.", "reviewed": false }
+    },
+    {
+      "en": "Wash and sit together; the sibling who ties the rakhi applies a tilak to the other's forehead.",
+      "hi": { "text": "हाथ-मुँह धोकर साथ बैठें; राखी बाँधने वाला भाई या बहन दूसरे के माथे पर तिलक लगाता है।", "reviewed": false },
+      "mr": { "text": "हातपाय धुऊन एकत्र बसा; राखी बांधणारा भाऊ किंवा बहीण दुसऱ्याच्या कपाळावर टिळा लावतो.", "reviewed": false }
+    },
+    {
+      "en": "Tie the rakhi on the wrist and offer a sweet. Rakhis can be tied between sisters, brothers, cousins and friends.",
+      "hi": { "text": "कलाई पर राखी बाँधें और मिठाई खिलाएँ। राखी बहनों, भाइयों, चचेरे भाई-बहनों और मित्रों के बीच भी बाँधी जा सकती है।", "reviewed": false },
+      "mr": { "text": "मनगटावर राखी बांधा आणि मिठाई भरवा. राखी बहिणी, भाऊ, चुलत-आते भावंडे आणि मित्रांमध्येही बांधली जाऊ शकते.", "reviewed": false }
+    },
+    {
+      "en": "Exchange gifts or a kind word, and say what you value in each other.",
+      "hi": { "text": "उपहार या दो स्नेह भरे शब्दों का आदान-प्रदान करें और बताएँ कि आप एक-दूसरे में क्या सराहते हैं।", "reviewed": false },
+      "mr": { "text": "भेटवस्तू किंवा दोन प्रेमाचे शब्द द्या-घ्या आणि एकमेकांतील काय आवडते ते सांगा.", "reviewed": false }
+    },
+    {
+      "en": "If a sibling lives far away, send the rakhi in advance or tie it over a video call, and share a meal together when you can.",
+      "hi": { "text": "यदि कोई भाई या बहन दूर रहता हो तो राखी पहले भेज दें या वीडियो कॉल पर बाँधें, और जब संभव हो साथ भोजन करें।", "reviewed": false },
+      "mr": { "text": "एखादे भावंड दूर राहत असेल तर राखी आधी पाठवा किंवा व्हिडिओ कॉलवर बांधा, आणि शक्य होईल तेव्हा एकत्र जेवा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: the same full-moon day is Narali Purnima, when the Koli fishing community and many families offer a coconut to the sea before the fishing season, and coconut sweets are made; rakhi is tied the same day. North India: rakhi is the main festival, with sweets and gifts. Rajasthan: a lumba rakhi is also tied on a sister-in-law's bangle. Odisha and parts of the south: the day also coincides with Gamha Purnima and Avani Avittam, a sacred-thread renewal.",
+    "hi": { "text": "महाराष्ट्र: इसी पूर्णिमा को नारळी पूर्णिमा भी होती है, जब कोली मछुआरा समुदाय और कई परिवार मछली के मौसम से पहले समुद्र को नारियल अर्पित करते हैं और नारियल की मिठाइयाँ बनती हैं; उसी दिन राखी भी बाँधी जाती है। उत्तर भारत: राखी मुख्य पर्व है, मिठाई और उपहारों के साथ। राजस्थान: भाभी की चूड़ी पर लुंबा राखी भी बाँधी जाती है। ओडिशा और दक्षिण के कुछ भाग: यह दिन गम्हा पूर्णिमा और अवनि अवित्तम (जनेऊ बदलने का दिन) से भी जुड़ता है।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: याच पौर्णिमेला नारळी पौर्णिमा असते, जेव्हा कोळी मच्छीमार समाज आणि अनेक कुटुंबे मासेमारीच्या हंगामापूर्वी समुद्राला नारळ अर्पण करतात आणि नारळाच्या मिठाया बनतात; त्याच दिवशी राखीही बांधली जाते. उत्तर भारत: राखी हा मुख्य सण, मिठाई आणि भेटवस्तूंसह. राजस्थान: वहिनीच्या बांगडीवर लुंबा राखीही बांधली जाते. ओडिशा आणि दक्षिणेतील काही भाग: हा दिवस गम्हा पौर्णिमा आणि अवनी अवित्तम (जानवे बदलण्याचा दिवस) यांच्याशीही जोडलेला आहे.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Maharashtra: naralache ladoo, narali bhat (sweet coconut rice) and coconut barfi. Elsewhere: kheer, ghevar, barfi, peda and seviyan. Choose what suits your family and diet.",
+    "hi": { "text": "महाराष्ट्र: नारळाचे लड्डू, नारळी भात (मीठा नारियल चावल) और नारियल बर्फ़ी। अन्यत्र: खीर, घेवर, बर्फ़ी, पेड़ा और सेवइयाँ। वही चुनें जो आपके परिवार और आहार के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: नारळाचे लाडू, नारळी भात आणि नारळाची बर्फी. इतरत्र: खीर, घेवर, बर्फी, पेढा आणि शेवया. आपल्या कुटुंबाला आणि आहाराला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Not every family has a brother or sister nearby, and some have lost one. Rakhi can be shared with cousins, friends, or anyone who cares for you, and a quiet remembrance is equally fine. Tying is a gesture of affection, not an obligation.",
+    "hi": { "text": "हर परिवार में पास कोई भाई या बहन नहीं होता, और कुछ ने किसी को खोया भी होता है। राखी चचेरे भाई-बहनों, मित्रों या अपनों के साथ बाँटी जा सकती है, और शांत स्मरण भी उतना ही उचित है। राखी स्नेह का भाव है, बाध्यता नहीं।", "reviewed": false },
+    "mr": { "text": "प्रत्येक कुटुंबात जवळ भाऊ किंवा बहीण असतेच असे नाही, आणि काहींनी कोणाला गमावलेलेही असते. राखी चुलत-आते भावंडे, मित्र किंवा आपल्यावर प्रेम करणाऱ्या कोणाशीही वाटून घेता येते, आणि शांत स्मरणही तितकेच योग्य आहे. राखी बांधणे हा स्नेहाचा भाव आहे, बंधन नाही.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Raksha Bandhan, Maharashtra Tourism", "url": "https://maharashtratourism.gov.in/?p=3903" },
+    { "label": "History of Raksha Bandhan, The Better India", "url": "https://thebetterindia.com/111038/history-raksha-bandhan" }
+  ]
+}

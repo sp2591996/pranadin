@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "vaisakhi",
+  "traditions": ["sikh", "hindu"],
+  "months": [4],
+  "observances": [],
+  "name": { "en": "Vaisakhi", "hi": { "text": "बैसाखी", "reviewed": false }, "mr": { "text": "वैशाखी", "reviewed": false } },
+  "tagline": {
+    "en": "The Khalsa founding day and the spring harvest festival",
+    "hi": { "text": "खालसा स्थापना दिवस और रबी की फ़सल का पर्व", "reviewed": false },
+    "mr": { "text": "खालसा स्थापना दिवस आणि रब्बी पिकाचा सण", "reviewed": false }
+  },
+  "story": {
+    "en": "For Sikhs, Vaisakhi remembers 13 April 1699, when the tenth Guru, Guru Gobind Singh, gathered the community at Anandpur Sahib and founded the Khalsa. Five volunteers, remembered as the Panj Pyare (the Five Beloved), came forward and were the first to be initiated. The day is also called Khalsa Sajna Diwas. Beyond the Sikh story, Vaisakhi marks the rabi harvest of wheat and barley in Punjab and northern India, and farmers give thanks for the crop. The same days are the solar new year in several other regions.",
+    "hi": { "text": "सिखों के लिए बैसाखी 13 अप्रैल 1699 की याद है, जब दसवें गुरु, गुरु गोबिंद सिंह जी ने आनंदपुर साहिब में संगत को एकत्र कर खालसा की स्थापना की। पाँच स्वयंसेवक आगे आए, जिन्हें पंज प्यारे कहा जाता है, और वे सबसे पहले दीक्षित हुए। इस दिन को खालसा सजना दिवस भी कहते हैं। सिख कथा के अलावा, बैसाखी पंजाब और उत्तर भारत में गेहूँ और जौ की रबी फ़सल का पर्व है, जब किसान फ़सल के लिए आभार प्रकट करते हैं। इन्हीं दिनों कई अन्य क्षेत्रों में सौर नववर्ष भी मनाया जाता है।", "reviewed": false },
+    "mr": { "text": "शिखांसाठी वैशाखी म्हणजे १३ एप्रिल १६९९ ची आठवण, जेव्हा दहावे गुरू, गुरू गोबिंद सिंह यांनी आनंदपूर साहिब येथे संगतीला एकत्र करून खालसाची स्थापना केली. पाच स्वयंसेवक पुढे आले, ज्यांना पंज प्यारे म्हणतात, आणि त्यांना सर्वप्रथम दीक्षा मिळाली. या दिवसाला खालसा सजना दिवस असेही म्हणतात. शीख कथेशिवाय, वैशाखी हा पंजाब आणि उत्तर भारतातील गहू व जवाच्या रब्बी पिकाचा सण आहे, जेव्हा शेतकरी पिकासाठी कृतज्ञता व्यक्त करतात. याच दिवसांत इतर अनेक प्रदेशांत सौर नववर्षही साजरे होते.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Sikh tradition (the founding of the Khalsa in 1699); the harvest observance is a long-standing Punjabi custom.",
+    "hi": { "text": "सिख परंपरा से (1699 में खालसा की स्थापना); फ़सल का पर्व पंजाब की पुरानी रीति है।", "reviewed": false },
+    "mr": { "text": "शीख परंपरेतून (१६९९ मध्ये खालसाची स्थापना); पिकाचा सण ही पंजाबची जुनी प्रथा आहे.", "reviewed": false }
+  },
+  "why": {
+    "en": "For Sikhs it is a day to renew commitment to the Khalsa ideals of courage, equality and service. For farming families it is a day of gratitude for the harvest. Both are marked with community gatherings, music and shared food.",
+    "hi": { "text": "सिखों के लिए यह खालसा के आदर्शों, यानी साहस, समानता और सेवा, के प्रति प्रतिबद्धता को नया करने का दिन है। किसान परिवारों के लिए यह फ़सल के प्रति कृतज्ञता का दिन है। दोनों को सामुदायिक मेल-मिलाप, संगीत और साझा भोजन के साथ मनाया जाता है।", "reviewed": false },
+    "mr": { "text": "शिखांसाठी हा खालसाच्या आदर्शांप्रती, म्हणजे धैर्य, समानता आणि सेवा यांप्रती, बांधिलकी नव्याने व्यक्त करण्याचा दिवस आहे. शेतकरी कुटुंबांसाठी हा पिकाबद्दल कृतज्ञतेचा दिवस आहे. दोन्ही सामुदायिक भेटीगाठी, संगीत आणि सामायिक भोजनासह साजरे केले जातात.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Begin the day with prayer and, if you can, visit a gurdwara for kirtan and katha. Cover your head and keep your shoes outside.",
+      "hi": { "text": "दिन की शुरुआत प्रार्थना से करें और संभव हो तो कीर्तन और कथा के लिए गुरुद्वारे जाएँ। सिर ढकें और जूते बाहर उतारें।", "reviewed": false },
+      "mr": { "text": "दिवसाची सुरुवात प्रार्थनेने करा आणि शक्य असल्यास कीर्तन व कथेसाठी गुरुद्वारात जा. डोके झाका आणि चपला बाहेर काढा.", "reviewed": false }
+    },
+    {
+      "en": "Tell children the story of 1699 and the Panj Pyare, and talk about courage and serving others.",
+      "hi": { "text": "बच्चों को 1699 की कथा और पंज प्यारों के बारे में बताएँ, और साहस तथा दूसरों की सेवा पर बात करें।", "reviewed": false },
+      "mr": { "text": "मुलांना १६९९ ची कथा आणि पंज प्यारेंविषयी सांगा, आणि धैर्य व इतरांच्या सेवेवर बोला.", "reviewed": false }
+    },
+    {
+      "en": "Join or watch a Nagar Kirtan procession if one passes near you, or volunteer in langar.",
+      "hi": { "text": "आपके पास कोई नगर कीर्तन निकले तो उसमें शामिल हों या दर्शन करें, या लंगर में सेवा करें।", "reviewed": false },
+      "mr": { "text": "तुमच्या जवळून नगर कीर्तन निघत असेल तर त्यात सहभागी व्हा किंवा दर्शन घ्या, अथवा लंगरमध्ये सेवा करा.", "reviewed": false }
+    },
+    {
+      "en": "Receive karah parshad and share a meal with family and neighbours.",
+      "hi": { "text": "कड़ाह प्रसाद ग्रहण करें और परिवार व पड़ोसियों के साथ भोजन करें।", "reviewed": false },
+      "mr": { "text": "कडा प्रसाद स्वीकारा आणि कुटुंब व शेजाऱ्यांसोबत भोजन करा.", "reviewed": false }
+    },
+    {
+      "en": "If your family farms or follows the harvest tradition, offer thanks for the crop and enjoy music and dance, such as bhangra or gidda, with friends.",
+      "hi": { "text": "यदि आपका परिवार खेती करता है या फ़सल की परंपरा निभाता है, तो फ़सल के लिए आभार प्रकट करें और मित्रों के साथ भांगड़ा या गिद्दा जैसे संगीत-नृत्य का आनंद लें।", "reviewed": false },
+      "mr": { "text": "तुमचे कुटुंब शेती करत असेल किंवा पिकाची परंपरा पाळत असेल तर पिकासाठी कृतज्ञता व्यक्त करा आणि मित्रांसोबत भांगडा किंवा गिद्धासारख्या संगीत-नृत्याचा आनंद घ्या.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Sikh communities in Mumbai, Pune and Nanded mark Vaisakhi at gurdwaras with kirtan, Nagar Kirtan and langar; the Marathi new year Gudi Padwa is a separate lunar festival earlier in spring. Punjab: fairs (melas), bhangra and gidda, and large gurdwara gatherings. Other regions on or near the same date: Bohag Bihu in Assam, Pohela Boishakh in Bengal, Puthandu in Tamil Nadu and Vishu in Kerala. In Jammu it is known as Basoa.",
+    "hi": { "text": "महाराष्ट्र: मुंबई, पुणे और नांदेड़ के सिख समुदाय गुरुद्वारों में कीर्तन, नगर कीर्तन और लंगर के साथ बैसाखी मनाते हैं; मराठी नववर्ष गुढी पाडवा वसंत में पहले आने वाला अलग चंद्र पर्व है। पंजाब: मेले, भांगड़ा और गिद्दा, और गुरुद्वारों में बड़े जमावड़े। इसी तिथि के आसपास अन्य क्षेत्रों में: असम में बोहाग बिहू, बंगाल में पोइला बैसाख, तमिलनाडु में पुथांडु और केरल में विशु। जम्मू में इसे बसोआ कहते हैं।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: मुंबई, पुणे आणि नांदेडमधील शीख समाज गुरुद्वारांमध्ये कीर्तन, नगर कीर्तन आणि लंगरसह वैशाखी साजरी करतो; मराठी नववर्ष गुढीपाडवा हा वसंतात आधी येणारा वेगळा चांद्र सण आहे. पंजाब: जत्रा, भांगडा आणि गिद्धा, आणि गुरुद्वारांमध्ये मोठे मेळावे. याच तारखेच्या आसपास इतर प्रदेशांत: आसाममध्ये बोहाग बिहू, बंगालमध्ये पोइला बैशाख, तमिळनाडूमध्ये पुथांडू आणि केरळमध्ये विशू. जम्मूमध्ये याला बसोआ म्हणतात.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Karah parshad and langar at the gurdwara. In Punjab, jalebi and sweets are common at fairs; in Uttar Pradesh sattu and jaggery are eaten; in Kerala, Vishu is marked with a sadya feast. Choose what suits your family and diet.",
+    "hi": { "text": "गुरुद्वारे में कड़ाह प्रसाद और लंगर। पंजाब में मेलों में जलेबी और मिठाइयाँ आम हैं; उत्तर प्रदेश में सत्तू और गुड़ खाया जाता है; केरल में विशु पर सद्या भोज होता है। वही चुनें जो आपके परिवार और आहार के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "गुरुद्वारात कडा प्रसाद आणि लंगर. पंजाबमध्ये जत्रांमध्ये जिलेबी आणि मिठाया सामान्य आहेत; उत्तर प्रदेशात सत्तू आणि गूळ खातात; केरळमध्ये विशूला सद्या भोजन असते. आपल्या कुटुंबाला आणि आहाराला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Vaisakhi is a Sikh holy day and also a harvest and new year festival for many other communities, each with its own meaning. The Sikh date usually falls on 13 or 14 April, and the other new year dates can differ by a day or two.",
+    "hi": { "text": "बैसाखी सिखों का पवित्र दिन है और कई अन्य समुदायों के लिए फ़सल और नववर्ष का पर्व भी, हर एक का अपना अर्थ है। सिख तिथि प्रायः 13 या 14 अप्रैल को पड़ती है, और अन्य नववर्ष की तिथियाँ एक-दो दिन अलग हो सकती हैं।", "reviewed": false },
+    "mr": { "text": "वैशाखी हा शिखांचा पवित्र दिवस आहे आणि इतर अनेक समाजांसाठी पीक व नववर्षाचा सणही, प्रत्येकाचा स्वतःचा अर्थ आहे. शीख तारीख सहसा १३ किंवा १४ एप्रिलला येते, आणि इतर नववर्षांच्या तारखा एक-दोन दिवसांनी वेगळ्या असू शकतात.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Vaisakhi, Wikipedia", "url": "https://en.wikipedia.org/wiki/Vaisakhi" },
+    { "label": "Guru Nanak Gurpurab, Wikipedia (Sikh gurdwara observance)", "url": "https://en.wikipedia.org/wiki/Guru_Nanak_Gurpurab" }
+  ]
+}

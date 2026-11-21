@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "ram-navami",
+  "traditions": ["hindu"],
+  "months": [3, 4],
+  "observances": [],
+  "name": { "en": "Ram Navami", "hi": { "text": "राम नवमी", "reviewed": false }, "mr": { "text": "रामनवमी", "reviewed": false } },
+  "tagline": {
+    "en": "The birth of Rama at midday",
+    "hi": { "text": "दोपहर में राम का जन्मोत्सव", "reviewed": false },
+    "mr": { "text": "मध्यान्हीला रामजन्माचा उत्सव", "reviewed": false }
+  },
+  "story": {
+    "en": "In the Ramayana, King Dasharatha of Ayodhya, longing for children, holds a sacred fire ritual, and his queen Kausalya gives birth to Rama on the ninth day of Chaitra. Rama grows into a prince who keeps his word, accepts fourteen years of exile, and rules with fairness, and is remembered as Maryada Purushottama, the ideal person of right conduct.",
+    "hi": { "text": "रामायण में अयोध्या के राजा दशरथ, संतान की इच्छा से यज्ञ करते हैं और रानी कौसल्या चैत्र की नवमी को राम को जन्म देती हैं। राम एक ऐसे राजकुमार बनते हैं जो वचन निभाते हैं, चौदह वर्ष का वनवास स्वीकारते हैं और न्यायपूर्वक शासन करते हैं; उन्हें मर्यादा पुरुषोत्तम, उचित आचरण के आदर्श के रूप में याद किया जाता है।", "reviewed": false },
+    "mr": { "text": "रामायणात अयोध्येचा राजा दशरथ, संतानाच्या इच्छेने यज्ञ करतो आणि राणी कौसल्या चैत्र नवमीला रामाला जन्म देते. राम असा राजपुत्र बनतो जो वचन पाळतो, चौदा वर्षांचा वनवास स्वीकारतो आणि न्यायाने राज्य करतो; त्याला मर्यादा पुरुषोत्तम, योग्य आचरणाचा आदर्श म्हणून स्मरले जाते.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Valmiki's Ramayana (Bala Kanda) and Tulsidas's Ramcharitmanas.",
+    "hi": { "text": "वाल्मीकि रामायण (बालकांड) और तुलसीदास के रामचरितमानस से।", "reviewed": false },
+    "mr": { "text": "वाल्मीकी रामायण (बालकांड) आणि तुलसीदासांच्या रामचरितमानसातून.", "reviewed": false }
+  },
+  "why": {
+    "en": "The day is kept to remember honesty, duty and compassion in daily life, and to read or listen to the Ramayana.",
+    "hi": { "text": "यह दिन दैनिक जीवन में सत्य, कर्तव्य और करुणा को याद करने तथा रामायण पढ़ने या सुनने के लिए मनाया जाता है।", "reviewed": false },
+    "mr": { "text": "हा दिवस दैनंदिन जीवनातील सत्य, कर्तव्य आणि करुणेचे स्मरण करण्यासाठी आणि रामायण वाचण्यासाठी किंवा ऐकण्यासाठी पाळला जातो.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Bathe, clean the prayer space and place an image of Rama, Sita, Lakshmana and Hanuman.",
+      "hi": { "text": "स्नान करें, पूजा स्थान साफ़ करें और राम, सीता, लक्ष्मण और हनुमान का चित्र रखें।", "reviewed": false },
+      "mr": { "text": "स्नान करा, पूजेची जागा स्वच्छ करा आणि राम, सीता, लक्ष्मण आणि हनुमानाचे चित्र ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Offer flowers, tulsi leaves, a lamp and sweets, and keep a simple fast if your family does.",
+      "hi": { "text": "फूल, तुलसी दल, दीप और मिठाई अर्पित करें और परिवार की रीति हो तो सादा उपवास रखें।", "reviewed": false },
+      "mr": { "text": "फुले, तुळशीची पाने, दिवा आणि मिठाई अर्पण करा आणि कुटुंबाची प्रथा असल्यास साधा उपवास करा.", "reviewed": false }
+    },
+    {
+      "en": "Read a few verses of the Ramayana or Ramcharitmanas, or the Bala Kanda passage on Rama's birth.",
+      "hi": { "text": "रामायण या रामचरितमानस के कुछ पद पढ़ें, या राम जन्म वाला बालकांड का अंश।", "reviewed": false },
+      "mr": { "text": "रामायण किंवा रामचरितमानसातील काही ओळी वाचा, किंवा रामजन्माचा बालकांडातील भाग.", "reviewed": false }
+    },
+    {
+      "en": "At midday, the traditional birth time, sing the aarti and rock a small cradle if you have one.",
+      "hi": { "text": "परंपरागत जन्म समय, दोपहर में, आरती गाएँ और छोटा पालना हो तो झुलाएँ।", "reviewed": false },
+      "mr": { "text": "पारंपरिक जन्मवेळ, दुपारी, आरती म्हणा आणि लहान पाळणा असेल तर हलवा.", "reviewed": false }
+    },
+    {
+      "en": "Share panakam and prasad, and spend a quiet minute thinking of one promise you want to keep.",
+      "hi": { "text": "पानक और प्रसाद बाँटें और एक शांत मिनट उस वचन के बारे में सोचें जिसे आप निभाना चाहते हैं।", "reviewed": false },
+      "mr": { "text": "पानक आणि प्रसाद वाटा आणि निभावायचे असलेल्या एका वचनाबद्दल एक शांत मिनिट विचार करा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Ram Janmotsav at midday with kirtan, Sunthavda (a sweet of dry ginger) and temple fairs such as in Nashik (Kalaram Mandir). Ayodhya: large fair on the Sarayu. Tamil Nadu and Andhra: Sri Rama Navami also marks Sita-Rama Kalyanam, the wedding of Rama and Sita, at Bhadrachalam. Odisha: Ram Navami car processions.",
+    "hi": { "text": "महाराष्ट्र: दोपहर में राम जन्मोत्सव, कीर्तन, सुंठवडा (सूखी अदरक की मिठाई) और नाशिक (काळाराम मंदिर) जैसे मंदिर मेले। अयोध्या: सरयू पर बड़ा मेला। तमिलनाडु और आंध्र: श्री राम नवमी पर भद्राचलम में सीता-राम कल्याणम, राम और सीता का विवाह। ओडिशा: राम नवमी रथ यात्राएँ।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: दुपारी रामजन्मोत्सव, कीर्तन, सुंठवडा (सुंठीचा गोड पदार्थ) आणि नाशिकच्या काळाराम मंदिरासारख्या मंदिरांच्या यात्रा. अयोध्या: शरयूवर मोठी यात्रा. तमिळनाडू आणि आंध्र: श्री रामनवमीला भद्राचलम येथे सीता-राम कल्याणम, राम आणि सीतेचा विवाह. ओडिशा: रामनवमी रथयात्रा.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Panakam (jaggery and ginger drink), neer mor (spiced buttermilk), sunthavda, kosambari (lentil salad) and sweet kheer.",
+    "hi": { "text": "पानक (गुड़ और अदरक का पेय), नीर मोर (मसालेदार छाछ), सुंठवडा, कोसंबरी (दाल का सलाद) और मीठी खीर।", "reviewed": false },
+    "mr": { "text": "पानक (गूळ आणि आल्याचे पेय), नीर मोर (मसालेदार ताक), सुंठवडा, कोसंबरी (डाळीची कोशिंबीर) आणि गोड खीर.", "reviewed": false }
+  },
+  "note": {
+    "en": "Rama is revered by Hindus in many ways, and the Ramayana has Jain, Buddhist and South-East Asian versions. Processions should be peaceful and respectful of neighbours of all faiths.",
+    "hi": { "text": "राम हिंदुओं में कई रूपों में पूज्य हैं, और रामायण के जैन, बौद्ध तथा दक्षिण-पूर्व एशियाई संस्करण भी हैं। जुलूस शांतिपूर्ण हों और सभी धर्मों के पड़ोसियों का सम्मान करें।", "reviewed": false },
+    "mr": { "text": "राम हिंदूंमध्ये अनेक प्रकारे पूज्य आहेत, आणि रामायणाच्या जैन, बौद्ध तसेच दक्षिण-पूर्व आशियाई आवृत्त्याही आहेत. मिरवणुका शांततापूर्ण असाव्यात आणि सर्व धर्मांच्या शेजाऱ्यांचा आदर करावा.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Rama Navami, Wikipedia", "url": "https://en.wikipedia.org/wiki/Rama_Navami" },
+    { "label": "Ramayana, Wikipedia", "url": "https://en.wikipedia.org/wiki/Ramayana" }
+  ]
+}

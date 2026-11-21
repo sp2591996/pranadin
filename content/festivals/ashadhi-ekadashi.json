@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "ashadhi-ekadashi",
+  "traditions": ["hindu"],
+  "months": [6, 7],
+  "observances": [],
+  "name": { "en": "Ashadhi Ekadashi (Pandharpur Wari)", "hi": { "text": "आषाढ़ी एकादशी (पंढरपुर वारी)", "reviewed": false }, "mr": { "text": "आषाढी एकादशी (पंढरपूर वारी)", "reviewed": false } },
+  "tagline": {
+    "en": "The walk to Pandharpur and the day of Vitthal",
+    "hi": { "text": "पंढरपुर की पदयात्रा और विठ्ठल का दिन", "reviewed": false },
+    "mr": { "text": "पंढरपूरची पायी वारी आणि विठ्ठलाचा दिवस", "reviewed": false }
+  },
+  "story": {
+    "en": "Tradition tells of Pundalik, a devoted son who was serving his parents when Vishnu came to his door. Pundalik tossed out a brick for the visitor to stand on and kept serving, and the deity is said to have waited on that brick, remembered at Pandharpur as Vithoba or Vitthal. The Wari is a pilgrimage on foot by Warkaris, followers of the saint-poets Dnyaneshwar, Tukaram, Namdev, Eknath and others, who carry the saints' padukas in palkhis from Alandi and Dehu and reach Pandharpur on Ashadhi Ekadashi. Accounts of when the palkhi tradition began differ.",
+    "hi": { "text": "परंपरा में पुंडलिक की कथा है, एक भक्त पुत्र जो अपने माता-पिता की सेवा कर रहा था जब विष्णु उसके द्वार आए। पुंडलिक ने आगंतुक के खड़े होने के लिए एक ईंट फेंकी और सेवा करता रहा; कहा जाता है कि देवता उसी ईंट पर खड़े रहे, जिन्हें पंढरपुर में विठोबा या विठ्ठल के रूप में स्मरण किया जाता है। वारी वारकरियों की पैदल तीर्थयात्रा है, जो संत-कवियों ज्ञानेश्वर, तुकाराम, नामदेव, एकनाथ आदि के अनुयायी हैं; वे आलंदी और देहू से संतों की पादुकाएँ पालखी में लेकर चलते हैं और आषाढ़ी एकादशी को पंढरपुर पहुँचते हैं। पालखी परंपरा कब शुरू हुई, इस पर मत अलग-अलग हैं।", "reviewed": false },
+    "mr": { "text": "परंपरेत पुंडलिकाची कथा आहे; आईवडिलांची सेवा करत असताना विष्णू त्याच्या दारी आले. पुंडलिकाने आलेल्या पाहुण्याला उभे राहण्यासाठी एक वीट फेकली आणि सेवा चालू ठेवली; त्याच विटेवर देव उभे राहिले असे सांगितले जाते, ज्यांचे पंढरपूरात विठोबा किंवा विठ्ठल म्हणून स्मरण केले जाते. वारी ही वारकऱ्यांची पायी तीर्थयात्रा आहे, जे संतकवी ज्ञानेश्वर, तुकाराम, नामदेव, एकनाथ आदींचे अनुयायी आहेत; ते आळंदी आणि देहू येथून संतांच्या पादुका पालखीतून घेऊन चालतात आणि आषाढी एकादशीला पंढरपूरला पोहोचतात. पालखी परंपरा केव्हा सुरू झाली याबाबत मते वेगवेगळी आहेत.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Pundalik legend of the Vithoba tradition and the abhangs of the Varkari saint-poets; the palkhi tradition is documented in local history and records.",
+    "hi": { "text": "विठोबा परंपरा की पुंडलिक कथा और वारकरी संत-कवियों के अभंगों से; पालखी परंपरा स्थानीय इतिहास और अभिलेखों में दर्ज है।", "reviewed": false },
+    "mr": { "text": "विठोबा परंपरेतील पुंडलिक कथा आणि वारकरी संतकवींच्या अभंगांतून; पालखी परंपरा स्थानिक इतिहास आणि नोंदींमध्ये आढळते.", "reviewed": false }
+  },
+  "why": {
+    "en": "Ashadhi Ekadashi falls on the eleventh day of the bright fortnight of Ashadha. For Warkaris it is the culmination of a walk of about three weeks, shaped by simplicity, equality, song and service, where people of every background walk side by side. Many Hindu families also keep an Ekadashi fast that day, and it begins the Chaturmas period.",
+    "hi": { "text": "आषाढ़ी एकादशी आषाढ़ शुक्ल पक्ष की एकादशी को आती है। वारकरियों के लिए यह लगभग तीन सप्ताह की पदयात्रा की पराकाष्ठा है, जो सादगी, समानता, भजन और सेवा से बनी है, जहाँ हर पृष्ठभूमि के लोग साथ-साथ चलते हैं। कई हिंदू परिवार उस दिन एकादशी का व्रत भी रखते हैं, और इसी से चातुर्मास का आरंभ माना जाता है।", "reviewed": false },
+    "mr": { "text": "आषाढी एकादशी आषाढ शुक्ल पक्षातील अकराव्या दिवशी येते. वारकऱ्यांसाठी ही सुमारे तीन आठवड्यांच्या पायी वारीची सांगता आहे, जी साधेपणा, समता, भजन आणि सेवेने घडलेली आहे, जिथे सर्व पार्श्वभूमीचे लोक खांद्याला खांदा लावून चालतात. अनेक हिंदू कुटुंबे त्या दिवशी एकादशीचा उपवासही करतात, आणि याच दिवसापासून चातुर्मासाला सुरुवात मानली जाते.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Wake early, bathe and set up a small image of Vitthal or Vishnu with a lamp and a tulsi leaf or flowers.",
+      "hi": { "text": "सुबह जल्दी उठें, स्नान करें और विठ्ठल या विष्णु का छोटा चित्र दीप और तुलसी पत्र या फूलों के साथ रखें।", "reviewed": false },
+      "mr": { "text": "पहाटे उठून स्नान करा आणि विठ्ठलाची किंवा विष्णूची छोटी प्रतिमा दिवा आणि तुळशीचे पान किंवा फुलांसह मांडा.", "reviewed": false }
+    },
+    {
+      "en": "If your family keeps the Ekadashi fast, keep it in the way your family does, with a light fast or fruit and milk. Skip it if you are unwell, pregnant or on medication, and do not fast at all if it is not right for you.",
+      "hi": { "text": "यदि आपके परिवार में एकादशी का व्रत रखा जाता है तो अपने परिवार की रीति से रखें, हल्के उपवास या फल और दूध के साथ। अस्वस्थ हों, गर्भवती हों या दवा लेते हों तो न रखें, और जो आपके लिए उचित न हो वह उपवास बिल्कुल न करें।", "reviewed": false },
+      "mr": { "text": "आपल्या कुटुंबात एकादशीचा उपवास असेल तर कुटुंबाच्या प्रथेनुसार, हलका उपवास किंवा फळे आणि दूध घेऊन करा. आजारी, गर्भवती असाल किंवा औषधे घेत असाल तर करू नका, आणि जो आपल्यासाठी योग्य नाही तो उपवास अजिबात करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Sing or listen to Varkari abhangs, such as those of Tukaram and Dnyaneshwar, and chant \"Vitthal Vitthal\" or \"Dnyanoba-Tukaram\".",
+      "hi": { "text": "तुकाराम और ज्ञानेश्वर जैसे संतों के वारकरी अभंग गाएँ या सुनें, और \"विठ्ठल विठ्ठल\" या \"ज्ञानोबा-तुकाराम\" का नाम लें।", "reviewed": false },
+      "mr": { "text": "तुकाराम आणि ज्ञानेश्वर यांसारख्या संतांचे वारकरी अभंग गा किंवा ऐका, आणि \"विठ्ठल विठ्ठल\" किंवा \"ज्ञानोबा-तुकाराम\" असे नामस्मरण करा.", "reviewed": false }
+    },
+    {
+      "en": "Offer a simple naivedya of fruit, sabudana khichdi or kheer, and share it with the household.",
+      "hi": { "text": "फल, साबूदाना खिचड़ी या खीर का सादा नैवेद्य अर्पित करें और घर में बाँटें।", "reviewed": false },
+      "mr": { "text": "फळे, साबुदाणा खिचडी किंवा खीर यांचा साधा नैवेद्य अर्पण करा आणि घरात वाटा.", "reviewed": false }
+    },
+    {
+      "en": "Break the fast the next morning, on Dwadashi, with a simple meal, and remember to feed or help someone in need.",
+      "hi": { "text": "अगली सुबह द्वादशी पर सादे भोजन से व्रत खोलें, और किसी ज़रूरतमंद को भोजन कराना या उसकी मदद करना याद रखें।", "reviewed": false },
+      "mr": { "text": "दुसऱ्या दिवशी सकाळी द्वादशीला साध्या जेवणाने उपवास सोडा, आणि एखाद्या गरजूला जेवू घालण्याची किंवा मदत करण्याची आठवण ठेवा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: the palkhis of Dnyaneshwar (from Alandi) and Tukaram (from Dehu) walk for about three weeks to Pandharpur, with dindis (groups) singing bhajans along the way; many devotees also bathe in the Chandrabhaga river at Pandharpur. Karnataka: Vitthal is also revered there, and many Kannada-speaking devotees join the pilgrimage. Elsewhere in India: the same Ekadashi is known as Devshayani Ekadashi, marking Vishnu's rest, and is kept with a fast and worship.",
+    "hi": { "text": "महाराष्ट्र: ज्ञानेश्वर (आलंदी से) और तुकाराम (देहू से) की पालखियाँ लगभग तीन सप्ताह चलकर पंढरपुर पहुँचती हैं, रास्ते में दिंडियाँ (समूह) भजन गाते चलती हैं; कई भक्त पंढरपुर में चंद्रभागा नदी में स्नान भी करते हैं। कर्नाटक: वहाँ भी विठ्ठल का आदर है और कई कन्नड़भाषी भक्त यात्रा में शामिल होते हैं। भारत के अन्य भाग: यही एकादशी देवशयनी एकादशी कहलाती है, जो विष्णु के शयन का दिन है, और उपवास व पूजन के साथ मनाई जाती है।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: ज्ञानेश्वरांची (आळंदीहून) आणि तुकारामांची (देहूहून) पालखी सुमारे तीन आठवडे चालत पंढरपूरला पोहोचते, वाटेत दिंड्या (गट) भजने गात चालतात; अनेक भाविक पंढरपूरात चंद्रभागा नदीत स्नानही करतात. कर्नाटक: तिथेही विठ्ठलाबद्दल आदर आहे आणि अनेक कन्नडभाषी भाविक यात्रेत सहभागी होतात. भारताचे इतर भाग: हीच एकादशी देवशयनी एकादशी म्हणून ओळखली जाते, जो विष्णूच्या निद्रेचा दिवस आहे, आणि उपवास व पूजनाने साजरी होते.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Fasting foods in Maharashtra: sabudana khichdi, vari (barnyard millet) rice, rajgira laddoo, peanut amti, fruit and milk. Choose what suits your family and your own health.",
+    "hi": { "text": "महाराष्ट्र के उपवास के व्यंजन: साबूदाना खिचड़ी, वरी (समा) के चावल, राजगिरा लड्डू, मूँगफली की आमटी, फल और दूध। वही चुनें जो आपके परिवार और आपके स्वास्थ्य के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्रातील उपवासाचे पदार्थ: साबुदाणा खिचडी, वरीचे तांदूळ, राजगिरा लाडू, शेंगदाण्याची आमटी, फळे आणि दूध. आपल्या कुटुंबाला आणि आपल्या आरोग्याला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "The Wari is open to people of every caste and background, and Warkaris are known for hospitality along the route. If you visit or watch the Wari, respect the walkers' space, avoid littering, and follow local guidance. Dates of Ekadashi can differ by one day between families and calendars.",
+    "hi": { "text": "वारी हर जाति और पृष्ठभूमि के लोगों के लिए खुली है, और वारकरी मार्ग में आतिथ्य के लिए जाने जाते हैं। यदि आप वारी देखने या शामिल होने जाएँ तो चलने वालों की जगह का सम्मान करें, कचरा न फैलाएँ और स्थानीय निर्देशों का पालन करें। एकादशी की तिथि परिवारों और पंचांगों के बीच एक दिन भिन्न हो सकती है।", "reviewed": false },
+    "mr": { "text": "वारी सर्व जाती आणि पार्श्वभूमीच्या लोकांसाठी खुली आहे, आणि वारकरी वाटेतील आदरातिथ्यासाठी ओळखले जातात. आपण वारी पाहायला किंवा सहभागी व्हायला गेल्यास चालणाऱ्यांच्या जागेचा आदर करा, कचरा टाकू नका आणि स्थानिक सूचनांचे पालन करा. एकादशीची तारीख कुटुंबे आणि पंचांगांनुसार एका दिवसाने वेगळी असू शकते.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Pandhrichi Vaari, Incredible India", "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/maharashtra/pandhrichi-vaari0" },
+    { "label": "Pandharpur pilgrimage and the poet-saint tradition, Scroll.in", "url": "https://scroll.in/article/966531/as-covid-19-puts-curbs-on-pandharpur-pilgrimage-recalling-the-devotion-to-the-poet-saint-tradition" }
+  ]
+}

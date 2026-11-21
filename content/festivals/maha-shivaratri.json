@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "maha-shivaratri",
+  "traditions": ["hindu"],
+  "months": [2, 3],
+  "observances": ["obs.2027.maha-shivaratri"],
+  "name": { "en": "Maha Shivaratri", "hi": { "text": "महाशिवरात्रि", "reviewed": false }, "mr": { "text": "महाशिवरात्री", "reviewed": false } },
+  "tagline": {
+    "en": "The great night of Shiva, with fasting and night-long vigil",
+    "hi": { "text": "शिव की महारात्रि, उपवास और रात्रि जागरण के साथ", "reviewed": false },
+    "mr": { "text": "शिवाची महारात्र, उपवास आणि रात्रीच्या जागरणासह", "reviewed": false }
+  },
+  "story": {
+    "en": "Several stories are told. In one, it is the night of the marriage of Shiva and Parvati. In another from the Shiva Purana, Shiva appears as an endless pillar of light that neither Brahma nor Vishnu could measure. A hunter's tale, in which he unknowingly offers bilva leaves and keeps vigil, is also told to show that sincere devotion is received.",
+    "hi": { "text": "अनेक कथाएँ कही जाती हैं। एक में यह शिव और पार्वती के विवाह की रात है। शिव पुराण की एक अन्य कथा में शिव अनंत ज्योति-स्तंभ के रूप में प्रकट होते हैं, जिसका छोर न ब्रह्मा पा सके न विष्णु। एक शिकारी की कथा भी सुनाई जाती है, जो अनजाने में बिल्वपत्र चढ़ाता और रात भर जागता है, यह दिखाने के लिए कि सच्ची भक्ति स्वीकार होती है।", "reviewed": false },
+    "mr": { "text": "अनेक कथा सांगितल्या जातात. एकात ही शंकर आणि पार्वतीच्या विवाहाची रात्र आहे. शिवपुराणातील दुसऱ्या कथेत शिव अनंत ज्योतिस्तंभाच्या रूपात प्रकट होतात, ज्याचा अंत ब्रह्मा किंवा विष्णू यांना सापडला नाही. एका शिकाऱ्याची कथाही सांगितली जाते, जो नकळत बेलपत्रे वाहतो आणि रात्रभर जागतो, खरी भक्ती स्वीकारली जाते हे दाखवण्यासाठी.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Shiva Purana, Linga Purana and Skanda Purana.",
+    "hi": { "text": "शिव पुराण, लिंग पुराण और स्कंद पुराण से।", "reviewed": false },
+    "mr": { "text": "शिवपुराण, लिंगपुराण आणि स्कंदपुराणातून.", "reviewed": false }
+  },
+  "why": {
+    "en": "Devotees keep the night for prayer, quiet reflection and gratitude. It is a time to remember Shiva as the source of stillness, and to step back from daily noise.",
+    "hi": { "text": "भक्त इस रात को प्रार्थना, शांत चिंतन और कृतज्ञता के लिए रखते हैं। यह शिव को शांति के स्रोत के रूप में याद करने और दैनिक कोलाहल से हटकर बैठने का समय है।", "reviewed": false },
+    "mr": { "text": "भक्त ही रात्र प्रार्थना, शांत चिंतन आणि कृतज्ञतेसाठी ठेवतात. शिवाचे स्मरण शांततेचा स्रोत म्हणून करण्याचा आणि दैनंदिन गोंगाटापासून दूर बसण्याचा हा काळ आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Take an early bath and decide gently what kind of fast, if any, suits you: no food, fruit and milk, or simple vrat food.",
+      "hi": { "text": "सुबह जल्दी स्नान करें और सहजता से तय करें कि आपके लिए कैसा उपवास, यदि कोई हो, ठीक है: निराहार, फल-दूध या सादा व्रत का भोजन।", "reviewed": false },
+      "mr": { "text": "पहाटे स्नान करा आणि शांतपणे ठरवा की आपल्याला कोणता उपवास, असल्यास, योग्य आहे: निराहार, फळे-दूध किंवा साधे उपवासाचे अन्न.", "reviewed": false }
+    },
+    {
+      "en": "At the Shiva linga or an image, pour water or milk, and offer bilva leaves, white flowers and a lamp.",
+      "hi": { "text": "शिवलिंग या चित्र पर जल या दूध चढ़ाएँ, बिल्वपत्र, श्वेत पुष्प और दीप अर्पित करें।", "reviewed": false },
+      "mr": { "text": "शिवलिंग किंवा प्रतिमेवर पाणी किंवा दूध वाहा, बेलपत्र, पांढरी फुले आणि दिवा अर्पण करा.", "reviewed": false }
+    },
+    {
+      "en": "Chant \"Om Namah Shivaya\" quietly, a few rounds or as many as feel right; use a rosary if you have one.",
+      "hi": { "text": "\"ॐ नमः शिवाय\" का शांति से जप करें, कुछ माला या जितना उचित लगे; माला हो तो उसका प्रयोग करें।", "reviewed": false },
+      "mr": { "text": "\"ॐ नमः शिवाय\" शांतपणे जपा, काही माळा किंवा जितके योग्य वाटेल तितके; माळ असल्यास वापरा.", "reviewed": false }
+    },
+    {
+      "en": "Keep a vigil in the evening or night with bhajans, scripture reading or silent sitting, as your health allows.",
+      "hi": { "text": "अपनी सेहत के अनुसार शाम या रात को भजन, शास्त्र-पाठ या मौन बैठकर जागरण करें।", "reviewed": false },
+      "mr": { "text": "आपल्या तब्येतीनुसार संध्याकाळी किंवा रात्री भजन, ग्रंथवाचन किंवा मौन बसून जागरण करा.", "reviewed": false }
+    },
+    {
+      "en": "Break the fast the next morning with simple food and share it with others.",
+      "hi": { "text": "अगली सुबह सादे भोजन से व्रत खोलें और दूसरों के साथ बाँटें।", "reviewed": false },
+      "mr": { "text": "दुसऱ्या दिवशी सकाळी साध्या अन्नाने उपवास सोडा आणि इतरांसोबत वाटा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: crowded temples at Trimbakeshwar, Bhimashankar, Grishneshwar, Aundha Nagnath and Parli Vaijnath (five of the twelve jyotirlingas), with a fast of sabudana, and a night vigil. Kashmir: Herath, a family festival. Tamil Nadu: night worship in four parts. Nepal: Pashupatinath. Karnataka: Shivaratri jagarane.",
+    "hi": { "text": "महाराष्ट्र: त्र्यंबकेश्वर, भीमाशंकर, घृष्णेश्वर, औंढा नागनाथ और परळी वैजनाथ (बारह ज्योतिर्लिंगों में पाँच) में भीड़, साबूदाने का उपवास और रात्रि जागरण। कश्मीर: हेरथ, एक पारिवारिक पर्व। तमिलनाडु: चार प्रहरों की रात्रि पूजा। नेपाल: पशुपतिनाथ। कर्नाटक: शिवरात्रि जागरण।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: त्र्यंबकेश्वर, भीमाशंकर, घृष्णेश्वर, औंढा नागनाथ आणि परळी वैजनाथ (बारा ज्योतिर्लिंगांपैकी पाच) येथे गर्दी, साबुदाण्याचा उपवास आणि रात्रीचे जागरण. काश्मीर: हेरथ, कौटुंबिक सण. तमिळनाडू: चार प्रहरांची रात्रीची पूजा. नेपाळ: पशुपतिनाथ. कर्नाटक: शिवरात्री जागरण.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Fasting foods: sabudana khichdi or vada, fruit, makhana, peanuts, singhara flour, rajgira, kuttu puri and milk. Thandai is also served in some regions.",
+    "hi": { "text": "उपवास के व्यंजन: साबूदाना खिचड़ी या वड़ा, फल, मखाना, मूँगफली, सिंघाड़े का आटा, राजगिरा, कुट्टू की पूरी और दूध। कुछ क्षेत्रों में ठंडाई भी परोसी जाती है।", "reviewed": false },
+    "mr": { "text": "उपवासाचे पदार्थ: साबुदाणा खिचडी किंवा वडा, फळे, मखाना, शेंगदाणे, शिंगाड्याचे पीठ, राजगिरा, कुट्टू पुरी आणि दूध. काही प्रदेशांत ठंडाईही दिली जाते.", "reviewed": false }
+  },
+  "note": {
+    "en": "Fasting is optional and personal. If you have a medical condition, are pregnant, elderly, or a child, follow your own doctor's advice. Bhang is part of some local custom, but you are free to decline it.",
+    "hi": { "text": "उपवास वैकल्पिक और निजी है। यदि आपको कोई चिकित्सा स्थिति है, आप गर्भवती, वृद्ध या बच्चे हैं, तो अपने डॉक्टर की सलाह मानें। भाँग कुछ स्थानीय रीतियों का भाग है, पर आप मना करने के लिए स्वतंत्र हैं।", "reviewed": false },
+    "mr": { "text": "उपवास ऐच्छिक आणि वैयक्तिक आहे. वैद्यकीय स्थिती असल्यास, गर्भवती, वृद्ध किंवा मूल असल्यास, आपल्या डॉक्टरांचा सल्ला पाळा. भांग काही स्थानिक प्रथांचा भाग आहे, पण नाकारण्यास आपण स्वतंत्र आहात.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Maha Shivaratri, Wikipedia", "url": "https://en.wikipedia.org/wiki/Maha_Shivaratri" },
+    { "label": "Shiva, Wikipedia", "url": "https://en.wikipedia.org/wiki/Shiva" }
+  ]
+}

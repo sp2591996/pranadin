@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "tulsi-vivah",
+  "traditions": ["hindu"],
+  "months": [10, 11],
+  "observances": ["obs.2026.tulsi-vivah", "obs.2026.prabodhini-ekadashi"],
+  "name": { "en": "Tulsi Vivah", "hi": { "text": "तुलसी विवाह", "reviewed": false }, "mr": { "text": "तुळशी विवाह", "reviewed": false } },
+  "tagline": {
+    "en": "The ritual wedding of the Tulsi plant and Vishnu",
+    "hi": { "text": "तुलसी के पौधे और विष्णु का प्रतीकात्मक विवाह", "reviewed": false },
+    "mr": { "text": "तुळशीच्या रोपाचा आणि विष्णूचा प्रतीकात्मक विवाह", "reviewed": false }
+  },
+  "story": {
+    "en": "In the Puranic story, Vrinda was the devoted wife of the demon king Jalandhar. When Vishnu took Jalandhar's form and her devotion was broken, Jalandhar was defeated, and Vrinda in her grief cursed Vishnu to become a stone, the Shaligram. In many tellings she later forgave him, and Vishnu blessed her to become the Tulsi plant and promised to wed her in that form. Tellings differ on whether the curse was lifted and on the details of the story.",
+    "hi": { "text": "पौराणिक कथा में वृंदा दैत्यराज जालंधर की पतिव्रता पत्नी थीं। जब विष्णु ने जालंधर का रूप लिया और उनकी निष्ठा भंग हुई, तो जालंधर पराजित हुआ, और वृंदा ने दुख में विष्णु को पत्थर, यानी शालिग्राम बनने का शाप दिया। कई कथाओं में बाद में उन्होंने क्षमा कर दिया, और विष्णु ने उन्हें तुलसी के पौधे के रूप में प्रतिष्ठित किया और उसी रूप में विवाह का वचन दिया। शाप के हटने और कथा के ब्योरों पर अलग-अलग मत मिलते हैं।", "reviewed": false },
+    "mr": { "text": "पौराणिक कथेत वृंदा ही दैत्यराज जालंधराची निष्ठावान पत्नी होती. विष्णूने जालंधराचे रूप घेतले आणि तिची निष्ठा भंग झाली, तेव्हा जालंधराचा पराभव झाला, आणि वृंदेने दुःखाने विष्णूला दगड, म्हणजे शाळिग्राम होण्याचा शाप दिला. अनेक कथांनुसार तिने नंतर क्षमा केली, आणि विष्णूने तिला तुळशीच्या रोपाच्या रूपात प्रतिष्ठा दिली आणि त्याच रूपात विवाहाचे वचन दिले. शाप मागे घेतला गेला की नाही आणि कथेचे तपशील याबाबत मते वेगवेगळी आहेत.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Puranic tradition (told in the Padma Purana and Devi Bhagavata and in regional retellings); versions vary.",
+    "hi": { "text": "पौराणिक परंपरा से (पद्म पुराण, देवी भागवत और क्षेत्रीय कथाओं में); रूप अलग-अलग हैं।", "reviewed": false },
+    "mr": { "text": "पौराणिक परंपरेतून (पद्म पुराण, देवी भागवत आणि प्रादेशिक कथांमध्ये); रूपे वेगवेगळी आहेत.", "reviewed": false }
+  },
+  "why": {
+    "en": "Tulsi is honoured in many Hindu homes and grown in a Tulsi Vrindavan in the courtyard. Tulsi Vivah, held from Prabodhini Ekadashi to Kartik Purnima, marks the end of Chaturmas, the period of Vishnu's rest, and is traditionally the point from which weddings are held in many families.",
+    "hi": { "text": "कई हिंदू घरों में तुलसी का आदर होता है और आँगन में तुलसी वृंदावन में उगाई जाती है। प्रबोधिनी एकादशी से कार्तिक पूर्णिमा के बीच होने वाला तुलसी विवाह चातुर्मास, यानी विष्णु की निद्रा के काल, की समाप्ति का सूचक है, और परंपरा से कई परिवारों में यहीं से विवाह-कार्य शुरू होते हैं।", "reviewed": false },
+    "mr": { "text": "अनेक हिंदू घरांत तुळशीचा आदर केला जातो आणि अंगणात तुळशी वृंदावनात ती लावली जाते. प्रबोधिनी एकादशी ते कार्तिक पौर्णिमा या काळात होणारा तुळशी विवाह चातुर्मासाची, म्हणजे विष्णूच्या निद्रेच्या काळाची, समाप्ती दर्शवतो, आणि परंपरेने अनेक कुटुंबांत येथूनच लग्नकार्ये सुरू होतात.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Clean the Tulsi Vrindavan (planter) and draw rangoli around it. Decorate it with flowers, and with a red cloth and bangles if your family does so, like a bride.",
+      "hi": { "text": "तुलसी वृंदावन को साफ़ करें और उसके चारों ओर रंगोली बनाएँ। आपके परिवार की रीति हो तो फूलों से, और लाल वस्त्र व चूड़ियों से दुल्हन की तरह सजाएँ।", "reviewed": false },
+      "mr": { "text": "तुळशी वृंदावन स्वच्छ करा आणि भोवती रांगोळी काढा. आपल्या कुटुंबाची प्रथा असल्यास फुलांनी, तसेच लाल वस्त्र आणि बांगड्यांनी वधूसारखी सजवा.", "reviewed": false }
+    },
+    {
+      "en": "Place a Shaligram stone, a Vishnu or Krishna image, or a small idol next to the Tulsi as the groom.",
+      "hi": { "text": "तुलसी के पास वर के रूप में शालिग्राम, विष्णु या कृष्ण का चित्र, या छोटी मूर्ति रखें।", "reviewed": false },
+      "mr": { "text": "तुळशीजवळ वर म्हणून शाळिग्राम, विष्णू किंवा कृष्णाची प्रतिमा, किंवा छोटी मूर्ती ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "In the evening light a lamp, offer flowers, turmeric, kumkum and a sugarcane stalk or mandap of cane, and place a cloth between the two as in a wedding.",
+      "hi": { "text": "शाम को दीप जलाएँ, फूल, हल्दी, कुमकुम और गन्ने का मंडप या गन्ना अर्पित करें, और विवाह की तरह दोनों के बीच अंतरपट रखें।", "reviewed": false },
+      "mr": { "text": "संध्याकाळी दिवा लावा, फुले, हळद, कुंकू आणि उसाचा मंडप किंवा ऊस अर्पण करा, आणि लग्नाप्रमाणे दोघांमध्ये अंतरपाट धरा.", "reviewed": false }
+    },
+    {
+      "en": "Sing or recite the mangalashtak or a bhajan, as your family does, and offer aarti.",
+      "hi": { "text": "अपने परिवार की रीति से मंगलाष्टक या भजन गाएँ और आरती करें।", "reviewed": false },
+      "mr": { "text": "आपल्या कुटुंबाच्या प्रथेनुसार मंगलाष्टक किंवा भजन म्हणा आणि आरती करा.", "reviewed": false }
+    },
+    {
+      "en": "Share the prasad with family and neighbours, and invite children to take part.",
+      "hi": { "text": "प्रसाद परिवार और पड़ोसियों में बाँटें और बच्चों को भी शामिल करें।", "reviewed": false },
+      "mr": { "text": "प्रसाद कुटुंब आणि शेजाऱ्यांमध्ये वाटा आणि मुलांनाही सहभागी करा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: celebrated from Prabodhini (Kartiki) Ekadashi to Kartik Purnima, often on one evening in between, with a decorated Tulsi Vrindavan, a cloth held between the pair, mangalashtak and a sugarcane mandap; the day also marks the start of the wedding season. Gujarat and Rajasthan: celebrated as Dev Uthani, often at home and in temples. North India: Dev Uthani Ekadashi, with Tulsi Vivah on the same or next day, as families differ. South India: Tulasi Kalyanam is held in some homes and temples, sometimes with an amla branch representing Vishnu.",
+    "hi": { "text": "महाराष्ट्र: प्रबोधिनी (कार्तिकी) एकादशी से कार्तिक पूर्णिमा के बीच, अक्सर बीच की किसी एक शाम को, सजे हुए तुलसी वृंदावन, दोनों के बीच अंतरपट, मंगलाष्टक और गन्ने के मंडप के साथ; यही दिन विवाह-ऋतु की शुरुआत भी माना जाता है। गुजरात और राजस्थान: देव उठनी के रूप में, अक्सर घर और मंदिरों में। उत्तर भारत: देवउठनी एकादशी, और तुलसी विवाह उसी दिन या अगले दिन, परिवारों के अनुसार। दक्षिण भारत: कुछ घरों और मंदिरों में तुलसी कल्याणम होता है, कभी-कभी विष्णु के प्रतीक के रूप में आँवले की टहनी के साथ।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: प्रबोधिनी (कार्तिकी) एकादशी ते कार्तिक पौर्णिमा या दरम्यान, अनेकदा मधल्या एखाद्या संध्याकाळी, सजवलेले तुळशी वृंदावन, दोघांमध्ये अंतरपाट, मंगलाष्टक आणि उसाचा मंडप यांसह; हाच दिवस लग्नसराईची सुरुवात मानला जातो. गुजरात आणि राजस्थान: देव उठनी म्हणून, अनेकदा घरी आणि मंदिरांत. उत्तर भारत: देवउठनी एकादशी, आणि तुळशी विवाह त्याच दिवशी किंवा दुसऱ्या दिवशी, कुटुंबांनुसार. दक्षिण भारत: काही घरांत आणि मंदिरांत तुळसी कल्याणम होते, कधी विष्णूचे प्रतीक म्हणून आवळ्याच्या फांदीसह.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Sugarcane pieces, fruit, sweets such as puran poli or kheer in Maharashtra, and a simple naivedya of milk sweets. Many families who fast on Ekadashi take light fasting foods that day.",
+    "hi": { "text": "गन्ने के टुकड़े, फल, महाराष्ट्र में पूरन पोली या खीर जैसी मिठाइयाँ और दूध की मिठाई का सादा नैवेद्य। एकादशी का उपवास रखने वाले कई परिवार उस दिन हल्के उपवास के व्यंजन लेते हैं।", "reviewed": false },
+    "mr": { "text": "उसाचे तुकडे, फळे, महाराष्ट्रात पुरणपोळी किंवा खीर यांसारख्या मिठाया आणि दुधाच्या मिठाईचा साधा नैवेद्य. एकादशीचा उपवास करणारी अनेक कुटुंबे त्या दिवशी हलके उपवासाचे पदार्थ घेतात.", "reviewed": false }
+  },
+  "note": {
+    "en": "Dates vary: some families hold Tulsi Vivah on Ekadashi, others on Dwadashi or any day up to Kartik Purnima, so follow your family or local priest. The story has Vrinda's grief at its centre, and some communities also remember her with reverence as a devoted wife and devotee.",
+    "hi": { "text": "तिथि अलग-अलग होती है: कुछ परिवार तुलसी विवाह एकादशी को, कुछ द्वादशी या कार्तिक पूर्णिमा तक किसी भी दिन करते हैं, इसलिए अपने परिवार या स्थानीय पुरोहित की रीति मानें। कथा के केंद्र में वृंदा का दुख है, और कुछ समुदाय उन्हें एक निष्ठावान पत्नी और भक्त के रूप में श्रद्धा से भी स्मरण करते हैं।", "reviewed": false },
+    "mr": { "text": "तारीख वेगवेगळी असते: काही कुटुंबे तुळशी विवाह एकादशीला, काही द्वादशीला किंवा कार्तिक पौर्णिमेपर्यंत कोणत्याही दिवशी करतात, म्हणून आपल्या कुटुंबाची किंवा स्थानिक पुरोहिताची रीत पाळा. कथेच्या केंद्रस्थानी वृंदेचे दुःख आहे, आणि काही समाज तिचे एक निष्ठावान पत्नी आणि भक्त म्हणून श्रद्धेने स्मरणही करतात.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Tulasi Vivaha, Wikipedia", "url": "https://en.wikipedia.org/wiki/Tulasi_Vivaha" },
+    { "label": "Tulasi Vivah Vrat Katha, Drik Panchang", "url": "https://www.drikpanchang.com/vrat-katha/tulasi-vivah/tulasi-vivah-vrat-katha.html" }
+  ]
+}

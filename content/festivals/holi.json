@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "holi",
+  "traditions": ["hindu"],
+  "months": [3],
+  "observances": ["obs.2027.holika-dahan", "obs.2027.holi"],
+  "name": { "en": "Holi", "hi": { "text": "होली", "reviewed": false }, "mr": { "text": "होळी आणि रंगपंचमी", "reviewed": false } },
+  "tagline": {
+    "en": "Bonfire, colours and spring",
+    "hi": { "text": "होलिका दहन, रंग और वसंत", "reviewed": false },
+    "mr": { "text": "होळी, रंग आणि वसंत", "reviewed": false }
+  },
+  "story": {
+    "en": "The Bhagavata Purana tells of Prahlada, a young devotee of Vishnu, whose father Hiranyakashipu tried to harm him. His aunt Holika sat with him in a fire but was consumed while Prahlada stayed safe. The bonfire of Holika Dahan recalls this, and the play of colours the next day is linked to the playful love of Krishna and Radha in Braj.",
+    "hi": { "text": "भागवत पुराण में प्रह्लाद की कथा है, जो विष्णु के बालभक्त थे और जिन्हें उनके पिता हिरण्यकशिपु ने हानि पहुँचाने का प्रयास किया। बुआ होलिका उन्हें गोद में लेकर अग्नि में बैठी, पर होलिका जल गई और प्रह्लाद सुरक्षित रहे। होलिका दहन इसी का स्मरण है, और अगले दिन के रंग ब्रज में कृष्ण और राधा के विनोदपूर्ण प्रेम से जुड़े हैं।", "reviewed": false },
+    "mr": { "text": "भागवत पुराणात प्रल्हादाची कथा आहे; तो विष्णूचा बालभक्त होता आणि त्याचे वडील हिरण्यकशिपू त्याला इजा करण्याचा प्रयत्न करत होते. आत्या होलिका त्याला मांडीवर घेऊन अग्नीत बसली, पण होलिका जळाली आणि प्रल्हाद सुरक्षित राहिला. होळीचे दहन याचे स्मरण करते, आणि दुसऱ्या दिवसाचे रंग ब्रजमधील कृष्ण आणि राधेच्या खेळकर प्रेमाशी जोडलेले आहेत.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Bhagavata Purana (Prahlada) and Braj folk tradition (Krishna and Radha).",
+    "hi": { "text": "भागवत पुराण (प्रह्लाद) और ब्रज की लोक परंपरा (कृष्ण और राधा) से।", "reviewed": false },
+    "mr": { "text": "भागवत पुराण (प्रल्हाद) आणि ब्रजच्या लोकपरंपरेतून (कृष्ण आणि राधा).", "reviewed": false }
+  },
+  "why": {
+    "en": "Holi celebrates the victory of faith over cruelty and the arrival of spring. It is a day to forgive old quarrels, meet neighbours and drop social distance.",
+    "hi": { "text": "होली आस्था की क्रूरता पर विजय और वसंत के आगमन का उत्सव है। यह पुराने झगड़े भुलाने, पड़ोसियों से मिलने और दूरियाँ मिटाने का दिन है।", "reviewed": false },
+    "mr": { "text": "होळी म्हणजे श्रद्धेचा क्रौर्यावर विजय आणि वसंताचे आगमन. जुने वाद विसरण्याचा, शेजाऱ्यांना भेटण्याचा आणि अंतर मिटवण्याचा हा दिवस आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Gather dry wood and cow-dung cakes only from what is allowed in your area, and join the community Holika Dahan in the evening.",
+      "hi": { "text": "अपने क्षेत्र में अनुमत सूखी लकड़ी और उपले ही इकट्ठा करें और शाम को सामुदायिक होलिका दहन में शामिल हों।", "reviewed": false },
+      "mr": { "text": "आपल्या भागात परवानगी असलेली सुकी लाकडे आणि गोवऱ्याच गोळा करा आणि संध्याकाळी सार्वजनिक होळी दहनात सहभागी व्हा.", "reviewed": false }
+    },
+    {
+      "en": "Walk around the fire, offer a coconut or grain if your family does, and say a prayer of gratitude.",
+      "hi": { "text": "अग्नि की परिक्रमा करें, परिवार की रीति हो तो नारियल या अनाज अर्पित करें और कृतज्ञता की प्रार्थना करें।", "reviewed": false },
+      "mr": { "text": "अग्नीभोवती प्रदक्षिणा करा, कुटुंबाची प्रथा असल्यास नारळ किंवा धान्य अर्पण करा आणि कृतज्ञतेची प्रार्थना म्हणा.", "reviewed": false }
+    },
+    {
+      "en": "Next morning, play with dry or natural colours (gulal) only with people who are happy to join.",
+      "hi": { "text": "अगली सुबह सूखे या प्राकृतिक रंगों (गुलाल) से केवल उन्हीं के साथ खेलें जो खुशी से शामिल हों।", "reviewed": false },
+      "mr": { "text": "दुसऱ्या दिवशी सकाळी कोरडे किंवा नैसर्गिक रंग (गुलाल) फक्त आनंदाने सहभागी होणाऱ्यांसोबतच खेळा.", "reviewed": false }
+    },
+    {
+      "en": "Protect eyes and skin, use water sparingly, and avoid colouring strangers, animals or elders without asking.",
+      "hi": { "text": "आँखों और त्वचा का ध्यान रखें, पानी कम खर्च करें और अजनबियों, पशुओं या बुज़ुर्गों पर बिना पूछे रंग न डालें।", "reviewed": false },
+      "mr": { "text": "डोळे आणि त्वचेची काळजी घ्या, पाणी कमी वापरा आणि अनोळखी, प्राणी किंवा वडीलधाऱ्यांवर विचारल्याशिवाय रंग टाकू नका.", "reviewed": false }
+    },
+    {
+      "en": "Share sweets, hug or greet neighbours, and use the day to say sorry to someone you have hurt.",
+      "hi": { "text": "मिठाई बाँटें, पड़ोसियों से गले मिलें या शुभकामना दें, और जिसे आपने दुखी किया हो उससे क्षमा माँगें।", "reviewed": false },
+      "mr": { "text": "मिठाई वाटा, शेजाऱ्यांना भेटा किंवा शुभेच्छा द्या आणि ज्याला दुखावले असेल त्याची माफी मागा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Holi is lit with Puran Poli offered to the fire, and Shimga is celebrated in the Konkan with palanquins and folk songs. Rang Panchami, five days later, is the colour day in much of Maharashtra. North India: Lathmar Holi in Barsana and Mathura-Vrindavan. Bengal: Dol Jatra. Punjab: Hola Mohalla.",
+    "hi": { "text": "महाराष्ट्र: होली में पूरनपोळी अग्नि को अर्पित की जाती है, और कोंकण में शिमगा पालकी और लोकगीतों के साथ मनाया जाता है। रंगपंचमी पाँच दिन बाद महाराष्ट्र के बड़े भाग में रंगों का दिन है। उत्तर भारत: बरसाना की लठमार होली, मथुरा-वृंदावन। बंगाल: दोल जात्रा। पंजाब: होला मोहल्ला।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: होळीत पुरणपोळी अग्नीला अर्पण केली जाते, आणि कोकणात शिमगा पालख्या आणि लोकगीतांसह साजरा होतो. रंगपंचमी पाच दिवसांनी येते आणि महाराष्ट्रात बहुतेक ठिकाणी रंगांचा दिवस असतो. उत्तर भारत: बरसाण्याची लठमार होळी, मथुरा-वृंदावन. बंगाल: दोल जात्रा. पंजाब: होला मोहल्ला.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Puran poli in Maharashtra, gujiya and thandai in the north, malpua, dahi bhalla and sweet puris elsewhere. Thandai is sometimes made with bhang; skip that if you do not want it.",
+    "hi": { "text": "महाराष्ट्र में पूरनपोळी, उत्तर में गुझिया और ठंडाई, अन्यत्र मालपुआ, दही भल्ला और मीठी पूरी। ठंडाई कभी-कभी भाँग के साथ बनती है; न चाहें तो उसे मना कर दें।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्रात पुरणपोळी, उत्तरेत गुजिया आणि ठंडाई, इतरत्र मालपुआ, दही भल्ला आणि गोड पुऱ्या. ठंडाई कधी कधी भांगेसह बनते; नको असल्यास नाकारा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Colour is for willing people only. Consent matters more than tradition, so respect anyone who says no, and take care around women, children and travellers.",
+    "hi": { "text": "रंग केवल इच्छुक लोगों के लिए है। परंपरा से अधिक सहमति मायने रखती है, इसलिए जो मना करे उसका सम्मान करें और महिलाओं, बच्चों व यात्रियों का विशेष ध्यान रखें।", "reviewed": false },
+    "mr": { "text": "रंग फक्त इच्छुक लोकांसाठी आहे. परंपरेपेक्षा संमती महत्त्वाची आहे, म्हणून जो नाही म्हणेल त्याचा आदर करा आणि महिला, मुले व प्रवाशांची विशेष काळजी घ्या.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Holi, Wikipedia", "url": "https://en.wikipedia.org/wiki/Holi" },
+    { "label": "Prahlada, Wikipedia", "url": "https://en.wikipedia.org/wiki/Prahlada" }
+  ]
+}

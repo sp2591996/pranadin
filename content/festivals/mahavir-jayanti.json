@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "mahavir-jayanti",
+  "traditions": ["jain"],
+  "months": [3, 4],
+  "observances": [],
+  "name": { "en": "Mahavir Jayanti", "hi": { "text": "महावीर जयंती", "reviewed": false }, "mr": { "text": "महावीर जयंती", "reviewed": false } },
+  "tagline": {
+    "en": "The birth of Bhagwan Mahavir, the 24th Tirthankara",
+    "hi": { "text": "24वें तीर्थंकर भगवान महावीर का जन्म कल्याणक", "reviewed": false },
+    "mr": { "text": "२४ वे तीर्थंकर भगवान महावीर यांचा जन्म कल्याणक", "reviewed": false }
+  },
+  "story": {
+    "en": "Jains remember Mahavira as the 24th and last Tirthankara of the present age. He was born on the thirteenth day of the bright half of Chaitra, traditionally dated to 599 BCE, to King Siddhartha and Queen Trishala of the Nāya clan. He was named Vardhamana, 'one who grows', because the kingdom prospered at his birth. Shvetambara tradition tells that Trishala saw 14 sacred dreams before his birth, while Digambara tradition tells of 16. Shvetambara accounts place his birth at Kshatriyakund in Bihar. At about 30 he left royal life, and after years of austerity attained kevala jnana (perfect knowledge) and taught for about three decades.",
+    "hi": { "text": "जैन भगवान महावीर को वर्तमान युग के 24वें और अंतिम तीर्थंकर के रूप में स्मरण करते हैं। उनका जन्म चैत्र शुक्ल त्रयोदशी को हुआ, जिसे परंपरा से 599 ईसा पूर्व माना जाता है; वे नाय वंश के राजा सिद्धार्थ और रानी त्रिशला के पुत्र थे। उनका नाम वर्धमान रखा गया, यानी 'जो बढ़ता है', क्योंकि उनके जन्म पर राज्य में समृद्धि बढ़ी। श्वेतांबर परंपरा के अनुसार जन्म से पहले त्रिशला ने 14 पवित्र स्वप्न देखे, जबकि दिगंबर परंपरा में 16 स्वप्न बताए गए हैं। श्वेतांबर वृत्तांत उनका जन्म बिहार के क्षत्रियकुंड में बताते हैं। लगभग 30 वर्ष की आयु में उन्होंने राजसी जीवन त्याग दिया, और वर्षों की तपस्या के बाद केवलज्ञान प्राप्त कर लगभग तीन दशक तक उपदेश दिए।", "reviewed": false },
+    "mr": { "text": "जैन भगवान महावीरांना सध्याच्या युगातील २४ वे आणि शेवटचे तीर्थंकर म्हणून स्मरतात. त्यांचा जन्म चैत्र शुक्ल त्रयोदशीला झाला, जो परंपरेने इ.स.पू. ५९९ मानला जातो; ते नाय कुळातील राजा सिद्धार्थ आणि राणी त्रिशला यांचे पुत्र होते. त्यांचे नाव वर्धमान ठेवले गेले, म्हणजे 'जो वाढतो', कारण त्यांच्या जन्मावेळी राज्याची भरभराट झाली. श्वेतांबर परंपरेनुसार जन्माआधी त्रिशलेला १४ पवित्र स्वप्ने पडली, तर दिगंबर परंपरेत १६ स्वप्ने सांगितली आहेत. श्वेतांबर वर्णने त्यांचा जन्म बिहारमधील क्षत्रियकुंड येथे सांगतात. सुमारे ३० व्या वर्षी त्यांनी राजसी जीवन सोडले, आणि वर्षानुवर्षांच्या तपश्चर्येनंतर केवलज्ञान प्राप्त करून सुमारे तीन दशके उपदेश केला.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Jain tradition: the Kalpa Sutra (Shvetambara) and Digambara accounts of the Tirthankaras. The two traditions differ on some details.",
+    "hi": { "text": "जैन परंपरा से: कल्पसूत्र (श्वेतांबर) और तीर्थंकरों के दिगंबर वृत्तांत। कुछ विवरणों में दोनों परंपराएँ भिन्न हैं।", "reviewed": false },
+    "mr": { "text": "जैन परंपरेतून: कल्पसूत्र (श्वेतांबर) आणि तीर्थंकरांचे दिगंबर वृत्तांत. काही तपशिलांत दोन्ही परंपरा वेगळ्या आहेत.", "reviewed": false }
+  },
+  "why": {
+    "en": "The day recalls Mahavira's teachings of ahimsa (non-violence), truthfulness, non-stealing, restraint and non-attachment, and the idea of anekantavada, that truth has many sides. Jains mark it with temple worship, listening to the teachings and charity.",
+    "hi": { "text": "यह दिन महावीर की शिक्षाओं का स्मरण कराता है: अहिंसा, सत्य, अस्तेय, संयम और अपरिग्रह, तथा अनेकांतवाद का विचार कि सत्य के कई पहलू होते हैं। जैन इसे मंदिर पूजा, उपदेश श्रवण और दान के साथ मनाते हैं।", "reviewed": false },
+    "mr": { "text": "हा दिवस महावीरांच्या शिकवणींची आठवण करून देतो: अहिंसा, सत्य, अस्तेय, संयम आणि अपरिग्रह, तसेच अनेकांतवादाची कल्पना की सत्याला अनेक बाजू असतात. जैन हा दिवस मंदिरातील पूजा, उपदेश श्रवण आणि दान करून साजरा करतात.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Rise early, bathe and begin with the Navkar Mantra or a prayer your family recites.",
+      "hi": { "text": "सुबह जल्दी उठकर स्नान करें और नवकार मंत्र या अपने परिवार की प्रार्थना से शुरुआत करें।", "reviewed": false },
+      "mr": { "text": "पहाटे लवकर उठून स्नान करा आणि नवकार मंत्र किंवा आपल्या कुटुंबाच्या प्रार्थनेने सुरुवात करा.", "reviewed": false }
+    },
+    {
+      "en": "Visit a Jain temple for darshan and puja. Many communities hold an abhisheka (ceremonial bathing) of the Mahavira image and a procession with his image on a chariot.",
+      "hi": { "text": "दर्शन और पूजा के लिए जैन मंदिर जाएँ। कई समुदाय महावीर प्रतिमा का अभिषेक करते हैं और रथ पर उनकी प्रतिमा के साथ शोभायात्रा निकालते हैं।", "reviewed": false },
+      "mr": { "text": "दर्शन आणि पूजेसाठी जैन मंदिरात जा. अनेक समाज महावीर प्रतिमेचा अभिषेक करतात आणि रथावर त्यांच्या प्रतिमेसह मिरवणूक काढतात.", "reviewed": false }
+    },
+    {
+      "en": "Listen to a talk by a monk, nun or scholar, or read a short passage on ahimsa and the five vows with your family.",
+      "hi": { "text": "किसी मुनि, साध्वी या विद्वान का प्रवचन सुनें, या परिवार के साथ अहिंसा और पाँच व्रतों पर कोई छोटा अंश पढ़ें।", "reviewed": false },
+      "mr": { "text": "एखाद्या मुनी, साध्वी किंवा विद्वानांचे प्रवचन ऐका, किंवा कुटुंबासोबत अहिंसा आणि पाच व्रतांवरील एखादा छोटा भाग वाचा.", "reviewed": false }
+    },
+    {
+      "en": "Give in a way that matches the teaching: donate food or funds for a cause such as animal shelters (jivdaya) or support for the needy.",
+      "hi": { "text": "शिक्षा के अनुरूप दान करें: जीवदया, यानी पशु आश्रय, या ज़रूरतमंदों की सहायता जैसे किसी कार्य के लिए भोजन या धन दें।", "reviewed": false },
+      "mr": { "text": "शिकवणीला अनुसरून दान करा: जीवदया, म्हणजे प्राण्यांचे आश्रयस्थान, किंवा गरजूंना मदत अशा कार्यासाठी अन्न किंवा निधी द्या.", "reviewed": false }
+    },
+    {
+      "en": "Spend the day with extra care towards every living being: eat simple vegetarian food, speak kindly and avoid harming others in word or action.",
+      "hi": { "text": "दिन भर हर जीव के प्रति विशेष सावधानी रखें: सादा शाकाहारी भोजन करें, मधुर बोलें और वाणी या कर्म से किसी को चोट न पहुँचाएँ।", "reviewed": false },
+      "mr": { "text": "दिवसभर प्रत्येक जीवाबद्दल विशेष काळजी घ्या: साधे शाकाहारी जेवण घ्या, गोड बोला आणि शब्दाने किंवा कृतीने कुणालाही दुखवू नका.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Jain communities in Mumbai, Pune, Kolhapur, Sangli and Solapur hold temple pujas, shobha yatras (processions) and community meals, often with Marathi and Gujarati-speaking Jains together. Gujarat and Rajasthan: large processions with the Mahavira image on a chariot, temple decorations and charity drives. Bihar: pilgrims visit sites tied to his life, such as Kshatriyakund and Pawapuri. Across India, many communities also hold Ahimsa rallies and collect donations for charity.",
+    "hi": { "text": "महाराष्ट्र: मुंबई, पुणे, कोल्हापुर, सांगली और सोलापुर के जैन समुदाय मंदिर पूजा, शोभायात्रा और सामूहिक भोजन का आयोजन करते हैं, जिनमें मराठी और गुजराती भाषी जैन अक्सर साथ आते हैं। गुजरात और राजस्थान: रथ पर महावीर प्रतिमा के साथ बड़ी शोभायात्राएँ, मंदिरों की सजावट और दान अभियान। बिहार: श्रद्धालु उनके जीवन से जुड़े स्थानों, जैसे क्षत्रियकुंड और पावापुरी, की यात्रा करते हैं। पूरे भारत में कई समुदाय अहिंसा रैलियाँ भी निकालते हैं और दान एकत्र करते हैं।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: मुंबई, पुणे, कोल्हापूर, सांगली आणि सोलापूर येथील जैन समाज मंदिर पूजा, शोभायात्रा आणि सामूहिक भोजन आयोजित करतात, ज्यात मराठी आणि गुजराती भाषिक जैन अनेकदा एकत्र येतात. गुजरात आणि राजस्थान: रथावर महावीर प्रतिमेसह मोठ्या शोभायात्रा, मंदिरांची सजावट आणि दान मोहिमा. बिहार: भाविक त्यांच्या जीवनाशी संबंधित स्थळांना, जसे क्षत्रियकुंड आणि पावापुरी, भेट देतात. संपूर्ण भारतात अनेक समाज अहिंसा रॅली काढतात आणि दान गोळा करतात.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Jain food is vegetarian and, in many families, avoids root vegetables such as onion, garlic and potato, and is eaten before sunset. Some families fast or eat only simple meals on the day. Community meals (swamivatsalya) are shared after the temple programme. Follow your own family's practice.",
+    "hi": { "text": "जैन भोजन शाकाहारी होता है और कई परिवारों में प्याज़, लहसुन और आलू जैसी जड़ वाली सब्ज़ियों से परहेज़ किया जाता है तथा सूर्यास्त से पहले भोजन किया जाता है। कुछ परिवार इस दिन उपवास रखते हैं या केवल सादा भोजन करते हैं। मंदिर के कार्यक्रम के बाद सामूहिक भोज (स्वामीवात्सल्य) होता है। अपने परिवार की रीति का पालन करें।", "reviewed": false },
+    "mr": { "text": "जैन आहार शाकाहारी असतो आणि अनेक कुटुंबांत कांदा, लसूण आणि बटाटा यांसारख्या कंदमुळांचा त्याग केला जातो तसेच सूर्यास्ताआधी जेवण केले जाते. काही कुटुंबे या दिवशी उपवास करतात किंवा फक्त साधे जेवण घेतात. मंदिरातील कार्यक्रमानंतर सामूहिक भोजन (स्वामीवात्सल्य) होते. आपल्या कुटुंबाच्या प्रथेचे पालन करा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Shvetambara and Digambara Jains share the festival but differ in some details of the birth account and in practice. This guide follows no single sect, so please defer to your own community and its monks and nuns.",
+    "hi": { "text": "श्वेतांबर और दिगंबर जैन यह पर्व साथ मनाते हैं, पर जन्म-वृत्तांत के कुछ विवरणों और रीतियों में उनमें अंतर है। यह मार्गदर्शिका किसी एक संप्रदाय का पालन नहीं करती, इसलिए कृपया अपने समुदाय और उसके मुनियों व साध्वियों का मार्गदर्शन मानें।", "reviewed": false },
+    "mr": { "text": "श्वेतांबर आणि दिगंबर जैन हा सण एकत्र साजरा करतात, पण जन्मवृत्तांताच्या काही तपशिलांत आणि प्रथांत फरक आहे. ही मार्गदर्शिका कोणत्याही एका संप्रदायाचे पालन करत नाही, म्हणून कृपया आपल्या समाजाचे आणि त्यांच्या मुनी व साध्वींचे मार्गदर्शन मानावे.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Mahavir Jayanti, Wikipedia", "url": "https://en.wikipedia.org/wiki/Mahavir_Jayanti" },
+    { "label": "Mahavira, Wikipedia", "url": "https://en.wikipedia.org/wiki/Mahavira" }
+  ]
+}

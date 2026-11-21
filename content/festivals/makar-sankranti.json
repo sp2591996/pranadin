@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "makar-sankranti",
+  "traditions": ["hindu"],
+  "months": [1],
+  "observances": ["obs.2027.makar-sankranti"],
+  "name": { "en": "Makar Sankranti", "hi": { "text": "मकर संक्रांति", "reviewed": false }, "mr": { "text": "मकर संक्रांत", "reviewed": false } },
+  "tagline": {
+    "en": "The sun's journey north, with tilgul and kites",
+    "hi": { "text": "सूर्य की उत्तर यात्रा, तिल-गुड़ और पतंगों के साथ", "reviewed": false },
+    "mr": { "text": "सूर्याचा उत्तरायण प्रवास, तिळगूळ आणि पतंगांसह", "reviewed": false }
+  },
+  "story": {
+    "en": "Makar Sankranti marks the day the sun enters Makara (Capricorn) in the sidereal calendar and begins its northward path, Uttarayana. In the Mahabharata, Bhishma waits on his bed of arrows for Uttarayana before leaving the world. It is also a harvest festival, giving thanks for the new crop.",
+    "hi": { "text": "मकर संक्रांति उस दिन को चिह्नित करती है जब सूर्य निरयन पंचांग में मकर राशि में प्रवेश कर उत्तर की ओर यात्रा, उत्तरायण, आरंभ करता है। महाभारत में भीष्म उत्तरायण की प्रतीक्षा में शरशय्या पर रहते हैं। यह फसल कटाई का त्योहार भी है, नई फसल के लिए आभार का।", "reviewed": false },
+    "mr": { "text": "मकर संक्रांत हा तो दिवस आहे जेव्हा सूर्य निरयन पंचांगात मकर राशीत प्रवेश करतो आणि उत्तरेकडील प्रवास, उत्तरायण, सुरू करतो. महाभारतात भीष्म उत्तरायणाची वाट पाहत शरपंजरी राहतात. हा पीक कापणीचा सणही आहे, नव्या पिकाबद्दल कृतज्ञतेचा.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Mahabharata (Bhishma) and the agricultural and solar calendar of India.",
+    "hi": { "text": "महाभारत (भीष्म) और भारत के कृषि तथा सौर पंचांग से।", "reviewed": false },
+    "mr": { "text": "महाभारत (भीष्म) आणि भारताच्या कृषी व सौर पंचांगातून.", "reviewed": false }
+  },
+  "why": {
+    "en": "It celebrates the turning of the season, gratitude for the harvest and sweetness in speech and relations.",
+    "hi": { "text": "यह ऋतु-परिवर्तन, फसल के प्रति कृतज्ञता और वाणी तथा संबंधों में मिठास का उत्सव है।", "reviewed": false },
+    "mr": { "text": "हा ऋतुबदल, पिकाबद्दल कृतज्ञता आणि बोलण्यात व नात्यांत गोडवा यांचा उत्सव आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Take an early bath and, if you can, a dip in a river or a bath at home with a prayer of thanks to the sun.",
+      "hi": { "text": "सुबह जल्दी स्नान करें, संभव हो तो नदी में डुबकी लें या घर पर सूर्य के प्रति कृतज्ञता की प्रार्थना के साथ स्नान करें।", "reviewed": false },
+      "mr": { "text": "पहाटे स्नान करा, शक्य असल्यास नदीत डुबकी घ्या किंवा घरी सूर्याप्रति कृतज्ञतेच्या प्रार्थनेसह स्नान करा.", "reviewed": false }
+    },
+    {
+      "en": "Offer water to the sun (surya arghya) facing east and say a short prayer.",
+      "hi": { "text": "पूर्व की ओर मुख कर सूर्य को जल अर्पित करें (सूर्य अर्घ्य) और छोटी प्रार्थना करें।", "reviewed": false },
+      "mr": { "text": "पूर्वेकडे तोंड करून सूर्याला पाणी अर्पण करा (सूर्य अर्घ्य) आणि छोटी प्रार्थना म्हणा.", "reviewed": false }
+    },
+    {
+      "en": "Wear fresh clothes; many wear black on this day in Maharashtra, as winter clothing is traditional.",
+      "hi": { "text": "नए वस्त्र पहनें; महाराष्ट्र में कई लोग इस दिन काले रंग के वस्त्र पहनते हैं, जो सर्दी के कपड़ों की परंपरा है।", "reviewed": false },
+      "mr": { "text": "नवे कपडे घाला; महाराष्ट्रात अनेकजण या दिवशी काळे कपडे घालतात, हिवाळी वस्त्रांची ही परंपरा आहे.", "reviewed": false }
+    },
+    {
+      "en": "Make or buy tilgul (sesame and jaggery sweets), share them and say \"tilgul ghya, god god bola\".",
+      "hi": { "text": "तिल-गुड़ की मिठाई बनाएँ या खरीदें, बाँटें और कहें \"तिळगूळ घ्या, गोड गोड बोला\" (तिल-गुड़ लो, मीठा-मीठा बोलो)।", "reviewed": false },
+      "mr": { "text": "तिळगूळ बनवा किंवा आणा, वाटा आणि म्हणा \"तिळगूळ घ्या, गोड गोड बोला\".", "reviewed": false }
+    },
+    {
+      "en": "Fly a kite if you enjoy it, with a cotton thread and away from roads and birds' routes, or donate food and warm clothes to those in need.",
+      "hi": { "text": "चाहें तो पतंग उड़ाएँ, सूती धागे से और सड़कों व पक्षियों के रास्ते से दूर, या ज़रूरतमंदों को भोजन और गर्म कपड़े दान करें।", "reviewed": false },
+      "mr": { "text": "इच्छा असल्यास पतंग उडवा, सुती दोऱ्याने आणि रस्ते व पक्ष्यांच्या वाटेपासून दूर, किंवा गरजूंना अन्न आणि उबदार कपडे द्या.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: tilgul, halwa-chi jewellery for children (halwa dagine), haldi-kunku gatherings for women through Ratha Saptami. Gujarat: Uttarayan kite festival. Punjab: Lohri the night before. Tamil Nadu: Pongal. Assam: Magh Bihu. Bengal: Poush Sankranti with pithe.",
+    "hi": { "text": "महाराष्ट्र: तिळगूळ, बच्चों के लिए हलवे के गहने (हलव्याचे दागिने), और रथ सप्तमी तक महिलाओं के हल्दी-कुमकुम समारोह। गुजरात: उत्तरायण पतंग उत्सव। पंजाब: एक रात पहले लोहड़ी। तमिलनाडु: पोंगल। असम: माघ बिहू। बंगाल: पौष संक्रांति और पीठे।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: तिळगूळ, मुलांसाठी हलव्याचे दागिने आणि रथसप्तमीपर्यंत महिलांचे हळदीकुंकू समारंभ. गुजरात: उत्तरायण पतंग उत्सव. पंजाब: आदल्या रात्री लोहरी. तमिळनाडू: पोंगल. आसाम: माघ बिहू. बंगाल: पौष संक्रांत आणि पिठे.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Tilgul ladoo and chikki, bajra bhakri with sesame, vegetable bhaji of seasonal produce in Maharashtra; khichdi and til-laddoo in the north; undhiyu and chikki in Gujarat.",
+    "hi": { "text": "महाराष्ट्र में तिळगूळ के लड्डू और चिक्की, तिल वाली बाजरे की भाकरी और मौसमी सब्ज़ियों की भाजी; उत्तर में खिचड़ी और तिल के लड्डू; गुजरात में ऊँधियू और चिक्की।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्रात तिळगुळाचे लाडू आणि चिक्की, तीळ लावलेली बाजरीची भाकरी आणि हंगामी भाज्यांची भाजी; उत्तरेत खिचडी आणि तिळाचे लाडू; गुजरातमध्ये उंधियू आणि चिक्की.", "reviewed": false }
+  },
+  "note": {
+    "en": "Kite strings, especially glass-coated or synthetic manja, injure birds and people. Prefer plain cotton thread, avoid flying during bird hours at dawn and dusk, and rescue a bird gently if you find one.",
+    "hi": { "text": "पतंग की डोर, ख़ासकर काँच लगी या सिंथेटिक मांझा, पक्षियों और लोगों को घायल करती है। सादा सूती धागा चुनें, सुबह-शाम पक्षियों के समय पतंग न उड़ाएँ और घायल पक्षी मिले तो सावधानी से उसकी मदद करें।", "reviewed": false },
+    "mr": { "text": "पतंगाचा दोरा, विशेषतः काच लावलेला किंवा कृत्रिम मांजा, पक्षी आणि माणसांना जखमी करतो. साधा सुती दोरा वापरा, पहाटे आणि सायंकाळी पक्ष्यांच्या वेळी पतंग उडवू नका आणि जखमी पक्षी आढळल्यास हळुवारपणे मदत करा.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Makar Sankranti, Wikipedia", "url": "https://en.wikipedia.org/wiki/Makar_Sankranti" },
+    { "label": "Lohri, Wikipedia", "url": "https://en.wikipedia.org/wiki/Lohri" }
+  ]
+}

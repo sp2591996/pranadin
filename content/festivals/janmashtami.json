@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "janmashtami",
+  "traditions": ["hindu"],
+  "months": [8, 9],
+  "observances": [],
+  "name": { "en": "Janmashtami", "hi": { "text": "जन्माष्टमी", "reviewed": false }, "mr": { "text": "गोकुळाष्टमी", "reviewed": false } },
+  "tagline": {
+    "en": "The birth of Krishna at midnight",
+    "hi": { "text": "मध्यरात्रि में कृष्ण का जन्मोत्सव", "reviewed": false },
+    "mr": { "text": "मध्यरात्री कृष्णजन्माचा उत्सव", "reviewed": false }
+  },
+  "story": {
+    "en": "The Bhagavata Purana tells that Krishna was born in the prison of Mathura to Devaki and Vasudeva, whose earlier children had been taken by King Kamsa. On the night of his birth Vasudeva carried the child across the Yamuna to Gokul, where he grew up among cowherds. His boyhood tales of butter and flute are loved across India.",
+    "hi": { "text": "भागवत पुराण के अनुसार कृष्ण का जन्म मथुरा के कारागार में देवकी और वसुदेव के यहाँ हुआ, जिनके पहले की संतानों को राजा कंस ने ले लिया था। जन्म की रात वसुदेव शिशु को यमुना पार गोकुल ले गए, जहाँ वे ग्वालों के बीच बड़े हुए। माखन और बाँसुरी की उनकी बाल-लीलाएँ पूरे भारत में प्रिय हैं।", "reviewed": false },
+    "mr": { "text": "भागवत पुराणानुसार कृष्णाचा जन्म मथुरेच्या कारागृहात देवकी आणि वसुदेवाच्या पोटी झाला, ज्यांची आधीची अपत्ये राजा कंसाने नेली होती. जन्माच्या रात्री वसुदेव बाळाला यमुना ओलांडून गोकुळात घेऊन गेले, जिथे तो गवळ्यांमध्ये वाढला. लोणी आणि बासरीच्या त्याच्या बाललीला संपूर्ण भारतात प्रिय आहेत.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Bhagavata Purana (Book 10) and the Harivamsa.",
+    "hi": { "text": "भागवत पुराण (दशम स्कंध) और हरिवंश से।", "reviewed": false },
+    "mr": { "text": "भागवत पुराण (दशम स्कंध) आणि हरिवंशातून.", "reviewed": false }
+  },
+  "why": {
+    "en": "Devotees celebrate the arrival of joy and compassion, and remember Krishna's teaching of duty and devotion in the Bhagavad Gita.",
+    "hi": { "text": "भक्त आनंद और करुणा के आगमन का उत्सव मनाते हैं और भगवद्गीता में कृष्ण के कर्तव्य और भक्ति के उपदेश को याद करते हैं।", "reviewed": false },
+    "mr": { "text": "भक्त आनंद आणि करुणेच्या आगमनाचा उत्सव साजरा करतात आणि भगवद्गीतेतील कृष्णाच्या कर्तव्य आणि भक्तीच्या उपदेशाचे स्मरण करतात.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Clean the prayer space and decorate a small swing or cradle for baby Krishna (Bal Gopal).",
+      "hi": { "text": "पूजा स्थान साफ़ करें और बाल गोपाल के लिए छोटा झूला या पालना सजाएँ।", "reviewed": false },
+      "mr": { "text": "पूजेची जागा स्वच्छ करा आणि बाळकृष्णासाठी छोटा झुला किंवा पाळणा सजवा.", "reviewed": false }
+    },
+    {
+      "en": "Keep a simple fast during the day if your family does, and listen to or read stories of Krishna's birth.",
+      "hi": { "text": "परिवार की रीति हो तो दिन में सादा उपवास रखें और कृष्ण जन्म की कथा सुनें या पढ़ें।", "reviewed": false },
+      "mr": { "text": "कुटुंबाची प्रथा असल्यास दिवसा साधा उपवास करा आणि कृष्णजन्माची कथा ऐका किंवा वाचा.", "reviewed": false }
+    },
+    {
+      "en": "At midnight, bathe the small idol with water or milk, dress it in new clothes and place it on the swing.",
+      "hi": { "text": "मध्यरात्रि में छोटी मूर्ति को जल या दूध से स्नान कराएँ, नए वस्त्र पहनाएँ और झूले में रखें।", "reviewed": false },
+      "mr": { "text": "मध्यरात्री लहान मूर्तीला पाणी किंवा दुधाने स्नान घाला, नवे वस्त्र घाला आणि झुल्यात ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Sing the aarti, rock the swing gently, and offer butter, milk sweets and tulsi leaves.",
+      "hi": { "text": "आरती गाएँ, झूले को धीरे से झुलाएँ और माखन, दूध की मिठाइयाँ और तुलसी दल अर्पित करें।", "reviewed": false },
+      "mr": { "text": "आरती म्हणा, झुला हळूच हलवा आणि लोणी, दुधाच्या मिठाया आणि तुळशीची पाने अर्पण करा.", "reviewed": false }
+    },
+    {
+      "en": "Break the fast with prasad, and share it with neighbours and children.",
+      "hi": { "text": "प्रसाद से व्रत खोलें और पड़ोसियों व बच्चों में बाँटें।", "reviewed": false },
+      "mr": { "text": "प्रसादाने उपवास सोडा आणि शेजारी व मुलांना वाटा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Dahi Handi the next day, when teams of young people form human pyramids to break a pot of curd hung high, in memory of Krishna's butter play. Mumbai and Thane are known for it. Mathura-Vrindavan: grand temples and Jhulan. Gujarat: Dwarka. Odisha and Bengal: Nanda Utsav. South: kolam footprints of Krishna.",
+    "hi": { "text": "महाराष्ट्र: अगले दिन दही हांडी, जब युवाओं की टोलियाँ मानव पिरामिड बनाकर ऊँचे लटके दही के मटके को फोड़ती हैं, कृष्ण की माखन-लीला की स्मृति में। मुंबई और ठाणे इसके लिए जाने जाते हैं। मथुरा-वृंदावन: भव्य मंदिर और झूलन। गुजरात: द्वारका। ओडिशा और बंगाल: नंद उत्सव। दक्षिण: कृष्ण के चरणों की कोलम।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: दुसऱ्या दिवशी दहीहंडी, जेव्हा तरुणांची पथके मानवी मनोरे रचून उंच टांगलेली दह्याची हंडी फोडतात, कृष्णाच्या लोणी-लीलेच्या स्मरणार्थ. मुंबई आणि ठाणे यासाठी प्रसिद्ध आहेत. मथुरा-वृंदावन: भव्य मंदिरे आणि झुलन. गुजरात: द्वारका. ओडिशा आणि बंगाल: नंद उत्सव. दक्षिण: कृष्णाच्या पावलांची रांगोळी.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Makhan-mishri (butter and sugar crystals), panjiri, shrikhand, kheer, chakli and murukku, gopalkala (a mix of poha, curd and spices) in Maharashtra.",
+    "hi": { "text": "माखन-मिश्री, पंजीरी, श्रीखंड, खीर, चकली और मुरुक्कु, महाराष्ट्र में गोपालकाला (पोहे, दही और मसालों का मिश्रण)।", "reviewed": false },
+    "mr": { "text": "लोणी-खडीसाखर, पंजिरी, श्रीखंड, खीर, चकली आणि मुरुक्कू, महाराष्ट्रात गोपाळकाला (पोहे, दही आणि मसाल्यांचे मिश्रण).", "reviewed": false }
+  },
+  "note": {
+    "en": "Human pyramids in Dahi Handi carry real risk of injury, so follow safety rules, helmets and age limits set by local authorities. Krishna is worshipped in many forms, so respect the way each family does it.",
+    "hi": { "text": "दही हांडी के मानव पिरामिड में चोट का वास्तविक जोखिम है, इसलिए स्थानीय प्रशासन द्वारा तय सुरक्षा नियम, हेलमेट और आयु सीमा का पालन करें। कृष्ण की पूजा अनेक रूपों में होती है, इसलिए हर परिवार की रीति का सम्मान करें।", "reviewed": false },
+    "mr": { "text": "दहीहंडीतील मानवी मनोऱ्यांत दुखापतीचा खरा धोका असतो, म्हणून स्थानिक प्रशासनाने ठरवलेले सुरक्षा नियम, हेल्मेट आणि वयोमर्यादा पाळा. कृष्णाची पूजा अनेक रूपांत होते, म्हणून प्रत्येक कुटुंबाच्या पद्धतीचा आदर करा.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Krishna Janmashtami, Wikipedia", "url": "https://en.wikipedia.org/wiki/Krishna_Janmashtami" },
+    { "label": "Krishna, Wikipedia", "url": "https://en.wikipedia.org/wiki/Krishna" }
+  ]
+}

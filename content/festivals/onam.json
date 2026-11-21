@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "onam",
+  "traditions": ["hindu"],
+  "months": [8, 9],
+  "observances": [],
+  "name": { "en": "Onam", "hi": { "text": "ओणम", "reviewed": false }, "mr": { "text": "ओणम", "reviewed": false } },
+  "tagline": {
+    "en": "Kerala's harvest festival and the return of King Mahabali",
+    "hi": { "text": "केरल का फ़सल उत्सव और राजा महाबली की वापसी", "reviewed": false },
+    "mr": { "text": "केरळचा पीक उत्सव आणि राजा महाबलीचे पुनरागमन", "reviewed": false }
+  },
+  "story": {
+    "en": "Onam centres on Mahabali, a just and loved Asura king whose reign is remembered as a time of plenty and fairness. In the best-known story, Vishnu comes as the dwarf Vamana and asks for three paces of land, then grows to cosmic size and covers the earth and the sky with two steps; Mahabali offers his own head for the third. Vamana grants him a wish to visit his people once a year, and that annual visit is what Onam welcomes. Some communities tell a different origin story linked to Parashurama and the creation of Kerala.",
+    "hi": { "text": "ओणम का केंद्र महाबली हैं, एक न्यायप्रिय और लोकप्रिय असुर राजा, जिनका शासन समृद्धि और निष्पक्षता के काल के रूप में याद किया जाता है। सबसे प्रसिद्ध कथा में विष्णु वामन (बौने) के रूप में आकर तीन पग भूमि माँगते हैं, फिर विराट रूप लेकर दो पगों में धरती और आकाश नाप लेते हैं; तीसरे पग के लिए महाबली अपना सिर अर्पित करते हैं। वामन उन्हें वर्ष में एक बार अपनी प्रजा से मिलने की इच्छा पूरी करने का वरदान देते हैं, और उसी वार्षिक आगमन का ओणम में स्वागत होता है। कुछ समुदाय परशुराम और केरल की रचना से जुड़ी अलग उत्पत्ति-कथा भी सुनाते हैं।", "reviewed": false },
+    "mr": { "text": "ओणमच्या केंद्रस्थानी महाबली आहे, एक न्यायी आणि लोकप्रिय असुर राजा, ज्याचे राज्य समृद्धी आणि निःपक्षपातीपणाचा काळ म्हणून स्मरले जाते. सर्वात प्रसिद्ध कथेत विष्णू वामन (बटू) रूपात येऊन तीन पावले जमीन मागतात, मग विराट रूप घेऊन दोन पावलांत पृथ्वी आणि आकाश व्यापतात; तिसऱ्या पावलासाठी महाबली स्वतःचे मस्तक अर्पण करतो. वामन त्याला वर्षातून एकदा आपल्या प्रजेला भेटण्याची इच्छा पूर्ण होण्याचे वरदान देतात, आणि त्याच वार्षिक आगमनाचे ओणममध्ये स्वागत होते. काही समाज परशुराम आणि केरळच्या निर्मितीशी जोडलेली वेगळी उगमकथाही सांगतात.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Vamana avatar story of the Puranas (such as the Bhagavata Purana) and Kerala's own oral and folk tradition of Mahabali.",
+    "hi": { "text": "पुराणों (जैसे भागवत पुराण) की वामन अवतार कथा और केरल की महाबली की अपनी मौखिक व लोक परंपरा से।", "reviewed": false },
+    "mr": { "text": "पुराणांतील (जसे भागवत पुराण) वामन अवतार कथा आणि केरळच्या महाबलीच्या स्वतःच्या मौखिक व लोकपरंपरेतून.", "reviewed": false }
+  },
+  "why": {
+    "en": "Onam is the main festival of Kerala, lasting about ten days from Atham to Thiruvonam in the Malayalam month of Chingam. It is a harvest festival and an expression of community, generosity and welcome, celebrated by Malayalis of many faiths.",
+    "hi": { "text": "ओणम केरल का मुख्य पर्व है, जो मलयालम माह चिंगम में अथम से तिरुवोणम तक लगभग दस दिन चलता है। यह फ़सल उत्सव है और समुदाय, उदारता और स्वागत की अभिव्यक्ति है, जिसे कई धर्मों के मलयाली मनाते हैं।", "reviewed": false },
+    "mr": { "text": "ओणम हा केरळचा प्रमुख सण आहे, जो मल्याळम महिना चिंगममध्ये अथमपासून तिरुवोणमपर्यंत सुमारे दहा दिवस चालतो. हा पीक उत्सव आहे आणि समाज, उदारता आणि स्वागताची अभिव्यक्ती आहे, जो अनेक धर्मांचे मल्याळी साजरा करतात.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Clean the home and prepare the front of the house, and begin a pookalam (flower carpet) on Atham, the first day.",
+      "hi": { "text": "घर साफ़ करें, द्वार का हिस्सा तैयार करें और पहले दिन अथम पर पूक्कलम (फूलों की रंगोली) शुरू करें।", "reviewed": false },
+      "mr": { "text": "घर स्वच्छ करा, दारासमोरची जागा तयार करा आणि पहिल्या दिवशी अथमला पूक्कलम (फुलांची रांगोळी) सुरू करा.", "reviewed": false }
+    },
+    {
+      "en": "Add a new ring of flowers each day so the pookalam grows larger towards Thiruvonam.",
+      "hi": { "text": "हर दिन फूलों का नया घेरा जोड़ें ताकि तिरुवोणम तक पूक्कलम बड़ा होता जाए।", "reviewed": false },
+      "mr": { "text": "दररोज फुलांचे नवे वर्तुळ जोडा म्हणजे तिरुवोणमपर्यंत पूक्कलम मोठे होत जाईल.", "reviewed": false }
+    },
+    {
+      "en": "On Thiruvonam, bathe early, wear new or traditional clothes such as the set mundu or kasavu saree, and light a lamp.",
+      "hi": { "text": "तिरुवोणम पर जल्दी स्नान करें, नए या पारंपरिक वस्त्र जैसे सेट मुंडु या कसावु साड़ी पहनें और दीप जलाएँ।", "reviewed": false },
+      "mr": { "text": "तिरुवोणमला लवकर स्नान करा, नवे किंवा पारंपरिक कपडे जसे सेट मुंडू किंवा कसावू साडी परिधान करा आणि दिवा लावा.", "reviewed": false }
+    },
+    {
+      "en": "Serve the Onasadya, a vegetarian feast on banana leaves, and share it with family and neighbours.",
+      "hi": { "text": "केले के पत्ते पर शाकाहारी भोज ओणसद्या परोसें और परिवार व पड़ोसियों के साथ बाँटें।", "reviewed": false },
+      "mr": { "text": "केळीच्या पानावर शाकाहारी भोजन ओणसद्या वाढा आणि कुटुंब व शेजाऱ्यांसोबत वाटून घ्या.", "reviewed": false }
+    },
+    {
+      "en": "Spend the afternoon with songs, games such as thiruvathira or vallamkali (boat race) viewing, and gifts of new clothes called onakodi.",
+      "hi": { "text": "दोपहर गीतों, खेलों जैसे तिरुवातिरा या वल्लमकली (नौका दौड़) देखने और ओणक्कोडी कहलाने वाले नए वस्त्रों के उपहार के साथ बिताएँ।", "reviewed": false },
+      "mr": { "text": "दुपार गाणी, तिरुवातिरा किंवा वल्लमकली (नौकास्पर्धा) पाहणे यांसारख्या खेळांसह, आणि ओणक्कोडी म्हणतात त्या नव्या कपड्यांच्या भेटींसह घालवा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Kerala: the heart of Onam, with pookalam, Onasadya, Pulikali (tiger dance), Vallamkali boat races and Thiruvathira dance. Maharashtra: Malayali communities in Mumbai, Pune and Nashik hold Onam get-togethers with pookalam and a shared sadya, and many Maharashtrian friends are invited. Elsewhere in India and abroad: Malayali associations organise the same customs. Differences exist between north, central and south Kerala in dishes and games.",
+    "hi": { "text": "केरल: ओणम का केंद्र, पूक्कलम, ओणसद्या, पुलिकली (बाघ नृत्य), वल्लमकली नौका दौड़ और तिरुवातिरा नृत्य के साथ। महाराष्ट्र: मुंबई, पुणे और नासिक में मलयाली समुदाय पूक्कलम और साझा सद्या के साथ ओणम मिलन आयोजित करते हैं, और कई मराठी मित्रों को भी बुलाया जाता है। भारत के अन्य भाग और विदेश: मलयाली संघ वही रीतियाँ आयोजित करते हैं। उत्तर, मध्य और दक्षिण केरल में व्यंजनों और खेलों में भिन्नताएँ हैं।", "reviewed": false },
+    "mr": { "text": "केरळ: ओणमचे केंद्र, पूक्कलम, ओणसद्या, पुलिकली (वाघ नृत्य), वल्लमकली नौकास्पर्धा आणि तिरुवातिरा नृत्यासह. महाराष्ट्र: मुंबई, पुणे आणि नाशिक येथील मल्याळी समाज पूक्कलम आणि सामायिक सद्यासह ओणम स्नेहसंमेलन आयोजित करतात, आणि अनेक मराठी मित्रांनाही बोलावले जाते. भारताचे इतर भाग आणि परदेश: मल्याळी संघटना त्याच रीती आयोजित करतात. उत्तर, मध्य आणि दक्षिण केरळमध्ये पदार्थ आणि खेळांत भिन्नता आहे.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Onasadya on a banana leaf: rice with sambar, avial, thoran, olan, kaalan, pachadi, pickles, banana chips, papadam, and payasam such as palada or parippu payasam. The number of dishes varies by family, from about nine to over twenty. The meal is vegetarian.",
+    "hi": { "text": "केले के पत्ते पर ओणसद्या: चावल के साथ सांभर, अवियल, थोरन, ओलन, कालन, पचड़ी, अचार, केले के चिप्स, पापड़, और पालाडा या परिप्पु पायसम जैसे पायसम। व्यंजनों की संख्या परिवार के अनुसार लगभग नौ से बीस से अधिक तक होती है। भोजन शाकाहारी होता है।", "reviewed": false },
+    "mr": { "text": "केळीच्या पानावर ओणसद्या: भातासोबत सांबार, अवियल, थोरन, ओलन, कालन, पचडी, लोणची, केळीचे वेफर्स, पापड आणि पालाडा किंवा परिप्पु पायसम यांसारखे पायसम. पदार्थांची संख्या कुटुंबानुसार सुमारे नऊ ते वीसहून अधिक असते. भोजन शाकाहारी असते.", "reviewed": false }
+  },
+  "note": {
+    "en": "Onam is kept by Malayalis of many faiths as a shared cultural festival, and not only by Hindus. Some communities tell the Mahabali story as a story of a beloved king rather than as the Vamana story, and views on its meaning differ, so approach it with respect. Some families also observe a lighter version if they have lost someone that year.",
+    "hi": { "text": "ओणम कई धर्मों के मलयाली एक साझा सांस्कृतिक पर्व के रूप में मनाते हैं, केवल हिंदू नहीं। कुछ समुदाय महाबली की कथा को वामन कथा के बजाय एक प्रिय राजा की कथा के रूप में सुनाते हैं, और इसके अर्थ पर मत अलग हैं, इसलिए आदर के साथ इसे देखें। कुछ परिवार उस वर्ष किसी को खोने पर सरल रूप में मनाते हैं।", "reviewed": false },
+    "mr": { "text": "ओणम अनेक धर्मांचे मल्याळी सामायिक सांस्कृतिक सण म्हणून साजरा करतात, केवळ हिंदू नव्हे. काही समाज महाबलीची कथा वामन कथेपेक्षा एका प्रिय राजाची कथा म्हणून सांगतात, आणि तिच्या अर्थाबाबत मते वेगवेगळी आहेत, म्हणून आदराने तिच्याकडे पाहा. काही कुटुंबे त्या वर्षी कोणाला गमावले असल्यास साध्या स्वरूपात साजरा करतात.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Onam, Wikipedia", "url": "https://en.wikipedia.org/wiki/Onam" },
+    { "label": "Mahabali legend, Kerala Tourism", "url": "https://www.keralatourism.org/onam/history/mahabali-legend" }
+  ]
+}

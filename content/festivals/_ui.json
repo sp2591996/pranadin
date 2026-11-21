@@ -1,0 +1,65 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festivals-ui",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "ui": {
+    "festivals.title": { "en": "Festival guide", "hi": { "text": "त्योहार मार्गदर्शिका", "reviewed": false }, "mr": { "text": "सण मार्गदर्शिका", "reviewed": false } },
+    "festivals.intro": {
+      "en": "The story behind each festival, why it matters, and simple ways to observe it at home. Cultural and devotional information only.",
+      "hi": { "text": "हर त्योहार की कथा, उसका महत्त्व और घर पर मनाने के सरल तरीके। यह केवल सांस्कृतिक और भक्ति-परंपरा की जानकारी है।", "reviewed": false },
+      "mr": { "text": "प्रत्येक सणाची कथा, त्याचे महत्त्व आणि घरी साजरा करण्याच्या सोप्या पद्धती. ही केवळ सांस्कृतिक आणि भक्ती परंपरेची माहिती आहे.", "reviewed": false }
+    },
+    "festivals.back": { "en": "All festivals", "hi": { "text": "सभी त्योहार", "reviewed": false }, "mr": { "text": "सर्व सण", "reviewed": false } },
+    "festivals.backToCalendar": { "en": "Calendar", "hi": { "text": "कैलेंडर", "reviewed": false }, "mr": { "text": "दिनदर्शिका", "reviewed": false } },
+    "festivals.filter.tradition": { "en": "Filter by tradition", "hi": { "text": "परंपरा के अनुसार छाँटें", "reviewed": false }, "mr": { "text": "परंपरेनुसार निवडा", "reviewed": false } },
+    "festivals.filter.all": { "en": "All traditions", "hi": { "text": "सभी परंपराएँ", "reviewed": false }, "mr": { "text": "सर्व परंपरा", "reviewed": false } },
+    "festivals.filter.month": { "en": "Month", "hi": { "text": "महीना", "reviewed": false }, "mr": { "text": "महिना", "reviewed": false } },
+    "festivals.filter.allMonths": { "en": "All months", "hi": { "text": "सभी महीने", "reviewed": false }, "mr": { "text": "सर्व महिने", "reviewed": false } },
+    "festivals.count": {
+      "en": "{count, plural, one {# festival} other {# festivals}}",
+      "hi": { "text": "{count} त्योहार", "reviewed": false },
+      "mr": { "text": "{count} सण", "reviewed": false }
+    },
+    "festivals.none": { "en": "No festival matches these filters.", "hi": { "text": "इन फ़िल्टर से कोई त्योहार नहीं मिला।", "reviewed": false }, "mr": { "text": "या निवडीनुसार एकही सण सापडला नाही.", "reviewed": false } },
+    "festivals.nextDate": { "en": "Next date: {date}", "hi": { "text": "अगली तिथि: {date}", "reviewed": false }, "mr": { "text": "पुढील तारीख: {date}", "reviewed": false } },
+    "festivals.noDate": {
+      "en": "No date is listed between {from} and {to}. Check your local calendar.",
+      "hi": { "text": "{from} से {to} के बीच कोई तारीख सूची में नहीं है। अपना स्थानीय पंचांग देखें।", "reviewed": false },
+      "mr": { "text": "{from} ते {to} दरम्यान कोणतीही तारीख यादीत नाही. आपले स्थानिक पंचांग पाहा.", "reviewed": false }
+    },
+    "festivals.datesVary": {
+      "en": "Dates follow lunar calendars and can differ by region and by one day.",
+      "hi": { "text": "तिथियाँ चंद्र पंचांग पर चलती हैं और क्षेत्र के अनुसार एक दिन का अंतर हो सकता है।", "reviewed": false },
+      "mr": { "text": "तारखा चांद्र पंचांगानुसार असतात आणि प्रदेशानुसार एका दिवसाचा फरक पडू शकतो.", "reviewed": false }
+    },
+    "festivals.story": { "en": "The story", "hi": { "text": "कथा", "reviewed": false }, "mr": { "text": "कथा", "reviewed": false } },
+    "festivals.why": { "en": "Why it matters", "hi": { "text": "इसका महत्त्व", "reviewed": false }, "mr": { "text": "याचे महत्त्व", "reviewed": false } },
+    "festivals.steps": { "en": "How to observe at home", "hi": { "text": "घर पर कैसे मनाएँ", "reviewed": false }, "mr": { "text": "घरी कसे साजरे करावे", "reviewed": false } },
+    "festivals.timingNote": {
+      "en": "Times for puja or prayer differ by place and family custom. Follow your own family or community.",
+      "hi": { "text": "पूजा या प्रार्थना का समय स्थान और परिवार की परंपरा के अनुसार अलग होता है। अपने परिवार या समुदाय की रीति मानें।", "reviewed": false },
+      "mr": { "text": "पूजा किंवा प्रार्थनेची वेळ ठिकाणानुसार आणि कुटुंबाच्या प्रथेनुसार वेगळी असते. आपल्या कुटुंबाची किंवा समाजाची रीत पाळा.", "reviewed": false }
+    },
+    "festivals.regional": { "en": "Regional ways", "hi": { "text": "क्षेत्रीय परंपराएँ", "reviewed": false }, "mr": { "text": "प्रादेशिक परंपरा", "reviewed": false } },
+    "festivals.foods": { "en": "Foods", "hi": { "text": "व्यंजन", "reviewed": false }, "mr": { "text": "पदार्थ", "reviewed": false } },
+    "festivals.note": { "en": "A respectful note", "hi": { "text": "एक आदरपूर्ण टिप्पणी", "reviewed": false }, "mr": { "text": "एक आदरपूर्वक टीप", "reviewed": false } },
+    "festivals.sources": { "en": "Sources", "hi": { "text": "स्रोत", "reviewed": false }, "mr": { "text": "स्रोत", "reviewed": false } },
+    "festivals.disclaimer": {
+      "en": "Traditions differ between families and regions. This guide describes common practice and is not a religious ruling.",
+      "hi": { "text": "परंपराएँ परिवारों और क्षेत्रों में अलग-अलग होती हैं। यह मार्गदर्शिका प्रचलित रीति बताती है, धार्मिक निर्णय नहीं।", "reviewed": false },
+      "mr": { "text": "परंपरा कुटुंबांनुसार आणि प्रदेशांनुसार वेगळ्या असतात. ही मार्गदर्शिका प्रचलित रीत सांगते, धार्मिक निर्णय नाही.", "reviewed": false }
+    },
+    "festivals.readStory": {
+      "en": "Read the story and how to celebrate",
+      "hi": { "text": "कथा पढ़ें और जानें कैसे मनाएँ", "reviewed": false },
+      "mr": { "text": "कथा वाचा आणि कसे साजरे करावे ते पाहा", "reviewed": false }
+    },
+    "festivals.entry.title": { "en": "Festival guide", "hi": { "text": "त्योहार मार्गदर्शिका", "reviewed": false }, "mr": { "text": "सण मार्गदर्शिका", "reviewed": false } },
+    "festivals.entry.body": {
+      "en": "Stories, meaning and simple ways to celebrate at home.",
+      "hi": { "text": "कथाएँ, अर्थ और घर पर मनाने के सरल तरीके।", "reviewed": false },
+      "mr": { "text": "कथा, अर्थ आणि घरी साजरे करण्याच्या सोप्या पद्धती.", "reviewed": false }
+    }
+  }
+}

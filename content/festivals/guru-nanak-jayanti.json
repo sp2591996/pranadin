@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "guru-nanak-jayanti",
+  "traditions": ["sikh"],
+  "months": [11],
+  "observances": ["obs.2026.guru-nanak-gurpurab"],
+  "name": { "en": "Guru Nanak Jayanti (Gurpurab)", "hi": { "text": "गुरु नानक जयंती (गुरुपर्व)", "reviewed": false }, "mr": { "text": "गुरू नानक जयंती (गुरुपर्व)", "reviewed": false } },
+  "tagline": {
+    "en": "The birth of the first Sikh Guru, remembered with prayer and shared meals",
+    "hi": { "text": "प्रथम सिख गुरु का प्रकाश पर्व, प्रार्थना और साझा लंगर के साथ", "reviewed": false },
+    "mr": { "text": "पहिल्या शीख गुरूंचे प्रकाश पर्व, प्रार्थना आणि सामायिक लंगरसह", "reviewed": false }
+  },
+  "story": {
+    "en": "Guru Nanak was born in 1469 at Rai Bhoi di Talwandi, today's Nankana Sahib in Pakistan. Sikh tradition remembers him as the first of the ten Gurus, who taught that there is one God (Ik Onkar), that people of every background are equal, and that a good life means remembering the Divine Name, earning an honest living and sharing with others. The stories of his life and travels are told in the Janamsakhis, and his hymns are part of the Guru Granth Sahib. His birth is marked by Sikhs on the full moon of Kartik, a day called Gurpurab or Prakash Utsav.",
+    "hi": { "text": "गुरु नानक का जन्म 1469 में राय भोई की तलवंडी में हुआ, जो आज पाकिस्तान में ननकाना साहिब है। सिख परंपरा उन्हें दस गुरुओं में प्रथम मानती है, जिन्होंने सिखाया कि ईश्वर एक है (इक ओंकार), हर पृष्ठभूमि के लोग समान हैं, और अच्छा जीवन वही है जिसमें प्रभु के नाम का स्मरण हो, ईमानदारी से कमाई हो और दूसरों के साथ बाँटा जाए। उनके जीवन और यात्राओं की कथाएँ जनमसाखियों में कही जाती हैं और उनकी वाणी गुरु ग्रंथ साहिब में सम्मिलित है। सिख कार्तिक पूर्णिमा के दिन उनका प्रकाश पर्व, यानी गुरुपर्व, मनाते हैं।", "reviewed": false },
+    "mr": { "text": "गुरू नानक यांचा जन्म १४६९ मध्ये राय भोई की तलवंडी येथे झाला, जे आज पाकिस्तानातील ननकाना साहिब आहे. शीख परंपरा त्यांना दहा गुरूंपैकी पहिले मानते. त्यांनी शिकवले की ईश्वर एक आहे (इक ओंकार), प्रत्येक पार्श्वभूमीचे लोक समान आहेत, आणि चांगले जीवन म्हणजे प्रभूच्या नावाचे स्मरण, प्रामाणिक कमाई आणि इतरांसोबत वाटून घेणे. त्यांच्या जीवनाच्या आणि प्रवासांच्या कथा जन्मसाखींमध्ये सांगितल्या जातात आणि त्यांची वाणी गुरू ग्रंथ साहिबात समाविष्ट आहे. शीख कार्तिक पौर्णिमेला त्यांचा प्रकाश पर्व, म्हणजे गुरुपर्व, साजरा करतात.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Sikh tradition: the Janamsakhi life accounts and the Guru Granth Sahib.",
+    "hi": { "text": "सिख परंपरा से: जनमसाखी जीवन-कथाएँ और गुरु ग्रंथ साहिब।", "reviewed": false },
+    "mr": { "text": "शीख परंपरेतून: जन्मसाखी जीवनकथा आणि गुरू ग्रंथ साहिब.", "reviewed": false }
+  },
+  "why": {
+    "en": "Gurpurab is a day to remember the Guru's message of one God, equality, honest work and sharing. For Sikhs it is a day of kirtan, listening to the Guru's word, and seva (selfless service), most visibly through langar, the free meal open to everyone.",
+    "hi": { "text": "गुरुपर्व गुरु के संदेश को याद करने का दिन है: एक ईश्वर, समानता, ईमानदार कमाई और बाँटकर खाना। सिखों के लिए यह कीर्तन, गुरु की वाणी सुनने और सेवा का दिन है, जो सबसे स्पष्ट रूप से लंगर में दिखता है, यानी सबके लिए खुला निःशुल्क भोजन।", "reviewed": false },
+    "mr": { "text": "गुरुपर्व हा गुरूंचा संदेश आठवण्याचा दिवस आहे: एक ईश्वर, समानता, प्रामाणिक कमाई आणि वाटून खाणे. शिखांसाठी हा कीर्तन, गुरूंची वाणी ऐकणे आणि सेवेचा दिवस आहे, जो लंगरमध्ये, म्हणजे सर्वांसाठी खुल्या मोफत भोजनात, सर्वात स्पष्ट दिसतो.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Rise early and begin the day with prayer, such as Japji Sahib or Asa di Vaar, as your family does.",
+      "hi": { "text": "सुबह जल्दी उठकर अपने परिवार की रीति के अनुसार प्रार्थना से दिन शुरू करें, जैसे जपुजी साहिब या आसा दी वार।", "reviewed": false },
+      "mr": { "text": "पहाटे लवकर उठून आपल्या कुटुंबाच्या प्रथेनुसार प्रार्थनेने दिवसाची सुरुवात करा, जसे जपजी साहिब किंवा आसा दी वार.", "reviewed": false }
+    },
+    {
+      "en": "Visit your nearest gurdwara for kirtan and katha, or listen to kirtan at home if you cannot go. Cover your head and keep your shoes outside.",
+      "hi": { "text": "कीर्तन और कथा के लिए निकटतम गुरुद्वारे जाएँ, या न जा सकें तो घर पर कीर्तन सुनें। सिर ढकें और जूते बाहर उतारें।", "reviewed": false },
+      "mr": { "text": "कीर्तन आणि कथेसाठी जवळच्या गुरुद्वारात जा, किंवा जाता येत नसेल तर घरी कीर्तन ऐका. डोके झाका आणि चपला बाहेर काढा.", "reviewed": false }
+    },
+    {
+      "en": "Read or tell a story from Guru Nanak's life to children, such as his teaching of the one God or his journeys.",
+      "hi": { "text": "बच्चों को गुरु नानक के जीवन की कोई कथा पढ़कर या सुनाकर बताएँ, जैसे एक ईश्वर की उनकी शिक्षा या उनकी यात्राएँ।", "reviewed": false },
+      "mr": { "text": "मुलांना गुरू नानक यांच्या जीवनातील एखादी कथा वाचून किंवा सांगून द्या, जसे एका ईश्वराची त्यांची शिकवण किंवा त्यांचे प्रवास.", "reviewed": false }
+    },
+    {
+      "en": "Take part in langar: help cook, serve or clean, or sit together with everyone and eat. Seva matters more than the size of the offering.",
+      "hi": { "text": "लंगर में भाग लें: पकाने, परोसने या सफ़ाई में हाथ बँटाएँ, या सबके साथ पंगत में बैठकर भोजन करें। सेवा की भावना चढ़ावे के आकार से अधिक मायने रखती है।", "reviewed": false },
+      "mr": { "text": "लंगरमध्ये सहभागी व्हा: स्वयंपाक, वाढणे किंवा स्वच्छतेत मदत करा, किंवा सर्वांसोबत पंगतीत बसून जेवा. सेवेची भावना अर्पणाच्या आकारापेक्षा महत्त्वाची आहे.", "reviewed": false }
+    },
+    {
+      "en": "Receive karah parshad with cupped hands and share it with family and neighbours. Light a lamp in the evening if that is your family's custom.",
+      "hi": { "text": "दोनों हाथ जोड़कर कड़ाह प्रसाद ग्रहण करें और परिवार व पड़ोसियों के साथ बाँटें। यदि आपके परिवार की रीति हो तो शाम को दीप जलाएँ।", "reviewed": false },
+      "mr": { "text": "दोन्ही हातांच्या ओंजळीत कडा प्रसाद स्वीकारा आणि कुटुंब व शेजाऱ्यांसोबत वाटा. आपल्या कुटुंबाची प्रथा असेल तर संध्याकाळी दिवा लावा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Sikh communities in Mumbai, Pune and Nanded gather at their gurdwaras for kirtan, nagar kirtan processions and langar; Nanded is home to Takht Sachkhand Sri Hazur Sahib, a major Sikh centre. Punjab and across India: gurdwaras hold a 48-hour Akhand Path (continuous reading of the Guru Granth Sahib) ending before the day, early-morning Prabhat Pheris, and a Nagar Kirtan procession led by the Panj Pyare with the Guru Granth Sahib on a palki. Pakistan: pilgrims visit Nankana Sahib, the Guru's birthplace.",
+    "hi": { "text": "महाराष्ट्र: मुंबई, पुणे और नांदेड़ के सिख समुदाय गुरुद्वारों में कीर्तन, नगर कीर्तन और लंगर के लिए एकत्र होते हैं; नांदेड़ में तख़्त सचखंड श्री हज़ूर साहिब है, जो एक प्रमुख सिख केंद्र है। पंजाब और पूरे भारत में: गुरुद्वारों में पर्व से पहले 48 घंटे का अखंड पाठ (गुरु ग्रंथ साहिब का निरंतर पाठ), सुबह की प्रभात फेरियाँ और पंज प्यारों की अगुवाई में पालकी में गुरु ग्रंथ साहिब के साथ नगर कीर्तन निकलता है। पाकिस्तान: श्रद्धालु गुरु की जन्मभूमि ननकाना साहिब जाते हैं।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: मुंबई, पुणे आणि नांदेडमधील शीख समाज गुरुद्वारांमध्ये कीर्तन, नगर कीर्तन मिरवणुका आणि लंगरसाठी एकत्र येतो; नांदेडमध्ये तख्त सचखंड श्री हजूर साहिब आहे, जे एक प्रमुख शीख केंद्र आहे. पंजाब आणि संपूर्ण भारतात: गुरुद्वारांमध्ये पर्वाआधी ४८ तासांचा अखंड पाठ (गुरू ग्रंथ साहिबाचे अखंड वाचन), पहाटेच्या प्रभात फेऱ्या आणि पंज प्यारेंच्या नेतृत्वाखाली पालखीत गुरू ग्रंथ साहिबासह नगर कीर्तन निघते. पाकिस्तान: भाविक गुरूंचे जन्मस्थान ननकाना साहिब येथे जातात.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Langar is simple vegetarian food, usually dal, vegetables, roti or rice, and kheer, served to everyone seated together. Karah parshad, made of wheat flour, ghee and sugar, is shared after prayers.",
+    "hi": { "text": "लंगर सादा शाकाहारी भोजन होता है, आमतौर पर दाल, सब्ज़ी, रोटी या चावल और खीर, जो सबको साथ बैठाकर परोसा जाता है। गेहूँ के आटे, घी और चीनी से बना कड़ाह प्रसाद प्रार्थना के बाद बाँटा जाता है।", "reviewed": false },
+    "mr": { "text": "लंगर म्हणजे साधे शाकाहारी जेवण, सहसा डाळ, भाजी, पोळी किंवा भात आणि खीर, जे सर्वांना एकत्र बसवून वाढले जाते. गव्हाचे पीठ, तूप आणि साखर यांपासून बनलेला कडा प्रसाद प्रार्थनेनंतर वाटला जातो.", "reviewed": false }
+  },
+  "note": {
+    "en": "Visitors of any faith are welcome at a gurdwara. Cover your head, remove your shoes, and do not bring tobacco or alcohol. Dates follow the lunar calendar, and some Sikh bodies use a different calendar, so check with your gurdwara.",
+    "hi": { "text": "किसी भी धर्म के आगंतुकों का गुरुद्वारे में स्वागत है। सिर ढकें, जूते उतारें और तंबाकू या शराब साथ न लाएँ। तिथियाँ चंद्र पंचांग पर चलती हैं और कुछ सिख संस्थाएँ अलग कैलेंडर अपनाती हैं, इसलिए अपने गुरुद्वारे से पूछ लें।", "reviewed": false },
+    "mr": { "text": "कोणत्याही धर्माच्या अभ्यागतांचे गुरुद्वारात स्वागत आहे. डोके झाका, चपला काढा आणि तंबाखू किंवा दारू सोबत आणू नका. तारखा चांद्र पंचांगानुसार असतात आणि काही शीख संस्था वेगळे कॅलेंडर वापरतात, म्हणून आपल्या गुरुद्वाराकडे चौकशी करा.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Guru Nanak Gurpurab, Wikipedia", "url": "https://en.wikipedia.org/wiki/Guru_Nanak_Gurpurab" },
+    { "label": "Vaisakhi and Sikh practice, Wikipedia (langar, Panj Pyare, karah parshad)", "url": "https://en.wikipedia.org/wiki/Vaisakhi" }
+  ]
+}

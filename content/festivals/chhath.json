@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "chhath",
+  "traditions": ["hindu"],
+  "months": [10, 11],
+  "observances": [],
+  "name": { "en": "Chhath Puja", "hi": { "text": "छठ पूजा", "reviewed": false }, "mr": { "text": "छठ पूजा", "reviewed": false } },
+  "tagline": {
+    "en": "Four days of gratitude to the Sun at the water's edge",
+    "hi": { "text": "जल के किनारे सूर्य के प्रति कृतज्ञता के चार दिन", "reviewed": false },
+    "mr": { "text": "पाण्याच्या काठी सूर्याप्रती कृतज्ञतेचे चार दिवस", "reviewed": false }
+  },
+  "story": {
+    "en": "Chhath honours Surya, the Sun, and Chhathi Maiya, a goddess often identified with Usha, the dawn, or with Shashthi. Tradition links it to several stories: in the Ramayana, Sita is said to have kept the rite after the return to Ayodhya; in the Mahabharata, Kunti is remembered for worshipping the Sun and Draupadi for observing the rite for the Pandavas. These are traditions told in different regions rather than one fixed account, and the people who keep Chhath most strongly are of Bihar, eastern Uttar Pradesh and Jharkhand.",
+    "hi": { "text": "छठ सूर्य देव और छठी मैया को समर्पित है, जिन्हें अक्सर उषा (प्रभात) या षष्ठी से जोड़ा जाता है। परंपरा इसे कई कथाओं से जोड़ती है: रामायण में सीता ने अयोध्या लौटने के बाद यह व्रत किया, ऐसा कहा जाता है; महाभारत में कुंती को सूर्य उपासना के लिए और द्रौपदी को पांडवों के लिए यह व्रत रखने के लिए स्मरण किया जाता है। ये अलग-अलग क्षेत्रों में सुनाई जाने वाली परंपराएँ हैं, कोई एक निश्चित वृत्तांत नहीं, और छठ को सबसे अधिक बिहार, पूर्वी उत्तर प्रदेश और झारखंड के लोग मनाते हैं।", "reviewed": false },
+    "mr": { "text": "छठ हे सूर्यदेव आणि छठी मैया यांना समर्पित आहे, ज्यांना अनेकदा उषा (प्रभात) किंवा षष्ठीशी जोडले जाते. परंपरा याला अनेक कथांशी जोडते: रामायणात सीतेने अयोध्येला परतल्यावर हे व्रत केले, असे सांगितले जाते; महाभारतात कुंतीचे सूर्योपासनेसाठी आणि द्रौपदीचे पांडवांसाठी हे व्रत करण्यासाठी स्मरण केले जाते. या वेगवेगळ्या प्रदेशांत सांगितल्या जाणाऱ्या परंपरा आहेत, एकच निश्चित वृत्तांत नाही, आणि छठ सर्वाधिक बिहार, पूर्व उत्तर प्रदेश आणि झारखंडमधील लोक साजरा करतात.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From regional tradition, the Vedic worship of Surya and Usha, and popular tellings linked to the Ramayana and Mahabharata; no single scriptural source is agreed.",
+    "hi": { "text": "क्षेत्रीय परंपरा, सूर्य और उषा की वैदिक उपासना, और रामायण व महाभारत से जुड़ी लोकप्रिय कथाओं से; कोई एक शास्त्रीय स्रोत सर्वमान्य नहीं है।", "reviewed": false },
+    "mr": { "text": "प्रादेशिक परंपरा, सूर्य आणि उषेची वैदिक उपासना, आणि रामायण व महाभारताशी जोडलेल्या लोकप्रिय कथांतून; एकच शास्त्रीय स्रोत सर्वमान्य नाही.", "reviewed": false }
+  },
+  "why": {
+    "en": "Chhath is a festival of gratitude to the Sun as the source of light and life, held at a river, pond or home tank on the sixth day after Diwali. It stresses simplicity and cleanliness: no priest is needed, the offerings are home-made, and the community gathers at the water to offer arghya at sunset and sunrise.",
+    "hi": { "text": "छठ प्रकाश और जीवन के स्रोत सूर्य के प्रति कृतज्ञता का पर्व है, जो दीपावली के बाद छठे दिन नदी, तालाब या घर के कुंड के किनारे मनाया जाता है। इसमें सादगी और स्वच्छता पर ज़ोर है: पुरोहित की आवश्यकता नहीं, प्रसाद घर पर बनता है, और समुदाय जल के किनारे सूर्यास्त और सूर्योदय पर अर्घ्य देने जुटता है।", "reviewed": false },
+    "mr": { "text": "छठ हा प्रकाश आणि जीवनाचा स्रोत असलेल्या सूर्याप्रती कृतज्ञतेचा सण आहे, जो दिवाळीनंतर सहाव्या दिवशी नदी, तलाव किंवा घरातील कुंडाच्या काठी साजरा होतो. यात साधेपणा आणि स्वच्छतेवर भर आहे: पुरोहिताची गरज नाही, प्रसाद घरी बनतो, आणि समाज पाण्याच्या काठी सूर्यास्त आणि सूर्योदयाला अर्घ्य देण्यासाठी जमतो.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Day 1, Nahay Khay: clean the home and kitchen, bathe, and eat one simple vegetarian meal, often lauki (bottle gourd) with rice and dal, cooked without onion or garlic.",
+      "hi": { "text": "पहला दिन, नहाय-खाय: घर और रसोई साफ़ करें, स्नान करें और एक सादा शाकाहारी भोजन करें, अक्सर लौकी, चावल और दाल, बिना प्याज़-लहसुन के।", "reviewed": false },
+      "mr": { "text": "पहिला दिवस, नहाय-खाय: घर आणि स्वयंपाकघर स्वच्छ करा, स्नान करा आणि एक साधे शाकाहारी जेवण घ्या, अनेकदा दुधी भोपळा, भात आणि वरण, कांदा-लसणाशिवाय.", "reviewed": false }
+    },
+    {
+      "en": "Day 2, Kharna: keep a fast through the day without water if your family does so, and in the evening eat kheer made with jaggery and rotis, then share the prasad.",
+      "hi": { "text": "दूसरा दिन, खरना: यदि आपके परिवार की रीति हो तो दिन भर बिना जल के उपवास रखें, और शाम को गुड़ की खीर और रोटी खाएँ, फिर प्रसाद बाँटें।", "reviewed": false },
+      "mr": { "text": "दुसरा दिवस, खरना: कुटुंबाची प्रथा असल्यास दिवसभर पाण्याशिवाय उपवास ठेवा, आणि संध्याकाळी गुळाची खीर आणि पोळी खा, मग प्रसाद वाटा.", "reviewed": false }
+    },
+    {
+      "en": "Day 3, Sandhya Arghya: prepare thekua and fruit in a bamboo soop or basket, go to the water and offer arghya to the setting Sun, with folk songs for Chhathi Maiya.",
+      "hi": { "text": "तीसरा दिन, संध्या अर्घ्य: बाँस के सूप या डलिया में ठेकुआ और फल सजाएँ, जल के किनारे जाकर अस्त होते सूर्य को अर्घ्य दें, और छठी मैया के लोकगीत गाएँ।", "reviewed": false },
+      "mr": { "text": "तिसरा दिवस, संध्या अर्घ्य: बांबूच्या सूप किंवा टोपलीत ठेकुआ आणि फळे सजवा, पाण्याच्या काठी जाऊन मावळत्या सूर्याला अर्घ्य द्या, आणि छठी मैयाची लोकगीते गा.", "reviewed": false }
+    },
+    {
+      "en": "Day 4, Usha Arghya: return to the water before dawn, offer arghya to the rising Sun, and then break the fast with prasad and water.",
+      "hi": { "text": "चौथा दिन, उषा अर्घ्य: भोर से पहले जल के किनारे लौटें, उगते सूर्य को अर्घ्य दें, और फिर प्रसाद और जल से व्रत खोलें।", "reviewed": false },
+      "mr": { "text": "चौथा दिवस, उषा अर्घ्य: पहाटेपूर्वी पाण्याच्या काठी परत जा, उगवत्या सूर्याला अर्घ्य द्या, आणि मग प्रसाद आणि पाण्याने उपवास सोडा.", "reviewed": false }
+    },
+    {
+      "en": "Take care at the water: keep children close, avoid deep or fast-flowing places, and leave the ghat clean.",
+      "hi": { "text": "जल के पास सावधानी रखें: बच्चों को पास रखें, गहरी या तेज़ धारा वाली जगहों से बचें और घाट को साफ़ छोड़ें।", "reviewed": false },
+      "mr": { "text": "पाण्याजवळ काळजी घ्या: मुलांना जवळ ठेवा, खोल किंवा जोरदार प्रवाहाच्या जागा टाळा आणि घाट स्वच्छ ठेवा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Bihar, Jharkhand and eastern Uttar Pradesh: the home of Chhath, with whole neighbourhoods cleaning ghats and families walking together carrying soops. Maharashtra: celebrated mostly by North Indian and Purvanchali communities in Mumbai, Pune and Thane, at lakes, creeks and sea beaches such as Juhu, with civic arrangements in some places; many Maharashtrian neighbours join in or help. Delhi: gatherings on the Yamuna and at artificial ponds. Nepal (Terai): also widely kept.",
+    "hi": { "text": "बिहार, झारखंड और पूर्वी उत्तर प्रदेश: छठ का मुख्य क्षेत्र, जहाँ पूरे मोहल्ले घाट साफ़ करते हैं और परिवार सूप लेकर साथ चलते हैं। महाराष्ट्र: मुख्यतः मुंबई, पुणे और ठाणे में उत्तर भारतीय और पूर्वांचली समुदाय इसे झीलों, खाड़ियों और जुहू जैसे समुद्र तटों पर मनाते हैं, कुछ जगह नागरिक व्यवस्थाओं के साथ; कई मराठी पड़ोसी भी शामिल होते हैं या सहयोग करते हैं। दिल्ली: यमुना किनारे और कृत्रिम तालाबों पर सभाएँ। नेपाल (तराई): वहाँ भी व्यापक रूप से मनाया जाता है।", "reviewed": false },
+    "mr": { "text": "बिहार, झारखंड आणि पूर्व उत्तर प्रदेश: छठचा मुख्य प्रदेश, जिथे संपूर्ण वस्त्या घाट स्वच्छ करतात आणि कुटुंबे सूप घेऊन एकत्र चालतात. महाराष्ट्र: प्रामुख्याने मुंबई, पुणे आणि ठाणे येथे उत्तर भारतीय आणि पूर्वांचली समाज तलाव, खाड्या आणि जुहूसारख्या समुद्रकिनाऱ्यांवर साजरा करतात, काही ठिकाणी नागरी व्यवस्थेसह; अनेक मराठी शेजारी सहभागी होतात किंवा मदत करतात. दिल्ली: यमुनेच्या काठी आणि कृत्रिम तलावांवर मेळावे. नेपाळ (तराई): तिथेही मोठ्या प्रमाणात साजरा होतो.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Thekua (wheat and jaggery sweet), kheer with jaggery (rasiao), kasar (rice-flour laddoo), seasonal fruit such as bananas, sugarcane and coconut, and lauki-bhat on the first day. Food is cooked fresh in a clean kitchen, often over a clay or wood stove, and without onion or garlic.",
+    "hi": { "text": "ठेकुआ (गेहूँ और गुड़ की मिठाई), गुड़ की खीर (रसिया), कसार (चावल के आटे का लड्डू), केला, गन्ना और नारियल जैसे मौसमी फल, और पहले दिन लौकी-भात। भोजन साफ़ रसोई में ताज़ा, अक्सर मिट्टी या लकड़ी के चूल्हे पर, और बिना प्याज़-लहसुन के बनता है।", "reviewed": false },
+    "mr": { "text": "ठेकुआ (गहू आणि गुळाची मिठाई), गुळाची खीर (रसिआव), कसार (तांदळाच्या पिठाचा लाडू), केळी, ऊस आणि नारळ यांसारखी हंगामी फळे, आणि पहिल्या दिवशी दुधी-भात. जेवण स्वच्छ स्वयंपाकघरात ताजे, अनेकदा मातीच्या किंवा लाकडाच्या चुलीवर, आणि कांदा-लसणाशिवाय बनते.", "reviewed": false }
+  },
+  "note": {
+    "en": "Chhath fasts are long, and some keep them without water; they are a personal vow, not a requirement. Anyone who is unwell, pregnant, elderly or on medication should speak to a doctor and may keep a lighter fast. Many Chhath communities also welcome neighbours to share prasad and help clean the ghat, and keeping rivers and ponds free from waste is part of the spirit of the festival.",
+    "hi": { "text": "छठ के उपवास लंबे होते हैं, और कुछ लोग बिना पानी के रखते हैं; यह व्यक्तिगत संकल्प है, अनिवार्यता नहीं। अस्वस्थ, गर्भवती, वृद्ध या दवा लेने वाले व्यक्ति अपने डॉक्टर से बात करें और हल्का उपवास रख सकते हैं। कई छठ समुदाय पड़ोसियों को प्रसाद बाँटने और घाट की सफ़ाई में शामिल होने के लिए भी आमंत्रित करते हैं, और नदियों व तालाबों को कचरे से मुक्त रखना पर्व की भावना का हिस्सा है।", "reviewed": false },
+    "mr": { "text": "छठचे उपवास दीर्घ असतात, आणि काही जण ते पाण्याशिवाय करतात; हा वैयक्तिक संकल्प आहे, सक्ती नाही. आजारी, गर्भवती, वृद्ध किंवा औषधे घेणाऱ्यांनी डॉक्टरांशी बोलावे आणि हलका उपवास करता येतो. अनेक छठ समाज शेजाऱ्यांना प्रसाद वाटण्यासाठी आणि घाट स्वच्छ करण्यासाठीही बोलावतात, आणि नद्या व तलाव कचऱ्यापासून मुक्त ठेवणे हा सणाच्या भावनेचा भाग आहे.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Chhath, Wikipedia", "url": "https://en.wikipedia.org/wiki/Chhath" },
+    { "label": "Chhath Puja: Origin of the Festival, Sahapedia", "url": "https://www.sahapedia.org/chhath-puja-origin-of-the-festival-and-the-story-of-devasena" }
+  ]
+}

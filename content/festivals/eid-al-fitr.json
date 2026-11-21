@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "eid-al-fitr",
+  "traditions": ["islamic"],
+  "months": [3],
+  "observances": ["obs.2027.eid-al-fitr", "obs.2027.ramadan-begins"],
+  "name": { "en": "Eid al-Fitr (Ramzan Eid)", "hi": { "text": "ईद-उल-फ़ित्र (रमज़ान ईद)", "reviewed": false }, "mr": { "text": "ईद-उल-फित्र (रमजान ईद)", "reviewed": false } },
+  "tagline": {
+    "en": "The festival that closes the month of Ramadan, with prayer, charity and shared joy",
+    "hi": { "text": "रमज़ान के महीने के समापन का पर्व, नमाज़, दान और साझा ख़ुशी के साथ", "reviewed": false },
+    "mr": { "text": "रमजान महिन्याच्या समाप्तीचा सण, नमाज, दान आणि सामायिक आनंदासह", "reviewed": false }
+  },
+  "story": {
+    "en": "Muslims believe the Quran began to be revealed to the Prophet Muhammad (peace be upon him) in the month of Ramadan, and they fast from dawn to sunset through the month, pray more and give to those in need. Eid al-Fitr, held on the first of Shawwal, the next month, marks the end of the fast. It begins when the new crescent moon is sighted, or after 30 days of fasting if the moon cannot be seen. It is a day of gratitude to God for the strength to complete Ramadan, and of joy shared with family, neighbours and the poor.",
+    "hi": { "text": "मुसलमान मानते हैं कि पैग़म्बर मुहम्मद (सल्ल.) पर क़ुरान का अवतरण रमज़ान के महीने में शुरू हुआ, और वे पूरे महीने भोर से सूर्यास्त तक रोज़ा रखते हैं, अधिक इबादत करते हैं और ज़रूरतमंदों को देते हैं। अगले महीने शव्वाल की पहली तारीख़ को पड़ने वाली ईद-उल-फ़ित्र रोज़ों के समापन का पर्व है। यह नए चाँद के दिखने पर शुरू होती है, या चाँद न दिखे तो 30 रोज़ों के बाद। यह अल्लाह के प्रति कृतज्ञता का दिन है कि उसने रमज़ान पूरा करने की शक्ति दी, और परिवार, पड़ोसियों व ग़रीबों के साथ ख़ुशी बाँटने का दिन है।", "reviewed": false },
+    "mr": { "text": "मुस्लिम मानतात की पैगंबर मुहम्मद (स.) यांच्यावर कुरआनचे अवतरण रमजान महिन्यात सुरू झाले, आणि ते महिनाभर पहाटेपासून सूर्यास्तापर्यंत रोजा ठेवतात, अधिक इबादत करतात आणि गरजूंना देतात. पुढच्या महिन्याच्या, शव्वालच्या, पहिल्या दिवशी येणारी ईद-उल-फित्र रोजांच्या समाप्तीचा सण आहे. नवा चंद्र दिसल्यावर तो सुरू होतो, किंवा चंद्र न दिसल्यास ३० रोजांनंतर. हा अल्लाहप्रती कृतज्ञतेचा दिवस आहे की त्याने रमजान पूर्ण करण्याची शक्ती दिली, आणि कुटुंब, शेजारी व गरिबांसोबत आनंद वाटण्याचा दिवस आहे.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Islamic tradition: the Quran and the Sunnah (the practice of the Prophet).",
+    "hi": { "text": "इस्लामी परंपरा से: क़ुरान और सुन्नत (पैग़म्बर की रीति)।", "reviewed": false },
+    "mr": { "text": "इस्लामी परंपरेतून: कुरआन आणि सुन्नत (पैगंबरांची रीत).", "reviewed": false }
+  },
+  "why": {
+    "en": "Eid al-Fitr is a day of thanks, forgiveness, charity and community. The obligatory charity, zakat al-fitr, is paid before the Eid prayer so that those in need can also celebrate.",
+    "hi": { "text": "ईद-उल-फ़ित्र शुक्र, क्षमा, दान और समुदाय का दिन है। अनिवार्य दान ज़कात-उल-फ़ित्र ईद की नमाज़ से पहले दिया जाता है ताकि ज़रूरतमंद भी ख़ुशी मना सकें।", "reviewed": false },
+    "mr": { "text": "ईद-उल-फित्र हा शुक्र, क्षमा, दान आणि समाजाचा दिवस आहे. अनिवार्य दान जकात-उल-फित्र ईदच्या नमाजापूर्वी दिले जाते जेणेकरून गरजूही आनंद साजरा करू शकतील.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "On the evening before (Chaand Raat), look for the new moon as your community does, and begin saying the takbir.",
+      "hi": { "text": "पिछली शाम (चाँद रात) अपने समुदाय की रीति के अनुसार नया चाँद देखें और तकबीर पढ़ना शुरू करें।", "reviewed": false },
+      "mr": { "text": "आदल्या संध्याकाळी (चांद रात) आपल्या समाजाच्या रीतीनुसार नवा चंद्र पाहा आणि तकबीर म्हणायला सुरुवात करा.", "reviewed": false }
+    },
+    {
+      "en": "Pay zakat al-fitr for each member of the household before the Eid prayer, to those in need.",
+      "hi": { "text": "ईद की नमाज़ से पहले घर के हर सदस्य की ओर से ज़रूरतमंदों को ज़कात-उल-फ़ित्र अदा करें।", "reviewed": false },
+      "mr": { "text": "ईदच्या नमाजापूर्वी घरातील प्रत्येक सदस्याच्या वतीने गरजूंना जकात-उल-फित्र द्या.", "reviewed": false }
+    },
+    {
+      "en": "On Eid morning, bathe, wear your best or new clothes, and many eat a few dates before heading to the Eidgah or mosque for the congregational Eid prayer and sermon.",
+      "hi": { "text": "ईद की सुबह स्नान करें, अच्छे या नए कपड़े पहनें, और कई लोग कुछ खजूर खाकर ईदगाह या मस्जिद में सामूहिक ईद की नमाज़ और ख़ुतबे के लिए जाते हैं।", "reviewed": false },
+      "mr": { "text": "ईदच्या सकाळी स्नान करा, चांगले किंवा नवे कपडे घाला, आणि अनेक लोक काही खजूर खाऊन ईदगाह किंवा मशिदीत सामूहिक ईद नमाज आणि खुतब्यासाठी जातात.", "reviewed": false }
+    },
+    {
+      "en": "Greet others with Eid Mubarak and embrace, ask forgiveness for any hurt, and visit relatives, neighbours and the elderly.",
+      "hi": { "text": "ईद मुबारक कहकर सबसे गले मिलें, किसी भी दुख के लिए क्षमा माँगें, और रिश्तेदारों, पड़ोसियों व बुज़ुर्गों से मिलने जाएँ।", "reviewed": false },
+      "mr": { "text": "ईद मुबारक म्हणून सर्वांना मिठी मारा, कोणत्याही दुखावल्याबद्दल क्षमा मागा, आणि नातेवाईक, शेजारी व वडीलधाऱ्यांना भेटायला जा.", "reviewed": false }
+    },
+    {
+      "en": "Share a festive meal and sweets, invite neighbours of every faith, and give Eidi (a small gift) to children.",
+      "hi": { "text": "त्योहार का भोजन और मिठाई साझा करें, हर धर्म के पड़ोसियों को बुलाएँ, और बच्चों को ईदी (छोटा उपहार) दें।", "reviewed": false },
+      "mr": { "text": "सणाचे जेवण आणि मिठाई वाटून घ्या, सर्व धर्मांच्या शेजाऱ्यांना बोलवा, आणि मुलांना ईदी (छोटी भेट) द्या.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: in Mumbai, Chaand Raat markets stay open late around Mohammed Ali Road and Bhendi Bazaar, and large Eid prayers are held at Eidgahs and mosques across Mumbai, Pune, Aurangabad and Malegaon; sheer khurma is a common sweet. North India: sewaiyan and sheer khurma, Eidi for children, and fairs in some towns. Hyderabad: sheer khurma and biryani. Kerala: congregational prayers and family feasts. In India the date often follows local moon sightings and may differ from other countries by a day.",
+    "hi": { "text": "महाराष्ट्र: मुंबई में चाँद रात पर मोहम्मद अली रोड और भिंडी बाज़ार के आसपास बाज़ार देर रात तक खुले रहते हैं, और मुंबई, पुणे, औरंगाबाद और मालेगाँव में ईदगाहों व मस्जिदों में बड़ी नमाज़ें होती हैं; शीर खुरमा आम मिठाई है। उत्तर भारत: सेवइयाँ और शीर खुरमा, बच्चों के लिए ईदी, और कुछ कस्बों में मेले। हैदराबाद: शीर खुरमा और बिरयानी। केरल: सामूहिक नमाज़ और पारिवारिक भोज। भारत में तिथि प्रायः स्थानीय चाँद दिखने पर निर्भर होती है और अन्य देशों से एक दिन अलग हो सकती है।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: मुंबईत चांद रातीला मोहम्मद अली रोड आणि भेंडी बाजार परिसरात बाजार उशिरापर्यंत उघडे असतात, आणि मुंबई, पुणे, औरंगाबाद व मालेगाव येथे ईदगाह आणि मशिदींमध्ये मोठ्या नमाज होतात; शीर खुर्मा ही सामान्य मिठाई आहे. उत्तर भारत: शेवया आणि शीर खुर्मा, मुलांसाठी ईदी, आणि काही शहरांत जत्रा. हैदराबाद: शीर खुर्मा आणि बिर्याणी. केरळ: सामूहिक नमाज आणि कौटुंबिक भोजन. भारतात तारीख सहसा स्थानिक चंद्रदर्शनावर अवलंबून असते आणि इतर देशांपेक्षा एका दिवसाने वेगळी असू शकते.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Dates are often the first food of the day. Sweets are central, which is why Eid is also called the Sweet Eid: sheer khurma (vermicelli, milk and dried fruit), sewaiyan, and many regional sweets, followed by a family meal such as biryani. All food should be halal. Choose what suits your family.",
+    "hi": { "text": "दिन का पहला भोजन अक्सर खजूर होता है। मिठाई केंद्र में रहती है, इसीलिए ईद को मीठी ईद भी कहते हैं: शीर खुरमा (सेवइयाँ, दूध और मेवे), सेवइयाँ और कई क्षेत्रीय मिठाइयाँ, और फिर बिरयानी जैसा पारिवारिक भोजन। सारा भोजन हलाल होना चाहिए। वही चुनें जो आपके परिवार के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "दिवसाचे पहिले अन्न अनेकदा खजूर असते. मिठाई केंद्रस्थानी असते, म्हणूनच ईदला गोड ईद असेही म्हणतात: शीर खुर्मा (शेवया, दूध आणि सुकामेवा), शेवया आणि अनेक प्रादेशिक मिठाया, आणि मग बिर्याणीसारखे कौटुंबिक जेवण. सर्व अन्न हलाल असावे. आपल्या कुटुंबाला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Eid depends on the sighting of the moon, so the exact day is confirmed late and can differ by one day between communities and countries. Sunni, Shia and other Muslim communities have their own customs, such as the number of takbirs in the Eid prayer. Neighbours of other faiths can greet with Eid Mubarak and are often warmly invited to share the meal.",
+    "hi": { "text": "ईद चाँद दिखने पर निर्भर है, इसलिए सटीक दिन देर से तय होता है और समुदायों व देशों में एक दिन का अंतर हो सकता है। सुन्नी, शिया और अन्य मुस्लिम समुदायों की अपनी रीतियाँ हैं, जैसे ईद की नमाज़ में तकबीरों की संख्या। अन्य धर्मों के पड़ोसी ईद मुबारक कह सकते हैं और अक्सर भोजन में साथ बुलाए जाते हैं।", "reviewed": false },
+    "mr": { "text": "ईद चंद्रदर्शनावर अवलंबून आहे, म्हणून नेमका दिवस उशिरा ठरतो आणि समाज व देशांमध्ये एका दिवसाचा फरक असू शकतो. सुन्नी, शिया आणि इतर मुस्लिम समाजांच्या स्वतःच्या प्रथा आहेत, जसे ईदच्या नमाजातील तकबीरांची संख्या. इतर धर्मांचे शेजारी ईद मुबारक म्हणू शकतात आणि त्यांना अनेकदा जेवणासाठी प्रेमाने बोलावले जाते.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Eid al-Fitr, Wikipedia", "url": "https://en.wikipedia.org/wiki/Eid_al-Fitr" },
+    { "label": "Ramadan, Wikipedia", "url": "https://en.wikipedia.org/wiki/Ramadan" }
+  ]
+}

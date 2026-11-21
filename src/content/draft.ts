@@ -104,3 +104,48 @@ export function pickText(field: DraftText, locale: Locale): { text: string; lang
   }
   return { text: field.en, lang: "en" };
 }
+
+/**
+ * D-026 Wave D: the Festivals guide. One small file per festival in
+ * `content/festivals/<id>.json` (en, hi and mr together) plus `content/festivals/_ui.json`
+ * for the screen strings. Same `{ en, hi, mr }` pattern as chakras.
+ */
+export const FESTIVAL_TRADITIONS = ["hindu", "sikh", "jain", "buddhist", "christian", "islamic", "parsi"] as const;
+
+export const festivalSchema = z.object({
+  $schema: z.literal(CONTENT_SCHEMA_ID),
+  namespace: z.literal("festival"),
+  version: z.string().min(1),
+  status: z.string().min(1),
+  id: z.string().regex(/^[a-z0-9-]+$/),
+  traditions: z.array(z.enum(FESTIVAL_TRADITIONS)).min(1),
+  /** Gregorian months (1-12) in which the festival usually falls; dates vary by calendar. */
+  months: z.array(z.number().int().min(1).max(12)).min(1),
+  /** Ids in data/observances.json (may be empty or hidden). */
+  observances: z.array(z.string()),
+  name: localizedText,
+  tagline: localizedText,
+  /** Where the story comes from: text or tradition. */
+  story: localizedText,
+  storySource: localizedText,
+  why: localizedText,
+  steps: z.array(localizedText).min(5),
+  regional: localizedText,
+  foods: localizedText,
+  note: localizedText,
+  sources: z.array(sourceLink).min(2),
+});
+export type FestivalFile = z.infer<typeof festivalSchema>;
+
+export const festivalsUiSchema = z.object({
+  $schema: z.literal(CONTENT_SCHEMA_ID),
+  namespace: z.literal("festivals-ui"),
+  version: z.string().min(1),
+  status: z.string().min(1),
+  ui: z.record(z.string(), localizedText),
+});
+
+export interface FestivalsFile {
+  ui: Record<string, LocalizedText>;
+  festivals: FestivalFile[];
+}

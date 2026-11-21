@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "pongal",
+  "traditions": ["hindu"],
+  "months": [1],
+  "observances": ["obs.2027.pongal"],
+  "name": { "en": "Pongal", "hi": { "text": "पोंगल", "reviewed": false }, "mr": { "text": "पोंगल", "reviewed": false } },
+  "tagline": {
+    "en": "The Tamil harvest festival of thanks to the Sun, the land and cattle",
+    "hi": { "text": "सूर्य, धरती और पशुओं के प्रति आभार का तमिल फ़सल पर्व", "reviewed": false },
+    "mr": { "text": "सूर्य, भूमी आणि गुरांप्रती आभाराचा तमिळ पीक सण", "reviewed": false }
+  },
+  "story": {
+    "en": "Pongal is a harvest festival of Tamil Nadu held in the month of Thai, when the new rice is cooked until it boils over, with the cry of Pongalo Pongal, and offered first to Surya, the Sun. Tradition links the third day, Mattu Pongal, to cattle, and tells of Shiva sending his bull Basava to earth with a message for people to eat well daily and bathe once a month, which the bull mixed up. Another tradition ties Bhogi, the first day, to Indra, the rain god, who is thanked for the rains. Harvest festivals in Tamil lands are old, and Tamil culture has marked a thanksgiving at this time for many centuries.",
+    "hi": { "text": "पोंगल तमिलनाडु का फ़सल पर्व है, जो थाई माह में मनाया जाता है, जब नए चावल को उबाल आने तक पकाया जाता है, \"पोंगलो पोंगल\" की पुकार के साथ, और पहले सूर्य को अर्पित किया जाता है। परंपरा तीसरे दिन, मट्टू पोंगल, को पशुओं से जोड़ती है, और कहती है कि शिव ने अपने बैल बसव को धरती पर संदेश के साथ भेजा कि लोग रोज़ अच्छा खाएँ और महीने में एक बार स्नान करें, जिसे बैल ने उलट दिया। एक अन्य परंपरा पहले दिन भोगी को वर्षा के देवता इंद्र से जोड़ती है, जिन्हें वर्षा के लिए धन्यवाद दिया जाता है। तमिल भूमि में फ़सल उत्सव पुराने हैं, और तमिल संस्कृति में इस समय कृतज्ञता का पर्व कई सदियों से मनाया जाता रहा है।", "reviewed": false },
+    "mr": { "text": "पोंगल हा तमिळनाडूचा पीक सण आहे, जो थाई महिन्यात साजरा होतो, जेव्हा नवीन तांदूळ उकळून भांड्याबाहेर उतू जाईपर्यंत शिजवला जातो, \"पोंगलो पोंगल\" अशा हाकेसह, आणि प्रथम सूर्याला अर्पण केला जातो. परंपरा तिसऱ्या दिवसाला, मट्टू पोंगलला, गुरांशी जोडते, आणि सांगते की शिवाने आपला बैल बसव पृथ्वीवर निरोप देऊन पाठवला की लोकांनी रोज चांगले खावे आणि महिन्यातून एकदा स्नान करावे, जो बैलाने उलटा सांगितला. दुसरी परंपरा पहिल्या दिवसाला, भोगीला, पावसाच्या देवता इंद्राशी जोडते, ज्याचे पावसासाठी आभार मानले जातात. तमिळ भूमीत पीक उत्सव जुने आहेत, आणि तमिळ संस्कृतीत या काळात कृतज्ञतेचा सण अनेक शतके साजरा होत आला आहे.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Tamil folk and Puranic tradition (the Basava story and Indra and Bhogi); Pongal itself is a regional harvest custom, not tied to a single text.",
+    "hi": { "text": "तमिल लोक और पौराणिक परंपरा से (बसव कथा, इंद्र और भोगी); पोंगल स्वयं एक क्षेत्रीय फ़सल रीति है, किसी एक ग्रंथ से बंधी नहीं।", "reviewed": false },
+    "mr": { "text": "तमिळ लोक आणि पौराणिक परंपरेतून (बसव कथा, इंद्र आणि भोगी); पोंगल स्वतः एक प्रादेशिक पीक प्रथा आहे, एका ग्रंथाशी बांधलेली नाही.", "reviewed": false }
+  },
+  "why": {
+    "en": "Pongal is a thanksgiving for the harvest: to the Sun for light, to the earth and farmers for the crop, and to cattle for their work. It is a festival of fresh beginnings, family, and sharing, and it falls near Makar Sankranti, as the Sun begins its northward journey.",
+    "hi": { "text": "पोंगल फ़सल का धन्यवाद पर्व है: सूर्य को प्रकाश के लिए, धरती और किसानों को उपज के लिए, और पशुओं को उनके श्रम के लिए। यह नई शुरुआत, परिवार और बाँटने का पर्व है, और मकर संक्रांति के आसपास आता है, जब सूर्य उत्तर की ओर यात्रा शुरू करता है।", "reviewed": false },
+    "mr": { "text": "पोंगल हा पिकाचा कृतज्ञता सण आहे: सूर्याला प्रकाशासाठी, भूमी आणि शेतकऱ्यांना पिकासाठी, आणि गुरांना त्यांच्या श्रमासाठी. हा नव्या सुरुवातीचा, कुटुंबाचा आणि वाटून घेण्याचा सण आहे, आणि मकर संक्रांतीच्या सुमारास येतो, जेव्हा सूर्य उत्तरेकडे प्रवास सुरू करतो.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Day 1, Bhogi: clear out old and unused things from the home, and draw a kolam at the doorway.",
+      "hi": { "text": "पहला दिन, भोगी: घर से पुरानी और बेकार चीज़ें हटाएँ और द्वार पर कोलम बनाएँ।", "reviewed": false },
+      "mr": { "text": "पहिला दिवस, भोगी: घरातील जुन्या आणि निरुपयोगी वस्तू काढून टाका आणि दारात कोलम काढा.", "reviewed": false }
+    },
+    {
+      "en": "Day 2, Thai Pongal: in the morning, boil new rice with milk and jaggery in a new pot, ideally outdoors in the sun, and when it boils over, call out Pongalo Pongal.",
+      "hi": { "text": "दूसरा दिन, थाई पोंगल: सुबह नए बर्तन में नए चावल को दूध और गुड़ के साथ पकाएँ, संभव हो तो बाहर धूप में, और उबाल आने पर \"पोंगलो पोंगल\" पुकारें।", "reviewed": false },
+      "mr": { "text": "दुसरा दिवस, थाई पोंगल: सकाळी नवीन भांड्यात नवीन तांदूळ दूध आणि गुळासह शिजवा, शक्य असल्यास बाहेर उन्हात, आणि उतू जाताना \"पोंगलो पोंगल\" अशी हाक द्या.", "reviewed": false }
+    },
+    {
+      "en": "Offer the first portion to Surya along with sugarcane, banana and turmeric plant, then share it with the family.",
+      "hi": { "text": "पहला भाग गन्ने, केले और हल्दी के पौधे के साथ सूर्य को अर्पित करें, फिर परिवार में बाँटें।", "reviewed": false },
+      "mr": { "text": "पहिला भाग ऊस, केळी आणि हळदीच्या रोपासह सूर्याला अर्पण करा, मग कुटुंबात वाटा.", "reviewed": false }
+    },
+    {
+      "en": "Day 3, Mattu Pongal: thank cattle, bathe and decorate them if you have them, or give fodder or support a cow shelter if you do not.",
+      "hi": { "text": "तीसरा दिन, मट्टू पोंगल: पशुओं का आभार मानें, यदि आपके पास हों तो उन्हें नहलाकर सजाएँ, अन्यथा चारा दें या गौशाला की मदद करें।", "reviewed": false },
+      "mr": { "text": "तिसरा दिवस, मट्टू पोंगल: गुरांचे आभार माना, आपल्याकडे असल्यास त्यांना आंघोळ घालून सजवा, नसल्यास चारा द्या किंवा गोशाळेला मदत करा.", "reviewed": false }
+    },
+    {
+      "en": "Day 4, Kaanum Pongal: spend the day visiting relatives, sharing food and gifts, and going out together.",
+      "hi": { "text": "चौथा दिन, कानुम पोंगल: रिश्तेदारों से मिलने, भोजन व उपहार बाँटने और साथ घूमने में दिन बिताएँ।", "reviewed": false },
+      "mr": { "text": "चौथा दिवस, कानुम पोंगल: नातेवाईकांना भेटणे, जेवण व भेटवस्तू वाटणे आणि एकत्र फिरणे यात दिवस घालवा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Tamil Nadu: the main festival of the Tamil year, with kolam, sugarcane, new clothes, jallikattu in some districts and the four days as described. Maharashtra: the same days fall around Makar Sankranti, when families exchange til-gul and say \"til gul ghya, god god bola\", and Tamil families in Mumbai and Pune also keep Pongal at home. Karnataka: Sankranti with ellu bella. Andhra Pradesh and Telangana: Bhogi and Sankranti. Sri Lanka and Malaysia: Tamil communities also celebrate Thai Pongal.",
+    "hi": { "text": "तमिलनाडु: तमिल वर्ष का मुख्य पर्व, कोलम, गन्ना, नए वस्त्र, कुछ ज़िलों में जल्लीकट्टू और ऊपर बताए चार दिनों के साथ। महाराष्ट्र: वही दिन मकर संक्रांति के आसपास पड़ते हैं, जब परिवार तिल-गुड़ का आदान-प्रदान करते हैं और \"तिळगुळ घ्या, गोड गोड बोला\" कहते हैं, और मुंबई व पुणे के तमिल परिवार भी घर पर पोंगल मनाते हैं। कर्नाटक: एल्लु बेल्ला के साथ संक्रांति। आंध्र प्रदेश और तेलंगाना: भोगी और संक्रांति। श्रीलंका और मलेशिया: तमिल समुदाय भी थाई पोंगल मनाते हैं।", "reviewed": false },
+    "mr": { "text": "तमिळनाडू: तमिळ वर्षाचा मुख्य सण, कोलम, ऊस, नवीन कपडे, काही जिल्ह्यांत जल्लीकट्टू आणि वर सांगितलेल्या चार दिवसांसह. महाराष्ट्र: तेच दिवस मकर संक्रांतीच्या सुमारास येतात, जेव्हा कुटुंबे तिळगूळ देतात आणि \"तिळगूळ घ्या, गोड गोड बोला\" म्हणतात, आणि मुंबई व पुण्यातील तमिळ कुटुंबेही घरी पोंगल साजरा करतात. कर्नाटक: एल्लु बेल्लासह संक्रांत. आंध्र प्रदेश आणि तेलंगणा: भोगी आणि संक्रांत. श्रीलंका आणि मलेशिया: तमिळ समाजही थाई पोंगल साजरा करतात.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Sweet pongal (sakkarai pongal) with rice, moong dal, jaggery, ghee and cardamom; ven pongal (savoury) with pepper and cumin; sugarcane, and the seasonal vegetable avial or kootu. Choose what suits your family and diet.",
+    "hi": { "text": "चावल, मूँग दाल, गुड़, घी और इलायची से बना मीठा पोंगल (सक्कराई पोंगल); काली मिर्च और जीरे के साथ नमकीन वेन पोंगल; गन्ना, और मौसमी सब्ज़ियों का अवियल या कूटु। वही चुनें जो आपके परिवार और आहार के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "तांदूळ, मूग डाळ, गूळ, तूप आणि वेलचीने बनवलेले गोड पोंगल (सक्करई पोंगल); मिरी आणि जिऱ्यासह तिखट वेन पोंगल; ऊस, आणि हंगामी भाज्यांचे अवियल किंवा कूटु. आपल्या कुटुंबाला आणि आहाराला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Pongal is also seen as a secular harvest festival of the Tamil people, kept by Tamils of different faiths. Some Tamil families hold Pongal on a different date from Makar Sankranti in the rest of India, so check the date for your region. Jallikattu is debated, so regard it as a regional custom that you may watch or skip as you see fit.",
+    "hi": { "text": "पोंगल को तमिल लोगों का एक धर्मनिरपेक्ष फ़सल पर्व भी माना जाता है, जिसे अलग-अलग धर्मों के तमिल मनाते हैं। कुछ तमिल परिवार पोंगल उस तिथि पर मनाते हैं जो शेष भारत की मकर संक्रांति से भिन्न हो सकती है, इसलिए अपने क्षेत्र की तिथि देखें। जल्लीकट्टू पर बहस है, इसलिए इसे एक क्षेत्रीय प्रथा मानें, जिसे आप अपनी इच्छा से देख सकते हैं या छोड़ सकते हैं।", "reviewed": false },
+    "mr": { "text": "पोंगल हा तमिळ लोकांचा धर्मनिरपेक्ष पीक सणही मानला जातो, जो वेगवेगळ्या धर्मांचे तमिळ साजरा करतात. काही तमिळ कुटुंबे उर्वरित भारतातील मकर संक्रांतीपेक्षा वेगळ्या तारखेला पोंगल साजरा करतात, म्हणून आपल्या प्रदेशाची तारीख पाहा. जल्लीकट्टूबाबत वाद आहेत, म्हणून तो एक प्रादेशिक प्रथा म्हणून पाहा, जो आपण आपल्या इच्छेनुसार पाहू किंवा टाळू शकता.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Pongal festival, Tamil Nadu Tourism", "url": "https://www.tamilnadutourism.tn.gov.in/events/pongal-festival" },
+    { "label": "Pongal, Britannica", "url": "https://britannica.com/topic/Pongal" }
+  ]
+}

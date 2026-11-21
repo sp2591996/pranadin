@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "diwali",
+  "traditions": ["hindu", "sikh", "jain"],
+  "months": [10, 11],
+  "observances": [],
+  "name": { "en": "Diwali", "hi": { "text": "दीपावली", "reviewed": false }, "mr": { "text": "दिवाळी", "reviewed": false } },
+  "tagline": {
+    "en": "The festival of lights, a five-day celebration",
+    "hi": { "text": "दीपों का पाँच दिवसीय उत्सव", "reviewed": false },
+    "mr": { "text": "दिव्यांचा पाच दिवसांचा उत्सव", "reviewed": false }
+  },
+  "story": {
+    "en": "In the Ramayana, Rama returns to Ayodhya after fourteen years in exile and the defeat of Ravana, and the people light lamps to welcome him. In many homes the same days honour Lakshmi, remembered as the goddess of prosperity, and in some regions the tale of Krishna and Narakasura is told on Naraka Chaturdashi. Sikhs remember Guru Hargobind's release from Gwalior fort, and Jains mark the day Mahavira attained nirvana.",
+    "hi": { "text": "रामायण में राम चौदह वर्ष के वनवास और रावण पर विजय के बाद अयोध्या लौटते हैं और नगरवासी दीप जलाकर उनका स्वागत करते हैं। कई घरों में इन्हीं दिनों समृद्धि की देवी माने जाने वाली लक्ष्मी का पूजन होता है, और कुछ क्षेत्रों में नरक चतुर्दशी पर कृष्ण और नरकासुर की कथा सुनाई जाती है। सिख गुरु हरगोबिंद जी की ग्वालियर किले से रिहाई को याद करते हैं और जैन इस दिन महावीर के निर्वाण का स्मरण करते हैं।", "reviewed": false },
+    "mr": { "text": "रामायणात राम चौदा वर्षांचा वनवास आणि रावणावरील विजयानंतर अयोध्येला परततात आणि नगरवासी दिवे लावून त्यांचे स्वागत करतात. अनेक घरांत याच दिवसांत समृद्धीची देवी मानल्या जाणाऱ्या लक्ष्मीचे पूजन होते, आणि काही प्रदेशांत नरक चतुर्दशीला कृष्ण आणि नरकासुराची कथा सांगितली जाते. शीख गुरू हरगोबिंद यांची ग्वाल्हेर किल्ल्यातून सुटका स्मरतात आणि जैन या दिवशी महावीरांच्या निर्वाणाचे स्मरण करतात.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Ramayana and the Puranic tradition; Sikh and Jain communities hold their own accounts.",
+    "hi": { "text": "रामायण और पौराणिक परंपरा से; सिख और जैन समुदायों की अपनी-अपनी कथाएँ हैं।", "reviewed": false },
+    "mr": { "text": "रामायण आणि पौराणिक परंपरेतून; शीख आणि जैन समाजांच्या स्वतःच्या कथा आहेत.", "reviewed": false }
+  },
+  "why": {
+    "en": "Diwali is about light over darkness, welcome, gratitude and time with family. For many it is also a season of settling accounts, cleaning the home and renewing relationships.",
+    "hi": { "text": "दीपावली अंधकार पर प्रकाश, स्वागत, कृतज्ञता और परिवार के साथ समय का पर्व है। कई लोगों के लिए यह हिसाब चुकाने, घर की सफ़ाई और रिश्तों को नया करने का समय भी है।", "reviewed": false },
+    "mr": { "text": "दिवाळी म्हणजे अंधारावर प्रकाश, स्वागत, कृतज्ञता आणि कुटुंबासोबतचा वेळ. अनेकांसाठी हा हिशोब पूर्ण करण्याचा, घर स्वच्छ करण्याचा आणि नाती नव्याने जोडण्याचा काळ आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Clean and tidy the home a few days before, and draw a rangoli at the entrance.",
+      "hi": { "text": "कुछ दिन पहले घर की सफ़ाई करें और प्रवेश द्वार पर रंगोली बनाएँ।", "reviewed": false },
+      "mr": { "text": "काही दिवस आधी घर स्वच्छ करा आणि दारात रांगोळी काढा.", "reviewed": false }
+    },
+    {
+      "en": "Take an oil bath early in the morning on the first days, as your family does.",
+      "hi": { "text": "आपके परिवार की रीति के अनुसार पहले दिनों में सुबह जल्दी तेल-स्नान करें।", "reviewed": false },
+      "mr": { "text": "आपल्या कुटुंबाच्या प्रथेनुसार पहिल्या दिवशी पहाटे अभ्यंगस्नान करा.", "reviewed": false }
+    },
+    {
+      "en": "On Lakshmi Puja evening, place a photo or image of Lakshmi, light a lamp and offer flowers and sweets.",
+      "hi": { "text": "लक्ष्मी पूजन की शाम लक्ष्मी जी का चित्र या मूर्ति रखें, दीप जलाएँ और फूल व मिठाई अर्पित करें।", "reviewed": false },
+      "mr": { "text": "लक्ष्मीपूजनाच्या संध्याकाळी लक्ष्मीची प्रतिमा किंवा मूर्ती ठेवा, दिवा लावा आणि फुले व मिठाई अर्पण करा.", "reviewed": false }
+    },
+    {
+      "en": "Light clay lamps along windows, doorways and the balcony, and say a short prayer of thanks.",
+      "hi": { "text": "खिड़कियों, दरवाज़ों और बालकनी में मिट्टी के दीये जलाएँ और कृतज्ञता की एक छोटी प्रार्थना करें।", "reviewed": false },
+      "mr": { "text": "खिडक्या, दारे आणि गॅलरीत मातीचे दिवे लावा आणि कृतज्ञतेची छोटी प्रार्थना म्हणा.", "reviewed": false }
+    },
+    {
+      "en": "Share sweets and visit or call relatives and neighbours, including those who are alone.",
+      "hi": { "text": "मिठाई बाँटें और रिश्तेदारों व पड़ोसियों से मिलें या फ़ोन करें, खासकर अकेले रहने वालों से।", "reviewed": false },
+      "mr": { "text": "मिठाई वाटा आणि नातेवाईक व शेजाऱ्यांना भेटा किंवा फोन करा, विशेषतः एकटे राहणाऱ्यांना.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Vasubaras, Dhanatrayodashi, Naraka Chaturdashi with the early abhyanga oil bath and faral (snacks), Lakshmi Puja, Padwa and Bhaubeej; forts of clay (killa) are built by children. North India: Dhanteras, Govardhan Puja and Annakut. Gujarat: new year (Bestu Varas) the day after. Bengal: Kali Puja. South India: Deepavali often falls on Naraka Chaturdashi with an early oil bath.",
+    "hi": { "text": "महाराष्ट्र: वसुबारस, धनत्रयोदशी, नरक चतुर्दशी पर सुबह का अभ्यंग-स्नान और फराळ, लक्ष्मी पूजन, पाडवा और भाऊबीज; बच्चे मिट्टी के किले बनाते हैं। उत्तर भारत: धनतेरस, गोवर्धन पूजा और अन्नकूट। गुजरात: अगले दिन नववर्ष (बेस्तु वरस)। बंगाल: काली पूजा। दक्षिण भारत: दीपावली अक्सर नरक चतुर्दशी पर सुबह के तेल-स्नान के साथ मनाई जाती है।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: वसुबारस, धनत्रयोदशी, नरक चतुर्दशीला पहाटेचे अभ्यंगस्नान आणि फराळ, लक्ष्मीपूजन, पाडवा आणि भाऊबीज; मुले मातीचे किल्ले बनवतात. उत्तर भारत: धनतेरस, गोवर्धन पूजा आणि अन्नकूट. गुजरात: दुसऱ्या दिवशी नववर्ष (बेस्तु वरस). बंगाल: काली पूजा. दक्षिण भारत: दीपावली अनेकदा नरक चतुर्दशीला पहाटेच्या तेल-स्नानासह साजरी होते.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Faral in Maharashtra: ladoo, chakli, karanji, shankarpali and chivda. Elsewhere: gulab jamun, barfi, jalebi and many regional sweets. Choose what suits your family and diet.",
+    "hi": { "text": "महाराष्ट्र का फराळ: लड्डू, चकली, करंजी, शंकरपाळी और चिवड़ा। अन्यत्र: गुलाब जामुन, बर्फ़ी, जलेबी और अनेक क्षेत्रीय मिठाइयाँ। वही चुनें जो आपके परिवार और आहार के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्रातील फराळ: लाडू, चकली, करंजी, शंकरपाळी आणि चिवडा. इतरत्र: गुलाबजाम, बर्फी, जिलेबी आणि अनेक प्रादेशिक मिठाया. आपल्या कुटुंबाला आणि आहाराला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Diwali is also marked by Sikhs (Bandi Chhor Divas) and Jains with their own meaning. Fireworks affect neighbours, animals and air, so lamps and quieter celebration are a kind choice.",
+    "hi": { "text": "सिख (बंदी छोड़ दिवस) और जैन भी दीपावली को अपने-अपने अर्थ के साथ मनाते हैं। पटाखे पड़ोसियों, पशुओं और हवा पर असर डालते हैं, इसलिए दीपों और शांत उत्सव का चुनाव एक संवेदनशील विकल्प है।", "reviewed": false },
+    "mr": { "text": "शीख (बंदी छोड दिवस) आणि जैन देखील दिवाळी आपापल्या अर्थाने साजरी करतात. फटाक्यांचा शेजाऱ्यांवर, प्राण्यांवर आणि हवेवर परिणाम होतो, म्हणून दिवे आणि शांत उत्सव हा संवेदनशील पर्याय आहे.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Diwali, Wikipedia", "url": "https://en.wikipedia.org/wiki/Diwali" },
+    { "label": "Lakshmi, Wikipedia", "url": "https://en.wikipedia.org/wiki/Lakshmi" }
+  ]
+}

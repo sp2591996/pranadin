@@ -1,0 +1,78 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "buddha-purnima",
+  "traditions": ["buddhist"],
+  "months": [4, 5],
+  "observances": [],
+  "name": { "en": "Buddha Purnima", "hi": { "text": "बुद्ध पूर्णिमा", "reviewed": false }, "mr": { "text": "बुद्ध पौर्णिमा", "reviewed": false } },
+  "tagline": {
+    "en": "The Buddha's birth, enlightenment and parinirvana, remembered on one full moon",
+    "hi": { "text": "एक ही पूर्णिमा पर बुद्ध के जन्म, बोधि और महापरिनिर्वाण का स्मरण", "reviewed": false },
+    "mr": { "text": "एकाच पौर्णिमेला बुद्धांचा जन्म, बोधी आणि महापरिनिर्वाण यांचे स्मरण", "reviewed": false }
+  },
+  "story": {
+    "en": "Buddhist tradition holds that Siddhartha Gautama was born at Lumbini, left his home to seek an end to suffering, and attained enlightenment under the Bodhi tree at Bodh Gaya. Before that, the village girl Sujata is remembered as offering him a bowl of milk rice. He gave his first teaching at Sarnath and passed into parinirvana at Kushinagar. Many Buddhists observe the full moon of Vaisakha as the day of all three events. His teaching is summed up in the Four Noble Truths and the Noble Eightfold Path, a way of ethical conduct, kindness and meditation.",
+    "hi": { "text": "बौद्ध परंपरा के अनुसार सिद्धार्थ गौतम का जन्म लुंबिनी में हुआ, उन्होंने दुःख के अंत की खोज में घर छोड़ा और बोधगया में बोधिवृक्ष के नीचे बोधि प्राप्त की। उससे पहले गाँव की कन्या सुजाता द्वारा उन्हें दूध-चावल का कटोरा अर्पित करना स्मरण किया जाता है। उन्होंने सारनाथ में पहला उपदेश दिया और कुशीनगर में महापरिनिर्वाण को प्राप्त हुए। कई बौद्ध वैशाख पूर्णिमा को इन तीनों घटनाओं का दिन मानकर मनाते हैं। उनकी शिक्षा चार आर्य सत्यों और आर्य अष्टांगिक मार्ग में समाई है, जो नैतिक आचरण, करुणा और ध्यान का मार्ग है।", "reviewed": false },
+    "mr": { "text": "बौद्ध परंपरेनुसार सिद्धार्थ गौतम यांचा जन्म लुंबिनी येथे झाला, दुःखाच्या अंताच्या शोधात त्यांनी घर सोडले आणि बोधगया येथे बोधिवृक्षाखाली बोधी प्राप्त केली. त्याआधी गावातील कन्या सुजाता हिने त्यांना दूध-भाताची वाटी अर्पण केल्याचे स्मरण केले जाते. त्यांनी सारनाथ येथे पहिला उपदेश दिला आणि कुशीनगर येथे महापरिनिर्वाण पावले. अनेक बौद्ध वैशाख पौर्णिमा हा या तिन्ही घटनांचा दिवस म्हणून साजरा करतात. त्यांची शिकवण चार आर्य सत्ये आणि आर्य अष्टांगिक मार्गात सामावलेली आहे, जो नैतिक आचरण, करुणा आणि ध्यानाचा मार्ग आहे.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Buddhist tradition: the Pali suttas and later biographies of the Buddha. Details vary between schools.",
+    "hi": { "text": "बौद्ध परंपरा से: पालि सुत्त और बुद्ध के परवर्ती जीवन-चरित। विवरण संप्रदायों में अलग-अलग हैं।", "reviewed": false },
+    "mr": { "text": "बौद्ध परंपरेतून: पाली सुत्ते आणि बुद्धांची नंतरची चरित्रे. तपशील संप्रदायांनुसार वेगळे आहेत.", "reviewed": false }
+  },
+  "why": {
+    "en": "The day is for remembering the Buddha and his teaching of compassion, mindfulness and the middle path. Observance is usually quiet: visiting a vihara, taking the precepts, meditating, and giving.",
+    "hi": { "text": "यह दिन बुद्ध और उनकी करुणा, सजगता और मध्यम मार्ग की शिक्षा को याद करने का है। पालन प्रायः शांत होता है: विहार जाना, शील ग्रहण करना, ध्यान करना और दान देना।", "reviewed": false },
+    "mr": { "text": "हा दिवस बुद्ध आणि त्यांची करुणा, सजगता आणि मध्यम मार्गाची शिकवण आठवण्याचा आहे. आचरण सहसा शांत असते: विहारात जाणे, शील ग्रहण करणे, ध्यान करणे आणि दान देणे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Wear simple, preferably white or light clothes and visit a Buddha vihara, often early in the morning.",
+      "hi": { "text": "सादे, यथासंभव सफ़ेद या हल्के रंग के वस्त्र पहनें और सुबह-सुबह किसी बुद्ध विहार जाएँ।", "reviewed": false },
+      "mr": { "text": "साधे, शक्यतो पांढरे किंवा फिकट रंगाचे कपडे घाला आणि सकाळी लवकर बुद्ध विहारात जा.", "reviewed": false }
+    },
+    {
+      "en": "At home, place a Buddha image, offer flowers, light a lamp or candle, and recite the Buddha Vandana or Tisarana and the Five Precepts.",
+      "hi": { "text": "घर पर बुद्ध की प्रतिमा रखें, फूल चढ़ाएँ, दीप या मोमबत्ती जलाएँ और बुद्ध वंदना या त्रिशरण और पंचशील का पाठ करें।", "reviewed": false },
+      "mr": { "text": "घरी बुद्धांची प्रतिमा ठेवा, फुले वाहा, दिवा किंवा मेणबत्ती लावा आणि बुद्ध वंदना किंवा त्रिशरण आणि पंचशीलाचे पठण करा.", "reviewed": false }
+    },
+    {
+      "en": "Sit in meditation for some minutes, or read a short sutta or a passage on the Four Noble Truths.",
+      "hi": { "text": "कुछ मिनट ध्यान में बैठें, या कोई छोटा सुत्त अथवा चार आर्य सत्यों पर कोई अंश पढ़ें।", "reviewed": false },
+      "mr": { "text": "काही मिनिटे ध्यानात बसा, किंवा एखादे छोटे सुत्त किंवा चार आर्य सत्यांवरील एखादा भाग वाचा.", "reviewed": false }
+    },
+    {
+      "en": "Practise dana (giving): offer food, donate books, or help someone in need. Many communities share kheer.",
+      "hi": { "text": "दान करें: भोजन दें, पुस्तकें दान करें, या किसी ज़रूरतमंद की मदद करें। कई समुदाय खीर बाँटते हैं।", "reviewed": false },
+      "mr": { "text": "दान करा: अन्न द्या, पुस्तके दान करा, किंवा एखाद्या गरजूला मदत करा. अनेक समाज खीर वाटतात.", "reviewed": false }
+    },
+    {
+      "en": "Close the day with a few minutes of quiet reflection on kindness towards every living being.",
+      "hi": { "text": "दिन का समापन हर जीव के प्रति दया पर कुछ मिनट के शांत चिंतन से करें।", "reviewed": false },
+      "mr": { "text": "दिवसाचा शेवट प्रत्येक जीवाबद्दलच्या दयेवर काही मिनिटांच्या शांत चिंतनाने करा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Buddhist communities visit Buddha viharas across Mumbai, Pune and other cities for Buddha Vandana, the Panchsheel pledge and food donation, and distribute kheer. Large gatherings are held at Deekshabhoomi in Nagpur and Chaitya Bhoomi in Mumbai, places tied to Dr B. R. Ambedkar's embrace of Buddhism in 1956. Bihar and Uttar Pradesh: pilgrims visit Bodh Gaya, Sarnath and Kushinagar. Elsewhere in Asia the day is called Vesak and is marked with lanterns, temple visits and bathing the Buddha image.",
+    "hi": { "text": "महाराष्ट्र: बौद्ध समुदाय मुंबई, पुणे और अन्य शहरों के बुद्ध विहारों में बुद्ध वंदना, पंचशील संकल्प और अन्नदान के लिए जाते हैं और खीर बाँटते हैं। नागपुर की दीक्षाभूमि और मुंबई की चैत्यभूमि पर बड़े जमावड़े होते हैं, जो 1956 में डॉ. बी. आर. आंबेडकर द्वारा बौद्ध धम्म अपनाने से जुड़े स्थल हैं। बिहार और उत्तर प्रदेश: श्रद्धालु बोधगया, सारनाथ और कुशीनगर जाते हैं। एशिया के अन्य हिस्सों में इसे वेसाक कहते हैं और लालटेन, मंदिर दर्शन और बुद्ध प्रतिमा के स्नान के साथ मनाया जाता है।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: बौद्ध समाज मुंबई, पुणे आणि इतर शहरांतील बुद्ध विहारांमध्ये बुद्ध वंदना, पंचशील संकल्प आणि अन्नदानासाठी जातो आणि खीर वाटतो. नागपूरची दीक्षाभूमी आणि मुंबईची चैत्यभूमी येथे मोठे मेळावे होतात, ही ठिकाणे १९५६ मध्ये डॉ. बी. आर. आंबेडकर यांनी बौद्ध धम्म स्वीकारल्याशी जोडलेली आहेत. बिहार आणि उत्तर प्रदेश: भाविक बोधगया, सारनाथ आणि कुशीनगर येथे जातात. आशियाच्या इतर भागांत याला वेसाक म्हणतात आणि कंदील, मंदिर दर्शन आणि बुद्ध प्रतिमेला स्नान घालून साजरा केला जातो.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Kheer (sweet milk and rice) is the best-known offering, linked to Sujata's gift to the Buddha, and is shared at viharas. Many people eat only simple vegetarian food on the day, and some keep the eight precepts. Choose what suits your family and your practice.",
+    "hi": { "text": "खीर (दूध और चावल की मिठाई) सबसे प्रसिद्ध प्रसाद है, जो सुजाता द्वारा बुद्ध को अर्पित भोजन से जुड़ी है, और विहारों में बाँटी जाती है। कई लोग इस दिन केवल सादा शाकाहारी भोजन करते हैं, और कुछ अष्टशील का पालन करते हैं। वही चुनें जो आपके परिवार और साधना के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "खीर (दूध आणि तांदळाचे गोड) हा सर्वात प्रसिद्ध प्रसाद आहे, जो सुजाताने बुद्धांना दिलेल्या अन्नाशी जोडलेला आहे, आणि विहारांमध्ये वाटला जातो. अनेक लोक या दिवशी फक्त साधे शाकाहारी जेवण घेतात, आणि काही अष्टशील पाळतात. आपल्या कुटुंबाला आणि साधनेला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Buddhists in India follow different schools and communities, including Theravada, Mahayana, Vajrayana and the Navayana (Ambedkarite) movement, each with its own emphasis. Some release animals as a merit practice, but this can harm them, so a donation or a kind act is a gentler choice.",
+    "hi": { "text": "भारत में बौद्ध अलग-अलग संप्रदायों और समुदायों का पालन करते हैं, जैसे थेरवाद, महायान, वज्रयान और नवयान (आंबेडकरवादी) धारा, और सबकी अपनी-अपनी रीति है। कुछ लोग पुण्य के रूप में पशुओं को छोड़ते हैं, पर इससे उन्हें नुकसान हो सकता है, इसलिए दान या कोई दयालु कार्य अधिक कोमल विकल्प है।", "reviewed": false },
+    "mr": { "text": "भारतातील बौद्ध वेगवेगळ्या संप्रदायांचे आणि समाजांचे पालन करतात, जसे थेरवाद, महायान, वज्रयान आणि नवयान (आंबेडकरी) धारा, आणि प्रत्येकाची स्वतःची रीत आहे. काही लोक पुण्य म्हणून प्राण्यांना सोडतात, पण त्यामुळे त्यांना इजा होऊ शकते, म्हणून दान किंवा एखादे दयाळू कृत्य हा अधिक सौम्य पर्याय आहे.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Vesak, Wikipedia", "url": "https://en.wikipedia.org/wiki/Vesak" },
+    { "label": "Gautama Buddha, Wikipedia", "url": "https://en.wikipedia.org/wiki/Gautama_Buddha" },
+    { "label": "Devotees visit vihars and distribute kheer, Free Press Journal", "url": "https://freepressjournal.in/mumbai/mumbai-devotees-visit-vihars-distribute-kheer-to-celebrate-buddha-purnima" }
+  ]
+}

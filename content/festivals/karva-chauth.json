@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "karva-chauth",
+  "traditions": ["hindu"],
+  "months": [10, 11],
+  "observances": [],
+  "name": { "en": "Karva Chauth", "hi": { "text": "करवा चौथ", "reviewed": false }, "mr": { "text": "करवा चौथ", "reviewed": false } },
+  "tagline": {
+    "en": "A day-long fast kept for a spouse, broken at moonrise",
+    "hi": { "text": "जीवनसाथी के लिए रखा जाने वाला दिन भर का व्रत, जो चंद्रोदय पर खुलता है", "reviewed": false },
+    "mr": { "text": "जोडीदारासाठी केला जाणारा दिवसभराचा उपवास, जो चंद्रोदयाला सोडला जातो", "reviewed": false }
+  },
+  "story": {
+    "en": "The best-known tale is of Veeravati, the only sister of seven brothers. During her first fast, weak with hunger, she broke it when her brothers tricked her into thinking the moon had risen, and then learned that her husband had fallen ill. In the popular telling she kept the fast again with full devotion and her husband was restored. Other tales are told in Punjab, Rajasthan and Uttar Pradesh, such as those of Karva and of Savitri, and versions differ by region.",
+    "hi": { "text": "सबसे प्रसिद्ध कथा वीरावती की है, जो सात भाइयों की इकलौती बहन थी। पहले व्रत में भूख से कमज़ोर होने पर भाइयों के छल से चाँद निकलने का भ्रम हुआ और उसने व्रत तोड़ दिया, फिर पता चला कि उसके पति अस्वस्थ हो गए हैं। प्रचलित कथा में उसने पूरी श्रद्धा से फिर व्रत रखा और पति स्वस्थ हो गए। पंजाब, राजस्थान और उत्तर प्रदेश में करवा और सावित्री जैसी अन्य कथाएँ भी सुनाई जाती हैं, और रूप क्षेत्र के अनुसार अलग हैं।", "reviewed": false },
+    "mr": { "text": "सर्वात प्रसिद्ध कथा वीरावतीची आहे, जी सात भावांची एकुलती एक बहीण होती. पहिल्या उपवासात भुकेने अशक्त झाल्यावर भावांनी चंद्र उगवल्याचा भास निर्माण करून तिला फसवले आणि तिने उपवास सोडला, मग तिला कळले की तिचा पती आजारी पडला आहे. प्रचलित कथेत तिने पूर्ण श्रद्धेने पुन्हा उपवास केला आणि पती पूर्ववत झाला. पंजाब, राजस्थान आणि उत्तर प्रदेशात करवा आणि सावित्री यांसारख्या इतर कथाही सांगितल्या जातात, आणि रूपे प्रदेशानुसार वेगळी आहेत.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From North Indian folk and vrat-katha tradition; there is no single scriptural source, and versions vary by region.",
+    "hi": { "text": "उत्तर भारत की लोक और व्रत-कथा परंपरा से; कोई एक शास्त्रीय स्रोत नहीं है, और रूप क्षेत्र के अनुसार अलग हैं।", "reviewed": false },
+    "mr": { "text": "उत्तर भारतातील लोक आणि व्रतकथा परंपरेतून; एकच शास्त्रीय स्रोत नाही, आणि रूपे प्रदेशानुसार वेगळी आहेत.", "reviewed": false }
+  },
+  "why": {
+    "en": "Karva Chauth falls on the fourth day after the full moon in Kartik (Ashwin in some calendars). Traditionally observed by married women for their husband's well-being, it is also a day of women gathering, dressing up, singing and sharing stories, and many couples now keep it together as an expression of care. Participation is a personal choice.",
+    "hi": { "text": "करवा चौथ कार्तिक (कुछ पंचांगों में आश्विन) में पूर्णिमा के बाद की चौथी तिथि को आता है। परंपरा से विवाहित महिलाएँ पति के कल्याण की कामना से इसे रखती हैं; यह महिलाओं के साथ मिलने, सजने, गाने और कथाएँ बाँटने का दिन भी है, और अब कई दंपती इसे साथ मिलकर स्नेह के भाव से रखते हैं। भाग लेना व्यक्तिगत निर्णय है।", "reviewed": false },
+    "mr": { "text": "करवा चौथ कार्तिकात (काही पंचांगांत अश्विनात) पौर्णिमेनंतरच्या चौथ्या तिथीला येतो. परंपरेने विवाहित स्त्रिया पतीच्या कल्याणाच्या इच्छेने तो करतात; हा स्त्रियांनी एकत्र येण्याचा, सजण्याचा, गाण्याचा आणि कथा वाटण्याचा दिवसही आहे, आणि आता अनेक जोडपी स्नेहभावाने तो एकत्र करतात. सहभागी होणे हा वैयक्तिक निर्णय आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Before sunrise, eat sargi, a light meal traditionally given by the mother-in-law, with fruit, dry fruit or sweets, and drink water if you need to.",
+      "hi": { "text": "सूर्योदय से पहले सरगी खाएँ, जो परंपरा से सास द्वारा दिया गया हल्का भोजन है, जिसमें फल, मेवे या मिठाई होती है; आवश्यक हो तो पानी पिएँ।", "reviewed": false },
+      "mr": { "text": "सूर्योदयापूर्वी सरगी खा, जे परंपरेने सासूने दिलेले हलके जेवण असते, ज्यात फळे, सुका मेवा किंवा मिठाई असते; गरज असल्यास पाणी प्या.", "reviewed": false }
+    },
+    {
+      "en": "Spend the day as your family does, with a fast from food and water, or a lighter fast with water or fruit if that is better for you.",
+      "hi": { "text": "दिन अपने परिवार की रीति से बिताएँ, भोजन और जल के उपवास के साथ, या यदि आपके लिए ठीक हो तो पानी या फल के साथ हल्का उपवास रखें।", "reviewed": false },
+      "mr": { "text": "दिवस आपल्या कुटुंबाच्या प्रथेनुसार घालवा, अन्न आणि पाण्याशिवाय उपवासासह, किंवा तुमच्यासाठी योग्य असल्यास पाणी किंवा फळांसह हलका उपवास करा.", "reviewed": false }
+    },
+    {
+      "en": "In the evening, gather and listen to or read the Karva Chauth katha, with a decorated karva (clay pot) and thali.",
+      "hi": { "text": "शाम को एकत्र होकर सजे हुए करवे (मिट्टी का पात्र) और थाली के साथ करवा चौथ की कथा सुनें या पढ़ें।", "reviewed": false },
+      "mr": { "text": "संध्याकाळी एकत्र येऊन सजवलेल्या करव्यासह (मातीचे भांडे) आणि ताटासह करवा चौथची कथा ऐका किंवा वाचा.", "reviewed": false }
+    },
+    {
+      "en": "When the moon rises, offer water to the moon, look at it through a sieve or lamp, then look at your spouse.",
+      "hi": { "text": "चंद्रोदय पर चंद्रमा को जल अर्पित करें, छलनी या दीप से उसे देखें, फिर अपने जीवनसाथी को देखें।", "reviewed": false },
+      "mr": { "text": "चंद्र उगवल्यावर चंद्राला पाणी अर्पण करा, चाळणीतून किंवा दिव्यातून त्याला पाहा, मग आपल्या जोडीदाराकडे पाहा.", "reviewed": false }
+    },
+    {
+      "en": "Break the fast with water and a bite from your spouse, then have a simple meal together.",
+      "hi": { "text": "जीवनसाथी के हाथ से जल और एक कौर लेकर व्रत खोलें, फिर साथ में सादा भोजन करें।", "reviewed": false },
+      "mr": { "text": "जोडीदाराच्या हातून पाणी आणि एक घास घेऊन उपवास सोडा, मग एकत्र साधे जेवण घ्या.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "North India (Punjab, Haryana, Delhi, Rajasthan, Uttar Pradesh): the main home of the festival, with sargi, henna, bridal-style dress and community singing. Maharashtra: kept mainly by North Indian families and by some families in cities; Maharashtrian tradition has its own fasts for a spouse, such as Vat Purnima, with the Savitri story. Gujarat: observed in some communities with similar rituals. The date depends on the local moonrise, so check your own city.",
+    "hi": { "text": "उत्तर भारत (पंजाब, हरियाणा, दिल्ली, राजस्थान, उत्तर प्रदेश): यहीं यह पर्व मुख्य रूप से मनाया जाता है, सरगी, मेहँदी, दुल्हन जैसे परिधान और सामूहिक गायन के साथ। महाराष्ट्र: मुख्यतः उत्तर भारतीय परिवार और शहरों के कुछ परिवार इसे रखते हैं; महाराष्ट्र की परंपरा में जीवनसाथी के लिए अपने व्रत हैं, जैसे सावित्री की कथा वाली वट पूर्णिमा। गुजरात: कुछ समुदायों में समान रीतियों के साथ। चंद्रोदय का समय स्थान पर निर्भर है, इसलिए अपने शहर का समय देखें।", "reviewed": false },
+    "mr": { "text": "उत्तर भारत (पंजाब, हरियाणा, दिल्ली, राजस्थान, उत्तर प्रदेश): हाच या सणाचा मुख्य प्रदेश, सरगी, मेंदी, वधूसारखा पोशाख आणि सामूहिक गायनासह. महाराष्ट्र: प्रामुख्याने उत्तर भारतीय कुटुंबे आणि शहरांतील काही कुटुंबे तो करतात; महाराष्ट्राच्या परंपरेत जोडीदारासाठी स्वतःचे व्रत आहेत, जसे सावित्रीची कथा सांगणारी वटपौर्णिमा. गुजरात: काही समाजांत तशाच रीतींसह. चंद्रोदयाची वेळ ठिकाणावर अवलंबून असते, म्हणून आपल्या शहराची वेळ पाहा.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Sargi: fruit, dry fruit, phirni, sweets, parathas and sevaiyan. After moonrise: a simple home meal such as dal, rice or roti and a sweet. Choose what suits your family and your own health.",
+    "hi": { "text": "सरगी: फल, मेवे, फिरनी, मिठाई, पराठे और सेवइयाँ। चंद्रोदय के बाद: दाल, चावल या रोटी और मिठाई जैसा सादा घर का भोजन। वही चुनें जो आपके परिवार और आपके स्वास्थ्य के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "सरगी: फळे, सुका मेवा, फिरनी, मिठाई, पराठे आणि शेवया. चंद्रोदयानंतर: वरण, भात किंवा पोळी आणि गोड असे साधे घरचे जेवण. आपल्या कुटुंबाला आणि आपल्या आरोग्याला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "A fast without water is not right for everyone. If you are pregnant, unwell, elderly or on medication, you may keep a lighter fast or none, and your devotion is not lessened by that. Many husbands, unmarried people and single women also join in with their own intention. Please speak to your doctor about fasting.",
+    "hi": { "text": "बिना पानी का उपवास हर किसी के लिए उचित नहीं है। यदि आप गर्भवती, अस्वस्थ, वृद्ध हैं या दवा लेती हैं तो हल्का उपवास रख सकती हैं या नहीं भी, और इससे आपकी श्रद्धा कम नहीं होती। कई पति, अविवाहित लोग और अकेली महिलाएँ भी अपने संकल्प से जुड़ते हैं। उपवास के बारे में कृपया अपने डॉक्टर से बात करें।", "reviewed": false },
+    "mr": { "text": "पाण्याशिवाय उपवास प्रत्येकासाठी योग्य नसतो. आपण गर्भवती, आजारी, वृद्ध असाल किंवा औषधे घेत असाल तर हलका उपवास करू शकता किंवा अजिबात न करताही चालेल, आणि त्यामुळे आपली श्रद्धा कमी होत नाही. अनेक पती, अविवाहित लोक आणि एकट्या स्त्रियाही आपल्या संकल्पाने सहभागी होतात. उपवासाबाबत कृपया आपल्या डॉक्टरांशी बोला.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Karva Chauth, Indian Culture (Ministry of Culture)", "url": "https://www.indianculture.gov.in/stories/karva-chauth" },
+    { "label": "Karva Chauth, Incredible India", "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/karva-chauth" }
+  ]
+}

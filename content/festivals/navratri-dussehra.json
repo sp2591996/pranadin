@@ -1,0 +1,78 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "navratri-dussehra",
+  "traditions": ["hindu"],
+  "months": [9, 10],
+  "observances": [],
+  "name": { "en": "Navratri and Dussehra", "hi": { "text": "नवरात्रि और दशहरा", "reviewed": false }, "mr": { "text": "नवरात्र आणि दसरा", "reviewed": false } },
+  "tagline": {
+    "en": "Nine nights of the Goddess and the tenth day of victory",
+    "hi": { "text": "देवी की नौ रातें और विजय का दसवाँ दिन", "reviewed": false },
+    "mr": { "text": "देवीच्या नऊ रात्री आणि विजयाचा दहावा दिवस", "reviewed": false }
+  },
+  "story": {
+    "en": "In the Devi Mahatmya, the goddess Durga takes up the gods' combined strength and defeats the buffalo demon Mahishasura after nine nights. The tenth day, Vijayadashami or Dussehra, also recalls Rama's victory over Ravana in the Ramayana, and in the Mahabharata the Pandavas take back their weapons from the shami tree.",
+    "hi": { "text": "देवी महात्म्य में देवी दुर्गा देवताओं की संयुक्त शक्ति धारण कर नौ रातों के बाद महिषासुर का वध करती हैं। दसवाँ दिन, विजयादशमी या दशहरा, रामायण में राम की रावण पर विजय का भी स्मरण कराता है, और महाभारत में पांडव शमी वृक्ष से अपने शस्त्र वापस लेते हैं।", "reviewed": false },
+    "mr": { "text": "देवी महात्म्यात देवी दुर्गा देवांची एकत्रित शक्ती धारण करून नऊ रात्रींनंतर महिषासुराचा वध करते. दहावा दिवस, विजयादशमी किंवा दसरा, रामायणातील रामाच्या रावणावरील विजयाचेही स्मरण करतो, आणि महाभारतात पांडव शमीच्या झाडावरून आपली शस्त्रे परत घेतात.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Devi Mahatmya (Markandeya Purana), the Ramayana and the Mahabharata.",
+    "hi": { "text": "देवी महात्म्य (मार्कंडेय पुराण), रामायण और महाभारत से।", "reviewed": false },
+    "mr": { "text": "देवी महात्म्य (मार्कंडेय पुराण), रामायण आणि महाभारतातून.", "reviewed": false }
+  },
+  "why": {
+    "en": "Navratri honours the Divine Feminine in many forms. Dussehra stands for the victory of right over wrong, and it is a popular day to begin new learning or work.",
+    "hi": { "text": "नवरात्रि दिव्य नारी-शक्ति के अनेक रूपों का सम्मान है। दशहरा सत्य की असत्य पर विजय का प्रतीक है और नई विद्या या काम शुरू करने का लोकप्रिय दिन है।", "reviewed": false },
+    "mr": { "text": "नवरात्र म्हणजे दिव्य स्त्रीशक्तीच्या अनेक रूपांचा सन्मान. दसरा हा सत्याच्या असत्यावरील विजयाचे प्रतीक आहे आणि नवे शिक्षण किंवा काम सुरू करण्याचा लोकप्रिय दिवस आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "On day one, set a clean kalash (pot of water with a coconut and mango leaves) and sow grain in a shallow tray (ghatasthapana).",
+      "hi": { "text": "पहले दिन स्वच्छ कलश (जल, नारियल और आम के पत्तों सहित) स्थापित करें और उथली थाली में अनाज बोएँ (घटस्थापना)।", "reviewed": false },
+      "mr": { "text": "पहिल्या दिवशी स्वच्छ कलश (पाणी, नारळ आणि आंब्याची पाने असलेला) मांडा आणि उथळ ताटात धान्य पेरा (घटस्थापना).", "reviewed": false }
+    },
+    {
+      "en": "Light a lamp each morning and evening and offer fresh flowers; some families keep an akhand (unbroken) lamp.",
+      "hi": { "text": "प्रतिदिन सुबह-शाम दीप जलाएँ और ताज़े फूल चढ़ाएँ; कुछ परिवार अखंड दीप रखते हैं।", "reviewed": false },
+      "mr": { "text": "रोज सकाळ-संध्याकाळ दिवा लावा आणि ताजी फुले वाहा; काही कुटुंबे अखंड दीप ठेवतात.", "reviewed": false }
+    },
+    {
+      "en": "Read or listen to a Devi stotra or the Devi Mahatmya, and sing the aarti.",
+      "hi": { "text": "देवी स्तोत्र या देवी महात्म्य का पाठ करें या सुनें और आरती गाएँ।", "reviewed": false },
+      "mr": { "text": "देवी स्तोत्र किंवा देवी महात्म्याचे पठण करा किंवा ऐका आणि आरती म्हणा.", "reviewed": false }
+    },
+    {
+      "en": "Fast or eat simple vegetarian food if your family does; join garba or bhajan evenings if you wish.",
+      "hi": { "text": "परिवार की रीति हो तो उपवास करें या सादा शाकाहारी भोजन लें; चाहें तो गरबा या भजन संध्या में शामिल हों।", "reviewed": false },
+      "mr": { "text": "कुटुंबाची प्रथा असल्यास उपवास करा किंवा साधे शाकाहारी अन्न घ्या; इच्छा असल्यास गरबा किंवा भजन संध्येत सहभागी व्हा.", "reviewed": false }
+    },
+    {
+      "en": "On Dussehra, exchange apta leaves (sona) with elders and friends, and begin something new such as a book or a skill.",
+      "hi": { "text": "दशहरे पर बड़ों और मित्रों के साथ आपटे के पत्ते (सोना) बाँटें और कुछ नया आरंभ करें, जैसे कोई पुस्तक या कला।", "reviewed": false },
+      "mr": { "text": "दसऱ्याला वडीलधारी आणि मित्रांसोबत आपट्याची पाने (सोने) वाटा आणि काहीतरी नवे सुरू करा, जसे एखादे पुस्तक किंवा कला.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: ghatasthapana, a garland of flowers on the ghat daily, Khandenavami with worship of tools, and on Dussehra the exchange of apta leaves, saying 'sona ghya, sonyasarkha raha'. Gujarat: garba and dandiya. Bengal: Durga Puja. Mysuru: royal Dasara procession. North India: Ramlila and Ravan dahan. South: Golu display of dolls.",
+    "hi": { "text": "महाराष्ट्र: घटस्थापना, रोज घट पर फूलों की माला, शस्त्र-पूजन वाली खंडेनवमी, और दशहरे पर आपटे के पत्तों का आदान-प्रदान, 'सोनं घ्या, सोन्यासारखे राहा' कहते हुए। गुजरात: गरबा और डांडिया। बंगाल: दुर्गा पूजा। मैसूर: शाही दशहरा जुलूस। उत्तर भारत: रामलीला और रावण दहन। दक्षिण: गोलू में गुड़ियों की सजावट।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: घटस्थापना, रोज घटावर फुलांची माळ, अवजारांच्या पूजेची खंडेनवमी आणि दसऱ्याला आपट्याच्या पानांची देवाणघेवाण, 'सोनं घ्या, सोन्यासारखे राहा' म्हणत. गुजरात: गरबा आणि दांडिया. बंगाल: दुर्गापूजा. म्हैसूर: राजेशाही दसरा मिरवणूक. उत्तर भारत: रामलीला आणि रावणदहन. दक्षिण: बाहुल्यांची गोलू मांडणी.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Fasting foods such as sabudana khichdi, vrat-friendly potato dishes, kuttu or singhara flour puris and fruit. On Dussehra, shrikhand-puri or puran poli in Maharashtra, and jalebi-fafda in Gujarat.",
+    "hi": { "text": "उपवास के व्यंजन जैसे साबूदाना खिचड़ी, व्रत के आलू के पकवान, कुट्टू या सिंघाड़े के आटे की पूरी और फल। दशहरे पर महाराष्ट्र में श्रीखंड-पूरी या पूरनपोळी और गुजरात में जलेबी-फाफड़ा।", "reviewed": false },
+    "mr": { "text": "उपवासाचे पदार्थ जसे साबुदाणा खिचडी, उपवासाचे बटाट्याचे पदार्थ, कुट्टू किंवा शिंगाड्याच्या पिठाच्या पुऱ्या आणि फळे. दसऱ्याला महाराष्ट्रात श्रीखंड-पुरी किंवा पुरणपोळी आणि गुजरातमध्ये जलेबी-फाफडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Fasting is a personal choice and should follow your own needs. People with medical conditions, pregnancy, or children should follow their own doctor's guidance. Garba grounds can be crowded, so go with company and plan your way home.",
+    "hi": { "text": "उपवास व्यक्तिगत चुनाव है और अपनी आवश्यकता के अनुसार होना चाहिए। चिकित्सा स्थिति, गर्भावस्था वाले लोग या बच्चे अपने डॉक्टर की सलाह मानें। गरबा स्थल पर भीड़ हो सकती है, इसलिए साथ जाएँ और लौटने की योजना बनाएँ।", "reviewed": false },
+    "mr": { "text": "उपवास ही वैयक्तिक निवड आहे आणि आपल्या गरजेनुसार असावी. वैद्यकीय स्थिती, गर्भावस्था असलेल्यांनी किंवा मुलांनी आपल्या डॉक्टरांचा सल्ला पाळावा. गरब्याच्या ठिकाणी गर्दी असू शकते, म्हणून सोबत जा आणि परतण्याचे नियोजन करा.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Navaratri, Wikipedia", "url": "https://en.wikipedia.org/wiki/Navaratri" },
+    { "label": "Dussehra, Wikipedia", "url": "https://en.wikipedia.org/wiki/Dussehra" },
+    { "label": "Durga Puja in Kolkata, UNESCO", "url": "https://ich.unesco.org/en/RL/durga-puja-in-kolkata-02118" }
+  ]
+}

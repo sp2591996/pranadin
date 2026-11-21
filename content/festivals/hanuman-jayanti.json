@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "hanuman-jayanti",
+  "traditions": ["hindu"],
+  "months": [3, 4],
+  "observances": [],
+  "name": { "en": "Hanuman Jayanti", "hi": { "text": "हनुमान जयंती", "reviewed": false }, "mr": { "text": "हनुमान जयंती", "reviewed": false } },
+  "tagline": {
+    "en": "The birth anniversary of Hanuman, remembered for devotion and service",
+    "hi": { "text": "हनुमान जी का जन्मोत्सव, भक्ति और सेवा का स्मरण", "reviewed": false },
+    "mr": { "text": "हनुमानाचा जन्मोत्सव, भक्ती आणि सेवेचे स्मरण", "reviewed": false }
+  },
+  "story": {
+    "en": "Hanuman is remembered as the devoted companion of Rama in the Ramayana. Tradition describes him as the son of Anjana and Kesari, also called a son of the wind god Vayu, who crossed the sea to Lanka to find Sita and carried Rama's message. Many tellings say he was born at sunrise on the full-moon day of Chaitra, and that as a child he leapt towards the rising sun mistaking it for a fruit. Accounts of his birth differ between the Valmiki Ramayana, the Puranas and regional retellings.",
+    "hi": { "text": "रामायण में हनुमान जी को राम के समर्पित सहचर के रूप में स्मरण किया जाता है। परंपरा के अनुसार वे अंजना और केसरी के पुत्र हैं, जिन्हें पवन देव का पुत्र भी कहा जाता है; उन्होंने समुद्र पार कर लंका में सीता की खोज की और राम का संदेश पहुँचाया। कई कथाओं में कहा गया है कि उनका जन्म चैत्र पूर्णिमा को सूर्योदय के समय हुआ, और बचपन में उन्होंने उगते सूर्य को फल समझकर उसकी ओर छलाँग लगाई थी। जन्म की कथा वाल्मीकि रामायण, पुराणों और क्षेत्रीय कथाओं में अलग-अलग मिलती है।", "reviewed": false },
+    "mr": { "text": "रामायणात हनुमानाचे स्मरण रामाचा निष्ठावान सहचर म्हणून केले जाते. परंपरेनुसार ते अंजना आणि केसरी यांचे पुत्र आहेत, वायुदेवाचा पुत्र असेही त्यांना म्हटले जाते; त्यांनी समुद्र ओलांडून लंकेत सीतेचा शोध घेतला आणि रामाचा संदेश पोहोचवला. अनेक कथांनुसार त्यांचा जन्म चैत्र पौर्णिमेला सूर्योदयाच्या वेळी झाला, आणि लहानपणी उगवत्या सूर्याला फळ समजून त्यांनी त्याकडे झेप घेतली. जन्माच्या कथा वाल्मीकी रामायण, पुराणे आणि प्रादेशिक कथांमध्ये वेगवेगळ्या आढळतात.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Ramayana (Valmiki Ramayana, including the Sundara Kanda) and the Puranic tradition; birth accounts vary by text and region.",
+    "hi": { "text": "रामायण (वाल्मीकि रामायण, सुंदरकांड सहित) और पौराणिक परंपरा से; जन्म की कथाएँ ग्रंथ और क्षेत्र के अनुसार भिन्न हैं।", "reviewed": false },
+    "mr": { "text": "रामायण (वाल्मीकी रामायण, सुंदरकांडासह) आणि पौराणिक परंपरेतून; जन्मकथा ग्रंथ आणि प्रदेशानुसार वेगळ्या आहेत.", "reviewed": false }
+  },
+  "why": {
+    "en": "For devotees the day recalls loyalty, humility, courage and selfless service. Many families use it to recite the Hanuman Chalisa or Sundara Kanda, visit a Maruti temple and remember the value of steady devotion.",
+    "hi": { "text": "भक्तों के लिए यह दिन निष्ठा, विनम्रता, साहस और निःस्वार्थ सेवा की याद दिलाता है। कई परिवार इस दिन हनुमान चालीसा या सुंदरकांड का पाठ करते हैं, हनुमान मंदिर जाते हैं और निरंतर भक्ति के महत्त्व को याद करते हैं।", "reviewed": false },
+    "mr": { "text": "भक्तांसाठी हा दिवस निष्ठा, नम्रता, धैर्य आणि निःस्वार्थ सेवेची आठवण करून देतो. अनेक कुटुंबे या दिवशी हनुमान चालीसा किंवा सुंदरकांडाचे पठण करतात, मारुती मंदिरात जातात आणि सातत्यपूर्ण भक्तीचे महत्त्व स्मरतात.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Wake early, bathe and tidy the place where you keep an image of Hanuman or Rama.",
+      "hi": { "text": "सुबह जल्दी उठें, स्नान करें और जहाँ हनुमान जी या राम जी का चित्र रखा हो उस स्थान को साफ़ करें।", "reviewed": false },
+      "mr": { "text": "पहाटे उठून स्नान करा आणि जिथे हनुमानाची किंवा रामाची प्रतिमा ठेवली आहे ती जागा स्वच्छ करा.", "reviewed": false }
+    },
+    {
+      "en": "Light a lamp and offer flowers, and sindoor mixed with oil if your family does so.",
+      "hi": { "text": "दीप जलाएँ और फूल चढ़ाएँ; यदि आपके परिवार में रीति हो तो तेल में मिला सिंदूर अर्पित करें।", "reviewed": false },
+      "mr": { "text": "दिवा लावा आणि फुले वाहा; आपल्या कुटुंबात प्रथा असल्यास तेलात मिसळलेला शेंदूर अर्पण करा.", "reviewed": false }
+    },
+    {
+      "en": "Recite the Hanuman Chalisa, or read a passage from the Sundara Kanda, at your own pace.",
+      "hi": { "text": "अपनी गति से हनुमान चालीसा का पाठ करें या सुंदरकांड का कोई अंश पढ़ें।", "reviewed": false },
+      "mr": { "text": "आपल्या गतीने हनुमान चालीसा म्हणा किंवा सुंदरकांडातील एखादा भाग वाचा.", "reviewed": false }
+    },
+    {
+      "en": "Offer a simple prasad such as jaggery, chana or fruit, and share it with family and neighbours.",
+      "hi": { "text": "गुड़, चना या फल जैसा सादा प्रसाद अर्पित करें और परिवार व पड़ोसियों में बाँटें।", "reviewed": false },
+      "mr": { "text": "गूळ, हरभरे किंवा फळ असा साधा प्रसाद अर्पण करा आणि कुटुंब व शेजाऱ्यांमध्ये वाटा.", "reviewed": false }
+    },
+    {
+      "en": "If you can, visit a nearby Maruti or Hanuman temple, or do one small act of service for someone that day.",
+      "hi": { "text": "यदि संभव हो तो पास के हनुमान मंदिर जाएँ, या उस दिन किसी की एक छोटी-सी सेवा करें।", "reviewed": false },
+      "mr": { "text": "शक्य असल्यास जवळच्या मारुती मंदिरात जा, किंवा त्या दिवशी कोणाची तरी एक छोटी सेवा करा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Maruti temples hold kirtan and a birth celebration at sunrise on Chaitra Purnima, and devotees offer a garland of rui leaves and flowers with sindoor. North India: processions, Sundara Kanda path and bhandara meals on Chaitra Purnima. Andhra Pradesh and Telangana: a longer observance running into the dark fortnight of Vaishakha. Tamil Nadu and Kerala: observed on Margashirsha Amavasya, often called Hanumath Jayanthi. Karnataka: dates vary by community, so check your local calendar.",
+    "hi": { "text": "महाराष्ट्र: चैत्र पूर्णिमा को सूर्योदय के समय मारुति मंदिरों में कीर्तन और जन्मोत्सव होता है, और भक्त रुई के पत्तों व फूलों की माला तथा सिंदूर अर्पित करते हैं। उत्तर भारत: चैत्र पूर्णिमा पर शोभायात्राएँ, सुंदरकांड पाठ और भंडारे। आंध्र प्रदेश और तेलंगाना: वैशाख के कृष्ण पक्ष तक चलने वाला लंबा अनुष्ठान। तमिलनाडु और केरल: मार्गशीर्ष अमावस्या को, जिसे हनुमत जयंती कहा जाता है। कर्नाटक: तिथि समुदाय के अनुसार बदलती है, इसलिए अपना स्थानीय पंचांग देखें।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: चैत्र पौर्णिमेला सूर्योदयाच्या वेळी मारुती मंदिरांत कीर्तन आणि जन्मोत्सव होतो, आणि भक्त रुईच्या पानांचा व फुलांचा हार आणि शेंदूर अर्पण करतात. उत्तर भारत: चैत्र पौर्णिमेला मिरवणुका, सुंदरकांड पाठ आणि भंडारे. आंध्र प्रदेश आणि तेलंगणा: वैशाखाच्या कृष्ण पक्षापर्यंत चालणारा दीर्घ उत्सव. तमिळनाडू आणि केरळ: मार्गशीर्ष अमावस्येला, ज्याला हनुमत जयंती म्हणतात. कर्नाटक: तारीख समाजानुसार बदलते, म्हणून आपले स्थानिक पंचांग पाहा.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Simple prasad: jaggery, roasted chana, fruit, laddoo, or kheer. Many families keep to light, vegetarian food that day. Choose what suits your family and diet.",
+    "hi": { "text": "सादा प्रसाद: गुड़, भुना चना, फल, लड्डू या खीर। कई परिवार उस दिन हल्का शाकाहारी भोजन करते हैं। वही चुनें जो आपके परिवार और आहार के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "साधा प्रसाद: गूळ, भाजलेले हरभरे, फळ, लाडू किंवा खीर. अनेक कुटुंबे त्या दिवशी हलके शाकाहारी जेवण घेतात. आपल्या कुटुंबाला आणि आहाराला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "The date differs across India because regions follow different calendars, so follow your own community. Some families do not offer certain items or keep their own rules for women's participation; honour your family's custom and the temple's rules.",
+    "hi": { "text": "भारत में क्षेत्रों के पंचांग अलग होने से तिथि अलग-अलग होती है, इसलिए अपने समुदाय की रीति मानें। कुछ परिवारों में कुछ वस्तुएँ अर्पित नहीं की जातीं या महिलाओं की भागीदारी के अपने नियम होते हैं; अपने परिवार की रीति और मंदिर के नियमों का आदर करें।", "reviewed": false },
+    "mr": { "text": "भारतात प्रदेशांचे पंचांग वेगळे असल्याने तारीख वेगवेगळी असते, म्हणून आपल्या समाजाची रीत पाळा. काही कुटुंबांत काही वस्तू अर्पण केल्या जात नाहीत किंवा महिलांच्या सहभागाबाबत स्वतःचे नियम असतात; आपल्या कुटुंबाच्या प्रथेचा आणि मंदिराच्या नियमांचा आदर करा.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Hanuman Jayanti, Wikipedia", "url": "https://en.wikipedia.org/wiki/Hanuman_Jayanti" },
+    { "label": "Hanuman Jayanti, Drik Panchang", "url": "https://www.drikpanchang.com/festivals/hanuman-jayanti/info/hanuman-jayanti.html" }
+  ]
+}

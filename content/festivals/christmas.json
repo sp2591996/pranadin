@@ -1,0 +1,78 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "christmas",
+  "traditions": ["christian"],
+  "months": [12],
+  "observances": ["obs.2026.christmas", "obs.2026.advent-sunday"],
+  "name": { "en": "Christmas", "hi": { "text": "क्रिसमस (बड़ा दिन)", "reviewed": false }, "mr": { "text": "नाताळ (ख्रिसमस)", "reviewed": false } },
+  "tagline": {
+    "en": "The birth of Jesus Christ, celebrated with worship, family and giving",
+    "hi": { "text": "यीशु मसीह का जन्मोत्सव, आराधना, परिवार और उपहारों के साथ", "reviewed": false },
+    "mr": { "text": "येशू ख्रिस्ताचा जन्मोत्सव, प्रार्थना, कुटुंब आणि भेटवस्तूंसह", "reviewed": false }
+  },
+  "story": {
+    "en": "Christians celebrate the birth of Jesus in Bethlehem. In the Gospel of Luke, Mary and Joseph travel from Nazareth to Bethlehem for a census, and Jesus is laid in a manger because there was no room at the inn. Angels bring the news to shepherds in the fields, who go to worship him. In the Gospel of Matthew, wise men (magi) from the East follow a star and bring gifts of gold, frankincense and myrrh. For Christians this is the Incarnation, God coming among people as a child. The Western churches have kept the feast on 25 December since at least the fourth century, and some Eastern churches keep it on 7 January.",
+    "hi": { "text": "ईसाई यीशु के बैतलहम में जन्म का उत्सव मनाते हैं। लूका के सुसमाचार में मरियम और यूसुफ़ जनगणना के लिए नासरत से बैतलहम जाते हैं, और सराय में जगह न मिलने से यीशु को चरनी में लिटाया जाता है। स्वर्गदूत खेतों में चरवाहों को यह समाचार देते हैं, जो उनकी आराधना करने जाते हैं। मत्ती के सुसमाचार में पूर्व से आए ज्ञानी (मागी) एक तारे के पीछे चलते हैं और सोना, लोबान और गंधरस की भेंट लाते हैं। ईसाइयों के लिए यह देहधारण है, यानी परमेश्वर का एक शिशु के रूप में मनुष्यों के बीच आना। पश्चिमी कलीसियाएँ कम से कम चौथी सदी से यह पर्व 25 दिसंबर को मनाती हैं, और कुछ पूर्वी कलीसियाएँ 7 जनवरी को।", "reviewed": false },
+    "mr": { "text": "ख्रिस्ती लोक येशूच्या बेथलेहेममधील जन्माचा उत्सव साजरा करतात. लूकच्या शुभवर्तमानात मरिया आणि योसेफ जनगणनेसाठी नासरेथहून बेथलेहेमला जातात, आणि उतारशाळेत जागा नसल्याने येशूला गव्हाणीत ठेवले जाते. देवदूत शेतातील मेंढपाळांना ही बातमी देतात, आणि ते त्याची आराधना करायला जातात. मत्तयच्या शुभवर्तमानात पूर्वेकडून आलेले ज्ञानी (मागी) एका ताऱ्यामागे जातात आणि सोने, ऊद आणि गंधरस यांची भेट आणतात. ख्रिस्ती लोकांसाठी हा देहधारणेचा सण आहे, म्हणजे देवाचे बालकाच्या रूपात माणसांमध्ये येणे. पाश्चिमात्य चर्च किमान चौथ्या शतकापासून हा सण २५ डिसेंबरला पाळतात, आणि काही पूर्वेकडील चर्च ७ जानेवारीला.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Gospels of Luke (chapters 1 to 2) and Matthew (chapters 1 to 2) in the New Testament.",
+    "hi": { "text": "नए नियम में लूका (अध्याय 1 से 2) और मत्ती (अध्याय 1 से 2) के सुसमाचारों से।", "reviewed": false },
+    "mr": { "text": "नव्या करारातील लूक (अध्याय १ ते २) आणि मत्तय (अध्याय १ ते २) यांच्या शुभवर्तमानांतून.", "reviewed": false }
+  },
+  "why": {
+    "en": "Christmas celebrates God's love shown in the birth of Jesus, and is a season of worship, family, joy and generosity. Many churches begin with Advent, four weeks of quiet preparation before the day.",
+    "hi": { "text": "क्रिसमस यीशु के जन्म में प्रकट हुए परमेश्वर के प्रेम का उत्सव है, और आराधना, परिवार, आनंद और उदारता का समय है। कई कलीसियाएँ आगमन काल से शुरू करती हैं, जो इस दिन से पहले चार सप्ताह की शांत तैयारी है।", "reviewed": false },
+    "mr": { "text": "नाताळ हा येशूच्या जन्मातून प्रकट झालेल्या देवाच्या प्रेमाचा उत्सव आहे, आणि प्रार्थना, कुटुंब, आनंद आणि उदारतेचा काळ आहे. अनेक चर्च आगमन काळापासून सुरुवात करतात, जो या दिवसाआधीचा चार आठवड्यांचा शांत तयारीचा काळ आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "In Advent, light one candle of the Advent wreath each Sunday and read a short Gospel passage together.",
+      "hi": { "text": "आगमन काल में हर रविवार आगमन पुष्पमाला की एक मोमबत्ती जलाएँ और साथ मिलकर सुसमाचार का एक छोटा अंश पढ़ें।", "reviewed": false },
+      "mr": { "text": "आगमन काळात प्रत्येक रविवारी आगमन पुष्पहारातील एक मेणबत्ती लावा आणि एकत्र शुभवर्तमानाचा एक छोटा भाग वाचा.", "reviewed": false }
+    },
+    {
+      "en": "Set up a crib (nativity scene) and hang a star outside, remembering the star of Bethlehem. Decorate a tree if your family does.",
+      "hi": { "text": "चरनी (जन्म-दृश्य) सजाएँ और बैतलहम के तारे की याद में बाहर एक तारा टाँगें। आपके परिवार की रीति हो तो पेड़ सजाएँ।", "reviewed": false },
+      "mr": { "text": "गोठा (जन्मदृश्य) मांडा आणि बेथलेहेमच्या ताऱ्याच्या स्मरणार्थ बाहेर एक तारा लावा. आपल्या कुटुंबाची प्रथा असेल तर झाड सजवा.", "reviewed": false }
+    },
+    {
+      "en": "Attend Midnight Mass or the Christmas Day service at your church, or read the Gospel account of the birth at home.",
+      "hi": { "text": "अपनी कलीसिया में मध्यरात्रि मिस्सा या क्रिसमस के दिन की आराधना में जाएँ, या घर पर जन्म का सुसमाचार वृत्तांत पढ़ें।", "reviewed": false },
+      "mr": { "text": "आपल्या चर्चमधील मध्यरात्रीच्या मिस्साला किंवा नाताळच्या दिवसाच्या उपासनेला जा, किंवा घरी जन्माचे शुभवर्तमानातील वर्णन वाचा.", "reviewed": false }
+    },
+    {
+      "en": "Gather for the Christmas meal, say a prayer of thanks and sing carols together.",
+      "hi": { "text": "क्रिसमस भोज के लिए एकत्र हों, धन्यवाद की प्रार्थना करें और साथ मिलकर कैरोल गाएँ।", "reviewed": false },
+      "mr": { "text": "नाताळच्या भोजनासाठी एकत्र या, आभाराची प्रार्थना म्हणा आणि एकत्र कॅरोल गा.", "reviewed": false }
+    },
+    {
+      "en": "Share sweets and cakes with neighbours of every faith, and give to someone in need, in the spirit of the season.",
+      "hi": { "text": "हर धर्म के पड़ोसियों के साथ मिठाई और केक बाँटें, और इस पर्व की भावना में किसी ज़रूरतमंद को कुछ दें।", "reviewed": false },
+      "mr": { "text": "सर्व धर्मांच्या शेजाऱ्यांसोबत मिठाई आणि केक वाटा, आणि या सणाच्या भावनेने एखाद्या गरजूला काही द्या.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: the Bombay East Indian Catholic villages of Vasai, Bandra, Gorai and Uttan, and Catholic communities in Mumbai and Pune, keep Christmas with Midnight Mass, carol singing, cribs and stars, and the kuswar platter of sweets shared with neighbours. Goa: Midnight Mass, a large kuswar and community cribs. Kerala: church services and a family feast. North and North-West India: Christmas is also called Bada Din (the Big Day). Across India, many non-Christians join in the celebrations as a shared public festival, and Christian schools hold Christmas programmes.",
+    "hi": { "text": "महाराष्ट्र: वसई, बांद्रा, गोराई और उत्तन के बॉम्बे ईस्ट इंडियन कैथोलिक गाँव, तथा मुंबई और पुणे के कैथोलिक समुदाय, मध्यरात्रि मिस्सा, कैरोल गायन, चरनी और तारों के साथ क्रिसमस मनाते हैं, और पड़ोसियों के साथ कुसवार की मिठाइयों की थाली बाँटते हैं। गोवा: मध्यरात्रि मिस्सा, बड़ा कुसवार और सामुदायिक चरनियाँ। केरल: कलीसिया की आराधना और पारिवारिक भोज। उत्तर और उत्तर-पश्चिम भारत: क्रिसमस को बड़ा दिन भी कहते हैं। पूरे भारत में कई गैर-ईसाई भी इसे साझा सार्वजनिक त्योहार के रूप में मनाते हैं, और ईसाई स्कूल क्रिसमस कार्यक्रम करते हैं।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: वसई, वांद्रे, गोराई आणि उत्तन येथील बॉम्बे ईस्ट इंडियन कॅथोलिक गावे, तसेच मुंबई आणि पुण्यातील कॅथोलिक समाज, मध्यरात्रीचा मिस्सा, कॅरोल गायन, गोठे आणि तारे यांसह नाताळ साजरा करतात, आणि शेजाऱ्यांसोबत कुसवारच्या मिठायांचे ताट वाटतात. गोवा: मध्यरात्रीचा मिस्सा, मोठा कुसवार आणि सामुदायिक गोठे. केरळ: चर्चमधील उपासना आणि कौटुंबिक भोजन. उत्तर आणि वायव्य भारत: नाताळाला बडा दिन असेही म्हणतात. संपूर्ण भारतात अनेक गैर-ख्रिस्ती लोकही हा एक सामायिक सार्वजनिक सण म्हणून साजरा करतात, आणि ख्रिस्ती शाळा नाताळाचे कार्यक्रम करतात.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Kuswar (or koswad), the Christmas sweets platter of the Konkan coast, includes nevri or neureos (pastry puffs filled with coconut, nuts and sesame), karanji, milk cream, thali sweets and date rolls; Goan kuswar also has bebinca. Plum cake is common across India. Choose what suits your family.",
+    "hi": { "text": "कुसवार (या कोस्वाद) कोंकण तट की क्रिसमस मिठाइयों की थाली है, जिसमें नेवरी या न्योरियाँ (नारियल, मेवे और तिल भरी पेस्ट्री), करंजी, मिल्क क्रीम, थाली मिठाइयाँ और खजूर रोल शामिल हैं; गोवा के कुसवार में बेबिंका भी होता है। प्लम केक पूरे भारत में आम है। वही चुनें जो आपके परिवार के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "कुसवार (किंवा कोस्वाद) म्हणजे कोकण किनाऱ्यावरील नाताळच्या मिठायांचे ताट, ज्यात नेवऱ्या (नारळ, सुकामेवा आणि तीळ भरलेल्या पेस्ट्री), करंजी, मिल्क क्रीम, थाळी मिठाया आणि खजूर रोल असतात; गोव्याच्या कुसवारात बेबिंकाही असते. प्लम केक संपूर्ण भारतात सामान्य आहे. आपल्या कुटुंबाला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Christmas is a holy day for Christians and a public holiday in India. Catholic, Protestant, Orthodox and Syrian Christian churches each have their own customs and some use a different date. Friends of other faiths are welcome to join in the sharing; a warm greeting of Merry Christmas is always kind.",
+    "hi": { "text": "क्रिसमस ईसाइयों के लिए पवित्र दिन है और भारत में सार्वजनिक अवकाश है। कैथोलिक, प्रोटेस्टेंट, ऑर्थोडॉक्स और सीरियन ईसाई कलीसियाओं की अपनी-अपनी रीतियाँ हैं और कुछ अलग तिथि अपनाती हैं। अन्य धर्मों के मित्र बाँटने में सहर्ष शामिल हो सकते हैं; मेरी क्रिसमस का स्नेहपूर्ण अभिवादन सदा स्वागत योग्य है।", "reviewed": false },
+    "mr": { "text": "नाताळ हा ख्रिस्ती लोकांसाठी पवित्र दिवस आहे आणि भारतात सार्वजनिक सुट्टी आहे. कॅथोलिक, प्रोटेस्टंट, ऑर्थोडॉक्स आणि सीरियन ख्रिस्ती चर्चच्या स्वतःच्या प्रथा आहेत आणि काही वेगळी तारीख पाळतात. इतर धर्मांच्या मित्रांचे वाटून घेण्यात स्वागत आहे; 'मेरी ख्रिसमस' असे प्रेमळ अभिवादन नेहमीच चांगले.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Nativity of Jesus, Wikipedia", "url": "https://en.wikipedia.org/wiki/Nativity_of_Jesus" },
+    { "label": "Christmas in India, Wikipedia", "url": "https://en.wikipedia.org/wiki/Christmas_in_India" },
+    { "label": "Kuswar, Wikipedia", "url": "https://en.wikipedia.org/wiki/Kuswar" }
+  ]
+}

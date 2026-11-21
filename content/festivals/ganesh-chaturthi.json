@@ -1,0 +1,78 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "ganesh-chaturthi",
+  "traditions": ["hindu"],
+  "months": [8, 9],
+  "observances": ["obs.2027.ganesh-jayanti"],
+  "name": { "en": "Ganesh Chaturthi", "hi": { "text": "गणेश चतुर्थी", "reviewed": false }, "mr": { "text": "गणेश चतुर्थी", "reviewed": false } },
+  "tagline": {
+    "en": "Welcoming Ganapati home",
+    "hi": { "text": "गणपति का घर में स्वागत", "reviewed": false },
+    "mr": { "text": "गणपती बाप्पाचे घरी आगमन", "reviewed": false }
+  },
+  "story": {
+    "en": "In the Puranic story, Parvati made a boy from turmeric paste to guard her door while she bathed. When Shiva was stopped at the door and the boy was lost, Shiva restored him with the head of an elephant and named him leader of his ganas, Ganapati. Ganesha is invoked at the start of new work as the remover of obstacles.",
+    "hi": { "text": "पौराणिक कथा के अनुसार पार्वती ने स्नान के समय द्वार की रक्षा के लिए हल्दी के उबटन से एक बालक बनाया। शिव को द्वार पर रोके जाने पर वह बालक खो गया और शिव ने उसे हाथी का मस्तक लगाकर पुनः जीवित किया तथा गणों का नायक, गणपति, नाम दिया। नए कार्य के आरंभ में गणेश का स्मरण विघ्नहर्ता के रूप में किया जाता है।", "reviewed": false },
+    "mr": { "text": "पौराणिक कथेनुसार पार्वतीने स्नानाच्या वेळी दाराचे रक्षण करण्यासाठी हळदीच्या उटण्यातून एक बालक घडवले. शंकराला दारात अडवले गेल्यावर तो बालक गमावला गेला आणि शंकरांनी त्याला हत्तीचे मस्तक लावून पुन्हा जिवंत केले आणि गणांचा नायक, गणपती, असे नाव दिले. नव्या कामाच्या आरंभी गणेशाचे स्मरण विघ्नहर्ता म्हणून केले जाते.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Shiva Purana and Ganesha Purana. Lokmanya Tilak turned the household festival into a community one in Pune in 1893.",
+    "hi": { "text": "शिव पुराण और गणेश पुराण से। लोकमान्य तिलक ने 1893 में पुणे में घरेलू उत्सव को सार्वजनिक उत्सव का रूप दिया।", "reviewed": false },
+    "mr": { "text": "शिवपुराण आणि गणेशपुराणातून. लोकमान्य टिळकांनी १८९३ मध्ये पुण्यात घरगुती उत्सवाला सार्वजनिक उत्सवाचे रूप दिले.", "reviewed": false }
+  },
+  "why": {
+    "en": "The festival is about beginnings, wisdom and welcome. In Maharashtra it also brings families, neighbours and communities together for ten days.",
+    "hi": { "text": "यह उत्सव आरंभ, बुद्धि और स्वागत का है। महाराष्ट्र में यह दस दिन परिवारों, पड़ोसियों और समुदायों को एक साथ लाता है।", "reviewed": false },
+    "mr": { "text": "हा उत्सव आरंभ, बुद्धी आणि स्वागताचा आहे. महाराष्ट्रात तो दहा दिवस कुटुंबे, शेजारी आणि समाजाला एकत्र आणतो.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Prefer an eco-friendly clay (shadu) idol, and prepare a clean, decorated spot for it.",
+      "hi": { "text": "पर्यावरण के अनुकूल मिट्टी (शाडू) की मूर्ति चुनें और उसके लिए एक स्वच्छ, सजा हुआ स्थान तैयार करें।", "reviewed": false },
+      "mr": { "text": "पर्यावरणपूरक शाडूच्या मातीची मूर्ती निवडा आणि तिच्यासाठी स्वच्छ, सजवलेली जागा तयार करा.", "reviewed": false }
+    },
+    {
+      "en": "Bring the idol home with music or chanting and place it facing a clean, raised seat.",
+      "hi": { "text": "मूर्ति को संगीत या जयघोष के साथ घर लाएँ और स्वच्छ ऊँचे आसन पर स्थापित करें।", "reviewed": false },
+      "mr": { "text": "मूर्ती वाजतगाजत किंवा जयघोषात घरी आणा आणि स्वच्छ उंच आसनावर स्थापन करा.", "reviewed": false }
+    },
+    {
+      "en": "Offer durva grass, red hibiscus flowers and modak, light a lamp and incense, and sing the aarti.",
+      "hi": { "text": "दूर्वा, लाल गुड़हल के फूल और मोदक अर्पित करें, दीप और धूप जलाएँ और आरती गाएँ।", "reviewed": false },
+      "mr": { "text": "दूर्वा, लाल जास्वंदाची फुले आणि मोदक अर्पण करा, दिवा आणि उदबत्ती लावा आणि आरती म्हणा.", "reviewed": false }
+    },
+    {
+      "en": "Keep a short morning and evening aarti for the days the idol stays, and invite neighbours to join.",
+      "hi": { "text": "मूर्ति जितने दिन रहे, सुबह-शाम की छोटी आरती करें और पड़ोसियों को आमंत्रित करें।", "reviewed": false },
+      "mr": { "text": "मूर्ती जितके दिवस राहील तितके दिवस सकाळ-संध्याकाळ छोटी आरती करा आणि शेजाऱ्यांना बोलवा.", "reviewed": false }
+    },
+    {
+      "en": "On the last day, perform the farewell prayer and immerse the idol in a bucket or a designated artificial tank at home or nearby.",
+      "hi": { "text": "अंतिम दिन विदाई की प्रार्थना करें और मूर्ति का विसर्जन घर पर बाल्टी में या निर्धारित कृत्रिम कुंड में करें।", "reviewed": false },
+      "mr": { "text": "शेवटच्या दिवशी निरोपाची प्रार्थना करा आणि मूर्तीचे विसर्जन घरी बादलीत किंवा जवळच्या निर्धारित कृत्रिम तलावात करा.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: a household idol stays for one and a half, three, five, seven or ten days, with aarti, Gauri-Ganpati worship and public mandals with processions. Famous public Ganpati are in Pune (Kasba Ganpati) and Mumbai (Lalbaug). Goa: Chavath, with the Mati and fugdi folk dance. Karnataka and Andhra: Vinayaka Chaturthi, mostly a one-day household worship.",
+    "hi": { "text": "महाराष्ट्र: घर की मूर्ति डेढ़, तीन, पाँच, सात या दस दिन रहती है, आरती, गौरी-गणपति पूजन और जुलूसों वाले सार्वजनिक मंडलों के साथ। पुणे (कसबा गणपति) और मुंबई (लालबाग) के गणपति प्रसिद्ध हैं। गोवा: चवथ, फुगड़ी लोकनृत्य के साथ। कर्नाटक और आंध्र: विनायक चतुर्थी, अधिकतर एक दिन की घरेलू पूजा।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: घरगुती मूर्ती दीड, तीन, पाच, सात किंवा दहा दिवस राहते, आरती, गौरी-गणपती पूजन आणि मिरवणुका असलेल्या सार्वजनिक मंडळांसह. पुण्यातील कसबा गणपती आणि मुंबईतील लालबाग प्रसिद्ध आहेत. गोवा: चवथ, फुगडी लोकनृत्यासह. कर्नाटक आणि आंध्र: विनायक चतुर्थी, बहुतेक एक दिवसाची घरगुती पूजा.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Ukdiche modak (steamed rice-flour dumplings with coconut and jaggery), fried modak, puran poli, karanji, panchamrit and the offering of naivedya. In Goa, patoleo and neureos.",
+    "hi": { "text": "उकडीचे मोदक (नारियल और गुड़ भरे भाप में पके चावल के आटे के मोदक), तले मोदक, पूरनपोळी, करंजी, पंचामृत और नैवेद्य। गोवा में पातोळ्या और नेवऱ्या।", "reviewed": false },
+    "mr": { "text": "उकडीचे मोदक (नारळ आणि गूळ भरलेले वाफवलेले तांदळाच्या पिठाचे मोदक), तळलेले मोदक, पुरणपोळी, करंजी, पंचामृत आणि नैवेद्य. गोव्यात पातोळ्या आणि नेवऱ्या.", "reviewed": false }
+  },
+  "note": {
+    "en": "Plaster of Paris idols and chemical paints harm lakes and rivers, so many families choose clay and natural colours. Keep loudspeakers at a considerate level, especially near hospitals and during exams.",
+    "hi": { "text": "प्लास्टर ऑफ पेरिस की मूर्तियाँ और रासायनिक रंग झीलों व नदियों को नुकसान पहुँचाते हैं, इसलिए कई परिवार मिट्टी और प्राकृतिक रंग चुनते हैं। लाउडस्पीकर की आवाज़ संयमित रखें, खासकर अस्पतालों के पास और परीक्षाओं के समय।", "reviewed": false },
+    "mr": { "text": "प्लास्टर ऑफ पॅरिसच्या मूर्ती आणि रासायनिक रंग तलाव व नद्यांना हानी पोहोचवतात, म्हणून अनेक कुटुंबे माती आणि नैसर्गिक रंग निवडतात. ध्वनिक्षेपकाचा आवाज संयमित ठेवा, विशेषतः रुग्णालयांजवळ आणि परीक्षेच्या काळात.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Ganesh Chaturthi, Wikipedia", "url": "https://en.wikipedia.org/wiki/Ganesh_Chaturthi" },
+    { "label": "Ganesha, Wikipedia", "url": "https://en.wikipedia.org/wiki/Ganesha" },
+    { "label": "Lokmanya Tilak, Wikipedia", "url": "https://en.wikipedia.org/wiki/Lokmanya_Tilak" }
+  ]
+}

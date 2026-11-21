@@ -13,6 +13,7 @@ import { inWindow, observancesOn, upcoming } from "@/lib/observances";
 import { panchangForDay } from "@/lib/panchang";
 import { routes } from "@/lib/routes";
 import type { LocalDateKey, PanchangDay } from "@/lib/types";
+import { FestivalGuideEntry, FestivalLink, type FestivalLinkData } from "@/features/festivals/FestivalLinks";
 import { monthGrid, monthOf, shiftMonth, type MonthKey } from "./month";
 
 type Tradition = Observance["traditions"][number];
@@ -30,11 +31,13 @@ export function CalendarView({
   window,
   traditions,
   buildDate,
+  festivals,
 }: {
   observances: Observance[];
   window: { from: string; to: string };
   traditions: Tradition[];
   buildDate: string;
+  festivals?: FestivalLinkData;
 }) {
   const { t, locale } = useI18n();
   const day = useLocalDay(buildDate);
@@ -71,6 +74,8 @@ export function CalendarView({
   return (
     <div className="flex flex-col gap-5">
       <h1 className="sr-only">{t("cal.title")}</h1>
+
+      <FestivalGuideEntry data={festivals} />
 
       <div className="flex items-center justify-between gap-2">
         <button type="button" onClick={() => go(-1)} className="flex size-11 items-center justify-center rounded-full hover:bg-surface-2" aria-label={t("cal.prev")}>
@@ -156,6 +161,7 @@ export function CalendarView({
                   <ObservanceName o={o} />
                 </p>
                 <ObservanceBody o={o} />
+                <FestivalLink obsId={o.id} data={festivals} />
               </li>
             ))}
           </ul>

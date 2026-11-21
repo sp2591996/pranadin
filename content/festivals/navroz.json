@@ -1,0 +1,78 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "navroz",
+  "traditions": ["parsi"],
+  "months": [3, 8],
+  "observances": ["obs.2027.jamshedi-navroz"],
+  "name": { "en": "Navroz (Parsi New Year)", "hi": { "text": "नवरोज़ (पारसी नववर्ष)", "reviewed": false }, "mr": { "text": "नवरोज (पारशी नववर्ष)", "reviewed": false } },
+  "tagline": {
+    "en": "The Zoroastrian New Year, the 'new day', marked with prayer, family and a festive table",
+    "hi": { "text": "ज़रथुस्त्री नववर्ष, 'नया दिन', प्रार्थना, परिवार और उत्सव के भोजन के साथ", "reviewed": false },
+    "mr": { "text": "झरथुष्ट्री नववर्ष, 'नवा दिवस', प्रार्थना, कुटुंब आणि सणाच्या जेवणासह", "reviewed": false }
+  },
+  "story": {
+    "en": "Navroz means 'new day'. It is the New Year in the Iranian calendars, with roots in Zoroastrianism, the faith of the Parsis. The Shahnameh, the Persian epic, credits the legendary King Jamshid (Jamshed) with founding the festival: seated on a jewelled throne, he is said to have been greeted with the cry of a 'new day'. The festival is tied to the spring equinox and the renewal of nature. Parsis in India, who descend from Persian Zoroastrians who settled in western India, follow the Shahenshahi calendar, which does not add a leap day, so their Navroz falls in August. Some Parsis follow the Fasli calendar and keep Jamshedi Navroz on the March equinox.",
+    "hi": { "text": "नवरोज़ का अर्थ है 'नया दिन'। यह ईरानी पंचांगों में नववर्ष है, जिसकी जड़ें ज़रथुस्त्र धर्म में हैं, जो पारसियों की आस्था है। फ़ारसी महाकाव्य शाहनामा इस पर्व की स्थापना का श्रेय पौराणिक राजा जमशेद को देता है: कहा जाता है कि रत्नजड़ित सिंहासन पर बैठे जमशेद का 'नए दिन' की पुकार से स्वागत हुआ। यह पर्व वसंत विषुव और प्रकृति के नवीकरण से जुड़ा है। भारत के पारसी, जो पश्चिमी भारत में बसे फ़ारसी ज़रथुस्त्रियों के वंशज हैं, शहंशाही पंचांग मानते हैं, जिसमें अधिक दिन नहीं जोड़ा जाता, इसलिए उनका नवरोज़ अगस्त में पड़ता है। कुछ पारसी फ़सली पंचांग मानते हैं और मार्च के विषुव पर जमशेदी नवरोज़ मनाते हैं।", "reviewed": false },
+    "mr": { "text": "नवरोज म्हणजे 'नवा दिवस'. हे इराणी पंचांगांतील नववर्ष आहे, ज्याची मुळे झरथुष्ट्र धर्मात आहेत, जो पारशांचा धर्म आहे. फारसी महाकाव्य शाहनामा या सणाच्या स्थापनेचे श्रेय पौराणिक राजा जमशेद यांना देते: रत्नजडित सिंहासनावर बसलेल्या जमशेदांचे 'नवा दिवस' या घोषणेने स्वागत झाले असे सांगितले जाते. हा सण वसंत विषुव आणि निसर्गाच्या नवचैतन्याशी जोडलेला आहे. पश्चिम भारतात स्थायिक झालेल्या फारसी झरथुष्ट्रींचे वंशज असलेले भारतातील पारशी शहेनशाही पंचांग पाळतात, ज्यात अधिक दिवस जोडला जात नाही, म्हणून त्यांचा नवरोज ऑगस्टमध्ये येतो. काही पारशी फसली पंचांग पाळतात आणि मार्चच्या विषुवावर जमशेदी नवरोज साजरा करतात.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Persian epic Shahnameh (Jamshid legend) and Zoroastrian tradition. The festival's exact origin is not fixed, and calendar practice differs between Parsi groups.",
+    "hi": { "text": "फ़ारसी महाकाव्य शाहनामा (जमशेद की कथा) और ज़रथुस्त्री परंपरा से। पर्व की सटीक उत्पत्ति तय नहीं है, और पारसी समूहों में पंचांग की रीति अलग-अलग है।", "reviewed": false },
+    "mr": { "text": "फारसी महाकाव्य शाहनामा (जमशेदांची कथा) आणि झरथुष्ट्री परंपरेतून. सणाचा नेमका उगम निश्चित नाही, आणि पारशी गटांमध्ये पंचांगाची रीत वेगळी आहे.", "reviewed": false }
+  },
+  "why": {
+    "en": "Navroz is a day of new beginnings, gratitude and good thoughts, words and deeds, the core Zoroastrian ethic. The day before, called Pateti, is traditionally a day of repentance and reflection, and Navroz itself is a day of joy.",
+    "hi": { "text": "नवरोज़ नई शुरुआत, कृतज्ञता और अच्छे विचार, वचन और कर्म का दिन है, जो ज़रथुस्त्री नीति का मूल है। एक दिन पहले का दिन, पतेती, परंपरा से पश्चाताप और आत्मचिंतन का दिन होता है, और नवरोज़ स्वयं आनंद का दिन है।", "reviewed": false },
+    "mr": { "text": "नवरोज हा नव्या सुरुवातीचा, कृतज्ञतेचा आणि चांगल्या विचार, वचन व कृतीचा दिवस आहे, जी झरथुष्ट्री नीतीची मुळे आहे. एक दिवस आधीचा दिवस, पतेती, परंपरेने पश्चात्ताप आणि आत्मचिंतनाचा दिवस असतो, आणि नवरोज स्वतः आनंदाचा दिवस आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Before the day, clean and decorate the home. Many families draw a chalk design (rangoli) at the entrance and place fresh flowers.",
+      "hi": { "text": "दिन से पहले घर की सफ़ाई और सजावट करें। कई परिवार प्रवेश द्वार पर चॉक की रंगोली बनाते हैं और ताज़े फूल रखते हैं।", "reviewed": false },
+      "mr": { "text": "दिवसाआधी घर स्वच्छ करून सजवा. अनेक कुटुंबे दारात खडूची रांगोळी काढतात आणि ताजी फुले ठेवतात.", "reviewed": false }
+    },
+    {
+      "en": "On Pateti, reflect quietly on the past year, and where you can, say sorry and forgive.",
+      "hi": { "text": "पतेती पर बीते वर्ष पर शांत मन से विचार करें, और जहाँ संभव हो क्षमा माँगें और क्षमा करें।", "reviewed": false },
+      "mr": { "text": "पतेतीला मागील वर्षाचा शांतपणे विचार करा, आणि शक्य तिथे माफी मागा व क्षमा करा.", "reviewed": false }
+    },
+    {
+      "en": "On Navroz morning, bathe, wear new or fresh clothes and visit the fire temple (agiary) for prayers, as your family does.",
+      "hi": { "text": "नवरोज़ की सुबह स्नान करें, नए या स्वच्छ कपड़े पहनें और अपने परिवार की रीति के अनुसार प्रार्थना के लिए अग्नि मंदिर (अगियारी) जाएँ।", "reviewed": false },
+      "mr": { "text": "नवरोजच्या सकाळी स्नान करा, नवे किंवा स्वच्छ कपडे घाला आणि आपल्या कुटुंबाच्या प्रथेनुसार प्रार्थनेसाठी अग्नि मंदिरात (अगियारी) जा.", "reviewed": false }
+    },
+    {
+      "en": "Greet each other with 'Navroz Mubarak' and gather the family for a festive meal.",
+      "hi": { "text": "एक-दूसरे को 'नवरोज़ मुबारक' कहें और उत्सव के भोजन के लिए परिवार को एकत्र करें।", "reviewed": false },
+      "mr": { "text": "एकमेकांना 'नवरोज मुबारक' म्हणा आणि सणाच्या जेवणासाठी कुटुंबाला एकत्र आणा.", "reviewed": false }
+    },
+    {
+      "en": "Share sweets with neighbours and friends, and give to charity or a Parsi community fund in the spirit of the day.",
+      "hi": { "text": "पड़ोसियों और मित्रों के साथ मिठाई बाँटें, और दिन की भावना में दान या पारसी समुदाय कोष में कुछ दें।", "reviewed": false },
+      "mr": { "text": "शेजारी आणि मित्रांसोबत मिठाई वाटा, आणि दिवसाच्या भावनेने दान किंवा पारशी समाज निधीत काही द्या.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra: Mumbai has the largest Parsi population in India; families visit agiaries such as Rustom Framna Agiary in Dadar, and Pune's Parsis also begin the day with prayers and a family gathering. Gujarat: Navsari, Udvada and Surat, old Parsi centres, mark the day with prayers and community meals. Elsewhere, the Iranian New Year Nowruz is kept on the March equinox, with the haft-sin table, by Iranians and by those who follow the Fasli calendar. Mughal-era courts in North India celebrated Nowruz at length, a tradition still remembered.",
+    "hi": { "text": "महाराष्ट्र: मुंबई में भारत की सबसे बड़ी पारसी आबादी है; परिवार दादर के रुस्तम फ़्रामना अगियारी जैसे अगियारियों में जाते हैं, और पुणे के पारसी भी प्रार्थना और पारिवारिक मिलन से दिन शुरू करते हैं। गुजरात: नवसारी, उदवाडा और सूरत, पुराने पारसी केंद्र, प्रार्थना और सामुदायिक भोजों के साथ दिन मनाते हैं। अन्यत्र, ईरानी नववर्ष नौरोज़ मार्च विषुव पर हफ़्त-सीन की मेज़ के साथ ईरानी लोग और फ़सली पंचांग मानने वाले मनाते हैं। उत्तर भारत में मुग़ल दरबारों में नौरोज़ विस्तार से मनाया जाता था, जिसकी परंपरा आज भी याद की जाती है।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र: मुंबईत भारतातील सर्वात मोठी पारशी लोकसंख्या आहे; कुटुंबे दादरच्या रुस्तम फ्रामना अगियारीसारख्या अगियाऱ्यांमध्ये जातात, आणि पुण्यातील पारशीही प्रार्थना आणि कौटुंबिक भेटीने दिवस सुरू करतात. गुजरात: नवसारी, उदवाडा आणि सुरत, जुनी पारशी केंद्रे, प्रार्थना आणि सामुदायिक भोजनांनी दिवस साजरा करतात. इतरत्र, इराणी नववर्ष नौरोज मार्चच्या विषुवावर हफ्त-सीनच्या मांडणीसह इराणी लोक आणि फसली पंचांग पाळणारे साजरे करतात. उत्तर भारतात मोगल दरबारात नौरोज मोठ्या प्रमाणात साजरा होत असे, ज्याची परंपरा आजही आठवली जाते.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Sweet ravo (semolina pudding), sev (sweet vermicelli) and a festive pulao-dal are commonly prepared in Parsi homes on Navroz. At a haft-sin table, sprouted greens, sweet wheat pudding, apple, garlic, vinegar, sumac and Persian olive are set out for the seven 'S' items. Choose what suits your family and diet.",
+    "hi": { "text": "नवरोज़ पर पारसी घरों में प्रायः मीठा रवो (सूजी का हलवा), सेव (मीठी सेवइयाँ) और उत्सवी पुलाव-दाल बनती है। हफ़्त-सीन की मेज़ पर 'स' से शुरू होने वाली सात चीज़ें रखी जाती हैं: अंकुरित हरियाली, मीठा गेहूँ का पुडिंग, सेब, लहसुन, सिरका, सुमाक और फ़ारसी जैतून। वही चुनें जो आपके परिवार और आहार के अनुकूल हो।", "reviewed": false },
+    "mr": { "text": "नवरोजला पारशी घरांत सहसा गोड रवो (रव्याची खीर), सेव (गोड शेवया) आणि सणाचा पुलाव-डाळ बनते. हफ्त-सीनच्या मांडणीत 'स' अक्षराने सुरू होणाऱ्या सात वस्तू ठेवल्या जातात: अंकुरित हिरवळ, गोड गव्हाचा पुडिंग, सफरचंद, लसूण, व्हिनेगर, सुमाक आणि फारसी ऑलिव्ह. आपल्या कुटुंबाला आणि आहाराला जे योग्य ते निवडा.", "reviewed": false }
+  },
+  "note": {
+    "en": "Parsis in India mostly mark Navroz in August by the Shahenshahi calendar, while some mark Jamshedi Navroz in March, and Iranian Zoroastrians and others keep Nowruz in March. Neither is more correct; each community follows its own calendar, so confirm the date with your agiary. Pateti, the day before, is a day of repentance, so many Parsis do not greet it with 'Mubarak'.",
+    "hi": { "text": "भारत के पारसी अधिकतर शहंशाही पंचांग से अगस्त में नवरोज़ मनाते हैं, जबकि कुछ मार्च में जमशेदी नवरोज़ मनाते हैं, और ईरानी ज़रथुस्त्री व अन्य मार्च में नौरोज़ मनाते हैं। कोई भी अधिक सही नहीं है; हर समुदाय अपना पंचांग मानता है, इसलिए अपनी अगियारी से तिथि की पुष्टि करें। एक दिन पहले की पतेती पश्चाताप का दिन है, इसलिए कई पारसी उस पर 'मुबारक' नहीं कहते।", "reviewed": false },
+    "mr": { "text": "भारतातील पारशी बहुतेक शहेनशाही पंचांगानुसार ऑगस्टमध्ये नवरोज साजरा करतात, तर काही मार्चमध्ये जमशेदी नवरोज साजरा करतात, आणि इराणी झरथुष्ट्री व इतर मार्चमध्ये नौरोज पाळतात. कोणताही अधिक बरोबर नाही; प्रत्येक समाज आपले पंचांग पाळतो, म्हणून आपल्या अगियारीकडून तारखेची खात्री करा. एक दिवस आधीची पतेती पश्चात्तापाचा दिवस आहे, म्हणून अनेक पारशी तिला 'मुबारक' म्हणत नाहीत.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Nowruz, Wikipedia", "url": "https://en.wikipedia.org/wiki/Nowruz" },
+    { "label": "Navroz 2026, Parsi community prays at agiary, Free Press Journal", "url": "https://www.freepressjournal.in/mumbai/navroz-2026-parsi-community-mark-new-year-with-prayer-at-agiary-visuals-from-dadar-surface-watch" },
+    { "label": "All you need to know about the Parsi New Year, The Better India", "url": "https://www.thebetterindia.com/112242/navroz-new-year-parsi-community-india/" }
+  ]
+}

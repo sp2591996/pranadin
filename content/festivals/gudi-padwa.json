@@ -1,0 +1,77 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "festival",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "gudi-padwa",
+  "traditions": ["hindu"],
+  "months": [3, 4],
+  "observances": [],
+  "name": { "en": "Gudi Padwa", "hi": { "text": "गुढ़ी पाड़वा", "reviewed": false }, "mr": { "text": "गुढीपाडवा", "reviewed": false } },
+  "tagline": {
+    "en": "The Marathi new year and the raising of the gudi",
+    "hi": { "text": "मराठी नववर्ष और गुढ़ी का उत्थान", "reviewed": false },
+    "mr": { "text": "मराठी नववर्ष आणि गुढी उभारणी", "reviewed": false }
+  },
+  "story": {
+    "en": "Gudi Padwa falls on the first day of the month of Chaitra. Tradition links it to Brahma creating the world, to Rama's return to Ayodhya, and to the victory of the Maratha tradition under Shivaji. The gudi, a bright cloth tied to a bamboo staff and topped with a silver or copper pot, is raised as a flag of victory and welcome.",
+    "hi": { "text": "गुढ़ी पाड़वा चैत्र महीने के पहले दिन आता है। परंपरा इसे ब्रह्मा द्वारा सृष्टि रचना, राम की अयोध्या वापसी और शिवाजी के नेतृत्व में मराठा परंपरा की विजय से जोड़ती है। गुढ़ी, बाँस की छड़ी पर बँधा चटक कपड़ा जिसके ऊपर चाँदी या ताँबे का कलश रखा जाता है, विजय और स्वागत की पताका के रूप में उठाई जाती है।", "reviewed": false },
+    "mr": { "text": "गुढीपाडवा चैत्र महिन्याच्या पहिल्या दिवशी येतो. परंपरा याला ब्रह्मदेवाने केलेली सृष्टीनिर्मिती, रामाचे अयोध्येत परतणे आणि शिवरायांच्या नेतृत्वाखालील मराठा परंपरेचा विजय यांच्याशी जोडते. गुढी, म्हणजे बांबूच्या काठीला बांधलेले रंगीत वस्त्र आणि वर चांदीचा किंवा तांब्याचा कलश, विजय आणि स्वागताची पताका म्हणून उभारली जाते.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Puranic tradition, Marathi folk memory and the Shalivahana-era calendar.",
+    "hi": { "text": "पौराणिक परंपरा, मराठी लोकस्मृति और शालिवाहन शक पंचांग से।", "reviewed": false },
+    "mr": { "text": "पौराणिक परंपरा, मराठी लोकस्मृती आणि शालिवाहन शक पंचांगातून.", "reviewed": false }
+  },
+  "why": {
+    "en": "It is a day for a fresh start, thanks for the past year and shared sweetness with family.",
+    "hi": { "text": "यह नई शुरुआत, बीते वर्ष के लिए आभार और परिवार के साथ मिठास बाँटने का दिन है।", "reviewed": false },
+    "mr": { "text": "हा नव्या सुरुवातीचा, गेल्या वर्षाबद्दल कृतज्ञतेचा आणि कुटुंबासोबत गोडवा वाटण्याचा दिवस आहे.", "reviewed": false }
+  },
+  "steps": [
+    {
+      "en": "Wake early, take a bath and decorate the entrance with mango leaves, marigold flowers and a rangoli.",
+      "hi": { "text": "सुबह जल्दी उठकर स्नान करें और प्रवेश द्वार को आम के पत्तों, गेंदे के फूलों और रंगोली से सजाएँ।", "reviewed": false },
+      "mr": { "text": "पहाटे उठून स्नान करा आणि दार आंब्याची पाने, झेंडूची फुले आणि रांगोळीने सजवा.", "reviewed": false }
+    },
+    {
+      "en": "Tie a new cloth, neem leaves, mango leaves and a garland of sugar crystals (gathi) to a bamboo staff.",
+      "hi": { "text": "बाँस की छड़ी पर नया कपड़ा, नीम और आम के पत्ते तथा शक्कर की गाँठियों की माला बाँधें।", "reviewed": false },
+      "mr": { "text": "बांबूच्या काठीला नवे वस्त्र, कडुनिंब आणि आंब्याची पाने आणि साखरेच्या गाठींची माळ बांधा.", "reviewed": false }
+    },
+    {
+      "en": "Cover the top with an upturned silver or copper pot, and raise the gudi on the right side of the main door or a window.",
+      "hi": { "text": "ऊपर उलटा चाँदी या ताँबे का कलश रखें और गुढ़ी को मुख्य द्वार या खिड़की की दाहिनी ओर खड़ा करें।", "reviewed": false },
+      "mr": { "text": "वर उलटा चांदीचा किंवा तांब्याचा कलश ठेवा आणि गुढी मुख्य दारा किंवा खिडकीच्या उजव्या बाजूला उभारा.", "reviewed": false }
+    },
+    {
+      "en": "Offer a lamp, flowers and a short prayer of thanks, then bring the gudi down at sunset.",
+      "hi": { "text": "दीप, फूल और कृतज्ञता की एक छोटी प्रार्थना अर्पित करें और सूर्यास्त पर गुढ़ी उतार लें।", "reviewed": false },
+      "mr": { "text": "दिवा, फुले आणि कृतज्ञतेची छोटी प्रार्थना अर्पण करा आणि सूर्यास्ताला गुढी खाली घ्या.", "reviewed": false }
+    },
+    {
+      "en": "Share a spoon of neem and jaggery mixture with the family, a reminder that the year has both bitter and sweet days.",
+      "hi": { "text": "परिवार के साथ नीम और गुड़ का एक चम्मच मिश्रण बाँटें, यह याद दिलाते हुए कि वर्ष में कड़वे और मीठे दोनों दिन होते हैं।", "reviewed": false },
+      "mr": { "text": "कुटुंबासोबत कडुनिंब आणि गुळाचे मिश्रण एक चमचा वाटून घ्या, वर्षात कडू आणि गोड असे दोन्ही दिवस असतात याची आठवण म्हणून.", "reviewed": false }
+    }
+  ],
+  "regional": {
+    "en": "Maharashtra and Konkan: the gudi and shobhayatras (cultural processions) in towns such as Girgaon in Mumbai, and Dombivli. Goa and Konkan: Sanvsar Padvo. Telangana, Andhra and Karnataka: Ugadi with ugadi pachadi. Kashmir: Navreh. Sindhi: Cheti Chand.",
+    "hi": { "text": "महाराष्ट्र और कोंकण: गुढ़ी और मुंबई के गिरगाँव तथा डोंबिवली जैसे स्थानों में शोभायात्राएँ। गोवा और कोंकण: संवत्सर पाड़वो। तेलंगाना, आंध्र और कर्नाटक: उगादि और उगादि पचड़ी। कश्मीर: नवरेह। सिंधी: चेटी चंड।", "reviewed": false },
+    "mr": { "text": "महाराष्ट्र आणि कोकण: गुढी आणि मुंबईतील गिरगाव तसेच डोंबिवली यांसारख्या ठिकाणी शोभायात्रा. गोवा आणि कोकण: संवत्सर पाडवो. तेलंगणा, आंध्र आणि कर्नाटक: उगादी आणि उगादी पचडी. काश्मीर: नवरेह. सिंधी: चेटीचंड.", "reviewed": false }
+  },
+  "foods": {
+    "en": "Shrikhand with puri, puran poli, and a spoon of neem leaves with jaggery. Ugadi pachadi in the south mixes six tastes.",
+    "hi": { "text": "श्रीखंड-पूरी, पूरनपोळी, और नीम की पत्तियों के साथ गुड़ का एक चम्मच। दक्षिण की उगादि पचड़ी में छह स्वाद मिलते हैं।", "reviewed": false },
+    "mr": { "text": "श्रीखंड-पुरी, पुरणपोळी आणि कडुनिंबाची पाने गुळासह एक चमचा. दक्षिणेतील उगादी पचडीत सहा चवी असतात.", "reviewed": false }
+  },
+  "note": {
+    "en": "Gudi Padwa is celebrated as new year by several communities under different names and dates. Do not assume the Marathi way is the only one; ask and learn when you meet neighbours from other states.",
+    "hi": { "text": "गुढ़ी पाड़वा को कई समुदाय अलग नामों और तिथियों से नववर्ष के रूप में मनाते हैं। मान न लें कि मराठी तरीका ही एकमात्र है; दूसरे राज्यों के पड़ोसियों से मिलें तो पूछें और जानें।", "reviewed": false },
+    "mr": { "text": "गुढीपाडवा अनेक समाज वेगवेगळ्या नावांनी आणि तारखांना नववर्ष म्हणून साजरा करतात. मराठी पद्धत एकमेव आहे असे समजू नका; इतर राज्यांतील शेजाऱ्यांना भेटाल तेव्हा विचारा आणि जाणून घ्या.", "reviewed": false }
+  },
+  "sources": [
+    { "label": "Gudi Padwa, Wikipedia", "url": "https://en.wikipedia.org/wiki/Gudi_Padwa" },
+    { "label": "Hindu calendar, Wikipedia", "url": "https://en.wikipedia.org/wiki/Hindu_calendar" }
+  ]
+}

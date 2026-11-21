@@ -12,6 +12,7 @@ import { formatDateKey, formatTime } from "@/i18n/format";
 import { nakshatraKey, tithiKey, type MessageKey } from "@/i18n/keys";
 import { inWindow, observancesOn, upcoming } from "@/lib/observances";
 import { panchangForDay } from "@/lib/panchang";
+import { FestivalLink, type FestivalLinkData } from "@/features/festivals/FestivalLinks";
 import { routes } from "@/lib/routes";
 
 /**
@@ -37,6 +38,7 @@ export function TodayView({
   buildDate,
   plan,
   verse,
+  festivals,
 }: {
   observances: Observance[];
   window: { from: string; to: string };
@@ -45,6 +47,8 @@ export function TodayView({
   plan?: React.ReactNode;
   /** Verse of the day (D-026 Wave C), rendered under the plan. */
   verse?: React.ReactNode;
+  /** Festival guide links (D-026 Wave D). */
+  festivals?: FestivalLinkData;
 }) {
   const { t, locale } = useI18n();
   const day = useLocalDay(buildDate);
@@ -72,6 +76,7 @@ export function TodayView({
             {o.lang === "en" && <EnglishMark />}
           </p>
           <ObservanceBody o={o} />
+          <FestivalLink obsId={o.id} data={festivals} />
         </section>
       ))}
 
@@ -135,6 +140,7 @@ export function TodayView({
                     <ObservanceName o={o} />
                   </p>
                   <ObservanceBody o={o} />
+                  <FestivalLink obsId={o.id} data={festivals} />
                 </li>
               )),
             )}
