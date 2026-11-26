@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "somnath",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: Somnath darshan, the Sangam and the evening show", "hi": { "text": "एक दिन: सोमनाथ दर्शन, संगम और संध्या कार्यक्रम", "reviewed": false }, "mr": { "text": "एक दिवस: सोमनाथ दर्शन, संगम आणि संध्याकाळचा कार्यक्रम", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Early darshan at Somnath Temple and a quiet walk on the shore walkway.", "hi": { "text": "सोमनाथ मंदिर में प्रातः दर्शन और तटीय मार्ग पर शांत सैर।", "reviewed": false }, "mr": { "text": "सोमनाथ मंदिरात पहाटेचे दर्शन आणि किनाऱ्यावरील मार्गावर शांत फेरफटका.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Rest after lunch, then Triveni Sangam, Gita Mandir and Bhalka Tirth by auto.", "hi": { "text": "दोपहर के भोजन के बाद विश्राम, फिर ऑटो से त्रिवेणी संगम, गीता मंदिर और भालका तीर्थ।", "reviewed": false }, "mr": { "text": "दुपारच्या जेवणानंतर विश्रांती, मग ऑटोने त्रिवेणी संगम, गीता मंदिर आणि भालका तीर्थ.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening aarti, then the sound-and-light show if it is running.", "hi": { "text": "संध्या आरती, फिर यदि चल रहा हो तो ध्वनि-प्रकाश कार्यक्रम।", "reviewed": false }, "mr": { "text": "संध्या आरती, मग चालू असल्यास ध्वनी-प्रकाश कार्यक्रम.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: Somnath, then Junagadh or Gir", "hi": { "text": "दो दिन: सोमनाथ, फिर जूनागढ़ या गिर", "reviewed": false }, "mr": { "text": "दोन दिवस: सोमनाथ, मग जुनागढ किंवा गिर", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Somnath Temple darshan.", "hi": { "text": "सोमनाथ मंदिर के दर्शन।", "reviewed": false }, "mr": { "text": "सोमनाथ मंदिराचे दर्शन.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Triveni Sangam, Gita Mandir and the Prabhas museum.", "hi": { "text": "त्रिवेणी संगम, गीता मंदिर और प्रभास संग्रहालय।", "reviewed": false }, "mr": { "text": "त्रिवेणी संगम, गीता मंदिर आणि प्रभास संग्रहालय.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening aarti and the shore walkway.", "hi": { "text": "संध्या आरती और तटीय मार्ग।", "reviewed": false }, "mr": { "text": "संध्या आरती आणि किनाऱ्यावरील मार्ग.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Leave early for Junagadh and the Girnar foothills, or a pre-booked Gir safari.", "hi": { "text": "जूनागढ़ और गिरनार की तलहटी, या पहले से बुक गिर सफ़ारी के लिए जल्दी निकलें।", "reviewed": false }, "mr": { "text": "जुनागढ आणि गिरनारच्या पायथ्यासाठी, किंवा आधी बुक केलेल्या गिर सफारीसाठी लवकर निघा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to Somnath for a last evening at the shore.", "hi": { "text": "तट पर अंतिम शाम के लिए सोमनाथ लौटें।", "reviewed": false }, "mr": { "text": "किनाऱ्यावरील शेवटच्या संध्याकाळसाठी सोमनाथला परत या.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: Somnath at an easy pace with Diu", "hi": { "text": "तीन दिन: सोमनाथ आराम की गति से और दीव", "reviewed": false }, "mr": { "text": "तीन दिवस: सोमनाथ आरामात आणि दीव", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Somnath Temple darshan and a walk along the shore.", "hi": { "text": "सोमनाथ मंदिर दर्शन और तट पर सैर।", "reviewed": false }, "mr": { "text": "सोमनाथ मंदिर दर्शन आणि किनाऱ्यावर फेरफटका.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening aarti and the sound-and-light show.", "hi": { "text": "संध्या आरती और ध्वनि-प्रकाश कार्यक्रम।", "reviewed": false }, "mr": { "text": "संध्या आरती आणि ध्वनी-प्रकाश कार्यक्रम.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Triveni Sangam, Gita Mandir and Bhalka Tirth.", "hi": { "text": "त्रिवेणी संगम, गीता मंदिर और भालका तीर्थ।", "reviewed": false }, "mr": { "text": "त्रिवेणी संगम, गीता मंदिर आणि भालका तीर्थ.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Prabhas museum, then rest.", "hi": { "text": "प्रभास संग्रहालय, फिर विश्राम।", "reviewed": false }, "mr": { "text": "प्रभास संग्रहालय, मग विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A quiet sunset at the sea.", "hi": { "text": "समुद्र पर शांत सूर्यास्त।", "reviewed": false }, "mr": { "text": "समुद्रावर शांत सूर्यास्त.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Day trip to Sasan Gir (safari booked in advance) or Diu.", "hi": { "text": "सासन गिर (सफ़ारी पहले से बुक करें) या दीव की एक दिन की यात्रा।", "reviewed": false }, "mr": { "text": "सासन गिर (सफारी आधी बुक करा) किंवा दीवची एक दिवसाची सहल.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to Somnath and rest before your journey.", "hi": { "text": "सोमनाथ लौटें और यात्रा से पहले विश्राम करें।", "reviewed": false }, "mr": { "text": "सोमनाथला परत या आणि प्रवासापूर्वी विश्रांती घ्या.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Trust guesthouses near the temple", "hi": { "text": "मंदिर के पास ट्रस्ट अतिथि गृह", "reviewed": false }, "mr": { "text": "मंदिराजवळील ट्रस्टची अतिथीगृहे", "reviewed": false } },
+      "body": { "en": "The Shree Somnath Trust runs rooms that can be booked only through its official site. They are the closest to the temple and fill early around festivals. Be wary of any private booking offer.", "hi": { "text": "श्री सोमनाथ ट्रस्ट कमरे चलाता है जिन्हें केवल उसकी आधिकारिक वेबसाइट से बुक किया जा सकता है। ये मंदिर के सबसे पास हैं और त्योहारों के आसपास जल्दी भर जाते हैं। किसी भी निजी बुकिंग प्रस्ताव से सावधान रहें।", "reviewed": false }, "mr": { "text": "श्री सोमनाथ ट्रस्ट खोल्या चालवतो ज्या फक्त त्याच्या अधिकृत संकेतस्थळावरून बुक करता येतात. त्या मंदिराच्या सर्वात जवळ आहेत आणि सणांच्या सुमारास लवकर भरतात. कोणत्याही खासगी बुकिंगच्या प्रस्तावापासून सावध राहा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Hotels and dharamshalas in Somnath town", "hi": { "text": "सोमनाथ नगर में होटल और धर्मशालाएँ", "reviewed": false }, "mr": { "text": "सोमनाथ नगरातील हॉटेल्स आणि धर्मशाळा", "reviewed": false } },
+      "body": { "en": "A range of budget and mid-range hotels and dharamshalas lie within a short ride of the temple. Check the room, the water supply and the cancellation terms before you pay.", "hi": { "text": "मंदिर से छोटी सवारी की दूरी पर किफ़ायती और मध्यम श्रेणी के कई होटल और धर्मशालाएँ हैं। भुगतान से पहले कमरा, पानी की आपूर्ति और रद्द करने की शर्तें देख लें।", "reviewed": false }, "mr": { "text": "मंदिरापासून थोड्याच अंतरावर परवडणारी आणि मध्यम श्रेणीची अनेक हॉटेल्स आणि धर्मशाळा आहेत. पैसे देण्यापूर्वी खोली, पाणीपुरवठा आणि रद्द करण्याच्या अटी तपासा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Veraval and the highway", "hi": { "text": "वेरावल और राजमार्ग", "reviewed": false }, "mr": { "text": "वेरावळ आणि महामार्ग", "reviewed": false } },
+      "body": { "en": "More choice and often lower prices, near the junction station and the bus stand, with a longer ride to the temple. Convenient if you arrive late by train.", "hi": { "text": "अधिक विकल्प और अक्सर कम कीमतें, जंक्शन स्टेशन और बस अड्डे के पास, पर मंदिर तक सवारी लंबी। देर से रेल से पहुँचने पर सुविधाजनक।", "reviewed": false }, "mr": { "text": "अधिक पर्याय आणि अनेकदा कमी दर, जंक्शन स्थानक आणि बस स्थानकाजवळ, पण मंदिरापर्यंत प्रवास लांबचा. उशिरा रेल्वेने पोहोचल्यास सोयीचे.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Gujarati thali", "hi": { "text": "गुजराती थाली", "reviewed": false }, "mr": { "text": "गुजराती थाळी", "reviewed": false } },
+      "body": { "en": "A full vegetarian meal of dal, kadhi, vegetables, rotli and sweets, served at small restaurants and trust kitchens.", "hi": { "text": "दाल, कढ़ी, सब्ज़ियाँ, रोटली और मिठाई का पूरा शाकाहारी भोजन, छोटे रेस्तराँ और ट्रस्ट की रसोइयों में परोसा जाता है।", "reviewed": false }, "mr": { "text": "डाळ, कढी, भाज्या, रोटली आणि मिठाई असे पूर्ण शाकाहारी जेवण, लहान उपाहारगृहे आणि ट्रस्टच्या स्वयंपाकघरात वाढले जाते.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Fafda, gathiya and farsan", "hi": { "text": "फाफड़ा, गाठिया और फरसाण", "reviewed": false }, "mr": { "text": "फाफडा, गाठिया आणि फरसाण", "reviewed": false } },
+      "body": { "en": "Gujarati savoury snacks, sold fresh at morning shops and good to carry for the road.", "hi": { "text": "गुजराती नमकीन नाश्ते, सुबह की दुकानों पर ताज़ा मिलते हैं और यात्रा के लिए साथ ले जाने योग्य।", "reviewed": false }, "mr": { "text": "गुजराती तिखट नाश्ते, सकाळच्या दुकानांत ताजे मिळतात आणि प्रवासासाठी सोबत नेण्यास योग्य.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Sweets and prasad", "hi": { "text": "मिठाइयाँ और प्रसाद", "reviewed": false }, "mr": { "text": "मिठाई आणि प्रसाद", "reviewed": false } },
+      "body": { "en": "Milk sweets, peda and sukhdi are sold near the temple. Buy prasad from official counters or known shops, and check freshness in the heat.", "hi": { "text": "मंदिर के पास दूध की मिठाइयाँ, पेड़ा और सुखड़ी मिलती हैं। प्रसाद आधिकारिक काउंटर या जाने-माने दुकानों से लें, और गर्मी में ताज़गी देख लें।", "reviewed": false }, "mr": { "text": "मंदिराजवळ दुधाची मिठाई, पेढा आणि सुखडी मिळते. प्रसाद अधिकृत काउंटर किंवा ओळखीच्या दुकानांतून घ्या, आणि उष्णतेत ताजेपणा तपासा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Gujarat is largely vegetarian, and eateries near the temple and the trust's kitchens serve vegetarian food. Many places offer Jain meals without onion and garlic, so ask when ordering. The state follows a dry-state policy, so alcohol is not sold openly.",
+    "hi": { "text": "गुजरात बड़े पैमाने पर शाकाहारी है, और मंदिर के पास के भोजनालय तथा ट्रस्ट की रसोइयाँ शाकाहारी भोजन देती हैं। कई स्थान बिना प्याज़-लहसुन का जैन भोजन देते हैं, इसलिए ऑर्डर करते समय माँगें। राज्य में शराबबंदी की नीति है, इसलिए शराब खुलेआम नहीं बिकती।", "reviewed": false },
+    "mr": { "text": "गुजरात मोठ्या प्रमाणात शाकाहारी आहे, आणि मंदिराजवळील उपाहारगृहे आणि ट्रस्टची स्वयंपाकघरे शाकाहारी जेवण देतात. अनेक ठिकाणी कांदा-लसणाशिवाय जैन जेवण मिळते, म्हणून ऑर्डर देताना मागा. राज्यात मद्यबंदीचे धोरण आहे, म्हणून मद्य उघडपणे विकले जात नाही.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 1000, "max": 2000 },
+      "mid": { "min": 2500, "max": 4500 },
+      "comfort": { "min": 5500, "max": 10000 }
+    },
+    "note": {
+      "en": "Indicative figures in rupees per person per day for stay, food and local transport, assuming a twin-share room. Prices rise sharply around Shivratri, Kartik Purnima and winter weekends.",
+      "hi": { "text": "रुपये में सांकेतिक आँकड़े, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। शिवरात्रि, कार्तिक पूर्णिमा और सर्दियों के सप्ताहांत के आसपास कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "रुपयांमध्ये सूचक आकडे, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. शिवरात्री, कार्तिक पौर्णिमा आणि हिवाळ्यातील सप्ताहांताच्या सुमारास दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "The sun and sea wind are strong. Carry water, a hat and sunscreen, and keep the afternoon free. Summer visits are best at dawn and after sunset.",
+      "hi": { "text": "धूप और समुद्री हवा तेज़ होती है। पानी, टोपी और सनस्क्रीन साथ रखें और दोपहर खाली रखें। गर्मियों में भोर और सूर्यास्त के बाद जाना सर्वोत्तम है।", "reviewed": false },
+      "mr": { "text": "ऊन आणि समुद्री वारा तीव्र असतात. पाणी, टोपी आणि सनस्क्रीन सोबत ठेवा आणि दुपार मोकळी ठेवा. उन्हाळ्यात पहाटे आणि सूर्यास्तानंतर जाणे सर्वोत्तम.", "reviewed": false }
+    },
+    {
+      "en": "The sea at the temple shore and Triveni Sangam can be rough, with strong currents. Bathe only where locals and guards say it is safe, never alone, and stay out of the water in the monsoon.",
+      "hi": { "text": "मंदिर तट और त्रिवेणी संगम पर समुद्र उग्र हो सकता है और धाराएँ तेज़ होती हैं। केवल वहीं स्नान करें जहाँ स्थानीय लोग और रक्षक सुरक्षित बताएँ, अकेले कभी नहीं, और वर्षा ऋतु में पानी में न उतरें।", "reviewed": false },
+      "mr": { "text": "मंदिराच्या किनाऱ्यावर आणि त्रिवेणी संगमावर समुद्र खवळलेला असू शकतो आणि प्रवाह तीव्र असतात. फक्त स्थानिक लोक आणि रक्षक सुरक्षित सांगतात तिथेच स्नान करा, कधीही एकटे नाही, आणि पावसाळ्यात पाण्यात उतरू नका.", "reviewed": false }
+    },
+    {
+      "en": "Drink bottled or filtered water and be careful with street food in heat. This guide is general information and not medical advice, so carry your regular medicines and consult a doctor for health concerns.",
+      "hi": { "text": "बोतलबंद या फ़िल्टर किया पानी पिएँ और गर्मी में सड़क किनारे के भोजन में सावधानी रखें। यह मार्गदर्शिका सामान्य जानकारी है, चिकित्सा सलाह नहीं, इसलिए अपनी नियमित दवाएँ साथ रखें और स्वास्थ्य संबंधी चिंता में डॉक्टर से सलाह लें।", "reviewed": false },
+      "mr": { "text": "बाटलीबंद किंवा गाळलेले पाणी प्या आणि उष्णतेत रस्त्यावरील खाद्यपदार्थांबाबत काळजी घ्या. ही मार्गदर्शिका सामान्य माहिती आहे, वैद्यकीय सल्ला नाही, म्हणून आपली नेहमीची औषधे सोबत ठेवा आणि आरोग्याच्या चिंतेसाठी डॉक्टरांचा सल्ला घ्या.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly and remove footwear before the temple. Ask before photographing people, priests or rituals.",
+      "hi": { "text": "शालीन वस्त्र पहनें और मंदिर से पहले जूते-चप्पल उतारें। लोगों, पुजारियों या अनुष्ठानों की तस्वीर लेने से पहले पूछें।", "reviewed": false },
+      "mr": { "text": "साधे कपडे घाला आणि मंदिरापूर्वी पादत्राणे काढा. लोक, पुजारी किंवा विधींचे छायाचित्र घेण्यापूर्वी विचारा.", "reviewed": false }
+    },
+    {
+      "en": "Phones, cameras and bags are not allowed inside the temple. Follow the signs and the guards' instructions.",
+      "hi": { "text": "मंदिर के भीतर फ़ोन, कैमरे और बैग की अनुमति नहीं है। संकेतों और सुरक्षाकर्मियों के निर्देशों का पालन करें।", "reviewed": false },
+      "mr": { "text": "मंदिराच्या आत फोन, कॅमेरे आणि पिशव्यांना परवानगी नाही. फलक आणि सुरक्षारक्षकांच्या सूचनांचे पालन करा.", "reviewed": false }
+    },
+    {
+      "en": "Keep the queue orderly and be patient during busy darshan hours, especially with elders and families.",
+      "hi": { "text": "कतार व्यवस्थित रखें और भीड़ वाले दर्शन समय में धैर्य रखें, विशेषकर बुज़ुर्गों और परिवारों के प्रति।", "reviewed": false },
+      "mr": { "text": "रांग शिस्तीत ठेवा आणि गर्दीच्या दर्शनवेळी संयम बाळगा, विशेषतः ज्येष्ठ आणि कुटुंबांशी.", "reviewed": false }
+    },
+    {
+      "en": "Do not litter on the shore, at the Sangam or in the sea. Use the bins and avoid plastic offerings.",
+      "hi": { "text": "तट, संगम या समुद्र में कचरा न फैलाएँ। कूड़ेदान का उपयोग करें और प्लास्टिक की सामग्री अर्पित करने से बचें।", "reviewed": false },
+      "mr": { "text": "किनाऱ्यावर, संगमावर किंवा समुद्रात कचरा टाकू नका. कचरापेट्या वापरा आणि प्लास्टिकचे साहित्य अर्पण करणे टाळा.", "reviewed": false }
+    }
+  ]
+}

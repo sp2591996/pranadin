@@ -1,0 +1,173 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "ujjain",
+  "name": { "en": "Ujjain (Mahakaleshwar)", "hi": { "text": "उज्जैन (महाकालेश्वर)", "reviewed": false }, "mr": { "text": "उज्जैन (महाकालेश्वर)", "reviewed": false } },
+  "state": { "en": "Madhya Pradesh", "hi": { "text": "मध्य प्रदेश", "reviewed": false }, "mr": { "text": "मध्य प्रदेश", "reviewed": false } },
+  "stateKey": "madhya-pradesh",
+  "traditions": ["hindu"],
+  "deity": {
+    "en": "Lord Shiva as Mahakaleshwar, one of the twelve Jyotirlingas. The city is also linked to Harsiddhi Devi, Kal Bhairav and Lord Krishna's student days.",
+    "hi": { "text": "भगवान शिव महाकालेश्वर के रूप में, बारह ज्योतिर्लिंगों में से एक। यह नगर हरसिद्धि देवी, काल भैरव और भगवान कृष्ण के विद्यार्थी जीवन से भी जुड़ा है।", "reviewed": false },
+    "mr": { "text": "भगवान शिव महाकालेश्वर रूपात, बारा ज्योतिर्लिंगांपैकी एक. हे नगर हरसिद्धी देवी, काल भैरव आणि भगवान कृष्णाच्या विद्यार्थीदशेशीही जोडलेले आहे.", "reviewed": false }
+  },
+  "significance": {
+    "en": "Ujjain (ancient Avantika) is one of the seven sacred cities, the Sapta Puri. The Mahakaleshwar Jyotirlinga is the one that faces south, and the Shipra river and the Simhastha Kumbh held here every twelve years make it a major pilgrimage centre.",
+    "hi": { "text": "उज्जैन (प्राचीन अवंतिका) सात पवित्र नगरियों, सप्तपुरी, में से एक है। महाकालेश्वर ज्योतिर्लिंग दक्षिणमुखी माना जाता है, और शिप्रा नदी तथा यहाँ हर बारह वर्ष में होने वाला सिंहस्थ कुंभ इसे प्रमुख तीर्थ बनाते हैं।", "reviewed": false },
+    "mr": { "text": "उज्जैन (प्राचीन अवंतिका) हे सात पवित्र नगरींपैकी, म्हणजे सप्तपुरींपैकी, एक आहे. महाकालेश्वर ज्योतिर्लिंग दक्षिणमुखी मानले जाते, आणि क्षिप्रा नदी तसेच येथे दर बारा वर्षांनी होणारा सिंहस्थ कुंभ यामुळे हे प्रमुख तीर्थक्षेत्र आहे.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "The city of Mahakal on the Shipra",
+    "hi": { "text": "शिप्रा तट पर महाकाल की नगरी", "reviewed": false },
+    "mr": { "text": "क्षिप्राकाठची महाकालाची नगरी", "reviewed": false }
+  },
+  "overview": {
+    "en": "Ujjain is a calm, compact city on the Shipra river in the Malwa region. The Mahakaleshwar temple and the newer Mahakal Lok corridor sit at its centre, with Ram Ghat, Harsiddhi, Kal Bhairav and Sandipani Ashram all within a short ride. Days start before dawn with the bhasma aarti queue and end with lamps on the river. Expect large crowds on Mondays, in Shravan and on festival days.",
+    "hi": { "text": "उज्जैन मालवा क्षेत्र में शिप्रा नदी पर बसा शांत और सघन नगर है। महाकालेश्वर मंदिर और नया महाकाल लोक गलियारा इसके केंद्र में हैं, और राम घाट, हरसिद्धि, काल भैरव तथा सांदीपनि आश्रम थोड़ी दूरी पर हैं। दिन भोर से पहले भस्म आरती की कतार से शुरू होता है और नदी पर दीपों के साथ समाप्त होता है। सोमवार, श्रावण और त्योहारों के दिन भारी भीड़ की अपेक्षा रखें।", "reviewed": false },
+    "mr": { "text": "उज्जैन हे मालवा प्रदेशात क्षिप्रा नदीकाठी वसलेले शांत आणि सुटसुटीत नगर आहे. महाकालेश्वर मंदिर आणि नवीन महाकाल लोक मार्गिका त्याच्या केंद्रस्थानी आहेत, आणि राम घाट, हरसिद्धी, काल भैरव व सांदीपनी आश्रम थोड्या अंतरावर आहेत. दिवस पहाटेपूर्वी भस्म आरतीच्या रांगेने सुरू होतो आणि नदीवरील दिव्यांनी संपतो. सोमवार, श्रावण आणि सणाच्या दिवशी मोठ्या गर्दीची अपेक्षा ठेवा.", "reviewed": false }
+  },
+  "story": {
+    "en": "Tradition places Mahakal at Ujjain as the lord of time, and the Puranas name the city Avantika. The temple was raided and the Jyotirlinga damaged in the early 13th century, and it was rebuilt and revived under Maratha rule in the 18th century. The present complex has five levels, one of them underground, and the Nagchandreshwar shrine on the upper level opens for darshan only on Nag Panchami. Ujjain is also one of the four places linked to the drops of amrita in the Kumbh legend.",
+    "hi": { "text": "परंपरा महाकाल को उज्जैन में काल के स्वामी के रूप में मानती है, और पुराण इस नगर को अवंतिका कहते हैं। 13वीं शताब्दी के आरंभ में मंदिर पर आक्रमण हुआ और ज्योतिर्लिंग को क्षति पहुँची, और 18वीं शताब्दी में मराठा शासन के अंतर्गत इसका पुनर्निर्माण हुआ। वर्तमान परिसर में पाँच तल हैं, जिनमें एक भूमिगत है, और ऊपरी तल का नागचंद्रेश्वर मंदिर केवल नाग पंचमी पर दर्शन के लिए खुलता है। कुंभ की कथा में अमृत की बूँदों से जुड़े चार स्थानों में उज्जैन भी एक है।", "reviewed": false },
+    "mr": { "text": "परंपरा महाकालाला उज्जैनमध्ये कालाचा स्वामी मानते, आणि पुराणे या नगराला अवंतिका म्हणतात. 13व्या शतकाच्या सुरुवातीला मंदिरावर आक्रमण झाले आणि ज्योतिर्लिंगाचे नुकसान झाले, आणि 18व्या शतकात मराठा राजवटीत त्याचा जीर्णोद्धार झाला. सध्याच्या संकुलात पाच मजले आहेत, त्यातील एक भूमिगत आहे, आणि वरच्या मजल्यावरील नागचंद्रेश्वर मंदिर फक्त नागपंचमीला दर्शनासाठी उघडते. कुंभाच्या कथेत अमृताच्या थेंबांशी जोडलेल्या चार स्थानांपैकी उज्जैन एक आहे.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Puranic tradition and the recorded history of the Mahakaleshwar temple.",
+    "hi": { "text": "पौराणिक परंपरा और महाकालेश्वर मंदिर के अभिलेखित इतिहास से।", "reviewed": false },
+    "mr": { "text": "पौराणिक परंपरा आणि महाकालेश्वर मंदिराच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [10, 11, 12, 1, 2],
+    "seasons": [
+      {
+        "months": [10, 11, 12, 1, 2],
+        "rating": "best",
+        "weather": {
+          "en": "Cool, dry and sunny, averaging about 16 degrees, with the odd cold snap at night. The best weather for long days of walking and queues.",
+          "hi": { "text": "ठंडा, शुष्क और धूप भरा मौसम, औसतन लगभग 16 डिग्री, रात में कभी-कभी कड़ाके की ठंड। लंबे दिनों के पैदल घूमने और कतारों के लिए सर्वोत्तम मौसम।", "reviewed": false },
+          "mr": { "text": "थंड, कोरडे आणि सूर्यप्रकाशाचे हवामान, सरासरी सुमारे 16 अंश, रात्री कधीकधी कडाक्याची थंडी. लांब दिवसांच्या चालण्यासाठी आणि रांगांसाठी उत्तम हवामान.", "reviewed": false }
+        }
+      },
+      {
+        "months": [3],
+        "rating": "good",
+        "weather": {
+          "en": "Warming quickly, with hot afternoons. Mornings and evenings are still pleasant, so plan visits at the edges of the day.",
+          "hi": { "text": "तेज़ी से गर्मी बढ़ती है और दोपहर गर्म रहती है। सुबह और शाम अब भी सुहावनी हैं, इसलिए दिन के आरंभ और अंत में दर्शन रखें।", "reviewed": false },
+          "mr": { "text": "हवा झपाट्याने तापते आणि दुपार उष्ण असते. सकाळ आणि संध्याकाळ अजूनही सुखद असते, म्हणून दिवसाच्या सुरुवातीला आणि शेवटी दर्शन ठेवा.", "reviewed": false }
+        }
+      },
+      {
+        "months": [4, 5, 6],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot, often reaching 45 degrees in May. Go only at dawn and after sunset, wait indoors in the afternoon and drink water often.",
+          "hi": { "text": "बहुत गर्म, मई में अक्सर तापमान 45 डिग्री तक पहुँचता है। केवल भोर और सूर्यास्त के बाद जाएँ, दोपहर में भीतर रुकें और बार-बार पानी पिएँ।", "reviewed": false },
+          "mr": { "text": "खूप उष्ण, मे महिन्यात अनेकदा तापमान 45 अंशांपर्यंत पोहोचते. फक्त पहाटे आणि सूर्यास्तानंतर जा, दुपारी आत थांबा आणि वारंवार पाणी प्या.", "reviewed": false }
+        }
+      },
+      {
+        "months": [7, 8, 9],
+        "rating": "good",
+        "weather": {
+          "en": "Monsoon, with frequent thunderstorms and green surroundings at about 24 degrees. The Shipra can flood, ghats get slippery and Shravan Mondays bring very large crowds.",
+          "hi": { "text": "वर्षा ऋतु, लगभग 24 डिग्री पर बार-बार आँधी-बारिश और हरियाली। शिप्रा में बाढ़ आ सकती है, घाट फिसलन भरे हो जाते हैं और श्रावण के सोमवार को बहुत भीड़ रहती है।", "reviewed": false },
+          "mr": { "text": "पावसाळा, सुमारे 24 अंशांवर वारंवार वादळी पाऊस आणि हिरवाई. क्षिप्रेला पूर येऊ शकतो, घाट निसरडे होतात आणि श्रावणातील सोमवारी खूप गर्दी असते.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Devi Ahilyabai Holkar International Airport, Indore (IDR)", "hi": { "text": "देवी अहिल्याबाई होलकर अंतरराष्ट्रीय हवाई अड्डा, इंदौर (IDR)", "reviewed": false }, "mr": { "text": "देवी अहिल्याबाई होळकर आंतरराष्ट्रीय विमानतळ, इंदूर (IDR)", "reviewed": false } },
+      "km": 57,
+      "how": {
+        "en": "Ujjain has only an airstrip, so fly to Indore. Taxis and app cabs take about one hour to one hour 15 minutes to the temple area, depending on traffic. Buses and trains also run from Indore.",
+        "hi": { "text": "उज्जैन में केवल हवाई पट्टी है, इसलिए इंदौर तक उड़ान लें। टैक्सी और ऐप कैब से यातायात के अनुसार मंदिर क्षेत्र तक लगभग एक घंटे से सवा घंटे लगते हैं। इंदौर से बसें और रेलगाड़ियाँ भी चलती हैं।", "reviewed": false },
+        "mr": { "text": "उज्जैनमध्ये फक्त धावपट्टी आहे, म्हणून इंदूरपर्यंत विमानाने या. टॅक्सी आणि ॲप कॅबने वाहतुकीनुसार मंदिर परिसरात पोहोचायला सुमारे एक तास ते सव्वा तास लागतो. इंदूरहून बसेस आणि रेल्वेही धावतात.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Ujjain Junction (UJN)", "hi": { "text": "उज्जैन जंक्शन (UJN)", "reviewed": false }, "mr": { "text": "उज्जैन जंक्शन (UJN)", "reviewed": false } },
+      "km": 2,
+      "how": {
+        "en": "A main junction on the Western Railway with direct trains from Indore, Bhopal, Mumbai, Delhi and Ahmedabad. The station is a short auto or e-rickshaw ride from the temple. Smaller stations such as Chintaman Ganesh also serve the city.",
+        "hi": { "text": "पश्चिम रेलवे का प्रमुख जंक्शन, जहाँ इंदौर, भोपाल, मुंबई, दिल्ली और अहमदाबाद से सीधी गाड़ियाँ आती हैं। स्टेशन से मंदिर तक ऑटो या ई-रिक्शा की छोटी सवारी है। चिंतामण गणेश जैसे छोटे स्टेशन भी नगर की सेवा करते हैं।", "reviewed": false },
+        "mr": { "text": "पश्चिम रेल्वेवरील प्रमुख जंक्शन, जिथे इंदूर, भोपाळ, मुंबई, दिल्ली आणि अहमदाबादहून थेट गाड्या येतात. स्थानकापासून मंदिरापर्यंत ऑटो किंवा ई-रिक्षाने थोडेच अंतर आहे. चिंतामण गणेशसारखी लहान स्थानकेही शहराला सेवा देतात.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Indore is about 55 km away on a four-lane highway, and Bhopal is about 190 km. State and private buses run from Indore, Bhopal, Dewas and Ratlam. Check the current train and bus timetable before you plan.",
+        "hi": { "text": "इंदौर चार-लेन राजमार्ग से लगभग 55 किमी और भोपाल लगभग 190 किमी दूर है। इंदौर, भोपाल, देवास और रतलाम से राज्य और निजी बसें चलती हैं। योजना बनाने से पहले वर्तमान रेल और बस समय-सारणी देखें।", "reviewed": false },
+        "mr": { "text": "इंदूर चौपदरी महामार्गाने सुमारे 55 किमी आणि भोपाळ सुमारे 190 किमी अंतरावर आहे. इंदूर, भोपाळ, देवास आणि रतलामहून राज्य आणि खासगी बसेस धावतात. नियोजन करण्यापूर्वी सध्याचे रेल्वे आणि बसचे वेळापत्रक तपासा.", "reviewed": false }
+      },
+      "km": 55
+    }
+  },
+  "localTransport": {
+    "en": "The main sights are spread across the city but close to each other. Autos, e-rickshaws and app cabs are easy to find, and many pilgrims hire an auto for a half-day round of the temples. Agree the fare before you start. The area near Mahakaleshwar is walk-only at peak hours, so expect to walk the last stretch.",
+    "hi": { "text": "मुख्य दर्शनीय स्थल नगर में फैले हैं लेकिन एक-दूसरे के पास हैं। ऑटो, ई-रिक्शा और ऐप कैब आसानी से मिलते हैं, और कई श्रद्धालु मंदिरों के आधे दिन के भ्रमण के लिए ऑटो किराये पर लेते हैं। चलने से पहले किराया तय कर लें। भीड़ के समय महाकालेश्वर के पास का क्षेत्र केवल पैदल चलने योग्य रहता है, इसलिए अंतिम हिस्सा पैदल तय करना होगा।", "reviewed": false },
+    "mr": { "text": "प्रमुख स्थळे शहरात पसरलेली आहेत पण एकमेकांच्या जवळ आहेत. ऑटो, ई-रिक्षा आणि ॲप कॅब सहज मिळतात, आणि अनेक भाविक मंदिरांच्या अर्ध्या दिवसाच्या फेरीसाठी ऑटो भाड्याने घेतात. निघण्यापूर्वी भाडे ठरवा. गर्दीच्या वेळी महाकालेश्वराजवळचा परिसर फक्त पायी चालण्यासाठी असतो, म्हणून शेवटचा टप्पा चालत जावे लागेल.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "maha-shivaratri",
+      "note": {
+        "en": "A very large night of worship at Mahakaleshwar, with long queues. Check the temple's announcements for special arrangements.",
+        "hi": { "text": "महाकालेश्वर में पूजा की बहुत बड़ी रात, लंबी कतारों के साथ। विशेष व्यवस्थाओं के लिए मंदिर की सूचनाएँ देखें।", "reviewed": false },
+        "mr": { "text": "महाकालेश्वरात पूजेची खूप मोठी रात्र, लांब रांगांसह. विशेष व्यवस्थेसाठी मंदिराच्या सूचना पाहा.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "janmashtami",
+      "note": {
+        "en": "Celebrated at Sandipani Ashram, where Krishna is said to have studied, and across the city's Krishna temples.",
+        "hi": { "text": "सांदीपनि आश्रम में, जहाँ कृष्ण का अध्ययन करना बताया जाता है, और नगर के कृष्ण मंदिरों में मनाई जाती है।", "reviewed": false },
+        "mr": { "text": "सांदीपनी आश्रमात, जिथे कृष्णाने अध्ययन केल्याचे सांगितले जाते, आणि शहरातील कृष्ण मंदिरांमध्ये साजरी केली जाते.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "navratri-dussehra",
+      "note": {
+        "en": "Harsiddhi Temple is especially busy, with its lamp towers lit in the evenings.",
+        "hi": { "text": "हरसिद्धि मंदिर में विशेष भीड़ रहती है, और शाम को इसके दीप स्तंभ जलाए जाते हैं।", "reviewed": false },
+        "mr": { "text": "हरसिद्धी मंदिरात विशेष गर्दी असते, आणि संध्याकाळी तेथील दीपस्तंभ उजळले जातात.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Dewas (Chamunda Tekri)", "hi": { "text": "देवास (चामुंडा टेकरी)", "reviewed": false }, "mr": { "text": "देवास (चामुंडा टेकडी)", "reviewed": false } },
+      "km": 35,
+      "note": { "en": "Hill temples of Chamunda and Tulja Bhavani, an easy half-day trip.", "hi": { "text": "चामुंडा और तुलजा भवानी के पहाड़ी मंदिर, आधे दिन की सहज यात्रा।", "reviewed": false }, "mr": { "text": "चामुंडा आणि तुळजा भवानीची टेकडीवरील मंदिरे, अर्ध्या दिवसाची सोपी सहल.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Indore", "hi": { "text": "इंदौर", "reviewed": false }, "mr": { "text": "इंदूर", "reviewed": false } },
+      "km": 55,
+      "note": { "en": "The nearest big city, with Rajwada palace, Khajrana Ganesh temple and a well known street food scene.", "hi": { "text": "सबसे निकट का बड़ा शहर, राजवाड़ा महल, खजराना गणेश मंदिर और प्रसिद्ध स्ट्रीट फ़ूड के साथ।", "reviewed": false }, "mr": { "text": "सर्वात जवळचे मोठे शहर, राजवाडा महाल, खजराना गणेश मंदिर आणि प्रसिद्ध स्ट्रीट फूडसह.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Omkareshwar", "hi": { "text": "ओंकारेश्वर", "reviewed": false }, "mr": { "text": "ओंकारेश्वर", "reviewed": false } },
+      "km": 140,
+      "note": { "en": "Another Jyotirlinga on an island in the Narmada, often paired with Ujjain. Distance is approximate by road.", "hi": { "text": "नर्मदा के द्वीप पर एक और ज्योतिर्लिंग, जिसे अक्सर उज्जैन के साथ जोड़ा जाता है। दूरी सड़क मार्ग से अनुमानित है।", "reviewed": false }, "mr": { "text": "नर्मदेच्या बेटावरील आणखी एक ज्योतिर्लिंग, जे अनेकदा उज्जैनसोबत जोडले जाते. अंतर रस्त्याने अंदाजे आहे.", "reviewed": false } }
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero.webp",
+      "caption": { "en": "Ujjain and the Mahakaleshwar temple on the Shipra", "hi": { "text": "शिप्रा तट पर उज्जैन और महाकालेश्वर मंदिर", "reviewed": false }, "mr": { "text": "क्षिप्राकाठचे उज्जैन आणि महाकालेश्वर मंदिर", "reviewed": false } },
+      "credit": "AI-generated illustration for PranaDin",
+      "ai": true
+    }
+  ],
+  "sources": [
+    { "label": "Ujjain, Wikipedia", "url": "https://en.wikipedia.org/wiki/Ujjain" },
+    { "label": "Mahakaleshwar Jyotirlinga, Wikipedia", "url": "https://en.wikipedia.org/wiki/Mahakaleshwar_Jyotirlinga" },
+    { "label": "Shri Mahakaleshwar Temple, official website", "url": "https://www.shrimahakaleshwar.mp.gov.in/" },
+    { "label": "Madhya Pradesh Tourism", "url": "https://www.mptourism.com" }
+  ]
+}

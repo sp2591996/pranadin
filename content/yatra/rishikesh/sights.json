@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "rishikesh",
+  "sights": [
+    {
+      "id": "triveni-ghat",
+      "name": { "en": "Triveni Ghat and the Ganga aarti", "hi": { "text": "त्रिवेणी घाट और गंगा आरती", "reviewed": false }, "mr": { "text": "त्रिवेणी घाट आणि गंगा आरती", "reviewed": false } },
+      "desc": {
+        "en": "The main bathing ghat of the town, where the evening Ganga aarti is held with music, lamps and offerings to the fire. Pilgrims float small lamps on the river afterwards. It is lively and crowded at dusk, so arrive early for a place.",
+        "hi": { "text": "नगर का मुख्य स्नान घाट, जहाँ संध्या गंगा आरती संगीत, दीपों और अग्नि में आहुतियों के साथ होती है। बाद में श्रद्धालु नदी में छोटे दीप प्रवाहित करते हैं। गोधूलि में यह जीवंत और भीड़ भरा रहता है, इसलिए जगह के लिए जल्दी पहुँचें।", "reviewed": false },
+        "mr": { "text": "शहराचा मुख्य स्नान घाट, जिथे संध्याकाळची गंगा आरती संगीत, दिवे आणि अग्नीला आहुतींसह होते. नंतर भाविक नदीत लहान दिवे सोडतात. गोधूलीला हे उत्साही आणि गर्दीचे असते, म्हणून जागेसाठी लवकर पोहोचा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The aarti is daily at dusk and lasts about 45 minutes. The ghat is open at all hours. Timings shift with the season, so check locally.",
+        "hi": { "text": "आरती प्रतिदिन गोधूलि में होती है और लगभग 45 मिनट चलती है। घाट हर समय खुला रहता है। समय ऋतु के साथ बदलता है, इसलिए स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "आरती दररोज गोधूलीला होते आणि सुमारे 45 मिनिटे चालते. घाट सर्व वेळी उघडा असतो. वेळा ऋतूनुसार बदलतात, म्हणून स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Everyday modest clothes and a shawl for the cool evening. Remove footwear near the steps and keep valuables close.",
+        "hi": { "text": "सामान्य शालीन कपड़े और ठंडी शाम के लिए शॉल। सीढ़ियों के पास जूते उतारें और कीमती सामान पास रखें।", "reviewed": false },
+        "mr": { "text": "रोजचे साधे कपडे आणि थंड संध्याकाळसाठी शाल. पायऱ्यांजवळ पादत्राणे काढा आणि मौल्यवान वस्तू जवळ ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "ram-laxman-jhula",
+      "name": { "en": "Ram Jhula and the Laxman Jhula area", "hi": { "text": "राम झूला और लक्ष्मण झूला क्षेत्र", "reviewed": false }, "mr": { "text": "राम झुला आणि लक्ष्मण झुला परिसर", "reviewed": false } },
+      "desc": {
+        "en": "Two famous footbridge areas on the Ganga, lined with ashrams, shops and small temples. The Laxman Jhula is linked by tradition to Lakshmana crossing the river on ropes. Walk the lanes on either bank for the river views, and check which bridges are open before you cross.",
+        "hi": { "text": "गंगा पर दो प्रसिद्ध पैदल पुल क्षेत्र, जहाँ आश्रम, दुकानें और छोटे मंदिर हैं। लक्ष्मण झूला परंपरा से लक्ष्मण के रस्सियों पर नदी पार करने से जुड़ा है। नदी के दृश्य के लिए दोनों तटों की गलियों में घूमें, और पार करने से पहले देख लें कि कौन-से पुल खुले हैं।", "reviewed": false },
+        "mr": { "text": "गंगेवरील दोन प्रसिद्ध पादचारी पूल परिसर, जिथे आश्रम, दुकाने आणि लहान मंदिरे आहेत. लक्ष्मण झुला परंपरेने लक्ष्मणाने दोऱ्यांवरून नदी ओलांडण्याशी जोडलेला आहे. नदीच्या दृश्यासाठी दोन्ही काठांवरील गल्ल्यांमधून फिरा, आणि ओलांडण्यापूर्वी कोणते पूल खुले आहेत ते पाहा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open through the day, and the lanes stay lively into the evening. Bridge access can change for repair or safety, so check locally.",
+        "hi": { "text": "दिन भर खुला, और गलियाँ शाम तक जीवंत रहती हैं। मरम्मत या सुरक्षा के लिए पुल की पहुँच बदल सकती है, इसलिए स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "दिवसभर उघडे, आणि गल्ल्या संध्याकाळपर्यंत उत्साही राहतात. दुरुस्ती किंवा सुरक्षेसाठी पुलांचा प्रवेश बदलू शकतो, म्हणून स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Comfortable walking shoes. The bridges are narrow and shared with two-wheelers and monkeys, so keep bags closed and hold on to children.",
+        "hi": { "text": "चलने के आरामदायक जूते। पुल संकरे हैं और दोपहिया वाहनों व बंदरों के साथ साझा होते हैं, इसलिए थैले बंद रखें और बच्चों को पकड़े रखें।", "reviewed": false },
+        "mr": { "text": "चालण्याचे आरामदायी बूट. पूल अरुंद आहेत आणि दुचाकी व माकडांसोबत सामायिक असतात, म्हणून पिशव्या बंद ठेवा आणि मुलांना धरून ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "parmarth-niketan",
+      "name": { "en": "Parmarth Niketan and its riverside ghat", "hi": { "text": "परमार्थ निकेतन और उसका नदी तट घाट", "reviewed": false }, "mr": { "text": "परमार्थ निकेतन आणि त्याचा नदीकाठचा घाट", "reviewed": false } },
+      "desc": {
+        "en": "A large ashram on the riverbank with a ghat, gardens and a daily evening aarti with devotional singing. It is a calmer alternative to the aarti at Triveni Ghat, and it also runs yoga and meditation sessions for guests. Fees and rules differ, so ask the office.",
+        "hi": { "text": "नदी तट पर बड़ा आश्रम, जिसमें घाट, उद्यान और भक्ति गायन के साथ प्रतिदिन संध्या आरती होती है। यह त्रिवेणी घाट की आरती का अपेक्षाकृत शांत विकल्प है, और यहाँ अतिथियों के लिए योग और ध्यान सत्र भी चलते हैं। शुल्क और नियम अलग-अलग हैं, इसलिए कार्यालय से पूछें।", "reviewed": false },
+        "mr": { "text": "नदीकाठावरचा मोठा आश्रम, ज्यात घाट, बागा आणि भक्तिगायनासह दररोज संध्याकाळची आरती असते. हे त्रिवेणी घाटावरील आरतीला तुलनेने शांत पर्याय आहे, आणि येथे पाहुण्यांसाठी योग आणि ध्यान सत्रेही चालतात. शुल्क आणि नियम वेगवेगळे आहेत, म्हणून कार्यालयात विचारा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The evening aarti is at dusk, and the grounds are usually open through the day. Check locally.",
+        "hi": { "text": "संध्या आरती गोधूलि में होती है और परिसर आमतौर पर दिन भर खुला रहता है। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "संध्या आरती गोधूलीला असते आणि परिसर सहसा दिवसभर उघडा असतो. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, comfortable clothes that cover shoulders and knees. Remove footwear at the ghat and the prayer areas.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन, आरामदायक कपड़े। घाट और प्रार्थना स्थलों पर जूते उतारें।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे साधे, आरामदायी कपडे. घाट आणि प्रार्थना स्थळी पादत्राणे काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "neelkanth-mahadev",
+      "name": { "en": "Neelkanth Mahadev Temple", "hi": { "text": "नीलकंठ महादेव मंदिर", "reviewed": false }, "mr": { "text": "नीळकंठ महादेव मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A Shiva temple in the forest about 28 km from the town, linked by tradition to Shiva drinking the poison from the churning of the ocean. It is reached by road, or by a long trek through the forest for experienced walkers. It is crowded on Mondays, in Shravan and on Shivaratri.",
+        "hi": { "text": "नगर से लगभग 28 किमी दूर वन में शिव मंदिर, जो परंपरा से समुद्र मंथन के विष को शिव द्वारा पीने से जुड़ा है। यहाँ सड़क से या अनुभवी यात्रियों के लिए वन से होकर लंबी पैदल यात्रा से पहुँचा जाता है। सोमवार, श्रावण और शिवरात्रि पर भीड़ रहती है।", "reviewed": false },
+        "mr": { "text": "शहरापासून सुमारे 28 किमी अंतरावर जंगलातील शिव मंदिर, जे परंपरेने समुद्रमंथनातील विष शिवाने प्राशन केल्याशी जोडलेले आहे. येथे रस्त्याने किंवा अनुभवी चालणाऱ्यांसाठी जंगलातून लांब पायी वाटेने पोहोचता येते. सोमवार, श्रावण आणि शिवरात्रीला गर्दी असते.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from early morning to evening. Allow half a day including the road. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह जल्दी से शाम तक खुला। सड़क समेत आधा दिन रखें। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटेपासून संध्याकाळपर्यंत उघडे. रस्त्यासह अर्धा दिवस ठेवा. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes and sturdy shoes. Carry water, and for the trek a hat and rain cover. Remove footwear outside the temple.",
+        "hi": { "text": "शालीन कपड़े और मज़बूत जूते। पानी साथ रखें, और पैदल यात्रा के लिए टोपी और बरसात का आवरण। मंदिर के बाहर जूते उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे आणि मजबूत बूट. पाणी सोबत ठेवा, आणि पायी वाटेसाठी टोपी आणि पावसाचे आवरण. मंदिराबाहेर पादत्राणे काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "beatles-ashram",
+      "name": { "en": "Maharishi Mahesh Yogi's ashram (the Beatles Ashram)", "hi": { "text": "महर्षि महेश योगी का आश्रम (बीटल्स आश्रम)", "reviewed": false }, "mr": { "text": "महर्षी महेश योगींचा आश्रम (बीटल्स आश्रम)", "reviewed": false } },
+      "desc": {
+        "en": "A ruined ashram above the river where the Beatles stayed in 1968. Old meditation cells and domes are now covered with art and forest. A short, interesting visit for those curious about the town's modern story, though it is not a temple.",
+        "hi": { "text": "नदी के ऊपर खंडहर आश्रम जहाँ 1968 में बीटल्स ठहरे थे। पुरानी ध्यान कुटियाएँ और गुंबद अब कलाकृतियों और जंगल से ढके हैं। नगर की आधुनिक कथा जानने के इच्छुक लोगों के लिए छोटा, रोचक भ्रमण, हालाँकि यह मंदिर नहीं है।", "reviewed": false },
+        "mr": { "text": "नदीच्या वर असलेला भग्न आश्रम जिथे 1968 मध्ये बीटल्स राहिले होते. जुन्या ध्यान कुटी आणि घुमट आता कलाकृती आणि जंगलाने झाकलेले आहेत. शहराची आधुनिक कथा जाणून घेण्यास उत्सुक असलेल्यांसाठी लहान, रोचक भेट, जरी हे मंदिर नाही.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Entry is usually by ticket during daylight hours, and rules change with the forest authorities. Check locally.",
+        "hi": { "text": "प्रवेश आमतौर पर दिन के उजाले में टिकट से होता है, और नियम वन विभाग के साथ बदलते रहते हैं। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "प्रवेश सहसा दिवसाच्या उजेडात तिकिटाने असतो, आणि नियम वन विभागासोबत बदलतात. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Comfortable shoes and light clothes. The ground is uneven, so go carefully and keep to the marked paths.",
+        "hi": { "text": "आरामदायक जूते और हल्के कपड़े। ज़मीन असमान है, इसलिए सावधानी से चलें और चिह्नित रास्तों पर रहें।", "reviewed": false },
+        "mr": { "text": "आरामदायी बूट आणि हलके कपडे. जमीन असमान आहे, म्हणून काळजीपूर्वक चाला आणि चिन्हांकित वाटांवर राहा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early. Mornings and weekdays are the calmest at the ghats and temples. Weekends, the Char Dham season in May and June and festival days are crowded, and traffic through the town slows to a crawl.",
+        "hi": { "text": "जल्दी जाएँ। घाटों और मंदिरों पर सुबह और कार्यदिवस सबसे शांत होते हैं। सप्ताहांत, मई-जून का चार धाम मौसम और त्योहार के दिन भीड़ भरे होते हैं, और नगर से यातायात रेंगता है।", "reviewed": false },
+        "mr": { "text": "लवकर जा. घाट आणि मंदिरांवर सकाळ आणि आठवड्याचे दिवस सर्वात शांत असतात. सप्ताहांत, मे-जूनचा चार धाम हंगाम आणि सणांचे दिवस गर्दीचे असतात, आणि शहरातून वाहतूक रेंगाळते.", "reviewed": false }
+      },
+      {
+        "en": "For the evening aarti, reach the ghat about 45 minutes before dusk. Keep your phone and bag safe in the crowd, and stay behind the lines marked by staff and volunteers.",
+        "hi": { "text": "संध्या आरती के लिए गोधूलि से लगभग 45 मिनट पहले घाट पहुँचें। भीड़ में फ़ोन और थैला सुरक्षित रखें और कर्मचारियों व स्वयंसेवकों द्वारा चिह्नित रेखाओं के पीछे रहें।", "reviewed": false },
+        "mr": { "text": "संध्या आरतीसाठी गोधूलीच्या सुमारे 45 मिनिटे आधी घाटावर पोहोचा. गर्दीत फोन आणि पिशवी सुरक्षित ठेवा आणि कर्मचारी व स्वयंसेवकांनी चिन्हांकित केलेल्या रेषांच्या मागे राहा.", "reviewed": false }
+      },
+      {
+        "en": "Priests and guides may offer rites or a fast route in. You may politely decline. Agree any donation or fee in advance and ask for the official receipt where there is one.",
+        "hi": { "text": "पुजारी और गाइड कर्मकांड या जल्दी प्रवेश का प्रस्ताव दे सकते हैं। आप विनम्रता से मना कर सकते हैं। किसी भी दान या शुल्क को पहले तय करें और जहाँ रसीद हो वहाँ आधिकारिक रसीद माँगें।", "reviewed": false },
+        "mr": { "text": "पुजारी आणि मार्गदर्शक विधी किंवा जलद प्रवेश देऊ करू शकतात. तुम्ही नम्रपणे नकार देऊ शकता. कोणतेही दान किंवा शुल्क आधी ठरवा आणि जिथे पावती असते तिथे अधिकृत पावती मागा.", "reviewed": false }
+      },
+      {
+        "en": "Ashrams have their own rules for visitors, such as quiet hours, dress, gate closing times and limits on photos. Read them on arrival and regard the space as a place of practice, not a tourist stop.",
+        "hi": { "text": "आश्रमों में आगंतुकों के अपने नियम होते हैं, जैसे मौन के घंटे, पहनावा, द्वार बंद होने का समय और तस्वीरों पर सीमा। पहुँचकर उन्हें पढ़ें और परिसर को साधना का स्थान मानें, पर्यटन पड़ाव नहीं।", "reviewed": false },
+        "mr": { "text": "आश्रमांत पाहुण्यांसाठी स्वतःचे नियम असतात, जसे मौनाचे तास, पोशाख, दार बंद होण्याची वेळ आणि छायाचित्रांवरील मर्यादा. पोहोचल्यावर ते वाचा आणि परिसराला साधनेचे स्थान माना, पर्यटन थांबा नाही.", "reviewed": false }
+      },
+      {
+        "en": "Older visitors can plan fewer stops a day. Many lanes near the ghats have steps and no vehicle access, so ask your stay about the easiest approach and the nearest drop-off point.",
+        "hi": { "text": "वृद्ध यात्री दिन में कम पड़ाव रख सकते हैं। घाटों के पास की कई गलियों में सीढ़ियाँ हैं और वाहन पहुँच नहीं है, इसलिए अपने ठहरने के स्थान से सबसे आसान मार्ग और निकटतम उतरने का स्थान पूछें।", "reviewed": false },
+        "mr": { "text": "ज्येष्ठ यात्रेकरू दिवसाला कमी थांबे ठेवू शकतात. घाटांजवळच्या अनेक गल्ल्यांत पायऱ्या आहेत आणि वाहन प्रवेश नाही, म्हणून तुमच्या मुक्कामाच्या ठिकाणी सर्वात सोपा मार्ग आणि जवळचा उतरण्याचा बिंदू विचारा.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: ashrams and the Uttarakhand tourism department publish their own official websites with session details, rules and notices. This app does not book or sell anything. Use only the official sites and check the current process yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: आश्रमों और उत्तराखंड पर्यटन विभाग की अपनी आधिकारिक वेबसाइटें हैं जिन पर सत्रों का विवरण, नियम और सूचनाएँ होती हैं। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइटों का उपयोग करें और वर्तमान प्रक्रिया स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: आश्रम आणि उत्तराखंड पर्यटन विभाग यांची स्वतःची अधिकृत संकेतस्थळे आहेत ज्यावर सत्रांचा तपशील, नियम आणि सूचना असतात. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळे वापरा आणि सध्याची प्रक्रिया स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "dwarka",
+  "sights": [
+    {
+      "id": "dwarkadhish",
+      "name": { "en": "Dwarkadhish Temple (Jagat Mandir)", "hi": { "text": "द्वारकाधीश मंदिर (जगत मंदिर)", "reviewed": false }, "mr": { "text": "द्वारकाधीश मंदिर (जगत मंदिर)", "reviewed": false } },
+      "desc": {
+        "en": "The main Krishna temple, a five-storey limestone and sandstone shrine on 72 pillars. Enter by the Moksha Dwara from the market side and leave by the Swarga Dwara, which opens to 56 steps down to the Gomti. Allow two to three hours.",
+        "hi": { "text": "कृष्ण का मुख्य मंदिर, 72 स्तंभों पर टिका चूना-पत्थर और बलुआ पत्थर का पाँच मंज़िला मंदिर। बाज़ार की ओर के मोक्ष द्वार से प्रवेश करें और स्वर्ग द्वार से निकलें, जो गोमती तक 56 सीढ़ियों पर खुलता है। दो से तीन घंटे रखें।", "reviewed": false },
+        "mr": { "text": "कृष्णाचे मुख्य मंदिर, 72 खांबांवर उभे चुनखडी आणि वाळूच्या दगडाचे पाच मजली मंदिर. बाजाराच्या बाजूच्या मोक्ष द्वारातून प्रवेश करा आणि स्वर्ग द्वारातून बाहेर पडा, जे गोमतीपर्यंत 56 पायऱ्यांवर उघडते. दोन ते तीन तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from about 6 am to 1 pm and again from about 5 pm to 9:30 pm, with a break in the afternoon. Check locally and on the temple's timetable, as times change on festival days.",
+        "hi": { "text": "आमतौर पर सुबह लगभग 6 बजे से दोपहर 1 बजे तक और फिर शाम लगभग 5 बजे से रात 9:30 बजे तक खुला, दोपहर में अंतराल के साथ। स्थानीय रूप से और मंदिर की समय-सारणी देखें, क्योंकि त्योहार के दिन समय बदल जाते हैं।", "reviewed": false },
+        "mr": { "text": "सहसा सकाळी सुमारे 6 ते दुपारी 1 आणि पुन्हा संध्याकाळी सुमारे 5 ते रात्री 9:30 पर्यंत उघडे, दुपारी विश्रांतीसह. स्थानिक पातळीवर आणि मंदिराचे वेळापत्रक तपासा, कारण सणाच्या दिवशी वेळा बदलतात.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes covering shoulders and knees, and no footwear inside. Phones, cameras and bags are usually kept at the cloakroom outside. Carry a government photo ID.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन कपड़े, और भीतर जूते-चप्पल नहीं। फ़ोन, कैमरे और बैग आमतौर पर बाहर के क्लॉकरूम में रखे जाते हैं। सरकारी फ़ोटो पहचान पत्र साथ रखें।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे साधे कपडे, आणि आत पादत्राणे नाहीत. फोन, कॅमेरे आणि पिशव्या सहसा बाहेरच्या क्लॉकरूममध्ये ठेवल्या जातात. सरकारी फोटो ओळखपत्र सोबत ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "gomti-ghat",
+      "name": { "en": "Gomti Ghat and Sangam", "hi": { "text": "गोमती घाट और संगम", "reviewed": false }, "mr": { "text": "गोमती घाट आणि संगम", "reviewed": false } },
+      "desc": {
+        "en": "The steps where pilgrims bathe before darshan, with small shrines to the sea, Saraswati and Lakshmi. Allow an hour, more if you take a holy dip or sit for the sunset.",
+        "hi": { "text": "वे सीढ़ियाँ जहाँ श्रद्धालु दर्शन से पहले स्नान करते हैं, समुद्र, सरस्वती और लक्ष्मी के छोटे मंदिरों के साथ। एक घंटा रखें, पवित्र स्नान या सूर्यास्त के लिए अधिक।", "reviewed": false },
+        "mr": { "text": "ज्या पायऱ्यांवर भाविक दर्शनापूर्वी स्नान करतात, समुद्र, सरस्वती आणि लक्ष्मीच्या लहान मंदिरांसह. एक तास ठेवा, पवित्र स्नान किंवा सूर्यास्तासाठी अधिक.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open at all hours. Early morning is best, and the sunset hour is lovely. Check locally, as high tide can cover the lower steps.",
+        "hi": { "text": "हर समय खुला। सुबह जल्दी सर्वोत्तम है और सूर्यास्त का समय सुंदर रहता है। स्थानीय रूप से जाँचें, क्योंकि ज्वार में निचली सीढ़ियाँ डूब सकती हैं।", "reviewed": false },
+        "mr": { "text": "सर्व वेळी उघडा. पहाटे सर्वोत्तम आणि सूर्यास्ताची वेळ सुंदर असते. स्थानिक पातळीवर तपासा, कारण भरतीच्या वेळी खालच्या पायऱ्या पाण्याखाली जाऊ शकतात.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. If you bathe, carry a change of clothes and keep valuables with a companion. Steps are slippery near the water.",
+        "hi": { "text": "शालीन कपड़े। स्नान करें तो बदलने के कपड़े साथ रखें और कीमती सामान साथी के पास रखें। पानी के पास सीढ़ियाँ फिसलन भरी हैं।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. स्नान करणार असाल तर बदलायचे कपडे सोबत ठेवा आणि मौल्यवान वस्तू सोबत्याकडे ठेवा. पाण्याजवळ पायऱ्या निसरड्या आहेत.", "reviewed": false }
+      }
+    },
+    {
+      "id": "rukmini-temple",
+      "name": { "en": "Rukmini Devi Temple", "hi": { "text": "रुक्मिणी देवी मंदिर", "reviewed": false }, "mr": { "text": "रुक्मिणी देवी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A temple of Krishna's chief queen, about 2 km from the town, known for its carved walls. Allow about an hour including the auto ride.",
+        "hi": { "text": "कृष्ण की पटरानी का मंदिर, नगर से लगभग 2 किमी दूर, अपनी नक्काशीदार दीवारों के लिए जाना जाता है। ऑटो की सवारी सहित लगभग एक घंटा रखें।", "reviewed": false },
+        "mr": { "text": "कृष्णाच्या पट्टराणीचे मंदिर, शहरापासून सुमारे 2 किमी, कोरीव भिंतींसाठी ओळखले जाते. ऑटो प्रवासासह सुमारे एक तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the morning and again in the late afternoon, with a midday break. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह और फिर देर दोपहर में खुला, मध्याह्न में अंतराल के साथ। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा सकाळी आणि पुन्हा उशिरा दुपारी उघडे, मध्यान्ही विश्रांतीसह. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes and no footwear inside. Ask before taking photographs.",
+        "hi": { "text": "शालीन कपड़े और भीतर जूते-चप्पल नहीं। तस्वीर लेने से पहले पूछें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे आणि आत पादत्राणे नाहीत. छायाचित्र घेण्यापूर्वी विचारा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "nageshwar",
+      "name": { "en": "Nageshwar Jyotirlinga", "hi": { "text": "नागेश्वर ज्योतिर्लिंग", "reviewed": false }, "mr": { "text": "नागेश्वर ज्योतिर्लिंग", "reviewed": false } },
+      "desc": {
+        "en": "A Shiva temple counted among the twelve Jyotirlingas, about 16 km from the Dwarkadhish temple on the road to Okha. Allow one to two hours with travel.",
+        "hi": { "text": "बारह ज्योतिर्लिंगों में गिना जाने वाला शिव मंदिर, ओखा मार्ग पर द्वारकाधीश मंदिर से लगभग 16 किमी दूर। यात्रा सहित एक से दो घंटे रखें।", "reviewed": false },
+        "mr": { "text": "बारा ज्योतिर्लिंगांमध्ये गणले जाणारे शिवमंदिर, ओखा मार्गावर द्वारकाधीश मंदिरापासून सुमारे 16 किमी. प्रवासासह एक ते दोन तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from early morning to evening, with a break at midday. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह जल्दी से शाम तक खुला, मध्याह्न में अंतराल के साथ। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटेपासून संध्याकाळपर्यंत उघडे, मध्यान्ही विश्रांतीसह. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Some rituals ask for traditional wear for abhishek. Footwear is left outside.",
+        "hi": { "text": "शालीन कपड़े। कुछ अनुष्ठानों में अभिषेक के लिए पारंपरिक वेश अपेक्षित है। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. काही विधींमध्ये अभिषेकासाठी पारंपरिक वेश अपेक्षित आहे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "bet-dwarka",
+      "name": { "en": "Bet Dwarka", "hi": { "text": "बेट द्वारका", "reviewed": false }, "mr": { "text": "बेट द्वारका", "reviewed": false } },
+      "desc": {
+        "en": "An island off the coast held to be Krishna's original residence, with a Pushtimarg temple. It is reached from Okha by the Sudarshan Setu bridge or by boat. Allow half a day.",
+        "hi": { "text": "तट के पास का द्वीप जिसे कृष्ण का मूल निवास माना जाता है, पुष्टिमार्ग मंदिर के साथ। ओखा से सुदर्शन सेतु पुल या नौका द्वारा पहुँचा जाता है। आधा दिन रखें।", "reviewed": false },
+        "mr": { "text": "किनाऱ्यापलीकडील बेट जे कृष्णाचे मूळ निवासस्थान मानले जाते, पुष्टिमार्गी मंदिरासह. ओखाहून सुदर्शन सेतू पुलाने किंवा नावेने पोहोचता येते. अर्धा दिवस ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Temple hours are limited and can shift. Boats may stop in rough weather or the monsoon. Check locally before you go.",
+        "hi": { "text": "मंदिर के समय सीमित हैं और बदल सकते हैं। खराब मौसम या वर्षा में नौकाएँ रुक सकती हैं। जाने से पहले स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "मंदिराच्या वेळा मर्यादित आहेत आणि बदलू शकतात. खराब हवामानात किंवा पावसाळ्यात नावा थांबू शकतात. जाण्यापूर्वी स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes and sturdy sandals. Wear a life jacket on the boat and avoid overcrowded crossings.",
+        "hi": { "text": "शालीन कपड़े और मज़बूत सैंडल। नौका में लाइफ़ जैकेट पहनें और अत्यधिक भीड़ वाली फेरी से बचें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे आणि मजबूत सँडल. नावेत लाइफ जॅकेट घाला आणि अति गर्दीच्या फेऱ्या टाळा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early on a weekday and plan around the afternoon break. Janmashtami, Holi and long weekends are very crowded.",
+        "hi": { "text": "कार्यदिवस पर जल्दी जाएँ और दोपहर के अंतराल के हिसाब से योजना बनाएँ। जन्माष्टमी, होली और लंबे सप्ताहांत में बहुत भीड़ रहती है।", "reviewed": false },
+        "mr": { "text": "आठवड्याच्या दिवशी लवकर जा आणि दुपारच्या खंडानुसार नियोजन करा. जन्माष्टमी, होळी आणि लांब सप्ताहांताला खूप गर्दी असते.", "reviewed": false }
+      },
+      {
+        "en": "Security checks are strict. Carry a government photo ID and leave phones, cameras and bags at the cloakroom before the queue.",
+        "hi": { "text": "सुरक्षा जाँच कड़ी होती है। सरकारी फ़ोटो पहचान पत्र साथ रखें और कतार से पहले फ़ोन, कैमरे और बैग क्लॉकरूम में रखें।", "reviewed": false },
+        "mr": { "text": "सुरक्षा तपासणी कडक असते. सरकारी फोटो ओळखपत्र सोबत ठेवा आणि रांगेपूर्वी फोन, कॅमेरे आणि पिशव्या क्लॉकरूममध्ये ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "Priests and touts near the ghat and the gate may offer paid darshan or rituals. Ask the price in advance, decline politely if you do not want it, and use the temple's official counters.",
+        "hi": { "text": "घाट और द्वार के पास पुजारी और दलाल सशुल्क दर्शन या अनुष्ठान का प्रस्ताव दे सकते हैं। पहले कीमत पूछें, न चाहें तो विनम्रता से मना करें, और मंदिर के आधिकारिक काउंटर का उपयोग करें।", "reviewed": false },
+        "mr": { "text": "घाट आणि दारापाशी पुजारी आणि दलाल सशुल्क दर्शन किंवा विधींचा प्रस्ताव देऊ शकतात. आधी किंमत विचारा, नको असेल तर नम्रपणे नकार द्या, आणि मंदिराच्या अधिकृत काउंटरचा वापर करा.", "reviewed": false }
+      },
+      {
+        "en": "Watch the flag hoisting on the spire, which happens several times a day. A new flag is offered by devotees for a fee paid to the temple trust.",
+        "hi": { "text": "शिखर पर ध्वजारोहण देखें, जो दिन में कई बार होता है। श्रद्धालु मंदिर ट्रस्ट को शुल्क देकर नई ध्वजा अर्पित करते हैं।", "reviewed": false },
+        "mr": { "text": "शिखरावरील ध्वजारोहण पाहा, जे दिवसातून अनेक वेळा होते. भाविक मंदिर ट्रस्टला शुल्क देऊन नवीन ध्वजा अर्पण करतात.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "The temple's website, dwarkadhish.org, lists the timetable, online seva and bhog details, and a WhatsApp contact. Use only the official site and channels, and do not pay anyone who contacts you privately.",
+      "hi": { "text": "मंदिर की वेबसाइट, dwarkadhish.org, समय-सारणी, ऑनलाइन सेवा और भोग का विवरण और एक व्हाट्सऐप संपर्क देती है। केवल आधिकारिक वेबसाइट और माध्यमों का उपयोग करें, और निजी तौर पर संपर्क करने वाले किसी को भुगतान न करें।", "reviewed": false },
+      "mr": { "text": "मंदिराचे संकेतस्थळ, dwarkadhish.org, वेळापत्रक, ऑनलाइन सेवा आणि भोगाचा तपशील आणि एक व्हॉट्सॲप संपर्क देते. फक्त अधिकृत संकेतस्थळ आणि माध्यमे वापरा, आणि खासगीत संपर्क साधणाऱ्या कोणालाही पैसे देऊ नका.", "reviewed": false }
+    }
+  }
+}

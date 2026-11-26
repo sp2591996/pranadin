@@ -1,0 +1,172 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "haridwar",
+  "name": { "en": "Haridwar", "hi": { "text": "हरिद्वार", "reviewed": false }, "mr": { "text": "हरिद्वार", "reviewed": false } },
+  "state": { "en": "Uttarakhand", "hi": { "text": "उत्तराखंड", "reviewed": false }, "mr": { "text": "उत्तराखंड", "reviewed": false } },
+  "stateKey": "uttarakhand",
+  "traditions": ["hindu"],
+  "deity": {
+    "en": "The Ganga, and Lord Vishnu and Lord Shiva (Hari and Har). The city is also home to the Shakti shrines of Mansa Devi, Chandi Devi and Maya Devi.",
+    "hi": { "text": "गंगा, तथा भगवान विष्णु और भगवान शिव (हरि और हर)। नगर में मनसा देवी, चंडी देवी और माया देवी के शक्ति मंदिर भी हैं।", "reviewed": false },
+    "mr": { "text": "गंगा, तसेच भगवान विष्णू आणि भगवान शिव (हरि आणि हर). शहरात मनसा देवी, चंडी देवी आणि माया देवी यांची शक्ती मंदिरेही आहेत.", "reviewed": false }
+  },
+  "significance": {
+    "en": "Haridwar is the place where the Ganga leaves the mountains and enters the plains, and it is one of the seven sacred cities of Hindu tradition. A dip at Har Ki Pauri and the evening Ganga aarti are central to a visit. The Kumbh Mela is held here once every twelve years, and many families come to perform rites for their ancestors.",
+    "hi": { "text": "हरिद्वार वह स्थान है जहाँ गंगा पर्वतों से निकलकर मैदान में आती है, और यह हिंदू परंपरा की सात पवित्र नगरियों में से एक है। हर की पौड़ी पर स्नान और संध्या गंगा आरती यात्रा के केंद्र में हैं। यहाँ बारह वर्ष में एक बार कुंभ मेला लगता है, और कई परिवार पितरों के लिए कर्म करने आते हैं।", "reviewed": false },
+    "mr": { "text": "हरिद्वार हे ते ठिकाण आहे जिथे गंगा पर्वतांतून बाहेर पडून मैदानात येते, आणि हिंदू परंपरेतील सात पवित्र नगरींपैकी ते एक आहे. हर की पौडीवरील स्नान आणि संध्याकाळची गंगा आरती भेटीच्या केंद्रस्थानी आहेत. येथे बारा वर्षांतून एकदा कुंभमेळा भरतो, आणि अनेक कुटुंबे पितरांसाठी विधी करण्यासाठी येतात.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "Gateway of the Ganga at the foot of the Himalaya",
+    "hi": { "text": "हिमालय की तलहटी में गंगा का द्वार", "reviewed": false },
+    "mr": { "text": "हिमालयाच्या पायथ्याशी गंगेचे द्वार", "reviewed": false }
+  },
+  "overview": {
+    "en": "Haridwar lies on the right bank of the Ganga at the foot of the Shivalik hills, at about 314 m above sea level. The river runs fast and clear here between stone ghats, with Har Ki Pauri at the centre. Each evening at dusk the Ganga aarti fills the ghat with lamps, bells and crowds. Hill temples on both sides of the city can be reached by ropeway or on foot. It is also the main gateway to the Char Dham yatra and to Rishikesh, so many visitors pass through for a night or two.",
+    "hi": { "text": "हरिद्वार शिवालिक पहाड़ियों की तलहटी में गंगा के दाहिने तट पर, समुद्र तल से लगभग 314 मीटर की ऊँचाई पर है। यहाँ नदी पत्थर के घाटों के बीच तेज़ और निर्मल बहती है, जिनके केंद्र में हर की पौड़ी है। हर शाम गोधूलि में गंगा आरती घाट को दीपों, घंटियों और भीड़ से भर देती है। नगर के दोनों ओर की पहाड़ी पर बने मंदिरों तक रोपवे या पैदल जाया जा सकता है। यह चार धाम यात्रा और ऋषिकेश का मुख्य द्वार भी है, इसलिए कई यात्री एक-दो रात यहाँ रुकते हैं।", "reviewed": false },
+    "mr": { "text": "हरिद्वार शिवालिक टेकड्यांच्या पायथ्याशी गंगेच्या उजव्या काठावर, समुद्रसपाटीपासून सुमारे 314 मीटर उंचीवर वसले आहे. येथे नदी दगडी घाटांमधून वेगाने आणि स्वच्छ वाहते, आणि हर की पौडी त्यांच्या केंद्रस्थानी आहे. दररोज संध्याकाळी गोधूलीला गंगा आरती घाटाला दिवे, घंटा आणि गर्दीने भरून टाकते. शहराच्या दोन्ही बाजूंच्या टेकडीवरील मंदिरांपर्यंत रोपवेने किंवा चालत जाता येते. हे चार धाम यात्रा आणि ऋषिकेशचे मुख्य प्रवेशद्वारही आहे, म्हणून अनेक प्रवासी एक-दोन रात्री येथे थांबतात.", "reviewed": false }
+  },
+  "story": {
+    "en": "Tradition says that drops of amrit fell at four places during the churning of the ocean, and Haridwar is one of them, which is why the Kumbh Mela is held here. The city has older names such as Mayapuri, after Maya Devi, and Gangadwara, the door of the Ganga. Har Ki Pauri, the steps of Hari, is said to mark a footprint of Vishnu on the stone. The ghat is traditionally attributed to King Vikramaditya, and the present ghat was rebuilt in later centuries.",
+    "hi": { "text": "परंपरा कहती है कि समुद्र मंथन के समय अमृत की बूँदें चार स्थानों पर गिरीं, और हरिद्वार उनमें से एक है, इसीलिए यहाँ कुंभ मेला लगता है। नगर के पुराने नाम मायापुरी, माया देवी के नाम पर, और गंगाद्वार, गंगा का द्वार, हैं। हर की पौड़ी, हरि के चरण, पत्थर पर विष्णु के चरण-चिह्न का स्थान मानी जाती है। परंपरा से घाट का श्रेय राजा विक्रमादित्य को दिया जाता है, और वर्तमान घाट बाद की शताब्दियों में पुनर्निर्मित हुआ।", "reviewed": false },
+    "mr": { "text": "परंपरा सांगते की समुद्रमंथनाच्या वेळी अमृताचे थेंब चार ठिकाणी पडले, आणि हरिद्वार त्यापैकी एक आहे, म्हणूनच येथे कुंभमेळा भरतो. शहराची जुनी नावे मायापुरी, माया देवीच्या नावाने, आणि गंगाद्वार, गंगेचे द्वार, अशी आहेत. हर की पौडी, म्हणजे हरीच्या पायऱ्या, दगडावरील विष्णूच्या पदचिन्हाचे ठिकाण मानली जाते. परंपरेने घाटाचे श्रेय राजा विक्रमादित्याला दिले जाते, आणि सध्याचा घाट नंतरच्या शतकांत पुन्हा बांधला गेला.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Puranic tradition about the Kumbh and the recorded history of the ghats.",
+    "hi": { "text": "कुंभ से जुड़ी पौराणिक परंपरा और घाटों के अभिलेखित इतिहास से।", "reviewed": false },
+    "mr": { "text": "कुंभाशी संबंधित पौराणिक परंपरा आणि घाटांच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [10, 11, 12, 1, 2, 3],
+    "seasons": [
+      {
+        "months": [10, 11, 2, 3],
+        "rating": "best",
+        "weather": {
+          "en": "Clear and comfortable, roughly 10 to 30 degrees. Best for the ghats, the ropeway temples and long walks. Festival days, Kumbh years and school-holiday weekends bring heavy crowds.",
+          "hi": { "text": "साफ़ और सुहावना, लगभग 10 से 30 डिग्री। घाटों, रोपवे वाले मंदिरों और लंबी सैर के लिए सर्वोत्तम। त्योहार के दिन, कुंभ के वर्ष और छुट्टियों के सप्ताहांत में भारी भीड़ रहती है।", "reviewed": false },
+          "mr": { "text": "स्वच्छ आणि आल्हाददायक, सुमारे 10 ते 30 अंश. घाट, रोपवेवरील मंदिरे आणि लांब फेरफटक्यांसाठी उत्तम. सणांचे दिवस, कुंभाची वर्षे आणि सुट्ट्यांच्या सप्ताहांताला प्रचंड गर्दी असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [12, 1],
+        "rating": "good",
+        "weather": {
+          "en": "Cold mornings and nights, often 5 to 8 degrees at dawn, with fog that can delay trains. The water is very cold for a bath. Carry warm layers. Crowds are lighter.",
+          "hi": { "text": "ठंडी सुबहें और रातें, भोर में अक्सर 5 से 8 डिग्री, और कोहरा जो रेलगाड़ियों में देरी कर सकता है। स्नान के लिए पानी बहुत ठंडा होता है। गर्म कपड़े रखें। भीड़ कम रहती है।", "reviewed": false },
+          "mr": { "text": "थंड सकाळ आणि रात्री, पहाटे अनेकदा 5 ते 8 अंश, आणि धुके जे रेल्वेला उशीर करू शकते. स्नानासाठी पाणी खूप थंड असते. उबदार कपडे सोबत ठेवा. गर्दी कमी असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [4, 5, 6],
+        "rating": "difficult",
+        "weather": {
+          "en": "Hot and dry, with highs that can pass 40 degrees. May and June are also the peak of the Char Dham season, so the city is crowded. Visit at dawn and after sunset, and drink water often.",
+          "hi": { "text": "गर्म और शुष्क, तापमान 40 डिग्री से ऊपर जा सकता है। मई और जून चार धाम मौसम का शिखर भी हैं, इसलिए नगर में भीड़ रहती है। भोर और सूर्यास्त के बाद जाएँ और बार-बार पानी पिएँ।", "reviewed": false },
+          "mr": { "text": "उष्ण आणि कोरडे, तापमान 40 अंशांच्या पुढे जाऊ शकते. मे आणि जून हे चार धाम हंगामाचे शिखरही आहेत, म्हणून शहरात गर्दी असते. पहाटे आणि सूर्यास्तानंतर जा आणि वारंवार पाणी प्या.", "reviewed": false }
+        }
+      },
+      {
+        "months": [7, 8, 9],
+        "rating": "difficult",
+        "weather": {
+          "en": "Monsoon, with the heaviest rain of the year. The Ganga runs high and muddy, bathing may be restricted and nearby mountain roads can be blocked. July is also the Kanwar season, when lakhs of pilgrims arrive and traffic is diverted.",
+          "hi": { "text": "वर्षा ऋतु, वर्ष की सबसे भारी वर्षा के साथ। गंगा ऊँची और मटमैली बहती है, स्नान पर रोक लग सकती है और आसपास की पर्वतीय सड़कें बंद हो सकती हैं। जुलाई में काँवड़ का समय भी होता है, जब लाखों श्रद्धालु आते हैं और यातायात मोड़ा जाता है।", "reviewed": false },
+          "mr": { "text": "पावसाळा, वर्षातील सर्वात मुसळधार पावसासह. गंगा उंच आणि गढूळ वाहते, स्नानावर निर्बंध येऊ शकतात आणि जवळचे डोंगरी रस्ते बंद होऊ शकतात. जुलैमध्ये कावड हंगामही असतो, तेव्हा लाखो भाविक येतात आणि वाहतूक वळवली जाते.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Jolly Grant Airport, Dehradun (DED)", "hi": { "text": "जॉली ग्रांट हवाई अड्डा, देहरादून (DED)", "reviewed": false }, "mr": { "text": "जॉली ग्रँट विमानतळ, डेहराडून (DED)", "reviewed": false } },
+      "km": 40,
+      "how": {
+        "en": "Direct flights from Delhi and several other cities. Taxis and buses reach Haridwar in about an hour (about 35 to 42 km, approximate). Delhi's Indira Gandhi International Airport is about 220 km away by road and suits those who prefer a long road or rail transfer.",
+        "hi": { "text": "दिल्ली और कई अन्य शहरों से सीधी उड़ानें। टैक्सी और बसें लगभग एक घंटे में हरिद्वार पहुँचाती हैं (लगभग 35 से 42 किमी, अनुमानित)। दिल्ली का इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा सड़क से लगभग 220 किमी दूर है और लंबे सड़क या रेल स्थानांतरण को पसंद करने वालों के लिए उपयुक्त है।", "reviewed": false },
+        "mr": { "text": "दिल्ली आणि इतर अनेक शहरांमधून थेट उड्डाणे. टॅक्सी आणि बसेस सुमारे एका तासात हरिद्वारला पोहोचवतात (सुमारे 35 ते 42 किमी, अंदाजे). दिल्लीचे इंदिरा गांधी आंतरराष्ट्रीय विमानतळ रस्त्याने सुमारे 220 किमी अंतरावर आहे आणि लांब रस्ता किंवा रेल्वे प्रवास पसंत करणाऱ्यांसाठी योग्य आहे.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Haridwar Junction (HW)", "hi": { "text": "हरिद्वार जंक्शन (HW)", "reviewed": false }, "mr": { "text": "हरिद्वार जंक्शन (HW)", "reviewed": false } },
+      "km": 3,
+      "how": {
+        "en": "A main junction on Northern Railway, well connected to Delhi, Dehradun, Mumbai, Kolkata and many other cities. The station is in the Devpura area, about 3 km from Har Ki Pauri (approximate), with a bus stand in front. Rishikesh is reached by road or a branch rail line.",
+        "hi": { "text": "उत्तर रेलवे का प्रमुख जंक्शन, जो दिल्ली, देहरादून, मुंबई, कोलकाता और कई अन्य शहरों से अच्छी तरह जुड़ा है। स्टेशन देवपुरा क्षेत्र में, हर की पौड़ी से लगभग 3 किमी (अनुमानित) है, और सामने बस अड्डा है। ऋषिकेश सड़क या शाखा रेल लाइन से पहुँचा जाता है।", "reviewed": false },
+        "mr": { "text": "उत्तर रेल्वेचे प्रमुख जंक्शन, जे दिल्ली, डेहराडून, मुंबई, कोलकाता आणि इतर अनेक शहरांशी चांगले जोडलेले आहे. स्थानक देवपुरा परिसरात, हर की पौडीपासून सुमारे 3 किमी (अंदाजे) आहे, आणि समोर बस स्थानक आहे. ऋषिकेशला रस्त्याने किंवा शाखा रेल्वे मार्गाने जाता येते.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Haridwar is on the highway from Delhi, about 220 km by road (approximate), and regular state and private buses run from Delhi, Dehradun, Rishikesh and other cities. Rishikesh is about 24 km and Dehradun about 55 km away. Traffic is heavy in the Kanwar season and on festival days.",
+        "hi": { "text": "हरिद्वार दिल्ली से आने वाले राजमार्ग पर है, सड़क से लगभग 220 किमी (अनुमानित), और दिल्ली, देहरादून, ऋषिकेश तथा अन्य शहरों से नियमित राज्य और निजी बसें चलती हैं। ऋषिकेश लगभग 24 किमी और देहरादून लगभग 55 किमी दूर है। काँवड़ के समय और त्योहारों के दिन यातायात भारी रहता है।", "reviewed": false },
+        "mr": { "text": "हरिद्वार दिल्लीहून येणाऱ्या महामार्गावर आहे, रस्त्याने सुमारे 220 किमी (अंदाजे), आणि दिल्ली, डेहराडून, ऋषिकेश आणि इतर शहरांमधून नियमित राज्य आणि खासगी बसेस धावतात. ऋषिकेश सुमारे 24 किमी आणि डेहराडून सुमारे 55 किमी अंतरावर आहे. कावड हंगामात आणि सणांच्या दिवशी वाहतूक जड असते.", "reviewed": false }
+      },
+      "km": 220
+    }
+  },
+  "localTransport": {
+    "en": "The area around Har Ki Pauri is a walking zone and vehicles are restricted near the ghats, especially on festival days. Use e-rickshaws, autos and shared vehicles to reach the edge of the zone, then walk. Ropeways run to Mansa Devi and Chandi Devi. Agree the fare or use the meter before you start, and pay for the ropeway only at the official counter.",
+    "hi": { "text": "हर की पौड़ी के आसपास का क्षेत्र पैदल क्षेत्र है और घाटों के पास, विशेषकर त्योहारों के दिन, वाहनों पर रोक रहती है। क्षेत्र के किनारे तक ई-रिक्शा, ऑटो और साझा वाहन लें, फिर पैदल चलें। रोपवे मनसा देवी और चंडी देवी तक चलते हैं। चलने से पहले किराया तय कर लें या मीटर का उपयोग करें, और रोपवे का भुगतान केवल आधिकारिक काउंटर पर करें।", "reviewed": false },
+    "mr": { "text": "हर की पौडीच्या आसपासचा परिसर पायी क्षेत्र आहे आणि घाटांजवळ, विशेषतः सणांच्या दिवशी, वाहनांवर निर्बंध असतात. क्षेत्राच्या काठापर्यंत ई-रिक्षा, ऑटो आणि सामायिक वाहने घ्या, मग चालत जा. रोपवे मनसा देवी आणि चंडी देवीपर्यंत चालतात. निघण्यापूर्वी भाडे ठरवा किंवा मीटर वापरा, आणि रोपवेचे पैसे फक्त अधिकृत काउंटरवर द्या.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "maha-shivaratri",
+      "note": {
+        "en": "Shiva temples across the city, including Daksheshwar Mahadev in Kankhal, see long queues and night worship.",
+        "hi": { "text": "नगर भर के शिव मंदिरों, जिनमें कनखल का दक्षेश्वर महादेव भी है, में लंबी कतारें और रात्रि पूजा होती है।", "reviewed": false },
+        "mr": { "text": "शहरातील शिव मंदिरांमध्ये, कनखलचे दक्षेश्वर महादेव यांच्यासह, लांब रांगा आणि रात्रीची पूजा असते.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "makar-sankranti",
+      "note": {
+        "en": "Pilgrims take a holy dip at Har Ki Pauri and give alms and sesame sweets. Expect large winter crowds and very cold water.",
+        "hi": { "text": "श्रद्धालु हर की पौड़ी पर पवित्र स्नान करते हैं और दान तथा तिल की मिठाइयाँ देते हैं। सर्दियों की बड़ी भीड़ और बहुत ठंडे पानी की अपेक्षा रखें।", "reviewed": false },
+        "mr": { "text": "भाविक हर की पौडीवर पवित्र स्नान करतात आणि दान व तिळाची मिठाई देतात. हिवाळ्यातील मोठी गर्दी आणि खूप थंड पाण्याची अपेक्षा ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "navratri-dussehra",
+      "note": {
+        "en": "Mansa Devi and Chandi Devi temples are especially busy through the nine nights, with long queues for the ropeway and darshan.",
+        "hi": { "text": "नौ रातों में मनसा देवी और चंडी देवी मंदिरों में विशेष भीड़ रहती है, रोपवे और दर्शन के लिए लंबी कतारें लगती हैं।", "reviewed": false },
+        "mr": { "text": "नऊ रात्रींमध्ये मनसा देवी आणि चंडी देवी मंदिरांमध्ये विशेष गर्दी असते, रोपवे आणि दर्शनासाठी लांब रांगा लागतात.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Rishikesh", "hi": { "text": "ऋषिकेश", "reviewed": false }, "mr": { "text": "ऋषिकेश", "reviewed": false } },
+      "km": 24,
+      "note": { "en": "Riverside ashrams, Laxman Jhula and the Triveni Ghat aarti, an easy half-day or one-night extension. Distance is approximate by road.", "hi": { "text": "नदी किनारे के आश्रम, लक्ष्मण झूला और त्रिवेणी घाट की आरती, आधे दिन या एक रात का सहज विस्तार। दूरी सड़क से अनुमानित है।", "reviewed": false }, "mr": { "text": "नदीकाठचे आश्रम, लक्ष्मण झुला आणि त्रिवेणी घाटावरची आरती, अर्धा दिवस किंवा एका रात्रीचा सहज विस्तार. अंतर रस्त्याने अंदाजे आहे.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Kankhal", "hi": { "text": "कनखल", "reviewed": false }, "mr": { "text": "कनखल", "reviewed": false } },
+      "km": 4,
+      "note": { "en": "Old quarter with the Daksheshwar Mahadev temple and ashrams along the river. Distance is approximate.", "hi": { "text": "दक्षेश्वर महादेव मंदिर और नदी किनारे आश्रमों वाला पुराना मोहल्ला। दूरी अनुमानित है।", "reviewed": false }, "mr": { "text": "दक्षेश्वर महादेव मंदिर आणि नदीकाठच्या आश्रमांसह जुना भाग. अंतर अंदाजे आहे.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Dehradun and Mussoorie", "hi": { "text": "देहरादून और मसूरी", "reviewed": false }, "mr": { "text": "डेहराडून आणि मसुरी", "reviewed": false } },
+      "km": 55,
+      "note": { "en": "State capital and a nearby hill town for a cooler break. Distance given is to Dehradun, approximate by road.", "hi": { "text": "राज्य की राजधानी और ठंडे विराम के लिए पास का पहाड़ी नगर। दी गई दूरी देहरादून तक की है, सड़क से अनुमानित।", "reviewed": false }, "mr": { "text": "राज्याची राजधानी आणि थंड विश्रांतीसाठी जवळचे डोंगरी शहर. दिलेले अंतर डेहराडूनपर्यंतचे आहे, रस्त्याने अंदाजे.", "reviewed": false } }
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero.webp",
+      "caption": { "en": "Haridwar ghats on the Ganga at dusk", "hi": { "text": "सायंकाल में गंगा तट पर हरिद्वार के घाट", "reviewed": false }, "mr": { "text": "संध्याकाळी गंगेकाठचे हरिद्वारचे घाट", "reviewed": false } },
+      "credit": "AI-generated illustration for PranaDin",
+      "ai": true
+    }
+  ],
+  "sources": [
+    { "label": "Haridwar, Wikipedia", "url": "https://en.wikipedia.org/wiki/Haridwar" },
+    { "label": "Haridwar Junction railway station, Wikipedia", "url": "https://en.wikipedia.org/wiki/Haridwar_Junction_railway_station" },
+    { "label": "Uttarakhand Tourism, Haridwar", "url": "https://uttarakhandtourism.gov.in/destination/haridwar" }
+  ]
+}

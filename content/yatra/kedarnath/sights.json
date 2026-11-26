@@ -1,0 +1,158 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "kedarnath",
+  "sights": [
+    {
+      "id": "kedarnath-temple",
+      "name": { "en": "Kedarnath Temple", "hi": { "text": "केदारनाथ मंदिर", "reviewed": false }, "mr": { "text": "केदारनाथ मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The stone temple of Shiva at about 3,583 m, with the snow peaks behind it. The sanctum holds a conical rock worshipped as the Jyotirlinga. Expect a long queue in the season and cold, thin air. Allow a few hours for the line and the darshan itself.",
+        "hi": { "text": "लगभग 3,583 मीटर पर शिव का पत्थर का मंदिर, जिसके पीछे हिमाच्छादित शिखर हैं। गर्भगृह में शंक्वाकार शिला है जिसकी ज्योतिर्लिंग के रूप में पूजा होती है। मौसम में लंबी कतार और ठंडी, पतली हवा की अपेक्षा रखें। कतार और दर्शन के लिए कुछ घंटे रखें।", "reviewed": false },
+        "mr": { "text": "सुमारे 3,583 मीटर उंचीवर शिवाचे दगडी मंदिर, त्याच्या मागे बर्फाच्छादित शिखरे. गाभाऱ्यात शंकूच्या आकाराचा खडक आहे ज्याची ज्योतिर्लिंग म्हणून पूजा होते. हंगामात लांब रांग आणि थंड, विरळ हवेची अपेक्षा ठेवा. रांग आणि दर्शनासाठी काही तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Opens in the early hours of the morning and closes for a midday break, then reopens for the evening aarti and closes at night. Timings change with the season and crowd, so check locally. The temple is open only from spring to autumn.",
+        "hi": { "text": "सुबह तड़के खुलता है, दोपहर में विश्राम के लिए बंद होता है, फिर शाम की आरती के लिए खुलता है और रात को बंद होता है। समय मौसम और भीड़ के अनुसार बदलता है, इसलिए स्थानीय स्तर पर जाँच लें। मंदिर केवल वसंत से शरद ऋतु तक खुला रहता है।", "reviewed": false },
+        "mr": { "text": "पहाटे लवकर उघडते, दुपारी विश्रांतीसाठी बंद होते, मग संध्याकाळच्या आरतीसाठी उघडते आणि रात्री बंद होते. वेळा हंगाम आणि गर्दीनुसार बदलतात, म्हणून स्थानिक पातळीवर तपासा. मंदिर फक्त वसंतापासून शरद ऋतूपर्यंत उघडे असते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Warm, layered clothing, a windproof and waterproof jacket, cap, gloves and sturdy shoes. Remove footwear before the temple. Cover shoulders and knees out of respect.",
+        "hi": { "text": "गर्म, परतदार कपड़े, हवा और पानी रोकने वाली जैकेट, टोपी, दस्ताने और मज़बूत जूते। मंदिर से पहले जूते उतारें। सम्मानवश कंधे और घुटने ढकें।", "reviewed": false },
+        "mr": { "text": "उबदार, थरांचे कपडे, वारा आणि पाणी रोखणारे जॅकेट, टोपी, हातमोजे आणि मजबूत बूट. मंदिरापूर्वी पादत्राणे काढा. आदरापोटी खांदे आणि गुडघे झाका.", "reviewed": false }
+      }
+    },
+    {
+      "id": "shankaracharya-samadhi",
+      "name": { "en": "Adi Shankaracharya Samadhi", "hi": { "text": "आदि शंकराचार्य समाधि", "reviewed": false }, "mr": { "text": "आदि शंकराचार्य समाधी", "reviewed": false } },
+      "desc": {
+        "en": "A memorial to Adi Shankaracharya stands just behind the temple. It was rebuilt after the 2013 floods. A quiet place to sit for a few minutes once the darshan queue is behind you.",
+        "hi": { "text": "आदि शंकराचार्य का स्मारक मंदिर के ठीक पीछे है। 2013 की बाढ़ के बाद इसका पुनर्निर्माण हुआ। दर्शन की कतार के बाद कुछ मिनट बैठने के लिए शांत स्थान।", "reviewed": false },
+        "mr": { "text": "आदि शंकराचार्यांचे स्मारक मंदिराच्या अगदी मागे आहे. 2013 च्या पुरानंतर त्याचे पुनर्बांधकाम झाले. दर्शनाची रांग संपल्यावर काही मिनिटे बसण्यासाठी शांत जागा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open through the daylight hours while the shrine is open. Check locally.",
+        "hi": { "text": "आमतौर पर धाम खुला रहने के समय दिन के उजाले में खुला रहता है। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "धाम उघडे असताना सहसा दिवसाच्या उजेडात उघडे असते. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Same warm layers as for the temple. The ground can be wet or icy, so take care on the steps.",
+        "hi": { "text": "मंदिर जैसे ही गर्म कपड़े। ज़मीन गीली या बर्फीली हो सकती है, इसलिए सीढ़ियों पर सावधानी रखें।", "reviewed": false },
+        "mr": { "text": "मंदिरासारखेच उबदार कपडे. जमीन ओली किंवा बर्फाळ असू शकते, म्हणून पायऱ्यांवर काळजी घ्या.", "reviewed": false }
+      }
+    },
+    {
+      "id": "bhairavnath",
+      "name": { "en": "Bhairavnath Temple", "hi": { "text": "भैरवनाथ मंदिर", "reviewed": false }, "mr": { "text": "भैरवनाथ मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A small shrine on a rise above the main temple, honoured by tradition as the guardian of Kedarnath. The short climb is steep and the air is thin, but the view over the valley and the temple roof is wide. Go only if you feel well and the weather is clear.",
+        "hi": { "text": "मुख्य मंदिर के ऊपर एक टीले पर छोटा मंदिर, परंपरा में केदारनाथ के रक्षक के रूप में पूजित। छोटी चढ़ाई खड़ी है और हवा पतली है, पर घाटी और मंदिर की छत का दृश्य विस्तृत है। केवल तभी जाएँ जब आप स्वस्थ महसूस करें और मौसम साफ़ हो।", "reviewed": false },
+        "mr": { "text": "मुख्य मंदिराच्या वर एका टेकडीवर लहान मंदिर, परंपरेने केदारनाथाचे रक्षक म्हणून पूजनीय. लहान चढण तीव्र आहे आणि हवा विरळ आहे, पण दरी आणि मंदिराच्या छतावरील दृश्य विस्तृत आहे. बरे वाटत असेल आणि हवामान स्वच्छ असेल तरच जा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open in daylight while the season is on. Access can be limited in bad weather. Check locally.",
+        "hi": { "text": "मौसम चलने तक दिन के उजाले में खुला। खराब मौसम में पहुँच सीमित हो सकती है। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "हंगाम सुरू असेपर्यंत दिवसाच्या उजेडात उघडे. खराब हवामानात प्रवेश मर्यादित असू शकतो. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Shoes with a good grip, since the path is rocky and can be slippery. Carry a warm layer and water.",
+        "hi": { "text": "अच्छी पकड़ वाले जूते, क्योंकि रास्ता पथरीला है और फिसलन भरा हो सकता है। गर्म कपड़ा और पानी साथ रखें।", "reviewed": false },
+        "mr": { "text": "चांगली पकड असलेले बूट, कारण वाट खडकाळ आहे आणि निसरडी असू शकते. उबदार कपडा आणि पाणी सोबत ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "gaurikund",
+      "name": { "en": "Gaurikund and the Gauri Devi temple", "hi": { "text": "गौरीकुंड और गौरी देवी मंदिर", "reviewed": false }, "mr": { "text": "गौरीकुंड आणि गौरी देवी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The starting point of the trek, with a temple of Goddess Parvati and a kund of warm spring water. Many pilgrims offer a prayer here before beginning the walk. Check with local staff whether the kund is open, as access has changed over the years.",
+        "hi": { "text": "पैदल यात्रा का आरंभ बिंदु, जहाँ देवी पार्वती का मंदिर और गुनगुने जल का कुंड है। कई श्रद्धालु चलने से पहले यहाँ प्रार्थना करते हैं। स्थानीय कर्मचारियों से पूछ लें कि कुंड खुला है या नहीं, क्योंकि समय के साथ पहुँच बदली है।", "reviewed": false },
+        "mr": { "text": "पायी यात्रेचा प्रारंभ बिंदू, जिथे देवी पार्वतीचे मंदिर आणि कोमट पाण्याचे कुंड आहे. अनेक भाविक चालणे सुरू करण्यापूर्वी येथे प्रार्थना करतात. कुंड खुले आहे का ते स्थानिक कर्मचाऱ्यांना विचारा, कारण कालांतराने प्रवेश बदलला आहे.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The temple is open through the day in season. Many walkers start before sunrise. Check locally.",
+        "hi": { "text": "मौसम में मंदिर दिन भर खुला रहता है। कई यात्री सूर्योदय से पहले चलना शुरू करते हैं। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "हंगामात मंदिर दिवसभर उघडे असते. अनेक यात्रेकरू सूर्योदयापूर्वी चालायला सुरुवात करतात. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Trek-ready clothes and shoes. Keep a rain cover handy and cover your head and shoulders at the temple.",
+        "hi": { "text": "पैदल चलने योग्य कपड़े और जूते। बरसात से बचाव का आवरण पास रखें और मंदिर में सिर और कंधे ढकें।", "reviewed": false },
+        "mr": { "text": "चालण्यास योग्य कपडे आणि बूट. पावसापासून संरक्षणाचे आवरण जवळ ठेवा आणि मंदिरात डोके व खांदे झाका.", "reviewed": false }
+      }
+    },
+    {
+      "id": "guptkashi-vishwanath",
+      "name": { "en": "Vishwanath Temple, Guptkashi", "hi": { "text": "विश्वनाथ मंदिर, गुप्तकाशी", "reviewed": false }, "mr": { "text": "विश्वनाथ मंदिर, गुप्तकाशी", "reviewed": false } },
+      "desc": {
+        "en": "An old Shiva temple in the town that is a common halt before the climb, with the Ardhanarishvara shrine close by. A good evening visit while you rest and wait for your registration and weather to be confirmed.",
+        "hi": { "text": "उस नगर का प्राचीन शिव मंदिर जो चढ़ाई से पहले आम पड़ाव है, पास में अर्धनारीश्वर मंदिर है। विश्राम करते हुए और पंजीकरण व मौसम की पुष्टि की प्रतीक्षा में शाम का अच्छा भ्रमण।", "reviewed": false },
+        "mr": { "text": "चढाईपूर्वीचा सामान्य मुक्काम असलेल्या शहरातील जुने शिव मंदिर, जवळच अर्धनारीश्वर मंदिर आहे. विश्रांती घेताना आणि नोंदणी व हवामानाच्या खात्रीची वाट पाहताना संध्याकाळची चांगली भेट.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from early morning to evening with a midday break. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह से शाम तक खुला, दोपहर में विश्राम के साथ। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटेपासून संध्याकाळपर्यंत उघडे, दुपारी विश्रांतीसह. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, warm clothes and removable footwear. Evenings are cool at this height.",
+        "hi": { "text": "शालीन, गर्म कपड़े और आसानी से उतरने वाले जूते। इस ऊँचाई पर शामें ठंडी होती हैं।", "reviewed": false },
+        "mr": { "text": "साधे, उबदार कपडे आणि सहज काढता येणारी पादत्राणे. या उंचीवर संध्याकाळ थंड असते.", "reviewed": false }
+      }
+    },
+    {
+      "id": "ukhimath-omkareshwar",
+      "name": { "en": "Omkareshwar Temple, Ukhimath", "hi": { "text": "ओंकारेश्वर मंदिर, ऊखीमठ", "reviewed": false }, "mr": { "text": "ओंकारेश्वर मंदिर, ऊखीमठ", "reviewed": false } },
+      "desc": {
+        "en": "The winter seat of Kedarnath, where the deity is worshipped for the months the high shrine is closed. It is the place to visit if you come outside the season. The temple is reached by a short road from the town.",
+        "hi": { "text": "केदारनाथ का शीतकालीन आसन, जहाँ उच्च धाम बंद रहने के महीनों में देवता की पूजा होती है। मौसम के बाहर आएँ तो यहीं जाएँ। नगर से छोटे मार्ग से मंदिर पहुँचा जाता है।", "reviewed": false },
+        "mr": { "text": "केदारनाथाचे हिवाळी आसन, जिथे उंच धाम बंद असलेल्या महिन्यांत देवतेची पूजा होते. हंगामाबाहेर आलात तर येथे जा. शहरापासून लहान रस्त्याने मंदिरापर्यंत पोहोचता येते.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open through the day with regular worship. Check locally, especially around the days when the deity is moved up or down.",
+        "hi": { "text": "नियमित पूजा के साथ दिन भर खुला। विशेषकर जब देवता को ऊपर या नीचे लाया जाता है उन दिनों स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "नियमित पूजेसह दिवसभर उघडे. विशेषतः देवतेला वर किंवा खाली नेण्याच्या दिवसांच्या आसपास स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, warm clothes. Winters here are cold, so carry woollens between November and March.",
+        "hi": { "text": "शालीन, गर्म कपड़े। यहाँ सर्दियाँ ठंडी होती हैं, इसलिए नवंबर से मार्च के बीच ऊनी कपड़े रखें।", "reviewed": false },
+        "mr": { "text": "साधे, उबदार कपडे. येथे हिवाळा थंड असतो, म्हणून नोव्हेंबर ते मार्च दरम्यान लोकरीचे कपडे ठेवा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Register first. Every pilgrim needs the state yatra registration, and entry beyond Sonprayag is checked against it. Keep a printout or screenshot of the registration and carry a government photo ID.",
+        "hi": { "text": "पहले पंजीकरण करें। हर श्रद्धालु को राज्य का यात्रा पंजीकरण चाहिए और सोनप्रयाग से आगे प्रवेश उसी के आधार पर जाँचा जाता है। पंजीकरण का प्रिंट या स्क्रीनशॉट रखें और सरकारी फ़ोटो पहचान पत्र साथ रखें।", "reviewed": false },
+        "mr": { "text": "आधी नोंदणी करा. प्रत्येक भाविकाला राज्याची यात्रा नोंदणी आवश्यक आहे आणि सोनप्रयागच्या पुढील प्रवेश त्यानुसार तपासला जातो. नोंदणीची प्रिंट किंवा स्क्रीनशॉट ठेवा आणि सरकारी फोटो ओळखपत्र सोबत ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "Start the trek very early, ideally before dawn, so that you reach the shrine in daylight and before the afternoon clouds. Do not begin the climb late in the day.",
+        "hi": { "text": "पैदल यात्रा बहुत जल्दी, आदर्श रूप से भोर से पहले शुरू करें, ताकि आप दिन के उजाले में और दोपहर के बादलों से पहले धाम पहुँचें। दिन में देर से चढ़ाई शुरू न करें।", "reviewed": false },
+        "mr": { "text": "पायी यात्रा खूप लवकर, शक्यतो पहाटेपूर्वी सुरू करा, म्हणजे तुम्ही दिवसाच्या उजेडात आणि दुपारच्या ढगांपूर्वी धामापर्यंत पोहोचाल. दिवसात उशिरा चढाई सुरू करू नका.", "reviewed": false }
+      },
+      {
+        "en": "Queues for darshan can be long, especially in May and June and on weekends. Pooja and special darshan slots, where offered, are handled only by the temple committee and its official website. Do not pay strangers who promise quick entry.",
+        "hi": { "text": "दर्शन की कतारें लंबी हो सकती हैं, विशेषकर मई-जून और सप्ताहांत में। पूजा और विशेष दर्शन के स्थान, जहाँ उपलब्ध हों, केवल मंदिर समिति और उसकी आधिकारिक वेबसाइट द्वारा संभाले जाते हैं। जल्दी प्रवेश का वादा करने वाले अजनबियों को पैसे न दें।", "reviewed": false },
+        "mr": { "text": "दर्शनाच्या रांगा लांब असू शकतात, विशेषतः मे-जूनमध्ये आणि सप्ताहांताला. पूजा आणि विशेष दर्शनाच्या वेळा, जिथे उपलब्ध असतील तिथे, फक्त मंदिर समिती आणि तिचे अधिकृत संकेतस्थळ हाताळते. लवकर प्रवेशाचे आश्वासन देणाऱ्या अनोळखी लोकांना पैसे देऊ नका.", "reviewed": false }
+      },
+      {
+        "en": "Keep offerings light: water, bael leaves or flowers from the shops near the temple. Bags, phones and cameras are subject to rules inside the shrine and may need to be left outside, so ask at the gate.",
+        "hi": { "text": "चढ़ावा हल्का रखें: मंदिर के पास की दुकानों से जल, बेल पत्र या फूल। धाम के भीतर बैग, फ़ोन और कैमरे के लिए नियम हैं और उन्हें बाहर छोड़ना पड़ सकता है, इसलिए द्वार पर पूछ लें।", "reviewed": false },
+        "mr": { "text": "अर्पण हलके ठेवा: मंदिराजवळच्या दुकानांतून पाणी, बेलपत्र किंवा फुले. धामात पिशव्या, फोन आणि कॅमेऱ्यांबाबत नियम आहेत आणि ते बाहेर ठेवावे लागू शकतात, म्हणून प्रवेशद्वारावर विचारा.", "reviewed": false }
+      },
+      {
+        "en": "Older visitors and anyone who cannot walk the full route can ask about ponies, palanquins or helicopter options. Helicopter tickets are sold only through the official portal. Some visitors pause for a rest day before and after the climb.",
+        "hi": { "text": "वृद्ध यात्री और जो पूरा मार्ग पैदल न चल सकें वे घोड़े-खच्चर, पालकी या हेलीकॉप्टर विकल्पों के बारे में पूछ सकते हैं। हेलीकॉप्टर टिकट केवल आधिकारिक पोर्टल से बिकते हैं। कुछ यात्री चढ़ाई से पहले और बाद में एक दिन विश्राम रखते हैं।", "reviewed": false },
+        "mr": { "text": "ज्येष्ठ यात्रेकरू आणि पूर्ण मार्ग चालू न शकणारे घोडे-खेचर, पालखी किंवा हेलिकॉप्टरच्या पर्यायांबद्दल विचारू शकतात. हेलिकॉप्टर तिकिटे फक्त अधिकृत पोर्टलवरून विकली जातात. काही यात्रेकरू चढाईच्या आधी आणि नंतर एक दिवस विश्रांती ठेवतात.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the Shri Badrinath-Kedarnath Temple Committee and the Uttarakhand yatra portal publish official notices on registration, opening dates, pooja bookings and helicopter tickets. This app does not book or sell anything. Use only the official sites and check the current process yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: श्री बदरीनाथ-केदारनाथ मंदिर समिति और उत्तराखंड यात्रा पोर्टल पंजीकरण, कपाट खुलने की तिथि, पूजा बुकिंग और हेलीकॉप्टर टिकट पर आधिकारिक सूचनाएँ प्रकाशित करते हैं। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइटों का उपयोग करें और वर्तमान प्रक्रिया स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: श्री बद्रीनाथ-केदारनाथ मंदिर समिती आणि उत्तराखंड यात्रा पोर्टल नोंदणी, कपाट उघडण्याच्या तारखा, पूजा आरक्षण आणि हेलिकॉप्टर तिकिटांबद्दल अधिकृत सूचना प्रसिद्ध करतात. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळे वापरा आणि सध्याची प्रक्रिया स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}

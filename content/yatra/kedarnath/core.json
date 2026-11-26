@@ -1,0 +1,147 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "kedarnath",
+  "name": { "en": "Kedarnath", "hi": { "text": "केदारनाथ", "reviewed": false }, "mr": { "text": "केदारनाथ", "reviewed": false } },
+  "state": { "en": "Uttarakhand", "hi": { "text": "उत्तराखंड", "reviewed": false }, "mr": { "text": "उत्तराखंड", "reviewed": false } },
+  "stateKey": "uttarakhand",
+  "traditions": ["hindu"],
+  "deity": {
+    "en": "Lord Shiva as Kedarnath, one of the twelve Jyotirlingas and the first of the Panch Kedar shrines of Garhwal. It is also one of the four Char Dham shrines of Uttarakhand.",
+    "hi": { "text": "भगवान शिव केदारनाथ के रूप में, बारह ज्योतिर्लिंगों में से एक और गढ़वाल के पंच केदार मंदिरों में पहला। यह उत्तराखंड के चार धामों में से भी एक है।", "reviewed": false },
+    "mr": { "text": "भगवान शिव केदारनाथ रूपात, बारा ज्योतिर्लिंगांपैकी एक आणि गढवालमधील पंच केदार मंदिरांपैकी पहिले. हे उत्तराखंडच्या चार धामांपैकीही एक आहे.", "reviewed": false }
+  },
+  "significance": {
+    "en": "Kedarnath is a very sacred high Himalayan shrine of Shiva. Reaching it takes effort, a long walk at altitude, and for many pilgrims that effort is part of the yatra. The temple is open only in the warmer months, and in winter the deity is worshipped at Ukhimath.",
+    "hi": { "text": "केदारनाथ शिव का अत्यंत पवित्र उच्च हिमालयी धाम है। यहाँ पहुँचने में परिश्रम लगता है, ऊँचाई पर लंबी पैदल यात्रा, और बहुत से श्रद्धालुओं के लिए वह परिश्रम यात्रा का ही अंग है। मंदिर केवल गर्म महीनों में खुलता है, और शीत ऋतु में देवता की पूजा ऊखीमठ में होती है।", "reviewed": false },
+    "mr": { "text": "केदारनाथ हे शिवाचे अत्यंत पवित्र उंच हिमालयीन धाम आहे. तिथे पोहोचण्यासाठी श्रम लागतात, उंचीवर लांब चालणे, आणि अनेक भाविकांसाठी ते श्रम यात्रेचाच भाग असतात. मंदिर फक्त उबदार महिन्यांत उघडते, आणि हिवाळ्यात देवतेची पूजा ऊखीमठ येथे होते.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "Shiva's high shrine in the Garhwal Himalaya",
+    "hi": { "text": "गढ़वाल हिमालय में शिव का उच्च धाम", "reviewed": false },
+    "mr": { "text": "गढवाल हिमालयातील शिवाचे उंच धाम", "reviewed": false }
+  },
+  "overview": {
+    "en": "The Kedarnath temple stands at about 3,583 m above sea level in Rudraprayag district, near the source of the Mandakini river, with snow peaks behind it. There is no road to the shrine. The last motorable point is Gaurikund, and from there it is a walk of about 16 to 17 km uphill, usually 6 to 8 hours or more, with ponies, palanquins and helicopters as other options. The temple opens in spring and closes after the festival of Kartika Purnima or Bhai Dooj in autumn. The air is thin and cold, weather changes fast, and registration is required. This is a serious mountain trip, so plan carefully.",
+    "hi": { "text": "केदारनाथ मंदिर रुद्रप्रयाग जिले में मंदाकिनी नदी के उद्गम के निकट समुद्र तल से लगभग 3,583 मीटर की ऊँचाई पर है, जिसके पीछे हिमाच्छादित शिखर हैं। मंदिर तक सड़क नहीं है। अंतिम वाहन योग्य स्थान गौरीकुंड है, और वहाँ से लगभग 16 से 17 किमी की चढ़ाई वाली पैदल यात्रा है, जिसमें आमतौर पर 6 से 8 घंटे या अधिक लगते हैं, और घोड़े-खच्चर, पालकी तथा हेलीकॉप्टर अन्य विकल्प हैं। मंदिर वसंत में खुलता है और शरद ऋतु में कार्तिक पूर्णिमा या भाई दूज के बाद बंद होता है। हवा पतली और ठंडी है, मौसम तेज़ी से बदलता है, और पंजीकरण आवश्यक है। यह एक गंभीर पर्वतीय यात्रा है, इसलिए सावधानी से योजना बनाएँ।", "reviewed": false },
+    "mr": { "text": "केदारनाथ मंदिर रुद्रप्रयाग जिल्ह्यात मंदाकिनी नदीच्या उगमाजवळ समुद्रसपाटीपासून सुमारे 3,583 मीटर उंचीवर आहे, त्याच्या मागे बर्फाच्छादित शिखरे आहेत. मंदिरापर्यंत रस्ता नाही. शेवटचे वाहन जाऊ शकणारे ठिकाण गौरीकुंड आहे, आणि तिथून सुमारे 16 ते 17 किमीची चढणीची पायी वाट आहे, ज्यास साधारणपणे 6 ते 8 तास किंवा अधिक लागतात, आणि घोडे-खेचर, पालखी आणि हेलिकॉप्टर हे इतर पर्याय आहेत. मंदिर वसंतात उघडते आणि शरद ऋतूत कार्तिक पौर्णिमा किंवा भाऊबीजेनंतर बंद होते. हवा विरळ आणि थंड आहे, हवामान झपाट्याने बदलते, आणि नोंदणी आवश्यक आहे. ही एक गंभीर पर्वतीय यात्रा आहे, म्हणून काळजीपूर्वक नियोजन करा.", "reviewed": false }
+  },
+  "story": {
+    "en": "Tradition links Kedarnath to the Pandavas, who are said to have sought Shiva here after the Mahabharata war. The Skanda Purana mentions Kedara, and the place was a major pilgrimage centre by the 12th century. Adi Shankaracharya is traditionally said to have revived the temple, and a memorial to him stands behind it. In June 2013 severe floods destroyed much of the town below, while the temple itself survived.",
+    "hi": { "text": "परंपरा केदारनाथ को पांडवों से जोड़ती है, जिनके बारे में कहा जाता है कि उन्होंने महाभारत युद्ध के बाद यहाँ शिव की खोज की। स्कंद पुराण में केदार का उल्लेख है, और 12वीं सदी तक यह प्रमुख तीर्थ केंद्र बन चुका था। परंपरा के अनुसार आदि शंकराचार्य ने मंदिर का पुनरुद्धार किया, और उनका स्मारक मंदिर के पीछे है। जून 2013 में भीषण बाढ़ ने नीचे के नगर का बड़ा भाग नष्ट कर दिया, जबकि मंदिर बचा रहा।", "reviewed": false },
+    "mr": { "text": "परंपरा केदारनाथला पांडवांशी जोडते, ज्यांनी महाभारत युद्धानंतर येथे शिवाचा शोध घेतला असे म्हटले जाते. स्कंद पुराणात केदाराचा उल्लेख आहे, आणि 12 व्या शतकापर्यंत हे प्रमुख तीर्थक्षेत्र बनले होते. परंपरेनुसार आदि शंकराचार्यांनी मंदिराचा जीर्णोद्धार केला, आणि त्यांचे स्मारक मंदिराच्या मागे आहे. जून 2013 मध्ये भीषण पुरामुळे खालील गावाचा मोठा भाग उद्ध्वस्त झाला, तर मंदिर टिकून राहिले.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Puranic and local tradition and the recorded history of the Kedarnath temple.",
+    "hi": { "text": "पौराणिक और स्थानीय परंपरा तथा केदारनाथ मंदिर के अभिलेखित इतिहास से।", "reviewed": false },
+    "mr": { "text": "पौराणिक आणि स्थानिक परंपरेतून आणि केदारनाथ मंदिराच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [5, 6, 9, 10],
+    "seasons": [
+      {
+        "months": [5, 6, 9, 10],
+        "rating": "best",
+        "weather": {
+          "en": "The open season with the clearest days. Roughly 0 to 15 degrees by day and below freezing at night, especially in October. May and June are the busiest months. September and October are quieter but colder. Rain and snow can come at any time, so carry warm and waterproof gear.",
+          "hi": { "text": "खुला मौसम, सबसे साफ़ दिनों के साथ। दिन में लगभग 0 से 15 डिग्री और रात में शून्य से नीचे, विशेषकर अक्टूबर में। मई और जून सबसे व्यस्त महीने हैं। सितंबर और अक्टूबर शांत पर ठंडे होते हैं। वर्षा और हिमपात कभी भी आ सकते हैं, इसलिए गर्म और जलरोधी सामान रखें।", "reviewed": false },
+          "mr": { "text": "खुला हंगाम, सर्वात स्वच्छ दिवसांसह. दिवसा सुमारे 0 ते 15 अंश आणि रात्री गोठणबिंदूखाली, विशेषतः ऑक्टोबरमध्ये. मे आणि जून हे सर्वात गर्दीचे महिने आहेत. सप्टेंबर आणि ऑक्टोबर शांत पण थंड असतात. पाऊस आणि हिमवर्षाव कधीही येऊ शकतो, म्हणून उबदार आणि जलरोधक सामान सोबत ठेवा.", "reviewed": false }
+        }
+      },
+      {
+        "months": [7, 8],
+        "rating": "difficult",
+        "weather": {
+          "en": "Monsoon. Heavy rain brings landslides, road blockages and slippery trek paths, and the yatra can be paused at short notice. Travel only with flexible plans and follow the official advisories.",
+          "hi": { "text": "वर्षा ऋतु। भारी वर्षा से भूस्खलन, सड़क अवरोध और फिसलन भरे पैदल मार्ग होते हैं, और यात्रा अचानक रोकी जा सकती है। केवल लचीली योजना के साथ यात्रा करें और आधिकारिक सूचनाओं का पालन करें।", "reviewed": false },
+          "mr": { "text": "पावसाळा. मुसळधार पावसामुळे दरडी कोसळणे, रस्ते बंद होणे आणि निसरड्या पायवाटा होतात, आणि यात्रा अचानक थांबवली जाऊ शकते. फक्त लवचिक नियोजनासह प्रवास करा आणि अधिकृत सूचनांचे पालन करा.", "reviewed": false }
+        }
+      },
+      {
+        "months": [11, 12, 1, 2, 3, 4],
+        "rating": "difficult",
+        "weather": {
+          "en": "The temple is closed to pilgrims in winter and early spring because of heavy snow. It closes around Kartika Purnima or Bhai Dooj in autumn and reopens in late April or May, on a date announced each year. During closure the deity is worshipped at Ukhimath, which can be visited.",
+          "hi": { "text": "भारी हिमपात के कारण शीत ऋतु और शुरुआती वसंत में मंदिर श्रद्धालुओं के लिए बंद रहता है। यह शरद ऋतु में कार्तिक पूर्णिमा या भाई दूज के आसपास बंद होता है और हर वर्ष घोषित तिथि पर अप्रैल के अंत या मई में फिर खुलता है। बंद रहने के दौरान देवता की पूजा ऊखीमठ में होती है, जहाँ जाया जा सकता है।", "reviewed": false },
+          "mr": { "text": "मुसळधार हिमवर्षावामुळे हिवाळ्यात आणि लवकरच्या वसंतात मंदिर भाविकांसाठी बंद असते. ते शरद ऋतूत कार्तिक पौर्णिमा किंवा भाऊबीजेच्या सुमारास बंद होते आणि दरवर्षी जाहीर होणाऱ्या तारखेला एप्रिलच्या अखेरीस किंवा मे मध्ये पुन्हा उघडते. बंद काळात देवतेची पूजा ऊखीमठ येथे होते, तिथे जाता येते.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Jolly Grant Airport, Dehradun (DED)", "hi": { "text": "जॉली ग्रांट हवाई अड्डा, देहरादून (DED)", "reviewed": false }, "mr": { "text": "जॉली ग्रँट विमानतळ, डेहराडून (DED)", "reviewed": false } },
+      "km": 240,
+      "how": {
+        "en": "The nearest regular airport, about 240 km by road from Gaurikund (approximate), roughly 9 to 10 hours with stops. From Dehradun, go by road via Rishikesh. Helicopter shuttles fly to Kedarnath from places such as Phata, Sersi and Guptkashi. Tickets are issued only through the official portal, and you need your yatra registration first.",
+        "hi": { "text": "निकटतम नियमित हवाई अड्डा, गौरीकुंड से सड़क मार्ग से लगभग 240 किमी (अनुमानित), पड़ावों सहित लगभग 9 से 10 घंटे। देहरादून से ऋषिकेश होकर सड़क से जाएँ। फाटा, सेरसी और गुप्तकाशी जैसे स्थानों से केदारनाथ के लिए हेलीकॉप्टर सेवा चलती है। टिकट केवल आधिकारिक पोर्टल से जारी होते हैं, और पहले आपका यात्रा पंजीकरण आवश्यक है।", "reviewed": false },
+        "mr": { "text": "सर्वात जवळचे नियमित विमानतळ, गौरीकुंडपासून रस्त्याने सुमारे 240 किमी (अंदाजे), थांब्यांसह सुमारे 9 ते 10 तास. डेहराडूनहून ऋषिकेशमार्गे रस्त्याने जा. फाटा, सेरसी आणि गुप्तकाशी यांसारख्या ठिकाणांहून केदारनाथसाठी हेलिकॉप्टर सेवा चालते. तिकिटे फक्त अधिकृत पोर्टलवरून दिली जातात, आणि आधी तुमची यात्रा नोंदणी आवश्यक आहे.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Rishikesh (RKSH) and Yog Nagari Rishikesh (YNRK); Haridwar (HW) is the larger rail hub", "hi": { "text": "ऋषिकेश (RKSH) और योग नगरी ऋषिकेश (YNRK); हरिद्वार (HW) बड़ा रेल केंद्र है", "reviewed": false }, "mr": { "text": "ऋषिकेश (RKSH) आणि योग नगरी ऋषिकेश (YNRK); हरिद्वार (HW) हे मोठे रेल्वे केंद्र आहे", "reviewed": false } },
+      "km": 220,
+      "how": {
+        "en": "Rishikesh is the nearest railhead, about 220 km from Gaurikund (approximate). Haridwar has far more train connections and is about 25 km before Rishikesh on the same route. From either, buses and shared jeeps run to Sonprayag via Devprayag, Rudraprayag and Guptkashi, a journey of 9 to 11 hours or more.",
+        "hi": { "text": "ऋषिकेश निकटतम रेलवे स्टेशन है, गौरीकुंड से लगभग 220 किमी (अनुमानित)। हरिद्वार में ट्रेनों के कहीं अधिक संपर्क हैं और यह उसी मार्ग पर ऋषिकेश से लगभग 25 किमी पहले है। दोनों से देवप्रयाग, रुद्रप्रयाग और गुप्तकाशी होकर सोनप्रयाग तक बसें और साझा जीपें चलती हैं, जिसमें 9 से 11 घंटे या अधिक लगते हैं।", "reviewed": false },
+        "mr": { "text": "ऋषिकेश हे सर्वात जवळचे रेल्वे स्थानक आहे, गौरीकुंडपासून सुमारे 220 किमी (अंदाजे). हरिद्वारला रेल्वेची जोडणी खूप जास्त आहे आणि ते त्याच मार्गावर ऋषिकेशच्या सुमारे 25 किमी आधी आहे. दोन्हीपैकी कुठूनही देवप्रयाग, रुद्रप्रयाग आणि गुप्तकाशीमार्गे सोनप्रयागपर्यंत बसेस आणि शेअर जीप धावतात, ज्यास 9 ते 11 तास किंवा अधिक लागतात.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "The mountain road from Rishikesh goes through Devprayag, Srinagar, Rudraprayag and Guptkashi to Sonprayag. Landslides and weather can slow or stop traffic, so keep spare days. Entry beyond Sonprayag needs a valid registration e-pass. Vehicle movement to Gaurikund is controlled and may use shuttles.",
+        "hi": { "text": "ऋषिकेश से पर्वतीय सड़क देवप्रयाग, श्रीनगर, रुद्रप्रयाग और गुप्तकाशी होकर सोनप्रयाग जाती है। भूस्खलन और मौसम यातायात धीमा या बंद कर सकते हैं, इसलिए अतिरिक्त दिन रखें। सोनप्रयाग से आगे प्रवेश के लिए वैध पंजीकरण ई-पास चाहिए। गौरीकुंड तक वाहनों का आवागमन नियंत्रित है और शटल का उपयोग हो सकता है।", "reviewed": false },
+        "mr": { "text": "ऋषिकेशहून डोंगरी रस्ता देवप्रयाग, श्रीनगर, रुद्रप्रयाग आणि गुप्तकाशीमार्गे सोनप्रयागला जातो. दरडी आणि हवामानामुळे वाहतूक मंदावू किंवा थांबू शकते, म्हणून राखीव दिवस ठेवा. सोनप्रयागच्या पुढे प्रवेशासाठी वैध नोंदणी ई-पास आवश्यक आहे. गौरीकुंडपर्यंत वाहनांची हालचाल नियंत्रित आहे आणि शटल वापरली जाऊ शकते.", "reviewed": false }
+      },
+      "km": 220
+    }
+  },
+  "localTransport": {
+    "en": "There are no cars on the last stretch. From the Sonprayag area a shuttle or taxi reaches Gaurikund, and from there you walk about 16 to 17 km. Ponies, palanquins (dandi or kandi) and porters can be hired on the way, with rates fixed by the authorities, so ask for the official rate list. Helicopters fly from the lower bases. Be sure that animals and carriers look healthy and are not overloaded.",
+    "hi": { "text": "अंतिम खंड में कारें नहीं चलतीं। सोनप्रयाग क्षेत्र से शटल या टैक्सी गौरीकुंड पहुँचाती है, और वहाँ से लगभग 16 से 17 किमी पैदल चलना होता है। रास्ते में घोड़े-खच्चर, पालकी (डंडी या कंडी) और कुली किराये पर मिलते हैं, जिनकी दरें प्रशासन तय करता है, इसलिए आधिकारिक दर सूची माँगें। हेलीकॉप्टर निचले आधार स्थलों से उड़ते हैं। देख लें कि पशु और वाहक स्वस्थ दिखें और उन पर अधिक बोझ न हो।", "reviewed": false },
+    "mr": { "text": "शेवटच्या टप्प्यात गाड्या नाहीत. सोनप्रयाग परिसरातून शटल किंवा टॅक्सी गौरीकुंडला पोहोचवते, आणि तिथून सुमारे 16 ते 17 किमी चालावे लागते. वाटेत घोडे-खेचर, पालखी (डांडी किंवा कांडी) आणि हमाल भाड्याने मिळतात, ज्यांचे दर प्रशासन ठरवते, म्हणून अधिकृत दरसूची मागा. हेलिकॉप्टर खालच्या तळांवरून उडतात. प्राणी आणि वाहक निरोगी दिसतात आणि त्यांच्यावर जास्त ओझे नाही याची खात्री करा.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "maha-shivaratri",
+      "note": {
+        "en": "The temple is closed to pilgrims at this time of year. By tradition the date for reopening is announced around Mahashivratri at Ukhimath, the winter seat of the deity.",
+        "hi": { "text": "वर्ष के इस समय मंदिर श्रद्धालुओं के लिए बंद रहता है। परंपरा से पुनः खुलने की तिथि महाशिवरात्रि के आसपास देवता के शीतकालीन आसन ऊखीमठ में घोषित की जाती है।", "reviewed": false },
+        "mr": { "text": "वर्षाच्या या काळात मंदिर भाविकांसाठी बंद असते. परंपरेने पुन्हा उघडण्याची तारीख महाशिवरात्रीच्या सुमारास देवतेच्या हिवाळी आसन ऊखीमठ येथे जाहीर केली जाते.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Gaurikund", "hi": { "text": "गौरीकुंड", "reviewed": false }, "mr": { "text": "गौरीकुंड", "reviewed": false } },
+      "km": 17,
+      "note": { "en": "Start of the trek, with a Gauri temple and a hot-water kund. Distance is the walking route to Kedarnath.", "hi": { "text": "पैदल यात्रा का आरंभ, जहाँ गौरी मंदिर और गर्म जल का कुंड है। दूरी केदारनाथ तक के पैदल मार्ग की है।", "reviewed": false }, "mr": { "text": "पायी यात्रेचा प्रारंभ, जिथे गौरी मंदिर आणि गरम पाण्याचे कुंड आहे. अंतर केदारनाथपर्यंतच्या पायी मार्गाचे आहे.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Guptkashi", "hi": { "text": "गुप्तकाशी", "reviewed": false }, "mr": { "text": "गुप्तकाशी", "reviewed": false } },
+      "km": 52,
+      "note": { "en": "Town with the Vishwanath temple and a common overnight halt before the climb. Distance is approximate, by road and trek.", "hi": { "text": "विश्वनाथ मंदिर वाला नगर और चढ़ाई से पहले आम रात्रि पड़ाव। दूरी अनुमानित है, सड़क और पैदल मार्ग से।", "reviewed": false }, "mr": { "text": "विश्वनाथ मंदिर असलेले शहर आणि चढाईपूर्वीचा सामान्य रात्रीचा मुक्काम. अंतर अंदाजे आहे, रस्ता आणि पायी मार्गाने.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Ukhimath", "hi": { "text": "ऊखीमठ", "reviewed": false }, "mr": { "text": "ऊखीमठ", "reviewed": false } },
+      "km": 65,
+      "note": { "en": "Winter seat of Kedarnath. Distance is approximate, by road and trek. Useful when the high shrine is closed.", "hi": { "text": "केदारनाथ का शीतकालीन आसन। दूरी अनुमानित है, सड़क और पैदल मार्ग से। उच्च धाम बंद होने पर उपयोगी।", "reviewed": false }, "mr": { "text": "केदारनाथचे हिवाळी आसन. अंतर अंदाजे आहे, रस्ता आणि पायी मार्गाने. उंच धाम बंद असताना उपयुक्त.", "reviewed": false } }
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero.webp",
+      "caption": { "en": "Kedarnath temple below the Himalayan peaks", "hi": { "text": "हिमालयी शिखरों के नीचे केदारनाथ मंदिर", "reviewed": false }, "mr": { "text": "हिमालयीन शिखरांखालील केदारनाथ मंदिर", "reviewed": false } },
+      "credit": "AI-generated illustration for PranaDin",
+      "ai": true
+    }
+  ],
+  "sources": [
+    { "label": "Kedarnath Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Kedarnath_Temple" },
+    { "label": "Shri Badrinath-Kedarnath Temple Committee, official website", "url": "https://badrinath-kedarnath.gov.in/" },
+    { "label": "Uttarakhand yatra registration and tourist care portal", "url": "https://registrationandtouristcare.uk.gov.in" }
+  ]
+}

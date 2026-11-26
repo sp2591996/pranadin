@@ -1,0 +1,134 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "somnath",
+  "sights": [
+    {
+      "id": "somnath-temple",
+      "name": { "en": "Somnath Temple", "hi": { "text": "सोमनाथ मंदिर", "reviewed": false }, "mr": { "text": "सोमनाथ मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The main Shiva temple and first Jyotirlinga, standing at the shore in the Maru-Gurjara style. Allow one to two hours including the queue, and more on Mondays and festival days.",
+        "hi": { "text": "शिव का मुख्य मंदिर और प्रथम ज्योतिर्लिंग, मारू-गुर्जर शैली में समुद्र तट पर स्थित। कतार सहित एक से दो घंटे रखें, और सोमवार तथा त्योहारों पर अधिक।", "reviewed": false },
+        "mr": { "text": "शिवाचे मुख्य मंदिर आणि पहिले ज्योतिर्लिंग, मारू-गुर्जर शैलीत किनाऱ्यावर उभे. रांगेसह एक ते दोन तास ठेवा, आणि सोमवारी व सणाच्या दिवशी अधिक.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from about 6:30 am to 9 pm, with aartis in the morning, at noon and in the evening. Check locally and on the trust's site, as times change on festival days.",
+        "hi": { "text": "आमतौर पर सुबह लगभग 6:30 से रात 9 बजे तक खुला, प्रातः, मध्याह्न और संध्या में आरती के साथ। स्थानीय रूप से और ट्रस्ट की वेबसाइट पर जाँचें, क्योंकि त्योहार के दिन समय बदल जाते हैं।", "reviewed": false },
+        "mr": { "text": "सहसा सकाळी सुमारे 6:30 ते रात्री 9 पर्यंत उघडे, सकाळी, मध्यान्ही आणि संध्याकाळी आरत्यांसह. स्थानिक पातळीवर आणि ट्रस्टच्या संकेतस्थळावर तपासा, कारण सणाच्या दिवशी वेळा बदलतात.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes covering shoulders and knees, and no footwear inside. Phones, cameras and bags are kept in lockers outside. Carry a government photo ID.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन कपड़े, और भीतर जूते-चप्पल नहीं। फ़ोन, कैमरे और बैग बाहर लॉकर में रखे जाते हैं। सरकारी फ़ोटो पहचान पत्र साथ रखें।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे साधे कपडे, आणि आत पादत्राणे नाहीत. फोन, कॅमेरे आणि पिशव्या बाहेर लॉकरमध्ये ठेवल्या जातात. सरकारी फोटो ओळखपत्र सोबत ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "triveni-sangam",
+      "name": { "en": "Triveni Sangam", "hi": { "text": "त्रिवेणी संगम", "reviewed": false }, "mr": { "text": "त्रिवेणी संगम", "reviewed": false } },
+      "desc": {
+        "en": "The ghat where the Hiran, Kapila and Saraswati rivers meet before flowing into the sea, held as a moksha teerth. Many pilgrims bathe here or perform rites for ancestors. Allow one hour.",
+        "hi": { "text": "वह घाट जहाँ हिरण, कपिला और सरस्वती नदियाँ समुद्र में गिरने से पहले मिलती हैं, जिसे मोक्ष तीर्थ माना जाता है। कई श्रद्धालु यहाँ स्नान करते हैं या पितरों के लिए कर्म करते हैं। एक घंटा रखें।", "reviewed": false },
+        "mr": { "text": "हिरण, कपिला आणि सरस्वती या नद्या समुद्रात जाण्यापूर्वी जिथे मिळतात तो घाट, जो मोक्षतीर्थ मानला जातो. अनेक भाविक येथे स्नान करतात किंवा पितरांसाठी विधी करतात. एक तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The ghat is open at all hours. Early morning and sunset are calmest. Check locally, as the water level changes with the tide and the season.",
+        "hi": { "text": "घाट हर समय खुला रहता है। सुबह जल्दी और सूर्यास्त सबसे शांत समय हैं। स्थानीय रूप से जाँचें, क्योंकि जल स्तर ज्वार और ऋतु के साथ बदलता है।", "reviewed": false },
+        "mr": { "text": "घाट सर्व वेळी उघडा असतो. पहाटे आणि सूर्यास्त हे सर्वात शांत वेळा आहेत. स्थानिक पातळीवर तपासा, कारण पाण्याची पातळी भरती आणि ऋतूनुसार बदलते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. If you bathe, carry a change of clothes and keep valuables with a companion. Follow local guidance on water safety.",
+        "hi": { "text": "शालीन कपड़े। स्नान करें तो बदलने के कपड़े साथ रखें और कीमती सामान साथी के पास रखें। जल सुरक्षा पर स्थानीय निर्देशों का पालन करें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. स्नान करणार असाल तर बदलायचे कपडे सोबत ठेवा आणि मौल्यवान वस्तू सोबत्याकडे ठेवा. पाण्याच्या सुरक्षेबाबत स्थानिक सूचनांचे पालन करा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "gita-mandir",
+      "name": { "en": "Gita Mandir", "hi": { "text": "गीता मंदिर", "reviewed": false }, "mr": { "text": "गीता मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A marble temple near the Triveni confluence, held to mark where Krishna rested. Its eighteen pillars carry the eighteen chapters of the Bhagavad Gita. Allow about half an hour.",
+        "hi": { "text": "त्रिवेणी संगम के पास संगमरमर का मंदिर, जो उस स्थान को चिह्नित करता है जहाँ कृष्ण ने विश्राम किया माना जाता है। इसके अठारह स्तंभों पर भगवद्गीता के अठारह अध्याय अंकित हैं। लगभग आधा घंटा रखें।", "reviewed": false },
+        "mr": { "text": "त्रिवेणी संगमाजवळचे संगमरवरी मंदिर, जिथे कृष्णाने विश्रांती घेतली असे मानले जाते ते स्थान दर्शवते. त्याच्या अठरा खांबांवर भगवद्गीतेचे अठरा अध्याय कोरलेले आहेत. सुमारे अर्धा तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the daytime, with a break at midday. Check locally.",
+        "hi": { "text": "आमतौर पर दिन में खुला, मध्याह्न में अंतराल के साथ। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा दिवसा उघडे, मध्यान्ही विश्रांतीसह. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear at the entrance.",
+        "hi": { "text": "शालीन कपड़े। प्रवेश द्वार पर जूते-चप्पल उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. प्रवेशद्वारावर पादत्राणे काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "bhalka-tirth",
+      "name": { "en": "Bhalka Tirth", "hi": { "text": "भालका तीर्थ", "reviewed": false }, "mr": { "text": "भालका तीर्थ", "reviewed": false } },
+      "desc": {
+        "en": "The place where, in tradition, a hunter's arrow struck Krishna before he left the world. A quiet shrine a few kilometres from the main temple. Allow about half an hour.",
+        "hi": { "text": "वह स्थान जहाँ, परंपरा के अनुसार, संसार छोड़ने से पहले एक शिकारी का तीर कृष्ण को लगा। मुख्य मंदिर से कुछ किलोमीटर दूर एक शांत मंदिर। लगभग आधा घंटा रखें।", "reviewed": false },
+        "mr": { "text": "ते स्थान जिथे, परंपरेनुसार, जग सोडण्यापूर्वी एका शिकाऱ्याचा बाण कृष्णाला लागला. मुख्य मंदिरापासून काही किलोमीटरवरील शांत मंदिर. सुमारे अर्धा तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the morning and evening. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह और शाम खुला। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा सकाळी आणि संध्याकाळी उघडे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes and no footwear inside.",
+        "hi": { "text": "शालीन कपड़े और भीतर जूते-चप्पल नहीं।", "reviewed": false },
+        "mr": { "text": "साधे कपडे आणि आत पादत्राणे नाहीत.", "reviewed": false }
+      }
+    },
+    {
+      "id": "prabhas-museum",
+      "name": { "en": "Prabhas Patan Museum and the old temple remains", "hi": { "text": "प्रभास पाटन संग्रहालय और प्राचीन मंदिर के अवशेष", "reviewed": false }, "mr": { "text": "प्रभास पाटण संग्रहालय आणि प्राचीन मंदिराचे अवशेष", "reviewed": false } },
+      "desc": {
+        "en": "A museum showing sculptures, inscriptions and pottery recovered from the earlier Somnath temples. It helps explain the long history of the site. Allow about an hour.",
+        "hi": { "text": "एक संग्रहालय जिसमें पहले के सोमनाथ मंदिरों से प्राप्त मूर्तियाँ, शिलालेख और मृद्भांड प्रदर्शित हैं। यह स्थल के लंबे इतिहास को समझने में मदद करता है। लगभग एक घंटा रखें।", "reviewed": false },
+        "mr": { "text": "पूर्वीच्या सोमनाथ मंदिरांमधून मिळालेली शिल्पे, शिलालेख आणि मातीची भांडी दाखवणारे संग्रहालय. ते स्थळाचा दीर्घ इतिहास समजण्यास मदत करते. सुमारे एक तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the daytime, with a weekly closing day possible. Check locally.",
+        "hi": { "text": "आमतौर पर दिन में खुला, साप्ताहिक बंद दिन संभव। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा दिवसा उघडे, साप्ताहिक बंद दिवस शक्य. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Casual modest clothes are fine. Ask before photographing exhibits.",
+        "hi": { "text": "सादे शालीन कपड़े ठीक हैं। प्रदर्शित वस्तुओं की तस्वीर लेने से पहले पूछें।", "reviewed": false },
+        "mr": { "text": "साधे सभ्य कपडे चालतात. प्रदर्शित वस्तूंचे छायाचित्र घेण्यापूर्वी विचारा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early on a weekday. Mondays, Shravan and festival days such as Shivratri and Kartik Purnima are the busiest.",
+        "hi": { "text": "कार्यदिवस पर जल्दी जाएँ। सोमवार, श्रावण और शिवरात्रि तथा कार्तिक पूर्णिमा जैसे त्योहार के दिन सबसे अधिक भीड़ वाले होते हैं।", "reviewed": false },
+        "mr": { "text": "आठवड्याच्या दिवशी लवकर जा. सोमवार, श्रावण आणि शिवरात्री व कार्तिक पौर्णिमेसारखे सणाचे दिवस सर्वाधिक गर्दीचे असतात.", "reviewed": false }
+      },
+      {
+        "en": "Security checks are strict. Carry a government photo ID and leave phones, cameras and bags in the lockers before the queue.",
+        "hi": { "text": "सुरक्षा जाँच कड़ी होती है। सरकारी फ़ोटो पहचान पत्र साथ रखें और कतार से पहले फ़ोन, कैमरे और बैग लॉकर में रखें।", "reviewed": false },
+        "mr": { "text": "सुरक्षा तपासणी कडक असते. सरकारी फोटो ओळखपत्र सोबत ठेवा आणि रांगेपूर्वी फोन, कॅमेरे आणि पिशव्या लॉकरमध्ये ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "A one-hour sound-and-light show runs most evenings at around 7:45 pm on the temple grounds. Timings and ticket details change, so check locally.",
+        "hi": { "text": "मंदिर परिसर में अधिकांश शामों को लगभग 7:45 बजे एक घंटे का ध्वनि-प्रकाश कार्यक्रम चलता है। समय और टिकट का विवरण बदलता रहता है, इसलिए स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "मंदिर परिसरात बहुतेक संध्याकाळी सुमारे 7:45 वाजता एक तासाचा ध्वनी-प्रकाश कार्यक्रम चालतो. वेळा आणि तिकिटाचा तपशील बदलतो, म्हणून स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      {
+        "en": "Follow the marked queue lines. Do not pay strangers who offer to skip the queue or arrange special entry. Use the trust's official counters.",
+        "hi": { "text": "चिह्नित कतार का पालन करें। कतार तोड़ने या विशेष प्रवेश दिलाने का प्रस्ताव देने वाले अजनबियों को पैसे न दें। ट्रस्ट के आधिकारिक काउंटर का उपयोग करें।", "reviewed": false },
+        "mr": { "text": "चिन्हांकित रांगेचे पालन करा. रांग चुकवण्याचा किंवा विशेष प्रवेश देण्याचा प्रस्ताव ठेवणाऱ्या अनोळखी लोकांना पैसे देऊ नका. ट्रस्टच्या अधिकृत काउंटरचा वापर करा.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "Room booking, pooja registration and donations are accepted only through the Shree Somnath Trust site, somnath.org. The trust says it does not take bookings or donations on private numbers, UPI, chat or WhatsApp, and fraud has been reported through those channels.",
+      "hi": { "text": "कमरे की बुकिंग, पूजा पंजीकरण और दान केवल श्री सोमनाथ ट्रस्ट की वेबसाइट, somnath.org, के माध्यम से स्वीकार किए जाते हैं। ट्रस्ट का कहना है कि वह निजी नंबर, UPI, चैट या व्हाट्सऐप पर बुकिंग या दान नहीं लेता, और इन माध्यमों से धोखाधड़ी की सूचना मिली है।", "reviewed": false },
+      "mr": { "text": "खोली बुकिंग, पूजा नोंदणी आणि देणग्या फक्त श्री सोमनाथ ट्रस्टच्या संकेतस्थळावरून, somnath.org, स्वीकारल्या जातात. ट्रस्टचे म्हणणे आहे की ते खासगी क्रमांक, UPI, चॅट किंवा व्हॉट्सॲपवर बुकिंग किंवा देणग्या घेत नाही, आणि या माध्यमांतून फसवणुकीची नोंद झाली आहे.", "reviewed": false }
+    }
+  }
+}

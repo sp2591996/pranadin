@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "dwarka",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: Dwarkadhish, the Gomti and sunset by the sea", "hi": { "text": "एक दिन: द्वारकाधीश, गोमती और समुद्र किनारे सूर्यास्त", "reviewed": false }, "mr": { "text": "एक दिवस: द्वारकाधीश, गोमती आणि समुद्रकिनारी सूर्यास्त", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Bathe or sit at Gomti Ghat, then Dwarkadhish darshan through the Moksha Dwara.", "hi": { "text": "गोमती घाट पर स्नान करें या बैठें, फिर मोक्ष द्वार से द्वारकाधीश के दर्शन।", "reviewed": false }, "mr": { "text": "गोमती घाटावर स्नान करा किंवा बसा, मग मोक्ष द्वारातून द्वारकाधीशाचे दर्शन.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Lunch and rest during the temple break, then Rukmini Devi Temple by auto.", "hi": { "text": "मंदिर के अंतराल में भोजन और विश्राम, फिर ऑटो से रुक्मिणी देवी मंदिर।", "reviewed": false }, "mr": { "text": "मंदिराच्या खंडात जेवण आणि विश्रांती, मग ऑटोने रुक्मिणी देवी मंदिर.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening darshan at the temple and a walk to the sea for sunset.", "hi": { "text": "मंदिर में संध्या दर्शन और सूर्यास्त के लिए समुद्र तक सैर।", "reviewed": false }, "mr": { "text": "मंदिरात संध्याकाळचे दर्शन आणि सूर्यास्तासाठी समुद्राकडे फेरफटका.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: the town, then Nageshwar and Bet Dwarka", "hi": { "text": "दो दिन: नगर, फिर नागेश्वर और बेट द्वारका", "reviewed": false }, "mr": { "text": "दोन दिवस: शहर, मग नागेश्वर आणि बेट द्वारका", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Gomti Ghat and Dwarkadhish darshan.", "hi": { "text": "गोमती घाट और द्वारकाधीश दर्शन।", "reviewed": false }, "mr": { "text": "गोमती घाट आणि द्वारकाधीश दर्शन.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Rest, then Rukmini Devi Temple.", "hi": { "text": "विश्राम, फिर रुक्मिणी देवी मंदिर।", "reviewed": false }, "mr": { "text": "विश्रांती, मग रुक्मिणी देवी मंदिर.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening darshan and a slow walk through the market.", "hi": { "text": "संध्या दर्शन और बाज़ार में धीमी सैर।", "reviewed": false }, "mr": { "text": "संध्याकाळचे दर्शन आणि बाजारात संथ फेरफटका.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Leave early for Gopi Talav and Nageshwar Jyotirlinga.", "hi": { "text": "गोपी तालाब और नागेश्वर ज्योतिर्लिंग के लिए जल्दी निकलें।", "reviewed": false }, "mr": { "text": "गोपी तलाव आणि नागेश्वर ज्योतिर्लिंगासाठी लवकर निघा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Continue to Okha and cross to Bet Dwarka, depending on weather and crossing conditions.", "hi": { "text": "मौसम और आवागमन की स्थिति के अनुसार ओखा जाएँ और बेट द्वारका पार करें।", "reviewed": false }, "mr": { "text": "हवामान आणि प्रवासाच्या स्थितीनुसार ओखाला जा आणि बेट द्वारकेला जा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to Dwarka before dark and rest.", "hi": { "text": "अंधेरे से पहले द्वारका लौटें और विश्राम करें।", "reviewed": false }, "mr": { "text": "अंधार पडण्यापूर्वी द्वारकेला परत या आणि विश्रांती घ्या.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: Dwarka at an easy pace", "hi": { "text": "तीन दिन: द्वारका आराम की गति से", "reviewed": false }, "mr": { "text": "तीन दिवस: द्वारका आरामात", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Gomti Ghat and Dwarkadhish darshan.", "hi": { "text": "गोमती घाट और द्वारकाधीश दर्शन।", "reviewed": false }, "mr": { "text": "गोमती घाट आणि द्वारकाधीश दर्शन.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Watch the flag hoisting and the evening darshan.", "hi": { "text": "ध्वजारोहण और संध्या दर्शन देखें।", "reviewed": false }, "mr": { "text": "ध्वजारोहण आणि संध्याकाळचे दर्शन पाहा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Rukmini Devi Temple, Gopi Talav and Nageshwar Jyotirlinga.", "hi": { "text": "रुक्मिणी देवी मंदिर, गोपी तालाब और नागेश्वर ज्योतिर्लिंग।", "reviewed": false }, "mr": { "text": "रुक्मिणी देवी मंदिर, गोपी तलाव आणि नागेश्वर ज्योतिर्लिंग.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Rest, then a quiet sunset at the sea.", "hi": { "text": "विश्राम, फिर समुद्र पर शांत सूर्यास्त।", "reviewed": false }, "mr": { "text": "विश्रांती, मग समुद्रावर शांत सूर्यास्त.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Bet Dwarka via Okha, crossing early and returning by afternoon.", "hi": { "text": "ओखा होते हुए बेट द्वारका, जल्दी पार करें और दोपहर तक लौटें।", "reviewed": false }, "mr": { "text": "ओखामार्गे बेट द्वारका, लवकर जा आणि दुपारपर्यंत परत या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to Dwarka for a last evening darshan.", "hi": { "text": "अंतिम संध्या दर्शन के लिए द्वारका लौटें।", "reviewed": false }, "mr": { "text": "शेवटच्या संध्याकाळच्या दर्शनासाठी द्वारकेला परत या.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near the temple and Gomti Ghat", "hi": { "text": "मंदिर और गोमती घाट के पास", "reviewed": false }, "mr": { "text": "मंदिर आणि गोमती घाटाजवळ", "reviewed": false } },
+      "body": { "en": "Easiest for early darshan and the sunset walk. Dharamshalas, trust guesthouses and small hotels are common. Rooms fill early around Janmashtami and long weekends.", "hi": { "text": "भोर के दर्शन और सूर्यास्त की सैर के लिए सबसे सुविधाजनक। धर्मशालाएँ, ट्रस्ट अतिथि गृह और छोटे होटल आम हैं। जन्माष्टमी और लंबे सप्ताहांत के आसपास कमरे जल्दी भर जाते हैं।", "reviewed": false }, "mr": { "text": "पहाटेचे दर्शन आणि सूर्यास्ताच्या फेरफटक्यासाठी सर्वात सोयीचे. धर्मशाळा, ट्रस्टची अतिथीगृहे आणि लहान हॉटेल्स सामान्य आहेत. जन्माष्टमी आणि लांब सप्ताहांताच्या सुमारास खोल्या लवकर भरतात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Near Dwarka Railway Station", "hi": { "text": "द्वारका रेलवे स्टेशन के पास", "reviewed": false }, "mr": { "text": "द्वारका रेल्वे स्थानकाजवळ", "reviewed": false } },
+      "body": { "en": "Convenient for arrivals by train, with budget hotels, and a short auto ride from the temple.", "hi": { "text": "रेल से आने वालों के लिए सुविधाजनक, किफ़ायती होटलों के साथ, और मंदिर से ऑटो की छोटी सवारी।", "reviewed": false }, "mr": { "text": "रेल्वेने येणाऱ्यांसाठी सोयीचे, परवडणाऱ्या हॉटेल्ससह, आणि मंदिरापासून ऑटोने थोडेच अंतर.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Along the beach road and Okha road", "hi": { "text": "समुद्र तट मार्ग और ओखा मार्ग पर", "reviewed": false }, "mr": { "text": "समुद्रकिनारा रस्ता आणि ओखा रस्त्यावर", "reviewed": false } },
+      "body": { "en": "Quieter resort-style stays with sea air and parking, at the cost of a longer ride into town. Book directly with the property and ask about cancellation and monsoon closures.", "hi": { "text": "समुद्री हवा और पार्किंग वाले शांत रिसॉर्ट-शैली के ठहराव, पर नगर तक सवारी लंबी। सीधे ठहरने के स्थान से बुक करें और रद्द करने तथा वर्षा में बंद रहने की शर्तें पूछें।", "reviewed": false }, "mr": { "text": "समुद्री हवा आणि पार्किंग असलेली शांत रिसॉर्ट-शैलीची निवासस्थाने, पण शहरात जायला प्रवास लांबचा. थेट निवासस्थानाशी बुक करा आणि रद्द करण्याच्या आणि पावसाळ्यातील बंदीच्या अटी विचारा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Gujarati thali", "hi": { "text": "गुजराती थाली", "reviewed": false }, "mr": { "text": "गुजराती थाळी", "reviewed": false } },
+      "body": { "en": "A full vegetarian meal of dal, kadhi, vegetables, rotli and sweets, served at small restaurants and dharamshala kitchens.", "hi": { "text": "दाल, कढ़ी, सब्ज़ियाँ, रोटली और मिठाई का पूरा शाकाहारी भोजन, छोटे रेस्तराँ और धर्मशाला की रसोइयों में परोसा जाता है।", "reviewed": false }, "mr": { "text": "डाळ, कढी, भाज्या, रोटली आणि मिठाई असे पूर्ण शाकाहारी जेवण, लहान उपाहारगृहे आणि धर्मशाळांच्या स्वयंपाकघरात वाढले जाते.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Fafda, gathiya and khakhra", "hi": { "text": "फाफड़ा, गाठिया और खाखरा", "reviewed": false }, "mr": { "text": "फाफडा, गाठिया आणि खाकरा", "reviewed": false } },
+      "body": { "en": "Gujarati snacks that travel well, good for the road to Nageshwar and Bet Dwarka.", "hi": { "text": "गुजराती नाश्ते जो यात्रा में अच्छे रहते हैं, नागेश्वर और बेट द्वारका के मार्ग के लिए उपयुक्त।", "reviewed": false }, "mr": { "text": "प्रवासात चांगले टिकणारे गुजराती नाश्ते, नागेश्वर आणि बेट द्वारकेच्या मार्गासाठी योग्य.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Peda and temple prasad", "hi": { "text": "पेड़ा और मंदिर का प्रसाद", "reviewed": false }, "mr": { "text": "पेढा आणि मंदिराचा प्रसाद", "reviewed": false } },
+      "body": { "en": "Milk sweets are sold near the temple. Buy prasad from the official counter or known shops, and check freshness in the heat.", "hi": { "text": "मंदिर के पास दूध की मिठाइयाँ मिलती हैं। प्रसाद आधिकारिक काउंटर या जाने-माने दुकानों से लें, और गर्मी में ताज़गी देख लें।", "reviewed": false }, "mr": { "text": "मंदिराजवळ दुधाची मिठाई मिळते. प्रसाद अधिकृत काउंटर किंवा ओळखीच्या दुकानांतून घ्या, आणि उष्णतेत ताजेपणा तपासा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Gujarat is largely vegetarian, and Dwarka's eateries and dharamshala kitchens serve vegetarian food. Many places offer Jain meals without onion and garlic, so ask when ordering. The town follows a dry-state policy, so alcohol is not sold openly.",
+    "hi": { "text": "गुजरात बड़े पैमाने पर शाकाहारी है, और द्वारका के भोजनालय तथा धर्मशाला की रसोइयाँ शाकाहारी भोजन देती हैं। कई स्थान बिना प्याज़-लहसुन का जैन भोजन देते हैं, इसलिए ऑर्डर करते समय माँगें। राज्य में शराबबंदी की नीति है, इसलिए शराब खुलेआम नहीं बिकती।", "reviewed": false },
+    "mr": { "text": "गुजरात मोठ्या प्रमाणात शाकाहारी आहे, आणि द्वारकेतील उपाहारगृहे आणि धर्मशाळांची स्वयंपाकघरे शाकाहारी जेवण देतात. अनेक ठिकाणी कांदा-लसणाशिवाय जैन जेवण मिळते, म्हणून ऑर्डर देताना मागा. राज्यात मद्यबंदीचे धोरण आहे, म्हणून मद्य उघडपणे विकले जात नाही.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 1000, "max": 2000 },
+      "mid": { "min": 2500, "max": 5000 },
+      "comfort": { "min": 6000, "max": 11000 }
+    },
+    "note": {
+      "en": "Indicative figures in rupees per person per day for stay, food and local transport, assuming a twin-share room. Prices rise sharply around Janmashtami, Holi and winter weekends.",
+      "hi": { "text": "रुपये में सांकेतिक आँकड़े, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। जन्माष्टमी, होली और सर्दियों के सप्ताहांत के आसपास कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "रुपयांमध्ये सूचक आकडे, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. जन्माष्टमी, होळी आणि हिवाळ्यातील सप्ताहांताच्या सुमारास दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "The sun and sea wind are strong. Carry water, a hat and sunscreen, and rest in the afternoon break. Summer visits are best at dawn and after sunset.",
+      "hi": { "text": "धूप और समुद्री हवा तेज़ होती है। पानी, टोपी और सनस्क्रीन साथ रखें, और दोपहर के अंतराल में विश्राम करें। गर्मियों में भोर और सूर्यास्त के बाद जाना सर्वोत्तम है।", "reviewed": false },
+      "mr": { "text": "ऊन आणि समुद्री वारा तीव्र असतात. पाणी, टोपी आणि सनस्क्रीन सोबत ठेवा, आणि दुपारच्या खंडात विश्रांती घ्या. उन्हाळ्यात पहाटे आणि सूर्यास्तानंतर जाणे सर्वोत्तम.", "reviewed": false }
+    },
+    {
+      "en": "Boats to Bet Dwarka and the sea at the ghat can be unsafe in rough weather. Follow the boatmen's and local authorities' instructions, wear a life jacket and avoid overloaded boats.",
+      "hi": { "text": "खराब मौसम में बेट द्वारका की नौकाएँ और घाट का समुद्र असुरक्षित हो सकता है। नाविकों और स्थानीय प्रशासन के निर्देश मानें, लाइफ़ जैकेट पहनें और अत्यधिक भरी नौकाओं से बचें।", "reviewed": false },
+      "mr": { "text": "खराब हवामानात बेट द्वारकेच्या नावा आणि घाटावरील समुद्र असुरक्षित असू शकतो. नावाडी आणि स्थानिक प्रशासनाच्या सूचना पाळा, लाइफ जॅकेट घाला आणि अति भरलेल्या नावा टाळा.", "reviewed": false }
+    },
+    {
+      "en": "Drink bottled or filtered water and be careful with street food in heat. This guide is general information and not medical advice, so carry your regular medicines and consult a doctor for health concerns.",
+      "hi": { "text": "बोतलबंद या फ़िल्टर किया पानी पिएँ और गर्मी में सड़क किनारे के भोजन में सावधानी रखें। यह मार्गदर्शिका सामान्य जानकारी है, चिकित्सा सलाह नहीं, इसलिए अपनी नियमित दवाएँ साथ रखें और स्वास्थ्य संबंधी चिंता में डॉक्टर से सलाह लें।", "reviewed": false },
+      "mr": { "text": "बाटलीबंद किंवा गाळलेले पाणी प्या आणि उष्णतेत रस्त्यावरील खाद्यपदार्थांबाबत काळजी घ्या. ही मार्गदर्शिका सामान्य माहिती आहे, वैद्यकीय सल्ला नाही, म्हणून आपली नेहमीची औषधे सोबत ठेवा आणि आरोग्याच्या चिंतेसाठी डॉक्टरांचा सल्ला घ्या.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly and remove footwear before the temple. Ask before photographing people, priests or rituals.",
+      "hi": { "text": "शालीन वस्त्र पहनें और मंदिर से पहले जूते-चप्पल उतारें। लोगों, पुजारियों या अनुष्ठानों की तस्वीर लेने से पहले पूछें।", "reviewed": false },
+      "mr": { "text": "साधे कपडे घाला आणि मंदिरापूर्वी पादत्राणे काढा. लोक, पुजारी किंवा विधींचे छायाचित्र घेण्यापूर्वी विचारा.", "reviewed": false }
+    },
+    {
+      "en": "Phones and cameras are not allowed inside the main temple. Follow the signs and the guards' instructions.",
+      "hi": { "text": "मुख्य मंदिर के भीतर फ़ोन और कैमरे की अनुमति नहीं है। संकेतों और सुरक्षाकर्मियों के निर्देशों का पालन करें।", "reviewed": false },
+      "mr": { "text": "मुख्य मंदिराच्या आत फोन आणि कॅमेऱ्याला परवानगी नाही. फलक आणि सुरक्षारक्षकांच्या सूचनांचे पालन करा.", "reviewed": false }
+    },
+    {
+      "en": "Keep the queue orderly and be patient during the busy darshan hours, especially with elders and families.",
+      "hi": { "text": "कतार व्यवस्थित रखें और भीड़ वाले दर्शन समय में धैर्य रखें, विशेषकर बुज़ुर्गों और परिवारों के प्रति।", "reviewed": false },
+      "mr": { "text": "रांग शिस्तीत ठेवा आणि गर्दीच्या दर्शनवेळी संयम बाळगा, विशेषतः ज्येष्ठ आणि कुटुंबांशी.", "reviewed": false }
+    },
+    {
+      "en": "Do not litter at the Gomti ghat or the sea. Use the bins and avoid plastic offerings.",
+      "hi": { "text": "गोमती घाट या समुद्र पर कचरा न फैलाएँ। कूड़ेदान का उपयोग करें और प्लास्टिक की सामग्री अर्पित करने से बचें।", "reviewed": false },
+      "mr": { "text": "गोमती घाट किंवा समुद्रावर कचरा टाकू नका. कचरापेट्या वापरा आणि प्लास्टिकचे साहित्य अर्पण करणे टाळा.", "reviewed": false }
+    }
+  ]
+}

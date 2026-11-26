@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "haridwar",
+  "sights": [
+    {
+      "id": "har-ki-pauri",
+      "name": { "en": "Har Ki Pauri and the Ganga aarti", "hi": { "text": "हर की पौड़ी और गंगा आरती", "reviewed": false }, "mr": { "text": "हर की पौडी आणि गंगा आरती", "reviewed": false } },
+      "desc": {
+        "en": "The most sacred ghat of the city, with the Brahmakund where pilgrims bathe. At dusk priests lift great lamps for the Ganga aarti, and people float small lamps on the water. It is very crowded, so arrive early for a place on the steps or watch from the footbridges.",
+        "hi": { "text": "नगर का सबसे पवित्र घाट, जहाँ ब्रह्मकुंड में श्रद्धालु स्नान करते हैं। गोधूलि में पुजारी गंगा आरती के लिए बड़े दीप उठाते हैं और लोग जल पर छोटे दीप प्रवाहित करते हैं। भीड़ बहुत होती है, इसलिए सीढ़ियों पर जगह के लिए जल्दी पहुँचें या पैदल पुलों से देखें।", "reviewed": false },
+        "mr": { "text": "शहराचा सर्वात पवित्र घाट, जिथे ब्रह्मकुंडात भाविक स्नान करतात. गोधूलीला पुजारी गंगा आरतीसाठी मोठे दिवे उचलतात आणि लोक पाण्यावर लहान दिवे सोडतात. गर्दी खूप असते, म्हणून पायऱ्यांवर जागेसाठी लवकर पोहोचा किंवा पादचारी पुलांवरून पाहा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The ghat is open at all hours. The main aarti is at dusk, daily, and there is a smaller morning aarti around dawn. Timings shift with the season, so check locally.",
+        "hi": { "text": "घाट हर समय खुला रहता है। मुख्य आरती प्रतिदिन गोधूलि में होती है और भोर के आसपास एक छोटी प्रातः आरती भी होती है। समय ऋतु के साथ बदलता है, इसलिए स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "घाट सर्व वेळी उघडा असतो. मुख्य आरती दररोज गोधूलीला होते आणि पहाटेच्या सुमारास लहान प्रभात आरतीही असते. वेळा ऋतूनुसार बदलतात, म्हणून स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, quick-dry clothes for a bath, and a spare set. Steps are wet and slippery, and the current is strong, so hold the chains and keep children close. Keep valuables safe in the crowd.",
+        "hi": { "text": "स्नान के लिए शालीन, जल्दी सूखने वाले कपड़े और एक अतिरिक्त जोड़ी। सीढ़ियाँ गीली और फिसलन भरी हैं और धारा तेज़ है, इसलिए ज़ंजीरें पकड़ें और बच्चों को पास रखें। भीड़ में कीमती सामान सुरक्षित रखें।", "reviewed": false },
+        "mr": { "text": "स्नानासाठी साधे, लवकर सुकणारे कपडे आणि एक जादा जोड. पायऱ्या ओल्या आणि निसरड्या आहेत आणि प्रवाह जोरदार आहे, म्हणून साखळ्या धरा आणि मुलांना जवळ ठेवा. गर्दीत मौल्यवान वस्तू सुरक्षित ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "mansa-devi",
+      "name": { "en": "Mansa Devi Temple", "hi": { "text": "मनसा देवी मंदिर", "reviewed": false }, "mr": { "text": "मनसा देवी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A hilltop temple of Goddess Mansa Devi on Bilva Parvat, reached by ropeway or by a steep stepped path. Pilgrims tie sacred threads here with a wish. The view over the city and the river is wide.",
+        "hi": { "text": "बिल्व पर्वत पर देवी मनसा देवी का पहाड़ी मंदिर, जहाँ रोपवे या खड़ी सीढ़ीदार पगडंडी से पहुँचा जाता है। श्रद्धालु यहाँ मनोकामना के साथ पवित्र धागे बाँधते हैं। नगर और नदी का दृश्य विस्तृत है।", "reviewed": false },
+        "mr": { "text": "बिल्व पर्वतावर देवी मनसा देवीचे टेकडीवरील मंदिर, जिथे रोपवेने किंवा तीव्र पायऱ्यांच्या वाटेने पोहोचता येते. भाविक येथे इच्छा मनात धरून पवित्र धागे बांधतात. शहर आणि नदीचे दृश्य विस्तृत आहे.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from early morning to evening with a midday break. The ropeway has its own hours and closes in strong wind or bad weather. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह से शाम तक खुला, दोपहर में विश्राम के साथ। रोपवे के अपने समय हैं और तेज़ हवा या खराब मौसम में बंद रहता है। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटेपासून संध्याकाळपर्यंत उघडे, दुपारी विश्रांतीसह. रोपवेच्या स्वतःच्या वेळा आहेत आणि जोरदार वारा किंवा खराब हवामानात बंद असतो. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes and comfortable shoes you can remove easily. Keep monkeys in mind and hold food and bags close.",
+        "hi": { "text": "शालीन कपड़े और आसानी से उतरने वाले आरामदायक जूते। बंदरों का ध्यान रखें और भोजन और थैले पास रखें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे आणि सहज काढता येणारे आरामदायी बूट. माकडांची काळजी घ्या आणि खाऊ व पिशव्या जवळ ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "chandi-devi",
+      "name": { "en": "Chandi Devi Temple", "hi": { "text": "चंडी देवी मंदिर", "reviewed": false }, "mr": { "text": "चंडी देवी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A temple of Goddess Chandi on Neel Parvat across the river. It can be reached by ropeway or by a walk of about 3 km from Chandighat, which is steady and uphill. Pair it with Mansa Devi only if you have a full morning.",
+        "hi": { "text": "नदी के पार नील पर्वत पर देवी चंडी का मंदिर। रोपवे से या चंडीघाट से लगभग 3 किमी की पैदल यात्रा से पहुँचा जा सकता है, जो लगातार चढ़ाई वाली है। मनसा देवी के साथ तभी जोड़ें जब आपके पास पूरी सुबह हो।", "reviewed": false },
+        "mr": { "text": "नदीपलीकडे नील पर्वतावर देवी चंडीचे मंदिर. रोपवेने किंवा चंडीघाटपासून सुमारे 3 किमीच्या पायी वाटेने पोहोचता येते, जी सतत चढणीची आहे. पूर्ण सकाळ असेल तरच मनसा देवीसोबत जोडा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from morning to evening, and the trek path is best used by daylight. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह से शाम तक खुला, और पैदल मार्ग दिन के उजाले में ही उचित है। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "सहसा सकाळपासून संध्याकाळपर्यंत उघडे, आणि पायी वाट दिवसाच्या उजेडातच योग्य आहे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Walking shoes if you trek, a hat and water. Modest clothes for the temple.",
+        "hi": { "text": "पैदल चलें तो चलने के जूते, टोपी और पानी। मंदिर के लिए शालीन कपड़े।", "reviewed": false },
+        "mr": { "text": "चालत गेलात तर चालण्याचे बूट, टोपी आणि पाणी. मंदिरासाठी साधे कपडे.", "reviewed": false }
+      }
+    },
+    {
+      "id": "maya-devi",
+      "name": { "en": "Maya Devi Temple", "hi": { "text": "माया देवी मंदिर", "reviewed": false }, "mr": { "text": "माया देवी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "An old temple of the presiding goddess of the city, counted as a Siddhapitha, from which the older name Mayapuri comes. It is a calmer visit, close to the centre, and the usual stop on a short city circuit.",
+        "hi": { "text": "नगर की अधिष्ठात्री देवी का प्राचीन मंदिर, जिसे सिद्धपीठ माना जाता है और जिससे पुराना नाम मायापुरी आया। यह अपेक्षाकृत शांत दर्शन है, केंद्र के पास, और छोटे नगर भ्रमण का सामान्य पड़ाव।", "reviewed": false },
+        "mr": { "text": "शहराच्या अधिष्ठात्री देवीचे जुने मंदिर, जे सिद्धपीठ मानले जाते आणि ज्यावरून जुने नाव मायापुरी आले. हे तुलनेने शांत दर्शन आहे, केंद्राजवळ, आणि लहान शहर फेरीतला नेहमीचा थांबा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from early morning to evening. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह जल्दी से शाम तक खुला। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटेपासून संध्याकाळपर्यंत उघडे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside.",
+        "hi": { "text": "शालीन कपड़े। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "daksheshwar-mahadev",
+      "name": { "en": "Daksheshwar Mahadev Temple, Kankhal", "hi": { "text": "दक्षेश्वर महादेव मंदिर, कनखल", "reviewed": false }, "mr": { "text": "दक्षेश्वर महादेव मंदिर, कनखल", "reviewed": false } },
+      "desc": {
+        "en": "A Shiva temple in the old quarter of Kankhal, tied by tradition to the story of Sati and King Daksha. A quiet visit with ashrams and the river nearby, away from the Har Ki Pauri crowd.",
+        "hi": { "text": "कनखल के पुराने मोहल्ले में शिव मंदिर, जो परंपरा से सती और राजा दक्ष की कथा से जुड़ा है। आश्रमों और नदी के पास शांत दर्शन, हर की पौड़ी की भीड़ से दूर।", "reviewed": false },
+        "mr": { "text": "कनखलच्या जुन्या भागातील शिव मंदिर, जे परंपरेने सती आणि राजा दक्ष यांच्या कथेशी जोडलेले आहे. आश्रम आणि नदीजवळ शांत दर्शन, हर की पौडीच्या गर्दीपासून दूर.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from early morning to evening. Very crowded on Shivaratri and during Shravan. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह जल्दी से शाम तक खुला। शिवरात्रि और श्रावण में बहुत भीड़ रहती है। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटेपासून संध्याकाळपर्यंत उघडे. शिवरात्र आणि श्रावणात खूप गर्दी असते. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside the temple.",
+        "hi": { "text": "शालीन कपड़े। मंदिर के बाहर जूते-चप्पल उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. मंदिराबाहेर पादत्राणे काढा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early. Mornings and weekdays are the calmest at the temples and the ghat. Festival days, the Kanwar season in July and Kumbh years are extremely crowded and parts of the city are closed to vehicles.",
+        "hi": { "text": "जल्दी जाएँ। मंदिरों और घाट पर सुबह और कार्यदिवस सबसे शांत होते हैं। त्योहार के दिन, जुलाई में काँवड़ का समय और कुंभ के वर्ष अत्यंत भीड़ भरे होते हैं और नगर के कुछ भाग वाहनों के लिए बंद रहते हैं।", "reviewed": false },
+        "mr": { "text": "लवकर जा. मंदिरे आणि घाटावर सकाळ आणि आठवड्याचे दिवस सर्वात शांत असतात. सणांचे दिवस, जुलैमधील कावड हंगाम आणि कुंभाची वर्षे अत्यंत गर्दीची असतात आणि शहराचे काही भाग वाहनांसाठी बंद असतात.", "reviewed": false }
+      },
+      {
+        "en": "For the evening aarti, reach Har Ki Pauri about an hour before dusk. Stay on the side of the steps that is open to the public and follow the police and volunteers. Do not step into the water beyond the chains.",
+        "hi": { "text": "संध्या आरती के लिए गोधूलि से लगभग एक घंटा पहले हर की पौड़ी पहुँचें। सीढ़ियों के उस ओर रहें जो जनता के लिए खुली है और पुलिस व स्वयंसेवकों का निर्देश मानें। ज़ंजीरों से आगे पानी में न जाएँ।", "reviewed": false },
+        "mr": { "text": "संध्या आरतीसाठी गोधूलीच्या सुमारे एक तास आधी हर की पौडीला पोहोचा. जनतेसाठी खुल्या असलेल्या पायऱ्यांच्या बाजूला थांबा आणि पोलीस व स्वयंसेवकांच्या सूचना पाळा. साखळ्यांच्या पलीकडे पाण्यात जाऊ नका.", "reviewed": false }
+      },
+      {
+        "en": "Priests, pandas and guides may offer to guide you for rites or a fast queue. You may politely decline. Agree any donation or fee in advance and ask for the official receipt where there is one. Do not pay strangers for a queue jump.",
+        "hi": { "text": "पुजारी, पंडे और गाइड कर्मकांड या जल्दी कतार के लिए मार्गदर्शन का प्रस्ताव दे सकते हैं। आप विनम्रता से मना कर सकते हैं। किसी भी दान या शुल्क को पहले तय करें और जहाँ रसीद हो वहाँ आधिकारिक रसीद माँगें। कतार तोड़ने के लिए अजनबियों को पैसे न दें।", "reviewed": false },
+        "mr": { "text": "पुजारी, पंडे आणि मार्गदर्शक विधींसाठी किंवा जलद रांगेसाठी मार्गदर्शन देऊ करू शकतात. तुम्ही नम्रपणे नकार देऊ शकता. कोणतेही दान किंवा शुल्क आधी ठरवा आणि जिथे पावती असते तिथे अधिकृत पावती मागा. रांग टाळण्यासाठी अनोळखी लोकांना पैसे देऊ नका.", "reviewed": false }
+      },
+      {
+        "en": "Keep offerings simple: flowers, a lamp in a leaf cup and sweets from licensed shops. Do not put plastic, clothes or old garlands into the river, and use the collection points.",
+        "hi": { "text": "चढ़ावा सरल रखें: फूल, पत्ते के दोने में दीप और लाइसेंस वाली दुकानों से मिठाई। प्लास्टिक, कपड़े या पुरानी मालाएँ नदी में न डालें और संग्रह स्थलों का उपयोग करें।", "reviewed": false },
+        "mr": { "text": "अर्पण साधे ठेवा: फुले, पानाच्या द्रोणात दिवा आणि परवानाधारक दुकानांतून मिठाई. प्लास्टिक, कपडे किंवा जुने हार नदीत टाकू नका आणि संकलन स्थळांचा वापर करा.", "reviewed": false }
+      },
+      {
+        "en": "For the hill temples, older visitors and those with limited walking should prefer the ropeway, and check queue times for it, which can be long. Wheelchair and assisted options differ by site, so ask at the entrance.",
+        "hi": { "text": "पहाड़ी मंदिरों के लिए वृद्ध और कम चल सकने वाले यात्री रोपवे को प्राथमिकता दें और उसकी कतार का समय जाँच लें, जो लंबा हो सकता है। व्हीलचेयर और सहायक विकल्प स्थान के अनुसार अलग हैं, इसलिए प्रवेश पर पूछें।", "reviewed": false },
+        "mr": { "text": "डोंगरावरील मंदिरांसाठी ज्येष्ठ आणि कमी चालू शकणाऱ्यांनी रोपवेला प्राधान्य द्यावे आणि त्याच्या रांगेची वेळ तपासावी, जी लांब असू शकते. व्हीलचेअर आणि साहाय्यक पर्याय ठिकाणानुसार वेगळे आहेत, म्हणून प्रवेशद्वारावर विचारा.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the ropeway operator, the temple trusts and the Uttarakhand tourism department publish official sites that may show ropeway tickets, aarti details and notices. This app does not book or sell anything. Use only the official sites and check the current process yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: रोपवे संचालक, मंदिर न्यास और उत्तराखंड पर्यटन विभाग की आधिकारिक साइटें हैं जिन पर रोपवे टिकट, आरती का विवरण और सूचनाएँ हो सकती हैं। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइटों का उपयोग करें और वर्तमान प्रक्रिया स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: रोपवे चालक, मंदिर न्यास आणि उत्तराखंड पर्यटन विभाग यांची अधिकृत संकेतस्थळे आहेत ज्यावर रोपवे तिकिटे, आरतीचा तपशील आणि सूचना असू शकतात. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळे वापरा आणि सध्याची प्रक्रिया स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}

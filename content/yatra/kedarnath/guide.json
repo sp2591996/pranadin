@@ -1,0 +1,165 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "kedarnath",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: a helicopter round trip (only if booked and the weather allows)", "hi": { "text": "एक दिन: हेलीकॉप्टर से आना-जाना (केवल बुकिंग हो और मौसम अनुमति दे)", "reviewed": false }, "mr": { "text": "एक दिवस: हेलिकॉप्टरने जा-ये (फक्त आरक्षण असेल आणि हवामान परवानगी देईल तर)", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Fly from your booked base such as Phata or Sersi to the helipad, then walk the short distance to the temple. Flights can be cancelled at short notice for weather.", "hi": { "text": "अपने बुक किए आधार स्थल जैसे फाटा या सेरसी से हेलीपैड तक उड़ें, फिर थोड़ी दूरी पैदल चलकर मंदिर पहुँचें। मौसम के कारण उड़ानें अचानक रद्द हो सकती हैं।", "reviewed": false }, "mr": { "text": "तुमच्या आरक्षित तळावरून, जसे फाटा किंवा सेरसी, हेलिपॅडपर्यंत उडा, मग थोडे अंतर चालत मंदिरापर्यंत जा. हवामानामुळे उड्डाणे अचानक रद्द होऊ शकतात.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan, a few quiet minutes at the Shankaracharya Samadhi, and a simple meal. Keep to the return time on your ticket.", "hi": { "text": "दर्शन, शंकराचार्य समाधि पर कुछ शांत मिनट और सादा भोजन। अपने टिकट पर लिखे वापसी समय का पालन करें।", "reviewed": false }, "mr": { "text": "दर्शन, शंकराचार्य समाधीजवळ काही शांत मिनिटे आणि साधे जेवण. तिकिटावरील परतीच्या वेळेचे पालन करा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Fly back and rest at your base. Even a short day at this height can be tiring, so keep the evening free.", "hi": { "text": "वापस उड़कर अपने आधार स्थल पर विश्राम करें। इस ऊँचाई पर छोटा दिन भी थका सकता है, इसलिए शाम खाली रखें।", "reviewed": false }, "mr": { "text": "परत उडून तळावर विश्रांती घ्या. या उंचीवर लहान दिवसही थकवू शकतो, म्हणून संध्याकाळ मोकळी ठेवा.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: walk up, stay the night, darshan and descend", "hi": { "text": "दो दिन: पैदल चढ़ें, रात रुकें, दर्शन करें और उतरें", "reviewed": false }, "mr": { "text": "दोन दिवस: चालत चढा, रात्री मुक्काम, दर्शन आणि उतरा", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Start from Gaurikund before sunrise with water, snacks and rain gear. Walk steadily with short rests.", "hi": { "text": "सूर्योदय से पहले पानी, नाश्ते और बरसात के सामान के साथ गौरीकुंड से चलें। छोटे विश्राम लेकर स्थिर गति से चलें।", "reviewed": false }, "mr": { "text": "सूर्योदयापूर्वी पाणी, खाऊ आणि पावसाच्या सामानासह गौरीकुंडहून निघा. लहान विश्रांती घेत स्थिर गतीने चाला.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Reach Kedarnath, check in, rest and drink warm fluids. If the queue is short and you feel well, you may take darshan the same day.", "hi": { "text": "केदारनाथ पहुँचें, ठहरने की जगह पर प्रवेश लें, विश्राम करें और गुनगुने पेय लें। कतार छोटी हो और आप स्वस्थ हों तो उसी दिन दर्शन कर सकते हैं।", "reviewed": false }, "mr": { "text": "केदारनाथला पोहोचा, राहण्याच्या जागी नोंद करा, विश्रांती घ्या आणि कोमट पेये घ्या. रांग लहान असेल आणि बरे वाटत असेल तर त्याच दिवशी दर्शन घेऊ शकता.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening aarti if it suits you, then an early night. Nights are very cold, so sleep in layers.", "hi": { "text": "अनुकूल हो तो संध्या आरती, फिर जल्दी विश्राम। रातें बहुत ठंडी होती हैं, इसलिए परतों में सोएँ।", "reviewed": false }, "mr": { "text": "सोयीचे असेल तर संध्या आरती, मग लवकर विश्रांती. रात्री खूप थंड असतात, म्हणून थरांमध्ये झोपा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Early darshan, a visit to the Shankaracharya Samadhi and, if the weather is clear, Bhairavnath.", "hi": { "text": "सुबह जल्दी दर्शन, शंकराचार्य समाधि और मौसम साफ़ हो तो भैरवनाथ का भ्रमण।", "reviewed": false }, "mr": { "text": "पहाटे दर्शन, शंकराचार्य समाधीला भेट आणि हवामान स्वच्छ असेल तर भैरवनाथ.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Begin the descent to Gaurikund after an early meal. Going down is hard on the knees, so go slowly and use poles if you have them.", "hi": { "text": "जल्दी भोजन के बाद गौरीकुंड की ओर उतरना शुरू करें। उतराई घुटनों पर भारी पड़ती है, इसलिए धीरे चलें और छड़ी हो तो उपयोग करें।", "reviewed": false }, "mr": { "text": "लवकर जेवणानंतर गौरीकुंडकडे उतरायला सुरुवात करा. उतरण गुडघ्यांना जड जाते, म्हणून सावकाश चाला आणि काठी असेल तर वापरा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Reach Gaurikund or Sonprayag, and rest. Do not travel the mountain road in the dark.", "hi": { "text": "गौरीकुंड या सोनप्रयाग पहुँचकर विश्राम करें। अँधेरे में पर्वतीय सड़क पर यात्रा न करें।", "reviewed": false }, "mr": { "text": "गौरीकुंड किंवा सोनप्रयागला पोहोचून विश्रांती घ्या. अंधारात डोंगरी रस्त्यावरून प्रवास करू नका.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: a rest day first, then the climb and a calm return", "hi": { "text": "तीन दिन: पहले विश्राम का दिन, फिर चढ़ाई और शांत वापसी", "reviewed": false }, "mr": { "text": "तीन दिवस: आधी विश्रांतीचा दिवस, मग चढाई आणि शांत परतीचा प्रवास", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Travel from Rishikesh or Haridwar towards Guptkashi or Phata. Leave early and keep a buffer for road delays.", "hi": { "text": "ऋषिकेश या हरिद्वार से गुप्तकाशी या फाटा की ओर यात्रा करें। जल्दी निकलें और सड़क देरी के लिए समय रखें।", "reviewed": false }, "mr": { "text": "ऋषिकेश किंवा हरिद्वारहून गुप्तकाशी किंवा फाटाकडे प्रवास करा. लवकर निघा आणि रस्त्यावरील उशिरासाठी वेळ राखून ठेवा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Check in, confirm your registration and the weather outlook, and rest. A day at a lower height helps you settle before the climb.", "hi": { "text": "ठहरने की जगह पर प्रवेश लें, पंजीकरण और मौसम का पूर्वानुमान पक्का करें और विश्राम करें। निचली ऊँचाई पर एक दिन चढ़ाई से पहले ढलने में मदद करता है।", "reviewed": false }, "mr": { "text": "राहण्याच्या जागी नोंद करा, नोंदणी आणि हवामानाचा अंदाज निश्चित करा आणि विश्रांती घ्या. कमी उंचीवरचा एक दिवस चढाईपूर्वी जुळवून घेण्यास मदत करतो.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Vishwanath Temple in Guptkashi and an early dinner.", "hi": { "text": "गुप्तकाशी में विश्वनाथ मंदिर और जल्दी रात्रि भोजन।", "reviewed": false }, "mr": { "text": "गुप्तकाशीतील विश्वनाथ मंदिर आणि लवकर रात्रीचे जेवण.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Go to Sonprayag and Gaurikund and start the trek at first light.", "hi": { "text": "सोनप्रयाग और गौरीकुंड जाएँ और पहली रोशनी में पैदल यात्रा शुरू करें।", "reviewed": false }, "mr": { "text": "सोनप्रयाग आणि गौरीकुंडला जा आणि पहिल्या उजेडात पायी यात्रा सुरू करा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Arrive at Kedarnath, rest and keep warm. Take darshan if the queue is short and you feel well.", "hi": { "text": "केदारनाथ पहुँचें, विश्राम करें और गर्म रहें। कतार छोटी हो और आप स्वस्थ हों तो दर्शन करें।", "reviewed": false }, "mr": { "text": "केदारनाथला पोहोचा, विश्रांती घ्या आणि उबदार राहा. रांग लहान असेल आणि बरे वाटत असेल तर दर्शन घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening aarti and an early night.", "hi": { "text": "संध्या आरती और जल्दी विश्राम।", "reviewed": false }, "mr": { "text": "संध्या आरती आणि लवकर विश्रांती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Unhurried darshan, the Shankaracharya Samadhi and a quiet sit looking at the peaks.", "hi": { "text": "बिना जल्दबाज़ी दर्शन, शंकराचार्य समाधि और शिखरों को निहारते हुए शांत बैठना।", "reviewed": false }, "mr": { "text": "घाई न करता दर्शन, शंकराचार्य समाधी आणि शिखरे पाहत शांत बसणे.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Walk down to Gaurikund at an easy pace, with rests, before the weather turns.", "hi": { "text": "मौसम बदलने से पहले आराम से, विश्राम लेते हुए गौरीकुंड तक उतरें।", "reviewed": false }, "mr": { "text": "हवामान बदलण्यापूर्वी आरामात, विश्रांती घेत गौरीकुंडपर्यंत उतरा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Drive back towards Guptkashi or Rudraprayag while it is still light, and rest.", "hi": { "text": "उजाला रहते गुप्तकाशी या रुद्रप्रयाग की ओर लौटें और विश्राम करें।", "reviewed": false }, "mr": { "text": "उजेड असतानाच गुप्तकाशी किंवा रुद्रप्रयागकडे परत जा आणि विश्रांती घ्या.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Guptkashi, Phata and Sonprayag (before the climb)", "hi": { "text": "गुप्तकाशी, फाटा और सोनप्रयाग (चढ़ाई से पहले)", "reviewed": false }, "mr": { "text": "गुप्तकाशी, फाटा आणि सोनप्रयाग (चढाईपूर्वी)", "reviewed": false } },
+      "body": { "en": "Guesthouses and small hotels line the road. Guptkashi is the larger town, while Sonprayag and Gaurikund are closest to the start. Rooms fill quickly in May and June, so book early.", "hi": { "text": "सड़क के किनारे अतिथि गृह और छोटे होटल हैं। गुप्तकाशी बड़ा नगर है, जबकि सोनप्रयाग और गौरीकुंड आरंभ स्थल के सबसे पास हैं। मई-जून में कमरे जल्दी भर जाते हैं, इसलिए पहले बुक करें।", "reviewed": false }, "mr": { "text": "रस्त्याकडेला अतिथीगृहे आणि लहान हॉटेल आहेत. गुप्तकाशी हे मोठे शहर आहे, तर सोनप्रयाग आणि गौरीकुंड प्रारंभ स्थळाच्या सर्वात जवळ आहेत. मे-जूनमध्ये खोल्या लवकर भरतात, म्हणून आधी आरक्षण करा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "On the trek route", "hi": { "text": "पैदल मार्ग पर", "reviewed": false }, "mr": { "text": "पायी मार्गावर", "reviewed": false } },
+      "body": { "en": "Simple lodges and tea stops are spread along the walk, with basic rooms and shared washrooms. They are useful as a rest point but facilities are limited, and prices rise with height.", "hi": { "text": "पैदल मार्ग पर सरल आवास और चाय के ठिकाने फैले हैं, जिनमें साधारण कमरे और साझा शौचालय हैं। वे विश्राम बिंदु के रूप में उपयोगी हैं पर सुविधाएँ सीमित हैं और ऊँचाई के साथ कीमतें बढ़ती हैं।", "reviewed": false }, "mr": { "text": "पायी मार्गावर साधी निवासस्थाने आणि चहाची ठिकाणे पसरलेली आहेत, साध्या खोल्या आणि सामायिक स्वच्छतागृहांसह. ती विश्रांती बिंदू म्हणून उपयुक्त आहेत पण सोयी मर्यादित आहेत आणि उंचीबरोबर दर वाढतात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "At Kedarnath (tents, cabins and dormitories)", "hi": { "text": "केदारनाथ में (टेंट, केबिन और छात्रावास)", "reviewed": false }, "mr": { "text": "केदारनाथ येथे (तंबू, केबिन आणि वसतिगृहे)", "reviewed": false } },
+      "body": { "en": "Stays near the temple are tents, small cabins and dormitories, often run by the state tourism corporation, trusts and private operators. Space is limited and nights are very cold. Book through official channels, and carry a warm sleeping layer.", "hi": { "text": "मंदिर के पास ठहरने के स्थान टेंट, छोटे केबिन और छात्रावास हैं, जो अक्सर राज्य पर्यटन निगम, न्यास और निजी संचालक चलाते हैं। जगह सीमित है और रातें बहुत ठंडी हैं। आधिकारिक माध्यम से बुक करें और गर्म सोने के कपड़े साथ रखें।", "reviewed": false }, "mr": { "text": "मंदिराजवळील निवास म्हणजे तंबू, लहान केबिन आणि वसतिगृहे, जी अनेकदा राज्य पर्यटन महामंडळ, न्यास आणि खासगी चालक चालवतात. जागा मर्यादित आहे आणि रात्री खूप थंड असतात. अधिकृत माध्यमातून आरक्षण करा आणि झोपण्यासाठी उबदार कपडे सोबत ठेवा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Rudraprayag and Srinagar (if you want a bigger town)", "hi": { "text": "रुद्रप्रयाग और श्रीनगर (यदि बड़ा नगर चाहिए)", "reviewed": false }, "mr": { "text": "रुद्रप्रयाग आणि श्रीनगर (मोठे शहर हवे असल्यास)", "reviewed": false } },
+      "body": { "en": "More choice of rooms and shops, a good first night stop on the way up. Add two to three hours of road time to reach the start of the trek the next day.", "hi": { "text": "कमरों और दुकानों का अधिक विकल्प, ऊपर जाते समय पहली रात के लिए अच्छा पड़ाव। अगले दिन पैदल मार्ग के आरंभ तक पहुँचने में सड़क पर दो से तीन घंटे और जोड़ें।", "reviewed": false }, "mr": { "text": "खोल्या आणि दुकानांचे अधिक पर्याय, वर जाताना पहिल्या रात्रीसाठी चांगला मुक्काम. दुसऱ्या दिवशी पायी मार्गाच्या प्रारंभापर्यंत पोहोचण्यास रस्त्यावर दोन ते तीन तास अधिक धरा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Simple dal, rice, roti and khichdi", "hi": { "text": "सादी दाल, चावल, रोटी और खिचड़ी", "reviewed": false }, "mr": { "text": "साधी डाळ, भात, पोळी आणि खिचडी", "reviewed": false } },
+      "body": { "en": "Eateries along the route serve plain vegetarian meals. Light, freshly cooked food is easier to digest at height than heavy, oily dishes.", "hi": { "text": "मार्ग के भोजनालय सादा शाकाहारी भोजन परोसते हैं। ऊँचाई पर भारी, तैलीय व्यंजनों की तुलना में हल्का, ताज़ा पका भोजन पचाना आसान होता है।", "reviewed": false }, "mr": { "text": "मार्गावरील खानावळी साधे शाकाहारी जेवण देतात. उंचीवर जड, तेलकट पदार्थांपेक्षा हलके, ताजे शिजवलेले अन्न पचायला सोपे असते.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Parathas, poha and hot tea", "hi": { "text": "पराठे, पोहा और गर्म चाय", "reviewed": false }, "mr": { "text": "पराठे, पोहे आणि गरम चहा", "reviewed": false } },
+      "body": { "en": "Simple breakfasts for an early start, plus tea, soup and hot water at stalls on the trek. Carry nuts, dates and biscuits for the walk.", "hi": { "text": "जल्दी निकलने के लिए सादा नाश्ता, और पैदल मार्ग पर ठेलों में चाय, सूप और गर्म पानी। चलने के लिए मेवे, खजूर और बिस्कुट साथ रखें।", "reviewed": false }, "mr": { "text": "लवकर निघण्यासाठी साधा नाश्ता, आणि पायी मार्गावरील गाड्यांवर चहा, सूप आणि गरम पाणी. चालण्यासाठी सुकामेवा, खजूर आणि बिस्किटे सोबत ठेवा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Garhwali food in the valley", "hi": { "text": "घाटी में गढ़वाली भोजन", "reviewed": false }, "mr": { "text": "दरीतील गढवाली जेवण", "reviewed": false } },
+      "body": { "en": "In Guptkashi, Rudraprayag and Srinagar look for mandua roti, jhangora kheer and local dal such as gahat. A good way to taste the region before the climb.", "hi": { "text": "गुप्तकाशी, रुद्रप्रयाग और श्रीनगर में मंडुआ की रोटी, झंगोरे की खीर और गहत जैसी स्थानीय दाल खोजें। चढ़ाई से पहले क्षेत्र का स्वाद लेने का अच्छा तरीका।", "reviewed": false }, "mr": { "text": "गुप्तकाशी, रुद्रप्रयाग आणि श्रीनगरमध्ये मंडुआची भाकरी, झंगोऱ्याची खीर आणि गहत यांसारखी स्थानिक डाळ शोधा. चढाईपूर्वी प्रदेशाची चव घेण्याचा चांगला मार्ग.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Water and what to avoid", "hi": { "text": "पानी और किससे बचें", "reviewed": false }, "mr": { "text": "पाणी आणि काय टाळावे", "reviewed": false } },
+      "body": { "en": "Drink bottled or boiled water often, even when it is cold and you do not feel thirsty. Skip raw salads and cut fruit from roadside carts.", "hi": { "text": "बोतलबंद या उबला पानी बार-बार पिएँ, ठंड हो और प्यास न लगे तब भी। सड़क किनारे ठेलों से कच्चा सलाद और कटे फल न लें।", "reviewed": false }, "mr": { "text": "बाटलीबंद किंवा उकळलेले पाणी वारंवार प्या, थंडी असली आणि तहान लागत नसली तरी. रस्त्याकडील गाड्यांवरील कच्चे सॅलड आणि कापलेली फळे टाळा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Food along the Kedarnath route is almost entirely vegetarian, and many eateries cook without onion and garlic on request. Alcohol and meat are not part of the shrine area. Tell the cook if you need Jain or satvik food, and carry dry snacks for the trek.",
+    "hi": { "text": "केदारनाथ मार्ग का भोजन लगभग पूरी तरह शाकाहारी है और कई भोजनालय अनुरोध पर बिना प्याज़-लहसुन के पकाते हैं। शराब और मांस धाम क्षेत्र का भाग नहीं हैं। जैन या सात्त्विक भोजन चाहिए तो रसोइये को बताएँ और पैदल यात्रा के लिए सूखा नाश्ता साथ रखें।", "reviewed": false },
+    "mr": { "text": "केदारनाथ मार्गावरील जेवण जवळजवळ पूर्णपणे शाकाहारी आहे आणि अनेक खानावळी विनंतीवर कांदा-लसणाशिवाय शिजवतात. मद्य आणि मांस धाम परिसराचा भाग नाहीत. जैन किंवा सात्त्विक जेवण हवे असल्यास स्वयंपाक्याला सांगा आणि पायी यात्रेसाठी कोरडा खाऊ सोबत ठेवा.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 1500, "max": 2800 },
+      "mid": { "min": 3500, "max": 6500 },
+      "comfort": { "min": 8000, "max": 16000 }
+    },
+    "note": {
+      "en": "Indicative, per person per day for stay, food and local transport, assuming a twin-share room. Ponies, palanquins, porters and helicopter tickets cost extra and rates are set by the authorities. Prices rise sharply in May and June and rooms near the temple are limited.",
+      "hi": { "text": "सांकेतिक, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। घोड़े-खच्चर, पालकी, कुली और हेलीकॉप्टर टिकट अतिरिक्त हैं और दरें प्रशासन तय करता है। मई-जून में कीमतें तेज़ी से बढ़ती हैं और मंदिर के पास कमरे सीमित हैं।", "reviewed": false },
+      "mr": { "text": "सूचक, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. घोडे-खेचर, पालखी, हमाल आणि हेलिकॉप्टर तिकिटे वेगळी आहेत आणि दर प्रशासन ठरवते. मे-जूनमध्ये दर झपाट्याने वाढतात आणि मंदिराजवळ खोल्या मर्यादित आहेत.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Kedarnath is at about 3,583 m, where the air has much less oxygen. Rise in stages, rest a day at a lower height if you can, drink water often and walk slowly. Headache, nausea, dizziness or breathlessness at rest are signs to stop, rest and go down. This is general information, not medical advice.",
+      "hi": { "text": "केदारनाथ लगभग 3,583 मीटर पर है, जहाँ हवा में ऑक्सीजन बहुत कम है। चरणों में ऊपर चढ़ें, हो सके तो निचली ऊँचाई पर एक दिन विश्राम करें, बार-बार पानी पिएँ और धीरे चलें। सिरदर्द, मतली, चक्कर या विश्राम में साँस फूलना रुकने, आराम करने और नीचे उतरने के संकेत हैं। यह सामान्य जानकारी है, चिकित्सकीय सलाह नहीं।", "reviewed": false },
+      "mr": { "text": "केदारनाथ सुमारे 3,583 मीटर उंचीवर आहे, जिथे हवेत ऑक्सिजन खूप कमी असतो. टप्प्याटप्प्याने वर चढा, शक्य असल्यास कमी उंचीवर एक दिवस विश्रांती घ्या, वारंवार पाणी प्या आणि सावकाश चाला. डोकेदुखी, मळमळ, चक्कर किंवा विश्रांतीतही दम लागणे ही थांबण्याची, विश्रांती घेण्याची आणि खाली उतरण्याची चिन्हे आहेत. ही सर्वसाधारण माहिती आहे, वैद्यकीय सल्ला नाही.", "reviewed": false }
+    },
+    {
+      "en": "The trek is about 16 to 17 km uphill and takes most walkers 6 to 8 hours or more. If you have heart, lung, blood pressure or joint concerns, are elderly or pregnant, speak to your own doctor before you plan, and consider a pony, palanquin or helicopter. The authorities may ask for a health check at the start.",
+      "hi": { "text": "पैदल मार्ग लगभग 16 से 17 किमी चढ़ाई वाला है और अधिकतर यात्रियों को 6 से 8 घंटे या अधिक लगते हैं। यदि आपको हृदय, फेफड़े, रक्तचाप या जोड़ों की समस्या है, आप वृद्ध या गर्भवती हैं, तो योजना बनाने से पहले अपने चिकित्सक से बात करें और घोड़े-खच्चर, पालकी या हेलीकॉप्टर पर विचार करें। प्रशासन आरंभ में स्वास्थ्य जाँच के लिए कह सकता है।", "reviewed": false },
+      "mr": { "text": "पायी मार्ग सुमारे 16 ते 17 किमीचा चढणीचा आहे आणि बहुतेक चालणाऱ्यांना 6 ते 8 तास किंवा अधिक लागतात. तुम्हाला हृदय, फुफ्फुस, रक्तदाब किंवा सांध्यांचा त्रास असेल, तुम्ही वृद्ध किंवा गर्भवती असाल, तर नियोजनापूर्वी तुमच्या स्वतःच्या डॉक्टरांशी बोला आणि घोडे-खेचर, पालखी किंवा हेलिकॉप्टरचा विचार करा. प्रशासन प्रारंभी आरोग्य तपासणी सांगू शकते.", "reviewed": false }
+    },
+    {
+      "en": "Weather changes within an hour. Rain, hail, fog and snow can arrive even in season, and landslides and falling rocks are real risks on the path and the road. Check the official advisories each morning, start only when the way is open and turn back if you are told to. Plan spare days.",
+      "hi": { "text": "मौसम एक घंटे में बदल जाता है। मौसम में भी वर्षा, ओले, कोहरा और हिमपात आ सकते हैं, और रास्ते व सड़क पर भूस्खलन और पत्थर गिरना वास्तविक जोखिम हैं। हर सुबह आधिकारिक सूचनाएँ देखें, मार्ग खुला हो तभी चलें और कहा जाए तो लौट आएँ। अतिरिक्त दिन रखें।", "reviewed": false },
+      "mr": { "text": "हवामान एका तासात बदलते. हंगामातही पाऊस, गारपीट, धुके आणि हिमवर्षाव येऊ शकतात, आणि वाटेवर व रस्त्यावर दरडी आणि दगड कोसळणे हे खरे धोके आहेत. दररोज सकाळी अधिकृत सूचना पाहा, मार्ग खुला असेल तरच निघा आणि सांगितले तर परत फिरा. राखीव दिवस ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Carry a small first-aid kit, your own medicines in their original packs, a torch, a rain poncho, sun protection, warm layers and a power bank. Phone signal can be weak on parts of the route. Know the helpline number and the location of the medical posts on the way.",
+      "hi": { "text": "छोटी प्राथमिक चिकित्सा किट, अपनी दवाइयाँ मूल पैक में, टॉर्च, बरसाती पोंचो, धूप से बचाव, गर्म कपड़े और पावर बैंक साथ रखें। मार्ग के कुछ भागों में फ़ोन सिग्नल कमज़ोर हो सकता है। हेल्पलाइन नंबर और रास्ते में चिकित्सा केंद्रों के स्थान जान लें।", "reviewed": false },
+      "mr": { "text": "लहान प्रथमोपचार पेटी, तुमची औषधे मूळ पाकिटात, टॉर्च, पावसाचा पोंचो, उन्हापासून संरक्षण, उबदार कपडे आणि पॉवर बँक सोबत ठेवा. मार्गाच्या काही भागांत फोनचे सिग्नल कमकुवत असू शकतात. हेल्पलाइन क्रमांक आणि वाटेवरील वैद्यकीय केंद्रांची ठिकाणे जाणून घ्या.", "reviewed": false }
+    },
+    {
+      "en": "The temple is closed from around the autumn festival until late April or May, and the road and trek can be shut earlier by snow or by the authorities. Do not plan a visit in winter or early spring, and confirm the current opening and closing dates on the official site before you book travel.",
+      "hi": { "text": "मंदिर शरद ऋतु के पर्व के आसपास से अप्रैल के अंत या मई तक बंद रहता है, और बर्फ या प्रशासन के कारण सड़क और पैदल मार्ग उससे पहले भी बंद हो सकते हैं। शीत ऋतु या शुरुआती वसंत में यात्रा की योजना न बनाएँ, और यात्रा बुक करने से पहले वर्तमान खुलने-बंद होने की तिथियाँ आधिकारिक साइट पर पक्की करें।", "reviewed": false },
+      "mr": { "text": "मंदिर शरद ऋतूतील सणाच्या सुमारापासून एप्रिलच्या अखेरीपर्यंत किंवा मेपर्यंत बंद असते, आणि बर्फ किंवा प्रशासनामुळे रस्ता आणि पायी मार्ग त्याआधीही बंद होऊ शकतात. हिवाळ्यात किंवा लवकरच्या वसंतात भेटीचे नियोजन करू नका, आणि प्रवास आरक्षित करण्यापूर्वी सध्याच्या उघडण्या-बंद होण्याच्या तारखा अधिकृत संकेतस्थळावर निश्चित करा.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Regard the whole route as sacred ground. Speak softly, remove footwear at the temple and dress modestly under your warm layers.",
+      "hi": { "text": "पूरे मार्ग को पवित्र भूमि मानें। धीरे बोलें, मंदिर पर जूते उतारें और गर्म कपड़ों के नीचे शालीन वस्त्र पहनें।", "reviewed": false },
+      "mr": { "text": "संपूर्ण मार्ग पवित्र भूमी माना. हळू बोला, मंदिरात पादत्राणे काढा आणि उबदार कपड्यांखाली साधे वस्त्र घाला.", "reviewed": false }
+    },
+    {
+      "en": "Carry your waste down with you. The Himalayan slopes and the Mandakini are fragile, so do not leave plastic, wrappers or clothing on the path.",
+      "hi": { "text": "अपना कचरा साथ नीचे लाएँ। हिमालयी ढलानें और मंदाकिनी नाज़ुक हैं, इसलिए रास्ते में प्लास्टिक, रैपर या कपड़े न छोड़ें।", "reviewed": false },
+      "mr": { "text": "तुमचा कचरा सोबत खाली आणा. हिमालयीन उतार आणि मंदाकिनी नाजूक आहेत, म्हणून वाटेत प्लास्टिक, आवरणे किंवा कपडे सोडू नका.", "reviewed": false }
+    },
+    {
+      "en": "Be kind to the ponies and porters who work on the path. Use the official rate list, do not overload an animal, give way to them on narrow stretches and keep to your side of the path.",
+      "hi": { "text": "रास्ते पर काम करने वाले घोड़े-खच्चरों और कुलियों के प्रति दयालु रहें। आधिकारिक दर सूची का उपयोग करें, किसी पशु पर अधिक बोझ न डालें, संकरे हिस्सों में उन्हें रास्ता दें और अपनी ओर रहें।", "reviewed": false },
+      "mr": { "text": "वाटेवर काम करणाऱ्या घोडे-खेचर आणि हमालांशी दयाळूपणे वागा. अधिकृत दरसूची वापरा, कोणत्याही प्राण्यावर जास्त ओझे टाकू नका, अरुंद टप्प्यांवर त्यांना वाट द्या आणि तुमच्या बाजूने चाला.", "reviewed": false }
+    },
+    {
+      "en": "Do not push in the queue and do not rush the people ahead of you. Many are elderly or have walked a long way. Follow the instructions of the police, volunteers and temple staff.",
+      "hi": { "text": "कतार में धक्का न दें और अपने आगे के लोगों को जल्दी न करें। कई वृद्ध हैं या लंबा रास्ता चलकर आए हैं। पुलिस, स्वयंसेवकों और मंदिर कर्मचारियों के निर्देशों का पालन करें।", "reviewed": false },
+      "mr": { "text": "रांगेत धक्का देऊ नका आणि तुमच्या पुढच्या लोकांना घाई करू नका. अनेक जण वृद्ध आहेत किंवा लांबचा रस्ता चालून आले आहेत. पोलीस, स्वयंसेवक आणि मंदिर कर्मचाऱ्यांच्या सूचनांचे पालन करा.", "reviewed": false }
+    },
+    {
+      "en": "Ask before taking photographs of people or rituals, and follow the rules about cameras and phones near the sanctum. Do not fly drones in the shrine area.",
+      "hi": { "text": "लोगों या अनुष्ठानों की तस्वीर लेने से पहले पूछें, और गर्भगृह के पास कैमरे और फ़ोन के नियमों का पालन करें। धाम क्षेत्र में ड्रोन न उड़ाएँ।", "reviewed": false },
+      "mr": { "text": "लोक किंवा विधींचे छायाचित्र घेण्यापूर्वी विचारा, आणि गाभाऱ्याजवळ कॅमेरे आणि फोनबाबतच्या नियमांचे पालन करा. धाम परिसरात ड्रोन उडवू नका.", "reviewed": false }
+    }
+  ]
+}

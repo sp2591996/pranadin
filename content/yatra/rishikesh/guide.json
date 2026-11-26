@@ -1,0 +1,151 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "rishikesh",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: ghats, jhula lanes and the evening aarti", "hi": { "text": "एक दिन: घाट, झूला की गलियाँ और संध्या आरती", "reviewed": false }, "mr": { "text": "एक दिवस: घाट, झुल्याच्या गल्ल्या आणि संध्या आरती", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "A quiet sit by the Ganga at Triveni Ghat or Parmarth Niketan, then breakfast at a simple riverside eatery.", "hi": { "text": "त्रिवेणी घाट या परमार्थ निकेतन पर गंगा किनारे शांत बैठना, फिर नदी किनारे के सादे भोजनालय में नाश्ता।", "reviewed": false }, "mr": { "text": "त्रिवेणी घाट किंवा परमार्थ निकेतन येथे गंगेकाठी शांत बसणे, मग नदीकाठच्या साध्या खानावळीत नाश्ता.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Walk the Ram Jhula and Laxman Jhula lanes, with a visit to a small temple or an ashram, and rest in the heat.", "hi": { "text": "राम झूला और लक्ष्मण झूला की गलियों में घूमें, किसी छोटे मंदिर या आश्रम का दर्शन करें, और गर्मी में विश्राम करें।", "reviewed": false }, "mr": { "text": "राम झुला आणि लक्ष्मण झुल्याच्या गल्ल्यांतून फिरा, एखाद्या लहान मंदिराला किंवा आश्रमाला भेट द्या, आणि उष्णतेत विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Ganga aarti at Triveni Ghat or Parmarth Niketan, then a light dinner.", "hi": { "text": "त्रिवेणी घाट या परमार्थ निकेतन पर गंगा आरती, फिर हल्का भोजन।", "reviewed": false }, "mr": { "text": "त्रिवेणी घाट किंवा परमार्थ निकेतन येथे गंगा आरती, मग हलके जेवण.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: the town and Neelkanth Mahadev", "hi": { "text": "दो दिन: नगर और नीलकंठ महादेव", "reviewed": false }, "mr": { "text": "दोन दिवस: शहर आणि नीळकंठ महादेव", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Early bath or a sit at Triveni Ghat and a simple breakfast.", "hi": { "text": "सुबह जल्दी त्रिवेणी घाट पर स्नान या बैठना और सादा नाश्ता।", "reviewed": false }, "mr": { "text": "पहाटे त्रिवेणी घाटावर स्नान किंवा बसणे आणि साधा नाश्ता.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Walk the Laxman Jhula and Ram Jhula areas and rest.", "hi": { "text": "लक्ष्मण झूला और राम झूला क्षेत्रों में घूमें और विश्राम करें।", "reviewed": false }, "mr": { "text": "लक्ष्मण झुला आणि राम झुला परिसरात फिरा आणि विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening aarti at Parmarth Niketan.", "hi": { "text": "परमार्थ निकेतन पर संध्या आरती।", "reviewed": false }, "mr": { "text": "परमार्थ निकेतन येथे संध्या आरती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Drive to Neelkanth Mahadev Temple (about 28 km) early, before the queue builds.", "hi": { "text": "कतार बढ़ने से पहले सुबह जल्दी नीलकंठ महादेव मंदिर (लगभग 28 किमी) जाएँ।", "reviewed": false }, "mr": { "text": "रांग वाढण्यापूर्वी सकाळी लवकर नीळकंठ महादेव मंदिराकडे (सुमारे 28 किमी) जा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Return to town for a late lunch and rest. Visit the Beatles Ashram if you wish.", "hi": { "text": "देर से भोजन और विश्राम के लिए नगर लौटें। चाहें तो बीटल्स आश्रम देखें।", "reviewed": false }, "mr": { "text": "उशिराच्या जेवणासाठी आणि विश्रांतीसाठी शहरात परता. हवे असल्यास बीटल्स आश्रम पाहा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A last aarti at the ghat, or a slow walk by the river.", "hi": { "text": "घाट पर अंतिम आरती, या नदी किनारे धीमी सैर।", "reviewed": false }, "mr": { "text": "घाटावर शेवटची आरती, किंवा नदीकाठी सावकाश फेरफटका.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: a slower stay with an ashram day and a Haridwar trip", "hi": { "text": "तीन दिन: आश्रम के दिन और हरिद्वार यात्रा के साथ धीमा प्रवास", "reviewed": false }, "mr": { "text": "तीन दिवस: आश्रमाचा दिवस आणि हरिद्वार सहलीसह सावकाश मुक्काम", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive, settle in and walk the lanes near your stay.", "hi": { "text": "पहुँचें, ठहरें और अपने ठहरने की जगह के पास की गलियों में घूमें।", "reviewed": false }, "mr": { "text": "पोहोचा, स्थिरावा आणि राहण्याच्या जागेजवळच्या गल्ल्यांत फिरा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Laxman Jhula and Ram Jhula areas, small shrines and a long lunch.", "hi": { "text": "लक्ष्मण झूला और राम झूला क्षेत्र, छोटे मंदिर और लंबा भोजन।", "reviewed": false }, "mr": { "text": "लक्ष्मण झुला आणि राम झुला परिसर, लहान मंदिरे आणि निवांत जेवण.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Ganga aarti at Triveni Ghat.", "hi": { "text": "त्रिवेणी घाट पर गंगा आरती।", "reviewed": false }, "mr": { "text": "त्रिवेणी घाटावर गंगा आरती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "A morning at an ashram: a quiet sit, a yoga or meditation session if you have booked one, and a simple meal.", "hi": { "text": "आश्रम में एक सुबह: शांत बैठना, बुक किया हो तो योग या ध्यान सत्र, और सादा भोजन।", "reviewed": false }, "mr": { "text": "आश्रमातील एक सकाळ: शांत बसणे, आरक्षित केले असेल तर योग किंवा ध्यान सत्र, आणि साधे जेवण.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Rest, read or write by the river. Visit the Beatles Ashram if you are curious.", "hi": { "text": "नदी किनारे विश्राम, पढ़ना या लिखना। जिज्ञासा हो तो बीटल्स आश्रम देखें।", "reviewed": false }, "mr": { "text": "नदीकाठी विश्रांती, वाचन किंवा लेखन. उत्सुकता असेल तर बीटल्स आश्रम पाहा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening aarti at Parmarth Niketan.", "hi": { "text": "परमार्थ निकेतन पर संध्या आरती।", "reviewed": false }, "mr": { "text": "परमार्थ निकेतन येथे संध्या आरती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Neelkanth Mahadev Temple by road, early.", "hi": { "text": "सुबह जल्दी सड़क से नीलकंठ महादेव मंदिर।", "reviewed": false }, "mr": { "text": "सकाळी लवकर रस्त्याने नीळकंठ महादेव मंदिर.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Travel to Haridwar (about 24 km) and visit Har Ki Pauri, or go straight to your onward train.", "hi": { "text": "हरिद्वार (लगभग 24 किमी) जाएँ और हर की पौड़ी देखें, या सीधे अपनी आगे की ट्रेन पकड़ें।", "reviewed": false }, "mr": { "text": "हरिद्वारला (सुमारे 24 किमी) जा आणि हर की पौडी पाहा, किंवा थेट पुढील गाडी पकडा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Watch the Haridwar Ganga aarti before you leave, or take a quiet evening at your stay.", "hi": { "text": "जाने से पहले हरिद्वार की गंगा आरती देखें, या अपने ठहरने की जगह पर शांत शाम बिताएँ।", "reviewed": false }, "mr": { "text": "निघण्यापूर्वी हरिद्वारची गंगा आरती पाहा, किंवा राहण्याच्या जागी शांत संध्याकाळ घालवा.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Tapovan and Laxman Jhula side", "hi": { "text": "तपोवन और लक्ष्मण झूला की ओर", "reviewed": false }, "mr": { "text": "तपोवन आणि लक्ष्मण झुला बाजू", "reviewed": false } },
+      "body": { "en": "Cafes, hostels and guesthouses with river and hill views, and the most lively area. It is busy, with narrow lanes, music and two-wheeler traffic, and not ideal for those who want deep quiet.", "hi": { "text": "नदी और पहाड़ियों के दृश्य वाले कैफ़े, छात्रावास और अतिथि गृह, और सबसे जीवंत क्षेत्र। यह व्यस्त है, संकरी गलियों, संगीत और दोपहिया यातायात के साथ, और गहरी शांति चाहने वालों के लिए आदर्श नहीं।", "reviewed": false }, "mr": { "text": "नदी आणि टेकड्यांच्या दृश्यांसह कॅफे, वसतिगृहे आणि अतिथीगृहे, आणि सर्वात उत्साही परिसर. हा गजबजलेला आहे, अरुंद गल्ल्या, संगीत आणि दुचाकी वाहतुकीसह, आणि खोल शांतता हवी असलेल्यांसाठी आदर्श नाही.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Near Ram Jhula and Swarg Ashram", "hi": { "text": "राम झूला और स्वर्ग आश्रम के पास", "reviewed": false }, "mr": { "text": "राम झुला आणि स्वर्ग आश्रमाजवळ", "reviewed": false } },
+      "body": { "en": "A quieter, more traditional stretch with ashrams, ghats and shops for puja items. Many ashrams here offer simple rooms and daily aarti, and some are open to short-stay guests.", "hi": { "text": "आश्रमों, घाटों और पूजा सामग्री की दुकानों वाला शांत, अधिक पारंपरिक क्षेत्र। यहाँ कई आश्रम सरल कमरे और दैनिक आरती देते हैं, और कुछ अल्पावधि अतिथियों के लिए खुले हैं।", "reviewed": false }, "mr": { "text": "आश्रम, घाट आणि पूजा साहित्याच्या दुकानांसह शांत, अधिक पारंपरिक पट्टा. येथे अनेक आश्रम साध्या खोल्या आणि दैनिक आरती देतात, आणि काही अल्प मुक्कामाच्या पाहुण्यांसाठी खुले आहेत.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Main town and the Haridwar road", "hi": { "text": "मुख्य नगर और हरिद्वार मार्ग", "reviewed": false }, "mr": { "text": "मुख्य शहर आणि हरिद्वार रस्ता", "reviewed": false } },
+      "body": { "en": "Wider roads, parking and larger hotels, with easy access for cars and for buses to the hills. It is less atmospheric but easier with luggage and older relatives. Allow 10 to 20 minutes to reach the river lanes.", "hi": { "text": "चौड़ी सड़कें, पार्किंग और बड़े होटल, कारों और पहाड़ों की बसों के लिए आसान पहुँच। यह कम वातावरण वाला है पर सामान और वृद्ध परिजनों के साथ आसान है। नदी की गलियों तक पहुँचने में 10 से 20 मिनट रखें।", "reviewed": false }, "mr": { "text": "रुंद रस्ते, पार्किंग आणि मोठी हॉटेल, गाड्यांसाठी आणि डोंगराकडे जाणाऱ्या बसेससाठी सोपी पोहोच. हे कमी वातावरणाचे आहे पण सामान आणि ज्येष्ठ नातेवाईकांसोबत सोपे आहे. नदीच्या गल्ल्यांपर्यंत पोहोचण्यास 10 ते 20 मिनिटे ठेवा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Ashram stays", "hi": { "text": "आश्रम में ठहरना", "reviewed": false }, "mr": { "text": "आश्रमातील मुक्काम", "reviewed": false } },
+      "body": { "en": "Simple, low-cost rooms with plain vegetarian meals and a daily routine. Most have rules on gate closing, silence, dress and visitors, and some ask for advance booking or a minimum stay. Ask each ashram directly.", "hi": { "text": "सादे शाकाहारी भोजन और दैनिक दिनचर्या के साथ सरल, कम लागत के कमरे। अधिकांश में द्वार बंद होने, मौन, पहनावे और आगंतुकों के नियम हैं, और कुछ अग्रिम बुकिंग या न्यूनतम प्रवास माँगते हैं। हर आश्रम से सीधे पूछें।", "reviewed": false }, "mr": { "text": "साध्या शाकाहारी जेवणासह आणि दैनंदिन दिनक्रमासह साध्या, कमी खर्चाच्या खोल्या. बहुतेकांत दार बंद होणे, मौन, पोशाख आणि पाहुण्यांबाबत नियम आहेत, आणि काही आगाऊ आरक्षण किंवा किमान मुक्काम मागतात. प्रत्येक आश्रमाला थेट विचारा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Simple riverside meals", "hi": { "text": "नदी किनारे के सादे भोजन", "reviewed": false }, "mr": { "text": "नदीकाठची साधी जेवणे", "reviewed": false } },
+      "body": { "en": "Dal, rice, roti, khichdi and seasonal vegetables in small family-run eateries. Light, fresh meals suit the pace of the town.", "hi": { "text": "छोटे पारिवारिक भोजनालयों में दाल, चावल, रोटी, खिचड़ी और मौसमी सब्ज़ियाँ। हल्का, ताज़ा भोजन नगर की गति के अनुकूल है।", "reviewed": false }, "mr": { "text": "लहान कौटुंबिक खानावळींमध्ये डाळ, भात, पोळी, खिचडी आणि हंगामी भाज्या. हलके, ताजे जेवण शहराच्या गतीला साजेसे आहे.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Poori-sabzi, kachori and jalebi", "hi": { "text": "पूरी-सब्ज़ी, कचौड़ी और जलेबी", "reviewed": false }, "mr": { "text": "पुरी-भाजी, कचोरी आणि जिलेबी", "reviewed": false } },
+      "body": { "en": "A classic hot breakfast near the main ghats and the bus stand. Choose busy shops where the food is fresh.", "hi": { "text": "मुख्य घाटों और बस अड्डे के पास पारंपरिक गरम नाश्ता। ताज़ा भोजन वाली व्यस्त दुकानें चुनें।", "reviewed": false }, "mr": { "text": "मुख्य घाट आणि बस स्थानकाजवळ पारंपरिक गरम नाश्ता. ताजे अन्न असलेली गर्दीची दुकाने निवडा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Cafes and global menus", "hi": { "text": "कैफ़े और विविध व्यंजन", "reviewed": false }, "mr": { "text": "कॅफे आणि विविध पदार्थ", "reviewed": false } },
+      "body": { "en": "Many cafes serve fruit bowls, smoothies, pancakes, pizza and other vegetarian dishes aimed at visitors. Prices are higher than in local eateries.", "hi": { "text": "कई कैफ़े यात्रियों के लिए फलों के कटोरे, स्मूदी, पैनकेक, पिज़्ज़ा और अन्य शाकाहारी व्यंजन परोसते हैं। कीमतें स्थानीय भोजनालयों से अधिक हैं।", "reviewed": false }, "mr": { "text": "अनेक कॅफे प्रवाशांसाठी फळांचे बाऊल, स्मूदी, पॅनकेक, पिझ्झा आणि इतर शाकाहारी पदार्थ देतात. दर स्थानिक खानावळींपेक्षा जास्त आहेत.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Rishikesh is a vegetarian town, and the sale of meat, fish and eggs has been banned here for decades. Alcohol is not part of the pilgrim lanes and ashrams, though rules are not always followed elsewhere. Ashram kitchens usually cook without onion and garlic. Ask for satvik or Jain food at cafes and restaurants.",
+    "hi": { "text": "ऋषिकेश शाकाहारी नगर है और यहाँ मांस, मछली और अंडों की बिक्री पर दशकों से रोक है। शराब तीर्थ की गलियों और आश्रमों का भाग नहीं है, हालाँकि अन्यत्र नियमों का हमेशा पालन नहीं होता। आश्रम की रसोइयाँ आमतौर पर बिना प्याज़-लहसुन के पकाती हैं। कैफ़े और रेस्तराँ में सात्त्विक या जैन भोजन माँगें।", "reviewed": false },
+    "mr": { "text": "ऋषिकेश हे शाकाहारी शहर आहे आणि येथे मांस, मासे आणि अंडी विक्रीवर अनेक दशकांपासून बंदी आहे. मद्य हे तीर्थ गल्ल्या आणि आश्रमांचा भाग नाही, तरी इतरत्र नियम नेहमी पाळले जात नाहीत. आश्रमांच्या स्वयंपाकघरात सहसा कांदा-लसणाशिवाय शिजवतात. कॅफे आणि उपाहारगृहांत सात्त्विक किंवा जैन जेवण मागा.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 1000, "max": 2200 },
+      "mid": { "min": 2800, "max": 5500 },
+      "comfort": { "min": 6500, "max": 14000 }
+    },
+    "note": {
+      "en": "Indicative, per person per day for stay, food and local transport, assuming a twin-share room. Rafting, yoga courses and ashram programmes are extra and priced separately. Prices rise sharply in the Char Dham season from May to June, on weekends and around the March yoga festival.",
+      "hi": { "text": "सांकेतिक, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। राफ्टिंग, योग पाठ्यक्रम और आश्रम कार्यक्रम अतिरिक्त हैं और अलग से मूल्यांकित होते हैं। मई से जून के चार धाम मौसम, सप्ताहांत और मार्च के योग महोत्सव के आसपास कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "सूचक, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. राफ्टिंग, योग अभ्यासक्रम आणि आश्रम कार्यक्रम वेगळे आहेत आणि स्वतंत्रपणे आकारले जातात. मे ते जूनचा चार धाम हंगाम, सप्ताहांत आणि मार्चच्या योग महोत्सवाच्या सुमारास दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "River rafting and other adventure activities carry real risk. Use only licensed operators, wear the life jacket and helmet provided, follow your guide and skip it if you cannot swim comfortably or the water is high. Rafting is usually paused in the monsoon.",
+      "hi": { "text": "नदी में राफ्टिंग और अन्य साहसिक गतिविधियों में वास्तविक जोखिम है। केवल लाइसेंस प्राप्त संचालकों का उपयोग करें, दी गई जीवन रक्षक जैकेट और हेलमेट पहनें, अपने गाइड का निर्देश मानें और तैरने में सहज न हों या पानी ऊँचा हो तो इसे छोड़ दें। वर्षा ऋतु में राफ्टिंग आमतौर पर रोक दी जाती है।", "reviewed": false },
+      "mr": { "text": "नदीतील राफ्टिंग आणि इतर साहसी उपक्रमांमध्ये खरा धोका आहे. फक्त परवानाधारक चालकांचा वापर करा, दिलेले लाइफ जॅकेट आणि हेल्मेट घाला, तुमच्या मार्गदर्शकाचे ऐका आणि पोहण्यात सहज नसाल किंवा पाणी उंच असेल तर ते टाळा. पावसाळ्यात राफ्टिंग सहसा थांबवले जाते.", "reviewed": false }
+    },
+    {
+      "en": "Ghat steps and footbridges are slippery and crowded, with two-wheelers and monkeys on the bridges. Wear shoes with grip, walk slowly and keep children by the hand. The Ganga is cold and fast, so bathe only at marked ghats and never alone.",
+      "hi": { "text": "घाट की सीढ़ियाँ और पैदल पुल फिसलन भरे और भीड़ वाले हैं, पुलों पर दोपहिया वाहन और बंदर होते हैं। पकड़ वाले जूते पहनें, धीरे चलें और बच्चों का हाथ पकड़े रखें। गंगा ठंडी और तेज़ है, इसलिए केवल चिह्नित घाटों पर और कभी अकेले स्नान न करें।", "reviewed": false },
+      "mr": { "text": "घाटाच्या पायऱ्या आणि पादचारी पूल निसरडे आणि गर्दीचे आहेत, पुलांवर दुचाकी आणि माकडे असतात. पकड असलेले बूट घाला, सावकाश चाला आणि मुलांचा हात धरा. गंगा थंड आणि वेगवान आहे, म्हणून फक्त चिन्हांकित घाटांवर आणि कधीही एकटे स्नान करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Summer is hot and winter mornings are cold and foggy. Carry water, a hat and a light jacket, and rest in the afternoon. Drink only bottled or filtered water. This is general information, not medical advice.",
+      "hi": { "text": "गर्मी तेज़ होती है और सर्दियों की सुबहें ठंडी और कोहरे वाली होती हैं। पानी, टोपी और हल्की जैकेट साथ रखें और दोपहर में विश्राम करें। केवल बोतलबंद या छना हुआ पानी पिएँ। यह सामान्य जानकारी है, चिकित्सकीय सलाह नहीं।", "reviewed": false },
+      "mr": { "text": "उन्हाळा उष्ण असतो आणि हिवाळ्यातील सकाळ थंड आणि धुक्याची असते. पाणी, टोपी आणि हलके जॅकेट सोबत ठेवा आणि दुपारी विश्रांती घ्या. फक्त बाटलीबंद किंवा गाळलेले पाणी प्या. ही सर्वसाधारण माहिती आहे, वैद्यकीय सल्ला नाही.", "reviewed": false }
+    },
+    {
+      "en": "Monsoon landslides can close roads, and the Neelkanth road and forest trail can be slippery. Check the weather and road status before any trip into the hills, and keep spare days if you are going on to the Char Dham shrines.",
+      "hi": { "text": "वर्षा में भूस्खलन सड़कें बंद कर सकते हैं, और नीलकंठ की सड़क और वन पगडंडी फिसलन भरी हो सकती है। पहाड़ों की किसी भी यात्रा से पहले मौसम और सड़क की स्थिति देखें, और चार धाम मंदिरों की ओर जा रहे हों तो अतिरिक्त दिन रखें।", "reviewed": false },
+      "mr": { "text": "पावसाळ्यात दरडी रस्ते बंद करू शकतात, आणि नीळकंठचा रस्ता आणि जंगलातील पायवाट निसरडी असू शकते. डोंगरातील कोणत्याही प्रवासापूर्वी हवामान आणि रस्त्याची स्थिती पाहा, आणि चार धाम मंदिरांकडे जात असाल तर राखीव दिवस ठेवा.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly in the lanes, at the ghats and in ashrams, and remove footwear before temples and prayer halls. Beachwear and very short clothes are not welcome in the riverside areas.",
+      "hi": { "text": "गलियों, घाटों और आश्रमों में शालीन कपड़े पहनें, और मंदिरों व प्रार्थना कक्षों से पहले जूते उतारें। नदी तट के क्षेत्रों में बीचवियर और बहुत छोटे कपड़े स्वागतयोग्य नहीं हैं।", "reviewed": false },
+      "mr": { "text": "गल्ल्या, घाट आणि आश्रमांत साधे कपडे घाला, आणि मंदिरे व प्रार्थना सभागृहांपूर्वी पादत्राणे काढा. नदीकाठच्या भागांत बीचवेअर आणि खूप लहान कपडे स्वागतार्ह नाहीत.", "reviewed": false }
+    },
+    {
+      "en": "Keep the river clean. Do not litter, wash soap or clothes in the Ganga, or throw plastic and old flowers into the water. Carry a refillable bottle and use the bins.",
+      "hi": { "text": "नदी को स्वच्छ रखें। कचरा न फैलाएँ, गंगा में साबुन या कपड़े न धोएँ, और पानी में प्लास्टिक या पुराने फूल न डालें। दोबारा भरने वाली बोतल रखें और कूड़ेदान का उपयोग करें।", "reviewed": false },
+      "mr": { "text": "नदी स्वच्छ ठेवा. कचरा टाकू नका, गंगेत साबण किंवा कपडे धुऊ नका, आणि पाण्यात प्लास्टिक किंवा जुनी फुले टाकू नका. पुन्हा भरता येणारी बाटली ठेवा आणि कचरापेट्यांचा वापर करा.", "reviewed": false }
+    },
+    {
+      "en": "Be quiet and respectful at aarti and in ashrams. Do not play loud music, wave drones or take photos of people bathing or praying without asking. Some ashrams ask visitors to keep phones silent.",
+      "hi": { "text": "आरती और आश्रमों में शांत और सम्मानजनक रहें। तेज़ संगीत न बजाएँ, ड्रोन न उड़ाएँ और बिना पूछे स्नान या प्रार्थना करते लोगों की तस्वीर न लें। कुछ आश्रम आगंतुकों से फ़ोन मौन रखने को कहते हैं।", "reviewed": false },
+      "mr": { "text": "आरती आणि आश्रमांत शांत आणि आदरपूर्वक राहा. मोठ्याने संगीत लावू नका, ड्रोन उडवू नका आणि विचारल्याशिवाय स्नान किंवा प्रार्थना करणाऱ्या लोकांचे छायाचित्र घेऊ नका. काही आश्रम पाहुण्यांना फोन मौन ठेवायला सांगतात.", "reviewed": false }
+    },
+    {
+      "en": "Do not feed or tease the monkeys, and keep food, glasses and bags covered. Agree prices for rafting, rides and rites in advance, and politely decline unsolicited offers.",
+      "hi": { "text": "बंदरों को न खिलाएँ और न चिढ़ाएँ, और भोजन, चश्मे और थैले ढककर रखें। राफ्टिंग, सवारी और कर्मकांड की कीमतें पहले तय करें, और बिन माँगे प्रस्तावों को विनम्रता से मना करें।", "reviewed": false },
+      "mr": { "text": "माकडांना खाऊ घालू नका किंवा चिडवू नका, आणि खाऊ, चष्मे आणि पिशव्या झाकून ठेवा. राफ्टिंग, सवारी आणि विधींचे दर आधी ठरवा, आणि न मागितलेल्या प्रस्तावांना नम्रपणे नकार द्या.", "reviewed": false }
+    }
+  ]
+}

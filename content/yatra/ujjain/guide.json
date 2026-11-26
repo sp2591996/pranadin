@@ -1,0 +1,140 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "ujjain",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: Mahakal, Kal Bhairav and the evening aarti", "hi": { "text": "एक दिन: महाकाल, काल भैरव और संध्या आरती", "reviewed": false }, "mr": { "text": "एक दिवस: महाकाल, काल भैरव आणि संध्या आरती", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Darshan at Mahakaleshwar and a walk through the Mahakal Lok corridor, starting early to beat the queue.", "hi": { "text": "महाकालेश्वर के दर्शन और महाकाल लोक गलियारे में सैर, कतार से बचने के लिए जल्दी शुरू करें।", "reviewed": false }, "mr": { "text": "महाकालेश्वराचे दर्शन आणि महाकाल लोक मार्गिकेतून फेरफटका, रांग टाळण्यासाठी लवकर सुरुवात करा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Rest after lunch, then visit Harsiddhi and Sandipani Ashram by auto.", "hi": { "text": "दोपहर के भोजन के बाद विश्राम करें, फिर ऑटो से हरसिद्धि और सांदीपनि आश्रम जाएँ।", "reviewed": false }, "mr": { "text": "दुपारच्या जेवणानंतर विश्रांती घ्या, मग ऑटोने हरसिद्धी आणि सांदीपनी आश्रमाला जा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Kal Bhairav, then the sunset aarti at Ram Ghat.", "hi": { "text": "काल भैरव, फिर राम घाट पर सूर्यास्त की आरती।", "reviewed": false }, "mr": { "text": "काल भैरव, मग राम घाटावर सूर्यास्ताची आरती.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: temples first, then the river and Mangalnath", "hi": { "text": "दो दिन: पहले मंदिर, फिर नदी और मंगलनाथ", "reviewed": false }, "mr": { "text": "दोन दिवस: आधी मंदिरे, मग नदी आणि मंगलनाथ", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Mahakaleshwar darshan and the Mahakal Lok corridor.", "hi": { "text": "महाकालेश्वर के दर्शन और महाकाल लोक गलियारा।", "reviewed": false }, "mr": { "text": "महाकालेश्वराचे दर्शन आणि महाकाल लोक मार्गिका.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Harsiddhi Temple and a rest at your stay.", "hi": { "text": "हरसिद्धि मंदिर और अपने ठहरने के स्थान पर विश्राम।", "reviewed": false }, "mr": { "text": "हरसिद्धी मंदिर आणि निवासस्थानी विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Sunset aarti at Ram Ghat and a quiet walk by the river.", "hi": { "text": "राम घाट पर सूर्यास्त की आरती और नदी किनारे शांत सैर।", "reviewed": false }, "mr": { "text": "राम घाटावर सूर्यास्ताची आरती आणि नदीकाठी शांत फेरफटका.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Sandipani Ashram, then Kal Bhairav.", "hi": { "text": "सांदीपनि आश्रम, फिर काल भैरव।", "reviewed": false }, "mr": { "text": "सांदीपनी आश्रम, मग काल भैरव.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Mangalnath Temple and Siddhavat on the river bank, then lunch.", "hi": { "text": "नदी तट पर मंगलनाथ मंदिर और सिद्धवट, फिर दोपहर का भोजन।", "reviewed": false }, "mr": { "text": "नदीकाठी मंगलनाथ मंदिर आणि सिद्धवट, मग दुपारचे जेवण.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Chintaman Ganesh Temple and an early night before your journey.", "hi": { "text": "चिंतामण गणेश मंदिर और यात्रा से पहले जल्दी विश्राम।", "reviewed": false }, "mr": { "text": "चिंतामण गणेश मंदिर आणि प्रवासापूर्वी लवकर विश्रांती.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: Ujjain at an easy pace with a day trip", "hi": { "text": "तीन दिन: उज्जैन आराम की गति से और एक दिन की यात्रा", "reviewed": false }, "mr": { "text": "तीन दिवस: उज्जैन आरामात आणि एक दिवसाची सहल", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Mahakaleshwar darshan, with bhasma aarti only if you have registered in advance.", "hi": { "text": "महाकालेश्वर दर्शन, भस्म आरती केवल तभी जब आपने पहले से पंजीकरण किया हो।", "reviewed": false }, "mr": { "text": "महाकालेश्वर दर्शन, भस्म आरती फक्त आगाऊ नोंदणी केली असेल तरच.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Sunset aarti at Ram Ghat.", "hi": { "text": "राम घाट पर सूर्यास्त की आरती।", "reviewed": false }, "mr": { "text": "राम घाटावर सूर्यास्ताची आरती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Sandipani Ashram and Kal Bhairav.", "hi": { "text": "सांदीपनि आश्रम और काल भैरव।", "reviewed": false }, "mr": { "text": "सांदीपनी आश्रम आणि काल भैरव.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Mangalnath and Siddhavat, then a rest.", "hi": { "text": "मंगलनाथ और सिद्धवट, फिर विश्राम।", "reviewed": false }, "mr": { "text": "मंगलनाथ आणि सिद्धवट, मग विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Harsiddhi Temple when the lamp towers are lit.", "hi": { "text": "हरसिद्धि मंदिर, जब दीप स्तंभ जलते हैं।", "reviewed": false }, "mr": { "text": "हरसिद्धी मंदिर, जेव्हा दीपस्तंभ उजळतात.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Day trip to Omkareshwar or Dewas, leaving early.", "hi": { "text": "ओंकारेश्वर या देवास की एक दिन की यात्रा, जल्दी निकलें।", "reviewed": false }, "mr": { "text": "ओंकारेश्वर किंवा देवासची एक दिवसाची सहल, लवकर निघा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to Ujjain and a last visit to the corridor in the evening light.", "hi": { "text": "उज्जैन लौटें और शाम की रोशनी में गलियारे की अंतिम सैर करें।", "reviewed": false }, "mr": { "text": "उज्जैनला परत या आणि संध्याकाळच्या प्रकाशात मार्गिकेला शेवटची भेट द्या.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near Mahakaleshwar", "hi": { "text": "महाकालेश्वर के पास", "reviewed": false }, "mr": { "text": "महाकालेश्वराजवळ", "reviewed": false } },
+      "body": { "en": "Closest to the temple and the corridor, so the dawn queue is a short walk. Dharamshalas, trust guesthouses and hotels are common. Rooms fill early on Mondays, in Shravan and around festivals.", "hi": { "text": "मंदिर और गलियारे के सबसे पास, इसलिए भोर की कतार तक छोटी पैदल दूरी है। धर्मशालाएँ, ट्रस्ट अतिथि गृह और होटल आम हैं। सोमवार, श्रावण और त्योहारों के आसपास कमरे जल्दी भर जाते हैं।", "reviewed": false }, "mr": { "text": "मंदिर आणि मार्गिकेच्या सर्वात जवळ, म्हणून पहाटेच्या रांगेपर्यंत थोडेच चालावे लागते. धर्मशाळा, ट्रस्टची अतिथीगृहे आणि हॉटेल्स सामान्य आहेत. सोमवारी, श्रावणात आणि सणांच्या सुमारास खोल्या लवकर भरतात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Near Ujjain Junction", "hi": { "text": "उज्जैन जंक्शन के पास", "reviewed": false }, "mr": { "text": "उज्जैन जंक्शनजवळ", "reviewed": false } },
+      "body": { "en": "Convenient for late-night or early-morning trains, with many budget hotels. It is a short auto ride from the temple.", "hi": { "text": "देर रात या भोर की गाड़ियों के लिए सुविधाजनक, कई किफ़ायती होटलों के साथ। मंदिर से ऑटो की छोटी सवारी है।", "reviewed": false }, "mr": { "text": "रात्री उशिराच्या किंवा पहाटेच्या गाड्यांसाठी सोयीचे, अनेक परवडणाऱ्या हॉटेल्ससह. मंदिरापासून ऑटोने थोडेच अंतर आहे.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Along the Indore road and Shipra side", "hi": { "text": "इंदौर मार्ग और शिप्रा किनारे", "reviewed": false }, "mr": { "text": "इंदूर रस्ता आणि क्षिप्राकाठी", "reviewed": false } },
+      "body": { "en": "Quieter, with parking and larger rooms for families or groups, at the cost of a longer ride to the temple. Book directly with the property and ask about cancellation.", "hi": { "text": "अधिक शांत, परिवारों या समूहों के लिए पार्किंग और बड़े कमरों के साथ, पर मंदिर तक सवारी लंबी। सीधे ठहरने के स्थान से बुक करें और रद्द करने की शर्तें पूछें।", "reviewed": false }, "mr": { "text": "अधिक शांत, कुटुंबे किंवा गटांसाठी पार्किंग आणि मोठ्या खोल्यांसह, पण मंदिरापर्यंत प्रवास लांबचा. थेट निवासस्थानाशी बुक करा आणि रद्द करण्याच्या अटी विचारा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Poha-jalebi and kachori", "hi": { "text": "पोहा-जलेबी और कचौड़ी", "reviewed": false }, "mr": { "text": "पोहे-जिलेबी आणि कचोरी", "reviewed": false } },
+      "body": { "en": "The classic Malwa breakfast, sold fresh from early morning at small shops around the old city.", "hi": { "text": "मालवा का पारंपरिक नाश्ता, पुराने शहर की छोटी दुकानों पर तड़के से ताज़ा मिलता है।", "reviewed": false }, "mr": { "text": "मालव्याचा पारंपरिक नाश्ता, जुन्या शहरातील लहान दुकानांत पहाटेपासून ताजा मिळतो.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Dal-bafla and dal-bati", "hi": { "text": "दाल-बाफला और दाल-बाटी", "reviewed": false }, "mr": { "text": "दाल-बाफला आणि दाल-बाटी", "reviewed": false } },
+      "body": { "en": "Wheat balls served with dal and ghee, a regional staple. Ask for the plain version if you avoid onion and garlic.", "hi": { "text": "दाल और घी के साथ परोसे जाने वाले गेहूँ के गोले, क्षेत्र का मुख्य भोजन। प्याज़-लहसुन से बचते हों तो सादा संस्करण माँगें।", "reviewed": false }, "mr": { "text": "डाळ आणि तुपासोबत वाढले जाणारे गव्हाचे गोळे, प्रदेशाचे मुख्य जेवण. कांदा-लसूण टाळत असाल तर साधी आवृत्ती मागा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Sweets and prasad", "hi": { "text": "मिठाइयाँ और प्रसाद", "reviewed": false }, "mr": { "text": "मिठाई आणि प्रसाद", "reviewed": false } },
+      "body": { "en": "Laddu, mawa sweets and chikki are sold near the temple. Buy prasad from official counters or known shops, and check freshness.", "hi": { "text": "मंदिर के पास लड्डू, मावे की मिठाइयाँ और चिक्की मिलती हैं। प्रसाद आधिकारिक काउंटर या जाने-माने दुकानों से लें और ताज़गी देख लें।", "reviewed": false }, "mr": { "text": "मंदिराजवळ लाडू, खव्याची मिठाई आणि चिक्की मिळते. प्रसाद अधिकृत काउंटर किंवा ओळखीच्या दुकानांतून घ्या आणि ताजेपणा तपासा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Many eateries near the temple are vegetarian only, and dharamshala kitchens serve simple meals, often without onion and garlic. Ask for satvik or Jain food at restaurants. Alcohol is offered at the Kal Bhairav shrine by local custom, but it is not part of a satvik meal.",
+    "hi": { "text": "मंदिर के पास कई भोजनालय केवल शाकाहारी हैं, और धर्मशालाओं की रसोइयाँ सादा भोजन देती हैं, अक्सर बिना प्याज़-लहसुन के। रेस्तराँ में सात्त्विक या जैन भोजन माँगें। काल भैरव मंदिर में स्थानीय प्रथा से मदिरा चढ़ाई जाती है, पर वह सात्त्विक भोजन का भाग नहीं है।", "reviewed": false },
+    "mr": { "text": "मंदिराजवळील अनेक उपाहारगृहे केवळ शाकाहारी आहेत, आणि धर्मशाळांच्या स्वयंपाकघरात साधे जेवण मिळते, अनेकदा कांदा-लसणाशिवाय. उपाहारगृहांत सात्त्विक किंवा जैन जेवण मागा. काल भैरव मंदिरात स्थानिक प्रथेनुसार मद्य अर्पण केले जाते, पण ते सात्त्विक जेवणाचा भाग नाही.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 900, "max": 1800 },
+      "mid": { "min": 2200, "max": 4500 },
+      "comfort": { "min": 5500, "max": 10000 }
+    },
+    "note": {
+      "en": "Indicative figures in rupees per person per day for stay, food and local transport, assuming a twin-share room. Prices rise sharply on Mondays, in Shravan and around festivals and Simhastha.",
+      "hi": { "text": "रुपये में सांकेतिक आँकड़े, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। सोमवार, श्रावण, त्योहारों और सिंहस्थ के आसपास कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "रुपयांमध्ये सूचक आकडे, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. सोमवारी, श्रावणात, सणांच्या आणि सिंहस्थाच्या सुमारास दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Queues can be long and slow, sometimes outdoors. Carry water, wear comfortable footwear you can slip off, and keep elderly travellers seated where possible.",
+      "hi": { "text": "कतारें लंबी और धीमी हो सकती हैं, कभी-कभी खुले में। पानी साथ रखें, आसानी से उतरने वाले आरामदायक जूते-चप्पल पहनें, और बुज़ुर्ग यात्रियों को जहाँ संभव हो बैठाए रखें।", "reviewed": false },
+      "mr": { "text": "रांगा लांब आणि संथ असू शकतात, कधीकधी उघड्यावर. पाणी सोबत ठेवा, सहज काढता येणारी आरामदायक पादत्राणे घाला, आणि ज्येष्ठ प्रवाशांना शक्य तिथे बसवून ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Summer heat is severe, with temperatures near 45 degrees in May. Visit at dawn, cover your head and rest in the afternoon. Winter nights can be cold.",
+      "hi": { "text": "गर्मी बहुत तेज़ होती है, मई में तापमान 45 डिग्री के पास पहुँचता है। भोर में जाएँ, सिर ढकें और दोपहर में विश्राम करें। सर्दियों की रातें ठंडी हो सकती हैं।", "reviewed": false },
+      "mr": { "text": "उन्हाळ्यातील उष्णता तीव्र असते, मे महिन्यात तापमान 45 अंशांच्या जवळ पोहोचते. पहाटे जा, डोके झाका आणि दुपारी विश्रांती घ्या. हिवाळ्यातील रात्री थंड असू शकतात.", "reviewed": false }
+    },
+    {
+      "en": "Drink bottled or filtered water, and be cautious with street food in crowds. Do not bathe in the Shipra when it is in flood. This guide is general information and not medical advice, so carry your regular medicines and consult a doctor for health concerns.",
+      "hi": { "text": "बोतलबंद या फ़िल्टर किया पानी पिएँ, और भीड़ में सड़क किनारे के भोजन में सावधानी रखें। शिप्रा में बाढ़ होने पर स्नान न करें। यह मार्गदर्शिका सामान्य जानकारी है, चिकित्सा सलाह नहीं, इसलिए अपनी नियमित दवाएँ साथ रखें और स्वास्थ्य संबंधी चिंता में डॉक्टर से सलाह लें।", "reviewed": false },
+      "mr": { "text": "बाटलीबंद किंवा गाळलेले पाणी प्या, आणि गर्दीत रस्त्यावरील खाद्यपदार्थांबाबत काळजी घ्या. क्षिप्रेला पूर असताना स्नान करू नका. ही मार्गदर्शिका सामान्य माहिती आहे, वैद्यकीय सल्ला नाही, म्हणून आपली नेहमीची औषधे सोबत ठेवा आणि आरोग्याच्या चिंतेसाठी डॉक्टरांचा सल्ला घ्या.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly and remove footwear before temples. Ask before photographing people, priests or rituals.",
+      "hi": { "text": "शालीन वस्त्र पहनें और मंदिरों से पहले जूते-चप्पल उतारें। लोगों, पुजारियों या अनुष्ठानों की तस्वीर लेने से पहले पूछें।", "reviewed": false },
+      "mr": { "text": "साधे कपडे घाला आणि मंदिरांपूर्वी पादत्राणे काढा. लोक, पुजारी किंवा विधींचे छायाचित्र घेण्यापूर्वी विचारा.", "reviewed": false }
+    },
+    {
+      "en": "Photography and phones are not allowed inside the sanctum and often not in the main complex. Follow the signs and the guards' instructions.",
+      "hi": { "text": "गर्भगृह के भीतर फ़ोटो और फ़ोन की अनुमति नहीं है, और अक्सर मुख्य परिसर में भी नहीं। संकेतों और सुरक्षाकर्मियों के निर्देशों का पालन करें।", "reviewed": false },
+      "mr": { "text": "गाभाऱ्यात छायाचित्रण आणि फोनला परवानगी नाही, आणि अनेकदा मुख्य संकुलातही नाही. फलक आणि सुरक्षारक्षकांच्या सूचनांचे पालन करा.", "reviewed": false }
+    },
+    {
+      "en": "Keep the queue orderly and do not push, especially around the aarti. Be patient with elders and families.",
+      "hi": { "text": "कतार व्यवस्थित रखें और धक्का न दें, विशेषकर आरती के समय। बुज़ुर्गों और परिवारों के प्रति धैर्य रखें।", "reviewed": false },
+      "mr": { "text": "रांग शिस्तीत ठेवा आणि धक्का देऊ नका, विशेषतः आरतीच्या वेळी. ज्येष्ठ आणि कुटुंबांशी संयमाने वागा.", "reviewed": false }
+    },
+    {
+      "en": "Do not litter in the Shipra or at the ghats. Use the bins, and avoid plastic offerings.",
+      "hi": { "text": "शिप्रा या घाटों पर कचरा न फैलाएँ। कूड़ेदान का उपयोग करें और प्लास्टिक की सामग्री अर्पित करने से बचें।", "reviewed": false },
+      "mr": { "text": "क्षिप्रेत किंवा घाटांवर कचरा टाकू नका. कचरापेट्या वापरा आणि प्लास्टिकचे साहित्य अर्पण करणे टाळा.", "reviewed": false }
+    }
+  ]
+}
