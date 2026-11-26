@@ -5,17 +5,17 @@ import { useEffect, useRef, type ReactNode } from "react";
 
 export const btn = {
   primary:
-    "inline-flex min-h-12 min-w-[132px] items-center justify-center gap-2 rounded-full bg-primary px-6 font-semibold text-on-primary hover:bg-primary-pressed disabled:opacity-50",
+    "inline-flex min-h-12 min-w-[132px] items-center justify-center gap-2 rounded-full bg-primary px-6 font-semibold text-on-primary shadow-[0_8px_20px_-10px_var(--primary)] transition-colors duration-fast hover:bg-primary-pressed disabled:opacity-50",
   secondary:
-    "inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-border-input bg-surface px-6 font-semibold text-text hover:bg-surface-2 disabled:opacity-50",
+    "inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-border-input bg-surface px-6 font-semibold text-text transition-colors duration-fast hover:border-primary hover:text-primary disabled:opacity-50",
   ghost: "inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-4 font-semibold text-primary hover:bg-primary-tint",
   danger:
     "inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-error px-6 font-semibold text-on-error disabled:opacity-50",
   icon: "flex h-11 w-11 items-center justify-center rounded-full text-text hover:bg-surface-2",
-  chip: "inline-flex min-h-11 items-center gap-2 rounded-full border border-border-input px-4 aria-[pressed=true]:border-primary aria-[pressed=true]:bg-primary-tint aria-[pressed=true]:text-on-primary-tint aria-[checked=true]:border-primary aria-[checked=true]:bg-primary-tint aria-[checked=true]:text-on-primary-tint",
+  chip: "inline-flex min-h-11 items-center gap-2 rounded-full border border-border-input bg-surface px-4 transition-colors duration-fast aria-[pressed=true]:border-primary aria-[pressed=true]:bg-primary-tint aria-[pressed=true]:text-on-primary-tint aria-[checked=true]:border-primary aria-[checked=true]:bg-primary-tint aria-[checked=true]:text-on-primary-tint",
 } as const;
 
-export const card = "rounded-lg border-2 border-[var(--card-border)] bg-surface p-4";
+export const card = "rounded-2xl border border-divider shadow-elev-1 bg-surface p-4";
 
 /** Accessible confirm dialog on the native <dialog> element (focus trap, Esc). */
 export function ConfirmDialog({

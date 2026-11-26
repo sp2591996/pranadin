@@ -15,6 +15,7 @@ import { yogaRoutes } from "./routes";
 import { SafetyList } from "./SafetyNotice";
 import { POSE_LEVELS, type ModuleListItem, type PoseLevel, type PoseListItem, type ProgramListItem } from "./types";
 import type { YogaProgress } from "@/lib/types";
+import { PageHero } from "@/components/PageHero";
 
 type Tab = "poses" | "sessions" | "programs";
 const TABS: Tab[] = ["poses", "sessions", "programs"];
@@ -55,10 +56,7 @@ export function YogaHome({ poses, modules, programs }: { poses: PoseListItem[]; 
 
   return (
     <div className="flex flex-col gap-5">
-      <div>
-        <h1>{s("yoga.title")}</h1>
-        <p className="text-text-muted">{s("yoga.intro")}</p>
-      </div>
+      <PageHero as="div" deva="योग" title={s("yoga.title")} intro={s("yoga.intro")} />
 
       <details className={card}>
         <summary className="min-h-11 cursor-pointer font-semibold">{s("yoga.safety.title")}</summary>

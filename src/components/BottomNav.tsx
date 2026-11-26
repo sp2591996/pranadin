@@ -17,7 +17,7 @@ const ICONS: Record<Tab, IconName> = {
 
 /**
  * Bottom navigation: 5 tabs, icon + always-visible label, 64px + safe area,
- * active = primary on a primary-tint pill with aria-current (design-system-v0 §7).
+ * active = primary on a primary-tint pill; hidden from tablet width up, where the header holds the tabs with aria-current (design-system-v0 §7).
  */
 export function BottomNav() {
   const { t, locale } = useI18n();
@@ -25,7 +25,7 @@ export function BottomNav() {
   return (
     <nav
       aria-label={t("nav.label")}
-      className="fixed inset-x-0 bottom-0 z-[var(--z-nav)] border-t-2 border-[var(--accent)] bg-[var(--nav-bg)] pb-[env(safe-area-inset-bottom)] shadow-elev-2"
+      className="fixed inset-x-0 bottom-0 z-[var(--z-nav)] border-t border-divider bg-[color-mix(in_srgb,var(--surface)_94%,transparent)] pb-[env(safe-area-inset-bottom)] shadow-elev-2 backdrop-blur-md md:hidden"
     >
       <ul className="mx-auto grid min-h-[var(--size-nav)] max-w-xl grid-cols-5">
         {TABS.map((tab) => {

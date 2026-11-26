@@ -32,7 +32,7 @@ export function FestivalGuideEntry({ data }: { data?: FestivalLinkData }) {
   return (
     <Link
       href={festivalRoutes.list(locale)}
-      className="relative isolate block overflow-hidden rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-hero-bg)] p-4"
+      className="relative isolate block overflow-hidden rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-hero-bg)] p-4"
     >
       <Mandala className="absolute -right-8 -top-8 -z-10 h-32 w-32 text-[var(--accent)] opacity-40" />
       <span className="block text-h3">{data.guideTitle}</span>

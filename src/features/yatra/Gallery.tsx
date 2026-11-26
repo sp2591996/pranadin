@@ -15,7 +15,7 @@ export function Gallery({ placeId, photos }: { placeId: string; photos: PlaceVie
   const [i, setI] = useState(0);
   if (photos.length === 0) {
     return (
-      <figure className="relative isolate flex aspect-square max-h-72 w-full items-center justify-center overflow-hidden rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-hero-bg)]">
+      <figure className="relative isolate flex aspect-square max-h-72 w-full items-center justify-center overflow-hidden rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-hero-bg)]">
         <Mandala className="h-40 w-40 text-[var(--accent)] opacity-40" />
         <figcaption className="absolute bottom-2 start-3 end-3 text-center text-small text-text-muted">{s("yatra.noPhoto")}</figcaption>
       </figure>

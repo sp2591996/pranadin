@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import { CaretRightIcon } from "@phosphor-icons/react/dist/csr/CaretRight";
-import { Mandala } from "@/components/Mandala";
 import { useI18n } from "@/i18n/client";
 import { formatDateKey } from "@/i18n/format";
 import type { Locale } from "@/i18n/config";
@@ -12,6 +11,7 @@ import { btn } from "@/features/shared/ui";
 import type { FestivalTradition } from "@/features/festivals/types";
 import { yatraRoutes } from "./routes";
 import type { PlaceView } from "./types";
+import { PageHero } from "@/components/PageHero";
 
 export const monthName = (m: number, locale: Locale) => formatDateKey(`2027-${String(m).padStart(2, "0")}-01`, locale, { month: "long" });
 
@@ -34,14 +34,11 @@ export function YatraList({ places }: { places: PlaceView[] }) {
   const select = "min-h-11 rounded-md border border-border-input bg-surface px-3";
   return (
     <div className="flex flex-col gap-5">
-      <header className="relative isolate overflow-hidden rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-hero-bg)] p-4">
-        <Mandala className="absolute -right-10 -top-10 -z-10 h-40 w-40 text-[var(--accent)] opacity-40" />
-        <h1>{s("yatra.title")}</h1>
-        <p className="text-text-muted">{s("yatra.intro")}</p>
-        <Link href={yatraRoutes.planner(locale)} className={`${btn.secondary} mt-3`}>
+      <PageHero deva="तीर्थयात्रा" title={s("yatra.title")} intro={s("yatra.intro")}>
+        <Link href={yatraRoutes.planner(locale)} className="mt-4 inline-flex min-h-12 items-center justify-center rounded-full bg-[#F2B640] px-6 font-semibold text-[#35180A] hover:bg-[#F6C55E]">
           {s("yatra.planner.open")}
         </Link>
-      </header>
+      </PageHero>
 
       <label className="flex flex-col gap-1">
         <span className="text-small text-text-muted">{s("yatra.filter.state")}</span>
@@ -87,7 +84,7 @@ export function YatraList({ places }: { places: PlaceView[] }) {
             <li key={p.id}>
               <Link
                 href={yatraRoutes.detail(locale, p.id)}
-                className="flex min-h-20 items-center gap-3 rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-3 hover:bg-surface-2"
+                className="flex min-h-20 items-center gap-3 rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-bg)] p-3 hover:bg-surface-2"
               >
                 <span className="flex-1">
                   <span className="block text-h3" lang={p.name.lang}>

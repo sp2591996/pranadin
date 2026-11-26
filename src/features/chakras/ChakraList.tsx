@@ -8,6 +8,7 @@ import { useS } from "@/features/shared/strings";
 import { ChakraMotif } from "./Motif";
 import { chakraRoutes } from "./routes";
 import type { ChakraView } from "./types";
+import { PageHero } from "@/components/PageHero";
 
 /** Chakras list (D-026 Wave C): seven centres as yogic tradition, never as health advice. */
 export function ChakraList({ chakras }: { chakras: ChakraView[] }) {
@@ -18,16 +19,13 @@ export function ChakraList({ chakras }: { chakras: ChakraView[] }) {
       <Link href={routes.practice(locale)} className="inline-flex min-h-11 items-center text-primary underline underline-offset-2">
         {s("chakras.backToPractice")}
       </Link>
-      <div>
-        <h1>{s("chakras.title")}</h1>
-        <p className="text-text-muted">{s("chakras.intro")}</p>
-      </div>
+      <PageHero as="div" deva="चक्र" title={s("chakras.title")} intro={s("chakras.intro")} />
       <ol className="flex flex-col gap-3">
         {chakras.map((c) => (
           <li key={c.id}>
             <Link
               href={chakraRoutes.detail(locale, c.id)}
-              className="flex min-h-20 items-center gap-4 rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-3 hover:bg-surface-2"
+              className="flex min-h-20 items-center gap-4 rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-bg)] p-3 hover:bg-surface-2"
             >
               <ChakraMotif n={c.n} petals={c.petals} hex={c.hex} className="h-16 w-16 shrink-0" />
               <span className="flex-1">

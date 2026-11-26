@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import { CaretRightIcon } from "@phosphor-icons/react/dist/csr/CaretRight";
-import { Mandala } from "@/components/Mandala";
 import { useI18n } from "@/i18n/client";
 import { formatDateKey } from "@/i18n/format";
 import type { Locale } from "@/i18n/config";
@@ -12,6 +11,7 @@ import { useS } from "@/features/shared/strings";
 import { btn } from "@/features/shared/ui";
 import { festivalRoutes } from "./routes";
 import type { FestivalTradition, FestivalView } from "./types";
+import { PageHero } from "@/components/PageHero";
 
 const monthName = (m: number, locale: Locale) => formatDateKey(`2027-${String(m).padStart(2, "0")}-01`, locale, { month: "long" });
 
@@ -30,11 +30,7 @@ export function FestivalList({ festivals, traditions }: { festivals: FestivalVie
       <Link href={routes.calendar(locale)} className="inline-flex min-h-11 items-center text-primary underline underline-offset-2">
         {s("festivals.backToCalendar")}
       </Link>
-      <header className="relative isolate overflow-hidden rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-hero-bg)] p-4">
-        <Mandala className="absolute -right-10 -top-10 -z-10 h-40 w-40 text-[var(--accent)] opacity-40" />
-        <h1>{s("festivals.title")}</h1>
-        <p className="text-text-muted">{s("festivals.intro")}</p>
-      </header>
+      <PageHero deva="उत्सव" title={s("festivals.title")} intro={s("festivals.intro")} />
 
       <div role="group" aria-label={s("festivals.filter.tradition")} className="flex flex-wrap gap-2">
         <button type="button" className={btn.chip} aria-pressed={tradition === "all"} onClick={() => setTradition("all")}>
@@ -69,7 +65,7 @@ export function FestivalList({ festivals, traditions }: { festivals: FestivalVie
             <li key={f.id}>
               <Link
                 href={festivalRoutes.detail(locale, f.id)}
-                className="flex min-h-20 items-center gap-3 rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-3 hover:bg-surface-2"
+                className="flex min-h-20 items-center gap-3 rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-bg)] p-3 hover:bg-surface-2"
               >
                 <span className="flex-1">
                   <span className="block text-h3" lang={f.name.lang}>

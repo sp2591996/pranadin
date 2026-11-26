@@ -14,6 +14,7 @@ import { loadProgress } from "./store";
 import type { Progress } from "./streak";
 import { practiceRoutes, SILENT_ID } from "./routes";
 import { yogaRoutes } from "@/features/yoga/routes";
+import { PageHero } from "@/components/PageHero";
 
 export interface TechniqueSummary {
   slug: string;
@@ -67,7 +68,7 @@ export function PracticeHome({ techniques, meditations }: { techniques: Techniqu
 
   return (
     <div className="flex flex-col gap-6">
-      <h1>{s("practice.title")}</h1>
+      <PageHero as="div" deva="साधना" title={s("practice.title")} />
       {progress ? <ProgressCard progress={progress.p} today={progress.today} /> : <div aria-busy="true" className="min-h-[168px]" />}
 
       <section aria-labelledby="breathe-h">

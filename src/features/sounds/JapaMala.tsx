@@ -98,7 +98,7 @@ export function JapaMala() {
           disabled={!loaded}
           onClick={onTap}
           aria-label={s("japa.tapA11y", { n: v.beads })}
-          className="relative mx-auto aspect-square w-[min(100%,20rem)] touch-manipulation select-none rounded-full border-2 border-[var(--card-border)] bg-surface text-text active:bg-primary-tint disabled:opacity-60"
+          className="relative mx-auto aspect-square w-[min(100%,20rem)] touch-manipulation select-none rounded-full border border-divider shadow-elev-1 bg-surface text-text active:bg-primary-tint disabled:opacity-60"
         >
           <svg aria-hidden="true" focusable="false" viewBox="0 0 200 200" className="absolute inset-0 size-full">
             {DOTS.map((d, i) => (

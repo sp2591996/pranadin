@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved strings have reviewed: true. Draft translations (reviewed: false) are shown too (D-030) until the Board reviews them.",
-  "count": 687,
+  "count": 699,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -426,6 +426,26 @@
       "reviewed": true,
       "reviewer": "Board",
       "reviewedOn": "2026-11-17"
+    },
+    "today.hero.eyebrow": {
+      "text": "आपकी दैनिक साधना",
+      "reviewed": false
+    },
+    "today.hero.sub": {
+      "text": "श्वास, जप और स्मरण, हर दिन एक शांत कदम।",
+      "reviewed": false
+    },
+    "today.hero.cta": {
+      "text": "साधना शुरू करें",
+      "reviewed": false
+    },
+    "today.hero.sounds": {
+      "text": "ध्वनि और जप",
+      "reviewed": false
+    },
+    "today.explore.title": {
+      "text": "और देखें",
+      "reviewed": false
     },
     "today.dateLine": {
       "text": "{weekday}, {date}",

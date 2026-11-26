@@ -33,7 +33,7 @@ export function FestivalDetail({ festival: f, buildDate, window }: { festival: F
       <Link href={festivalRoutes.list(locale)} className="inline-flex min-h-11 items-center text-primary underline underline-offset-2">
         {s("festivals.back")}
       </Link>
-      <header className="relative isolate overflow-hidden rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-hero-bg)] p-4">
+      <header className="relative isolate overflow-hidden rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-hero-bg)] p-4">
         <Mandala className="absolute -right-12 -top-12 -z-10 h-48 w-48 text-[var(--accent)] opacity-40" />
         <h1 lang={f.name.lang}>{f.name.text}</h1>
         <p className="text-text-muted" lang={f.tagline.lang}>

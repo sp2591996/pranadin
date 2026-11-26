@@ -9,6 +9,7 @@ import { trackById, tracksIn, usedCategories, type AudioTrack } from "@/lib/audi
 import { soundEngine } from "./engine";
 import { JapaMala } from "./JapaMala";
 import { GENERATED, isGenerated, SCENES, SLEEP_OPTIONS, type Layer } from "./scenes";
+import { PageHero } from "@/components/PageHero";
 
 /** Translated name, or the manifest's English name when no string exists for a new file. */
 export function trackName(s: S, t: AudioTrack): string {
@@ -234,10 +235,7 @@ export function SoundsView() {
   const [view, setView] = useState<"listen" | "japa">("listen");
   return (
     <div className="flex flex-col gap-4">
-      <div>
-        <h1>{s("sounds.title")}</h1>
-        <p className="text-text-muted">{s("sounds.intro")}</p>
-      </div>
+      <PageHero as="div" deva="नाद" title={s("sounds.title")} intro={s("sounds.intro")} />
       <div role="group" aria-label={s("sounds.view.label")} className="flex flex-wrap gap-2">
         <button type="button" className={btn.chip} aria-pressed={view === "listen"} onClick={() => setView("listen")}>
           {s("sounds.view.listen")}

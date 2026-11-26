@@ -24,6 +24,7 @@ import { getStorage, newId, requestPersistence, StorageError, type StorageBacken
 import { JOURNAL_MAX_CHARS, type JournalEntry, type Mood } from "@/lib/types";
 import { EnglishMark } from "@/components/ObservanceBody";
 import { buildEntry, exportFileName, journalToJson, journalToText, MOOD_CONTENT_KEY, MOOD_ORDER, promptIndexFor, validateDraft } from "./logic";
+import { PageHero } from "@/components/PageHero";
 
 const MOOD_ICON: Record<Mood, Icon> = { peaceful: LeafIcon, grateful: HeartIcon, okay: SmileyMehIcon, restless: WindIcon, heavy: CloudIcon };
 
@@ -196,7 +197,7 @@ export function JournalView({ content }: { content: JournalContent }) {
 
   return (
     <div className="flex flex-col gap-6">
-      <h1>{s("journal.title")}</h1>
+      <PageHero as="div" deva="दैनंदिनी" title={s("journal.title")} />
       {backend === "memory" ? (
         <p role="alert" className="rounded-md bg-warning-tint p-3">
           {s("error.storage")}

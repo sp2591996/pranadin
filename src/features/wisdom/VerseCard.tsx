@@ -43,7 +43,7 @@ export function VerseCard({ verses, buildDate }: { verses: VerseView[]; buildDat
   }
 
   return (
-    <section aria-labelledby="verse-title" data-verse-id={v.id} className="relative isolate overflow-hidden rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-4">
+    <section aria-labelledby="verse-title" data-verse-id={v.id} className="relative isolate overflow-hidden rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-bg)] p-4">
       <Mandala className="absolute -bottom-10 -right-10 -z-10 h-36 w-36 text-[var(--accent)] opacity-25" />
       <h2 id="verse-title" className="text-h3">
         {s("wisdom.title")}

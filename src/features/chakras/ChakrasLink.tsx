@@ -11,7 +11,7 @@ import { chakraRoutes } from "./routes";
 export function ChakrasLink({ locale }: { locale: Locale }) {
   const s = loadChakraStrings(locale);
   return (
-    <Link href={chakraRoutes.list(locale)} className="mt-4 block rounded-lg border-2 border-[var(--card-border)] bg-[var(--card-bg)] p-4 hover:bg-surface-2">
+    <Link href={chakraRoutes.list(locale)} className="mt-4 block rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-bg)] p-4 hover:bg-surface-2 card-lift">
       <span className="block text-h3">{s["chakras.title"]}</span>
       <span className="block text-small text-text-muted">{s["chakras.intro"]}</span>
     </Link>

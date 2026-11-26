@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  background: var(--bg);
+  background-color: var(--bg);
   color: var(--text);
   font-family: var(--type-body-family);
   font-size: var(--type-body-size);
@@ -37,37 +37,55 @@ h2 {
   outline-offset: var(--size-focus-offset);
 }
 
-/* ---------- D-029 direction C: festive polish ---------- */
-/* Header: double gold rule over a scalloped band (semicircles hang below the bar). */
-.fest-header {
-  border-bottom: 3px double var(--accent);
-  margin-bottom: 10px;
-}
-.fest-header::after {
-  content: "";
-  position: absolute;
-  inset-inline: 0;
-  top: 100%;
-  height: 10px;
-  pointer-events: none;
+/* ---------- D-033 look (after the reference prototype) ---------- */
+/* Deep-brown temple-dusk panel used for heroes (text on it is always light). */
+.hero-dark {
   background:
-    radial-gradient(circle at 10px 0, var(--bg) 0 6px, var(--accent) 6.5px 8px, transparent 8.5px) 0 0 / 20px 10px repeat-x;
+    radial-gradient(ellipse 80% 60% at 70% 10%, rgba(194, 65, 12, 0.28), transparent 60%),
+    radial-gradient(ellipse 60% 50% at 20% 90%, rgba(217, 119, 6, 0.18), transparent 60%),
+    linear-gradient(165deg, #35180a 0%, #241007 55%, #1a0b06 100%);
+  color: #fdf3e1;
 }
-/* Active tab: warm diya glow behind the pill. */
-.diya-glow {
-  box-shadow: 0 0 0 1.5px var(--accent), 0 0 14px 2px color-mix(in srgb, var(--accent) 55%, transparent);
+/* Faint dotted paper grain for quote and feature cards. */
+.paper-texture {
+  background-image: radial-gradient(color-mix(in srgb, var(--primary) 7%, transparent) 1px, transparent 1px);
+  background-size: 22px 22px;
 }
+/* Soft saffron wash for panchang-style strips. */
+.saffron-wash {
+  background: linear-gradient(135deg, color-mix(in srgb, var(--primary) 11%, var(--surface)) 0%, var(--surface) 55%, var(--surface) 100%);
+}
+/* Letter-spaced eyebrow label (Latin only: Devanagari must not be tracked). */
+.eyebrow {
+  font-size: var(--type-caption-size);
+  line-height: var(--type-caption-line);
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+}
+:lang(hi) .eyebrow, :lang(mr) .eyebrow, .eyebrow:lang(hi), .eyebrow:lang(mr) { letter-spacing: 0.02em; }
+.font-deva { font-family: var(--font-deva-stack); }
+.card-lift { transition: transform var(--dur-base) var(--easing-standard), box-shadow var(--dur-base) var(--easing-standard), border-color var(--dur-base); }
+.card-lift:hover { transform: translateY(-2px); box-shadow: var(--elev-3); border-color: color-mix(in srgb, var(--primary) 35%, var(--divider)); }
 @media (prefers-reduced-motion: no-preference) {
-  .diya-glow { animation: diya-flicker 3.6s var(--easing-breath) infinite alternate; }
+  .gentle-float { animation: gentle-float 6s ease-in-out infinite; }
+  .slow-spin { animation: slow-spin 120s linear infinite; }
 }
-@keyframes diya-flicker {
-  from { box-shadow: 0 0 0 1.5px var(--accent), 0 0 10px 1px color-mix(in srgb, var(--accent) 40%, transparent); }
-  to { box-shadow: 0 0 0 1.5px var(--accent), 0 0 18px 4px color-mix(in srgb, var(--accent) 65%, transparent); }
+@keyframes gentle-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+@keyframes slow-spin { to { transform: rotate(360deg); } }
+:root[data-motion="reduce"] .gentle-float, :root[data-motion="reduce"] .slow-spin { animation: none; }
+:root[data-motion="reduce"] .card-lift:hover { transform: none; }
+
+/* Active bottom-nav tab: a soft saffron glow behind the pill. */
+.diya-glow {
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--primary) 35%, transparent), 0 4px 14px -4px color-mix(in srgb, var(--primary) 55%, transparent);
 }
-:root[data-motion="reduce"] .diya-glow { animation: none; }
 
 /* Yatra trip planner: print only the plan (D-026 Wave E). */
 @media print {
-  header.fest-header, body > nav, #main ~ nav, .skip-link { display: none !important; }
+  header.app-header, body > nav, #main ~ nav, .skip-link { display: none !important; }
   body { background: #fff; }
 }
+
+/* Devanagari has no true italic; a slanted fake reads badly, so keep it upright. */
+:lang(hi) .italic, :lang(mr) .italic, :lang(sa) .italic { font-style: normal; }
