@@ -1,0 +1,156 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "shirdi",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: darshan, Dwarkamai and the evening aarti", "hi": { "text": "एक दिन: दर्शन, द्वारकामाई और संध्या आरती", "reviewed": false }, "mr": { "text": "एक दिवस: दर्शन, द्वारकामाई आणि संध्या आरती", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Early darshan at the Samadhi Mandir, before the queue grows. Leave phones and bags in the locker first.", "hi": { "text": "कतार बढ़ने से पहले समाधि मंदिर में प्रातः दर्शन। पहले फ़ोन और बैग लॉकर में रखें।", "reviewed": false }, "mr": { "text": "रांग वाढण्यापूर्वी समाधी मंदिरात पहाटे दर्शन. आधी फोन आणि पिशव्या लॉकरमध्ये ठेवा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit Dwarkamai and Gurusthan, then a simple meal and a rest in the heat of the day.", "hi": { "text": "द्वारकामाई और गुरुस्थान जाएँ, फिर सादा भोजन और दिन की गर्मी में विश्राम।", "reviewed": false }, "mr": { "text": "द्वारकामाई आणि गुरुस्थानाला भेट द्या, मग साधे जेवण आणि दिवसाच्या उष्णतेत विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Stay on for the evening aarti at the Samadhi Mandir, or walk to Chavadi, then an early dinner.", "hi": { "text": "समाधि मंदिर में संध्या आरती के लिए रुकें, या चावड़ी तक पैदल जाएँ, फिर जल्दी भोजन।", "reviewed": false }, "mr": { "text": "समाधी मंदिरात संध्या आरतीसाठी थांबा, किंवा चावडीपर्यंत चालत जा, मग लवकर जेवण.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: Shirdi and Shani Shingnapur", "hi": { "text": "दो दिन: शिरडी और शनि शिंगणापुर", "reviewed": false }, "mr": { "text": "दोन दिवस: शिर्डी आणि शनी शिंगणापूर", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive, settle in and rest if you travelled overnight.", "hi": { "text": "पहुँचें, ठहरने की जगह पर बसें और रात भर सफ़र किया हो तो विश्राम करें।", "reviewed": false }, "mr": { "text": "पोहोचा, राहण्याच्या जागी स्थिरावा आणि रात्रभर प्रवास केला असल्यास विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan at the Samadhi Mandir once the midday queue thins, then Dwarkamai.", "hi": { "text": "दोपहर की कतार घटने पर समाधि मंदिर में दर्शन, फिर द्वारकामाई।", "reviewed": false }, "mr": { "text": "दुपारची रांग कमी झाल्यावर समाधी मंदिरात दर्शन, मग द्वारकामाई.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Chavadi and the evening aarti, then a light dinner.", "hi": { "text": "चावड़ी और संध्या आरती, फिर हल्का भोजन।", "reviewed": false }, "mr": { "text": "चावडी आणि संध्या आरती, मग हलके जेवण.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Drive to Shani Shingnapur, about 70 km, for darshan before the crowd.", "hi": { "text": "भीड़ से पहले दर्शन के लिए शनि शिंगणापुर जाएँ, लगभग 70 किमी।", "reviewed": false }, "mr": { "text": "गर्दीपूर्वी दर्शनासाठी शनी शिंगणापूरला जा, सुमारे 70 किमी.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Return to Shirdi, rest, then Gurusthan and Lendi Baug.", "hi": { "text": "शिरडी लौटें, विश्राम करें, फिर गुरुस्थान और लेंडी बाग।", "reviewed": false }, "mr": { "text": "शिर्डीला परता, विश्रांती घ्या, मग गुरुस्थान आणि लेंडी बाग.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A last quiet visit to the Samadhi Mandir if time allows, then onward travel.", "hi": { "text": "समय हो तो समाधि मंदिर की एक अंतिम शांत यात्रा, फिर आगे की यात्रा।", "reviewed": false }, "mr": { "text": "वेळ असल्यास समाधी मंदिराला शेवटची शांत भेट, मग पुढील प्रवास.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: Shirdi, Nashik and a quiet day", "hi": { "text": "तीन दिन: शिरडी, नासिक और एक शांत दिन", "reviewed": false }, "mr": { "text": "तीन दिवस: शिर्डी, नाशिक आणि एक शांत दिवस", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive and settle in. Walk the temple lanes to get your bearings.", "hi": { "text": "पहुँचें और बस जाएँ। दिशा समझने के लिए मंदिर की गलियों में घूमें।", "reviewed": false }, "mr": { "text": "पोहोचा आणि स्थिरावा. परिसराची ओळख होण्यासाठी मंदिराच्या गल्ल्यांत फिरा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Samadhi Mandir darshan once the midday crowd thins.", "hi": { "text": "दोपहर की भीड़ घटने पर समाधि मंदिर दर्शन।", "reviewed": false }, "mr": { "text": "दुपारची गर्दी कमी झाल्यावर समाधी मंदिर दर्शन.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening aarti, then a simple dinner.", "hi": { "text": "संध्या आरती, फिर सादा भोजन।", "reviewed": false }, "mr": { "text": "संध्या आरती, मग साधे जेवण.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Drive to Nashik, about 90 km, for the Godavari ghats at Panchavati.", "hi": { "text": "पंचवटी के गोदावरी घाटों के लिए नासिक जाएँ, लगभग 90 किमी।", "reviewed": false }, "mr": { "text": "पंचवटीतील गोदावरी घाटांसाठी नाशिकला जा, सुमारे 90 किमी.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit Trimbakeshwar if you have the energy, or rest in Nashik. The road is long, so keep the plan light.", "hi": { "text": "ऊर्जा हो तो त्र्यंबकेश्वर जाएँ, या नासिक में विश्राम करें। सड़क लंबी है, इसलिए योजना हल्की रखें।", "reviewed": false }, "mr": { "text": "ऊर्जा असल्यास त्र्यंबकेश्वरला जा, किंवा नाशिकमध्ये विश्रांती घ्या. रस्ता लांब आहे, म्हणून योजना हलकी ठेवा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to Shirdi and take an early night.", "hi": { "text": "शिरडी लौटें और जल्दी विश्राम करें।", "reviewed": false }, "mr": { "text": "शिर्डीला परता आणि लवकर विश्रांती घ्या.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Early Kakad aarti if you wish, then Dwarkamai and Gurusthan at a slow pace.", "hi": { "text": "इच्छा हो तो प्रातः काकड़ आरती, फिर धीमी गति से द्वारकामाई और गुरुस्थान।", "reviewed": false }, "mr": { "text": "इच्छा असल्यास पहाटे काकड आरती, मग सावकाश द्वारकामाई आणि गुरुस्थान.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Lendi Baug and free time for a long lunch and shopping for books and photos.", "hi": { "text": "लेंडी बाग और लंबे भोजन तथा पुस्तकों व चित्रों की ख़रीदारी के लिए खाली समय।", "reviewed": false }, "mr": { "text": "लेंडी बाग आणि निवांत जेवण तसेच पुस्तके व छायाचित्रे खरेदीसाठी मोकळा वेळ.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A last evening aarti, or a quiet sit near the temple before you leave.", "hi": { "text": "अंतिम संध्या आरती, या जाने से पहले मंदिर के पास शांत बैठना।", "reviewed": false }, "mr": { "text": "शेवटची संध्या आरती, किंवा निघण्यापूर्वी मंदिराजवळ शांत बसणे.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Trust guest houses and bhaktaniwas", "hi": { "text": "न्यास के अतिथि गृह और भक्तनिवास", "reviewed": false }, "mr": { "text": "न्यासाची अतिथीगृहे आणि भक्तनिवास", "reviewed": false } },
+      "body": { "en": "The Sansthan runs large guest-house complexes with simple rooms at modest rates. These are reserved through the Sansthan's own channels, and rooms fill early around festivals. Check the official site for current rules.", "hi": { "text": "संस्थान सरल कमरों वाले बड़े अतिथि गृह परिसर साधारण दरों पर चलाता है। ये संस्थान के अपने माध्यम से आरक्षित होते हैं और त्योहारों पर कमरे जल्दी भर जाते हैं। वर्तमान नियमों के लिए आधिकारिक साइट देखें।", "reviewed": false }, "mr": { "text": "संस्थान साध्या खोल्या असलेली मोठी अतिथीगृह संकुले माफक दरात चालवते. ती संस्थानाच्या स्वतःच्या माध्यमातून आरक्षित होतात आणि सणांच्या काळात खोल्या लवकर भरतात. सध्याच्या नियमांसाठी अधिकृत संकेतस्थळ पाहा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Walking distance of the Samadhi Mandir", "hi": { "text": "समाधि मंदिर से पैदल दूरी पर", "reviewed": false }, "mr": { "text": "समाधी मंदिरापासून चालत जाण्याच्या अंतरावर", "reviewed": false } },
+      "body": { "en": "Private guest houses and lodges cluster along the roads near the temple. Handy for early darshan, though the lanes are busy and noisy. Vehicles stop at the edge of the zone at crowded times.", "hi": { "text": "मंदिर के पास की सड़कों पर निजी अतिथि गृह और लॉज एकत्र हैं। सुबह के दर्शन के लिए सुविधाजनक, पर गलियाँ व्यस्त और शोरगुल वाली हैं। भीड़ के समय वाहन क्षेत्र के किनारे तक ही जाते हैं।", "reviewed": false }, "mr": { "text": "मंदिराजवळच्या रस्त्यांवर खासगी अतिथीगृहे आणि लॉज एकवटलेले आहेत. पहाटेच्या दर्शनासाठी सोयीचे, पण गल्ल्या गर्दीच्या आणि गोंगाटाच्या आहेत. गर्दीच्या वेळी वाहने क्षेत्राच्या काठापर्यंतच जातात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Along the Nagar-Manmad road and near the airport road", "hi": { "text": "नगर-मनमाड सड़क और हवाई अड्डा मार्ग के पास", "reviewed": false }, "mr": { "text": "नगर-मनमाड रस्ता आणि विमानतळ रस्त्याजवळ", "reviewed": false } },
+      "body": { "en": "Wider roads, parking and larger properties, a short ride from the temple. A better fit for families with cars and older travellers who prefer a quieter stay.", "hi": { "text": "चौड़ी सड़कें, पार्किंग और बड़े परिसर, मंदिर से थोड़ी दूरी पर। कार वाले परिवारों और शांत ठहराव चाहने वाले बुज़ुर्ग यात्रियों के लिए बेहतर।", "reviewed": false }, "mr": { "text": "रुंद रस्ते, पार्किंग आणि मोठे परिसर, मंदिरापासून थोड्या अंतरावर. कार असलेल्या कुटुंबांसाठी आणि शांत निवास हवा असलेल्या ज्येष्ठ प्रवाशांसाठी अधिक योग्य.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Sansthan prasadalaya", "hi": { "text": "संस्थान प्रसादालय", "reviewed": false }, "mr": { "text": "संस्थान प्रसादालय", "reviewed": false } },
+      "body": { "en": "The trust runs a large dining hall serving simple vegetarian meals to visitors. Timings and any charges are set by the Sansthan, so check locally.", "hi": { "text": "न्यास एक बड़ा भोजन कक्ष चलाता है जहाँ यात्रियों को सादा शाकाहारी भोजन मिलता है। समय और कोई शुल्क संस्थान तय करता है, इसलिए स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "न्यास एक मोठे भोजन कक्ष चालवतो जिथे यात्रेकरूंना साधे शाकाहारी जेवण मिळते. वेळा आणि कोणतेही शुल्क संस्थान ठरवते, म्हणून स्थानिक पातळीवर तपासा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Pithla-bhakri and sabudana khichdi", "hi": { "text": "पिठला-भाकरी और साबूदाना खिचड़ी", "reviewed": false }, "mr": { "text": "पिठलं-भाकरी आणि साबुदाणा खिचडी", "reviewed": false } },
+      "body": { "en": "Simple Maharashtrian staples found in small eateries near the temple. Choose places with fresh, hot food.", "hi": { "text": "मंदिर के पास छोटे भोजनालयों में मिलने वाले सरल महाराष्ट्रीय व्यंजन। ताज़ा, गरम भोजन वाली जगहें चुनें।", "reviewed": false }, "mr": { "text": "मंदिराजवळील लहान उपाहारगृहांत मिळणारे साधे महाराष्ट्रीय पदार्थ. ताजे, गरम अन्न असलेली ठिकाणे निवडा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Misal pav and vada pav", "hi": { "text": "मिसल पाव और वड़ा पाव", "reviewed": false }, "mr": { "text": "मिसळ पाव आणि वडा पाव", "reviewed": false } },
+      "body": { "en": "Popular breakfast and snack choices. Ask for the spice level you can manage and use bottled water.", "hi": { "text": "नाश्ते और हल्के भोजन के लोकप्रिय विकल्प। अपनी सहनशीलता के अनुसार तीखापन बताएँ और बोतलबंद पानी लें।", "reviewed": false }, "mr": { "text": "नाश्त्याचे आणि खाऊचे लोकप्रिय पर्याय. तुम्हाला झेपेल तितका तिखटपणा सांगा आणि बाटलीबंद पाणी घ्या.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Peda and sweets", "hi": { "text": "पेड़ा और मिठाइयाँ", "reviewed": false }, "mr": { "text": "पेढा आणि मिठाई", "reviewed": false } },
+      "body": { "en": "Peda and other sweets are sold as prasad near the temple. Buy from shops that show fresh stock and a clear price.", "hi": { "text": "मंदिर के पास प्रसाद के रूप में पेड़ा और अन्य मिठाइयाँ बिकती हैं। ताज़े माल और स्पष्ट मूल्य वाली दुकानों से लें।", "reviewed": false }, "mr": { "text": "मंदिराजवळ प्रसाद म्हणून पेढा आणि इतर मिठाई विकली जाते. ताजा माल आणि स्पष्ट किंमत असलेल्या दुकानांतून घ्या.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Shirdi is largely vegetarian. The Sansthan kitchens and most restaurants near the temple serve vegetarian food. Many places can make meals without onion and garlic if you ask, and Jain food is available in some. Meat and alcohol are not usually sold near the temple.",
+    "hi": { "text": "शिरडी में अधिकतर शाकाहारी भोजन मिलता है। संस्थान की रसोइयाँ और मंदिर के पास के अधिकांश रेस्तराँ शाकाहारी भोजन देते हैं। कई जगहें माँगने पर बिना प्याज़-लहसुन का भोजन बना देती हैं और कुछ में जैन भोजन मिलता है। मंदिर के पास सामान्यतः मांस और शराब नहीं बिकते।", "reviewed": false },
+    "mr": { "text": "शिर्डीत बहुतांश शाकाहारी जेवण मिळते. संस्थानाची स्वयंपाकघरे आणि मंदिराजवळील बहुतेक उपाहारगृहे शाकाहारी अन्न देतात. अनेक ठिकाणी मागितल्यास कांदा-लसणाशिवाय जेवण बनवतात आणि काही ठिकाणी जैन जेवण मिळते. मंदिराजवळ सहसा मांस आणि मद्य विकले जात नाही.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 800, "max": 1500 },
+      "mid": { "min": 2000, "max": 4000 },
+      "comfort": { "min": 5000, "max": 9000 }
+    },
+    "note": {
+      "en": "Indicative, per person per day for stay, food and local transport, assuming a twin-share room. Prices rise sharply around Thursdays, festivals and school holidays.",
+      "hi": { "text": "संकेतात्मक, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। गुरुवार, त्योहारों और स्कूल की छुट्टियों में कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "सूचक, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. गुरुवार, सण आणि शाळेच्या सुट्ट्यांत दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Queues can be long and mostly on foot, and may be outdoors. Wear comfortable footwear that is easy to remove, and take breaks if you feel tired.",
+      "hi": { "text": "कतारें लंबी हो सकती हैं, अधिकतर पैदल और कभी बाहर खुले में। आरामदायक और आसानी से उतरने वाले जूते-चप्पल पहनें, और थकान हो तो विश्राम करें।", "reviewed": false },
+      "mr": { "text": "रांगा लांब असू शकतात, बहुतांश चालत आणि कधी बाहेर उघड्यावर. आरामदायी आणि सहज काढता येणारी पादत्राणे घाला, आणि थकवा वाटल्यास विश्रांती घ्या.", "reviewed": false }
+    },
+    {
+      "en": "Summer heat can be severe from March to May. Visit early or late, carry water, cover your head and rest in the afternoon.",
+      "hi": { "text": "मार्च से मई तक गर्मी बहुत तेज़ हो सकती है। जल्दी या देर से जाएँ, पानी साथ रखें, सिर ढकें और दोपहर में विश्राम करें।", "reviewed": false },
+      "mr": { "text": "मार्च ते मे या काळात उष्णता तीव्र असू शकते. लवकर किंवा उशिरा जा, पाणी सोबत ठेवा, डोके झाका आणि दुपारी विश्रांती घ्या.", "reviewed": false }
+    },
+    {
+      "en": "Crowds are dense on Thursdays and festival days. Keep children and older family members close, agree a meeting point and keep valuables safe.",
+      "hi": { "text": "गुरुवार और त्योहार के दिन भीड़ घनी रहती है। बच्चों और बुज़ुर्ग परिजनों को पास रखें, मिलने की जगह तय करें और कीमती सामान सुरक्षित रखें।", "reviewed": false },
+      "mr": { "text": "गुरुवार आणि सणांच्या दिवशी गर्दी दाट असते. मुले आणि ज्येष्ठ कुटुंबीयांना जवळ ठेवा, भेटण्याची जागा ठरवा आणि मौल्यवान वस्तू सुरक्षित ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Only bottled or filtered water, and fresh hot food. Carry your own medicines in their original packs. This guide is not medical advice.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी और ताज़ा गरम भोजन लें। अपनी दवाइयाँ मूल पैक में साथ रखें। यह मार्गदर्शिका चिकित्सा सलाह नहीं है।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी आणि ताजे गरम अन्न घ्या. आपली औषधे मूळ पाकिटात सोबत ठेवा. हे मार्गदर्शन वैद्यकीय सल्ला नाही.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly and remove footwear before entering shrines. Follow the staff on where photography is allowed, since it is usually not allowed inside.",
+      "hi": { "text": "शालीन वस्त्र पहनें और मंदिर में प्रवेश से पहले जूते-चप्पल उतारें। फ़ोटो कहाँ ली जा सकती है, इस पर कर्मचारियों का निर्देश मानें, क्योंकि अंदर आमतौर पर अनुमति नहीं होती।", "reviewed": false },
+      "mr": { "text": "साधे कपडे घाला आणि मंदिरात प्रवेश करण्यापूर्वी पादत्राणे काढा. छायाचित्रण कुठे करता येते याबाबत कर्मचाऱ्यांच्या सूचना पाळा, कारण आत सहसा परवानगी नसते.", "reviewed": false }
+    },
+    {
+      "en": "Keep to the queue and do not push. Be patient with elderly pilgrims and families with children.",
+      "hi": { "text": "कतार में रहें और धक्का न दें। बुज़ुर्ग श्रद्धालुओं और बच्चों वाले परिवारों के साथ धैर्य रखें।", "reviewed": false },
+      "mr": { "text": "रांगेत राहा आणि ढकलू नका. ज्येष्ठ भाविक आणि मुले असलेल्या कुटुंबांसोबत संयम ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Touts and shop staff may press you to buy offerings or pay for a shorter queue. You may politely decline. Official receipts are given only at the trust's counters.",
+      "hi": { "text": "दलाल और दुकानदार चढ़ावा ख़रीदने या कम कतार के लिए पैसे देने का दबाव डाल सकते हैं। आप विनम्रता से मना कर सकते हैं। आधिकारिक रसीद केवल न्यास के काउंटरों पर मिलती है।", "reviewed": false },
+      "mr": { "text": "दलाल आणि दुकानदार अर्पण खरेदी करण्यासाठी किंवा लहान रांगेसाठी पैसे देण्याचा आग्रह करू शकतात. तुम्ही नम्रपणे नकार देऊ शकता. अधिकृत पावती फक्त न्यासाच्या काउंटरवरच मिळते.", "reviewed": false }
+    },
+    {
+      "en": "Keep the temple area clean. Use the bins, and do not leave flowers, plastic or food wrappers in the lanes.",
+      "hi": { "text": "मंदिर क्षेत्र को स्वच्छ रखें। कूड़ेदान का उपयोग करें और गलियों में फूल, प्लास्टिक या खाने के रैपर न छोड़ें।", "reviewed": false },
+      "mr": { "text": "मंदिर परिसर स्वच्छ ठेवा. कचरापेटी वापरा आणि गल्ल्यांत फुले, प्लास्टिक किंवा खाऊचे वेष्टन टाकू नका.", "reviewed": false }
+    },
+    {
+      "en": "Sai Baba is honoured by people of many faiths. Be respectful of everyone you meet in the queue and in the lanes.",
+      "hi": { "text": "साईं बाबा का आदर अनेक धर्मों के लोग करते हैं। कतार और गलियों में मिलने वाले हर व्यक्ति के प्रति सम्मान रखें।", "reviewed": false },
+      "mr": { "text": "साईबाबांना अनेक धर्मांचे लोक आदराने मानतात. रांगेत आणि गल्ल्यांत भेटणाऱ्या प्रत्येकाचा आदर ठेवा.", "reviewed": false }
+    }
+  ]
+}

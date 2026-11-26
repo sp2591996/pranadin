@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "amritsar",
+  "sights": [
+    {
+      "id": "harmandir-sahib",
+      "name": { "en": "Sri Harmandir Sahib and the Amrit Sarovar", "hi": { "text": "श्री हरिमंदिर साहिब और अमृत सरोवर", "reviewed": false }, "mr": { "text": "श्री हरमंदिर साहिब आणि अमृत सरोवर", "reviewed": false } },
+      "desc": {
+        "en": "The central gurdwara, reached by a causeway across the sarovar. Kirtan from the Guru Granth Sahib is sung through the day. Walk the marble parikrama, bow in the sangat and take karah prasad. Allow two to four hours including the queue.",
+        "hi": { "text": "केंद्रीय गुरुद्वारा, जो सरोवर के ऊपर बने पुल के रास्ते पहुँचा जाता है। दिन भर गुरु ग्रंथ साहिब की गुरबाणी का कीर्तन होता है। संगमरमर की परिक्रमा करें, संगत में माथा टेकें और कड़ाह प्रसाद ग्रहण करें। कतार सहित दो से चार घंटे रखें।", "reviewed": false },
+        "mr": { "text": "मध्यवर्ती गुरुद्वारा, सरोवरावरील पुलासारख्या मार्गाने पोहोचता येते. दिवसभर गुरु ग्रंथ साहिबातील गुरबाणीचे कीर्तन गायले जाते. संगमरवरी परिक्रमा करा, संगतीत नतमस्तक व्हा आणि कडाह प्रसाद घ्या. रांगेसह दोन ते चार तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The complex is open very early to late night. Parkash, the opening of the Guru Granth Sahib in the sanctum, takes place before dawn, and Sukhasan, its evening rest, late at night. The sanctum may close briefly during these ceremonies.",
+        "hi": { "text": "परिसर बहुत सुबह से देर रात तक खुला रहता है। परकाश, यानी गर्भगृह में गुरु ग्रंथ साहिब का प्रकाश, भोर से पहले होता है और सुखासन, यानी रात्रि विश्राम, देर रात। इन समारोहों के दौरान गर्भगृह कुछ समय के लिए बंद हो सकता है।", "reviewed": false },
+        "mr": { "text": "परिसर अगदी पहाटेपासून उशिरा रात्रीपर्यंत उघडा असतो. परकाश, म्हणजे गर्भगृहात गुरु ग्रंथ साहिबांचे प्रकाश, पहाटेपूर्वी होते आणि सुखासन, म्हणजे रात्रीची विश्रांती, उशिरा रात्री. या समारंभांदरम्यान गर्भगृह थोड्या वेळासाठी बंद असू शकते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Cover your head with a scarf or rumal (free ones are available at the entrance). Remove shoes and wash your feet in the channel at the gate. Dress modestly, and do not bring tobacco, alcohol or other intoxicants.",
+        "hi": { "text": "सिर को दुपट्टे या रूमाल से ढकें (प्रवेश द्वार पर निःशुल्क मिलते हैं)। जूते उतारें और द्वार के पानी के रास्ते में पैर धोएँ। शालीन कपड़े पहनें और तंबाकू, शराब या अन्य नशीले पदार्थ साथ न लाएँ।", "reviewed": false },
+        "mr": { "text": "डोके स्कार्फ किंवा रुमालाने झाका (प्रवेशद्वारावर मोफत मिळतात). जोडे काढा आणि प्रवेशद्वारावरील पाण्याच्या मार्गात पाय धुवा. साधे कपडे घाला आणि तंबाखू, मद्य किंवा इतर नशा आणणारे पदार्थ आणू नका.", "reviewed": false }
+      }
+    },
+    {
+      "id": "akal-takht",
+      "name": { "en": "Akal Takht Sahib", "hi": { "text": "श्री अकाल तख़्त साहिब", "reviewed": false }, "mr": { "text": "श्री अकाल तख्त साहिब", "reviewed": false } },
+      "desc": {
+        "en": "The highest seat of Sikh authority, established by Guru Hargobind Sahib Ji, facing Sri Harmandir Sahib. It reflects the Sikh balance of spiritual and worldly life. Historic weapons are shown on some days.",
+        "hi": { "text": "सिख सत्ता का सर्वोच्च केंद्र, जिसकी स्थापना गुरु हरगोबिंद साहिब जी ने की और जो श्री हरिमंदिर साहिब के सामने स्थित है। यह सिखों के आध्यात्मिक और सांसारिक जीवन के संतुलन को दर्शाता है। कुछ दिनों में ऐतिहासिक शस्त्र प्रदर्शित किए जाते हैं।", "reviewed": false },
+        "mr": { "text": "शीख सत्तेचे सर्वोच्च केंद्र, ज्याची स्थापना गुरु हरगोबिंद साहिब जी यांनी केली आणि जे श्री हरमंदिर साहिबासमोर आहे. हे शीखांच्या आध्यात्मिक आणि ऐहिक जीवनाचा समतोल दर्शवते. काही दिवशी ऐतिहासिक शस्त्रे प्रदर्शित केली जातात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open within the complex hours. The Guru Granth Sahib is carried here in a palki for the night rest after the evening ceremony.",
+        "hi": { "text": "परिसर के समय में खुला रहता है। संध्या समारोह के बाद रात्रि विश्राम के लिए गुरु ग्रंथ साहिब को पालकी में यहाँ लाया जाता है।", "reviewed": false },
+        "mr": { "text": "परिसराच्या वेळेत उघडे असते. संध्याकाळच्या समारंभानंतर रात्रीच्या विश्रांतीसाठी गुरु ग्रंथ साहिबांना पालखीतून येथे आणले जाते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Same as the main complex: head covered, shoes off, modest dress. Stand quietly and do not point your feet towards the sanctum.",
+        "hi": { "text": "मुख्य परिसर जैसा ही: सिर ढका हुआ, जूते बाहर, शालीन वेश। शांत खड़े रहें और पैर गर्भगृह की ओर न करें।", "reviewed": false },
+        "mr": { "text": "मुख्य परिसराप्रमाणेच: डोके झाकलेले, जोडे बाहेर, साधा पोशाख. शांत उभे रहा आणि पाय गर्भगृहाकडे करू नका.", "reviewed": false }
+      }
+    },
+    {
+      "id": "guru-ka-langar",
+      "name": { "en": "Guru Ka Langar", "hi": { "text": "गुरु का लंगर", "reviewed": false }, "mr": { "text": "गुरु का लंगर", "reviewed": false } },
+      "desc": {
+        "en": "The free community kitchen, run by volunteers, which serves a simple vegetarian meal to everyone, whatever their faith or means. Visitors sit together in rows (pangat) on the floor. You may also offer seva by cutting vegetables, serving or washing utensils.",
+        "hi": { "text": "स्वयंसेवकों द्वारा चलाई जाने वाली निःशुल्क सामुदायिक रसोई, जो हर किसी को, चाहे उसका धर्म या सामर्थ्य जो भी हो, सादा शाकाहारी भोजन देती है। आगंतुक पंगत में एक साथ ज़मीन पर पंक्ति में बैठते हैं। आप सब्ज़ी काटने, परोसने या बर्तन धोने की सेवा भी कर सकते हैं।", "reviewed": false },
+        "mr": { "text": "स्वयंसेवकांद्वारे चालवले जाणारे मोफत सामुदायिक स्वयंपाकघर, जे प्रत्येकाला, त्याचा धर्म किंवा ऐपत काहीही असो, साधे शाकाहारी जेवण देते. अभ्यागत पंगतीत एकत्र जमिनीवर रांगेत बसतात. तुम्ही भाजी चिरणे, वाढणे किंवा भांडी धुणे अशी सेवाही करू शकता.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Served through the day and late into the night. Queues are longest at midday and on weekends and festival days.",
+        "hi": { "text": "दिन भर और देर रात तक परोसा जाता है। दोपहर में तथा सप्ताहांत और त्योहार के दिनों में कतारें सबसे लंबी होती हैं।", "reviewed": false },
+        "mr": { "text": "दिवसभर आणि उशिरा रात्रीपर्यंत वाढले जाते. दुपारी तसेच सप्ताहांत आणि सणाच्या दिवशी रांगा सर्वात लांब असतात.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Head covered, shoes off. Take only as much food as you will eat, and leave your plate at the collection point. There is no charge, and donations are voluntary.",
+        "hi": { "text": "सिर ढका हुआ, जूते बाहर। उतना ही भोजन लें जितना खा सकें और थाली संग्रह स्थल पर रखें। कोई शुल्क नहीं है, दान स्वैच्छिक है।", "reviewed": false },
+        "mr": { "text": "डोके झाकलेले, जोडे बाहेर. जितके खाल तितकेच जेवण घ्या आणि ताट संकलन ठिकाणी ठेवा. कोणतेही शुल्क नाही, दान ऐच्छिक आहे.", "reviewed": false }
+      }
+    },
+    {
+      "id": "jallianwala-bagh",
+      "name": { "en": "Jallianwala Bagh", "hi": { "text": "जलियाँवाला बाग", "reviewed": false }, "mr": { "text": "जालियनवाला बाग", "reviewed": false } },
+      "desc": {
+        "en": "A memorial garden a few minutes' walk from the gurdwara, marking the firing on a peaceful crowd on 13 April 1919. It has a memorial, a gallery and the old well. Visit with quiet respect.",
+        "hi": { "text": "गुरुद्वारे से कुछ मिनट की पैदल दूरी पर स्मारक उद्यान, जो 13 अप्रैल 1919 को शांतिपूर्ण भीड़ पर हुई गोलीबारी का स्मरण कराता है। यहाँ स्मारक, दीर्घा और पुराना कुआँ है। शांत सम्मान के साथ जाएँ।", "reviewed": false },
+        "mr": { "text": "गुरुद्वारापासून काही मिनिटांच्या चालण्याच्या अंतरावरील स्मारक उद्यान, जे 13 एप्रिल 1919 रोजी शांत जमावावर झालेल्या गोळीबाराचे स्मरण करते. येथे स्मारक, दालन आणि जुनी विहीर आहे. शांत आदराने भेट द्या.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open in the daytime until evening, with a light show in some seasons. Entry is generally free.",
+        "hi": { "text": "दिन में शाम तक खुला रहता है, कुछ मौसमों में प्रकाश प्रदर्शन होता है। प्रवेश आमतौर पर निःशुल्क है।", "reviewed": false },
+        "mr": { "text": "दिवसा संध्याकाळपर्यंत उघडे असते, काही ऋतूंमध्ये प्रकाश कार्यक्रम असतो. प्रवेश सहसा मोफत आहे.", "reviewed": false }
+      },
+      "dress": {
+        "en": "No special dress code. Keep voices low and be respectful at the memorial.",
+        "hi": { "text": "कोई विशेष वेश नियम नहीं। धीमे स्वर में बोलें और स्मारक का सम्मान करें।", "reviewed": false },
+        "mr": { "text": "विशेष पोशाख नियम नाही. आवाज हळू ठेवा आणि स्मारकाचा आदर करा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "durgiana-mandir",
+      "name": { "en": "Shri Durgiana Mandir", "hi": { "text": "श्री दुर्ग्याना मंदिर", "reviewed": false }, "mr": { "text": "श्री दुर्ग्याना मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A Hindu temple with a silver-panelled door and a pool, built in a style that echoes the Golden Temple. It is dedicated to Goddess Durga and is a quiet stop for those of the Hindu tradition.",
+        "hi": { "text": "चाँदी के पल्लों वाले द्वार और सरोवर वाला हिंदू मंदिर, जिसकी शैली स्वर्ण मंदिर से मिलती-जुलती है। यह देवी दुर्गा को समर्पित है और हिंदू परंपरा के यात्रियों के लिए शांत पड़ाव है।", "reviewed": false },
+        "mr": { "text": "चांदीच्या दरवाजांचे आणि सरोवर असलेले हिंदू मंदिर, ज्याची शैली सुवर्ण मंदिराशी मिळतीजुळती आहे. हे देवी दुर्गेला समर्पित आहे आणि हिंदू परंपरेतील यात्रेकरूंसाठी शांत थांबा आहे.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open morning and evening with a midday break. Crowds rise during Navratri.",
+        "hi": { "text": "सुबह और शाम खुला रहता है, दोपहर में विराम होता है। नवरात्र में भीड़ बढ़ जाती है।", "reviewed": false },
+        "mr": { "text": "सकाळी आणि संध्याकाळी उघडे असते, दुपारी विश्रांती असते. नवरात्रीत गर्दी वाढते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Footwear is left outside.",
+        "hi": { "text": "शालीन कपड़े। जूते बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. जोडे बाहेर काढा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early or late. The hours around Parkash before dawn and the evening before Sukhasan are the most peaceful. Weekends and festival days are very crowded.",
+        "hi": { "text": "जल्दी या देर से जाएँ। भोर से पहले परकाश के समय के आसपास और सुखासन से पहले की शाम सबसे शांत होती है। सप्ताहांत और त्योहार के दिनों में बहुत भीड़ रहती है।", "reviewed": false },
+        "mr": { "text": "लवकर किंवा उशिरा जा. पहाटेपूर्वीच्या परकाशाच्या वेळी आणि सुखासनापूर्वीची संध्याकाळ सर्वात शांत असते. सप्ताहांत आणि सणाच्या दिवशी खूप गर्दी असते.", "reviewed": false }
+      },
+      {
+        "en": "Enter by the free shoe stand and head-covering counter, wash your feet, then join the queue to the causeway. Move with the sangat, bow and keep moving so others can pay respects.",
+        "hi": { "text": "निःशुल्क जूता-घर और सिर ढकने वाले काउंटर से प्रवेश करें, पैर धोएँ, फिर पुल की ओर कतार में लगें। संगत के साथ चलें, माथा टेकें और आगे बढ़ते रहें ताकि दूसरे भी दर्शन कर सकें।", "reviewed": false },
+        "mr": { "text": "मोफत जोडे-घर आणि डोके झाकण्याच्या काउंटरमधून प्रवेश करा, पाय धुवा, मग पुलाकडे जाणाऱ्या रांगेत उभे रहा. संगतीसोबत चाला, नतमस्तक व्हा आणि पुढे जात रहा म्हणजे इतरांनाही दर्शन घेता येईल.", "reviewed": false }
+      },
+      {
+        "en": "Photography rules differ by area, so follow the signs and the volunteers' guidance, especially near the sanctum. Do not take selfies with your back to the Guru Granth Sahib.",
+        "hi": { "text": "फ़ोटो लेने के नियम क्षेत्र के अनुसार अलग हैं, इसलिए संकेतों और सेवादारों के निर्देशों का पालन करें, विशेषकर गर्भगृह के पास। गुरु ग्रंथ साहिब की ओर पीठ करके सेल्फ़ी न लें।", "reviewed": false },
+        "mr": { "text": "छायाचित्रणाचे नियम भागानुसार वेगळे आहेत, म्हणून फलक आणि सेवादारांच्या सूचनांचे पालन करा, विशेषतः गर्भगृहाजवळ. गुरु ग्रंथ साहिबांकडे पाठ करून सेल्फी घेऊ नका.", "reviewed": false }
+      },
+      {
+        "en": "Karah prasad is offered at the counter and is shared by all. Receive it with both hands cupped. Keep any cash offering voluntary, and use only the marked counters.",
+        "hi": { "text": "कड़ाह प्रसाद काउंटर पर दिया जाता है और सबमें बाँटा जाता है। इसे दोनों हाथ जोड़कर ग्रहण करें। नकद भेंट स्वैच्छिक रखें और केवल चिह्नित काउंटरों का उपयोग करें।", "reviewed": false },
+        "mr": { "text": "कडाह प्रसाद काउंटरवर दिला जातो आणि सर्वांत वाटला जातो. तो दोन्ही हात जोडून घ्या. रोख अर्पण ऐच्छिक ठेवा आणि फक्त चिन्हांकित काउंटर वापरा.", "reviewed": false }
+      },
+      {
+        "en": "Older visitors and those who cannot walk far can ask the volunteers or the information counter about wheelchairs and easier routes, which can change.",
+        "hi": { "text": "वृद्ध यात्री और जो अधिक चल नहीं सकते, वे सेवादारों या सूचना काउंटर से व्हीलचेयर और सरल मार्गों के बारे में पूछ सकते हैं, जो बदल सकते हैं।", "reviewed": false },
+        "mr": { "text": "वृद्ध यात्रेकरू आणि जे जास्त चालू शकत नाहीत ते सेवादार किंवा माहिती काउंटरला व्हीलचेअर आणि सोप्या मार्गांबद्दल विचारू शकतात, जे बदलू शकतात.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the Shiromani Gurdwara Parbandhak Committee publishes the daily routine, sarai information and a live kirtan stream on its official website, sgpc.net. This app does not book or sell anything. Use only the official site and check the current details yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: शिरोमणि गुरुद्वारा प्रबंधक कमेटी अपनी आधिकारिक वेबसाइट sgpc.net पर दैनिक कार्यक्रम, सराय की जानकारी और कीर्तन का सीधा प्रसारण प्रकाशित करती है। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइट का उपयोग करें और वर्तमान विवरण स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: शिरोमणी गुरुद्वारा प्रबंधक समिती आपल्या अधिकृत संकेतस्थळ sgpc.net वर दैनंदिन कार्यक्रम, सराईची माहिती आणि कीर्तनाचे थेट प्रक्षेपण प्रकाशित करते. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळ वापरा आणि सध्याचा तपशील स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}

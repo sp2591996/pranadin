@@ -1,0 +1,156 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "tirupati",
+  "name": { "en": "Tirupati (Tirumala)", "hi": { "text": "तिरुपति (तिरुमला)", "reviewed": false }, "mr": { "text": "तिरुपती (तिरुमला)", "reviewed": false } },
+  "state": { "en": "Andhra Pradesh", "hi": { "text": "आंध्र प्रदेश", "reviewed": false }, "mr": { "text": "आंध्र प्रदेश", "reviewed": false } },
+  "stateKey": "andhra-pradesh",
+  "traditions": ["hindu"],
+  "deity": {
+    "en": "Lord Venkateswara (Balaji, Srinivasa), a form of Vishnu, at the Tirumala hill temple. Goddess Padmavathi is worshipped at the nearby Tiruchanoor temple.",
+    "hi": { "text": "तिरुमला पर्वत के मंदिर में भगवान वेंकटेश्वर (बालाजी, श्रीनिवास), विष्णु का एक रूप। पास के तिरुचानूर मंदिर में देवी पद्मावती की पूजा होती है।", "reviewed": false },
+    "mr": { "text": "तिरुमला डोंगरावरील मंदिरात भगवान वेंकटेश्वर (बालाजी, श्रीनिवास), विष्णूचे एक रूप. जवळच्या तिरुचानूर मंदिरात देवी पद्मावतीची पूजा होते.", "reviewed": false }
+  },
+  "significance": {
+    "en": "The Tirumala Venkateswara temple is one of the most visited Hindu shrines in the world and a centre of Vaishnava devotion in South India. Many families come to offer prayers, to fulfil a vow or to take part in the hair offering. The hill temple is managed by the Tirumala Tirupati Devasthanams (TTD).",
+    "hi": { "text": "तिरुमला वेंकटेश्वर मंदिर विश्व में सबसे अधिक दर्शन किए जाने वाले हिंदू मंदिरों में से एक है और दक्षिण भारत में वैष्णव भक्ति का केंद्र है। कई परिवार प्रार्थना करने, मन्नत पूरी करने या केश अर्पण में भाग लेने आते हैं। पर्वत मंदिर का प्रबंध तिरुमला तिरुपति देवस्थानम (TTD) करता है।", "reviewed": false },
+    "mr": { "text": "तिरुमला वेंकटेश्वर मंदिर हे जगातील सर्वाधिक भेट दिल्या जाणाऱ्या हिंदू मंदिरांपैकी एक आहे आणि दक्षिण भारतातील वैष्णव भक्तीचे केंद्र आहे. अनेक कुटुंबे प्रार्थना करण्यासाठी, नवस फेडण्यासाठी किंवा केसांचे अर्पण करण्यासाठी येतात. डोंगरावरील मंदिराचे व्यवस्थापन तिरुमला तिरुपती देवस्थानम (TTD) करते.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "The seven hills of Lord Venkateswara",
+    "hi": { "text": "भगवान वेंकटेश्वर की सात पहाड़ियाँ", "reviewed": false },
+    "mr": { "text": "भगवान वेंकटेश्वराच्या सात टेकड्या", "reviewed": false }
+  },
+  "overview": {
+    "en": "Tirupati is the town at the foot of the Seshachalam hills, and Tirumala is the hill town about 20 km above it, where the Venkateswara temple stands at roughly 850 m. Pilgrims go up by the ghat road or on foot by the Alipiri or Srivari Mettu footpaths. The day is organised around queue compartments, darshan slots, free meals and the famous laddu prasadam. Rules are firm and crowds are large, so plan with time to spare.",
+    "hi": { "text": "तिरुपति सेशाचलम पहाड़ियों की तलहटी का नगर है, और तिरुमला उसके लगभग 20 किमी ऊपर का पर्वतीय नगर है, जहाँ लगभग 850 मीटर की ऊँचाई पर वेंकटेश्वर मंदिर है। यात्री घाट सड़क से या अलिपिरि अथवा श्रीवारी मेट्टू पैदल मार्ग से ऊपर जाते हैं। दिन कतार कक्षों, दर्शन समय-खंडों, निःशुल्क भोजन और प्रसिद्ध लड्डू प्रसाद के आसपास चलता है। नियम कड़े हैं और भीड़ बड़ी, इसलिए पर्याप्त समय रखकर योजना बनाएँ।", "reviewed": false },
+    "mr": { "text": "तिरुपती हे शेषाचलम टेकड्यांच्या पायथ्याशी असलेले शहर आहे आणि तिरुमला हे त्याच्या सुमारे 20 किमी वरचे डोंगरी शहर आहे, जिथे सुमारे 850 मीटर उंचीवर वेंकटेश्वर मंदिर आहे. भाविक घाट रस्त्याने किंवा अलिपिरी अथवा श्रीवारी मेट्टू पायवाटेने वर जातात. दिवस रांगेचे कक्ष, दर्शनाचे वेळ-खंड, मोफत भोजन आणि प्रसिद्ध लाडू प्रसाद यांभोवती चालतो. नियम कडक आहेत आणि गर्दी मोठी, म्हणून पुरेसा वेळ ठेवून नियोजन करा.", "reviewed": false }
+  },
+  "story": {
+    "en": "Tradition places Lord Venkateswara on Venkatadri, the seventh of the seven hills of the Seshachalam range. The temple stands on the bank of the Swami Pushkarini tank. Records of gifts to the temple go back to at least 966 CE, and the Pallava, Chola, Pandya and Vijayanagara rulers all supported it, with Krishnadevaraya a major donor. Since 1933 the temple has been run by the TTD.",
+    "hi": { "text": "परंपरा भगवान वेंकटेश्वर को सेशाचलम श्रृंखला की सात पहाड़ियों में से सातवीं, वेंकटाद्रि पर स्थित मानती है। मंदिर स्वामी पुष्करिणी सरोवर के तट पर है। मंदिर को दिए गए दान के अभिलेख कम से कम 966 ई. तक जाते हैं, और पल्लव, चोल, पांड्य तथा विजयनगर शासकों ने इसे संरक्षण दिया, जिनमें कृष्णदेवराय प्रमुख दाता थे। 1933 से मंदिर का संचालन TTD करता है।", "reviewed": false },
+    "mr": { "text": "परंपरा भगवान वेंकटेश्वराला शेषाचलम रांगेतील सात टेकड्यांपैकी सातव्या, वेंकटाद्रीवर स्थित मानते. मंदिर स्वामी पुष्करिणी तलावाच्या काठावर आहे. मंदिराला दिलेल्या देणग्यांच्या नोंदी किमान इ.स. 966 पर्यंत मागे जातात, आणि पल्लव, चोल, पांड्य आणि विजयनगर शासकांनी त्याला आश्रय दिला, ज्यात कृष्णदेवराय हे प्रमुख दाते होते. 1933 पासून मंदिराचे संचालन TTD करते.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From temple tradition and the recorded history of the Tirumala Venkateswara temple.",
+    "hi": { "text": "मंदिर की परंपरा और तिरुमला वेंकटेश्वर मंदिर के अभिलेखित इतिहास से।", "reviewed": false },
+    "mr": { "text": "मंदिराच्या परंपरेतून आणि तिरुमला वेंकटेश्वर मंदिराच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [11, 12, 1, 2, 3],
+    "seasons": [
+      {
+        "months": [12, 1, 2],
+        "rating": "best",
+        "weather": {
+          "en": "Cooler and drier, roughly 15 to 30 degrees, and cooler still on the hill. Best for the footpaths and long queues. Vaikuntha Ekadashi falls in this season and is extremely crowded.",
+          "hi": { "text": "अपेक्षाकृत ठंडा और शुष्क, लगभग 15 से 30 डिग्री, और पर्वत पर और ठंडा। पैदल मार्गों और लंबी कतारों के लिए सर्वोत्तम। वैकुंठ एकादशी इसी ऋतु में आती है और अत्यधिक भीड़ रहती है।", "reviewed": false },
+          "mr": { "text": "तुलनेने थंड आणि कोरडे, सुमारे 15 ते 30 अंश, आणि डोंगरावर आणखी थंड. पायवाटा आणि लांब रांगांसाठी उत्तम. वैकुंठ एकादशी याच ऋतूत येते आणि प्रचंड गर्दी असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [3, 7, 8, 9, 10, 11],
+        "rating": "good",
+        "weather": {
+          "en": "Warm to hot, roughly 25 to 36 degrees, with showers in the monsoon months. October to December can bring heavy north-east monsoon rain, so footpaths and the ghat road may be wet or restricted. Brahmotsavam in autumn is very crowded. Check the forecast.",
+          "hi": { "text": "गर्म से बहुत गर्म, लगभग 25 से 36 डिग्री, वर्षा ऋतु में बौछारें। अक्टूबर से दिसंबर में उत्तर-पूर्वी मानसून की तेज़ वर्षा हो सकती है, इसलिए पैदल मार्ग और घाट सड़क गीले या प्रतिबंधित हो सकते हैं। शरद ऋतु का ब्रह्मोत्सव बहुत भीड़ वाला होता है। पूर्वानुमान देखें।", "reviewed": false },
+          "mr": { "text": "उष्ण ते खूप उष्ण, सुमारे 25 ते 36 अंश, पावसाळ्यात सरी. ऑक्टोबर ते डिसेंबर या काळात ईशान्य मान्सूनचा जोरदार पाऊस येऊ शकतो, त्यामुळे पायवाटा आणि घाट रस्ता ओले किंवा प्रतिबंधित असू शकतात. शरद ऋतूतील ब्रह्मोत्सवात खूप गर्दी असते. हवामानाचा अंदाज पाहा.", "reviewed": false }
+        }
+      },
+      {
+        "months": [4, 5, 6],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot, often 38 to 43 degrees in Tirupati town, and crowded with school holidays. Walk only in the early hours, carry water and rest in the afternoon.",
+          "hi": { "text": "बहुत गर्म, तिरुपति नगर में अक्सर 38 से 43 डिग्री, और स्कूल की छुट्टियों में भीड़। केवल सुबह के शुरुआती घंटों में चलें, पानी साथ रखें और दोपहर में विश्राम करें।", "reviewed": false },
+          "mr": { "text": "खूप उष्ण, तिरुपती शहरात अनेकदा 38 ते 43 अंश, आणि शाळेच्या सुट्ट्यांमुळे गर्दी. फक्त पहाटेच्या तासांत चाला, पाणी सोबत ठेवा आणि दुपारी विश्रांती घ्या.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Tirupati Airport (TIR), at Renigunta", "hi": { "text": "तिरुपति हवाई अड्डा (TIR), रेनिगुंटा", "reviewed": false }, "mr": { "text": "तिरुपती विमानतळ (TIR), रेणिगुंटा", "reviewed": false } },
+      "km": 15,
+      "how": {
+        "en": "Flights from several major cities. Taxis and buses reach Tirupati town in about 30 minutes, and Tirumala about an hour more. The distance is to Tirupati town, not to the hill temple.",
+        "hi": { "text": "कई प्रमुख शहरों से उड़ानें। टैक्सी और बस से तिरुपति नगर लगभग 30 मिनट में और तिरुमला लगभग एक घंटा और आगे पहुँचा जाता है। दूरी तिरुपति नगर तक की है, पर्वत मंदिर तक की नहीं।", "reviewed": false },
+        "mr": { "text": "अनेक प्रमुख शहरांतून उड्डाणे. टॅक्सी आणि बसने तिरुपती शहरात सुमारे 30 मिनिटांत आणि तिरुमलाला आणखी सुमारे एक तासात पोहोचता येते. अंतर तिरुपती शहरापर्यंतचे आहे, डोंगरावरील मंदिरापर्यंतचे नाही.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Tirupati Main (TPTY), also called Tirupati", "hi": { "text": "तिरुपति मेन (TPTY), जिसे तिरुपति भी कहते हैं", "reviewed": false }, "mr": { "text": "तिरुपती मेन (TPTY), ज्याला तिरुपती असेही म्हणतात", "reviewed": false } },
+      "km": 2,
+      "how": {
+        "en": "Well connected to Chennai, Bengaluru, Hyderabad and many other cities. Renigunta Junction, about 10 km away, is a larger junction where some trains stop. Buses and taxis run from Tirupati to the foot of the hills and to Tirumala.",
+        "hi": { "text": "चेन्नई, बेंगलुरु, हैदराबाद और कई अन्य शहरों से अच्छी तरह जुड़ा है। रेनिगुंटा जंक्शन, लगभग 10 किमी दूर, बड़ा जंक्शन है जहाँ कुछ ट्रेनें रुकती हैं। तिरुपति से पहाड़ियों की तलहटी और तिरुमला तक बसें और टैक्सियाँ चलती हैं।", "reviewed": false },
+        "mr": { "text": "चेन्नई, बंगळुरू, हैदराबाद आणि इतर अनेक शहरांशी चांगले जोडलेले. रेणिगुंटा जंक्शन, सुमारे 10 किमी अंतरावर, हे मोठे जंक्शन आहे जिथे काही गाड्या थांबतात. तिरुपतीहून टेकड्यांच्या पायथ्यापर्यंत आणि तिरुमलापर्यंत बसेस आणि टॅक्सी धावतात.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Chennai is about 150 km, Bengaluru about 250 km and Vijayawada about 416 km away. State and private buses run from these cities. The ghat road up to Tirumala is about 18 km and is normally open from 3 am to midnight.",
+        "hi": { "text": "चेन्नई लगभग 150 किमी, बेंगलुरु लगभग 250 किमी और विजयवाड़ा लगभग 416 किमी दूर है। इन शहरों से राज्य और निजी बसें चलती हैं। तिरुमला तक घाट सड़क लगभग 18 किमी है और सामान्यतः रात 3 बजे से मध्यरात्रि तक खुली रहती है।", "reviewed": false },
+        "mr": { "text": "चेन्नई सुमारे 150 किमी, बंगळुरू सुमारे 250 किमी आणि विजयवाडा सुमारे 416 किमी अंतरावर आहे. या शहरांतून राज्य आणि खासगी बसेस धावतात. तिरुमलापर्यंतचा घाट रस्ता सुमारे 18 किमी आहे आणि सामान्यतः पहाटे 3 ते मध्यरात्रीपर्यंत खुला असतो.", "reviewed": false }
+      },
+      "km": 150
+    }
+  },
+  "localTransport": {
+    "en": "APSRTC buses and TTD free buses run from Tirupati to the foot of the hills, and APSRTC buses and taxis go up to Tirumala. A one-way ghat road bus ticket was listed at Rs. 90 for adults on the TTD site, but fares change, so check. Up on Tirumala, TTD runs free buses between the temple, the queue complexes and the guest houses, and most places are within walking distance.",
+    "hi": { "text": "तिरुपति से पहाड़ियों की तलहटी तक APSRTC की बसें और TTD की निःशुल्क बसें चलती हैं, और तिरुमला तक APSRTC की बसें व टैक्सियाँ जाती हैं। TTD की साइट पर घाट सड़क की एकतरफ़ा बस का टिकट वयस्कों के लिए 90 रुपये बताया गया था, पर किराया बदलता रहता है, इसलिए जाँच लें। तिरुमला पर TTD मंदिर, कतार परिसरों और अतिथि गृहों के बीच निःशुल्क बसें चलाता है और अधिकांश जगहें पैदल दूरी पर हैं।", "reviewed": false },
+    "mr": { "text": "तिरुपतीहून टेकड्यांच्या पायथ्यापर्यंत APSRTC च्या बसेस आणि TTD च्या मोफत बसेस धावतात, आणि तिरुमलापर्यंत APSRTC च्या बसेस व टॅक्सी जातात. TTD संकेतस्थळावर घाट रस्त्याच्या एकेरी बसचे तिकीट प्रौढांसाठी 90 रुपये दिले होते, पण भाडे बदलते, म्हणून तपासा. तिरुमलावर TTD मंदिर, रांगेची संकुले आणि अतिथीगृहे यांच्यादरम्यान मोफत बसेस चालवते आणि बहुतेक ठिकाणे चालत जाण्याच्या अंतरावर आहेत.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "navratri-dussehra",
+      "note": {
+        "en": "The annual Srivari Brahmotsavam is held over several days in autumn, often around Navratri, with processions of the deity. It draws very large crowds. Vaikuntha Ekadashi, in winter, is another peak day.",
+        "hi": { "text": "वार्षिक श्रीवारी ब्रह्मोत्सव शरद ऋतु में कई दिनों तक चलता है, अक्सर नवरात्रि के आसपास, जिसमें देवता की शोभायात्राएँ निकलती हैं। इसमें बहुत बड़ी भीड़ आती है। शीत ऋतु की वैकुंठ एकादशी भी एक प्रमुख भीड़ वाला दिन है।", "reviewed": false },
+        "mr": { "text": "वार्षिक श्रीवारी ब्रह्मोत्सव शरद ऋतूत अनेक दिवस चालतो, अनेकदा नवरात्रीच्या सुमारास, ज्यात देवतेच्या मिरवणुका निघतात. त्यात खूप मोठी गर्दी येते. हिवाळ्यातील वैकुंठ एकादशी हाही एक प्रमुख गर्दीचा दिवस आहे.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "makar-sankranti",
+      "note": {
+        "en": "A busy period in January, soon after Vaikuntha Ekadashi, with many pilgrims travelling during the holidays.",
+        "hi": { "text": "जनवरी में व्यस्त समय, वैकुंठ एकादशी के कुछ ही बाद, जब छुट्टियों में बहुत से यात्री यात्रा करते हैं।", "reviewed": false },
+        "mr": { "text": "जानेवारीमधील गर्दीचा काळ, वैकुंठ एकादशीनंतर लगेच, जेव्हा सुट्ट्यांत अनेक यात्रेकरू प्रवास करतात.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Srinivasa Mangapuram", "hi": { "text": "श्रीनिवास मंगापुरम", "reviewed": false }, "mr": { "text": "श्रीनिवास मंगापुरम", "reviewed": false } },
+      "km": 12,
+      "note": { "en": "A quieter Venkateswara temple, tied by tradition to the marriage of the deity.", "hi": { "text": "अपेक्षाकृत शांत वेंकटेश्वर मंदिर, परंपरा से देवता के विवाह से जुड़ा।", "reviewed": false }, "mr": { "text": "तुलनेने शांत वेंकटेश्वर मंदिर, परंपरेने देवतेच्या विवाहाशी जोडलेले.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Srikalahasti", "hi": { "text": "श्रीकालहस्ती", "reviewed": false }, "mr": { "text": "श्रीकालहस्ती", "reviewed": false } },
+      "km": 36,
+      "note": { "en": "Shiva temple on the Swarnamukhi river, a short drive east of Tirupati.", "hi": { "text": "स्वर्णमुखी नदी के तट पर शिव मंदिर, तिरुपति से पूर्व की ओर थोड़ी दूरी पर।", "reviewed": false }, "mr": { "text": "स्वर्णमुखी नदीकाठी शिव मंदिर, तिरुपतीपासून पूर्वेकडे थोड्या अंतरावर.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Kanipakam", "hi": { "text": "कणिपाकम", "reviewed": false }, "mr": { "text": "कणिपाकम", "reviewed": false } },
+      "km": 70,
+      "note": { "en": "The Varasiddhi Vinayaka temple in Chittoor district, an easy half-day trip.", "hi": { "text": "चित्तूर जिले का वरसिद्धि विनायक मंदिर, आधे दिन की सहज यात्रा।", "reviewed": false }, "mr": { "text": "चित्तूर जिल्ह्यातील वरसिद्धी विनायक मंदिर, अर्ध्या दिवसाची सोपी सहल.", "reviewed": false } }
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero.webp",
+      "caption": { "en": "The Tirumala hills and the Venkateswara temple", "hi": { "text": "तिरुमला की पहाड़ियाँ और वेंकटेश्वर मंदिर", "reviewed": false }, "mr": { "text": "तिरुमलाच्या टेकड्या आणि वेंकटेश्वर मंदिर", "reviewed": false } },
+      "credit": "AI-generated illustration for PranaDin",
+      "ai": true
+    }
+  ],
+  "sources": [
+    { "label": "Tirumala Venkateswara Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Tirumala_Venkateswara_Temple" },
+    { "label": "Tirupati, Wikipedia", "url": "https://en.wikipedia.org/wiki/Tirupati" },
+    { "label": "Tirumala Tirupati Devasthanams (TTD), official website", "url": "https://www.tirumala.org" },
+    { "label": "TTD, travelling from Tirupati to Tirumala", "url": "https://tirumala.org/TravellingfromTirupatitoTirumala.aspx" }
+  ]
+}

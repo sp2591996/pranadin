@@ -1,0 +1,172 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "vaishno-devi",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: register, climb and return", "hi": { "text": "एक दिन: पंजीकरण, चढ़ाई और वापसी", "reviewed": false }, "mr": { "text": "एक दिवस: नोंदणी, चढाई आणि परत", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive in Katra early, register for the yatra and collect your slip. Start the climb at an easy pace.", "hi": { "text": "सुबह जल्दी कटरा पहुँचें, यात्रा के लिए पंजीकरण कराएँ और अपनी पर्ची लें। सहज गति से चढ़ाई शुरू करें।", "reviewed": false }, "mr": { "text": "सकाळी लवकर कटऱ्यात पोहोचा, यात्रेसाठी नोंदणी करा आणि चिठ्ठी घ्या. सहज गतीने चढाई सुरू करा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Rest at Ardhkuwari or a shelter, eat a light meal and continue to the Bhawan. Leave phones and bags in the cloakroom and join the darshan queue.", "hi": { "text": "अर्धकुँवारी या किसी विश्राम स्थल पर रुकें, हल्का भोजन करें और भवन तक चलते रहें। फ़ोन और बैग क्लॉकरूम में रखकर दर्शन की कतार में लगें।", "reviewed": false }, "mr": { "text": "अर्धकुवारी किंवा विश्रांती स्थळी थांबा, हलके जेवण घ्या आणि भवनापर्यंत चालत रहा. फोन आणि पिशव्या क्लॉकरूममध्ये ठेवून दर्शनाच्या रांगेत उभे रहा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "After darshan, rest, then begin the descent or stay overnight at the Bhawan. Keep within the time your slip allows.", "hi": { "text": "दर्शन के बाद विश्राम करें, फिर उतरना शुरू करें या भवन पर रात रुकें। अपनी पर्ची में दिए समय के भीतर रहें।", "reviewed": false }, "mr": { "text": "दर्शनानंतर विश्रांती घ्या, मग उतरण सुरू करा किंवा भवनावर रात्री मुक्काम करा. तुमच्या चिठ्ठीत दिलेल्या वेळेत रहा.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: climb, darshan and Bhairon Ghati", "hi": { "text": "दो दिन: चढ़ाई, दर्शन और भैरों घाटी", "reviewed": false }, "mr": { "text": "दोन दिवस: चढाई, दर्शन आणि भैरों घाटी", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Register in Katra and rest after your journey.", "hi": { "text": "कटरा में पंजीकरण कराएँ और यात्रा के बाद विश्राम करें।", "reviewed": false }, "mr": { "text": "कटऱ्यात नोंदणी करा आणि प्रवासानंतर विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Begin the climb in the afternoon, pausing at Banganga and Charan Paduka.", "hi": { "text": "दोपहर में चढ़ाई शुरू करें, बाणगंगा और चरण पादुका पर रुकें।", "reviewed": false }, "mr": { "text": "दुपारी चढाई सुरू करा, बाणगंगा आणि चरण पादुकेवर थांबा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Reach the Bhawan by night, rest and join the darshan queue when it suits.", "hi": { "text": "रात तक भवन पहुँचें, विश्राम करें और सुविधा अनुसार दर्शन की कतार में लगें।", "reviewed": false }, "mr": { "text": "रात्रीपर्यंत भवनावर पोहोचा, विश्रांती घ्या आणि सोयीप्रमाणे दर्शनाच्या रांगेत उभे रहा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Morning aarti at the Bhawan, then go on to Bhairon Ghati by the ropeway or on foot.", "hi": { "text": "भवन पर प्रातः आरती, फिर रोपवे या पैदल भैरों घाटी जाएँ।", "reviewed": false }, "mr": { "text": "भवनावर सकाळची आरती, मग रोपवेने किंवा चालत भैरों घाटीला जा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Descend slowly to Katra, with stops for rest.", "hi": { "text": "विश्राम के पड़ावों के साथ धीरे-धीरे कटरा उतरें।", "reviewed": false }, "mr": { "text": "विश्रांतीसाठी थांबत सावकाश कटऱ्यात उतरा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Rest in Katra and shop for prasad or dry fruits in the bazaar.", "hi": { "text": "कटरा में विश्राम करें और बाज़ार से प्रसाद या सूखे मेवे खरीदें।", "reviewed": false }, "mr": { "text": "कटऱ्यात विश्रांती घ्या आणि बाजारातून प्रसाद किंवा सुकामेवा खरेदी करा.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: the yatra with Jammu and Shiv Khori", "hi": { "text": "तीन दिन: जम्मू और शिव खोड़ी के साथ यात्रा", "reviewed": false }, "mr": { "text": "तीन दिवस: जम्मू आणि शिव खोरीसह यात्रा", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive in Katra, register and rest.", "hi": { "text": "कटरा पहुँचें, पंजीकरण कराएँ और विश्राम करें।", "reviewed": false }, "mr": { "text": "कटऱ्यात पोहोचा, नोंदणी करा आणि विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Climb in the afternoon at an easy pace.", "hi": { "text": "दोपहर में सहज गति से चढ़ाई करें।", "reviewed": false }, "mr": { "text": "दुपारी सहज गतीने चढाई करा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Darshan at the Bhawan and an overnight rest.", "hi": { "text": "भवन पर दर्शन और रात्रि विश्राम।", "reviewed": false }, "mr": { "text": "भवनावर दर्शन आणि रात्री विश्रांती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Bhairon Ghati, then descend to Katra.", "hi": { "text": "भैरों घाटी, फिर कटरा उतरें।", "reviewed": false }, "mr": { "text": "भैरों घाटी, मग कटऱ्यात उतरा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "A long rest, a simple meal and a slow walk in Katra.", "hi": { "text": "लंबा विश्राम, सादा भोजन और कटरा में धीमी सैर।", "reviewed": false }, "mr": { "text": "दीर्घ विश्रांती, साधे जेवण आणि कटऱ्यात सावकाश फेरफटका.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Quiet evening and an early night.", "hi": { "text": "शांत शाम और जल्दी विश्राम।", "reviewed": false }, "mr": { "text": "शांत संध्याकाळ आणि लवकर विश्रांती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Drive to Shiv Khori if the road and the yatra are open.", "hi": { "text": "यदि सड़क और यात्रा खुली हो तो शिव खोड़ी जाएँ।", "reviewed": false }, "mr": { "text": "रस्ता आणि यात्रा खुली असल्यास शिव खोरीला जा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Return towards Jammu and visit Raghunath Temple.", "hi": { "text": "जम्मू की ओर लौटें और रघुनाथ मंदिर जाएँ।", "reviewed": false }, "mr": { "text": "जम्मूकडे परत या आणि रघुनाथ मंदिराला भेट द्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Bahu Fort at sunset, then onward travel.", "hi": { "text": "सूर्यास्त के समय बाहू किला, फिर आगे की यात्रा।", "reviewed": false }, "mr": { "text": "सूर्यास्ताच्या वेळी बाहू किल्ला, मग पुढील प्रवास.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "In Katra", "hi": { "text": "कटरा में", "reviewed": false }, "mr": { "text": "कटऱ्यात", "reviewed": false } },
+      "body": {
+        "en": "Katra has hotels, guesthouses and dharamshalas near the registration counters and the station. It is the best base before and after the climb. Book well ahead in Navratri, summer holidays and winter weekends.",
+        "hi": { "text": "कटरा में पंजीकरण काउंटर और स्टेशन के पास होटल, अतिथि गृह और धर्मशालाएँ हैं। चढ़ाई से पहले और बाद में यह सबसे अच्छा आधार है। नवरात्र, गर्मी की छुट्टियों और सर्दियों के सप्ताहांत में बहुत पहले बुकिंग करें।", "reviewed": false },
+        "mr": { "text": "कटऱ्यात नोंदणी काउंटर आणि स्थानकाजवळ हॉटेल्स, अतिथीगृहे आणि धर्मशाळा आहेत. चढाईपूर्वी आणि नंतर हा सर्वोत्तम तळ आहे. नवरात्री, उन्हाळी सुट्ट्या आणि हिवाळ्यातील सप्ताहांतात खूप आधी आरक्षण करा.", "reviewed": false }
+      }
+    },
+    {
+      "title": { "en": "The Shrine Board's yatri niwas", "hi": { "text": "श्राइन बोर्ड के यात्री निवास", "reviewed": false }, "mr": { "text": "श्राइन बोर्डाचे यात्री निवास", "reviewed": false } },
+      "body": {
+        "en": "The board runs pilgrim accommodation in Katra and on the route, along with rest shelters, vegetarian kitchens and blanket stores. Details and booking are on the official website, and this app does not book anything.",
+        "hi": { "text": "बोर्ड कटरा और मार्ग में यात्री आवास, विश्राम स्थल, शाकाहारी रसोइयाँ और कंबल भंडार चलाता है। विवरण और बुकिंग आधिकारिक वेबसाइट पर हैं, और यह ऐप कुछ भी बुक नहीं करता।", "reviewed": false },
+        "mr": { "text": "बोर्ड कटऱ्यात आणि मार्गावर यात्री निवास, विश्रांती स्थळे, शाकाहारी स्वयंपाकघरे आणि ब्लँकेट भांडार चालवते. तपशील आणि आरक्षण अधिकृत संकेतस्थळावर आहे, आणि हे ॲप काहीही आरक्षित करत नाही.", "reviewed": false }
+      }
+    },
+    {
+      "title": { "en": "At the Bhawan", "hi": { "text": "भवन पर", "reviewed": false }, "mr": { "text": "भवनावर", "reviewed": false } },
+      "body": {
+        "en": "Basic rooms, dormitories and shelters are available near the shrine, mostly run by the board. Rooms are limited and cold in winter, so plan to stay in Katra unless you need to be at the Bhawan overnight.",
+        "hi": { "text": "तीर्थ के पास साधारण कमरे, डॉर्मिटरी और विश्राम स्थल हैं, जो अधिकतर बोर्ड चलाता है। कमरे सीमित हैं और सर्दियों में ठंडे रहते हैं, इसलिए जब तक भवन पर रात बितानी आवश्यक न हो, कटरा में ठहरने की योजना बनाएँ।", "reviewed": false },
+        "mr": { "text": "तीर्थाजवळ साध्या खोल्या, डॉर्मिटरी आणि विश्रांती स्थळे आहेत, जी बहुतेक बोर्ड चालवते. खोल्या मर्यादित आहेत आणि हिवाळ्यात थंड असतात, म्हणून भवनावर रात्र घालवणे आवश्यक नसेल तर कटऱ्यात मुक्काम करण्याची योजना करा.", "reviewed": false }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "The board's bhojanalayas", "hi": { "text": "बोर्ड की भोजनालय", "reviewed": false }, "mr": { "text": "बोर्डाची भोजनालये", "reviewed": false } },
+      "body": {
+        "en": "Non-profit vegetarian kitchens on the route and at the Bhawan serve simple meals at modest rates.",
+        "hi": { "text": "मार्ग में और भवन पर गैर-लाभकारी शाकाहारी रसोइयाँ सादा भोजन उचित दर पर देती हैं।", "reviewed": false },
+        "mr": { "text": "मार्गावर आणि भवनावर ना-नफा तत्त्वावरील शाकाहारी स्वयंपाकघरे साधे जेवण वाजवी दरात देतात.", "reviewed": false }
+      }
+    },
+    {
+      "title": { "en": "Dogra and Katra snacks", "hi": { "text": "डोगरा और कटरा के व्यंजन", "reviewed": false }, "mr": { "text": "डोगरा आणि कटऱ्याचे पदार्थ", "reviewed": false } },
+      "body": {
+        "en": "Rajma-chawal, kulcha, chole bhature and dal-based plates are common in Katra. Try Jammu's famous kalari kulcha at a busy shop.",
+        "hi": { "text": "कटरा में राजमा-चावल, कुलचा, छोले भटूरे और दाल की थालियाँ आम हैं। किसी व्यस्त दुकान पर जम्मू का प्रसिद्ध कलारी कुलचा चखें।", "reviewed": false },
+        "mr": { "text": "कटऱ्यात राजमा-भात, कुलचा, छोले भटुरे आणि डाळीची ताटे सामान्य आहेत. एखाद्या गर्दीच्या दुकानात जम्मूचा प्रसिद्ध कलारी कुलचा चाखा.", "reviewed": false }
+      }
+    },
+    {
+      "title": { "en": "Dry fruits and prasad", "hi": { "text": "सूखे मेवे और प्रसाद", "reviewed": false }, "mr": { "text": "सुकामेवा आणि प्रसाद", "reviewed": false } },
+      "body": {
+        "en": "Almonds, walnuts and sweets are sold in the Katra bazaar. Buy from established shops, check weights and carry only what the security rules allow.",
+        "hi": { "text": "कटरा के बाज़ार में बादाम, अखरोट और मिठाइयाँ बिकती हैं। जमी हुई दुकानों से खरीदें, तौल जाँचें और केवल उतना ही ले जाएँ जितना सुरक्षा नियम अनुमति दें।", "reviewed": false },
+        "mr": { "text": "कटऱ्याच्या बाजारात बदाम, अक्रोड आणि मिठाई विकली जाते. प्रस्थापित दुकानांतून खरेदी करा, वजन तपासा आणि सुरक्षा नियम परवानगी देतात तितकेच सोबत न्या.", "reviewed": false }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "The shrine area and the climb are strictly vegetarian, and alcohol and tobacco are not allowed. The board's kitchens serve simple vegetarian food. Many Katra eateries offer food without onion and garlic on request, especially during Navratri.",
+    "hi": { "text": "तीर्थ क्षेत्र और चढ़ाई का मार्ग पूर्णतः शाकाहारी है, और शराब तथा तंबाकू की अनुमति नहीं है। बोर्ड की रसोइयाँ सादा शाकाहारी भोजन देती हैं। कटरा के कई भोजनालय, विशेषकर नवरात्र में, माँगने पर बिना प्याज़-लहसुन का भोजन देते हैं।", "reviewed": false },
+    "mr": { "text": "तीर्थ परिसर आणि चढाईचा मार्ग पूर्णपणे शाकाहारी आहे, आणि मद्य व तंबाखूला परवानगी नाही. बोर्डाची स्वयंपाकघरे साधे शाकाहारी जेवण देतात. कटऱ्यातील अनेक उपाहारगृहे, विशेषतः नवरात्रीत, मागणीनुसार कांदा-लसूण विरहित जेवण देतात.", "reviewed": false }
+  },
+  "budget": {
+    "bands": { "budget": { "min": 1000, "max": 2200 }, "mid": { "min": 2800, "max": 5500 }, "comfort": { "min": 6500, "max": 13000 } },
+    "note": {
+      "en": "Indicative figures per person per day for stay, food and local transport, assuming a twin-share room. Ponies, palanquins, battery cars, helicopter flights and the ropeway are extra and charged at the board's published rates. Prices rise sharply in Navratri and school holidays.",
+      "hi": { "text": "प्रति व्यक्ति प्रतिदिन के संकेतात्मक आँकड़े, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। घोड़े, पालकी, बैटरी कार, हेलीकॉप्टर और रोपवे अतिरिक्त हैं और बोर्ड की प्रकाशित दरों पर लगते हैं। नवरात्र और स्कूल की छुट्टियों में कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "प्रति व्यक्ती प्रतिदिन सूचक आकडे, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. घोडे, पालखी, बॅटरी कार, हेलिकॉप्टर आणि रोपवे अतिरिक्त असून बोर्डाच्या प्रकाशित दरांनी आकारले जातात. नवरात्री आणि शाळेच्या सुट्ट्यांत दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "The climb is long and steady. Wear comfortable shoes with grip, walk at an easy pace and rest at the shelters. Anyone with a heart, breathing or joint condition should speak to their own doctor before deciding to climb.",
+      "hi": { "text": "चढ़ाई लंबी और लगातार है। पकड़ वाले आरामदायक जूते पहनें, सहज गति से चलें और विश्राम स्थलों पर रुकें। हृदय, श्वास या जोड़ों की किसी समस्या वाले व्यक्ति चढ़ने का निर्णय लेने से पहले अपने चिकित्सक से बात करें।", "reviewed": false },
+      "mr": { "text": "चढाई लांब आणि सतत आहे. पकड असलेले आरामदायी जोडे घाला, सहज गतीने चाला आणि विश्रांती स्थळी थांबा. हृदय, श्वसन किंवा सांध्यांचा त्रास असलेल्या कोणीही चढण्याचा निर्णय घेण्यापूर्वी आपल्या डॉक्टरांशी बोलावे.", "reviewed": false }
+    },
+    {
+      "en": "Weather changes quickly. Carry a light rain cover, and warm layers from November to March. In monsoon, landslides and wet paths can close the route at short notice, so follow the board's advisories.",
+      "hi": { "text": "मौसम तेज़ी से बदलता है। हल्का रेन कवर और नवंबर से मार्च तक गर्म कपड़े रखें। वर्षा ऋतु में भूस्खलन और गीले रास्तों से मार्ग अचानक बंद हो सकता है, इसलिए बोर्ड की सूचनाओं का पालन करें।", "reviewed": false },
+      "mr": { "text": "हवामान झपाट्याने बदलते. हलके रेन कव्हर आणि नोव्हेंबर ते मार्च उबदार कपडे ठेवा. पावसाळ्यात भूस्खलन आणि ओल्या मार्गांमुळे मार्ग अचानक बंद होऊ शकतो, म्हणून बोर्डाच्या सूचनांचे पालन करा.", "reviewed": false }
+    },
+    {
+      "en": "Drink bottled or filtered water, eat fresh hot food and carry your own medicines in their original packs. First-aid posts are on the route, and the board runs a helpline.",
+      "hi": { "text": "बोतलबंद या फ़िल्टर किया पानी पिएँ, ताज़ा गर्म भोजन करें और अपनी दवाइयाँ मूल पैकेट में रखें। मार्ग में प्राथमिक उपचार केंद्र हैं और बोर्ड हेल्पलाइन चलाता है।", "reviewed": false },
+      "mr": { "text": "बाटलीबंद किंवा गाळलेले पाणी प्या, ताजे गरम जेवण घ्या आणि तुमची औषधे मूळ पाकिटात ठेवा. मार्गावर प्रथमोपचार केंद्रे आहेत आणि बोर्ड हेल्पलाइन चालवते.", "reviewed": false }
+    },
+    {
+      "en": "Keep children and older family members close, agree a meeting point and mind the ponies and battery cars on the route. This app gives travel information only and is not medical advice.",
+      "hi": { "text": "बच्चों और बुज़ुर्गों को पास रखें, मिलने की जगह तय करें और मार्ग में घोड़ों तथा बैटरी कारों से सावधान रहें। यह ऐप केवल यात्रा की जानकारी देता है और चिकित्सीय सलाह नहीं है।", "reviewed": false },
+      "mr": { "text": "मुले आणि वृद्धांना जवळ ठेवा, भेटण्याचे ठिकाण ठरवा आणि मार्गावरील घोडे व बॅटरी कारपासून सावध रहा. हे ॲप फक्त प्रवासाची माहिती देते आणि वैद्यकीय सल्ला नाही.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Follow the board's queue and security rules. Carry only the permitted items, and use the cloakrooms for phones, cameras, bags and leather.",
+      "hi": { "text": "बोर्ड की कतार और सुरक्षा नियमों का पालन करें। केवल अनुमत वस्तुएँ साथ रखें और फ़ोन, कैमरे, बैग और चमड़े के लिए क्लॉकरूम का उपयोग करें।", "reviewed": false },
+      "mr": { "text": "बोर्डाच्या रांग आणि सुरक्षा नियमांचे पालन करा. फक्त परवानगी असलेल्या वस्तू सोबत ठेवा आणि फोन, कॅमेरे, पिशव्या व चामड्यासाठी क्लॉकरूम वापरा.", "reviewed": false }
+    },
+    {
+      "en": "Dress modestly and remove footwear at the shrines. Do not smoke, drink alcohol or carry meat on the route.",
+      "hi": { "text": "शालीन कपड़े पहनें और तीर्थों पर जूते उतारें। मार्ग में धूम्रपान, शराब या मांस साथ रखना वर्जित है।", "reviewed": false },
+      "mr": { "text": "साधे कपडे घाला आणि तीर्थांवर जोडे काढा. मार्गावर धूम्रपान, मद्य किंवा मांस सोबत ठेवणे वर्ज्य आहे.", "reviewed": false }
+    },
+    {
+      "en": "Keep the route clean. Use the bins, avoid plastic and do not throw food or wrappers on the hillside.",
+      "hi": { "text": "मार्ग को साफ़ रखें। कूड़ेदान का उपयोग करें, प्लास्टिक से बचें और पहाड़ी पर भोजन या रैपर न फेंकें।", "reviewed": false },
+      "mr": { "text": "मार्ग स्वच्छ ठेवा. कचराकुंडीचा वापर करा, प्लास्टिक टाळा आणि डोंगरउतारावर अन्न किंवा आवरणे फेकू नका.", "reviewed": false }
+    },
+    {
+      "en": "Be considerate to ponies, porters and other pilgrims. Keep to your side of the track, give way to battery cars and stay patient in the queue.",
+      "hi": { "text": "घोड़ों, कुलियों और अन्य यात्रियों के प्रति विनम्र रहें। मार्ग में अपनी ओर चलें, बैटरी कारों को रास्ता दें और कतार में धैर्य रखें।", "reviewed": false },
+      "mr": { "text": "घोडे, हमाल आणि इतर यात्रेकरूंशी नम्रतेने वागा. मार्गावर आपल्या बाजूने चाला, बॅटरी कारना वाट द्या आणि रांगेत धीर ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Do not pay anyone for quick darshan, and decline unsolicited guides. Offerings are voluntary and best made at the official counters.",
+      "hi": { "text": "जल्दी दर्शन के लिए किसी को पैसे न दें और बिन माँगे गाइड को मना करें। भेंट स्वैच्छिक है और आधिकारिक काउंटर पर देना उचित है।", "reviewed": false },
+      "mr": { "text": "जलद दर्शनासाठी कोणालाही पैसे देऊ नका आणि न मागता आलेल्या मार्गदर्शकांना नकार द्या. अर्पण ऐच्छिक आहे आणि अधिकृत काउंटरवर करणे योग्य.", "reviewed": false }
+    }
+  ]
+}

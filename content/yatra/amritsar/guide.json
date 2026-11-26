@@ -1,0 +1,172 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "amritsar",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: Darbar Sahib, langar and Jallianwala Bagh", "hi": { "text": "एक दिन: दरबार साहिब, लंगर और जलियाँवाला बाग", "reviewed": false }, "mr": { "text": "एक दिवस: दरबार साहिब, लंगर आणि जालियनवाला बाग", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Reach the gurdwara early for Gurbani kirtan and darshan, walk the parikrama and take karah prasad.", "hi": { "text": "गुरबाणी कीर्तन और दर्शन के लिए गुरुद्वारे जल्दी पहुँचें, परिक्रमा करें और कड़ाह प्रसाद ग्रहण करें।", "reviewed": false }, "mr": { "text": "गुरबाणी कीर्तन आणि दर्शनासाठी गुरुद्वारात लवकर पोहोचा, परिक्रमा करा आणि कडाह प्रसाद घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Eat in the langar hall and offer a little seva if you wish. Then visit Akal Takht and walk to Jallianwala Bagh.", "hi": { "text": "लंगर भवन में भोजन करें और चाहें तो थोड़ी सेवा करें। फिर अकाल तख़्त जाएँ और जलियाँवाला बाग तक पैदल चलें।", "reviewed": false }, "mr": { "text": "लंगर भवनात जेवा आणि इच्छा असल्यास थोडी सेवा करा. मग अकाल तख्तला जा आणि जालियनवाला बागेपर्यंत चालत जा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return for the evening kirtan, watch the lights on the sarovar and stay for Sukhasan if you can.", "hi": { "text": "संध्या कीर्तन के लिए लौटें, सरोवर पर रोशनी देखें और हो सके तो सुखासन तक रुकें।", "reviewed": false }, "mr": { "text": "संध्याकाळच्या कीर्तनासाठी परत या, सरोवरावरील रोषणाई पहा आणि शक्य असल्यास सुखासनापर्यंत थांबा.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: the gurdwara and the city", "hi": { "text": "दो दिन: गुरुद्वारा और शहर", "reviewed": false }, "mr": { "text": "दोन दिवस: गुरुद्वारा आणि शहर", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Early darshan at Sri Harmandir Sahib and karah prasad.", "hi": { "text": "श्री हरिमंदिर साहिब में सुबह दर्शन और कड़ाह प्रसाद।", "reviewed": false }, "mr": { "text": "श्री हरमंदिर साहिबात सकाळी दर्शन आणि कडाह प्रसाद.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Langar, then Akal Takht and Jallianwala Bagh.", "hi": { "text": "लंगर, फिर अकाल तख़्त और जलियाँवाला बाग।", "reviewed": false }, "mr": { "text": "लंगर, मग अकाल तख्त आणि जालियनवाला बाग.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Kirtan at the gurdwara and a slow walk through the old bazaars.", "hi": { "text": "गुरुद्वारे में कीर्तन और पुराने बाज़ारों में धीमी सैर।", "reviewed": false }, "mr": { "text": "गुरुद्वारात कीर्तन आणि जुन्या बाजारांमधून सावकाश फेरफटका.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Drive to Sri Tarn Taran Sahib for darshan at the historic gurdwara and its sarovar.", "hi": { "text": "ऐतिहासिक गुरुद्वारे और उसके सरोवर के दर्शन के लिए श्री तरन तारन साहिब जाएँ।", "reviewed": false }, "mr": { "text": "ऐतिहासिक गुरुद्वारा आणि त्याच्या सरोवराच्या दर्शनासाठी श्री तरन तारन साहिबला जा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Return to the city, rest, and visit Durgiana Mandir.", "hi": { "text": "शहर लौटें, विश्राम करें और दुर्ग्याना मंदिर जाएँ।", "reviewed": false }, "mr": { "text": "शहरात परता, विश्रांती घ्या आणि दुर्ग्याना मंदिराला भेट द्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Last darshan at the Darbar Sahib in the evening light.", "hi": { "text": "संध्या की रोशनी में दरबार साहिब के अंतिम दर्शन।", "reviewed": false }, "mr": { "text": "संध्याकाळच्या प्रकाशात दरबार साहिबाचे शेवटचे दर्शन.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: a slower stay with Wagah", "hi": { "text": "तीन दिन: वाघा के साथ धीमा प्रवास", "reviewed": false }, "mr": { "text": "तीन दिवस: वाघासह सावकाश मुक्काम", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive, wash and rest, then early darshan if you have energy.", "hi": { "text": "पहुँचें, हाथ-पैर धोकर विश्राम करें, फिर ऊर्जा हो तो जल्दी दर्शन।", "reviewed": false }, "mr": { "text": "पोहोचा, हातपाय धुऊन विश्रांती घ्या, मग ताकद असल्यास लवकर दर्शन.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Langar and a quiet sit on the parikrama.", "hi": { "text": "लंगर और परिक्रमा पर शांत बैठना।", "reviewed": false }, "mr": { "text": "लंगर आणि परिक्रमेवर शांत बसणे.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening kirtan and Sukhasan.", "hi": { "text": "संध्या कीर्तन और सुखासन।", "reviewed": false }, "mr": { "text": "संध्याकाळचे कीर्तन आणि सुखासन.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Parkash before dawn, then Akal Takht and Jallianwala Bagh.", "hi": { "text": "भोर से पहले परकाश, फिर अकाल तख़्त और जलियाँवाला बाग।", "reviewed": false }, "mr": { "text": "पहाटेपूर्वी परकाश, मग अकाल तख्त आणि जालियनवाला बाग.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Durgiana Mandir and rest in the heat of the day.", "hi": { "text": "दुर्ग्याना मंदिर और दिन की गर्मी में विश्राम।", "reviewed": false }, "mr": { "text": "दुर्ग्याना मंदिर आणि दिवसाच्या उष्णतेत विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Travel to the Wagah-Attari border for the flag ceremony, arriving early.", "hi": { "text": "ध्वज समारोह के लिए वाघा-अटारी सीमा जाएँ, जल्दी पहुँचें।", "reviewed": false }, "mr": { "text": "ध्वज समारंभासाठी वाघा-अटारी सीमेवर जा, लवकर पोहोचा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Sri Tarn Taran Sahib.", "hi": { "text": "श्री तरन तारन साहिब।", "reviewed": false }, "mr": { "text": "श्री तरन तारन साहिब.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Return, take langar and do some seva.", "hi": { "text": "लौटें, लंगर करें और कुछ सेवा करें।", "reviewed": false }, "mr": { "text": "परत या, लंगर घ्या आणि थोडी सेवा करा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A final visit to the Darbar Sahib before departure.", "hi": { "text": "प्रस्थान से पहले दरबार साहिब की अंतिम यात्रा।", "reviewed": false }, "mr": { "text": "प्रस्थानापूर्वी दरबार साहिबाला शेवटची भेट.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "The gurdwara sarai", "hi": { "text": "गुरुद्वारे की सराय", "reviewed": false }, "mr": { "text": "गुरुद्वाराची सराई", "reviewed": false } },
+      "body": {
+        "en": "The SGPC and gurdwara trusts run sarais for pilgrims, with simple rooms or dormitory beds for a small donation. Rooms are limited and are managed through the official channels. Check the sgpc.net sarai page for current details and rules.",
+        "hi": { "text": "एसजीपीसी और गुरुद्वारा न्यास तीर्थयात्रियों के लिए सराय चलाते हैं, जहाँ थोड़े से दान पर सादे कमरे या डॉर्मिटरी के बिस्तर मिलते हैं। कमरे सीमित हैं और आधिकारिक माध्यमों से संचालित होते हैं। वर्तमान जानकारी और नियमों के लिए sgpc.net का सराय पृष्ठ देखें।", "reviewed": false },
+        "mr": { "text": "एसजीपीसी आणि गुरुद्वारा न्यास यात्रेकरूंसाठी सराई चालवतात, जिथे थोड्या दानावर साध्या खोल्या किंवा डॉर्मिटरी खाटा मिळतात. खोल्या मर्यादित आहेत आणि अधिकृत मार्गांनी व्यवस्थापित केल्या जातात. सध्याची माहिती आणि नियमांसाठी sgpc.net चे सराई पृष्ठ पहा.", "reviewed": false }
+      }
+    },
+    {
+      "title": { "en": "Walking distance of the gurdwara", "hi": { "text": "गुरुद्वारे से पैदल दूरी पर", "reviewed": false }, "mr": { "text": "गुरुद्वाराच्या चालण्याच्या अंतरावर", "reviewed": false } },
+      "body": {
+        "en": "Many guesthouses and hotels sit in the lanes around the complex. They are convenient for early and late darshan but can be noisy, and vehicles stop at the edge of the zone. Book well ahead for Gurpurab, Vaisakhi and Diwali.",
+        "hi": { "text": "परिसर के आसपास की गलियों में कई अतिथि गृह और होटल हैं। ये सुबह और देर रात के दर्शन के लिए सुविधाजनक हैं, पर शोर हो सकता है और वाहन क्षेत्र के किनारे तक ही जाते हैं। गुरुपर्व, वैसाखी और दीपावली के लिए बहुत पहले बुकिंग करें।", "reviewed": false },
+        "mr": { "text": "परिसराभोवतालच्या गल्ल्यांमध्ये अनेक अतिथीगृहे आणि हॉटेल्स आहेत. पहाटेच्या आणि उशिरा रात्रीच्या दर्शनासाठी ती सोयीची आहेत पण गोंगाट असू शकतो आणि वाहने क्षेत्राच्या काठापर्यंतच जातात. गुरुपर्व, वैसाखी आणि दिवाळीसाठी खूप आधी आरक्षण करा.", "reviewed": false }
+      }
+    },
+    {
+      "title": { "en": "Near the station or the Mall Road area", "hi": { "text": "स्टेशन या माल रोड क्षेत्र के पास", "reviewed": false }, "mr": { "text": "स्थानक किंवा माल रोड परिसराजवळ", "reviewed": false } },
+      "body": {
+        "en": "More space, parking and quieter rooms, a short auto ride from the gurdwara. A good choice for families with luggage or older travellers.",
+        "hi": { "text": "अधिक जगह, पार्किंग और शांत कमरे, गुरुद्वारे से ऑटो की छोटी सवारी। सामान वाले परिवारों या वृद्ध यात्रियों के लिए अच्छा विकल्प।", "reviewed": false },
+        "mr": { "text": "जास्त जागा, पार्किंग आणि शांत खोल्या, गुरुद्वारापासून ऑटोने थोडे अंतर. सामानासह कुटुंबे किंवा वृद्ध यात्रेकरूंसाठी चांगला पर्याय.", "reviewed": false }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Langar at the gurdwara", "hi": { "text": "गुरुद्वारे में लंगर", "reviewed": false }, "mr": { "text": "गुरुद्वारात लंगर", "reviewed": false } },
+      "body": {
+        "en": "Simple dal, vegetables, roti and kheer, served free to all in the pangat. Eat what you take and be part of the shared meal.",
+        "hi": { "text": "सादी दाल, सब्ज़ी, रोटी और खीर, पंगत में सबको निःशुल्क परोसी जाती है। जितना लें उतना खाएँ और साझा भोजन का हिस्सा बनें।", "reviewed": false },
+        "mr": { "text": "साधी डाळ, भाजी, पोळी आणि खीर, पंगतीत सर्वांना मोफत वाढली जाते. जितके घ्याल तितके खा आणि सामायिक जेवणाचा भाग व्हा.", "reviewed": false }
+      }
+    },
+    {
+      "title": { "en": "Amritsari kulcha and lassi", "hi": { "text": "अमृतसरी कुलचा और लस्सी", "reviewed": false }, "mr": { "text": "अमृतसरी कुलचा आणि लस्सी", "reviewed": false } },
+      "body": {
+        "en": "Stuffed kulcha with chole and a glass of thick lassi are the city's well-known meal. Choose busy shops with fresh turnover.",
+        "hi": { "text": "भरवाँ कुलचा छोले के साथ और गाढ़ी लस्सी का गिलास शहर का प्रसिद्ध भोजन है। ताज़ा बनाने वाली भीड़ भरी दुकानें चुनें।", "reviewed": false },
+        "mr": { "text": "भरलेला कुलचा छोल्यांसह आणि घट्ट लस्सीचा ग्लास हे शहराचे प्रसिद्ध जेवण आहे. ताजे बनवणारी गर्दीची दुकाने निवडा.", "reviewed": false }
+      }
+    },
+    {
+      "title": { "en": "Parantha, jalebi and sweets", "hi": { "text": "परांठा, जलेबी और मिठाइयाँ", "reviewed": false }, "mr": { "text": "पराठा, जलेबी आणि मिठाई", "reviewed": false } },
+      "body": {
+        "en": "Parantha with butter for breakfast, and warm jalebi and pinni from the old-city sweet shops. Many places are vegetarian-only, and the streets around the gurdwara serve mostly vegetarian food.",
+        "hi": { "text": "नाश्ते में मक्खन वाला परांठा, और पुराने शहर की मिठाई दुकानों से गर्म जलेबी और पिन्नी। कई जगहें केवल शाकाहारी हैं और गुरुद्वारे के आसपास की गलियों में अधिकतर शाकाहारी भोजन मिलता है।", "reviewed": false },
+        "mr": { "text": "न्याहारीसाठी लोणी लावलेला पराठा, आणि जुन्या शहरातील मिठाईच्या दुकानांतून गरम जलेबी व पिन्नी. अनेक ठिकाणे केवळ शाकाहारी आहेत आणि गुरुद्वाराभोवतीच्या गल्ल्यांत बहुतेक शाकाहारी जेवण मिळते.", "reviewed": false }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Langar is entirely vegetarian. Ask the volunteers if you need a specific diet. Many eateries near the gurdwara are vegetarian-only, and some serve Jain food on request. Tobacco, alcohol and other intoxicants are not allowed inside the complex.",
+    "hi": { "text": "लंगर पूर्णतः शाकाहारी होता है। यदि आपको किसी विशेष आहार की आवश्यकता हो तो सेवादारों से पूछें। गुरुद्वारे के पास के कई भोजनालय केवल शाकाहारी हैं और कुछ माँगने पर जैन भोजन देते हैं। परिसर के भीतर तंबाकू, शराब और अन्य नशीले पदार्थ वर्जित हैं।", "reviewed": false },
+    "mr": { "text": "लंगर पूर्णपणे शाकाहारी असते. विशिष्ट आहार हवा असल्यास सेवादारांना विचारा. गुरुद्वाराजवळील अनेक उपाहारगृहे केवळ शाकाहारी आहेत आणि काही मागणीनुसार जैन जेवण देतात. परिसरात तंबाखू, मद्य आणि इतर नशा आणणारे पदार्थ वर्ज्य आहेत.", "reviewed": false }
+  },
+  "budget": {
+    "bands": { "budget": { "min": 800, "max": 1800 }, "mid": { "min": 2500, "max": 5000 }, "comfort": { "min": 6000, "max": 12000 } },
+    "note": {
+      "en": "Indicative figures per person per day for stay, food and local transport, assuming a twin-share room. Langar and sarai donations can lower costs. Prices rise sharply around Gurpurab, Vaisakhi, Diwali and winter weekends.",
+      "hi": { "text": "प्रति व्यक्ति प्रतिदिन के संकेतात्मक आँकड़े, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। लंगर और सराय के दान से खर्च कम हो सकता है। गुरुपर्व, वैसाखी, दीपावली और सर्दियों के सप्ताहांत में कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "प्रति व्यक्ती प्रतिदिन सूचक आकडे, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. लंगर आणि सराईच्या दानामुळे खर्च कमी होऊ शकतो. गुरुपर्व, वैसाखी, दिवाळी आणि हिवाळ्यातील सप्ताहांताला दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "The marble parikrama is very hot in summer and very cold in winter. Go early or late in summer, and carry warm socks and layers in winter. Wet floors can be slippery, so walk slowly.",
+      "hi": { "text": "संगमरमर की परिक्रमा गर्मियों में बहुत गर्म और सर्दियों में बहुत ठंडी होती है। गर्मियों में सुबह या देर शाम जाएँ और सर्दियों में गर्म मोज़े और कपड़े रखें। गीला फ़र्श फिसलन भरा हो सकता है, इसलिए धीरे चलें।", "reviewed": false },
+      "mr": { "text": "संगमरवरी परिक्रमा उन्हाळ्यात खूप गरम आणि हिवाळ्यात खूप थंड असते. उन्हाळ्यात लवकर किंवा उशिरा जा आणि हिवाळ्यात उबदार मोजे व कपडे ठेवा. ओले फरशी निसरडी असू शकते, म्हणून सावकाश चाला.", "reviewed": false }
+    },
+    {
+      "en": "Crowds are dense at festivals. Keep children and older family members close, agree a meeting point, and avoid the busiest hours.",
+      "hi": { "text": "त्योहारों पर भीड़ घनी रहती है। बच्चों और बुज़ुर्गों को पास रखें, मिलने की जगह तय कर लें और सबसे भीड़ वाले समय से बचें।", "reviewed": false },
+      "mr": { "text": "सणांच्या वेळी गर्दी दाट असते. मुले आणि वृद्धांना जवळ ठेवा, भेटण्याचे ठिकाण ठरवा आणि सर्वाधिक गर्दीची वेळ टाळा.", "reviewed": false }
+    },
+    {
+      "en": "Drink bottled or filtered water and eat fresh hot food. Carry your own medicines in their original packs, and keep a copy of any prescription.",
+      "hi": { "text": "बोतलबंद या फ़िल्टर किया पानी पिएँ और ताज़ा गर्म भोजन करें। अपनी दवाइयाँ मूल पैकेट में रखें और किसी भी पर्चे की प्रति साथ रखें।", "reviewed": false },
+      "mr": { "text": "बाटलीबंद किंवा गाळलेले पाणी प्या आणि ताजे गरम जेवण घ्या. तुमची औषधे मूळ पाकिटात ठेवा आणि कोणत्याही प्रिस्क्रिप्शनची प्रत सोबत ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Do not bathe in the sarovar unless you follow the marked bathing areas and the volunteers' guidance. This app gives travel information only and is not medical advice.",
+      "hi": { "text": "सरोवर में केवल चिह्नित स्नान स्थलों और सेवादारों के निर्देशों के अनुसार ही स्नान करें। यह ऐप केवल यात्रा की जानकारी देता है और चिकित्सीय सलाह नहीं है।", "reviewed": false },
+      "mr": { "text": "सरोवरात फक्त चिन्हांकित स्नान ठिकाणे आणि सेवादारांच्या सूचनांनुसारच स्नान करा. हे ॲप फक्त प्रवासाची माहिती देते आणि वैद्यकीय सल्ला नाही.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Cover your head, remove shoes and wash your feet before entering. Do not bring tobacco, alcohol or other intoxicants, and do not smoke anywhere near the complex.",
+      "hi": { "text": "प्रवेश से पहले सिर ढकें, जूते उतारें और पैर धोएँ। तंबाकू, शराब या अन्य नशीले पदार्थ न लाएँ और परिसर के पास कहीं भी धूम्रपान न करें।", "reviewed": false },
+      "mr": { "text": "प्रवेशापूर्वी डोके झाका, जोडे काढा आणि पाय धुवा. तंबाखू, मद्य किंवा इतर नशा आणणारे पदार्थ आणू नका आणि परिसराजवळ कुठेही धूम्रपान करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Bow before the Guru Granth Sahib and never turn your back to it or point your feet towards it. Sit on the floor with the sangat, and keep your voice low during kirtan.",
+      "hi": { "text": "गुरु ग्रंथ साहिब के सामने माथा टेकें और कभी उनकी ओर पीठ या पैर न करें। संगत के साथ ज़मीन पर बैठें और कीर्तन के दौरान स्वर धीमा रखें।", "reviewed": false },
+      "mr": { "text": "गुरु ग्रंथ साहिबांपुढे नतमस्तक व्हा आणि त्यांच्याकडे कधीही पाठ किंवा पाय करू नका. संगतीसोबत जमिनीवर बसा आणि कीर्तनादरम्यान आवाज हळू ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Receive karah prasad and langar with both hands, with respect. Take only what you can eat, and never waste food or leave it on the plate.",
+      "hi": { "text": "कड़ाह प्रसाद और लंगर को दोनों हाथों से, सम्मान के साथ ग्रहण करें। उतना ही लें जितना खा सकें और भोजन व्यर्थ न करें या थाली में न छोड़ें।", "reviewed": false },
+      "mr": { "text": "कडाह प्रसाद आणि लंगर दोन्ही हातांनी आदराने घ्या. जितके खाऊ शकाल तितकेच घ्या आणि अन्न वाया घालवू नका किंवा ताटात टाकू नका.", "reviewed": false }
+    },
+    {
+      "en": "Be courteous to the volunteers (sevadars) and follow their directions. Ask before photographing people, especially at prayer. Keep your offerings voluntary and use the official counters.",
+      "hi": { "text": "सेवादारों के साथ विनम्रता से पेश आएँ और उनके निर्देशों का पालन करें। लोगों की फ़ोटो लेने से पहले पूछें, विशेषकर प्रार्थना के समय। भेंट स्वैच्छिक रखें और आधिकारिक काउंटर का उपयोग करें।", "reviewed": false },
+      "mr": { "text": "सेवादारांशी नम्रतेने वागा आणि त्यांच्या सूचनांचे पालन करा. लोकांचे छायाचित्र घेण्यापूर्वी विचारा, विशेषतः प्रार्थनेच्या वेळी. अर्पण ऐच्छिक ठेवा आणि अधिकृत काउंटर वापरा.", "reviewed": false }
+    },
+    {
+      "en": "Maintain the dignity of the place. Dress modestly, keep phones silent and avoid loud talk, music or drone use.",
+      "hi": { "text": "स्थान की गरिमा बनाए रखें। शालीन कपड़े पहनें, फ़ोन शांत रखें और ऊँची आवाज़, संगीत या ड्रोन के प्रयोग से बचें।", "reviewed": false },
+      "mr": { "text": "स्थानाची प्रतिष्ठा राखा. साधे कपडे घाला, फोन शांत ठेवा आणि मोठा आवाज, संगीत किंवा ड्रोनचा वापर टाळा.", "reviewed": false }
+    }
+  ]
+}

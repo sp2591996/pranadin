@@ -1,0 +1,160 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "tirupati",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: Tirumala darshan", "hi": { "text": "एक दिन: तिरुमला दर्शन", "reviewed": false }, "mr": { "text": "एक दिवस: तिरुमला दर्शन", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Go up to Tirumala early by bus or taxi, or on the Srivari Mettu path if you are fit. Deposit phones and bags and join the queue.", "hi": { "text": "सुबह जल्दी बस या टैक्सी से तिरुमला जाएँ, या स्वस्थ हों तो श्रीवारी मेट्टू मार्ग से। फ़ोन और बैग जमा करें और कतार में लगें।", "reviewed": false }, "mr": { "text": "सकाळी लवकर बस किंवा टॅक्सीने तिरुमलाला जा, किंवा तंदुरुस्त असल्यास श्रीवारी मेट्टू वाटेने. फोन आणि पिशव्या जमा करा आणि रांगेत उभे राहा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan at the Venkateswara temple, depending on your slot. Take the free meal in the queue complex or at the dining hall.", "hi": { "text": "अपने समय-खंड के अनुसार वेंकटेश्वर मंदिर में दर्शन। कतार परिसर या भोजन कक्ष में निःशुल्क भोजन लें।", "reviewed": false }, "mr": { "text": "तुमच्या वेळ-खंडानुसार वेंकटेश्वर मंदिरात दर्शन. रांगेच्या संकुलात किंवा भोजन कक्षात मोफत जेवण घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Collect prasadam, rest, and return down before the evening if the day was long. Visit Tiruchanoor if you have the energy.", "hi": { "text": "प्रसाद लें, विश्राम करें, और दिन लंबा रहा हो तो शाम से पहले नीचे लौटें। ऊर्जा हो तो तिरुचानूर जाएँ।", "reviewed": false }, "mr": { "text": "प्रसाद घ्या, विश्रांती घ्या, आणि दिवस लांब गेला असल्यास संध्याकाळपूर्वी खाली परता. ऊर्जा असल्यास तिरुचानूरला जा.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: Tiruchanoor and Tirumala", "hi": { "text": "दो दिन: तिरुचानूर और तिरुमला", "reviewed": false }, "mr": { "text": "दोन दिवस: तिरुचानूर आणि तिरुमला", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive in Tirupati, settle in and rest.", "hi": { "text": "तिरुपति पहुँचें, बसें और विश्राम करें।", "reviewed": false }, "mr": { "text": "तिरुपतीला पोहोचा, स्थिरावा आणि विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan at the Padmavathi temple in Tiruchanoor, then the Govindaraja Swamy temple in the town.", "hi": { "text": "तिरुचानूर में पद्मावती मंदिर में दर्शन, फिर नगर में गोविंदराज स्वामी मंदिर।", "reviewed": false }, "mr": { "text": "तिरुचानूर येथे पद्मावती मंदिरात दर्शन, मग शहरातील गोविंदराज स्वामी मंदिर.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Early dinner and an early night, ready for a pre-dawn start.", "hi": { "text": "जल्दी भोजन और जल्दी विश्राम, भोर से पहले निकलने के लिए तैयार।", "reviewed": false }, "mr": { "text": "लवकर जेवण आणि लवकर विश्रांती, पहाटेपूर्वी निघण्यासाठी तयार.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Go up to Tirumala by road or on foot and join the darshan queue.", "hi": { "text": "सड़क या पैदल तिरुमला जाएँ और दर्शन की कतार में लगें।", "reviewed": false }, "mr": { "text": "रस्त्याने किंवा चालत तिरुमलाला जा आणि दर्शनाच्या रांगेत उभे राहा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan, free meal and prasadam. Allow plenty of time, as queue times vary.", "hi": { "text": "दर्शन, निःशुल्क भोजन और प्रसाद। पर्याप्त समय रखें, क्योंकि कतार का समय बदलता रहता है।", "reviewed": false }, "mr": { "text": "दर्शन, मोफत जेवण आणि प्रसाद. पुरेसा वेळ ठेवा, कारण रांगेचा वेळ बदलतो.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Walk around the Swami Pushkarini tank, then come down and rest.", "hi": { "text": "स्वामी पुष्करिणी सरोवर के आसपास घूमें, फिर नीचे आकर विश्राम करें।", "reviewed": false }, "mr": { "text": "स्वामी पुष्करिणी तलावाभोवती फिरा, मग खाली येऊन विश्रांती घ्या.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: Tirumala, Tirupati and Srikalahasti", "hi": { "text": "तीन दिन: तिरुमला, तिरुपति और श्रीकालहस्ती", "reviewed": false }, "mr": { "text": "तीन दिवस: तिरुमला, तिरुपती आणि श्रीकालहस्ती", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive and settle in. Rest if you travelled overnight.", "hi": { "text": "पहुँचें और बस जाएँ। रात भर सफ़र किया हो तो विश्राम करें।", "reviewed": false }, "mr": { "text": "पोहोचा आणि स्थिरावा. रात्रभर प्रवास केला असल्यास विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Govindaraja Swamy temple in the town and Kapila Theertham at the foot of the hills.", "hi": { "text": "नगर में गोविंदराज स्वामी मंदिर और पहाड़ियों की तलहटी में कपिल तीर्थम।", "reviewed": false }, "mr": { "text": "शहरातील गोविंदराज स्वामी मंदिर आणि टेकड्यांच्या पायथ्याशी कपिल तीर्थम.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A light dinner and an early night.", "hi": { "text": "हल्का भोजन और जल्दी विश्राम।", "reviewed": false }, "mr": { "text": "हलके जेवण आणि लवकर विश्रांती.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Go up to Tirumala early and join the darshan queue.", "hi": { "text": "सुबह जल्दी तिरुमला जाएँ और दर्शन की कतार में लगें।", "reviewed": false }, "mr": { "text": "सकाळी लवकर तिरुमलाला जा आणि दर्शनाच्या रांगेत उभे राहा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan, free meal and prasadam.", "hi": { "text": "दर्शन, निःशुल्क भोजन और प्रसाद।", "reviewed": false }, "mr": { "text": "दर्शन, मोफत जेवण आणि प्रसाद.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Come down to Tirupati and rest.", "hi": { "text": "तिरुपति नीचे आएँ और विश्राम करें।", "reviewed": false }, "mr": { "text": "तिरुपतीला खाली या आणि विश्रांती घ्या.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Padmavathi temple at Tiruchanoor, then drive to Srikalahasti, about 36 km.", "hi": { "text": "तिरुचानूर में पद्मावती मंदिर, फिर श्रीकालहस्ती के लिए जाएँ, लगभग 36 किमी।", "reviewed": false }, "mr": { "text": "तिरुचानूर येथे पद्मावती मंदिर, मग श्रीकालहस्तीला जा, सुमारे 36 किमी.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan at Srikalahasti, a simple lunch and a rest.", "hi": { "text": "श्रीकालहस्ती में दर्शन, सादा भोजन और विश्राम।", "reviewed": false }, "mr": { "text": "श्रीकालहस्ती येथे दर्शन, साधे जेवण आणि विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to Tirupati for onward travel.", "hi": { "text": "आगे की यात्रा के लिए तिरुपति लौटें।", "reviewed": false }, "mr": { "text": "पुढील प्रवासासाठी तिरुपतीला परता.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "TTD guest houses and cottages on Tirumala", "hi": { "text": "तिरुमला पर TTD के अतिथि गृह और कॉटेज", "reviewed": false }, "mr": { "text": "तिरुमलावर TTD ची अतिथीगृहे आणि कॉटेज", "reviewed": false } },
+      "body": { "en": "TTD runs a large set of rooms and dormitories on the hill, allotted through its own portal and counters. Demand is very high, so rooms fill long before festivals. Check the official portal for the current rules.", "hi": { "text": "TTD पर्वत पर कमरों और शयनागारों का बड़ा समूह चलाता है, जो उसके अपने पोर्टल और काउंटरों से आवंटित होते हैं। माँग बहुत अधिक है, इसलिए त्योहारों से बहुत पहले कमरे भर जाते हैं। वर्तमान नियमों के लिए आधिकारिक पोर्टल देखें।", "reviewed": false }, "mr": { "text": "TTD डोंगरावर खोल्या आणि शयनगृहांचा मोठा संच चालवते, जे त्याच्या स्वतःच्या पोर्टल आणि काउंटरवरून वाटप केले जातात. मागणी खूप जास्त आहे, म्हणून सणांपूर्वी खूप आधी खोल्या भरतात. सध्याच्या नियमांसाठी अधिकृत पोर्टल पाहा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "In Tirupati town", "hi": { "text": "तिरुपति नगर में", "reviewed": false }, "mr": { "text": "तिरुपती शहरात", "reviewed": false } },
+      "body": { "en": "Many private lodges and hotels near the railway station and bus stand, with easy access to buses up the hill. A practical base if you cannot get a room on Tirumala. Allow an hour or more to go up and join the queue.", "hi": { "text": "रेलवे स्टेशन और बस स्टैंड के पास कई निजी लॉज और होटल, जहाँ से पर्वत की बसों तक आसान पहुँच है। तिरुमला पर कमरा न मिले तो व्यावहारिक आधार। ऊपर जाने और कतार में लगने के लिए एक घंटा या अधिक रखें।", "reviewed": false }, "mr": { "text": "रेल्वे स्थानक आणि बस स्थानकाजवळ अनेक खासगी लॉज आणि हॉटेल, जिथून डोंगरावरील बसेसपर्यंत सोपी पोहोच आहे. तिरुमलावर खोली न मिळाल्यास व्यावहारिक तळ. वर जाण्यासाठी आणि रांगेत उभे राहण्यासाठी एक तास किंवा अधिक ठेवा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Near Alipiri and the foot of the hills", "hi": { "text": "अलिपिरि और पहाड़ी की तलहटी के पास", "reviewed": false }, "mr": { "text": "अलिपिरी आणि डोंगराच्या पायथ्याजवळ", "reviewed": false } },
+      "body": { "en": "Convenient if you plan to walk up at dawn. Quieter than the station area, with basic lodges and rest halls.", "hi": { "text": "भोर में पैदल चढ़ने की योजना हो तो सुविधाजनक। स्टेशन क्षेत्र से शांत, साधारण लॉज और विश्राम कक्षों के साथ।", "reviewed": false }, "mr": { "text": "पहाटे चालत चढण्याची योजना असल्यास सोयीचे. स्थानक परिसरापेक्षा शांत, साध्या लॉज आणि विश्रामगृहांसह.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Dharamshalas and choultries", "hi": { "text": "धर्मशालाएँ और चौल्ट्री", "reviewed": false }, "mr": { "text": "धर्मशाळा आणि चौल्ट्री", "reviewed": false } },
+      "body": { "en": "Trust and community-run rooms in Tirupati offer simple, low-cost stays. Rules on timings and visitors vary. Ask each trust directly.", "hi": { "text": "तिरुपति में न्यास और समुदाय द्वारा चलाए जाने वाले कमरे सरल, कम लागत का ठहराव देते हैं। समय और आगंतुकों के नियम अलग-अलग हैं। हर न्यास से सीधे पूछें।", "reviewed": false }, "mr": { "text": "तिरुपतीमधील न्यास आणि समाजाद्वारे चालवलेल्या खोल्या साधा, कमी खर्चाचा निवास देतात. वेळा आणि पाहुण्यांचे नियम वेगवेगळे असतात. प्रत्येक न्यासाला थेट विचारा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Annaprasadam, the free meals on Tirumala", "hi": { "text": "अन्नप्रसादम, तिरुमला पर निःशुल्क भोजन", "reviewed": false }, "mr": { "text": "अन्नप्रसादम, तिरुमलावर मोफत जेवण", "reviewed": false } },
+      "body": { "en": "TTD serves simple vegetarian meals and snacks to pilgrims free of charge at its dining halls and in the queue complexes. Timings are set by TTD.", "hi": { "text": "TTD अपने भोजन कक्षों और कतार परिसरों में यात्रियों को सादा शाकाहारी भोजन और नाश्ता निःशुल्क देता है। समय TTD तय करता है।", "reviewed": false }, "mr": { "text": "TTD आपल्या भोजन कक्षांत आणि रांगेच्या संकुलांत यात्रेकरूंना साधे शाकाहारी जेवण आणि खाऊ मोफत देते. वेळा TTD ठरवते.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "The Tirupati laddu", "hi": { "text": "तिरुपति लड्डू", "reviewed": false }, "mr": { "text": "तिरुपती लाडू", "reviewed": false } },
+      "body": { "en": "The famous laddu is the temple's prasadam, sold at the official counters on Tirumala, with a limit per ticket. Buy only from official counters.", "hi": { "text": "प्रसिद्ध लड्डू मंदिर का प्रसाद है, जो तिरुमला पर आधिकारिक काउंटरों पर बिकता है, प्रति टिकट सीमा के साथ। केवल आधिकारिक काउंटरों से लें।", "reviewed": false }, "mr": { "text": "प्रसिद्ध लाडू हा मंदिराचा प्रसाद आहे, जो तिरुमलावर अधिकृत काउंटरवर विकला जातो, प्रति तिकीट मर्यादेसह. फक्त अधिकृत काउंटरवरून घ्या.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Idli, dosa, pongal and filter coffee", "hi": { "text": "इडली, डोसा, पोंगल और फ़िल्टर कॉफ़ी", "reviewed": false }, "mr": { "text": "इडली, डोसा, पोंगल आणि फिल्टर कॉफी", "reviewed": false } },
+      "body": { "en": "Classic South Indian breakfast at the small eateries in Tirupati and on Tirumala. Pick busy places that serve food hot.", "hi": { "text": "तिरुपति और तिरुमला के छोटे भोजनालयों में पारंपरिक दक्षिण भारतीय नाश्ता। व्यस्त जगहें चुनें जो भोजन गरम परोसती हों।", "reviewed": false }, "mr": { "text": "तिरुपती आणि तिरुमलावरील लहान उपाहारगृहांत पारंपरिक दक्षिण भारतीय नाश्ता. गरम अन्न देणारी गर्दीची ठिकाणे निवडा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Andhra meals, curd rice and pulihora", "hi": { "text": "आंध्र भोजन, दही चावल और पुलिहोरा", "reviewed": false }, "mr": { "text": "आंध्र जेवण, दही भात आणि पुलिहोरा", "reviewed": false } },
+      "body": { "en": "Plain vegetarian thali meals, curd rice and tamarind rice are easy to find. Ask for less chilli if you are not used to it.", "hi": { "text": "सादी शाकाहारी थाली, दही चावल और इमली चावल आसानी से मिलते हैं। आदत न हो तो कम मिर्च माँगें।", "reviewed": false }, "mr": { "text": "साधी शाकाहारी थाळी, दही भात आणि चिंचेचा भात सहज मिळतो. सवय नसल्यास कमी तिखट मागा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Tirumala is a vegetarian zone, and TTD kitchens serve simple meals without onion and garlic. Meat, alcohol and tobacco are not allowed on the hill. Down in Tirupati, many restaurants are vegetarian, and you can ask for satvik or Jain food.",
+    "hi": { "text": "तिरुमला शाकाहारी क्षेत्र है और TTD की रसोइयाँ बिना प्याज़-लहसुन का सादा भोजन देती हैं। पर्वत पर मांस, शराब और तंबाकू की अनुमति नहीं है। नीचे तिरुपति में कई रेस्तराँ शाकाहारी हैं, और आप सात्त्विक या जैन भोजन माँग सकते हैं।", "reviewed": false },
+    "mr": { "text": "तिरुमला हे शाकाहारी क्षेत्र आहे आणि TTD ची स्वयंपाकघरे कांदा-लसणाशिवाय साधे जेवण देतात. डोंगरावर मांस, मद्य आणि तंबाखूला परवानगी नाही. खाली तिरुपतीत अनेक उपाहारगृहे शाकाहारी आहेत, आणि तुम्ही सात्त्विक किंवा जैन जेवण मागू शकता.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 800, "max": 1800 },
+      "mid": { "min": 2500, "max": 4500 },
+      "comfort": { "min": 5500, "max": 10000 }
+    },
+    "note": {
+      "en": "Indicative, per person per day for stay, food and local transport, assuming a twin-share room. Free meals and trust rooms on Tirumala can lower costs, while ticketed darshan and festival weeks cost more. Prices rise sharply around Brahmotsavam and school holidays.",
+      "hi": { "text": "संकेतात्मक, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। तिरुमला पर निःशुल्क भोजन और न्यास के कमरों से खर्च घट सकता है, जबकि टिकट वाले दर्शन और उत्सव के सप्ताहों में अधिक लगता है। ब्रह्मोत्सव और स्कूल की छुट्टियों में कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "सूचक, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. तिरुमलावरील मोफत जेवण आणि न्यासाच्या खोल्यांमुळे खर्च कमी होऊ शकतो, तर तिकिटाचे दर्शन आणि उत्सवाच्या आठवड्यांत जास्त लागतो. ब्रह्मोत्सव आणि शाळेच्या सुट्ट्यांत दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "The Alipiri path has thousands of steps and takes about 3 hours or more. Walk only if you are fit, rest often, drink water and turn back if you feel unwell. Taking the bus is a perfectly good choice.",
+      "hi": { "text": "अलिपिरि मार्ग में हज़ारों सीढ़ियाँ हैं और लगभग 3 घंटे या अधिक लगते हैं। केवल स्वस्थ होने पर चलें, बार-बार रुकें, पानी पिएँ और असहज लगे तो लौट जाएँ। बस से जाना भी पूरी तरह उचित विकल्प है।", "reviewed": false },
+      "mr": { "text": "अलिपिरी वाटेवर हजारो पायऱ्या आहेत आणि सुमारे 3 तास किंवा अधिक लागतात. तंदुरुस्त असल्यासच चाला, वारंवार थांबा, पाणी प्या आणि अस्वस्थ वाटल्यास परत फिरा. बसने जाणे हाही पूर्णपणे योग्य पर्याय आहे.", "reviewed": false }
+    },
+    {
+      "en": "Queues can last many hours, mostly standing and indoors. Eat a light meal first, carry nothing you do not need, and ask staff for help if someone in your group tires.",
+      "hi": { "text": "कतारें कई घंटों की हो सकती हैं, अधिकतर खड़े रहकर और भीतर। पहले हल्का भोजन करें, अनावश्यक सामान न रखें, और समूह में कोई थक जाए तो कर्मचारियों से मदद माँगें।", "reviewed": false },
+      "mr": { "text": "रांगा अनेक तासांच्या असू शकतात, बहुतांश उभ्याने आणि आत. आधी हलके जेवण घ्या, अनावश्यक सामान सोबत ठेवू नका, आणि गटातील कोणी थकल्यास कर्मचाऱ्यांकडे मदत मागा.", "reviewed": false }
+    },
+    {
+      "en": "Summer heat in Tirupati town is severe, and the hill can turn cool and wet. Carry water, a hat and a light layer, and watch the forecast in the rainy months.",
+      "hi": { "text": "तिरुपति नगर में गर्मी बहुत तेज़ होती है, और पर्वत पर ठंड और नमी हो सकती है। पानी, टोपी और एक हल्की परत साथ रखें, और वर्षा के महीनों में पूर्वानुमान देखें।", "reviewed": false },
+      "mr": { "text": "तिरुपती शहरात उन्हाळ्यातील उष्णता तीव्र असते, आणि डोंगरावर थंड आणि ओलसर हवा असू शकते. पाणी, टोपी आणि एक हलका थर सोबत ठेवा, आणि पावसाळ्याच्या महिन्यांत हवामानाचा अंदाज पाहा.", "reviewed": false }
+    },
+    {
+      "en": "Only bottled or filtered water, and fresh hot food. Carry your own medicines in their original packs. This guide is not medical advice. Ambulance: 108.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी और ताज़ा गरम भोजन लें। अपनी दवाइयाँ मूल पैक में साथ रखें। यह मार्गदर्शिका चिकित्सा सलाह नहीं है। एम्बुलेंस: 108।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी आणि ताजे गरम अन्न घ्या. आपली औषधे मूळ पाकिटात सोबत ठेवा. हे मार्गदर्शन वैद्यकीय सल्ला नाही. रुग्णवाहिका: 108.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Wear traditional dress for darshan, remove footwear before the temple precincts and keep your voice low in the queue.",
+      "hi": { "text": "दर्शन के लिए पारंपरिक वेश पहनें, मंदिर परिसर से पहले जूते-चप्पल उतारें और कतार में धीमी आवाज़ में बोलें।", "reviewed": false },
+      "mr": { "text": "दर्शनासाठी पारंपरिक पोशाख घाला, मंदिर परिसराच्या आधी पादत्राणे काढा आणि रांगेत हळू आवाजात बोला.", "reviewed": false }
+    },
+    {
+      "en": "Giving hair is a long-standing offering made by many pilgrims at the tonsure halls. It is a personal choice and entirely optional. Use only the official barbers and counters.",
+      "hi": { "text": "केश अर्पण करना बहुत से श्रद्धालुओं द्वारा मुंडन कक्षों में किया जाने वाला पुराना चढ़ावा है। यह व्यक्तिगत पसंद है और पूरी तरह वैकल्पिक। केवल आधिकारिक नाइयों और काउंटरों का उपयोग करें।", "reviewed": false },
+      "mr": { "text": "केस अर्पण करणे हे अनेक भाविक मुंडन कक्षांत करतात असे जुने अर्पण आहे. ही वैयक्तिक निवड आहे आणि पूर्णपणे ऐच्छिक. फक्त अधिकृत न्हावी आणि काउंटर वापरा.", "reviewed": false }
+    },
+    {
+      "en": "Phones and cameras are not allowed in the temple, and photography there is not permitted. Do not photograph the sanctum or other pilgrims without asking.",
+      "hi": { "text": "मंदिर में फ़ोन और कैमरे की अनुमति नहीं है और वहाँ फ़ोटो लेना मना है। बिना पूछे गर्भगृह या अन्य श्रद्धालुओं की तस्वीर न लें।", "reviewed": false },
+      "mr": { "text": "मंदिरात फोन आणि कॅमेऱ्यांना परवानगी नाही आणि तिथे छायाचित्रण करण्यास मनाई आहे. न विचारता गर्भगृह किंवा इतर भाविकांची छायाचित्रे घेऊ नका.", "reviewed": false }
+    },
+    {
+      "en": "Do not litter on the footpaths or on the hill. Use the bins, and keep the Swami Pushkarini and the paths clean.",
+      "hi": { "text": "पैदल मार्गों या पर्वत पर कचरा न फैलाएँ। कूड़ेदान का उपयोग करें, और स्वामी पुष्करिणी तथा मार्गों को स्वच्छ रखें।", "reviewed": false },
+      "mr": { "text": "पायवाटांवर किंवा डोंगरावर कचरा टाकू नका. कचरापेटी वापरा, आणि स्वामी पुष्करिणी आणि वाटा स्वच्छ ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Wild monkeys live on the hill and may snatch bags or food. Keep food covered and do not feed or tease them. Agents and touts may offer shortcuts or unofficial tickets. You may politely decline.",
+      "hi": { "text": "पर्वत पर जंगली बंदर रहते हैं और थैले या भोजन छीन सकते हैं। भोजन ढककर रखें और उन्हें न खिलाएँ, न छेड़ें। एजेंट और दलाल शॉर्टकट या अनधिकृत टिकट का प्रस्ताव दे सकते हैं। आप विनम्रता से मना कर सकते हैं।", "reviewed": false },
+      "mr": { "text": "डोंगरावर जंगली माकडे राहतात आणि पिशव्या किंवा अन्न हिसकावू शकतात. अन्न झाकून ठेवा आणि त्यांना खायला घालू नका किंवा छेडू नका. एजंट आणि दलाल शॉर्टकट किंवा अनधिकृत तिकीट देऊ करू शकतात. तुम्ही नम्रपणे नकार देऊ शकता.", "reviewed": false }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "tirupati",
+  "sights": [
+    {
+      "id": "venkateswara-temple",
+      "name": { "en": "Sri Venkateswara Temple, Tirumala", "hi": { "text": "श्री वेंकटेश्वर मंदिर, तिरुमला", "reviewed": false }, "mr": { "text": "श्री वेंकटेश्वर मंदिर, तिरुमला", "reviewed": false } },
+      "desc": {
+        "en": "The main hill temple beside the Swami Pushkarini tank. Darshan is through queue compartments and can take anywhere from an hour or two to many hours depending on the day and the ticket type. Plan a full day.",
+        "hi": { "text": "स्वामी पुष्करिणी सरोवर के पास का मुख्य पर्वत मंदिर। दर्शन कतार कक्षों से होकर होता है और दिन तथा टिकट के प्रकार के अनुसार एक-दो घंटे से लेकर कई घंटे लग सकते हैं। पूरा दिन रखें।", "reviewed": false },
+        "mr": { "text": "स्वामी पुष्करिणी तलावाजवळील मुख्य डोंगरावरील मंदिर. दर्शन रांगेच्या कक्षांतून होते आणि दिवस व तिकिटाच्या प्रकारानुसार एक-दोन तासांपासून अनेक तास लागू शकतात. पूर्ण दिवस ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Darshan runs through most of the day and late into the night, with a pre-dawn Suprabhatam seva and a closing Ekanta Seva after midnight. The TTD site showed darshan from 7:30 am to 7 pm and from 8 pm to about 12:30 am, with the temple closed to the general queue in between. Timings change, so check locally.",
+        "hi": { "text": "दर्शन दिन के अधिकांश समय और देर रात तक चलते हैं, भोर से पहले सुप्रभातम सेवा और मध्यरात्रि के बाद एकांत सेवा के साथ। TTD साइट पर दर्शन सुबह 7:30 से शाम 7 बजे और रात 8 बजे से लगभग 12:30 बजे तक दिखाया गया, बीच में सामान्य कतार के लिए बंद। समय बदलते हैं, इसलिए स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "दर्शन दिवसाचा बहुतांश वेळ आणि उशिरा रात्रीपर्यंत चालते, पहाटेपूर्वी सुप्रभातम सेवा आणि मध्यरात्रीनंतर एकांत सेवेसह. TTD संकेतस्थळावर दर्शन सकाळी 7:30 ते संध्याकाळी 7 आणि रात्री 8 ते सुमारे 12:30 पर्यंत दाखवले होते, मधल्या वेळी सामान्य रांगेसाठी बंद. वेळा बदलतात, म्हणून स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Traditional dress is expected: saree, half-saree or salwar with dupatta for women, and dhoti, kurta-pyjama or similar for men. Phones, bags and leather items are usually kept in lockers before the queue.",
+        "hi": { "text": "पारंपरिक वेश अपेक्षित है: महिलाओं के लिए साड़ी, हाफ़-साड़ी या दुपट्टे सहित सलवार, और पुरुषों के लिए धोती, कुर्ता-पायजामा या समान। फ़ोन, बैग और चमड़े का सामान आमतौर पर कतार से पहले लॉकर में रखे जाते हैं।", "reviewed": false },
+        "mr": { "text": "पारंपरिक पोशाख अपेक्षित आहे: महिलांसाठी साडी, अर्धी साडी किंवा ओढणीसह सलवार, आणि पुरुषांसाठी धोतर, कुर्ता-पायजमा किंवा तत्सम. फोन, पिशव्या आणि चामड्याच्या वस्तू सहसा रांगेपूर्वी लॉकरमध्ये ठेवल्या जातात.", "reviewed": false }
+      }
+    },
+    {
+      "id": "footpaths",
+      "name": { "en": "Alipiri and Srivari Mettu footpaths", "hi": { "text": "अलिपिरि और श्रीवारी मेट्टू पैदल मार्ग", "reviewed": false }, "mr": { "text": "अलिपिरी आणि श्रीवारी मेट्टू पायवाटा", "reviewed": false } },
+      "desc": {
+        "en": "Two covered walking routes up to Tirumala. The Alipiri path is about 7.8 km and takes roughly 3 hours or more. The Srivari Mettu path is shorter, about 2.1 km, and steeper, taking about 1.5 hours. Both have many steps. Walking is optional and never required for darshan.",
+        "hi": { "text": "तिरुमला तक दो ढके पैदल मार्ग। अलिपिरि मार्ग लगभग 7.8 किमी है और इसमें लगभग 3 घंटे या अधिक लगते हैं। श्रीवारी मेट्टू मार्ग छोटा, लगभग 2.1 किमी, और अधिक खड़ी चढ़ाई वाला है, जिसमें लगभग डेढ़ घंटा लगता है। दोनों में कई सीढ़ियाँ हैं। पैदल चलना वैकल्पिक है और दर्शन के लिए कभी अनिवार्य नहीं।", "reviewed": false },
+        "mr": { "text": "तिरुमलापर्यंत दोन आच्छादित पायवाटा. अलिपिरी वाट सुमारे 7.8 किमी आहे आणि त्यास सुमारे 3 तास किंवा अधिक लागतात. श्रीवारी मेट्टू वाट लहान, सुमारे 2.1 किमी, आणि अधिक चढणीची आहे, ज्यास सुमारे दीड तास लागतो. दोन्हीत अनेक पायऱ्या आहेत. चालणे ऐच्छिक आहे आणि दर्शनासाठी कधीही आवश्यक नाही.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Opening and closing hours and any closures are set by TTD and can change in rain or for repairs. Check locally before you set out.",
+        "hi": { "text": "खुलने-बंद होने के समय और कोई भी बंदी TTD तय करता है और वर्षा या मरम्मत में बदल सकती है। निकलने से पहले स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "उघडण्या-बंद होण्याच्या वेळा आणि कोणतीही बंदी TTD ठरवते आणि पावसात किंवा दुरुस्तीसाठी बदलू शकते. निघण्यापूर्वी स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light cotton clothes, sturdy shoes or sandals with grip, a water bottle and a small bag. You can leave luggage at the foot of the hill and collect it at Tirumala.",
+        "hi": { "text": "हल्के सूती कपड़े, पकड़ वाले मज़बूत जूते या सैंडल, पानी की बोतल और छोटा बैग। सामान पहाड़ी की तलहटी में जमा कर तिरुमला में ले सकते हैं।", "reviewed": false },
+        "mr": { "text": "हलके सुती कपडे, पकड असलेले मजबूत बूट किंवा सँडल, पाण्याची बाटली आणि लहान पिशवी. सामान डोंगराच्या पायथ्याशी जमा करून तिरुमलावर घेता येते.", "reviewed": false }
+      }
+    },
+    {
+      "id": "padmavathi-tiruchanoor",
+      "name": { "en": "Sri Padmavathi Ammavari Temple, Tiruchanoor", "hi": { "text": "श्री पद्मावती अम्मावारी मंदिर, तिरुचानूर", "reviewed": false }, "mr": { "text": "श्री पद्मावती अम्मावारी मंदिर, तिरुचानूर", "reviewed": false } },
+      "desc": {
+        "en": "The temple of Goddess Padmavathi, consort of Venkateswara, on the edge of Tirupati. Many pilgrims visit here as well as Tirumala, and traditionally before going up the hill.",
+        "hi": { "text": "वेंकटेश्वर की अर्धांगिनी देवी पद्मावती का मंदिर, तिरुपति के किनारे। कई श्रद्धालु तिरुमला के साथ यहाँ भी आते हैं, और परंपरा से पर्वत पर जाने से पहले।", "reviewed": false },
+        "mr": { "text": "वेंकटेश्वराची पत्नी देवी पद्मावतीचे मंदिर, तिरुपतीच्या काठावर. अनेक भाविक तिरुमलाबरोबरच येथेही येतात, आणि परंपरेने डोंगरावर जाण्यापूर्वी.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open from early morning to late evening with breaks for sevas. Check locally.",
+        "hi": { "text": "सुबह जल्दी से देर शाम तक खुला, सेवाओं के लिए अंतराल के साथ। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "पहाटेपासून उशिरा संध्याकाळपर्यंत उघडे, सेवांसाठी विश्रांतीसह. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Traditional or modest clothes. Remove footwear outside.",
+        "hi": { "text": "पारंपरिक या शालीन कपड़े। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "पारंपरिक किंवा साधे कपडे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "kapila-theertham",
+      "name": { "en": "Kapila Theertham", "hi": { "text": "कपिल तीर्थम", "reviewed": false }, "mr": { "text": "कपिल तीर्थम", "reviewed": false } },
+      "desc": {
+        "en": "A Shiva temple at the foot of the hills with a waterfall and a sacred pool. A quiet half-hour stop. The water can be strong in the rainy months, so stay behind the barriers.",
+        "hi": { "text": "पहाड़ियों की तलहटी में शिव मंदिर, जहाँ झरना और पवित्र कुंड है। आधे घंटे का शांत पड़ाव। वर्षा के महीनों में जल प्रवाह तेज़ हो सकता है, इसलिए रोकों के पीछे रहें।", "reviewed": false },
+        "mr": { "text": "टेकड्यांच्या पायथ्याशी शिव मंदिर, जिथे धबधबा आणि पवित्र कुंड आहे. अर्ध्या तासाचा शांत थांबा. पावसाळ्याच्या महिन्यांत पाण्याचा प्रवाह जोरदार असू शकतो, म्हणून अडथळ्यांमागे राहा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from early morning to evening. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह जल्दी से शाम तक खुला। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटेपासून संध्याकाळपर्यंत उघडे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside.",
+        "hi": { "text": "शालीन कपड़े। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Plan for a long day and arrive with time in hand. Weekdays outside holidays are usually calmer. Weekends, school holidays, Brahmotsavam and Vaikuntha Ekadashi are the most crowded.",
+        "hi": { "text": "लंबे दिन की योजना बनाएँ और समय हाथ में रखकर पहुँचें। छुट्टियों के बाहर कार्यदिवस आमतौर पर शांत होते हैं। सप्ताहांत, स्कूल की छुट्टियाँ, ब्रह्मोत्सव और वैकुंठ एकादशी सबसे भीड़ वाले हैं।", "reviewed": false },
+        "mr": { "text": "लांबच्या दिवसाचे नियोजन करा आणि हातात वेळ ठेवून पोहोचा. सुट्ट्यांव्यतिरिक्तचे आठवड्याचे दिवस सहसा शांत असतात. सप्ताहांत, शाळेच्या सुट्ट्या, ब्रह्मोत्सव आणि वैकुंठ एकादशी हे सर्वाधिक गर्दीचे असतात.", "reviewed": false }
+      },
+      {
+        "en": "Carry a government photo ID. TTD checks identity for darshan tickets and some accommodation, and the name must match the ticket.",
+        "hi": { "text": "सरकारी फ़ोटो पहचान पत्र साथ रखें। TTD दर्शन टिकट और कुछ आवास के लिए पहचान जाँचता है, और नाम टिकट से मेल खाना चाहिए।", "reviewed": false },
+        "mr": { "text": "सरकारी फोटो ओळखपत्र सोबत ठेवा. TTD दर्शन तिकिटे आणि काही निवासासाठी ओळख तपासते, आणि नाव तिकिटाशी जुळले पाहिजे.", "reviewed": false }
+      },
+      {
+        "en": "Follow the queue compartments and the TTD staff and volunteers. Free meals and drinking water are offered in the queue complexes. Do not pay anyone who offers a shortcut or an unofficial ticket.",
+        "hi": { "text": "कतार कक्षों और TTD कर्मचारियों व स्वयंसेवकों का निर्देश मानें। कतार परिसरों में निःशुल्क भोजन और पेयजल दिया जाता है। शॉर्टकट या अनधिकृत टिकट देने वाले किसी को पैसे न दें।", "reviewed": false },
+        "mr": { "text": "रांगेचे कक्ष आणि TTD कर्मचारी व स्वयंसेवकांच्या सूचना पाळा. रांगेच्या संकुलांत मोफत जेवण आणि पिण्याचे पाणी दिले जाते. शॉर्टकट किंवा अनधिकृत तिकीट देऊ करणाऱ्या कोणालाही पैसे देऊ नका.", "reviewed": false }
+      },
+      {
+        "en": "Mobile phones, cameras and large bags are not taken into the temple. Use the cloakroom and locker counters. Rules on what may be carried can change.",
+        "hi": { "text": "मोबाइल फ़ोन, कैमरे और बड़े बैग मंदिर में नहीं ले जाए जाते। क्लॉकरूम और लॉकर काउंटर का उपयोग करें। क्या ले जाया जा सकता है, इसके नियम बदल सकते हैं।", "reviewed": false },
+        "mr": { "text": "मोबाइल फोन, कॅमेरे आणि मोठ्या पिशव्या मंदिरात नेल्या जात नाहीत. क्लोकरूम आणि लॉकर काउंटर वापरा. काय नेता येते याचे नियम बदलू शकतात.", "reviewed": false }
+      },
+      {
+        "en": "Senior citizens, people with disabilities and families with infants have separate arrangements that TTD announces from time to time. Ask at the counters or on the official site for the current rules.",
+        "hi": { "text": "वरिष्ठ नागरिकों, दिव्यांगजनों और शिशु वाले परिवारों के लिए अलग व्यवस्था है जिसकी घोषणा TTD समय-समय पर करता है। वर्तमान नियमों के लिए काउंटरों पर या आधिकारिक साइट पर पूछें।", "reviewed": false },
+        "mr": { "text": "ज्येष्ठ नागरिक, दिव्यांग व्यक्ती आणि शिशू असलेल्या कुटुंबांसाठी वेगळी व्यवस्था आहे जी TTD वेळोवेळी जाहीर करते. सध्याच्या नियमांसाठी काउंटरवर किंवा अधिकृत संकेतस्थळावर विचारा.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: TTD runs the official portal (ttdevasthanams.ap.gov.in) where seva, darshan and accommodation options and the day's schedule are published. Slotted free darshan tickets are issued on a first-come basis. This app does not book or sell anything. Beware of look-alike sites and use only the official portal, and check the current process yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: TTD आधिकारिक पोर्टल (ttdevasthanams.ap.gov.in) चलाता है जहाँ सेवा, दर्शन और आवास के विकल्प तथा दिन का कार्यक्रम प्रकाशित होता है। निर्धारित समय वाले निःशुल्क दर्शन टिकट पहले आओ-पहले पाओ के आधार पर दिए जाते हैं। यह ऐप कुछ भी बुक या बिक्री नहीं करता। मिलती-जुलती नकली साइटों से सावधान रहें, केवल आधिकारिक पोर्टल का उपयोग करें और वर्तमान प्रक्रिया स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: TTD अधिकृत पोर्टल (ttdevasthanams.ap.gov.in) चालवते जिथे सेवा, दर्शन आणि निवासाचे पर्याय तसेच दिवसाचे वेळापत्रक प्रकाशित होते. ठराविक वेळेचे मोफत दर्शन तिकीट प्रथम येणाऱ्यास प्रथम या तत्त्वावर दिले जाते. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. मिळत्याजुळत्या बनावट संकेतस्थळांपासून सावध राहा, फक्त अधिकृत पोर्टल वापरा आणि सध्याची प्रक्रिया स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}

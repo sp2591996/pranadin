@@ -20,8 +20,8 @@ const strings = (x: unknown, out: string[] = []): string[] => {
 };
 
 describe("yatra content", () => {
-  it("has the two reference places and a valid _ui.json", () => {
-    expect(dirs.sort()).toEqual(["pandharpur", "varanasi"]);
+  it("includes the two reference places and a valid _ui.json", () => {
+    expect(dirs).toEqual(expect.arrayContaining(["pandharpur", "varanasi"]));
     expect(yatraUiSchema.safeParse(raw("_ui.json")).error?.issues ?? []).toEqual([]);
   });
 

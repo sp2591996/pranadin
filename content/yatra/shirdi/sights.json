@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "shirdi",
+  "sights": [
+    {
+      "id": "samadhi-mandir",
+      "name": { "en": "Sai Baba Samadhi Mandir", "hi": { "text": "साईं बाबा समाधि मंदिर", "reviewed": false }, "mr": { "text": "साईबाबा समाधी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The main shrine, with the samadhi and a marble statue of Sai Baba. Visitors move through a queue complex. Allow two to four hours on a busy day, and more on Thursdays or festivals.",
+        "hi": { "text": "मुख्य मंदिर, जिसमें समाधि और साईं बाबा की संगमरमर की मूर्ति है। यात्री कतार परिसर से होकर जाते हैं। व्यस्त दिन में दो से चार घंटे रखें, और गुरुवार या त्योहारों पर अधिक।", "reviewed": false },
+        "mr": { "text": "मुख्य मंदिर, ज्यात समाधी आणि साईबाबांची संगमरवरी मूर्ती आहे. भाविक रांगेच्या संकुलातून जातात. गर्दीच्या दिवशी दोन ते चार तास ठेवा, आणि गुरुवारी किंवा सणांच्या दिवशी अधिक.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open from early morning, with the Kakad aarti at about 5:15 am, to late night, with the Shej aarti at about 10 pm. Published timings differ between sources and change on festival days.",
+        "hi": { "text": "भोर से खुला, प्रातः काकड़ आरती लगभग 5:15 बजे, देर रात तक, शेज आरती लगभग रात 10 बजे। प्रकाशित समय स्रोतों में अलग हैं और त्योहारों पर बदलते हैं।", "reviewed": false },
+        "mr": { "text": "पहाटेपासून उघडे, काकड आरती सुमारे पहाटे 5:15 वाजता, ते उशिरा रात्रीपर्यंत, शेज आरती सुमारे रात्री 10 वाजता. प्रकाशित वेळा स्रोतांनुसार वेगळ्या आहेत आणि सणांच्या दिवशी बदलतात.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes covering shoulders and knees. Phones, cameras and bags are usually kept in lockers outside the queue.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन कपड़े। फ़ोन, कैमरे और बैग आमतौर पर कतार के बाहर लॉकर में रखे जाते हैं।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे साधे कपडे. फोन, कॅमेरे आणि पिशव्या सहसा रांगेच्या बाहेर लॉकरमध्ये ठेवल्या जातात.", "reviewed": false }
+      }
+    },
+    {
+      "id": "dwarkamai",
+      "name": { "en": "Dwarkamai", "hi": { "text": "द्वारकामाई", "reviewed": false }, "mr": { "text": "द्वारकामाई", "reviewed": false } },
+      "desc": {
+        "en": "The old mosque where Sai Baba lived. The sacred fire (dhuni) he kept is still tended, and ash from it is given as udi. Devotees sit quietly and look at the place and his belongings.",
+        "hi": { "text": "वह पुरानी मस्जिद जहाँ साईं बाबा रहे। उनकी जलाई धूनी आज भी जलती रखी जाती है और उसकी राख उदी के रूप में दी जाती है। श्रद्धालु शांत बैठकर स्थान और उनकी वस्तुओं को देखते हैं।", "reviewed": false },
+        "mr": { "text": "ती जुनी मशीद जिथे साईबाबा राहिले. त्यांनी पेटवलेली धुनी आजही तेवत ठेवली जाते आणि तिची राख उदी म्हणून दिली जाते. भक्त शांतपणे बसून जागा आणि त्यांच्या वस्तू पाहतात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open through most of the day with aarti times set by the trust. Check locally for the current schedule.",
+        "hi": { "text": "दिन के अधिकांश समय खुला, आरती का समय न्यास तय करता है। वर्तमान समय स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "दिवसाचा बहुतांश वेळ उघडे, आरतीच्या वेळा न्यास ठरवतो. सध्याचे वेळापत्रक स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside. Follow staff directions on where to stand and sit.",
+        "hi": { "text": "शालीन कपड़े। जूते-चप्पल बाहर उतारें। कहाँ खड़े होना या बैठना है, इस पर कर्मचारियों के निर्देश मानें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पादत्राणे बाहेर काढा. कुठे उभे राहायचे किंवा बसायचे याबाबत कर्मचाऱ्यांच्या सूचना पाळा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "chavadi",
+      "name": { "en": "Chavadi", "hi": { "text": "चावड़ी", "reviewed": false }, "mr": { "text": "चावडी", "reviewed": false } },
+      "desc": {
+        "en": "A small hall where, by tradition, Sai Baba slept on alternate nights. A procession carries his portrait and palanquin between Dwarkamai and Chavadi on those evenings.",
+        "hi": { "text": "एक छोटा सभागृह जहाँ परंपरा के अनुसार साईं बाबा एक रात छोड़कर एक रात विश्राम करते थे। उन संध्याओं में उनका चित्र और पालकी द्वारकामाई और चावड़ी के बीच शोभायात्रा में ले जाई जाती है।", "reviewed": false },
+        "mr": { "text": "एक लहान सभागृह जिथे परंपरेनुसार साईबाबा एक दिवसाआड रात्री विश्रांती घेत. त्या संध्याकाळी त्यांची प्रतिमा आणि पालखी द्वारकामाई आणि चावडी यांच्यादरम्यान मिरवणुकीने नेली जाते.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the day. The evening procession and aarti are in the late evening and night. Check locally.",
+        "hi": { "text": "आमतौर पर दिन में खुला। शाम की शोभायात्रा और आरती देर शाम और रात में होती है। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा दिवसा उघडे. संध्याकाळची मिरवणूक आणि आरती उशिरा संध्याकाळी आणि रात्री असते. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside.",
+        "hi": { "text": "शालीन कपड़े। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "gurusthan",
+      "name": { "en": "Gurusthan", "hi": { "text": "गुरुस्थान", "reviewed": false }, "mr": { "text": "गुरुस्थान", "reviewed": false } },
+      "desc": {
+        "en": "A shrine under a neem tree, said by tradition to be where the young Sai Baba was first seen in Shirdi. A quiet place close to the main temple.",
+        "hi": { "text": "नीम के वृक्ष के नीचे का मंदिर, जहाँ परंपरा के अनुसार युवा साईं बाबा पहली बार शिरडी में दिखे। मुख्य मंदिर के पास एक शांत स्थान।", "reviewed": false },
+        "mr": { "text": "कडुलिंबाच्या झाडाखालील मंदिर, जिथे परंपरेनुसार तरुण साईबाबा शिर्डीत प्रथम दिसले. मुख्य मंदिराजवळील एक शांत जागा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open through most of the day. Check locally.",
+        "hi": { "text": "दिन के अधिकांश समय खुला। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "दिवसाचा बहुतांश वेळ उघडे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside.",
+        "hi": { "text": "शालीन कपड़े। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "lendi-baug",
+      "name": { "en": "Lendi Baug", "hi": { "text": "लेंडी बाग", "reviewed": false }, "mr": { "text": "लेंडी बाग", "reviewed": false } },
+      "desc": {
+        "en": "A garden Sai Baba used to visit, with a lamp (Nandadeep) kept burning and a small shrine. A calm walk away from the queues.",
+        "hi": { "text": "एक उद्यान जहाँ साईं बाबा जाया करते थे, जिसमें एक दीप (नंदादीप) जलता रखा जाता है और एक छोटा मंदिर है। कतारों से दूर शांत सैर।", "reviewed": false },
+        "mr": { "text": "एक उद्यान जिथे साईबाबा जात असत, जिथे एक दिवा (नंदादीप) तेवत ठेवला जातो आणि एक लहान मंदिर आहे. रांगांपासून दूर शांत फेरफटका.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from morning to evening. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह से शाम तक खुला। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा सकाळपासून संध्याकाळपर्यंत उघडे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Comfortable, modest clothes and a hat in the sun.",
+        "hi": { "text": "आरामदायक, शालीन कपड़े और धूप में टोपी।", "reviewed": false },
+        "mr": { "text": "आरामदायी, साधे कपडे आणि उन्हात टोपी.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early or late. The first hours after opening and the hours after the evening aarti are usually calmer. Thursdays, Sundays, school holidays and festival days are very crowded.",
+        "hi": { "text": "जल्दी या देर से जाएँ। खुलने के बाद के पहले घंटे और शाम की आरती के बाद के घंटे आमतौर पर शांत होते हैं। गुरुवार, रविवार, स्कूल की छुट्टियाँ और त्योहार के दिन बहुत भीड़ वाले होते हैं।", "reviewed": false },
+        "mr": { "text": "लवकर किंवा उशिरा जा. उघडल्यानंतरचे पहिले तास आणि संध्याकाळच्या आरतीनंतरचे तास सहसा शांत असतात. गुरुवार, रविवार, शाळेच्या सुट्ट्या आणि सणांचे दिवस खूप गर्दीचे असतात.", "reviewed": false }
+      },
+      {
+        "en": "Carry a government photo ID and keep phones, cameras, bags and large items in the locker rooms before the queue. Rules on what may be carried in can change.",
+        "hi": { "text": "सरकारी फ़ोटो पहचान पत्र साथ रखें और कतार से पहले फ़ोन, कैमरे, बैग और बड़ा सामान लॉकर कक्ष में रखें। अंदर क्या ले जाया जा सकता है, इसके नियम बदल सकते हैं।", "reviewed": false },
+        "mr": { "text": "सरकारी फोटो ओळखपत्र सोबत ठेवा आणि रांगेपूर्वी फोन, कॅमेरे, पिशव्या आणि मोठे सामान लॉकर खोल्यांत ठेवा. आत काय नेता येते याचे नियम बदलू शकतात.", "reviewed": false }
+      },
+      {
+        "en": "Follow the marked queue and the staff. Do not pay strangers who offer to shorten the wait. Official passes, if any, are issued only by the Sansthan.",
+        "hi": { "text": "चिह्नित कतार और कर्मचारियों का निर्देश मानें। प्रतीक्षा घटाने का प्रस्ताव देने वाले अजनबियों को पैसे न दें। यदि कोई पास हैं तो वे केवल संस्थान द्वारा जारी होते हैं।", "reviewed": false },
+        "mr": { "text": "चिन्हांकित रांग आणि कर्मचाऱ्यांच्या सूचना पाळा. प्रतीक्षा कमी करण्याचे आमिष दाखवणाऱ्या अनोळखी लोकांना पैसे देऊ नका. पास असल्यास ते फक्त संस्थानाकडूनच दिले जातात.", "reviewed": false }
+      },
+      {
+        "en": "Offerings of flowers, sweets or a shawl can be bought from shops outside, but you are not required to buy any. Keep them simple, as large bags are not allowed through the queue.",
+        "hi": { "text": "फूल, मिठाई या चादर बाहर की दुकानों से ली जा सकती है, पर कुछ भी ख़रीदना ज़रूरी नहीं। इन्हें सरल रखें, क्योंकि कतार में बड़े थैले ले जाना मना है।", "reviewed": false },
+        "mr": { "text": "फुले, मिठाई किंवा चादर बाहेरच्या दुकानांतून घेता येते, पण काहीही घेणे बंधनकारक नाही. ते साधे ठेवा, कारण रांगेतून मोठ्या पिशव्या नेण्यास मनाई आहे.", "reviewed": false }
+      },
+      {
+        "en": "Older visitors and people with limited walking can ask staff about wheelchair help or separate lines, which change from time to time.",
+        "hi": { "text": "वृद्ध यात्री और कम चल सकने वाले लोग कर्मचारियों से व्हीलचेयर सहायता या अलग कतार के बारे में पूछ सकते हैं, जो समय-समय पर बदलती रहती हैं।", "reviewed": false },
+        "mr": { "text": "वृद्ध यात्रेकरू आणि कमी चालू शकणारे लोक कर्मचाऱ्यांना व्हीलचेअर मदत किंवा वेगळ्या रांगांबद्दल विचारू शकतात, ज्या वेळोवेळी बदलतात.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the Shri Saibaba Sansthan Trust runs an official website (sai.org.in) that may list darshan and aarti pass options, free and paid, and accommodation. This app does not book or sell anything. Use only the official site and check the current process yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: श्री साईबाबा संस्थान न्यास की एक आधिकारिक वेबसाइट (sai.org.in) है जिस पर दर्शन और आरती पास के विकल्प, निःशुल्क और सशुल्क, तथा ठहरने की जानकारी हो सकती है। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइट का उपयोग करें और वर्तमान प्रक्रिया स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: श्री साईबाबा संस्थान न्यासाचे अधिकृत संकेतस्थळ (sai.org.in) आहे ज्यावर दर्शन आणि आरती पासचे पर्याय, मोफत आणि सशुल्क, तसेच निवासाची माहिती असू शकते. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळ वापरा आणि सध्याची प्रक्रिया स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}

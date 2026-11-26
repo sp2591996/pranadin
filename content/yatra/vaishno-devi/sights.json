@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "vaishno-devi",
+  "sights": [
+    {
+      "id": "katra-registration",
+      "name": { "en": "Katra: yatra registration and the start", "hi": { "text": "कटरा: यात्रा पंजीकरण और आरंभ", "reviewed": false }, "mr": { "text": "कटरा: यात्रा नोंदणी आणि सुरुवात", "reviewed": false } },
+      "desc": {
+        "en": "Every pilgrim registers at the Shrine Board's yatra registration counters, which issue a yatra slip or RFID card. Registration is done in person with a photo ID, and the board also publishes an online option. Information only: always use the official counters or the official website, never an agent.",
+        "hi": { "text": "हर तीर्थयात्री श्राइन बोर्ड के यात्रा पंजीकरण काउंटर पर पंजीकरण कराता है, जहाँ यात्रा पर्ची या आरएफ़आईडी कार्ड मिलता है। पंजीकरण फ़ोटो पहचान पत्र के साथ व्यक्तिगत रूप से होता है, और बोर्ड एक ऑनलाइन विकल्प भी प्रकाशित करता है। केवल जानकारी: हमेशा आधिकारिक काउंटर या आधिकारिक वेबसाइट का उपयोग करें, किसी एजेंट का नहीं।", "reviewed": false },
+        "mr": { "text": "प्रत्येक यात्रेकरू श्राइन बोर्डाच्या यात्रा नोंदणी काउंटरवर नोंदणी करतो, जिथे यात्रा चिठ्ठी किंवा आरएफआयडी कार्ड मिळते. नोंदणी फोटो ओळखपत्रासह प्रत्यक्ष होते, आणि बोर्ड ऑनलाइन पर्यायही प्रकाशित करते. फक्त माहिती: नेहमी अधिकृत काउंटर किंवा अधिकृत संकेतस्थळ वापरा, कोणत्याही एजंटचा नाही.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Registration counters work through the day and night, with longer queues in peak seasons. The board sets rules on when to start after registration and how long the round trip may take, so check the current rule on the official site.",
+        "hi": { "text": "पंजीकरण काउंटर दिन-रात चलते हैं, व्यस्त मौसम में कतारें लंबी रहती हैं। पंजीकरण के बाद कब शुरू करना है और आना-जाना कितने समय में पूरा होना है, इसके नियम बोर्ड तय करता है, इसलिए वर्तमान नियम आधिकारिक साइट पर जाँचें।", "reviewed": false },
+        "mr": { "text": "नोंदणी काउंटर दिवसरात्र चालतात, गर्दीच्या हंगामात रांगा लांब असतात. नोंदणीनंतर कधी सुरू करायचे आणि जाऊन-येऊन किती वेळात पूर्ण करायचे याचे नियम बोर्ड ठरवते, म्हणून सध्याचा नियम अधिकृत संकेतस्थळावर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Carry a government photo ID for every member of your group, including children where required. Wear comfortable walking shoes and bring a light bag.",
+        "hi": { "text": "अपने समूह के हर सदस्य के लिए सरकारी फ़ोटो पहचान पत्र रखें, जहाँ आवश्यक हो वहाँ बच्चों के लिए भी। आरामदायक चलने के जूते पहनें और हल्का थैला रखें।", "reviewed": false },
+        "mr": { "text": "तुमच्या गटातील प्रत्येक सदस्यासाठी सरकारी फोटो ओळखपत्र ठेवा, जिथे आवश्यक असेल तिथे मुलांसाठीही. आरामदायी चालण्याचे जोडे घाला आणि हलकी पिशवी ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "banganga-charan-paduka",
+      "name": { "en": "Banganga and Charan Paduka", "hi": { "text": "बाणगंगा और चरण पादुका", "reviewed": false }, "mr": { "text": "बाणगंगा आणि चरण पादुका", "reviewed": false } },
+      "desc": {
+        "en": "The first stops on the climb. Banganga is a stream where many pilgrims pause, and Charan Paduka is a small shrine marking the footprints traditionally linked to the goddess. Good places to rest.",
+        "hi": { "text": "चढ़ाई के पहले पड़ाव। बाणगंगा एक धारा है जहाँ कई यात्री रुकते हैं, और चरण पादुका एक छोटा मंदिर है जो परंपरा से देवी के चरण चिह्नों से जुड़ा है। विश्राम के लिए अच्छे स्थान।", "reviewed": false },
+        "mr": { "text": "चढाईवरील पहिले थांबे. बाणगंगा हा ओघळ आहे जिथे अनेक यात्रेकरू थांबतात, आणि चरण पादुका हे लहान मंदिर आहे जे परंपरेने देवीच्या पदचिन्हांशी जोडलेले आहे. विश्रांतीसाठी चांगली ठिकाणे.", "reviewed": false }
+      },
+      "timings": {
+        "en": "On the route, open as you pass, with no fixed visiting hours.",
+        "hi": { "text": "मार्ग में है, गुज़रते समय खुला रहता है, कोई निश्चित समय नहीं।", "reviewed": false },
+        "mr": { "text": "मार्गावर आहे, जाताना उघडे असते, निश्चित वेळ नाही.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Comfortable clothes. Footwear is removed at the shrine itself.",
+        "hi": { "text": "आरामदायक कपड़े। मंदिर में जूते उतारे जाते हैं।", "reviewed": false },
+        "mr": { "text": "आरामदायी कपडे. मंदिरात जोडे काढले जातात.", "reviewed": false }
+      }
+    },
+    {
+      "id": "ardhkuwari",
+      "name": { "en": "Ardhkuwari (Garbh Joon)", "hi": { "text": "अर्धकुँवारी (गर्भ जून)", "reviewed": false }, "mr": { "text": "अर्धकुवारी (गर्भ जून)", "reviewed": false } },
+      "desc": {
+        "en": "A cave at about the midpoint of the climb where, in tradition, the goddess stayed for nine months. Pilgrims pass through the narrow cave, which has its own queue. Many rest here and eat at the board's kitchens.",
+        "hi": { "text": "चढ़ाई के लगभग मध्य में एक गुफा, जहाँ परंपरा के अनुसार देवी ने नौ माह निवास किया। यात्री संकरी गुफा से गुज़रते हैं, जिसकी अपनी कतार होती है। कई यात्री यहाँ विश्राम करते हैं और बोर्ड की रसोइयों में भोजन करते हैं।", "reviewed": false },
+        "mr": { "text": "चढाईच्या साधारण मध्यावर एक गुहा, जिथे परंपरेनुसार देवीने नऊ महिने निवास केला. यात्रेकरू अरुंद गुहेतून जातात, जिची स्वतःची रांग असते. अनेकजण येथे विश्रांती घेतात आणि बोर्डाच्या स्वयंपाकघरांत जेवतात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open through the day. Waiting times vary from minutes to a few hours in peak seasons. Check locally.",
+        "hi": { "text": "दिन भर खुला रहता है। व्यस्त मौसम में प्रतीक्षा का समय कुछ मिनट से कुछ घंटे तक बदलता है। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "दिवसभर उघडे असते. गर्दीच्या हंगामात प्रतीक्षा वेळ काही मिनिटांपासून काही तासांपर्यंत बदलतो. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Footwear is left outside the cave. The passage is tight, so carry only what you need.",
+        "hi": { "text": "गुफा के बाहर जूते उतारे जाते हैं। मार्ग तंग है, इसलिए केवल आवश्यक सामान रखें।", "reviewed": false },
+        "mr": { "text": "गुहेबाहेर जोडे काढले जातात. मार्ग अरुंद आहे, म्हणून फक्त आवश्यक सामान ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "bhawan-holy-cave",
+      "name": { "en": "Bhawan and the Holy Cave", "hi": { "text": "भवन और पवित्र गुफा", "reviewed": false }, "mr": { "text": "भवन आणि पवित्र गुहा", "reviewed": false } },
+      "desc": {
+        "en": "The main shrine, where devotees have darshan of the three Holy Pindis inside the cave. The queue moves in groups and darshan itself is brief. Keep time for the wait, for aarti and for rest.",
+        "hi": { "text": "मुख्य तीर्थ, जहाँ श्रद्धालु गुफा के भीतर तीन पवित्र पिंडियों के दर्शन करते हैं। कतार समूहों में चलती है और दर्शन स्वयं संक्षिप्त होता है। प्रतीक्षा, आरती और विश्राम के लिए समय रखें।", "reviewed": false },
+        "mr": { "text": "मुख्य तीर्थ, जिथे भाविक गुहेतील तीन पवित्र पिंडींचे दर्शन घेतात. रांग गटांनी पुढे जाते आणि दर्शन स्वतः संक्षिप्त असते. प्रतीक्षा, आरती आणि विश्रांतीसाठी वेळ ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The shrine stays open nearly all day and night, with short closures for the morning and evening aarti. Check the Shrine Board's site for current timings and any changes.",
+        "hi": { "text": "तीर्थ लगभग दिन-रात खुला रहता है, प्रातः और संध्या आरती के लिए थोड़े समय बंद रहता है। वर्तमान समय और किसी भी बदलाव के लिए श्राइन बोर्ड की साइट देखें।", "reviewed": false },
+        "mr": { "text": "तीर्थ जवळजवळ दिवसरात्र उघडे असते, सकाळच्या आणि संध्याकाळच्या आरतीसाठी थोडा वेळ बंद असते. सध्याच्या वेळा आणि कोणत्याही बदलांसाठी श्राइन बोर्डाचे संकेतस्थळ पहा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Phones, cameras, bags, belts and leather items are usually not allowed inside, so use the cloakrooms near the entrance. Footwear is left outside.",
+        "hi": { "text": "शालीन कपड़े। फ़ोन, कैमरे, बैग, बेल्ट और चमड़े का सामान आमतौर पर भीतर नहीं ले जाने दिया जाता, इसलिए प्रवेश के पास के क्लॉकरूम का उपयोग करें। जूते बाहर उतारे जाते हैं।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. फोन, कॅमेरे, पिशव्या, पट्टे आणि चामड्याच्या वस्तू सहसा आत नेऊ देत नाहीत, म्हणून प्रवेशाजवळील क्लॉकरूम वापरा. जोडे बाहेर काढले जातात.", "reviewed": false }
+      }
+    },
+    {
+      "id": "bhairon-ghati",
+      "name": { "en": "Bhairon Ghati", "hi": { "text": "भैरों घाटी", "reviewed": false }, "mr": { "text": "भैरों घाटी", "reviewed": false } },
+      "desc": {
+        "en": "The temple of Bhairon Nath on the ridge above the Bhawan, traditionally visited after the main darshan. It is about 2.5 km further up. A ropeway links it with the Bhawan, and the climb can be steep.",
+        "hi": { "text": "भवन के ऊपर पर्वत शिखर पर भैरों नाथ का मंदिर, जहाँ परंपरा से मुख्य दर्शन के बाद जाया जाता है। यह लगभग 2.5 किमी और ऊपर है। भवन से रोपवे जुड़ा है और चढ़ाई खड़ी हो सकती है।", "reviewed": false },
+        "mr": { "text": "भवनाच्या वरील डोंगरमाथ्यावर भैरोनाथाचे मंदिर, जिथे परंपरेने मुख्य दर्शनानंतर जातात. ते सुमारे 2.5 किमी आणखी वर आहे. भवनाशी रोपवे जोडलेला आहे आणि चढाई तीव्र असू शकते.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open through the day. The ropeway runs on fixed hours and may pause in bad weather. Check locally.",
+        "hi": { "text": "दिन भर खुला रहता है। रोपवे निश्चित समय पर चलता है और खराब मौसम में रुक सकता है। स्थानीय स्तर पर जाँच लें।", "reviewed": false },
+        "mr": { "text": "दिवसभर उघडे असते. रोपवे निश्चित वेळेत चालतो आणि खराब हवामानात थांबू शकतो. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Warm layers in the cooler months, as it is windy and colder at the ridge. Footwear is removed at the temple.",
+        "hi": { "text": "ठंडे महीनों में गर्म कपड़े रखें, क्योंकि शिखर पर हवा और ठंड अधिक होती है। मंदिर में जूते उतारे जाते हैं।", "reviewed": false },
+        "mr": { "text": "थंड महिन्यांत उबदार कपडे ठेवा, कारण माथ्यावर वारा आणि थंडी अधिक असते. मंदिरात जोडे काढले जातात.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Register first, then start within the time allowed by your yatra slip. Keep the slip or RFID card safe, as it is checked at several points on the route.",
+        "hi": { "text": "पहले पंजीकरण कराएँ, फिर अपनी यात्रा पर्ची में दिए समय के भीतर शुरू करें। पर्ची या आरएफ़आईडी कार्ड सँभालकर रखें, क्योंकि मार्ग में कई स्थानों पर इसकी जाँच होती है।", "reviewed": false },
+        "mr": { "text": "आधी नोंदणी करा, मग तुमच्या यात्रा चिठ्ठीत दिलेल्या वेळेत सुरू करा. चिठ्ठी किंवा आरएफआयडी कार्ड सांभाळून ठेवा, कारण मार्गावर अनेक ठिकाणी त्याची तपासणी होते.", "reviewed": false }
+      },
+      {
+        "en": "Start early in the day or in the evening and walk at an easy pace. The climb is about 12 to 14 km, and many people take five to eight hours going up, plus time for the queue and the descent. Rest at the board's shelters.",
+        "hi": { "text": "दिन में जल्दी या शाम को शुरू करें और सहज गति से चलें। चढ़ाई लगभग 12 से 14 किमी की है और कई लोगों को ऊपर पहुँचने में पाँच से आठ घंटे लगते हैं, इसके अलावा कतार और उतरने का समय। बोर्ड के विश्राम स्थलों पर रुकें।", "reviewed": false },
+        "mr": { "text": "दिवसा लवकर किंवा संध्याकाळी सुरू करा आणि सहज गतीने चाला. चढाई सुमारे 12 ते 14 किमीची आहे आणि अनेकांना वर पोहोचायला पाच ते आठ तास लागतात, शिवाय रांग आणि उतरण्याचा वेळ. बोर्डाच्या विश्रांती स्थळांवर थांबा.", "reviewed": false }
+      },
+      {
+        "en": "Do not trust touts who offer quick darshan, special passes or hotel deals on the road. Use official counters, and pay for ponies, palanquins and porters only at the board's fixed rates.",
+        "hi": { "text": "सड़क पर जल्दी दर्शन, विशेष पास या होटल सौदों का प्रस्ताव देने वाले दलालों पर भरोसा न करें। आधिकारिक काउंटरों का उपयोग करें और घोड़े, पालकी तथा कुली के लिए केवल बोर्ड की निश्चित दरों पर भुगतान करें।", "reviewed": false },
+        "mr": { "text": "रस्त्यावर जलद दर्शन, विशेष पास किंवा हॉटेल सौद्यांचे आमिष दाखवणाऱ्या दलालांवर विश्वास ठेवू नका. अधिकृत काउंटर वापरा आणि घोडे, पालखी व हमालांसाठी फक्त बोर्डाच्या निश्चित दरांनी पैसे द्या.", "reviewed": false }
+      },
+      {
+        "en": "Leave phones, cameras, bags and leather in the cloakroom before the cave queue, and carry only your slip and ID. Check the board's list of items not allowed inside.",
+        "hi": { "text": "गुफा की कतार से पहले फ़ोन, कैमरे, बैग और चमड़े का सामान क्लॉकरूम में रखें, और केवल पर्ची और पहचान पत्र साथ रखें। भीतर वर्जित वस्तुओं की बोर्ड की सूची देख लें।", "reviewed": false },
+        "mr": { "text": "गुहेच्या रांगेपूर्वी फोन, कॅमेरे, पिशव्या आणि चामड्याच्या वस्तू क्लॉकरूममध्ये ठेवा आणि फक्त चिठ्ठी व ओळखपत्र सोबत ठेवा. आत निषिद्ध वस्तूंची बोर्डाची यादी तपासा.", "reviewed": false }
+      },
+      {
+        "en": "Older visitors, children and those who cannot walk far can ask the board about the battery car, pony, palanquin and helicopter options and their current rules and fares.",
+        "hi": { "text": "वृद्ध यात्री, बच्चे और जो अधिक दूर नहीं चल सकते, वे बोर्ड से बैटरी कार, घोड़े, पालकी और हेलीकॉप्टर के विकल्पों तथा उनके वर्तमान नियमों और किराए के बारे में पूछ सकते हैं।", "reviewed": false },
+        "mr": { "text": "वृद्ध यात्रेकरू, मुले आणि जे जास्त दूर चालू शकत नाहीत ते बोर्डाकडे बॅटरी कार, घोडा, पालखी आणि हेलिकॉप्टर पर्याय तसेच त्यांचे सध्याचे नियम व भाडे याबद्दल विचारू शकतात.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the Shri Mata Vaishno Devi Shrine Board publishes registration steps, helicopter and accommodation information and yatra advisories on its official website, maavaishnodevi.org. This app does not register, book or sell anything. Use only the official site and check the current process yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: श्री माता वैष्णो देवी श्राइन बोर्ड अपनी आधिकारिक वेबसाइट maavaishnodevi.org पर पंजीकरण की प्रक्रिया, हेलीकॉप्टर और आवास की जानकारी तथा यात्रा सूचनाएँ प्रकाशित करता है। यह ऐप कोई पंजीकरण, बुकिंग या बिक्री नहीं करता। केवल आधिकारिक साइट का उपयोग करें और वर्तमान प्रक्रिया स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: श्री माता वैष्णो देवी श्राइन बोर्ड आपल्या अधिकृत संकेतस्थळ maavaishnodevi.org वर नोंदणीची प्रक्रिया, हेलिकॉप्टर आणि निवासाची माहिती तसेच यात्रा सूचना प्रकाशित करते. हे ॲप कोणतीही नोंदणी, आरक्षण किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळ वापरा आणि सध्याची प्रक्रिया स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}

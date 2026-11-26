@@ -1,0 +1,173 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-21.1",
+  "status": "draft",
+  "id": "amritsar",
+  "name": { "en": "Amritsar (Sri Harmandir Sahib)", "hi": { "text": "अमृतसर (श्री हरिमंदिर साहिब)", "reviewed": false }, "mr": { "text": "अमृतसर (श्री हरिमंदिर साहिब)", "reviewed": false } },
+  "state": { "en": "Punjab", "hi": { "text": "पंजाब", "reviewed": false }, "mr": { "text": "पंजाब", "reviewed": false } },
+  "stateKey": "punjab",
+  "traditions": ["sikh"],
+  "deity": {
+    "en": "Sikhs do not worship idols or deities. Sri Harmandir Sahib, also called Sri Darbar Sahib and known to many as the Golden Temple, is the central gurdwara of the Sikh faith. The Guru Granth Sahib, the eternal Guru, is installed here, and worship is the singing of Gurbani and remembrance of the One God, Waheguru.",
+    "hi": { "text": "सिख मूर्तिपूजा या देवताओं की पूजा नहीं करते। श्री हरिमंदिर साहिब, जिसे श्री दरबार साहिब भी कहते हैं और जिसे बहुत से लोग स्वर्ण मंदिर के नाम से जानते हैं, सिख धर्म का केंद्रीय गुरुद्वारा है। यहाँ शाश्वत गुरु, गुरु ग्रंथ साहिब का प्रकाश है, और उपासना का अर्थ है गुरबाणी का गायन तथा एक ओंकार वाहेगुरु का स्मरण।", "reviewed": false },
+    "mr": { "text": "शीख मूर्तिपूजा किंवा देवतांची पूजा करत नाहीत. श्री हरमंदिर साहिब, ज्याला श्री दरबार साहिब असेही म्हणतात आणि अनेकजण सुवर्ण मंदिर म्हणून ओळखतात, हे शीख धर्माचे मध्यवर्ती गुरुद्वारा आहे. येथे शाश्वत गुरू, गुरु ग्रंथ साहिब यांचे प्रकाश आहे, आणि उपासना म्हणजे गुरबाणीचे गायन व एकमेव परमेश्वर वाहेगुरूंचे स्मरण.", "reviewed": false }
+  },
+  "significance": {
+    "en": "Sri Harmandir Sahib is the holiest gurdwara for Sikhs. Its four doors, open to every direction, express that people of every background are welcome. Sikhs come to bow before the Guru Granth Sahib, listen to kirtan, serve in the langar and sit in the sangat. Visitors of all faiths are welcome.",
+    "hi": { "text": "श्री हरिमंदिर साहिब सिखों का सबसे पवित्र गुरुद्वारा है। इसके चारों द्वार चारों दिशाओं में खुलते हैं और यह दर्शाते हैं कि हर पृष्ठभूमि के लोगों का स्वागत है। सिख यहाँ गुरु ग्रंथ साहिब के सामने माथा टेकने, कीर्तन सुनने, लंगर में सेवा करने और संगत में बैठने आते हैं। सभी धर्मों के आगंतुकों का स्वागत है।", "reviewed": false },
+    "mr": { "text": "श्री हरमंदिर साहिब हे शीखांचे सर्वात पवित्र गुरुद्वारा आहे. त्याचे चारही दरवाजे चारही दिशांना उघडतात आणि प्रत्येक पार्श्वभूमीच्या लोकांचे स्वागत आहे हे दर्शवतात. शीख येथे गुरु ग्रंथ साहिबांपुढे नतमस्तक होण्यासाठी, कीर्तन ऐकण्यासाठी, लंगरमध्ये सेवा करण्यासाठी आणि संगतीत बसण्यासाठी येतात. सर्व धर्मांच्या अभ्यागतांचे स्वागत आहे.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "The sacred pool and the house of Waheguru",
+    "hi": { "text": "अमृत सरोवर और वाहेगुरु का दरबार", "reviewed": false },
+    "mr": { "text": "अमृत सरोवर आणि वाहेगुरूंचा दरबार", "reviewed": false }
+  },
+  "overview": {
+    "en": "The gurdwara stands in the middle of the Amrit Sarovar, a square pool, and is reached by a causeway from the Darshani Deori gateway. A marble walkway runs around the water. Kirtan is sung through the day, and the langar hall serves free meals to all. The old city around it has narrow bazaars, and Jallianwala Bagh is a short walk away. Keep your head covered and go slowly.",
+    "hi": { "text": "गुरुद्वारा अमृत सरोवर के बीच में स्थित है, जो एक वर्गाकार सरोवर है, और दर्शनी ड्योढ़ी द्वार से एक पुल के रास्ते पहुँचा जाता है। पानी के चारों ओर संगमरमर की परिक्रमा है। दिन भर कीर्तन गाया जाता है और लंगर भवन में सभी को निःशुल्क भोजन मिलता है। आसपास का पुराना शहर संकरे बाज़ारों से भरा है और जलियाँवाला बाग थोड़ी दूरी पर है। सिर ढककर रखें और धीरे-धीरे चलें।", "reviewed": false },
+    "mr": { "text": "गुरुद्वारा अमृत सरोवराच्या मध्यभागी आहे, जे चौकोनी सरोवर आहे, आणि दर्शनी ड्योढी प्रवेशद्वारातून पुलासारख्या मार्गाने तेथे पोहोचता येते. पाण्याभोवती संगमरवरी परिक्रमा मार्ग आहे. दिवसभर कीर्तन गायले जाते आणि लंगर भवनात सर्वांना मोफत जेवण मिळते. आजूबाजूचे जुने शहर अरुंद बाजारांनी भरलेले आहे आणि जालियनवाला बाग थोड्या अंतरावर आहे. डोके झाकून ठेवा आणि सावकाश चाला.", "reviewed": false }
+  },
+  "story": {
+    "en": "Guru Ram Das Ji, the fourth Guru, began digging the sacred pool in 1577 and founded the town around it. His successor, Guru Arjan Dev Ji, built the gurdwara at the centre and, according to the recorded history, installed the Adi Granth here in 1604 with Baba Buddha Ji as the first granthi. The shrine was damaged several times over the centuries and each time rebuilt by the Sikh community. In the early 1800s Maharaja Ranjit Singh had it rebuilt in marble and covered with gold leaf, which gave it the name many now use.",
+    "hi": { "text": "चौथे गुरु, गुरु रामदास जी ने 1577 में सरोवर की खुदाई शुरू की और उसके आसपास नगर बसाया। उनके उत्तराधिकारी गुरु अर्जन देव जी ने बीच में गुरुद्वारे का निर्माण कराया और अभिलेखित इतिहास के अनुसार 1604 में यहाँ आदि ग्रंथ का प्रकाश किया, जिसमें बाबा बुड्ढा जी पहले ग्रंथी बने। सदियों में कई बार इस स्थान को क्षति पहुँची और हर बार सिख समुदाय ने इसे फिर बनाया। 1800 के आरंभ में महाराजा रणजीत सिंह ने इसे संगमरमर में बनवाया और सोने की परत चढ़वाई, जिससे वह नाम पड़ा जो आज बहुत से लोग प्रयोग करते हैं।", "reviewed": false },
+    "mr": { "text": "चौथे गुरू, गुरु रामदास जी यांनी 1577 मध्ये सरोवराचे खोदकाम सुरू केले आणि त्याभोवती नगर वसवले. त्यांचे उत्तराधिकारी गुरु अर्जन देव जी यांनी मध्यभागी गुरुद्वारा बांधला आणि नोंदवलेल्या इतिहासानुसार 1604 मध्ये येथे आदि ग्रंथाचे प्रकाश केले, ज्यात बाबा बुड्ढा जी पहिले ग्रंथी झाले. शतकानुशतके या स्थानाची अनेकदा हानी झाली आणि प्रत्येक वेळी शीख समुदायाने ते पुन्हा बांधले. 1800 च्या सुरुवातीला महाराजा रणजितसिंग यांनी ते संगमरवरात बांधवले आणि सोन्याचा मुलामा दिला, ज्यामुळे आज अनेकजण वापरतात ते नाव पडले.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the history recorded in Sikh tradition and the gurdwara's published accounts.",
+    "hi": { "text": "सिख परंपरा में अभिलेखित इतिहास और गुरुद्वारे के प्रकाशित विवरणों से।", "reviewed": false },
+    "mr": { "text": "शीख परंपरेतील नोंदवलेल्या इतिहासातून आणि गुरुद्वाराच्या प्रकाशित वृत्तांतांतून.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [10, 11, 12, 1, 2, 3],
+    "seasons": [
+      {
+        "months": [10, 11, 2, 3],
+        "rating": "best",
+        "weather": {
+          "en": "Pleasant and mostly dry, roughly 10 to 28 degrees. Good for long hours on the marble walkway. Gurpurab in November brings very large crowds.",
+          "hi": { "text": "सुहावना और अधिकतर शुष्क मौसम, लगभग 10 से 28 डिग्री। संगमरमर की परिक्रमा पर लंबे समय तक रहने के लिए अच्छा। नवंबर में गुरुपर्व पर बहुत भारी भीड़ रहती है।", "reviewed": false },
+          "mr": { "text": "आल्हाददायक आणि बहुतांश कोरडे हवामान, सुमारे 10 ते 28 अंश. संगमरवरी परिक्रमा मार्गावर दीर्घ वेळ थांबण्यासाठी चांगले. नोव्हेंबरमधील गुरुपर्वाला खूप मोठी गर्दी असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [12, 1],
+        "rating": "good",
+        "weather": {
+          "en": "Cold, often near freezing at night, with thick fog that can delay trains and flights. The marble is cold underfoot, so carry warm socks for the walk to the gate. Crowds are lighter.",
+          "hi": { "text": "ठंड, अक्सर रात में हिमांक के आसपास, और घना कोहरा जो रेल और उड़ानों में देरी कर सकता है। संगमरमर पैरों के नीचे ठंडा रहता है, इसलिए द्वार तक जाने के लिए गर्म मोज़े साथ रखें। भीड़ कम रहती है।", "reviewed": false },
+          "mr": { "text": "थंडी, अनेकदा रात्री गोठणबिंदूच्या आसपास, आणि दाट धुके जे रेल्वे व विमानांना उशीर करू शकते. संगमरवर पायाखाली थंड असतो, म्हणून प्रवेशद्वारापर्यंत जाण्यासाठी उबदार मोजे सोबत ठेवा. गर्दी कमी असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [4, 5, 6],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot, often above 40 degrees, and the marble can be too hot to walk on at midday. Go at dawn or after sunset, and drink water often. Vaisakhi in April is crowded.",
+          "hi": { "text": "बहुत गर्मी, अक्सर 40 डिग्री से ऊपर, और दोपहर में संगमरमर पर चलना कठिन हो सकता है। भोर या सूर्यास्त के बाद जाएँ और बार-बार पानी पिएँ। अप्रैल में वैसाखी पर भीड़ रहती है।", "reviewed": false },
+          "mr": { "text": "खूप उष्ण, अनेकदा 40 अंशांहून अधिक, आणि दुपारी संगमरवरावर चालणे कठीण होऊ शकते. पहाटे किंवा सूर्यास्तानंतर जा आणि वारंवार पाणी प्या. एप्रिलमधील वैसाखीला गर्दी असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [7, 8, 9],
+        "rating": "difficult",
+        "weather": {
+          "en": "Monsoon. Humid and warm, with heavy showers that make the paths and shoe-stand areas wet. Carry a light rain cover.",
+          "hi": { "text": "वर्षा ऋतु। उमस और गर्मी के साथ तेज़ बौछारें, जिनसे रास्ते और जूता-घर के आसपास की जगह गीली रहती है। हल्का रेन कवर साथ रखें।", "reviewed": false },
+          "mr": { "text": "पावसाळा. दमट आणि उष्ण हवा, जोरदार सरींमुळे मार्ग आणि जोडे-घराजवळचा भाग ओला राहतो. हलके रेन कव्हर सोबत ठेवा.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Sri Guru Ram Dass Jee International Airport (ATQ), Raja Sansi", "hi": { "text": "श्री गुरु रामदास जी अंतरराष्ट्रीय हवाई अड्डा (ATQ), राजासांसी", "reviewed": false }, "mr": { "text": "श्री गुरु रामदास जी आंतरराष्ट्रीय विमानतळ (ATQ), राजासांसी", "reviewed": false } },
+      "km": 11,
+      "how": {
+        "en": "Direct flights from Delhi, Mumbai and several other Indian cities, and from some cities abroad. Taxis and app cabs reach the gurdwara in about 30 to 45 minutes depending on traffic. Check current schedules with the airline.",
+        "hi": { "text": "दिल्ली, मुंबई और कई अन्य भारतीय शहरों तथा विदेश के कुछ शहरों से सीधी उड़ानें। टैक्सी और ऐप कैब से यातायात के अनुसार लगभग 30 से 45 मिनट में गुरुद्वारे पहुँचा जाता है। वर्तमान समय-सारिणी एयरलाइन से जाँच लें।", "reviewed": false },
+        "mr": { "text": "दिल्ली, मुंबई आणि भारतातील इतर अनेक शहरांतून तसेच परदेशातील काही शहरांतून थेट उड्डाणे. टॅक्सी आणि ॲप कॅबने वाहतुकीनुसार सुमारे 30 ते 45 मिनिटांत गुरुद्वारात पोहोचता येते. सध्याचे वेळापत्रक विमान कंपनीकडे तपासा.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Amritsar Junction (ASR)", "hi": { "text": "अमृतसर जंक्शन (ASR)", "reviewed": false }, "mr": { "text": "अमृतसर जंक्शन (ASR)", "reviewed": false } },
+      "km": 2,
+      "how": {
+        "en": "A main northern line station with trains from Delhi, Chandigarh, Jalandhar and beyond. The gurdwara is a short auto or e-rickshaw ride from the station. Fog in winter can cause delays.",
+        "hi": { "text": "उत्तर रेलवे का प्रमुख स्टेशन, जहाँ दिल्ली, चंडीगढ़, जालंधर और उससे आगे से गाड़ियाँ आती हैं। स्टेशन से गुरुद्वारा थोड़ी दूरी पर है, ऑटो या ई-रिक्शा से पहुँचा जा सकता है। सर्दियों में कोहरे से देरी हो सकती है।", "reviewed": false },
+        "mr": { "text": "उत्तर रेल्वेचे प्रमुख स्थानक, जिथे दिल्ली, चंदीगड, जालंधर आणि त्यापलीकडून गाड्या येतात. स्थानकापासून गुरुद्वारा थोड्या अंतरावर आहे, ऑटो किंवा ई-रिक्षाने पोहोचता येते. हिवाळ्यात धुक्यामुळे उशीर होऊ शकतो.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Amritsar is on the Grand Trunk Road. Delhi is roughly 450 km and Chandigarh roughly 220 km away. State and private buses run from Delhi, Chandigarh, Jalandhar and Jammu.",
+        "hi": { "text": "अमृतसर ग्रैंड ट्रंक रोड पर है। दिल्ली लगभग 450 किमी और चंडीगढ़ लगभग 220 किमी दूर है। दिल्ली, चंडीगढ़, जालंधर और जम्मू से राज्य और निजी बसें चलती हैं।", "reviewed": false },
+        "mr": { "text": "अमृतसर ग्रँड ट्रंक रोडवर आहे. दिल्ली सुमारे 450 किमी आणि चंदीगड सुमारे 220 किमी अंतरावर आहे. दिल्ली, चंदीगड, जालंधर आणि जम्मू येथून राज्य आणि खासगी बसेस धावतात.", "reviewed": false }
+      },
+      "km": 450
+    }
+  },
+  "localTransport": {
+    "en": "The area around the gurdwara is a pedestrian zone with limited vehicle access. Autos, e-rickshaws and cycle rickshaws reach the edge, then you walk. Free pilgrim shuttles and parking are usually available near the complex. Agree the fare before you start, or use an app cab for longer trips such as Wagah.",
+    "hi": { "text": "गुरुद्वारे के आसपास का क्षेत्र पैदल यात्रियों के लिए है और वाहन पहुँच सीमित है। ऑटो, ई-रिक्शा और साइकिल रिक्शा किनारे तक जाते हैं, फिर पैदल चलना होता है। परिसर के पास आमतौर पर पार्किंग और यात्री सुविधाएँ उपलब्ध रहती हैं। चलने से पहले किराया तय करें, या वाघा जैसी लंबी यात्रा के लिए ऐप कैब लें।", "reviewed": false },
+    "mr": { "text": "गुरुद्वाराच्या सभोवतालचा भाग पादचाऱ्यांसाठी आहे आणि वाहनांना मर्यादित प्रवेश आहे. ऑटो, ई-रिक्षा आणि सायकल रिक्षा काठापर्यंत जातात, मग चालत जावे लागते. परिसराजवळ सहसा पार्किंग आणि यात्री सुविधा उपलब्ध असतात. निघण्यापूर्वी भाडे ठरवा, किंवा वाघा सारख्या लांबच्या प्रवासासाठी ॲप कॅब घ्या.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "guru-nanak-jayanti",
+      "note": {
+        "en": "Gurpurab, the birth anniversary of Guru Nanak Dev Ji, is marked with continuous kirtan, a nagar kirtan procession and lights on the complex. Expect very large crowds.",
+        "hi": { "text": "गुरु नानक देव जी का प्रकाश पर्व गुरुपर्व, निरंतर कीर्तन, नगर कीर्तन की शोभायात्रा और परिसर में रोशनी के साथ मनाया जाता है। बहुत भारी भीड़ की अपेक्षा रखें।", "reviewed": false },
+        "mr": { "text": "गुरु नानक देव जी यांचा प्रकाश पर्व गुरुपर्व अखंड कीर्तन, नगर कीर्तनाची मिरवणूक आणि परिसरातील रोषणाईसह साजरा केला जातो. खूप मोठ्या गर्दीची अपेक्षा ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "vaisakhi",
+      "note": {
+        "en": "Vaisakhi in April marks the founding of the Khalsa in 1699. Pilgrims bathe in the sarovar, and the complex is busy from early morning.",
+        "hi": { "text": "अप्रैल की वैसाखी 1699 में खालसा की स्थापना का स्मरण कराती है। श्रद्धालु सरोवर में स्नान करते हैं और परिसर सुबह से ही व्यस्त रहता है।", "reviewed": false },
+        "mr": { "text": "एप्रिलमधील वैसाखी 1699 मधील खालसाच्या स्थापनेचे स्मरण करून देते. भाविक सरोवरात स्नान करतात आणि परिसर सकाळपासूनच गजबजलेला असतो.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "diwali",
+      "note": {
+        "en": "Sikhs mark Bandi Chhor Divas at the same time as Diwali, remembering the release of Guru Hargobind Sahib Ji. The sarovar is lit with lamps and fireworks, and the evening is very crowded.",
+        "hi": { "text": "सिख दीपावली के समय बंदी छोड़ दिवस मनाते हैं, जो गुरु हरगोबिंद साहिब जी की रिहाई का स्मरण है। सरोवर दीपों और आतिशबाज़ी से जगमगाता है और शाम को बहुत भीड़ रहती है।", "reviewed": false },
+        "mr": { "text": "शीख दिवाळीच्या वेळी बंदी छोड दिवस साजरा करतात, जो गुरु हरगोबिंद साहिब जी यांच्या सुटकेचे स्मरण आहे. सरोवर दिवे आणि आतषबाजीने उजळते आणि संध्याकाळी खूप गर्दी असते.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Wagah-Attari border", "hi": { "text": "वाघा-अटारी सीमा", "reviewed": false }, "mr": { "text": "वाघा-अटारी सीमा", "reviewed": false } },
+      "km": 28,
+      "note": { "en": "The daily evening flag-lowering ceremony at the India-Pakistan border. Check the current visitor rules and arrive early.", "hi": { "text": "भारत-पाकिस्तान सीमा पर रोज़ शाम को ध्वज उतारने का समारोह। वर्तमान नियम जाँच लें और जल्दी पहुँचें।", "reviewed": false }, "mr": { "text": "भारत-पाकिस्तान सीमेवर दररोज संध्याकाळी ध्वज उतरवण्याचा समारंभ. सध्याचे नियम तपासा आणि लवकर पोहोचा.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Sri Tarn Taran Sahib", "hi": { "text": "श्री तरन तारन साहिब", "reviewed": false }, "mr": { "text": "श्री तरन तारन साहिब", "reviewed": false } },
+      "km": 24,
+      "note": { "en": "Historic gurdwara with a large sarovar, founded by Guru Arjan Dev Ji.", "hi": { "text": "विशाल सरोवर वाला ऐतिहासिक गुरुद्वारा, जिसकी स्थापना गुरु अर्जन देव जी ने की।", "reviewed": false }, "mr": { "text": "मोठे सरोवर असलेले ऐतिहासिक गुरुद्वारा, ज्याची स्थापना गुरु अर्जन देव जी यांनी केली.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Ram Tirath", "hi": { "text": "राम तीर्थ", "reviewed": false }, "mr": { "text": "राम तीर्थ", "reviewed": false } },
+      "km": 12,
+      "note": { "en": "A quiet site linked in tradition with the sage Valmiki, west of the city.", "hi": { "text": "परंपरा में ऋषि वाल्मीकि से जुड़ा शांत स्थल, शहर के पश्चिम में।", "reviewed": false }, "mr": { "text": "परंपरेत ऋषी वाल्मीकींशी जोडलेले शांत स्थळ, शहराच्या पश्चिमेला.", "reviewed": false } }
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero.webp",
+      "caption": { "en": "Sri Harmandir Sahib and the Amrit Sarovar", "hi": { "text": "श्री हरिमंदिर साहिब और अमृत सरोवर", "reviewed": false }, "mr": { "text": "श्री हरमंदिर साहिब आणि अमृत सरोवर", "reviewed": false } },
+      "credit": "AI-generated illustration for PranaDin",
+      "ai": true
+    }
+  ],
+  "sources": [
+    { "label": "Golden Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Golden_Temple" },
+    { "label": "Amritsar, Wikipedia", "url": "https://en.wikipedia.org/wiki/Amritsar" },
+    { "label": "Shiromani Gurdwara Parbandhak Committee (SGPC)", "url": "https://sgpc.net" },
+    { "label": "Sri Guru Ram Dass Jee International Airport, Wikipedia", "url": "https://en.wikipedia.org/wiki/Sri_Guru_Ram_Dass_Jee_International_Airport" }
+  ]
+}
