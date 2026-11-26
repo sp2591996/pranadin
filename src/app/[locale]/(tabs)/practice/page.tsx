@@ -1,3 +1,4 @@
+import { HubNav } from "@/components/HubNav";
 import { isLocale } from "@/i18n/config";
 import { loadMeditations, loadStrings, loadTechniques } from "@/features/shared/content.server";
 import { StringsProvider } from "@/features/shared/strings";
@@ -19,6 +20,7 @@ export default async function PracticePage({ params }: PageProps<"/[locale]/prac
     name: t.name,
     subtitle: t.subtitle,
     lang: t.lang,
+    cycle: t.pattern.reduce((a, ph) => a + ph.seconds, 0),
     rhythm: formatMessage(
       rhythmTpl,
       {
@@ -31,6 +33,7 @@ export default async function PracticePage({ params }: PageProps<"/[locale]/prac
   const meditations = loadMeditations(locale).map((m) => ({ slug: m.slug, title: m.title, lang: m.lang }));
   return (
     <StringsProvider strings={strings}>
+      <HubNav locale={locale} hub="practice" current="breath" />
       <div className="wide">
         <PracticeHome techniques={techniques} meditations={meditations} more={<><ChakrasLink locale={locale} /><YatraLink locale={locale} /></>} />
       </div>

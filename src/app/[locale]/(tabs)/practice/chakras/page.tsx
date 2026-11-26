@@ -1,3 +1,4 @@
+import { HubNav } from "@/components/HubNav";
 import { isLocale } from "@/i18n/config";
 import { StringsProvider } from "@/features/shared/strings";
 import { loadChakraStrings, loadChakras } from "@/features/chakras/content.server";
@@ -9,6 +10,7 @@ export default async function ChakrasPage({ params }: PageProps<"/[locale]/pract
   const locale = isLocale(l) ? l : "en";
   return (
     <StringsProvider strings={loadChakraStrings(locale)}>
+      <HubNav locale={locale} hub="practice" current="chakras" />
       <ChakraList chakras={loadChakras(locale)} />
     </StringsProvider>
   );

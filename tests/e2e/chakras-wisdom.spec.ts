@@ -8,7 +8,7 @@ test.describe("Chakras and verse of the day (D-026 Wave C)", () => {
     await page.goto("/en/practice/chakras/");
     await expect(page.getByRole("heading", { level: 1, name: "Chakras" })).toBeVisible();
     // Scoped to the page body: the header menus also link to Chakras (D-033).
-    await expect(page.locator('main a[href*="/practice/chakras/"]')).toHaveCount(7);
+    await expect(page.locator('main a[href*="/practice/chakras/"]:not(nav a)')).toHaveCount(7);
     await page.locator('a[href$="/practice/chakras/anahata/"]').click();
     await expect(page.getByRole("heading", { level: 1 })).toContainText("अनाहत");
     await expect(page.getByText(/not as medicine/i)).toBeVisible();

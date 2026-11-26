@@ -1,3 +1,4 @@
+import { HubNav } from "@/components/HubNav";
 import { isLocale } from "@/i18n/config";
 import { StringsProvider } from "@/features/shared/strings";
 import { loadFestivalStrings, loadFestivals } from "@/features/festivals/content.server";
@@ -11,6 +12,7 @@ export default async function FestivalsPage({ params }: PageProps<"/[locale]/cal
   const traditions = [...new Set(festivals.flatMap((f) => f.traditions))];
   return (
     <StringsProvider strings={loadFestivalStrings(locale)}>
+      <HubNav locale={locale} hub="calendar" current="festivals" />
       <FestivalList festivals={festivals} traditions={traditions} />
     </StringsProvider>
   );

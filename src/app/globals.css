@@ -103,3 +103,45 @@ h2 {
 
 /* Devanagari has no true italic; a slanted fake reads badly, so keep it upright. */
 :lang(hi) .italic, :lang(mr) .italic, :lang(sa) .italic { font-style: normal; }
+
+/* ---------- D-036: living surfaces (CSS only, no extra JavaScript) ---------- */
+.glass {
+  background: rgba(255, 248, 235, 0.14);
+  border: 1px solid rgba(255, 240, 210, 0.28);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+.photo-shade { background: linear-gradient(180deg, rgba(20, 9, 3, 0.15) 0%, rgba(20, 9, 3, 0.55) 45%, rgba(20, 9, 3, 0.92) 100%); }
+@media (min-width: 1024px) {
+  .photo-shade-side { background: linear-gradient(90deg, rgba(20, 9, 3, 0.92) 0%, rgba(20, 9, 3, 0.7) 40%, rgba(20, 9, 3, 0.1) 75%), linear-gradient(0deg, rgba(20, 9, 3, 0.6), transparent 40%); }
+}
+.bento { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-rows: minmax(9.5rem, auto); gap: 0.75rem; }
+@media (min-width: 1024px) { .bento { grid-template-columns: repeat(4, minmax(0, 1fr)); grid-auto-rows: minmax(11.5rem, auto); gap: 1rem; } }
+.tile { position: relative; isolation: isolate; overflow: hidden; border-radius: var(--r-xl); transition: transform 300ms cubic-bezier(.2,.8,.2,1), box-shadow 300ms; }
+.tile:hover { transform: translateY(-4px); box-shadow: 0 18px 40px -18px rgba(90, 40, 10, 0.45); }
+.tile img { transition: transform 900ms cubic-bezier(.2,.8,.2,1); }
+.tile:hover img { transform: scale(1.06); }
+.chakra-wash { background: linear-gradient(160deg, #8E3FB4 0%, #4B5BD6 22%, #2F9FD8 38%, #3FAE6A 54%, #E7C23A 70%, #EE8A2C 84%, #D8432F 100%); }
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+.eq { display: inline-flex; align-items: flex-end; gap: 3px; height: 28px; }
+.eq > i { width: 4px; height: 30%; border-radius: 2px; background: currentColor; display: block; }
+.orb { border-radius: 9999px; background: radial-gradient(circle at 35% 30%, rgba(255,255,255,0.9), rgba(255,255,255,0.15) 60%, transparent 70%); box-shadow: 0 0 0 10px rgba(255,255,255,0.12), 0 0 0 22px rgba(255,255,255,0.07); }
+@media (prefers-reduced-motion: no-preference) {
+  .eq > i { animation: eq 1.1s ease-in-out infinite; }
+  .eq > i:nth-child(2) { animation-delay: -0.4s; }
+  .eq > i:nth-child(3) { animation-delay: -0.8s; }
+  .eq > i:nth-child(4) { animation-delay: -0.2s; }
+  .eq > i:nth-child(5) { animation-delay: -0.6s; }
+  .orb { animation: orb 10s ease-in-out infinite; }
+  .sun-dot { animation: sun-glow 3s ease-in-out infinite; }
+  @supports (animation-timeline: view()) {
+    .reveal { animation: reveal linear both; animation-timeline: view(); animation-range: entry 0% entry 35%; }
+  }
+}
+@keyframes eq { 0%, 100% { height: 25%; } 50% { height: 100%; } }
+@keyframes orb { 0%, 100% { transform: scale(0.72); } 40%, 50% { transform: scale(1); } }
+@keyframes sun-glow { 0%, 100% { filter: drop-shadow(0 0 4px rgba(245,178,46,.6)); } 50% { filter: drop-shadow(0 0 12px rgba(245,178,46,1)); } }
+@keyframes reveal { from { transform: translateY(32px); } to { transform: none; } }
+:root[data-motion="reduce"] .eq > i, :root[data-motion="reduce"] .orb, :root[data-motion="reduce"] .sun-dot, :root[data-motion="reduce"] .reveal { animation: none; }

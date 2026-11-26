@@ -1,3 +1,4 @@
+import { HubNav } from "@/components/HubNav";
 import { isLocale } from "@/i18n/config";
 import { StringsProvider } from "@/features/shared/strings";
 import { loadModuleList, loadPoseList, loadProgramList, loadYogaStrings } from "@/features/yoga/content.server";
@@ -9,6 +10,7 @@ export default async function YogaPage({ params }: PageProps<"/[locale]/practice
   const locale = isLocale(l) ? l : "en";
   return (
     <StringsProvider strings={loadYogaStrings(locale)}>
+      <HubNav locale={locale} hub="practice" current="yoga" />
       <YogaHome poses={loadPoseList(locale)} modules={loadModuleList(locale)} programs={loadProgramList(locale)} />
     </StringsProvider>
   );

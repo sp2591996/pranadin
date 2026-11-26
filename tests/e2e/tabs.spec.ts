@@ -30,13 +30,26 @@ for (const lang of LOCALES) {
 test.describe("Tabs", () => {
   test.beforeEach(async ({ page }) => onboard(page, "en"));
 
-  test("bottom nav has exactly the 5 tabs and each opens", async ({ page }) => {
+  test("bottom nav has the 5 places (D-036) and each opens; Journal is in the header", async ({ page }) => {
     const nav = page.getByRole("navigation").last();
-    for (const name of ["Today", "Practice", "Sounds", "Calendar", "Journal"]) {
+    for (const [name, url] of [["Today", "today"], ["Practice", "practice"], ["Sounds", "sounds"], ["Calendar", "calendar"], ["Yatra", "practice/yatra"]]) {
       await nav.getByRole("link", { name }).click();
-      await expect(page).toHaveURL(new RegExp(`/en/${name.toLowerCase()}/`));
+      await expect(page).toHaveURL(new RegExp(`/en/${url}/`));
+      await expect(nav.getByRole("link", { name })).toHaveAttribute("aria-current", "page");
     }
     await expect(nav.getByRole("link")).toHaveCount(5);
+    await page.locator("header").getByRole("link", { name: "Journal" }).click();
+    await expect(page).toHaveURL(/\/en\/journal\//);
+  });
+
+  test("D-036: hubs show their sections as visible chips", async ({ page }) => {
+    await page.goto("/en/practice/");
+    const hub = page.getByRole("navigation", { name: "Practice sections" });
+    await hub.getByRole("link", { name: "Yoga" }).click();
+    await expect(page).toHaveURL(/\/en\/practice\/yoga\//);
+    await page.goto("/en/calendar/");
+    await page.getByRole("navigation", { name: "Calendar sections" }).getByRole("link", { name: "Festivals" }).click();
+    await expect(page).toHaveURL(/\/en\/calendar\/festivals\//);
   });
 
   test("US-10: Today shows the panchang line labelled Indicative and the city", async ({ page }) => {

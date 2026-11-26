@@ -1,30 +1,42 @@
 import type { IconName } from "./icons.generated";
 import type { MessageKey } from "@/i18n/keys";
 import type { Locale } from "@/lib/types";
-import { tabHref, TABS, type Tab } from "@/lib/routes";
 
-/** Tab icons (D-033: same set on the phone bar and the desktop pills). */
-export const TAB_ICONS: Record<Tab, IconName> = {
-  today: "House",
-  practice: "Wind",
-  sounds: "Waveform",
-  calendar: "CalendarHeart",
-  journal: "Notebook",
-};
+/**
+ * Main navigation (D-036): five clear places on every screen size, nothing
+ * hidden under "More". Yatra gets its own place (it lives under /practice/
+ * in the URL, so it is checked first). Journal is the sixth pill on wide
+ * screens and a header button on phones.
+ */
+export type NavId = "today" | "practice" | "sounds" | "calendar" | "yatra" | "journal";
 
-/** Deeper sections reached from the desktop "More" menu. */
-export const MORE_ITEMS: { key: MessageKey; deva: string; icon: IconName; path: string }[] = [
-  { key: "nav.yoga", deva: "योग", icon: "PersonSimpleTaiChi", path: "practice/yoga/" },
-  { key: "nav.chakras", deva: "चक्र", icon: "Sun", path: "practice/chakras/" },
-  { key: "nav.yatra", deva: "तीर्थ", icon: "Bank", path: "practice/yatra/" },
-  { key: "nav.festivals", deva: "उत्सव", icon: "Flame", path: "calendar/festivals/" },
+export interface NavItem {
+  id: NavId;
+  key: MessageKey;
+  icon: IconName;
+  path: string;
+}
+
+export const NAV_ITEMS: NavItem[] = [
+  { id: "today", key: "nav.today", icon: "House", path: "today/" },
+  { id: "practice", key: "nav.practice", icon: "Wind", path: "practice/" },
+  { id: "sounds", key: "nav.sounds", icon: "Waveform", path: "sounds/" },
+  { id: "calendar", key: "nav.calendar", icon: "CalendarHeart", path: "calendar/" },
+  { id: "yatra", key: "nav.yatra", icon: "Bank", path: "practice/yatra/" },
+  { id: "journal", key: "nav.journal", icon: "Notebook", path: "journal/" },
 ];
 
-export const moreHref = (l: Locale, path: string) => `/${l}/${path}`;
+/** The phone bar: the first five. */
+export const PHONE_NAV = NAV_ITEMS.filter((n) => n.id !== "journal");
 
-/** Which tab is current. A "More" section counts as its own, not as its parent tab. */
-export function activeNav(pathname: string, locale: Locale): { tab: Tab | null; more: string | null } {
-  const more = MORE_ITEMS.find((m) => pathname.startsWith(moreHref(locale, m.path).replace(/\/$/, "")))?.path ?? null;
-  const tab = more ? null : (TABS.find((t) => pathname.startsWith(tabHref(locale, t).replace(/\/$/, ""))) ?? null);
-  return { tab, more };
+export const navHref = (l: Locale, path: string) => `/${l}/${path}`;
+
+/** Which place is current. Longest matching path wins, so Yatra beats Practice. */
+export function activeNav(pathname: string, locale: Locale): NavId | null {
+  let best: NavItem | null = null;
+  for (const n of NAV_ITEMS) {
+    const base = navHref(locale, n.path).replace(/\/$/, "");
+    if ((pathname === base || pathname.startsWith(base + "/")) && (!best || n.path.length > best.path.length)) best = n;
+  }
+  return best?.id ?? null;
 }

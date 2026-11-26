@@ -4,11 +4,11 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useRef } from "react";
 import { Icon } from "./Icon";
-import { activeNav, MORE_ITEMS, moreHref, TAB_ICONS } from "./nav-items";
+import { activeNav, NAV_ITEMS, navHref } from "./nav-items";
 import { useI18n } from "@/i18n/client";
 import { LOCALE_NATIVE_NAME, LOCALES } from "@/i18n/config";
 import { getPrefs } from "@/lib/storage";
-import { routes, tabHref, TABS, withLocale } from "@/lib/routes";
+import { routes, withLocale } from "@/lib/routes";
 
 const SHORT: Record<string, string> = { en: "EN", hi: "हिं", mr: "मरा" };
 
@@ -72,60 +72,32 @@ function LangMenu() {
 }
 
 /**
- * Header on every tab (D-033, after the reference prototype): logo, the tab
- * pills with a "More" menu on wide screens, language menu, ॐ शान्तिः and "Me".
- * On phones the tabs live in the bottom bar instead.
+ * Header on every tab (D-033 look, D-036 places): logo, six pills on wide
+ * screens (nothing hidden under "More"), language, Journal (phones), Me.
+ * On phones the other five places live in the bottom bar.
  */
 export function AppHeader() {
   const { t, locale } = useI18n();
   const pathname = usePathname() ?? "";
-  const { tab: activeTab, more } = activeNav(pathname, locale);
-  const moreRef = useRef<HTMLDetailsElement>(null);
-  const pill = "flex min-h-11 items-center gap-1.5 rounded-full px-3.5 text-small font-medium transition-colors duration-fast";
+  const current = activeNav(pathname, locale);
+  const pill = "flex min-h-11 items-center gap-1.5 rounded-full px-3.5 text-small font-medium transition-all duration-fast";
   const idle = "text-text-muted hover:bg-surface-2 hover:text-text";
-  const on = "bg-primary text-on-primary shadow-md shadow-orange-900/20";
+  const on = "bg-gradient-to-b from-primary to-primary-pressed text-on-primary shadow-md shadow-orange-900/25";
+  const round = "flex h-11 w-11 items-center justify-center rounded-full border border-divider bg-surface text-text-muted transition-colors hover:border-primary hover:text-primary aria-[current=page]:border-primary aria-[current=page]:bg-primary-tint aria-[current=page]:text-on-primary-tint";
   return (
     <header className="app-header sticky top-0 z-[var(--z-sticky)] border-b border-divider bg-[color-mix(in_srgb,var(--bg)_86%,transparent)] backdrop-blur-md">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
+      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-3 px-4 sm:px-6">
         <Logo />
         <nav aria-label={t("nav.label")} className="hidden lg:block">
-          <ul className="flex items-center gap-1 rounded-full border border-divider bg-surface/70 p-1 shadow-sm">
-            {TABS.map((tab) => (
-              <li key={tab}>
-                <Link href={tabHref(locale, tab)} aria-current={activeTab === tab ? "page" : undefined} className={`${pill} ${activeTab === tab ? on : idle}`}>
-                  <Icon name={TAB_ICONS[tab]} size={16} />
-                  {t(`nav.${tab}`)}
+          <ul className="flex items-center gap-0.5 rounded-full border border-divider bg-surface/70 p-1 shadow-sm">
+            {NAV_ITEMS.map((n) => (
+              <li key={n.id}>
+                <Link href={navHref(locale, n.path)} aria-current={current === n.id ? "page" : undefined} className={`${pill} ${current === n.id ? on : idle}`}>
+                  <Icon name={n.icon} size={16} weight={current === n.id ? "fill" : "regular"} />
+                  {t(n.key)}
                 </Link>
               </li>
             ))}
-            <li>
-              <details ref={moreRef} className="relative">
-                <summary className={`${pill} cursor-pointer list-none [&::-webkit-details-marker]:hidden ${more ? on : idle}`}>
-                  <Icon name="DotsThree" size={16} />
-                  {t("nav.more")}
-                </summary>
-                <ul className="absolute right-0 top-full z-50 mt-2 w-52 overflow-hidden rounded-2xl border border-divider bg-surface p-1.5 shadow-elev-3">
-                  {MORE_ITEMS.map((m) => (
-                    <li key={m.path}>
-                      <Link
-                        href={moreHref(locale, m.path)}
-                        aria-current={more === m.path ? "page" : undefined}
-                        onClick={() => moreRef.current?.removeAttribute("open")}
-                        className="flex min-h-11 items-center gap-2.5 rounded-xl px-3 text-small font-medium text-text hover:bg-surface-2 aria-[current=page]:bg-primary-tint aria-[current=page]:text-on-primary-tint"
-                      >
-                        <Icon name={m.icon} size={16} className="text-text-muted" />
-                        <span className="flex-1">{t(m.key)}</span>
-                        {locale === "en" && (
-                          <span aria-hidden="true" className="font-deva text-caption text-text-muted">
-                            {m.deva}
-                          </span>
-                        )}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </details>
-            </li>
           </ul>
         </nav>
         <div className="flex items-center gap-2">
@@ -133,11 +105,10 @@ export function AppHeader() {
           <span aria-hidden="true" className="hidden font-deva text-small text-primary xl:block">
             ॐ शान्तिः
           </span>
-          <Link
-            href={routes.settings(locale)}
-            aria-label={t("a11y.openMe")}
-            className="flex h-11 w-11 items-center justify-center rounded-full border border-divider bg-surface text-text-muted hover:border-primary hover:text-primary"
-          >
+          <Link href={routes.journal(locale)} aria-label={t("nav.journal")} aria-current={current === "journal" ? "page" : undefined} className={`${round} lg:hidden`}>
+            <Icon name="Notebook" size={22} weight={current === "journal" ? "fill" : "regular"} />
+          </Link>
+          <Link href={routes.settings(locale)} aria-label={t("a11y.openMe")} className={round}>
             <Icon name="UserCircle" size={24} />
           </Link>
         </div>

@@ -83,26 +83,28 @@ export function YatraList({ places }: { places: PlaceView[] }) {
         <p className="text-text-muted">{s("yatra.none")}</p>
       ) : (
         <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {shown.map((p) => {
+          {shown.map((p, i) => {
             const photo = p.photos[0];
+            // Magazine layout (D-036): the first place is the large featured card.
+            const big = i === 0;
             return (
-              <li key={p.id} className="flex">
+              <li key={p.id} className={big ? "flex sm:col-span-2 lg:row-span-2" : "flex"}>
                 <Link href={yatraRoutes.detail(locale, p.id)} className="card-lift group flex flex-1 flex-col overflow-hidden rounded-2xl border border-divider bg-surface shadow-elev-1">
-                  <span className="hero-dark relative block aspect-[16/10] overflow-hidden">
+                  <span className={`hero-dark relative block aspect-[16/10] overflow-hidden ${big ? "lg:aspect-auto lg:min-h-[24rem] lg:flex-1" : ""}`}>
                     {photo ? (
-                      <Image src={`/yatra/${p.id}/${photo.file}`} alt="" fill sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw" className="object-cover transition-transform duration-slow group-hover:scale-105" />
+                      <Image src={`/yatra/${p.id}/${photo.file}`} alt="" fill sizes={big ? "(min-width: 1024px) 740px, 100vw" : "(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw"} className="object-cover transition-transform duration-slow group-hover:scale-105" />
                     ) : (
                       <span aria-hidden="true" className="absolute inset-0 flex items-center justify-center font-deva text-5xl text-[#F3C35B]/70">
                         ॐ
                       </span>
                     )}
                     <span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
-                    <span className="absolute bottom-3 left-4 right-4 font-display text-[1.5rem] font-semibold leading-tight text-white drop-shadow" lang={p.name.lang}>
+                    <span className={`absolute bottom-3 left-4 right-4 font-display font-semibold leading-tight text-white drop-shadow ${big ? "text-[2rem] sm:text-[2.75rem]" : "text-[1.5rem]"}`} lang={p.name.lang}>
                       {p.name.text}
                     </span>
                     {photo?.ai ? <span className="absolute right-3 top-3 rounded-full bg-black/60 px-2 py-0.5 text-[0.75rem] font-medium text-white">{s("yatra.aiImage")}</span> : null}
                   </span>
-                  <span className="flex flex-1 flex-col gap-2 p-4">
+                  <span className={`flex flex-col gap-2 p-4 ${big ? "" : "flex-1"}`}>
                     <span className="flex items-center gap-1.5 text-small text-text-muted" lang={p.state.lang}>
                       <Icon name="MapPin" size={14} />
                       {p.state.text}

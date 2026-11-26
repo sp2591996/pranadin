@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved strings have reviewed: true. Draft translations (reviewed: false) are shown too (D-030) until the Board reviews them.",
-  "count": 739,
+  "count": 757,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -3589,6 +3589,78 @@
     },
     "journal.intro": {
       "text": "कृतज्ञता आणि चिंतनासाठी एक शांत पान. नोंदी याच उपकरणावर राहतात.",
+      "reviewed": false
+    },
+    "today.chip.streak": {
+      "text": "सलग: {count}",
+      "reviewed": false
+    },
+    "today.chip.minutes": {
+      "text": "{count} मिनिटे साधना",
+      "reviewed": false
+    },
+    "today.hero.aiPhoto": {
+      "text": "एआयने तयार केलेले चित्र",
+      "reviewed": false
+    },
+    "today.sun.title": {
+      "text": "आजचा सूर्य",
+      "reviewed": false
+    },
+    "today.sun.toSunset": {
+      "text": "सूर्यास्त {h} तास {m} मिनिटांत",
+      "reviewed": false
+    },
+    "today.sun.toSunrise": {
+      "text": "सूर्योदय {h} तास {m} मिनिटांत",
+      "reviewed": false
+    },
+    "today.sun.set": {
+      "text": "सूर्य मावळला. संध्याकाळच्या प्रार्थनेची चांगली वेळ.",
+      "reviewed": false
+    },
+    "today.bento.title": {
+      "text": "तुमचा मार्ग शोधा",
+      "reviewed": false
+    },
+    "today.bento.sub": {
+      "text": "साधना, पवित्र ध्वनी, सण आणि तीर्थयात्रा, सर्व एकाच ठिकाणी.",
+      "reviewed": false
+    },
+    "today.next.title": {
+      "text": "पुढील पवित्र दिवस",
+      "reviewed": false
+    },
+    "today.next.in": {
+      "text": "{count} दिवसांत",
+      "reviewed": false
+    },
+    "today.next.tomorrow": {
+      "text": "उद्या",
+      "reviewed": false
+    },
+    "today.journal.prompt": {
+      "text": "आज तुम्ही कशासाठी कृतज्ञ आहात?",
+      "reviewed": false
+    },
+    "today.open": {
+      "text": "उघडा",
+      "reviewed": false
+    },
+    "hub.practice.label": {
+      "text": "साधनेचे विभाग",
+      "reviewed": false
+    },
+    "hub.practice.breath": {
+      "text": "श्वास आणि ध्यान",
+      "reviewed": false
+    },
+    "hub.calendar.label": {
+      "text": "दिनदर्शिकेचे विभाग",
+      "reviewed": false
+    },
+    "hub.calendar.panchang": {
+      "text": "पंचांग",
       "reviewed": false
     }
   }

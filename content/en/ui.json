@@ -4,7 +4,7 @@
   "lang": "en",
   "version": "2026-11-14.1",
   "status": "final",
-  "count": 691,
+  "count": 709,
   "strings": {
     "common.appName": "PranaDin",
     "common.tagline": "Daily breath",
@@ -696,6 +696,24 @@
     "today.path.journalSub": "A quiet page that stays on this device",
     "practice.intro": "Breathwork and stillness, one calm session at a time.",
     "cal.intro": "Tithi, nakshatra, sunrise and the sacred days of many traditions.",
-    "journal.intro": "A quiet page for gratitude and reflection. Entries stay on this device."
+    "journal.intro": "A quiet page for gratitude and reflection. Entries stay on this device.",
+    "today.chip.streak": "Streak: {count}",
+    "today.chip.minutes": "{count} min practised",
+    "today.hero.aiPhoto": "AI-generated image",
+    "today.sun.title": "The sun today",
+    "today.sun.toSunset": "Sunset in {h} h {m} min",
+    "today.sun.toSunrise": "Sunrise in {h} h {m} min",
+    "today.sun.set": "The sun has set. A good time for evening prayer.",
+    "today.bento.title": "Explore your path",
+    "today.bento.sub": "Practices, sacred sounds, holy days and journeys, all in one place.",
+    "today.next.title": "Next sacred day",
+    "today.next.in": "{count, plural, one {in # day} other {in # days}}",
+    "today.next.tomorrow": "Tomorrow",
+    "today.journal.prompt": "What are you grateful for today?",
+    "today.open": "Open",
+    "hub.practice.label": "Practice sections",
+    "hub.practice.breath": "Breath & meditation",
+    "hub.calendar.label": "Calendar sections",
+    "hub.calendar.panchang": "Panchang"
   }
 }

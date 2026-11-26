@@ -22,7 +22,7 @@ test.describe("Festivals guide", () => {
     await page.goto("/en/calendar/");
     await page.getByRole("link", { name: /Festival guide/i }).first().click();
     await expect(page).toHaveURL(/\/en\/calendar\/festivals\/$/);
-    const cards = page.locator("main li a[href*='/calendar/festivals/']");
+    const cards = page.locator("main li a[href*='/calendar/festivals/']:not(nav a)");
     const all = await cards.count();
     expect(all).toBe(24);
     await page.getByRole("button", { name: /^Sikh$/i }).click();

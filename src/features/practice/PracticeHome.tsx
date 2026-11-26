@@ -22,6 +22,8 @@ export interface TechniqueSummary {
   name: string;
   subtitle: string;
   rhythm: string;
+  /** Seconds in one breath (in + out), for the orb's pace. */
+  cycle?: number;
   lang: Locale;
 }
 export interface MeditationSummary {
@@ -30,24 +32,41 @@ export interface MeditationSummary {
   lang: Locale;
 }
 
-function Row({ href, title, sub, lang, tag, icon }: { href: string; title: string; sub?: string; lang?: Locale; tag?: string; icon: IconName }) {
+/** Rich gradients, each with white text at 4.5:1 or better (D-036). */
+const TONES = [
+  "from-[#2F7D74] to-[#163F45]",
+  "from-[#A8431A] to-[#5E220B]",
+  "from-[#4A3A7A] to-[#1F1638]",
+  "from-[#2F6B3F] to-[#173621]",
+  "from-[#7A2F5A] to-[#3A1229]",
+  "from-[#2D4F86] to-[#15284A]",
+];
+
+function Row({ href, title, sub, lang, tag, icon, tone = 0, cycle }: { href: string; title: string; sub?: string; lang?: Locale; tag?: string; icon: IconName; tone?: number; cycle?: number }) {
   return (
     <li className="flex">
-      <Link href={href} className="card-lift flex flex-1 flex-col gap-3 rounded-2xl border border-divider bg-surface p-5 shadow-elev-1">
+      <Link href={href} className={`tile group flex min-h-[13rem] flex-1 flex-col gap-4 bg-gradient-to-br p-6 text-white shadow-elev-2 ${TONES[tone % TONES.length]}`}>
+        <span aria-hidden="true" className="pointer-events-none absolute -right-10 -top-10 -z-10 h-40 w-40 rounded-full bg-white/10" />
         <span className="flex items-start justify-between gap-3">
-          <span aria-hidden="true" className="flex h-11 w-11 items-center justify-center rounded-xl bg-primary-tint text-primary">
-            <Icon name={icon} size={22} />
-          </span>
-          {tag ? <span className="rounded-full bg-surface-2 px-2.5 py-0.5 text-caption font-semibold text-text-muted">{tag}</span> : null}
+          {cycle ? (
+            <span aria-hidden="true" className="relative block h-12 w-12">
+              <span className="orb absolute inset-0" style={{ animationDuration: `${cycle}s` }} />
+            </span>
+          ) : (
+            <span aria-hidden="true" className="flex h-12 w-12 items-center justify-center rounded-full bg-white/15 text-[#F3D98B]">
+              <Icon name={icon} size={24} />
+            </span>
+          )}
+          {tag ? <span className="glass rounded-full px-2.5 py-1 text-caption font-semibold text-white">{tag}</span> : null}
         </span>
         <span className="flex-1">
-          <span className="block font-display text-[1.375rem] font-semibold leading-tight">
+          <span className="block font-display text-[1.625rem] font-semibold leading-tight [&_.ms-2]:!border-white/40 [&_.ms-2]:!text-white">
             <span lang={lang}>{title}</span>
             {lang === "en" ? <EnglishMark /> : null}
           </span>
-          {sub ? <span className="mt-1 block text-small text-text-muted">{sub}</span> : null}
+          {sub ? <span className="mt-1 block text-small text-white/85">{sub}</span> : null}
         </span>
-        <span aria-hidden="true" className="flex items-center gap-1 text-small font-semibold text-primary">
+        <span aria-hidden="true" className="flex h-9 w-9 items-center justify-center self-end rounded-full bg-white/20 transition-transform duration-fast group-hover:translate-x-1">
           <Icon name="ArrowRight" size={16} />
         </span>
       </Link>
@@ -85,9 +104,9 @@ export function PracticeHome({ techniques, meditations, more }: { techniques: Te
       <section aria-labelledby="breathe-h">
         <h2 id="breathe-h" className="text-[1.75rem] leading-9">{s("practice.breathe.title")}</h2>
         <p className="mb-4 text-text-muted">{s("practice.breathe.sub")}</p>
-        <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {techniques.map((t) => (
-            <Row key={t.slug} icon="Wind" href={practiceRoutes.breath(locale, t.slug)} title={t.name} lang={t.lang} sub={t.subtitle} tag={t.rhythm} />
+        <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {techniques.map((t, i) => (
+            <Row key={t.slug} tone={i} cycle={t.cycle} icon="Wind" href={practiceRoutes.breath(locale, t.slug)} title={t.name} lang={t.lang} sub={t.subtitle} tag={t.rhythm} />
           ))}
         </ul>
         <p className="mt-3 text-small text-text-muted">{s("tech.noHold")}</p>
@@ -97,9 +116,9 @@ export function PracticeHome({ techniques, meditations, more }: { techniques: Te
         <h2 id="meditate-h" className="text-[1.75rem] leading-9">{s("practice.meditate.title")}</h2>
         <p className="mb-4 text-text-muted">{s("practice.meditate.sub")}</p>
         <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          <Row icon="Timer" href={practiceRoutes.stillness(locale, SILENT_ID)} title={s("practice.silent.title")} />
-          {meditations.map((m) => (
-            <Row key={m.slug} icon="FlowerLotus" href={practiceRoutes.stillness(locale, m.slug)} title={m.title} lang={m.lang} />
+          <Row tone={2} icon="Timer" href={practiceRoutes.stillness(locale, SILENT_ID)} title={s("practice.silent.title")} />
+          {meditations.map((m, i) => (
+            <Row key={m.slug} tone={i + 4} icon="FlowerLotus" href={practiceRoutes.stillness(locale, m.slug)} title={m.title} lang={m.lang} />
           ))}
         </ul>
         <p className="mt-3 text-small text-text-muted">{s("practice.ambienceNote")}</p>
@@ -108,7 +127,7 @@ export function PracticeHome({ techniques, meditations, more }: { techniques: Te
       <section aria-labelledby="yoga-h">
         <h2 id="yoga-h" className="text-[1.75rem] leading-9">{s("yoga.title")}</h2>
         <ul className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          <Row icon="PersonSimpleTaiChi" href={yogaRoutes.home(locale)} title={s("yoga.title")} sub={s("yoga.entry.sub")} />
+          <Row tone={3} icon="PersonSimpleTaiChi" href={yogaRoutes.home(locale)} title={s("yoga.title")} sub={s("yoga.entry.sub")} />
           {more}
         </ul>
       </section>

@@ -37,15 +37,27 @@ function fmt(ms: number): string {
 
 const useSnap = () => useSyncExternalStore(soundEngine.subscribe, soundEngine.getSnapshot, soundEngine.getServerSnapshot);
 
+/** "Album art" colours for sound tiles (D-036). */
+const ART = ["from-[#E08A2C] to-[#9C3A12]", "from-[#2F7D74] to-[#163F45]", "from-[#4A3A7A] to-[#1F1638]", "from-[#2F6B3F] to-[#173621]", "from-[#7A2F5A] to-[#3A1229]", "from-[#2D4F86] to-[#15284A]"];
+
 function PlayRow({ id, name, sub, layers }: { id: string; name: string; sub?: string; layers: readonly Layer[] }) {
   const s = useS();
   const snap = useSnap();
   const key = `sound:${id}`;
   const on = snap.key === key && snap.status !== "idle";
   return (
-    <li className={`flex flex-wrap items-center gap-3 rounded-2xl border p-4 shadow-elev-1 transition-colors ${on ? "border-[color-mix(in_srgb,var(--primary)_40%,var(--divider))] bg-primary-tint/40" : "border-divider bg-surface"}`}>
-      <span aria-hidden="true" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary-tint text-primary">
-        <Icon name="Waveform" size={22} />
+    <li className={`card-lift flex flex-wrap items-center gap-3 rounded-2xl border p-4 shadow-elev-1 transition-colors ${on ? "border-[color-mix(in_srgb,var(--primary)_40%,var(--divider))] bg-primary-tint/40" : "border-divider bg-surface"}`}>
+      <span aria-hidden="true" className={`flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-gradient-to-br text-[#FFF4DE] shadow-md ${ART[[...id].reduce((a, c) => a + c.charCodeAt(0), 0) % ART.length]}`}>
+        {on ? (
+          <span className="eq">
+            <i />
+            <i />
+            <i />
+            <i />
+          </span>
+        ) : (
+          <Icon name="Waveform" size={24} />
+        )}
       </span>
       <span className="min-w-0 flex-1 basis-32">
         <span className="block font-display text-[1.25rem] font-semibold leading-tight [overflow-wrap:anywhere]">{name}</span>
@@ -170,7 +182,7 @@ function Listen() {
             const on = snap.key === key && snap.status !== "idle";
             const name = s(`sounds.scene.${sc.id}`);
             return (
-              <li key={sc.id} className={`flex flex-wrap items-center gap-3 rounded-2xl border p-4 shadow-elev-1 transition-colors ${on ? "border-[color-mix(in_srgb,var(--primary)_40%,var(--divider))] bg-primary-tint/40" : "border-divider bg-surface"}`}>
+              <li key={sc.id} className={`card-lift flex flex-wrap items-center gap-3 rounded-2xl border p-4 shadow-elev-1 transition-colors ${on ? "border-[color-mix(in_srgb,var(--primary)_40%,var(--divider))] bg-primary-tint/40" : "border-divider bg-surface"}`}>
                 <span aria-hidden="true" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-[color-mix(in_srgb,var(--accent)_16%,var(--surface))] text-accent">
                   <Icon name="FlowerLotus" size={22} />
                 </span>

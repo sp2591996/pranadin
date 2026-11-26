@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved strings have reviewed: true. Draft translations (reviewed: false) are shown too (D-030) until the Board reviews them.",
-  "count": 739,
+  "count": 757,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -3589,6 +3589,78 @@
     },
     "journal.intro": {
       "text": "कृतज्ञता और चिंतन के लिए एक शांत पन्ना। लिखा हुआ इसी डिवाइस पर रहता है।",
+      "reviewed": false
+    },
+    "today.chip.streak": {
+      "text": "लगातार: {count}",
+      "reviewed": false
+    },
+    "today.chip.minutes": {
+      "text": "{count} मिनट साधना",
+      "reviewed": false
+    },
+    "today.hero.aiPhoto": {
+      "text": "एआई द्वारा बनाया गया चित्र",
+      "reviewed": false
+    },
+    "today.sun.title": {
+      "text": "आज का सूर्य",
+      "reviewed": false
+    },
+    "today.sun.toSunset": {
+      "text": "सूर्यास्त {h} घं {m} मि में",
+      "reviewed": false
+    },
+    "today.sun.toSunrise": {
+      "text": "सूर्योदय {h} घं {m} मि में",
+      "reviewed": false
+    },
+    "today.sun.set": {
+      "text": "सूर्यास्त हो चुका है। संध्या वंदन का अच्छा समय।",
+      "reviewed": false
+    },
+    "today.bento.title": {
+      "text": "अपना मार्ग खोजें",
+      "reviewed": false
+    },
+    "today.bento.sub": {
+      "text": "साधना, पावन ध्वनियाँ, पर्व और तीर्थ, सब एक जगह।",
+      "reviewed": false
+    },
+    "today.next.title": {
+      "text": "अगला पावन दिन",
+      "reviewed": false
+    },
+    "today.next.in": {
+      "text": "{count} दिन में",
+      "reviewed": false
+    },
+    "today.next.tomorrow": {
+      "text": "कल",
+      "reviewed": false
+    },
+    "today.journal.prompt": {
+      "text": "आज आप किस बात के लिए कृतज्ञ हैं?",
+      "reviewed": false
+    },
+    "today.open": {
+      "text": "खोलें",
+      "reviewed": false
+    },
+    "hub.practice.label": {
+      "text": "साधना के भाग",
+      "reviewed": false
+    },
+    "hub.practice.breath": {
+      "text": "श्वास और ध्यान",
+      "reviewed": false
+    },
+    "hub.calendar.label": {
+      "text": "कैलेंडर के भाग",
+      "reviewed": false
+    },
+    "hub.calendar.panchang": {
+      "text": "पंचांग",
       "reviewed": false
     }
   }

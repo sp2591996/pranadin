@@ -10,8 +10,8 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 // Nav icons get both weights (filled when active); the rest only "regular" (D-033 look).
-const NAV = ["SunHorizon", "Wind", "CalendarBlank", "NotePencil", "SpeakerHigh", "House", "Waveform", "CalendarHeart", "Notebook"];
-const PLAIN = ["UserCircle", "ArrowLeft", "PersonSimpleTaiChi", "Timer", "Sun", "Bank", "DotsThree", "ArrowRight", "Flame", "Sparkle", "CheckCircle", "Quotes", "Globe", "MapPin", "FlowerLotus", "Clock", "SunDim", "X", "CaretDown"];
+const NAV = ["SunHorizon", "Wind", "CalendarBlank", "NotePencil", "SpeakerHigh", "House", "Waveform", "CalendarHeart", "Notebook", "Bank", "PersonSimpleTaiChi", "Flame", "Sun"];
+const PLAIN = ["UserCircle", "ArrowLeft", "Timer",  "ArrowRight", "Sparkle", "CheckCircle", "Quotes", "Globe", "MapPin", "FlowerLotus", "Clock", "SunDim", "X", "CaretDown"];
 const ICONS = [...NAV, ...PLAIN];
 const DEFS = join(process.cwd(), "node_modules", "@phosphor-icons", "react", "dist", "defs");
 

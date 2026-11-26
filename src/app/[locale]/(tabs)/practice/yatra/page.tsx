@@ -8,7 +8,7 @@ export default async function YatraPage({ params }: PageProps<"/[locale]/practic
   const { locale: l } = await params;
   const locale = isLocale(l) ? l : "en";
   const places = loadPlaces(locale);
-  const list = places.map((p) => ({ ...p, itineraries: [], sights: [], darshan: { ...p.darshan, tips: [] }, stay: [], food: [], health: [], etiquette: [], nearby: [], seasons: [], festivals: [], sources: [], photos: [] }));
+  const list = places.map((p) => ({ ...p, itineraries: [], sights: [], darshan: { ...p.darshan, tips: [] }, stay: [], food: [], health: [], etiquette: [], nearby: [], seasons: [], festivals: [], sources: [], photos: p.photos.slice(0, 1) }));
   return (
     <StringsProvider strings={loadYatraStrings(locale)}>
       <YatraList places={list} />

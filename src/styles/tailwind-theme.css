@@ -23,6 +23,8 @@
   --color-border-input: var(--border-input);
   --color-text: var(--text);
   --color-text-muted: var(--text-muted);
+  --color-white: #fff;
+  --color-black: #000;
   --color-primary: var(--primary);
   --color-primary-pressed: var(--primary-pressed);
   --color-on-primary: var(--on-primary);

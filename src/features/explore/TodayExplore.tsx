@@ -1,15 +1,16 @@
 /**
- * "Your path today" on Today (D-033, after the reference prototype): one row
- * per section with an arrow. Server component; reads each section's own
- * strings, so Today ships only the active language.
+ * "Explore your path" bento on Today (D-036). Every tile looks different so
+ * each section has its own face: a photo for Yatra and Yoga, a dark tile with
+ * moving sound bars, a breathing orb, the chakra rainbow, a paper journal
+ * prompt. Server component (CSS motion only); the "next sacred day" tile is
+ * added by TodayView, which knows the device's date. Tiles are <li>s for the
+ * grid that TodayView draws; `order-*` keeps the layout fixed.
  */
 import Link from "next/link";
 import { Icon } from "@/components/Icon";
 import type { IconName } from "@/components/icons.generated";
 import { loadChakraStrings } from "@/features/chakras/content.server";
 import { chakraRoutes } from "@/features/chakras/routes";
-import { loadFestivalStrings } from "@/features/festivals/content.server";
-import { festivalRoutes } from "@/features/festivals/routes";
 import { practiceRoutes, SILENT_ID } from "@/features/practice/routes";
 import { loadStrings } from "@/features/shared/content.server";
 import { loadYatraStrings } from "@/features/yatra/content.server";
@@ -18,46 +19,148 @@ import { yogaRoutes } from "@/features/yoga/routes";
 import { routes } from "@/lib/routes";
 import type { Locale } from "@/lib/types";
 
-export function TodayExplore({ locale }: { locale: Locale }) {
-  const ui = loadStrings(locale, ["today.path", "practice.breathe.sub", "practice.meditate.sub", "yoga.entry"]);
-  const ch = loadChakraStrings(locale);
-  const fe = loadFestivalStrings(locale);
-  const ya = loadYatraStrings(locale);
-  const rows: { href: string; icon: IconName; title: string; sub: string }[] = [
-    { href: routes.calendar(locale), icon: "CalendarHeart", title: ui["today.path.panchang"] ?? "", sub: ui["today.path.panchangSub"] ?? "" },
-    { href: practiceRoutes.stillness(locale, SILENT_ID), icon: "Timer", title: ui["today.path.meditate"] ?? "", sub: ui["practice.meditate.sub"] ?? "" },
-    { href: yogaRoutes.home(locale), icon: "PersonSimpleTaiChi", title: ui["today.path.yoga"] ?? "", sub: ui["yoga.entry.sub"] ?? "" },
-    { href: routes.practice(locale), icon: "Wind", title: ui["today.path.breath"] ?? "", sub: ui["practice.breathe.sub"] ?? "" },
-    { href: routes.sounds(locale), icon: "Waveform", title: ui["today.path.sounds"] ?? "", sub: ui["today.path.soundsSub"] ?? "" },
-    { href: chakraRoutes.list(locale), icon: "Sun", title: ch["chakras.title"] ?? "", sub: ch["chakras.intro"] ?? "" },
-    { href: yatraRoutes.list(locale), icon: "Bank", title: ya["yatra.title"] ?? "", sub: ya["yatra.entry"] ?? "" },
-    { href: festivalRoutes.list(locale), icon: "Flame", title: fe["festivals.title"] ?? "", sub: fe["festivals.intro"] ?? "" },
-    { href: routes.journal(locale), icon: "Notebook", title: ui["today.path.journal"] ?? "", sub: ui["today.path.journalSub"] ?? "" },
-  ];
+function Arrow({ light }: { light?: boolean }) {
   return (
-    <section aria-labelledby="path-title" className="h-full rounded-[var(--r-xl)] border border-divider bg-surface p-6 shadow-elev-1 sm:p-7">
-      <h2 id="path-title" className="text-[1.75rem] leading-9">
-        {ui["today.path.title"]}
-      </h2>
-      <p className="text-text-muted">{ui["today.path.sub"]}</p>
-      <ul className="mt-5 flex flex-col gap-3">
-        {rows.map((r) => (
-          <li key={r.href}>
-            <Link href={r.href} className="group flex min-h-14 items-center gap-3 rounded-2xl border border-divider bg-bg/60 p-4 transition-colors duration-fast hover:border-[color-mix(in_srgb,var(--primary)_35%,var(--divider))] hover:bg-surface">
-              <span aria-hidden="true" className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-primary-tint text-primary">
-                <Icon name={r.icon} size={20} />
-              </span>
-              <span className="min-w-0 flex-1">
-                <span className="block font-semibold text-text">{r.title}</span>
-                <span className="line-clamp-2 block text-small text-text-muted">{r.sub}</span>
-              </span>
-              <span aria-hidden="true" className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-surface-2 text-text transition-transform duration-fast group-hover:translate-x-0.5">
-                <Icon name="ArrowRight" size={16} />
-              </span>
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </section>
+    <span aria-hidden="true" className={`flex h-9 w-9 shrink-0 items-center justify-center rounded-full transition-transform duration-fast group-hover:translate-x-1 ${light ? "bg-[#fff]/20 text-[#fff]" : "bg-text text-bg"}`}>
+      <Icon name="ArrowRight" size={16} />
+    </span>
+  );
+}
+
+function Label({ icon, children, light }: { icon: IconName; children: React.ReactNode; light?: boolean }) {
+  return (
+    <span className={`inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-caption font-semibold ${light ? "glass text-[#fff]" : "bg-surface/80 text-text"}`}>
+      <Icon name={icon} size={14} />
+      {children}
+    </span>
+  );
+}
+
+export function TodayExplore({ locale }: { locale: Locale }) {
+  const ui = loadStrings(locale, ["today.path", "today.bento", "today.journal", "today.hero.aiPhoto", "nav.", "practice.breathe.sub", "practice.meditate.sub", "yoga.entry"]);
+  const ch = loadChakraStrings(locale);
+  const ya = loadYatraStrings(locale);
+  const ai = ui["today.hero.aiPhoto"];
+  const linkBase = "group flex h-full flex-col justify-between gap-3 p-5";
+  return (
+    <>
+      {/* Yatra: big photo, 2×2 */}
+      <li className="tile reveal order-1 col-span-2 row-span-2 min-h-[20rem] bg-[#2A1408] shadow-elev-2">
+        {/* eslint-disable-next-line @next/next/no-img-element -- server tile, no JS */}
+        <img src="/yatra/kedarnath/hero.webp" alt="" decoding="async" className="absolute inset-0 -z-20 h-full w-full object-cover" />
+        <span aria-hidden="true" className="photo-shade absolute inset-0 -z-10" />
+        <Link href={yatraRoutes.list(locale)} className={`${linkBase} p-6 text-[#fff] sm:p-7`}>
+          <span className="flex flex-wrap items-start justify-between gap-2">
+            <Label icon="Bank" light>
+              {ui["nav.yatra"]}
+            </Label>
+            <span className="glass rounded-full px-2.5 py-1 text-caption text-[#fff]">{ai}</span>
+          </span>
+          <span className="flex items-end justify-between gap-3">
+            <span className="min-w-0">
+              <span className="block font-display text-[2rem] font-semibold leading-[1.1] sm:text-[2.5rem]">{ya["yatra.title"]}</span>
+              <span className="mt-2 line-clamp-3 max-w-md text-[#F3E4CC]">{ya["yatra.entry"]}</span>
+            </span>
+            <Arrow light />
+          </span>
+        </Link>
+      </li>
+
+      {/* Yoga: tall pose photo */}
+      <li className="tile reveal order-2 row-span-2 min-h-[20rem] bg-[#F1E3CC] shadow-elev-1">
+        {/* eslint-disable-next-line @next/next/no-img-element -- server tile, no JS */}
+        <img src="/yoga/vrikshasana.webp" alt="" decoding="async" className="absolute inset-0 -z-20 h-full w-full object-cover" />
+        <span aria-hidden="true" className="photo-shade absolute inset-0 -z-10" />
+        <Link href={yogaRoutes.home(locale)} className={`${linkBase} text-[#fff]`}>
+          <span className="flex flex-col items-start gap-2">
+            <Label icon="PersonSimpleTaiChi" light>
+              {ui["nav.yoga"]}
+            </Label>
+          </span>
+          <span>
+            <span className="block font-display text-[1.75rem] font-semibold leading-tight">{ui["today.path.yoga"]}</span>
+            <span className="mt-1 line-clamp-3 text-small text-[#F3E4CC]">{ui["yoga.entry.sub"]}</span>
+            <span className="mt-2 block text-caption text-[#E9D6B5]">{ai}</span>
+          </span>
+        </Link>
+      </li>
+
+      {/* Sounds: dark tile with moving bars */}
+      <li className="tile reveal order-3 bg-gradient-to-br from-[#3A1A0B] to-[#1E0E06] shadow-elev-2">
+        <Link href={routes.sounds(locale)} className={`${linkBase} text-[#fff]`}>
+          <span className="flex items-start justify-between gap-2">
+            <span aria-hidden="true" className="eq text-[#F5B22E]">
+              <i />
+              <i />
+              <i />
+              <i />
+              <i />
+            </span>
+            <span aria-hidden="true" className="font-deva text-2xl leading-none text-[#F3C35B]">
+              ॐ
+            </span>
+          </span>
+          <span>
+            <span className="block font-display text-[1.5rem] font-semibold leading-tight">{ui["today.path.sounds"]}</span>
+            <span className="line-clamp-2 text-small text-[#E9D6B5]">{ui["today.path.soundsSub"]}</span>
+          </span>
+        </Link>
+      </li>
+
+      {/* Breath: expanding orb */}
+      <li className="tile reveal order-5 bg-gradient-to-br from-[#2F7D74] to-[#1C4F57] shadow-elev-1">
+        <Link href={routes.practice(locale)} className={`${linkBase} text-[#fff]`}>
+          <span aria-hidden="true" className="relative ml-2 mt-2 block h-12 w-12">
+            <span className="orb absolute inset-0" />
+          </span>
+          <span>
+            <span className="block font-display text-[1.5rem] font-semibold leading-tight">{ui["today.path.breath"]}</span>
+            <span className="line-clamp-2 text-small text-[#D7EFEA]">{ui["practice.breathe.sub"]}</span>
+          </span>
+        </Link>
+      </li>
+
+      {/* Meditate: twilight */}
+      <li className="tile reveal order-6 bg-gradient-to-br from-[#4A3A7A] to-[#22183F] shadow-elev-1">
+        <Link href={practiceRoutes.stillness(locale, SILENT_ID)} className={`${linkBase} text-[#fff]`}>
+          <span aria-hidden="true" className="flex h-11 w-11 items-center justify-center rounded-full bg-[#fff]/15 text-[#F3D98B]">
+            <Icon name="Timer" size={22} />
+          </span>
+          <span>
+            <span className="block font-display text-[1.5rem] font-semibold leading-tight">{ui["today.path.meditate"]}</span>
+            <span className="line-clamp-2 text-small text-[#DED6F2]">{ui["practice.meditate.sub"]}</span>
+          </span>
+        </Link>
+      </li>
+
+      {/* Chakras: rainbow */}
+      <li className="tile reveal chakra-wash order-7 shadow-elev-1">
+        <span aria-hidden="true" className="absolute inset-0 -z-10 bg-[#000]/35" />
+        <Link href={chakraRoutes.list(locale)} className={`${linkBase} text-[#fff]`}>
+          <span aria-hidden="true" className="flex gap-1">
+            {["#D8432F", "#EE8A2C", "#E7C23A", "#3FAE6A", "#2F9FD8", "#4B5BD6", "#8E3FB4"].map((c) => (
+              <span key={c} className="h-3 w-3 rounded-full ring-2 ring-[#fff]/60" style={{ background: c }} />
+            ))}
+          </span>
+          <span>
+            <span className="block font-display text-[1.5rem] font-semibold leading-tight">{ch["chakras.title"]}</span>
+            <span className="line-clamp-2 text-small text-[#fff]">{ch["chakras.intro"]}</span>
+          </span>
+        </Link>
+      </li>
+
+      {/* Journal: paper prompt */}
+      <li className="tile reveal paper-texture order-8 border border-divider bg-surface shadow-elev-1">
+        <Link href={routes.journal(locale)} className={`${linkBase} text-text`}>
+          <span className="flex items-start justify-between gap-2">
+            <Label icon="Notebook">{ui["nav.journal"]}</Label>
+          </span>
+          <span>
+            <span className="block font-display text-[1.375rem] italic leading-snug text-primary">“{ui["today.journal.prompt"]}”</span>
+            <span className="mt-1 line-clamp-2 text-small text-text-muted">{ui["today.path.journalSub"]}</span>
+          </span>
+        </Link>
+      </li>
+    </>
   );
 }
