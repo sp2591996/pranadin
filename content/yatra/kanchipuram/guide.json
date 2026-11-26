@@ -1,0 +1,333 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "kanchipuram",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "One day: the Shiva and Shakti temples",
+        "hi": { "text": "एक दिन: शिव और शक्ति मंदिर", "reviewed": false },
+        "mr": { "text": "एक दिवस: शिव आणि शक्ती मंदिरे", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Kamakshi Amman temple at opening time, then the Ekambareswarar temple nearby. Check locally for the current opening times.",
+              "hi": { "text": "खुलते ही कामाक्षी अम्मन मंदिर, फिर पास का एकांबरेश्वर मंदिर। वर्तमान खुलने के समय स्थानीय रूप से जाँचें।", "reviewed": false },
+              "mr": { "text": "उघडताच कामाक्षी अम्मन मंदिर, मग जवळचे एकांबरेश्वर मंदिर. सध्याच्या उघडण्याच्या वेळा स्थानिक पातळीवर तपासा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "A banana-leaf lunch, then a rest through the heat.",
+              "hi": { "text": "केले के पत्ते पर भोजन, फिर गर्मी में विश्राम।", "reviewed": false },
+              "mr": { "text": "केळीच्या पानावरील जेवण, मग उष्णतेत विश्रांती.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Varadharaja Perumal temple in Vishnu Kanchi, then a walk through the silk shops of the old streets.",
+              "hi": { "text": "विष्णु कांची में वरदराज पेरुमाल मंदिर, फिर पुरानी गलियों की रेशम की दुकानों में घूमना।", "reviewed": false },
+              "mr": { "text": "विष्णू कांचीतील वरदराज पेरुमाळ मंदिर, मग जुन्या रस्त्यांवरील रेशमाच्या दुकानांतून फेरफटका.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Two days: the temples, the looms and the lanes",
+        "hi": { "text": "दो दिन: मंदिर, करघे और गलियाँ", "reviewed": false },
+        "mr": { "text": "दोन दिवस: मंदिरे, हातमाग आणि गल्ल्या", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Kamakshi Amman temple at opening time, then the Ekambareswarar temple nearby.",
+              "hi": { "text": "खुलते ही कामाक्षी अम्मन मंदिर, फिर पास का एकांबरेश्वर मंदिर।", "reviewed": false },
+              "mr": { "text": "उघडताच कामाक्षी अम्मन मंदिर, मग जवळचे एकांबरेश्वर मंदिर.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "A banana-leaf lunch, then a rest through the heat.",
+              "hi": { "text": "केले के पत्ते पर भोजन, फिर गर्मी में विश्राम।", "reviewed": false },
+              "mr": { "text": "केळीच्या पानावरील जेवण, मग उष्णतेत विश्रांती.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Varadharaja Perumal temple in Vishnu Kanchi for the evening darshan.",
+              "hi": { "text": "शाम के दर्शन के लिए विष्णु कांची में वरदराज पेरुमाल मंदिर।", "reviewed": false },
+              "mr": { "text": "संध्याकाळच्या दर्शनासाठी विष्णू कांचीतील वरदराज पेरुमाळ मंदिर.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Kailasanathar temple at opening time, then a visit to a weaver's house to see the handloom.",
+              "hi": { "text": "खुलते ही कैलासनाथर मंदिर, फिर हथकरघे को देखने के लिए किसी बुनकर के घर का दौरा।", "reviewed": false },
+              "mr": { "text": "उघडताच कैलासनाथर मंदिर, मग हातमाग पाहण्यासाठी एखाद्या विणकराच्या घराला भेट.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest, then a slow walk through the weavers' lanes.",
+              "hi": { "text": "भोजन और विश्राम, फिर बुनकरों की गलियों में धीरे-धीरे घूमना।", "reviewed": false },
+              "mr": { "text": "जेवण आणि विश्रांती, मग विणकरांच्या गल्ल्यांमधून सावकाश फेरफटका.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Dinner of idli or dosa and an early night.",
+              "hi": { "text": "इडली या डोसे का रात का भोजन और जल्दी विश्राम।", "reviewed": false },
+              "mr": { "text": "इडली किंवा डोशाचे रात्रीचे जेवण आणि लवकर विश्रांती.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Three days: Kanchipuram and a day trip to Mahabalipuram",
+        "hi": { "text": "तीन दिन: कांचीपुरम और महाबलीपुरम की एक दिन की यात्रा", "reviewed": false },
+        "mr": { "text": "तीन दिवस: कांचीपुरम आणि महाबलीपुरमची एक दिवसाची सहल", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Arrive, settle in and have a breakfast of idli and filter coffee.",
+              "hi": { "text": "पहुँचें, ठहरने की जगह में बसें और इडली तथा फ़िल्टर कॉफ़ी का नाश्ता करें।", "reviewed": false },
+              "mr": { "text": "पोहोचा, राहण्याच्या जागी स्थिरावा आणि इडली व फिल्टर कॉफीचा नाश्ता करा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest, then the Kamakshi Amman temple late in the afternoon.",
+              "hi": { "text": "विश्राम, फिर देर दोपहर में कामाक्षी अम्मन मंदिर।", "reviewed": false },
+              "mr": { "text": "विश्रांती, मग उशिरा दुपारी कामाक्षी अम्मन मंदिर.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Evening darshan at the Ekambareswarar temple, then dinner.",
+              "hi": { "text": "एकांबरेश्वर मंदिर में शाम के दर्शन, फिर भोजन।", "reviewed": false },
+              "mr": { "text": "एकांबरेश्वर मंदिरात संध्याकाळचे दर्शन, मग जेवण.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Varadharaja Perumal temple at opening time, then the Kailasanathar temple.",
+              "hi": { "text": "खुलते ही वरदराज पेरुमाल मंदिर, फिर कैलासनाथर मंदिर।", "reviewed": false },
+              "mr": { "text": "उघडताच वरदराज पेरुमाळ मंदिर, मग कैलासनाथर मंदिर.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest, then a visit to a silk weaving house or a registered showroom.",
+              "hi": { "text": "भोजन और विश्राम, फिर रेशम बुनाई के घर या पंजीकृत शोरूम की यात्रा।", "reviewed": false },
+              "mr": { "text": "जेवण आणि विश्रांती, मग रेशीम विणकामाच्या घरी किंवा नोंदणीकृत शोरूमला भेट.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Walk the old streets, and buy silk only if you have checked the price.",
+              "hi": { "text": "पुरानी गलियों में घूमें, और रेशम तभी खरीदें जब कीमत जाँच ली हो।", "reviewed": false },
+              "mr": { "text": "जुन्या रस्त्यांवरून फिरा, आणि किंमत तपासली असेल तरच रेशमी साडी घ्या.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Drive to Mahabalipuram, about 70 km, for the Pallava shore temple and the rock-cut monuments.",
+              "hi": { "text": "लगभग 70 किमी दूर महाबलीपुरम जाएँ, पल्लव तट मंदिर और चट्टानों में तराशे स्मारक देखने के लिए।", "reviewed": false },
+              "mr": { "text": "सुमारे 70 किमी अंतरावरील महाबलीपुरमला जा, पल्लव किनारी मंदिर आणि खडकात कोरलेली स्मारके पाहण्यासाठी.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch by the sea, then the rock-cut carvings.",
+              "hi": { "text": "समुद्र के किनारे भोजन, फिर चट्टानों की नक्काशी।", "reviewed": false },
+              "mr": { "text": "समुद्राकाठी जेवण, मग खडकातील कोरीवकाम.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Return to Kanchipuram or Chennai by road, before dark.",
+              "hi": { "text": "अंधेरा होने से पहले सड़क से कांचीपुरम या चेन्नई लौटें।", "reviewed": false },
+              "mr": { "text": "अंधार होण्यापूर्वी रस्त्याने कांचीपुरम किंवा चेन्नईला परत या.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Near the old temples",
+        "hi": { "text": "पुराने मंदिरों के पास", "reviewed": false },
+        "mr": { "text": "जुन्या मंदिरांजवळ", "reviewed": false }
+      },
+      "body": {
+        "en": "Hotels and lodges near the Kamakshi and Ekambareswarar temples are within walking distance of the temples. Rooms are simple, and the lanes can be busy and noisy.",
+        "hi": { "text": "कामाक्षी और एकांबरेश्वर मंदिरों के पास होटल और लॉज मंदिरों तक पैदल पहुँच में हैं। कमरे सादे हैं, और गलियाँ भीड़ भरी व शोरगुल वाली हो सकती हैं।", "reviewed": false },
+        "mr": { "text": "कामाक्षी आणि एकांबरेश्वर मंदिरांजवळची हॉटेले आणि लॉज मंदिरांपर्यंत चालत जाण्याजोगी आहेत. खोल्या साध्या असतात, आणि गल्ल्या गर्दीच्या व गोंगाटाच्या असू शकतात.", "reviewed": false }
+      }
+    },
+    {
+      "title": {
+        "en": "Near the bus stand and the railway station",
+        "hi": { "text": "बस स्टैंड और रेलवे स्टेशन के पास", "reviewed": false },
+        "mr": { "text": "बस स्थानक आणि रेल्वे स्थानकाजवळ", "reviewed": false }
+      },
+      "body": {
+        "en": "Many budget and mid-range rooms are near the bus stand, a short auto ride from the temples. Convenient for travellers who arrive by road.",
+        "hi": { "text": "बजट और मध्यम श्रेणी के कई कमरे बस स्टैंड के पास हैं, जहाँ से मंदिर तक ऑटो का छोटा सफ़र है। सड़क से आने वाले यात्रियों के लिए सुविधाजनक।", "reviewed": false },
+        "mr": { "text": "बजेट आणि मध्यम श्रेणीच्या अनेक खोल्या बस स्थानकाजवळ आहेत, जिथून मंदिरांपर्यंत ऑटोने थोडे अंतर आहे. रस्त्याने येणाऱ्या प्रवाशांसाठी सोयीचे.", "reviewed": false }
+      }
+    },
+    {
+      "title": {
+        "en": "Chennai for a comfort stay",
+        "hi": { "text": "आरामदायक ठहराव के लिए चेन्नई", "reviewed": false },
+        "mr": { "text": "आरामदायी मुक्कामासाठी चेन्नई", "reviewed": false }
+      },
+      "body": {
+        "en": "Many visitors stay in Chennai, about 72 km away, for a wider choice of hotels and flights, and make Kanchipuram a day trip.",
+        "hi": { "text": "कई यात्री लगभग 72 किमी दूर चेन्नई में ठहरते हैं, जहाँ होटल और उड़ानों की अधिक पसंद है, और कांचीपुरम की यात्रा एक दिन की करते हैं।", "reviewed": false },
+        "mr": { "text": "अनेक प्रवासी सुमारे 72 किमी अंतरावरील चेन्नईत राहतात, जिथे हॉटेले आणि विमानांची अधिक निवड आहे, आणि कांचीपुरमची सहल एका दिवसाची करतात.", "reviewed": false }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "Idli, dosa and filter coffee",
+        "hi": { "text": "इडली, डोसा और फ़िल्टर कॉफ़ी", "reviewed": false },
+        "mr": { "text": "इडली, डोसा आणि फिल्टर कॉफी", "reviewed": false }
+      },
+      "body": {
+        "en": "Soft idlis with sambar and chutney, crisp dosas and filter coffee, served from early morning at small tiffin houses. Ven pongal, a savoury rice and lentil dish, is a common breakfast.",
+        "hi": { "text": "सांभर और चटनी के साथ नरम इडली, कुरकुरे डोसे और फ़िल्टर कॉफ़ी, सुबह से छोटे टिफ़िन घरों में मिलते हैं। वेन पोंगल, मसालेदार चावल और दाल का व्यंजन, आम नाश्ता है।", "reviewed": false },
+        "mr": { "text": "सांबार आणि चटणीसह मऊ इडल्या, कुरकुरीत डोसे आणि फिल्टर कॉफी, सकाळपासून लहान टिफिन उपाहारगृहांत मिळतात. वेन पोंगल, मसालेदार भात आणि डाळीचा पदार्थ, हा सामान्य नाश्ता आहे.", "reviewed": false }
+      }
+    },
+    {
+      "title": {
+        "en": "Temple prasadam and sweet pongal",
+        "hi": { "text": "मंदिर का प्रसाद और मीठा पोंगल", "reviewed": false },
+        "mr": { "text": "मंदिर प्रसाद आणि गोड पोंगल", "reviewed": false }
+      },
+      "body": {
+        "en": "Pongal and sweet pongal are often offered as temple prasadam. Prasadam is usually simple and is often prepared without onion or garlic.",
+        "hi": { "text": "पोंगल और मीठा पोंगल प्रायः मंदिर प्रसाद के रूप में दिए जाते हैं। प्रसाद आमतौर पर सादा होता है और अक्सर प्याज-लहसुन के बिना बनता है।", "reviewed": false },
+        "mr": { "text": "पोंगल आणि गोड पोंगल अनेकदा मंदिर प्रसाद म्हणून दिला जातो. प्रसाद सहसा साधा असतो आणि अनेकदा कांदा-लसूण न घालता बनवलेला असतो.", "reviewed": false }
+      }
+    },
+    {
+      "title": {
+        "en": "Banana-leaf meals",
+        "hi": { "text": "केले के पत्ते पर भोजन", "reviewed": false },
+        "mr": { "text": "केळीच्या पानावरील जेवण", "reviewed": false }
+      },
+      "body": {
+        "en": "A full vegetarian lunch of rice, sambar, rasam, curries, curd and payasam, served on a banana leaf at many pure vegetarian restaurants.",
+        "hi": { "text": "कई शुद्ध शाकाहारी भोजनालयों में केले के पत्ते पर चावल, सांभर, रसम, सब्ज़ियाँ, दही और पायसम का पूरा शाकाहारी भोजन।", "reviewed": false },
+        "mr": { "text": "अनेक शुद्ध शाकाहारी उपाहारगृहांत केळीच्या पानावर भात, सांबार, रसम, भाज्या, दही आणि पायसम असे पूर्ण शाकाहारी जेवण.", "reviewed": false }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Vegetarian food is the norm in the temple area, and many restaurants are pure vegetarian. Temple prasadam is simple and often prepared without onion or garlic. Ask before ordering if you avoid onion and garlic, as some dishes include them.",
+    "hi": { "text": "मंदिर क्षेत्र में शाकाहारी भोजन सामान्य है और कई भोजनालय शुद्ध शाकाहारी हैं। मंदिर का प्रसाद सरल होता है और प्रायः प्याज-लहसुन के बिना बनता है। प्याज-लहसुन से परहेज़ हो तो ऑर्डर से पहले पूछें, क्योंकि कुछ व्यंजनों में ये होते हैं।", "reviewed": false },
+    "mr": { "text": "मंदिर परिसरात शाकाहारी जेवण सामान्य आहे आणि अनेक उपाहारगृहे शुद्ध शाकाहारी आहेत. मंदिराचा प्रसाद साधा असतो आणि अनेकदा कांदा-लसूण न घालता बनवलेला असतो. कांदा-लसूण वर्ज्य असेल तर मागवण्यापूर्वी विचारा, कारण काही पदार्थांत ते असतात.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 800, "max": 1500 },
+      "mid": { "min": 2000, "max": 4000 },
+      "comfort": { "min": 5000, "max": 9000 }
+    },
+    "note": {
+      "en": "Indicative rupees per person per day for stay, food and local transport, assuming two people sharing a room. Prices rise in festival and wedding season. Check current rates.",
+      "hi": { "text": "ठहरने, भोजन और स्थानीय परिवहन के लिए प्रति व्यक्ति प्रति दिन सांकेतिक रुपये, दो लोगों के एक कमरा साझा करने की मान्यता पर। उत्सव और विवाह के मौसम में दरें बढ़ती हैं। वर्तमान दरें जाँच लें।", "reviewed": false },
+      "mr": { "text": "राहणे, जेवण आणि स्थानिक वाहतुकीसाठी प्रति व्यक्ती प्रति दिवस सूचक रुपये, दोन जणांनी एक खोली वाटून घेतली असे गृहीत धरून. उत्सव आणि लग्नाच्या हंगामात दर वाढतात. सध्याचे दर तपासा.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Heat is the main risk from March to June. Visit the temples early or late in the day, and carry water.",
+      "hi": { "text": "मार्च से जून तक गर्मी मुख्य जोखिम है। मंदिर सुबह जल्दी या शाम को जाएँ और पानी साथ रखें।", "reviewed": false },
+      "mr": { "text": "मार्च ते जून उष्णता हा मुख्य धोका आहे. मंदिरांना सकाळी लवकर किंवा संध्याकाळी भेट द्या आणि पाणी सोबत ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Drink only bottled or filtered water, and eat freshly cooked food. Carry any regular medicines and oral rehydration salts.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी पिएँ और ताज़ा पका भोजन खाएँ। अपनी नियमित दवाएँ और ओआरएस साथ रखें।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी प्या आणि ताजे शिजवलेले अन्न खा. आपली नियमित औषधे आणि ओआरएस सोबत ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "During the northeast monsoon (October to December), temple floors and streets can be wet and slippery. Walk slowly. This guide is general information and does not replace medical advice.",
+      "hi": { "text": "उत्तर-पूर्वी मानसून (अक्टूबर से दिसंबर) में मंदिर का फ़र्श और गलियाँ गीली और फिसलन भरी हो सकती हैं। धीरे चलें। यह मार्गदर्शिका सामान्य जानकारी है और चिकित्सकीय सलाह का स्थान नहीं लेती।", "reviewed": false },
+      "mr": { "text": "ईशान्य मान्सूनमध्ये (ऑक्टोबर ते डिसेंबर) मंदिराची फरशी आणि गल्ल्या ओल्या व निसरड्या असू शकतात. सावकाश चाला. हे मार्गदर्शन सामान्य माहिती आहे आणि वैद्यकीय सल्ल्याला पर्याय नाही.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly for temples, with shoulders and knees covered, and remove footwear before entering.",
+      "hi": { "text": "मंदिरों के लिए शालीन कपड़े पहनें, कंधे और घुटने ढकें, और प्रवेश से पहले जूते-चप्पल उतारें।", "reviewed": false },
+      "mr": { "text": "मंदिरांसाठी सभ्य कपडे घाला, खांदे आणि गुडघे झाका आणि प्रवेशापूर्वी पादत्राणे काढा.", "reviewed": false }
+    },
+    {
+      "en": "Check the rules on phones and cameras at each temple, and do not photograph the deities or other worshippers.",
+      "hi": { "text": "हर मंदिर में फ़ोन और कैमरे के नियम जाँचें, और देवताओं या अन्य श्रद्धालुओं की तस्वीर न लें।", "reviewed": false },
+      "mr": { "text": "प्रत्येक मंदिरातील फोन आणि कॅमेऱ्यांचे नियम तपासा, आणि देवता किंवा इतर भाविकांचे फोटो काढू नका.", "reviewed": false }
+    },
+    {
+      "en": "Priests and guides may approach you. You may politely decline, and agree any fee for a puja or guide before it begins.",
+      "hi": { "text": "पुजारी और गाइड आपसे संपर्क कर सकते हैं। आप विनम्रता से मना कर सकते हैं, और पूजा या गाइड का शुल्क शुरू होने से पहले तय करें।", "reviewed": false },
+      "mr": { "text": "पुजारी आणि मार्गदर्शक तुमच्याशी संपर्क साधू शकतात. तुम्ही नम्रपणे नकार देऊ शकता, आणि पूजा किंवा मार्गदर्शकाचे शुल्क सुरू होण्यापूर्वी ठरवा.", "reviewed": false }
+    },
+    {
+      "en": "Walk clockwise around shrines and keep to the queue. Do not touch the carved pillars without permission.",
+      "hi": { "text": "देवालयों की प्रदक्षिणा घड़ी की दिशा में करें, कतार में रहें और अनुमति के बिना नक्काशीदार स्तंभों को न छुएँ।", "reviewed": false },
+      "mr": { "text": "देवळांभोवती घड्याळाच्या दिशेने प्रदक्षिणा करा, रांगेत राहा आणि परवानगीशिवाय कोरीव स्तंभांना स्पर्श करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Buy silk only from a known shop or a registered showroom, and bargain politely.",
+      "hi": { "text": "रेशम केवल जानी-मानी दुकान या पंजीकृत शोरूम से लें, और विनम्रता से मोल-भाव करें।", "reviewed": false },
+      "mr": { "text": "रेशमी साडी फक्त ओळखीच्या दुकानातून किंवा नोंदणीकृत शोरूममधून घ्या, आणि नम्रपणे भाव करा.", "reviewed": false }
+    }
+  ]
+}

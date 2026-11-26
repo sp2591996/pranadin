@@ -1,0 +1,333 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "konark",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "One day: the Sun Temple and the beach",
+        "hi": { "text": "एक दिन: सूर्य मंदिर और समुद्र तट", "reviewed": false },
+        "mr": { "text": "एक दिवस: सूर्य मंदिर आणि समुद्रकिनारा", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Reach the Sun Temple at opening time, when the light is soft and the crowds are small. Walk the platform, the wheels and the carved walls. Check locally for the current opening time.",
+              "hi": { "text": "खुलते ही सूर्य मंदिर पहुँचें, जब रोशनी कोमल और भीड़ कम होती है। चबूतरे, पहियों और नक्काशीदार दीवारों के बीच घूमें। वर्तमान खुलने का समय स्थानीय रूप से जाँचें।", "reviewed": false },
+              "mr": { "text": "उघडताच सूर्य मंदिरात पोहोचा, जेव्हा प्रकाश मऊ आणि गर्दी कमी असते. चौथरा, चाके आणि कोरीव भिंती पाहा. सध्याची उघडण्याची वेळ स्थानिक पातळीवर तपासा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Visit the Konark Archaeological Museum, then have lunch and rest through the hot hours.",
+              "hi": { "text": "कोणार्क पुरातत्व संग्रहालय देखें, फिर भोजन करें और गर्म घंटों में विश्राम करें।", "reviewed": false },
+              "mr": { "text": "कोणार्क पुरातत्त्व संग्रहालय पाहा, मग जेवण करा आणि उष्ण तासांत विश्रांती घ्या.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Go to Chandrabhaga beach for the sunset and a short walk along the shore. Swim only where it is marked.",
+              "hi": { "text": "सूर्यास्त के लिए चंद्रभागा समुद्र तट जाएँ और तट पर थोड़ी देर टहलें। तैराकी केवल चिह्नित क्षेत्र में करें।", "reviewed": false },
+              "mr": { "text": "सूर्यास्तासाठी चंद्रभागा समुद्रकिनाऱ्यावर जा आणि किनाऱ्यावर थोडा फेरफटका मारा. पोहणे फक्त चिन्हांकित क्षेत्रातच करा.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Two days: the temple, then Puri beach",
+        "hi": { "text": "दो दिन: मंदिर, फिर पुरी का समुद्र तट", "reviewed": false },
+        "mr": { "text": "दोन दिवस: मंदिर, मग पुरीचा समुद्रकिनारा", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Konark Sun Temple at opening time, then the Nata Mandir dance hall and the carved walls.",
+              "hi": { "text": "खुलते ही कोणार्क सूर्य मंदिर, फिर नट मंदिर नृत्य मंडप और नक्काशीदार दीवारें।", "reviewed": false },
+              "mr": { "text": "उघडताच कोणार्क सूर्य मंदिर, मग नट मंदिर नृत्य मंडप आणि कोरीव भिंती.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest, then the Konark Archaeological Museum.",
+              "hi": { "text": "भोजन और विश्राम, फिर कोणार्क पुरातत्व संग्रहालय।", "reviewed": false },
+              "mr": { "text": "जेवण आणि विश्रांती, मग कोणार्क पुरातत्त्व संग्रहालय.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Chandrabhaga beach at sunset.",
+              "hi": { "text": "सूर्यास्त के समय चंद्रभागा समुद्र तट।", "reviewed": false },
+              "mr": { "text": "सूर्यास्तावेळी चंद्रभागा समुद्रकिनारा.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Drive to Puri, about 35 km, and see the sea front in the early morning.",
+              "hi": { "text": "सुबह जल्दी लगभग 35 किमी दूर पुरी जाएँ और समुद्र तट का नज़ारा देखें।", "reviewed": false },
+              "mr": { "text": "पहाटे लवकर सुमारे 35 किमी अंतरावरील पुरीला जा आणि समुद्रकिनाऱ्याचा देखावा पाहा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest in Puri, then the local markets for Odisha handicrafts.",
+              "hi": { "text": "पुरी में भोजन और विश्राम, फिर ओडिशा की हस्तशिल्प के लिए स्थानीय बाज़ार।", "reviewed": false },
+              "mr": { "text": "पुरीत जेवण आणि विश्रांती, मग ओडिशाच्या हस्तकलेसाठी स्थानिक बाजार.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Return to Konark and enjoy a quiet evening by the sea.",
+              "hi": { "text": "कोणार्क लौटें और समुद्र के किनारे शांत शाम बिताएँ।", "reviewed": false },
+              "mr": { "text": "कोणार्कला परत या आणि समुद्राकाठी शांत संध्याकाळ घालवा.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Three days: Konark, Puri and Bhubaneswar",
+        "hi": { "text": "तीन दिन: कोणार्क, पुरी और भुवनेश्वर", "reviewed": false },
+        "mr": { "text": "तीन दिवस: कोणार्क, पुरी आणि भुवनेश्वर", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Arrive in Konark, settle in and have an Odia breakfast.",
+              "hi": { "text": "कोणार्क पहुँचें, ठहरने की जगह में बसें और ओड़िया नाश्ता करें।", "reviewed": false },
+              "mr": { "text": "कोणार्कला पोहोचा, राहण्याच्या जागी स्थिरावा आणि ओडिया नाश्ता करा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest, then visit Chandrabhaga beach for the late afternoon light.",
+              "hi": { "text": "विश्राम, फिर देर दोपहर की रोशनी में चंद्रभागा समुद्र तट।", "reviewed": false },
+              "mr": { "text": "विश्रांती, मग उशिरा दुपारच्या प्रकाशात चंद्रभागा समुद्रकिनारा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Walk through the village and eat a simple Odia thali for dinner.",
+              "hi": { "text": "गाँव में टहलें और रात के भोजन में सादी ओड़िया थाली लें।", "reviewed": false },
+              "mr": { "text": "गावात फेरफटका मारा आणि रात्रीच्या जेवणात साधी ओडिया थाळी घ्या.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Konark Sun Temple at opening time, with a local guide if you agree the fee first.",
+              "hi": { "text": "खुलते ही कोणार्क सूर्य मंदिर, यदि शुल्क पहले तय कर लें तो स्थानीय गाइड के साथ।", "reviewed": false },
+              "mr": { "text": "उघडताच कोणार्क सूर्य मंदिर, आधी शुल्क ठरवले असेल तर स्थानिक मार्गदर्शकासह.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest, then the Konark Archaeological Museum.",
+              "hi": { "text": "भोजन और विश्राम, फिर कोणार्क पुरातत्व संग्रहालय।", "reviewed": false },
+              "mr": { "text": "जेवण आणि विश्रांती, मग कोणार्क पुरातत्त्व संग्रहालय.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Enjoy an unhurried evening on the beach road, then an early night.",
+              "hi": { "text": "समुद्र तट की सड़क पर शाम अपनी गति से बिताएँ, फिर जल्दी विश्राम।", "reviewed": false },
+              "mr": { "text": "समुद्रकिनारी रस्त्यावर निवांत संध्याकाळ घालवा, मग लवकर विश्रांती.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Drive to Bhubaneswar, about 65 km, and visit its old temples in the cooler morning hours.",
+              "hi": { "text": "लगभग 65 किमी दूर भुवनेश्वर जाएँ और सुबह की ठंडी घड़ियों में वहाँ के प्राचीन मंदिर देखें।", "reviewed": false },
+              "mr": { "text": "सुमारे 65 किमी अंतरावरील भुवनेश्वरला जा आणि सकाळच्या थंड वेळेत तेथील प्राचीन मंदिरे पाहा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest, then a museum or the city markets.",
+              "hi": { "text": "भोजन और विश्राम, फिर कोई संग्रहालय या शहर के बाज़ार।", "reviewed": false },
+              "mr": { "text": "जेवण आणि विश्रांती, मग एखादे संग्रहालय किंवा शहरातील बाजार.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Return towards Konark or continue your journey. Check the timing of the last bus or train.",
+              "hi": { "text": "कोणार्क की ओर लौटें या यात्रा आगे बढ़ाएँ। अंतिम बस या ट्रेन का समय जाँच लें।", "reviewed": false },
+              "mr": { "text": "कोणार्ककडे परत या किंवा प्रवास पुढे न्या. शेवटच्या बस किंवा रेल्वेची वेळ तपासा.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Konark village and guesthouses",
+        "hi": { "text": "कोणार्क गाँव और अतिथिगृह", "reviewed": false },
+        "mr": { "text": "कोणार्क गाव आणि अतिथिगृहे", "reviewed": false }
+      },
+      "body": {
+        "en": "Small guesthouses and simple hotels are close to the Sun Temple, so you can visit at opening time. Choice is limited, and rooms fill quickly in the winter festival season.",
+        "hi": { "text": "छोटे अतिथिगृह और सादे होटल सूर्य मंदिर के पास हैं, इसलिए खुलते समय दर्शन संभव है। विकल्प सीमित हैं और सर्दी के उत्सव के मौसम में कमरे जल्दी भर जाते हैं।", "reviewed": false },
+        "mr": { "text": "लहान अतिथिगृहे आणि साधी हॉटेले सूर्य मंदिराजवळ आहेत, त्यामुळे उघडताच दर्शन शक्य होते. पर्याय मर्यादित आहेत आणि हिवाळ्यातील उत्सवाच्या काळात खोल्या लवकर भरतात.", "reviewed": false }
+      }
+    },
+    {
+      "title": {
+        "en": "Puri town",
+        "hi": { "text": "पुरी नगर", "reviewed": false },
+        "mr": { "text": "पुरी शहर", "reviewed": false }
+      },
+      "body": {
+        "en": "About 35 km away, Puri offers more hotel choice at most price levels, with the beach close by. Plan for a longer road journey to Konark each morning.",
+        "hi": { "text": "लगभग 35 किमी दूर पुरी में अधिकांश कीमतों पर होटलों की अधिक पसंद है और समुद्र तट पास है। हर सुबह कोणार्क तक लंबी सड़क यात्रा का ध्यान रखें।", "reviewed": false },
+        "mr": { "text": "सुमारे 35 किमी अंतरावरील पुरीत बहुतेक दरांत हॉटेलांची अधिक निवड आहे आणि समुद्रकिनारा जवळ आहे. दररोज सकाळी कोणार्कपर्यंतच्या लांब रस्ते प्रवासाचे नियोजन करा.", "reviewed": false }
+      }
+    },
+    {
+      "title": {
+        "en": "Bhubaneswar",
+        "hi": { "text": "भुवनेश्वर", "reviewed": false },
+        "mr": { "text": "भुवनेश्वर", "reviewed": false }
+      },
+      "body": {
+        "en": "The state capital, about 65 km away, has many hotels at every level and better rail links. Good for a comfortable stay and for the Bhubaneswar day trip.",
+        "hi": { "text": "लगभग 65 किमी दूर राज्य की राजधानी भुवनेश्वर में हर स्तर के कई होटल हैं और बेहतर रेल संपर्क है। आरामदायक ठहराव और भुवनेश्वर की यात्रा के लिए अच्छा।", "reviewed": false },
+        "mr": { "text": "सुमारे 65 किमी अंतरावरील राज्याची राजधानी भुवनेश्वरमध्ये सर्व स्तरांवर अनेक हॉटेले आहेत आणि रेल्वे संपर्कही चांगला आहे. आरामदायी मुक्कामासाठी आणि भुवनेश्वर सहलीसाठी चांगले.", "reviewed": false }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "Odia thali",
+        "hi": { "text": "ओड़िया थाली", "reviewed": false },
+        "mr": { "text": "ओडिया थाळी", "reviewed": false }
+      },
+      "body": {
+        "en": "A thali of rice, dal, vegetable dishes and sweets, often with dalma, a lentil and vegetable stew. Many small eateries serve it at lunch.",
+        "hi": { "text": "चावल, दाल, सब्ज़ी और मिठाई की थाली, प्रायः दालमा के साथ, जो दाल और सब्ज़ियों का स्टू है। दोपहर में कई छोटे भोजनालय इसे परोसते हैं।", "reviewed": false },
+        "mr": { "text": "भात, डाळ, भाज्या आणि गोड पदार्थांची थाळी, अनेकदा दालमासह, जो डाळ आणि भाज्यांचा स्ट्यू आहे. दुपारी अनेक लहान उपाहारगृहे ती देतात.", "reviewed": false }
+      }
+    },
+    {
+      "title": {
+        "en": "Chhena poda",
+        "hi": { "text": "छेना पोड़ा", "reviewed": false },
+        "mr": { "text": "छेना पोडा", "reviewed": false }
+      },
+      "body": {
+        "en": "A baked dessert of chhena, a soft cottage cheese, with sugar and cardamom, and a signature sweet of Odisha. Buy it from a well-known sweet shop with fresh stock.",
+        "hi": { "text": "छेना, एक नरम पनीर, चीनी और इलायची से बनी पकी हुई मिठाई, जो ओडिशा की पहचान है। ताज़ा स्टॉक वाली प्रसिद्ध मिठाई की दुकान से लें।", "reviewed": false },
+        "mr": { "text": "छेना, एक मऊ पनीर, साखर आणि वेलचीपासून बनलेली भाजलेली मिठाई, जी ओडिशाची ओळख आहे. ताजा माल असलेल्या ओळखीच्या मिठाईच्या दुकानातून घ्या.", "reviewed": false }
+      }
+    },
+    {
+      "title": {
+        "en": "Coastal meals and vegetarian choices",
+        "hi": { "text": "तटीय भोजन और शाकाहारी विकल्प", "reviewed": false },
+        "mr": { "text": "किनारपट्टीवरील जेवण आणि शाकाहारी पर्याय", "reviewed": false }
+      },
+      "body": {
+        "en": "Coastal restaurants serve fish and prawns, and many small eateries are vegetarian. Ask about the cooking oil and spices if you have a preference.",
+        "hi": { "text": "तटीय भोजनालयों में मछली और झींगे मिलते हैं, और कई छोटे भोजनालय शाकाहारी हैं। पसंद हो तो तेल और मसालों के बारे में पूछ लें।", "reviewed": false },
+        "mr": { "text": "किनारपट्टीवरील उपाहारगृहांत मासे आणि कोळंबी मिळतात, आणि अनेक लहान उपाहारगृहे शाकाहारी आहेत. आवड असल्यास तेल आणि मसाल्यांबद्दल विचारा.", "reviewed": false }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Many small eateries in Konark are vegetarian, and dal and rice meals are easy to find. Coastal restaurants often use fish and prawns, so for a strictly vegetarian meal ask before you order and check whether onion and garlic are used.",
+    "hi": { "text": "कोणार्क के कई छोटे भोजनालय शाकाहारी हैं, और दाल-चावल का भोजन आसानी से मिलता है। तटीय भोजनालयों में अक्सर मछली और झींगे होते हैं, इसलिए पूर्ण शाकाहारी भोजन के लिए ऑर्डर से पहले पूछें और जाँचें कि प्याज-लहसुन डाला गया है या नहीं।", "reviewed": false },
+    "mr": { "text": "कोणार्कमधील अनेक लहान उपाहारगृहे शाकाहारी आहेत, आणि डाळ-भाताचे जेवण सहज मिळते. किनारपट्टीवरील उपाहारगृहांत अनेकदा मासे आणि कोळंबी असते, म्हणून पूर्ण शाकाहारी जेवणासाठी मागवण्यापूर्वी विचारा आणि कांदा-लसूण वापरला आहे का ते तपासा.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 800, "max": 1600 },
+      "mid": { "min": 2000, "max": 4000 },
+      "comfort": { "min": 5000, "max": 9000 }
+    },
+    "note": {
+      "en": "Indicative rupees per person per day for stay, food and local transport, assuming two people sharing a room. Prices rise in festival season and at weekends. Check current rates.",
+      "hi": { "text": "ठहरने, भोजन और स्थानीय परिवहन के लिए प्रति व्यक्ति प्रति दिन सांकेतिक रुपये, दो लोगों के एक कमरा साझा करने की मान्यता पर। उत्सव के मौसम और सप्ताहांत में दरें बढ़ती हैं। वर्तमान दरें जाँच लें।", "reviewed": false },
+      "mr": { "text": "राहणे, जेवण आणि स्थानिक वाहतुकीसाठी प्रति व्यक्ती प्रति दिवस सूचक रुपये, दोन जणांनी एक खोली वाटून घेतली असे गृहीत धरून. उत्सवाच्या काळात आणि आठवड्याच्या शेवटी दर वाढतात. सध्याचे दर तपासा.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Heat and sun are the main risks. The site has little shade, so visit early, carry water, use sunscreen and wear a hat.",
+      "hi": { "text": "गर्मी और धूप मुख्य जोखिम हैं। यहाँ छाया कम है, इसलिए सुबह जाएँ, पानी साथ रखें, धूप से बचाव करें और टोपी पहनें।", "reviewed": false },
+      "mr": { "text": "उष्णता आणि ऊन हे मुख्य धोके आहेत. येथे सावली कमी आहे, म्हणून सकाळी जा, पाणी सोबत ठेवा, सनस्क्रीन लावा आणि टोपी घाला.", "reviewed": false }
+    },
+    {
+      "en": "Drink only bottled or filtered water, and eat freshly cooked food. Carry any regular medicines and oral rehydration salts.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी पिएँ और ताज़ा पका भोजन खाएँ। अपनी नियमित दवाएँ और ओआरएस साथ रखें।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी प्या आणि ताजे शिजवलेले अन्न खा. आपली नियमित औषधे आणि ओआरएस सोबत ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "The sea is rough at times, and the coast can have strong currents. Swim only in marked areas and follow lifeguard advice. This guide is general information and does not replace medical advice.",
+      "hi": { "text": "समुद्र कभी-कभी उग्र होता है और तट पर तेज़ धाराएँ हो सकती हैं। केवल चिह्नित क्षेत्र में तैरें और जीवन रक्षकों की सलाह मानें। यह मार्गदर्शिका सामान्य जानकारी है और चिकित्सकीय सलाह का स्थान नहीं लेती।", "reviewed": false },
+      "mr": { "text": "समुद्र कधी खवळलेला असतो आणि किनाऱ्यावर जोरदार प्रवाह असू शकतात. फक्त चिन्हांकित क्षेत्रातच पोहा आणि जीवरक्षकांच्या सूचना पाळा. हे मार्गदर्शन सामान्य माहिती आहे आणि वैद्यकीय सल्ल्याला पर्याय नाही.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly and follow the signs about footwear at each building.",
+      "hi": { "text": "शालीन कपड़े पहनें और हर भवन में जूते-चप्पल के संकेतों का पालन करें।", "reviewed": false },
+      "mr": { "text": "सभ्य कपडे घाला आणि प्रत्येक वास्तूत पादत्राणांबाबतच्या फलकांचे पालन करा.", "reviewed": false }
+    },
+    {
+      "en": "Do not climb on the platform, the wheels or the sculptures, and do not touch the carvings.",
+      "hi": { "text": "चबूतरे, पहियों या मूर्तियों पर न चढ़ें और नक्काशी को न छुएँ।", "reviewed": false },
+      "mr": { "text": "चौथरा, चाके किंवा शिल्पांवर चढू नका आणि कोरीवकामाला स्पर्श करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Guides may approach you at the gate. Agree the fee and the length of the tour before it begins, and you may politely decline.",
+      "hi": { "text": "द्वार पर गाइड आपसे संपर्क कर सकते हैं। भ्रमण शुरू होने से पहले शुल्क और अवधि तय करें। आप विनम्रता से मना भी कर सकते हैं।", "reviewed": false },
+      "mr": { "text": "प्रवेशद्वारावर मार्गदर्शक तुमच्याशी संपर्क साधू शकतात. फेरी सुरू होण्यापूर्वी शुल्क आणि कालावधी ठरवा. तुम्ही नम्रपणे नकारही देऊ शकता.", "reviewed": false }
+    },
+    {
+      "en": "Keep the site clean, do not litter, and use the bins provided. Keep your voice low near the monument.",
+      "hi": { "text": "स्थल को साफ़ रखें, कचरा न फैलाएँ और दिए गए डिब्बों का उपयोग करें। स्मारक के पास धीमी आवाज़ में बोलें।", "reviewed": false },
+      "mr": { "text": "स्थळ स्वच्छ ठेवा, कचरा टाकू नका आणि दिलेल्या कचराकुंड्यांचा वापर करा. स्मारकाजवळ हळू आवाजात बोला.", "reviewed": false }
+    },
+    {
+      "en": "Check the photography rules at each site, as some places limit cameras or tripods.",
+      "hi": { "text": "हर स्थल पर फ़ोटोग्राफी के नियम जाँचें, क्योंकि कुछ स्थानों पर कैमरा या तिपाई पर रोक है।", "reviewed": false },
+      "mr": { "text": "प्रत्येक स्थळावरील छायाचित्रणाचे नियम तपासा, कारण काही ठिकाणी कॅमेरा किंवा ट्रायपॉडवर बंदी असते.", "reviewed": false }
+    }
+  ]
+}

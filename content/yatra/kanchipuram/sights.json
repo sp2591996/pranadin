@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "kanchipuram",
+  "sights": [
+    {
+      "id": "kamakshi-amman-temple",
+      "name": { "en": "Kamakshi Amman Temple", "hi": { "text": "कामाक्षी अम्मन मंदिर", "reviewed": false }, "mr": { "text": "कामाक्षी अम्मन मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The Shakti shrine of Goddess Kamakshi (Parvati), closely linked with the Sri Chakra and with the tradition of Adi Shankara. It is one of the most visited temples in the city. Allow one to two hours.",
+        "hi": { "text": "देवी कामाक्षी (पार्वती) का शक्ति मंदिर, जो श्रीचक्र और आदि शंकराचार्य की परंपरा से गहराई से जुड़ा है। नगर के सबसे अधिक दर्शनीय मंदिरों में से एक। एक से दो घंटे रखें।", "reviewed": false },
+        "mr": { "text": "देवी कामाक्षी (पार्वती) यांचे शक्ती मंदिर, जे श्रीचक्र आणि आदि शंकराचार्य परंपरेशी जवळून जोडलेले आहे. शहरातील सर्वाधिक भेट दिल्या जाणाऱ्या मंदिरांपैकी एक. एक ते दोन तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open early morning to midday and again in the evening, with a midday closure. Check locally, as hours change on festival days.",
+        "hi": { "text": "आमतौर पर सुबह जल्दी से दोपहर तक और फिर शाम को खुला रहता है, दोपहर में बंद। उत्सव के दिनों में समय बदलता है, इसलिए स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटे लवकर ते दुपारपर्यंत आणि पुन्हा संध्याकाळी उघडे असते, दुपारी बंद. उत्सवाच्या दिवशी वेळा बदलतात, म्हणून स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest traditional clothes with shoulders and knees covered. Footwear comes off at the entrance. Phones and large bags may need to be left at the cloakroom at the gate, so check first.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन पारंपरिक कपड़े। प्रवेश पर जूते-चप्पल उतारें। फ़ोन और बड़े बैग द्वार के क्लोकरूम में रखने पड़ सकते हैं, इसलिए पहले पूछ लें।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे सभ्य पारंपरिक कपडे. प्रवेशद्वारी पादत्राणे काढा. फोन आणि मोठ्या पिशव्या प्रवेशद्वारावरील क्लोकरूममध्ये ठेवाव्या लागू शकतात, म्हणून आधी विचारा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "ekambareswarar-temple",
+      "name": { "en": "Ekambareswarar Temple", "hi": { "text": "एकांबरेश्वर मंदिर", "reviewed": false }, "mr": { "text": "एकांबरेश्वर मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A large Shiva temple with a 59-metre gopuram, where Shiva is worshipped as the earth lingam under an ancient mango tree. It is one of the five Pancha Bhuta temples. Allow one to two hours.",
+        "hi": { "text": "59 मीटर ऊँचे गोपुरम वाला विशाल शिव मंदिर, जहाँ शिव की पूजा प्राचीन आम के वृक्ष के नीचे पृथ्वी लिंग के रूप में होती है। यह पंचभूत स्थलों में से एक है। एक से दो घंटे रखें।", "reviewed": false },
+        "mr": { "text": "59 मीटर उंच गोपुर असलेले मोठे शिव मंदिर, जेथे प्राचीन आंब्याच्या झाडाखाली शिवाची पूजा पृथ्वी लिंग म्हणून होते. हे पंचभूत स्थळांपैकी एक आहे. एक ते दोन तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open early morning to midday and in the evening, with a midday closure. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह जल्दी से दोपहर तक और शाम को खुला, दोपहर में बंद। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटे लवकर ते दुपारपर्यंत आणि संध्याकाळी उघडे, दुपारी बंद. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest traditional clothes with shoulders and knees covered, and footwear off at the entrance.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन पारंपरिक कपड़े, और प्रवेश पर जूते-चप्पल उतारें।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे सभ्य पारंपरिक कपडे, आणि प्रवेशद्वारी पादत्राणे काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "varadharaja-perumal-temple",
+      "name": { "en": "Varadharaja Perumal Temple", "hi": { "text": "वरदराज पेरुमाल मंदिर", "reviewed": false }, "mr": { "text": "वरदराज पेरुमाळ मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "One of the 108 Divya Desams of Vishnu and the largest Vishnu temple in the city, spread over a wide precinct of about 23 acres. It stands in Vishnu Kanchi. Allow about two hours.",
+        "hi": { "text": "विष्णु के 108 दिव्य देशों में से एक और नगर का सबसे बड़ा विष्णु मंदिर, लगभग 23 एकड़ के विस्तृत परिसर में। यह विष्णु कांची में है। लगभग दो घंटे रखें।", "reviewed": false },
+        "mr": { "text": "विष्णूच्या 108 दिव्य देशांपैकी एक आणि शहरातील सर्वात मोठे विष्णू मंदिर, सुमारे 23 एकरच्या विस्तृत परिसरात. हे विष्णू कांचीमध्ये आहे. सुमारे दोन तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open early morning to midday and again in the evening, with a midday closure. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह जल्दी से दोपहर तक और फिर शाम को खुला, दोपहर में बंद। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा पहाटे लवकर ते दुपारपर्यंत आणि पुन्हा संध्याकाळी उघडे, दुपारी बंद. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest traditional clothes, shoulders and knees covered. Footwear off, and check at the gate whether leather items are allowed.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन पारंपरिक कपड़े। जूते-चप्पल उतारें, और द्वार पर पूछ लें कि चमड़े की वस्तुएँ अनुमत हैं या नहीं।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे सभ्य पारंपरिक कपडे. पादत्राणे काढा, आणि प्रवेशद्वारावर चामड्याच्या वस्तू चालतात का ते विचारा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "kailasanathar-temple",
+      "name": { "en": "Kailasanathar Temple", "hi": { "text": "कैलासनाथर मंदिर", "reviewed": false }, "mr": { "text": "कैलासनाथर मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "Built by the Pallavas, and among the oldest surviving temples in the city. Its small shrines are set around a quiet courtyard, and its carved walls show the early Pallava style. Allow one hour.",
+        "hi": { "text": "पल्लवों द्वारा बनाया गया और नगर के सबसे प्राचीन बचे मंदिरों में से एक। इसके छोटे देवालय शांत आँगन के चारों ओर हैं, और नक्काशीदार दीवारें आरंभिक पल्लव शैली दिखाती हैं। एक घंटा रखें।", "reviewed": false },
+        "mr": { "text": "पल्लवांनी बांधलेले आणि शहरातील सर्वात प्राचीन टिकून राहिलेल्या मंदिरांपैकी एक. त्याची लहान देवळे शांत अंगणाभोवती आहेत, आणि कोरीव भिंती सुरुवातीच्या पल्लव शैलीचे दर्शन घडवतात. एक तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the daytime, with a midday break. Check locally.",
+        "hi": { "text": "आमतौर पर दिन में खुला रहता है, दोपहर में अंतराल के साथ। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा दिवसा उघडे असते, दुपारी विश्रांतीसह. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes with shoulders and knees covered. It is quieter than the large temples, so keep your voice low.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन कपड़े। यह बड़े मंदिरों से शांत है, इसलिए धीमी आवाज़ में बोलें।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे सभ्य कपडे. हे मोठ्या मंदिरांपेक्षा शांत आहे, म्हणून हळू आवाजात बोला.", "reviewed": false }
+      }
+    },
+    {
+      "id": "silk-weaving-workshops",
+      "name": { "en": "Silk weaving workshops and showrooms", "hi": { "text": "रेशम बुनाई के कारखाने और शोरूम", "reviewed": false }, "mr": { "text": "रेशीम विणकाम कारखाने आणि शोरूम", "reviewed": false } },
+      "desc": {
+        "en": "Kanchipuram is a traditional silk weaving centre, known for sarees woven with mulberry silk, zari and the korvai technique, in which the body and border are woven separately and then joined. Visit a weaver's house or a registered showroom to see the handloom at work.",
+        "hi": { "text": "कांचीपुरम रेशम बुनाई का पारंपरिक केंद्र है, जो शहतूत रेशम, ज़री और कोरवाई तकनीक से बनी साड़ियों के लिए प्रसिद्ध है। इसमें साड़ी का मुख्य भाग और किनारी अलग-अलग बुनकर बाद में जोड़ते हैं। करघे पर काम देखने के लिए किसी बुनकर के घर या पंजीकृत शोरूम जाएँ।", "reviewed": false },
+        "mr": { "text": "कांचीपुरम हे पारंपरिक रेशीम विणकामाचे केंद्र आहे, जे तुतीच्या रेशमाच्या, झरी आणि कोर्वई तंत्राच्या साड्यांसाठी प्रसिद्ध आहे. यात साडीचा देह आणि काठ वेगवेगळे विणून नंतर जोडले जातात. हातमागावर काम पाहण्यासाठी एखाद्या विणकराच्या घरी किंवा नोंदणीकृत शोरूममध्ये जा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Weaving houses and shops usually work during the day, and some close on certain days. Check locally before you go.",
+        "hi": { "text": "बुनकरों के घर और दुकानें आमतौर पर दिन में काम करती हैं, और कुछ दिन बंद रहती हैं। जाने से पहले स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "विणकरांची घरे आणि दुकाने सहसा दिवसा चालतात, आणि काही दिवशी बंद असतात. जाण्यापूर्वी स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Everyday modest clothes. Ask the weaver before you photograph them at work.",
+        "hi": { "text": "रोज़ के शालीन कपड़े। काम करते बुनकर की तस्वीर लेने से पहले उनसे पूछें।", "reviewed": false },
+        "mr": { "text": "रोजचे सभ्य कपडे. काम करणाऱ्या विणकराचा फोटो काढण्यापूर्वी त्यांना विचारा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early in the morning, when the temples are cooler and the queues are shorter. Check the opening times for each temple before you plan the day.",
+        "hi": { "text": "सुबह जल्दी जाएँ, जब मंदिर ठंडे और कतारें छोटी होती हैं। दिन की योजना बनाने से पहले हर मंदिर का खुलने का समय जाँच लें।", "reviewed": false },
+        "mr": { "text": "पहाटे लवकर जा, जेव्हा मंदिरे थंड आणि रांगा लहान असतात. दिवसाचे नियोजन करण्यापूर्वी प्रत्येक मंदिराची उघडण्याची वेळ तपासा.", "reviewed": false }
+      },
+      {
+        "en": "Phones, cameras and large bags may not be allowed inside some temples. Use the cloakroom at the gate where it is available.",
+        "hi": { "text": "कुछ मंदिरों के भीतर फ़ोन, कैमरे और बड़े बैग की अनुमति नहीं हो सकती। जहाँ उपलब्ध हो, द्वार के क्लोकरूम का उपयोग करें।", "reviewed": false },
+        "mr": { "text": "काही मंदिरांत फोन, कॅमेरे आणि मोठ्या पिशव्यांना परवानगी नसू शकते. जिथे सुविधा असेल तिथे प्रवेशद्वारावरील क्लोकरूम वापरा.", "reviewed": false }
+      },
+      {
+        "en": "Fridays, full moon days and festival days are the most crowded. Allow extra time for the queue at the Kamakshi Amman temple.",
+        "hi": { "text": "शुक्रवार, पूर्णिमा और उत्सव के दिन सबसे अधिक भीड़ रहती है। कामाक्षी अम्मन मंदिर की कतार के लिए अतिरिक्त समय रखें।", "reviewed": false },
+        "mr": { "text": "शुक्रवार, पौर्णिमा आणि उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. कामाक्षी अम्मन मंदिराच्या रांगेसाठी जास्तीचा वेळ ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "Free darshan is usually available. Paid special-entry tickets may be sold at official counters, so buy only there and check current prices locally.",
+        "hi": { "text": "निःशुल्क दर्शन आमतौर पर उपलब्ध रहता है। आधिकारिक काउंटर पर शुल्क वाले विशेष प्रवेश टिकट मिल सकते हैं, इसलिए वहीं से लें और वर्तमान दरें स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "मोफत दर्शन सहसा उपलब्ध असते. अधिकृत काउंटरवर शुल्कासह विशेष प्रवेश तिकिटे मिळू शकतात, म्हणून फक्त तिथूनच घ्या आणि सध्याचे दर स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      {
+        "en": "Ask at the gate about the dress rules, including any limits on leather items and on phones.",
+        "hi": { "text": "द्वार पर पहनावे के नियम पूछें, जिनमें चमड़े की वस्तुओं और फ़ोन पर रोक शामिल हो सकती है।", "reviewed": false },
+        "mr": { "text": "प्रवेशद्वारावर पोशाखाचे नियम विचारा, ज्यात चामड्याच्या वस्तू आणि फोनवरील बंदीचाही समावेश असू शकतो.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "Darshan timings and temple services are listed on the official temple and HR&CE pages. Ticket options change, so confirm on the official site or at the temple counter. PranaDin does not sell tickets.",
+      "hi": { "text": "दर्शन समय और मंदिर सेवाएँ आधिकारिक मंदिर और एचआर एंड सीई पृष्ठों पर दी जाती हैं। टिकट विकल्प बदलते रहते हैं, इसलिए आधिकारिक साइट या मंदिर काउंटर पर पुष्टि करें। प्राणदिन टिकट नहीं बेचता।", "reviewed": false },
+      "mr": { "text": "दर्शनाच्या वेळा आणि मंदिर सेवा अधिकृत मंदिर आणि एचआर अँड सीई संकेतस्थळांवर दिल्या आहेत. तिकीट पर्याय बदलतात, म्हणून अधिकृत संकेतस्थळावर किंवा मंदिर काउंटरवर खात्री करा. प्राणदिन तिकिटे विकत नाही.", "reviewed": false }
+    }
+  }
+}

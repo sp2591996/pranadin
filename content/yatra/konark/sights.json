@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "konark",
+  "sights": [
+    {
+      "id": "sun-temple",
+      "name": { "en": "Konark Sun Temple", "hi": { "text": "कोणार्क सूर्य मंदिर", "reviewed": false }, "mr": { "text": "कोणार्क सूर्य मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The great stone chariot on its raised platform, facing east so that the first rays of the morning sun reach the entrance. Walk round the platform to see the twenty-four wheels, the horses at the front and the dense carving of the Jagamohana. Allow two hours or more.",
+        "hi": { "text": "ऊँचे चबूतरे पर पत्थर का विशाल रथ, पूर्वमुखी ताकि प्रातः की पहली किरणें प्रवेश द्वार तक पहुँचें। चबूतरे की परिक्रमा करके चौबीस पहिये, सामने के घोड़े और जगमोहन की सघन नक्काशी देखें। दो घंटे या अधिक रखें।", "reviewed": false },
+        "mr": { "text": "उंच चौथऱ्यावरील दगडी भव्य रथ, पूर्वाभिमुख जेणेकरून सकाळची पहिली किरणे प्रवेशद्वारापर्यंत पोहोचतात. चौथऱ्याभोवती फिरून चोवीस चाके, पुढचे घोडे आणि जगमोहनाचे दाट कोरीवकाम पाहा. दोन तास किंवा अधिक ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "A protected monument of the Archaeological Survey of India, usually open from sunrise to sunset every day. A ticket applies, with different rates for residents and foreign visitors. Check locally for current hours and rates.",
+        "hi": { "text": "भारतीय पुरातत्व सर्वेक्षण का संरक्षित स्मारक, आमतौर पर प्रतिदिन सूर्योदय से सूर्यास्त तक खुला। टिकट लगता है, निवासियों और विदेशी आगंतुकों के लिए अलग दर। वर्तमान समय और दरों के लिए स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "भारतीय पुरातत्त्व सर्वेक्षणाचे संरक्षित स्मारक, सहसा दररोज सूर्योदयापासून सूर्यास्तापर्यंत उघडे. तिकीट लागते, रहिवासी आणि परदेशी अभ्यागतांसाठी वेगळे दर. सध्याच्या वेळा आणि दरांसाठी स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light, modest clothes, a hat, sunscreen and comfortable shoes. There is little shade, and the stone gets very hot by midday. Visitors of all faiths may enter.",
+        "hi": { "text": "हल्के, शालीन कपड़े, टोपी, धूप से बचाव और आरामदायक जूते। छाया कम है और दोपहर तक पत्थर बहुत गर्म हो जाता है। सभी धर्मों के आगंतुक प्रवेश कर सकते हैं।", "reviewed": false },
+        "mr": { "text": "हलके, साधे कपडे, टोपी, सनस्क्रीन आणि आरामदायी बूट. सावली कमी आहे आणि दुपारपर्यंत दगड खूप तापतो. सर्व धर्मांचे अभ्यागत प्रवेश करू शकतात.", "reviewed": false }
+      }
+    },
+    {
+      "id": "wheels-and-carvings",
+      "name": { "en": "The wheels and the carved walls", "hi": { "text": "पहिये और नक्काशीदार दीवारें", "reviewed": false }, "mr": { "text": "चाके आणि कोरीव भिंती", "reviewed": false } },
+      "desc": {
+        "en": "Each of the twenty-four wheels is about 3 metres across with finely carved spokes, and the spokes mark the time of day by their shadow. The walls show musicians, dancers, couples, elephants and scenes of court and village life. A local guide can explain the stories, if you agree the fee first.",
+        "hi": { "text": "चौबीस पहियों में से प्रत्येक लगभग 3 मीटर चौड़ा है, बारीक नक्काशीदार तीलियों के साथ, और तीलियों की छाया से दिन का समय पता चलता है। दीवारों पर वादक, नर्तक, युगल, हाथी और दरबार व गाँव के जीवन के दृश्य हैं। स्थानीय गाइड कथाएँ समझा सकता है, यदि पहले शुल्क तय कर लें।", "reviewed": false },
+        "mr": { "text": "चोवीस चाकांपैकी प्रत्येक सुमारे 3 मीटर रुंद आहे, बारीक कोरीव आऱ्यांसह, आणि आऱ्यांच्या सावलीवरून दिवसाची वेळ कळते. भिंतींवर वादक, नर्तक, जोडपी, हत्ती आणि दरबार व गावातील जीवनाची दृश्ये आहेत. स्थानिक मार्गदर्शक कथा समजावून सांगू शकतो, आधी शुल्क ठरवल्यास.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Within the monument hours. The low morning and late afternoon light shows the carving best.",
+        "hi": { "text": "स्मारक के समय के भीतर। सुबह और देर दोपहर की तिरछी रोशनी में नक्काशी सबसे अच्छी दिखती है।", "reviewed": false },
+        "mr": { "text": "स्मारकाच्या वेळेतच. सकाळच्या आणि उशिरा दुपारच्या तिरप्या प्रकाशात कोरीवकाम सर्वोत्तम दिसते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Everyday modest clothes. Do not touch or climb on the carvings, as the stone is fragile.",
+        "hi": { "text": "सामान्य शालीन कपड़े। नक्काशी को न छुएँ और न उस पर चढ़ें, क्योंकि पत्थर नाज़ुक है।", "reviewed": false },
+        "mr": { "text": "रोजचे साधे कपडे. कोरीवकामाला स्पर्श करू नका किंवा त्यावर चढू नका, कारण दगड नाजूक आहे.", "reviewed": false }
+      }
+    },
+    {
+      "id": "nata-mandir",
+      "name": { "en": "Nata Mandir (dance hall)", "hi": { "text": "नट मंदिर (नृत्य मंडप)", "reviewed": false }, "mr": { "text": "नट मंदिर (नृत्य मंडप)", "reviewed": false } },
+      "desc": {
+        "en": "A raised dance pavilion in front of the main temple, carved with dancers and musicians. It recalls the Odissi tradition of temple dance, which is celebrated at the nearby Konark Festival each winter.",
+        "hi": { "text": "मुख्य मंदिर के सामने ऊँचा नृत्य मंडप, नर्तकों और वादकों की नक्काशी के साथ। यह मंदिर नृत्य की ओड़िसी परंपरा की याद दिलाता है, जिसका उत्सव हर सर्दी में पास के कोणार्क महोत्सव में होता है।", "reviewed": false },
+        "mr": { "text": "मुख्य मंदिरासमोर उंच नृत्य मंडप, नर्तक आणि वादकांच्या कोरीवकामासह. तो मंदिर नृत्याच्या ओडिसी परंपरेची आठवण करून देतो, जिचा उत्सव दर हिवाळ्यात जवळच्या कोणार्क महोत्सवात होतो.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Within the monument hours. Check locally.",
+        "hi": { "text": "स्मारक के समय के भीतर। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "स्मारकाच्या वेळेतच. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light, modest clothes and a quiet voice.",
+        "hi": { "text": "हल्के, शालीन कपड़े और धीमी आवाज़।", "reviewed": false },
+        "mr": { "text": "हलके, साधे कपडे आणि हळू आवाज.", "reviewed": false }
+      }
+    },
+    {
+      "id": "konark-museum",
+      "name": { "en": "Konark Archaeological Museum", "hi": { "text": "कोणार्क पुरातत्व संग्रहालय", "reviewed": false }, "mr": { "text": "कोणार्क पुरातत्त्व संग्रहालय", "reviewed": false } },
+      "desc": {
+        "en": "A small museum beside the temple, run by the Archaeological Survey of India, which keeps sculptures and fragments that fell from the temple. It is a good place to see the carving up close and to understand how the temple once looked.",
+        "hi": { "text": "मंदिर के पास भारतीय पुरातत्व सर्वेक्षण द्वारा संचालित छोटा संग्रहालय, जिसमें मंदिर से गिरी मूर्तियाँ और अवशेष रखे हैं। नक्काशी को पास से देखने और मंदिर कभी कैसा था यह समझने के लिए अच्छी जगह।", "reviewed": false },
+        "mr": { "text": "मंदिराजवळ भारतीय पुरातत्त्व सर्वेक्षणाद्वारे चालवले जाणारे लहान संग्रहालय, ज्यात मंदिरातून पडलेल्या मूर्ती आणि अवशेष ठेवलेले आहेत. कोरीवकाम जवळून पाहण्यासाठी आणि मंदिर पूर्वी कसे दिसत होते हे समजून घेण्यासाठी चांगली जागा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the daytime with a weekly closing day. Check locally.",
+        "hi": { "text": "आमतौर पर दिन में खुला, साप्ताहिक बंद दिन के साथ। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा दिवसा उघडे, साप्ताहिक बंदच्या दिवसासह. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Everyday modest clothes. Photography rules may differ from the monument.",
+        "hi": { "text": "सामान्य शालीन कपड़े। फ़ोटो के नियम स्मारक से अलग हो सकते हैं।", "reviewed": false },
+        "mr": { "text": "रोजचे साधे कपडे. छायाचित्रणाचे नियम स्मारकापेक्षा वेगळे असू शकतात.", "reviewed": false }
+      }
+    },
+    {
+      "id": "chandrabhaga-beach",
+      "name": { "en": "Chandrabhaga Beach", "hi": { "text": "चंद्रभागा समुद्र तट", "reviewed": false }, "mr": { "text": "चंद्रभागा समुद्रकिनारा", "reviewed": false } },
+      "desc": {
+        "en": "A wide, quiet beach about 3 km from the temple. Each February, pilgrims bathe here at dawn on the day of the Chandrabhaga fair, and in early December sand artists work on the shore. Swim only in the marked area, as the sea is rough.",
+        "hi": { "text": "मंदिर से लगभग 3 किमी दूर चौड़ा, शांत समुद्र तट। हर फरवरी में चंद्रभागा मेले के दिन श्रद्धालु भोर में यहाँ स्नान करते हैं, और दिसंबर के आरंभ में रेत कलाकार तट पर काम करते हैं। केवल चिह्नित क्षेत्र में तैरें, क्योंकि समुद्र उग्र है।", "reviewed": false },
+        "mr": { "text": "मंदिरापासून सुमारे 3 किमी अंतरावर रुंद, शांत समुद्रकिनारा. दर फेब्रुवारीत चंद्रभागा मेळ्याच्या दिवशी यात्रेकरू पहाटे येथे स्नान करतात, आणि डिसेंबरच्या सुरुवातीला वाळू कलाकार किनाऱ्यावर काम करतात. फक्त चिन्हांकित क्षेत्रातच पोहा, कारण समुद्र खवळलेला असतो.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open at all hours, best in the morning. Lifeguards are present only in the daytime. Check locally.",
+        "hi": { "text": "हर समय खुला, सुबह सर्वोत्तम। जीवन रक्षक केवल दिन में रहते हैं। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सर्व वेळी खुला, सकाळी उत्तम. जीवरक्षक फक्त दिवसा असतात. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light clothes you can bathe in, and a cover for the sun.",
+        "hi": { "text": "स्नान योग्य हल्के कपड़े और धूप से बचाव।", "reviewed": false },
+        "mr": { "text": "स्नानासाठी योग्य हलके कपडे आणि उन्हापासून संरक्षण.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go at opening time. The light is soft, the stone is cool and the crowds are small. By late morning the compound is hot and busy with tour groups.",
+        "hi": { "text": "खुलते ही जाएँ। रोशनी कोमल होती है, पत्थर ठंडा रहता है और भीड़ कम होती है। देर सुबह तक परिसर गर्म और पर्यटक समूहों से भरा होता है।", "reviewed": false },
+        "mr": { "text": "उघडताच जा. प्रकाश मऊ असतो, दगड थंड असतो आणि गर्दी कमी असते. उशिरा सकाळपर्यंत परिसर उष्ण आणि पर्यटक गटांनी भरलेला असतो.", "reviewed": false }
+      },
+      {
+        "en": "Konark is a monument that anyone may visit, and no regular worship is held inside. Pilgrims who wish to offer prayers to Surya often do so at the beach at sunrise, or at Chandrabhaga during the fair.",
+        "hi": { "text": "कोणार्क एक स्मारक है जहाँ कोई भी जा सकता है, और भीतर नियमित पूजा नहीं होती। जो श्रद्धालु सूर्य को प्रार्थना अर्पित करना चाहते हैं, वे अक्सर सूर्योदय पर तट पर या मेले के दौरान चंद्रभागा में ऐसा करते हैं।", "reviewed": false },
+        "mr": { "text": "कोणार्क हे असे स्मारक आहे जिथे कोणीही जाऊ शकते, आणि आत नियमित पूजा होत नाही. जे यात्रेकरू सूर्याला प्रार्थना अर्पण करू इच्छितात ते अनेकदा सूर्योदयाला किनाऱ्यावर किंवा मेळ्यादरम्यान चंद्रभागेत तसे करतात.", "reviewed": false }
+      },
+      {
+        "en": "Carry water, a hat and sunscreen. Security checks are done at the gate, so bring a photo ID and avoid large bags. Do not climb on the platform, the wheels or the sculptures.",
+        "hi": { "text": "पानी, टोपी और धूप से बचाव साथ रखें। द्वार पर सुरक्षा जाँच होती है, इसलिए फ़ोटो पहचान पत्र लाएँ और बड़े बैग से बचें। चबूतरे, पहियों या मूर्तियों पर न चढ़ें।", "reviewed": false },
+        "mr": { "text": "पाणी, टोपी आणि सनस्क्रीन सोबत ठेवा. प्रवेशद्वारावर सुरक्षा तपासणी होते, म्हणून फोटो ओळखपत्र आणा आणि मोठ्या पिशव्या टाळा. चौथरा, चाके किंवा शिल्पांवर चढू नका.", "reviewed": false }
+      },
+      {
+        "en": "Guides at the gate offer tours for a fee. You may politely decline, or agree the fee and the length of the tour first. Buy tickets only at the official counter or on the official site.",
+        "hi": { "text": "द्वार पर गाइड शुल्क लेकर भ्रमण का प्रस्ताव देते हैं। आप विनम्रता से मना कर सकते हैं, या पहले शुल्क और भ्रमण की अवधि तय कर सकते हैं। टिकट केवल आधिकारिक काउंटर या आधिकारिक साइट से लें।", "reviewed": false },
+        "mr": { "text": "प्रवेशद्वारावर मार्गदर्शक शुल्क घेऊन फेरी देण्याचे प्रस्ताव देतात. तुम्ही नम्रपणे नकार देऊ शकता, किंवा आधी शुल्क आणि फेरीचा कालावधी ठरवू शकता. तिकिटे फक्त अधिकृत काउंटर किंवा अधिकृत संकेतस्थळावरून घ्या.", "reviewed": false }
+      },
+      {
+        "en": "The compound is wide and mostly flat, but paths are uneven and the stone is hot in the afternoon. Older visitors and people with limited walking can ask staff at the gate about the easiest routes.",
+        "hi": { "text": "परिसर चौड़ा और अधिकतर समतल है, पर रास्ते असमान हैं और दोपहर में पत्थर गर्म रहता है। वृद्ध यात्री और कम चल सकने वाले लोग द्वार पर कर्मचारियों से सबसे आसान मार्गों के बारे में पूछ सकते हैं।", "reviewed": false },
+        "mr": { "text": "परिसर रुंद आणि बहुतांश सपाट आहे, पण वाटा असमान आहेत आणि दुपारी दगड तापलेला असतो. वृद्ध अभ्यागत आणि कमी चालू शकणारे लोक प्रवेशद्वारावरील कर्मचाऱ्यांना सर्वात सोप्या मार्गांबद्दल विचारू शकतात.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the Archaeological Survey of India lists online ticketing for its ticketed monuments on its official website, and Odisha Tourism publishes dates for the Konark Festival. This app does not book or sell anything. Use only the official sites and check current details yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: भारतीय पुरातत्व सर्वेक्षण अपनी आधिकारिक वेबसाइट पर टिकट वाले स्मारकों के लिए ऑनलाइन टिकट की जानकारी देता है, और ओडिशा पर्यटन कोणार्क महोत्सव की तिथियाँ प्रकाशित करता है। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइटों का उपयोग करें और वर्तमान विवरण स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: भारतीय पुरातत्त्व सर्वेक्षण आपल्या अधिकृत संकेतस्थळावर तिकिटी स्मारकांसाठी ऑनलाइन तिकिटाची माहिती देते, आणि ओडिशा पर्यटन कोणार्क महोत्सवाच्या तारखा प्रकाशित करते. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळे वापरा आणि सध्याचे तपशील स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}
