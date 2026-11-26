@@ -31,9 +31,9 @@ export default async function PracticePage({ params }: PageProps<"/[locale]/prac
   const meditations = loadMeditations(locale).map((m) => ({ slug: m.slug, title: m.title, lang: m.lang }));
   return (
     <StringsProvider strings={strings}>
-      <PracticeHome techniques={techniques} meditations={meditations} />
-      <ChakrasLink locale={locale} />
-      <YatraLink locale={locale} />
+      <div className="wide">
+        <PracticeHome techniques={techniques} meditations={meditations} more={<><ChakrasLink locale={locale} /><YatraLink locale={locale} /></>} />
+      </div>
     </StringsProvider>
   );
 }

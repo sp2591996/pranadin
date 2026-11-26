@@ -3,48 +3,37 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Icon } from "./Icon";
-import type { IconName } from "./icons.generated";
+import { activeNav, TAB_ICONS } from "./nav-items";
 import { useI18n } from "@/i18n/client";
-import { tabHref, TABS, type Tab } from "@/lib/routes";
-
-const ICONS: Record<Tab, IconName> = {
-  today: "SunHorizon",
-  practice: "Wind",
-  sounds: "SpeakerHigh",
-  calendar: "CalendarBlank",
-  journal: "NotePencil",
-};
+import { tabHref, TABS } from "@/lib/routes";
 
 /**
- * Bottom navigation: 5 tabs, icon + always-visible label, 64px + safe area,
- * active = primary on a primary-tint pill; hidden from tablet width up, where the header holds the tabs with aria-current (design-system-v0 §7).
+ * Phone tab bar (D-033, after the reference prototype): icon in a soft pill
+ * over an always-visible label; active = saffron. Hidden on wide screens,
+ * where the header pills take over.
  */
 export function BottomNav() {
   const { t, locale } = useI18n();
   const pathname = usePathname() ?? "";
+  const { tab: current } = activeNav(pathname, locale);
   return (
     <nav
       aria-label={t("nav.label")}
-      className="fixed inset-x-0 bottom-0 z-[var(--z-nav)] border-t border-divider bg-[color-mix(in_srgb,var(--surface)_94%,transparent)] pb-[env(safe-area-inset-bottom)] shadow-elev-2 backdrop-blur-md md:hidden"
+      className="fixed inset-x-0 bottom-0 z-[var(--z-nav)] border-t border-divider bg-[color-mix(in_srgb,var(--surface)_95%,transparent)] pb-[env(safe-area-inset-bottom)] backdrop-blur-lg lg:hidden"
     >
-      <ul className="mx-auto grid min-h-[var(--size-nav)] max-w-xl grid-cols-5">
+      <ul className="mx-auto grid min-h-[var(--size-nav)] max-w-2xl grid-cols-5">
         {TABS.map((tab) => {
-          const href = tabHref(locale, tab);
-          const active = pathname.startsWith(href.replace(/\/$/, ""));
+          // On the phone, a deeper section (Yoga, Yatra, Festivals...) lights up its parent tab.
+          const active = current === tab || (current === null && pathname.startsWith(tabHref(locale, tab).replace(/\/$/, "")));
           return (
             <li key={tab} className="flex min-w-0">
               <Link
-                href={href}
+                href={tabHref(locale, tab)}
                 aria-current={active ? "page" : undefined}
-                className="flex min-h-11 min-w-0 flex-1 flex-col items-center justify-center gap-0.5 rounded-md px-0.5 text-label text-[var(--nav-item-fg)] aria-[current=page]:text-[var(--nav-item-active-fg)]"
+                className="flex min-h-11 min-w-0 flex-1 flex-col items-center justify-center gap-0.5 px-0.5 pb-1 pt-1.5 text-caption text-text-muted transition-colors aria-[current=page]:font-semibold aria-[current=page]:text-primary"
               >
-                <span
-                  aria-hidden="true"
-                  className={`flex h-8 w-12 max-w-full items-center justify-center rounded-full transition-colors duration-fast ${
-                    active ? "diya-glow bg-[var(--nav-item-active-bg)]" : ""
-                  }`}
-                >
-                  <Icon name={ICONS[tab]} size={24} weight={active ? "fill" : "regular"} />
+                <span aria-hidden="true" className={`flex h-7 w-10 max-w-full items-center justify-center rounded-full transition-colors ${active ? "bg-primary-tint" : ""}`}>
+                  <Icon name={TAB_ICONS[tab]} size={20} weight={active ? "fill" : "regular"} />
                 </span>
                 <span className="max-w-full text-center leading-tight [overflow-wrap:anywhere]">{t(`nav.${tab}`)}</span>
               </Link>

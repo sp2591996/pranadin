@@ -3,7 +3,9 @@
 /** Yoga landing page: pose library with level filter, guided sessions and programmes. */
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { CaretRightIcon } from "@phosphor-icons/react/dist/csr/CaretRight";
+import Image from "next/image";
+import { Icon } from "@/components/Icon";
+import type { IconName } from "@/components/icons.generated";
 import { useI18n } from "@/i18n/client";
 import { useS } from "@/features/shared/strings";
 import { btn, card } from "@/features/shared/ui";
@@ -15,23 +17,55 @@ import { yogaRoutes } from "./routes";
 import { SafetyList } from "./SafetyNotice";
 import { POSE_LEVELS, type ModuleListItem, type PoseLevel, type PoseListItem, type ProgramListItem } from "./types";
 import type { YogaProgress } from "@/lib/types";
-import { PageHero } from "@/components/PageHero";
+import { SectionHeader } from "@/components/SectionHeader";
 
 type Tab = "poses" | "sessions" | "programs";
 const TABS: Tab[] = ["poses", "sessions", "programs"];
 
-function Row({ href, title, titleLang, sub }: { href: string; title: string; titleLang: string; sub: string }) {
+function Row({ href, title, titleLang, sub, icon }: { href: string; title: string; titleLang: string; sub: string; icon: IconName }) {
   return (
-    <li>
-      <Link href={href} className="flex min-h-16 items-center gap-3 px-4 py-3 hover:bg-surface-2">
-        <span className="flex-1">
-          <span className="block font-semibold">
+    <li className="flex">
+      <Link href={href} className="card-lift flex flex-1 items-start gap-4 rounded-2xl border border-divider bg-surface p-5 shadow-elev-1">
+        <span aria-hidden="true" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary-tint text-primary">
+          <Icon name={icon} size={22} />
+        </span>
+        <span className="min-w-0 flex-1">
+          <span className="block font-display text-[1.25rem] font-semibold leading-tight">
             <span lang={titleLang}>{title}</span>
             {titleLang === "en" ? <EnglishMark /> : null}
           </span>
-          <span className="block text-[0.875rem] leading-5 text-text-muted">{sub}</span>
+          <span className="mt-1 block text-small text-text-muted">{sub}</span>
         </span>
-        <CaretRightIcon size={20} aria-hidden="true" className="text-text-muted" />
+      </Link>
+    </li>
+  );
+}
+
+const LEVEL_TAG: Record<string, string> = {
+  beginner: "bg-success-tint text-success",
+  intermediate: "bg-warning-tint text-warning",
+  advanced: "bg-error-tint text-error",
+};
+
+function PoseCard({ p, href, levelLabel, catLabel, aiLabel }: { p: PoseListItem; href: string; levelLabel: string; catLabel: string; aiLabel: string }) {
+  return (
+    <li className="flex">
+      <Link href={href} className="card-lift flex flex-1 flex-col overflow-hidden rounded-2xl border border-divider bg-surface shadow-elev-1">
+        <span className="relative block aspect-[4/3] overflow-hidden bg-surface-2">
+          <Image src={`/yoga/${p.image}`} alt="" fill sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw" className="object-cover" />
+          <span className={`absolute right-3 top-3 rounded-full px-2.5 py-0.5 text-caption font-semibold ${LEVEL_TAG[p.level] ?? "bg-surface text-text"}`}>{levelLabel}</span>
+          <span className="absolute bottom-2 left-2 rounded-full bg-black/60 px-2 py-0.5 text-[0.75rem] font-medium text-white">{aiLabel}</span>
+        </span>
+        <span className="flex flex-1 flex-col p-4">
+          <span className="font-display text-[1.375rem] font-semibold leading-tight">
+            <span lang={p.nameLang}>{p.name}</span>
+            {p.nameLang === "en" ? <EnglishMark /> : null}
+          </span>
+          <span className="mt-0.5 font-display text-[1.0625rem] italic text-primary">{p.sanskrit}</span>
+          <span className="mt-3 flex flex-wrap gap-2">
+            <span className="rounded-full bg-surface-2 px-2.5 py-0.5 text-caption font-medium text-text-muted">{catLabel}</span>
+          </span>
+        </span>
       </Link>
     </li>
   );
@@ -55,19 +89,19 @@ export function YogaHome({ poses, modules, programs }: { poses: PoseListItem[]; 
   const shown = poses.filter((p) => level === "all" || p.level === level);
 
   return (
-    <div className="flex flex-col gap-5">
-      <PageHero as="div" deva="योग" title={s("yoga.title")} intro={s("yoga.intro")} />
+    <div className="wide flex flex-col gap-6">
+      <SectionHeader deva="योगाभ्यास" title={s("yoga.title")} intro={s("yoga.intro")} />
 
-      <details className={card}>
+      <details className={`${card} mx-auto w-full max-w-3xl`}>
         <summary className="min-h-11 cursor-pointer font-semibold">{s("yoga.safety.title")}</summary>
         <div className="mt-2">
           <SafetyList />
         </div>
       </details>
 
-      <div role="group" aria-label={s("yoga.tabs.label")} className="flex flex-wrap gap-2">
+      <div role="group" aria-label={s("yoga.tabs.label")} className="mx-auto flex flex-wrap justify-center gap-1 rounded-full border border-divider bg-surface-2 p-1">
         {TABS.map((t) => (
-          <button key={t} type="button" className={btn.chip} aria-pressed={tab === t} onClick={() => setTab(t)}>
+          <button key={t} type="button" className="inline-flex min-h-11 items-center rounded-full px-5 font-semibold text-text-muted transition-colors aria-[pressed=true]:bg-surface aria-[pressed=true]:text-primary aria-[pressed=true]:shadow-elev-1" aria-pressed={tab === t} onClick={() => setTab(t)}>
             {s(`yoga.tab.${t}`)}
           </button>
         ))}
@@ -78,25 +112,19 @@ export function YogaHome({ poses, modules, programs }: { poses: PoseListItem[]; 
           <h2 id="poses-h" className="sr-only">
             {s("yoga.tab.poses")}
           </h2>
-          <div role="group" aria-label={s("yoga.level.label")} className="flex flex-wrap gap-2">
+          <div role="group" aria-label={s("yoga.level.label")} className="flex flex-wrap justify-center gap-2">
             {(["all", ...POSE_LEVELS] as const).map((l) => (
               <button key={l} type="button" className={btn.chip} aria-pressed={level === l} onClick={() => setLevel(l)}>
                 {s(l === "all" ? "yoga.level.all" : `yoga.level.${l}`)}
               </button>
             ))}
           </div>
-          <p className="text-[0.875rem] leading-5 text-text-muted" role="status">
+          <p className="text-center text-small text-text-muted" role="status">
             {s("yoga.count", { count: shown.length })}
           </p>
-          <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface" data-testid="pose-list">
+          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3" data-testid="pose-list">
             {shown.map((p) => (
-              <Row
-                key={p.slug}
-                href={yogaRoutes.pose(locale, p.slug)}
-                title={p.name}
-                titleLang={p.nameLang}
-                sub={`${p.sanskrit} · ${s(`yoga.level.${p.level}`)} · ${s(`yoga.cat.${p.category}`)}`}
-              />
+              <PoseCard key={p.slug} p={p} href={yogaRoutes.pose(locale, p.slug)} levelLabel={s(`yoga.level.${p.level}`)} catLabel={s(`yoga.cat.${p.category}`)} aiLabel={s("yoga.aiImage")} />
             ))}
           </ul>
         </section>
@@ -107,9 +135,10 @@ export function YogaHome({ poses, modules, programs }: { poses: PoseListItem[]; 
           <h2 id="sessions-h" className="sr-only">
             {s("yoga.tab.sessions")}
           </h2>
-          <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface" data-testid="session-list">
+          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3" data-testid="session-list">
             {modules.map((m) => (
               <Row
+                icon="PersonSimpleTaiChi"
                 key={m.slug}
                 href={yogaRoutes.session(locale, m.slug)}
                 title={m.title}
@@ -126,11 +155,12 @@ export function YogaHome({ poses, modules, programs }: { poses: PoseListItem[]; 
           <h2 id="programs-h" className="sr-only">
             {s("yoga.tab.programs")}
           </h2>
-          <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface" data-testid="program-list">
+          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3" data-testid="program-list">
             {programs.map((p) => {
               const sum = summarize(progress[p.id], p.days.length);
               return (
                 <Row
+                  icon="CalendarHeart"
                   key={p.id}
                   href={yogaRoutes.program(locale, p.id)}
                   title={p.title}

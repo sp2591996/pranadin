@@ -10,7 +10,7 @@ import { practiceRoutes } from "@/features/practice/routes";
 import { practiceDays } from "@/features/practice/streak";
 import { readLocal, todayKey, writeLocal } from "@/features/shared/device";
 import { useS } from "@/features/shared/strings";
-import { btn, card } from "@/features/shared/ui";
+import { btn } from "@/features/shared/ui";
 import { getPrefs, getStorage } from "@/lib/storage";
 import type { Locale } from "@/lib/types";
 import { buildPlan, doneToday, needsWelcomeBack, slugOf, type PlanContent, type PlanStep, type StepType } from "./plan";
@@ -85,9 +85,9 @@ export function TodayPlan({ content }: { content: PlanContent }) {
   const next = state.steps.find((st) => !state.done.includes(st.type));
 
   return (
-    <section aria-labelledby="plan-h" className={`${card} flex flex-col gap-4`}>
+    <section aria-labelledby="plan-h" className="flex h-full flex-col gap-4 rounded-[var(--r-xl)] border border-divider bg-surface p-6 shadow-elev-1 sm:p-7">
       <div>
-        <h2 id="plan-h">{state.welcomeBack ? s("today.welcomeBack.title") : s("today.plan.title")}</h2>
+        <h2 id="plan-h" className="text-[1.75rem] leading-9">{state.welcomeBack ? s("today.welcomeBack.title") : s("today.plan.title")}</h2>
         <p className="text-text-muted">
           {state.welcomeBack
             ? s("today.welcomeBack.body")
@@ -104,7 +104,7 @@ export function TodayPlan({ content }: { content: PlanContent }) {
             <li key={st.n}>
               <Link
                 href={stepHref(locale, st)}
-                className="flex min-h-14 items-start gap-3 rounded-md border border-divider bg-bg p-3 hover:bg-surface-2"
+                className={`flex min-h-14 items-start gap-3 rounded-2xl border p-4 transition-colors duration-fast ${done ? "border-[color-mix(in_srgb,var(--primary)_30%,var(--divider))] bg-primary-tint/50" : "border-divider bg-bg/60 hover:border-[color-mix(in_srgb,var(--primary)_30%,var(--divider))]"}`}
               >
                 <span
                   aria-hidden="true"

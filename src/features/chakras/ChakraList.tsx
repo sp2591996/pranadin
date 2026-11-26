@@ -1,35 +1,36 @@
 "use client";
 
 import Link from "next/link";
-import { CaretRightIcon } from "@phosphor-icons/react/dist/csr/CaretRight";
+import { Icon } from "@/components/Icon";
 import { useI18n } from "@/i18n/client";
 import { routes } from "@/lib/routes";
 import { useS } from "@/features/shared/strings";
 import { ChakraMotif } from "./Motif";
 import { chakraRoutes } from "./routes";
 import type { ChakraView } from "./types";
-import { PageHero } from "@/components/PageHero";
+import { SectionHeader } from "@/components/SectionHeader";
 
 /** Chakras list (D-026 Wave C): seven centres as yogic tradition, never as health advice. */
 export function ChakraList({ chakras }: { chakras: ChakraView[] }) {
   const s = useS();
   const { locale } = useI18n();
   return (
-    <div className="flex flex-col gap-5">
-      <Link href={routes.practice(locale)} className="inline-flex min-h-11 items-center text-primary underline underline-offset-2">
+    <div className="wide flex flex-col gap-6">
+      <Link href={routes.practice(locale)} className="inline-flex min-h-11 items-center gap-1.5 self-start text-small font-semibold text-primary hover:underline">
+        <Icon name="ArrowLeft" size={16} />
         {s("chakras.backToPractice")}
       </Link>
-      <PageHero as="div" deva="चक्र" title={s("chakras.title")} intro={s("chakras.intro")} />
-      <ol className="flex flex-col gap-3">
+      <SectionHeader deva="चक्र" title={s("chakras.title")} intro={s("chakras.intro")} />
+      <ol className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {chakras.map((c) => (
-          <li key={c.id}>
+          <li key={c.id} className="flex">
             <Link
               href={chakraRoutes.detail(locale, c.id)}
-              className="flex min-h-20 items-center gap-4 rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-bg)] p-3 hover:bg-surface-2"
+              className="card-lift flex flex-1 items-center gap-4 rounded-2xl border border-divider bg-surface p-5 shadow-elev-1"
             >
               <ChakraMotif n={c.n} petals={c.petals} hex={c.hex} className="h-16 w-16 shrink-0" />
               <span className="flex-1">
-                <span className="block text-h3" lang="sa">
+                <span className="block font-deva text-h3" lang="sa">
                   {c.sa}
                 </span>
                 <span className="block font-semibold">
@@ -39,12 +40,11 @@ export function ChakraList({ chakras }: { chakras: ChakraView[] }) {
                   {c.meaning.text}
                 </span>
               </span>
-              <CaretRightIcon size={20} aria-hidden="true" className="text-text-muted" />
             </Link>
           </li>
         ))}
       </ol>
-      <p className="text-small text-text-muted">{s("chakras.disclaimer")}</p>
+      <p className="mx-auto max-w-3xl text-center text-small text-text-muted">{s("chakras.disclaimer")}</p>
     </div>
   );
 }

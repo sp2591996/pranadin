@@ -15,6 +15,7 @@ import { routes } from "@/lib/routes";
 import type { LocalDateKey, PanchangDay } from "@/lib/types";
 import { FestivalGuideEntry, FestivalLink, type FestivalLinkData } from "@/features/festivals/FestivalLinks";
 import { monthGrid, monthOf, shiftMonth, type MonthKey } from "./month";
+import { SectionHeader } from "@/components/SectionHeader";
 
 type Tradition = Observance["traditions"][number];
 
@@ -72,8 +73,8 @@ export function CalendarView({
   const after = selected > window.to;
 
   return (
-    <div className="flex flex-col gap-5">
-      <h1 className="sr-only">{t("cal.title")}</h1>
+    <div className="mid flex flex-col gap-6">
+      <SectionHeader deva="पंचांग" title={t("cal.title")} intro={t("cal.intro")} />
 
       <FestivalGuideEntry data={festivals} />
 

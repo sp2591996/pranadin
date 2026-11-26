@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved strings have reviewed: true. Draft translations (reviewed: false) are shown too (D-030) until the Board reviews them.",
-  "count": 699,
+  "count": 739,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -428,11 +428,11 @@
       "reviewedOn": "2026-11-17"
     },
     "today.hero.eyebrow": {
-      "text": "तुमची दैनिक साधना",
+      "text": "नवा दिवस, नवा संकल्प",
       "reviewed": false
     },
     "today.hero.sub": {
-      "text": "श्वास, जप आणि स्मरण, दररोज एक शांत पाऊल.",
+      "text": "प्राणायाम, ध्यान, योग, पवित्र ध्वनी, सण आणि तीर्थयात्रा: भारताच्या जिवंत परंपरांमध्ये रुजलेला एक शांत दैनिक सोबती.",
       "reviewed": false
     },
     "today.hero.cta": {
@@ -3429,6 +3429,166 @@
     },
     "me.cityDefault": {
       "text": "{city} (डीफॉल्ट)",
+      "reviewed": false
+    },
+    "nav.more": {
+      "text": "अधिक",
+      "reviewed": false
+    },
+    "nav.yoga": {
+      "text": "योग",
+      "reviewed": false
+    },
+    "nav.chakras": {
+      "text": "चक्रे",
+      "reviewed": false
+    },
+    "nav.yatra": {
+      "text": "यात्रा",
+      "reviewed": false
+    },
+    "nav.festivals": {
+      "text": "सण",
+      "reviewed": false
+    },
+    "nav.language": {
+      "text": "भाषा बदला",
+      "reviewed": false
+    },
+    "footer.tagline": {
+      "text": "भारतीय परंपरेत रुजलेला आध्यात्मिक सोबती",
+      "reviewed": false
+    },
+    "footer.blessing": {
+      "text": "सर्व प्राणी सुखी होवोत",
+      "reviewed": false
+    },
+    "footer.copyright": {
+      "text": "प्रत्येक साधकासाठी श्रद्धेने बनवले.",
+      "reviewed": false
+    },
+    "footer.disclaimer": {
+      "text": "हे वैद्यकीय उपचाराला पर्याय नाही. हळुवारपणे सराव करा.",
+      "reviewed": false
+    },
+    "today.hero.welcome": {
+      "text": "तुमच्या अंतर्मनाच्या मंदिरात स्वागत",
+      "reviewed": false
+    },
+    "today.panchang.title": {
+      "text": "आजचे पंचांग",
+      "reviewed": false
+    },
+    "today.panchang.full": {
+      "text": "संपूर्ण पंचांग",
+      "reviewed": false
+    },
+    "today.tile.tithi": {
+      "text": "तिथी",
+      "reviewed": false
+    },
+    "today.tile.sunrise": {
+      "text": "सूर्योदय",
+      "reviewed": false
+    },
+    "today.tile.sunset": {
+      "text": "सूर्यास्त",
+      "reviewed": false
+    },
+    "today.tile.sacred": {
+      "text": "आजचा सण",
+      "reviewed": false
+    },
+    "today.tile.quiet": {
+      "text": "शांत दिवस, स्थिर साधना",
+      "reviewed": false
+    },
+    "today.stat.streak": {
+      "text": "सलग दिवस",
+      "reviewed": false
+    },
+    "today.stat.streakSub": {
+      "text": "तुमचा पहिला दिवा लावा",
+      "reviewed": false
+    },
+    "today.stat.minutes": {
+      "text": "साधनेची मिनिटे",
+      "reviewed": false
+    },
+    "today.stat.minutesSub": {
+      "text": "प्रत्येक मिनिट महत्त्वाचा",
+      "reviewed": false
+    },
+    "today.stat.days": {
+      "text": "साधनेचे दिवस",
+      "reviewed": false
+    },
+    "today.stat.daysSub": {
+      "text": "सुरुवातीपासून",
+      "reviewed": false
+    },
+    "today.stat.week": {
+      "text": "या आठवड्यात",
+      "reviewed": false
+    },
+    "today.stat.weekSub": {
+      "text": "साधनेचे दिवस",
+      "reviewed": false
+    },
+    "today.path.title": {
+      "text": "आजचा तुमचा मार्ग",
+      "reviewed": false
+    },
+    "today.path.sub": {
+      "text": "आज अंतर्मनात कोणत्या वाटेने जायचे?",
+      "reviewed": false
+    },
+    "today.path.panchang": {
+      "text": "आजचे पंचांग पाहा",
+      "reviewed": false
+    },
+    "today.path.panchangSub": {
+      "text": "तिथी, नक्षत्र, सूर्योदय आणि पवित्र दिनदर्शिका",
+      "reviewed": false
+    },
+    "today.path.breath": {
+      "text": "प्राण स्थिर करा",
+      "reviewed": false
+    },
+    "today.path.meditate": {
+      "text": "ध्यानात बसा",
+      "reviewed": false
+    },
+    "today.path.yoga": {
+      "text": "योगासह हालचाल करा",
+      "reviewed": false
+    },
+    "today.path.sounds": {
+      "text": "ऐका, जप करा, माळ मोजा",
+      "reviewed": false
+    },
+    "today.path.soundsSub": {
+      "text": "निसर्गाचे आवाज, मंदिरातील घंटा, मंत्र आणि 108 मण्यांची माळ",
+      "reviewed": false
+    },
+    "today.path.journal": {
+      "text": "तुमच्या रोजनिशीत लिहा",
+      "reviewed": false
+    },
+    "today.path.journalSub": {
+      "text": "एक शांत पान, जे याच उपकरणावर राहते",
+      "reviewed": false
+    },
+    "practice.intro": {
+      "text": "प्राणायाम आणि ध्यान, प्रत्येक वेळी एक शांत सत्र.",
+      "reviewed": false
+    },
+    "cal.intro": {
+      "text": "तिथी, नक्षत्र, सूर्योदय आणि अनेक परंपरांचे पवित्र दिवस.",
+      "reviewed": false
+    },
+    "journal.intro": {
+      "text": "कृतज्ञता आणि चिंतनासाठी एक शांत पान. नोंदी याच उपकरणावर राहतात.",
       "reviewed": false
     }
   }

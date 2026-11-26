@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Mandala } from "@/components/Mandala";
+import { Icon } from "@/components/Icon";
 import { useLocalDay } from "@/components/useLocalDay";
 import { useS } from "@/features/shared/strings";
 import { btn } from "@/features/shared/ui";
@@ -43,29 +43,35 @@ export function VerseCard({ verses, buildDate }: { verses: VerseView[]; buildDat
   }
 
   return (
-    <section aria-labelledby="verse-title" data-verse-id={v.id} className="relative isolate overflow-hidden rounded-2xl border border-divider shadow-elev-1 bg-[var(--card-bg)] p-4">
-      <Mandala className="absolute -bottom-10 -right-10 -z-10 h-36 w-36 text-[var(--accent)] opacity-25" />
-      <h2 id="verse-title" className="text-h3">
+    <section aria-labelledby="verse-title" data-verse-id={v.id} className="paper-texture relative overflow-hidden rounded-[var(--r-xl)] border border-divider bg-surface p-6 shadow-elev-1 sm:p-9">
+      <span aria-hidden="true" className="absolute right-6 top-5 font-deva text-2xl text-accent/70 sm:right-8 sm:top-7">
+        ॥
+      </span>
+      <h2 id="verse-title" className="eyebrow flex items-center gap-2 font-sans text-primary">
+        <Icon name="Quotes" size={16} />
         {s("wisdom.title")}
       </h2>
-      <p className="text-small text-text-muted">{s(`wisdom.tradition.${v.tradition}`)}</p>
-      <p lang={v.script.lang} className="mt-3 whitespace-pre-line text-lg leading-8">
+      <p className="mt-1 text-small text-text-muted">{s(`wisdom.tradition.${v.tradition}`)}</p>
+      <p lang={v.script.lang} className="mt-4 whitespace-pre-line font-deva text-[1.375rem] leading-9 text-text sm:text-[1.5rem]">
         {v.script.text}
       </p>
-      {v.transliteration && <p lang={`${v.script.lang}-Latn`} className="mt-2 whitespace-pre-line italic text-text-muted">{v.transliteration}</p>}
-      <p className="mt-3 text-small font-semibold text-text-muted">{s("wisdom.meaning")}</p>
-      <p lang={v.meaning.lang}>{v.meaning.text}</p>
+      {v.transliteration && <p lang={`${v.script.lang}-Latn`} className="mt-3 whitespace-pre-line font-display text-[1.125rem] italic text-text-muted">{v.transliteration}</p>}
+      <p className="mt-4 text-caption font-semibold uppercase tracking-wider text-text-muted">{s("wisdom.meaning")}</p>
+      <p lang={v.meaning.lang} className="mt-1 text-body-lg text-text">
+        “{v.meaning.text}”
+      </p>
       {v.note && (
         <p className="mt-2 text-small text-text-muted" lang={v.note.lang}>
           {v.note.text}
         </p>
       )}
-      <p className="mt-3 font-semibold">
-        {v.by ? `${s("wisdom.by", { name: v.by })}, ` : ""}
+      <p className="mt-4 text-small font-semibold uppercase tracking-wider text-primary">
+        — {v.by ? `${s("wisdom.by", { name: v.by })}, ` : ""}
         {v.work} {v.reference}
       </p>
-      <p className="text-small text-text-muted">{s("wisdom.paraphrase")}</p>
-      <details className="mt-2 text-small">
+      <p className="mt-1 text-small text-text-muted">{s("wisdom.paraphrase")}</p>
+      <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1">
+      <details className="text-small">
         <summary className="inline-flex min-h-11 cursor-pointer items-center text-primary">{s("wisdom.sources")}</summary>
         <ul className="flex flex-col">
           {v.sources.map((src) => (
@@ -77,8 +83,7 @@ export function VerseCard({ verses, buildDate }: { verses: VerseView[]; buildDat
           ))}
         </ul>
       </details>
-      <div className="mt-2">
-        <button type="button" className={btn.secondary} onClick={() => void share()}>
+        <button type="button" className={btn.ghost} onClick={() => void share()}>
           {s("wisdom.share")}
         </button>
       </div>

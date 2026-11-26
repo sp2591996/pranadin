@@ -11,6 +11,8 @@ html {
   text-size-adjust: 100%;
 }
 
+/* Base element styles sit in the base layer so Tailwind utilities (text-*, font-*) can override them. */
+@layer base {
 body {
   background-color: var(--bg);
   color: var(--text);
@@ -30,6 +32,7 @@ h2 {
   font-weight: var(--type-h2-weight);
   font-size: var(--type-h2-size);
   line-height: var(--type-h2-line);
+}
 }
 
 :focus-visible {
@@ -63,7 +66,7 @@ h2 {
   letter-spacing: 0.25em;
   text-transform: uppercase;
 }
-:lang(hi) .eyebrow, :lang(mr) .eyebrow, .eyebrow:lang(hi), .eyebrow:lang(mr) { letter-spacing: 0.02em; }
+:lang(hi) .eyebrow, :lang(mr) .eyebrow, .eyebrow:lang(hi), .eyebrow:lang(mr) { letter-spacing: 0.02em !important; }
 .font-deva { font-family: var(--font-deva-stack); }
 .card-lift { transition: transform var(--dur-base) var(--easing-standard), box-shadow var(--dur-base) var(--easing-standard), border-color var(--dur-base); }
 .card-lift:hover { transform: translateY(-2px); box-shadow: var(--elev-3); border-color: color-mix(in srgb, var(--primary) 35%, var(--divider)); }
@@ -76,6 +79,17 @@ h2 {
 :root[data-motion="reduce"] .gentle-float, :root[data-motion="reduce"] .slow-spin { animation: none; }
 :root[data-motion="reduce"] .card-lift:hover { transform: none; }
 
+/* Page width (D-033): page roots are reading-width by default; `.wide` roots use the full desktop width. */
+.page-main > * { max-width: 48rem; margin-inline: auto; }
+.page-main > .wide { max-width: none; }
+.page-main > .mid { max-width: 60rem; }
+/* Pulsing diya dot on the logo. */
+@media (prefers-reduced-motion: no-preference) {
+  .diya-dot { animation: diya-pulse 2.4s ease-in-out infinite; }
+}
+@keyframes diya-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+:root[data-motion="reduce"] .diya-dot { animation: none; }
+
 /* Active bottom-nav tab: a soft saffron glow behind the pill. */
 .diya-glow {
   box-shadow: 0 0 0 1px color-mix(in srgb, var(--primary) 35%, transparent), 0 4px 14px -4px color-mix(in srgb, var(--primary) 55%, transparent);
@@ -83,7 +97,7 @@ h2 {
 
 /* Yatra trip planner: print only the plan (D-026 Wave E). */
 @media print {
-  header.app-header, body > nav, #main ~ nav, .skip-link { display: none !important; }
+  header.app-header, footer.app-footer, body > nav, #main ~ nav, .skip-link { display: none !important; }
   body { background: #fff; }
 }
 

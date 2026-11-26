@@ -10,6 +10,7 @@ import { soundEngine } from "./engine";
 import { JapaMala } from "./JapaMala";
 import { GENERATED, isGenerated, SCENES, SLEEP_OPTIONS, type Layer } from "./scenes";
 import { PageHero } from "@/components/PageHero";
+import { Icon } from "@/components/Icon";
 
 /** Translated name, or the manifest's English name when no string exists for a new file. */
 export function trackName(s: S, t: AudioTrack): string {
@@ -42,10 +43,13 @@ function PlayRow({ id, name, sub, layers }: { id: string; name: string; sub?: st
   const key = `sound:${id}`;
   const on = snap.key === key && snap.status !== "idle";
   return (
-    <li className="flex items-center gap-3 px-4 py-3">
-      <span className="min-w-0 flex-1">
-        <span className="block font-semibold [overflow-wrap:anywhere]">{name}</span>
-        {sub ? <span className="block text-[0.875rem] leading-5 text-text-muted">{sub}</span> : null}
+    <li className={`flex flex-wrap items-center gap-3 rounded-2xl border p-4 shadow-elev-1 transition-colors ${on ? "border-[color-mix(in_srgb,var(--primary)_40%,var(--divider))] bg-primary-tint/40" : "border-divider bg-surface"}`}>
+      <span aria-hidden="true" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary-tint text-primary">
+        <Icon name="Waveform" size={22} />
+      </span>
+      <span className="min-w-0 flex-1 basis-32">
+        <span className="block font-display text-[1.25rem] font-semibold leading-tight [overflow-wrap:anywhere]">{name}</span>
+        {sub ? <span className="block text-small text-text-muted">{sub}</span> : null}
       </span>
       <button
         type="button"
@@ -152,22 +156,27 @@ function Listen() {
   const s = useS();
   const snap = useSnap();
   return (
-    <div className="flex flex-col gap-6">
-      <NowPlaying />
+    <div className="flex flex-col gap-8">
+      <div className="mx-auto w-full max-w-3xl">
+        <NowPlaying />
+      </div>
 
       <section aria-labelledby="scenes-h">
-        <h2 id="scenes-h">{s("sounds.scenes.title")}</h2>
-        <p className="mb-3 text-text-muted">{s("sounds.scenes.sub")}</p>
-        <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface">
+        <h2 id="scenes-h" className="text-[1.75rem] leading-9">{s("sounds.scenes.title")}</h2>
+        <p className="mb-4 text-text-muted">{s("sounds.scenes.sub")}</p>
+        <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {SCENES.map((sc) => {
             const key = `scene:${sc.id}`;
             const on = snap.key === key && snap.status !== "idle";
             const name = s(`sounds.scene.${sc.id}`);
             return (
-              <li key={sc.id} className="flex items-center gap-3 px-4 py-3">
-                <span className="min-w-0 flex-1">
-                  <span className="block font-semibold [overflow-wrap:anywhere]">{name}</span>
-                  <span className="block text-[0.875rem] leading-5 text-text-muted [overflow-wrap:anywhere]">
+              <li key={sc.id} className={`flex flex-wrap items-center gap-3 rounded-2xl border p-4 shadow-elev-1 transition-colors ${on ? "border-[color-mix(in_srgb,var(--primary)_40%,var(--divider))] bg-primary-tint/40" : "border-divider bg-surface"}`}>
+                <span aria-hidden="true" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-[color-mix(in_srgb,var(--accent)_16%,var(--surface))] text-accent">
+                  <Icon name="FlowerLotus" size={22} />
+                </span>
+                <span className="min-w-0 flex-1 basis-32">
+                  <span className="block font-display text-[1.25rem] font-semibold leading-tight [overflow-wrap:anywhere]">{name}</span>
+                  <span className="block text-small text-text-muted [overflow-wrap:anywhere]">
                     {sc.layers.map((l) => soundName(s, l.id)).join(" · ")}
                   </span>
                 </span>
@@ -188,14 +197,14 @@ function Listen() {
       </section>
 
       <section aria-labelledby="rec-h">
-        <h2 id="rec-h" className="mb-3">
+        <h2 id="rec-h" className="mb-3 text-[1.75rem] leading-9">
           {s("sounds.rec.title")}
         </h2>
         <div className="flex flex-col gap-4">
           {usedCategories().map((c) => (
             <div key={c}>
-              <h3 className="mb-2 font-semibold text-text-muted">{s(`sounds.rec.${c}`)}</h3>
-              <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface">
+              <h3 className="eyebrow mb-3 !tracking-wider text-primary">{s(`sounds.rec.${c}`)}</h3>
+              <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
                 {tracksIn(c).map((t) => (
                   <PlayRow
                     key={t.id}
@@ -212,9 +221,9 @@ function Listen() {
       </section>
 
       <section aria-labelledby="gen-h">
-        <h2 id="gen-h">{s("sounds.gen.title")}</h2>
-        <p className="mb-3 text-text-muted">{s("sounds.gen.sub")}</p>
-        <ul className="divide-y divide-divider rounded-lg border border-divider bg-surface">
+        <h2 id="gen-h" className="text-[1.75rem] leading-9">{s("sounds.gen.title")}</h2>
+        <p className="mb-4 text-text-muted">{s("sounds.gen.sub")}</p>
+        <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {GENERATED.map((id) => (
             <PlayRow
               key={id}
@@ -230,27 +239,30 @@ function Listen() {
   );
 }
 
+/** Segmented control (after the reference prototype's tab switchers). */
+const seg = "inline-flex min-h-11 items-center rounded-full px-5 font-semibold text-text-muted transition-colors aria-[pressed=true]:bg-surface aria-[pressed=true]:text-primary aria-[pressed=true]:shadow-elev-1";
+
 export function SoundsView() {
   const s = useS();
   const [view, setView] = useState<"listen" | "japa">("listen");
   return (
-    <div className="flex flex-col gap-4">
-      <PageHero as="div" deva="नाद" title={s("sounds.title")} intro={s("sounds.intro")} />
-      <div role="group" aria-label={s("sounds.view.label")} className="flex flex-wrap gap-2">
-        <button type="button" className={btn.chip} aria-pressed={view === "listen"} onClick={() => setView("listen")}>
+    <div className="wide flex flex-col gap-6">
+      <PageHero as="div" deva="नाद · जप" title={s("sounds.title")} intro={s("sounds.intro")} />
+      <div role="group" aria-label={s("sounds.view.label")} className="mx-auto flex flex-wrap justify-center gap-1 rounded-full border border-divider bg-surface-2 p-1">
+        <button type="button" className={seg} aria-pressed={view === "listen"} onClick={() => setView("listen")}>
           {s("sounds.view.listen")}
         </button>
-        <button type="button" className={btn.chip} aria-pressed={view === "japa"} onClick={() => setView("japa")}>
+        <button type="button" className={seg} aria-pressed={view === "japa"} onClick={() => setView("japa")}>
           {s("sounds.view.japa")}
         </button>
       </div>
       {view === "listen" ? (
         <Listen />
       ) : (
-        <>
+        <div className="mx-auto flex w-full max-w-3xl flex-col gap-6">
           <JapaMala />
           <NowPlaying />
-        </>
+        </div>
       )}
     </div>
   );

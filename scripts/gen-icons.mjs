@@ -9,15 +9,17 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const ICONS = ["SunHorizon", "Wind", "CalendarBlank", "NotePencil", "SpeakerHigh", "UserCircle", "ArrowLeft"];
-const WEIGHTS = ["regular", "fill"];
+// Nav icons get both weights (filled when active); the rest only "regular" (D-033 look).
+const NAV = ["SunHorizon", "Wind", "CalendarBlank", "NotePencil", "SpeakerHigh", "House", "Waveform", "CalendarHeart", "Notebook"];
+const PLAIN = ["UserCircle", "ArrowLeft", "PersonSimpleTaiChi", "Timer", "Sun", "Bank", "DotsThree", "ArrowRight", "Flame", "Sparkle", "CheckCircle", "Quotes", "Globe", "MapPin", "FlowerLotus", "Clock", "SunDim", "X", "CaretDown"];
+const ICONS = [...NAV, ...PLAIN];
 const DEFS = join(process.cwd(), "node_modules", "@phosphor-icons", "react", "dist", "defs");
 
 const out = {};
 for (const name of ICONS) {
   const src = readFileSync(join(DEFS, `${name}.es.js`), "utf8");
   out[name] = {};
-  for (const w of WEIGHTS) {
+  for (const w of NAV.includes(name) ? ["regular", "fill"] : ["regular"]) {
     const start = src.indexOf(`"${w}",`);
     if (start < 0) throw new Error(`${name}: weight ${w} not found`);
     const end = src.indexOf("\n  ]", start);
