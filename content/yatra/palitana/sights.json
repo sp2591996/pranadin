@@ -1,0 +1,120 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "palitana",
+  "sights": [
+    {
+      "id": "adinath-temple",
+      "name": { "en": "Adinath Temple on Shatrunjaya", "hi": { "text": "शत्रुंजय का आदिनाथ मंदिर", "reviewed": false }, "mr": { "text": "शत्रुंजयावरील आदिनाथ मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The main temple on the hill, dedicated to Adinath (Rishabhanatha), the first tirthankara. Jain pilgrims offer prayers here and sit quietly for darshan. Photography and phones are usually restricted inside the shrine.",
+        "hi": { "text": "पहाड़ी का मुख्य मंदिर, जो प्रथम तीर्थंकर आदिनाथ (ऋषभनाथ) को समर्पित है। जैन यात्री यहाँ प्रार्थना करते हैं और दर्शन के लिए शांति से बैठते हैं। मंदिर के भीतर फ़ोटो और फ़ोन आम तौर पर प्रतिबंधित होते हैं।", "reviewed": false },
+        "mr": { "text": "टेकडीवरील मुख्य मंदिर, जे प्रथम तीर्थंकर आदिनाथ (ऋषभनाथ) यांना समर्पित आहे. जैन यात्रेकरू येथे प्रार्थना करतात आणि दर्शनासाठी शांतपणे बसतात. मंदिरात छायाचित्रे आणि फोन सामान्यतः प्रतिबंधित असतात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Temples on the hill open in the early morning and close in the evening. Pilgrims should finish the climb and return down before dusk, since no one may stay on the hill overnight. Times vary by season; check locally.",
+        "hi": { "text": "पहाड़ी के मंदिर सुबह जल्दी खुलते हैं और शाम को बंद होते हैं। यात्रियों को सूर्यास्त से पहले चढ़ाई पूरी कर नीचे लौट आना चाहिए, क्योंकि पहाड़ी पर रात में कोई नहीं रुक सकता। समय मौसम के अनुसार बदलता है; स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "टेकडीवरील मंदिरे पहाटे लवकर उघडतात आणि संध्याकाळी बंद होतात. टेकडीवर रात्री कोणालाही थांबता येत नसल्याने यात्रेकरूंनी सूर्यास्तापूर्वी चढाई पूर्ण करून खाली यावे. वेळा हंगामानुसार बदलतात; स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Wear simple, clean clothes that cover the shoulders and knees. Remove footwear and carry it only as far as the rules allow; leather items are not taken up the hill. Pilgrims often walk barefoot. Check the rules locally before you go.",
+        "hi": { "text": "सादे, साफ़ कपड़े पहनें जो कंधे और घुटने ढकें। जूते-चप्पल नियमों के अनुसार ही साथ रखें; चमड़े की चीज़ें पहाड़ी पर नहीं ले जाई जातीं। यात्री अक्सर नंगे पाँव चलते हैं। जाने से पहले नियम स्थानीय रूप से जाँच लें।", "reviewed": false },
+        "mr": { "text": "साधे, स्वच्छ कपडे घाला जे खांदे आणि गुडघे झाकतील. नियमांनुसारच पादत्राणे सोबत ठेवा; चामड्याच्या वस्तू टेकडीवर नेल्या जात नाहीत. यात्रेकरू अनेकदा अनवाणी चालतात. जाण्यापूर्वी नियम स्थानिक पातळीवर तपासा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "pundarik-shrine",
+      "name": { "en": "Pundarik Swami Shrine", "hi": { "text": "पुंडरीक स्वामी मंदिर", "reviewed": false }, "mr": { "text": "पुंडरीक स्वामी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "A shrine to Pundarik Swami, who is honoured as the one who attained liberation on this hill. It stands opposite the Adinath temple and is a quieter place for reflection between the larger shrines.",
+        "hi": { "text": "पुंडरीक स्वामी का मंदिर, जिन्हें इस पहाड़ी पर मोक्ष प्राप्त करने वाले के रूप में सम्मानित किया जाता है। यह आदिनाथ मंदिर के सामने है और बड़े मंदिरों के बीच चिंतन के लिए अपेक्षाकृत शांत स्थान है।", "reviewed": false },
+        "mr": { "text": "पुंडरीक स्वामी यांचे मंदिर, ज्यांना या टेकडीवर मोक्ष प्राप्त करणारे म्हणून मान दिला जातो. ते आदिनाथ मंदिरासमोर आहे आणि मोठ्या मंदिरांदरम्यान चिंतनासाठी तुलनेने शांत ठिकाण आहे.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open during the hilltop temple hours. Times are not fixed in this draft; check locally.",
+        "hi": { "text": "पहाड़ी के मंदिरों के समय में खुला रहता है। इस मसौदे में समय तय नहीं है; स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "टेकडीवरील मंदिरांच्या वेळेत खुले असते. या मसुद्यात वेळा निश्चित नाहीत; स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "The same modest dress as the other temples: covered shoulders and knees, and footwear removed as the rules require.",
+        "hi": { "text": "अन्य मंदिरों जैसे ही शालीन कपड़े: कंधे और घुटने ढकें, और नियमों के अनुसार जूते उतारें।", "reviewed": false },
+        "mr": { "text": "इतर मंदिरांप्रमाणेच सभ्य कपडे: खांदे आणि गुडघे झाका, आणि नियमांनुसार पादत्राणे काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "hilltop-temple-cluster",
+      "name": { "en": "The hilltop temple cluster", "hi": { "text": "पहाड़ी के मंदिर समूह", "reviewed": false }, "mr": { "text": "टेकडीवरील मंदिर समूह", "reviewed": false } },
+      "desc": {
+        "en": "Across the summit are more than 800 Jain temples, many small and many rebuilt over centuries. Many pilgrims visit a few shrines in a half-day rather than trying to see all of them. Take your time, and ask a temple caretaker about the history of each shrine.",
+        "hi": { "text": "शिखर पर 800 से अधिक जैन मंदिर हैं, जिनमें से कई छोटे हैं और सदियों में पुनः बने। कई यात्री सभी मंदिर देखने के बजाय आधे दिन में कुछ मंदिर देखते हैं। समय लें, और हर मंदिर के इतिहास के बारे में वहाँ के सेवक से पूछें।", "reviewed": false },
+        "mr": { "text": "शिखरावर 800 हून अधिक जैन मंदिरे आहेत, त्यांपैकी अनेक लहान असून शतकानुशतके पुन्हा बांधली गेली. अनेक यात्रेकरू सर्व मंदिरे पाहण्याऐवजी अर्ध्या दिवसात काही मंदिरे पाहतात. निवांत पाहा, आणि प्रत्येक मंदिराच्या इतिहासाविषयी तेथील सेवकाला विचारा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Visit in the morning, when the climb is cooler and the shrines are calmer. Check the hilltop hours locally, since they change with the season.",
+        "hi": { "text": "सुबह जाएँ, जब चढ़ाई ठंडी और मंदिर शांत होते हैं। पहाड़ी के समय स्थानीय रूप से जाँचें, क्योंकि वे मौसम के साथ बदलते हैं।", "reviewed": false },
+        "mr": { "text": "सकाळी भेट द्या, जेव्हा चढाई थंड आणि मंदिरे शांत असतात. टेकडीवरील वेळा हंगामानुसार बदलतात, त्यामुळे स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes, covered shoulders and knees, and bare feet or the footwear the rules allow. Carry a light layer for the top.",
+        "hi": { "text": "शालीन कपड़े, कंधे और घुटने ढके हुए, और नंगे पाँव या नियमों के अनुसार अनुमत जूते। ऊपर के लिए हल्का कपड़ा साथ रखें।", "reviewed": false },
+        "mr": { "text": "सभ्य कपडे, खांदे आणि गुडघे झाकलेले, आणि अनवाणी किंवा नियमांनुसार परवानगी असलेली पादत्राणे. वरसाठी हलके अंगवस्त्र सोबत ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "palitana-town-temples",
+      "name": { "en": "Jain temples in Palitana town", "hi": { "text": "पालिताना नगर के जैन मंदिर", "reviewed": false }, "mr": { "text": "पालिताणा गावातील जैन मंदिरे", "reviewed": false } },
+      "desc": {
+        "en": "The town below the hill has its own Jain temples, dharamshalas (pilgrim rest houses) and sweet shops that serve pure vegetarian food. A good place to rest before or after the climb.",
+        "hi": { "text": "पहाड़ी के नीचे के नगर में अपने जैन मंदिर, धर्मशालाएँ (यात्री विश्रामगृह) और मिठाई की दुकानें हैं जो शुद्ध शाकाहारी भोजन देती हैं। चढ़ाई से पहले या बाद में आराम के लिए अच्छी जगह।", "reviewed": false },
+        "mr": { "text": "टेकडीखालील गावात स्वतःची जैन मंदिरे, धर्मशाळा (यात्रेकरू विश्रांतिगृह) आणि शुद्ध शाकाहारी अन्न देणारी मिठाईची दुकाने आहेत. चढाईपूर्वी किंवा नंतर विश्रांतीसाठी चांगली जागा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Town temples keep their own hours, which usually include a morning and evening window. Check locally.",
+        "hi": { "text": "नगर के मंदिरों के अपने समय होते हैं, जिनमें आम तौर पर सुबह और शाम के दो समय होते हैं। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "गावातील मंदिरांच्या स्वतःच्या वेळा असतात, ज्यात सहसा सकाळी आणि संध्याकाळी असे दोन वेळा असतात. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, simple clothes, and remove footwear at temple entrances.",
+        "hi": { "text": "शालीन, सादे कपड़े, और मंदिर के प्रवेश द्वार पर जूते उतारें।", "reviewed": false },
+        "mr": { "text": "सभ्य, साधे कपडे, आणि मंदिराच्या प्रवेशद्वारावर पादत्राणे काढा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Start the climb early, ideally before sunrise, and keep to your own pace. The route has about 3,750 to 3,800 steps and takes roughly two hours on foot.",
+        "hi": { "text": "चढ़ाई जल्दी शुरू करें, आदर्श रूप से सूर्योदय से पहले, और अपनी गति से चलें। मार्ग में लगभग 3,750 से 3,800 सीढ़ियाँ हैं और पैदल लगभग दो घंटे लगते हैं।", "reviewed": false },
+        "mr": { "text": "चढाई लवकर सुरू करा, शक्यतो सूर्योदयापूर्वी, आणि आपल्या गतीने चला. वाटेत सुमारे 3,750 ते 3,800 पायऱ्या आहेत आणि पायी सुमारे दोन तास लागतात.", "reviewed": false }
+      },
+      {
+        "en": "Do not eat or carry food on the route. Jain practice keeps the hill free of food, so finish eating and drinking at the base and carry only water if the rules allow.",
+        "hi": { "text": "मार्ग में भोजन न खाएँ और न ले जाएँ। जैन परंपरा में पहाड़ी भोजन-मुक्त रखी जाती है, इसलिए तलहटी पर ही खाना-पीना पूरा करें और नियम अनुमति दें तो केवल पानी साथ रखें।", "reviewed": false },
+        "mr": { "text": "वाटेत अन्न खाऊ नका आणि सोबत नेऊ नका. जैन परंपरेनुसार टेकडी अन्नमुक्त ठेवली जाते, त्यामुळे पायथ्याशीच खाणेपिणे पूर्ण करा आणि नियम परवानगी देत असल्यास केवळ पाणी सोबत ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "Remember that no one may stay on the hill overnight. Plan to return to the base before evening.",
+        "hi": { "text": "याद रखें कि पहाड़ी पर रात में कोई नहीं रुक सकता। शाम से पहले तलहटी लौटने की योजना बनाएँ।", "reviewed": false },
+        "mr": { "text": "लक्षात ठेवा की टेकडीवर रात्री कोणालाही थांबता येत नाही. संध्याकाळपूर्वी पायथ्याशी परत येण्याचे नियोजन करा.", "reviewed": false }
+      },
+      {
+        "en": "Doli (palanquin) carriers may be available for those who cannot climb. Check locally for current availability and rates.",
+        "hi": { "text": "जो चढ़ नहीं सकते उनके लिए डोली या अन्य विकल्प उपलब्ध हो सकते हैं। वर्तमान उपलब्धता और दरें स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "जे चढू शकत नाहीत त्यांच्यासाठी डोली किंवा इतर पर्याय उपलब्ध असू शकतात. सध्याची उपलब्धता आणि दर स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      {
+        "en": "Keep the silence and restraint of the place. Avoid loud talk, and do not bring leather goods or meat up the hill.",
+        "hi": { "text": "स्थान की शांति और संयम बनाए रखें। ऊँची बातचीत से बचें, और चमड़े की चीज़ें या मांस पहाड़ी पर न ले जाएँ।", "reviewed": false },
+        "mr": { "text": "ठिकाणची शांतता आणि संयम राखा. मोठ्याने बोलणे टाळा, आणि चामड्याच्या वस्तू किंवा मांस टेकडीवर नेऊ नका.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "The temple trust publishes visitor information for the hill. Booking and transport details change, so confirm on the official trust website or at the base. PranaDin does not sell tickets.",
+      "hi": { "text": "मंदिर न्यास पहाड़ी की यात्री जानकारी प्रकाशित करता है। बुकिंग और परिवहन विवरण बदलते हैं, इसलिए आधिकारिक न्यास वेबसाइट पर या तलहटी पर पुष्टि करें। PranaDin टिकट नहीं बेचता।", "reviewed": false },
+      "mr": { "text": "मंदिर विश्वस्त संस्था टेकडीची यात्री माहिती प्रकाशित करते. बुकिंग आणि वाहतुकीचे तपशील बदलतात, त्यामुळे अधिकृत विश्वस्त संकेतस्थळावर किंवा पायथ्याशी खात्री करा. PranaDin तिकिटे विकत नाही.", "reviewed": false }
+    }
+  }
+}

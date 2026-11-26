@@ -1,0 +1,137 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "velankanni",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "A day at the basilica", "hi": { "text": "बेसिलिका पर एक दिन", "reviewed": false }, "mr": { "text": "बॅसिलिकेवर एक दिवस", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Attend the morning Mass at the basilica and pray quietly before the image of Mary.", "hi": { "text": "बेसिलिका में सुबह के मिस्सा में भाग लें और मरियम की प्रतिमा के सामने शांति से प्रार्थना करें।", "reviewed": false }, "mr": { "text": "बॅसिलिकेत सकाळच्या मिस्सामध्ये सहभागी व्हा आणि मरीयेच्या प्रतिमेसमोर शांतपणे प्रार्थना करा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Walk the lanes, see the shrine precinct and the shops, and rest in the shade.", "hi": { "text": "गलियों में घूमें, तीर्थ परिसर और दुकानें देखें, और छाया में आराम करें।", "reviewed": false }, "mr": { "text": "गल्ल्यांतून फिरा, तीर्थ परिसर आणि दुकाने पाहा, आणि सावलीत विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Walk to the sea front for the evening, then join the novena or evening prayers if they are on.", "hi": { "text": "शाम को समुद्री किनारे तक घूमें, फिर यदि हो तो नोवेना या शाम की प्रार्थना में शामिल हों।", "reviewed": false }, "mr": { "text": "संध्याकाळी समुद्रकिनाऱ्यापर्यंत फिरा, मग नोव्हेना किंवा संध्याकाळची प्रार्थना असल्यास त्यात सहभागी व्हा.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Prayer and the coast", "hi": { "text": "प्रार्थना और तट", "reviewed": false }, "mr": { "text": "प्रार्थना आणि किनारा", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Attend Mass early and light a candle at the designated place.", "hi": { "text": "जल्दी मिस्सा में भाग लें और नियत स्थान पर मोमबत्ती जलाएँ।", "reviewed": false }, "mr": { "text": "लवकर मिस्सामध्ये सहभागी व्हा आणि नेमलेल्या जागी मेणबत्ती लावा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit the Nagapattinam area by bus or cab, and see the coast road in the cooler hours.", "hi": { "text": "बस या कैब से नागपट्टिनम क्षेत्र जाएँ, और ठंडे समय में तट की सड़क देखें।", "reviewed": false }, "mr": { "text": "बस किंवा कॅबने नागपट्टिनम परिसरात जा, आणि थंड वेळेत किनाऱ्याचा रस्ता पाहा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Return to Velankanni for a quiet prayer and the Rosary at the basilica.", "hi": { "text": "शांत प्रार्थना और बेसिलिका में जपमाला के लिए वेलंकन्नी लौटें।", "reviewed": false }, "mr": { "text": "शांत प्रार्थना आणि बॅसिलिकेतील जपमाळेसाठी वेलंकण्णीला परत या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Eat a simple vegetarian dinner in town, then rest before your journey on.", "hi": { "text": "नगर में सादा शाकाहारी रात्रि भोजन करें, फिर आगे की यात्रा से पहले आराम करें।", "reviewed": false }, "mr": { "text": "गावात साधे शाकाहारी रात्रीभोजन घ्या, मग पुढच्या प्रवासापूर्वी विश्रांती घ्या.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Festival or quiet visit", "hi": { "text": "उत्सव या शांत यात्रा", "reviewed": false }, "mr": { "text": "उत्सव किंवा शांत भेट", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive, settle in and attend the first Mass of the day.", "hi": { "text": "पहुँचें, ठहरें और दिन के पहले मिस्सा में भाग लें।", "reviewed": false }, "mr": { "text": "पोहोचा, स्थिरावा आणि दिवसाच्या पहिल्या मिस्सामध्ये सहभागी व्हा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit the church and shrine precinct in the cooler hours, and buy religious items at the shops outside.", "hi": { "text": "ठंडे समय में गिरजाघर और तीर्थ परिसर देखें, और बाहर की दुकानों से धार्मिक सामान खरीदें।", "reviewed": false }, "mr": { "text": "थंड वेळेत चर्च आणि तीर्थ परिसर पाहा, आणि बाहेरील दुकानांतून धार्मिक वस्तू घ्या.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Walk to the sea front in the morning, when the air is cooler, and return to the basilica for a quiet prayer.", "hi": { "text": "सुबह ठंडी हवा में समुद्री किनारे तक घूमें, और शांत प्रार्थना के लिए बेसिलिका लौटें।", "reviewed": false }, "mr": { "text": "सकाळी थंड हवेत समुद्रकिनाऱ्यापर्यंत फिरा, आणि शांत प्रार्थनेसाठी बॅसिलिकेत परत या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Join the evening novena or Rosary, if it is on, and eat a simple dinner in town.", "hi": { "text": "यदि हो तो शाम की नोवेना या जपमाला में भाग लें, और नगर में सादा रात्रि भोजन करें।", "reviewed": false }, "mr": { "text": "असल्यास संध्याकाळच्या नोव्हेना किंवा जपमाळेत सहभागी व्हा, आणि गावात साधे रात्रीभोजन घ्या.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Join the early Mass once more and reflect at the basilica before leaving.", "hi": { "text": "एक बार फिर सुबह के मिस्सा में भाग लें और जाने से पहले बेसिलिका में चिंतन करें।", "reviewed": false }, "mr": { "text": "पुन्हा एकदा सकाळच्या मिस्सामध्ये सहभागी व्हा आणि निघण्यापूर्वी बॅसिलिकेत चिंतन करा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Travel onward from Nagapattinam or Tiruchirappalli. Check transport times locally.", "hi": { "text": "नागपट्टिनम या त्रिची से आगे की यात्रा करें। परिवहन समय स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "नागपट्टिनम किंवा त्रिचीहून पुढे प्रवास करा. वाहतुकीच्या वेळा स्थानिक पातळीवर तपासा.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near the basilica", "hi": { "text": "बेसिलिका के पास", "reviewed": false }, "mr": { "text": "बॅसिलिकेजवळ", "reviewed": false } },
+      "body": { "en": "Stay within walking distance of the basilica so you can attend early Mass. Guest houses run by parishes and private hotels are the usual options. Book early for the festival.", "hi": { "text": "सुबह के मिस्सा में जाने के लिए बेसिलिका की पैदल दूरी पर ठहरें। पैरिश द्वारा चलाए गए गेस्ट हाउस और निजी होटल सामान्य विकल्प हैं। उत्सव के लिए जल्दी बुक करें।", "reviewed": false }, "mr": { "text": "सकाळच्या मिस्साला जाता यावे म्हणून बॅसिलिकेपासून पायी अंतरावर मुक्काम करा. पॅरिशद्वारे चालवली जाणारी गेस्ट हाऊस आणि खासगी हॉटेल्स हे नेहमीचे पर्याय आहेत. उत्सवासाठी लवकर बुक करा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Nagapattinam", "hi": { "text": "नागपट्टिनम", "reviewed": false }, "mr": { "text": "नागपट्टिनम", "reviewed": false } },
+      "body": { "en": "The district town about 12 km away has more hotels and better transport links. Useful if Velankanni is full during the festival.", "hi": { "text": "लगभग 12 किमी दूर ज़िला नगर में अधिक होटल और बेहतर परिवहन संपर्क हैं। उत्सव के दौरान वेलंकन्नी भरा हो तो उपयोगी।", "reviewed": false }, "mr": { "text": "सुमारे 12 किमी दूर असलेल्या जिल्हा गावात अधिक हॉटेल्स आणि चांगले वाहतूक संपर्क आहेत. उत्सवात वेलंकण्णी भरलेले असल्यास उपयुक्त.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Simple lodges", "hi": { "text": "सादे लॉज", "reviewed": false }, "mr": { "text": "साधी लॉज", "reviewed": false } },
+      "body": { "en": "Budget lodges are common in the town for pilgrims. Ask about rules on food, visiting hours and quiet times before booking. Check current rates locally.", "hi": { "text": "यात्रियों के लिए नगर में बजट लॉज आम हैं। बुक करने से पहले भोजन, मिलने के समय और शांति के समय के नियम पूछें। वर्तमान दरें स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "यात्रेकरूंसाठी गावात बजेट लॉज सामान्य आहेत. बुक करण्यापूर्वी अन्न, भेटीच्या वेळा आणि शांततेच्या वेळांचे नियम विचारा. सध्याचे दर स्थानिक पातळीवर तपासा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Vegetarian and coastal food", "hi": { "text": "शाकाहारी और तटीय भोजन", "reviewed": false }, "mr": { "text": "शाकाहारी आणि किनारी अन्न", "reviewed": false } },
+      "body": { "en": "Tamil vegetarian meals, rice dishes and tiffin are easy to find near the basilica. Seafood is served in some restaurants along the coast, so choose a place with good hygiene.", "hi": { "text": "बेसिलिका के पास तमिल शाकाहारी भोजन, चावल के व्यंजन और टिफ़िन आसानी से मिलते हैं। तट के कुछ रेस्तराँ में समुद्री भोजन मिलता है, इसलिए अच्छी स्वच्छता वाली जगह चुनें।", "reviewed": false }, "mr": { "text": "बॅसिलिकेजवळ तमिळ शाकाहारी जेवण, भाताचे पदार्थ आणि टिफिन सहज मिळतात. किनाऱ्यावरील काही उपाहारगृहांत सागरी अन्न मिळते, त्यामुळे चांगली स्वच्छता असलेली जागा निवडा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Prayer-day food", "hi": { "text": "प्रार्थना के दिन का भोजन", "reviewed": false }, "mr": { "text": "प्रार्थनेच्या दिवसाचे अन्न", "reviewed": false } },
+      "body": { "en": "On some feast days and Fridays, local families and parishes share food with visitors. Accept it with thanks, and eat where others sit.", "hi": { "text": "कुछ पर्व दिनों और शुक्रवार को स्थानीय परिवार और पैरिश यात्रियों के साथ भोजन बाँटते हैं। धन्यवाद के साथ स्वीकार करें और जहाँ दूसरे बैठें वहीं खाएँ।", "reviewed": false }, "mr": { "text": "काही सणांच्या दिवशी आणि शुक्रवारी स्थानिक कुटुंबे आणि पॅरिश भाविकांसोबत अन्न वाटतात. आभारपूर्वक स्वीकारा आणि इतर जेथे बसतात तेथे जेवा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Drinking water and snacks", "hi": { "text": "पानी और नाश्ता", "reviewed": false }, "mr": { "text": "पाणी आणि नाश्ता", "reviewed": false } },
+      "body": { "en": "Snacks, tender coconut and fresh juice are sold along the lanes. Drink bottled or boiled water and carry some with you in the heat.", "hi": { "text": "गलियों में नाश्ता, डाभ (नारियल पानी) और ताज़ा जूस बिकते हैं। बोतलबंद या उबला पानी पिएँ और गर्मी में अपने साथ रखें।", "reviewed": false }, "mr": { "text": "गल्ल्यांत नाश्ता, शहाळे आणि ताजा रस विकला जातो. बाटलीबंद किंवा उकळलेले पाणी प्या आणि उन्हात सोबत ठेवा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Simple vegetarian meals are easy to find in Velankanni, and many pilgrims choose them during their prayer days. Eating simply is a personal choice, not a claim about health.",
+    "hi": { "text": "वेलंकन्नी में सादा शाकाहारी भोजन आसानी से मिलता है, और कई यात्री प्रार्थना के दिनों में उसे चुनते हैं। सादा भोजन करना एक व्यक्तिगत चुनाव है, स्वास्थ्य का दावा नहीं।", "reviewed": false },
+    "mr": { "text": "वेलंकण्णीमध्ये साधे शाकाहारी जेवण सहज मिळते, आणि अनेक यात्रेकरू प्रार्थनेच्या दिवसांत ते निवडतात. साधे जेवण ही वैयक्तिक निवड आहे, आरोग्याचा दावा नव्हे.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 800, "max": 1600 },
+      "mid": { "min": 2000, "max": 4000 },
+      "comfort": { "min": 4500, "max": 9000 }
+    },
+    "note": {
+      "en": "Indicative rupees per person per day for stay, food and local transport, assuming two people sharing a room. Prices rise sharply during the August and September festival. Check current rates.",
+      "hi": { "text": "ठहरने, भोजन और स्थानीय परिवहन के लिए प्रति व्यक्ति प्रति दिन सांकेतिक रुपये, दो लोगों के एक कमरा साझा करने की मान्यता पर। अगस्त-सितंबर के उत्सव में दरें तेज़ी से बढ़ती हैं। वर्तमान दरें जाँच लें।", "reviewed": false },
+      "mr": { "text": "राहणे, जेवण आणि स्थानिक वाहतुकीसाठी प्रति व्यक्ती प्रति दिवस सूचक रुपये, दोन जणांनी एक खोली वाटून घेतली असे गृहीत धरून. ऑगस्ट-सप्टेंबरच्या उत्सवात दर झपाट्याने वाढतात. सध्याचे दर तपासा.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Heat and humidity on the coast can be tiring. Drink water regularly, rest in the shade, and take care in the sun from April to June.",
+      "hi": { "text": "तट पर गर्मी और उमस थका सकती है। नियमित पानी पिएँ, छाया में आराम करें, और अप्रैल से जून तक धूप में सावधानी रखें।", "reviewed": false },
+      "mr": { "text": "किनाऱ्यावरील उष्णता आणि दमटपणा थकवणारा ठरू शकतो. नियमित पाणी प्या, सावलीत विश्रांती घ्या, आणि एप्रिल ते जूनमध्ये उन्हात काळजी घ्या.", "reviewed": false }
+    },
+    {
+      "en": "Crowds during the festival are large. Keep your belongings close and keep children and elderly family members within sight.",
+      "hi": { "text": "उत्सव के दौरान भीड़ बहुत होती है। अपना सामान पास रखें, और बच्चों व बड़ों को नज़र में रखें।", "reviewed": false },
+      "mr": { "text": "उत्सवात गर्दी मोठी असते. आपले सामान जवळ ठेवा, आणि मुले व वृद्ध कुटुंबीयांना नजरेसमोर ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Monsoon rain can make the streets slippery and cause flooding. Check the forecast and walk carefully.",
+      "hi": { "text": "मानसून की बारिश से सड़कें फिसलन भरी और जलमग्न हो सकती हैं। मौसम पूर्वानुमान जाँचें और सावधानी से चलें।", "reviewed": false },
+      "mr": { "text": "पावसामुळे रस्ते निसरडे आणि पाण्याखाली जाऊ शकतात. हवामानाचा अंदाज तपासा आणि काळजीपूर्वक चला.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly with shoulders and knees covered, and keep voices low inside the basilica.",
+      "hi": { "text": "कंधे और घुटने ढककर शालीन कपड़े पहनें, और बेसिलिका के भीतर आवाज़ धीमी रखें।", "reviewed": false },
+      "mr": { "text": "खांदे व गुडघे झाकून सभ्य कपडे घाला, आणि बॅसिलिकेच्या आत आवाज हळू ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Keep phones silent during Mass, and ask before photographing people at prayer.",
+      "hi": { "text": "मिस्सा के दौरान फ़ोन साइलेंट रखें, और प्रार्थना करते लोगों की तस्वीर लेने से पहले पूछें।", "reviewed": false },
+      "mr": { "text": "मिस्सादरम्यान फोन सायलेंट ठेवा, आणि प्रार्थना करणाऱ्या लोकांचे छायाचित्र घेण्यापूर्वी विचारा.", "reviewed": false }
+    },
+    {
+      "en": "Join the congregation in standing, sitting and kneeling as the service requires, or sit quietly if you do not take part.",
+      "hi": { "text": "सेवा की ज़रूरत के अनुसार खड़े होने, बैठने और घुटने टेकने में मंडली के साथ जुड़ें, या भाग न लें तो शांति से बैठें।", "reviewed": false },
+      "mr": { "text": "सेवेच्या गरजेनुसार उभे राहणे, बसणे आणि गुडघे टेकण्यात मंडळीसोबत सहभागी व्हा, किंवा सहभागी नसल्यास शांतपणे बसा.", "reviewed": false }
+    },
+    {
+      "en": "Respect the shrine's shops and the pilgrims' prayers in the lanes. Bargain politely, and do not disturb those in prayer.",
+      "hi": { "text": "तीर्थ की दुकानों और गलियों में यात्रियों की प्रार्थना का सम्मान करें। विनम्रता से मोलभाव करें, और प्रार्थना में लगे लोगों को परेशान न करें।", "reviewed": false },
+      "mr": { "text": "तीर्थाच्या दुकानांचा आणि गल्ल्यांतील यात्रेकरूंच्या प्रार्थनांचा आदर करा. नम्रपणे घासाघीस करा, आणि प्रार्थनेत असलेल्यांना त्रास देऊ नका.", "reviewed": false }
+    }
+  ]
+}

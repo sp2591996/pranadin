@@ -1,0 +1,115 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "ajmer-sharif",
+  "sights": [
+    {
+      "id": "mazar-of-khwaja",
+      "name": { "en": "The mazar (tomb) of Khwaja Moinuddin Chishti", "hi": { "text": "ख़्वाजा मोईनुद्दीन चिश्ती की मज़ार", "reviewed": false }, "mr": { "text": "ख्वाजा मोईनुद्दीन चिश्ती यांची मजार", "reviewed": false } },
+      "desc": {
+        "en": "The tomb at the heart of the dargah, covered with a cloth and surrounded by a silver railing. Pilgrims make an offering of a chadar (sheet of cloth) and flowers, and offer a silent prayer. Crowds move in a single line, so be patient and keep moving when asked.",
+        "hi": { "text": "दरगाह के केंद्र में मज़ार, जो कपड़े से ढकी है और चाँदी की रेलिंग से घिरी है। यात्री चादर (कपड़े की चादर) और फूल चढ़ाते हैं और मन में दुआ करते हैं। भीड़ एक पंक्ति में चलती है, इसलिए धैर्य रखें और कहे जाने पर आगे बढ़ते रहें।", "reviewed": false },
+        "mr": { "text": "दर्ग्याच्या केंद्रस्थानी असलेली मजार, जी कापडाने झाकलेली असून चांदीच्या कठड्याने वेढलेली आहे. यात्रेकरू चादर (कापडाची चादर) आणि फुले अर्पण करतात आणि मनातल्या मनात प्रार्थना करतात. गर्दी एका रांगेत पुढे सरकते, त्यामुळे धीर धरा आणि सांगितल्यावर पुढे जात राहा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The dargah is open through the day and into the night, with the most crowded hours in the early morning and after Maghrib prayers. Check the current hours locally.",
+        "hi": { "text": "दरगाह दिन भर और रात तक खुली रहती है, सबसे भीड़ वाले समय सुबह जल्दी और मग़रिब की नमाज़ के बाद होते हैं। वर्तमान समय स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "दर्गा दिवसभर आणि रात्रीपर्यंत खुला असतो, सर्वात गर्दीच्या वेळा पहाटे लवकर आणि मग्रिबच्या नमाजानंतर असतात. सध्याच्या वेळा स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes that cover the shoulders and knees, and a head covering inside. Carry a scarf or cloth for your head. Remove footwear as required at the entrance.",
+        "hi": { "text": "शालीन कपड़े जो कंधे और घुटने ढकें, और भीतर सिर ढकने के लिए कपड़ा। सिर ढकने के लिए दुपट्टा या कपड़ा साथ रखें। प्रवेश पर जूते उतारें।", "reviewed": false },
+        "mr": { "text": "सभ्य कपडे जे खांदे आणि गुडघे झाकतील, आणि आत डोके झाकण्यासाठी कापड. डोक्यासाठी स्कार्फ किंवा कापड सोबत ठेवा. प्रवेशावर सांगितल्याप्रमाणे पादत्राणे काढा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "dargah-gateways-and-mosques",
+      "name": { "en": "Gateways and mosques of the dargah complex", "hi": { "text": "दरगाह परिसर के द्वार और मस्जिदें", "reviewed": false }, "mr": { "text": "दर्गा परिसरातील दरवाजे आणि मशिदी", "reviewed": false } },
+      "desc": {
+        "en": "The complex grew over centuries, with gateways, mosques, courtyards and pavilions added by different rulers and donors. Walk slowly, take in the architecture, and respect the areas where people are praying.",
+        "hi": { "text": "परिसर सदियों में बढ़ा, जिसमें अलग-अलग शासकों और दानदाताओं ने द्वार, मस्जिदें, आँगन और मंडप जोड़े। धीरे चलें, वास्तुकला देखें, और जहाँ लोग नमाज़ पढ़ रहे हों उस स्थान का सम्मान करें।", "reviewed": false },
+        "mr": { "text": "परिसर शतकानुशतके वाढला, त्यात वेगवेगळ्या शासकांनी आणि दात्यांनी दरवाजे, मशिदी, अंगणे आणि मंडप जोडले. हळू चाला, वास्तुकला पाहा, आणि जेथे लोक नमाज पढत असतील तेथे आदर राखा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open with the dargah hours. Mosque areas may have prayer-time restrictions for visitors; check locally.",
+        "hi": { "text": "दरगाह के समय के अनुसार खुला। मस्जिद क्षेत्रों में नमाज़ के समय यात्रियों के लिए प्रतिबंध हो सकते हैं; स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "दर्ग्याच्या वेळेनुसार खुले. मशिदीच्या भागांत नमाजाच्या वेळी भाविकांसाठी निर्बंध असू शकतात; स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "The same modest dress as at the tomb. Keep your head covered and speak quietly in prayer areas.",
+        "hi": { "text": "मज़ार जैसे ही शालीन कपड़े। सिर ढका रखें और प्रार्थना के स्थानों पर धीरे बोलें।", "reviewed": false },
+        "mr": { "text": "मजारप्रमाणेच सभ्य कपडे. डोके झाका आणि प्रार्थनेच्या जागी हळू बोला.", "reviewed": false }
+      }
+    },
+    {
+      "id": "langar-degs",
+      "name": { "en": "The great cooking pots (degs) and the community kitchen", "hi": { "text": "विशाल देग और सामुदायिक रसोई", "reviewed": false }, "mr": { "text": "मोठी देग आणि सामुदायिक स्वयंपाकघर", "reviewed": false } },
+      "desc": {
+        "en": "The dargah's kitchens cook food in large pots called degs, and the food is shared with pilgrims as langar, a community meal. Many visitors give to the degs or sit to eat. Ask the khadims (caretakers) where to go.",
+        "hi": { "text": "दरगाह की रसोइयों में बड़े बर्तनों जिन्हें देग कहते हैं, में भोजन बनता है, और यह भोजन लंगर, यानी सामुदायिक भोजन के रूप में यात्रियों के साथ बाँटा जाता है। कई दर्शनार्थी देग में योगदान देते हैं या बैठकर भोजन करते हैं। कहाँ जाना है, यह ख़ादिमों (सेवकों) से पूछें।", "reviewed": false },
+        "mr": { "text": "दर्ग्याच्या स्वयंपाकघरांत देग नावाच्या मोठ्या भांड्यांत अन्न शिजते, आणि ते लंगर म्हणजे सामुदायिक जेवण म्हणून यात्रेकरूंसोबत वाटले जाते. अनेक भाविक देगेत योगदान देतात किंवा बसून जेवतात. कुठे जायचे ते खादिमांना (सेवकांना) विचारा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Langar is served at set times through the day, and times vary during the Urs. Check locally.",
+        "hi": { "text": "लंगर दिन में तय समय पर परोसा जाता है, और उर्स के दौरान समय बदलते हैं। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "लंगर दिवसभरात ठरावीक वेळी वाढले जाते, आणि उरसच्या काळात वेळा बदलतात. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Wash your hands before eating and keep to the seating and queue areas. Modest dress applies here too.",
+        "hi": { "text": "खाने से पहले हाथ धोएँ और बैठने व कतार के नियत स्थानों पर रहें। यहाँ भी शालीन कपड़े लागू हैं।", "reviewed": false },
+        "mr": { "text": "जेवणापूर्वी हात धुवा आणि बसण्याच्या व रांगेच्या ठरलेल्या जागी राहा. येथेही सभ्य कपड्यांचा नियम लागू आहे.", "reviewed": false }
+      }
+    },
+    {
+      "id": "adhai-din-ka-jhonpra",
+      "name": { "en": "Adhai Din ka Jhonpra", "hi": { "text": "अढ़ाई दिन का झोंपड़ा", "reviewed": false }, "mr": { "text": "अढाई दिन का झोंपडा", "reviewed": false } },
+      "desc": {
+        "en": "A historic mosque complex in the old town, with pillared halls and carved stonework. It is a short walk from the dargah and shows the older architecture of the city. Visit it as a historical site and respect the place.",
+        "hi": { "text": "पुराने नगर में एक ऐतिहासिक मस्जिद परिसर, जिसमें स्तंभों वाले कक्ष और नक्काशीदार पत्थर का काम है। यह दरगाह से थोड़ी दूरी पर है और नगर की पुरानी वास्तुकला दिखाता है। इसे ऐतिहासिक स्थल के रूप में देखें और इस स्थान का ध्यान रखें।", "reviewed": false },
+        "mr": { "text": "जुन्या गावातील एक ऐतिहासिक मशिदी परिसर, ज्यात स्तंभांचे दालन आणि कोरीव दगडी काम आहे. हे दर्ग्यापासून थोड्या अंतरावर असून शहराची जुनी वास्तुकला दाखवते. हे ऐतिहासिक स्थळ म्हणून पाहा आणि जागेची काळजी घ्या.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open through the day for visitors. Check locally, since hours can change.",
+        "hi": { "text": "आम तौर पर दिन भर यात्रियों के लिए खुला रहता है। स्थानीय रूप से जाँचें, क्योंकि समय बदल सकते हैं।", "reviewed": false },
+        "mr": { "text": "साधारणपणे दिवसभर भाविकांसाठी खुले असते. वेळा बदलू शकतात, त्यामुळे स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes and a head covering, as at the dargah. Remove footwear where required.",
+        "hi": { "text": "दरगाह की तरह शालीन कपड़े और सिर ढकना। जहाँ ज़रूरी हो जूते उतारें।", "reviewed": false },
+        "mr": { "text": "दर्ग्याप्रमाणेच सभ्य कपडे आणि डोके झाकणे. आवश्यक तेथे पादत्राणे काढा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Arrive early in the morning or after evening prayers, when the lanes are calmer and the tomb area is less crowded.",
+        "hi": { "text": "सुबह जल्दी या शाम की नमाज़ के बाद पहुँचें, जब गलियाँ शांत और मज़ार का क्षेत्र कम भीड़ वाला होता है।", "reviewed": false },
+        "mr": { "text": "पहाटे लवकर किंवा संध्याकाळच्या नमाजानंतर पोहोचा, जेव्हा गल्ल्या शांत असतात आणि मजारचा परिसर कमी गर्दीचा असतो.", "reviewed": false }
+      },
+      {
+        "en": "Keep your head covered, speak quietly, and do not climb on the tomb railings or touch the graves with your feet.",
+        "hi": { "text": "सिर ढका रखें, धीरे बोलें, और मज़ार की रेलिंग पर न चढ़ें और क़ब्रों को पैरों से न छुएँ।", "reviewed": false },
+        "mr": { "text": "डोके झाकून ठेवा, हळू बोला, आणि मजारच्या कठड्यावर चढू नका किंवा कबरींना पायाने स्पर्श करू नका.", "reviewed": false }
+      },
+      {
+        "en": "Women are allowed to enter the dargah. Dress and behaviour should be modest throughout, and check any women-specific arrangements locally.",
+        "hi": { "text": "महिलाएँ दरगाह में प्रवेश कर सकती हैं। पूरे समय पहनावा और व्यवहार शालीन रखें, और महिलाओं से जुड़ी व्यवस्थाएँ स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "महिलांना दर्ग्यात प्रवेश करता येतो. संपूर्ण वेळ पेहराव आणि वर्तन सभ्य ठेवा, आणि महिलांशी संबंधित व्यवस्था स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      {
+        "en": "Photography rules differ between the tomb and the courtyards. Ask the caretakers before taking pictures, and avoid photographing people at prayer.",
+        "hi": { "text": "मज़ार और आँगनों में फ़ोटो के नियम अलग हो सकते हैं। फ़ोटो लेने से पहले सेवकों से पूछें, और नमाज़ पढ़ते लोगों की तस्वीर न लें।", "reviewed": false },
+        "mr": { "text": "मजार आणि अंगणांतील छायाचित्रांचे नियम वेगळे असू शकतात. छायाचित्र घेण्यापूर्वी सेवकांना विचारा, आणि नमाज पढणाऱ्या लोकांचे छायाचित्र घेणे टाळा.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "The dargah's official caretakers and state tourism pages publish visitor information and Urs dates. Dates and rules change, so confirm locally before you travel. PranaDin does not sell tickets or book stays.",
+      "hi": { "text": "दरगाह के आधिकारिक सेवक और राज्य पर्यटन पृष्ठ यात्री जानकारी और उर्स की तिथियाँ प्रकाशित करते हैं। तिथियाँ और नियम बदलते हैं, इसलिए यात्रा से पहले स्थानीय रूप से पुष्टि करें। PranaDin टिकट नहीं बेचता और ठहरने की बुकिंग नहीं करता।", "reviewed": false },
+      "mr": { "text": "दर्ग्याचे अधिकृत सेवक आणि राज्य पर्यटन पाने यात्री माहिती व उरसच्या तारखा प्रकाशित करतात. तारखा आणि नियम बदलतात, त्यामुळे प्रवासापूर्वी स्थानिक पातळीवर खात्री करा. PranaDin तिकिटे विकत नाही किंवा मुक्काम बुक करत नाही.", "reviewed": false }
+    }
+  }
+}

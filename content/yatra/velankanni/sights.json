@@ -1,0 +1,115 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "velankanni",
+  "sights": [
+    {
+      "id": "basilica-of-our-lady-of-good-health",
+      "name": { "en": "Basilica of Our Lady of Good Health", "hi": { "text": "बेसिलिका ऑफ़ अवर लेडी ऑफ़ गुड हेल्थ", "reviewed": false }, "mr": { "text": "बॅसिलिका ऑफ अवर लेडी ऑफ गुड हेल्थ", "reviewed": false } },
+      "desc": {
+        "en": "The main church of the shrine, consecrated in 1962, with its white facade and domes. Pilgrims come to pray before the image of Mary and to attend Mass. The interior is open to all visitors who come to pray or to see the church.",
+        "hi": { "text": "तीर्थ का मुख्य गिरजाघर, जो 1962 में प्रतिष्ठित हुआ, अपने सफ़ेद अग्रभाग और गुंबदों के साथ। यात्री मरियम की प्रतिमा के सामने प्रार्थना करने और मिस्सा में भाग लेने आते हैं। भीतर का भाग प्रार्थना करने या गिरजाघर देखने आने वाले सभी दर्शकों के लिए खुला है।", "reviewed": false },
+        "mr": { "text": "तीर्थाचे मुख्य चर्च, जे 1962 मध्ये प्रतिष्ठित झाले, पांढऱ्या दर्शनी भागासह आणि घुमटांसह. यात्रेकरू मरीयेच्या प्रतिमेसमोर प्रार्थना करण्यासाठी आणि मिस्सामध्ये सहभागी होण्यासाठी येतात. प्रार्थना करण्यासाठी किंवा चर्च पाहण्यासाठी येणाऱ्या सर्व भाविकांसाठी आतील भाग खुला आहे.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The basilica is open through the day, with Masses at set times in the morning and evening. Check the Mass schedule locally, since it changes in festival season.",
+        "hi": { "text": "बेसिलिका दिन भर खुली रहती है, सुबह और शाम को तय समय पर मिस्सा होती है। मिस्सा का कार्यक्रम स्थानीय रूप से जाँचें, क्योंकि उत्सव के मौसम में यह बदलता है।", "reviewed": false },
+        "mr": { "text": "बॅसिलिका दिवसभर खुली असते, सकाळी व संध्याकाळी ठरावीक वेळी मिस्सा होतात. मिस्सांचे वेळापत्रक स्थानिक पातळीवर तपासा, कारण उत्सवाच्या हंगामात ते बदलते.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes that cover the shoulders and knees. Keep your head covered if you wish, and switch your phone to silent inside.",
+        "hi": { "text": "शालीन कपड़े जो कंधे और घुटने ढकें। चाहें तो सिर ढकें, और भीतर फ़ोन साइलेंट पर रखें।", "reviewed": false },
+        "mr": { "text": "सभ्य कपडे जे खांदे आणि गुडघे झाकतील. इच्छा असल्यास डोके झाका, आणि आत फोन सायलेंटवर ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "mass-and-prayer",
+      "name": { "en": "Mass and the Rosary", "hi": { "text": "मिस्सा और जपमाला", "reviewed": false }, "mr": { "text": "मिस्सा आणि जपमाळ", "reviewed": false } },
+      "desc": {
+        "en": "Mass is the central act of Catholic worship, and visitors are welcome to sit quietly and watch. The Rosary is often said together in the church. Many pilgrims also attend a novena, a set of prayers said over several days.",
+        "hi": { "text": "मिस्सा कैथोलिक पूजा का केंद्रीय कर्म है, और दर्शकों का शांति से बैठकर देखना स्वागत योग्य है। जपमाला अक्सर चर्च में मिलकर पढ़ी जाती है। कई यात्री नोवेना में भी भाग लेते हैं, जो कई दिनों तक पढ़ी जाने वाली प्रार्थनाएँ हैं।", "reviewed": false },
+        "mr": { "text": "मिस्सा हा कॅथलिक उपासनेचा केंद्रबिंदू आहे, आणि भाविकांनी शांतपणे बसून पाहण्याचे स्वागत आहे. जपमाळ अनेकदा चर्चमध्ये एकत्र म्हटली जाते. अनेक यात्रेकरू नोव्हेनातही सहभागी होतात, जी अनेक दिवस म्हटली जाणारी प्रार्थनांची मालिका आहे.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Mass times are published at the basilica. Novenas are usually held in the evening. Check locally.",
+        "hi": { "text": "मिस्सा के समय बेसिलिका पर प्रकाशित होते हैं। नोवेना आम तौर पर शाम को होती है। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "मिस्सांच्या वेळा बॅसिलिकेत प्रसिद्ध केल्या जातात. नोव्हेना साधारणपणे संध्याकाळी होतात. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "The same modest dress as in the church. Stay quietly during the service and follow the congregation's lead when standing and kneeling.",
+        "hi": { "text": "गिरजाघर जैसे ही शालीन कपड़े। सेवा के दौरान शांत रहें और खड़े होने व घुटने टेकने में मंडली का अनुसरण करें।", "reviewed": false },
+        "mr": { "text": "चर्चप्रमाणेच सभ्य कपडे. सेवेदरम्यान शांत राहा आणि उभे राहताना व गुडघे टेकताना मंडळीचे अनुसरण करा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "beach-and-sea-front",
+      "name": { "en": "The beach and sea front", "hi": { "text": "समुद्र तट और समुद्री किनारा", "reviewed": false }, "mr": { "text": "समुद्रकिनारा आणि सागरी किनारपट्टी", "reviewed": false } },
+      "desc": {
+        "en": "Velankanni sits on the Bay of Bengal, and the sea front is a short walk from the basilica. Many families stroll there in the evenings. Swimming can be dangerous on this coast, so follow local warnings.",
+        "hi": { "text": "वेलंकन्नी बंगाल की खाड़ी पर बसा है, और समुद्री किनारा बेसिलिका से थोड़ी पैदल दूरी पर है। कई परिवार शाम को वहाँ घूमते हैं। इस तट पर तैराकी ख़तरनाक हो सकती है, इसलिए स्थानीय चेतावनियों का पालन करें।", "reviewed": false },
+        "mr": { "text": "वेलंकण्णी बंगालच्या उपसागरावर आहे, आणि समुद्रकिनारा बॅसिलिकेपासून थोड्या पायी अंतरावर आहे. अनेक कुटुंबे संध्याकाळी तेथे फिरतात. या किनाऱ्यावर पोहणे धोकादायक असू शकते, त्यामुळे स्थानिक इशाऱ्यांचे पालन करा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Best in the late afternoon and evening. Check local advisories for sea conditions before going into the water.",
+        "hi": { "text": "दोपहर के अंत और शाम में सबसे अच्छा। पानी में जाने से पहले समुद्र की स्थिति पर स्थानीय सूचनाएँ जाँचें।", "reviewed": false },
+        "mr": { "text": "दुपारच्या शेवटी आणि संध्याकाळी सर्वोत्तम. पाण्यात जाण्यापूर्वी समुद्राच्या स्थितीबाबत स्थानिक सूचना तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light, modest clothes suited to the sand and sun. Swimwear is best kept to the private beach areas, if any, and not the shrine precinct.",
+        "hi": { "text": "रेत और धूप के लिए हल्के, शालीन कपड़े। तैराकी के कपड़े, यदि हों तो, केवल निजी तट क्षेत्रों तक सीमित रखें, तीर्थ परिसर में नहीं।", "reviewed": false },
+        "mr": { "text": "वाळू आणि उन्हासाठी हलके, सभ्य कपडे. पोहण्याचे कपडे असल्यास ते फक्त खासगी समुद्रकिनारी भागांपुरते ठेवा, तीर्थ परिसरात नव्हे.", "reviewed": false }
+      }
+    },
+    {
+      "id": "town-churches-and-lanes",
+      "name": { "en": "Churches and lanes of the town", "hi": { "text": "नगर के गिरजाघर और गलियाँ", "reviewed": false }, "mr": { "text": "गावातील चर्च आणि गल्ल्या", "reviewed": false } },
+      "desc": {
+        "en": "The lanes around the basilica hold shops of rosaries, statues, candles and religious books, plus small chapels and tea stalls. The old and new parts of town sit side by side.",
+        "hi": { "text": "बेसिलिका के आसपास की गलियों में जपमालाओं, मूर्तियों, मोमबत्तियों और धार्मिक पुस्तकों की दुकानें हैं, साथ ही छोटे चैपल और चाय के ठेले। नगर के पुराने और नए हिस्से साथ-साथ हैं।", "reviewed": false },
+        "mr": { "text": "बॅसिलिकेभोवतीच्या गल्ल्यांत जपमाळा, मूर्ती, मेणबत्त्या आणि धार्मिक पुस्तकांची दुकाने आहेत, तसेच लहान चॅपल्स आणि चहाच्या टपऱ्याही आहेत. गावाचे जुने आणि नवे भाग शेजारी शेजारी आहेत.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Shops usually open through the day and into the evening. Check locally.",
+        "hi": { "text": "दुकानें आम तौर पर दिन भर और शाम तक खुली रहती हैं। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "दुकाने साधारणपणे दिवसभर आणि संध्याकाळपर्यंत उघडी असतात. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes in town, and ask before photographing people, especially at prayer.",
+        "hi": { "text": "नगर में शालीन कपड़े, और खासकर प्रार्थना के समय लोगों की तस्वीर लेने से पहले पूछें।", "reviewed": false },
+        "mr": { "text": "गावात सभ्य कपडे, आणि विशेषतः प्रार्थनेच्या वेळी लोकांचे छायाचित्र घेण्यापूर्वी विचारा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Arrive early for morning Mass, when the basilica is calmer than in the afternoon crowds.",
+        "hi": { "text": "सुबह के मिस्सा के लिए जल्दी पहुँचें, जब बेसिलिका दोपहर की भीड़ से अधिक शांत होती है।", "reviewed": false },
+        "mr": { "text": "सकाळच्या मिस्साला लवकर पोहोचा, जेव्हा दुपारच्या गर्दीपेक्षा बॅसिलिका अधिक शांत असते.", "reviewed": false }
+      },
+      {
+        "en": "During the festival from late August to 8 September, expect very large crowds and long queues. Plan transport and rooms well ahead.",
+        "hi": { "text": "अगस्त के अंत से 8 सितंबर तक उत्सव के दौरान बहुत बड़ी भीड़ और लंबी कतारों की अपेक्षा रखें। परिवहन और कमरे पहले से तय करें।", "reviewed": false },
+        "mr": { "text": "ऑगस्टच्या शेवटापासून 8 सप्टेंबरपर्यंतच्या उत्सवात खूप मोठी गर्दी आणि लांब रांगांची अपेक्षा ठेवा. वाहतूक आणि खोल्या आधीच नियोजित करा.", "reviewed": false }
+      },
+      {
+        "en": "Light a candle or make an offering in the designated places, and follow the staff's directions for queues and entry.",
+        "hi": { "text": "नियत स्थानों पर मोमबत्ती जलाएँ या चढ़ावा दें, और कतारों व प्रवेश के लिए कर्मचारियों के निर्देश मानें।", "reviewed": false },
+        "mr": { "text": "नेमलेल्या ठिकाणी मेणबत्ती लावा किंवा अर्पण करा, आणि रांगा व प्रवेशासाठी कर्मचाऱ्यांच्या सूचना पाळा.", "reviewed": false }
+      },
+      {
+        "en": "Keep phones silent and avoid flash photography during Mass and prayer.",
+        "hi": { "text": "मिस्सा और प्रार्थना के दौरान फ़ोन साइलेंट रखें और फ़्लैश फ़ोटो से बचें।", "reviewed": false },
+        "mr": { "text": "मिस्सा आणि प्रार्थनेदरम्यान फोन सायलेंट ठेवा आणि फ्लॅश छायाचित्रे टाळा.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "The basilica publishes Mass and festival schedules through its parish office and official communication. Dates and arrangements change each year, so confirm before you travel. PranaDin does not sell tickets or book stays.",
+      "hi": { "text": "बेसिलिका अपने पैरिश कार्यालय और आधिकारिक संचार के माध्यम से मिस्सा और उत्सव का कार्यक्रम प्रकाशित करता है। तिथियाँ और व्यवस्थाएँ हर साल बदलती हैं, इसलिए यात्रा से पहले पुष्टि करें। PranaDin टिकट नहीं बेचता और ठहरने की बुकिंग नहीं करता।", "reviewed": false },
+      "mr": { "text": "बॅसिलिका पॅरिश कार्यालय आणि अधिकृत संवादाद्वारे मिस्सा व उत्सवाचे वेळापत्रक प्रसिद्ध करते. तारखा आणि व्यवस्था दरवर्षी बदलतात, त्यामुळे प्रवासापूर्वी खात्री करा. PranaDin तिकिटे विकत नाही किंवा मुक्काम बुक करत नाही.", "reviewed": false }
+    }
+  }
+}

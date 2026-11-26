@@ -1,0 +1,137 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "palitana",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "A day on the hill", "hi": { "text": "पहाड़ी पर एक दिन", "reviewed": false }, "mr": { "text": "टेकडीवर एक दिवस", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Leave the town before dawn and begin the climb with pilgrims, at your own pace. Finish the climb and worship at the Adinath temple.", "hi": { "text": "भोर से पहले नगर से निकलें और यात्रियों के साथ अपनी गति से चढ़ाई शुरू करें। चढ़ाई पूरी कर आदिनाथ मंदिर में दर्शन करें।", "reviewed": false }, "mr": { "text": "पहाटेपूर्वी गावातून निघा आणि यात्रेकरूंसोबत आपल्या गतीने चढाई सुरू करा. चढाई पूर्ण करून आदिनाथ मंदिरात दर्शन घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit the Pundarik Swami shrine and a few of the hilltop temples. Sit quietly and rest in the shade before the descent.", "hi": { "text": "पुंडरीक स्वामी मंदिर और पहाड़ी के कुछ मंदिर देखें। उतरने से पहले छाया में शांति से बैठें।", "reviewed": false }, "mr": { "text": "पुंडरीक स्वामी मंदिर आणि टेकडीवरील काही मंदिरे पाहा. उतरण्यापूर्वी सावलीत निवांत बसा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Descend well before dusk, eat a simple vegetarian meal in town, and rest at your stay.", "hi": { "text": "शाम से पहले नीचे उतरें, नगर में सादा शाकाहारी भोजन करें और ठहरने की जगह आराम करें।", "reviewed": false }, "mr": { "text": "संध्याकाळपूर्वी खाली उतरा, गावात साधे शाकाहारी जेवण घ्या आणि मुक्कामी विश्रांती घ्या.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Climb and town", "hi": { "text": "चढ़ाई और नगर", "reviewed": false }, "mr": { "text": "चढाई आणि गाव", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Start the climb early and reach the Adinath temple for morning darshan.", "hi": { "text": "सुबह जल्दी चढ़ाई शुरू करें और सुबह के दर्शन के लिए आदिनाथ मंदिर पहुँचें।", "reviewed": false }, "mr": { "text": "सकाळी लवकर चढाई सुरू करा आणि सकाळच्या दर्शनासाठी आदिनाथ मंदिर गाठा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Explore the hilltop temple cluster at a slow pace, then descend with time to spare.", "hi": { "text": "पहाड़ी के मंदिर समूह को धीमी गति से देखें, फिर समय रहते उतरें।", "reviewed": false }, "mr": { "text": "टेकडीवरील मंदिर समूह संथ गतीने पाहा, मग वेळेत खाली उतरा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Visit the Jain temples in Palitana town and see the old dharamshalas.", "hi": { "text": "पालिताना नगर के जैन मंदिर और पुरानी धर्मशालाएँ देखें।", "reviewed": false }, "mr": { "text": "पालिताणा गावातील जैन मंदिरे आणि जुन्या धर्मशाळा पाहा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Take a slow evening walk through the town and return to the stay for an early night.", "hi": { "text": "शाम को नगर में धीमी सैर करें और जल्दी सोने के लिए ठहरने की जगह लौटें।", "reviewed": false }, "mr": { "text": "संध्याकाळी गावात संथ फेरफटका मारा आणि लवकर झोपण्यासाठी मुक्कामी परत या.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Rest, climb and onward", "hi": { "text": "विश्राम, चढ़ाई और आगे", "reviewed": false }, "mr": { "text": "विश्रांती, चढाई आणि पुढे", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive in Palitana and settle in. Eat a light meal and rest before the climb.", "hi": { "text": "पालिताना पहुँचें और ठहरें। हल्का भोजन करें और चढ़ाई से पहले आराम करें।", "reviewed": false }, "mr": { "text": "पालिताण्यात पोहोचा आणि स्थिरावा. हलके जेवण घ्या आणि चढाईपूर्वी विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit the town temples and the hill base in the cooler hours.", "hi": { "text": "ठंडे समय में नगर के मंदिर और पहाड़ी की तलहटी देखें।", "reviewed": false }, "mr": { "text": "थंड वेळेत गावातील मंदिरे आणि टेकडीचा पायथा पाहा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Spend a calm morning visiting the Jain temples and dharamshalas in town, at your own pace.", "hi": { "text": "सुबह शांत गति से नगर के जैन मंदिरों और धर्मशालाओं में समय बिताएँ।", "reviewed": false }, "mr": { "text": "सकाळी शांत गतीने गावातील जैन मंदिरे आणि धर्मशाळांमध्ये वेळ घालवा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Eat a pure vegetarian dinner in town and sleep early, ready for the climb at first light.", "hi": { "text": "नगर में शुद्ध शाकाहारी रात्रि भोजन करें और पौ फटते चढ़ाई के लिए जल्दी सोएँ।", "reviewed": false }, "mr": { "text": "गावात शुद्ध शाकाहारी रात्रीभोजन घ्या आणि पहाटेच्या चढाईसाठी लवकर झोपा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Climb at first light, worship at the Adinath temple and descend before midday heat builds.", "hi": { "text": "पौ फटते ही चढ़ें, आदिनाथ मंदिर में दर्शन करें और दोपहर की गर्मी से पहले उतरें।", "reviewed": false }, "mr": { "text": "पहाटे लगेच चढा, आदिनाथ मंदिरात दर्शन घ्या आणि दुपारची उष्णता वाढण्यापूर्वी उतरा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Eat a pure vegetarian dinner in town, then travel on to Bhavnagar for the next stage of the journey. Check transport times locally.", "hi": { "text": "नगर में शुद्ध शाकाहारी रात्रि भोजन करें, फिर यात्रा के अगले पड़ाव के लिए भावनगर जाएँ। परिवहन समय स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "गावात शुद्ध शाकाहारी रात्रीभोजन घ्या, मग प्रवासाच्या पुढच्या टप्प्यासाठी भावनगरला जा. वाहतुकीच्या वेळा स्थानिक पातळीवर तपासा.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Palitana town", "hi": { "text": "पालिताना नगर", "reviewed": false }, "mr": { "text": "पालिताणा गाव", "reviewed": false } },
+      "body": { "en": "Stay close to the hill base to start the climb early. Dharamshalas run by Jain trusts offer simple rooms, and many are vegetarian. Book ahead for festival dates.", "hi": { "text": "सुबह जल्दी चढ़ाई के लिए तलहटी के पास ठहरें। जैन न्यासों द्वारा चलाई जाने वाली धर्मशालाओं में सादे कमरे मिलते हैं, और अधिकतर शाकाहारी हैं। उत्सव की तिथियों के लिए पहले से बुक करें।", "reviewed": false }, "mr": { "text": "सकाळी लवकर चढाई करण्यासाठी पायथ्याजवळ थांबा. जैन विश्वस्त संस्थांच्या धर्मशाळांमध्ये साध्या खोल्या मिळतात, आणि त्यातील बहुतेक शाकाहारी आहेत. उत्सवाच्या तारखांसाठी आधी बुक करा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Bhavnagar", "hi": { "text": "भावनगर", "reviewed": false }, "mr": { "text": "भावनगर", "reviewed": false } },
+      "body": { "en": "A larger city about 50 km away, with more hotel choice and a major railway terminus. Useful if you prefer more comfort or want to connect to trains.", "hi": { "text": "लगभग 50 किमी दूर एक बड़ा नगर, जहाँ होटलों की अधिक विकल्प और एक बड़ा रेलवे टर्मिनस है। अधिक सुविधा चाहने या रेल से जुड़ने के लिए उपयोगी।", "reviewed": false }, "mr": { "text": "सुमारे 50 किमी दूर असलेले मोठे शहर, जेथे हॉटेलचे अधिक पर्याय आणि मोठे रेल्वे टर्मिनस आहे. अधिक सोयीसाठी किंवा रेल्वेशी जोडण्यासाठी उपयुक्त.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Shared dharamshala rooms", "hi": { "text": "साझा धर्मशाला कमरे", "reviewed": false }, "mr": { "text": "सामायिक धर्मशाळा खोल्या", "reviewed": false } },
+      "body": { "en": "Simple, low-cost rooms are common for pilgrims. Ask about rules on food, footwear and visiting hours before you book. Check current rates locally.", "hi": { "text": "यात्रियों के लिए सादे, कम कीमत वाले कमरे आम हैं। बुक करने से पहले भोजन, जूतों और मिलने के समय के नियम पूछें। वर्तमान दरें स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "यात्रेकरूंसाठी साध्या, कमी खर्चाच्या खोल्या सामान्य आहेत. बुक करण्यापूर्वी अन्न, पादत्राणे आणि भेटीच्या वेळांचे नियम विचारा. सध्याचे दर स्थानिक पातळीवर तपासा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Pure vegetarian food", "hi": { "text": "शुद्ध शाकाहारी भोजन", "reviewed": false }, "mr": { "text": "शुद्ध शाकाहारी अन्न", "reviewed": false } },
+      "body": { "en": "Palitana is a Jain town, and food in the town is pure vegetarian. Many Jain households and dharamshalas avoid onion, garlic and root vegetables, so check with the kitchen if you want those left out.", "hi": { "text": "पालिताना एक जैन नगर है, और नगर का भोजन शुद्ध शाकाहारी है। कई जैन घरों और धर्मशालाओं में प्याज, लहसुन और जड़ वाली सब्ज़ियाँ नहीं बनतीं, इसलिए चाहें तो रसोई से पूछ लें।", "reviewed": false }, "mr": { "text": "पालिताणा हे जैन गाव आहे, आणि गावातील अन्न शुद्ध शाकाहारी आहे. अनेक जैन घरे आणि धर्मशाळांमध्ये कांदा, लसूण आणि कंदमुळे वापरली जात नाहीत, त्यामुळे ती नको असल्यास स्वयंपाकघरात विचारा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "No food on the hill", "hi": { "text": "पहाड़ी पर भोजन नहीं", "reviewed": false }, "mr": { "text": "टेकडीवर अन्न नाही", "reviewed": false } },
+      "body": { "en": "Food must neither be eaten nor carried on the climb. Eat a full meal and drink at the base, then carry only water if the rules allow.", "hi": { "text": "चढ़ाई के मार्ग में भोजन न खाया जाता है, न ले जाया जाता है। तलहटी पर पूरा भोजन करें, फिर नियम अनुमति दें तो केवल पानी साथ रखें।", "reviewed": false }, "mr": { "text": "चढाईच्या वाटेत अन्न खाल्ले जात नाही किंवा नेलेही जात नाही. पायथ्याशी पूर्ण जेवण घ्या, मग नियम परवानगी देत असल्यास केवळ पाणी सोबत ठेवा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Sweets and snacks in town", "hi": { "text": "नगर में मिठाई और नाश्ता", "reviewed": false }, "mr": { "text": "गावात मिठाई आणि नाश्ता", "reviewed": false } },
+      "body": { "en": "Local sweet shops and small eateries near the base serve snacks and simple thalis. Eat before you start the climb rather than on the route.", "hi": { "text": "तलहटी के पास की स्थानीय मिठाई की दुकानें और छोटे भोजनालय नाश्ता और सादी थाली देते हैं। चढ़ाई के रास्ते में नहीं, उससे पहले खाएँ।", "reviewed": false }, "mr": { "text": "पायथ्याजवळची स्थानिक मिठाईची दुकाने आणि छोटी खानावळी नाश्ता आणि साधी थाळी देतात. चढाईच्या वाटेत नव्हे, चढाईपूर्वी खा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Jain food is strictly vegetarian, with no meat, eggs or fish, and many households also avoid onion, garlic and root vegetables. Many pilgrims keep a simple diet during their visit and finish eating before dark. PranaDin shares this as a custom, not as a claim about health.",
+    "hi": { "text": "जैन भोजन कठोर रूप से शाकाहारी है, जिसमें मांस, अंडे या मछली नहीं होते, और कई घरों में प्याज, लहसुन और जड़ वाली सब्ज़ियाँ भी नहीं ली जातीं। कई यात्री यात्रा के दौरान सादा आहार रखते हैं और अंधेरा होने से पहले खाना पूरा कर लेते हैं। PranaDin इसे एक परंपरा के रूप में बताता है, स्वास्थ्य के दावे के रूप में नहीं।", "reviewed": false },
+    "mr": { "text": "जैन भोजन काटेकोरपणे शाकाहारी आहे, त्यात मांस, अंडी किंवा मासे नसतात, आणि अनेक घरांत कांदा, लसूण आणि कंदमुळे वर्ज्य असतात. अनेक यात्रेकरू भेटीदरम्यान साधा आहार पाळतात आणि अंधार होण्यापूर्वी जेवण संपवतात. PranaDin हे परंपरा म्हणून सांगतो, आरोग्याचा दावा म्हणून नव्हे.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 900, "max": 1800 },
+      "mid": { "min": 2200, "max": 4500 },
+      "comfort": { "min": 5500, "max": 10000 }
+    },
+    "note": {
+      "en": "Indicative rupees per person per day for stay, food and local transport, assuming two people sharing a room. Prices rise in festival season. Check current rates.",
+      "hi": { "text": "ठहरने, भोजन और स्थानीय परिवहन के लिए प्रति व्यक्ति प्रति दिन सांकेतिक रुपये, दो लोगों के एक कमरा साझा करने की मान्यता पर। उत्सव के मौसम में दरें बढ़ती हैं। वर्तमान दरें जाँच लें।", "reviewed": false },
+      "mr": { "text": "राहणे, जेवण आणि स्थानिक वाहतुकीसाठी प्रति व्यक्ती प्रति दिवस सूचक रुपये, दोन जणांनी एक खोली वाटून घेतली असे गृहीत धरून. उत्सवाच्या काळात दर वाढतात. सध्याचे दर तपासा.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "The climb is long and steep. Pace yourself, rest on the way, and stop if you feel dizzy or unwell. Check your fitness before you go, especially if you have heart or breathing concerns.",
+      "hi": { "text": "चढ़ाई लंबी और खड़ी है। अपनी गति रखें, रास्ते में आराम करें, और चक्कर या बेचैनी लगे तो रुकें। जाने से पहले अपनी शारीरिक क्षमता जाँच लें, खासकर हृदय या साँस से जुड़ी समस्या हो तो।", "reviewed": false },
+      "mr": { "text": "चढाई लांब आणि उभी आहे. आपल्या गतीने चला, वाटेत विश्रांती घ्या, आणि चक्कर किंवा अस्वस्थ वाटल्यास थांबा. जाण्यापूर्वी आपली शारीरिक क्षमता तपासा, विशेषतः हृदय किंवा श्वसनाच्या त्रासाबाबत.", "reviewed": false }
+    },
+    {
+      "en": "Carry water and wear a hat or cloth to cover your head in the sun, especially from March to June.",
+      "hi": { "text": "पानी साथ रखें और धूप से बचने के लिए टोपी या कपड़ा पहनें, खासकर मार्च से जून तक।", "reviewed": false },
+      "mr": { "text": "पाणी सोबत ठेवा आणि उन्हापासून बचावासाठी टोपी किंवा कापड घाला, विशेषतः मार्च ते जून दरम्यान.", "reviewed": false }
+    },
+    {
+      "en": "Bare feet on hot or wet stone can be uncomfortable or slippery. Walk carefully, and wear the footwear the rules allow for the climb.",
+      "hi": { "text": "गर्म या गीले पत्थर पर नंगे पाँव असहज या फिसलन भरे हो सकते हैं। सावधानी से चलें, और चढ़ाई के लिए नियमों के अनुसार अनुमत जूते पहनें।", "reviewed": false },
+      "mr": { "text": "गरम किंवा ओल्या दगडावर अनवाणी चालणे अस्वस्थ किंवा घसरडे असू शकते. काळजीपूर्वक चला, आणि चढाईसाठी नियमांनुसार परवानगी असलेली पादत्राणे घाला.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Keep the hill quiet and respectful. Avoid loud talk, music and photography where the rules forbid it.",
+      "hi": { "text": "पहाड़ी को शांत और सम्मानजनक रखें। जहाँ नियम मना करें, वहाँ ऊँची बातचीत, संगीत और फ़ोटो से बचें।", "reviewed": false },
+      "mr": { "text": "टेकडी शांत आणि आदरपूर्ण ठेवा. नियमांनी मनाई असलेल्या ठिकाणी मोठ्याने बोलणे, संगीत आणि छायाचित्रे टाळा.", "reviewed": false }
+    },
+    {
+      "en": "Do not eat or carry food on the route, and do not bring leather goods up the hill.",
+      "hi": { "text": "मार्ग में भोजन न खाएँ और न ले जाएँ, और चमड़े की चीज़ें पहाड़ी पर न ले जाएँ।", "reviewed": false },
+      "mr": { "text": "वाटेत अन्न खाऊ किंवा नेऊ नका, आणि चामड्याच्या वस्तू टेकडीवर नेऊ नका.", "reviewed": false }
+    },
+    {
+      "en": "Remove footwear as the rules require, and dress modestly with shoulders and knees covered.",
+      "hi": { "text": "नियमों के अनुसार जूते उतारें, और कंधे व घुटने ढककर शालीन कपड़े पहनें।", "reviewed": false },
+      "mr": { "text": "नियमांनुसार पादत्राणे काढा, आणि खांदे व गुडघे झाकून सभ्य कपडे घाला.", "reviewed": false }
+    },
+    {
+      "en": "Do not stay on the hill overnight, and finish your visit before dusk.",
+      "hi": { "text": "पहाड़ी पर रात में न रुकें, और अपनी यात्रा सूर्यास्त से पहले पूरी करें।", "reviewed": false },
+      "mr": { "text": "टेकडीवर रात्री थांबू नका, आणि सूर्यास्तापूर्वी भेट पूर्ण करा.", "reviewed": false }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "ajmer-sharif",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "A day at the dargah", "hi": { "text": "दरगाह पर एक दिन", "reviewed": false }, "mr": { "text": "दर्ग्यावर एक दिवस", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive at the dargah early for quiet darshan at the tomb, and offer a chadar and flowers.", "hi": { "text": "शांत दर्शन के लिए सुबह जल्दी दरगाह पहुँचें, और मज़ार पर चादर और फूल चढ़ाएँ।", "reviewed": false }, "mr": { "text": "शांत दर्शनासाठी पहाटे लवकर दर्ग्यात पोहोचा, आणि मजारवर चादर व फुले अर्पण करा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Walk the courtyards and gateways, and share a simple meal at the langar kitchens.", "hi": { "text": "आँगनों और द्वारों में घूमें, और लंगर की रसोइयों में सादा भोजन करें।", "reviewed": false }, "mr": { "text": "अंगणे आणि दरवाजांमधून फिरा, आणि लंगर स्वयंपाकघरात साधे जेवण घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return for the evening prayers and listen to the devotional music, where it is performed. Check the schedule locally.", "hi": { "text": "शाम की प्रार्थना के लिए लौटें और जहाँ भक्ति संगीत होता है वहाँ सुनें। कार्यक्रम स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "संध्याकाळच्या प्रार्थनेसाठी परत या आणि जेथे भक्ती संगीत होते ते ऐका. कार्यक्रम स्थानिक पातळीवर तपासा.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Dargah and the old town", "hi": { "text": "दरगाह और पुराना नगर", "reviewed": false }, "mr": { "text": "दर्गा आणि जुने गाव", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Visit the tomb early, then sit in the courtyard and observe the pilgrims at prayer.", "hi": { "text": "सुबह जल्दी मज़ार के दर्शन करें, फिर आँगन में बैठकर नमाज़ पढ़ते यात्रियों को देखें।", "reviewed": false }, "mr": { "text": "पहाटे लवकर मजारचे दर्शन घ्या, मग अंगणात बसून नमाज पढणाऱ्या यात्रेकरूंना पाहा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit Adhai Din ka Jhonpra in the old town and walk the bazaar lanes in the cooler hours.", "hi": { "text": "पुराने नगर में अढ़ाई दिन का झोंपड़ा देखें और ठंडे समय में बाज़ार की गलियों में घूमें।", "reviewed": false }, "mr": { "text": "जुन्या गावात अढाई दिन का झोंपडा पाहा आणि थंड वेळेत बाजाराच्या गल्ल्यांतून फिरा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Return to the dargah for a last visit, and buy a simple chadar from the shops outside.", "hi": { "text": "अंतिम दर्शन के लिए दरगाह लौटें, और बाहर की दुकानों से एक सादी चादर खरीदें।", "reviewed": false }, "mr": { "text": "शेवटच्या दर्शनासाठी दर्ग्यात परत या, आणि बाहेरील दुकानांतून एक साधी चादर घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Take a slow evening walk back through the lanes, and rest before your onward journey.", "hi": { "text": "शाम को गलियों से धीरे वापस चलें, और आगे की यात्रा से पहले आराम करें।", "reviewed": false }, "mr": { "text": "संध्याकाळी गल्ल्यांमधून हळू परत चला, आणि पुढच्या प्रवासापूर्वी विश्रांती घ्या.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Dargah and Pushkar", "hi": { "text": "दरगाह और पुष्कर", "reviewed": false }, "mr": { "text": "दर्गा आणि पुष्कर", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Start at the dargah for morning darshan and prayer, while the lanes are still quiet.", "hi": { "text": "गलियों के शांत रहते हुए सुबह दरगाह में दर्शन और प्रार्थना से शुरुआत करें।", "reviewed": false }, "mr": { "text": "गल्ल्या अजून शांत असतानाच पहाटे दर्ग्यात दर्शन आणि प्रार्थनेने सुरुवात करा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Travel to Pushkar for the Brahma temple and the lake ghats. Check the transport options locally.", "hi": { "text": "ब्रह्मा मंदिर और सरोवर के घाटों के लिए पुष्कर जाएँ। परिवहन विकल्प स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "ब्रह्मा मंदिर आणि तलावाच्या घाटांसाठी पुष्करला जा. वाहतुकीचे पर्याय स्थानिक पातळीवर तपासा.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Explore the old town: visit Adhai Din ka Jhonpra and walk the bazaar lanes in the cooler hours.", "hi": { "text": "पुराने नगर में अढ़ाई दिन का झोंपड़ा देखें और ठंडे समय में बाज़ार की गलियों में घूमें।", "reviewed": false }, "mr": { "text": "जुन्या गावात अढाई दिन का झोंपडा पाहा आणि थंड वेळेत बाजाराच्या गल्ल्यांतून फिरा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to the dargah for evening prayers and eat a simple meal at the langar kitchens.", "hi": { "text": "शाम की प्रार्थना के लिए दरगाह लौटें और लंगर की रसोइयों में सादा भोजन करें।", "reviewed": false }, "mr": { "text": "संध्याकाळच्या प्रार्थनेसाठी दर्ग्यात परत या आणि लंगर स्वयंपाकघरात साधे जेवण घ्या.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Return to Ajmer, visit the dargah once more, and eat a late lunch at the langar.", "hi": { "text": "अजमेर लौटें, दरगाह में एक बार और दर्शन करें, और लंगर में देर से दोपहर का भोजन करें।", "reviewed": false }, "mr": { "text": "अजमेरला परत या, दर्ग्यात आणखी एकदा दर्शन घ्या, आणि लंगरमध्ये उशिरा दुपारचे जेवण घ्या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Head for the station or airport for your onward journey. Check timings locally.", "hi": { "text": "आगे की यात्रा के लिए स्टेशन या हवाई अड्डे की ओर जाएँ। समय स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "पुढच्या प्रवासासाठी स्थानक किंवा विमानतळाकडे जा. वेळा स्थानिक पातळीवर तपासा.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near the dargah gates", "hi": { "text": "दरगाह द्वारों के पास", "reviewed": false }, "mr": { "text": "दर्ग्याच्या दरवाजांजवळ", "reviewed": false } },
+      "body": { "en": "Stay in the old town for a short walk to the gates. Lanes are narrow, so ask the hotel where the nearest drop-off point is. Book early for the Urs.", "hi": { "text": "द्वारों तक छोटी पैदल दूरी के लिए पुराने नगर में ठहरें। गलियाँ सँकरी हैं, इसलिए होटल से पूछें कि सबसे नज़दीकी उतरने का बिंदु कहाँ है। उर्स के लिए जल्दी बुक करें।", "reviewed": false }, "mr": { "text": "दरवाजांपर्यंत छोटा पायी प्रवास होण्यासाठी जुन्या गावात मुक्काम करा. गल्ल्या अरुंद आहेत, त्यामुळे सर्वात जवळचा उतरण्याचा बिंदू कोणता ते हॉटेलला विचारा. उरससाठी लवकर बुक करा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Ajmer city hotels", "hi": { "text": "अजमेर नगर के होटल", "reviewed": false }, "mr": { "text": "अजमेर शहरातील हॉटेल्स", "reviewed": false } },
+      "body": { "en": "Hotels and guest houses across the city offer more choice of rooms and prices. Ask about check-in times and quiet hours during prayer.", "hi": { "text": "नगर भर के होटल और गेस्ट हाउस कमरों और कीमतों के अधिक विकल्प देते हैं। चेक-इन के समय और नमाज़ के दौरान शांति के घंटों के बारे में पूछें।", "reviewed": false }, "mr": { "text": "शहरभरातील हॉटेल्स आणि गेस्ट हाऊस खोल्या आणि किमतींचे अधिक पर्याय देतात. चेक-इनच्या वेळा आणि नमाजाच्या वेळी शांततेच्या नियमांबाबत विचारा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Pushkar overnight", "hi": { "text": "पुष्कर में रात", "reviewed": false }, "mr": { "text": "पुष्करमध्ये रात्रमुक्काम", "reviewed": false } },
+      "body": { "en": "If you want a slower pace, stay a night in Pushkar, which has many small guest houses. Check current rates and bookings locally.", "hi": { "text": "यदि धीमी गति चाहते हैं, तो पुष्कर में एक रात रुकें, जहाँ कई छोटे गेस्ट हाउस हैं। वर्तमान दरें और बुकिंग स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "संथ गती हवी असल्यास पुष्करमध्ये एक रात्र थांबा, जेथे अनेक छोटी गेस्ट हाऊस आहेत. सध्याचे दर आणि बुकिंग स्थानिक पातळीवर तपासा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Langar at the dargah", "hi": { "text": "दरगाह का लंगर", "reviewed": false }, "mr": { "text": "दर्ग्याचा लंगर", "reviewed": false } },
+      "body": { "en": "Free community meals (langar) are served from the dargah kitchens. Sit with others, eat with your right hand, and wash before and after. Giving to the degs is optional.", "hi": { "text": "दरगाह की रसोइयों से मुफ़्त सामुदायिक भोजन (लंगर) परोसा जाता है। दूसरों के साथ बैठें, दाहिने हाथ से खाएँ, और खाने से पहले व बाद में हाथ धोएँ। देग में योगदान देना वैकल्पिक है।", "reviewed": false }, "mr": { "text": "दर्ग्याच्या स्वयंपाकघरांतून मोफत सामुदायिक जेवण (लंगर) वाढले जाते. इतरांसोबत बसा, उजव्या हाताने जेवा, आणि जेवणापूर्वी व नंतर हात धुवा. देगेत योगदान देणे ऐच्छिक आहे.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Vegetarian food in the lanes", "hi": { "text": "गलियों में शाकाहारी भोजन", "reviewed": false }, "mr": { "text": "गल्ल्यांतील शाकाहारी अन्न", "reviewed": false } },
+      "body": { "en": "Small restaurants and sweet shops near the gates serve vegetarian thalis, kebabs and sweets. Choose a place with good hygiene and eat freshly cooked food.", "hi": { "text": "दरवाज़ों के पास छोटे रेस्तराँ और मिठाई की दुकानें शाकाहारी थाली, कबाब और मिठाइयाँ देती हैं। अच्छी स्वच्छता वाली जगह चुनें और ताज़ा पका भोजन खाएँ।", "reviewed": false }, "mr": { "text": "दरवाज्यांजवळची छोटी उपाहारगृहे आणि मिठाईची दुकाने शाकाहारी थाळी, कबाब आणि मिठाई देतात. चांगली स्वच्छता असलेली जागा निवडा आणि ताजे शिजवलेले अन्न खा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Sweets and fresh juice", "hi": { "text": "मिठाई और ताज़ा जूस", "reviewed": false }, "mr": { "text": "मिठाई आणि ताजा रस", "reviewed": false } },
+      "body": { "en": "Pilgrims buy sweets and fresh juice from the lanes. Drink bottled or boiled water, and ask for less spice if you prefer.", "hi": { "text": "यात्री गलियों से मिठाई और ताज़ा जूस खरीदते हैं। बोतलबंद या उबला पानी पिएँ, और चाहें तो कम मसाले के लिए कहें।", "reviewed": false }, "mr": { "text": "यात्रेकरू गल्ल्यांतून मिठाई आणि ताजा रस विकत घेतात. बाटलीबंद किंवा उकळलेले पाणी प्या, आणि हवे असल्यास कमी मसाल्याची मागणी करा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Many pilgrims in Ajmer eat simple vegetarian food during the visit, and the langar kitchens serve a shared vegetarian meal. Eating simply is a personal choice and a custom of the place, not a claim about health.",
+    "hi": { "text": "अजमेर में कई यात्री यात्रा के दौरान सादा शाकाहारी भोजन करते हैं, और लंगर की रसोइयाँ साझा शाकाहारी भोजन परोसती हैं। सादा भोजन करना एक व्यक्तिगत चुनाव और इस स्थान की परंपरा है, स्वास्थ्य का दावा नहीं।", "reviewed": false },
+    "mr": { "text": "अजमेरमधील अनेक यात्रेकरू भेटीदरम्यान साधे शाकाहारी जेवण घेतात, आणि लंगरची स्वयंपाकघरे सामायिक शाकाहारी जेवण देतात. साधे जेवण ही वैयक्तिक निवड आणि येथील परंपरा आहे, आरोग्याचा दावा नव्हे.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 800, "max": 1600 },
+      "mid": { "min": 2000, "max": 4000 },
+      "comfort": { "min": 5000, "max": 9000 }
+    },
+    "note": {
+      "en": "Indicative rupees per person per day for stay, food and local transport, assuming two people sharing a room. Langar meals are free, but offerings are optional. Prices rise during the Urs. Check current rates.",
+      "hi": { "text": "ठहरने, भोजन और स्थानीय परिवहन के लिए प्रति व्यक्ति प्रति दिन सांकेतिक रुपये, दो लोगों के एक कमरा साझा करने की मान्यता पर। लंगर का भोजन मुफ़्त है, पर चढ़ावा वैकल्पिक है। उर्स के दौरान दरें बढ़ती हैं। वर्तमान दरें जाँच लें।", "reviewed": false },
+      "mr": { "text": "राहणे, जेवण आणि स्थानिक वाहतुकीसाठी प्रति व्यक्ती प्रति दिवस सूचक रुपये, दोन जणांनी एक खोली वाटून घेतली असे गृहीत धरून. लंगरचे जेवण मोफत आहे, पण अर्पण ऐच्छिक आहे. उरसच्या काळात दर वाढतात. सध्याचे दर तपासा.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Summer heat is severe in Ajmer. Carry water, rest in shade, and avoid long walks in the afternoon.",
+      "hi": { "text": "अजमेर में गर्मी बहुत तेज़ होती है। पानी साथ रखें, छाया में आराम करें, और दोपहर में लंबी पैदल दूरी से बचें।", "reviewed": false },
+      "mr": { "text": "अजमेरमध्ये उन्हाळ्यात उष्णता तीव्र असते. पाणी सोबत ठेवा, सावलीत विश्रांती घ्या, आणि दुपारी लांब पायी प्रवास टाळा.", "reviewed": false }
+    },
+    {
+      "en": "The crowds during the Urs and on Thursdays and Fridays are large. Keep your bags close, and keep children and elderly family members within sight.",
+      "hi": { "text": "उर्स के दौरान और गुरुवार व शुक्रवार को भीड़ बहुत होती है। अपने थैले पास रखें, और बच्चों व बड़ों को नज़र में रखें।", "reviewed": false },
+      "mr": { "text": "उरसच्या काळात आणि गुरुवार व शुक्रवारी गर्दी मोठी असते. आपल्या पिशव्या जवळ ठेवा, आणि मुले व वृद्ध कुटुंबीयांना नजरेसमोर ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Walk carefully on uneven stone floors and steps, especially in the crowded lanes.",
+      "hi": { "text": "असमान पत्थर के फ़र्श और सीढ़ियों पर सावधानी से चलें, खासकर भीड़ भरी गलियों में।", "reviewed": false },
+      "mr": { "text": "असमान दगडी फरशी आणि पायऱ्यांवर काळजीपूर्वक चला, विशेषतः गर्दीच्या गल्ल्यांमध्ये.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Cover your head inside the dargah and dress modestly, with shoulders and knees covered.",
+      "hi": { "text": "दरगाह के भीतर सिर ढकें और शालीन कपड़े पहनें, कंधे और घुटने ढके हुए।", "reviewed": false },
+      "mr": { "text": "दर्ग्यात आत डोके झाका आणि सभ्य कपडे घाला, खांदे व गुडघे झाकलेले ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Remove footwear where the rules require, and keep voices low, especially near the tomb and during prayer.",
+      "hi": { "text": "जहाँ नियम कहें वहाँ जूते उतारें, और खासकर मज़ार के पास और नमाज़ के दौरान आवाज़ धीमी रखें।", "reviewed": false },
+      "mr": { "text": "नियम सांगतील तेथे पादत्राणे काढा, आणि विशेषतः मजारजवळ व नमाजाच्या वेळी आवाज हळू ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Offer a chadar and flowers if you wish, and accept the caretakers' guidance on where to stand and sit.",
+      "hi": { "text": "चाहें तो चादर और फूल चढ़ाएँ, और कहाँ खड़े या बैठने हैं, इस पर सेवकों के मार्गदर्शन का पालन करें।", "reviewed": false },
+      "mr": { "text": "इच्छा असल्यास चादर आणि फुले अर्पण करा, आणि कुठे उभे राहायचे व बसायचे याबाबत सेवकांच्या सूचना पाळा.", "reviewed": false }
+    },
+    {
+      "en": "Ask before taking photographs, and do not photograph people at prayer or the tomb without permission.",
+      "hi": { "text": "फ़ोटो लेने से पहले पूछें, और अनुमति के बिना नमाज़ पढ़ते लोगों या मज़ार की तस्वीर न लें।", "reviewed": false },
+      "mr": { "text": "छायाचित्र घेण्यापूर्वी विचारा, आणि परवानगीशिवाय नमाज पढणाऱ्या लोकांचे किंवा मजारचे छायाचित्र घेऊ नका.", "reviewed": false }
+    }
+  ]
+}

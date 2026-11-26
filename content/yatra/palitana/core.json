@@ -1,0 +1,158 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "palitana",
+  "name": { "en": "Palitana", "hi": { "text": "पालिताना", "reviewed": false }, "mr": { "text": "पालिताणा", "reviewed": false } },
+  "state": { "en": "Gujarat", "hi": { "text": "गुजरात", "reviewed": false }, "mr": { "text": "गुजरात", "reviewed": false } },
+  "stateKey": "gujarat",
+  "traditions": ["jain"],
+  "deity": {
+    "en": "Shatrunjaya, the sacred hill of the Jain tirthankaras, with the Adinath temple, dedicated to Rishabhanatha, the first tirthankara. Jains hold that many liberated souls attained liberation here.",
+    "hi": { "text": "शत्रुंजय, जैन तीर्थंकरों की पवित्र पहाड़ी, जहाँ प्रथम तीर्थंकर ऋषभनाथ को समर्पित आदिनाथ मंदिर है। जैन मान्यता है कि यहाँ से अनेक मुक्त आत्माओं ने मोक्ष प्राप्त किया।", "reviewed": false },
+    "mr": { "text": "शत्रुंजय, जैन तीर्थंकरांची पवित्र टेकडी, जिथे प्रथम तीर्थंकर ऋषभनाथ यांना समर्पित आदिनाथ मंदिर आहे. जैन श्रद्धेनुसार येथून अनेक मुक्त आत्म्यांनी मोक्ष प्राप्त केला.", "reviewed": false }
+  },
+  "significance": {
+    "en": "For Jains, Shatrunjaya is a tirth, a crossing place, where the faithful come to honour the tirthankaras. Palitana is the town at its foot, and the hill is climbed as a yatra of devotion, with prayer, simplicity and restraint.",
+    "hi": { "text": "जैनों के लिए शत्रुंजय एक तीर्थ है, यानी वह स्थान जहाँ श्रद्धालु तीर्थंकरों का सम्मान करने आते हैं। पालिताना इसकी तलहटी का नगर है, और पहाड़ी को भक्ति की यात्रा के रूप में, प्रार्थना, सादगी और संयम के साथ चढ़ा जाता है।", "reviewed": false },
+    "mr": { "text": "जैनांसाठी शत्रुंजय हे तीर्थ आहे, म्हणजे असे ठिकाण जेथे श्रद्धाळू तीर्थंकरांना वंदन करण्यासाठी येतात. पालिताणा हे त्याच्या पायथ्याचे गाव आहे, आणि टेकडी प्रार्थना, साधेपणा आणि संयम राखून भक्तीची यात्रा म्हणून चढली जाते.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "The hill of a thousand temples, climbed in devotion",
+    "hi": { "text": "भक्ति से चढ़ी जाने वाली मंदिरों की पहाड़ी", "reviewed": false },
+    "mr": { "text": "भक्तीने चढली जाणारी मंदिरांची टेकडी", "reviewed": false }
+  },
+  "overview": {
+    "en": "Palitana sits at the foot of Shatrunjaya hill in Bhavnagar district, Gujarat. The hill is crowned with more than 800 Jain temples, and the climb of roughly 3,750 to 3,800 stone steps takes about two hours on foot. Jain pilgrims walk up, many barefoot, and do not eat or drink on the route. Plan for an early start, a warm layer for the top, and a slow pace.",
+    "hi": { "text": "पालिताना गुजरात के भावनगर ज़िले में शत्रुंजय पहाड़ी की तलहटी में है। पहाड़ी पर 800 से अधिक जैन मंदिर हैं, और लगभग 3,750 से 3,800 पत्थर की सीढ़ियाँ पैदल लगभग दो घंटे में चढ़ी जाती हैं। जैन यात्री अक्सर नंगे पाँव चढ़ते हैं और मार्ग में कुछ खाते-पीते नहीं। सुबह जल्दी शुरू करें, ऊपर के लिए गरम कपड़ा रखें और धीमी चाल रखें।", "reviewed": false },
+    "mr": { "text": "पालिताणा गुजरातच्या भावनगर जिल्ह्यात शत्रुंजय टेकडीच्या पायथ्याशी आहे. टेकडीवर 800 हून अधिक जैन मंदिरे आहेत, आणि सुमारे 3,750 ते 3,800 दगडी पायऱ्या पायी सुमारे दोन तासांत चढता येतात. जैन यात्रेकरू अनेकदा अनवाणी चढतात आणि वाटेत काही खात-पीत नाहीत. पहाटे लवकर निघा, वर थंडीसाठी एक गरम कपडा ठेवा आणि संथ गतीने चला.", "reviewed": false }
+  },
+  "story": {
+    "en": "Jain tradition holds that Rishabhanatha, the first tirthankara, taught the path of non-violence and self-discipline, and that his grandson Pundarika attained liberation on this hill. The Adinath temple is said to have been built by Bharata, Rishabhanatha's son. Many of the present temples were rebuilt over centuries, with merchant families and temple trusts funding the shrines. The hill has been a centre of Jain pilgrimage for many centuries.",
+    "hi": { "text": "जैन परंपरा के अनुसार प्रथम तीर्थंकर ऋषभनाथ ने अहिंसा और आत्म-संयम का मार्ग सिखाया, और उनके पौत्र पुंडरीक ने इसी पहाड़ी पर मोक्ष पाया। कहा जाता है कि आदिनाथ मंदिर ऋषभनाथ के पुत्र भरत ने बनवाया। वर्तमान अनेक मंदिर सदियों में पुनः बने, जिन्हें व्यापारी परिवारों और मंदिर न्यासों ने सहयोग दिया। यह पहाड़ी कई सदियों से जैन तीर्थयात्रा का केंद्र रही है।", "reviewed": false },
+    "mr": { "text": "जैन परंपरेनुसार प्रथम तीर्थंकर ऋषभनाथ यांनी अहिंसा आणि आत्मसंयमाचा मार्ग शिकवला, आणि त्यांचे नातू पुंडरीक यांनी याच टेकडीवर मोक्ष प्राप्त केला. आदिनाथ मंदिर ऋषभनाथांचे पुत्र भरत यांनी बांधले असे मानले जाते. सध्याची अनेक मंदिरे शतकानुशतके पुन्हा बांधली गेली, व्यापारी कुटुंबे आणि मंदिर विश्वस्त संस्थांनी त्यांना साहाय्य केले. अनेक शतकांपासून ही टेकडी जैन तीर्थयात्रेचे केंद्र आहे.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From Jain tradition as recorded in Wikipedia's entries on Palitana and Shatrunjaya. Jain beliefs are shown as the tradition holds them.",
+    "hi": { "text": "जैन परंपरा से, जैसा विकिपीडिया की पालिताना और शत्रुंजय प्रविष्टियों में दर्ज है। जैन मान्यताएँ वैसी ही दी गई हैं जैसी परंपरा उन्हें रखती है।", "reviewed": false },
+    "mr": { "text": "जैन परंपरेतून, विकिपीडियावरील पालिताणा आणि शत्रुंजय नोंदींनुसार. जैन श्रद्धा परंपरा मानते तशा दिल्या आहेत.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [11, 12, 1, 2, 3],
+    "seasons": [
+      {
+        "months": [11, 12, 1, 2],
+        "rating": "best",
+        "weather": {
+          "en": "Cool and dry, ideal for the climb. October to February are the main pilgrimage months, and the Kartik Purnima fair in October or November draws the largest crowds. Book stays early.",
+          "hi": { "text": "ठंडा और सूखा, चढ़ाई के लिए उपयुक्त। अक्टूबर से फ़रवरी मुख्य तीर्थ-महीने हैं, और अक्टूबर-नवंबर में कार्तिक पूर्णिमा मेला सबसे बड़ी भीड़ लाता है। ठहरने की जगह पहले से बुक करें।", "reviewed": false },
+          "mr": { "text": "थंड आणि कोरडे, चढाईसाठी योग्य. ऑक्टोबर ते फेब्रुवारी हे मुख्य यात्रा महिने आहेत, आणि ऑक्टोबर-नोव्हेंबरमधील कार्तिक पौर्णिमा मेळा सर्वात मोठी गर्दी आणतो. राहण्याची जागा आधी ठरवा.", "reviewed": false }
+        }
+      },
+      {
+        "months": [3, 10],
+        "rating": "good",
+        "weather": {
+          "en": "Warm but workable in the early morning. The hill is open, though afternoons get hot in March and the first half of October is still warm.",
+          "hi": { "text": "गरम, पर सुबह के समय ठीक। पहाड़ी खुली रहती है, हालाँकि मार्च में दोपहर गरम होती है और अक्टूबर के पहले हिस्से में भी गर्मी रहती है।", "reviewed": false },
+          "mr": { "text": "उबदार, पण पहाटे सोयीचे. टेकडी खुली असते, जरी मार्चमध्ये दुपार तापते आणि ऑक्टोबरच्या पहिल्या भागातही उष्णता असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [4, 5, 6],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot, often above 40 degrees. The stone steps hold the heat. If you go, climb at first light and carry water, though the pilgrim routes still need care in the sun.",
+          "hi": { "text": "बहुत गरम, अक्सर 40 डिग्री से ऊपर। पत्थर की सीढ़ियाँ गर्मी सोखती हैं। यदि जाएँ तो पौ फटते ही चढ़ें और पानी साथ रखें।", "reviewed": false },
+          "mr": { "text": "खूप उष्ण, अनेकदा 40 अंशांपेक्षा अधिक. दगडी पायऱ्या उष्णता धरून ठेवतात. गेलात तर पहाटेच चढा आणि पाणी सोबत ठेवा.", "reviewed": false }
+        }
+      },
+      {
+        "months": [7, 8, 9],
+        "rating": "difficult",
+        "weather": {
+          "en": "Monsoon rains. The hill is closed to pilgrims for about four months during the monsoon, so check the status locally before planning.",
+          "hi": { "text": "मानसून की बारिश। मानसून के लगभग चार महीने पहाड़ी तीर्थयात्रियों के लिए बंद रहती है, इसलिए योजना से पहले स्थानीय रूप से स्थिति जाँच लें।", "reviewed": false },
+          "mr": { "text": "पावसाळ्यातील पाऊस. पावसाळ्यात सुमारे चार महिने टेकडी यात्रेकरूंसाठी बंद असते, त्यामुळे नियोजनापूर्वी स्थानिक पातळीवर स्थिती तपासा.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Bhavnagar Airport (about 51 km)", "hi": { "text": "भावनगर हवाई अड्डा (लगभग 51 किमी)", "reviewed": false }, "mr": { "text": "भावनगर विमानतळ (सुमारे 51 किमी)", "reviewed": false } },
+      "km": 51,
+      "how": {
+        "en": "Bhavnagar airport has limited flights, so many visitors fly into Ahmedabad or Mumbai and continue by road or rail. A taxi from Bhavnagar reaches Palitana in about one hour. Check flight schedules locally.",
+        "hi": { "text": "भावनगर हवाई अड्डे पर सीमित उड़ानें हैं, इसलिए कई यात्री अहमदाबाद या मुंबई उतरकर सड़क या रेल से आगे आते हैं। भावनगर से टैक्सी लगभग एक घंटे में पालिताना पहुँचाती है। उड़ान समय स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "भावनगर विमानतळावर मर्यादित उड्डाणे आहेत, म्हणून अनेक प्रवासी अहमदाबाद किंवा मुंबईला उतरून रस्त्याने किंवा रेल्वेने पुढे येतात. भावनगरहून टॅक्सीने सुमारे एका तासात पालिताणा गाठता येते. उड्डाणाच्या वेळा स्थानिक पातळीवर तपासा.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Palitana railway station", "hi": { "text": "पालिताना रेलवे स्टेशन", "reviewed": false }, "mr": { "text": "पालिताणा रेल्वे स्थानक", "reviewed": false } },
+      "km": 1,
+      "how": {
+        "en": "Palitana is a small station connected to Bhavnagar and Sihor. For larger trains, use Bhavnagar Terminus, about 50 km away. Auto-rickshaws and shared jeeps run from the station to the hill base.",
+        "hi": { "text": "पालिताना एक छोटा स्टेशन है, जो भावनगर और सिहोर से जुड़ा है। बड़ी गाड़ियों के लिए लगभग 50 किमी दूर भावनगर टर्मिनस का उपयोग करें। स्टेशन से पहाड़ी की तलहटी तक ऑटो और शेयर्ड जीप चलती हैं।", "reviewed": false },
+        "mr": { "text": "पालिताणा हे छोटे स्थानक असून ते भावनगर आणि सिहोरशी जोडलेले आहे. मोठ्या गाड्यांसाठी सुमारे 50 किमी दूर भावनगर टर्मिनस वापरा. स्थानकापासून टेकडीच्या पायथ्यापर्यंत ऑटो आणि शेअर जीप धावतात.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Palitana is on the road from Bhavnagar, about 50 km southwest. State buses and private cabs run from Bhavnagar and Ahmedabad. The drive from Bhavnagar takes around one to one and a half hours.",
+        "hi": { "text": "पालिताना भावनगर से लगभग 50 किमी दक्षिण-पश्चिम में सड़क पर है। राज्य की बसें और निजी कैब भावनगर और अहमदाबाद से चलती हैं। भावनगर से सफ़र लगभग एक से डेढ़ घंटे का है।", "reviewed": false },
+        "mr": { "text": "पालिताणा भावनगरपासून सुमारे 50 किमी नैऋत्येस रस्त्यावर आहे. राज्य परिवहन बसेस आणि खासगी कॅब भावनगर आणि अहमदाबादहून धावतात. भावनगरहून प्रवास सुमारे दीड तासाचा आहे.", "reviewed": false }
+      },
+      "km": 50
+    }
+  },
+  "localTransport": {
+    "en": "Within Palitana, walk or take an auto-rickshaw to the hill base. Shared jeeps and cabs are common. Agree the fare before you start. Palanquin carriers (dolis) are available for those who cannot climb; check locally for current rates and rules.",
+    "hi": { "text": "पालिताना में तलहटी तक पैदल या ऑटो-रिक्शा से जाएँ। शेयर्ड जीप और कैब आम हैं। शुरू करने से पहले किराया तय कर लें। जो चढ़ नहीं सकते उनके लिए डोली उपलब्ध है; वर्तमान दर और नियम स्थानीय रूप से जाँचें।", "reviewed": false },
+    "mr": { "text": "पालिताण्यात टेकडीच्या पायथ्यापर्यंत पायी किंवा ऑटो-रिक्षाने जा. शेअर जीप आणि कॅब सामान्य आहेत. सुरू करण्यापूर्वी भाडे ठरवा. जे चढू शकत नाहीत त्यांच्यासाठी डोली उपलब्ध आहे; सध्याचे दर आणि नियम स्थानिक पातळीवर तपासा.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "mahavir-jayanti",
+      "note": {
+        "en": "Mahavira's birth anniversary is marked with prayers and processions, and the hill and temples are busy with pilgrims.",
+        "hi": { "text": "महावीर जयंती पर प्रार्थनाओं और शोभायात्राओं से उत्सव मनाया जाता है, और पहाड़ी व मंदिर यात्रियों से भरे रहते हैं।", "reviewed": false },
+        "mr": { "text": "महावीर जयंतीला प्रार्थना आणि मिरवणुकांनी उत्सव साजरा होतो, आणि टेकडी व मंदिरे यात्रेकरूंनी गजबजलेली असतात.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "diwali",
+      "note": {
+        "en": "Diwali is observed by Jains as the day of Mahavira's liberation. Many pilgrims visit the hill in the days around it, so plan for crowds.",
+        "hi": { "text": "जैन दीपावली को महावीर के मोक्ष दिवस के रूप में मनाते हैं। आसपास के दिनों में कई यात्री पहाड़ी पर आते हैं, इसलिए भीड़ की योजना बनाएँ।", "reviewed": false },
+        "mr": { "text": "जैन दिवाळीला महावीरांच्या निर्वाण दिवसाच्या रूपात पाळतात. आसपासच्या दिवसांत अनेक यात्रेकरू टेकडीवर येतात, त्यामुळे गर्दीचे नियोजन करा.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Bhavnagar", "hi": { "text": "भावनगर", "reviewed": false }, "mr": { "text": "भावनगर", "reviewed": false } },
+      "km": 50,
+      "note": { "en": "A coastal city with a major railway terminus and Jain temples in the old town, a natural base for a stay.", "hi": { "text": "एक तटीय नगर, जिसमें बड़ा रेलवे टर्मिनस और पुराने शहर में जैन मंदिर हैं, ठहरने का स्वाभाविक आधार।", "reviewed": false }, "mr": { "text": "मोठे रेल्वे टर्मिनस आणि जुन्या गावात जैन मंदिरे असलेले किनारपट्टीचे शहर, मुक्कामासाठी नैसर्गिक तळ.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Girnar hills, Junagadh", "hi": { "text": "गिरनार पहाड़ियाँ, जूनागढ़", "reviewed": false }, "mr": { "text": "गिरनार टेकड्या, जुनागढ", "reviewed": false } },
+      "km": 200,
+      "note": { "en": "Another hill pilgrimage with Jain temples at its summit, reached by a long stair climb. Distance is approximate; check locally.", "hi": { "text": "शिखर पर जैन मंदिरों वाली एक और पहाड़ी तीर्थयात्रा, जहाँ लंबी सीढ़ियों से चढ़ते हैं। दूरी अनुमानित है; स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "शिखरावर जैन मंदिरे असलेली आणखी एक टेकडी यात्रा, जिथे लांब पायऱ्यांनी चढावे लागते. अंतर अंदाजे आहे; स्थानिक पातळीवर तपासा.", "reviewed": false } }
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero.webp",
+      "caption": { "en": "Shatrunjaya hill and the Jain temples above Palitana", "hi": { "text": "पालिताना के ऊपर शत्रुंजय पहाड़ी और जैन मंदिर", "reviewed": false }, "mr": { "text": "पालिताण्यावरील शत्रुंजय टेकडी आणि जैन मंदिरे", "reviewed": false } },
+      "credit": "AI-generated illustration for PranaDin",
+      "ai": true
+    }
+  ],
+  "sources": [
+    { "label": "Palitana, Wikipedia", "url": "https://en.wikipedia.org/wiki/Palitana" },
+    { "label": "Shatrunjaya, Wikipedia", "url": "https://en.wikipedia.org/wiki/Shatrunjaya" }
+  ]
+}
