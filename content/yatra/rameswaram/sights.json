@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "rameswaram",
+  "sights": [
+    {
+      "id": "ramanathaswamy-temple",
+      "name": { "en": "Ramanathaswamy Temple", "hi": { "text": "रामनाथस्वामी मंदिर", "reviewed": false }, "mr": { "text": "रामनाथस्वामी मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The Jyotirlinga temple, known for its long pillared outer corridor of about 1,212 pillars, a main tower of about 53 metres and 22 sacred wells inside. Allow three to four hours including the bath and queue.",
+        "hi": { "text": "ज्योतिर्लिंग मंदिर, जो लगभग 1,212 स्तंभों वाले लंबे बाहरी गलियारे, लगभग 53 मीटर ऊँचे मुख्य गोपुरम और भीतर 22 पवित्र कुओं के लिए जाना जाता है। स्नान और कतार सहित तीन से चार घंटे रखें।", "reviewed": false },
+        "mr": { "text": "ज्योतिर्लिंग मंदिर, सुमारे 1,212 स्तंभांची लांब बाह्य मार्गिका, सुमारे 53 मीटर उंच मुख्य गोपुर आणि आत 22 पवित्र विहिरींसाठी प्रसिद्ध. स्नान आणि रांगेसह तीन ते चार तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Commonly reported as about 5:00 am to 1:00 pm and 3:00 pm to 9:00 pm, with a midday closure. Sources differ and festival days change this, so check locally.",
+        "hi": { "text": "आमतौर पर लगभग सुबह 5:00 से दोपहर 1:00 और दोपहर 3:00 से रात 9:00 बजे तक बताया जाता है, दोपहर में बंद। स्रोतों में अंतर है और उत्सव के दिनों में बदलाव होता है, इसलिए स्थानीय रूप से पुष्टि करें।", "reviewed": false },
+        "mr": { "text": "सहसा सुमारे सकाळी 5:00 ते दुपारी 1:00 आणि दुपारी 3:00 ते रात्री 9:00 असे सांगितले जाते, दुपारी बंद. स्रोतांमध्ये फरक आहे आणि उत्सवाच्या दिवशी बदल होतो, म्हणून स्थानिक पातळीवर खात्री करा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest traditional clothes with shoulders and knees covered, and footwear off. Guides report dhoti or trousers with a shirt for men and a saree or churidar for women, and some say men are asked to enter the sanctum bare-chested. Rules can differ by queue and day, so check at the gate. Phones and cameras are restricted inside, so use the locker. Bring a dry change of clothes for after the bath.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन पारंपरिक कपड़े, और जूते-चप्पल उतारकर। मार्गदर्शिकाओं के अनुसार पुरुषों के लिए धोती या पतलून के साथ कमीज़ और महिलाओं के लिए साड़ी या चूड़ीदार अपेक्षित है, और कुछ के अनुसार पुरुषों को गर्भगृह में बिना कमीज़ प्रवेश करने को कहा जाता है। नियम कतार और दिन के अनुसार भिन्न हो सकते हैं, इसलिए द्वार पर पूछ लें। भीतर फ़ोन और कैमरे पर रोक है, इसलिए लॉकर का उपयोग करें। स्नान के बाद के लिए सूखे कपड़े साथ रखें।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे सभ्य पारंपरिक कपडे, आणि पादत्राणे काढून. मार्गदर्शकांनुसार पुरुषांसाठी धोतर किंवा पँटसह शर्ट आणि महिलांसाठी साडी किंवा चुडीदार अपेक्षित आहे, आणि काहींच्या मते पुरुषांना गर्भगृहात उघड्या अंगाने प्रवेश करण्यास सांगितले जाते. नियम रांग आणि दिवसानुसार वेगळे असू शकतात, म्हणून प्रवेशद्वारी विचारा. आत फोन आणि कॅमेऱ्यावर बंदी आहे, म्हणून लॉकर वापरा. स्नानानंतरसाठी कोरडे कपडे सोबत ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "agni-theertham",
+      "name": { "en": "Agni Theertham (sea shore)", "hi": { "text": "अग्नि तीर्थम (समुद्र तट)", "reviewed": false }, "mr": { "text": "अग्नि तीर्थम (समुद्रकिनारा)", "reviewed": false } },
+      "desc": {
+        "en": "The sea shore east of the temple, the first of the sacred waters, where pilgrims bathe and families perform ancestor rites before darshan. Allow one hour.",
+        "hi": { "text": "मंदिर के पूर्व में समुद्र तट, पवित्र जलों में पहला, जहाँ तीर्थयात्री स्नान करते हैं और परिवार दर्शन से पहले पितृ कर्म करते हैं। एक घंटा रखें।", "reviewed": false },
+        "mr": { "text": "मंदिराच्या पूर्वेकडील समुद्रकिनारा, पवित्र जलांपैकी पहिला, जिथे यात्रेकरू स्नान करतात आणि कुटुंबे दर्शनापूर्वी पितृ विधी करतात. एक तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open to bathers through the day, best in the early morning. Check locally for the temple's 22-well bath hours.",
+        "hi": { "text": "दिन भर स्नान के लिए खुला, सुबह जल्दी सर्वोत्तम। मंदिर के 22 कुओं के स्नान के समय के लिए स्थानीय रूप से पुष्टि करें।", "reviewed": false },
+        "mr": { "text": "दिवसभर स्नानासाठी खुला, पहाटे सर्वोत्तम. मंदिरातील 22 विहिरींच्या स्नानाच्या वेळांसाठी स्थानिक पातळीवर खात्री करा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Wear simple cotton clothes that you can bathe in, and keep a dry set ready. Women often use a long cotton wrap or nightdress. Keep valuables and phones in a safe place. Change in the changing rooms, not on the shore.",
+        "hi": { "text": "सादे सूती कपड़े पहनें जिनमें स्नान किया जा सके, और सूखे कपड़े तैयार रखें। महिलाएँ अक्सर लंबा सूती वस्त्र या गाउन पहनती हैं। कीमती सामान और फ़ोन सुरक्षित स्थान पर रखें। कपड़े बदलने के कमरों में बदलें, तट पर नहीं।", "reviewed": false },
+        "mr": { "text": "स्नान करता येईल असे साधे सुती कपडे घाला, आणि कोरडे कपडे तयार ठेवा. महिला अनेकदा लांब सुती वस्त्र किंवा गाऊन वापरतात. मौल्यवान वस्तू आणि फोन सुरक्षित ठिकाणी ठेवा. कपडे बदलण्याच्या खोल्यांत बदला, किनाऱ्यावर नाही.", "reviewed": false }
+      }
+    },
+    {
+      "id": "dhanushkodi",
+      "name": { "en": "Dhanushkodi", "hi": { "text": "धनुषकोडि", "reviewed": false }, "mr": { "text": "धनुषकोडी", "reviewed": false } },
+      "desc": {
+        "en": "The ruined town at the southern tip, about 18 km from Rameswaram, destroyed in the 1964 cyclone. It has a long beach, ruined buildings and the surviving Kothandaramaswamy temple. Allow half a day.",
+        "hi": { "text": "दक्षिणी छोर पर उजड़ा नगर, रामेश्वरम से लगभग 18 किमी, जो 1964 के चक्रवात में नष्ट हुआ। यहाँ लंबा समुद्र तट, खंडहर इमारतें और बचा हुआ कोदंडरामस्वामी मंदिर है। आधा दिन रखें।", "reviewed": false },
+        "mr": { "text": "दक्षिण टोकावरील उद्ध्वस्त नगर, रामेश्वरमपासून सुमारे 18 किमी, जे 1964 च्या चक्रीवादळात नष्ट झाले. येथे लांब समुद्रकिनारा, पडक्या इमारती आणि टिकून राहिलेले कोदंडरामस्वामी मंदिर आहे. अर्धा दिवस ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Visit in daylight and plan to return before dark. Access can be restricted in rough weather or by local authorities, so check locally.",
+        "hi": { "text": "दिन के उजाले में जाएँ और अँधेरे से पहले लौटने की योजना रखें। खराब मौसम में या स्थानीय अधिकारियों द्वारा प्रवेश सीमित हो सकता है, इसलिए स्थानीय रूप से पुष्टि करें।", "reviewed": false },
+        "mr": { "text": "दिवसाच्या प्रकाशात जा आणि अंधार पडण्यापूर्वी परतण्याचे नियोजन करा. खराब हवामानात किंवा स्थानिक प्राधिकरणांकडून प्रवेश मर्यादित असू शकतो, म्हणून स्थानिक पातळीवर खात्री करा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light, comfortable clothes, a hat and sun protection. The small temple asks for modest clothes and footwear off.",
+        "hi": { "text": "हल्के, आरामदायक कपड़े, टोपी और धूप से बचाव। छोटे मंदिर में शालीन कपड़े और जूते-चप्पल उतारना अपेक्षित है।", "reviewed": false },
+        "mr": { "text": "हलके, आरामदायक कपडे, टोपी आणि उन्हापासून संरक्षण. लहान मंदिरात सभ्य कपडे आणि पादत्राणे काढणे अपेक्षित आहे.", "reviewed": false }
+      }
+    },
+    {
+      "id": "pamban-bridge",
+      "name": { "en": "Pamban Bridges", "hi": { "text": "पम्बन पुल", "reviewed": false }, "mr": { "text": "पंबन पूल", "reviewed": false } },
+      "desc": {
+        "en": "The 1914 cantilever rail bridge, the first bridge built across the sea in India, stands beside the New Pamban Bridge opened in April 2025, which has a 72.5 metre vertical-lift span. A short stop on the way in or out. Allow thirty minutes.",
+        "hi": { "text": "1914 का कैंटिलीवर रेल पुल, भारत में समुद्र पर बना पहला पुल, अप्रैल 2025 में खुले नए पम्बन पुल के पास खड़ा है, जिसमें 72.5 मीटर का वर्टिकल-लिफ़्ट खंड है। आते या जाते समय छोटा पड़ाव। तीस मिनट रखें।", "reviewed": false },
+        "mr": { "text": "1914 चा कँटिलिव्हर रेल्वे पूल, भारतातील समुद्रावर बांधलेला पहिला पूल, एप्रिल 2025 मध्ये उघडलेल्या नव्या पंबन पुलाशेजारी उभा आहे, ज्यात 72.5 मीटरचा व्हर्टिकल-लिफ्ट भाग आहे. येताना किंवा जाताना लहान थांबा. तीस मिनिटे ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open to view at any daylight hour. Stopping on the road bridge may be restricted for traffic safety, so check locally.",
+        "hi": { "text": "दिन के किसी भी समय देखने के लिए खुला। यातायात सुरक्षा के लिए सड़क पुल पर रुकना सीमित हो सकता है, इसलिए स्थानीय रूप से पुष्टि करें।", "reviewed": false },
+        "mr": { "text": "दिवसा कोणत्याही वेळी पाहण्यासाठी खुला. वाहतूक सुरक्षेसाठी रस्ते पुलावर थांबणे मर्यादित असू शकते, म्हणून स्थानिक पातळीवर खात्री करा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Ordinary comfortable clothes. The bridge is windy, so hold on to hats and phones.",
+        "hi": { "text": "सामान्य आरामदायक कपड़े। पुल पर हवा तेज़ होती है, इसलिए टोपी और फ़ोन संभालकर रखें।", "reviewed": false },
+        "mr": { "text": "सामान्य आरामदायक कपडे. पुलावर वारा जोरात असतो, म्हणून टोपी आणि फोन सांभाळा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "kalam-memorial",
+      "name": { "en": "Dr. A. P. J. Abdul Kalam Memorial", "hi": { "text": "डॉ. ए. पी. जे. अब्दुल कलाम स्मारक", "reviewed": false }, "mr": { "text": "डॉ. ए. पी. जे. अब्दुल कलाम स्मारक", "reviewed": false } },
+      "desc": {
+        "en": "A memorial to the former President of India and scientist, who was born in Rameswaram. It holds exhibits on his life and work. Allow about one hour.",
+        "hi": { "text": "भारत के पूर्व राष्ट्रपति और वैज्ञानिक का स्मारक, जिनका जन्म रामेश्वरम में हुआ था। यहाँ उनके जीवन और कार्य की प्रदर्शनियाँ हैं। लगभग एक घंटा रखें।", "reviewed": false },
+        "mr": { "text": "भारताचे माजी राष्ट्रपती आणि शास्त्रज्ञ यांचे स्मारक, ज्यांचा जन्म रामेश्वरममध्ये झाला. येथे त्यांच्या जीवन आणि कार्यावरील प्रदर्शने आहेत. सुमारे एक तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Generally open in the daytime. Hours and any entry fee vary, so check locally.",
+        "hi": { "text": "आमतौर पर दिन में खुला रहता है। समय और प्रवेश शुल्क बदलते हैं, इसलिए स्थानीय रूप से पुष्टि करें।", "reviewed": false },
+        "mr": { "text": "सहसा दिवसा उघडे असते. वेळा आणि प्रवेश शुल्क बदलतात, म्हणून स्थानिक पातळीवर खात्री करा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Ordinary modest clothes. Not a place of worship.",
+        "hi": { "text": "सामान्य शालीन कपड़े। यह पूजा स्थल नहीं है।", "reviewed": false },
+        "mr": { "text": "सामान्य सभ्य कपडे. हे पूजास्थळ नाही.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Traditional order: bathe at Agni Theertham, then take the 22-well bath in the temple in the same wet clothes, then change and go for darshan. Follow the staff's directions as the sequence is managed on the day.",
+        "hi": { "text": "परंपरागत क्रम: अग्नि तीर्थम में स्नान, फिर उसी गीले वस्त्र में मंदिर के 22 कुओं का स्नान, फिर कपड़े बदलकर दर्शन। उस दिन का क्रम कर्मचारियों द्वारा संभाला जाता है, इसलिए उनके निर्देशों का पालन करें।", "reviewed": false },
+        "mr": { "text": "पारंपरिक क्रम: अग्नि तीर्थममध्ये स्नान, मग त्याच ओल्या कपड्यांत मंदिरातील 22 विहिरींचे स्नान, मग कपडे बदलून दर्शन. त्या दिवशीचा क्रम कर्मचारी सांभाळतात, म्हणून त्यांच्या सूचनांचे पालन करा.", "reviewed": false }
+      },
+      {
+        "en": "The 22-well bath is a ticketed, queued activity with attendants who pour the water, and the fee is set by the temple, so pay only at the official counter and ask for a receipt. Check the current rate locally.",
+        "hi": { "text": "22 कुओं का स्नान टिकट और कतार वाला कार्य है जिसमें सेवक जल डालते हैं, और शुल्क मंदिर तय करता है, इसलिए केवल आधिकारिक काउंटर पर भुगतान करें और रसीद माँगें। वर्तमान दर स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "22 विहिरींचे स्नान तिकीट आणि रांग असलेले कार्य आहे ज्यात सेवक पाणी ओततात, आणि शुल्क मंदिर ठरवते, म्हणून फक्त अधिकृत काउंटरवर पैसे द्या आणि पावती मागा. सध्याचा दर स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      {
+        "en": "The Vishvalingam brought by Hanuman is traditionally worshipped first, then the sand Ramalingam. Follow the queue line as it is arranged.",
+        "hi": { "text": "हनुमान द्वारा लाए गए विश्वलिंग की पूजा परंपरा से पहले होती है, फिर रेत के रामलिंग की। कतार जिस क्रम में लगी हो उसका पालन करें।", "reviewed": false },
+        "mr": { "text": "हनुमानाने आणलेल्या विश्वलिंगाची पूजा परंपरेने प्रथम होते, मग वाळूच्या रामलिंगाची. रांग ज्या क्रमाने लावली असेल त्याचे पालन करा.", "reviewed": false }
+      },
+      {
+        "en": "Leave phones, bags and footwear in the locker or cloakroom. Photography is not allowed inside. Carry a small towel and a dry set of clothes.",
+        "hi": { "text": "फ़ोन, बैग और जूते-चप्पल लॉकर या क्लोकरूम में रखें। भीतर फ़ोटोग्राफ़ी की अनुमति नहीं है। एक छोटा तौलिया और सूखे कपड़े साथ रखें।", "reviewed": false },
+        "mr": { "text": "फोन, पिशव्या आणि पादत्राणे लॉकर किंवा क्लोकरूममध्ये ठेवा. आत फोटोग्राफीला परवानगी नाही. लहान टॉवेल आणि कोरडे कपडे सोबत ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "Pilgrim seasons, new moon days and festival days are the most crowded. Go in the early morning for shorter queues.",
+        "hi": { "text": "तीर्थ मौसम, अमावस्या और उत्सव के दिन सबसे अधिक भीड़ रहती है। छोटी कतार के लिए सुबह जल्दी जाएँ।", "reviewed": false },
+        "mr": { "text": "यात्रा हंगाम, अमावास्या आणि उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. लहान रांगेसाठी पहाटे लवकर जा.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "The temple is run by the Tamil Nadu HR&CE department. Darshan, bath and puja details are on its official pages and at the temple counters, and options change. Confirm there. PranaDin does not sell tickets.",
+      "hi": { "text": "मंदिर का संचालन तमिलनाडु एचआर एंड सीई विभाग करता है। दर्शन, स्नान और पूजा की जानकारी इसके आधिकारिक पृष्ठों और मंदिर काउंटरों पर है, और विकल्प बदलते रहते हैं। वहीं पुष्टि करें। प्राणदिन टिकट नहीं बेचता।", "reviewed": false },
+      "mr": { "text": "मंदिराचे संचालन तमिळनाडू एचआर अँड सीई विभाग करतो. दर्शन, स्नान आणि पूजेची माहिती त्याच्या अधिकृत पानांवर आणि मंदिर काउंटरवर आहे, आणि पर्याय बदलतात. तिथेच खात्री करा. प्राणदिन तिकिटे विकत नाही.", "reviewed": false }
+    }
+  }
+}

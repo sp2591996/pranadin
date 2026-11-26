@@ -1,0 +1,298 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "madurai",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "One day: Meenakshi temple and the old town",
+        "hi": { "text": "एक दिन: मीनाक्षी मंदिर और पुराना शहर", "reviewed": false },
+        "mr": { "text": "एक दिवस: मीनाक्षी मंदिर आणि जुने शहर", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Early darshan at the Meenakshi Amman temple, then the Golden Lotus Tank and the Hall of Thousand Pillars. Breakfast of idli and dosa nearby.",
+              "hi": { "text": "मीनाक्षी अम्मन मंदिर में सुबह जल्दी दर्शन, फिर स्वर्ण कमल सरोवर और सहस्र स्तंभ मंडप। पास में इडली-डोसा का नाश्ता।", "reviewed": false },
+              "mr": { "text": "मीनाक्षी अम्मन मंदिरात पहाटे दर्शन, मग सुवर्ण कमल सरोवर आणि सहस्र स्तंभ मंडप. जवळ इडली-डोसाचा नाश्ता.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest through the hot hours after a banana-leaf lunch. Visit the Thirumalai Nayakkar Mahal late in the afternoon.",
+              "hi": { "text": "केले के पत्ते पर भोजन के बाद गर्म घंटों में विश्राम करें। दोपहर के अंत में तिरुमलै नायक्कर महल देखें।", "reviewed": false },
+              "mr": { "text": "केळीच्या पानावरील जेवणानंतर उष्ण तासांत विश्रांती घ्या. दुपारच्या उत्तरार्धात तिरुमलै नायक्कर महाल पाहा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Return to the temple for the evening darshan and walk the lit streets. Finish with a cold jigarthanda.",
+              "hi": { "text": "शाम के दर्शन के लिए मंदिर लौटें और रोशनी से सजी गलियों में घूमें। अंत में ठंडा जिगरठंडा लें।", "reviewed": false },
+              "mr": { "text": "संध्याकाळच्या दर्शनासाठी मंदिरात परत जा आणि रोषणाईने सजलेल्या रस्त्यांवर फिरा. शेवटी थंड जिगरठंडा घ्या.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Two days: the temple and the hill shrines",
+        "hi": { "text": "दो दिन: मंदिर और पहाड़ी देवालय", "reviewed": false },
+        "mr": { "text": "दोन दिवस: मंदिर आणि डोंगरावरील देवळे", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Meenakshi Amman temple darshan and the Hall of Thousand Pillars.",
+              "hi": { "text": "मीनाक्षी अम्मन मंदिर के दर्शन और सहस्र स्तंभ मंडप।", "reviewed": false },
+              "mr": { "text": "मीनाक्षी अम्मन मंदिराचे दर्शन आणि सहस्र स्तंभ मंडप.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest, then the Thirumalai Nayakkar Mahal and the Gandhi Memorial Museum.",
+              "hi": { "text": "भोजन और विश्राम, फिर तिरुमलै नायक्कर महल और गांधी स्मारक संग्रहालय।", "reviewed": false },
+              "mr": { "text": "जेवण आणि विश्रांती, मग तिरुमलै नायक्कर महाल आणि गांधी स्मारक संग्रहालय.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Evening at the temple and the flower market lanes.",
+              "hi": { "text": "शाम मंदिर और फूल बाज़ार की गलियों में।", "reviewed": false },
+              "mr": { "text": "संध्याकाळ मंदिर आणि फूलबाजाराच्या गल्ल्यांमध्ये.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Taxi to Thirupparankundram for the Murugan hill temple.",
+              "hi": { "text": "मुरुगन पहाड़ी मंदिर के लिए टैक्सी से तिरुप्परनकुंद्रम।", "reviewed": false },
+              "mr": { "text": "मुरुगन डोंगरी मंदिरासाठी टॅक्सीने तिरुप्परनकुंद्रम.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Return, lunch and rest. Drive to Alagar Koyil late in the day if you have energy.",
+              "hi": { "text": "वापसी, भोजन और विश्राम। ऊर्जा हो तो दिन के अंत में अळगर कोयिल जाएँ।", "reviewed": false },
+              "mr": { "text": "परत या, जेवण आणि विश्रांती. शक्ती असेल तर दिवसाच्या शेवटी अळगर कोयिलला जा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "A last darshan at the Meenakshi temple and an early night.",
+              "hi": { "text": "मीनाक्षी मंदिर में अंतिम दर्शन और जल्दी विश्राम।", "reviewed": false },
+              "mr": { "text": "मीनाक्षी मंदिरात शेवटचे दर्शन आणि लवकर विश्रांती.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Three days: Madurai with a day trip to Rameswaram",
+        "hi": { "text": "तीन दिन: मदुरै और रामेश्वरम की एक दिन की यात्रा", "reviewed": false },
+        "mr": { "text": "तीन दिवस: मदुराई आणि रामेश्वरमची एक दिवसाची सहल", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Arrive, settle in and have a south Indian breakfast.",
+              "hi": { "text": "पहुँचें, ठहरने की जगह में बसें और दक्षिण भारतीय नाश्ता करें।", "reviewed": false },
+              "mr": { "text": "पोहोचा, राहण्याच्या जागी स्थिरावा आणि दक्षिण भारतीय नाश्ता करा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest, then the Thirumalai Nayakkar Mahal.",
+              "hi": { "text": "विश्राम, फिर तिरुमलै नायक्कर महल।", "reviewed": false },
+              "mr": { "text": "विश्रांती, मग तिरुमलै नायक्कर महाल.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Meenakshi temple darshan in the evening light.",
+              "hi": { "text": "शाम की रोशनी में मीनाक्षी मंदिर के दर्शन।", "reviewed": false },
+              "mr": { "text": "संध्याकाळच्या प्रकाशात मीनाक्षी मंदिराचे दर्शन.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Early train or taxi towards Rameswaram, about 175 km. Darshan at Ramanathaswamy temple on arrival, if you can reach it before the midday closure.",
+              "hi": { "text": "रामेश्वरम के लिए सुबह जल्दी ट्रेन या टैक्सी, लगभग 175 किमी। दोपहर के बंद होने से पहले पहुँच सकें तो पहुँचकर रामनाथस्वामी मंदिर के दर्शन।", "reviewed": false },
+              "mr": { "text": "रामेश्वरमकडे पहाटे लवकर रेल्वे किंवा टॅक्सी, सुमारे 175 किमी. दुपारच्या बंदपूर्वी पोहोचता आले तर पोहोचल्यावर रामनाथस्वामी मंदिराचे दर्शन.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest in Rameswaram. A drive towards Dhanushkodi if time permits.",
+              "hi": { "text": "रामेश्वरम में भोजन और विश्राम। समय हो तो धनुषकोडि की ओर यात्रा।", "reviewed": false },
+              "mr": { "text": "रामेश्वरममध्ये जेवण आणि विश्रांती. वेळ असल्यास धनुषकोडीकडे प्रवास.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Return to Madurai by the evening train or road, or stay overnight if the day is too long.",
+              "hi": { "text": "शाम की रेल या सड़क से मदुरै लौटें, या दिन बहुत लंबा हो तो रात वहीं रुकें।", "reviewed": false },
+              "mr": { "text": "संध्याकाळच्या रेल्वे किंवा रस्त्याने मदुराईला परत या, किंवा दिवस खूप लांब झाला तर रात्री तिथेच थांबा.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Thirupparankundram and the Gandhi Memorial Museum.",
+              "hi": { "text": "तिरुप्परनकुंद्रम और गांधी स्मारक संग्रहालय।", "reviewed": false },
+              "mr": { "text": "तिरुप्परनकुंद्रम आणि गांधी स्मारक संग्रहालय.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Shop for Madurai silk cotton sarees, brass lamps and jasmine garlands, then rest.",
+              "hi": { "text": "मदुरै की सिल्क-कॉटन साड़ियाँ, पीतल के दीपक और चमेली की मालाएँ खरीदें, फिर विश्राम।", "reviewed": false },
+              "mr": { "text": "मदुराईच्या सिल्क-कॉटन साड्या, पितळी दिवे आणि मोगऱ्याचे गजरे खरेदी करा, मग विश्रांती.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "A final darshan at the Meenakshi temple before you leave.",
+              "hi": { "text": "प्रस्थान से पहले मीनाक्षी मंदिर में अंतिम दर्शन।", "reviewed": false },
+              "mr": { "text": "निघण्यापूर्वी मीनाक्षी मंदिरात शेवटचे दर्शन.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Around the temple (West and South Masi streets)", "hi": { "text": "मंदिर के आसपास (वेस्ट और साउथ मासी स्ट्रीट)", "reviewed": false }, "mr": { "text": "मंदिराच्या आसपास (वेस्ट आणि साउथ मासी स्ट्रीट)", "reviewed": false } },
+      "body": { "en": "Walking distance to the gopurams, so you can visit at dawn and again in the evening. Streets are crowded and noisy, and many rooms are small.", "hi": { "text": "गोपुरम तक पैदल दूरी, इसलिए भोर और शाम दोनों समय दर्शन कर सकते हैं। गलियाँ भीड़ भरी और शोरगुल वाली हैं, और कई कमरे छोटे हैं।", "reviewed": false }, "mr": { "text": "गोपुरांपर्यंत चालत जाता येते, म्हणून पहाटे आणि संध्याकाळी दोन्ही वेळी दर्शन घेता येते. रस्ते गर्दीचे आणि गोंगाटाचे आहेत, आणि अनेक खोल्या लहान आहेत.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Near the railway station and Periyar", "hi": { "text": "रेलवे स्टेशन और पेरियार के पास", "reviewed": false }, "mr": { "text": "रेल्वे स्थानक आणि पेरियारजवळ", "reviewed": false } },
+      "body": { "en": "Many hotels at every price, with easy access to trains and buses. A short auto ride to the temple.", "hi": { "text": "हर बजट के कई होटल, रेल और बस तक आसान पहुँच। मंदिर तक ऑटो का छोटा सफ़र।", "reviewed": false }, "mr": { "text": "प्रत्येक बजेटची अनेक हॉटेले, रेल्वे आणि बसपर्यंत सहज पोहोच. मंदिरापर्यंत ऑटोने थोडे अंतर.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Temple-run lodges and mutts", "hi": { "text": "मंदिर संचालित आवास और मठ", "reviewed": false }, "mr": { "text": "मंदिर संचलित निवास आणि मठ", "reviewed": false } },
+      "body": { "en": "Simple, low-cost rooms run by trusts and the HR&CE department. Rules are strict and rooms fill quickly in festival season, so ask early.", "hi": { "text": "ट्रस्टों और एचआर एंड सीई विभाग द्वारा चलाए जाने वाले सरल, कम खर्च के कमरे। नियम सख़्त हैं और उत्सव के मौसम में कमरे जल्दी भर जाते हैं, इसलिए पहले पूछ लें।", "reviewed": false }, "mr": { "text": "ट्रस्ट आणि एचआर अँड सीई विभाग चालवत असलेल्या साध्या, कमी खर्चाच्या खोल्या. नियम कडक आहेत आणि उत्सवाच्या काळात खोल्या लवकर भरतात, म्हणून आधी विचारा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Chithirai season", "hi": { "text": "चित्तिरै का मौसम", "reviewed": false }, "mr": { "text": "चित्तिरै हंगाम", "reviewed": false } },
+      "body": { "en": "During the April or May wedding festival, rooms are scarce and rates rise. Book well ahead or stay outside the old town.", "hi": { "text": "अप्रैल या मई के विवाह उत्सव में कमरे कम मिलते हैं और दरें बढ़ जाती हैं। बहुत पहले बुक करें या पुराने शहर के बाहर ठहरें।", "reviewed": false }, "mr": { "text": "एप्रिल किंवा मे मधील विवाह उत्सवात खोल्या कमी मिळतात आणि दर वाढतात. खूप आधी आरक्षण करा किंवा जुन्या शहराबाहेर राहा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Idli, dosa and filter coffee", "hi": { "text": "इडली, डोसा और फ़िल्टर कॉफ़ी", "reviewed": false }, "mr": { "text": "इडली, डोसा आणि फिल्टर कॉफी", "reviewed": false } },
+      "body": { "en": "Soft idlis with sambar and chutney, crisp dosas and strong coffee in tumbler and dabara, served from early morning at small tiffin houses.", "hi": { "text": "सांभर और चटनी के साथ नरम इडली, कुरकुरे डोसे और टंबलर-डबरा में कड़क कॉफ़ी, सुबह से छोटे टिफ़िन घरों में मिलते हैं।", "reviewed": false }, "mr": { "text": "सांबार आणि चटणीसह मऊ इडल्या, कुरकुरीत डोसे आणि टंबलर-डबऱ्यात कडक कॉफी, सकाळपासून लहान उपाहारगृहांत मिळतात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Banana-leaf meals", "hi": { "text": "केले के पत्ते पर भोजन", "reviewed": false }, "mr": { "text": "केळीच्या पानावरील जेवण", "reviewed": false } },
+      "body": { "en": "A full vegetarian meal of rice, sambar, rasam, curries, curd and payasam on a banana leaf at lunchtime. Pure vegetarian restaurants are plentiful.", "hi": { "text": "दोपहर में केले के पत्ते पर चावल, सांभर, रसम, सब्ज़ियाँ, दही और पायसम का पूरा शाकाहारी भोजन। शुद्ध शाकाहारी भोजनालय बहुत हैं।", "reviewed": false }, "mr": { "text": "दुपारी केळीच्या पानावर भात, सांबार, रसम, भाज्या, दही आणि पायसम असे पूर्ण शाकाहारी जेवण. शुद्ध शाकाहारी उपाहारगृहे भरपूर आहेत.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Jigarthanda", "hi": { "text": "जिगरठंडा", "reviewed": false }, "mr": { "text": "जिगरठंडा", "reviewed": false } },
+      "body": { "en": "A cold Madurai drink of milk, almond gum and ice cream, usually sold in the evening. Choose busy stalls and clean glasses.", "hi": { "text": "दूध, बादाम गोंद और आइसक्रीम से बना मदुरै का ठंडा पेय, जो आमतौर पर शाम को बिकता है। भीड़ वाले ठेले और साफ़ गिलास चुनें।", "reviewed": false }, "mr": { "text": "दूध, बदामाचा डिंक आणि आइस्क्रीमपासून बनलेले मदुराईचे थंड पेय, सहसा संध्याकाळी मिळते. गर्दीचे ठेले आणि स्वच्छ ग्लास निवडा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Parotta and late-night tiffin", "hi": { "text": "पराठा और देर रात का टिफ़िन", "reviewed": false }, "mr": { "text": "पराठा आणि उशिरा रात्रीचे टिफिन", "reviewed": false } },
+      "body": { "en": "Madurai eats late. Flaky parotta with salna is a local favourite, and many versions are non-vegetarian, so ask if you want vegetarian.", "hi": { "text": "मदुरै देर रात तक खाता है। सलना के साथ परतदार पराठा स्थानीय पसंद है, और कई प्रकार मांसाहारी होते हैं, इसलिए शाकाहारी चाहें तो पूछ लें।", "reviewed": false }, "mr": { "text": "मदुराई उशिरापर्यंत खाते. सलनासह पदराचा पराठा स्थानिकांचा आवडता आहे, आणि अनेक प्रकार मांसाहारी असतात, म्हणून शाकाहारी हवे असल्यास विचारा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Vegetarian food is the norm near the temple, and many restaurants are pure vegetarian. Temple prasadam such as pongal and sweet rice is simple and without onion or garlic. Ask before ordering if you avoid onion and garlic, as many restaurant dishes include them.",
+    "hi": { "text": "मंदिर के पास शाकाहारी भोजन सामान्य है और कई भोजनालय शुद्ध शाकाहारी हैं। पोंगल और मीठे चावल जैसे मंदिर प्रसाद सरल और प्याज-लहसुन रहित होते हैं। प्याज-लहसुन से परहेज़ हो तो ऑर्डर से पहले पूछें, क्योंकि भोजनालयों के कई व्यंजनों में ये होते हैं।", "reviewed": false },
+    "mr": { "text": "मंदिराजवळ शाकाहारी जेवण सामान्य आहे आणि अनेक उपाहारगृहे शुद्ध शाकाहारी आहेत. पोंगल आणि गोड भात यांसारखा मंदिराचा प्रसाद साधा आणि कांदा-लसूण विरहित असतो. कांदा-लसूण वर्ज्य असेल तर मागवण्यापूर्वी विचारा, कारण उपाहारगृहांतील अनेक पदार्थांत ते असतात.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 900, "max": 1800 },
+      "mid": { "min": 2200, "max": 4500 },
+      "comfort": { "min": 5500, "max": 10000 }
+    },
+    "note": {
+      "en": "Indicative rupees per person per day for stay, food and local transport, assuming two people sharing a room. Prices rise in festival season. Check current rates.",
+      "hi": { "text": "ठहरने, भोजन और स्थानीय परिवहन के लिए प्रति व्यक्ति प्रति दिन सांकेतिक रुपये, दो लोगों के एक कमरा साझा करने की मान्यता पर। उत्सव के मौसम में दरें बढ़ती हैं। वर्तमान दरें जाँच लें।", "reviewed": false },
+      "mr": { "text": "राहणे, जेवण आणि स्थानिक वाहतुकीसाठी प्रति व्यक्ती प्रति दिवस सूचक रुपये, दोन जणांनी एक खोली वाटून घेतली असे गृहीत धरून. उत्सवाच्या काळात दर वाढतात. सध्याचे दर तपासा.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Heat is the main risk. Temple stone floors get very hot at midday, so visit early or late, carry water and wear socks only if the temple allows it.",
+      "hi": { "text": "गर्मी मुख्य जोखिम है। मंदिर का पत्थर का फ़र्श दोपहर में बहुत गर्म हो जाता है, इसलिए सुबह या शाम को जाएँ, पानी साथ रखें और मंदिर अनुमति दे तभी मोज़े पहनें।", "reviewed": false },
+      "mr": { "text": "उष्णता हा मुख्य धोका आहे. दुपारी मंदिराची दगडी फरशी खूप तापते, म्हणून सकाळी किंवा संध्याकाळी जा, पाणी सोबत ठेवा आणि मंदिर परवानगी देत असेल तरच मोजे घाला.", "reviewed": false }
+    },
+    {
+      "en": "Crowds in the corridors can be tight. Keep children close, hold bags in front and avoid carrying much cash.",
+      "hi": { "text": "गलियारों में भीड़ घनी हो सकती है। बच्चों को पास रखें, बैग आगे रखें और अधिक नकदी न रखें।", "reviewed": false },
+      "mr": { "text": "मार्गिकांमध्ये गर्दी दाट असू शकते. मुलांना जवळ ठेवा, पिशव्या पुढे धरा आणि जास्त रोख रक्कम बाळगू नका.", "reviewed": false }
+    },
+    {
+      "en": "Drink only bottled or filtered water and eat freshly cooked food. Carry any regular medicines and basic rehydration salts.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी पिएँ और ताज़ा पका भोजन खाएँ। अपनी नियमित दवाएँ और ओआरएस साथ रखें।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी प्या आणि ताजे शिजवलेले अन्न खा. आपली नियमित औषधे आणि ओआरएस सोबत ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "During the northeast monsoon (October to December), wet temple floors can be slippery. Walk slowly. This guide is general information and does not replace medical advice.",
+      "hi": { "text": "उत्तर-पूर्वी मानसून (अक्टूबर से दिसंबर) में मंदिर का गीला फ़र्श फिसलन भरा हो सकता है। धीरे चलें। यह मार्गदर्शिका सामान्य जानकारी है और चिकित्सकीय सलाह का स्थान नहीं लेती।", "reviewed": false },
+      "mr": { "text": "ईशान्य मान्सूनमध्ये (ऑक्टोबर ते डिसेंबर) मंदिराची ओली फरशी निसरडी असू शकते. सावकाश चाला. हे मार्गदर्शन सामान्य माहिती आहे आणि वैद्यकीय सल्ल्याला पर्याय नाही.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly and remove footwear before entering the temple. Cover shoulders and knees.",
+      "hi": { "text": "शालीन कपड़े पहनें और मंदिर में प्रवेश से पहले जूते-चप्पल उतारें। कंधे और घुटने ढकें।", "reviewed": false },
+      "mr": { "text": "सभ्य कपडे घाला आणि मंदिरात प्रवेश करण्यापूर्वी पादत्राणे काढा. खांदे आणि गुडघे झाका.", "reviewed": false }
+    },
+    {
+      "en": "Do not use phones or cameras inside the temple, and do not photograph the deities or other worshippers.",
+      "hi": { "text": "मंदिर के भीतर फ़ोन या कैमरे का उपयोग न करें, और देवताओं या अन्य श्रद्धालुओं की तस्वीर न लें।", "reviewed": false },
+      "mr": { "text": "मंदिरात फोन किंवा कॅमेरा वापरू नका, आणि देवता किंवा इतर भाविकांचे फोटो काढू नका.", "reviewed": false }
+    },
+    {
+      "en": "Priests and guides may approach you. You may politely decline, and agree any fee for a puja or guide before it begins.",
+      "hi": { "text": "पुजारी और गाइड आपसे संपर्क कर सकते हैं। आप विनम्रता से मना कर सकते हैं, और पूजा या गाइड का शुल्क शुरू होने से पहले तय करें।", "reviewed": false },
+      "mr": { "text": "पुजारी आणि मार्गदर्शक तुमच्याशी संपर्क साधू शकतात. तुम्ही नम्रपणे नकार देऊ शकता, आणि पूजा किंवा मार्गदर्शकाचे शुल्क सुरू होण्यापूर्वी ठरवा.", "reviewed": false }
+    },
+    {
+      "en": "Walk clockwise around shrines, keep to the queue and do not touch the carved pillars or the sacred elephant without permission.",
+      "hi": { "text": "देवालयों की प्रदक्षिणा घड़ी की दिशा में करें, कतार में रहें और अनुमति के बिना नक्काशीदार स्तंभों या पवित्र हाथी को न छुएँ।", "reviewed": false },
+      "mr": { "text": "देवळांभोवती घड्याळाच्या दिशेने प्रदक्षिणा करा, रांगेत राहा आणि परवानगीशिवाय कोरीव स्तंभांना किंवा पवित्र हत्तीला स्पर्श करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Keep the temple clean. Do not litter, spit or sit on the tank steps, and keep your voice low.",
+      "hi": { "text": "मंदिर को साफ़ रखें। कचरा न फैलाएँ, थूकें नहीं और सरोवर की सीढ़ियों पर न बैठें, और धीमे बोलें।", "reviewed": false },
+      "mr": { "text": "मंदिर स्वच्छ ठेवा. कचरा टाकू नका, थुंकू नका आणि सरोवराच्या पायऱ्यांवर बसू नका, आणि हळू बोला.", "reviewed": false }
+    }
+  ]
+}

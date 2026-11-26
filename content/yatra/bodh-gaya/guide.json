@@ -1,0 +1,152 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "bodh-gaya",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: the Mahabodhi Mahavihara and the monasteries", "hi": { "text": "एक दिन: महाबोधि महाविहार और विहार", "reviewed": false }, "mr": { "text": "एक दिवस: महाबोधी महाविहार आणि विहारे", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive at the temple for the early chanting and meditation, then walk the circumambulation path and sit near the Bodhi Tree.", "hi": { "text": "भोर के पाठ और ध्यान के लिए मंदिर पहुँचें, फिर परिक्रमा पथ पर चलें और बोधि वृक्ष के पास बैठें।", "reviewed": false }, "mr": { "text": "पहाटेच्या पठण आणि ध्यानासाठी मंदिरात पोहोचा, मग प्रदक्षिणा मार्गावर चाला आणि बोधिवृक्षाजवळ बसा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Rest through the midday heat, then visit the Great Buddha Statue and two or three monasteries such as Wat Thai and Tergar.", "hi": { "text": "दोपहर की गर्मी में विश्राम करें, फिर महान बुद्ध प्रतिमा और वाट थाई तथा तेरगर जैसे दो-तीन विहार देखें।", "reviewed": false }, "mr": { "text": "दुपारच्या उष्णतेत विश्रांती घ्या, मग महान बुद्ध मूर्ती आणि वाट थाई व तेरगरसारखी दोन-तीन विहारे पाहा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to the Mahabodhi Mahavihara for the evening chanting and light offerings, then a simple dinner.", "hi": { "text": "शाम के पाठ और दीप अर्पण के लिए महाबोधि महाविहार लौटें, फिर सादा भोजन।", "reviewed": false }, "mr": { "text": "संध्याकाळच्या पठण आणि दीप अर्पणासाठी महाबोधी महाविहारात परत या, मग साधे जेवण.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: Bodh Gaya and Sujata village", "hi": { "text": "दो दिन: बोधगया और सुजाता गाँव", "reviewed": false }, "mr": { "text": "दोन दिवस: बोधगया आणि सुजाता गाव", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Early chanting at the Mahabodhi Mahavihara, then time under the Bodhi Tree and at the Vajrasana.", "hi": { "text": "महाबोधि महाविहार में भोर का पाठ, फिर बोधि वृक्ष के नीचे और वज्रासन पर समय।", "reviewed": false }, "mr": { "text": "महाबोधी महाविहारात पहाटेचे पठण, मग बोधिवृक्षाखाली आणि वज्रासनावर वेळ.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Great Buddha Statue and the Japanese and Thai monasteries after a rest.", "hi": { "text": "विश्राम के बाद महान बुद्ध प्रतिमा और जापानी व थाई विहार।", "reviewed": false }, "mr": { "text": "विश्रांतीनंतर महान बुद्ध मूर्ती आणि जपानी व थाई विहारे.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening chanting and a quiet walk round the temple.", "hi": { "text": "शाम का पाठ और मंदिर के चारों ओर शांत सैर।", "reviewed": false }, "mr": { "text": "संध्याकाळचे पठण आणि मंदिराभोवती शांत फेरफटका.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Go to Sujata village and the Sujata Stupa across the river, with a slow walk through the fields.", "hi": { "text": "नदी के पार सुजाता गाँव और सुजाता स्तूप जाएँ, खेतों में धीमी सैर के साथ।", "reviewed": false }, "mr": { "text": "नदीपलीकडील सुजाता गाव आणि सुजाता स्तूपाला जा, शेतांतून सावकाश फेरफटका मारत.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Visit the Tibetan and Bhutanese monasteries, then rest and read or write in the shade.", "hi": { "text": "तिब्बती और भूटानी विहार देखें, फिर छाया में विश्राम करें और पढ़ें या लिखें।", "reviewed": false }, "mr": { "text": "तिबेटी आणि भूतानी विहारे पाहा, मग सावलीत विश्रांती घ्या आणि वाचा किंवा लिहा.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A last visit to the Mahabodhi Mahavihara for light offerings before you leave.", "hi": { "text": "जाने से पहले दीप अर्पण के लिए महाबोधि महाविहार की अंतिम यात्रा।", "reviewed": false }, "mr": { "text": "निघण्यापूर्वी दीप अर्पणासाठी महाबोधी महाविहाराला शेवटची भेट.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: Bodh Gaya with Rajgir and Nalanda", "hi": { "text": "तीन दिन: बोधगया, राजगीर और नालंदा", "reviewed": false }, "mr": { "text": "तीन दिवस: बोधगया, राजगीर आणि नालंदा", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive, settle in and walk the lanes near your stay. Rest if you travelled overnight.", "hi": { "text": "पहुँचें, ठहरने की जगह पर बसें और पास की गलियों में घूमें। रात भर सफ़र किया हो तो विश्राम करें।", "reviewed": false }, "mr": { "text": "पोहोचा, राहण्याच्या जागी स्थिरावा आणि जवळच्या गल्ल्यांत फिरा. रात्रभर प्रवास केला असल्यास विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "First visit to the Mahabodhi Mahavihara and the Bodhi Tree once the midday crowd thins.", "hi": { "text": "दोपहर की भीड़ घटने पर महाबोधि महाविहार और बोधि वृक्ष की पहली यात्रा।", "reviewed": false }, "mr": { "text": "दुपारची गर्दी कमी झाल्यावर महाबोधी महाविहार आणि बोधिवृक्षाची पहिली भेट.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Evening chanting and light offerings.", "hi": { "text": "शाम का पाठ और दीप अर्पण।", "reviewed": false }, "mr": { "text": "संध्याकाळचे पठण आणि दीप अर्पण.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Early chanting, then the Great Buddha Statue and the international monasteries.", "hi": { "text": "भोर का पाठ, फिर महान बुद्ध प्रतिमा और अंतरराष्ट्रीय विहार।", "reviewed": false }, "mr": { "text": "पहाटेचे पठण, मग महान बुद्ध मूर्ती आणि आंतरराष्ट्रीय विहारे.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Sujata village and the Sujata Stupa.", "hi": { "text": "सुजाता गाँव और सुजाता स्तूप।", "reviewed": false }, "mr": { "text": "सुजाता गाव आणि सुजाता स्तूप.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A quiet evening meditation near the Bodhi Tree.", "hi": { "text": "बोधि वृक्ष के पास शांत संध्या ध्यान।", "reviewed": false }, "mr": { "text": "बोधिवृक्षाजवळ शांत संध्याकाळचे ध्यान.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Hire a taxi for the day. Drive to Rajgir and see Vulture Peak and Venuvana.", "hi": { "text": "दिन भर के लिए टैक्सी लें। राजगीर जाएँ और गृध्रकूट तथा वेणुवन देखें।", "reviewed": false }, "mr": { "text": "दिवसभरासाठी टॅक्सी घ्या. राजगीरला जा आणि गृध्रकूट व वेणुवन पाहा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Nalanda ruins and museum, with lunch on the way.", "hi": { "text": "नालंदा के खंडहर और संग्रहालय, रास्ते में भोजन के साथ।", "reviewed": false }, "mr": { "text": "नालंदाचे अवशेष आणि संग्रहालय, वाटेत जेवणासह.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Return to Bodh Gaya, or continue to Patna if your onward journey starts there.", "hi": { "text": "बोधगया लौटें, या आगे की यात्रा पटना से हो तो वहीं जाएँ।", "reviewed": false }, "mr": { "text": "बोधगयेला परत या, किंवा पुढचा प्रवास पाटण्यातून असल्यास तिथे जा.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near the Mahabodhi Mahavihara", "hi": { "text": "महाबोधि महाविहार के पास", "reviewed": false }, "mr": { "text": "महाबोधी महाविहाराजवळ", "reviewed": false } },
+      "body": { "en": "Walking distance to the early chanting and the evening lamps. Lanes are busy with stalls and rickshaws in the pilgrim season, but quiet at dawn. Guesthouses of many budgets sit here.", "hi": { "text": "भोर के पाठ और शाम के दीपों तक पैदल दूरी। तीर्थ मौसम में गलियाँ दुकानों और रिक्शों से व्यस्त रहती हैं, पर भोर में शांत। यहाँ हर बजट के अतिथि गृह हैं।", "reviewed": false }, "mr": { "text": "पहाटेचे पठण आणि संध्याकाळच्या दिव्यांपर्यंत चालत अंतर. यात्रेच्या हंगामात गल्ल्या दुकाने आणि रिक्षांनी गजबजतात, पण पहाटे शांत असतात. येथे सर्व बजेटची अतिथीगृहे आहेत.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Monastery guesthouses and dharamshalas", "hi": { "text": "विहार अतिथि गृह और धर्मशालाएँ", "reviewed": false }, "mr": { "text": "विहार अतिथीगृहे आणि धर्मशाळा", "reviewed": false } },
+      "body": { "en": "Many monasteries and trusts offer simple rooms and plain meals, often to pilgrims of their own tradition first. Rules on curfew, silence and booking differ. Ask each place directly and well in advance for the winter season.", "hi": { "text": "कई विहार और न्यास सरल कमरे और सादे भोजन देते हैं, अक्सर पहले अपनी परंपरा के तीर्थयात्रियों को। रात की समय-सीमा, मौन और आरक्षण के नियम अलग हैं। हर स्थान से सीधे पूछें, और सर्दियों के लिए बहुत पहले।", "reviewed": false }, "mr": { "text": "अनेक विहारे आणि न्यास साध्या खोल्या आणि साधे जेवण देतात, अनेकदा आधी आपल्या परंपरेच्या यात्रेकरूंना. रात्रीची वेळमर्यादा, मौन आणि आरक्षणाचे नियम वेगळे असतात. प्रत्येक ठिकाणी थेट विचारा, आणि हिवाळ्यासाठी खूप आधी.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Hotels on the Gaya road", "hi": { "text": "गया मार्ग पर होटल", "reviewed": false }, "mr": { "text": "गया मार्गावरील हॉटेल", "reviewed": false } },
+      "body": { "en": "Larger hotels with parking and lifts are along the approach roads. Allow 10 to 20 minutes to reach the temple by auto, and more during winter crowds.", "hi": { "text": "पार्किंग और लिफ्ट वाले बड़े होटल पहुँच मार्गों पर हैं। ऑटो से मंदिर पहुँचने में 10 से 20 मिनट रखें, और सर्दियों की भीड़ में अधिक।", "reviewed": false }, "mr": { "text": "पार्किंग आणि लिफ्ट असलेली मोठी हॉटेल्स पोहोच रस्त्यांवर आहेत. ऑटोने मंदिरात पोहोचण्यास 10 ते 20 मिनिटे ठेवा, आणि हिवाळ्यातील गर्दीत जास्त.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Litti-chokha and sattu", "hi": { "text": "लिट्टी-चोखा और सत्तू", "reviewed": false }, "mr": { "text": "लिट्टी-चोखा आणि सत्तू", "reviewed": false } },
+      "body": { "en": "The staple of Bihar: baked wheat balls filled with roasted gram flour, with mashed vegetables. Sattu drinks are simple and cooling.", "hi": { "text": "बिहार का मुख्य भोजन: भुने चने के आटे से भरी सेंकी हुई गेहूँ की लिट्टी, भुनी सब्ज़ियों के चोखे के साथ। सत्तू के पेय सरल और ठंडक देने वाले हैं।", "reviewed": false }, "mr": { "text": "बिहारचे मुख्य जेवण: भाजलेल्या हरभरा पिठाने भरलेले भाजलेले गव्हाचे गोळे, मसलेल्या भाज्यांच्या चोखासह. सत्तूची पेये साधी आणि थंडावा देणारी आहेत.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Tibetan and Thai kitchens", "hi": { "text": "तिब्बती और थाई रसोइयाँ", "reviewed": false }, "mr": { "text": "तिबेटी आणि थाई स्वयंपाकघरे", "reviewed": false } },
+      "body": { "en": "Café-style places near the monasteries serve momos, thukpa and Thai dishes, most of them vegetarian during the pilgrim season. Ask how each dish is made.", "hi": { "text": "विहारों के पास के कैफ़े-शैली स्थानों में मोमो, थुकपा और थाई व्यंजन मिलते हैं, तीर्थ मौसम में अधिकतर शाकाहारी। पूछें कि हर व्यंजन कैसे बना है।", "reviewed": false }, "mr": { "text": "विहारांजवळील कॅफे-शैलीच्या ठिकाणी मोमो, थुकपा आणि थाई पदार्थ मिळतात, यात्रेच्या हंगामात बहुतेक शाकाहारी. प्रत्येक पदार्थ कसा बनला आहे ते विचारा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Tilkut and anarsa", "hi": { "text": "तिलकुट और अनरसा", "reviewed": false }, "mr": { "text": "तिलकुट आणि अनरसा", "reviewed": false } },
+      "body": { "en": "Gaya is known for tilkut, a crisp sesame and jaggery sweet, especially in winter. Buy fresh from busy shops and carry it home for the family.", "hi": { "text": "गया तिलकुट के लिए प्रसिद्ध है, तिल और गुड़ की कुरकुरी मिठाई, विशेषकर सर्दियों में। व्यस्त दुकानों से ताज़ा लें और परिवार के लिए घर ले जाएँ।", "reviewed": false }, "mr": { "text": "गया तिलकुटसाठी प्रसिद्ध आहे, तीळ आणि गुळाची कुरकुरीत मिठाई, विशेषतः हिवाळ्यात. गर्दीच्या दुकानांतून ताजे घ्या आणि कुटुंबासाठी घरी न्या.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Many monasteries and guesthouses near the temple serve vegetarian meals only, and Buddhist pilgrims often keep to plain vegetarian food. Ask for no onion and garlic where you prefer it. Alcohol and meat are not sold close to the temple, though they are available elsewhere in town.",
+    "hi": { "text": "मंदिर के पास कई विहार और अतिथि गृह केवल शाकाहारी भोजन देते हैं, और बौद्ध यात्री अक्सर सादा शाकाहारी भोजन ही लेते हैं। जहाँ पसंद हो वहाँ बिना प्याज़-लहसुन के माँगें। मंदिर के पास शराब और मांस नहीं बिकते, पर नगर में अन्यत्र उपलब्ध हो सकते हैं।", "reviewed": false },
+    "mr": { "text": "मंदिराजवळील अनेक विहारे आणि अतिथीगृहे फक्त शाकाहारी जेवण देतात, आणि बौद्ध यात्रेकरू अनेकदा साधे शाकाहारी अन्नच घेतात. आवडत असल्यास कांदा-लसणाशिवाय मागा. मंदिराजवळ मद्य आणि मांस विकले जात नाही, पण नगरात इतरत्र उपलब्ध असू शकते.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 800, "max": 1800 },
+      "mid": { "min": 2200, "max": 4500 },
+      "comfort": { "min": 5500, "max": 11000 }
+    },
+    "note": {
+      "en": "Indicative, per person per day for stay, food and local transport, assuming a twin-share room. Prices rise sharply in the winter pilgrim season and around Buddha Purnima.",
+      "hi": { "text": "अनुमानित, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। सर्दियों के तीर्थ मौसम और बुद्ध पूर्णिमा के आसपास कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "अंदाजे, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. हिवाळ्यातील यात्रेचा हंगाम आणि बुद्ध पौर्णिमेच्या सुमारास दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Winter mornings are cold and foggy, and summer heat can pass 40 degrees. Carry warm layers in winter, and in summer visit early, cover your head and rest in the afternoon.",
+      "hi": { "text": "सर्दियों की सुबहें ठंडी और कोहरे वाली होती हैं, और गर्मी में तापमान 40 डिग्री पार कर सकता है। सर्दियों में गर्म कपड़े रखें, और गर्मी में जल्दी जाएँ, सिर ढकें और दोपहर में विश्राम करें।", "reviewed": false },
+      "mr": { "text": "हिवाळ्यातील सकाळ थंड आणि धुक्याची असते, आणि उन्हाळ्यात तापमान 40 अंश ओलांडू शकते. हिवाळ्यात उबदार कपडे ठेवा, आणि उन्हाळ्यात लवकर जा, डोके झाका आणि दुपारी विश्रांती घ्या.", "reviewed": false }
+    },
+    {
+      "en": "Terraces and the circumambulation path are stone and often barefoot. Stone gets very hot in summer and cold in winter, so carry socks if the temple allows them, and walk slowly.",
+      "hi": { "text": "चबूतरे और परिक्रमा पथ पत्थर के हैं और अक्सर नंगे पैर चलना पड़ता है। गर्मी में पत्थर बहुत गर्म और सर्दी में बहुत ठंडा होता है, इसलिए मंदिर अनुमति दे तो मोज़े साथ रखें, और धीरे चलें।", "reviewed": false },
+      "mr": { "text": "चौथरे आणि प्रदक्षिणा मार्ग दगडी आहेत आणि अनेकदा अनवाणी चालावे लागते. उन्हाळ्यात दगड खूप तापतो आणि हिवाळ्यात खूप थंड असतो, म्हणून मंदिराने परवानगी दिल्यास मोजे सोबत ठेवा, आणि हळू चाला.", "reviewed": false }
+    },
+    {
+      "en": "Only bottled or filtered water and fresh hot food. Wash hands before eating, and carry your own medicines in their original packs.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी और ताज़ा गरम भोजन लें। खाने से पहले हाथ धोएँ, और अपनी दवाइयाँ मूल पैक में साथ रखें।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी आणि ताजे गरम अन्न घ्या. जेवणापूर्वी हात धुवा, आणि आपली औषधे मूळ पाकिटात सोबत ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Roads outside the town are crowded and fast. Avoid travelling by road after dark where you can, and use a registered taxi for the Rajgir and Nalanda day.",
+      "hi": { "text": "नगर के बाहर की सड़कें भीड़ भरी और तेज़ गति वाली हैं। जहाँ संभव हो अँधेरे के बाद सड़क यात्रा से बचें, और राजगीर तथा नालंदा के दिन पंजीकृत टैक्सी लें।", "reviewed": false },
+      "mr": { "text": "नगराबाहेरचे रस्ते गर्दीचे आणि वेगवान आहेत. शक्य असल्यास अंधारानंतर रस्ते प्रवास टाळा, आणि राजगीर व नालंदाच्या दिवशी नोंदणीकृत टॅक्सी घ्या.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly, remove footwear and hats where asked, and keep your voice low. Many people here are chanting or meditating.",
+      "hi": { "text": "शालीन वस्त्र पहनें, जहाँ कहा जाए वहाँ जूते-चप्पल और टोपी उतारें, और आवाज़ धीमी रखें। यहाँ कई लोग पाठ या ध्यान कर रहे होते हैं।", "reviewed": false },
+      "mr": { "text": "साधे कपडे घाला, जिथे सांगितले जाईल तिथे पादत्राणे आणि टोपी काढा, आणि आवाज खालच्या पातळीत ठेवा. येथे अनेक लोक पठण किंवा ध्यान करत असतात.", "reviewed": false }
+    },
+    {
+      "en": "Walk clockwise round the temple and stupas. Do not point your feet at an image of the Buddha or sit with your back to it, and do not touch statues or monks without invitation.",
+      "hi": { "text": "मंदिर और स्तूपों की परिक्रमा दक्षिणावर्त करें। बुद्ध की प्रतिमा की ओर पैर न करें या उसकी ओर पीठ करके न बैठें, और बिना निमंत्रण मूर्तियों या भिक्षुओं को न छुएँ।", "reviewed": false },
+      "mr": { "text": "मंदिर आणि स्तूपांची प्रदक्षिणा घड्याळाच्या दिशेने करा. बुद्ध मूर्तीकडे पाय करू नका किंवा तिच्याकडे पाठ करून बसू नका, आणि निमंत्रणाशिवाय मूर्ती किंवा भिक्खूंना स्पर्श करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Ask before photographing monks, nuns or people at prayer, and follow the camera rules posted at the gate. Do not pluck leaves from the Bodhi Tree or climb on the stupas.",
+      "hi": { "text": "भिक्षुओं, भिक्षुणियों या प्रार्थनारत लोगों की तस्वीर लेने से पहले पूछें, और द्वार पर लगे कैमरा नियमों का पालन करें। बोधि वृक्ष से पत्ते न तोड़ें और स्तूपों पर न चढ़ें।", "reviewed": false },
+      "mr": { "text": "भिक्खू, भिक्खुणी किंवा प्रार्थना करणाऱ्या लोकांची छायाचित्रे घेण्यापूर्वी विचारा, आणि प्रवेशद्वारावर लावलेल्या कॅमेरा नियमांचे पालन करा. बोधिवृक्षाची पाने तोडू नका आणि स्तूपांवर चढू नका.", "reviewed": false }
+    },
+    {
+      "en": "Guides, touts and monk-dressed collectors may approach you. You may politely decline. Agree any donation in advance, give only at official boxes and ask for a receipt where there is one.",
+      "hi": { "text": "गाइड, दलाल और भिक्षु वेश में चंदा माँगने वाले आपसे संपर्क कर सकते हैं। आप विनम्रता से मना कर सकते हैं। किसी भी दान को पहले तय करें, केवल आधिकारिक पेटियों में दें और जहाँ रसीद हो वहाँ माँगें।", "reviewed": false },
+      "mr": { "text": "मार्गदर्शक, दलाल आणि भिक्खू वेशातील वर्गणी मागणारे तुमच्याकडे येऊ शकतात. तुम्ही नम्रपणे नकार देऊ शकता. कोणतेही दान आधी ठरवा, फक्त अधिकृत पेट्यांत द्या आणि जिथे पावती असते तिथे मागा.", "reviewed": false }
+    },
+    {
+      "en": "Keep the grounds clean. Use the bins, take your waste with you, and offer only flowers and lamps in the places meant for them.",
+      "hi": { "text": "परिसर स्वच्छ रखें। कूड़ेदान का उपयोग करें, कचरा साथ ले जाएँ और फूल व दीप केवल निर्धारित स्थानों पर ही अर्पित करें।", "reviewed": false },
+      "mr": { "text": "परिसर स्वच्छ ठेवा. कचरापेटी वापरा, कचरा सोबत न्या आणि फुले व दिवे फक्त ठरलेल्या ठिकाणीच अर्पण करा.", "reviewed": false }
+    }
+  ]
+}

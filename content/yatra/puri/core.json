@@ -1,0 +1,162 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "puri",
+  "name": { "en": "Puri (Jagannath Dham)", "hi": { "text": "पुरी (जगन्नाथ धाम)", "reviewed": false }, "mr": { "text": "पुरी (जगन्नाथ धाम)", "reviewed": false } },
+  "state": { "en": "Odisha", "hi": { "text": "ओडिशा", "reviewed": false }, "mr": { "text": "ओडिशा", "reviewed": false } },
+  "stateKey": "odisha",
+  "traditions": ["hindu"],
+  "deity": {
+    "en": "Lord Jagannath, a form of Vishnu (Krishna), worshipped with his brother Balabhadra and sister Subhadra. The wooden images are renewed in a rite called Nabakalebara.",
+    "hi": { "text": "भगवान जगन्नाथ, विष्णु (कृष्ण) का एक रूप, अपने भाई बलभद्र और बहन सुभद्रा के साथ पूजित। काष्ठ की मूर्तियाँ नवकलेवर नामक अनुष्ठान में नई बनाई जाती हैं।", "reviewed": false },
+    "mr": { "text": "भगवान जगन्नाथ, विष्णू (कृष्ण) यांचे एक रूप, भाऊ बलभद्र आणि बहीण सुभद्रा यांच्यासह पूजले जातात. लाकडी मूर्ती नवकलेवर नावाच्या विधीत नव्याने घडवल्या जातात.", "reviewed": false }
+  },
+  "significance": {
+    "en": "Puri is one of the four Char Dham of the Hindu tradition, together with Badrinath, Dwarka and Rameswaram. The Jagannath temple is the centre of a distinctive devotional culture, known for its Rath Yatra and its Mahaprasad. Adi Shankaracharya is said to have founded the Govardhan Math here.",
+    "hi": { "text": "पुरी हिंदू परंपरा के चार धामों में से एक है, बद्रीनाथ, द्वारका और रामेश्वरम के साथ। जगन्नाथ मंदिर एक विशिष्ट भक्ति संस्कृति का केंद्र है, जो अपनी रथ यात्रा और महाप्रसाद के लिए प्रसिद्ध है। माना जाता है कि आदि शंकराचार्य ने यहाँ गोवर्धन मठ की स्थापना की।", "reviewed": false },
+    "mr": { "text": "पुरी हे हिंदू परंपरेतील चार धामांपैकी एक आहे, बद्रीनाथ, द्वारका आणि रामेश्वरम यांच्यासह. जगन्नाथ मंदिर हे एका वैशिष्ट्यपूर्ण भक्ती संस्कृतीचे केंद्र आहे, जी रथयात्रा आणि महाप्रसादासाठी प्रसिद्ध आहे. आदि शंकराचार्यांनी येथे गोवर्धन मठाची स्थापना केली असे मानले जाते.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "The abode of Lord Jagannath by the sea",
+    "hi": { "text": "समुद्र तट पर भगवान जगन्नाथ का धाम", "reviewed": false },
+    "mr": { "text": "समुद्रकाठी भगवान जगन्नाथांचे धाम", "reviewed": false }
+  },
+  "overview": {
+    "en": "Puri is a coastal town on the Bay of Bengal, about 60 km south of Bhubaneswar. The Jagannath temple stands at the end of the broad Bada Danda (Grand Road), with its lion gate (Singhadwara) facing east. Around it are lanes of shops, matha (monastery) buildings and the Mahaprasad kitchens. The beach is a few kilometres away, where families gather at sunrise and sunset. Expect crowds, humidity and a slow, devotional pace of life.",
+    "hi": { "text": "पुरी बंगाल की खाड़ी पर एक तटीय नगर है, भुवनेश्वर से लगभग 60 किमी दक्षिण में। जगन्नाथ मंदिर चौड़े बड़ा दांड (ग्रैंड रोड) के अंत में है, और इसका सिंहद्वार पूर्व की ओर है। आसपास दुकानों की गलियाँ, मठों के भवन और महाप्रसाद की रसोइयाँ हैं। समुद्र तट कुछ किलोमीटर दूर है, जहाँ परिवार सूर्योदय और सूर्यास्त पर जुटते हैं। भीड़, उमस और भक्ति से भरी धीमी गति की अपेक्षा रखें।", "reviewed": false },
+    "mr": { "text": "पुरी हे बंगालच्या उपसागरावरील किनारी नगर आहे, भुवनेश्वरपासून सुमारे 60 किमी दक्षिणेस. जगन्नाथ मंदिर रुंद बडा दांड (ग्रँड रोड) च्या टोकाला आहे, आणि त्याचे सिंहद्वार पूर्वेकडे आहे. आजूबाजूला दुकानांच्या गल्ल्या, मठांच्या इमारती आणि महाप्रसादाची स्वयंपाकघरे आहेत. समुद्रकिनारा काही किलोमीटर दूर आहे, जिथे कुटुंबे सूर्योदय आणि सूर्यास्ताला जमतात. गर्दी, दमटपणा आणि भक्तिमय संथ गतीची अपेक्षा ठेवा.", "reviewed": false }
+  },
+  "story": {
+    "en": "Temple tradition names King Indradyumna of Avanti as the original builder, and tells how the deities took form from a sacred neem log. The present temple, about 65 metres tall in the Kalinga style, was raised from the 12th century by Anantavarman Chodaganga Deva of the Eastern Ganga dynasty. Every year, in the month of Ashadha, the three deities ride out on enormous wooden chariots along the Grand Road to the Gundicha temple, about 3 km away, in the Rath Yatra, and return a few days later. Food offered to the deities is known as Mahaprasad and is shared among pilgrims.",
+    "hi": { "text": "मंदिर की परंपरा अवंती के राजा इंद्रद्युम्न को मूल निर्माता बताती है, और कहती है कि देवताओं ने एक पवित्र नीम के लट्ठे से रूप लिया। वर्तमान मंदिर, कलिंग शैली का और लगभग 65 मीटर ऊँचा, 12वीं शताब्दी से पूर्वी गंग वंश के अनंतवर्मन चोडगंग देव ने बनवाना शुरू किया। हर वर्ष आषाढ़ मास में तीनों देवता रथ यात्रा में विशाल काष्ठ रथों पर ग्रैंड रोड से लगभग 3 किमी दूर गुंडिचा मंदिर जाते हैं, और कुछ दिन बाद लौटते हैं। देवताओं को अर्पित भोजन महाप्रसाद कहलाता है और श्रद्धालुओं में बाँटा जाता है।", "reviewed": false },
+    "mr": { "text": "मंदिराची परंपरा अवंतीचा राजा इंद्रद्युम्न याला मूळ निर्माता सांगते, आणि देवतांनी पवित्र कडुनिंबाच्या ओंडक्यातून रूप घेतले असे सांगते. सध्याचे मंदिर, कलिंग शैलीचे आणि सुमारे 65 मीटर उंच, 12व्या शतकापासून पूर्व गंग वंशाच्या अनंतवर्मन चोडगंग देवाने बांधायला सुरुवात केली. दरवर्षी आषाढ महिन्यात तिन्ही देवता रथयात्रेत विशाल लाकडी रथांवर ग्रँड रोडवरून सुमारे 3 किमी अंतरावरील गुंडिचा मंदिरात जातात, आणि काही दिवसांनी परततात. देवतांना अर्पण केलेल्या अन्नाला महाप्रसाद म्हणतात आणि ते भाविकांमध्ये वाटले जाते.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From temple tradition and the recorded history of the Eastern Ganga period.",
+    "hi": { "text": "मंदिर परंपरा और पूर्वी गंग काल के अभिलेखित इतिहास से।", "reviewed": false },
+    "mr": { "text": "मंदिर परंपरा आणि पूर्व गंग काळाच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [10, 11, 12, 1, 2, 3],
+    "seasons": [
+      {
+        "months": [11, 12, 1, 2],
+        "rating": "best",
+        "weather": {
+          "en": "Dry and pleasant, roughly 17 to 30 degrees, with breezy sea mornings. Best for the temple, the beach and the road to Konark. December and the New Year weekend are crowded.",
+          "hi": { "text": "शुष्क और सुहावना, लगभग 17 से 30 डिग्री, सुबह समुद्री हवा के साथ। मंदिर, समुद्र तट और कोणार्क के मार्ग के लिए सर्वोत्तम। दिसंबर और नववर्ष के सप्ताहांत में भीड़ रहती है।", "reviewed": false },
+          "mr": { "text": "कोरडे आणि आल्हाददायक, सुमारे 17 ते 30 अंश, सकाळी समुद्री वाऱ्यासह. मंदिर, समुद्रकिनारा आणि कोणार्कच्या वाटेसाठी उत्तम. डिसेंबर आणि नववर्षाच्या सप्ताहांताला गर्दी असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [10, 3],
+        "rating": "good",
+        "weather": {
+          "en": "Warm and humid. October can bring post-monsoon showers and occasional cyclone warnings from the Bay of Bengal, so check the forecast. March gets hotter but is still comfortable in the mornings.",
+          "hi": { "text": "गर्म और उमस भरा। अक्टूबर में मानसून के बाद की बौछारें और बंगाल की खाड़ी से कभी-कभी चक्रवात की चेतावनी आ सकती है, इसलिए पूर्वानुमान देखें। मार्च अधिक गर्म होता है पर सुबहें आरामदायक रहती हैं।", "reviewed": false },
+          "mr": { "text": "उष्ण आणि दमट. ऑक्टोबरमध्ये मान्सूननंतरच्या सरी आणि बंगालच्या उपसागरातून अधूनमधून चक्रीवादळाचे इशारे येऊ शकतात, म्हणून अंदाज पाहा. मार्च जास्त उष्ण असतो पण सकाळ आरामदायक असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [4, 5],
+        "rating": "difficult",
+        "weather": {
+          "en": "Hot and very humid, often 35 degrees or more with little relief. Visit the temple and beach at dawn or after sunset, and drink water often.",
+          "hi": { "text": "गर्म और बहुत उमस, अक्सर 35 डिग्री या अधिक, राहत कम। मंदिर और समुद्र तट भोर या सूर्यास्त के बाद जाएँ, और बार-बार पानी पिएँ।", "reviewed": false },
+          "mr": { "text": "उष्ण आणि खूप दमट, अनेकदा 35 अंश किंवा अधिक, दिलासा कमी. मंदिर आणि समुद्रकिनारा पहाटे किंवा सूर्यास्तानंतर पाहा, आणि वारंवार पाणी प्या.", "reviewed": false }
+        }
+      },
+      {
+        "months": [6, 7, 8, 9],
+        "rating": "difficult",
+        "weather": {
+          "en": "Monsoon: warm, humid and rainy, with heavy showers and rough sea. The Rath Yatra falls in June or July and brings lakhs of pilgrims, so rooms and trains fill up weeks ahead.",
+          "hi": { "text": "वर्षा ऋतु: गर्म, उमस भरा और बरसाती, भारी बौछारों और उग्र समुद्र के साथ। रथ यात्रा जून या जुलाई में होती है और लाखों श्रद्धालु आते हैं, इसलिए कमरे और रेलगाड़ियाँ हफ़्तों पहले भर जाती हैं।", "reviewed": false },
+          "mr": { "text": "पावसाळा: उष्ण, दमट आणि पावसाळी, जोरदार सरी आणि खवळलेल्या समुद्रासह. रथयात्रा जून किंवा जुलैमध्ये असते आणि लाखो भाविक येतात, त्यामुळे खोल्या आणि रेल्वे आठवडे आधीच भरतात.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Biju Patnaik International Airport, Bhubaneswar (BBI)", "hi": { "text": "बीजू पटनायक अंतरराष्ट्रीय हवाई अड्डा, भुवनेश्वर (BBI)", "reviewed": false }, "mr": { "text": "बिजू पटनायक आंतरराष्ट्रीय विमानतळ, भुवनेश्वर (BBI)", "reviewed": false } },
+      "km": 60,
+      "how": {
+        "en": "Direct flights from major Indian cities. Taxis and app cabs reach Puri in about 1.5 to 2 hours depending on traffic. Buses and trains also run from Bhubaneswar.",
+        "hi": { "text": "प्रमुख भारतीय शहरों से सीधी उड़ानें। टैक्सी और ऐप कैब से पुरी पहुँचने में यातायात के अनुसार लगभग डेढ़ से दो घंटे लगते हैं। भुवनेश्वर से बसें और रेलगाड़ियाँ भी चलती हैं।", "reviewed": false },
+        "mr": { "text": "भारतातील प्रमुख शहरांमधून थेट उड्डाणे. टॅक्सी आणि ॲप कॅबने वाहतुकीनुसार पुरीला पोहोचण्यास सुमारे दीड ते दोन तास लागतात. भुवनेश्वरहून बसेस आणि रेल्वेही धावतात.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Puri (PURI), the terminus of the line", "hi": { "text": "पुरी (PURI), रेल लाइन का अंतिम स्टेशन", "reviewed": false }, "mr": { "text": "पुरी (PURI), रेल्वे मार्गाचे अंतिम स्थानक", "reviewed": false } },
+      "km": 2,
+      "how": {
+        "en": "Direct trains from Delhi, Kolkata, Mumbai, Chennai and Bhubaneswar, including the Puri Express services and the Vande Bharat from Howrah. The station is in the town, a short ride from the temple. Book early for the Rath Yatra season.",
+        "hi": { "text": "दिल्ली, कोलकाता, मुंबई, चेन्नई और भुवनेश्वर से सीधी रेलगाड़ियाँ, जिनमें पुरी एक्सप्रेस सेवाएँ और हावड़ा से वंदे भारत शामिल हैं। स्टेशन नगर में है, मंदिर से थोड़ी दूरी पर। रथ यात्रा के मौसम में जल्दी आरक्षण करें।", "reviewed": false },
+        "mr": { "text": "दिल्ली, कोलकाता, मुंबई, चेन्नई आणि भुवनेश्वरहून थेट रेल्वे, ज्यात पुरी एक्सप्रेस सेवा आणि हावड्याहून वंदे भारत यांचा समावेश आहे. स्थानक नगरात आहे, मंदिरापासून थोड्या अंतरावर. रथयात्रेच्या हंगामात लवकर आरक्षण करा.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "A good road runs from Bhubaneswar (about 60 km, 1.5 hours) through Pipili. State and private buses and taxis operate from Bhubaneswar and Cuttack. Konark is about 35 km along the coastal Marine Drive.",
+        "hi": { "text": "भुवनेश्वर से (लगभग 60 किमी, डेढ़ घंटा) पिपिली होकर अच्छी सड़क है। भुवनेश्वर और कटक से राज्य और निजी बसें तथा टैक्सियाँ चलती हैं। कोणार्क तटीय मरीन ड्राइव पर लगभग 35 किमी है।", "reviewed": false },
+        "mr": { "text": "भुवनेश्वरहून (सुमारे 60 किमी, दीड तास) पिपिलीमार्गे चांगला रस्ता आहे. भुवनेश्वर आणि कटकहून राज्य व खासगी बसेस आणि टॅक्सी धावतात. कोणार्क किनारी मरीन ड्राइववर सुमारे 35 किमी आहे.", "reviewed": false }
+      },
+      "km": 60
+    }
+  },
+  "localTransport": {
+    "en": "The temple, Grand Road and old town are best covered on foot or by cycle rickshaw. Autos and e-rickshaws run to the beach and the station, and vehicles are held back from the Grand Road during the Rath Yatra. Agree the fare before you start, and use prepaid counters at the station where available.",
+    "hi": { "text": "मंदिर, ग्रैंड रोड और पुराना नगर पैदल या साइकिल रिक्शा से घूमना सबसे अच्छा है। ऑटो और ई-रिक्शा समुद्र तट और स्टेशन तक चलते हैं, और रथ यात्रा के दौरान ग्रैंड रोड पर वाहनों को रोका जाता है। चलने से पहले किराया तय करें, और स्टेशन पर जहाँ उपलब्ध हो प्रीपेड काउंटर का उपयोग करें।", "reviewed": false },
+    "mr": { "text": "मंदिर, ग्रँड रोड आणि जुने नगर चालत किंवा सायकल रिक्षाने फिरणे सर्वोत्तम. ऑटो आणि ई-रिक्षा समुद्रकिनारा आणि स्थानकापर्यंत धावतात, आणि रथयात्रेदरम्यान ग्रँड रोडवर वाहने थांबवली जातात. निघण्यापूर्वी भाडे ठरवा, आणि स्थानकावर जिथे उपलब्ध असेल तिथे प्रीपेड काउंटर वापरा.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "janmashtami",
+      "note": {
+        "en": "Krishna's birth is observed at the Jagannath temple with special rituals and a night vigil. Expect long queues.",
+        "hi": { "text": "जगन्नाथ मंदिर में कृष्ण जन्म विशेष अनुष्ठानों और रात्रि जागरण के साथ मनाया जाता है। लंबी कतारों की अपेक्षा रखें।", "reviewed": false },
+        "mr": { "text": "जगन्नाथ मंदिरात कृष्णजन्म विशेष विधी आणि रात्रीच्या जागरणासह साजरा केला जातो. लांब रांगांची अपेक्षा ठेवा.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Konark Sun Temple", "hi": { "text": "कोणार्क सूर्य मंदिर", "reviewed": false }, "mr": { "text": "कोणार्क सूर्य मंदिर", "reviewed": false } },
+      "km": 35,
+      "note": { "en": "A 13th-century stone chariot of the Sun god and a UNESCO World Heritage Site, an easy half-day trip.", "hi": { "text": "सूर्य देव का 13वीं शताब्दी का पत्थर का रथ और यूनेस्को विश्व धरोहर स्थल, आधे दिन की आसान यात्रा।", "reviewed": false }, "mr": { "text": "सूर्यदेवाचा 13व्या शतकातील दगडी रथ आणि युनेस्कोचे जागतिक वारसा स्थळ, अर्ध्या दिवसाची सोपी सहल.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Gundicha Temple", "hi": { "text": "गुंडिचा मंदिर", "reviewed": false }, "mr": { "text": "गुंडिचा मंदिर", "reviewed": false } },
+      "km": 3,
+      "note": { "en": "The deities' garden home during the Rath Yatra, at the far end of the Grand Road.", "hi": { "text": "रथ यात्रा के दौरान देवताओं का उद्यान गृह, ग्रैंड रोड के दूसरे छोर पर।", "reviewed": false }, "mr": { "text": "रथयात्रेदरम्यान देवतांचे उद्यान निवासस्थान, ग्रँड रोडच्या दुसऱ्या टोकाला.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Raghurajpur craft village", "hi": { "text": "रघुराजपुर शिल्प ग्राम", "reviewed": false }, "mr": { "text": "रघुराजपूर शिल्प गाव", "reviewed": false } },
+      "km": 14,
+      "note": { "en": "A heritage village of pattachitra painters and palm-leaf artists, where most homes are small galleries.", "hi": { "text": "पट्टचित्र चित्रकारों और ताड़पत्र कलाकारों का धरोहर गाँव, जहाँ अधिकांश घर छोटी दीर्घाएँ हैं।", "reviewed": false }, "mr": { "text": "पट्टचित्र चित्रकार आणि ताडपत्र कलाकारांचे वारसा गाव, जिथे बहुतेक घरे लहान कलादालने आहेत.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Chilika Lake", "hi": { "text": "चिलिका झील", "reviewed": false }, "mr": { "text": "चिलिका सरोवर", "reviewed": false } },
+      "km": 50,
+      "note": { "en": "A large brackish lagoon with boat trips and winter birds, near Satapada.", "hi": { "text": "नौका यात्राओं और सर्दियों के पक्षियों के साथ बड़ी खारे पानी की लैगून, सतपड़ा के पास।", "reviewed": false }, "mr": { "text": "नौका सफरी आणि हिवाळी पक्ष्यांसह मोठे खाऱ्या पाण्याचे लॅगून, सतपाड्याजवळ.", "reviewed": false } }
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero.webp",
+      "caption": { "en": "The Jagannath temple at Puri", "hi": { "text": "पुरी का जगन्नाथ मंदिर", "reviewed": false }, "mr": { "text": "पुरीचे जगन्नाथ मंदिर", "reviewed": false } },
+      "credit": "AI-generated illustration for PranaDin",
+      "ai": true
+    }
+  ],
+  "sources": [
+    { "label": "Shree Jagannath Temple Administration, official website", "url": "https://www.shreejagannatha.in" },
+    { "label": "Jagannath Temple, Puri, Wikipedia", "url": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri" },
+    { "label": "Puri, Wikipedia", "url": "https://en.wikipedia.org/wiki/Puri,_Odisha" },
+    { "label": "Odisha Tourism", "url": "https://odishatourism.gov.in" }
+  ]
+}

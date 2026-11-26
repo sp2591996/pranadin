@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "puri",
+  "sights": [
+    {
+      "id": "jagannath-temple",
+      "name": { "en": "Shree Jagannath Temple", "hi": { "text": "श्री जगन्नाथ मंदिर", "reviewed": false }, "mr": { "text": "श्री जगन्नाथ मंदिर", "reviewed": false } },
+      "desc": {
+        "en": "The main temple of Jagannath, Balabhadra and Subhadra, entered through the east-facing Singhadwara (Lion Gate). Entry inside the temple is restricted to Hindus, in line with the temple's long-standing custom. Visitors of other faiths can see the great tower and its flag from the Grand Road and nearby viewpoints. Allow two to four hours for darshan including the queue.",
+        "hi": { "text": "जगन्नाथ, बलभद्र और सुभद्रा का मुख्य मंदिर, पूर्वमुखी सिंहद्वार से प्रवेश। मंदिर की दीर्घकालीन परंपरा के अनुसार मंदिर के भीतर प्रवेश केवल हिंदुओं के लिए है। अन्य धर्मों के आगंतुक ग्रैंड रोड और पास के दृश्य स्थलों से विशाल शिखर और उसका ध्वज देख सकते हैं। कतार सहित दर्शन के लिए दो से चार घंटे रखें।", "reviewed": false },
+        "mr": { "text": "जगन्नाथ, बलभद्र आणि सुभद्रा यांचे मुख्य मंदिर, पूर्वाभिमुख सिंहद्वारातून प्रवेश. मंदिराच्या दीर्घकालीन परंपरेनुसार मंदिराच्या आत प्रवेश फक्त हिंदूंसाठी आहे. इतर धर्मांचे अभ्यागत ग्रँड रोड आणि जवळच्या दृश्य स्थळांवरून भव्य शिखर आणि त्याचा ध्वज पाहू शकतात. रांगेसह दर्शनासाठी दोन ते चार तास ठेवा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Generally open from early morning until late evening, with breaks for rituals and the offerings of the day. Check locally for current darshan times, especially on festival days.",
+        "hi": { "text": "सामान्यतः भोर से देर शाम तक खुला, अनुष्ठानों और दिन के भोगों के लिए विराम के साथ। वर्तमान दर्शन समय के लिए स्थानीय रूप से जाँचें, विशेषकर त्योहार के दिनों में।", "reviewed": false },
+        "mr": { "text": "साधारणतः पहाटेपासून उशिरा संध्याकाळपर्यंत उघडे, विधी आणि दिवसाच्या भोगांसाठी विश्रांतीसह. सध्याच्या दर्शन वेळांसाठी स्थानिक पातळीवर तपासा, विशेषतः सणाच्या दिवशी.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Decent, modest clothes covering shoulders and knees. Phones, cameras, bags and footwear are not taken in and are left in lockers outside. Leather items are not allowed.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन कपड़े। फ़ोन, कैमरे, बैग और जूते-चप्पल भीतर नहीं ले जाए जाते और बाहर लॉकर में रखे जाते हैं। चमड़े की वस्तुएँ मान्य नहीं हैं।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे सभ्य, साधे कपडे. फोन, कॅमेरे, पिशव्या आणि पादत्राणे आत नेली जात नाहीत आणि बाहेर लॉकरमध्ये ठेवली जातात. चामड्याच्या वस्तू चालत नाहीत.", "reviewed": false }
+      }
+    },
+    {
+      "id": "grand-road",
+      "name": { "en": "Bada Danda (Grand Road) and the chariots", "hi": { "text": "बड़ा दांड (ग्रैंड रोड) और रथ", "reviewed": false }, "mr": { "text": "बडा दांड (ग्रँड रोड) आणि रथ", "reviewed": false } },
+      "desc": {
+        "en": "The wide ceremonial road from the temple to the Gundicha temple, about 3 km. It is a public road open to everyone, lined with matha buildings and stalls. During the Rath Yatra, the three huge wooden chariots are pulled along it by devotees, and everyone present can watch.",
+        "hi": { "text": "मंदिर से गुंडिचा मंदिर तक लगभग 3 किमी का चौड़ा उत्सव मार्ग। यह सभी के लिए खुली सार्वजनिक सड़क है, जिसके किनारे मठ भवन और दुकानें हैं। रथ यात्रा में तीन विशाल काष्ठ रथ श्रद्धालुओं द्वारा इस पर खींचे जाते हैं, और उपस्थित सभी इसे देख सकते हैं।", "reviewed": false },
+        "mr": { "text": "मंदिरापासून गुंडिचा मंदिरापर्यंत सुमारे 3 किमी रुंद उत्सव मार्ग. हा सर्वांसाठी खुला सार्वजनिक रस्ता आहे, ज्याच्या कडेला मठांच्या इमारती आणि दुकाने आहेत. रथयात्रेत तीन विशाल लाकडी रथ भाविकांकडून यावर ओढले जातात, आणि उपस्थित सर्वजण ते पाहू शकतात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open at all hours. The Rath Yatra happens once a year in June or July, and vehicles are stopped on the road for days. Check locally for the dates.",
+        "hi": { "text": "हर समय खुला। रथ यात्रा वर्ष में एक बार जून या जुलाई में होती है, और कई दिन सड़क पर वाहन रोके जाते हैं। तिथियों के लिए स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सर्व वेळी खुला. रथयात्रा वर्षातून एकदा जून किंवा जुलैमध्ये होते, आणि अनेक दिवस रस्त्यावर वाहने थांबवली जातात. तारखांसाठी स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light clothes and sturdy sandals. Keep valuables close in the crowd.",
+        "hi": { "text": "हल्के कपड़े और मज़बूत चप्पलें। भीड़ में कीमती सामान अपने पास रखें।", "reviewed": false },
+        "mr": { "text": "हलके कपडे आणि मजबूत चपला. गर्दीत मौल्यवान वस्तू जवळ ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "ananda-bazar",
+      "name": { "en": "Ananda Bazar and Mahaprasad", "hi": { "text": "आनंद बाज़ार और महाप्रसाद", "reviewed": false }, "mr": { "text": "आनंद बाजार आणि महाप्रसाद", "reviewed": false } },
+      "desc": {
+        "en": "The market inside the temple compound where Mahaprasad is sold, and from where it is eaten by all sitting together. The food is cooked in the temple kitchens, served in clay pots and is entirely vegetarian, without onion or garlic. As it lies within the temple grounds, entry follows the temple's rules. Outside the gate, authorised shops also sell dry Mahaprasad.",
+        "hi": { "text": "मंदिर परिसर के भीतर का बाज़ार जहाँ महाप्रसाद बिकता है, और जहाँ सब साथ बैठकर इसे ग्रहण करते हैं। भोजन मंदिर की रसोइयों में बनता है, मिट्टी के बर्तनों में परोसा जाता है और पूरी तरह शाकाहारी है, बिना प्याज़-लहसुन के। यह मंदिर परिसर में है, इसलिए प्रवेश मंदिर के नियमों के अनुसार है। द्वार के बाहर अधिकृत दुकानें सूखा महाप्रसाद भी बेचती हैं।", "reviewed": false },
+        "mr": { "text": "मंदिर परिसरातील बाजार जिथे महाप्रसाद विकला जातो, आणि जिथे सर्वजण एकत्र बसून तो ग्रहण करतात. अन्न मंदिराच्या स्वयंपाकघरात शिजवले जाते, मातीच्या भांड्यांत वाढले जाते आणि पूर्णपणे शाकाहारी आहे, कांदा-लसणाशिवाय. ते मंदिर परिसरात आहे, त्यामुळे प्रवेश मंदिराच्या नियमांनुसार आहे. प्रवेशद्वाराबाहेर अधिकृत दुकाने कोरडा महाप्रसादही विकतात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open through the day, busiest at midday. Check locally.",
+        "hi": { "text": "दिन भर खुला, दोपहर में सबसे व्यस्त। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "दिवसभर उघडे, दुपारी सर्वात गर्दीचे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Wash your hands before eating and keep your food clean, as it is offered food.",
+        "hi": { "text": "शालीन कपड़े। खाने से पहले हाथ धोएँ और भोजन को स्वच्छ रखें, क्योंकि यह अर्पित भोजन है।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. जेवणापूर्वी हात धुवा आणि अन्न स्वच्छ ठेवा, कारण ते अर्पित अन्न आहे.", "reviewed": false }
+      }
+    },
+    {
+      "id": "puri-beach",
+      "name": { "en": "Puri Beach and Swargadwar", "hi": { "text": "पुरी समुद्र तट और स्वर्गद्वार", "reviewed": false }, "mr": { "text": "पुरी समुद्रकिनारा आणि स्वर्गद्वार", "reviewed": false } },
+      "desc": {
+        "en": "A broad golden beach, a short ride from the temple, where pilgrims take a sea bath and watch sunrise and sunset. Swargadwar, on the shore, is a cremation ground and a place of rites for the departed, so stay quiet there. Swim only in the marked zone with lifeguards, as currents are strong.",
+        "hi": { "text": "मंदिर से थोड़ी दूरी पर चौड़ा स्वर्णिम समुद्र तट, जहाँ श्रद्धालु समुद्र स्नान करते हैं और सूर्योदय-सूर्यास्त देखते हैं। तट पर स्वर्गद्वार श्मशान और दिवंगतों के कर्मों का स्थान है, इसलिए वहाँ शांत रहें। केवल जीवन रक्षकों वाले चिह्नित क्षेत्र में तैरें, क्योंकि धाराएँ तेज़ हैं।", "reviewed": false },
+        "mr": { "text": "मंदिरापासून थोड्या अंतरावर रुंद सोनेरी समुद्रकिनारा, जिथे यात्रेकरू समुद्रस्नान करतात आणि सूर्योदय-सूर्यास्त पाहतात. किनाऱ्यावरील स्वर्गद्वार हे स्मशान आणि दिवंगतांच्या विधींचे स्थान आहे, म्हणून तिथे शांत राहा. फक्त जीवरक्षक असलेल्या चिन्हांकित क्षेत्रातच पोहा, कारण प्रवाह तीव्र आहेत.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Open at all hours. Best at sunrise. Lifeguards are on duty only in the daytime. Check locally.",
+        "hi": { "text": "हर समय खुला। सूर्योदय पर सर्वोत्तम। जीवन रक्षक केवल दिन में तैनात रहते हैं। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सर्व वेळी खुला. सूर्योदयाला उत्तम. जीवरक्षक फक्त दिवसा कर्तव्यावर असतात. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Light clothes you can bathe in. Keep valuables at your stay, and change in a covered place.",
+        "hi": { "text": "स्नान योग्य हल्के कपड़े। कीमती सामान ठहरने की जगह पर रखें, और ढकी हुई जगह में कपड़े बदलें।", "reviewed": false },
+        "mr": { "text": "स्नानासाठी योग्य हलके कपडे. मौल्यवान वस्तू राहण्याच्या जागी ठेवा, आणि झाकलेल्या जागी कपडे बदला.", "reviewed": false }
+      }
+    },
+    {
+      "id": "govardhan-math",
+      "name": { "en": "Govardhan Math", "hi": { "text": "गोवर्धन मठ", "reviewed": false }, "mr": { "text": "गोवर्धन मठ", "reviewed": false } },
+      "desc": {
+        "en": "One of the four monastic seats said to be founded by Adi Shankaracharya, and the eastern pitha of the Advaita tradition. The math is a centre of learning and offers a calm stop away from the main crowds. Ask at the door about visiting.",
+        "hi": { "text": "आदि शंकराचार्य द्वारा स्थापित माने जाने वाले चार मठों में से एक, और अद्वैत परंपरा का पूर्वी पीठ। मठ विद्या का केंद्र है और मुख्य भीड़ से दूर एक शांत पड़ाव देता है। भेंट के बारे में द्वार पर पूछें।", "reviewed": false },
+        "mr": { "text": "आदि शंकराचार्यांनी स्थापन केलेल्या मानल्या जाणाऱ्या चार मठांपैकी एक, आणि अद्वैत परंपरेचे पूर्व पीठ. मठ हे विद्येचे केंद्र आहे आणि मुख्य गर्दीपासून दूर शांत थांबा देते. भेटीबद्दल दारावर विचारा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the morning and evening, closed at midday. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह और शाम खुला, दोपहर में बंद। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा सकाळी आणि संध्याकाळी उघडे, दुपारी बंद. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes. Remove footwear outside.",
+        "hi": { "text": "शालीन कपड़े। जूते-चप्पल बाहर उतारें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे. पादत्राणे बाहेर काढा.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Entry into the Jagannath temple is open to Hindus only, a custom the temple has kept for centuries. Non-Hindu visitors are not admitted, and this is enforced at the gates. If you are travelling with a mixed group, plan other places for those who cannot enter, such as the Grand Road, the beach and Konark.",
+        "hi": { "text": "जगन्नाथ मंदिर में प्रवेश केवल हिंदुओं के लिए खुला है, एक परंपरा जिसे मंदिर ने सदियों से निभाया है। गैर-हिंदू आगंतुकों को प्रवेश नहीं दिया जाता, और द्वारों पर इसका पालन होता है। मिश्रित समूह के साथ यात्रा हो तो जो भीतर नहीं जा सकते उनके लिए ग्रैंड रोड, समुद्र तट और कोणार्क जैसे अन्य स्थान सोचें।", "reviewed": false },
+        "mr": { "text": "जगन्नाथ मंदिरात प्रवेश फक्त हिंदूंसाठी खुला आहे, ही परंपरा मंदिराने शतकानुशतके जपली आहे. गैर-हिंदू अभ्यागतांना प्रवेश दिला जात नाही, आणि प्रवेशद्वारांवर याचे पालन होते. मिश्र गटासह प्रवास असल्यास जे आत जाऊ शकत नाहीत त्यांच्यासाठी ग्रँड रोड, समुद्रकिनारा आणि कोणार्कसारखी इतर ठिकाणे ठरवा.", "reviewed": false }
+      },
+      {
+        "en": "Go early. Weekday mornings are usually calmer, and the Rath Yatra, festival days and winter weekends are very crowded. Allow extra time for the queue and the security check.",
+        "hi": { "text": "जल्दी जाएँ। कार्यदिवस की सुबहें आमतौर पर शांत होती हैं, और रथ यात्रा, त्योहार के दिन और सर्दियों के सप्ताहांत में बहुत भीड़ रहती है। कतार और सुरक्षा जाँच के लिए अतिरिक्त समय रखें।", "reviewed": false },
+        "mr": { "text": "लवकर जा. आठवड्याच्या दिवसांची सकाळ सहसा शांत असते, आणि रथयात्रा, सणाचे दिवस आणि हिवाळ्यातील सप्ताहांताला खूप गर्दी असते. रांग आणि सुरक्षा तपासणीसाठी अतिरिक्त वेळ ठेवा.", "reviewed": false }
+      },
+      {
+        "en": "Carry a government photo ID. Phones, cameras, bags and footwear must be left in the lockers outside the Singhadwara before you join the queue.",
+        "hi": { "text": "सरकारी फ़ोटो पहचान पत्र साथ रखें। कतार में लगने से पहले फ़ोन, कैमरे, बैग और जूते-चप्पल सिंहद्वार के बाहर लॉकर में रखने होंगे।", "reviewed": false },
+        "mr": { "text": "सरकारी फोटो ओळखपत्र सोबत ठेवा. रांगेत उभे राहण्यापूर्वी फोन, कॅमेरे, पिशव्या आणि पादत्राणे सिंहद्वाराबाहेरील लॉकरमध्ये ठेवावी लागतील.", "reviewed": false }
+      },
+      {
+        "en": "Servitors (sevayats) and guides may offer to arrange darshan or rituals for a fee. You may politely decline. The temple administration publishes official notices and does not ask for money for online puja.",
+        "hi": { "text": "सेवायत और गाइड शुल्क लेकर दर्शन या अनुष्ठान कराने का प्रस्ताव दे सकते हैं। आप विनम्रता से मना कर सकते हैं। मंदिर प्रशासन आधिकारिक सूचनाएँ प्रकाशित करता है और ऑनलाइन पूजा के लिए धन नहीं माँगता।", "reviewed": false },
+        "mr": { "text": "सेवायत आणि मार्गदर्शक शुल्क घेऊन दर्शन किंवा विधी करवण्याचे प्रस्ताव देऊ शकतात. तुम्ही नम्रपणे नकार देऊ शकता. मंदिर प्रशासन अधिकृत सूचना प्रकाशित करते आणि ऑनलाइन पूजेसाठी पैसे मागत नाही.", "reviewed": false }
+      },
+      {
+        "en": "Older visitors and people with limited walking can ask staff at the gate about assisted routes. The compound has steps, stone floors and long distances inside.",
+        "hi": { "text": "वृद्ध यात्री और कम चल सकने वाले लोग द्वार पर कर्मचारियों से सहायक मार्ग के बारे में पूछ सकते हैं। परिसर में सीढ़ियाँ, पत्थर के फ़र्श और भीतर लंबी दूरियाँ हैं।", "reviewed": false },
+        "mr": { "text": "वृद्ध यात्रेकरू आणि कमी चालू शकणारे लोक प्रवेशद्वारावरील कर्मचाऱ्यांना साहाय्यक मार्गाबद्दल विचारू शकतात. परिसरात पायऱ्या, दगडी फरशा आणि आत लांब अंतरे आहेत.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the Shree Jagannath Temple Administration publishes an official website with notices, the Rath Yatra programme and a webcast. This app does not book or sell anything. Use only the official site, and beware of copy sites that take money for rooms or puja.",
+      "hi": { "text": "केवल जानकारी के लिए: श्री जगन्नाथ मंदिर प्रशासन की एक आधिकारिक वेबसाइट है जिस पर सूचनाएँ, रथ यात्रा कार्यक्रम और वेबकास्ट हैं। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइट का उपयोग करें, और कमरों या पूजा के लिए पैसे लेने वाली नकली साइटों से सावधान रहें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: श्री जगन्नाथ मंदिर प्रशासनाचे अधिकृत संकेतस्थळ आहे ज्यावर सूचना, रथयात्रा कार्यक्रम आणि वेबकास्ट आहेत. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळ वापरा, आणि खोल्या किंवा पूजेसाठी पैसे घेणाऱ्या बनावट संकेतस्थळांपासून सावध राहा.", "reviewed": false }
+    }
+  }
+}

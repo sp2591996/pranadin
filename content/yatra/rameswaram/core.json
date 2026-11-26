@@ -1,0 +1,165 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "rameswaram",
+  "name": { "en": "Rameswaram", "hi": { "text": "रामेश्वरम", "reviewed": false }, "mr": { "text": "रामेश्वरम", "reviewed": false } },
+  "state": { "en": "Tamil Nadu", "hi": { "text": "तमिलनाडु", "reviewed": false }, "mr": { "text": "तमिळनाडू", "reviewed": false } },
+  "stateKey": "tamil-nadu",
+  "traditions": ["hindu"],
+  "deity": {
+    "en": "Lord Shiva as Ramanathaswamy, one of the twelve Jyotirlingas and one of the four Char Dham sites. The sanctum holds two lingams, one of sand and one brought by Hanuman.",
+    "hi": { "text": "भगवान शिव रामनाथस्वामी के रूप में, बारह ज्योतिर्लिंगों में से एक और चार धाम स्थलों में से एक। गर्भगृह में दो लिंग हैं, एक रेत का और एक हनुमान द्वारा लाया हुआ।", "reviewed": false },
+    "mr": { "text": "भगवान शिव रामनाथस्वामी रूपात, बारा ज्योतिर्लिंगांपैकी एक आणि चार धाम स्थळांपैकी एक. गर्भगृहात दोन लिंगे आहेत, एक वाळूचे आणि एक हनुमानाने आणलेले.", "reviewed": false }
+  },
+  "significance": {
+    "en": "Rameswaram is the southernmost of the twelve Jyotirlingas and, with Badrinath, Puri and Dwarka, one of the four Char Dham sites. Pilgrims traditionally bathe at Agni Theertham on the sea shore and in the 22 sacred wells inside the temple before darshan. Many families also come to perform rites for their ancestors.",
+    "hi": { "text": "रामेश्वरम बारह ज्योतिर्लिंगों में सबसे दक्षिणी है और बदरीनाथ, पुरी तथा द्वारका के साथ चार धाम स्थलों में से एक है। परंपरा से तीर्थयात्री दर्शन से पहले समुद्र तट पर अग्नि तीर्थम में और मंदिर के भीतर 22 पवित्र कुओं में स्नान करते हैं। कई परिवार यहाँ अपने पितरों के लिए कर्म करने भी आते हैं।", "reviewed": false },
+    "mr": { "text": "रामेश्वरम हे बारा ज्योतिर्लिंगांपैकी सर्वात दक्षिणेकडील असून बद्रीनाथ, पुरी आणि द्वारका यांच्यासह चार धाम स्थळांपैकी एक आहे. परंपरेने यात्रेकरू दर्शनापूर्वी समुद्रकिनारी अग्नि तीर्थम आणि मंदिरातील 22 पवित्र विहिरींमध्ये स्नान करतात. अनेक कुटुंबे येथे आपल्या पितरांसाठी विधी करण्यासाठीही येतात.", "reviewed": false }
+  },
+  "tagline": {
+    "en": "The island shrine where Rama worshipped Shiva",
+    "hi": { "text": "द्वीप तीर्थ जहाँ राम ने शिव की पूजा की", "reviewed": false },
+    "mr": { "text": "द्वीप तीर्थ जिथे रामाने शिवाची पूजा केली", "reviewed": false }
+  },
+  "overview": {
+    "en": "Rameswaram sits on Pamban island in the Gulf of Mannar, joined to the mainland by the Pamban bridges. The town is small and built around the Ramanathaswamy temple, whose long pillared corridors are among its best-known features. Beyond the temple the island offers calm beaches, fishing boats, and the road to the ruined town of Dhanushkodi at the island's southern tip. The air is salty and breezy, and the pace is slower than the mainland cities.",
+    "hi": { "text": "रामेश्वरम मन्नार की खाड़ी में पम्बन द्वीप पर बसा है, जो पम्बन पुलों से मुख्य भूमि से जुड़ा है। नगर छोटा है और रामनाथस्वामी मंदिर के चारों ओर बसा है, जिसके लंबे स्तंभों वाले गलियारे इसकी सबसे जानी-मानी विशेषता हैं। मंदिर के पार द्वीप पर शांत समुद्र तट, मछली पकड़ने की नावें और द्वीप के दक्षिणी छोर पर उजड़े नगर धनुषकोडि की सड़क है। हवा नमकीन और हवादार है, और गति मुख्य भूमि के शहरों से धीमी है।", "reviewed": false },
+    "mr": { "text": "रामेश्वरम मन्नारच्या आखातातील पंबन बेटावर वसले आहे, जे पंबन पुलांनी मुख्य भूमीशी जोडलेले आहे. शहर लहान असून रामनाथस्वामी मंदिराभोवती वसले आहे, ज्याच्या लांब स्तंभांच्या मार्गिका त्याचे सर्वात प्रसिद्ध वैशिष्ट्य आहेत. मंदिराच्या पलीकडे बेटावर शांत समुद्रकिनारे, मासेमारीच्या नावा आणि बेटाच्या दक्षिण टोकावरील उद्ध्वस्त नगर धनुषकोडीकडे जाणारा रस्ता आहे. हवा खारट आणि वाऱ्याची आहे, आणि गती मुख्य भूमीवरील शहरांपेक्षा संथ आहे.", "reviewed": false }
+  },
+  "story": {
+    "en": "According to tradition, the Ramayana and the Shiva Purana describe Rama worshipping Shiva here before crossing to Lanka. Sita is said to have made a lingam of sand, and Hanuman brought a second lingam from Kailash, which is traditionally worshipped first. The temple was developed over centuries by the Pandya dynasty, the kings of Jaffna and the Sethupathis of Ramnad, and most of the present structure is attributed to the 17th century. Its outer corridor has about 1,212 pillars, its main tower is about 53 metres tall, and 22 of the island's sacred wells lie inside the temple.",
+    "hi": { "text": "परंपरा के अनुसार रामायण और शिव पुराण में वर्णन है कि राम ने लंका जाने से पहले यहाँ शिव की पूजा की। कहा जाता है कि सीता ने रेत का लिंग बनाया और हनुमान कैलाश से दूसरा लिंग लाए, जिसकी पूजा परंपरा से पहले होती है। मंदिर का विकास सदियों में पांड्य राजवंश, जाफना के राजाओं और रामनाड के सेतुपतियों ने किया, और वर्तमान संरचना का अधिकांश भाग 17वीं सदी का माना जाता है। इसके बाहरी गलियारे में लगभग 1,212 स्तंभ हैं, मुख्य गोपुरम लगभग 53 मीटर ऊँचा है, और द्वीप के 22 पवित्र कुएँ मंदिर के भीतर हैं।", "reviewed": false },
+    "mr": { "text": "परंपरेनुसार रामायण आणि शिव पुराणात वर्णन आहे की रामाने लंकेला जाण्यापूर्वी येथे शिवाची पूजा केली. सीतेने वाळूचे लिंग बनवले आणि हनुमानाने कैलासातून दुसरे लिंग आणले असे सांगितले जाते, ज्याची पूजा परंपरेने प्रथम होते. मंदिराचा विकास शतकानुशतके पांड्य राजवंश, जाफन्याचे राजे आणि रामनादचे सेतुपती यांनी केला, आणि सध्याच्या रचनेचा बहुतेक भाग 17व्या शतकातील मानला जातो. त्याच्या बाह्य मार्गिकेत सुमारे 1,212 स्तंभ आहेत, मुख्य गोपुर सुमारे 53 मीटर उंच आहे, आणि बेटावरील 22 पवित्र विहिरी मंदिरात आहेत.", "reviewed": false }
+  },
+  "storySource": {
+    "en": "From the Ramayana and Shiva Purana traditions and the recorded history of the temple.",
+    "hi": { "text": "रामायण और शिव पुराण की परंपराओं तथा मंदिर के अभिलेखित इतिहास से।", "reviewed": false },
+    "mr": { "text": "रामायण आणि शिव पुराणाच्या परंपरा आणि मंदिराच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+  },
+  "bestTime": {
+    "months": [10, 11, 12, 1, 2, 3],
+    "seasons": [
+      {
+        "months": [1, 2, 3],
+        "rating": "best",
+        "weather": {
+          "en": "Pleasant and breezy, roughly 24 to 32 degrees, with the sea calm. The best months for the temple, the beaches and Dhanushkodi. Maha Shivaratri crowds fall in February or March.",
+          "hi": { "text": "सुहावना और हवादार, लगभग 24 से 32 डिग्री, समुद्र शांत। मंदिर, तटों और धनुषकोडि के लिए सर्वोत्तम महीने। महाशिवरात्रि की भीड़ फ़रवरी या मार्च में रहती है।", "reviewed": false },
+          "mr": { "text": "आल्हाददायक आणि वाऱ्याचे, सुमारे 24 ते 32 अंश, समुद्र शांत. मंदिर, किनारे आणि धनुषकोडीसाठी सर्वोत्तम महिने. महाशिवरात्रीची गर्दी फेब्रुवारी किंवा मार्चमध्ये असते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [10, 11, 12],
+        "rating": "good",
+        "weather": {
+          "en": "The northeast monsoon brings rain, strong winds and a rougher sea, and the island can be hit by cyclone warnings. Check the forecast. Cooler days suit temple visits, but boat and sea access may be closed.",
+          "hi": { "text": "उत्तर-पूर्वी मानसून वर्षा, तेज़ हवा और अशांत समुद्र लाता है, और द्वीप पर चक्रवात की चेतावनी आ सकती है। पूर्वानुमान देखें। ठंडे दिन मंदिर दर्शन के अनुकूल हैं, पर नाव और समुद्र तक पहुँच बंद हो सकती है।", "reviewed": false },
+          "mr": { "text": "ईशान्य मान्सून पाऊस, जोरदार वारे आणि खवळलेला समुद्र आणतो, आणि बेटावर चक्रीवादळाचे इशारे येऊ शकतात. हवामान अंदाज पाहा. थंड दिवस मंदिर दर्शनासाठी योग्य आहेत, पण नाव आणि समुद्रापर्यंत जाणे बंद असू शकते.", "reviewed": false }
+        }
+      },
+      {
+        "months": [4, 5, 6],
+        "rating": "difficult",
+        "weather": {
+          "en": "Hot and humid, often 33 to 38 degrees, with strong sun on bare stone. Visit only at dawn and in the evening and drink water often.",
+          "hi": { "text": "गर्म और उमस भरा, अक्सर 33 से 38 डिग्री, नंगे पत्थर पर तेज़ धूप। केवल भोर और शाम को जाएँ और बार-बार पानी पिएँ।", "reviewed": false },
+          "mr": { "text": "उष्ण आणि दमट, अनेकदा 33 ते 38 अंश, उघड्या दगडावर कडक ऊन. फक्त पहाटे आणि संध्याकाळी जा आणि वारंवार पाणी प्या.", "reviewed": false }
+        }
+      },
+      {
+        "months": [7, 8, 9],
+        "rating": "good",
+        "weather": {
+          "en": "Hot with strong winds and a rough sea. Fewer visitors, and Aadi Amavasya in July or August draws very large crowds for ancestor rites.",
+          "hi": { "text": "गर्म, तेज़ हवा और अशांत समुद्र के साथ। यात्री कम होते हैं, और जुलाई या अगस्त की आदि अमावस्या पर पितृ कर्म के लिए बहुत भारी भीड़ आती है।", "reviewed": false },
+          "mr": { "text": "उष्ण, जोरदार वारे आणि खवळलेला समुद्र. प्रवासी कमी असतात, आणि जुलै किंवा ऑगस्टमधील आदी अमावास्येला पितृ विधींसाठी खूप मोठी गर्दी येते.", "reviewed": false }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": { "en": "Madurai International Airport (IXM)", "hi": { "text": "मदुरै अंतरराष्ट्रीय हवाई अड्डा (IXM)", "reviewed": false }, "mr": { "text": "मदुराई आंतरराष्ट्रीय विमानतळ (IXM)", "reviewed": false } },
+      "km": 175,
+      "how": {
+        "en": "Rameswaram has no operating airport. Fly to Madurai, then take a taxi or train for about three to four hours. Tamil Nadu Tourism lists Madurai at about 180 km.",
+        "hi": { "text": "रामेश्वरम में कोई चालू हवाई अड्डा नहीं है। मदुरै तक उड़ान लें, फिर टैक्सी या रेल से लगभग तीन से चार घंटे। तमिलनाडु पर्यटन मदुरै को लगभग 180 किमी बताता है।", "reviewed": false },
+        "mr": { "text": "रामेश्वरममध्ये कार्यरत विमानतळ नाही. मदुराईपर्यंत विमानाने या, मग टॅक्सी किंवा रेल्वेने सुमारे तीन ते चार तास. तमिळनाडू पर्यटन मदुराई सुमारे 180 किमी असल्याचे सांगते.", "reviewed": false }
+      }
+    },
+    "rail": {
+      "nearest": { "en": "Rameswaram (RMM)", "hi": { "text": "रामेश्वरम (RMM)", "reviewed": false }, "mr": { "text": "रामेश्वरम (RMM)", "reviewed": false } },
+      "km": 2,
+      "how": {
+        "en": "The line ends here. Trains run to Madurai, Chennai (Egmore and Tambaram), Coimbatore and other cities, crossing the New Pamban Bridge, India's first vertical-lift railway sea bridge, opened in April 2025. The station is a short auto ride from the temple.",
+        "hi": { "text": "रेल लाइन यहीं समाप्त होती है। मदुरै, चेन्नई (एगमोर और ताम्बरम), कोयंबटूर और अन्य शहरों के लिए गाड़ियाँ चलती हैं, जो अप्रैल 2025 में खुले भारत के पहले वर्टिकल-लिफ़्ट रेल समुद्री पुल, नए पम्बन पुल से गुज़रती हैं। स्टेशन से मंदिर तक ऑटो का छोटा सफ़र है।", "reviewed": false },
+        "mr": { "text": "रेल्वे मार्ग येथेच संपतो. मदुराई, चेन्नई (एग्मोर आणि तांबरम), कोईम्बतूर आणि इतर शहरांसाठी गाड्या धावतात, ज्या एप्रिल 2025 मध्ये उघडलेल्या भारतातील पहिल्या व्हर्टिकल-लिफ्ट रेल्वे सागरी पुलावरून, नव्या पंबन पुलावरून, जातात. स्थानकापासून मंदिर ऑटोने थोड्या अंतरावर आहे.", "reviewed": false }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "National highway 87 links Rameswaram to Madurai, and the road crosses the Pamban road bridge onto the island. State and private buses run from Madurai, Tiruchirappalli, Chennai and Coimbatore. Madurai is about 175 km away.",
+        "hi": { "text": "राष्ट्रीय राजमार्ग 87 रामेश्वरम को मदुरै से जोड़ता है, और सड़क पम्बन सड़क पुल से द्वीप पर पहुँचती है। मदुरै, तिरुचिरापल्ली, चेन्नई और कोयंबटूर से राज्य और निजी बसें चलती हैं। मदुरै लगभग 175 किमी दूर है।", "reviewed": false },
+        "mr": { "text": "राष्ट्रीय महामार्ग 87 रामेश्वरमला मदुराईशी जोडतो, आणि रस्ता पंबन रस्ते पुलावरून बेटावर पोहोचतो. मदुराई, तिरुचिरापल्ली, चेन्नई आणि कोईम्बतूर येथून राज्य आणि खासगी बसेस धावतात. मदुराई सुमारे 175 किमी अंतरावर आहे.", "reviewed": false }
+      },
+      "km": 175
+    }
+  },
+  "localTransport": {
+    "en": "The temple, the sea shore and most lodgings are within walking distance or a short auto ride. Autos, e-rickshaws and taxis serve the island, and share-autos and buses run to Dhanushkodi. Agree the fare before you start, as there is often no meter.",
+    "hi": { "text": "मंदिर, समुद्र तट और अधिकांश ठहरने की जगहें पैदल या ऑटो की छोटी दूरी पर हैं। द्वीप पर ऑटो, ई-रिक्शा और टैक्सी चलती हैं, और धनुषकोडि के लिए शेयर ऑटो और बसें हैं। चलने से पहले किराया तय कर लें, क्योंकि अक्सर मीटर नहीं होता।", "reviewed": false },
+    "mr": { "text": "मंदिर, समुद्रकिनारा आणि बहुतेक निवास चालत किंवा ऑटोने थोड्या अंतरावर आहेत. बेटावर ऑटो, ई-रिक्षा आणि टॅक्सी चालतात, आणि धनुषकोडीसाठी शेअर ऑटो आणि बसेस आहेत. निघण्यापूर्वी भाडे ठरवा, कारण अनेकदा मीटर नसतो.", "reviewed": false }
+  },
+  "festivals": [
+    {
+      "festivalId": "maha-shivaratri",
+      "note": {
+        "en": "A major festival at the Jyotirlinga temple, with a long festival period and large crowds. Expect long queues and tight security.",
+        "hi": { "text": "ज्योतिर्लिंग मंदिर में एक प्रमुख उत्सव, लंबी उत्सव अवधि और बड़ी भीड़ के साथ। लंबी कतारें और कड़ी सुरक्षा की अपेक्षा रखें।", "reviewed": false },
+        "mr": { "text": "ज्योतिर्लिंग मंदिरातील प्रमुख उत्सव, दीर्घ उत्सव कालावधी आणि मोठ्या गर्दीसह. लांब रांगा आणि कडक सुरक्षेची अपेक्षा ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "festivalId": "ram-navami",
+      "note": {
+        "en": "The birth of Rama is remembered at a place tied to his story. Expect more devotees than usual.",
+        "hi": { "text": "राम के जन्म का स्मरण उस स्थान पर होता है जो उनकी कथा से जुड़ा है। सामान्य से अधिक श्रद्धालु मिलेंगे।", "reviewed": false },
+        "mr": { "text": "रामाच्या जन्माचे स्मरण त्यांच्या कथेशी जोडलेल्या स्थळी केले जाते. नेहमीपेक्षा जास्त भाविक असतील.", "reviewed": false }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": { "en": "Dhanushkodi", "hi": { "text": "धनुषकोडि", "reviewed": false }, "mr": { "text": "धनुषकोडी", "reviewed": false } },
+      "km": 18,
+      "note": { "en": "Ruined town at the island's southern tip, destroyed in the 1964 cyclone, with a beach and a surviving Kothandaramaswamy temple.", "hi": { "text": "द्वीप के दक्षिणी छोर पर उजड़ा नगर, जो 1964 के चक्रवात में नष्ट हुआ, समुद्र तट और बचे हुए कोदंडरामस्वामी मंदिर के साथ।", "reviewed": false }, "mr": { "text": "बेटाच्या दक्षिण टोकावरील उद्ध्वस्त नगर, जे 1964 च्या चक्रीवादळात नष्ट झाले, समुद्रकिनारा आणि टिकून राहिलेल्या कोदंडरामस्वामी मंदिरासह.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Pamban Bridges", "hi": { "text": "पम्बन पुल", "reviewed": false }, "mr": { "text": "पंबन पूल", "reviewed": false } },
+      "km": 12,
+      "note": { "en": "The old 1914 cantilever bridge beside the new vertical-lift rail bridge, with a road bridge nearby. A good view point for the sea.", "hi": { "text": "नए वर्टिकल-लिफ़्ट रेल पुल के पास 1914 का पुराना कैंटिलीवर पुल, और पास में सड़क पुल। समुद्र देखने का अच्छा स्थान।", "reviewed": false }, "mr": { "text": "नव्या व्हर्टिकल-लिफ्ट रेल्वे पुलाशेजारी 1914 चा जुना कँटिलिव्हर पूल, आणि जवळ रस्ते पूल. समुद्र पाहण्यासाठी चांगले ठिकाण.", "reviewed": false } }
+    },
+    {
+      "name": { "en": "Madurai", "hi": { "text": "मदुरै", "reviewed": false }, "mr": { "text": "मदुराई", "reviewed": false } },
+      "km": 175,
+      "note": { "en": "The Meenakshi temple city and the usual gateway, easily paired with Rameswaram.", "hi": { "text": "मीनाक्षी मंदिर नगरी और सामान्य प्रवेश द्वार, रामेश्वरम के साथ आसानी से जोड़ा जा सकता है।", "reviewed": false }, "mr": { "text": "मीनाक्षी मंदिर नगरी आणि नेहमीचे प्रवेशद्वार, रामेश्वरमसोबत सहज जोडता येते.", "reviewed": false } }
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero.webp",
+      "caption": { "en": "Rameswaram Ramanathaswamy temple corridor", "hi": { "text": "रामेश्वरम रामनाथस्वामी मंदिर का गलियारा", "reviewed": false }, "mr": { "text": "रामेश्वरम रामनाथस्वामी मंदिराची मार्गिका", "reviewed": false } },
+      "credit": "AI-generated illustration for PranaDin",
+      "ai": true
+    }
+  ],
+  "sources": [
+    { "label": "Ramanathaswamy Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Ramanathaswamy_Temple" },
+    { "label": "Rameswaram, Wikipedia", "url": "https://en.wikipedia.org/wiki/Rameswaram" },
+    { "label": "Rameswaram, Tamil Nadu Tourism", "url": "https://www.tamilnadutourism.tn.gov.in/destinations/rameswaram" },
+    { "label": "New Pamban Bridge, Ministry of Railways (PIB)", "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2119836" }
+  ]
+}

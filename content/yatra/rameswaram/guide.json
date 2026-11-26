@@ -1,0 +1,298 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "rameswaram",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "One day: the sacred baths and darshan",
+        "hi": { "text": "एक दिन: पवित्र स्नान और दर्शन", "reviewed": false },
+        "mr": { "text": "एक दिवस: पवित्र स्नान आणि दर्शन", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Bathe at Agni Theertham and take the 22-well bath, then darshan at Ramanathaswamy temple.",
+              "hi": { "text": "अग्नि तीर्थम में स्नान और 22 कुओं का स्नान, फिर रामनाथस्वामी मंदिर में दर्शन।", "reviewed": false },
+              "mr": { "text": "अग्नि तीर्थममध्ये स्नान आणि 22 विहिरींचे स्नान, मग रामनाथस्वामी मंदिरात दर्शन.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lunch and rest during the temple's afternoon closure. Visit the Kalam Memorial if energy allows.",
+              "hi": { "text": "मंदिर के दोपहर के बंद समय में भोजन और विश्राम। ऊर्जा हो तो कलाम स्मारक देखें।", "reviewed": false },
+              "mr": { "text": "मंदिराच्या दुपारच्या बंद काळात जेवण आणि विश्रांती. शक्ती असेल तर कलाम स्मारक पाहा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "A quiet walk on the sea shore at sunset and a simple dinner.",
+              "hi": { "text": "सूर्यास्त पर समुद्र तट पर शांत सैर और सादा भोजन।", "reviewed": false },
+              "mr": { "text": "सूर्यास्ताच्या वेळी समुद्रकिनाऱ्यावर शांत फेरफटका आणि साधे जेवण.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Two days: the temple and Dhanushkodi",
+        "hi": { "text": "दो दिन: मंदिर और धनुषकोडि", "reviewed": false },
+        "mr": { "text": "दोन दिवस: मंदिर आणि धनुषकोडी", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Agni Theertham bath, the 22-well bath and darshan.",
+              "hi": { "text": "अग्नि तीर्थम स्नान, 22 कुओं का स्नान और दर्शन।", "reviewed": false },
+              "mr": { "text": "अग्नि तीर्थम स्नान, 22 विहिरींचे स्नान आणि दर्शन.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest and lunch. Visit the Kalam Memorial in the late afternoon.",
+              "hi": { "text": "विश्राम और भोजन। दोपहर के अंत में कलाम स्मारक देखें।", "reviewed": false },
+              "mr": { "text": "विश्रांती आणि जेवण. दुपारच्या उत्तरार्धात कलाम स्मारक पाहा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Evening darshan at the temple and an early night.",
+              "hi": { "text": "मंदिर में शाम के दर्शन और जल्दी विश्राम।", "reviewed": false },
+              "mr": { "text": "मंदिरात संध्याकाळचे दर्शन आणि लवकर विश्रांती.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Early drive to Dhanushkodi, about 18 km. Walk the beach and see the ruins and the small temple.",
+              "hi": { "text": "सुबह जल्दी धनुषकोडि की यात्रा, लगभग 18 किमी। समुद्र तट पर टहलें और खंडहर तथा छोटा मंदिर देखें।", "reviewed": false },
+              "mr": { "text": "पहाटे लवकर धनुषकोडीकडे प्रवास, सुमारे 18 किमी. समुद्रकिनाऱ्यावर फिरा आणि अवशेष व लहान मंदिर पाहा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Return before the heat peaks, lunch and rest.",
+              "hi": { "text": "गर्मी चरम पर पहुँचने से पहले लौटें, भोजन और विश्राम।", "reviewed": false },
+              "mr": { "text": "उष्णता शिखरावर पोहोचण्यापूर्वी परत या, जेवण आणि विश्रांती.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Stop at the Pamban bridges on the way out, then travel onward.",
+              "hi": { "text": "जाते समय पम्बन पुलों पर रुकें, फिर आगे की यात्रा करें।", "reviewed": false },
+              "mr": { "text": "निघताना पंबन पुलांवर थांबा, मग पुढचा प्रवास करा.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Three days: baths, darshan, Dhanushkodi and a slow day",
+        "hi": { "text": "तीन दिन: स्नान, दर्शन, धनुषकोडि और एक धीमा दिन", "reviewed": false },
+        "mr": { "text": "तीन दिवस: स्नान, दर्शन, धनुषकोडी आणि एक संथ दिवस", "reviewed": false }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Arrive by train over the New Pamban Bridge or by road. Settle in and rest.",
+              "hi": { "text": "नए पम्बन पुल से रेल द्वारा या सड़क से पहुँचें। ठहरें और विश्राम करें।", "reviewed": false },
+              "mr": { "text": "नव्या पंबन पुलावरून रेल्वेने किंवा रस्त्याने पोहोचा. स्थिरावा आणि विश्रांती घ्या.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "A slow walk through the town and the temple's outer corridors, if open.",
+              "hi": { "text": "नगर और मंदिर के बाहरी गलियारों में धीमी सैर, यदि खुले हों।", "reviewed": false },
+              "mr": { "text": "शहरात आणि मंदिराच्या बाह्य मार्गिकांमध्ये, उघड्या असतील तर, संथ फेरफटका.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Sunset at the sea shore and an early dinner.",
+              "hi": { "text": "समुद्र तट पर सूर्यास्त और जल्दी भोजन।", "reviewed": false },
+              "mr": { "text": "समुद्रकिनाऱ्यावर सूर्यास्त आणि लवकर जेवण.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Agni Theertham bath, the 22-well bath and darshan.",
+              "hi": { "text": "अग्नि तीर्थम स्नान, 22 कुओं का स्नान और दर्शन।", "reviewed": false },
+              "mr": { "text": "अग्नि तीर्थम स्नान, 22 विहिरींचे स्नान आणि दर्शन.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest, then the Kalam Memorial.",
+              "hi": { "text": "विश्राम, फिर कलाम स्मारक।", "reviewed": false },
+              "mr": { "text": "विश्रांती, मग कलाम स्मारक.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Evening darshan.",
+              "hi": { "text": "शाम के दर्शन।", "reviewed": false },
+              "mr": { "text": "संध्याकाळचे दर्शन.", "reviewed": false }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Dhanushkodi beach and the ruins in the cool of the morning.",
+              "hi": { "text": "सुबह की ठंडक में धनुषकोडि का तट और खंडहर।", "reviewed": false },
+              "mr": { "text": "सकाळच्या थंडाव्यात धनुषकोडीचा किनारा आणि अवशेष.", "reviewed": false }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Return, lunch and pack. Stop at the Pamban bridges on the way.",
+              "hi": { "text": "वापसी, भोजन और सामान बाँधना। रास्ते में पम्बन पुलों पर रुकें।", "reviewed": false },
+              "mr": { "text": "परत या, जेवण आणि सामान बांधा. वाटेत पंबन पुलांवर थांबा.", "reviewed": false }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Travel onward to Madurai or Chennai.",
+              "hi": { "text": "मदुरै या चेन्नई के लिए आगे की यात्रा।", "reviewed": false },
+              "mr": { "text": "मदुराई किंवा चेन्नईकडे पुढचा प्रवास.", "reviewed": false }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near the temple and the sea shore", "hi": { "text": "मंदिर और समुद्र तट के पास", "reviewed": false }, "mr": { "text": "मंदिर आणि समुद्रकिनाऱ्याजवळ", "reviewed": false } },
+      "body": { "en": "Walk to darshan and the bath. Rooms are simple and demand is high on new moon days and festivals, so book ahead.", "hi": { "text": "दर्शन और स्नान तक पैदल पहुँच। कमरे सादे हैं और अमावस्या तथा उत्सव के दिनों में माँग अधिक रहती है, इसलिए पहले बुक करें।", "reviewed": false }, "mr": { "text": "दर्शन आणि स्नानापर्यंत चालत जाता येते. खोल्या साध्या आहेत आणि अमावास्या व उत्सवाच्या दिवशी मागणी जास्त असते, म्हणून आधी आरक्षण करा.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Temple and trust lodges", "hi": { "text": "मंदिर और ट्रस्ट आवास", "reviewed": false }, "mr": { "text": "मंदिर आणि ट्रस्ट निवास", "reviewed": false } },
+      "body": { "en": "Low-cost rooms run by the temple and community trusts, with plain vegetarian meals nearby. Rules are strict and rooms are often full at peak times.", "hi": { "text": "मंदिर और सामुदायिक ट्रस्टों द्वारा संचालित कम खर्च के कमरे, पास में सादा शाकाहारी भोजन। नियम सख़्त हैं और व्यस्त समय में कमरे अक्सर भरे होते हैं।", "reviewed": false }, "mr": { "text": "मंदिर आणि सामुदायिक ट्रस्ट चालवत असलेल्या कमी खर्चाच्या खोल्या, जवळ साधे शाकाहारी जेवण. नियम कडक आहेत आणि गर्दीच्या वेळी खोल्या अनेकदा भरलेल्या असतात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Along the coast road", "hi": { "text": "तटीय सड़क के किनारे", "reviewed": false }, "mr": { "text": "किनारी रस्त्याच्या कडेला", "reviewed": false } },
+      "body": { "en": "Quieter hotels with sea breeze, a short ride from the temple. Better for families who want rest between rituals.", "hi": { "text": "समुद्री हवा वाले शांत होटल, मंदिर से थोड़ी दूरी पर। उन परिवारों के लिए बेहतर जो अनुष्ठानों के बीच आराम चाहते हैं।", "reviewed": false }, "mr": { "text": "समुद्राच्या वाऱ्याची शांत हॉटेले, मंदिरापासून थोड्या अंतरावर. विधींदरम्यान विश्रांती हवी असलेल्या कुटुंबांसाठी चांगले.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Mandapam and the mainland side", "hi": { "text": "मंडपम और मुख्य भूमि की ओर", "reviewed": false }, "mr": { "text": "मंडपम आणि मुख्य भूमीकडील बाजू", "reviewed": false } },
+      "body": { "en": "More choice and easier parking on the mainland, with a drive of about 30 to 40 minutes. Useful in the busiest weeks.", "hi": { "text": "मुख्य भूमि पर अधिक विकल्प और पार्किंग आसान, लगभग 30 से 40 मिनट की ड्राइव। सबसे व्यस्त सप्ताहों में उपयोगी।", "reviewed": false }, "mr": { "text": "मुख्य भूमीवर अधिक पर्याय आणि पार्किंग सोपे, सुमारे 30 ते 40 मिनिटांचा प्रवास. सर्वाधिक गर्दीच्या आठवड्यांत उपयुक्त.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Tiffin and filter coffee", "hi": { "text": "टिफ़िन और फ़िल्टर कॉफ़ी", "reviewed": false }, "mr": { "text": "टिफिन आणि फिल्टर कॉफी", "reviewed": false } },
+      "body": { "en": "Idli, dosa, pongal and vada with chutney and sambar, served early at small hotels near the temple.", "hi": { "text": "चटनी और सांभर के साथ इडली, डोसा, पोंगल और वड़ा, मंदिर के पास छोटे होटलों में सुबह जल्दी मिलते हैं।", "reviewed": false }, "mr": { "text": "चटणी आणि सांबारसह इडली, डोसा, पोंगल आणि वडा, मंदिराजवळील लहान हॉटेलांत सकाळी लवकर मिळतात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Vegetarian meals", "hi": { "text": "शाकाहारी भोजन", "reviewed": false }, "mr": { "text": "शाकाहारी जेवण", "reviewed": false } },
+      "body": { "en": "Rice, sambar, rasam, curries and curd on a leaf or plate at lunchtime. Many places near the temple are pure vegetarian.", "hi": { "text": "दोपहर में पत्ते या थाली पर चावल, सांभर, रसम, सब्ज़ियाँ और दही। मंदिर के पास कई स्थान शुद्ध शाकाहारी हैं।", "reviewed": false }, "mr": { "text": "दुपारी पानावर किंवा ताटात भात, सांबार, रसम, भाज्या आणि दही. मंदिराजवळील अनेक ठिकाणे शुद्ध शाकाहारी आहेत.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Fresh seafood on the island", "hi": { "text": "द्वीप पर ताज़ा समुद्री भोजन", "reviewed": false }, "mr": { "text": "बेटावर ताजे सागरी अन्न", "reviewed": false } },
+      "body": { "en": "Fishing is a main livelihood here and fish and prawn dishes are common away from the temple streets. Pilgrims keeping a vegetarian discipline can skip these, and the temple area itself is vegetarian.", "hi": { "text": "मछली पकड़ना यहाँ मुख्य आजीविका है और मंदिर की गलियों से दूर मछली और झींगा के व्यंजन आम हैं। शाकाहारी नियम रखने वाले तीर्थयात्री इन्हें छोड़ सकते हैं, और मंदिर क्षेत्र स्वयं शाकाहारी है।", "reviewed": false }, "mr": { "text": "मासेमारी हा येथील मुख्य उदरनिर्वाह आहे आणि मंदिराच्या रस्त्यांपासून दूर मासे आणि कोळंबीचे पदार्थ सामान्य आहेत. शाकाहारी नियम पाळणारे यात्रेकरू हे टाळू शकतात, आणि मंदिर परिसर स्वतः शाकाहारी आहे.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Palm sweets, coconut water and jaggery", "hi": { "text": "ताड़ की मिठाइयाँ, नारियल पानी और गुड़", "reviewed": false }, "mr": { "text": "ताडाची मिठाई, नारळपाणी आणि गूळ", "reviewed": false } },
+      "body": { "en": "Fresh coconut water and local palm and jaggery sweets are sold along the main streets, a cooling stop in the heat.", "hi": { "text": "मुख्य गलियों में ताज़ा नारियल पानी और स्थानीय ताड़ तथा गुड़ की मिठाइयाँ बिकती हैं, गर्मी में एक ठंडक भरा पड़ाव।", "reviewed": false }, "mr": { "text": "मुख्य रस्त्यांवर ताजे नारळपाणी आणि स्थानिक ताड व गुळाची मिठाई विकली जाते, उष्णतेत थंडावा देणारा थांबा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "The temple area and trust lodges serve vegetarian food, and many pilgrims keep a vegetarian discipline during the visit. Ask for no onion and garlic if you follow that practice, as restaurants may not assume it. Avoid seafood stalls if you are keeping a vegetarian vow.",
+    "hi": { "text": "मंदिर क्षेत्र और ट्रस्ट आवासों में शाकाहारी भोजन मिलता है, और कई तीर्थयात्री यात्रा के दौरान शाकाहारी नियम रखते हैं। यह नियम मानते हों तो बिना प्याज-लहसुन का भोजन माँगें, क्योंकि भोजनालय इसे मानकर नहीं चलते। शाकाहारी व्रत रखें तो समुद्री भोजन के ठेलों से बचें।", "reviewed": false },
+    "mr": { "text": "मंदिर परिसर आणि ट्रस्ट निवासांत शाकाहारी जेवण मिळते, आणि अनेक यात्रेकरू प्रवासात शाकाहारी नियम पाळतात. हा नियम पाळत असाल तर कांदा-लसूण नसलेले जेवण मागा, कारण उपाहारगृहे ते गृहीत धरत नाहीत. शाकाहारी व्रत पाळत असाल तर सागरी अन्नाचे ठेले टाळा.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 1000, "max": 2000 },
+      "mid": { "min": 2500, "max": 5000 },
+      "comfort": { "min": 6000, "max": 11000 }
+    },
+    "note": {
+      "en": "Indicative rupees per person per day for stay, food and local transport, assuming two people sharing a room. Add the bath and puja fees set by the temple. Prices rise at peak pilgrim times. Check current rates.",
+      "hi": { "text": "ठहरने, भोजन और स्थानीय परिवहन के लिए प्रति व्यक्ति प्रति दिन सांकेतिक रुपये, दो लोगों के एक कमरा साझा करने की मान्यता पर। मंदिर द्वारा तय स्नान और पूजा शुल्क अलग से जोड़ें। तीर्थ के व्यस्त समय में दरें बढ़ती हैं। वर्तमान दरें जाँच लें।", "reviewed": false },
+      "mr": { "text": "राहणे, जेवण आणि स्थानिक वाहतुकीसाठी प्रति व्यक्ती प्रति दिवस सूचक रुपये, दोन जणांनी एक खोली वाटून घेतली असे गृहीत धरून. मंदिराने ठरवलेले स्नान आणि पूजा शुल्क वेगळे जोडा. यात्रेच्या गर्दीच्या काळात दर वाढतात. सध्याचे दर तपासा.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "Sea and sun are strong. Use a hat, sun protection and plenty of water, and avoid the beach and Dhanushkodi at midday.",
+      "hi": { "text": "समुद्र और धूप तेज़ हैं। टोपी, धूप से बचाव और भरपूर पानी रखें, और दोपहर में तट और धनुषकोडि से बचें।", "reviewed": false },
+      "mr": { "text": "समुद्र आणि ऊन तीव्र आहेत. टोपी, उन्हापासून संरक्षण आणि भरपूर पाणी ठेवा, आणि दुपारी किनारा आणि धनुषकोडी टाळा.", "reviewed": false }
+    },
+    {
+      "en": "The sea can be rough and currents strong. Bathe only in the marked areas, keep children and older people close, and follow lifeguard and police advice. Do not swim in rough weather.",
+      "hi": { "text": "समुद्र अशांत और धाराएँ तेज़ हो सकती हैं। केवल चिह्नित क्षेत्रों में स्नान करें, बच्चों और बुज़ुर्गों को पास रखें, और जीवनरक्षक तथा पुलिस की सलाह मानें। खराब मौसम में तैरें नहीं।", "reviewed": false },
+      "mr": { "text": "समुद्र खवळलेला आणि प्रवाह जोरदार असू शकतात. फक्त चिन्हांकित भागातच स्नान करा, मुले आणि वृद्धांना जवळ ठेवा, आणि जीवरक्षक व पोलिसांचा सल्ला पाळा. खराब हवामानात पोहू नका.", "reviewed": false }
+    },
+    {
+      "en": "The temple floors are wet near the baths and can be slippery. Wear a quick-drying outfit, walk slowly and keep a dry change ready to avoid a chill.",
+      "hi": { "text": "स्नान स्थलों के पास मंदिर का फ़र्श गीला और फिसलन भरा हो सकता है। जल्दी सूखने वाले कपड़े पहनें, धीरे चलें और ठंड से बचने के लिए सूखे कपड़े तैयार रखें।", "reviewed": false },
+      "mr": { "text": "स्नानस्थळांजवळ मंदिराची फरशी ओली आणि निसरडी असू शकते. लवकर वाळणारे कपडे घाला, सावकाश चाला आणि थंडी टाळण्यासाठी कोरडे कपडे तयार ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Drink only bottled or filtered water and eat freshly cooked food. This guide is general information and does not replace medical advice.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी पिएँ और ताज़ा पका भोजन खाएँ। यह मार्गदर्शिका सामान्य जानकारी है और चिकित्सकीय सलाह का स्थान नहीं लेती।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी प्या आणि ताजे शिजवलेले अन्न खा. हे मार्गदर्शन सामान्य माहिती आहे आणि वैद्यकीय सल्ल्याला पर्याय नाही.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly and remove footwear before the temple. Use changing rooms after bathing and do not change in the open.",
+      "hi": { "text": "शालीन कपड़े पहनें और मंदिर से पहले जूते-चप्पल उतारें। स्नान के बाद कपड़े बदलने के कमरे उपयोग करें, खुले में कपड़े न बदलें।", "reviewed": false },
+      "mr": { "text": "सभ्य कपडे घाला आणि मंदिरापूर्वी पादत्राणे काढा. स्नानानंतर कपडे बदलण्याच्या खोल्या वापरा, उघड्यावर कपडे बदलू नका.", "reviewed": false }
+    },
+    {
+      "en": "Do not take photographs inside the temple or of people bathing, and keep phones in the locker.",
+      "hi": { "text": "मंदिर के भीतर या स्नान करते लोगों की तस्वीरें न लें, और फ़ोन लॉकर में रखें।", "reviewed": false },
+      "mr": { "text": "मंदिरात किंवा स्नान करणाऱ्या लोकांचे फोटो काढू नका, आणि फोन लॉकरमध्ये ठेवा.", "reviewed": false }
+    },
+    {
+      "en": "Priests and guides will offer services. You may politely decline, and agree the fee for any ancestor rite or puja before it begins. Pay only at official counters where they exist and take a receipt.",
+      "hi": { "text": "पुजारी और गाइड सेवाएँ प्रस्तावित करेंगे। आप विनम्रता से मना कर सकते हैं, और किसी पितृ कर्म या पूजा का शुल्क शुरू होने से पहले तय करें। जहाँ आधिकारिक काउंटर हों वहीं भुगतान करें और रसीद लें।", "reviewed": false },
+      "mr": { "text": "पुजारी आणि मार्गदर्शक सेवा देऊ करतील. तुम्ही नम्रपणे नकार देऊ शकता, आणि कोणत्याही पितृ विधी किंवा पूजेचे शुल्क सुरू होण्यापूर्वी ठरवा. जिथे अधिकृत काउंटर आहेत तिथेच पैसे द्या आणि पावती घ्या.", "reviewed": false }
+    },
+    {
+      "en": "Do not litter the shore, tanks or lanes, and do not leave worn clothes or offerings in the sea. Use the bins provided.",
+      "hi": { "text": "तट, कुंडों या गलियों में कचरा न फैलाएँ, और पहने हुए कपड़े या चढ़ावा समुद्र में न छोड़ें। उपलब्ध कचरा पात्रों का उपयोग करें।", "reviewed": false },
+      "mr": { "text": "किनारा, कुंडे किंवा गल्ल्यांमध्ये कचरा टाकू नका, आणि वापरलेले कपडे किंवा अर्पण समुद्रात सोडू नका. उपलब्ध कचरापेट्या वापरा.", "reviewed": false }
+    },
+    {
+      "en": "Dhanushkodi is a fragile coastal site. Stay on the paths, take your rubbish back and respect any limits set by the authorities.",
+      "hi": { "text": "धनुषकोडि एक नाज़ुक तटीय स्थल है। रास्तों पर रहें, अपना कचरा वापस ले जाएँ और अधिकारियों द्वारा तय सीमाओं का सम्मान करें।", "reviewed": false },
+      "mr": { "text": "धनुषकोडी हे नाजूक किनारी स्थळ आहे. मार्गावरच राहा, आपला कचरा परत घेऊन जा आणि प्राधिकरणांनी ठरवलेल्या मर्यादांचा आदर करा.", "reviewed": false }
+    }
+  ]
+}

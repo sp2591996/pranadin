@@ -1,0 +1,156 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "puri",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": { "en": "One day: darshan, Mahaprasad and the sea", "hi": { "text": "एक दिन: दर्शन, महाप्रसाद और समुद्र", "reviewed": false }, "mr": { "text": "एक दिवस: दर्शन, महाप्रसाद आणि समुद्र", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Early darshan at the Jagannath temple through the Singhadwara, after leaving phones and bags in the locker.", "hi": { "text": "फ़ोन और बैग लॉकर में रखकर सिंहद्वार से जगन्नाथ मंदिर में भोर के दर्शन।", "reviewed": false }, "mr": { "text": "फोन आणि पिशव्या लॉकरमध्ये ठेवून सिंहद्वारातून जगन्नाथ मंदिरात पहाटेचे दर्शन.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Mahaprasad at Ananda Bazar, then a rest in the heat of the day.", "hi": { "text": "आनंद बाज़ार में महाप्रसाद, फिर दिन की गर्मी में विश्राम।", "reviewed": false }, "mr": { "text": "आनंद बाजारात महाप्रसाद, मग दिवसाच्या उष्णतेत विश्रांती.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Walk the Grand Road, then sit by the sea at sunset.", "hi": { "text": "ग्रैंड रोड पर पैदल चलें, फिर सूर्यास्त पर समुद्र के पास बैठें।", "reviewed": false }, "mr": { "text": "ग्रँड रोडवर चाला, मग सूर्यास्ताला समुद्राजवळ बसा.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": { "en": "Two days: Puri and Konark", "hi": { "text": "दो दिन: पुरी और कोणार्क", "reviewed": false }, "mr": { "text": "दोन दिवस: पुरी आणि कोणार्क", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Sunrise at the beach, a sea bath in the marked zone, then darshan at the Jagannath temple.", "hi": { "text": "समुद्र तट पर सूर्योदय, चिह्नित क्षेत्र में समुद्र स्नान, फिर जगन्नाथ मंदिर में दर्शन।", "reviewed": false }, "mr": { "text": "समुद्रकिनारी सूर्योदय, चिन्हांकित क्षेत्रात समुद्रस्नान, मग जगन्नाथ मंदिरात दर्शन.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Mahaprasad and a rest, then the Gundicha temple at the end of the Grand Road.", "hi": { "text": "महाप्रसाद और विश्राम, फिर ग्रैंड रोड के अंत में गुंडिचा मंदिर।", "reviewed": false }, "mr": { "text": "महाप्रसाद आणि विश्रांती, मग ग्रँड रोडच्या टोकाला गुंडिचा मंदिर.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Govardhan Math and a slow walk through the old town lanes.", "hi": { "text": "गोवर्धन मठ और पुराने नगर की गलियों में धीमी सैर।", "reviewed": false }, "mr": { "text": "गोवर्धन मठ आणि जुन्या नगराच्या गल्ल्यांत सावकाश फेरफटका.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Drive to Konark along the Marine Drive (about 35 km) and see the Sun Temple and its museum early, before the heat.", "hi": { "text": "मरीन ड्राइव से कोणार्क जाएँ (लगभग 35 किमी) और गर्मी से पहले सूर्य मंदिर और उसका संग्रहालय देखें।", "reviewed": false }, "mr": { "text": "मरीन ड्राइवने कोणार्कला जा (सुमारे 35 किमी) आणि उष्णतेपूर्वी सूर्य मंदिर आणि त्याचे संग्रहालय पाहा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Lunch and a visit to Chandrabhaga or Ramachandi beach, then return to Puri.", "hi": { "text": "भोजन और चंद्रभागा या रामचंडी समुद्र तट की सैर, फिर पुरी लौटें।", "reviewed": false }, "mr": { "text": "जेवण आणि चंद्रभागा किंवा रामचंडी किनाऱ्याला भेट, मग पुरीला परत.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A last evening at the temple lanes or the shore before you leave.", "hi": { "text": "जाने से पहले मंदिर की गलियों या तट पर अंतिम शाम।", "reviewed": false }, "mr": { "text": "निघण्यापूर्वी मंदिराच्या गल्ल्या किंवा किनाऱ्यावर शेवटची संध्याकाळ.", "reviewed": false } } }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": { "en": "Three days: temple, Konark and Raghurajpur", "hi": { "text": "तीन दिन: मंदिर, कोणार्क और रघुराजपुर", "reviewed": false }, "mr": { "text": "तीन दिवस: मंदिर, कोणार्क आणि रघुराजपूर", "reviewed": false } },
+      "plan": [
+        [
+          { "part": "morning", "text": { "en": "Arrive, settle in and walk the lanes near your stay. Rest if you travelled overnight.", "hi": { "text": "पहुँचें, ठहरने की जगह पर बसें और पास की गलियों में घूमें। रात भर सफ़र किया हो तो विश्राम करें।", "reviewed": false }, "mr": { "text": "पोहोचा, राहण्याच्या जागी स्थिरावा आणि जवळच्या गल्ल्यांत फिरा. रात्रभर प्रवास केला असल्यास विश्रांती घ्या.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Darshan at the Jagannath temple once the midday crowd thins.", "hi": { "text": "दोपहर की भीड़ घटने पर जगन्नाथ मंदिर में दर्शन।", "reviewed": false }, "mr": { "text": "दुपारची गर्दी कमी झाल्यावर जगन्नाथ मंदिरात दर्शन.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "Sunset at the beach and a simple dinner.", "hi": { "text": "समुद्र तट पर सूर्यास्त और सादा भोजन।", "reviewed": false }, "mr": { "text": "समुद्रकिनारी सूर्यास्त आणि साधे जेवण.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Early drive to Konark for the Sun Temple, the museum and the beach.", "hi": { "text": "सूर्य मंदिर, संग्रहालय और समुद्र तट के लिए भोर में कोणार्क जाएँ।", "reviewed": false }, "mr": { "text": "सूर्य मंदिर, संग्रहालय आणि समुद्रकिनाऱ्यासाठी पहाटे कोणार्कला जा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Return to Puri for Mahaprasad and a rest.", "hi": { "text": "महाप्रसाद और विश्राम के लिए पुरी लौटें।", "reviewed": false }, "mr": { "text": "महाप्रसाद आणि विश्रांतीसाठी पुरीला परत या.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A walk down the Grand Road and a quiet evening.", "hi": { "text": "ग्रैंड रोड पर सैर और शांत शाम।", "reviewed": false }, "mr": { "text": "ग्रँड रोडवर फेरफटका आणि शांत संध्याकाळ.", "reviewed": false } } }
+        ],
+        [
+          { "part": "morning", "text": { "en": "Visit Raghurajpur craft village for pattachitra paintings, or Govardhan Math.", "hi": { "text": "पट्टचित्र चित्रों के लिए रघुराजपुर शिल्प ग्राम, या गोवर्धन मठ जाएँ।", "reviewed": false }, "mr": { "text": "पट्टचित्र चित्रांसाठी रघुराजपूर शिल्प गाव, किंवा गोवर्धन मठाला जा.", "reviewed": false } } },
+          { "part": "afternoon", "text": { "en": "Free time for shopping handloom textiles and a long lunch.", "hi": { "text": "हथकरघा वस्त्रों की ख़रीदारी और लंबे भोजन के लिए खाली समय।", "reviewed": false }, "mr": { "text": "हातमाग कापडांच्या खरेदीसाठी आणि निवांत जेवणासाठी मोकळा वेळ.", "reviewed": false } } },
+          { "part": "evening", "text": { "en": "A last darshan or a quiet moment by the sea before you leave.", "hi": { "text": "जाने से पहले अंतिम दर्शन, या समुद्र के पास कुछ शांत क्षण।", "reviewed": false }, "mr": { "text": "निघण्यापूर्वी शेवटचे दर्शन, किंवा समुद्राजवळ काही शांत क्षण.", "reviewed": false } } }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": { "en": "Near the temple and the Grand Road", "hi": { "text": "मंदिर और ग्रैंड रोड के पास", "reviewed": false }, "mr": { "text": "मंदिर आणि ग्रँड रोडजवळ", "reviewed": false } },
+      "body": { "en": "Walking distance to the temple and early darshan. Lanes are crowded and noisy, with limited vehicle access. Matha guesthouses, dharamshalas and small lodges are common here.", "hi": { "text": "मंदिर और भोर के दर्शन तक पैदल दूरी। गलियाँ भीड़ भरी और शोरगुल वाली हैं, वाहन पहुँच सीमित है। यहाँ मठों के अतिथि गृह, धर्मशालाएँ और छोटे लॉज आम हैं।", "reviewed": false }, "mr": { "text": "मंदिर आणि पहाटेच्या दर्शनापर्यंत चालत अंतर. गल्ल्या गर्दीच्या आणि गोंगाटाच्या आहेत, वाहनांची पोहोच मर्यादित. येथे मठांची अतिथीगृहे, धर्मशाळा आणि लहान लॉज सामान्य आहेत.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Along the beach (Marine Drive and Swargadwar)", "hi": { "text": "समुद्र तट के साथ (मरीन ड्राइव और स्वर्गद्वार)", "reviewed": false }, "mr": { "text": "समुद्रकिनाऱ्यालगत (मरीन ड्राइव आणि स्वर्गद्वार)", "reviewed": false } },
+      "body": { "en": "Sea breeze, wider roads and a mix of hotels and resorts, with a short auto ride to the temple. Rooms with a sea view cost more and sell out at weekends.", "hi": { "text": "समुद्री हवा, चौड़ी सड़कें और होटल व रिज़ॉर्ट का मिश्रण, मंदिर तक ऑटो की छोटी सवारी। समुद्र दृश्य वाले कमरे महँगे हैं और सप्ताहांत में भर जाते हैं।", "reviewed": false }, "mr": { "text": "समुद्राची झुळूक, रुंद रस्ते आणि हॉटेल व रिसॉर्टचे मिश्रण, मंदिरापर्यंत ऑटोची छोटी सफर. समुद्र दृश्य असलेल्या खोल्या महाग असतात आणि सप्ताहांताला भरतात.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Temple trust and Panthanivas lodgings", "hi": { "text": "मंदिर न्यास और पंथनिवास आवास", "reviewed": false }, "mr": { "text": "मंदिर न्यास आणि पंथनिवास निवास", "reviewed": false } },
+      "body": { "en": "The temple administration and the state run simple lodgings for pilgrims. Booking is through the official sites only, since fake sites that take money for rooms have been reported. Ask each place directly.", "hi": { "text": "मंदिर प्रशासन और राज्य तीर्थयात्रियों के लिए सरल आवास चलाते हैं। आरक्षण केवल आधिकारिक साइटों से करें, क्योंकि कमरों के लिए पैसे लेने वाली नकली साइटों की सूचना मिली है। हर स्थान से सीधे पूछें।", "reviewed": false }, "mr": { "text": "मंदिर प्रशासन आणि राज्य यात्रेकरूंसाठी साधे निवास चालवतात. आरक्षण फक्त अधिकृत संकेतस्थळांवरून करा, कारण खोल्यांसाठी पैसे घेणाऱ्या बनावट संकेतस्थळांची नोंद झाली आहे. प्रत्येक ठिकाणी थेट विचारा.", "reviewed": false } }
+    }
+  ],
+  "food": [
+    {
+      "title": { "en": "Mahaprasad", "hi": { "text": "महाप्रसाद", "reviewed": false }, "mr": { "text": "महाप्रसाद", "reviewed": false } },
+      "body": { "en": "Rice, dal and vegetable dishes cooked in clay pots in the temple kitchens, without onion or garlic, and eaten sitting together. Dry sweet Mahaprasad can be taken home.", "hi": { "text": "मंदिर की रसोइयों में मिट्टी के बर्तनों में पकाए गए चावल, दाल और सब्ज़ियाँ, बिना प्याज़-लहसुन के, और साथ बैठकर खाए जाते हैं। सूखा मीठा महाप्रसाद घर ले जाया जा सकता है।", "reviewed": false }, "mr": { "text": "मंदिराच्या स्वयंपाकघरात मातीच्या भांड्यांत शिजवलेले भात, डाळ आणि भाज्या, कांदा-लसणाशिवाय, आणि एकत्र बसून खाल्ले जातात. कोरडा गोड महाप्रसाद घरी नेता येतो.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Khaja, gaja and rasabali", "hi": { "text": "खाजा, गजा और रसाबली", "reviewed": false }, "mr": { "text": "खाजा, गजा आणि रसाबली", "reviewed": false } },
+      "body": { "en": "Puri's sweets. Khaja is a layered, sugar-soaked pastry, and rasabali is a milk-based sweet. Buy fresh from busy shops near the Grand Road.", "hi": { "text": "पुरी की मिठाइयाँ। खाजा परतदार, चाशनी में डूबी मिठाई है, और रसाबली दूध आधारित मिठाई है। ग्रैंड रोड के पास व्यस्त दुकानों से ताज़ा लें।", "reviewed": false }, "mr": { "text": "पुरीच्या मिठाया. खाजा हा थरांचा, पाकात भिजवलेला गोड पदार्थ आहे, आणि रसाबली दुधावर आधारित मिठाई आहे. ग्रँड रोडजवळील गर्दीच्या दुकानांतून ताजे घ्या.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Dalma and pakhala", "hi": { "text": "दालमा और पखाल", "reviewed": false }, "mr": { "text": "दालमा आणि पखाळ", "reviewed": false } },
+      "body": { "en": "Dalma is lentils cooked with vegetables, a daily Odia dish. Pakhala is fermented rice in water, eaten cool in the hot months with fried vegetables and curd.", "hi": { "text": "दालमा सब्ज़ियों के साथ पकी दाल है, ओडिशा का दैनिक व्यंजन। पखाल पानी में भिगोया गया खमीरी चावल है, गर्म महीनों में तली सब्ज़ियों और दही के साथ ठंडा खाया जाता है।", "reviewed": false }, "mr": { "text": "दालमा म्हणजे भाज्यांसह शिजवलेली डाळ, ओडिशाचा दैनंदिन पदार्थ. पखाळ म्हणजे पाण्यात भिजवलेला आंबवलेला भात, उष्ण महिन्यांत तळलेल्या भाज्या आणि दह्यासह थंड खाल्ला जातो.", "reviewed": false } }
+    },
+    {
+      "title": { "en": "Seafood on the coast", "hi": { "text": "तट पर समुद्री भोजन", "reviewed": false }, "mr": { "text": "किनाऱ्यावर सागरी जेवण", "reviewed": false } },
+      "body": { "en": "Seafood is sold along the beach road and is not served in the temple area. If you prefer vegetarian food, ask before ordering, and choose busy places with fresh turnover.", "hi": { "text": "समुद्री भोजन तट मार्ग पर बिकता है और मंदिर क्षेत्र में नहीं परोसा जाता। शाकाहारी भोजन पसंद हो तो ऑर्डर से पहले पूछें, और ताज़ा बिक्री वाले व्यस्त स्थान चुनें।", "reviewed": false }, "mr": { "text": "सागरी जेवण किनारा रस्त्यावर विकले जाते आणि मंदिर परिसरात दिले जात नाही. शाकाहारी जेवण हवे असल्यास ऑर्डरपूर्वी विचारा, आणि ताजी विक्री असलेली गर्दीची ठिकाणे निवडा.", "reviewed": false } }
+    }
+  ],
+  "satvik": {
+    "en": "Mahaprasad and the temple-area kitchens are entirely vegetarian and cooked without onion or garlic. Many lodges and restaurants around the temple serve only vegetarian food. Ask for satvik or Jain food where you prefer it. Meat and alcohol are not sold near the temple.",
+    "hi": { "text": "महाप्रसाद और मंदिर क्षेत्र की रसोइयाँ पूरी तरह शाकाहारी हैं और बिना प्याज़-लहसुन के बनती हैं। मंदिर के आसपास के कई लॉज और रेस्तराँ केवल शाकाहारी भोजन देते हैं। जहाँ पसंद हो वहाँ सात्त्विक या जैन भोजन माँगें। मंदिर के पास मांस और शराब नहीं बिकते।", "reviewed": false },
+    "mr": { "text": "महाप्रसाद आणि मंदिर परिसरातील स्वयंपाकघरे पूर्णपणे शाकाहारी असून कांदा-लसणाशिवाय शिजवली जातात. मंदिराभोवतीचे अनेक लॉज आणि उपाहारगृहे फक्त शाकाहारी जेवण देतात. आवडत असल्यास सात्त्विक किंवा जैन जेवण मागा. मंदिराजवळ मांस आणि मद्य विकले जात नाही.", "reviewed": false }
+  },
+  "budget": {
+    "bands": {
+      "budget": { "min": 1000, "max": 2000 },
+      "mid": { "min": 2500, "max": 5500 },
+      "comfort": { "min": 6000, "max": 14000 }
+    },
+    "note": {
+      "en": "Indicative, per person per day for stay, food and local transport, assuming a twin-share room. Prices rise sharply around the Rath Yatra, festivals, December and long weekends.",
+      "hi": { "text": "अनुमानित, प्रति व्यक्ति प्रतिदिन, ठहरने, भोजन और स्थानीय आवागमन के लिए, दो लोगों के साझा कमरे को मानकर। रथ यात्रा, त्योहारों, दिसंबर और लंबे सप्ताहांत के आसपास कीमतें तेज़ी से बढ़ती हैं।", "reviewed": false },
+      "mr": { "text": "अंदाजे, प्रति व्यक्ती प्रतिदिन, निवास, जेवण आणि स्थानिक प्रवासासाठी, दोन जणांसाठी सामायिक खोली गृहीत धरून. रथयात्रा, सण, डिसेंबर आणि लांब सप्ताहांताच्या सुमारास दर झपाट्याने वाढतात.", "reviewed": false }
+    }
+  },
+  "health": [
+    {
+      "en": "The coast is hot and humid for much of the year. Drink water often, wear light cotton, cover your head and rest in the afternoon. Lines at the temple can be long and slow.",
+      "hi": { "text": "तट वर्ष के अधिकांश समय गर्म और उमस भरा रहता है। बार-बार पानी पिएँ, हल्के सूती कपड़े पहनें, सिर ढकें और दोपहर में विश्राम करें। मंदिर की कतारें लंबी और धीमी हो सकती हैं।", "reviewed": false },
+      "mr": { "text": "किनारा वर्षातील बहुतेक काळ उष्ण आणि दमट असतो. वारंवार पाणी प्या, हलके सुती कपडे घाला, डोके झाका आणि दुपारी विश्रांती घ्या. मंदिराच्या रांगा लांब आणि संथ असू शकतात.", "reviewed": false }
+    },
+    {
+      "en": "Sea currents are strong. Bathe only in the marked zone with lifeguards, in the daytime, and keep children and older people close. Avoid the sea in rough weather and during cyclone warnings.",
+      "hi": { "text": "समुद्री धाराएँ तेज़ हैं। केवल जीवन रक्षकों वाले चिह्नित क्षेत्र में दिन में स्नान करें, और बच्चों व बुज़ुर्गों को पास रखें। उग्र मौसम और चक्रवात की चेतावनी में समुद्र से दूर रहें।", "reviewed": false },
+      "mr": { "text": "समुद्रप्रवाह तीव्र आहेत. फक्त जीवरक्षक असलेल्या चिन्हांकित क्षेत्रात दिवसा स्नान करा, आणि मुले व ज्येष्ठांना जवळ ठेवा. खवळलेल्या हवामानात आणि चक्रीवादळाच्या इशाऱ्यात समुद्रापासून दूर राहा.", "reviewed": false }
+    },
+    {
+      "en": "Crowds during the Rath Yatra are very dense. Stay with your group, agree a meeting point, keep valuables close, and move away if the crush builds. Older travellers should think carefully about attending.",
+      "hi": { "text": "रथ यात्रा में भीड़ बहुत घनी होती है। अपने समूह के साथ रहें, मिलने की जगह तय करें, कीमती सामान पास रखें, और धक्का-मुक्की बढ़े तो हट जाएँ। बुज़ुर्ग यात्री जाने के बारे में सोच-समझकर निर्णय लें।", "reviewed": false },
+      "mr": { "text": "रथयात्रेत गर्दी खूप दाट असते. आपल्या गटासोबत राहा, भेटण्याचे ठिकाण ठरवा, मौल्यवान वस्तू जवळ ठेवा, आणि रेटारेटी वाढल्यास बाजूला व्हा. ज्येष्ठ प्रवाशांनी जाण्याबद्दल काळजीपूर्वक विचार करावा.", "reviewed": false }
+    },
+    {
+      "en": "Only bottled or filtered water and fresh hot food. Wash hands before eating, and carry your own medicines in their original packs.",
+      "hi": { "text": "केवल बोतलबंद या छना हुआ पानी और ताज़ा गरम भोजन लें। खाने से पहले हाथ धोएँ, और अपनी दवाइयाँ मूल पैक में साथ रखें।", "reviewed": false },
+      "mr": { "text": "फक्त बाटलीबंद किंवा गाळलेले पाणी आणि ताजे गरम अन्न घ्या. जेवणापूर्वी हात धुवा, आणि आपली औषधे मूळ पाकिटात सोबत ठेवा.", "reviewed": false }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Respect the temple's rule that only Hindus may enter. Do not try to enter, and do not argue with the staff at the gates. Other faiths are welcome in the town, on the Grand Road and at the beach.",
+      "hi": { "text": "मंदिर के उस नियम का सम्मान करें कि केवल हिंदू ही प्रवेश कर सकते हैं। प्रवेश का प्रयास न करें, और द्वार पर कर्मचारियों से बहस न करें। अन्य धर्मों के लोगों का नगर, ग्रैंड रोड और समुद्र तट पर स्वागत है।", "reviewed": false },
+      "mr": { "text": "फक्त हिंदूच प्रवेश करू शकतात या मंदिराच्या नियमाचा आदर करा. प्रवेश करण्याचा प्रयत्न करू नका, आणि प्रवेशद्वारावरील कर्मचाऱ्यांशी वाद घालू नका. इतर धर्मांच्या लोकांचे नगरात, ग्रँड रोडवर आणि समुद्रकिनारी स्वागत आहे.", "reviewed": false }
+    },
+    {
+      "en": "Dress modestly and remove footwear before the temple and the math. Ask before photographing priests, rituals or people at prayer, and follow local rules on cameras.",
+      "hi": { "text": "शालीन वस्त्र पहनें और मंदिर और मठ से पहले जूते-चप्पल उतारें। पुजारियों, अनुष्ठानों या प्रार्थनारत लोगों की तस्वीर लेने से पहले पूछें, और कैमरे के स्थानीय नियमों का पालन करें।", "reviewed": false },
+      "mr": { "text": "साधे कपडे घाला आणि मंदिर आणि मठापूर्वी पादत्राणे काढा. पुजारी, विधी किंवा प्रार्थना करणाऱ्या लोकांची छायाचित्रे घेण्यापूर्वी विचारा, आणि कॅमेऱ्याबाबत स्थानिक नियम पाळा.", "reviewed": false }
+    },
+    {
+      "en": "Show Mahaprasad respect. Eat it clean and seated, do not waste it, and do not touch the food or the pots of others.",
+      "hi": { "text": "महाप्रसाद का आदर करें। इसे स्वच्छता से और बैठकर खाएँ, बर्बाद न करें, और दूसरों के भोजन या बर्तनों को न छुएँ।", "reviewed": false },
+      "mr": { "text": "महाप्रसादाचा आदर करा. तो स्वच्छतेने आणि बसून खा, वाया घालवू नका, आणि इतरांच्या अन्नाला किंवा भांड्यांना स्पर्श करू नका.", "reviewed": false }
+    },
+    {
+      "en": "Swargadwar and the shore rites are for the departed. Stay quiet, and do not take photos of cremations.",
+      "hi": { "text": "स्वर्गद्वार और तट के कर्म दिवंगतों के लिए हैं। शांत रहें, और अंतिम संस्कार की तस्वीरें न लें।", "reviewed": false },
+      "mr": { "text": "स्वर्गद्वार आणि किनाऱ्यावरील विधी दिवंगतांसाठी आहेत. शांत राहा, आणि अंत्यसंस्काराची छायाचित्रे घेऊ नका.", "reviewed": false }
+    },
+    {
+      "en": "Priests and guides may approach you. You may politely decline. Agree any donation or fee in advance, give only at official counters and ask for a receipt where there is one.",
+      "hi": { "text": "पुजारी और गाइड आपसे संपर्क कर सकते हैं। आप विनम्रता से मना कर सकते हैं। किसी भी दान या शुल्क को पहले तय करें, केवल आधिकारिक काउंटर पर दें और जहाँ रसीद हो वहाँ माँगें।", "reviewed": false },
+      "mr": { "text": "पुजारी आणि मार्गदर्शक तुमच्याकडे येऊ शकतात. तुम्ही नम्रपणे नकार देऊ शकता. कोणतेही दान किंवा शुल्क आधी ठरवा, फक्त अधिकृत काउंटरवर द्या आणि जिथे पावती असते तिथे मागा.", "reviewed": false }
+    }
+  ]
+}

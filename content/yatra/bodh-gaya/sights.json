@@ -1,0 +1,139 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-26.1",
+  "status": "draft",
+  "id": "bodh-gaya",
+  "sights": [
+    {
+      "id": "mahabodhi-mahavihara",
+      "name": { "en": "Mahabodhi Mahavihara", "hi": { "text": "महाबोधि महाविहार", "reviewed": false }, "mr": { "text": "महाबोधी महाविहार", "reviewed": false } },
+      "desc": {
+        "en": "The great temple that marks the place of the Buddha's awakening. A tall brick tower rises over a gilded image of the Buddha inside, and pilgrims walk the terraces and the circumambulation path around it. Allow two hours or more, and return at a different hour for the chanting.",
+        "hi": { "text": "वह महान मंदिर जो बुद्ध के बोध के स्थान को चिह्नित करता है। ईंटों का ऊँचा शिखर भीतर बुद्ध की स्वर्णिम प्रतिमा के ऊपर उठता है, और श्रद्धालु चबूतरों और परिक्रमा पथ पर चलते हैं। दो घंटे या अधिक रखें, और पाठ के लिए किसी और समय फिर आएँ।", "reviewed": false },
+        "mr": { "text": "बुद्धांच्या बोधाचे स्थान दर्शवणारे महान मंदिर. विटांचा उंच शिखर आतील बुद्धांच्या सुवर्णमय मूर्तीवर उंच जातो, आणि यात्रेकरू चौथरे आणि प्रदक्षिणा मार्गावरून चालतात. दोन तास किंवा अधिक ठेवा, आणि पठणासाठी वेगळ्या वेळी पुन्हा या.", "reviewed": false }
+      },
+      "timings": {
+        "en": "The temple committee lists daily opening from 5 am to 9 pm, with chanting and meditation in the early morning and chanting in the evening. Check locally for current hours and any ticket or camera fee.",
+        "hi": { "text": "मंदिर समिति प्रतिदिन सुबह 5 बजे से रात 9 बजे तक खुलने का समय बताती है, जिसमें भोर में पाठ और ध्यान तथा शाम को पाठ होता है। वर्तमान समय और किसी टिकट या कैमरा शुल्क के लिए स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "मंदिर समिती दररोज सकाळी 5 ते रात्री 9 पर्यंत उघडण्याची वेळ देते, ज्यात पहाटे पठण आणि ध्यान तसेच संध्याकाळी पठण असते. सध्याच्या वेळा आणि कोणतेही तिकीट किंवा कॅमेरा शुल्क स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, quiet clothes covering shoulders and knees. Remove footwear before the terraces. Phones and bags may need to be left at the counter, and photography rules vary by area.",
+        "hi": { "text": "कंधे और घुटने ढकने वाले शालीन, शांत कपड़े। चबूतरों से पहले जूते-चप्पल उतारें। फ़ोन और बैग काउंटर पर रखने पड़ सकते हैं, और फ़ोटो के नियम क्षेत्र के अनुसार अलग हैं।", "reviewed": false },
+        "mr": { "text": "खांदे आणि गुडघे झाकणारे साधे, शांत कपडे. चौथऱ्यांपूर्वी पादत्राणे काढा. फोन आणि पिशव्या काउंटरवर ठेवाव्या लागू शकतात, आणि छायाचित्रणाचे नियम भागानुसार वेगळे आहेत.", "reviewed": false }
+      }
+    },
+    {
+      "id": "bodhi-tree",
+      "name": { "en": "The Bodhi Tree and Vajrasana", "hi": { "text": "बोधि वृक्ष और वज्रासन", "reviewed": false }, "mr": { "text": "बोधिवृक्ष आणि वज्रासन", "reviewed": false } },
+      "desc": {
+        "en": "The pipal tree on the west side of the temple is held to descend from the tree under which the Buddha sat. Beside the temple is the Vajrasana, the stone seat of awakening. Many pilgrims sit here quietly to chant or meditate. Do not pluck leaves. Fallen leaves are gathered by the temple staff.",
+        "hi": { "text": "मंदिर के पश्चिम की ओर का पीपल का वृक्ष उस वृक्ष का वंशज माना जाता है जिसके नीचे बुद्ध बैठे थे। मंदिर के पास वज्रासन है, बोध का पत्थर का आसन। कई श्रद्धालु यहाँ शांति से बैठकर पाठ या ध्यान करते हैं। पत्ते न तोड़ें। गिरे हुए पत्ते मंदिर कर्मचारी एकत्र करते हैं।", "reviewed": false },
+        "mr": { "text": "मंदिराच्या पश्चिमेकडील पिंपळाचे झाड ज्या झाडाखाली बुद्ध बसले होते त्याचा वंशज मानले जाते. मंदिराजवळ वज्रासन आहे, बोधाचे दगडी आसन. अनेक यात्रेकरू येथे शांतपणे बसून पठण किंवा ध्यान करतात. पाने तोडू नका. पडलेली पाने मंदिराचे कर्मचारी गोळा करतात.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Within the temple complex hours. Early morning is the quietest. Check locally.",
+        "hi": { "text": "मंदिर परिसर के समय के भीतर। भोर सबसे शांत समय है। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "मंदिर परिसराच्या वेळेतच. पहाट हा सर्वात शांत काळ आहे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes and a quiet voice. Bring a thin mat or shawl if you wish to sit on the ground.",
+        "hi": { "text": "शालीन कपड़े और धीमी आवाज़। ज़मीन पर बैठना हो तो पतली चटाई या शॉल साथ रखें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे आणि हळू आवाज. जमिनीवर बसायचे असल्यास पातळ चटई किंवा शाल सोबत ठेवा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "great-buddha-statue",
+      "name": { "en": "Great Buddha Statue", "hi": { "text": "महान बुद्ध प्रतिमा", "reviewed": false }, "mr": { "text": "महान बुद्ध मूर्ती", "reviewed": false } },
+      "desc": {
+        "en": "An 80-foot (about 24 m) seated stone Buddha, consecrated in 1989 in the presence of the 14th Dalai Lama. It sits in a quiet garden with smaller statues of the Buddha's disciples. Good for a calm hour in the afternoon.",
+        "hi": { "text": "80 फुट (लगभग 24 मी) की बैठी हुई पत्थर की बुद्ध प्रतिमा, जिसकी प्रतिष्ठा 1989 में 14वें दलाई लामा की उपस्थिति में हुई। यह शांत उद्यान में है, जहाँ बुद्ध के शिष्यों की छोटी प्रतिमाएँ भी हैं। दोपहर बाद एक शांत घंटे के लिए अच्छा।", "reviewed": false },
+        "mr": { "text": "80 फूट (सुमारे 24 मी) उंच बसलेली दगडी बुद्ध मूर्ती, जिची प्रतिष्ठापना 1989 मध्ये 14व्या दलाई लामांच्या उपस्थितीत झाली. ती शांत उद्यानात आहे, जिथे बुद्धांच्या शिष्यांच्या लहान मूर्तीही आहेत. दुपारनंतर एका शांत तासासाठी चांगले.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open from morning to early evening. Check locally.",
+        "hi": { "text": "आमतौर पर सुबह से शाम तक खुला। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा सकाळपासून संध्याकाळपर्यंत उघडे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest, comfortable clothes. Footwear is removed at the inner area.",
+        "hi": { "text": "शालीन, आरामदायक कपड़े। भीतरी क्षेत्र में जूते-चप्पल उतारे जाते हैं।", "reviewed": false },
+        "mr": { "text": "साधे, आरामदायी कपडे. आतील भागात पादत्राणे काढली जातात.", "reviewed": false }
+      }
+    },
+    {
+      "id": "monasteries",
+      "name": { "en": "The international monasteries", "hi": { "text": "अंतरराष्ट्रीय विहार", "reviewed": false }, "mr": { "text": "आंतरराष्ट्रीय विहारे", "reviewed": false } },
+      "desc": {
+        "en": "Each Buddhist country has built its own temple near the town, each in its own style: Wat Thai with its golden roof, the Japanese Nipponji, the Tibetan Tergar with its prayer wheels, and Bhutanese, Myanmar, Chinese and Bangladeshi viharas. A half day on foot or by e-rickshaw shows how widely the teaching spread.",
+        "hi": { "text": "हर बौद्ध देश ने नगर के पास अपना विहार बनाया है, प्रत्येक अपनी शैली में: स्वर्णिम छत वाला वाट थाई, जापानी निप्पोंजी, प्रार्थना चक्रों वाला तिब्बती तेरगर, और भूटानी, म्यांमार, चीनी तथा बांग्लादेशी विहार। पैदल या ई-रिक्शा से आधा दिन देखने पर पता चलता है कि उपदेश कितनी दूर तक फैला।", "reviewed": false },
+        "mr": { "text": "प्रत्येक बौद्ध देशाने नगराजवळ आपले स्वतःचे विहार बांधले आहे, प्रत्येक आपल्या शैलीत: सोनेरी छतासह वाट थाई, जपानी निप्पोन्जी, प्रार्थना चक्रांसह तिबेटी तेरगर, आणि भूतानी, म्यानमार, चिनी व बांगलादेशी विहारे. चालत किंवा ई-रिक्षाने अर्धा दिवस पाहिल्यास शिकवण किती दूरवर पसरली ते कळते.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Each monastery sets its own hours, often closing in the middle of the day. Check locally.",
+        "hi": { "text": "हर विहार अपना समय स्वयं तय करता है, अक्सर दोपहर में बंद रहता है। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "प्रत्येक विहार आपली वेळ स्वतः ठरवते, अनेकदा दुपारी बंद असते. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Modest clothes, no hats inside, footwear off at the hall. Ask before photographing monks or prayer halls.",
+        "hi": { "text": "शालीन कपड़े, भीतर टोपी नहीं, सभागार पर जूते-चप्पल उतारें। भिक्षुओं या प्रार्थना कक्षों की तस्वीर लेने से पहले पूछें।", "reviewed": false },
+        "mr": { "text": "साधे कपडे, आत टोपी नको, सभागृहावर पादत्राणे काढा. भिक्खू किंवा प्रार्थना कक्षांची छायाचित्रे घेण्यापूर्वी विचारा.", "reviewed": false }
+      }
+    },
+    {
+      "id": "sujata-stupa",
+      "name": { "en": "Sujata Stupa", "hi": { "text": "सुजाता स्तूप", "reviewed": false }, "mr": { "text": "सुजाता स्तूप", "reviewed": false } },
+      "desc": {
+        "en": "A mound-like stupa across the river in Bakraur village, remembering Sujata, who offered the Buddha rice milk before his awakening. Reach it by e-rickshaw, and cross the river bed carefully in the dry season.",
+        "hi": { "text": "नदी के पार बकरौर गाँव में टीले जैसा स्तूप, सुजाता की स्मृति में जिसने बोध से पहले बुद्ध को खीर अर्पित की। ई-रिक्शा से पहुँचें, और सूखे मौसम में नदी के तल को सावधानी से पार करें।", "reviewed": false },
+        "mr": { "text": "नदीपलीकडे बकरौर गावात टेकडीसारखा स्तूप, बोधापूर्वी बुद्धांना खीर अर्पण करणाऱ्या सुजाताच्या स्मरणार्थ. ई-रिक्षाने पोहोचा, आणि कोरड्या हंगामात नदीपात्र काळजीपूर्वक ओलांडा.", "reviewed": false }
+      },
+      "timings": {
+        "en": "Usually open in the daytime. Check locally.",
+        "hi": { "text": "आमतौर पर दिन में खुला। स्थानीय रूप से जाँचें।", "reviewed": false },
+        "mr": { "text": "सहसा दिवसा उघडे. स्थानिक पातळीवर तपासा.", "reviewed": false }
+      },
+      "dress": {
+        "en": "Everyday modest clothes and sturdy shoes.",
+        "hi": { "text": "सामान्य शालीन कपड़े और मज़बूत जूते।", "reviewed": false },
+        "mr": { "text": "रोजचे साधे कपडे आणि मजबूत बूट.", "reviewed": false }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early. The first hours after opening and the early chanting are the calmest. Buddha Purnima, the winter pilgrim season and days of large teachings are very crowded.",
+        "hi": { "text": "जल्दी जाएँ। खुलने के बाद के पहले घंटे और भोर का पाठ सबसे शांत होते हैं। बुद्ध पूर्णिमा, सर्दियों का तीर्थ मौसम और बड़े प्रवचनों के दिन बहुत भीड़ भरे होते हैं।", "reviewed": false },
+        "mr": { "text": "लवकर जा. उघडल्यानंतरचे पहिले तास आणि पहाटेचे पठण सर्वात शांत असते. बुद्ध पौर्णिमा, हिवाळ्यातील यात्रेचा हंगाम आणि मोठ्या प्रवचनांचे दिवस खूप गर्दीचे असतात.", "reviewed": false }
+      },
+      {
+        "en": "Security checks are done at the gate. Carry a photo ID, and expect to leave bags, large items and sometimes phones at the counter. Visitors of all faiths are welcome.",
+        "hi": { "text": "प्रवेश द्वार पर सुरक्षा जाँच होती है। फ़ोटो पहचान पत्र साथ रखें, और बैग, बड़ी वस्तुएँ और कभी-कभी फ़ोन काउंटर पर छोड़ने की अपेक्षा रखें। सभी धर्मों के आगंतुकों का स्वागत है।", "reviewed": false },
+        "mr": { "text": "प्रवेशद्वारावर सुरक्षा तपासणी होते. फोटो ओळखपत्र सोबत ठेवा, आणि पिशव्या, मोठ्या वस्तू आणि कधी कधी फोन काउंटरवर ठेवावे लागतील अशी अपेक्षा ठेवा. सर्व धर्मांच्या अभ्यागतांचे स्वागत आहे.", "reviewed": false }
+      },
+      {
+        "en": "Walk the circumambulation path clockwise, keeping the temple on your right, as other pilgrims do. Move slowly, keep your voice low and leave space for people sitting to chant or meditate.",
+        "hi": { "text": "परिक्रमा पथ पर दक्षिणावर्त चलें, मंदिर को अपने दाहिने रखकर, जैसा अन्य श्रद्धालु करते हैं। धीरे चलें, आवाज़ धीमी रखें और पाठ या ध्यान के लिए बैठे लोगों के लिए जगह छोड़ें।", "reviewed": false },
+        "mr": { "text": "प्रदक्षिणा मार्गावर घड्याळाच्या दिशेने चाला, मंदिर उजव्या बाजूला ठेवून, इतर यात्रेकरू करतात तसे. हळू चाला, आवाज खालच्या पातळीत ठेवा आणि पठण किंवा ध्यानासाठी बसलेल्या लोकांसाठी जागा सोडा.", "reviewed": false }
+      },
+      {
+        "en": "Offerings are simple: flowers, lamps and incense bought from authorised stalls. Do not pay strangers who offer to guide you inside. Official counters and signs are within the complex.",
+        "hi": { "text": "अर्पण सरल हैं: अधिकृत दुकानों से फूल, दीप और धूप। भीतर मार्गदर्शन का प्रस्ताव देने वाले अजनबियों को पैसे न दें। आधिकारिक काउंटर और संकेत परिसर के भीतर हैं।", "reviewed": false },
+        "mr": { "text": "अर्पण साधे आहे: अधिकृत दुकानांतून फुले, दिवे आणि धूप. आत मार्गदर्शन करण्याचे आमिष दाखवणाऱ्या अनोळखी लोकांना पैसे देऊ नका. अधिकृत काउंटर आणि फलक परिसरात आहेत.", "reviewed": false }
+      },
+      {
+        "en": "Older visitors and people who cannot walk far can ask staff at the gate about assisted routes and seating. The terraces and the path involve steps and uneven stone.",
+        "hi": { "text": "वृद्ध यात्री और अधिक न चल सकने वाले लोग प्रवेश द्वार पर कर्मचारियों से सहायक मार्ग और बैठने की व्यवस्था के बारे में पूछ सकते हैं। चबूतरों और पथ पर सीढ़ियाँ और असमान पत्थर हैं।", "reviewed": false },
+        "mr": { "text": "वृद्ध यात्रेकरू आणि जास्त चालू न शकणारे लोक प्रवेशद्वारावरील कर्मचाऱ्यांना साहाय्यक मार्ग आणि बसण्याच्या व्यवस्थेबद्दल विचारू शकतात. चौथरे आणि मार्गावर पायऱ्या आणि असमान दगड आहेत.", "reviewed": false }
+      }
+    ],
+    "online": {
+      "en": "For information only: the Bodhgaya Temple Management Committee publishes an official website with daily timings, the annual puja calendar and notices. This app does not book or sell anything. Use only the official site and check current details yourself.",
+      "hi": { "text": "केवल जानकारी के लिए: बोधगया मंदिर प्रबंधन समिति की एक आधिकारिक वेबसाइट है जिस पर दैनिक समय, वार्षिक पूजा कैलेंडर और सूचनाएँ हैं। यह ऐप कुछ भी बुक या बिक्री नहीं करता। केवल आधिकारिक साइट का उपयोग करें और वर्तमान विवरण स्वयं जाँचें।", "reviewed": false },
+      "mr": { "text": "फक्त माहितीसाठी: बोधगया मंदिर व्यवस्थापन समितीचे अधिकृत संकेतस्थळ आहे ज्यावर दैनिक वेळा, वार्षिक पूजा दिनदर्शिका आणि सूचना आहेत. हे ॲप काहीही आरक्षित किंवा विक्री करत नाही. फक्त अधिकृत संकेतस्थळ वापरा आणि सध्याचे तपशील स्वतः तपासा.", "reviewed": false }
+    }
+  }
+}
