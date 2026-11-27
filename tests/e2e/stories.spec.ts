@@ -34,10 +34,24 @@ test.describe("Story collections (D-038, D-040)", () => {
     expect(broken).toEqual([]);
   });
 
+  test("The Mahabharata has 33 chapters by parva, with the Gita at its heart (D-041)", async ({ page }) => {
+    await onboard(page, "en");
+    await page.goto("/en/calendar/stories/mahabharata/");
+    await expect(page.getByRole("heading", { level: 1 })).toHaveText("Mahabharata");
+    await expect(page.getByRole("heading", { level: 2, name: /Bhishma Parva/ })).toBeVisible();
+    await expect(page.getByTestId("club-chapters").locator(":scope > li")).toHaveCount(33);
+    await page.goto("/en/calendar/stories/mahabharata/the-bhagavad-gita/");
+    await expect(page.getByText("Chapter 22 of 33")).toBeVisible();
+    await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(6);
+    await expect(page.getByText("कर्मण्येवाधिकारस्ते", { exact: false })).toBeVisible();
+    const broken = await page.evaluate(() => [...document.images].filter((i) => i.complete && i.naturalWidth === 0).map((i) => i.src));
+    expect(broken).toEqual([]);
+  });
+
   for (const lang of ["hi", "mr"] as const) {
     test(`${lang} collection and chapter pages are translated`, async ({ page }) => {
       await onboard(page, lang);
-      for (const p of ["calendar/stories/ramayana/", "calendar/stories/ramayana/great-leap/", "calendar/stories/varkari/dnyaneshwar/"]) {
+      for (const p of ["calendar/stories/ramayana/", "calendar/stories/ramayana/great-leap/", "calendar/stories/varkari/dnyaneshwar/", "calendar/stories/mahabharata/the-bhagavad-gita/"]) {
         await page.goto(`/${lang}/${p}`);
         const text = await page.evaluate(() => {
           const out: string[] = [];

@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "bhima-meets-hanuman",
+ "order": 16,
+ "part": "vana",
+ "figure": {
+  "en": "Bhima and Hanuman",
+  "hi": {
+   "text": "भीम और हनुमान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भीम आणि हनुमान",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The old monkey and the tail no one could lift",
+  "hi": {
+   "text": "बूढ़ा वानर और वह पूँछ, जिसे कोई न उठा सका",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "म्हातारा वानर आणि कोणालाही न उचलणारी शेपटी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The strongest man on earth cannot move a monkey’s tail. The old creature lying across the forest path is no ordinary monkey.",
+  "hi": {
+   "text": "पृथ्वी का सबसे बलवान मनुष्य एक वानर की पूँछ तक नहीं हिला पाता। वन के रास्ते में लेटा वह बूढ़ा जीव कोई साधारण वानर नहीं है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पृथ्वीवरचा सर्वात बलवान माणूस एका वानराची शेपटी हलवू शकत नाही. वनवाटेवर आडवा पडलेला तो वृद्ध प्राणी सामान्य वानर नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/bhima-meets-hanuman-1.webp",
+   "w": 831,
+   "h": 1100,
+   "caption": {
+    "en": "Bhima tries to lift Hanuman's tail (Indian painting)",
+    "hi": {
+     "text": "भीम हनुमान की पूँछ उठाने का प्रयास करते हैं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीम हनुमानाचे शेपूट उचलण्याचा प्रयत्न करतो (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhima_Tries_to_Lift_Hanuman%27s_Tail.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A flower on the wind",
+    "hi": {
+     "text": "हवा में एक फूल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाऱ्यावरचे फूल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the high, cold forests of the Himalaya, where the Pandavas were wandering, a breeze blew down from the mountain. Something floated on it and landed at Draupadi’s feet. It was a flower, with a thousand petals, bright as the sun and sweet as nectar. It was a Saugandhika lotus.\n\nDraupadi lifted it and breathed in its fragrance. “How beautiful,” she whispered. “Bhima, I wish I had many of these to take to Yudhishthira, and to place before the gods.”\n\nBhima looked at her face, tired from long years of forest hardship, and his heart ached. “I will bring you as many as you want,” he said. “Wait here.”\n\nHe picked up his mace and set off at once, towards the mountain from which the breeze had come. Bhima was the strongest of the Pandavas, and when he was moved by love or anger, nothing in the world could stop him. He did not stop to think that the mountain had guardians, and that the path to the flowers was not meant for the proud.",
+    "hi": {
+     "text": "हिमालय के ऊँचे, ठंडे वनों में, जहाँ पांडव भटक रहे थे, पर्वत से एक हवा उतरी। उस पर तैरता कुछ आया और द्रौपदी के चरणों में आ गिरा। वह एक फूल था, हज़ार पंखुड़ियों वाला, सूर्य जैसा दमकता और अमृत जैसा मधुर। वह सौगंधिक कमल था।\n\nद्रौपदी ने उसे उठाया और उसकी सुगंध ली। “कितना सुंदर है,” उसने फुसफुसाकर कहा। “भीम, काश मेरे पास ऐसे बहुत सारे होते, युधिष्ठिर को देने के लिए, और देवताओं के आगे चढ़ाने के लिए।”\n\nभीम ने उसका मुख देखा, जो वन के कठिन बरसों से थका हुआ था, और उसका हृदय पीड़ा से भर गया। “जितने चाहो, मैं ला दूँगा,” उसने कहा। “तुम यहीं ठहरो।”\n\nउसने अपनी गदा उठाई और उसी क्षण उस पर्वत की ओर चल पड़ा जहाँ से हवा आई थी। भीम पांडवों में सबसे बलवान था, और जब प्रेम या क्रोध उसे प्रेरित करता, तो संसार की कोई चीज़ उसे रोक नहीं सकती थी। उसने रुककर यह नहीं सोचा कि पर्वत के रखवाले होते हैं, और फूलों तक जाने का मार्ग अभिमानियों के लिए नहीं बना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हिमालयाच्या उंच, थंड वनांत जिथे पांडव भटकत होते, तिथे पर्वतावरून एक झुळूक वाहत आली. तिच्यावर काहीतरी तरंगत आले आणि द्रौपदीच्या पायांशी येऊन पडले. ते एक फूल होते, हजार पाकळ्यांचे, सूर्यासारखे तेजस्वी आणि अमृतासारखे गोड. ते सौगंधिक कमळ होते.\n\nद्रौपदीने ते उचलले आणि त्याचा सुगंध घेतला. “किती सुंदर,” ती पुटपुटली. “भीमा, यातली पुष्कळ फुले युधिष्ठिराकडे न्यायला आणि देवांसमोर ठेवायला मला मिळाली असती तर किती बरे झाले असते.”\n\nभीमाने तिच्या चेहऱ्याकडे पाहिले, वनातल्या दीर्घ कष्टांनी थकलेला, आणि त्याचे हृदय पिळवटले. “तुला हवी तितकी मी आणीन,” तो म्हणाला. “इथे थांब.”\n\nत्याने आपली गदा उचलली आणि ज्या पर्वतावरून झुळूक आली होती त्याकडे लगेच निघाला. भीम पांडवांमध्ये सर्वात बलवान होता, आणि प्रेमाने किंवा रागाने प्रेरित झाला की जगातली कोणतीही गोष्ट त्याला थांबवू शकत नसे. पर्वताला रक्षक आहेत, आणि फुलांकडे जाणारी वाट गर्विष्ठांसाठी नाही, याचा विचार करायला तो थांबला नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Bhima storms ahead",
+    "hi": {
+     "text": "भीम आगे बढ़ता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीम धावत सुटतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Bhima plunged into the forest like a storm. Trees snapped like twigs as he passed, and elephants raised their heads and trumpeted in alarm. Lions slunk away. Birds screamed out of the branches. His roaring echoed in the valleys, and the mountain seemed to tremble.\n\nHe walked for hours, up the steep slope, through jungle and ravine, his mace over his shoulder. He was proud of his strength, and he enjoyed it.\n\nThen, all at once, he stopped. A narrow path ran through a bank of banana trees, and across it lay an old monkey, very old, grey and thin, with half-closed eyes, resting in the sun. His tail lay across the path like a rope.\n\n“Move aside, monkey,” said Bhima. “I have no time to waste.”\n\nThe monkey opened one eye lazily. “I am old and tired,” he said. “I cannot rise. Go round, or jump over me.” The forest fell silent behind him, as though the whole mountain were holding its breath to see what would come of such a proud walk.",
+    "hi": {
+     "text": "भीम तूफ़ान की तरह वन में घुस गया। उसके गुज़रते ही पेड़ तिनकों की तरह टूट गए, और हाथियों ने सिर उठाकर घबराहट में चिंघाड़ मारी। सिंह दुबककर भाग गए। डालियों से पक्षी चीखते उड़े। उसकी गर्जना घाटियों में गूँजी, और पर्वत काँपता लगा।\n\nवह घंटों चलता रहा, खड़ी ढलान पर ऊपर, जंगल और खाइयों से होकर, गदा कंधे पर रखे। उसे अपने बल पर गर्व था, और उसमें उसे आनंद आ रहा था।\n\nफिर अचानक वह रुक गया। केले के पेड़ों की कतार के बीच एक संकरा रास्ता जाता था, और उसके आर-पार एक बूढ़ा वानर लेटा था, बहुत बूढ़ा, सफ़ेद और दुबला, आधी मुँदी आँखों से धूप में पड़ा आराम करता हुआ। उसकी पूँछ रास्ते में रस्सी की तरह पड़ी थी।\n\n“हट जा, वानर,” भीम ने कहा। “मेरे पास गँवाने को समय नहीं।”\n\nवानर ने आलस से एक आँख खोली। “मैं बूढ़ा हूँ और थका हुआ,” उसने कहा। “मैं उठ नहीं सकता। घूमकर निकल जाओ, या लाँघ जाओ।” उसके पीछे वन चुप हो गया, मानो पूरा पर्वत साँस रोके देख रहा हो कि ऐसे अभिमानी चाल का क्या परिणाम होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीम वादळासारखा वनात घुसला. तो जात असताना झाडे काड्यांसारखी तुटली, आणि हत्तींनी डोके वर करून भीतीने चित्कार केले. सिंह दबक्या पावलांनी निघून गेले. पक्षी किंचाळत फांद्यांतून उडाले. त्याच्या गर्जनेचा आवाज दऱ्यांत घुमला, आणि पर्वत हादरल्यासारखा वाटला.\n\nतो तासन् तास चालला, उंच उतारावर, जंगले आणि घळ्यांतून, गदा खांद्यावर घेऊन. त्याला आपल्या बळाचा अभिमान होता, आणि तो त्याचा आनंद घेत होता.\n\nमग एकदम तो थांबला. केळीच्या झाडांच्या रांगेतून एक अरुंद वाट जात होती, आणि तिच्यावर एक वृद्ध वानर आडवा पडला होता, अत्यंत म्हातारा, राखाडी आणि कृश, अर्धे मिटलेले डोळे, उन्हात विश्रांती घेत. त्याची शेपटी वाटेवर दोरासारखी पडली होती.\n\n“बाजूला हो, वानरा,” भीम म्हणाला. “माझ्याकडे वाया घालवायला वेळ नाही.”\n\nवानराने आळसाने एक डोळा उघडला. “मी म्हातारा आणि थकलेला आहे,” तो म्हणाला. “मी उठू शकत नाही. वळसा घालून जा, किंवा माझ्यावरून उडी मारून जा.” त्याच्या मागे वन शांत झाले, इतक्या गर्विष्ठ चालीचे काय होणार ते पाहण्यासाठी जणू सारा पर्वत श्वास रोखून होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The tail",
+    "hi": {
+     "text": "पूँछ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेपटी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“I cannot step over you,” said Bhima, drawing himself up. “There is a spirit in every being, and it would not be right to jump over any creature’s body. Besides, I am in a hurry. Move your tail.”\n\nThe monkey smiled. “If you are in such a hurry, kind sir, pick up my tail and put it to one side. I am too weak to do it myself.”\n\nBhima laughed. He bent down and took hold of the tail with one hand. He pulled. It did not move.\n\nHe pulled with both hands. He planted his feet, and his face grew red. He heaved with all the strength he had, strength that had torn a tree out by its roots and broken the back of a demon, and sweat poured from his brow. The monkey’s tail stayed where it was, as if it were part of the mountain.\n\nBhima straightened, panting, and a shiver ran through him. A great fear and a great wonder rose in his heart. This was no ordinary monkey.",
+    "hi": {
+     "text": "“मैं तुम्हें लाँघ नहीं सकता,” भीम ने तनकर कहा। “हर प्राणी में परमात्मा का वास है, और किसी भी जीव की देह के ऊपर से कूदना उचित नहीं। और फिर मुझे जल्दी है। अपनी पूँछ हटाओ।”\n\nवानर मुस्कुराया। “यदि तुम्हें इतनी जल्दी है, भले पुरुष, तो मेरी पूँछ उठाकर एक ओर रख दो। मैं इतना दुर्बल हूँ कि स्वयं नहीं कर सकता।”\n\nभीम हँस पड़ा। उसने झुककर एक हाथ से पूँछ पकड़ी। उसने खींचा। वह हिली नहीं।\n\nउसने दोनों हाथों से खींचा। उसने पैर जमाए, और उसका मुख लाल पड़ गया। उसने अपनी पूरी शक्ति से ज़ोर लगाया, उस शक्ति से जिसने पेड़ों को जड़ से उखाड़ा था और एक राक्षस की कमर तोड़ी थी, और उसके माथे से पसीना बह निकला। वानर की पूँछ वहीं रही जहाँ थी, मानो वह पर्वत का ही अंग हो।\n\nभीम हाँफता हुआ सीधा खड़ा हुआ, और एक सिहरन उसके भीतर दौड़ गई। उसके हृदय में एक बड़ा भय और बड़ा विस्मय उठा। यह कोई साधारण वानर नहीं था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“मी तुझ्यावरून पाऊल टाकू शकत नाही,” भीम ताठ उभा राहत म्हणाला. “प्रत्येक प्राण्यात आत्मा असतो, आणि कोणत्याही प्राण्याच्या देहावरून उडी मारणे योग्य नाही. शिवाय मला घाई आहे. तुझी शेपटी हटव.”\n\nवानर हसला. “तुला इतकी घाई असेल, तर सद्गृहस्था, माझी शेपटी उचलून एका बाजूला ठेव. मी स्वतः ते करायला फारच अशक्त आहे.”\n\nभीम हसला. त्याने वाकून एका हाताने शेपटी धरली. त्याने ओढली. ती हलली नाही.\n\nत्याने दोन्ही हातांनी ओढली. त्याने पाय रोवले, आणि त्याचा चेहरा लाल झाला. झाड मुळासकट उपटणाऱ्या आणि राक्षसाचा कणा मोडणाऱ्या आपल्या सर्व ताकदीने त्याने जोर लावला, आणि कपाळावरून घाम वाहू लागला. वानराची शेपटी जशी होती तशीच राहिली, जणू ती पर्वताचाच भाग होती.\n\nभीम धापा टाकत ताठ झाला, आणि त्याच्या अंगावरून शहारा गेला. त्याच्या हृदयात मोठी भीती आणि मोठे आश्चर्य उमटले. हा सामान्य वानर नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Who are you?",
+    "hi": {
+     "text": "आप कौन हैं?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तुम्ही कोण आहात?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Bhima put down his mace. He folded his hands and bowed, and the pride in his chest crumbled like dry earth.\n\n“Forgive me,” he said. “I did not know. You must be a god or a divine being. Please tell me who you are.”\n\nThe old monkey sat up. His eyes were bright and kind. “I am Hanuman,” he said, “son of Vayu, the god of the wind. And so, Bhima, I am your elder brother, for you too are the wind’s son.”\n\nBhima fell on his face in joy. All his life he had heard of Hanuman, the leaper across the ocean, the servant of Rama, the burner of Lanka. He had never dreamed he would stand before him.\n\nHanuman lifted him up and embraced him. The two brothers laughed together, and the whole forest seemed to laugh with them. “You came here in such a rush,” said Hanuman gently. “I wished only to slow you down.”",
+    "hi": {
+     "text": "भीम ने गदा नीचे रख दी। उसने हाथ जोड़े और प्रणाम किया, और उसकी छाती का अभिमान सूखी मिट्टी की तरह भुरभुरा गया।\n\n“मुझे क्षमा कीजिए,” उसने कहा। “मैं नहीं जानता था। आप अवश्य कोई देवता या दिव्य पुरुष हैं। कृपया बताइए आप कौन हैं।”\n\nबूढ़ा वानर उठकर बैठ गया। उसकी आँखें उज्ज्वल और दयालु थीं। “मैं हनुमान हूँ,” उसने कहा, “वायुदेव का पुत्र। और इसलिए, भीम, मैं तुम्हारा बड़ा भाई हूँ, क्योंकि तुम भी वायु के ही पुत्र हो।”\n\nभीम हर्ष से मुँह के बल गिर पड़ा। जीवन भर उसने हनुमान के बारे में सुना था, सागर लाँघने वाले, राम के सेवक, लंका जलाने वाले। उसने कभी सपने में भी नहीं सोचा था कि वह उनके सामने खड़ा होगा।\n\nहनुमान ने उसे उठाया और गले लगा लिया। दोनों भाई साथ-साथ हँसे, और पूरा वन उनके साथ हँसता लगा। “तुम यहाँ इतनी जल्दी में आए थे,” हनुमान ने कोमलता से कहा। “मैं बस तुम्हारी गति धीमी करना चाहता था।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीमाने गदा खाली ठेवली. त्याने हात जोडून नमस्कार केला, आणि त्याच्या छातीतला अहंकार सुक्या मातीसारखा कोसळला.\n\n“मला क्षमा करा,” तो म्हणाला. “मला माहीत नव्हते. तुम्ही देव किंवा दिव्य पुरुष असणार. कृपा करून तुम्ही कोण आहात ते सांगा.”\n\nवृद्ध वानर उठून बसला. त्याचे डोळे तेजस्वी आणि दयाळू होते. “मी हनुमान आहे,” तो म्हणाला, “वायुदेवाचा पुत्र. आणि म्हणून, भीमा, मी तुझा ज्येष्ठ भाऊ आहे, कारण तूही वायूचाच पुत्र आहेस.”\n\nभीम आनंदाने साष्टांग नमस्कार करत जमिनीवर पडला. आयुष्यभर त्याने हनुमानाविषयी ऐकले होते, समुद्र ओलांडणारा, रामाचा सेवक, लंकादहन करणारा. आपण त्याच्यासमोर उभे राहू याची त्याने कधी स्वप्नातही कल्पना केली नव्हती.\n\nहनुमानाने त्याला उचलले आणि मिठी मारली. दोन्ही भाऊ एकत्र हसले, आणि सारे वनही त्यांच्याबरोबर हसल्यासारखे वाटले. “तू इतक्या घाईत इथे आलास,” हनुमान हळूच म्हणाला. “मला फक्त तुझा वेग कमी करायचा होता.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The great form",
+    "hi": {
+     "text": "विराट रूप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महान रूप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Brother,” said Bhima, “I long to see the form you took when you leapt across the sea.”\n\n“It is not a form for this age,” said Hanuman. “The age has changed, and I would not be able to show it in its fullness.” But Bhima begged, and Hanuman smiled and let his body grow.\n\nHe rose like a mountain, taller than the trees, until the forest was a carpet at his feet. His body shone with the colour of the morning sun, and the sky seemed to be held in his shoulders. Bhima shut his eyes, dazzled, and then opened them again, and could not stop staring.\n\n“It is enough,” he whispered, at last.\n\nHanuman shrank back to the shape of an old monkey. “Bhima,” he said softly, “strength is a fine thing, but it is only a gift. Use it to protect, and never to boast. One who respects the weak will never be defeated by the strong.”",
+    "hi": {
+     "text": "“भैया,” भीम ने कहा, “मेरी बड़ी इच्छा है कि मैं आपका वह रूप देखूँ जो आपने समुद्र लाँघते समय लिया था।”\n\n“वह इस युग का रूप नहीं है,” हनुमान ने कहा। “युग बदल गया है, और मैं उसे पूरा नहीं दिखा सकूँगा।” पर भीम ने विनती की, और हनुमान ने मुस्कुराकर अपनी देह बढ़ने दी।\n\nवे पर्वत की तरह उठे, वृक्षों से ऊँचे, जब तक वन उनके चरणों में कालीन बन गया। उनकी देह प्रभात के सूर्य के रंग में दमकी, और आकाश उनके कंधों पर थमा लगता था। भीम ने चौंधियाकर आँखें बंद कर लीं, फिर खोलीं, और देखना नहीं छोड़ पाया।\n\n“बस,” उसने अंत में फुसफुसाकर कहा। “काफ़ी है।”\n\nहनुमान फिर बूढ़े वानर के रूप में सिमट गए। “भीम,” उन्होंने धीरे से कहा, “बल अच्छी चीज़ है, पर वह केवल एक उपहार है। उसका प्रयोग रक्षा के लिए करो, कभी डींग के लिए नहीं। जो निर्बल का सम्मान करता है, उसे बलवान कभी नहीं हरा पाएगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“भ्राता,” भीम म्हणाला, “तुम्ही समुद्र उल्लंघताना जे रूप धारण केले होते ते पाहायची मला आस आहे.”\n\n“ते या युगाचे रूप नाही,” हनुमान म्हणाला. “युग बदलले आहे, आणि ते मी पूर्णपणे दाखवू शकणार नाही.” पण भीमाने विनवणी केली, आणि हनुमान हसला आणि त्याने आपला देह वाढू दिला.\n\nतो पर्वतासारखा उंच झाला, झाडांहून उंच, इतका की वन त्याच्या पायांशी गालिच्यासारखे दिसू लागले. त्याचा देह सकाळच्या सूर्याच्या रंगाने चमकला, आणि आकाश त्याच्या खांद्यांवर तोललेले वाटले. भीमाने दिपून डोळे मिटले, आणि मग पुन्हा उघडले, आणि तो एकटक पाहत राहिला.\n\n“पुरे,” तो शेवटी पुटपुटला.\n\nहनुमान पुन्हा वृद्ध वानराच्या रूपात आकसला. “भीमा,” तो हळूच म्हणाला, “बळ ही चांगली गोष्ट आहे, पण ती केवळ एक देणगी आहे. तिचा उपयोग रक्षणासाठी कर, कधीही बढाईसाठी नको. जो दुर्बळाचा आदर करतो त्याला बलवान कधीही हरवू शकत नाही.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The blessing",
+    "hi": {
+     "text": "आशीर्वाद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आशीर्वाद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hanuman raised his hand in blessing. “Ask me for a boon,” he said.\n\n“I only wish for your blessing,” said Bhima, still bowing.\n\n“You have it. And I will give you something more. When the great war comes, I will not fight, but I will be there. I will sit on the banner of your brother Arjuna’s chariot, and my battle-cry will shake the hearts of your enemies and give new heart to your own.”\n\nThis promise, which a popular tradition tells with love, is why the flag of Arjuna carries the image of Hanuman.\n\nHanuman then showed Bhima the path to the lake where the lotuses grew, and warned him about the guardians of the water. Bhima thanked him, touched his feet and walked on, a gentler man.\n\nHe returned to Draupadi with a bunch of Saugandhika flowers, and a story to tell, and she smiled at him with eyes full of love.",
+    "hi": {
+     "text": "हनुमान ने आशीर्वाद में हाथ उठाया। “मुझसे वर माँगो,” उन्होंने कहा।\n\n“मैं केवल आपका आशीर्वाद चाहता हूँ,” भीम ने प्रणाम करते हुए कहा।\n\n“वह तुम्हारे पास है। और मैं तुम्हें कुछ और दूँगा। जब महायुद्ध आएगा, मैं लड़ूँगा नहीं, पर वहाँ रहूँगा। मैं तुम्हारे भाई अर्जुन के रथ की ध्वजा पर बैठूँगा, और मेरी युद्ध-गर्जना तुम्हारे शत्रुओं के हृदय हिला देगी और तुम्हारे अपनों में नया साहस भर देगी।”\n\nयह वचन, जिसे एक लोकप्रिय परंपरा प्रेम से सुनाती है, इसी कारण अर्जुन की ध्वजा पर हनुमान का चित्र है।\n\nफिर हनुमान ने भीम को उस सरोवर का मार्ग दिखाया जहाँ कमल उगते थे, और उसे जल के रखवालों के बारे में चेताया। भीम ने उन्हें धन्यवाद दिया, उनके चरण छुए और आगे बढ़ गया, एक अधिक कोमल पुरुष बनकर।\n\nवह सौगंधिक फूलों का गुच्छा लेकर द्रौपदी के पास लौटा, और साथ में सुनाने को एक कथा, और वह उसे प्रेम से भरी आँखों से मुस्कुराकर देखती रही।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमानाने आशीर्वादासाठी हात उंचावला. “मला वर माग,” तो म्हणाला.\n\n“मला फक्त तुमचा आशीर्वाद हवा,” भीम नमस्कारात राहून म्हणाला.\n\n“तो तुला आहेच. आणि मी तुला आणखी काही देतो. महायुद्ध येईल तेव्हा मी लढणार नाही, पण मी तिथे असेन. मी तुझा भाऊ अर्जुनाच्या रथाच्या ध्वजावर बसेन, आणि माझी रणगर्जना तुझ्या शत्रूंची हृदये हादरवेल आणि तुमच्या स्वतःच्यांना नवे बळ देईल.”\n\nएक लोकप्रिय परंपरा प्रेमाने सांगते त्या या वचनामुळेच अर्जुनाच्या ध्वजावर हनुमानाची प्रतिमा असते.\n\nमग हनुमानाने भीमाला कमळे उगवत असलेल्या सरोवराची वाट दाखवली, आणि पाण्याच्या रक्षकांविषयी त्याला सावध केले. भीमाने त्याचे आभार मानले, त्याच्या पायांना स्पर्श केला आणि तो पुढे चालला, एक अधिक सौम्य माणूस होऊन.\n\nतो द्रौपदीकडे सौगंधिक फुलांचा गुच्छ आणि सांगायला एक कथा घेऊन परतला, आणि तिने प्रेमाने भरलेल्या डोळ्यांनी त्याच्याकडे पाहून स्मित केले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Bhima thought nothing could stop him, until a tired old monkey showed him that strength has its limits. Where have you been walking too fast? Today, slow down in one place and see what you were missing.",
+  "hi": {
+   "text": "भीम सोचता था कि उसे कोई रोक नहीं सकता, जब तक एक थके बूढ़े वानर ने दिखाया कि बल की भी सीमा होती है। आप कहाँ बहुत तेज़ चल रहे हैं? आज किसी एक जगह धीमे हो जाइए और देखिए आप क्या चूक रहे थे।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भीमाला वाटले की त्याला कोणीही थांबवू शकत नाही, पण एका थकलेल्या म्हाताऱ्या वानराने त्याला दाखवून दिले की बळालाही मर्यादा असतात. तुम्ही कुठे फारच घाईने चालत आहात? आज एके ठिकाणी वेग कमी करा आणि तुम्ही काय चुकवत होता ते पाहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Real strength is gentle and knows that something greater lies behind every humble face.",
+  "hi": {
+   "text": "सच्चा बल कोमल होता है, और जानता है कि हर विनम्र चेहरे के पीछे कोई बड़ी शक्ति हो सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरे बळ सौम्य असते, आणि प्रत्येक नम्र चेहऱ्यामागे काहीतरी अधिक थोर असू शकते हे ते जाणते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Vana Parva (Tirthayatra Parva); Hanuman’s promise to sit on Arjuna’s banner is a beloved tradition",
+  "hi": {
+   "text": "महाभारत, वन पर्व (तीर्थयात्रा पर्व); अर्जुन की ध्वजा पर बैठने का हनुमान का वचन एक प्रिय परंपरा है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, वनपर्व (तीर्थयात्रापर्व); हनुमानाने अर्जुनाच्या ध्वजावर बसण्याचे दिलेले वचन ही लाडकी परंपरा आहे",
+   "reviewed": false
+  }
+ }
+}

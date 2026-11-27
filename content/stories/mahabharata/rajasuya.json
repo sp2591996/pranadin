@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "rajasuya",
+ "order": 11,
+ "part": "sabha",
+ "figure": {
+  "en": "Krishna and Shishupala",
+  "hi": {
+   "text": "कृष्ण और शिशुपाल",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि शिशुपाल",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "A hundred insults, and one more",
+  "hi": {
+   "text": "सौ अपमान, और एक और",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शंभर अपमान, आणि आणखी एक",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "At the greatest ceremony of Yudhishthira’s life, a proud king pours out insult after insult at Krishna. Krishna smiles and counts.",
+  "hi": {
+   "text": "युधिष्ठिर के जीवन के सबसे बड़े समारोह में एक अभिमानी राजा कृष्ण पर अपमान पर अपमान बरसाता है। कृष्ण मुस्कुराते हैं और गिनते जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युधिष्ठिराच्या आयुष्यातील सर्वात मोठ्या सोहळ्यात एक गर्विष्ठ राजा श्रीकृष्णावर अपमानामागून अपमान ओततो. श्रीकृष्ण हसतात आणि मोजत राहतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/indraprastha-1.webp",
+   "w": 480,
+   "h": 640,
+   "caption": {
+    "en": "The five Pandavas with Draupadi (Indian bazaar print)",
+    "hi": {
+     "text": "द्रौपदी के साथ पाँचों पांडव (भारतीय बाज़ार चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदीसोबत पाच पांडव (भारतीय बाजार चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "bazaar art, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_five_Pandavas_with_Draupadi.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The giant of Magadha",
+    "hi": {
+     "text": "मगध का दानव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मगधाचा राक्षसी राजा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the height of his glory, Yudhishthira wished to perform the Rajasuya, the ritual that would make him emperor of all kings. But the sage Narada and Krishna warned him: there was one king who stood in the way. Jarasandha of Magadha, so strong that he had been born in two halves that a demoness joined together, held many kings captive in his dungeon, ready to offer to a god.\n\n“We must free them first,” said Krishna.\n\nKrishna, Bhima and Arjuna set out for Magadha disguised as brahmins. They entered the palace and, once inside, revealed themselves. Jarasandha, a man of honour, said he would duel any of them. Krishna chose Bhima.\n\nThe two giants met in a clearing, and for thirteen days and nights they wrestled. The earth cracked and the trees fell. On the fourteenth day, Krishna picked up a twig, split it in two and threw the halves in opposite directions. Bhima understood. He tore Jarasandha in half and threw the pieces apart so they could not join again.",
+    "hi": {
+     "text": "अपने वैभव के शिखर पर युधिष्ठिर ने राजसूय करना चाहा, वह यज्ञ जो उन्हें सब राजाओं का सम्राट बना देता। पर ऋषि नारद और कृष्ण ने उन्हें चेताया: एक राजा रास्ते में खड़ा था। मगध का जरासंध, इतना बलवान कि वह दो टुकड़ों में जन्मा था जिन्हें एक राक्षसी ने जोड़ा था, उसने अनेक राजाओं को अपने कारागार में बंदी बना रखा था, किसी देवता को बलि चढ़ाने के लिए।\n\n“पहले हमें उन्हें मुक्त कराना होगा,” कृष्ण ने कहा।\n\nकृष्ण, भीम और अर्जुन ब्राह्मणों का वेश बनाकर मगध गए। वे महल में घुसे और भीतर पहुँचकर अपना रूप प्रकट कर दिया। जरासंध ने, जो मर्यादा वाला पुरुष था, कहा कि वह उनमें से किसी से भी द्वंद्व करेगा। कृष्ण ने भीम को चुना।\n\nदोनों विशाल योद्धा एक मैदान में भिड़े, और तेरह दिन और रात कुश्ती लड़ते रहे। धरती फटी और पेड़ गिर पड़े। चौदहवें दिन कृष्ण ने एक तिनका उठाया, उसे दो फाड़ किया और दोनों टुकड़े उलटी दिशाओं में फेंक दिए। भीम समझ गया। उसने जरासंध को चीर दिया और टुकड़ों को दूर-दूर फेंक दिया ताकि वे फिर न जुड़ सकें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपल्या वैभवाच्या शिखरावर युधिष्ठिराला राजसूय यज्ञ करायचा होता, ज्यामुळे तो सर्व राजांचा सम्राट झाला असता. पण नारद ऋषी आणि श्रीकृष्णांनी त्याला सावध केले: वाटेत एक राजा उभा होता. मगधाचा जरासंध, जो इतका बलवान होता की तो दोन तुकड्यांत जन्मला होता आणि एका राक्षसीने ते जोडले होते, याने अनेक राजांना आपल्या कारागृहात डांबून ठेवले होते, एका देवाला अर्पण करण्यासाठी.\n\n“आधी आपल्याला त्यांना मुक्त करायला हवे,” श्रीकृष्ण म्हणाले.\n\nश्रीकृष्ण, भीम आणि अर्जुन ब्राह्मणांच्या वेशात मगधाकडे निघाले. ते राजवाड्यात शिरले आणि आत गेल्यावर त्यांनी स्वतःला प्रकट केले. जरासंध, सन्मानाने वागणारा माणूस, म्हणाला की तो त्यांपैकी कोणाशीही द्वंद्व करेल. श्रीकृष्णांनी भीमाची निवड केली.\n\nदोन महाकाय पुरुष एका मोकळ्या जागेत भिडले, आणि तेरा दिवस आणि रात्री ते कुस्ती खेळले. भूमी फाटली आणि झाडे कोसळली. चौदाव्या दिवशी श्रीकृष्णांनी एक काडी उचलली, तिचे दोन तुकडे केले आणि दोन्ही अर्धे उलट दिशांना फेकले. भीमाला समजले. त्याने जरासंधाला मधोमध फाडले आणि तुकडे वेगळ्या दिशांना फेकले, म्हणजे ते पुन्हा जुळू शकणार नाहीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The great ceremony",
+    "hi": {
+     "text": "महा समारोह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महान सोहळा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The captive kings were freed and wept in gratitude. They came to Indraprastha with gifts of gold and jewels to honour Yudhishthira. The Rajasuya was held with great splendour. Priests chanted, fires burned, and thousands of guests were fed.\n\nThe hall of Maya glittered with kings from every corner of the land. Elephants trumpeted, drums rolled, and the air smelled of sandalwood.\n\nThen came the moment for the first honour. In this ceremony, the most worthy guest must be given the first offering, the arghya. Yudhishthira turned to his grandfather Bhishma for advice.\n\n“There is one in this hall,” said Bhishma, “who shines among the kings as the sun among the stars. It is Krishna.” Sahadeva stood and placed the offering at Krishna’s feet. The hall filled with the sound of cheering. And then, from the back of the hall, a voice rang out like a whip cracking. Even the dust seemed to glitter in the sunlight. Yudhishthira walked among his guests with folded hands, humble in the middle of all his glory, and every king who met him felt welcomed.",
+    "hi": {
+     "text": "बंदी राजा मुक्त हुए और कृतज्ञता से रो पड़े। वे युधिष्ठिर का सम्मान करने सोने और रत्नों की भेंटें लेकर इंद्रप्रस्थ आए। राजसूय बड़ी शोभा से हुआ। पुरोहित मंत्र पढ़ते थे, अग्नियाँ जलती थीं, और हज़ारों अतिथियों को भोजन कराया गया।\n\nमय की सभा देश के हर कोने से आए राजाओं से जगमगा रही थी। हाथी चिंघाड़ रहे थे, नगाड़े बज रहे थे, और हवा में चंदन की सुगंध थी।\n\nफिर पहले सम्मान का क्षण आया। इस समारोह में सबसे योग्य अतिथि को पहली भेंट, अर्घ्य, दी जाती है। युधिष्ठिर ने सलाह के लिए अपने पितामह भीष्म की ओर देखा।\n\n“इस सभा में एक हैं,” भीष्म ने कहा, “जो राजाओं में ऐसे दमकते हैं जैसे तारों में सूर्य। वे कृष्ण हैं।” सहदेव ने उठकर भेंट कृष्ण के चरणों में रख दी। सभा जयकार से भर गई। और तभी सभा के पीछे से चाबुक की फटकार जैसी एक आवाज़ गूँजी। धूल भी धूप में चमकती लग रही थी। युधिष्ठिर हाथ जोड़े अतिथियों के बीच घूम रहे थे, अपने सारे वैभव के बीच विनम्र, और जो भी राजा उनसे मिला, उसने स्वागत पाया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बंदिवान राजे मुक्त झाले आणि कृतज्ञतेने रडले. युधिष्ठिराचा सन्मान करण्यासाठी ते सोन्या-रत्नांच्या भेटी घेऊन इंद्रप्रस्थाला आले. राजसूय मोठ्या थाटात पार पडला. पुरोहितांनी मंत्र म्हटले, अग्नी पेटला, आणि हजारो पाहुण्यांना भोजन दिले गेले.\n\nमयाची सभा देशाच्या प्रत्येक कोपऱ्यातील राजांनी झगमगली. हत्ती चित्कारले, ढोल दुमदुमले, आणि हवेत चंदनाचा सुगंध पसरला.\n\nमग पहिल्या सन्मानाचा क्षण आला. या सोहळ्यात सर्वात योग्य पाहुण्याला पहिले अर्घ्य द्यायचे असते. युधिष्ठिराने सल्ल्यासाठी आपल्या पितामह भीष्मांकडे पाहिले.\n\n“या सभेत एक असा आहे,” भीष्म म्हणाले, “जो राजांमध्ये ताऱ्यांमधील सूर्यासारखा तळपतो. तो श्रीकृष्ण आहे.” सहदेव उभा राहिला आणि त्याने अर्घ्य श्रीकृष्णांच्या चरणी ठेवले. सभागृह जयघोषाने भरून गेले. आणि मग सभेच्या मागून चाबूक फटकारल्यासारखा एक आवाज घुमला. सूर्यप्रकाशात धूळही चमकल्यासारखी वाटली. युधिष्ठिर हात जोडून पाहुण्यांमध्ये फिरत होता, सगळ्या वैभवाच्या मध्येही नम्र, आणि त्याला भेटलेल्या प्रत्येक राजाला आपले स्वागत झाल्यासारखे वाटले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Shishupala speaks",
+    "hi": {
+     "text": "शिशुपाल बोलता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिशुपाल बोलतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "It was Shishupala, king of Chedi, Krishna’s own cousin. He rose in a fury.\n\n“Shame on you all!” he shouted. “Krishna is not a king. He is a cowherd and a thief. How can he be honoured above the great kings of the earth? And you, Bhishma, old man, you have lost your mind.”\n\nHe went on and on, calling Krishna a coward, a cheat and a runaway, and mocking his childhood in the cowherd village. Yudhishthira begged him to stop. Bhishma said quietly, “He who does not honour Krishna is blind.”\n\nShishupala laughed. He turned and spat out his words at Krishna himself.\n\nAnd Krishna, seated among the kings, only smiled. His face was gentle and his eyes were calm. The hall watched in wonder. The more the king raged, the quieter Krishna became. It was as if he were listening to a distant song. The hall had never heard such words spoken against a guest of honour. Many watched Krishna’s calm and felt, in their hearts, the first stir of dread at what a proud man was about to do.",
+    "hi": {
+     "text": "वह चेदि का राजा शिशुपाल था, स्वयं कृष्ण का भाई। वह क्रोध में उठ खड़ा हुआ।\n\n“तुम सब पर धिक्कार है!” वह चिल्लाया। “कृष्ण राजा नहीं है। वह ग्वाला और चोर है। उसे धरती के महान राजाओं से ऊपर सम्मान कैसे दिया जा सकता है? और भीष्म, बूढ़े, तुम्हारी बुद्धि मारी गई है।”\n\nवह बोलता चला गया, कृष्ण को कायर, छली और भगोड़ा कहता हुआ, और ग्वालों के गाँव में उनके बचपन का उपहास करता हुआ। युधिष्ठिर ने उससे रुकने की विनती की। भीष्म ने शांति से कहा, “जो कृष्ण का सम्मान नहीं करता, वह अंधा है।”\n\nशिशुपाल हँसा। वह मुड़ा और अपने शब्द स्वयं कृष्ण के मुँह पर थूक दिए।\n\nऔर कृष्ण, राजाओं के बीच बैठे, बस मुस्कुराते रहे। उनका मुख कोमल था और आँखें शांत। सभा चकित देखती रही। राजा जितना गरजता, कृष्ण उतने ही शांत होते जाते। मानो वे कोई दूर का गीत सुन रहे हों। सभा ने किसी सम्मानित अतिथि के विरुद्ध ऐसे शब्द पहले कभी नहीं सुने थे। बहुतों ने कृष्ण की शांति को देखा और अपने हृदय में उस भय की पहली सिहरन महसूस की जो एक अभिमानी पुरुष के हाथों होने वाला था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो शिशुपाल होता, चेदीचा राजा, श्रीकृष्णाचा स्वतःचा आत्तेभाऊ. तो संतापाने उभा राहिला.\n\n“तुम्हा सर्वांना लाज वाटली पाहिजे!” तो ओरडला. “कृष्ण राजा नाही. तो गुराखी आणि चोर आहे. पृथ्वीवरील महान राजांपेक्षा त्याचा सन्मान कसा होऊ शकतो? आणि भीष्मा, म्हाताऱ्या, तुझी बुद्धी गेली आहे.”\n\nतो बोलतच राहिला, श्रीकृष्णाला भित्रा, फसवणूक करणारा आणि पळपुटा म्हणत, आणि गुराख्यांच्या गावातल्या त्याच्या बालपणाची थट्टा करत. युधिष्ठिराने त्याला थांबायची विनंती केली. भीष्म शांतपणे म्हणाले, “जो श्रीकृष्णाचा सन्मान करत नाही तो अंध आहे.”\n\nशिशुपाल हसला. तो वळला आणि त्याने शब्द थेट श्रीकृष्णावरच थुंकले.\n\nआणि श्रीकृष्ण, राजांमध्ये बसलेले, फक्त हसले. त्यांचा चेहरा सौम्य होता आणि डोळे शांत. सभा आश्चर्याने पाहत राहिली. राजा जितका संतापला तितके श्रीकृष्ण अधिक शांत होत गेले. जणू ते एखादे दूरचे गीत ऐकत होते. सन्माननीय पाहुण्याविरुद्ध असे शब्द सभेने कधीच ऐकले नव्हते. अनेकांनी श्रीकृष्णांची शांतता पाहिली आणि एका गर्विष्ठ माणसाच्या हातून काय घडणार आहे याच्या भीतीची पहिली थरथर त्यांच्या हृदयात उमटली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A mother’s promise",
+    "hi": {
+     "text": "माँ का वचन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मातेला दिलेले वचन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna’s patience had a reason. Years before, when Shishupala was born in Chedi with three eyes and four arms, a voice from heaven announced that when the right man placed him on his lap, the extra eyes and arms would vanish, and that man would one day be his killer.\n\nThe mother, Krishna’s aunt, had taken the baby to every guest. When Krishna lifted him, the baby’s extra arms and eye disappeared. The mother, weeping, begged Krishna: “Spare my son.”\n\nKrishna said gently, “Aunt, I will forgive a hundred insults from him. But if he goes beyond that, I cannot spare him.”\n\nNow, in the hall, he had been counting. His face did not change. He let each insult pass over him like the wind over a mountain, forgiving every time, giving a man every chance to turn back.\n\nBut Shishupala’s mouth would not close. He went on, and on, and on. The ninety-ninth. The hundredth.",
+    "hi": {
+     "text": "कृष्ण के धैर्य का एक कारण था। बरसों पहले जब शिशुपाल चेदि में तीन आँखों और चार भुजाओं के साथ जन्मा था, तो आकाशवाणी हुई थी कि जब सही व्यक्ति उसे गोद में लेगा, तो अतिरिक्त आँख और भुजाएँ लुप्त हो जाएँगी, और वही व्यक्ति एक दिन उसका वध करेगा।\n\nउसकी माता, कृष्ण की बुआ, बच्चे को हर अतिथि के पास ले गई थीं। जब कृष्ण ने उसे उठाया, तो बच्चे की अतिरिक्त भुजाएँ और आँख गायब हो गईं। माँ ने रोते हुए कृष्ण से विनती की: “मेरे पुत्र को बख़्श देना।”\n\nकृष्ण ने कोमलता से कहा, “बुआ, मैं उसके सौ अपमान क्षमा करूँगा। पर यदि वह उससे आगे गया, तो मैं उसे नहीं बख़्श सकता।”\n\nअब सभा में वे गिन रहे थे। उनका चेहरा नहीं बदला। उन्होंने हर अपमान को अपने ऊपर से ऐसे गुज़र जाने दिया जैसे पर्वत पर से हवा, हर बार क्षमा करते हुए, इस मनुष्य को लौट आने का हर अवसर देते हुए।\n\nपर शिशुपाल का मुँह बंद नहीं होता था। वह बोलता गया, बोलता गया, बोलता गया। निन्यानवाँ। सौवाँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाच्या संयमाला कारण होते. वर्षांपूर्वी, शिशुपाल चेदीमध्ये तीन डोळे आणि चार हात घेऊन जन्मला तेव्हा आकाशवाणीने सांगितले होते की योग्य पुरुषाने त्याला मांडीवर घेतले की अतिरिक्त डोळे आणि हात नाहीसे होतील, आणि तोच पुरुष एके दिवशी त्याचा मारेकरी होईल.\n\nश्रीकृष्णाची आत्या असलेली त्याची माता बाळाला प्रत्येक पाहुण्याकडे घेऊन गेली होती. श्रीकृष्णाने त्याला उचलले तेव्हा बाळाचे अतिरिक्त हात आणि डोळा नाहीसा झाला. रडत माता श्रीकृष्णाला म्हणाली: “माझ्या मुलाला वाचव.”\n\nश्रीकृष्ण हळूच म्हणाले, “आत्ये, मी याचे शंभर अपमान क्षमा करीन. पण त्याने त्याहून अधिक केले, तर मी त्याला सोडू शकणार नाही.”\n\nआता सभेत ते मोजत होते. त्यांचा चेहरा बदलला नाही. पर्वतावरून वारा जावा तसा प्रत्येक अपमान त्यांच्यावरून निघून जाऊ दिला, प्रत्येक वेळी क्षमा करत, माणसाला परतण्याची प्रत्येक संधी देत.\n\nपण शिशुपालाचे तोंड बंद होत नव्हते. तो बोलतच राहिला, आणि बोलतच राहिला. नव्व्याण्णवावा. शंभरावा.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The hundred and first",
+    "hi": {
+     "text": "एक सौ एकवाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकशे एकवा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The hall hushed. Even the torches seemed to burn lower. Krishna looked up.\n\n“Shishupala,” he said, in a voice that carried to every corner, “I have borne a hundred of your insults for my aunt’s sake. This one is the hundred and first.”\n\nShishupala laughed in scorn and drew his sword. “I am not afraid of you, cowherd.”\n\nKrishna raised his hand. The blazing discus Sudarshana, shining like a small sun, leaped into his palm and then flashed across the hall. It struck Shishupala, and a light, bright as lightning, rose from his body and entered Krishna’s own. The king was gone.\n\nSome say it was a mercy, for his anger had been a chain, and at last he was free. The hall let out its breath. Not a king spoke. Yudhishthira bowed to his friend with folded hands, and the ceremony went on to its end. The torch-flames bent in a sudden wind, and for the length of one breath no one in the great hall moved or spoke. It was the stillness before a lightning stroke, and everyone could feel it.",
+    "hi": {
+     "text": "सभा में सन्नाटा छा गया। मशालें भी जैसे मद्धम पड़ गईं। कृष्ण ने ऊपर देखा।\n\n“शिशुपाल,” उन्होंने कहा, ऐसी वाणी में जो हर कोने तक पहुँची, “मैंने अपनी बुआ के लिए तुम्हारे सौ अपमान सहे। यह एक सौ एकवाँ है।”\n\nशिशुपाल ने तिरस्कार से हँसकर तलवार खींच ली। “मैं तुझसे नहीं डरता, ग्वाले।”\n\nकृष्ण ने हाथ उठाया। दहकता सुदर्शन चक्र, छोटे सूर्य की तरह चमकता, उनकी हथेली में आ गया और फिर सभा के आर-पार कौंध गया। उसने शिशुपाल को मारा, और उसके शरीर से बिजली जैसी चमकती एक ज्योति उठी और कृष्ण में समा गई। राजा चला गया।\n\nकुछ कहते हैं यह दया थी, क्योंकि उसका क्रोध एक बेड़ी था, और अब वह अंत में मुक्त हो गया। सभा ने साँस छोड़ी। कोई राजा नहीं बोला। युधिष्ठिर ने हाथ जोड़कर अपने मित्र को प्रणाम किया, और समारोह अपने अंत तक चलता रहा। मशाल की लौ अचानक आई हवा में झुक गई, और एक साँस भर के लिए उस विशाल सभा में कोई हिला या बोला नहीं। यह बिजली गिरने से पहले की निस्तब्धता थी, और सबको उसका आभास हो रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सभा स्तब्ध झाली. मशालीही जणू मंद जळू लागल्या. श्रीकृष्णांनी वर पाहिले.\n\n“शिशुपाला,” ते प्रत्येक कोपऱ्यापर्यंत पोहोचेल अशा आवाजात म्हणाले, “मी माझ्या आत्येसाठी तुझे शंभर अपमान सहन केले. हा एकशे एकवा आहे.”\n\nशिशुपाल तिरस्काराने हसला आणि त्याने तलवार उपसली. “मला तुझी भीती वाटत नाही, गुराख्या.”\n\nश्रीकृष्णांनी हात उंचावला. तेजस्वी सुदर्शन चक्र, एखाद्या छोट्या सूर्यासारखे चमकत, त्यांच्या तळहातावर आले आणि मग सभेतून झेपावले. ते शिशुपालाला लागले, आणि विजेसारखा तेजस्वी प्रकाश त्याच्या देहातून उठून श्रीकृष्णांमध्येच विलीन झाला. राजा नाहीसा झाला.\n\nकाही जण म्हणतात की ती दया होती, कारण त्याचा राग हा एक साखळदंड होता, आणि शेवटी तो मुक्त झाला. सभेने श्वास सोडला. एकही राजा बोलला नाही. युधिष्ठिराने आपल्या मित्राला हात जोडून नमस्कार केला, आणि सोहळा शेवटापर्यंत चालू राहिला. अचानक आलेल्या वाऱ्यात मशालींच्या ज्वाला वाकल्या, आणि एका श्वासाइतका वेळ त्या महान सभेत कोणीही हलले नाही की बोलले नाही. ती विजेच्या कडकडाटापूर्वीची निःस्तब्धता होती, आणि प्रत्येकाला ती जाणवली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The seed of envy",
+    "hi": {
+     "text": "ईर्ष्या का बीज",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्सराचे बीज",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Rajasuya ended in glory. Gifts were given and blessings received. Yudhishthira was now emperor of the earth, and his palace the wonder of the world.\n\nBut in a corner of the hall, one man did not rejoice. Duryodhana watched the flow of treasure, the bowing kings, the praise heaped upon his cousins, and the wound from the hall of illusions opened again. His face grew grey.\n\nHe had seen a hundred kings fall silent at the sight of one man’s anger, and then rejoice at one man’s victory. He had watched Krishna’s quiet power. He had also seen that no man is safe once he lets pride speak louder than wisdom.\n\nSadly, the lesson passed him by. He turned in his heart toward Shakuni’s offer, and began to plan. Krishna looked at him once, across the hall, with calm, open eyes. A long road stretched ahead for them all.",
+    "hi": {
+     "text": "राजसूय वैभव के साथ संपन्न हुआ। उपहार दिए गए और आशीर्वाद मिले। युधिष्ठिर अब पृथ्वी के सम्राट थे, और उनका महल संसार का आश्चर्य।\n\nपर सभा के एक कोने में एक पुरुष प्रसन्न नहीं था। दुर्योधन ने धन का प्रवाह देखा, झुकते राजा देखे, अपने भाइयों पर बरसती प्रशंसा देखी, और भ्रम की सभा का घाव फिर खुल गया। उसका मुख राख जैसा हो गया।\n\nउसने देखा था कि सौ राजा एक पुरुष के क्रोध को देखकर चुप हो गए, और फिर एक पुरुष की विजय पर हर्षित हुए। उसने कृष्ण की शांत शक्ति देखी थी। यह भी देखा था कि जब अभिमान बुद्धि से ऊँचा बोलने लगे, तो कोई भी सुरक्षित नहीं रहता।\n\nदुर्भाग्य से सीख उसके पास से गुज़र गई। उसका मन शकुनि के प्रस्ताव की ओर मुड़ गया, और वह योजना बनाने लगा। कृष्ण ने सभा के उस पार एक बार उसे देखा, शांत, खुली आँखों से। उन सबके सामने एक लंबा मार्ग फैला था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजसूय वैभवात संपला. भेटी दिल्या गेल्या आणि आशीर्वाद मिळाले. युधिष्ठिर आता पृथ्वीचा सम्राट होता, आणि त्याचा महाल जगाचे आश्चर्य होता.\n\nपण सभेच्या एका कोपऱ्यात एक माणूस आनंदी नव्हता. दुर्योधनाने खजिन्याचा ओघ, झुकणारे राजे, आणि चुलत भावांवर होणारी स्तुतीची बरसात पाहिली, आणि भासांच्या सभागृहातली जखम पुन्हा उघडली. त्याचा चेहरा राखाडी झाला.\n\nएका माणसाच्या रागापुढे शंभर राजे गप्प होताना, आणि मग एका माणसाच्या विजयाने आनंदित होताना त्याने पाहिले होते. त्याने श्रीकृष्णाचे शांत सामर्थ्य पाहिले होते. त्याने हेही पाहिले होते की अभिमानाला शहाणपणापेक्षा मोठ्याने बोलू दिले की कोणताही माणूस सुरक्षित राहत नाही.\n\nदुर्दैवाने तो धडा त्याच्या लक्षात आला नाही. त्याचे मन शकुनीच्या प्रस्तावाकडे वळले, आणि त्याने योजना आखायला सुरुवात केली. श्रीकृष्णांनी सभेच्या पलीकडून शांत, खुल्या डोळ्यांनी त्याच्याकडे एकदा पाहिले. त्या सर्वांसमोर एक लांब वाट पसरली होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Krishna waited, forgave and gave Shishupala every chance. Who has tried your patience lately? Today, answer one irritation with a calm word and see what happens.",
+  "hi": {
+   "text": "कृष्ण ने प्रतीक्षा की, क्षमा किया और शिशुपाल को हर अवसर दिया। हाल में किसने आपके धैर्य की परीक्षा ली? आज किसी एक खीझ का उत्तर शांत शब्द से दीजिए और देखिए क्या होता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्णांनी वाट पाहिली, क्षमा केली आणि शिशुपालाला प्रत्येक संधी दिली. अलीकडे कोणी तुमचा संयम पाहिला? आज एखाद्या चिडवणाऱ्या गोष्टीला शांत शब्दात उत्तर द्या आणि काय होते ते पाहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Patience is not weakness, and even a hundred chances to change are still a chance.",
+  "hi": {
+   "text": "धैर्य दुर्बलता नहीं है, और बदलने के सौ अवसर भी एक अवसर ही होते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संयम ही दुर्बलता नाही, आणि बदलण्याच्या शंभर संधीसुद्धा तरीही एक संधीच असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Sabha Parva (Rajasuya and Shishupalavadha Parva)",
+  "hi": {
+   "text": "महाभारत, सभा पर्व (राजसूय और शिशुपालवध पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, सभापर्व (राजसूय आणि शिशुपालवधपर्व)",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "savitri",
+ "order": 17,
+ "part": "vana",
+ "figure": {
+  "en": "Savitri",
+  "hi": {
+   "text": "सावित्री",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सावित्री",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The woman who followed Death",
+  "hi": {
+   "text": "वह स्त्री, जो मृत्यु के पीछे चली",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मृत्यूच्या मागे चालणारी स्त्री",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A princess chooses the man she loves, knowing he has only one year to live. When the year ends, she walks into the forest and follows Death himself.",
+  "hi": {
+   "text": "एक राजकुमारी उस पुरुष को चुनती है जिससे वह प्रेम करती है, यह जानते हुए कि उसके पास जीने को केवल एक वर्ष है। जब वर्ष पूरा होता है, तो वह वन में जाती है और स्वयं यमराज के पीछे चल पड़ती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक राजकन्या आपल्या प्रिय पुरुषाला निवडते, हे जाणून की त्याच्या आयुष्याचे फक्त एक वर्ष उरले आहे. वर्ष संपते तेव्हा ती वनात जाते आणि साक्षात यमाच्या मागे चालू लागते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/savitri-1.webp",
+   "w": 400,
+   "h": 550,
+   "caption": {
+    "en": "Savitri pleads with Yama for Satyavan's life (Raja Ravi Varma)",
+    "hi": {
+     "text": "सावित्री सत्यवान के प्राणों के लिए यम से विनती करती हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सावित्री सत्यवानाच्या प्राणांसाठी यमाला विनवते (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma and A.K. Joshi &amp; co.Bombay, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Savitri_and_Satyavan.jpg"
+  },
+  {
+   "src": "/stories/mahabharata/savitri-2.webp",
+   "w": 420,
+   "h": 573,
+   "caption": {
+    "en": "Savitri, Satyavan and Yama (M. V. Dhurandhar, 1924)",
+    "hi": {
+     "text": "सावित्री, सत्यवान और यम (एम. वी. धुरंधर, 1924)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सावित्री, सत्यवान आणि यम (म. वि. धुरंधर, 1924)",
+     "reviewed": false
+    }
+   },
+   "credit": "M. V. Dhurandhar, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Savitri,_Satyavan_%26_Yama_by_M._V._Dhurandhar_1924.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Yudhishthira’s sorrow",
+    "hi": {
+     "text": "युधिष्ठिर का दुख",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युधिष्ठिराचे दुःख",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One evening in the forest, Yudhishthira sat with his head in his hands. “My brothers suffer,” he said to the sage Markandeya. “Draupadi suffers. Has any woman ever endured such a trial for her husband?”\n\nMarkandeya smiled gently. “Listen, O king, to the story of Savitri.”\n\nIn the land of Madra, there lived a king named Ashvapati, who had no children. For eighteen years he prayed to the goddess Savitri, until at last she appeared and promised him a daughter. The girl was born, and he named her Savitri after the goddess.\n\nShe grew into a young woman so radiant that no prince dared to ask for her hand, as though her light were too bright for ordinary men. At last her father said, “Child, go out and choose a husband for yourself.” She mounted a golden chariot with her elders and set out to visit the holy places and the forests.",
+    "hi": {
+     "text": "वन में एक शाम युधिष्ठिर सिर हाथों में लिए बैठे थे। “मेरे भाई दुख पा रहे हैं,” उन्होंने ऋषि मार्कंडेय से कहा। “द्रौपदी दुख पा रही है। क्या किसी स्त्री ने कभी अपने पति के लिए ऐसी परीक्षा सही है?”\n\nमार्कंडेय कोमलता से मुस्कुराए। “सुनिए, राजन्, सावित्री की कथा।”\n\nमद्र देश में अश्वपति नाम का एक राजा रहता था, जिसकी कोई संतान नहीं थी। अठारह वर्ष उसने देवी सावित्री की प्रार्थना की, जब तक अंत में वे प्रकट नहीं हुईं और उसे पुत्री का वचन दिया। कन्या का जन्म हुआ, और उसने देवी के नाम पर उसका नाम सावित्री रखा।\n\nवह इतनी दमकती युवती बनी कि किसी राजकुमार का साहस न हुआ कि उसका हाथ माँगे, मानो उसकी ज्योति साधारण पुरुषों के लिए बहुत प्रखर थी। आख़िर उसके पिता ने कहा, “बेटी, जाओ और अपने लिए स्वयं पति चुन लो।” वह बड़ों के साथ सुनहरे रथ पर चढ़ी और तीर्थों और वनों के दर्शन को निकल पड़ी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनात एका संध्याकाळी युधिष्ठिर डोके हातात धरून बसला होता. “माझे भाऊ दुःख भोगतात,” तो मार्कंडेय ऋषींना म्हणाला. “द्रौपदी दुःख भोगते. आपल्या पतीसाठी अशी परीक्षा कोणत्याही स्त्रीने कधी सहन केली आहे का?”\n\nमार्कंडेय सौम्यपणे हसले. “राजा, सावित्रीची कथा ऐक.”\n\nमद्र देशात अश्वपती नावाचा राजा राहत होता, ज्याला संतान नव्हते. अठरा वर्षे त्याने सावित्री देवीची प्रार्थना केली, आणि शेवटी तिने प्रकट होऊन त्याला कन्येचे वचन दिले. मुलगी जन्मली, आणि त्याने तिचे नाव देवीच्या नावावरून सावित्री ठेवले.\n\nती इतकी तेजस्वी तरुणी झाली की कोणत्याही राजपुत्राला तिचा हात मागण्याचे धाडस झाले नाही, जणू तिचे तेज सामान्य पुरुषांना सहन होण्यासारखे नव्हते. शेवटी तिचे वडील म्हणाले, “बाळ, जा आणि स्वतःसाठी पती निवड.” ती वडीलधाऱ्यांसह सोनेरी रथात बसली आणि तीर्थस्थळे आणि वने पाहायला निघाली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The choice",
+    "hi": {
+     "text": "चुनाव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निवड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On her travels, Savitri came to a hermitage in the forest, where she saw a young man gathering wood. He was gentle and strong. His father, once a king named Dyumatsena, had gone blind and lost his kingdom to an enemy, and now lived in the woods with his wife and son. The young man cared for them with devotion. His name was Satyavan.\n\nSavitri’s heart told her he was the one. She returned home and told her father.\n\nIn the palace, the sage Narada was visiting. When he heard the name, his face grew sad. “Satyavan is virtuous and kind,” he said. “But in exactly one year from today, he will die.”\n\nAshvapati cried, “Savitri, choose another!”\n\nBut Savitri said calmly, “Father, I have chosen once, in my heart. A choice made with the heart is made once. I will marry Satyavan, whatever may come.” Seeing her resolve, Narada blessed her, and the wedding was held.",
+    "hi": {
+     "text": "अपनी यात्रा में सावित्री वन के एक आश्रम में पहुँची, जहाँ उसने एक युवक को लकड़ी बटोरते देखा। वह कोमल और बलवान था। उसके पिता, जो कभी द्युमत्सेन नाम के राजा थे, अंधे हो गए थे और शत्रु के हाथों राज्य खो बैठे थे, और अब पत्नी और पुत्र के साथ वन में रहते थे। युवक उनकी भक्ति से सेवा करता था। उसका नाम सत्यवान था।\n\nसावित्री के हृदय ने कहा कि यही है। वह घर लौटी और पिता को बताया।\n\nमहल में ऋषि नारद आए हुए थे। नाम सुनकर उनका मुख उदास हो गया। “सत्यवान सदाचारी और दयालु है,” उन्होंने कहा। “पर आज से ठीक एक वर्ष बाद उसकी मृत्यु हो जाएगी।”\n\nअश्वपति चिल्लाए, “सावित्री, किसी और को चुन लो!”\n\nपर सावित्री ने शांति से कहा, “पिताजी, मैंने एक बार मन में चुन लिया है। हृदय से किया गया चुनाव एक ही बार होता है। चाहे जो हो, मैं सत्यवान से ही विवाह करूँगी।” उसका संकल्प देखकर नारद ने उसे आशीर्वाद दिया, और विवाह संपन्न हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रवासात सावित्री वनातल्या एका आश्रमात आली, जिथे तिने लाकूड गोळा करणारा एक तरुण पाहिला. तो सौम्य आणि बलवान होता. त्याचे वडील, एके काळी द्युमत्सेन नावाचे राजा, अंध झाले होते आणि शत्रूकडून राज्य गमावले होते, आणि आता पत्नी आणि पुत्रासह वनात राहत होते. तरुण त्यांची भक्तीने काळजी घेत होता. त्याचे नाव सत्यवान.\n\nसावित्रीच्या हृदयाने तिला सांगितले की तोच आहे. ती घरी परतली आणि तिने वडिलांना सांगितले.\n\nराजवाड्यात नारद ऋषी भेटीला आले होते. नाव ऐकताच त्यांचा चेहरा दुःखी झाला. “सत्यवान सद्गुणी आणि दयाळू आहे,” ते म्हणाले. “पण आजपासून अगदी एका वर्षाने तो मरेल.”\n\nअश्वपती ओरडला, “सावित्री, दुसरा निवड!”\n\nपण सावित्री शांतपणे म्हणाली, “बाबा, मी हृदयात एकदाच निवड केली आहे. हृदयाने केलेली निवड एकदाच केली जाते. काहीही झाले तरी मी सत्यवानाशीच विवाह करेन.” तिचा निश्चय पाहून नारदांनी तिला आशीर्वाद दिला, आणि विवाह झाला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Counting the days",
+    "hi": {
+     "text": "दिन गिनती हुई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिवस मोजताना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Savitri put aside her silks and jewels, dressed in bark and orange cloth, and went to live in the forest hut with her husband and his parents. She served them all with love. Satyavan was happy, though he did not know what hung over him. Only Savitri carried the secret, counting the days in her heart.\n\nThe year went by. Season followed season. As the fatal day drew near, she began a fast of three days and three nights, standing and praying, not allowing herself a moment’s sleep.\n\nOn the morning of the last day, Satyavan took his axe and said, “I am going to gather wood.”\n\n“I will come with you,” said Savitri. “I cannot be parted from you today.”\n\nHis parents, who never refused her anything, agreed. And so the two walked into the forest, in the golden light of the morning. Birds sang in the branches. Savitri held her husband’s arm, and her heart beat hard, but her face was calm.",
+    "hi": {
+     "text": "सावित्री ने रेशम और गहने छोड़ दिए, वल्कल और गेरुआ वस्त्र पहने, और अपने पति और उसके माता-पिता के साथ वन की कुटिया में रहने चली गई। उसने सबकी प्रेम से सेवा की। सत्यवान प्रसन्न था, यद्यपि उसे पता नहीं था कि उसके ऊपर क्या मंडरा रहा है। केवल सावित्री यह रहस्य लिए थी, मन में दिन गिनती हुई।\n\nवर्ष बीत गया। ऋतु पर ऋतु आई। जब घातक दिन निकट आया, तो उसने तीन दिन और तीन रात का उपवास आरंभ किया, खड़े-खड़े प्रार्थना करती हुई, स्वयं को एक क्षण की नींद भी न देती हुई।\n\nअंतिम दिन की सुबह सत्यवान ने कुल्हाड़ी उठाई और कहा, “मैं लकड़ी बटोरने जा रहा हूँ।”\n\n“मैं साथ चलूँगी,” सावित्री ने कहा। “आज मैं आपसे अलग नहीं हो सकती।”\n\nउसके माता-पिता ने, जो उसे कभी कुछ मना नहीं करते थे, मान लिया। और दोनों सुबह की सुनहरी रोशनी में वन में चल पड़े। डालियों पर पक्षी गा रहे थे। सावित्री ने पति की बाँह थामी हुई थी, और उसका हृदय ज़ोर से धड़क रहा था, पर चेहरा शांत था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सावित्रीने रेशमी वस्त्रे आणि दागिने बाजूला ठेवले, वल्कले आणि भगवी वस्त्रे धारण केली आणि पती व त्याच्या मातापित्यांसह वनातल्या झोपडीत राहायला गेली. तिने सर्वांची प्रेमाने सेवा केली. सत्यवान आनंदी होता, जरी आपल्यावर काय लटकत आहे हे त्याला माहीत नव्हते. फक्त सावित्री ते गुपित वाहत होती, हृदयात दिवस मोजत.\n\nवर्ष सरले. ऋतूमागून ऋतू गेले. प्राणघातक दिवस जवळ येऊ लागला तेव्हा तिने तीन दिवस आणि तीन रात्रींचा उपवास सुरू केला, उभी राहून प्रार्थना करत, स्वतःला क्षणभरही झोप न येऊ देता.\n\nशेवटच्या दिवशीच्या सकाळी सत्यवानाने कुऱ्हाड घेतली आणि म्हणाला, “मी लाकूड गोळा करायला जातो.”\n\n“मी तुमच्याबरोबर येते,” सावित्री म्हणाली. “आज मी तुमच्यापासून दूर राहू शकत नाही.”\n\nतिला कधीही काहीही नाकारू न शकणाऱ्या त्याच्या मातापित्यांनी होकार दिला. आणि दोघे सकाळच्या सोनेरी प्रकाशात वनात चालत गेले. फांद्यांवर पक्षी गात होते. सावित्रीने पतीचा हात धरला होता, आणि तिचे हृदय जोरात धडधडत होते, पण तिचा चेहरा शांत होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Yama comes",
+    "hi": {
+     "text": "यमराज आते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यम येतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Satyavan chopped wood for a while, and then he stopped. “My head aches,” he said. “I feel dizzy.” He lay down with his head in Savitri’s lap, and slowly his breathing grew faint.\n\nThen a great shadow fell across the glade. A tall figure stood before them, dark as a storm cloud, with eyes of red fire, wearing a crown, holding a noose in his hand. It was Yama, the lord of death himself.\n\nSavitri laid her husband’s head gently on the grass, rose, and folded her hands. “Lord,” she said, “who are you?”\n\n“I am Yama. Your husband’s time has come. I would have sent my servants, but he is so virtuous that I have come myself.” He drew out Satyavan’s soul, the size of a thumb, bound in the noose, and turned to the south, the road of the dead.\n\nSavitri followed. Yama walked on, and she walked behind him, never stopping, her eyes fixed on her husband’s soul.",
+    "hi": {
+     "text": "सत्यवान ने कुछ देर लकड़ी काटी, फिर रुक गया। “मेरे सिर में दर्द है,” उसने कहा। “चक्कर आ रहा है।” वह सावित्री की गोद में सिर रखकर लेट गया, और धीरे-धीरे उसकी साँस क्षीण होने लगी।\n\nतभी वन-प्रांतर पर एक विशाल छाया पड़ी। एक ऊँची आकृति उनके सामने खड़ी थी, तूफ़ानी बादल जैसी काली, लाल अग्नि जैसी आँखों वाली, मुकुट पहने, हाथ में पाश लिए। वे यम थे, स्वयं मृत्यु के स्वामी।\n\nसावित्री ने पति का सिर धीरे से घास पर रखा, उठी, और हाथ जोड़े। “प्रभु,” उसने कहा, “आप कौन हैं?”\n\n“मैं यम हूँ। तुम्हारे पति का समय आ गया है। मैं अपने दूत भेज सकता था, पर वह इतना सदाचारी है कि मैं स्वयं आया हूँ।” उन्होंने सत्यवान की आत्मा खींच ली, अँगूठे जितनी, पाश में बँधी, और दक्षिण की ओर मुड़े, मृतकों के मार्ग पर।\n\nसावित्री पीछे चल पड़ी। यम आगे चलते रहे, और वह उनके पीछे, कभी न रुकती हुई, आँखें अपने पति की आत्मा पर टिकाए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सत्यवानाने थोडा वेळ लाकूड तोडले, आणि मग तो थांबला. “माझे डोके दुखते,” तो म्हणाला. “मला चक्कर येते आहे.” त्याने सावित्रीच्या मांडीवर डोके ठेवून आडवे घेतले, आणि हळूहळू त्याचा श्वास क्षीण होत गेला.\n\nमग त्या रानमोकळ्या जागेवर मोठी सावली पडली. वादळी ढगासारखा काळा, डोळे लाल अग्नीसारखे, मुकुट घातलेला आणि हातात पाश धरलेला एक उंच पुरुष त्यांच्यासमोर उभा होता. तो साक्षात मृत्यूचा स्वामी यम होता.\n\nसावित्रीने पतीचे डोके हळुवारपणे गवतावर ठेवले, उठली आणि हात जोडले. “प्रभू,” ती म्हणाली, “आपण कोण?”\n\n“मी यम आहे. तुझ्या पतीची वेळ आली आहे. मी माझ्या सेवकांना पाठवले असते, पण तो इतका सद्गुणी आहे की मी स्वतःच आलो.” त्याने सत्यवानाचा जीव, अंगठ्याएवढा, पाशात बांधून बाहेर काढला आणि मृतांच्या मार्गावर दक्षिणेकडे वळला.\n\nसावित्री मागोमाग चालू लागली. यम चालत राहिला, आणि ती त्याच्या मागे चालत राहिली, कधीही न थांबता, तिची नजर आपल्या पतीच्या जीवावर खिळलेली.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Words on the long road",
+    "hi": {
+     "text": "लंबे रास्ते पर बातें",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लांब वाटेवरचे शब्द",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Go back, Savitri,” said Yama over his shoulder. “Perform the funeral rites. You can go no farther.”\n\n“Lord,” she said, “wherever my husband goes, I go. That is dharma. And it is said that seven steps together makes a friend. You and I have walked many more.” Yama was struck by her words.\n\n“Your speech is wise,” he said. “Ask me for a boon, anything except your husband’s life.”\n\n“Let my father-in-law regain his sight and his kingdom,” she said.\n\n“It is granted. Now return.”\n\nBut she walked on. They came to a second turning, and she spoke again of the goodness of the righteous, and Yama, delighted, granted a second boon: her own father would have a hundred sons.\n\nStill Savitri followed. The road grew steep and dark. Her feet bled, but her voice was steady. She spoke of how the good protect one another, how friendship with the wise never fails, and Yama listened, and slowly his stern heart softened.",
+    "hi": {
+     "text": "“लौट जाओ, सावित्री,” यम ने कंधे के ऊपर से कहा। “अंतिम संस्कार करो। तुम इससे आगे नहीं जा सकती।”\n\n“प्रभु,” उसने कहा, “मेरे पति जहाँ जाएँगे, मैं वहीं जाऊँगी। यही धर्म है। और कहते हैं कि साथ चले सात कदम मित्र बना देते हैं। आपने और मैंने तो उससे कहीं अधिक कदम साथ चले हैं।” यम उसके शब्दों से प्रभावित हुए।\n\n“तुम्हारी वाणी बुद्धिमानी की है,” उन्होंने कहा। “वर माँगो, अपने पति के प्राण को छोड़कर जो चाहो।”\n\n“मेरे ससुर को उनकी दृष्टि और राज्य फिर मिल जाए,” उसने कहा।\n\n“दिया। अब लौट जाओ।”\n\nपर वह चलती रही। वे दूसरे मोड़ पर पहुँचे, और उसने फिर सज्जनों की भलाई की बात की, और यम ने प्रसन्न होकर दूसरा वर दिया: उसके अपने पिता के सौ पुत्र होंगे।\n\nफिर भी सावित्री पीछे चलती रही। रास्ता खड़ा और अँधेरा होता गया। उसके पैरों से रक्त बह रहा था, पर उसकी वाणी स्थिर थी। उसने बताया कि सज्जन एक-दूसरे की रक्षा कैसे करते हैं, कैसे ज्ञानियों की मित्रता कभी विफल नहीं होती, और यम सुनते रहे, और धीरे-धीरे उनका कठोर हृदय पिघलता गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“परत जा, सावित्री,” यम खांद्यावरून म्हणाला. “अंत्यविधी कर. तू यापुढे जाऊ शकत नाहीस.”\n\n“प्रभू,” ती म्हणाली, “माझे पती जिथे जातील तिथे मी जाते. हाच धर्म आहे. आणि म्हणतात की सात पावले एकत्र चालली की मैत्री होते. तुमच्या आणि माझ्या कितीतरी पावले एकत्र चालल्या आहेत.” यम तिच्या शब्दांनी प्रभावित झाला.\n\n“तुझे बोलणे ज्ञानी आहे,” तो म्हणाला. “तुझ्या पतीच्या जीवाशिवाय कोणताही वर माग.”\n\n“माझ्या सासऱ्यांना दृष्टी आणि राज्य परत मिळू दे,” ती म्हणाली.\n\n“दिले. आता परत जा.”\n\nपण ती चालत राहिली. ते दुसऱ्या वळणावर आले, आणि ती पुन्हा सज्जनांच्या चांगुलपणाविषयी बोलली, आणि आनंदित झालेल्या यमाने दुसरा वर दिला: तिच्या स्वतःच्या वडिलांना शंभर पुत्र होतील.\n\nतरीही सावित्री मागोमाग गेली. वाट चढाची आणि अंधारी झाली. तिचे पाय रक्ताळले, पण तिचा आवाज स्थिर होता. ती सांगत होती की चांगली माणसे एकमेकांचे कसे रक्षण करतात, ज्ञानी माणसांची मैत्री कधी अपयशी कशी ठरत नाही, आणि यमाने ऐकले, आणि हळूहळू त्याचे कठोर हृदय मऊ झाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The last boon",
+    "hi": {
+     "text": "अंतिम वर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटचा वर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“You have wearied yourself on this road for love,” said Yama. “Ask for a third boon, anything but Satyavan’s life.”\n\nSavitri bowed. Her eyes shone with a quiet light.\n\n“Lord, give me a hundred sons, born of Satyavan and myself.”\n\nYama, absorbed in her wisdom, said, “Granted.”\n\nThen he stopped, and his stern face broke into a smile. “Savitri, you have trapped me with your wisdom. How can you have a hundred sons from Satyavan if I take him away?”\n\nHe laughed, a deep and joyful laugh that shook the shadows, and released the noose. “Go back, daughter. Your husband will live four hundred years and have a hundred sons. You have conquered Death with love and truth.”\n\nSavitri ran back through the forest to the place where Satyavan lay. She sat down and took his head in her lap. In a few moments, he opened his eyes, as though waking from a deep sleep. “How long I have slept,” he said. “Where did the dark one go?”\n\nBack at the hermitage, his father’s sight returned, and joy filled the forest.",
+    "hi": {
+     "text": "“तुमने प्रेम के लिए इस मार्ग पर स्वयं को थका डाला,” यम ने कहा। “तीसरा वर माँगो, सत्यवान के प्राण के सिवा कुछ भी।”\n\nसावित्री ने प्रणाम किया। उसकी आँखों में एक शांत प्रकाश था।\n\n“प्रभु, मुझे सौ पुत्र दीजिए, सत्यवान और मुझसे जन्मे।”\n\nयम ने, उसकी बुद्धि में खोए हुए, कहा, “दिया।”\n\nफिर वे रुक गए, और उनका कठोर मुख एक मुस्कान में खिल उठा। “सावित्री, तुमने अपनी बुद्धि से मुझे फँसा लिया। यदि मैं सत्यवान को ले जाऊँगा, तो तुम्हें उससे सौ पुत्र कैसे होंगे?”\n\nवे हँसे, गहरी और आनंदित हँसी, जिसने छायाओं को हिला दिया, और पाश खोल दिया। “लौट जाओ, पुत्री। तुम्हारा पति चार सौ वर्ष जिएगा और उसके सौ पुत्र होंगे। तुमने प्रेम और सत्य से मृत्यु को जीत लिया है।”\n\nसावित्री दौड़कर वन के उस स्थान पर लौटी जहाँ सत्यवान पड़ा था। वह बैठी और उसका सिर गोद में ले लिया। कुछ ही क्षणों में उसने आँखें खोलीं, जैसे गहरी नींद से जागा हो। “मैं कितनी देर सोया,” उसने कहा। “वह काला पुरुष कहाँ गया?”\n\nआश्रम में उसके पिता की दृष्टि लौट आई थी, और वन आनंद से भर गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“तू या वाटेवर प्रेमासाठी स्वतःला थकवलेस,” यम म्हणाला. “तिसरा वर माग, सत्यवानाच्या जीवाशिवाय काहीही.”\n\nसावित्रीने नमस्कार केला. तिचे डोळे शांत प्रकाशाने चमकत होते.\n\n“प्रभू, मला सत्यवानापासून आणि माझ्यापासून जन्मलेले शंभर पुत्र द्या.”\n\nतिच्या ज्ञानात मग्न झालेला यम म्हणाला, “दिले.”\n\nमग तो थांबला, आणि त्याचा कठोर चेहरा स्मितात उमलला. “सावित्री, तू तुझ्या शहाणपणाने मला अडकवलेस. मी सत्यवानाला घेऊन गेलो तर त्याच्यापासून तुला शंभर पुत्र कसे होतील?”\n\nतो हसला, खोल आणि आनंदी हास्य ज्याने सावल्या हादरल्या, आणि त्याने पाश सोडला. “परत जा, बाळे. तुझा पती चारशे वर्षे जगेल आणि त्याला शंभर पुत्र होतील. तू प्रेम आणि सत्याने मृत्यूवर विजय मिळवलास.”\n\nसावित्री वनातून धावत सत्यवान जिथे पडला होता तिथे परतली. ती बसली आणि तिने त्याचे डोके मांडीवर घेतले. काही क्षणांत त्याने डोळे उघडले, गाढ झोपेतून जागा झाल्यासारखा. “मी किती वेळ झोपलो,” तो म्हणाला. “तो काळा माणूस कुठे गेला?”\n\nआश्रमात परत गेल्यावर त्याच्या वडिलांची दृष्टी परत आली होती, आणि सारे वन आनंदाने भरून गेले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Savitri did not argue with fate. She stayed faithful, spoke wisely and refused to turn back. What do you want to protect so deeply that you would stay with it through a long dark road? Today, give that person or cause your full attention for ten minutes.",
+  "hi": {
+   "text": "सावित्री ने भाग्य से बहस नहीं की। वह निष्ठा पर टिकी रही, बुद्धिमानी से बोली और लौटने से मना कर दिया। आप किसकी रक्षा इतनी गहराई से करना चाहते हैं कि लंबे अँधेरे रास्ते पर भी उसके साथ रहें? आज उस व्यक्ति या उद्देश्य को दस मिनट पूरा ध्यान दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सावित्रीने नियतीशी वाद घातला नाही. ती निष्ठावान राहिली, ज्ञानाने बोलली आणि परतायला नकार दिला. तुम्हाला कशाचे इतके खोलवर रक्षण करायचे आहे की तुम्ही त्याच्यासोबत लांब अंधाऱ्या वाटेवरूनही चालाल? आज त्या व्यक्तीला किंवा कार्याला दहा मिनिटे पूर्ण लक्ष द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love joined with wisdom and steady courage can turn even Death around.",
+  "hi": {
+   "text": "प्रेम, जब बुद्धि और अडिग साहस से जुड़ जाए, तो मृत्यु को भी लौटा सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानासह जोडलेले प्रेम आणि स्थिर धैर्य मृत्यूलाही मागे वळवू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Vana Parva (Pativrata-mahatmya Parva), told by the sage Markandeya",
+  "hi": {
+   "text": "महाभारत, वन पर्व (पतिव्रता-माहात्म्य पर्व), ऋषि मार्कंडेय द्वारा कही गई",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, वनपर्व (पतिव्रतामाहात्म्यपर्व), मार्कंडेय ऋषींनी सांगितलेली कथा",
+   "reviewed": false
+  }
+ }
+}

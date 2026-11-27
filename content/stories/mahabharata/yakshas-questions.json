@@ -1,0 +1,266 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "yakshas-questions",
+ "order": 18,
+ "part": "vana",
+ "figure": {
+  "en": "Yudhishthira",
+  "hi": {
+   "text": "युधिष्ठिर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युधिष्ठिर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The questions at the lake",
+  "hi": {
+   "text": "सरोवर पर पूछे गए प्रश्न",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सरोवराजवळचे प्रश्न",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Four brothers lie dead beside a still, clear lake, and an unseen voice demands answers. The one who answers wisely will be given a single life back. Which one will he choose?",
+  "hi": {
+   "text": "चार भाई एक शांत, निर्मल सरोवर के किनारे प्राणहीन पड़े हैं, और एक अदृश्य आवाज़ उत्तर माँग रही है। जो ठीक उत्तर देगा, उसे एक प्राण वापस मिलेगा। वह किसे चुनेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शांत, स्वच्छ सरोवराजवळ चार भाऊ मरून पडले आहेत, आणि एक अदृश्य आवाज उत्तरे मागत आहे. जो शहाणपणाने उत्तर देईल त्याला एक जीव परत दिला जाईल. तो कुणाची निवड करील?",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/the-dog-and-heaven-1.webp",
+   "w": 797,
+   "h": 1100,
+   "caption": {
+    "en": "Yudhishthira and his faithful dog before Indra's chariot (Indian painting)",
+    "hi": {
+     "text": "इंद्र के रथ के सामने युधिष्ठिर और उनका वफ़ादार कुत्ता (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इंद्राच्या रथासमोर युधिष्ठिर आणि त्याचा इमानी कुत्रा (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Yudhishthira_and_dog_ascending_to_heaven.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The deer and the fire-sticks",
+    "hi": {
+     "text": "हिरण और अरणी की लकड़ी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हरीण आणि अरणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the twelfth year of their exile, the Pandavas were resting in the forest when a frightened brahmin ran up to them. “A deer has run off with my fire-sticks,” he gasped, “tangled in its horns. Without them I cannot light the sacred fire. Please help me.”\n\nThe brothers seized their bows and chased the deer. It bounded through the trees, always just ahead, leading them deeper and deeper into the forest. At last, it vanished.\n\nThe Pandavas stopped, panting. They were tired, hot and parched with thirst. “Nakula,” said Yudhishthira, “climb that tree and see if there is water nearby.”\n\nNakula climbed and called down: “I can see a lake, with tall trees around it, and cranes flying over.”\n\n“Go and fetch some water,” said Yudhishthira, “and be quick.” Nakula took the quiver and ran off through the trees. The others waited, in the quiet, in the shadows, listening to a silence that was getting deeper.",
+    "hi": {
+     "text": "वनवास का बारहवाँ वर्ष था। पांडव वन में विश्राम कर रहे थे कि तभी एक घबराया हुआ ब्राह्मण दौड़ता हुआ उनके पास आया। “एक हिरण मेरी अरणी की लकड़ियाँ ले भागा है,” वह हाँफते हुए बोला, “वे उसके सींगों में उलझी रह गईं। उनके बिना मैं पवित्र अग्नि नहीं जला सकता। कृपा करके मेरी सहायता कीजिए।”\n\nभाइयों ने झटपट अपने धनुष उठाए और हिरण के पीछे दौड़े। हिरण पेड़ों के बीच से कूदता हुआ भागता रहा, हर बार बस थोड़ा-सा आगे, और उन्हें वन के भीतर, और भीतर, खींचता चला गया। आख़िर वह आँखों से ओझल हो गया।\n\nपांडव रुक गए और हाँफने लगे। वे थके हुए थे, गर्मी से बेहाल थे और प्यास से गला सूख रहा था। “नकुल,” युधिष्ठिर ने कहा, “उस पेड़ पर चढ़कर देखो, कहीं आसपास जल है क्या।”\n\nनकुल ने चढ़कर नीचे आवाज़ दी: “मुझे एक सरोवर दिखता है। उसके चारों ओर ऊँचे पेड़ हैं और ऊपर सारस उड़ रहे हैं।”\n\n“जाओ, थोड़ा जल ले आओ,” युधिष्ठिर ने कहा, “और जल्दी लौटना।” नकुल तरकश लेकर पेड़ों के बीच दौड़ गया। बाकी सब इंतज़ार करते रहे, उस चुप्पी में, उन छायाओं में, एक ऐसे सन्नाटे को सुनते हुए जो पल-पल गहरा होता जा रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनवासाच्या बाराव्या वर्षी पांडव जंगलात विश्रांती घेत होते, तेव्हा एक घाबरलेला ब्राह्मण धावत त्यांच्याकडे आला. “एका हरणाने माझी अरणी पळवली,” तो धापा टाकत म्हणाला, “ती त्याच्या शिंगांत अडकली आहे. त्यांच्याशिवाय मी पवित्र अग्नी पेटवू शकत नाही. कृपा करून मला मदत करा.”\n\nभावांनी धनुष्ये उचलली आणि हरणाचा पाठलाग केला. ते झाडांतून उड्या मारीत, नेहमी थोडे पुढे राहत, त्यांना जंगलात आणखी आणखी आत घेऊन गेले. शेवटी ते दिसेनासे झाले.\n\nपांडव धापा टाकत थांबले. ते थकले होते, तापले होते आणि तहानेने कोरडे पडले होते. “नकुला,” युधिष्ठिर म्हणाला, “त्या झाडावर चढ आणि जवळपास पाणी आहे का ते पाहा.”\n\nनकुल चढला आणि खाली हाक मारली: “मला एक सरोवर दिसते आहे, भोवती उंच झाडे आहेत आणि वर बगळे उडत आहेत.”\n\n“जा आणि थोडे पाणी आण,” युधिष्ठिर म्हणाला, “आणि लवकर ये.” नकुलाने भाता घेतला आणि झाडांतून धावत निघाला. इतर शांततेत, सावल्यांत वाट पाहत राहिले, खोल होत जाणारी शांतता ऐकत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The voice",
+    "hi": {
+     "text": "वह आवाज़",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो आवाज",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Nakula reached the lake. The water was clear as crystal and ringed with lotuses. He knelt down, parched, cupped his hands, and was about to drink when a voice rang out of the air.\n\n“Stop! This lake is mine. Answer my questions first, then drink.”\n\nNakula looked around, but no one was there. He was too thirsty to wait. He drank, and fell dead on the shore.\n\nWhen he did not return, Yudhishthira sent Sahadeva. Sahadeva reached the lake, heard the voice, ignored it, and fell. Arjuna went next, with his bow ready, and shot arrows at the empty air. He too fell. Then came Bhima, who roared at the unseen speaker and drank, and died.\n\nAt last Yudhishthira walked alone through the silent forest. When he came to the lake, he saw his four brothers lying side by side on the shore, still as stone. His legs gave way beneath him. “Who has done this?” he cried.",
+    "hi": {
+     "text": "नकुल सरोवर पर पहुँचा। जल स्फटिक जैसा निर्मल था और चारों ओर कमल खिले थे। प्यास से व्याकुल वह घुटनों के बल बैठा, अंजलि में जल भरा और पीने ही वाला था कि आकाश से एक आवाज़ गूँजी।\n\n“रुको! यह सरोवर मेरा है। पहले मेरे प्रश्नों के उत्तर दो, फिर जल पीना।”\n\nनकुल ने चारों ओर देखा, पर वहाँ कोई न था। वह इतना प्यासा था कि रुक न सका। उसने जल पी लिया और किनारे पर ही प्राणहीन होकर गिर पड़ा।\n\nजब नकुल नहीं लौटा तो युधिष्ठिर ने सहदेव को भेजा। सहदेव सरोवर पर पहुँचा, आवाज़ सुनी, अनसुनी कर दी, और वह भी गिर पड़ा। फिर अर्जुन गया, धनुष तानकर, और खाली आकाश में बाण बरसाने लगा। वह भी गिर पड़ा। फिर भीम आया, जिसने उस अदृश्य वक्ता को ललकारा, जल पिया और प्राण गँवा बैठा।\n\nअंत में युधिष्ठिर अकेले ही उस सूने वन में चले। सरोवर पर पहुँचकर उन्होंने देखा कि उनके चारों भाई किनारे पर एक-दूसरे के पास पत्थर की तरह निश्चल पड़े हैं। उनके पैर जवाब दे गए। “यह किसने किया?” वे चीख उठे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नकुल सरोवराजवळ पोहोचला. पाणी स्फटिकासारखे स्वच्छ होते आणि कमळांनी वेढलेले होते. तो तहानलेला गुडघे टेकून बसला, ओंजळीत पाणी घेतले, आणि पिणार इतक्यात हवेतून एक आवाज घुमला.\n\n“थांब! हे सरोवर माझे आहे. आधी माझ्या प्रश्नांची उत्तरे दे, मग पी.”\n\nनकुलाने सभोवार पाहिले, पण तिथे कुणीच नव्हते. त्याला थांबवेना इतकी तहान लागली होती. त्याने पाणी प्यायले, आणि किनाऱ्यावर मरून पडला.\n\nतो परत आला नाही, तेव्हा युधिष्ठिराने सहदेवाला पाठवले. सहदेव सरोवराजवळ पोहोचला, आवाज ऐकला, दुर्लक्ष केले, आणि पडला. अर्जुन पुढे गेला, धनुष्य तयार ठेवून, आणि रिकाम्या हवेत बाण मारले. तोही पडला. मग भीम आला, ज्याने त्या अदृश्य बोलणाऱ्यावर गर्जना केली आणि पाणी प्यायला, आणि मेला.\n\nअखेर युधिष्ठिर शांत जंगलातून एकटा चालत आला. तो सरोवराजवळ आला, तेव्हा त्याने आपले चार भाऊ किनाऱ्यावर शेजारी शेजारी, दगडासारखे निश्चल पडलेले पाहिले. त्याचे पाय गळाले. “हे कुणी केले?” तो ओरडला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Yaksha",
+    "hi": {
+     "text": "यक्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यक्ष",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“I am a Yaksha,” said the voice. A great shape appeared on a tree branch, tall and dark, with eyes like fire, and a body like a mountain. “These brothers of yours ignored my warning. I killed them. You, too, may drink only after you answer.”\n\nYudhishthira did not lose his calm. “I will answer what I can, honoured one,” he said. “Ask.”\n\nAnd so the questions began, one after another, and Yudhishthira thought carefully before each reply.\n\n“What is heavier than the earth?” asked the Yaksha.\n\n“A mother,” said Yudhishthira.\n\n“What is higher than the sky?”\n\n“A father.”\n\n“What is faster than the wind?”\n\n“The mind.”\n\n“What is more numerous than the blades of grass?”\n\n“Our thoughts.”\n\n“Who is the friend of one going abroad? Who is the friend of the sick? Who is the friend of one who is dying?”\n\n“Learning, the doctor and charity,” said Yudhishthira. “And for the dying, good deeds.”\n\nThe Yaksha nodded slowly, and kept asking.",
+    "hi": {
+     "text": "“मैं एक यक्ष हूँ,” आवाज़ ने कहा। पेड़ की एक डाल पर एक विशाल आकृति प्रकट हुई, ऊँची और श्यामवर्ण, आँखें अंगारे जैसी और देह पर्वत जैसी। “तुम्हारे इन भाइयों ने मेरी चेतावनी नहीं मानी। इसलिए मैंने इन्हें मार डाला। तुम भी जल तभी पी सकते हो जब मेरे प्रश्नों का उत्तर दे दो।”\n\nयुधिष्ठिर ने धीरज नहीं खोया। “हे पूज्य, जितना मुझसे बन पड़ेगा, मैं उत्तर दूँगा,” उन्होंने कहा। “पूछिए।”\n\nऔर इस तरह प्रश्न शुरू हुए, एक के बाद एक, और हर उत्तर से पहले युधिष्ठिर सोच-विचार में डूब जाते।\n\n“पृथ्वी से भारी क्या है?” यक्ष ने पूछा।\n\n“माता,” युधिष्ठिर ने कहा।\n\n“आकाश से ऊँचा क्या है?”\n\n“पिता।”\n\n“वायु से तेज़ क्या है?”\n\n“मन।”\n\n“तिनकों से भी अधिक क्या है?”\n\n“हमारी चिंताएँ।”\n\n“परदेस जाने वाले का मित्र कौन है? रोगी का मित्र कौन है? और मरते हुए का मित्र कौन है?”\n\n“विद्या, वैद्य और दान,” युधिष्ठिर ने कहा। “और मरने वाले का मित्र उसके सत्कर्म हैं।”\n\nयक्ष ने धीरे से सिर हिलाया और प्रश्न पूछता गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“मी एक यक्ष आहे,” तो आवाज म्हणाला. झाडाच्या फांदीवर एक विशाल आकृती प्रकट झाली, उंच आणि काळी, डोळे अग्नीसारखे आणि शरीर पर्वतासारखे. “तुझ्या या भावांनी माझ्या इशाऱ्याकडे दुर्लक्ष केले. मी त्यांना मारले. तूही उत्तर दिल्यानंतरच पाणी पिऊ शकशील.”\n\nयुधिष्ठिराने शांतता गमावली नाही. “मला जमेल तेवढी उत्तरे देईन, आदरणीय,” तो म्हणाला. “विचारा.”\n\nआणि अशा रीतीने प्रश्न सुरू झाले, एकामागून एक, आणि प्रत्येक उत्तरापूर्वी युधिष्ठिराने काळजीपूर्वक विचार केला.\n\n“पृथ्वीपेक्षा जड काय?” यक्षाने विचारले.\n\n“माता,” युधिष्ठिर म्हणाला.\n\n“आकाशापेक्षा उंच काय?”\n\n“पिता.”\n\n“वाऱ्यापेक्षा वेगवान काय?”\n\n“मन.”\n\n“गवताच्या पात्यांपेक्षा जास्त काय?”\n\n“आपले विचार.”\n\n“परदेशी जाणाऱ्याचा मित्र कोण? आजाऱ्याचा मित्र कोण? मरणाऱ्याचा मित्र कोण?”\n\n“विद्या, वैद्य आणि दान,” युधिष्ठिर म्हणाला. “आणि मरणाऱ्याचे सत्कर्म.”\n\nयक्षाने हळूहळू मान हलवली, आणि विचारत राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What is the most wonderful thing?",
+    "hi": {
+     "text": "सबसे बड़ा आश्चर्य क्या है?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्वांत आश्चर्य कोणते?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“What is the way?” asked the Yaksha. “What is the news? What is the greatest wonder?”\n\nYudhishthira thought. Then he spoke slowly, as if looking into the water for the answer.\n\n“Arguments lead nowhere, and the scriptures differ. No sage’s opinion is the final word. The truth about dharma lies hidden in the cave of the heart. The path is the one the great have walked.\n\n“The news is this: the world is a cauldron, the sun is the fire, the days and nights are the fuel, and time is the cook, stirring all creatures in it.”\n\nThe Yaksha was silent a moment. Then he asked, “And the greatest wonder?”\n\nYudhishthira looked at his four fallen brothers.\n\n“Day after day,” he said quietly, “countless beings go to the house of death. Yet those who remain behind wish to live forever. What could be more wonderful than this?”\n\nThe forest grew very still. The Yaksha’s eyes softened.",
+    "hi": {
+     "text": "“मार्ग क्या है?” यक्ष ने पूछा। “वार्ता क्या है? और सबसे बड़ा आश्चर्य क्या है?”\n\nयुधिष्ठिर सोच में पड़ गए। फिर वे धीरे-धीरे बोले, मानो जल में झाँककर उत्तर खोज रहे हों।\n\n“तर्क से कहीं नहीं पहुँचते, और शास्त्र भी अलग-अलग बात कहते हैं। किसी एक ऋषि का मत अंतिम नहीं है। धर्म का सच्चा तत्त्व हृदय की गुफा में छिपा है। मार्ग वही है जिस पर महापुरुष चले हैं।\n\n“वार्ता यह है: यह संसार एक कड़ाह है, सूर्य अग्नि है, दिन और रात ईंधन हैं, और काल रसोइया है, जो सब प्राणियों को उसमें पकाता रहता है।”\n\nयक्ष क्षण भर चुप रहा। फिर उसने पूछा, “और सबसे बड़ा आश्चर्य?”\n\nयुधिष्ठिर ने अपने चारों गिरे हुए भाइयों की ओर देखा।\n\n“दिन-प्रतिदिन,” वे शांत स्वर में बोले, “असंख्य प्राणी यमलोक को जाते हैं। फिर भी जो पीछे रह जाते हैं, वे सदा जीने की इच्छा रखते हैं। इससे बढ़कर आश्चर्य और क्या होगा?”\n\nवन अत्यंत शांत हो गया। यक्ष की आँखें कोमल हो उठीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“मार्ग कोणता?” यक्षाने विचारले. “वार्ता कोणती? सर्वांत मोठे आश्चर्य कोणते?”\n\nयुधिष्ठिराने विचार केला. मग तो हळूहळू बोलला, जणू पाण्यात उत्तर शोधत होता.\n\n“तर्काने काही साधत नाही, आणि शास्त्रे भिन्न आहेत. कोणत्याही ऋषीचे मत अंतिम नाही. धर्माचे तत्त्व हृदयाच्या गुहेत दडलेले आहे. मार्ग तोच जो थोरांनी चालला आहे.\n\n“वार्ता ही: हे जग एक कढई आहे, सूर्य अग्नी आहे, दिवस आणि रात्र इंधन आहे, आणि काळ स्वयंपाकी आहे, जो सर्व जीवांना त्यात ढवळतो.”\n\nयक्ष क्षणभर शांत राहिला. मग त्याने विचारले, “आणि सर्वांत मोठे आश्चर्य?”\n\nयुधिष्ठिराने आपल्या चार पडलेल्या भावांकडे पाहिले.\n\n“रोज,” तो शांतपणे म्हणाला, “असंख्य प्राणी यमाच्या घरी जातात. तरीही मागे उरलेल्यांना कायम जगावेसे वाटते. याहून आश्चर्य कोणते?”\n\nजंगल अगदी स्तब्ध झाले. यक्षाचे डोळे मृदू झाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "One life",
+    "hi": {
+     "text": "एक प्राण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक जीव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“You have answered well,” said the Yaksha. “I am pleased. I will give back the life of one of your brothers. Choose.”\n\nThe forest waited.\n\nYudhishthira looked at the four brothers, and at his heart’s great sorrow. Bhima, his strong guard. Arjuna, his dearest hope. Anyone would have chosen one of them.\n\n“Let Nakula live,” said Yudhishthira.\n\nThe Yaksha was astonished. “Nakula? Why not Bhima, who has the strength of ten thousand elephants? Why not Arjuna, whom you rely on to win your kingdom back?”\n\nYudhishthira said, “Kunti and Madri were the two wives of my father. Kunti has a son still living: me. Let Madri also have a son. Let both mothers have one child. That is dharma. I do not seek my own good, nor my own gain, but fairness for both.”\n\nThe Yaksha’s great form trembled with joy. “Since you value fairness over your own desire, I will restore all four.”",
+    "hi": {
+     "text": "“तुमने बहुत अच्छा उत्तर दिया,” यक्ष ने कहा। “मैं प्रसन्न हूँ। मैं तुम्हारे भाइयों में से एक को जीवन लौटा दूँगा। चुनो।”\n\nवन साँस रोके प्रतीक्षा करता रहा।\n\nयुधिष्ठिर ने चारों भाइयों को देखा, और अपने हृदय के गहरे शोक को देखा। भीम, जो उनका बलशाली रक्षक था। अर्जुन, जो उनकी सबसे बड़ी आशा था। कोई भी इन दोनों में से ही किसी को चुनता।\n\n“नकुल जीवित हो जाए,” युधिष्ठिर ने कहा।\n\nयक्ष चकित रह गया। “नकुल? भीम क्यों नहीं, जिसमें दस हज़ार हाथियों का बल है? अर्जुन क्यों नहीं, जिस पर तुम्हें अपना राज्य वापस जीतने का भरोसा है?”\n\nयुधिष्ठिर बोले, “मेरे पिता की दो पत्नियाँ थीं, कुंती और माद्री। कुंती का एक पुत्र अभी जीवित है, यानी मैं। माद्री का भी एक पुत्र जीवित रहे। दोनों माताओं के पास एक-एक संतान हो। यही धर्म है। मैं अपना हित नहीं चाहता, न अपना लाभ, मैं तो दोनों माताओं के प्रति न्याय चाहता हूँ।”\n\nयक्ष का विशाल रूप आनंद से काँप उठा। “तुमने अपनी इच्छा से बढ़कर न्याय को माना, इसलिए मैं चारों को जीवित कर देता हूँ।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“तू चांगले उत्तर दिलेस,” यक्ष म्हणाला. “मी प्रसन्न आहे. मी तुझ्या एका भावाचा जीव परत देतो. निवड कर.”\n\nजंगल वाट पाहत राहिले.\n\nयुधिष्ठिराने चार भावांकडे पाहिले, आणि आपल्या हृदयाच्या मोठ्या दुःखाकडे. भीम, त्याचा बलवान रक्षक. अर्जुन, त्याची सर्वांत प्रिय आशा. कुणीही त्यांच्यापैकी एकाला निवडले असते.\n\n“नकुल जगू दे,” युधिष्ठिर म्हणाला.\n\nयक्ष थक्क झाला. “नकुल? दहा हजार हत्तींचे बळ असलेला भीम का नाही? ज्याच्यावर तू आपले राज्य परत मिळवण्यासाठी अवलंबून आहेस तो अर्जुन का नाही?”\n\nयुधिष्ठिर म्हणाला, “कुंती आणि माद्री या माझ्या वडिलांच्या दोन पत्नी होत्या. कुंतीला एक पुत्र अजून जिवंत आहे: मी. माद्रीलाही एक पुत्र असू दे. दोन्ही मातांना एक एक मूल असू दे. हाच धर्म आहे. मी स्वतःचे भले किंवा स्वतःचा लाभ शोधत नाही, तर दोघींसाठी न्याय.”\n\nयक्षाची विशाल आकृती आनंदाने थरथरली. “तू आपल्या इच्छेपेक्षा न्यायाला मोल देतोस, म्हणून मी चारही जणांना परत देतो.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Dharma himself",
+    "hi": {
+     "text": "स्वयं धर्मराज",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वतः धर्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One by one, the four brothers sat up as if from sleep. They rubbed their eyes, and looked around in wonder. They did not remember dying, only that they were thirsty.\n\nThen the Yaksha’s dark shape melted into light, and a radiant figure stood where he had been. It was Dharma, the god of justice, the Lord of Righteousness, Yudhishthira’s own divine father.\n\n“My son,” he said, “I came in this form to test you. You have not let me down, though it cost you much. You have been truthful and merciful, and you value others’ lives as your own. There is no one in the world like you.”\n\nHe gave them the fire-sticks, which he himself had hidden in the deer’s horns, and blessed them with a boon for the thirteenth year: that none would recognise them in disguise.\n\nThe Pandavas bowed. Dharma smiled, and was gone. In the stillness of the lake, a lotus opened, and the brothers drank the clear water in peace.",
+    "hi": {
+     "text": "एक-एक करके चारों भाई ऐसे उठ बैठे जैसे गहरी नींद से जागे हों। उन्होंने आँखें मलीं और चकित होकर चारों ओर देखा। उन्हें मरना याद नहीं था, बस इतना याद था कि वे प्यासे थे।\n\nतब यक्ष का काला रूप पिघलकर प्रकाश बन गया, और उसकी जगह एक तेजस्वी पुरुष खड़े थे। वे स्वयं धर्म थे, न्याय के देवता, धर्मराज, युधिष्ठिर के अपने दिव्य पिता।\n\n“पुत्र,” उन्होंने कहा, “मैं तुम्हारी परीक्षा लेने इस रूप में आया था। तुमने मुझे निराश नहीं किया, चाहे इसमें तुम्हें बहुत कुछ सहना पड़ा। तुम सत्यवादी हो, दयालु हो, और दूसरों के प्राणों को अपने प्राणों जैसा मानते हो। संसार में तुम्हारे जैसा कोई नहीं।”\n\nउन्होंने वे अरणी की लकड़ियाँ लौटा दीं, जिन्हें उन्होंने स्वयं हिरण के सींगों में फँसाया था, और तेरहवें वर्ष के लिए आशीर्वाद दिया कि अज्ञातवास में कोई उन्हें पहचान नहीं पाएगा।\n\nपांडवों ने प्रणाम किया। धर्मराज मुस्कुराए और अंतर्धान हो गए। सरोवर की उस शांति में एक कमल खिल उठा, और भाइयों ने निर्मल जल पिया, मन में चैन लिए हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकामागून एक चारही भाऊ झोपेतून उठल्यासारखे उठून बसले. त्यांनी डोळे चोळले, आणि आश्चर्याने सभोवार पाहिले. त्यांना मरण्याची आठवण नव्हती, फक्त इतके की त्यांना तहान लागली होती.\n\nमग यक्षाची काळी आकृती प्रकाशात विरघळली, आणि तिथे एक तेजस्वी रूप उभे राहिले. तो धर्म होता, न्यायाचा देव, धर्मराज, युधिष्ठिराचा स्वतःचा दिव्य पिता.\n\n“बाळा,” तो म्हणाला, “मी तुझी परीक्षा घेण्यासाठी या रूपात आलो. तू मला निराश केले नाहीस, जरी त्याची तुला मोठी किंमत पडली. तू सत्यवादी आणि दयाळू आहेस, आणि तू इतरांच्या जीवांना आपल्या जीवाइतके मोल देतोस. जगात तुझ्यासारखा कुणी नाही.”\n\nत्याने त्यांना अरणी दिली, जी त्यानेच हरणाच्या शिंगांत लपवली होती, आणि तेराव्या वर्षासाठी वर दिला: वेषात असताना कुणीही त्यांना ओळखणार नाही.\n\nपांडवांनी नमस्कार केला. धर्म हसला, आणि गेला. सरोवराच्या शांततेत एक कमळ उमलले, आणि भावांनी स्वच्छ पाणी शांतपणे प्यायले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "अहन्यहनि भूतानि गच्छन्ति यममन्दिरम्। शेषाः स्थावरमिच्छन्ति किमाश्चर्यमतः परम्॥",
+  "cite": {
+   "en": "Mahabharata, Vana Parva (Yaksha Prashna)",
+   "hi": {
+    "text": "महाभारत, वन पर्व (यक्ष प्रश्न)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "महाभारत, वन पर्व (यक्षप्रश्न)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Every day beings go to the house of death, yet those who remain wish to live forever. What could be more wonderful than this?",
+   "hi": {
+    "text": "प्रतिदिन प्राणी यमलोक को जाते हैं, फिर भी जो बचे रहते हैं वे सदा जीने की इच्छा रखते हैं। इससे बड़ा आश्चर्य और क्या होगा?",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "रोज प्राणी यमाच्या घरी जातात, तरीही मागे उरलेल्यांना कायम जगावेसे वाटते. याहून आश्चर्य कोणते?",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Yudhishthira answered with wisdom and chose with fairness, not favour. What choice do you face where you could be fairer than is easy? Today, notice one person you usually overlook and give them your time.",
+  "hi": {
+   "text": "युधिष्ठिर ने ज्ञान से उत्तर दिया और पक्षपात से नहीं, न्याय से चुनाव किया। आपके सामने ऐसा कौन-सा निर्णय है जिसमें आप आसान राह से बढ़कर निष्पक्ष हो सकते हैं? आज एक ऐसे व्यक्ति को ध्यान से देखिए जिसे आप अक्सर अनदेखा कर देते हैं, और उसे अपना थोड़ा समय दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युधिष्ठिराने शहाणपणाने उत्तरे दिली आणि पक्षपाताने नव्हे तर न्यायाने निवड केली. सोप्यापेक्षा अधिक न्यायी असण्याची संधी तुमच्यासमोर कोणत्या निवडीत आहे? आज एखाद्या अशा व्यक्तीला, जिच्याकडे तुम्ही सहसा दुर्लक्ष करता, लक्षात घ्या आणि तिला आपला वेळ द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The wise do not pick what they love most, but what is right for all.",
+  "hi": {
+   "text": "ज्ञानी वह नहीं चुनता जो उसे सबसे प्रिय हो, बल्कि वह चुनता है जो सबके लिए उचित हो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शहाणे लोक आपल्याला सर्वांत प्रिय ते निवडत नाहीत, तर सर्वांसाठी जे योग्य ते निवडतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Vana Parva (Aranya Parva, Yaksha Prashna)",
+  "hi": {
+   "text": "महाभारत, वन पर्व (आरण्यक पर्व, यक्ष प्रश्न)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, वन पर्व (अरण्य पर्व, यक्षप्रश्न)",
+   "reviewed": false
+  }
+ }
+}

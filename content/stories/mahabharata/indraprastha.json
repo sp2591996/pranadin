@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "indraprastha",
+ "order": 10,
+ "part": "adi",
+ "figure": {
+  "en": "Yudhishthira, Arjuna and Maya",
+  "hi": {
+   "text": "युधिष्ठिर, अर्जुन और मय",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युधिष्ठिर, अर्जुन आणि मय",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The palace where water looked like floor",
+  "hi": {
+   "text": "वह महल, जहाँ जल फ़र्श जैसा दिखता था",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पाणी जिथे फरशीसारखे दिसले तो महाल",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "From burning forest and barren land rises the most beautiful city in the world. Then a proud cousin comes to visit, and takes one wrong step.",
+  "hi": {
+   "text": "जलते वन और बंजर भूमि से संसार का सबसे सुंदर नगर उठ खड़ा होता है। फिर एक अभिमानी भाई देखने आता है, और एक गलत कदम रख देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जळत्या वनातून आणि ओसाड भूमीतून जगातले सर्वात सुंदर नगर उभे राहते. मग एक गर्विष्ठ चुलत भाऊ भेटायला येतो, आणि एक चुकीचे पाऊल टाकतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/indraprastha-1.webp",
+   "w": 480,
+   "h": 640,
+   "caption": {
+    "en": "The five Pandavas with Draupadi (Indian bazaar print)",
+    "hi": {
+     "text": "द्रौपदी के साथ पाँचों पांडव (भारतीय बाज़ार चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदीसोबत पाच पांडव (भारतीय बाजार चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "bazaar art, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_five_Pandavas_with_Draupadi.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The barren land",
+    "hi": {
+     "text": "बंजर भूमि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ओसाड भूमी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "News of the Pandavas’ survival reached Hastinapura, and the people rejoiced. Dhritarashtra, fearing a civil war, invited them home, and gave them half the kingdom. But it was a half that no one wanted: a dry wasteland called Khandavaprastha, overgrown with thorns, filled with serpents and ruins.\n\nYudhishthira did not complain. “It is a gift,” he said. “We will make it grow.”\n\nThey cleared the land, and brought in builders and farmers. With Krishna’s help, the wasteland began to change. Roads were laid, walls built and gates raised. Merchants arrived, and then poets and singers. The brothers planted gardens and dug pools. But they needed more. They needed a forest cleared for farmland, and so they turned their eyes to the great Khandava forest at the edge of the land, which was home to many creatures and, secretly, a hungry god.\n\nOne afternoon, on the river Yamuna, as Krishna and Arjuna sat resting, a brahmin of dazzling light came to them and asked for food.",
+    "hi": {
+     "text": "पांडवों के जीवित होने की खबर हस्तिनापुर पहुँची, और लोग आनंदित हो उठे। धृतराष्ट्र ने गृहयुद्ध के भय से उन्हें घर बुलाया और आधा राज्य दे दिया। पर वह ऐसा आधा था जिसे कोई नहीं चाहता था: खांडवप्रस्थ नाम की सूखी बंजर भूमि, काँटों से ढकी, साँपों और खंडहरों से भरी।\n\nयुधिष्ठिर ने कोई शिकायत नहीं की। “यह एक उपहार है,” उन्होंने कहा। “हम इसे हरा-भरा कर देंगे।”\n\nउन्होंने ज़मीन साफ़ की और कारीगरों और किसानों को बुलाया। कृष्ण की सहायता से वह बंजर भूमि बदलने लगी। सड़कें बिछीं, दीवारें बनीं और द्वार उठे। व्यापारी आए, फिर कवि और गायक। भाइयों ने बगीचे लगाए और सरोवर खुदवाए। पर उन्हें और चाहिए था। उन्हें खेती के लिए एक वन साफ़ करना था, और उनकी दृष्टि भूमि के छोर पर खड़े विशाल खांडव वन पर पड़ी, जो अनेक जीवों का घर था, और चुपके से एक भूखे देवता का भी।\n\nएक दोपहर, यमुना किनारे, जब कृष्ण और अर्जुन बैठे विश्राम कर रहे थे, तेज से दमकता एक ब्राह्मण उनके पास आया और भोजन माँगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पांडव जिवंत असल्याची बातमी हस्तिनापुरात पोहोचली आणि लोकांनी आनंद साजरा केला. यादवी युद्धाच्या भीतीने धृतराष्ट्राने त्यांना घरी बोलावले आणि अर्धे राज्य दिले. पण तो असा अर्धा भाग होता जो कोणालाच नको होता: खांडवप्रस्थ नावाचा कोरडा ओसाड प्रदेश, काट्यांनी वेढलेला, सर्प आणि भग्नावशेषांनी भरलेला.\n\nयुधिष्ठिराने तक्रार केली नाही. “ही देणगी आहे,” तो म्हणाला. “आपण हिला फुलवू.”\n\nत्यांनी जमीन साफ केली, आणि बांधकाम करणारे आणि शेतकरी आणले. कृष्णाच्या मदतीने ओसाड भूमी पालटू लागली. रस्ते आखले गेले, भिंती बांधल्या गेल्या आणि वेशी उभारल्या गेल्या. व्यापारी आले, आणि मग कवी आणि गायक. भावांनी बागा लावल्या आणि तलाव खणले. पण त्यांना आणखी हवे होते. त्यांना शेतीसाठी जंगल साफ करायचे होते, आणि म्हणून त्यांनी प्रदेशाच्या कडेला असलेल्या महान खांडववनाकडे नजर वळवली, जे अनेक जीवांचे घर होते आणि गुप्तपणे एका भुकेल्या देवाचेही.\n\nएका दुपारी यमुनेकाठी कृष्ण आणि अर्जुन विश्रांती घेत बसले असताना, तेजाने झळकणारा एक ब्राह्मण त्यांच्याकडे आला आणि त्याने अन्न मागितले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Agni’s hunger",
+    "hi": {
+     "text": "अग्नि की भूख",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अग्नीची भूक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The brahmin was Agni, the god of fire. “I am always hungry,” he said, “and I wish to eat the forest of Khandava. But every time I try, Indra sends down rain to protect it, because his friend the serpent Takshaka lives there. Will you help me?”\n\nKrishna and Arjuna agreed, but Arjuna said, “We need weapons worthy of the work.” Agni summoned Varuna, who gave Arjuna the great bow Gandiva, never-ending quivers, and a divine chariot with white horses. To Krishna he gave the discus Sudarshana and a mace.\n\nThe forest was lit. Flames shot up to the sky, and the creatures fled. Indra sent storm clouds to put out the flames. But Arjuna shot a roof of arrows over the forest and no rain could fall. Indra himself came down to fight, and the earth trembled as the two stood eye to eye. In the end the king of the gods, laughing, stepped back, and told Arjuna he had earned his respect.",
+    "hi": {
+     "text": "वह ब्राह्मण अग्निदेव थे। “मुझे सदा भूख लगी रहती है,” उन्होंने कहा, “और मैं खांडव वन खाना चाहता हूँ। पर जब भी मैं प्रयास करता हूँ, इंद्र अपने मित्र नाग तक्षक की रक्षा के लिए, जो वहाँ रहता है, वर्षा भेज देते हैं। क्या तुम मेरी सहायता करोगे?”\n\nकृष्ण और अर्जुन मान गए, पर अर्जुन ने कहा, “हमें इस काम के योग्य शस्त्र चाहिए।” अग्नि ने वरुण को बुलाया, जिन्होंने अर्जुन को महान गांडीव धनुष, कभी खाली न होने वाले तरकश और सफ़ेद घोड़ों वाला दिव्य रथ दिया। कृष्ण को उन्होंने सुदर्शन चक्र और एक गदा दी।\n\nवन में आग लगी। ज्वालाएँ आकाश तक उठीं, और जीव भागने लगे। इंद्र ने आग बुझाने के लिए तूफ़ानी बादल भेजे। पर अर्जुन ने वन के ऊपर बाणों की छत बना दी और कोई वर्षा न गिर सकी। स्वयं इंद्र लड़ने उतर आए, और जब दोनों आमने-सामने खड़े हुए तो धरती काँप उठी। अंत में देवराज, हँसते हुए, पीछे हट गए, और अर्जुन से कहा कि उसने उनका आदर अर्जित कर लिया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो ब्राह्मण अग्निदेव होता. “मला नेहमी भूक लागलेली असते,” तो म्हणाला, “आणि मला खांडव वन खायचे आहे. पण प्रत्येक वेळी मी प्रयत्न करतो तेव्हा इंद्र त्याचे रक्षण करण्यासाठी पाऊस पाडतो, कारण त्याचा मित्र तक्षक नाग तिथे राहतो. तुम्ही मला मदत कराल का?”\n\nकृष्ण आणि अर्जुनाने होकार दिला, पण अर्जुन म्हणाला, “या कार्याला शोभतील अशी शस्त्रे आम्हाला हवीत.” अग्नीने वरुणाला बोलावले, ज्याने अर्जुनाला महान गांडीव धनुष्य, कधीही न संपणारे भाते आणि पांढऱ्या घोड्यांचा दिव्य रथ दिला. कृष्णाला त्याने सुदर्शन चक्र आणि एक गदा दिली.\n\nवनाला आग लावली गेली. ज्वाला आकाशापर्यंत उसळल्या, आणि प्राणी पळाले. इंद्राने आग विझवण्यासाठी वादळी ढग पाठवले. पण अर्जुनाने वनावर बाणांचे छत उभारले आणि पाऊस पडू शकला नाही. स्वतः इंद्र लढायला खाली उतरला, आणि दोघे समोरासमोर उभे ठाकले तेव्हा भूमी हादरली. शेवटी देवांचा राजा हसत मागे सरला आणि त्याने अर्जुनाला सांगितले की त्याने आपला आदर कमावला आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The architect Maya",
+    "hi": {
+     "text": "मय, वास्तुकार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिल्पकार मय",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "As the flames raged, an asura named Maya, master architect of the demons, came fleeing from the fire. Seeing Arjuna’s arrow ready, he threw himself at Arjuna’s feet. “Save me,” he cried.\n\nArjuna, who was bound by his word to protect anyone who asked for shelter, lowered his bow. Krishna too held back his discus. Maya trembled, and stood up straight.\n\n“I have no way to repay you,” he said, “but I can build. Tell me what you desire, and I will make it.”\n\nKrishna suggested he build a palace for Yudhishthira, the like of which had never been seen. Maya smiled with joy. He worked day and night, drawing plans, calling craftsmen, and bringing gems and gold from far-off mountains. He had a talent no mortal architect possessed. He could make stone look like water and water like stone, glass like air and air like glass.\n\nThe Pandavas would soon see what he could do.",
+    "hi": {
+     "text": "जब ज्वाला धधक रही थी, मय नाम का एक असुर, दानवों का महान वास्तुकार, आग से भागता हुआ आया। अर्जुन का तैयार बाण देखकर वह उसके चरणों में गिर पड़ा। “मुझे बचा लो,” वह चिल्लाया।\n\nअर्जुन, जो हर शरण माँगने वाले की रक्षा के वचन से बँधा था, ने धनुष नीचे कर लिया। कृष्ण ने भी अपना चक्र रोक लिया। मय काँपता हुआ सीधा खड़ा हो गया।\n\n“मेरे पास आपका ऋण चुकाने का कोई उपाय नहीं,” उसने कहा, “पर मैं निर्माण कर सकता हूँ। मुझे बताइए आप क्या चाहते हैं, मैं बनाऊँगा।”\n\nकृष्ण ने सुझाया कि वह युधिष्ठिर के लिए एक ऐसा महल बनाए जैसा पहले कभी देखा न गया हो। मय हर्ष से मुस्कुराया। उसने दिन-रात काम किया, योजनाएँ खींचीं, कारीगर बुलाए, और दूर के पर्वतों से रत्न और स्वर्ण मँगवाए। उसके पास ऐसी प्रतिभा थी जो किसी मनुष्य वास्तुकार के पास नहीं थी। वह पत्थर को जल जैसा और जल को पत्थर जैसा, काँच को हवा जैसा और हवा को काँच जैसा दिखा सकता था।\n\nपांडव जल्दी ही देखने वाले थे कि वह क्या कर सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्वाला भडकत असताना मय नावाचा असुर, राक्षसांचा प्रमुख वास्तुकार, आगीतून पळत आला. अर्जुनाचा बाण सज्ज असलेला पाहून त्याने स्वतःला अर्जुनाच्या पायांवर झोकून दिले. “मला वाचवा,” तो ओरडला.\n\nआश्रय मागणाऱ्या कोणाचेही रक्षण करण्याच्या आपल्या वचनाने बांधलेल्या अर्जुनाने धनुष्य खाली केले. कृष्णानेही आपले चक्र आवरले. मय थरथरला आणि ताठ उभा राहिला.\n\n“तुमचे उपकार फेडण्याचा माझ्याकडे मार्ग नाही,” तो म्हणाला, “पण मी बांधू शकतो. तुम्हाला काय हवे ते सांगा, मी ते बनवेन.”\n\nकृष्णाने सुचवले की त्याने युधिष्ठिरासाठी असा महाल बांधावा जसा कधी कोणी पाहिला नसेल. मय आनंदाने हसला. तो रात्रंदिवस राबला, आराखडे काढले, कारागिरांना बोलावले, आणि दूरच्या पर्वतांतून रत्ने आणि सोने आणले. त्याच्याकडे एक कला होती जी कोणत्याही मर्त्य शिल्पकाराकडे नव्हती. तो दगडाला पाण्यासारखे आणि पाण्याला दगडासारखे, काचेला हवेसारखे आणि हवेला काचेसारखे दिसायला लावू शकत होता.\n\nतो काय करू शकतो ते पांडवांना लवकरच दिसणार होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Indraprastha shines",
+    "hi": {
+     "text": "इंद्रप्रस्थ की शोभा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इंद्रप्रस्थाचे तेज",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A year later, the barren land was no more. In its place rose Indraprastha, the city of Indra, with white towers, golden domes, shining lakes and blossoming gardens. Its walls were so high that clouds seemed to rest on them. In the centre stood the wonder of the age: the Maya Sabha, the great hall of assembly.\n\nIt was made of crystal and gold, and shone like the sun at noon. There were pools with lotuses of jewel, pillars carved with peacocks, and ceilings painted like the starry sky. Wherever you looked, there was something to catch the breath.\n\nYudhishthira ruled with justice. Bhima and Arjuna, Nakula and Sahadeva guarded the borders, and Draupadi presided over the household with grace. No one went hungry. No one was afraid. The kingdom of the Pandavas became famous, and kings from far and wide came to see it.\n\nAmong them, one day, came Duryodhana, with his brother Dushasana and his uncle Shakuni, to admire the splendour of the hall.",
+    "hi": {
+     "text": "एक वर्ष बाद वह बंजर भूमि नहीं रही। उसकी जगह इंद्रप्रस्थ खड़ा था, इंद्र का नगर, सफ़ेद मीनारों, सुनहरे गुंबदों, चमकती झीलों और खिलते बगीचों वाला। उसकी दीवारें इतनी ऊँची थीं कि बादल उन पर विश्राम करते लगते थे। बीच में युग का आश्चर्य खड़ा था: मय सभा, सभा का महान भवन।\n\nवह स्फटिक और सोने से बना था, और दोपहर के सूरज की तरह चमकता था। उसमें रत्नों के कमल वाले सरोवर थे, मोरों की नक्काशी वाले खंभे थे, और तारों भरे आकाश जैसी चित्रित छतें थीं। जहाँ भी देखो, साँस थाम लेने वाली कोई न कोई चीज़ थी।\n\nयुधिष्ठिर न्याय से राज करते थे। भीम और अर्जुन, नकुल और सहदेव सीमाओं की रक्षा करते थे, और द्रौपदी अनुग्रह के साथ घर सँभालती थीं। कोई भूखा नहीं था। कोई भयभीत नहीं था। पांडवों का राज्य प्रसिद्ध हो गया, और दूर-दूर के राजा उसे देखने आने लगे।\n\nउन्हीं में एक दिन दुर्योधन भी आया, अपने भाई दुःशासन और मामा शकुनि के साथ, उस सभा की भव्यता देखने।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका वर्षानंतर ओसाड भूमी राहिली नव्हती. तिच्या जागी इंद्रप्रस्थ उभे राहिले, इंद्राचे नगर, पांढऱ्या मनोऱ्यांचे, सोनेरी घुमटांचे, चमचमत्या सरोवरांचे आणि बहरलेल्या बागांचे. त्याच्या भिंती इतक्या उंच होत्या की ढग त्यांच्यावर विसावल्यासारखे वाटत. मध्यभागी त्या युगाचे आश्चर्य उभे होते: मय सभा, महान सभागृह.\n\nती स्फटिक आणि सोन्याने बनली होती, आणि मध्यान्हीच्या सूर्यासारखी चमकत होती. तिथे रत्नांच्या कमळांचे तलाव होते, मोरांनी कोरलेले खांब होते, आणि ताऱ्यांच्या आकाशासारखी रंगवलेली छते होती. तुम्ही जिथे पाहाल तिथे श्वास रोखायला लावणारे काहीतरी होते.\n\nयुधिष्ठिराने न्यायाने राज्य केले. भीम आणि अर्जुन, नकुल आणि सहदेव सीमांचे रक्षण करत, आणि द्रौपदी घराची सूत्रे सुरेखपणे सांभाळत असे. कोणीही उपाशी राहिले नाही. कोणालाही भीती वाटली नाही. पांडवांचे राज्य प्रसिद्ध झाले, आणि दूरदूरचे राजे ते पाहायला येऊ लागले.\n\nत्यांपैकी एके दिवशी दुर्योधन आपला भाऊ दुःशासन आणि मामा शकुनी यांच्यासह सभागृहाचे वैभव पाहायला आला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The hall of illusions",
+    "hi": {
+     "text": "भ्रम की सभा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भासांचे सभागृह",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Duryodhana walked through the Maya Sabha with a smile that did not reach his eyes. He was dazzled and he was bitter. Everything his cousins owned seemed brighter than what he had.\n\nThen he came to a floor of polished crystal, so shiny he thought it was water. He lifted his robe and stepped carefully. A few steps later, he saw what looked like a smooth marble floor, and strode confidently across it, and plunged straight into a pool. His clothes were soaked and his turban fell off.\n\nThen, at a door that looked open, he walked into a wall and hit his forehead. At a door that looked solid, he stood confused, and pushed at a door that opened onto empty air.\n\nThe servants smiled behind their hands. Bhima laughed out loud, and so did others. Duryodhana turned the colour of rage. He fled the palace, and his cousins sent him fresh clothes. But no clothes could dry that burning shame.",
+    "hi": {
+     "text": "दुर्योधन मय सभा में ऐसी मुस्कान लिए चला जो उसकी आँखों तक नहीं पहुँचती थी। वह चकित था और कड़वाहट से भरा भी। उसके भाइयों के पास जो कुछ था, सब उसके अपने से अधिक चमकदार लगता था।\n\nफिर वह स्फटिक के एक ऐसे चमकदार फ़र्श पर पहुँचा कि उसे लगा वह जल है। उसने अपना वस्त्र उठाया और सँभलकर पैर रखा। कुछ कदम बाद उसे चिकने संगमरमर जैसा फ़र्श दिखा, और वह विश्वास से उस पर चल पड़ा, और सीधा एक सरोवर में जा गिरा। उसके वस्त्र भीग गए और पगड़ी गिर गई।\n\nफिर एक खुले जैसे दिखते द्वार पर वह दीवार से टकराया और माथा लगा बैठा। एक ठोस दिखते द्वार पर वह उलझन में खड़ा रहा, और जिसे धक्का दिया, वह खुलकर खाली हवा में खुल गया।\n\nसेवक हाथों के पीछे मुस्कुराए। भीम ज़ोर से हँस पड़ा, और दूसरे भी। दुर्योधन का मुख क्रोध से लाल हो गया। वह महल से भाग निकला, और उसके भाइयों ने उसे नए वस्त्र भिजवाए। पर कोई वस्त्र उस जलती हुई लज्जा को सुखा न सका।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुर्योधन डोळ्यांपर्यंत न पोहोचणाऱ्या हास्याने मय सभेतून चालला होता. तो दिपून गेला होता आणि कडवटही झाला होता. त्याच्या चुलत भावांकडे जे काही होते ते त्याच्याकडच्यापेक्षा अधिक चकाकणारे वाटत होते.\n\nमग तो घासून गुळगुळीत केलेल्या स्फटिकाच्या फरशीपाशी आला, जी इतकी चमकत होती की त्याला ते पाणी वाटले. त्याने आपले वस्त्र वर उचलले आणि सावधपणे पाऊल टाकले. थोड्या पावलांनंतर त्याला गुळगुळीत संगमरवरी फरशी दिसली, आणि तो आत्मविश्वासाने त्यावरून चालला, आणि थेट एका तळ्यात कोसळला. त्याची वस्त्रे भिजली आणि पागोटे पडले.\n\nमग उघड्या दिसणाऱ्या दारातून जाताना तो भिंतीवर आदळला आणि त्याचे कपाळ फुटले. भक्कम दिसणाऱ्या दारापाशी तो गोंधळून उभा राहिला, आणि ज्या दाराला त्याने ढकलले ते रिकाम्या हवेत उघडले.\n\nसेवक हाताआड हसले. भीम मोठ्याने हसला, आणि इतरही. दुर्योधन संतापाच्या रंगाने लालबुंद झाला. तो महालातून पळून गेला, आणि त्याच्या चुलत भावांनी त्याला नवी वस्त्रे पाठवली. पण कोणतीही वस्त्रे ती जळती लाज सुकवू शकली नाहीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The laughter that festered",
+    "hi": {
+     "text": "वह हँसी, जो घाव बनी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मनात सडलेले हसू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Duryodhana went home sick with envy. “I saw their wealth,” he told his uncle Shakuni, “and I will not live with it. They laughed at me.”\n\nA much-told later tradition says it was Draupadi who laughed, and who called out, “The son of a blind man is blind himself.” Vyasa’s text records only that Bhima and the servants laughed, and the sources differ. Whoever it was, the sting was real, and it was deep.\n\nWhat matters is what grew from it. Duryodhana had everything a prince could ask for, and the whole kingdom of Hastinapura. But what he saw was only what he did not have. Envy is a quiet poison. It can turn a hundred rooms of gold into a prison.\n\nShakuni, watching his nephew’s face, listened and said softly, “I know how to win Indraprastha without a single arrow. All we need is dice.” And the game of destiny began to take shape.",
+    "hi": {
+     "text": "दुर्योधन ईर्ष्या से बीमार होकर घर लौटा। “मैंने उनका वैभव देखा,” उसने अपने मामा शकुनि से कहा, “और मैं उसके साथ नहीं जी सकता। वे मुझ पर हँसे।”\n\nबाद की एक बहुत कही जाने वाली परंपरा कहती है कि हँसने वाली द्रौपदी थी, जिसने पुकारकर कहा, “अंधे का पुत्र अंधा ही होता है।” व्यास के पाठ में केवल इतना है कि भीम और सेवक हँसे थे, और स्रोतों में भेद है। जो भी हो, चुभन सच्ची थी, और गहरी थी।\n\nमहत्व इस बात का है कि उससे क्या उगा। दुर्योधन के पास वह सब था जो एक राजकुमार माँग सकता है, और पूरा हस्तिनापुर का राज्य भी। पर उसे केवल वही दिखता था जो उसके पास नहीं था। ईर्ष्या एक चुपचाप फैलने वाला विष है। वह सोने के सौ कमरों को भी कारागार बना सकती है।\n\nशकुनि ने भांजे का चेहरा देखा, सुना, और धीरे से कहा, “मुझे पता है कि बिना एक भी बाण के इंद्रप्रस्थ कैसे जीता जाए। हमें बस पासे चाहिए।” और नियति का खेल आकार लेने लगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुर्योधन मत्सराने आजारी होऊन घरी गेला. “मी त्यांची संपत्ती पाहिली,” तो आपला मामा शकुनीला म्हणाला, “आणि ती पाहून मी जगू शकणार नाही. ते माझ्यावर हसले.”\n\nनंतरची एक बहुचर्चित परंपरा सांगते की द्रौपदी हसली होती, आणि ती म्हणाली होती, “अंधाचा पुत्र अंधच असतो.” व्यासांच्या ग्रंथात फक्त भीम आणि सेवक हसल्याचे नोंदवले आहे, आणि स्रोतांमध्ये मतभेद आहेत. कोणीही असो, डंख खरा होता, आणि तो खोलवर गेला.\n\nमहत्त्वाचे आहे ते त्यातून काय उगवले. दुर्योधनाकडे राजपुत्र मागू शकेल ते सर्व काही होते, आणि संपूर्ण हस्तिनापूरचे राज्यही. पण त्याला दिसले ते फक्त जे त्याच्याकडे नव्हते. मत्सर हे शांत विष आहे. ते शंभर सोन्याच्या दालनांनाही तुरुंग बनवू शकते.\n\nपुतण्याचा चेहरा पाहत ऐकणारा शकुनी हळूच म्हणाला, “मला एकही बाण न सोडता इंद्रप्रस्थ जिंकता येते. आपल्याला फक्त फासे हवेत.” आणि नियतीच्या खेळाने आकार घ्यायला सुरुवात केली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Duryodhana had a great kingdom but could only see what his cousins had. What do you own that you stop seeing because you are looking at what others own? Today, write down three things you have and be grateful.",
+  "hi": {
+   "text": "दुर्योधन के पास विशाल राज्य था, पर उसे केवल वही दिखता था जो उसके भाइयों के पास था। आपके पास ऐसा क्या है जो दूसरों का देखकर आप देखना छोड़ देते हैं? आज अपने पास की तीन चीज़ें लिखिए और उनके लिए आभार कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुर्योधनाकडे मोठे राज्य होते, पण त्याला फक्त चुलत भावांकडे जे होते तेच दिसले. इतरांकडे काय आहे ते पाहता पाहता तुमच्याकडे जे आहे ते तुम्हाला कोणते दिसेनासे झाले आहे? आज तुमच्याकडे असलेल्या तीन गोष्टी लिहा आणि कृतज्ञ राहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Envy turns abundance into poverty, and gratitude turns even a barren land into a garden.",
+  "hi": {
+   "text": "ईर्ष्या भरपूरी को दरिद्रता बना देती है, और कृतज्ञता बंजर धरती को भी बगीचा कर देती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्सर विपुलतेला दारिद्र्य बनवतो, आणि कृतज्ञता ओसाड भूमीलाही बाग बनवते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva (Khandavadaha Parva) and Sabha Parva; Draupadi’s laughter is a later popular tradition",
+  "hi": {
+   "text": "महाभारत, आदि पर्व (खांडवदाह पर्व) और सभा पर्व; द्रौपदी की हँसी बाद की लोकप्रिय परंपरा है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व (खांडवदाहपर्व) आणि सभापर्व; द्रौपदीचे हसणे ही नंतरची लोकप्रिय परंपरा आहे",
+   "reviewed": false
+  }
+ }
+}

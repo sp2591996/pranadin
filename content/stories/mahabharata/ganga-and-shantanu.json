@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "ganga-and-shantanu",
+ "order": 2,
+ "part": "adi",
+ "figure": {
+  "en": "Shantanu and Ganga",
+  "hi": {
+   "text": "शांतनु और गंगा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शंतनू आणि गंगा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The river who would not be questioned",
+  "hi": {
+   "text": "वह नदी, जिससे प्रश्न नहीं किया जा सकता था",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रश्न विचारू न देणारी नदी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A king falls in love with a woman who gives him one rule: never ask why. Seven times he keeps silent while the river takes his children.",
+  "hi": {
+   "text": "एक राजा को ऐसी स्त्री से प्रेम हो जाता है जो उसके सामने एक ही नियम रखती है: कभी कारण मत पूछना। सात बार वह चुप रहता है, और नदी उसकी संतानों को ले जाती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एका राजाचे एका स्त्रीवर प्रेम जडते आणि ती त्याला एकच नियम घालते: कधीही कारण विचारायचे नाही. सात वेळा तो गप्प राहतो आणि नदी त्याची मुले घेऊन जाते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/ganga-and-shantanu-1.webp",
+   "w": 660,
+   "h": 921,
+   "caption": {
+    "en": "Ganga carries her child to the river as King Shantanu watches (Raja Ravi Varma, 1890)",
+    "hi": {
+     "text": "राजा शांतनु के देखते-देखते गंगा अपने शिशु को नदी में ले जाती हैं (राजा रवि वर्मा, 1890)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा शंतनू पाहत असताना गंगा आपल्या बाळाला नदीत नेते (राजा रवी वर्मा, 1890)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Ganga_and_Shantanu_(1890).jpg"
+  },
+  {
+   "src": "/stories/mahabharata/ganga-and-shantanu-2.webp",
+   "w": 826,
+   "h": 1100,
+   "caption": {
+    "en": "Ganga returns her grown son Devavrata to King Shantanu (Ravi Varma Press)",
+    "hi": {
+     "text": "गंगा अपने युवा पुत्र देवव्रत को राजा शांतनु को लौटाती हैं (रवि वर्मा प्रेस)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गंगा आपला तरुण पुत्र देवव्रत राजा शंतनूला परत देते (रवि वर्मा प्रेस)",
+     "reviewed": false
+    }
+   },
+   "credit": "Bamapada Banerjee, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_scene_from_the_Mahabharata_of_the_presentation_by_Ganga_of_her_son_Devavrata_(the_future_Bhisma)_to_his_father,_Santanu..jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A woman by the river",
+    "hi": {
+     "text": "नदी किनारे एक स्त्री",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीकाठची स्त्री",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Shantanu of Hastinapura loved to hunt along the banks of the sacred Ganga. One golden afternoon he saw a woman standing at the water’s edge, so radiant that the whole shore seemed lit from within. Her robes were white as foam. Her eyes were calm as deep water.\n\nShantanu forgot the hunt. “Who are you?” he asked. “Be my queen, and half my kingdom is yours.”\n\nShe looked at him for a long moment. “I will marry you,” she said, “but on one condition. Whatever I do, whether it seems good or terrible, you must never question me, and you must never stop me. On the day you do, I leave you forever.”\n\nThe king was so enchanted that he agreed without a thought. He took her to his palace, and for a time there was only happiness. Their days were bright, and the whole court said that the king had never looked so glad.",
+    "hi": {
+     "text": "हस्तिनापुर के राजा शांतनु को पवित्र गंगा के किनारे शिकार खेलना बहुत भाता था। एक सुनहरी दोपहर उन्होंने जल के किनारे खड़ी एक स्त्री को देखा, इतनी दीप्तिमान कि पूरा तट भीतर से जगमगाता लगता था। उसके वस्त्र झाग की तरह उजले थे। उसकी आँखें गहरे जल की तरह शांत थीं।\n\nशांतनु शिकार भूल गए। “तुम कौन हो?” उन्होंने पूछा। “मेरी रानी बन जाओ, मेरा आधा राज्य तुम्हारा।”\n\nवह कुछ देर उन्हें देखती रही। “मैं आपसे विवाह करूँगी,” उसने कहा, “पर एक शर्त पर। मैं जो भी करूँ, अच्छा लगे या भयानक, आप मुझसे कभी प्रश्न नहीं करेंगे, और मुझे रोकेंगे भी नहीं। जिस दिन आपने ऐसा किया, मैं आपको सदा के लिए छोड़ दूँगी।”\n\nराजा इतने मोहित थे कि बिना सोचे मान गए। वे उसे अपने महल ले आए, और कुछ समय तक बस सुख ही सुख रहा। दिन उजले थे, और पूरा दरबार कहता था कि राजा इतना प्रसन्न पहले कभी नहीं दिखे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हस्तिनापूरचा राजा शंतनू पवित्र गंगेच्या काठावर शिकार करायला आवडत असे. एका सोनेरी दुपारी त्याला पाण्याच्या कडेला उभी असलेली एक स्त्री दिसली. ती इतकी तेजस्वी होती की सारा काठ आतून उजळल्यासारखा वाटत होता. तिची वस्त्रे फेसासारखी शुभ्र होती. तिचे डोळे खोल पाण्यासारखे शांत होते.\n\nशंतनू शिकार विसरून गेला. “तू कोण आहेस?” त्याने विचारले. “माझी राणी हो, आणि अर्धे राज्य तुझे.”\n\nतिने बराच वेळ त्याच्याकडे पाहिले. “मी तुझ्याशी विवाह करीन,” ती म्हणाली, “पण एका अटीवर. मी काहीही केले, ते चांगले वाटो किंवा भयंकर, तरी तू मला कधीही प्रश्न विचारायचा नाहीस आणि मला अडवायचे नाहीस. ज्या दिवशी तू तसे करशील, त्या दिवशी मी तुला कायमची सोडून जाईन.”\n\nराजा इतका मोहित झाला होता की त्याने विचार न करताच होकार दिला. तो तिला आपल्या राजवाड्यात घेऊन आला, आणि काही काळ केवळ आनंदच आनंद होता. त्यांचे दिवस उजळ होते, आणि सारा दरबार म्हणे की राजा इतका सुखी कधीच दिसला नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The first cry",
+    "hi": {
+     "text": "पहली चीख",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहिला आक्रोश",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A year passed, and a son was born. The palace rang with drums and joy. Then, before the night was over, the queen lifted the baby in her arms and quietly left the palace. She walked to the river and, before the king’s astonished eyes, she placed the child in the flowing water. The current took him and he was gone.\n\nShantanu stood frozen. His heart cried out, but he remembered his promise. He said nothing.\n\nThe next year another son was born, and the river took him too. Then a third, a fourth, a fifth, a sixth, and a seventh. Each time the queen smiled as if at some secret, and each time the king, pale and shaking, kept his word. He lay awake at night wondering what sort of woman he had married, and what sort of father he had become.\n\nBut love and fear held his tongue seven times.",
+    "hi": {
+     "text": "एक वर्ष बीता और पुत्र का जन्म हुआ। महल नगाड़ों और उल्लास से गूँज उठा। फिर रात बीतने से पहले ही रानी ने बच्चे को गोद में उठाया और चुपचाप महल से निकल गई। वह नदी तक गई, और राजा की चकित आँखों के सामने उसने शिशु को बहते जल में रख दिया। धारा उसे ले गई और वह ओझल हो गया।\n\nशांतनु जड़ बने खड़े रहे। उनका हृदय चीख रहा था, पर उन्हें अपना वचन याद था। वे कुछ नहीं बोले।\n\nअगले वर्ष एक और पुत्र हुआ, और नदी उसे भी ले गई। फिर तीसरा, चौथा, पाँचवाँ, छठा और सातवाँ। हर बार रानी किसी गुप्त बात पर मुस्कुराती, और हर बार राजा, पीले और काँपते हुए, अपना वचन निभाते रहे। रातों को वे जागकर सोचते कि उन्होंने कैसी स्त्री से विवाह किया है, और वे कैसे पिता बन गए हैं।\n\nपर प्रेम और भय ने सात बार उनकी जीभ थामे रखी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक वर्ष लोटले आणि एक पुत्र जन्मला. राजवाडा ढोलताशांनी आणि आनंदाने दुमदुमून गेला. पण रात्र सरायच्या आत राणीने बाळाला हातात उचलले आणि शांतपणे राजवाड्याबाहेर पडली. ती नदीकडे गेली आणि राजाच्या चकित डोळ्यांसमोर तिने बाळाला वाहत्या पाण्यात सोडले. प्रवाहाने त्याला नेले आणि तो दिसेनासा झाला.\n\nशंतनू गोठून उभा राहिला. त्याचे हृदय ओरडत होते, पण त्याला आपले वचन आठवले. तो काहीच बोलला नाही.\n\nपुढच्या वर्षी आणखी एक पुत्र झाला, आणि नदीने त्यालाही घेऊन गेली. मग तिसरा, चौथा, पाचवा, सहावा आणि सातवा. प्रत्येक वेळी राणी एखाद्या गुपिताकडे पाहून हसल्यासारखी हसली, आणि प्रत्येक वेळी राजाने, फिका पडून आणि थरथरत, आपला शब्द पाळला. रात्री जागेपणी तो विचार करी, आपण कोणत्या प्रकारच्या स्त्रीशी विवाह केला आणि कोणत्या प्रकारचे पिता झालो.\n\nपण प्रेम आणि भीतीने सात वेळा त्याची जीभ बांधून ठेवली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The eighth child",
+    "hi": {
+     "text": "आठवाँ पुत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आठवे बाळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the eighth son was born, a strong and beautiful baby, Shantanu felt he could bear it no longer. As the queen walked toward the water, he ran after her.\n\n“Stop!” he cried. “Who are you? Why do you kill your own children? What terrible curse is this? Spare this one, I beg you!”\n\nThe queen stopped at the water’s edge. She turned to him, and her eyes were full of an ancient sadness.\n\n“You have broken your promise, O king,” she said softly. “I will not drown this child. But I cannot stay.”\n\nThe wind fell silent. The river seemed to hold its breath.\n\n“I am Ganga,” she said, “the river of heaven, whom the world worships. Listen, and I will tell you why the seven children went into my waters.” The king dropped to his knees, unable to speak, as the radiance around her grew. The servants in the palace, who had followed at a distance, stopped in their tracks. A great hush lay over the water, as if the whole river had been waiting years for this very question.",
+    "hi": {
+     "text": "जब आठवाँ पुत्र जन्मा, एक बलवान और सुंदर बालक, तब शांतनु को लगा कि अब वे और नहीं सह सकते। रानी जैसे ही जल की ओर चली, वे उसके पीछे दौड़े।\n\n“रुको!” वे चिल्लाए। “तुम कौन हो? अपनी ही संतानों को क्यों मार रही हो? यह कैसा भयानक शाप है? इसे छोड़ दो, मैं हाथ जोड़ता हूँ!”\n\nरानी जल के किनारे रुक गई। वह उनकी ओर मुड़ी, और उसकी आँखों में एक पुरानी उदासी भरी थी।\n\n“राजन्, आपने अपना वचन तोड़ दिया,” उसने धीरे से कहा। “मैं इस बालक को नहीं डुबाऊँगी। पर मैं रुक नहीं सकती।”\n\nहवा थम गई। नदी जैसे साँस रोके खड़ी थी।\n\n“मैं गंगा हूँ,” उसने कहा, “स्वर्ग की नदी, जिसे संसार पूजता है। सुनिए, मैं बताती हूँ कि वे सात बालक मेरे जल में क्यों गए।” राजा घुटनों के बल गिर पड़े, बोल न सके, और उसके चारों ओर का तेज बढ़ता गया। महल के सेवक, जो दूर से पीछे-पीछे आ गए थे, जहाँ थे वहीं ठिठक गए। जल पर गहरा सन्नाटा छा गया, मानो पूरी नदी बरसों से इसी प्रश्न की प्रतीक्षा कर रही थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आठवा पुत्र जन्मला, एक धष्टपुष्ट आणि सुंदर बाळ, तेव्हा शंतनूला वाटले की आता आपण सहन करू शकत नाही. राणी पाण्याकडे चालू लागताच तो तिच्या मागे धावला.\n\n“थांब!” तो ओरडला. “तू कोण आहेस? तू स्वतःच्या मुलांना का मारतेस? हा कोणता भयंकर शाप आहे? या एकाला तरी वाचव, मी विनंती करतो!”\n\nराणी पाण्याच्या कडेला थांबली. ती त्याच्याकडे वळली आणि तिचे डोळे पुरातन दुःखाने भरले होते.\n\n“राजा, तू आपले वचन मोडलेस,” ती हळूच म्हणाली. “या बाळाला मी बुडवणार नाही. पण मी आता इथे राहू शकत नाही.”\n\nवारा थांबला. नदीने जणू श्वास रोखून धरला.\n\n“मी गंगा आहे,” ती म्हणाली, “स्वर्गातील नदी, जिची जग पूजा करते. ऐक, ती सात मुले माझ्या पाण्यात का गेली ते मी तुला सांगते.” राजा गुडघ्यांवर कोसळला, त्याला बोलता येईना, आणि तिच्याभोवतीचे तेज वाढत गेले. लांबून मागोमाग आलेले राजवाड्यातील सेवक जागीच थबकले. पाण्यावर गाढ शांतता पसरली, जणू सारी नदी या एकाच प्रश्नाची वर्षानुवर्षे वाट पाहत होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The secret of the Vasus",
+    "hi": {
+     "text": "वसुओं का रहस्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वसूंचे रहस्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Once,” said Ganga, “the eight Vasus, bright gods of the elements, wandered through the hermitage of the sage Vasishtha. One of them, Dyaus, was urged by his wife to steal the sage’s wonderful cow Nandini, who grants every wish. The Vasus took her.\n\n“Vasishtha saw through the theft and cursed them: they would be born as men on earth. When they begged for mercy, he eased the curse: seven of them would be freed quickly, but Dyaus, who had led the theft, must live a long life among mortals.\n\n“The Vasus came to me and asked me to be their mother. I promised to release them from their human lives the moment they were born. The seven are free and shining in heaven. This eighth is Dyaus.”\n\nShe lifted the child in her arms. “He will be great, and he will suffer greatly. I will raise him until he is ready. Then I will return him to you.” And in a swirl of silver light, she was gone.",
+    "hi": {
+     "text": "“एक बार,” गंगा ने कहा, “तत्वों के तेजस्वी देवता आठों वसु ऋषि वशिष्ठ के आश्रम में घूमने आए। उनमें से एक, द्यौ, को उसकी पत्नी ने उकसाया कि ऋषि की अद्भुत गाय नंदिनी को चुरा लो, जो हर इच्छा पूरी करती है। वसु उसे ले गए।\n\n“वशिष्ठ ने चोरी जान ली और उन्हें शाप दिया कि वे धरती पर मनुष्य बनकर जन्म लेंगे। जब उन्होंने दया की भीख माँगी, तो ऋषि ने शाप हलका कर दिया: सात जल्दी मुक्त हो जाएँगे, पर द्यौ, जिसने चोरी की अगुआई की थी, मनुष्यों के बीच लंबा जीवन जिएगा।\n\n“वसु मेरे पास आए और मुझसे अपनी माता बनने को कहा। मैंने वचन दिया कि जन्म लेते ही उन्हें मनुष्य जीवन से मुक्त कर दूँगी। वे सात मुक्त हैं और स्वर्ग में दमक रहे हैं। यह आठवाँ द्यौ है।”\n\nउसने बालक को गोद में उठाया। “यह महान होगा, और बहुत दुख भी सहेगा। जब तक यह तैयार न हो, मैं इसे पालूँगी। तब इसे आपको लौटा दूँगी।” और चाँदी जैसे तेज की एक लहर में वह अदृश्य हो गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“एकदा,” गंगा म्हणाली, “आठ वसू, तत्त्वांचे तेजस्वी देव, वसिष्ठ ऋषींच्या आश्रमात फिरत आले. त्यांपैकी द्यौ याला त्याच्या पत्नीने ऋषींची अद्भुत गाय नंदिनी चोरायला भाग पाडले, जी प्रत्येक इच्छा पूर्ण करते. वसूंनी तिला नेले.\n\n“वसिष्ठांनी चोरी ओळखली आणि त्यांना शाप दिला: त्यांना पृथ्वीवर माणूस म्हणून जन्म घ्यावा लागेल. त्यांनी दया मागितल्यावर ऋषींनी शाप सौम्य केला: सात जण लवकर मुक्त होतील, पण चोरीचा म्होरक्या द्यौ याला मर्त्यांमध्ये दीर्घ आयुष्य जगावे लागेल.\n\n“वसू माझ्याकडे आले आणि त्यांनी मला त्यांची माता व्हायला सांगितले. मी वचन दिले की जन्माला येताच मी त्यांना मानवी जीवनातून मुक्त करीन. ते सात जण मुक्त आहेत आणि स्वर्गात तेजाने चमकत आहेत. हा आठवा द्यौ आहे.”\n\nतिने बाळाला हातात उचलले. “हा मोठा होईल आणि मोठे दुःखही भोगेल. तो सिद्ध होईपर्यंत मी त्याला वाढवीन. मग मी त्याला तुझ्याकडे परत देईन.” आणि चंदेरी प्रकाशाच्या भोवऱ्यात ती अदृश्य झाली.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The boy who stopped the river",
+    "hi": {
+     "text": "जिस बालक ने नदी रोक दी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदी अडवणारा मुलगा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Years went by. Shantanu ruled wisely, but he walked by the Ganga each evening with an empty heart.\n\nOne day he noticed that the river was strangely low. Further upstream he saw why: a young man, radiant as a rising sun, stood on the bank and held back the whole stream with a wall of arrows. He drew his bow as easily as a child plays with a string.\n\nThe king stood amazed. Then Ganga herself rose out of the water, in her human form, and took the youth by the hand.\n\n“Shantanu, here is your son, Devavrata. He has studied the Vedas with Vasishtha, and the art of weapons with Parashurama himself, greatest of all warriors. There is none like him in the three worlds. Take him home.”\n\nThe boy knelt and touched his father’s feet. The king did not know what to do. He did not know whether to laugh or to weep, so he did both. There are moments when a father’s heart has no room for words, and the river, too, went silent and listened.",
+    "hi": {
+     "text": "वर्ष बीतते गए। शांतनु ने बुद्धिमानी से राज किया, पर हर शाम सूने मन से गंगा के किनारे टहलते रहे।\n\nएक दिन उन्होंने देखा कि नदी कुछ अजीब ढंग से घट गई है। ऊपर की ओर जाकर कारण दिखा: एक तरुण, उगते सूरज जैसा तेजस्वी, तट पर खड़ा था और बाणों की दीवार से पूरी धारा को रोके हुए था। वह धनुष ऐसे खींच रहा था जैसे बच्चा डोरी से खेलता है।\n\nराजा चकित खड़े रह गए। तभी स्वयं गंगा मानव रूप में जल से प्रकट हुईं और उस युवक का हाथ पकड़ लिया।\n\n“शांतनु, यह आपका पुत्र देवव्रत है। इसने वशिष्ठ से वेद पढ़े हैं, और शस्त्रविद्या स्वयं परशुराम से सीखी है, जो सब योद्धाओं में श्रेष्ठ हैं। तीनों लोकों में इसके समान कोई नहीं। इसे घर ले जाइए।”\n\nबालक ने घुटने टेककर पिता के चरण छुए। राजा समझ नहीं पाए कि हँसें या रोएँ, तो दोनों ही किया। कुछ क्षण ऐसे होते हैं जब पिता के हृदय में शब्दों के लिए जगह ही नहीं बचती, और नदी भी चुप होकर सुनती रही।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वर्षे सरली. शंतनूने शहाणपणाने राज्य केले, पण दररोज संध्याकाळी रिकाम्या हृदयाने तो गंगेकाठी फिरत असे.\n\nएके दिवशी त्याच्या लक्षात आले की नदी विचित्र रीतीने उथळ झाली आहे. थोडे वर गेल्यावर कारण दिसले: उगवत्या सूर्यासारखा तेजस्वी एक तरुण काठावर उभा होता आणि त्याने बाणांची भिंत उभारून संपूर्ण प्रवाह अडवला होता. एखादे मूल दोरीशी खेळावे तितक्या सहजपणे तो धनुष्य ओढत होता.\n\nराजा थक्क होऊन उभा राहिला. तेव्हा गंगा स्वतः मानवी रूपात पाण्यातून वर आली आणि तिने त्या तरुणाचा हात धरला.\n\n“शंतनू, हा तुझा पुत्र, देवव्रत. त्याने वसिष्ठांकडून वेदांचा अभ्यास केला आहे, आणि सर्वश्रेष्ठ योद्धा परशुरामांकडून शस्त्रविद्या शिकली आहे. तिन्ही लोकांत त्याच्यासारखा कोणी नाही. याला घरी घेऊन जा.”\n\nमुलाने गुडघे टेकून पित्याच्या पायांना स्पर्श केला. राजाला काय करावे सुचेना. हसावे की रडावे हे कळेना, म्हणून त्याने दोन्ही केले. काही क्षणी पित्याच्या हृदयात शब्दांना जागाच उरत नाही, आणि नदीही शांत होऊन ऐकत राहिली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince returns",
+    "hi": {
+     "text": "राजकुमार घर लौटा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमाराचे आगमन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shantanu’s heart nearly burst. He lifted his son to his chest and wept for the lost years, and then he laughed, because he could not help it. He led Devavrata through the gates of Hastinapura, where the people ran out to see the prince who had come back from the river.\n\nThe king declared him heir to the throne. The city blazed with lamps. The boy was gentle as he was mighty, honest with the elders, kind to the servants, loved by everyone.\n\nBut the old river of fate runs deep. Ganga’s words had been plain: this son would be great, and he would suffer greatly. Neither the king nor the prince guessed that the same love which now filled the palace would soon ask a terrible price of the one who had been born to carry it. A woman with the scent of a lotus was waiting on the banks of another river.",
+    "hi": {
+     "text": "शांतनु का हृदय भर आया। उन्होंने बेटे को छाती से लगा लिया और खोए हुए बरसों के लिए रोए, और फिर हँस पड़े, क्योंकि रोके न रुका। वे देवव्रत को हस्तिनापुर के द्वार से भीतर ले गए, जहाँ लोग उस राजकुमार को देखने दौड़ पड़े जो नदी से लौट आया था।\n\nराजा ने उसे युवराज घोषित कर दिया। नगर दीपों से जगमगा उठा। बालक जितना बलशाली था उतना ही कोमल भी, बड़ों से सच्चा, सेवकों से दयालु, और सबका प्यारा।\n\nपर भाग्य की पुरानी नदी बहुत गहरी बहती है। गंगा के शब्द साफ़ थे: यह पुत्र महान होगा, और बहुत दुख भी सहेगा। न राजा ने, न राजकुमार ने अनुमान लगाया कि जिस प्रेम से आज महल भरा है, वही प्रेम जल्द ही उससे एक भयंकर मूल्य माँगेगा जिसे इसका बोझ उठाने के लिए जन्म मिला है। कमल की सुगंध वाली एक स्त्री किसी दूसरी नदी के तट पर प्रतीक्षा कर रही थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंतनूचे हृदय भरून आले. त्याने मुलाला छातीशी कवटाळले आणि गमावलेल्या वर्षांसाठी तो रडला, आणि मग तो हसलाही, कारण त्याला राहवले नाही. त्याने देवव्रताला हस्तिनापूरच्या वेशीतून आत नेले, जिथे नदीतून परत आलेल्या राजकुमाराला पाहायला लोक धावत बाहेर आले.\n\nराजाने त्याला राजसिंहासनाचा वारस घोषित केले. नगर दिव्यांनी उजळले. तो मुलगा जितका पराक्रमी तितकाच सौम्य होता, वडिलधाऱ्यांशी प्रामाणिक, सेवकांशी दयाळू, सर्वांना प्रिय.\n\nपण नियतीची जुनी नदी खोलवर वाहते. गंगेचे शब्द स्पष्ट होते: हा पुत्र महान होईल आणि मोठे दुःखही भोगेल. आज राजवाडा भरून टाकणारे तेच प्रेम लवकरच, ते वाहण्यासाठी जन्मलेल्याकडून भयंकर किंमत मागणार आहे, याची राजाला किंवा राजकुमाराला कल्पनाही नव्हती. कमळाचा सुगंध असलेली एक स्त्री दुसऱ्या नदीच्या काठावर वाट पाहत होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Shantanu loved so much that he could not bear to watch what he did not understand. When did trust last ask you to wait without knowing why? Take one task today that you must trust to others, and let it be.",
+  "hi": {
+   "text": "शांतनु इतना प्रेम करते थे कि जो समझ नहीं आया, उसे देखना सह न सके। आख़िरी बार कब भरोसे ने आपसे कहा था कि बिना कारण जाने रुके रहो? आज कोई एक काम, जो आपको दूसरों के भरोसे छोड़ना है, उसे छोड़ दीजिए और होने दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शंतनूचे प्रेम इतके मोठे होते की जे त्याला समजत नव्हते ते पाहणे त्याला सहन झाले नाही. विश्वासाने तुम्हाला कारण न कळता थांबायला सांगितले, ते शेवटचे कधी? आज दुसऱ्यांवर सोपवावे लागेल असे एक काम घ्या आणि ते तसेच सोडून द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love is tested by its patience, and some things only reveal their meaning in their own time.",
+  "hi": {
+   "text": "प्रेम की परीक्षा उसके धैर्य में होती है, और कुछ बातों का अर्थ अपने ही समय पर खुलता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रेमाची परीक्षा त्याच्या संयमातून होते, आणि काही गोष्टींचा अर्थ त्यांच्या त्यांच्या वेळीच उलगडतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva (Sambhava Parva)",
+  "hi": {
+   "text": "महाभारत, आदि पर्व (संभव पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व (संभवपर्व)",
+   "reviewed": false
+  }
+ }
+}

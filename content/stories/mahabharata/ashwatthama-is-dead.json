@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "ashwatthama-is-dead",
+ "order": 26,
+ "part": "drona",
+ "figure": {
+  "en": "Drona and Yudhishthira",
+  "hi": {
+   "text": "द्रोण और युधिष्ठिर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "द्रोण आणि युधिष्ठिर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The half-truth",
+  "hi": {
+   "text": "अर्धसत्य",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्धसत्य",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The one man in the world who never lies is asked one question by a teacher he loves. What he says next will cost him the thing he valued most.",
+  "hi": {
+   "text": "संसार का वह एकमात्र मनुष्य जो कभी झूठ नहीं बोलता, उससे एक गुरु, जिन्हें वह प्रेम करता है, एक प्रश्न पूछते हैं। वह जो कहेगा, उसकी कीमत उसे उस चीज़ से चुकानी पड़ेगी जो उसे सबसे प्रिय थी।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जगातला कधीही खोटे न बोलणारा एकमेव माणूस, त्याला त्याच्या प्रिय गुरूंनी एक प्रश्न विचारला आहे. तो पुढे जे बोलेल, त्याची किंमत त्याला आपल्याला सर्वांत प्रिय गोष्ट देऊन चुकवावी लागेल.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/ashwatthama-is-dead-1.webp",
+   "w": 600,
+   "h": 908,
+   "caption": {
+    "en": "The death of Drona (Mughal painting)",
+    "hi": {
+     "text": "द्रोण का अंत (मुग़ल चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रोणांचा अंत (मुघल चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Mughal artist., Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Death_of_Drona_by_dhrishtadhyumna.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The unstoppable teacher",
+    "hi": {
+     "text": "अजेय गुरु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अजिंक्य गुरू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Drona was past eighty, but in battle he seemed a young man. His white hair streamed behind him. His chariot, with its red horses and its banner of the deer-skin and water-pot, moved across the field like a forest fire. On the fourteenth night, and on the fifteenth day, the Pandavas lost thousands.\n\nDhrishtadyumna, son of Drupada, had been born from fire for one purpose: to kill Drona. But whenever he came near, the old teacher’s arrows pushed him back.\n\nThe Pandavas held a council in the dusk. Their faces were tired and grey. “We cannot win while Drona holds a weapon,” said Arjuna, and he could not look at anyone. “He is my teacher. I love him. I cannot kill him.”\n\nKrishna listened, and then he spoke slowly. “Drona will never lay down his bow as long as he fights. But there is one thing that would make him do it. If he heard that his son Ashwatthama was dead, he would lose heart. The one he loves best in the world is his son.”\n\nYudhishthira shook his head. “That would be a lie.”\n\n“Yes,” said Krishna quietly. “And dharma is sometimes more tangled than a rule.”",
+    "hi": {
+     "text": "द्रोण अस्सी वर्ष से ऊपर थे, पर युद्ध में वे नौजवान लगते थे। उनके श्वेत केश पीछे लहराते थे। उनका रथ, लाल घोड़ों और मृगचर्म तथा कमंडलु वाली ध्वजा के साथ, मैदान में दावानल की तरह दौड़ता था। चौदहवीं रात और पंद्रहवें दिन पांडवों ने हज़ारों को खो दिया।\n\nद्रुपद का पुत्र धृष्टद्युम्न अग्नि से एक ही उद्देश्य के लिए जन्मा था: द्रोण का वध करना। पर जब भी वह पास आता, वृद्ध गुरु के बाण उसे पीछे धकेल देते।\n\nसाँझ ढलते पांडवों ने सभा की। उनके चेहरे थके और राख जैसे थे। “जब तक द्रोण के हाथ में शस्त्र है, हम नहीं जीत सकते,” अर्जुन ने कहा, और वह किसी से आँख नहीं मिला पा रहा था। “वे मेरे गुरु हैं। मैं उनसे प्रेम करता हूँ। मैं उन्हें नहीं मार सकता।”\n\nकृष्ण ने सुना, फिर धीरे-धीरे बोले। “जब तक द्रोण लड़ते हैं, वे धनुष नहीं रखेंगे। पर एक बात है जो उनसे यह करवा सकती है। यदि वे सुनें कि उनका पुत्र अश्वत्थामा मारा गया, तो उनका मन टूट जाएगा। संसार में उन्हें सबसे प्रिय अपना पुत्र है।”\n\nयुधिष्ठिर ने सिर हिलाया। “वह तो झूठ होगा।”\n\n“हाँ,” कृष्ण ने शांत स्वर में कहा। “और धर्म कभी-कभी किसी नियम से अधिक उलझा हुआ होता है।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रोण ऐंशी वर्षांच्या पुढे होते, पण युद्धात ते तरुणासारखे दिसत. त्यांचे पांढरे केस मागे उडत. त्यांचा रथ, लाल घोडे आणि मृगचर्म व कमंडलूच्या ध्वजासह, रानातल्या वणव्यासारखा मैदानावर फिरत होता. चौदाव्या रात्री आणि पंधराव्या दिवशी पांडवांनी हजारो योद्धे गमावले.\n\nद्रुपदाचा पुत्र धृष्टद्युम्न अग्नीतून एकाच हेतूसाठी जन्माला आला होता: द्रोणांचा वध करण्यासाठी. पण तो जवळ येताच वृद्ध गुरूंचे बाण त्याला मागे ढकलत.\n\nसंधिप्रकाशात पांडवांनी मंत्रणा केली. त्यांचे चेहरे थकलेले आणि राखाडी झाले होते. “द्रोणांच्या हातात शस्त्र असेपर्यंत आपण जिंकू शकत नाही,” अर्जुन म्हणाला, आणि त्याला कुणाकडे पाहवत नव्हते. “ते माझे गुरू आहेत. मी त्यांच्यावर प्रेम करतो. मी त्यांना मारू शकत नाही.”\n\nश्रीकृष्णांनी ऐकले, आणि मग हळूहळू बोलले. “द्रोण लढत असेपर्यंत धनुष्य कधीच खाली ठेवणार नाहीत. पण एक गोष्ट त्यांना तसे करायला लावू शकेल. त्यांचा पुत्र अश्वत्थामा मेला असे त्यांनी ऐकले, तर त्यांचे मन खचेल. त्यांना जगात सर्वांत प्रिय त्यांचा पुत्र आहे.”\n\nयुधिष्ठिराने मान हलवली. “ते असत्य होईल.”\n\n“होय,” श्रीकृष्ण शांतपणे म्हणाले. “आणि धर्म कधी कधी नियमापेक्षा अधिक गुंतागुंतीचा असतो.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "An elephant with a name",
+    "hi": {
+     "text": "नाम वाला हाथी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नाव असलेला हत्ती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Yudhishthira said nothing for a long time. All his life, he had never spoken a falsehood. People said that his chariot did not touch the ground; it travelled a hand’s breadth above the earth, held up by his truthfulness.\n\nIt was Bhima who found a way, or thought he had. There was in the Malava king’s army a great elephant named Ashwatthama. Bhima went into the thick of the fighting, found it, and struck it down with his mace. Then he strode across the field to Drona’s chariot and shouted at the top of his voice, “Ashwatthama is dead! Ashwatthama is dead!”\n\nDrona heard the words. He stopped. His bow slipped a little in his hand. But he did not wholly believe it. His son was a great warrior, blessed with a gift of immortality at his birth. It could not be true.\n\n“I will ask the one man in the world who will not lie,” said Drona softly. “If Yudhishthira says it, I will believe.”\n\nHe turned his chariot toward the king.",
+    "hi": {
+     "text": "युधिष्ठिर बहुत देर तक कुछ नहीं बोले। उन्होंने जीवन भर कभी असत्य नहीं बोला था। लोग कहते थे कि उनका रथ धरती को नहीं छूता था; वह उनकी सत्यनिष्ठा के बल पर भूमि से एक हाथ ऊपर चलता था।\n\nभीम ने एक रास्ता निकाला, या उसे ऐसा लगा। मालव राजा की सेना में अश्वत्थामा नाम का एक विशाल हाथी था। भीम घमासान लड़ाई के बीच गए, उसे ढूँढा, और अपनी गदा से मार गिराया। फिर वे मैदान पार करके द्रोण के रथ के पास पहुँचे और पूरी ताक़त से चिल्लाए, “अश्वत्थामा मारा गया! अश्वत्थामा मारा गया!”\n\nद्रोण ने ये शब्द सुने। वे रुक गए। उनके हाथ में धनुष थोड़ा फिसल गया। पर उन्हें पूरा विश्वास नहीं हुआ। उनका पुत्र महान योद्धा था, जिसे जन्म के समय अमरता का वरदान मिला था। यह सच नहीं हो सकता था।\n\n“मैं संसार के उस एकमात्र व्यक्ति से पूछूँगा जो झूठ नहीं बोलता,” द्रोण ने धीमे से कहा। “यदि युधिष्ठिर कहेगा, तो मैं मान लूँगा।”\n\nउन्होंने अपना रथ राजा की ओर मोड़ दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युधिष्ठिर बराच वेळ काही बोलला नाही. आयुष्यभर त्याने कधीही असत्य उच्चारले नव्हते. लोक म्हणत की त्याचा रथ जमिनीला स्पर्श करत नाही; तो त्याच्या सत्यनिष्ठेच्या बळावर भूमीपासून एक हातभर वर चालतो.\n\nभीमाने मार्ग शोधला, किंवा त्याला तसे वाटले. मालव राजाच्या सैन्यात अश्वत्थामा नावाचा एक मोठा हत्ती होता. भीमा लढाईच्या दाटीत शिरला, त्याला शोधले, आणि गदेने त्याला ठार केले. मग तो मैदान ओलांडून द्रोणांच्या रथाकडे गेला आणि पूर्ण आवाजात ओरडला, “अश्वत्थामा मेला! अश्वत्थामा मेला!”\n\nद्रोणांनी ते शब्द ऐकले. ते थांबले. त्यांच्या हातातले धनुष्य थोडे ढळले. पण त्यांचा पूर्ण विश्वास बसला नाही. त्यांचा पुत्र महान योद्धा होता, जन्मतः अमरत्वाचे वरदान लाभलेला. हे खरे असणे शक्य नव्हते.\n\n“जो जगात कधीही खोटे बोलत नाही त्याला मी विचारीन,” द्रोण हळूच म्हणाले. “युधिष्ठिर म्हणाला, तर मी विश्वास ठेवीन.”\n\nत्यांनी आपला रथ राजाकडे वळवला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The question",
+    "hi": {
+     "text": "वह प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Drona rode up to Yudhishthira. The noise of the battle seemed to quiet. He looked at the king with tired, trusting eyes.\n\n“Yudhishthira,” he said. “Tell me the truth, for I know that you never lie. Is my son Ashwatthama dead?”\n\nThe king’s mouth was dry. Beside him, Krishna whispered, “Say yes. If you say it, many lives will be saved. Dharma sometimes bends to protect the good. One small untruth will win this war.”\n\nBhima stood nearby, silent. The whole Pandava army waited, as did the Kauravas.\n\nYudhishthira’s hands trembled. He thought of his teacher, who had taught him as a boy, who had held his hand over the first arrow. He thought of all the dead. He thought of Abhimanyu. He drew a deep breath.\n\n“Ashwatthama is dead,” he said, loudly, so that all could hear.\n\nThen, almost silent, as if he were speaking to himself, he added a word so soft that no one could hear it over the noise of the field: “...the elephant.”\n\nDrona had already stopped listening.",
+    "hi": {
+     "text": "द्रोण युधिष्ठिर के पास पहुँचे। युद्ध का शोर मानो थम गया। उन्होंने थकी हुई, भरोसे से भरी आँखों से राजा को देखा।\n\n“युधिष्ठिर,” उन्होंने कहा। “मुझे सच बताओ, क्योंकि मैं जानता हूँ कि तुम कभी झूठ नहीं बोलते। क्या मेरा पुत्र अश्वत्थामा मारा गया?”\n\nराजा का मुँह सूख गया। उनके पास खड़े कृष्ण ने फुसफुसाकर कहा, “हाँ कह दो। यदि तुम कहोगे तो बहुत से प्राण बच जाएँगे। धर्म कभी-कभी भले लोगों की रक्षा के लिए झुक जाता है। एक छोटा-सा असत्य यह युद्ध जिता देगा।”\n\nभीम पास खड़े थे, चुप। पूरी पांडव सेना प्रतीक्षा कर रही थी, और कौरव भी।\n\nयुधिष्ठिर के हाथ काँपने लगे। उन्होंने अपने गुरु के बारे में सोचा, जिन्होंने उन्हें बचपन में सिखाया था, जिन्होंने उनके पहले बाण पर उनका हाथ थामा था। उन्होंने सब मृतकों के बारे में सोचा। उन्होंने अभिमन्यु के बारे में सोचा। उन्होंने गहरी साँस ली।\n\n“अश्वत्थामा मारा गया,” उन्होंने ऊँची आवाज़ में कहा, ताकि सब सुन सकें।\n\nफिर, लगभग मौन स्वर में, मानो अपने आप से कह रहे हों, उन्होंने एक शब्द जोड़ा, इतना धीमा कि मैदान के शोर में किसी को सुनाई न दिया: “...हाथी।”\n\nद्रोण पहले ही सुनना बंद कर चुके थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रोण रथ घेऊन युधिष्ठिराजवळ आले. युद्धाचा गोंगाट शांत झाल्यासारखा वाटला. त्यांनी थकलेल्या, विश्वासू डोळ्यांनी राजाकडे पाहिले.\n\n“युधिष्ठिरा,” ते म्हणाले. “मला खरे सांग, कारण तू कधीच खोटे बोलत नाहीस हे मला ठाऊक आहे. माझा पुत्र अश्वत्थामा मेला आहे का?”\n\nराजाचे तोंड कोरडे पडले. त्याच्या शेजारी श्रीकृष्ण कुजबुजले, “हो म्हण. तू म्हणालास, तर अनेक जीव वाचतील. चांगल्यांचे रक्षण करण्यासाठी धर्म कधी कधी वाकतो. एक लहानसे असत्य हे युद्ध जिंकून देईल.”\n\nभीम जवळच गप्प उभा होता. सारे पांडवांचे सैन्य वाट पाहत होते, तसेच कौरवही.\n\nयुधिष्ठिराचे हात थरथरले. त्याने आपल्या गुरूंचा विचार केला, ज्यांनी त्याला लहानपणी शिकवले, ज्यांनी पहिल्या बाणावर त्याच्या हातावर हात ठेवला होता. त्याने सर्व मृतांचा विचार केला. त्याने अभिमन्यूचा विचार केला. त्याने दीर्घ श्वास घेतला.\n\n“अश्वत्थामा मेला,” तो मोठ्याने म्हणाला, जेणेकरून सर्वांना ऐकू जावे.\n\nमग, जवळजवळ अस्फुट, जणू स्वतःशीच बोलत असल्यासारखा, तो एक असा हळू शब्द पुटपुटला की रणांगणाच्या गोंगाटात कुणालाही ऐकू गेला नाही: “...हत्ती.”\n\nद्रोणांनी आधीच ऐकणे सोडले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The chariot touches the earth",
+    "hi": {
+     "text": "रथ धरती पर उतर आया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रथ जमिनीला टेकतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Drona’s face changed. All the strength seemed to go out of him. His bow fell across his lap. “My son,” he whispered. “My Ashwatthama.”\n\nAt that moment, the people near Yudhishthira’s chariot saw something that made them cry out. The chariot, which had always floated a hand’s breadth above the ground, sank. Slowly, gently, its wheels touched the dusty earth. For the first time in his life, Yudhishthira stood on the same ground as everyone else.\n\nHe lowered his head. The half-truth had cost him something he could never get back, and he knew it.\n\nDrona, meanwhile, was a changed man. All his life he had been a warrior, and now, in a single moment, he did not want to fight. “It is enough,” he said quietly. “I have lived long. There is nothing more for me to do.”\n\nHe laid down his weapons in the chariot. He sat cross-legged on the floor of it, closed his eyes and turned his mind inward, in the yoga of a sage. The roar of the battle seemed far away from him, as if he sat on a quiet mountain.",
+    "hi": {
+     "text": "द्रोण का चेहरा बदल गया। उनका सारा बल मानो निकल गया। धनुष उनकी गोद में गिर पड़ा। “मेरा पुत्र,” वे बुदबुदाए। “मेरा अश्वत्थामा।”\n\nउसी क्षण युधिष्ठिर के रथ के पास खड़े लोगों ने कुछ ऐसा देखा कि वे चीख उठे। वह रथ, जो सदा भूमि से एक हाथ ऊपर तैरता रहा था, नीचे उतर आया। धीरे-धीरे, कोमलता से, उसके पहिये धूल भरी धरती से जा लगे। अपने जीवन में पहली बार युधिष्ठिर उसी भूमि पर खड़े थे जिस पर सब खड़े होते हैं।\n\nउन्होंने सिर झुका लिया। उस अर्धसत्य ने उनसे वह छीन लिया था जो कभी लौट नहीं सकता था, और वे यह जानते थे।\n\nउधर द्रोण एक बदले हुए मनुष्य थे। जीवन भर वे योद्धा रहे थे, और अब, एक ही क्षण में, उनका लड़ने का मन नहीं रहा। “बस, बहुत हुआ,” उन्होंने शांत स्वर में कहा। “मैंने लंबा जीवन जिया है। अब मेरे करने को कुछ नहीं बचा।”\n\nउन्होंने रथ में अपने शस्त्र रख दिए। वे उसके फ़र्श पर पालथी मारकर बैठ गए, आँखें मूँद लीं और ऋषियों के योग में अपना मन भीतर की ओर मोड़ लिया। युद्ध की गर्जना उनसे बहुत दूर हो गई, जैसे वे किसी शांत पर्वत पर बैठे हों।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रोणांचा चेहरा बदलला. त्यांच्यातली सारी शक्ती निघून गेल्यासारखी वाटली. त्यांचे धनुष्य मांडीवर पडले. “माझा पुत्र,” ते कुजबुजले. “माझा अश्वत्थामा.”\n\nत्याच क्षणी युधिष्ठिराच्या रथाजवळच्या लोकांनी असे काही पाहिले की ते ओरडले. जो रथ नेहमी जमिनीपासून हातभर वर तरंगत असे, तो खाली आला. हळूहळू, अलगद, त्याची चाके धुळीच्या भूमीला टेकली. आयुष्यात पहिल्यांदाच युधिष्ठिर इतर सर्वांसारख्याच जमिनीवर उभा होता.\n\nत्याने मान खाली घातली. त्या अर्धसत्याने त्याच्याकडून काही असे घेतले होते जे कधीच परत मिळणार नव्हते, आणि ते त्याला ठाऊक होते.\n\nद्रोण मात्र बदलून गेले होते. आयुष्यभर ते योद्धे होते, आणि आता एका क्षणात त्यांना लढायची इच्छाच उरली नाही. “पुरे झाले,” ते शांतपणे म्हणाले. “मी खूप जगलो. आता माझ्यासाठी करण्यासारखे काही उरले नाही.”\n\nत्यांनी रथात आपली शस्त्रे ठेवली. ते रथाच्या तळावर मांडी घालून बसले, डोळे मिटले आणि ऋषीच्या योगाने मन अंतर्मुख केले. युद्धाची गर्जना त्यांच्यापासून दूर वाटू लागली, जणू ते शांत पर्वतावर बसले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Dhrishtadyumna",
+    "hi": {
+     "text": "धृष्टद्युम्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धृष्टद्युम्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "From across the field, Dhrishtadyumna saw the old man sitting with his eyes shut and his bow laid aside. He saw his chance. He had been born from the sacrificial fire for just this moment.\n\n“Do not!” cried Arjuna, and he rode forward, his hands outstretched. “He is a brahmin, a teacher, unarmed. Take him alive.”\n\nBut the prince of Panchala could not be stopped. He drew his sword, leapt onto Drona’s chariot, and struck.\n\nThe white head fell. A great cry went up from the whole plain, from Kaurava and Pandava alike. The great guru of the Kurus, the teacher of kings, was gone.\n\nThe soldiers on both sides stood still. Even Arjuna, who loved his teacher, bowed his head and wept. Some later called it justice. Others called it a shame. The old storytellers do not hide that it was an ugly deed, done for the sake of a necessary end.\n\nYudhishthira wept alone in his chariot. He had won the day with a trick, and the victory was ashes in his mouth.",
+    "hi": {
+     "text": "मैदान के उस पार से धृष्टद्युम्न ने वृद्ध को आँखें मूँदे और धनुष एक ओर रखे बैठा देखा। उसे अपना अवसर दिखाई दिया। वह यज्ञ की अग्नि से बस इसी क्षण के लिए जन्मा था।\n\n“मत करो!” अर्जुन चिल्लाया, और हाथ फैलाए आगे दौड़ा। “वे ब्राह्मण हैं, गुरु हैं, निहत्थे हैं। उन्हें जीवित पकड़ लो।”\n\nपर पांचाल का राजकुमार रुकने वाला नहीं था। उसने तलवार खींची, द्रोण के रथ पर कूदा, और प्रहार कर दिया।\n\nवह श्वेत सिर गिर पड़ा। पूरे मैदान से, कौरवों और पांडवों दोनों की ओर से, एक बड़ी चीख उठी। कुरुओं के महान गुरु, राजाओं के शिक्षक, अब नहीं रहे।\n\nदोनों ओर के सैनिक स्तब्ध खड़े रहे। अपने गुरु से प्रेम करने वाले अर्जुन ने भी सिर झुकाकर आँसू बहाए। कुछ ने बाद में इसे न्याय कहा। कुछ ने इसे कलंक कहा। पुराने कथावाचक यह छिपाते नहीं कि यह एक कुरूप कर्म था, जो एक आवश्यक परिणाम के लिए किया गया।\n\nयुधिष्ठिर अपने रथ में अकेले रोते रहे। उन्होंने उस दिन छल से जीत पाई थी, और वह जीत उनके मुँह में राख बन गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मैदानाच्या पलीकडून धृष्टद्युम्नाने वृद्ध गुरूंना डोळे मिटून, धनुष्य बाजूला ठेवून बसलेले पाहिले. त्याला संधी दिसली. तो यज्ञाच्या अग्नीतून नेमक्या याच क्षणासाठी जन्मला होता.\n\n“नको!” अर्जुन ओरडला, आणि हात पसरून तो पुढे धावला. “ते ब्राह्मण आहेत, गुरू आहेत, निःशस्त्र आहेत. त्यांना जिवंत पकड.”\n\nपण पांचालाच्या राजपुत्राला कुणी थांबवू शकले नाही. त्याने तलवार उपसली, द्रोणांच्या रथावर उडी मारली, आणि प्रहार केला.\n\nते पांढरे शिर पडले. कौरव आणि पांडव दोघांच्याही सर्व मैदानातून मोठा आक्रोश उठला. कुरूंचे महान गुरू, राजांचे आचार्य, गेले होते.\n\nदोन्ही बाजूंचे सैनिक स्तब्ध उभे राहिले. आपल्या गुरूंवर प्रेम करणाऱ्या अर्जुनानेही मान खाली घातली आणि अश्रू ढाळले. काहींनी याला नंतर न्याय म्हटले. इतरांनी लाजिरवाणे म्हटले. जुने कथेकरी हे लपवत नाहीत की ते एक कुरूप कृत्य होते, एका आवश्यक शेवटासाठी केलेले.\n\nयुधिष्ठिर आपल्या रथात एकटाच रडला. त्याने तो दिवस कपटाने जिंकला होता, आणि विजय त्याच्या तोंडात राख झाला होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Ashwatthama’s rage",
+    "hi": {
+     "text": "अश्वत्थामा का क्रोध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अश्वत्थाम्याचा क्रोध",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the news reached Ashwatthama, he was far across the field. A cold voice told him: “Your father is dead. The Pandavas killed him, and Yudhishthira, who never lies, told him you were dead.”\n\nAshwatthama stood very still. He was the son of the greatest teacher in the world, and in all his life he had never wished for more than his father’s pride. Now he felt something in him go dark and hot, like a coal blowing into flame.\n\n“They lied to my father,” he said. “They killed him when he sat at prayer. They will answer for it.”\n\nHe rode to Duryodhana. In the night, he gathered his weapons. He unleashed the Narayanastra, a heavenly weapon that cannot be stopped by force. Krishna told the Pandavas to lay down their arms and bow to it, and it passed over them harmlessly. But the damage was done: a flame had been lit that would burn on to the end of the war, and beyond it.\n\nYudhishthira stood with his hands folded, looking at the sky. “One lie,” he said softly, “and now see how far it goes.”",
+    "hi": {
+     "text": "जब यह समाचार अश्वत्थामा तक पहुँचा, वह मैदान के उस पार बहुत दूर था। एक ठंडी आवाज़ ने उससे कहा: “तुम्हारे पिता मारे गए। पांडवों ने उन्हें मारा, और युधिष्ठिर ने, जो कभी झूठ नहीं बोलता, उनसे कहा कि तुम मर गए हो।”\n\nअश्वत्थामा बिलकुल स्थिर खड़ा रहा। वह संसार के सबसे महान गुरु का पुत्र था, और जीवन भर उसने अपने पिता के गर्व के सिवा कुछ नहीं चाहा था। अब उसने अपने भीतर कुछ काला और गर्म होता महसूस किया, जैसे अंगारा फूँक से लपट बन जाता है।\n\n“उन्होंने मेरे पिता से झूठ बोला,” उसने कहा। “उन्होंने उन्हें तब मारा जब वे प्रार्थना में बैठे थे। उन्हें इसका उत्तर देना होगा।”\n\nवह दुर्योधन के पास गया। रात में उसने अपने अस्त्र-शस्त्र जुटाए। उसने नारायणास्त्र छोड़ा, एक दिव्य अस्त्र जिसे बल से रोका नहीं जा सकता। कृष्ण ने पांडवों से कहा कि वे शस्त्र रखकर उसे प्रणाम करें, और वह उनके ऊपर से निरापद निकल गया। पर हानि हो चुकी थी: एक ऐसी ज्वाला जल उठी थी जो युद्ध के अंत तक, और उसके बाद भी, जलती रहेगी।\n\nयुधिष्ठिर हाथ जोड़े आकाश की ओर देखते खड़े रहे। “एक असत्य,” उन्होंने धीमे से कहा, “और अब देखो वह कहाँ तक पहुँचा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ही बातमी अश्वत्थाम्याला पोहोचली, तेव्हा तो मैदानाच्या पलीकडे दूर होता. एका थंड आवाजाने त्याला सांगितले: “तुझे वडील मेले. पांडवांनी त्यांना मारले, आणि कधीही खोटे न बोलणाऱ्या युधिष्ठिराने त्यांना सांगितले की तू मेलास.”\n\nअश्वत्थामा अगदी स्तब्ध उभा राहिला. तो जगातील सर्वश्रेष्ठ गुरूंचा पुत्र होता, आणि आयुष्यभर त्याने आपल्या वडिलांच्या अभिमानापेक्षा जास्त काही मागितले नव्हते. आता त्याच्यातले काहीतरी काळे आणि तप्त झाले, निखारा फुंकून ज्वालेत बदलावा तसे.\n\n“त्यांनी माझ्या वडिलांशी खोटे बोलले,” तो म्हणाला. “ते प्रार्थनेला बसले असताना त्यांनी त्यांना मारले. याची किंमत त्यांना द्यावी लागेल.”\n\nतो दुर्योधनाकडे गेला. रात्री त्याने आपली शस्त्रे गोळा केली. त्याने नारायणास्त्र सोडले, एक दिव्य अस्त्र जे बळाने थांबवता येत नाही. श्रीकृष्णांनी पांडवांना शस्त्रे खाली ठेवून त्याला नमस्कार करायला सांगितले, आणि ते अस्त्र त्यांच्यावरून निरुपद्रवी निघून गेले. पण हानी झाली होती: एक ज्वाला पेटली होती जी युद्धाच्या शेवटापर्यंत आणि त्याच्या पलीकडेही जळत राहणार होती.\n\nयुधिष्ठिर हात जोडून आकाशाकडे पाहत उभा राहिला. “एक असत्य,” तो हळू म्हणाला, “आणि आता पाहा ते किती दूर जाते.”",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Yudhishthira told a half-truth for a good purpose, and it still cost him. When have you bent the truth to make something easier? Today, say one thing plainly and kindly that you have been softening or avoiding.",
+  "hi": {
+   "text": "युधिष्ठिर ने एक अच्छे उद्देश्य के लिए अर्धसत्य कहा, फिर भी उसकी कीमत चुकानी पड़ी। आपने कब किसी बात को आसान बनाने के लिए सच को तोड़ा-मरोड़ा है? आज कोई एक बात, जिसे आप नरम करते या टालते आ रहे हैं, सीधे और कोमल शब्दों में कह दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युधिष्ठिर चांगल्या हेतूने अर्धसत्य बोलला, आणि तरीही त्याची किंमत त्याला द्यावी लागली. काहीतरी सोपे करण्यासाठी तुम्ही कधी सत्य वाकवले आहे का? आज जे काही तुम्ही सौम्य करत किंवा टाळत आला आहात, ते एक स्पष्टपणे आणि प्रेमाने सांगा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Even a small untruth told for a good reason leaves a mark, and truth is the ground on which we stand.",
+  "hi": {
+   "text": "भले कारण से कहा गया छोटा-सा असत्य भी अपना निशान छोड़ जाता है, और सत्य वह भूमि है जिस पर हम खड़े रहते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चांगल्या कारणासाठी सांगितलेले छोटेसे असत्यसुद्धा खूण ठेवते, आणि सत्य हीच ती जमीन आहे जिच्यावर आपण उभे असतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Drona Parva",
+  "hi": {
+   "text": "महाभारत, द्रोण पर्व",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, द्रोण पर्व",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "krishna-chooses",
+ "order": 20,
+ "part": "udyoga",
+ "figure": {
+  "en": "Krishna",
+  "hi": {
+   "text": "कृष्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Krishna’s army or Krishna alone",
+  "hi": {
+   "text": "कृष्ण की सेना या अकेले कृष्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्णाचे सैन्य की एकटे श्रीकृष्ण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The war is coming, and two cousins ride to Dwarka on the same morning to ask the same friend for help. One of them will choose wrongly, and be delighted with his choice.",
+  "hi": {
+   "text": "युद्ध पास आ रहा है, और दो भाई एक ही सुबह एक ही मित्र से सहायता माँगने द्वारका पहुँचते हैं। एक ग़लत चुनाव करेगा, और अपने चुनाव पर फूला न समाएगा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युद्ध जवळ येत आहे, आणि दोन चुलत भाऊ एकाच सकाळी एकाच मित्राकडे मदत मागायला द्वारकेला निघाले आहेत. त्यांतला एक चुकीची निवड करील आणि तरीही आपल्या निवडीवर खूश होईल.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/krishna-chooses-1.webp",
+   "w": 796,
+   "h": 1100,
+   "caption": {
+    "en": "Shri Krishna as envoy in the Kaurava court (Raja Ravi Varma)",
+    "hi": {
+     "text": "कौरव सभा में दूत बनकर आए श्रीकृष्ण (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कौरवसभेत शिष्टाई करणारे श्रीकृष्ण (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_as_Envoy.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Two visitors",
+    "hi": {
+     "text": "दो अतिथि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन पाहुणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The thirteen years were over, and the Pandavas had kept their promise. Now they asked for their kingdom back. Duryodhana refused to give even a needle’s point of land. War stood on the horizon, and both sides began to gather friends.\n\nOn the same day, two men rode to Dwarka to ask help from Krishna. One was Duryodhana of Hastinapura. The other was Arjuna of the Pandavas. They arrived within hours of each other.\n\nKrishna was resting in his chamber. Duryodhana entered first and, without ceremony, sat down on a fine chair at the head of the bed. Arjuna came a little later and stood quietly at Krishna’s feet with folded hands.\n\nWhen Krishna opened his eyes, the first thing he saw was Arjuna. Then, turning, he saw Duryodhana. “Welcome, both of you,” said Krishna, smiling. “What brings you here?”\n\n“I came first,” said Duryodhana quickly. “So I should be heard first.”\n\n“Maybe,” said Krishna. “But I saw Arjuna first. And he is the younger. So he will choose first.”",
+    "hi": {
+     "text": "तेरह वर्ष पूरे हो चुके थे, और पांडवों ने अपना वचन निभाया था। अब उन्होंने अपना राज्य लौटाने को कहा। दुर्योधन ने सुई की नोक भर भूमि देने से भी मना कर दिया। युद्ध क्षितिज पर खड़ा था, और दोनों पक्ष अपने-अपने मित्र जुटाने लगे।\n\nएक ही दिन दो व्यक्ति कृष्ण से सहायता माँगने द्वारका पहुँचे। एक था हस्तिनापुर का दुर्योधन। दूसरा था पांडवों का अर्जुन। दोनों कुछ ही घड़ियों के अंतर से पहुँचे।\n\nकृष्ण अपने कक्ष में विश्राम कर रहे थे। दुर्योधन पहले भीतर आया और बिना किसी शिष्टाचार के पलंग के सिरहाने एक सुंदर आसन पर बैठ गया। अर्जुन कुछ देर बाद आया और हाथ जोड़कर चुपचाप कृष्ण के चरणों के पास खड़ा हो गया।\n\nजब कृष्ण ने आँखें खोलीं तो सबसे पहले उन्हें अर्जुन दिखाई दिया। फिर मुड़कर उन्होंने दुर्योधन को देखा। “तुम दोनों का स्वागत है,” कृष्ण ने मुस्कुराकर कहा। “कैसे आना हुआ?”\n\n“मैं पहले आया था,” दुर्योधन ने जल्दी से कहा। “इसलिए मेरी बात पहले सुनी जानी चाहिए।”\n\n“हो सकता है,” कृष्ण बोले। “पर मैंने अर्जुन को पहले देखा। और वह छोटा भी है। इसलिए पहले वही चुनेगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेरा वर्षे संपली, आणि पांडवांनी आपला शब्द पाळला. आता त्यांनी आपले राज्य परत मागितले. दुर्योधनाने सुईच्या टोकाएवढी जमीनही द्यायला नकार दिला. युद्ध क्षितिजावर उभे ठाकले, आणि दोन्ही बाजू मित्र जमवू लागल्या.\n\nत्याच दिवशी दोन जण श्रीकृष्णाची मदत मागायला द्वारकेला निघाले. एक होता हस्तिनापूरचा दुर्योधन. दुसरा होता पांडवांचा अर्जुन. ते दोघे काही तासांच्या अंतराने पोहोचले.\n\nश्रीकृष्ण आपल्या महालात विश्रांती घेत होते. दुर्योधन आधी आत शिरला आणि काही शिष्टाचार न पाळता पलंगाच्या उशाशी असलेल्या सुंदर आसनावर बसला. अर्जुन थोड्या वेळाने आला आणि हात जोडून श्रीकृष्णाच्या पायाशी शांतपणे उभा राहिला.\n\nश्रीकृष्णाने डोळे उघडले, तेव्हा त्यांना सर्वांत आधी अर्जुन दिसला. मग वळून त्यांनी दुर्योधनाला पाहिले. “दोघांचे स्वागत आहे,” श्रीकृष्ण हसून म्हणाले. “काय काम काढले?”\n\n“मी आधी आलो,” दुर्योधन घाईने म्हणाला. “म्हणून माझे म्हणणे आधी ऐकले जावे.”\n\n“कदाचित,” श्रीकृष्ण म्हणाले. “पण मी अर्जुनाला आधी पाहिले. आणि तो वयाने धाकटा आहे. म्हणून तोच आधी निवडेल.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The choice",
+    "hi": {
+     "text": "चुनाव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निवड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Here is what I offer,” said Krishna. “On one side is my army, the Narayani Sena, ten thousand warriors as fierce as myself. On the other side is myself alone. I will not fight. I will carry no weapon. Arjuna, you choose first.”\n\nDuryodhana held his breath. Surely Arjuna would choose the army.\n\nBut Arjuna did not hesitate. He bowed. “Krishna, I choose you.”\n\n“Even though I will not fight?” asked Krishna gently.\n\n“With you beside me, I fear nothing,” said Arjuna. “I wish only to have you. Be my charioteer if you will, and guide me.”\n\nKrishna laughed warmly. “So be it.”\n\nDuryodhana could not believe his luck. He rode home as happy as a boy given a toy, taking the whole Narayani army with him. He thought he had been very clever.\n\nBack at Hastinapura, the Kaurava wise men said nothing. They had seen what Duryodhana had not: that there is a difference between a thousand weapons and one friend who sees the whole truth.",
+    "hi": {
+     "text": "“मेरे पास देने को यह है,” कृष्ण ने कहा। “एक ओर मेरी सेना है, नारायणी सेना, दस हज़ार योद्धा, जो मेरे ही समान प्रचंड हैं। दूसरी ओर मैं अकेला हूँ। मैं युद्ध नहीं करूँगा। मैं कोई शस्त्र नहीं उठाऊँगा। अर्जुन, पहले तुम चुनो।”\n\nदुर्योधन ने साँस रोक ली। अर्जुन निश्चय ही सेना चुनेगा।\n\nपर अर्जुन ने एक पल भी नहीं सोचा। उसने प्रणाम किया। “कृष्ण, मैं आपको चुनता हूँ।”\n\n“भले ही मैं युद्ध नहीं करूँगा?” कृष्ण ने कोमलता से पूछा।\n\n“आप मेरे साथ हैं तो मुझे किसी का भय नहीं,” अर्जुन ने कहा। “मुझे बस आप चाहिए। यदि आप चाहें तो मेरे सारथी बन जाइए और मुझे राह दिखाइए।”\n\nकृष्ण हृदय खोलकर हँसे। “ऐसा ही हो।”\n\nदुर्योधन को अपने भाग्य पर विश्वास नहीं हो रहा था। वह पूरी नारायणी सेना को साथ लेकर ऐसे प्रसन्न होकर लौटा जैसे किसी बालक को खिलौना मिल गया हो। उसे लगा कि उसने बड़ी चतुराई की है।\n\nहस्तिनापुर में कौरवों के बुद्धिमान लोग चुप रहे। उन्होंने वह देख लिया था जो दुर्योधन नहीं देख सका: कि हज़ार शस्त्रों में और एक ऐसे मित्र में बड़ा अंतर होता है जो पूरा सत्य देखता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“मी असे देतो,” श्रीकृष्ण म्हणाले. “एका बाजूला माझे सैन्य आहे, नारायणी सेना, माझ्यासारखे पराक्रमी दहा हजार योद्धे. दुसऱ्या बाजूला मी एकटा आहे. मी युद्ध करणार नाही. मी शस्त्र धरणार नाही. अर्जुना, तू आधी निवड.”\n\nदुर्योधनाने श्वास रोखला. अर्जुन नक्कीच सैन्य निवडणार.\n\nपण अर्जुनाने क्षणभरही विचार केला नाही. त्याने नमस्कार केला. “श्रीकृष्णा, मी तुम्हाला निवडतो.”\n\n“मी लढणार नाही, तरीही?” श्रीकृष्णांनी हळुवारपणे विचारले.\n\n“तुम्ही माझ्या बाजूला असलात की मला कशाचेही भय नाही,” अर्जुन म्हणाला. “मला फक्त तुम्ही हवे आहात. आपली इच्छा असेल तर माझे सारथी व्हा आणि मला मार्ग दाखवा.”\n\nश्रीकृष्ण मनापासून हसले. “तथास्तु.”\n\nदुर्योधनाला आपल्या नशिबावर विश्वासच बसेना. खेळणे मिळालेल्या मुलासारखा आनंदित होऊन, सगळी नारायणी सेना घेऊन तो घरी निघाला. आपण मोठे चतुर आहोत असे त्याला वाटत होते.\n\nहस्तिनापुरात कौरवांचे ज्ञानी लोक काहीच बोलले नाहीत. दुर्योधनाला जे दिसले नव्हते ते त्यांनी पाहिले होते: हजार शस्त्रे आणि संपूर्ण सत्य पाहणारा एक मित्र, यांत खूप फरक असतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Peace mission",
+    "hi": {
+     "text": "शांति का प्रयास",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शांतीचा प्रयत्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna did not want war. Before the first arrow flew, he set out for Hastinapura to ask for peace. “I will go as the Pandavas’ friend and the Kauravas’ friend,” he said. “If a thousand lives can be saved by a few words, I will speak them.”\n\nYudhishthira had given him a modest message: “Give us only five villages, one for each brother, and we shall ask nothing more.”\n\nOn the road, people came out of their houses to see him pass. Women threw flowers. Old men bowed. “He is coming to stop the war,” they whispered. “Let him succeed.”\n\nAt Hastinapura, Duryodhana prepared a grand feast in the palace, with gold plates and a hundred dishes. Krishna passed by it all without a glance and walked on to a small house at the edge of the city, where Vidura lived on simple greens.\n\n“How can you refuse the king’s food?” people asked.\n\n“Food offered with love is sweeter than a king’s banquet,” said Krishna, and sat down happily to eat Vidura’s humble meal.",
+    "hi": {
+     "text": "कृष्ण युद्ध नहीं चाहते थे। पहला बाण चलने से पहले ही वे शांति की याचना करने हस्तिनापुर चल पड़े। “मैं पांडवों का भी मित्र बनकर जाऊँगा और कौरवों का भी,” उन्होंने कहा। “यदि कुछ शब्दों से हज़ार प्राण बच सकें, तो मैं वे शब्द कहूँगा।”\n\nयुधिष्ठिर ने उन्हें एक विनम्र संदेश दिया था: “हमें बस पाँच गाँव दे दीजिए, हर भाई के लिए एक, और हम इससे अधिक कुछ नहीं माँगेंगे।”\n\nरास्ते में लोग अपने घरों से निकलकर उन्हें जाते देखने आए। स्त्रियों ने फूल बरसाए। बूढ़ों ने सिर झुकाया। “वे युद्ध रोकने आ रहे हैं,” वे आपस में कहते। “भगवान करे वे सफल हों।”\n\nहस्तिनापुर में दुर्योधन ने महल में एक भव्य भोज रचाया था, सोने की थालियाँ और सौ पकवान। कृष्ण ने उस ओर देखा तक नहीं और आगे बढ़कर नगर के छोर पर एक छोटे-से घर में पहुँचे, जहाँ विदुर साधारण साग खाकर रहते थे।\n\n“आपने राजा का भोजन क्यों ठुकरा दिया?” लोगों ने पूछा।\n\n“प्रेम से परोसा हुआ भोजन राजा के भोज से अधिक मीठा होता है,” कृष्ण ने कहा, और प्रसन्न होकर विदुर का सादा भोजन करने बैठ गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाला युद्ध नको होते. पहिला बाण सुटण्यापूर्वी ते शांततेची याचना करायला हस्तिनापुराला निघाले. “मी पांडवांचा मित्र म्हणून जातो, आणि कौरवांचाही मित्र म्हणून,” ते म्हणाले. “काही शब्दांनी हजारो जीव वाचणार असतील, तर मी ते शब्द बोलेन.”\n\nयुधिष्ठिराने त्यांच्यासोबत एक नम्र निरोप दिला होता: “आम्हाला फक्त पाच गावे द्या, प्रत्येक भावाला एक, आम्ही आणखी काही मागणार नाही.”\n\nवाटेत लोक त्यांना पाहायला घरांतून बाहेर आले. स्त्रियांनी फुले उधळली. म्हाताऱ्यांनी वंदन केले. “हे युद्ध थांबवायला येत आहेत,” ते कुजबुजले. “त्यांना यश मिळो.”\n\nहस्तिनापुरात दुर्योधनाने राजवाड्यात मोठी मेजवानी मांडली होती, सोन्याची ताटे आणि शंभर पक्वान्ने. श्रीकृष्ण तिकडे ढुंकूनही न पाहता नगराच्या कडेला असलेल्या एका लहानशा घरी गेले, जिथे विदुर साध्या पालेभाज्या खाऊन राहत असे.\n\n“राजाचे अन्न तुम्ही कसे नाकारता?” लोकांनी विचारले.\n\n“प्रेमाने दिलेले अन्न राजाच्या मेजवानीपेक्षा गोड असते,” श्रीकृष्ण म्हणाले, आणि विदुराचे साधे जेवण आनंदाने जेवायला बसले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Five villages",
+    "hi": {
+     "text": "पाँच गाँव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाच गावे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The next morning Krishna entered the great hall. Blind Dhritarashtra sat on his throne. Bhishma, Drona and Vidura were there. Duryodhana sat among them, arms folded.\n\nKrishna spoke gently and plainly. “King, war will destroy your sons, my friends, and the whole noble race of Bharata. The Pandavas ask only for peace. Give them five villages, and they will end this quarrel.”\n\nThe elders murmured. Bhishma and Drona urged the king to agree. Vidura begged him. Even Gandhari was called to plead.\n\n“Not a needle’s point of land,” said Duryodhana. “The Pandavas have nothing from me, and they will have nothing without a fight.”\n\n“Be wise, my son,” whispered Dhritarashtra, but his voice was weak and he did not command.\n\nKrishna looked at Duryodhana. “You have chosen,” he said sadly. “Your pride will cost the world much.”\n\nDuryodhana turned to Shakuni and Karna and whispered, “Krishna is the only one who has stood between us and victory. If we bind him now, the Pandavas lose their strength.”\n\n“Seize him,” the prince said aloud.",
+    "hi": {
+     "text": "अगली सुबह कृष्ण ने उस महान सभा में प्रवेश किया। अंधे धृतराष्ट्र अपने सिंहासन पर बैठे थे। भीष्म, द्रोण और विदुर वहाँ थे। दुर्योधन उनके बीच हाथ बाँधे बैठा था।\n\nकृष्ण ने कोमलता से और सीधे शब्दों में कहा। “महाराज, युद्ध आपके पुत्रों का, मेरे मित्रों का, और भरतवंश की इस पूरी महान परंपरा का नाश कर देगा। पांडव केवल शांति चाहते हैं। उन्हें पाँच गाँव दे दीजिए, और वे यह झगड़ा समाप्त कर देंगे।”\n\nबड़े-बूढ़े आपस में बुदबुदाए। भीष्म और द्रोण ने राजा से मान लेने का आग्रह किया। विदुर ने गिड़गिड़ाकर विनती की। गांधारी को भी समझाने के लिए बुलाया गया।\n\n“सुई की नोक भर भूमि भी नहीं,” दुर्योधन ने कहा। “पांडवों को मुझसे कुछ नहीं मिलेगा, और बिना युद्ध के कुछ नहीं मिलेगा।”\n\n“बेटा, समझदारी से काम लो,” धृतराष्ट्र फुसफुसाए, पर उनका स्वर कमज़ोर था और उसमें आदेश नहीं था।\n\nकृष्ण ने दुर्योधन की ओर देखा। “तुमने चुन लिया,” उन्होंने उदास होकर कहा। “तुम्हारा अहंकार संसार को बहुत महँगा पड़ेगा।”\n\nदुर्योधन ने शकुनि और कर्ण की ओर मुड़कर फुसफुसाया, “हमारे और विजय के बीच केवल कृष्ण खड़े हैं। यदि हम उन्हें अभी बाँध लें, तो पांडवों की शक्ति चली जाएगी।”\n\n“इन्हें पकड़ लो,” राजकुमार ने ऊँची आवाज़ में कहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसऱ्या दिवशी सकाळी श्रीकृष्णांनी भव्य सभेत प्रवेश केला. अंध धृतराष्ट्र सिंहासनावर बसला होता. भीष्म, द्रोण आणि विदुर तिथे होते. त्यांच्यात दुर्योधन हात बांधून बसला होता.\n\nश्रीकृष्ण सौम्यपणे आणि सरळ बोलले. “महाराज, युद्धाने तुमचे पुत्र, माझे मित्र आणि भरतांचा सारा थोर वंश नष्ट होईल. पांडव फक्त शांतता मागतात. त्यांना पाच गावे द्या, आणि ते हा तंटा संपवतील.”\n\nवडीलधाऱ्यांमध्ये कुजबुज झाली. भीष्म आणि द्रोणांनी राजाला संमती द्यायची विनंती केली. विदुराने गयावया केली. गांधारीलाही विनवणी करायला बोलावले गेले.\n\n“सुईच्या टोकाएवढी जमीनही नाही,” दुर्योधन म्हणाला. “पांडवांना माझ्याकडून काही मिळणार नाही, आणि लढल्याशिवाय त्यांना काहीच मिळणार नाही.”\n\n“शहाणा हो, बाळा,” धृतराष्ट्र हळू म्हणाला, पण त्याचा आवाज दुबळा होता आणि त्यात आज्ञा नव्हती.\n\nश्रीकृष्णांनी दुर्योधनाकडे पाहिले. “तू निवड केलीस,” ते खेदाने म्हणाले. “तुझ्या अहंकाराची मोठी किंमत जगाला मोजावी लागेल.”\n\nदुर्योधनाने शकुनी आणि कर्णाकडे वळून कुजबुजत म्हटले, “आमच्या आणि विजयाच्या मध्ये फक्त श्रीकृष्ण उभा आहे. त्याला आत्ता बांधले, तर पांडवांचे बळ संपेल.”\n\n“याला पकडा,” राजपुत्र मोठ्याने म्हणाला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The cosmic form",
+    "hi": {
+     "text": "विराट रूप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विश्वरूप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Guards moved toward Krishna. The hall fell silent.\n\nKrishna looked around and smiled. “Duryodhana, you think you can bind me? Look well.”\n\nAnd then the hall filled with light. Krishna’s body grew until he seemed to hold everything inside him. In his body were the gods, the sages, the rivers and mountains. In him were fire and wind, sun and moon. A thousand arms held a thousand weapons. In his mouth the past and the future turned like a wheel.\n\nThe great ones in the hall, Bhishma, Drona, Vidura, shut their eyes in awe and bowed their heads. Blind Dhritarashtra was given sight for a moment, and wept at what he saw. Only Duryodhana stood, his eyes wide and his face set stiff, unable to bow.\n\nThen the light shrank back and Krishna stood as before, quiet and gentle, a charioteer’s humble friend. “If you cannot see this much,” he said, “you will not see the truth at all.”\n\nHe turned and walked out of the hall, past the guards, who stood like stone.",
+    "hi": {
+     "text": "पहरेदार कृष्ण की ओर बढ़े। सभा में सन्नाटा छा गया।\n\nकृष्ण ने चारों ओर देखा और मुस्कुराए। “दुर्योधन, तुम मुझे बाँधने चले हो? ठीक से देखो।”\n\nऔर तब सभा प्रकाश से भर गई। कृष्ण का शरीर इतना बढ़ा कि मानो सब कुछ उनके भीतर समा गया हो। उनकी देह में देवता थे, ऋषि थे, नदियाँ और पर्वत थे। उनमें अग्नि और वायु थे, सूर्य और चंद्रमा थे। हज़ार भुजाओं में हज़ार शस्त्र थे। उनके मुख में भूत और भविष्य चक्र की तरह घूम रहे थे।\n\nसभा के महान जन, भीष्म, द्रोण, विदुर, श्रद्धा से आँखें मूँदकर सिर झुका बैठे। अंधे धृतराष्ट्र को कुछ क्षणों के लिए दृष्टि मिली, और जो देखा उसे देखकर वे रो पड़े। केवल दुर्योधन खड़ा रहा, आँखें फैलीं, चेहरा अकड़ा हुआ, झुकने में असमर्थ।\n\nफिर प्रकाश सिमट गया और कृष्ण पहले की तरह शांत और सौम्य खड़े थे, एक सारथी के विनम्र मित्र। “यदि तुम इतना भी नहीं देख सकते,” उन्होंने कहा, “तो तुम सत्य को कभी नहीं देख पाओगे।”\n\nवे मुड़े और सभा से बाहर चल दिए, उन पहरेदारों के बीच से, जो पत्थर की तरह जड़ खड़े रह गए थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहारेकरी श्रीकृष्णाकडे सरसावले. सभा स्तब्ध झाली.\n\nश्रीकृष्णांनी सभोवार पाहिले आणि स्मित केले. “दुर्योधना, तू मला बांधू शकतोस असे वाटते? नीट पाहा.”\n\nआणि मग सभा तेजाने भरून गेली. श्रीकृष्णाचे शरीर वाढत गेले, जणू सारे काही त्यांच्या आत सामावले होते. त्यांच्या देहात देव होते, ऋषी होते, नद्या आणि पर्वत होते. त्यांच्यात अग्नी आणि वायू, सूर्य आणि चंद्र होते. हजार हातांत हजार शस्त्रे होती. त्यांच्या मुखात भूतकाळ आणि भविष्यकाळ चक्रासारखे फिरत होते.\n\nसभेतील थोरांनी, भीष्म, द्रोण, विदुर यांनी, विस्मयाने डोळे मिटले आणि मान झुकवली. अंध धृतराष्ट्राला क्षणभर दृष्टी लाभली, आणि जे दिसले ते पाहून तो रडला. फक्त दुर्योधन उभा राहिला, डोळे विस्फारलेले, चेहरा ताठ, नमस्कार करायला असमर्थ.\n\nमग तेज आवरले गेले आणि श्रीकृष्ण पूर्वीसारखे उभे होते, शांत आणि सौम्य, सारथ्याचे नम्र मित्र. “एवढेही तुला दिसत नसेल,” ते म्हणाले, “तर तुला सत्य कधीच दिसणार नाही.”\n\nते वळले आणि सभेबाहेर निघाले, पहारेकऱ्यांच्या समोरून, जे दगडासारखे उभे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kunti’s message",
+    "hi": {
+     "text": "कुंती का संदेश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंतीचा निरोप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna passed the night in Kunti’s house, and she came to him with tears in her eyes. “Tell my sons,” she said, “what Vidula said to her son long ago: do not live on charity, do not hide in fear. A kshatriya who has been wronged must stand up for dharma. Do not fail your duty.”\n\nKrishna listened. “Aunt, I will say it.”\n\n“And tell Yudhishthira that I do not want him to give up his kingdom for peace if peace means shame.”\n\nThen Krishna left the city. At the edge of the road, Karna’s chariot appeared, and Krishna took him aside to speak a secret. But that is another story, and a sorrowful one.\n\nWhen Krishna returned to the Pandavas, he said only: “Peace has failed. They want war.”\n\nYudhishthira bowed his head. Arjuna took up his bow. And Krishna, who would carry no weapon, climbed quietly into the charioteer’s seat, because he had chosen to be the one thing on that field that a thousand weapons could not equal: a friend who can see the whole truth.",
+    "hi": {
+     "text": "कृष्ण ने रात कुंती के घर बिताई, और वे आँखों में आँसू लिए उनके पास आईं। “मेरे पुत्रों से कहना,” उन्होंने कहा, “वही जो विदुला ने बहुत पहले अपने पुत्र से कहा था: दया पर मत जियो, भय से मत छिपो। जिस क्षत्रिय के साथ अन्याय हुआ हो, उसे धर्म के लिए उठ खड़ा होना चाहिए। अपने कर्तव्य से मत चूकना।”\n\nकृष्ण ने सुना। “बुआ, मैं यह कह दूँगा।”\n\n“और युधिष्ठिर से कहना कि यदि शांति का अर्थ अपमान है, तो मैं नहीं चाहती कि वह शांति के लिए अपना राज्य छोड़ दे।”\n\nफिर कृष्ण नगर से निकले। सड़क के किनारे कर्ण का रथ दिखाई दिया, और कृष्ण उसे एक ओर ले जाकर एक रहस्य कहने लगे। पर वह दूसरी कथा है, और बड़ी दुखभरी है।\n\nजब कृष्ण पांडवों के पास लौटे तो उन्होंने बस इतना कहा: “शांति असफल रही। वे युद्ध चाहते हैं।”\n\nयुधिष्ठिर ने सिर झुका लिया। अर्जुन ने धनुष उठा लिया। और कृष्ण, जो कोई शस्त्र नहीं उठाने वाले थे, चुपचाप सारथी के आसन पर जा बैठे, क्योंकि उन्होंने उस रणभूमि में वह एकमात्र वस्तु बनना चुना था जिसकी बराबरी हज़ार शस्त्र भी नहीं कर सकते: एक ऐसा मित्र जो पूरा सत्य देख सके।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णांनी ती रात्र कुंतीच्या घरी घालवली, आणि ती डोळ्यांत अश्रू घेऊन त्यांच्याकडे आली. “माझ्या मुलांना सांगा,” ती म्हणाली, “फार पूर्वी विदुलेने आपल्या मुलाला जे सांगितले होते ते: दयेवर जगू नका, भीतीने लपू नका. अन्याय झालेल्या क्षत्रियाने धर्मासाठी उभे राहिलेच पाहिजे. आपले कर्तव्य चुकवू नका.”\n\nश्रीकृष्णांनी ऐकले. “आत्या, मी सांगेन.”\n\n“आणि युधिष्ठिराला सांगा की शांततेचा अर्थ लज्जा असेल, तर शांततेसाठी त्याने राज्य सोडावे असे मला वाटत नाही.”\n\nमग श्रीकृष्ण नगराबाहेर पडले. वाटेच्या कडेला कर्णाचा रथ दिसला, आणि श्रीकृष्णांनी त्याला बाजूला नेऊन एक गुपित सांगितले. पण ती दुसरी कथा आहे, आणि दुःखाची.\n\nजेव्हा श्रीकृष्ण पांडवांकडे परतले, तेव्हा ते फक्त म्हणाले: “शांतता फसली. त्यांना युद्ध हवे आहे.”\n\nयुधिष्ठिराने मान झुकवली. अर्जुनाने धनुष्य उचलले. आणि शस्त्र न धरणारे श्रीकृष्ण शांतपणे सारथ्याच्या आसनावर चढले, कारण त्या रणांगणावर हजार शस्त्रांनाही जमणार नाही अशी एकच गोष्ट होण्याचे त्यांनी ठरवले होते: संपूर्ण सत्य पाहणारा मित्र.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "When you face a big choice, are you drawn to what is large and impressive, or to the one who guides you truly? Today, before a decision, sit still for a minute and ask what you really need. Then choose that.",
+  "hi": {
+   "text": "जब आपके सामने कोई बड़ा चुनाव आता है, तो क्या आप बड़ी और प्रभावशाली चीज़ की ओर खिंचते हैं, या उसकी ओर जो आपको सच्ची राह दिखाए? आज निर्णय लेने से पहले एक मिनट शांत बैठिए और पूछिए कि आपको सचमुच क्या चाहिए। फिर वही चुनिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मोठा निर्णय घ्यायची वेळ येते, तेव्हा तुम्हाला भव्य आणि प्रभावी गोष्टीकडे ओढ वाटते की खरा मार्ग दाखवणाऱ्याकडे? आज एखादा निर्णय घेण्यापूर्वी एक मिनिट शांत बसा आणि आपल्याला खरोखर काय हवे आहे ते विचारा. मग तेच निवडा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Choose the guide over the army: with right guidance within, even a small force stands firm.",
+  "hi": {
+   "text": "सेना से बढ़कर मार्गदर्शक को चुनिए: भीतर सही मार्गदर्शन हो तो छोटी-सी शक्ति भी अडिग रहती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सैन्यापेक्षा मार्गदर्शकाची निवड करा: अंतरी योग्य मार्गदर्शन असेल, तर छोटी शक्तीसुद्धा ठामपणे उभी राहते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Udyoga Parva",
+  "hi": {
+   "text": "महाभारत, उद्योग पर्व",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, उद्योग पर्व",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-night-raid",
+ "order": 29,
+ "part": "sauptika",
+ "figure": {
+  "en": "Ashwatthama",
+  "hi": {
+   "text": "अश्वत्थामा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वत्थामा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The owl in the night",
+  "hi": {
+   "text": "रात का उल्लू",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रात्रीतले घुबड",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In the darkest hour of the war, three weary survivors sit under a tree and watch an owl do something terrible. The Pandava camp is asleep, and the dawn is still far away.",
+  "hi": {
+   "text": "युद्ध के सबसे अँधेरे पहर में तीन थके हुए जीवित योद्धा एक पेड़ के नीचे बैठे हैं और एक उल्लू को कुछ भयानक करते हुए देखते हैं। पांडव शिविर सो रहा है, और भोर अभी दूर है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युद्धाच्या सर्वांत अंधाऱ्या घडीला तीन थकलेले वाचलेले लोक एका झाडाखाली बसून एका घुबडाला भयंकर गोष्ट करताना पाहतात. पांडवांची छावणी झोपलेली आहे, आणि पहाट अजून दूर आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/sunset-at-kurukshetra-1.webp",
+   "w": 500,
+   "h": 454,
+   "caption": {
+    "en": "Ghatotkacha in battle (palm-leaf style painting)",
+    "hi": {
+     "text": "युद्ध में घटोत्कच (ताड़पत्र शैली का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धात घटोत्कच (ताडपत्र शैलीतील चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ghatotkacha_-_Abhimanyu.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Under the banyan",
+    "hi": {
+     "text": "बरगद के नीचे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वडाखाली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Night had come. Ashwatthama, Kripa and Kritavarma, the last three warriors of the Kaurava side, sat under a great banyan tree at the edge of the field. They were wounded and weary. Nearby, the dying Duryodhana lay by the water. Beyond, the Pandavas slept in their camp, victorious.\n\nKripa and Kritavarma were soon asleep from exhaustion. But Ashwatthama lay awake, and the grief in his chest would not let him close his eyes. His father’s death was like a burning coal. His friend’s defeat was a worse one.\n\nIn the branches of the banyan, hundreds of crows slept, for it was their nest. The night was silent, until a huge owl glided out of the dark on soundless wings. It dropped on the sleeping crows and killed them, one after another, in the quiet.\n\nAshwatthama watched. A thought took shape inside him, cold and clear as a blade. The crows had slept in confidence, and the owl had not hesitated. He sat up. He woke Kripa and said, “The Pandavas are asleep, as these crows are. Tonight is the night.”\n\nKripa stared at him in horror.",
+    "hi": {
+     "text": "रात हो चुकी थी। अश्वत्थामा, कृपाचार्य और कृतवर्मा, कौरव पक्ष के अंतिम तीन योद्धा, मैदान के किनारे एक विशाल बरगद के नीचे बैठे थे। वे घायल और थके हुए थे। पास ही जल के किनारे मरणासन्न दुर्योधन पड़ा था। उधर पांडव अपने शिविर में विजयी होकर सो रहे थे।\n\nकृपाचार्य और कृतवर्मा थकान से जल्दी ही सो गए। पर अश्वत्थामा जागता रहा, और उसकी छाती का शोक उसे आँखें मूँदने नहीं दे रहा था। पिता की मृत्यु एक जलते अंगारे की तरह थी। मित्र की पराजय उससे भी बुरी थी।\n\nबरगद की डालियों पर सैकड़ों कौए सो रहे थे, क्योंकि वह उनका घोंसला था। रात शांत थी, तभी एक विशाल उल्लू अँधेरे से बिना आहट के पंखों पर तैरता हुआ आया। वह सोते हुए कौओं पर टूट पड़ा और उस सन्नाटे में एक-एक करके उन्हें मारता गया।\n\nअश्वत्थामा देखता रहा। उसके भीतर एक विचार आकार लेने लगा, ठंडा और तलवार की धार जैसा स्पष्ट। कौए निश्चिंत होकर सोए थे, और उल्लू ने एक पल भी नहीं झिझका था। वह उठ बैठा। उसने कृपाचार्य को जगाया और कहा, “पांडव भी इन कौओं की तरह सोए हैं। आज की रात वही रात है।”\n\nकृपाचार्य भय से उसे देखते रह गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रात्र झाली. अश्वत्थामा, कृप आणि कृतवर्मा, कौरवांच्या बाजूचे शेवटचे तीन योद्धे, मैदानाच्या कडेला एका मोठ्या वडाखाली बसले होते. ते जखमी आणि थकलेले होते. जवळच मरणासन्न दुर्योधन पाण्याशेजारी पडला होता. पलीकडे विजयी पांडव आपल्या छावणीत झोपले होते.\n\nकृप आणि कृतवर्मा थकव्यामुळे लवकरच झोपी गेले. पण अश्वत्थामा जागा राहिला, आणि छातीतले दुःख त्याला डोळे मिटू देईना. वडिलांचा मृत्यू जळत्या निखाऱ्यासारखा होता. मित्राचा पराभव त्याहून वाईट निखारा होता.\n\nवडाच्या फांद्यांत शेकडो कावळे झोपले होते, कारण ते त्यांचे घरटे होते. रात्र शांत होती, तोवर एक मोठे घुबड आवाजहीन पंखांनी अंधारातून सरकत आले. ते झोपलेल्या कावळ्यांवर झेपावले आणि त्यांना एकामागून एक, शांततेत मारू लागले.\n\nअश्वत्थाम्याने पाहिले. त्याच्या मनात एक विचार आकार घेऊ लागला, पात्यासारखा थंड आणि स्पष्ट. कावळे निर्धास्त झोपले होते, आणि घुबड कचरले नव्हते. तो उठून बसला. त्याने कृपाला उठवले आणि म्हटले, “पांडव या कावळ्यांसारखे झोपले आहेत. आज रात्रच ती वेळ आहे.”\n\nकृप भयाने त्याच्याकडे पाहतच राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kripa’s warning",
+    "hi": {
+     "text": "कृपाचार्य की चेतावनी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कृपाचार्यांचा इशारा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“No!” said Kripa. “What are you saying? To kill sleeping men is a sin that will follow you through all lives. It is against every law of dharma.”\n\n“And was it dharma,” said Ashwatthama, “that killed my father as he sat in meditation? Was it dharma that struck Bhishma from behind Shikhandi? That broke Duryodhana’s thigh? The Pandavas have broken every rule. I will break one too.”\n\n“Wait until morning,” begged Kripa. “Sleep. Seek the counsel of Dhritarashtra and Vidura. Do not do this in anger.”\n\n“I cannot sleep. My mind is made up.”\n\nKripa wept. “I am an old man and I will not stop you. But I will tell you this. You will carry this deed to the end of time.”\n\nAshwatthama did not answer. He yoked his horses. He took his bow. He turned toward the Pandava camp, and in a moment the other two, afraid to leave him alone and afraid to follow, climbed into their chariots and went after him.\n\nThe moon had set. The camp lay silent. Only the stars watched him go.",
+    "hi": {
+     "text": "“नहीं!” कृपाचार्य ने कहा। “तुम यह क्या कह रहे हो? सोए हुए पुरुषों को मारना ऐसा पाप है जो तुम्हारे साथ सब जन्मों तक चलेगा। यह धर्म के हर नियम के विरुद्ध है।”\n\n“और क्या यह धर्म था,” अश्वत्थामा ने कहा, “जिसने मेरे पिता को तब मारा जब वे ध्यान में बैठे थे? क्या यह धर्म था जिसने शिखंडी की आड़ से भीष्म पर प्रहार किया? जिसने दुर्योधन की जाँघ तोड़ी? पांडवों ने हर नियम तोड़ा है। मैं भी एक नियम तोड़ूँगा।”\n\n“सुबह तक रुक जाओ,” कृपाचार्य ने विनती की। “सो जाओ। धृतराष्ट्र और विदुर से परामर्श कर लो। क्रोध में यह मत करो।”\n\n“मैं सो नहीं सकता। मैंने निश्चय कर लिया है।”\n\nकृपाचार्य रो पड़े। “मैं बूढ़ा हूँ और तुम्हें रोक नहीं सकूँगा। पर यह मैं तुमसे कहता हूँ। तुम इस कर्म को सृष्टि के अंत तक ढोओगे।”\n\nअश्वत्थामा ने कोई उत्तर नहीं दिया। उसने घोड़े जोते। उसने अपना धनुष उठाया। वह पांडव शिविर की ओर मुड़ा, और क्षण भर में बाकी दोनों, उसे अकेला छोड़ने से डरते हुए और उसके पीछे जाने से भी डरते हुए, अपने रथों पर चढ़कर उसके पीछे चल दिए।\n\nचंद्रमा डूब चुका था। शिविर शांत पड़ा था। केवल तारे उसे जाते हुए देख रहे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“नाही!” कृप म्हणाला. “तू काय बोलतोस? झोपलेल्यांना मारणे हे पाप आहे जे सर्व जन्मांत तुझा पाठलाग करील. हे धर्माच्या प्रत्येक नियमाविरुद्ध आहे.”\n\n“आणि ध्यानात बसलेल्या माझ्या वडिलांना मारणे धर्म होता का?” अश्वत्थामा म्हणाला. “शिखंडीच्या मागून भीष्मांवर प्रहार करणे धर्म होता का? दुर्योधनाची मांडी मोडणे धर्म होता का? पांडवांनी प्रत्येक नियम मोडला आहे. मीही एक मोडीन.”\n\n“सकाळपर्यंत थांब,” कृपाने विनवले. “झोप. धृतराष्ट्र आणि विदुर यांचा सल्ला घे. रागाच्या भरात हे करू नकोस.”\n\n“मला झोप येणार नाही. माझा निश्चय झाला आहे.”\n\nकृप रडला. “मी म्हातारा आहे आणि तुला थांबवणार नाही. पण एवढे सांगतो. हे कृत्य तू काळाच्या शेवटापर्यंत वाहशील.”\n\nअश्वत्थाम्याने उत्तर दिले नाही. त्याने घोडे जुंपले. त्याने धनुष्य घेतले. तो पांडवांच्या छावणीकडे वळला, आणि क्षणातच इतर दोघेही, त्याला एकटे सोडायला घाबरून आणि त्याच्या मागे जायलाही घाबरून, आपल्या रथांत चढले आणि त्याच्या मागे गेले.\n\nचंद्र मावळला होता. छावणी शांत पडली होती. फक्त तारे त्याला जाताना पाहत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "In the dark camp",
+    "hi": {
+     "text": "अँधेरे शिविर में",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंधाऱ्या छावणीत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the gate, a huge figure stood: a giant with a blazing eye in his forehead, holding a mace. Ashwatthama shot arrows at him, but they were swallowed by the shape, which grew taller and taller. It was Shiva himself, guarding the camp.\n\nAshwatthama knew then that he could not win by strength. He bowed before the god. He offered himself, his whole life, as a sacrifice in a fire he kindled on the spot. Shiva, moved by this terrible devotion, entered his body and gave him a sword. “Go,” he said. “The Pandavas’ time has come. But you will not survive the day.”\n\nAnd so Ashwatthama entered the camp. The sentries slept. In the first tent, he found Dhrishtadyumna, who had killed his father, and he did not let the man rise before he fell. Then he moved from tent to tent.\n\nThis part of the story is told with sorrow even by Vyasa. The camp woke, but too late. Soldiers stumbled out of their blankets. Shikhandi was lost. And in the quiet tents of the young, where the five sons of Draupadi slept, there was no one to defend them.",
+    "hi": {
+     "text": "द्वार पर एक विशाल आकृति खड़ी थी: एक दैत्याकार पुरुष, जिसके मस्तक में एक दहकती आँख थी और हाथ में गदा। अश्वत्थामा ने उस पर बाण चलाए, पर उस आकृति ने उन्हें निगल लिया, और वह और ऊँची, और ऊँची होती गई। वे स्वयं शिव थे, शिविर के रक्षक।\n\nअश्वत्थामा तब समझ गया कि वह बल से नहीं जीत सकता। उसने देवता के आगे सिर झुकाया। उसने अपने आपको, अपने पूरे जीवन को, उसी क्षण जलाई गई अग्नि में आहुति के रूप में अर्पित कर दिया। शिव उस भयंकर भक्ति से द्रवित हुए, उसके शरीर में प्रवेश कर गए और उसे एक खड्ग दिया। “जाओ,” उन्होंने कहा। “पांडवों का समय आ गया है। पर तुम आज के दिन से आगे नहीं बचोगे।”\n\nऔर इस तरह अश्वत्थामा शिविर में घुसा। पहरेदार सोए हुए थे। पहले तंबू में उसे धृष्टद्युम्न मिला, जिसने उसके पिता को मारा था, और उसने उसे उठने का अवसर दिए बिना गिरा दिया। फिर वह एक तंबू से दूसरे तंबू की ओर बढ़ा।\n\nकथा का यह भाग व्यास भी शोक के साथ कहते हैं। शिविर जागा, पर बहुत देर से। सैनिक अपने कंबलों से लड़खड़ाते हुए निकले। शिखंडी खो गया। और उन युवाओं के शांत तंबुओं में, जहाँ द्रौपदी के पाँचों पुत्र सोए थे, उनकी रक्षा करने वाला कोई नहीं था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रवेशद्वारावर एक अवाढव्य आकृती उभी होती: कपाळावर जळता डोळा असलेला, गदा धरलेला एक राक्षसी पुरुष. अश्वत्थाम्याने त्यावर बाण सोडले, पण ते त्या आकृतीत गडप झाले, जी अधिकाधिक उंच होत गेली. तो स्वतः शंकर होता, छावणीचे रक्षण करणारा.\n\nतेव्हा अश्वत्थाम्याला कळले की तो बळाने जिंकू शकत नाही. त्याने त्या देवासमोर नमस्कार केला. त्याने जागेवरच पेटवलेल्या अग्नीत स्वतःचे, आपल्या सर्व आयुष्याचे, यज्ञ म्हणून अर्पण केले. या भयंकर भक्तीने हलून शंकर त्याच्या शरीरात शिरले आणि त्याला एक तलवार दिली. “जा,” ते म्हणाले. “पांडवांची वेळ आली आहे. पण तू आजचा दिवस जगणार नाहीस.”\n\nआणि अश्वत्थामा छावणीत शिरला. पहारेकरी झोपले होते. पहिल्या तंबूत त्याला धृष्टद्युम्न सापडला, ज्याने त्याच्या वडिलांना मारले होते, आणि तो उठायच्या आधीच त्याने त्याला पाडले. मग तो तंबूमागून तंबूत गेला.\n\nही कथा व्यासांनीही दुःखाने सांगितली आहे. छावणी जागी झाली, पण उशीर झाला. सैनिक अंथरुणातून अडखळत बाहेर आले. शिखंडी गेला. आणि द्रौपदीचे पाच पुत्र झोपलेल्या तरुणांच्या शांत तंबूंमध्ये, त्यांचे रक्षण करायला कुणीच नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Morning of tears",
+    "hi": {
+     "text": "आँसुओं की भोर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अश्रूंची सकाळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "By dawn it was done. Ashwatthama rode back to the lake, flushed and shaking, and told Duryodhana what he had done. “The Pandava camp is empty. Dhrishtadyumna is dead. Draupadi’s sons are dead.”\n\nDuryodhana raised himself on one elbow. For a moment, a kind of joy crossed his face. Then he looked at Ashwatthama’s face, and it faded. “You have given me my wish,” he said, “but I do not know if it was worth it.” And with that, the last king of the Kauravas closed his eyes.\n\nMeanwhile, the Pandavas had been away that night, at Krishna’s side, and so they lived. They came back at sunrise, laughing, tired. They found silence.\n\nDraupadi stood among the tents in the grey light. She had lost her father’s heir, her brother, and all five sons in a single night. She did not scream. She sank down, a woman who had borne every humiliation without breaking, and put her hands to her face.\n\n“My sons,” she whispered. “They were so young. They had not begun to live.”\n\nYudhishthira could not look at her. It was the worst moment of the war.",
+    "hi": {
+     "text": "भोर तक सब हो चुका था। अश्वत्थामा सरोवर पर लौटा, तमतमाया और काँपता हुआ, और दुर्योधन को बताया कि उसने क्या किया था। “पांडव शिविर सूना है। धृष्टद्युम्न मर गया। द्रौपदी के पुत्र मर गए।”\n\nदुर्योधन कोहनी के सहारे उठा। क्षण भर के लिए उसके चेहरे पर एक प्रकार का हर्ष आया। फिर उसने अश्वत्थामा का चेहरा देखा, और वह बुझ गया। “तुमने मेरी इच्छा पूरी की,” उसने कहा, “पर मैं नहीं जानता कि यह इसके योग्य थी या नहीं।” और यह कहकर कौरवों के अंतिम राजा ने आँखें मूँद लीं।\n\nइधर पांडव उस रात कृष्ण के साथ शिविर से दूर थे, और इसीलिए जीवित बच गए। वे सूर्योदय पर हँसते हुए, थके हुए लौटे। उन्हें सन्नाटा मिला।\n\nद्रौपदी धूसर उजाले में तंबुओं के बीच खड़ी थीं। एक ही रात में उन्होंने अपने पिता का वारिस, अपना भाई, और अपने पाँचों पुत्र खो दिए थे। वे चीखी नहीं। वे बैठ गईं, वही स्त्री जिसने बिना टूटे हर अपमान सहा था, और अपने हाथों से मुँह ढक लिया।\n\n“मेरे पुत्र,” वे फुसफुसाईं। “वे कितने छोटे थे। उन्होंने अभी जीना शुरू भी नहीं किया था।”\n\nयुधिष्ठिर उनकी ओर देख नहीं पा रहे थे। यह युद्ध का सबसे बुरा क्षण था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटेपर्यंत सारे संपले होते. अश्वत्थामा लाल झालेला आणि थरथरत सरोवराकडे परतला, आणि त्याने दुर्योधनाला आपण काय केले ते सांगितले. “पांडवांची छावणी रिकामी आहे. धृष्टद्युम्न मेला. द्रौपदीचे पुत्र मेले.”\n\nदुर्योधनाने कोपरावर टेकून स्वतःला उचलले. क्षणभर त्याच्या चेहऱ्यावरून एक प्रकारचा आनंद गेला. मग त्याने अश्वत्थाम्याच्या चेहऱ्याकडे पाहिले, आणि तो मावळला. “तू माझी इच्छा पूर्ण केलीस,” तो म्हणाला, “पण ते योग्य होते की नाही ते मला ठाऊक नाही.” आणि त्यासोबत कौरवांच्या शेवटच्या राजाने डोळे मिटले.\n\nइकडे पांडव त्या रात्री श्रीकृष्णांसोबत दूर होते, आणि म्हणून जगले. ते सूर्योदयाला हसत, थकलेले परत आले. त्यांना शांतता भेटली.\n\nद्रौपदी राखाडी प्रकाशात तंबूंमध्ये उभी होती. तिने एकाच रात्री आपल्या वडिलांचा वारस, आपला भाऊ आणि आपले सारे पाच पुत्र गमावले होते. ती ओरडली नाही. प्रत्येक अपमान न मोडता सहन केलेली ती स्त्री खाली कोसळली आणि तिने चेहऱ्यावर हात घेतले.\n\n“माझे पुत्र,” ती कुजबुजली. “ते इतके लहान होते. त्यांनी जगायला सुरुवातही केली नव्हती.”\n\nयुधिष्ठिराला तिच्याकडे पाहवले नाही. हा युद्धातला सर्वांत वाईट क्षण होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The chase",
+    "hi": {
+     "text": "पीछा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाठलाग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Draupadi rose. Her eyes were clear and terrible. “Bring me the one who did this,” she said. “If he is not punished, I will fast until death.”\n\nBhima took his mace and ran. Krishna and the others followed. They found Ashwatthama by the Ganga, sitting among sages. When he saw Bhima, he picked up a blade of grass and invoked the Brahmashira, the most terrible weapon in the world, with a single desperate mantra.\n\nThe blade of grass turned into a blaze of fire. The sky roared. Arjuna, seeing it, had no choice. He called his own Brahmashira to meet it. The two weapons rushed toward each other, and the earth began to shake.\n\nSages Vyasa and Narada came and stood between them. “Withdraw your weapons,” they said. “If they meet, the world will end.”\n\nArjuna, trained in discipline, called his weapon back. But Ashwatthama did not know how. His mind was too clouded, and the fire in his hand could not be recalled. “Then turn it,” said Vyasa. In desperation, he aimed it at the only target he could find: the womb of Uttara, who carried Abhimanyu’s unborn child.",
+    "hi": {
+     "text": "द्रौपदी उठीं। उनकी आँखें निर्मल और भयंकर थीं। “जिसने यह किया है उसे मेरे सामने लाओ,” उन्होंने कहा। “यदि उसे दंड नहीं मिला, तो मैं मृत्यु तक उपवास करूँगी।”\n\nभीम ने गदा उठाई और दौड़ पड़े। कृष्ण और अन्य लोग उनके पीछे चले। उन्होंने अश्वत्थामा को गंगा के किनारे ऋषियों के बीच बैठे पाया। भीम को देखते ही उसने घास का एक तिनका उठाया और एक हताश मंत्र से संसार का सबसे भयंकर अस्त्र, ब्रह्मशिर, आह्वान किया।\n\nवह तिनका अग्नि की लपट बन गया। आकाश गरज उठा। अर्जुन ने उसे देखा तो उसके पास कोई विकल्प नहीं था। उसने भी उसका सामना करने के लिए अपना ब्रह्मशिर आह्वान किया। दोनों अस्त्र एक-दूसरे की ओर झपटे, और धरती काँपने लगी।\n\nऋषि व्यास और नारद आकर उनके बीच खड़े हो गए। “अपने अस्त्र वापस लो,” उन्होंने कहा। “यदि ये टकराए तो संसार का अंत हो जाएगा।”\n\nअनुशासन में पले अर्जुन ने अपना अस्त्र लौटा लिया। पर अश्वत्थामा को यह आता ही नहीं था। उसका मन बहुत धुँधला था, और उसके हाथ की अग्नि वापस नहीं बुलाई जा सकती थी। “तो इसे मोड़ दो,” व्यास ने कहा। हताशा में उसने उसे उस एकमात्र लक्ष्य की ओर साधा जो उसे मिला: उत्तरा का गर्भ, जिसमें अभिमन्यु की अजन्मी संतान थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदी उठली. तिचे डोळे स्पष्ट आणि भयंकर होते. “हे ज्याने केले त्याला माझ्यासमोर आणा,” ती म्हणाली. “त्याला शिक्षा झाली नाही, तर मी मरेपर्यंत उपोषण करीन.”\n\nभीम आपली गदा घेऊन धावला. श्रीकृष्ण आणि इतर मागे गेले. त्यांना अश्वत्थामा गंगेकाठी ऋषींमध्ये बसलेला सापडला. भीमाला पाहताच त्याने गवताचे एक पाते उचलले आणि एका हताश मंत्राने जगातील सर्वांत भयंकर अस्त्र, ब्रह्मशीर्ष, आवाहन केले.\n\nगवताचे पाते अग्नीच्या ज्वाळेत बदलले. आकाश गर्जले. ते पाहून अर्जुनाला दुसरा पर्याय राहिला नाही. त्याने स्वतःचे ब्रह्मशीर्ष त्याला सामोरे जाण्यासाठी बोलावले. दोन अस्त्रे एकमेकांकडे धावली, आणि पृथ्वी हादरू लागली.\n\nव्यास आणि नारद हे ऋषी येऊन त्यांच्यामध्ये उभे राहिले. “आपली अस्त्रे मागे घ्या,” ते म्हणाले. “ती भिडली, तर जगाचा अंत होईल.”\n\nशिस्तीत प्रशिक्षित अर्जुनाने आपले अस्त्र परत बोलावले. पण अश्वत्थाम्याला ते कसे करायचे ते ठाऊक नव्हते. त्याचे मन फार धुसर होते, आणि त्याच्या हातातील अग्नी परत घेता येत नव्हता. “मग ते वळव,” व्यास म्हणाले. हताशपणे त्याने ते आपल्याला सापडलेल्या एकमेव लक्ष्यावर रोखले: अभिमन्यूचे न जन्मलेले बाळ वाहणाऱ्या उत्तरेचा गर्भ.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Krishna protects the child",
+    "hi": {
+     "text": "कृष्ण ने शिशु को बचाया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण बाळाचे रक्षण करतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The weapon flew. In the palace, Uttara cried out as the fire reached her. The child within her was struck, and his small body lay still.\n\nKrishna rose in anger. “Ashwatthama,” he said, in a voice that shook the clouds, “you have used a heavenly weapon on an unborn child. For this, you will wander the earth for three thousand years, alone, with the stench of old wounds, never able to rest, no one to speak to you.”\n\n“I would rather die,” said Ashwatthama.\n\n“You will not,” said Krishna.\n\nThen Krishna went to Uttara. With one hand he touched the child in the womb, and with the power of all the good he had ever done, he gave it life. The tiny heart began again, and the child was saved. He was named Parikshit, because Krishna had “examined” him in the womb. He would be the one to carry on the Pandava line.\n\nArjuna took the jewel from Ashwatthama’s forehead, the one he was born with. Ashwatthama walked away, bleeding and ashamed, into the forest, to wander as long as the world lasts.",
+    "hi": {
+     "text": "अस्त्र उड़ा। महल में उत्तरा चीख उठीं जब अग्नि उन तक पहुँची। उनके भीतर का शिशु आहत हुआ, और उसकी नन्ही देह निश्चल हो गई।\n\nकृष्ण क्रोध से उठे। “अश्वत्थामा,” उन्होंने कहा, ऐसे स्वर में जिससे बादल काँप गए, “तुमने एक अजन्मे शिशु पर दिव्य अस्त्र चलाया है। इसके लिए तुम तीन हज़ार वर्ष तक पृथ्वी पर अकेले भटकोगे, पुराने घावों की दुर्गंध लिए, कभी विश्राम न पा सकोगे, कोई तुमसे बात नहीं करेगा।”\n\n“मैं मर जाना चाहूँगा,” अश्वत्थामा ने कहा।\n\n“तुम नहीं मरोगे,” कृष्ण ने कहा।\n\nफिर कृष्ण उत्तरा के पास गए। उन्होंने एक हाथ से गर्भ के शिशु को छुआ, और अपने सब पुण्यों की शक्ति से उसे जीवन दे दिया। वह नन्हा हृदय फिर धड़कने लगा, और शिशु बच गया। उसका नाम परीक्षित रखा गया, क्योंकि कृष्ण ने गर्भ में ही उसकी ‘परीक्षा’ ली थी। वही पांडव वंश को आगे बढ़ाने वाला था।\n\nअर्जुन ने अश्वत्थामा के मस्तक से वह मणि निकाल ली जिसके साथ वह जन्मा था। अश्वत्थामा रक्त बहाता, लज्जित होकर वन में चला गया, जब तक संसार रहेगा तब तक भटकने के लिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते अस्त्र सुटले. राजवाड्यात अग्नी पोहोचताच उत्तरा किंचाळली. तिच्यातल्या बाळाला तो लागला, आणि त्याचे छोटे शरीर निश्चल पडले.\n\nश्रीकृष्ण संतापाने उठले. “अश्वत्थामा,” ते ढगांना हादरवणाऱ्या आवाजात म्हणाले, “तू न जन्मलेल्या बाळावर दिव्य अस्त्र वापरलेस. यासाठी तू तीन हजार वर्षे पृथ्वीवर एकटा भटकशील, जुन्या जखमांच्या दुर्गंधीसह, कधीही विश्रांती न मिळता, कुणीही तुझ्याशी न बोलता.”\n\n“मी मरणे पसंत करीन,” अश्वत्थामा म्हणाला.\n\n“तू मरणार नाहीस,” श्रीकृष्ण म्हणाले.\n\nमग श्रीकृष्ण उत्तरेकडे गेले. एका हाताने त्यांनी गर्भातील बाळाला स्पर्श केला, आणि त्यांनी केलेल्या सर्व पुण्याच्या शक्तीने त्याला जीवन दिले. ते लहानसे हृदय पुन्हा धडधडू लागले, आणि बाळ वाचले. त्याचे नाव परीक्षित ठेवले गेले, कारण श्रीकृष्णांनी त्याची गर्भात “परीक्षा” घेतली होती. तो पांडवांचा वंश पुढे चालवणार होता.\n\nअर्जुनाने अश्वत्थाम्याच्या कपाळावरील रत्न, ज्याच्यासह तो जन्मला होता, काढून घेतले. अश्वत्थामा रक्त वाहत, लज्जित होऊन वनात निघून गेला, जग टिकेल तोवर भटकण्यासाठी.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Ashwatthama let his grief become revenge, and it destroyed everything he loved. When anger rises in you today, can you wait one night before you act on it? Try this: write the angry words, then fold the paper and leave it until morning.",
+  "hi": {
+   "text": "अश्वत्थामा ने अपने शोक को प्रतिशोध बनने दिया, और उसने वह सब नष्ट कर दिया जिसे वह प्रेम करता था। जब आज आपके भीतर क्रोध उठे, तो क्या आप उस पर कार्य करने से पहले एक रात प्रतीक्षा कर सकते हैं? यह कीजिए: क्रोध भरे शब्द लिखिए, फिर कागज़ को मोड़कर सुबह तक रख दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वत्थाम्याने आपल्या दुःखाला सूड होऊ दिले, आणि त्याने त्याला प्रिय असलेले सर्व नष्ट केले. आज तुमच्यात राग उठला, तर त्यावर कृती करण्यापूर्वी तुम्ही एक रात्र थांबू शकता का? हे करून पाहा: रागाचे शब्द लिहा, मग कागद घडी करून सकाळपर्यंत ठेवून द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grief that turns into revenge only multiplies sorrow, but even then, compassion can save a single small life.",
+  "hi": {
+   "text": "शोक जब प्रतिशोध बन जाता है तो दुख को बढ़ाता ही है, पर तब भी करुणा एक नन्हे प्राण को बचा सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुःख सूडात बदलले की ते दुःख वाढवते, पण तरीही करुणा एका लहानशा जीवाला वाचवू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Sauptika Parva",
+  "hi": {
+   "text": "महाभारत, सौप्तिक पर्व",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, सौप्तिक पर्व",
+   "reviewed": false
+  }
+ }
+}

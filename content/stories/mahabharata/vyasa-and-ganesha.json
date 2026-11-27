@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "vyasa-and-ganesha",
+ "order": 1,
+ "part": "adi",
+ "figure": {
+  "en": "Vyasa and Ganesha",
+  "hi": {
+   "text": "व्यास और गणेश",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "व्यास आणि गणेश",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The scribe who would not stop writing",
+  "hi": {
+   "text": "वह लेखक, जो रुका नहीं",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लिहिता लिहिता न थांबणारा लेखनिक",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A sage holds a hundred thousand verses in his mind, and no hand on earth can write fast enough. Then the god with the elephant head agrees, on one fierce condition.",
+  "hi": {
+   "text": "एक ऋषि के मन में एक लाख श्लोक हैं, और धरती पर कोई हाथ इतना तेज़ नहीं लिख सकता। तब गजमुख देवता एक कठिन शर्त पर लिखने को तैयार हो जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एका ऋषींच्या मनात एक लाख श्लोक साठलेले आहेत, पण इतक्या वेगाने लिहू शकेल असा हात पृथ्वीवर नाही. तेव्हा गजमुख देव एका कडक अटीवर लेखनिक व्हायला तयार होतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/vyasa-and-ganesha-1.webp",
+   "w": 1080,
+   "h": 745,
+   "caption": {
+    "en": "Ganesha writes the Mahabharata as Vyasa dictates (Mewar manuscript page)",
+    "hi": {
+     "text": "व्यास के बोलने पर गणेश महाभारत लिखते हैं (मेवाड़ पांडुलिपि का पृष्ठ)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "व्यास सांगतात आणि गणेश महाभारत लिहितात (मेवाड हस्तलिखिताचे पान)",
+     "reviewed": false
+    }
+   },
+   "credit": "Indian from Mewar, Rajasthan, Northern India, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganesa_writing_the_Mahabharat.jpeg"
+  },
+  {
+   "src": "/stories/mahabharata/vyasa-and-ganesha-2.webp",
+   "w": 781,
+   "h": 1100,
+   "caption": {
+    "en": "Sage Vyasa dictates the Mahabharata to Ganesha (Indian print)",
+    "hi": {
+     "text": "महर्षि व्यास गणेश को महाभारत लिखवाते हैं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महर्षी व्यास गणेशाला महाभारत सांगतात (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "unkn own, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Saga_Veda_vyasa_dictates_Mahabharata.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The island child",
+    "hi": {
+     "text": "द्वीप का बालक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बेटावर जन्मलेले बालक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Long ago, on a small island in the river Yamuna, a boy was born to the fisher-girl Satyavati and the wandering sage Parashara. He was dark as a rain cloud, and so he was called Krishna, and Dvaipayana, the one born on an island. He grew so quickly that he was a youth before the day was done.\n\nHe bowed to his mother and said, “Mother, I go to the forest to seek the Truth. Whenever you remember me, I will come.” Then he walked into the trees and became a seer of the highest rank.\n\nIn the quiet of the forest he saw that people could no longer hold the whole Veda in their memory. So he divided it into four, and taught each part to a pupil. For this the world named him Vyasa, the Divider, the one who arranges. Yet the greatest work of his life was still waiting inside him.",
+    "hi": {
+     "text": "बहुत पुरानी बात है। यमुना नदी के एक छोटे से द्वीप पर मछुआरे की कन्या सत्यवती और घुमक्कड़ ऋषि पराशर के यहाँ एक बालक जन्मा। वह वर्षा के बादल जैसा साँवला था, इसलिए उसका नाम कृष्ण पड़ा, और द्वीप में जन्म लेने के कारण द्वैपायन। वह इतनी तेज़ी से बढ़ा कि दिन ढलने से पहले ही जवान हो गया।\n\nउसने माँ को प्रणाम करके कहा, “माँ, मैं सत्य की खोज में वन जा रहा हूँ। जब भी आप मुझे याद करेंगी, मैं आ जाऊँगा।” फिर वह वृक्षों के बीच चला गया और सबसे ऊँचे दर्जे का ऋषि बना।\n\nवन की शांति में उसने देखा कि लोग अब पूरे वेद को याद नहीं रख पाते। तब उसने वेद के चार भाग किए और हर भाग एक शिष्य को सिखा दिया। इसी से संसार ने उन्हें व्यास कहा, यानी बाँटने वाला, सजाने वाला। पर उनके जीवन की सबसे बड़ी रचना अभी उनके भीतर प्रतीक्षा कर रही थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फार फार पूर्वीची गोष्ट. यमुना नदीतील एका छोट्याशा बेटावर कोळ्याची कन्या सत्यवती आणि भ्रमण करणारे ऋषी पराशर यांच्या पोटी एक बालक जन्मले. तो पावसाळी ढगासारखा सावळा होता, म्हणून त्याचे नाव कृष्ण पडले, आणि बेटावर जन्मला म्हणून द्वैपायन. तो इतक्या झपाट्याने वाढला की दिवस संपायच्या आत तो तरुण झाला.\n\nत्याने आईला नमस्कार केला आणि म्हणाला, “आई, मी सत्याचा शोध घ्यायला वनात जातो. तू जेव्हा जेव्हा मला आठवशील, तेव्हा तेव्हा मी येईन.” मग तो झाडीत निघून गेला आणि सर्वश्रेष्ठ द्रष्टा ऋषी झाला.\n\nवनाच्या शांततेत त्याच्या लक्षात आले की लोकांना आता संपूर्ण वेद लक्षात ठेवणे जमत नाही. म्हणून त्याने वेदांचे चार भाग केले आणि प्रत्येक भाग एकेका शिष्याला शिकवला. यावरून जगाने त्याला व्यास म्हटले, म्हणजे विभाग करणारा, सुसूत्र रचना करणारा. पण त्याच्या आयुष्यातले सर्वात मोठे कार्य अजून त्याच्या अंतरात वाट पाहत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A story too big to hold",
+    "hi": {
+     "text": "इतनी बड़ी कथा, सँभले कैसे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मावेना इतकी मोठी कथा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One evening, as the sun went down behind the hills, Vyasa sat in meditation and an entire age unrolled before his inner eye. He saw the royal family of the Kurus, his own family. He saw their love and their quarrels, a game of dice, a queen in tears, an exile in the forest, two great armies facing each other on a plain, and a friend driving a chariot who spoke words that would never die.\n\nHe saw how pride and greed destroy even those who are brave and good. He saw, too, how dharma, the right way of living, can be hard to find when everyone you love stands on both sides.\n\nThe story swelled in him like a river in flood. It was a hundred thousand verses and it would not wait. “Who will write it down as fast as I can say it?” he wondered. Then Brahma, the Creator, appeared before him and smiled. “Ask Ganesha,” he said.",
+    "hi": {
+     "text": "एक शाम जब सूरज पहाड़ियों के पीछे उतर रहा था, व्यास ध्यान में बैठे थे और उनकी भीतरी आँखों के सामने पूरा एक युग खुल गया। उन्होंने कुरुवंश को देखा, अपने ही वंश को। उनका प्रेम देखा और उनके झगड़े देखे, पासों का खेल देखा, आँसुओं में डूबी एक रानी देखी, वन का वनवास देखा, मैदान में आमने-सामने खड़ी दो विशाल सेनाएँ देखीं, और रथ हाँकते एक सखा को देखा, जिसके बोल कभी मिटने वाले नहीं थे।\n\nउन्होंने देखा कि अहंकार और लालच वीरों और भले लोगों को भी कैसे बर्बाद कर देते हैं। यह भी देखा कि जब अपने सारे प्रियजन दोनों ओर खड़े हों, तब धर्म का रास्ता खोजना कितना कठिन हो जाता है।\n\nकथा उनके भीतर बाढ़ में चढ़ी नदी की तरह उमड़ रही थी। एक लाख श्लोक थे और वे किसी की राह नहीं देख सकते थे। “मैं जितनी तेज़ी से बोलूँगा, उतनी तेज़ी से इसे लिखेगा कौन?” वे सोचते रहे। तभी सृष्टिकर्ता ब्रह्मा उनके सामने प्रकट हुए और मुस्कुराकर बोले, “गणेश से कहो।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका संध्याकाळी सूर्य डोंगरांआड जात असताना व्यास ध्यानात बसले आणि त्यांच्या अंतर्दृष्टीसमोर एक संपूर्ण युग उलगडले. त्यांना कुरूंचे राजघराणे दिसले, त्यांचेच कुळ. त्यांचे प्रेम दिसले, त्यांची भांडणे दिसली. द्यूताचा डाव दिसला, अश्रू ढाळणारी राणी दिसली, वनातला वनवास दिसला, रणांगणावर समोरासमोर उभी ठाकलेली दोन महान सैन्ये दिसली आणि रथ हाकणारा एक सखा दिसला, ज्याने असे शब्द उच्चारले जे कधीही मरणार नाहीत.\n\nअभिमान आणि लोभ शूर आणि चांगल्या माणसांचाही कसा नाश करतात, हे त्यांनी पाहिले. आणि हेही पाहिले की ज्यांच्यावर आपले प्रेम आहे, तेच दोन्ही बाजूंना उभे असले की धर्म, म्हणजे योग्य जगण्याचा मार्ग, शोधणे किती कठीण होते.\n\nती कथा त्यांच्या मनात पुराच्या नदीसारखी उसळू लागली. एक लाख श्लोक, आणि थांबायला तयार नाहीत. “मी जितक्या वेगाने सांगेन तितक्या वेगाने ते कोण लिहून घेईल?” ते विचारात पडले. तेवढ्यात सृष्टिकर्ते ब्रह्मदेव त्यांच्यासमोर प्रकट झाले आणि हसून म्हणाले, “गणेशाला विचार.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two conditions",
+    "hi": {
+     "text": "दो शर्तें",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन अटी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ganesha, the elephant-headed god who removes obstacles, came at Vyasa’s call. He listened to the request and his large eyes twinkled.\n\n“I will be your scribe,” he said, “on one condition. Once my pen begins to move, it must never stop. If you pause even for a breath, I will leave.”\n\nVyasa considered this. His mind was fast, but a poet needs silence the way a field needs rain. Then he smiled and answered, “I accept. But I too have a condition. You must understand the meaning of every verse before you write it down.”\n\nGanesha bowed his great head. “Agreed,” he said.\n\nThe two sat down facing each other, the sage with his eyes half closed, the god with a pen of reed in his hand. Vyasa drew a deep breath and spoke the first verse, and the pen began to fly across the palm leaf. Birds went quiet in the branches. The bargain was sealed, not with a contract, but with a smile, the kind that passes between two minds that know their match and are glad of it.",
+    "hi": {
+     "text": "विघ्न हरने वाले गजमुख देवता गणेश व्यास की पुकार पर आ गए। उन्होंने सारी बात सुनी और उनकी बड़ी-बड़ी आँखें चमक उठीं।\n\n“मैं आपका लेखक बनूँगा,” उन्होंने कहा, “पर एक शर्त है। एक बार मेरी कलम चल पड़ी, तो वह रुकनी नहीं चाहिए। आप साँस लेने भर को भी रुके, तो मैं चला जाऊँगा।”\n\nव्यास ने सोचा। उनका मन तेज़ था, पर कवि को मौन उतना ही चाहिए जितना खेत को वर्षा। फिर वे मुस्कुराकर बोले, “मुझे स्वीकार है। पर मेरी भी एक शर्त है। हर श्लोक का अर्थ समझकर ही आप उसे लिखेंगे।”\n\nगणेश ने अपना विशाल मस्तक झुकाया। “ठीक है,” उन्होंने कहा।\n\nदोनों आमने-सामने बैठ गए, ऋषि की आँखें आधी मुँदी हुई थीं और देवता के हाथ में सरकंडे की कलम थी। व्यास ने गहरी साँस ली और पहला श्लोक बोला, और कलम ताड़पत्र पर उड़ चली। डालियों पर चिड़ियाँ चुप हो गईं। यह सौदा किसी लिखा-पढ़ी से नहीं, एक मुस्कान से पक्का हुआ, वैसी मुस्कान जो दो ऐसे मनों के बीच खिलती है जो एक-दूसरे की बराबरी पहचानते हैं और उससे प्रसन्न हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विघ्नहर्ता, गजमुख गणेश व्यासांच्या हाकेसरशी आले. त्यांनी विनंती ऐकली आणि त्यांचे मोठे डोळे लुकलुकले.\n\n“मी तुमचा लेखनिक होईन,” ते म्हणाले, “पण एका अटीवर. माझी लेखणी एकदा चालू झाली की ती कधीही थांबता कामा नये. तुम्ही श्वास घेण्यापुरतेही थांबलात, तर मी निघून जाईन.”\n\nव्यासांनी विचार केला. त्यांचे मन वेगवान होते, पण शेताला पावसाची गरज असते तशी कवीला शांततेची गरज असते. मग ते हसले आणि म्हणाले, “मला मान्य आहे. पण माझीही एक अट आहे. प्रत्येक श्लोकाचा अर्थ समजल्याशिवाय तुम्ही तो लिहायचा नाही.”\n\nगणेशांनी आपले मोठे मस्तक लववले. “मान्य,” ते म्हणाले.\n\nदोघे समोरासमोर बसले. ऋषींचे डोळे अर्धे मिटलेले, देवाच्या हातात बोरूची लेखणी. व्यासांनी दीर्घ श्वास घेतला आणि पहिला श्लोक उच्चारला, आणि ताडपत्रावर लेखणी धावू लागली. फांद्यांवरचे पक्षी स्तब्ध झाले. हा करार कुठल्या कागदावर नाही, तर एका स्मितहास्यावर झाला. ते असे हास्य होते जे आपापली बरोबरी ओळखणाऱ्या आणि त्याचा आनंद मानणाऱ्या दोन मनांमध्ये उमटते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The knotty verses",
+    "hi": {
+     "text": "गाँठ वाले श्लोक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुंतागुंतीचे श्लोक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The verses poured out of Vyasa like water down a mountain, and Ganesha wrote without lifting his hand. But the god was also wise, and he would not write a single line until he had grasped it.\n\nSo now and then, Vyasa slipped in a verse so tangled that its meaning hid behind a riddle. Words that seemed to say one thing meant another. Ganesha frowned, turned the lines over in his great mind, and while he pondered, the sage drew breath, gathered the next thousand verses and planned the turns of the tale.\n\nTradition says there are about eight thousand eight hundred of these knotty verses, still puzzling scholars today. The god never complained. He only laughed softly each time he found the key, and Vyasa laughed with him.\n\nDay after day and night after night, the story took shape: a family, a kingdom, a war, and the long, hard question of how to live rightly.",
+    "hi": {
+     "text": "श्लोक व्यास के मुख से पहाड़ से उतरते जल की तरह बहते रहे, और गणेश हाथ उठाए बिना लिखते गए। पर देवता बुद्धिमान भी थे, वे किसी पंक्ति को तब तक नहीं लिखते थे जब तक उसे समझ न लें।\n\nइसलिए बीच-बीच में व्यास कोई ऐसा उलझा हुआ श्लोक बोल देते, जिसका अर्थ पहेली के पीछे छिपा रहता। शब्द कुछ और कहते दिखते, पर मतलब कुछ और होता। गणेश माथे पर बल डालते, पंक्तियों को अपने विशाल मन में उलटते-पलटते, और तब तक ऋषि साँस लेते, अगले हज़ार श्लोक जुटा लेते और कथा के मोड़ सोच लेते।\n\nपरंपरा कहती है कि ऐसे गाँठ वाले श्लोक लगभग आठ हज़ार आठ सौ हैं, जो आज भी विद्वानों को उलझाते हैं। देवता ने कभी शिकायत नहीं की। हर बार जब उन्हें कुंजी मिल जाती, वे बस धीमे से हँस देते, और व्यास भी उनके साथ हँस पड़ते।\n\nदिन पर दिन और रात पर रात कथा आकार लेती गई: एक परिवार, एक राज्य, एक युद्ध, और यह कठिन, गहरा प्रश्न कि सही ढंग से कैसे जिया जाए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "डोंगरावरून पाणी कोसळावे तसे श्लोक व्यासांच्या मुखातून वाहत होते आणि गणेश हात न उचलता लिहीत होते. पण देव शहाणे होते, आणि एखादी ओळ पूर्ण समजल्याशिवाय ते तिच्यावर लेखणी चालवत नसत.\n\nम्हणून मधून मधून व्यास असा एखादा श्लोक सांगत, की त्याचा अर्थ कोड्यामागे दडलेला असे. शब्द एक सांगत आहेत असे वाटे, पण अर्थ दुसराच असे. गणेश कपाळाला आठ्या घालत, त्या ओळी आपल्या विशाल बुद्धीत उलटसुलट करून पाहत, आणि तेवढ्या वेळात ऋषी श्वास घेत, पुढचे हजार श्लोक जुळवत आणि कथेची पुढची वळणे आखत.\n\nपरंपरा सांगते की असे सुमारे आठ हजार आठशे गुंतागुंतीचे श्लोक आहेत, जे आजही अभ्यासकांना कोड्यात टाकतात. देवाने कधी तक्रार केली नाही. प्रत्येक वेळी किल्ली सापडली की ते हळूच हसत, आणि व्यासही त्यांच्याबरोबर हसत.\n\nरात्रंदिवस कथा आकार घेत गेली. एक कुटुंब, एक राज्य, एक युद्ध आणि माणसाने नीट कसे जगावे या दीर्घ, कठीण प्रश्नाची कथा.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The broken tusk",
+    "hi": {
+     "text": "टूटा हुआ दाँत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मोडलेला दात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A much-loved tradition, found in many tellings though not in the oldest text, adds a tender detail. One night, as the verses were flowing faster than ever, Ganesha’s pen snapped in two.\n\nHe remembered his promise. The pen must never stop. Without a moment’s hesitation, the god reached up and broke off one of his own tusks. He dipped its sharp end in ink and went on writing as though nothing had happened.\n\nVyasa saw it and his heart filled with wonder. A god had given a part of himself so that the story would not be lost. Because of this, Ganesha is often shown with a single tusk, and called Ekadanta, the one with one tooth.\n\nWhen the last verse was written, the two friends sat quiet for a long while. A hundred thousand verses lay in a pile between them. Vyasa folded his hands to Ganesha, and Ganesha folded his hands in return.",
+    "hi": {
+     "text": "एक बहुत प्यारी परंपरा, जो कई कथाओं में मिलती है पर सबसे पुराने ग्रंथ में नहीं, एक कोमल बात और जोड़ती है। कहते हैं एक रात श्लोक पहले से भी तेज़ बह रहे थे और अचानक गणेश की कलम बीच से टूट गई।\n\nउन्हें अपना वचन याद आया। कलम रुकनी नहीं चाहिए। बिना पल भर सोचे देवता ने हाथ बढ़ाया और अपना ही एक दाँत तोड़ लिया। उसकी नुकीली नोक स्याही में डुबोई और ऐसे लिखते रहे मानो कुछ हुआ ही न हो।\n\nव्यास ने यह देखा तो उनका हृदय विस्मय से भर गया। एक देवता ने अपना एक अंग दे दिया ताकि कथा खो न जाए। इसी कारण गणेश को अक्सर एक दाँत वाला दिखाया जाता है, और उन्हें एकदंत कहते हैं।\n\nजब अंतिम श्लोक लिखा गया, तो दोनों मित्र बहुत देर तक चुप बैठे रहे। उनके बीच एक लाख श्लोकों का ढेर लगा था। व्यास ने गणेश को हाथ जोड़े, और गणेश ने भी बदले में हाथ जोड़ दिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनेक कथनांमध्ये आढळणारी, पण सर्वात जुन्या ग्रंथात नसलेली एक लाडकी परंपरा एक हळवा तपशील जोडते. एका रात्री श्लोक नेहमीपेक्षाही वेगाने वाहत असताना गणेशांची लेखणी मधेच तुटली.\n\nत्यांना आपले वचन आठवले. लेखणी कधीही थांबायला नको. क्षणाचाही विलंब न लावता देवाने हात वर नेला आणि आपला एक दात मोडून काढला. त्याचे अणकुचीदार टोक शाईत बुडवले आणि काहीच घडले नसल्यासारखे ते लिहीत राहिले.\n\nव्यासांनी ते पाहिले आणि त्यांचे हृदय विस्मयाने भरून आले. कथा हरवू नये म्हणून एका देवाने स्वतःचा एक अवयव दिला होता. यामुळेच गणेशाला एकाच दातासह दाखवले जाते आणि एकदंत म्हटले जाते.\n\nशेवटचा श्लोक लिहून झाला तेव्हा दोघे मित्र बराच वेळ स्तब्ध बसले. एक लाख श्लोकांचा ढीग त्यांच्यामध्ये पडला होता. व्यासांनी गणेशांना हात जोडले, आणि गणेशांनीही त्यांना हात जोडले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What is here is everywhere",
+    "hi": {
+     "text": "जो यहाँ है, वही सब जगह है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "येथे आहे तेच सर्वत्र आहे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Vyasa taught the great poem to his son Shuka and to his pupils, and above all to Vaishampayana. Many years later, King Janamejaya, great-grandson of the Pandavas, held a mighty sacrifice to destroy the serpents. In the pause between rites, he asked the sages about the story of his own ancestors. Vaishampayana rose and began to tell it, just as Vyasa had taught him.\n\nThe poem was named Jaya, Victory, and later the Mahabharata, the great story of the Bharatas. Of it, the tradition says: “Whatever is here is found elsewhere; what is not here is nowhere.”\n\nIt is about kings and queens, yes, but also about you and me, about desire and duty, courage and fear, loss and love. So let us begin where Vaishampayana began, with a river, a king and a woman of dazzling light. Kings and sages in the sacrificial hall listened for days, and some say the hearing of it washes away sorrow, as a river washes away dust. It is a story in which every listener finds a mirror.",
+    "hi": {
+     "text": "व्यास ने यह महाकाव्य अपने पुत्र शुकदेव और अपने शिष्यों को सिखाया, और सबसे बढ़कर वैशंपायन को। बहुत वर्ष बाद, पांडवों के परपोते राजा जनमेजय ने सर्पों के विनाश के लिए एक विशाल यज्ञ किया। यज्ञ की विधियों के बीच जो विराम आया, उसमें उन्होंने ऋषियों से अपने पूर्वजों की कथा पूछी। वैशंपायन उठे और वही कथा सुनाने लगे, जैसी व्यास ने उन्हें सिखाई थी।\n\nइस काव्य का नाम जय पड़ा, यानी विजय, और बाद में महाभारत, भरतवंशियों की महान गाथा। इसके बारे में परंपरा कहती है: “जो कुछ यहाँ है, वह और जगह भी मिलता है; जो यहाँ नहीं है, वह कहीं नहीं है।”\n\nयह राजाओं और रानियों की कथा तो है ही, पर आपकी और मेरी भी है, चाह और कर्तव्य की, साहस और भय की, खोने और प्रेम करने की। तो चलिए वहीं से शुरू करें जहाँ से वैशंपायन ने शुरू किया था, एक नदी, एक राजा और तेज से दमकती एक स्त्री से। यज्ञशाला में राजा और ऋषि दिनों तक सुनते रहे, और कुछ कहते हैं कि इसे सुनने से दुख ऐसे धुल जाता है जैसे नदी धूल को धो देती है। यह ऐसी कथा है जिसमें हर सुनने वाला अपना ही चेहरा देख लेता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "व्यासांनी हे महान काव्य आपला पुत्र शुक आणि आपल्या शिष्यांना शिकवले, विशेषतः वैशंपायनांना. अनेक वर्षांनी पांडवांचा पणतू राजा जनमेजय याने सर्पांच्या नाशासाठी एक मोठा यज्ञ केला. यज्ञाच्या विश्रांतीत त्याने ऋषींना आपल्या पूर्वजांची कथा विचारली. वैशंपायन उभे राहिले आणि व्यासांनी जसे शिकवले होते तसेच ते सांगू लागले.\n\nया काव्याचे नाव जय, म्हणजे विजय, असे होते, आणि पुढे ते महाभारत झाले, भरतवंशीयांची महान कथा. त्याविषयी परंपरा म्हणते: “जे येथे आहे ते इतरत्रही आढळते, जे येथे नाही ते कुठेच नाही.”\n\nही कथा राजे आणि राण्यांची आहे, खरे, पण ती तुमची आणि माझीही आहे. इच्छा आणि कर्तव्य, धैर्य आणि भीती, गमावणे आणि प्रेम यांची आहे. चला तर, वैशंपायनांनी जिथून सुरुवात केली तिथूनच सुरू करूया, एक नदी, एक राजा आणि तेजाने झळाळणारी एक स्त्री. यज्ञमंडपातील राजे आणि ऋषी अनेक दिवस ऐकत राहिले, आणि काही जण म्हणतात की ही कथा ऐकल्याने नदी धूळ धुऊन नेते तसे दुःख धुऊन जाते. प्रत्येक श्रोत्याला यात आपलेच प्रतिबिंब दिसते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Ganesha gave up something dear so that a promise could be kept. What is one small thing you could give up today for something that matters more? Try it quietly, and notice how it feels.",
+  "hi": {
+   "text": "गणेश ने अपनी एक प्रिय चीज़ छोड़ दी ताकि वचन निभ सके। आज ऐसी कौन-सी एक छोटी चीज़ है जिसे आप किसी बड़ी बात के लिए छोड़ सकते हैं? चुपचाप आज़माइए, और देखिए मन में कैसा लगता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गणेशांनी वचन पाळता यावे म्हणून आपल्याला प्रिय असलेली गोष्ट सोडली. जे अधिक महत्त्वाचे आहे त्यासाठी आज तुम्ही कोणती एक छोटीशी गोष्ट सोडू शकाल? शांतपणे करून पाहा आणि मनाला कसे वाटते ते अनुभवा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A great work is built by two gifts together: a clear vision and a willing hand that will sacrifice to bring it to the world.",
+  "hi": {
+   "text": "कोई भी बड़ा काम दो उपहारों से बनता है: साफ़ दृष्टि, और ऐसा तैयार हाथ जो उसे संसार तक पहुँचाने के लिए त्याग करने को राज़ी हो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान कार्य दोन देणग्यांतून घडते: स्पष्ट दृष्टी आणि ते जगासमोर आणण्यासाठी त्याग करायला तयार असलेला हात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva; the broken tusk is a popular tradition found in later tellings",
+  "hi": {
+   "text": "महाभारत, आदि पर्व; टूटे दाँत की कथा बाद की कथाओं में मिलने वाली लोकप्रिय परंपरा है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व; मोडलेला दात ही नंतरच्या कथनांत आढळणारी लोकप्रिय परंपरा आहे",
+   "reviewed": false
+  }
+ }
+}

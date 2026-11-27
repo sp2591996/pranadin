@@ -1,0 +1,285 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-bhagavad-gita",
+ "order": 22,
+ "part": "bhishma",
+ "figure": {
+  "en": "Arjuna and Krishna",
+  "hi": {
+   "text": "अर्जुन और कृष्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुन आणि श्रीकृष्ण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The song sung on a battlefield",
+  "hi": {
+   "text": "रणभूमि पर गाया गया गीत",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रणांगणावर गायलेले गीत",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Two great armies stand facing each other, and the greatest archer in the world drops his bow. In the silence before the first arrow, a charioteer begins to teach.",
+  "hi": {
+   "text": "दो महान सेनाएँ आमने-सामने खड़ी हैं, और संसार का सबसे बड़ा धनुर्धर अपना धनुष गिरा देता है। पहले बाण से पहले की उस चुप्पी में एक सारथी उपदेश देने लगता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन महान सैन्ये समोरासमोर उभी आहेत, आणि जगातला सर्वश्रेष्ठ धनुर्धर आपले धनुष्य टाकून देतो. पहिला बाण सुटण्यापूर्वीच्या शांततेत एक सारथी शिकवू लागतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gita/2.webp",
+   "w": 1200,
+   "h": 731,
+   "caption": {
+    "en": "Krishna teaches the Gita to Arjuna (Kashmir miniature painting)",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन को गीता का उपदेश देते हैं (कश्मीरी लघुचित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला गीता सांगतात (काश्मिरी लघुचित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_preaching_Gita_Upadesh_to_Arjun_-_Unknown,_Kashmir_School_-_Google_Cultural_Institute.jpg"
+  },
+  {
+   "src": "/stories/gita/1.webp",
+   "w": 780,
+   "h": 567,
+   "caption": {
+    "en": "Arjuna asks Krishna for guidance",
+    "hi": {
+     "text": "अर्जुन श्रीकृष्ण से मार्गदर्शन माँगते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन श्रीकृष्णाकडे मार्गदर्शन मागतो",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown, CC BY 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_scene_from_the_Mahabharata;_Arjuna_requests_instruction_fr_Wellcome_V0045044.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The conch shells",
+    "hi": {
+     "text": "शंखनाद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंखनाद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The sun rose over the plain of Kurukshetra, and two great armies stood face to face. On one side stood the Kauravas, eleven akshauhinis, with Bhishma at their head. On the other stood the Pandavas, seven akshauhinis, with banners flying. Elephants trumpeted. Horses stamped. The air hummed with the sound of waiting.\n\nFar away in the palace, blind King Dhritarashtra sat in the dark. The sage Vyasa had offered to give him sight to watch the war. The king refused. “I do not wish to see my family die,” he said. So Vyasa gave the gift to Sanjaya, his charioteer, who could see everything, near and far, and tell it all.\n\nThen the conches sounded. Bhishma’s great shell roared, and the Kaurava drums answered. On the Pandava chariot, whose horses were white as moonlight, Krishna lifted his conch, Panchajanya. Arjuna raised his, Devadatta. Bhima blew his terrible Paundra. Yudhishthira, Nakula and Sahadeva sounded theirs.\n\nThe sound filled the earth and the sky, and the hearts of the Kauravas shook.",
+    "hi": {
+     "text": "कुरुक्षेत्र के मैदान पर सूर्य उदित हुआ, और दो विशाल सेनाएँ आमने-सामने खड़ी थीं। एक ओर कौरव थे, ग्यारह अक्षौहिणी सेना, जिसके आगे भीष्म थे। दूसरी ओर पांडव थे, सात अक्षौहिणी सेना, ध्वजाएँ लहराती हुईं। हाथी चिंघाड़ रहे थे। घोड़े टाप मार रहे थे। हवा में प्रतीक्षा की गूँज थी।\n\nदूर महल में अंधे राजा धृतराष्ट्र अँधेरे में बैठे थे। महर्षि व्यास ने उन्हें युद्ध देखने के लिए दृष्टि देनी चाही थी। राजा ने मना कर दिया। “मैं अपने परिवार को मरते हुए नहीं देखना चाहता,” उन्होंने कहा। तब व्यास ने यह वरदान उनके सारथी संजय को दे दिया, जो निकट और दूर सब कुछ देख सकता था और सब कुछ सुना सकता था।\n\nफिर शंख बज उठे। भीष्म का विशाल शंख गरजा, और कौरवों के नगाड़े उसका उत्तर देने लगे। पांडवों के रथ पर, जिसके घोड़े चाँदनी की तरह श्वेत थे, कृष्ण ने अपना पांचजन्य शंख उठाया। अर्जुन ने अपना देवदत्त बजाया। भीम ने अपना भयंकर पौंड्र फूँका। युधिष्ठिर, नकुल और सहदेव ने भी अपने शंख बजाए।\n\nध्वनि धरती और आकाश में भर गई, और कौरवों के हृदय काँप उठे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुरुक्षेत्राच्या मैदानावर सूर्य उगवला, आणि दोन मोठी सैन्ये समोरासमोर उभी ठाकली. एका बाजूला कौरव, अकरा अक्षौहिणी, भीष्मांच्या नेतृत्वाखाली. दुसऱ्या बाजूला पांडव, सात अक्षौहिणी, फडकणाऱ्या ध्वजांसह. हत्ती चित्कारले. घोडे टापा आपटू लागले. हवा प्रतीक्षेच्या आवाजाने भरून गेली.\n\nदूर राजवाड्यात अंध राजा धृतराष्ट्र अंधारात बसला होता. महर्षी व्यासांनी त्याला युद्ध पाहण्यासाठी दृष्टी देऊ केली होती. राजाने नकार दिला. “माझ्या कुटुंबाला मरताना पाहण्याची माझी इच्छा नाही,” तो म्हणाला. म्हणून व्यासांनी ते वरदान त्याच्या सारथ्याला, संजयाला दिले, जो जवळचे आणि दूरचे सारे काही पाहू शके आणि सारे सांगू शके.\n\nमग शंख वाजले. भीष्मांचा मोठा शंख गर्जला, आणि कौरवांच्या नगाऱ्यांनी उत्तर दिले. चांदण्यासारखे पांढरे घोडे असलेल्या पांडवांच्या रथात श्रीकृष्णाने आपला पांचजन्य शंख उचलला. अर्जुनाने आपला देवदत्त उचलला. भीमाने आपला भयंकर पौंड्र वाजवला. युधिष्ठिर, नकुल आणि सहदेव यांनी आपापले शंख वाजवले.\n\nत्या नादाने पृथ्वी आणि आकाश भरून गेले, आणि कौरवांची हृदये थरथरली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Arjuna’s bow slips",
+    "hi": {
+     "text": "अर्जुन के हाथ से धनुष गिरा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाच्या हातून धनुष्य गळते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna lifted Gandiva. “Krishna,” he said, “drive my chariot between the two armies. I wish to see who stands ready to fight me.”\n\nKrishna drove to the middle of the field and stopped. Arjuna looked to the left and right. He saw Bhishma, the grandfather who had carried him on his shoulders as a child. He saw Drona, his teacher, who had taught him to string a bow. He saw uncles, cousins, friends. On both sides there were faces he knew and loved.\n\nHis mouth went dry. His limbs trembled. Gandiva slid from his hand and fell to the floor of the chariot. “Krishna, I cannot,” he whispered. “What kingdom is worth killing my own family? I would rather beg for food than win a throne with their blood. I see only evil omens. My mind is whirling.”\n\nHe sank down on the chariot seat and covered his face. The greatest warrior of his age, who had never trembled before any foe, wept like a child.\n\nKrishna looked at him. Around them the armies waited, silent, as if the whole universe were listening.",
+    "hi": {
+     "text": "अर्जुन ने गांडीव उठाया। “कृष्ण,” उसने कहा, “मेरा रथ दोनों सेनाओं के बीच ले चलिए। मैं देखना चाहता हूँ कि मुझसे लड़ने के लिए कौन-कौन तैयार खड़े हैं।”\n\nकृष्ण रथ को रणभूमि के बीच ले गए और रोक दिया। अर्जुन ने बाएँ-दाएँ देखा। उसे भीष्म दिखे, वही पितामह जिन्होंने बचपन में उसे अपने कंधों पर बिठाया था। उसे द्रोण दिखे, उसके गुरु, जिन्होंने उसे प्रत्यंचा चढ़ाना सिखाया था। उसे चाचा, भाई और मित्र दिखे। दोनों ओर ऐसे चेहरे थे जिन्हें वह जानता था और प्रेम करता था।\n\nउसका मुँह सूख गया। अंग काँपने लगे। गांडीव हाथ से फिसलकर रथ के फ़र्श पर गिर पड़ा। “कृष्ण, मुझसे नहीं होगा,” वह फुसफुसाया। “अपने ही परिवार को मारकर कौन-सा राज्य मिल सकता है? मैं भीख माँगकर खाना पसंद करूँगा, पर उनके रक्त से सिंहासन नहीं जीतूँगा। मुझे केवल अपशकुन दिख रहे हैं। मेरा मन घूम रहा है।”\n\nवह रथ के आसन पर धम्म से बैठ गया और अपना मुँह ढक लिया। अपने युग का सबसे महान योद्धा, जो किसी भी शत्रु के सामने कभी नहीं काँपा था, बच्चे की तरह रो रहा था।\n\nकृष्ण ने उसकी ओर देखा। उनके चारों ओर सेनाएँ मौन प्रतीक्षा कर रही थीं, मानो पूरा ब्रह्मांड सुन रहा हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाने गांडीव उचलले. “श्रीकृष्णा,” तो म्हणाला, “माझा रथ दोन्ही सैन्यांच्या मध्ये घे. माझ्याशी लढायला कोण सिद्ध उभे आहे ते मला पाहायचे आहे.”\n\nश्रीकृष्णांनी रथ मैदानाच्या मध्यभागी नेऊन थांबवला. अर्जुनाने डावीकडे आणि उजवीकडे पाहिले. त्याला भीष्म दिसले, ज्या आजोबांनी लहानपणी त्याला खांद्यावर घेतले होते. त्याला द्रोण दिसले, ज्या गुरूंनी त्याला धनुष्य कसे लावायचे ते शिकवले होते. काका, चुलत भाऊ, मित्र दिसले. दोन्ही बाजूंना त्याच्या ओळखीचे आणि प्रिय असलेले चेहरे होते.\n\nत्याचे तोंड कोरडे पडले. अंग थरथरू लागले. गांडीव त्याच्या हातातून सुटले आणि रथाच्या तळावर पडले. “श्रीकृष्णा, मला जमणार नाही,” तो कुजबुजला. “आपल्याच कुटुंबाला मारून मिळणारे कोणते राज्य मोलाचे आहे? त्यांच्या रक्ताने सिंहासन जिंकण्यापेक्षा मी भीक मागून खाईन. मला फक्त अपशकुन दिसत आहेत. माझे मन गरगरत आहे.”\n\nतो रथाच्या आसनावर कोसळला आणि त्याने चेहरा झाकून घेतला. आपल्या काळातला सर्वश्रेष्ठ योद्धा, जो कोणत्याही शत्रूसमोर कधी थरथरला नव्हता, तो लहान मुलासारखा रडला.\n\nश्रीकृष्णांनी त्याच्याकडे पाहिले. त्यांच्या भोवती सैन्ये स्तब्ध उभी होती, जणू सारे विश्वच ऐकत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The eternal Self",
+    "hi": {
+     "text": "अविनाशी आत्मा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शाश्वत आत्मा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Arjuna,” Krishna said gently, and he smiled, “you grieve for those who should not be grieved for. The wise do not mourn the living or the dead.”\n\nAnd then, in the middle of the battlefield, he began to teach. “There never was a time when I was not, nor you, nor these kings. There will never be a time when we will cease to be. The Self within the body is never born and never dies. Weapons cannot cut it. Fire cannot burn it. Water cannot wet it. Wind cannot dry it. As a person puts on new clothes and throws away the old, so the Self takes new bodies and leaves the worn ones.”\n\nArjuna listened. The grief did not leave him all at once, but a quiet space opened inside it.\n\n“And you are a warrior,” said Krishna. “To fight a just war is your dharma. Do not be afraid of what you cannot change. Do what is yours to do.”\n\nArjuna looked up. His face was wet with tears, but his eyes were clearer. “Tell me more,” he said.",
+    "hi": {
+     "text": "“अर्जुन,” कृष्ण ने कोमलता से कहा, और वे मुस्कुराए, “तुम उनके लिए शोक कर रहे हो जिनके लिए शोक नहीं करना चाहिए। ज्ञानी न जीवित के लिए शोक करते हैं, न मृत के लिए।”\n\nऔर फिर, उस रणभूमि के बीच, उन्होंने उपदेश देना आरंभ किया। “ऐसा कभी नहीं था कि मैं न रहा होऊँ, या तुम न रहे हो, या ये राजा न रहे हों। और ऐसा कभी नहीं होगा कि हम सब न रहें। शरीर के भीतर की आत्मा न कभी जन्म लेती है, न कभी मरती है। शस्त्र उसे काट नहीं सकते। अग्नि उसे जला नहीं सकती। जल उसे भिगो नहीं सकता। वायु उसे सुखा नहीं सकती। जैसे मनुष्य पुराने वस्त्र त्यागकर नए वस्त्र धारण करता है, वैसे ही आत्मा जर्जर शरीरों को छोड़कर नए शरीर धारण करती है।”\n\nअर्जुन सुनता रहा। शोक एकाएक नहीं गया, पर उसके भीतर एक शांत जगह बन गई।\n\n“और तुम योद्धा हो,” कृष्ण ने कहा। “धर्मयुद्ध लड़ना तुम्हारा धर्म है। जिसे तुम बदल नहीं सकते उससे मत डरो। वही करो जो तुम्हारे हिस्से का कर्म है।”\n\nअर्जुन ने ऊपर देखा। उसका चेहरा आँसुओं से भीगा था, पर आँखें अधिक निर्मल थीं। “और बताइए,” उसने कहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“अर्जुना,” श्रीकृष्ण हळुवारपणे म्हणाले, आणि ते हसले, “ज्यांच्यासाठी शोक करू नये त्यांच्यासाठी तू शोक करतोस. ज्ञानी लोक जिवंतांसाठीही शोक करत नाहीत आणि मृतांसाठीही नाही.”\n\nआणि मग, रणांगणाच्या मध्यभागी, त्यांनी शिकवायला सुरुवात केली. “मी नव्हतो, तू नव्हतास, हे राजे नव्हते, असा काळ कधी नव्हताच. आपण नसू असा काळ कधी येणारही नाही. देहातील आत्मा कधी जन्मत नाही आणि कधी मरत नाही. शस्त्रे त्याला कापू शकत नाहीत. अग्नी त्याला जाळू शकत नाही. पाणी त्याला भिजवू शकत नाही. वारा त्याला सुकवू शकत नाही. जसा माणूस जुनी वस्त्रे टाकून नवी वस्त्रे घालतो, तसा आत्मा जुनी शरीरे सोडून नवी शरीरे धारण करतो.”\n\nअर्जुन ऐकत होता. दुःख एकदम गेले नाही, पण त्यात एक शांत जागा उघडली.\n\n“आणि तू योद्धा आहेस,” श्रीकृष्ण म्हणाले. “न्यायाचे युद्ध लढणे हा तुझा धर्म आहे. जे बदलता येत नाही त्याला घाबरू नकोस. जे तुझे कर्तव्य आहे ते कर.”\n\nअर्जुनाने वर पाहिले. त्याचा चेहरा अश्रूंनी ओला होता, पण डोळे अधिक स्वच्छ होते. “मला आणखी सांगा,” तो म्हणाला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Action without attachment",
+    "hi": {
+     "text": "आसक्ति के बिना कर्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आसक्तीविना कर्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "So Krishna taught him the secret of action. “Do your work, Arjuna, but give up your hunger for the fruit. You have a right to the work, never to its results. If you act only for reward, you will suffer when the reward does not come. Do not let the fruit be your motive, but do not sink into idleness either.”\n\n“Then how shall I live?” asked Arjuna.\n\n“Stand firm in yoga,” said Krishna, “and do your work with a balanced mind, equal in success and failure. Be like a lamp in a windless place that does not flicker. Offer all your actions to me, and the work will not bind you.”\n\nHe spoke of knowledge, which sees the one Self in all beings. He spoke of devotion, the simplest path of all: “Whoever offers me a leaf, a flower, a fruit or water with love, I accept that gift of love. Give your mind to me. Love me. Bow to me. You will come to me. I promise you, for you are dear to me.”\n\nHearing this, Arjuna felt a great peace begin to rise in him.",
+    "hi": {
+     "text": "तब कृष्ण ने उसे कर्म का रहस्य सिखाया। “अर्जुन, अपना कर्म करो, पर फल की भूख छोड़ दो। कर्म पर तुम्हारा अधिकार है, उसके परिणामों पर कभी नहीं। यदि तुम केवल पुरस्कार के लिए कर्म करोगे, तो पुरस्कार न मिलने पर दुख पाओगे। फल को अपना उद्देश्य मत बनाओ, पर आलस्य में भी मत डूबो।”\n\n“तो मैं कैसे जिऊँ?” अर्जुन ने पूछा।\n\n“योग में स्थिर रहो,” कृष्ण ने कहा, “और सफलता-असफलता में समान, संतुलित मन से अपना कर्म करो। उस दीपक की तरह बनो जो वायुहीन स्थान में काँपता नहीं। अपने सारे कर्म मुझे अर्पित कर दो, तो कर्म तुम्हें बाँधेगा नहीं।”\n\nउन्होंने ज्ञान की बात की, जो सब प्राणियों में एक ही आत्मा को देखता है। उन्होंने भक्ति की बात की, जो सबसे सरल मार्ग है: “जो कोई मुझे प्रेम से एक पत्ता, एक फूल, एक फल या जल अर्पित करता है, उस प्रेम के उपहार को मैं स्वीकार करता हूँ। अपना मन मुझमें लगाओ। मुझसे प्रेम करो। मुझे प्रणाम करो। तुम मुझे ही पाओगे। मैं तुम्हें वचन देता हूँ, क्योंकि तुम मुझे प्रिय हो।”\n\nयह सुनकर अर्जुन के भीतर एक गहरी शांति उठने लगी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग श्रीकृष्णांनी त्याला कर्माचे रहस्य शिकवले. “अर्जुना, तुझे काम कर, पण फळाची भूक सोड. तुझा अधिकार कामावर आहे, त्याच्या परिणामावर कधीच नाही. फक्त बक्षिसासाठी काम केलेस, तर बक्षीस मिळाले नाही की तुला दुःख होईल. फळ तुझा हेतू होऊ देऊ नकोस, पण आळसातही बुडून जाऊ नकोस.”\n\n“मग मी कसे जगावे?” अर्जुनाने विचारले.\n\n“योगात स्थिर राहा,” श्रीकृष्ण म्हणाले, “आणि यश-अपयशात समान राहून, समतोल मनाने आपले काम कर. वारा नसलेल्या जागी न हलणाऱ्या दिव्याच्या ज्योतीसारखा हो. आपली सारी कर्मे मला अर्पण कर, म्हणजे कर्म तुला बांधणार नाही.”\n\nते ज्ञानाविषयी बोलले, जे सर्व जीवांत एकच आत्मा पाहते. ते भक्तीविषयी बोलले, जो सर्वांत सोपा मार्ग आहे: “जो कोणी मला प्रेमाने पान, फूल, फळ किंवा पाणी अर्पण करतो, त्या प्रेमाची भेट मी स्वीकारतो. तुझे मन मला दे. माझ्यावर प्रेम कर. मला नमस्कार कर. तू माझ्याकडे येशील. मी तुला वचन देतो, कारण तू मला प्रिय आहेस.”\n\nहे ऐकून अर्जुनाच्या मनात एक मोठी शांती उमलू लागली.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The universal form",
+    "hi": {
+     "text": "विश्वरूप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विश्वरूप दर्शन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Krishna,” said Arjuna softly, “I wish to see your true form, if you will allow it.”\n\n“Behold,” said Krishna. “But my human eye cannot hold it. I give you divine sight.”\n\nAnd Arjuna saw. Krishna’s form blazed from the whole sky, with countless faces and arms, wearing heavenly garlands, shining like a thousand suns at once. All the worlds were within him. Gods, sages and serpents bowed in him. The two armies rushed into his mouths like rivers into the sea, like moths into flame.\n\nArjuna’s hair stood on end. He folded his hands, trembling. “Who are you?”\n\n“I am Time,” said Krishna, “the destroyer of the worlds, come to gather them in. All these warriors are already gone, whether or not you fight. Be only my instrument.”\n\nArjuna bowed in awe and fear. “Show me again the gentle form,” he begged. “I cannot bear this vision.”\n\nKrishna smiled and became again the friend and charioteer Arjuna knew.",
+    "hi": {
+     "text": "“कृष्ण,” अर्जुन ने धीमे से कहा, “यदि आप अनुमति दें तो मैं आपका सच्चा रूप देखना चाहता हूँ।”\n\n“देखो,” कृष्ण ने कहा। “पर तुम्हारी मानवीय आँखें उसे सँभाल नहीं पाएँगी। मैं तुम्हें दिव्य दृष्टि देता हूँ।”\n\nऔर अर्जुन ने देखा। कृष्ण का स्वरूप पूरे आकाश से दहक रहा था, असंख्य मुख और भुजाएँ, दिव्य मालाएँ पहने, एक साथ हज़ार सूर्यों की तरह दमकता हुआ। सारे लोक उनके भीतर थे। देवता, ऋषि और नाग उनमें प्रणाम कर रहे थे। दोनों सेनाएँ उनके मुखों में ऐसे दौड़ी जा रही थीं जैसे नदियाँ समुद्र में, जैसे पतंगे ज्वाला में।\n\nअर्जुन के रोंगटे खड़े हो गए। उसने काँपते हुए हाथ जोड़ लिए। “आप कौन हैं?”\n\n“मैं काल हूँ,” कृष्ण ने कहा, “लोकों का संहार करने वाला, उन्हें समेटने आया हूँ। ये सारे योद्धा पहले ही जा चुके हैं, चाहे तुम लड़ो या न लड़ो। तुम बस मेरे निमित्त बन जाओ।”\n\nअर्जुन ने श्रद्धा और भय से प्रणाम किया। “मुझे फिर वही सौम्य रूप दिखाइए,” उसने गिड़गिड़ाकर कहा। “मुझसे यह दर्शन सहा नहीं जाता।”\n\nकृष्ण मुस्कुराए और फिर वही मित्र और सारथी बन गए जिसे अर्जुन जानता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“श्रीकृष्णा,” अर्जुन हळू म्हणाला, “आपली परवानगी असेल तर मला आपले खरे रूप पाहायचे आहे.”\n\n“पाहा,” श्रीकृष्ण म्हणाले. “पण तुझ्या मानवी डोळ्यांना ते सहन होणार नाही. मी तुला दिव्य दृष्टी देतो.”\n\nआणि अर्जुनाने पाहिले. श्रीकृष्णाचे रूप सारे आकाश व्यापून तेजाने झळकत होते, असंख्य मुखे आणि हात, दिव्य माळा धारण केलेले, एकाच वेळी हजार सूर्यांसारखे तळपणारे. सारे लोक त्यांच्यात सामावले होते. देव, ऋषी आणि नाग त्यांच्यात नतमस्तक होते. दोन्ही सैन्ये त्यांच्या मुखांत धावत जात होती, जशा नद्या समुद्रात, जसे पतंग ज्योतीत.\n\nअर्जुनाच्या अंगावर रोमांच उभे राहिले. त्याने थरथरत हात जोडले. “आपण कोण आहात?”\n\n“मी काळ आहे,” श्रीकृष्ण म्हणाले, “लोकांचा संहार करणारा, त्यांना गोळा करायला आलेला. तू लढलास किंवा नाही लढलास, हे सारे योद्धे आधीच गेले आहेत. फक्त माझे निमित्त हो.”\n\nअर्जुनाने आदराने आणि भीतीने नमस्कार केला. “मला पुन्हा ते सौम्य रूप दाखवा,” तो विनवणी करीत म्हणाला. “हे दर्शन मला सहन होत नाही.”\n\nश्रीकृष्ण हसले आणि पुन्हा अर्जुनाच्या ओळखीचे मित्र आणि सारथी झाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "My delusion is gone",
+    "hi": {
+     "text": "मेरा मोह नष्ट हो गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "माझा मोह नष्ट झाला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The great form faded. The noise of the armies returned, and the wind blew across the plain.\n\nArjuna sat for a long moment. Then he bent, picked up Gandiva, and stood. His hands no longer shook.\n\n“My delusion is destroyed,” he said, and his voice was clear and steady. “By your grace I have found my memory. I stand firm, my doubts are gone. I will do as you say.”\n\nSanjaya, watching from afar, trembled. He told the blind king: “Wherever there is Krishna, the lord of yoga, and wherever there is Arjuna, the archer, there will be fortune, victory, wealth and right. That is my belief.”\n\nThen something strange happened. Yudhishthira, the eldest Pandava, laid down his weapons, took off his armour, and walked on foot across the field toward the Kaurava lines. Everyone gasped. He went to Bhishma, to Drona, to Kripa, bowed to each in turn, and asked their blessings.\n\n“Win,” each one said quietly. For they knew whose side dharma stood on, though they were bound to the other.\n\nThen the war began.",
+    "hi": {
+     "text": "वह महान रूप विलीन हो गया। सेनाओं का कोलाहल लौट आया, और मैदान पर हवा बहने लगी।\n\nअर्जुन बहुत देर तक बैठा रहा। फिर वह झुका, गांडीव उठाया और खड़ा हो गया। उसके हाथ अब नहीं काँपते थे।\n\n“मेरा मोह नष्ट हो गया,” उसने कहा, और उसका स्वर स्पष्ट और स्थिर था। “आपकी कृपा से मुझे अपनी स्मृति मिल गई। मैं अडिग खड़ा हूँ, मेरे संशय दूर हो गए। जैसा आप कहेंगे, मैं वैसा ही करूँगा।”\n\nदूर से देखता हुआ संजय काँप उठा। उसने अंधे राजा से कहा: “जहाँ योगेश्वर कृष्ण हैं और जहाँ धनुर्धर अर्जुन हैं, वहीं श्री है, विजय है, ऐश्वर्य है और नीति है। ऐसा मेरा मत है।”\n\nफिर एक अनोखी बात हुई। सबसे बड़े पांडव युधिष्ठिर ने अपने शस्त्र रख दिए, कवच उतार दिया, और पैदल ही मैदान पार करके कौरवों की पंक्तियों की ओर चल दिए। सब हैरान रह गए। वे भीष्म के पास गए, द्रोण के पास, कृपाचार्य के पास, हर एक को प्रणाम किया और उनका आशीर्वाद माँगा।\n\n“विजयी हो,” हर एक ने धीरे से कहा। क्योंकि वे जानते थे कि धर्म किस पक्ष में है, भले ही वे दूसरे पक्ष से बँधे थे।\n\nऔर तब युद्ध आरंभ हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते विराट रूप लोपले. सैन्यांचा गोंगाट परत आला, आणि मैदानावरून वारा वाहू लागला.\n\nअर्जुन काही क्षण बसून राहिला. मग त्याने वाकून गांडीव उचलले आणि तो उभा राहिला. त्याचे हात आता थरथरत नव्हते.\n\n“माझा मोह नष्ट झाला आहे,” तो म्हणाला, आणि त्याचा आवाज स्पष्ट आणि स्थिर होता. “आपल्या कृपेने मला माझी स्मृती परत मिळाली आहे. मी स्थिर उभा आहे, माझे संशय गेले आहेत. आपण सांगाल तसे मी करीन.”\n\nदूरून पाहणारा संजय थरथरला. त्याने अंध राजाला सांगितले: “जिथे योगेश्वर श्रीकृष्ण आहेत आणि जिथे धनुर्धर अर्जुन आहे, तिथे संपत्ती, विजय, ऐश्वर्य आणि न्याय असेल. हा माझा विश्वास आहे.”\n\nमग एक विचित्र गोष्ट घडली. ज्येष्ठ पांडव युधिष्ठिराने आपली शस्त्रे खाली ठेवली, कवच काढले, आणि तो पायी चालत कौरवांच्या रांगांकडे निघाला. सगळे थक्क झाले. तो भीष्मांकडे गेला, द्रोणांकडे गेला, कृपाचार्यांकडे गेला, प्रत्येकाला एकापाठोपाठ नमस्कार केला आणि आशीर्वाद मागितला.\n\n“विजयी हो,” प्रत्येकजण शांतपणे म्हणाला. कारण धर्म कुणाच्या बाजूला आहे हे त्यांना ठाऊक होते, जरी ते दुसऱ्या बाजूशी बांधलेले होते.\n\nमग युद्ध सुरू झाले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+  "cite": {
+   "en": "Bhagavad Gita 2.47",
+   "hi": {
+    "text": "श्रीमद्भगवद्गीता 2.47",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता २.४७",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "You have a right to your action, never to its fruits. Do not let the fruit be your motive, nor be attached to doing nothing.",
+   "hi": {
+    "text": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं। फल को अपने कर्म का हेतु मत बनाओ, और न ही कर्म न करने में तुम्हारी आसक्ति हो।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "तुझा अधिकार फक्त कर्मावर आहे, फळावर कधीच नाही. फळ तुझा हेतू होऊ देऊ नकोस, आणि कर्म न करण्यातही आसक्त होऊ नकोस.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Where do you hold on to results so tightly that you forget to do the work well? Today, choose one task and give it your whole attention, then let go of how it turns out. Notice how lightly you can breathe.",
+  "hi": {
+   "text": "आप कहाँ परिणामों को इतनी कसकर पकड़ लेते हैं कि काम को अच्छी तरह करना भूल जाते हैं? आज एक काम चुनिए और उसमें अपना पूरा ध्यान लगाइए, फिर इसकी चिंता छोड़ दीजिए कि नतीजा क्या होगा। देखिए कि आप कितनी हल्की साँस ले पाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही निकालाला इतके घट्ट धरून ठेवता का की काम नीट करायचेच विसरता? आज एक काम निवडा आणि त्याला आपले पूर्ण लक्ष द्या, मग त्याचा शेवट कसा होईल ते सोडून द्या. तुम्हाला किती हलके वाटते ते पाहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Do your duty with full heart and let go of its fruit, offering every action to the divine.",
+  "hi": {
+   "text": "अपना कर्तव्य पूरे मन से कीजिए और उसके फल की आसक्ति छोड़ दीजिए, हर कर्म ईश्वर को अर्पित करते हुए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपले कर्तव्य पूर्ण मनाने करा आणि फळाची आसक्ती सोडा, प्रत्येक कर्म परमेश्वराला अर्पण करा.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Bhishma Parva (Bhagavad Gita)",
+  "hi": {
+   "text": "महाभारत, भीष्म पर्व (श्रीमद्भगवद्गीता)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, भीष्म पर्व (भगवद्गीता)",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "sunset-at-kurukshetra",
+ "order": 25,
+ "part": "drona",
+ "figure": {
+  "en": "Arjuna and Krishna",
+  "hi": {
+   "text": "अर्जुन और कृष्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुन आणि श्रीकृष्ण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The day the sun was hidden",
+  "hi": {
+   "text": "वह दिन जब सूर्य छिप गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सूर्य झाकला गेलेला दिवस",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Arjuna has sworn to kill one man before sunset, or die in fire. Tonight an entire army has made itself a wall around him, and the hours are slipping away.",
+  "hi": {
+   "text": "अर्जुन ने शपथ ली है कि सूर्यास्त से पहले एक व्यक्ति का वध करेगा, नहीं तो अग्नि में प्राण देगा। आज रात एक पूरी सेना उसके चारों ओर दीवार बनकर खड़ी है, और घड़ियाँ बीतती जा रही हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुनाने सूर्यास्तापूर्वी एकाला मारण्याची, नाहीतर अग्नीत प्रवेश करण्याची शपथ घेतली आहे. आज रात्री एक संपूर्ण सैन्य त्याच्याभोवती भिंत बनून उभे आहे, आणि तास निसटत चालले आहेत.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/sunset-at-kurukshetra-1.webp",
+   "w": 500,
+   "h": 454,
+   "caption": {
+    "en": "Ghatotkacha in battle (palm-leaf style painting)",
+    "hi": {
+     "text": "युद्ध में घटोत्कच (ताड़पत्र शैली का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धात घटोत्कच (ताडपत्र शैलीतील चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ghatotkacha_-_Abhimanyu.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The vow",
+    "hi": {
+     "text": "प्रतिज्ञा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शपथ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At dawn the Kauravas heard of Arjuna’s vow. Jayadratha, king of Sindhu, grew pale. “I never meant for the boy to die,” he said to Duryodhana. “Let me go home.”\n\n“No,” said Duryodhana. “We will guard you. Drona will make a formation so strong that Arjuna will never reach you.”\n\nDrona arranged his army in two great shapes, a cart-formation, and inside it a lotus. At the very centre of the lotus, in its last ring, behind sixty thousand chariots and fourteen thousand elephants, he placed Jayadratha. Far from the front, deep in the heart of the army, he would be safe.\n\nOn the Pandava side, Krishna looked up at the sun. “Arjuna,” he said, “this will not be an ordinary day. Tonight you must either keep your word or burn. I do not think the sun will wait for us.”\n\nArjuna stood in his chariot, calm. “I do not fear. Drive, Krishna.”\n\nThe white horses leapt forward, and Gandiva sang.",
+    "hi": {
+     "text": "भोर होते ही कौरवों को अर्जुन की प्रतिज्ञा की ख़बर मिली। सिंधु के राजा जयद्रथ का मुख पीला पड़ गया। “मैंने कभी नहीं चाहा था कि वह बालक मरे,” उसने दुर्योधन से कहा। “मुझे घर जाने दीजिए।”\n\n“नहीं,” दुर्योधन ने कहा। “हम तुम्हारी रक्षा करेंगे। द्रोणाचार्य ऐसा व्यूह रचेंगे कि अर्जुन तुम तक कभी नहीं पहुँच पाएगा।”\n\nद्रोण ने अपनी सेना को दो विशाल आकृतियों में सजाया, एक शकट व्यूह, और उसके भीतर एक पद्म व्यूह। कमल के ठीक केंद्र में, उसके अंतिम घेरे में, साठ हज़ार रथों और चौदह हज़ार हाथियों के पीछे, उन्होंने जयद्रथ को रखा। मोर्चे से दूर, सेना के हृदय में, वह सुरक्षित रहेगा।\n\nपांडव पक्ष में कृष्ण ने सूर्य की ओर देखा। “अर्जुन,” उन्होंने कहा, “यह दिन साधारण नहीं होगा। आज रात तक या तो तुम अपना वचन निभाओगे या जल जाओगे। मुझे नहीं लगता कि सूर्य हमारे लिए रुकेगा।”\n\nअर्जुन रथ पर शांत खड़ा था। “मुझे भय नहीं है। चलिए, कृष्ण।”\n\nश्वेत घोड़े आगे उछले, और गांडीव गूँज उठा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटे कौरवांनी अर्जुनाच्या शपथेची बातमी ऐकली. सिंधूचा राजा जयद्रथ फिकट पडला. “त्या मुलाने मरावे असे माझ्या मनातही नव्हते,” तो दुर्योधनाला म्हणाला. “मला घरी जाऊ द्या.”\n\n“नाही,” दुर्योधन म्हणाला. “आम्ही तुझे रक्षण करू. द्रोण असा भक्कम व्यूह रचतील की अर्जुन तुझ्यापर्यंत कधीच पोहोचणार नाही.”\n\nद्रोणांनी आपले सैन्य दोन मोठ्या रचनांत उभे केले, एक शकट व्यूह, आणि त्याच्या आत एक पद्म व्यूह. कमळाच्या अगदी मध्यभागी, शेवटच्या वर्तुळात, साठ हजार रथ आणि चौदा हजार हत्तींच्या मागे, त्यांनी जयद्रथाला ठेवले. आघाडीपासून दूर, सैन्याच्या हृदयात, तो सुरक्षित राहणार होता.\n\nपांडवांच्या बाजूला श्रीकृष्णांनी सूर्याकडे पाहिले. “अर्जुना,” ते म्हणाले, “आजचा दिवस सामान्य नसेल. आज रात्रीपर्यंत तू आपला शब्द पाळला पाहिजेस, नाहीतर जळला पाहिजेस. सूर्य आपल्यासाठी थांबेल असे मला वाटत नाही.”\n\nअर्जुन रथात शांतपणे उभा होता. “मला भीती नाही. हाक, श्रीकृष्णा.”\n\nपांढरे घोडे उसळले, आणि गांडीवाने गाणे गायले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Through the army",
+    "hi": {
+     "text": "सेना के बीच से",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सैन्याच्या आरपार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "All morning Arjuna fought his way into the Kaurava army. He met Drona first, who blocked the way like a mountain. “I will not let you pass,” said the old teacher, “unless you defeat me.”\n\n“You are my guru,” said Arjuna softly, and with Krishna’s urging he turned the chariot around the old man, leaving him untouched, and drove on.\n\nHe fought through Kritavarma, through Shrutayudha, through Sudakshina. He fought through a dozen kings who stood in front of him, each as strong as a lion. The arrows came thicker. Hour by hour the sun climbed, and hour by hour it began to sink.\n\nThe horses grew weary. They were bleeding, thirsty, panting. Krishna looked at them with pity. “They need water. They can go no farther.”\n\nArjuna set an arrow to Gandiva. “Then I will make water,” he said, and shot an arrow into the ground. A clear pool welled up, bright and cold. Krishna unharnessed the horses, tended them, gave them drink, and harnessed them once more.\n\nAll around, enemy arrows rained, but Arjuna held them off, standing alone.",
+    "hi": {
+     "text": "सारी सुबह अर्जुन कौरव सेना को चीरता हुआ आगे बढ़ता रहा। सबसे पहले उसका सामना द्रोण से हुआ, जो पर्वत की तरह मार्ग रोके खड़े थे। “जब तक तुम मुझे हरा न दो, मैं तुम्हें आगे नहीं जाने दूँगा,” वृद्ध गुरु ने कहा।\n\n“आप मेरे गुरु हैं,” अर्जुन ने धीरे से कहा, और कृष्ण की प्रेरणा से रथ को उस वृद्ध के चारों ओर घुमाकर, उन्हें बिना छुए, आगे बढ़ गया।\n\nउसने कृतवर्मा को पार किया, श्रुतायुध को पार किया, सुदक्षिण को पार किया। उसने उन दर्जनों राजाओं को पार किया जो उसके सामने सिंह की तरह डटे थे। बाणों की वर्षा और घनी होती गई। घंटे दर घंटे सूर्य ऊपर चढ़ा, और घंटे दर घंटे ढलने लगा।\n\nघोड़े थक गए थे। वे लहूलुहान थे, प्यासे थे, हाँफ रहे थे। कृष्ण ने उन्हें करुणा से देखा। “इन्हें जल चाहिए। ये अब और आगे नहीं जा सकते।”\n\nअर्जुन ने गांडीव पर बाण चढ़ाया। “तो मैं जल बनाता हूँ,” उसने कहा, और भूमि में एक बाण मारा। वहाँ एक निर्मल, शीतल सरोवर उमड़ आया। कृष्ण ने घोड़ों को रथ से खोला, उनकी सेवा की, उन्हें जल पिलाया, और फिर जोत दिया।\n\nचारों ओर शत्रुओं के बाण बरस रहे थे, पर अर्जुन अकेला खड़ा उन्हें रोकता रहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सारी सकाळ अर्जुन कौरवांच्या सैन्यात वाट काढत गेला. पहिले त्याला द्रोण भेटले, जे पर्वतासारखी वाट अडवून उभे होते. “मी तुला जाऊ देणार नाही,” वृद्ध गुरू म्हणाले, “जोवर तू मला हरवत नाहीस.”\n\n“आपण माझे गुरू आहात,” अर्जुन हळू म्हणाला, आणि श्रीकृष्णाच्या सांगण्यावरून त्याने रथ त्या वृद्धाभोवती फिरवला, त्यांना हात न लावता, आणि पुढे निघाला.\n\nत्याने कृतवर्म्याला भेदले, श्रुतायुधाला भेदले, सुदक्षिणाला भेदले. समोर उभ्या असलेल्या डझनभर राजांशी तो लढला, प्रत्येक सिंहासारखा बलवान. बाण अधिक दाटून आले. तासामागून तास सूर्य वर चढला, आणि तासामागून तास तो मावळू लागला.\n\nघोडे थकले. ते रक्ताळले होते, तहानलेले होते, धापा टाकत होते. श्रीकृष्णांनी त्यांच्याकडे दयेने पाहिले. “त्यांना पाणी हवे. ते आणखी पुढे जाऊ शकत नाहीत.”\n\nअर्जुनाने गांडीवावर बाण लावला. “मग मी पाणी निर्माण करतो,” तो म्हणाला, आणि जमिनीत एक बाण मारला. स्वच्छ, चमचमणारे, थंड पाण्याचे तळे उसळले. श्रीकृष्णांनी घोडे सोडले, त्यांची शुश्रूषा केली, त्यांना पाणी पाजले, आणि पुन्हा रथाला जुंपले.\n\nचारी बाजूंनी शत्रूंचे बाण बरसत होते, पण अर्जुनाने एकटे उभे राहून त्यांना थोपवले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The last ring",
+    "hi": {
+     "text": "अंतिम घेरा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटचे वर्तुळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "By the afternoon, the sun hung low in the west. Most of Drona’s lotus had been broken, but the last ring still stood, and in the middle of it sat Jayadratha, so deep in that Arjuna could not even see him.\n\nDuryodhana saw how near the sun was to the horizon, and laughed. “He cannot do it,” he told his men. “Hold on a little more, and he will burn.”\n\nArjuna grew grim. His arrows came faster and faster. He cut down Duryodhana’s guards, one hundred, a thousand, as an axe fells trees.\n\nAnd still the sun sank. The sky turned red. A dread silence fell over the Pandava side. Yudhishthira, far away, prayed. Draupadi, waiting in the camp, prayed. Subhadra, who had lost her son, prayed.\n\nArjuna looked up, and for a moment his courage wavered. “Krishna,” he said. “I cannot find him. The sun is nearly gone.”\n\n“Do not despair,” said Krishna quietly. “Watch.”\n\nAnd he looked up at the sun, and then at the horizon, and he began to smile.",
+    "hi": {
+     "text": "दोपहर ढलते-ढलते सूर्य पश्चिम में नीचे लटक आया। द्रोण का अधिकांश कमल टूट चुका था, पर अंतिम घेरा अब भी खड़ा था, और उसके बीच जयद्रथ बैठा था, इतना भीतर कि अर्जुन उसे देख भी नहीं पा रहा था।\n\nदुर्योधन ने देखा कि सूर्य क्षितिज के कितना पास है, और हँस पड़ा। “यह नहीं कर पाएगा,” उसने अपने सैनिकों से कहा। “थोड़ा और टिके रहो, और यह जल मरेगा।”\n\nअर्जुन गंभीर हो गया। उसके बाण और तेज़ी से चलने लगे। उसने दुर्योधन के रक्षकों को काट डाला, सौ, हज़ार, जैसे कुल्हाड़ी पेड़ों को गिराती है।\n\nफिर भी सूर्य डूबता रहा। आकाश लाल हो गया। पांडव पक्ष पर एक भयावह सन्नाटा छा गया। दूर बैठे युधिष्ठिर प्रार्थना कर रहे थे। शिविर में प्रतीक्षा करती द्रौपदी प्रार्थना कर रही थीं। अपना पुत्र खो चुकी सुभद्रा प्रार्थना कर रही थीं।\n\nअर्जुन ने ऊपर देखा, और क्षण भर के लिए उसका साहस डगमगाया। “कृष्ण,” उसने कहा। “मुझे वह दिख नहीं रहा। सूर्य लगभग डूब चुका है।”\n\n“निराश मत हो,” कृष्ण ने शांत स्वर में कहा। “देखते रहो।”\n\nऔर उन्होंने सूर्य की ओर देखा, फिर क्षितिज की ओर, और वे मुस्कुराने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुपार उलटून गेली, आणि सूर्य पश्चिमेला खाली झुकला. द्रोणांच्या कमळाचा बहुतेक भाग फुटला होता, पण शेवटचे वर्तुळ अजून उभे होते, आणि त्याच्या मध्यभागी जयद्रथ बसला होता, इतका आत की अर्जुनाला तो दिसतही नव्हता.\n\nसूर्य क्षितिजाच्या किती जवळ आला आहे हे पाहून दुर्योधन हसला. “तो हे करू शकत नाही,” तो आपल्या माणसांना म्हणाला. “थोडे आणखी तग धरा, मग तो जळेल.”\n\nअर्जुन कठोर झाला. त्याचे बाण अधिकाधिक वेगाने सुटू लागले. कुऱ्हाड झाडे पाडते तसे त्याने दुर्योधनाचे रक्षक पाडले, शंभर, हजार.\n\nआणि तरीही सूर्य मावळत राहिला. आकाश लाल झाले. पांडवांच्या बाजूला भीतीदायक शांतता पसरली. दूर असलेल्या युधिष्ठिराने प्रार्थना केली. छावणीत वाट पाहणाऱ्या द्रौपदीने प्रार्थना केली. आपला पुत्र गमावलेल्या सुभद्रेने प्रार्थना केली.\n\nअर्जुनाने वर पाहिले, आणि क्षणभर त्याचे धैर्य डगमगले. “श्रीकृष्णा,” तो म्हणाला. “मला तो सापडत नाही. सूर्य जवळजवळ गेला.”\n\n“निराश होऊ नकोस,” श्रीकृष्ण शांतपणे म्हणाले. “पाहा.”\n\nआणि त्यांनी सूर्याकडे पाहिले, मग क्षितिजाकडे, आणि ते हसू लागले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Darkness at noon",
+    "hi": {
+     "text": "दोपहर में अँधेरा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भर दिवसा अंधार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Suddenly the world darkened. The sun went out as if a cloth had been thrown over it. Birds flew to their nests. A dusky twilight fell over Kurukshetra. Some say Krishna covered the sun with his discus; others say he used his yogic power. But all agree: for a little while, the day became dusk.\n\nThe Kauravas gave a great shout of joy. “The sun has set! Arjuna has failed!”\n\nJayadratha, who had been crouching all day in terror, stood up to see for himself. He peered over the heads of his guards, wondering if it was safe to come out. “It is evening,” he said. “I am free.”\n\n“Now, Arjuna,” whispered Krishna. “Look at the one who stands there, stretching his neck.”\n\nArjuna saw him. He saw Jayadratha’s face, white, thrilled, and unguarded, framed in the dusk. “Do not strike yet,” Krishna said. “Remember that his father, Vriddhakshatra, once gave a curse: whoever makes Jayadratha’s head fall to earth will have his own head burst. So take his head, and make it fall into his father’s lap.”\n\nArjuna nodded. He took a single arrow.",
+    "hi": {
+     "text": "अचानक संसार अँधियारा हो गया। सूर्य ऐसे बुझ गया जैसे उस पर कपड़ा डाल दिया गया हो। पक्षी अपने घोंसलों की ओर उड़ चले। कुरुक्षेत्र पर धुँधली साँझ उतर आई। कुछ कहते हैं कि कृष्ण ने सूर्य को अपने चक्र से ढक दिया; कुछ कहते हैं कि उन्होंने अपनी योगशक्ति का प्रयोग किया। पर सब मानते हैं: थोड़ी देर के लिए दिन साँझ बन गया।\n\nकौरवों ने हर्ष से बड़ी जयकार की। “सूर्य अस्त हो गया! अर्जुन असफल हुआ!”\n\nजयद्रथ, जो दिन भर भय से दुबका बैठा था, खड़ा होकर स्वयं देखने लगा। उसने अपने रक्षकों के सिरों के ऊपर से झाँका, यह सोचकर कि बाहर आना सुरक्षित है या नहीं। “साँझ हो गई,” उसने कहा। “मैं मुक्त हूँ।”\n\n“अब, अर्जुन,” कृष्ण ने फुसफुसाकर कहा। “उसे देखो जो गर्दन ऊँची करके खड़ा है।”\n\nअर्जुन ने उसे देखा। उसने जयद्रथ का मुख देखा, सफ़ेद, उल्लसित और असुरक्षित, धुँधलके में उभरता हुआ। “अभी प्रहार मत करो,” कृष्ण ने कहा। “याद रखो कि उसके पिता वृद्धक्षत्र ने एक बार शाप दिया था: जो कोई जयद्रथ का सिर धरती पर गिराएगा, उसका अपना सिर फट जाएगा। इसलिए उसका सिर काटो, और उसे उसके पिता की गोद में गिराओ।”\n\nअर्जुन ने सिर हिलाया। उसने एक बाण उठाया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अचानक जग काळोखले. सूर्यावर कापड टाकल्यासारखा तो विझला. पक्षी आपल्या घरट्यांकडे उडाले. कुरुक्षेत्रावर संधिप्रकाशाचे अंधुक सावट पसरले. काही जण म्हणतात की श्रीकृष्णांनी सुदर्शन चक्राने सूर्य झाकला; इतर म्हणतात की त्यांनी आपल्या योगशक्तीचा वापर केला. पण सर्वजण एवढे मान्य करतात: थोड्या वेळासाठी दिवसाची संध्याकाळ झाली.\n\nकौरवांनी आनंदाने मोठा जल्लोष केला. “सूर्य मावळला! अर्जुन अयशस्वी झाला!”\n\nदिवसभर भीतीने दबून बसलेला जयद्रथ स्वतः पाहायला उभा राहिला. बाहेर यायला सुरक्षित आहे का, या विचाराने त्याने रक्षकांच्या डोक्यांवरून डोकावले. “संध्याकाळ झाली आहे,” तो म्हणाला. “मी मुक्त आहे.”\n\n“आता, अर्जुना,” श्रीकृष्ण कुजबुजले. “तिथे मान लांब करून उभ्या असलेल्याकडे पाहा.”\n\nअर्जुनाने त्याला पाहिले. संधिप्रकाशात चौकटीसारखा दिसणारा, जयद्रथाचा फिकट, उत्साही, असुरक्षित चेहरा त्याला दिसला. “अजून प्रहार करू नकोस,” श्रीकृष्ण म्हणाले. “आठव, त्याचे वडील वृद्धक्षत्र यांनी एकदा शाप दिला होता: जो कोणी जयद्रथाचे मस्तक जमिनीवर पाडेल, त्याच्या स्वतःच्या डोक्याचे तुकडे होतील. म्हणून त्याचे मस्तक घे, आणि ते त्याच्या वडिलांच्या मांडीवर पाड.”\n\nअर्जुनाने मान हलवली. त्याने एकच बाण घेतला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The arrow",
+    "hi": {
+     "text": "वह बाण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बाण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then Krishna withdrew his veil, and the sun appeared, still glowing in the west, bright and red above the horizon. A cry went up from the Kauravas. “It was a trick!”\n\nBut Jayadratha had already been seen. Arjuna’s arrow flew from Gandiva with the sound of a swan’s wing, faster than sight. It struck, and it did not stop. It carried Jayadratha’s head far above the battlefield, over camps and trees, a long arc of light.\n\nFar away, on a hillside at Syamantapanchaka, old Vriddhakshatra sat in meditation, as he did every day at that hour. Something fell into his lap. He opened his eyes and looked at it. Out of surprise, he stood up, and the head rolled to the ground.\n\nAt once his own head burst into a hundred pieces, as the curse had decreed.\n\nOn the field, Arjuna lowered his bow. His vow was kept. His eyes filled with tears, not of triumph, but of weariness. “Abhimanyu,” he whispered. “It is done.” Krishna touched his arm and said nothing.",
+    "hi": {
+     "text": "तब कृष्ण ने अपना आवरण हटा लिया, और सूर्य फिर प्रकट हो गया, पश्चिम में अब भी दहकता हुआ, क्षितिज के ऊपर लाल और चमकीला। कौरवों में चीख उठी। “यह छल था!”\n\nपर जयद्रथ को देखा जा चुका था। अर्जुन का बाण गांडीव से हंस के पंख की-सी ध्वनि के साथ निकला, दृष्टि से भी तेज़। उसने वार किया, और रुका नहीं। वह जयद्रथ के सिर को रणभूमि के बहुत ऊपर, शिविरों और वृक्षों के पार, प्रकाश की एक लंबी चाप में ले उड़ा।\n\nदूर स्यमंतपंचक की एक पहाड़ी पर वृद्ध वृद्धक्षत्र ध्यान में बैठे थे, जैसा वे हर दिन उसी घड़ी करते थे। उनकी गोद में कुछ आकर गिरा। उन्होंने आँखें खोलकर उसे देखा। चौंककर वे खड़े हो गए, और वह सिर भूमि पर लुढ़क गया।\n\nउसी क्षण उनका अपना सिर सौ टुकड़ों में फट गया, जैसा शाप में कहा गया था।\n\nरणभूमि पर अर्जुन ने धनुष नीचे कर लिया। उसकी प्रतिज्ञा पूरी हुई। उसकी आँखें भर आईं, विजय के कारण नहीं, थकान के कारण। “अभिमन्यु,” उसने फुसफुसाया। “काम पूरा हुआ।” कृष्ण ने उसकी बाँह छुई और कुछ नहीं कहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग श्रीकृष्णांनी आपला पडदा दूर केला, आणि सूर्य पुन्हा दिसला, अजूनही पश्चिमेला तळपत, क्षितिजाच्या वर तेजस्वी आणि लाल. कौरवांमधून आरोळी उठली. “हा कपट होता!”\n\nपण जयद्रथ आधीच दिसला होता. अर्जुनाचा बाण गांडीवातून राजहंसाच्या पंखाच्या आवाजाने, दृष्टीपेक्षाही वेगाने सुटला. तो लागला, आणि थांबला नाही. त्याने जयद्रथाचे मस्तक रणांगणाच्या फार वर, छावण्यांवरून आणि झाडांवरून, प्रकाशाच्या लांब कमानीतून नेले.\n\nदूर, स्यमंतपंचक येथे एका टेकडीवर, वृद्ध वृद्धक्षत्र रोजच्याप्रमाणे त्या वेळी ध्यानात बसले होते. त्यांच्या मांडीवर काहीतरी पडले. त्यांनी डोळे उघडून पाहिले. आश्चर्याने ते उभे राहिले, आणि ते मस्तक जमिनीवर लोळले.\n\nलगेचच शापाप्रमाणे त्यांच्या स्वतःच्या डोक्याचे शंभर तुकडे झाले.\n\nरणांगणावर अर्जुनाने धनुष्य खाली केले. त्याची शपथ पूर्ण झाली होती. त्याचे डोळे अश्रूंनी भरले, विजयाचे नव्हे, तर थकव्याचे. “अभिमन्यू,” तो कुजबुजला. “झाले.” श्रीकृष्णांनी त्याच्या हाताला स्पर्श केला आणि काही बोलले नाहीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Night battle, and Ghatotkacha",
+    "hi": {
+     "text": "रात्रि-युद्ध और घटोत्कच",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रात्रीचे युद्ध आणि घटोत्कच",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "But the war did not stop at sunset. That night, torches burned across the plain, and the fighting went on in strange, flickering light.\n\nGhatotkacha, Bhima’s son by the rakshasi Hidimbi, rose with his great power. In the dark, a rakshasa was twice as strong. He grew to the size of a mountain, and his illusions made rain of fire and stone fall on the Kauravas. Their army broke and fled in terror.\n\nDuryodhana ran to Karna. “Only you can save us. Use the weapon Indra gave you!”\n\nKarna had kept the Vasavi Shakti for Arjuna, for a year. But now he saw the whole army dying, and he threw the spear at Ghatotkacha. It struck. The huge rakshasa, seeing death at hand, made himself grow as vast as a hill, and fell on the Kaurava army, crushing thousands in his last act.\n\nKrishna, on the Pandava side, was smiling and sad at once. “Do you see?” he said softly to Arjuna. “Karna has used the one weapon that could have killed you. You are safe.”\n\nArjuna wept for his nephew, the loyal giant who had given his life to save them.",
+    "hi": {
+     "text": "पर युद्ध सूर्यास्त पर नहीं रुका। उस रात मैदान भर में मशालें जलीं, और लड़ाई उस अजीब, टिमटिमाती रोशनी में चलती रही।\n\nघटोत्कच, भीम का पुत्र जो राक्षसी हिडिंबा से जन्मा था, अपनी पूरी शक्ति के साथ उठ खड़ा हुआ। अँधेरे में राक्षस दुगुना बलशाली होता था। वह पर्वत के आकार का हो गया, और उसकी माया से कौरवों पर आग और पत्थरों की वर्षा होने लगी। उनकी सेना भय से टूटकर भाग खड़ी हुई।\n\nदुर्योधन कर्ण के पास दौड़ा। “केवल तुम हमें बचा सकते हो। इंद्र ने जो अस्त्र दिया था, उसका प्रयोग करो!”\n\nकर्ण ने वासवी शक्ति को अर्जुन के लिए एक वर्ष से सँजोकर रखा था। पर अब उन्होंने पूरी सेना को मरते देखा, और उन्होंने वह भाला घटोत्कच पर फेंक दिया। वह लगा। विशाल राक्षस ने मृत्यु को पास देखकर अपने आप को पहाड़ जितना विशाल कर लिया, और कौरव सेना पर आ गिरा, अपने अंतिम कर्म में हज़ारों को कुचलते हुए।\n\nपांडव पक्ष में कृष्ण एक साथ मुस्कुरा भी रहे थे और उदास भी थे। “देखा?” उन्होंने धीमे से अर्जुन से कहा। “कर्ण ने वही एकमात्र अस्त्र खर्च कर दिया जो तुम्हें मार सकता था। अब तुम सुरक्षित हो।”\n\nअर्जुन अपने भतीजे के लिए रोया, उस वफ़ादार दैत्य के लिए जिसने उन सबको बचाने के लिए अपने प्राण दे दिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण सूर्यास्ताबरोबर युद्ध थांबले नाही. त्या रात्री मैदानभर मशाली पेटल्या, आणि अनोळखी, थरथरत्या प्रकाशात लढाई चालू राहिली.\n\nभीमाचा राक्षसी हिडिंबेपासून झालेला पुत्र घटोत्कच आपल्या प्रचंड शक्तीने उठला. अंधारात राक्षस दुप्पट बलवान होतो. तो पर्वताएवढा वाढला, आणि त्याच्या मायेने कौरवांवर आग आणि दगडांचा पाऊस पडला. त्यांचे सैन्य भीतीने फुटले आणि पळाले.\n\nदुर्योधन कर्णाकडे धावला. “फक्त तूच आम्हाला वाचवू शकतोस. इंद्राने दिलेले अस्त्र वापर!”\n\nकर्णाने वासवी शक्ती वर्षभर अर्जुनासाठी राखून ठेवली होती. पण आता सारे सैन्य मरताना पाहून त्याने तो भाला घटोत्कचावर फेकला. तो लागला. मृत्यू जवळ आलेला पाहून त्या प्रचंड राक्षसाने स्वतःला टेकडीएवढे विशाल केले, आणि कौरवांच्या सैन्यावर कोसळला, आपल्या शेवटच्या कृत्यात हजारोंना चिरडून.\n\nपांडवांच्या बाजूला श्रीकृष्ण एकाच वेळी हसत आणि दुःखी होते. “पाहिलेस का?” ते अर्जुनाला हळू म्हणाले. “तुला मारू शकणारे एकमेव अस्त्र कर्णाने वापरले आहे. तू सुरक्षित आहेस.”\n\nअर्जुन आपल्या पुतण्यासाठी रडला, त्या निष्ठावान राक्षसासाठी, ज्याने त्यांना वाचवण्यासाठी आपला प्राण दिला.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Arjuna kept his word, and Krishna was beside him the whole way. What promise are you trying to keep alone? Today, ask a trusted friend for help with something heavy, and offer help to someone else too.",
+  "hi": {
+   "text": "अर्जुन ने अपना वचन निभाया, और कृष्ण पूरे समय उसके साथ थे। आप कौन-सा वचन अकेले निभाने की कोशिश कर रहे हैं? आज किसी भरोसेमंद मित्र से किसी भारी बात में सहायता माँगिए, और किसी और की सहायता भी कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुनाने आपला शब्द पाळला, आणि श्रीकृष्ण संपूर्ण वाटेवर त्याच्या सोबत होते. तुम्ही कोणते वचन एकटे पाळायचा प्रयत्न करत आहात? आज एखाद्या जड गोष्टीत विश्वासू मित्राची मदत मागा, आणि दुसऱ्या कुणाला तरी मदत देऊ करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A promise kept with a pure heart is held up by grace, and we do not walk any long road alone.",
+  "hi": {
+   "text": "शुद्ध हृदय से निभाया गया वचन कृपा के सहारे टिकता है, और हम कोई भी लंबी राह अकेले नहीं चलते।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शुद्ध मनाने पाळलेले वचन कृपेने तोलले जाते, आणि कोणतीही लांब वाट आपण एकटे चालत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Drona Parva (the darkening of the sun is told in the epic and varies in later versions)",
+  "hi": {
+   "text": "महाभारत, द्रोण पर्व (सूर्य के ढकने की कथा महाकाव्य में मिलती है और बाद के रूपों में अलग-अलग कही गई है)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, द्रोण पर्व (सूर्य झाकला जाण्याची कथा महाकाव्यात सांगितली आहे आणि नंतरच्या आवृत्त्यांत वेगळी आढळते)",
+   "reviewed": false
+  }
+ }
+}

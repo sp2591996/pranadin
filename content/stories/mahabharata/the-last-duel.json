@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-last-duel",
+ "order": 28,
+ "part": "shalya",
+ "figure": {
+  "en": "Duryodhana and Bhima",
+  "hi": {
+   "text": "दुर्योधन और भीम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुर्योधन आणि भीम",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The king who lay by the water",
+  "hi": {
+   "text": "जल के किनारे लेटा राजा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पाण्याशेजारी पडलेला राजा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Eighteen days of war have left almost no one standing. Duryodhana slips into a lake and waits under the surface, but even a hidden king can be called by his own pride.",
+  "hi": {
+   "text": "अठारह दिन के युद्ध ने लगभग किसी को खड़ा नहीं छोड़ा। दुर्योधन एक सरोवर में उतरकर सतह के नीचे प्रतीक्षा करता है, पर छिपे हुए राजा को भी उसका अपना अभिमान पुकार सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अठरा दिवसांच्या युद्धाने जवळजवळ कुणालाच उभे ठेवले नाही. दुर्योधन एका सरोवरात शिरून पाण्याखाली वाट पाहतो, पण लपलेल्या राजालाही त्याचाच अहंकार हाक मारू शकतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/the-last-duel-1.webp",
+   "w": 736,
+   "h": 1088,
+   "caption": {
+    "en": "Bhima and Duryodhana fight with maces as the gods watch (Indian painting)",
+    "hi": {
+     "text": "देवताओं के सामने भीम और दुर्योधन का गदा-युद्ध (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देव पाहत असताना भीम आणि दुर्योधनाचे गदायुद्ध (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Madhu,son of Devajyu Gujarati, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mace_fighting_between_Duryodhan_%26_bheema.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The last of the army",
+    "hi": {
+     "text": "सेना के अंतिम जन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सैन्याचा शेवटचा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Karna was dead. Shalya led the Kauravas for half a day and fell to Yudhishthira’s spear before noon. Then the great Kaurava army, which had been like an ocean eleven days before, was a few scattered men.\n\nDuryodhana stood alone on the field with his mace across his arm. Of all his brothers, there was no one left. Of all his friends, there was no one left. Bhishma, Drona and Karna were gone. He looked at the ground, which was stained red, and then at the sky, where a few vultures turned. The war that he had been so certain of winning had eaten his whole family.\n\nHe did not weep. He had been a warrior and a king, and he stood very straight. “Where can a king go,” he said to himself, “when he has nothing?”\n\nHe walked, slowly and without a destination, toward Lake Dvaipayana. There was a quiet there. At the edge of the water, he stopped and looked at his reflection: a tired man with a crown still on his head.\n\nThen he used a power he had learned long ago. He called the water to hold him. He walked into the lake, and the waves closed over his head.",
+    "hi": {
+     "text": "कर्ण चल बसे थे। शल्य ने आधे दिन कौरवों का नेतृत्व किया और दोपहर से पहले ही युधिष्ठिर के भाले से गिर पड़े। तब वह विशाल कौरव सेना, जो ग्यारह दिन पहले सागर जैसी थी, कुछ बिखरे हुए लोगों में सिमट गई।\n\nदुर्योधन अकेला रणभूमि पर खड़ा था, गदा बाँह पर टिकाए। अपने सब भाइयों में से कोई नहीं बचा था। अपने सब मित्रों में से कोई नहीं बचा था। भीष्म, द्रोण और कर्ण जा चुके थे। उसने धरती को देखा, जो लहू से लाल थी, फिर आकाश को, जहाँ कुछ गिद्ध चक्कर काट रहे थे। जिस युद्ध को वह जीतने के प्रति इतना निश्चिंत था, उसने उसके पूरे परिवार को निगल लिया था।\n\nवह रोया नहीं। वह योद्धा और राजा रहा था, और बहुत सीधा खड़ा रहा। “जिसके पास कुछ नहीं बचा,” उसने अपने आप से कहा, “वह राजा कहाँ जाए?”\n\nवह धीरे-धीरे, बिना किसी लक्ष्य के, द्वैपायन सरोवर की ओर चल पड़ा। वहाँ शांति थी। जल के किनारे वह रुका और अपनी छवि को देखा: एक थका हुआ मनुष्य, जिसके सिर पर अब भी मुकुट था।\n\nफिर उसने वह शक्ति प्रयोग की जो उसने बहुत पहले सीखी थी। उसने जल को आदेश दिया कि वह उसे थाम ले। वह सरोवर में उतर गया, और लहरें उसके सिर के ऊपर बंद हो गईं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कर्ण मेला होता. शल्याने अर्धा दिवस कौरवांचे नेतृत्व केले आणि दुपारपूर्वी युधिष्ठिराच्या भाल्याने पडला. मग अकरा दिवसांपूर्वी समुद्रासारखे असलेले कौरवांचे महान सैन्य काही विखुरलेले लोक उरले.\n\nदुर्योधन हातावर गदा घेऊन मैदानावर एकटा उभा होता. त्याच्या सर्व भावांपैकी कुणी उरले नव्हते. त्याच्या सर्व मित्रांपैकी कुणी उरले नव्हते. भीष्म, द्रोण आणि कर्ण गेले होते. त्याने लाल झालेल्या जमिनीकडे पाहिले, आणि मग आकाशाकडे, जिथे काही गिधाडे घिरट्या घालत होती. ज्या युद्धाच्या विजयाची त्याला इतकी खात्री होती, त्याने त्याचे सारे कुटुंब गिळले होते.\n\nतो रडला नाही. तो योद्धा आणि राजा होता, आणि तो अगदी ताठ उभा होता. “राजा कुठे जाईल,” तो स्वतःशी म्हणाला, “जेव्हा त्याच्याजवळ काहीच उरले नाही?”\n\nतो हळूहळू, कोणत्याही निश्चित दिशेशिवाय, द्वैपायन सरोवराकडे चालत गेला. तिथे शांतता होती. पाण्याच्या काठावर त्याने थांबून आपले प्रतिबिंब पाहिले: डोक्यावर अजूनही मुकुट असलेला एक थकलेला माणूस.\n\nमग त्याने फार पूर्वी शिकलेली एक शक्ती वापरली. त्याने पाण्याला आपल्याला धरून ठेवायला सांगितले. तो सरोवरात शिरला, आणि लाटा त्याच्या डोक्यावर मिटल्या.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Under the water",
+    "hi": {
+     "text": "जल के नीचे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाण्याखाली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Some of the Kaurava survivors, Ashwatthama, Kripa and Kritavarma, found him there. They stood on the bank and called, but he did not answer. They went away, and in the evening hunters passing by overheard them talking, and told the Pandavas.\n\nThe Pandavas came, with Krishna, and stood on the edge of the lake. The surface was quiet. Not a ripple moved.\n\n“Duryodhana!” called Yudhishthira. “Come out. You are a kshatriya. Why do you hide like a frightened child? Fight, and win the kingdom, or fall, and win heaven.”\n\nFrom under the water came a voice, calm and sad. “I do not wish for the kingdom, Yudhishthira. I do not care for the throne or the wealth. All those I fought for are dead. Take it all. I will go to the forest.”\n\n“We do not want a gift from you,” said the king. “We want a fair fight. Come out.”\n\nThe water stirred. Then, slowly, the tall man with the mace rose from the lake like a figure carved from dark stone, with water pouring from his shoulders.\n\n“So be it,” said Duryodhana. “I will fight. But I will choose my one opponent.”",
+    "hi": {
+     "text": "बचे हुए कौरवों में से कुछ, अश्वत्थामा, कृपाचार्य और कृतवर्मा, उसे वहाँ खोजते हुए आए। उन्होंने किनारे पर खड़े होकर पुकारा, पर उसने उत्तर नहीं दिया। वे चले गए, और शाम को पास से गुज़रते शिकारियों ने उनकी बातें सुन लीं और पांडवों को बता दिया।\n\nपांडव कृष्ण के साथ आए और सरोवर के किनारे खड़े हो गए। सतह शांत थी। एक लहर भी नहीं हिली।\n\n“दुर्योधन!” युधिष्ठिर ने पुकारा। “बाहर आओ। तुम क्षत्रिय हो। एक डरे हुए बच्चे की तरह क्यों छिपे हो? लड़ो, और राज्य जीतो, या गिरो, और स्वर्ग पाओ।”\n\nजल के नीचे से एक स्वर आया, शांत और उदास। “मुझे राज्य नहीं चाहिए, युधिष्ठिर। मुझे सिंहासन की परवाह नहीं, न धन की। जिनके लिए मैं लड़ा, वे सब मर चुके हैं। यह सब ले लो। मैं वन चला जाऊँगा।”\n\n“हमें तुमसे कोई दान नहीं चाहिए,” राजा ने कहा। “हमें निष्पक्ष युद्ध चाहिए। बाहर आओ।”\n\nजल में हलचल हुई। फिर धीरे-धीरे, गदा थामे वह ऊँचा पुरुष सरोवर से ऐसे उठा जैसे काले पत्थर से तराशी हुई मूर्ति, उसके कंधों से जल बह रहा था।\n\n“ठीक है,” दुर्योधन ने कहा। “मैं लड़ूँगा। पर अपना एक प्रतिद्वंद्वी मैं स्वयं चुनूँगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाचलेल्या कौरवांपैकी काहींनी, अश्वत्थामा, कृप आणि कृतवर्मा यांनी, त्याला तिथे शोधले. ते काठावर उभे राहून हाका मारू लागले, पण त्याने उत्तर दिले नाही. ते निघून गेले, आणि संध्याकाळी तिथून जाणाऱ्या शिकाऱ्यांनी त्यांचे बोलणे ऐकले, आणि पांडवांना सांगितले.\n\nपांडव श्रीकृष्णांसह आले आणि सरोवराच्या काठावर उभे राहिले. पृष्ठभाग शांत होता. एक तरंगही हलला नाही.\n\n“दुर्योधना!” युधिष्ठिराने हाक मारली. “बाहेर ये. तू क्षत्रिय आहेस. घाबरलेल्या मुलासारखा का लपतोस? लढ आणि राज्य जिंक, किंवा पड आणि स्वर्ग जिंक.”\n\nपाण्याखालून एक शांत आणि खिन्न आवाज आला. “युधिष्ठिरा, मला राज्य नको. मला सिंहासन किंवा संपत्तीची पर्वा नाही. ज्यांच्यासाठी मी लढलो ते सारे मेले आहेत. सारे घे. मी वनात जाईन.”\n\n“आम्हाला तुझ्याकडून दान नको,” राजा म्हणाला. “आम्हाला निष्पक्ष लढाई हवी आहे. बाहेर ये.”\n\nपाणी ढवळले. मग हळूहळू, गदा घेतलेला तो उंच माणूस काळ्या दगडात कोरलेल्या मूर्तीसारखा सरोवरातून वर आला, खांद्यांवरून पाणी ओघळत.\n\n“तसे होऊ दे,” दुर्योधन म्हणाला. “मी लढेन. पण माझा एकच प्रतिस्पर्धी मी निवडेन.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Mace against mace",
+    "hi": {
+     "text": "गदा से गदा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गदेशी गदा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Bhima,” said Duryodhana. “You, and no other.”\n\nThe two of them stepped onto a patch of open ground. They were the finest mace-fighters in the world, taught by the same teacher, Balarama, who had come hurrying to watch the end of a war he had refused to join. Bhima was stronger, but Duryodhana was swifter and had trained more.\n\nThe sound of the maces was like thunder in the mountains. They circled one another. Sparks flew where iron met iron. A blow from Bhima shook the very ground and Duryodhana dodged it with the grace of a dancer. A blow from Duryodhana struck Bhima’s side, and Bhima staggered and stood again, bleeding.\n\nHour after hour they fought, until the sun was low, and everyone watching understood that Duryodhana was the better man, that he might even win.\n\nA tradition tells that Gandhari, before the war, had once removed her blindfold for a single moment and bathed her eldest son in the full gaze of her love and her penance, which made him as hard as iron. But because he was shy, he had covered his thighs.\n\nKrishna, watching, struck his own thigh with his hand, and looked at Bhima.",
+    "hi": {
+     "text": "“भीम,” दुर्योधन ने कहा। “तुम, और कोई नहीं।”\n\nदोनों खुली भूमि के एक टुकड़े पर आ खड़े हुए। वे संसार के सबसे कुशल गदा-योद्धा थे, एक ही गुरु, बलराम, से शिक्षा पाए हुए, जो उस युद्ध का अंत देखने जल्दी से आ पहुँचे थे जिसमें उन्होंने भाग लेने से मना कर दिया था। भीम अधिक बलशाली थे, पर दुर्योधन अधिक फुर्तीला था और उसने अधिक अभ्यास किया था।\n\nगदाओं की ध्वनि पहाड़ों में गरजती बिजली जैसी थी। वे एक-दूसरे के चक्कर लगाने लगे। जहाँ लोहे से लोहा टकराया, चिंगारियाँ उठीं। भीम का एक प्रहार धरती को हिला गया और दुर्योधन ने नर्तक की सी कला से उसे बचा लिया। दुर्योधन का एक प्रहार भीम की बगल में लगा, और भीम लड़खड़ाए, फिर खड़े हुए, रक्त बहता हुआ।\n\nघंटों वे लड़ते रहे, जब तक सूर्य नीचे न आ गया, और हर देखने वाले को समझ आ गया कि दुर्योधन श्रेष्ठ है, कि वह जीत भी सकता है।\n\nएक परंपरा कहती है कि गांधारी ने युद्ध से पहले एक बार, केवल एक क्षण के लिए, अपनी पट्टी हटाई थी और अपने ज्येष्ठ पुत्र को अपने प्रेम और तपस्या की पूरी दृष्टि से नहला दिया था, जिससे उसकी देह लोहे जैसी कठोर हो गई। पर लज्जा के कारण उसने अपनी जाँघें ढक ली थीं।\n\nकृष्ण ने देखते हुए अपने हाथ से अपनी ही जाँघ पर थपकी दी, और भीम की ओर देखा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“भीमा,” दुर्योधन म्हणाला. “तू, दुसरा कुणी नाही.”\n\nदोघे मोकळ्या जागेवर उतरले. ते जगातले सर्वश्रेष्ठ गदायोद्धे होते, एकाच गुरूने, बलरामाने, शिकवलेले, जो ज्या युद्धात सामील व्हायचे त्याने नाकारले होते त्याचा शेवट पाहायला घाईघाईने आला होता. भीम अधिक बलवान होता, पण दुर्योधन अधिक चपळ होता आणि त्याने अधिक सराव केला होता.\n\nगदांचा आवाज पर्वतांतल्या मेघगर्जनेसारखा होता. ते एकमेकांभोवती फिरले. लोखंड लोखंडाला भिडताना ठिणग्या उडाल्या. भीमाच्या एका प्रहाराने जमीन हादरली आणि दुर्योधनाने तो नर्तकाच्या डौलाने चुकवला. दुर्योधनाचा एक प्रहार भीमाच्या कुशीवर बसला, आणि भीम डळमळला आणि रक्ताळलेला पुन्हा उभा राहिला.\n\nतासामागून तास ते लढले, सूर्य खाली येईपर्यंत, आणि पाहणाऱ्या सर्वांना कळले की दुर्योधन अधिक चांगला आहे, तो जिंकूही शकतो.\n\nएक परंपरा सांगते की युद्धापूर्वी गांधारीने एकदा क्षणभरासाठी आपल्या डोळ्यांची पट्टी काढली होती आणि आपल्या ज्येष्ठ पुत्राला आपल्या प्रेमाच्या आणि तपश्चर्येच्या पूर्ण दृष्टीने न्हाऊ घातले होते, ज्यामुळे तो लोखंडासारखा कठीण झाला. पण तो लाजाळू असल्याने त्याने आपल्या मांड्या झाकल्या होत्या.\n\nपाहणाऱ्या श्रीकृष्णांनी आपल्या मांडीवर हात मारला, आणि भीमाकडे पाहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The blow",
+    "hi": {
+     "text": "वह प्रहार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रहार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Bhima saw the sign. He remembered the vow that he had made on the day Draupadi was dragged into the hall: that he would break the thigh that Duryodhana had slapped before her, mocking her.\n\n“Fight by the rules!” whispered a part of him. But another part heard the old cry from the dice hall, a woman’s voice calling for justice that no man there would give.\n\nHe swung his mace low. It struck Duryodhana’s thigh with a crack that rang across the plain. The Kaurava king staggered, fell and lay on the ground, unable to rise.\n\nA groan went up from the watchers. “Foul!” cried Balarama, leaping forward with his plough raised in fury. “A blow below the waist is against all the rules of the mace! Bhima has shamed his lineage!”\n\nKrishna caught his brother by the arm. “Brother, remember what Bhima swore,” he said. “And remember what Duryodhana did to Draupadi, and to the Pandavas in the house of lac, and in the hall of dice. There was no justice in him either.”\n\nBalarama lowered his plough, and left in anger, saying that he would see no more of this war.",
+    "hi": {
+     "text": "भीम ने संकेत देख लिया। उन्हें वह प्रतिज्ञा याद आई जो उन्होंने उस दिन ली थी जब द्रौपदी को सभा में घसीटा गया था: कि वे उस जाँघ को तोड़ देंगे जिसे दुर्योधन ने उनके सामने थपथपाकर उनका उपहास किया था।\n\n“नियम से लड़ो!” उनके भीतर का एक भाग फुसफुसाया। पर दूसरे भाग ने उस द्यूत सभा की पुरानी पुकार सुनी, एक स्त्री का स्वर जो उस न्याय के लिए पुकार रहा था जो वहाँ किसी पुरुष ने नहीं दिया।\n\nउन्होंने गदा नीचे की ओर घुमाई। वह दुर्योधन की जाँघ पर ऐसी चटाक की ध्वनि से लगी जो पूरे मैदान में गूँज गई। कौरव राजा लड़खड़ाया, गिरा और भूमि पर पड़ा रह गया, उठ नहीं सका।\n\nदेखने वालों में कराह उठी। “अधर्म!” बलराम चिल्लाए, हल उठाए क्रोध में आगे कूदे। “कमर के नीचे प्रहार गदा-युद्ध के सब नियमों के विरुद्ध है! भीम ने अपने वंश को लज्जित किया है!”\n\nकृष्ण ने अपने भाई की बाँह थाम ली। “भैया, याद कीजिए भीम ने क्या शपथ ली थी,” उन्होंने कहा। “और याद कीजिए दुर्योधन ने द्रौपदी के साथ क्या किया, और पांडवों के साथ लाक्षागृह में, और द्यूत सभा में। उसमें भी कोई न्याय नहीं था।”\n\nबलराम ने हल नीचे कर लिया, और क्रोध में यह कहकर चले गए कि वे इस युद्ध को और नहीं देखेंगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीमाने तो इशारा पाहिला. द्रौपदीला सभेत ओढत आणले त्या दिवशी त्याने घेतलेली प्रतिज्ञा त्याला आठवली: दुर्योधनाने तिच्यासमोर थट्टेने ज्या मांडीवर थाप मारली, ती मांडी तो मोडेल.\n\n“नियमाने लढ!” त्याच्यातला एक भाग कुजबुजला. पण दुसऱ्या भागाने द्यूतसभेतील जुनी हाक ऐकली, एका स्त्रीचा आवाज जो न्याय मागत होता आणि जो तिथल्या कुणीही दिला नव्हता.\n\nत्याने गदा खाली फिरवली. ती दुर्योधनाच्या मांडीवर कडकडाटाने आदळली, ज्याचा आवाज मैदानभर घुमला. कौरव राजा डळमळला, पडला आणि जमिनीवर उठू न शकता पडून राहिला.\n\nपाहणाऱ्यांमधून आक्रोश उठला. “अन्याय!” बलराम संतापाने नांगर उंचावून पुढे झेपावत ओरडला. “कमरेखाली प्रहार करणे गदायुद्धाच्या सर्व नियमांविरुद्ध आहे! भीमाने आपल्या कुळाला लाज आणली!”\n\nश्रीकृष्णांनी आपल्या भावाचा हात धरला. “दादा, भीमाने काय शपथ घेतली होती ते आठव,” ते म्हणाले. “आणि दुर्योधनाने द्रौपदीशी, आणि लाक्षागृहात, आणि द्यूतसभेत पांडवांशी काय केले, तेही आठव. त्यातही न्याय नव्हता.”\n\nबलरामाने नांगर खाली केला, आणि रागाने निघून गेला, आणि म्हणाला की या युद्धाचे आणखी काही तो पाहणार नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A king’s speech",
+    "hi": {
+     "text": "एक राजा की बात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाचे भाषण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Duryodhana lay on the ground, his thigh broken, propped on his elbow. The crown was gone. His hair was loose. But his voice, when it came, rang out as clearly as it had in his proudest days.\n\n“Krishna,” he said, “you killed Bhishma, Drona and Karna by trickery. You made Bhima break the rule of the mace. You may be proud of your cleverness. But I lived as a king. I ruled all this earth, with all its kings kneeling before me. I enjoyed every pleasure, and I gave generously. I fought bravely and I die in battle, on the field where heroes go to heaven. Who is more fortunate than I?”\n\nThere was no answer. Krishna said nothing. Bhima stood with his head bowed, and Arjuna looked away. Even the Pandavas felt, for a moment, the weight of his words.\n\nAs he spoke, a rain of flowers fell from the sky, and heavenly music sounded in the air. The gods themselves honoured the dying man for his courage. The Pandavas stared in wonder. Perhaps it was a sign that no one is made wholly of one colour, that even a man who did great wrong could also die like a king.",
+    "hi": {
+     "text": "दुर्योधन भूमि पर पड़ा था, जाँघ टूटी हुई, कोहनी के सहारे टिका। मुकुट जा चुका था। केश बिखरे थे। पर जब उसकी वाणी निकली तो वह उतनी ही स्पष्ट गूँजी जितनी उसके गर्व के सबसे ऊँचे दिनों में।\n\n“कृष्ण,” उसने कहा, “आपने भीष्म, द्रोण और कर्ण को छल से मरवाया। आपने भीम से गदा-युद्ध का नियम तुड़वाया। आप अपनी चतुराई पर गर्व कर सकते हैं। पर मैं राजा बनकर जिया। मैंने इस पूरी पृथ्वी पर शासन किया, सब राजा मेरे सामने झुके। मैंने हर सुख भोगा, और उदारता से दान दिया। मैं वीरता से लड़ा और युद्धभूमि में प्राण दे रहा हूँ, उस भूमि पर जहाँ वीर स्वर्ग जाते हैं। मुझसे अधिक भाग्यशाली कौन है?”\n\nकोई उत्तर नहीं आया। कृष्ण चुप रहे। भीम सिर झुकाए खड़े रहे, और अर्जुन ने मुँह फेर लिया। पांडवों ने भी क्षण भर के लिए उसके शब्दों का भार अनुभव किया।\n\nजब वह बोल रहा था, तभी आकाश से फूलों की वर्षा हुई, और हवा में दिव्य संगीत गूँजा। देवताओं ने भी उस मरते हुए पुरुष के साहस का सम्मान किया। पांडव चकित देखते रहे। शायद यह संकेत था कि कोई भी पूरी तरह एक ही रंग से नहीं बना होता, कि जिसने घोर अन्याय किया हो, वह भी राजा की तरह मर सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुर्योधन जमिनीवर पडला होता, त्याची मांडी मोडलेली, कोपराच्या आधारावर टेकलेला. मुकुट गेला होता. केस मोकळे झाले होते. पण जेव्हा त्याचा आवाज आला, तेव्हा तो आपल्या सर्वांत अभिमानाच्या दिवसांइतकाच स्पष्टपणे घुमला.\n\n“श्रीकृष्णा,” तो म्हणाला, “तू भीष्म, द्रोण आणि कर्ण यांना कपटाने मारलेस. तू भीमाला गदेचा नियम तोडायला लावलास. तुझ्या चतुराईचा तुला अभिमान वाटू शकतो. पण मी राजासारखा जगलो. मी या सर्व पृथ्वीवर राज्य केले, सर्व राजे माझ्यासमोर गुडघे टेकत. मी प्रत्येक सुख भोगले, आणि मी उदारतेने दिले. मी शौर्याने लढलो आणि मी रणांगणावर मरतो, जिथे वीर स्वर्गात जातात. माझ्याहून भाग्यवान कोण आहे?”\n\nउत्तर आले नाही. श्रीकृष्ण काही बोलले नाहीत. भीम मान खाली घालून उभा होता, आणि अर्जुनाने नजर फिरवली. पांडवांनाही क्षणभर त्याच्या शब्दांचे वजन जाणवले.\n\nतो बोलत असताना आकाशातून पुष्पवृष्टी झाली, आणि हवेत दिव्य संगीत घुमले. देवांनीही त्या मरणासन्न माणसाला त्याच्या धैर्यासाठी सन्मानित केले. पांडव आश्चर्याने पाहत राहिले. कदाचित हे एक चिन्ह होते की कुणीही पूर्णपणे एकाच रंगाचा बनलेला नसतो, की ज्याने मोठे चुकीचे केले तोही राजासारखा मरू शकतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The silence after",
+    "hi": {
+     "text": "उसके बाद का सन्नाटा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यानंतरची शांतता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Pandavas left the field, quiet, with no cheering. They had won, and none of them felt it. The sun went down red over Kurukshetra.\n\nDuryodhana lay alone, fading. A little way off, he heard footsteps, and three men came running out of the dusk. They were Ashwatthama, Kripa and Kritavarma. They knelt beside the fallen king, and Ashwatthama wept to see him so.\n\n“Take heart,” said Duryodhana faintly. “I am not afraid. I have done my duty as a kshatriya. Now, if you love me, do this last thing for me.”\n\n“Anything,” whispered Ashwatthama.\n\n“Make me hear, before I go, that the Pandavas are no more.”\n\nAshwatthama rose. His face was strange in the red light. He did not answer in words. Kripa poured water over Ashwatthama’s head, and in that moment he was made commander of whatever was left of the Kaurava army.\n\nNight came over the battlefield. A cold wind blew. The vultures circled. And in the dark wood by the lake, three men began to plan something that has never been forgotten.",
+    "hi": {
+     "text": "पांडव मैदान से लौटे, चुप, बिना किसी जयघोष के। वे जीत गए थे, और उनमें से किसी को ऐसा लग नहीं रहा था। कुरुक्षेत्र पर सूर्य लाल होकर डूब गया।\n\nदुर्योधन अकेला पड़ा था, धीरे-धीरे क्षीण होता हुआ। कुछ दूर उसने पदचाप सुनी, और तीन पुरुष धुँधलके से दौड़ते हुए आए। वे अश्वत्थामा, कृपाचार्य और कृतवर्मा थे। वे गिरे हुए राजा के पास घुटनों के बल बैठ गए, और अश्वत्थामा उसे इस दशा में देखकर रो पड़ा।\n\n“हिम्मत रखो,” दुर्योधन ने क्षीण स्वर में कहा। “मुझे भय नहीं है। मैंने क्षत्रिय का धर्म निभाया है। अब, यदि तुम मुझसे प्रेम करते हो, तो मेरे लिए यह अंतिम काम करो।”\n\n“कुछ भी,” अश्वत्थामा ने फुसफुसाकर कहा।\n\n“जाने से पहले मुझे यह सुनाओ कि पांडव अब नहीं रहे।”\n\nअश्वत्थामा उठा। लाल प्रकाश में उसका चेहरा विचित्र लग रहा था। उसने शब्दों में उत्तर नहीं दिया। कृपाचार्य ने अश्वत्थामा के सिर पर जल छिड़का, और उसी क्षण वह कौरव सेना के जो कुछ भी बचा था उसका सेनापति बन गया।\n\nयुद्धभूमि पर रात उतर आई। ठंडी हवा चली। गिद्ध चक्कर काटते रहे। और सरोवर के पास के अँधेरे वन में तीन पुरुष कुछ ऐसा रचने लगे जिसे कभी भुलाया नहीं गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पांडव शांतपणे, जल्लोषाविना मैदान सोडून गेले. ते जिंकले होते, आणि त्यांच्यापैकी कुणालाही ते जाणवले नाही. कुरुक्षेत्रावर सूर्य लाल होऊन मावळला.\n\nदुर्योधन एकटा पडला होता, क्षीण होत. थोड्या अंतरावर त्याला पावलांचा आवाज आला, आणि संधिप्रकाशातून तीन माणसे धावत आली. ते अश्वत्थामा, कृप आणि कृतवर्मा होते. ते पडलेल्या राजाशेजारी गुडघे टेकून बसले, आणि त्याला असे पाहून अश्वत्थामा रडला.\n\n“धीर धरा,” दुर्योधन क्षीण आवाजात म्हणाला. “मला भीती नाही. मी क्षत्रियाचे कर्तव्य केले आहे. आता, माझ्यावर प्रेम असेल तर, माझ्यासाठी ही शेवटची गोष्ट करा.”\n\n“काहीही,” अश्वत्थामा कुजबुजला.\n\n“मी जाण्यापूर्वी मला ऐकू द्या की पांडव आता नाहीत.”\n\nअश्वत्थामा उठला. लाल प्रकाशात त्याचा चेहरा विचित्र दिसत होता. त्याने शब्दांत उत्तर दिले नाही. कृपाचार्यांनी अश्वत्थाम्याच्या डोक्यावर पाणी ओतले, आणि त्या क्षणी तो कौरवांच्या सैन्यात जे काही उरले होते त्याचा सेनापती झाला.\n\nरणभूमीवर रात्र उतरली. थंड वारा वाहू लागला. गिधाडे घिरट्या घालत होती. आणि सरोवराजवळच्या अंधाऱ्या वनात तीन माणसे असे काहीतरी योजू लागली जे कधीही विसरले गेले नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Duryodhana was brave and also wrong. Can you honour what is good in a person while still seeing what they did? Today, think of someone you find difficult and name one true good thing about them. Hold both truths gently.",
+  "hi": {
+   "text": "दुर्योधन वीर भी था और ग़लत भी। क्या आप किसी में जो अच्छा है उसका सम्मान करते हुए भी यह देख सकते हैं कि उसने क्या किया? आज किसी कठिन व्यक्ति के बारे में सोचिए और उसकी एक सच्ची अच्छाई का नाम लीजिए। दोनों सत्यों को कोमलता से थामे रखिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुर्योधन शूर होता आणि चुकीचाही. एखाद्याने काय केले ते पाहतानाही त्याच्यातल्या चांगल्याचा तुम्ही आदर करू शकता का? आज तुम्हाला कठीण वाटणाऱ्या एखाद्या व्यक्तीचा विचार करा आणि तिच्याबद्दल एक खरी चांगली गोष्ट सांगा. दोन्ही सत्ये हळुवारपणे धरून ठेवा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "No one is wholly light or wholly dark, and even in defeat, courage deserves respect while harm still deserves honesty.",
+  "hi": {
+   "text": "कोई पूरी तरह प्रकाश या पूरी तरह अंधकार नहीं होता, और पराजय में भी साहस सम्मान के योग्य है, जबकि अनिष्ट के लिए ईमानदारी चाहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुणीही पूर्णपणे प्रकाश किंवा पूर्णपणे अंधार नसतो, आणि पराभवातही धैर्याचा आदर करावा आणि हानीबद्दल प्रामाणिक असावे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Shalya Parva; Gandhari’s gaze making his body strong is a later tradition",
+  "hi": {
+   "text": "महाभारत, शल्य पर्व; गांधारी की दृष्टि से उसकी देह के कठोर होने की कथा परवर्ती परंपरा है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, शल्य पर्व; गांधारीच्या दृष्टीने शरीर बलवान होणे ही नंतरची परंपरा आहे",
+   "reviewed": false
+  }
+ }
+}

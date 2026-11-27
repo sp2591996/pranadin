@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "bhishmas-vow",
+ "order": 3,
+ "part": "adi",
+ "figure": {
+  "en": "Devavrata, later Bhishma",
+  "hi": {
+   "text": "देवव्रत, जो आगे भीष्म कहलाए",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "देवव्रत, पुढचे भीष्म",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The vow that shook heaven",
+  "hi": {
+   "text": "वह प्रतिज्ञा, जिसने स्वर्ग हिला दिया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "स्वर्गाला हादरवणारी प्रतिज्ञा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A prince gives up a throne he was born to, then promises something so great that the gods themselves cry out in awe. He does not yet know what it will cost.",
+  "hi": {
+   "text": "एक राजकुमार वह सिंहासन छोड़ देता है जिसके लिए वह जन्मा था, और फिर ऐसी प्रतिज्ञा करता है कि देवता भी विस्मय से पुकार उठते हैं। उसे अभी नहीं पता कि इसकी क्या कीमत चुकानी होगी।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक राजकुमार जन्मसिद्ध सिंहासन सोडतो, आणि मग इतके महान वचन देतो की देवही आश्चर्याने ओरडून उठतात. त्याची किंमत काय असेल हे त्याला अजून माहीत नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/bhishmas-vow-1.webp",
+   "w": 498,
+   "h": 684,
+   "caption": {
+    "en": "King Shantanu meets Satyavati, the fisherman's daughter (Raja Ravi Varma)",
+    "hi": {
+     "text": "राजा शांतनु मछुआरे की बेटी सत्यवती से मिलते हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा शंतनू कोळ्याची मुलगी सत्यवती हिला भेटतात (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Shantanu_and_Matsyagandhi_(Oleograph).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The scent of the lotus",
+    "hi": {
+     "text": "कमल की सुगंध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कमळाचा सुगंध",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Four years after Devavrata came home, Shantanu was walking beside the river Yamuna when a wonderful fragrance reached him on the wind. It was sweeter than any flower. He followed it, and found a young woman rowing a boat, with a face as lovely as the dawn.\n\nHer name was Satyavati, daughter of the chief of the fisherfolk. Once she had smelled of fish, but the sage Parashara had given her a fragrance that could be smelled for miles around. The king stopped as if struck.\n\nHe asked her to be his queen, and she answered that he must speak with her father. So Shantanu went to the chief of the fishermen and asked for her hand.\n\nThe chief bowed low. “She is a fine match for any king,” he said. “But I have one condition, my lord.” And Shantanu, hopeful, said, “Name it.” The boatmen on the river fell silent. Even the water seemed to slow, as though the Yamuna herself wished to listen to what the two men would say.",
+    "hi": {
+     "text": "देवव्रत के घर लौटने के चार वर्ष बाद शांतनु यमुना के किनारे टहल रहे थे कि हवा में एक अद्भुत सुगंध उन तक आई। वह किसी भी फूल से अधिक मधुर थी। वे उसके पीछे चले, तो एक नाव खेती हुई युवती दिखी, जिसका मुख भोर जैसा सुंदर था।\n\nउसका नाम सत्यवती था, मछुआरों के मुखिया की बेटी। कभी उसके शरीर से मछली की गंध आती थी, पर ऋषि पराशर ने उसे ऐसी सुगंध दी थी जो मीलों दूर तक फैलती थी। राजा ऐसे ठिठक गए जैसे किसी ने मार दिया हो।\n\nउन्होंने उससे रानी बनने को कहा, और उसने उत्तर दिया कि वे उसके पिता से बात करें। तो शांतनु मछुआरों के मुखिया के पास गए और उसका हाथ माँगा।\n\nमुखिया ने झुककर प्रणाम किया। “वह किसी भी राजा के योग्य है,” उसने कहा। “पर महाराज, मेरी एक शर्त है।” शांतनु ने आशा से कहा, “बताओ।” नदी पर नाविक चुप हो गए। जल भी जैसे धीमा पड़ गया, मानो यमुना स्वयं सुनना चाहती थी कि दोनों में क्या बात होती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवव्रत घरी परतल्याला चार वर्षे झाली होती. शंतनू यमुनेच्या काठाने फिरत असताना वाऱ्यावरून एक अद्भुत सुगंध त्याच्यापर्यंत आला. कोणत्याही फुलापेक्षा तो गोड होता. त्याच्या मागोमाग गेल्यावर त्याला होडी वल्हवणारी एक तरुणी दिसली, तिचा चेहरा पहाटेसारखा सुंदर होता.\n\nतिचे नाव सत्यवती, कोळ्यांच्या प्रमुखाची कन्या. पूर्वी तिला माशांचा वास येत असे, पण पराशर ऋषींनी तिला असा सुगंध दिला होता जो कोसो दूरपर्यंत पसरत असे. राजा जणू आघात झाल्यासारखा थबकला.\n\nत्याने तिला आपली राणी व्हायला विचारले, आणि ती म्हणाली की तुम्ही माझ्या वडिलांशी बोला. म्हणून शंतनू कोळ्यांच्या प्रमुखाकडे गेला आणि त्याने तिचा हात मागितला.\n\nप्रमुखाने खाली वाकून नमस्कार केला. “कोणत्याही राजासाठी ती उत्तम जोडीदार आहे,” तो म्हणाला. “पण महाराज, माझी एक अट आहे.” आणि आशेने शंतनू म्हणाला, “सांग.” नदीवरचे नावाडी स्तब्ध झाले. पाणीही जणू मंद झाले, यमुना स्वतःही या दोघांचे बोलणे ऐकू इच्छित असल्यासारखी.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The fisher-chief’s condition",
+    "hi": {
+     "text": "मुखिया की शर्त",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कोळीप्रमुखाची अट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“The son of Satyavati must be your heir,” said the chief. “Whoever is born to my daughter must sit on the throne of Hastinapura after you. I will not give her to a king whose crown is already promised to another.”\n\nShantanu’s face fell. His eldest son, Devavrata, was his heir, and he was noble and loved by all. How could he take away what was rightfully his?\n\n“No,” he said. “I cannot ask this.” He turned and walked slowly back to his palace, as if he had grown old on the road.\n\nHe did not eat. He did not smile. He sat in his rooms and stared out of the window toward the river. The royal ministers whispered and the servants tiptoed. The king was sick with a sorrow he would not name, and day by day he grew thinner and quieter. Day by day the court grew quieter. Spring came to the gardens and the king did not notice. Only Devavrata saw how his father stared across the river at night, as if hoping that the scent of lotus would come back on the wind.",
+    "hi": {
+     "text": "“सत्यवती का पुत्र ही आपका उत्तराधिकारी होना चाहिए,” मुखिया ने कहा। “मेरी बेटी की जो भी संतान होगी, वही आपके बाद हस्तिनापुर के सिंहासन पर बैठेगी। जिस राजा का मुकुट पहले ही किसी और को वचन दिया जा चुका है, उसे मैं अपनी बेटी नहीं दूँगा।”\n\nशांतनु का मुख उतर गया। उनका बड़ा पुत्र देवव्रत ही उनका उत्तराधिकारी था, और वह श्रेष्ठ था और सबका प्यारा। जो उसका अधिकार था, उसे वे कैसे छीन लेते?\n\n“नहीं,” उन्होंने कहा। “मैं यह नहीं माँग सकता।” वे मुड़े और धीरे-धीरे महल लौट गए, जैसे रास्ते में ही बूढ़े हो गए हों।\n\nउन्होंने खाना छोड़ दिया। मुस्कुराना छोड़ दिया। वे अपने कक्ष में बैठे खिड़की से नदी की ओर ताकते रहते। मंत्री कानाफूसी करते और सेवक दबे पाँव चलते। राजा एक ऐसे दुख में घुल रहे थे जिसका नाम वे नहीं लेते थे, और दिन-ब-दिन दुबले और चुप होते जा रहे थे। दिन-ब-दिन दरबार भी चुप होता गया। बगीचों में वसंत आ गया और राजा को पता ही न चला। केवल देवव्रत ने देखा कि रात में पिता नदी के पार ऐसे ताकते हैं मानो आशा हो कि कमल की सुगंध फिर हवा में लौट आएगी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“सत्यवतीचा पुत्र तुमचा वारस झाला पाहिजे,” प्रमुख म्हणाला. “माझ्या कन्येच्या पोटी जो जन्मेल तोच तुमच्यानंतर हस्तिनापूरच्या सिंहासनावर बसला पाहिजे. ज्या राजाचा मुकुट आधीच दुसऱ्याला दिलेला आहे, त्याला मी माझी कन्या देणार नाही.”\n\nशंतनूचा चेहरा उतरला. त्याचा ज्येष्ठ पुत्र देवव्रत त्याचा वारस होता, तो उदात्त होता आणि सर्वांना प्रिय होता. त्याच्या हक्काचे त्याच्याकडून हिरावून घेणे कसे शक्य होते?\n\n“नाही,” तो म्हणाला. “मी हे मागू शकत नाही.” तो वळला आणि वाटेतच म्हातारा झाल्यासारखा हळूहळू आपल्या राजवाड्यात परतला.\n\nतो जेवला नाही. हसला नाही. तो आपल्या महालात बसून खिडकीतून नदीकडे पाहत राहिला. मंत्री कुजबुजत आणि सेवक दबक्या पावलांनी चालत. राजा नाव न घेतलेल्या दुःखाने आजारी पडला होता, आणि दिवसेंदिवस तो अधिक कृश आणि अधिक शांत होत गेला. दिवसेंदिवस दरबारही शांत होत गेला. बागांत वसंत आला आणि राजाच्या ते लक्षातही आले नाही. फक्त देवव्रताने पाहिले की रात्री त्याचे वडील नदीपलीकडे पाहत राहतात, जणू कमळाचा सुगंध पुन्हा वाऱ्यावर येईल अशी आशा करत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince asks",
+    "hi": {
+     "text": "राजकुमार पूछता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमार विचारतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Devavrata noticed. He loved his father and could not bear to see him fade. At last he came to him and said, “Father, the kingdom is at peace and yet you are in pain. What troubles you?”\n\nShantanu only sighed and spoke of other things. So the prince went to the old minister, the one who had served the king for years, and asked him. Gently, the minister told him everything.\n\nDevavrata listened without a word. Then, without even stopping to bid farewell, he mounted a chariot and rode, with a group of lords, to the hut of the fisher-chief.\n\nHe came down from the chariot and bowed to the old man. “Give your daughter to my father,” he said. “I give you my word that her son, and only her son, will be king after my father. I here and now give up my claim to the throne.” The lords around him gasped.",
+    "hi": {
+     "text": "देवव्रत ने यह देख लिया। वे पिता से प्रेम करते थे और उन्हें यों घुलते नहीं देख सकते थे। आख़िर वे उनके पास गए और बोले, “पिताजी, राज्य में शांति है, फिर भी आप पीड़ा में हैं। आपको क्या कष्ट है?”\n\nशांतनु ने बस आह भरी और दूसरी बातें करने लगे। तब राजकुमार उस बूढ़े मंत्री के पास गए जिसने बरसों राजा की सेवा की थी, और उससे पूछा। मंत्री ने धीरे से सब कुछ बता दिया।\n\nदेवव्रत बिना एक शब्द बोले सुनते रहे। फिर बिना विदा लिए ही वे रथ पर चढ़े और कुछ सामंतों के साथ मछुआरों के मुखिया की झोंपड़ी तक जा पहुँचे।\n\nवे रथ से उतरे और उस बूढ़े को प्रणाम किया। “अपनी बेटी मेरे पिता को दे दीजिए,” उन्होंने कहा। “मैं वचन देता हूँ कि मेरे पिता के बाद उसका पुत्र, और केवल उसका पुत्र, राजा होगा। मैं यहीं और अभी सिंहासन पर अपना दावा छोड़ता हूँ।” उनके चारों ओर खड़े सामंत स्तब्ध रह गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवव्रताच्या हे लक्षात आले. त्याचे वडिलांवर प्रेम होते आणि त्यांना असे क्षीण होताना तो पाहू शकत नव्हता. शेवटी तो त्यांच्याकडे जाऊन म्हणाला, “बाबा, राज्यात शांतता आहे आणि तरीही तुम्ही वेदनेत आहात. तुम्हाला काय त्रास आहे?”\n\nशंतनूने फक्त उसासा सोडला आणि इतर गोष्टी बोलू लागला. तेव्हा राजकुमार वर्षानुवर्षे राजाची सेवा केलेल्या जुन्या मंत्र्याकडे गेला आणि त्याला विचारले. मंत्र्याने हळुवारपणे त्याला सारे काही सांगितले.\n\nदेवव्रताने एकही शब्द न बोलता ऐकले. मग निरोपही न घेता तो रथावर बसला आणि काही सरदारांसह कोळीप्रमुखाच्या झोपडीकडे निघाला.\n\nरथातून उतरून त्याने वृद्धाला नमस्कार केला. “तुमची कन्या माझ्या पित्याला द्या,” तो म्हणाला. “मी तुम्हाला शब्द देतो की माझ्या पित्यानंतर तिचा पुत्रच, आणि केवळ तिचाच पुत्र, राजा होईल. मी या क्षणी, इथेच, सिंहासनावरचा माझा हक्क सोडतो.” त्याच्याभोवतीचे सरदार थक्क होऊन श्वास रोखून राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The second vow",
+    "hi": {
+     "text": "दूसरी प्रतिज्ञा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसरी प्रतिज्ञा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The chief was moved, but he was a careful father and he was thinking years ahead.\n\n“Noble prince,” he said, “I believe you. But what of your children? If you have sons, they may one day claim the kingdom, and then who will stand between my grandsons and them?”\n\nThe prince did not hesitate. He stood tall before the lords and the gods and the sky.\n\n“Hear me, all of you. From this day, I give up the thought of marriage. I will have no wife and no children. I will be a brahmachari, a celibate, until my last breath.”\n\nThere was silence. A single leaf drifted from a tree. The lords stood stunned. The chief fell at his feet and said, “Take her, take her.” The boy was young, strong and handsome, and he had just taken from himself all the things a young man longs for. He did it for love of his father.",
+    "hi": {
+     "text": "मुखिया का मन भर आया, पर वह सावधान पिता था और वर्षों आगे की सोच रहा था।\n\n“श्रेष्ठ राजकुमार,” उसने कहा, “मुझे आप पर विश्वास है। पर आपकी संतानों का क्या होगा? आपके पुत्र हुए तो वे कभी राज्य पर दावा कर सकते हैं, तब मेरे नातियों और उनके बीच कौन खड़ा होगा?”\n\nराजकुमार ने क्षण भर भी नहीं सोचा। वे सामंतों, देवताओं और आकाश के सामने सीधे खड़े हुए।\n\n“आप सब सुन लीजिए। आज से मैं विवाह का विचार त्यागता हूँ। मेरी कोई पत्नी नहीं होगी, कोई संतान नहीं होगी। मैं अंतिम साँस तक ब्रह्मचारी रहूँगा।”\n\nसन्नाटा छा गया। एक अकेला पत्ता पेड़ से झरा। सामंत ठगे खड़े रह गए। मुखिया उनके चरणों में गिरकर बोला, “ले जाइए इसे, ले जाइए।” वह युवक जवान था, बलवान था, सुंदर था, और उसने अभी-अभी अपने हाथों वह सब त्याग दिया था जिसकी एक तरुण को चाह होती है। उसने यह पिता के प्रेम के लिए किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रमुख हेलावला, पण तो काळजीवाहू पिता होता आणि वर्षानुवर्षे पुढचा विचार करत होता.\n\n“उदात्त राजकुमार,” तो म्हणाला, “माझा तुझ्यावर विश्वास आहे. पण तुझ्या मुलांचे काय? तुला पुत्र झाले, तर ते कधीतरी राज्यावर हक्क सांगतील, आणि तेव्हा माझ्या नातवांच्या आणि त्यांच्या मध्ये कोण उभे राहील?”\n\nराजकुमार क्षणभरही अडखळला नाही. तो सरदारांसमोर, देवांसमोर आणि आकाशासमोर ताठ उभा राहिला.\n\n“तुम्ही सर्व ऐका. आजपासून मी विवाहाचा विचार सोडतो. मला पत्नी नसेल, मुले नसतील. मी अखेरच्या श्वासापर्यंत ब्रह्मचारी राहीन.”\n\nसर्वत्र शांतता पसरली. झाडावरून एक पान अलगद खाली आले. सरदार थक्क होऊन उभे राहिले. प्रमुख त्याच्या पायांवर कोसळला आणि म्हणाला, “घ्या तिला, घ्या तिला.” तो मुलगा तरुण, बलवान आणि देखणा होता, आणि तरुणाला ज्या ज्या गोष्टींची आस असते त्या सर्व त्याने स्वतःपासून हिरावून घेतल्या होत्या. आणि ते त्याने केले आपल्या पित्यावरच्या प्रेमासाठी.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Bhishma",
+    "hi": {
+     "text": "भीष्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीष्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The moment the vow was spoken, the sky above them opened. Flowers rained from the heavens, drums sounded in the clouds, and a great voice, which belonged to no one and to everyone, cried out, “Bhishma! Bhishma!” It means the one of the terrible vow, the one whose vow is fearsome.\n\nFrom that day, Devavrata was known by no other name.\n\nSatyavati, trembling, climbed into his chariot and he drove her to the palace. When Shantanu saw what his son had done, his heart broke and bloomed at once. He took Bhishma in his arms and wept. “I cannot repay you,” he said. “But I give you a gift. You will die only when you wish to die. Death will wait at your door until you open it.”\n\nIt was a father’s blessing. It would also, in time, become a long and lonely burden. The sages in the hermitages raised their hands in blessing, and the whole sky seemed to bow to the prince who stood in the chariot, young and calm, as though what he had done was the simplest thing in the world.",
+    "hi": {
+     "text": "प्रतिज्ञा के बोल निकलते ही उनके ऊपर का आकाश खुल गया। स्वर्ग से फूल बरसे, बादलों में नगाड़े बजे, और एक विशाल वाणी, जो किसी की न थी और सबकी थी, गूँज उठी, “भीष्म! भीष्म!” इसका अर्थ है भयंकर प्रतिज्ञा वाला, जिसकी प्रतिज्ञा भीषण है।\n\nउस दिन से देवव्रत को किसी और नाम से नहीं जाना गया।\n\nसत्यवती काँपती हुई उनके रथ पर चढ़ी और वे उसे महल ले गए। जब शांतनु ने देखा कि बेटे ने क्या किया है, तो उनका हृदय एक साथ टूटा भी और खिला भी। उन्होंने भीष्म को बाँहों में भर लिया और रो पड़े। “मैं तुम्हारा ऋण नहीं चुका सकता,” उन्होंने कहा। “पर मैं तुम्हें एक वरदान देता हूँ। तुम तभी मरोगे जब तुम स्वयं चाहोगे। मृत्यु तुम्हारे द्वार पर प्रतीक्षा करेगी, जब तक तुम उसे द्वार न खोल दो।”\n\nयह पिता का आशीर्वाद था। समय आने पर यही एक लंबा और अकेला बोझ भी बन जाने वाला था। आश्रमों में ऋषियों ने आशीर्वाद के लिए हाथ उठाए, और पूरा आकाश उस राजकुमार के आगे झुकता लगा जो रथ में खड़ा था, युवा और शांत, मानो जो उसने किया वह संसार की सबसे साधारण बात हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रतिज्ञा उच्चारताच त्यांच्यावरचे आकाश उघडले. स्वर्गातून फुलांचा वर्षाव झाला, ढगांत नगारे वाजले, आणि कोणाचाही नसलेला आणि सर्वांचा असलेला एक महान आवाज ओरडला, “भीष्म! भीष्म!” म्हणजे भीषण प्रतिज्ञा करणारा, ज्याची प्रतिज्ञा भयप्रद आहे.\n\nत्या दिवसापासून देवव्रताला दुसऱ्या कोणत्याच नावाने ओळखले गेले नाही.\n\nसत्यवती थरथरत त्याच्या रथात चढली आणि त्याने तिला राजवाड्यात नेले. शंतनूने आपल्या पुत्राने काय केले ते पाहिले तेव्हा त्याचे हृदय एकाच वेळी तुटले आणि फुलले. त्याने भीष्माला मिठीत घेतले आणि तो रडला. “मी तुझे ऋण फेडू शकत नाही,” तो म्हणाला. “पण मी तुला एक वरदान देतो. तू तुझ्या इच्छेनेच मरशील. तू दार उघडेपर्यंत मृत्यू तुझ्या दारात थांबून राहील.”\n\nतो एका पित्याचा आशीर्वाद होता. पण पुढे काळाच्या ओघात तोच दीर्घ आणि एकाकी भार बनणार होता. आश्रमांतील ऋषींनी आशीर्वादासाठी हात उंचावले, आणि रथात उभ्या असलेल्या त्या शांत, तरुण राजकुमारापुढे सारे आकाश जणू झुकले, कारण त्याने जे केले होते ते जगातली सर्वात साधी गोष्ट असावी असे तो वागत होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The cost of the promise",
+    "hi": {
+     "text": "वचन की कीमत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वचनाची किंमत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shantanu married Satyavati, and the palace was warm again. Bhishma served the new queen as he would have served his own mother, and he loved his younger brothers when they came.\n\nBut an old tale says that a vow is like a seed. When it is planted, no one can tell how tall the tree will grow, or what shade or storm it will bring. Bhishma’s promise was made for love and it was pure. Yet it would one day bind his hands when he longed to act, and it would keep him standing silent in a hall where he should have spoken.\n\nFor now the prince was young, his heart was light, and the river flowed on beside Hastinapura. Of all those who loved him, none knew that one day this great man would lie on a bed of arrows, remembering this moment by the Yamuna when he gave away his whole life in a single breath.",
+    "hi": {
+     "text": "शांतनु ने सत्यवती से विवाह कर लिया, और महल फिर गर्म हो उठा। भीष्म ने नई रानी की सेवा वैसे ही की जैसे अपनी माता की करते, और जब छोटे भाई आए तो उन्हें भी बहुत प्यार किया।\n\nपर एक पुरानी कहावत कहती है कि प्रतिज्ञा बीज जैसी होती है। जब वह बोया जाता है, तब कोई नहीं जानता कि पेड़ कितना ऊँचा होगा, और उसकी छाया मिलेगी या आँधी। भीष्म की प्रतिज्ञा प्रेम से की गई थी और निर्मल थी। फिर भी एक दिन वह उनके हाथ तब बाँध देने वाली थी जब वे कुछ करना चाहेंगे, और उन्हें उस सभा में चुप खड़ा रखने वाली थी जहाँ उन्हें बोलना चाहिए था।\n\nअभी राजकुमार युवा था, मन हलका था, और हस्तिनापुर के पास नदी बहती जा रही थी। उन्हें प्यार करने वालों में से किसी को नहीं पता था कि एक दिन यही महापुरुष बाणों की शय्या पर लेटा होगा और यमुना किनारे के उस क्षण को याद करेगा जब उसने एक ही साँस में अपना पूरा जीवन दे डाला था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंतनूने सत्यवतीशी विवाह केला आणि राजवाडा पुन्हा उबदार झाला. भीष्माने नव्या राणीची सेवा आपल्या स्वतःच्या मातेप्रमाणे केली, आणि लहान भाऊ आले तेव्हा त्यांच्यावरही प्रेम केले.\n\nपण एक जुनी कथा सांगते की प्रतिज्ञा म्हणजे बीजासारखी असते. ती पेरली की झाड किती उंच वाढेल, त्याची सावली मिळेल की वादळ येईल, हे कोणीच सांगू शकत नाही. भीष्माची प्रतिज्ञा प्रेमापोटी केलेली होती आणि ती शुद्ध होती. तरीही एके दिवशी, कृती करावीशी वाटत असताना, तिनेच त्याचे हात बांधले, आणि जिथे बोलायला हवे होते त्या सभेत त्याला गप्प उभे ठेवले.\n\nसध्या तरी राजकुमार तरुण होता, त्याचे मन हलके होते, आणि हस्तिनापूरच्या शेजारून नदी वाहतच होती. त्याच्यावर प्रेम करणाऱ्या कोणालाही माहीत नव्हते की एके दिवशी हा महापुरुष बाणांच्या शय्येवर पडून राहील आणि यमुनेकाठचा तो क्षण आठवेल, जेव्हा त्याने एका श्वासात आपले संपूर्ण आयुष्य देऊन टाकले होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Bhishma kept a promise made in a moment of love, even when it cost him everything. Is there a promise you made that you are still keeping, and why? Today, do one small thing to honour it fully.",
+  "hi": {
+   "text": "भीष्म ने प्रेम के एक क्षण में की हुई प्रतिज्ञा को तब भी निभाया जब उसने उनसे सब कुछ ले लिया। क्या आपने भी कोई वचन दिया है जो आज तक निभा रहे हैं, और क्यों? आज उसका मान रखने के लिए कोई एक छोटा काम पूरे मन से कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भीष्माने प्रेमाच्या एका क्षणी दिलेले वचन, सर्वस्वाची किंमत मोजावी लागली तरी, पाळले. तुम्ही दिलेले असे एखादे वचन आहे का जे तुम्ही अजूनही पाळत आहात, आणि का? आज ते पूर्णपणे जपण्यासाठी एक छोटीशी गोष्ट करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A vow made with a pure heart has great power, but even the best vows should be taken with an eye to all they will bind.",
+  "hi": {
+   "text": "शुद्ध हृदय से लिया गया वचन बड़ी शक्ति रखता है, पर अच्छे से अच्छा वचन भी यह सोचकर लेना चाहिए कि वह आगे किन-किन चीज़ों को बाँध देगा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शुद्ध हृदयाने केलेल्या प्रतिज्ञेत मोठे सामर्थ्य असते, पण सर्वोत्तम प्रतिज्ञाही ती कशाकशाला बांधून टाकेल याचा विचार करूनच घ्यावी.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva (Sambhava Parva)",
+  "hi": {
+   "text": "महाभारत, आदि पर्व (संभव पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व (संभवपर्व)",
+   "reviewed": false
+  }
+ }
+}

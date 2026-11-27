@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "year-in-disguise",
+ "order": 19,
+ "part": "virata",
+ "figure": {
+  "en": "The Pandavas, Draupadi, Arjuna, Bhima",
+  "hi": {
+   "text": "पांडव, द्रौपदी, अर्जुन, भीम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पांडव, द्रौपदी, अर्जुन, भीम",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The thirteenth year, in hiding",
+  "hi": {
+   "text": "तेरहवाँ वर्ष, अज्ञातवास में",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तेरावे वर्ष, अज्ञातवासात",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "One year to live unrecognised, or begin the exile all over again. Under a shami tree hang five great weapons, and in Virata’s palace a cook is growing restless.",
+  "hi": {
+   "text": "एक वर्ष बिना पहचाने रहना है, वरना वनवास फिर से शुरू होगा। शमी के पेड़ पर पाँच महान शस्त्र टँगे हैं, और विराट के महल में एक रसोइया बेचैन हो रहा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ओळख न पटता एक वर्ष जगायचे, नाहीतर वनवास पुन्हा सुरू करायचा. शमीच्या झाडावर पाच महान शस्त्रे टांगलेली आहेत, आणि विराटाच्या राजवाड्यात एक स्वयंपाकी अस्वस्थ होत चालला आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/year-in-disguise-1.webp",
+   "w": 783,
+   "h": 1100,
+   "caption": {
+    "en": "Keechaka and Sairandhri (Raja Ravi Varma, 1890)",
+    "hi": {
+     "text": "कीचक और सैरंध्री (राजा रवि वर्मा, 1890)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कीचक आणि सैरंध्री (राजा रवी वर्मा, 1890)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Keechaka_and_Sairandhri,_1890.jpg"
+  },
+  {
+   "src": "/stories/mahabharata/year-in-disguise-2.webp",
+   "w": 1200,
+   "h": 763,
+   "caption": {
+    "en": "Draupadi, disguised as Sairandhri, insulted in King Virata's court (Raja Ravi Varma)",
+    "hi": {
+     "text": "सैरंध्री बनी द्रौपदी का राजा विराट की सभा में अपमान (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सैरंध्रीच्या वेशातील द्रौपदीचा राजा विराटाच्या सभेत अपमान (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Draupadi_humiliated_RRV.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The shami tree",
+    "hi": {
+     "text": "शमी का वृक्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शमीचे झाड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The twelve years of forest were over. Only one year remained, and it was the hardest of all. If anyone recognised the Pandavas during it, they would have to begin the whole exile again.\n\nAt the edge of the kingdom of Virata, they found a great shami tree, and Yudhishthira knew it was time. Up in its branches, wrapped in cloth and tied tight, they hid their weapons: Arjuna’s Gandiva bow, Bhima’s mace, the swords and quivers of the others. To keep mortals away, they wrapped the bundle in the shape of a corpse. “Whoever comes near will think it is the body of an old woman, and will go away,” said Yudhishthira.\n\nThen they stood in a circle, five brothers and their wife, and spoke their new names to one another. Each would be someone else for a whole year. The heroes whose names made kings tremble would become servants.\n\nArjuna looked at his strong hands, the hands that held Gandiva. “It will be harder than the war,” he said.\n\n“Yes,” said Yudhishthira softly. “It is harder to hide than to fight.”",
+    "hi": {
+     "text": "वन के बारह वर्ष पूरे हो चुके थे। अब केवल एक वर्ष बचा था, और वही सबसे कठिन था। इस बीच यदि किसी ने पांडवों को पहचान लिया, तो उन्हें पूरा वनवास फिर से शुरू करना पड़ता।\n\nविराट के राज्य की सीमा पर उन्हें एक विशाल शमी का वृक्ष मिला, और युधिष्ठिर समझ गए कि समय आ गया है। उसकी डालियों पर, कपड़े में लपेटकर कसकर बाँधे हुए, उन्होंने अपने शस्त्र छिपा दिए: अर्जुन का गांडीव धनुष, भीम की गदा, और बाकी भाइयों की तलवारें और तरकश। मनुष्यों को दूर रखने के लिए उन्होंने गठरी को शव का रूप दे दिया। “जो भी पास आएगा, उसे लगेगा कि यह किसी बूढ़ी स्त्री की देह है, और वह लौट जाएगा,” युधिष्ठिर ने कहा।\n\nफिर वे सब एक घेरा बनाकर खड़े हुए, पाँचों भाई और उनकी पत्नी, और एक-दूसरे को अपने नए नाम बताए। पूरे एक वर्ष तक हर कोई कोई और बनकर रहने वाला था। जिन वीरों के नाम से राजा काँपते थे, वे सेवक बनने जा रहे थे।\n\nअर्जुन ने अपने सशक्त हाथों को देखा, वही हाथ जो गांडीव थामते थे। “यह तो युद्ध से भी कठिन होगा,” उसने कहा।\n\n“हाँ,” युधिष्ठिर ने धीमे से कहा। “छिपना लड़ने से अधिक कठिन है।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनवासाची बारा वर्षे संपली. आता फक्त एकच वर्ष उरले होते, आणि तेच सर्वांत कठीण होते. या वर्षात कुणीही पांडवांना ओळखले, तर त्यांना पुन्हा सगळा वनवास पहिल्यापासून भोगावा लागणार होता.\n\nविराटाच्या राज्याच्या सीमेवर त्यांना एक मोठे शमीचे झाड दिसले, आणि युधिष्ठिराने ओळखले की वेळ आली आहे. झाडाच्या फांद्यांत, कापडात गुंडाळून घट्ट बांधून, त्यांनी आपली शस्त्रे लपवली: अर्जुनाचे गांडीव धनुष्य, भीमाची गदा, इतरांच्या तलवारी आणि भाते. माणसे जवळ फिरकू नयेत म्हणून त्यांनी त्या गाठोड्याला प्रेताचा आकार दिला. \"जो कोणी जवळ येईल त्याला वाटेल की ही एखाद्या म्हातारीचे प्रेत आहे, आणि तो निघून जाईल,\" युधिष्ठिर म्हणाला.\n\nमग पाच भाऊ आणि त्यांची पत्नी असे सहाजण वर्तुळात उभे राहिले आणि एकमेकांना आपली नवी नावे सांगितली. वर्षभर प्रत्येकाला दुसरेच कुणी तरी व्हायचे होते. ज्यांच्या नावाने राजे थरथर कापत, ते वीर आता सेवक होणार होते.\n\nअर्जुनाने आपल्या बळकट हातांकडे पाहिले, गांडीव धरणाऱ्या हातांकडे. \"हे युद्धापेक्षाही कठीण असेल,\" तो म्हणाला.\n\n\"होय,\" युधिष्ठिर हळूच म्हणाला. \"लढण्यापेक्षा लपणे अधिक कठीण असते.\"",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A palace of disguises",
+    "hi": {
+     "text": "भेष बदलने वाला महल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वेषांचा राजवाडा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One by one they entered King Virata’s court. Yudhishthira came first, dressed in plain white, with dice in his hand. “I am Kanka, a brahmin who knows the game,” he said, and the king welcomed him as a companion.\n\nBhima came with a ladle and a cook’s apron: Ballava, a master of kitchens, who could also wrestle bulls and who often kept the palace laughing. Nakula became Granthika, keeper of horses. Sahadeva became Tantripala, a gentle herdsman, who could count a thousand cows.\n\nArjuna was the most surprising. He wore bangles and a long braid, and he swayed as he walked. As Brihannala, he taught music and dance to Princess Uttara and her friends. Years before, a celestial nymph’s curse had given him a year in this form; now it served him as perfect cover.\n\nLast came Draupadi, the queen who had been dragged through a royal court. She became Sairandhri, a humble maid who arranged flowers and braided the queen’s hair. Her eyes were calm, but only she knew what each humble task cost her.",
+    "hi": {
+     "text": "एक-एक करके वे महाराज विराट की सभा में पहुँचे। सबसे पहले युधिष्ठिर आए, सादे श्वेत वस्त्रों में, हाथ में पासे लिए। “मैं कंक हूँ, एक ब्राह्मण, जो द्यूत-क्रीड़ा जानता है,” उन्होंने कहा, और राजा ने उन्हें साथी के रूप में अपना लिया।\n\nभीम हाथ में करछुल और रसोइये का अँगोछा लिए आए: बल्लव, रसोई का उस्ताद, जो साँड़ों से कुश्ती भी लड़ सकता था और अक्सर पूरे महल को हँसाता रहता था। नकुल ग्रंथिक बने, घोड़ों के रखवाले। सहदेव तंत्रिपाल बने, एक सीधे-सादे ग्वाले, जो हज़ार गायों की गिनती रख सकते थे।\n\nअर्जुन का रूप सबसे अचरज भरा था। उन्होंने चूड़ियाँ पहनीं, लंबी चोटी गूँथी, और चाल में लचक भर ली। बृहन्नला बनकर उन्होंने राजकुमारी उत्तरा और उसकी सखियों को संगीत और नृत्य सिखाया। बरसों पहले एक अप्सरा के शाप से उन्हें एक वर्ष के लिए यह रूप मिला था, और आज वही शाप उनके लिए सबसे अच्छा आवरण बन गया।\n\nसबसे अंत में द्रौपदी आईं, वही रानी जिन्हें कभी भरी राजसभा में घसीटा गया था। अब वे सैरंध्री बनीं, एक विनम्र दासी, जो फूल सजाती थी और रानी के केश गूँथती थी। उनकी आँखें शांत थीं, पर हर छोटा काम उन्हें कितना भारी पड़ता था, यह केवल वही जानती थीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकामागून एक ते राजा विराटाच्या दरबारात शिरले. सर्वांत आधी आला युधिष्ठिर, साध्या पांढऱ्या वस्त्रांत, हातात फासे घेऊन. \"मी कंक, द्यूत जाणणारा ब्राह्मण,\" तो म्हणाला, आणि राजाने त्याला सोबती म्हणून आनंदाने स्वीकारले.\n\nभीम हातात पळी आणि स्वयंपाक्याचे आच्छादन घेऊन आला: बल्लव, पाकशाळेचा तज्ज्ञ, जो बैलांशीही कुस्ती खेळू शके आणि अनेकदा सारा राजवाडा हसवत ठेवी. नकुल ग्रंथिक झाला, घोड्यांचा रखवालदार. सहदेव तंत्रिपाल झाला, एक सौम्य गुराखी, जो हजार गायी मोजू शके.\n\nअर्जुन सर्वांत आश्चर्यकारक होता. त्याने बांगड्या घातल्या होत्या, लांब वेणी घातली होती, आणि तो डोलत डोलत चालत असे. बृहन्नडा म्हणून त्याने राजकन्या उत्तरा आणि तिच्या सख्यांना संगीत व नृत्य शिकवले. वर्षांपूर्वी एका अप्सरेच्या शापामुळे त्याला एक वर्ष या रूपात राहावे लागणार होते; आज तोच शाप त्याला उत्तम आडोसा झाला.\n\nशेवटी आली द्रौपदी, जिला भर राजसभेत ओढत आणले गेले होते अशी राणी. ती सैरंध्री झाली, एक नम्र दासी, जी फुले सजवी आणि राणीची वेणी घाली. तिचे डोळे शांत होते, पण प्रत्येक लहानसहान कामाची तिला काय किंमत मोजावी लागते, ते तिलाच ठाऊक होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kichaka",
+    "hi": {
+     "text": "कीचक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कीचक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "For ten months all went well. Then Kichaka, the queen’s brother and the commander of the army, saw Sairandhri in the palace corridor and would not look away. He was proud and powerful, and no one dared refuse him.\n\nDraupadi warned him. “I am married to five gandharvas who will punish you.” Kichaka only laughed. He insulted her in the open hall, in front of King Virata, and even Kanka, who was Yudhishthira, could only watch with clenched hands, for to act would end the year of secrecy.\n\nThat night, Draupadi crept to the kitchen. “Bhima,” she whispered, trembling with anger rather than fear. “The day I was humiliated in Hastinapura, I thought no sorrow could be greater. Yet here I am again.”\n\nBhima rose slowly in the dark. His breath was like a storm held back. “Tell me what to do.”\n\n“Send word to Kichaka,” said Draupadi. “Ask him to meet Sairandhri in the empty dance hall at midnight.”",
+    "hi": {
+     "text": "दस महीने सब कुछ ठीक चला। फिर रानी का भाई और सेनापति कीचक एक दिन महल के गलियारे में सैरंध्री को देख बैठा, और उससे आँख न हटा सका। वह घमंडी और बलशाली था, और कोई उसे मना करने का साहस न करता था।\n\nद्रौपदी ने उसे चेताया। “मेरे पाँच गंधर्व पति हैं, जो तुम्हें दंड देंगे।” कीचक बस हँस पड़ा। उसने भरी सभा में, महाराज विराट के सामने, उनका अपमान किया, और कंक बने युधिष्ठिर भी मुट्ठियाँ भींचे बस देखते रह गए, क्योंकि कुछ भी करने का अर्थ था गुप्त वर्ष का अंत।\n\nउस रात द्रौपदी चुपके से रसोई में पहुँचीं। “भीम,” वे फुसफुसाईं, भय से नहीं, क्रोध से काँपती हुई। “जिस दिन हस्तिनापुर में मेरा अपमान हुआ था, मैंने सोचा था कि इससे बड़ा दुख कोई नहीं हो सकता। फिर भी देखो, मैं आज फिर यहीं खड़ी हूँ।”\n\nभीम अँधेरे में धीरे-धीरे उठ खड़े हुए। उनकी साँसें रोके हुए तूफ़ान जैसी थीं। “बताओ, मुझे क्या करना है।”\n\n“कीचक को संदेश भिजवाइए,” द्रौपदी ने कहा। “उससे कहिए कि आधी रात को सैरंध्री उसे सूने नृत्यगृह में मिलेगी।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहा महिने सगळे नीट गेले. मग राणीचा भाऊ आणि सेनापती कीचक याने राजवाड्याच्या ओसरीत सैरंध्रीला पाहिले आणि तो नजर हटवेना. तो गर्विष्ठ आणि बलवान होता, त्याला नकार द्यायची कुणाची हिंमत नव्हती.\n\nद्रौपदीने त्याला बजावले. \"माझे पाच गंधर्व पती आहेत, ते तुला शिक्षा करतील.\" कीचक फक्त हसला. त्याने भर सभेत, राजा विराटासमोर, तिचा अपमान केला, आणि कंक बनलेला युधिष्ठिरदेखील मुठी आवळून फक्त पाहत राहिला, कारण काही केले असते तर गुप्ततेचे वर्ष संपले असते.\n\nत्या रात्री द्रौपदी हळूच स्वयंपाकघरात गेली. \"भीमा,\" ती कुजबुजली, भीतीने नव्हे तर संतापाने थरथरत. \"ज्या दिवशी हस्तिनापुरात माझा अपमान झाला, तेव्हा मला वाटले होते की याहून मोठे दुःख नसेल. तरी आज पुन्हा मी इथे आहे.\"\n\nभीम अंधारात हळूहळू उठून बसला. त्याचा श्वास रोखून धरलेल्या वादळासारखा होता. \"काय करायचे ते सांग.\"\n\n\"कीचकाला निरोप धाड,\" द्रौपदी म्हणाली. \"सैरंध्रीला मध्यरात्री रिकाम्या नृत्यशाळेत भेटायला सांग.\"",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Midnight in the dance hall",
+    "hi": {
+     "text": "नृत्यगृह में आधी रात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नृत्यशाळेतली मध्यरात्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kichaka came to the dance hall in silk and perfume, full of joy. The hall was dark and silent. A tall shape lay on a couch in the corner.\n\n“My beautiful one!” said Kichaka, stepping closer.\n\n“Not so beautiful,” rumbled a voice, and the shape sat up.\n\nThere was no great sound. Bhima, the cook, was stronger than any wrestler on earth, and he had held his anger for a whole year. By dawn, the arrogant general who had threatened a helpless woman was no more.\n\nThe city whispered that gandharvas had come in the night. Kichaka’s kinsmen wept and, in fear, tried to burn Draupadi on his pyre, and Bhima had to rescue her once more in the dark.\n\nAfter that, no man in Virata dared trouble the maid Sairandhri. Draupadi walked quietly through the palace, her head high. Yudhishthira said nothing, but in his heart he knew that dharma had been kept by the cook’s own two hands, and that his beloved wife had been defended.",
+    "hi": {
+     "text": "कीचक रेशमी वस्त्र और इत्र में सजकर, हर्ष से भरा हुआ नृत्यगृह पहुँचा। भवन अँधेरा और सूना था। कोने में एक पलंग पर कोई ऊँची आकृति लेटी थी।\n\n“मेरी सुंदरी!” कीचक ने पास आते हुए कहा।\n\n“इतनी सुंदर भी नहीं,” एक गरजती आवाज़ आई, और वह आकृति उठकर बैठ गई।\n\nकोई बड़ा शोर नहीं हुआ। रसोइया बने भीम धरती के किसी भी पहलवान से अधिक बलशाली थे, और उन्होंने पूरे एक वर्ष अपना क्रोध थामे रखा था। भोर होते-होते वह अहंकारी सेनापति, जिसने एक असहाय स्त्री को धमकाया था, इस संसार में नहीं रहा।\n\nनगर में चर्चा फैल गई कि रात को गंधर्व आए थे। कीचक के बंधु-बांधव रोए, और डर के मारे द्रौपदी को उसकी चिता पर जला देने चले, और भीम को अँधेरे में एक बार फिर उन्हें बचाना पड़ा।\n\nउसके बाद विराट नगर में किसी पुरुष ने दासी सैरंध्री को सताने का साहस नहीं किया। द्रौपदी सिर ऊँचा किए चुपचाप महल में चलती रहीं। युधिष्ठिर कुछ न बोले, पर मन ही मन जानते थे कि धर्म की रक्षा रसोइये के उन्हीं दो हाथों से हुई, और उनकी प्रिय पत्नी की भी रक्षा हुई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कीचक रेशमी वस्त्रे आणि अत्तर लावून आनंदाने नृत्यशाळेत आला. शाळा अंधारी आणि शांत होती. कोपऱ्यातल्या मंचकावर एक उंच आकृती पडली होती.\n\n\"माझी सुंदरी!\" कीचक जवळ जात म्हणाला.\n\n\"तितका सुंदर नाही,\" एक आवाज घुमला, आणि ती आकृती उठून बसली.\n\nफारसा आवाज झालाच नाही. स्वयंपाकी भीम पृथ्वीवरच्या कुठल्याही मल्लापेक्षा बलवान होता, आणि त्याने वर्षभर आपला राग आवरून धरला होता. पहाट होईपर्यंत एका असहाय स्त्रीला धमकावणारा तो उद्धट सेनापती संपला होता.\n\nरात्री गंधर्व आले होते, अशी कुजबुज नगरात पसरली. कीचकाचे नातेवाईक रडले आणि भीतीपोटी त्यांनी द्रौपदीला त्याच्या चितेवर जाळण्याचा प्रयत्न केला, आणि भीमाला अंधारात पुन्हा एकदा तिला वाचवावे लागले.\n\nत्यानंतर विराटनगरीत कुणीही सैरंध्रीला त्रास देण्याची हिंमत केली नाही. द्रौपदी राजवाड्यात शांतपणे, मान उंच ठेवून चालू लागली. युधिष्ठिर काही बोलला नाही, पण मनात त्याला ठाऊक होते की स्वयंपाक्याच्या दोन हातांनीच धर्म राखला गेला आणि त्याच्या प्रिय पत्नीचे रक्षण झाले.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The cattle raid",
+    "hi": {
+     "text": "गायों का हरण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गोधन हरण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Now word of Kichaka’s death reached Hastinapura. Duryodhana and his advisers smelled a trace of the hidden Pandavas. Who but Bhima could have killed Kichaka? The year was nearly done, and if they could only find them before it ended...\n\nThe Kauravas attacked Virata’s cattle, driving away thousands of cows. Virata himself rode out with Kanka, Ballava and the others to meet one army, while his young son, Prince Uttar, was left behind in the palace.\n\nAnother Kaurava army swept in from the north. Prince Uttar, boastful in an empty hall, said loudly, “If only I had a charioteer, I would defeat them all!” Sairandhri whispered something to him, and Brihannala was called.\n\nThe prince climbed into the chariot with his head full of fine words. But when he saw the Kaurava army, Bhishma, Drona, Karna and a hundred thousand warriors, the colour left his face. “I cannot fight them. Turn back!” He leapt from the chariot and ran across the field.\n\nBrihannala, with her braid flying, ran after him.",
+    "hi": {
+     "text": "अब कीचक की मृत्यु की ख़बर हस्तिनापुर पहुँची। दुर्योधन और उसके सलाहकारों को छिपे हुए पांडवों की गंध मिली। भीम के सिवा कीचक को और कौन मार सकता था? वर्ष लगभग पूरा होने को था, और यदि वे इसके समाप्त होने से पहले पांडवों को खोज लेते...\n\nकौरवों ने विराट की गायों पर धावा बोल दिया और हज़ारों गायों को हाँक ले गए। विराट स्वयं कंक, बल्लव और अन्य लोगों के साथ एक सेना का सामना करने निकले, और उनका नौजवान पुत्र राजकुमार उत्तर महल में ही रह गया।\n\nतभी उत्तर दिशा से कौरवों की दूसरी सेना आ पहुँची। सूने सभागार में डींग हाँकते हुए राजकुमार उत्तर ने ऊँची आवाज़ में कहा, “काश मेरे पास कोई सारथी होता, तो मैं इन सबको हरा देता!” सैरंध्री ने उसके कान में कुछ कहा, और बृहन्नला को बुलाया गया।\n\nराजकुमार अपने सिर में बड़ी-बड़ी बातें भरे रथ पर चढ़ा। पर जब उसने कौरव सेना देखी, भीष्म, द्रोण, कर्ण और लाखों योद्धा, तो उसके चेहरे का रंग उड़ गया। “मैं इनसे नहीं लड़ सकता। रथ मोड़ो!” वह रथ से कूदा और मैदान में भाग निकला।\n\nबृहन्नला अपनी चोटी लहराती हुई उसके पीछे दौड़ी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता कीचकाच्या मृत्यूची बातमी हस्तिनापुरात पोहोचली. दुर्योधन आणि त्याच्या सल्लागारांना लपलेल्या पांडवांची चाहूल लागली. भीमाशिवाय कीचकाला दुसरा कोण मारणार? वर्ष जवळजवळ संपत आले होते, आणि ते संपण्यापूर्वी त्यांना शोधता आले तर...\n\nकौरवांनी विराटाच्या गायींवर हल्ला केला आणि हजारो गायी हाकून नेल्या. विराट स्वतः कंक, बल्लव आणि इतरांना घेऊन एका सैन्याशी लढायला निघाला, तर त्याचा तरुण मुलगा राजकुमार उत्तर राजवाड्यातच मागे राहिला.\n\nउत्तरेकडून कौरवांचे दुसरे सैन्य घुसले. रिकाम्या सभागृहात बढाई मारणारा राजकुमार उत्तर मोठ्याने म्हणाला, \"मला सारथी मिळाला असता तर मी सर्वांना हरवले असते!\" सैरंध्रीने त्याच्या कानात काही तरी सांगितले, आणि बृहन्नडेला बोलावण्यात आले.\n\nमोठमोठ्या गप्पा डोक्यात घेऊन राजकुमार रथात चढला. पण भीष्म, द्रोण, कर्ण आणि लाखो योद्धे असलेले कौरवांचे सैन्य पाहताच त्याच्या चेहऱ्यावरचा रंग उडाला. \"मी यांच्याशी लढू शकत नाही. परत फिर!\" तो रथातून उडी मारून मैदानातून पळत सुटला.\n\nवेणी उडवत बृहन्नडा त्याच्या मागे धावली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Gandiva speaks",
+    "hi": {
+     "text": "गांडीव की टंकार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गांडीव बोलते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Brihannala caught the weeping prince and held him gently. “Do not be afraid. Be my charioteer, and I will fight.”\n\nUttar steered the chariot to the shami tree and, trembling, climbed it. The bundle hung there like a dead thing. When he opened it, the weapons shone like fire. “Whose are these?” he whispered.\n\nBrihannala told him: Gandiva, Arjuna’s bow. Then she named the five brothers, the real Kanka, Ballava and the rest. Then she named herself.\n\nArjuna stood tall once more. He strung Gandiva, and the twang of it rolled across the sky like thunder. In the Kaurava ranks, Drona frowned. “That is Arjuna’s bow.”\n\nAlone, one man faced Bhishma, Drona, Karna and the whole host. The arrows fell like rain, and by sunset the Kauravas were scattered. The year was over. Arjuna had been recognised just after it ended, and not a day too soon.\n\nThe Pandavas revealed themselves. Virata offered his daughter, Uttara, to Arjuna. “She was my student,” said Arjuna gently. “Let her be my daughter.” And so she married his son Abhimanyu.",
+    "hi": {
+     "text": "बृहन्नला ने रोते हुए राजकुमार को पकड़ लिया और उसे प्यार से थाम लिया। “डरो मत। तुम मेरे सारथी बन जाओ, लड़ूँगा मैं।”\n\nउत्तर ने रथ को शमी के वृक्ष तक पहुँचाया और काँपते हुए उस पर चढ़ा। गठरी वहाँ किसी मुर्दे की तरह लटकी थी। जब उसने उसे खोला तो शस्त्र अग्नि की तरह चमक उठे। “ये किसके हैं?” उसने धीमे से पूछा।\n\nबृहन्नला ने बताया: यह गांडीव है, अर्जुन का धनुष। फिर उसने पाँचों भाइयों के नाम बताए, कि असली कंक कौन है, बल्लव कौन है और बाकी कौन हैं। फिर उसने अपना नाम बताया।\n\nअर्जुन एक बार फिर तनकर खड़े हुए। उन्होंने गांडीव पर प्रत्यंचा चढ़ाई, और उसकी टंकार बादल की गर्जना की तरह आकाश में गूँज गई। कौरवों की पंक्तियों में द्रोणाचार्य ने भौंहें सिकोड़ीं। “यह तो अर्जुन का धनुष है।”\n\nअकेला एक वीर भीष्म, द्रोण, कर्ण और पूरी सेना के सामने खड़ा था। बाण वर्षा की तरह बरसे, और सूर्यास्त तक कौरव तितर-बितर हो गए। वर्ष पूरा हो चुका था। अर्जुन पहचाने गए थे, वर्ष बीतने के ठीक बाद, एक दिन भी पहले नहीं।\n\nपांडवों ने अपना परिचय दे दिया। विराट ने अपनी पुत्री उत्तरा का हाथ अर्जुन को देना चाहा। “वह मेरी शिष्या रही है,” अर्जुन ने कोमल स्वर में कहा। “उसे मेरी पुत्री ही रहने दीजिए।” और इस तरह उत्तरा का विवाह अर्जुन के पुत्र अभिमन्यु से हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बृहन्नडेने रडणाऱ्या राजकुमाराला पकडून हळुवारपणे धरले. \"घाबरू नकोस. तू माझा सारथी हो, मी लढेन.\"\n\nउत्तराने रथ शमीच्या झाडाकडे नेला आणि थरथरत त्यावर चढला. ते गाठोडे तिथे मृत वस्तूसारखे लटकले होते. त्याने ते उघडले, तेव्हा शस्त्रे अग्नीसारखी चमकली. \"ही कुणाची?\" तो कुजबुजला.\n\nबृहन्नडेने त्याला सांगितले: गांडीव, अर्जुनाचे धनुष्य. मग तिने पाचही भावांची नावे सांगितली, खरा कंक, बल्लव आणि बाकीचे. मग तिने स्वतःचे नाव सांगितले.\n\nअर्जुन पुन्हा ताठ उभा राहिला. त्याने गांडीवाला प्रत्यंचा चढवली, आणि तिचा टणत्कार आकाशात मेघगर्जनेसारखा घुमला. कौरवांच्या सैन्यात द्रोणाचार्य कपाळाला आठ्या घालून म्हणाले, \"हे अर्जुनाचे धनुष्य आहे.\"\n\nएकटा एक माणूस भीष्म, द्रोण, कर्ण आणि सगळ्या सेनेसमोर उभा ठाकला. बाणांचा पाऊस पडला, आणि सूर्यास्तापर्यंत कौरव पांगले. वर्ष संपले होते. वर्ष संपल्यावर लगेचच अर्जुन ओळखला गेला होता, एक दिवसही आधी नाही.\n\nपांडवांनी आपली खरी ओळख सांगितली. विराटाने आपली कन्या उत्तरा अर्जुनाला देऊ केली. \"ती माझी शिष्या होती,\" अर्जुन हळुवारपणे म्हणाला. \"तिला माझी कन्या मानू दे.\" आणि मग तिचा विवाह त्याचा पुत्र अभिमन्यू याच्याशी झाला.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there a role you play in life that hides your true strength? What would it mean to carry your dignity with you in even the humblest work? Today, do one small task with full attention and quiet pride, whether anyone sees it or not.",
+  "hi": {
+   "text": "जीवन में क्या आप कोई ऐसी भूमिका निभा रहे हैं जो आपकी असली शक्ति को छिपा लेती है? सबसे साधारण काम में भी अपनी गरिमा साथ रखने का क्या अर्थ होगा? आज कोई एक छोटा काम पूरे ध्यान और शांत गर्व के साथ कीजिए, चाहे कोई देखे या न देखे।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या आयुष्यात असा एखादा वेष आहे का, जो तुमचे खरे सामर्थ्य झाकून ठेवतो? अगदी साध्या कामातही आपला स्वाभिमान सोबत ठेवणे म्हणजे काय, याचा विचार करा. आज एक छोटे काम पूर्ण लक्ष देऊन आणि शांत अभिमानाने करा, कुणी पाहो अथवा न पाहो.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "True greatness can wait in humility and serve without display until the right moment comes.",
+  "hi": {
+   "text": "सच्ची महानता विनम्रता में प्रतीक्षा कर सकती है और बिना दिखावे के सेवा कर सकती है, जब तक सही समय न आ जाए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरे मोठेपण नम्रतेत वाट पाहू शकते आणि योग्य वेळ येईपर्यंत दिखावा न करता सेवा करू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Virata Parva",
+  "hi": {
+   "text": "महाभारत, विराट पर्व",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, विराट पर्व",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "draupadis-swayamvara",
+ "order": 9,
+ "part": "adi",
+ "figure": {
+  "en": "Draupadi and Arjuna",
+  "hi": {
+   "text": "द्रौपदी और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "द्रौपदी आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The fish that turned above the oil",
+  "hi": {
+   "text": "वह मछली, जो तेल के ऊपर घूमती थी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तेलावर फिरणारा मासा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A princess born from fire will marry only the man who can shoot an arrow while looking at a reflection. A poor brahmin in a crowd lifts the great bow, and every king in the hall stares.",
+  "hi": {
+   "text": "आग से जन्मी राजकुमारी उसी से विवाह करेगी जो प्रतिबिंब देखकर बाण चला सके। भीड़ में खड़ा एक निर्धन ब्राह्मण विशाल धनुष उठाता है, और सभा का हर राजा देखता रह जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अग्नीतून जन्मलेली राजकन्या फक्त प्रतिबिंब पाहून बाण मारू शकणाऱ्या पुरुषाशीच विवाह करणार आहे. गर्दीतला एक गरीब ब्राह्मण महान धनुष्य उचलतो, आणि सभेतील प्रत्येक राजा रोखून पाहत राहतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/draupadis-swayamvara-1.webp",
+   "w": 724,
+   "h": 1100,
+   "caption": {
+    "en": "Arjuna wins Draupadi (Kalighat painting)",
+    "hi": {
+     "text": "अर्जुन द्रौपदी को जीतते हैं (कालीघाट चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन द्रौपदीला जिंकतो (कालीघाट चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Arjuna_wins_Draupadi.jpg"
+  },
+  {
+   "src": "/stories/mahabharata/draupadis-swayamvara-3.webp",
+   "w": 620,
+   "h": 680,
+   "caption": {
+    "en": "King Drupada with the Pandavas (Indian painting)",
+    "hi": {
+     "text": "पांडवों के साथ राजा द्रुपद (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पांडवांसोबत राजा द्रुपद (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Drupada_and_Pandavas_(cropped).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A daughter of fire",
+    "hi": {
+     "text": "अग्नि की पुत्री",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अग्नीची कन्या",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Drupada never forgot the day Drona had humbled him by force. He longed for a son who could defeat Drona, and a daughter who could be married to Arjuna, the pupil Drona loved most. So he asked sages to perform a great sacrifice.\n\nFrom the flames rose a young man in armour with a bow in his hand, who would be called Dhrishtadyumna. Then, from the same fire, rose a young woman of dark and wonderful beauty, with eyes like lotus petals and a scent of blue lotus that could be smelled from a mile away. A voice from the heavens said, “This dark maiden will bring about the end of the warrior kings.”\n\nShe was named Draupadi, and also Krishnaa, because she was dark. She grew up as a princess of rare mind and fire, with a will as steady as a flame. All who saw her felt that this was no ordinary girl, and that her life would be a story of her own.",
+    "hi": {
+     "text": "राजा द्रुपद उस दिन को कभी नहीं भूले जब द्रोण ने बल से उन्हें नीचा दिखाया था। उनकी चाह थी एक ऐसा पुत्र जो द्रोण को हरा सके, और एक ऐसी पुत्री जिसका विवाह अर्जुन से हो सके, उस शिष्य से जिसे द्रोण सबसे अधिक चाहते थे। इसलिए उन्होंने ऋषियों से एक बड़ा यज्ञ कराया।\n\nअग्नि की लपटों से कवच पहने, हाथ में धनुष लिए एक युवक प्रकट हुआ, जिसका नाम धृष्टद्युम्न पड़ा। फिर उसी अग्नि से एक युवती उठी, साँवली और अद्भुत सुंदरी, कमल की पंखुड़ियों जैसी आँखों वाली, और नीले कमल की ऐसी सुगंध वाली जो मील भर दूर से आती थी। आकाश से एक वाणी बोली, “यह साँवली कन्या क्षत्रिय राजाओं के अंत का कारण बनेगी।”\n\nउसका नाम द्रौपदी रखा गया, और कृष्णा भी, क्योंकि वह साँवली थी। वह दुर्लभ बुद्धि और तेज वाली राजकुमारी बनकर बड़ी हुई, जिसका संकल्प लौ की तरह अडिग था। जिसने भी उसे देखा, उसे लगा कि यह कोई साधारण कन्या नहीं है, और उसका जीवन अपनी ही एक कथा होगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा द्रुपदाला द्रोणाने बळाने केलेला अपमान कधीच विसरता आला नाही. द्रोणाला पराभूत करू शकणारा पुत्र आणि द्रोणाचा सर्वात लाडका शिष्य अर्जुन याला देता येईल अशी कन्या त्याला हवी होती. म्हणून त्याने ऋषींना एक मोठा यज्ञ करायला सांगितले.\n\nज्वालांतून कवच घातलेला आणि हातात धनुष्य घेतलेला एक तरुण उभा राहिला, ज्याचे नाव धृष्टद्युम्न ठेवले गेले. मग त्याच अग्नीतून एक सावळी, अद्भुत सुंदर तरुणी प्रकट झाली, कमळाच्या पाकळ्यांसारख्या डोळ्यांची, आणि मैलभर दरवळणाऱ्या नीलकमळाच्या सुगंधाची. आकाशवाणी म्हणाली, “ही सावळी कन्या क्षत्रिय राजांच्या अंताला कारण होईल.”\n\nतिचे नाव द्रौपदी ठेवले गेले, आणि कृष्णा असेही, कारण ती सावळी होती. ती दुर्मिळ बुद्धी आणि तेज असलेली राजकन्या म्हणून वाढली, ज्योतीसारख्या स्थिर इच्छाशक्तीची. तिला पाहणाऱ्या सर्वांना वाटले की ही सामान्य मुलगी नाही, आणि तिचे जीवन ही एक स्वतंत्र कथा असेल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The swayamvara",
+    "hi": {
+     "text": "स्वयंवर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वयंवर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When she was of age, Drupada announced her swayamvara, the ceremony in which a princess chooses her own husband. He set a test that only the greatest archer could pass. High above the hall, a golden fish hung from a rotating wheel. Below it, a great bow lay on the ground, heavier than most men could lift. In the middle of the hall stood a basin of oil. The contestant must string the bow, and, looking only at the fish’s reflection in the oil, shoot five arrows through the wheel into the eye of the fish.\n\nKings came from every corner of the land: Duryodhana and his brothers, Shishupala, Jarasandha, Shalya. Krishna of Dwarka came too, with the Yadavas.\n\nAmong the crowd of brahmins who were watching, five young men sat quietly, dusty from the road. They were the Pandavas in disguise. Krishna’s eyes passed over them, paused, and a small smile touched his lips. He said nothing.",
+    "hi": {
+     "text": "जब वह विवाह-योग्य हुई, तो द्रुपद ने उसके स्वयंवर की घोषणा की, वह समारोह जिसमें राजकुमारी अपना पति स्वयं चुनती है। उन्होंने ऐसी परीक्षा रखी जिसे केवल सबसे बड़ा धनुर्धर ही पार कर सके। सभा के ऊपर बहुत ऊँचाई पर घूमते चक्र से एक सोने की मछली लटकी थी। उसके नीचे भूमि पर एक विशाल धनुष रखा था, जो अधिकतर मनुष्यों के उठाने से भी भारी था। सभा के बीच तेल का एक पात्र रखा था। प्रतियोगी को धनुष चढ़ाना था, और केवल तेल में मछली का प्रतिबिंब देखते हुए पाँच बाण चक्र के बीच से मछली की आँख में मारने थे।\n\nदेश के हर कोने से राजा आए: दुर्योधन और उसके भाई, शिशुपाल, जरासंध, शल्य। द्वारका के कृष्ण भी यादवों के साथ आए।\n\nदेखने वाले ब्राह्मणों की भीड़ में पाँच युवक चुपचाप बैठे थे, राह की धूल में सने। वे वेश बदले हुए पांडव थे। कृष्ण की दृष्टि उन पर से गुज़री, ठहरी, और उनके होंठों पर एक हलकी मुस्कान आई। उन्होंने कुछ नहीं कहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ती योग्य वयाची झाली तेव्हा द्रुपदाने तिचे स्वयंवर जाहीर केले, ज्यात राजकन्या स्वतः आपला पती निवडते. त्याने अशी परीक्षा ठेवली जी फक्त सर्वश्रेष्ठ धनुर्धरच पार करू शकेल. सभेच्या अगदी वर फिरत्या चक्रावर एक सोनेरी मासा टांगला होता. त्याच्या खाली भूमीवर एक मोठे धनुष्य ठेवले होते, बहुतेक माणसांना उचलता येणार नाही इतके जड. सभेच्या मध्यभागी तेलाने भरलेले एक पात्र ठेवले होते. स्पर्धकाने धनुष्याला प्रत्यंचा लावायची, आणि तेलातले माशाचे प्रतिबिंब फक्त पाहून, चक्रातून पाच बाण माशाच्या डोळ्यात मारायचे.\n\nदेशाच्या प्रत्येक कोपऱ्यातून राजे आले: दुर्योधन आणि त्याचे भाऊ, शिशुपाल, जरासंध, शल्य. द्वारकेचे कृष्णही यादवांसह आले.\n\nपाहत बसलेल्या ब्राह्मणांच्या गर्दीत वाटेच्या धुळीने माखलेले पाच तरुण शांतपणे बसले होते. ते वेषांतरित पांडव होते. कृष्णाची नजर त्यांच्यावरून फिरली, थबकली, आणि त्याच्या ओठांवर एक छोटेसे स्मित आले. तो काही बोलला नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The kings fail",
+    "hi": {
+     "text": "राजा असफल होते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजे अपयशी ठरतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One by one the kings stepped up. The bow lay on the floor like a sleeping serpent. Some could not lift it. Some lifted it but could not bend it. One prince bent it with such force that the string snapped back and flung him on the ground, and the hall rang with laughter and gasps.\n\nShishupala tried and failed. Jarasandha, mighty as a mountain, tried and failed. The kings fell back in shame, their pride in pieces.\n\nDhrishtadyumna called out, “The bow is here, the target is there. Any warrior of any caste is welcome to try. Whoever succeeds, my sister will marry him.”\n\nThe hall grew restless. Then a tall figure in golden armour rose from his seat. A murmur ran through the crowd as people whispered his name. The son of Adhiratha, the King of Anga, stepped forward calmly, as if to claim what was his by right.",
+    "hi": {
+     "text": "एक-एक करके राजा आगे आए। धनुष सोए हुए नाग की तरह फ़र्श पर पड़ा था। कुछ उसे उठा ही न सके। कुछ ने उठाया पर झुका न सके। एक राजकुमार ने उसे इतने ज़ोर से झुकाया कि डोरी पलटकर उसे ज़मीन पर पटक गई, और सभा हँसी और आहों से गूँज उठी।\n\nशिशुपाल ने प्रयास किया और असफल रहा। जरासंध ने, जो पर्वत जैसा बलशाली था, प्रयास किया और असफल रहा। राजा लज्जा से पीछे हट गए, उनका गर्व टूटकर बिखर गया।\n\nधृष्टद्युम्न ने पुकारा, “धनुष यहाँ है, निशाना वहाँ है। किसी भी वर्ण का कोई भी योद्धा प्रयास कर सकता है। जो सफल होगा, मेरी बहन उसी की होगी।”\n\nसभा में बेचैनी फैल गई। तभी सुनहरे कवच में एक ऊँची आकृति अपने आसन से उठी। भीड़ में लोगों के नाम फुसफुसाने से एक गुंजन दौड़ गया। अधिरथ का पुत्र, अंग का राजा, शांति से आगे बढ़ा, मानो अपना अधिकार माँगने आया हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकामागून एक राजे पुढे आले. धनुष्य झोपलेल्या सापासारखे भूमीवर पडले होते. काहींना ते उचलताही आले नाही. काहींनी उचलले पण वाकवता आले नाही. एका राजपुत्राने ते इतक्या जोराने वाकवले की प्रत्यंचा मागे उसळून त्याला जमिनीवर फेकून गेली, आणि सभा हास्याने आणि उसाश्यांनी दुमदुमली.\n\nशिशुपालाने प्रयत्न केला आणि तो अयशस्वी झाला. पर्वतासारखा बलवान जरासंधही प्रयत्न करून अपयशी ठरला. राजे लज्जेने मागे सरकले, त्यांचा अभिमान चक्काचूर होऊन.\n\nधृष्टद्युम्नाने हाक दिली, “धनुष्य इथे आहे, लक्ष्य तिकडे आहे. कोणत्याही वर्णाच्या कोणत्याही योद्ध्याला प्रयत्न करण्याची मुभा आहे. जो यशस्वी होईल, त्याच्याशी माझी भगिनी विवाह करील.”\n\nसभा अस्वस्थ झाली. मग सोनेरी कवचातला एक उंच पुरुष आसनावरून उठला. लोक त्याचे नाव कुजबुजू लागले आणि जनसमुदायात गलका पसरला. अधिरथाचा पुत्र, अंगदेशाचा राजा, जणू आपल्या हक्काचे घ्यायला आल्यासारखा शांतपणे पुढे आला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Karna steps up",
+    "hi": {
+     "text": "कर्ण आगे आता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कर्ण पुढे येतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Karna walked to the bow, bowed to it, and lifted it as if it were a branch of a mango tree. He strung it in a moment. The kings in the hall held their breath. He set an arrow to the string.\n\nHere the tellers disagree. In many popular versions of the story, Draupadi spoke clearly at that moment: “I will not marry a charioteer’s son.” Karna’s face fell. He looked at the sun, set the bow down with a sigh, and went back to his seat, burning with humiliation. In other tellings, he simply failed to hit the mark, or was stopped by the power of the bow.\n\nThe oldest accounts leave the matter unclear, and either way it was another sorrow for Karna, another sign that he would always be measured by the family he was born into.\n\nThe hall sat in silence, and the kings looked at each other. The test seemed too hard for any living man. Then a young brahmin at the back rose.",
+    "hi": {
+     "text": "कर्ण धनुष के पास गया, उसे प्रणाम किया, और ऐसे उठा लिया मानो वह आम की कोई डाली हो। उसने पल भर में उसे चढ़ा दिया। सभा के राजाओं ने साँस रोक ली। उसने डोरी पर बाण रखा।\n\nयहाँ कथा कहने वालों में मतभेद है। कथा के कई लोकप्रिय रूपों में द्रौपदी उसी क्षण साफ़ बोल उठी: “मैं सारथी के पुत्र से विवाह नहीं करूँगी।” कर्ण का मुख उतर गया। उसने सूरज की ओर देखा, आह भरकर धनुष नीचे रखा, और अपमान में जलता हुआ अपने आसन पर लौट गया। दूसरे वर्णनों में वह बस निशाना नहीं लगा सका, या धनुष की शक्ति से रोक दिया गया।\n\nसबसे पुराने वृत्तांत इस बात को अस्पष्ट छोड़ देते हैं, और जो भी हो, यह कर्ण के लिए एक और दुख था, एक और संकेत कि उसे सदा उस कुल से आँका जाएगा जिसमें वह जन्मा।\n\nसभा चुप बैठी रही, और राजा एक-दूसरे को देखने लगे। परीक्षा किसी भी जीवित मनुष्य के लिए बहुत कठिन लग रही थी। तभी पीछे बैठा एक युवा ब्राह्मण उठा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कर्ण धनुष्याजवळ गेला, त्याला नमस्कार केला, आणि आंब्याच्या फांदीसारखे ते उचलले. त्याने क्षणात त्याला प्रत्यंचा लावली. सभेतील राजांनी श्वास रोखले. त्याने प्रत्यंचेवर बाण लावला.\n\nइथे कथाकारांमध्ये मतभेद आहेत. कथेच्या अनेक लोकप्रिय रूपांत द्रौपदी त्या क्षणी स्पष्टपणे म्हणाली: “मी सूतपुत्राशी विवाह करणार नाही.” कर्णाचा चेहरा उतरला. त्याने सूर्याकडे पाहिले, उसासा टाकून धनुष्य खाली ठेवले आणि अपमानाने जळत आपल्या जागेवर परतला. इतर कथनांत तो फक्त लक्ष्यभेद करण्यात अयशस्वी झाला, किंवा धनुष्याच्या सामर्थ्याने थांबवला गेला.\n\nसर्वात जुन्या वृत्तांतांत हा प्रसंग अस्पष्टच राहतो, आणि कसेही असले तरी कर्णासाठी ते आणखी एक दुःख होते, तो ज्या कुळात जन्मला त्यावरूनच त्याला नेहमी जोखले जाईल याचे आणखी एक चिन्ह.\n\nसभा शांत बसली, आणि राजे एकमेकांकडे पाहू लागले. परीक्षा कोणत्याही जिवंत माणसाला कठीण वाटत होती. तेवढ्यात मागच्या बाजूचा एक तरुण ब्राह्मण उठला.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The brahmin who shot the fish",
+    "hi": {
+     "text": "मछली बेधने वाला ब्राह्मण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "माशाचा वेध घेणारा ब्राह्मण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The brahmins in the hall began to shout, some in alarm, some in laughter. “Is a brahmin boy to do what the kings could not?” Some feared the royal rage; others cheered.\n\nBut the young man walked up to the bow as calm as a lake. His shoulders were broad and his eyes shone. He bowed to the bow, to the gods, and to his teacher. He lifted it and strung it with ease, and fixed his gaze on the oil. Draupadi looked up, her heart beating fast. The hall fell still.\n\nHe took five arrows, drew, and let them fly. Whoosh. The wheel hummed, the fish swung, and the fifth arrow struck its eye. It fell with a clang to the ground.\n\n“Victory to the brahmin!” cried the hall, and flowers rained down. Draupadi came forward with a garland, her face glowing, and placed it around the neck of Arjuna, for it was he, the finest archer of his age.",
+    "hi": {
+     "text": "सभा के ब्राह्मण चिल्लाने लगे, कुछ घबराहट में, कुछ हँसी में। “जो राजा न कर सके, क्या एक ब्राह्मण बालक करेगा?” कुछ को राजाओं के क्रोध का भय था; कुछ जयकार करने लगे।\n\nपर वह युवक झील की तरह शांत चलता हुआ धनुष के पास आया। उसके कंधे चौड़े थे और आँखें चमक रही थीं। उसने धनुष को प्रणाम किया, देवताओं को प्रणाम किया, और अपने गुरु को प्रणाम किया। उसने उसे सहज ही उठाकर चढ़ा दिया, और दृष्टि तेल पर टिका दी। द्रौपदी ने ऊपर देखा, उसका हृदय तेज़ धड़क रहा था। सभा स्तब्ध हो गई।\n\nउसने पाँच बाण लिए, खींचे, और छोड़ दिए। सन्न। चक्र गुनगुनाया, मछली डोली, और पाँचवाँ बाण उसकी आँख में जा लगा। वह खनखनाकर भूमि पर गिर पड़ी।\n\n“ब्राह्मण की जय!” सभा ने पुकारा, और फूल बरसने लगे। द्रौपदी हाथ में माला लिए आगे आई, उसका मुख दमक रहा था, और उसने उसे अर्जुन के गले में डाल दिया, क्योंकि वह अर्जुन ही था, अपने युग का सबसे श्रेष्ठ धनुर्धर।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सभेतील ब्राह्मण ओरडू लागले, काही भीतीने, काही हसत. “राजांना जमले नाही ते एक ब्राह्मण मुलगा करणार का?” काहींना राजांच्या रागाची भीती वाटली; काही जयघोष करू लागले.\n\nपण तो तरुण सरोवरासारख्या शांततेने धनुष्याकडे चालत गेला. त्याचे खांदे रुंद होते आणि डोळे चमकत होते. त्याने धनुष्याला, देवांना आणि आपल्या गुरूंना नमस्कार केला. त्याने ते सहज उचलले आणि प्रत्यंचा लावली, आणि तेलावर नजर स्थिर केली. द्रौपदीने वर पाहिले, तिचे हृदय वेगाने धडधडत होते. सभा स्तब्ध झाली.\n\nत्याने पाच बाण घेतले, प्रत्यंचा ओढली आणि सोडले. सूं. चक्र गुणगुणले, मासा हेलकावला, आणि पाचव्या बाणाने त्याचा डोळा भेदला. तो खणखणत भूमीवर पडला.\n\n“ब्राह्मणाचा विजय असो!” सभा ओरडली, आणि फुलांचा वर्षाव झाला. द्रौपदी हार घेऊन पुढे आली, तिचा चेहरा उजळला होता, आणि तिने तो अर्जुनाच्या गळ्यात घातला, कारण तो अर्जुनच होता, आपल्या काळातला सर्वश्रेष्ठ धनुर्धर.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Share it equally",
+    "hi": {
+     "text": "बराबर बाँट लो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "समान वाटून घ्या",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The disappointed kings drew their swords and rushed forward, angry that a brahmin had won. But Bhima tore up a tree and stood beside Arjuna, and the two fought off the kings until Krishna’s calm voice told them to stop.\n\nThe Pandavas went home to their mother with Draupadi. In the potter’s hut where they lived, Kunti was in the back room. The brothers called out cheerfully, “Mother, see what we have brought today!”\n\nKunti, without looking, called back as she always did, “Whatever it is, share it equally among you all.”\n\nThen she came out, saw the radiant girl, and went pale. A mother’s words, once spoken, cannot be unspoken. Yudhishthira, who would not let his mother’s word fail, said gravely, “Draupadi will be the wife of us all.”\n\nDrupada was troubled. But Vyasa came and explained the secret of her past lives, and Draupadi was married to the five. That night, Krishna came to the potter’s hut, and the cousins met as friends who would never be parted.",
+    "hi": {
+     "text": "निराश राजाओं ने तलवारें खींच लीं और आगे दौड़े, क्रुद्ध कि एक ब्राह्मण जीत गया। पर भीम ने एक पेड़ उखाड़ लिया और अर्जुन के पास खड़ा हो गया, और दोनों ने राजाओं को तब तक खदेड़ा जब तक कृष्ण की शांत वाणी ने उन्हें रुकने को नहीं कहा।\n\nपांडव द्रौपदी को लेकर माँ के पास गए। जिस कुम्हार की झोंपड़ी में वे रहते थे, उसमें कुंती भीतर के कमरे में थीं। भाइयों ने हर्ष से पुकारा, “माँ, देखो आज हम क्या लाए हैं!”\n\nकुंती ने बिना देखे, जैसा वे सदा कहती थीं, उत्तर दिया, “जो भी है, तुम सब बराबर बाँट लो।”\n\nफिर वे बाहर आईं, उस दमकती कन्या को देखा, और पीली पड़ गईं। माँ का बोला हुआ शब्द एक बार निकल जाए, तो वापस नहीं लिया जा सकता। युधिष्ठिर ने, जो माँ का वचन व्यर्थ न जाने देते, गंभीरता से कहा, “द्रौपदी हम सबकी पत्नी होगी।”\n\nद्रुपद चिंतित हुए। पर व्यास आए और उन्होंने उसके पूर्वजन्मों का रहस्य समझाया, और द्रौपदी का विवाह पाँचों से हो गया। उस रात कृष्ण कुम्हार की झोंपड़ी में आए, और भाई उन मित्रों की तरह मिले जो कभी अलग नहीं होंगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निराश झालेल्या राजांनी तलवारी उपसल्या आणि ब्राह्मणाने जिंकल्याच्या रागाने पुढे धावले. पण भीमाने एक झाड उपटले आणि अर्जुनाच्या बाजूला उभा राहिला, आणि कृष्णाच्या शांत आवाजाने थांबायला सांगेपर्यंत दोघांनी राजांना परतवले.\n\nपांडव द्रौपदीला घेऊन आपल्या मातेकडे घरी गेले. ते राहत असलेल्या कुंभाराच्या झोपडीत कुंती मागच्या खोलीत होती. भावांनी आनंदाने हाक मारली, “आई, आज आम्ही काय आणले ते बघ!”\n\nकुंतीने न पाहताच नेहमीसारखे उत्तर दिले, “जे काही असेल ते तुम्ही सर्वांनी समान वाटून घ्या.”\n\nमग ती बाहेर आली, तेजस्वी कन्येला पाहिले आणि फिकट पडली. मातेचा शब्द एकदा उच्चारला की परत घेता येत नाही. आपल्या आईचा शब्द खोटा होऊ न देणारा युधिष्ठिर गंभीरपणे म्हणाला, “द्रौपदी आपल्या सर्वांची पत्नी होईल.”\n\nद्रुपद चिंतेत पडला. पण व्यास आले आणि त्यांनी तिच्या पूर्वजन्मांचे रहस्य समजावून सांगितले, आणि द्रौपदीचा पाचही जणांशी विवाह झाला. त्या रात्री कृष्ण कुंभाराच्या झोपडीत आला, आणि कधीही दुरावणार नाहीत अशा मित्रांसारखे चुलत बंधू भेटले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Arjuna looked at only one thing and so hit the mark. What is the one thing you keep looking away from when you really need to do it? Today, set aside ten undistracted minutes for it.",
+  "hi": {
+   "text": "अर्जुन ने केवल एक ही चीज़ देखी, इसलिए निशाना सधा। वह एक चीज़ क्या है जिससे आप तब भी मुँह फेरते हैं जब उसे करना सबसे ज़रूरी है? आज उसके लिए दस मिनट बिना किसी ध्यान भटकाव के निकालिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुनाने फक्त एकच गोष्ट पाहिली म्हणून तो लक्ष्य साधू शकला. जे करायची खरोखर गरज आहे ते तुम्ही कोणत्या गोष्टीपासून सारखे नजर चोरता? आज त्यासाठी दहा मिनिटे कोणत्याही व्यत्ययाशिवाय बाजूला ठेवा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Focus on the one true target, with humility, and even the impossible shot can be made.",
+  "hi": {
+   "text": "विनम्रता के साथ एक सच्चे लक्ष्य पर ध्यान टिकाइए, और असंभव लगता निशाना भी सध सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नम्रतेने एकाच खऱ्या लक्ष्यावर लक्ष केंद्रित करा, म्हणजे अशक्य वाटणारा बाणही साधता येतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva (Swayamvara Parva); Karna’s rejection by Draupadi is a popular version found in some tellings",
+  "hi": {
+   "text": "महाभारत, आदि पर्व (स्वयंवर पर्व); द्रौपदी द्वारा कर्ण को अस्वीकार करना कुछ कथाओं में मिलने वाला लोकप्रिय रूप है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व (स्वयंवरपर्व); कर्णाला द्रौपदीने नाकारल्याची कथा काही कथनांत आढळणारे लोकप्रिय रूप आहे",
+   "reviewed": false
+  }
+ }
+}

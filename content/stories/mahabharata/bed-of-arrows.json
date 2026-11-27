@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "bed-of-arrows",
+ "order": 23,
+ "part": "bhishma",
+ "figure": {
+  "en": "Bhishma",
+  "hi": {
+   "text": "भीष्म",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भीष्म",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The grandfather on the bed of arrows",
+  "hi": {
+   "text": "बाणों की शय्या पर पितामह",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "बाणांच्या शय्येवरचे आजोबा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "For ten days no one in the world can stop him. Then the Pandavas do a terrible thing: they walk to the enemy commander’s tent and ask him how to kill him.",
+  "hi": {
+   "text": "दस दिन तक संसार में कोई उन्हें रोक नहीं सकता। फिर पांडव एक भयंकर काम करते हैं: वे शत्रु सेनापति के तंबू में जाकर स्वयं उन्हीं से पूछते हैं कि उन्हें कैसे मारा जाए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दहा दिवस जगात कुणी त्यांना रोखू शकत नाही. मग पांडव एक भयंकर गोष्ट करतात: ते शत्रूच्या सेनापतीच्या तंबूत जाऊन त्यालाच विचारतात की तुम्हाला कसे मारायचे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/bed-of-arrows-1.webp",
+   "w": 960,
+   "h": 684,
+   "caption": {
+    "en": "Bhishma lies on a bed of arrows while Arjuna stands above him (Indian painting)",
+    "hi": {
+     "text": "बाणों की शय्या पर लेटे भीष्म, पास खड़े अर्जुन (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शरशय्येवर पडलेले भीष्म, जवळ उभा अर्जुन (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhisma_is_lying_on_a_bed_of_arrows_with_Arjuna_standing_above_him_with_bow_drawn_and_pointed..jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Ten days",
+    "hi": {
+     "text": "दस दिन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहा दिवस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "For ten days, Bhishma commanded the Kaurava army, and for ten days nothing could stand before him. His bow sang. His chariot moved like a wheel of fire across the plain. Wherever he turned, the Pandava ranks scattered like leaves before a gale.\n\nEach evening, the Pandavas gathered in sorrow. Yudhishthira’s face was drawn. “He kills ten thousand every day,” he said. “We cannot go on.”\n\nBhishma fought without hatred. He did not wish the Pandavas harm; he loved them, as a grandfather loves his grandchildren. But he had given his word to the throne of Hastinapura, and the vow of a lifetime bound him to the Kaurava side. He fought because honour told him to.\n\nOnce, in the middle of battle, Arjuna, torn by affection, aimed his arrows weakly at his grandfather. Krishna saw it. He was silent for a moment. Then, with a rush of anger, he did something no one had ever seen: he leapt down from the chariot.\n\nHe carried no weapon. But he picked up a broken chariot wheel, and he ran straight at Bhishma.",
+    "hi": {
+     "text": "दस दिन तक भीष्म ने कौरव सेना का नेतृत्व किया, और दस दिन तक कोई उनके सामने टिक न सका। उनका धनुष गूँजता रहा। उनका रथ मैदान में अग्नि के चक्र की तरह दौड़ता रहा। वे जिधर मुड़ते, पांडवों की पंक्तियाँ आँधी में पत्तों की तरह बिखर जातीं।\n\nहर शाम पांडव दुखी मन से इकट्ठे होते। युधिष्ठिर का चेहरा उतरा हुआ था। “वे हर दिन दस हज़ार को मार डालते हैं,” उन्होंने कहा। “हम इस तरह नहीं चल सकते।”\n\nभीष्म बिना घृणा के लड़ते थे। वे पांडवों का अहित नहीं चाहते थे, वे उनसे वैसे ही प्रेम करते थे जैसे दादा अपने पोतों से करता है। पर उन्होंने हस्तिनापुर के सिंहासन को वचन दिया था, और जीवन भर की प्रतिज्ञा उन्हें कौरवों के पक्ष से बाँधे हुए थी। वे इसलिए लड़ते थे क्योंकि मर्यादा यही कहती थी।\n\nएक बार युद्ध के बीच अर्जुन ने, स्नेह से बँधे होने के कारण, अपने पितामह पर कमज़ोरी से बाण चलाए। कृष्ण ने यह देखा। वे क्षण भर चुप रहे। फिर क्रोध के आवेग में उन्होंने वह किया जो किसी ने पहले कभी नहीं देखा था: वे रथ से कूद पड़े।\n\nउनके हाथ में कोई शस्त्र नहीं था। पर उन्होंने टूटे हुए रथ का एक पहिया उठाया, और सीधे भीष्म की ओर दौड़ पड़े।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहा दिवस भीष्मांनी कौरव सेनेचे नेतृत्व केले, आणि दहा दिवस त्यांच्यासमोर कुणीही टिकू शकले नाही. त्यांचे धनुष्य गाजत होते. त्यांचा रथ मैदानावर अग्निचक्रासारखा फिरत होता. ते जिकडे वळत, तिकडे पांडवांच्या रांगा वादळासमोरच्या पानांसारख्या विखुरत.\n\nप्रत्येक संध्याकाळी पांडव दुःखाने एकत्र बसत. युधिष्ठिराचा चेहरा उतरलेला असे. “तो रोज दहा हजारांना मारतो,” तो म्हणाला. “आपल्याला हे सहन होणार नाही.”\n\nभीष्म द्वेषाविना लढत होते. पांडवांचे वाईट व्हावे असे त्यांना वाटत नव्हते; आजोबा नातवंडांवर प्रेम करतात तसे त्यांचे पांडवांवर प्रेम होते. पण त्यांनी हस्तिनापूरच्या सिंहासनाला शब्द दिला होता, आणि आयुष्यभराच्या प्रतिज्ञेने ते कौरवांच्या बाजूला बांधलेले होते. ते लढत होते कारण मर्यादा तसे सांगत होती.\n\nएकदा युद्धाच्या मध्यात, प्रेमाने गोंधळलेल्या अर्जुनाने आपल्या आजोबांवर कमजोरपणे बाण सोडले. श्रीकृष्णांनी ते पाहिले. क्षणभर ते गप्प राहिले. मग रागाच्या लाटेने त्यांनी असे काही केले जे कुणी कधी पाहिले नव्हते: त्यांनी रथातून उडी मारली.\n\nत्यांच्या हातात शस्त्र नव्हते. पण त्यांनी रथाचे एक तुटके चाक उचलले, आणि ते सरळ भीष्मांच्या दिशेने धावले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Krishna leaps down",
+    "hi": {
+     "text": "कृष्ण रथ से कूदे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाची उडी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The whole field gasped. Krishna had sworn not to take up arms in the war. Yet here he was, his yellow robe streaming, running with a wheel raised high over his head, his eyes blazing.\n\nBhishma saw him come. He did not flee. He did not raise his bow. He lowered it, and dropped it. He folded his hands with a smile of wonder, as if he had been waiting all his life for this.\n\n“Come, O lord of the universe,” said Bhishma. “Strike me down. To die at your hand is to be freed. Come, Krishna, I welcome you.”\n\nArjuna leapt from the chariot and ran after Krishna. He threw his arms around his friend’s legs and held him. “Stop, Krishna! You promised not to fight! You will be shamed for my sake. I swear I will fight with all my strength. I will not weaken again.”\n\nKrishna looked at Arjuna. Slowly the anger left his face. He let the wheel fall. “Then let it be so,” he said, and returned to the chariot.\n\nBhishma, watching, smiled through tears.",
+    "hi": {
+     "text": "पूरा मैदान स्तब्ध रह गया। कृष्ण ने प्रण लिया था कि वे इस युद्ध में शस्त्र नहीं उठाएँगे। फिर भी वे वहाँ थे, पीतांबर लहराता हुआ, पहिया सिर के ऊपर उठाए दौड़ते हुए, आँखों में ज्वाला लिए।\n\nभीष्म ने उन्हें आते देखा। वे भागे नहीं। उन्होंने धनुष नहीं उठाया। उन्होंने उसे नीचे किया और छोड़ दिया। वे आश्चर्य भरी मुस्कान के साथ हाथ जोड़कर खड़े हो गए, मानो जीवन भर इसी क्षण की प्रतीक्षा कर रहे हों।\n\n“आइए, हे जगत के स्वामी,” भीष्म ने कहा। “मुझे गिरा दीजिए। आपके हाथों मरना मुक्ति है। आइए, कृष्ण, मैं आपका स्वागत करता हूँ।”\n\nअर्जुन रथ से कूदा और कृष्ण के पीछे दौड़ा। उसने अपने मित्र के पैरों को बाँहों में भरकर उन्हें रोक लिया। “रुकिए, कृष्ण! आपने युद्ध न करने का वचन दिया था! मेरे कारण आपका अपयश होगा। मैं शपथ लेता हूँ कि मैं पूरी शक्ति से लड़ूँगा। मैं फिर कमज़ोर नहीं पड़ूँगा।”\n\nकृष्ण ने अर्जुन की ओर देखा। धीरे-धीरे उनके मुख से क्रोध उतर गया। उन्होंने पहिया छोड़ दिया। “तो ऐसा ही हो,” उन्होंने कहा, और रथ पर लौट आए।\n\nभीष्म यह देखकर आँसुओं के बीच मुस्कुराए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सारे मैदान थक्क झाले. श्रीकृष्णांनी युद्धात शस्त्र न धरण्याची शपथ घेतली होती. तरीही ते इथे होते, पिवळे उत्तरीय फडकवत, डोक्यावर चाक उंचावून धावत, डोळे ज्वालेसारखे पेटलेले.\n\nभीष्मांनी त्यांना येताना पाहिले. ते पळाले नाहीत. त्यांनी धनुष्य उचलले नाही. त्यांनी ते खाली केले आणि टाकून दिले. जणू आयुष्यभर याचीच वाट पाहत होते, असे आश्चर्याने हसत त्यांनी हात जोडले.\n\n“या, हे विश्वाच्या स्वामी,” भीष्म म्हणाले. “मला पाडा. आपल्या हातून मृत्यू म्हणजे मुक्ती. या श्रीकृष्णा, मी आपले स्वागत करतो.”\n\nअर्जुनाने रथातून उडी मारली आणि श्रीकृष्णाच्या मागे धावला. त्याने आपल्या मित्राचे पाय घट्ट धरले आणि त्यांना अडवले. “थांबा, श्रीकृष्णा! तुम्ही लढणार नाही असे वचन दिले होते! माझ्यामुळे तुमची नाचक्की होईल. मी शपथ घेतो, मी पूर्ण बळाने लढेन. मी पुन्हा कमजोर पडणार नाही.”\n\nश्रीकृष्णांनी अर्जुनाकडे पाहिले. हळूहळू त्यांच्या चेहऱ्यावरचा राग ओसरला. त्यांनी चाक खाली टाकले. “तर मग तसे होऊ दे,” ते म्हणाले, आणि रथाकडे परतले.\n\nभीष्म पाहत होते, आणि अश्रूंतून हसले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The question",
+    "hi": {
+     "text": "वह प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Still the tenth day was not far off, and still Bhishma could not be beaten. So Krishna said, “Yudhishthira, go to Bhishma yourself and ask him. He loves you. He will tell you the truth.”\n\nThat night the five Pandavas walked unarmed across the dark field to the Kaurava camp. The sentries let them pass in silence. They found the old commander resting in his tent, and they bowed to his feet.\n\n“Grandfather,” said Yudhishthira, his voice breaking, “you cannot be defeated while you hold a bow. How can we win? How can you be stopped?”\n\nIt was an astonishing question. But Bhishma did not take offence. He looked at them with deep affection. “My boys,” he said. “I am bound to fight for Duryodhana, but my heart is with dharma. I will tell you.”\n\nHe thought for a moment. “I will not raise my weapon against one who was once a woman. If Shikhandi stands before Arjuna’s chariot, I will put down my bow. Let Arjuna shoot from behind him. That is how I may fall.”\n\nThe Pandavas wept.",
+    "hi": {
+     "text": "दसवाँ दिन पास आ गया था, और भीष्म अब भी अजेय थे। तब कृष्ण ने कहा, “युधिष्ठिर, तुम स्वयं भीष्म के पास जाओ और उनसे पूछो। वे तुमसे प्रेम करते हैं। वे तुम्हें सच बता देंगे।”\n\nउस रात पाँचों पांडव निःशस्त्र होकर अँधेरे मैदान को पार करते हुए कौरवों के शिविर पहुँचे। पहरेदारों ने चुपचाप उन्हें जाने दिया। उन्होंने वृद्ध सेनापति को अपने तंबू में विश्राम करते पाया, और उनके चरणों में प्रणाम किया।\n\n“पितामह,” युधिष्ठिर ने भर्राई आवाज़ में कहा, “जब तक आपके हाथ में धनुष है, आपको हराया नहीं जा सकता। हम कैसे जीतें? आपको कैसे रोका जाए?”\n\nयह एक अचंभित कर देने वाला प्रश्न था। पर भीष्म को बुरा नहीं लगा। उन्होंने गहरे स्नेह से उन्हें देखा। “मेरे बच्चो,” उन्होंने कहा। “मैं दुर्योधन के लिए लड़ने को बँधा हूँ, पर मेरा हृदय धर्म के साथ है। मैं तुम्हें बताऊँगा।”\n\nउन्होंने क्षण भर सोचा। “मैं उस पर शस्त्र नहीं उठाऊँगा जो कभी स्त्री था। यदि शिखंडी अर्जुन के रथ के आगे खड़ा होगा, तो मैं अपना धनुष रख दूँगा। अर्जुन उसके पीछे से बाण चलाए। इसी तरह मैं गिर सकता हूँ।”\n\nपांडव रो पड़े।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहावा दिवस जवळ आला होता, आणि भीष्मांना अजूनही हरवता येत नव्हते. म्हणून श्रीकृष्ण म्हणाले, “युधिष्ठिरा, तू स्वतः भीष्मांकडे जा आणि त्यांना विचार. ते तुझ्यावर प्रेम करतात. ते तुला खरे सांगतील.”\n\nत्या रात्री पाचही पांडव निःशस्त्र होऊन अंधाऱ्या मैदानातून कौरवांच्या छावणीत चालत गेले. पहारेकऱ्यांनी त्यांना शांतपणे जाऊ दिले. त्यांना वृद्ध सेनापती आपल्या तंबूत विश्रांती घेताना दिसले, आणि त्यांनी त्यांच्या पायांना नमस्कार केला.\n\n“आजोबा,” युधिष्ठिर म्हणाला, त्याचा आवाज दाटून आला होता, “आपल्या हातात धनुष्य असेपर्यंत आपला पराभव करता येत नाही. आम्ही कसे जिंकणार? आपल्याला कसे रोखता येईल?”\n\nहा अतिशय धक्कादायक प्रश्न होता. पण भीष्मांना राग आला नाही. त्यांनी अपार प्रेमाने त्यांच्याकडे पाहिले. “बाळांनो,” ते म्हणाले. “मी दुर्योधनासाठी लढायला बांधलेला आहे, पण माझे हृदय धर्मासोबत आहे. मी तुम्हाला सांगतो.”\n\nक्षणभर त्यांनी विचार केला. “जो कधी काळी स्त्री होता, त्याच्यावर मी शस्त्र उचलणार नाही. शिखंडी अर्जुनाच्या रथासमोर उभा राहिला, तर मी धनुष्य खाली ठेवीन. अर्जुनाने त्याच्या पाठीमागून बाण मारावेत. अशाच प्रकारे मी पडू शकतो.”\n\nपांडव रडले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The tenth morning",
+    "hi": {
+     "text": "दसवीं भोर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहावी सकाळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Amba’s reborn spirit, Shikhandi, stood at the front of the Pandava chariots on the tenth day. He had waited his whole life for this. Behind him rode Arjuna, with Krishna at the reins.\n\nBhishma fought as he had never fought. But when he saw Shikhandi coming, he lowered his bow. “I will not fight him,” he said quietly to those near him.\n\nArjuna’s arrows flew from behind Shikhandi, one after another, a storm of gold. They struck Bhishma at every point of his body, until there was not a hand’s breadth left unpierced.\n\nAt last he swayed. Slowly, with the dignity of a great tree falling in a forest, Bhishma sank from his chariot. Yet he did not touch the ground. The arrows that had pierced him held him up. He lay suspended on a bed of arrows, his head hanging down.\n\nBoth armies fell silent. Kauravas and Pandavas alike laid down their weapons and wept. Warriors who had fought all day against him stood with bowed heads, as at the death of a father.",
+    "hi": {
+     "text": "दसवें दिन अंबा की पुनर्जन्म पाई आत्मा, शिखंडी, पांडव रथों की अगली पंक्ति में खड़ा था। उसने अपना सारा जीवन इसी क्षण की प्रतीक्षा की थी। उसके पीछे अर्जुन रथ पर थे, और कृष्ण के हाथों में लगाम थी।\n\nभीष्म ऐसे लड़े जैसे पहले कभी नहीं लड़े थे। पर जब उन्होंने शिखंडी को आते देखा, तो उन्होंने धनुष नीचे कर लिया। “मैं इससे नहीं लड़ूँगा,” उन्होंने पास खड़े लोगों से धीरे से कहा।\n\nशिखंडी के पीछे से अर्जुन के बाण एक के बाद एक उड़े, सुनहरे बाणों का तूफ़ान। वे भीष्म के शरीर के हर हिस्से में धँस गए, यहाँ तक कि हथेली भर जगह भी बिंधने से न बची।\n\nआख़िर वे डगमगाए। धीरे-धीरे, वन में किसी विशाल वृक्ष के गिरने की गरिमा के साथ, भीष्म अपने रथ से नीचे झुकते चले गए। फिर भी वे धरती को नहीं छू पाए। जिन बाणों ने उन्हें बेधा था, उन्हीं ने उन्हें थाम लिया। वे बाणों की शय्या पर हवा में लटके रह गए, उनका सिर नीचे झुका हुआ था।\n\nदोनों सेनाएँ मौन हो गईं। कौरवों और पांडवों ने एक साथ शस्त्र नीचे रख दिए और रोने लगे। जो योद्धा दिन भर उनके विरुद्ध लड़े थे, वे सिर झुकाए खड़े थे, जैसे पिता की मृत्यु पर।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंबेचा पुनर्जन्म झालेला आत्मा, शिखंडी, दहाव्या दिवशी पांडवांच्या रथांच्या आघाडीवर उभा होता. तो या क्षणाची आयुष्यभर वाट पाहत आला होता. त्याच्या मागे अर्जुन होता, आणि श्रीकृष्ण लगाम धरून होते.\n\nभीष्म जसे कधी लढले नव्हते तसे लढले. पण शिखंडीला येताना पाहताच त्यांनी धनुष्य खाली केले. “मी त्याच्याशी लढणार नाही,” ते जवळच्यांना हळू म्हणाले.\n\nशिखंडीच्या पाठीमागून अर्जुनाचे बाण एकापाठोपाठ सुटले, सोनेरी वादळासारखे. त्यांनी भीष्मांच्या शरीराच्या प्रत्येक भागाला भेदले, इतके की हाताच्या पंजाएवढीही जागा अभेद्य उरली नाही.\n\nशेवटी ते डोलले. जंगलात एखादा मोठा वृक्ष पडावा तशा प्रतिष्ठेने भीष्म रथातून खाली आले. पण त्यांचे शरीर जमिनीला लागले नाही. त्यांना भेदणाऱ्या बाणांनीच त्यांना वर धरून ठेवले. ते बाणांच्या शय्येवर तरंगत पडले, डोके खाली लोंबकळत.\n\nदोन्ही सैन्ये स्तब्ध झाली. कौरव आणि पांडव दोघांनीही शस्त्रे टाकली आणि अश्रू ढाळले. दिवसभर ज्यांच्याशी लढले ते योद्धे पित्याच्या निधनासारखे मान खाली घालून उभे राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Water for the grandfather",
+    "hi": {
+     "text": "पितामह के लिए जल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आजोबांसाठी पाणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“My head hangs,” Bhishma said, with his dry humour. “Give me a pillow.”\n\nKings hurried forward with soft cushions of silk. Bhishma smiled and shook his head. “These are not for a warrior’s bed. Arjuna, my child, come here.”\n\nArjuna came, weeping, and bowed. He understood. He took three arrows and laid them beneath the old man’s head. “That,” said Bhishma, “is a pillow fit for a kshatriya.”\n\nThen Bhishma said, “I am thirsty.” Everyone ran for water. But Bhishma said, “Not that kind. Arjuna, give me the water I need.”\n\nArjuna lifted Gandiva and shot an arrow into the ground beside him, with a prayer to the earth. At once a clear stream rose from the soil, sparkling and cool, and flowed up into Bhishma’s mouth. The old man drank, and his face grew peaceful.\n\n“You have given me what no one else could,” he said. “Arjuna, you were always the best of us.”\n\nDuryodhana came too, and wept. Bhishma looked at him and said: “Make peace, my son. End the war.”",
+    "hi": {
+     "text": "“मेरा सिर लटक रहा है,” भीष्म ने अपने सूखे विनोद के साथ कहा। “मुझे कोई तकिया दो।”\n\nराजा रेशम के कोमल गद्दे लेकर दौड़े। भीष्म ने मुस्कुराकर सिर हिला दिया। “ये योद्धा की शय्या के योग्य नहीं हैं। अर्जुन, बेटा, यहाँ आओ।”\n\nअर्जुन रोता हुआ आया और प्रणाम किया। वह समझ गया। उसने तीन बाण लिए और उन्हें वृद्ध पितामह के सिर के नीचे रख दिया। “यही,” भीष्म ने कहा, “क्षत्रिय के योग्य तकिया है।”\n\nफिर भीष्म ने कहा, “मुझे प्यास लगी है।” सब जल लाने दौड़े। पर भीष्म बोले, “यह जल नहीं। अर्जुन, मुझे वह जल दो जिसकी मुझे आवश्यकता है।”\n\nअर्जुन ने गांडीव उठाया और धरती माता से प्रार्थना करके उनके पास ही भूमि में एक बाण चलाया। उसी क्षण मिट्टी से एक निर्मल धारा फूट पड़ी, चमकती और शीतल, और ऊपर उठकर भीष्म के मुख में पहुँची। वृद्ध ने जल पिया, और उनका चेहरा शांत हो गया।\n\n“तुमने मुझे वह दिया जो कोई और नहीं दे सकता था,” उन्होंने कहा। “अर्जुन, तुम सदा हम सबमें सर्वश्रेष्ठ रहे।”\n\nदुर्योधन भी आया, और रो पड़ा। भीष्म ने उसकी ओर देखकर कहा: “संधि कर लो, पुत्र। युद्ध समाप्त करो।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“माझे डोके लोंबकळते आहे,” भीष्म आपल्या कोरड्या विनोदाने म्हणाले. “मला उशी द्या.”\n\nराजे रेशमी मऊ गाद्या घेऊन धावत आले. भीष्म हसले आणि त्यांनी मान हलवली. “या योद्ध्याच्या शय्येसाठी नाहीत. अर्जुना, बाळा, इकडे ये.”\n\nअर्जुन रडत आला आणि त्याने नमस्कार केला. त्याला समजले. त्याने तीन बाण घेतले आणि वृद्ध योद्ध्याच्या डोक्याखाली ठेवले. “हीच,” भीष्म म्हणाले, “क्षत्रियाला शोभणारी उशी आहे.”\n\nमग भीष्म म्हणाले, “मला तहान लागली आहे.” सगळे पाण्यासाठी धावले. पण भीष्म म्हणाले, “हे नव्हे. अर्जुना, मला हवे ते पाणी दे.”\n\nअर्जुनाने गांडीव उचलले आणि पृथ्वीला प्रार्थना करून त्यांच्या शेजारी जमिनीत एक बाण मारला. लगेचच मातीतून स्वच्छ, थंड, चमचमणारी धारा उसळली आणि वर भीष्मांच्या मुखात गेली. वृद्ध योद्ध्याने पाणी प्यायले, आणि त्यांचा चेहरा शांत झाला.\n\n“तू मला असे दिलेस जे इतर कुणी देऊ शकले नसते,” ते म्हणाले. “अर्जुना, तू नेहमीच आमच्यात सर्वश्रेष्ठ होतास.”\n\nदुर्योधनही आला आणि रडला. भीष्मांनी त्याच्याकडे पाहून म्हटले: “शांती कर, बाळा. युद्ध थांबव.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Waiting for the sun",
+    "hi": {
+     "text": "सूर्य की प्रतीक्षा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूर्याची प्रतीक्षा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "But Duryodhana turned away. He did not hear.\n\nKarna, who had not fought while Bhishma commanded, came alone in the night and knelt beside the bed of arrows. He had once been insulted by the old warrior, but now he wept. “Grandfather, forgive me.”\n\nBhishma, who knew his secret, said gently, “Karna, you are Kunti’s son, and a brother to the Pandavas. I have always known. Make peace with them, if you can.”\n\n“I cannot,” said Karna sadly. “I am bound to my friend.”\n\nBhishma sighed. “Then do as your heart requires.”\n\nBy the boon given to him long ago by his father Shantanu, Bhishma could choose the time of his own death. He would not die now. It was winter, when the sun turns south, an inauspicious season. He would wait on his bed of arrows until the sun turned north, in the time called Uttarayana.\n\nSo the grandfather lay under the open sky for fifty-eight nights, while the war raged on beyond him. The wind sang in the quiver of arrows, and the stars looked down. He was no longer a commander. He was only the oldest and wisest of men, waiting.",
+    "hi": {
+     "text": "पर दुर्योधन मुँह फेरकर चला गया। उसने सुना ही नहीं।\n\nकर्ण, जो भीष्म के सेनापति रहते युद्ध में नहीं उतरे थे, रात में अकेले आए और बाणों की शय्या के पास घुटनों के बल बैठ गए। कभी इस वृद्ध योद्धा ने उनका अपमान किया था, पर आज वे रो रहे थे। “पितामह, मुझे क्षमा कर दीजिए।”\n\nभीष्म, जो उनका रहस्य जानते थे, कोमलता से बोले, “कर्ण, तुम कुंती के पुत्र हो, और पांडवों के भाई। मैं सदा से यह जानता हूँ। यदि हो सके तो उनसे संधि कर लो।”\n\n“मैं नहीं कर सकता,” कर्ण ने दुखी स्वर में कहा। “मैं अपने मित्र से बँधा हूँ।”\n\nभीष्म ने आह भरी। “तो वही करो जो तुम्हारा हृदय कहे।”\n\nबहुत पहले उनके पिता शांतनु से मिले वरदान के कारण भीष्म अपनी मृत्यु का समय स्वयं चुन सकते थे। वे अभी नहीं मरेंगे। यह शीतकाल था, जब सूर्य दक्षिण की ओर जाता है, एक अशुभ ऋतु। वे बाणों की शय्या पर तब तक प्रतीक्षा करेंगे जब तक सूर्य उत्तर की ओर न मुड़ जाए, उस समय जिसे उत्तरायण कहते हैं।\n\nइस तरह पितामह अट्ठावन रातों तक खुले आकाश के नीचे लेटे रहे, और उनके परे युद्ध भड़कता रहा। हवा बाणों के तरकश में गाती रही, और तारे नीचे झाँकते रहे। अब वे सेनापति नहीं थे। वे बस सबसे वृद्ध और सबसे बुद्धिमान मनुष्य थे, प्रतीक्षा करते हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण दुर्योधन मान फिरवून निघून गेला. त्याने ऐकलेच नाही.\n\nभीष्म सेनापती असताना जो लढला नव्हता, तो कर्ण रात्री एकटा आला आणि बाणांच्या शय्येशेजारी गुडघे टेकून बसला. एके काळी त्या वृद्ध योद्ध्याकडून त्याचा अपमान झाला होता, पण आता तो रडला. “आजोबा, मला क्षमा करा.”\n\nभीष्म, ज्यांना त्याचे रहस्य ठाऊक होते, हळुवारपणे म्हणाले, “कर्णा, तू कुंतीचा पुत्र आहेस, आणि पांडवांचा भाऊ आहेस. हे मला नेहमीच ठाऊक होते. जमले तर त्यांच्याशी शांती कर.”\n\n“मला ते जमणार नाही,” कर्ण खिन्नपणे म्हणाला. “मी माझ्या मित्राशी बांधलेला आहे.”\n\nभीष्मांनी उसासा टाकला. “मग तुझे हृदय सांगते तसे कर.”\n\nपिता शंतनूने फार पूर्वी दिलेल्या वरामुळे भीष्म आपल्या मृत्यूची वेळ स्वतः ठरवू शकत होते. ते आत्ता मरणार नव्हते. हिवाळा होता, जेव्हा सूर्य दक्षिणेकडे वळतो, तो अशुभ काळ. सूर्य उत्तरेकडे वळेपर्यंत, म्हणजे उत्तरायणापर्यंत, ते आपल्या बाणांच्या शय्येवर वाट पाहणार होते.\n\nम्हणून आजोबा अठ्ठावन्न रात्री उघड्या आकाशाखाली पडून राहिले, आणि त्यांच्या पलीकडे युद्ध पेटलेले होते. बाणांच्या भात्यात वारा गाणे गात होता, आणि तारे खाली पाहत होते. ते आता सेनापती नव्हते. ते फक्त सर्वांत वृद्ध आणि सर्वांत ज्ञानी माणूस होते, वाट पाहणारे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Bhishma lay in pain and still stayed calm and kind. When pain or disappointment comes, how do you meet it? Today, when something goes wrong, pause for three slow breaths before you answer, and try to answer gently.",
+  "hi": {
+   "text": "भीष्म पीड़ा में लेटे थे, फिर भी शांत और दयालु बने रहे। जब पीड़ा या निराशा आती है, तो आप उसका सामना कैसे करते हैं? आज जब कुछ ग़लत हो, तो उत्तर देने से पहले तीन धीमी साँसें लीजिए, और कोमलता से उत्तर देने का प्रयास कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भीष्म वेदनेत पडले होते आणि तरीही शांत आणि प्रेमळ राहिले. वेदना किंवा निराशा येते, तेव्हा तुम्ही तिला कसे सामोरे जाता? आज काही बिघडले, तर उत्तर देण्यापूर्वी तीन हळू श्वास घेऊन थांबा, आणि हळुवारपणे उत्तर देण्याचा प्रयत्न करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A life of honour can bind us to hard choices, but a steady, loving heart can stay peaceful even on a bed of arrows.",
+  "hi": {
+   "text": "मर्यादा का जीवन हमें कठिन निर्णयों से बाँध सकता है, पर एक स्थिर और प्रेम भरा हृदय बाणों की शय्या पर भी शांत रह सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सन्मानाचे जीवन आपल्याला कठीण निवडींशी बांधू शकते, पण स्थिर आणि प्रेमळ हृदय बाणांच्या शय्येवरही शांत राहू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Bhishma Parva; Krishna’s wheel and Arjuna’s spring are from the epic",
+  "hi": {
+   "text": "महाभारत, भीष्म पर्व; कृष्ण का पहिया उठाना और अर्जुन द्वारा जलधारा प्रकट करना महाकाव्य में ही आते हैं",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, भीष्म पर्व; श्रीकृष्णाचे चाक आणि अर्जुनाचा झरा महाकाव्यातून",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "abhimanyu",
+ "order": 24,
+ "part": "drona",
+ "figure": {
+  "en": "Abhimanyu",
+  "hi": {
+   "text": "अभिमन्यु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अभिमन्यू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The boy who entered the wheel",
+  "hi": {
+   "text": "वह बालक जो चक्र में घुसा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चक्रात शिरलेला मुलगा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A sixteen-year-old knows how to enter a formation that no one else can break, but not how to leave it. This is the story of how one boy held the greatest warriors in the world at bay.",
+  "hi": {
+   "text": "सोलह वर्ष का एक बालक उस व्यूह में प्रवेश करना जानता है जिसे कोई और तोड़ नहीं सकता, पर उससे बाहर निकलना नहीं जानता। यह कथा है कि कैसे एक अकेले बालक ने संसार के सबसे बड़े योद्धाओं को रोके रखा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सोळा वर्षांच्या मुलाला इतर कुणालाही भेदता न येणाऱ्या व्यूहात कसे शिरायचे हे ठाऊक आहे, पण बाहेर कसे पडायचे ते नाही. एका मुलाने जगातल्या सर्वश्रेष्ठ योद्ध्यांना कसे रोखून धरले, याची ही कथा.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/abhimanyu-1.webp",
+   "w": 779,
+   "h": 566,
+   "caption": {
+    "en": "Abhimanyu fights inside the great battle formation (manuscript painting)",
+    "hi": {
+     "text": "महान व्यूह के भीतर लड़ते अभिमन्यु (पांडुलिपि चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महान व्यूहात लढणारा अभिमन्यू (हस्तलिखित चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Pandava_brothers%27_nephew_Abhimanyu_battles_the_Kaurava_brother_Duhshasana,_from_a_manuscript_of_the_Mahabharata.jpg"
+  },
+  {
+   "src": "/stories/mahabharata/abhimanyu-2.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "The chakravyuha, the wheel-shaped battle formation, carved at Halebidu",
+    "hi": {
+     "text": "हलेबिडु में उकेरा गया चक्रव्यूह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हळेबीडू येथे कोरलेला चक्रव्यूह",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Halebid2.JPG"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The wheel of war",
+    "hi": {
+     "text": "युद्ध का चक्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धाचे चक्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Bhishma had fallen, and old Drona now led the Kaurava army. On the fourth day of his command, Duryodhana whispered to him, “Take Yudhishthira alive, and the war is ours.”\n\nDrona nodded. He arranged his army in a formation called the Chakravyuha, the wheel, a vast coiled whorl of soldiers in seven rings, each ring stronger than the last. Hardly anyone in the world knew how to break it. Among the Pandavas, only Arjuna did.\n\nBut Arjuna was not there. Duryodhana’s allies, the Samshaptakas, a band who had sworn to fight to the death, challenged him to a distant duel. Arjuna rode away, trusting his brothers to hold the camp.\n\nAt dawn the wheel began to turn. The Pandavas looked at it in dismay. “If Arjuna were here...” said Yudhishthira.\n\nA young voice spoke. “Uncle, I know how to enter.”\n\nIt was Abhimanyu, Arjuna’s son, only sixteen, bright as a young sun. “My father taught me the way in,” he said. “I can break the wheel.”\n\n“And how will you come out?” asked Yudhishthira.\n\nAbhimanyu was silent. He did not know.",
+    "hi": {
+     "text": "भीष्म गिर चुके थे, और अब वृद्ध द्रोण कौरव सेना का नेतृत्व कर रहे थे। उनकी सेनापति बनने के चौथे दिन दुर्योधन ने उनके कान में कहा, “युधिष्ठिर को जीवित पकड़ लीजिए, और युद्ध हमारा हो जाएगा।”\n\nद्रोण ने सिर हिलाया। उन्होंने अपनी सेना को चक्रव्यूह में सजाया, एक विशाल कुंडलित भँवर, सैनिकों के सात घेरों वाला, हर घेरा पिछले से अधिक सुदृढ़। संसार में बहुत कम लोग इसे तोड़ना जानते थे। पांडवों में केवल अर्जुन जानता था।\n\nपर अर्जुन वहाँ नहीं था। दुर्योधन के सहयोगियों, संशप्तकों ने, जो मरते दम तक लड़ने की शपथ ले चुके थे, उसे दूर एक द्वंद्व के लिए ललकारा। अर्जुन चला गया, इस भरोसे पर कि उसके भाई शिविर सँभाल लेंगे।\n\nभोर होते ही चक्र घूमने लगा। पांडवों ने निराशा से उसे देखा। “काश अर्जुन यहाँ होता...” युधिष्ठिर ने कहा।\n\nतभी एक युवा स्वर गूँजा। “चाचाजी, मैं भीतर जाना जानता हूँ।”\n\nवह अभिमन्यु था, अर्जुन का पुत्र, केवल सोलह वर्ष का, नवोदित सूर्य की तरह दीप्त। “पिताजी ने मुझे भीतर घुसना सिखाया था,” उसने कहा। “मैं चक्र को तोड़ सकता हूँ।”\n\n“और बाहर कैसे आओगे?” युधिष्ठिर ने पूछा।\n\nअभिमन्यु चुप रहा। वह नहीं जानता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीष्म पडले होते, आणि आता वृद्ध द्रोणाचार्य कौरव सेनेचे नेतृत्व करीत होते. त्यांच्या सेनापतित्वाच्या चौथ्या दिवशी दुर्योधनाने त्यांच्या कानात सांगितले, “युधिष्ठिराला जिवंत पकडा, म्हणजे युद्ध आपलेच.”\n\nद्रोणांनी मान हलवली. त्यांनी आपल्या सैन्याची चक्रव्यूह नावाची रचना केली, सात वर्तुळांत गुंडाळलेला सैनिकांचा प्रचंड भोवरा, प्रत्येक वर्तुळ मागच्यापेक्षा अधिक बळकट. जगात क्वचितच कुणाला तो भेदायचा मार्ग ठाऊक होता. पांडवांमध्ये फक्त अर्जुनाला.\n\nपण अर्जुन तिथे नव्हता. दुर्योधनाचे सहकारी, संशप्तक, मरेपर्यंत लढण्याची शपथ घेतलेली टोळी, यांनी त्याला दूरच्या द्वंद्वयुद्धाचे आव्हान दिले. भावांवर छावणी राखण्याचा विश्वास टाकून अर्जुन दूर निघून गेला.\n\nपहाटे ते चक्र फिरू लागले. पांडवांनी ते पाहून हताश नजर टाकली. “अर्जुन इथे असता तर...” युधिष्ठिर म्हणाला.\n\nएक कोवळा आवाज बोलला. “काका, आत शिरायचे मला ठाऊक आहे.”\n\nतो अभिमन्यू होता, अर्जुनाचा पुत्र, फक्त सोळा वर्षांचा, कोवळ्या सूर्यासारखा तेजस्वी. “माझ्या वडिलांनी मला आत जाण्याचा मार्ग शिकवला आहे,” तो म्हणाला. “मी हे चक्र भेदू शकतो.”\n\n“आणि बाहेर कसा येशील?” युधिष्ठिराने विचारले.\n\nअभिमन्यू गप्प राहिला. त्याला ठाऊक नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What he learned before birth",
+    "hi": {
+     "text": "जन्म से पहले सीखा रहस्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जन्मापूर्वी शिकलेले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "An old tradition, told by the people, says that Abhimanyu had learned the secret while still in his mother Subhadra’s womb. One night, Arjuna had described the Chakravyuha to her, and the unborn child had listened, breathing quietly. He heard how to enter, ring by ring. But before Arjuna could explain the exit, Subhadra fell asleep, and the lesson ended.\n\n“Let me go in,” the boy said, “and open the way. Follow me. Bhima, Satyaki, Dhrishtadyumna will come after, and together we can break the wheel from within.”\n\nYudhishthira hesitated. He did not want to send a child into that fire. But there was no other choice, and Abhimanyu pleaded: “Uncle, you are my elder. Bless me.”\n\n“Go, then,” said the king at last, “and we will be at your back.”\n\nAbhimanyu bowed. He turned to his charioteer. “Drive straight at the gate,” he said, and laughed with joy. His face glowed. He was so young that he did not yet know how to be afraid.",
+    "hi": {
+     "text": "लोग कहते आए हैं, एक पुरानी मान्यता है, कि अभिमन्यु ने यह रहस्य अपनी माता सुभद्रा के गर्भ में ही सीख लिया था। एक रात अर्जुन ने उन्हें चक्रव्यूह का वर्णन सुनाया था, और गर्भ में पल रहे शिशु ने चुपचाप साँस लेते हुए सब सुन लिया। उसने सुना कि घेरे-घेरे करके भीतर कैसे जाना है। पर इससे पहले कि अर्जुन बाहर निकलने का उपाय बताते, सुभद्रा सो गईं, और वह शिक्षा अधूरी रह गई।\n\n“मुझे भीतर जाने दीजिए,” बालक ने कहा, “और मार्ग खोलने दीजिए। आप मेरे पीछे आइए। भीम, सात्यकि, धृष्टद्युम्न मेरे पीछे आएँगे, और हम सब मिलकर चक्र को भीतर से तोड़ देंगे।”\n\nयुधिष्ठिर हिचके। वे एक बालक को उस आग में नहीं भेजना चाहते थे। पर और कोई उपाय न था, और अभिमन्यु ने विनती की: “चाचाजी, आप मेरे बड़े हैं। मुझे आशीर्वाद दीजिए।”\n\n“तो जाओ,” राजा ने आख़िर कहा, “और हम तुम्हारे पीछे रहेंगे।”\n\nअभिमन्यु ने प्रणाम किया। वह अपने सारथी की ओर मुड़ा। “सीधे द्वार की ओर चलो,” उसने कहा, और आनंद से हँस पड़ा। उसका चेहरा दमक रहा था। वह इतना छोटा था कि उसे अभी डरना आता ही नहीं था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लोककथेतली एक जुनी परंपरा सांगते की अभिमन्यूने ते रहस्य आपली आई सुभद्रा हिच्या गर्भात असतानाच शिकले होते. एका रात्री अर्जुनाने तिला चक्रव्यूहाचे वर्णन केले, आणि न जन्मलेले बाळ शांतपणे श्वास घेत ऐकत राहिले. आत कसे शिरायचे, वर्तुळामागून वर्तुळ, ते त्याने ऐकले. पण अर्जुन बाहेर पडण्याचा मार्ग सांगण्यापूर्वीच सुभद्रेला झोप लागली, आणि तो धडा तिथेच थांबला.\n\n“मला आत जाऊ द्या,” मुलगा म्हणाला, “आणि वाट उघडू द्या. माझ्या मागे या. भीम, सात्यकी, धृष्टद्युम्न मागून येतील, आणि आपण सगळे मिळून आतून चक्र भेदू.”\n\nयुधिष्ठिर कचरला. त्या आगीत एका मुलाला पाठवायची त्याची इच्छा नव्हती. पण दुसरा मार्ग नव्हता, आणि अभिमन्यू विनवू लागला: “काका, आपण माझे वडीलधारे आहात. मला आशीर्वाद द्या.”\n\n“मग जा,” राजा शेवटी म्हणाला, “आम्ही तुझ्या पाठीशी असू.”\n\nअभिमन्यूने नमस्कार केला. तो आपल्या सारथ्याकडे वळला. “रथ सरळ द्वारावर घे,” तो म्हणाला, आणि आनंदाने हसला. त्याचा चेहरा तेजाने उजळला होता. तो इतका कोवळा होता की भीती कशी वाटते हे त्याला अजून ठाऊकच नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Breaking in",
+    "hi": {
+     "text": "चक्र में प्रवेश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चक्र भेदले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The chariot thundered toward the first ring of the wheel. Abhimanyu’s arrows flew like swarms of bees. Ring after ring he cut through, and the Kaurava soldiers marvelled. “It is Arjuna himself!” they cried.\n\n“No,” said Drona, watching from above. “This one is lighter and brighter.” In his heart he felt both pride and dread.\n\nAbhimanyu broke the ring, and the way opened. Behind him, Bhima and the other Pandava heroes charged toward the gap. But at that moment, Jayadratha, king of Sindhu, rode to block the entrance. Jayadratha had once been granted a boon by Shiva that he could hold back the Pandavas, all but Arjuna, for one day. His great army sealed the opening like a door closing behind the boy.\n\nAbhimanyu looked back. He saw the wall of enemies behind him, and the Pandavas beating against it, unable to reach him.\n\nThen he turned and went on alone, deeper into the wheel. Inside, he slew Duryodhana’s son Lakshmana and a thousand brave warriors. The Kauravas stared at him, wondering how a boy could do this.",
+    "hi": {
+     "text": "रथ गड़गड़ाता हुआ चक्र के पहले घेरे की ओर बढ़ा। अभिमन्यु के बाण मधुमक्खियों के झुंड की तरह उड़े। घेरे के बाद घेरा उसने चीर डाला, और कौरव सैनिक चकित रह गए। “यह तो स्वयं अर्जुन है!” वे चिल्लाए।\n\n“नहीं,” ऊपर से देखते हुए द्रोण ने कहा। “यह उससे हल्का और उससे अधिक उज्ज्वल है।” उनके हृदय में गर्व भी था और भय भी।\n\nअभिमन्यु ने घेरा तोड़ दिया, और रास्ता खुल गया। उसके पीछे भीम और अन्य पांडव वीर उस दरार की ओर झपटे। पर उसी क्षण सिंधु के राजा जयद्रथ ने आकर प्रवेश द्वार रोक दिया। जयद्रथ को शिव से वरदान मिला था कि वह अर्जुन को छोड़कर बाकी पांडवों को एक दिन के लिए रोक सकेगा। उसकी विशाल सेना ने उस मार्ग को बालक के पीछे बंद होते द्वार की तरह सील कर दिया।\n\nअभिमन्यु ने मुड़कर देखा। उसने अपने पीछे शत्रुओं की दीवार देखी, और पांडवों को उससे टकराते हुए, उस तक न पहुँच पाते हुए।\n\nतब वह मुड़ा और अकेला ही चक्र के और भीतर बढ़ गया। भीतर उसने दुर्योधन के पुत्र लक्ष्मण का वध किया और हज़ार वीर योद्धाओं को धराशायी कर दिया। कौरव उसे देखते रह गए, यह सोचते हुए कि एक बालक यह कैसे कर सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रथ गडगडत चक्राच्या पहिल्या वर्तुळाकडे निघाला. अभिमन्यूचे बाण मधमाश्यांच्या थव्यांसारखे सुटले. वर्तुळामागून वर्तुळ त्याने भेदले, आणि कौरवांचे सैनिक चकित झाले. “हा तर स्वतः अर्जुन!” ते ओरडले.\n\n“नाही,” वरून पाहणारे द्रोण म्हणाले. “हा अधिक हलका आणि अधिक तेजस्वी आहे.” त्यांच्या मनात अभिमान आणि भीती दोन्ही दाटले.\n\nअभिमन्यूने वर्तुळ फोडले, आणि वाट उघडली. त्याच्या मागे भीम आणि इतर पांडव वीर त्या भगदाडाकडे धावले. पण त्याच क्षणी सिंधूचा राजा जयद्रथ प्रवेशद्वार अडवायला आला. जयद्रथाला शंकराने एकदा असा वर दिला होता की तो अर्जुनाशिवाय इतर पांडवांना एक दिवस रोखू शकेल. त्याच्या मोठ्या सेनेने मुलाच्या मागे दार बंद व्हावे तशी वाट बंद केली.\n\nअभिमन्यूने मागे वळून पाहिले. त्याला मागे शत्रूंची भिंत दिसली, आणि पांडव तिच्यावर आदळत होते, पण त्याच्यापर्यंत पोहोचू शकत नव्हते.\n\nमग तो वळला आणि एकटाच चक्राच्या आणखी आत शिरला. आत त्याने दुर्योधनाचा पुत्र लक्ष्मण आणि हजारो शूर योद्ध्यांचा वध केला. कौरव त्याच्याकडे पाहतच राहिले, एक मुलगा हे कसे करू शकतो असे आश्चर्य करीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Seven against one",
+    "hi": {
+     "text": "सात एक के विरुद्ध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सात जण एकावर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Duryodhana was trembling with fury. “Is this child to ruin us?” he cried. “Drona, Kripa, Karna, Ashwatthama, Brihadbala, Kritavarma: surround him!”\n\nSeven great warriors closed in around the lone youth. They broke his chariot. They killed his horses. They shot his bow in two, and by the rules of war, a fair fight would have ended there. But no rule was kept.\n\nAbhimanyu leapt to the ground. He took up a sword and shield, and when those were broken, he lifted a chariot wheel from the wreckage. He held it high above his head like a gleaming shield, and, wearing only a boy’s smile and a shining circlet, he fought on, spinning in a circle.\n\nEven the greatest warriors paused to look. The old men said later that they had never seen anything so beautiful and so terrible.\n\n“Surrender,” called Karna’s voice. “You are only a child.”\n\n“I am Arjuna’s son,” said Abhimanyu. “I do not know how to surrender.”",
+    "hi": {
+     "text": "दुर्योधन क्रोध से काँप रहा था। “क्या यह बालक हमारा सर्वनाश कर देगा?” वह चीखा। “द्रोण, कृप, कर्ण, अश्वत्थामा, बृहद्बल, कृतवर्मा: इसे घेर लो!”\n\nसात महारथी उस अकेले नवयुवक के चारों ओर सिमट आए। उन्होंने उसका रथ तोड़ दिया। उसके घोड़े मार डाले। उसके धनुष के दो टुकड़े कर दिए, और युद्ध के नियम से यहीं निष्पक्ष युद्ध समाप्त हो जाना चाहिए था। पर कोई नियम नहीं निभाया गया।\n\nअभिमन्यु भूमि पर कूद पड़ा। उसने तलवार और ढाल उठा ली, और जब वे टूट गईं तो टूटे रथ से एक पहिया उठा लिया। उसने उसे अपने सिर के ऊपर दमकती ढाल की तरह उठाया, और केवल एक बालक की मुस्कान और चमकते मुकुट के साथ गोल-गोल घूमते हुए लड़ता रहा।\n\nसबसे महान योद्धा भी रुककर देखने लगे। बड़े-बूढ़े बाद में कहते रहे कि उन्होंने इतना सुंदर और इतना भयंकर दृश्य कभी नहीं देखा था।\n\n“आत्मसमर्पण कर दो,” कर्ण की आवाज़ आई। “तुम केवल बालक हो।”\n\n“मैं अर्जुन का पुत्र हूँ,” अभिमन्यु ने कहा। “मुझे आत्मसमर्पण करना आता ही नहीं।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुर्योधन संतापाने थरथरत होता. “हे पोर आम्हाला बरबाद करणार का?” तो ओरडला. “द्रोण, कृप, कर्ण, अश्वत्थामा, बृहद्बल, कृतवर्मा: त्याला घेरा!”\n\nसात महान योद्ध्यांनी त्या एकाकी तरुणाला घेरले. त्यांनी त्याचा रथ तोडला. त्यांनी त्याचे घोडे मारले. त्यांनी त्याचे धनुष्य दोन तुकडे केले, आणि युद्धाच्या नियमांनुसार निष्पक्ष लढाई तिथेच संपली असती. पण कोणताही नियम पाळला गेला नाही.\n\nअभिमन्यूने जमिनीवर उडी मारली. त्याने तलवार आणि ढाल उचलली, आणि तीही तुटल्यावर त्याने मोडक्या रथातून एक चाक उचलले. ते चमकत्या ढालीसारखे डोक्यावर उंचावून धरले, आणि फक्त मुलाचे हास्य आणि चमकता मुकुट घेऊन तो गोल गोल फिरत लढत राहिला.\n\nसर्वश्रेष्ठ योद्धेही थांबून पाहू लागले. म्हातारे लोक नंतर म्हणाले की इतके सुंदर आणि इतके भयंकर काही त्यांनी कधी पाहिले नव्हते.\n\n“शरण ये,” कर्णाचा आवाज आला. “तू फक्त मूल आहेस.”\n\n“मी अर्जुनाचा पुत्र आहे,” अभिमन्यू म्हणाला. “मला शरण जाणे ठाऊक नाही.”",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The fall",
+    "hi": {
+     "text": "वीरगति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पतन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The seven struck all at once. The wheel in his hands splintered. Abhimanyu stood unarmed, with the blood of the long day on him, and still he did not cry out.\n\nDushasana’s son took up a mace and struck him. The boy fell on the dusty ground, his face turned toward the sky. The battlefield, full of noise a moment before, was quiet. The sun was sinking, red as a coal.\n\n“Father,” Abhimanyu whispered, and he thought of Arjuna. “Tell my mother that I... did not run.”\n\nAnd he closed his eyes.\n\nEven the Kaurava warriors who had struck him wept. They did not cheer. They stood about him as if they had broken something holy. One of them, Drona, bowed his head and said softly, “That child was worthy of any heaven.”\n\nThe gates of the wheel at last gave way. The Pandavas rushed in, too late. Bhima knelt beside the small still figure and could not speak. Yudhishthira covered his face. It was a thing that would never be forgiven by anyone who saw it.",
+    "hi": {
+     "text": "सातों ने एक साथ प्रहार किया। उसके हाथों का पहिया टूटकर बिखर गया। अभिमन्यु निहत्था खड़ा रहा, दिन भर के संघर्ष का लहू उस पर था, और फिर भी उसने आह नहीं भरी।\n\nदुःशासन के पुत्र ने गदा उठाकर उस पर प्रहार किया। बालक धूल भरी धरती पर गिर पड़ा, उसका मुख आकाश की ओर था। जो रणभूमि एक क्षण पहले कोलाहल से भरी थी, वह शांत हो गई। सूर्य अंगारे की तरह लाल होकर डूब रहा था।\n\n“पिताजी,” अभिमन्यु ने फुसफुसाकर कहा, और उसे अर्जुन याद आया। “माँ से कहना कि मैं... भागा नहीं।”\n\nऔर उसने आँखें मूँद लीं।\n\nजिन कौरव योद्धाओं ने उस पर प्रहार किया था, वे भी रो पड़े। उन्होंने जयकार नहीं की। वे उसके चारों ओर ऐसे खड़े रहे जैसे उन्होंने कोई पवित्र वस्तु तोड़ दी हो। उनमें से एक, द्रोण, ने सिर झुकाकर धीरे से कहा, “वह बालक किसी भी स्वर्ग के योग्य था।”\n\nचक्र के द्वार आख़िरकार टूट गए। पांडव भीतर दौड़े, पर बहुत देर हो चुकी थी। भीम उस छोटी, निश्चल देह के पास घुटनों के बल बैठ गए और कुछ बोल न सके। युधिष्ठिर ने अपना मुँह ढक लिया। यह ऐसा काम था जिसे देखने वाला कोई भी कभी क्षमा नहीं कर सकता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सातही जणांनी एकदम प्रहार केले. त्याच्या हातातील चाक चिरफळ्या होऊन उडाले. अभिमन्यू निःशस्त्र उभा राहिला, दिवसभराच्या लढाईचे रक्त अंगावर घेऊन, आणि तरीही तो ओरडला नाही.\n\nदुःशासनाच्या पुत्राने गदा उचलली आणि त्याच्यावर प्रहार केला. मुलगा धुळीच्या जमिनीवर कोसळला, त्याचा चेहरा आकाशाकडे वळलेला. क्षणापूर्वी गोंगाटाने भरलेले रणांगण शांत झाले. सूर्य निखाऱ्यासारखा लाल होऊन मावळत होता.\n\n“वडील,” अभिमन्यू कुजबुजला, आणि त्याला अर्जुनाची आठवण झाली. “माझ्या आईला सांगा की मी... पळालो नाही.”\n\nआणि त्याने डोळे मिटले.\n\nज्या कौरव योद्ध्यांनी त्याच्यावर प्रहार केले, तेही रडले. त्यांनी जल्लोष केला नाही. काहीतरी पवित्र तोडल्यासारखे ते त्याच्याभोवती उभे राहिले. त्यांच्यातले एक, द्रोण, यांनी मान झुकवून हळू म्हटले, “हे मूल कोणत्याही स्वर्गाला पात्र होते.”\n\nचक्राची द्वारे अखेर कोसळली. पांडव आत धावले, पण उशीर झाला होता. भीम त्या लहानशा निश्चल देहाशेजारी गुडघे टेकून बसला आणि बोलू शकला नाही. युधिष्ठिराने चेहरा झाकला. ज्यांनी ते पाहिले त्यांच्याकडून ते कधीही क्षमा केले जाणार नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Arjuna’s return",
+    "hi": {
+     "text": "अर्जुन का लौटना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाचे परत येणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "That evening, Arjuna came back from the far field, weary and happy, thinking of supper. But the camp was silent. No one met his eyes. No one called a greeting. The drums were silent. Even the horses hung their heads.\n\nKrishna’s face was grave. “Arjuna,” he said, “your son...”\n\nArjuna understood before he finished. He staggered. He fell to the ground and held his head. A cry came out of him that made the very birds fall silent. “My child! My child! I was not there!”\n\nFor a long time, he wept on the earth. Krishna sat beside him, his hand on his shoulder, not speaking. Subhadra’s grief and young Uttara’s, who was expecting a child, were more than he could bear to think of.\n\nAt last Arjuna rose. His face was like iron. “It was Jayadratha who closed the gate,” he said. “Before the sun sets tomorrow, I swear that I will kill him. And if I fail, I will enter fire myself.”\n\nHe raised Gandiva, and the whole camp heard him.",
+    "hi": {
+     "text": "उस शाम अर्जुन दूर मैदान से लौटा, थका हुआ पर प्रसन्न, भोजन के बारे में सोचता हुआ। पर शिविर शांत था। किसी ने उससे आँख नहीं मिलाई। किसी ने अभिवादन नहीं किया। नगाड़े चुप थे। घोड़ों ने भी सिर झुका रखे थे।\n\nकृष्ण का चेहरा गंभीर था। “अर्जुन,” उन्होंने कहा, “तुम्हारा पुत्र...”\n\nवाक्य पूरा होने से पहले ही अर्जुन समझ गया। वह लड़खड़ाया। वह भूमि पर गिर पड़ा और सिर थाम लिया। उसके भीतर से ऐसी चीख निकली कि पक्षी भी चुप हो गए। “मेरे बेटे! मेरे बेटे! मैं वहाँ नहीं था!”\n\nबहुत देर तक वह धरती पर पड़ा रोता रहा। कृष्ण उसके पास बैठे रहे, उसके कंधे पर हाथ रखे, कुछ बोले नहीं। सुभद्रा का शोक और नन्ही उत्तरा का, जो गर्भवती थी, उसके सोचने की सीमा से परे था।\n\nआख़िर अर्जुन उठा। उसका चेहरा लोहे जैसा हो गया था। “जयद्रथ ने द्वार रोका था,” उसने कहा। “कल सूर्यास्त से पहले मैं उसका वध करूँगा, यह मेरी शपथ है। और यदि मैं असफल रहा, तो मैं स्वयं अग्नि में प्रवेश कर जाऊँगा।”\n\nउसने गांडीव उठाया, और पूरे शिविर ने उसे सुना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या संध्याकाळी अर्जुन दूरच्या मैदानावरून थकून पण आनंदी होऊन परत आला, जेवणाचा विचार करीत. पण छावणी शांत होती. कुणीही त्याच्या डोळ्यांना डोळे भिडवले नाहीत. कुणीही स्वागताची हाक दिली नाही. नगारे शांत होते. घोडेसुद्धा मान खाली घालून उभे होते.\n\nश्रीकृष्णाचा चेहरा गंभीर होता. “अर्जुना,” ते म्हणाले, “तुझा पुत्र...”\n\nवाक्य संपण्यापूर्वीच अर्जुनाला कळले. तो डळमळला. तो जमिनीवर कोसळला आणि त्याने डोके धरले. त्याच्यातून असा आक्रोश उमटला की पक्षीसुद्धा गप्प झाले. “माझ्या बाळा! माझ्या बाळा! मी तिथे नव्हतो!”\n\nबराच वेळ तो भूमीवर रडत राहिला. श्रीकृष्ण त्याच्या शेजारी बसले, खांद्यावर हात ठेवून, काही न बोलता. सुभद्रेचे दुःख, आणि बाळाची आई होणाऱ्या कोवळ्या उत्तरेचे दुःख, यांचा विचारही त्याला सहन होत नव्हता.\n\nशेवटी अर्जुन उठला. त्याचा चेहरा लोखंडासारखा झाला होता. “जयद्रथाने द्वार बंद केले,” तो म्हणाला. “उद्या सूर्यास्ताच्या आत मी त्याला मारीन, अशी माझी शपथ आहे. आणि मी अयशस्वी झालो, तर मी स्वतः अग्नीत प्रवेश करीन.”\n\nत्याने गांडीव उंचावले, आणि सारी छावणी त्याला ऐकत होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Abhimanyu was young, but he stepped forward when he was needed. Is there something small and brave that you have been putting off? Today, take one step toward it, even if you do not know the whole way out.",
+  "hi": {
+   "text": "अभिमन्यु छोटा था, पर जब ज़रूरत पड़ी तो वह आगे बढ़ा। क्या कोई छोटा-सा साहस भरा काम है जिसे आप टालते आ रहे हैं? आज उसकी ओर एक कदम बढ़ाइए, भले ही आपको बाहर निकलने का पूरा रास्ता न मालूम हो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अभिमन्यू लहान होता, पण गरज पडली तेव्हा तो पुढे आला. तुम्ही पुढे ढकलत आहात असे एखादे लहान आणि धाडसी काम आहे का? आज त्याच्याकडे एक पाऊल टाका, पूर्ण बाहेर पडण्याचा मार्ग ठाऊक नसला तरी.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Courage is not knowing the whole path, but stepping forward for others anyway, and grief is the cost of love.",
+  "hi": {
+   "text": "साहस पूरा रास्ता जानना नहीं है, बल्कि दूसरों के लिए फिर भी आगे बढ़ना है, और शोक प्रेम का मूल्य है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धैर्य म्हणजे संपूर्ण मार्ग ठाऊक असणे नव्हे, तर तरीही इतरांसाठी पुढे पाऊल टाकणे, आणि दुःख ही प्रेमाची किंमत आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Drona Parva; the story that he learned the secret in the womb is a beloved later tradition",
+  "hi": {
+   "text": "महाभारत, द्रोण पर्व; गर्भ में रहस्य सीखने की कथा एक प्रिय परवर्ती परंपरा है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, द्रोण पर्व; गर्भातच रहस्य शिकल्याची कथा ही नंतरची प्रिय परंपरा आहे",
+   "reviewed": false
+  }
+ }
+}

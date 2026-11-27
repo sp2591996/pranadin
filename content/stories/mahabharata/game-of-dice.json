@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "game-of-dice",
+ "order": 12,
+ "part": "sabha",
+ "figure": {
+  "en": "Shakuni and Yudhishthira",
+  "hi": {
+   "text": "शकुनि और युधिष्ठिर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शकुनी आणि युधिष्ठिर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The dice that were never fair",
+  "hi": {
+   "text": "वे पासे, जो कभी निष्पक्ष नहीं थे",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कधीही प्रामाणिक नसलेले फासे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A king who has never lost a battle sits down to a game he cannot refuse. Across from him is a man whose dice always fall exactly as he wishes.",
+  "hi": {
+   "text": "जो राजा कभी कोई युद्ध नहीं हारा, वह एक ऐसा खेल खेलने बैठता है जिसे वह मना नहीं कर सकता। सामने वह पुरुष है जिसके पासे सदा वैसे ही गिरते हैं जैसा वह चाहता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एकही लढाई न हरलेला राजा असा डाव खेळायला बसतो जो तो नाकारू शकत नाही. समोर एक असा माणूस आहे ज्याचे फासे नेहमी त्याला हवे तसेच पडतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/gandharis-grief-1.webp",
+   "w": 1080,
+   "h": 777,
+   "caption": {
+    "en": "Vidura counsels the blind King Dhritarashtra (Pahari painting by Purkhu)",
+    "hi": {
+     "text": "विदुर अंधे राजा धृतराष्ट्र को सलाह देते हैं (पुरखू का पहाड़ी चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विदुर अंध राजा धृतराष्ट्राला सल्ला देतात (पुरखूचे पहाडी चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Purkhu, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vidura_confers_with_Dhritarashtra.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A plan with dice",
+    "hi": {
+     "text": "पासों की योजना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फाशांचा बेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shakuni, the prince of Gandhara, was shrewd, soft-spoken and patient. He had never forgiven the Kurus for what he saw as an old insult to his family, and he saw now the perfect way to hurt them.\n\n“Nephew,” he told Duryodhana, “you cannot defeat the Pandavas in battle. But Yudhishthira loves dice, and he is no good at them. I am the best player in the world, and my dice obey me. Invite him to a friendly game. I will win his kingdom for you, and no blood will be shed.”\n\nDuryodhana, bursting with relief, ran to his father.\n\nDhritarashtra loved his son too much to refuse him anything. Vidura came and warned him: “Your Majesty, this is the root of a great quarrel. Do not do it.” The king hesitated, his hand trembling. But when Duryodhana wept and said he would die rather than watch his cousins’ glory, the old king gave in. “Build a hall,” he said, “and send for them.”",
+    "hi": {
+     "text": "गांधार का राजकुमार शकुनि चतुर, मधुरभाषी और धैर्यवान था। उसने कुरुओं को उस पुराने अपमान के लिए कभी क्षमा नहीं किया था जो उसे अपने परिवार के प्रति लगता था, और अब उसे उन्हें चोट पहुँचाने का सही उपाय दिखा।\n\n“भांजे,” उसने दुर्योधन से कहा, “तुम पांडवों को युद्ध में नहीं हरा सकते। पर युधिष्ठिर को पासे प्रिय हैं, और वह उनमें अच्छा नहीं है। मैं संसार का सबसे अच्छा खिलाड़ी हूँ, और मेरे पासे मेरी आज्ञा मानते हैं। उसे मित्रता के खेल का निमंत्रण दो। मैं उसका राज्य तुम्हारे लिए जीत लूँगा, और रक्त की एक बूँद नहीं बहेगी।”\n\nदुर्योधन, राहत से भरा, भागकर अपने पिता के पास गया।\n\nधृतराष्ट्र अपने पुत्र से इतना प्रेम करते थे कि उसे कुछ भी मना न कर पाते। विदुर आए और उन्हें चेताया: “महाराज, यह बड़े झगड़े की जड़ है। ऐसा न कीजिए।” राजा हिचके, उनका हाथ काँप रहा था। पर जब दुर्योधन रो पड़ा और बोला कि वह भाइयों का वैभव देखने से अच्छा मर जाना समझता है, तो बूढ़े राजा झुक गए। “एक सभा बनवाओ,” उन्होंने कहा, “और उन्हें बुलाओ।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गांधारचा राजकुमार शकुनी चतुर, मृदुभाषी आणि संयमी होता. आपल्या कुळाचा झालेला जुना अपमान असे तो मानत असे, ते त्याने कुरूंना कधीच माफ केले नव्हते, आणि आता त्याला त्यांना दुखावण्याचा अचूक मार्ग दिसला.\n\n“पुतण्या,” तो दुर्योधनाला म्हणाला, “तू पांडवांना युद्धात हरवू शकत नाहीस. पण युधिष्ठिराला फासे आवडतात, आणि तो त्यात चांगला नाही. मी जगातला सर्वोत्तम खेळाडू आहे, आणि माझे फासे माझे ऐकतात. त्याला मैत्रीपूर्ण खेळासाठी बोलाव. मी तुझ्यासाठी त्याचे राज्य जिंकेन, आणि रक्त सांडणार नाही.”\n\nआनंदाने भरून आलेला दुर्योधन वडिलांकडे धावला.\n\nधृतराष्ट्राचे आपल्या पुत्रावर इतके प्रेम होते की तो त्याला काहीही नाकारू शकत नव्हता. विदुर आला आणि त्याने इशारा दिला: “महाराज, हे मोठ्या कलहाचे मूळ आहे. हे करू नका.” राजा द्विधा झाला, त्याचा हात थरथरला. पण दुर्योधन रडला आणि म्हणाला की चुलत भावांचे वैभव पाहण्यापेक्षा मी मरेन, तेव्हा वृद्ध राजाने नमते घेतले. “सभागृह बांधा,” तो म्हणाला, “आणि त्यांना बोलावणे पाठवा.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The invitation",
+    "hi": {
+     "text": "निमंत्रण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आमंत्रण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A magnificent hall was built in Hastinapura, with a thousand pillars and golden seats. Dhritarashtra sent Vidura to Indraprastha to invite the Pandavas to a friendly game of dice.\n\nVidura did not want to go, but he could not disobey. When he gave the message, Yudhishthira looked troubled. “The dice cause quarrels,” he said. “They are not good for anyone. But the king has asked, and a challenge to a game cannot be turned down by a man who follows the code of the warrior. How can I refuse my uncle?”\n\nHe was the most truthful of men, and he did not suspect that anyone close to him would lie. His brothers were uneasy. Draupadi’s eyes were dark. But they went, bowing to the elders. Behind them, the glittering city of Indraprastha shimmered in the sun, and its king was walking toward the one trap that all his wisdom could not see.",
+    "hi": {
+     "text": "हस्तिनापुर में एक भव्य सभा बनी, हज़ार खंभों और सुनहरे आसनों वाली। धृतराष्ट्र ने विदुर को इंद्रप्रस्थ भेजा कि पांडवों को मित्रता के पासों के खेल का निमंत्रण दें।\n\nविदुर जाना नहीं चाहते थे, पर अवज्ञा भी नहीं कर सकते थे। जब उन्होंने संदेश दिया, तो युधिष्ठिर चिंतित दिखे। “पासे झगड़े कराते हैं,” उन्होंने कहा। “वे किसी के लिए अच्छे नहीं हैं। पर राजा ने बुलाया है, और खेल की चुनौती को क्षत्रिय धर्म मानने वाला पुरुष नहीं ठुकरा सकता। मैं अपने चाचा को कैसे मना करूँ?”\n\nवे सबसे सत्यवादी पुरुष थे, और उन्हें संदेह नहीं था कि कोई अपना उनसे छल करेगा। उनके भाई बेचैन थे। द्रौपदी की आँखें गहरी थीं। पर वे गए, बड़ों को प्रणाम करते हुए। उनके पीछे इंद्रप्रस्थ का जगमगाता नगर धूप में झिलमिला रहा था, और उसका राजा उस एक जाल की ओर चल रहा था जिसे उसकी सारी बुद्धि देख न सकी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हस्तिनापुरात हजार खांबांचे आणि सोनेरी आसनांचे एक भव्य सभागृह बांधले गेले. धृतराष्ट्राने विदुराला इंद्रप्रस्थाला पाठवले, पांडवांना मैत्रीपूर्ण फाशांच्या खेळाचे आमंत्रण द्यायला.\n\nविदुराला जायची इच्छा नव्हती, पण तो आज्ञा मोडू शकत नव्हता. त्याने निरोप दिला तेव्हा युधिष्ठिर चिंतेत दिसला. “फासे भांडणे लावतात,” तो म्हणाला. “ते कोणासाठीही चांगले नाहीत. पण राजाने बोलावले आहे, आणि क्षत्रियधर्म पाळणारा माणूस खेळाचे आव्हान नाकारू शकत नाही. मी माझ्या काकांना नाही कसे म्हणू?”\n\nतो माणसांत सर्वात सत्यवादी होता, आणि आपल्या जवळचा कोणी खोटे बोलेल असा त्याला संशयही आला नाही. त्याचे भाऊ अस्वस्थ होते. द्रौपदीचे डोळे गडद झाले होते. पण वडीलधाऱ्यांना नमस्कार करून ते गेले. त्यांच्या मागे इंद्रप्रस्थाचे चमचमते नगर उन्हात चकाकत होते, आणि त्याचा राजा त्या एकाच सापळ्याकडे चालला होता जो त्याच्या सर्व शहाणपणाला दिसला नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The hall of dice",
+    "hi": {
+     "text": "पासों की सभा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फाशांचे सभागृह",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The court of Hastinapura was filled. Bhishma, Drona, Kripa and Vidura sat with sorrowful faces. Dhritarashtra sat on his throne, listening. Gandhari was not there. The Pandavas entered and took their seats.\n\nShakuni sat across from Yudhishthira, with the dice in his long fingers and a soft smile on his face. He rattled them gently, and the sound echoed in the silent hall like a quiet threat.\n\n“Shall we begin, O king?” Shakuni asked.\n\nYudhishthira said, “It is not right to play with tricks. Let us play honestly.”\n\n“Are you afraid, Yudhishthira?” said Shakuni lightly. “Does the great king think he will lose?”\n\nThe words stung. Yudhishthira, who would never refuse a challenge, answered, “I am not afraid.” And so the game began.\n\nDuryodhana put up his stake. Yudhishthira put up his. Shakuni threw. The dice fell, and the number was exactly what he had called. Shakuni smiled. Vidura covered his face with his hands. Somewhere beyond the walls a crow cried out, and the old men of the court felt a cold wind move across their hearts, though no one yet dared to say what they feared.",
+    "hi": {
+     "text": "हस्तिनापुर का दरबार भरा हुआ था। भीष्म, द्रोण, कृपाचार्य और विदुर उदास मुखों के साथ बैठे थे। धृतराष्ट्र सिंहासन पर बैठे सुन रहे थे। गांधारी वहाँ नहीं थी। पांडव भीतर आए और अपने आसनों पर बैठ गए।\n\nशकुनि युधिष्ठिर के सामने बैठा, अपनी लंबी उँगलियों में पासे लिए और होंठों पर कोमल मुस्कान सजाए। उसने उन्हें धीरे से खनकाया, और ध्वनि सन्नाटे भरी सभा में एक शांत धमकी की तरह गूँजी।\n\n“शुरू करें, राजन्?” शकुनि ने पूछा।\n\nयुधिष्ठिर ने कहा, “छल से खेलना उचित नहीं। ईमानदारी से खेलें।”\n\n“क्या आपको डर लग रहा है, युधिष्ठिर?” शकुनि ने हलके से कहा। “क्या महान राजा को लगता है कि वह हार जाएगा?”\n\nशब्द चुभ गए। युधिष्ठिर, जो कभी चुनौती नहीं ठुकराते थे, ने कहा, “मुझे डर नहीं है।” और खेल शुरू हो गया।\n\nदुर्योधन ने अपना दाँव रखा। युधिष्ठिर ने अपना। शकुनि ने पासे फेंके। पासे गिरे, और अंक ठीक वही था जो उसने पुकारा था। शकुनि मुस्कुराया। विदुर ने हाथों से मुँह ढक लिया। दीवारों के पार कहीं एक कौआ चीखा, और सभा के बूढ़ों को हृदय में ठंडी हवा सरकती लगी, यद्यपि किसी में यह कहने का साहस न था कि उन्हें किस बात का भय है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हस्तिनापूरचा दरबार भरला होता. भीष्म, द्रोण, कृप आणि विदुर दुःखी चेहऱ्यांनी बसले होते. धृतराष्ट्र सिंहासनावर बसून ऐकत होता. गांधारी तिथे नव्हती. पांडवांनी प्रवेश केला आणि आपापली आसने घेतली.\n\nशकुनी युधिष्ठिराच्या समोर बसला, त्याच्या लांब बोटांमध्ये फासे आणि चेहऱ्यावर मृदू हास्य घेऊन. त्याने ते हळूच खुळखुळवले, आणि त्या शांत सभागृहात त्याचा आवाज एखाद्या शांत धमकीसारखा घुमला.\n\n“सुरू करायचे का, राजा?” शकुनीने विचारले.\n\nयुधिष्ठिर म्हणाला, “कपटाने खेळणे योग्य नाही. आपण प्रामाणिकपणे खेळू.”\n\n“तुला भीती वाटते का, युधिष्ठिरा?” शकुनी हलक्या आवाजात म्हणाला. “महान राजाला वाटते का की तो हरेल?”\n\nशब्द टोचले. आव्हान कधीही न नाकारणारा युधिष्ठिर म्हणाला, “मला भीती वाटत नाही.” आणि खेळ सुरू झाला.\n\nदुर्योधनाने आपला डाव लावला. युधिष्ठिराने आपला लावला. शकुनीने फासे टाकले. फासे पडले, आणि अंक अगदी त्याने सांगितल्याप्रमाणेच होता. शकुनी हसला. विदुराने हातांनी चेहरा झाकला. भिंतींच्या पलीकडे कुठेतरी एक कावळा ओरडला, आणि दरबारातील वृद्धांना आपल्या हृदयांतून थंड वारा गेल्यासारखे वाटले, जरी त्यांना कशाची भीती वाटते ते सांगण्याचे धाडस अजून कोणीच केले नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The first losses",
+    "hi": {
+     "text": "पहली हारें",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहिले नुकसान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Round by round, the dice turned against Yudhishthira. First he lost his pearls, and then his gold. The hall murmured. He staked his chariot and horses, his army and his elephants, and lost. Shakuni’s throw was always perfect, and he never seemed to be surprised.\n\nVidura rose and cried, “Stop this, my lord! This is madness!” But Dhritarashtra only asked, in a hungry voice, “What has been won?”\n\nYudhishthira had entered a state he could not escape. A gambler who is losing wants to win it back with the next throw. He staked his treasury. He staked his city of Indraprastha with all its palaces, and lost it. His villages and his lands, his servants, his people, all went.\n\nBhima’s fists were tight. Arjuna’s bow lay at his side. But the brothers were bound by their elder’s word, and sat in silence, their faces dark, watching the whole empire go down the river.",
+    "hi": {
+     "text": "एक के बाद एक चाल में पासे युधिष्ठिर के विरुद्ध पलटते गए। पहले उन्होंने अपने मोती हारे, फिर सोना। सभा में गुनगुनाहट हुई। उन्होंने अपना रथ और घोड़े, अपनी सेना और हाथी दाँव पर लगाए, और हार गए। शकुनि की चाल सदा सटीक होती, और वह कभी चकित नहीं लगता।\n\nविदुर उठे और चिल्लाए, “बंद कीजिए यह, स्वामी! यह पागलपन है!” पर धृतराष्ट्र ने बस भूखे स्वर में पूछा, “क्या जीता गया?”\n\nयुधिष्ठिर एक ऐसी अवस्था में पहुँच गए थे जिससे निकलना असंभव था। हारता हुआ जुआरी अगली चाल से सब वापस जीत लेना चाहता है। उन्होंने अपना कोष दाँव पर रखा। उन्होंने अपना इंद्रप्रस्थ नगर, अपने सब महलों सहित, दाँव पर रखा, और हार गए। उनके गाँव और उनकी भूमि, उनके सेवक, उनकी प्रजा, सब चले गए।\n\nभीम की मुट्ठियाँ कसी थीं। अर्जुन का धनुष उसके पास पड़ा था। पर भाई अपने बड़े भाई के वचन से बँधे थे, और चुपचाप बैठे रहे, मुख काले, पूरे साम्राज्य को नदी में बहता देखते हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "डावामागून डाव, फासे युधिष्ठिराच्या विरुद्ध फिरले. आधी त्याने आपले मोती गमावले, आणि मग सोने. सभा कुजबुजली. त्याने आपला रथ आणि घोडे, आपले सैन्य आणि हत्ती पणाला लावले, आणि हरला. शकुनीचा फास नेहमी अचूक पडे, आणि त्याला कधी आश्चर्य वाटलेले दिसले नाही.\n\nविदुर उठला आणि ओरडला, “हे थांबवा, महाराज! हे वेडेपण आहे!” पण धृतराष्ट्राने भुकेल्या आवाजात फक्त विचारले, “काय जिंकले गेले?”\n\nयुधिष्ठिर अशा अवस्थेत पोहोचला होता ज्यातून तो सुटू शकत नव्हता. हरणाऱ्या जुगाऱ्याला पुढच्या फाशाने सारे परत जिंकायचे असते. त्याने आपला खजिना पणाला लावला. त्याने आपले इंद्रप्रस्थ नगर, त्याच्या सर्व महालांसह, पणाला लावले आणि ते गमावले. त्याची गावे आणि जमीन, त्याचे सेवक, त्याचे लोक, सर्व गेले.\n\nभीमाच्या मुठी आवळल्या होत्या. अर्जुनाचे धनुष्य त्याच्या शेजारी पडले होते. पण भाऊ आपल्या ज्येष्ठ भावाच्या शब्दाने बांधलेले होते, आणि चेहरे काळवंडून ते शांतपणे बसले, संपूर्ण साम्राज्य नदीतून वाहून जाताना पाहत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Brothers and self",
+    "hi": {
+     "text": "भाई और स्वयं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भाऊ आणि स्वतः",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Is there nothing left to stake?” said Shakuni sweetly.\n\nYudhishthira’s hands shook. “I have brothers,” he said hoarsely.\n\n“Your brother Nakula? Stake him, and perhaps your fortune will turn.”\n\nHe staked Nakula, and lost. Then Sahadeva. Then Arjuna, the finest bow in the world, whom he had loved like his own heart. Then Bhima. Each time Shakuni threw and called out, “Won!” Each time the Pandavas looked at their eldest brother, and said nothing.\n\nWhat could they say? A man’s word was his dharma. They bowed their heads.\n\n“You still have yourself,” said Shakuni quietly. “Stake yourself. If you win, you will win back everything.”\n\nYudhishthira, whose face had turned the colour of ash, staked himself. The dice rolled. Shakuni threw. He won. The five Pandavas were now slaves of Duryodhana. The hall was so quiet that a falling leaf could be heard. The brothers did not look at one another. Bhima’s breath came heavy and slow, like a bull being held back, and Draupadi’s name had not yet been spoken, though it was already waiting at the edge of everyone’s mind.",
+    "hi": {
+     "text": "“क्या दाँव पर रखने को कुछ नहीं बचा?” शकुनि ने मीठे स्वर में कहा।\n\nयुधिष्ठिर के हाथ काँपे। “मेरे भाई हैं,” उन्होंने भर्राए स्वर में कहा।\n\n“आपका भाई नकुल? उसे लगाइए, शायद भाग्य पलट जाए।”\n\nउन्होंने नकुल को दाँव पर रखा, और हार गए। फिर सहदेव को। फिर अर्जुन को, संसार के सबसे श्रेष्ठ धनुर्धर को, जिसे उन्होंने अपने हृदय की तरह चाहा था। फिर भीम को। हर बार शकुनि पासा फेंकता और पुकारता, “जीता!” हर बार पांडव अपने बड़े भाई की ओर देखते, और कुछ न कहते।\n\nवे क्या कह सकते थे? मनुष्य का वचन ही उसका धर्म था। उन्होंने सिर झुका लिए।\n\n“आपके पास अब भी आप स्वयं हैं,” शकुनि ने धीरे से कहा। “स्वयं को दाँव पर लगाइए। जीत गए तो सब वापस जीत लेंगे।”\n\nयुधिष्ठिर ने, जिनका मुख राख के रंग का हो चुका था, स्वयं को दाँव पर रखा। पासे लुढ़के। शकुनि ने फेंके। वह जीत गया। पाँचों पांडव अब दुर्योधन के दास थे। सभा इतनी शांत थी कि गिरते पत्ते की आवाज़ सुनाई दे। भाइयों ने एक-दूसरे को नहीं देखा। भीम की साँस भारी और धीमी चल रही थी, रोके गए बैल जैसी, और द्रौपदी का नाम अभी बोला नहीं गया था, यद्यपि वह सबके मन के किनारे पर पहले से प्रतीक्षा कर रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“पणाला लावायला काही उरले नाही का?” शकुनी गोड आवाजात म्हणाला.\n\nयुधिष्ठिराचे हात थरथरले. “मला भाऊ आहेत,” तो घोगऱ्या आवाजात म्हणाला.\n\n“तुझा भाऊ नकुल? त्याला पणाला लाव, कदाचित तुझे नशीब पालटेल.”\n\nत्याने नकुलाला पणाला लावले, आणि हरला. मग सहदेवाला. मग अर्जुनाला, जगातल्या सर्वोत्तम धनुर्धराला, ज्याच्यावर त्याने स्वतःच्या हृदयासारखे प्रेम केले होते. मग भीमाला. प्रत्येक वेळी शकुनीने फासे टाकले आणि “जिंकलो!” असे ओरडला. प्रत्येक वेळी पांडवांनी आपल्या ज्येष्ठ भावाकडे पाहिले, आणि काही बोलले नाहीत.\n\nते काय बोलणार? माणसाचा शब्द हाच त्याचा धर्म होता. त्यांनी माना खाली घातल्या.\n\n“तुझ्याकडे अजून तू स्वतः आहेस,” शकुनी शांतपणे म्हणाला. “स्वतःला पणाला लाव. तू जिंकलास, तर सर्व काही परत जिंकशील.”\n\nज्याचा चेहरा राखेच्या रंगाचा झाला होता त्या युधिष्ठिराने स्वतःला पणाला लावले. फासे फिरले. शकुनीने टाकले. तो जिंकला. पाचही पांडव आता दुर्योधनाचे दास झाले होते. सभा इतकी शांत होती की पडणाऱ्या पानाचाही आवाज ऐकू आला असता. भाऊ एकमेकांकडे पाहिले नाहीत. भीमाचा श्वास जड आणि संथ चालत होता, रोखून धरलेल्या बैलासारखा, आणि द्रौपदीचे नाव अजून उच्चारले गेले नव्हते, तरी ते आधीच सर्वांच्या मनाच्या कडेवर वाट पाहत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "One more stake",
+    "hi": {
+     "text": "एक और दाँव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आणखी एक डाव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shakuni leaned forward. He had saved the cruelest stroke for last.\n\n“You have lost everything, Yudhishthira,” he said. “But there is still one thing. You have a wife. Draupadi, daughter of Drupada. Stake her, and you may yet win it all back.”\n\nThere was a gasp. Vidura clutched his head. Bhishma closed his eyes. Drona, Kripa and the elders stared at the floor. Some of the younger Kauravas leaned in. Karna looked grim and still.\n\nYudhishthira’s lips trembled. He did not look up. He had lost himself, and now this gamble, the lowest of all, hung in the air. In a voice barely audible, he said, “I stake Draupadi.”\n\nShakuni threw. The dice fell. A cry of “Won!” rose from Duryodhana’s side, and the whole court fell into a terrible hush. In that silence, a question was beginning to rise that no one in the hall could answer. Somewhere in the palace, a lamp flickered and went out, and no servant came to light it again.",
+    "hi": {
+     "text": "शकुनि आगे झुका। उसने सबसे क्रूर वार अंत के लिए बचा रखा था।\n\n“आप सब कुछ हार चुके हैं, युधिष्ठिर,” उसने कहा। “पर एक चीज़ अब भी है। आपकी एक पत्नी है। द्रुपद की पुत्री द्रौपदी। उसे दाँव पर लगाइए, और शायद आप सब कुछ वापस जीत लें।”\n\nसभा में सिसकारी भर गई। विदुर ने सिर पकड़ लिया। भीष्म ने आँखें मूँद लीं। द्रोण, कृपाचार्य और बड़े-बूढ़े फ़र्श को ताकते रहे। कुछ छोटे कौरव आगे झुक आए। कर्ण कठोर और स्थिर दिखा।\n\nयुधिष्ठिर के होंठ काँपे। उन्होंने ऊपर नहीं देखा। वे स्वयं को हार चुके थे, और अब यह दाँव, सबसे नीच, हवा में लटका था। बमुश्किल सुनाई देने वाली आवाज़ में उन्होंने कहा, “मैं द्रौपदी को दाँव पर रखता हूँ।”\n\nशकुनि ने पासे फेंके। वे गिरे। दुर्योधन की ओर से “जीता!” की पुकार उठी, और पूरा दरबार भयानक सन्नाटे में डूब गया। उसी सन्नाटे में एक प्रश्न उठने लगा था जिसका उत्तर सभा में किसी के पास नहीं था। महल में कहीं एक दीपक टिमटिमाया और बुझ गया, और उसे फिर जलाने कोई सेवक नहीं आया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शकुनी पुढे झुकला. त्याने सर्वात क्रूर प्रहार शेवटासाठी राखून ठेवला होता.\n\n“तू सर्व काही गमावले आहेस, युधिष्ठिरा,” तो म्हणाला. “पण अजून एक गोष्ट आहे. तुझी पत्नी आहे. द्रुपदकन्या द्रौपदी. तिला पणाला लाव, आणि तू अजूनही सर्व काही परत जिंकू शकशील.”\n\nसर्वांनी श्वास रोखला. विदुराने डोके धरले. भीष्मांनी डोळे मिटले. द्रोण, कृप आणि वडीलधारे जमिनीकडे पाहत राहिले. काही तरुण कौरव पुढे झुकले. कर्ण कठोर आणि स्तब्ध दिसला.\n\nयुधिष्ठिराचे ओठ थरथरले. त्याने वर पाहिले नाही. त्याने स्वतःला गमावले होते, आणि आता हा डाव, सर्वांत हीन, हवेत लटकला होता. जेमतेम ऐकू येईल अशा आवाजात तो म्हणाला, “मी द्रौपदीला पणाला लावतो.”\n\nशकुनीने फासे टाकले. फासे पडले. दुर्योधनाच्या बाजूने “जिंकलो!” असा गजर उठला, आणि संपूर्ण दरबार भयानक शांततेत बुडाला. त्या शांततेत एक प्रश्न उमलू लागला होता ज्याचे उत्तर त्या सभागृहात कोणीच देऊ शकत नव्हते. राजवाड्यात कुठेतरी एक दिवा फडफडला आणि विझला, आणि तो पुन्हा पेटवायला कोणीही सेवक आला नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Yudhishthira kept raising the stakes because he could not stop. What habit do you keep feeding because you cannot stop? Today, choose one small place to say “enough” and mean it.",
+  "hi": {
+   "text": "युधिष्ठिर दाँव बढ़ाते गए क्योंकि वे रुक नहीं पाए। आप कौन-सी आदत को खिलाते रहते हैं क्योंकि रुक नहीं पाते? आज कोई एक छोटी जगह चुनिए जहाँ आप “बस, अब बहुत” कहें और सचमुच उसे निभाएँ।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "थांबता आले नाही म्हणून युधिष्ठिर पण वाढवत राहिला. कोणती सवय तुम्ही थांबता येत नाही म्हणून पोसत राहता? आज एका छोट्या ठिकाणी “पुरे” म्हणण्याचे ठरवा आणि ते मनापासून म्हणा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A single weakness, left unwatched, can undo a lifetime of virtue; wise people know where to stop.",
+  "hi": {
+   "text": "एक अकेली कमज़ोरी, यदि अनदेखी रह जाए, जीवन भर के पुण्य को मिटा सकती है; बुद्धिमान जानते हैं कि कहाँ रुकना है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक दुर्बलता, लक्ष न दिल्यास, आयुष्यभराच्या सद्गुणांवर पाणी फिरवू शकते; शहाणी माणसे कुठे थांबायचे ते जाणतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Sabha Parva (Dyuta Parva)",
+  "hi": {
+   "text": "महाभारत, सभा पर्व (द्यूत पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, सभापर्व (द्यूतपर्व)",
+   "reviewed": false
+  }
+ }
+}

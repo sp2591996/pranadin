@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "draupadis-question",
+ "order": 13,
+ "part": "sabha",
+ "figure": {
+  "en": "Draupadi",
+  "hi": {
+   "text": "द्रौपदी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "द्रौपदी",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The question that no one could answer",
+  "hi": {
+   "text": "वह प्रश्न, जिसका उत्तर कोई न दे सका",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याचे उत्तर कोणालाच देता आले नाही असा प्रश्न",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A queen dragged into a silent hall asks one simple question about right and wrong. The wisest men in the kingdom lower their eyes.",
+  "hi": {
+   "text": "भरी चुप सभा में घसीटकर लाई गई एक रानी सही और गलत पर एक सीधा-सा प्रश्न पूछती है। राज्य के सबसे बुद्धिमान लोग आँखें झुका लेते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शांत सभेत ओढून आणलेली एक राणी योग्य आणि अयोग्य याविषयी एक साधा प्रश्न विचारते. राज्यातील सर्वात ज्ञानी माणसे डोळे खाली घालतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/game-of-dice-1.webp",
+   "w": 960,
+   "h": 727,
+   "caption": {
+    "en": "Draupadi is dragged before the dice game (Chitrashala Press print)",
+    "hi": {
+     "text": "द्यूत-सभा में द्रौपदी को घसीटकर लाया जाता है (चित्रशाला प्रेस चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्यूतसभेत द्रौपदीला ओढून आणले जाते (चित्रशाळा प्रेस चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Printed by Chore Bagan Art Studio, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Draupadi_s_presented_to_a_pachisi_game.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Dragged into the court",
+    "hi": {
+     "text": "सभा में घसीटी गई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दरबारात ओढून आणले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Duryodhana turned to the court’s messenger. “Go and bring Draupadi. Tell her she is now our servant and must sweep our halls.”\n\nThe messenger found the queen in her chambers. She heard him out and said, “Go back and ask the king one thing: did he lose himself first, or me?”\n\nThe messenger returned. Duryodhana flushed with anger, and sent his brother Dushasana. Dushasana strode to the women’s rooms, seized Draupadi by the hair, and dragged her through the corridors. She was dressed in a single cloth, as was the custom at that time of the month. “Let me go,” she said, “I am not fit to be seen by men.” He laughed.\n\nShe was pulled into the great hall in front of kings, elders and warriors. Bhima’s face went red with rage, but Yudhishthira put out a hand. The queen stood with her hair loose, her eyes burning, and looked at the faces of the greatest men in the land. None would meet her gaze.",
+    "hi": {
+     "text": "दुर्योधन ने सभा के दूत से कहा। “जाओ और द्रौपदी को ले आओ। उससे कहो कि अब वह हमारी दासी है और हमारे महल बुहारेगी।”\n\nदूत ने रानी को उसके कक्ष में पाया। उसने उसकी बात सुनी और कहा, “लौटकर राजा से एक बात पूछो: उन्होंने पहले स्वयं को हारा था, या मुझे?”\n\nदूत लौट आया। दुर्योधन क्रोध से लाल हो गया, और उसने अपने भाई दुःशासन को भेजा। दुःशासन स्त्रियों के कक्ष में घुसा, द्रौपदी के बाल पकड़े और उसे गलियारों में घसीटता ले चला। उसने एक ही वस्त्र पहन रखा था, जैसी उस समय की रीति थी। “मुझे छोड़ दो,” उसने कहा, “मैं पुरुषों के सामने आने योग्य नहीं हूँ।” वह हँसा।\n\nउसे विशाल सभा में राजाओं, बड़ों और योद्धाओं के सामने खींचकर लाया गया। भीम का मुख क्रोध से लाल हो गया, पर युधिष्ठिर ने हाथ आगे कर दिया। रानी खुले बालों और जलती आँखों के साथ खड़ी रही, और देश के सबसे महान पुरुषों के चेहरों को देखती रही। किसी ने उसकी दृष्टि का सामना नहीं किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुर्योधन दरबाराच्या दूताकडे वळला. “जा आणि द्रौपदीला घेऊन ये. तिला सांग की ती आता आमची दासी आहे आणि तिने आमची दालने झाडली पाहिजेत.”\n\nदूताला राणी आपल्या महालात सापडली. तिने त्याचे ऐकून घेतले आणि म्हणाली, “परत जा आणि राजांना एक गोष्ट विचार: त्यांनी आधी स्वतःला हरवले की मला?”\n\nदूत परतला. दुर्योधन रागाने लाल झाला, आणि त्याने आपला भाऊ दुःशासन याला पाठवले. दुःशासन झपाझप स्त्रियांच्या महालात गेला, त्याने द्रौपदीचे केस धरले, आणि तिला मार्गिकांतून ओढत नेले. महिन्याच्या त्या दिवसांच्या रीतीप्रमाणे ती एकाच वस्त्रात होती. “मला सोड,” ती म्हणाली, “मी पुरुषांसमोर यायला योग्य नाही.” तो हसला.\n\nराजे, वडीलधारे आणि योद्धे यांच्यासमोर तिला महान सभागृहात ओढून आणले गेले. भीमाचा चेहरा रागाने लाल झाला, पण युधिष्ठिराने हात पुढे केला. राणी मोकळ्या केसांनी, पेटलेल्या डोळ्यांनी उभी राहिली, आणि देशातील सर्वश्रेष्ठ माणसांचे चेहरे पाहू लागली. कोणीही तिची नजर झेलू शकला नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The question",
+    "hi": {
+     "text": "प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Draupadi’s voice rang like a bell in the silent hall.\n\n“I have a question,” she said, “for the elders of the Kuru house. Did my husband stake himself first and lose, and only then stake me? Or did he stake me first? If he had already lost himself, whose was he to stake me? A slave cannot give away what is not his.”\n\nThe hall was still. Bhishma stirred. He was the oldest and the wisest, and he had sworn to protect the Kuru honour.\n\n“Daughter,” he said slowly, “the way of dharma is very fine and subtle. I cannot answer. A man who has lost himself may not own anything. But a wife is bound to her husband’s word. And Yudhishthira is the most truthful of men.” He bowed his head.\n\nDrona said nothing. Kripa said nothing. Vidura cried out in anguish, but no one listened. The question hung in the air like smoke, and the greatest men of the kingdom looked away.",
+    "hi": {
+     "text": "द्रौपदी की वाणी चुप सभा में घंटी की तरह गूँजी।\n\n“मेरा एक प्रश्न है,” उसने कहा, “कुरुकुल के बड़ों से। क्या मेरे पति ने पहले स्वयं को दाँव पर लगाया और हारे, और तब मुझे लगाया? या उन्होंने पहले मुझे लगाया? यदि वे स्वयं को हार चुके थे, तो मुझे दाँव पर लगाने का अधिकार किसे था? दास उसे नहीं दे सकता जो उसका है ही नहीं।”\n\nसभा शांत थी। भीष्म हिले। वे सबसे वृद्ध और सबसे बुद्धिमान थे, और उन्होंने कुरुओं की मर्यादा की रक्षा की शपथ ली थी।\n\n“बेटी,” उन्होंने धीरे से कहा, “धर्म का मार्ग बहुत महीन और सूक्ष्म है। मैं उत्तर नहीं दे सकता। जो स्वयं को हार चुका है, वह कुछ नहीं रख सकता। पर पत्नी अपने पति के वचन से बँधी होती है। और युधिष्ठिर सबसे सत्यवादी पुरुष हैं।” उन्होंने सिर झुका लिया।\n\nद्रोण कुछ नहीं बोले। कृपाचार्य कुछ नहीं बोले। विदुर पीड़ा से चीख उठे, पर किसी ने नहीं सुना। प्रश्न धुएँ की तरह हवा में लटका रहा, और राज्य के सबसे महान पुरुष आँखें फेरते रहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदीचा आवाज त्या शांत सभागृहात घंटेसारखा घुमला.\n\n“मला एक प्रश्न आहे,” ती म्हणाली, “कुरू घराण्याच्या वडीलधाऱ्यांना. माझ्या पतींनी आधी स्वतःला पणाला लावले आणि हरले, आणि मग मला पणाला लावले का? की त्यांनी मला आधी पणाला लावले? त्यांनी स्वतःला आधीच हरले असेल, तर मला पणाला लावण्याचा त्यांना अधिकार कोणता होता? दास जे आपले नाही ते देऊ शकत नाही.”\n\nसभागृह स्तब्ध होते. भीष्म हलले. ते सर्वात वृद्ध आणि सर्वात ज्ञानी होते, आणि कुरूंच्या सन्मानाचे रक्षण करण्याची त्यांनी शपथ घेतली होती.\n\n“मुली,” ते हळू म्हणाले, “धर्माचा मार्ग अतिशय सूक्ष्म आणि बारीक आहे. मी उत्तर देऊ शकत नाही. जो माणूस स्वतःला हरला आहे तो कशाचाही मालक नसतो. पण पत्नी आपल्या पतीच्या शब्दाने बांधलेली असते. आणि युधिष्ठिर हा माणसांमध्ये सर्वात सत्यवादी आहे.” त्यांनी मान खाली घातली.\n\nद्रोण काही बोलले नाहीत. कृप काही बोलले नाहीत. विदुर वेदनेने ओरडला, पण कोणीही ऐकले नाही. प्रश्न धुरासारखा हवेत लटकत राहिला, आणि राज्यातील सर्वश्रेष्ठ माणसांनी नजर फिरवली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "One voice",
+    "hi": {
+     "text": "एक स्वर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक आवाज",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Is no one going to answer?” Draupadi cried. “Are these the elders of the house of Bharata?”\n\nThen a young voice spoke. It was Vikarna, one of Duryodhana’s own brothers, the youngest of the elders’ circle.\n\n“Draupadi’s question is right,” he said. “A man who has been enslaved loses his right to stake anything. And Yudhishthira was lured into the game by Shakuni. I say she is not won.” His voice shook, but he did not stop. He stood alone among his brothers, who glared at him.\n\nThen Karna rose, burning with the old hurts of his own life. “You are young, Vikarna, and you speak out of turn,” he said harshly. “A woman who has five husbands is, they say, no true wife. She has been won. And I say she should be stripped of her fine clothes.”\n\nIt was the one stain on a man whose heart was otherwise noble, and Karna would regret it to his dying breath. Draupadi turned her face away, and the hall waited.",
+    "hi": {
+     "text": "“क्या कोई उत्तर नहीं देगा?” द्रौपदी चिल्लाई। “क्या ये भरतवंश के बड़े हैं?”\n\nतभी एक युवा स्वर बोला। वह विकर्ण था, दुर्योधन का ही एक भाई, बड़ों के घेरे में सबसे छोटा।\n\n“द्रौपदी का प्रश्न उचित है,” उसने कहा। “जो दास बन चुका है, वह कुछ दाँव पर लगाने का अधिकार खो देता है। और युधिष्ठिर को शकुनि ने फुसलाकर खेल में उतारा था। मैं कहता हूँ कि वह जीती नहीं गई।” उसकी वाणी काँपी, पर वह रुका नहीं। वह अपने भाइयों के बीच अकेला खड़ा था, जो उसे घूर रहे थे।\n\nतब कर्ण उठा, अपने जीवन की पुरानी चोटों से जलता हुआ। “तुम छोटे हो, विकर्ण, और बेमौके बोल रहे हो,” उसने कठोरता से कहा। “जिस स्त्री के पाँच पति हों, वह, कहते हैं, सच्ची पत्नी नहीं होती। वह जीती जा चुकी है। और मैं कहता हूँ कि उसके सुंदर वस्त्र उतार लिए जाएँ।”\n\nयह उस पुरुष पर एकमात्र कलंक था जिसका हृदय अन्यथा उदार था, और कर्ण को यह अंतिम साँस तक पछताना था। द्रौपदी ने अपना मुँह फेर लिया, और सभा प्रतीक्षा करती रही।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“कोणीच उत्तर देणार नाही का?” द्रौपदी ओरडली. “हेच का भरतवंशाचे वडीलधारे?”\n\nतेव्हा एक तरुण आवाज बोलला. तो विकर्ण होता, दुर्योधनाच्या स्वतःच्या भावांपैकी एक, वडीलधाऱ्यांच्या वर्तुळातील सर्वात धाकटा.\n\n“द्रौपदीचा प्रश्न योग्य आहे,” तो म्हणाला. “ज्याला दास करण्यात आले आहे त्याचा काहीही पणाला लावण्याचा अधिकार जातो. आणि युधिष्ठिराला शकुनीने खेळात फसवून ओढले. मी म्हणतो की ती जिंकली गेलेली नाही.” त्याचा आवाज थरथरत होता, पण तो थांबला नाही. तो आपल्या भावांमध्ये एकटा उभा होता, आणि ते त्याच्याकडे रागाने पाहत होते.\n\nमग कर्ण उठला, स्वतःच्या आयुष्यातल्या जुन्या जखमांनी पेटलेला. “तू तरुण आहेस, विकर्णा, आणि तू वेळ नसताना बोलतोस,” तो कठोरपणे म्हणाला. “ज्या स्त्रीला पाच पती आहेत ती, म्हणतात, खरी पत्नीच नसते. ती जिंकली गेली आहे. आणि मी म्हणतो तिची सुंदर वस्त्रे काढून घेतली पाहिजेत.”\n\nज्या माणसाचे हृदय इतर बाबतीत उदात्त होते त्याच्यावरचा तो एकमेव डाग होता, आणि कर्णाला मृत्यूच्या श्वासापर्यंत त्याचा पश्चात्ताप होणार होता. द्रौपदीने तोंड फिरवले, आणि सभा वाट पाहत राहिली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The cloth that did not end",
+    "hi": {
+     "text": "वह वस्त्र, जो समाप्त नहीं हुआ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "न संपणारे वस्त्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Duryodhana ordered Dushasana to take off Draupadi’s cloth. The Pandavas, who had been bound by their elder brother’s word, sat with bowed heads, their eyes on the floor. Dushasana seized the end of her sari and pulled.\n\nDraupadi stood with her hands clasped. She called on every protector she knew, and one by one they were silent. At last she raised her hands high above her head. “Krishna,” she cried. “Govinda! I have no one left. Only you.”\n\nThen something astonishing happened. Dushasana pulled and pulled, and the cloth did not end. It poured from her body in folds of every colour, a river of silk. He pulled until he fell to the ground, exhausted, with a heap of cloth beside him as large as a mountain.\n\nVyasa’s own telling says that Dharma himself covered her, in the shape of endless cloth. The tradition most dear to devotees says that Krishna sent it. Both agree on this: she was not left alone.",
+    "hi": {
+     "text": "दुर्योधन ने दुःशासन को आदेश दिया कि द्रौपदी का वस्त्र उतार ले। पांडव, जो अपने बड़े भाई के वचन से बँधे थे, सिर झुकाए, आँखें फ़र्श पर गड़ाए बैठे रहे। दुःशासन ने उसकी साड़ी का छोर पकड़ा और खींचा।\n\nद्रौपदी हाथ जोड़े खड़ी रही। उसने हर उस रक्षक को पुकारा जिसे वह जानती थी, और एक-एक करके वे सब चुप रहे। अंत में उसने अपने हाथ सिर के ऊपर ऊँचे उठा लिए। “कृष्ण,” वह पुकार उठी। “गोविंद! मेरा अब कोई नहीं बचा। केवल तुम।”\n\nतब एक विस्मयकारी बात हुई। दुःशासन खींचता गया, खींचता गया, और वस्त्र समाप्त नहीं हुआ। वह उसकी देह से हर रंग की तहों में बहता गया, रेशम की एक नदी। वह तब तक खींचता रहा जब तक थककर भूमि पर नहीं गिर पड़ा, और उसके पास कपड़े का ढेर पर्वत जितना ऊँचा लग गया।\n\nव्यास की अपनी कथा कहती है कि धर्म ने स्वयं उसे अनंत वस्त्र के रूप में ढक लिया। भक्तों की सबसे प्रिय परंपरा कहती है कि कृष्ण ने उसे भेजा। दोनों इस बात पर एकमत हैं: वह अकेली नहीं छोड़ी गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुर्योधनाने दुःशासनाला द्रौपदीचे वस्त्र काढायला सांगितले. आपल्या ज्येष्ठ भावाच्या शब्दाने बांधलेले पांडव माना खाली घालून, नजरा जमिनीवर खिळवून बसले. दुःशासनाने तिच्या साडीचे टोक पकडले आणि ओढले.\n\nद्रौपदी हात जोडून उभी राहिली. तिने आपल्याला माहीत असलेल्या प्रत्येक रक्षणकर्त्याला हाक दिली, आणि एकामागून एक ते गप्प राहिले. शेवटी तिने आपले हात डोक्याच्या वर उंच केले. “कृष्णा,” ती ओरडली. “गोविंदा! माझे कोणीच उरले नाही. फक्त तूच.”\n\nतेव्हा एक आश्चर्यकारक गोष्ट घडली. दुःशासनाने ओढले आणि ओढले, आणि वस्त्र संपले नाही. ते तिच्या देहातून सर्व रंगांच्या घड्यांत वाहत आले, रेशमाची नदी. तो थकून जमिनीवर कोसळेपर्यंत ओढत राहिला, आणि त्याच्या शेजारी पर्वताएवढा वस्त्राचा ढीग पडला.\n\nव्यासांच्या स्वतःच्या कथनात म्हटले आहे की स्वतः धर्मानेच न संपणाऱ्या वस्त्राच्या रूपात तिला झाकले. भक्तांना सर्वात प्रिय असलेली परंपरा म्हणते की ते श्रीकृष्णांनी पाठवले. दोघे यावर सहमत आहेत: ती एकटी सोडली गेली नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The vows and the omens",
+    "hi": {
+     "text": "प्रतिज्ञाएँ और अपशकुन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शपथा आणि अपशकुन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The hall erupted. The kings cried out in horror. Bhima rose, his eyes blazing like torches.\n\n“Hear me, all you kings,” he said. “If I do not tear open Dushasana’s chest in battle and drink his blood, may I never reach the heaven of my fathers. And if I do not smash Duryodhana’s thigh, the thigh he showed to my wife in this hall, may I never be at peace.”\n\nThe hall shook. Then, jackals began to howl in the palace grounds, and donkeys brayed, and the sacred fire of Dhritarashtra’s chamber flared and spat. The king, listening to the omens, trembled.\n\nHe called out, “Draupadi, ask me any boon. You are the most virtuous of my daughters-in-law.”\n\nShe asked for Yudhishthira’s freedom. Then she asked for the freedom of the other four brothers. When he offered a third, she said gently, “Greed does not suit a kshatriya woman. Two are enough.” The Pandavas were free.",
+    "hi": {
+     "text": "सभा में हाहाकार मच गया। राजा भय से चीख उठे। भीम उठ खड़ा हुआ, उसकी आँखें मशालों की तरह धधक रही थीं।\n\n“सब राजा सुन लें,” उसने कहा। “यदि मैं युद्ध में दुःशासन की छाती चीरकर उसका रक्त न पियूँ, तो मुझे अपने पूर्वजों का स्वर्ग कभी न मिले। और यदि मैं दुर्योधन की वह जाँघ न तोड़ दूँ, जो उसने इस सभा में मेरी पत्नी को दिखाई थी, तो मुझे कभी शांति न मिले।”\n\nसभा काँप उठी। तभी महल के प्रांगण में सियार चीखने लगे, गधे रेंकने लगे, और धृतराष्ट्र के कक्ष की पवित्र अग्नि भड़ककर चिटकने लगी। राजा ने अपशकुन सुने और काँप गए।\n\nउन्होंने पुकारकर कहा, “द्रौपदी, कोई भी वर माँग लो। तुम मेरी सब बहुओं में सबसे पुण्यवती हो।”\n\nउसने युधिष्ठिर की मुक्ति माँगी। फिर उसने अन्य चार भाइयों की मुक्ति माँगी। जब राजा ने तीसरा वर देना चाहा, तो उसने कोमलता से कहा, “क्षत्राणी को लोभ शोभा नहीं देता। दो ही बहुत हैं।” पांडव मुक्त हो गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सभा संतापाने पेटली. राजे भयाने ओरडले. भीम उभा राहिला, डोळे मशालींसारखे पेटलेले.\n\n“सर्व राजांनो, ऐका,” तो म्हणाला. “मी युद्धात दुःशासनाची छाती फाडून त्याचे रक्त प्यायलो नाही, तर मी कधीही माझ्या पितरांच्या स्वर्गात पोहोचू नये. आणि या सभेत माझ्या पत्नीला जी मांडी दाखवली त्या दुर्योधनाच्या मांडीचा मी चुराडा केला नाही, तर मला कधीही शांती मिळू नये.”\n\nसभागृह हादरले. मग राजवाड्याच्या आवारात कोल्हे ओरडू लागले, गाढवे ओरडली, आणि धृतराष्ट्राच्या कक्षातील पवित्र अग्नी भडकून तडतडला. अपशकुन ऐकणारा राजा थरथरला.\n\nतो ओरडला, “द्रौपदी, मला कोणताही वर माग. तू माझ्या सुनांमध्ये सर्वात सद्गुणी आहेस.”\n\nतिने युधिष्ठिराची मुक्तता मागितली. मग तिने इतर चार भावांची मुक्तता मागितली. त्याने तिसरा वर देऊ केला, तेव्हा ती हळूच म्हणाली, “लोभ क्षत्रिय स्त्रीला शोभत नाही. दोन पुरेसे आहेत.” पांडव मुक्त झाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The second game",
+    "hi": {
+     "text": "दूसरा खेल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसरा डाव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "But the king was not able to keep a hold on peace. Duryodhana, Karna and Shakuni went to him. “Father,” they said, “the Pandavas will hunt us down for what we have done. We must play again.”\n\nDhritarashtra weakened, and the Pandavas, free, were called back for one more game. The stakes this time were simple: the loser would go into the forest for twelve years, and then live a thirteenth year in disguise. If he was found, the cycle would begin again.\n\nYudhishthira, bound by his own pledge never to refuse a challenge, played. And lost.\n\nThe Pandavas laid down their royal robes and put on deerskins and bark. Draupadi, who had been given everything and then had it taken away, walked behind her husbands with her loose hair, which she vowed not to tie until her honour was avenged.\n\nThe people of Hastinapura wept openly as they left. And in the palace, a blind king realised too late what he had allowed.",
+    "hi": {
+     "text": "पर राजा शांति को थामे नहीं रख पाए। दुर्योधन, कर्ण और शकुनि उनके पास गए। “पिताजी,” उन्होंने कहा, “हमने जो किया है, उसके लिए पांडव हमारा पीछा करेंगे। हमें फिर खेलना होगा।”\n\nधृतराष्ट्र कमज़ोर पड़ गए, और मुक्त पांडवों को एक और खेल के लिए बुला लिया गया। इस बार दाँव सीधा था: हारने वाला बारह वर्ष वन में जाएगा, और फिर तेरहवाँ वर्ष वेश बदलकर बिताएगा। यदि पहचाना गया, तो चक्र फिर शुरू होगा।\n\nयुधिष्ठिर ने, कभी चुनौती न ठुकराने की अपनी प्रतिज्ञा से बँधे, खेला। और हार गए।\n\nपांडवों ने राजसी वस्त्र उतारे और मृगचर्म और वल्कल पहन लिए। द्रौपदी, जिसे सब कुछ दिया गया था और फिर छीन लिया गया, अपने पतियों के पीछे खुले बालों के साथ चली, जिन्हें उसने तब तक न बाँधने की प्रतिज्ञा की थी जब तक उसके सम्मान का बदला न लिया जाए।\n\nजब वे गए, तो हस्तिनापुर के लोग खुलकर रोए। और महल में एक अंधे राजा को बहुत देर से अहसास हुआ कि उन्होंने क्या होने दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण राजाला शांतता टिकवता आली नाही. दुर्योधन, कर्ण आणि शकुनी त्याच्याकडे गेले. “बाबा,” ते म्हणाले, “आपण जे केले त्यासाठी पांडव आपल्याला शोधून ठार करतील. आपण पुन्हा खेळले पाहिजे.”\n\nधृतराष्ट्र दुर्बल झाला, आणि मुक्त झालेल्या पांडवांना आणखी एका खेळासाठी परत बोलावण्यात आले. या वेळचा पण साधा होता: हरणाऱ्याने बारा वर्षे वनात जायचे, आणि मग तेराव्या वर्षी वेषांतर करून राहायचे. तो सापडला तर चक्र पुन्हा सुरू होईल.\n\nआव्हान कधीही न नाकारण्याच्या स्वतःच्या प्रतिज्ञेने बांधलेला युधिष्ठिर खेळला. आणि हरला.\n\nपांडवांनी आपली राजवस्त्रे ठेवली आणि हरणाची कातडी आणि वल्कले धारण केली. जिला सर्व काही दिले गेले आणि मग हिरावून घेतले गेले ती द्रौपदी आपल्या मोकळ्या केसांसह पतींच्या मागे चालली, ज्यांना तिने प्रतिज्ञा केली की आपला सन्मान परत मिळेपर्यंत ती बांधणार नाही.\n\nते निघाले तेव्हा हस्तिनापूरचे लोक उघडपणे रडले. आणि राजवाड्यात एका अंध राजाला आपण काय घडू दिले ते खूप उशिरा कळले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Draupadi asked her question in front of everyone, even when she was alone. When have you stayed silent when you should have spoken? Today, ask one honest question that needs asking, kindly.",
+  "hi": {
+   "text": "द्रौपदी ने अपना प्रश्न सबके सामने पूछा, तब भी जब वह अकेली थी। कब आप ऐसे चुप रहे जब आपको बोलना चाहिए था? आज कोई एक सच्चा प्रश्न, जो पूछा जाना चाहिए, प्रेम से पूछिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "द्रौपदी एकटी असतानाही सर्वांसमोर प्रश्न विचारली. जेव्हा बोलायला हवे होते तेव्हा तुम्ही कधी गप्प राहिलात? आज विचारायलाच हवा असा एक प्रामाणिक प्रश्न दयाळूपणे विचारा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Dharma is not only knowing what is right but having the courage to speak it when everyone else is silent.",
+  "hi": {
+   "text": "धर्म केवल यह जानना नहीं कि सही क्या है, बल्कि यह साहस भी है कि जब सब चुप हों, तब उसे कहा जाए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धर्म म्हणजे फक्त काय योग्य ते जाणणे नव्हे, तर इतर सर्व गप्प असताना ते बोलण्याचे धैर्य असणे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Sabha Parva (Dyuta Parva); the endless sari of Krishna is a beloved tradition, while Vyasa’s text credits Dharma",
+  "hi": {
+   "text": "महाभारत, सभा पर्व (द्यूत पर्व); कृष्ण का अनंत वस्त्र एक प्रिय परंपरा है, जबकि व्यास के पाठ में इसका श्रेय धर्म को दिया गया है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, सभापर्व (द्यूतपर्व); श्रीकृष्णाने पाठवलेले न संपणारे वस्त्र ही लाडकी परंपरा आहे, तर व्यासांच्या ग्रंथात धर्माला श्रेय दिले आहे",
+   "reviewed": false
+  }
+ }
+}

@@ -1,7 +1,7 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story-clubs",
- "version": "2026-11-27.2",
+ "version": "2026-11-28.1",
  "status": "draft",
  "clubs": [
   {
@@ -173,18 +173,202 @@
     }
    },
    "intro": {
-    "en": "The story of two royal families, a great war, and the wisdom Krishna shared on the battlefield.",
+    "en": "A river goddess, a terrible vow, a game of dice, an exile in the forest and a war that shook the world, with Krishna's Gita at its heart: the whole Mahabharata in 33 illustrated chapters.",
     "hi": {
-     "text": "दो राजपरिवारों, एक महायुद्ध और युद्धभूमि में श्रीकृष्ण के दिए ज्ञान की कथा।",
+     "text": "एक नदी-देवी, एक भीषण प्रतिज्ञा, द्यूत का खेल, वनवास और संसार को हिला देने वाला युद्ध, जिसके हृदय में श्रीकृष्ण की गीता है: पूरा महाभारत 33 सचित्र अध्यायों में।",
      "reviewed": false
     },
     "mr": {
-     "text": "दोन राजघराणी, एक महायुद्ध आणि रणभूमीवर श्रीकृष्णाने दिलेल्या ज्ञानाची कथा.",
+     "text": "एक नदीदेवता, एक भीषण प्रतिज्ञा, द्यूताचा डाव, वनवास आणि जग हादरवणारे युद्ध, ज्याच्या हृदयात श्रीकृष्णाची गीता आहे: संपूर्ण महाभारत 33 सचित्र अध्यायांत.",
      "reviewed": false
     }
    },
-   "growing": true,
-   "parts": []
+   "cover": "the-bhagavad-gita",
+   "growing": false,
+   "parts": [
+    {
+     "id": "adi",
+     "title": {
+      "en": "Adi Parva · The beginnings",
+      "hi": {
+       "text": "आदि पर्व · आरंभ",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "आदिपर्व · आरंभ",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "sabha",
+     "title": {
+      "en": "Sabha Parva · The hall of dice",
+      "hi": {
+       "text": "सभा पर्व · द्यूत-सभा",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "सभापर्व · द्यूतसभा",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "vana",
+     "title": {
+      "en": "Vana Parva · The forest years",
+      "hi": {
+       "text": "वन पर्व · वनवास के वर्ष",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "वनपर्व · वनवासाची वर्षे",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "virata",
+     "title": {
+      "en": "Virata Parva · The year in disguise",
+      "hi": {
+       "text": "विराट पर्व · अज्ञातवास",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "विराटपर्व · अज्ञातवास",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "udyoga",
+     "title": {
+      "en": "Udyoga Parva · Last hopes for peace",
+      "hi": {
+       "text": "उद्योग पर्व · शांति की अंतिम आशा",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "उद्योगपर्व · शांतीची शेवटची आशा",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "bhishma",
+     "title": {
+      "en": "Bhishma Parva · The Gita and the grandsire",
+      "hi": {
+       "text": "भीष्म पर्व · गीता और पितामह",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "भीष्मपर्व · गीता आणि पितामह",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "drona",
+     "title": {
+      "en": "Drona Parva · The teacher's battle",
+      "hi": {
+       "text": "द्रोण पर्व · आचार्य का युद्ध",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "द्रोणपर्व · आचार्यांचे युद्ध",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "karna",
+     "title": {
+      "en": "Karna Parva · The sun's son",
+      "hi": {
+       "text": "कर्ण पर्व · सूर्यपुत्र",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "कर्णपर्व · सूर्यपुत्र",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "shalya",
+     "title": {
+      "en": "Shalya Parva · The last duel",
+      "hi": {
+       "text": "शल्य पर्व · अंतिम द्वंद्व",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "शल्यपर्व · शेवटचे द्वंद्व",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "sauptika",
+     "title": {
+      "en": "Sauptika Parva · The night raid",
+      "hi": {
+       "text": "सौप्तिक पर्व · रात्रि का आक्रमण",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "सौप्तिकपर्व · रात्रीचा हल्ला",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "shanti",
+     "title": {
+      "en": "Stri and Shanti Parvas · Grief and wisdom",
+      "hi": {
+       "text": "स्त्री और शांति पर्व · शोक और ज्ञान",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "स्त्री आणि शांतिपर्व · शोक आणि ज्ञान",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "mausala",
+     "title": {
+      "en": "Mausala Parva · Krishna departs",
+      "hi": {
+       "text": "मौसल पर्व · श्रीकृष्ण का प्रस्थान",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "मौसलपर्व · श्रीकृष्णाचे प्रयाण",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "svargarohana",
+     "title": {
+      "en": "Svargarohana Parva · The road to heaven",
+      "hi": {
+       "text": "स्वर्गारोहण पर्व · स्वर्ग की राह",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "स्वर्गारोहणपर्व · स्वर्गाची वाट",
+       "reviewed": false
+      }
+     }
+    }
+   ]
   },
   {
    "id": "ganesha",

@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "house-of-lac",
+ "order": 8,
+ "part": "adi",
+ "figure": {
+  "en": "The Pandavas",
+  "hi": {
+   "text": "पांडव",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पांडव",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The palace that was built to burn",
+  "hi": {
+   "text": "वह महल, जो जलाने के लिए बना था",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जाळण्यासाठी बांधलेला महाल",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A beautiful new palace waits for the Pandavas, and its walls smell strangely of wax. An old man’s whispered warning may be the only thing that saves five brothers and their mother.",
+  "hi": {
+   "text": "पांडवों के लिए एक सुंदर नया महल तैयार है, और उसकी दीवारों से अजीब सी मोम की गंध आती है। एक बूढ़े की फुसफुसाई चेतावनी ही शायद पाँच भाइयों और उनकी माँ को बचा ले।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पांडवांसाठी एक सुंदर नवा महाल वाट पाहत आहे, आणि त्याच्या भिंतींना विचित्र रीतीने मेणाचा वास येतो. एका वृद्धाने हळूच दिलेला इशाराच पाच भावांना आणि त्यांच्या मातेला वाचवू शकेल.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/house-of-lac-1.webp",
+   "w": 480,
+   "h": 665,
+   "caption": {
+    "en": "The Pandavas escape the burning house of lac (Razmnama-style painting)",
+    "hi": {
+     "text": "पांडव जलते लाक्षागृह से बच निकलते हैं (रज़्मनामा शैली का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पांडव जळत्या लाक्षागृहातून सुटतात (रज्मनामा शैलीतील चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Mughal Artist, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pandavas_save_from_lakshagriha_and_Bhima_kill_hidimb_demon.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A cousin’s jealousy",
+    "hi": {
+     "text": "भाई की जलन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चुलत भावाचा मत्सर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After the tournament, the people of Hastinapura loved the Pandavas more than ever. When Dhritarashtra named Yudhishthira the crown prince, Duryodhana’s heart burned. Day and night he thought of the throne he believed should be his.\n\nHe went to his father and, with Shakuni and Karna, laid a plan. “Send the Pandavas on a pleasant trip,” he said. “Let them go to the festival at Varanavata, and stay there awhile.”\n\nDhritarashtra, who loved his nephews but was weak against his son’s will, agreed. The minister Purochana was sent ahead to Varanavata to build a magnificent palace for the guests. It was made of lac, resin, oil, ghee and dry wood, all things that burn like straw in a spark, and it was painted to look like any grand palace.\n\nThe Pandavas set out, never guessing. At the city gates, Vidura embraced them, and murmured something in a strange tongue. The citizens watched them go, uneasy without knowing why, and some of the old women quietly made blessings with their hands over the road.",
+    "hi": {
+     "text": "अखाड़े के प्रदर्शन के बाद हस्तिनापुर के लोग पांडवों को पहले से भी ज़्यादा चाहने लगे। जब धृतराष्ट्र ने युधिष्ठिर को युवराज घोषित किया, तो दुर्योधन का हृदय जल उठा। दिन-रात वह उस सिंहासन के बारे में सोचता रहा जो उसे लगता था कि उसका होना चाहिए।\n\nवह अपने पिता के पास गया और शकुनि और कर्ण के साथ मिलकर योजना बनाई। “पांडवों को एक सुखद यात्रा पर भेज दीजिए,” उसने कहा। “वारणावत के उत्सव में जाने दीजिए, और कुछ समय वहीं रहने दीजिए।”\n\nधृतराष्ट्र, जो अपने भतीजों को चाहते थे पर बेटे की इच्छा के आगे कमज़ोर थे, मान गए। मंत्री पुरोचन को पहले ही वारणावत भेजा गया कि अतिथियों के लिए एक भव्य महल बनाए। वह लाख, राल, तेल, घी और सूखी लकड़ी से बना था, ऐसी चीज़ें जो एक चिंगारी से भूसे की तरह भड़क उठती हैं, और उसे किसी भी बड़े महल की तरह रँगा गया था।\n\nपांडव चल पड़े, बिना कुछ भाँपे। नगर-द्वार पर विदुर ने उन्हें गले लगाया, और एक अनजानी भाषा में कुछ बुदबुदाया। नागरिक उन्हें जाते देखते रहे, बिना कारण जाने बेचैन, और कुछ बूढ़ी स्त्रियों ने चुपचाप रास्ते पर हाथ उठाकर आशीर्वाद दिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्पर्धेनंतर हस्तिनापुरातील लोकांचे पांडवांवरचे प्रेम पूर्वीपेक्षा वाढले. धृतराष्ट्राने युधिष्ठिराला युवराज घोषित केले तेव्हा दुर्योधनाचे हृदय जळून गेले. आपले असायला हवे असे त्याला वाटणाऱ्या सिंहासनाचा विचार तो रात्रंदिवस करत राहिला.\n\nतो वडिलांकडे गेला आणि शकुनी आणि कर्णासह त्याने एक योजना आखली. “पांडवांना एका सुखद सहलीला पाठवा,” तो म्हणाला. “त्यांना वारणावतातल्या उत्सवाला जाऊ द्या आणि तिथे काही काळ राहू द्या.”\n\nआपल्या पुतण्यांवर प्रेम करणारा पण पुत्राच्या इच्छेपुढे दुर्बल असलेला धृतराष्ट्र तयार झाला. पाहुण्यांसाठी भव्य महाल बांधण्यासाठी मंत्री पुरोचनाला वारणावताला पुढे पाठवले गेले. तो लाख, राळ, तेल, तूप आणि कोरड्या लाकडाचा बनवला होता, ही सर्व अशी वस्तू जी ठिणगीने गवतासारखी पेटते, आणि तो इतर कोणत्याही भव्य महालासारखा दिसेल असा रंगवला होता.\n\nपांडव काहीही न ओळखता निघाले. नगराच्या वेशीवर विदुराने त्यांना मिठी मारली आणि एका परक्या भाषेत काहीतरी पुटपुटले. नागरिकांनी त्यांना जाताना पाहिले, कारण न कळता अस्वस्थ होऊन, आणि काही वृद्ध स्त्रियांनी वाटेवर हाताने शांतपणे आशीर्वाद दिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Vidura’s warning",
+    "hi": {
+     "text": "विदुर की चेतावनी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विदुराचा इशारा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Vidura had said it in a language only Yudhishthira understood, a foreign tongue not spoken at court: “He who knows that the fire does not burn the one who has dug a hole, is safe. A man without weapons can kill the forest fire. The jackal survives by burrowing.”\n\nYudhishthira understood and nodded quietly.\n\nAt Varanavata, the palace was grand and beautiful, and smelled of fresh paint. But when Bhima sniffed the walls, he frowned. “There is ghee and lac in these walls, brother.”\n\n“I know,” said Yudhishthira. “We shall pretend to know nothing, and be ready.”\n\nA miner sent by Vidura appeared with a tool and began secretly digging a tunnel beneath the palace, from the bedroom of the Pandavas to the open forest. The brothers lived calmly for a year, hunting by day and keeping watch by night. Purochana, believing them fooled, waited for a night of his choosing.",
+    "hi": {
+     "text": "विदुर ने यह ऐसी भाषा में कहा था जिसे केवल युधिष्ठिर समझते थे, एक परदेसी बोली जो दरबार में नहीं बोली जाती थी: “जो जानता है कि जिसने बिल खोद रखा है उसे आग नहीं जलाती, वह सुरक्षित है। शस्त्रहीन मनुष्य भी दावानल को मार सकता है। सियार बिल खोदकर बचता है।”\n\nयुधिष्ठिर समझ गए और चुपचाप सिर हिलाया।\n\nवारणावत में महल भव्य और सुंदर था, और ताज़े रंग की गंध आती थी। पर जब भीम ने दीवारें सूँघीं, तो उसके माथे पर बल पड़ गए। “भैया, इन दीवारों में घी और लाख है।”\n\n“मुझे पता है,” युधिष्ठिर ने कहा। “हम ऐसा दिखाएँगे कि कुछ नहीं जानते, और तैयार रहेंगे।”\n\nविदुर का भेजा एक खनिक औज़ार लेकर आया और चुपचाप महल के नीचे सुरंग खोदने लगा, पांडवों के शयनकक्ष से खुले वन तक। भाई एक वर्ष शांति से रहे, दिन में शिकार करते और रात में पहरा देते। पुरोचन, यह मानकर कि वे धोखे में हैं, अपनी चुनी हुई रात की प्रतीक्षा करता रहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विदुर फक्त युधिष्ठिराला समजेल अशा भाषेत बोलला होता, दरबारात न बोलली जाणारी एक परकी भाषा: “जो जाणतो की बिळ खणणाऱ्याला आग जाळत नाही, तो सुरक्षित असतो. शस्त्र नसलेला माणूसही वणवा विझवू शकतो. कोल्हा बिळात राहून जगतो.”\n\nयुधिष्ठिर समजला आणि त्याने शांतपणे मान डोलावली.\n\nवारणावतात महाल भव्य आणि सुंदर होता, आणि ताज्या रंगाचा वास येत होता. पण भीमाने भिंतींचा वास घेतला तेव्हा त्याने कपाळाला आठ्या घातल्या. “दादा, या भिंतींमध्ये तूप आणि लाख आहे.”\n\n“मला माहीत आहे,” युधिष्ठिर म्हणाला. “आपण काहीच ठाऊक नसल्याचे नाटक करू, आणि तयार राहू.”\n\nविदुराने पाठवलेला एक खाणकाम करणारा हत्यार घेऊन आला आणि पांडवांच्या शयनगृहापासून मोकळ्या जंगलापर्यंत महालाखालून चोरून भुयार खणू लागला. भाऊ वर्षभर शांतपणे राहिले, दिवसा शिकार करत आणि रात्री पहारा देत. आपण त्यांना फसवले आहे असे मानणारा पुरोचन आपल्या निवडलेल्या रात्रीची वाट पाहत राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The fire night",
+    "hi": {
+     "text": "आग की रात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आगीची रात्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The night came. Purochana slept in a room near the gate. Kunti held a great feast for the poor, and a woman of the Nishada tribe with her five sons ate and drank and fell into a deep sleep in the palace. It was they who would be mistaken for the Pandavas.\n\nWhen all was quiet, Bhima lit a fire at the door of Purochana’s room, and then at the other doors. The lac caught instantly, and a great blaze went up, roaring to the stars.\n\nBhima lifted his mother onto his shoulders and took his brothers Nakula and Sahadeva under his arms, and Yudhishthira and Arjuna ran alongside. They dropped into the tunnel and crawled out into the dark forest. The mighty Bhima ran through the trees, carrying them all, smashing bushes aside as if they were reeds.\n\nBehind them, the people of Varanavata cried out in horror. All of the palace was lost, and the city wept for the Pandavas, thinking them dead.",
+    "hi": {
+     "text": "वह रात आई। पुरोचन द्वार के पास के कमरे में सोया था। कुंती ने गरीबों के लिए एक बड़ा भोज रखा, और निषाद जाति की एक स्त्री अपने पाँच पुत्रों के साथ खा-पीकर महल में गहरी नींद सो गई। इन्हीं को पांडव समझा जाने वाला था।\n\nजब सब शांत हो गया, तो भीम ने पुरोचन के कमरे के द्वार पर आग लगाई, फिर बाकी द्वारों पर। लाख उसी क्षण भड़क उठी, और एक विशाल ज्वाला तारों तक गरजती उठी।\n\nभीम ने माँ को कंधों पर उठाया और नकुल-सहदेव को बाँहों में दबाया, और युधिष्ठिर और अर्जुन साथ-साथ दौड़े। वे सुरंग में उतरे और रेंगकर अँधेरे वन में निकल आए। बलशाली भीम सबको उठाए पेड़ों के बीच दौड़ता रहा, झाड़ियों को सरकंडों की तरह तोड़ता हुआ।\n\nउनके पीछे वारणावत के लोग भय से चीख उठे। सारा महल नष्ट हो गया, और नगर यह सोचकर पांडवों के लिए रोया कि वे मर गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ती रात्र आली. पुरोचन वेशीजवळच्या खोलीत झोपला. कुंतीने गरिबांसाठी मोठी मेजवानी दिली, आणि निषाद जमातीची एक स्त्री आपल्या पाच पुत्रांसह खाऊनपिऊन महालात गाढ झोपी गेली. पांडव म्हणून त्यांचीच ओळख पटणार होती.\n\nसर्व शांत झाल्यावर भीमाने पुरोचनाच्या खोलीच्या दारावर आग लावली, आणि मग इतर दारांवर. लाख क्षणात पेटले, आणि मोठी ज्वाला गर्जत ताऱ्यांपर्यंत उंचावली.\n\nभीमाने आईला खांद्यावर घेतले आणि नकुल व सहदेव या भावांना काखेत धरले, आणि युधिष्ठिर व अर्जुन बाजूबाजूने धावले. ते भुयारात उतरले आणि सरपटत अंधाऱ्या जंगलात बाहेर आले. बलवान भीम त्या सर्वांना घेऊन झाडांतून धावला, झुडपे वेताप्रमाणे बाजूला फेकत.\n\nत्यांच्या मागे वारणावतातील लोक भयाने किंचाळले. सारा महाल नष्ट झाला, आणि नगराने पांडव मेले असे समजून त्यांच्यासाठी शोक केला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Across the river",
+    "hi": {
+     "text": "नदी के पार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीपलीकडे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the Ganga the brothers found a boat waiting, arranged by Vidura’s man. They crossed under the stars, guided by starlight alone.\n\nOn the far shore they plunged into the wild forest. Kunti was exhausted, and little Sahadeva was thirsty. At last the brothers came to a banyan tree, and Bhima went off to find water, leaving the rest to sleep.\n\nThere, in the darkness, they were free, and yet they were homeless. The princes of Hastinapura, who had slept on silken beds, lay on the cold earth of the forest, in the quiet of the great trees. Yudhishthira kept his eyes open, thinking.\n\n“We are alive,” he said softly to Arjuna, who kept guard with him. “And everyone thinks we are dead. Let them go on thinking it.” Little did he know that the forest had other inhabitants, one of whom was even then walking toward them out of the shadows.",
+    "hi": {
+     "text": "गंगा पर भाइयों को एक नाव प्रतीक्षा करती मिली, जो विदुर के आदमी ने तैयार रखी थी। वे तारों की रोशनी के सहारे, तारों के नीचे नदी पार कर गए।\n\nउस पार वे घने जंगल में उतर गए। कुंती थककर चूर थीं, और नन्हे सहदेव को प्यास लगी थी। आख़िर भाई एक बरगद के पास पहुँचे, और भीम पानी खोजने चला गया, बाकी सो गए।\n\nवहाँ अँधेरे में वे स्वतंत्र थे, और फिर भी बेघर। हस्तिनापुर के राजकुमार, जो रेशमी बिछौनों पर सोए थे, वन की ठंडी धरती पर पड़े थे, विशाल वृक्षों की शांति में। युधिष्ठिर आँखें खोले सोचते रहे।\n\n“हम जीवित हैं,” उन्होंने धीरे से अर्जुन से कहा, जो उनके साथ पहरा दे रहा था। “और सब सोचते हैं कि हम मर गए। उन्हें यही सोचने दो।” उन्हें क्या पता था कि जंगल के और भी निवासी थे, जिनमें से एक उसी समय छाया से निकलकर उनकी ओर चला आ रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गंगेवर भावांना विदुराच्या माणसाने ठेवलेली होडी वाट पाहत सापडली. ताऱ्यांच्या प्रकाशातच दिशा शोधत ते ताऱ्यांखाली पैलतीरी गेले.\n\nपलीकडच्या काठावर त्यांनी घनदाट जंगलात प्रवेश केला. कुंती थकून गेली होती, आणि छोटा सहदेव तहानलेला होता. शेवटी भाऊ एका वडाच्या झाडाजवळ आले, आणि भीम पाणी शोधायला गेला, बाकीच्यांना झोपायला सोडून.\n\nतिथे, अंधारात, ते मुक्त होते, आणि तरीही बेघर होते. रेशमी शय्यांवर झोपलेले हस्तिनापूरचे राजकुमार मोठ्या वृक्षांच्या शांततेत जंगलातल्या थंड मातीवर पडले होते. युधिष्ठिराने डोळे उघडे ठेवले होते, विचार करत.\n\n“आपण जिवंत आहोत,” तो पहारा देणाऱ्या अर्जुनाला हळूच म्हणाला. “आणि सगळ्यांना वाटते की आपण मेलो आहोत. त्यांना तसेच वाटू दे.” त्याला कल्पनाही नव्हती की जंगलात इतर रहिवासीही आहेत, आणि त्यांपैकी एक त्याच क्षणी सावल्यांतून त्यांच्याकडे चालत येत होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Hidimbi",
+    "hi": {
+     "text": "हिडिंबी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हिडिंबा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The forest belonged to a rakshasa named Hidimba, who smelled human flesh in the air and sent his sister Hidimbi to fetch it. But when she came near the sleeping Pandavas and saw Bhima awake, tall and strong and gentle as he guarded them, she fell in love and could not do it.\n\n“Fly, you are in danger,” she warned him. But Hidimba stormed in, howling. Bhima, who would not leave his sleeping family, took on the giant rakshasa in a fearsome fight among the trees, and killed him.\n\nKunti, when she woke, gave her blessing to Hidimbi. She became Bhima’s wife and bore him a son, a powerful child, whose head was bald like a pot. They named him Ghatotkacha. He promised his father he would come whenever he was needed.\n\nThen Hidimbi, with great understanding, let her husband go, and the Pandavas set out again, dressed as brahmins, to hide from the world.",
+    "hi": {
+     "text": "वह जंगल हिडिंब नाम के राक्षस का था, जिसने हवा में मनुष्य के माँस की गंध पाई और अपनी बहन हिडिंबी को उसे लाने भेजा। पर जब वह सोए हुए पांडवों के पास पहुँची और भीम को जागता देखा, ऊँचा, बलवान और उनकी रखवाली करते हुए कोमल, तो उसे उससे प्रेम हो गया और वह कुछ कर न सकी।\n\n“भागो, तुम संकट में हो,” उसने भीम को चेताया। पर हिडिंब गरजता हुआ आ गया। भीम ने, जो अपने सोते परिवार को छोड़ने वाला नहीं था, उस विशाल राक्षस से पेड़ों के बीच भयंकर युद्ध किया और उसे मार डाला।\n\nजब कुंती जागीं, तो उन्होंने हिडिंबी को आशीर्वाद दिया। वह भीम की पत्नी बनी और उसने एक शक्तिशाली पुत्र को जन्म दिया, जिसका सिर घड़े की तरह गंजा था। उन्होंने उसका नाम घटोत्कच रखा। उसने पिता को वचन दिया कि जब भी ज़रूरत होगी, वह आ जाएगा।\n\nफिर हिडिंबी ने बड़ी समझदारी से अपने पति को जाने दिया, और पांडव ब्राह्मणों के वेश में, संसार से छिपते हुए, फिर चल पड़े।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते जंगल हिडिंब नावाच्या राक्षसाचे होते, ज्याला हवेत मानवी मांसाचा वास आला आणि त्याने आपली बहीण हिडिंबीला ते आणायला पाठवले. पण ती झोपलेल्या पांडवांजवळ आली आणि तिने भीमाला जागा, उंच, बलवान आणि त्यांचे रक्षण करताना सौम्य असलेला पाहिले, तेव्हा ती प्रेमात पडली आणि तिला ते करवले नाही.\n\n“पळा, तुम्ही संकटात आहात,” तिने त्याला सावध केले. पण हिडिंब ओरडत धावत आला. आपल्या झोपलेल्या कुटुंबाला सोडून न जाणाऱ्या भीमाने झाडांमध्ये भयंकर लढाईत त्या अवाढव्य राक्षसाचा सामना केला आणि त्याला ठार केले.\n\nकुंती जागी झाली तेव्हा तिने हिडिंबीला आशीर्वाद दिला. ती भीमाची पत्नी झाली आणि तिने त्याला पुत्र दिला, एक बलवान बाळ, ज्याचे डोके घड्यासारखे केसविहीन होते. त्यांनी त्याचे नाव घटोत्कच ठेवले. त्याने वडिलांना वचन दिले की गरज पडेल तेव्हा तो येईल.\n\nमग हिडिंबीने मोठ्या समजूतदारपणाने आपल्या पतीला जाऊ दिले, आणि पांडव जगापासून लपण्यासाठी ब्राह्मणांच्या वेशात पुन्हा निघाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The demon of Ekachakra",
+    "hi": {
+     "text": "एकचक्रा का राक्षस",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकचक्रेचा राक्षस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They came to the town of Ekachakra and lived in the house of a brahmin. One day they heard weeping. A demon named Baka lived in the nearby hills, and the town had made a treaty with him: each week, one family would send him a cartload of food and a man to be eaten. It was now the turn of the brahmin’s family.\n\nThe brahmin and his wife each begged to go in place of the other, while their daughter wept. Kunti listened, and her heart ached. “I will send my son Bhima,” she said. “He is strong.”\n\nBhima took the cart, and on the way he ate the food himself, singing aloud. Baka came raging out of the cave and the two fought on the bare hillside. In the end the demon lay dead.\n\nThe town was freed. And the brahmin family, who never knew who their guests were, thanked the gods. But news of the Pandavas’ strength was beginning to travel.",
+    "hi": {
+     "text": "वे एकचक्रा नगर पहुँचे और एक ब्राह्मण के घर रहने लगे। एक दिन उन्हें रोने की आवाज़ सुनाई दी। पास की पहाड़ियों में बक नाम का राक्षस रहता था, और नगर ने उसके साथ संधि कर रखी थी: हर सप्ताह एक परिवार उसे गाड़ी भर भोजन और खाए जाने के लिए एक आदमी भेजेगा। अब ब्राह्मण के परिवार की बारी थी।\n\nब्राह्मण और उसकी पत्नी हर एक दूसरे की जगह जाने की प्रार्थना कर रहे थे, और उनकी बेटी रो रही थी। कुंती ने सुना, और उनका हृदय पीड़ा से भर गया। “मैं अपने पुत्र भीम को भेजूँगी,” उन्होंने कहा। “वह बलवान है।”\n\nभीम गाड़ी लेकर चला, और रास्ते में उसने स्वयं ही भोजन खा लिया, ऊँचे स्वर में गाते हुए। बक क्रोध में दहाड़ता गुफा से निकला, और दोनों नंगी पहाड़ी पर लड़े। अंत में राक्षस मरा पड़ा था।\n\nनगर मुक्त हो गया। और ब्राह्मण परिवार ने, जिसे कभी पता न चला कि उनके अतिथि कौन थे, देवताओं को धन्यवाद दिया। पर पांडवों के बल की चर्चा अब फैलने लगी थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते एकचक्रा नगरीत आले आणि एका ब्राह्मणाच्या घरी राहिले. एके दिवशी त्यांना रडण्याचा आवाज आला. जवळच्या डोंगरांत बक नावाचा राक्षस राहत होता, आणि नगराने त्याच्याशी करार केला होता: दर आठवड्याला एक कुटुंब त्याला गाडीभर अन्न आणि खाण्यासाठी एक माणूस पाठवेल. आता ब्राह्मणाच्या कुटुंबाची पाळी आली होती.\n\nब्राह्मण आणि त्याची पत्नी एकमेकांच्या ऐवजी आपण जाऊ अशी विनवणी करत होते, आणि त्यांची कन्या रडत होती. कुंतीने ऐकले आणि तिचे हृदय तुटले. “मी माझा पुत्र भीमाला पाठवीन,” ती म्हणाली. “तो बलवान आहे.”\n\nभीमाने गाडी घेतली, आणि वाटेत मोठ्याने गाणे गात तो अन्न स्वतःच खाऊन टाकले. बक गुहेतून संतापाने बाहेर आला आणि दोघे उघड्या डोंगरउतारावर लढले. शेवटी तो राक्षस मरून पडला.\n\nनगराची सुटका झाली. आणि आपले पाहुणे कोण होते हे कधीही न समजलेल्या ब्राह्मणाच्या कुटुंबाने देवांचे आभार मानले. पण पांडवांच्या बळाची बातमी आता दूरवर पोहोचू लागली होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "The Pandavas survived because they paid attention to a quiet warning and did not panic. When did someone’s small hint help you, and have you heeded it? Today, notice one thing that seems slightly wrong and look into it kindly.",
+  "hi": {
+   "text": "पांडव इसलिए बचे क्योंकि उन्होंने एक धीमी चेतावनी पर ध्यान दिया और घबराए नहीं। कब किसी के छोटे से संकेत ने आपकी मदद की थी, और क्या आपने उस पर ध्यान दिया? आज कोई एक बात जो थोड़ी गड़बड़ लगे, उसे प्रेम से देखिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पांडव वाचले कारण त्यांनी शांत इशाऱ्याकडे लक्ष दिले आणि घाबरले नाहीत. कोणाच्या एखाद्या छोट्या सूचनेने तुम्हाला कधी मदत केली, आणि तुम्ही तिचा आदर केला का? आज थोडे चुकल्यासारखे वाटणारे एक काहीतरी हेरा आणि दयाळूपणे त्याकडे लक्ष द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Wisdom listens to the quiet warning, and courage waits for the right moment to act.",
+  "hi": {
+   "text": "बुद्धि धीमी चेतावनी को सुनती है, और साहस सही क्षण की प्रतीक्षा करता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शहाणपण शांत इशारा ऐकते, आणि धैर्य कृती करण्याच्या योग्य क्षणाची वाट पाहते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva (Jatugriha and Hidimbavadha Parva)",
+  "hi": {
+   "text": "महाभारत, आदि पर्व (जतुगृह और हिडिंबवध पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व (जतुगृह आणि हिडिंबवधपर्व)",
+   "reviewed": false
+  }
+ }
+}

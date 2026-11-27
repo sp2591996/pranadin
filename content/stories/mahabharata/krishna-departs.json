@@ -1,0 +1,266 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "krishna-departs",
+ "order": 32,
+ "part": "mausala",
+ "figure": {
+  "en": "Krishna",
+  "hi": {
+   "text": "कृष्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "How Krishna left the world",
+  "hi": {
+   "text": "कृष्ण ने संसार कैसे छोड़ा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्णांनी जग कसे सोडले",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Thirty-six years after Kurukshetra, Dwarka glitters at the edge of the sea, and a curse is quietly coming true. A boy is about to play a joke on three sages.",
+  "hi": {
+   "text": "कुरुक्षेत्र के छत्तीस वर्ष बाद द्वारका सागर के किनारे जगमगाती है, और एक शाप चुपचाप सच हो रहा है। एक बालक तीन ऋषियों से मज़ाक करने वाला है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुरुक्षेत्रानंतर छत्तीस वर्षांनी द्वारका समुद्राकाठी लखलखत आहे, आणि एक शाप शांतपणे खरा होत आहे. एक मुलगा तीन ऋषींची थट्टा करणार आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/krishna-chooses-1.webp",
+   "w": 796,
+   "h": 1100,
+   "caption": {
+    "en": "Shri Krishna as envoy in the Kaurava court (Raja Ravi Varma)",
+    "hi": {
+     "text": "कौरव सभा में दूत बनकर आए श्रीकृष्ण (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कौरवसभेत शिष्टाई करणारे श्रीकृष्ण (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_as_Envoy.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A joke that went too far",
+    "hi": {
+     "text": "एक मज़ाक जो हद से बढ़ गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "थट्टा जी फार पुढे गेली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Thirty-six years had passed since the war. Yudhishthira ruled in peace at Hastinapura. At Dwarka, the golden city by the western sea, Krishna’s Yadava clan had grown wealthy, proud and careless. Their young men feasted and drank and laughed at the old rules.\n\nOne day, some Yadava youths visited the shore, where the sages Vishvamitra, Kanva and Narada were resting. A mischievous boy, Samba, Krishna’s son, was dressed as a pregnant woman with a cloth stuffed under his dress. The youths led him to the sages with a laugh. “Holy ones, this woman is with child. Tell us, will it be a boy or a girl?”\n\nThe sages looked at the boy and saw through the trick. Their eyes blazed. “Foolish children,” said one, “you mock the holy. This boy will give birth to an iron club that will destroy your whole race.”\n\nThe youths ran away, frightened. They told Krishna. He did not say much. “It will be as the sages have said,” he told them, and looked out to sea.\n\nThe next day, Samba, to his horror, gave birth to an iron pestle.",
+    "hi": {
+     "text": "युद्ध को छत्तीस वर्ष बीत चुके थे। युधिष्ठिर हस्तिनापुर में शांति से राज कर रहे थे। पश्चिमी सागर के किनारे स्वर्ण नगरी द्वारका में कृष्ण का यादव कुल धनी, अहंकारी और लापरवाह हो चुका था। उनके नौजवान भोज करते, मदिरा पीते और पुराने नियमों पर हँसते थे।\n\nएक दिन कुछ यादव युवक समुद्र तट पर गए, जहाँ विश्वामित्र, कण्व और नारद मुनि विश्राम कर रहे थे। शरारती बालक साम्ब, कृष्ण का पुत्र, एक गर्भवती स्त्री का वेश धरे था, उसके वस्त्र के भीतर कपड़ा ठूँसा हुआ था। युवक हँसते हुए उसे ऋषियों के पास ले गए। “पूज्य ऋषिगण, यह स्त्री गर्भवती है। बताइए, पुत्र होगा या पुत्री?”\n\nऋषियों ने बालक को देखा और छल को पहचान लिया। उनकी आँखें दहक उठीं। “मूर्ख बालको,” एक ने कहा, “तुम पवित्र जनों का उपहास करते हो। यह बालक एक लोहे का मूसल जनेगा जो तुम्हारे पूरे वंश का नाश कर देगा।”\n\nयुवक डरकर भाग गए। उन्होंने कृष्ण को बताया। वे अधिक कुछ नहीं बोले। “जैसा ऋषियों ने कहा है, वैसा ही होगा,” उन्होंने कहा, और समुद्र की ओर देखते रहे।\n\nअगले दिन, साम्ब ने भय से भरकर एक लोहे के मूसल को जन्म दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धाला छत्तीस वर्षे झाली होती. हस्तिनापुरात युधिष्ठिर शांततेत राज्य करीत होता. पश्चिम समुद्राकाठच्या सोन्याच्या नगरी द्वारकेत श्रीकृष्णाचे यादव कुळ श्रीमंत, गर्विष्ठ आणि बेफिकीर झाले होते. त्यांचे तरुण मेजवान्या झोडत, मद्य पीत आणि जुन्या नियमांवर हसत.\n\nएके दिवशी काही यादव तरुण समुद्रकिनाऱ्यावर गेले, जिथे विश्वामित्र, कण्व आणि नारद हे ऋषी विश्रांती घेत होते. श्रीकृष्णाचा खोडकर पुत्र सांब याला कपड्यात कापड भरून गर्भवती स्त्रीचा वेष दिला होता. तरुणांनी हसत हसत त्याला ऋषींकडे नेले. “पूज्य महाराज, ही स्त्री गर्भवती आहे. सांगा, मुलगा होईल की मुलगी?”\n\nऋषींनी त्या मुलाकडे पाहिले आणि कपट ओळखले. त्यांचे डोळे पेटले. “मूर्ख मुलांनो,” एक म्हणाला, “तुम्ही पवित्र लोकांची थट्टा करता. हा मुलगा लोखंडी मुसळाला जन्म देईल, जे तुमच्या सर्व वंशाचा नाश करील.”\n\nतरुण घाबरून पळाले. त्यांनी श्रीकृष्णाला सांगितले. ते फार काही बोलले नाहीत. “ऋषी म्हणाले तसेच होईल,” ते त्यांना म्हणाले, आणि समुद्राकडे पाहिले.\n\nदुसऱ्या दिवशी सांबाने, भयभीत होऊन, लोखंडी मुसळाला जन्म दिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The pestle in the sea",
+    "hi": {
+     "text": "सागर में मूसल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "समुद्रातले मुसळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The terrified Yadavas ground the pestle to powder and threw it into the sea. They forbade strong drink in the city. But omens grew. Strange winds blew. Rats ate the sleeping people’s hair. The sun seemed dim at noon. The great discus of Krishna rose from the house and flew away into the sky.\n\n“It is time,” said Krishna. He called all the Yadavas together. “Let us go to Prabhasa, to the shore, and bathe in the holy water. Perhaps that will wash away the sin.”\n\nThe powder from the pestle had washed ashore and grown into tall, sharp reeds. Nobody noticed. The whole clan went in their chariots to the beach. They held a great feast. They drank wine, in spite of the ban, and they laughed and told old stories of the war.\n\nTwo of the great warriors, Satyaki and Kritavarma, began to quarrel. Satyaki taunted Kritavarma for the night raid in which he had killed the sleeping sons of Draupadi. Kritavarma replied that Satyaki had killed an unarmed man in the war.\n\nTheir voices grew loud. Others took sides. And all at once, someone reached for a reed.",
+    "hi": {
+     "text": "भयभीत यादवों ने मूसल को पीसकर चूर्ण बना दिया और समुद्र में फेंक दिया। उन्होंने नगर में मदिरा पर रोक लगा दी। पर अपशकुन बढ़ते गए। अजीब हवाएँ चलने लगीं। चूहे सोते हुए लोगों के बाल कुतर गए। दोपहर में सूर्य मंद दिखाई देता था। कृष्ण का महान चक्र घर से उठकर आकाश में उड़ गया।\n\n“समय आ गया है,” कृष्ण ने कहा। उन्होंने सब यादवों को इकट्ठा किया। “चलो, प्रभास तीर्थ चलें, समुद्र के तट पर, और पवित्र जल में स्नान करें। शायद इससे पाप धुल जाए।”\n\nमूसल का चूर्ण बहकर तट पर आ लगा था और ऊँचे, तीखे सरकंडों में उग आया था। किसी ने ध्यान नहीं दिया। पूरा कुल अपने रथों में बैठकर समुद्र तट पर पहुँचा। उन्होंने बड़ा भोज किया। रोक के बावजूद उन्होंने मदिरा पी, और हँसते हुए युद्ध की पुरानी कथाएँ सुनाने लगे।\n\nदो महान योद्धा, सात्यकि और कृतवर्मा, झगड़ने लगे। सात्यकि ने कृतवर्मा को उस रात्रि-आक्रमण के लिए ताना मारा जिसमें उसने द्रौपदी के सोते हुए पुत्रों को मारा था। कृतवर्मा ने उत्तर दिया कि सात्यकि ने युद्ध में एक निहत्थे पुरुष को मारा था।\n\nउनके स्वर ऊँचे होते गए। दूसरे लोग पक्ष लेने लगे। और अचानक किसी ने एक सरकंडा उठा लिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "घाबरलेल्या यादवांनी मुसळ दळून त्याची पूड केली आणि ती समुद्रात फेकली. त्यांनी नगरात मद्यपानाला बंदी घातली. पण अपशकुन वाढत गेले. विचित्र वारे वाहिले. उंदरांनी झोपलेल्या लोकांचे केस खाल्ले. दुपारी सूर्य मंद दिसला. श्रीकृष्णाचे महान चक्र घरातून उठले आणि आकाशात उडून गेले.\n\n“वेळ आली आहे,” श्रीकृष्ण म्हणाले. त्यांनी सर्व यादवांना एकत्र बोलावले. “चला, प्रभासला समुद्रकिनारी जाऊ आणि पवित्र जलात स्नान करू. कदाचित त्याने पाप धुतले जाईल.”\n\nमुसळाची पूड किनाऱ्यावर वाहून आली होती आणि उंच, धारदार गवतात बदलली होती. कुणाच्या लक्षात आले नाही. सारे कुळ रथांनी किनाऱ्यावर गेले. त्यांनी मोठी मेजवानी केली. बंदी असूनही त्यांनी मद्य प्यायले, आणि ते हसले आणि युद्धाच्या जुन्या कथा सांगू लागले.\n\nदोन महान योद्धे, सात्यकी आणि कृतवर्मा, भांडू लागले. सात्यकीने कृतवर्म्याला त्या रात्रीच्या हल्ल्याबद्दल टोमणा मारला ज्यात त्याने द्रौपदीच्या झोपलेल्या पुत्रांना मारले होते. कृतवर्म्याने उत्तर दिले की सात्यकीने युद्धात निःशस्त्र माणसाला मारले होते.\n\nत्यांचे आवाज चढले. इतरांनी बाजू घेतल्या. आणि एकदम, कुणीतरी गवताच्या पात्याकडे हात नेला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The reeds",
+    "hi": {
+     "text": "सरकंडे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गवत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The reeds, in their hands, became iron clubs. A blow was struck, and then another. Within minutes the whole beach was full of fighting, fathers against sons, brother against brother, friend against friend, each seeing an enemy in every face.\n\nKrishna stood at the edge, watching. He did not stop them. He took a reed himself and struck down those who came at him, but there was no stopping what had begun. His own son Pradyumna fell. Then Samba. Then, one by one, all the proud Yadava heroes.\n\nBy nightfall, the sea beach was silent. Only the surf murmured. Nothing remained of the great Yadava clan but a few women and children, and two men: Krishna, and his elder brother Balarama.\n\nKrishna sent his charioteer Daruka to Hastinapura to fetch Arjuna and bring the women to safety. Then he walked slowly to the forest, where Balarama sat under a tree. The great elder brother, who had held a plough over his shoulder through every age, was in deep meditation.\n\nAs Krishna watched, a white serpent came out of Balarama’s mouth, vast and shining. It slid across the sand and entered the sea, where the ocean himself, with hundreds of nagas, bowed to receive it.",
+    "hi": {
+     "text": "उनके हाथों में सरकंडे लोहे की गदाएँ बन गए। एक प्रहार हुआ, फिर दूसरा। कुछ ही मिनटों में पूरा तट लड़ाई से भर गया, पिता पुत्रों के विरुद्ध, भाई भाई के विरुद्ध, मित्र मित्र के विरुद्ध, हर चेहरे में शत्रु देखते हुए।\n\nकृष्ण किनारे खड़े देखते रहे। उन्होंने उन्हें रोका नहीं। उन्होंने स्वयं एक सरकंडा उठाया और जो उन पर आए उन्हें गिराया, पर जो शुरू हो चुका था उसे रोका नहीं जा सकता था। उनका अपना पुत्र प्रद्युम्न गिर पड़ा। फिर साम्ब। फिर, एक-एक करके, सारे अभिमानी यादव वीर।\n\nसाँझ तक समुद्र तट शांत हो गया। केवल लहरें बुदबुदा रही थीं। विशाल यादव कुल में कुछ स्त्रियों और बच्चों, और दो पुरुषों के सिवा कुछ नहीं बचा: कृष्ण, और उनके बड़े भाई बलराम।\n\nकृष्ण ने अपने सारथी दारुक को हस्तिनापुर भेजा कि वह अर्जुन को बुला लाए और स्त्रियों को सुरक्षित स्थान पर पहुँचाए। फिर वे धीरे-धीरे वन की ओर चले, जहाँ बलराम एक वृक्ष के नीचे बैठे थे। वे महान बड़े भाई, जिन्होंने हर युग में कंधे पर हल उठाया था, गहरे ध्यान में थे।\n\nकृष्ण के देखते-देखते बलराम के मुख से एक श्वेत सर्प निकला, विशाल और चमकता हुआ। वह रेत पर सरकता हुआ समुद्र में प्रवेश कर गया, जहाँ स्वयं समुद्र ने, सैकड़ों नागों के साथ, प्रणाम करके उसका स्वागत किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांच्या हातातले गवत लोखंडी गदा बनले. एक प्रहार झाला, मग आणखी एक. काही मिनिटांतच सारा किनारा मारामारीने भरून गेला, वडील मुलांविरुद्ध, भाऊ भावाविरुद्ध, मित्र मित्राविरुद्ध, प्रत्येकाला प्रत्येक चेहऱ्यात शत्रू दिसत होता.\n\nश्रीकृष्ण कडेला उभे राहून पाहत होते. त्यांनी त्यांना थांबवले नाही. त्यांनी स्वतः एक गवताचे पाते घेतले आणि जे त्यांच्यावर आले त्यांना पाडले, पण जे सुरू झाले होते ते थांबवता येत नव्हते. त्यांचा स्वतःचा पुत्र प्रद्युम्न पडला. मग सांब. मग एकामागून एक सारे अभिमानी यादव वीर.\n\nसंध्याकाळपर्यंत समुद्रकिनारा शांत झाला. फक्त लाटा कुजबुजत होत्या. महान यादव कुळापैकी काही स्त्रिया आणि मुले, आणि दोन पुरुष उरले: श्रीकृष्ण, आणि त्यांचे ज्येष्ठ बंधू बलराम.\n\nश्रीकृष्णांनी आपला सारथी दारुक याला अर्जुनाला आणायला आणि स्त्रियांना सुरक्षित नेण्यासाठी हस्तिनापुराला पाठवले. मग ते हळूहळू वनाकडे चालत गेले, जिथे बलराम एका झाडाखाली बसले होते. प्रत्येक युगात खांद्यावर नांगर धरणारे ते थोर वडील बंधू गाढ ध्यानात होते.\n\nश्रीकृष्ण पाहत असताना, बलरामांच्या मुखातून एक विशाल, चमकणारा पांढरा नाग बाहेर आला. तो वाळूवरून सरकत समुद्रात शिरला, जिथे स्वतः समुद्राने शेकडो नागांसह नमस्कार करून त्याचे स्वागत केले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The hunter’s arrow",
+    "hi": {
+     "text": "बहेलिये का बाण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पारध्याचा बाण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Now Krishna was alone. He sat in the forest, under a peepal tree, in the stillness of the evening. He drew his legs up beneath him, and rested his left foot on his right knee. He closed his eyes. His body was relaxed, as in sleep. The red soles of his foot glowed in the dusk like a lotus.\n\nNot far off, a hunter named Jara was moving through the underbrush, looking for deer. Through the leaves he caught a glimpse of something red and moving, like the ear of a deer. He drew his bow. He shot.\n\nThe arrow struck. A cry rang out. The hunter pushed through the brush, and stopped in horror. A man in yellow robes lay under the tree, with an arrow in his foot.\n\n“Forgive me!” cried Jara, falling to the ground. “I thought you were a deer. What have I done? I will go into fire. I will die for this.”\n\nKrishna opened his eyes. He looked at the weeping man, and he smiled with great gentleness. “Do not grieve,” he said. “This was all written long ago. In another life, you were Vali, whom I shot from behind, as Rama. Now the account is closed. Rise. Go to heaven.”",
+    "hi": {
+     "text": "अब कृष्ण अकेले थे। वे वन में एक पीपल के वृक्ष के नीचे, साँझ की शांति में बैठे। उन्होंने पाँव अपने नीचे समेटे, और बायाँ पैर दाएँ घुटने पर टिका लिया। उन्होंने आँखें मूँद लीं। उनका शरीर शिथिल था, जैसे नींद में हो। उनके पैर के लाल तलवे धुँधलके में कमल की तरह दमक रहे थे।\n\nकुछ दूर जरा नाम का एक बहेलिया झाड़ियों में हिरण खोजता घूम रहा था। पत्तों के बीच से उसे कुछ लाल और हिलता हुआ दिखाई दिया, हिरण के कान जैसा। उसने धनुष खींचा। उसने बाण चलाया।\n\nबाण लगा। एक चीख गूँजी। बहेलिया झाड़ियों को चीरता हुआ आया, और भय से ठिठक गया। पीले वस्त्रों में एक पुरुष वृक्ष के नीचे पड़ा था, उसके पैर में बाण धँसा हुआ था।\n\n“क्षमा करें!” जरा चिल्लाया और भूमि पर गिर पड़ा। “मैंने आपको हिरण समझा। मैंने यह क्या कर दिया? मैं अग्नि में प्रवेश कर लूँगा। मैं इसके लिए प्राण दे दूँगा।”\n\nकृष्ण ने आँखें खोलीं। उन्होंने रोते हुए उस पुरुष को देखा, और अत्यंत कोमलता से मुस्कुराए। “शोक मत करो,” उन्होंने कहा। “यह सब बहुत पहले लिखा जा चुका था। पिछले जन्म में तुम बाली थे, जिसे मैंने राम के रूप में पीछे से बाण मारा था। अब हिसाब पूरा हुआ। उठो। स्वर्ग जाओ।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता श्रीकृष्ण एकटे होते. ते संध्याकाळच्या शांततेत वनात पिंपळाच्या झाडाखाली बसले. त्यांनी आपले पाय आत घेतले, आणि डावा पाय उजव्या गुडघ्यावर ठेवला. त्यांनी डोळे मिटले. त्यांचे शरीर झोपेप्रमाणे शिथिल होते. त्यांच्या पावलाचे लाल तळवे संधिप्रकाशात कमळासारखे उजळले होते.\n\nजवळच जरा नावाचा एक पारधी हरणांच्या शोधात झुडपांतून फिरत होता. पानांतून त्याला काहीतरी लाल आणि हलणारे दिसले, हरणाच्या कानासारखे. त्याने धनुष्य ताणले. त्याने बाण सोडला.\n\nबाण लागला. एक किंकाळी उठली. पारधी झुडपातून पुढे गेला, आणि भयाने थांबला. झाडाखाली पिवळे वस्त्र घातलेला एक माणूस पडला होता, पायात बाण रुतलेला.\n\n“मला क्षमा करा!” जरा जमिनीवर कोसळत ओरडला. “मला वाटले तुम्ही हरीण आहात. मी काय केले? मी अग्नीत प्रवेश करीन. मी यासाठी मरेन.”\n\nश्रीकृष्णांनी डोळे उघडले. त्यांनी रडणाऱ्या माणसाकडे पाहिले, आणि अपार सौम्यतेने हसले. “दुःख करू नकोस,” ते म्हणाले. “हे सारे फार पूर्वी लिहिले गेले होते. दुसऱ्या जन्मात तू वाली होतास, ज्याला मी, राम म्हणून, पाठीमागून मारले. आता हिशेब पूर्ण झाला. ऊठ. स्वर्गात जा.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sea comes for Dwarka",
+    "hi": {
+     "text": "सागर द्वारका की ओर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्वारकेवर समुद्र चाल करतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jara rose, trembling and healed in spirit, and a shining chariot took him up to the heavens.\n\nKrishna then turned his mind inward. He gathered his breath and spirit, and a light, as bright as a thousand suns, rose from his body and ascended through the sky, lighting the clouds. The gods and sages greeted him from heaven, and the divine nymphs danced. Krishna had completed his work on earth.\n\nDaruka the charioteer, in grief, reached Hastinapura and told the Pandavas. Arjuna rushed to Dwarka, found the widows of the Yadavas and led them out of the city in a long, sorrowful line.\n\nAs they left the gate, the sea began to rise. Waves rolled over the golden streets, over the palace of Krishna, over the temples and gardens. The ocean swallowed Dwarka, house by house, until only the water remained, calm and bright. Only the temple of Krishna, the old storytellers say, was spared for a little while.\n\nOn the shore, Arjuna stood and watched his friend’s city disappear. He did not speak, and the wind blew across his face.",
+    "hi": {
+     "text": "जरा काँपता हुआ उठा, मन से निर्मल होकर, और एक दीप्तिमान रथ उसे स्वर्ग ले गया।\n\nफिर कृष्ण ने अपना मन भीतर की ओर मोड़ लिया। उन्होंने अपनी साँस और प्राण को समेटा, और हज़ार सूर्यों जैसा तेज उनके शरीर से उठकर आकाश में चढ़ा, बादलों को आलोकित करता हुआ। स्वर्ग से देवताओं और ऋषियों ने उनका स्वागत किया, और दिव्य अप्सराएँ नाचीं। कृष्ण ने पृथ्वी पर अपना कार्य पूर्ण कर लिया था।\n\nशोक में डूबा सारथी दारुक हस्तिनापुर पहुँचा और पांडवों को बताया। अर्जुन दौड़ता हुआ द्वारका पहुँचा, यादवों की विधवाओं को पाया और उन्हें एक लंबी, दुखभरी पंक्ति में नगर से बाहर ले गया।\n\nजब वे द्वार से निकले, तो समुद्र ऊपर उठने लगा। लहरें स्वर्णिम सड़कों पर, कृष्ण के महल पर, मंदिरों और उद्यानों पर चढ़ आईं। सागर ने द्वारका को घर-घर निगल लिया, जब तक केवल शांत और चमकता जल न रह गया। पुराने कथावाचक कहते हैं कि केवल कृष्ण का मंदिर कुछ समय के लिए बचा रहा।\n\nतट पर खड़े अर्जुन ने अपने मित्र की नगरी को लुप्त होते देखा। वह कुछ नहीं बोला, और हवा उसके चेहरे पर बहती रही।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जरा थरथरत उठला, आत्म्याने बरा झालेला, आणि एका तेजस्वी रथाने त्याला स्वर्गात नेले.\n\nमग श्रीकृष्णांनी मन अंतर्मुख केले. त्यांनी श्वास आणि आत्मा एकवटले, आणि हजार सूर्यांसारखे तेजस्वी प्रकाश त्यांच्या शरीरातून उठून आकाशातून वर गेला, ढगांना उजळत. देव आणि ऋषींनी त्यांचे स्वर्गातून स्वागत केले, आणि दिव्य अप्सरांनी नृत्य केले. श्रीकृष्णांनी पृथ्वीवरचे आपले कार्य पूर्ण केले होते.\n\nसारथी दारुक दुःखाने हस्तिनापुराला पोहोचला आणि त्याने पांडवांना सांगितले. अर्जुन द्वारकेकडे धावला, यादवांच्या विधवांना शोधून काढले आणि त्यांना एका लांब, दुःखी रांगेत नगराबाहेर नेले.\n\nते वेशीबाहेर पडताच समुद्र वाढू लागला. लाटा सोन्याच्या रस्त्यांवरून, श्रीकृष्णाच्या महालावरून, मंदिरे आणि उद्यानांवरून लोटल्या. समुद्राने द्वारकेला घर घर करून गिळले, शेवटी फक्त पाणी उरले, शांत आणि तेजस्वी. जुने कथेकरी सांगतात की फक्त श्रीकृष्णाचे मंदिर थोडा काळ वाचले.\n\nकिनाऱ्यावर अर्जुन उभा राहून आपल्या मित्राचे नगर नाहीसे होताना पाहत राहिला. तो बोलला नाही, आणि वारा त्याच्या चेहऱ्यावरून वाहत राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "When the bow is empty",
+    "hi": {
+     "text": "जब धनुष खाली हो गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धनुष्य रिकामे होते तेव्हा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna led the women north. On the road, robbers attacked them. He lifted Gandiva, but the old magic was gone. His arms felt like straw. He could not even string the bow. He tried to call the divine weapons, and the mantras would not come to his lips. The women were carried off before his eyes.\n\nWeeping, he returned to Vyasa. “Great sage, I do not understand. I am Arjuna, the great archer. What has happened?”\n\n“It was never you alone,” said Vyasa gently. “All your strength, your arrows, your victories, came from Krishna, who stood beside you. He has gone. Your work, and that of your brothers, is done. The time has come for you to leave this world as well.”\n\nArjuna bowed his head. He understood at last what the old sage had always known. He had been the instrument, and Krishna the hand that held him.\n\nOn the sea shore where Dwarka had stood, the waves still murmured. Perhaps they were saying what Krishna had once said, long ago, on another field: that when dharma falls, a light will come again.",
+    "hi": {
+     "text": "अर्जुन स्त्रियों को लेकर उत्तर की ओर चला। मार्ग में लुटेरों ने उन पर आक्रमण किया। उसने गांडीव उठाया, पर पुरानी शक्ति जा चुकी थी। उसकी भुजाएँ तिनके जैसी लग रही थीं। वह धनुष पर प्रत्यंचा भी न चढ़ा सका। उसने दिव्य अस्त्रों को पुकारना चाहा, और मंत्र उसके होंठों पर आए ही नहीं। स्त्रियों को उसकी आँखों के सामने उठा ले गए।\n\nरोते हुए वह व्यास के पास लौटा। “महर्षि, मुझे समझ नहीं आता। मैं अर्जुन हूँ, महान धनुर्धर। यह क्या हो गया?”\n\n“यह कभी केवल तुम्हारे बल से नहीं था,” व्यास ने कोमलता से कहा। “तुम्हारी सारी शक्ति, तुम्हारे बाण, तुम्हारी विजयें, सब कृष्ण से आए थे, जो तुम्हारे साथ खड़े थे। वे चले गए। तुम्हारा और तुम्हारे भाइयों का काम पूरा हुआ। अब तुम्हारे भी इस संसार को छोड़ने का समय आ गया है।”\n\nअर्जुन ने सिर झुका लिया। वह आख़िर वह समझ गया जो वृद्ध ऋषि सदा से जानते थे। वह निमित्त था, और कृष्ण वह हाथ जो उसे थामे थे।\n\nजिस सागर तट पर द्वारका खड़ी थी, वहाँ लहरें अब भी बुदबुदा रही थीं। शायद वे वही कह रही थीं जो कृष्ण ने बहुत पहले, किसी और रणभूमि पर कहा था: कि जब धर्म की हानि होती है, तब एक प्रकाश फिर आता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाने स्त्रियांना उत्तरेकडे नेले. वाटेत लुटारूंनी त्यांच्यावर हल्ला केला. त्याने गांडीव उचलले, पण जुनी जादू गेली होती. त्याचे हात गवतासारखे वाटले. त्याला धनुष्याला प्रत्यंचाही चढवता आली नाही. त्याने दिव्य अस्त्रांना हाक मारायचा प्रयत्न केला, आणि मंत्र त्याच्या ओठांवर आले नाहीत. त्याच्या डोळ्यांसमोर स्त्रियांना पळवून नेले गेले.\n\nरडत तो व्यासांकडे परतला. “महर्षी, मला समजत नाही. मी अर्जुन आहे, महान धनुर्धर. काय झाले आहे?”\n\n“ते कधीच फक्त तू नव्हतास,” व्यास हळुवारपणे म्हणाले. “तुझे सारे सामर्थ्य, तुझे बाण, तुझे विजय, तुझ्या शेजारी उभ्या असलेल्या श्रीकृष्णाकडून आले. तो गेला आहे. तुझे आणि तुझ्या भावांचे कार्य संपले आहे. आता तुम्हीही हे जग सोडायची वेळ आली आहे.”\n\nअर्जुनाने मान झुकवली. वृद्ध ऋषींना जे नेहमी ठाऊक होते ते त्याला शेवटी समजले. तो निमित्त होता, आणि श्रीकृष्ण त्याला धरणारा हात.\n\nद्वारका जिथे उभी होती त्या समुद्रकिनाऱ्यावर लाटा अजूनही कुजबुजत होत्या. कदाचित त्या ते सांगत होत्या जे श्रीकृष्णांनी फार पूर्वी दुसऱ्या मैदानावर म्हटले होते: धर्माची हानी होते, तेव्हा प्रकाश पुन्हा येईल.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+  "cite": {
+   "en": "Bhagavad Gita 4.7",
+   "hi": {
+    "text": "श्रीमद्भगवद्गीता 4.7",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता ४.७",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Whenever dharma declines and adharma rises, O Bharata, I bring myself forth.",
+   "hi": {
+    "text": "हे भारत, जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब मैं स्वयं को प्रकट करता हूँ।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "हे भारता, जेव्हा जेव्हा धर्माची हानी होते आणि अधर्म वाढतो, तेव्हा तेव्हा मी स्वतःला प्रकट करतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Everything Arjuna thought was his own strength had come from a friend beside him. What good in your life has come through someone else’s love? Today, thank one person quietly and truly, and remember the source of all gifts.",
+  "hi": {
+   "text": "अर्जुन जिसे अपना बल समझता था, वह सब उसके पास खड़े एक मित्र से आया था। आपके जीवन में जो भी अच्छा है, वह किसी और के प्रेम से कैसे आया? आज एक व्यक्ति को चुपचाप और सच्चे मन से धन्यवाद दीजिए, और याद रखिए कि सब उपहारों का स्रोत क्या है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुनाला जे आपले स्वतःचे सामर्थ्य वाटले ते सारे शेजारी असलेल्या मित्राकडून आले होते. तुमच्या आयुष्यातील कोणते चांगले दुसऱ्याच्या प्रेमातून आले आहे? आज एका व्यक्तीचे शांतपणे आणि मनापासून आभार माना, आणि सर्व देणग्यांचा स्रोत आठवा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Nothing in this world lasts, but the divine presence that moves through all things never leaves.",
+  "hi": {
+   "text": "इस संसार में कुछ भी सदा नहीं रहता, पर वह दिव्य उपस्थिति जो सबमें बहती है, कभी नहीं जाती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "या जगात काहीही टिकत नाही, पण सर्व गोष्टींतून वाहणारी दिव्य उपस्थिती कधीही सोडून जात नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Mausala Parva; the earlier verse is from the Bhagavad Gita",
+  "hi": {
+   "text": "महाभारत, मौसल पर्व; पहला श्लोक भगवद्गीता का है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, मौसल पर्व; आधीचा श्लोक भगवद्गीतेतील आहे",
+   "reviewed": false
+  }
+ }
+}

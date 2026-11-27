@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "kunti-and-karna",
+ "order": 21,
+ "part": "udyoga",
+ "figure": {
+  "en": "Karna",
+  "hi": {
+   "text": "कर्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कर्ण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The gift of the sun’s son",
+  "hi": {
+   "text": "सूर्यपुत्र का दान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सूर्यपुत्राचे दान",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Karna has never turned away anyone who asked him for a gift, and tonight a stranger in a brahmin’s robe is asking for his own skin. Then a queen waits on the riverbank to ask for something harder.",
+  "hi": {
+   "text": "कर्ण ने आज तक किसी माँगने वाले को ख़ाली हाथ नहीं लौटाया, और आज रात ब्राह्मण के वेश में एक अजनबी उनकी अपनी त्वचा माँग रहा है। फिर नदी के तट पर एक रानी उनसे उससे भी कठिन कुछ माँगने की प्रतीक्षा करती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कर्णाने आजवर मागणाऱ्या कुणालाही दानासाठी नकार दिला नाही, आणि आज रात्री ब्राह्मणाच्या वेषातला एक अनोळखी माणूस त्याची स्वतःची कातडीच मागत आहे. मग नदीकाठी एक राणी त्याहून कठीण गोष्ट मागायला वाट पाहत आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/fall-of-karna-2.webp",
+   "w": 751,
+   "h": 680,
+   "caption": {
+    "en": "Karna on his chariot at Kurukshetra (Indian painting)",
+    "hi": {
+     "text": "कुरुक्षेत्र में अपने रथ पर कर्ण (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुरुक्षेत्रावर आपल्या रथावर कर्ण (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg: Artist/maker unknown, India, Himachal Pradesh or Jammu and Kashmir, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Karna_in_Kurukshetra.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Karna the giver",
+    "hi": {
+     "text": "दानवीर कर्ण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दानशूर कर्ण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Every morning, Karna stood waist-deep in the river and prayed to the Sun, his father, though he did not know it. And every morning, when his prayers were done, he made a vow that was famous across the world: whatever any person asked of him at that hour, he would give.\n\nKings praised him. Poor people loved him. He was born wearing golden armour and shining earrings that no weapon could pierce. No one who asked had ever been turned away.\n\nThe god Surya, the Sun himself, came to him in a dream. “My son,” he said, “Indra will come as a brahmin to ask for your armour and earrings. Do not give them, or Arjuna will defeat you.”\n\n“Father,” Karna said, “if I refuse a request, I break the one vow that makes me myself. I cannot do it. Let me be known as the man who never refused, even if I die.”\n\nThe Sun sighed in the dream, for he loved his son. “Then at least ask something in return.”\n\nAnd that is exactly what Karna did, for his sense of fairness was not foolish.",
+    "hi": {
+     "text": "हर सुबह कर्ण कमर तक नदी के जल में खड़े होकर सूर्य की उपासना करते, जो उनके पिता थे, यद्यपि कर्ण यह जानते नहीं थे। और हर सुबह, पूजा पूरी होने पर, वे एक प्रण दोहराते जो सारे संसार में प्रसिद्ध था: उस घड़ी जो भी, जो कुछ भी माँगेगा, वे उसे दे देंगे।\n\nराजा उनकी प्रशंसा करते थे। निर्धन उनसे प्रेम करते थे। वे जन्म से ही सोने का कवच और चमकते कुंडल पहने हुए थे, जिन्हें कोई शस्त्र भेद नहीं सकता था। आज तक कोई याचक उनके द्वार से खाली हाथ नहीं लौटा था।\n\nदेवता सूर्य, स्वयं सूर्यदेव, स्वप्न में उनके पास आए। “पुत्र,” उन्होंने कहा, “इंद्र ब्राह्मण का रूप धरकर तुमसे तुम्हारे कवच और कुंडल माँगने आएँगे। उन्हें मत देना, नहीं तो अर्जुन तुम्हें हरा देगा।”\n\n“पिताजी,” कर्ण ने कहा, “यदि मैंने किसी याचक को मना कर दिया, तो मैं वह एकमात्र प्रण तोड़ दूँगा जो मुझे मैं बनाता है। मैं ऐसा नहीं कर सकता। मुझे उस मनुष्य के रूप में जाना जाए जिसने कभी मना नहीं किया, चाहे मुझे प्राण ही देने पड़ें।”\n\nस्वप्न में सूर्यदेव ने आह भरी, क्योंकि वे अपने पुत्र से प्रेम करते थे। “तो कम से कम बदले में कुछ माँग लेना।”\n\nऔर कर्ण ने ठीक वही किया, क्योंकि उनकी न्यायप्रियता नासमझ नहीं थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रोज सकाळी कर्ण कमरेइतक्या पाण्यात उभा राहून सूर्याची प्रार्थना करी, जो आपला पिता आहे हे त्याला ठाऊक नव्हते. आणि रोज प्रार्थना संपल्यावर तो एक प्रतिज्ञा करी, जी जगभर प्रसिद्ध होती: त्या वेळी कुणीही त्याच्याकडे जे काही मागेल, ते तो देईल.\n\nराजे त्याची स्तुती करीत. गरीब त्याच्यावर प्रेम करीत. तो सोन्याचे कवच आणि चमकणारी कुंडले घालूनच जन्माला आला होता, ज्यांना कुठलेही शस्त्र भेदू शकत नव्हते. मागणाऱ्या कुणालाही त्याने कधी परत पाठवले नव्हते.\n\nसूर्यदेव स्वतः त्याच्या स्वप्नात आले. “बाळा,” ते म्हणाले, “इंद्र ब्राह्मणाच्या वेषात तुझे कवच आणि कुंडले मागायला येईल. ती देऊ नकोस, नाहीतर अर्जुन तुला हरवेल.”\n\n“पिताजी,” कर्ण म्हणाला, “मी मागणी नाकारली, तर ज्या प्रतिज्ञेमुळे मी मी आहे, तीच मोडेन. मला ते जमणार नाही. मी मेलो तरी चालेल, पण मला कधी नाही न म्हणणारा म्हणून ओळखले जाऊ दे.”\n\nस्वप्नात सूर्याने उसासा टाकला, कारण त्याचे आपल्या पुत्रावर प्रेम होते. “मग निदान त्याच्या बदल्यात काही मागून घे.”\n\nआणि कर्णाने नेमके तसेच केले, कारण त्याची न्यायबुद्धी मूर्ख नव्हती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Indra at the door",
+    "hi": {
+     "text": "द्वार पर इंद्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दारी इंद्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At noon, a brahmin came to Karna’s door with a staff and a beggar’s bowl. Karna rose at once and bowed.\n\n“What may I give you?” he asked.\n\n“I want your golden armour and your earrings,” said the old man.\n\nKarna knew who it was. Indra, king of the gods, wore a disguise because his own son Arjuna needed Karna’s protection stripped away. Karna did not point it out. He smiled instead. “O brahmin, you may have them. Only grant me a weapon in return.”\n\nIndra, taken aback, agreed. “I will give you my Vasavi Shakti, a spear that can kill any one enemy, once.”\n\nKarna took up a sharp knife. Slowly, without crying out, he cut his armour from his own body. Blood ran down his arms, but his face stayed calm. Then he sliced his earrings from his ears and placed them in the brahmin’s hands.\n\nThe watching gods fell silent. Even Indra felt shame for his trick. “From this day,” he said, “you will be known as Vaikartana, the one who cut himself and did not flinch.”",
+    "hi": {
+     "text": "दोपहर को एक ब्राह्मण हाथ में दंड और भिक्षापात्र लिए कर्ण के द्वार पर आया। कर्ण तुरंत उठे और प्रणाम किया।\n\n“मैं आपको क्या दूँ?” उन्होंने पूछा।\n\n“मुझे तुम्हारा स्वर्ण कवच और कुंडल चाहिए,” वृद्ध ने कहा।\n\nकर्ण जान गए कि यह कौन है। देवराज इंद्र ने भेष बदला था, क्योंकि उनके पुत्र अर्जुन के लिए कर्ण की यह रक्षा छीननी ज़रूरी थी। कर्ण ने यह प्रकट नहीं किया। वे मुस्कुराए। “हे ब्राह्मण, ये आपके हुए। बस बदले में मुझे एक अस्त्र दीजिए।”\n\nइंद्र हक्के-बक्के रह गए, पर मान गए। “मैं तुम्हें अपनी वासवी शक्ति दूँगा, एक ऐसा भाला जो किसी एक शत्रु का वध कर सकता है, पर केवल एक बार।”\n\nकर्ण ने एक तेज़ छुरी उठाई। धीरे-धीरे, बिना कराहे, उन्होंने अपने शरीर से कवच काटकर अलग कर दिया। बाँहों पर लहू बह चला, पर उनका मुख शांत रहा। फिर उन्होंने अपने कानों से कुंडल काटकर ब्राह्मण की हथेलियों में रख दिए।\n\nदेखते हुए देवता मौन रह गए। इंद्र को भी अपनी चाल पर लज्जा आई। “आज से,” उन्होंने कहा, “तुम वैकर्तन कहलाओगे, जिसने स्वयं को काटा और आह तक न की।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भर दुपारी एक ब्राह्मण हातात काठी आणि भिक्षापात्र घेऊन कर्णाच्या दारी आला. कर्ण लगेच उठला आणि त्याने नमस्कार केला.\n\n“मी आपल्याला काय देऊ?” त्याने विचारले.\n\n“मला तुझे सोन्याचे कवच आणि कुंडले हवी आहेत,” म्हातारा म्हणाला.\n\nकर्णाला कळले की हा कोण आहे. देवांचा राजा इंद्र वेष घेऊन आला होता, कारण त्याचा पुत्र अर्जुन याला कर्णाचे संरक्षण काढून घेणे गरजेचे होते. कर्णाने ते उघड केले नाही. तो हसला. “हे ब्राह्मणा, ती तुला मिळतील. फक्त त्याबदल्यात मला एक अस्त्र द्या.”\n\nइंद्र चकित झाला, आणि त्याने मान्य केले. “मी तुला माझी वासवी शक्ती देतो, एक भाला, जो कोणत्याही एका शत्रूचा वध करू शकतो, एकदाच.”\n\nकर्णाने धारदार सुरी उचलली. हळूहळू, आक्रोश न करता, त्याने आपल्या शरीरातून कवच कापून काढले. हातांवरून रक्त वाहत होते, पण चेहरा शांत होता. मग त्याने कानांतून कुंडले कापून काढली आणि ब्राह्मणाच्या हातांत ठेवली.\n\nपाहणारे देव स्तब्ध झाले. इंद्रालाही आपल्या कपटाची लाज वाटली. “आजपासून,” तो म्हणाला, “तू वैकर्तन म्हणून ओळखला जाशील, ज्याने स्वतःला कापले आणि डोळ्याचे पातेही हलवले नाही.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Krishna’s secret",
+    "hi": {
+     "text": "कृष्ण का रहस्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाचे रहस्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Before the war, Krishna drove to Karna’s house. He said gently, “Radheya, I must tell you who you are.”\n\nKarna listened as Krishna spoke. He was not the son of the charioteer Adhiratha. He was the eldest child of Kunti, born before her marriage, set adrift in a river. The five Pandavas were his brothers. “By right,” said Krishna, “the throne is yours. Come with me. Yudhishthira will bow to you. Draupadi will be your wife too. The world will be yours.”\n\nKarna was silent for a long time. A tear ran down his cheek.\n\n“Krishna,” he said, “you speak kindly. But Adhiratha and Radha raised me with love when no one else would. I cannot abandon them now. And Duryodhana gave me honour when I had none. I cannot desert him on the eve of battle. I know how this war will end. I know what is right. But I also know what loyalty is.”\n\nKrishna bowed his head. He had known what the answer would be. “You are the best of men,” he said softly, “and I am sorry for it.”",
+    "hi": {
+     "text": "युद्ध से पहले कृष्ण रथ में बैठकर कर्ण के घर गए। उन्होंने कोमलता से कहा, “राधेय, मुझे तुम्हें बताना है कि तुम कौन हो।”\n\nकृष्ण बोलते गए और कर्ण सुनते गए। वे सारथी अधिरथ के पुत्र नहीं थे। वे कुंती की सबसे बड़ी संतान थे, जो उसके विवाह से पहले जन्मे थे और जिन्हें नदी में बहा दिया गया था। पाँचों पांडव उनके भाई थे। “अधिकार से,” कृष्ण ने कहा, “सिंहासन तुम्हारा है। मेरे साथ चलो। युधिष्ठिर तुम्हारे चरणों में झुकेंगे। द्रौपदी तुम्हारी भी पत्नी होंगी। सारा संसार तुम्हारा होगा।”\n\nकर्ण बहुत देर तक चुप रहे। उनके गाल पर एक आँसू ढलक गया।\n\n“कृष्ण,” उन्होंने कहा, “आप प्रेम से कह रहे हैं। पर जब किसी ने मुझे नहीं अपनाया, तब अधिरथ और राधा ने मुझे प्रेम से पाला। मैं उन्हें अब नहीं छोड़ सकता। और दुर्योधन ने मुझे तब सम्मान दिया जब मेरे पास कोई सम्मान नहीं था। मैं युद्ध की पूर्व-संध्या पर उसे नहीं त्याग सकता। मुझे पता है कि यह युद्ध कैसे समाप्त होगा। मुझे पता है कि सही क्या है। पर मुझे यह भी पता है कि निष्ठा क्या होती है।”\n\nकृष्ण ने सिर झुका लिया। वे जानते थे कि उत्तर क्या होगा। “तुम मनुष्यों में सर्वश्रेष्ठ हो,” उन्होंने धीमे से कहा, “और मुझे इसका दुख है।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धापूर्वी श्रीकृष्ण रथाने कर्णाच्या घरी गेले. ते हळुवारपणे म्हणाले, “राधेया, तू कोण आहेस हे मला तुला सांगितलेच पाहिजे.”\n\nश्रीकृष्ण बोलत होते, आणि कर्ण ऐकत होता. तो सारथी अधिरथाचा पुत्र नव्हता. तो कुंतीचा ज्येष्ठ पुत्र होता, विवाहापूर्वी जन्मलेला, नदीत सोडून दिलेला. पाचही पांडव त्याचे भाऊ होते. “हक्काने,” श्रीकृष्ण म्हणाले, “सिंहासन तुझे आहे. माझ्यासोबत चल. युधिष्ठिर तुला नमस्कार करील. द्रौपदीही तुझी पत्नी होईल. सारे जग तुझे होईल.”\n\nकर्ण बराच वेळ गप्प राहिला. गालावरून एक अश्रू ओघळला.\n\n“श्रीकृष्णा,” तो म्हणाला, “तुम्ही प्रेमाने बोलता. पण कुणीच नव्हते तेव्हा अधिरथ आणि राधेने मला प्रेमाने वाढवले. मी त्यांना आता सोडू शकत नाही. आणि माझ्याकडे काहीच मान नव्हता तेव्हा दुर्योधनाने मला मान दिला. युद्धाच्या पूर्वसंध्येला मी त्याला सोडू शकत नाही. हे युद्ध कसे संपेल हे मला माहीत आहे. योग्य काय आहे हेही मला माहीत आहे. पण निष्ठा काय असते हेही मला माहीत आहे.”\n\nश्रीकृष्णाने मान झुकवली. उत्तर काय येणार हे त्यांना ठाऊक होते. “तू माणसांत सर्वश्रेष्ठ आहेस,” ते हळू म्हणाले, “आणि त्याचेच मला दुःख आहे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A queen by the river",
+    "hi": {
+     "text": "नदी के तट पर एक रानी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीकाठी एक राणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kunti had heard what Krishna said. She did not sleep. She walked down to the Ganga at dawn and waited, an old woman with her veil pulled close.\n\nKarna came to the river to pray, as always. He stood with his arms raised to the Sun. When he finished, he saw her.\n\n“Radheya,” she said, and her voice cracked. “I am your mother.”\n\nHe looked at her for a long time. “I am Karna, son of Adhiratha and Radha,” he said at last, gently. “What is it you want of me, Queen?”\n\n“I abandoned you,” she wept. “Not a day has passed without my grief. Come to your brothers. Take your place.”\n\n“You gave me up before I had a chance to know you,” Karna said, but without anger. “Now, when the war is near, you come to me for your sons’ sake. I cannot blame you. But I cannot join you.”\n\nThe Sun was bright above the river, and Karna’s shadow lay beside Kunti’s on the sand, mother and son, so near and so far.",
+    "hi": {
+     "text": "कुंती ने कृष्ण की बातें सुन ली थीं। वे सो न सकीं। भोर होते ही वे गंगा के तट पर चली गईं और प्रतीक्षा करने लगीं, एक वृद्धा, घूँघट को कसकर खींचे हुए।\n\nकर्ण हमेशा की तरह नदी पर पूजा करने आए। वे बाँहें उठाकर सूर्य की ओर खड़े थे। जब उन्होंने पूजा पूरी की तो उनकी दृष्टि कुंती पर पड़ी।\n\n“राधेय,” कुंती ने कहा, और उनका स्वर टूट गया। “मैं तुम्हारी माँ हूँ।”\n\nकर्ण बहुत देर तक उन्हें देखते रहे। “मैं कर्ण हूँ, अधिरथ और राधा का पुत्र,” आख़िर उन्होंने कोमलता से कहा। “महारानी, आप मुझसे क्या चाहती हैं?”\n\n“मैंने तुम्हें त्याग दिया था,” वे रो पड़ीं। “कोई दिन ऐसा नहीं बीता जब मुझे इसका दुख न हुआ हो। अपने भाइयों के पास चले आओ। अपना स्थान ग्रहण करो।”\n\n“आपने मुझे तब छोड़ दिया जब मैं आपको पहचान भी नहीं सकता था,” कर्ण ने कहा, पर क्रोध के बिना। “अब, जब युद्ध निकट है, आप अपने पुत्रों के लिए मेरे पास आई हैं। मैं आपको दोष नहीं दे सकता। पर मैं आपके साथ नहीं आ सकता।”\n\nनदी के ऊपर सूर्य चमक रहा था, और रेत पर कर्ण की छाया कुंती की छाया के बगल में पड़ी थी, माँ और पुत्र, इतने पास और फिर भी इतने दूर।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण काय म्हणाले ते कुंतीने ऐकले होते. तिला झोप लागली नाही. पहाटे ती गंगेच्या काठी गेली आणि वाट पाहत थांबली, पदर घट्ट ओढलेली एक वृद्ध स्त्री.\n\nकर्ण नेहमीप्रमाणे प्रार्थना करायला नदीवर आला. तो हात उंचावून सूर्यासमोर उभा होता. प्रार्थना संपल्यावर त्याने तिला पाहिले.\n\n“राधेया,” ती म्हणाली, आणि तिचा आवाज कापला. “मी तुझी माता आहे.”\n\nतो तिच्याकडे बराच वेळ पाहत राहिला. “मी कर्ण, अधिरथ आणि राधेचा पुत्र,” तो शेवटी हळुवारपणे म्हणाला. “राणी, आपल्याला माझ्याकडून काय हवे आहे?”\n\n“मी तुला सोडून दिले,” ती रडत म्हणाली. “माझ्या दुःखावाचून एकही दिवस गेला नाही. तुझ्या भावांकडे ये. तुझे स्थान घे.”\n\n“मला ओळखण्याची संधी मिळण्यापूर्वीच तुम्ही मला सोडले,” कर्ण म्हणाला, पण रागावून नाही. “आता युद्ध जवळ आले आहे, तेव्हा तुम्ही आपल्या मुलांसाठी माझ्याकडे आला आहात. मी तुम्हाला दोष देत नाही. पण मी तुमच्यासोबत येऊ शकत नाही.”\n\nनदीवर सूर्य तेजाने तळपत होता, आणि वाळूवर कर्णाची सावली कुंतीच्या सावलीशेजारी पडली होती, आई आणि मुलगा, इतके जवळ आणि तरी इतके दूर.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Four sons or five",
+    "hi": {
+     "text": "चार पुत्र या पाँच",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चार पुत्र की पाच",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kunti lowered her head. “Then I have lost you twice.”\n\n“Mother,” said Karna, and the word was so gentle that she looked up in surprise. It was the first time he had ever said it. “You will not leave empty-handed. I give you my word. I cannot spare Arjuna, for we are sworn rivals, and one of us must fall. But I will not kill Yudhishthira, nor Bhima, nor Nakula, nor Sahadeva, though I have them in my power.”\n\nHe smiled sadly. “Whatever happens, you will still have five sons. If I fall, there will be Arjuna and his brothers. If Arjuna falls, there will be me.”\n\nKunti took his hands in hers, the hands that had given so much to so many. She wept. She tried to embrace him, and he let her, only for a moment.\n\nThen he bowed to her feet, once, and turned and walked back to his chariot with his head high.\n\nShe watched him go until he was a speck on the road, the son she had not raised, whom she would never be able to name aloud until it was too late.",
+    "hi": {
+     "text": "कुंती ने सिर झुका लिया। “तो मैंने तुम्हें दो बार खो दिया।”\n\n“माँ,” कर्ण ने कहा, और वह शब्द इतना कोमल था कि कुंती ने चकित होकर ऊपर देखा। उन्होंने पहली बार उन्हें यह कहा था। “आप खाली हाथ नहीं लौटेंगी। मैं आपको वचन देता हूँ। मैं अर्जुन को नहीं छोड़ सकता, क्योंकि हम प्रतिज्ञाबद्ध प्रतिद्वंद्वी हैं और हम में से एक का गिरना तय है। पर मैं युधिष्ठिर, भीम, नकुल और सहदेव को नहीं मारूँगा, चाहे वे मेरे वश में आ जाएँ।”\n\nवे उदास मुस्कान के साथ बोले, “जो भी हो, आपके पाँच पुत्र बने रहेंगे। यदि मैं गिरा, तो अर्जुन और उसके भाई रहेंगे। यदि अर्जुन गिरा, तो मैं रहूँगा।”\n\nकुंती ने उनके हाथ अपने हाथों में ले लिए, वे हाथ जिन्होंने इतने लोगों को इतना कुछ दिया था। वे रो पड़ीं। उन्होंने उन्हें गले लगाना चाहा, और कर्ण ने उन्हें केवल एक क्षण के लिए ऐसा करने दिया।\n\nफिर उन्होंने एक बार उनके चरणों में प्रणाम किया, और मुड़कर सिर ऊँचा किए अपने रथ की ओर चल दिए।\n\nकुंती उन्हें तब तक देखती रहीं जब तक वे राह पर एक बिंदु न बन गए, वह पुत्र जिसे उन्होंने पाला नहीं था, और जिसका नाम वे बहुत देर होने तक कभी ऊँची आवाज़ में नहीं ले पाईं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंतीने मान खाली घातली. “म्हणजे मी तुला दोनदा गमावले.”\n\n“माते,” कर्ण म्हणाला, आणि तो शब्द इतका मृदू होता की तिने आश्चर्याने वर पाहिले. त्याने तो शब्द पहिल्यांदाच उच्चारला होता. “तुम्ही रिकाम्या हाताने जाणार नाही. मी तुम्हाला वचन देतो. अर्जुनाला मी सोडू शकत नाही, कारण आम्ही शपथबद्ध प्रतिस्पर्धी आहोत, आणि आमच्यातला एक पडलाच पाहिजे. पण युधिष्ठिर, भीम, नकुल आणि सहदेव यांना मी मारणार नाही, ते माझ्या ताब्यात आले तरी.”\n\nतो खिन्न हसला. “काहीही झाले तरी तुम्हाला पाच पुत्र राहतीलच. मी पडलो, तर अर्जुन आणि त्याचे भाऊ असतील. अर्जुन पडला, तर मी असेन.”\n\nकुंतीने त्याचे हात आपल्या हातांत घेतले, इतक्या लोकांना इतके काही देणारे ते हात. ती रडली. तिने त्याला आलिंगन द्यायचा प्रयत्न केला, आणि त्याने तिला क्षणभरच ते करू दिले.\n\nमग त्याने तिच्या पायांना एकदा नमस्कार केला, आणि वळून मान उंच ठेवून आपल्या रथाकडे चालत गेला.\n\nवाटेवरचा एक ठिपका होईपर्यंत ती त्याला जाताना पाहत राहिली, ज्या पुत्राला तिने वाढवले नव्हते, ज्याला उशीर झाल्याशिवाय ती मोठ्याने आपला म्हणू शकली नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What he knew",
+    "hi": {
+     "text": "जो वे जानते थे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याला काय ठाऊक होते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the long road back to camp, Karna did not speak. His charioteer wondered at his silence.\n\nHe knew now that he fought his own brothers. He knew that the cause he had chosen was not the just one. He knew Draupadi’s humiliation had been wrong, and that he himself had spoken cruelly in that hall. But he also knew that he had been given everything by a friend who loved him, and that to leave that friend now would make a lie of his whole life.\n\nSome people read his choice as pride. Others read it as the purest loyalty. The old storytellers say both are true, and that this is why he is so hard to forget.\n\nThat night, under the stars, Karna took out his bow. He did not hate anyone. He did not wish anyone ill. He cleaned each arrow with care, and prayed to his father the Sun, who rose each morning without asking whom he would warm.\n\n“Let me do my duty as I understand it,” said Karna softly, “and let the gods judge the rest.”",
+    "hi": {
+     "text": "शिविर की ओर लौटते लंबे मार्ग पर कर्ण कुछ नहीं बोले। उनके सारथी को उनकी चुप्पी पर आश्चर्य हुआ।\n\nवे अब जान गए थे कि वे अपने ही भाइयों से लड़ने जा रहे हैं। वे जान गए थे कि उन्होंने जो पक्ष चुना है वह न्याय का पक्ष नहीं है। वे जानते थे कि द्रौपदी का अपमान अनुचित था, और उस सभा में स्वयं उन्होंने कठोर बातें कही थीं। पर वे यह भी जानते थे कि जिस मित्र ने उन्हें सब कुछ दिया, जो उनसे प्रेम करता था, उसे अब छोड़ देना उनके पूरे जीवन को झूठा कर देगा।\n\nकुछ लोग उनके निर्णय को अभिमान समझते हैं। कुछ इसे शुद्धतम निष्ठा कहते हैं। पुराने कथावाचक कहते हैं कि दोनों सच हैं, और इसीलिए उन्हें भूल पाना इतना कठिन है।\n\nउस रात तारों के नीचे कर्ण ने अपना धनुष निकाला। उनके मन में किसी के लिए घृणा नहीं थी। वे किसी का बुरा नहीं चाहते थे। उन्होंने हर बाण को सावधानी से पोंछा, और अपने पिता सूर्य से प्रार्थना की, जो हर सुबह यह पूछे बिना उदित होते हैं कि वे किसे गर्मी देंगे।\n\n“मुझे अपना कर्तव्य वैसे निभाने दीजिए जैसा मैं उसे समझता हूँ,” कर्ण ने धीरे से कहा, “और बाकी का निर्णय देवताओं पर छोड़ता हूँ।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "छावणीकडे परतण्याच्या लांब वाटेवर कर्ण काही बोलला नाही. त्याच्या सारथ्याला त्याच्या शांततेचे आश्चर्य वाटले.\n\nआपण आपल्याच भावांशी लढत आहोत हे आता त्याला कळले होते. आपण निवडलेली बाजू न्यायाची नाही हेही त्याला कळले होते. द्रौपदीचा अपमान चुकीचा होता, आणि त्या सभेत आपणही क्रूरपणे बोललो, हेही त्याला ठाऊक होते. पण आपल्यावर प्रेम करणाऱ्या मित्राने आपल्याला सर्व काही दिले आहे, आणि त्या मित्राला आता सोडले तर आपले सारे आयुष्य खोटे ठरेल, हेही त्याला ठाऊक होते.\n\nकाही लोक त्याच्या निवडीला अहंकार समजतात. इतर लोक त्याला शुद्धतम निष्ठा समजतात. जुने कथेकरी म्हणतात की दोन्ही खरे आहे, आणि म्हणूनच त्याला विसरणे इतके कठीण आहे.\n\nत्या रात्री, ताऱ्यांखाली, कर्णाने आपले धनुष्य बाहेर काढले. त्याला कुणाचा द्वेष नव्हता. कुणाचे वाईट व्हावे असे त्याला वाटत नव्हते. त्याने प्रत्येक बाण काळजीपूर्वक पुसला, आणि आपल्या पित्याची, सूर्याची प्रार्थना केली, जो कुणाला ऊब द्यायची हे न विचारताच रोज सकाळी उगवतो.\n\n“मला जसे कळते तसे माझे कर्तव्य करू दे,” कर्ण हळू म्हणाला, “आणि बाकीचा न्याय देवांवर सोडू दे.”",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Karna kept his word even when it cost him everything. Is there a promise or a loyalty in your life that asks something hard of you? Today, check whether it is still your dharma or only your pride. Then keep it with kindness.",
+  "hi": {
+   "text": "कर्ण ने अपना वचन तब भी निभाया जब उसकी कीमत सब कुछ थी। क्या आपके जीवन में कोई वचन या निष्ठा है जो आपसे कुछ कठिन माँगती है? आज देखिए कि वह अब भी आपका धर्म है या केवल आपका अभिमान। फिर उसे प्रेम और कोमलता के साथ निभाइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कर्णाने आपला शब्द पाळला, तो त्याला सर्वस्व गमवावे लागले तरी. तुमच्या आयुष्यात असे एखादे वचन किंवा एखादी निष्ठा आहे का, जी तुमच्याकडून काही कठीण मागते? आज तपासून पाहा की ती अजूनही तुमचा धर्म आहे की फक्त तुमचा अहंकार. मग ती प्रेमाने पाळा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Loyalty and generosity are great, but they must be weighed against dharma, and even a wrong choice can be made with a noble heart.",
+  "hi": {
+   "text": "निष्ठा और दानशीलता महान हैं, पर उन्हें धर्म की कसौटी पर तौलना चाहिए, और ग़लत चुनाव भी एक उदार हृदय से किया जा सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निष्ठा आणि दानशूरता थोर आहेत, पण त्यांना धर्माच्या तराजूत तोलले पाहिजे, आणि चुकीची निवडही उदात्त हृदयाने केली जाऊ शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Vana and Udyoga Parvas",
+  "hi": {
+   "text": "महाभारत, वन और उद्योग पर्व",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, वन आणि उद्योग पर्व",
+   "reviewed": false
+  }
+ }
+}

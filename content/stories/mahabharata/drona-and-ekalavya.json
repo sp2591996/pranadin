@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "drona-and-ekalavya",
+ "order": 6,
+ "part": "adi",
+ "figure": {
+  "en": "Drona, Arjuna and Ekalavya",
+  "hi": {
+   "text": "द्रोण, अर्जुन और एकलव्य",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "द्रोणाचार्य, अर्जुन आणि एकलव्य",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The thumb that gave everything",
+  "hi": {
+   "text": "वह अँगूठा, जिसने सब कुछ दे दिया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वस्व देणारा अंगठा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A boy learns archery from a clay statue and becomes better than the prince his teacher loves. What the teacher asks of him in return is one of the most painful moments in the epic.",
+  "hi": {
+   "text": "एक बालक मिट्टी की मूर्ति से धनुर्विद्या सीखता है और उस राजकुमार से भी आगे निकल जाता है जिसे उसका गुरु सबसे प्रिय मानता है। बदले में गुरु जो माँगता है, वह महाकाव्य के सबसे पीड़ादायक क्षणों में से एक है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक मुलगा मातीच्या पुतळ्याकडून धनुर्विद्या शिकतो आणि आपल्या गुरूंचा लाडका राजपुत्र मागे टाकतो. त्या बदल्यात गुरू त्याला जे मागतात, तो या महाकाव्यातील सर्वात वेदनादायी क्षणांपैकी एक आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/drona-and-ekalavya-1.webp",
+   "w": 839,
+   "h": 1100,
+   "caption": {
+    "en": "Ekalavya practises archery before a clay image of Drona (from Myths of the Hindus and Buddhists, 1913)",
+    "hi": {
+     "text": "द्रोण की मिट्टी की मूर्ति के सामने धनुर्विद्या का अभ्यास करता एकलव्य (‘मिथ्स ऑफ़ द हिंदूज़ एंड बुद्धिस्ट्स’, 1913 से)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रोणांच्या मातीच्या मूर्तीसमोर धनुर्विद्येचा सराव करणारा एकलव्य (‘मिथ्स ऑफ द हिंदूज अँड बुद्धिस्ट्स’, 1913 मधून)",
+     "reviewed": false
+    }
+   },
+   "credit": "Author Sister Nivedita and Ananda Kentish Coomaraswamy Illustrator Nandalal Bose, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Myths_of_the_Hindus_%26_Buddhists_-_Ekalavya.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The ball in the well",
+    "hi": {
+     "text": "कुएँ में गेंद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विहिरीतला चेंडू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One afternoon the young princes of Hastinapura were playing ball in a field. The ball rolled into a dry well and sank out of reach. The boys peered down, but none could think how to lift it out.\n\nThen they noticed a lean brahmin watching them with amusement. He was dark-skinned, grey at the temples, with the calm of a man who has done difficult things.\n\n“Shame on the sons of the Kurus,” he said, smiling. “Is that all your skill?” He took a handful of grass blades and, with a murmur, shot one into the ball so that it stuck. He shot another into the end of the first, and another, forming a chain. Then he drew the chain up and out came the ball. Then, with a single arrow, he drew out the ring he had dropped.\n\nThe astonished boys ran to Bhishma and told him of the wonder. “That,” said Bhishma, “can only be Drona.”",
+    "hi": {
+     "text": "एक दोपहर हस्तिनापुर के राजकुमार मैदान में गेंद खेल रहे थे। गेंद लुढ़कती हुई एक सूखे कुएँ में जा गिरी और पहुँच से बाहर हो गई। लड़के झाँककर देखते रहे, पर किसी को निकालने का उपाय न सूझा।\n\nतभी उन्होंने देखा कि एक दुबले-पतले ब्राह्मण मुस्कुराते हुए उन्हें देख रहे हैं। वे साँवले थे, कनपटियों पर सफ़ेदी थी, और उनमें उस मनुष्य की शांति थी जिसने कठिन काम किए हों।\n\n“धिक्कार है कुरुओं के पुत्रों को,” उन्होंने मुस्कुराकर कहा। “क्या बस इतनी ही है तुम्हारी कुशलता?” उन्होंने मुट्ठी भर घास के तिनके लिए और कुछ बुदबुदाकर एक तिनका गेंद में ऐसा मारा कि वह धँस गया। दूसरा तिनका पहले के सिरे पर मारा, फिर तीसरा, और एक कड़ी बन गई। फिर उन्होंने कड़ी खींची और गेंद बाहर आ गई। फिर एक ही बाण से उन्होंने अपनी गिरी हुई अँगूठी भी निकाल ली।\n\nचकित बालक भागे-भागे भीष्म के पास गए और यह चमत्कार सुनाया। “यह,” भीष्म ने कहा, “द्रोण ही हो सकते हैं।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका दुपारी हस्तिनापूरचे तरुण राजकुमार मैदानात चेंडू खेळत होते. चेंडू एका कोरड्या विहिरीत घरंगळला आणि आवाक्याबाहेर गेला. मुलांनी आत डोकावले, पण तो वर कसा काढायचा हे कोणालाच सुचेना.\n\nतेव्हा त्यांच्या लक्षात आले की एक सडपातळ ब्राह्मण गमतीने त्यांच्याकडे पाहत आहे. तो सावळा होता, कानशिलांवर पांढरे केस आलेले, आणि कठीण गोष्टी केलेल्या माणसाची शांतता त्याच्या ठायी होती.\n\n“कुरूंच्या पुत्रांना लाज वाटायला हवी,” तो हसून म्हणाला. “एवढीच तुमची कला का?” त्याने मूठभर गवताची पाती घेतली आणि पुटपुटत एक पाते चेंडूत रुतेल असे सोडले. दुसरे त्या पात्याच्या टोकात सोडले, आणि मग आणखी एक, आणि साखळी तयार झाली. मग त्याने ती साखळी वर ओढली आणि चेंडू बाहेर आला. मग एका बाणाने त्याने आपली पडलेली अंगठीही वर काढली.\n\nथक्क झालेली मुले भीष्माकडे धावत गेली आणि त्यांनी हा चमत्कार सांगितला. “तो,” भीष्म म्हणाला, “फक्त द्रोणच असू शकतो.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A teacher with a wound",
+    "hi": {
+     "text": "घाव लिए एक गुरु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जखम असलेले गुरू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Drona was the son of a sage and the finest teacher of weapons in the world. Years before, in his poverty, he had gone to his boyhood friend Drupada, now a king, to ask for help for his hungry son Ashwatthama. Drupada turned him away with scorn. “A king cannot be a friend of a beggar,” he said.\n\nThe insult burned in Drona like a coal. He had come to Hastinapura looking for a way to bring Drupada to justice.\n\nBhishma welcomed him with honour and made him the teacher of all the princes. Drona took the task with joy, and under his careful eye, the princes grew. Duryodhana was strong. Bhima was stronger. But among them one boy, quiet, patient and very watchful, was already becoming something more: Arjuna, the third son of Pandu. In him Drona saw a promise, and, perhaps, a means to settle an old account.",
+    "hi": {
+     "text": "द्रोण एक ऋषि के पुत्र थे और संसार के सबसे श्रेष्ठ शस्त्र-गुरु। बरसों पहले, अपनी गरीबी में, वे अपने बचपन के मित्र द्रुपद के पास गए थे, जो अब राजा था, ताकि अपने भूखे पुत्र अश्वत्थामा के लिए सहायता माँग सकें। द्रुपद ने उन्हें तिरस्कार से लौटा दिया। “राजा भिखारी का मित्र नहीं हो सकता,” उसने कहा।\n\nयह अपमान द्रोण के भीतर अंगारे की तरह जलता रहा। वे हस्तिनापुर इसी खोज में आए थे कि द्रुपद को कैसे दंड दिलाया जाए।\n\nभीष्म ने उनका सम्मान से स्वागत किया और उन्हें सब राजकुमारों का गुरु बना दिया। द्रोण ने यह काम प्रसन्नता से लिया, और उनकी सावधान दृष्टि में राजकुमार बढ़ने लगे। दुर्योधन बलवान था। भीम और भी बलवान था। पर उनमें एक बालक, शांत, धैर्यवान और बहुत सजग, पहले ही कुछ और बन रहा था: पांडु का तीसरा पुत्र अर्जुन। द्रोण ने उसमें एक आशा देखी, और शायद पुराना हिसाब चुकाने का साधन भी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रोण एका ऋषींचा पुत्र आणि जगातला सर्वश्रेष्ठ शस्त्रगुरू होता. काही वर्षांपूर्वी, गरिबीत असताना, तो आपल्या भुकेल्या पुत्र अश्वत्थाम्यासाठी मदत मागायला आपल्या बालमित्र द्रुपदाकडे गेला होता, जो आता राजा झाला होता. द्रुपदाने त्याला तुच्छतेने हाकलून दिले. “राजा भिकाऱ्याचा मित्र असू शकत नाही,” तो म्हणाला.\n\nतो अपमान द्रोणाच्या मनात निखाऱ्यासारखा जळत राहिला. द्रुपदाला धडा शिकवण्याचा मार्ग शोधतच तो हस्तिनापुरात आला होता.\n\nभीष्माने त्याचे सन्मानाने स्वागत केले आणि त्याला सर्व राजकुमारांचा गुरू केले. द्रोणाने ते कार्य आनंदाने स्वीकारले, आणि त्याच्या काळजीपूर्वक देखरेखीखाली राजकुमार घडत गेले. दुर्योधन बलवान होता. भीम त्याहून बलवान होता. पण त्यांच्यात एक मुलगा, शांत, संयमी आणि अतिशय सावध, आधीच काहीतरी अधिक बनत होता: पांडूचा तिसरा पुत्र अर्जुन. त्याच्यात द्रोणाला एक आश्वासन दिसले, आणि कदाचित जुना हिशोब चुकता करण्याचे साधनही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The eye of the bird",
+    "hi": {
+     "text": "चिड़िया की आँख",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पक्ष्याचा डोळा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One day Drona wished to test his students. He had a wooden bird set in a tree, and told each prince to take aim at its eye.\n\n“What do you see?” he asked Yudhishthira.\n\n“I see the tree, Master, and the branches, and my brothers, and the bird.”\n\n“Lower your bow. You will not hit it.”\n\nHe asked Duryodhana, and then Bhima, and each of them described the garden around them. Each was told to lower his bow.\n\nThen it was Arjuna’s turn. He stood still as a statue. “What do you see?”\n\n“I see the bird’s eye, Master.”\n\n“Only that?”\n\n“Only the eye. I see nothing else. Not even the bird.”\n\nDrona’s face lit with joy. “Shoot.” The arrow flew, and the wooden head fell with a clatter. The master embraced him. “One day, no one in the world will be your equal.” The other princes stood watching and said nothing. Even the wind seemed to pause in the leaves, for they had seen that a great teacher could look into a pupil’s heart and find exactly what he needed.",
+    "hi": {
+     "text": "एक दिन द्रोण ने अपने शिष्यों की परीक्षा लेनी चाही। उन्होंने पेड़ पर एक लकड़ी की चिड़िया रखवाई, और हर राजकुमार से कहा कि उसकी आँख पर निशाना साधो।\n\n“तुम्हें क्या दिखता है?” उन्होंने युधिष्ठिर से पूछा।\n\n“गुरुदेव, मुझे पेड़ दिखता है, डालियाँ दिखती हैं, मेरे भाई दिखते हैं, और चिड़िया दिखती है।”\n\n“धनुष नीचे करो। तुम इसे नहीं बेध पाओगे।”\n\nफिर उन्होंने दुर्योधन से पूछा, फिर भीम से, और हर एक ने अपने चारों ओर के बगीचे का वर्णन किया। हर एक से कहा गया कि धनुष नीचे करो।\n\nफिर अर्जुन की बारी आई। वह मूर्ति की तरह स्थिर खड़ा था। “तुम्हें क्या दिखता है?”\n\n“गुरुदेव, मुझे चिड़िया की आँख दिखती है।”\n\n“केवल वही?”\n\n“केवल आँख। और कुछ नहीं दिखता। चिड़िया भी नहीं।”\n\nद्रोण का मुख हर्ष से दमक उठा। “चलाओ।” बाण उड़ा, और लकड़ी का सिर खड़खड़ाकर नीचे गिरा। गुरु ने उसे गले लगा लिया। “एक दिन संसार में कोई तुम्हारी बराबरी का नहीं होगा।” बाकी राजकुमार खड़े देखते रहे और कुछ न बोले। पत्तों में हवा भी जैसे ठिठक गई, क्योंकि उन्होंने देख लिया था कि महान गुरु शिष्य के हृदय में झाँककर ठीक वही पा लेता है जिसकी उसे आवश्यकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एके दिवशी द्रोणाला आपल्या शिष्यांची परीक्षा घ्यावीशी वाटली. त्याने एका झाडावर लाकडी पक्षी ठेवला, आणि प्रत्येक राजकुमाराला त्याच्या डोळ्याचा वेध घ्यायला सांगितले.\n\n“तुला काय दिसते?” त्याने युधिष्ठिराला विचारले.\n\n“मला झाड दिसते, गुरुदेव, आणि फांद्या, आणि माझे भाऊ, आणि पक्षी.”\n\n“धनुष्य खाली घे. तुला तो लागणार नाही.”\n\nत्याने दुर्योधनाला विचारले, मग भीमाला, आणि प्रत्येकाने आजूबाजूच्या बागेचे वर्णन केले. प्रत्येकाला धनुष्य खाली घ्यायला सांगितले गेले.\n\nमग अर्जुनाची पाळी आली. तो पुतळ्यासारखा स्थिर उभा राहिला. “तुला काय दिसते?”\n\n“मला पक्ष्याचा डोळा दिसतो, गुरुदेव.”\n\n“फक्त तेवढेच?”\n\n“फक्त डोळा. मला दुसरे काही दिसत नाही. पक्षीसुद्धा नाही.”\n\nद्रोणाचा चेहरा आनंदाने उजळला. “सोड बाण.” बाण सुटला, आणि लाकडी डोके खळकन खाली पडले. गुरूंनी त्याला मिठी मारली. “एके दिवशी जगात कोणीही तुझी बरोबरी करणार नाही.” इतर राजकुमार पाहत उभे राहिले आणि काही बोलले नाहीत. पानांतला वाराही जणू थबकला, कारण त्यांनी पाहिले होते की श्रेष्ठ गुरू शिष्याच्या हृदयात डोकावून त्याला नेमके काय हवे ते शोधू शकतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Practice in the dark",
+    "hi": {
+     "text": "अँधेरे में अभ्यास",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंधारातला सराव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna took the master’s word and made it his life. He practised from dawn until the stars came out, and when the others slept, he practised still.\n\nOne evening, his cook put out the lamp as he was eating. Arjuna carried on eating in the dark, and noticed his hand found his mouth without looking. “If the hand can learn in the dark,” he thought, “so can the bow.”\n\nFrom that night he practised shooting in the dark, by the sound of the string alone, until his arrows struck whatever he could not see. Drona, hearing the twang of the bow in the black night, came out and found him. His heart overflowed.\n\n“I promise you, Arjuna,” he said, “I will make you the greatest archer in the world, and not one of my students will surpass you.” It was a promise made with love. It would also become, before long, a promise that would weigh on someone else’s life.",
+    "hi": {
+     "text": "अर्जुन ने गुरु के वचन को अपना जीवन बना लिया। वह भोर से तारे निकलने तक अभ्यास करता, और जब बाकी सो जाते, तब भी करता रहता।\n\nएक शाम, जब वह भोजन कर रहा था, उसके रसोइये ने दीपक बुझा दिया। अर्जुन अँधेरे में ही खाता रहा, और उसने देखा कि उसका हाथ बिना देखे मुँह तक पहुँच जाता है। “यदि हाथ अँधेरे में सीख सकता है,” उसने सोचा, “तो धनुष भी सीख सकता है।”\n\nउस रात से वह अँधेरे में अभ्यास करने लगा, केवल डोरी की आवाज़ से, जब तक उसके बाण वहाँ भी लगने नहीं लगे जो उसे दिखता नहीं था। द्रोण ने काली रात में धनुष की टंकार सुनी, तो बाहर आकर उसे देखा। उनका हृदय उमड़ पड़ा।\n\n“मैं तुम्हें वचन देता हूँ, अर्जुन,” उन्होंने कहा, “मैं तुम्हें संसार का सबसे बड़ा धनुर्धर बनाऊँगा, और मेरा कोई भी शिष्य तुमसे आगे नहीं निकलेगा।” यह प्रेम से दिया गया वचन था। पर जल्दी ही यह किसी और के जीवन पर भारी पड़ने वाला वचन भी बन गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाने गुरूंचा शब्द मनावर घेतला आणि तेच आपले जीवन केले. तो पहाटेपासून तारे उगवेपर्यंत सराव करी, आणि इतर झोपले की तो तेव्हाही सराव करत राही.\n\nएका संध्याकाळी तो जेवत असताना त्याच्या स्वयंपाक्याने दिवा विझवला. अर्जुन अंधारातच जेवत राहिला, आणि त्याच्या लक्षात आले की त्याचा हात न पाहताही तोंडापर्यंत पोहोचतो. “हात अंधारात शिकू शकतो, तर धनुष्यही शिकेल,” त्याने विचार केला.\n\nत्या रात्रीपासून तो अंधारात, फक्त प्रत्यंचेच्या आवाजावरून, बाण मारण्याचा सराव करू लागला, इतके की त्याचे बाण त्याला न दिसणाऱ्या लक्ष्यालाही लागू लागले. काळ्याकुट्ट रात्री धनुष्याचा टणत्कार ऐकून द्रोण बाहेर आला आणि त्याला शोधून काढले. त्याचे हृदय भरून आले.\n\n“अर्जुना, मी तुला वचन देतो,” तो म्हणाला, “मी तुला जगातला सर्वश्रेष्ठ धनुर्धर करीन, आणि माझ्या शिष्यांपैकी कोणीही तुला मागे टाकणार नाही.” ते प्रेमाने दिलेले वचन होते. पण लवकरच ते दुसऱ्या कोणाच्या तरी आयुष्यावर ओझे बनणार होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The boy in the forest",
+    "hi": {
+     "text": "वन का बालक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनातला मुलगा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the edge of the kingdom lived Ekalavya, the son of a Nishada chief, a tribal prince of the forest. He longed to learn archery from Drona. He came to the master and bowed. Drona looked at him, and then at the cousins who stood around him. He could not accept a tribal boy while he had promised Arjuna the first place. He turned him away.\n\nEkalavya did not weep. He went back to the forest, and made a figure of Drona out of clay. Before it he bowed each morning, and then practised alone, with all his heart. He took the clay master as his guru and asked it nothing. Year by year, his skill grew until it shone.\n\nOne day, the princes went hunting with a dog. The dog ran ahead into the woods and began to bark at a dark stranger. Suddenly seven arrows struck into its mouth, quick as lightning, shutting its barking without hurting it. The princes came running, astonished.",
+    "hi": {
+     "text": "राज्य के छोर पर एकलव्य रहता था, निषादों के मुखिया का पुत्र, वन का एक आदिवासी राजकुमार। उसकी बड़ी इच्छा थी कि द्रोण से धनुर्विद्या सीखे। वह गुरु के पास आया और प्रणाम किया। द्रोण ने उसे देखा, फिर अपने चारों ओर खड़े राजकुमारों को। वे एक आदिवासी बालक को नहीं ले सकते थे, जबकि वे अर्जुन को प्रथम स्थान का वचन दे चुके थे। उन्होंने उसे लौटा दिया।\n\nएकलव्य रोया नहीं। वह वन में लौट गया, और मिट्टी से द्रोण की मूर्ति बनाई। हर सुबह उसके आगे झुकता, और फिर पूरे मन से अकेले अभ्यास करता। उसने उस मिट्टी के गुरु को अपना गुरु माना और उससे कुछ माँगा नहीं। वर्ष-दर-वर्ष उसकी कला निखरती गई, जब तक वह दमकने नहीं लगी।\n\nएक दिन राजकुमार एक कुत्ते को लेकर शिकार पर गए। कुत्ता आगे वन में भाग गया और एक काले अजनबी पर भौंकने लगा। अचानक सात बाण बिजली की गति से उसके मुँह में जा लगे, और उसका भौंकना बंद हो गया, पर उसे चोट नहीं लगी। राजकुमार दौड़े आए, चकित।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राज्याच्या सीमेवर निषाद सरदाराचा पुत्र एकलव्य राहत होता, वनातला एक आदिवासी राजकुमार. त्याला द्रोणांकडून धनुर्विद्या शिकायची तीव्र इच्छा होती. तो गुरूंकडे आला आणि त्याने नमस्कार केला. द्रोणाने त्याच्याकडे पाहिले, मग त्याच्याभोवती उभ्या असलेल्या राजकुमारांकडे. अर्जुनाला पहिले स्थान देण्याचे वचन दिलेले असताना तो एका आदिवासी मुलाला स्वीकारू शकत नव्हता. त्याने त्याला परत पाठवले.\n\nएकलव्य रडला नाही. तो वनात परतला आणि मातीचा द्रोणाचार्यांचा पुतळा केला. रोज सकाळी त्याच्यासमोर नमस्कार करून तो पूर्ण मनाने एकटाच सराव करी. त्याने त्या मातीच्या गुरूला आपले गुरू मानले आणि त्याच्याकडे काहीही मागितले नाही. वर्षागणिक त्याचे कौशल्य तेजाने झळकू लागले.\n\nएके दिवशी राजकुमार कुत्र्याला घेऊन शिकारीला गेले. कुत्रा पुढे जंगलात धावला आणि एका सावळ्या अनोळखी माणसावर भुंकू लागला. अचानक सात बाण विजेच्या वेगाने त्याच्या तोंडात घुसले, त्याला इजा न करता त्याचे भुंकणे बंद करत. राजकुमार थक्क होऊन धावत आले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The guru’s price",
+    "hi": {
+     "text": "गुरु की दक्षिणा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरुदक्षिणा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Who did this?” the princes asked. Ekalavya stepped out, dressed in rough clothes, with a bow in his hand. “I am Ekalavya,” he said. “My guru is Drona.”\n\nArjuna went to Drona, hurt. “Master, you said no one would be my equal. Look at this boy.”\n\nDrona went to the forest and found the boy bowing to his clay statue. “If you take me as your guru,” he said, “you must give me my fee.”\n\n“Anything, master,” said Ekalavya, his eyes shining.\n\n“The thumb of your right hand.”\n\nThe forest was still. A boy with a thumb gone could never draw a bow in the same way. Without a pause, without a word of complaint, Ekalavya drew his knife and cut off his thumb and laid it at the teacher’s feet. He bowed.\n\nDrona turned away. Ekalavya’s heart was great, and the tellers remember who was the greater. Some wounds are made in the name of promises.",
+    "hi": {
+     "text": "“यह किसने किया?” राजकुमारों ने पूछा। एकलव्य मोटे वस्त्र पहने, हाथ में धनुष लिए, सामने आया। “मैं एकलव्य हूँ,” उसने कहा। “मेरे गुरु द्रोण हैं।”\n\nअर्जुन आहत होकर द्रोण के पास गया। “गुरुदेव, आपने कहा था कि कोई मेरी बराबरी का नहीं होगा। इस बालक को देखिए।”\n\nद्रोण वन में गए और उन्होंने बालक को अपनी मिट्टी की मूर्ति को प्रणाम करते पाया। “यदि तुम मुझे अपना गुरु मानते हो,” उन्होंने कहा, “तो मुझे मेरी दक्षिणा दो।”\n\n“कुछ भी, गुरुदेव,” एकलव्य ने कहा, उसकी आँखें चमक रही थीं।\n\n“अपने दाएँ हाथ का अँगूठा।”\n\nवन में सन्नाटा छा गया। जिस बालक का अँगूठा न हो, वह उस तरह धनुष कभी नहीं खींच सकता। बिना रुके, बिना एक भी शिकायत के, एकलव्य ने छुरी निकाली, अपना अँगूठा काटा और गुरु के चरणों में रख दिया। उसने प्रणाम किया।\n\nद्रोण मुँह फेरकर चले गए। एकलव्य का हृदय महान था, और कथा कहने वाले याद रखते हैं कि अधिक महान कौन था। कुछ घाव वचनों के नाम पर दिए जाते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“हे कोणी केले?” राजकुमारांनी विचारले. एकलव्य पुढे आला, साधी वस्त्रे लेऊन, हातात धनुष्य घेऊन. “मी एकलव्य,” तो म्हणाला. “माझे गुरू द्रोणाचार्य आहेत.”\n\nअर्जुन दुखावून द्रोणाकडे गेला. “गुरुदेव, तुम्ही म्हणालात की कोणीही माझी बरोबरी करणार नाही. या मुलाला पाहा.”\n\nद्रोण वनात गेला आणि त्याने त्या मुलाला मातीच्या पुतळ्याला नमस्कार करताना पाहिले. “तू मला गुरू मानतोस, तर,” तो म्हणाला, “माझी दक्षिणा दे.”\n\n“काहीही, गुरुदेव,” एकलव्य म्हणाला, त्याचे डोळे चमकत होते.\n\n“तुझ्या उजव्या हाताचा अंगठा.”\n\nवन स्तब्ध झाले. अंगठा नसलेला मुलगा पुन्हा कधीही पूर्वीसारखे धनुष्य ओढू शकणार नव्हता. क्षणभरही न थांबता, तक्रारीचा एक शब्दही न काढता, एकलव्याने आपली सुरी काढली, अंगठा कापला आणि गुरूंच्या पायांशी ठेवला. त्याने नमस्कार केला.\n\nद्रोण मान फिरवून निघून गेला. एकलव्याचे हृदय थोर होते, आणि कथाकार लक्षात ठेवतात की खरा थोर कोण होता. काही जखमा वचनांच्या नावाखाली केल्या जातात.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Ekalavya gave up his craft out of respect, while Drona kept his promise at a cost to someone else. When have you protected your own comfort at someone else’s cost? Today, share some credit or a skill with someone who has had no chance.",
+  "hi": {
+   "text": "एकलव्य ने श्रद्धा से अपनी कला त्याग दी, जबकि द्रोण ने किसी और की कीमत पर अपना वचन निभाया। आपने कब अपनी सुविधा को किसी और की हानि पर बचाया है? आज किसी ऐसे व्यक्ति के साथ श्रेय या कोई हुनर बाँटिए जिसे अवसर नहीं मिला।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एकलव्याने आदरापोटी आपली कला सोडली, तर द्रोणाने दुसऱ्याच्या किंमतीवर आपले वचन पाळले. तुम्ही कधी दुसऱ्याच्या किंमतीवर आपल्या सोयीचे रक्षण केले आहे का? आज ज्याला कधी संधी मिळाली नाही अशा कोणाबरोबर थोडे श्रेय किंवा एखादे कौशल्य वाटून घ्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "True devotion needs no recognition, and a teacher’s greatness is measured by how he treats the student who has nothing to offer him.",
+  "hi": {
+   "text": "सच्ची भक्ति को किसी मान्यता की आवश्यकता नहीं होती, और गुरु की महानता इससे नापी जाती है कि वह उस शिष्य से कैसा व्यवहार करता है जिससे उसे कुछ नहीं मिलना।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरी भक्ती मान्यतेची अपेक्षा करत नाही, आणि गुरूची थोरवी, त्याला काहीही देऊ न शकणाऱ्या शिष्याशी तो कसा वागतो यावरून ठरते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva (Sambhava Parva)",
+  "hi": {
+   "text": "महाभारत, आदि पर्व (संभव पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व (संभवपर्व)",
+   "reviewed": false
+  }
+ }
+}

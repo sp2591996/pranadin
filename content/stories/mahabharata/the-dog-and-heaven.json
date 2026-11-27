@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-dog-and-heaven",
+ "order": 33,
+ "part": "svargarohana",
+ "figure": {
+  "en": "Yudhishthira",
+  "hi": {
+   "text": "युधिष्ठिर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युधिष्ठिर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The faithful dog",
+  "hi": {
+   "text": "वह वफ़ादार कुत्ता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निष्ठावान कुत्रा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The great journey ends on the roof of the world, with one man, one dog and an open door to heaven. The gods will let him in, but not his companion.",
+  "hi": {
+   "text": "महान यात्रा संसार की छत पर समाप्त होती है, जहाँ एक पुरुष है, एक कुत्ता है और स्वर्ग का खुला द्वार है। देवता उसे भीतर आने देंगे, पर उसके साथी को नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान प्रवास जगाच्या छतावर संपतो, एक माणूस, एक कुत्रा आणि स्वर्गाचे उघडे द्वार. देव त्याला आत घेतील, पण त्याच्या सोबत्याला नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/the-dog-and-heaven-1.webp",
+   "w": 797,
+   "h": 1100,
+   "caption": {
+    "en": "Yudhishthira and his faithful dog before Indra's chariot (Indian painting)",
+    "hi": {
+     "text": "इंद्र के रथ के सामने युधिष्ठिर और उनका वफ़ादार कुत्ता (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इंद्राच्या रथासमोर युधिष्ठिर आणि त्याचा इमानी कुत्रा (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Yudhishthira_and_dog_ascending_to_heaven.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The great journey",
+    "hi": {
+     "text": "महाप्रस्थान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महाप्रस्थान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When he heard that Krishna had left the earth, Yudhishthira knew that his own time had come. He crowned Parikshit, Abhimanyu’s son, as king of Hastinapura. He gave away his wealth. He took off his royal robes and put on the bark of trees.\n\nThe five brothers and Draupadi set out together on foot, toward the north, to the Himalaya, to climb the mountain of the gods, Meru. Yudhishthira walked ahead, and the others followed. As they left the city, a stray dog fell into step behind them. No one chased it away. It followed quietly, its head low.\n\nThey crossed deserts and rivers and forests. They passed the ocean and the lands of many peoples. At last they saw the great white mountains rising ahead like a wall. The air grew thin and bitter.\n\nThey walked up the long slopes of the Himalaya in single file, in silence. They had given up everything: the throne, the palaces, the glory. They had only each other, and the cold, and the long road upward.\n\nThen Draupadi stumbled, and fell on the ice.",
+    "hi": {
+     "text": "जब युधिष्ठिर ने सुना कि कृष्ण पृथ्वी छोड़ चुके हैं, तो वे समझ गए कि उनका अपना समय भी आ गया है। उन्होंने अभिमन्यु के पुत्र परीक्षित को हस्तिनापुर का राजा बनाया। उन्होंने अपना धन दान कर दिया। उन्होंने राजसी वस्त्र उतारकर वृक्षों की छाल पहन ली।\n\nपाँचों भाई और द्रौपदी एक साथ पैदल निकले, उत्तर की ओर, हिमालय की ओर, देवताओं के पर्वत मेरु पर चढ़ने के लिए। युधिष्ठिर आगे चल रहे थे, और बाकी पीछे। जब वे नगर से निकले, तो एक आवारा कुत्ता उनके पीछे-पीछे चलने लगा। किसी ने उसे नहीं भगाया। वह सिर झुकाए चुपचाप साथ चलता रहा।\n\nउन्होंने रेगिस्तान, नदियाँ और वन पार किए। वे समुद्र और अनेक जातियों के देशों से गुज़रे। आख़िर उन्हें आगे दीवार की तरह उठते विशाल श्वेत पर्वत दिखाई दिए। हवा पतली और कड़वी हो गई।\n\nवे हिमालय की लंबी ढलानों पर एक पंक्ति में, मौन चढ़ते गए। उन्होंने सब कुछ त्याग दिया था: सिंहासन, महल, यश। उनके पास बस एक-दूसरे का साथ था, ठंड थी, और ऊपर जाता लंबा मार्ग।\n\nतभी द्रौपदी लड़खड़ाईं, और बर्फ़ पर गिर पड़ीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णांनी पृथ्वी सोडली हे ऐकताच युधिष्ठिराला कळले की आपली वेळ आली आहे. त्याने अभिमन्यूचा पुत्र परीक्षित याचा हस्तिनापुराचा राजा म्हणून राज्याभिषेक केला. त्याने आपली संपत्ती दान केली. त्याने राजवस्त्रे उतरवली आणि वृक्षांची वल्कले परिधान केली.\n\nपाच भाऊ आणि द्रौपदी पायी उत्तरेकडे, हिमालयाकडे, देवांचा पर्वत मेरू चढायला एकत्र निघाले. युधिष्ठिर पुढे चालला आणि इतर मागे. ते नगराबाहेर पडताना एक भटका कुत्रा त्यांच्या मागे चालू लागला. कुणीही त्याला हाकलले नाही. तो मान खाली घालून शांतपणे मागे आला.\n\nत्यांनी वाळवंटे, नद्या आणि जंगले पार केली. त्यांनी समुद्र आणि अनेक लोकांचे प्रदेश पाहिले. शेवटी त्यांना भिंतीसारखे उंच पांढरे पर्वत समोर उभे राहिलेले दिसले. हवा विरळ आणि बोचरी झाली.\n\nते हिमालयाच्या लांब उतारांवर रांगेने, शांतपणे चढले. त्यांनी सर्व काही सोडले होते: सिंहासन, महाल, कीर्ती. त्यांच्याकडे फक्त एकमेकांची साथ होती, आणि थंडी, आणि वरची लांब वाट.\n\nमग द्रौपदी अडखळली, आणि बर्फावर कोसळली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "One by one",
+    "hi": {
+     "text": "एक-एक करके",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकामागून एक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Draupadi lay still on the snow. Bhima turned back. “Brother, why has she fallen? She never did any wrong.”\n\nYudhishthira did not turn his head. “She loved Arjuna more than the rest of us. That was her failing. She is already gone.” And he walked on.\n\nSoon after, Sahadeva fell. “He was proud of his wisdom,” said Yudhishthira quietly, and walked on. Nakula fell. “He was proud of his beauty.” Then Arjuna, who had never been beaten, who had sworn never to leave the field. “He said that he could destroy all enemies in a single day, and he did not. He was proud of his skill.”\n\nBhima staggered, and sank to his knees. “Brother,” he gasped, “what was my fault?”\n\n“You ate too much,” said Yudhishthira with a small, sad smile, “and you boasted of your strength.” And Bhima fell.\n\nYudhishthira stood alone on the white slope. The wind blew across his face. All he had left was the dog, still trotting beside him, patient and silent. He did not weep. He had learned a hard kind of calm. He walked on, step after step, toward the top of the world.",
+    "hi": {
+     "text": "द्रौपदी बर्फ़ पर निश्चल पड़ी थीं। भीम पीछे मुड़े। “भैया, ये क्यों गिरीं? इन्होंने कभी कोई पाप नहीं किया।”\n\nयुधिष्ठिर ने सिर नहीं घुमाया। “यह अर्जुन को हम सबसे अधिक प्रेम करती थी। यही इसकी कमी थी। यह जा चुकी है।” और वे आगे बढ़ गए।\n\nकुछ ही देर बाद सहदेव गिरा। “उसे अपनी बुद्धि पर घमंड था,” युधिष्ठिर ने शांत स्वर में कहा, और आगे बढ़ गए। नकुल गिरा। “उसे अपने रूप पर घमंड था।” फिर अर्जुन, जिसे कभी कोई हरा न सका था, जिसने कभी रणभूमि न छोड़ने की शपथ ली थी। “उसने कहा था कि वह एक ही दिन में सब शत्रुओं का नाश कर सकता है, और नहीं किया। उसे अपने कौशल पर घमंड था।”\n\nभीम लड़खड़ाए और घुटनों के बल गिर पड़े। “भैया,” वे हाँफते हुए बोले, “मेरा दोष क्या था?”\n\n“तुम बहुत खाते थे,” युधिष्ठिर ने हल्की, उदास मुस्कान के साथ कहा, “और अपने बल की डींग हाँकते थे।” और भीम गिर पड़े।\n\nयुधिष्ठिर श्वेत ढलान पर अकेले खड़े थे। हवा उनके चेहरे पर बह रही थी। उनके पास केवल वह कुत्ता बचा था, जो अब भी उनके पास धैर्य से और चुपचाप चल रहा था। वे रोए नहीं। उन्होंने एक कठोर प्रकार की शांति सीख ली थी। वे एक-एक कदम चलते गए, संसार की चोटी की ओर।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदी बर्फावर निश्चल पडली. भीम मागे वळला. “दादा, ती का पडली? तिने कधी काही चुकीचे केले नाही.”\n\nयुधिष्ठिराने मान वळवली नाही. “तिचे आमच्यापेक्षा अर्जुनावर जास्त प्रेम होते. हा तिचा दोष होता. ती आधीच गेली आहे.” आणि तो पुढे चालला.\n\nलवकरच सहदेव पडला. “त्याला आपल्या ज्ञानाचा अभिमान होता,” युधिष्ठिर शांतपणे म्हणाला, आणि पुढे चालला. नकुल पडला. “त्याला आपल्या सौंदर्याचा अभिमान होता.” मग अर्जुन, जो कधी हरला नव्हता, ज्याने रणांगण कधीही न सोडण्याची शपथ घेतली होती. “तो म्हणाला होता की मी एका दिवसात सर्व शत्रू नष्ट करू शकतो, आणि त्याने तसे केले नाही. त्याला आपल्या कौशल्याचा अभिमान होता.”\n\nभीम डळमळला, आणि गुडघ्यावर कोसळला. “दादा,” तो धापा टाकत म्हणाला, “माझा दोष काय होता?”\n\n“तू खूप खायचास,” युधिष्ठिर लहानशा खिन्न हास्याने म्हणाला, “आणि तू आपल्या बळाची फुशारकी मारायचास.” आणि भीम पडला.\n\nयुधिष्ठिर पांढऱ्या उतारावर एकटा उभा राहिला. वारा त्याच्या चेहऱ्यावरून वाहत होता. त्याच्याजवळ आता फक्त कुत्रा उरला होता, अजूनही त्याच्या शेजारी धीराने आणि शांतपणे धावणारा. तो रडला नाही. तो एका कठीण प्रकारची शांतता शिकला होता. तो जगाच्या शिखराकडे, पाऊल मागून पाऊल, चालत राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Indra’s chariot",
+    "hi": {
+     "text": "इंद्र का रथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इंद्राचा रथ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A great light shone above the peak, and the sound of wheels rolled across the snow. Indra, king of the gods, descended in a golden chariot.\n\n“Come, Yudhishthira,” he said, “your brothers are waiting in heaven. They have gone before you. Get in, and I will carry you there in your own body, the first living mortal to enter.”\n\nYudhishthira bowed. “I thank you, Lord of the gods. But may my dog come with me? He has followed me the whole way.”\n\nIndra frowned. “There is no place in heaven for a dog. It is unclean. Leave him. You have won immortality, wealth, and happiness. You gave up your brothers and Draupadi on the path without a tear. Why do you cling to a dog?”\n\n“It is not a small thing,” said Yudhishthira. “It is true that I let go of my brothers and Draupadi when they could not be saved, for the dead cannot be helped. But I cannot give up one who has come to me for shelter and trusted me. To abandon the faithful is a sin as great as killing a brahmin. If this dog cannot come, I will not go.”\n\n“Think again,” said Indra. “Heaven awaits.”",
+    "hi": {
+     "text": "शिखर के ऊपर एक महान प्रकाश चमका, और बर्फ़ पर पहियों की गड़गड़ाहट गूँज उठी। देवराज इंद्र एक स्वर्णिम रथ में उतरे।\n\n“आओ, युधिष्ठिर,” उन्होंने कहा, “तुम्हारे भाई स्वर्ग में प्रतीक्षा कर रहे हैं। वे तुमसे पहले जा चुके हैं। रथ में बैठो, मैं तुम्हें इसी शरीर में वहाँ ले जाऊँगा, तुम पहले जीवित मनुष्य हो जो वहाँ प्रवेश करेगा।”\n\nयुधिष्ठिर ने प्रणाम किया। “देवताओं के स्वामी, मैं आपका आभारी हूँ। पर क्या मेरा कुत्ता मेरे साथ आ सकता है? वह पूरे रास्ते मेरे साथ चला है।”\n\nइंद्र ने भौंहें सिकोड़ीं। “स्वर्ग में कुत्ते के लिए कोई स्थान नहीं है। वह अपवित्र है। उसे छोड़ दो। तुमने अमरता, ऐश्वर्य और सुख जीत लिया है। तुमने मार्ग में अपने भाइयों और द्रौपदी को बिना एक आँसू बहाए छोड़ दिया। एक कुत्ते से इतना मोह क्यों?”\n\n“यह छोटी बात नहीं है,” युधिष्ठिर ने कहा। “यह सच है कि मैंने अपने भाइयों और द्रौपदी को तब छोड़ा जब उन्हें बचाया नहीं जा सकता था, क्योंकि मृतकों की सहायता नहीं की जा सकती। पर जो मेरी शरण में आया और मुझ पर भरोसा किया, उसे मैं त्याग नहीं सकता। शरणागत को छोड़ना ब्राह्मण की हत्या जितना बड़ा पाप है। यदि यह कुत्ता नहीं आ सकता, तो मैं भी नहीं जाऊँगा।”\n\n“फिर सोच लो,” इंद्र ने कहा। “स्वर्ग प्रतीक्षा कर रहा है।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिखरावर मोठा प्रकाश चमकला, आणि बर्फावरून चाकांचा आवाज घुमला. देवांचा राजा इंद्र सोनेरी रथातून उतरला.\n\n“ये, युधिष्ठिरा,” तो म्हणाला, “तुझे भाऊ स्वर्गात वाट पाहत आहेत. ते तुझ्या आधी गेले आहेत. आत बस, मी तुला तुझ्या याच शरीरासह तिथे नेतो, तिथे प्रवेश करणारा पहिला जिवंत मर्त्य.”\n\nयुधिष्ठिराने नमस्कार केला. “देवांच्या स्वामी, मी आपला आभारी आहे. पण माझा कुत्रा माझ्यासोबत येऊ शकेल का? तो सारा मार्ग माझ्या मागे आला आहे.”\n\nइंद्राने कपाळाला आठ्या घातल्या. “स्वर्गात कुत्र्याला जागा नाही. तो अपवित्र आहे. त्याला सोड. तू अमरत्व, संपत्ती आणि सुख जिंकले आहेस. तू आपले भाऊ आणि द्रौपदी वाटेवर अश्रूही न ढाळता सोडलेस. एका कुत्र्याला का चिकटतोस?”\n\n“ही लहान गोष्ट नाही,” युधिष्ठिर म्हणाला. “हे खरे आहे की मी माझे भाऊ आणि द्रौपदी वाचवता आले नाहीत तेव्हा त्यांना सोडले, कारण मृतांना मदत करता येत नाही. पण जो माझ्याकडे आश्रयाला आला आणि माझ्यावर विश्वास ठेवला, त्याला मी सोडू शकत नाही. निष्ठावंताचा त्याग ब्राह्मणहत्येइतके मोठे पाप आहे. हा कुत्रा येऊ शकला नाही, तर मी जाणार नाही.”\n\n“पुन्हा विचार कर,” इंद्र म्हणाला. “स्वर्ग वाट पाहतो आहे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Faithful to the end",
+    "hi": {
+     "text": "अंत तक निष्ठावान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अखेरपर्यंत निष्ठावान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Yudhishthira stood in the snow, looking at Indra, and then at the dog, who watched him with quiet, trusting eyes. The chariot gleamed. Heaven was a few steps away.\n\n“I will not abandon him,” he said. “Even for heaven, I will not.”\n\nA strange stillness fell over the mountain. And then the dog changed. Its shape wavered like a heat haze, and in its place stood a tall, shining god with a calm face. It was Dharma himself, the father who had tested him at the lake of the Yaksha, who had followed in this humble shape to see if his son still held the truth.\n\n“Yudhishthira,” he said, with great love, “you have passed again. Even for the sake of heaven, you would not abandon one who depended on you. There is no one in the three worlds more compassionate. You have won your place.”\n\nThe gods rained flowers. Indra bowed his head. “Come,” he said, “your place is ready.”\n\nYudhishthira stepped up into the chariot, and it rose into the clear sky, over the mountains.",
+    "hi": {
+     "text": "युधिष्ठिर बर्फ़ में खड़े इंद्र को, फिर कुत्ते को देखते रहे, जो शांत, भरोसे भरी आँखों से उन्हें देख रहा था। रथ दमक रहा था। स्वर्ग कुछ ही कदम दूर था।\n\n“मैं इसे नहीं छोड़ूँगा,” उन्होंने कहा। “स्वर्ग के लिए भी नहीं।”\n\nपर्वत पर एक विचित्र स्थिरता छा गई। और तब कुत्ता बदल गया। उसकी आकृति गर्मी की धुंध की तरह काँपी, और उसकी जगह शांत मुख वाले एक ऊँचे, तेजस्वी देवता खड़े थे। वे स्वयं धर्म थे, वही पिता जिन्होंने यक्ष के सरोवर पर उनकी परीक्षा ली थी, जो इस विनम्र रूप में यह देखने साथ चले थे कि उनका पुत्र अब भी सत्य को थामे है या नहीं।\n\n“युधिष्ठिर,” उन्होंने अत्यंत प्रेम से कहा, “तुम फिर उत्तीर्ण हुए। स्वर्ग के लिए भी तुमने उसे नहीं छोड़ा जो तुम पर निर्भर था। तीनों लोकों में तुमसे अधिक दयालु कोई नहीं। तुमने अपना स्थान अर्जित कर लिया है।”\n\nदेवताओं ने फूल बरसाए। इंद्र ने सिर झुकाया। “आओ,” उन्होंने कहा, “तुम्हारा स्थान तैयार है।”\n\nयुधिष्ठिर रथ पर चढ़े, और वह निर्मल आकाश में, पर्वतों के ऊपर उठ गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युधिष्ठिर बर्फात उभा राहिला, इंद्राकडे पाहत, आणि मग कुत्र्याकडे, जो शांत, विश्वासू डोळ्यांनी त्याला पाहत होता. रथ चमकत होता. स्वर्ग काही पावलांवर होता.\n\n“मी त्याला सोडणार नाही,” तो म्हणाला. “स्वर्गासाठीही नाही.”\n\nपर्वतावर एक विचित्र शांतता पसरली. आणि मग कुत्रा बदलला. त्याचा आकार उष्णतेच्या धुक्यासारखा थरथरला, आणि त्याच्या जागी शांत चेहऱ्याचा एक उंच, तेजस्वी देव उभा राहिला. तो स्वतः धर्म होता, यक्षाच्या सरोवराजवळ ज्याने त्याची परीक्षा घेतली होती तो पिता, जो या नम्र रूपात त्याचा पुत्र अजूनही सत्य धरून आहे का ते पाहायला आला होता.\n\n“युधिष्ठिरा,” तो अपार प्रेमाने म्हणाला, “तू पुन्हा उत्तीर्ण झालास. स्वर्गासाठीसुद्धा तू आपल्यावर अवलंबून असलेल्याला सोडले नाहीस. तिन्ही लोकांत तुझ्याहून करुणामय कुणी नाही. तू आपले स्थान जिंकले आहेस.”\n\nदेवांनी पुष्पवृष्टी केली. इंद्राने मान झुकवली. “ये,” तो म्हणाला, “तुझे स्थान तयार आहे.”\n\nयुधिष्ठिर रथात चढला, आणि तो निरभ्र आकाशात, पर्वतांवरून वर गेला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The false hell",
+    "hi": {
+     "text": "मायावी नरक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खोटा नरक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "But the road was not yet over. In the heavenly realm, Yudhishthira was led to a great golden palace, where he saw Duryodhana seated on a throne, shining and happy among the gods. Yudhishthira stared.\n\n“Where are my brothers?” he asked. “Where is Draupadi? I do not wish to remain here, with the one who caused the war.”\n\n“Duryodhana died in battle,” said the sage Narada, “as a kshatriya should, and he has earned his reward.”\n\nYudhishthira said, “Then take me to my brothers, wherever they are.”\n\nA messenger led him down a dark and terrible road. Cold winds blew. Foul smells rose. He saw cruel sights: rivers of fire, forests of swords, cries of suffering. “How far?” he asked, covering his face. “I cannot bear this.”\n\nHe turned to go back. And out of the darkness, he heard voices: “Stay, O king! Your presence cools us. When you are near, the pain ebbs.”\n\nIt was the voices of his brothers, and of Draupadi, and of Karna.\n\nYudhishthira stood still. “If my being here gives them comfort,” he said, “I will stay. I do not want heaven without them.”",
+    "hi": {
+     "text": "पर मार्ग अभी समाप्त नहीं हुआ था। स्वर्गलोक में युधिष्ठिर को एक विशाल स्वर्ण महल में ले जाया गया, जहाँ उन्होंने दुर्योधन को सिंहासन पर बैठे देखा, देवताओं के बीच दमकता और प्रसन्न। युधिष्ठिर देखते रह गए।\n\n“मेरे भाई कहाँ हैं?” उन्होंने पूछा। “द्रौपदी कहाँ हैं? मैं यहाँ उसके साथ नहीं रहना चाहता जिसने युद्ध करवाया।”\n\n“दुर्योधन युद्ध में मरा,” नारद मुनि ने कहा, “जैसे क्षत्रिय को मरना चाहिए, और उसने अपना पुरस्कार अर्जित किया है।”\n\nयुधिष्ठिर ने कहा, “तो मुझे मेरे भाइयों के पास ले चलिए, वे जहाँ भी हों।”\n\nएक दूत उन्हें एक अँधेरे और भयंकर मार्ग से नीचे ले गया। ठंडी हवाएँ चल रही थीं। दुर्गंध उठ रही थी। उन्होंने क्रूर दृश्य देखे: आग की नदियाँ, तलवारों के वन, पीड़ा की चीखें। “और कितनी दूर?” उन्होंने मुँह ढकते हुए पूछा। “मुझसे यह सहा नहीं जाता।”\n\nवे लौटने के लिए मुड़े। और अँधेरे से उन्हें आवाज़ें सुनाई दीं: “रुकिए, राजन! आपकी उपस्थिति हमें शीतलता देती है। आप पास होते हैं तो पीड़ा घट जाती है।”\n\nये उनके भाइयों की आवाज़ें थीं, द्रौपदी की, और कर्ण की।\n\nयुधिष्ठिर वहीं रुक गए। “यदि मेरे यहाँ होने से इन्हें शांति मिलती है,” उन्होंने कहा, “तो मैं यहीं रहूँगा। मुझे इनके बिना स्वर्ग नहीं चाहिए।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण प्रवास अजून संपला नव्हता. स्वर्गलोकात युधिष्ठिराला एका भव्य सोनेरी महालात नेण्यात आले, जिथे त्याने दुर्योधनाला सिंहासनावर, देवांमध्ये तेजस्वी आणि आनंदी बसलेले पाहिले. युधिष्ठिर पाहतच राहिला.\n\n“माझे भाऊ कुठे आहेत?” त्याने विचारले. “द्रौपदी कुठे आहे? युद्धाला कारणीभूत असलेल्यासोबत मला इथे राहायची इच्छा नाही.”\n\n“दुर्योधन रणांगणावर मेला,” नारद ऋषी म्हणाले, “जसे क्षत्रियाने मरावे, आणि त्याने आपले फळ मिळवले आहे.”\n\nयुधिष्ठिर म्हणाला, “मग मला माझ्या भावांकडे घेऊन चला, ते कुठेही असोत.”\n\nएका दूताने त्याला अंधाऱ्या आणि भयंकर मार्गावरून खाली नेले. थंड वारे वाहत होते. दुर्गंधी उठत होती. त्याने क्रूर दृश्ये पाहिली: अग्नीच्या नद्या, तलवारींची वने, यातनांचे आक्रोश. “किती दूर?” त्याने चेहरा झाकून विचारले. “मला हे सहन होत नाही.”\n\nतो परत जायला वळला. आणि अंधारातून त्याला आवाज ऐकू आले: “थांब, हे राजा! तुझ्या असण्याने आम्हाला थंडावा मिळतो. तू जवळ असलास की वेदना ओसरतात.”\n\nते त्याच्या भावांचे, द्रौपदीचे आणि कर्णाचे आवाज होते.\n\nयुधिष्ठिर स्तब्ध उभा राहिला. “माझ्या इथे असण्याने त्यांना सुख मिळत असेल,” तो म्हणाला, “तर मी थांबेन. मला त्यांच्याशिवाय स्वर्ग नको.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The war within",
+    "hi": {
+     "text": "भीतर का युद्ध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आतले युद्ध",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He stayed, in the dark, and at once the whole scene melted away. The fire, the swords, the screams were illusion. Indra stood before him in bright light. “Yudhishthira, this was the last test. Every king must see hell for a moment. You have seen it, and you chose to stay with those who suffered. Now come.”\n\nHe bathed in the heavenly Ganga, and when he rose, he had a divine body, free of all anger, grief and enmity. He saw his brothers, Draupadi, Abhimanyu, Bhishma, Drona, all shining in peace. He saw Karna, finally at rest among his brothers. He saw even Duryodhana, with the hatred gone from his face. Krishna was there, smiling, as he had been at every step.\n\nAll of them were embraced. The old quarrels were over.\n\nPerhaps this is what the Mahabharata means. The war at Kurukshetra is the war inside each of us, where desire and duty, pride and love, fight for the throne of the heart. No one is wholly good or wholly bad. And the path through is dharma, compassion even for a stray dog, and a heart that will not abandon what trusts it.\n\nWhere there is dharma, there is victory.",
+    "hi": {
+     "text": "वे अँधेरे में रुके रहे, और तुरंत सारा दृश्य पिघल गया। आग, तलवारें, चीखें, सब माया थीं। इंद्र उजले प्रकाश में उनके सामने खड़े थे। “युधिष्ठिर, यह अंतिम परीक्षा थी। हर राजा को क्षण भर के लिए नरक देखना पड़ता है। तुमने उसे देखा, और तुमने पीड़ितों के साथ रहना चुना। अब आओ।”\n\nउन्होंने स्वर्ग की गंगा में स्नान किया, और जब वे निकले तो उनके पास दिव्य शरीर था, सब क्रोध, शोक और बैर से मुक्त। उन्होंने अपने भाइयों को देखा, द्रौपदी को, अभिमन्यु, भीष्म, द्रोण को, सब शांति में दमकते हुए। उन्होंने कर्ण को देखा, जो अंत में अपने भाइयों के बीच विश्राम पा रहे थे। उन्होंने दुर्योधन को भी देखा, जिसके चेहरे से घृणा चली गई थी। कृष्ण वहीं थे, मुस्कुराते हुए, जैसे वे हर कदम पर रहे थे।\n\nसबने एक-दूसरे को गले लगाया। पुराने झगड़े समाप्त हो गए।\n\nशायद महाभारत का यही अर्थ है। कुरुक्षेत्र का युद्ध हम सबके भीतर का युद्ध है, जहाँ इच्छा और कर्तव्य, अभिमान और प्रेम हृदय के सिंहासन के लिए लड़ते हैं। कोई पूरी तरह भला या पूरी तरह बुरा नहीं होता। और इससे पार जाने का मार्ग है धर्म, एक आवारा कुत्ते के प्रति भी करुणा, और ऐसा हृदय जो उसे न त्यागे जो उस पर भरोसा करता है।\n\nजहाँ धर्म है, वहाँ विजय है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो अंधारात थांबला, आणि लगेचच सारे दृश्य विरघळून गेले. अग्नी, तलवारी, किंकाळ्या हा भ्रम होता. इंद्र तेजस्वी प्रकाशात त्याच्यासमोर उभा होता. “युधिष्ठिरा, ही शेवटची परीक्षा होती. प्रत्येक राजाला क्षणभर नरक पाहावा लागतो. तू तो पाहिलास, आणि तू दुःख भोगणाऱ्यांसोबत राहणे निवडलेस. आता ये.”\n\nत्याने दिव्य गंगेत स्नान केले, आणि तो उठला तेव्हा त्याला दिव्य शरीर लाभले होते, सर्व राग, दुःख आणि वैर यांपासून मुक्त. त्याने आपले भाऊ, द्रौपदी, अभिमन्यू, भीष्म, द्रोण, सर्वांना शांततेत तेजाने झळकताना पाहिले. त्याने कर्णाला शेवटी आपल्या भावांमध्ये विश्रांती घेताना पाहिले. त्याने दुर्योधनालाही पाहिले, ज्याच्या चेहऱ्यावरून द्वेष गेला होता. श्रीकृष्ण तिथे होते, हसत, जसे ते प्रत्येक पावलावर होते.\n\nसर्वांना आलिंगन दिले गेले. जुनी भांडणे संपली होती.\n\nकदाचित महाभारताचा अर्थ हाच आहे. कुरुक्षेत्रावरचे युद्ध हे आपल्या प्रत्येकातले युद्ध आहे, जिथे इच्छा आणि कर्तव्य, अहंकार आणि प्रेम हृदयाच्या सिंहासनासाठी लढतात. कुणीही पूर्णपणे चांगला किंवा पूर्णपणे वाईट नसतो. आणि यातून जाणारा मार्ग म्हणजे धर्म, भटक्या कुत्र्यावरही करुणा, आणि आपल्यावर विश्वास ठेवणाऱ्याला न सोडणारे हृदय.\n\nजिथे धर्म आहे तिथे विजय आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Yudhishthira would not enter heaven if it meant leaving a faithful friend behind. Who or what depends on you today, and might you be overlooking them? Do one small act of care for an animal, a neighbour or a forgotten friend.",
+  "hi": {
+   "text": "युधिष्ठिर ने स्वर्ग में जाना स्वीकार नहीं किया यदि उसके लिए एक वफ़ादार साथी को पीछे छोड़ना पड़ता। आज कौन या क्या आप पर निर्भर है, जिसे आप अनदेखा कर रहे हों? किसी पशु, पड़ोसी या भूले हुए मित्र के लिए देखभाल का एक छोटा-सा काम कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युधिष्ठिर निष्ठावान मित्राला मागे सोडून स्वर्गात गेला नसता. आज कोण किंवा काय तुमच्यावर अवलंबून आहे, आणि तुम्ही त्याकडे दुर्लक्ष करत आहात का? एखादा प्राणी, शेजारी किंवा विसरलेला मित्र, यांपैकी कुणासाठी एक छोटी काळजीची कृती करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "True heaven belongs to the one who will not abandon the faithful, and the real war is the one we fight within.",
+  "hi": {
+   "text": "सच्चा स्वर्ग उसका है जो निष्ठावान को नहीं त्यागता, और असली युद्ध वही है जो हम अपने भीतर लड़ते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरा स्वर्ग त्याचाच, जो निष्ठावंताला सोडत नाही, आणि खरे युद्ध ते आहे जे आपण आतल्या आत लढतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Mahaprasthanika and Svargarohana Parvas",
+  "hi": {
+   "text": "महाभारत, महाप्रस्थानिक और स्वर्गारोहण पर्व",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, महाप्रस्थानिक आणि स्वर्गारोहण पर्व",
+   "reviewed": false
+  }
+ }
+}

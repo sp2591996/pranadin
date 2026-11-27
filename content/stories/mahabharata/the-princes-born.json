@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-princes-born",
+ "order": 5,
+ "part": "adi",
+ "figure": {
+  "en": "Kunti, Gandhari and Pandu",
+  "hi": {
+   "text": "कुंती, गांधारी और पांडु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुंती, गांधारी आणि पांडू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Five sons of the gods and a hundred of the flesh",
+  "hi": {
+   "text": "देवताओं के पाँच पुत्र और देह के सौ पुत्र",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "देवांचे पाच पुत्र आणि देहाचे शंभर",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A blind king, a queen who chooses darkness, a girl with a secret mantra and a basket floating down a river. This is how the two families of Hastinapura began.",
+  "hi": {
+   "text": "एक अंधे राजा, अंधकार चुनने वाली रानी, गुप्त मंत्र वाली एक कन्या और नदी में बहती टोकरी की कथा। इसी तरह हस्तिनापुर के दोनों परिवारों की शुरुआत हुई।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक अंध राजा, अंधाराची निवड करणारी राणी, गुप्त मंत्र असलेली एक कन्या आणि नदीतून वाहत जाणारी एक टोपली. हस्तिनापूरच्या दोन कुळांची अशी सुरुवात झाली.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/the-princes-born-1.webp",
+   "w": 480,
+   "h": 670,
+   "caption": {
+    "en": "King Pandu's journey from the hunt (Indian painting)",
+    "hi": {
+     "text": "शिकार से लौटते राजा पांडु की यात्रा (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिकारीहून परतणाऱ्या राजा पंडूचा प्रवास (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pandu%27s_journey_from_the_hunt_to_his_death.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A throne without an heir",
+    "hi": {
+     "text": "बिना उत्तराधिकारी का सिंहासन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वारसाविना सिंहासन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Vichitravirya died young, and the royal line of the Kurus hung by a thread. His mother Satyavati, afraid for the kingdom, sent for her first son, the sage Vyasa, who had promised to come whenever she remembered him.\n\nVyasa came from the forest, wild-haired and fierce to look at, with eyes like embers. The young widow Ambika, meeting him, shut her eyes in fear, and her son was born blind. This was Dhritarashtra. The second widow, Ambalika, went pale with fright, and her son was born pale: Pandu. A third son, Vidura, was born to a maidservant who met the sage with calm and reverence, and he grew up to be the wisest and most honest man in the palace.\n\nSo three boys grew up in Hastinapura. Bhishma raised them like a father, and taught them all the arts. The blind prince grew strong as an elephant. Pandu became the finest archer. Vidura was the conscience of them all. Yet the crown, by custom, could not go to a blind man.",
+    "hi": {
+     "text": "विचित्रवीर्य जवानी में ही चल बसे, और कुरुओं की राजवंश-रेखा एक धागे पर लटक गई। उनकी माता सत्यवती ने राज्य के भय से अपने पहले पुत्र, ऋषि व्यास को बुलाया, जिन्होंने वचन दिया था कि जब भी वे याद करेंगी, वे आ जाएँगे।\n\nव्यास वन से आए, बिखरे बालों वाले और देखने में प्रचंड, आँखें अंगारों जैसी। युवा विधवा अंबिका ने उन्हें देखकर भय से आँखें मूँद लीं, और उसका पुत्र अंधा जन्मा। यही धृतराष्ट्र थे। दूसरी विधवा अंबालिका भय से पीली पड़ गई, और उसका पुत्र पीला जन्मा: पांडु। तीसरे पुत्र विदुर एक दासी से जन्मे, जो ऋषि से शांति और श्रद्धा के साथ मिली थी, और वे बड़े होकर महल के सबसे बुद्धिमान और सबसे ईमानदार व्यक्ति बने।\n\nइस तरह तीन बालक हस्तिनापुर में बड़े हुए। भीष्म ने उन्हें पिता की तरह पाला और सारी विद्याएँ सिखाईं। अंधा राजकुमार हाथी जैसा बलवान हुआ। पांडु सबसे अच्छे धनुर्धर बने। विदुर सबकी अंतरात्मा थे। फिर भी रीति के अनुसार मुकुट किसी अंधे को नहीं मिल सकता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विचित्रवीर्य तरुण वयातच मरण पावला, आणि कुरूंचा राजवंश एका धाग्यावर लटकला. त्याची माता सत्यवती राज्याच्या काळजीने घाबरली आणि तिने आपला पहिला पुत्र, ऋषी व्यास यांना बोलावले, ज्यांनी तिने आठवण केली की यायचे असे वचन दिले होते.\n\nव्यास वनातून आले, विस्कटलेल्या केसांचे आणि पाहताच भीती वाटावी असे, डोळे निखाऱ्यांसारखे. तरुण विधवा अंबिकेने त्यांना भेटताच भीतीने डोळे मिटले, आणि तिचा पुत्र अंध जन्मला. हा धृतराष्ट्र. दुसरी विधवा अंबालिका भीतीने फिकट पडली, आणि तिचा पुत्र फिकट जन्मला: पांडू. तिसरा पुत्र विदुर एका दासीच्या पोटी जन्मला, जिने ऋषींना शांतपणे आणि आदराने भेटले, आणि तो राजवाड्यातला सर्वात ज्ञानी आणि प्रामाणिक माणूस म्हणून वाढला.\n\nअशा प्रकारे हस्तिनापुरात तीन मुले वाढली. भीष्माने त्यांना पित्याप्रमाणे वाढवले आणि सर्व कला शिकवल्या. अंध राजकुमार हत्तीसारखा बलवान झाला. पांडू सर्वोत्तम धनुर्धर झाला. विदुर सर्वांचा विवेक झाला. तरीही रीतीनुसार मुकुट अंध माणसाला मिळू शकत नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The queen who chose the dark",
+    "hi": {
+     "text": "अंधकार चुनने वाली रानी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंधाराची निवड करणारी राणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the princes came of age, Bhishma arranged their marriages. For Dhritarashtra he chose Gandhari, princess of Gandhara, famed for her goodness and devotion. Her brother Shakuni brought her to Hastinapura with great ceremony.\n\nGandhari learned that her husband was blind. She stood a long time in silence. Then she took a strip of fine cloth, folded it, and tied it over her own eyes.\n\n“If my husband cannot see the world,” she said, “then I will not see it either.”\n\nThe court was stunned. It was the gift of a pure and loyal heart. But in time it would also become a heavy shadow: a mother who could not look at her sons, and so could not see where they were going wrong. Shakuni, watching his sister’s sacrifice, felt a bitter anger rise in him that he never forgot. He felt the Kurus had been unkind to her house, and one day he would repay them.",
+    "hi": {
+     "text": "जब राजकुमार वयस्क हुए, तो भीष्म ने उनके विवाह तय किए। धृतराष्ट्र के लिए उन्होंने गांधार की राजकुमारी गांधारी को चुना, जो अपनी भलाई और भक्ति के लिए प्रसिद्ध थी। उसका भाई शकुनि उसे बड़े समारोह के साथ हस्तिनापुर लाया।\n\nगांधारी को पता चला कि उसके पति अंधे हैं। वह बहुत देर चुप खड़ी रही। फिर उसने महीन वस्त्र की एक पट्टी ली, उसकी तह बनाई, और अपनी ही आँखों पर बाँध ली।\n\n“यदि मेरे पति संसार नहीं देख सकते,” उसने कहा, “तो मैं भी नहीं देखूँगी।”\n\nदरबार स्तब्ध रह गया। यह एक शुद्ध और निष्ठावान हृदय का उपहार था। पर समय आने पर यही एक भारी छाया भी बन गया: एक माँ जो अपने पुत्रों की ओर देख नहीं सकती थी, और इसलिए यह नहीं देख पाती थी कि वे कहाँ भटक रहे हैं। शकुनि ने बहन का यह त्याग देखा तो उसके भीतर एक कड़वा क्रोध उठा जिसे वह कभी नहीं भूला। उसे लगा कि कुरुओं ने उसके घर के साथ अन्याय किया है, और एक दिन वह उन्हें इसका बदला चुकाएगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमार वयात आले तेव्हा भीष्माने त्यांचे विवाह ठरवले. धृतराष्ट्रासाठी त्याने गांधारी निवडली, गांधारची राजकन्या, तिच्या सद्गुणांसाठी आणि भक्तीसाठी प्रसिद्ध. तिचा भाऊ शकुनी तिला मोठ्या थाटात हस्तिनापुरात घेऊन आला.\n\nगांधारीला कळले की तिचा पती अंध आहे. ती बराच वेळ स्तब्ध उभी राहिली. मग तिने बारीक कापडाची एक पट्टी घेतली, तिची घडी घातली आणि स्वतःच्या डोळ्यांवर बांधली.\n\n“माझ्या पतींना जग दिसत नसेल, तर मीही ते पाहणार नाही,” ती म्हणाली.\n\nसारा दरबार स्तंभित झाला. ते एका शुद्ध आणि निष्ठावान हृदयाचे दान होते. पण कालांतराने ती एक जड सावलीही बनणार होती: आपल्या पुत्रांकडे पाहू न शकणारी माता, आणि म्हणूनच ते कुठे चुकत आहेत हे न पाहू शकणारी. आपल्या बहिणीचा त्याग पाहणाऱ्या शकुनीच्या मनात एक कडवट राग उफाळला, जो तो कधीच विसरला नाही. कुरूंनी आपल्या घराण्याशी अन्याय केला असे त्याला वाटले, आणि एके दिवशी तो त्यांची परतफेड करणार होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A secret and a basket",
+    "hi": {
+     "text": "एक रहस्य और एक टोकरी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक रहस्य आणि एक टोपली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Meanwhile, in the kingdom of Kuntibhoja, a young girl named Kunti served the fiery sage Durvasa for a whole year, never complaining, never lacking in courtesy. Pleased, Durvasa gave her a mantra by which she could call any god and receive a child from him.\n\nKunti was curious and still very young. One morning she gazed at the rising Sun and, half in play, spoke the mantra. At once the Sun god stood before her, radiant and golden.\n\nThe frightened girl begged him to go, but the mantra could not be taken back. A boy was born to her, wearing golden armour and shining earrings that were part of his body. Kunti was unmarried. Her heart was breaking, and in her fear of what the world would say, she placed the baby in a basket, kissed him, and set it on the river. “Forgive me, my son,” she whispered, as the water carried him away.\n\nFar downstream, a charioteer named Adhiratha and his wife Radha found a basket, and a baby who smiled.",
+    "hi": {
+     "text": "इसी बीच कुंतिभोज के राज्य में कुंती नाम की एक कन्या ने तेजस्वी ऋषि दुर्वासा की पूरे एक वर्ष सेवा की, कभी शिकायत नहीं की, कभी शिष्टाचार में चूक नहीं की। प्रसन्न होकर दुर्वासा ने उसे एक मंत्र दिया, जिससे वह किसी भी देवता को बुला सकती थी और उससे संतान पा सकती थी।\n\nकुंती जिज्ञासु थी और अभी बहुत छोटी थी। एक सुबह उसने उगते सूर्य को देखा और, आधे खेल में, मंत्र बोल दिया। उसी क्षण सूर्यदेव उसके सामने खड़े थे, दमकते और सुनहरे।\n\nडरी हुई कन्या ने उनसे लौट जाने की विनती की, पर मंत्र वापस नहीं लिया जा सकता था। उसे एक बालक हुआ, जो सोने का कवच और चमकते कुंडल पहने था, जो उसके शरीर का ही अंग थे। कुंती अविवाहित थी। उसका हृदय टूट रहा था, और संसार क्या कहेगा इस डर से उसने बच्चे को एक टोकरी में रखा, चूमा, और नदी पर छोड़ दिया। “मुझे क्षमा कर देना, मेरे बेटे,” उसने फुसफुसाकर कहा, जब जल उसे बहा ले गया।\n\nबहुत नीचे की ओर, अधिरथ नाम के सारथी और उसकी पत्नी राधा को एक टोकरी मिली, और उसमें एक मुस्कुराता बच्चा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दरम्यान कुंतिभोजाच्या राज्यात कुंती नावाची एक तरुण कन्या तापट ऋषी दुर्वासांची वर्षभर सेवा करत होती, कधीही तक्रार न करता, कधीही सौजन्यात कमी न पडता. प्रसन्न होऊन दुर्वासांनी तिला एक मंत्र दिला, ज्याद्वारे ती कोणत्याही देवाला बोलावून त्याच्यापासून पुत्र मिळवू शकत होती.\n\nकुंती उत्सुक होती आणि अजून खूप लहान होती. एका सकाळी उगवत्या सूर्याकडे पाहत अर्ध्या खेळकरपणे तिने तो मंत्र उच्चारला. त्याच क्षणी सूर्यदेव तेजस्वी आणि सोनेरी रूपात तिच्यासमोर उभे राहिले.\n\nघाबरलेल्या कन्येने त्यांना जायची विनंती केली, पण मंत्र परत घेता येत नव्हता. तिच्या पोटी एक मुलगा जन्मला, सोनेरी कवच आणि तेजस्वी कुंडले ल्यालेला, जी त्याच्या देहाचाच भाग होती. कुंती अविवाहित होती. तिचे हृदय तुटत होते, आणि जग काय म्हणेल या भीतीने तिने बाळाला एका टोपलीत ठेवले, त्याचे चुंबन घेतले आणि टोपली नदीत सोडली. “मला क्षमा कर, माझ्या बाळा,” ती हळूच म्हणाली, जेव्हा पाण्याने त्याला दूर नेले.\n\nखूप खाली प्रवाहात अधिरथ नावाच्या सारथ्याला आणि त्याची पत्नी राधा हिला एक टोपली सापडली, आणि त्यात एक हसरे बाळ.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The curse in the forest",
+    "hi": {
+     "text": "वन में शाप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनातला शाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kunti grew up and chose Pandu as her husband at her swayamvara. Pandu then married a second wife, Madri, princess of Madra. The king of Hastinapura conquered many lands, and then, tired of the court, went to the forest with his wives to hunt.\n\nThere, he shot an arrow at a deer, and the deer turned out to be a sage, Kindama, in disguise, who was with his wife. Kindama cursed him: “If you ever embrace your wife in love, you will die.”\n\nPandu was heartbroken. He gave up the kingdom, and lived like a hermit. Without a child, he feared, his line would end. Then Kunti told him of her mantra.\n\nShe called Dharma, and Yudhishthira was born, calm and truthful. She called Vayu, the wind, and Bhima came, mighty as a storm. She called Indra, king of the gods, and Arjuna was born, whose coming a voice from the sky foretold with joy. She shared the mantra with Madri, who called the twin Ashvins, and Nakula and Sahadeva were born.",
+    "hi": {
+     "text": "कुंती बड़ी हुई और स्वयंवर में उसने पांडु को पति चुना। पांडु ने फिर मद्र की राजकुमारी माद्री से दूसरा विवाह किया। हस्तिनापुर के राजा ने बहुत से देश जीते, और फिर दरबार से थककर अपनी पत्नियों के साथ शिकार के लिए वन चले गए।\n\nवहाँ उन्होंने एक हिरन पर बाण चलाया, और वह हिरन असल में ऋषि किंदम निकले, जो भेस बदले अपनी पत्नी के साथ थे। किंदम ने उन्हें शाप दिया: “यदि तुमने कभी अपनी पत्नी को प्रेम से गले लगाया, तो तुम मर जाओगे।”\n\nपांडु का हृदय टूट गया। उन्होंने राज्य छोड़ दिया और तपस्वी की तरह रहने लगे। उन्हें डर था कि संतान के बिना उनका वंश समाप्त हो जाएगा। तब कुंती ने उन्हें अपने मंत्र के बारे में बताया।\n\nउसने धर्मराज को बुलाया, और शांत और सत्यवादी युधिष्ठिर का जन्म हुआ। उसने वायुदेव को बुलाया, और तूफ़ान जैसे बलशाली भीम आए। उसने देवराज इंद्र को बुलाया, और अर्जुन का जन्म हुआ, जिसके आगमन की आकाशवाणी ने हर्ष से घोषणा की थी। उसने वह मंत्र माद्री को भी दिया, जिसने जुड़वाँ अश्विनीकुमारों को बुलाया, और नकुल और सहदेव का जन्म हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंती मोठी झाली आणि स्वयंवरात तिने पांडूला पती म्हणून निवडले. पांडूने नंतर दुसरी पत्नी केली, माद्री, मद्रदेशाची राजकन्या. हस्तिनापूरच्या राजाने अनेक देश जिंकले, आणि मग दरबाराला कंटाळून तो आपल्या पत्नींसह शिकारीसाठी वनात गेला.\n\nतिथे त्याने एका हरणावर बाण सोडला, आणि ते हरीण म्हणजे आपल्या पत्नीसह असलेले वेषांतरित ऋषी किंदम निघाले. किंदमाने त्याला शाप दिला: “तू कधीही प्रेमाने आपल्या पत्नीला आलिंगन दिलेस, तर तू मरशील.”\n\nपांडूचे हृदय तुटले. त्याने राज्य सोडले आणि तपस्व्यासारखा राहू लागला. संतानाविना आपला वंश संपेल अशी त्याला भीती वाटली. तेव्हा कुंतीने त्याला आपल्या मंत्राविषयी सांगितले.\n\nतिने धर्माला बोलावले, आणि शांत व सत्यवादी युधिष्ठिराचा जन्म झाला. तिने वायूला बोलावले, आणि वादळासारखा बलवान भीम आला. तिने देवराज इंद्राला बोलावले, आणि अर्जुनाचा जन्म झाला, ज्याच्या आगमनाची आकाशवाणीने आनंदाने पूर्वसूचना दिली. तिने तो मंत्र माद्रीला दिला, जिने जुळ्या अश्विनीकुमारांना बोलावले, आणि नकुल व सहदेव जन्मले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A hundred sons",
+    "hi": {
+     "text": "सौ पुत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंभर पुत्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Back in Hastinapura, news came that Kunti’s first son had been born in the forest. Gandhari, who had been carrying a child for two long years, felt a pang of sorrow. Her womb had given birth only to a hard lump of flesh.\n\nVyasa came again, and with his blessing the lump was divided into a hundred and one pieces and placed in jars of ghee. In time, a hundred sons and one daughter were born. The eldest, Duryodhana, cried like a donkey at his birth, and terrible omens were seen. Jackals howled. Vidura begged the king to abandon this child for the sake of all, but Dhritarashtra could not give up his firstborn. A father’s love is strong, and sometimes it is strong enough to close the eyes that are open.\n\nThe cousins would be raised in the same house, under the same teachers, and the whole world would soon be bound up in what they became.",
+    "hi": {
+     "text": "हस्तिनापुर में समाचार पहुँचा कि कुंती का पहला पुत्र वन में जन्मा है। गांधारी, जो दो लंबे वर्षों से गर्भ धारण किए थी, के मन में पीड़ा उठी। उसकी कोख से केवल माँस का एक कठोर पिंड निकला था।\n\nव्यास फिर आए, और उनके आशीर्वाद से वह पिंड एक सौ एक भागों में बाँटा गया और घी के घड़ों में रखा गया। समय आने पर सौ पुत्र और एक पुत्री का जन्म हुआ। सबसे बड़े दुर्योधन ने जन्म के समय गधे की तरह रोना शुरू किया, और भयंकर अपशकुन दिखे। सियार चीखे। विदुर ने राजा से विनती की कि सबके भले के लिए इस बालक को त्याग दो, पर धृतराष्ट्र अपने ज्येष्ठ पुत्र को न छोड़ सके। पिता का प्रेम प्रबल होता है, और कभी-कभी इतना प्रबल कि खुली आँखों को भी बंद कर दे।\n\nचचेरे भाई एक ही घर में, एक ही गुरुओं के अधीन पलने वाले थे, और पूरा संसार जल्दी ही इस बात से बँध जाने वाला था कि वे क्या बनेंगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हस्तिनापुरात बातमी आली की कुंतीचा पहिला पुत्र वनात जन्मला आहे. दोन दीर्घ वर्षे गर्भ वाहणाऱ्या गांधारीला दुःखाची कळ जाणवली. तिच्या गर्भातून फक्त मांसाचा एक कठीण गोळा जन्मला होता.\n\nव्यास पुन्हा आले, आणि त्यांच्या आशीर्वादाने त्या गोळ्याचे एकशे एक तुकडे करून तुपाच्या घड्यांत ठेवण्यात आले. कालांतराने शंभर पुत्र आणि एक कन्या जन्मली. ज्येष्ठ दुर्योधन जन्मताच गाढवासारखा ओरडला, आणि भयंकर अपशकुन दिसले. कोल्हे ओरडले. विदुराने सर्वांच्या हितासाठी या बाळाचा त्याग करण्याची राजाला विनवणी केली, पण धृतराष्ट्राला आपला ज्येष्ठ पुत्र सोडवेना. पित्याचे प्रेम बलवान असते, आणि कधी कधी ते उघड्या डोळ्यांनाही मिटवण्याइतके बलवान असते.\n\nही चुलत भावंडे एकाच घरात, एकाच गुरूंखाली वाढणार होती, आणि ती जे काही बनतील त्यात लवकरच सारे जग गुंतले जाणार होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The five come home",
+    "hi": {
+     "text": "पाँचों घर आए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाच जण घरी येतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One spring, in the forest, Pandu forgot the curse. Madri walked by him, and he reached for her. He fell dead on the spot. Madri, filled with grief and guilt, ascended the funeral pyre to be with her husband, and left her twin sons in Kunti’s care.\n\n“Look after them as your own,” she said.\n\nThe sages of the forest led Kunti and the five boys to Hastinapura. They stood at the gates, thin and dusty and bright-eyed, five little sons of the gods with a mother who had lost almost everything.\n\nBhishma welcomed them. Vidura wept with joy. Dhritarashtra said they were to be treated as his own, and Gandhari, behind her blindfold, held her breath. The sons of Pandu and the sons of Dhritarashtra began to live together in one palace.\n\nThere were hundred and five children playing in its courtyards, and no one imagined the flames that would one day rise from among them.",
+    "hi": {
+     "text": "एक वसंत में वन में पांडु शाप भूल गए। माद्री उनके पास से निकली और उन्होंने उसकी ओर हाथ बढ़ाया। वे उसी क्षण गिरकर चल बसे। माद्री दुख और अपराध-बोध से भरकर पति के साथ चिता पर चढ़ गई, और अपने जुड़वाँ पुत्रों को कुंती की देखरेख में छोड़ गई।\n\n“इनका पालन अपने ही बेटों की तरह करना,” उसने कहा।\n\nवन के ऋषि कुंती और पाँचों बालकों को हस्तिनापुर ले गए। वे द्वार पर खड़े थे, दुबले, धूल से भरे और चमकती आँखों वाले, देवताओं के पाँच नन्हे पुत्र, और उनकी माँ जिसने लगभग सब कुछ खो दिया था।\n\nभीष्म ने उनका स्वागत किया। विदुर हर्ष से रो पड़े। धृतराष्ट्र ने कहा कि इन्हें अपने बच्चों की तरह रखा जाए, और गांधारी ने, अपनी पट्टी के पीछे, साँस रोक ली। पांडु के पुत्र और धृतराष्ट्र के पुत्र एक ही महल में रहने लगे।\n\nउसके आँगनों में एक सौ पाँच बच्चे खेल रहे थे, और किसी ने कल्पना नहीं की थी कि उन्हीं के बीच से एक दिन कैसी लपटें उठेंगी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका वसंतात वनात पांडू शाप विसरला. माद्री त्याच्या जवळून गेली आणि तो तिच्याकडे वळला. तो तत्क्षणी मरून पडला. दुःखाने आणि अपराधभावनेने भरलेली माद्री पतीसोबत जाण्यासाठी चितेवर चढली आणि आपले जुळे पुत्र कुंतीच्या स्वाधीन करून गेली.\n\n“यांना आपल्याच मुलांप्रमाणे सांभाळ,” ती म्हणाली.\n\nवनातील ऋषी कुंतीला आणि पाच मुलांना हस्तिनापुराला घेऊन गेले. ते वेशीवर उभे होते, कृश, धुळीने माखलेले आणि तेजस्वी डोळ्यांचे, देवांचे पाच छोटे पुत्र आणि जवळजवळ सर्वस्व गमावलेली त्यांची माता.\n\nभीष्माने त्यांचे स्वागत केले. विदुर आनंदाने रडला. धृतराष्ट्र म्हणाला की यांना माझ्या स्वतःच्या मुलांप्रमाणे वागवा, आणि गांधारीने पट्टीमागे श्वास रोखून धरला. पांडूचे पुत्र आणि धृतराष्ट्राचे पुत्र एकाच राजवाड्यात राहू लागले.\n\nत्याच्या अंगणांत एकशे पाच मुले खेळत होती, आणि त्यांच्यातूनच एके दिवशी कोणत्या ज्वाला उठतील याची कल्पना कोणालाच नव्हती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Kunti, Gandhari and Madri each gave up something to love. What have you held back from someone because of fear? Today, say one warm word to a person you have been avoiding.",
+  "hi": {
+   "text": "कुंती, गांधारी और माद्री, तीनों ने प्रेम के लिए कुछ न कुछ त्यागा। आपने भय के कारण किसी से क्या रोक रखा है? आज जिस व्यक्ति से आप बचते आ रहे हैं, उससे एक स्नेह भरा शब्द कहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुंती, गांधारी आणि माद्री यांनी प्रत्येकीने प्रेमासाठी काहीतरी सोडले. भीतीमुळे तुम्ही कोणाकडून काय राखून ठेवले आहे? आज टाळत असलेल्या एका माणसाशी एक आपुलकीचा शब्द बोला.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love, like fate, shapes children long before they know it, and the choices of parents become the inheritance of their sons.",
+  "hi": {
+   "text": "प्रेम, भाग्य की तरह, बच्चों को उनके जानने से बहुत पहले ही गढ़ देता है, और माता-पिता के चुनाव उनके पुत्रों की विरासत बन जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रेम आणि नियती मुलांना ते कळण्याआधीच घडवतात, आणि आईवडिलांच्या निवडी हाच पुत्रांचा वारसा बनतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva (Sambhava Parva)",
+  "hi": {
+   "text": "महाभारत, आदि पर्व (संभव पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व (संभवपर्व)",
+   "reviewed": false
+  }
+ }
+}

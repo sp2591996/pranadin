@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "arjuna-and-shiva",
+ "order": 15,
+ "part": "vana",
+ "figure": {
+  "en": "Arjuna",
+  "hi": {
+   "text": "अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The hunter who was a god",
+  "hi": {
+   "text": "वह शिकारी, जो एक देवता था",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "देव असलेला शिकारी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Arjuna climbs a lonely Himalayan peak to win the greatest weapon in the world. A wild hunter claims the boar that Arjuna has shot, and the fight that follows is a test of more than strength.",
+  "hi": {
+   "text": "अर्जुन संसार का सबसे बड़ा अस्त्र पाने के लिए एक सूने हिमालय शिखर पर चढ़ता है। एक जंगली शिकारी उस सूअर पर दावा करता है जिसे अर्जुन ने मारा है, और आगे का युद्ध केवल बल की नहीं, उससे अधिक की परीक्षा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुन जगातले सर्वश्रेष्ठ अस्त्र मिळवण्यासाठी हिमालयातील एकाकी शिखरावर चढतो. एक रानटी शिकारी अर्जुनाने मारलेल्या डुकरावर हक्क सांगतो, आणि त्यानंतरची लढाई केवळ ताकदीची नाही तर त्याहून अधिक कसोटीची आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/arjuna-and-shiva-1.webp",
+   "w": 420,
+   "h": 621,
+   "caption": {
+    "en": "Arjuna and Shiva in the guise of a hunter (Kiratarjuniya, Raja Ravi Varma)",
+    "hi": {
+     "text": "किरात वेश में शिव और अर्जुन (किरातार्जुनीय, राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "किराताच्या वेशातील शिव आणि अर्जुन (किरातार्जुनीय, राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kiratarjuniya.jpg"
+  },
+  {
+   "src": "/stories/mahabharata/arjuna-and-shiva-2.webp",
+   "w": 1048,
+   "h": 1100,
+   "caption": {
+    "en": "Arjuna aims at the charging boar while Shiva and Parvati watch (Indian painting)",
+    "hi": {
+     "text": "अर्जुन झपटते सूअर पर निशाना साधते हैं, शिव-पार्वती देखते हैं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन धावत्या रानडुकरावर नेम धरतो, शिव-पार्वती पाहतात (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Company School artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Arjuna,_perched_on_a_high_platform,_aims_his_arrow_at_a_large_boar_which_rushes_towards_him.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "To the mountain",
+    "hi": {
+     "text": "पर्वत की ओर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पर्वताकडे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the thirteenth month of their exile, Vyasa gave Yudhishthira a hidden wisdom. “Soon war will come,” he said. “Arjuna must gain the weapons of the gods.” He taught Arjuna a secret mantra, and Arjuna took his leave of his brothers and Draupadi.\n\nHe walked alone through jungles and rivers, up into the deep silence of the Himalayas, where no human feet had trod. At last he came to a peak, Indrakila, and sat beneath a great tree. There he began his tapas, his penance.\n\nFor days he lived on fruit. Then on leaves. Then on water. Then on only air, standing on one foot, with arms raised, still as a mountain. His body glowed with heat. The sages watching from afar were frightened, and went to Shiva, the great god, to ask what was happening.\n\n“Do not worry,” Shiva smiled. “I will go and see this young man for myself.”",
+    "hi": {
+     "text": "वनवास के तेरहवें महीने में व्यास ने युधिष्ठिर को एक गुप्त ज्ञान दिया। “शीघ्र ही युद्ध आएगा,” उन्होंने कहा। “अर्जुन को देवताओं के अस्त्र प्राप्त करने होंगे।” उन्होंने अर्जुन को एक गुप्त मंत्र सिखाया, और अर्जुन ने अपने भाइयों और द्रौपदी से विदा ली।\n\nवह अकेला जंगलों और नदियों से होता हुआ हिमालय के गहरे सन्नाटे में ऊपर चढ़ा, जहाँ कभी मनुष्य के पैर नहीं पड़े थे। अंत में वह इंद्रकील नाम की एक चोटी पर पहुँचा और एक विशाल वृक्ष के नीचे बैठ गया। वहाँ उसने अपना तप आरंभ किया।\n\nदिनों तक वह फलों पर रहा। फिर पत्तों पर। फिर जल पर। फिर केवल वायु पर, एक पैर पर खड़ा, भुजाएँ उठाए, पर्वत की तरह स्थिर। उसकी देह तपस से दमकने लगी। दूर से देखते ऋषि भयभीत हुए, और महादेव शिव के पास गए यह पूछने कि क्या हो रहा है।\n\n“चिंता न करो,” शिव मुस्कुराए। “मैं स्वयं जाकर इस युवक को देखूँगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनवासाच्या तेराव्या महिन्यात व्यासांनी युधिष्ठिराला एक गुप्त ज्ञान दिले. “लवकरच युद्ध येईल,” ते म्हणाले. “अर्जुनाने देवांची अस्त्रे मिळवली पाहिजेत.” त्यांनी अर्जुनाला एक गुप्त मंत्र शिकवला, आणि अर्जुनाने आपल्या भावांचा आणि द्रौपदीचा निरोप घेतला.\n\nतो एकटाच जंगले आणि नद्या ओलांडत, मानवी पाय कधीही न पडलेल्या हिमालयाच्या गहन शांततेत वर चढत गेला. शेवटी तो इंद्रकील शिखरावर पोहोचला आणि एका मोठ्या वृक्षाखाली बसला. तिथे त्याने आपले तप सुरू केले.\n\nकाही दिवस तो फळांवर राहिला. मग पानांवर. मग पाण्यावर. मग फक्त हवेवर, एका पायावर उभा राहून, हात उंचावून, पर्वतासारखा स्थिर. त्याचा देह उष्णतेने तेजाळू लागला. दुरून पाहणारे ऋषी घाबरले, आणि काय चालले आहे हे विचारायला महान देव शिवांकडे गेले.\n\n“काळजी करू नका,” शिव हसले. “मी स्वतः जाऊन या तरुणाला पाहतो.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The boar",
+    "hi": {
+     "text": "सूअर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "डुक्कर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One morning, as Arjuna stood in meditation, he heard a terrible crashing. A wild boar, huge and black, came charging out of the trees straight at him. It was a demon in disguise, sent by the evil Duryodhana to kill him.\n\nArjuna opened his eyes, lifted Gandiva and shot. At the very same moment, an arrow from another bow struck the boar from the other side. The monstrous creature fell dead with both arrows in its body.\n\nArjuna turned. Out of the trees strode a Kirata, a tribal hunter of the mountains, dressed in rough skins, with a bow in his hand and a laughing woman beside him. Behind him walked a group of forest folk.\n\n“That boar was mine,” said the hunter. “I shot it first. What right have you to touch it?”\n\n“I shot it first,” said Arjuna. “It was mine.”\n\nThe hunter smiled. “A hermit who hunts, and who thinks he is better than a hunter?” Arjuna’s face darkened.",
+    "hi": {
+     "text": "एक सुबह, जब अर्जुन ध्यान में खड़ा था, उसने भयंकर धमाके की आवाज़ सुनी। एक जंगली सूअर, विशाल और काला, पेड़ों से सीधा उसकी ओर दौड़ा आया। वह वेश बदले एक राक्षस था, जिसे दुष्ट दुर्योधन ने उसे मारने भेजा था।\n\nअर्जुन ने आँखें खोलीं, गांडीव उठाया और बाण चलाया। ठीक उसी क्षण एक दूसरे धनुष का बाण सूअर को दूसरी ओर से आ लगा। वह विशाल प्राणी दोनों बाणों के साथ मरकर गिर पड़ा।\n\nअर्जुन मुड़ा। पेड़ों से एक किरात निकला, पर्वतों का एक आदिवासी शिकारी, मोटी खालें पहने, हाथ में धनुष लिए और पास में एक हँसती स्त्री के साथ। उसके पीछे वनवासियों की एक टोली चल रही थी।\n\n“वह सूअर मेरा था,” शिकारी ने कहा। “पहला बाण मैंने मारा था। तुम्हें उसे छूने का क्या अधिकार?”\n\n“पहले मैंने मारा था,” अर्जुन ने कहा। “वह मेरा था।”\n\nशिकारी मुस्कुराया। “एक संन्यासी जो शिकार करता है, और अपने को शिकारी से बड़ा समझता है?” अर्जुन का मुख काला पड़ गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका सकाळी अर्जुन ध्यानात उभा असताना त्याला भयंकर आवाज ऐकू आला. एक अवाढव्य काळे रानडुक्कर झाडांतून थेट त्याच्यावर चाल करून आले. दुष्ट दुर्योधनाने त्याला मारण्यासाठी पाठवलेला तो वेषांतरित राक्षस होता.\n\nअर्जुनाने डोळे उघडले, गांडीव उचलले आणि बाण सोडला. अगदी त्याच क्षणी दुसऱ्या धनुष्यातून एक बाण दुसऱ्या बाजूने डुकराला लागला. दोन्ही बाण शरीरात घुसलेला तो राक्षसी प्राणी मरून पडला.\n\nअर्जुन वळला. झाडांतून एक किरात, पर्वतांतील आदिवासी शिकारी, चालत आला, साध्या कातड्यांचे वस्त्र लेवून, हातात धनुष्य घेऊन आणि शेजारी हसणारी एक स्त्री घेऊन. त्याच्या मागे वनवासींचा एक समूह चालत होता.\n\n“ते डुक्कर माझे होते,” शिकारी म्हणाला. “मी आधी मारले. तुला त्याला हात लावायचा काय हक्क आहे?”\n\n“मी आधी मारले,” अर्जुन म्हणाला. “ते माझे होते.”\n\nशिकारी हसला. “शिकार करणारा तपस्वी, आणि स्वतःला शिकाऱ्यापेक्षा श्रेष्ठ समजणारा?” अर्जुनाचा चेहरा काळवंडला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The fight",
+    "hi": {
+     "text": "युद्ध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लढाई",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna fired arrows at the hunter, and the hunter laughed and caught each one in his hand, and ate it like a fruit. Arjuna shot a thousand, and every one vanished. The hunter stood unharmed, like a mountain in rain.\n\nArjuna rushed in and attacked with his bow, and the hunter took it out of his hands as if it were a toy. Arjuna drew his sword, and it broke on the hunter’s chest. He threw rocks and trees, and they bounced away. At last he flew at the stranger with his bare fists.\n\nThe hunter caught him, lifted him high and pressed him until his breath left him. Arjuna fell to the ground, defeated, his body bruised. He had never been beaten before. The best warrior in the three worlds lay in the dust, unable to move, while the stranger stood over him, smiling.\n\nHe lay for a long moment and did the only thing he had left to do. He turned to God.",
+    "hi": {
+     "text": "अर्जुन ने शिकारी पर बाण बरसाए, और शिकारी हँसा और हर बाण हाथ में पकड़कर फल की तरह खा गया। अर्जुन ने हज़ार बाण छोड़े, और हर एक गायब हो गया। शिकारी वर्षा में पर्वत की तरह बिना चोट के खड़ा रहा।\n\nअर्जुन दौड़कर धनुष से टूट पड़ा, और शिकारी ने उसे ऐसे छीन लिया जैसे वह खिलौना हो। अर्जुन ने तलवार खींची, और वह शिकारी की छाती पर टूट गई। उसने चट्टानें और पेड़ फेंके, और वे उछलकर दूर जा गिरे। अंत में वह नंगे मुक्कों से उस अजनबी पर झपटा।\n\nशिकारी ने उसे पकड़ लिया, ऊँचा उठा लिया और तब तक भींचा जब तक उसकी साँस न निकल गई। अर्जुन हारकर भूमि पर गिर पड़ा, उसका शरीर कुचला हुआ। वह पहले कभी नहीं हारा था। तीनों लोकों का सबसे बड़ा योद्धा धूल में पड़ा था, हिल भी नहीं पा रहा था, और अजनबी उसके ऊपर खड़ा मुस्कुरा रहा था।\n\nवह बहुत देर पड़ा रहा और उसने वही एक काम किया जो उसके पास बचा था। वह ईश्वर की ओर मुड़ा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाने शिकाऱ्यावर बाण सोडले, आणि शिकारी हसला आणि प्रत्येक बाण हातात पकडून फळासारखा खाऊन टाकला. अर्जुनाने हजार सोडले, आणि प्रत्येक नाहीसा झाला. पावसातल्या पर्वतासारखा शिकारी अबाधित उभा होता.\n\nअर्जुन धावत आला आणि त्याने धनुष्याने प्रहार केला, आणि शिकाऱ्याने ते खेळण्यासारखे त्याच्या हातातून काढून घेतले. अर्जुनाने तलवार उपसली, आणि ती शिकाऱ्याच्या छातीवर तुटली. त्याने खडक आणि झाडे फेकली, आणि ती उसळून दूर गेली. शेवटी तो उघड्या मुठींनी त्या अनोळखी माणसावर झेपावला.\n\nशिकाऱ्याने त्याला पकडले, उंच उचलले आणि त्याचा श्वास जाईपर्यंत दाबले. अर्जुन पराभूत होऊन, शरीर ठेचले जाऊन जमिनीवर पडला. तो कधीही हरला नव्हता. तिन्ही लोकांतील सर्वश्रेष्ठ योद्धा धुळीत पडला होता, हलूही शकत नव्हता, आणि तो अनोळखी माणूस हसत त्याच्यावर उभा होता.\n\nतो बराच वेळ पडून राहिला, आणि त्याने शेवटी करण्यासारखी एकच गोष्ट केली. तो परमेश्वराकडे वळला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The clay linga",
+    "hi": {
+     "text": "मिट्टी का शिवलिंग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मातीचे शिवलिंग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna crawled to the riverbank, gathered some clay and made a small linga, the symbol of Shiva. He placed a garland of wildflowers on it and bowed.\n\n“Lord of the mountains,” he whispered, “forgive my pride. I have no more strength. Help me.”\n\nAs he rose, he looked up, and his heart skipped a beat. The garland that he had placed on the clay linga was now around the neck of the hunter, hanging on his chest, fresh and fragrant.\n\nSlowly, Arjuna understood. He fell at the feet of the hunter and wept.\n\nThe forest began to glow. The hunter’s shape grew taller, his skins turned into a robe of light, the moon rose over his forehead, and a river flowed from his hair. The woman beside him became Parvati. The tribal folk became divine attendants.\n\nIt was Shiva, Lord of all beings, who had come in the shape of a simple hunter, to test the warrior’s heart.",
+    "hi": {
+     "text": "अर्जुन रेंगकर नदी-तट पर गया, कुछ मिट्टी इकट्ठी की और एक छोटा शिवलिंग बनाया, शिव का प्रतीक। उसने उस पर जंगली फूलों की माला चढ़ाई और प्रणाम किया।\n\n“पर्वतों के स्वामी,” उसने फुसफुसाकर कहा, “मेरा अभिमान क्षमा कीजिए। मुझमें अब बल नहीं बचा। मेरी सहायता कीजिए।”\n\nजब वह उठा और ऊपर देखा, तो उसका हृदय एक धड़कन चूक गया। जो माला उसने मिट्टी के शिवलिंग पर चढ़ाई थी, वह अब शिकारी के गले में, उसकी छाती पर पड़ी थी, ताज़ी और सुगंधित।\n\nधीरे-धीरे अर्जुन समझ गया। वह शिकारी के चरणों में गिर पड़ा और रो पड़ा।\n\nवन दमकने लगा। शिकारी का रूप ऊँचा होता गया, उसकी खालें प्रकाश के वस्त्र में बदल गईं, उसके मस्तक पर चंद्रमा उगा, और उसकी जटाओं से एक नदी बह चली। उसके पास की स्त्री पार्वती बन गई। आदिवासी देव-गण बन गए।\n\nवे शिव थे, सब प्राणियों के स्वामी, जो एक साधारण शिकारी के रूप में योद्धा के हृदय की परीक्षा लेने आए थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन सरपटत नदीकाठी गेला, त्याने थोडी माती गोळा केली आणि शिवाचे प्रतीक असलेले एक छोटे शिवलिंग केले. त्यावर त्याने रानफुलांचा हार घातला आणि नमस्कार केला.\n\n“पर्वतांच्या स्वामी,” तो पुटपुटला, “माझ्या अहंकाराला क्षमा करा. माझ्यात आता बळ उरले नाही. मला मदत करा.”\n\nतो उठला तेव्हा त्याने वर पाहिले, आणि त्याच्या हृदयाचा एक ठोका चुकला. मातीच्या शिवलिंगावर त्याने घातलेला हार आता शिकाऱ्याच्या गळ्यात, त्याच्या छातीवर, ताजा आणि सुगंधी लटकत होता.\n\nहळूहळू अर्जुनाला समजले. तो शिकाऱ्याच्या पायांवर पडला आणि रडला.\n\nवन तेजाने उजळू लागले. शिकाऱ्याची आकृती उंच झाली, त्याची कातडी प्रकाशाच्या वस्त्रात बदलली, कपाळावर चंद्र उगवला, आणि केसांतून नदी वाहू लागली. त्याच्या शेजारची स्त्री पार्वती झाली. आदिवासी लोक दिव्य गण झाले.\n\nतो सर्व प्राणिमात्रांचा स्वामी शिव होता, जो साध्या शिकाऱ्याच्या रूपात योद्ध्याच्या हृदयाची परीक्षा घ्यायला आला होता.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The gift",
+    "hi": {
+     "text": "वरदान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वरदान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Rise, Arjuna,” said Shiva, with a smile. “You have always been the greatest of men. But you needed to learn what even the greatest must learn: that there is always a higher power.”\n\nHe gave Arjuna the Pashupata, the most terrible of all weapons, which could destroy the world. He taught him how to call it, and how never to use it against any lesser being. “It is not to be used lightly,” he said. “It is a weapon that asks for a clean heart.”\n\nThen the guardians of the directions came: Yama, Varuna, Kubera and others. Each of them gave him a divine weapon and blessed him.\n\nArjuna stood in the flowering light with his head bowed, feeling smaller than a blade of grass, and larger than he had ever been. He had been beaten by a hunter. He had won the favour of a god. He understood both.\n\nThen, from the sky, a chariot came, bright as lightning, sent by Indra.",
+    "hi": {
+     "text": "“उठो, अर्जुन,” शिव ने मुस्कुराकर कहा। “तुम सदा से मनुष्यों में सबसे महान रहे हो। पर तुम्हें वह सीखना था जो सबसे महान को भी सीखना पड़ता है: कि एक उच्चतर शक्ति सदा रहती है।”\n\nउन्होंने अर्जुन को पाशुपत दिया, सब अस्त्रों में सबसे भयंकर, जो संसार को नष्ट कर सकता था। उन्होंने उसे सिखाया कि उसे कैसे बुलाना है, और कैसे उसे किसी छोटे प्राणी पर कभी प्रयोग नहीं करना है। “इसे हलके में नहीं चलाना,” उन्होंने कहा। “यह ऐसा अस्त्र है जो स्वच्छ हृदय माँगता है।”\n\nफिर दिशाओं के रक्षक आए: यम, वरुण, कुबेर और अन्य। हर एक ने उसे दिव्य अस्त्र दिया और आशीर्वाद दिया।\n\nअर्जुन खिले हुए प्रकाश में सिर झुकाए खड़ा रहा, घास की पत्ती से भी छोटा अनुभव करता, और अपने जीवन में कभी जितना नहीं था उससे बड़ा भी। वह एक शिकारी से हार गया था। उसने एक देवता की कृपा पाई थी। उसने दोनों को समझ लिया था।\n\nफिर आकाश से बिजली जैसा चमकता एक रथ आया, इंद्र का भेजा हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“उठ, अर्जुना,” शिव हसून म्हणाले. “तू नेहमीच माणसांतला सर्वश्रेष्ठ आहेस. पण सर्वश्रेष्ठालाही जे शिकावे लागते ते तुला शिकायचे होते: की एक उच्च शक्ती नेहमीच असते.”\n\nत्यांनी अर्जुनाला पाशुपत दिले, सर्व अस्त्रांतले सर्वात भयंकर, जे जगाचा नाश करू शकते. त्यांनी त्याला ते कसे बोलवायचे आणि कोणत्याही कमी सामर्थ्याच्या प्राण्यावर कधीही कसे वापरायचे नाही ते शिकवले. “ते हलक्यात वापरायचे नाही,” ते म्हणाले. “ते असे अस्त्र आहे जे शुद्ध हृदय मागते.”\n\nमग दिशांचे रक्षक आले: यम, वरुण, कुबेर आणि इतर. त्यांच्यापैकी प्रत्येकाने त्याला एक दिव्य अस्त्र दिले आणि आशीर्वाद दिला.\n\nअर्जुन फुललेल्या प्रकाशात मान खाली घालून उभा राहिला, गवताच्या पात्याहून लहान आणि स्वतः कधीही नव्हता इतका मोठा असे वाटत. त्याला एका शिकाऱ्याने हरवले होते. त्याने एका देवाची कृपा मिळवली होती. दोन्ही त्याला समजले.\n\nमग आकाशातून विजेसारखा तेजस्वी एक रथ आला, इंद्राने पाठवलेला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Heaven and a curse",
+    "hi": {
+     "text": "स्वर्ग और एक शाप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वर्ग आणि एक शाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna went up to Indra’s heaven, where he lived for five years. He learned the weapons of the gods and the art of music and dance from the gandharva Chitrasena, and he met his father Indra, who was very proud.\n\nOne evening the celestial dancer Urvashi, one of the most beautiful of the heavenly women, came to him with longing in her eyes. Arjuna bowed. “I think of you as a mother,” he said, “since you were once the wife of one of my ancestors.”\n\nUrvashi’s face burned. “You insult me,” she cried. “May you live as one without manhood, among women!”\n\nIndra, hearing the curse, softened it. “Let it last one year only, whenever you choose,” he said. “It will serve you well.”\n\nArjuna, who had kept his dignity, bowed to the curse as to a gift. Little did he know that a time would come, in the court of King Virata, when it would save the lives of five brothers and a queen.",
+    "hi": {
+     "text": "अर्जुन इंद्र के स्वर्ग गया, जहाँ वह पाँच वर्ष रहा। उसने देवताओं के अस्त्र सीखे और गंधर्व चित्रसेन से संगीत और नृत्य की कला सीखी, और अपने पिता इंद्र से मिला, जो बहुत गर्वित थे।\n\nएक शाम स्वर्ग की नर्तकी उर्वशी, स्वर्ग की सबसे सुंदर स्त्रियों में से एक, आँखों में चाह लिए उसके पास आई। अर्जुन ने प्रणाम किया। “मैं आपको माता मानता हूँ,” उसने कहा, “क्योंकि आप कभी मेरे एक पूर्वज की पत्नी थीं।”\n\nउर्वशी का मुख जल उठा। “तुमने मेरा अपमान किया,” वह चीखी। “तुम स्त्रियों के बीच बिना पुरुषत्व वाले की तरह रहो!”\n\nइंद्र ने शाप सुना तो उसे हलका कर दिया। “यह केवल एक वर्ष रहेगा, जब भी तुम चुनो,” उन्होंने कहा। “यह तुम्हारे बहुत काम आएगा।”\n\nअर्जुन ने, जिसने अपनी गरिमा बनाए रखी थी, शाप को उपहार की तरह प्रणाम किया। उसे क्या पता था कि राजा विराट के दरबार में एक समय आएगा जब यही पाँच भाइयों और एक रानी के प्राण बचाएगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन इंद्राच्या स्वर्गात गेला, जिथे तो पाच वर्षे राहिला. त्याने देवांची अस्त्रे आणि गंधर्व चित्रसेनाकडून संगीत आणि नृत्याची कला शिकली, आणि आपल्या पित्याला, इंद्राला भेटला, ज्याला त्याचा खूप अभिमान वाटला.\n\nएका संध्याकाळी स्वर्गीय नर्तिका उर्वशी, स्वर्गातील सर्वात सुंदर स्त्रियांपैकी एक, डोळ्यांत आस घेऊन त्याच्याकडे आली. अर्जुनाने नमस्कार केला. “मी तुम्हाला मातेसमान मानतो,” तो म्हणाला, “कारण तुम्ही एकेकाळी माझ्या पूर्वजांपैकी एकाच्या पत्नी होता.”\n\nउर्वशीचा चेहरा संतापाने पेटला. “तू माझा अपमान करतोस,” ती ओरडली. “तू स्त्रियांमध्ये पुरुषत्वहीन म्हणून जगशील!”\n\nइंद्राने शाप ऐकला आणि तो सौम्य केला. “तो फक्त एक वर्ष राहील, तुला हवे तेव्हा,” तो म्हणाला. “तो तुला उपयोगी पडेल.”\n\nआपली प्रतिष्ठा जपलेल्या अर्जुनाने शापाला देणगीसारखे नमन केले. त्याला कल्पनाही नव्हती की विराट राजाच्या दरबारात एके दिवशी तोच शाप पाच भावांचे आणि एका राणीचे प्राण वाचवणार आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Arjuna was defeated by a god in disguise and learned humility by the very act of losing. When did a loss teach you something you needed? Today, take one hurt and look for what it is teaching you.",
+  "hi": {
+   "text": "अर्जुन छद्मवेश में आए एक देवता से हारे और हारने से ही विनम्रता सीखी। कब किसी हार ने आपको वह सिखाया जो आपको चाहिए था? आज किसी एक चोट को लेकर देखिए कि वह आपको क्या सिखा रही है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुन वेषांतरित देवाकडून हरला आणि हरण्याच्या कृतीतूनच त्याला नम्रता शिकायला मिळाली. कोणत्या पराभवाने तुम्हाला हवे ते शिकवले? आज एक दुखावलेली गोष्ट घ्या आणि ती काय शिकवत आहे ते शोधा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Strength is a gift, but true greatness is the humility to bow to what is greater than oneself.",
+  "hi": {
+   "text": "बल एक वरदान है, पर सच्ची महानता उस विनम्रता में है जो अपने से बड़े के आगे झुकना जानती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शक्ती ही देणगी आहे, पण खरी थोरवी म्हणजे स्वतःपेक्षा मोठ्या गोष्टीपुढे नमण्याची नम्रता.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Vana Parva (Kairata Parva and Indralokagamana Parva)",
+  "hi": {
+   "text": "महाभारत, वन पर्व (किरात पर्व और इंद्रलोकगमन पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, वनपर्व (किरातपर्व आणि इंद्रलोकगमनपर्व)",
+   "reviewed": false
+  }
+ }
+}

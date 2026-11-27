@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "forest-of-exile",
+ "order": 14,
+ "part": "vana",
+ "figure": {
+  "en": "Draupadi and Krishna",
+  "hi": {
+   "text": "द्रौपदी और कृष्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "द्रौपदी आणि श्रीकृष्ण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The vessel that never ran dry",
+  "hi": {
+   "text": "वह पात्र, जो कभी खाली नहीं हुआ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कधीही न आटणारे पात्र",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Thousands of brahmins follow the exiled Pandavas into the forest, and there is nothing to feed them. Then an angry sage arrives with ten thousand pupils, at the very worst moment.",
+  "hi": {
+   "text": "हज़ारों ब्राह्मण निर्वासित पांडवों के पीछे वन में आ जाते हैं, और उन्हें खिलाने को कुछ नहीं है। तभी एक क्रोधी ऋषि दस हज़ार शिष्यों के साथ पहुँचते हैं, ठीक सबसे बुरे समय पर।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हजारो ब्राह्मण वनवासी पांडवांच्या मागोमाग वनात जातात, आणि त्यांना खाऊ घालायला काहीही नसते. मग सर्वात वाईट क्षणी एक रागीट ऋषी दहा हजार शिष्यांसह येतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/arjuna-and-shiva-3.webp",
+   "w": 1200,
+   "h": 800,
+   "caption": {
+    "en": "Arjuna's Penance, the great rock carving at Mahabalipuram (detail)",
+    "hi": {
+     "text": "अर्जुन की तपस्या, महाबलीपुरम की विशाल शिला-नक्काशी (अंश)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाची तपश्चर्या, महाबलीपुरम येथील भव्य शिल्पपट (अंश)",
+     "reviewed": false
+    }
+   },
+   "credit": "Jean-Pierre Dalbéra from Paris, France, CC BY 2.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:L%27Asc%C3%A8se_d%27Arjuna_(Mahabalipuram,_Inde)_(13955715564).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Into the forest",
+    "hi": {
+     "text": "वन की ओर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Pandavas left Hastinapura in bark and deerskin with Draupadi beside them, and a great crowd of citizens followed. Many of them were brahmins who wished to stay with the righteous king. They camped in the forest of Kamyaka, on the bank of the river Saraswati, and the wild trees sheltered them.\n\nBut Yudhishthira’s heart was heavy. “How can I feed all these good people?” he thought. “We have only wild roots and what we can hunt.” He did not wish to send away those who had given up their homes to follow him.\n\nHis priest Dhaumya advised him. “O king, the Sun god feeds every creature on earth. Pray to him with all your heart.”\n\nYudhishthira bathed in the river, stood in its flowing water, and fixed his mind on the Sun. For days he stood, reciting the hundred and eight names of the Sun, until, at last, a golden light filled the sky.",
+    "hi": {
+     "text": "पांडव वल्कल और मृगचर्म पहने, द्रौपदी को साथ लिए, हस्तिनापुर से चले, और नागरिकों की एक बड़ी भीड़ पीछे-पीछे आई। उनमें बहुत से ब्राह्मण थे जो धर्मात्मा राजा के साथ रहना चाहते थे। उन्होंने सरस्वती नदी के किनारे काम्यक वन में डेरा डाला, और जंगली वृक्षों ने उन्हें छाया दी।\n\nपर युधिष्ठिर का हृदय भारी था। “मैं इन सब भले लोगों को खिलाऊँगा कैसे?” उन्होंने सोचा। “हमारे पास केवल जंगली कंद हैं और जो शिकार कर पाएँ।” जिन्होंने उनके लिए अपने घर छोड़े थे, उन्हें वे लौटाना नहीं चाहते थे।\n\nउनके पुरोहित धौम्य ने सलाह दी। “राजन्, सूर्यदेव पृथ्वी के हर प्राणी को भोजन देते हैं। पूरे मन से उनकी प्रार्थना कीजिए।”\n\nयुधिष्ठिर ने नदी में स्नान किया, बहते जल में खड़े हुए, और मन सूर्य पर टिका दिया। वे दिनों तक खड़े रहे, सूर्य के एक सौ आठ नामों का जप करते हुए, जब तक अंत में आकाश में स्वर्णिम प्रकाश नहीं छा गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पांडव वल्कले आणि हरणाची कातडी लेऊन हस्तिनापूर सोडून निघाले, शेजारी द्रौपदी होती, आणि नागरिकांचा मोठा समूह त्यांच्या मागे गेला. त्यांतले अनेक ब्राह्मण होते ज्यांना धर्मनिष्ठ राजासोबत राहायचे होते. त्यांनी सरस्वती नदीच्या काठावरील काम्यक वनात तळ ठोकला, आणि रानातल्या झाडांनी त्यांना आसरा दिला.\n\nपण युधिष्ठिराचे हृदय जड होते. “या सर्व चांगल्या लोकांना मी कसे जेवू घालू?” त्याने विचार केला. “आपल्याकडे फक्त रानातली कंदमुळे आणि आपण शिकार करून मिळवू तेवढेच आहे.” ज्यांनी आपली घरे सोडून त्याचे अनुसरण केले होते त्यांना परत पाठवणे त्याला मान्य नव्हते.\n\nत्याचे पुरोहित धौम्य यांनी त्याला सल्ला दिला. “राजा, सूर्यदेव पृथ्वीवरील प्रत्येक जीवाला अन्न देतो. त्याची पूर्ण मनाने प्रार्थना कर.”\n\nयुधिष्ठिराने नदीत स्नान केले, तिच्या वाहत्या पाण्यात उभा राहिला, आणि आपले मन सूर्यावर स्थिर केले. तो दिवसेंदिवस उभा राहिला, सूर्याची एकशे आठ नावे म्हणत, आणि शेवटी आकाश सोनेरी प्रकाशाने भरून गेले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Akshaya Patra",
+    "hi": {
+     "text": "अक्षय पात्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अक्षयपात्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Sun god appeared, radiant and kind. “I am pleased, Yudhishthira. I will give you a copper vessel. It will give you food, endless and tasty, every day until Draupadi herself has eaten. Fruit, vegetables, rice and sweets will come to you as long as you do the cooking, and as many guests as you invite will be fed. But once Draupadi eats and washes the vessel, it will give nothing more until the next day.”\n\nThe vessel was called the Akshaya Patra, the inexhaustible bowl.\n\nFrom that day, it was a wonder. Draupadi cooked, and food rose from the empty vessel, hot and fragrant, enough for a thousand. She fed each brahmin, then each of her husbands, and last of all herself, saving her meal until everyone else had eaten. The forest echoed with the thanks of guests. In the middle of their trouble, there was some peace. The brahmins ate with grateful hearts and blessed the household. Draupadi bowed to each one, and the evening smoke rose from the little fires, carrying the smell of home into the trees.",
+    "hi": {
+     "text": "सूर्यदेव प्रकट हुए, दमकते और कृपालु। “मैं प्रसन्न हूँ, युधिष्ठिर। मैं तुम्हें एक ताँबे का पात्र दूँगा। वह तुम्हें हर दिन असीमित और स्वादिष्ट भोजन देगा, जब तक द्रौपदी स्वयं न खा ले। जब तक तुम पकाते रहोगे, फल, सब्ज़ी, चावल और मिठाइयाँ मिलती रहेंगी, और जितने अतिथियों को बुलाओगे, सब का पेट भरेगा। पर जब द्रौपदी खाकर पात्र धो देगी, तो अगले दिन तक वह कुछ नहीं देगा।”\n\nउस पात्र का नाम अक्षय पात्र पड़ा, कभी न खाली होने वाला कटोरा।\n\nउस दिन से वह एक चमत्कार था। द्रौपदी पकाती, और खाली पात्र से भोजन उठता, गरम और सुगंधित, हज़ार लोगों के लिए पर्याप्त। वह हर ब्राह्मण को खिलाती, फिर अपने पतियों को, और सबसे अंत में स्वयं, अपना भोजन तब तक रोके रखकर जब तक सब न खा लें। वन अतिथियों के धन्यवाद से गूँजता था। अपनी विपत्ति के बीच कुछ शांति थी। ब्राह्मण कृतज्ञ मन से खाते और घर को आशीर्वाद देते। द्रौपदी हर एक को प्रणाम करती, और संध्या का धुआँ छोटे चूल्हों से उठता, घर की गंध को वृक्षों के बीच ले जाता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूर्यदेव तेजस्वी आणि दयाळू रूपात प्रकट झाले. “युधिष्ठिरा, मी प्रसन्न झालो आहे. मी तुला एक तांब्याचे पात्र देतो. द्रौपदी स्वतः जेवेपर्यंत ते दररोज तुला अंतहीन आणि रुचकर अन्न देईल. तू स्वयंपाक करशील तोवर फळे, भाज्या, भात आणि मिठाई तुझ्याकडे येत राहतील, आणि तू बोलावशील तितक्या पाहुण्यांना जेवण मिळेल. पण द्रौपदीने जेवून पात्र धुतले की ते पुढच्या दिवसापर्यंत काहीही देणार नाही.”\n\nत्या पात्राचे नाव अक्षयपात्र, कधीही न संपणारे पात्र.\n\nत्या दिवसापासून ते एक चमत्कार ठरले. द्रौपदी स्वयंपाक करी, आणि रिकाम्या पात्रातून गरम आणि सुगंधी अन्न उगवे, हजार जणांना पुरेल इतके. ती प्रत्येक ब्राह्मणाला जेवू घाली, मग आपल्या प्रत्येक पतीला, आणि सर्वात शेवटी स्वतः, इतर सर्वांनी जेवेपर्यंत आपले जेवण राखून ठेवत. वन पाहुण्यांच्या आभारांनी दुमदुमले. त्यांच्या संकटातही थोडी शांती होती. ब्राह्मण कृतज्ञ हृदयाने जेवले आणि घराला आशीर्वाद दिले. द्रौपदीने प्रत्येकाला नमस्कार केला, आणि संध्याकाळचा धूर छोट्या चुलींतून वर चढला, झाडांमध्ये घराचा सुगंध घेऊन.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Anger and patience",
+    "hi": {
+     "text": "क्रोध और धैर्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राग आणि संयम",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The long days in the forest were hard on the Pandavas. One night Draupadi sat beside Yudhishthira, her eyes full of fire.\n\n“I cannot stop thinking of that day in the hall,” she said. “You are the wisest man I know. Yet you sit here in bark clothes while Duryodhana laughs in his palace. Is there never a time for a king to be angry? Does forgiveness only help the wicked?”\n\nYudhishthira listened calmly. “Anger is a fire that burns the one who holds it,” he said. “If I give in to it, I become what I hate. Patience is the strength that lets a man win in the end. Even the earth is quiet, but it bears the weight of the world.”\n\n“Then why do we suffer?” she asked.\n\n“Because we are bound by our word. And because some things must wait.”\n\nBhima, listening, growled that waiting was not his way. They did not agree, but they listened to one another. In that house, honest sorrow could always be spoken.",
+    "hi": {
+     "text": "वन के लंबे दिन पांडवों पर भारी थे। एक रात द्रौपदी युधिष्ठिर के पास बैठी, उसकी आँखों में आग थी।\n\n“मैं उस दिन की सभा को भूल नहीं पाती,” उसने कहा। “आप मेरे जाने सबसे बुद्धिमान पुरुष हैं। फिर भी आप यहाँ वल्कल पहने बैठे हैं और दुर्योधन अपने महल में हँस रहा है। क्या राजा के क्रोध का कभी कोई समय नहीं आता? क्या क्षमा केवल दुष्टों के काम आती है?”\n\nयुधिष्ठिर ने शांति से सुना। “क्रोध वह आग है जो अपने धारण करने वाले को जलाती है,” उन्होंने कहा। “यदि मैं उसके आगे झुकूँ, तो मैं वही बन जाऊँगा जिससे मुझे घृणा है। धैर्य वह बल है जो अंत में मनुष्य को जिताता है। धरती भी शांत रहती है, पर संसार का बोझ उठाती है।”\n\n“तो हम कष्ट क्यों भोग रहे हैं?” उसने पूछा।\n\n“क्योंकि हम अपने वचन से बँधे हैं। और क्योंकि कुछ बातें प्रतीक्षा माँगती हैं।”\n\nभीम ने सुना और गुर्राकर कहा कि प्रतीक्षा करना उसका स्वभाव नहीं। वे सहमत नहीं हुए, पर एक-दूसरे को सुना। उस घर में सच्चा दुख सदा कहा जा सकता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनातले दीर्घ दिवस पांडवांसाठी कठीण होते. एका रात्री द्रौपदी युधिष्ठिराच्या बाजूला बसली, तिचे डोळे अग्नीने भरलेले.\n\n“त्या दिवशीच्या सभेचा विचार माझ्या मनातून जात नाही,” ती म्हणाली. “तुम्ही मी पाहिलेल्या सर्वांत शहाणे माणूस आहात. तरी तुम्ही इथे वल्कले लेऊन बसला आहात आणि दुर्योधन आपल्या महालात हसतो. राजाने रागवायची वेळ कधीच येत नाही का? क्षमा फक्त दुष्टांनाच मदत करते का?”\n\nयुधिष्ठिराने शांतपणे ऐकले. “राग हा असा अग्नी आहे जो त्याला धरणाऱ्यालाच जाळतो,” तो म्हणाला. “मी त्याला शरण गेलो, तर ज्याचा मी द्वेष करतो तोच मी होईन. संयम हे असे बळ आहे जे माणसाला शेवटी जिंकू देते. पृथ्वीही शांत असते, पण ती जगाचा भार वाहते.”\n\n“मग आपण दुःख का भोगतो?” तिने विचारले.\n\n“कारण आपण आपल्या शब्दाने बांधलेलो आहोत. आणि कारण काही गोष्टींना वाट पाहावी लागते.”\n\nऐकणारा भीम गुरगुरला की वाट पाहणे आपला स्वभाव नाही. त्यांचे एकमत झाले नाही, पण त्यांनी एकमेकांचे ऐकले. त्या घरात प्रामाणिक दुःख नेहमी बोलता येत असे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sage arrives",
+    "hi": {
+     "text": "ऋषि का आगमन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ऋषींचे आगमन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One afternoon, the Pandavas and their guests had eaten, and Draupadi had washed the vessel and put it away. The sun was at its height. The forest was quiet.\n\nThen a cloud of dust rose on the path. The sage Durvasa came striding through the trees, famed for his quick temper and his great powers of blessing and cursing. Behind him came ten thousand disciples, walking in rows.\n\nDuryodhana had sent him, they say. He had pleased Durvasa with great hospitality and, hoping to use him against the Pandavas, begged him to visit his cousins at the very time when Draupadi’s vessel would be empty.\n\n“We are famished,” Durvasa called. “We are going to the river to bathe. Have a feast ready for us when we return.” And off they went.\n\nYudhishthira stood white-faced. Draupadi felt her heart sink. The vessel was empty. In a few minutes, Durvasa would return, hungry and in no mood for excuses.",
+    "hi": {
+     "text": "एक दोपहर पांडव और उनके अतिथि भोजन कर चुके थे, और द्रौपदी ने पात्र धोकर रख दिया था। सूरज सिर पर था। वन शांत था।\n\nतभी राह पर धूल का बादल उठा। ऋषि दुर्वासा वृक्षों के बीच तेज़ चाल से आ रहे थे, अपने तीव्र क्रोध और आशीर्वाद व शाप की महान शक्ति के लिए प्रसिद्ध। उनके पीछे दस हज़ार शिष्य पंक्तियों में चल रहे थे।\n\nकहते हैं दुर्योधन ने उन्हें भेजा था। उसने दुर्वासा को बड़े आतिथ्य से प्रसन्न किया था और, उन्हें पांडवों के विरुद्ध प्रयोग करने की आशा से, प्रार्थना की थी कि वे ठीक उसी समय अपने भाइयों से मिलने जाएँ जब द्रौपदी का पात्र खाली होगा।\n\n“हम भूखे हैं,” दुर्वासा ने पुकारा। “हम नदी पर स्नान करने जा रहे हैं। हमारे लौटने तक भोज तैयार रखना।” और वे चले गए।\n\nयुधिष्ठिर का मुख सफ़ेद पड़ गया। द्रौपदी का हृदय बैठ गया। पात्र खाली था। कुछ ही देर में दुर्वासा भूखे लौटने वाले थे और बहाने सुनने के मूड में नहीं थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका दुपारी पांडवांनी आणि त्यांच्या पाहुण्यांनी जेवण केले होते, आणि द्रौपदीने पात्र धुऊन ठेवले होते. सूर्य माथ्यावर होता. वन शांत होते.\n\nतेव्हा वाटेवर धुळीचा लोट उठला. दुर्वास ऋषी झाडांतून झपाझप चालत आले, त्यांच्या तापट स्वभावासाठी आणि आशीर्वाद व शाप देण्याच्या महान सामर्थ्यासाठी प्रसिद्ध. त्यांच्या मागे दहा हजार शिष्य रांगेत चालत येत होते.\n\nम्हणतात की दुर्योधनाने त्यांना पाठवले होते. त्याने मोठ्या आदरातिथ्याने दुर्वासांना प्रसन्न केले होते आणि पांडवांविरुद्ध त्यांचा उपयोग करायच्या आशेने द्रौपदीचे पात्र रिकामे असण्याच्याच वेळी त्यांनी चुलत भावांना भेट द्यावी अशी त्याने विनंती केली होती.\n\n“आम्ही उपाशी आहोत,” दुर्वासांनी हाक मारली. “आम्ही नदीवर स्नान करायला जात आहोत. आम्ही परत येऊ तेव्हा आमच्यासाठी मेजवानी तयार ठेवा.” आणि ते निघून गेले.\n\nयुधिष्ठिर पांढरा पडून उभा राहिला. द्रौपदीचे हृदय बुडाले. पात्र रिकामे होते. थोड्याच वेळात दुर्वास परत येणार होते, भुकेले आणि बहाणे ऐकण्याच्या मनःस्थितीत नसलेले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Draupadi prays",
+    "hi": {
+     "text": "द्रौपदी की प्रार्थना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदी प्रार्थना करते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Draupadi went into the hut. She looked into the vessel, and it was clean as a mirror. A hundred thoughts rushed through her head.\n\nThen she did the one thing she always did. She closed her eyes, folded her hands, and called with her whole heart to Krishna.\n\n“Krishna, my friend, my brother. You saved me once in the great hall. I need you again. Come.”\n\nAt that moment, in Dwarka, Krishna sat up. He rose, and in an instant, he was standing at the door of the hut, smiling.\n\n“Draupadi,” he said, “I am very hungry. Please give me something to eat.”\n\nShe wanted to laugh and cry at once. “Krishna, I have nothing,” she said. “The vessel has been washed.”\n\n“Bring it here,” he said gently. “Let me see.”\n\nShe fetched the vessel. He turned it over, and, stuck to the side, was a single leaf of green, a speck of rice. He picked it up. “That will do,” he said.",
+    "hi": {
+     "text": "द्रौपदी कुटिया में गई। उसने पात्र में देखा, वह दर्पण की तरह साफ़ था। सैकड़ों विचार उसके मन में दौड़ गए।\n\nफिर उसने वही एक काम किया जो वह सदा करती थी। उसने आँखें बंद कीं, हाथ जोड़े, और पूरे हृदय से कृष्ण को पुकारा।\n\n“कृष्ण, मेरे सखा, मेरे भाई। तुमने मुझे उस बड़ी सभा में एक बार बचाया था। मुझे फिर तुम्हारी आवश्यकता है। आओ।”\n\nउसी क्षण द्वारका में कृष्ण उठ बैठे। वे उठे, और पल भर में कुटिया के द्वार पर खड़े मुस्कुरा रहे थे।\n\n“द्रौपदी,” उन्होंने कहा, “मुझे बहुत भूख लगी है। कृपया कुछ खाने को दो।”\n\nवह एक साथ हँसना और रोना चाहती थी। “कृष्ण, मेरे पास कुछ नहीं है,” उसने कहा। “पात्र धुल चुका है।”\n\n“इसे यहाँ लाओ,” उन्होंने कोमलता से कहा। “मैं देखूँ।”\n\nवह पात्र ले आई। उन्होंने उसे उलटा-पलटा, और किनारे पर चिपका हुआ हरे साग का एक पत्ता और चावल का एक कण निकला। उन्होंने उसे उठा लिया। “इतना काफ़ी है,” उन्होंने कहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदी झोपडीत गेली. तिने पात्रात पाहिले, आणि ते आरशासारखे स्वच्छ होते. शेकडो विचार तिच्या डोक्यात धावले.\n\nमग तिने ती एकच गोष्ट केली जी ती नेहमी करत असे. तिने डोळे मिटले, हात जोडले आणि पूर्ण हृदयाने श्रीकृष्णाला हाक मारली.\n\n“कृष्णा, माझ्या सख्या, माझ्या बंधू. तू मला एकदा त्या महान सभेत वाचवलेस. मला तुझी पुन्हा गरज आहे. ये.”\n\nत्याच क्षणी द्वारकेत श्रीकृष्ण उठून बसले. ते उठले, आणि एका क्षणात झोपडीच्या दारात उभे राहिले, हसत.\n\n“द्रौपदी,” ते म्हणाले, “मला खूप भूक लागली आहे. कृपया मला काहीतरी खायला दे.”\n\nतिला एकाच वेळी हसू आणि रडू आले. “कृष्णा, माझ्याकडे काहीच नाही,” ती म्हणाली. “पात्र धुऊन झाले आहे.”\n\n“इकडे आण,” ते हळूच म्हणाले. “मला पाहू दे.”\n\nतिने पात्र आणले. त्यांनी ते उलटे केले, आणि कडेला चिकटलेले एक हिरवे पान, भाताचा एक कण होता. त्यांनी तो उचलला. “हे पुरे,” ते म्हणाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "One leaf",
+    "hi": {
+     "text": "एक पत्ता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक पान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna ate the leaf, and said, “May the Lord of all the universe be satisfied with this food.”\n\nThen something quiet and mysterious happened. Down at the river, Durvasa and his thousands of disciples were bathing when, all at once, they felt as if they had eaten a full feast. Their stomachs were round with fullness. They could not swallow another bite.\n\nThe disciples looked at the sage in dismay. “Master, how can we go back and eat at the hut of the Pandavas when we are so full? They will be insulted.” Durvasa, who knew his own temper, understood at once who was behind it. Fearing the wrath of the Pandavas’ friend, he slipped away into the forest with all his followers.\n\nYudhishthira waited for them with a heavy heart, but no one returned. Draupadi fell at Krishna’s feet, and he smiled. Vyasa, who visited in those years to comfort the exiles, said: “One who surrenders in faith is never abandoned.”",
+    "hi": {
+     "text": "कृष्ण ने वह पत्ता खाया, और कहा, “इस भोजन से समस्त ब्रह्मांड के स्वामी तृप्त हों।”\n\nतब एक शांत और रहस्यमय बात हुई। नीचे नदी पर दुर्वासा और उनके हज़ारों शिष्य स्नान कर रहे थे कि अचानक उन्हें लगा जैसे उन्होंने पूरा भोज खा लिया हो। उनके पेट तृप्ति से गोल थे। वे एक कौर और नहीं निगल सकते थे।\n\nशिष्यों ने घबराकर ऋषि को देखा। “गुरुदेव, इतने भरे पेट के साथ हम पांडवों की कुटिया में खाने कैसे लौटें? उनका अपमान होगा।” दुर्वासा, जो अपना स्वभाव जानते थे, तुरंत समझ गए कि इसके पीछे कौन है। पांडवों के मित्र के कोप के भय से वे अपने सब अनुयायियों के साथ चुपके से वन में खिसक गए।\n\nयुधिष्ठिर भारी मन से उनकी प्रतीक्षा करते रहे, पर कोई नहीं लौटा। द्रौपदी कृष्ण के चरणों में गिर पड़ी, और वे मुस्कुराए। व्यास, जो उन वर्षों में निर्वासितों को सांत्वना देने आते थे, बोले: “जो श्रद्धा से शरण में आता है, वह कभी त्यागा नहीं जाता।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णांनी ते पान खाल्ले, आणि म्हणाले, “सर्व विश्वाचा स्वामी या अन्नाने तृप्त होवो.”\n\nमग काहीतरी शांत आणि गूढ घडले. खाली नदीवर दुर्वास आणि त्यांचे हजारो शिष्य स्नान करत असताना, त्यांना अचानक असे वाटले की त्यांनी भरपेट मेजवानी खाल्ली आहे. त्यांची पोटे तुडुंब भरली होती. त्यांना आणखी एक घासही गिळवेना.\n\nशिष्यांनी चिंतेने ऋषींकडे पाहिले. “गुरुदेव, आम्ही इतके भरलेले असताना पांडवांच्या झोपडीत परत जाऊन कसे जेवायचे? त्यांचा अपमान होईल.” आपला स्वभाव जाणणाऱ्या दुर्वासांना कोणामुळे हे घडले ते लगेच समजले. पांडवांच्या मित्राच्या क्रोधाला घाबरून ते आपल्या सर्व अनुयायांसह वनात निसटून गेले.\n\nयुधिष्ठिर जड हृदयाने त्यांची वाट पाहत राहिला, पण कोणीही परतले नाही. द्रौपदी श्रीकृष्णाच्या पायांवर पडली, आणि ते हसले. त्या वर्षांत वनवासींना सांत्वन द्यायला भेट देणारे व्यास म्हणाले: “श्रद्धेने शरण जाणाऱ्याला कधीही सोडले जात नाही.”",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Draupadi did what she could, then trusted Krishna with the rest. What worry could you place in someone’s hands today? Before you sleep, take one quiet minute to hand it over in prayer.",
+  "hi": {
+   "text": "द्रौपदी ने जो हो सकता था वह किया, फिर बाकी कृष्ण को सौंप दिया। आज कौन-सी चिंता आप किसी के हाथों में रख सकते हैं? सोने से पहले एक शांत मिनट निकालकर प्रार्थना में उसे सौंप दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "द्रौपदीने जे करता आले ते केले, आणि बाकीचे श्रीकृष्णावर सोपवले. कोणती काळजी तुम्ही आज कोणाच्या हातात देऊ शकाल? झोपण्यापूर्वी एक शांत मिनिट घेऊन प्रार्थनेत ती सोपवून द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "When we do our best and lean on the Divine, a single leaf can feed the world.",
+  "hi": {
+   "text": "जब हम अपना श्रेष्ठ करके परमात्मा पर टेक लेते हैं, तो एक पत्ता भी संसार को तृप्त कर सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपण आपले सर्वोत्तम करतो आणि परमात्म्यावर विसंबतो, तेव्हा एक पानही जगाला पोसू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Vana Parva; the story of Krishna and the single leaf is a popular tradition from later tellings",
+  "hi": {
+   "text": "महाभारत, वन पर्व; कृष्ण और एक पत्ते की कथा बाद की कथाओं की लोकप्रिय परंपरा है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, वनपर्व; श्रीकृष्ण आणि एका पानाची कथा ही नंतरच्या कथनांतील लोकप्रिय परंपरा आहे",
+   "reviewed": false
+  }
+ }
+}

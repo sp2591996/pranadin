@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "gandharis-grief",
+ "order": 30,
+ "part": "shanti",
+ "figure": {
+  "en": "Gandhari and Yudhishthira",
+  "hi": {
+   "text": "गांधारी और युधिष्ठिर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गांधारी आणि युधिष्ठिर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The mother who cursed a god",
+  "hi": {
+   "text": "वह माँ जिसने ईश्वर को शाप दिया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "देवाला शाप देणारी माता",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The war is won, and the winners walk onto the battlefield to face the women who lost everything. A blindfolded queen is about to speak to the one person she believes could have stopped it all.",
+  "hi": {
+   "text": "युद्ध जीता जा चुका है, और विजयी लोग उन स्त्रियों का सामना करने रणभूमि में जाते हैं जिन्होंने सब कुछ खो दिया। आँखों पर पट्टी बाँधे एक रानी उस एक व्यक्ति से बात करने वाली है जिसके बारे में वह मानती है कि वह यह सब रोक सकता था।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युद्ध जिंकले गेले आहे, आणि विजेते सर्वस्व गमावलेल्या स्त्रियांना सामोरे जायला रणांगणावर चालत आले आहेत. डोळ्यांवर पट्टी बांधलेली राणी, ज्याने हे सारे थांबवले असते असे तिला वाटते त्याच्याशी बोलणार आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/gandharis-grief-2.webp",
+   "w": 809,
+   "h": 1024,
+   "caption": {
+    "en": "The Pandavas and Draupadi visit Gandhari (Razmnama, 1598)",
+    "hi": {
+     "text": "पांडव और द्रौपदी गांधारी से मिलने जाते हैं (रज़्मनामा, 1598)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पांडव आणि द्रौपदी गांधारीला भेटायला जातात (रज्मनामा, 1598)",
+     "reviewed": false
+    }
+   },
+   "credit": "SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pandavas_and_Draupadi_visiting_Gandhari,_Illustration_to_Razmnamah,_1598_CE,_Mughal_School_of_Art,_Baroda_Museum_and_Picture_Gallery,_Vadodara,_Gujarat.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The women of Hastinapura",
+    "hi": {
+     "text": "हस्तिनापुर की स्त्रियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हस्तिनापूरच्या स्त्रिया",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The war was over. Eighteen days had left the great plain of Kurukshetra a field of silence. The sun shone on broken chariots and scattered banners, and where thousands had shouted, only crows called.\n\nNow the women of the Kuru house came out of Hastinapura to the battlefield. Their hair was loose. Their bangles were broken. They walked in long lines, their white garments fluttering, led by the old blind king Dhritarashtra and his wife, Queen Gandhari, who had worn a silk blindfold over her eyes since the day she married him.\n\nBehind them walked Kunti, with Draupadi, with the widows of a hundred sons, the mothers of Abhimanyu and of Karna, the wives of heroes who would never come home.\n\nTheir weeping rose into the sky like a single great river. Even Vyasa, who stood nearby and had seen all of this in vision, bowed his head. Krishna walked beside the Pandavas and did not speak.\n\nGandhari, led by hand across the field, felt the ground under her feet. She knew where she was. She had not seen the war. But she had felt every day of it in her heart.",
+    "hi": {
+     "text": "युद्ध समाप्त हो चुका था। अठारह दिनों ने कुरुक्षेत्र के विशाल मैदान को सन्नाटे का खेत बना दिया था। सूर्य टूटे रथों और बिखरी ध्वजाओं पर चमक रहा था, और जहाँ हज़ारों कंठों ने ललकार भरी थी, वहाँ केवल कौए बोल रहे थे।\n\nअब कुरु कुल की स्त्रियाँ हस्तिनापुर से निकलकर रणभूमि पर आईं। उनके केश खुले थे। उनकी चूड़ियाँ टूटी थीं। वे लंबी पंक्तियों में चल रही थीं, उनके श्वेत वस्त्र हवा में फड़फड़ा रहे थे, और उनके आगे वृद्ध अंधे राजा धृतराष्ट्र और उनकी पत्नी महारानी गांधारी थीं, जिन्होंने विवाह के दिन से अपनी आँखों पर रेशमी पट्टी बाँध रखी थी।\n\nउनके पीछे कुंती चल रही थीं, द्रौपदी के साथ, सौ पुत्रों की विधवाओं के साथ, अभिमन्यु और कर्ण की माताओं के साथ, उन वीरों की पत्नियों के साथ जो कभी घर नहीं लौटेंगे।\n\nउनका रुदन आकाश में एक विशाल नदी की तरह उठा। व्यास भी, जो पास खड़े थे और यह सब पहले ही दिव्य दृष्टि से देख चुके थे, सिर झुकाकर खड़े रहे। कृष्ण पांडवों के साथ चल रहे थे और कुछ नहीं बोले।\n\nगांधारी, हाथ पकड़कर मैदान पार कराई जाती हुई, अपने पैरों के नीचे की धरती को महसूस कर रही थीं। वे जानती थीं कि वे कहाँ हैं। उन्होंने युद्ध नहीं देखा था। पर उसका हर दिन अपने हृदय में सहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्ध संपले होते. अठरा दिवसांनी कुरुक्षेत्राचे विशाल मैदान शांततेचे रान झाले होते. तुटलेल्या रथांवर आणि विखुरलेल्या ध्वजांवर सूर्य तळपत होता, आणि जिथे हजारो जण ओरडत होते तिथे आता फक्त कावळे ओरडत होते.\n\nआता कुरुकुळातील स्त्रिया हस्तिनापुरातून रणांगणावर आल्या. त्यांचे केस मोकळे होते. त्यांच्या बांगड्या फुटलेल्या होत्या. त्या लांब रांगांनी चालत होत्या, त्यांची पांढरी वस्त्रे फडफडत होती, त्यांच्या पुढे वृद्ध अंध राजा धृतराष्ट्र आणि त्याची पत्नी, राणी गांधारी, जिने लग्नाच्या दिवसापासून डोळ्यांवर रेशमी पट्टी बांधली होती.\n\nत्यांच्या मागे कुंती चालत होती, द्रौपदीसह, शंभर पुत्रांच्या विधवांसह, अभिमन्यूच्या आणि कर्णाच्या माता, कधीही घरी परतणार नसलेल्या वीरांच्या पत्नी.\n\nत्यांचे रडणे एका मोठ्या नदीसारखे आकाशात उठले. जवळ उभे असलेले आणि हे सारे दृष्टीतून पाहिलेले व्यासही मान झुकवून राहिले. श्रीकृष्ण पांडवांच्या शेजारी चालले आणि काही बोलले नाहीत.\n\nहाताने धरून मैदानातून नेली जाणारी गांधारी पायाखालची जमीन जाणवत होती. ती कुठे आहे हे तिला ठाऊक होते. तिने युद्ध पाहिले नव्हते. पण त्याचा प्रत्येक दिवस तिने हृदयात अनुभवला होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Gandhari’s lament",
+    "hi": {
+     "text": "गांधारी का विलाप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गांधारीचा विलाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Gandhari stopped in the middle of the field. “Krishna,” she said, and her voice cut the air. “Tell me where my sons are.”\n\nHe told her gently where each lay. She went from one to another, touching their faces with her hands. “Duryodhana,” she said, and her voice broke. “My boy. You were so strong. Now you lie like a felled tree. I told you, ‘Where there is dharma, there is victory.’ You did not listen.”\n\nAround her, the other women knelt in the dust, calling out names. Some pressed their sons’ heads to their laps. Others cried to the sky. Their grief was so great that even the soldiers who had survived turned away.\n\nA blind mother had no sight, yet she saw all of it. Her sorrow was too vast to be spoken. “A hundred sons,” she whispered. “Not one left. Why?”\n\nShe turned her blindfolded face toward the Pandavas, who stood a little apart. They were not triumphant. They were as silent as everyone else.\n\n“Where is Yudhishthira?” she asked quietly.",
+    "hi": {
+     "text": "गांधारी मैदान के बीचोबीच रुक गईं। “कृष्ण,” उन्होंने कहा, और उनके स्वर ने हवा को चीर दिया। “मुझे बताओ मेरे पुत्र कहाँ हैं।”\n\nकृष्ण ने कोमलता से बताया कि कौन कहाँ पड़ा है। वे एक-एक के पास गईं और हाथों से उनके चेहरे छूती गईं। “दुर्योधन,” उन्होंने कहा, और उनका स्वर टूट गया। “मेरे बेटे। तुम कितने बलवान थे। अब कटे हुए वृक्ष की तरह पड़े हो। मैंने तुमसे कहा था, ‘जहाँ धर्म है वहीं विजय है।’ तुमने नहीं सुना।”\n\nउनके चारों ओर अन्य स्त्रियाँ धूल में घुटनों के बल बैठी नाम पुकार रही थीं। कुछ अपने पुत्रों के सिर गोद में दबाए थीं। कुछ आकाश की ओर चीख रही थीं। उनका दुख इतना गहरा था कि जो सैनिक जीवित बचे थे, वे भी मुँह फेरकर खड़े हो गए।\n\nएक अंधी माँ के पास दृष्टि नहीं थी, फिर भी उन्होंने सब कुछ देखा। उनका शोक इतना विशाल था कि कहा नहीं जा सकता था। “सौ पुत्र,” वे फुसफुसाईं। “एक भी नहीं बचा। क्यों?”\n\nउन्होंने पट्टी बँधा अपना मुख पांडवों की ओर किया, जो कुछ दूर खड़े थे। वे विजय के उल्लास में नहीं थे। वे भी सबकी तरह मौन थे।\n\n“युधिष्ठिर कहाँ है?” उन्होंने धीमे से पूछा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गांधारी मैदानाच्या मध्यभागी थांबली. “श्रीकृष्णा,” ती म्हणाली, आणि तिच्या आवाजाने हवा चिरली. “माझे पुत्र कुठे आहेत ते मला सांग.”\n\nश्रीकृष्णांनी प्रत्येक कुठे पडला आहे ते हळुवारपणे सांगितले. ती एकाकडून दुसऱ्याकडे गेली, हातांनी त्यांच्या चेहऱ्यांना स्पर्श करीत. “दुर्योधना,” ती म्हणाली, आणि तिचा आवाज फुटला. “माझ्या बाळा. तू इतका बलवान होतास. आता तू तोडलेल्या झाडासारखा पडला आहेस. मी तुला सांगितले होते, ‘जिथे धर्म आहे तिथे विजय आहे.’ तू ऐकले नाहीस.”\n\nतिच्या भोवती इतर स्त्रिया धुळीत गुडघे टेकून नावे हाका मारीत होत्या. काहींनी आपल्या पुत्रांची डोकी मांडीवर घेतली. इतर आकाशाकडे पाहून रडल्या. त्यांचे दुःख इतके मोठे होते की वाचलेले सैनिकसुद्धा मान फिरवून राहिले.\n\nअंध मातेला दृष्टी नव्हती, तरीही तिने सारे पाहिले. तिचे दुःख बोलून दाखवता येण्यासारखे नव्हते. “शंभर पुत्र,” ती कुजबुजली. “एकही उरला नाही. का?”\n\nतिने पट्टी बांधलेला चेहरा थोड्या अंतरावर उभ्या असलेल्या पांडवांकडे वळवला. ते विजयी वाटत नव्हते. ते इतर सर्वांसारखेच गप्प होते.\n\n“युधिष्ठिर कुठे आहे?” तिने हळू विचारले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The glance under the veil",
+    "hi": {
+     "text": "पट्टी के नीचे की दृष्टि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पट्टीखालची दृष्टी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Yudhishthira stepped forward. His head was bowed. He folded his hands, and in a gentle voice, he said, “Mother, I am here. I am the one who killed your sons. Curse me if you must. I do not deserve to live, or to rule.”\n\nFor a moment, Gandhari said nothing. A terrible power was in her. She had been a woman of great austerity all her life. By closing her eyes for so many years, she had stored a force in her sight that could burn like fire.\n\nShe tilted her head. Beneath the edge of the blindfold, she let her gaze fall upon the king’s feet.\n\nA little spark of heat passed across the ground. Yudhishthira’s toes blackened and curled. Nobody spoke. He did not cry out or flinch. He only bowed lower.\n\nKrishna looked at him. “It might have been all of him,” he said softly. “She held back.”\n\nGandhari lifted her face. Her cheeks were wet. “Forgive me,” she whispered. “I wanted to hurt someone. I did not mean it for you.” And she drew the blindfold close again.\n\nShe was a good woman, and her heart was broken.",
+    "hi": {
+     "text": "युधिष्ठिर आगे बढ़े। उनका सिर झुका था। उन्होंने हाथ जोड़े, और कोमल स्वर में कहा, “माँ, मैं यहाँ हूँ। मैं ही वह हूँ जिसने आपके पुत्रों को मारा। यदि शाप देना हो तो दीजिए। मैं जीने या राज्य करने योग्य नहीं हूँ।”\n\nक्षण भर गांधारी कुछ नहीं बोलीं। उनमें एक भयंकर शक्ति थी। वे जीवन भर घोर तपस्विनी रही थीं। इतने वर्षों तक आँखें बंद रखकर उन्होंने अपनी दृष्टि में वह बल सँजो लिया था जो अग्नि की तरह जला सकता था।\n\nउन्होंने सिर थोड़ा झुकाया। पट्टी के किनारे के नीचे से उन्होंने अपनी दृष्टि राजा के चरणों पर डाली।\n\nगर्मी की एक छोटी-सी चिंगारी भूमि पर से गुज़री। युधिष्ठिर के पैर के अँगूठे काले होकर मुड़ गए। कोई नहीं बोला। वे न चीखे, न हटे। वे बस और झुक गए।\n\nकृष्ण ने उनकी ओर देखा। “यह उनका पूरा शरीर भी हो सकता था,” उन्होंने धीमे से कहा। “उन्होंने स्वयं को रोक लिया।”\n\nगांधारी ने मुख ऊपर उठाया। उनके गाल भीगे थे। “मुझे क्षमा करो,” वे फुसफुसाईं। “मैं किसी को चोट पहुँचाना चाहती थी। मेरा मन तुम पर नहीं था।” और उन्होंने पट्टी फिर कसकर ओढ़ ली।\n\nवे एक भली स्त्री थीं, और उनका हृदय टूट चुका था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युधिष्ठिर पुढे आला. त्याची मान खाली होती. त्याने हात जोडले, आणि सौम्य आवाजात म्हटले, “माते, मी इथे आहे. तुमच्या पुत्रांना मारणारा मीच आहे. आवश्यक असेल तर मला शाप द्या. मी जगायला किंवा राज्य करायला पात्र नाही.”\n\nक्षणभर गांधारी काही बोलली नाही. तिच्यात एक भयंकर शक्ती होती. ती आयुष्यभर मोठी तपस्विनी राहिली होती. इतकी वर्षे डोळे मिटून ठेवल्याने तिने आपल्या दृष्टीत अशी शक्ती साठवली होती जी अग्नीसारखी जाळू शकत होती.\n\nतिने डोके कलते केले. पट्टीच्या कडेखालून तिने आपली नजर राजाच्या पायांवर टाकली.\n\nउष्णतेची एक छोटीशी ठिणगी जमिनीवरून गेली. युधिष्ठिराची पायाची बोटे काळी पडली आणि वाकडी झाली. कुणी बोलले नाही. तो ओरडला नाही किंवा हटला नाही. तो फक्त आणखी खाली वाकला.\n\nश्रीकृष्णांनी त्याच्याकडे पाहिले. “संपूर्ण तोही जळू शकला असता,” ते हळू म्हणाले. “तिने हात आवरला.”\n\nगांधारीने चेहरा वर केला. तिचे गाल ओले होते. “मला क्षमा कर,” ती कुजबुजली. “मला कुणालातरी दुखवायचे होते. ते तुझ्यासाठी नव्हते.” आणि तिने पट्टी पुन्हा घट्ट केली.\n\nती चांगली स्त्री होती, आणि तिचे हृदय भंगले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The curse",
+    "hi": {
+     "text": "शाप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then she turned in the direction of Krishna. “Krishna!” she cried. “You could have stopped it. You had the power. You were the friend of both sides, and you did nothing. You watched my hundred sons die. Is this your idea of mercy?”\n\n“Mother,” said Krishna, very gently.\n\n“Be silent! If I have kept any merit in my life, if I have been true to my husband and my vows, then listen. As the Kuru clan has been destroyed by its own quarrels, so shall your clan, the Yadavas, destroy one another. In thirty-six years from today, you will wander in the forest, alone, a lonely death, your sons and friends dead, your city fallen.”\n\nA hush fell over the plain. The Pandavas gasped. Even Vyasa raised his head.\n\nKrishna smiled. He was not angry. “Mother,” he said, “I accept your word. I have no need to be pitied. I knew that the Yadavas could be destroyed by no one but themselves. You have only spoken what was to be.”\n\nGandhari wept again, perhaps knowing she had been forgiven before she asked.",
+    "hi": {
+     "text": "फिर वे कृष्ण की दिशा में मुड़ीं। “कृष्ण!” वे चीखीं। “तुम इसे रोक सकते थे। तुम्हारे पास सामर्थ्य था। तुम दोनों पक्षों के मित्र थे, और तुमने कुछ नहीं किया। तुमने मेरे सौ पुत्रों को मरते देखा। क्या यही तुम्हारी दया है?”\n\n“माँ,” कृष्ण ने बहुत कोमलता से कहा।\n\n“चुप रहो! यदि मैंने अपने जीवन में कोई पुण्य बचाया है, यदि मैं अपने पति और अपने व्रतों के प्रति सच्ची रही हूँ, तो सुनो। जैसे कुरु वंश अपने ही झगड़ों से नष्ट हुआ, वैसे ही तुम्हारा कुल, यदुवंश, आपस में एक-दूसरे को नष्ट करेगा। आज से छत्तीस वर्ष बाद तुम वन में भटकोगे, अकेले, एक एकाकी मृत्यु पाओगे, तुम्हारे पुत्र और मित्र मर चुके होंगे, तुम्हारा नगर गिर चुका होगा।”\n\nपूरे मैदान पर सन्नाटा छा गया। पांडव हाँफ उठे। व्यास ने भी सिर उठाया।\n\nकृष्ण मुस्कुराए। वे क्रुद्ध नहीं थे। “माँ,” उन्होंने कहा, “मैं आपका वचन स्वीकार करता हूँ। मुझे दया की आवश्यकता नहीं। मैं जानता था कि यादवों का नाश स्वयं उनके सिवा कोई नहीं कर सकता। आपने बस वही कहा है जो होना था।”\n\nगांधारी फिर रो पड़ीं, शायद यह जानते हुए कि उन्हें क्षमा माँगने से पहले ही क्षमा मिल चुकी थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग ती श्रीकृष्णाच्या दिशेने वळली. “श्रीकृष्णा!” ती ओरडली. “तू हे थांबवू शकला असतास. तुझ्याकडे सामर्थ्य होते. तू दोन्ही बाजूंचा मित्र होतास, आणि तू काहीच केले नाहीस. तू माझ्या शंभर पुत्रांना मरताना पाहिलेस. हीच तुझी दया का?”\n\n“माते,” श्रीकृष्ण अतिशय हळुवारपणे म्हणाले.\n\n“गप्प बस! माझ्या आयुष्यात मी काही पुण्य राखले असेल, मी आपल्या पतीशी आणि आपल्या व्रतांशी प्रामाणिक राहिले असेन, तर ऐक. ज्याप्रमाणे कुरुकुळ स्वतःच्या भांडणांनी नष्ट झाले, त्याप्रमाणे तुझे कुळ, यादव, एकमेकांना नष्ट करतील. आजपासून छत्तीस वर्षांनी तू वनात भटकशील, एकटा, एकाकी मृत्यू, तुझे पुत्र आणि मित्र मेलेले, तुझे नगर कोसळलेले.”\n\nमैदानावर शांतता पसरली. पांडव थक्क झाले. व्यासांनीही मान वर केली.\n\nश्रीकृष्ण हसले. त्यांना राग आला नव्हता. “माते,” ते म्हणाले, “मी तुमचा शब्द स्वीकारतो. मला दयेची गरज नाही. यादवांचा नाश स्वतःखेरीज कुणीच करू शकत नाही हे मला ठाऊक होते. तुम्ही फक्त जे घडायचे होते तेच बोललात.”\n\nगांधारी पुन्हा रडली, कदाचित तिला कळले होते की तिने मागण्यापूर्वीच तिला क्षमा झाली होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kunti’s secret",
+    "hi": {
+     "text": "कुंती का रहस्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंतीचे रहस्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "That evening, the Pandavas gathered by the river to offer water for the dead. Kunti stood among them, silent. Then she said, “Yudhishthira, there is someone else you must offer water to. Karna.”\n\n“Karna?” said Yudhishthira.\n\n“He was your brother,” she said, trembling. “He was my first son. I bore him before I was married. I set him on the river in a basket. I gave him up, and I never told him until the very end. I did not tell you.”\n\nFor a long time, none of them could speak. Arjuna stood as if turned to stone. Bhima’s fists opened. Draupadi covered her mouth.\n\n“Mother,” said Yudhishthira at last, and his voice broke. “If I had known... we would have ruled together. There would have been no war. We would not have lost so many.”\n\nHe raised his arms to heaven and in the sorrow of that moment he cursed all women, that they might never again be able to keep a secret. But his curse was only grief speaking. He knew who the real weight of the secret belonged to.\n\nHe walked down into the river and offered water for Karna.",
+    "hi": {
+     "text": "उस शाम पांडव मृतकों को जलांजलि देने के लिए नदी के किनारे इकट्ठे हुए। कुंती उनके बीच चुपचाप खड़ी थीं। फिर उन्होंने कहा, “युधिष्ठिर, एक और है जिसे तुम्हें जल देना है। कर्ण।”\n\n“कर्ण?” युधिष्ठिर ने कहा।\n\n“वह तुम्हारा भाई था,” उन्होंने काँपते हुए कहा। “वह मेरा पहला पुत्र था। मैंने उसे विवाह से पहले जन्म दिया था। मैंने उसे टोकरी में रखकर नदी में बहा दिया था। मैंने उसे त्याग दिया, और अंतिम समय तक उसे कभी बताया नहीं। मैंने तुम्हें भी नहीं बताया।”\n\nबहुत देर तक उनमें से कोई कुछ बोल न सका। अर्जुन पत्थर की तरह खड़ा रह गया। भीम की मुट्ठियाँ खुल गईं। द्रौपदी ने मुँह पर हाथ रख लिया।\n\n“माँ,” युधिष्ठिर ने आख़िर कहा, और उनका स्वर टूट गया। “यदि मैं जानता... हम सब मिलकर राज्य करते। कोई युद्ध नहीं होता। हम इतने लोगों को न खोते।”\n\nउन्होंने स्वर्ग की ओर हाथ उठाए और उस शोक के क्षण में सब स्त्रियों को शाप दे दिया कि वे फिर कभी कोई रहस्य न छिपा सकें। पर उनका शाप केवल उनका दुख बोल रहा था। वे जानते थे कि उस रहस्य का वास्तविक बोझ किसका था।\n\nवे नदी में उतरे और कर्ण के लिए जल अर्पित किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या संध्याकाळी पांडव मृतांना जलांजली देण्यासाठी नदीकाठी जमले. कुंती त्यांच्यात गप्प उभी होती. मग ती म्हणाली, “युधिष्ठिरा, आणखी एका जणाला तुला जल अर्पण करायचे आहे. कर्णाला.”\n\n“कर्णाला?” युधिष्ठिर म्हणाला.\n\n“तो तुझा भाऊ होता,” ती थरथरत म्हणाली. “तो माझा पहिला पुत्र होता. मी त्याला विवाहापूर्वी जन्म दिला. मी त्याला टोपलीत घालून नदीवर सोडले. मी त्याला सोडून दिले, आणि अगदी शेवटपर्यंत त्याला कधी सांगितले नाही. मी तुम्हालाही सांगितले नाही.”\n\nबराच वेळ त्यांच्यापैकी कुणीही बोलू शकले नाही. अर्जुन दगड झाल्यासारखा उभा होता. भीमाच्या मुठी उघडल्या. द्रौपदीने तोंडावर हात ठेवला.\n\n“माते,” युधिष्ठिर शेवटी म्हणाला, आणि त्याचा आवाज फुटला. “मला ठाऊक असते तर... आपण एकत्र राज्य केले असते. युद्ध झाले नसते. आपण इतके जण गमावले नसते.”\n\nत्याने स्वर्गाकडे हात उंचावले आणि त्या क्षणाच्या दुःखात त्याने सर्व स्त्रियांना शाप दिला की त्यांना यापुढे कधीही गुपित राखता येऊ नये. पण तो शाप फक्त दुःखाचे बोल होते. त्या गुपिताचे खरे ओझे कुणाचे होते हे त्याला ठाऊक होते.\n\nतो नदीत उतरला आणि त्याने कर्णासाठी जल अर्पण केले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The crown of ashes",
+    "hi": {
+     "text": "राख का मुकुट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राखेचा मुकुट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Yudhishthira had won the war, and now he wished to give it up. “What have we done?” he said, sitting alone at night. “We have killed our grandfather, our teachers, our brothers. Is a crown worth this? I will go to the forest and live as an ascetic.”\n\nHis brothers tried to dissuade him. Arjuna spoke of duty. Bhima, gruffly, said that the dead would not wish him to waste their sacrifice. Draupadi spoke of the kingdom’s needs. Krishna said, “A king is not a man who rules for himself. He holds the world so that others can live in peace.”\n\nSlowly, Yudhishthira rose. He walked to Hastinapura, where the old King Dhritarashtra, who had lost all his sons, received him with an embrace so stiff that Bhima, standing nearby, shrank away. Gandhari, at his side, was gentler.\n\nOn a day chosen by the priests, with drums and conches, Yudhishthira was crowned. He sat on the throne, and his face was not that of a happy man. He knew the cost of that seat. He looked at the people kneeling before him and promised silently that he would hold it as a duty, and a burden, and not a prize.",
+    "hi": {
+     "text": "युधिष्ठिर ने युद्ध जीत लिया था, और अब वे उसे त्याग देना चाहते थे। “हमने क्या कर डाला?” उन्होंने रात को अकेले बैठकर कहा। “हमने अपने पितामह, अपने गुरुओं, अपने भाइयों को मार डाला। क्या मुकुट इसके योग्य है? मैं वन जाऊँगा और संन्यासी बनकर रहूँगा।”\n\nउनके भाइयों ने उन्हें समझाने का प्रयास किया। अर्जुन ने कर्तव्य की बात की। भीम ने रूखे स्वर में कहा कि मृतक नहीं चाहेंगे कि वे उनका बलिदान व्यर्थ करें। द्रौपदी ने राज्य की आवश्यकताओं की बात की। कृष्ण ने कहा, “राजा वह नहीं जो अपने लिए शासन करता है। वह संसार को थामे रखता है ताकि दूसरे शांति से जी सकें।”\n\nधीरे-धीरे युधिष्ठिर उठे। वे हस्तिनापुर गए, जहाँ बूढ़े राजा धृतराष्ट्र ने, जिन्होंने अपने सब पुत्र खो दिए थे, उनका आलिंगन इतने कठोर ढंग से किया कि पास खड़े भीम सिहर उठे। उनके पास खड़ी गांधारी अधिक कोमल थीं।\n\nपुरोहितों द्वारा चुने गए दिन पर, नगाड़ों और शंखों के साथ, युधिष्ठिर का राज्याभिषेक हुआ। वे सिंहासन पर बैठे, और उनका मुख किसी सुखी मनुष्य का नहीं था। वे उस आसन की कीमत जानते थे। उन्होंने अपने सामने झुकी हुई प्रजा को देखा और मन ही मन प्रतिज्ञा की कि वे इसे एक कर्तव्य और एक बोझ की तरह निभाएँगे, पुरस्कार की तरह नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युधिष्ठिराने युद्ध जिंकले होते, आणि आता त्याला ते सोडून द्यायचे होते. “आपण काय केले?” तो रात्री एकटा बसून म्हणाला. “आपण आपले आजोबा, आपले गुरू, आपले भाऊ मारले. या सर्वांच्या किंमतीचा मुकुट आहे का? मी वनात जाईन आणि संन्यासी म्हणून राहीन.”\n\nत्याच्या भावांनी त्याला परावृत्त करण्याचा प्रयत्न केला. अर्जुन कर्तव्याबद्दल बोलला. भीमाने, खरखरीत आवाजात, म्हटले की मृतांना त्यांचे बलिदान वाया जावे असे वाटणार नाही. द्रौपदी राज्याच्या गरजांबद्दल बोलली. श्रीकृष्ण म्हणाले, “राजा तो नव्हे जो स्वतःसाठी राज्य करतो. तो जगाला धरून ठेवतो जेणेकरून इतर शांततेत राहू शकतील.”\n\nहळूहळू युधिष्ठिर उठला. तो हस्तिनापुराला गेला, जिथे आपले सर्व पुत्र गमावलेल्या वृद्ध राजा धृतराष्ट्राने त्याचे इतक्या ताठर आलिंगनाने स्वागत केले की जवळ उभा असलेला भीम मागे सरकला. त्याच्या शेजारी गांधारी अधिक मृदू होती.\n\nपुरोहितांनी ठरवलेल्या दिवशी, नगारे आणि शंखांसह, युधिष्ठिराचा राज्याभिषेक झाला. तो सिंहासनावर बसला, आणि त्याचा चेहरा आनंदी माणसाचा नव्हता. त्या आसनाची किंमत त्याला ठाऊक होती. त्याने आपल्यासमोर गुडघे टेकलेल्या लोकांकडे पाहिले आणि मनातल्या मनात वचन दिले की तो ते कर्तव्य आणि ओझे म्हणून धरील, बक्षीस म्हणून नव्हे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Gandhari carried an unbearable grief and still did not harden her heart. When sorrow comes, do you let it soften you or harden you? Today, sit for a minute with someone’s pain, theirs or your own, without trying to fix it.",
+  "hi": {
+   "text": "गांधारी ने असहनीय शोक सहा, फिर भी अपना हृदय कठोर नहीं होने दिया। जब दुख आता है, तो क्या आप उसे अपने को कोमल करने देते हैं या कठोर? आज एक मिनट किसी की पीड़ा के साथ बैठिए, उसकी या अपनी, उसे ठीक करने की कोशिश किए बिना।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गांधारीने असह्य दुःख वाहिले आणि तरीही आपले हृदय कठोर होऊ दिले नाही. दुःख येते, तेव्हा ते तुम्हाला मृदू करते की कठोर? आज एखाद्याच्या वेदनेसोबत, त्याच्या किंवा तुमच्या स्वतःच्या, ती सुधारायचा प्रयत्न न करता, एक मिनिट शांत बसा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grief is love with nowhere to go, and honest sorrow, met with humility, can still be healed.",
+  "hi": {
+   "text": "शोक वह प्रेम है जिसे जाने की कोई जगह नहीं मिली, और सच्चा दुख, विनम्रता के साथ सहा जाए, तो भर सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुःख म्हणजे जाण्यासाठी जागा नसलेले प्रेम, आणि प्रामाणिक दुःख, नम्रतेने भेटले तर, बरे होऊ शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Stri Parva and Shanti Parva",
+  "hi": {
+   "text": "महाभारत, स्त्री पर्व और शांति पर्व",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, स्त्री पर्व आणि शांती पर्व",
+   "reviewed": false
+  }
+ }
+}

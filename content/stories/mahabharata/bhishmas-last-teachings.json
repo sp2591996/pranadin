@@ -1,0 +1,266 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "bhishmas-last-teachings",
+ "order": 31,
+ "part": "shanti",
+ "figure": {
+  "en": "Bhishma",
+  "hi": {
+   "text": "भीष्म",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भीष्म",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The grandfather’s last lessons",
+  "hi": {
+   "text": "पितामह की अंतिम शिक्षाएँ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आजोबांचे शेवटचे धडे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The war is won, but the new king cannot bear it. The old man on the bed of arrows has been waiting for this very moment, to pour out everything he has learned in a long life.",
+  "hi": {
+   "text": "युद्ध जीता जा चुका है, पर नया राजा उसका बोझ नहीं सह पा रहा। बाणों की शय्या पर लेटे वृद्ध इसी क्षण की प्रतीक्षा कर रहे थे, ताकि लंबे जीवन में सीखा सब कुछ उँडेल दें।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "युद्ध जिंकले गेले आहे, पण नवा राजा ते सहन करू शकत नाही. बाणांच्या शय्येवरचे वृद्ध याच क्षणाची वाट पाहत होते, दीर्घ आयुष्यात जे काही शिकले ते सर्व ओतण्यासाठी.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/bed-of-arrows-1.webp",
+   "w": 960,
+   "h": 684,
+   "caption": {
+    "en": "Bhishma lies on a bed of arrows while Arjuna stands above him (Indian painting)",
+    "hi": {
+     "text": "बाणों की शय्या पर लेटे भीष्म, पास खड़े अर्जुन (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शरशय्येवर पडलेले भीष्म, जवळ उभा अर्जुन (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhisma_is_lying_on_a_bed_of_arrows_with_Arjuna_standing_above_him_with_bow_drawn_and_pointed..jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The field of arrows",
+    "hi": {
+     "text": "बाणों का मैदान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बाणांचे मैदान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Yudhishthira sat on the throne, but his heart was heavy and his questions were many. How should a king rule? What is right when everything is wrong? He did not know. Krishna said, “There is one who can teach you. He lies on Kurukshetra, waiting.”\n\nSo Krishna and the Pandavas drove out to the battlefield, where the grandfather still lay on his bed of arrows. Fifty-eight nights had passed. His face was thin but bright, like a lamp with the last of its oil. Around him, sages sat in a circle: Vyasa, Narada, and many more.\n\nKrishna bowed. “Grandfather, we have come. Yudhishthira has questions only you can answer.”\n\n“I am very weak,” said Bhishma. “My body hurts, and my mind wanders. How can I teach, with Krishna himself standing before me?”\n\nKrishna smiled. “Today I give you my boon. Your mind will be as clear as in your youth. Speak freely.”\n\nBhishma felt the pain vanish and light fill his mind. He raised his hands to Krishna in thanks. Then, turning to the weeping king, he said, “Ask, my child. I will answer.”",
+    "hi": {
+     "text": "युधिष्ठिर सिंहासन पर बैठे थे, पर उनका हृदय भारी था और प्रश्न अनगिनत थे। राजा को कैसे शासन करना चाहिए? जब सब कुछ ग़लत हो, तब सही क्या है? वे नहीं जानते थे। कृष्ण ने कहा, “एक हैं जो तुम्हें सिखा सकते हैं। वे कुरुक्षेत्र में लेटे हैं, प्रतीक्षा करते हुए।”\n\nतब कृष्ण और पांडव रथ पर रणभूमि की ओर गए, जहाँ पितामह अब भी बाणों की शय्या पर लेटे थे। अट्ठावन रातें बीत चुकी थीं। उनका चेहरा दुबला था पर दमकता हुआ, उस दीपक की तरह जिसमें अंतिम बूँद तेल बचा हो। उनके चारों ओर ऋषि घेरा बनाकर बैठे थे: व्यास, नारद, और बहुत से और।\n\nकृष्ण ने प्रणाम किया। “पितामह, हम आ गए हैं। युधिष्ठिर के कुछ प्रश्न हैं जिनका उत्तर केवल आप दे सकते हैं।”\n\n“मैं बहुत दुर्बल हूँ,” भीष्म ने कहा। “मेरे शरीर में पीड़ा है, और मन भटकता है। जब स्वयं कृष्ण मेरे सामने खड़े हैं, तो मैं कैसे उपदेश दूँ?”\n\nकृष्ण मुस्कुराए। “आज मैं तुम्हें अपना वरदान देता हूँ। तुम्हारा मन युवावस्था की तरह स्पष्ट हो जाएगा। निर्भय होकर बोलो।”\n\nभीष्म ने पीड़ा को लुप्त होते और मन को प्रकाश से भरते अनुभव किया। उन्होंने कृतज्ञता से कृष्ण की ओर हाथ जोड़े। फिर रोते हुए राजा की ओर मुड़कर कहा, “पूछो, बेटा। मैं उत्तर दूँगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युधिष्ठिर सिंहासनावर बसला होता, पण त्याचे हृदय जड होते आणि त्याचे प्रश्न अनेक होते. राजाने कसे राज्य करावे? सारेच चुकीचे असताना योग्य काय? त्याला ठाऊक नव्हते. श्रीकृष्ण म्हणाले, “एक जण तुला शिकवू शकतो. तो कुरुक्षेत्रावर पडला आहे, वाट पाहत.”\n\nम्हणून श्रीकृष्ण आणि पांडव रणांगणाकडे निघाले, जिथे आजोबा अजूनही बाणांच्या शय्येवर पडले होते. अठ्ठावन्न रात्री उलटल्या होत्या. त्यांचा चेहरा क्षीण पण तेजस्वी होता, शेवटच्या तेलाच्या दिव्यासारखा. त्यांच्याभोवती ऋषी वर्तुळात बसले होते: व्यास, नारद, आणि आणखी अनेक.\n\nश्रीकृष्णांनी नमस्कार केला. “आजोबा, आम्ही आलो आहोत. युधिष्ठिराचे प्रश्न आहेत ज्यांची उत्तरे फक्त आपण देऊ शकता.”\n\n“मी फार दुबळा आहे,” भीष्म म्हणाले. “माझे शरीर दुखते, आणि माझे मन भरकटते. स्वतः श्रीकृष्ण माझ्यासमोर उभे असताना मी कसे शिकवू?”\n\nश्रीकृष्ण हसले. “आज मी तुम्हाला माझे वरदान देतो. तुमचे मन तारुण्यासारखे स्वच्छ होईल. मोकळेपणाने बोला.”\n\nभीष्मांना वेदना नाहीशी झालेली जाणवली आणि मनात प्रकाश भरून गेला. त्यांनी कृतज्ञतेने श्रीकृष्णाकडे हात जोडले. मग रडणाऱ्या राजाकडे वळून ते म्हणाले, “विचार, बाळा. मी उत्तर देईन.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The duty of a king",
+    "hi": {
+     "text": "राजा का धर्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाचे कर्तव्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "For many days the king sat at Bhishma’s feet, and the old man taught. He spoke of the king’s duty first: “A king is a servant of his people. He must protect the weak, honour the wise, and punish only to heal. A king whose people are not fed has no right to a feast.”\n\nHe spoke of truth, patience, charity, and the hard art of making peace between enemies. He spoke of dharma in times of trouble: “When life itself is in danger, rules bend, and the heart must be the judge. But the one who bends them for pleasure only fools himself.”\n\nYudhishthira asked: “Grandfather, what is the greatest dharma?”\n\n“To be harmless in thought, word and deed to every being,” said Bhishma. “That is the highest. Where there is dharma, there is victory.”\n\nHe spoke also of liberation, the path beyond rebirth, the stillness that comes when we no longer cling. And he said: “Yudhishthira, a king cannot escape the world. But he can live in it as a lotus lives in water, touched but not wet.”\n\nThe sages listened without moving, and the evening wind stirred the arrows.",
+    "hi": {
+     "text": "कई दिन तक राजा भीष्म के चरणों में बैठे रहे, और वृद्ध पितामह उपदेश देते रहे। उन्होंने सबसे पहले राजा के कर्तव्य की बात की: “राजा अपनी प्रजा का सेवक है। उसे दुर्बल की रक्षा करनी चाहिए, ज्ञानी का सम्मान करना चाहिए, और दंड केवल सुधारने के लिए देना चाहिए। जिस राजा की प्रजा भूखी हो, उसे भोज करने का अधिकार नहीं।”\n\nउन्होंने सत्य, धैर्य, दान और शत्रुओं के बीच शांति कराने की कठिन कला के बारे में बताया। उन्होंने संकट के समय धर्म की बात की: “जब प्राणों पर संकट हो, तो नियम झुकते हैं, और हृदय को न्यायाधीश बनना पड़ता है। पर जो उन्हें सुख के लिए झुकाता है, वह केवल स्वयं को धोखा देता है।”\n\nयुधिष्ठिर ने पूछा: “पितामह, सबसे बड़ा धर्म क्या है?”\n\n“मन, वचन और कर्म से हर प्राणी के प्रति अहिंसक होना,” भीष्म ने कहा। “वही सर्वोच्च है। जहाँ धर्म है, वहाँ विजय है।”\n\nउन्होंने मोक्ष की भी बात की, पुनर्जन्म से परे का मार्ग, वह स्थिरता जो तब आती है जब हम पकड़ना छोड़ देते हैं। और कहा: “युधिष्ठिर, राजा संसार से भाग नहीं सकता। पर वह इसमें वैसे रह सकता है जैसे कमल जल में रहता है, छुआ हुआ पर भीगा नहीं।”\n\nऋषि बिना हिले सुनते रहे, और साँझ की हवा बाणों को सहलाती रही।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनेक दिवस राजा भीष्मांच्या पायाशी बसला आणि वृद्धाने शिकवले. त्यांनी आधी राजाच्या कर्तव्याबद्दल सांगितले: “राजा हा आपल्या प्रजेचा सेवक असतो. त्याने दुर्बलांचे रक्षण केले पाहिजे, ज्ञानींचा आदर केला पाहिजे, आणि बरे करण्यासाठीच शिक्षा केली पाहिजे. ज्या राजाची प्रजा उपाशी आहे, त्याला मेजवानीचा अधिकार नाही.”\n\nत्यांनी सत्य, संयम, दान, आणि शत्रूंमध्ये शांती घडवण्याच्या कठीण कलेबद्दल सांगितले. त्यांनी संकटकाळातील धर्माबद्दल सांगितले: “जेव्हा प्राणच धोक्यात असतो, तेव्हा नियम वाकतात, आणि हृदय न्यायाधीश असते. पण जो सुखासाठी ते वाकवतो, तो फक्त स्वतःलाच फसवतो.”\n\nयुधिष्ठिराने विचारले: “आजोबा, सर्वश्रेष्ठ धर्म कोणता?”\n\n“प्रत्येक जीवाप्रती विचार, वाणी आणि कृतीत अहिंसक असणे,” भीष्म म्हणाले. “तोच सर्वोच्च आहे. जिथे धर्म आहे तिथे विजय आहे.”\n\nत्यांनी मोक्षाबद्दलही सांगितले, पुनर्जन्माच्या पलीकडचा मार्ग, आपण आसक्ती सोडतो तेव्हा येणारी शांतता. आणि ते म्हणाले: “युधिष्ठिरा, राजा जगापासून सुटू शकत नाही. पण तो त्यात कमळ पाण्यात राहते तसा राहू शकतो, स्पर्श झालेला पण न भिजलेला.”\n\nऋषी न हलता ऐकत राहिले, आणि संध्याकाळच्या वाऱ्याने बाण हलवले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A thousand names",
+    "hi": {
+     "text": "हज़ार नाम",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सहस्र नामे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At last Yudhishthira asked the question of all questions. “Grandfather, who in this world is the supreme God? Whom should humankind worship? By what path can a person be freed from every sorrow?”\n\nBhishma closed his eyes for a moment. Then he opened them and looked at Krishna, who sat in the circle, quiet and smiling, as if nothing in the conversation concerned him. The old man’s eyes filled with love.\n\n“There is one who is the Lord of all worlds,” he said. “The one who is both the beginning and the end, who sustains the universe and enters all hearts. To praise him, to remember him, to call upon him by name, is the surest way.”\n\nAnd he began to recite the thousand names of Vishnu, the Vishnu Sahasranama. Name after name rose in the evening air, each one a window onto the Infinite: the Giver of Life, the Friend of the Poor, the Refuge of the Weary, the One who is Time. And with each name, Yudhishthira felt his burden grow lighter.\n\nWhen Bhishma finished, even the sages bowed in wonder, and Krishna, the very one they were praising, looked down, humbly, as if hearing a song he did not know was about him.",
+    "hi": {
+     "text": "आख़िर युधिष्ठिर ने सब प्रश्नों का प्रश्न पूछा। “पितामह, इस संसार में परम देवता कौन है? मानवजाति को किसकी उपासना करनी चाहिए? किस मार्ग से मनुष्य सब दुखों से मुक्त हो सकता है?”\n\nभीष्म ने क्षण भर के लिए आँखें मूँदीं। फिर उन्होंने आँखें खोलकर कृष्ण की ओर देखा, जो घेरे में चुपचाप और मुस्कुराते हुए बैठे थे, मानो इस बातचीत में उनसे कुछ लेना-देना ही न हो। वृद्ध की आँखें प्रेम से भर आईं।\n\n“वे हैं जो सब लोकों के स्वामी हैं,” उन्होंने कहा। “जो आदि भी हैं और अंत भी, जो ब्रह्मांड को धारण करते हैं और सब हृदयों में प्रवेश करते हैं। उनकी स्तुति करना, उनका स्मरण करना, उनका नाम लेकर पुकारना, यही सबसे निश्चित मार्ग है।”\n\nऔर उन्होंने विष्णु के हज़ार नामों का पाठ आरंभ किया, विष्णु सहस्रनाम। साँझ की हवा में एक के बाद एक नाम उठता गया, हर नाम अनंत की ओर खुलती एक खिड़की: प्राणों के दाता, दीनों के सखा, थके हुओं के आश्रय, वे जो स्वयं काल हैं। और हर नाम के साथ युधिष्ठिर को अपना बोझ हल्का होता लगा।\n\nजब भीष्म ने पाठ पूरा किया, तो ऋषि भी चकित होकर नतमस्तक हुए, और कृष्ण, जिनकी स्तुति हो रही थी, विनम्रता से नीचे देखते रहे, मानो ऐसा गीत सुन रहे हों जिसे वे नहीं जानते थे कि उन्हीं के बारे में है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अखेर युधिष्ठिराने सर्व प्रश्नांचा प्रश्न विचारला. “आजोबा, या जगात परम देव कोण? मानवाने कुणाची उपासना करावी? कोणत्या मार्गाने माणूस सर्व दुःखांतून मुक्त होऊ शकतो?”\n\nभीष्मांनी क्षणभर डोळे मिटले. मग त्यांनी ते उघडले आणि वर्तुळात शांत, हसत बसलेल्या श्रीकृष्णाकडे पाहिले, जणू या संभाषणाचा त्यांच्याशी काहीच संबंध नव्हता. वृद्धाचे डोळे प्रेमाने भरून आले.\n\n“एक आहे जो सर्व लोकांचा स्वामी आहे,” ते म्हणाले. “जो आदीही आहे आणि अंतही, जो विश्वाचे धारण करतो आणि सर्व हृदयांत प्रवेश करतो. त्याची स्तुती करणे, त्याचे स्मरण करणे, त्याला नावाने हाक मारणे, हाच सर्वांत खात्रीचा मार्ग आहे.”\n\nआणि त्यांनी भगवान विष्णूची हजार नावे, विष्णुसहस्रनाम, म्हणायला सुरुवात केली. नावामागून नाव संध्याकाळच्या हवेत उमटले, प्रत्येक अनंताकडे उघडणारी खिडकी: जीवन देणारा, गरिबांचा मित्र, थकलेल्यांचा आश्रय, जो काळ आहे. आणि प्रत्येक नावासोबत युधिष्ठिराला आपले ओझे हलके होताना जाणवले.\n\nभीष्मांनी संपवले, तेव्हा ऋषींनीसुद्धा आश्चर्याने नमस्कार केला, आणि ज्याची स्तुती होत होती ते श्रीकृष्ण नम्रपणे खाली पाहत राहिले, जणू आपल्याबद्दल असल्याचे ठाऊक नसलेले गीत ऐकत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Draupadi’s question",
+    "hi": {
+     "text": "द्रौपदी का प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदीचा प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Draupadi had come with the family and stood a little behind her husbands. She listened to all that Bhishma taught about justice and a king’s duty. And at last she could not keep silent.\n\n“Grandfather,” she said, with a bow, “may I ask a question?”\n\n“Ask, daughter.”\n\n“When I was dragged into the court of Hastinapura, when I asked whether a man who had lost himself could stake his wife, you were there. You knew every law. You are the wisest man alive. Why did you say nothing?”\n\nA silence fell. Every eye turned to the old man. Bhishma looked at her for a long time.\n\n“Daughter,” he said, and his voice was very gentle, “dharma is subtle and I could not see my way. Duryodhana’s bad company had clouded my mind. I had eaten the food of the Kauravas for many years, and the grain that comes from unjust hands darkens the thought. A tradition tells it so. Now that Arjuna’s arrows have drawn out that blood, my mind is clear. But it was a failure, and I own it.”\n\nDraupadi bowed. She wept, but she was no longer angry.",
+    "hi": {
+     "text": "द्रौपदी परिवार के साथ आई थीं और अपने पतियों के कुछ पीछे खड़ी थीं। भीष्म ने न्याय और राजा के कर्तव्य के बारे में जो कुछ सिखाया, उन्होंने सब सुना। और आख़िर वे चुप न रह सकीं।\n\n“पितामह,” उन्होंने प्रणाम करके कहा, “क्या मैं एक प्रश्न पूछ सकती हूँ?”\n\n“पूछो, पुत्री।”\n\n“जब मुझे हस्तिनापुर की सभा में घसीटा गया था, जब मैंने पूछा था कि जो पुरुष स्वयं को हार चुका है, क्या वह अपनी पत्नी को दाँव पर लगा सकता है, तब आप वहाँ थे। आप हर नियम जानते थे। आप जीवित मनुष्यों में सबसे बुद्धिमान हैं। आप चुप क्यों रहे?”\n\nसन्नाटा छा गया। हर आँख वृद्ध पितामह की ओर मुड़ गई। भीष्म बहुत देर तक उन्हें देखते रहे।\n\n“पुत्री,” उन्होंने कहा, और उनका स्वर बहुत कोमल था, “धर्म सूक्ष्म है, और मुझे अपना मार्ग नहीं दिखा। दुर्योधन की बुरी संगत ने मेरा मन धुँधला कर दिया था। मैंने बहुत वर्षों तक कौरवों का अन्न खाया था, और अन्यायी हाथों से आया अन्न विचार को मलिन कर देता है। एक परंपरा ऐसा ही कहती है। अब जब अर्जुन के बाणों ने वह रक्त बाहर निकाल दिया है, तो मेरा मन स्वच्छ है। पर वह मेरी विफलता थी, और मैं उसे स्वीकार करता हूँ।”\n\nद्रौपदी ने प्रणाम किया। वे रोईं, पर अब क्रोधित नहीं थीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्रौपदी कुटुंबासोबत आली होती आणि आपल्या पतींच्या थोडी मागे उभी होती. भीष्मांनी न्याय आणि राजाच्या कर्तव्याबद्दल जे काही शिकवले ते तिने ऐकले. आणि अखेर तिला गप्प राहवले नाही.\n\n“आजोबा,” ती नमस्कार करून म्हणाली, “मी एक प्रश्न विचारू का?”\n\n“विचार, बेटी.”\n\n“मला हस्तिनापुराच्या सभेत ओढत आणले, जेव्हा मी विचारले की स्वतःला हरलेला माणूस पत्नीला डावावर लावू शकतो का, तेव्हा आपण तिथे होतात. आपल्याला प्रत्येक नियम ठाऊक होता. आपण जिवंतांमध्ये सर्वांत ज्ञानी आहात. आपण काहीच का बोलला नाहीत?”\n\nशांतता पसरली. प्रत्येक डोळा वृद्धाकडे वळला. भीष्मांनी बराच वेळ तिच्याकडे पाहिले.\n\n“बेटी,” ते म्हणाले, आणि त्यांचा आवाज अतिशय मृदू होता, “धर्म सूक्ष्म असतो आणि मला माझी वाट दिसली नाही. दुर्योधनाच्या वाईट संगतीने माझे मन धूसर केले होते. मी अनेक वर्षे कौरवांचे अन्न खाल्ले होते, आणि अन्यायी हातांतून आलेले धान्य विचार काळवंडते. एक परंपरा तसे सांगते. आता अर्जुनाच्या बाणांनी ते रक्त बाहेर काढले आहे, तेव्हा माझे मन स्वच्छ आहे. पण ती माझी चूक होती, आणि मी ती मान्य करतो.”\n\nद्रौपदीने नमस्कार केला. ती रडली, पण आता तिला राग नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Uttarayana",
+    "hi": {
+     "text": "उत्तरायण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उत्तरायण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At last it was the day the sun began its northward journey. The cold had broken. The first warm light touched the arrows that held up the old man’s body.\n\n“It is time,” said Bhishma.\n\nKrishna and the Pandavas gathered around him once more. Vyasa stood at his head, and the sages made a ring around him. The old man looked at each in turn, and his face shone with joy. He had waited for this for so many days. His whole life had been a long keeping of a vow.\n\n“Do not grieve,” he said. “I have lived long, and I have served my country as best as I could. Yudhishthira, rule well. Be kind. Be just.”\n\nHe fixed his eyes on Krishna. “Lord, I come to you.”\n\nSlowly, he drew his breath upward through his body, through the crown of his head. A radiance rose from him and travelled into the sky, bright as a meteor. Flowers fell from the heavens, and from every side the sound of celestial drums and music.\n\nOn the bed of arrows, the body of the grandfather lay at peace, a great life complete.",
+    "hi": {
+     "text": "आख़िर वह दिन आ गया जब सूर्य ने उत्तर की ओर अपनी यात्रा शुरू की। ठंड टूट चुकी थी। पहली गुनगुनी किरण उन बाणों पर पड़ी जो वृद्ध की देह को थामे हुए थे।\n\n“समय आ गया है,” भीष्म ने कहा।\n\nकृष्ण और पांडव एक बार फिर उनके चारों ओर इकट्ठे हुए। व्यास उनके सिर के पास खड़े थे, और ऋषियों ने उनके चारों ओर घेरा बनाया। वृद्ध ने एक-एक को देखा, और उनका मुख आनंद से दमक रहा था। वे इतने दिनों से इसी की प्रतीक्षा कर रहे थे। उनका पूरा जीवन एक प्रतिज्ञा का लंबा निर्वाह रहा था।\n\n“शोक मत करो,” उन्होंने कहा। “मैंने लंबा जीवन जिया है, और अपने देश की जितनी सेवा हो सकी, की है। युधिष्ठिर, अच्छे से शासन करना। दयालु रहना। न्यायप्रिय रहना।”\n\nउन्होंने कृष्ण पर दृष्टि जमाई। “प्रभु, मैं आपके पास आता हूँ।”\n\nधीरे-धीरे उन्होंने अपनी साँस को शरीर के भीतर से ऊपर खींचा, ब्रह्मरंध्र तक। उनसे एक तेज निकला और उल्का की तरह चमकता हुआ आकाश में चला गया। स्वर्ग से फूल बरसे, और चारों ओर से दिव्य नगाड़ों और संगीत की ध्वनि गूँजी।\n\nबाणों की शय्या पर पितामह की देह शांति से पड़ी रही, एक महान जीवन पूर्ण हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अखेर तो दिवस आला जेव्हा सूर्याने उत्तरेकडचा प्रवास सुरू केला. थंडी ओसरली होती. वृद्धाचे शरीर धरून ठेवणाऱ्या बाणांना पहिला उबदार प्रकाश स्पर्श करून गेला.\n\n“वेळ आली आहे,” भीष्म म्हणाले.\n\nश्रीकृष्ण आणि पांडव पुन्हा त्यांच्याभोवती जमले. व्यास त्यांच्या डोक्याशी उभे राहिले, आणि ऋषींनी त्यांच्याभोवती कडे केले. वृद्धाने प्रत्येकाकडे पाहिले, आणि त्यांचा चेहरा आनंदाने उजळला. ते इतके दिवस याची वाट पाहत होते. त्यांचे सारे आयुष्य एका प्रतिज्ञेचे दीर्घ पालन होते.\n\n“दुःख करू नका,” ते म्हणाले. “मी खूप जगलो, आणि मी माझ्या देशाची शक्य तितकी सेवा केली. युधिष्ठिरा, उत्तम राज्य कर. दयाळू राहा. न्यायी राहा.”\n\nत्यांनी श्रीकृष्णावर डोळे स्थिर केले. “प्रभू, मी तुमच्याकडे येतो.”\n\nहळूहळू त्यांनी आपला श्वास शरीरातून वर ओढला, मस्तकाच्या शिखरातून. त्यांच्यातून एक तेज उठले आणि उल्केसारखे तेजस्वी होऊन आकाशात गेले. स्वर्गातून पुष्पवृष्टी झाली, आणि चारी बाजूंनी दिव्य नगाऱ्यांचा आणि संगीताचा नाद घुमला.\n\nबाणांच्या शय्येवर आजोबांचे शरीर शांत पडले होते, एक महान जीवन पूर्ण झाले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Where there is dharma",
+    "hi": {
+     "text": "जहाँ धर्म है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जिथे धर्म तिथे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They burned his body on the bank of the Ganga. The river-goddess Ganga herself rose from the waters and wept, for he was her son, Devavrata. “O my brave child,” she said. “You did everything you had said, and more. You never broke your word.”\n\nThe Pandavas walked home quietly. In Hastinapura, the streets were still. Yudhishthira thought of all that he had heard. He thought of the old man in his pain, teaching, and of how he had never once complained.\n\n“Where there is dharma, there is victory,” Bhishma had said, again and again, in the long evenings. The Pandavas had won the war, but they had also lost nearly everything, and the old man’s words carried a different kind of victory: that of a heart that has not lost its way.\n\nThat night, Yudhishthira sat alone on the palace roof. The stars wheeled slowly overhead. For the first time since the war, he felt something like peace.\n\n“I will try,” he whispered to the old man who was no longer there. “I will try to rule as you taught.”",
+    "hi": {
+     "text": "उन्होंने गंगा के तट पर उनकी देह का दाह संस्कार किया। नदी की देवी गंगा स्वयं जल से निकलीं और रो पड़ीं, क्योंकि वह उनके पुत्र थे, देवव्रत। “हे मेरे वीर पुत्र,” उन्होंने कहा। “तुमने वह सब किया जो कहा था, और उससे अधिक। तुमने कभी अपना वचन नहीं तोड़ा।”\n\nपांडव चुपचाप घर लौटे। हस्तिनापुर में सड़कें सूनी थीं। युधिष्ठिर ने जो कुछ सुना था, उस पर विचार किया। उन्होंने उस वृद्ध पुरुष के बारे में सोचा जो पीड़ा में भी उपदेश देता रहा, और जिसने कभी एक बार भी शिकायत नहीं की।\n\n“जहाँ धर्म है, वहाँ विजय है,” भीष्म ने लंबी संध्याओं में बार-बार कहा था। पांडव युद्ध जीत गए थे, पर उन्होंने लगभग सब कुछ खो भी दिया था, और वृद्ध के शब्द एक अलग प्रकार की विजय की ओर संकेत करते थे: उस हृदय की विजय जिसने अपना मार्ग नहीं खोया।\n\nउस रात युधिष्ठिर महल की छत पर अकेले बैठे। तारे धीरे-धीरे सिर के ऊपर घूमते रहे। युद्ध के बाद पहली बार उन्होंने शांति जैसा कुछ अनुभव किया।\n\n“मैं प्रयास करूँगा,” उन्होंने उस वृद्ध से फुसफुसाकर कहा जो अब वहाँ नहीं थे। “मैं वैसे शासन करने का प्रयास करूँगा जैसा आपने सिखाया।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांनी गंगेच्या काठावर त्यांच्या शरीराचे दहन केले. गंगा देवी स्वतः पाण्यातून उठली आणि रडली, कारण तो तिचा पुत्र, देवव्रत, होता. “हे माझ्या शूर बाळा,” ती म्हणाली. “तू जे बोलला होतास ते सर्व केलेस, आणि त्याहून अधिक. तू कधी आपला शब्द मोडला नाहीस.”\n\nपांडव शांतपणे घरी निघाले. हस्तिनापुरात रस्ते स्तब्ध होते. युधिष्ठिराने जे काही ऐकले होते त्याचा विचार केला. त्याने वेदनेत शिकवणाऱ्या वृद्धाचा विचार केला, आणि त्यांनी एकदाही तक्रार केली नव्हती याचा.\n\n“जिथे धर्म आहे तिथे विजय आहे,” भीष्म त्या लांब संध्याकाळी पुन्हा पुन्हा म्हणाले होते. पांडव युद्ध जिंकले होते, पण त्यांनी जवळजवळ सर्वस्व गमावले होते, आणि वृद्धाच्या शब्दांत एका वेगळ्या प्रकारचा विजय होता: मार्ग न हरवलेल्या हृदयाचा.\n\nत्या रात्री युधिष्ठिर राजवाड्याच्या गच्चीवर एकटा बसला. डोक्यावर तारे हळूहळू फिरत होते. युद्धानंतर पहिल्यांदाच त्याला शांततेसारखे काहीतरी वाटले.\n\n“मी प्रयत्न करीन,” तो आता तिथे नसलेल्या वृद्धाला कुजबुजला. “आपण शिकवल्याप्रमाणे राज्य करायचा मी प्रयत्न करीन.”",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "यतो धर्मस्ततो जयः",
+  "cite": {
+   "en": "Mahabharata (repeated through the epic)",
+   "hi": {
+    "text": "महाभारत (महाकाव्य में बार-बार आया है)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "महाभारत (संपूर्ण महाकाव्यात वारंवार येणारे)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Where there is dharma, there is victory.",
+   "hi": {
+    "text": "जहाँ धर्म है, वहाँ विजय है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जिथे धर्म आहे तिथे विजय आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Bhishma taught from a bed of arrows, with every reason to complain. What lesson have you learned from your own hard times that someone else could use? Today, share it simply with one person, as a gift and not a lecture.",
+  "hi": {
+   "text": "भीष्म ने बाणों की शय्या पर लेटे हुए, शिकायत के हर कारण के बीच, शिक्षा दी। आपके अपने कठिन समय ने आपको कौन-सी सीख दी है जो किसी और के काम आ सकती है? आज उसे एक व्यक्ति के साथ सरलता से बाँटिए, उपहार की तरह, उपदेश की तरह नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भीष्म वेदनेच्या शय्येवर होते आणि तक्रार करायला त्यांच्याकडे पुरेशी कारणे होती, तरीही त्यांनी शिकवले. तुमच्या स्वतःच्या कठीण काळातून तुम्ही असा कोणता धडा शिकला आहात जो इतर कुणाला उपयोगी ठरेल? आज तो एका व्यक्तीला साध्या शब्दांत सांगा, भेट म्हणून, भाषण म्हणून नव्हे.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Wisdom is what remains after suffering, and it is meant to be given away.",
+  "hi": {
+   "text": "ज्ञान वह है जो पीड़ा के बाद बचता है, और वह इसलिए है कि उसे बाँटा जाए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञान म्हणजे दुःखानंतर जे उरते ते, आणि ते वाटून देण्यासाठीच असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Shanti and Anushasana Parvas (the Vishnu Sahasranama is in the Anushasana Parva; the idea that the food of the unjust clouded his mind is a popular tradition)",
+  "hi": {
+   "text": "महाभारत, शांति और अनुशासन पर्व (विष्णु सहस्रनाम अनुशासन पर्व में है; अन्यायी के अन्न से मन धुँधला होने की बात एक लोकप्रिय परंपरा है)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, शांती आणि अनुशासन पर्व (विष्णुसहस्रनाम अनुशासन पर्वात आहे; अन्यायी लोकांच्या अन्नाने मन धूसर होते ही कल्पना एक लोकप्रिय परंपरा आहे)",
+   "reviewed": false
+  }
+ }
+}

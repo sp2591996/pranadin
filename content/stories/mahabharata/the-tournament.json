@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-tournament",
+ "order": 7,
+ "part": "adi",
+ "figure": {
+  "en": "Karna",
+  "hi": {
+   "text": "कर्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कर्ण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The stranger in golden armour",
+  "hi": {
+   "text": "सुनहरे कवच वाला अजनबी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सोनेरी कवचातला अनोळखी तरुण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A hush falls over the arena as a young man walks in and matches the greatest archer in the land arrow for arrow. He is nobody’s prince, and yet the sun seems to follow him.",
+  "hi": {
+   "text": "अखाड़े में सन्नाटा छा जाता है जब एक युवक भीतर आता है और देश के सबसे बड़े धनुर्धर के बाण-पर-बाण बराबर करता है। वह किसी का राजकुमार नहीं, फिर भी सूरज जैसे उसी के पीछे चलता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक तरुण रंगणात पाऊल टाकतो आणि देशातल्या सर्वश्रेष्ठ धनुर्धराशी बाणाला बाण भिडवतो, तेव्हा सर्वत्र शांतता पसरते. तो कोणाचाही राजपुत्र नाही, तरी सूर्य जणू त्याच्या मागोमाग येतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/draupadis-swayamvara-2.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Arjuna's feat of archery: the fish above, its reflection below (Indian print)",
+    "hi": {
+     "text": "अर्जुन की धनुर्विद्या: ऊपर मछली, नीचे उसकी परछाईं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाचे धनुर्कौशल्य: वर मासा, खाली त्याचे प्रतिबिंब (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "bazar art, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Arjuna%27s_feat_of_archery.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The great display",
+    "hi": {
+     "text": "महा प्रदर्शन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भव्य प्रदर्शन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the princes completed their training, Drona asked the king to hold a public display. A great arena was built outside Hastinapura, with high stands hung with banners, and the whole city came, from the old king and the blindfolded queen to farmers and fishermen.\n\nTrumpets blared. The princes marched in, the Kauravas led by Duryodhana, the Pandavas by Yudhishthira. They showed their skills on elephants, horses and chariots. They shot arrows at targets that others could barely see.\n\nThen Bhima and Duryodhana entered with their maces. They struck at each other as two mountains might, and the crowd roared and divided into two camps, cheering for each. Things grew so heated that Drona himself had to send his son Ashwatthama to separate them, afraid that they would not stop. But the best was yet to come, because now it was Arjuna’s turn. Children sat on their fathers’ shoulders, and old men remembered the days of Shantanu. Drona, standing in white, raised his hand, and the great drum was struck three times, so that the whole plain seemed to shake.",
+    "hi": {
+     "text": "जब राजकुमारों की शिक्षा पूरी हुई, तो द्रोण ने राजा से सार्वजनिक प्रदर्शन कराने को कहा। हस्तिनापुर के बाहर एक विशाल अखाड़ा बना, ऊँची दर्शक-दीर्घाओं पर पताकाएँ लहरा रही थीं, और पूरा नगर उमड़ आया, बूढ़े राजा और पट्टी बाँधे रानी से लेकर किसानों और मछुआरों तक।\n\nतुरहियाँ गूँज उठीं। राजकुमार पंक्ति में आए, कौरव दुर्योधन के नेतृत्व में, पांडव युधिष्ठिर के। उन्होंने हाथियों, घोड़ों और रथों पर अपनी कला दिखाई। उन्होंने ऐसे निशानों पर बाण चलाए जिन्हें दूसरे ठीक से देख भी नहीं पाते थे।\n\nफिर भीम और दुर्योधन गदा लेकर आए। वे एक-दूसरे पर ऐसे टूटे जैसे दो पर्वत टकराएँ, और भीड़ गरजकर दो दलों में बँट गई, हर एक अपने वीर का जयकार करता हुआ। बात इतनी गरमा गई कि स्वयं द्रोण को अपने पुत्र अश्वत्थामा को उन्हें अलग करने भेजना पड़ा, इस डर से कि वे रुकेंगे नहीं। पर सबसे अच्छा तो अभी बाकी था, क्योंकि अब अर्जुन की बारी थी। बच्चे अपने पिता के कंधों पर बैठे थे, और बूढ़े शांतनु के दिन याद कर रहे थे। सफ़ेद वस्त्रों में खड़े द्रोण ने हाथ उठाया, और बड़ा नगाड़ा तीन बार बजा, जिससे पूरा मैदान काँप उठा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमारांचे शिक्षण पूर्ण झाले तेव्हा द्रोणाचार्यांनी राजाला जाहीर प्रदर्शन भरवायला सांगितले. हस्तिनापुराबाहेर एक विशाल रंगण उभारले गेले, पताकांनी सजवलेल्या उंच प्रेक्षागृहांसह, आणि संपूर्ण नगर लोटले, वृद्ध राजा आणि पट्टी बांधलेल्या राणीपासून शेतकरी आणि कोळ्यांपर्यंत.\n\nतुताऱ्या वाजल्या. राजकुमार संचलन करत आले, दुर्योधनाच्या नेतृत्वात कौरव आणि युधिष्ठिराच्या नेतृत्वात पांडव. त्यांनी हत्ती, घोडे आणि रथांवर आपली कौशल्ये दाखवली. इतरांना जेमतेम दिसतील अशा लक्ष्यांवर त्यांनी बाण मारले.\n\nमग भीम आणि दुर्योधन गदा घेऊन आले. दोन पर्वत एकमेकांवर आदळावेत तसे ते भिडले, आणि जनसमुदाय गर्जत दोन गटांत विभागला गेला, प्रत्येकाला जयजयकार करत. परिस्थिती इतकी तापली की ते थांबणार नाहीत या भीतीने स्वतः द्रोणांना आपला पुत्र अश्वत्थामा याला त्यांना सोडवायला पाठवावे लागले. पण सर्वोत्तम अजून यायचे होते, कारण आता अर्जुनाची पाळी होती. मुले आपल्या वडिलांच्या खांद्यांवर बसली होती, आणि वृद्ध शंतनूच्या दिवसांची आठवण काढत होते. पांढऱ्या वस्त्रांत उभ्या असलेल्या द्रोणांनी हात उंचावला आणि मोठ्या नगाऱ्यावर तीन वेळा प्रहार झाला, इतका की सारे मैदान हादरल्यासारखे वाटले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Arjuna dazzles",
+    "hi": {
+     "text": "अर्जुन का चमत्कार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाचे तेजस्वी कौशल्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna walked into the centre and bowed to his teacher. The crowd leaned forward.\n\nHe shot an arrow and fire sprang from its tip. He shot another and water gushed from the earth. A third, and a cloud of wind blew up; a fourth, and a mountain rose, and with a fifth it vanished. He shot five arrows at once from one bow into the mouth of an iron boar moving fast. He stood on a chariot, then on a horse, then on the ground, and every shot struck its mark.\n\nKunti, high in the stands, watched with tears in her eyes. The people stood and cheered until the stands trembled. It seemed that no one in the world could match this son of Indra. The Pandavas were proud, and Duryodhana sat with a face like thunder, his hands clenched.\n\nThen a sound came from the entrance of the arena. It was the sound of arms clanging against a great chest. All heads turned.",
+    "hi": {
+     "text": "अर्जुन बीच में आया और गुरु को प्रणाम किया। भीड़ आगे झुक गई।\n\nउसने बाण चलाया और उसकी नोक से आग फूट पड़ी। दूसरा चलाया और धरती से जल उमड़ आया। तीसरे से आँधी का बादल उठा; चौथे से पर्वत खड़ा हो गया, और पाँचवें से वह लोप हो गया। उसने एक ही धनुष से पाँच बाण एक साथ तेज़ी से घूमते लोहे के सूअर के मुँह में मारे। वह रथ पर खड़ा हुआ, फिर घोड़े पर, फिर धरती पर, और हर बाण अपने निशाने पर लगा।\n\nऊँची दीर्घा में बैठी कुंती आँखों में आँसू भरे देखती रही। लोग खड़े होकर इतना जयकार करने लगे कि दीर्घाएँ काँप उठीं। लगा कि संसार में कोई इस इंद्रपुत्र की बराबरी नहीं कर सकता। पांडवों को गर्व हुआ, और दुर्योधन बादल की तरह घिरे चेहरे और भिंची मुट्ठियों के साथ बैठा रहा।\n\nतभी अखाड़े के द्वार से एक ध्वनि आई। वह भुजाओं के किसी विशाल छाती पर टकराने की ध्वनि थी। सभी के सिर मुड़ गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन मध्यभागी आला आणि त्याने गुरूंना नमस्कार केला. जनसमुदाय पुढे झुकला.\n\nत्याने बाण सोडला आणि त्याच्या टोकातून अग्नी उसळला. दुसरा सोडला आणि भूमीतून पाणी उफाळले. तिसऱ्याने वाऱ्याचे ढग उठले; चौथ्याने पर्वत उभा राहिला आणि पाचव्याने तो नाहीसा झाला. वेगाने फिरणाऱ्या लोखंडी डुकराच्या तोंडात त्याने एकाच धनुष्यातून एकाच वेळी पाच बाण घुसवले. तो रथावर उभा राहिला, मग घोड्यावर, मग भूमीवर, आणि प्रत्येक बाण लक्ष्याला लागला.\n\nउंच प्रेक्षागृहात बसलेली कुंती डोळ्यांत अश्रू आणून पाहत होती. लोक उभे राहून इतक्या जल्लोषात ओरडले की प्रेक्षागृहे थरथरली. इंद्राच्या या पुत्राची बरोबरी जगात कोणीच करू शकणार नाही असे वाटले. पांडवांना अभिमान वाटला, आणि दुर्योधन वादळाच्या ढगासारख्या चेहऱ्याने, मुठी आवळून बसला.\n\nतेवढ्यात रंगणाच्या प्रवेशद्वारातून एक आवाज आला. तो आपले बाहू मोठ्या छातीवर आपटल्याचा आवाज होता. सर्वांच्या माना वळल्या.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The stranger",
+    "hi": {
+     "text": "अजनबी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनोळखी तरुण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A young man stood in the gateway. He wore a gleaming coat of armour that seemed grown into his body, and earrings that flashed like two small suns. His face was proud and handsome, and his eyes were quiet.\n\nHe walked into the arena as if he owned it, bowed briefly to Drona and Kripa, and said in a voice that carried across the stands, “Arjuna, I can do all that you have done. And better. Let me show you.”\n\nThe crowd gasped. Arjuna’s face went white with anger.\n\nThe stranger took his bow. With a calm that unnerved everyone, he repeated every feat, shot for shot, as if he were Arjuna’s shadow. When he finished, a roar came from the Kaurava side. Duryodhana leaped from his seat and ran to embrace him. “Welcome, friend,” he cried. “I have been waiting for you all my life. Whatever I own is yours!”\n\nThe stranger was Karna.",
+    "hi": {
+     "text": "द्वार पर एक युवक खड़ा था। उसने चमचमाता कवच पहना था जो उसकी देह में ही उगा लगता था, और कानों में दो छोटे सूर्यों की तरह दमकते कुंडल थे। उसका चेहरा गर्वीला और सुंदर था, और आँखें शांत थीं।\n\nवह अखाड़े में ऐसे चला आया जैसे वह उसी का हो, द्रोण और कृपाचार्य को संक्षेप में प्रणाम किया, और ऐसी वाणी में बोला जो पूरी दीर्घाओं तक पहुँची, “अर्जुन, तुमने जो कुछ किया, वह सब मैं कर सकता हूँ। और उससे बेहतर भी। आओ, दिखाता हूँ।”\n\nभीड़ के मुँह से आह निकल गई। अर्जुन का मुख क्रोध से सफ़ेद पड़ गया।\n\nअजनबी ने अपना धनुष उठाया। ऐसी शांति से, जो सबको विचलित कर गई, उसने हर करतब दोहरा दिया, बाण-बाण, मानो वह अर्जुन की परछाईं हो। जब वह रुका, तो कौरवों की ओर से गर्जन उठा। दुर्योधन अपने आसन से उछला और दौड़कर उसे गले लगा लिया। “स्वागत है, मित्र,” वह चिल्लाया। “मैं जीवन भर तुम्हारी प्रतीक्षा करता रहा हूँ। मेरा जो कुछ है, सब तुम्हारा है!”\n\nवह अजनबी कर्ण था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रवेशद्वारात एक तरुण उभा होता. त्याने देहाशी एकरूप झाल्यासारखे वाटणारे चमकदार कवच घातले होते, आणि कानांत दोन छोट्या सूर्यांसारखी चमकणारी कुंडले. त्याचा चेहरा अभिमानी आणि देखणा होता, आणि डोळे शांत होते.\n\nतो रंगणात जणू त्याचेच असल्यासारखा चालत आला, द्रोण आणि कृपाचार्यांना थोडक्यात नमस्कार केला, आणि प्रेक्षागृहातून दूरवर पोहोचेल अशा आवाजात म्हणाला, “अर्जुना, तू केलेले सर्व काही मी करू शकतो. आणि त्याहूनही उत्तम. मला दाखवू दे.”\n\nजनसमुदायाने श्वास रोखला. अर्जुनाचा चेहरा रागाने पांढरा पडला.\n\nत्या अनोळखी माणसाने धनुष्य घेतले. सर्वांना अस्वस्थ करणाऱ्या शांततेने त्याने अर्जुनाची सावली असल्यासारखी प्रत्येक कृती, बाणाला बाण, पुन्हा करून दाखवली. त्याने संपवले तेव्हा कौरवांच्या बाजूने जल्लोष उसळला. दुर्योधन आसनावरून उडी मारून त्याला मिठी मारायला धावला. “स्वागत, मित्रा,” तो ओरडला. “मी आयुष्यभर तुझीच वाट पाहत होतो. माझे जे काही आहे ते तुझे आहे!”\n\nतो अनोळखी तरुण कर्ण होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The question of birth",
+    "hi": {
+     "text": "जन्म का प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जन्माचा प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Karna turned to Arjuna with a smile. “Now, shall we fight a duel?”\n\nBut the old teacher Kripa stood up. “Before you fight a prince, you must tell us who you are. Tell us your father, and the line of kings from which you come. A prince may duel only with equals.”\n\nKarna bowed his head. His face lost all its colour. He had no answer to give. The golden armour was no use now. Within the great arena, he was alone.\n\nBhima laughed aloud. “A charioteer’s son has no business bearing a bow,” he said.\n\nBut Duryodhana rose, his eyes blazing. “A hero’s worth is in his deeds, not his birth. Does a lion come from a line of kings? If Karna must be a king to fight, then I make him one now.” In front of everyone, he ordered water brought and crowned Karna King of Anga, with the sacred ritual, on the spot. The people held their breath.",
+    "hi": {
+     "text": "कर्ण ने मुस्कुराकर अर्जुन की ओर देखा। “अब, क्या हम द्वंद्व करें?”\n\nपर बूढ़े गुरु कृपाचार्य उठ खड़े हुए। “किसी राजकुमार से लड़ने से पहले तुम्हें बताना होगा कि तुम कौन हो। हमें अपने पिता का नाम बताओ, और उन राजाओं की वंश-परंपरा जिनसे तुम आते हो। राजकुमार केवल बराबरी वालों से ही द्वंद्व कर सकता है।”\n\nकर्ण ने सिर झुका लिया। उसके चेहरे का सारा रंग उड़ गया। उसके पास देने को कोई उत्तर न था। सुनहरा कवच अब किसी काम का नहीं था। उस विशाल अखाड़े के बीच वह अकेला था।\n\nभीम ज़ोर से हँस पड़ा। “सारथी के बेटे का धनुष उठाने से क्या लेना-देना,” उसने कहा।\n\nपर दुर्योधन उठ खड़ा हुआ, आँखों में आग लिए। “वीर की कीमत उसके कर्मों में है, जन्म में नहीं। क्या सिंह किसी राजवंश से आता है? यदि कर्ण को लड़ने के लिए राजा होना ही पड़ेगा, तो मैं उसे अभी राजा बनाता हूँ।” सबके सामने उसने जल मँगवाया और वहीं पवित्र विधि से कर्ण को अंगदेश का राजा बना दिया। लोगों ने साँस रोक ली।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कर्णाने स्मित करून अर्जुनाकडे वळून पाहिले. “आता आपण द्वंद्व करायचे का?”\n\nपण वृद्ध गुरू कृपाचार्य उभे राहिले. “राजपुत्राशी लढण्यापूर्वी तू कोण आहेस हे आम्हाला सांगितले पाहिजे. तुझे पिता कोण, आणि कोणत्या राजवंशातून तू आला आहेस ते सांग. राजपुत्र फक्त बरोबरीच्या माणसाशीच द्वंद्व करू शकतो.”\n\nकर्णाने मान खाली घातली. त्याच्या चेहऱ्यावरचा सर्व रंग उडाला. त्याच्याकडे द्यायला उत्तर नव्हते. सोनेरी कवचाचा आता काहीच उपयोग नव्हता. त्या विशाल रंगणात तो एकटा होता.\n\nभीम मोठ्याने हसला. “सूतपुत्राने धनुष्य धरण्याचे काही कारण नाही,” तो म्हणाला.\n\nपण दुर्योधन उभा राहिला, डोळे पेटलेले. “वीराची किंमत त्याच्या कर्मात असते, जन्मात नाही. सिंह राजवंशातून येतो का? कर्णाला लढण्यासाठी राजा व्हावे लागत असेल, तर मी त्याला आत्ताच राजा करतो.” सर्वांसमोर त्याने पाणी आणायला सांगितले आणि पवित्र विधीने तिथल्या तिथे कर्णाला अंगदेशाचा राजा म्हणून अभिषेक केला. लोकांनी श्वास रोखून धरला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The old charioteer",
+    "hi": {
+     "text": "बूढ़ा सारथी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वृद्ध सारथी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Karna, now a king, looked at Duryodhana with eyes wet. “What can I give you in return?” he said.\n\n“Only your friendship,” said Duryodhana.\n\n“You have it,” said Karna, “forever.”\n\nJust then, an old man in worn clothes came stumbling into the arena, leaning on his staff. It was Adhiratha, the charioteer, who had come looking for his son. When Karna saw him, he forgot he was a king. He ran across the sand, bowed down, and touched the old man’s feet. The old man wept and embraced him, calling him son.\n\nBhima laughed again, and a hush fell. Duryodhana, furious, said, “It is you who should be ashamed, Bhima!”\n\nKarna rose with dignity. He had been loved by a humble charioteer and his wife, and he honoured them now before the whole city. Even in the moment of his triumph, he did not forget his first father. Yet he did not forget who had loved him first, and the crowd, which a moment before had been jeering, grew quiet, because there is a kind of greatness that cannot be argued with.",
+    "hi": {
+     "text": "अब राजा बने कर्ण ने नम आँखों से दुर्योधन को देखा। “मैं बदले में तुम्हें क्या दे सकता हूँ?” उसने कहा।\n\n“केवल तुम्हारी मित्रता,” दुर्योधन ने कहा।\n\n“वह तुम्हारी है,” कर्ण ने कहा, “सदा के लिए।”\n\nतभी फटे-पुराने कपड़ों में एक बूढ़ा लाठी टेकता लड़खड़ाता अखाड़े में आया। वह अधिरथ सारथी था, जो अपने बेटे को खोजता आया था। कर्ण ने उसे देखा तो भूल गया कि वह राजा है। वह रेत पर दौड़ा, झुका, और बूढ़े के चरण छू लिए। बूढ़ा रो पड़ा और उसे बेटा कहकर गले लगा लिया।\n\nभीम फिर हँसा, और सन्नाटा छा गया। दुर्योधन ने क्रोध से कहा, “लज्जा तो तुम्हें आनी चाहिए, भीम!”\n\nकर्ण गरिमा से उठा। एक विनम्र सारथी और उसकी पत्नी ने उसे प्यार दिया था, और आज उसने पूरे नगर के सामने उनका मान किया। अपनी विजय के क्षण में भी वह अपने पहले पिता को नहीं भूला। उसे यह भी याद था कि पहले किसने उसे प्यार किया था, और भीड़, जो क्षण भर पहले ताने मार रही थी, चुप हो गई, क्योंकि कुछ महानता ऐसी होती है जिससे तर्क नहीं किया जा सकता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता राजा झालेल्या कर्णाने ओलसर डोळ्यांनी दुर्योधनाकडे पाहिले. “मी तुला त्या बदल्यात काय देऊ?” तो म्हणाला.\n\n“फक्त तुझी मैत्री,” दुर्योधन म्हणाला.\n\n“ती तुला मिळाली,” कर्ण म्हणाला, “कायमची.”\n\nतेवढ्यात एक वृद्ध माणूस, जुनी वस्त्रे लेऊन, काठीवर टेकत अडखळत रंगणात आला. तो अधिरथ सारथी होता, आपल्या मुलाला शोधत आलेला. कर्णाने त्याला पाहिले तेव्हा तो राजा असल्याचे विसरून गेला. तो वाळूतून धावत गेला, खाली वाकला आणि त्या वृद्धाच्या पायांना स्पर्श केला. वृद्धाने रडत त्याला मिठी मारली आणि त्याला पुत्र म्हणून हाक मारली.\n\nभीम पुन्हा हसला, आणि शांतता पसरली. दुर्योधन संतापून म्हणाला, “लाज तर तुला वाटायला हवी, भीमा!”\n\nकर्ण सन्मानाने उभा राहिला. एका नम्र सारथ्याने आणि त्याच्या पत्नीने त्याच्यावर प्रेम केले होते, आणि आता तो सर्व नगरासमोर त्यांचा सन्मान करत होता. आपल्या विजयाच्या क्षणीही तो आपल्या पहिल्या पित्याला विसरला नाही. ज्याने आपल्यावर पहिले प्रेम केले त्याला तो विसरला नाही, आणि क्षणभरापूर्वी थट्टा करणारा जनसमुदाय शांत झाला, कारण काही थोरवी अशी असते जिच्याशी वाद घालता येत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Sunset in the stands",
+    "hi": {
+     "text": "दीर्घा में सूर्यास्त",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रेक्षागृहातला सूर्यास्त",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The sun was setting. Drona called the display to an end, and the crowd began to leave. The arena slowly emptied, as the gold sky turned to rose, and the shadows grew long on the sand.\n\nIn the stands, a woman had fainted. Kunti lay in her maid’s arms, white as a lotus. She had recognised the golden armour and the earrings that no one else could ever wear. Her firstborn, the child she had set adrift on the river, was alive. He had grown into a man of great power, and he stood on the opposite side, with her other sons’ rival at his shoulder.\n\nVidura, who knew many things, fanned her gently and said nothing.\n\nMeanwhile, Duryodhana walked out of the arena with his arm around Karna’s shoulders. For the first time in his life he had a friend whose loyalty would never waver. And for the first time in his life, Karna had been given what he had longed for: to be seen.",
+    "hi": {
+     "text": "सूरज ढल रहा था। द्रोण ने प्रदर्शन समाप्त किया, और भीड़ लौटने लगी। अखाड़ा धीरे-धीरे खाली हो गया, सुनहरा आकाश गुलाबी हो गया, और रेत पर परछाइयाँ लंबी होने लगीं।\n\nदीर्घा में एक स्त्री बेहोश हो गई थी। कुंती अपनी दासी की बाँहों में कमल की तरह सफ़ेद पड़ी थी। उसने उस सुनहरे कवच और कुंडलों को पहचान लिया था जिन्हें कोई और कभी नहीं पहन सकता। उसका पहलौठा, वह बच्चा जिसे उसने नदी पर बहा दिया था, जीवित था। वह एक महाशक्तिशाली पुरुष बन चुका था, और सामने की ओर खड़ा था, उसके दूसरे पुत्रों के प्रतिद्वंद्वी के कंधे के पास।\n\nविदुर, जो बहुत कुछ जानते थे, उसे धीरे-धीरे पंखा झलते रहे और कुछ नहीं बोले।\n\nइधर दुर्योधन कर्ण के कंधों पर हाथ रखे अखाड़े से बाहर निकला। जीवन में पहली बार उसके पास ऐसा मित्र था जिसकी निष्ठा कभी नहीं डिगेगी। और जीवन में पहली बार कर्ण को वह मिला था जिसकी उसे चाह थी: देखा जाना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूर्य मावळत होता. द्रोणांनी प्रदर्शन संपल्याचे जाहीर केले, आणि लोक निघू लागले. सोनेरी आकाश गुलाबी झाले आणि वाळूवर सावल्या लांब पडल्या, तसे रंगण हळूहळू रिकामे होत गेले.\n\nप्रेक्षागृहात एक स्त्री मूर्च्छित झाली होती. कुंती आपल्या दासीच्या हातांत कमळासारखी पांढरी पडून पडली होती. तिने ते सोनेरी कवच आणि ती कुंडले ओळखली होती जी इतर कोणीही कधीच घालू शकत नव्हते. तिचा ज्येष्ठ पुत्र, ज्याला तिने नदीत सोडले होते, तो जिवंत होता. तो मोठा पराक्रमी पुरुष झाला होता, आणि तो तिच्या इतर पुत्रांच्या विरोधी बाजूला उभा होता, त्यांच्या शत्रूच्या खांद्याला खांदा लावून.\n\nअनेक गोष्टी जाणणाऱ्या विदुराने तिला हळुवारपणे वारा घातला आणि काहीच बोलला नाही.\n\nइकडे दुर्योधन कर्णाच्या खांद्यावर हात ठेवून रंगणाबाहेर पडला. आयुष्यात पहिल्यांदाच त्याला असा मित्र मिळाला होता ज्याची निष्ठा कधीही ढळणार नव्हती. आणि आयुष्यात पहिल्यांदाच कर्णाला ते मिळाले होते ज्याची तो आस धरत होता: कोणीतरी त्याला पाहावे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Karna was judged by his birth when he wanted to be judged by his deeds. Whom do you judge quickly because of where they come from? Today, learn one true thing about someone you have only guessed about.",
+  "hi": {
+   "text": "कर्ण को उसके जन्म से परखा गया, जबकि वह अपने कर्मों से परखा जाना चाहता था। आप किसे इस आधार पर जल्दी परख लेते हैं कि वह कहाँ से आया है? आज किसी ऐसे व्यक्ति के बारे में एक सच्ची बात जानिए जिसके बारे में आपने केवल अनुमान लगाया है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कर्णाला आपल्या कर्मांवरून जोखले जावे असे वाटत होते, पण त्याला जन्मावरून जोखले गेले. कोणाला तुम्ही ते कुठून आले आहेत यावरून पटकन जोखता? आज ज्याच्याबद्दल तुम्ही फक्त अंदाज बांधला आहे त्याच्याविषयी एक खरी गोष्ट जाणून घ्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A person’s worth lies in character and effort, not in the family name they were handed.",
+  "hi": {
+   "text": "व्यक्ति का मूल्य उसके चरित्र और परिश्रम में है, उस कुल के नाम में नहीं जो उसे विरासत में मिला।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "माणसाची किंमत त्याच्या चारित्र्यात आणि प्रयत्नांत असते, त्याला मिळालेल्या कुलनामात नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi Parva (Sambhava Parva)",
+  "hi": {
+   "text": "महाभारत, आदि पर्व (संभव पर्व)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व (संभवपर्व)",
+   "reviewed": false
+  }
+ }
+}

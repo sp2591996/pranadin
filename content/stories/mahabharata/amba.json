@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "amba",
+ "order": 4,
+ "part": "adi",
+ "figure": {
+  "en": "Amba",
+  "hi": {
+   "text": "अंबा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अंबा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The princess no one would marry",
+  "hi": {
+   "text": "वह राजकुमारी, जिससे किसी ने विवाह नहीं किया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणीही स्वीकारली नाही अशी राजकन्या",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Three sisters are carried away from their own wedding choice, and one of them loves another man. What happens to Amba is the saddest knot in the whole epic.",
+  "hi": {
+   "text": "तीन बहनों को उनके अपने स्वयंवर से उठा लिया जाता है, और उनमें से एक किसी और को चाहती है। अंबा के साथ जो हुआ, वह पूरे महाकाव्य की सबसे दुखभरी गाँठ है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तीन बहिणींना त्यांच्याच स्वयंवरातून पळवून नेले जाते, आणि त्यांतील एक दुसऱ्याच कोणावर प्रेम करत असते. अंबाच्या वाट्याला जे आले ते या संपूर्ण महाकाव्यातील सर्वात दुःखद गुंता आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahabharata/bed-of-arrows-1.webp",
+   "w": 960,
+   "h": 684,
+   "caption": {
+    "en": "Bhishma lies on a bed of arrows while Arjuna stands above him (Indian painting)",
+    "hi": {
+     "text": "बाणों की शय्या पर लेटे भीष्म, पास खड़े अर्जुन (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शरशय्येवर पडलेले भीष्म, जवळ उभा अर्जुन (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhisma_is_lying_on_a_bed_of_arrows_with_Arjuna_standing_above_him_with_bow_drawn_and_pointed..jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The sons of Satyavati",
+    "hi": {
+     "text": "सत्यवती के पुत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सत्यवतीचे पुत्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shantanu was dead, and the sons of Satyavati grew up in Hastinapura. The elder, Chitrangada, fell in a battle with a gandharva of the same name. The younger, Vichitravirya, was only a boy, and Bhishma ruled for him until he came of age.\n\nWhen the young king was ready for marriage, Bhishma heard of a great swayamvara at Kashi. The King of Kashi had three beautiful daughters, Amba, Ambika and Ambalika, and the princes of the land were gathering to be chosen.\n\nBhishma was not invited. Perhaps the Kashi king remembered his vow, and thought it unfitting. But Bhishma would not return without brides for his brother. He rode to Kashi, entered the hall alone, and said in a voice that reached every corner, “I take these three maidens for my brother. Let any who object stop me.” Then he lifted the sisters into his chariot. Everyone in Hastinapura said the old king’s house would soon be lit with lamps again. Only the wind, passing through the gates, seemed to carry a warning that no one yet could read.",
+    "hi": {
+     "text": "शांतनु नहीं रहे, और सत्यवती के पुत्र हस्तिनापुर में बड़े होने लगे। बड़े पुत्र चित्रांगद उसी नाम के एक गंधर्व से युद्ध में मारे गए। छोटे विचित्रवीर्य अभी बालक ही थे, और जब तक वे बड़े न हुए, भीष्म उनकी ओर से राज चलाते रहे।\n\nजब युवा राजा विवाह के योग्य हुए, तो भीष्म ने काशी के एक बड़े स्वयंवर का समाचार सुना। काशी के राजा की तीन सुंदर बेटियाँ थीं, अंबा, अंबिका और अंबालिका, और देश-देश के राजकुमार चुने जाने के लिए जुट रहे थे।\n\nभीष्म को निमंत्रण नहीं मिला था। शायद काशीराज को उनकी प्रतिज्ञा याद थी और उन्हें बुलाना ठीक न लगा। पर भीष्म भाई के लिए वधू लिए बिना लौटने वाले नहीं थे। वे काशी गए, अकेले सभा में पहुँचे, और इतनी ऊँची वाणी में बोले कि हर कोने तक सुनाई दी, “मैं इन तीनों कन्याओं को अपने भाई के लिए ले जा रहा हूँ। जिसे आपत्ति हो, मुझे रोक ले।” फिर उन्होंने तीनों बहनों को अपने रथ में बिठा लिया। हस्तिनापुर में सब कहने लगे कि पुराने राजा का घर फिर दीपों से जगमगाएगा। केवल द्वारों से गुज़रती हवा जैसे कोई चेतावनी लिए थी, जिसे अभी कोई पढ़ नहीं सकता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंतनू निवर्तला होता, आणि सत्यवतीचे पुत्र हस्तिनापुरात वाढले. मोठा चित्रांगद त्याच नावाच्या एका गंधर्वाशी झालेल्या युद्धात पडला. धाकटा विचित्रवीर्य अजून केवळ बालक होता, आणि तो वयात येईपर्यंत भीष्माने त्याच्या वतीने राज्य चालवले.\n\nतरुण राजा लग्नाला योग्य झाला तेव्हा भीष्माने काशीमध्ये एका मोठ्या स्वयंवराविषयी ऐकले. काशीनरेशाला अंबा, अंबिका आणि अंबालिका अशा तीन सुंदर कन्या होत्या, आणि देशोदेशीचे राजपुत्र निवडले जाण्यासाठी जमत होते.\n\nभीष्माला आमंत्रण नव्हते. कदाचित काशीनरेशाला त्याची प्रतिज्ञा आठवली असेल आणि त्याने ते अयोग्य मानले असेल. पण भावासाठी वधू घेतल्याशिवाय भीष्म परत जाणार नव्हता. तो काशीला गेला, एकटाच सभेत शिरला, आणि प्रत्येक कोपऱ्यात पोहोचेल अशा आवाजात म्हणाला, “या तिन्ही कन्यांना मी माझ्या भावासाठी नेतो. ज्याला हरकत असेल त्याने मला अडवावे.” मग त्याने तिन्ही बहिणींना आपल्या रथात उचलून घेतले. हस्तिनापुरात सर्व जण म्हणत की जुन्या राजाचे घर लवकरच पुन्हा दिव्यांनी उजळून निघेल. फक्त वेशीतून जाणारा वाराच एक इशारा घेऊन जात होता, जो अजून कोणालाही वाचता येत नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The chariot of Bhishma",
+    "hi": {
+     "text": "भीष्म का रथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीष्माचा रथ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The kings sprang up, furious. They hurled weapons and followed in their chariots. But Bhishma turned his chariot, and the arrows he shot were like a wall. One against many, he broke their bows and drove them back.\n\nOnly one king would not give up: Shalva, ruler of Saubha. He chased the chariot far down the road and fought Bhishma with all his heart. He was defeated, but Bhishma, who admired courage, spared his life.\n\nBhishma drove the princesses home through the summer dust. And Amba, the eldest, sat very still. Her hands were cold. She was thinking of Shalva, her heart’s choice, whom she had meant to choose in the hall. She did not speak while the chariot rolled on toward the walls of Hastinapura, and her silence grew heavier with every mile. The kings who had lost the day stood with bowed heads, ashamed. Bhishma looked at none of them. His eyes were on the road ahead, and the three sisters beside him, who were as frightened as birds in a storm, though none of them cried out.",
+    "hi": {
+     "text": "राजा क्रोध से उछल पड़े। उन्होंने अस्त्र फेंके और अपने रथों पर पीछा किया। पर भीष्म ने रथ घुमाया, और उनके बाण एक दीवार की तरह थे। अकेले वे अनेक के विरुद्ध लड़े, उनके धनुष तोड़ डाले और उन्हें पीछे खदेड़ दिया।\n\nकेवल एक राजा हार मानने को तैयार न था: सौभ का राजा शाल्व। वह रथ के पीछे बहुत दूर तक दौड़ा और पूरे मन से भीष्म से लड़ा। वह हार गया, पर भीष्म, जो साहस का आदर करते थे, ने उसके प्राण छोड़ दिए।\n\nगर्मी की धूल में भीष्म राजकुमारियों को घर ले चले। और अंबा, जो सबसे बड़ी थी, बिलकुल चुपचाप बैठी रही। उसके हाथ ठंडे थे। वह शाल्व के बारे में सोच रही थी, जो उसके मन का चुना हुआ था, जिसे वह सभा में वरना चाहती थी। रथ हस्तिनापुर की दीवारों की ओर बढ़ता रहा और वह कुछ न बोली, और उसका मौन हर मील के साथ भारी होता गया। जो राजा हार गए थे, वे लज्जा से सिर झुकाए खड़े रहे। भीष्म ने उनमें से किसी को नहीं देखा। उनकी आँखें आगे के रास्ते पर थीं, और उनके पास बैठी तीनों बहनें तूफ़ान में चिड़ियों की तरह सहमी थीं, पर किसी ने आवाज़ नहीं निकाली।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजे संतापाने उसळून उभे राहिले. त्यांनी शस्त्रे फेकली आणि रथांतून पाठलाग केला. पण भीष्माने आपला रथ वळवला आणि त्याने सोडलेले बाण भिंतीसारखे झाले. एकटा, पण अनेकांविरुद्ध, त्याने त्यांची धनुष्ये मोडली आणि त्यांना मागे हटवले.\n\nएकच राजा हार मानायला तयार नव्हता: सौभाचा अधिपती शाल्व. त्याने रथाचा दूरवर पाठलाग केला आणि जिवाच्या आकांताने भीष्माशी लढला. तो हरला, पण पराक्रमाचा आदर करणाऱ्या भीष्माने त्याचा जीव सोडला.\n\nभीष्माने उन्हाळ्याच्या धुळीतून राजकन्यांना घरी आणले. आणि सर्वात मोठी अंबा अगदी स्तब्ध बसली होती. तिचे हात थंडगार होते. ती शाल्वचा विचार करत होती, तिच्या हृदयाचा निवडलेला, ज्याला ती सभेत निवडणार होती. हस्तिनापुरच्या तटबंदीकडे रथ जात असताना ती काही बोलली नाही, आणि तिचे मौन प्रत्येक मैलागणिक जड होत गेले. ज्यांनी तो दिवस गमावला ते राजे लज्जेने मान खाली घालून उभे राहिले. भीष्माने त्यांच्यापैकी कोणाकडेही पाहिले नाही. त्याची नजर पुढच्या वाटेवर होती, आणि शेजारी बसलेल्या तिन्ही बहिणींवर, ज्या वादळातील पक्ष्यांसारख्या घाबरलेल्या होत्या, तरी कोणीही ओरडली नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Amba speaks",
+    "hi": {
+     "text": "अंबा बोलती है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंबा बोलते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the wedding was being prepared, Amba came before Bhishma, and her voice was steady though her heart shook.\n\n“Bhishma,” she said, “you are a man of dharma. In my heart I had already chosen King Shalva. My father knew it. Will you marry a woman who loves another?”\n\nBhishma was a just man. He asked the elders of the court, and they agreed that Amba should be allowed to go. He sent her away with an escort of old brahmins and a blessing. Her sisters, Ambika and Ambalika, were married to Vichitravirya.\n\nAmba set out, relieved and hopeful. She had spoken the truth, and she had been heard. She imagined Shalva’s face as he saw her at his gates. She walked faster at the thought. The sun was bright on the road that led her toward the one man she believed would understand. She did not know that the kindest of men can still make the hardest of choices. Bhishma watched her go, and some small shadow of doubt passed over his face, like a cloud over a quiet lake, and was gone.",
+    "hi": {
+     "text": "जब विवाह की तैयारी हो रही थी, अंबा भीष्म के सामने आई, और उसका हृदय काँप रहा था पर स्वर स्थिर था।\n\n“भीष्म,” उसने कहा, “आप धर्म को मानने वाले हैं। मैंने मन ही मन राजा शाल्व को वर चुन लिया था। मेरे पिता यह जानते थे। क्या आप ऐसी स्त्री से विवाह करेंगे जो किसी और को चाहती है?”\n\nभीष्म न्यायप्रिय थे। उन्होंने दरबार के बड़े-बूढ़ों से पूछा, और सबने माना कि अंबा को जाने देना चाहिए। उन्होंने बूढ़े ब्राह्मणों के साथ और आशीर्वाद देकर उसे विदा किया। उसकी बहनों, अंबिका और अंबालिका, का विवाह विचित्रवीर्य से हो गया।\n\nअंबा राहत और आशा के साथ चल पड़ी। उसने सच कहा था, और उसकी बात सुनी गई थी। वह कल्पना करती रही कि अपने द्वार पर उसे देखकर शाल्व का चेहरा कैसा होगा। यह सोचकर उसके कदम तेज़ हो गए। जिस राह पर वह चल रही थी, उस पर धूप खिली थी, और उसके छोर पर वही एक व्यक्ति था जिसके बारे में उसे भरोसा था कि वह समझेगा। उसे नहीं पता था कि सबसे भले मनुष्य को भी सबसे कठिन चुनाव करने पड़ सकते हैं। भीष्म उसे जाते देखते रहे, और उनके मुख पर संदेह की एक हलकी छाया आई, शांत सरोवर पर बादल की तरह, और चली गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विवाहाची तयारी चालू असताना अंबा भीष्मासमोर आली, आणि तिचे हृदय थरथरत असले तरी तिचा आवाज स्थिर होता.\n\n“भीष्मा,” ती म्हणाली, “तुम्ही धर्माने वागणारे आहात. माझ्या मनाने मी आधीच राजा शाल्वाला निवडले होते. माझ्या वडिलांनाही हे माहीत होते. जिचे दुसऱ्यावर प्रेम आहे अशा स्त्रीशी तुम्ही विवाह कराल का?”\n\nभीष्म न्यायी होता. त्याने दरबारातील वडीलधाऱ्यांना विचारले, आणि त्यांनी मान्य केले की अंबाला जाऊ दिले पाहिजे. त्याने वृद्ध ब्राह्मणांच्या सोबतीसह आणि आशीर्वादासह तिला पाठवले. तिच्या बहिणी अंबिका आणि अंबालिका यांचा विचित्रवीर्याशी विवाह झाला.\n\nअंबा निश्चिंत आणि आशावादी होऊन निघाली. तिने सत्य सांगितले होते आणि तिचे ऐकले गेले होते. शाल्वाच्या वेशीवर तिला पाहून त्याचा चेहरा कसा होईल, याची कल्पना ती करू लागली. त्या विचाराने ती झपाझप चालू लागली. आपल्याला समजून घेईल असे ज्याला ती मानत होती, त्या एकाच माणसाकडे नेणाऱ्या वाटेवर ऊन पडले होते. तिला माहीत नव्हते की सर्वात दयाळू माणूसही सर्वात कठोर निर्णय घेऊ शकतो. भीष्म तिला जाताना पाहत राहिला, आणि शांत सरोवरावरून ढग जावा तसा संशयाचा एक छोटासा सावला त्याच्या चेहऱ्यावरून सरकून गेला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two closed doors",
+    "hi": {
+     "text": "दो बंद द्वार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन बंद दारे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shalva looked at her from his throne, and she saw that his face was cold.\n\n“You were carried away by another man in front of the whole world,” he said. “He won you by force. I cannot take what another warrior has taken. Go back to him.”\n\nAmba pleaded, but he did not move. It was pride, perhaps, or fear of what people would say. She left his court with her heart in pieces.\n\nShe returned to Hastinapura and stood before Bhishma. “Marry me,” she said, “since no one else will have me.” But Bhishma could only bow his head. “I have vowed never to marry, princess. I cannot break it.” She stood between two men, one who could not and one who would not, and both of them were honourable, and still she had nowhere to go. There are sorrows no law has a name for. The women of the palace said afterward that she did not weep. She only looked at the sky as if asking it a question that no one on earth could answer, and then turned and walked out alone.",
+    "hi": {
+     "text": "शाल्व ने सिंहासन से उसे देखा, और उसने जान लिया कि उसका चेहरा ठंडा है।\n\n“तुम्हें सारी दुनिया के सामने एक और पुरुष उठा ले गया,” उसने कहा। “उसने तुम्हें बल से जीता है। जिसे दूसरा योद्धा ले गया, उसे मैं नहीं ले सकता। उसी के पास लौट जाओ।”\n\nअंबा ने गिड़गिड़ाकर कहा, पर वह टस से मस न हुआ। शायद यह अभिमान था, या लोग क्या कहेंगे इसका भय। वह टूटे हृदय के साथ उसके दरबार से लौटी।\n\nवह हस्तिनापुर आई और भीष्म के सामने खड़ी हुई। “मुझसे विवाह कीजिए,” उसने कहा, “क्योंकि और कोई मुझे नहीं अपनाएगा।” पर भीष्म बस सिर झुकाकर रह गए। “मैंने कभी विवाह न करने की प्रतिज्ञा की है, राजकुमारी। मैं उसे नहीं तोड़ सकता।” वह दो पुरुषों के बीच खड़ी थी, एक जो नहीं कर सकता था और एक जो नहीं करेगा, और दोनों ही सम्मानित थे, फिर भी उसके पास जाने को कोई जगह नहीं थी। कुछ दुख ऐसे होते हैं जिनके लिए किसी विधान के पास नाम ही नहीं होता। महल की स्त्रियों ने बाद में कहा कि वह रोई नहीं। वह बस आकाश की ओर ऐसे देखती रही मानो उससे कोई ऐसा प्रश्न पूछ रही हो जिसका उत्तर धरती पर किसी के पास नहीं था, और फिर मुड़कर अकेली निकल गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शाल्वाने सिंहासनावरून तिच्याकडे पाहिले, आणि तिला दिसले की त्याचा चेहरा थंड आहे.\n\n“सर्व जगासमोर तुला दुसऱ्या पुरुषाने पळवून नेले,” तो म्हणाला. “त्याने तुला बळाने जिंकले. दुसऱ्या योद्ध्याने नेलेली स्त्री मी स्वीकारू शकत नाही. त्याच्याकडे परत जा.”\n\nअंबाने विनवण्या केल्या, पण तो ढळला नाही. कदाचित तो अभिमान असेल, किंवा लोक काय म्हणतील याची भीती. तिच्या हृदयाचे तुकडे झालेले असताना ती त्याच्या दरबारातून निघाली.\n\nती हस्तिनापुरात परतली आणि भीष्मासमोर उभी राहिली. “माझ्याशी विवाह करा,” ती म्हणाली, “कारण दुसरे कोणी मला स्वीकारत नाही.” पण भीष्म फक्त मान खाली घालू शकला. “राजकन्ये, मी कधीही विवाह न करण्याची प्रतिज्ञा केली आहे. ती मी मोडू शकत नाही.” ती दोन पुरुषांच्या मध्ये उभी होती, एक जो करू शकत नव्हता आणि दुसरा जो करणार नव्हता, आणि दोघेही सन्माननीय होते, तरीही तिला जायला कुठेच जागा नव्हती. काही दुःखांना कोणत्याही कायद्याने नाव दिलेले नसते. राजवाड्यातील स्त्रिया पुढे म्हणत की ती रडली नाही. ती फक्त आकाशाकडे पाहत राहिली, पृथ्वीवर कोणीही उत्तर देऊ शकणार नाही असा प्रश्न त्याला विचारल्यासारखी, आणि मग वळून एकटीच बाहेर निघून गेली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The duel of Parashurama",
+    "hi": {
+     "text": "परशुराम से द्वंद्व",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परशुरामांचे द्वंद्व",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Amba went to the forest. There, among the hermits, she found a great sage, Parashurama, who had also been Bhishma’s own teacher. He listened to her story with kindness. “I will speak to him,” he said.\n\nBut when the guru asked his pupil to marry Amba, Bhishma bowed and refused again. “A vow is a vow, Master.” In anger, Parashurama challenged him to a duel.\n\nThe two fought on the plain of Kurukshetra, the old teacher and the young pupil, for twenty-three days. Divine weapons blazed across the sky and the earth shook. Neither could win. At last the gods themselves came down and stopped the battle, and Parashurama said to Amba, with great sorrow, “I have done all I can. I cannot help you.”\n\nAmba looked at the old warrior and then at the sky and understood that no one in the world could undo what had been done to her.",
+    "hi": {
+     "text": "अंबा वन में चली गई। वहाँ तपस्वियों के बीच उसे एक महान ऋषि मिले, परशुराम, जो स्वयं भीष्म के गुरु भी रह चुके थे। उन्होंने उसकी कथा करुणा से सुनी। “मैं उससे बात करूँगा,” उन्होंने कहा।\n\nपर जब गुरु ने अपने शिष्य से अंबा को अपनाने को कहा, तो भीष्म ने झुककर फिर इनकार कर दिया। “प्रतिज्ञा प्रतिज्ञा है, गुरुदेव।” क्रोध में परशुराम ने उन्हें द्वंद्व के लिए ललकारा।\n\nदोनों कुरुक्षेत्र के मैदान में तेईस दिन तक लड़े, बूढ़ा गुरु और युवा शिष्य। दिव्य अस्त्र आकाश में दहकते रहे और धरती काँपती रही। कोई जीत न सका। आख़िर स्वयं देवता उतरे और युद्ध रुकवा दिया, और परशुराम ने गहरे दुख से अंबा से कहा, “मैंने जो हो सकता था, सब किया। मैं तुम्हारी सहायता नहीं कर सकता।”\n\nअंबा ने उस बूढ़े योद्धा को देखा, फिर आकाश को, और समझ गई कि संसार में कोई भी उसके साथ हुए अन्याय को मिटा नहीं सकता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंबा वनात गेली. तिथे तपस्व्यांमध्ये तिला एक महान ऋषी भेटले, परशुराम, जे भीष्माचेही गुरू होते. त्यांनी तिची कथा दयाळूपणे ऐकली. “मी त्याच्याशी बोलतो,” ते म्हणाले.\n\nपण गुरूंनी शिष्याला अंबाशी विवाह करायला सांगितले तेव्हा भीष्माने नमस्कार करून पुन्हा नकार दिला. “प्रतिज्ञा ही प्रतिज्ञाच असते, गुरुदेव.” रागाने परशुरामांनी त्याला द्वंद्वाचे आव्हान दिले.\n\nवृद्ध गुरू आणि तरुण शिष्य कुरुक्षेत्राच्या मैदानावर तेवीस दिवस लढले. दिव्य अस्त्रे आकाशात तळपली आणि भूमी हादरली. कोणीही जिंकू शकला नाही. शेवटी देवांनी स्वतः खाली येऊन युद्ध थांबवले, आणि परशुराम अत्यंत दुःखाने अंबाला म्हणाले, “मी सर्व काही केले. मी तुला मदत करू शकत नाही.”\n\nअंबाने त्या वृद्ध योद्ध्याकडे पाहिले, मग आकाशाकडे, आणि तिला समजले की तिच्याबाबतीत जे घडले ते मोडून काढणारा या जगात कोणीच नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Shikhandi",
+    "hi": {
+     "text": "शिखंडी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिखंडी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Amba turned her whole being toward one thing. She walked into the Himalayas and gave herself to the severest penance. She stood on one foot. She ate nothing but air. Lord Shiva appeared, moved by her endless suffering, and granted her a boon: in another life she would be the cause of Bhishma’s death.\n\nAmba did not want revenge in the way we think of it. She wanted justice, and the world had given her none. She ended her life, and was reborn as the daughter of King Drupada, and was raised as a son named Shikhandi, who grew up to be a warrior.\n\nThe story of Amba reminds us that in the great epic, even the best men can hurt someone without meaning to. Dharma is subtle. And the one who is left out, the one who weeps at the edge of the story, is not forgotten. Her time would come.",
+    "hi": {
+     "text": "अंबा ने अपना पूरा अस्तित्व एक ही बात पर लगा दिया। वह हिमालय में गई और कठोरतम तप में लीन हो गई। वह एक पैर पर खड़ी रही। केवल वायु पर रही। उसके अंतहीन कष्ट से द्रवित होकर भगवान शिव प्रकट हुए और उसे वरदान दिया: दूसरे जन्म में वह भीष्म की मृत्यु का कारण बनेगी।\n\nअंबा बदला नहीं चाहती थी, उस अर्थ में जैसा हम सोचते हैं। वह न्याय चाहती थी, और संसार ने उसे कोई न्याय नहीं दिया था। उसने अपना जीवन समाप्त कर दिया, और राजा द्रुपद की पुत्री बनकर जन्मी, और उसका पालन पुत्र शिखंडी के रूप में हुआ, जो बड़ा होकर योद्धा बना।\n\nअंबा की कथा हमें याद दिलाती है कि इस महान महाकाव्य में सबसे अच्छे लोग भी, बिना चाहे, किसी को चोट पहुँचा सकते हैं। धर्म सूक्ष्म है। और जो पीछे छूट जाता है, जो कथा के किनारे खड़ा रोता है, उसे भुलाया नहीं जाता। उसका समय आने वाला था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंबाने आपले संपूर्ण अस्तित्व एका गोष्टीकडे वळवले. ती हिमालयात गेली आणि तिने अत्यंत कठोर तपस्येत स्वतःला झोकून दिले. ती एका पायावर उभी राहिली. तिने हवेशिवाय काहीही खाल्ले नाही. तिच्या अखंड दुःखाने द्रवून शिवशंकर प्रकट झाले आणि त्यांनी तिला वर दिला: दुसऱ्या जन्मात ती भीष्माच्या मृत्यूचे कारण होईल.\n\nअंबाला आपण ज्याला सूड म्हणतो तो नको होता. तिला न्याय हवा होता, आणि जगाने तिला तो दिला नव्हता. तिने आपले जीवन संपवले, आणि राजा द्रुपदाची कन्या म्हणून पुन्हा जन्मली, आणि पुत्र म्हणून वाढवली गेली, शिखंडी या नावाने, जो पुढे योद्धा झाला.\n\nअंबाची कथा आपल्याला आठवण करून देते की या महाकाव्यात सर्वोत्तम माणसेही नकळत कोणाला दुखावू शकतात. धर्म सूक्ष्म असतो. आणि जी मागे राहिली, जी कथेच्या कडेला बसून रडते, तिला विसरले जात नाही. तिची वेळ येणार होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Amba was hurt by people who all thought they were acting rightly. When have you been hurt by someone with good intentions, and when might you have done the same? Today, listen for the person who is quietly left out.",
+  "hi": {
+   "text": "अंबा को उन सब लोगों ने चोट पहुँचाई जो मानते थे कि वे ठीक कर रहे हैं। आपको कब किसी ने अच्छे इरादे से दुखी किया, और कब शायद आपने भी ऐसा किया हो? आज उस व्यक्ति की आहट सुनिए जो चुपचाप पीछे छूट गया है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अंबाला दुखावणारे सर्व जण आपण योग्य तेच करत आहोत असे मानत होते. चांगल्या हेतूच्या माणसाने तुम्हाला कधी दुखावले, आणि तुम्ही कधी तसेच केले असेल? आज शांतपणे मागे राहिलेल्या माणसाकडे कान द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Even a good vow or a good deed can wound someone; dharma asks us to look at who is left behind.",
+  "hi": {
+   "text": "अच्छी प्रतिज्ञा या अच्छा काम भी किसी को घायल कर सकता है; धर्म हमसे माँगता है कि हम देखें कि कौन पीछे छूट गया।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चांगली प्रतिज्ञा किंवा चांगले कर्मही कोणाला घायाळ करू शकते; धर्म आपल्याला मागे राहिलेल्याकडे पाहायला सांगतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Mahabharata, Adi and Udyoga Parva (Amba Upakhyana)",
+  "hi": {
+   "text": "महाभारत, आदि और उद्योग पर्व (अंबा उपाख्यान)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महाभारत, आदिपर्व आणि उद्योगपर्व (अंबोपाख्यान)",
+   "reviewed": false
+  }
+ }
+}
