@@ -83,12 +83,6 @@ h2 {
 .page-main > * { max-width: 48rem; margin-inline: auto; }
 .page-main > .wide { max-width: none; }
 .page-main > .mid { max-width: 60rem; }
-/* Pulsing diya dot on the logo. */
-@media (prefers-reduced-motion: no-preference) {
-  .diya-dot { animation: diya-pulse 2.4s ease-in-out infinite; }
-}
-@keyframes diya-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
-:root[data-motion="reduce"] .diya-dot { animation: none; }
 
 /* Active bottom-nav tab: a soft saffron glow behind the pill. */
 .diya-glow {

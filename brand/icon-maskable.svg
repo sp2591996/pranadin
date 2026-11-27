@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="512" height="512" role="img" aria-labelledby="t">
   <title id="t">PranaDin</title>
-  <!-- PWA icon, purpose "maskable". Full-bleed background; all artwork sits inside the safe zone (circle r = 204.8 px around the centre). Check at https://maskable.app -->
-  <rect width="512" height="512" fill="#A3401C"/>
-  <g transform="translate(0 -16)">
-    <path d="M172 244 A84 84 0 0 1 340 244 Z" fill="#F2C14E"/>
-    <path d="M104 264 H408" stroke="#FBF7F0" stroke-width="20" stroke-linecap="round" fill="none"/>
-    <path d="M152 318 C 186 298, 222 298, 256 318 S 326 338, 360 318" stroke="#FBF7F0" stroke-width="20" stroke-linecap="round" fill="none"/>
-    <path d="M196 370 C 216 358, 236 358, 256 370 S 296 382, 316 370" stroke="#FBF7F0" stroke-width="20" stroke-linecap="round" fill="none"/>
-  </g>
+  <!-- Dawn Lotus (D-039). PWA icon, purpose "maskable": full-bleed background, artwork inside the safe zone. -->
+  <defs><linearGradient id="a-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4A2410"/><stop offset="1" stop-color="#2A1408"/></linearGradient><linearGradient id="a-sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD66B"/><stop offset="1" stop-color="#F29A2E"/></linearGradient><linearGradient id="a-pet" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8C04D"/><stop offset="1" stop-color="#D9661A"/></linearGradient></defs><rect width="128" height="128" fill="url(#a-bg)"/><g transform="translate(64 64) scale(.74) translate(-64 -63)"><g stroke="#F3C35B" stroke-width="3" stroke-linecap="round" opacity=".55"><path d="M64 22v9M36 31l6 6M92 31l-6 6M24 52h8M96 52h8"/></g><path d="M34 66a30 30 0 0 1 60 0z" fill="url(#a-sun)"/><path d="M64 98c-9-8-12-20 0-36 12 16 9 28 0 36z" fill="url(#a-pet)"/><path d="M64 98c-14-2-24-12-26-27 14 1 23 10 26 27z" fill="url(#a-pet)" opacity=".92"/><path d="M64 98c14-2 24-12 26-27-14 1-23 10-26 27z" fill="url(#a-pet)" opacity=".92"/><path d="M64 98c-18 2-30-4-36-14 12-3 26 2 36 14z" fill="#B4500F"/><path d="M64 98c18 2 30-4 36-14-12-3-26 2-36 14z" fill="#B4500F"/><path d="M30 104h68" stroke="#F3C35B" stroke-width="4" stroke-linecap="round"/></g>
 </svg>

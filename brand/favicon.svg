@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <!-- Favicon, redrawn on a 32 px grid with heavier strokes so it reads at 16 px. -->
-  <rect width="32" height="32" rx="7" fill="#A3401C"/>
-  <path d="M9.5 15 A6.5 6.5 0 0 1 22.5 15 Z" fill="#F2C14E"/>
-  <path d="M5.5 16.5 H26.5" stroke="#FBF7F0" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M8 22 C10.5 20.2 13.5 20.2 16 22 S21.5 23.8 24 22" stroke="#FBF7F0" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="32" height="32" role="img" aria-labelledby="t">
+  <title id="t">PranaDin</title>
+  <!-- Dawn Lotus (D-039). Favicon: no rays and a heavier base line so it reads at 16 px. -->
+  <defs><linearGradient id="a-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4A2410"/><stop offset="1" stop-color="#2A1408"/></linearGradient><linearGradient id="a-sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD66B"/><stop offset="1" stop-color="#F29A2E"/></linearGradient><linearGradient id="a-pet" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8C04D"/><stop offset="1" stop-color="#D9661A"/></linearGradient></defs><rect width="128" height="128" rx="28" fill="url(#a-bg)"/><g transform="translate(64 64) scale(1.12) translate(-64 -66)"><path d="M34 66a30 30 0 0 1 60 0z" fill="url(#a-sun)"/><path d="M64 98c-9-8-12-20 0-36 12 16 9 28 0 36z" fill="url(#a-pet)"/><path d="M64 98c-14-2-24-12-26-27 14 1 23 10 26 27z" fill="url(#a-pet)" opacity=".92"/><path d="M64 98c14-2 24-12 26-27-14 1-23 10-26 27z" fill="url(#a-pet)" opacity=".92"/><path d="M64 98c-18 2-30-4-36-14 12-3 26 2 36 14z" fill="#B4500F"/><path d="M64 98c18 2 30-4 36-14-12-3-26 2-36 14z" fill="#B4500F"/><path d="M30 104h68" stroke="#F3C35B" stroke-width="7" stroke-linecap="round"/></g>
 </svg>

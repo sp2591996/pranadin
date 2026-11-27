@@ -12,14 +12,14 @@ import { routes, withLocale } from "@/lib/routes";
 
 const SHORT: Record<string, string> = { en: "EN", hi: "हिं", mr: "मरा" };
 
-/** Om logo tile with the small pulsing diya dot (after the reference prototype, D-033). */
+/** Logo tile (D-039 Dawn Lotus) with app name. */
 export function Logo() {
   const { t, locale } = useI18n();
   return (
     <Link href={routes.today(locale)} className="group flex min-h-11 items-center gap-2.5 rounded-lg px-1">
-      <span aria-hidden="true" className="relative flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-[#4A2410] to-[#35180A] shadow-md shadow-orange-900/20 transition-transform duration-base group-hover:scale-105">
-        <span className="font-deva text-2xl leading-none text-[#F3C35B]">ॐ</span>
-        <span className="diya-dot absolute -right-0.5 -top-0.5 h-2.5 w-2.5 rounded-full bg-[#F2B640]" />
+      <span aria-hidden="true" className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-b from-[#4A2410] to-[#2A1408] shadow-md shadow-orange-900/20 transition-transform duration-base group-hover:scale-105">
+        {/* eslint-disable-next-line @next/next/no-img-element -- static SVG mark, no JS cost (D-039 Dawn Lotus) */}
+        <img src="/mark.svg" alt="" width={34} height={34} className="h-[34px] w-[34px]" />
       </span>
       <span className="flex flex-col items-start leading-none">
         <span className="font-display text-[1.375rem] font-semibold tracking-tight text-text">{t("common.appName")}</span>
