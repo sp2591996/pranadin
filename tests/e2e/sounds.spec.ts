@@ -6,7 +6,7 @@ const status = (page: Page) => page.getByTestId("now-status");
 test.describe("Sounds tab (D-026)", () => {
   test.beforeEach(async ({ page }) => {
     await onboard(page, "en");
-    await page.goto("/en/sounds/");
+    await page.goto("/en/practice/sounds/");
   });
 
   test("nothing plays on arrival, and the page lists scenes, recordings and generated sounds", async ({ page }) => {
@@ -81,7 +81,7 @@ test.describe("Sounds tab (D-026)", () => {
 test.describe("Japa mala", () => {
   test.beforeEach(async ({ page }) => {
     await onboard(page, "en");
-    await page.goto("/en/sounds/");
+    await page.goto("/en/practice/sounds/");
     await page.getByRole("button", { name: "Japa mala", exact: true }).click();
   });
 
@@ -152,7 +152,7 @@ test.describe("Audio credits and nav", () => {
   test("5 tab labels stay inside the screen at 320 px and 200% text", async ({ page }) => {
     await page.setViewportSize({ width: 320, height: 640 });
     await onboard(page, "en");
-    await page.goto("/en/sounds/");
+    await page.goto("/en/practice/sounds/");
     await page.addStyleTag({ content: "html { font-size: 200% !important; }" });
     const links = page.getByRole("navigation").last().getByRole("link");
     await expect(links).toHaveCount(5);

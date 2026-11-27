@@ -10,7 +10,7 @@ export function generateStaticParams() {
   return yatraIds().filter((id) => id !== "plan").map((id) => ({ id }));
 }
 
-export default async function PlacePage({ params }: PageProps<"/[locale]/practice/yatra/[id]">) {
+export default async function PlacePage({ params }: PageProps<"/[locale]/yatra/[id]">) {
   const { locale: l, id } = await params;
   const locale = isLocale(l) ? l : "en";
   const places = loadPlaces(locale);

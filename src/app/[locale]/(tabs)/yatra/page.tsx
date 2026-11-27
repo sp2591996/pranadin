@@ -4,7 +4,7 @@ import { loadPlaces, loadYatraStrings } from "@/features/yatra/content.server";
 import { YatraList } from "@/features/yatra/YatraList";
 
 /** Yatra travel guide: place list (D-026 Wave E). Information only, no bookings. */
-export default async function YatraPage({ params }: PageProps<"/[locale]/practice/yatra">) {
+export default async function YatraPage({ params }: PageProps<"/[locale]/yatra">) {
   const { locale: l } = await params;
   const locale = isLocale(l) ? l : "en";
   const places = loadPlaces(locale);

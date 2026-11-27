@@ -13,7 +13,7 @@ export function generateStaticParams() {
 }
 
 /** One illustrated chapter of a story collection (D-040). */
-export default async function StoryChapterPage({ params }: PageProps<"/[locale]/calendar/stories/[club]/[chapter]">) {
+export default async function StoryChapterPage({ params }: PageProps<"/[locale]/stories/[club]/[chapter]">) {
   const { locale: l, club, chapter } = await params;
   const locale = isLocale(l) ? l : "en";
   const clubs = loadClubs(locale);

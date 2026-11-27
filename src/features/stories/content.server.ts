@@ -178,8 +178,8 @@ export function clubGroups(clubs: ClubView[]) {
 }
 
 export const storyRoutes = {
-  list: (l: Locale) => `/${l}/calendar/stories/`,
-  club: (l: Locale, club: string) => `/${l}/calendar/stories/${club}/`,
+  list: (l: Locale) => `/${l}/stories/`,
+  club: (l: Locale, club: string) => `/${l}/stories/${club}/`,
   chapter: (l: Locale, club: string, id: string) =>
-    `/${l}/calendar/stories/${club}/${id}/`,
+    `/${l}/stories/${club}/${id}/`,
 };

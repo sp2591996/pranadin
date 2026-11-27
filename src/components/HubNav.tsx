@@ -12,6 +12,7 @@ const HUBS: Record<Hub, { label: string; items: { id: string; key: string; icon:
     items: [
       { id: "breath", key: "hub.practice.breath", icon: "Wind", path: "practice/" },
       { id: "yoga", key: "nav.yoga", icon: "PersonSimpleTaiChi", path: "practice/yoga/" },
+      { id: "sounds", key: "nav.sounds", icon: "Waveform", path: "practice/sounds/" },
       { id: "chakras", key: "nav.chakras", icon: "Sun", path: "practice/chakras/" },
     ],
   },
@@ -20,14 +21,13 @@ const HUBS: Record<Hub, { label: string; items: { id: string; key: string; icon:
     items: [
       { id: "panchang", key: "hub.calendar.panchang", icon: "CalendarHeart", path: "calendar/" },
       { id: "festivals", key: "nav.festivals", icon: "Flame", path: "calendar/festivals/" },
-      { id: "stories", key: "nav.stories", icon: "Quotes", path: "calendar/stories/" },
     ],
   },
 };
 
 /**
  * Visible sub-sections of a hub (D-036): Practice = Breath & meditation ·
- * Yoga · Chakras; Calendar = Panchang · Festivals · Stories (D-038). Replaces the hidden
+ * Yoga · Sounds · Chakras; Calendar = Panchang · Festivals (D-042). Replaces the hidden
  * "More" menu. Server component, no JavaScript.
  */
 export function HubNav({ locale, hub, current }: { locale: Locale; hub: Hub; current: string }) {

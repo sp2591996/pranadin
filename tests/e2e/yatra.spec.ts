@@ -21,8 +21,8 @@ test.describe("Yatra guide", () => {
     await onboard(page, "en");
     await page.goto("/en/practice/");
     await page.getByRole("link", { name: /Yatra guide/i }).first().click();
-    await expect(page).toHaveURL(/\/en\/practice\/yatra\/$/);
-    const cards = page.locator("main li a[href*='/practice/yatra/']");
+    await expect(page).toHaveURL(/\/en\/yatra\/$/);
+    const cards = page.locator("main li a[href*='/yatra/']");
     const total = await cards.count();
     expect(total).toBeGreaterThanOrEqual(2);
 
@@ -40,7 +40,7 @@ test.describe("Yatra guide", () => {
     expect(await cards.count()).toBeGreaterThanOrEqual(1);
     expect(await cards.count()).toBeLessThan(total);
 
-    await page.goto("/en/practice/yatra/varanasi/");
+    await page.goto("/en/yatra/varanasi/");
     await expect(page.locator("h1")).toContainText("Varanasi");
     await expect(page.getByTestId("photo-credit")).toContainText("Wikimedia Commons");
     await expect(page.locator("[data-testid=gallery] img").first()).toBeVisible();
@@ -55,18 +55,18 @@ test.describe("Yatra guide", () => {
 
   test("Pandharpur shows a real, credited photo (D-038)", async ({ page }) => {
     await onboard(page, "en");
-    await page.goto("/en/practice/yatra/pandharpur/");
+    await page.goto("/en/yatra/pandharpur/");
     await expect(page.getByTestId("photo-credit")).toContainText("Wikimedia Commons");
   });
 
   test("planner builds a combined plan and saves it on the device", async ({ page }) => {
     await onboard(page, "en");
-    await page.goto("/en/practice/yatra/varanasi/");
+    await page.goto("/en/yatra/varanasi/");
     await page.getByRole("tab", { name: /Itineraries/ }).click();
     await page.getByRole("button", { name: "Add to my trip" }).click();
     await expect(page.getByRole("button", { name: "In your trip" })).toBeDisabled();
 
-    await page.goto("/en/practice/yatra/plan/");
+    await page.goto("/en/yatra/plan/");
     await expect(page.getByTestId("trip-items").locator("li")).toHaveCount(1);
     await page.getByLabel("Search places").fill("Pandhar");
     await page.getByRole("button", { name: "Add Pandharpur" }).click();
@@ -112,7 +112,7 @@ test.describe("Yatra guide", () => {
 
   test("planner v2: home town, best order, travel choice per leg, detailed plan and split cost (D-038)", async ({ page }) => {
     await onboard(page, "en");
-    await page.goto("/en/practice/yatra/plan/");
+    await page.goto("/en/yatra/plan/");
     for (const [q, name] of [["Harid", "Haridwar"], ["Shirdi", "Shirdi"], ["Rishi", "Rishikesh"]] as const) {
       await page.getByLabel("Search places").fill(q);
       await page.getByRole("button", { name: `Add ${name}` }).click();
@@ -151,7 +151,7 @@ test.describe("Yatra guide", () => {
   for (const lang of LOCALES.filter((l) => l !== "en")) {
     test(`${lang} detailed trip plan has no English runs (D-038)`, async ({ page }) => {
       await onboard(page, lang);
-      await page.goto(`/${lang}/practice/yatra/plan/`);
+      await page.goto(`/${lang}/yatra/plan/`);
       await page.locator("main ul li button").first().click();
       await page.locator("select").first().selectOption("pune");
       await expect(page.getByTestId("trip-costs")).toBeVisible();
@@ -172,7 +172,7 @@ test.describe("Yatra guide", () => {
 
     test(`${lang} list, detail tabs and planner have no English runs`, async ({ page }) => {
       await onboard(page, lang);
-      for (const p of ["practice/yatra/", "practice/yatra/varanasi/", "practice/yatra/pandharpur/", "practice/yatra/plan/"]) {
+      for (const p of ["yatra/", "yatra/varanasi/", "yatra/pandharpur/", "yatra/plan/"]) {
         await page.goto(`/${lang}/${p}`);
         await expect(page.locator("h1")).toBeVisible();
         const tabs = page.getByRole("tab");

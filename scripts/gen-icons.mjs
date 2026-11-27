@@ -10,7 +10,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 // Nav icons get both weights (filled when active); the rest only "regular" (D-033 look).
-const NAV = ["SunHorizon", "Wind", "CalendarBlank", "NotePencil", "SpeakerHigh", "House", "Waveform", "CalendarHeart", "Notebook", "Bank", "PersonSimpleTaiChi", "Flame", "Sun"];
+const NAV = ["SunHorizon", "Wind", "House", "Waveform", "CalendarHeart", "Notebook", "Bank", "PersonSimpleTaiChi", "Flame", "Sun", "BookOpen"];
 const PLAIN = ["UserCircle", "ArrowLeft", "Timer",  "ArrowRight", "Sparkle", "CheckCircle", "Quotes", "Globe", "MapPin", "FlowerLotus", "Clock", "SunDim", "X", "CaretDown"];
 // Travel icons for the Yatra pages only (D-037): a separate file, so other pages do not carry them.
 const TRAVEL = ["Airplane", "Train", "Car", "Bed", "ForkKnife", "Wallet", "FirstAid", "HandsPraying", "TShirt", "Path", "MapTrifold", "CalendarPlus", "Check"];

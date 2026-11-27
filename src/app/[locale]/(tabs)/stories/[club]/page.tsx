@@ -11,7 +11,7 @@ export function generateStaticParams() {
 }
 
 /** One story collection, e.g. the Ramayana, with its chapters by part (D-040). */
-export default async function StoryClubPage({ params }: PageProps<"/[locale]/calendar/stories/[club]">) {
+export default async function StoryClubPage({ params }: PageProps<"/[locale]/stories/[club]">) {
   const { locale: l, club } = await params;
   const locale = isLocale(l) ? l : "en";
   const clubs = loadClubs(locale);

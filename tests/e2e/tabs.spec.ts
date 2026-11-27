@@ -32,7 +32,7 @@ test.describe("Tabs", () => {
 
   test("bottom nav has the 5 places (D-036) and each opens; Journal is in the header", async ({ page }) => {
     const nav = page.getByRole("navigation").last();
-    for (const [name, url] of [["Today", "today"], ["Practice", "practice"], ["Sounds", "sounds"], ["Calendar", "calendar"], ["Yatra", "practice/yatra"]]) {
+    for (const [name, url] of [["Today", "today"], ["Practice", "practice"], ["Stories", "stories"], ["Yatra", "yatra"], ["Calendar", "calendar"]]) {
       await nav.getByRole("link", { name }).click();
       await expect(page).toHaveURL(new RegExp(`/en/${url}/`));
       await expect(nav.getByRole("link", { name })).toHaveAttribute("aria-current", "page");
@@ -50,6 +50,19 @@ test.describe("Tabs", () => {
     await page.goto("/en/calendar/");
     await page.getByRole("navigation", { name: "Calendar sections" }).getByRole("link", { name: "Festivals" }).click();
     await expect(page).toHaveURL(/\/en\/calendar\/festivals\//);
+  });
+
+  test("D-042: phone nav is Today/Practice/Stories/Yatra/Calendar; Sounds is a Practice tab; Calendar has no Stories tab", async ({ page }) => {
+    const nav = page.getByRole("navigation").last();
+    await expect(nav.getByRole("link")).toHaveText(["Today", "Practice", "Stories", "Yatra", "Calendar"]);
+    await page.goto("/en/practice/");
+    const practice = page.getByRole("navigation", { name: "Practice sections" });
+    await practice.getByRole("link", { name: "Sounds" }).click();
+    await expect(page).toHaveURL(/\/en\/practice\/sounds\//);
+    await expect(page.getByRole("navigation", { name: "Practice sections" }).getByRole("link", { name: "Sounds" })).toHaveAttribute("aria-current", "page");
+    await expect(page.getByRole("navigation").last().getByRole("link", { name: "Practice" })).toHaveAttribute("aria-current", "page");
+    await page.goto("/en/calendar/");
+    await expect(page.getByRole("navigation", { name: "Calendar sections" }).getByRole("link", { name: "Stories" })).toHaveCount(0);
   });
 
   test("US-10: Today shows the panchang line labelled Indicative and the city", async ({ page }) => {
