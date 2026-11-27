@@ -1,0 +1,236 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "hanuman-meets-rama",
+ "order": 9,
+ "part": "kishkindha",
+ "figure": {
+  "en": "Hanuman",
+  "hi": {
+   "text": "हनुमान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हनुमान",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Hanuman meets his Lord",
+  "hi": {
+   "text": "हनुमान को मिले अपने प्रभु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हनुमानाची आपल्या प्रभूशी भेट",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A monkey in disguise comes down the mountain to test two strangers. Within minutes, his whole life changes.",
+  "hi": {
+   "text": "वेश बदलकर एक वानर पर्वत से उतरता है, दो अजनबियों को परखने। कुछ ही पलों में उसका पूरा जीवन बदल जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वेश बदललेला एक वानर दोन अनोळखी माणसांची परीक्षा घ्यायला पर्वतावरून उतरतो. काही क्षणांतच त्याचे सारे आयुष्य बदलून जाते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/hanuman-meets-rama-1.webp",
+   "w": 1200,
+   "h": 813,
+   "caption": {
+    "en": "Hanuman before Rama and Lakshmana (Indian painting)",
+    "hi": {
+     "text": "राम और लक्ष्मण के सामने हनुमान (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम-लक्ष्मणांसमोर हनुमान (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanuman_before_Rama_and_Lakshmana_(IA_mma_hanuman_before_rama_and_lakshmana_37986).jpg"
+  },
+  {
+   "src": "/stories/ramayana/hanuman-meets-rama-2.webp",
+   "w": 800,
+   "h": 469,
+   "caption": {
+    "en": "Sugriva challenges Vali (illustrated Ramayana, about 1630–1650)",
+    "hi": {
+     "text": "सुग्रीव वाली को ललकारते हैं (सचित्र रामायण, लगभग 1630–1650)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुग्रीव वालीला आव्हान देतो (सचित्र रामायण, सुमारे 1630–1650)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown studio master. Book was commissioned by Maharana Jagat Singh (1628–1652), the ruler of Mewar, now part of Rajast, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Illustration_of_Sugriva_challenging_Vali_from_the_Ramayana_(c._1628%E2%80%931649).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Watchers on the mountain",
+    "hi": {
+     "text": "पर्वत पर पहरेदार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पर्वतावरचे निरीक्षक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On Rishyamuka mountain, the monkey prince Sugriva hid in fear. His brother Vali, the mighty king of Kishkindha, had thrown him out and taken his wife. When Sugriva saw two armed warriors walking near the lake, he panicked. “Vali has sent them to kill me!”\n\nHis wisest minister calmed him. “Let me go and find out who they are.” That minister was Hanuman, son of the Wind god.",
+    "hi": {
+     "text": "ऋष्यमूक पर्वत पर वानर राजकुमार सुग्रीव भय के मारे छिपा बैठा था। उसके भाई वाली ने, जो किष्किंधा का बलशाली राजा था, उसे निकाल दिया था और उसकी पत्नी छीन ली थी। जब सुग्रीव ने सरोवर के पास दो शस्त्रधारी योद्धाओं को चलते देखा, तो घबरा गया। “वाली ने इन्हें मुझे मारने भेजा है!”\n\nउसके सबसे बुद्धिमान मंत्री ने उसे शांत किया। “मुझे जाकर पता लगाने दीजिए कि ये कौन हैं।” वह मंत्री हनुमान थे, पवनदेव के पुत्र।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ऋष्यमूक पर्वतावर वानरराजकुमार सुग्रीव भीतीने लपून बसला होता. त्याचा भाऊ किष्किंधेचा पराक्रमी राजा वाली याने त्याला हाकलून त्याची पत्नी हिरावून घेतली होती. सरोवराजवळ दोन सशस्त्र योद्धे चालताना दिसताच तो घाबरला. “वालीने यांना मला मारायला पाठवले आहे!”\n\nत्याच्या सर्वात ज्ञानी मंत्र्याने त्याला शांत केले. “मी जाऊन ते कोण आहेत ते शोधतो.” तो मंत्री होता हनुमान, वायुदेवाचा पुत्र.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A gentle stranger",
+    "hi": {
+     "text": "एक सौम्य अजनबी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक सौम्य अनोळखी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hanuman took the form of a young scholar and approached the brothers. He spoke with such grace, such perfect words, with no mistake in grammar, no hurry and no hesitation, that Rama turned to Lakshmana in wonder.\n\n“Only someone who has mastered all the Vedas could speak like this,” Rama said. “A king with such a messenger can achieve anything.”",
+    "hi": {
+     "text": "हनुमान एक युवा विद्वान का रूप धरकर दोनों भाइयों के पास पहुँचे। वे इतनी शालीनता से, इतने शुद्ध शब्दों में बोले, न कोई व्याकरण की भूल, न जल्दबाज़ी, न झिझक, कि राम ने विस्मय से लक्ष्मण की ओर देखा।\n\n“ऐसा तो वही बोल सकता है जिसने सारे वेदों में निपुणता पाई हो,” राम ने कहा। “जिस राजा के पास ऐसा दूत हो, वह कुछ भी पा सकता है।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमानाने तरुण विद्वानाचे रूप घेतले आणि दोघा भावांकडे गेला. तो इतक्या सुंदरपणे बोलला, अगदी निर्दोष शब्द, व्याकरणाची एकही चूक नाही, घाई नाही, अडखळणे नाही, की राम आश्चर्याने लक्ष्मणाकडे वळला.\n\n“सर्व वेद आत्मसात केलेला माणूसच असा बोलू शकतो,” राम म्हणाला. “असा दूत ज्या राजाजवळ आहे तो काहीही साध्य करू शकतो.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Recognition",
+    "hi": {
+     "text": "पहचान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ओळख",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When Hanuman learned that this was Rama, prince of Ayodhya, searching for his stolen wife, something stirred deep in his heart. He threw off his disguise, fell at Rama's feet, and offered his whole life.\n\nThen, without effort, he lifted both brothers onto his shoulders and carried them up the mountain to Sugriva. From that moment, Hanuman belonged to Rama, and Rama to Hanuman, forever.",
+    "hi": {
+     "text": "जब हनुमान को पता चला कि ये अयोध्या के राजकुमार राम हैं, जो अपनी हरी गई पत्नी को खोज रहे हैं, तो उनके हृदय में गहरे कहीं कुछ हिल उठा। उन्होंने वेश उतार दिया, राम के चरणों में गिर पड़े और अपना पूरा जीवन अर्पित कर दिया।\n\nफिर सहज ही उन्होंने दोनों भाइयों को अपने कंधों पर उठा लिया और पर्वत पर सुग्रीव के पास ले गए। उसी क्षण से हनुमान राम के हो गए, और राम हनुमान के, सदा के लिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हा अयोध्येचा राजकुमार राम, आपल्या हरवलेल्या पत्नीचा शोध घेत आहे हे समजताच हनुमानाच्या हृदयात काहीतरी हलले. त्याने वेश फेकला, रामाच्या पायावर पडला आणि आपले सारे आयुष्य अर्पण केले.\n\nमग सहजपणे त्याने दोन्ही भावांना खांद्यावर उचलले आणि पर्वतावर सुग्रीवाकडे नेले. त्या क्षणापासून हनुमान रामाचा झाला आणि राम हनुमानाचा, कायमचा.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A friendship sworn by fire",
+    "hi": {
+     "text": "अग्नि की साक्षी में मित्रता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अग्नीसाक्षी मैत्री",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sugriva and Rama lit a sacred fire and walked around it, swearing friendship. Rama promised to help Sugriva win back his kingdom; Sugriva promised his whole army would search for Sita.\n\nThe monkeys brought out a bundle of jewels that had fallen from the sky. Rama pressed them to his heart and wept. Lakshmana looked closely. “I do not know her bracelets or earrings,” he said softly. “I only know her anklets, because every day I bowed at her feet.”",
+    "hi": {
+     "text": "सुग्रीव और राम ने पवित्र अग्नि प्रज्वलित की और उसकी परिक्रमा करके मित्रता की शपथ ली। राम ने वचन दिया कि वे सुग्रीव को उसका राज्य दिलाएँगे; सुग्रीव ने वचन दिया कि उसकी पूरी सेना सीता को खोजेगी।\n\nवानरों ने गहनों की एक पोटली निकाली जो आकाश से गिरी थी। राम ने उसे हृदय से लगा लिया और रो पड़े। लक्ष्मण ने ध्यान से देखा। “मैं इनके कंगन या कुंडल नहीं पहचानता,” उन्होंने धीमे स्वर में कहा। “मैं तो केवल इनके नूपुर पहचानता हूँ, क्योंकि रोज़ इनके चरणों में प्रणाम करता था।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुग्रीव आणि रामाने पवित्र अग्नी पेटवला आणि त्याला प्रदक्षिणा घालून मैत्रीची शपथ घेतली. रामाने सुग्रीवाला त्याचे राज्य परत मिळवून देण्याचे वचन दिले; सुग्रीवाने सीतेच्या शोधासाठी आपले सारे सैन्य लावण्याचे वचन दिले.\n\nवानरांनी आकाशातून पडलेले दागिन्यांचे बोचके आणले. रामाने ते हृदयाशी धरले आणि तो रडला. लक्ष्मणाने निरखून पाहिले. “मला तिचे बाजूबंद किंवा कुंडले ओळखता येत नाहीत,” तो हळूच म्हणाला. “मला फक्त तिची पैंजणे ओळखता येतात, कारण रोज मी तिच्या पायांना वंदन केले.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The fall of Vali",
+    "hi": {
+     "text": "वाली का अंत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वालीचा अंत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sugriva challenged Vali to a duel. The two brothers looked so alike that the first time, Rama could not tell them apart, and Sugriva was beaten badly. The second time Sugriva wore a garland of flowers. As the brothers fought like two storms, Rama's arrow flew from behind the trees and struck Vali.\n\nDying, Vali asked why he had been struck unseen. Rama explained the dharma of a king and Vali's wrong. Vali made peace, asked Rama to care for his son Angada, and died. Sugriva was crowned king of Kishkindha.",
+    "hi": {
+     "text": "सुग्रीव ने वाली को द्वंद्व के लिए ललकारा। दोनों भाई इतने एक जैसे दिखते थे कि पहली बार राम उन्हें अलग नहीं पहचान सके, और सुग्रीव बुरी तरह पिटा। दूसरी बार सुग्रीव ने फूलों की माला पहनी। जब दोनों भाई दो आँधियों की तरह लड़ रहे थे, तो वृक्षों की ओट से राम का बाण उड़ा और वाली को आ लगा।\n\nमरते हुए वाली ने पूछा कि उसे छिपकर क्यों मारा गया। राम ने राजा के धर्म और वाली के अपराध के बारे में समझाया। वाली ने मन शांत किया, राम से अपने पुत्र अंगद की रक्षा करने को कहा, और प्राण त्याग दिए। सुग्रीव किष्किंधा का राजा बना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुग्रीवाने वालीला द्वंद्वयुद्धाचे आव्हान दिले. दोघे भाऊ इतके सारखे दिसत की पहिल्या वेळी रामाला त्यांना वेगळे ओळखता आले नाही आणि सुग्रीवाला जबर मार बसला. दुसऱ्या वेळी सुग्रीवाने फुलांचा हार घातला. दोन वादळांसारखे भाऊ झुंजत असताना झाडांमागून रामाचा बाण सुटला आणि वालीला लागला.\n\nमरणासन्न वालीने विचारले की त्याला न दिसता का मारले गेले. रामाने राजाचा धर्म आणि वालीची चूक समजावून सांगितली. वालीने शांतता मानली, आपला पुत्र अंगद याची काळजी घेण्याची रामाला विनंती केली आणि प्राण सोडला. सुग्रीव किष्किंधेचा राजा झाला.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "reflect": {
+  "en": "Hanuman's whole life changed in one meeting because his heart was ready. Before sleep tonight, ask: am I open to meeting goodness when it comes to me?",
+  "hi": {
+   "text": "हनुमान का पूरा जीवन एक मुलाकात में बदल गया क्योंकि उनका हृदय तैयार था। आज रात सोने से पहले स्वयं से पूछिए: जब भलाई मेरे पास आएगी, तो क्या मैं उसे अपनाने को तैयार हूँ?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हृदय तयार होते म्हणून एकाच भेटीत हनुमानाचे संपूर्ण आयुष्य बदलले. आज झोपण्याआधी स्वतःला विचारा: चांगुलपणा माझ्याकडे आला तर मी त्याला भेटायला खुला आहे का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A true friend and a true devotee serve with their whole heart, and the Divine treasures them like nothing else.",
+  "hi": {
+   "text": "सच्चा मित्र और सच्चा भक्त पूरे हृदय से सेवा करता है, और परमात्मा उसे सबसे अनमोल मानते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरा मित्र आणि खरा भक्त पूर्ण हृदयाने सेवा करतात आणि परमात्मा त्यांना कशाहीपेक्षा अधिक जपतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Kishkindha Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, किष्किंधाकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, किष्किंधाकांड",
+   "reviewed": false
+  }
+ }
+}

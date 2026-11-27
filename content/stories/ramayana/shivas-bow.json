@@ -1,0 +1,255 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "shivas-bow",
+ "order": 4,
+ "part": "bala",
+ "figure": {
+  "en": "Rama and Sita",
+  "hi": {
+   "text": "राम और सीता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राम आणि सीता",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The bow no king could lift",
+  "hi": {
+   "text": "वह धनुष जिसे कोई राजा न उठा सका",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणत्याही राजाला न उचलता येणारे धनुष्य",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In Mithila lies a divine bow so heavy that kings have fled in shame. A quiet prince steps forward.",
+  "hi": {
+   "text": "मिथिला में शिवजी का दिव्य धनुष इतना भारी है कि राजा लज्जित होकर लौट चुके हैं। तब एक शांत राजकुमार आगे बढ़ता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मिथिलेत एक दिव्य धनुष्य आहे, इतके जड की राजे लाजेने पळून गेले. एक शांत राजकुमार पुढे येतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/shivas-bow-1.webp",
+   "w": 717,
+   "h": 1100,
+   "caption": {
+    "en": "Rama breaks Shiva's bow (Raja Ravi Varma)",
+    "hi": {
+     "text": "राम शिव का धनुष तोड़ते हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम शिवधनुष्य मोडतात (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Rama-breaking-bow.jpg"
+  },
+  {
+   "src": "/stories/ramayana/shivas-bow-3.webp",
+   "w": 1200,
+   "h": 926,
+   "caption": {
+    "en": "Parashurama stops Rama on the road home (Pahari painting)",
+    "hi": {
+     "text": "घर लौटते समय परशुराम राम को रोकते हैं (पहाड़ी चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "घरी परतताना परशुराम रामाला अडवतात (पहाडी चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:While_returning_to_Ayodhya_Parshurama_challenges_Rama_for_breaking_the_bow_of_lord_Shiva.jpg"
+  },
+  {
+   "src": "/stories/ramayana/shivas-bow-2.webp",
+   "w": 1169,
+   "h": 1100,
+   "caption": {
+    "en": "The wedding of Rama and Sita (Bundi palace wall painting, 1700s)",
+    "hi": {
+     "text": "राम और सीता का विवाह (बूँदी महल का भित्तिचित्र, अठारहवीं सदी)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम आणि सीतेचा विवाह (बुंदी महालातील भित्तिचित्र, अठरावे शतक)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wedding_of_Rama_and_Sita._Wall_painting_in_Bundi_palace,_18_century..jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The princess from the earth",
+    "hi": {
+     "text": "धरती से जन्मी राजकुमारी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धरणीतून जन्मलेली राजकन्या",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Janaka of Mithila was a king and a sage at the same time. Years before, while ploughing a sacred field, his plough had struck something in the soil: a baby girl lying in the furrow, smiling up at the sky. He named her Sita, the one born of the furrow, and loved her as his own.\n\nNow Sita was grown, gentle and fearless. Janaka declared that only the man who could string the great bow of Shiva would marry her.",
+    "hi": {
+     "text": "मिथिला के राजा जनक एक साथ राजा भी थे और ऋषि भी। बहुत वर्ष पहले, पवित्र खेत में हल चलाते समय उनका हल मिट्टी में किसी चीज़ से टकराया: हल की रेखा में एक नन्ही बच्ची लेटी थी, आकाश को देखकर मुसकराती हुई। उन्होंने उसका नाम सीता रखा, हल की रेखा से जन्मी, और उसे अपनी पुत्री की तरह प्यार किया।\n\nअब सीता बड़ी हो चुकी थीं, कोमल और निर्भय। जनक ने घोषणा की कि जो पुरुष शिवजी के महान धनुष पर प्रत्यंचा चढ़ाएगा, वही उनसे विवाह करेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मिथिलेचा राजा जनक राजा आणि ऋषी दोन्ही होता. काही वर्षांपूर्वी पवित्र शेत नांगरत असताना त्याचा नांगर मातीत काहीतरी अडकला: तिथे तासात एक बाळ मुलगी आकाशाकडे पाहून हसत पडली होती. त्याने तिचे नाव सीता ठेवले, तासातून जन्मलेली, आणि तिला स्वतःच्या मुलीसारखे प्रेम दिले.\n\nआता सीता मोठी झाली होती, सौम्य आणि निर्भय. जनकाने जाहीर केले की जो शिवाच्या महान धनुष्याला प्रत्यंचा लावील, तोच तिच्याशी विवाह करील.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kings who failed",
+    "hi": {
+     "text": "असफल राजा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अपयशी राजे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The bow was kept on an iron cart with eight wheels, and it took five thousand men to pull it. Kings had come from every land. They had strained and sweated, and not one of them could even lift it. Some had left in shame; some had grown angry.\n\nWhen Vishwamitra arrived with the two princes, Janaka sighed. “They are young,” he said. “But let Rama look at the bow.”",
+    "hi": {
+     "text": "वह धनुष आठ पहियों वाली लोहे की गाड़ी पर रखा था, जिसे पाँच हज़ार लोग खींचते थे। हर देश से राजा आए थे। उन्होंने ज़ोर लगाया, पसीना बहाया, पर कोई उसे उठा तक न सका। कुछ लज्जित होकर लौट गए, कुछ क्रोधित हो उठे।\n\nजब विश्वामित्र दोनों राजकुमारों के साथ पहुँचे, तो जनक ने आह भरी। “ये तो अभी बालक हैं,” उन्होंने कहा। “फिर भी राम धनुष को देख तो लें।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते धनुष्य आठ चाकांच्या लोखंडी गाडीवर ठेवले होते आणि ती ओढायला पाच हजार माणसे लागत. प्रत्येक देशातून राजे आले होते. त्यांनी जोर लावला, घाम गाळला, पण त्यांच्यापैकी एकालाही ते उचलता आले नाही. काही लाजेने निघून गेले, काही रागावले.\n\nविश्वामित्र दोन राजकुमारांसह आले तेव्हा जनकाने उसासा टाकला. “ते तर कोवळे आहेत,” तो म्हणाला. “पण रामाने धनुष्य पाहू दे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sound of thunder",
+    "hi": {
+     "text": "बिजली की गड़गड़ाहट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विजेचा कडकडाट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The court went silent. Rama bowed to his teacher, then to the bow. He lifted it as easily as a garland, bent it, and drew the string back to his ear.\n\nWith a crack like a thunderbolt the mighty bow broke in two. The sound shook the hall; people fell to the ground in shock. Only Vishwamitra, Janaka and the two princes stayed on their feet. Then the silence broke into cheering.",
+    "hi": {
+     "text": "सभा में सन्नाटा छा गया। राम ने पहले गुरु को प्रणाम किया, फिर धनुष को। उन्होंने उसे फूलों की माला की तरह सहज उठा लिया, झुकाया, और प्रत्यंचा कान तक खींच ली।\n\nवज्र जैसी कड़क के साथ विशाल धनुष दो टुकड़े हो गया। उस ध्वनि से सभा काँप उठी, लोग भय से धरती पर गिर पड़े। केवल विश्वामित्र, जनक और दोनों राजकुमार खड़े रहे। फिर सन्नाटा जयघोष में बदल गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दरबार स्तब्ध झाला. रामाने गुरूंना वंदन केले, मग धनुष्याला. त्याने ते फुलांच्या हारासारखे सहज उचलले, वाकवले आणि प्रत्यंचा कानापर्यंत ओढली.\n\nवज्राच्या कडकडाटासारख्या आवाजाने ते महान धनुष्य दोन तुकडे झाले. त्या आवाजाने सभागृह हादरले; लोक धक्क्याने जमिनीवर कोसळले. फक्त विश्वामित्र, जनक आणि दोन राजकुमार पायावर उभे राहिले. मग शांतता फुटली आणि जयजयकार घुमला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The garland",
+    "hi": {
+     "text": "जयमाला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वरमाला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sita walked forward, holding a garland of flowers. Their eyes met. Poets have spent centuries trying to describe that moment and say that it was as if two old souls recognised each other.\n\nMessengers raced to Ayodhya. Dasharatha arrived with a great procession, and in one joyful ceremony four brothers married four sisters and cousins: Rama and Sita, Lakshmana and Urmila, Bharata and Mandavi, Shatrughna and Shrutakirti.",
+    "hi": {
+     "text": "सीता हाथों में फूलों की माला लिए आगे बढ़ीं। दोनों की आँखें मिलीं। कवि सदियों से उस क्षण का वर्णन करने का प्रयास करते आए हैं, और कहते हैं कि मानो दो पुरानी आत्माओं ने एक-दूसरे को पहचान लिया हो।\n\nदूत दौड़कर अयोध्या पहुँचे। दशरथ विशाल बारात लेकर आए, और एक ही आनंदमय समारोह में चार भाइयों का विवाह चार बहनों और चचेरी बहनों से हुआ: राम का सीता से, लक्ष्मण का उर्मिला से, भरत का मांडवी से, और शत्रुघ्न का श्रुतकीर्ति से।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीता हातात फुलांची माला घेऊन पुढे आली. त्यांच्या नजरा भेटल्या. कवींनी शतकानुशतके त्या क्षणाचे वर्णन करण्याचा प्रयत्न केला आणि म्हटले की जणू दोन जुन्या आत्म्यांनी एकमेकांना ओळखले.\n\nदूत अयोध्येकडे धावले. दशरथ मोठ्या मिरवणुकीसह आला आणि एकाच आनंदी सोहळ्यात चार भावांचे चार बहिणींशी लग्न झाले: राम आणि सीता, लक्ष्मण आणि उर्मिला, भरत आणि मांडवी, शत्रुघ्न आणि श्रुतकीर्ती.",
+     "reviewed": false
+    }
+   },
+   "image": 2
+  },
+  {
+   "title": {
+    "en": "The angry warrior-sage",
+    "hi": {
+     "text": "क्रोधित योद्धा-ऋषि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रागावलेला योद्धा ऋषी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the road home the sky turned dark, and the fierce warrior-sage Parashurama blocked their way, axe on his shoulder. “You broke Shiva's bow? Then string this bow of Vishnu, if you can!”\n\nRama calmly took the bow, strung it in one smooth motion and fitted an arrow. Parashurama's anger melted into wonder. He understood who stood before him, bowed, and walked away into the mountains. Ayodhya welcomed its princes and their brides with lamps in every window.",
+    "hi": {
+     "text": "घर लौटते समय आकाश काला पड़ गया, और उग्र योद्धा-ऋषि परशुराम कंधे पर फरसा रखे उनका मार्ग रोककर खड़े हो गए। “तुमने शिवजी का धनुष तोड़ा? तो विष्णु के इस धनुष पर प्रत्यंचा चढ़ाओ, यदि कर सको!”\n\nराम ने शांति से धनुष लिया, एक ही सहज गति में प्रत्यंचा चढ़ाई और बाण संधान कर दिया। परशुराम का क्रोध विस्मय में पिघल गया। वे समझ गए कि सामने कौन खड़ा है, उन्होंने प्रणाम किया और पर्वतों की ओर चले गए। अयोध्या ने अपने राजकुमारों और उनकी वधुओं का स्वागत हर खिड़की में दीप जलाकर किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "घरी परतताना आकाश काळवंडले आणि कठोर योद्धा ऋषी परशुराम खांद्यावर कुऱ्हाड घेऊन त्यांचा रस्ता अडवून उभे राहिले. “तू शिवाचे धनुष्य मोडलेस? मग हे विष्णूचे धनुष्य चढवून दाखव, जमले तर!”\n\nरामाने शांतपणे धनुष्य घेतले, एकाच सहज हालचालीत प्रत्यंचा चढवली आणि बाण लावला. परशुरामांचा राग विरून आश्चर्य उरले. समोर कोण उभा आहे हे त्यांना कळले, त्यांनी नमस्कार केला आणि ते पर्वतांत निघून गेले. अयोध्येने आपल्या राजकुमारांचे आणि त्यांच्या वधूंचे स्वागत प्रत्येक खिडकीत दिवे लावून केले.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "reflect": {
+  "en": "Rama lifted the bow without boasting and faced Parashurama without anger. When you succeed today, try to be quietly grateful instead of proud.",
+  "hi": {
+   "text": "राम ने धनुष बिना अभिमान के उठाया और परशुराम का सामना बिना क्रोध के किया। आज जब आपको सफलता मिले, तो गर्व के बजाय चुपचाप कृतज्ञ होने का प्रयास कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रामाने धनुष्य गर्व न करता उचलले आणि परशुरामांना रागाविना सामोरा गेला. आज तुम्हाला यश मिळाले तर अभिमान बाळगण्याऐवजी शांतपणे कृतज्ञ राहण्याचा प्रयत्न करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "True strength is calm, humble and never needs to show off.",
+  "hi": {
+   "text": "सच्चा बल शांत और विनम्र होता है, उसे कभी दिखावे की ज़रूरत नहीं पड़ती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरे बळ शांत आणि नम्र असते, त्याला दाखवण्याची गरज नसते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Bala Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, बालकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, बालकांड",
+   "reviewed": false
+  }
+ }
+}

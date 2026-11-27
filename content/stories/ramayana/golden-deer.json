@@ -1,0 +1,280 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "golden-deer",
+ "order": 7,
+ "part": "aranya",
+ "figure": {
+  "en": "Sita",
+  "hi": {
+   "text": "सीता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीता",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The golden deer",
+  "hi": {
+   "text": "स्वर्ण मृग",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सोनेरी हरिण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A shimmering deer with silver spots appears outside the hut. It is the most beautiful creature Sita has ever seen. It is a trap.",
+  "hi": {
+   "text": "कुटिया के बाहर चाँदी के चकत्तों वाला एक झिलमिलाता हिरण आता है। सीता ने इससे सुंदर प्राणी कभी नहीं देखा। यह एक जाल है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुटीबाहेर चांदीच्या ठिपक्यांचे चमचमते हरिण येते. सीतेने पाहिलेला तो सर्वात सुंदर प्राणी असतो. तो एक सापळा आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/1.webp",
+   "w": 780,
+   "h": 1100,
+   "caption": {
+    "en": "Sita longs for the golden deer (Ravi Varma Press print, about 1910)",
+    "hi": {
+     "text": "सीता स्वर्ण मृग को देखती हैं (रवि वर्मा प्रेस का चित्र, लगभग 1910)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीता सुवर्ण मृगाकडे पाहते (रवि वर्मा प्रेसचे चित्र, सुमारे 1910)",
+     "reviewed": false
+    }
+   },
+   "credit": "Ravi Varma Press, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sita_longs_for_the_golden_deer,_in_a_print_from_the_Ravi_Varma_Press,_c.1910%27s.jpg"
+  },
+  {
+   "src": "/stories/ramayana/golden-deer-1.webp",
+   "w": 1200,
+   "h": 819,
+   "caption": {
+    "en": "Ravana comes to Sita disguised as a holy man (Rajasthani painting)",
+    "hi": {
+     "text": "रावण साधु के वेश में सीता के पास आता है (राजस्थानी चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावण साधूच्या वेशात सीतेकडे येतो (राजस्थानी चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ravana_comes_in_disguise_with_a_begging_bowl_to_abduct_Sita.jpg"
+  },
+  {
+   "src": "/stories/ramayana/golden-deer-2.webp",
+   "w": 764,
+   "h": 1100,
+   "caption": {
+    "en": "Jatayu fights Ravana to save Sita (Raja Ravi Varma)",
+    "hi": {
+     "text": "सीता को बचाने के लिए जटायु रावण से लड़ते हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेला वाचवण्यासाठी जटायू रावणाशी लढतो (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Ravana_Sita_Jathayu.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Life in Panchavati",
+    "hi": {
+     "text": "पंचवटी का जीवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पंचवटीतील जीवन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After years of wandering among sages, Rama, Sita and Lakshmana settled at Panchavati on the Godavari river. Lakshmana built a lovely hut. Peacocks danced, deer came close without fear, and the river sang all night.\n\nOne day a rakshasi, a demon woman named Shurpanakha, saw Rama and wanted him. When he refused her, she turned on Sita in rage, and Lakshmana drove her away, wounded. Shurpanakha flew, screaming, to her brother. His name was Ravana.",
+    "hi": {
+     "text": "ऋषियों के बीच वर्षों घूमने के बाद राम, सीता और लक्ष्मण ने गोदावरी के तट पर पंचवटी में बसेरा किया। लक्ष्मण ने सुंदर कुटिया बनाई। मोर नाचते, हिरण निर्भय होकर पास आते, और नदी रात भर गीत गाती।\n\nएक दिन शूर्पणखा नाम की राक्षसी ने राम को देखा और उन्हें पाना चाहा। जब राम ने मना किया, तो वह क्रोध में सीता पर झपटी, और लक्ष्मण ने उसे घायल करके भगा दिया। शूर्पणखा चीखती हुई अपने भाई के पास उड़ चली। उसका नाम रावण था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ऋषींच्या आश्रमांतून अनेक वर्षे भटकल्यानंतर राम, सीता आणि लक्ष्मण गोदावरीच्या काठी पंचवटीत स्थिरावले. लक्ष्मणाने सुंदर कुटी बांधली. मोर नाचत, हरणे निर्भयपणे जवळ येत आणि नदी रात्रभर गुणगुणत राही.\n\nएके दिवशी शूर्पणखा नावाच्या राक्षसीने रामाला पाहिले आणि तिला तो हवासा वाटला. त्याने नकार देताच संतापून ती सीतेवर धावली आणि लक्ष्मणाने तिला जखमी करून हाकलले. शूर्पणखा ओरडत आपल्या भावाकडे गेली. त्याचे नाव रावण.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Ravana's plan",
+    "hi": {
+     "text": "रावण की चाल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाचा डाव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana, the ten-headed king of golden Lanka, was brilliant, mighty and proud. When he heard of Sita's beauty, desire filled him. He went to the old demon Maricha, the same one Rama's arrow had once flung into the sea.\n\nMaricha trembled. “Do not challenge Rama,” he warned. “He is dharma itself in human form.” But Ravana threatened to kill him. With a heavy heart, Maricha agreed.",
+    "hi": {
+     "text": "सोने की लंका का दस सिरों वाला राजा रावण प्रतिभाशाली, बलशाली और अभिमानी था। जब उसने सीता के सौंदर्य के बारे में सुना, तो उसके मन में लालसा जाग उठी। वह बूढ़े राक्षस मारीच के पास गया, वही जिसे राम के बाण ने कभी समुद्र में फेंक दिया था।\n\nमारीच काँप उठा। “राम से बैर मत लो,” उसने चेताया। “वे मनुष्य रूप में स्वयं धर्म हैं।” पर रावण ने उसे मार डालने की धमकी दी। भारी मन से मारीच मान गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सोन्याच्या लंकेचा दहा मस्तकांचा राजा रावण बुद्धिमान, बलवान आणि गर्विष्ठ होता. सीतेच्या सौंदर्याबद्दल ऐकताच त्याच्या मनात मोह उसळला. तो त्या वृद्ध राक्षसाकडे, मारीचाकडे गेला, ज्याला रामाच्या बाणाने एकदा समुद्रात फेकले होते.\n\nमारीच थरथरला. “रामाशी वैर करू नकोस,” त्याने इशारा दिला. “तो मनुष्यरूपातला साक्षात धर्म आहे.” पण रावणाने त्याला मारण्याची धमकी दिली. जड अंतःकरणाने मारीचाने होकार दिला.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The shimmering deer",
+    "hi": {
+     "text": "झिलमिलाता मृग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चमचमते हरिण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "That morning, Sita was gathering flowers when she saw it: a golden deer, its skin glowing like the sun, its horns tipped with jewels, silver spots on its flanks. It nibbled leaves, came close, then leapt away.\n\n“Please catch it for me,” Sita begged. Lakshmana frowned. “No real deer looks like that. It is a demon.” But Rama saw the longing in Sita's eyes. “Guard her, Lakshmana,” he said, and took his bow.",
+    "hi": {
+     "text": "उस सुबह सीता फूल चुन रही थीं कि उन्होंने उसे देखा: एक सोने का हिरण, जिसकी खाल सूर्य जैसी दमक रही थी, सींगों पर रत्न जड़े थे, और बगल में चाँदी के चकत्ते थे। वह पत्ते कुतरता, पास आता, फिर कूदकर दूर चला जाता।\n\n“कृपया इसे मेरे लिए पकड़ लाइए,” सीता ने विनती की। लक्ष्मण ने भौंहें सिकोड़ीं। “कोई असली हिरण ऐसा नहीं होता। यह राक्षस है।” पर राम ने सीता की आँखों में चाह देखी। “लक्ष्मण, इनकी रक्षा करना,” उन्होंने कहा और धनुष उठा लिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या सकाळी सीता फुले गोळा करत असताना तिने ते पाहिले: सोनेरी हरिण, त्याचे अंग सूर्यासारखे चमकत होते, शिंगांवर रत्ने आणि कुशीत चांदीचे ठिपके. ते पाने कुरतडत जवळ आले आणि मग उड्या मारत दूर गेले.\n\n“कृपा करून ते मला पकडून द्या,” सीतेने विनवले. लक्ष्मणाने कपाळाला आठ्या घातल्या. “असे हरिण खरे नसते. तो राक्षस आहे.” पण रामाने सीतेच्या डोळ्यांतली आस पाहिली. “लक्ष्मणा, तिचे रक्षण कर,” तो म्हणाला आणि धनुष्य घेऊन निघाला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A false cry",
+    "hi": {
+     "text": "झूठी पुकार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खोटी हाक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The deer led Rama deep into the forest, now near, now far. At last Rama's arrow struck it. As it died, Maricha took his true form and cried out in Rama's own voice: “Ha Sita! Ha Lakshmana!”\n\nBack at the hut, Sita heard the cry and went white. “Go! Your brother is in danger!” Lakshmana insisted no one could hurt Rama. Sita, wild with fear, said terrible things. Hurt and helpless, Lakshmana left her alone and ran into the trees.",
+    "hi": {
+     "text": "हिरण राम को घने वन में ले गया, कभी पास, कभी दूर। आख़िर राम का बाण उसे लगा। मरते समय मारीच अपने असली रूप में आ गया और राम की ही आवाज़ में चिल्लाया: “हा सीते! हा लक्ष्मण!”\n\nकुटिया में सीता ने वह पुकार सुनी और उनका चेहरा सफ़ेद पड़ गया। “जाओ! तुम्हारे भाई संकट में हैं!” लक्ष्मण ने कहा कि राम को कोई हानि नहीं पहुँचा सकता। भय से व्याकुल सीता ने कठोर शब्द कह दिए। आहत और विवश लक्ष्मण उन्हें अकेला छोड़कर वृक्षों के बीच दौड़ गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हरिणाने रामाला वनात खोलवर नेले, कधी जवळ, कधी दूर. शेवटी रामाचा बाण त्याला लागला. मरताना मारीचाने आपले खरे रूप घेतले आणि रामाच्याच आवाजात ओरडला: “हा सीते! हा लक्ष्मणा!”\n\nकुटीत सीतेने ती हाक ऐकली आणि ती पांढरीफटक पडली. “जा! तुझा भाऊ संकटात आहे!” लक्ष्मणाने सांगितले की रामाला कुणी इजा करू शकत नाही. भीतीने वेडी झालेली सीता भयंकर शब्द बोलली. दुखावलेला आणि हतबल लक्ष्मण तिला एकटीला सोडून झाडीत धावला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The beggar at the door, and Jatayu",
+    "hi": {
+     "text": "द्वार पर भिक्षुक, और जटायु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दारावरचा भिक्षुक आणि जटायू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A holy man in saffron robes appeared at the door, asking for alms. Sita welcomed him kindly. Then he threw off his disguise: it was Ravana. He seized Sita, pulled her into his flying chariot and rose into the sky.\n\nSita screamed for help. Old Jatayu, king of the vultures and a friend of Dasharatha, heard her. Though he was very old, he flew straight at Ravana, smashed his chariot and fought with beak and claws. Ravana's sword cut off his wings. As the chariot sped south, Sita dropped her jewels to the earth, one by one, a trail for Rama to follow.",
+    "hi": {
+     "text": "भगवा वस्त्र पहने एक साधु द्वार पर भिक्षा माँगने आया। सीता ने उसका आदर से स्वागत किया। तभी उसने वेश उतार फेंका: वह रावण था। उसने सीता को पकड़ा, अपने उड़ने वाले रथ में खींच लिया और आकाश में उठ गया।\n\nसीता ने सहायता के लिए पुकारा। गिद्धों के राजा बूढ़े जटायु, दशरथ के मित्र, ने उनकी चीख सुनी। अत्यंत वृद्ध होकर भी वे सीधे रावण पर झपटे, उसका रथ चकनाचूर कर दिया और चोंच-पंजों से लड़े। रावण की तलवार ने उनके पंख काट दिए। रथ दक्षिण की ओर भागा तो सीता ने अपने गहने एक-एक करके धरती पर गिरा दिए, राम के लिए पथ-चिह्न की तरह।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भगव्या वस्त्रातील एक साधू भिक्षा मागत दारात आला. सीतेने त्याचे प्रेमाने स्वागत केले. मग त्याने वेश फेकला: तो रावण होता. त्याने सीतेला पकडले, आपल्या उडत्या रथात ओढले आणि आकाशात झेप घेतली.\n\nसीतेने मदतीसाठी आरोळी ठोकली. दशरथाचा मित्र, गिधाडांचा राजा वृद्ध जटायू याने ती ऐकली. तो अगदी म्हातारा असूनही सरळ रावणावर झेपावला, त्याचा रथ फोडला आणि चोचीने व नखांनी लढला. रावणाच्या तलवारीने त्याचे पंख तोडले. रथ दक्षिणेकडे धावत असताना सीतेने रामाला वाट मिळावी म्हणून आपले दागिने एकेक करून जमिनीवर टाकले.",
+     "reviewed": false
+    }
+   },
+   "image": 2
+  }
+ ],
+ "verse": {
+  "text": "रामो विग्रहवान् धर्मः साधुः सत्यपराक्रमः।\nराजा सर्वस्य लोकस्य देवानामिव वासवः॥",
+  "cite": {
+   "en": "Valmiki Ramayana, Aranya Kanda 37.13 (Maricha's warning)",
+   "hi": {
+    "text": "वाल्मीकि रामायण, अरण्यकांड 37.13 (मारीच की चेतावनी)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वाल्मीकी रामायण, अरण्यकांड 37.13 (मारीचाचा इशारा)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Rama is dharma in human form: good, truly brave, a king of the whole world as Indra is of the gods.",
+   "hi": {
+    "text": "राम धर्म के साक्षात् रूप हैं: सज्जन, सच्चे पराक्रमी, और सारे संसार के राजा, जैसे देवताओं के राजा इंद्र हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "राम हा मनुष्यरूपातला धर्म आहे: सज्जन, खरा पराक्रमी, देवांचा इंद्र जसा, तसा सर्व जगाचा राजा.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "The golden deer was beautiful, and it led to great loss. What shiny thing pulls at you right now? Ask yourself once: do I need it, or do I just want it?",
+  "hi": {
+   "text": "स्वर्ण मृग सुंदर था, और उसी ने भारी क्षति करवाई। अभी कौन-सी चमकती चीज़ आपको खींच रही है? एक बार स्वयं से पूछिए: क्या मुझे इसकी ज़रूरत है, या बस चाह है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सोनेरी हरिण सुंदर होते आणि त्याने मोठी हानी घडवली. आता कोणती चकचकीत गोष्ट तुम्हाला ओढत आहे? स्वतःला एकदा विचारा: मला ती गरजेची आहे की मला फक्त हवीशी वाटते?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Not everything that glitters is good, and true friends like Jatayu stand up for what is right whatever it costs them.",
+  "hi": {
+   "text": "जो चमकता है वह सब अच्छा नहीं होता, और जटायु जैसे सच्चे मित्र, चाहे कुछ भी कीमत चुकानी पड़े, सही के पक्ष में खड़े रहते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चमकते ते सर्व सोने नसते आणि जटायूसारखे खरे मित्र, काहीही किंमत मोजावी लागली तरी, योग्य गोष्टीसाठी उभे राहतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Aranya Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, अरण्यकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, अरण्यकांड",
+   "reviewed": false
+  }
+ }
+}

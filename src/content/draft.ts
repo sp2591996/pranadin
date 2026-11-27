@@ -165,15 +165,20 @@ const storyImage = z.object({
   source: z.url(),
 });
 
+/**
+ * One chapter of a story collection (D-040). Lives in content/stories/<collection>/<id>.json.
+ * Scene text may hold paragraphs separated by a blank line.
+ */
 export const storySchema = z.object({
   $schema: z.literal(CONTENT_SCHEMA_ID),
   namespace: z.literal("story"),
   version: z.string().min(1),
   status: z.string().min(1),
   id: z.string().regex(/^[a-z0-9-]+$/),
-  tradition: z.enum(STORY_TRADITIONS),
-  region: z.enum(STORY_REGIONS),
+  /** Chapter order inside the collection. */
   order: z.number().int(),
+  /** Part of the collection (e.g. a kanda); must be one of the collection's parts. */
+  part: z.string().optional(),
   /** Yatra place id and festival id, for cross-links (optional). */
   place: z.string().optional(),
   festival: z.string().optional(),
@@ -184,10 +189,39 @@ export const storySchema = z.object({
   scenes: z
     .array(z.object({ title: localizedText, text: localizedText, image: z.number().int().min(0).optional() }))
     .min(3),
+  /** A verse in the original language (not translated), with where it is from and its meaning. */
+  verse: z.object({ text: z.string().min(1), cite: localizedText, meaning: localizedText }).optional(),
+  /** "Pause and reflect": a short question or practice for the reader. */
+  reflect: localizedText.optional(),
   lesson: localizedText,
   source: localizedText,
 });
 export type StoryFile = z.infer<typeof storySchema>;
+
+/** Story collections ("clubs", D-040): Ramayana, Mahabharata, Gurucharitra and so on. */
+export const storyClubsSchema = z.object({
+  $schema: z.literal(CONTENT_SCHEMA_ID),
+  namespace: z.literal("story-clubs"),
+  version: z.string().min(1),
+  status: z.string().min(1),
+  clubs: z.array(
+    z.object({
+      id: z.string().regex(/^[a-z0-9-]+$/),
+      order: z.number().int(),
+      tradition: z.enum(STORY_TRADITIONS),
+      region: z.enum(STORY_REGIONS),
+      title: localizedText,
+      subtitle: localizedText,
+      intro: localizedText,
+      /** Chapter whose first picture is the collection cover (default: chapter 1). */
+      cover: z.string().optional(),
+      /** More chapters are being written. */
+      growing: z.boolean().default(false),
+      parts: z.array(z.object({ id: z.string().regex(/^[a-z0-9-]+$/), title: localizedText })).default([]),
+    }),
+  ),
+});
+export type StoryClubsFile = z.infer<typeof storyClubsSchema>;
 
 export const storiesUiSchema = z.object({
   $schema: z.literal(CONTENT_SCHEMA_ID),

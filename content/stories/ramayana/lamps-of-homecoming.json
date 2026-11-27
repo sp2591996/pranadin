@@ -1,0 +1,256 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "lamps-of-homecoming",
+ "order": 15,
+ "part": "yuddha",
+ "festival": "diwali",
+ "figure": {
+  "en": "Rama, Sita and Bharata",
+  "hi": {
+   "text": "राम, सीता और भरत",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राम, सीता आणि भरत",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Lamps of homecoming",
+  "hi": {
+   "text": "घर वापसी के दीप",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "घरवापसीचे दिवे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Fourteen years end tomorrow. In Nandigram, Bharata has prepared the fire. Will Rama arrive in time?",
+  "hi": {
+   "text": "चौदह वर्ष कल पूरे होते हैं। नंदिग्राम में भरत ने अग्नि तैयार कर ली है। क्या राम समय पर पहुँचेंगे?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चौदा वर्षे उद्या संपत आहेत. नंदिग्राममध्ये भरताने अग्नी सज्ज केला आहे. राम वेळेवर पोहोचेल का?",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/3.webp",
+   "w": 715,
+   "h": 1024,
+   "caption": {
+    "en": "Bharata welcomes Rama, Sita, Lakshmana and Hanuman home (Raja Ravi Varma)",
+    "hi": {
+     "text": "भरत राम, सीता, लक्ष्मण और हनुमान का स्वागत करते हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भरत राम, सीता, लक्ष्मण आणि हनुमानाचे स्वागत करतात (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma (1848-1906), Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bharata_welcoming_Rama,_Sita,_Lakshmana_and_Hanuman_to_Ayodhya_by_Raja_Ravi_Varma.jpg"
+  },
+  {
+   "src": "/stories/ramayana/lamps-of-homecoming-1.webp",
+   "w": 1200,
+   "h": 819,
+   "caption": {
+    "en": "Rama, Sita and Lakshmana fly home to Ayodhya (Rajasthani painting)",
+    "hi": {
+     "text": "राम, सीता और लक्ष्मण अयोध्या की ओर उड़ते हैं (राजस्थानी चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम, सीता आणि लक्ष्मण अयोध्येकडे उडत जातात (राजस्थानी चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rama_and_Sita,_with_Lakshmana_returning_to_Ayodhya.jpg"
+  },
+  {
+   "src": "/stories/ramayana/lamps-of-homecoming-3.webp",
+   "w": 1200,
+   "h": 725,
+   "caption": {
+    "en": "Ayodhya welcomes its king (Indian painting)",
+    "hi": {
+     "text": "अयोध्या अपने राजा का स्वागत करती है (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अयोध्या आपल्या राजाचे स्वागत करते (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rama_welcomed.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Sita is free",
+    "hi": {
+     "text": "सीता मुक्त हुईं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीता मुक्त झाली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hanuman ran to the Ashoka grove with the news. Sita's face lit up like the moon coming out of clouds. “What gift can I give you for such words?” she asked. “There is no treasure on earth worth this news.”\n\nVibhishana brought her to Rama in fine clothes. Valmiki tells that Sita then passed through the fire, and the fire god himself rose from the flames carrying her, unburnt, and declared her pure. Devotees understand it as truth shining out for the world to see.",
+    "hi": {
+     "text": "हनुमान समाचार लेकर अशोक वाटिका दौड़े। बादलों से निकले चाँद की तरह सीता का मुख खिल उठा। “ऐसे शब्दों के बदले मैं तुम्हें क्या दूँ?” उन्होंने कहा। “इस समाचार के बराबर धरती पर कोई खज़ाना नहीं।”\n\nविभीषण उन्हें सुंदर वस्त्र पहनाकर राम के पास लाए। वाल्मीकि बताते हैं कि तब सीता ने अग्नि में प्रवेश किया, और स्वयं अग्निदेव ज्वालाओं से उन्हें अक्षत उठाए प्रकट हुए और उन्हें पवित्र घोषित किया। भक्त इसे सत्य का संसार के सामने चमक उठना मानते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमान बातमी घेऊन अशोकवनात धावला. ढगांतून चंद्र बाहेर यावा तसा सीतेचा चेहरा उजळला. “अशा शब्दांसाठी मी तुला काय देऊ?” ती म्हणाली. “या बातमीच्या बरोबरीचे कोणतेही धन पृथ्वीवर नाही.”\n\nबिभीषणाने तिला सुंदर वस्त्रांत रामासमोर आणले. वाल्मीकी सांगतात की सीतेने मग अग्निपरीक्षा दिली आणि स्वतः अग्निदेव ज्वाळांतून तिला अक्षत उचलून बाहेर आले आणि तिला शुद्ध घोषित केले. भक्त याचा अर्थ असा घेतात की जगासमोर सत्य तेजाने उजळले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The flying chariot",
+    "hi": {
+     "text": "उड़ता रथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उडता रथ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The fourteen years were almost over. Vibhishana offered the Pushpaka Vimana, the flying chariot of flowers. Rama, Sita, Lakshmana, Sugriva, Hanuman, Vibhishana and the monkey chiefs climbed aboard.\n\nAs they flew north, Rama pointed out everything to Sita: “There is the bridge. There is where I wept for you. There is Kishkindha. There is Panchavati, where you were taken.” Their whole journey passed beneath them like a story told backwards.",
+    "hi": {
+     "text": "चौदह वर्ष लगभग पूरे हो चुके थे। विभीषण ने पुष्पक विमान प्रस्तुत किया, फूलों का उड़ता रथ। राम, सीता, लक्ष्मण, सुग्रीव, हनुमान, विभीषण और वानर सरदार उस पर सवार हुए।\n\nजैसे वे उत्तर की ओर उड़े, राम सीता को सब कुछ दिखाते गए: “वह सेतु है। वहाँ मैं तुम्हारे लिए रोया था। वह किष्किंधा है। वह पंचवटी है, जहाँ से तुम्हें ले जाया गया।” उनकी पूरी यात्रा नीचे से ऐसे गुज़र रही थी जैसे उलटी सुनाई जा रही कथा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चौदा वर्षे जवळजवळ संपली होती. बिभीषणाने पुष्पक विमान, फुलांचा उडता रथ, देऊ केला. राम, सीता, लक्ष्मण, सुग्रीव, हनुमान, बिभीषण आणि वानर प्रमुख त्यात बसले.\n\nउत्तरेकडे उडताना रामाने सीतेला सर्व काही दाखवले: “तो बघ सेतू. तिथे मी तुझ्यासाठी रडलो. ते किष्किंधा. तो पंचवटी, जिथून तुला नेले.” त्यांचा सारा प्रवास त्यांच्या खाली उलट्या सांगितलेल्या कथेसारखा सरकत होता.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Hanuman races ahead",
+    "hi": {
+     "text": "हनुमान आगे दौड़े",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमान पुढे धावतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Rama remembered Bharata's vow: if Rama was late by even one day, he would enter the fire. “Hanuman, fly ahead! Tell Bharata I am coming.”\n\nHanuman found Bharata in Nandigram, thin, in bark clothes, the sandals before him, preparing to keep his vow. When he heard the news, Bharata wept and laughed, and said: “Whatever I can give you, I will. You have given me back my life.”",
+    "hi": {
+     "text": "राम को भरत की प्रतिज्ञा याद आई: यदि राम एक दिन भी देर करें, तो वे अग्नि में प्रवेश कर लेंगे। “हनुमान, आगे उड़ो! भरत से कहो कि मैं आ रहा हूँ।”\n\nहनुमान ने भरत को नंदिग्राम में पाया, दुबले, वल्कल पहने, सामने पादुकाएँ रखे, अपनी प्रतिज्ञा पूरी करने की तैयारी करते हुए। समाचार सुनकर भरत रोए भी, हँसे भी, और बोले: “मैं तुम्हें जो भी दे सकता हूँ, दूँगा। तुमने मुझे मेरा जीवन लौटा दिया।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामाला भरताची प्रतिज्ञा आठवली: राम एक दिवस जरी उशिरा आला तरी तो अग्नीत प्रवेश करेल. “हनुमाना, पुढे उडत जा! भरताला सांग मी येत आहे.”\n\nहनुमानाला नंदिग्राममध्ये भरत सापडला, कृश, वल्कलधारी, समोर पादुका, आपले व्रत पाळण्याच्या तयारीत. बातमी ऐकताच भरत रडला आणि हसला, आणि म्हणाला: “मी तुला जे काही देऊ शकतो ते देईन. तू मला माझे प्राण परत दिलेस.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A city of lights",
+    "hi": {
+     "text": "दीपों का नगर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिव्यांची नगरी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ayodhya exploded with joy. People swept and washed the streets, scattered flowers and hung garlands. As night fell on the new-moon day, every home lit rows of clay lamps, so that the city glowed and Rama could see his way home.\n\nThat is why, every year, on the darkest night of Kartika, India lights its lamps for Diwali: to welcome Rama home, and to remember that light returns after even the darkest night.",
+    "hi": {
+     "text": "अयोध्या आनंद से उमड़ पड़ी। लोगों ने गलियाँ बुहारीं और धोईं, फूल बिखेरे और बंदनवार लगाए। अमावस्या की रात होते ही हर घर में मिट्टी के दीपों की पंक्तियाँ जल उठीं, ताकि नगर जगमगाए और राम को घर का मार्ग दिखे।\n\nइसीलिए हर वर्ष कार्तिक की सबसे अँधेरी रात को भारत दिवाली पर दीप जलाता है: राम का घर में स्वागत करने के लिए, और यह याद रखने के लिए कि सबसे घनी रात के बाद भी प्रकाश लौट आता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अयोध्या आनंदाने उसळली. लोकांनी रस्ते झाडले आणि धुतले, फुले पसरली आणि तोरणे लावली. अमावास्येच्या दिवशी रात्र पडताच प्रत्येक घराने मातीच्या पणत्यांच्या रांगा लावल्या, नगरी उजळली आणि रामाला घरी येण्याचा मार्ग दिसला.\n\nम्हणूनच दरवर्षी कार्तिकातल्या सर्वात काळ्याकुट्ट रात्री भारत दिवाळीला दिवे लावतो: रामाचे घरी स्वागत करण्यासाठी आणि सर्वात गडद रात्रीनंतरही प्रकाश परत येतो याची आठवण ठेवण्यासाठी.",
+     "reviewed": false
+    }
+   },
+   "image": 2
+  },
+  {
+   "title": {
+    "en": "Rama Rajya",
+    "hi": {
+     "text": "रामराज्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामराज्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Bharata placed the sandals back on Rama's feet. “The kingdom you trusted me with I return to you, ten times greater.” Then Rama was crowned king, with Sita beside him.\n\nValmiki says that in Rama's reign no one died young, there was no disease, no famine, no fear. Rains came on time and people lived in harmony. Even today, a good and just government is called Rama Rajya. Hanuman, given a precious pearl necklace by Sita, took only one thing as his reward: to live as long as Rama's story is told.",
+    "hi": {
+     "text": "भरत ने पादुकाएँ फिर राम के चरणों में पहनाईं। “आपने मुझे जो राज्य सौंपा था, वह मैं आपको दस गुना बढ़ाकर लौटाता हूँ।” फिर सीता के साथ राम का राज्याभिषेक हुआ।\n\nवाल्मीकि कहते हैं कि राम के राज में कोई अकाल नहीं मरा, न रोग था, न दुर्भिक्ष, न भय। वर्षा समय पर होती और लोग मेल से रहते। आज भी अच्छे और न्यायपूर्ण शासन को रामराज्य कहा जाता है। सीता ने हनुमान को मोतियों का बहुमूल्य हार दिया, पर उन्होंने पुरस्कार में केवल एक बात माँगी: जब तक राम की कथा कही जाए, तब तक जीवित रहना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भरताने पादुका रामाच्या पायात पुन्हा घातल्या. “तुम्ही माझ्यावर विश्वासाने सोपवलेले राज्य मी दसपट वाढवून तुम्हाला परत करतो.” मग सीता शेजारी असताना रामाचा राज्याभिषेक झाला.\n\nवाल्मीकी सांगतात की रामाच्या राज्यात कुणीही तरुणपणी मेले नाही, रोग नव्हता, दुष्काळ नव्हता, भीती नव्हती. पाऊस वेळेवर आला आणि लोक सुसंवादाने राहिले. आजही चांगल्या आणि न्यायी शासनाला रामराज्य म्हणतात. सीतेने मोत्यांचा मौल्यवान हार दिला असता हनुमानाने बक्षीस म्हणून फक्त एकच गोष्ट घेतली: जोवर रामकथा सांगितली जाईल तोवर जगण्याचे वरदान.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Ayodhya lit lamps so Rama could find his way home. Tonight, light one lamp or candle and silently welcome back something good you have been missing in yourself.",
+  "hi": {
+   "text": "अयोध्या ने दीप जलाए ताकि राम घर का रास्ता पा सकें। आज रात एक दीया या मोमबत्ती जलाइए और चुपचाप अपने भीतर के किसी खोए हुए शुभ को वापस बुलाइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रामाला घरी येण्याचा मार्ग दिसावा म्हणून अयोध्येने दिवे लावले. आज रात्री एक दिवा किंवा मेणबत्ती लावा आणि स्वतःमध्ये हरवलेल्या एखाद्या चांगल्या गोष्टीचे मनातल्या मनात स्वागत करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Light always returns after darkness for those who keep faith, and keep their promises.",
+  "hi": {
+   "text": "जो श्रद्धा रखते हैं और अपने वचन निभाते हैं, उनके लिए अंधकार के बाद प्रकाश अवश्य लौटता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जे श्रद्धा राखतात आणि आपली वचने पाळतात, त्यांच्यासाठी अंधारानंतर प्रकाश नेहमी परत येतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Yuddha Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, युद्धकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, युद्धकांड",
+   "reviewed": false
+  }
+ }
+}

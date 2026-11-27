@@ -1,0 +1,261 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "first-poem",
+ "order": 1,
+ "part": "bala",
+ "figure": {
+  "en": "Sage Valmiki",
+  "hi": {
+   "text": "महर्षि वाल्मीकि",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महर्षी वाल्मीकी",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The cry that became a poem",
+  "hi": {
+   "text": "वह चीख, जो कविता बन गई",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आक्रोशातून जन्मलेली कविता",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A hunter's arrow, a grieving bird, and a sage whose sorrow pours out as the first verse ever sung.",
+  "hi": {
+   "text": "एक व्याध का बाण, एक शोकाकुल पक्षी, और एक ऋषि, जिनके दुख से संसार का पहला श्लोक फूट पड़ा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "व्याधाचा बाण, शोकाकुल पक्षिणी आणि एका ऋषीच्या दुःखातून वाहिलेला जगातला पहिला श्लोक.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/first-poem-1.webp",
+   "w": 813,
+   "h": 1100,
+   "caption": {
+    "en": "The hunter's arrow and Valmiki's curse (Gita Press illustration)",
+    "hi": {
+     "text": "शिकारी का बाण और वाल्मीकि का शाप (गीता प्रेस चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिकाऱ्याचा बाण आणि वाल्मीकींचा शाप (गीता प्रेस चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Gita Press Gorakhpur, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hunter_Kills_Krauncha_Birds_and_got_curse_from_Valmiki.jpg"
+  },
+  {
+   "src": "/stories/ramayana/first-poem-2.webp",
+   "w": 1200,
+   "h": 834,
+   "caption": {
+    "en": "Narada visits Valmiki's hermitage (Pahari painting)",
+    "hi": {
+     "text": "वाल्मीकि के आश्रम में नारद (पहाड़ी चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाल्मीकींच्या आश्रमात नारद (पहाडी चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sage_Narada_at_the_hermitage_of_Sage_Valmiki_requesting_him_to_write_the_Story_of_Rama.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A question by the river",
+    "hi": {
+     "text": "नदी किनारे एक प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीकाठचा प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Long ago, on the bank of the Tamasa river, the sage Valmiki asked the wandering seer Narada a question that had followed him for years: “Is there anyone alive today who is truly good? Brave, yet gentle. Truthful, even when truth costs him everything. Steady in joy and in sorrow?”\n\nNarada smiled. “There is such a man,” he said. “His name is Rama, prince of Ayodhya.” And in a few quiet sentences he told the whole story, from the palace to the forest to the burning island of Lanka and back again.",
+    "hi": {
+     "text": "बहुत पुरानी बात है। तमसा नदी के तट पर महर्षि वाल्मीकि ने देवर्षि नारद से एक प्रश्न पूछा, जो वर्षों से उनके मन में घूम रहा था: “क्या आज इस संसार में कोई ऐसा मनुष्य है जो सचमुच श्रेष्ठ हो? वीर हो, फिर भी कोमल। सत्य पर अडिग, चाहे सत्य के लिए सब कुछ खोना पड़े। सुख और दुख में एक समान?”\n\nनारद मुसकराए। “हाँ, ऐसा एक पुरुष है,” उन्होंने कहा। “उसका नाम राम है, अयोध्या के राजकुमार।” और कुछ ही शांत वाक्यों में उन्होंने पूरी कथा सुना दी, राजमहल से वन तक, जलती हुई लंका तक, और फिर वापस घर तक।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फार फार वर्षांपूर्वी, तमसा नदीच्या काठी महर्षी वाल्मीकींनी भ्रमण करणाऱ्या नारद मुनींना एक प्रश्न विचारला, जो त्यांच्या मनाला अनेक वर्षे पोखरत होता: “आज या जगात खरोखर गुणवान असा कोणी आहे का? पराक्रमी आणि तरीही सौम्य. सत्य बोलणारा, सत्याची किंमत सर्वस्व गेले तरी. सुखात आणि दुःखात स्थिर राहणारा?”\n\nनारद हसले. “असा एक पुरुष आहे,” ते म्हणाले. “त्याचे नाव राम, अयोध्येचा राजकुमार.” आणि थोड्याच शांत शब्दांत त्यांनी संपूर्ण कथा सांगितली, राजवाड्यापासून वनापर्यंत, पेटलेल्या लंकेपर्यंत आणि पुन्हा घरी परतेपर्यंत.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Two birds in love",
+    "hi": {
+     "text": "प्रेम में डूबा पक्षियों का जोड़ा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रेमात रमलेली दोन पाखरे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The next morning Valmiki walked to the river to bathe. The water was so clear he said it was like the mind of a good person. In a tree above him, two krauncha birds were singing to each other, lost in their own small happiness.\n\nThen, without warning, an arrow hissed out of the bushes. The male bird fell, its wings red with blood. The female circled above him, crying again and again, a sound so raw that the whole forest seemed to stop.",
+    "hi": {
+     "text": "अगली सुबह वाल्मीकि स्नान के लिए नदी की ओर चले। जल इतना निर्मल था कि उन्होंने कहा, यह तो किसी सज्जन के मन जैसा है। ऊपर पेड़ पर क्रौंच पक्षियों का एक जोड़ा एक-दूसरे को गीत सुना रहा था, अपने छोटे-से सुख में खोया हुआ।\n\nतभी अचानक झाड़ियों से एक बाण सनसनाता हुआ आया। नर पक्षी गिर पड़ा, उसके पंख लहू से लाल हो गए। मादा उसके ऊपर मँडराती हुई बार-बार चीत्कार करने लगी, ऐसी करुण पुकार कि मानो पूरा वन थम गया हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसऱ्या दिवशी सकाळी वाल्मीकी स्नानासाठी नदीवर गेले. पाणी इतके निर्मळ होते की ते सज्जनाच्या मनासारखे वाटले. वरच्या झाडावर क्रौंच पक्ष्यांची जोडी एकमेकांशी गुजगोष्टी करत आपल्या छोट्याशा सुखात रंगून गेली होती.\n\nइतक्यात, काहीही कळण्याआधी झाडीतून एक बाण सुसाट आला. नर पक्षी रक्ताने माखलेल्या पंखांसह खाली कोसळला. मादी त्याच्या भोवती घिरट्या घालत वारंवार हंबरडा फोडू लागली. तो आक्रोश इतका हृदयद्रावक होता की सारे वन स्तब्ध झाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Words that would not stay inside",
+    "hi": {
+     "text": "वे शब्द जो भीतर न रुक सके",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आतून उसळून आलेले शब्द",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Valmiki's heart broke. Before he could think, words burst from him, sharp as the arrow itself: “Hunter, may you never find peace, for you killed one of a loving pair.”\n\nHe stood very still. The words had a rhythm, a perfect beat, like a drum inside the chest. He had not planned them. They had been born from grief. “My sorrow, shoka, has become a verse, shloka,” he whispered. Something new had come into the world.",
+    "hi": {
+     "text": "वाल्मीकि का हृदय टूट गया। कुछ सोचने से पहले ही उनके मुख से शब्द फूट पड़े, उसी बाण की तरह तीखे: “हे व्याध, तुझे कभी शांति न मिले, क्योंकि तूने प्रेम में मग्न इस जोड़े में से एक को मार डाला।”\n\nवे स्तब्ध खड़े रह गए। उन शब्दों में एक लय थी, एक सधी हुई ताल, जैसे सीने के भीतर कोई नगाड़ा बज रहा हो। उन्होंने इसे सोचकर नहीं रचा था। यह तो शोक से जन्मा था। “मेरा शोक ही श्लोक बन गया,” उन्होंने धीरे से कहा। संसार में कुछ नया उतर आया था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाल्मीकींचे हृदय विदीर्ण झाले. विचार करण्याआधीच त्या बाणासारखेच तीक्ष्ण शब्द त्यांच्या मुखातून बाहेर पडले: “अरे व्याधा, तुला कधीही शांती लाभू नये, कारण तू या प्रेमी जोडप्यातील एकाचा वध केलास.”\n\nते स्तब्ध उभे राहिले. त्या शब्दांना एक लय होती, छातीतल्या ढोलासारखा एक सुंदर ताल. त्यांनी तो ठरवला नव्हता. तो दुःखातून जन्माला आला होता. “माझा शोक, श्लोकात बदलला,” ते हळूच पुटपुटले. जगात काहीतरी नवीन आले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Creator's visit",
+    "hi": {
+     "text": "सृष्टिकर्ता का आगमन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ब्रह्मदेवाची भेट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "That evening, as Valmiki sat troubled, the space around his hut filled with light. Brahma, the Creator, stood before him.\n\n“Do not be afraid of what happened,” Brahma said. “That verse came by my will. Now use this new music to sing the story Narada told you, the life of Rama. Whatever you write will be true. And as long as mountains stand and rivers flow, people will tell this story.”",
+    "hi": {
+     "text": "उस शाम वाल्मीकि व्याकुल बैठे थे कि उनकी कुटिया के चारों ओर प्रकाश भर गया। सृष्टिकर्ता ब्रह्मा उनके सामने खड़े थे।\n\n“जो हुआ, उससे मत घबराओ,” ब्रह्मा ने कहा। “वह श्लोक मेरी ही इच्छा से प्रकट हुआ। अब इस नए संगीत में वही कथा गाओ जो नारद ने तुम्हें सुनाई, राम का जीवन। तुम जो भी लिखोगे, सत्य होगा। और जब तक पर्वत खड़े हैं और नदियाँ बहती हैं, लोग यह कथा कहते रहेंगे।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या संध्याकाळी वाल्मीकी अस्वस्थ होऊन बसले असता, त्यांच्या कुटीभोवती प्रकाश पसरला. स्वतः ब्रह्मदेव, सृष्टिकर्ते, त्यांच्यासमोर उभे होते.\n\n“जे घडले त्याची भीती बाळगू नकोस,” ब्रह्मदेव म्हणाले. “तो श्लोक माझ्याच इच्छेने तुझ्या मुखी आला. आता या नव्या संगीताने नारदांनी सांगितलेली कथा गा, रामाचे जीवनचरित्र. तू जे लिहिशील ते सत्यच असेल. आणि जोवर पर्वत उभे आहेत आणि नद्या वाहत आहेत, तोवर लोक ही कथा सांगत राहतील.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The story begins",
+    "hi": {
+     "text": "कथा का आरंभ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथेला सुरुवात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Valmiki sat on a seat of kusha grass, sipped water, closed his eyes and turned his mind inward. In deep meditation the whole life of Rama rose before him like a scene in clear water: every laugh, every tear, every promise.\n\nHe began to sing. Twenty-four thousand verses would follow, and the poem would be called the Ramayana, the journey of Rama. Many years later, two small boys would sing it in a king's court, and the story would come full circle. But that is the end. This is only the beginning.",
+    "hi": {
+     "text": "वाल्मीकि कुश के आसन पर बैठे, आचमन किया, आँखें मूँदीं और मन को भीतर की ओर मोड़ लिया। गहरे ध्यान में राम का पूरा जीवन उनके सामने ऐसे उभर आया जैसे निर्मल जल में कोई दृश्य: हर हँसी, हर आँसू, हर वचन।\n\nउन्होंने गाना शुरू किया। चौबीस हज़ार श्लोक रचे जाने थे, और उस महाकाव्य का नाम पड़ा रामायण, अर्थात राम की यात्रा। बहुत वर्षों बाद दो छोटे बालक इसे एक राजा की सभा में गाएँगे, और कथा का चक्र पूरा होगा। पर वह तो अंत है। यह तो बस आरंभ है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाल्मीकी दर्भासनावर बसले, आचमन केले, डोळे मिटले आणि मन आतल्या आत वळवले. गहन ध्यानात रामाचे संपूर्ण जीवन स्वच्छ पाण्यातील दृश्यासारखे त्यांच्यापुढे उलगडले: प्रत्येक हास्य, प्रत्येक अश्रू, प्रत्येक वचन.\n\nत्यांनी गायला सुरुवात केली. पुढे चोवीस हजार श्लोक रचले गेले आणि त्या काव्याला नाव मिळाले रामायण, रामाचा प्रवास. अनेक वर्षांनी दोन लहान मुले ते एका राजाच्या दरबारात गातील आणि कथेचे वर्तुळ पूर्ण होईल. पण तो शेवट आहे. ही तर केवळ सुरुवात आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः।\nयत्क्रौञ्चमिथुनादेकमवधीः काममोहितम्॥",
+  "cite": {
+   "en": "Valmiki Ramayana, Bala Kanda 2.15",
+   "hi": {
+    "text": "वाल्मीकि रामायण, बालकांड 2.15",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वाल्मीकी रामायण, बालकांड 2.15",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "O hunter, may you never find lasting rest, for you killed one of the loving krauncha pair.",
+   "hi": {
+    "text": "हे व्याध, तुझे कभी स्थायी शांति न मिले, क्योंकि तूने प्रेम में मग्न क्रौंच पक्षियों के जोड़े में से एक को मार डाला।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अरे व्याधा, तुला कधीही चिरकाल शांती लाभू नये, कारण तू प्रेमात रमलेल्या क्रौंच जोडप्यातील एकाला मारलेस.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Valmiki's first poem came from feeling another creature's pain as his own. Today, notice one moment of someone else's suffering, a person or an animal, and stay with it for three slow breaths before you move on.",
+  "hi": {
+   "text": "वाल्मीकि की पहली कविता इसलिए जन्मी कि उन्होंने दूसरे प्राणी की पीड़ा को अपनी पीड़ा की तरह महसूस किया। आज किसी और के दुख का एक क्षण, किसी मनुष्य या पशु का, ध्यान से देखिए, और आगे बढ़ने से पहले तीन धीमी साँसों तक उसके साथ ठहरिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुसऱ्या जीवाची वेदना आपलीच मानल्यामुळे वाल्मीकींची पहिली कविता जन्मली. आज एखाद्याच्या, माणसाच्या किंवा प्राण्याच्या, दुःखाचा एक क्षण टिपा आणि पुढे जाण्याआधी तीन संथ श्वास त्याच्यासोबत थांबा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Compassion opens the heart, and from an open heart great things are born.",
+  "hi": {
+   "text": "करुणा से हृदय खुलता है, और खुले हृदय से महान रचनाएँ जन्म लेती हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "करुणेमुळे हृदय उघडते आणि उघडलेल्या हृदयातून महान गोष्टी जन्म घेतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Bala Kanda, opening chapters",
+  "hi": {
+   "text": "वाल्मीकि रामायण, बालकांड, आरंभिक अध्याय",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, बालकांड, सुरुवातीचे अध्याय",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "pundalik",
+ "order": 1,
+ "place": "pandharpur",
+ "festival": "ashadhi-ekadashi",
+ "figure": {
+  "en": "Vitthal and Pundalik",
+  "hi": {
+   "text": "विट्ठल और पुंडलिक",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "विठ्ठल आणि पुंडलिक",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The god who waits on a brick",
+  "hi": {
+   "text": "ईंट पर खड़े भगवान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "विटेवर उभा देव",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A son busy caring for his parents asks God to wait, and God is still waiting.",
+  "hi": {
+   "text": "माता-पिता की सेवा में लगा एक पुत्र भगवान से प्रतीक्षा करने को कहता है, और भगवान आज भी प्रतीक्षा में हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आई-वडिलांच्या सेवेत गुंतलेला मुलगा देवाला थांबायला सांगतो, आणि देव आजही थांबला आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/yatra/pandharpur/photo-1.webp",
+   "w": 1200,
+   "h": 800,
+   "caption": {
+    "en": "Pilgrims at Pandharpur during Ashadhi",
+    "hi": {
+     "text": "आषाढ़ी पर पंढरपुर में वारकरी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आषाढीला पंढरपुरात वारकरी",
+     "reviewed": false
+    }
+   },
+   "credit": "Udaykumar PR, CC BY 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pandharpur_2013_Aashad_-_panoramio_(10)_(cropped).jpg"
+  },
+  {
+   "src": "/yatra/pandharpur/photo-2.webp",
+   "w": 1200,
+   "h": 800,
+   "caption": {
+    "en": "Pundalik Nagar, Pandharpur",
+    "hi": {
+     "text": "पुंडलिक नगर, पंढरपुर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुंडलिक नगर, पंढरपूर",
+     "reviewed": false
+    }
+   },
+   "credit": "Udaykumar PR, CC BY 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pundlik_Nagar,_Pandharpur,_Maharashtra_413304,_India_-_panoramio_(83).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A son changes",
+    "hi": {
+     "text": "एक पुत्र बदलता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक मुलगा बदलतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Pundalik had once neglected his old parents. On a pilgrimage he understood his mistake and from then on served them with complete devotion.",
+    "hi": {
+     "text": "पुंडलिक ने कभी अपने वृद्ध माता-पिता की उपेक्षा की थी। एक तीर्थयात्रा में उन्हें अपनी भूल समझ आई और तब से वे पूरी भक्ति से उनकी सेवा करने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुंडलिकाने एकेकाळी आपल्या वृद्ध आई-वडिलांकडे दुर्लक्ष केले होते. एका तीर्थयात्रेत त्याला आपली चूक कळली आणि तेव्हापासून तो पूर्ण भक्तीने त्यांची सेवा करू लागला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A visitor at the door",
+    "hi": {
+     "text": "द्वार पर अतिथि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दारात पाहुणा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Moved by this, Krishna came to Pundalik's door. Pundalik was massaging his father's feet and did not want to stop. He tossed a brick outside and said: please stand on this and wait.",
+    "hi": {
+     "text": "इससे प्रसन्न होकर श्रीकृष्ण पुंडलिक के द्वार आए। पुंडलिक पिता के पैर दबा रहे थे और रुकना नहीं चाहते थे। उन्होंने बाहर एक ईंट फेंकी और कहा: कृपया इस पर खड़े होकर प्रतीक्षा करें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हे पाहून प्रसन्न झालेले श्रीकृष्ण पुंडलिकाच्या दारी आले. पुंडलिक वडिलांचे पाय चेपत होता आणि त्याला थांबायचे नव्हते. त्याने बाहेर एक वीट फेकली आणि म्हणाला: कृपया हिच्यावर उभे राहून वाट पाहा.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Vitthal of Pandharpur",
+    "hi": {
+     "text": "पंढरपुर के विट्ठल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पंढरपूरचा विठ्ठल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "God stood on the brick, hands on his hips, and stayed. He is worshipped as Vitthal in Pandharpur. Every Ashadhi, lakhs of warkaris walk there singing, to meet the god who waited.",
+    "hi": {
+     "text": "भगवान कमर पर हाथ रखकर ईंट पर खड़े हो गए और वहीं रुक गए। पंढरपुर में उनकी पूजा विट्ठल के रूप में होती है। हर आषाढ़ी पर लाखों वारकरी गाते हुए पैदल वहाँ जाते हैं, उस भगवान से मिलने जिसने प्रतीक्षा की।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देव कमरेवर हात ठेवून विटेवर उभा राहिला आणि तिथेच थांबला. पंढरपुरात त्याची विठ्ठल म्हणून पूजा होते. दर आषाढीला लाखो वारकरी अभंग गात पायी तिथे जातात, वाट पाहणाऱ्या देवाला भेटायला.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  }
+ ],
+ "lesson": {
+  "en": "Caring for those who depend on us is itself worship.",
+  "hi": {
+   "text": "जो हम पर निर्भर हैं, उनकी सेवा स्वयं में पूजा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपल्यावर अवलंबून असलेल्यांची सेवा हीच पूजा आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Pandharpur tradition, as sung in the abhangs of the Varkari saints.",
+  "hi": {
+   "text": "पंढरपुर परंपरा, जैसा वारकरी संतों के अभंगों में गाया गया है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पंढरपूर परंपरा, वारकरी संतांच्या अभंगांत गायल्याप्रमाणे.",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,281 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "great-leap",
+ "order": 10,
+ "part": "sundara",
+ "festival": "hanuman-jayanti",
+ "figure": {
+  "en": "Hanuman",
+  "hi": {
+   "text": "हनुमान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हनुमान",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The leap across the ocean",
+  "hi": {
+   "text": "सागर के पार छलाँग",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सागरावरचे उड्डाण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A hundred yojanas of open sea lie between the monkeys and Lanka. Only one of them can make the jump, but he has forgotten his own power.",
+  "hi": {
+   "text": "वानरों और लंका के बीच सौ योजन का खुला समुद्र है। केवल एक ही यह छलाँग लगा सकता है, पर वह अपनी शक्ति भूल चुका है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वानर आणि लंका यांच्यामध्ये शंभर योजने पसरलेला सागर आहे. फक्त एकच जण ती झेप घेऊ शकतो, पण तो आपल्या शक्तीचे स्वतःलाच विसरला आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/great-leap-2.webp",
+   "w": 459,
+   "h": 652,
+   "caption": {
+    "en": "Hanuman finds Sita in the Ashoka grove and shows her Rama's ring (popular print)",
+    "hi": {
+     "text": "अशोक वाटिका में हनुमान सीता को राम की अंगूठी दिखाते हैं (लोकप्रिय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अशोक वनात हनुमान सीतेला रामाची अंगठी दाखवतात (लोकप्रिय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "MV Sharma printed by Anant Shivaji Desai, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanuman_finds_Sita_in_the_ashoka_grove,_and_shows_her_Rama%27s_ring.jpg"
+  },
+  {
+   "src": "/stories/ramayana/great-leap-3.webp",
+   "w": 754,
+   "h": 1100,
+   "caption": {
+    "en": "Rama gives Hanuman his ring for Sita (K. Venkatappa)",
+    "hi": {
+     "text": "राम सीता के लिए हनुमान को अपनी अंगूठी देते हैं (के. वेंकटप्पा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम सीतेसाठी हनुमानाला आपली अंगठी देतात (के. वेंकटप्पा)",
+     "reviewed": false
+    }
+   },
+   "credit": "K. Venkatappa, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rama_sending_his_signet_ring_to_Sita.jpg"
+  },
+  {
+   "src": "/stories/ramayana/great-leap-1.webp",
+   "w": 700,
+   "h": 501,
+   "caption": {
+    "en": "Hanuman flies over the ocean past Surasa (Pahari painting)",
+    "hi": {
+     "text": "हनुमान सुरसा के पास से समुद्र पार उड़ते हैं (पहाड़ी चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमान सुरसेजवळून समुद्रावरून उडतात (पहाडी चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Pandit Seu (attribution), Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanuman_cross_ocean_and_kill_sursa.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Lost at the edge of the sea",
+    "hi": {
+     "text": "सागर तट पर हारे हुए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सागराच्या काठावर हरवलेले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Search parties went in every direction. Prince Angada's group, with Hanuman, went south. They searched for months and found nothing. At last they reached the shore of the endless ocean and sat down in despair.\n\nThen a huge old vulture, Sampati, Jatayu's brother, told them: “I can see far. Sita is in Lanka, a hundred yojanas across this sea, sitting in a grove, guarded by demons.”",
+    "hi": {
+     "text": "खोजी दल हर दिशा में गए। राजकुमार अंगद का दल, हनुमान के साथ, दक्षिण की ओर गया। महीनों खोजने पर भी कुछ हाथ न लगा। अंत में वे अनंत सागर के तट पर पहुँचे और निराश होकर बैठ गए।\n\nतभी विशाल बूढ़े गिद्ध सम्पाति ने, जो जटायु का भाई था, उन्हें बताया: “मैं बहुत दूर तक देख सकता हूँ। सीता लंका में हैं, इस समुद्र के पार सौ योजन दूर, एक उपवन में बैठी हैं, राक्षसियाँ उनकी पहरेदार हैं।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शोधपथके चारही दिशांना गेली. राजकुमार अंगदाचा गट, हनुमानासह, दक्षिणेकडे गेला. त्यांनी महिनोन्महिने शोधले पण काहीच सापडले नाही. शेवटी ते अनंत सागराच्या किनाऱ्यावर पोहोचले आणि निराश होऊन बसले.\n\nतेव्हा एका प्रचंड वृद्ध गिधाडाने, जटायूचा भाऊ संपातीने, त्यांना सांगितले: “मला दूरवर दिसते. सीता लंकेत आहे, या सागराच्या शंभर योजने पलीकडे, एका उद्यानात बसली आहे, राक्षसांच्या पहाऱ्यात.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Who can jump?",
+    "hi": {
+     "text": "कौन कूद सकता है?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उडी कोण मारणार?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One by one the monkey heroes said how far they could leap: ten, twenty, fifty, ninety yojanas. None could reach Lanka and come back. Hanuman sat apart, silent.\n\nThe wise old bear Jambavan went to him. “Why are you quiet, Hanuman? As a child you leapt at the sun, thinking it was a fruit! Because of a sage's curse, you forgot your strength. Remember now who you are!” And as he spoke, Hanuman began to grow.",
+    "hi": {
+     "text": "एक-एक करके वानर वीरों ने बताया कि वे कितनी दूर कूद सकते हैं: दस, बीस, पचास, नब्बे योजन। कोई भी लंका पहुँचकर लौट नहीं सकता था। हनुमान अलग बैठे चुप रहे।\n\nबुद्धिमान बूढ़े रीछराज जाम्बवान उनके पास गए। “हनुमान, तुम चुप क्यों हो? बचपन में तुमने सूर्य को फल समझकर उस पर छलाँग लगाई थी! एक ऋषि के शाप से तुम अपना बल भूल गए। अब याद करो कि तुम कौन हो!” और जैसे ही जाम्बवान बोले, हनुमान बढ़ने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकेक वानरवीराने सांगितले की तो किती दूर उडी मारू शकतो: दहा, वीस, पन्नास, नव्वद योजने. लंकेपर्यंत जाऊन परत येणे कोणालाच शक्य नव्हते. हनुमान बाजूला शांत बसला होता.\n\nज्ञानी वृद्ध अस्वल जांबवंत त्याच्याकडे गेले. “हनुमाना, तू गप्प का आहेस? लहानपणी तू सूर्याला फळ समजून त्याच्यावर झेप घेतलीस! ऋषींच्या शापामुळे तू आपले बळ विसरलास. आता आठव तू कोण आहेस!” आणि ते बोलत असताना हनुमान वाढू लागला.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The leap",
+    "hi": {
+     "text": "छलाँग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "झेप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hanuman climbed Mount Mahendra, so huge now that the mountain shook and streams burst from its sides. He bowed to the sun, the wind, and to Rama in his heart. Then he crouched and sprang into the sky.\n\nHe flew like an arrow from Rama's bow. On the way, the mountain Mainaka rose from the sea and offered him rest; he touched it with thanks and flew on. The serpent mother Surasa opened her jaws to swallow him; he grew huge, then shrank tiny as a thumb, darted in and out of her mouth, and she blessed him for his cleverness.",
+    "hi": {
+     "text": "हनुमान महेंद्र पर्वत पर चढ़े, इतने विशाल हो गए कि पर्वत काँप उठा और उसके पार्श्वों से झरने फूट पड़े। उन्होंने सूर्य को, पवन को और अपने हृदय में बसे राम को प्रणाम किया। फिर वे झुके और आकाश में उछल पड़े।\n\nवे राम के धनुष से छूटे बाण की तरह उड़ चले। मार्ग में मैनाक पर्वत समुद्र से ऊपर उठा और उन्हें विश्राम देने लगा; उन्होंने कृतज्ञता से उसे छुआ और आगे बढ़ गए। नागमाता सुरसा ने उन्हें निगलने को मुँह फैलाया; वे बढ़कर विशाल हुए, फिर अँगूठे जितने छोटे हो गए, उसके मुँह में घुसकर बाहर निकल आए, और सुरसा ने उनकी चतुराई पर उन्हें आशीर्वाद दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमान महेंद्र पर्वतावर चढला, आता इतका अवाढव्य की पर्वत हादरला आणि त्याच्या कुशीतून झरे फुटले. त्याने सूर्याला, वाऱ्याला आणि हृदयातील रामाला नमस्कार केला. मग तो खाली वाकला आणि आकाशात झेपावला.\n\nरामाच्या धनुष्यातून सुटलेल्या बाणासारखा तो उडाला. वाटेत मैनाक पर्वत सागरातून वर आला आणि त्याने विश्रांतीची विनंती केली; त्याने कृतज्ञतेने त्याला स्पर्श केला आणि पुढे उडाला. नागमाता सुरसेने त्याला गिळण्यासाठी जबडा उघडला; तो अवाढव्य झाला, मग अंगठ्याएवढा लहान झाला, तिच्या तोंडात शिरून बाहेर आला आणि तिने त्याच्या चातुर्याबद्दल त्याला आशीर्वाद दिला.",
+     "reviewed": false
+    }
+   },
+   "image": 2
+  },
+  {
+   "title": {
+    "en": "Searching the golden city",
+    "hi": {
+     "text": "स्वर्ण नगरी की खोज",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सोन्याच्या नगरीचा शोध",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Lanka glittered at night like a crown of gold. Shrinking to the size of a cat, Hanuman searched it: palaces, gardens, halls of sleeping demons. He saw Ravana's queens, beautiful and many, but none had the sorrow of Sita.\n\nAt last, in the Ashoka grove, under a simshapa tree, he saw her: thin, pale, dressed in a single soiled cloth, surrounded by fierce guards, repeating Rama's name. Hanuman hid in the branches, tears in his eyes.",
+    "hi": {
+     "text": "रात में लंका मुकुट की तरह सोने सी जगमगा रही थी। बिल्ली जितना छोटा रूप लेकर हनुमान ने उसे खंगाला: महल, उद्यान, सोते हुए राक्षसों के सभा-भवन। उन्होंने रावण की अनेक सुंदर रानियाँ देखीं, पर किसी के मुख पर सीता जैसा शोक नहीं था।\n\nअंत में अशोक वाटिका में, शिंशपा वृक्ष के नीचे, उन्होंने उन्हें देखा: दुबली, पीली, एक ही मैली साड़ी में, उग्र पहरेदारों से घिरी, राम का नाम जपती हुई। हनुमान डालियों में छिप गए, आँखों में आँसू भरकर।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रात्री लंका सोन्याच्या मुकुटासारखी झळाळत होती. मांजराएवढे रूप घेऊन हनुमानाने तिचा शोध घेतला: महाल, उद्याने, झोपलेल्या राक्षसांची सभागृहे. त्याने रावणाच्या सुंदर आणि अनेक राण्या पाहिल्या, पण सीतेसारखे दुःख कुणाच्याही चेहऱ्यावर नव्हते.\n\nशेवटी अशोकवनात, शिंशपा वृक्षाखाली त्याला ती दिसली: कृश, फिकट, एकाच मळक्या वस्त्रात, कठोर पहारेकऱ्यांनी वेढलेली, रामाचे नाव जपत. हनुमान डोळ्यांत अश्रू घेऊन फांद्यांत लपून राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Rama's ring",
+    "hi": {
+     "text": "राम की अँगूठी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामाची अंगठी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana came at dawn and threatened Sita: “Marry me within two months, or you will be my breakfast.” She held a blade of grass between them and answered without fear: “You are nothing before Rama.”\n\nWhen the guards dozed, Hanuman softly began to sing the story of Rama from the tree. Sita looked up, startled. He came down and gave her Rama's ring. Sita pressed it to her heart and wept for joy, as if Rama himself had touched her. In return she gave him her hair jewel, the chudamani, for Rama.",
+    "hi": {
+     "text": "रावण भोर में आया और सीता को धमकाने लगा: “दो महीने में मुझसे विवाह कर लो, नहीं तो तुम मेरा नाश्ता बनोगी।” सीता ने बीच में घास का एक तिनका रखा और निर्भय होकर उत्तर दिया: “राम के सामने तुम कुछ भी नहीं हो।”\n\nजब पहरेदार ऊँघने लगे, तो हनुमान ने वृक्ष से धीरे-धीरे राम की कथा गानी शुरू की। सीता चौंककर ऊपर देखने लगीं। वे नीचे उतरे और राम की अँगूठी उन्हें दी। सीता ने उसे हृदय से लगाया और आनंद से रो पड़ीं, मानो राम ने स्वयं उन्हें छू लिया हो। बदले में उन्होंने राम के लिए अपनी चूड़ामणि हनुमान को दी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटे रावण आला आणि त्याने सीतेला धमकावले: “दोन महिन्यांत माझ्याशी विवाह कर, नाहीतर तू माझा नाश्ता होशील.” तिने आपल्या दोघांच्या मध्ये गवताची काडी धरली आणि निर्भयपणे उत्तर दिले: “रामासमोर तू कःपदार्थ आहेस.”\n\nपहारेकरी पेंगत असताना हनुमानाने झाडावरून हळूच रामकथा गायला सुरुवात केली. सीतेने चकित होऊन वर पाहिले. तो खाली आला आणि त्याने तिला रामाची अंगठी दिली. सीतेने ती हृदयाशी धरली आणि जणू रामानेच स्पर्श केल्यासारखी आनंदाश्रू ढाळले. त्याबदल्यात तिने रामासाठी आपले केशभूषण, चूडामणी, त्याला दिले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "दासोऽहं कोसलेन्द्रस्य रामस्याक्लिष्टकर्मणः।",
+  "cite": {
+   "en": "Valmiki Ramayana, Sundara Kanda (Hanuman's declaration)",
+   "hi": {
+    "text": "वाल्मीकि रामायण, सुंदरकांड (हनुमान की घोषणा)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वाल्मीकी रामायण, सुंदरकांड (हनुमानाची घोषणा)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "I am the servant of Rama, lord of Kosala, whose deeds are done without effort.",
+   "hi": {
+    "text": "मैं कोसल के स्वामी राम का दास हूँ, जिनके कर्म सहज ही सिद्ध हो जाते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मी कोसलनरेश रामाचा दास आहे, ज्याची कर्मे सहजपणे पार पडतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Hanuman forgot his strength until a friend reminded him. Who reminds you of your strength? Thank them today, and remind someone else of theirs.",
+  "hi": {
+   "text": "हनुमान अपना बल तब तक भूले रहे जब तक एक मित्र ने याद न दिलाया। आपको आपकी शक्ति कौन याद दिलाता है? आज उन्हें धन्यवाद दीजिए, और किसी और को उसकी शक्ति याद दिलाइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मित्राने आठवण करून देईपर्यंत हनुमान आपले बळ विसरला होता. तुम्हाला तुमच्या शक्तीची आठवण कोण करून देते? आज त्यांचे आभार माना आणि दुसऱ्या कुणाला त्यांच्या शक्तीची आठवण करून द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "When we remember who we truly are and act in the name of a higher love, no ocean is too wide.",
+  "hi": {
+   "text": "जब हम याद रखते हैं कि हम वास्तव में कौन हैं, और किसी ऊँचे प्रेम के नाम पर कर्म करते हैं, तो कोई सागर इतना चौड़ा नहीं होता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपण खरे कोण आहोत हे आठवते आणि एका उच्च प्रेमाच्या नावाने आपण कार्य करतो, तेव्हा कोणताही सागर पार करता येतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Kishkindha and Sundara Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, किष्किंधाकांड और सुंदरकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, किष्किंधा आणि सुंदरकांड",
+   "reviewed": false
+  }
+ }
+}

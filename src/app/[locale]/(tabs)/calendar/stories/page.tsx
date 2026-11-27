@@ -1,10 +1,10 @@
 import { HubNav } from "@/components/HubNav";
 import { isLocale } from "@/i18n/config";
 import { loadStrings } from "@/features/shared/content.server";
-import { loadStories, loadStoryStrings } from "@/features/stories/content.server";
+import { loadClubs, loadStoryStrings } from "@/features/stories/content.server";
 import { StoryList } from "@/features/stories/StoryViews";
 
-/** Religious stories by tradition and region (D-038). Server-rendered, no JavaScript. */
+/** Story collections by faith (D-038, D-040). Server-rendered, no JavaScript. */
 export default async function StoriesPage({ params }: PageProps<"/[locale]/calendar/stories">) {
   const { locale: l } = await params;
   const locale = isLocale(l) ? l : "en";
@@ -13,7 +13,7 @@ export default async function StoriesPage({ params }: PageProps<"/[locale]/calen
   return (
     <>
       <HubNav locale={locale} hub="calendar" current="stories" />
-      <StoryList stories={loadStories(locale)} locale={locale} strings={loadStoryStrings(locale)} trad={trad} />
+      <StoryList clubs={loadClubs(locale)} locale={locale} strings={loadStoryStrings(locale)} trad={trad} />
     </>
   );
 }

@@ -1,0 +1,236 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "two-boons",
+ "order": 5,
+ "part": "ayodhya",
+ "figure": {
+  "en": "Queen Kaikeyi",
+  "hi": {
+   "text": "रानी कैकेयी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राणी कैकेयी",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The night of two boons",
+  "hi": {
+   "text": "दो वरदानों की रात",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन वरांची रात्र",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The city is decorated for a coronation. Then a whisper in the dark turns a mother's love into a weapon.",
+  "hi": {
+   "text": "नगर राज्याभिषेक के लिए सजा है। तभी अँधेरे में एक फुसफुसाहट माँ के प्रेम को हथियार बना देती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राज्याभिषेकासाठी नगरी सजली आहे. आणि अंधारातील एक कुजबुज आईचे प्रेम शस्त्र बनवते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/two-boons-1.webp",
+   "w": 950,
+   "h": 699,
+   "caption": {
+    "en": "Dasharatha comes to Kaikeyi's room of anger (painting by Nainsukh)",
+    "hi": {
+     "text": "दशरथ कैकेयी के कोपभवन में आते हैं (नैनसुख का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दशरथ कैकेयीच्या कोपभवनात येतात (नैनसुखचे चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Nainsukh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:King_Dasharatha_Approaches_the_Sulking_Kaikeyi%27s_Chamber_(6125133208).jpg"
+  },
+  {
+   "src": "/stories/ramayana/two-boons-2.webp",
+   "w": 755,
+   "h": 1100,
+   "caption": {
+    "en": "The death of King Dasharatha (Indian painting)",
+    "hi": {
+     "text": "राजा दशरथ का देहांत (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा दशरथांचे निधन (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Death_of_King_Dasharatha.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Ayodhya prepares for joy",
+    "hi": {
+     "text": "अयोध्या में उत्सव की तैयारी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अयोध्या आनंदाची तयारी करते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Years passed happily. Dasharatha grew old and decided to crown Rama as crown prince. The whole city rejoiced. People washed the streets, hung flags from every rooftop and stayed awake all night, too excited to sleep.\n\nRama and Sita fasted and prayed through the night, ready to accept the great duty at dawn.",
+    "hi": {
+     "text": "वर्ष सुख से बीतते रहे। दशरथ वृद्ध हुए और उन्होंने राम को युवराज बनाने का निश्चय किया। पूरा नगर आनंद से भर उठा। लोगों ने गलियाँ धोईं, हर छत पर ध्वजाएँ लगाईं और उत्साह के मारे सारी रात जागते रहे।\n\nराम और सीता ने उपवास और प्रार्थना में रात बिताई, भोर होते ही महान दायित्व स्वीकार करने को तैयार।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वर्षे सुखात गेली. दशरथ वृद्ध झाला आणि त्याने रामाला युवराज करण्याचे ठरवले. सारी नगरी आनंदली. लोकांनी रस्ते धुतले, प्रत्येक छतावर ध्वज लावले आणि उत्साहामुळे सारी रात्र जागून काढली.\n\nराम आणि सीतेने उपवास करून रात्रभर प्रार्थना केली, पहाटे ती महान जबाबदारी स्वीकारायला सज्ज होऊन.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Manthara's whisper",
+    "hi": {
+     "text": "मंथरा की कानाफूसी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मंथरेची कुजबुज",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "But in Queen Kaikeyi's palace, her old maid Manthara watched the celebrations with a bitter heart. She went to the queen. “Fool! Once Rama is king, Kausalya will rule, and your son Bharata will be nothing.”\n\nAt first Kaikeyi laughed. She loved Rama like her own son. But Manthara kept whispering, drop by drop, like poison into milk. “Remember the two boons the king promised you long ago, when you saved his life in battle? Ask for them now.”",
+    "hi": {
+     "text": "पर रानी कैकेयी के महल में उनकी बूढ़ी दासी मंथरा कड़वे मन से उत्सव को देख रही थी। वह रानी के पास गई। “अरी भोली! राम राजा बने तो कौसल्या राज करेंगी, और तुम्हारा बेटा भरत कुछ भी नहीं रहेगा।”\n\nपहले तो कैकेयी हँस पड़ीं। वे राम को अपने पुत्र की तरह चाहती थीं। पर मंथरा बूँद-बूँद फुसफुसाती रही, जैसे दूध में विष घोला जाए। “याद करो वे दो वरदान जो राजा ने बहुत पहले तुम्हें दिए थे, जब तुमने युद्ध में उनके प्राण बचाए थे? अब उन्हें माँग लो।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण राणी कैकेयीच्या महालात तिची म्हातारी दासी मंथरा कडू मनाने सोहळ्याची तयारी पाहत होती. ती राणीकडे गेली. “मूर्ख! राम राजा झाला की कौसल्या राज्य करील आणि तुझा पुत्र भरत कुणीच उरणार नाही.”\n\nसुरुवातीला कैकेयी हसली. ती रामावर स्वतःच्या मुलासारखे प्रेम करत होती. पण मंथरा थेंबथेंब कुजबुजत राहिली, दुधात विष मिसळावे तसे. “आठव, युद्धात तू राजाचे प्राण वाचवलेस तेव्हा त्याने तुला दोन वर देण्याचे वचन दिले होते. ते आता माग.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The anger room",
+    "hi": {
+     "text": "कोपभवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कोपभवन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kaikeyi tore off her jewels, threw them on the floor and lay in the dark room of anger. When the king came, glowing with happiness, he found her there.\n\n“Swear you will give me what I ask,” she said. He swore by Rama himself. “Then here are my two boons: crown Bharata as king. And send Rama to the forest for fourteen years.” The old king fell to the floor as if struck by lightning. All night he begged. She did not move.",
+    "hi": {
+     "text": "कैकेयी ने गहने उतारकर फर्श पर फेंक दिए और अँधेरे कोपभवन में जा लेटीं। जब राजा आनंद से दमकते हुए आए, तो उन्हें वहीं पाया।\n\n“वचन दीजिए कि मैं जो माँगूँगी, देंगे,” उन्होंने कहा। राजा ने राम की ही सौगंध खा ली। “तो ये हैं मेरे दो वरदान: भरत को राजा बनाइए। और राम को चौदह वर्ष के लिए वन भेज दीजिए।” बूढ़े राजा मानो बिजली गिरने से धरती पर गिर पड़े। सारी रात वे गिड़गिड़ाते रहे। कैकेयी टस से मस न हुईं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कैकेयीने दागिने फेकून दिले, जमिनीवर आपटले आणि अंधाऱ्या कोपभवनात जाऊन पडली. आनंदाने उजळलेला राजा आला तेव्हा त्याला ती तिथेच दिसली.\n\n“मी मागेन ते देण्याची शपथ घ्या,” ती म्हणाली. त्याने रामाच्या नावाने शपथ घेतली. “मग हे माझे दोन वर: भरताला राजा करा. आणि रामाला चौदा वर्षे वनात पाठवा.” वृद्ध राजा विजेचा आघात झाल्यासारखा जमिनीवर कोसळला. रात्रभर तो गयावया करत राहिला. ती हलली नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Rama smiles",
+    "hi": {
+     "text": "राम मुसकराए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम हसतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At dawn Rama was summoned. He found his father broken, unable to speak. Kaikeyi told him everything.\n\nRama's face did not change. “If my father has given his word, I will go today,” he said gently. “And if Bharata is to be king, I am happy. He is my brother.” He bowed to Kaikeyi with the same love as before. Lakshmana burned with fury, but Rama calmed him: a promise is a promise.",
+    "hi": {
+     "text": "भोर में राम को बुलाया गया। उन्होंने पिता को टूटा हुआ पाया, जो बोल भी नहीं पा रहे थे। कैकेयी ने उन्हें सब कुछ बता दिया।\n\nराम के चेहरे पर कोई शिकन नहीं आई। “यदि पिताजी ने वचन दिया है, तो मैं आज ही चला जाऊँगा,” उन्होंने सहज भाव से कहा। “और यदि भरत राजा बनेंगे, तो मुझे प्रसन्नता है। वह मेरा भाई है।” उन्होंने कैकेयी को पहले जैसे ही प्रेम से प्रणाम किया। लक्ष्मण क्रोध से जल उठे, पर राम ने उन्हें शांत किया: वचन तो वचन है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटे रामाला बोलावले गेले. त्याला पिता भग्न, बोलता न येणारा दिसला. कैकेयीने त्याला सारे सांगितले.\n\nरामाच्या चेहऱ्यावर काहीच बदल झाला नाही. “पित्याने वचन दिले असेल तर मी आजच जाईन,” तो हळूच म्हणाला. “आणि भरत राजा होणार असेल तर मला आनंदच आहे. तो माझा भाऊ आहे.” त्याने पूर्वीइतक्याच प्रेमाने कैकेयीला नमस्कार केला. लक्ष्मण क्रोधाने पेटला होता, पण रामाने त्याला शांत केले: वचन म्हणजे वचन.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Leaving everything",
+    "hi": {
+     "text": "सब कुछ छोड़कर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्वस्वाचा त्याग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sita refused to stay behind. “Where you are is Ayodhya for me,” she said. “The forest with you is better than a palace without you.” Lakshmana touched Rama's feet: he would come too, to guard them day and night.\n\nThe three of them put on clothes of bark. As their chariot rolled out, the whole city ran behind it, weeping, begging them to stay. Six days later, King Dasharatha died of grief, calling Rama's name.",
+    "hi": {
+     "text": "सीता पीछे रुकने को तैयार नहीं हुईं। “जहाँ आप हैं, वही मेरे लिए अयोध्या है,” उन्होंने कहा। “आपके साथ वन महल से बेहतर है, आपके बिना महल सूना है।” लक्ष्मण ने राम के चरण छुए: वे भी साथ चलेंगे, दिन-रात उनकी रक्षा करेंगे।\n\nतीनों ने वल्कल वस्त्र धारण किए। जब उनका रथ चला, तो पूरा नगर रोता हुआ उसके पीछे दौड़ पड़ा, रुक जाने की विनती करता हुआ। छह दिन बाद राम का नाम पुकारते हुए महाराज दशरथ ने शोक में प्राण त्याग दिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेने मागे राहायला नकार दिला. “तुम्ही जिथे, तिथे माझी अयोध्या,” ती म्हणाली. “तुमच्याशिवाय महालापेक्षा तुमच्यासोबत वन बरे.” लक्ष्मणाने रामाच्या पायांना स्पर्श केला: तोही येणार, रात्रंदिवस त्यांचे रक्षण करायला.\n\nतिघांनी वल्कले नेसली. त्यांचा रथ बाहेर निघताच सारी नगरी रडत, थांबण्याची विनवणी करत त्यामागे धावली. सहा दिवसांनी राजा दशरथ रामाचे नाव घेत घेत दुःखाने मरण पावला.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "reflect": {
+  "en": "Manthara's poison worked slowly, one whisper at a time. Notice today which thoughts you let in about others. Gently refuse one that breeds jealousy or suspicion.",
+  "hi": {
+   "text": "मंथरा का विष धीरे-धीरे काम करता रहा, एक-एक फुसफुसाहट से। आज देखिए कि दूसरों के बारे में कौन-से विचार आप भीतर आने देते हैं। जो विचार जलन या संदेह जगाए, उनमें से एक को प्रेम से लौटा दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मंथरेचे विष हळूहळू काम करत होते, एका कुजबुजीनंतर दुसरी. आज इतरांबद्दलचे कोणते विचार तुम्ही मनात येऊ देता ते पाहा. जळफळाट किंवा संशय वाढवणारा एखादा विचार हळूच नाकारा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Keeping your word, even when it costs everything, is the root of trust and of dharma.",
+  "hi": {
+   "text": "वचन निभाना, चाहे उसकी कीमत सब कुछ हो, विश्वास और धर्म की जड़ है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वस्व गेले तरी दिलेला शब्द पाळणे हेच विश्वासाचे आणि धर्माचे मूळ आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Ayodhya Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, अयोध्याकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, अयोध्याकांड",
+   "reviewed": false
+  }
+ }
+}

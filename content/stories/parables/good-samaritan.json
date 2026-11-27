@@ -1,0 +1,177 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "good-samaritan",
+ "order": 1,
+ "figure": {
+  "en": "A parable of Jesus",
+  "hi": {
+   "text": "यीशु का एक दृष्टांत",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "येशूंचा एक दाखला",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Good Samaritan",
+  "hi": {
+   "text": "भला सामरी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चांगला शोमरोनी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Who is my neighbour? Jesus answers with a story about a stranger on a lonely road.",
+  "hi": {
+   "text": "मेरा पड़ोसी कौन है? यीशु एक सुनसान राह के अजनबी की कथा से उत्तर देते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "माझा शेजारी कोण? येशू एका निर्जन वाटेवरील अनोळखी माणसाच्या कथेने उत्तर देतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/samaritan/1.webp",
+   "w": 686,
+   "h": 900,
+   "caption": {
+    "en": "The Good Samaritan, after Delacroix (Vincent van Gogh, 1890)",
+    "hi": {
+     "text": "भला सामरी, डेलाक्रोआ के अनुसार (विन्सेंट वान गॉग, 1890)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चांगला शोमरोनी, देलाक्रवाच्या आधारे (व्हिन्सेंट व्हॅन गॉग, 1890)",
+     "reviewed": false
+    }
+   },
+   "credit": "Vincent van Gogh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Der_barmherzige_Samariter.jpeg"
+  },
+  {
+   "src": "/stories/samaritan/2.webp",
+   "w": 680,
+   "h": 560,
+   "caption": {
+    "en": "The Good Samaritan (Eugène Delacroix)",
+    "hi": {
+     "text": "भला सामरी (यूजीन डेलाक्रोआ)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चांगला शोमरोनी (युजीन देलाक्रवा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Eugène Delacroix, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Delacroix_-_The_Good_Samaritan,_1852.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Left by the road",
+    "hi": {
+     "text": "राह किनारे छोड़ा गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रस्त्याकडेला टाकलेला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A man travelling from Jerusalem to Jericho was attacked by robbers, beaten and left half dead by the road.",
+    "hi": {
+     "text": "यरूशलेम से यरीहो जाते एक व्यक्ति पर डाकुओं ने हमला किया, उसे पीटा और अधमरा करके राह किनारे छोड़ दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यरुशलेमहून यरीहोला जाणाऱ्या एका माणसावर लुटारूंनी हल्ला केला, त्याला मारले आणि अर्धमेला करून रस्त्याकडेला टाकले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two pass by",
+    "hi": {
+     "text": "दो लोग निकल गए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोघे निघून गेले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A priest came along and passed by on the other side. Then a temple helper did the same. Neither stopped.",
+    "hi": {
+     "text": "एक पुरोहित आया और दूसरी ओर से निकल गया। फिर मंदिर का एक सेवक भी वैसे ही निकल गया। कोई नहीं रुका।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक याजक आला आणि दुसऱ्या बाजूने निघून गेला. मग मंदिरातील एक सेवकही तसाच गेला. कोणीही थांबले नाही.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Go and do likewise",
+    "hi": {
+     "text": "जाओ, तुम भी ऐसा ही करो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जा, तूही तसेच कर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then a Samaritan, from a people the traveller's community looked down on, stopped. He cleaned and bandaged the man's wounds, took him to an inn and paid for his care. Which of these was a neighbour, Jesus asked? The one who showed mercy. Go and do likewise.",
+    "hi": {
+     "text": "फिर एक सामरी, ऐसे समुदाय से जिसे यात्री के लोग नीचा समझते थे, रुका। उसने घाव साफ़ कर पट्टी बाँधी, उसे सराय ले गया और देखभाल का खर्च दिया। यीशु ने पूछा, इनमें पड़ोसी कौन था? जिसने दया दिखाई। जाओ, तुम भी ऐसा ही करो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग एक शोमरोनी, ज्याच्या लोकांना प्रवाशाचा समाज कमी लेखत असे, तो थांबला. त्याने जखमा स्वच्छ करून पट्टी बांधली, त्याला धर्मशाळेत नेले आणि देखभालीचा खर्च दिला. येशूंनी विचारले, यांपैकी शेजारी कोण? ज्याने दया दाखवली तो. जा, तूही तसेच कर.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  }
+ ],
+ "lesson": {
+  "en": "A neighbour is anyone who needs our help, whoever they are.",
+  "hi": {
+   "text": "पड़ोसी वह हर कोई है जिसे हमारी मदद चाहिए, चाहे वह कोई भी हो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याला आपल्या मदतीची गरज आहे तो प्रत्येकजण शेजारी आहे, तो कोणीही असो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Bible, Gospel of Luke 10:25 to 37.",
+  "hi": {
+   "text": "बाइबल, लूका रचित सुसमाचार 10:25 से 37।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "बायबल, लूक लिखित शुभवर्तमान 10:25 ते 37.",
+   "reviewed": false
+  }
+ }
+}

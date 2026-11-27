@@ -1,0 +1,236 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "mountain-of-herbs",
+ "order": 13,
+ "part": "yuddha",
+ "figure": {
+  "en": "Lakshmana and Hanuman",
+  "hi": {
+   "text": "लक्ष्मण और हनुमान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लक्ष्मण आणि हनुमान",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The night Hanuman carried a mountain",
+  "hi": {
+   "text": "वह रात जब हनुमान पर्वत उठा लाए",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हनुमानाने पर्वत उचलून आणलेली रात्र",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Lakshmana falls, struck by a deadly weapon. Only a herb from the Himalaya can save him, and it must arrive before sunrise.",
+  "hi": {
+   "text": "घातक अस्त्र के प्रहार से लक्ष्मण गिर पड़े हैं। उन्हें केवल हिमालय की एक जड़ी बचा सकती है, और वह सूर्योदय से पहले पहुँचनी चाहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्राणघातक अस्त्राने लक्ष्मण कोसळतो. त्याला फक्त हिमालयातील एक औषधी वाचवू शकते आणि ती सूर्योदयाआधी यायला हवी.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/mountain-of-herbs-3.webp",
+   "w": 1200,
+   "h": 869,
+   "caption": {
+    "en": "Hanuman brings the healing herbs (painting by Nainsukh)",
+    "hi": {
+     "text": "हनुमान संजीवनी औषधि लाते हैं (नैनसुख का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमान संजीवनी औषधी आणतात (नैनसुखचे चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Nainsukh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanuman_Revives_Rama_and_Lakshmana_with_Medicinal_Herbs_(IA_mma_hanuman_revives_rama_and_lakshmana_with_medicinal_herbs_37988).jpg"
+  },
+  {
+   "src": "/stories/ramayana/mountain-of-herbs-2.webp",
+   "w": 848,
+   "h": 1100,
+   "caption": {
+    "en": "Rama and Lakshmana defeat Kumbhakarna (Malwa painting)",
+    "hi": {
+     "text": "राम और लक्ष्मण कुंभकर्ण को हराते हैं (मालवा चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम-लक्ष्मण कुंभकर्णाचा पराभव करतात (माळवा चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "painter from India (Madhya Pradesh, Malwa), Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Demon_Kumbhakarna_Is_Defeated_by_Rama_and_Lakshmana.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The war begins",
+    "hi": {
+     "text": "युद्ध आरंभ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धाला सुरुवात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The battle for Lanka was terrible. Monkeys fought with trees and rocks; demons with swords, maces and magic. Day after day heroes fell on both sides.\n\nIndrajit, Ravana's son, fought invisible from behind clouds, and once tied Rama and Lakshmana in snake-arrows. Only when the great eagle Garuda swooped down did the serpents flee and the brothers rise.",
+    "hi": {
+     "text": "लंका का युद्ध भयंकर था। वानर वृक्षों और चट्टानों से लड़ते; राक्षस तलवारों, गदाओं और माया से। दिन-प्रतिदिन दोनों ओर वीर गिरते गए।\n\nरावण का पुत्र इंद्रजीत बादलों के पीछे अदृश्य रहकर लड़ता था, और एक बार उसने राम और लक्ष्मण को नागपाश में बाँध दिया। तभी महान गरुड़ झपटे, तब कहीं साँप भागे और भाई उठ खड़े हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लंकेसाठीचे युद्ध भयंकर होते. वानर झाडे आणि खडकांनी लढत होते; राक्षस तलवारी, गदा आणि मायेने. दिवसेंदिवस दोन्ही बाजूंचे वीर पडत होते.\n\nरावणाचा पुत्र इंद्रजित ढगांमागे अदृश्य राहून लढला आणि एकदा त्याने राम आणि लक्ष्मणाला नागपाशांनी बांधले. महान गरुड झेपावून आला तेव्हाच नाग पळाले आणि भाऊ उठले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sleeping giant",
+    "hi": {
+     "text": "सोता हुआ दानव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "झोपलेला राक्षस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In despair, Ravana woke his brother Kumbhakarna, a giant who slept for months at a time. It took drums, elephants walking on him and mountains of food to rouse him.\n\nKumbhakarna told Ravana honestly: “You did wrong to take Sita.” Yet out of loyalty to his brother, he went to battle. He swallowed monkeys by the handful, until Rama's arrows brought the mountain-like giant down. Even his enemies admired his loyalty.",
+    "hi": {
+     "text": "निराश होकर रावण ने अपने भाई कुंभकर्ण को जगाया, एक विशालकाय जो महीनों सोता रहता था। उसे जगाने में नगाड़े, उस पर चलते हाथी और भोजन के पहाड़ लगे।\n\nकुंभकर्ण ने रावण से सच कह दिया: “तुमने सीता को हरकर बुरा किया।” फिर भी भाई के प्रति निष्ठा के कारण वह युद्ध में उतरा। वह मुट्ठी भर-भरकर वानर निगलता रहा, जब तक राम के बाणों ने उस पर्वत-सरीखे दैत्य को गिरा न दिया। शत्रु भी उसकी निष्ठा की प्रशंसा करते रहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निराश रावणाने आपला भाऊ कुंभकर्णाला जागे केले, जो महिनोन्महिने झोपत असे. त्याला उठवायला नगारे, अंगावरून चालणारे हत्ती आणि अन्नाचे डोंगर लागले.\n\nकुंभकर्णाने रावणाला प्रामाणिकपणे सांगितले: “सीतेला पळवून नेऊन तू चूक केलीस.” तरीही भावाच्या निष्ठेपोटी तो युद्धाला गेला. त्याने मूठभर वानर गिळले, शेवटी रामाच्या बाणांनी त्या पर्वतासारख्या राक्षसाला पाडले. त्याच्या शत्रूंनीही त्याच्या निष्ठेचे कौतुक केले.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Lakshmana falls",
+    "hi": {
+     "text": "लक्ष्मण गिरते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लक्ष्मण पडतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then came the darkest moment. A deadly spear struck Lakshmana in the chest, and he fell, still and pale. Rama sat beside him in the battlefield dust, holding his head, weeping. “I can find another wife, another kingdom, but never another brother like Lakshmana.”\n\nThe monkey doctor Sushena examined him. “He can still be saved, with the sanjeevani herb that grows on a mountain in the Himalaya. But it must be here before sunrise.”",
+    "hi": {
+     "text": "फिर आया सबसे अँधेरा क्षण। एक घातक शक्ति लक्ष्मण की छाती में लगी, और वे स्थिर, पीले होकर गिर पड़े। राम रणभूमि की धूल में उनके पास बैठे, उनका सिर थामे, रोते हुए। “मुझे दूसरी पत्नी मिल सकती है, दूसरा राज्य भी, पर लक्ष्मण जैसा भाई कभी नहीं।”\n\nवानर वैद्य सुषेण ने उनकी जाँच की। “इन्हें अब भी बचाया जा सकता है, संजीवनी बूटी से जो हिमालय के एक पर्वत पर उगती है। पर वह सूर्योदय से पहले यहाँ पहुँचनी चाहिए।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग सर्वात काळोखा क्षण आला. एका प्राणघातक शक्तीने लक्ष्मणाच्या छातीवर घाव घातला आणि तो निश्चल, फिकट होऊन पडला. राम रणांगणाच्या धुळीत त्याच्या शेजारी बसला, त्याचे डोके मांडीवर घेऊन रडत होता. “मला दुसरी पत्नी मिळेल, दुसरे राज्य मिळेल, पण लक्ष्मणासारखा भाऊ कधीच मिळणार नाही.”\n\nवानर वैद्य सुषेणाने त्याला तपासले. “अजूनही तो वाचू शकतो, हिमालयातील पर्वतावर उगवणाऱ्या संजीवनी वनस्पतीने. पण ती सूर्योदयाआधी इथे आली पाहिजे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A mountain in his hand",
+    "hi": {
+     "text": "हाथ में पर्वत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हातात पर्वत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hanuman leapt into the night sky. He flew north across all of India and reached the mountain of herbs. But in the dark, all the plants glowed and he could not tell which was which.\n\nThere was no time to search. So Hanuman wrapped his arms around the whole mountain peak, tore it from the earth, and flew back south with it held high, like a second moon racing across the sky.",
+    "hi": {
+     "text": "हनुमान रात के आकाश में उछल पड़े। वे पूरे भारत के ऊपर से उत्तर की ओर उड़े और जड़ी-बूटियों वाले पर्वत पर पहुँचे। पर अँधेरे में सारे पौधे चमक रहे थे और वे पहचान न सके कि कौन-सा कौन-सा है।\n\nखोजने का समय नहीं था। तो हनुमान ने पूरे पर्वत-शिखर को बाँहों में भर लिया, उसे धरती से उखाड़ लिया, और उसे ऊँचा उठाए दक्षिण की ओर लौट चले, आकाश में दौड़ते दूसरे चाँद की तरह।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमानाने रात्रीच्या आकाशात झेप घेतली. तो उत्तरेला संपूर्ण भारत पार करून औषधी पर्वतावर पोहोचला. पण अंधारात सर्व वनस्पती चमकत होत्या आणि कोणती कोणती ते त्याला ओळखता येईना.\n\nशोधायला वेळ नव्हता. म्हणून हनुमानाने सारे पर्वतशिखर मिठीत घेतले, पृथ्वीवरून उखडले आणि ते उंच धरून दुसऱ्या चंद्रासारखे आकाशातून वेगाने दक्षिणेला परतला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Dawn",
+    "hi": {
+     "text": "भोर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Just before the sun rose, Hanuman landed. Sushena found the herb, crushed it and held it under Lakshmana's nose. Lakshmana's eyes opened. He sat up as if waking from sleep and reached for his bow.\n\nRama embraced Hanuman with tears streaming down his face. Then came Indrajit's final battle, and this time Lakshmana, restored, fought him for three days and finally defeated Lanka's greatest warrior.",
+    "hi": {
+     "text": "सूर्य उगने से ठीक पहले हनुमान उतरे। सुषेण ने जड़ी खोज ली, उसे पीसा और लक्ष्मण की नाक के पास लगाया। लक्ष्मण की आँखें खुल गईं। वे नींद से जागे की तरह उठ बैठे और अपना धनुष ढूँढ़ने लगे।\n\nराम ने आँसू बहाते हुए हनुमान को गले लगा लिया। फिर इंद्रजीत का अंतिम युद्ध हुआ, और इस बार स्वस्थ हुए लक्ष्मण ने तीन दिन तक उससे युद्ध करके अंततः लंका के सबसे बड़े योद्धा को परास्त कर दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूर्य उगवण्याच्या अगदी आधी हनुमान उतरला. सुषेणाला औषधी सापडली, त्याने ती ठेचली आणि लक्ष्मणाच्या नाकाजवळ धरली. लक्ष्मणाने डोळे उघडले. झोपेतून उठल्यासारखा तो उठून बसला आणि धनुष्याकडे हात नेला.\n\nरामाने डोळ्यांतून अश्रू वाहत असताना हनुमानाला मिठी मारली. मग इंद्रजिताचे अंतिम युद्ध झाले आणि यावेळी बरा झालेला लक्ष्मण तीन दिवस त्याच्याशी लढला आणि अखेर लंकेच्या त्या सर्वश्रेष्ठ योद्ध्याला पराभूत केले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "When Hanuman could not find the right herb, he did not give up; he carried the whole mountain. What problem in your life needs a bigger effort instead of more worry? Take one bold step today.",
+  "hi": {
+   "text": "जब हनुमान सही जड़ी न पहचान सके, तो उन्होंने हार नहीं मानी; वे पूरा पर्वत ही उठा लाए। आपके जीवन की कौन-सी समस्या को चिंता की जगह बड़े प्रयास की ज़रूरत है? आज एक साहसी कदम उठाइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "योग्य औषधी सापडली नाही तेव्हा हनुमानाने हार मानली नाही; त्याने संपूर्ण पर्वत उचलला. तुमच्या आयुष्यातील कोणत्या समस्येला जास्त काळजीची नाही, तर मोठ्या प्रयत्नाची गरज आहे? आज एक धाडसी पाऊल उचला.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love finds a way. When the heart is devoted, even mountains can be moved.",
+  "hi": {
+   "text": "प्रेम राह निकाल लेता है। जब हृदय भक्ति से भरा हो, तो पर्वत भी हिल जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रेम मार्ग शोधते. हृदय भक्तीने भरलेले असेल, तर पर्वतही हलवता येतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Yuddha Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, युद्धकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, युद्धकांड",
+   "reviewed": false
+  }
+ }
+}

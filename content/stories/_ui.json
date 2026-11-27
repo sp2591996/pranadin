@@ -27,57 +27,35 @@
    }
   },
   "stories.intro": {
-   "en": "Short, illustrated stories from India's faiths, grouped by tradition and region.",
+   "en": "Sacred story collections from India's faiths. Read the whole Ramayana chapter by chapter, with paintings, verses and moments to reflect.",
    "hi": {
-    "text": "भारत की आस्थाओं की छोटी, चित्रमय कथाएँ, परंपरा और क्षेत्र के अनुसार।",
+    "text": "भारत की आस्थाओं के पवित्र कथा-संग्रह। पूरी रामायण अध्याय दर अध्याय पढ़ें, चित्रों, श्लोकों और चिंतन के पलों के साथ।",
     "reviewed": false
    },
    "mr": {
-    "text": "भारतातील श्रद्धांच्या छोट्या, सचित्र कथा, परंपरा आणि प्रदेशानुसार.",
+    "text": "भारतातील श्रद्धांचे पवित्र कथासंग्रह. संपूर्ण रामायण अध्यायागणिक वाचा, चित्रे, श्लोक आणि चिंतनाच्या क्षणांसह.",
     "reviewed": false
    }
   },
   "stories.jump": {
-   "en": "Jump to a tradition",
+   "en": "Jump to a faith",
    "hi": {
-    "text": "परंपरा चुनें",
+    "text": "किसी आस्था पर जाएँ",
     "reviewed": false
    },
    "mr": {
-    "text": "परंपरा निवडा",
+    "text": "एखाद्या श्रद्धेकडे जा",
     "reviewed": false
    }
   },
   "stories.count": {
-   "en": "{count, plural, one {# story} other {# stories}}",
+   "en": "{count, plural, one {# collection} other {# collections}}",
    "hi": {
-    "text": "{count} कथाएँ",
+    "text": "{count, plural, one {# संग्रह} other {# संग्रह}}",
     "reviewed": false
    },
    "mr": {
-    "text": "{count} कथा",
-    "reviewed": false
-   }
-  },
-  "stories.scenes": {
-   "en": "{count, plural, one {# scene} other {# scenes}}",
-   "hi": {
-    "text": "{count} दृश्य",
-    "reviewed": false
-   },
-   "mr": {
-    "text": "{count} दृश्ये",
-    "reviewed": false
-   }
-  },
-  "stories.read": {
-   "en": "Read the story",
-   "hi": {
-    "text": "कथा पढ़ें",
-    "reviewed": false
-   },
-   "mr": {
-    "text": "कथा वाचा",
+    "text": "{count, plural, one {# संग्रह} other {# संग्रह}}",
     "reviewed": false
    }
   },
@@ -115,13 +93,13 @@
    }
   },
   "stories.back": {
-   "en": "All stories",
+   "en": "All collections",
    "hi": {
-    "text": "सभी कथाएँ",
+    "text": "सभी संग्रह",
     "reviewed": false
    },
    "mr": {
-    "text": "सर्व कथा",
+    "text": "सर्व संग्रह",
     "reviewed": false
    }
   },
@@ -159,13 +137,13 @@
    }
   },
   "stories.more": {
-   "en": "More stories",
+   "en": "More collections",
    "hi": {
-    "text": "और कथाएँ",
+    "text": "और संग्रह",
     "reviewed": false
    },
    "mr": {
-    "text": "आणखी कथा",
+    "text": "आणखी संग्रह",
     "reviewed": false
    }
   },
@@ -181,13 +159,13 @@
    }
   },
   "stories.entry": {
-   "en": "Ramayana, Sai Baba, Dnyaneshwar, Guru Nanak, the Buddha and more, with pictures.",
+   "en": "The whole Ramayana in 16 illustrated chapters, plus Gurucharitra, Sai Satcharitra, the Varkari saints and more.",
    "hi": {
-    "text": "रामायण, साईं बाबा, ज्ञानेश्वर, गुरु नानक, बुद्ध और भी, चित्रों के साथ।",
+    "text": "पूरी रामायण 16 सचित्र अध्यायों में, साथ में गुरुचरित्र, साई सच्चरित्र, वारकरी संत और बहुत कुछ।",
     "reviewed": false
    },
    "mr": {
-    "text": "रामायण, साईबाबा, ज्ञानेश्वर, गुरु नानक, बुद्ध आणि आणखी, चित्रांसह.",
+    "text": "संपूर्ण रामायण 16 सचित्र अध्यायांत, सोबत गुरुचरित्र, साईसच्चरित्र, वारकरी संत आणि बरेच काही.",
     "reviewed": false
    }
   },
@@ -243,6 +221,160 @@
    },
    "mr": {
     "text": "जगभर",
+    "reviewed": false
+   }
+  },
+  "stories.chapters": {
+   "en": "{count, plural, one {# chapter} other {# chapters}}",
+   "hi": {
+    "text": "{count, plural, one {# अध्याय} other {# अध्याय}}",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "{count, plural, one {# अध्याय} other {# अध्याय}}",
+    "reviewed": false
+   }
+  },
+  "stories.open": {
+   "en": "Open",
+   "hi": {
+    "text": "खोलें",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "उघडा",
+    "reviewed": false
+   }
+  },
+  "stories.start": {
+   "en": "Start reading",
+   "hi": {
+    "text": "पढ़ना शुरू करें",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वाचायला सुरुवात करा",
+    "reviewed": false
+   }
+  },
+  "stories.readChapter": {
+   "en": "Read",
+   "hi": {
+    "text": "पढ़ें",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वाचा",
+    "reviewed": false
+   }
+  },
+  "stories.chapterN": {
+   "en": "Chapter {n}",
+   "hi": {
+    "text": "अध्याय {n}",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अध्याय {n}",
+    "reviewed": false
+   }
+  },
+  "stories.chapterOf": {
+   "en": "Chapter {n} of {total}",
+   "hi": {
+    "text": "अध्याय {n} / {total}",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अध्याय {n} / {total}",
+    "reviewed": false
+   }
+  },
+  "stories.contents": {
+   "en": "Chapters",
+   "hi": {
+    "text": "अध्याय",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अध्याय",
+    "reviewed": false
+   }
+  },
+  "stories.growing": {
+   "en": "More chapters coming",
+   "hi": {
+    "text": "और अध्याय जल्द",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "आणखी अध्याय लवकरच",
+    "reviewed": false
+   }
+  },
+  "stories.prev": {
+   "en": "Previous chapter",
+   "hi": {
+    "text": "पिछला अध्याय",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मागील अध्याय",
+    "reviewed": false
+   }
+  },
+  "stories.next": {
+   "en": "Next chapter",
+   "hi": {
+    "text": "अगला अध्याय",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "पुढील अध्याय",
+    "reviewed": false
+   }
+  },
+  "stories.backClub": {
+   "en": "All chapters",
+   "hi": {
+    "text": "सभी अध्याय",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सर्व अध्याय",
+    "reviewed": false
+   }
+  },
+  "stories.verse": {
+   "en": "From the scripture",
+   "hi": {
+    "text": "ग्रंथ से",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ग्रंथातून",
+    "reviewed": false
+   }
+  },
+  "stories.reflect": {
+   "en": "Pause and reflect",
+   "hi": {
+    "text": "ठहरें और सोचें",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "थांबा आणि विचार करा",
+    "reviewed": false
+   }
+  },
+  "stories.end": {
+   "en": "You have reached the end of this collection.",
+   "hi": {
+    "text": "आप इस संग्रह के अंत तक पहुँच गए हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "तुम्ही या संग्रहाच्या शेवटी पोहोचला आहात.",
     "reviewed": false
    }
   }

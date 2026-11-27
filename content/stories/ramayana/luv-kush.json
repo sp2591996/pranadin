@@ -1,0 +1,255 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "id": "luv-kush",
+ "order": 16,
+ "part": "uttara",
+ "figure": {
+  "en": "Luv, Kush and Sita",
+  "hi": {
+   "text": "लव, कुश और सीता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लव, कुश आणि सीता",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Two boys sing the Ramayana",
+  "hi": {
+   "text": "दो बालकों ने गाई रामायण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन मुले रामायण गातात",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In a forest ashram, twin boys learn a long poem by heart. One day they sing it before the king, not knowing he is their father.",
+  "hi": {
+   "text": "वन के आश्रम में दो जुड़वाँ बालक एक लंबा काव्य कंठस्थ करते हैं। एक दिन वे उसे राजा के सामने गाते हैं, यह जाने बिना कि वे उनके पिता हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जंगलातील आश्रमात जुळी मुले एक दीर्घ काव्य मुखोद्गत करतात. एके दिवशी ते राजासमोर ते गातात, तो आपला पिता आहे हे न जाणता.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/luv-kush-1.webp",
+   "w": 1000,
+   "h": 651,
+   "caption": {
+    "en": "Sita, Lava and Kusha in Valmiki's hermitage (Indian painting)",
+    "hi": {
+     "text": "वाल्मीकि के आश्रम में सीता, लव और कुश (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाल्मीकींच्या आश्रमात सीता, लव आणि कुश (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sita,_Lava,_and_Kusha_in_the_hermitage_of_Valmiki.jpg"
+  },
+  {
+   "src": "/stories/ramayana/luv-kush-3.webp",
+   "w": 600,
+   "h": 465,
+   "caption": {
+    "en": "Sita returns to Mother Earth (Raja Ravi Varma)",
+    "hi": {
+     "text": "सीता धरती माता की गोद में लौटती हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीता धरणीमातेच्या कुशीत परत जाते (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sita_Bhum_Pravesh.jpg"
+  },
+  {
+   "src": "/stories/ramayana/luv-kush-2.webp",
+   "w": 736,
+   "h": 568,
+   "caption": {
+    "en": "Lava and Kusha tie the sacrificial horse (wall painting)",
+    "hi": {
+     "text": "लव और कुश यज्ञ का घोड़ा बाँधते हैं (भित्तिचित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लव आणि कुश यज्ञाचा घोडा बांधतात (भित्तिचित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lava-Kush_tying_the_sacrificial_horse_to_a_banana_tree_in_the_hermitage_of_sage_Valmiki_based_on_the_story_of_the_Epic_Ramayana,_1820_CE,_Kangra_School_of_Art,_National_Museum_Delhi.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A king's hardest choice",
+    "hi": {
+     "text": "राजा का सबसे कठिन निर्णय",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाची सर्वात कठीण निवड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Uttara Kanda, the final book, tells a painful story. Some people in Ayodhya whispered doubts about Sita, who had lived in Ravana's land. Rama, as king, felt bound to put the duty of the throne above his own happiness, and Sita was sent to the forest.\n\nThis part of the story has troubled hearts for centuries, and people still question it, debate it, and grieve over it. That too is part of the Ramayana: it asks us to think about justice, and about the cost when duty and love collide.",
+    "hi": {
+     "text": "उत्तरकांड, अंतिम खंड, एक पीड़ादायी कथा कहता है। अयोध्या में कुछ लोग सीता के बारे में संदेह फुसफुसाने लगे, जो रावण की भूमि में रही थीं। राजा के रूप में राम ने सिंहासन के कर्तव्य को अपने सुख से ऊपर माना, और सीता को वन भेज दिया गया।\n\nकथा का यह भाग सदियों से हृदयों को व्यथित करता रहा है, और लोग आज भी इस पर प्रश्न उठाते हैं, बहस करते हैं और दुखी होते हैं। यह भी रामायण का ही अंग है: वह हमें न्याय के बारे में सोचने को कहती है, और उस मूल्य के बारे में जो तब चुकाना पड़ता है जब कर्तव्य और प्रेम टकराते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उत्तरकांड, शेवटचे कांड, एक वेदनादायी कथा सांगते. रावणाच्या देशात राहिलेल्या सीतेबद्दल अयोध्येतील काही लोक शंका कुजबुजू लागले. राजा म्हणून रामाला स्वतःच्या सुखापेक्षा सिंहासनाचे कर्तव्य मोठे मानणे भाग वाटले आणि सीतेला वनात पाठवण्यात आले.\n\nकथेचा हा भाग शतकानुशतके हृदये व्यथित करत आला आहे आणि लोक आजही त्यावर प्रश्न विचारतात, वाद घालतात आणि शोक करतात. तेही रामायणाचाच भाग आहे: ते आपल्याला न्यायाबद्दल विचार करायला लावते आणि कर्तव्य व प्रेम यांची टक्कर झाली की किंमत काय मोजावी लागते याबद्दलही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Twins in the ashram",
+    "hi": {
+     "text": "आश्रम में जुड़वाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आश्रमातील जुळे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sita found shelter in the ashram of Valmiki, the same sage who had once wept over the krauncha bird. There she gave birth to twin sons: Lava and Kusha, known lovingly as Luv and Kush.\n\nThe boys grew up among the sages, strong as young lions. Valmiki taught them archery and the scriptures, and above all he taught them a long poem, the whole Ramayana, verse by verse, to sing to the music of the veena.",
+    "hi": {
+     "text": "सीता को वाल्मीकि के आश्रम में आश्रय मिला, उसी ऋषि के जिन्होंने कभी क्रौंच पक्षी के लिए आँसू बहाए थे। वहाँ उन्होंने जुड़वाँ पुत्रों को जन्म दिया: लव और कुश।\n\nबालक ऋषियों के बीच पले, युवा सिंहों जैसे बलवान। वाल्मीकि ने उन्हें धनुर्विद्या और शास्त्र सिखाए, और सबसे बढ़कर एक लंबा काव्य, पूरी रामायण, श्लोक-श्लोक, वीणा के स्वरों पर गाने के लिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेला वाल्मीकींच्या आश्रमात आश्रय मिळाला, त्याच ऋषींच्या ज्यांनी एकेकाळी क्रौंच पक्ष्यासाठी अश्रू ढाळले होते. तिथे तिने दोन जुळ्या पुत्रांना जन्म दिला: लव आणि कुश, प्रेमाने लव-कुश म्हणून ओळखले जाणारे.\n\nमुले ऋषींच्या सहवासात तरुण सिंहांसारखी बलवान होऊन वाढली. वाल्मीकींनी त्यांना धनुर्विद्या आणि शास्त्रे शिकवली आणि सर्वात मोठी गोष्ट म्हणजे एक दीर्घ काव्य, संपूर्ण रामायण, श्लोकामागून श्लोक, वीणेच्या सुरावर गाण्यासाठी.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The horse that would not be caught",
+    "hi": {
+     "text": "वह घोड़ा जो पकड़ा न जा सका",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कधीही न पकडला जाणारा घोडा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Years later Rama performed the great horse ritual, the Ashvamedha. Many tellings, loved across India, say the sacred horse wandered into the forest near the ashram, and Luv and Kush tied it to a tree for fun. When soldiers came, the boys defeated them, and even great warriors could not overcome the two children.",
+    "hi": {
+     "text": "वर्षों बाद राम ने महान अश्वमेध यज्ञ किया। भारत भर में प्रिय अनेक कथाएँ कहती हैं कि पवित्र घोड़ा आश्रम के पास वन में भटक आया, और लव-कुश ने खेल-खेल में उसे एक पेड़ से बाँध दिया। जब सैनिक आए, तो बालकों ने उन्हें हरा दिया, और बड़े-बड़े योद्धा भी उन दोनों बच्चों पर विजय न पा सके।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वर्षांनंतर रामाने अश्वमेध महायज्ञ केला. भारतभर प्रिय असलेल्या अनेक कथा सांगतात की यज्ञाचा पवित्र घोडा आश्रमाजवळच्या वनात भटकत आला आणि लव-कुशांनी गंमत म्हणून त्याला झाडाला बांधले. सैनिक आले तेव्हा मुलांनी त्यांना हरवले आणि मोठे वीरही त्या दोन बालकांवर मात करू शकले नाहीत.",
+     "reviewed": false
+    }
+   },
+   "image": 2
+  },
+  {
+   "title": {
+    "en": "The song in the court",
+    "hi": {
+     "text": "सभा में गान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दरबारातील गाणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Valmiki brought the boys to Ayodhya. In the great assembly, in front of King Rama, they began to sing the Ramayana in their clear young voices: the birth of four princes, the broken bow, the golden deer, Hanuman's leap.\n\nThe court was spellbound. Rama listened with tears running down his face, hearing his own life. When he learned that the singers were Sita's sons, his sons, his heart broke open.",
+    "hi": {
+     "text": "वाल्मीकि बालकों को अयोध्या ले आए। महान सभा में, राजा राम के सामने, उन्होंने अपनी स्पष्ट युवा वाणी में रामायण गानी शुरू की: चार राजकुमारों का जन्म, टूटा धनुष, स्वर्ण मृग, हनुमान की छलाँग।\n\nसभा मंत्रमुग्ध हो गई। राम आँखों से आँसू बहाते सुनते रहे, अपना ही जीवन सुनते हुए। जब उन्हें पता चला कि गायक सीता के पुत्र हैं, उनके अपने पुत्र, तो उनका हृदय फूट पड़ा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाल्मीकी मुलांना अयोध्येला घेऊन आले. भव्य सभेत, राजा रामासमोर, त्यांनी आपल्या स्वच्छ कोवळ्या आवाजात रामायण गायला सुरुवात केली: चार राजकुमारांचा जन्म, मोडलेले धनुष्य, सोनेरी हरिण, हनुमानाची झेप.\n\nदरबार मंत्रमुग्ध झाला. राम आपले स्वतःचे जीवन ऐकत, चेहऱ्यावरून अश्रू वाहत, ऐकत राहिला. गाणारी मुले सीतेचे पुत्र, त्याचेच पुत्र आहेत हे समजताच त्याचे हृदय उघडले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The earth's embrace",
+    "hi": {
+     "text": "धरती माँ की गोद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पृथ्वीची मिठी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Rama asked that Sita come and prove her purity before the whole court. Sita came, dressed simply, eyes lowered, Valmiki beside her. She folded her hands and said: “If I have never thought of anyone but Rama, may Mother Earth take me back.”\n\nThe ground opened. A golden throne rose up, and the goddess Earth took her daughter in her arms. Sita, born from a furrow in the earth, returned to it. Flowers rained from the sky. Rama ruled for many more years, a king with a grieving heart, and Sita's dignity still shines brighter than any crown.",
+    "hi": {
+     "text": "राम ने कहा कि सीता आकर पूरी सभा के सामने अपनी पवित्रता प्रमाणित करें। सीता आईं, सादे वस्त्रों में, नज़रें झुकाए, वाल्मीकि उनके साथ। उन्होंने हाथ जोड़कर कहा: “यदि मैंने राम के सिवा किसी का चिंतन नहीं किया, तो धरती माता मुझे अपनी गोद में ले लें।”\n\nधरती फट गई। एक स्वर्ण सिंहासन ऊपर उठा, और देवी पृथ्वी ने अपनी पुत्री को बाँहों में ले लिया। धरती की हल-रेखा से जन्मी सीता उसी में लौट गईं। आकाश से फूल बरसे। राम ने और भी बहुत वर्षों तक राज किया, शोकग्रस्त हृदय वाले राजा के रूप में, और सीता की गरिमा आज भी किसी भी मुकुट से अधिक दमकती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामाने सीतेला संपूर्ण दरबारासमोर येऊन आपली पवित्रता सिद्ध करण्यास सांगितले. सीता साधी वस्त्रे नेसून, नजर खाली, शेजारी वाल्मीकींसह आली. तिने हात जोडले आणि म्हणाली: “मी रामाशिवाय दुसऱ्या कोणाचाही विचार केला नसेल, तर माता पृथ्वीने मला पोटात घ्यावे.”\n\nभूमी दुभंगली. एक सोन्याचे सिंहासन वर आले आणि पृथ्वीदेवीने आपल्या कन्येला कवेत घेतले. नांगराच्या तासातून जन्मलेली सीता पुन्हा धरणीमध्ये विलीन झाली. आकाशातून फुलांचा वर्षाव झाला. राम पुढे अनेक वर्षे राज्य करत राहिला, दुःखी हृदयाचा राजा, आणि सीतेचे तेज आजही कोणत्याही मुकुटापेक्षा अधिक झळकते.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "reflect": {
+  "en": "Sita stood in her truth without anger or begging. Think of a time you were misjudged. Can you hold your truth calmly, without needing everyone to agree?",
+  "hi": {
+   "text": "सीता अपने सत्य पर खड़ी रहीं, न क्रोध से, न गिड़गिड़ाकर। उस समय को याद कीजिए जब आपको गलत समझा गया। क्या आप शांति से अपने सत्य पर टिके रह सकते हैं, बिना यह चाहे कि सब सहमत हों?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीता रागाशिवाय आणि याचनेशिवाय आपल्या सत्यात उभी राहिली. तुमचा गैरसमज झाला होता तो काळ आठवा. प्रत्येकाने सहमत व्हावे असे न वाटता तुम्ही शांतपणे आपले सत्य धरून राहू शकता का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Truth and dignity need no one's approval; and the story we live becomes the song others sing.",
+  "hi": {
+   "text": "सत्य और गरिमा को किसी की स्वीकृति नहीं चाहिए; और जो कथा हम जीते हैं, वही आगे चलकर दूसरों का गीत बन जाती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सत्य आणि प्रतिष्ठेला कोणाच्याही मान्यतेची गरज नसते; आणि आपण जगतो ती कथाच इतरांचे गाणे बनते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Uttara Kanda; popular tellings (the horse ritual)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, उत्तरकांड; लोक कथाएँ (अश्वमेध यज्ञ)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, उत्तरकांड; लोककथा (अश्वमेध यज्ञ)",
+   "reviewed": false
+  }
+ }
+}

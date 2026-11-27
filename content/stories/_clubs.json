@@ -1,0 +1,600 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story-clubs",
+ "version": "2026-11-27.2",
+ "status": "draft",
+ "clubs": [
+  {
+   "id": "ramayana",
+   "order": 1,
+   "tradition": "hindu",
+   "region": "india",
+   "title": {
+    "en": "Ramayana",
+    "hi": {
+     "text": "रामायण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामायण",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "The journey of Rama, as sung by Valmiki",
+    "hi": {
+     "text": "वाल्मीकि की गाई राम की यात्रा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाल्मीकींनी गायलेला श्रीरामाचा प्रवास",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "From a sage's tears to a prince's exile, a golden deer, Hanuman's leap and the lamps of Diwali: the whole Ramayana, told chapter by chapter with old paintings, verses and moments to pause and reflect.",
+    "hi": {
+     "text": "एक ऋषि के आँसुओं से लेकर राजकुमार के वनवास, स्वर्ण मृग, हनुमान की छलाँग और दीवाली के दीपों तक: पूरी रामायण, अध्याय दर अध्याय, पुराने चित्रों, श्लोकों और ठहरकर सोचने के पलों के साथ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका ऋषीच्या अश्रूंपासून राजपुत्राच्या वनवासापर्यंत, सुवर्ण मृग, हनुमानाची झेप आणि दिवाळीच्या दिव्यांपर्यंत: संपूर्ण रामायण, अध्यायागणिक, जुनी चित्रे, श्लोक आणि थांबून विचार करण्याच्या क्षणांसह.",
+     "reviewed": false
+    }
+   },
+   "cover": "golden-deer",
+   "growing": false,
+   "parts": [
+    {
+     "id": "bala",
+     "title": {
+      "en": "Bala Kanda · The young princes",
+      "hi": {
+       "text": "बालकांड · नन्हे राजकुमार",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "बालकांड · बालराजकुमार",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "ayodhya",
+     "title": {
+      "en": "Ayodhya Kanda · The kingdom and the exile",
+      "hi": {
+       "text": "अयोध्याकांड · राज्य और वनवास",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "अयोध्याकांड · राज्य आणि वनवास",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "aranya",
+     "title": {
+      "en": "Aranya Kanda · The forest",
+      "hi": {
+       "text": "अरण्यकांड · वन की राह",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "अरण्यकांड · वन",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "kishkindha",
+     "title": {
+      "en": "Kishkindha Kanda · Friends of the forest",
+      "hi": {
+       "text": "किष्किंधाकांड · वन के मित्र",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "किष्किंधाकांड · वनातील मित्र",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "sundara",
+     "title": {
+      "en": "Sundara Kanda · Hanuman's journey",
+      "hi": {
+       "text": "सुंदरकांड · हनुमान की यात्रा",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "सुंदरकांड · हनुमानाचा प्रवास",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "yuddha",
+     "title": {
+      "en": "Yuddha Kanda · The war for dharma",
+      "hi": {
+       "text": "युद्धकांड · धर्म के लिए संग्राम",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "युद्धकांड · धर्मासाठी युद्ध",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "uttara",
+     "title": {
+      "en": "Uttara Kanda · The last chapter",
+      "hi": {
+       "text": "उत्तरकांड · अंतिम अध्याय",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "उत्तरकांड · शेवटचा अध्याय",
+       "reviewed": false
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "mahabharata",
+   "order": 2,
+   "tradition": "hindu",
+   "region": "india",
+   "title": {
+    "en": "Mahabharata",
+    "hi": {
+     "text": "महाभारत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महाभारत",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "The great epic, and Krishna's song",
+    "hi": {
+     "text": "महान महाकाव्य और श्रीकृष्ण का गीत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महान महाकाव्य आणि श्रीकृष्णाचे गीत",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "The story of two royal families, a great war, and the wisdom Krishna shared on the battlefield.",
+    "hi": {
+     "text": "दो राजपरिवारों, एक महायुद्ध और युद्धभूमि में श्रीकृष्ण के दिए ज्ञान की कथा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन राजघराणी, एक महायुद्ध आणि रणभूमीवर श्रीकृष्णाने दिलेल्या ज्ञानाची कथा.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "ganesha",
+   "order": 3,
+   "tradition": "hindu",
+   "region": "india",
+   "title": {
+    "en": "Shri Ganesha",
+    "hi": {
+     "text": "श्री गणेश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री गणेश",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "Stories from the Puranas",
+    "hi": {
+     "text": "पुराणों की कथाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुराणांतील कथा",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "Tales of the elephant-headed god of beginnings, who removes obstacles and loves sweet modaks.",
+    "hi": {
+     "text": "आरंभ के देवता, विघ्नहर्ता और मोदक-प्रिय गजानन की कथाएँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आरंभाची देवता, विघ्नहर्ता आणि मोदकप्रिय गजाननाच्या कथा.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "gurucharitra",
+   "order": 4,
+   "tradition": "hindu",
+   "region": "maharashtra",
+   "title": {
+    "en": "Shri Gurucharitra",
+    "hi": {
+     "text": "श्री गुरुचरित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री गुरुचरित्र",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "Lord Dattatreya and his avatars",
+    "hi": {
+     "text": "भगवान दत्तात्रेय और उनके अवतार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भगवान दत्तात्रेय आणि त्यांचे अवतार",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "The three-faced guru Dattatreya and the saints in his line, as told in the Gurucharitra loved across Maharashtra.",
+    "hi": {
+     "text": "त्रिमुखी गुरु दत्तात्रेय और उनकी परंपरा के संत, जैसा महाराष्ट्र में प्रिय गुरुचरित्र में कहा गया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्रिमुखी गुरु दत्तात्रेय आणि त्यांच्या परंपरेतील संत, महाराष्ट्रात प्रिय असलेल्या गुरुचरित्रात सांगितल्याप्रमाणे.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "swami-samarth",
+   "order": 5,
+   "tradition": "hindu",
+   "region": "maharashtra",
+   "title": {
+    "en": "Shri Swami Samarth",
+    "hi": {
+     "text": "श्री स्वामी समर्थ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री स्वामी समर्थ",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "The saint of Akkalkot",
+    "hi": {
+     "text": "अक्कलकोट के संत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अक्कलकोटचे संत",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "Stories of Swami Samarth of Akkalkot, whose words ‘Do not fear, I am with you’ still comfort millions.",
+    "hi": {
+     "text": "अक्कलकोट के स्वामी समर्थ की कथाएँ, जिनके शब्द ‘डरो मत, मैं तुम्हारे साथ हूँ’ आज भी लाखों को सहारा देते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अक्कलकोटच्या स्वामी समर्थांच्या कथा, ज्यांचे ‘भिऊ नकोस, मी तुझ्या पाठीशी आहे’ हे शब्द आजही लाखोंना धीर देतात.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "sai-satcharitra",
+   "order": 6,
+   "tradition": "hindu",
+   "region": "maharashtra",
+   "title": {
+    "en": "Shri Sai Satcharitra",
+    "hi": {
+     "text": "श्री साई सच्चरित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री साईसच्चरित्र",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "The life of Sai Baba of Shirdi",
+    "hi": {
+     "text": "शिरडी के साईं बाबा का जीवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिर्डीच्या साईबाबांचे जीवन",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "Stories of Sai Baba of Shirdi from the Sai Satcharitra: faith and patience, shraddha and saburi.",
+    "hi": {
+     "text": "साई सच्चरित्र से शिरडी के साईं बाबा की कथाएँ: श्रद्धा और सबुरी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "साईसच्चरित्रातील शिर्डीच्या साईबाबांच्या कथा: श्रद्धा आणि सबुरी.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "varkari",
+   "order": 7,
+   "tradition": "hindu",
+   "region": "maharashtra",
+   "title": {
+    "en": "Varkari saints",
+    "hi": {
+     "text": "वारकरी संत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वारकरी संत",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "The poet-saints of Pandharpur",
+    "hi": {
+     "text": "पंढरपुर के कवि-संत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पंढरपूरचे कवी-संत",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "Pundalik, Dnyaneshwar, Tukaram and the singing pilgrims of Vitthal, from the Bhakti tradition of Maharashtra.",
+    "hi": {
+     "text": "पुंडलीक, ज्ञानेश्वर, तुकाराम और विट्ठल के गाते हुए तीर्थयात्री: महाराष्ट्र की भक्ति परंपरा से।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुंडलिक, ज्ञानेश्वर, तुकाराम आणि विठ्ठलाचे गाणारे वारकरी: महाराष्ट्राच्या भक्तिपरंपरेतून.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "janamsakhi",
+   "order": 8,
+   "tradition": "sikh",
+   "region": "punjab",
+   "title": {
+    "en": "Janamsakhi",
+    "hi": {
+     "text": "जनमसाखी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जनमसाखी",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "Stories of Guru Nanak",
+    "hi": {
+     "text": "गुरु नानक की कथाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरु नानकांच्या कथा",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "Stories of Guru Nanak Dev Ji, the first Sikh Guru, from the Janamsakhis.",
+    "hi": {
+     "text": "जनमसाखियों से सिखों के पहले गुरु, गुरु नानक देव जी की कथाएँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जनमसाखींमधील शिखांचे पहिले गुरु, गुरु नानक देवजींच्या कथा.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "buddha",
+   "order": 9,
+   "tradition": "buddhist",
+   "region": "bihar",
+   "title": {
+    "en": "Life of the Buddha",
+    "hi": {
+     "text": "बुद्ध का जीवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांचे जीवन",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "From prince to the Awakened One",
+    "hi": {
+     "text": "राजकुमार से बुद्ध तक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्रापासून बुद्धापर्यंत",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "How Prince Siddhartha left his palace to find the end of suffering, and awoke under the Bodhi tree.",
+    "hi": {
+     "text": "राजकुमार सिद्धार्थ ने दुख का अंत खोजने के लिए महल कैसे छोड़ा और बोधि वृक्ष के नीचे बुद्धत्व पाया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्र सिद्धार्थाने दुःखाचा अंत शोधण्यासाठी राजवाडा कसा सोडला आणि बोधिवृक्षाखाली ज्ञान कसे प्राप्त केले.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "mahavira",
+   "order": 10,
+   "tradition": "jain",
+   "region": "india",
+   "title": {
+    "en": "Life of Mahavira",
+    "hi": {
+     "text": "महावीर का जीवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महावीरांचे जीवन",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "The last Tirthankara",
+    "hi": {
+     "text": "अंतिम तीर्थंकर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंतिम तीर्थंकर",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "Stories of Vardhamana Mahavira, whose path of non-violence and self-control shapes Jain life.",
+    "hi": {
+     "text": "वर्धमान महावीर की कथाएँ, जिनका अहिंसा और संयम का मार्ग जैन जीवन की नींव है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वर्धमान महावीरांच्या कथा, ज्यांचा अहिंसा आणि संयमाचा मार्ग जैन जीवनाचा पाया आहे.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "parables",
+   "order": 11,
+   "tradition": "christian",
+   "region": "world",
+   "title": {
+    "en": "Parables of Jesus",
+    "hi": {
+     "text": "ईसा मसीह के दृष्टांत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "येशू ख्रिस्ताचे दाखले",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "Simple stories with deep meaning",
+    "hi": {
+     "text": "सरल कथाएँ, गहरा अर्थ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "साध्या कथा, खोल अर्थ",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "Short stories Jesus told to teach love, mercy and kindness to neighbours and strangers.",
+    "hi": {
+     "text": "प्रेम, दया और पड़ोसी तथा अजनबी के प्रति करुणा सिखाने के लिए ईसा मसीह की कही छोटी कथाएँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेजारी आणि अनोळखी व्यक्तींवर प्रेम, दया आणि करुणा शिकवण्यासाठी येशूने सांगितलेल्या छोट्या कथा.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  },
+  {
+   "id": "sufi-saints",
+   "order": 12,
+   "tradition": "islamic",
+   "region": "maharashtra",
+   "title": {
+    "en": "Sufi saints of India",
+    "hi": {
+     "text": "भारत के सूफ़ी संत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भारतातील सूफी संत",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "Stories of love and service",
+    "hi": {
+     "text": "प्रेम और सेवा की कथाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रेम आणि सेवेच्या कथा",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "Stories of the Sufi saints whose shrines welcome people of every faith.",
+    "hi": {
+     "text": "उन सूफ़ी संतों की कथाएँ जिनकी दरगाहें हर धर्म के लोगों का स्वागत करती हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्यांच्या दर्ग्यांत सर्व धर्मांच्या लोकांचे स्वागत होते अशा सूफी संतांच्या कथा.",
+     "reviewed": false
+    }
+   },
+   "growing": true,
+   "parts": []
+  }
+ ]
+}

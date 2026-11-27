@@ -1,0 +1,178 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "sai-baba",
+ "order": 1,
+ "place": "shirdi",
+ "figure": {
+  "en": "Sai Baba of Shirdi",
+  "hi": {
+   "text": "शिरडी के साईं बाबा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शिर्डीचे साईबाबा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Lamps that burned with water",
+  "hi": {
+   "text": "पानी से जले दीप",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पाण्याने पेटलेले दिवे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Refused oil by the shopkeepers, the fakir of Shirdi still lit his lamps.",
+  "hi": {
+   "text": "दुकानदारों ने तेल देने से मना किया, फिर भी शिरडी के फकीर ने दीप जलाए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुकानदारांनी तेल नाकारले, तरीही शिर्डीच्या फकिराने दिवे लावले.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/yatra/shirdi/photo-2.webp",
+   "w": 1200,
+   "h": 800,
+   "caption": {
+    "en": "Sai Baba of Shirdi, an early photograph",
+    "hi": {
+     "text": "शिरडी के साईं बाबा, एक पुराना छायाचित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिर्डीचे साईबाबा, एक जुने छायाचित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Photographer in Shirdi, India, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shirdi_Sai_Baba_2.jpg"
+  },
+  {
+   "src": "/yatra/shirdi/photo-1.webp",
+   "w": 1200,
+   "h": 800,
+   "caption": {
+    "en": "The Chavadi in Shirdi today",
+    "hi": {
+     "text": "आज शिरडी की चावड़ी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आजची शिर्डीतील चावडी",
+     "reviewed": false
+    }
+   },
+   "credit": "कृष्ण कान्त शर्मा, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chawadi_in_Shirdi.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A fakir in an old mosque",
+    "hi": {
+     "text": "पुरानी मस्जिद में एक फकीर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जुन्या मशिदीत एक फकीर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the late 1800s a young fakir settled in Shirdi, in an old mosque he called Dwarkamai. He kept a fire burning there and every evening lit small clay lamps, buying the oil from the village shops.",
+    "hi": {
+     "text": "1800 के अंतिम वर्षों में एक युवा फकीर शिरडी में एक पुरानी मस्जिद में बस गए, जिसे वे द्वारकामाई कहते थे। वहाँ वे धूनी जलाए रखते और हर शाम गाँव की दुकानों से तेल लेकर मिट्टी के दीप जलाते।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "1800 च्या उत्तरार्धात एक तरुण फकीर शिर्डीत एका जुन्या मशिदीत राहू लागले, जिला ते द्वारकामाई म्हणत. तिथे ते धुनी पेटती ठेवत आणि रोज संध्याकाळी गावातील दुकानांतून तेल घेऊन मातीचे दिवे लावत.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  },
+  {
+   "title": {
+    "en": "The shopkeepers say no",
+    "hi": {
+     "text": "दुकानदारों ने मना किया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुकानदारांनी नकार दिला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One evening the shopkeepers decided to test him and said they had no oil. Baba went back quietly, poured water into his tin pot, sipped a little, and filled the lamps with water.",
+    "hi": {
+     "text": "एक शाम दुकानदारों ने उनकी परीक्षा लेने का निश्चय किया और कहा कि तेल नहीं है। बाबा चुपचाप लौट आए, अपने टीन के बर्तन में पानी डाला, थोड़ा पिया, और दीपों में पानी भर दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका संध्याकाळी दुकानदारांनी त्यांची परीक्षा घ्यायचे ठरवले आणि तेल नाही असे सांगितले. बाबा शांतपणे परतले, त्यांनी आपल्या पत्र्याच्या भांड्यात पाणी ओतले, थोडे प्यायले आणि दिव्यांत पाणी भरले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Faith and patience",
+    "hi": {
+     "text": "श्रद्धा और सबुरी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रद्धा आणि सबुरी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The lamps burned through the night, says the Shri Sai Satcharita, and the shopkeepers asked his forgiveness. Baba's teaching is remembered in two words: Shraddha and Saburi, faith and patience.",
+    "hi": {
+     "text": "श्री साईं सच्चरित्र के अनुसार दीप रात भर जलते रहे और दुकानदारों ने क्षमा माँगी। बाबा की सीख दो शब्दों में याद की जाती है: श्रद्धा और सबुरी, यानी विश्वास और धैर्य।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री साईसच्चरित्रानुसार दिवे रात्रभर तेवत राहिले आणि दुकानदारांनी क्षमा मागितली. बाबांची शिकवण दोन शब्दांत आठवली जाते: श्रद्धा आणि सबुरी, म्हणजे विश्वास आणि धीर.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "lesson": {
+  "en": "Answer unkindness with calm, and keep faith and patience.",
+  "hi": {
+   "text": "रूखेपन का उत्तर शांति से दें, और श्रद्धा व धैर्य बनाए रखें।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "उद्धटपणाला शांतपणे उत्तर द्या आणि श्रद्धा व सबुरी ठेवा.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "From the Shri Sai Satcharita by Hemadpant (Govind Dabholkar), chapter 5.",
+  "hi": {
+   "text": "हेमाडपंत (गोविंद दाभोलकर) रचित श्री साईं सच्चरित्र, अध्याय 5 से।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हेमाडपंत (गोविंद दाभोलकर) लिखित श्री साईसच्चरित्र, अध्याय 5 मधून.",
+   "reviewed": false
+  }
+ }
+}
