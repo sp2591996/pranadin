@@ -58,6 +58,10 @@ export const placeCoreSchema = z.object({
   state: lt,
   /** Filter key for the state, e.g. `uttar-pradesh`. */
   stateKey: id,
+  /** Map position of the main shrine (D-038 trip planner: distances and best order). */
+  geo: z.object({ lat: z.number().min(6).max(37), lon: z.number().min(68).max(98) }),
+  /** Typical hours for the main darshan, quiet day to festival crowd (D-038). */
+  visit: z.object({ darshanHours: z.tuple([z.number().min(0.5).max(48), z.number().min(0.5).max(48)]) }),
   traditions: z.array(z.enum(YATRA_TRADITIONS)).min(1),
   deity: lt,
   significance: lt,
@@ -118,6 +122,15 @@ export const placeSchema = z
   });
 export type PlaceFile = z.infer<typeof placeSchema>;
 export type PlaceText = DraftText;
+
+/** Home towns for the trip planner (D-038). `airport`: has regular scheduled flights. */
+export const yatraCitiesSchema = z.object({
+  $schema: z.literal(CONTENT_SCHEMA_ID),
+  namespace: z.literal("yatra-cities"),
+  version: z.string().min(1),
+  status: z.string().min(1),
+  cities: z.array(z.object({ id, name: lt, lat: z.number(), lon: z.number(), airport: z.boolean() })).min(10),
+});
 
 export const yatraUiSchema = z.object({
   $schema: z.literal(CONTENT_SCHEMA_ID),

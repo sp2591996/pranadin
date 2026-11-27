@@ -1,5 +1,6 @@
 "use client";
 
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { Icon } from "@/components/Icon";
@@ -27,7 +28,14 @@ import { yatraRoutes } from "./routes";
 import { loadTrip, saveTrip } from "./store";
 import { PlannerIcon } from "./PlannerIcon";
 import { monthName } from "./month";
-import type { BudgetBand, DayPart, PlaceView, Txt } from "./types";
+import type { BudgetBand, CityView, DayPart, PlaceView, Txt } from "./types";
+import { bestOrder, cityPoint, placePoint, routeKm, suggestDays, type Choice, type Cover, type Style } from "./trip-engine";
+import { COVERS, STYLES, computeTrip } from "./trip-compute";
+import { AboutTrip } from "./AboutTrip";
+
+const LegsSection = dynamic(() => import("./TripDetail").then((m) => m.LegsSection));
+const PlanSection = dynamic(() => import("./TripDetail").then((m) => m.PlanSection));
+const CostSection = dynamic(() => import("./TripDetail").then((m) => m.CostSection));
 
 const BANDS: BudgetBand[] = ["budget", "mid", "comfort"];
 const DAYS: TripDays[] = [1, 2, 3];
@@ -44,8 +52,12 @@ interface Settings {
   start: string;
   travellers: number;
   band: BudgetBand;
+  home: string;
+  cover: Cover;
+  style: Style;
+  picks: Record<string, Partial<Choice>>;
 }
-const DEFAULTS: Settings = { start: "", travellers: 2, band: "mid" };
+const DEFAULTS: Settings = { start: "", travellers: 2, band: "mid", home: "", cover: "sights", style: "balanced", picks: {} };
 
 function readSettings(): Settings {
   try {
@@ -66,6 +78,10 @@ function readSettings(): Settings {
       band: BANDS.includes(raw.band as BudgetBand)
         ? (raw.band as BudgetBand)
         : "mid",
+      home: typeof raw.home === "string" ? raw.home : "",
+      cover: COVERS.includes(raw.cover as Cover) ? (raw.cover as Cover) : "sights",
+      style: STYLES.includes(raw.style as Style) ? (raw.style as Style) : "balanced",
+      picks: raw.picks && typeof raw.picks === "object" ? raw.picks : {},
     };
   } catch {
     return DEFAULTS;
@@ -134,7 +150,7 @@ function StepTitle({
 }
 
 /** Trip planner (D-037): ready trips, photo picker, route with day buttons, dated plan, group cost and season check. */
-export function Planner({ places }: { places: PlaceView[] }) {
+export function Planner({ places, cities }: { places: PlaceView[]; cities: CityView[] }) {
   const s = useS();
   const { t, locale } = useI18n();
   const ids = useMemo(() => places.map((p) => p.id), [places]);
@@ -173,12 +189,39 @@ export function Planner({ places }: { places: PlaceView[] }) {
   };
 
   const plan = useMemo(() => buildPlan(items, places), [items, places]);
-  const days = totalDays(items);
+  const home = cities.find((c) => c.id === cfg.home) ?? null;
+  const trip = useMemo(
+    () =>
+      home && items.length
+        ? computeTrip(
+            { home, stops: items, people: cfg.travellers, band: cfg.band, cover: cfg.cover, style: cfg.style, picks: cfg.picks },
+            byId,
+            places,
+          )
+        : null,
+    [home, items, cfg, byId, places],
+  );
+  const days = trip ? trip.days.length : totalDays(items);
   const cost = estimateBudget(items, places, cfg.band);
-  const group = {
-    min: cost.min * cfg.travellers,
-    max: cost.max * cfg.travellers,
-  };
+  const group = trip
+    ? trip.total
+    : { min: cost.min * cfg.travellers, max: cost.max * cfg.travellers };
+  const order = useMemo(() => {
+    if (!home || items.length < 2) return null;
+    const pts = items.map((i) => placePoint(byId.get(i.placeId)!));
+    const best = bestOrder(cityPoint(home), pts);
+    const save = Math.round(routeKm(cityPoint(home), pts) - routeKm(cityPoint(home), best));
+    return { save, ids: best.map((b) => b.id) };
+  }, [home, items, byId]);
+  const need = items.reduce(
+    (a, i) => {
+      const r = suggestDays(byId.get(i.placeId)!, cfg.cover);
+      return { min: a.min + r.min, max: a.max + r.max };
+    },
+    { min: 0, max: 0 },
+  );
+  const pick = (key: string, patch: Partial<Choice>) =>
+    updateCfg({ picks: { ...cfg.picks, [key]: { ...cfg.picks[key], ...patch } } });
   const warnings = cfg.start ? seasonWarnings(plan, places, cfg.start) : [];
   const dateOf = (n: number) => {
     const k = cfg.start ? addDaysKey(cfg.start, n - 1) : null;
@@ -456,9 +499,48 @@ export function Planner({ places }: { places: PlaceView[] }) {
             )}
           </section>
 
+          {/* ---------- About your trip ---------- */}
+          <section aria-labelledby="pl-about" className="rounded-[var(--r-xl)] border border-divider bg-surface p-5 shadow-elev-1 print:hidden">
+            <StepTitle n={3} id="pl-about" title={s("yatra.planner.about")} sub={s("yatra.planner.aboutSub")} />
+            <AboutTrip cities={cities} home={cfg.home} cover={cfg.cover} style={cfg.style} onChange={updateCfg} />
+          </section>
+
           {/* ---------- 3. Route ---------- */}
           <section aria-labelledby="pl-trip">
-            <StepTitle n={3} id="pl-trip" title={s("yatra.planner.step3")} />
+            <StepTitle
+              n={4}
+              id="pl-trip"
+              title={s("yatra.planner.step3")}
+              sub={items.length ? s("yatra.planner.timeTotal", need) : undefined}
+            />
+            {home && items.length > 0 && (
+              <p className="mb-3 inline-flex items-center gap-2 rounded-full bg-surface-2 px-3 py-1.5 text-small font-semibold">
+                <PlannerIcon name="House" size={16} className="text-primary" />
+                {s("yatra.planner.homeStart", { name: home.name.text })}
+              </p>
+            )}
+            {order && (
+              <div className="mb-3 flex flex-wrap items-center gap-3 print:hidden">
+                {order.save >= 5 ? (
+                  <button
+                    type="button"
+                    className={btn.primary}
+                    onClick={() => {
+                      update(order.ids.map((id) => items.find((i) => i.placeId === id)!));
+                      setMsg(s("yatra.planner.optimised"));
+                    }}
+                  >
+                    <PlannerIcon name="Lightning" size={18} />
+                    {s("yatra.planner.optimiseSave", { km: order.save.toLocaleString("en-IN") })}
+                  </button>
+                ) : (
+                  <p className="flex items-center gap-1.5 text-small text-text-muted">
+                    <PlannerIcon name="Check" size={16} className="text-primary" />
+                    {s("yatra.planner.optimal")}
+                  </p>
+                )}
+              </div>
+            )}
             {items.length === 0 ? (
               <div
                 className="flex flex-col items-center gap-2 rounded-[var(--r-xl)] border-2 border-dashed border-divider p-8 text-center"
@@ -503,6 +585,14 @@ export function Planner({ places }: { places: PlaceView[] }) {
                           t={p.state}
                           className="block truncate text-small text-text-muted"
                         />
+                        <span className="block text-caption font-semibold text-primary">
+                          {(() => {
+                            const r = suggestDays(p, cfg.cover);
+                            return r.min === r.max
+                              ? s("yatra.planner.suggest", { min: r.min })
+                              : s("yatra.planner.suggestRange", { min: r.min, max: r.max });
+                          })()}
+                        </span>
                       </span>
                       <div
                         role="group"
@@ -573,7 +663,27 @@ export function Planner({ places }: { places: PlaceView[] }) {
                 })}
               </ol>
             )}
+            {home && items.length > 0 && (
+              <p className="mt-3 inline-flex items-center gap-2 rounded-full bg-surface-2 px-3 py-1.5 text-small font-semibold">
+                <PlannerIcon name="House" size={16} className="text-primary" />
+                {s("yatra.planner.homeEnd", { name: home.name.text })}
+              </p>
+            )}
           </section>
+
+          {items.length > 0 && !home && (
+            <p className="flex items-center gap-2 rounded-2xl bg-primary-tint p-4 font-semibold text-on-primary-tint print:hidden">
+              <PlannerIcon name="Info" size={20} />
+              {s("yatra.planner.needHome")}
+            </p>
+          )}
+
+          {trip && home && (
+            <section aria-labelledby="pl-legs">
+              <StepTitle n={5} id="pl-legs" title={s("yatra.planner.travel")} sub={s("yatra.planner.travelSub")} />
+              <LegsSection trip={trip} byId={byId} home={home} people={cfg.travellers} onPick={pick} />
+            </section>
+          )}
         </div>
 
         {/* ---------- Side panel: details and summary ---------- */}
@@ -790,7 +900,24 @@ export function Planner({ places }: { places: PlaceView[] }) {
         </aside>
 
         {/* ---------- Day-by-day plan ---------- */}
-        {plan.length > 0 && (
+        {trip && home && (
+          <section aria-labelledby="pl-plan" data-testid="trip-plan" className="min-w-0 lg:col-span-8">
+            <StepTitle n={6} id="pl-plan" title={s("yatra.planner.step5")} />
+            <PlanSection trip={trip} byId={byId} home={home} dateOf={dateOf} />
+          </section>
+        )}
+        {trip && home && (
+          <section aria-labelledby="pl-costs" className="min-w-0 lg:col-span-8">
+            <StepTitle
+              n={7}
+              id="pl-costs"
+              title={s("yatra.planner.costs")}
+              sub={s("yatra.planner.costsSub", { count: cfg.travellers })}
+            />
+            <CostSection trip={trip} byId={byId} home={home} people={cfg.travellers} />
+          </section>
+        )}
+        {!trip && plan.length > 0 && (
           <section
             aria-labelledby="pl-plan"
             data-testid="trip-plan"

@@ -1,0 +1,180 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "ganesha",
+ "tradition": "hindu",
+ "region": "india",
+ "order": 3,
+ "festival": "ganesh-chaturthi",
+ "figure": {
+  "en": "Shri Ganesha",
+  "hi": {
+   "text": "श्री गणेश",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गणेश",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Ganesha's race around the world",
+  "hi": {
+   "text": "गणेश की विश्व परिक्रमा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गणेशाची विश्वप्रदक्षिणा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Two brothers race for a sacred fruit. One flies off on a peacock; the other walks a small circle.",
+  "hi": {
+   "text": "दो भाई एक पवित्र फल के लिए दौड़ लगाते हैं। एक मोर पर उड़ जाता है; दूसरा एक छोटा-सा चक्कर लगाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन भाऊ एका पवित्र फळासाठी शर्यत लावतात. एक मोरावर उडून जातो; दुसरा एक छोटी प्रदक्षिणा घालतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ganesha/1.webp",
+   "w": 508,
+   "h": 727,
+   "caption": {
+    "en": "Shri Ganesha (Ravi Varma Press print)",
+    "hi": {
+     "text": "श्री गणेश (रवि वर्मा प्रेस का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री गणेश (रवि वर्मा प्रेसचे चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Ravi Varma Press, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sri_Mangalmurthy.jpg"
+  },
+  {
+   "src": "/stories/ganesha/2.webp",
+   "w": 738,
+   "h": 1100,
+   "caption": {
+    "en": "Shiva and Parvati with their sons",
+    "hi": {
+     "text": "अपने पुत्रों के साथ शिव और पार्वती",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपल्या पुत्रांसह शिव आणि पार्वती",
+     "reviewed": false
+    }
+   },
+   "credit": "anonymous, may be Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Siva-parvati-by-raja-ravi-varma.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The fruit of wisdom",
+    "hi": {
+     "text": "ज्ञान का फल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानाचे फळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A sage brought a special fruit to Shiva and Parvati. Both sons, Kartikeya and Ganesha, wanted it, so their parents said: whoever goes around the world first will have it.",
+    "hi": {
+     "text": "एक ऋषि शिव और पार्वती के लिए एक विशेष फल लाए। दोनों पुत्र, कार्तिकेय और गणेश, उसे चाहते थे, तो माता-पिता ने कहा: जो पहले संसार की परिक्रमा करेगा, फल उसी का।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका ऋषींनी शिव-पार्वतींसाठी एक विशेष फळ आणले. दोन्ही पुत्र, कार्तिकेय आणि गणेश, ते मागू लागले, तेव्हा आई-वडील म्हणाले: जो आधी जगाला प्रदक्षिणा घालेल, त्याला फळ मिळेल.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "A peacock and a mouse",
+    "hi": {
+     "text": "मोर और मूषक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मोर आणि उंदीर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kartikeya leapt onto his swift peacock and flew away. Ganesha, whose vehicle was a small mouse, sat and thought quietly.",
+    "hi": {
+     "text": "कार्तिकेय अपने तेज़ मोर पर बैठकर उड़ चले। गणेश, जिनका वाहन एक छोटा मूषक था, बैठकर शांति से सोचने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कार्तिकेय आपल्या वेगवान मोरावर बसून उडाले. गणेश, ज्यांचे वाहन एक छोटा उंदीर होता, शांतपणे बसून विचार करू लागले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "My parents are my world",
+    "hi": {
+     "text": "माता-पिता ही मेरा संसार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आई-वडील हेच माझे जग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ganesha walked three times around his parents and bowed. You are my whole world, he said. Shiva and Parvati smiled and gave him the fruit.",
+    "hi": {
+     "text": "गणेश ने अपने माता-पिता की तीन बार परिक्रमा की और प्रणाम किया। उन्होंने कहा, आप ही मेरा पूरा संसार हैं। शिव और पार्वती मुस्कुराए और फल उन्हें दे दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गणेशाने आई-वडिलांना तीन प्रदक्षिणा घातल्या आणि नमस्कार केला. तो म्हणाला, तुम्हीच माझे सारे जग आहात. शिव-पार्वती हसले आणि त्यांनी फळ त्याला दिले.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  }
+ ],
+ "lesson": {
+  "en": "Wisdom and love for those close to us can matter more than speed or strength.",
+  "hi": {
+   "text": "बुद्धि और अपनों के प्रति प्रेम, गति या बल से अधिक महत्वपूर्ण हो सकते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "बुद्धी आणि आपल्या माणसांवरील प्रेम हे वेग किंवा बळापेक्षा मोठे असू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "A popular Puranic story; in Tamil tradition it is linked to Murugan at Palani.",
+  "hi": {
+   "text": "एक लोकप्रिय पौराणिक कथा; तमिल परंपरा में यह पलनी के मुरुगन से जुड़ी है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक लोकप्रिय पौराणिक कथा; तमिळ परंपरेत ती पळनीच्या मुरुगनशी जोडलेली आहे.",
+   "reviewed": false
+  }
+ }
+}

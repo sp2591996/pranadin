@@ -1,11 +1,11 @@
 import fs from "node:fs";
 import path from "node:path";
 import { pickText, type DraftText } from "@/content/draft";
-import { placeCoreSchema, placeGuideSchema, placeSchema, placeSightsSchema, yatraUiSchema, type PlaceFile } from "@/content/yatra";
+import { placeCoreSchema, placeGuideSchema, placeSchema, placeSightsSchema, yatraCitiesSchema, yatraUiSchema, type PlaceFile } from "@/content/yatra";
 import { draftStrings } from "@/features/shared/draft-content.server";
 import { loadFestivalsFile } from "@/features/festivals/content.server";
 import type { Locale } from "@/i18n/config";
-import type { PlaceView, Txt } from "./types";
+import type { CityView, PlaceView, Txt } from "./types";
 
 const DIR = () => path.join(process.cwd(), "content", "yatra");
 const readJson = (...p: string[]): unknown => JSON.parse(fs.readFileSync(path.join(DIR(), ...p), "utf8").replace(/^﻿/, ""));
@@ -41,6 +41,8 @@ export function loadPlaces(locale: Locale): PlaceView[] {
     name: t(p.name),
     state: t(p.state),
     stateKey: p.stateKey,
+    geo: p.geo,
+    darshanHours: p.visit.darshanHours,
     traditions: p.traditions,
     deity: t(p.deity),
     significance: t(p.significance),
@@ -72,4 +74,12 @@ export function loadPlaces(locale: Locale): PlaceView[] {
     health: p.health.map(t),
     etiquette: p.etiquette.map(t),
   }));
+}
+
+/** Home towns for the trip planner (D-038), sorted by name in the reader's language. */
+export function loadCities(locale: Locale): CityView[] {
+  const file = yatraCitiesSchema.parse(readJson("_cities.json"));
+  return file.cities
+    .map((c) => ({ id: c.id, name: pickText(c.name, locale), lat: c.lat, lon: c.lon, airport: c.airport }))
+    .sort((a, b) => a.name.text.localeCompare(b.name.text, locale));
 }

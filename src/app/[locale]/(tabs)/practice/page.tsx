@@ -6,6 +6,8 @@ import { formatMessage } from "@/features/shared/format-message";
 import { PracticeHome } from "@/features/practice/PracticeHome";
 import { ChakrasLink } from "@/features/chakras/ChakrasLink";
 import { YatraLink } from "@/features/yatra/YatraLink";
+import { StoriesLink } from "@/features/stories/StoryViews";
+import { loadStoryStrings } from "@/features/stories/content.server";
 
 const PREFIXES = ["practice.", "tech.", "streak.", "week.", "progress.", "a11y.", "yoga.title", "yoga.entry.sub"];
 
@@ -35,7 +37,7 @@ export default async function PracticePage({ params }: PageProps<"/[locale]/prac
     <StringsProvider strings={strings}>
       <HubNav locale={locale} hub="practice" current="breath" />
       <div className="wide">
-        <PracticeHome techniques={techniques} meditations={meditations} more={<><ChakrasLink locale={locale} /><YatraLink locale={locale} /></>} />
+        <PracticeHome techniques={techniques} meditations={meditations} more={<><ChakrasLink locale={locale} /><YatraLink locale={locale} /><StoriesLink locale={locale} strings={loadStoryStrings(locale)} /></>} />
       </div>
     </StringsProvider>
   );

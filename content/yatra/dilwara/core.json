@@ -28,6 +28,16 @@
     }
   },
   "stateKey": "rajasthan",
+  "geo": {
+    "lat": 24.609,
+    "lon": 72.723
+  },
+  "visit": {
+    "darshanHours": [
+      2,
+      3
+    ]
+  },
   "traditions": [
     "jain"
   ],
@@ -338,5 +348,40 @@
       "reviewed": false
     }
   },
-  "photos": []
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Dilwara Temples",
+        "hi": {
+          "text": "दिलवाड़ा मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिलवाडा मंदिरे",
+          "reviewed": false
+        }
+      },
+      "credit": "Pratyk321, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Dilwara_Prashvantha_Temple_(2).jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Dilwara Temples",
+        "hi": {
+          "text": "दिलवाड़ा मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिलवाडा मंदिरे",
+          "reviewed": false
+        }
+      },
+      "credit": "Brihaspati, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Partially_restored_ceiling_of_a_Dev_Kulika_at_the_Luna_Vasahi_Temple,_Dilwara,_Mt_Abu.jpg"
+    }
+  ]
 }

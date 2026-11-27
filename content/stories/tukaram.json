@@ -1,0 +1,179 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "tukaram",
+ "tradition": "hindu",
+ "region": "maharashtra",
+ "order": 15,
+ "figure": {
+  "en": "Sant Tukaram",
+  "hi": {
+   "text": "संत तुकाराम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत तुकाराम",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The verses the river gave back",
+  "hi": {
+   "text": "नदी ने लौटाए अभंग",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नदीने परत दिलेले अभंग",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A grocer-poet is told to drown his songs. The river had other plans.",
+  "hi": {
+   "text": "एक किराना-व्यापारी कवि से उसके गीत डुबो देने को कहा गया। नदी की कुछ और ही इच्छा थी।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एका वाणी-कवीला आपले अभंग बुडवायला सांगितले. नदीची इच्छा मात्र वेगळीच होती.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/tukaram/1.webp",
+   "w": 766,
+   "h": 1100,
+   "caption": {
+    "en": "Sant Tukaram among devotees (M. V. Dhurandhar)",
+    "hi": {
+     "text": "भक्तों के बीच संत तुकाराम (एम. वी. धुरंधर)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भक्तांमध्ये संत तुकाराम (म. वि. धुरंधर)",
+     "reviewed": false
+    }
+   },
+   "credit": "M. V. Dhurandhar, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dhurandhar_Shivaji_Ramdas_bhet.jpg"
+  },
+  {
+   "src": "/stories/tukaram/2.webp",
+   "w": 822,
+   "h": 1100,
+   "caption": {
+    "en": "Poster of the 1936 Marathi film Sant Tukaram",
+    "hi": {
+     "text": "1936 की मराठी फिल्म संत तुकाराम का पोस्टर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "1936 च्या संत तुकाराम या मराठी चित्रपटाचे भित्तिपत्रक",
+     "reviewed": false
+    }
+   },
+   "credit": "Prabhat, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sant_Tukaram.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A shopkeeper who sang",
+    "hi": {
+     "text": "गाने वाला दुकानदार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाणारा दुकानदार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the 1600s, Tukaram ran a small grocery in Dehu by the Indrayani river. After famine took much of his family, he turned fully to Vitthal and poured his heart into abhangs, simple Marathi songs.",
+    "hi": {
+     "text": "1600 के दशक में तुकाराम इंद्रायणी नदी के किनारे देहू में एक छोटी किराना दुकान चलाते थे। अकाल में परिवार के कई सदस्यों को खोने के बाद वे पूरी तरह विट्ठल की ओर मुड़े और अपना हृदय सरल मराठी अभंगों में उतार दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "1600 च्या दशकात तुकाराम इंद्रायणीकाठच्या देहूत एक छोटे वाण्याचे दुकान चालवत. दुष्काळात कुटुंबातील अनेकजण गमावल्यावर ते पूर्णपणे विठ्ठलाकडे वळले आणि आपले मन साध्या मराठी अभंगांत ओतले.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  },
+  {
+   "title": {
+    "en": "Into the river",
+    "hi": {
+     "text": "नदी में",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Some learned men said a man of his caste had no right to write about God. They made him sink his notebooks in the Indrayani. Tukaram sat by the river and fasted, praying to Vitthal.",
+    "hi": {
+     "text": "कुछ विद्वानों ने कहा कि उनकी जाति के व्यक्ति को भगवान के बारे में लिखने का अधिकार नहीं। उन्होंने तुकाराम से उनकी पोथियाँ इंद्रायणी में डुबवा दीं। तुकाराम नदी किनारे बैठकर उपवास और विट्ठल से प्रार्थना करते रहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काही विद्वानांनी सांगितले की त्यांच्या जातीच्या माणसाला देवाविषयी लिहिण्याचा अधिकार नाही. त्यांनी तुकारामांच्या वह्या इंद्रायणीत बुडवायला लावल्या. तुकाराम नदीकाठी बसून उपवास करत विठ्ठलाची प्रार्थना करत राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The pages float up",
+    "hi": {
+     "text": "पोथियाँ तैर आईं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वह्या तरंगत वर आल्या",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After thirteen days, the tradition says, the notebooks rose from the water, dry and whole. His abhangs are still sung on the wari and in homes, and many Marathi sayings come from them.",
+    "hi": {
+     "text": "परंपरा के अनुसार तेरह दिन बाद पोथियाँ पानी से ऊपर आ गईं, सूखी और पूरी। उनके अभंग आज भी वारी में और घरों में गाए जाते हैं, और अनेक मराठी कहावतें उन्हीं से निकली हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परंपरेनुसार तेरा दिवसांनी वह्या पाण्यावर तरंगत वर आल्या, कोरड्या आणि अखंड. त्यांचे अभंग आजही वारीत आणि घरोघरी गायले जातात, आणि अनेक मराठी म्हणी त्यांतूनच आल्या आहेत.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "lesson": {
+  "en": "Devotion belongs to everyone; truth spoken simply lasts.",
+  "hi": {
+   "text": "भक्ति सबकी है; सरलता से कहा गया सत्य टिकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भक्ती सर्वांची आहे; साधेपणाने सांगितलेले सत्य टिकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "From the Varkari tradition and Mahipati's Bhaktalilamrut.",
+  "hi": {
+   "text": "वारकरी परंपरा और महिपति के भक्तलीलामृत से।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वारकरी परंपरा आणि महिपतींच्या भक्तलीलामृतातून.",
+   "reviewed": false
+  }
+ }
+}

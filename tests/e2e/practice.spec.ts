@@ -6,7 +6,7 @@ test.describe("Practice (US-11 to US-16)", () => {
 
   test("US-11: exactly the 4 approved techniques are listed, with no breath-holding", async ({ page }) => {
     await page.goto("/en/practice/");
-    const breath = page.locator('a[href*="/practice/breath/"]');
+    const breath = page.locator('section[aria-labelledby="breathe-h"] a[href*="/practice/breath/"]');
     await expect(breath).toHaveCount(4);
     for (const name of ["Sama Vritti", "Deergha", "Nadi Shodhana", "Bhramari"]) {
       await expect(breath.filter({ hasText: name })).toHaveCount(1);

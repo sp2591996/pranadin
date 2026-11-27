@@ -28,6 +28,16 @@
     }
   },
   "stateKey": "maharashtra",
+  "geo": {
+    "lat": 18.983,
+    "lon": 72.809
+  },
+  "visit": {
+    "darshanHours": [
+      1,
+      2
+    ]
+  },
   "traditions": [
     "islamic"
   ],
@@ -336,9 +346,9 @@
           "reviewed": false
         }
       },
-      "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+      "credit": "Irfan indo, CC BY-SA 4.0, via Wikimedia Commons",
       "ai": false,
-      "source": "https://commons.wikimedia.org/wiki/File:Mumbai,_India,_Haji_Ali_Dargah_Mosque.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Haji_ali_dargah_mumbai_-_irfani.jpg"
     },
     {
       "file": "photo-2.webp",
@@ -353,9 +363,9 @@
           "reviewed": false
         }
       },
-      "credit": "Shehnil, CC0, via Wikimedia Commons",
+      "credit": "Join2manish, CC BY-SA 4.0, via Wikimedia Commons",
       "ai": false,
-      "source": "https://commons.wikimedia.org/wiki/File:Haji_Ali_Mumbai.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Haji_Ali_Dargah_-_Night_View.JPG"
     }
   ]
 }

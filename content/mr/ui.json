@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved strings have reviewed: true. Draft translations (reviewed: false) are shown too (D-030) until the Board reviews them.",
-  "count": 758,
+  "count": 782,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -3665,6 +3665,102 @@
     },
     "today.photoBy": {
       "text": "छायाचित्र: {credit}",
+      "reviewed": false
+    },
+    "cal.monthCount": {
+      "text": "या महिन्यात {count} सण आणि प्रसंग",
+      "reviewed": false
+    },
+    "cal.legend": {
+      "text": "चंद्र तिथी",
+      "reviewed": false
+    },
+    "cal.legend.full": {
+      "text": "पौर्णिमा",
+      "reviewed": false
+    },
+    "cal.legend.new": {
+      "text": "अमावास्या",
+      "reviewed": false
+    },
+    "cal.legend.ekadashi": {
+      "text": "एकादशी",
+      "reviewed": false
+    },
+    "cal.moonLabel": {
+      "text": "चंद्र: {tithi}",
+      "reviewed": false
+    },
+    "yoga.startHere": {
+      "text": "इथून सुरुवात करा",
+      "reviewed": false
+    },
+    "yoga.hero.newTitle": {
+      "text": "योगात नवीन आहात? {title} ने सुरुवात करा",
+      "reviewed": false
+    },
+    "yoga.hero.newSub": {
+      "text": "{count} छोटे दिवस, दररोज सुमारे {minutes} मिनिटे. प्रत्येक दिवस आधीच्या दिवसावर हळूहळू पुढे जातो.",
+      "reviewed": false
+    },
+    "yoga.hero.contTitle": {
+      "text": "{title} मध्ये पुन्हा स्वागत",
+      "reviewed": false
+    },
+    "yoga.hero.quick": {
+      "text": "वेळ कमी आहे? {title} करून पाहा",
+      "reviewed": false
+    },
+    "yoga.recommended": {
+      "text": "पहिले सत्र यानेच",
+      "reviewed": false
+    },
+    "yoga.cta.start": {
+      "text": "सुरू करा",
+      "reviewed": false
+    },
+    "yoga.cta.view": {
+      "text": "पाहा",
+      "reviewed": false
+    },
+    "practice.startHere": {
+      "text": "इथून सुरुवात करा",
+      "reviewed": false
+    },
+    "practice.hero.title": {
+      "text": "नवीन आहात? {name} ने सुरुवात करा",
+      "reviewed": false
+    },
+    "practice.hero.sub": {
+      "text": "काही शांत मिनिटे संथ, समान श्वास. श्वास रोखणे नाही, सर्वांसाठी सोपे.",
+      "reviewed": false
+    },
+    "practice.cta.breathe": {
+      "text": "श्वास सुरू करा",
+      "reviewed": false
+    },
+    "practice.cta.start": {
+      "text": "सुरू करा",
+      "reviewed": false
+    },
+    "practice.cta.open": {
+      "text": "उघडा",
+      "reviewed": false
+    },
+    "practice.firstPick": {
+      "text": "आधी हेच",
+      "reviewed": false
+    },
+    "practice.silent.sub": {
+      "text": "फक्त तुम्ही, एक टायमर आणि मंद घंटा",
+      "reviewed": false
+    },
+    "practice.guided.sub": {
+      "text": "पडद्यावर सौम्य मार्गदर्शन",
+      "reviewed": false
+    },
+    "nav.stories": {
+      "text": "कथा",
       "reviewed": false
     }
   }

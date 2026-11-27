@@ -149,3 +149,50 @@ export interface FestivalsFile {
   ui: Record<string, LocalizedText>;
   festivals: FestivalFile[];
 }
+
+/* ------------------------------ Stories (D-038) ------------------------------ */
+
+export const STORY_TRADITIONS = ["hindu", "sikh", "buddhist", "jain", "christian", "islamic", "parsi"] as const;
+export const STORY_REGIONS = ["india", "maharashtra", "punjab", "bihar", "world"] as const;
+
+const storyImage = z.object({
+  /** Path under public/, e.g. /stories/ramayana/1.webp or a yatra photo. */
+  src: z.string().regex(/^\/(stories|yatra)\/[a-z0-9-]+\/[a-z0-9-]+\.webp$/),
+  w: z.number().int().positive(),
+  h: z.number().int().positive(),
+  caption: localizedText,
+  credit: z.string().min(1),
+  source: z.url(),
+});
+
+export const storySchema = z.object({
+  $schema: z.literal(CONTENT_SCHEMA_ID),
+  namespace: z.literal("story"),
+  version: z.string().min(1),
+  status: z.string().min(1),
+  id: z.string().regex(/^[a-z0-9-]+$/),
+  tradition: z.enum(STORY_TRADITIONS),
+  region: z.enum(STORY_REGIONS),
+  order: z.number().int(),
+  /** Yatra place id and festival id, for cross-links (optional). */
+  place: z.string().optional(),
+  festival: z.string().optional(),
+  figure: localizedText,
+  title: localizedText,
+  teaser: localizedText,
+  images: z.array(storyImage).min(1),
+  scenes: z
+    .array(z.object({ title: localizedText, text: localizedText, image: z.number().int().min(0).optional() }))
+    .min(3),
+  lesson: localizedText,
+  source: localizedText,
+});
+export type StoryFile = z.infer<typeof storySchema>;
+
+export const storiesUiSchema = z.object({
+  $schema: z.literal(CONTENT_SCHEMA_ID),
+  namespace: z.literal("stories-ui"),
+  version: z.string().min(1),
+  status: z.string().min(1),
+  ui: z.record(z.string(), localizedText),
+});

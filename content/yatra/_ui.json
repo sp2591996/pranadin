@@ -1598,6 +1598,886 @@
         "text": "तुमचा मार्ग रिकामा आहे",
         "reviewed": false
       }
+    },
+    "yatra.planner.about": {
+      "en": "About your trip",
+      "hi": {
+        "text": "आपकी यात्रा के बारे में",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमच्या सहलीबद्दल",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.aboutSub": {
+      "en": "Where you start, who is coming and what you want to cover.",
+      "hi": {
+        "text": "आप कहाँ से चलेंगे, कौन साथ है और क्या देखना है।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुम्ही कुठून निघणार, सोबत कोण आहे आणि काय पाहायचे आहे.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.home": {
+      "en": "Your home town",
+      "hi": {
+        "text": "आपका शहर",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमचे गाव किंवा शहर",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.homePick": {
+      "en": "Choose your town",
+      "hi": {
+        "text": "अपना शहर चुनें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमचे शहर निवडा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.needHome": {
+      "en": "Choose your home town to see travel, timings and costs.",
+      "hi": {
+        "text": "यात्रा, समय और खर्च देखने के लिए अपना शहर चुनें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रवास, वेळ आणि खर्च पाहण्यासाठी तुमचे शहर निवडा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cover": {
+      "en": "What do you want to cover?",
+      "hi": {
+        "text": "आप क्या देखना चाहते हैं?",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुम्हाला काय पाहायचे आहे?",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cover.darshan": {
+      "en": "Darshan only",
+      "hi": {
+        "text": "केवल दर्शन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "फक्त दर्शन",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cover.darshanSub": {
+      "en": "The main shrine and temples in town.",
+      "hi": {
+        "text": "मुख्य धाम और नगर के मंदिर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मुख्य देवस्थान आणि गावातील मंदिरे.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cover.sights": {
+      "en": "Darshan and sightseeing",
+      "hi": {
+        "text": "दर्शन और भ्रमण",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर्शन आणि स्थलदर्शन",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cover.sightsSub": {
+      "en": "Also day trips to places within 100 km.",
+      "hi": {
+        "text": "साथ में 100 किमी तक के स्थानों की दिन-यात्रा।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सोबत 100 किमीपर्यंतच्या ठिकाणांची दिवसाची सहल.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.style": {
+      "en": "How do you like to travel?",
+      "hi": {
+        "text": "आप कैसे यात्रा करना पसंद करते हैं?",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुम्हाला प्रवास कसा आवडतो?",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.style.cheap": {
+      "en": "Lowest cost",
+      "hi": {
+        "text": "सबसे कम खर्च",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्वात कमी खर्च",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.style.balanced": {
+      "en": "Balanced",
+      "hi": {
+        "text": "संतुलित",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "संतुलित",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.style.fast": {
+      "en": "Fastest",
+      "hi": {
+        "text": "सबसे तेज़",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्वात जलद",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.optimise": {
+      "en": "Best order",
+      "hi": {
+        "text": "सबसे अच्छा क्रम",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्वोत्तम क्रम",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.optimiseSave": {
+      "en": "Best order: saves about {km} km",
+      "hi": {
+        "text": "सबसे अच्छा क्रम: लगभग {km} किमी की बचत",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्वोत्तम क्रम: सुमारे {km} किमी वाचतात",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.optimal": {
+      "en": "Your order is already the shortest.",
+      "hi": {
+        "text": "आपका क्रम पहले से सबसे छोटा है।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमचा क्रम आधीच सर्वात लहान आहे.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.optimised": {
+      "en": "Order changed to save time and money.",
+      "hi": {
+        "text": "समय और पैसा बचाने के लिए क्रम बदला गया।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "वेळ आणि पैसा वाचवण्यासाठी क्रम बदलला.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.suggest": {
+      "en": "Suggested: {min, plural, one {# day} other {# days}}",
+      "hi": {
+        "text": "सुझाव: {min} दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सुचवलेले: {min} दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.suggestRange": {
+      "en": "Suggested: {min} to {max} days",
+      "hi": {
+        "text": "सुझाव: {min} से {max} दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सुचवलेले: {min} ते {max} दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.homeStart": {
+      "en": "Start: {name}",
+      "hi": {
+        "text": "आरंभ: {name}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सुरुवात: {name}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.homeEnd": {
+      "en": "Back home: {name}",
+      "hi": {
+        "text": "घर वापसी: {name}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "घरी परत: {name}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.travel": {
+      "en": "Travel between places",
+      "hi": {
+        "text": "स्थानों के बीच यात्रा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ठिकाणांदरम्यान प्रवास",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.travelSub": {
+      "en": "Pick how to go on each leg. Fares are indicative, for your whole group.",
+      "hi": {
+        "text": "हर हिस्से के लिए साधन चुनें। किराया अनुमानित है, पूरे समूह के लिए।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रत्येक टप्प्यासाठी साधन निवडा. भाडे अंदाजे आहे, संपूर्ण गटासाठी.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.legFor": {
+      "en": "Travel from {from} to {to}",
+      "hi": {
+        "text": "{from} से {to} तक यात्रा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{from} ते {to} प्रवास",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.legLine": {
+      "en": "{km} km · {hmin} to {hmax} h",
+      "hi": {
+        "text": "{km} किमी · {hmin} से {hmax} घंटे",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{km} किमी · {hmin} ते {hmax} तास",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.groupCost": {
+      "en": "{min} to {max}",
+      "hi": {
+        "text": "{min} से {max}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{min} ते {max}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.trainClass": {
+      "en": "Train class",
+      "hi": {
+        "text": "ट्रेन श्रेणी",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "रेल्वे वर्ग",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.busType": {
+      "en": "Bus type",
+      "hi": {
+        "text": "बस प्रकार",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "बसचा प्रकार",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.mode.train": {
+      "en": "Train",
+      "hi": {
+        "text": "ट्रेन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "रेल्वे",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.mode.bus": {
+      "en": "Bus",
+      "hi": {
+        "text": "बस",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "बस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.mode.cab": {
+      "en": "Taxi",
+      "hi": {
+        "text": "टैक्सी",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "टॅक्सी",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.mode.flight": {
+      "en": "Flight",
+      "hi": {
+        "text": "उड़ान",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "विमान",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cls.2S": {
+      "en": "2S seat",
+      "hi": {
+        "text": "2S सीट",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "2S आसन",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cls.SL": {
+      "en": "Sleeper",
+      "hi": {
+        "text": "स्लीपर",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "स्लीपर",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cls.3A": {
+      "en": "3AC",
+      "hi": {
+        "text": "3AC",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "3AC",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cls.2A": {
+      "en": "2AC",
+      "hi": {
+        "text": "2AC",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "2AC",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cls.1A": {
+      "en": "1AC",
+      "hi": {
+        "text": "1AC",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "1AC",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.bus.ordinary": {
+      "en": "State bus",
+      "hi": {
+        "text": "राज्य बस",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "एसटी बस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.bus.sleeper": {
+      "en": "AC sleeper",
+      "hi": {
+        "text": "एसी स्लीपर",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "एसी स्लीपर",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cars": {
+      "en": "{count, plural, one {# car} other {# cars}}",
+      "hi": {
+        "text": "{count} गाड़ी",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{count} गाड्या",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.dayAt": {
+      "en": "Day {n} · {place}",
+      "hi": {
+        "text": "दिन {n} · {place}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवस {n} · {place}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.dayMove": {
+      "en": "Day {n} · On the move",
+      "hi": {
+        "text": "दिन {n} · यात्रा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवस {n} · प्रवास",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.part.night": {
+      "en": "Night",
+      "hi": {
+        "text": "रात",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "रात्र",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.hop": {
+      "en": "Go on to {to} by {mode} ({hmin} to {hmax} h) and check in.",
+      "hi": {
+        "text": "{mode} से {to} जाएँ ({hmin} से {hmax} घंटे) और ठहरें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{mode} ने {to} येथे जा ({hmin} ते {hmax} तास) आणि मुक्काम करा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.day": {
+      "en": "Leave {from} by {mode} for {to}: {km} km, {hmin} to {hmax} h.",
+      "hi": {
+        "text": "{mode} से {from} से {to} के लिए निकलें: {km} किमी, {hmin} से {hmax} घंटे।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{mode} ने {from} येथून {to} साठी निघा: {km} किमी, {hmin} ते {hmax} तास.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.night": {
+      "en": "Take the overnight {mode} from {from} to {to}: {hmin} to {hmax} h.",
+      "hi": {
+        "text": "{from} से {to} तक रात की {mode} लें: {hmin} से {hmax} घंटे।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{from} ते {to} रात्रीची {mode} घ्या: {hmin} ते {hmax} तास.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.travel": {
+      "en": "On the way to {to}. Rest, and carry water and simple food.",
+      "hi": {
+        "text": "{to} के रास्ते में। आराम करें, पानी और सादा भोजन साथ रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{to} च्या वाटेवर. विश्रांती घ्या, पाणी आणि साधे अन्न सोबत ठेवा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.arrive": {
+      "en": "Reach {to}.",
+      "hi": {
+        "text": "{to} पहुँचें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{to} येथे पोहोचा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.rail": {
+      "en": "From the station it is {km} km to the shrine by auto or taxi.",
+      "hi": {
+        "text": "स्टेशन से धाम {km} किमी है, ऑटो या टैक्सी से।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "स्थानकापासून देवस्थान {km} किमी आहे, रिक्षा किंवा टॅक्सीने.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.air": {
+      "en": "From the airport it is {km} km by taxi.",
+      "hi": {
+        "text": "हवाई अड्डे से {km} किमी टैक्सी से।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "विमानतळापासून {km} किमी टॅक्सीने.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.rest": {
+      "en": "Check in, rest, and take an easy evening walk near the shrine.",
+      "hi": {
+        "text": "ठहरें, आराम करें और शाम को धाम के पास हल्की सैर करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मुक्काम करा, विश्रांती घ्या आणि संध्याकाळी देवस्थानाजवळ हलका फेरफटका मारा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.darshan": {
+      "en": "Darshan at {sight}. Allow {hmin} to {hmax} h: less on quiet weekdays, more at weekends and festivals.",
+      "hi": {
+        "text": "{sight} में दर्शन। {hmin} से {hmax} घंटे रखें: सामान्य दिनों में कम, सप्ताहांत और त्योहारों पर अधिक।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{sight} येथे दर्शन. {hmin} ते {hmax} तास ठेवा: साध्या दिवशी कमी, सुट्टी आणि सणांना जास्त.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.sights": {
+      "en": "Visit {list}.",
+      "hi": {
+        "text": "{list} देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{list} पाहा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.daytrip": {
+      "en": "Day trip: {list}. About {h} h in all.",
+      "hi": {
+        "text": "दिन-यात्रा: {list}। कुल लगभग {h} घंटे।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवसाची सहल: {list}. एकूण सुमारे {h} तास.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.tripItem": {
+      "en": "{name} ({km} km)",
+      "hi": {
+        "text": "{name} ({km} किमी)",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{name} ({km} किमी)",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.local": {
+      "en": "Getting around: {text}",
+      "hi": {
+        "text": "आवाजाही: {text}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "फिरण्यासाठी: {text}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.dayCab": {
+      "en": "Hire a local taxi for the day (about {cost} per car), or use shared jeeps and state buses where they run. A local travel agent can arrange either.",
+      "hi": {
+        "text": "दिन भर के लिए स्थानीय टैक्सी लें (प्रति गाड़ी लगभग {cost}), या जहाँ चलें वहाँ साझा जीप और राज्य बसें। स्थानीय ट्रैवल एजेंट दोनों की व्यवस्था कर सकता है।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवसभरासाठी स्थानिक टॅक्सी घ्या (प्रति गाडी सुमारे {cost}), किंवा जिथे चालतात तिथे शेअर जीप आणि एसटी बस. स्थानिक ट्रॅव्हल एजंट दोन्हीची सोय करू शकतो.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.p.home": {
+      "en": "Reach home in {to}.",
+      "hi": {
+        "text": "{to} में घर पहुँचें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{to} येथे घरी पोहोचा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.timeTotal": {
+      "en": "Time needed: {min} to {max} days",
+      "hi": {
+        "text": "आवश्यक समय: {min} से {max} दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "लागणारा वेळ: {min} ते {max} दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.costs": {
+      "en": "Cost estimate",
+      "hi": {
+        "text": "खर्च का अनुमान",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "खर्चाचा अंदाज",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.costsSub": {
+      "en": "For {count, plural, one {# traveller} other {# travellers}}. Indicative, before discounts.",
+      "hi": {
+        "text": "{count} यात्रियों के लिए। अनुमानित, छूट से पहले।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{count} प्रवाशांसाठी. अंदाजे, सवलतीपूर्वी.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cg.travel": {
+      "en": "Travel",
+      "hi": {
+        "text": "यात्रा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रवास",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cg.stay": {
+      "en": "Stay",
+      "hi": {
+        "text": "ठहरना",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "निवास",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cg.food": {
+      "en": "Food",
+      "hi": {
+        "text": "भोजन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जेवण",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cg.local": {
+      "en": "Local transport",
+      "hi": {
+        "text": "स्थानीय आवाजाही",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "स्थानिक वाहतूक",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cg.darshan": {
+      "en": "Darshan passes and entry",
+      "hi": {
+        "text": "दर्शन पास और प्रवेश",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर्शन पास आणि प्रवेश",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cg.buffer": {
+      "en": "Buffer for surprises",
+      "hi": {
+        "text": "अचानक खर्च के लिए",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "अचानक खर्चासाठी",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.c.leg": {
+      "en": "{from} to {to}, {mode}",
+      "hi": {
+        "text": "{from} से {to}, {mode}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{from} ते {to}, {mode}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.c.stay": {
+      "en": "{place}: {nights, plural, one {# night} other {# nights}}, {rooms, plural, one {# room} other {# rooms}}",
+      "hi": {
+        "text": "{place}: {nights} रात, {rooms} कमरे",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{place}: {nights} रात्री, {rooms} खोल्या",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.c.food": {
+      "en": "{days, plural, one {# day} other {# days}} for {people, plural, one {# person} other {# people}}",
+      "hi": {
+        "text": "{people} लोगों के लिए {days} दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{people} जणांसाठी {days} दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.c.local": {
+      "en": "{place}: autos and short rides{trips, plural, =0 {} one {, # day trip by taxi} other {, # day trips by taxi}}",
+      "hi": {
+        "text": "{place}: ऑटो और छोटी सवारी, {trips} दिन-यात्रा टैक्सी से",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{place}: रिक्षा आणि छोट्या फेऱ्या, {trips} दिवसाच्या सहली टॅक्सीने",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.c.darshan": {
+      "en": "General darshan is free; optional paid passes and entry tickets",
+      "hi": {
+        "text": "सामान्य दर्शन निःशुल्क; वैकल्पिक सशुल्क पास और प्रवेश टिकट",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सामान्य दर्शन मोफत; ऐच्छिक सशुल्क पास आणि प्रवेश तिकिटे",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.c.buffer": {
+      "en": "5 to 10 percent for delays, tips and changes",
+      "hi": {
+        "text": "देरी, टिप और बदलाव के लिए 5 से 10 प्रतिशत",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उशीर, टिप आणि बदलांसाठी 5 ते 10 टक्के",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.total2": {
+      "en": "Total",
+      "hi": {
+        "text": "कुल",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "एकूण",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.perHead": {
+      "en": "About {min} to {max} per person",
+      "hi": {
+        "text": "प्रति व्यक्ति लगभग {min} से {max}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रति व्यक्ती सुमारे {min} ते {max}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.fareNote": {
+      "en": "Train fares follow Indian Railways distance bands; bus, taxi and air fares are typical 2026 levels. Check the official sites before you book.",
+      "hi": {
+        "text": "ट्रेन किराया भारतीय रेल की दूरी-श्रेणी पर आधारित; बस, टैक्सी और हवाई किराया 2026 के सामान्य स्तर। बुकिंग से पहले आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "रेल्वे भाडे भारतीय रेल्वेच्या अंतर-टप्प्यांवर आधारित; बस, टॅक्सी आणि विमान भाडे 2026 च्या साधारण पातळीवर. आरक्षणापूर्वी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.step4": {
+      "en": "Travel",
+      "hi": {
+        "text": "यात्रा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रवास",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.step5": {
+      "en": "Your day-by-day plan",
+      "hi": {
+        "text": "आपकी दिन-प्रतिदिन योजना",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमची दिवसागणिक योजना",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.step6": {
+      "en": "Cost estimate",
+      "hi": {
+        "text": "खर्च का अनुमान",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "खर्चाचा अंदाज",
+        "reviewed": false
+      }
     }
   }
 }

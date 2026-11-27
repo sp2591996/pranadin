@@ -22,6 +22,8 @@ export interface PlaceView {
   name: Txt;
   state: Txt;
   stateKey: string;
+  geo: { lat: number; lon: number };
+  darshanHours: [number, number];
   traditions: FestivalTradition[];
   deity: Txt;
   significance: Txt;
@@ -46,4 +48,12 @@ export interface PlaceView {
   budget: { bands: Record<BudgetBand, Range>; note: Txt };
   health: Txt[];
   etiquette: Txt[];
+}
+
+export interface CityView {
+  id: string;
+  name: Txt;
+  lat: number;
+  lon: number;
+  airport: boolean;
 }

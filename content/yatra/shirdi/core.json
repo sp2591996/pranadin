@@ -28,6 +28,16 @@
     }
   },
   "stateKey": "maharashtra",
+  "geo": {
+    "lat": 19.766,
+    "lon": 74.477
+  },
+  "visit": {
+    "darshanHours": [
+      2,
+      6
+    ]
+  },
   "traditions": [
     "hindu"
   ],
@@ -352,7 +362,42 @@
       }
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Shirdi",
+        "hi": {
+          "text": "शिरडी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शिर्डी",
+          "reviewed": false
+        }
+      },
+      "credit": "कृष्ण कान्त शर्मा, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Chawadi_in_Shirdi.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Shirdi",
+        "hi": {
+          "text": "शिरडी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शिर्डी",
+          "reviewed": false
+        }
+      },
+      "credit": "Photographer in Shirdi, India, Public domain, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Shirdi_Sai_Baba_2.jpg"
+    }
+  ],
   "sources": [
     {
       "label": "Shirdi, Wikipedia",

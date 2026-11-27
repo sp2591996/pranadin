@@ -1,0 +1,180 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "mahavira",
+ "tradition": "jain",
+ "region": "india",
+ "order": 40,
+ "festival": "mahavir-jayanti",
+ "figure": {
+  "en": "Bhagwan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Mahavira and the angry snake",
+  "hi": {
+   "text": "महावीर और क्रोधी सर्प",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महावीर आणि क्रोधी सर्प",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A deadly snake strikes, and is answered with peace.",
+  "hi": {
+   "text": "एक विषैला सर्प डसता है, और उसे शांति से उत्तर मिलता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक विषारी सर्प दंश करतो, आणि त्याला शांततेने उत्तर मिळते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/2.webp",
+   "w": 1200,
+   "h": 518,
+   "caption": {
+    "en": "Mahavira gives away all he owns before taking up the ascetic life, manuscript painting",
+    "hi": {
+     "text": "संन्यास से पहले महावीर अपना सब कुछ दान करते हैं, पांडुलिपि चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संन्यासापूर्वी महावीर आपले सर्वस्व दान करतात, हस्तलिखितातील चित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Anishshah19, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kalpasutra_Mahavira_Varsidaan.jpg"
+  },
+  {
+   "src": "/stories/mahavira/1.webp",
+   "w": 750,
+   "h": 681,
+   "caption": {
+    "en": "A Jain painting of a Tirthankara's assembly, about 1825",
+    "hi": {
+     "text": "तीर्थंकर की धर्मसभा का जैन चित्र, लगभग 1825",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीर्थंकरांच्या धर्मसभेचे जैन चित्र, सुमारे 1825",
+     "reviewed": false
+    }
+   },
+   "credit": "thesandiegomuseumofartcollection, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Jaina_Tirthankara,_Mahavira_(6124596033).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Giving everything away",
+    "hi": {
+     "text": "सब कुछ त्याग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्वस्वाचा त्याग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Prince Vardhamana gave away all his wealth and, at thirty, left home to live as a wandering ascetic, harming no living being.",
+    "hi": {
+     "text": "राजकुमार वर्धमान ने अपनी सारी संपत्ति दान कर दी और तीस वर्ष की आयु में घर छोड़कर एक भ्रमणशील तपस्वी बने, किसी भी जीव को हानि पहुँचाए बिना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्र वर्धमानांनी आपली सर्व संपत्ती दान केली आणि तिसाव्या वर्षी घर सोडून कोणत्याही जीवाला इजा न करता भटके तपस्वी झाले.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  },
+  {
+   "title": {
+    "en": "The snake Chandkaushik",
+    "hi": {
+     "text": "चंडकौशिक सर्प",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चंडकौशिक सर्प",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Villagers warned him not to take a forest path where the snake Chandkaushik lived; its glare and bite killed anything near. Mahavira walked that way and stood still in meditation. The snake struck him again and again.",
+    "hi": {
+     "text": "गाँव वालों ने उन्हें उस वन-मार्ग से न जाने को कहा जहाँ चंडकौशिक सर्प रहता था; उसकी दृष्टि और दंश से पास का हर प्राणी मर जाता था। महावीर उसी मार्ग से गए और ध्यान में स्थिर खड़े रहे। सर्प ने उन्हें बार-बार डसा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गावकऱ्यांनी त्यांना ज्या वनमार्गावर चंडकौशिक सर्प राहत होता तिथून न जाण्याचा इशारा दिला; त्याच्या नजरेने आणि दंशाने जवळचा प्रत्येक जीव मरत असे. महावीर त्याच मार्गाने गेले आणि ध्यानात स्थिर उभे राहिले. सर्पाने त्यांना पुन्हा पुन्हा दंश केला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Awaken, Chandkaushik",
+    "hi": {
+     "text": "जागो, चंडकौशिक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जागा हो, चंडकौशिक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Mahavira felt no anger. He looked at the snake with compassion and said gently: understand, Chandkaushik. The snake grew calm, gave up its violence and lay peacefully until the end of its life.",
+    "hi": {
+     "text": "महावीर को क्रोध नहीं आया। उन्होंने करुणा से सर्प को देखा और कोमलता से कहा: समझो, चंडकौशिक। सर्प शांत हो गया, उसने हिंसा छोड़ दी और जीवन के अंत तक शांति से पड़ा रहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महावीरांना राग आला नाही. त्यांनी करुणेने सर्पाकडे पाहिले आणि सौम्यपणे म्हणाले: समज, चंडकौशिक. सर्प शांत झाला, त्याने हिंसा सोडली आणि आयुष्याच्या शेवटपर्यंत शांतपणे पडून राहिला.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "lesson": {
+  "en": "Non-violence and compassion can change even the angriest heart.",
+  "hi": {
+   "text": "अहिंसा और करुणा सबसे क्रोधी हृदय को भी बदल सकती हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अहिंसा आणि करुणा अतिशय क्रोधी हृदयालाही बदलू शकतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "From Jain tradition, as told in the Kalpasutra commentaries and Hemachandra's Trishashti-shalaka-purusha-charitra.",
+  "hi": {
+   "text": "जैन परंपरा से, जैसा कल्पसूत्र की टीकाओं और हेमचंद्र के त्रिषष्टि-शलाका-पुरुष-चरित्र में वर्णित है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जैन परंपरेतून, कल्पसूत्राच्या टीका आणि हेमचंद्रांच्या त्रिषष्टि-शलाका-पुरुष-चरित्रात सांगितल्याप्रमाणे.",
+   "reviewed": false
+  }
+ }
+}

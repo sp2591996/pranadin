@@ -28,6 +28,16 @@
     }
   },
   "stateKey": "maharashtra",
+  "geo": {
+    "lat": 17.678,
+    "lon": 75.331
+  },
+  "visit": {
+    "darshanHours": [
+      2,
+      8
+    ]
+  },
   "traditions": [
     "hindu"
   ],
@@ -384,7 +394,42 @@
       }
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Pandharpur",
+        "hi": {
+          "text": "पंढरपुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पंढरपूर",
+          "reviewed": false
+        }
+      },
+      "credit": "Udaykumar PR, CC BY 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Pandharpur_2013_Aashad_-_panoramio_(10)_(cropped).jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Pandharpur",
+        "hi": {
+          "text": "पंढरपुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पंढरपूर",
+          "reviewed": false
+        }
+      },
+      "credit": "Udaykumar PR, CC BY 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Pundlik_Nagar,_Pandharpur,_Maharashtra_413304,_India_-_panoramio_(83).jpg"
+    }
+  ],
   "sources": [
     {
       "label": "Pandharpur, Wikipedia",

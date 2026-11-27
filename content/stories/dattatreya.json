@@ -1,0 +1,179 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "dattatreya",
+ "tradition": "hindu",
+ "region": "maharashtra",
+ "order": 11,
+ "figure": {
+  "en": "Shri Dattatreya",
+  "hi": {
+   "text": "श्री दत्तात्रेय",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री दत्तात्रेय",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Anasuya and the three gods",
+  "hi": {
+   "text": "अनसूया और त्रिदेव",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अनसूया आणि त्रिदेव",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Brahma, Vishnu and Shiva came to test a devoted woman, and left as her children's blessing.",
+  "hi": {
+   "text": "ब्रह्मा, विष्णु और महेश एक पतिव्रता की परीक्षा लेने आए, और उसके पुत्र रूप में वरदान बन गए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ब्रह्मा, विष्णू आणि महेश एका पतिव्रतेची परीक्षा घ्यायला आले आणि तिच्या पुत्ररूपाने वरदान ठरले.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/datta/2.webp",
+   "w": 1200,
+   "h": 1086,
+   "caption": {
+    "en": "Anasuya feeding the three gods as infants, temple wall painting",
+    "hi": {
+     "text": "त्रिदेवों को शिशु रूप में भोजन कराती अनसूया, मंदिर की भित्ति चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्रिदेवांना बाळरूपात भरवणारी अनसूया, मंदिरातील भित्तिचित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Wmpearl, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Anasuya_feeding_the_Hindu_Trinity,_The_Krishna-Sudama_Temple_of_Porbandar,_India_(cropped).JPG"
+  },
+  {
+   "src": "/stories/datta/1.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Shri Dattatreya with the cow and four dogs (Raja Ravi Varma)",
+    "hi": {
+     "text": "गाय और चार श्वानों के साथ श्री दत्तात्रेय (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाय आणि चार श्वानांसह श्री दत्तात्रेय (राजा रवि वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Dattatreya.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Three guests at the ashram",
+    "hi": {
+     "text": "आश्रम में तीन अतिथि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आश्रमात तीन अतिथी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Anasuya, wife of the sage Atri, was known for her goodness. To test her, Brahma, Vishnu and Shiva came to her door as wandering monks and made a strange request for food.",
+    "hi": {
+     "text": "ऋषि अत्रि की पत्नी अनसूया अपनी साधुता के लिए प्रसिद्ध थीं। उनकी परीक्षा लेने ब्रह्मा, विष्णु और शिव संन्यासियों के रूप में उनके द्वार आए और भोजन के लिए एक विचित्र माँग रखी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अत्रि ऋषींची पत्नी अनसूया आपल्या सात्त्विकतेसाठी प्रसिद्ध होती. तिची परीक्षा घेण्यासाठी ब्रह्मा, विष्णू आणि शिव संन्याशांच्या रूपात तिच्या दारी आले आणि भोजनासाठी एक विचित्र मागणी केली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Three babies",
+    "hi": {
+     "text": "तीन शिशु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन बाळे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Anasuya prayed and sprinkled holy water on them. The three gods became small babies, and she fed and cared for them with a mother's love.",
+    "hi": {
+     "text": "अनसूया ने प्रार्थना करके उन पर पवित्र जल छिड़का। तीनों देव छोटे शिशु बन गए, और उन्होंने माँ के प्रेम से उन्हें भोजन कराया और संभाला।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनसूयेने प्रार्थना करून त्यांच्यावर पवित्र जल शिंपडले. तिन्ही देव लहान बाळे झाली आणि तिने आईच्या मायेने त्यांना भरवले व सांभाळले.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  },
+  {
+   "title": {
+    "en": "Datta is born",
+    "hi": {
+     "text": "दत्त का जन्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दत्तांचा जन्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The goddesses came looking for their husbands and asked Anasuya to return them. Pleased with her, the three gods blessed her with a son who held all three of them: Dattatreya, the first teacher, often shown with a cow and four dogs.",
+    "hi": {
+     "text": "देवियाँ अपने पतियों को खोजते हुए आईं और अनसूया से उन्हें लौटाने का अनुरोध किया। प्रसन्न होकर त्रिदेवों ने उन्हें ऐसा पुत्र दिया जिसमें तीनों का अंश था: दत्तात्रेय, आदि गुरु, जिन्हें प्रायः गाय और चार श्वानों के साथ दिखाया जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवी आपल्या पतींना शोधत आल्या आणि त्यांनी अनसूयेला त्यांना परत करण्याची विनंती केली. प्रसन्न होऊन त्रिदेवांनी तिला असा पुत्र दिला ज्यात तिघांचाही अंश होता: दत्तात्रेय, आदिगुरू, ज्यांना बहुधा गाय आणि चार श्वानांसह दाखवले जाते.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "lesson": {
+  "en": "Goodness and love can soften even the hardest test.",
+  "hi": {
+   "text": "साधुता और प्रेम कठिन से कठिन परीक्षा को भी कोमल बना देते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सात्त्विकता आणि प्रेम कठीणातली कठीण परीक्षाही सौम्य करतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Told in the Puranas and in the Gurucharitra, much loved in Maharashtra and Karnataka.",
+  "hi": {
+   "text": "पुराणों और गुरुचरित्र में वर्णित, महाराष्ट्र और कर्नाटक में बहुत प्रिय।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पुराणांत आणि गुरुचरित्रात वर्णन केलेली, महाराष्ट्र आणि कर्नाटकात अतिशय प्रिय.",
+   "reviewed": false
+  }
+ }
+}

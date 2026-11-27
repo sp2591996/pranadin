@@ -110,9 +110,15 @@ export function loadPose(slug: string, locale: Locale): { pose: YogaPose; item: 
   return { pose: localizePose(pose, tr.poses?.[slug]), item: poseItem(pose, tr, locale) };
 }
 
+/** Picture for a session tile: the image of its first linked pose. */
+function moduleImage(m: YogaModule): string | null {
+  const slug = m.steps.find((x) => x.pose)?.pose;
+  return loadYogaFile().poses.find((p) => p.slug === slug)?.image.file ?? null;
+}
+
 function moduleItem(m: YogaModule, tr: Tr, locale: Locale): ModuleListItem {
   const n = pick(locale, tr.modules?.[m.slug]?.title, tr.modules?.[m.slug]?.reviewed, m.title);
-  return { slug: m.slug, title: n.text, titleLang: n.lang, level: m.level, timeOfDay: m.timeOfDay, focus: m.focus, seconds: moduleSeconds(m.steps), steps: m.steps.length };
+  return { slug: m.slug, title: n.text, titleLang: n.lang, level: m.level, timeOfDay: m.timeOfDay, focus: m.focus, seconds: moduleSeconds(m.steps), steps: m.steps.length, image: moduleImage(m) };
 }
 
 export function loadModuleList(locale: Locale): ModuleListItem[] {

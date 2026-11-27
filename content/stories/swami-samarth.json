@@ -1,0 +1,160 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "swami-samarth",
+ "tradition": "hindu",
+ "region": "maharashtra",
+ "order": 12,
+ "figure": {
+  "en": "Swami Samarth of Akkalkot",
+  "hi": {
+   "text": "अक्कलकोट के स्वामी समर्थ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अक्कलकोटचे स्वामी समर्थ",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Do not fear, I am with you",
+  "hi": {
+   "text": "डरो मत, मैं तुम्हारे साथ हूँ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भिऊ नकोस, मी तुझ्या पाठीशी आहे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A wandering saint makes a small town his home, and his promise still comforts millions.",
+  "hi": {
+   "text": "एक घुमक्कड़ संत एक छोटे नगर को अपना घर बनाते हैं, और उनका वचन आज भी लाखों को सांत्वना देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक भटकणारे संत एका छोट्या गावाला आपले घर करतात, आणि त्यांचे वचन आजही लाखोंना धीर देते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/swami-samarth/1.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Shri Swami Samarth, shrine portrait",
+    "hi": {
+     "text": "श्री स्वामी समर्थ, मंदिर में चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री स्वामी समर्थ, मंदिरातील प्रतिमा",
+     "reviewed": false
+    }
+   },
+   "credit": "Ameyadhamankar, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shri_Swami_Samarth.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Arrival in Akkalkot",
+    "hi": {
+     "text": "अक्कलकोट आगमन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अक्कलकोटला आगमन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Around 1856 a tall, quiet ascetic arrived in Akkalkot, near Solapur. No one knew where he came from. He lived simply, often under a banyan tree, and people began to call him Swami Samarth.",
+    "hi": {
+     "text": "लगभग 1856 में एक लंबे, शांत संन्यासी सोलापुर के पास अक्कलकोट पहुँचे। कोई नहीं जानता था कि वे कहाँ से आए। वे सादगी से, प्रायः एक वटवृक्ष के नीचे रहते थे, और लोग उन्हें स्वामी समर्थ कहने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुमारे 1856 मध्ये एक उंच, शांत संन्यासी सोलापूरजवळच्या अक्कलकोटला आले. ते कुठून आले हे कोणालाच माहीत नव्हते. ते साधेपणाने, बहुधा वडाच्या झाडाखाली राहत, आणि लोक त्यांना स्वामी समर्थ म्हणू लागले.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  },
+  {
+   "title": {
+    "en": "A guru to all",
+    "hi": {
+     "text": "सबके गुरु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्वांचे गुरू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Farmers, kings, the poor and the learned all came to him. Devotees see him as a form of Dattatreya. He often answered troubles with short, sharp words that made people look at themselves.",
+    "hi": {
+     "text": "किसान, राजा, गरीब और विद्वान सभी उनके पास आते थे। भक्त उन्हें दत्तात्रेय का रूप मानते हैं। वे प्रायः समस्याओं का उत्तर छोटे, तीखे शब्दों में देते, जिससे लोग अपने भीतर झाँकते।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेतकरी, राजे, गरीब आणि विद्वान सर्वजण त्यांच्याकडे येत. भक्त त्यांना दत्तात्रेयांचे रूप मानतात. ते अनेकदा अडचणींना छोट्या, नेमक्या शब्दांत उत्तर देत, ज्यामुळे लोक स्वतःकडे पाहू लागत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The promise",
+    "hi": {
+     "text": "वचन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वचन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "His best known words are a promise: Bhiu nakos, mi tujhya pathishi aahe. Do not fear, I am right behind you. He took samadhi in Akkalkot in 1878, and the words are written in homes across Maharashtra.",
+    "hi": {
+     "text": "उनके सबसे प्रसिद्ध शब्द एक वचन हैं: भिऊ नकोस, मी तुझ्या पाठीशी आहे। डरो मत, मैं तुम्हारे पीछे खड़ा हूँ। 1878 में उन्होंने अक्कलकोट में समाधि ली, और ये शब्द महाराष्ट्र के घर-घर में लिखे मिलते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांचे सर्वात प्रसिद्ध शब्द हे वचन आहे: भिऊ नकोस, मी तुझ्या पाठीशी आहे. 1878 मध्ये त्यांनी अक्कलकोट येथे समाधी घेतली, आणि हे शब्द महाराष्ट्रात घरोघरी लिहिलेले दिसतात.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "lesson": {
+  "en": "Do your part without fear; you are not alone.",
+  "hi": {
+   "text": "निर्भय होकर अपना कर्म करें; आप अकेले नहीं हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निर्भयपणे आपले काम करा; तुम्ही एकटे नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "From devotee accounts such as the Shri Swami Samarth Bakhar and the Akkalkot math tradition.",
+  "hi": {
+   "text": "श्री स्वामी समर्थ बखर जैसे भक्त-वृत्तांतों और अक्कलकोट मठ परंपरा से।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री स्वामी समर्थ बखर यांसारख्या भक्त-वृत्तांतांवरून आणि अक्कलकोट मठ परंपरेतून.",
+   "reviewed": false
+  }
+ }
+}

@@ -53,10 +53,10 @@ test.describe("Yatra guide", () => {
     await expect(page.getByText(/Indicative only/).first()).toBeVisible();
   });
 
-  test("Pandharpur shows a photo placeholder, not a fake photo", async ({ page }) => {
+  test("Pandharpur shows a real, credited photo (D-038)", async ({ page }) => {
     await onboard(page, "en");
     await page.goto("/en/practice/yatra/pandharpur/");
-    await expect(page.getByText("A photo will be added here.")).toBeVisible();
+    await expect(page.getByTestId("photo-credit")).toContainText("Wikimedia Commons");
   });
 
   test("planner builds a combined plan and saves it on the device", async ({ page }) => {
@@ -110,7 +110,66 @@ test.describe("Yatra guide", () => {
     expect((stored as { items: unknown[] }).items).toHaveLength(2);
   });
 
+  test("planner v2: home town, best order, travel choice per leg, detailed plan and split cost (D-038)", async ({ page }) => {
+    await onboard(page, "en");
+    await page.goto("/en/practice/yatra/plan/");
+    for (const [q, name] of [["Harid", "Haridwar"], ["Shirdi", "Shirdi"], ["Rishi", "Rishikesh"]] as const) {
+      await page.getByLabel("Search places").fill(q);
+      await page.getByRole("button", { name: `Add ${name}` }).click();
+    }
+    await expect(page.getByText("Choose your home town to see travel, timings and costs.")).toBeVisible();
+    await page.getByLabel("Your home town").selectOption("pune");
+    await page.getByRole("button", { name: "One more traveller" }).click();
+    await page.getByRole("button", { name: "One more traveller" }).click();
+
+    // Haridwar > Shirdi > Rishikesh zig-zags; the best order puts Haridwar and Rishikesh together.
+    await page.getByRole("button", { name: /Best order: saves about/ }).click();
+    await expect(page.getByTestId("trip-items").locator("li").nth(1)).not.toContainText("Shirdi");
+    await expect(page.getByText("Your order is already the shortest.")).toBeVisible();
+
+    const legs = page.getByTestId("trip-legs").locator(":scope > li");
+    await expect(legs).toHaveCount(4);
+    const long = legs.first();
+    await long.getByRole("button", { name: /Train/ }).click();
+    const before = await page.getByTestId("trip-cost-total").textContent();
+    await long.getByLabel("Train class").selectOption("1A");
+    await expect(page.getByTestId("trip-cost-total")).not.toHaveText(before ?? "");
+
+    const plan = page.getByTestId("trip-plan");
+    await expect(plan).toContainText("Darshan at");
+    await expect(plan).toContainText("Reach home in Pune");
+    const costs = page.getByTestId("trip-costs");
+    for (const g of ["Travel", "Stay", "Food", "Local transport", "Buffer for surprises"]) await expect(costs).toContainText(g);
+    await expect(page.getByText(/For 4 travellers/)).toBeVisible();
+
+    // Choices survive a reload.
+    await page.reload();
+    await expect(page.getByLabel("Your home town")).toHaveValue("pune");
+    await expect(page.getByTestId("trip-legs").locator(":scope > li").first().getByLabel("Train class")).toHaveValue("1A");
+  });
+
   for (const lang of LOCALES.filter((l) => l !== "en")) {
+    test(`${lang} detailed trip plan has no English runs (D-038)`, async ({ page }) => {
+      await onboard(page, lang);
+      await page.goto(`/${lang}/practice/yatra/plan/`);
+      await page.locator("main ul li button").first().click();
+      await page.locator("select").first().selectOption("pune");
+      await expect(page.getByTestId("trip-costs")).toBeVisible();
+      const text = await page.evaluate(() => {
+        const out: string[] = [];
+        const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+        for (let node = w.nextNode(); node; node = w.nextNode()) {
+          const el = node.parentElement;
+          if (!el || el.closest("script,style,noscript,[hidden],[aria-hidden='true'],option")) continue;
+          const l = el.closest("[lang]")?.getAttribute("lang");
+          if (l === "en" || l?.endsWith("-Latn")) continue;
+          out.push(node.textContent ?? "");
+        }
+        return out.join(" ");
+      });
+      expect(englishRun(text)).toBeNull();
+    });
+
     test(`${lang} list, detail tabs and planner have no English runs`, async ({ page }) => {
       await onboard(page, lang);
       for (const p of ["practice/yatra/", "practice/yatra/varanasi/", "practice/yatra/pandharpur/", "practice/yatra/plan/"]) {

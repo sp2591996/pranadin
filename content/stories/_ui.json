@@ -1,0 +1,250 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "stories-ui",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "ui": {
+  "stories.title": {
+   "en": "Stories",
+   "hi": {
+    "text": "कथाएँ",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कथा",
+    "reviewed": false
+   }
+  },
+  "stories.deva": {
+   "en": "कथा",
+   "hi": {
+    "text": "कथा",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कथा",
+    "reviewed": false
+   }
+  },
+  "stories.intro": {
+   "en": "Short, illustrated stories from India's faiths, grouped by tradition and region.",
+   "hi": {
+    "text": "भारत की आस्थाओं की छोटी, चित्रमय कथाएँ, परंपरा और क्षेत्र के अनुसार।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भारतातील श्रद्धांच्या छोट्या, सचित्र कथा, परंपरा आणि प्रदेशानुसार.",
+    "reviewed": false
+   }
+  },
+  "stories.jump": {
+   "en": "Jump to a tradition",
+   "hi": {
+    "text": "परंपरा चुनें",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "परंपरा निवडा",
+    "reviewed": false
+   }
+  },
+  "stories.count": {
+   "en": "{count, plural, one {# story} other {# stories}}",
+   "hi": {
+    "text": "{count} कथाएँ",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "{count} कथा",
+    "reviewed": false
+   }
+  },
+  "stories.scenes": {
+   "en": "{count, plural, one {# scene} other {# scenes}}",
+   "hi": {
+    "text": "{count} दृश्य",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "{count} दृश्ये",
+    "reviewed": false
+   }
+  },
+  "stories.read": {
+   "en": "Read the story",
+   "hi": {
+    "text": "कथा पढ़ें",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कथा वाचा",
+    "reviewed": false
+   }
+  },
+  "stories.lesson": {
+   "en": "What it teaches",
+   "hi": {
+    "text": "यह क्या सिखाती है",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ही काय शिकवते",
+    "reviewed": false
+   }
+  },
+  "stories.source": {
+   "en": "Where this comes from",
+   "hi": {
+    "text": "यह कहाँ से है",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ही कुठून आली",
+    "reviewed": false
+   }
+  },
+  "stories.versions": {
+   "en": "Stories like this are told in many versions. This is one common, respectful telling.",
+   "hi": {
+    "text": "ऐसी कथाएँ कई रूपों में कही जाती हैं। यह एक प्रचलित, आदरपूर्ण रूप है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अशा कथा अनेक रूपांत सांगितल्या जातात. हे एक प्रचलित, आदरपूर्ण रूप आहे.",
+    "reviewed": false
+   }
+  },
+  "stories.back": {
+   "en": "All stories",
+   "hi": {
+    "text": "सभी कथाएँ",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सर्व कथा",
+    "reviewed": false
+   }
+  },
+  "stories.credits": {
+   "en": "Picture credits",
+   "hi": {
+    "text": "चित्र श्रेय",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "चित्र श्रेय",
+    "reviewed": false
+   }
+  },
+  "stories.visit": {
+   "en": "Visit the place: yatra guide",
+   "hi": {
+    "text": "स्थान देखें: यात्रा मार्गदर्शिका",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ठिकाण पाहा: यात्रा मार्गदर्शक",
+    "reviewed": false
+   }
+  },
+  "stories.festival": {
+   "en": "Related festival",
+   "hi": {
+    "text": "संबंधित त्योहार",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "संबंधित सण",
+    "reviewed": false
+   }
+  },
+  "stories.more": {
+   "en": "More stories",
+   "hi": {
+    "text": "और कथाएँ",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "आणखी कथा",
+    "reviewed": false
+   }
+  },
+  "stories.scene": {
+   "en": "Scene {n}",
+   "hi": {
+    "text": "दृश्य {n}",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "दृश्य {n}",
+    "reviewed": false
+   }
+  },
+  "stories.entry": {
+   "en": "Ramayana, Sai Baba, Dnyaneshwar, Guru Nanak, the Buddha and more, with pictures.",
+   "hi": {
+    "text": "रामायण, साईं बाबा, ज्ञानेश्वर, गुरु नानक, बुद्ध और भी, चित्रों के साथ।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "रामायण, साईबाबा, ज्ञानेश्वर, गुरु नानक, बुद्ध आणि आणखी, चित्रांसह.",
+    "reviewed": false
+   }
+  },
+  "stories.region.india": {
+   "en": "All of India",
+   "hi": {
+    "text": "सम्पूर्ण भारत",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "संपूर्ण भारत",
+    "reviewed": false
+   }
+  },
+  "stories.region.maharashtra": {
+   "en": "Maharashtra",
+   "hi": {
+    "text": "महाराष्ट्र",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "महाराष्ट्र",
+    "reviewed": false
+   }
+  },
+  "stories.region.punjab": {
+   "en": "Punjab",
+   "hi": {
+    "text": "पंजाब",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "पंजाब",
+    "reviewed": false
+   }
+  },
+  "stories.region.bihar": {
+   "en": "Bihar",
+   "hi": {
+    "text": "बिहार",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बिहार",
+    "reviewed": false
+   }
+  },
+  "stories.region.world": {
+   "en": "Shared worldwide",
+   "hi": {
+    "text": "विश्व भर में",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जगभर",
+    "reviewed": false
+   }
+  }
+ }
+}

@@ -1,0 +1,603 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra-cities",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "cities": [
+    {
+      "id": "ahmedabad",
+      "name": {
+        "en": "Ahmedabad",
+        "hi": {
+          "text": "अहमदाबाद",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अहमदाबाद",
+          "reviewed": false
+        }
+      },
+      "lat": 23.023,
+      "lon": 72.571,
+      "airport": true
+    },
+    {
+      "id": "amritsar-city",
+      "name": {
+        "en": "Amritsar",
+        "hi": {
+          "text": "अमृतसर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अमृतसर",
+          "reviewed": false
+        }
+      },
+      "lat": 31.634,
+      "lon": 74.872,
+      "airport": true
+    },
+    {
+      "id": "bengaluru",
+      "name": {
+        "en": "Bengaluru",
+        "hi": {
+          "text": "बेंगलुरु",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बंगळुरू",
+          "reviewed": false
+        }
+      },
+      "lat": 12.972,
+      "lon": 77.595,
+      "airport": true
+    },
+    {
+      "id": "bhopal",
+      "name": {
+        "en": "Bhopal",
+        "hi": {
+          "text": "भोपाल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भोपाळ",
+          "reviewed": false
+        }
+      },
+      "lat": 23.26,
+      "lon": 77.413,
+      "airport": true
+    },
+    {
+      "id": "bhubaneswar",
+      "name": {
+        "en": "Bhubaneswar",
+        "hi": {
+          "text": "भुवनेश्वर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भुवनेश्वर",
+          "reviewed": false
+        }
+      },
+      "lat": 20.296,
+      "lon": 85.825,
+      "airport": true
+    },
+    {
+      "id": "chandigarh",
+      "name": {
+        "en": "Chandigarh",
+        "hi": {
+          "text": "चंडीगढ़",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चंदीगड",
+          "reviewed": false
+        }
+      },
+      "lat": 30.733,
+      "lon": 76.779,
+      "airport": true
+    },
+    {
+      "id": "chennai",
+      "name": {
+        "en": "Chennai",
+        "hi": {
+          "text": "चेन्नई",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चेन्नई",
+          "reviewed": false
+        }
+      },
+      "lat": 13.083,
+      "lon": 80.271,
+      "airport": true
+    },
+    {
+      "id": "sambhajinagar",
+      "name": {
+        "en": "Chhatrapati Sambhajinagar",
+        "hi": {
+          "text": "छत्रपति संभाजीनगर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "छत्रपती संभाजीनगर",
+          "reviewed": false
+        }
+      },
+      "lat": 19.876,
+      "lon": 75.343,
+      "airport": true
+    },
+    {
+      "id": "coimbatore",
+      "name": {
+        "en": "Coimbatore",
+        "hi": {
+          "text": "कोयंबटूर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कोईम्बतूर",
+          "reviewed": false
+        }
+      },
+      "lat": 11.017,
+      "lon": 76.956,
+      "airport": true
+    },
+    {
+      "id": "dehradun",
+      "name": {
+        "en": "Dehradun",
+        "hi": {
+          "text": "देहरादून",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "डेहराडून",
+          "reviewed": false
+        }
+      },
+      "lat": 30.316,
+      "lon": 78.032,
+      "airport": true
+    },
+    {
+      "id": "delhi",
+      "name": {
+        "en": "Delhi",
+        "hi": {
+          "text": "दिल्ली",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्ली",
+          "reviewed": false
+        }
+      },
+      "lat": 28.614,
+      "lon": 77.209,
+      "airport": true
+    },
+    {
+      "id": "goa",
+      "name": {
+        "en": "Goa (Panaji)",
+        "hi": {
+          "text": "गोवा (पणजी)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोवा (पणजी)",
+          "reviewed": false
+        }
+      },
+      "lat": 15.491,
+      "lon": 73.828,
+      "airport": true
+    },
+    {
+      "id": "guwahati",
+      "name": {
+        "en": "Guwahati",
+        "hi": {
+          "text": "गुवाहाटी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुवाहाटी",
+          "reviewed": false
+        }
+      },
+      "lat": 26.144,
+      "lon": 91.736,
+      "airport": true
+    },
+    {
+      "id": "hyderabad",
+      "name": {
+        "en": "Hyderabad",
+        "hi": {
+          "text": "हैदराबाद",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हैदराबाद",
+          "reviewed": false
+        }
+      },
+      "lat": 17.385,
+      "lon": 78.487,
+      "airport": true
+    },
+    {
+      "id": "indore",
+      "name": {
+        "en": "Indore",
+        "hi": {
+          "text": "इंदौर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "इंदूर",
+          "reviewed": false
+        }
+      },
+      "lat": 22.72,
+      "lon": 75.858,
+      "airport": true
+    },
+    {
+      "id": "jaipur",
+      "name": {
+        "en": "Jaipur",
+        "hi": {
+          "text": "जयपुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जयपूर",
+          "reviewed": false
+        }
+      },
+      "lat": 26.912,
+      "lon": 75.787,
+      "airport": true
+    },
+    {
+      "id": "jammu",
+      "name": {
+        "en": "Jammu",
+        "hi": {
+          "text": "जम्मू",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जम्मू",
+          "reviewed": false
+        }
+      },
+      "lat": 32.727,
+      "lon": 74.857,
+      "airport": true
+    },
+    {
+      "id": "kochi",
+      "name": {
+        "en": "Kochi",
+        "hi": {
+          "text": "कोच्चि",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कोची",
+          "reviewed": false
+        }
+      },
+      "lat": 9.931,
+      "lon": 76.267,
+      "airport": true
+    },
+    {
+      "id": "kolhapur",
+      "name": {
+        "en": "Kolhapur",
+        "hi": {
+          "text": "कोल्हापुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कोल्हापूर",
+          "reviewed": false
+        }
+      },
+      "lat": 16.705,
+      "lon": 74.243,
+      "airport": false
+    },
+    {
+      "id": "kolkata",
+      "name": {
+        "en": "Kolkata",
+        "hi": {
+          "text": "कोलकाता",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कोलकाता",
+          "reviewed": false
+        }
+      },
+      "lat": 22.573,
+      "lon": 88.364,
+      "airport": true
+    },
+    {
+      "id": "lucknow",
+      "name": {
+        "en": "Lucknow",
+        "hi": {
+          "text": "लखनऊ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लखनौ",
+          "reviewed": false
+        }
+      },
+      "lat": 26.847,
+      "lon": 80.947,
+      "airport": true
+    },
+    {
+      "id": "mangaluru",
+      "name": {
+        "en": "Mangaluru",
+        "hi": {
+          "text": "मंगलुरु",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मंगळुरू",
+          "reviewed": false
+        }
+      },
+      "lat": 12.914,
+      "lon": 74.856,
+      "airport": true
+    },
+    {
+      "id": "mumbai",
+      "name": {
+        "en": "Mumbai",
+        "hi": {
+          "text": "मुंबई",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुंबई",
+          "reviewed": false
+        }
+      },
+      "lat": 19.076,
+      "lon": 72.878,
+      "airport": true
+    },
+    {
+      "id": "nagpur",
+      "name": {
+        "en": "Nagpur",
+        "hi": {
+          "text": "नागपुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नागपूर",
+          "reviewed": false
+        }
+      },
+      "lat": 21.146,
+      "lon": 79.088,
+      "airport": true
+    },
+    {
+      "id": "nashik",
+      "name": {
+        "en": "Nashik",
+        "hi": {
+          "text": "नासिक",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नाशिक",
+          "reviewed": false
+        }
+      },
+      "lat": 19.998,
+      "lon": 73.79,
+      "airport": false
+    },
+    {
+      "id": "patna",
+      "name": {
+        "en": "Patna",
+        "hi": {
+          "text": "पटना",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पाटणा",
+          "reviewed": false
+        }
+      },
+      "lat": 25.594,
+      "lon": 85.138,
+      "airport": true
+    },
+    {
+      "id": "pune",
+      "name": {
+        "en": "Pune",
+        "hi": {
+          "text": "पुणे",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पुणे",
+          "reviewed": false
+        }
+      },
+      "lat": 18.52,
+      "lon": 73.856,
+      "airport": true
+    },
+    {
+      "id": "raipur",
+      "name": {
+        "en": "Raipur",
+        "hi": {
+          "text": "रायपुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रायपूर",
+          "reviewed": false
+        }
+      },
+      "lat": 21.251,
+      "lon": 81.63,
+      "airport": true
+    },
+    {
+      "id": "ranchi",
+      "name": {
+        "en": "Ranchi",
+        "hi": {
+          "text": "रांची",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रांची",
+          "reviewed": false
+        }
+      },
+      "lat": 23.344,
+      "lon": 85.31,
+      "airport": true
+    },
+    {
+      "id": "solapur",
+      "name": {
+        "en": "Solapur",
+        "hi": {
+          "text": "सोलापुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सोलापूर",
+          "reviewed": false
+        }
+      },
+      "lat": 17.66,
+      "lon": 75.906,
+      "airport": false
+    },
+    {
+      "id": "surat",
+      "name": {
+        "en": "Surat",
+        "hi": {
+          "text": "सूरत",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुरत",
+          "reviewed": false
+        }
+      },
+      "lat": 21.17,
+      "lon": 72.831,
+      "airport": true
+    },
+    {
+      "id": "thiruvananthapuram",
+      "name": {
+        "en": "Thiruvananthapuram",
+        "hi": {
+          "text": "तिरुवनंतपुरम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "तिरुअनंतपुरम",
+          "reviewed": false
+        }
+      },
+      "lat": 8.524,
+      "lon": 76.936,
+      "airport": true
+    },
+    {
+      "id": "vadodara",
+      "name": {
+        "en": "Vadodara",
+        "hi": {
+          "text": "वडोदरा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वडोदरा",
+          "reviewed": false
+        }
+      },
+      "lat": 22.307,
+      "lon": 73.181,
+      "airport": true
+    },
+    {
+      "id": "varanasi-city",
+      "name": {
+        "en": "Varanasi",
+        "hi": {
+          "text": "वाराणसी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वाराणसी",
+          "reviewed": false
+        }
+      },
+      "lat": 25.317,
+      "lon": 82.974,
+      "airport": true
+    },
+    {
+      "id": "visakhapatnam",
+      "name": {
+        "en": "Visakhapatnam",
+        "hi": {
+          "text": "विशाखापत्तनम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "विशाखापट्टणम",
+          "reviewed": false
+        }
+      },
+      "lat": 17.687,
+      "lon": 83.218,
+      "airport": true
+    }
+  ]
+}

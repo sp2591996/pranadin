@@ -95,6 +95,7 @@ export interface ModuleListItem {
   focus: YogaModule["focus"];
   seconds: number;
   steps: number;
+  image: string | null;
 }
 
 export interface ProgramListItem {

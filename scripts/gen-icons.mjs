@@ -15,7 +15,7 @@ const PLAIN = ["UserCircle", "ArrowLeft", "Timer",  "ArrowRight", "Sparkle", "Ch
 // Travel icons for the Yatra pages only (D-037): a separate file, so other pages do not carry them.
 const TRAVEL = ["Airplane", "Train", "Car", "Bed", "ForkKnife", "Wallet", "FirstAid", "HandsPraying", "TShirt", "Path", "MapTrifold", "CalendarPlus", "Check"];
 /** Trip planner only (kept apart so place pages do not load them). */
-const PLANNER = ["Wallet", "Path", "MapTrifold", "CalendarPlus", "Check", "Info", "Plus", "Minus", "Trash", "Printer", "ShareNetwork", "Copy", "ArrowUp", "ArrowDown", "MagnifyingGlass"];
+const PLANNER = ["Wallet", "Path", "MapTrifold", "CalendarPlus", "Check", "Info", "Plus", "Minus", "Trash", "Printer", "ShareNetwork", "Copy", "ArrowUp", "ArrowDown", "MagnifyingGlass", "Airplane", "Train", "Bus", "Car", "Bed", "ForkKnife", "House", "PiggyBank", "Lightning", "Scales", "HandsPraying", "Mountains"];
 const ICONS = [...NAV, ...PLAIN];
 const DEFS = join(process.cwd(), "node_modules", "@phosphor-icons", "react", "dist", "defs");
 

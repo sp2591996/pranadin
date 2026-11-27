@@ -1,0 +1,200 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.1",
+ "status": "draft",
+ "id": "ramayana",
+ "tradition": "hindu",
+ "region": "india",
+ "order": 1,
+ "place": "rameswaram",
+ "festival": "diwali",
+ "figure": {
+  "en": "Shri Rama",
+  "hi": {
+   "text": "श्री राम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीराम",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Rama, Sita and the long road home",
+  "hi": {
+   "text": "राम, सीता और घर लौटने की लंबी राह",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राम, सीता आणि घरी परतण्याचा लांब प्रवास",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A prince keeps his father's word, loses Sita, and is helped home by friends of the forest.",
+  "hi": {
+   "text": "एक राजकुमार पिता का वचन निभाता है, सीता से बिछड़ता है, और वन के मित्र उसे घर लौटाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक राजपुत्र वडिलांचे वचन पाळतो, सीतेपासून दुरावतो आणि वनातील मित्र त्याला घरी पोहोचवतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/1.webp",
+   "w": 780,
+   "h": 1100,
+   "caption": {
+    "en": "Sita longs for the golden deer (Ravi Varma Press print, about 1910)",
+    "hi": {
+     "text": "सीता स्वर्ण मृग को देखती हैं (रवि वर्मा प्रेस का चित्र, लगभग 1910)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीता सुवर्ण मृगाकडे पाहते (रवि वर्मा प्रेसचे चित्र, सुमारे 1910)",
+     "reviewed": false
+    }
+   },
+   "credit": "Ravi Varma Press, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sita_longs_for_the_golden_deer,_in_a_print_from_the_Ravi_Varma_Press,_c.1910%27s.jpg"
+  },
+  {
+   "src": "/stories/ramayana/2.webp",
+   "w": 787,
+   "h": 1100,
+   "caption": {
+    "en": "Jatayu tries to stop Ravana (Raja Ravi Varma)",
+    "hi": {
+     "text": "जटायु रावण को रोकने का प्रयास करते हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जटायू रावणाला अडवण्याचा प्रयत्न करतो (राजा रवि वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Jatayu_vadha,_1906.jpg"
+  },
+  {
+   "src": "/stories/ramayana/3.webp",
+   "w": 715,
+   "h": 1024,
+   "caption": {
+    "en": "A Ramayana scene by Raja Ravi Varma",
+    "hi": {
+     "text": "राजा रवि वर्मा का रामायण दृश्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा रवि वर्मा यांचे रामायणातील दृश्य",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma (1848-1906), Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bharata_welcoming_Rama,_Sita,_Lakshmana_and_Hanuman_to_Ayodhya_by_Raja_Ravi_Varma.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Fourteen years in the forest",
+    "hi": {
+     "text": "वन में चौदह वर्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनात चौदा वर्षे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Dasharatha had promised Queen Kaikeyi two wishes. She asked that Rama be sent to the forest for fourteen years. Rama left calmly, and Sita and his brother Lakshmana chose to go with him.",
+    "hi": {
+     "text": "राजा दशरथ ने रानी कैकेयी को दो वर मांगने का वचन दिया था। उन्होंने माँगा कि राम चौदह वर्ष वन में रहें। राम शांत मन से चले गए, और सीता तथा भाई लक्ष्मण ने भी साथ जाना चुना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा दशरथांनी राणी कैकेयीला दोन वर देण्याचे वचन दिले होते. तिने रामाला चौदा वर्षे वनवास मागितला. राम शांतपणे निघाले आणि सीता व भाऊ लक्ष्मण यांनीही सोबत जाणे निवडले.",
+     "reviewed": false
+    }
+   },
+   "image": 0
+  },
+  {
+   "title": {
+    "en": "The golden deer",
+    "hi": {
+     "text": "स्वर्ण मृग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुवर्ण मृग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A shining golden deer appeared near their hut, and Sita wished for it. It was a trick: while Rama and Lakshmana were away, Ravana, king of Lanka, carried Sita off. The old vulture Jatayu fought to save her and fell.",
+    "hi": {
+     "text": "उनकी कुटिया के पास एक चमकता स्वर्ण मृग दिखा और सीता ने उसकी इच्छा की। यह एक छल था: जब राम और लक्ष्मण दूर थे, लंका का राजा रावण सीता को उठा ले गया। वृद्ध गिद्ध जटायु ने उन्हें बचाने के लिए युद्ध किया और गिर पड़े।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांच्या कुटीजवळ एक चमकणारा सुवर्ण मृग दिसला आणि सीतेला तो हवासा वाटला. ते एक कपट होते: राम आणि लक्ष्मण दूर असताना लंकेचा राजा रावण सीतेला घेऊन गेला. वृद्ध गिधाड जटायूने तिला वाचवण्यासाठी लढा दिला आणि तो पडला.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Hanuman, the bridge and the lamps",
+    "hi": {
+     "text": "हनुमान, सेतु और दीप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमान, सेतू आणि दिवे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hanuman leapt across the sea and found Sita in Lanka. With the help of the forest people, a bridge of stones was built, and Rama won Sita back. When they returned to Ayodhya, people lit rows of lamps; many remember this at Diwali.",
+    "hi": {
+     "text": "हनुमान समुद्र लांघकर लंका पहुँचे और सीता को खोज निकाला। वनवासियों की सहायता से पत्थरों का सेतु बना और राम ने सीता को वापस पाया। जब वे अयोध्या लौटे तो लोगों ने दीपों की पंक्तियाँ जलाईं; बहुत से लोग दीपावली पर इसे याद करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमानाने समुद्र ओलांडून लंकेत सीतेचा शोध घेतला. वनवासींच्या मदतीने दगडांचा सेतू बांधला गेला आणि रामाने सीतेला परत आणले. ते अयोध्येला परतले तेव्हा लोकांनी दिव्यांच्या रांगा लावल्या; अनेकजण दिवाळीला याची आठवण करतात.",
+     "reviewed": false
+    }
+   },
+   "image": 2
+  }
+ ],
+ "lesson": {
+  "en": "Keep your word, stay gentle in hard times, and value true friends.",
+  "hi": {
+   "text": "अपना वचन निभाएँ, कठिन समय में भी कोमल रहें, और सच्चे मित्रों का मान करें।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दिलेला शब्द पाळा, कठीण काळातही सौम्य राहा आणि खऱ्या मित्रांची कदर करा.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Retold from Valmiki's Ramayana. Many regions and languages tell it in their own way.",
+  "hi": {
+   "text": "वाल्मीकि रामायण से संक्षेप में। अनेक क्षेत्र और भाषाएँ इसे अपने ढंग से कहती हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायणावरून थोडक्यात. अनेक प्रदेश आणि भाषा ती आपापल्या पद्धतीने सांगतात.",
+   "reviewed": false
+  }
+ }
+}
