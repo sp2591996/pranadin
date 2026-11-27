@@ -1,0 +1,213 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "surrender-and-freedom",
+ "order": 18,
+ "part": "jnana",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Surrender and Freedom",
+  "hi": {
+   "text": "समर्पण और मुक्ति",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शरणागती आणि मुक्ती",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The final chapter gathers every thread: true renunciation, the last secret, and Arjuna’s clear answer.",
+  "hi": {
+   "text": "अंतिम अध्याय सभी सूत्रों को समेटता है: सच्चा त्याग, परम गुह्य रहस्य, और अर्जुन का स्पष्ट उत्तर।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शेवटचा अध्याय सारे धागे एकत्र आणतो: खरा त्याग, अंतिम रहस्य आणि अर्जुनाचे स्पष्ट उत्तर.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gita/2.webp",
+   "w": 1200,
+   "h": 731,
+   "caption": {
+    "en": "Krishna teaches the Gita to Arjuna (Kashmir miniature painting)",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन को गीता का उपदेश देते हैं (कश्मीरी लघुचित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला गीता सांगतात (काश्मिरी लघुचित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_preaching_Gita_Upadesh_to_Arjun_-_Unknown,_Kashmir_School_-_Google_Cultural_Institute.jpg"
+  },
+  {
+   "src": "/stories/bhagavad-gita/gita-1.webp",
+   "w": 880,
+   "h": 1100,
+   "caption": {
+    "en": "Krishna drives Arjuna's chariot (Indian painting)",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन का रथ चलाते हैं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाचा रथ चालवतात (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_Arjuna_Gita.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "What is renunciation?",
+    "hi": {
+     "text": "त्याग क्या है?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याग म्हणजे काय?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna begins the last chapter with a question: what is the difference between sannyasa, giving up, and tyaga, letting go? Krishna answers that work like giving, discipline and sacrifice should not be abandoned, because they purify. What should be given up is the clinging to results and the sense of being the sole doer.\n\nHe then looks again at the three threads, and shows how knowledge, action, resolve and even happiness look different in each. He says that each person finds fulfilment by doing their own work, offered as worship to the source of all. He also reminds Arjuna that he cannot escape his nature by simply refusing to act.",
+    "hi": {
+     "text": "अर्जुन अंतिम अध्याय एक प्रश्न से आरंभ करते हैं: संन्यास यानी छोड़ देने और त्याग यानी जाने देने में क्या अंतर है? श्रीकृष्ण उत्तर देते हैं कि दान, तप और यज्ञ जैसे कर्म नहीं छोड़ने चाहिए, क्योंकि वे शुद्ध करते हैं। छोड़ना यह है कि फल की आसक्ति और अकेले कर्ता होने का अभिमान छूट जाए।\n\nफिर वे तीन गुणों को फिर से देखते हैं और दिखाते हैं कि हर गुण में ज्ञान, कर्म, संकल्प और सुख भी अलग-अलग रूप के होते हैं। वे कहते हैं कि हर व्यक्ति अपना ही कर्म करके पूर्णता पाता है, यदि उसे सबके स्रोत की पूजा मानकर अर्पित करे। वे अर्जुन को यह भी याद दिलाते हैं कि केवल कर्म से मना कर देने से वह अपने स्वभाव से बच नहीं सकता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटच्या अध्यायाची सुरुवात अर्जुन एका प्रश्नाने करतो: संन्यास म्हणजे सोडून देणे आणि त्याग म्हणजे अलिप्त होणे, यात फरक काय? श्रीकृष्ण उत्तर देतात की दान, तप आणि यज्ञ यांसारखी कर्मे सोडू नयेत, कारण ती शुद्ध करतात. सोडायचे आहे ते फळाची आसक्ती आणि मीच एकटा कर्ता आहे हा भाव.\n\nमग ते पुन्हा तीन गुणांकडे पाहतात, आणि ज्ञान, कर्म, निश्चय आणि सुखसुद्धा प्रत्येक गुणात कसे वेगळे दिसते ते दाखवतात. प्रत्येकाला आपले स्वतःचे कर्म सर्वांच्या मूळ तत्त्वाला पूजा म्हणून अर्पण करूनच समाधान मिळते, असे ते सांगतात. नुसते कर्म न करण्याने तू आपल्या स्वभावापासून सुटू शकत नाहीस, याचीही ते अर्जुनाला आठवण करून देतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The deepest secret",
+    "hi": {
+     "text": "सबसे गहरा रहस्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्वांत गहन रहस्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "As the teaching reaches its end, Krishna says he will now tell Arjuna the most secret thing of all, out of love. Fix your mind on me, be devoted, offer your worship, and bow to me. You will come to me, he promises, for you are dear to me.\n\nThen comes the great verse. Let go of all your other duties and come to me alone for shelter, he says, and I will free you from every wrong. Do not grieve. Many teachers read this as the heart of the whole Gita, a call to trust and surrender after doing everything one can. Krishna adds that Arjuna should now reflect fully and then choose freely.",
+    "hi": {
+     "text": "जब उपदेश अपने अंत पर पहुँचता है, श्रीकृष्ण कहते हैं कि अब वे प्रेमवश अर्जुन को सबसे गुप्त बात बताएँगे। मुझमें मन लगाओ, मेरे भक्त बनो, मेरी पूजा करो और मुझे प्रणाम करो। तुम मुझे ही पाओगे, वे वचन देते हैं, क्योंकि तुम मुझे प्रिय हो।\n\nफिर आता है वह महान श्लोक। सब धर्मों को छोड़कर केवल मेरी शरण में आ जाओ, वे कहते हैं, मैं तुम्हें हर पाप से मुक्त कर दूँगा। शोक मत करो। बहुत-से आचार्य इसे पूरी गीता का हृदय मानते हैं, जो अपनी पूरी कोशिश कर लेने के बाद भरोसे और समर्पण का आह्वान है। श्रीकृष्ण यह भी जोड़ते हैं कि अब अर्जुन पूरी तरह विचार करे और फिर अपनी इच्छा से चुने।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिकवण संपत येताच श्रीकृष्ण म्हणतात की आता मी तुला प्रेमाने सर्वांत गुप्त गोष्ट सांगतो. माझ्यावर मन ठेव, माझा भक्त हो, माझी पूजा कर आणि मला नमस्कार कर. तू मलाच येऊन मिळशील, हे माझे वचन आहे, कारण तू मला प्रिय आहेस.\n\nमग येते ते महान वचन. बाकीचे सर्व धर्म सोडून एकट्या माझ्याला शरण ये, मी तुला सर्व पापांतून मुक्त करीन. शोक करू नकोस. अनेक गुरू हे सारे गीतेचे हृदय मानतात: आपल्या हातून होईल ते सारे केल्यानंतर विश्वासाने शरण जाण्याची हाक. श्रीकृष्ण पुढे म्हणतात की आता तू पूर्ण विचार कर आणि मग स्वतःच्या इच्छेने निवड कर.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "I will do as you say",
+    "hi": {
+     "text": "जैसा आप कहेंगे, वैसा ही करूँगा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तू सांगशील तसे मी करीन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna answers simply. His confusion is gone, and he has regained his memory and his balance. He is firm now and will act as Krishna has said. Sanjaya, who has been telling the story to the blind king, closes with a wish that where Krishna and Arjuna are, there will be prosperity, victory and goodness.\n\nFor us, the chapter ends not with a command but with a choice. After listening, reflecting and testing the teaching, you decide how to act. Perhaps today you can do your duty with an open heart, offer it up, and let go of the knot of worry. Trust is also an action, and doing it daily is what freedom looks like.",
+    "hi": {
+     "text": "अर्जुन सरलता से उत्तर देते हैं। उनका मोह नष्ट हो गया है, उन्हें अपनी स्मृति और अपना संतुलन फिर मिल गया है। वे अब दृढ़ हैं और जैसा श्रीकृष्ण ने कहा है, वैसा ही करेंगे। संजय, जो नेत्रहीन राजा को यह कथा सुना रहे थे, इस कामना के साथ समाप्त करते हैं कि जहाँ श्रीकृष्ण और अर्जुन हैं, वहाँ समृद्धि, विजय और कल्याण होगा।\n\nहमारे लिए यह अध्याय आदेश पर नहीं, चुनाव पर समाप्त होता है। सुनने, मनन करने और उपदेश को परखने के बाद आप स्वयं तय करते हैं कि कैसे चलना है। शायद आज आप अपना कर्तव्य खुले हृदय से निभा सकें, उसे अर्पित कर दें, और चिंता की गाँठ को ढीला छोड़ दें। विश्वास करना भी एक कर्म है, और उसे रोज़ करते रहना ही मुक्ति का रूप है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन साधेपणाने उत्तर देतो. त्याचा गोंधळ गेला आहे, त्याची स्मृती आणि तोल परत आला आहे. तो आता स्थिर आहे आणि श्रीकृष्णाने सांगितल्याप्रमाणे वागेल. अंध राजाला ही कथा सांगणारा संजय शेवटी असे सांगतो की जिथे श्रीकृष्ण आणि अर्जुन आहेत तिथे समृद्धी, विजय आणि कल्याण असेल.\n\nआपल्यासाठी हा अध्याय आज्ञेवर नाही, तर निवडीवर संपतो. ऐकल्यानंतर, मनन केल्यानंतर आणि शिकवण पारखल्यानंतर कसे वागायचे ते तुम्ही ठरवता. कदाचित आज तुम्ही मोकळ्या मनाने आपले कर्तव्य कराल, ते अर्पण कराल आणि चिंतेची गाठ सोडून द्याल. विश्वास ठेवणे हीदेखील एक कृती आहे, आणि ती रोज करणे हेच मुक्तीचे खरे रूप आहे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "verse": {
+  "text": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज । अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥",
+  "cite": {
+   "en": "Bhagavad Gita 18.66",
+   "hi": {
+    "text": "भगवद्गीता 18.66",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता १८.६६",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Let go of every other support and take shelter in the divine alone. You will be freed from all wrong, so do not grieve.",
+   "hi": {
+    "text": "सब दूसरे सहारे छोड़कर केवल प्रभु की शरण में आ जाओ। वे तुम्हें सब पापों से मुक्त कर देंगे, इसलिए शोक मत करो।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "इतर सर्व आधार सोडून एकट्या परमात्म्याला शरण जा. तू सर्व दोषांतून मुक्त होशील, म्हणून शोक करू नकोस.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What worry could you hand over to something larger than yourself? Say it aloud once, then take one calm step.",
+  "hi": {
+   "text": "कौन-सी चिंता आप अपने से बड़ी किसी शक्ति को सौंप सकते हैं? उसे एक बार ज़ोर से कहिए, फिर एक शांत कदम उठाइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणती चिंता तुम्ही आपल्याहून मोठ्या शक्तीच्या हाती सोपवू शकाल? ती एकदा मोठ्याने बोला, आणि मग एक शांत पाऊल उचला.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "After doing your part with care, trust and let go; that is freedom.",
+  "hi": {
+   "text": "अपना कर्म पूरी लगन से करने के बाद विश्वास रखिए और छोड़ दीजिए; यही मुक्ति है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपला वाटा काळजीपूर्वक पार पाडल्यानंतर विश्वास ठेवा आणि सोडून द्या; हीच मुक्ती.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 18 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 18 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय १८ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

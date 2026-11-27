@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-lotus-leaf",
+ "order": 5,
+ "part": "karma",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Lotus Leaf",
+  "hi": {
+   "text": "कमल का पत्ता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कमळाचे पान",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Renunciation or action? Krishna says the wise are untouched by what they do, like a lotus leaf in water.",
+  "hi": {
+   "text": "त्याग या कर्म? श्रीकृष्ण कहते हैं कि ज्ञानी अपने कर्मों से अछूते रहते हैं, जैसे पानी में कमल का पत्ता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संन्यास की कर्म? पाण्यातल्या कमळपत्राप्रमाणे ज्ञानी माणूस आपल्या कर्मांनी लिप्त होत नाही, असे श्रीकृष्ण सांगतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/bhagavad-gita/gita-3.webp",
+   "w": 1080,
+   "h": 810,
+   "caption": {
+    "en": "Krishna speaks to Arjuna on the battlefield (wall relief, Bishnupur)",
+    "hi": {
+     "text": "युद्धभूमि में श्रीकृष्ण अर्जुन से बात करते हैं (भित्ति उभार, बिष्णुपुर)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रणभूमीवर श्रीकृष्ण अर्जुनाशी बोलतात (भित्तिशिल्प, बिष्णुपूर)",
+     "reviewed": false
+    }
+   },
+   "credit": "Arnab Dutta, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhagavata_Gita_Bishnupur_Arnab_Dutta_2011.JPG"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Which is better, Krishna?",
+    "hi": {
+     "text": "कौन-सा श्रेष्ठ है, श्रीकृष्ण?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णा, कोणते श्रेष्ठ?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna is confused again. Krishna has praised giving up action, and he has praised acting with dedication. Arjuna asks him to say clearly which of the two leads to the highest good. He wants a straight answer, not a riddle.\n\nKrishna says both lead to freedom, but that acting with the right spirit is easier and works better for most people. The true renouncer, he explains, is not someone who simply walks away from life. It is someone who has no hatred and no craving, and so is free in the middle of ordinary activity. Many teachers read this as saying that the inner attitude matters more than the outer costume. It is a very human wish, to be told which door is the right one before walking through it.",
+    "hi": {
+     "text": "अर्जुन फिर उलझ जाते हैं। श्रीकृष्ण ने कर्मों के त्याग की प्रशंसा की है, और समर्पण से कर्म करने की भी। अर्जुन उनसे साफ़ कहने को कहते हैं कि दोनों में कौन परम कल्याण की ओर ले जाता है। वे सीधा उत्तर चाहते हैं, पहेली नहीं।\n\nश्रीकृष्ण कहते हैं कि दोनों मुक्ति देते हैं, पर सही भाव से कर्म करना अधिक सरल है और अधिकांश लोगों के लिए अधिक कारगर है। सच्चा संन्यासी वह नहीं जो बस जीवन से चल पड़े। वह है जिसमें न द्वेष है, न लालसा, और इसलिए जो साधारण कर्मों के बीच भी मुक्त है। बहुत से आचार्य इसे यों समझते हैं कि बाहरी वेश से अधिक भीतर का भाव मायने रखता है। यह बड़ी मानवीय इच्छा है कि द्वार में प्रवेश करने से पहले कोई बता दे कि सही द्वार कौन-सा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन पुन्हा गोंधळतो. श्रीकृष्णांनी कर्मसंन्यासाची स्तुती केली आहे आणि समर्पणभावाने केलेल्या कर्मालाही गौरवले आहे. यांतले कोणते परम कल्याणाकडे नेते, ते स्पष्ट सांगावे अशी तो विनंती करतो. त्याला सरळ उत्तर हवे आहे, कोडे नको.\n\nश्रीकृष्ण सांगतात की दोन्ही मुक्तीकडे नेतात, पण योग्य भावनेने केलेले कर्म सोपे आहे आणि बहुतेकांसाठी अधिक उपयोगी आहे. खरा संन्यासी तो नव्हे जो जीवन सोडून निघून जातो, तर ज्याला द्वेष नाही आणि लालसा नाही, आणि म्हणून जो रोजच्या कर्मांत राहूनही मुक्त आहे. अनेक गुरू याचा अर्थ असा सांगतात की बाहेरच्या वेशापेक्षा आतला भाव अधिक महत्त्वाचा. कोणत्या दारातून जायचे ते आधीच सांगितले जावे, ही माणसाची फार स्वाभाविक इच्छा आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Water rolls off the leaf",
+    "hi": {
+     "text": "पानी पत्ते से लुढ़क जाता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाणी पानावरून ओघळते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then comes the famous picture. A person who acts without clinging, offering the work to something higher, is untouched by wrong, as a lotus leaf is untouched by water. The drops gather and roll away, and the leaf stays dry and green.\n\nKrishna adds that the wise see with an even eye. A learned and humble scholar, a cow, an elephant, a dog and an outcast are all seen as worthy of the same respect. Such a person has found a quiet happiness within, not dependent on outer things, and rests easy like someone living in a city with nine gates, comfortable and at peace inside it. Nothing sticks to it, however long the rain falls, and Krishna offers that calm as a real possibility for any of us.",
+    "hi": {
+     "text": "फिर आता है प्रसिद्ध चित्र। जो मनुष्य आसक्ति छोड़कर, कर्म को किसी उच्चतर को अर्पित करके कार्य करता है, वह पाप से वैसे ही अछूता रहता है जैसे कमल का पत्ता पानी से। बूँदें इकट्ठा होकर लुढ़क जाती हैं, और पत्ता सूखा और हरा रहता है।\n\nश्रीकृष्ण जोड़ते हैं कि ज्ञानी समदृष्टि से देखते हैं। विद्वान और विनम्र पंडित, गाय, हाथी, कुत्ता और समाज से बहिष्कृत मनुष्य, सब उन्हें समान आदर के योग्य दिखते हैं। ऐसे मनुष्य ने भीतर एक शांत सुख पा लिया है, जो बाहरी चीज़ों पर निर्भर नहीं, और वह नौ द्वारों वाले नगर में रहने वाले की तरह, उसमें आराम और शांति से टिका रहता है। चाहे जितनी देर वर्षा हो, उस पर कुछ चिपकता नहीं, और श्रीकृष्ण वह शांति हम सबके लिए एक सच्ची संभावना के रूप में रखते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग येते ते प्रसिद्ध चित्र. जो आसक्ती सोडून आणि कर्म उच्च तत्त्वाला अर्पण करून कार्य करतो, तो कमळपत्र पाण्याने भिजत नाही तसा पापाने लिप्त होत नाही. थेंब जमतात आणि ओघळून जातात, आणि पान कोरडे व हिरवे राहते.\n\nश्रीकृष्ण पुढे सांगतात की ज्ञानी लोक समदृष्टीने पाहतात. विद्वान आणि विनम्र ब्राह्मण, गाय, हत्ती, कुत्रा आणि बहिष्कृत माणूस, सर्वांना ते सारख्याच आदराला पात्र मानतात. अशा माणसाला आत शांत सुख मिळालेले असते, ते बाहेरच्या गोष्टींवर अवलंबून नसते, आणि नऊ दारांच्या नगरात सुखाने राहावे तसा तो आतून निवांत आणि शांत असतो. कितीही पाऊस पडला तरी त्याला काही चिकटत नाही, आणि ती शांतता आपल्या प्रत्येकासाठी खरी शक्यता आहे असे श्रीकृष्ण दाखवतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Staying clean in a messy world",
+    "hi": {
+     "text": "उलझे संसार में निर्मल रहना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गोंधळाच्या जगात स्वच्छ राहणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Work can leave us stained with stress, grudges and the habit of comparing. The lotus leaf is a gentle model: stay in the water, do the work, but let the troubles slide off. Practically, that might mean not carrying a meeting home with you, or forgiving a rude remark before bed.\n\nThe even-eyed vision also matters today. Notice how you treat the cleaner, the child, the stranger and the boss. Try offering the same warm attention to each person you meet for one day, and see how it changes the day. Many people find that evenness makes both kindness and calm come more naturally. Evenness is not coldness. It simply means everyone gets your best, not only the people who can do something for you.",
+    "hi": {
+     "text": "काम हमें तनाव, शिकायतों और तुलना की आदत के दाग़ दे सकता है। कमल का पत्ता एक कोमल आदर्श है: पानी में रहिए, काम कीजिए, पर कष्टों को फिसल जाने दीजिए। व्यवहार में इसका अर्थ हो सकता है, किसी बैठक को घर न ले आना, या सोने से पहले किसी की रूखी बात को क्षमा कर देना।\n\nसमदृष्टि भी आज के लिए ज़रूरी है। देखिए कि आप सफ़ाईकर्मी, बच्चे, अजनबी और अपने अधिकारी के साथ कैसा व्यवहार करते हैं। एक दिन हर मिलने वाले को एक-सा स्नेहभरा ध्यान देकर देखिए, और देखिए कि दिन कैसे बदलता है। बहुतों को लगता है कि समभाव से दया और शांति दोनों सहज हो जाती हैं। समभाव का अर्थ ठंडापन नहीं है। इसका बस इतना अर्थ है कि सबको आपका सर्वश्रेष्ठ मिले, केवल उन्हें नहीं जो आपके काम आ सकते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काम आपल्यावर तणाव, राग आणि तुलना करण्याच्या सवयीचे डाग ठेवू शकते. कमळपत्र हा सौम्य आदर्श आहे: पाण्यात राहा, काम करा, पण त्रास ओघळून जाऊ द्या. व्यवहारात याचा अर्थ असा की बैठक घरी घेऊन जाऊ नका, किंवा झोपण्यापूर्वी एखादा उद्धट शब्द क्षमा करा.\n\nसमदृष्टीही आज महत्त्वाची आहे. तुम्ही सफाई कामगार, मूल, अनोळखी माणूस आणि साहेब यांच्याशी कसे वागता ते पाहा. एक दिवस भेटणाऱ्या प्रत्येकाला सारखेच प्रेमळ लक्ष द्यायचा प्रयत्न करा, आणि दिवस कसा बदलतो ते पाहा. समभावामुळे दयाळूपणा आणि शांतता अधिक सहज येते, असे अनेकांना जाणवते. समभाव म्हणजे कोरडेपणा नव्हे. त्याचा अर्थ एवढाच की तुमचे सर्वोत्तम प्रत्येकाला मिळते, फक्त तुमचे काही करू शकणाऱ्यांनाच नव्हे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि । शुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥",
+  "cite": {
+   "en": "Bhagavad Gita 5.18",
+   "hi": {
+    "text": "भगवद्गीता 5.18",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता ५.१८",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The truly wise see all with one eye, whether it is a humble scholar, a cow, an elephant, a dog or a person cast out by society.",
+   "hi": {
+    "text": "सच्चे ज्ञानी सबको एक ही दृष्टि से देखते हैं, चाहे वह विनम्र विद्वान हो, गाय, हाथी, कुत्ता या समाज का ठुकराया हुआ मनुष्य।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "खरे ज्ञानी सर्वांकडे एकाच दृष्टीने पाहतात, मग तो विनम्र विद्वान असो, गाय, हत्ती, कुत्रा किंवा समाजाने दूर लोटलेला माणूस.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who do you tend to overlook? Today, give that person the same full attention you would give someone important.",
+  "hi": {
+   "text": "आप किसे अक्सर अनदेखा कर देते हैं? आज उसे वही पूरा ध्यान दीजिए जो किसी महत्त्वपूर्ण व्यक्ति को देते।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही सहसा कोणाकडे दुर्लक्ष करता? आज त्या व्यक्तीला एखाद्या महत्त्वाच्या माणसाला देता तेवढेच पूर्ण लक्ष द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Do your work fully, let it slide off like water, and treat everyone with the same respect.",
+  "hi": {
+   "text": "अपना काम पूरे मन से कीजिए, उसे पानी की तरह फिसल जाने दीजिए, और सबके साथ एक-सा आदरपूर्ण व्यवहार कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपले काम पूर्ण मनाने करा, त्याला पाण्यासारखे ओघळू द्या, आणि सर्वांना सारखाच आदर द्या.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 5 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 5 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय ५ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

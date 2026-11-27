@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-upside-down-tree",
+ "order": 15,
+ "part": "jnana",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Upside-Down Tree",
+  "hi": {
+   "text": "उलटा वृक्ष",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "उलटा वृक्ष",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A tree with roots above and branches below shows how this world grows from something higher.",
+  "hi": {
+   "text": "जिसकी जड़ें ऊपर और शाखाएँ नीचे हैं, ऐसा वृक्ष दिखाता है कि यह संसार किसी ऊँचे तत्त्व से उपजा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मुळे वर आणि फांद्या खाली असलेला वृक्ष दाखवतो की हे जग एका उच्च तत्त्वातून कसे वाढले आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/bhagavad-gita/gita-4.webp",
+   "w": 768,
+   "h": 484,
+   "caption": {
+    "en": "Arjuna before Krishna's cosmic form (Indian painting, Brooklyn Museum)",
+    "hi": {
+     "text": "श्रीकृष्ण के विश्वरूप के सामने अर्जुन (भारतीय चित्र, ब्रुकलिन संग्रहालय)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाच्या विश्वरूपासमोर अर्जुन (भारतीय चित्र, ब्रुकलिन संग्रहालय)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Vishvarupa_The_Cosmic_Form_of_Krishna.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The tree of the world",
+    "hi": {
+     "text": "संसार का वृक्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जगाचा वृक्ष",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna paints a strange picture: a great ashvattha tree whose roots are above and whose branches spread below. Its leaves are the sacred verses. This tree, he says, is the world of change, rooted in something higher, with branches reaching down into all the realms of nature, nourished by the threads of nature, and sprouting desires like young shoots.\n\nOrdinary eyes cannot see the shape of this tree, its beginning or its end, or where it stands. We live among its branches and mistake them for everything. Krishna says the way out is to cut this tree down with the strong axe of detachment, and then to seek that place from which no one returns.",
+    "hi": {
+     "text": "श्रीकृष्ण एक विचित्र चित्र रचते हैं: एक विशाल अश्वत्थ वृक्ष, जिसकी जड़ें ऊपर हैं और शाखाएँ नीचे फैली हैं। उसके पत्ते पवित्र वेदमंत्र हैं। यह वृक्ष, वे कहते हैं, परिवर्तनशील संसार है, जिसकी जड़ें किसी ऊँचे तत्त्व में हैं, और शाखाएँ प्रकृति के सब लोकों तक नीचे पहुँचती हैं, प्रकृति के गुणों से पोषित होती हैं, और नन्हीं कोंपलों की तरह कामनाएँ फूटती हैं।\n\nसाधारण आँखें इस वृक्ष का आकार, उसका आदि या अंत, या वह कहाँ टिका है, नहीं देख पातीं। हम उसकी शाखाओं के बीच रहते हैं और उन्हें ही सब कुछ समझ लेते हैं। श्रीकृष्ण कहते हैं कि इससे निकलने का मार्ग है इस वृक्ष को वैराग्य की दृढ़ कुल्हाड़ी से काट देना, और फिर उस धाम की खोज करना जहाँ से कोई लौटकर नहीं आता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण एक विलक्षण चित्र रंगवतात: एक मोठा अश्वत्थ वृक्ष, ज्याची मुळे वर आहेत आणि फांद्या खाली पसरल्या आहेत. त्याची पाने म्हणजे पवित्र वेदमंत्र. हा वृक्ष म्हणजे बदलणारे जग, जे एका उच्च तत्त्वात रुजलेले आहे, ज्याच्या फांद्या सृष्टीच्या सर्व लोकांत खाली पोहोचतात, प्रकृतीच्या गुणांनी पोसल्या जातात आणि कोवळ्या कोंबांप्रमाणे इच्छा फुटवतात.\n\nसामान्य डोळ्यांना या वृक्षाचा आकार, त्याची सुरुवात, त्याचा शेवट किंवा तो कुठे उभा आहे हे दिसत नाही. आपण त्याच्या फांद्यांत राहतो आणि त्यांनाच सर्वस्व मानतो. श्रीकृष्ण सांगतात की यातून बाहेर पडण्याचा मार्ग म्हणजे हा वृक्ष वैराग्याच्या कुऱ्हाडीने तोडणे, आणि मग ते स्थान शोधणे जिथून कोणी परत येत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The light in every being",
+    "hi": {
+     "text": "हर प्राणी में प्रकाश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रत्येक जीवातला प्रकाश",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He then speaks of what lights the world. The brightness of the sun, the moon and fire all come from him. Entering the earth, he supports all beings, and as the moon he nourishes plants. As the fire of digestion he lives in every body and helps it digest the food it takes in.\n\nKrishna also describes two kinds of beings, the perishable and the imperishable, and a highest person beyond both, who enters the worlds and sustains them. This is why he is called the Supreme Person, Purushottama. Those who know him without doubt, he says, know everything worth knowing and worship him with their whole being. It is a way of saying that light, life and nourishment are gifts all around us, and that everything we love is held by something greater.",
+    "hi": {
+     "text": "फिर वे उस प्रकाश की बात करते हैं जो संसार को आलोकित करता है। सूर्य, चंद्रमा और अग्नि का तेज उन्हीं से है। पृथ्वी में प्रवेश करके वे सब प्राणियों को धारण करते हैं, और चंद्रमा बनकर वनस्पतियों को पोषण देते हैं। जठराग्नि बनकर वे हर शरीर में रहते हैं और खाए हुए अन्न को पचाने में सहायता करते हैं।\n\nश्रीकृष्ण दो प्रकार के प्राणियों का भी वर्णन करते हैं, नश्वर और अविनाशी, और इन दोनों से परे एक परम पुरुष का, जो लोकों में प्रवेश करके उन्हें थामे रखता है। इसीलिए उन्हें पुरुषोत्तम कहा जाता है। जो उन्हें निःसंदेह जानते हैं, वे जानने योग्य सब कुछ जानते हैं, और अपने पूरे अस्तित्व से उनका भजन करते हैं। यह कहने का एक ढंग है कि प्रकाश, जीवन और पोषण हमारे चारों ओर उपहार हैं, और जो कुछ हमें प्रिय है, उसे कोई महान सत्ता थामे हुए है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग ते जगाला काय उजळते त्याविषयी बोलतात. सूर्य, चंद्र आणि अग्नी यांचे तेज माझ्यापासूनच आहे. पृथ्वीत प्रवेश करून मी सर्व प्राण्यांना आधार देतो, आणि चंद्र होऊन वनस्पतींना पोषण देतो. जठराग्नी होऊन मी प्रत्येक शरीरात राहतो आणि त्याने घेतलेले अन्न पचवण्यास मदत करतो.\n\nश्रीकृष्ण दोन प्रकारच्या जीवांचे, नश्वर आणि अविनाशी, आणि या दोघांपलीकडच्या परम पुरुषाचेही वर्णन करतात, जो सर्व लोकांत प्रवेश करून त्यांना धारण करतो. म्हणूनच त्याला पुरुषोत्तम म्हणतात. जे त्याला निःसंशय जाणतात, त्यांना जाणण्यासारखे सारे काही कळते आणि ते पूर्ण मनाने त्याची उपासना करतात. प्रकाश, जीवन आणि पोषण या सर्व आपल्याभोवती असलेल्या देणग्या आहेत, आणि आपल्याला प्रिय असलेले सारे काही एका महान शक्तीने धरले आहे, असेच यातून सांगितले आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Loosening the branches",
+    "hi": {
+     "text": "शाखाओं की पकड़ ढीली करना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फांद्या सैल करणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Many of us feel tied up in branches: deadlines, comparisons, wanting more. The tree picture offers a gentle perspective. Look from the roots instead. Remember what actually feeds you and what you truly care about, and let the rest hold you a little less tightly.\n\nNotice too the quiet light in each person you meet. The one who is irritating you on the bus has the same spark. Try one small act of detachment today, such as letting go of a purchase you do not need or an argument you do not need to win, and notice how much lighter the branches feel. It is a reminder that you are allowed to put some things down, and that doing so does not make you careless, only freer.",
+    "hi": {
+     "text": "हममें से बहुत-से लोग शाखाओं में उलझे महसूस करते हैं: समय-सीमाएँ, तुलना, और अधिक की चाह। वृक्ष का चित्र एक कोमल दृष्टिकोण देता है। जड़ों की ओर से देखिए। याद कीजिए कि आपको सचमुच क्या पोषित करता है और आपको वास्तव में किसकी परवाह है, और बाकी को आपको थोड़ा कम कसकर पकड़ने दीजिए।\n\nहर मिलने वाले में छिपे शांत प्रकाश को भी देखिए। बस में जो आपको चिढ़ा रहा है, उसमें भी वही चिंगारी है। आज वैराग्य का एक छोटा कार्य कीजिए, जैसे किसी अनावश्यक खरीदारी को छोड़ देना या ऐसी बहस छोड़ देना जिसे जीतना ज़रूरी नहीं, और देखिए कि शाखाएँ कितनी हल्की लगती हैं। यह याद दिलाता है कि आपको कुछ चीज़ें नीचे रखने की अनुमति है, और ऐसा करने से आप लापरवाह नहीं होते, केवल अधिक मुक्त होते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपल्यापैकी अनेकांना फांद्यांत अडकल्यासारखे वाटते: मुदती, तुलना, अधिक मिळवण्याची इच्छा. वृक्षाचे हे चित्र सौम्य दृष्टिकोन देते. मुळांकडून पाहा. तुम्हाला खरोखर कशाने पोषण मिळते आणि कशाची तुम्हाला खरी काळजी आहे ते आठवा, आणि बाकीच्यांना तुम्हाला थोडे कमी घट्ट धरू द्या.\n\nभेटणाऱ्या प्रत्येकातल्या शांत प्रकाशाकडेही लक्ष द्या. बसमध्ये तुम्हाला चिडवणाऱ्या माणसातही तीच ठिणगी आहे. आज अनासक्तीची एक छोटी कृती करून पाहा, जसे की नको असलेली खरेदी किंवा जिंकण्याची गरज नसलेला वाद सोडून देणे, आणि फांद्या किती हलक्या वाटतात ते पाहा. काही गोष्टी खाली ठेवण्याची तुम्हाला परवानगी आहे, आणि तसे केल्याने तुम्ही बेफिकीर होत नाही, फक्त अधिक मोकळे होता, याची ही आठवण आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् । छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥",
+  "cite": {
+   "en": "Bhagavad Gita 15.1",
+   "hi": {
+    "text": "भगवद्गीता 15.1",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता १५.१",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The world is pictured as an ancient tree with roots above and branches below, and the one who knows it truly knows.",
+   "hi": {
+    "text": "संसार को एक आदि वृक्ष के रूप में देखा गया है जिसकी जड़ें ऊपर और शाखाएँ नीचे हैं, और जो उसे जानता है, वही सच में जानता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "हे जग मुळे वर आणि फांद्या खाली असलेल्या प्राचीन अश्वत्थ वृक्षासारखे सांगितले आहे, आणि जो त्याला जाणतो तोच खरा जाणणारा.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What desire or habit feels like a heavy branch? Choose one thing to let go of today.",
+  "hi": {
+   "text": "कौन-सी कामना या आदत भारी शाखा जैसी लगती है? आज एक चीज़ चुनिए जिसे आप छोड़ देंगे।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणती इच्छा किंवा सवय तुम्हाला जड फांदीसारखी वाटते? आज एक गोष्ट सोडून देण्यासाठी निवडा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Look to the roots of life and the branches will hold you less tightly.",
+  "hi": {
+   "text": "जीवन की जड़ों की ओर देखिए, तो शाखाएँ आपको कम कसकर पकड़ेंगी।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जीवनाच्या मुळांकडे पाहा, म्हणजे फांद्या तुम्हाला कमी घट्ट धरतील.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 15 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 15 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय १५ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

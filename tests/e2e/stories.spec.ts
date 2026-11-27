@@ -48,10 +48,31 @@ test.describe("Story collections (D-038, D-040)", () => {
     expect(broken).toEqual([]);
   });
 
+  test("Gita, Dnyaneshwari and Gurucharitra are short illustrated summaries (D-041)", async ({ page }) => {
+    await onboard(page, "en");
+    for (const [club, count, part] of [
+      ["bhagavad-gita", 18, /path of devotion/],
+      ["dnyaneshwari", 10, /The Gita in Marathi/],
+      ["gurucharitra", 22, /Bhakti kanda/],
+    ] as const) {
+      await page.goto(`/en/calendar/stories/${club}/`);
+      await expect(page.getByTestId("club-chapters").locator(":scope > li")).toHaveCount(count);
+      await expect(page.getByRole("heading", { level: 2, name: part })).toBeVisible();
+    }
+    await page.goto("/en/calendar/stories/bhagavad-gita/the-undying-self/");
+    await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(3);
+    await expect(page.locator('p[lang="sa"]')).toContainText("कर्मण्येवाधिकारस्ते");
+    await page.goto("/en/calendar/stories/dnyaneshwari/pasayadan/");
+    await expect(page.locator('p[lang="mr"]')).toContainText("जो जे वांछील तो ते लाहो");
+    await expect(page.getByText("You have reached the end of this collection.")).toBeVisible();
+    const broken = await page.evaluate(() => [...document.images].filter((i) => i.complete && i.naturalWidth === 0).map((i) => i.src));
+    expect(broken).toEqual([]);
+  });
+
   for (const lang of ["hi", "mr"] as const) {
     test(`${lang} collection and chapter pages are translated`, async ({ page }) => {
       await onboard(page, lang);
-      for (const p of ["calendar/stories/ramayana/", "calendar/stories/ramayana/great-leap/", "calendar/stories/varkari/dnyaneshwar/", "calendar/stories/mahabharata/the-bhagavad-gita/"]) {
+      for (const p of ["calendar/stories/ramayana/", "calendar/stories/ramayana/great-leap/", "calendar/stories/varkari/dnyaneshwar/", "calendar/stories/mahabharata/the-bhagavad-gita/", "calendar/stories/bhagavad-gita/", "calendar/stories/dnyaneshwari/pasayadan/", "calendar/stories/gurucharitra/kuravpur/"]) {
         await page.goto(`/${lang}/${p}`);
         const text = await page.evaluate(() => {
           const out: string[] = [];

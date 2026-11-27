@@ -1,0 +1,169 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-pillar-at-nevasa",
+ "order": 2,
+ "part": "story",
+ "figure": {
+  "en": "Dnyaneshwar and Sachchidananda Baba",
+  "hi": {
+   "text": "संत ज्ञानेश्वर और सच्चिदानंद बाबा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वर आणि सच्चिदानंद बाबा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Pillar at Nevasa",
+  "hi": {
+   "text": "नेवासा का स्तंभ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नेवाशाचा खांब",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "At Nevasa, a young poet spoke and a scribe wrote, beginning with a bow to God and to the guru.",
+  "hi": {
+   "text": "नेवासा में एक युवा कवि बोलते गए और एक लेखक लिखता गया, आरंभ प्रभु और गुरु को प्रणाम से हुआ।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नेवासे येथे एका तरुण कवीने सांगितले आणि एका लेखनिकाने लिहिले, सुरुवात देवाला आणि गुरूला नमस्काराने करून.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/dn-1.webp",
+   "w": 1200,
+   "h": 675,
+   "caption": {
+    "en": "Statues of Dnyaneshwar speaking the ovis and Sachchidananda Baba writing them down",
+    "hi": {
+     "text": "ओवियाँ बोलते ज्ञानेश्वर और उन्हें लिखते सच्चिदानंद बाबा की मूर्तियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ओव्या सांगणारे ज्ञानेश्वर आणि त्या लिहून घेणारे सच्चिदानंद बाबा यांची शिल्पे",
+     "reviewed": false
+    }
+   },
+   "credit": "ज्ञानदा गद्रे-फडके, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Saint_Dnyaneshwar_and_Sachchidanand_baba.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The temple at Nevasa",
+    "hi": {
+     "text": "नेवासा का मंदिर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नेवाशाचे मंदिर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Tradition tells us the Dnyaneshwari was spoken at Nevasa, a town on the Pravara river, in the year 1290 of the common era. Dnyaneshwar sat in the temple there, leaning against a stone pillar, and began to explain the Gita aloud in Marathi. The pillar is still honoured today, and many pilgrims touch it with respect.\n\nA devoted man named Sachchidananda Baba sat nearby and wrote the verses down as they flowed. The poet did not read from a manuscript or stop to think for long. He simply spoke, and the lines arrived in the form of ovis, a simple Marathi metre that sounds natural when read aloud, almost like talking to a friend.",
+    "hi": {
+     "text": "परंपरा बताती है कि ज्ञानेश्वरी प्रवरा नदी के किनारे बसे नगर नेवासा में, सन् 1290 में बोली गई। ज्ञानेश्वर वहाँ मंदिर में एक पत्थर के स्तंभ से टिककर बैठे, और ऊँचे स्वर में गीता को मराठी में समझाने लगे। वह स्तंभ आज भी पूजनीय है, और बहुत से यात्री उसे आदर से छूते हैं।\n\nसच्चिदानंद बाबा नाम के एक श्रद्धालु पास बैठे थे और बहती हुई पंक्तियों को लिखते गए। कवि किसी पांडुलिपि से नहीं पढ़ रहे थे, न बहुत देर रुककर सोचते थे। वे बस बोलते गए, और पंक्तियाँ ओवी के रूप में आती गईं, मराठी का वह सरल छंद जो ऊँचे स्वर में पढ़ने पर सहज लगता है, मानो किसी मित्र से बात हो रही हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परंपरा सांगते की ज्ञानेश्वरी प्रवरा नदीकाठच्या नेवासे गावी इसवी सन १२९० मध्ये सांगितली गेली. ज्ञानेश्वर तिथल्या मंदिरात दगडी खांबाला टेकून बसले आणि मराठीत गीता मोठ्याने समजावून सांगू लागले. तो खांब आजही पूजनीय आहे, आणि अनेक यात्रेकरू त्याला आदराने स्पर्श करतात.\n\nसच्चिदानंद बाबा नावाचे एक भक्त जवळ बसले आणि ओव्या वाहत्या प्रवाहासारख्या येत गेल्या तशा त्यांनी लिहून घेतल्या. कवीने कोणत्या हस्तलिखितातून वाचले नाही किंवा फार वेळ थांबून विचारही केला नाही. ते फक्त बोलत गेले, आणि ओळी ओवीच्या रूपात आल्या, ही साधी मराठी रचना मोठ्याने वाचताना नैसर्गिक वाटते, जणू मित्राशी गप्पा मारल्या जात आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A bow before the first word",
+    "hi": {
+     "text": "पहले शब्द से पहले प्रणाम",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहिल्या शब्दाआधी नमन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Before he explained anything, Dnyaneshwar offered a salutation. He first bows to God in the form of Ganesha, whom he also describes as the sacred sound Om, the beginning of all speech. Then he bows to the guru, the one who opens the eyes of the heart. In his telling, the teacher is the true source of the whole work.\n\nHe does not begin with pride. He calls himself small and says that any beauty in the book is the guru’s gift. It is like a child who is allowed to play a grand instrument. The audience is invited to listen not as critics, but as kind friends who will forgive his faults and enjoy the sweetness together.",
+    "hi": {
+     "text": "कुछ भी समझाने से पहले ज्ञानेश्वर ने वंदना की। वे सबसे पहले प्रभु को गणेश के रूप में प्रणाम करते हैं, जिन्हें वे पवित्र नाद ॐ भी कहते हैं, जो सब वाणी का आरंभ है। फिर वे गुरु को प्रणाम करते हैं, जो हृदय की आँखें खोलते हैं। उनके कथन में गुरु ही पूरे ग्रंथ का सच्चा स्रोत हैं।\n\nवे अभिमान से आरंभ नहीं करते। वे स्वयं को छोटा कहते हैं और कहते हैं कि ग्रंथ में जो भी सौंदर्य है, वह गुरु का उपहार है। यह उस बच्चे जैसा है जिसे किसी भव्य वाद्य को बजाने की अनुमति मिली हो। श्रोताओं को निमंत्रण है कि वे आलोचक की तरह नहीं, बल्कि दयालु मित्रों की तरह सुनें, जो उनकी त्रुटियाँ क्षमा करेंगे और माधुर्य का साथ-साथ आनंद लेंगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काहीही समजावण्याआधी ज्ञानेश्वरांनी वंदन केले. ते आधी गणेशरूपी देवाला नमस्कार करतात, ज्याचे वर्णन ते पवित्र ओंकार, सर्व वाणीचा आरंभ, असेही करतात. मग ते गुरूला वंदन करतात, जो हृदयाचे डोळे उघडतो. त्यांच्या सांगण्यात गुरू हेच संपूर्ण ग्रंथाचे खरे उगमस्थान आहेत.\n\nते अभिमानाने सुरुवात करत नाहीत. ते स्वतःला लहान म्हणतात आणि सांगतात की ग्रंथात जे काही सौंदर्य आहे ते गुरूंची देणगी आहे. एखाद्या मुलाला मोठे वाद्य वाजवू दिले जावे तसे हे आहे. श्रोत्यांना विनंती आहे की त्यांनी टीकाकार म्हणून नव्हे, तर दयाळू मित्र म्हणून ऐकावे, जे त्यांच्या दोषांना क्षमा करतील आणि गोडव्याचा आनंद एकत्र घेतील.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Speak small, mean big",
+    "hi": {
+     "text": "छोटे होकर बोलो, बड़ी बात कहो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लहान बोला, मोठा अर्थ ठेवा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Humility is the first lesson of this book. Dnyaneshwar was brilliant, yet he kept deflecting praise, because he felt his words were not really his own. This made his teaching easy to trust, since it came without show.\n\nIn daily life, we can borrow his habit. Before you begin a hard task, an exam, a talk or a long day, pause for a moment and thank those who taught you, whether a parent, a teacher or a friend. Admit what you do not yet know. A humble start does not weaken your work. It keeps your mind open and your heart warm, and people feel more at ease around you. Greatness often begins with a quiet bow.",
+    "hi": {
+     "text": "विनम्रता इस ग्रंथ की पहली सीख है। ज्ञानेश्वर प्रतिभाशाली थे, फिर भी प्रशंसा को टालते रहे, क्योंकि उन्हें लगता था कि उनके शब्द वास्तव में उनके अपने नहीं हैं। इससे उनके उपदेश पर भरोसा करना सरल हो गया, क्योंकि वह बिना दिखावे के आया था।\n\nरोज़ के जीवन में हम उनकी यह आदत उधार ले सकते हैं। कोई कठिन काम, परीक्षा, भाषण या लंबा दिन शुरू करने से पहले एक क्षण रुकिए और उन्हें धन्यवाद दीजिए जिन्होंने आपको सिखाया, चाहे माता-पिता हों, गुरु हों या मित्र। मान लीजिए कि आप अभी क्या नहीं जानते। विनम्र आरंभ आपके काम को कमज़ोर नहीं करता। वह आपके मन को खुला और हृदय को गर्म रखता है, और लोग आपके पास सहज महसूस करते हैं। महानता अक्सर एक शांत प्रणाम से शुरू होती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नम्रता हा या ग्रंथाचा पहिला धडा आहे. ज्ञानेश्वर प्रतिभावान होते, तरी ते स्तुती टाळत राहिले, कारण त्यांना वाटत होते की त्यांचे शब्द खरेतर त्यांचे नव्हते. यामुळे त्यांच्या शिकवणीवर विश्वास ठेवणे सोपे झाले, कारण ती दिखाव्याविना आली.\n\nरोजच्या जीवनात आपण त्यांची सवय उसनी घेऊ शकतो. कठीण काम, परीक्षा, भाषण किंवा मोठा दिवस सुरू करण्यापूर्वी क्षणभर थांबा आणि ज्यांनी तुम्हाला शिकवले त्यांचे आभार माना, मग ते आई-वडील असोत, शिक्षक किंवा मित्र. तुम्हाला अजून काय माहीत नाही ते मान्य करा. नम्र सुरुवात तुमचे काम कमकुवत करत नाही. ती तुमचे मन खुले आणि हृदय उबदार ठेवते, आणि लोकांना तुमच्याजवळ अधिक सहज वाटते. मोठेपण अनेकदा शांत नमनाने सुरू होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Who taught you something that you still use every day? Thank them today, in a message or in your heart.",
+  "hi": {
+   "text": "किसने आपको ऐसी बात सिखाई जो आप आज भी रोज़ उपयोग करते हैं? आज उन्हें धन्यवाद दीजिए, संदेश में या मन में।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आजही दररोज वापरता असे काहीतरी तुम्हाला कोणी शिकवले? आज त्यांचे संदेशाने किंवा मनातल्या मनात आभार माना.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Begin with humility and gratitude, and good work flows more freely.",
+  "hi": {
+   "text": "विनम्रता और कृतज्ञता से आरंभ कीजिए, तो अच्छा काम अधिक सहज बहता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नम्रता आणि कृतज्ञतेने सुरुवात करा, म्हणजे चांगले काम अधिक मुक्तपणे घडते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika), chapter 1 (opening); summary in our own words; Varkari tradition for the setting at Nevasa",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), अध्याय 1 (आरंभ); हमारे अपने शब्दों में सार; नेवासा के प्रसंग के लिए वारकरी परंपरा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), अध्याय १ (आरंभ); आमच्या शब्दांत सारांश; नेवाशाच्या स्थळासाठी वारकरी परंपरा",
+   "reviewed": false
+  }
+ }
+}

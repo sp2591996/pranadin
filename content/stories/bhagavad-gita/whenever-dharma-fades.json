@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "whenever-dharma-fades",
+ "order": 4,
+ "part": "karma",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Whenever Dharma Fades",
+  "hi": {
+   "text": "जब-जब धर्म की हानि होती है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा जेव्हा धर्माला ग्लानी येते",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Krishna speaks of coming into the world again and again, and of knowledge as a boat that carries us across.",
+  "hi": {
+   "text": "श्रीकृष्ण बताते हैं कि वे बार-बार संसार में आते हैं, और ज्ञान एक नौका है जो हमें पार ले जाती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण वारंवार जगात येण्याविषयी सांगतात, आणि ज्ञानाला पार नेणारी नौका म्हणतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/bhagavad-gita/gita-1.webp",
+   "w": 880,
+   "h": 1100,
+   "caption": {
+    "en": "Krishna drives Arjuna's chariot (Indian painting)",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन का रथ चलाते हैं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाचा रथ चालवतात (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_Arjuna_Gita.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "An ancient teaching, renewed",
+    "hi": {
+     "text": "प्राचीन उपदेश, फिर से नया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्राचीन शिकवण, नव्याने",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna tells Arjuna that this very teaching is ancient. It was passed down through a line of wise kings and sages, and over time much of it was forgotten. Now he is sharing it again, he says, because Arjuna is a devoted friend and ready to listen.\n\nArjuna is startled. Krishna is standing here in the present, so how could he have spoken in ages past? Krishna replies that he has taken many births, and Arjuna has too, but only he remembers them. Many teachers explain this as the divine entering the world freely, not bound by karma as we are, in order to restore goodness whenever it grows weak. The story reminds us that wisdom is handed from person to person, and each generation has to receive it afresh.",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन से कहते हैं कि यह उपदेश बहुत प्राचीन है। यह बुद्धिमान राजाओं और ऋषियों की परंपरा से चला आया, और समय के साथ इसका बहुत कुछ भुला दिया गया। अब वे इसे फिर से बता रहे हैं, वे कहते हैं, क्योंकि अर्जुन उनके भक्त और मित्र हैं और सुनने को तैयार हैं।\n\nअर्जुन चकित हैं। श्रीकृष्ण तो यहाँ वर्तमान में खड़े हैं, फिर बीते युगों में उन्होंने यह कैसे कहा होगा? श्रीकृष्ण उत्तर देते हैं कि उन्होंने अनेक जन्म लिए हैं, और अर्जुन ने भी, पर उन्हें केवल वे ही याद हैं। बहुत से आचार्य इसे यों समझाते हैं कि प्रभु स्वेच्छा से संसार में आते हैं, हमारी तरह कर्म से बँधे बिना, ताकि जब भी भलाई कमज़ोर पड़े, उसे फिर से स्थापित करें। यह कथा याद दिलाती है कि ज्ञान एक व्यक्ति से दूसरे तक पहुँचता है, और हर पीढ़ी को उसे नए सिरे से ग्रहण करना होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला सांगतात की ही शिकवणच प्राचीन आहे. ती शहाण्या राजांच्या आणि ऋषींच्या परंपरेतून चालत आली, आणि कालांतराने तिचा बराचसा भाग विसरला गेला. आता मी ती पुन्हा सांगत आहे, कारण तू माझा भक्त आणि मित्र आहेस, आणि ऐकण्यास सिद्ध आहेस.\n\nअर्जुन चकित होतो. श्रीकृष्ण तर आत्ता इथे उभे आहेत, मग ते गेलेल्या युगांमध्ये कसे बोलले असतील? श्रीकृष्ण उत्तर देतात की मी अनेक जन्म घेतले आहेत, आणि तूही घेतले आहेत, पण मला ते आठवतात, तुला नाही. अनेक गुरू याचा अर्थ असा सांगतात की परमात्मा आपल्यासारखा कर्मबंधनात न अडकता, चांगुलपणा कमी होईल तेव्हा तो पुन्हा स्थापण्यासाठी मुक्तपणे जगात येतो. ही कथा आपल्याला आठवण करून देते की शहाणपण माणसापासून माणसाकडे दिले जाते, आणि प्रत्येक पिढीला ते नव्याने स्वीकारावे लागते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The boat and the lamp",
+    "hi": {
+     "text": "नौका और दीपक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नौका आणि दीप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna describes how actions can be done in a way that does not bind us. A person who sees inaction in action, and action in inaction, acts with a calm and unattached heart. Whether the offering is wealth, discipline, study or breath, all can become sacred when done with the right spirit.\n\nThen come two lovely images. Even if you were the worst of sinners, he says, the boat of knowledge will carry you across the river of wrongdoing. And as a blazing fire turns wood to ash, the fire of wisdom burns away the weight of past actions. He adds that those who are faithful and sincere in their search will find it, while doubt keeps us from peace.",
+    "hi": {
+     "text": "श्रीकृष्ण बताते हैं कि कर्म ऐसे ढंग से भी किए जा सकते हैं जो हमें बाँधें नहीं। जो कर्म में अकर्म और अकर्म में कर्म को देखता है, वह शांत और अनासक्त हृदय से कर्म करता है। चाहे भेंट धन हो, तप, अध्ययन या साँस, सब कुछ सही भाव से करने पर पवित्र बन सकता है।\n\nफिर दो सुंदर चित्र आते हैं। भले ही तुम सबसे बड़े पापी हो, वे कहते हैं, ज्ञान की नौका तुम्हें पाप की नदी के पार ले जाएगी। और जैसे धधकती अग्नि लकड़ी को राख कर देती है, वैसे ही ज्ञान की अग्नि बीते कर्मों का बोझ जला देती है। वे जोड़ते हैं कि जो खोज में श्रद्धालु और सच्चे हैं, वे उसे पाएँगे, जबकि संदेह हमें शांति से दूर रखता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण सांगतात की कर्म अशा प्रकारे करता येते की ते आपल्याला बांधत नाही. जो कर्मात अकर्म आणि अकर्मात कर्म पाहतो, तो शांत आणि अनासक्त मनाने कर्म करतो. अर्पण संपत्तीचे असो, तपाचे, अभ्यासाचे किंवा श्वासाचे, योग्य भावनेने केले तर सारे पवित्र होऊ शकते.\n\nमग दोन सुंदर प्रतिमा येतात. तू सर्वांत मोठा पापी असलास तरी ज्ञानाची नौका तुला पापाची नदी पार करून नेईल, असे ते म्हणतात. आणि प्रज्वलित अग्नी जसा लाकडाची राख करतो, तसा ज्ञानाग्नी पूर्वकर्मांचे ओझे जाळून टाकतो. ते पुढे सांगतात की शोधात श्रद्धावान आणि प्रामाणिक असणाऱ्यांना ते मिळते, तर संशय आपल्याला शांतीपासून दूर ठेवतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Learning that actually changes you",
+    "hi": {
+     "text": "वह सीख, जो सचमुच बदल दे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खरोखर बदलवणारे शिक्षण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "We live surrounded by information, yet feel stuck. This chapter says that real knowledge is something you act on and test in life. Krishna encourages Arjuna to approach teachers with respect, to ask questions, and to serve. Learning is a conversation, not a download.\n\nIt is also an encouraging chapter if you feel you have made mistakes. The boat image says that understanding can carry you forward no matter where you start. Choose one thing you have been meaning to learn about living well, a habit, a skill, a way of being kinder, and take one small step towards it today. Learning that is tested in daily life is slow, but it builds a quiet confidence that no amount of reading alone can give you.",
+    "hi": {
+     "text": "हम सूचनाओं से घिरे हैं, फिर भी अटके हुए महसूस करते हैं। यह अध्याय कहता है कि सच्चा ज्ञान वह है जिस पर आप अमल करें और जीवन में परखें। श्रीकृष्ण अर्जुन को प्रेरित करते हैं कि वे आचार्यों के पास आदर से जाएँ, प्रश्न पूछें और सेवा करें। सीखना संवाद है, डाउनलोड नहीं।\n\nयदि आपको लगता है कि आपसे गलतियाँ हुई हैं, तो यह अध्याय आपको हिम्मत भी देता है। नौका का चित्र कहता है कि समझ आपको वहीं से आगे ले जा सकती है जहाँ से भी आप आरंभ करें। अच्छे ढंग से जीने के विषय में कोई एक बात चुनिए जो आप सीखना चाहते थे, कोई आदत, कोई कौशल, अधिक दयालु होने का कोई ढंग, और आज उसकी ओर एक छोटा कदम बढ़ाइए। जो सीख रोज़ के जीवन में परखी जाती है, वह धीमी होती है, पर वह एक शांत आत्मविश्वास बनाती है जो केवल पढ़ने से नहीं मिल सकता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपण माहितीने वेढलेलो आहोत, तरी अडकल्यासारखे वाटते. हा अध्याय सांगतो की खरे ज्ञान असे असते जे तुम्ही आचरणात आणता आणि जीवनात पारखता. श्रीकृष्ण अर्जुनाला प्रोत्साहन देतात की गुरूंकडे आदराने जा, प्रश्न विचार आणि सेवा कर. शिकणे म्हणजे संवाद आहे, डाउनलोड नव्हे.\n\nतुमच्या हातून चुका झाल्या आहेत असे वाटत असेल, तर हा अध्याय प्रोत्साहनही देतो. नौकेचे चित्र सांगते की तुम्ही कुठूनही सुरुवात केली तरी समज तुम्हाला पुढे नेऊ शकते. चांगले जगण्याविषयी तुम्ही शिकायचे ठरवत आलेली एखादी गोष्ट निवडा, एखादी सवय, कौशल्य, अधिक दयाळू होण्याची रीत, आणि आज त्याकडे एक लहान पाऊल टाका. दैनंदिन जीवनात पारखलेले शिक्षण संथ असते, पण ते असा शांत आत्मविश्वास देते जो नुसते वाचन कधीच देऊ शकत नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत । अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥",
+  "cite": {
+   "en": "Bhagavad Gita 4.7",
+   "hi": {
+    "text": "भगवद्गीता 4.7",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता ४.७",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Each time goodness weakens and wrong gains ground, the divine takes birth again in the world.",
+   "hi": {
+    "text": "जब-जब भलाई कमज़ोर पड़ती है और अधर्म बढ़ता है, तब-तब प्रभु संसार में फिर प्रकट होते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जेव्हा जेव्हा चांगुलपणा क्षीण होतो आणि अधर्म वाढतो, तेव्हा तेव्हा परमात्मा पुन्हा जगात अवतार घेतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What insight have you read or heard but never applied? Pick one and try it for a single day.",
+  "hi": {
+   "text": "कौन-सी सीख आपने पढ़ी या सुनी, पर कभी अपनाई नहीं? एक चुनिए और केवल एक दिन उसे आज़माइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही कोणती शिकवण वाचली किंवा ऐकली, पण कधी आचरणात आणली नाही? एक निवडा आणि फक्त एक दिवस ती करून पाहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Knowledge becomes a boat only when we use it to cross.",
+  "hi": {
+   "text": "ज्ञान तभी नौका बनता है जब हम उससे पार उतरें।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञान तेव्हाच नौका बनते जेव्हा आपण ते पार जाण्यासाठी वापरतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 4 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 4 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय ४ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

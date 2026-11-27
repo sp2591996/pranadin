@@ -1,0 +1,169 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "vishwaroop",
+ "order": 17,
+ "part": "jnana",
+ "figure": {
+  "en": "Trivikram Bharati and Narasimha Saraswati",
+  "hi": {
+   "text": "त्रिविक्रम भारती और नृसिंह सरस्वती",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "त्रिविक्रम भारती आणि नृसिंह सरस्वती",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Guru Everywhere",
+  "hi": {
+   "text": "सर्वत्र गुरु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वत्र गुरू",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A learned ascetic cannot quite believe what he has heard, and then he looks around and sees one face in every direction.",
+  "hi": {
+   "text": "एक विद्वान संन्यासी जो सुना है उस पर पूरा विश्वास नहीं कर पाता, फिर वह चारों ओर देखता है तो हर दिशा में एक ही मुख दिखता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक विद्वान संन्यासी जे ऐकले त्यावर पूर्ण विश्वास ठेवू शकत नाही, आणि मग तो सभोवार पाहतो तेव्हा प्रत्येक दिशेला एकच चेहरा दिसतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/gc-7.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Dattatreya surrounded by yogis (19th-century wall painting, Punjab)",
+    "hi": {
+     "text": "योगियों से घिरे दत्तात्रेय (उन्नीसवीं सदी का भित्ति चित्र, पंजाब)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग्यांनी वेढलेले दत्तात्रेय (एकोणिसाव्या शतकातील भित्तिचित्र, पंजाब)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown Kangra muralists (and at-least one artist from Jalandhar named Sarfuddin as per as per Jatinder Mauhar), presuma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mural_depicting_Dattatreya_with_yogis_surrounding_him,_from_Ramtatwali_Dham,_Hoshiarpur_district,_Punjab,_circa_19th_century.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The doubter",
+    "hi": {
+     "text": "संशय करने वाला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंका घेणारा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha told of Trivikram Bharati, a respected ascetic and a scholar. He had heard that Narasimha Saraswati was a great teacher, and perhaps more than that. He had read many books, though, and he was cautious. Could it be true that this Guru was a form of the divine? He came with respect and with questions. He had seen many teachers who spoke well and lived poorly, and he did not wish to be fooled by a pleasant face.\n\nThe Gurucharitra tells that he greeted the Guru and bowed, but inwardly he held back. Narasimha Saraswati looked at him kindly and, without any rebuke, let him be. Honest doubt, the Siddha reminded Namdharak, is no sin in this story. It is a seeker’s way of making sure that the faith, once it comes, will stand firm. He asked questions that were sharp but not unkind, and the Guru answered each one with patience and a quiet smile.",
+    "hi": {
+     "text": "सिद्ध ने त्रिविक्रम भारती की कथा सुनाई, जो एक सम्मानित संन्यासी और विद्वान थे। उन्होंने सुना था कि नृसिंह सरस्वती महान गुरु हैं, और शायद उससे भी बढ़कर। पर उन्होंने बहुत ग्रंथ पढ़े थे, और वे सावधान थे। क्या यह सच हो सकता है कि ये गुरु ईश्वर का ही रूप हैं? वे आदर और प्रश्नों के साथ आए। उन्होंने बहुत-से ऐसे गुरु देखे थे जो बोलते अच्छा थे और जीते बुरा, और वे किसी मनभावन मुख से धोखा नहीं खाना चाहते थे।\n\nगुरुचरित्र बताता है कि उन्होंने गुरु को अभिवादन किया और प्रणाम भी, पर भीतर से वे रुके रहे। नृसिंह सरस्वती ने उन्हें स्नेह से देखा और बिना किसी फटकार के उन्हें वैसा ही रहने दिया। सिद्ध ने नामधारक को याद दिलाया कि सच्चा संशय इस कथा में पाप नहीं है। वह साधक का यह सुनिश्चित करने का ढंग है कि आस्था, जब आए, तो दृढ़ होकर टिके। उन्होंने तीखे पर निर्दय नहीं ऐसे प्रश्न पूछे, और गुरु ने हर एक का धैर्य और शांत मुस्कान से उत्तर दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी त्रिविक्रम भारतींची कथा सांगितली, जे एक आदरणीय संन्यासी आणि विद्वान होते. त्यांनी ऐकले होते की नृसिंह सरस्वती हे महान गुरू आहेत, आणि कदाचित त्याहूनही अधिक. पण त्यांनी अनेक ग्रंथ वाचले होते, आणि ते सावध होते. हे खरे असू शकेल का की हे गुरू म्हणजे ईश्वराचेच रूप? ते आदराने आणि प्रश्नांसह आले. त्यांनी असे अनेक गुरू पाहिले होते जे बोलायला छान आणि वागायला वाईट होते, आणि त्यांना एखाद्या गोड चेहऱ्याकडून फसायचे नव्हते.\n\nगुरुचरित्र सांगते की त्यांनी गुरूंना अभिवादन केले आणि नमस्कारही केला, पण आतून ते अलिप्त राहिले. नृसिंह सरस्वतींनी त्यांच्याकडे प्रेमाने पाहिले आणि कोणताही दोष न देता त्यांना तसेच राहू दिले. सिद्धांनी नामधारकाला आठवण करून दिली की प्रामाणिक शंका या कथेत पाप नाही. श्रद्धा, जेव्हा येईल तेव्हा, ठामपणे उभी राहावी याची खात्री करण्याचा तो साधकाचा मार्ग आहे. त्यांनी तीक्ष्ण पण निर्दय नसलेले प्रश्न विचारले, आणि गुरूंनी प्रत्येकाला संयमाने आणि शांत हास्याने उत्तर दिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Seeing the whole",
+    "hi": {
+     "text": "पूर्ण का दर्शन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संपूर्णाचे दर्शन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then, the tale says, Trivikram looked up and saw the Guru in every direction. In every face around him, in the trees, the river and the sky, there stood Narasimha Saraswati. It was a vision of the whole world held in one presence, and the ascetic’s doubt fell away like a dry leaf. It did not frighten him, for there was only love in it, and a stillness so deep that time itself seemed to rest.\n\nHe folded his hands and wept, and then he praised the Guru in a voice that shook. The Siddha said that the vision does not mean that ordinary people should expect wonders. It means only that those who sincerely seek may one day find that what they were looking for was never far, and never single. Afterwards, the ascetic spoke very little for days, and those who knew him said that his eyes had become softer.",
+    "hi": {
+     "text": "फिर, कथा कहती है, त्रिविक्रम ने ऊपर देखा और हर दिशा में गुरु को देखा। अपने चारों ओर हर मुख में, वृक्षों में, नदी में और आकाश में नृसिंह सरस्वती खड़े थे। यह एक ही उपस्थिति में समाए पूरे संसार का दर्शन था, और संन्यासी का संशय सूखे पत्ते की तरह झड़ गया। उसने उन्हें भयभीत नहीं किया, क्योंकि उसमें केवल प्रेम था, और इतनी गहरी शांति कि समय भी मानो ठहर गया।\n\nउन्होंने हाथ जोड़े और रो पड़े, फिर काँपते स्वर में गुरु की स्तुति की। सिद्ध ने कहा कि इस दर्शन का अर्थ यह नहीं कि साधारण लोग चमत्कारों की आशा करें। इसका अर्थ केवल इतना है कि जो सच्चे मन से खोजते हैं, वे किसी दिन पाएँगे कि जिसे वे खोज रहे थे वह कभी दूर नहीं था, और कभी अकेला नहीं था। उसके बाद संन्यासी कई दिन बहुत कम बोले, और जो उन्हें जानते थे वे कहते थे कि उनकी आँखें कोमल हो गई थीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग, कथा सांगते, त्रिविक्रमांनी वर पाहिले आणि प्रत्येक दिशेला गुरूंना पाहिले. आपल्याभोवतीच्या प्रत्येक चेहऱ्यात, झाडांत, नदीत आणि आकाशात नृसिंह सरस्वती उभे होते. एकाच सान्निध्यात सामावलेल्या सर्व जगाचे ते दर्शन होते, आणि संन्यासाची शंका वाळल्या पानासारखी गळून पडली. त्याने तो घाबरला नाही, कारण त्यात फक्त प्रेम होते, आणि इतकी खोल शांतता की काळही जणू विसावला.\n\nत्यांनी हात जोडले आणि अश्रू ढाळले, मग थरथरत्या आवाजात गुरूंची स्तुती केली. सिद्ध म्हणाले की या दर्शनाचा अर्थ असा नाही की सामान्य माणसांनी चमत्कारांची अपेक्षा करावी. याचा अर्थ फक्त इतकाच की जे प्रामाणिकपणे शोधतात त्यांना एके दिवशी आढळेल की जे ते शोधत होते ते कधी दूर नव्हते, आणि कधी एकटे नव्हते. त्यानंतर संन्यासी अनेक दिवस फार कमी बोलले, आणि जे त्यांना ओळखत त्यांनी सांगितले की त्यांचे डोळे अधिक मृदू झाले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The proud and the Vedas",
+    "hi": {
+     "text": "अभिमानी और वेद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गर्विष्ठ आणि वेद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the same season, a group of proud scholars came, eager to test the Guru’s knowledge. They spoke grandly, and each hoped to win the debate. Narasimha Saraswati answered quietly, and one by one they fell silent. They had expected an argument, and instead they found a depth they could not measure. The Guru’s words were few, and he spoke without any wish to defeat anyone, which made them harder to resist.\n\nThe Guru then spoke of the Vedas as a vast tree, whose roots, trunk and branches all belong to one living whole. Those who cling to a single leaf, he said, may miss the tree. The Siddha told Namdharak to remember it. Learning is a gift, but it is meant to soften the heart, and not to sharpen the tongue. Some of those scholars came back later, one by one, and sat at the back of the gathering to listen.",
+    "hi": {
+     "text": "उसी ऋतु में अभिमानी विद्वानों का एक दल आया, गुरु के ज्ञान की परीक्षा लेने को आतुर। वे बड़े ठाठ से बोले, और हर एक को आशा थी कि शास्त्रार्थ वही जीतेगा। नृसिंह सरस्वती ने शांति से उत्तर दिया, और एक-एक करके वे चुप होते गए। उन्होंने विवाद की अपेक्षा की थी, और उसकी जगह एक ऐसी गहराई पाई जिसे वे माप नहीं सकते थे। गुरु के शब्द थोड़े थे, और उन्होंने किसी को हराने की इच्छा के बिना कहे, इसी से उनका विरोध करना और कठिन हो गया।\n\nफिर गुरु ने वेदों के बारे में कहा कि वे एक विशाल वृक्ष जैसे हैं, जिसकी जड़ें, तना और शाखाएँ सब एक जीवित समग्र के अंग हैं। जो एक ही पत्ती से चिपके रहते हैं, उन्होंने कहा, वे वृक्ष को खो सकते हैं। सिद्ध ने नामधारक से इसे याद रखने को कहा। विद्या एक उपहार है, पर उसका उद्देश्य हृदय को कोमल करना है, जीभ को तीखा करना नहीं। उन विद्वानों में से कुछ बाद में एक-एक करके लौटे और सभा के पीछे बैठकर सुनते रहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याच ऋतूत गर्विष्ठ विद्वानांचा एक गट आला, गुरूंच्या ज्ञानाची परीक्षा घेण्यास उत्सुक. ते मोठ्या थाटात बोलले, आणि प्रत्येकाला आशा होती की वादविवाद तोच जिंकेल. नृसिंह सरस्वतींनी शांतपणे उत्तर दिले, आणि एकेक करून ते गप्प होत गेले. त्यांनी वादाची अपेक्षा केली होती, आणि त्याऐवजी त्यांना अशी खोली सापडली जी ते मोजू शकत नव्हते. गुरूंचे शब्द थोडे होते, आणि कोणाला हरवण्याच्या इच्छेविना ते बोलले, म्हणूनच त्यांना विरोध करणे अधिक कठीण झाले.\n\nमग गुरू वेदांविषयी म्हणाले की ते एका विशाल वृक्षासारखे आहेत, ज्याची मुळे, खोड आणि फांद्या सर्व एका जिवंत संपूर्णाचे भाग आहेत. जे एकाच पानाला चिकटून राहतात, ते म्हणाले, ते वृक्ष चुकवू शकतात. सिद्धांनी नामधारकाला हे लक्षात ठेवायला सांगितले. विद्या ही देणगी आहे, पण तिचा हेतू हृदय मृदू करणे हा आहे, जीभ तीक्ष्ण करणे नव्हे. त्या विद्वानांपैकी काही नंतर एकेक करून परतले आणि सभेच्या मागे बसून ऐकत राहिले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Where are you holding on to a small part of something and missing the whole? Look at one person today as though they too were part of something much larger.",
+  "hi": {
+   "text": "आप कहाँ किसी चीज़ के एक छोटे-से अंश को पकड़े बैठे हैं और पूर्ण को खो रहे हैं? आज किसी एक व्यक्ति को ऐसे देखिए मानो वह भी किसी कहीं बड़े का अंश हो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुठे तुम्ही एखाद्या गोष्टीचा एक छोटा भाग धरून बसला आहात आणि संपूर्ण चुकवत आहात? आज एका व्यक्तीकडे असे पाहा जणू तीही एखाद्या खूप मोठ्या गोष्टीचा भाग आहे.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Learning matters most when it makes the heart humble and the eyes wide.",
+  "hi": {
+   "text": "विद्या का सबसे अधिक मूल्य तब है जब वह हृदय को विनम्र और दृष्टि को विशाल बनाए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "विद्येचे सर्वाधिक मोल तेव्हा असते जेव्हा ती हृदय नम्र आणि दृष्टी विशाल करते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 24-26; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 24 से 26; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय २४ ते २६; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "reviewed": false
+  }
+ }
+}

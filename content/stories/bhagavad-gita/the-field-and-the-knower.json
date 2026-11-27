@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-field-and-the-knower",
+ "order": 13,
+ "part": "jnana",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Field and the Knower",
+  "hi": {
+   "text": "क्षेत्र और क्षेत्रज्ञ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "क्षेत्र आणि क्षेत्रज्ञ",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The body is a field, and the self is the one who knows it. Krishna shows how to tell them apart.",
+  "hi": {
+   "text": "शरीर एक क्षेत्र है, और आत्मा उसे जानने वाला। श्रीकृष्ण दोनों को अलग पहचानना सिखाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शरीर हे क्षेत्र आहे आणि आत्मा त्याला जाणणारा आहे. दोघांना वेगळे कसे ओळखावे, ते श्रीकृष्ण दाखवतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gita/2.webp",
+   "w": 1200,
+   "h": 731,
+   "caption": {
+    "en": "Krishna teaches the Gita to Arjuna (Kashmir miniature painting)",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन को गीता का उपदेश देते हैं (कश्मीरी लघुचित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला गीता सांगतात (काश्मिरी लघुचित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_preaching_Gita_Upadesh_to_Arjun_-_Unknown,_Kashmir_School_-_Google_Cultural_Institute.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The field and its knower",
+    "hi": {
+     "text": "क्षेत्र और उसे जानने वाला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "क्षेत्र आणि त्याचा जाणणारा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna offers a fresh way to look at life. The body, with its senses, mind and feelings, is like a field. The one who is aware of the field, who watches it and knows it, is the knower of the field. To understand the difference, he says, is true knowledge.\n\nHe then lists the qualities that help this understanding grow. They sound surprisingly ordinary: humility, honesty, not harming others, patience, simplicity, respect for teachers, cleanliness, steadiness and self-control. Many teachers point out that wisdom here is not a clever idea. It is a way of living that clears the mirror of the mind so that the self can be seen. In this way, the chapter gives us a calm place from which to look at our own lives, instead of being tossed about inside them.",
+    "hi": {
+     "text": "श्रीकृष्ण जीवन को देखने का एक नया ढंग देते हैं। इंद्रियों, मन और भावनाओं सहित यह शरीर एक क्षेत्र जैसा है। जो इस क्षेत्र के प्रति जागरूक है, जो इसे देखता और जानता है, वह क्षेत्र का ज्ञाता है। वे कहते हैं कि इस भेद को समझ लेना ही सच्चा ज्ञान है।\n\nफिर वे उन गुणों को गिनाते हैं जो इस समझ को बढ़ाते हैं। वे आश्चर्यजनक रूप से साधारण लगते हैं: विनम्रता, सच्चाई, किसी को कष्ट न देना, धैर्य, सरलता, गुरुजनों का आदर, पवित्रता, स्थिरता और संयम। बहुत से आचार्य बताते हैं कि यहाँ ज्ञान कोई चतुर विचार नहीं है। यह जीने का एक ढंग है जो मन के दर्पण को साफ़ करता है, ताकि आत्मा दिख सके। इस तरह यह अध्याय हमें अपने जीवन को देखने के लिए एक शांत जगह देता है, ताकि हम उसके भीतर थपेड़े न खाते रहें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण जीवनाकडे पाहण्याचा एक नवा मार्ग सांगतात. इंद्रिये, मन आणि भावना असलेले शरीर हे एखाद्या शेतासारखे आहे. त्या शेताची जाणीव असलेला, त्याला पाहणारा आणि जाणणारा तो क्षेत्रज्ञ. हा फरक समजणे हेच खरे ज्ञान, असे ते म्हणतात.\n\nमग ते हे समजणे वाढवणाऱ्या गुणांची यादी देतात. ती आश्चर्यकारकपणे साधी वाटतात: नम्रता, प्रामाणिकपणा, कोणालाही इजा न करणे, सहनशीलता, साधेपणा, गुरूंचा आदर, स्वच्छता, स्थिरता आणि आत्मसंयम. अनेक गुरू सांगतात की इथले शहाणपण म्हणजे एखादी हुशार कल्पना नाही. ती जगण्याची अशी रीत आहे जी मनाचा आरसा स्वच्छ करते, म्हणजे आत्मा दिसू शकतो. अशा प्रकारे हा अध्याय आपल्याला आपल्या आयुष्याकडे शांतपणे पाहण्याची जागा देतो, त्यात हेलकावे खात राहण्याऐवजी.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Seeing what stays",
+    "hi": {
+     "text": "जो टिकता है, उसे देखना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे टिकते ते पाहणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna explains that the self is not born and does not die. Nature does all the doing, while the self is the witness, though many teachers explain this in different ways. He compares it to the sky, which is everywhere and is not stained by anything in it. As one sun lights the whole world, the knower lights the whole field.\n\nHe closes with a quiet sentence about what real sight is. The one who sees the supreme Lord present equally in all beings, and not perishing when they perish, truly sees. Seeing the same presence everywhere, such a person does not harm themselves by harming others, and so moves towards the highest goal.",
+    "hi": {
+     "text": "श्रीकृष्ण बताते हैं कि आत्मा न जन्म लेती है, न मरती है। सारा कर्म प्रकृति करती है, और आत्मा साक्षी है, हालाँकि आचार्य इसे अलग-अलग ढंग से समझाते हैं। वे उसकी तुलना आकाश से करते हैं, जो सर्वत्र है और अपने भीतर की किसी भी चीज़ से मलिन नहीं होता। जैसे एक सूर्य पूरे संसार को प्रकाशित करता है, वैसे ही क्षेत्र का ज्ञाता पूरे क्षेत्र को प्रकाशित करता है।\n\nवे एक शांत वाक्य से इसे समेटते हैं कि सच्ची दृष्टि क्या है। जो सब प्राणियों में समान रूप से स्थित परमेश्वर को देखता है, और उनके नष्ट होने पर भी उसे नष्ट होता नहीं देखता, वही सचमुच देखता है। सर्वत्र उसी एक उपस्थिति को देखने वाला दूसरों को कष्ट देकर स्वयं को कष्ट नहीं देता, और इसलिए परम गति की ओर बढ़ता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण सांगतात की आत्मा जन्मत नाही आणि मरत नाही. सारे कर्म प्रकृती करते आणि आत्मा साक्षी असतो, जरी अनेक गुरू हे वेगवेगळ्या प्रकारे समजावतात. ते त्याची तुलना आकाशाशी करतात, जे सर्वत्र आहे आणि त्यातल्या कशानेही डागाळत नाही. जसा एकच सूर्य संपूर्ण जग उजळतो, तसा जाणणारा संपूर्ण क्षेत्र उजळतो.\n\nखरी दृष्टी कोणती याविषयी ते एका शांत वाक्याने शेवट करतात. जो सर्व प्राण्यांत समान वसलेल्या परमेश्वराला पाहतो, आणि ते नाश पावले तरी तो नाश पावत नाही हे जाणतो, तोच खरा पाहतो. सर्वत्र तीच उपस्थिती पाहणारा माणूस इतरांना इजा करून स्वतःला इजा करत नाही, आणि म्हणून परम गतीकडे जातो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Stepping back to watch",
+    "hi": {
+     "text": "पीछे हटकर देखना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मागे सरून पाहणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When you are anxious or angry, it is easy to feel you are your anxiety or your anger. This chapter suggests a small step back. Say to yourself, there is a feeling in the field, and there is the one who notices it. That tiny gap often brings relief and room to choose a wiser response.\n\nPair it with the humble qualities Krishna lists. Today, try one: listen without interrupting, or tell the plain truth kindly. When you catch a strong emotion, name it and breathe. You are not trying to get rid of it, only to see it from a calmer place. Over time this habit of gentle watching can make you less reactive and more kind, both to yourself and to others.",
+    "hi": {
+     "text": "जब आप चिंतित या क्रोधित होते हैं, तो यह महसूस करना सहज है कि आप ही अपनी चिंता या अपना क्रोध हैं। यह अध्याय एक छोटा कदम पीछे हटने को कहता है। अपने से कहिए: क्षेत्र में एक भावना है, और उसे देखने वाला भी कोई है। यह नन्हा-सा अंतर अक्सर राहत देता है और समझदारी भरा उत्तर चुनने का अवसर भी।\n\nइसे श्रीकृष्ण के गिनाए विनम्र गुणों के साथ जोड़िए। आज उनमें से एक आज़माइए: बिना टोके सुनिए, या सच बात को कोमलता से कहिए। जब कोई तीव्र भावना पकड़ ले, उसे नाम दीजिए और साँस लीजिए। आप उसे मिटाना नहीं चाहते, बस एक शांत स्थान से उसे देखना चाहते हैं। समय के साथ यह धीरे-धीरे देखने की आदत आपको कम प्रतिक्रियावादी और अधिक दयालु बना सकती है, अपने प्रति भी और दूसरों के प्रति भी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चिंता किंवा राग आला की आपण म्हणजेच ती चिंता किंवा तो राग आहोत असे वाटणे सोपे असते. हा अध्याय एक लहान पाऊल मागे घेण्यास सुचवतो. स्वतःला सांगा: क्षेत्रात एक भावना आहे, आणि तिला जाणणारा कोणीतरी आहे. हे लहानसे अंतर अनेकदा आराम देते आणि अधिक समंजस प्रतिसाद निवडण्यास जागा देते.\n\nत्याला श्रीकृष्णाने सांगितलेल्या नम्र गुणांची जोड द्या. आज एखादा आचरणात आणून पाहा: मध्येच न बोलता ऐका, किंवा साधे सत्य प्रेमाने सांगा. एखादी तीव्र भावना पकडली की तिला नाव द्या आणि श्वास घ्या. ती काढून टाकायची नाही, फक्त शांत जागेवरून पाहायची आहे. कालांतराने ही सौम्यपणे पाहण्याची सवय तुम्हाला कमी प्रतिक्रियाशील आणि अधिक दयाळू बनवू शकते, स्वतःशी आणि इतरांशीही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् । विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ॥",
+  "cite": {
+   "en": "Bhagavad Gita 13.27",
+   "hi": {
+    "text": "भगवद्गीता 13.27",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता १३.२७",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The one who really sees is the one who recognises the same supreme presence in every being, not lost when they are lost.",
+   "hi": {
+    "text": "वही सचमुच देखता है, जो सब प्राणियों में समान रूप से स्थित उस परम तत्त्व को पहचानता है, जो उनके नष्ट होने पर भी नष्ट नहीं होता।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जो सर्व प्राण्यांत समान वसलेल्या परमेश्वराला ओळखतो, जो ते नाश पावले तरी नाश पावत नाही, तोच खरा पाहणारा.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What feeling are you carrying right now? Name it, breathe, and picture yourself as the quiet watcher of it.",
+  "hi": {
+   "text": "इस समय आप कौन-सी भावना उठाए हुए हैं? उसे नाम दीजिए, साँस लीजिए, और खुद को उसका शांत साक्षी मानिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सध्या तुम्ही कोणती भावना वाहत आहात? तिला नाव द्या, श्वास घ्या, आणि तिचा शांत साक्षी म्हणून स्वतःची कल्पना करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "You are more than your passing moods, and knowing this brings calm.",
+  "hi": {
+   "text": "आप अपने क्षणिक मनोभावों से कहीं अधिक हैं, और यह जानना शांति देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही तुमच्या क्षणिक मनःस्थितींपेक्षा अधिक आहात, आणि हे जाणल्याने शांतता लाभते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 13 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 13 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय १३ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

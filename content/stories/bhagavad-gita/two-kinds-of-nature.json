@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "two-kinds-of-nature",
+ "order": 16,
+ "part": "jnana",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Two Kinds of Nature",
+  "hi": {
+   "text": "दो प्रकार का स्वभाव",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन प्रकारचे स्वभाव",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Fearlessness, kindness and truth lift us up; pride and anger pull us down. Krishna names the three gates to ruin.",
+  "hi": {
+   "text": "निर्भयता, दया और सत्य हमें ऊपर उठाते हैं; अभिमान और क्रोध नीचे खींचते हैं। श्रीकृष्ण विनाश के तीन द्वार बताते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निर्भयता, दया आणि सत्य आपल्याला वर उचलतात; गर्व आणि राग खाली ओढतात. श्रीकृष्ण विनाशाची तीन द्वारे सांगतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/bhagavad-gita/gita-2.webp",
+   "w": 960,
+   "h": 720,
+   "caption": {
+    "en": "Krishna and Arjuna on the chariot, a garden sculpture",
+    "hi": {
+     "text": "रथ पर श्रीकृष्ण और अर्जुन, एक उद्यान की मूर्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रथावर श्रीकृष्ण आणि अर्जुन, एका उद्यानातील शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "Yugaljoshi, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lord_Krishna_and_Arjuna.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Two ways of being",
+    "hi": {
+     "text": "होने के दो ढंग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जगण्याचे दोन मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna describes two kinds of tendencies among people. The first he calls divine. It includes fearlessness, a pure heart, generosity, self-control, truthfulness, gentleness, compassion, patience and freedom from hatred. These qualities, he says, lead towards freedom.\n\nThe second he calls demonic, and it is made up of pride, arrogance, anger, harshness and ignorance. People caught in it believe the world has no moral order and exists only for desire. They gather wealth by any means, boast of their plans and say they are the masters. Krishna reassures Arjuna that he was born with the good qualities and need not grieve. It is a hopeful picture, since the good qualities are named first and are described as ones any of us can develop with effort and time.",
+    "hi": {
+     "text": "श्रीकृष्ण मनुष्यों में दो प्रकार की प्रवृत्तियाँ बताते हैं। पहली को वे दैवी कहते हैं। उसमें निर्भयता, शुद्ध हृदय, उदारता, संयम, सत्य, कोमलता, करुणा, धैर्य और द्वेष का अभाव आते हैं। ये गुण, वे कहते हैं, मुक्ति की ओर ले जाते हैं।\n\nदूसरी को वे आसुरी कहते हैं, जो दंभ, अहंकार, क्रोध, कठोरता और अज्ञान से बनी है। इसमें फँसे लोग मानते हैं कि संसार में कोई नैतिक व्यवस्था नहीं है और वह केवल कामना के लिए है। वे किसी भी उपाय से धन जुटाते हैं, अपनी योजनाओं की डींग हाँकते हैं और कहते हैं कि वे ही स्वामी हैं। श्रीकृष्ण अर्जुन को आश्वस्त करते हैं कि वे अच्छे गुणों के साथ जन्मे हैं और उन्हें शोक करने की ज़रूरत नहीं। यह आशा भरा चित्र है, क्योंकि अच्छे गुण पहले बताए गए हैं और ऐसे बताए गए हैं जिन्हें हममें से कोई भी प्रयास और समय से विकसित कर सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण माणसांतील दोन प्रकारच्या प्रवृत्ती सांगतात. पहिलीला ते दैवी म्हणतात. तिच्यात निर्भयता, शुद्ध हृदय, उदारता, आत्मसंयम, सत्य, सौम्यता, करुणा, सहनशीलता आणि द्वेषमुक्ती यांचा समावेश आहे. हे गुण मुक्तीकडे नेतात, असे ते सांगतात.\n\nदुसरीला ते आसुरी म्हणतात, आणि ती गर्व, उद्धटपणा, राग, कठोरपणा आणि अज्ञान यांनी बनलेली आहे. त्यात अडकलेले लोक मानतात की जगाला कोणतीही नैतिक व्यवस्था नाही आणि ते फक्त वासनेसाठी आहे. ते कोणत्याही मार्गाने संपत्ती गोळा करतात, आपल्या योजनांचा अभिमान मिरवतात आणि आपण स्वामी आहोत असे सांगतात. श्रीकृष्ण अर्जुनाला धीर देतात की तू चांगल्या गुणांसह जन्मला आहेस, शोक करू नकोस. हे आशादायक चित्र आहे, कारण चांगले गुण आधी सांगितले आहेत, आणि प्रयत्न व वेळेने आपण कोणीही ते वाढवू शकतो असे ते मानतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Three gates",
+    "hi": {
+     "text": "तीन द्वार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन द्वारे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He warns of a place of deep suffering, with three gates: desire, anger and greed. These are the three that destroy the self, so each wise person should let them go. Those who leave these gates behind can walk towards their own highest good.\n\nIn closing, Krishna says that a person who ignores the guidance of the scriptures and acts only on impulse finds neither happiness nor freedom. The sacred texts are meant to help us tell what we should do from what we should not. Many teachers add that this is a call to examine ourselves, not to judge others, since both kinds of tendencies live in all of us. Self-examination of this kind is meant to lead to freedom, not guilt.",
+    "hi": {
+     "text": "वे गहरे दुख के एक स्थान की चेतावनी देते हैं, जिसके तीन द्वार हैं: काम, क्रोध और लोभ। ये तीनों आत्मा का नाश करने वाले हैं, इसलिए हर समझदार व्यक्ति को इन्हें छोड़ देना चाहिए। जो इन द्वारों को पीछे छोड़ देते हैं, वे अपने परम कल्याण की ओर चल सकते हैं।\n\nअंत में श्रीकृष्ण कहते हैं कि जो शास्त्रों के मार्गदर्शन की उपेक्षा करके केवल आवेग से कर्म करता है, उसे न सुख मिलता है, न मुक्ति। पवित्र ग्रंथ इसलिए हैं कि हम जान सकें क्या करना चाहिए और क्या नहीं। बहुत से आचार्य जोड़ते हैं कि यह स्वयं को परखने का आह्वान है, दूसरों को दोष देने का नहीं, क्योंकि दोनों प्रवृत्तियाँ हम सबमें रहती हैं। ऐसे आत्म-निरीक्षण का उद्देश्य मुक्ति है, ग्लानि नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते खोल दुःखाच्या स्थानाचा इशारा देतात, ज्याला तीन द्वारे आहेत: काम, क्रोध आणि लोभ. हे तिघे आत्म्याचा नाश करतात, म्हणून प्रत्येक शहाण्या माणसाने ते सोडावे. जे ही द्वारे मागे टाकतात ते आपल्या परम कल्याणाकडे चालू शकतात.\n\nशेवटी श्रीकृष्ण सांगतात की जो शास्त्राच्या मार्गदर्शनाकडे दुर्लक्ष करून केवळ आवेगाने वागतो त्याला सुख मिळत नाही आणि मुक्तीही नाही. काय करावे आणि काय करू नये हे ओळखण्यास पवित्र ग्रंथ आपल्याला मदत करण्यासाठी आहेत. अनेक गुरू सांगतात की ही स्वतःला तपासण्याची हाक आहे, इतरांना दोष देण्याची नव्हे, कारण दोन्ही प्रकारच्या प्रवृत्ती आपल्या सर्वांत असतात. अशी आत्मपरीक्षा मुक्तीकडे नेण्यासाठी आहे, अपराधीपणाकडे नव्हे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Checking your own gates",
+    "hi": {
+     "text": "अपने द्वारों की जाँच",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपली स्वतःची द्वारे तपासणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "It is easy to read this chapter as a list of other people’s faults. A better use is as a mirror. Which of the good qualities do I already have, and which could I water? And which of the three gates, desire, anger or greed, is my own weak spot?\n\nChoose one quality to grow today, such as truthfulness, gentleness or patience. When anger rises, pause for three breaths before speaking. When craving rises, wait ten minutes before acting. Small pauses at the gates make a big difference over weeks, and every day is a new chance to step the other way. Be kind to yourself in the process, because change comes by returning to the practice again and again, not by being perfect.",
+    "hi": {
+     "text": "इस अध्याय को दूसरों के दोषों की सूची की तरह पढ़ लेना आसान है। इसका बेहतर उपयोग दर्पण की तरह है। अच्छे गुणों में से कौन-से मुझमें पहले से हैं, और किन्हें मैं सींच सकता हूँ? और तीन द्वारों में से, काम, क्रोध या लोभ, कौन-सा मेरी अपनी कमज़ोरी है?\n\nआज एक गुण चुनिए जिसे बढ़ाना है, जैसे सत्य, कोमलता या धैर्य। जब क्रोध उठे, बोलने से पहले तीन साँसें रुकिए। जब लालसा उठे, कुछ करने से पहले दस मिनट प्रतीक्षा कीजिए। द्वारों पर छोटे ठहराव हफ़्तों में बड़ा अंतर लाते हैं, और हर दिन विपरीत दिशा में कदम रखने का नया अवसर है। इस प्रक्रिया में अपने प्रति दयालु रहिए, क्योंकि बदलाव पूर्ण होने से नहीं, बार-बार अभ्यास की ओर लौटने से आता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हा अध्याय इतरांच्या दोषांची यादी म्हणून वाचणे सोपे आहे. त्याचा अधिक चांगला उपयोग आरशासारखा आहे. यांपैकी कोणते चांगले गुण माझ्यात आधीच आहेत, आणि कोणत्यांना मी पाणी घालू शकतो? आणि काम, क्रोध किंवा लोभ, या तीन द्वारांपैकी कोणते माझा स्वतःचा कमजोर दुवा आहे?\n\nआज वाढवण्यासाठी एक गुण निवडा, जसे की सत्य, सौम्यता किंवा सहनशीलता. राग आला की बोलण्यापूर्वी तीन श्वास थांबा. ओढ वाटली की कृती करण्यापूर्वी दहा मिनिटे थांबा. द्वारांपाशी घेतलेले छोटे थांबे आठवड्यांनी मोठा फरक करतात, आणि प्रत्येक दिवस उलटी वाट धरण्याची नवी संधी असतो. या प्रवासात स्वतःशी दयाळू राहा, कारण बदल परिपूर्ण असण्याने नव्हे तर साधनेकडे पुन्हा पुन्हा परतण्याने येतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः । कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥",
+  "cite": {
+   "en": "Bhagavad Gita 16.21",
+   "hi": {
+    "text": "भगवद्गीता 16.21",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता १६.२१",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Desire, anger and greed are three doors to a dark place that ruins the self, so it is wise to leave them all behind.",
+   "hi": {
+    "text": "काम, क्रोध और लोभ, ये तीन आत्मा का नाश करने वाले नरक के द्वार हैं, इसलिए इन तीनों को त्याग देना ही समझदारी है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "काम, क्रोध आणि लोभ ही आत्म्याचा नाश करणाऱ्या अंधाऱ्या स्थानाची तीन द्वारे आहेत, म्हणून या तिघांना सोडून देणे शहाणपणाचे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Which gate is hardest for you: desire, anger or greed? Take three slow breaths the next time it knocks.",
+  "hi": {
+   "text": "आपके लिए कौन-सा द्वार सबसे कठिन है: काम, क्रोध या लोभ? अगली बार जब वह दस्तक दे, तीन धीमी साँसें लीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "काम, क्रोध आणि लोभ यांपैकी कोणते द्वार तुम्हाला सर्वांत कठीण आहे? पुढच्या वेळी ते ठोठावेल तेव्हा तीन संथ श्वास घ्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grow the good qualities within you, and guard the three gates with patience.",
+  "hi": {
+   "text": "अपने भीतर के अच्छे गुणों को बढ़ाइए, और तीनों द्वारों की धैर्य से रखवाली कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपल्यातील चांगले गुण वाढवा, आणि तीन द्वारांवर संयमाने पहारा ठेवा.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 16 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 16 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय १६ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

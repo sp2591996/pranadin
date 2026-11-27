@@ -1,0 +1,188 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "birth-of-dattatreya",
+ "order": 3,
+ "part": "jnana",
+ "figure": {
+  "en": "Atri, Anasuya and the three gods",
+  "hi": {
+   "text": "अत्रि, अनसूया और तीन देव",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अत्री, अनसूया आणि तीन देव",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Three Gods and One Mother",
+  "hi": {
+   "text": "तीन देव और एक माँ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तीन देव आणि एक माता",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The three greatest gods come to test one quiet woman, and become her babies. What is born from such a test?",
+  "hi": {
+   "text": "तीनों महान देव एक शांत स्त्री की परीक्षा लेने आते हैं और उसके शिशु बन जाते हैं। ऐसी परीक्षा से क्या जन्म लेता है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तिन्ही महान देव एका शांत स्त्रीची परीक्षा घ्यायला येतात आणि तिची बाळे होतात. अशा परीक्षेतून काय जन्माला येते?",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/datta/2.webp",
+   "w": 1200,
+   "h": 1086,
+   "caption": {
+    "en": "Anasuya feeds the three gods as infants (temple wall painting, Porbandar)",
+    "hi": {
+     "text": "त्रिदेवों को शिशु रूप में भोजन कराती अनसूया (मंदिर का भित्ति चित्र, पोरबंदर)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्रिदेवांना बाळरूपात भरवणारी अनसूया (मंदिरातील भित्तिचित्र, पोरबंदर)",
+     "reviewed": false
+    }
+   },
+   "credit": "Wmpearl, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Anasuya_feeding_the_Hindu_Trinity,_The_Krishna-Sudama_Temple_of_Porbandar,_India_(cropped).JPG"
+  },
+  {
+   "src": "/stories/gurucharitra/gc-3.webp",
+   "w": 776,
+   "h": 1100,
+   "caption": {
+    "en": "The birth of Shri Datta (Ravi Varma Press print by Anant Shivaji Desai)",
+    "hi": {
+     "text": "श्री दत्त का जन्म (अनंत शिवाजी देसाई, रवि वर्मा प्रेस चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री दत्तजन्म (अनंत शिवाजी देसाई, रवि वर्मा प्रेस चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anant Shivaji Desai, Raja Ravi Varma Press, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shri_Datt_Janam.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The woman whose goodness was famous",
+    "hi": {
+     "text": "वह स्त्री जिसकी भलाई प्रसिद्ध थी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जिचे चांगुलपण प्रसिद्ध होते अशी स्त्री",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha now told Namdharak how the line of gurus began. In the forest hermitage of the sage Atri lived his wife Anasuya, whose purity, patience and kindness were spoken of in every world. She served guests, cared for her husband and bore no envy toward anyone. She asked for no praise and no reward, and she never compared herself with any other woman in any world.\n\nThe goddesses Lakshmi, Parvati and Saraswati heard her praise and felt a pang of jealousy. They asked their husbands, Vishnu, Shiva and Brahma, to test whether she was truly so remarkable. The three gods agreed, and set off for the forest, curious and a little mischievous. Her simple days of service had made her heart as clear and still as a quiet forest pool in the morning.",
+    "hi": {
+     "text": "सिद्ध ने अब नामधारक को बताया कि गुरु-परंपरा कैसे आरंभ हुई। ऋषि अत्रि के वन-आश्रम में उनकी पत्नी अनसूया रहती थीं, जिनकी पवित्रता, धैर्य और दया की चर्चा हर लोक में होती थी। वे अतिथियों की सेवा करतीं, पति की देखभाल करतीं और किसी से ईर्ष्या न रखतीं। वे न प्रशंसा चाहती थीं, न पुरस्कार, और किसी लोक की किसी भी स्त्री से अपनी तुलना कभी न करती थीं।\n\nदेवियों लक्ष्मी, पार्वती और सरस्वती ने उनकी स्तुति सुनी और मन में ईर्ष्या की चुभन अनुभव की। उन्होंने अपने पतियों, विष्णु, शिव और ब्रह्मा, से कहा कि परखें कि वे सचमुच इतनी अद्भुत हैं या नहीं। तीनों देव मान गए और जिज्ञासा तथा थोड़ी शरारत के साथ वन की ओर चल पड़े। सेवा से भरे सीधे-सादे दिनों ने अनसूया के हृदय को प्रातःकाल के शांत वन-सरोवर जैसा निर्मल और स्थिर बना दिया था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी आता नामधारकाला सांगितले की गुरुपरंपरा कशी सुरू झाली. अत्री ऋषींच्या वनातील आश्रमात त्यांची पत्नी अनसूया राहत होती, जिची पवित्रता, सहनशीलता आणि दया यांची चर्चा प्रत्येक लोकात चाले. ती पाहुण्यांची सेवा करी, पतीची काळजी घेई आणि कोणाचाही हेवा करीत नसे. तिला ना स्तुती हवी होती, ना बक्षीस, आणि कोणत्याही लोकातील कोणत्याही स्त्रीशी तिने स्वतःची कधी तुलना केली नाही.\n\nलक्ष्मी, पार्वती आणि सरस्वती या देवींनी तिची स्तुती ऐकली आणि त्यांना मत्सराची टोचणी लागली. त्यांनी आपल्या पतींना, विष्णू, शंकर आणि ब्रह्मदेव यांना, ती खरोखर इतकी थोर आहे का हे पारखून पाहायला सांगितले. तिन्ही देव तयार झाले आणि कुतूहलाने आणि थोड्या खट्याळपणाने वनाकडे निघाले. सेवेने भरलेल्या साध्या दिवसांनी अनसूयेचे हृदय सकाळच्या शांत वनतळ्यासारखे निर्मळ आणि स्थिर केले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The strange request",
+    "hi": {
+     "text": "अजीब-सी माँग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विचित्र मागणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The gods came to Anasuya’s door disguised as hungry ascetics. She welcomed them and offered food, as she did for every visitor. Then they made a strange condition, one meant to put her goodness in a corner: they would accept her food only on terms that no gracious host could grant. Her husband’s blessing, given over years of shared devotion, was the only shield she carried that day.\n\nAnasuya paused and prayed. She did not feel anger or fear, only that these guests were hungry and must not leave unfed. With a calm heart she sprinkled water blessed by her husband’s teachings, and the three guests turned into three newborn babies, crying for milk. She lifted them lovingly and fed them as a mother would. It is said the babies looked up at her and smiled, as though they had known her for a long time.",
+    "hi": {
+     "text": "देव भूखे संन्यासियों का वेश धरकर अनसूया के द्वार पर आए। उन्होंने उनका स्वागत किया और भोजन परोसना चाहा, जैसा वे हर आगंतुक के लिए करती थीं। तब उन्होंने एक विचित्र शर्त रखी, जो उनकी भलाई को कठिनाई में डालने के लिए थी: वे उनका भोजन केवल ऐसी शर्त पर लेंगे जिसे कोई सुशील गृहिणी पूरा नहीं कर सकती। उस दिन उनके पास एकमात्र ढाल थी पति का आशीर्वाद, जो वर्षों की साझी भक्ति से मिला था।\n\nअनसूया ने क्षण भर रुककर प्रार्थना की। उनके मन में न क्रोध था, न भय, बस यह भाव कि ये अतिथि भूखे हैं और भूखे नहीं लौटने चाहिए। शांत हृदय से उन्होंने पति की शिक्षा से अभिमंत्रित जल छिड़का, और तीनों अतिथि तीन नवजात शिशु बन गए, जो दूध के लिए रो रहे थे। उन्होंने प्रेम से उन्हें गोद में उठाया और माँ की तरह दूध पिलाया। कहते हैं कि शिशुओं ने उनकी ओर देखा और मुस्कुराए, मानो उन्हें बहुत समय से जानते हों।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देव भुकेल्या संन्याशांच्या वेषात अनसूयेच्या दारी आले. तिने त्यांचे स्वागत केले आणि अन्न वाढायला घेतले, जसे ती प्रत्येक पाहुण्यासाठी करी. तेव्हा त्यांनी एक विचित्र अट घातली, तिचे चांगुलपण कोंडीत पकडण्यासाठी: कोणतीही सुशील गृहिणी जी अट पूर्ण करू शकणार नाही, त्याच अटीवर ते तिचे अन्न घेतील. त्या दिवशी तिच्याकडे एकच ढाल होती, ती म्हणजे पतीचा आशीर्वाद, जो वर्षानुवर्षांच्या सामायिक भक्तीतून मिळाला होता.\n\nअनसूया क्षणभर थांबली आणि तिने प्रार्थना केली. तिला राग वाटला नाही, भीती वाटली नाही, फक्त हे पाहुणे भुकेले आहेत आणि त्यांना उपाशी जाऊ देता कामा नये असे वाटले. शांत मनाने तिने पतीच्या शिकवणीने पवित्र झालेले पाणी शिंपडले, आणि तिन्ही पाहुणे तीन नवजात बाळे झाले, दुधासाठी रडणारी. तिने प्रेमाने त्यांना उचलले आणि आईप्रमाणे दूध पाजले. सांगतात की बाळांनी तिच्याकडे पाहिले आणि हसली, जणू ती त्यांना खूप पूर्वीपासून ओळखत होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The three-in-one is born",
+    "hi": {
+     "text": "तीन में एक का जन्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिघांमध्ये एकाचा जन्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When Atri returned, he saw with his inner sight what had happened and bowed to the babies. Meanwhile the three goddesses, frightened for their husbands, came to the hermitage and begged forgiveness. Anasuya, who held no resentment, returned the three gods to their forms. Their wives, who had come in worry, left in wonder, and the quarrel of jealousy dissolved into quiet respect.\n\nPleased, the gods offered her a boon. She asked that they be born as her own children. From their blessing came Dattatreya, in whom the three are one: creator, protector and dissolver, a teacher for all who seek. The Gurucharitra tells that he wandered the world as a guru, and later gurus of this line are loved as his appearances. Atri and Anasuya raised the child with love, and the boy grew up wandering, learning from everything he met.",
+    "hi": {
+     "text": "जब अत्रि लौटे, तो उन्होंने अपनी अंतर्दृष्टि से सब जान लिया और शिशुओं को प्रणाम किया। उधर तीनों देवियाँ अपने पतियों के लिए भयभीत होकर आश्रम आईं और क्षमा की याचना की। अनसूया ने, जिनके मन में कोई द्वेष नहीं था, तीनों देवों को उनके रूप लौटा दिए। देवियाँ चिंता लेकर आई थीं और विस्मय लेकर लौटीं, और ईर्ष्या का झगड़ा शांत आदर में बदल गया।\n\nप्रसन्न होकर देवों ने उन्हें वर माँगने को कहा। उन्होंने माँगा कि वे उनके अपने पुत्र बनकर जन्म लें। उनके आशीर्वाद से दत्तात्रेय प्रकट हुए, जिनमें तीनों एक हैं: सृजन, पालन और संहार करने वाले, और खोजने वाले हर साधक के गुरु। गुरुचरित्र बताता है कि वे गुरु बनकर संसार में विचरे, और इस परंपरा के आगे के गुरु उन्हीं के अवतार मानकर पूजे जाते हैं। अत्रि और अनसूया ने बालक को प्रेम से पाला, और वह बड़ा होकर घूमता रहा और जो कुछ मिला उसी से सीखता रहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अत्री परत आले, तेव्हा त्यांनी अंतर्दृष्टीने सारे जाणले आणि बाळांना नमस्कार केला. इकडे तिन्ही देवी आपल्या पतींसाठी घाबरून आश्रमात आल्या आणि क्षमा मागू लागल्या. अनसूयेने, जिच्या मनात कोणताही आकस नव्हता, तिन्ही देवांना त्यांचे रूप परत दिले. देवी काळजी घेऊन आल्या होत्या आणि आश्चर्य घेऊन परतल्या, आणि मत्सराचे भांडण शांत आदरात विरघळले.\n\nप्रसन्न होऊन देवांनी तिला वर मागायला सांगितले. तिने मागितले की त्यांनी तिची स्वतःची मुले होऊन जन्म घ्यावा. त्यांच्या आशीर्वादातून दत्तात्रेय प्रकटले, ज्यांच्यात तिघे एक आहेत: निर्माण करणारे, पालन करणारे आणि लय करणारे, आणि शोध घेणाऱ्या प्रत्येकाचे गुरू. गुरुचरित्र सांगते की ते गुरू होऊन जगात फिरले, आणि या परंपरेतील पुढील गुरू त्यांचेच अवतार म्हणून प्रिय आहेत. अत्री आणि अनसूयेने त्या बालकाला प्रेमाने वाढवले, आणि तो भटकत मोठा झाला, जे जे भेटले त्यातून शिकत.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "reflect": {
+  "en": "When did you last treat an unexpected visitor, or an unexpected task, as a gift? Try meeting one such moment today with patience and warmth.",
+  "hi": {
+   "text": "आपने कब अनचाहे अतिथि या अनचाहे काम को उपहार की तरह स्वीकारा था? आज ऐसे किसी एक क्षण का सामना धैर्य और अपनेपन से करके देखिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अनपेक्षित पाहुणा किंवा अनपेक्षित काम तुम्ही शेवटचे कधी देणगीसारखे स्वीकारले होते? आज असा एखादा क्षण संयमाने आणि आपुलकीने सामोरा करून पाहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A heart without envy is strong enough to turn even a test into a blessing.",
+  "hi": {
+   "text": "ईर्ष्या से मुक्त हृदय इतना सशक्त होता है कि परीक्षा को भी वरदान बना दे।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्सराविना असलेले हृदय इतके बलवान असते की परीक्षेलाही वरदान करून टाकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 4; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 4; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय ४; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "reviewed": false
+  }
+ }
+}

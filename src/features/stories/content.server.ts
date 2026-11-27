@@ -42,7 +42,7 @@ export interface StoryView {
   teaser: Txt;
   images: StoryImage[];
   scenes: { title: Txt; text: Txt; image?: number }[];
-  verse?: { text: string; cite: Txt; meaning: Txt };
+  verse?: { text: string; lang: string; cite: Txt; meaning: Txt };
   reflect?: Txt;
   lesson: Txt;
   source: Txt;
@@ -156,6 +156,7 @@ export function loadClubs(locale: Locale): ClubView[] {
         verse: s.verse
           ? {
               text: s.verse.text,
+              lang: s.verse.lang,
               cite: t(s.verse.cite),
               meaning: t(s.verse.meaning),
             }

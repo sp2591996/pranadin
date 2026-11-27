@@ -425,7 +425,7 @@ export function ChapterPage({
             <Icon name="Quotes" size={18} />
             {s("stories.verse")}
           </h2>
-          <p lang="sa" className="mt-3 whitespace-pre-line font-deva text-[1.375rem] leading-relaxed text-[#FBE7C0] sm:text-[1.625rem]">
+          <p lang={st.verse.lang} className="mt-3 whitespace-pre-line font-deva text-[1.375rem] leading-relaxed text-[#FBE7C0] sm:text-[1.625rem]">
             {st.verse.text}
           </p>
           <p className="mt-3 max-w-2xl text-[1.125rem] text-white">

@@ -190,7 +190,15 @@ export const storySchema = z.object({
     .array(z.object({ title: localizedText, text: localizedText, image: z.number().int().min(0).optional() }))
     .min(3),
   /** A verse in the original language (not translated), with where it is from and its meaning. */
-  verse: z.object({ text: z.string().min(1), cite: localizedText, meaning: localizedText }).optional(),
+  verse: z
+    .object({
+      text: z.string().min(1),
+      /** Language of the original text (BCP 47): Sanskrit by default, Marathi for ovis. */
+      lang: z.enum(["sa", "mr", "hi", "awa"]).default("sa"),
+      cite: localizedText,
+      meaning: localizedText,
+    })
+    .optional(),
   /** "Pause and reflect": a short question or practice for the reader. */
   reflect: localizedText.optional(),
   lesson: localizedText,

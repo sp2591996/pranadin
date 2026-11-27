@@ -1,0 +1,169 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "washerman-who-became-king",
+ "order": 6,
+ "part": "jnana",
+ "figure": {
+  "en": "Shripad Shrivallabha and a humble washerman",
+  "hi": {
+   "text": "श्रीपाद श्रीवल्लभ और एक साधारण धोबी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीपाद श्रीवल्लभ आणि एक साधा परीट",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Washerman’s Wish",
+  "hi": {
+   "text": "धोबी की इच्छा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "परिटाची इच्छा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A man who washes clothes by the river watches a king ride past and wonders. The Guru hears the wonder.",
+  "hi": {
+   "text": "नदी किनारे कपड़े धोने वाला एक मनुष्य एक राजा को गुज़रते देखता है और सोचता है। गुरु उस सोच को सुन लेते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नदीकाठी कपडे धुणारा एक माणूस एका राजाला जाताना पाहतो आणि विचार करतो. गुरू तो विचार ऐकतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/gc-5.webp",
+   "w": 764,
+   "h": 1100,
+   "caption": {
+    "en": "Pithapuram, birthplace of Shripad Shrivallabha",
+    "hi": {
+     "text": "पीठापुरम, श्रीपाद श्रीवल्लभ की जन्मभूमि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पीठापूर, श्रीपाद श्रीवल्लभांचे जन्मस्थान",
+     "reviewed": false
+    }
+   },
+   "credit": "Adityamadhav83, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pithapuram_Montage.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A mother and her slow son",
+    "hi": {
+     "text": "एक माँ और उसका धीमा पुत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक आई आणि तिचा मंद मुलगा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha told of days when Shripad Shrivallabha walked among ordinary families. One brahmin woman came to him in worry for her son, who learned slowly and was teased for it. She feared for his future, and she poured her heart out at the Guru’s feet. She had been to many teachers before, and each had told her to be patient, but nobody had actually sat with her.\n\nShripad listened tenderly. He told her that no child is a lost cause, and he gave the boy his blessing and a share of his calm. The Gurucharitra tells that the family found peace, and the mother went home lighter. The Siddha told Namdharak that the Guru’s first gift is often just to listen without judging. The boy, who had been braced for scolding, looked up at the Guru and smiled shyly, as if a fear had lifted.",
+    "hi": {
+     "text": "सिद्ध ने उन दिनों की बात की जब श्रीपाद श्रीवल्लभ साधारण परिवारों के बीच चलते थे। एक ब्राह्मण स्त्री अपने पुत्र की चिंता लेकर उनके पास आई, जो धीरे सीखता था और जिसका इसके लिए उपहास होता था। उसे उसके भविष्य का भय था, और उसने गुरु के चरणों में अपना हृदय उँडेल दिया। वह पहले अनेक गुरुओं के पास जा चुकी थी, और हर किसी ने धैर्य रखने को कहा था, पर किसी ने सचमुच उसके साथ बैठकर बात नहीं की थी।\n\nश्रीपाद ने कोमलता से सुना। उन्होंने उससे कहा कि कोई बालक हारा हुआ नहीं होता, और उन्होंने बालक को आशीर्वाद दिया और अपनी शांति का एक अंश भी। गुरुचरित्र बताता है कि परिवार को शांति मिली, और माँ हल्की होकर घर लौटी। सिद्ध ने नामधारक से कहा कि गुरु का पहला उपहार अक्सर बस बिना परखे सुनना होता है। बालक, जो डाँट के लिए तैयार खड़ा था, गुरु की ओर देखकर शरमाकर मुस्कुराया, मानो कोई भय उतर गया हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी त्या दिवसांची गोष्ट सांगितली जेव्हा श्रीपाद श्रीवल्लभ सामान्य कुटुंबांमध्ये फिरत. एक ब्राह्मण स्त्री आपल्या मुलाच्या काळजीने त्यांच्याकडे आली, जो हळू शिकत असे आणि त्यामुळे त्याची टिंगल होई. तिला त्याच्या भविष्याची भीती वाटत होती, आणि तिने गुरूंच्या चरणी आपले हृदय ओतले. ती याआधी अनेक गुरूंकडे गेली होती, आणि प्रत्येकाने तिला धीर धर म्हटले होते, पण कोणीही खरोखर तिच्याबरोबर बसले नव्हते.\n\nश्रीपादांनी मायेने ऐकले. त्यांनी तिला सांगितले की कोणतेही मूल वाया गेलेले नसते, आणि त्यांनी मुलाला आशीर्वाद दिला आणि आपल्या शांततेचा एक वाटा दिला. गुरुचरित्र सांगते की कुटुंबाला शांती लाभली, आणि आई हलकी होऊन घरी गेली. सिद्धांनी नामधारकाला सांगितले की गुरूंची पहिली देणगी अनेकदा फक्त दोष न देता ऐकणे असते. मुलगा, जो रागावण्याला सज्ज होऊन उभा होता, गुरूंकडे पाहून लाजून हसला, जणू एखादी भीती उतरली होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The man at the riverbank",
+    "hi": {
+     "text": "नदी किनारे का मनुष्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीकाठचा माणूस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the riverbank worked a washerman, a man of humble standing in a society that placed him low. He washed clothes all day, and in the evenings he served the Guru with devotion, bringing water, sweeping the ground and asking nothing. In that world of rank and birth, this was simply love, offered without calculation. His hands were rough from the river, and his clothes were always damp, yet no one at the Guru’s side was gladder or more faithful.\n\nOne day the washerman saw a royal procession pass, with elephants, banners and a king in splendour. A small wish rose in his heart, and he did not hide it. Shripad, who sees what hearts hold, called him close and asked gently what was on his mind. The washerman admitted the wish, a little ashamed. He wished only to know, for one day, what it might feel like to be looked at with respect by the whole world.",
+    "hi": {
+     "text": "नदी के तट पर एक धोबी काम करता था, ऐसे समाज में साधारण हैसियत का मनुष्य जिसने उसे नीचा स्थान दिया था। वह दिन भर कपड़े धोता, और संध्या को भक्ति से गुरु की सेवा करता, पानी लाता, भूमि बुहारता और कुछ न माँगता। पद और जन्म के उस संसार में यह केवल प्रेम था, बिना हिसाब के अर्पित। उसके हाथ नदी से खुरदरे हो गए थे, और उसके कपड़े सदा गीले रहते, फिर भी गुरु के पास कोई उससे अधिक प्रसन्न या निष्ठावान न था।\n\nएक दिन धोबी ने एक राजसी जुलूस गुज़रते देखा, हाथियों, ध्वजाओं और वैभव में सजे एक राजा के साथ। उसके हृदय में एक छोटी-सी इच्छा उठी, और उसने उसे छिपाया नहीं। श्रीपाद ने, जो हृदयों में बसा देख लेते हैं, उसे पास बुलाया और कोमलता से पूछा कि मन में क्या है। धोबी ने इच्छा स्वीकार की, थोड़ा लज्जित होकर। वह बस इतना जानना चाहता था कि एक दिन के लिए सारे संसार की आदरभरी दृष्टि का केंद्र होना कैसा लगता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीच्या काठावर एक परीट काम करीत असे, अशा समाजात साधा माणूस ज्याने त्याला खालचे स्थान दिले होते. तो दिवसभर कपडे धुवी, आणि संध्याकाळी भक्तीने गुरूंची सेवा करी, पाणी आणी, जमीन झाडी आणि काही मागत नसे. पद आणि जन्माच्या त्या जगात हे केवळ प्रेम होते, हिशोबाविना अर्पण केलेले. त्याचे हात नदीमुळे खरखरीत झाले होते, आणि त्याचे कपडे सदा ओले असत, तरीही गुरूंच्या शेजारी त्याच्यापेक्षा आनंदी किंवा निष्ठावान कोणी नव्हते.\n\nएके दिवशी परिटाने एक राजेशाही मिरवणूक जाताना पाहिली, हत्ती, पताका आणि वैभवात सजलेल्या राजासह. त्याच्या हृदयात एक छोटी इच्छा उठली, आणि त्याने ती लपवली नाही. श्रीपादांनी, जे हृदयात वसणारे पाहतात, त्याला जवळ बोलावले आणि हळुवारपणे विचारले की मनात काय आहे. परिटाने इच्छा कबूल केली, थोडा लाजून. त्याला फक्त हे जाणून घ्यायचे होते की एका दिवसासाठी सर्व जगाने आदराने पाहणे कसे वाटते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Grace without borders",
+    "hi": {
+     "text": "सीमाओं से परे कृपा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीमा नसलेली कृपा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Gurucharitra tells that Shripad blessed him: in a later life, the washerman would be born as a king. And so it was said that he took birth in a royal house in a kingdom ruled by Muslim kings, and ruled in his turn. It is told as grace, not as any change of faith or a bargain, because grace does not stop at the borders of caste, rank or religion. There is no mention of the Guru asking him to change his faith, his work or his ways to earn this blessing.\n\nThe Siddha said that the tale holds two quiet lessons. A servant’s love is never wasted, and even a wish voiced honestly is heard. Namdharak noticed, too, that nobody in the story was too low for the Guru’s attention, which is why so many people loved him. Namdharak reflected that a person’s true worth is seen first by those who look with love, and only later by the world.",
+    "hi": {
+     "text": "गुरुचरित्र बताता है कि श्रीपाद ने उसे आशीर्वाद दिया: अगले जन्म में धोबी राजा बनकर जन्म लेगा। और कहा जाता है कि उसने मुस्लिम राजाओं द्वारा शासित एक राज्य के राजघराने में जन्म लिया, और अपनी बारी में राज किया। यह कृपा के रूप में कहा गया है, किसी धर्म-परिवर्तन या सौदे के रूप में नहीं, क्योंकि कृपा जाति, पद या धर्म की सीमाओं पर नहीं रुकती। कहीं यह उल्लेख नहीं कि गुरु ने इस आशीर्वाद के लिए उससे अपनी आस्था, अपना काम या अपने ढंग बदलने को कहा।\n\nसिद्ध ने कहा कि कथा में दो शांत सीखें हैं। सेवक का प्रेम कभी व्यर्थ नहीं जाता, और ईमानदारी से कही गई इच्छा भी सुनी जाती है। नामधारक ने यह भी देखा कि कथा में कोई इतना छोटा नहीं था कि गुरु का ध्यान उस पर न जाए, इसीलिए इतने लोग उन्हें चाहते थे। नामधारक ने सोचा कि मनुष्य का सच्चा मूल्य पहले उन्हें दिखता है जो प्रेम से देखते हैं, और संसार को बाद में।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरुचरित्र सांगते की श्रीपादांनी त्याला आशीर्वाद दिला: पुढच्या जन्मी परीट राजा होऊन जन्म घेईल. आणि सांगतात की त्याने मुस्लिम राजांच्या सत्तेखालील एका राज्यात राजघराण्यात जन्म घेतला, आणि आपल्या पाळीला राज्य केले. हे कृपा म्हणून सांगितले जाते, धर्मांतर किंवा सौदा म्हणून नव्हे, कारण कृपा जात, पद किंवा धर्म यांच्या सीमेवर थांबत नाही. या आशीर्वादासाठी गुरूंनी त्याला आपली श्रद्धा, आपले काम किंवा आपल्या पद्धती बदलायला सांगितल्याचा उल्लेख कुठेही नाही.\n\nसिद्ध म्हणाले की कथेत दोन शांत धडे आहेत. सेवकाचे प्रेम कधी वाया जात नाही, आणि प्रामाणिकपणे बोललेली इच्छाही ऐकली जाते. नामधारकाच्या हेही लक्षात आले की कथेत कोणीच इतका खालचा नव्हता की गुरूंचे लक्ष त्याच्यावर जाणार नाही, म्हणूनच इतके लोक त्यांच्यावर प्रेम करीत. नामधारकाने विचार केला की माणसाचे खरे मोल प्रथम प्रेमाने पाहणाऱ्यांना दिसते, आणि जगाला नंतर.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "What is one quiet wish you have never said aloud? Offer it in prayer today, and add a request that it may serve others too.",
+  "hi": {
+   "text": "आपकी कोई एक चुप-सी इच्छा क्या है जो आपने कभी ज़ोर से नहीं कही? आज उसे प्रार्थना में रखिए, और यह भी माँगिए कि वह औरों के भी काम आए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमची अशी एखादी शांत इच्छा कोणती जी तुम्ही कधी मोठ्याने बोलला नाही? आज ती प्रार्थनेत ठेवा, आणि ती इतरांच्याही उपयोगी पडावी अशीही मागणी करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grace looks at a person’s love, not their birth, rank or faith.",
+  "hi": {
+   "text": "कृपा मनुष्य के प्रेम को देखती है, उसके जन्म, पद या आस्था को नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कृपा माणसाचे प्रेम पाहते, त्याचा जन्म, पद किंवा श्रद्धा नव्हे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 8-9; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 8 और 9; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय ८ व ९; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "reviewed": false
+  }
+ }
+}

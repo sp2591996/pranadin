@@ -371,8 +371,178 @@
    ]
   },
   {
-   "id": "ganesha",
+   "id": "bhagavad-gita",
    "order": 3,
+   "tradition": "hindu",
+   "region": "india",
+   "title": {
+    "en": "Bhagavad Gita",
+    "hi": {
+     "text": "भगवद्गीता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भगवद्गीता",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "Krishna's song, chapter by chapter",
+    "hi": {
+     "text": "श्रीकृष्ण का गीत, अध्याय दर अध्याय",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाचे गीत, अध्यायागणिक",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "All 18 chapters of the Gita, each summarised in a few minutes' reading, with one verse in Sanskrit and a small practice for today.",
+    "hi": {
+     "text": "गीता के सभी 18 अध्याय, हर एक कुछ मिनटों में पढ़ने लायक सार में, एक संस्कृत श्लोक और आज के लिए एक छोटे अभ्यास के साथ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गीतेचे सर्व 18 अध्याय, प्रत्येक काही मिनिटांत वाचता येईल अशा सारांशात, एका संस्कृत श्लोकासह आणि आजच्या एका छोट्या सरावासह.",
+     "reviewed": false
+    }
+   },
+   "cover": "the-undying-self",
+   "growing": false,
+   "parts": [
+    {
+     "id": "karma",
+     "title": {
+      "en": "Chapters 1–6 · The path of action",
+      "hi": {
+       "text": "अध्याय 1–6 · कर्म का मार्ग",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "अध्याय 1–6 · कर्माचा मार्ग",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "bhakti",
+     "title": {
+      "en": "Chapters 7–12 · The path of devotion",
+      "hi": {
+       "text": "अध्याय 7–12 · भक्ति का मार्ग",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "अध्याय 7–12 · भक्तीचा मार्ग",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "jnana",
+     "title": {
+      "en": "Chapters 13–18 · The path of knowledge",
+      "hi": {
+       "text": "अध्याय 13–18 · ज्ञान का मार्ग",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "अध्याय 13–18 · ज्ञानाचा मार्ग",
+       "reviewed": false
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "dnyaneshwari",
+   "order": 4,
+   "tradition": "hindu",
+   "region": "maharashtra",
+   "title": {
+    "en": "Dnyaneshwari",
+    "hi": {
+     "text": "ज्ञानेश्वरी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानेश्वरी",
+     "reviewed": false
+    }
+   },
+   "subtitle": {
+    "en": "The Gita in the people's language",
+    "hi": {
+     "text": "जनता की भाषा में गीता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लोकभाषेतील गीता",
+     "reviewed": false
+    }
+   },
+   "intro": {
+    "en": "How a teenage saint at Nevasa sang the Gita in Marathi, and the best-loved images of his Dnyaneshwari, ending with the Pasayadan, his prayer for the whole world.",
+    "hi": {
+     "text": "नेवासा में एक किशोर संत ने गीता को मराठी में कैसे गाया, और उनकी ज्ञानेश्वरी के सबसे प्रिय चित्र, जो पूरे विश्व के लिए उनकी प्रार्थना पसायदान पर समाप्त होते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नेवाशात एका किशोरवयीन संतांनी गीता मराठीत कशी गायली, आणि त्यांच्या ज्ञानेश्वरीतील सर्वांत प्रिय प्रतिमा, ज्यांचा शेवट संपूर्ण विश्वासाठीच्या पसायदानाने होतो.",
+     "reviewed": false
+    }
+   },
+   "cover": "the-pillar-at-nevasa",
+   "growing": false,
+   "parts": [
+    {
+     "id": "story",
+     "title": {
+      "en": "How it was written",
+      "hi": {
+       "text": "कैसे लिखी गई",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "कशी लिहिली गेली",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "teaching",
+     "title": {
+      "en": "The Gita in Marathi",
+      "hi": {
+       "text": "मराठी में गीता",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "मराठीतील गीता",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "blessing",
+     "title": {
+      "en": "The final blessing",
+      "hi": {
+       "text": "अंतिम आशीर्वाद",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "अंतिम आशीर्वाद",
+       "reviewed": false
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "ganesha",
+   "order": 5,
    "tradition": "hindu",
    "region": "india",
    "title": {
@@ -413,7 +583,7 @@
   },
   {
    "id": "gurucharitra",
-   "order": 4,
+   "order": 6,
    "tradition": "hindu",
    "region": "maharashtra",
    "title": {
@@ -449,12 +619,56 @@
      "reviewed": false
     }
    },
-   "growing": true,
-   "parts": []
+   "cover": "birth-of-dattatreya",
+   "growing": false,
+   "parts": [
+    {
+     "id": "jnana",
+     "title": {
+      "en": "Jnana kanda · Knowledge",
+      "hi": {
+       "text": "ज्ञान कांड",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "ज्ञानकांड",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "karma",
+     "title": {
+      "en": "Karma kanda · Action",
+      "hi": {
+       "text": "कर्म कांड",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "कर्मकांड",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "bhakti",
+     "title": {
+      "en": "Bhakti kanda · Devotion",
+      "hi": {
+       "text": "भक्ति कांड",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "भक्तिकांड",
+       "reviewed": false
+      }
+     }
+    }
+   ]
   },
   {
    "id": "swami-samarth",
-   "order": 5,
+   "order": 7,
    "tradition": "hindu",
    "region": "maharashtra",
    "title": {
@@ -495,7 +709,7 @@
   },
   {
    "id": "sai-satcharitra",
-   "order": 6,
+   "order": 8,
    "tradition": "hindu",
    "region": "maharashtra",
    "title": {
@@ -536,7 +750,7 @@
   },
   {
    "id": "varkari",
-   "order": 7,
+   "order": 9,
    "tradition": "hindu",
    "region": "maharashtra",
    "title": {
@@ -577,7 +791,7 @@
   },
   {
    "id": "janamsakhi",
-   "order": 8,
+   "order": 10,
    "tradition": "sikh",
    "region": "punjab",
    "title": {
@@ -618,7 +832,7 @@
   },
   {
    "id": "buddha",
-   "order": 9,
+   "order": 11,
    "tradition": "buddhist",
    "region": "bihar",
    "title": {
@@ -659,7 +873,7 @@
   },
   {
    "id": "mahavira",
-   "order": 10,
+   "order": 12,
    "tradition": "jain",
    "region": "india",
    "title": {
@@ -700,7 +914,7 @@
   },
   {
    "id": "parables",
-   "order": 11,
+   "order": 13,
    "tradition": "christian",
    "region": "world",
    "title": {
@@ -741,7 +955,7 @@
   },
   {
    "id": "sufi-saints",
-   "order": 12,
+   "order": 14,
    "tradition": "islamic",
    "region": "maharashtra",
    "title": {

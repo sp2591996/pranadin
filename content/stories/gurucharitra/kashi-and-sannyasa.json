@@ -1,0 +1,169 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "kashi-and-sannyasa",
+ "order": 9,
+ "part": "jnana",
+ "figure": {
+  "en": "Narahari, Amba and Krishna Saraswati",
+  "hi": {
+   "text": "नरहरि, अंबा और कृष्ण सरस्वती",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नरहरी, अंबा आणि कृष्ण सरस्वती",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "A Mother’s Blessing",
+  "hi": {
+   "text": "एक माँ का आशीर्वाद",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आईचा आशीर्वाद",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A boy asks his mother for the hardest permission of all. Her answer decides the road ahead.",
+  "hi": {
+   "text": "एक बालक अपनी माँ से सबसे कठिन अनुमति माँगता है। उसका उत्तर आगे की राह तय करता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक मुलगा आपल्या आईकडे सर्वात कठीण परवानगी मागतो. तिचे उत्तर पुढची वाट ठरवते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/gc-7.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Dattatreya surrounded by yogis (19th-century wall painting, Punjab)",
+    "hi": {
+     "text": "योगियों से घिरे दत्तात्रेय (उन्नीसवीं सदी का भित्ति चित्र, पंजाब)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग्यांनी वेढलेले दत्तात्रेय (एकोणिसाव्या शतकातील भित्तिचित्र, पंजाब)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown Kangra muralists (and at-least one artist from Jalandhar named Sarfuddin as per as per Jatinder Mauhar), presuma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mural_depicting_Dattatreya_with_yogis_surrounding_him,_from_Ramtatwali_Dham,_Hoshiarpur_district,_Punjab,_circa_19th_century.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The request",
+    "hi": {
+     "text": "प्रार्थना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मागणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Soon after his thread ceremony, young Narahari told his parents that his path was not to stay at home. He wished to travel to holy places, and later to take sannyasa, the life of renunciation. Amba heard him and her heart sank, for he was the child she had waited so long to hold. He was only a boy by years, but he spoke with a steadiness that made even his father lower his eyes and listen.\n\nShe wept and begged him to stay. Madhav, quieter, also felt the weight of the news. The Siddha told Namdharak that this was one of the hardest moments in the story, because it shows that even a guru’s path passes through a mother’s tears, and that nobody’s love is small. Neighbours came to the house and tried to persuade him, and some argued with him that a son’s first duty was at home.",
+    "hi": {
+     "text": "उपनयन के कुछ ही समय बाद युवा नरहरि ने माता-पिता से कहा कि उसकी राह घर में रहना नहीं है। वह पावन स्थलों की यात्रा करना चाहता था, और आगे संन्यास लेना, त्याग का जीवन। अंबा ने सुना और उनका हृदय बैठ गया, क्योंकि वह वही संतान थी जिसे गोद में लेने की उन्होंने इतनी प्रतीक्षा की थी। आयु में वह बस बालक था, पर उसके स्वर में ऐसी स्थिरता थी कि पिता ने भी आँखें नीची करके उसे सुना।\n\nवे रो पड़ीं और उससे रुकने की विनती की। माधव, जो अधिक शांत थे, ने भी इस समाचार का भार महसूस किया। सिद्ध ने नामधारक से कहा कि यह कथा के सबसे कठिन क्षणों में से एक है, क्योंकि यह दिखाता है कि गुरु का मार्ग भी माँ के आँसुओं से होकर गुज़रता है, और किसी का प्रेम छोटा नहीं होता। पड़ोसी घर आए और उसे मनाने लगे, और कुछ ने तर्क दिया कि पुत्र का पहला कर्तव्य घर पर है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मौंजीबंधनानंतर लवकरच तरुण नरहरीने आई-वडिलांना सांगितले की घरी राहणे ही माझी वाट नाही. त्याला पवित्र स्थळांची यात्रा करायची होती, आणि पुढे संन्यास घ्यायचा होता, त्यागाचे जीवन. अंबेने ते ऐकले आणि तिचे हृदय बसले, कारण तो तोच बाळ होता ज्याला उराशी धरण्याची तिने इतकी वाट पाहिली होती. वयाने तो केवळ मुलगा होता, पण त्याच्या बोलण्यात अशी स्थिरता होती की त्याच्या वडिलांनीही डोळे खाली करून ऐकले.\n\nती रडली आणि त्याला थांबण्याची विनवणी केली. माधव, जे अधिक शांत होते, त्यांनीही या बातमीचे ओझे अनुभवले. सिद्धांनी नामधारकाला सांगितले की कथेतील हा सर्वात कठीण क्षणांपैकी एक आहे, कारण तो दाखवतो की गुरूंची वाटही आईच्या अश्रूंमधून जाते, आणि कोणाचेही प्रेम लहान नसते. शेजारी घरी आले आणि त्याचे मन वळवू लागले, आणि काहींनी वाद घातला की मुलाचे पहिले कर्तव्य घरी असते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Her blessing",
+    "hi": {
+     "text": "उनका आशीर्वाद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिचा आशीर्वाद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Narahari did not argue or hurry. He sat beside his mother and spoke softly. He reminded her that he would never truly leave her heart, and that she would be cared for in her years ahead. The Gurucharitra tells that he also blessed her, promising that she would have more children and would see him again. He did not hide that parting would hurt, and he did not pretend that her sadness was foolish or easy to set aside.\n\nAmba, her sorrow slowly softening, gave her blessing. It was not given easily, and the tale does not pretend that it was. A mother’s love and a child’s calling both held their ground, and in the end, love chose to release rather than to hold. With her words as his provision, Narahari set out. The family’s farewell was long and quiet, with many tears and many small gestures of care that no one forgot.",
+    "hi": {
+     "text": "नरहरि ने न तर्क किया, न जल्दी की। वह माँ के पास बैठा और धीरे से बोला। उसने उन्हें याद दिलाया कि वह उनके हृदय से कभी सचमुच दूर नहीं जाएगा, और आगे के वर्षों में उनकी देखभाल होगी। गुरुचरित्र बताता है कि उसने उन्हें आशीर्वाद भी दिया, वचन दिया कि उनकी और संतानें होंगी और वे उसे फिर देखेंगी। उसने यह नहीं छिपाया कि बिछड़ना पीड़ा देगा, और यह नहीं दिखाया कि उनका दुख मूर्खता है या आसानी से किनारे रखने की बात।\n\nअंबा ने, अपने दुख को धीरे-धीरे कोमल होते हुए, आशीर्वाद दिया। वह आसानी से नहीं दिया गया था, और कथा यह दिखावा नहीं करती कि दिया गया था। माँ का प्रेम और संतान की पुकार, दोनों अपनी जगह डटे रहे, और अंत में प्रेम ने थामने की जगह छोड़ने को चुना। उनके शब्दों को पाथेय बनाकर नरहरि चल पड़ा। परिवार की विदाई लंबी और शांत थी, बहुत आँसुओं और देखभाल के बहुत छोटे-छोटे इशारों के साथ, जिन्हें किसी ने भुलाया नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नरहरीने वाद घातला नाही, घाईही केली नाही. तो आईच्या शेजारी बसला आणि हळूच बोलला. त्याने तिला आठवण करून दिली की मी तुझ्या हृदयातून कधीच खऱ्या अर्थाने दूर जाणार नाही, आणि पुढच्या वर्षांत तुझी काळजी घेतली जाईल. गुरुचरित्र सांगते की त्याने तिलाही आशीर्वाद दिला, वचन दिले की तुला आणखी मुले होतील आणि तू मला पुन्हा पाहशील. विरह दुखावेल हे त्याने लपवले नाही, आणि तिचे दुःख मूर्खपणाचे किंवा सहज बाजूला ठेवण्यासारखे आहे असे दाखवले नाही.\n\nअंबेने, तिचे दुःख हळूहळू मृदू होत असताना, आशीर्वाद दिला. तो सहजपणे दिला गेला नाही, आणि कथा तसे दाखवण्याचा आव आणत नाही. आईचे प्रेम आणि मुलाची हाक, दोन्ही आपापल्या जागी ठाम राहिले, आणि शेवटी प्रेमाने धरून ठेवण्यापेक्षा सोडून देणे निवडले. तिचे शब्द शिदोरी म्हणून घेऊन नरहरी निघाला. कुटुंबाचा निरोप दीर्घ आणि शांत होता, अनेक अश्रूंचा आणि काळजीच्या अनेक लहान लहान कृतींचा, ज्या कोणी विसरल्या नाहीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kashi and a new name",
+    "hi": {
+     "text": "काशी और एक नया नाम",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काशी आणि नवे नाव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He travelled to many holy places and at last reached Kashi, the ancient city on the Ganga. There he met the ascetic Krishna Saraswati, who recognised in the young man a rare maturity and gave him initiation into sannyasa. He took a new name, Narasimha Saraswati. He walked for months, resting under trees and sharing what little food he had with whoever asked, never complaining of the road.\n\nFrom then on he walked as a wandering teacher, owning almost nothing. The Siddha told Namdharak that giving up the home was never meant to mean giving up love. The Guru’s heart, he said, grew larger and not smaller, until a whole country could find shelter in it. Namdharak, who had himself walked a long road in search of peace, felt the story speak directly to his own heart.",
+    "hi": {
+     "text": "वह अनेक पावन स्थलों से होता हुआ अंत में काशी पहुँचा, गंगा किनारे की उस प्राचीन नगरी में। वहाँ उसकी भेंट तपस्वी कृष्ण सरस्वती से हुई, जिन्होंने उस युवक में एक दुर्लभ परिपक्वता पहचानी और उसे संन्यास की दीक्षा दी। उसने नया नाम धारण किया, नृसिंह सरस्वती। वह महीनों चला, पेड़ों के नीचे विश्राम करता, और जो थोड़ा भोजन उसके पास होता वह माँगने वाले को बाँट देता, राह की कभी शिकायत न करता।\n\nउसके बाद वे एक घुमक्कड़ गुरु के रूप में चले, जिनके पास लगभग कुछ न था। सिद्ध ने नामधारक से कहा कि घर छोड़ने का अर्थ कभी प्रेम छोड़ना नहीं था। उन्होंने कहा कि गुरु का हृदय छोटा नहीं, बड़ा होता गया, इतना कि पूरा देश उसमें आश्रय पा सके। नामधारक ने, जो स्वयं शांति की खोज में लंबी राह चला था, महसूस किया कि कथा सीधे उसके हृदय से बात कर रही है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो अनेक पवित्र स्थळांना फिरून शेवटी काशीला पोहोचला, गंगेच्या काठावरील त्या प्राचीन नगरीत. तिथे त्याची भेट तपस्वी कृष्ण सरस्वतींशी झाली, ज्यांनी त्या तरुणात दुर्मिळ परिपक्वता ओळखली आणि त्याला संन्यासाची दीक्षा दिली. त्याने नवे नाव धारण केले, नृसिंह सरस्वती. तो महिनोन्महिने चालत राहिला, झाडांखाली विश्रांती घेत, आणि जे थोडे अन्न त्याच्याकडे असे ते मागणाऱ्याला वाटत, वाटेची कधी तक्रार न करता.\n\nत्यानंतर ते फिरते गुरू म्हणून चालले, जवळजवळ काहीच स्वतःचे न बाळगता. सिद्धांनी नामधारकाला सांगितले की घर सोडणे म्हणजे प्रेम सोडणे असा कधीच अर्थ नव्हता. ते म्हणाले की गुरूंचे हृदय लहान झाले नाही, मोठे होत गेले, इतके की संपूर्ण देशाला त्यात आश्रय मिळू शकेल. नामधारकाला, जो स्वतः शांतीच्या शोधात दीर्घ वाट चालला होता, कथा थेट आपल्या हृदयाशी बोलत असल्याचे जाणवले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there someone whose dream you find hard to support because it takes them away from you? Say one encouraging sentence to them today.",
+  "hi": {
+   "text": "क्या कोई ऐसा है जिसके स्वप्न का साथ देना आपको कठिन लगता है, क्योंकि वह उसे आपसे दूर ले जाता है? आज उनसे एक प्रोत्साहन-भरा वाक्य कहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "असे कोणी आहे का ज्याच्या स्वप्नाला साथ देणे तुम्हाला कठीण वाटते, कारण ते त्याला तुमच्यापासून दूर नेते? आज त्यांना एक प्रोत्साहनाचे वाक्य म्हणा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love that can release is as great as love that holds.",
+  "hi": {
+   "text": "जो प्रेम छोड़ना जानता है, वह थामने वाले प्रेम जितना ही महान है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जे प्रेम सोडून देऊ शकते ते धरून ठेवणाऱ्या प्रेमाइतकेच थोर असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 12; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 12; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय १२; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-undying-self",
+ "order": 2,
+ "part": "karma",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Undying Self",
+  "hi": {
+   "text": "अविनाशी आत्मा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अमर आत्मा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Krishna answers Arjuna’s grief by pointing to what in us never dies, and shows how to act without clinging to results.",
+  "hi": {
+   "text": "श्रीकृष्ण अर्जुन के शोक का उत्तर उस तत्त्व की ओर संकेत करके देते हैं जो हममें कभी नहीं मरता, और फल की आसक्ति के बिना कर्म करना सिखाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुनाच्या दुःखाला श्रीकृष्ण आपल्यातल्या कधीही न मरणाऱ्या तत्त्वाकडे बोट दाखवून उत्तर देतात, आणि फळाची आसक्ती न धरता कर्म कसे करावे ते सांगतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gita/2.webp",
+   "w": 1200,
+   "h": 731,
+   "caption": {
+    "en": "Krishna teaches the Gita to Arjuna (Kashmir miniature painting)",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन को गीता का उपदेश देते हैं (कश्मीरी लघुचित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला गीता सांगतात (काश्मिरी लघुचित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sri_Krishna_preaching_Gita_Upadesh_to_Arjun_-_Unknown,_Kashmir_School_-_Google_Cultural_Institute.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A friend becomes a teacher",
+    "hi": {
+     "text": "मित्र गुरु बन जाता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मित्र गुरू होतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna, overwhelmed, turns to Krishna and says plainly that he does not know what is right. He asks to be taken as a student, since his own mind has failed him. With that, the friend on the chariot becomes a teacher, and the real conversation of the Gita starts.\n\nKrishna first gently points out that Arjuna is grieving for those who need no grief. Then he begins with the deepest idea: the self inside every being is never born and never dies. Weapons do not cut it, fire does not burn it, and water does not wet it. Bodies come and go like clothes that are worn and set aside, while the one who wears them goes on.",
+    "hi": {
+     "text": "अर्जुन, व्याकुल होकर, श्रीकृष्ण की ओर मुड़ते हैं और सीधे कहते हैं कि उन्हें नहीं पता क्या उचित है। वे शिष्य के रूप में स्वीकार किए जाने की प्रार्थना करते हैं, क्योंकि उनके अपने मन ने उन्हें धोखा दे दिया है। इसी क्षण रथ का सखा गुरु बन जाता है, और गीता का सच्चा संवाद आरंभ होता है।\n\nश्रीकृष्ण पहले कोमलता से कहते हैं कि अर्जुन उनके लिए शोक कर रहे हैं जिनके लिए शोक नहीं करना चाहिए। फिर वे सबसे गहरे विचार से आरंभ करते हैं: हर प्राणी के भीतर की आत्मा न कभी जन्मती है, न कभी मरती है। शस्त्र उसे काट नहीं सकते, अग्नि जला नहीं सकती, जल भिगो नहीं सकता। शरीर वस्त्रों की तरह आते-जाते हैं, जो पहने जाते और फिर उतार दिए जाते हैं, पर उन्हें पहनने वाला बना रहता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भारावून गेलेला अर्जुन श्रीकृष्णाकडे वळतो आणि स्पष्ट सांगतो की काय योग्य आहे ते मला कळत नाही. आपल्याच मनाने साथ सोडल्यामुळे तो शिष्य म्हणून स्वीकारण्याची विनंती करतो. इथे रथावरचा मित्र गुरू होतो, आणि गीतेचा खरा संवाद सुरू होतो.\n\nश्रीकृष्ण आधी हळूच दाखवतात की ज्यांच्यासाठी शोक करू नये त्यांच्यासाठी तू शोक करत आहेस. मग ते सर्वांत गहन कल्पनेने सुरुवात करतात: प्रत्येक प्राण्यातला आत्मा कधीही जन्मत नाही आणि कधीही मरत नाही. शस्त्रे त्याला कापत नाहीत, अग्नी त्याला जाळत नाही आणि पाणी त्याला भिजवत नाही. शरीरे येतात आणि जातात, जशी वस्त्रे घालून टाकून दिली जातात, पण ती घालणारा पुढे चालत राहतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Act, but let go of the fruit",
+    "hi": {
+     "text": "कर्म करो, फल छोड़ो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कर्म करा, पण फळ सोडा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "From this foundation Krishna turns to daily life. Do what is yours to do, he says, and give it your full care. You have a right to your effort, but not to how things turn out. If you work only for rewards, every setback shatters you; if you refuse to work, you waste your life. The path lies between: act well, and release the outcome.\n\nHe also paints a portrait of the steady-minded person, the sthita-prajna. Such a person is not pushed about by pleasure and pain. Like a tortoise drawing in its limbs, they can bring the senses home. They stay calm in praise and blame, and find a quiet joy that does not depend on circumstances.",
+    "hi": {
+     "text": "इसी नींव से श्रीकृष्ण रोज़ के जीवन की ओर मुड़ते हैं। जो तुम्हारे करने का है, वह करो, वे कहते हैं, और उसमें पूरा मन लगाओ। तुम्हारा अधिकार तुम्हारे प्रयास पर है, उसके परिणाम पर नहीं। यदि तुम केवल पुरस्कार के लिए काम करोगे, तो हर असफलता तुम्हें तोड़ देगी; और यदि काम से इनकार करोगे, तो जीवन व्यर्थ गँवाओगे। मार्ग इन दोनों के बीच है: अच्छी तरह कर्म करो, और परिणाम को छोड़ दो।\n\nवे स्थितप्रज्ञ, स्थिर बुद्धि वाले मनुष्य का चित्र भी खींचते हैं। ऐसा मनुष्य सुख और दुख से इधर-उधर नहीं धकेला जाता। कछुए के अपने अंग समेट लेने की तरह, वह इंद्रियों को भीतर लौटा सकता है। वह प्रशंसा और निंदा में शांत रहता है, और ऐसे शांत आनंद को पाता है जो परिस्थितियों पर निर्भर नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या पायावरून श्रीकृष्ण रोजच्या जीवनाकडे वळतात. जे तुझे कर्तव्य आहे ते कर, आणि त्यात पूर्ण काळजी घे. तुझा अधिकार प्रयत्नावर आहे, परिणामावर नाही. जर तू फक्त बक्षिसासाठी काम केलेस तर प्रत्येक अपयशाने तू खचशील; आणि जर काम करण्यास नकार दिलास तर आयुष्य वाया घालवशील. मार्ग मधला आहे: चांगले कर्म करा आणि परिणाम सोडून द्या.\n\nते स्थिर मनाच्या माणसाचे, स्थितप्रज्ञाचे चित्रही रंगवतात. असा माणूस सुखदुःखाने इकडेतिकडे ढकलला जात नाही. कासव आपले अवयव आत ओढून घेते तसे तो इंद्रियांना घरी परत आणू शकतो. स्तुती आणि निंदेत तो शांत राहतो, आणि परिस्थितीवर अवलंबून नसलेला एक शांत आनंद त्याला मिळतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Steadiness in a shaky world",
+    "hi": {
+     "text": "डगमगाते संसार में स्थिरता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "डळमळत्या जगात स्थिरता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In modern life we pour ourselves into exams, jobs and projects, and then our mood rises and falls with every result. This chapter offers another way to live. Care deeply about the work, prepare well, do your part, and then loosen your grip on what you cannot control. Many people find this brings more focus, not less.\n\nIt also helps in loss. Knowing that something in us is deeper than the changing body, many teachers explain, softens fear and grief without asking us to stop loving. Try it in a small way today: finish one task with full attention, and when it is done, let the result be what it is.",
+    "hi": {
+     "text": "आधुनिक जीवन में हम परीक्षाओं, नौकरियों और योजनाओं में अपने को झोंक देते हैं, और फिर हर परिणाम के साथ हमारा मन चढ़ता-उतरता है। यह अध्याय जीने का दूसरा ढंग देता है। काम की गहरी परवाह कीजिए, अच्छी तैयारी कीजिए, अपना हिस्सा निभाइए, और फिर जो आपके हाथ में नहीं, उस पर पकड़ ढीली कीजिए। बहुतों को इससे ध्यान घटता नहीं, बढ़ता है।\n\nयह क्षति में भी सहारा देता है। यह जानना कि हममें कुछ बदलते शरीर से गहरा है, बहुत आचार्य समझाते हैं, भय और शोक को नरम करता है, बिना प्रेम करना छोड़ने को कहे। आज इसे छोटे रूप में आज़माइए: एक काम पूरे ध्यान से पूरा कीजिए, और जब वह हो जाए, तो परिणाम को जैसा है वैसा रहने दीजिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आजच्या जीवनात आपण परीक्षा, नोकऱ्या आणि प्रकल्पांमध्ये स्वतःला झोकून देतो, आणि मग प्रत्येक निकालाबरोबर आपली मनःस्थिती वर-खाली होते. हा अध्याय जगण्याचा दुसरा मार्ग दाखवतो. कामाची मनापासून काळजी घ्या, नीट तयारी करा, आपला वाटा पार पाडा, आणि मग जे आपल्या हातात नाही त्यावरची पकड सैल करा. यामुळे लक्ष कमी होत नाही, उलट वाढते, असे अनेकांना जाणवते.\n\nहे नुकसानातही मदत करते. आपल्यातले काहीतरी बदलत्या शरीरापेक्षा खोलवर आहे हे जाणल्याने, अनेक गुरू सांगतात, प्रेम सोडायला न सांगता भीती आणि शोक मऊ होतात. आज एखाद्या लहान प्रकारे हे करून पाहा: एक काम पूर्ण लक्ष देऊन संपवा, आणि ते झाल्यावर निकाल जसा आहे तसा राहू द्या.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥",
+  "cite": {
+   "en": "Bhagavad Gita 2.47",
+   "hi": {
+    "text": "भगवद्गीता 2.47",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता २.४७",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Your claim is on the doing, never on what the doing brings. Do not make rewards your reason for acting, and do not slip into idleness either.",
+   "hi": {
+    "text": "तुम्हारा अधिकार केवल कर्म करने पर है, उसके फलों पर कभी नहीं। फल को कर्म का कारण मत बनाओ, और अकर्मण्यता में भी मत फँसो।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "तुझा अधिकार केवळ कर्मावर आहे, त्याच्या फळावर कधीच नाही. फळाला कर्माचे कारण बनवू नकोस, आणि अकर्मात आसक्तही धरू नकोस.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Where do you tie your peace to a result you cannot control? Today, do one task as well as you can and notice what it feels like to let the outcome go.",
+  "hi": {
+   "text": "आप अपनी शांति किस ऐसे परिणाम से बाँध देते हैं जो आपके वश में नहीं? आज एक काम पूरी लगन से कीजिए और परिणाम को जाने देने का अनुभव देखिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमची शांतता तुम्ही कोणत्या न आवरता येणाऱ्या निकालाशी बांधली आहे? आज एक काम शक्य तितके चांगले करा आणि निकाल सोडून देणे कसे वाटते ते अनुभवा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Give your best to the work itself and release your grip on the result.",
+  "hi": {
+   "text": "अपना सर्वश्रेष्ठ कर्म को दीजिए और परिणाम पर पकड़ छोड़ दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कामाला आपले सर्वोत्तम द्या आणि निकालावरची पकड सोडा.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 2 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 2 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय २ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

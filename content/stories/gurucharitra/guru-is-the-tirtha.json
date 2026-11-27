@@ -1,0 +1,169 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "guru-is-the-tirtha",
+ "order": 12,
+ "part": "jnana",
+ "figure": {
+  "en": "Narasimha Saraswati, his disciples, Aruni and Upamanyu",
+  "hi": {
+   "text": "नृसिंह सरस्वती, उनके शिष्य, आरुणि और उपमन्यु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नृसिंह सरस्वती, त्यांचे शिष्य, आरुणी आणि उपमन्यू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Holiest Place of All",
+  "hi": {
+   "text": "सबसे पावन स्थान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वांत पवित्र स्थान",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The disciples set out for far-off holy rivers, and learn where the holiest ground truly was.",
+  "hi": {
+   "text": "शिष्य दूर की पावन नदियों की ओर चलते हैं, और जानते हैं कि सबसे पवित्र भूमि सचमुच कहाँ थी।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शिष्य दूरच्या पवित्र नद्यांकडे निघतात, आणि सर्वात पवित्र भूमी खरोखर कुठे होती हे जाणतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/gc-7.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Dattatreya surrounded by yogis (19th-century wall painting, Punjab)",
+    "hi": {
+     "text": "योगियों से घिरे दत्तात्रेय (उन्नीसवीं सदी का भित्ति चित्र, पंजाब)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग्यांनी वेढलेले दत्तात्रेय (एकोणिसाव्या शतकातील भित्तिचित्र, पंजाब)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown Kangra muralists (and at-least one artist from Jalandhar named Sarfuddin as per as per Jatinder Mauhar), presuma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mural_depicting_Dattatreya_with_yogis_surrounding_him,_from_Ramtatwali_Dham,_Hoshiarpur_district,_Punjab,_circa_19th_century.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Sent on pilgrimage",
+    "hi": {
+     "text": "तीर्थयात्रा पर भेजे गए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीर्थयात्रेला पाठवलेले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In that age, pilgrimage to sacred rivers and temples was a part of a devout life, and the disciples of Narasimha Saraswati longed to go. They asked the Guru’s leave, hoping for his blessing. He gave it, with a quiet smile that they did not quite understand. They packed light, took their staffs and water vessels, and talked on the road about all the holy places they hoped to see.\n\nThey set off with cheerful hearts. The Gurucharitra tells that at each holy place they visited, they saw the Guru among the bathers, as though he had arrived before them. They were puzzled, because they had left him behind. By the time they returned, a thought was forming in each of them. Some of them later said they could not tell whether they had seen him in a vision or whether he had truly been there.",
+    "hi": {
+     "text": "उस युग में पावन नदियों और मंदिरों की यात्रा धर्मपरायण जीवन का अंग थी, और नृसिंह सरस्वती के शिष्य भी जाने को उत्सुक थे। उन्होंने गुरु से आज्ञा माँगी, उनके आशीर्वाद की आशा में। गुरु ने वह दिया, एक शांत मुस्कान के साथ, जिसे वे ठीक से समझ न सके। उन्होंने हल्का सामान बाँधा, लाठियाँ और जलपात्र लिए, और राह में उन सब पावन स्थलों की चर्चा करते चले जो वे देखना चाहते थे।\n\nवे प्रसन्न मन से चल पड़े। गुरुचरित्र बताता है कि जिस-जिस तीर्थ पर वे गए, वहाँ उन्हें स्नान करने वालों के बीच गुरु दिखे, मानो वे उनसे पहले ही पहुँच गए हों। वे चकित हुए, क्योंकि वे तो उन्हें पीछे छोड़ आए थे। लौटने तक हर एक के मन में एक विचार आकार ले रहा था। कुछ ने बाद में कहा कि वे बता नहीं पाए कि उन्होंने उन्हें दर्शन में देखा था या गुरु सचमुच वहाँ थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या काळी पवित्र नद्या आणि मंदिरांची यात्रा हा धार्मिक जीवनाचा भाग होता, आणि नृसिंह सरस्वतींचे शिष्यही जाण्यास उत्सुक होते. त्यांनी गुरूंची परवानगी मागितली, त्यांच्या आशीर्वादाची आशा करीत. गुरूंनी तो दिला, एका शांत हास्यासह, जे त्यांना नीटसे समजले नाही. त्यांनी हलके सामान बांधले, काठ्या आणि पाण्याची भांडी घेतली, आणि वाटेत जी पवित्र स्थळे पाहण्याची त्यांना आस होती त्यांच्याविषयी गप्पा मारीत चालले.\n\nते प्रसन्न मनाने निघाले. गुरुचरित्र सांगते की ज्या ज्या तीर्थक्षेत्री ते गेले, तिथे त्यांना स्नान करणाऱ्यांमध्ये गुरू दिसले, जणू ते त्यांच्या आधीच पोहोचले होते. ते गोंधळले, कारण ते तर त्यांना मागे सोडून आले होते. परतेपर्यंत प्रत्येकाच्या मनात एक विचार आकार घेत होता. काहींनी नंतर सांगितले की त्यांना सांगता आले नाही की त्यांनी त्यांना दृष्टांतात पाहिले की ते खरोखर तिथे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The feet that held every river",
+    "hi": {
+     "text": "वे चरण जिनमें हर नदी समाई थी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्या चरणांत प्रत्येक नदी सामावली होती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Back at the Guru’s side, the disciples bowed and began to tell of their journey. Narasimha Saraswati listened, and then it is told that they saw every sacred river, every shrine and every holy city shining in his feet. They understood that the holiest place is wherever the Guru is, and that pilgrimage ends at the teacher’s door. It was as if the whole map of their long journey lay gathered into one quiet seat, and the disciples had no words left.\n\nThe Siddha told Namdharak that this is no reason to give up travelling or to scorn temples, for these hold great meaning for many. It is a reminder of where a seeker’s heart should rest in the end. A river can wash the body, but a teacher’s presence can wash away the old burdens of the mind. The Guru did not speak of this vision as a prize, and he gently asked them not to tell it in order to impress anyone.",
+    "hi": {
+     "text": "गुरु के पास लौटकर शिष्यों ने प्रणाम किया और अपनी यात्रा का वर्णन करने लगे। नृसिंह सरस्वती ने सुना, और कहते हैं कि तब उन्होंने हर पावन नदी, हर मंदिर और हर पुण्य नगरी को उनके चरणों में चमकते देखा। वे समझ गए कि सबसे पावन स्थान वही है जहाँ गुरु हैं, और तीर्थयात्रा गुरु के द्वार पर पूर्ण होती है। मानो उनकी लंबी यात्रा का पूरा मानचित्र एक शांत आसन में सिमट आया हो, और शिष्यों के पास कहने को शब्द न बचे।\n\nसिद्ध ने नामधारक से कहा कि इसका अर्थ यात्रा छोड़ देना या मंदिरों का तिरस्कार करना नहीं है, क्योंकि बहुतों के लिए उनका गहरा अर्थ है। यह तो इस बात की याद है कि साधक के हृदय को अंत में कहाँ विश्राम करना चाहिए। नदी शरीर धो सकती है, पर गुरु की उपस्थिति मन के पुराने बोझ धो सकती है। गुरु ने इस दर्शन की चर्चा किसी पुरस्कार की तरह नहीं की, और उन्होंने कोमलता से कहा कि इसे किसी को प्रभावित करने के लिए न सुनाएँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंच्या शेजारी परतल्यावर शिष्यांनी नमस्कार केला आणि आपल्या प्रवासाचे वर्णन करू लागले. नृसिंह सरस्वतींनी ऐकले, आणि सांगतात की तेव्हा त्यांना प्रत्येक पवित्र नदी, प्रत्येक देवालय आणि प्रत्येक पुण्यनगरी त्यांच्या चरणांत तेजाळताना दिसली. त्यांना कळले की सर्वात पवित्र स्थान तेच जिथे गुरू आहेत, आणि तीर्थयात्रा गुरूंच्या दारात पूर्ण होते. जणू त्यांच्या दीर्घ प्रवासाचा संपूर्ण नकाशा एका शांत आसनात एकवटला होता, आणि शिष्यांकडे शब्द उरले नाहीत.\n\nसिद्धांनी नामधारकाला सांगितले की याचा अर्थ प्रवास सोडून द्यावा किंवा मंदिरांचा तिरस्कार करावा असा नाही, कारण अनेकांसाठी त्यांना खोल अर्थ आहे. साधकाच्या हृदयाने शेवटी कुठे विसावावे याची ही आठवण आहे. नदी शरीर धुऊ शकते, पण गुरूंचे सान्निध्य मनाची जुनी ओझी धुऊन टाकू शकते. गुरूंनी या दृष्टांताचा उल्लेख बक्षिसासारखा केला नाही, आणि त्यांनी हळुवारपणे सांगितले की कोणाला प्रभावित करण्यासाठी तो सांगू नका.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Aruni and Upamanyu",
+    "hi": {
+     "text": "आरुणि और उपमन्यु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आरुणी आणि उपमन्यू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "To show what real devotion looks like, the Guru recalled two ancient students. Aruni, once, was sent by his teacher to mend the bund of a field when the rain broke through. Unable to close the gap, he lay down in it himself so the water would be held back, and stayed there till morning. The teacher’s only answer in both cases was a smile, and later a gentle word that spoke of trust and of inner calm.\n\nUpamanyu was told to graze his teacher’s cows and ate nothing of the milk or alms he was not allowed, until hunger drove him to eat leaves that blinded him. He fell into a well, and the tale tells that the divine physicians, the Ashvins, restored his sight. Both students were praised for their trust in their teacher and in their own sincerity. Namdharak noticed that both students were praised not for suffering, but for the steadiness of their love.",
+    "hi": {
+     "text": "सच्ची भक्ति कैसी होती है, यह दिखाने के लिए गुरु ने दो प्राचीन शिष्यों का स्मरण किया। आरुणि को एक बार गुरु ने खेत की मेड़ बाँधने भेजा, जब वर्षा का पानी उसे तोड़कर बह निकला। दरार बंद न कर पाने पर वह स्वयं वहीं लेट गया ताकि पानी रुका रहे, और भोर तक वहीं पड़ा रहा। दोनों ही प्रसंगों में गुरु का एकमात्र उत्तर मुस्कान थी, और बाद में एक कोमल शब्द, जो विश्वास और आंतरिक शांति की बात कहता था।\n\nउपमन्यु को गुरु की गायें चराने का काम मिला, और जिस दूध या भिक्षा की उसे अनुमति न थी, उसने उसे छुआ तक नहीं, जब तक भूख ने उसे ऐसे पत्ते खाने को विवश न किया जिनसे वह अंधा हो गया। वह कुएँ में गिर पड़ा, और कथा कहती है कि दिव्य वैद्य अश्विनीकुमारों ने उसकी दृष्टि लौटा दी। दोनों शिष्यों की प्रशंसा गुरु पर उनके विश्वास और अपनी सच्चाई के लिए हुई। नामधारक ने देखा कि दोनों की प्रशंसा कष्ट सहने के लिए नहीं, उनके प्रेम की दृढ़ता के लिए हुई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खरी भक्ती कशी असते हे दाखवण्यासाठी गुरूंनी दोन प्राचीन शिष्यांचे स्मरण केले. आरुणीला एकदा त्याच्या गुरूंनी शेताचा बांध घालायला पाठवले, जेव्हा पावसाने तो फोडला. भगदाड बुजवता न आल्याने तो स्वतःच तिथे आडवा पडला म्हणजे पाणी अडून राहील, आणि पहाटेपर्यंत तिथेच राहिला. दोन्ही प्रसंगी गुरूंचे एकमेव उत्तर हास्य होते, आणि नंतर एक प्रेमळ शब्द, जो विश्वासाबद्दल आणि अंतर्मनाच्या शांततेबद्दल बोलत होता.\n\nउपमन्यूला गुरूंच्या गायी चारण्याचे काम मिळाले, आणि ज्या दुधाची किंवा भिक्षेची त्याला परवानगी नव्हती तिला त्याने शिवले देखील नाही, जोवर भुकेने त्याला अशी पाने खायला भाग पाडले नाही ज्यांनी तो आंधळा झाला. तो विहिरीत पडला, आणि कथा सांगते की दिव्य वैद्य अश्विनीकुमारांनी त्याची दृष्टी परत दिली. दोन्ही शिष्यांची प्रशंसा गुरूंवरील विश्वासासाठी आणि स्वतःच्या प्रामाणिकपणासाठी झाली. नामधारकाच्या लक्षात आले की दोघांची प्रशंसा सोसण्यासाठी नाही, तर त्यांच्या प्रेमाच्या स्थिरतेसाठी झाली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "What is the one place or person where you feel most at peace? Spend ten quiet minutes there, or in thought of them, today.",
+  "hi": {
+   "text": "आपको जिस एक स्थान या व्यक्ति के पास सबसे अधिक शांति मिलती है, वह कौन है? आज दस शांत मिनट वहाँ बिताइए, या उसके स्मरण में।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्हाला सर्वात जास्त शांतता कोणत्या ठिकाणी किंवा कोणाजवळ मिळते? आज दहा शांत मिनिटे तिथे घालवा, किंवा त्यांच्या स्मरणात.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The holiest place is wherever the teacher’s grace and the seeker’s sincerity meet.",
+  "hi": {
+   "text": "सबसे पावन स्थान वहीं है जहाँ गुरु की कृपा और साधक की सच्चाई मिलती हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वांत पवित्र स्थान तेच जिथे गुरूंची कृपा आणि साधकाचा प्रामाणिकपणा भेटतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 15-16; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 15 और 16; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय १५ व १६; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "reviewed": false
+  }
+ }
+}

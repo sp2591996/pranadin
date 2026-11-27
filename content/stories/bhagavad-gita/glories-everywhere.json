@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "glories-everywhere",
+ "order": 10,
+ "part": "bhakti",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Glories Everywhere",
+  "hi": {
+   "text": "हर ओर प्रभु की विभूति",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वत्र वैभव",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Among mountains the Himalaya, among rivers the Ganga: wherever splendour shines, Krishna says, see a spark of the divine.",
+  "hi": {
+   "text": "पर्वतों में हिमालय, नदियों में गंगा: जहाँ भी तेज दमके, श्रीकृष्ण कहते हैं, वहाँ प्रभु की एक चिंगारी देखो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पर्वतांत हिमालय, नद्यांत गंगा: जिथे जिथे तेज झळकते तिथे परमात्म्याची ठिणगी पाहा, असे श्रीकृष्ण सांगतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/bhagavad-gita/gita-6.webp",
+   "w": 759,
+   "h": 1100,
+   "caption": {
+    "en": "The cosmic form, with all the worlds within the divine body (Indian painting)",
+    "hi": {
+     "text": "विश्वरूप, दिव्य देह के भीतर सारे लोक (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विश्वरूप, दिव्य देहात सारे लोक (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vishnu_Vishvarupa_cropped.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Tell me more of your greatness",
+    "hi": {
+     "text": "अपनी महिमा और बताइए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तुझे आणखी वैभव सांग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna is moved by Krishna’s words and asks him to describe, in full, the ways in which his glory fills the world. He wants to know how to think of him, in what forms and in what places, so that he can keep him in mind.\n\nKrishna agrees, though he says the list has no end. He starts with the heart: he is the self seated within every being, the beginning, the middle and the end of all that lives. Then he gives examples, as a teacher might hold up a few jewels from a treasure chest to show how vast it is. It is the question of a loving student who wants to see the divine in everyday life, not only in a temple or a far-off heaven.",
+    "hi": {
+     "text": "अर्जुन श्रीकृष्ण के वचनों से भावविभोर हैं और प्रार्थना करते हैं कि वे अपनी उन विभूतियों को विस्तार से बताएँ जिनसे यह संसार भरा है। वे जानना चाहते हैं कि प्रभु का चिंतन कैसे करें, किन रूपों में और किन स्थानों में, ताकि उन्हें सदा मन में रख सकें।\n\nश्रीकृष्ण मान जाते हैं, पर कहते हैं कि इस सूची का अंत नहीं। वे हृदय से आरंभ करते हैं: वे हर प्राणी के भीतर बैठा आत्मा हैं, सब जीवों के आदि, मध्य और अंत भी वही हैं। फिर वे उदाहरण देते हैं, जैसे कोई गुरु खज़ाने की पेटी से कुछ रत्न निकालकर दिखाए कि वह कितना विशाल है। यह एक प्रेमी शिष्य का प्रश्न है, जो प्रभु को रोज़मर्रा के जीवन में देखना चाहता है, केवल किसी मंदिर या दूर के स्वर्ग में नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाचे शब्द ऐकून अर्जुन भारावून जातो आणि विनंती करतो की तुझे वैभव जगात कसे कसे भरून राहिले आहे ते पूर्णपणे सांग. तुझे चिंतन कोणत्या रूपांत आणि कोणत्या ठिकाणी करावे म्हणजे तुझे स्मरण टिकेल, हे त्याला जाणून घ्यायचे आहे.\n\nश्रीकृष्ण मान्य करतात, पण सांगतात की या वैभवाला अंत नाही. ते हृदयापासून सुरुवात करतात: प्रत्येक जीवाच्या अंतरी वसलेला आत्मा मीच आहे, आणि सर्व प्राण्यांचा आदि, मध्य आणि अंतही मीच. मग ते उदाहरणे देतात, जणू एखादा गुरू खजिन्याच्या पेटीतून काही रत्ने दाखवून तो किती अफाट आहे ते सांगतो. हा प्रेमळ शिष्याचा प्रश्न आहे, ज्याला परमात्मा केवळ मंदिरात किंवा दूरच्या स्वर्गात नव्हे, तर रोजच्या जीवनात पाहायचा आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Sparks of splendour",
+    "hi": {
+     "text": "तेज की चिंगारियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेजाच्या ठिणग्या",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Among the shining ones he is the sun, and among the stars, the moon. Among mountains he is the Himalaya, and among rivers the Ganga. Among trees he is the ashvattha, among sages the great seers, among words the sacred syllable Om. Among the senses he is the mind, and among the seasons the spring.\n\nWhatever is powerful, beautiful or full of life, Krishna says, comes from a tiny fraction of his light. Then he asks Arjuna a gentle question: what need is there for a long list? The whole universe is held up by one small portion of him. Those who understand this are devoted with steady love, and he gives them the understanding to come closer.",
+    "hi": {
+     "text": "तेजस्वियों में वे सूर्य हैं, और तारों में चंद्रमा। पर्वतों में वे हिमालय हैं, और नदियों में गंगा। वृक्षों में अश्वत्थ, ऋषियों में महान द्रष्टा, शब्दों में पवित्र अक्षर ॐ। इंद्रियों में वे मन हैं, और ऋतुओं में वसंत।\n\nजो कुछ भी शक्तिशाली, सुंदर या प्राणवान है, श्रीकृष्ण कहते हैं, वह उनके तेज के एक नन्हे अंश से ही उपजा है। फिर वे अर्जुन से कोमलता से पूछते हैं: इतनी लंबी सूची की क्या आवश्यकता? पूरा ब्रह्मांड उनके एक छोटे-से अंश से ही थमा हुआ है। जो यह जान लेते हैं, वे अटल प्रेम से उनकी भक्ति करते हैं, और वे उन्हें वह समझ देते हैं जिससे वे उनके और निकट आ सकें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेजस्वी पदार्थांत मी सूर्य, आणि नक्षत्रांत चंद्र. पर्वतांत मी हिमालय, आणि नद्यांत गंगा. वृक्षांत मी अश्वत्थ, ऋषींत महान द्रष्टे, शब्दांत पवित्र ओंकार. इंद्रियांत मी मन, आणि ऋतूंत वसंत.\n\nजे जे सामर्थ्यवान, सुंदर किंवा जीवनाने भरलेले आहे ते माझ्या तेजाच्या अगदी लहानशा अंशातून आले आहे, असे श्रीकृष्ण सांगतात. मग ते अर्जुनाला हळूच विचारतात, इतक्या लांब यादीची गरजच काय? हे सारे विश्व माझ्या एका लहानशा अंशाने धरून ठेवले आहे. हे जाणणारे लोक स्थिर प्रेमाने भक्ती करतात, आणि मी त्यांना माझ्या जवळ येण्याची बुद्धी देतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Learning to look for light",
+    "hi": {
+     "text": "प्रकाश को खोजना सीखें",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रकाश शोधायला शिकणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Our days are crowded with problems, and it is easy to see only what is wrong. This chapter trains the eye to look for what is shining. Watch a sunrise, hear a child laugh, notice someone doing something kind. Whether you call it divine or simply wonderful, give it your attention.\n\nTry a small game today. Find three things that fill you with awe or quiet joy, and name them out loud or in a notebook. People who keep this habit often report feeling more grateful and less alone. The world, this chapter says, is lit from within, and all we need to do is look. Gratitude of this kind costs nothing, yet it quietly turns an ordinary day into one full of small gifts.",
+    "hi": {
+     "text": "हमारे दिन समस्याओं से भरे हैं, और केवल जो गलत है वही दिखना आसान है। यह अध्याय आँख को जो चमक रहा है उसे खोजना सिखाता है। सूर्योदय देखिए, बच्चे की हँसी सुनिए, किसी को भला काम करते हुए ध्यान से देखिए। आप उसे दिव्य कहें या केवल अद्भुत, उस पर अपना ध्यान टिकाइए।\n\nआज एक छोटा खेल खेलिए। तीन ऐसी चीज़ें खोजिए जो आपको विस्मय या शांत आनंद से भर दें, और उन्हें ज़ोर से बोलिए या डायरी में लिख लीजिए। जो लोग यह आदत डालते हैं, वे अक्सर कहते हैं कि उन्हें अधिक कृतज्ञता और कम अकेलापन महसूस होता है। इस अध्याय का कहना है कि संसार भीतर से प्रकाशित है, बस हमें देखना है। ऐसी कृतज्ञता में कुछ खर्च नहीं होता, फिर भी वह चुपचाप साधारण दिन को छोटी-छोटी सौगातों से भर देती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपले दिवस अडचणींनी भरलेले असतात आणि जे चुकले आहे तेवढेच दिसणे सोपे असते. हा अध्याय डोळ्यांना जे झळकते आहे ते शोधायला शिकवतो. सूर्योदय पाहा, लहान मुलाचे हसणे ऐका, कोणी चांगले काम करताना पाहिले तर ते लक्षात घ्या. त्याला दैवी म्हणा किंवा नुसते सुंदर म्हणा, पण त्याकडे लक्ष द्या.\n\nआज एक छोटा खेळ करून पाहा. ज्या तीन गोष्टी तुम्हाला आश्चर्याने किंवा शांत आनंदाने भरतात त्या शोधा, आणि त्यांची नावे मोठ्याने किंवा वहीत लिहा. ही सवय जपणाऱ्या लोकांना अधिक कृतज्ञ आणि कमी एकटे वाटते, असे ते सांगतात. हे जग आतून उजळलेले आहे, आपल्याला फक्त पाहायचे आहे, असे हा अध्याय सांगतो. अशी कृतज्ञता काहीच खर्च करत नाही, तरी ती साधा दिवसही लहानलहान देणग्यांनी भरून टाकते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः । अहमादिश्च मध्यं च भूतानामन्त एव च ॥",
+  "cite": {
+   "en": "Bhagavad Gita 10.20",
+   "hi": {
+    "text": "भगवद्गीता 10.20",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता १०.२०",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "I am the self living in the heart of every being, and I am also their beginning, their middle and their end.",
+   "hi": {
+    "text": "हे अर्जुन, मैं सब प्राणियों के हृदय में बसा आत्मा हूँ, और मैं ही उन सबका आदि, मध्य और अंत भी हूँ।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "हे अर्जुना, सर्व प्राण्यांच्या हृदयात वसलेला आत्मा मीच आहे, आणि त्यांचा आदि, मध्य आणि अंतही मीच आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What beautiful or powerful thing did you notice recently? Today, spot three more and thank them quietly.",
+  "hi": {
+   "text": "हाल में आपने कौन-सी सुंदर या सशक्त चीज़ देखी? आज तीन और खोजिए और मन-ही-मन उनका आभार मानिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अलीकडे तुम्हाला कोणती सुंदर किंवा सामर्थ्यवान गोष्ट जाणवली? आज आणखी तीन शोधा आणि त्यांना मनातल्या मनात धन्यवाद द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Wherever beauty and strength appear, a spark of the divine is shining.",
+  "hi": {
+   "text": "जहाँ भी सौंदर्य और शक्ति दिखे, वहाँ प्रभु की एक चिंगारी चमक रही है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जिथे जिथे सौंदर्य आणि सामर्थ्य दिसते, तिथे परमात्म्याची ठिणगी तेजाने चमकत असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 10 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 10 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय १० (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

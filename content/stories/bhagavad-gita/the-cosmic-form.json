@@ -1,0 +1,231 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-cosmic-form",
+ "order": 11,
+ "part": "bhakti",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Cosmic Form",
+  "hi": {
+   "text": "विश्वरूप",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "विश्वरूप",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Arjuna is given a glimpse of the whole universe within Krishna, then asks to see his gentle, friendly face again.",
+  "hi": {
+   "text": "अर्जुन को श्रीकृष्ण में पूरे ब्रह्मांड की झलक मिलती है, फिर वे उनका वही सौम्य, मित्र जैसा मुख फिर से देखना चाहते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुनाला श्रीकृष्णात संपूर्ण विश्वाचे दर्शन घडते, आणि मग तो त्यांचे सौम्य, मैत्रीपूर्ण रूप पुन्हा पाहण्याची विनंती करतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/bhagavad-gita/gita-4.webp",
+   "w": 768,
+   "h": 484,
+   "caption": {
+    "en": "Arjuna before Krishna's cosmic form (Indian painting, Brooklyn Museum)",
+    "hi": {
+     "text": "श्रीकृष्ण के विश्वरूप के सामने अर्जुन (भारतीय चित्र, ब्रुकलिन संग्रहालय)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाच्या विश्वरूपासमोर अर्जुन (भारतीय चित्र, ब्रुकलिन संग्रहालय)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Vishvarupa_The_Cosmic_Form_of_Krishna.jpg"
+  },
+  {
+   "src": "/stories/bhagavad-gita/gita-5.webp",
+   "w": 583,
+   "h": 558,
+   "caption": {
+    "en": "Krishna reveals his cosmic form to Arjuna (Punjabi manuscript, 18th century)",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन को विश्वरूप दिखाते हैं (पंजाबी पांडुलिपि, अठारहवीं सदी)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला विश्वरूप दाखवतात (पंजाबी हस्तलिखित, अठरावे शतक)",
+     "reviewed": false
+    }
+   },
+   "credit": "SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_revealing_his_vishvarupa_to_Arjuna,_from_an_illustrated_Punjabi_manuscript_in_Gurmukhi,_18th_century_CE,_Himachal_State_Museum,_Shimla_(cropped).jpg"
+  },
+  {
+   "src": "/stories/bhagavad-gita/gita-7.webp",
+   "w": 413,
+   "h": 628,
+   "caption": {
+    "en": "Vishwaroopa darshan: Arjuna sees the countless faces of the Lord (modern painting)",
+    "hi": {
+     "text": "विश्वरूप दर्शन: अर्जुन प्रभु के अनगिनत मुख देखते हैं (आधुनिक चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विश्वरूपदर्शन: अर्जुन प्रभूची असंख्य मुखे पाहतो (आधुनिक चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Krishna Iyerr, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vishwaroopa_darshanam.png"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A request to see",
+    "hi": {
+     "text": "दर्शन की प्रार्थना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाहण्याची विनंती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna says his confusion has melted away after all that he has heard. But he has one more wish: to see, with his own eyes, the divine form Krishna has been describing. If it is possible, he asks, please show me.\n\nKrishna agrees. He tells Arjuna that his ordinary eyes cannot see this, and so he grants him a divine sight. Suddenly Arjuna beholds a form beyond measure, with countless faces and eyes, wearing wondrous ornaments, and holding many raised weapons. The brilliance of a thousand suns rising at once in the sky, Sanjaya says, might be like the radiance of that great being. He is both eager and a little afraid, as anyone is when asking to see something far bigger than themselves.",
+    "hi": {
+     "text": "अर्जुन कहते हैं कि सब कुछ सुनकर उनका मोह मिट गया है। पर एक इच्छा और है: श्रीकृष्ण जिस दिव्य रूप का वर्णन कर रहे हैं, उसे अपनी आँखों से देखना। यदि संभव हो, वे कहते हैं, तो मुझे दिखाइए।\n\nश्रीकृष्ण मान जाते हैं। वे कहते हैं कि अर्जुन की साधारण आँखें इसे नहीं देख सकतीं, इसलिए वे उसे दिव्य दृष्टि देते हैं। अचानक अर्जुन एक अपार रूप देखते हैं, जिसके असंख्य मुख और नेत्र हैं, जो अद्भुत आभूषण पहने है और अनेक शस्त्र उठाए हुए है। संजय कहते हैं कि आकाश में एक साथ हज़ार सूर्य उग आएँ, तो शायद उस महान स्वरूप के तेज जैसा लगे। अर्जुन उत्सुक भी हैं और थोड़े भयभीत भी, जैसे कोई भी तब होता है जब वह अपने से कहीं विराट कुछ देखने की माँग करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन म्हणतो की इतके ऐकल्यावर माझा मोह विरून गेला आहे. पण आणखी एक इच्छा आहे: श्रीकृष्ण ज्या दिव्य रूपाचे वर्णन करत आहेत ते मला माझ्या डोळ्यांनी पाहायचे आहे. शक्य असेल तर मला ते दाखवा.\n\nश्रीकृष्ण मान्य करतात. ते सांगतात की तुझ्या या सामान्य डोळ्यांनी हे दिसणार नाही, म्हणून मी तुला दिव्य दृष्टी देतो. अचानक अर्जुनाला अपरंपार रूप दिसते: असंख्य मुखे आणि डोळे, अद्भुत अलंकार आणि उगारलेली अनेक शस्त्रे. आकाशात हजार सूर्य एकदम उगवले तर कदाचित त्या महान विभूतीच्या तेजासारखे ते दिसेल, असे संजय सांगतो. अर्जुन उत्सुकही आहे आणि थोडा घाबरलाही आहे, जसा कोणीही आपल्यापेक्षा खूप मोठे काही पाहू इच्छिताना असतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Awe, and then fear",
+    "hi": {
+     "text": "विस्मय, फिर भय",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आश्चर्य, आणि मग भीती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In that form Arjuna sees the whole universe in one place, with all its parts. He sees gods, sages and beings of every kind. He also sees time itself, vast and devouring, with armies rushing into its mouths. His hair stands on end, he trembles, and he folds his hands in reverence.\n\nKrishna explains that he is time, the great force that brings all things to their end, and that the warriors are already undone by it. Arjuna is meant to be an instrument, not the cause. But the vision is too much for a human heart. Shaken, Arjuna begs forgiveness for ever treating Krishna so casually, and asks him to return to the form he knows.",
+    "hi": {
+     "text": "उस रूप में अर्जुन पूरा ब्रह्मांड, उसके सब अंगों सहित, एक ही स्थान पर देखते हैं। वे देवता, ऋषि और हर प्रकार के प्राणी देखते हैं। वे काल को भी देखते हैं, विशाल और सब कुछ निगलता हुआ, जिसके मुखों में सेनाएँ दौड़ी जा रही हैं। उनके रोंगटे खड़े हो जाते हैं, वे काँपते हैं और हाथ जोड़कर प्रणाम करते हैं।\n\nश्रीकृष्ण समझाते हैं कि वे ही काल हैं, वह महाशक्ति जो सबका अंत करती है, और ये योद्धा उसके द्वारा पहले ही मारे जा चुके हैं। अर्जुन को केवल निमित्त बनना है, कारण नहीं। पर यह दर्शन मनुष्य के हृदय के लिए बहुत भारी है। हिल गए अर्जुन क्षमा माँगते हैं कि उन्होंने श्रीकृष्ण के साथ इतना सहज व्यवहार किया, और प्रार्थना करते हैं कि वे अपने उसी परिचित रूप में लौट आएँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या रूपात अर्जुनाला संपूर्ण विश्व एकाच ठिकाणी, सर्व अंगांसकट दिसते. त्याला देव, ऋषी आणि सर्व प्रकारचे प्राणी दिसतात. त्याला काळही दिसतो, अफाट आणि सर्व काही गिळणारा, ज्याच्या मुखांत सेना धावत जात आहेत. त्याच्या अंगावर काटा येतो, तो थरथरतो आणि श्रद्धेने हात जोडतो.\n\nश्रीकृष्ण सांगतात की मीच काळ आहे, सर्व गोष्टींचा अंत करणारी महान शक्ती, आणि हे योद्धे आधीच त्याने संपवले आहेत. अर्जुन केवळ निमित्त आहे, कर्ता नाही. पण हे दर्शन मानवी हृदयाला सहन होण्यासारखे नाही. हादरलेला अर्जुन श्रीकृष्णाशी आजवर सलगीने वागल्याबद्दल क्षमा मागतो, आणि त्यांनी आपल्या परिचित रूपात परतावे अशी विनंती करतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Awe, and the friendly face",
+    "hi": {
+     "text": "विस्मय और सखा का सौम्य मुख",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आश्चर्य, आणि मैत्रीचा चेहरा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna smiles and returns to his gentle human form, and Arjuna says his mind is calm again. Many readers love this ending. The greatest wonder is not meant to frighten us away. It is followed by tenderness, and the friend on the chariot is still there.\n\nIn daily life we also meet things too big to grasp, such as the night sky, a great illness or a loss that shakes everything. This chapter says awe is allowed, and so is wanting to come back to something familiar. Today, step outside, look up for a minute, and then turn to someone you love and thank them for being near. Awe passes, and what remains is a quiet closeness, a steady friendship that holds us through both wonder and fear.",
+    "hi": {
+     "text": "श्रीकृष्ण मुस्कुराते हैं और अपने सौम्य मानव रूप में लौट आते हैं, और अर्जुन कहते हैं कि उनका मन फिर शांत हो गया है। बहुत से पाठक इस अंत को पसंद करते हैं। सबसे बड़ा आश्चर्य हमें डराकर दूर भगाने के लिए नहीं है। उसके पीछे कोमलता आती है, और रथ पर बैठा मित्र वहीं रहता है।\n\nरोज़ के जीवन में भी हमें ऐसी चीज़ें मिलती हैं जो समझ से बहुत बड़ी हैं: रात का आकाश, कोई गंभीर रोग, या ऐसी क्षति जो सब कुछ हिला दे। यह अध्याय कहता है कि विस्मय में डूबना ठीक है, और किसी जाने-पहचाने सहारे की ओर लौटने की चाह भी ठीक है। आज बाहर निकलिए, एक मिनट ऊपर आकाश को देखिए, फिर किसी प्रिय की ओर मुड़कर पास होने के लिए उसे धन्यवाद दीजिए। विस्मय बीत जाता है, और जो रह जाता है वह है शांत अपनापन, वह स्थिर मित्रता जो अचरज और भय, दोनों में हमें थामे रखती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण हसतात आणि आपल्या सौम्य मानवी रूपात परत येतात, आणि अर्जुन म्हणतो की माझे मन पुन्हा शांत झाले. अनेक वाचकांना हा शेवट आवडतो. सर्वांत मोठे आश्चर्य आपल्याला घाबरवून दूर लोटण्यासाठी नाही. त्यानंतर प्रेमळपणा येतो, आणि रथावरचा तो मित्र अजूनही तिथेच असतो.\n\nरोजच्या जीवनातही आपल्याला पेलवणार नाहीत अशा गोष्टी भेटतात: रात्रीचे आकाश, मोठा आजार किंवा सारे हादरवून टाकणारे नुकसान. आश्चर्य वाटणे योग्य आहे, आणि परिचित गोष्टींकडे परत येण्याची इच्छा होणेही योग्य आहे, असे हा अध्याय सांगतो. आज बाहेर जा, एक मिनिट वर आकाशाकडे पाहा, आणि मग आपल्या प्रिय व्यक्तीकडे वळून ती जवळ असल्याबद्दल तिचे आभार माना. आश्चर्य ओसरते, आणि उरते ती शांत जवळीक, एक स्थिर मैत्री जी आश्चर्यात आणि भीतीतही आपल्याला धरून ठेवते.",
+     "reviewed": false
+    }
+   },
+   "image": 2
+  }
+ ],
+ "verse": {
+  "text": "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता । यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ॥",
+  "cite": {
+   "en": "Bhagavad Gita 11.12",
+   "hi": {
+    "text": "भगवद्गीता 11.12",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता ११.१२",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "If a thousand suns rose in the sky together, their blaze might come close to the brilliance of that great being.",
+   "hi": {
+    "text": "यदि आकाश में हज़ार सूर्य एक साथ उदित हो जाएँ, तो भी उनका प्रकाश शायद उस महान स्वरूप के तेज के निकट पहुँचे।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "आकाशात हजार सूर्य एकदम उगवले, तर त्यांचा प्रकाश कदाचित त्या महान विभूतीच्या तेजाशी बरोबरी करू शकेल.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When did something vast leave you speechless? Take one minute outdoors today to feel small in a good way.",
+  "hi": {
+   "text": "कब किसी विशाल बात ने आपको निःशब्द कर दिया? आज एक मिनट बाहर खड़े होकर अच्छे अर्थ में खुद को छोटा महसूस कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एखाद्या अफाट गोष्टीने तुम्हाला कधी नि:शब्द केले होते? आज एक मिनिट बाहेर जाऊन चांगल्या अर्थाने आपण लहान असल्याचा अनुभव घ्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Awe humbles us, and a friendly presence brings us home again.",
+  "hi": {
+   "text": "विस्मय हमें विनम्र बनाता है, और एक स्नेह भरी उपस्थिति हमें फिर घर ले आती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आश्चर्य आपल्याला नम्र करते, आणि मैत्रीची सोबत आपल्याला पुन्हा घरी आणते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 11 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 11 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय ११ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "three-threads",
+ "order": 14,
+ "part": "jnana",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Three Threads",
+  "hi": {
+   "text": "तीन गुण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तीन गुण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Clarity, restlessness and dullness weave through every mind, and Krishna shows how to rise above all three.",
+  "hi": {
+   "text": "स्पष्टता, चंचलता और जड़ता हर मन में बुनी हुई हैं, और श्रीकृष्ण तीनों से ऊपर उठना सिखाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "स्पष्टता, अस्वस्थता आणि जडता प्रत्येक मनात गुंफलेली असतात, आणि या तिन्हींच्या पलीकडे कसे जावे ते श्रीकृष्ण दाखवतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/bhagavad-gita/gita-3.webp",
+   "w": 1080,
+   "h": 810,
+   "caption": {
+    "en": "Krishna speaks to Arjuna on the battlefield (wall relief, Bishnupur)",
+    "hi": {
+     "text": "युद्धभूमि में श्रीकृष्ण अर्जुन से बात करते हैं (भित्ति उभार, बिष्णुपुर)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रणभूमीवर श्रीकृष्ण अर्जुनाशी बोलतात (भित्तिशिल्प, बिष्णुपूर)",
+     "reviewed": false
+    }
+   },
+   "credit": "Arnab Dutta, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhagavata_Gita_Bishnupur_Arnab_Dutta_2011.JPG"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Three qualities of nature",
+    "hi": {
+     "text": "प्रकृति के तीन गुण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रकृतीचे तीन गुण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna tells Arjuna about three threads that nature weaves into every being: sattva, rajas and tamas. Sattva is clarity, lightness and calm. Rajas is restlessness, craving and busy striving. Tamas is dullness, heaviness and confusion. All three are always present in us, and the strongest one at any time colours how we feel and act.\n\nHe gives clear signs. When clarity rises, understanding shines through the senses and a gentle happiness comes. When restlessness rises, greed, constant activity and unease appear. When dullness rises, we feel sluggish, careless and foggy. Even a good quality can bind us, he warns, if we become attached to it and forget the one who watches. Seeing this clearly is the beginning of freedom, because what we can name we can begin to guide with patience.",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन को उन तीन सूत्रों के विषय में बताते हैं जो प्रकृति हर प्राणी में बुनती है: सत्त्व, रजस और तमस। सत्त्व स्पष्टता, हल्कापन और शांति है। रजस बेचैनी, लालसा और व्यस्त दौड़-भाग है। तमस जड़ता, भारीपन और भ्रम है। ये तीनों हममें सदा रहते हैं, और जो किसी समय सबसे प्रबल होता है, वह हमारे अनुभव और कर्म को रंग देता है।\n\nवे साफ़ लक्षण बताते हैं। जब स्पष्टता बढ़ती है, इंद्रियों से समझ झलकती है और एक कोमल सुख आता है। जब चंचलता बढ़ती है, लोभ, लगातार भाग-दौड़ और बेचैनी दिखती है। जब जड़ता बढ़ती है, हम सुस्त, लापरवाह और धुँधले हो जाते हैं। वे चेताते हैं कि अच्छा गुण भी हमें बाँध सकता है, यदि हम उससे चिपक जाएँ और देखने वाले को भूल जाएँ। इसे साफ़ देखना मुक्ति की शुरुआत है, क्योंकि जिसे हम नाम दे सकते हैं, उसे धैर्य से दिशा देना शुरू कर सकते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला प्रकृती प्रत्येक जीवात विणत असलेल्या तीन धाग्यांविषयी सांगतात: सत्त्व, रज आणि तम. सत्त्व म्हणजे स्पष्टता, हलकेपणा आणि शांतता. रज म्हणजे अस्वस्थता, तृष्णा आणि धावपळीची धडपड. तम म्हणजे जडता, सुस्ती आणि गोंधळ. हे तिन्ही आपल्यात नेहमी असतात, आणि कोणत्याही वेळी जो सर्वांत प्रबळ असतो तो आपल्या वाटण्याला आणि वागण्याला रंग देतो.\n\nते स्पष्ट खुणा सांगतात. सत्त्व वाढले की इंद्रियांतून समज उजळते आणि सौम्य सुख मिळते. रज वाढले की लोभ, सतत धावपळ आणि अस्वस्थता येते. तम वाढले की आळस, निष्काळजीपणा आणि धुके दाटल्यासारखे वाटते. चांगला गुणसुद्धा बांधू शकतो, असा इशारा ते देतात, जर आपण त्याला चिकटलो आणि साक्षी असणाऱ्याला विसरलो. हे स्पष्ट पाहणे हीच मुक्तीची सुरुवात, कारण ज्याला आपण नाव देऊ शकतो त्याला संयमाने दिशा द्यायला लागू शकतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Rising above the threads",
+    "hi": {
+     "text": "गुणों से ऊपर उठना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुणांच्या पलीकडे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The goal, Krishna says, is to go beyond all three, to become the observer who is not shaken when they come and go. Such a person is the same in pleasure and pain, in praise and blame, looking at a lump of earth, a stone and gold with the same eye. They are steady and do not take the changing moods to be who they are.\n\nHe names the way across: loyal devotion that never wavers. One who serves him with steady love moves beyond the threads and becomes fit for the highest freedom. It is a hopeful picture, because it means our moods, even heavy ones, are not the final word about who we are.",
+    "hi": {
+     "text": "श्रीकृष्ण कहते हैं कि लक्ष्य है तीनों से परे जाना, उस साक्षी बन जाना जो इनके आने-जाने पर विचलित नहीं होता। ऐसा मनुष्य सुख और दुख में, प्रशंसा और निंदा में समान रहता है, मिट्टी के ढेले, पत्थर और सोने को एक ही दृष्टि से देखता है। वह स्थिर है और बदलते मनोभावों को अपना असली स्वरूप नहीं मानता।\n\nवे पार जाने का मार्ग भी बताते हैं: अटल, निष्ठावान भक्ति। जो अचल प्रेम से उनकी सेवा करता है, वह गुणों से परे हो जाता है और परम मुक्ति के योग्य बनता है। यह आशा भरा चित्र है, क्योंकि इसका अर्थ है कि हमारे मनोभाव, भारी वाले भी, यह तय करने वाले अंतिम शब्द नहीं हैं कि हम कौन हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ध्येय म्हणजे या तिन्हींच्या पलीकडे जाणे, ते येतात आणि जातात तेव्हा न हादरणारा साक्षी होणे, असे श्रीकृष्ण सांगतात. असा माणूस सुखदुःखात, स्तुतिनिंदेत समान असतो, मातीचे ढेकूळ, दगड आणि सोने यांच्याकडे सारख्याच नजरेने पाहतो. तो स्थिर असतो आणि बदलत्या मनःस्थितींना आपले खरे स्वरूप मानत नाही.\n\nते पार जाण्याचा मार्ग सांगतात: कधीही न ढळणारी निष्ठावान भक्ती. जो स्थिर प्रेमाने त्याची सेवा करतो तो गुणांच्या पलीकडे जातो आणि परम मुक्तीला पात्र होतो. हे आशादायक चित्र आहे, कारण याचा अर्थ असा की आपल्या मनःस्थिती, जड असल्या तरी, आपण कोण आहोत याबद्दलचा अंतिम निर्णय नाहीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Reading your own weather",
+    "hi": {
+     "text": "अपने भीतर का मौसम पढ़ना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपले स्वतःचे हवामान वाचणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Think of the three threads as inner weather. On some days you feel bright and clear, on others fidgety, and on others foggy and slow. Naming the weather honestly is a useful first step. Ask, which thread is strongest right now?\n\nThen give the day a small nudge. If you are foggy, step outside and move. If you are restless, slow your breath and do one thing at a time. If you are clear, use the energy kindly and avoid feeling proud of it. You cannot switch off the weather, but you can learn to stay steady beneath it. This kind of simple self-observation is a practice you can repeat anywhere, in a queue, at your desk or just before sleep, and it asks only for honesty.",
+    "hi": {
+     "text": "तीनों गुणों को भीतर का मौसम समझिए। कुछ दिन आप उज्ज्वल और साफ़ महसूस करते हैं, कुछ दिन बेचैन, और कुछ दिन धुँधले और धीमे। मौसम को ईमानदारी से नाम देना एक उपयोगी पहला कदम है। पूछिए, अभी कौन-सा गुण सबसे प्रबल है?\n\nफिर दिन को एक छोटा-सा धक्का दीजिए। यदि आप धुँधले हैं, बाहर निकलिए और चलिए। यदि बेचैन हैं, साँस धीमी कीजिए और एक बार में एक ही काम कीजिए। यदि स्पष्ट हैं, तो उस ऊर्जा का दयालुता से उपयोग कीजिए और उस पर गर्व मत कीजिए। आप मौसम को बंद नहीं कर सकते, पर उसके नीचे स्थिर रहना सीख सकते हैं। यह सरल आत्म-निरीक्षण ऐसा अभ्यास है जिसे आप कहीं भी दोहरा सकते हैं, कतार में, अपनी मेज़ पर या सोने से ठीक पहले, और इसमें केवल ईमानदारी चाहिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन गुणांना आतले हवामान समजा. काही दिवशी तुम्हाला तेजस्वी आणि स्वच्छ वाटते, काही दिवशी चुळबुळ वाटते, तर काही दिवशी धुके दाटल्यासारखे आणि मंद. हवामानाला प्रामाणिकपणे नाव देणे ही उपयुक्त पहिली पायरी आहे. विचारा: सध्या कोणता गुण सर्वांत प्रबळ आहे?\n\nमग दिवसाला एक लहानसा धक्का द्या. धुके वाटत असेल तर बाहेर पडा आणि हालचाल करा. अस्वस्थ असाल तर श्वास संथ करा आणि एका वेळी एकच काम करा. स्वच्छ वाटत असेल तर त्या शक्तीचा दयाळूपणे वापर करा आणि त्याचा अभिमान टाळा. तुम्ही हवामान बंद करू शकत नाही, पण त्याखाली स्थिर राहायला शिकू शकता. असे साधे आत्मनिरीक्षण तुम्ही कुठेही करू शकता, रांगेत, डेस्कवर किंवा झोपण्याआधी, आणि त्याला फक्त प्रामाणिकपणा लागतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते । स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ॥",
+  "cite": {
+   "en": "Bhagavad Gita 14.26",
+   "hi": {
+    "text": "भगवद्गीता 14.26",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता १४.२६",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "A person who serves the divine with love that never wavers moves beyond these three qualities and becomes ready for freedom.",
+   "hi": {
+    "text": "जो मनुष्य अटल प्रेम से प्रभु की सेवा करता है, वह इन तीनों गुणों से परे हो जाता है और मुक्ति के योग्य बनता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जो ढळून न जाणाऱ्या प्रेमाने परमात्म्याची सेवा करतो, तो या तिन्ही गुणांच्या पलीकडे जातो आणि मुक्तीसाठी सिद्ध होतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Which thread feels strongest in you right now: clarity, restlessness or dullness? Do one small thing to balance it.",
+  "hi": {
+   "text": "इस समय आपमें कौन-सा गुण सबसे प्रबल है: स्पष्टता, चंचलता या जड़ता? उसे संतुलित करने के लिए एक छोटा काम कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सध्या तुमच्यात कोणता गुण सर्वांत प्रबळ आहे: स्पष्टता, अस्वस्थता की जडता? त्याचा समतोल राखण्यासाठी एक लहानशी गोष्ट करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Moods come and go like weather, and the watcher within stays steady.",
+  "hi": {
+   "text": "मनोभाव मौसम की तरह आते-जाते हैं, और भीतर का साक्षी स्थिर रहता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मनःस्थिती हवामानासारख्या येतात आणि जातात, आणि आतला साक्षी स्थिर राहतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 14 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 14 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय १४ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

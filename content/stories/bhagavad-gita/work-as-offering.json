@@ -1,0 +1,194 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "work-as-offering",
+ "order": 3,
+ "part": "karma",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Work as Offering",
+  "hi": {
+   "text": "कर्म, एक अर्पण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कर्म हे अर्पण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Nobody can stop acting, so Krishna shows how to turn everyday work into something generous and freeing.",
+  "hi": {
+   "text": "कोई भी कर्म करना नहीं छोड़ सकता, इसलिए श्रीकृष्ण सिखाते हैं कि रोज़ के काम को उदार और मुक्त करने वाला कैसे बनाएँ।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणीही कर्म थांबवू शकत नाही, म्हणून रोजचे काम उदार आणि मुक्त करणारे कसे करावे ते श्रीकृष्ण सांगतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/bhagavad-gita/gita-2.webp",
+   "w": 960,
+   "h": 720,
+   "caption": {
+    "en": "Krishna and Arjuna on the chariot, a garden sculpture",
+    "hi": {
+     "text": "रथ पर श्रीकृष्ण और अर्जुन, एक उद्यान की मूर्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रथावर श्रीकृष्ण आणि अर्जुन, एका उद्यानातील शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "Yugaljoshi, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lord_Krishna_and_Arjuna.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "But you said knowledge is higher",
+    "hi": {
+     "text": "पर आपने तो ज्ञान को श्रेष्ठ कहा था",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण तू ज्ञान श्रेष्ठ म्हटलेस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna is puzzled. Krishna has praised wisdom so highly, so why is he now urging Arjuna to act, and in a fierce battle at that? If knowing is better than doing, Arjuna asks, why push him into something so dreadful? He wants one clear path, not a tangle of advice.\n\nKrishna answers that no one can remain without acting, even for a moment. Breathing, eating and thinking are all action. Sitting still while your mind chases desires is not freedom, only confusion in disguise. Since action cannot be avoided, the real question is how to act, and this is where the teaching of karma yoga begins. He wants one clear road to follow, and he feels the advice has left him standing at a crossing.",
+    "hi": {
+     "text": "अर्जुन उलझन में हैं। श्रीकृष्ण ने ज्ञान की इतनी प्रशंसा की है, फिर अब वे अर्जुन को कर्म के लिए, और वह भी घोर युद्ध में, क्यों प्रेरित कर रहे हैं? यदि जानना करने से श्रेष्ठ है, अर्जुन पूछते हैं, तो उन्हें इतने भयावह काम में क्यों धकेला जा रहा है? वे एक स्पष्ट मार्ग चाहते हैं, सलाहों की उलझन नहीं।\n\nश्रीकृष्ण उत्तर देते हैं कि कोई एक क्षण भी बिना कर्म किए नहीं रह सकता। साँस लेना, खाना और सोचना, सब कर्म हैं। मन जब कामनाओं के पीछे दौड़ रहा हो, तब चुपचाप बैठे रहना मुक्ति नहीं, केवल वेश बदली हुई उलझन है। कर्म से बचा नहीं जा सकता, इसलिए असली प्रश्न यह है कि कर्म कैसे करें, और यहीं से कर्मयोग का उपदेश आरंभ होता है। वे एक स्पष्ट मार्ग चाहते हैं, और उन्हें लगता है कि सलाह ने उन्हें चौराहे पर खड़ा कर दिया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन गोंधळतो. श्रीकृष्णांनी ज्ञानाची इतकी स्तुती केली आहे, मग आता ते अर्जुनाला कर्म करण्याचा आग्रह का करत आहेत, आणि तेही भयंकर युद्धात? जाणणे हे करण्यापेक्षा श्रेष्ठ असेल तर मला इतक्या भयानक कर्मात का ढकलता, असे अर्जुन विचारतो. त्याला सल्ल्यांचा गुंता नको, एकच स्पष्ट मार्ग हवा आहे.\n\nश्रीकृष्ण उत्तर देतात की क्षणभरही कोणी कर्म केल्याशिवाय राहू शकत नाही. श्वास घेणे, खाणे आणि विचार करणे हेही कर्मच. मन इच्छांच्या मागे धावत असताना स्थिर बसणे ही मुक्ती नाही, तर वेशातला गोंधळ आहे. कर्म टाळता येत नाही, म्हणून खरा प्रश्न कर्म कसे करावे हा आहे, आणि इथूनच कर्मयोगाची शिकवण सुरू होते. त्याला एक स्पष्ट मार्ग हवा आहे, आणि या सल्ल्याने आपण चौकात उभे राहिलो आहोत असे त्याला वाटते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Work as yajna",
+    "hi": {
+     "text": "कर्म ही यज्ञ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कर्म हाच यज्ञ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna calls the answer yajna, which means offering. Work done as a gift, not as a grab, loosens the knot of selfishness. He reminds Arjuna that we live on what the world gives us: rain, grain, air, the labour of others. A life that only takes is out of balance, and giving back brings it into harmony.\n\nHe also points to good leaders, whose example others follow. Doing your work well, for the good of the whole world, is called loka-sangraha. Krishna says he himself is always at work, though he needs nothing. Desire and anger, he warns, are the great enemies that pull us off course, and he urges Arjuna to master them by turning towards his own duty.",
+    "hi": {
+     "text": "श्रीकृष्ण इसका उत्तर यज्ञ को बताते हैं, जिसका अर्थ है अर्पण। जो काम उपहार की तरह किया जाए, छीनने की तरह नहीं, वह स्वार्थ की गाँठ ढीली करता है। वे अर्जुन को याद दिलाते हैं कि हम उसी पर जीते हैं जो संसार हमें देता है: वर्षा, अन्न, वायु, दूसरों का श्रम। जो जीवन केवल लेता है, वह असंतुलित है, और लौटाने से वह सामंजस्य में आता है।\n\nवे श्रेष्ठ नेताओं की ओर भी संकेत करते हैं, जिनके उदाहरण का दूसरे अनुसरण करते हैं। पूरे संसार के हित के लिए अपना कर्म अच्छी तरह करना लोकसंग्रह कहलाता है। श्रीकृष्ण कहते हैं कि वे स्वयं सदा कर्म में लगे रहते हैं, यद्यपि उन्हें किसी चीज़ की आवश्यकता नहीं। काम और क्रोध, वे चेताते हैं, वे महान शत्रु हैं जो हमें राह से भटकाते हैं, और वे अर्जुन को अपने कर्तव्य की ओर मुड़कर उन पर विजय पाने को कहते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण याचे उत्तर यज्ञ असे सांगतात, म्हणजे अर्पण. हिसकावून घेण्याच्या भावनेने नव्हे तर भेट म्हणून केलेले काम स्वार्थाची गाठ सैल करते. ते अर्जुनाला आठवण करून देतात की आपण जगाने दिलेल्या गोष्टींवर जगतो: पाऊस, धान्य, हवा, इतरांचे श्रम. फक्त घेणारे जीवन असंतुलित असते, आणि परत देण्याने ते सुसंवादात येते.\n\nते चांगल्या नेत्यांकडेही बोट दाखवतात, ज्यांचे उदाहरण इतर पाळतात. संपूर्ण जगाच्या कल्याणासाठी आपले काम चांगले करणे याला लोकसंग्रह म्हणतात. श्रीकृष्ण म्हणतात की मला काहीही गरज नसतानाही मी स्वतः सतत कर्म करत असतो. काम आणि क्रोध हे आपल्याला मार्गावरून ढळवणारे मोठे शत्रू आहेत, असा इशारा देऊन ते अर्जुनाला स्वतःच्या कर्तव्याकडे वळून त्यांवर विजय मिळवण्याचा आग्रह करतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Ordinary work, quiet freedom",
+    "hi": {
+     "text": "साधारण कर्म, शांत मुक्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "साधे काम, शांत मुक्ती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "You do not need a battlefield to practise this. Cooking for a family, answering a customer, fixing a bug, teaching a class: any of it can be treated as an offering to something larger than yourself. Ask who benefits from what you are doing, and do it with that person in mind.\n\nMany people notice that this shift lightens a heavy day. Tasks stop being a pile of burdens and become small gifts. It also guards against two traps, laziness and burnout, because you act steadily without needing applause. Try beginning your next task with a silent thought: may this be useful to someone. Even small acts, done this way, add up to a life that feels meaningful, calm and connected to the people around you.",
+    "hi": {
+     "text": "इसका अभ्यास करने के लिए आपको युद्धभूमि नहीं चाहिए। परिवार के लिए खाना बनाना, किसी ग्राहक को उत्तर देना, कोई खराबी ठीक करना, कक्षा पढ़ाना: इनमें से कोई भी काम अपने से बड़ी किसी सत्ता को अर्पण मानकर किया जा सकता है। पूछिए कि आप जो कर रहे हैं उससे किसका भला होता है, और उसी को ध्यान में रखकर कीजिए।\n\nबहुत से लोग देखते हैं कि इस बदलाव से भारी दिन हल्का हो जाता है। काम बोझों का ढेर नहीं रहते, छोटे उपहार बन जाते हैं। यह दो जालों से भी बचाता है, आलस्य और थकान से टूटना, क्योंकि आप तालियों की ज़रूरत के बिना स्थिरता से कर्म करते हैं। अपना अगला काम एक मौन विचार से शुरू कीजिए: यह किसी के काम आए। इस तरह किए गए छोटे कर्म भी जुड़कर ऐसा जीवन बनाते हैं जो सार्थक, शांत और आसपास के लोगों से जुड़ा हुआ लगता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हे आचरणात आणण्यासाठी रणभूमीची गरज नाही. कुटुंबासाठी स्वयंपाक करणे, ग्राहकाला उत्तर देणे, दोष दुरुस्त करणे, वर्ग शिकवणे: यांतल्या कोणत्याही कामाकडे आपल्याहून मोठ्या शक्तीला केलेले अर्पण म्हणून पाहता येते. आपल्या कामाचा फायदा कोणाला होतो ते विचारा, आणि त्या व्यक्तीला मनात ठेवून ते करा.\n\nअनेकांना जाणवते की या बदलाने जड दिवस हलका होतो. कामे ओझ्यांचा ढीग न राहता लहान भेटी बनतात. हे आळस आणि थकवा या दोन सापळ्यांपासूनही वाचवते, कारण टाळ्यांची गरज न ठेवता तुम्ही स्थिरपणे कर्म करता. तुमचे पुढचे काम मनातल्या मनात अशा विचाराने सुरू करून पाहा: हे कोणाच्यातरी उपयोगी पडो. अशा प्रकारे केलेली छोटी कृतीसुद्धा मिळून अर्थपूर्ण, शांत आणि आजूबाजूच्या माणसांशी जोडलेले जीवन घडवते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् । स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥",
+  "cite": {
+   "en": "Bhagavad Gita 3.35",
+   "hi": {
+    "text": "भगवद्गीता 3.35",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता ३.३५",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Walking your own path imperfectly is wiser than copying someone else’s path flawlessly. Another person’s road can be a frightening place to stand.",
+   "hi": {
+    "text": "अपने धर्म पर अधूरे ढंग से चलना भी दूसरे के धर्म की पूर्ण नकल से श्रेष्ठ है। दूसरे का मार्ग भय देने वाला स्थान हो सकता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "दुसऱ्याचा मार्ग निर्दोषपणे चालण्यापेक्षा आपला स्वतःचा मार्ग अपूर्णपणे चालणे अधिक शहाणपणाचे. दुसऱ्याचा मार्ग भयावह ठरू शकतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What one task today could you treat as a gift to someone else? Begin it with a quiet thought of who it will help.",
+  "hi": {
+   "text": "आज कौन-सा एक काम आप किसी दूसरे के लिए उपहार मानकर कर सकते हैं? उसे इस शांत विचार से आरंभ कीजिए कि उससे किसका भला होगा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आज कोणते एक काम तुम्ही दुसऱ्यासाठी भेट म्हणून करू शकाल? ते कोणाच्या उपयोगी पडेल याचा शांत विचार करून सुरू करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Work done as an offering for others sets the heart free.",
+  "hi": {
+   "text": "दूसरों के लिए अर्पण की तरह किया गया कर्म हृदय को मुक्त कर देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "इतरांसाठी अर्पण म्हणून केलेले कर्म हृदयाला मुक्त करते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 3 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 3 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय ३ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "arjunas-despair",
+ "order": 1,
+ "part": "karma",
+ "figure": {
+  "en": "Krishna and Arjuna",
+  "hi": {
+   "text": "श्रीकृष्ण और अर्जुन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्ण आणि अर्जुन",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Arjuna’s Despair",
+  "hi": {
+   "text": "अर्जुन का विषाद",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुनाचा विषाद",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "On the edge of a great battle, the bravest archer of his age puts down his bow and admits he is lost.",
+  "hi": {
+   "text": "महायुद्ध के किनारे खड़ा अपने युग का सबसे वीर धनुर्धर धनुष नीचे रख देता है और मान लेता है कि वह राह भूल गया है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मोठ्या युद्धाच्या उंबरठ्यावर त्या काळातला श्रेष्ठ धनुर्धर धनुष्य खाली ठेवतो आणि आपण गोंधळलो आहोत हे कबूल करतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gita/1.webp",
+   "w": 780,
+   "h": 567,
+   "caption": {
+    "en": "Arjuna asks Krishna for guidance (Indian painting, Wellcome Collection)",
+    "hi": {
+     "text": "अर्जुन श्रीकृष्ण से मार्गदर्शन माँगते हैं (भारतीय चित्र, वेलकम संग्रह)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन श्रीकृष्णाकडे मार्गदर्शन मागतो (भारतीय चित्र, वेलकम संग्रह)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown, CC BY 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_scene_from_the_Mahabharata;_Arjuna_requests_instruction_fr_Wellcome_V0045044.jpg"
+  },
+  {
+   "src": "/stories/bhagavad-gita/gita-1.webp",
+   "w": 880,
+   "h": 1100,
+   "caption": {
+    "en": "Krishna drives Arjuna's chariot (Indian painting)",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन का रथ चलाते हैं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाचा रथ चालवतात (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_Arjuna_Gita.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Two armies, one trembling archer",
+    "hi": {
+     "text": "दो सेनाएँ, एक काँपता धनुर्धर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन सेना, एक थरथरणारा धनुर्धर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The old king Dhritarashtra, who cannot see, asks his minister Sanjaya what is happening on the field of Kurukshetra. Sanjaya describes two vast armies facing each other, conch shells sounding, banners lifting in the wind. Arjuna, the finest archer of his side, asks his charioteer Krishna to halt the chariot between the lines so he can see who has come to fight.\n\nWhat he sees undoes him. On both sides stand his teachers, uncles, cousins and friends. His mouth goes dry, his skin burns, his hands shake, and the great bow slips from his grasp. He cannot picture any victory worth the loss of his own family. He sits down in the chariot, heavy with grief, and says he will not fight.",
+    "hi": {
+     "text": "नेत्रहीन राजा धृतराष्ट्र अपने मंत्री संजय से पूछते हैं कि कुरुक्षेत्र के मैदान में क्या हो रहा है। संजय बताते हैं कि दो विशाल सेनाएँ आमने-सामने खड़ी हैं, शंख गूँज रहे हैं, ध्वजाएँ हवा में लहरा रही हैं। अपने पक्ष के सबसे श्रेष्ठ धनुर्धर अर्जुन अपने सारथी श्रीकृष्ण से कहते हैं कि रथ को दोनों सेनाओं के बीच ले चलें, ताकि वे देख सकें कि लड़ने कौन-कौन आया है।\n\nजो वे देखते हैं, वही उन्हें तोड़ देता है। दोनों ओर उनके गुरु, चाचा, भाई और मित्र खड़े हैं। उनका मुँह सूख जाता है, देह जलने लगती है, हाथ काँपते हैं और विशाल गांडीव उनके हाथ से फिसल जाता है। अपने ही परिवार को खोकर मिली किसी भी जीत की कल्पना वे नहीं कर पाते। शोक से भारी होकर वे रथ में बैठ जाते हैं और कहते हैं कि वे युद्ध नहीं करेंगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंध राजा धृतराष्ट्र आपला मंत्री संजय याला विचारतो की कुरुक्षेत्राच्या रणभूमीवर काय चालले आहे. संजय सांगतो: दोन अफाट सेना समोरासमोर उभ्या आहेत, शंखनाद होत आहेत, ध्वज वाऱ्यावर फडफडत आहेत. आपल्या बाजूचा श्रेष्ठ धनुर्धर अर्जुन सारथी श्रीकृष्णाला सांगतो की रथ दोन्ही सेनांच्या मध्ये उभा कर, म्हणजे लढायला कोण कोण आले आहेत ते मला पाहता येईल.\n\nजे दिसते ते त्याला हादरवून टाकते. दोन्ही बाजूंना त्याचे गुरू, काका, भाऊ आणि मित्र उभे आहेत. त्याचे तोंड कोरडे पडते, अंग पोळते, हात थरथरतात आणि महान धनुष्य हातातून निसटते. आपल्या कुटुंबाचा नाश करून मिळणारा कोणताही विजय त्याला मोलाचा वाटत नाही. दुःखाने जड होऊन तो रथात बसतो आणि म्हणतो की मी लढणार नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The silence of Krishna",
+    "hi": {
+     "text": "श्रीकृष्ण का मौन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णाचे मौन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Notice what Krishna does here: almost nothing. He does not scold Arjuna or rush to fix him. He listens while Arjuna pours out his fears, his confusion and his sense that duty and love have come into conflict. Many teachers say this first chapter is the necessary beginning, because a person who has never felt truly stuck rarely goes looking for deeper answers.\n\nArjuna’s sorrow is also honest. He is not pretending to be strong. He is a good man facing a terrible choice, and his heart is breaking in public. The chapter treats that moment with respect. It suggests that confusion is not a failure of character. It can be the doorway through which real understanding finally gets in.",
+    "hi": {
+     "text": "देखिए, श्रीकृष्ण यहाँ क्या करते हैं: लगभग कुछ नहीं। वे अर्जुन को डाँटते नहीं, न उसे तुरंत ठीक करने दौड़ते हैं। अर्जुन अपने भय, अपनी उलझन और इस पीड़ा को उँडेलता है कि कर्तव्य और प्रेम आपस में टकरा गए हैं, और वे सुनते रहते हैं। बहुत-से आचार्य कहते हैं कि यह पहला अध्याय ज़रूरी आरंभ है, क्योंकि जो कभी सचमुच अटका ही नहीं, वह गहरे उत्तर खोजने नहीं निकलता।\n\nअर्जुन का दुख सच्चा भी है। वह बलवान दिखने का दिखावा नहीं कर रहा। वह एक भला मनुष्य है जो भयंकर चुनाव के सामने खड़ा है, और सबके सामने उसका हृदय टूट रहा है। यह अध्याय उस क्षण को पूरे सम्मान से देखता है। वह संकेत देता है कि उलझन चरित्र की कमी नहीं है। वही वह द्वार हो सकती है जिससे होकर सच्ची समझ भीतर आती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इथे श्रीकृष्ण काय करतात ते पाहा: जवळजवळ काहीच नाही. ते अर्जुनाला रागवत नाहीत, त्याला लगेच सुधारायला जात नाहीत. अर्जुन आपली भीती, गोंधळ आणि कर्तव्य व प्रेम यांच्यातला संघर्ष ओतून देतो, तेव्हा ते शांतपणे ऐकतात. अनेक गुरू सांगतात की हा पहिला अध्याय आवश्यक सुरुवात आहे, कारण ज्याने कधी खरोखर कोंडी अनुभवली नाही, तो खोल उत्तरांच्या शोधात निघतच नाही.\n\nअर्जुनाचे दुःखही प्रामाणिक आहे. तो बलवान असल्याचे नाटक करत नाही. तो एक सज्जन माणूस आहे, समोर भयंकर निवड उभी आहे आणि सर्वांसमोर त्याचे हृदय तुटत आहे. या अध्यायात त्या क्षणाचा आदर केला आहे. गोंधळ हा चारित्र्याचा दोष नसतो, असे तो सुचवतो. खरे आकलन आत शिरण्याचे तेच दार असू शकते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "When you cannot move forward",
+    "hi": {
+     "text": "जब आगे बढ़ना कठिन लगे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुढे जाता येत नाही तेव्हा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Most of us meet our own chariot moment sooner or later: a painful decision at work, a family rift, a duty that clashes with what we love. The body reacts just as Arjuna’s did, with a tight chest, a restless mind and a wish to drop everything and run. It helps to know this is a very human reaction, and that even legends felt it.\n\nThe practical gift of this chapter is permission to stop and be honest. Name what you feel. Say aloud what you are afraid of losing. Then ask for guidance, from a wise friend, a teacher or the quiet part of yourself. Arjuna’s story shows that asking sincerely is the first step toward clarity, and that no one has to carry the confusion alone.",
+    "hi": {
+     "text": "हम में से अधिकतर को देर-सबेर अपना रथ वाला क्षण मिलता है: काम में कोई पीड़ादायक निर्णय, परिवार में दरार, या कोई कर्तव्य जो हमारे प्रेम से टकराता है। देह वैसे ही प्रतिक्रिया करती है जैसे अर्जुन की हुई थी: सीने में जकड़न, बेचैन मन, और सब छोड़कर भाग जाने की इच्छा। यह जान लेना राहत देता है कि यह बहुत मानवीय प्रतिक्रिया है, और महान पुरुषों ने भी इसे सहा है।\n\nइस अध्याय का व्यावहारिक उपहार यह है कि यह रुकने और ईमानदार होने की छूट देता है। जो महसूस हो रहा है, उसे नाम दीजिए। ज़ोर से कहिए कि आपको क्या खोने का डर है। फिर मार्गदर्शन माँगिए: किसी समझदार मित्र से, किसी गुरु से, या अपने भीतर की शांत आवाज़ से। अर्जुन की कथा दिखाती है कि सच्चे मन से पूछना स्पष्टता की पहली सीढ़ी है, और उलझन का बोझ किसी को अकेले नहीं उठाना पड़ता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपल्यापैकी बहुतेकांवर आपापल्या रथातला तो क्षण कधी ना कधी येतोच: कामावरचा एखादा वेदनादायी निर्णय, कुटुंबातला दुरावा, आपल्या आवडीशी भिडणारे एखादे कर्तव्य. शरीरही अर्जुनासारखेच वागते: छातीत दडपण, अस्वस्थ मन आणि सारे सोडून पळून जावेसे वाटणे. ही अगदी माणसाची प्रतिक्रिया आहे, आणि महापुरुषांनाही ती आली होती, हे जाणून घेतल्याने बरे वाटते.\n\nथांबून प्रामाणिक होण्याची परवानगी हीच या अध्यायाची व्यावहारिक देणगी आहे. तुम्हाला जे वाटते त्याला नाव द्या. काय गमावण्याची भीती आहे ते मोठ्याने सांगा. मग मार्गदर्शन मागा: एखाद्या समंजस मित्राकडे, गुरूकडे किंवा आपल्या आतल्या शांत आवाजाकडे. मनापासून विचारणे ही स्पष्टतेची पहिली पायरी आहे, आणि हा गोंधळ एकट्याने वाहावा लागत नाही, असे अर्जुनाची कथा दाखवते.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "verse": {
+  "text": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत संजय ॥",
+  "cite": {
+   "en": "Bhagavad Gita 1.1",
+   "hi": {
+    "text": "भगवद्गीता 1.1",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भगवद्गीता १.१",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Blind king Dhritarashtra asks Sanjaya what his sons and the Pandavas did when they gathered on the sacred field of Kurukshetra, eager to fight. With this question the whole Gita begins.",
+   "hi": {
+    "text": "नेत्रहीन राजा धृतराष्ट्र संजय से पूछते हैं कि पवित्र कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे पुत्रों और पांडवों ने क्या किया। इसी प्रश्न से पूरी गीता का आरंभ होता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अंध राजा धृतराष्ट्र संजयाला विचारतो की युद्धासाठी उत्सुक असलेले माझे पुत्र आणि पांडव पवित्र कुरुक्षेत्रावर जमले तेव्हा त्यांनी काय केले. या प्रश्नाने संपूर्ण गीतेला सुरुवात होते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What decision are you avoiding because every option seems to cost something dear? Today, write down your fear in one honest sentence, then share it with one person you trust.",
+  "hi": {
+   "text": "कौन-सा निर्णय आप टाल रहे हैं, क्योंकि हर विकल्प में कुछ प्रिय खोना पड़ता है? आज अपना डर एक ईमानदार वाक्य में लिखिए, फिर किसी एक भरोसेमंद व्यक्ति से कहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रत्येक पर्यायात काहीतरी प्रिय गमवावे लागते म्हणून तुम्ही कोणता निर्णय टाळत आहात? आज तुमची भीती एका प्रामाणिक वाक्यात लिहा, आणि मग तुमच्या विश्वासातल्या एका व्यक्तीला सांगा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Admitting that you are confused is not weakness; it is where wisdom begins.",
+  "hi": {
+   "text": "यह मान लेना कि आप उलझन में हैं, कमज़ोरी नहीं है; ज्ञान की शुरुआत वहीं से होती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपण गोंधळलो आहोत हे मान्य करणे दुर्बलता नाही; तिथूनच शहाणपण सुरू होते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Bhagavad Gita, chapter 1 (Mahabharata, Bhishma Parva); summary in our own words",
+  "hi": {
+   "text": "भगवद्गीता, अध्याय 1 (महाभारत, भीष्म पर्व); हमारे अपने शब्दों में सार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवद्गीता, अध्याय १ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "dull-boy-and-poor-brahmin",
+ "order": 13,
+ "part": "jnana",
+ "figure": {
+  "en": "Narasimha Saraswati, a boy and a poor brahmin",
+  "hi": {
+   "text": "नृसिंह सरस्वती, एक बालक और एक निर्धन ब्राह्मण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नृसिंह सरस्वती, एक बालक आणि एक गरीब ब्राह्मण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Boy Who Was Laughed At",
+  "hi": {
+   "text": "जिस बालक पर सब हँसते थे",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याला सारे हसत असत तो मुलगा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A child everyone calls dull meets the Guru, and a poor man’s tiny field hides a surprise.",
+  "hi": {
+   "text": "जिसे सब मंदबुद्धि कहते थे, वह बालक गुरु से मिलता है, और एक निर्धन के छोटे-से खेत में एक आश्चर्य छिपा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याला सगळे मंदबुद्धी म्हणतात असा मुलगा गुरूंना भेटतो, आणि एका गरिबाच्या छोट्याशा शेतात एक आश्चर्य दडलेले आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/datta/1.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Shri Dattatreya with the cow and four dogs (Raja Ravi Varma)",
+    "hi": {
+     "text": "गाय और चार श्वानों के साथ श्री दत्तात्रेय (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाय आणि चार श्वानांसह श्री दत्तात्रेय (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Dattatreya.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The boy everyone laughed at",
+    "hi": {
+     "text": "वह बालक जिस पर सब हँसते थे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सारे हसत ते मूल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha told of a boy in a village who could not learn his lessons. Letters swam before his eyes, and verses would not stay in his memory. His teachers lost patience, his classmates laughed, and the village gave him a name that meant slow-witted. The boy grew quiet and sad. Some days he sat alone at the edge of the lane, drawing in the dust, for that was the only thing nobody corrected.\n\nOne day Narasimha Saraswati passed through the village. The boy’s mother brought him, ashamed, and asked for a blessing. The Guru looked at the boy with great warmth and did not see a failure. He saw a child who had never been shown tenderness, and who had therefore never felt safe enough to learn. She had expected a lecture or a cure, and she had braced herself for a long wait, but there was only a gentle gaze.",
+    "hi": {
+     "text": "सिद्ध ने एक गाँव के उस बालक की कथा सुनाई जो अपना पाठ याद नहीं कर पाता था। अक्षर उसकी आँखों के आगे तैरते रहते, और श्लोक स्मरण में टिकते ही न थे। गुरुजन का धैर्य टूट गया, सहपाठी हँसने लगे, और गाँव ने उसे एक ऐसा नाम दे दिया जिसका अर्थ था मंदबुद्धि। बालक चुप और उदास रहने लगा। कुछ दिन वह गली के छोर पर अकेला बैठा धूल में लकीरें खींचता रहता, क्योंकि केवल उसी काम में कोई उसे टोकता नहीं था।\n\nएक दिन नृसिंह सरस्वती उस गाँव से गुज़रे। बालक की माँ उसे लज्जित-सी होकर ले आई और आशीर्वाद माँगा। गुरु ने बालक को बड़े स्नेह से देखा, उन्हें उसमें कोई असफलता नहीं दिखी। उन्हें एक ऐसा बालक दिखा जिसे कभी कोमलता नहीं मिली थी, और इसीलिए जो सीखने जितना सुरक्षित कभी महसूस न कर सका। माँ को उपदेश या उपचार की आशा थी, और उसने लंबी प्रतीक्षा के लिए मन कड़ा कर रखा था, पर वहाँ केवल एक कोमल दृष्टि थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी एका गावातील अशा मुलाची कथा सांगितली, ज्याला आपला पाठ येत नसे. अक्षरे त्याच्या डोळ्यांसमोर तरंगत, आणि श्लोक स्मरणात टिकतच नसत. गुरुजींचा धीर सुटला, वर्गमित्र हसू लागले, आणि गावाने त्याला मंदबुद्धी या अर्थाचे नाव देऊन टाकले. मुलगा शांत आणि उदास झाला. काही दिवस तो गल्लीच्या टोकाला एकटाच बसून धुळीत रेघोट्या ओढत राही, कारण त्या एकाच गोष्टीत त्याला कोणी टोकत नसे.\n\nएके दिवशी नृसिंह सरस्वती त्या गावातून जात होते. मुलाची आई त्याला लाजून घेऊन आली आणि आशीर्वाद मागू लागली. गुरूंनी मुलाकडे मोठ्या प्रेमाने पाहिले, त्यांना त्यात अपयशी मूल दिसले नाही. त्यांना असे मूल दिसले की ज्याला कधी मायेचा स्पर्श मिळाला नव्हता, आणि म्हणूनच शिकण्याइतके सुरक्षित वाटले नव्हते. आईला उपदेशाची किंवा इलाजाची अपेक्षा होती, आणि तिने लांबलचक प्रतीक्षेसाठी मन घट्ट केले होते, पण तिथे फक्त एक मृदू दृष्टी होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A touch and a change",
+    "hi": {
+     "text": "एक स्पर्श और परिवर्तन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक स्पर्श आणि बदल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Gurucharitra tells that the Guru laid his hand on the boy’s head and spoke a few kind words. At once the boy’s face brightened, as if a window had opened. In the days that followed, he began to learn quickly and to speak with confidence, and he grew into a respected scholar. His mother’s eyes filled with tears, and she bowed to the Guru again and again without finding any words to say.\n\nThe villagers who had mocked him fell silent. The Siddha told Namdharak that the lesson is not about magic alone. It is about how much a child, or any person, can grow when someone sincerely believes in them. Many of us carry names given by others, and the Guru’s gift is to remove them gently. Namdharak, who had once been laughed at for a mistake in a school lesson, felt an old pain loosen as he listened.",
+    "hi": {
+     "text": "गुरुचरित्र बताता है कि गुरु ने बालक के सिर पर हाथ रखा और कुछ स्नेह-भरे शब्द कहे। बालक का मुख तुरंत खिल उठा, मानो कोई खिड़की खुल गई हो। आगे के दिनों में वह तेज़ी से सीखने लगा और आत्मविश्वास से बोलने लगा, और बड़ा होकर एक सम्मानित विद्वान बना। माँ की आँखें भर आईं, और वह बार-बार गुरु को प्रणाम करती रही, कुछ कह न सकी।\n\nजिन गाँववालों ने उसका उपहास किया था, वे चुप हो गए। सिद्ध ने नामधारक से कहा कि सीख केवल चमत्कार की नहीं है। वह इस बात की है कि जब कोई सच्चे मन से किसी में विश्वास करता है, तो बालक हो या कोई भी मनुष्य, कितना बढ़ सकता है। हममें से बहुत-से लोग दूसरों के दिए नाम ढोते रहते हैं, और गुरु की देन यह है कि वे उन्हें कोमलता से उतार देते हैं। नामधारक, जिस पर कभी पाठशाला के एक पाठ की चूक पर लोग हँसे थे, ने सुनते हुए एक पुरानी पीड़ा को ढीला पड़ते महसूस किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरुचरित्र सांगते की गुरूंनी मुलाच्या डोक्यावर हात ठेवला आणि काही प्रेमळ शब्द म्हटले. मुलाचा चेहरा तत्क्षणी उजळला, जणू एखादी खिडकी उघडली. पुढच्या दिवसांत तो झटपट शिकू लागला आणि आत्मविश्वासाने बोलू लागला, आणि मोठा होऊन एक आदरणीय विद्वान झाला. त्याच्या आईचे डोळे भरून आले, आणि ती वारंवार गुरूंना नमस्कार करीत राहिली, तिला काही बोलता येईना.\n\nज्या गावकऱ्यांनी त्याची थट्टा केली होती ते गप्प झाले. सिद्धांनी नामधारकाला सांगितले की धडा केवळ चमत्काराचा नाही. कोणीतरी मनापासून विश्वास ठेवतो तेव्हा मूल, किंवा कोणताही माणूस, किती वाढू शकतो याचा आहे. आपल्यापैकी अनेक जण इतरांनी दिलेली नावे वागवत असतात, आणि गुरूंची देणगी ही आहे की ते ती हळूच काढून टाकतात. नामधारक, ज्याला कधी शाळेतील एका पाठातील चुकीसाठी लोक हसले होते, ऐकताना जुनी वेदना सैल होत असल्याचे अनुभवत होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The poor brahmin’s field",
+    "hi": {
+     "text": "निर्धन ब्राह्मण का खेत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गरीब ब्राह्मणाचे शेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In another village lived a poor brahmin with a small field of beans, which was all he had. When the Guru came, the brahmin had no feast to offer, so he offered what he had: a handful of beans from his field, given with trembling hands and a glad heart. Narasimha Saraswati accepted them with delight. The man was a little embarrassed, for it seemed so small, but the Guru ate a bean with evident pleasure and thanked him.\n\nThe Gurucharitra tells that the poor man’s field later revealed a hidden treasure beneath it, so that his family’s hardship came to an end. The Siddha said that the treasure was not the point. What mattered was the gift, small but whole. In that age, wealth and learning were often measured by birth, but the Guru measured only the giving heart. He had been poor for so long that the sudden change took years to feel real, and he never stopped being generous.",
+    "hi": {
+     "text": "एक और गाँव में एक निर्धन ब्राह्मण रहता था, जिसके पास सेम की फलियों का एक छोटा-सा खेत था, बस वही उसका सब कुछ था। जब गुरु आए, तो ब्राह्मण के पास भोज देने को कुछ न था, इसलिए उसने वही अर्पित किया जो उसके पास था: अपने खेत की मुट्ठी भर फलियाँ, काँपते हाथों और प्रसन्न हृदय से। नृसिंह सरस्वती ने उन्हें आनंद से स्वीकार किया। वह मनुष्य थोड़ा संकोच में था, क्योंकि भेंट बहुत छोटी लग रही थी, पर गुरु ने एक फली बड़े चाव से खाई और उसे धन्यवाद दिया।\n\nगुरुचरित्र बताता है कि बाद में उस निर्धन के खेत के नीचे एक गुप्त निधि मिली, और उसके परिवार का कष्ट समाप्त हो गया। सिद्ध ने कहा कि बात निधि की नहीं है। महत्त्व उस भेंट का था, जो छोटी थी पर पूरी थी। उस युग में धन और विद्या अक्सर जन्म से आँके जाते थे, पर गुरु केवल देने वाले हृदय को आँकते थे। वह इतने समय तक निर्धन रहा था कि अचानक आया यह बदलाव सच लगने में उसे बरसों लगे, और वह कभी उदारता से नहीं चूका।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसऱ्या गावात एक गरीब ब्राह्मण राहत होता, ज्याच्याकडे घेवड्याचे एक छोटेसे शेत होते, तेवढेच त्याचे सर्वस्व. गुरू आले, तेव्हा ब्राह्मणाकडे भोजन द्यायला काही नव्हते, म्हणून त्याने जे होते तेच अर्पण केले: आपल्या शेतातील मूठभर शेंगा, थरथरत्या हातांनी आणि आनंदी मनाने. नृसिंह सरस्वतींनी त्या आनंदाने स्वीकारल्या. तो माणूस थोडा संकोचला, कारण देणगी फारच लहान वाटत होती, पण गुरूंनी एक शेंग मोठ्या आवडीने खाल्ली आणि त्याचे आभार मानले.\n\nगुरुचरित्र सांगते की पुढे त्या गरिबाच्या शेताखाली एक गुप्त धन सापडले, आणि त्याच्या कुटुंबाची हालअपेष्टा संपली. सिद्ध म्हणाले की मुद्दा धनाचा नाही. महत्त्वाची होती ती भेट, लहान पण पूर्ण. त्या काळी धन आणि विद्या बहुधा जन्मावरून मोजली जाई, पण गुरू फक्त देणाऱ्या हृदयाला मोजत. तो इतका काळ गरीब राहिला होता की अचानक झालेला बदल खरा वाटायला त्याला वर्षे लागली, आणि तो कधी उदार असण्याचे सोडला नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there a label someone gave you long ago that you still carry? Write it down, then write one kinder sentence that you choose to believe instead.",
+  "hi": {
+   "text": "क्या कोई ऐसा ठप्पा है जो किसी ने बहुत पहले आप पर लगा दिया और आप आज भी उसे ढो रहे हैं? उसे लिखिए, फिर एक अधिक कोमल वाक्य लिखिए जिसे आप उसकी जगह मानना चुनते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणीतरी फार पूर्वी तुम्हाला दिलेला एखादा शिक्का तुम्ही अजूनही वागवता का? तो लिहून काढा, मग त्याच्या जागी तुम्ही मानायचे ठरवलेले एक अधिक प्रेमळ वाक्य लिहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A little belief and a small, whole-hearted gift can change a life more than rank or wealth.",
+  "hi": {
+   "text": "थोड़ा-सा विश्वास और एक छोटी, पूरे मन की भेंट किसी का जीवन पद या धन से अधिक बदल सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "थोडासा विश्वास आणि एक छोटी, पूर्ण मनाची भेट माणसाचे आयुष्य पद किंवा संपत्तीपेक्षा अधिक बदलू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 17-18; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 17 और 18; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय १७ व १८; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "reviewed": false
+  }
+ }
+}

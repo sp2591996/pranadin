@@ -1,0 +1,169 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-devoted-outsider",
+ "order": 18,
+ "part": "karma",
+ "figure": {
+  "en": "Narasimha Saraswati, an outcast devotee and a courtesan",
+  "hi": {
+   "text": "नृसिंह सरस्वती, एक बहिष्कृत भक्त और एक गणिका",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नृसिंह सरस्वती, समाजाने दूर ठेवलेला एक भक्त आणि एक गणिका",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "No One Outside the Door",
+  "hi": {
+   "text": "द्वार के बाहर कोई नहीं",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दाराबाहेर कोणी नाही",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In a world that kept some people at the margins, the Guru opens his arms to the ones nobody would invite.",
+  "hi": {
+   "text": "जिस संसार ने कुछ लोगों को किनारे रखा, उसमें गुरु उन्हीं के लिए बाँहें खोलते हैं जिन्हें कोई आमंत्रित न करता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्या जगाने काही लोकांना कडेला ठेवले, त्यात गुरू त्यांच्यासाठी बाहू पसरतात ज्यांना कोणी बोलावणार नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/datta/1.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Shri Dattatreya with the cow and four dogs (Raja Ravi Varma)",
+    "hi": {
+     "text": "गाय और चार श्वानों के साथ श्री दत्तात्रेय (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाय आणि चार श्वानांसह श्री दत्तात्रेय (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Dattatreya.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The world of that time",
+    "hi": {
+     "text": "उस समय का संसार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या काळाचे जग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha began with a word of honesty. In the Maharashtra of those centuries, society was divided by birth into ranks, and some people were kept away from temples, rites and the study of the Vedas. The Gurucharitra was told in that world, and carries its habits of speech. Namdharak, who had grown up inside such habits without questioning them, listened with a mixture of surprise and relief.\n\nBut the stories in this part, he said, lean the other way. They show the Guru stepping across lines that his society held firm. Namdharak should hear these tales not as endorsing the divisions, but as lifting the veil to show what the Guru valued most: the heart of the one who came. Over the centuries, many thoughtful readers have noticed that the story’s warmth reaches further than its customs could.",
+    "hi": {
+     "text": "सिद्ध ने ईमानदारी की एक बात से आरंभ किया। उन सदियों के महाराष्ट्र में समाज जन्म के आधार पर वर्गों में बँटा था, और कुछ लोगों को मंदिरों, अनुष्ठानों और वेदों के अध्ययन से दूर रखा जाता था। गुरुचरित्र उसी संसार में कहा गया था, और उसमें उस काल की बोलचाल की आदतें हैं। नामधारक, जो बिना प्रश्न किए ऐसी आदतों के बीच पला था, ने आश्चर्य और राहत के मिश्रण के साथ सुना।\n\nपर इस भाग की कथाएँ, उन्होंने कहा, दूसरी ओर झुकती हैं। वे गुरु को उन रेखाओं के पार जाते दिखाती हैं जिन्हें उनका समाज दृढ़ता से थामे था। नामधारक इन कथाओं को विभाजनों का समर्थन मानकर न सुने, बल्कि परदा उठाकर यह देखे कि गुरु ने सबसे अधिक किसे महत्त्व दिया: आने वाले का हृदय। सदियों से अनेक विचारशील पाठकों ने देखा है कि कथा की ऊष्मा उसकी रीतियों से कहीं आगे तक पहुँचती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी प्रामाणिकपणाच्या एका शब्दाने सुरुवात केली. त्या शतकांतील महाराष्ट्रात समाज जन्मावरून वर्गांत विभागलेला होता, आणि काही लोकांना देवळे, विधी आणि वेदांच्या अभ्यासापासून दूर ठेवले जाई. गुरुचरित्र त्याच जगात सांगितले गेले होते, आणि त्यात त्या काळाच्या बोलण्याच्या सवयी आहेत. नामधारकाने, जो अशा सवयींमध्ये प्रश्न न विचारता वाढला होता, आश्चर्य आणि सुटकेच्या मिश्र भावनेने ऐकले.\n\nपण या भागातील कथा, ते म्हणाले, दुसऱ्या बाजूला झुकतात. त्या गुरूंना त्या रेषा ओलांडताना दाखवतात ज्या त्यांच्या समाजाने घट्ट धरल्या होत्या. नामधारकाने या कथा विभागणीचे समर्थन म्हणून नव्हे, तर पडदा उचलून गुरूंनी सर्वात जास्त काय महत्त्वाचे मानले हे पाहण्यासाठी ऐकाव्यात: येणाऱ्याचे हृदय. शतकानुशतके अनेक विचारी वाचकांच्या लक्षात आले आहे की कथेची ऊब तिच्या रीतींपेक्षा खूप पुढे पोहोचते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The man shut out",
+    "hi": {
+     "text": "जिसे बाहर रखा गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्याला बाहेर ठेवले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Gurucharitra tells of a man whom society placed at the very edge, and who was not allowed near the learned. He loved the Guru all the same and came with deep faith, standing at a respectful distance. Narasimha Saraswati called him forward and received him as warmly as any scholar. He had waited many years just to be near the Guru, and he asked for nothing beyond permission to bow and to listen.\n\nBy the Guru’s grace, it is told, this man recited the Vedas, words that were forbidden to him by custom. The scholars watching were stunned. The Siddha said that the point was not to prove a rule broken, but to show that grace does not ask for a family name. Devotion, he said, matters more than birth. It is a moment, the Siddha said, when the old rule and the living love stood face to face, and love did not blink.",
+    "hi": {
+     "text": "गुरुचरित्र एक ऐसे मनुष्य की कथा कहता है जिसे समाज ने बिल्कुल किनारे पर रखा था, और जिसे विद्वानों के पास आने की अनुमति नहीं थी। फिर भी वह गुरु से प्रेम करता था और गहरी श्रद्धा से आया, आदरपूर्ण दूरी पर खड़ा रहा। नृसिंह सरस्वती ने उसे आगे बुलाया और किसी भी विद्वान की तरह उसका स्नेह से स्वागत किया। वह बहुत वर्षों से केवल गुरु के निकट होने की प्रतीक्षा करता रहा था, और उसने प्रणाम करने और सुनने की अनुमति के सिवा कुछ नहीं माँगा।\n\nकहते हैं कि गुरु की कृपा से उस मनुष्य ने वेदों का पाठ किया, वे शब्द जो रीति के अनुसार उसके लिए वर्जित थे। देख रहे विद्वान स्तब्ध रह गए। सिद्ध ने कहा कि बात किसी नियम के टूटने को सिद्ध करने की नहीं थी, बल्कि यह दिखाने की थी कि कृपा कुल का नाम नहीं पूछती। उन्होंने कहा कि भक्ति जन्म से अधिक महत्त्व रखती है। सिद्ध ने कहा कि यह वह क्षण है जब पुराना नियम और जीवित प्रेम आमने-सामने खड़े हुए, और प्रेम ने पलक नहीं झपकी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरुचरित्र अशा एका माणसाची कथा सांगते ज्याला समाजाने अगदी कडेला ठेवले होते, आणि ज्याला विद्वानांच्या जवळ येण्याची परवानगी नव्हती. तरीही तो गुरूंवर प्रेम करीत होता आणि खोल श्रद्धेने आला, आदरपूर्ण अंतरावर उभा राहिला. नृसिंह सरस्वतींनी त्याला पुढे बोलावले आणि कोणत्याही विद्वानाप्रमाणे प्रेमाने त्याचे स्वागत केले. तो अनेक वर्षे फक्त गुरूंच्या जवळ असण्याची वाट पाहत राहिला होता, आणि नमस्कार करण्याच्या आणि ऐकण्याच्या परवानगीपलीकडे त्याने काही मागितले नाही.\n\nसांगतात की गुरूंच्या कृपेने त्या माणसाने वेदपठण केले, ते शब्द जे रूढीप्रमाणे त्याला निषिद्ध होते. पाहणारे विद्वान स्तब्ध झाले. सिद्ध म्हणाले की मुद्दा एखादा नियम मोडल्याचे सिद्ध करण्याचा नव्हता, तर हे दाखवण्याचा की कृपा कुळाचे नाव विचारत नाही. ते म्हणाले की भक्ती जन्मापेक्षा अधिक महत्त्वाची आहे. सिद्ध म्हणाले की हा तो क्षण आहे जेव्हा जुना नियम आणि जिवंत प्रेम समोरासमोर उभे राहिले, आणि प्रेमाने पापणी हलवली नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The devoted courtesan",
+    "hi": {
+     "text": "समर्पित गणिका",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निष्ठावान गणिका",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Another tale tells of a woman, a courtesan, whom respectable society looked down upon. She sought the Guru with simple love and great humility, and she served him as she could. Narasimha Saraswati did not shame her or ask about her past. He received her devotion as pure, and blessed her. She had no learning to show and no wealth to give, only a heart that wished to bow and be accepted.\n\nThe Siddha closed the tale quietly. A door kept shut by pride, he said, is opened by love, and no custom can bar the one who truly knocks. Namdharak thought of the many times in his own life he had judged people by their clothes or their names, and he felt a small, honest shame, and a lighter heart. Those who stood nearby, the story says, were quiet for a long while and then, one by one, lowered their eyes.",
+    "hi": {
+     "text": "एक और कथा एक स्त्री की है, एक गणिका, जिसे प्रतिष्ठित समाज नीची दृष्टि से देखता था। वह सरल प्रेम और बड़ी विनम्रता से गुरु के पास आई, और जैसे बन पड़ा उनकी सेवा की। नृसिंह सरस्वती ने न उसे लज्जित किया, न उसके अतीत के बारे में पूछा। उन्होंने उसकी भक्ति को निर्मल माना और उसे आशीर्वाद दिया। उसके पास दिखाने को विद्या न थी, न देने को धन, बस एक हृदय था जो झुकना और स्वीकार किया जाना चाहता था।\n\nसिद्ध ने कथा को शांत भाव से समाप्त किया। उन्होंने कहा कि अहंकार से बंद रखा गया द्वार प्रेम से खुलता है, और कोई भी रीति उसे नहीं रोक सकती जो सच्चे मन से खटखटाता है। नामधारक ने अपने जीवन के उन अनेक अवसरों के बारे में सोचा जब उसने लोगों को उनके वस्त्रों या नामों से परखा था, और उसने एक छोटी, सच्ची लज्जा और एक हल्का हृदय महसूस किया। कथा कहती है कि पास खड़े लोग बहुत देर चुप रहे, और फिर एक-एक करके उन्होंने आँखें झुका लीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आणखी एक कथा एका स्त्रीची आहे, एका गणिकेची, जिच्याकडे प्रतिष्ठित समाज तुच्छतेने पाहत असे. ती साध्या प्रेमाने आणि मोठ्या नम्रतेने गुरूंच्या शोधात आली, आणि जमेल तशी तिने त्यांची सेवा केली. नृसिंह सरस्वतींनी तिला लाजवले नाही, किंवा तिच्या भूतकाळाबद्दल विचारले नाही. त्यांनी तिची भक्ती निर्मळ मानली आणि तिला आशीर्वाद दिला. तिच्याकडे दाखवायला विद्या नव्हती, द्यायला धन नव्हते, फक्त एक हृदय होते ज्याला नमन करायचे होते आणि स्वीकारले जायचे होते.\n\nसिद्धांनी कथा शांतपणे संपवली. ते म्हणाले की अहंकाराने बंद ठेवलेले दार प्रेमाने उघडते, आणि जो खरोखर ठोठावतो त्याला कोणतीही रीत अडवू शकत नाही. नामधारकाने आपल्या आयुष्यातील त्या अनेक प्रसंगांचा विचार केला जेव्हा त्याने लोकांना त्यांच्या कपड्यांवरून किंवा नावांवरून जोखले होते, आणि त्याला एक छोटी, खरी लाज वाटली आणि हृदय हलके झाले. कथा सांगते की जवळ उभे असलेले बराच वेळ गप्प राहिले, आणि मग एकेक करून त्यांनी नजर खाली केली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Whom have you ever judged by their background or job? Greet one such person today with real respect, and learn their name if you do not know it.",
+  "hi": {
+   "text": "आपने किसे कभी उसकी पृष्ठभूमि या काम से परखा है? आज ऐसे किसी एक व्यक्ति का सच्चे आदर से अभिवादन कीजिए, और यदि उसका नाम नहीं जानते तो जान लीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही कधी कोणाला त्याच्या पार्श्वभूमीवरून किंवा कामावरून जोखले आहे? आज अशा एका व्यक्तीला खऱ्या आदराने नमस्कार करा, आणि त्यांचे नाव माहीत नसेल तर जाणून घ्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Devotion matters more than birth, and no one is outside the Guru’s door.",
+  "hi": {
+   "text": "भक्ति जन्म से अधिक महत्त्वपूर्ण है, और गुरु के द्वार के बाहर कोई नहीं है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भक्ती जन्मापेक्षा मोठी आहे, आणि गुरूंच्या दाराबाहेर कोणीही नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 27-28 and 33; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 27, 28 और 33; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय २७, २८ व ३३; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "reviewed": false
+  }
+ }
+}
