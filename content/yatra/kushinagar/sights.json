@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "kushinagar",
+  "sights": [
+    {
+      "id": "parinirvana",
+      "name": {
+        "en": "Mahaparinirvana Temple",
+        "hi": {
+          "text": "महापरिनिर्वाण मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महापरिनिर्वाण मंदिर",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Holds a 6 m reclining Buddha statue.",
+        "hi": {
+          "text": "6 मीटर की लेटी हुई बुद्ध प्रतिमा यहाँ है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "येथे 6 मीटरची पहुडलेली बुद्धमूर्ती आहे.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 7 am to 5 pm",
+        "hi": {
+          "text": "लगभग सुबह 7 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 7 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "ramabhar",
+      "name": {
+        "en": "Ramabhar Stupa",
+        "hi": {
+          "text": "रामभार स्तूप",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रामभार स्तूप",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Marks the place of the Buddha's cremation.",
+        "hi": {
+          "text": "बुद्ध के अंतिम संस्कार का स्थान।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बुद्धांच्या अंत्यसंस्काराचे स्थान.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Sunrise to sunset",
+        "hi": {
+          "text": "सूर्योदय से सूर्यास्त",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सूर्योदय ते सूर्यास्त",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "matha",
+      "name": {
+        "en": "Matha Kuar Shrine",
+        "hi": {
+          "text": "माथा कुँवर मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "माथा कुंवर मंदिर",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Large stone Buddha in the earth-touching pose.",
+        "hi": {
+          "text": "भूमि-स्पर्श मुद्रा में बड़ी पत्थर की बुद्ध प्रतिमा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भूमिस्पर्श मुद्रेतील मोठी दगडी बुद्धमूर्ती.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 7 am to 5 pm",
+        "hi": {
+          "text": "लगभग सुबह 7 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 7 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "monasteries",
+      "name": {
+        "en": "International monasteries",
+        "hi": {
+          "text": "अंतरराष्ट्रीय मठ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आंतरराष्ट्रीय मठ",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Temples built by Japan, Thailand, Myanmar and others.",
+        "hi": {
+          "text": "जापान, थाईलैंड, म्यांमार आदि द्वारा बने मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जपान, थायलंड, म्यानमार इत्यादींनी बांधलेली मंदिरे.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 7 am to 5 pm",
+        "hi": {
+          "text": "लगभग सुबह 7 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 7 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Sit quietly in the main temple; many come to meditate.",
+        "hi": {
+          "text": "मुख्य मंदिर में शांत बैठें; कई लोग ध्यान के लिए आते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य मंदिरात शांत बसा; अनेकजण ध्यानासाठी येतात.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Offer flowers or a cloth at the reclining Buddha.",
+        "hi": {
+          "text": "लेटी बुद्ध प्रतिमा पर फूल या वस्त्र चढ़ाएँ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पहुडलेल्या बुद्धमूर्तीला फुले किंवा वस्त्र अर्पण करा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Winter mornings are foggy; start a little later.",
+        "hi": {
+          "text": "सर्दियों की सुबह कोहरा रहता है; थोड़ा देर से निकलें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हिवाळ्यात सकाळी धुके असते; थोडे उशिरा निघा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Plan Lumbini as a separate day trip.",
+        "hi": {
+          "text": "लुम्बिनी को अलग दिन की यात्रा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लुंबिनीसाठी वेगळा दिवस ठेवा.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

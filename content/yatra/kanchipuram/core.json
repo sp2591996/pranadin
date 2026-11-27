@@ -5,161 +5,421 @@
   "version": "2026-11-26.1",
   "status": "draft",
   "id": "kanchipuram",
-  "name": { "en": "Kanchipuram", "hi": { "text": "कांचीपुरम", "reviewed": false }, "mr": { "text": "कांचीपुरम", "reviewed": false } },
-  "state": { "en": "Tamil Nadu", "hi": { "text": "तमिलनाडु", "reviewed": false }, "mr": { "text": "तमिळनाडू", "reviewed": false } },
+  "name": {
+    "en": "Kanchipuram",
+    "hi": {
+      "text": "कांचीपुरम",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कांचीपुरम",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Tamil Nadu",
+    "hi": {
+      "text": "तमिलनाडु",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "तमिळनाडू",
+      "reviewed": false
+    }
+  },
   "stateKey": "tamil-nadu",
-  "traditions": ["hindu", "buddhist", "jain"],
+  "traditions": [
+    "hindu"
+  ],
   "deity": {
     "en": "Goddess Kamakshi (Parvati), Lord Shiva as Ekambareswarar, and Lord Vishnu as Varadharaja Perumal. The city also has old Jain and Buddhist traces.",
-    "hi": { "text": "देवी कामाक्षी (पार्वती), भगवान शिव एकांबरेश्वर के रूप में, और भगवान विष्णु वरदराज पेरुमाल के रूप में। नगर में प्राचीन जैन और बौद्ध अवशेष भी हैं।", "reviewed": false },
-    "mr": { "text": "देवी कामाक्षी (पार्वती), भगवान शिव एकांबरेश्वर रूपात, आणि भगवान विष्णू वरदराज पेरुमाळ रूपात. शहरात प्राचीन जैन आणि बौद्ध खुणाही आहेत.", "reviewed": false }
+    "hi": {
+      "text": "देवी कामाक्षी (पार्वती), भगवान शिव एकांबरेश्वर के रूप में, और भगवान विष्णु वरदराज पेरुमाल के रूप में। नगर में प्राचीन जैन और बौद्ध अवशेष भी हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवी कामाक्षी (पार्वती), भगवान शिव एकांबरेश्वर रूपात, आणि भगवान विष्णू वरदराज पेरुमाळ रूपात. शहरात प्राचीन जैन आणि बौद्ध खुणाही आहेत.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "Kanchipuram is counted among the seven holiest cities of India (Sapta Puri) and is called the city of a thousand temples. Its Shiva, Shakti and Vishnu shrines are all within a short distance. It is also home to the Kanchi Kamakoti Peetham and the famed handwoven silk sarees.",
-    "hi": { "text": "कांचीपुरम भारत की सात पवित्र पुरियों (सप्तपुरी) में गिना जाता है और इसे हज़ार मंदिरों का नगर कहा जाता है। इसके शिव, शक्ति और विष्णु मंदिर सब थोड़ी दूरी पर हैं। यहाँ कांची कामकोटि पीठ और प्रसिद्ध हाथ से बुनी रेशमी साड़ियाँ भी हैं।", "reviewed": false },
-    "mr": { "text": "कांचीपुरम हे भारतातील सात पवित्र नगरींमध्ये (सप्तपुरी) गणले जाते आणि याला हजार मंदिरांचे नगर म्हटले जाते. येथील शिव, शक्ती आणि विष्णू मंदिरे सर्व थोड्या अंतरावर आहेत. येथे कांची कामकोटी पीठ आणि प्रसिद्ध हातमागावर विणलेल्या रेशमी साड्याही आहेत.", "reviewed": false }
+    "hi": {
+      "text": "कांचीपुरम भारत की सात पवित्र पुरियों (सप्तपुरी) में गिना जाता है और इसे हज़ार मंदिरों का नगर कहा जाता है। इसके शिव, शक्ति और विष्णु मंदिर सब थोड़ी दूरी पर हैं। यहाँ कांची कामकोटि पीठ और प्रसिद्ध हाथ से बुनी रेशमी साड़ियाँ भी हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कांचीपुरम हे भारतातील सात पवित्र नगरींमध्ये (सप्तपुरी) गणले जाते आणि याला हजार मंदिरांचे नगर म्हटले जाते. येथील शिव, शक्ती आणि विष्णू मंदिरे सर्व थोड्या अंतरावर आहेत. येथे कांची कामकोटी पीठ आणि प्रसिद्ध हातमागावर विणलेल्या रेशमी साड्याही आहेत.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "The city of a thousand temples and silk",
-    "hi": { "text": "हज़ार मंदिरों और रेशम की नगरी", "reviewed": false },
-    "mr": { "text": "हजार मंदिरे आणि रेशमाची नगरी", "reviewed": false }
+    "hi": {
+      "text": "हज़ार मंदिरों और रेशम की नगरी",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "हजार मंदिरे आणि रेशमाची नगरी",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Kanchipuram lies about 72 km south-west of Chennai on the Palar river plain. The town has two parts: Shiva Kanchi, with the Ekambareswarar and Kamakshi temples, and Vishnu Kanchi, with the Varadharaja Perumal temple. Between them run streets of weavers' houses, silk shops and small shrines. It is easy to cover in one long day from Chennai, but a night here gives a calmer experience.",
-    "hi": { "text": "कांचीपुरम चेन्नई से लगभग 72 किमी दक्षिण-पश्चिम में पालार नदी के मैदान पर है। नगर के दो भाग हैं: शिव काँची, जिसमें एकांबरेश्वर और कामाक्षी मंदिर हैं, और विष्णु काँची, जिसमें वरदराज पेरुमाल मंदिर है। इनके बीच बुनकरों के घर, रेशम की दुकानें और छोटे मंदिर वाली गलियाँ हैं। चेन्नई से एक लंबे दिन में इसे देखा जा सकता है, पर यहाँ एक रात रुकने से अनुभव अधिक शांत होता है।", "reviewed": false },
-    "mr": { "text": "कांचीपुरम चेन्नईपासून सुमारे 72 किमी नैऋत्येस पालार नदीच्या मैदानावर आहे. शहराचे दोन भाग आहेत: शिव कांची, ज्यात एकांबरेश्वर आणि कामाक्षी मंदिरे आहेत, आणि विष्णू कांची, ज्यात वरदराज पेरुमाळ मंदिर आहे. त्यांच्या दरम्यान विणकरांची घरे, रेशमाची दुकाने आणि लहान मंदिरे असलेले रस्ते आहेत. चेन्नईहून एका लांब दिवसात हे पाहता येते, पण येथे एक रात्र राहिल्यास अनुभव अधिक शांत होतो.", "reviewed": false }
+    "hi": {
+      "text": "कांचीपुरम चेन्नई से लगभग 72 किमी दक्षिण-पश्चिम में पालार नदी के मैदान पर है। नगर के दो भाग हैं: शिव काँची, जिसमें एकांबरेश्वर और कामाक्षी मंदिर हैं, और विष्णु काँची, जिसमें वरदराज पेरुमाल मंदिर है। इनके बीच बुनकरों के घर, रेशम की दुकानें और छोटे मंदिर वाली गलियाँ हैं। चेन्नई से एक लंबे दिन में इसे देखा जा सकता है, पर यहाँ एक रात रुकने से अनुभव अधिक शांत होता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कांचीपुरम चेन्नईपासून सुमारे 72 किमी नैऋत्येस पालार नदीच्या मैदानावर आहे. शहराचे दोन भाग आहेत: शिव कांची, ज्यात एकांबरेश्वर आणि कामाक्षी मंदिरे आहेत, आणि विष्णू कांची, ज्यात वरदराज पेरुमाळ मंदिर आहे. त्यांच्या दरम्यान विणकरांची घरे, रेशमाची दुकाने आणि लहान मंदिरे असलेले रस्ते आहेत. चेन्नईहून एका लांब दिवसात हे पाहता येते, पण येथे एक रात्र राहिल्यास अनुभव अधिक शांत होतो.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "Kanchipuram was a capital of the Pallavas from the 6th century and a seat of learning for Hindus, Buddhists and Jains. The Kailasanathar temple, built by the Pallavas in the late 7th century, is regarded as the oldest in the city. At Ekambareswarar, Shiva is worshipped as the earth lingam under an ancient mango tree, and the temple is one of the five Pancha Bhuta Sthalams. Kamakshi is said to be the only goddess temple of the city, and Adi Shankara is traditionally linked with its Sri Chakra. The Varadharaja Perumal temple is one of the 108 Divya Desams of Vishnu.",
-    "hi": { "text": "कांचीपुरम 6वीं सदी से पल्लवों की राजधानी रहा और हिंदुओं, बौद्धों तथा जैनों के लिए विद्या का केंद्र था। पल्लवों द्वारा 7वीं सदी के अंत में बनाया कैलासनाथर मंदिर नगर का सबसे प्राचीन माना जाता है। एकांबरेश्वर में प्राचीन आम के वृक्ष के नीचे शिव की पूजा पृथ्वी लिंग के रूप में होती है, और यह मंदिर पाँच पंचभूत स्थलों में से एक है। कामाक्षी को नगर का एकमात्र देवी मंदिर कहा जाता है, और आदि शंकराचार्य परंपरा से इसके श्रीचक्र से जुड़े हैं। वरदराज पेरुमाल मंदिर विष्णु के 108 दिव्य देशों में से एक है।", "reviewed": false },
-    "mr": { "text": "कांचीपुरम 6व्या शतकापासून पल्लवांची राजधानी होते आणि हिंदू, बौद्ध व जैन यांच्यासाठी विद्येचे केंद्र होते. पल्लवांनी 7व्या शतकाच्या अखेरीस बांधलेले कैलासनाथर मंदिर शहरातील सर्वात प्राचीन मानले जाते. एकांबरेश्वर येथे प्राचीन आंब्याच्या झाडाखाली शिवाची पूजा पृथ्वी लिंग म्हणून होते, आणि हे मंदिर पाच पंचभूत स्थळांपैकी एक आहे. कामाक्षी हे शहरातील एकमेव देवी मंदिर असल्याचे सांगितले जाते, आणि आदि शंकराचार्य परंपरेने त्याच्या श्रीचक्राशी जोडलेले आहेत. वरदराज पेरुमाळ मंदिर विष्णूच्या 108 दिव्य देशांपैकी एक आहे.", "reviewed": false }
+    "hi": {
+      "text": "कांचीपुरम 6वीं सदी से पल्लवों की राजधानी रहा और हिंदुओं, बौद्धों तथा जैनों के लिए विद्या का केंद्र था। पल्लवों द्वारा 7वीं सदी के अंत में बनाया कैलासनाथर मंदिर नगर का सबसे प्राचीन माना जाता है। एकांबरेश्वर में प्राचीन आम के वृक्ष के नीचे शिव की पूजा पृथ्वी लिंग के रूप में होती है, और यह मंदिर पाँच पंचभूत स्थलों में से एक है। कामाक्षी को नगर का एकमात्र देवी मंदिर कहा जाता है, और आदि शंकराचार्य परंपरा से इसके श्रीचक्र से जुड़े हैं। वरदराज पेरुमाल मंदिर विष्णु के 108 दिव्य देशों में से एक है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कांचीपुरम 6व्या शतकापासून पल्लवांची राजधानी होते आणि हिंदू, बौद्ध व जैन यांच्यासाठी विद्येचे केंद्र होते. पल्लवांनी 7व्या शतकाच्या अखेरीस बांधलेले कैलासनाथर मंदिर शहरातील सर्वात प्राचीन मानले जाते. एकांबरेश्वर येथे प्राचीन आंब्याच्या झाडाखाली शिवाची पूजा पृथ्वी लिंग म्हणून होते, आणि हे मंदिर पाच पंचभूत स्थळांपैकी एक आहे. कामाक्षी हे शहरातील एकमेव देवी मंदिर असल्याचे सांगितले जाते, आणि आदि शंकराचार्य परंपरेने त्याच्या श्रीचक्राशी जोडलेले आहेत. वरदराज पेरुमाळ मंदिर विष्णूच्या 108 दिव्य देशांपैकी एक आहे.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From temple tradition and the recorded history of Pallava Kanchi.",
-    "hi": { "text": "मंदिर परंपरा और पल्लव कांची के अभिलेखित इतिहास से।", "reviewed": false },
-    "mr": { "text": "मंदिर परंपरा आणि पल्लव कांचीच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+    "hi": {
+      "text": "मंदिर परंपरा और पल्लव कांची के अभिलेखित इतिहास से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मंदिर परंपरा आणि पल्लव कांचीच्या नोंदवलेल्या इतिहासातून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [11, 12, 1, 2, 3],
+    "months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [12, 1, 2],
+        "months": [
+          12,
+          1,
+          2
+        ],
         "rating": "best",
         "weather": {
           "en": "The coolest stretch, with lows near 16 degrees and comfortable days. The Masi festival at Kamakshi falls in February or March. Many visitors come from Chennai on weekends.",
-          "hi": { "text": "सबसे ठंडा समय, न्यूनतम तापमान लगभग 16 डिग्री और सुखद दिन। कामाक्षी में मासी उत्सव फ़रवरी या मार्च में होता है। चेन्नई से कई यात्री सप्ताहांत पर आते हैं।", "reviewed": false },
-          "mr": { "text": "सर्वात थंड काळ, किमान तापमान सुमारे 16 अंश आणि सुखद दिवस. कामाक्षी येथे मासी उत्सव फेब्रुवारी किंवा मार्चमध्ये असतो. चेन्नईहून अनेक प्रवासी आठवड्याच्या शेवटी येतात.", "reviewed": false }
+          "hi": {
+            "text": "सबसे ठंडा समय, न्यूनतम तापमान लगभग 16 डिग्री और सुखद दिन। कामाक्षी में मासी उत्सव फ़रवरी या मार्च में होता है। चेन्नई से कई यात्री सप्ताहांत पर आते हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "सर्वात थंड काळ, किमान तापमान सुमारे 16 अंश आणि सुखद दिवस. कामाक्षी येथे मासी उत्सव फेब्रुवारी किंवा मार्चमध्ये असतो. चेन्नईहून अनेक प्रवासी आठवड्याच्या शेवटी येतात.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [10, 11, 3],
+        "months": [
+          10,
+          11,
+          3
+        ],
         "rating": "good",
         "weather": {
           "en": "October and November bring most of the yearly rain from the northeast monsoon, with some heavy spells. March gets warm. Navaratri at Kamakshi falls in September or October.",
-          "hi": { "text": "अक्टूबर और नवंबर में उत्तर-पूर्वी मानसून से वर्ष की अधिकांश वर्षा होती है, कुछ तेज़ बौछारों के साथ। मार्च गर्म होने लगता है। कामाक्षी में नवरात्रि सितंबर या अक्टूबर में आती है।", "reviewed": false },
-          "mr": { "text": "ऑक्टोबर आणि नोव्हेंबरमध्ये ईशान्य मान्सूनमुळे वर्षातील बहुतेक पाऊस पडतो, काही जोरदार सरींसह. मार्च उबदार होऊ लागतो. कामाक्षी येथे नवरात्री सप्टेंबर किंवा ऑक्टोबरमध्ये येते.", "reviewed": false }
+          "hi": {
+            "text": "अक्टूबर और नवंबर में उत्तर-पूर्वी मानसून से वर्ष की अधिकांश वर्षा होती है, कुछ तेज़ बौछारों के साथ। मार्च गर्म होने लगता है। कामाक्षी में नवरात्रि सितंबर या अक्टूबर में आती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "ऑक्टोबर आणि नोव्हेंबरमध्ये ईशान्य मान्सूनमुळे वर्षातील बहुतेक पाऊस पडतो, काही जोरदार सरींसह. मार्च उबदार होऊ लागतो. कामाक्षी येथे नवरात्री सप्टेंबर किंवा ऑक्टोबरमध्ये येते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5, 6],
+        "months": [
+          4,
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Hot and dry, with highs around 37 to 40 degrees and strong sun. Go only in the early morning and evening. The Garuda Seva of the Vaikasi festival at Varadharaja Perumal falls in May or June.",
-          "hi": { "text": "गर्म और शुष्क, अधिकतम तापमान लगभग 37 से 40 डिग्री और तेज़ धूप। केवल सुबह जल्दी और शाम को जाएँ। वरदराज पेरुमाल में वैकासी उत्सव का गरुड़ सेवा मई या जून में होता है।", "reviewed": false },
-          "mr": { "text": "उष्ण आणि कोरडे, कमाल तापमान सुमारे 37 ते 40 अंश आणि कडक ऊन. फक्त पहाटे आणि संध्याकाळी जा. वरदराज पेरुमाळ येथे वैकासी उत्सवातील गरुड सेवा मे किंवा जूनमध्ये असते.", "reviewed": false }
+          "hi": {
+            "text": "गर्म और शुष्क, अधिकतम तापमान लगभग 37 से 40 डिग्री और तेज़ धूप। केवल सुबह जल्दी और शाम को जाएँ। वरदराज पेरुमाल में वैकासी उत्सव का गरुड़ सेवा मई या जून में होता है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि कोरडे, कमाल तापमान सुमारे 37 ते 40 अंश आणि कडक ऊन. फक्त पहाटे आणि संध्याकाळी जा. वरदराज पेरुमाळ येथे वैकासी उत्सवातील गरुड सेवा मे किंवा जूनमध्ये असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "good",
         "weather": {
           "en": "Hot and humid with occasional showers. Fewer visitors, and weavers' shops are quieter before the festival and wedding season.",
-          "hi": { "text": "गर्म और उमस भरा, कभी-कभी बौछारें। यात्री कम, और उत्सव तथा विवाह के मौसम से पहले बुनकरों की दुकानें शांत रहती हैं।", "reviewed": false },
-          "mr": { "text": "उष्ण आणि दमट, अधूनमधून सरी. प्रवासी कमी, आणि उत्सव व लग्नाच्या हंगामापूर्वी विणकरांची दुकाने शांत असतात.", "reviewed": false }
+          "hi": {
+            "text": "गर्म और उमस भरा, कभी-कभी बौछारें। यात्री कम, और उत्सव तथा विवाह के मौसम से पहले बुनकरों की दुकानें शांत रहती हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि दमट, अधूनमधून सरी. प्रवासी कमी, आणि उत्सव व लग्नाच्या हंगामापूर्वी विणकरांची दुकाने शांत असतात.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Chennai International Airport (MAA)", "hi": { "text": "चेन्नई अंतरराष्ट्रीय हवाई अड्डा (MAA)", "reviewed": false }, "mr": { "text": "चेन्नई आंतरराष्ट्रीय विमानतळ (MAA)", "reviewed": false } },
+      "nearest": {
+        "en": "Chennai International Airport (MAA)",
+        "hi": {
+          "text": "चेन्नई अंतरराष्ट्रीय हवाई अड्डा (MAA)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चेन्नई आंतरराष्ट्रीय विमानतळ (MAA)",
+          "reviewed": false
+        }
+      },
       "km": 70,
       "how": {
         "en": "Fly to Chennai, then take a prepaid taxi or app cab for about two hours, depending on traffic on the Chennai to Bengaluru highway and the Sriperumbudur road.",
-        "hi": { "text": "चेन्नई तक उड़ान लें, फिर चेन्नई-बेंगलुरु राजमार्ग और श्रीपेरुम्बदूर मार्ग के यातायात के अनुसार लगभग दो घंटे प्रीपेड टैक्सी या ऐप कैब लें।", "reviewed": false },
-        "mr": { "text": "चेन्नईपर्यंत विमानाने या, मग चेन्नई-बंगळुरू महामार्ग आणि श्रीपेरुंबदूर मार्गावरील वाहतुकीनुसार सुमारे दोन तास प्रीपेड टॅक्सी किंवा ॲप कॅब घ्या.", "reviewed": false }
+        "hi": {
+          "text": "चेन्नई तक उड़ान लें, फिर चेन्नई-बेंगलुरु राजमार्ग और श्रीपेरुम्बदूर मार्ग के यातायात के अनुसार लगभग दो घंटे प्रीपेड टैक्सी या ऐप कैब लें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चेन्नईपर्यंत विमानाने या, मग चेन्नई-बंगळुरू महामार्ग आणि श्रीपेरुंबदूर मार्गावरील वाहतुकीनुसार सुमारे दोन तास प्रीपेड टॅक्सी किंवा ॲप कॅब घ्या.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Kanchipuram (CJ), with Chengalpattu Junction (CGL) the main nearby junction", "hi": { "text": "कांचीपुरम (CJ), निकट का मुख्य जंक्शन चेंगलपट्टू जंक्शन (CGL)", "reviewed": false }, "mr": { "text": "कांचीपुरम (CJ), जवळचे मुख्य जंक्शन चेंगलपट्टू जंक्शन (CGL)", "reviewed": false } },
+      "nearest": {
+        "en": "Kanchipuram (CJ), with Chengalpattu Junction (CGL) the main nearby junction",
+        "hi": {
+          "text": "कांचीपुरम (CJ), निकट का मुख्य जंक्शन चेंगलपट्टू जंक्शन (CGL)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कांचीपुरम (CJ), जवळचे मुख्य जंक्शन चेंगलपट्टू जंक्शन (CGL)",
+          "reviewed": false
+        }
+      },
       "km": 3,
       "how": {
         "en": "Kanchipuram station has a small number of passenger and local trains, and most visitors come by road. Chengalpattu Junction, about 30 km away, has many more trains to Chennai and the south. Check the timetable before you plan.",
-        "hi": { "text": "कांचीपुरम स्टेशन पर कुछ ही यात्री और लोकल गाड़ियाँ हैं, और अधिकांश यात्री सड़क से आते हैं। लगभग 30 किमी दूर चेंगलपट्टू जंक्शन से चेन्नई और दक्षिण के लिए कहीं अधिक गाड़ियाँ हैं। योजना बनाने से पहले समय सारिणी देखें।", "reviewed": false },
-        "mr": { "text": "कांचीपुरम स्थानकावर थोड्याच प्रवासी आणि लोकल गाड्या आहेत, आणि बहुतेक प्रवासी रस्त्याने येतात. सुमारे 30 किमी अंतरावरील चेंगलपट्टू जंक्शनवरून चेन्नई आणि दक्षिणेकडे बऱ्याच जास्त गाड्या आहेत. नियोजनापूर्वी वेळापत्रक पाहा.", "reviewed": false }
+        "hi": {
+          "text": "कांचीपुरम स्टेशन पर कुछ ही यात्री और लोकल गाड़ियाँ हैं, और अधिकांश यात्री सड़क से आते हैं। लगभग 30 किमी दूर चेंगलपट्टू जंक्शन से चेन्नई और दक्षिण के लिए कहीं अधिक गाड़ियाँ हैं। योजना बनाने से पहले समय सारिणी देखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कांचीपुरम स्थानकावर थोड्याच प्रवासी आणि लोकल गाड्या आहेत, आणि बहुतेक प्रवासी रस्त्याने येतात. सुमारे 30 किमी अंतरावरील चेंगलपट्टू जंक्शनवरून चेन्नई आणि दक्षिणेकडे बऱ्याच जास्त गाड्या आहेत. नियोजनापूर्वी वेळापत्रक पाहा.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "The town is about 72 km from Chennai and well served by state and private buses from Chennai (Koyambedu) and nearby towns. Mahabalipuram is about 70 km, Tiruvannamalai about 100 km and Tirupati about 130 km away.",
-        "hi": { "text": "नगर चेन्नई से लगभग 72 किमी है और चेन्नई (कोयंबेडु) तथा निकटवर्ती नगरों से राज्य और निजी बसें अच्छी तरह चलती हैं। महाबलीपुरम लगभग 70 किमी, तिरुवन्नामलई लगभग 100 किमी और तिरुपति लगभग 130 किमी दूर है।", "reviewed": false },
-        "mr": { "text": "शहर चेन्नईपासून सुमारे 72 किमी आहे आणि चेन्नई (कोयंबेडू) तसेच जवळच्या शहरांतून राज्य आणि खासगी बसेस चांगल्या चालतात. महाबलीपुरम सुमारे 70 किमी, तिरुवन्नामलई सुमारे 100 किमी आणि तिरुपती सुमारे 130 किमी अंतरावर आहे.", "reviewed": false }
+        "hi": {
+          "text": "नगर चेन्नई से लगभग 72 किमी है और चेन्नई (कोयंबेडु) तथा निकटवर्ती नगरों से राज्य और निजी बसें अच्छी तरह चलती हैं। महाबलीपुरम लगभग 70 किमी, तिरुवन्नामलई लगभग 100 किमी और तिरुपति लगभग 130 किमी दूर है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शहर चेन्नईपासून सुमारे 72 किमी आहे आणि चेन्नई (कोयंबेडू) तसेच जवळच्या शहरांतून राज्य आणि खासगी बसेस चांगल्या चालतात. महाबलीपुरम सुमारे 70 किमी, तिरुवन्नामलई सुमारे 100 किमी आणि तिरुपती सुमारे 130 किमी अंतरावर आहे.",
+          "reviewed": false
+        }
       },
       "km": 72
     }
   },
   "localTransport": {
     "en": "The main temples are spread across the town, a few kilometres apart, so autos and e-rickshaws are the usual way to move between them. Many drivers offer a half-day temple round for a fixed fare, so agree the price and the stops first. The old streets near each temple are best walked.",
-    "hi": { "text": "मुख्य मंदिर नगर में कुछ किलोमीटर की दूरी पर फैले हैं, इसलिए उनके बीच जाने के लिए ऑटो और ई-रिक्शा सामान्य साधन हैं। कई चालक निश्चित किराये पर आधे दिन का मंदिर दौरा देते हैं, इसलिए पहले कीमत और पड़ाव तय करें। हर मंदिर के पास की पुरानी गलियाँ पैदल घूमना सबसे अच्छा है।", "reviewed": false },
-    "mr": { "text": "मुख्य मंदिरे शहरात काही किलोमीटर अंतरावर पसरलेली आहेत, म्हणून त्यांच्या दरम्यान जाण्यासाठी ऑटो आणि ई-रिक्षा हे नेहमीचे साधन आहे. अनेक चालक ठरलेल्या भाड्यात अर्ध्या दिवसाचा मंदिर फेरा देतात, म्हणून आधी किंमत आणि थांबे ठरवा. प्रत्येक मंदिराजवळचे जुने रस्ते चालत फिरणे सर्वोत्तम.", "reviewed": false }
+    "hi": {
+      "text": "मुख्य मंदिर नगर में कुछ किलोमीटर की दूरी पर फैले हैं, इसलिए उनके बीच जाने के लिए ऑटो और ई-रिक्शा सामान्य साधन हैं। कई चालक निश्चित किराये पर आधे दिन का मंदिर दौरा देते हैं, इसलिए पहले कीमत और पड़ाव तय करें। हर मंदिर के पास की पुरानी गलियाँ पैदल घूमना सबसे अच्छा है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मुख्य मंदिरे शहरात काही किलोमीटर अंतरावर पसरलेली आहेत, म्हणून त्यांच्या दरम्यान जाण्यासाठी ऑटो आणि ई-रिक्षा हे नेहमीचे साधन आहे. अनेक चालक ठरलेल्या भाड्यात अर्ध्या दिवसाचा मंदिर फेरा देतात, म्हणून आधी किंमत आणि थांबे ठरवा. प्रत्येक मंदिराजवळचे जुने रस्ते चालत फिरणे सर्वोत्तम.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "navratri-dussehra",
       "note": {
         "en": "Kamakshi Amman is worshipped with special decorations during Navaratri, and many families set up golu displays at home.",
-        "hi": { "text": "नवरात्रि में कामाक्षी अम्मन की विशेष श्रृंगार के साथ पूजा होती है, और कई परिवार घरों में गोलू सजाते हैं।", "reviewed": false },
-        "mr": { "text": "नवरात्रीत कामाक्षी अम्मनची विशेष सजावटीसह पूजा होते, आणि अनेक कुटुंबे घरी गोलू मांडतात.", "reviewed": false }
+        "hi": {
+          "text": "नवरात्रि में कामाक्षी अम्मन की विशेष श्रृंगार के साथ पूजा होती है, और कई परिवार घरों में गोलू सजाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नवरात्रीत कामाक्षी अम्मनची विशेष सजावटीसह पूजा होते, आणि अनेक कुटुंबे घरी गोलू मांडतात.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "maha-shivaratri",
       "note": {
         "en": "Night worship at Ekambareswarar and other Shiva temples of the city. Expect crowds and queues.",
-        "hi": { "text": "एकांबरेश्वर और नगर के अन्य शिव मंदिरों में रात्रि पूजा। भीड़ और कतारों की अपेक्षा रखें।", "reviewed": false },
-        "mr": { "text": "एकांबरेश्वर आणि शहरातील इतर शिव मंदिरांत रात्री पूजा. गर्दी आणि रांगांची अपेक्षा ठेवा.", "reviewed": false }
+        "hi": {
+          "text": "एकांबरेश्वर और नगर के अन्य शिव मंदिरों में रात्रि पूजा। भीड़ और कतारों की अपेक्षा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "एकांबरेश्वर आणि शहरातील इतर शिव मंदिरांत रात्री पूजा. गर्दी आणि रांगांची अपेक्षा ठेवा.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Sriperumbudur", "hi": { "text": "श्रीपेरुम्बदूर", "reviewed": false }, "mr": { "text": "श्रीपेरुंबदूर", "reviewed": false } },
+      "name": {
+        "en": "Sriperumbudur",
+        "hi": {
+          "text": "श्रीपेरुम्बदूर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "श्रीपेरुंबदूर",
+          "reviewed": false
+        }
+      },
       "km": 30,
-      "note": { "en": "Birthplace of the Vaishnava teacher Ramanuja, with a temple dedicated to him, on the road towards Chennai.", "hi": { "text": "वैष्णव आचार्य रामानुज की जन्मभूमि, उन्हें समर्पित मंदिर के साथ, चेन्नई की ओर जाने वाले मार्ग पर।", "reviewed": false }, "mr": { "text": "वैष्णव आचार्य रामानुज यांची जन्मभूमी, त्यांना समर्पित मंदिरासह, चेन्नईकडे जाणाऱ्या मार्गावर.", "reviewed": false } }
+      "note": {
+        "en": "Birthplace of the Vaishnava teacher Ramanuja, with a temple dedicated to him, on the road towards Chennai.",
+        "hi": {
+          "text": "वैष्णव आचार्य रामानुज की जन्मभूमि, उन्हें समर्पित मंदिर के साथ, चेन्नई की ओर जाने वाले मार्ग पर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वैष्णव आचार्य रामानुज यांची जन्मभूमी, त्यांना समर्पित मंदिरासह, चेन्नईकडे जाणाऱ्या मार्गावर.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Mahabalipuram", "hi": { "text": "महाबलीपुरम", "reviewed": false }, "mr": { "text": "महाबलीपुरम", "reviewed": false } },
+      "name": {
+        "en": "Mahabalipuram",
+        "hi": {
+          "text": "महाबलीपुरम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महाबलीपुरम",
+          "reviewed": false
+        }
+      },
       "km": 70,
-      "note": { "en": "Pallava shore temple and rock-cut monuments, a World Heritage site, an easy pairing with Kanchi.", "hi": { "text": "पल्लव तट मंदिर और चट्टान में तराशे स्मारक, विश्व धरोहर स्थल, काँची के साथ आसानी से जोड़ा जा सकता है।", "reviewed": false }, "mr": { "text": "पल्लव किनारी मंदिर आणि खडकात कोरलेली स्मारके, जागतिक वारसा स्थळ, कांचीसोबत सहज जोडता येते.", "reviewed": false } }
+      "note": {
+        "en": "Pallava shore temple and rock-cut monuments, a World Heritage site, an easy pairing with Kanchi.",
+        "hi": {
+          "text": "पल्लव तट मंदिर और चट्टान में तराशे स्मारक, विश्व धरोहर स्थल, काँची के साथ आसानी से जोड़ा जा सकता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पल्लव किनारी मंदिर आणि खडकात कोरलेली स्मारके, जागतिक वारसा स्थळ, कांचीसोबत सहज जोडता येते.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Chennai", "hi": { "text": "चेन्नई", "reviewed": false }, "mr": { "text": "चेन्नई", "reviewed": false } },
+      "name": {
+        "en": "Chennai",
+        "hi": {
+          "text": "चेन्नई",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चेन्नई",
+          "reviewed": false
+        }
+      },
       "km": 72,
-      "note": { "en": "The main gateway city, with the airport, Kapaleeswarar temple and Marina beach.", "hi": { "text": "मुख्य प्रवेश नगर, हवाई अड्डे, कपालीश्वर मंदिर और मरीना तट के साथ।", "reviewed": false }, "mr": { "text": "मुख्य प्रवेश नगर, विमानतळ, कपालीश्वर मंदिर आणि मरीना किनाऱ्यासह.", "reviewed": false } }
+      "note": {
+        "en": "The main gateway city, with the airport, Kapaleeswarar temple and Marina beach.",
+        "hi": {
+          "text": "मुख्य प्रवेश नगर, हवाई अड्डे, कपालीश्वर मंदिर और मरीना तट के साथ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य प्रवेश नगर, विमानतळ, कपालीश्वर मंदिर आणि मरीना किनाऱ्यासह.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "Kanchipuram temple gopuram", "hi": { "text": "कांचीपुरम मंदिर का गोपुरम", "reviewed": false }, "mr": { "text": "कांचीपुरम मंदिराचे गोपुर", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Kanchipuram",
+        "hi": {
+          "text": "कांचीपुरम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कांचीपुरम",
+          "reviewed": false
+        }
+      },
+      "credit": "Pinakpani, CC BY 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Ekambareswarar_Temple_at_night_in_Kanchipuram_03.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Kanchipuram",
+        "hi": {
+          "text": "कांचीपुरम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कांचीपुरम",
+          "reviewed": false
+        }
+      },
+      "credit": "VasuVR, CC BY 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:TNK26-B-22_Ulagalantha_Perumal_temple_Gopuram_Dhvajastambham_Kanchipuram.jpg"
     }
   ],
   "sources": [
-    { "label": "Kanchipuram, Wikipedia", "url": "https://en.wikipedia.org/wiki/Kanchipuram" },
-    { "label": "Kamakshi Amman Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Kamakshi_Amman_Temple" },
-    { "label": "Varadharaja Perumal Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Varadharaja_Perumal_Temple,_Kanchipuram" },
-    { "label": "Temples in Kanchi, Kanchi Kamakoti Peetham", "url": "https://www.kamakoti.org/kamakoti/visitors/temples%20in%20Kanchi.html" }
+    {
+      "label": "Kanchipuram, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kanchipuram"
+    },
+    {
+      "label": "Kamakshi Amman Temple, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kamakshi_Amman_Temple"
+    },
+    {
+      "label": "Varadharaja Perumal Temple, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Varadharaja_Perumal_Temple,_Kanchipuram"
+    },
+    {
+      "label": "Temples in Kanchi, Kanchi Kamakoti Peetham",
+      "url": "https://www.kamakoti.org/kamakoti/visitors/temples%20in%20Kanchi.html"
+    }
   ]
 }

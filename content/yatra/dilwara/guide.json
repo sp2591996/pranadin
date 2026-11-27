@@ -1,0 +1,505 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "dilwara",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "Dilwara and the lake",
+        "hi": {
+          "text": "दिलवाड़ा और झील",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिलवाडा आणि तलाव",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "All five Dilwara temples.",
+              "hi": {
+                "text": "पाँचों दिलवाड़ा मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "पाचही दिलवाडा मंदिरे.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Sunset at Nakki Lake.",
+              "hi": {
+                "text": "नक्की झील पर सूर्यास्त।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "नक्की तलावावर सूर्यास्त.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Mount Abu shrines",
+        "hi": {
+          "text": "माउंट आबू के धाम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "माउंट अबूची स्थाने",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Dilwara temples.",
+              "hi": {
+                "text": "दिलवाड़ा मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "दिलवाडा मंदिरे.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Nakki Lake walk.",
+              "hi": {
+                "text": "नक्की झील की सैर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "नक्की तलावाचा फेरफटका.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Guru Shikhar.",
+              "hi": {
+                "text": "गुरु शिखर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "गुरु शिखर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Arbuda Devi temple.",
+              "hi": {
+                "text": "अर्बुदा देवी मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "अर्बुदा देवी मंदिर.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Hills and marble",
+        "hi": {
+          "text": "पहाड़ और संगमरमर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "डोंगर आणि संगमरवर",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Dilwara temples.",
+              "hi": {
+                "text": "दिलवाड़ा मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "दिलवाडा मंदिरे.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Nakki Lake.",
+              "hi": {
+                "text": "नक्की झील।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "नक्की तलाव.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Guru Shikhar.",
+              "hi": {
+                "text": "गुरु शिखर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "गुरु शिखर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Sunset Point.",
+              "hi": {
+                "text": "सनसेट पॉइंट।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "सनसेट पॉइंट.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Achalgarh fort and temple.",
+              "hi": {
+                "text": "अचलगढ़ क़िला और मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "अचलगड किल्ला आणि मंदिर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest and head down.",
+              "hi": {
+                "text": "आराम और वापसी।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "विश्रांती आणि परतीचा प्रवास.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Pilgrim rest houses",
+        "hi": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Simple, low-cost rooms run by trusts near the shrine.",
+        "hi": {
+          "text": "धाम के पास ट्रस्ट द्वारा चलाए जाने वाले सस्ते, सादे कमरे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवस्थानाजवळ ट्रस्टतर्फे चालवल्या जाणाऱ्या स्वस्त, साध्या खोल्या.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mid-range hotels",
+        "hi": {
+          "text": "मध्यम श्रेणी के होटल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मध्यम श्रेणीची हॉटेल्स",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Plenty of options within a short ride of the main site.",
+        "hi": {
+          "text": "मुख्य स्थल से थोड़ी दूरी पर कई विकल्प।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य स्थळापासून थोड्या अंतरावर अनेक पर्याय.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Book ahead for festivals",
+        "hi": {
+          "text": "त्योहारों में पहले से बुक करें",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणांच्या काळात आधी आरक्षण करा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Rooms fill fast on big festival days.",
+        "hi": {
+          "text": "बड़े त्योहारों पर कमरे जल्दी भर जाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोठ्या सणांच्या दिवशी खोल्या लवकर भरतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "Jain meals",
+        "hi": {
+          "text": "जैन भोजन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जैन जेवण",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Bhojanshalas serve meals without onion or garlic.",
+        "hi": {
+          "text": "भोजनशालाएँ बिना प्याज़-लहसुन का भोजन देती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भोजनशाळा कांदा-लसूण नसलेले जेवण देतात.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Rajasthani thali",
+        "hi": {
+          "text": "राजस्थानी थाली",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "राजस्थानी थाळी",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Dal baati, gatte and kadhi.",
+        "hi": {
+          "text": "दाल बाटी, गट्टे और कढ़ी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दाल बाटी, गट्टे आणि कढी.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Simple vegetarian thali",
+        "hi": {
+          "text": "सादी शाकाहारी थाली",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "साधी शाकाहारी थाळी",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Dal, rice, roti and seasonal vegetables.",
+        "hi": {
+          "text": "दाल, चावल, रोटी और मौसमी सब्ज़ी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "डाळ, भात, पोळी आणि हंगामी भाजी.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Simple vegetarian meals are easy to find near the shrine.",
+    "hi": {
+      "text": "धाम के पास सादा शाकाहारी भोजन आसानी से मिलता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवस्थानाजवळ साधे शाकाहारी जेवण सहज मिळते.",
+      "reviewed": false
+    }
+  },
+  "budget": {
+    "bands": {
+      "budget": {
+        "min": 1000,
+        "max": 1800
+      },
+      "mid": {
+        "min": 2800,
+        "max": 5000
+      },
+      "comfort": {
+        "min": 6000,
+        "max": 12000
+      }
+    },
+    "note": {
+      "en": "Per person per day, excluding travel to reach the place.",
+      "hi": {
+        "text": "प्रति व्यक्ति प्रतिदिन, यहाँ पहुँचने का खर्च छोड़कर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर व्यक्ती दररोज, येथे पोहोचण्याचा खर्च वगळून.",
+        "reviewed": false
+      }
+    }
+  },
+  "health": [
+    {
+      "en": "Carry water and rest in the shade on hot days.",
+      "hi": {
+        "text": "गर्म दिनों में पानी साथ रखें और छाँव में आराम करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उष्ण दिवसांत पाणी सोबत ठेवा आणि सावलीत विश्रांती घ्या.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Crowds peak on festival days; keep children close.",
+      "hi": {
+        "text": "त्योहारों पर भीड़ सबसे ज़्यादा होती है; बच्चों को पास रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सणांच्या दिवशी गर्दी सर्वाधिक असते; मुलांना जवळ ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Wheelchair access is limited in older parts; ask staff for help.",
+      "hi": {
+        "text": "पुराने हिस्सों में व्हीलचेयर की सुविधा सीमित है; कर्मचारियों से मदद माँगें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जुन्या भागांत व्हीलचेअरची सोय मर्यादित आहे; कर्मचाऱ्यांची मदत घ्या.",
+        "reviewed": false
+      }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Leave leather items outside the temple.",
+      "hi": {
+        "text": "चमड़े की वस्तुएँ मंदिर के बाहर छोड़ें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "चामड्याच्या वस्तू मंदिराबाहेर ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Do not carry food into the temple.",
+      "hi": {
+        "text": "मंदिर में भोजन न ले जाएँ।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मंदिरात अन्नपदार्थ नेऊ नका.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Dress modestly and remove shoes.",
+      "hi": {
+        "text": "शालीन कपड़े पहनें और जूते उतारें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सभ्य कपडे घाला आणि पादत्राणे काढा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Keep silence in the shrine; follow photo rules.",
+      "hi": {
+        "text": "गर्भगृह में मौन रखें; फ़ोटो के नियम मानें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "गाभाऱ्यात शांतता ठेवा; छायाचित्रांचे नियम पाळा.",
+        "reviewed": false
+      }
+    }
+  ]
+}

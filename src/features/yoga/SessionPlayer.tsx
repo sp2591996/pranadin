@@ -247,13 +247,13 @@ export function SessionPlayer({
 
       {phase === "ready" ? (
         <SafetyGate>
-          <header>
-            <h1>
+          <header className="brand-saffron brand-glow relative isolate -mx-4 overflow-hidden px-5 py-7 text-white sm:mx-0 sm:rounded-[var(--r-xl)] sm:px-8">
+            <h1 className="font-display text-[2.25rem] font-semibold leading-tight text-white">
               <span lang={item.titleLang}>{item.title}</span>
-              {item.titleLang === "en" ? <EnglishMark /> : null}
+              {item.titleLang === "en" ? <EnglishMark onDark /> : null}
             </h1>
-            {prog ? <p className="text-text-muted">{s("yoga.session.programDay", { name: prog.ref.title, day: prog.day })}</p> : null}
-            <p className="text-text-muted">
+            {prog ? <p className="text-[#FBE7C2]">{s("yoga.session.programDay", { name: prog.ref.title, day: prog.day })}</p> : null}
+            <p className="mt-2 font-semibold text-[#FBE7C2]">
               {s(`yoga.level.${item.level}`)} · {s("yoga.minutes", { minutes: minutesOf(planned) })} · {s("yoga.stepsCount", { count: steps.length })}
             </p>
           </header>
@@ -279,7 +279,11 @@ export function SessionPlayer({
             {phase === "paused" ? ` · ${s("yoga.session.paused")}` : ""}
           </p>
 
-          {pose ? <YogaImage file={pose.image} alt={pose.alt} className="max-w-[220px]" /> : null}
+          {pose ? (
+            <div className="stage flex justify-center">
+              <YogaImage file={pose.image} alt={pose.alt} className="max-w-[220px]" />
+            </div>
+          ) : null}
 
           <div className="text-center" lang={item.titleLang}>
             <h1 className="text-[1.5rem] leading-8" data-testid="step-title">

@@ -1,0 +1,363 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "nizamuddin",
+  "name": {
+    "en": "Hazrat Nizamuddin Dargah",
+    "hi": {
+      "text": "हज़रत निज़ामुद्दीन दरगाह",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "हजरत निजामुद्दीन दर्गा",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "New Delhi, Delhi",
+    "hi": {
+      "text": "नई दिल्ली, दिल्ली",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "नवी दिल्ली, दिल्ली",
+      "reviewed": false
+    }
+  },
+  "stateKey": "delhi",
+  "traditions": [
+    "islamic"
+  ],
+  "deity": {
+    "en": "Sufi saint Nizamuddin Auliya of the Chishti order",
+    "hi": {
+      "text": "चिश्ती सिलसिले के सूफ़ी संत निज़ामुद्दीन औलिया",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "चिश्ती परंपरेचे सूफी संत निजामुद्दीन औलिया",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "One of India's most loved Sufi shrines, famous for qawwali.",
+    "hi": {
+      "text": "भारत की सबसे प्रिय सूफ़ी दरगाहों में से एक, क़व्वाली के लिए प्रसिद्ध।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "भारतातील सर्वात प्रिय सूफी दर्ग्यांपैकी एक, कव्वालीसाठी प्रसिद्ध.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "Sufi songs in old Delhi lanes",
+    "hi": {
+      "text": "पुरानी दिल्ली की गलियों में सूफ़ी गीत",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "जुन्या दिल्लीच्या गल्ल्यांत सूफी गीते",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "The tomb of Nizamuddin Auliya (died 1325) sits in a lively old basti near Humayun's Tomb.",
+    "hi": {
+      "text": "निज़ामुद्दीन औलिया (निधन 1325) की मज़ार हुमायूँ के मक़बरे के पास पुरानी बस्ती में है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "निजामुद्दीन औलिया (मृत्यू 1325) यांची मजार हुमायूनच्या कबरीजवळील जुन्या वस्तीत आहे.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "The saint taught love for all; his disciple, the poet Amir Khusro, rests beside him.",
+    "hi": {
+      "text": "संत ने सबसे प्रेम सिखाया; उनके शिष्य कवि अमीर ख़ुसरो उनके पास ही विश्राम करते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "संतांनी सर्वांवर प्रेम शिकवले; त्यांचे शिष्य कवी अमीर खुसरो त्यांच्याजवळच चिरनिद्रा घेतात.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "seasons": [
+      {
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Cool, dry days; winter nights are cold.",
+          "hi": {
+            "text": "ठंडे, सूखे दिन; सर्दी की रातें ठंडी।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंड, कोरडे दिवस; हिवाळ्यातील रात्री थंड.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Monsoon showers and humid air.",
+          "hi": {
+            "text": "मानसूनी बौछारें और उमस।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाच्या सरी आणि दमट हवा.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot afternoons, over 40°C.",
+          "hi": {
+            "text": "बहुत गर्म दोपहर, 40°C से अधिक।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "अतिशय उष्ण दुपार, 40°C पेक्षा जास्त.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Delhi airport",
+        "hi": {
+          "text": "दिल्ली हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्ली विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 16,
+      "how": {
+        "en": "Metro or taxi in under an hour.",
+        "hi": {
+          "text": "मेट्रो या टैक्सी से एक घंटे से कम।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मेट्रो किंवा टॅक्सीने एका तासाच्या आत.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Hazrat Nizamuddin station",
+        "hi": {
+          "text": "हज़रत निज़ामुद्दीन स्टेशन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हजरत निजामुद्दीन स्थानक",
+          "reviewed": false
+        }
+      },
+      "km": 2,
+      "how": {
+        "en": "Auto-rickshaw in ten minutes.",
+        "hi": {
+          "text": "ऑटो से दस मिनट।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रिक्षाने दहा मिनिटे.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Walk in from Mathura Road through the market lane.",
+        "hi": {
+          "text": "मथुरा रोड से बाज़ार की गली होते हुए पैदल जाएँ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मथुरा रोडवरून बाजारगल्लीतून चालत जा.",
+          "reviewed": false
+        }
+      },
+      "km": 0
+    }
+  },
+  "localTransport": {
+    "en": "The last stretch is a narrow lane, so walk; use metro for the city.",
+    "hi": {
+      "text": "आख़िरी हिस्सा संकरी गली है, पैदल चलें; शहर में मेट्रो लें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "शेवटचा भाग अरुंद गल्ली आहे, चालत जा; शहरात मेट्रो वापरा.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "eid-al-fitr",
+      "note": {
+        "en": "Eid prayers draw big crowds.",
+        "hi": {
+          "text": "ईद की नमाज़ पर बड़ी भीड़।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ईदच्या नमाजाला मोठी गर्दी.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Humayun's Tomb",
+        "hi": {
+          "text": "हुमायूँ का मक़बरा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हुमायूनची कबर",
+          "reviewed": false
+        }
+      },
+      "km": 1,
+      "note": {
+        "en": "UNESCO garden tomb from 1570.",
+        "hi": {
+          "text": "1570 का यूनेस्को उद्यान मक़बरा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "1570 ची युनेस्को उद्यान कबर.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Lodhi Garden",
+        "hi": {
+          "text": "लोधी गार्डन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लोधी गार्डन",
+          "reviewed": false
+        }
+      },
+      "km": 3,
+      "note": {
+        "en": "Park with 15th-century tombs.",
+        "hi": {
+          "text": "15वीं सदी के मक़बरों वाला उद्यान।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "15व्या शतकातील कबरी असलेले उद्यान.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Nizamuddin Dargah, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nizamuddin_Dargah"
+    },
+    {
+      "label": "Nizamuddin Auliya, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nizamuddin_Auliya"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Hazrat Nizamuddin Dargah",
+        "hi": {
+          "text": "हज़रत निज़ामुद्दीन दरगाह",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हजरत निजामुद्दीन दर्गा",
+          "reviewed": false
+        }
+      },
+      "credit": "Nehasinha18, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Hazrat_Nizamuddin_Dargah,_Delhi_(2017).jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Hazrat Nizamuddin Dargah",
+        "hi": {
+          "text": "हज़रत निज़ामुद्दीन दरगाह",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हजरत निजामुद्दीन दर्गा",
+          "reviewed": false
+        }
+      },
+      "credit": "Divya Gupta, CC BY-SA 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Nizamuddin_Dargah_Complex_(Delhi,_India).jpg"
+    }
+  ]
+}

@@ -29,6 +29,14 @@ export function greetingKey(hour: number): MessageKey {
 }
 
 /** Hero photo by time of day (D-036): dawn Rishikesh, day Amritsar, evening Varanasi, night Ujjain. */
+/** Real photos from Wikimedia Commons (D-037); credit shown on the photo as the licence asks. */
+const HERO_CREDIT: Record<string, string> = {
+  rishikesh: "Snehrashmi, CC BY-SA 4.0",
+  amritsar: "Oleg Yunakov, CC BY-SA 3.0",
+  varanasi: "Marcin Białek, CC BY-SA 3.0",
+  ujjain: "Ashverse, CC BY-SA 4.0",
+};
+
 export function heroPlace(hour: number | null): string {
   if (hour === null) return "varanasi";
   if (hour >= 4 && hour < 10) return "rishikesh";
@@ -152,10 +160,13 @@ export function TodayView({
       {/* ---------- HERO: a sacred place, chosen by the hour ---------- */}
       <section aria-labelledby="greeting" className="relative isolate -mx-4 overflow-hidden bg-[#2A1408] shadow-xl shadow-orange-950/25 sm:mx-0 sm:rounded-[var(--r-xl)]">
         {/* eslint-disable-next-line @next/next/no-img-element -- plain img keeps Today inside the JS budget; files are pre-sized webp */}
-        <img key={place} src={`/yatra/${place}/hero.webp`} alt="" fetchPriority="high" decoding="async" className="absolute inset-0 -z-20 h-full w-full object-cover" />
+        <img key={place} src={`/yatra/${place}/photo-1.webp`} alt="" fetchPriority="high" decoding="async" className="absolute inset-0 -z-20 h-full w-full object-cover" />
         <span aria-hidden="true" className="photo-shade absolute inset-0 -z-10 lg:hidden" />
         <span aria-hidden="true" className="photo-shade-side absolute inset-0 -z-10 hidden lg:block" />
-        <span className="glass absolute right-4 top-4 rounded-full px-2.5 py-1 text-caption text-[#fff]">{t("today.hero.aiPhoto")}</span>
+        <span className="glass absolute right-4 top-4 max-w-[60%] truncate rounded-full px-2.5 py-1 text-caption text-[#fff]">
+          {t("today.photoBy", { credit: "" })}
+          <span lang="en">{HERO_CREDIT[place]}</span>
+        </span>
         <div className="flex min-h-[34rem] flex-col justify-end px-6 pb-8 pt-20 sm:px-10 lg:min-h-[36rem] lg:max-w-2xl lg:justify-center lg:px-14 lg:py-16">
           <p aria-hidden="true" className="gentle-float font-deva text-5xl leading-none text-[#F3C35B] drop-shadow-[0_4px_18px_rgba(243,195,91,0.5)]">
             ॐ
@@ -308,7 +319,7 @@ export function TodayView({
         ) : next.length === 0 ? (
           <p className="rounded-2xl border border-dashed border-divider p-5 text-text-muted">{t("cal.noneWeek")}</p>
         ) : (
-          <ul className="no-scrollbar -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-4 overflow-x-auto px-4 pb-3 sm:mx-0 sm:scroll-px-0 sm:px-0">
+          <ul className="no-scrollbar relative -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-4 overflow-x-auto px-4 pb-3 sm:mx-0 sm:scroll-px-0 sm:px-0">
             {next.flatMap((g) =>
               g.items.map((o) => (
                 <li key={o.id} className="card-lift flex w-[82%] shrink-0 snap-start flex-col rounded-[var(--r-xl)] border border-divider bg-surface p-5 shadow-elev-1 sm:w-[22rem]">

@@ -10,11 +10,12 @@ import type { MessageKey } from "@/i18n/keys";
  * FR-1.3, QA-11). The label is the UI string `lang.name.en`, so it appears in
  * the user's language once the Board reviews it.
  */
-export function EnglishMark() {
+export function EnglishMark({ onDark = false }: { onDark?: boolean }) {
   const { t, locale } = useI18n();
   if (locale === "en") return null;
+  const look = onDark ? "border-white/40 text-white" : "border-divider text-text-muted";
   return (
-    <span className="ms-2 inline-block rounded-sm border border-divider px-1.5 align-middle text-caption text-text-muted" lang={locale}>
+    <span className={`ms-2 inline-block rounded-sm border px-1.5 align-middle font-sans text-caption ${look}`} lang={locale}>
       {t("lang.name.en")}
     </span>
   );

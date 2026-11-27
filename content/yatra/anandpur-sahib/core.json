@@ -1,0 +1,377 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "anandpur-sahib",
+  "name": {
+    "en": "Anandpur Sahib",
+    "hi": {
+      "text": "आनंदपुर साहिब",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "आनंदपूर साहिब",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Rupnagar district, Punjab",
+    "hi": {
+      "text": "रूपनगर ज़िला, पंजाब",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "रूपनगर जिल्हा, पंजाब",
+      "reviewed": false
+    }
+  },
+  "stateKey": "punjab",
+  "traditions": [
+    "sikh"
+  ],
+  "deity": {
+    "en": "Guru Gobind Singh and the Khalsa",
+    "hi": {
+      "text": "गुरु गोबिंद सिंह और ख़ालसा",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "गुरु गोविंद सिंह आणि खालसा",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "Birthplace of the Khalsa in 1699 and seat of Takht Sri Kesgarh Sahib.",
+    "hi": {
+      "text": "1699 में ख़ालसा का जन्मस्थान और तख़्त श्री केसगढ़ साहिब का स्थान।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "1699 मध्ये खालशाचे जन्मस्थान आणि तख्त श्री केसगड साहिबचे स्थान.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "Where the Khalsa was born",
+    "hi": {
+      "text": "जहाँ ख़ालसा का जन्म हुआ",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "जिथे खालशाचा जन्म झाला",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "A green town at the Shivalik foothills, founded by Guru Tegh Bahadur in 1665.",
+    "hi": {
+      "text": "शिवालिक की तलहटी में हरा-भरा नगर, जिसे गुरु तेग बहादुर ने 1665 में बसाया।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "शिवालिकच्या पायथ्याशी हिरवेगार नगर, गुरु तेग बहादूर यांनी 1665 मध्ये वसवले.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "On Vaisakhi 1699 Guru Gobind Singh called for five volunteers and founded the Khalsa here.",
+    "hi": {
+      "text": "1699 की वैसाखी पर गुरु गोबिंद सिंह ने पाँच स्वयंसेवकों को बुलाकर यहाँ ख़ालसा की स्थापना की।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "1699 च्या वैशाखीला गुरु गोविंद सिंह यांनी पाच स्वयंसेवकांना बोलावून येथे खालशाची स्थापना केली.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "seasons": [
+      {
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Mild days; Hola Mohalla falls in March.",
+          "hi": {
+            "text": "सुहाने दिन; होला मोहल्ला मार्च में आता है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "सौम्य दिवस; होला मोहल्ला मार्चमध्ये असतो.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Monsoon rain turns the hills green.",
+          "hi": {
+            "text": "मानसूनी बारिश से पहाड़ियाँ हरी हो जाती हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाने टेकड्या हिरव्या होतात.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Hot, dusty summer days.",
+          "hi": {
+            "text": "गर्म, धूल भरे गर्मी के दिन।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण, धुळीचे उन्हाळी दिवस.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Chandigarh airport",
+        "hi": {
+          "text": "चंडीगढ़ हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चंदीगड विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 85,
+      "how": {
+        "en": "Taxi in about two hours.",
+        "hi": {
+          "text": "टैक्सी से लगभग दो घंटे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "टॅक्सीने सुमारे दोन तास.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Anandpur Sahib station",
+        "hi": {
+          "text": "आनंदपुर साहिब स्टेशन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आनंदपूर साहिब स्थानक",
+          "reviewed": false
+        }
+      },
+      "km": 2,
+      "how": {
+        "en": "Trains from Delhi and Ambala; auto to the gurdwara.",
+        "hi": {
+          "text": "दिल्ली और अंबाला से ट्रेनें; गुरुद्वारे तक ऑटो।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्ली आणि अंबाल्याहून गाड्या; गुरुद्वाऱ्यापर्यंत रिक्षा.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Good highway from Chandigarh via Ropar.",
+        "hi": {
+          "text": "रोपड़ होते हुए चंडीगढ़ से अच्छा राजमार्ग।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रोपडमार्गे चंदीगडहून चांगला महामार्ग.",
+          "reviewed": false
+        }
+      },
+      "km": 85
+    }
+  },
+  "localTransport": {
+    "en": "The main gurdwaras are within walking distance; autos for the museum.",
+    "hi": {
+      "text": "मुख्य गुरुद्वारे पैदल दूरी पर हैं; संग्रहालय के लिए ऑटो।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मुख्य गुरुद्वारे चालत जाण्याइतके जवळ; संग्रहालयासाठी रिक्षा.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "vaisakhi",
+      "note": {
+        "en": "The Khalsa's birthday is marked with great joy.",
+        "hi": {
+          "text": "ख़ालसा का जन्मदिन बड़े उल्लास से मनाया जाता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "खालशाचा जन्मदिवस मोठ्या उत्साहात साजरा होतो.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "festivalId": "holi",
+      "note": {
+        "en": "Hola Mohalla, the day after Holi, brings martial displays.",
+        "hi": {
+          "text": "होली के अगले दिन होला मोहल्ला में युद्ध-कौशल प्रदर्शन होते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "होळीच्या दुसऱ्या दिवशी होला मोहल्ल्यात युद्धकलेची प्रात्यक्षिके होतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Naina Devi Temple",
+        "hi": {
+          "text": "नैना देवी मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नैना देवी मंदिर",
+          "reviewed": false
+        }
+      },
+      "km": 20,
+      "note": {
+        "en": "Hilltop shrine across the Himachal border.",
+        "hi": {
+          "text": "हिमाचल सीमा पार पहाड़ी मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हिमाचल सीमेपलीकडील डोंगरावरील मंदिर.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Bhakra Dam",
+        "hi": {
+          "text": "भाखड़ा बाँध",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भाक्रा धरण",
+          "reviewed": false
+        }
+      },
+      "km": 35,
+      "note": {
+        "en": "One of India's tallest dams.",
+        "hi": {
+          "text": "भारत के सबसे ऊँचे बाँधों में से एक।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भारतातील सर्वात उंच धरणांपैकी एक.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Anandpur Sahib, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anandpur_Sahib"
+    },
+    {
+      "label": "Takht Sri Kesgarh Sahib, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Takht_Sri_Kesgarh_Sahib"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Anandpur Sahib",
+        "hi": {
+          "text": "आनंदपुर साहिब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आनंदपूर साहिब",
+          "reviewed": false
+        }
+      },
+      "credit": "Deziner89, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Takhat-Sri-Kesgarh-Sahib-Anandpur-Sahib.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Anandpur Sahib",
+        "hi": {
+          "text": "आनंदपुर साहिब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आनंदपूर साहिब",
+          "reviewed": false
+        }
+      },
+      "credit": "Sunnyson24 at English Wikipedia, Public domain, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Gurudwara_Sisganj_Sahib.JPG"
+    }
+  ]
+}

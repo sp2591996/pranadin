@@ -4,6 +4,7 @@ import { describe, expect, it } from "vitest";
 import { placeCoreSchema, placeGuideSchema, placeSightsSchema, yatraUiSchema } from "@/content/yatra";
 import { loadFestivalsFile } from "@/features/festivals/content.server";
 import { loadPlaces, loadYatraFile, loadYatraStrings } from "./content.server";
+import { STARTERS, addDaysKey, seasonWarnings } from "./plan-extras";
 import { addPlace, buildPlan, estimateBudget, movePlace, planToText, removePlace, sanitizeItems, setDays, totalDays, type TripItem } from "./plan-logic";
 
 const ROOT = path.join(process.cwd(), "content", "yatra");
@@ -42,7 +43,8 @@ describe("yatra content", () => {
       for (const ph of p.photos) {
         const file = path.join(process.cwd(), "public", "yatra", p.id, ph.file);
         expect(fs.existsSync(file), file).toBe(true);
-        expect(fs.statSync(file).size, file).toBeLessThanOrEqual(80 * 1024);
+        // Real 1200×800 photos (D-037) may be up to 160 KB; AI images stay small.
+        expect(fs.statSync(file).size, file).toBeLessThanOrEqual((ph.ai ? 80 : 160) * 1024);
         if (!ph.ai) expect(ph.credit.length).toBeGreaterThan(2);
       }
     }
@@ -121,5 +123,24 @@ describe("trip planner logic", () => {
     expect(text.split("\n")[0]).toBe("Plan");
     expect(text).toContain("Day 3: Pandharpur (1/1)");
     expect(text.trimEnd().endsWith("Check locally")).toBe(true);
+  });
+});
+
+describe("trip planner dates, starters and seasons (D-037)", () => {
+  const places = loadPlaces("en");
+  it("adds days across month and year ends", () => {
+    expect(addDaysKey("2027-01-31", 1)).toBe("2027-02-01");
+    expect(addDaysKey("2026-12-31", 1)).toBe("2027-01-01");
+    expect(addDaysKey("bad", 1)).toBeNull();
+  });
+  it("every ready trip uses real places and 1-3 days each", () => {
+    for (const st of STARTERS) for (const i of st.items) expect(places.some((p) => p.id === i.placeId), `${st.id}/${i.placeId}`).toBe(true);
+  });
+  it("warns once per place for a difficult month", () => {
+    const plan = buildPlan([{ placeId: "kedarnath", days: 2 }], places);
+    const w = seasonWarnings(plan, places, "2027-01-10");
+    expect(w).toHaveLength(1);
+    expect(w[0]!.month).toBe(1);
+    expect(seasonWarnings(plan, places, "2027-06-10")).toHaveLength(0);
   });
 });

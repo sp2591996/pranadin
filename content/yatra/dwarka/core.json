@@ -5,169 +5,436 @@
   "version": "2026-11-26.1",
   "status": "draft",
   "id": "dwarka",
-  "name": { "en": "Dwarka (Dwarkadhish)", "hi": { "text": "द्वारका (द्वारकाधीश)", "reviewed": false }, "mr": { "text": "द्वारका (द्वारकाधीश)", "reviewed": false } },
-  "state": { "en": "Gujarat", "hi": { "text": "गुजरात", "reviewed": false }, "mr": { "text": "गुजरात", "reviewed": false } },
+  "name": {
+    "en": "Dwarka (Dwarkadhish)",
+    "hi": {
+      "text": "द्वारका (द्वारकाधीश)",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "द्वारका (द्वारकाधीश)",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Gujarat",
+    "hi": {
+      "text": "गुजरात",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "गुजरात",
+      "reviewed": false
+    }
+  },
   "stateKey": "gujarat",
-  "traditions": ["hindu"],
+  "traditions": [
+    "hindu"
+  ],
   "deity": {
     "en": "Lord Krishna as Dwarkadhish, the king of Dwarka. The area also holds the Nageshwar Jyotirlinga of Lord Shiva and the temple of Rukmini Devi.",
-    "hi": { "text": "भगवान कृष्ण द्वारकाधीश, द्वारका के राजा, के रूप में। इस क्षेत्र में भगवान शिव का नागेश्वर ज्योतिर्लिंग और रुक्मिणी देवी का मंदिर भी है।", "reviewed": false },
-    "mr": { "text": "भगवान कृष्ण द्वारकाधीश, द्वारकेचा राजा, या रूपात. या परिसरात भगवान शिवाचे नागेश्वर ज्योतिर्लिंग आणि रुक्मिणी देवीचे मंदिरही आहे.", "reviewed": false }
+    "hi": {
+      "text": "भगवान कृष्ण द्वारकाधीश, द्वारका के राजा, के रूप में। इस क्षेत्र में भगवान शिव का नागेश्वर ज्योतिर्लिंग और रुक्मिणी देवी का मंदिर भी है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "भगवान कृष्ण द्वारकाधीश, द्वारकेचा राजा, या रूपात. या परिसरात भगवान शिवाचे नागेश्वर ज्योतिर्लिंग आणि रुक्मिणी देवीचे मंदिरही आहे.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "Dwarka is one of the four Char Dham sites established by Adi Shankaracharya, where the Dwarka Pitha is based, and one of the seven ancient Sapta Puri cities. Tradition holds it as Krishna's kingdom after he left Mathura.",
-    "hi": { "text": "द्वारका आदि शंकराचार्य द्वारा स्थापित चार धामों में से एक है, जहाँ द्वारका पीठ स्थित है, और सात प्राचीन सप्तपुरियों में भी गिनी जाती है। परंपरा इसे मथुरा छोड़ने के बाद कृष्ण का राज्य मानती है।", "reviewed": false },
-    "mr": { "text": "द्वारका ही आदि शंकराचार्यांनी स्थापलेल्या चार धामांपैकी एक आहे, जिथे द्वारका पीठ आहे, आणि सात प्राचीन सप्तपुरींपैकीही आहे. परंपरेनुसार मथुरा सोडल्यानंतरचे कृष्णाचे राज्य म्हणजे द्वारका.", "reviewed": false }
+    "hi": {
+      "text": "द्वारका आदि शंकराचार्य द्वारा स्थापित चार धामों में से एक है, जहाँ द्वारका पीठ स्थित है, और सात प्राचीन सप्तपुरियों में भी गिनी जाती है। परंपरा इसे मथुरा छोड़ने के बाद कृष्ण का राज्य मानती है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "द्वारका ही आदि शंकराचार्यांनी स्थापलेल्या चार धामांपैकी एक आहे, जिथे द्वारका पीठ आहे, आणि सात प्राचीन सप्तपुरींपैकीही आहे. परंपरेनुसार मथुरा सोडल्यानंतरचे कृष्णाचे राज्य म्हणजे द्वारका.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "Krishna's city by the Arabian Sea",
-    "hi": { "text": "अरब सागर के तट पर कृष्ण की नगरी", "reviewed": false },
-    "mr": { "text": "अरबी समुद्राकाठची कृष्णाची नगरी", "reviewed": false }
+    "hi": {
+      "text": "अरब सागर के तट पर कृष्ण की नगरी",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "अरबी समुद्राकाठची कृष्णाची नगरी",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Dwarka is a small coastal town on the western tip of the Okhamandal peninsula in Gujarat, where the Gomti river meets the sea. The tall Dwarkadhish temple stands close to the Gomti ghat, with lanes of puja shops around it. Days are salt-breezy and bright, with flags on the temple spire and queues at darshan hours. Plan a slow pace, because darshan has long breaks in the afternoon.",
-    "hi": { "text": "द्वारका गुजरात में ओखामंडल प्रायद्वीप के पश्चिमी छोर पर बसा एक छोटा तटीय नगर है, जहाँ गोमती नदी समुद्र से मिलती है। ऊँचा द्वारकाधीश मंदिर गोमती घाट के पास है, जिसके चारों ओर पूजा सामग्री की दुकानों की गलियाँ हैं। दिन खारी हवा और तेज़ धूप वाले हैं, मंदिर के शिखर पर ध्वजा और दर्शन के समय कतारें रहती हैं। धीमी गति रखें, क्योंकि दोपहर में दर्शन का लंबा अंतराल रहता है।", "reviewed": false },
-    "mr": { "text": "द्वारका हे गुजरातमधील ओखामंडल द्वीपकल्पाच्या पश्चिम टोकावरील लहान किनारी नगर आहे, जिथे गोमती नदी समुद्राला मिळते. उंच द्वारकाधीश मंदिर गोमती घाटाजवळ आहे, आणि त्याच्या भोवती पूजा साहित्याच्या दुकानांच्या गल्ल्या आहेत. दिवस खाऱ्या वाऱ्याचे आणि लख्ख उन्हाचे असतात, मंदिराच्या शिखरावर ध्वजा आणि दर्शनाच्या वेळी रांगा असतात. संथ गती ठेवा, कारण दुपारी दर्शनाला मोठा खंड असतो.", "reviewed": false }
+    "hi": {
+      "text": "द्वारका गुजरात में ओखामंडल प्रायद्वीप के पश्चिमी छोर पर बसा एक छोटा तटीय नगर है, जहाँ गोमती नदी समुद्र से मिलती है। ऊँचा द्वारकाधीश मंदिर गोमती घाट के पास है, जिसके चारों ओर पूजा सामग्री की दुकानों की गलियाँ हैं। दिन खारी हवा और तेज़ धूप वाले हैं, मंदिर के शिखर पर ध्वजा और दर्शन के समय कतारें रहती हैं। धीमी गति रखें, क्योंकि दोपहर में दर्शन का लंबा अंतराल रहता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "द्वारका हे गुजरातमधील ओखामंडल द्वीपकल्पाच्या पश्चिम टोकावरील लहान किनारी नगर आहे, जिथे गोमती नदी समुद्राला मिळते. उंच द्वारकाधीश मंदिर गोमती घाटाजवळ आहे, आणि त्याच्या भोवती पूजा साहित्याच्या दुकानांच्या गल्ल्या आहेत. दिवस खाऱ्या वाऱ्याचे आणि लख्ख उन्हाचे असतात, मंदिराच्या शिखरावर ध्वजा आणि दर्शनाच्या वेळी रांगा असतात. संथ गती ठेवा, कारण दुपारी दर्शनाला मोठा खंड असतो.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "According to tradition, Krishna moved his people from Mathura to the sea coast and founded Dwarka. The main shrine, called Jagat Mandir, is a five-storey structure on 72 pillars with a spire about 78 metres high. Archaeologists place the original temple at around 200 BCE at the earliest, and it was rebuilt and enlarged in the 15th and 16th centuries. A long triangular flag on the spire is changed several times a day. Bet Dwarka, on an island off the coast, is held to be Krishna's original residence.",
-    "hi": { "text": "परंपरा के अनुसार कृष्ण अपने लोगों को मथुरा से समुद्र तट पर ले गए और द्वारका की स्थापना की। मुख्य मंदिर, जिसे जगत मंदिर कहते हैं, 72 स्तंभों पर टिका पाँच मंज़िला ढाँचा है जिसका शिखर लगभग 78 मीटर ऊँचा है। पुरातत्वविद मूल मंदिर को अधिकतम लगभग 200 ईसा पूर्व का मानते हैं, और 15वीं-16वीं शताब्दी में इसका पुनर्निर्माण और विस्तार हुआ। शिखर पर लंबी त्रिकोणाकार ध्वजा दिन में कई बार बदली जाती है। तट के पास द्वीप पर बेट द्वारका को कृष्ण का मूल निवास माना जाता है।", "reviewed": false },
-    "mr": { "text": "परंपरेनुसार कृष्णाने आपल्या लोकांना मथुरेहून समुद्रकिनारी आणले आणि द्वारका वसवली. मुख्य मंदिर, ज्याला जगत मंदिर म्हणतात, 72 खांबांवर उभी पाच मजली रचना आहे आणि त्याचे शिखर सुमारे 78 मीटर उंच आहे. पुरातत्त्वज्ञ मूळ मंदिर जास्तीत जास्त सुमारे इ.स.पू. 200 चे मानतात, आणि 15व्या-16व्या शतकात त्याचा जीर्णोद्धार आणि विस्तार झाला. शिखरावरील लांब त्रिकोणी ध्वजा दिवसातून अनेक वेळा बदलली जाते. किनाऱ्यापलीकडील बेटावरील बेट द्वारका हे कृष्णाचे मूळ निवासस्थान मानले जाते.", "reviewed": false }
+    "hi": {
+      "text": "परंपरा के अनुसार कृष्ण अपने लोगों को मथुरा से समुद्र तट पर ले गए और द्वारका की स्थापना की। मुख्य मंदिर, जिसे जगत मंदिर कहते हैं, 72 स्तंभों पर टिका पाँच मंज़िला ढाँचा है जिसका शिखर लगभग 78 मीटर ऊँचा है। पुरातत्वविद मूल मंदिर को अधिकतम लगभग 200 ईसा पूर्व का मानते हैं, और 15वीं-16वीं शताब्दी में इसका पुनर्निर्माण और विस्तार हुआ। शिखर पर लंबी त्रिकोणाकार ध्वजा दिन में कई बार बदली जाती है। तट के पास द्वीप पर बेट द्वारका को कृष्ण का मूल निवास माना जाता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "परंपरेनुसार कृष्णाने आपल्या लोकांना मथुरेहून समुद्रकिनारी आणले आणि द्वारका वसवली. मुख्य मंदिर, ज्याला जगत मंदिर म्हणतात, 72 खांबांवर उभी पाच मजली रचना आहे आणि त्याचे शिखर सुमारे 78 मीटर उंच आहे. पुरातत्त्वज्ञ मूळ मंदिर जास्तीत जास्त सुमारे इ.स.पू. 200 चे मानतात, आणि 15व्या-16व्या शतकात त्याचा जीर्णोद्धार आणि विस्तार झाला. शिखरावरील लांब त्रिकोणी ध्वजा दिवसातून अनेक वेळा बदलली जाते. किनाऱ्यापलीकडील बेटावरील बेट द्वारका हे कृष्णाचे मूळ निवासस्थान मानले जाते.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From the Puranic tradition and the recorded history of the Dwarkadhish temple.",
-    "hi": { "text": "पौराणिक परंपरा और द्वारकाधीश मंदिर के अभिलेखित इतिहास से।", "reviewed": false },
-    "mr": { "text": "पौराणिक परंपरा आणि द्वारकाधीश मंदिराच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+    "hi": {
+      "text": "पौराणिक परंपरा और द्वारकाधीश मंदिर के अभिलेखित इतिहास से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "पौराणिक परंपरा आणि द्वारकाधीश मंदिराच्या नोंदवलेल्या इतिहासातून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [10, 11, 12, 1, 2, 3],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [11, 12, 1, 2],
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ],
         "rating": "best",
         "weather": {
           "en": "Dry, sunny and pleasant by the sea. The best months for temple visits, the Bet Dwarka boat and walking the town. Crowds are larger around holidays.",
-          "hi": { "text": "सूखा, धूप भरा और समुद्र किनारे सुहावना मौसम। मंदिर दर्शन, बेट द्वारका की नौका और नगर में घूमने के लिए सर्वोत्तम महीने। छुट्टियों के आसपास भीड़ अधिक रहती है।", "reviewed": false },
-          "mr": { "text": "कोरडे, सूर्यप्रकाशाचे आणि समुद्राकाठी आल्हाददायक हवामान. मंदिर दर्शन, बेट द्वारकेची नौका आणि शहरात फिरण्यासाठी सर्वोत्तम महिने. सुट्ट्यांच्या सुमारास गर्दी अधिक असते.", "reviewed": false }
+          "hi": {
+            "text": "सूखा, धूप भरा और समुद्र किनारे सुहावना मौसम। मंदिर दर्शन, बेट द्वारका की नौका और नगर में घूमने के लिए सर्वोत्तम महीने। छुट्टियों के आसपास भीड़ अधिक रहती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "कोरडे, सूर्यप्रकाशाचे आणि समुद्राकाठी आल्हाददायक हवामान. मंदिर दर्शन, बेट द्वारकेची नौका आणि शहरात फिरण्यासाठी सर्वोत्तम महिने. सुट्ट्यांच्या सुमारास गर्दी अधिक असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [10, 3],
+        "months": [
+          10,
+          3
+        ],
         "rating": "good",
         "weather": {
           "en": "Warm to hot in the day, with comfortable mornings and evenings. October and March are workable if you start early.",
-          "hi": { "text": "दिन में गर्म से तेज़ गर्म, सुबह और शाम आरामदायक। अक्टूबर और मार्च में जल्दी शुरू करें तो घूमना ठीक रहता है।", "reviewed": false },
-          "mr": { "text": "दिवसा उबदार ते उष्ण, सकाळ आणि संध्याकाळ आरामदायक. ऑक्टोबर आणि मार्चमध्ये लवकर सुरुवात केल्यास फिरणे योग्य ठरते.", "reviewed": false }
+          "hi": {
+            "text": "दिन में गर्म से तेज़ गर्म, सुबह और शाम आरामदायक। अक्टूबर और मार्च में जल्दी शुरू करें तो घूमना ठीक रहता है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "दिवसा उबदार ते उष्ण, सकाळ आणि संध्याकाळ आरामदायक. ऑक्टोबर आणि मार्चमध्ये लवकर सुरुवात केल्यास फिरणे योग्य ठरते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5, 6],
+        "months": [
+          4,
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Hot, with daily highs well above 30 degrees and strong sun and humidity. Visit at dawn and after sunset only.",
-          "hi": { "text": "गर्म, दैनिक तापमान 30 डिग्री से काफ़ी ऊपर, तेज़ धूप और उमस के साथ। केवल भोर और सूर्यास्त के बाद जाएँ।", "reviewed": false },
-          "mr": { "text": "उष्ण, दैनिक तापमान 30 अंशांहून बरेच अधिक, तीव्र ऊन आणि दमटपणासह. फक्त पहाटे आणि सूर्यास्तानंतर जा.", "reviewed": false }
+          "hi": {
+            "text": "गर्म, दैनिक तापमान 30 डिग्री से काफ़ी ऊपर, तेज़ धूप और उमस के साथ। केवल भोर और सूर्यास्त के बाद जाएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण, दैनिक तापमान 30 अंशांहून बरेच अधिक, तीव्र ऊन आणि दमटपणासह. फक्त पहाटे आणि सूर्यास्तानंतर जा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Most of the year's rain, about 490 mm in total, falls from June to September. The sea is rough, boats to Bet Dwarka can be suspended and roads may flood.",
-          "hi": { "text": "वर्ष की अधिकांश वर्षा, कुल लगभग 490 मिमी, जून से सितंबर में होती है। समुद्र उग्र रहता है, बेट द्वारका की नौकाएँ रोकी जा सकती हैं और सड़कों पर पानी भर सकता है।", "reviewed": false },
-          "mr": { "text": "वर्षातील बहुतेक पाऊस, एकूण सुमारे 490 मिमी, जून ते सप्टेंबरमध्ये पडतो. समुद्र खवळलेला असतो, बेट द्वारकेच्या नावा बंद केल्या जाऊ शकतात आणि रस्त्यांवर पाणी साचू शकते.", "reviewed": false }
+          "hi": {
+            "text": "वर्ष की अधिकांश वर्षा, कुल लगभग 490 मिमी, जून से सितंबर में होती है। समुद्र उग्र रहता है, बेट द्वारका की नौकाएँ रोकी जा सकती हैं और सड़कों पर पानी भर सकता है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "वर्षातील बहुतेक पाऊस, एकूण सुमारे 490 मिमी, जून ते सप्टेंबरमध्ये पडतो. समुद्र खवळलेला असतो, बेट द्वारकेच्या नावा बंद केल्या जाऊ शकतात आणि रस्त्यांवर पाणी साचू शकते.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Jamnagar Airport (JGA)", "hi": { "text": "जामनगर हवाई अड्डा (JGA)", "reviewed": false }, "mr": { "text": "जामनगर विमानतळ (JGA)", "reviewed": false } },
+      "nearest": {
+        "en": "Jamnagar Airport (JGA)",
+        "hi": {
+          "text": "जामनगर हवाई अड्डा (JGA)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जामनगर विमानतळ (JGA)",
+          "reviewed": false
+        }
+      },
       "km": 131,
       "how": {
         "en": "Jamnagar has limited flights, with a daily service to Mumbai at the time of writing. Taxis take about two to two and a half hours to Dwarka. Rajkot and Ahmedabad have more flights but are much farther. Check the current schedule.",
-        "hi": { "text": "जामनगर में सीमित उड़ानें हैं, लिखते समय मुंबई के लिए दैनिक सेवा है। टैक्सी से द्वारका पहुँचने में लगभग दो से ढाई घंटे लगते हैं। राजकोट और अहमदाबाद में अधिक उड़ानें हैं पर बहुत दूर हैं। वर्तमान समय-सारणी देखें।", "reviewed": false },
-        "mr": { "text": "जामनगरमध्ये मर्यादित उड्डाणे आहेत, लिहिण्याच्या वेळी मुंबईसाठी दैनंदिन सेवा आहे. टॅक्सीने द्वारकेला पोहोचायला सुमारे दोन ते अडीच तास लागतात. राजकोट आणि अहमदाबादमध्ये अधिक उड्डाणे आहेत पण ते खूप दूर आहेत. सध्याचे वेळापत्रक तपासा.", "reviewed": false }
+        "hi": {
+          "text": "जामनगर में सीमित उड़ानें हैं, लिखते समय मुंबई के लिए दैनिक सेवा है। टैक्सी से द्वारका पहुँचने में लगभग दो से ढाई घंटे लगते हैं। राजकोट और अहमदाबाद में अधिक उड़ानें हैं पर बहुत दूर हैं। वर्तमान समय-सारणी देखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जामनगरमध्ये मर्यादित उड्डाणे आहेत, लिहिण्याच्या वेळी मुंबईसाठी दैनंदिन सेवा आहे. टॅक्सीने द्वारकेला पोहोचायला सुमारे दोन ते अडीच तास लागतात. राजकोट आणि अहमदाबादमध्ये अधिक उड्डाणे आहेत पण ते खूप दूर आहेत. सध्याचे वेळापत्रक तपासा.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Dwarka Railway Station (DWK)", "hi": { "text": "द्वारका रेलवे स्टेशन (DWK)", "reviewed": false }, "mr": { "text": "द्वारका रेल्वे स्थानक (DWK)", "reviewed": false } },
+      "nearest": {
+        "en": "Dwarka Railway Station (DWK)",
+        "hi": {
+          "text": "द्वारका रेलवे स्टेशन (DWK)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "द्वारका रेल्वे स्थानक (DWK)",
+          "reviewed": false
+        }
+      },
       "km": 2,
       "how": {
         "en": "A Western Railway station connected to Ahmedabad, Rajkot, Jamnagar and Mumbai. It is a short auto ride from the temple. Check train availability early, as seats on popular routes fill fast.",
-        "hi": { "text": "पश्चिम रेलवे का स्टेशन, जो अहमदाबाद, राजकोट, जामनगर और मुंबई से जुड़ा है। मंदिर तक ऑटो की छोटी सवारी है। गाड़ी की उपलब्धता जल्दी देखें, क्योंकि लोकप्रिय मार्गों पर सीटें जल्दी भर जाती हैं।", "reviewed": false },
-        "mr": { "text": "पश्चिम रेल्वेचे स्थानक, जे अहमदाबाद, राजकोट, जामनगर आणि मुंबईशी जोडलेले आहे. मंदिरापर्यंत ऑटोने थोडेच अंतर आहे. गाडीची उपलब्धता लवकर तपासा, कारण लोकप्रिय मार्गांवर जागा लवकर भरतात.", "reviewed": false }
+        "hi": {
+          "text": "पश्चिम रेलवे का स्टेशन, जो अहमदाबाद, राजकोट, जामनगर और मुंबई से जुड़ा है। मंदिर तक ऑटो की छोटी सवारी है। गाड़ी की उपलब्धता जल्दी देखें, क्योंकि लोकप्रिय मार्गों पर सीटें जल्दी भर जाती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पश्चिम रेल्वेचे स्थानक, जे अहमदाबाद, राजकोट, जामनगर आणि मुंबईशी जोडलेले आहे. मंदिरापर्यंत ऑटोने थोडेच अंतर आहे. गाडीची उपलब्धता लवकर तपासा, कारण लोकप्रिय मार्गांवर जागा लवकर भरतात.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "Jamnagar is about 130 km, Porbandar about 100 km, Rajkot about 230 km and Ahmedabad about 450 km away. State transport and private buses run from these cities. Distances other than Jamnagar are approximate.",
-        "hi": { "text": "जामनगर लगभग 130 किमी, पोरबंदर लगभग 100 किमी, राजकोट लगभग 230 किमी और अहमदाबाद लगभग 450 किमी दूर है। इन शहरों से राज्य परिवहन और निजी बसें चलती हैं। जामनगर के अतिरिक्त दूरियाँ अनुमानित हैं।", "reviewed": false },
-        "mr": { "text": "जामनगर सुमारे 130 किमी, पोरबंदर सुमारे 100 किमी, राजकोट सुमारे 230 किमी आणि अहमदाबाद सुमारे 450 किमी अंतरावर आहे. या शहरांमधून राज्य परिवहन आणि खासगी बसेस धावतात. जामनगर वगळता इतर अंतरे अंदाजे आहेत.", "reviewed": false }
+        "hi": {
+          "text": "जामनगर लगभग 130 किमी, पोरबंदर लगभग 100 किमी, राजकोट लगभग 230 किमी और अहमदाबाद लगभग 450 किमी दूर है। इन शहरों से राज्य परिवहन और निजी बसें चलती हैं। जामनगर के अतिरिक्त दूरियाँ अनुमानित हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जामनगर सुमारे 130 किमी, पोरबंदर सुमारे 100 किमी, राजकोट सुमारे 230 किमी आणि अहमदाबाद सुमारे 450 किमी अंतरावर आहे. या शहरांमधून राज्य परिवहन आणि खासगी बसेस धावतात. जामनगर वगळता इतर अंतरे अंदाजे आहेत.",
+          "reviewed": false
+        }
       },
       "km": 130
     }
   },
   "localTransport": {
     "en": "The temple, Gomti ghat and main market lie close together and are best done on foot. Autos and shared jeeps go to Rukmini Temple, Nageshwar and Okha for the Bet Dwarka boat or bridge. Agree the fare before you start, and ask about return transport for out-of-town stops.",
-    "hi": { "text": "मंदिर, गोमती घाट और मुख्य बाज़ार पास-पास हैं और पैदल घूमना सबसे अच्छा है। रुक्मिणी मंदिर, नागेश्वर और बेट द्वारका की नौका या पुल के लिए ओखा तक ऑटो और साझा जीप चलती हैं। चलने से पहले किराया तय करें और शहर के बाहर के पड़ावों के लिए वापसी का साधन पूछ लें।", "reviewed": false },
-    "mr": { "text": "मंदिर, गोमती घाट आणि मुख्य बाजार जवळजवळ आहेत आणि चालत फिरणे सर्वोत्तम. रुक्मिणी मंदिर, नागेश्वर आणि बेट द्वारकेची नाव किंवा पूल यासाठी ओखापर्यंत ऑटो आणि सामायिक जीप धावतात. निघण्यापूर्वी भाडे ठरवा आणि शहराबाहेरील थांब्यांसाठी परतीच्या वाहनाबद्दल विचारा.", "reviewed": false }
+    "hi": {
+      "text": "मंदिर, गोमती घाट और मुख्य बाज़ार पास-पास हैं और पैदल घूमना सबसे अच्छा है। रुक्मिणी मंदिर, नागेश्वर और बेट द्वारका की नौका या पुल के लिए ओखा तक ऑटो और साझा जीप चलती हैं। चलने से पहले किराया तय करें और शहर के बाहर के पड़ावों के लिए वापसी का साधन पूछ लें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मंदिर, गोमती घाट आणि मुख्य बाजार जवळजवळ आहेत आणि चालत फिरणे सर्वोत्तम. रुक्मिणी मंदिर, नागेश्वर आणि बेट द्वारकेची नाव किंवा पूल यासाठी ओखापर्यंत ऑटो आणि सामायिक जीप धावतात. निघण्यापूर्वी भाडे ठरवा आणि शहराबाहेरील थांब्यांसाठी परतीच्या वाहनाबद्दल विचारा.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "janmashtami",
       "note": {
         "en": "The biggest celebration at Dwarkadhish, with devotees arriving from across India. Expect very long queues and special arrangements. Check the temple's announcements.",
-        "hi": { "text": "द्वारकाधीश में सबसे बड़ा उत्सव, जिसमें देश भर से श्रद्धालु आते हैं। बहुत लंबी कतारों और विशेष व्यवस्थाओं की अपेक्षा रखें। मंदिर की सूचनाएँ देखें।", "reviewed": false },
-        "mr": { "text": "द्वारकाधीशातील सर्वात मोठा उत्सव, ज्यात देशभरातून भाविक येतात. खूप लांब रांगा आणि विशेष व्यवस्थेची अपेक्षा ठेवा. मंदिराच्या सूचना पाहा.", "reviewed": false }
+        "hi": {
+          "text": "द्वारकाधीश में सबसे बड़ा उत्सव, जिसमें देश भर से श्रद्धालु आते हैं। बहुत लंबी कतारों और विशेष व्यवस्थाओं की अपेक्षा रखें। मंदिर की सूचनाएँ देखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "द्वारकाधीशातील सर्वात मोठा उत्सव, ज्यात देशभरातून भाविक येतात. खूप लांब रांगा आणि विशेष व्यवस्थेची अपेक्षा ठेवा. मंदिराच्या सूचना पाहा.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "holi",
       "note": {
         "en": "Celebrated with colour at the temple and in the lanes, with large crowds of pilgrims.",
-        "hi": { "text": "मंदिर और गलियों में रंगों के साथ मनाई जाती है, श्रद्धालुओं की बड़ी भीड़ रहती है।", "reviewed": false },
-        "mr": { "text": "मंदिरात आणि गल्ल्यांमध्ये रंगांसह साजरी केली जाते, भाविकांची मोठी गर्दी असते.", "reviewed": false }
+        "hi": {
+          "text": "मंदिर और गलियों में रंगों के साथ मनाई जाती है, श्रद्धालुओं की बड़ी भीड़ रहती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मंदिरात आणि गल्ल्यांमध्ये रंगांसह साजरी केली जाते, भाविकांची मोठी गर्दी असते.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "maha-shivaratri",
       "note": {
         "en": "Observed at the Nageshwar Jyotirlinga near Dwarka with long queues and night worship.",
-        "hi": { "text": "द्वारका के पास नागेश्वर ज्योतिर्लिंग में लंबी कतारों और रात्रि पूजा के साथ मनाई जाती है।", "reviewed": false },
-        "mr": { "text": "द्वारकेजवळील नागेश्वर ज्योतिर्लिंगात लांब रांगा आणि रात्रीच्या पूजेसह साजरी केली जाते.", "reviewed": false }
+        "hi": {
+          "text": "द्वारका के पास नागेश्वर ज्योतिर्लिंग में लंबी कतारों और रात्रि पूजा के साथ मनाई जाती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "द्वारकेजवळील नागेश्वर ज्योतिर्लिंगात लांब रांगा आणि रात्रीच्या पूजेसह साजरी केली जाते.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Nageshwar Jyotirlinga", "hi": { "text": "नागेश्वर ज्योतिर्लिंग", "reviewed": false }, "mr": { "text": "नागेश्वर ज्योतिर्लिंग", "reviewed": false } },
+      "name": {
+        "en": "Nageshwar Jyotirlinga",
+        "hi": {
+          "text": "नागेश्वर ज्योतिर्लिंग",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नागेश्वर ज्योतिर्लिंग",
+          "reviewed": false
+        }
+      },
       "km": 16,
-      "note": { "en": "One of the twelve Jyotirlingas, a Shiva temple on the road to Okha.", "hi": { "text": "बारह ज्योतिर्लिंगों में से एक, ओखा मार्ग पर शिव मंदिर।", "reviewed": false }, "mr": { "text": "बारा ज्योतिर्लिंगांपैकी एक, ओखा मार्गावरील शिवमंदिर.", "reviewed": false } }
+      "note": {
+        "en": "One of the twelve Jyotirlingas, a Shiva temple on the road to Okha.",
+        "hi": {
+          "text": "बारह ज्योतिर्लिंगों में से एक, ओखा मार्ग पर शिव मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बारा ज्योतिर्लिंगांपैकी एक, ओखा मार्गावरील शिवमंदिर.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Gopi Talav", "hi": { "text": "गोपी तालाब", "reviewed": false }, "mr": { "text": "गोपी तलाव", "reviewed": false } },
+      "name": {
+        "en": "Gopi Talav",
+        "hi": {
+          "text": "गोपी तालाब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोपी तलाव",
+          "reviewed": false
+        }
+      },
       "km": 20,
-      "note": { "en": "A sacred pond linked to the gopis in Krishna's story. Distance is approximate.", "hi": { "text": "कृष्ण की कथा में गोपियों से जुड़ा पवित्र तालाब। दूरी अनुमानित है।", "reviewed": false }, "mr": { "text": "कृष्णकथेतील गोपींशी जोडलेले पवित्र तलाव. अंतर अंदाजे आहे.", "reviewed": false } }
+      "note": {
+        "en": "A sacred pond linked to the gopis in Krishna's story. Distance is approximate.",
+        "hi": {
+          "text": "कृष्ण की कथा में गोपियों से जुड़ा पवित्र तालाब। दूरी अनुमानित है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कृष्णकथेतील गोपींशी जोडलेले पवित्र तलाव. अंतर अंदाजे आहे.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Bet Dwarka", "hi": { "text": "बेट द्वारका", "reviewed": false }, "mr": { "text": "बेट द्वारका", "reviewed": false } },
+      "name": {
+        "en": "Bet Dwarka",
+        "hi": {
+          "text": "बेट द्वारका",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बेट द्वारका",
+          "reviewed": false
+        }
+      },
       "km": 33,
-      "note": { "en": "The island held to be Krishna's original home, reached from Okha by the Sudarshan Setu bridge or by boat. Distance is approximate.", "hi": { "text": "वह द्वीप जिसे कृष्ण का मूल घर माना जाता है, ओखा से सुदर्शन सेतु पुल या नौका द्वारा पहुँचा जाता है। दूरी अनुमानित है।", "reviewed": false }, "mr": { "text": "कृष्णाचे मूळ घर मानले जाणारे बेट, ओखाहून सुदर्शन सेतू पुलाने किंवा नावेने पोहोचता येते. अंतर अंदाजे आहे.", "reviewed": false } }
+      "note": {
+        "en": "The island held to be Krishna's original home, reached from Okha by the Sudarshan Setu bridge or by boat. Distance is approximate.",
+        "hi": {
+          "text": "वह द्वीप जिसे कृष्ण का मूल घर माना जाता है, ओखा से सुदर्शन सेतु पुल या नौका द्वारा पहुँचा जाता है। दूरी अनुमानित है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कृष्णाचे मूळ घर मानले जाणारे बेट, ओखाहून सुदर्शन सेतू पुलाने किंवा नावेने पोहोचता येते. अंतर अंदाजे आहे.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "Dwarkadhish temple and the Gomti ghat, Dwarka", "hi": { "text": "द्वारकाधीश मंदिर और गोमती घाट, द्वारका", "reviewed": false }, "mr": { "text": "द्वारकाधीश मंदिर आणि गोमती घाट, द्वारका", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Dwarka (Dwarkadhish)",
+        "hi": {
+          "text": "द्वारका (द्वारकाधीश)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "द्वारका (द्वारकाधीश)",
+          "reviewed": false
+        }
+      },
+      "credit": "Emmanuel DYAN from Paris, France, CC BY 2.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Dwarka,_Krishna_Temple,_Gujarat_-_India_(3408936173).jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Dwarka (Dwarkadhish)",
+        "hi": {
+          "text": "द्वारका (द्वारकाधीश)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "द्वारका (द्वारकाधीश)",
+          "reviewed": false
+        }
+      },
+      "credit": "Abhishek K Saxena, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Dwarka_Mandir_Gujarat.jpg"
     }
   ],
   "sources": [
-    { "label": "Dwarka, Wikipedia", "url": "https://en.wikipedia.org/wiki/Dwarka" },
-    { "label": "Dwarkadhish Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Dwarkadhish_Temple" },
-    { "label": "Shree Dwarkadhish Temple, official website", "url": "https://www.dwarkadhish.org" },
-    { "label": "Gujarat Tourism", "url": "https://www.gujarattourism.com" }
+    {
+      "label": "Dwarka, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dwarka"
+    },
+    {
+      "label": "Dwarkadhish Temple, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dwarkadhish_Temple"
+    },
+    {
+      "label": "Shree Dwarkadhish Temple, official website",
+      "url": "https://www.dwarkadhish.org"
+    },
+    {
+      "label": "Gujarat Tourism",
+      "url": "https://www.gujarattourism.com"
+    }
   ]
 }

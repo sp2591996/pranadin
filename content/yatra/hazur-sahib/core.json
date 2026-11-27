@@ -1,0 +1,376 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "hazur-sahib",
+  "name": {
+    "en": "Hazur Sahib",
+    "hi": {
+      "text": "हज़ूर साहिब",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "हजूर साहिब",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Nanded, Maharashtra",
+    "hi": {
+      "text": "नांदेड़, महाराष्ट्र",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "नांदेड, महाराष्ट्र",
+      "reviewed": false
+    }
+  },
+  "stateKey": "maharashtra",
+  "traditions": [
+    "sikh"
+  ],
+  "deity": {
+    "en": "Guru Gobind Singh and Guru Granth Sahib",
+    "hi": {
+      "text": "गुरु गोबिंद सिंह और गुरु ग्रंथ साहिब",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "गुरु गोविंद सिंह आणि गुरु ग्रंथ साहिब",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "One of the five Takhts, where Guru Gobind Singh spent his last days.",
+    "hi": {
+      "text": "पाँच तख़्तों में से एक, जहाँ गुरु गोबिंद सिंह ने अंतिम दिन बिताए।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "पाच तख्तांपैकी एक, जिथे गुरु गोविंद सिंह यांनी शेवटचे दिवस घालवले.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "The Guru's last home on the Godavari",
+    "hi": {
+      "text": "गोदावरी तट पर गुरु का अंतिम निवास",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "गोदावरीकाठी गुरूंचे शेवटचे निवासस्थान",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "Takht Sachkhand stands on the Godavari bank; the present building dates from the 1830s.",
+    "hi": {
+      "text": "तख़्त सचखंड गोदावरी के किनारे है; वर्तमान भवन 1830 के दशक का है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "तख्त सचखंड गोदावरीच्या काठी आहे; सध्याची इमारत 1830 च्या दशकातील आहे.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "In 1708 Guru Gobind Singh named the Guru Granth Sahib as the eternal Guru here.",
+    "hi": {
+      "text": "1708 में गुरु गोबिंद सिंह ने यहीं गुरु ग्रंथ साहिब को शाश्वत गुरु घोषित किया।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "1708 मध्ये गुरु गोविंद सिंह यांनी येथेच गुरु ग्रंथ साहिब यांना शाश्वत गुरु घोषित केले.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "seasons": [
+      {
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Pleasant, dry weather.",
+          "hi": {
+            "text": "सुहाना, सूखा मौसम।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "आल्हाददायक, कोरडे हवामान.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Monsoon showers, cooler air.",
+          "hi": {
+            "text": "मानसूनी बौछारें, ठंडी हवा।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाच्या सरी, थंड हवा.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot Deccan summer.",
+          "hi": {
+            "text": "दक्कन की बहुत गर्म गर्मी।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "दख्खनचा अतिशय उष्ण उन्हाळा.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Nanded airport",
+        "hi": {
+          "text": "नांदेड़ हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नांदेड विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 6,
+      "how": {
+        "en": "Few flights; Hyderabad airport is 280 km.",
+        "hi": {
+          "text": "कम उड़ानें; हैदराबाद हवाई अड्डा 280 किमी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कमी विमाने; हैदराबाद विमानतळ 280 किमी.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Hazur Sahib Nanded station",
+        "hi": {
+          "text": "हज़ूर साहिब नांदेड़ स्टेशन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हजूर साहिब नांदेड स्थानक",
+          "reviewed": false
+        }
+      },
+      "km": 3,
+      "how": {
+        "en": "Direct trains from Amritsar, Delhi and Mumbai.",
+        "hi": {
+          "text": "अमृतसर, दिल्ली और मुंबई से सीधी ट्रेनें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अमृतसर, दिल्ली आणि मुंबईहून थेट गाड्या.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Buses from Hyderabad, Aurangabad and Pune.",
+        "hi": {
+          "text": "हैदराबाद, औरंगाबाद और पुणे से बसें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हैदराबाद, छत्रपती संभाजीनगर आणि पुण्याहून बस.",
+          "reviewed": false
+        }
+      },
+      "km": 270
+    }
+  },
+  "localTransport": {
+    "en": "Autos link the gurdwaras along the river.",
+    "hi": {
+      "text": "नदी किनारे के गुरुद्वारों तक ऑटो चलते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "नदीकाठच्या गुरुद्वाऱ्यांदरम्यान रिक्षा चालतात.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "guru-nanak-jayanti",
+      "note": {
+        "en": "Lights, kirtan and processions.",
+        "hi": {
+          "text": "रोशनी, कीर्तन और शोभायात्रा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रोषणाई, कीर्तन आणि मिरवणुका.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "festivalId": "vaisakhi",
+      "note": {
+        "en": "Special prayers mark the Khalsa's founding.",
+        "hi": {
+          "text": "ख़ालसा स्थापना पर विशेष प्रार्थनाएँ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "खालसा स्थापनेनिमित्त विशेष प्रार्थना.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Kandhar Fort",
+        "hi": {
+          "text": "कंधार क़िला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कंधार किल्ला",
+          "reviewed": false
+        }
+      },
+      "km": 45,
+      "note": {
+        "en": "Large old fort with a moat.",
+        "hi": {
+          "text": "खाई वाला बड़ा पुराना क़िला।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "खंदक असलेला मोठा जुना किल्ला.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Sahastrakund Falls",
+        "hi": {
+          "text": "सहस्त्रकुंड जलप्रपात",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सहस्रकुंड धबधबा",
+          "reviewed": false
+        }
+      },
+      "km": 95,
+      "note": {
+        "en": "Waterfall on the Penganga, best after the rains.",
+        "hi": {
+          "text": "पैनगंगा पर जलप्रपात, वर्षा के बाद सबसे सुंदर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पैनगंगेवरील धबधबा, पावसानंतर सर्वात सुंदर.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Hazur Sahib, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hazur_Sahib"
+    },
+    {
+      "label": "Takht Sachkhand Board",
+      "url": "https://hazursahib.com/"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Hazur Sahib",
+        "hi": {
+          "text": "हज़ूर साहिब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हजूर साहिब",
+          "reviewed": false
+        }
+      },
+      "credit": "Jaspal singh, CC BY-SA 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Hazur_Sahib,_Nanded,_Maharashtra,_September_2012.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Hazur Sahib",
+        "hi": {
+          "text": "हज़ूर साहिब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हजूर साहिब",
+          "reviewed": false
+        }
+      },
+      "credit": "PriyanshuD6, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Sri_Hazur_Sahib,_Nanded.jpg"
+    }
+  ]
+}

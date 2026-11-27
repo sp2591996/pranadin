@@ -5,169 +5,436 @@
   "version": "2026-11-26.1",
   "status": "draft",
   "id": "madurai",
-  "name": { "en": "Madurai", "hi": { "text": "मदुरै", "reviewed": false }, "mr": { "text": "मदुराई", "reviewed": false } },
-  "state": { "en": "Tamil Nadu", "hi": { "text": "तमिलनाडु", "reviewed": false }, "mr": { "text": "तमिळनाडू", "reviewed": false } },
+  "name": {
+    "en": "Madurai",
+    "hi": {
+      "text": "मदुरै",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मदुराई",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Tamil Nadu",
+    "hi": {
+      "text": "तमिलनाडु",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "तमिळनाडू",
+      "reviewed": false
+    }
+  },
   "stateKey": "tamil-nadu",
-  "traditions": ["hindu", "jain"],
+  "traditions": [
+    "hindu"
+  ],
   "deity": {
     "en": "Goddess Meenakshi (a form of Parvati) with her consort Sundareswarar (Shiva). The city also holds old Jain sites on the Samanar Hills.",
-    "hi": { "text": "देवी मीनाक्षी (पार्वती का एक रूप) अपने पति सुंदरेश्वर (शिव) के साथ। नगर में समानर पहाड़ियों पर प्राचीन जैन स्थल भी हैं।", "reviewed": false },
-    "mr": { "text": "देवी मीनाक्षी (पार्वतीचे एक रूप) आपले पती सुंदरेश्वर (शिव) यांच्यासह. शहरात समानर टेकड्यांवर प्राचीन जैन स्थळेही आहेत.", "reviewed": false }
+    "hi": {
+      "text": "देवी मीनाक्षी (पार्वती का एक रूप) अपने पति सुंदरेश्वर (शिव) के साथ। नगर में समानर पहाड़ियों पर प्राचीन जैन स्थल भी हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवी मीनाक्षी (पार्वतीचे एक रूप) आपले पती सुंदरेश्वर (शिव) यांच्यासह. शहरात समानर टेकड्यांवर प्राचीन जैन स्थळेही आहेत.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "Madurai is one of the oldest living cities of South India and the heart of Tamil temple culture. The Meenakshi Amman temple is where the Goddess is worshipped as the ruler of the city, and the temple life still shapes the daily rhythm of the old town.",
-    "hi": { "text": "मदुरै दक्षिण भारत के सबसे प्राचीन जीवंत नगरों में से एक है और तमिल मंदिर संस्कृति का केंद्र है। मीनाक्षी अम्मन मंदिर में देवी की पूजा नगर की शासिका के रूप में होती है, और मंदिर का जीवन आज भी पुराने शहर की दिनचर्या तय करता है।", "reviewed": false },
-    "mr": { "text": "मदुराई हे दक्षिण भारतातील सर्वात प्राचीन जिवंत शहरांपैकी एक आणि तमिळ मंदिर संस्कृतीचे केंद्र आहे. मीनाक्षी अम्मन मंदिरात देवीची पूजा शहराची शासक म्हणून केली जाते, आणि मंदिराचे जीवन आजही जुन्या शहराची दिनचर्या ठरवते.", "reviewed": false }
+    "hi": {
+      "text": "मदुरै दक्षिण भारत के सबसे प्राचीन जीवंत नगरों में से एक है और तमिल मंदिर संस्कृति का केंद्र है। मीनाक्षी अम्मन मंदिर में देवी की पूजा नगर की शासिका के रूप में होती है, और मंदिर का जीवन आज भी पुराने शहर की दिनचर्या तय करता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मदुराई हे दक्षिण भारतातील सर्वात प्राचीन जिवंत शहरांपैकी एक आणि तमिळ मंदिर संस्कृतीचे केंद्र आहे. मीनाक्षी अम्मन मंदिरात देवीची पूजा शहराची शासक म्हणून केली जाते, आणि मंदिराचे जीवन आजही जुन्या शहराची दिनचर्या ठरवते.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "The temple city of Goddess Meenakshi",
-    "hi": { "text": "देवी मीनाक्षी की मंदिर नगरी", "reviewed": false },
-    "mr": { "text": "देवी मीनाक्षीची मंदिरनगरी", "reviewed": false }
+    "hi": {
+      "text": "देवी मीनाक्षी की मंदिर नगरी",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवी मीनाक्षीची मंदिरनगरी",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Madurai lies on the Vaigai river in southern Tamil Nadu. The old town is built in rings around the Meenakshi temple, whose colourful gopurams can be seen from far away. Streets around it hold flower sellers, silk and brass shops, tiffin houses and small shrines, and stay busy late into the night. Expect heat, crowds and a lot of walking barefoot on stone, and plan your day around the temple's midday break.",
-    "hi": { "text": "मदुरै दक्षिण तमिलनाडु में वैगई नदी के किनारे बसा है। पुराना शहर मीनाक्षी मंदिर के चारों ओर घेरों में बना है, जिसके रंगीन गोपुरम दूर से दिखाई देते हैं। आसपास की गलियों में फूल बेचने वाले, रेशम और पीतल की दुकानें, टिफ़िन घर और छोटे मंदिर हैं, और देर रात तक चहल-पहल रहती है। गर्मी, भीड़ और पत्थर पर नंगे पाँव काफ़ी चलना पड़ेगा, इसलिए दिन की योजना मंदिर के दोपहर के विश्राम को ध्यान में रखकर बनाएँ।", "reviewed": false },
-    "mr": { "text": "मदुराई दक्षिण तमिळनाडूमध्ये वैगई नदीकाठी वसले आहे. जुने शहर मीनाक्षी मंदिराभोवती वर्तुळाकार वसले आहे, ज्याची रंगीत गोपुरे दुरून दिसतात. आसपासच्या रस्त्यांवर फूलविक्रेते, रेशीम आणि पितळेची दुकाने, उपाहारगृहे आणि लहान मंदिरे आहेत, आणि उशिरा रात्रीपर्यंत वर्दळ असते. उष्णता, गर्दी आणि दगडावर अनवाणी बरेच चालणे अपेक्षित आहे, म्हणून दिवसाचे नियोजन मंदिराच्या दुपारच्या विश्रांतीनुसार करा.", "reviewed": false }
+    "hi": {
+      "text": "मदुरै दक्षिण तमिलनाडु में वैगई नदी के किनारे बसा है। पुराना शहर मीनाक्षी मंदिर के चारों ओर घेरों में बना है, जिसके रंगीन गोपुरम दूर से दिखाई देते हैं। आसपास की गलियों में फूल बेचने वाले, रेशम और पीतल की दुकानें, टिफ़िन घर और छोटे मंदिर हैं, और देर रात तक चहल-पहल रहती है। गर्मी, भीड़ और पत्थर पर नंगे पाँव काफ़ी चलना पड़ेगा, इसलिए दिन की योजना मंदिर के दोपहर के विश्राम को ध्यान में रखकर बनाएँ।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मदुराई दक्षिण तमिळनाडूमध्ये वैगई नदीकाठी वसले आहे. जुने शहर मीनाक्षी मंदिराभोवती वर्तुळाकार वसले आहे, ज्याची रंगीत गोपुरे दुरून दिसतात. आसपासच्या रस्त्यांवर फूलविक्रेते, रेशीम आणि पितळेची दुकाने, उपाहारगृहे आणि लहान मंदिरे आहेत, आणि उशिरा रात्रीपर्यंत वर्दळ असते. उष्णता, गर्दी आणि दगडावर अनवाणी बरेच चालणे अपेक्षित आहे, म्हणून दिवसाचे नियोजन मंदिराच्या दुपारच्या विश्रांतीनुसार करा.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "Tamil tradition tells of the Goddess Meenakshi, born as a princess of the Pandya kingdom, whose marriage to Shiva as Sundareswarar is celebrated every year at the Chithirai festival. The earliest surviving stonework of the temple dates to the Pandya king Sadayavarman Kulasekaran I (1190 to 1216). The complex was damaged in the early 14th century, rebuilt after the Vijayanagara recapture in 1378, and expanded greatly under the Madurai Nayaks in the 16th and 17th centuries. It has 14 gopurams, the tallest about 52 metres, a Hall of Thousand Pillars and the Golden Lotus Tank.",
-    "hi": { "text": "तमिल परंपरा में देवी मीनाक्षी का वर्णन पांड्य राज्य की राजकुमारी के रूप में मिलता है, जिनका सुंदरेश्वर रूपी शिव से विवाह हर वर्ष चित्तिरै उत्सव में मनाया जाता है। मंदिर की सबसे प्राचीन बची हुई पत्थर की रचना पांड्य राजा सदयवर्मन कुलशेखर प्रथम (1190 से 1216) के समय की है। परिसर को 14वीं सदी के आरंभ में क्षति पहुँची, 1378 में विजयनगर द्वारा पुनः अधिकार के बाद इसका पुनर्निर्माण हुआ, और 16वीं-17वीं सदी में मदुरै नायकों के काल में इसका बड़ा विस्तार हुआ। इसमें 14 गोपुरम हैं, सबसे ऊँचा लगभग 52 मीटर का, एक सहस्र स्तंभ मंडप और स्वर्ण कमल सरोवर है।", "reviewed": false },
-    "mr": { "text": "तमिळ परंपरेत देवी मीनाक्षीचे वर्णन पांड्य राज्याची राजकन्या म्हणून आढळते, जिचा सुंदरेश्वर रूपातील शिवाशी विवाह दरवर्षी चित्तिरै उत्सवात साजरा केला जातो. मंदिराचे सर्वात जुने टिकून राहिलेले दगडी बांधकाम पांड्य राजा सदयवर्मन कुलशेखर पहिला (1190 ते 1216) याच्या काळातील आहे. परिसराचे 14व्या शतकाच्या सुरुवातीला नुकसान झाले, 1378 मध्ये विजयनगरने पुन्हा ताबा घेतल्यावर त्याची पुनर्बांधणी झाली, आणि 16व्या-17व्या शतकात मदुराई नायकांच्या काळात त्याचा मोठा विस्तार झाला. यात 14 गोपुरे आहेत, सर्वात उंच सुमारे 52 मीटरचे, एक सहस्र स्तंभ मंडप आणि सुवर्ण कमल सरोवर आहे.", "reviewed": false }
+    "hi": {
+      "text": "तमिल परंपरा में देवी मीनाक्षी का वर्णन पांड्य राज्य की राजकुमारी के रूप में मिलता है, जिनका सुंदरेश्वर रूपी शिव से विवाह हर वर्ष चित्तिरै उत्सव में मनाया जाता है। मंदिर की सबसे प्राचीन बची हुई पत्थर की रचना पांड्य राजा सदयवर्मन कुलशेखर प्रथम (1190 से 1216) के समय की है। परिसर को 14वीं सदी के आरंभ में क्षति पहुँची, 1378 में विजयनगर द्वारा पुनः अधिकार के बाद इसका पुनर्निर्माण हुआ, और 16वीं-17वीं सदी में मदुरै नायकों के काल में इसका बड़ा विस्तार हुआ। इसमें 14 गोपुरम हैं, सबसे ऊँचा लगभग 52 मीटर का, एक सहस्र स्तंभ मंडप और स्वर्ण कमल सरोवर है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "तमिळ परंपरेत देवी मीनाक्षीचे वर्णन पांड्य राज्याची राजकन्या म्हणून आढळते, जिचा सुंदरेश्वर रूपातील शिवाशी विवाह दरवर्षी चित्तिरै उत्सवात साजरा केला जातो. मंदिराचे सर्वात जुने टिकून राहिलेले दगडी बांधकाम पांड्य राजा सदयवर्मन कुलशेखर पहिला (1190 ते 1216) याच्या काळातील आहे. परिसराचे 14व्या शतकाच्या सुरुवातीला नुकसान झाले, 1378 मध्ये विजयनगरने पुन्हा ताबा घेतल्यावर त्याची पुनर्बांधणी झाली, आणि 16व्या-17व्या शतकात मदुराई नायकांच्या काळात त्याचा मोठा विस्तार झाला. यात 14 गोपुरे आहेत, सर्वात उंच सुमारे 52 मीटरचे, एक सहस्र स्तंभ मंडप आणि सुवर्ण कमल सरोवर आहे.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From Tamil temple tradition and the recorded history of the Meenakshi Amman temple.",
-    "hi": { "text": "तमिल मंदिर परंपरा और मीनाक्षी अम्मन मंदिर के अभिलेखित इतिहास से।", "reviewed": false },
-    "mr": { "text": "तमिळ मंदिर परंपरा आणि मीनाक्षी अम्मन मंदिराच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+    "hi": {
+      "text": "तमिल मंदिर परंपरा और मीनाक्षी अम्मन मंदिर के अभिलेखित इतिहास से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "तमिळ मंदिर परंपरा आणि मीनाक्षी अम्मन मंदिराच्या नोंदवलेल्या इतिहासातून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [10, 11, 12, 1, 2, 3],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [12, 1, 2],
+        "months": [
+          12,
+          1,
+          2
+        ],
         "rating": "best",
         "weather": {
           "en": "The coolest and driest stretch, roughly 20 to 30 degrees. Comfortable for walking between temples. This is also the busiest pilgrim and holiday period, so book stays early.",
-          "hi": { "text": "सबसे ठंडा और शुष्क समय, लगभग 20 से 30 डिग्री। मंदिरों के बीच पैदल घूमने के लिए सुविधाजनक। यह तीर्थयात्रियों और छुट्टियों की सबसे व्यस्त अवधि भी है, इसलिए ठहरने की जगह पहले से बुक करें।", "reviewed": false },
-          "mr": { "text": "सर्वात थंड आणि कोरडा काळ, सुमारे 20 ते 30 अंश. मंदिरांदरम्यान चालण्यासाठी सोयीचा. हा यात्रेकरू आणि सुट्ट्यांचा सर्वात व्यस्त काळही आहे, म्हणून राहण्याची सोय आधी निश्चित करा.", "reviewed": false }
+          "hi": {
+            "text": "सबसे ठंडा और शुष्क समय, लगभग 20 से 30 डिग्री। मंदिरों के बीच पैदल घूमने के लिए सुविधाजनक। यह तीर्थयात्रियों और छुट्टियों की सबसे व्यस्त अवधि भी है, इसलिए ठहरने की जगह पहले से बुक करें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "सर्वात थंड आणि कोरडा काळ, सुमारे 20 ते 30 अंश. मंदिरांदरम्यान चालण्यासाठी सोयीचा. हा यात्रेकरू आणि सुट्ट्यांचा सर्वात व्यस्त काळही आहे, म्हणून राहण्याची सोय आधी निश्चित करा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [10, 11, 3],
+        "months": [
+          10,
+          11,
+          3
+        ],
         "rating": "good",
         "weather": {
           "en": "October and November bring the northeast monsoon, with showers that cool the days but can wet the temple floors. March is warm and getting hot. Navaratri crowds fall in October.",
-          "hi": { "text": "अक्टूबर और नवंबर में उत्तर-पूर्वी मानसून की बौछारें दिन ठंडे करती हैं, पर मंदिर का फ़र्श गीला हो सकता है। मार्च गर्म है और गर्मी बढ़ने लगती है। अक्टूबर में नवरात्रि की भीड़ रहती है।", "reviewed": false },
-          "mr": { "text": "ऑक्टोबर आणि नोव्हेंबरमध्ये ईशान्य मान्सूनच्या सरी दिवस थंड करतात, पण मंदिराची फरशी ओली होऊ शकते. मार्च उबदार असून उष्णता वाढू लागते. ऑक्टोबरमध्ये नवरात्रीची गर्दी असते.", "reviewed": false }
+          "hi": {
+            "text": "अक्टूबर और नवंबर में उत्तर-पूर्वी मानसून की बौछारें दिन ठंडे करती हैं, पर मंदिर का फ़र्श गीला हो सकता है। मार्च गर्म है और गर्मी बढ़ने लगती है। अक्टूबर में नवरात्रि की भीड़ रहती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "ऑक्टोबर आणि नोव्हेंबरमध्ये ईशान्य मान्सूनच्या सरी दिवस थंड करतात, पण मंदिराची फरशी ओली होऊ शकते. मार्च उबदार असून उष्णता वाढू लागते. ऑक्टोबरमध्ये नवरात्रीची गर्दी असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5, 6],
+        "months": [
+          4,
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Very hot and dry, often 38 to 42 degrees. Stone floors in the temple get too hot to walk on in the afternoon. Go only at dawn and after sunset, and carry water. The Chithirai wedding festival falls in April or May and draws very large crowds.",
-          "hi": { "text": "बहुत गर्म और शुष्क, अक्सर 38 से 42 डिग्री। दोपहर में मंदिर का पत्थर का फ़र्श चलने लायक नहीं रहता। केवल भोर और सूर्यास्त के बाद जाएँ और पानी साथ रखें। चित्तिरै विवाह उत्सव अप्रैल या मई में होता है और बहुत भारी भीड़ लाता है।", "reviewed": false },
-          "mr": { "text": "खूप उष्ण आणि कोरडे, अनेकदा 38 ते 42 अंश. दुपारी मंदिरातील दगडी फरशी चालण्याइतकी राहत नाही इतकी तापते. फक्त पहाटे आणि सूर्यास्तानंतर जा आणि पाणी सोबत ठेवा. चित्तिरै विवाह उत्सव एप्रिल किंवा मे मध्ये असतो आणि खूप मोठी गर्दी आणतो.", "reviewed": false }
+          "hi": {
+            "text": "बहुत गर्म और शुष्क, अक्सर 38 से 42 डिग्री। दोपहर में मंदिर का पत्थर का फ़र्श चलने लायक नहीं रहता। केवल भोर और सूर्यास्त के बाद जाएँ और पानी साथ रखें। चित्तिरै विवाह उत्सव अप्रैल या मई में होता है और बहुत भारी भीड़ लाता है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "खूप उष्ण आणि कोरडे, अनेकदा 38 ते 42 अंश. दुपारी मंदिरातील दगडी फरशी चालण्याइतकी राहत नाही इतकी तापते. फक्त पहाटे आणि सूर्यास्तानंतर जा आणि पाणी सोबत ठेवा. चित्तिरै विवाह उत्सव एप्रिल किंवा मे मध्ये असतो आणि खूप मोठी गर्दी आणतो.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "good",
         "weather": {
           "en": "Still hot and humid, with occasional showers. Fewer visitors than the winter months. Avani Moolam and other temple festivals fall around August and September.",
-          "hi": { "text": "अब भी गर्म और उमस भरा, बीच-बीच में बौछारें। सर्दियों के महीनों से कम यात्री। अवनि मूलम और अन्य मंदिर उत्सव अगस्त-सितंबर के आसपास होते हैं।", "reviewed": false },
-          "mr": { "text": "अजूनही उष्ण आणि दमट, अधूनमधून सरी. हिवाळ्याच्या महिन्यांपेक्षा कमी प्रवासी. अवनी मूलम आणि इतर मंदिर उत्सव ऑगस्ट-सप्टेंबरच्या सुमारास असतात.", "reviewed": false }
+          "hi": {
+            "text": "अब भी गर्म और उमस भरा, बीच-बीच में बौछारें। सर्दियों के महीनों से कम यात्री। अवनि मूलम और अन्य मंदिर उत्सव अगस्त-सितंबर के आसपास होते हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "अजूनही उष्ण आणि दमट, अधूनमधून सरी. हिवाळ्याच्या महिन्यांपेक्षा कमी प्रवासी. अवनी मूलम आणि इतर मंदिर उत्सव ऑगस्ट-सप्टेंबरच्या सुमारास असतात.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Madurai International Airport (IXM), Avaniyapuram", "hi": { "text": "मदुरै अंतरराष्ट्रीय हवाई अड्डा (IXM), अवनियापुरम", "reviewed": false }, "mr": { "text": "मदुराई आंतरराष्ट्रीय विमानतळ (IXM), अवनियापुरम", "reviewed": false } },
+      "nearest": {
+        "en": "Madurai International Airport (IXM), Avaniyapuram",
+        "hi": {
+          "text": "मदुरै अंतरराष्ट्रीय हवाई अड्डा (IXM), अवनियापुरम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मदुराई आंतरराष्ट्रीय विमानतळ (IXM), अवनियापुरम",
+          "reviewed": false
+        }
+      },
       "km": 12,
       "how": {
         "en": "Flights from Chennai, Bengaluru, Hyderabad, Mumbai and Delhi, plus some services to Colombo, Dubai and Singapore. Prepaid taxis and app cabs reach the temple area in about 30 to 45 minutes.",
-        "hi": { "text": "चेन्नई, बेंगलुरु, हैदराबाद, मुंबई और दिल्ली से उड़ानें, तथा कोलंबो, दुबई और सिंगापुर की कुछ सेवाएँ। प्रीपेड टैक्सी और ऐप कैब लगभग 30 से 45 मिनट में मंदिर क्षेत्र पहुँचाती हैं।", "reviewed": false },
-        "mr": { "text": "चेन्नई, बंगळुरू, हैदराबाद, मुंबई आणि दिल्ली येथून उड्डाणे, तसेच कोलंबो, दुबई आणि सिंगापूरच्या काही सेवा. प्रीपेड टॅक्सी आणि ॲप कॅब सुमारे 30 ते 45 मिनिटांत मंदिर परिसरात पोहोचवतात.", "reviewed": false }
+        "hi": {
+          "text": "चेन्नई, बेंगलुरु, हैदराबाद, मुंबई और दिल्ली से उड़ानें, तथा कोलंबो, दुबई और सिंगापुर की कुछ सेवाएँ। प्रीपेड टैक्सी और ऐप कैब लगभग 30 से 45 मिनट में मंदिर क्षेत्र पहुँचाती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चेन्नई, बंगळुरू, हैदराबाद, मुंबई आणि दिल्ली येथून उड्डाणे, तसेच कोलंबो, दुबई आणि सिंगापूरच्या काही सेवा. प्रीपेड टॅक्सी आणि ॲप कॅब सुमारे 30 ते 45 मिनिटांत मंदिर परिसरात पोहोचवतात.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Madurai Junction (MDU)", "hi": { "text": "मदुरै जंक्शन (MDU)", "reviewed": false }, "mr": { "text": "मदुराई जंक्शन (MDU)", "reviewed": false } },
+      "nearest": {
+        "en": "Madurai Junction (MDU)",
+        "hi": {
+          "text": "मदुरै जंक्शन (MDU)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मदुराई जंक्शन (MDU)",
+          "reviewed": false
+        }
+      },
       "km": 2,
       "how": {
         "en": "A main junction of southern Tamil Nadu with direct trains to Chennai, Coimbatore, Tiruchirappalli, Tirunelveli, Rameswaram and Kanyakumari. The station is a short auto ride from the temple.",
-        "hi": { "text": "दक्षिणी तमिलनाडु का प्रमुख जंक्शन, जहाँ से चेन्नई, कोयंबटूर, तिरुचिरापल्ली, तिरुनेलवेली, रामेश्वरम और कन्याकुमारी के लिए सीधी रेलगाड़ियाँ हैं। स्टेशन से मंदिर तक ऑटो का छोटा सफ़र है।", "reviewed": false },
-        "mr": { "text": "दक्षिण तमिळनाडूचे प्रमुख जंक्शन, जिथून चेन्नई, कोईम्बतूर, तिरुचिरापल्ली, तिरुनेलवेली, रामेश्वरम आणि कन्याकुमारीसाठी थेट गाड्या आहेत. स्थानकापासून मंदिर ऑटोने थोड्या अंतरावर आहे.", "reviewed": false }
+        "hi": {
+          "text": "दक्षिणी तमिलनाडु का प्रमुख जंक्शन, जहाँ से चेन्नई, कोयंबटूर, तिरुचिरापल्ली, तिरुनेलवेली, रामेश्वरम और कन्याकुमारी के लिए सीधी रेलगाड़ियाँ हैं। स्टेशन से मंदिर तक ऑटो का छोटा सफ़र है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दक्षिण तमिळनाडूचे प्रमुख जंक्शन, जिथून चेन्नई, कोईम्बतूर, तिरुचिरापल्ली, तिरुनेलवेली, रामेश्वरम आणि कन्याकुमारीसाठी थेट गाड्या आहेत. स्थानकापासून मंदिर ऑटोने थोड्या अंतरावर आहे.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "National highways link Madurai to Chennai and Bengaluru. Three bus terminals serve the city: Mattuthavani (MGR), Arappalayam and Periyar. Tiruchirappalli is about 135 km, Rameswaram about 175 km and Kanyakumari about 240 km away.",
-        "hi": { "text": "राष्ट्रीय राजमार्ग मदुरै को चेन्नई और बेंगलुरु से जोड़ते हैं। शहर में तीन बस अड्डे हैं: मट्टुथावनी (एमजीआर), अरप्पलयम और पेरियार। तिरुचिरापल्ली लगभग 135 किमी, रामेश्वरम लगभग 175 किमी और कन्याकुमारी लगभग 240 किमी दूर है।", "reviewed": false },
-        "mr": { "text": "राष्ट्रीय महामार्ग मदुराईला चेन्नई आणि बंगळुरूशी जोडतात. शहरात तीन बस स्थानके आहेत: मट्टुथावनी (एमजीआर), अरप्पलयम आणि पेरियार. तिरुचिरापल्ली सुमारे 135 किमी, रामेश्वरम सुमारे 175 किमी आणि कन्याकुमारी सुमारे 240 किमी अंतरावर आहे.", "reviewed": false }
+        "hi": {
+          "text": "राष्ट्रीय राजमार्ग मदुरै को चेन्नई और बेंगलुरु से जोड़ते हैं। शहर में तीन बस अड्डे हैं: मट्टुथावनी (एमजीआर), अरप्पलयम और पेरियार। तिरुचिरापल्ली लगभग 135 किमी, रामेश्वरम लगभग 175 किमी और कन्याकुमारी लगभग 240 किमी दूर है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "राष्ट्रीय महामार्ग मदुराईला चेन्नई आणि बंगळुरूशी जोडतात. शहरात तीन बस स्थानके आहेत: मट्टुथावनी (एमजीआर), अरप्पलयम आणि पेरियार. तिरुचिरापल्ली सुमारे 135 किमी, रामेश्वरम सुमारे 175 किमी आणि कन्याकुमारी सुमारे 240 किमी अंतरावर आहे.",
+          "reviewed": false
+        }
       },
       "km": 175
     }
   },
   "localTransport": {
     "en": "The temple area is compact and best done on foot, with autos and cycle rickshaws for short hops. App cabs and city buses cover the wider city. Agree the auto fare or insist on the meter before you start. Hill and village temples outside the city are easiest by taxi.",
-    "hi": { "text": "मंदिर क्षेत्र छोटा है और पैदल घूमना सबसे अच्छा है, छोटी दूरी के लिए ऑटो और साइकिल रिक्शा मिलते हैं। ऐप कैब और शहर की बसें पूरे शहर में चलती हैं। चलने से पहले ऑटो का किराया तय कर लें या मीटर पर ज़ोर दें। शहर के बाहर के पहाड़ी और ग्रामीण मंदिर टैक्सी से सबसे आसानी से पहुँचे जाते हैं।", "reviewed": false },
-    "mr": { "text": "मंदिर परिसर लहान आहे आणि चालत फिरणे सर्वोत्तम, लहान अंतरांसाठी ऑटो आणि सायकल रिक्षा मिळतात. ॲप कॅब आणि शहरी बसेस संपूर्ण शहरात चालतात. निघण्यापूर्वी ऑटोचे भाडे ठरवा किंवा मीटरचा आग्रह धरा. शहराबाहेरची डोंगरावरील आणि गावातील मंदिरे टॅक्सीने सर्वात सोयीची आहेत.", "reviewed": false }
+    "hi": {
+      "text": "मंदिर क्षेत्र छोटा है और पैदल घूमना सबसे अच्छा है, छोटी दूरी के लिए ऑटो और साइकिल रिक्शा मिलते हैं। ऐप कैब और शहर की बसें पूरे शहर में चलती हैं। चलने से पहले ऑटो का किराया तय कर लें या मीटर पर ज़ोर दें। शहर के बाहर के पहाड़ी और ग्रामीण मंदिर टैक्सी से सबसे आसानी से पहुँचे जाते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मंदिर परिसर लहान आहे आणि चालत फिरणे सर्वोत्तम, लहान अंतरांसाठी ऑटो आणि सायकल रिक्षा मिळतात. ॲप कॅब आणि शहरी बसेस संपूर्ण शहरात चालतात. निघण्यापूर्वी ऑटोचे भाडे ठरवा किंवा मीटरचा आग्रह धरा. शहराबाहेरची डोंगरावरील आणि गावातील मंदिरे टॅक्सीने सर्वात सोयीची आहेत.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "navratri-dussehra",
       "note": {
         "en": "The temple is lit up and the golu display of dolls is set up in the temple hall during Navaratri, which falls in the Tamil month of Purattasi.",
-        "hi": { "text": "नवरात्रि में, जो तमिल मास पुरट्टासी में आती है, मंदिर रोशनी से सजता है और मंदिर के सभागार में गुड़ियों की गोलू प्रदर्शनी लगती है।", "reviewed": false },
-        "mr": { "text": "नवरात्रीत, जी तमिळ महिना पुरट्टासीमध्ये येते, मंदिर रोषणाईने सजते आणि मंदिराच्या सभागृहात बाहुल्यांचे गोलू प्रदर्शन मांडले जाते.", "reviewed": false }
+        "hi": {
+          "text": "नवरात्रि में, जो तमिल मास पुरट्टासी में आती है, मंदिर रोशनी से सजता है और मंदिर के सभागार में गुड़ियों की गोलू प्रदर्शनी लगती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नवरात्रीत, जी तमिळ महिना पुरट्टासीमध्ये येते, मंदिर रोषणाईने सजते आणि मंदिराच्या सभागृहात बाहुल्यांचे गोलू प्रदर्शन मांडले जाते.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "maha-shivaratri",
       "note": {
         "en": "Night-long worship at the Sundareswarar shrine. Expect long queues and tight security.",
-        "hi": { "text": "सुंदरेश्वर मंदिर में रात भर पूजा। लंबी कतारें और कड़ी सुरक्षा की अपेक्षा रखें।", "reviewed": false },
-        "mr": { "text": "सुंदरेश्वर मंदिरात रात्रभर पूजा. लांब रांगा आणि कडक सुरक्षेची अपेक्षा ठेवा.", "reviewed": false }
+        "hi": {
+          "text": "सुंदरेश्वर मंदिर में रात भर पूजा। लंबी कतारें और कड़ी सुरक्षा की अपेक्षा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुंदरेश्वर मंदिरात रात्रभर पूजा. लांब रांगा आणि कडक सुरक्षेची अपेक्षा ठेवा.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "pongal",
       "note": {
         "en": "The Tamil harvest festival in January. Homes and temple streets are decorated, and the old town is festive and crowded.",
-        "hi": { "text": "जनवरी में तमिल फ़सल उत्सव। घर और मंदिर की गलियाँ सजाई जाती हैं, और पुराना शहर उत्सव और भीड़ से भरा रहता है।", "reviewed": false },
-        "mr": { "text": "जानेवारीतील तमिळ पीक उत्सव. घरे आणि मंदिराचे रस्ते सजवले जातात, आणि जुने शहर उत्सवी आणि गर्दीने भरलेले असते.", "reviewed": false }
+        "hi": {
+          "text": "जनवरी में तमिल फ़सल उत्सव। घर और मंदिर की गलियाँ सजाई जाती हैं, और पुराना शहर उत्सव और भीड़ से भरा रहता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जानेवारीतील तमिळ पीक उत्सव. घरे आणि मंदिराचे रस्ते सजवले जातात, आणि जुने शहर उत्सवी आणि गर्दीने भरलेले असते.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Thirupparankundram", "hi": { "text": "तिरुप्परनकुंद्रम", "reviewed": false }, "mr": { "text": "तिरुप्परनकुंद्रम", "reviewed": false } },
+      "name": {
+        "en": "Thirupparankundram",
+        "hi": {
+          "text": "तिरुप्परनकुंद्रम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "तिरुप्परनकुंद्रम",
+          "reviewed": false
+        }
+      },
       "km": 8,
-      "note": { "en": "Rock-cut hill temple of Murugan, the first of his six abodes (Arupadai Veedu).", "hi": { "text": "मुरुगन का चट्टान में तराशा पहाड़ी मंदिर, उनके छह धामों (अरुपडै वीडु) में पहला।", "reviewed": false }, "mr": { "text": "मुरुगनचे खडकात कोरलेले डोंगरावरील मंदिर, त्यांच्या सहा निवासांपैकी (अरुपडै वीडु) पहिले.", "reviewed": false } }
+      "note": {
+        "en": "Rock-cut hill temple of Murugan, the first of his six abodes (Arupadai Veedu).",
+        "hi": {
+          "text": "मुरुगन का चट्टान में तराशा पहाड़ी मंदिर, उनके छह धामों (अरुपडै वीडु) में पहला।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुरुगनचे खडकात कोरलेले डोंगरावरील मंदिर, त्यांच्या सहा निवासांपैकी (अरुपडै वीडु) पहिले.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Alagar Koyil", "hi": { "text": "अळगर कोयिल", "reviewed": false }, "mr": { "text": "अळगर कोयिल", "reviewed": false } },
+      "name": {
+        "en": "Alagar Koyil",
+        "hi": {
+          "text": "अळगर कोयिल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अळगर कोयिल",
+          "reviewed": false
+        }
+      },
       "km": 21,
-      "note": { "en": "Vishnu temple at the foot of the Solaimalai hills, honouring Kallazhagar, regarded as Meenakshi's brother.", "hi": { "text": "सोलैमलै पहाड़ियों की तलहटी में विष्णु मंदिर, कल्लळगर को समर्पित, जिन्हें मीनाक्षी का भाई माना जाता है।", "reviewed": false }, "mr": { "text": "सोलैमलै टेकड्यांच्या पायथ्याशी विष्णू मंदिर, कल्लळगर यांना समर्पित, ज्यांना मीनाक्षीचा भाऊ मानले जाते.", "reviewed": false } }
+      "note": {
+        "en": "Vishnu temple at the foot of the Solaimalai hills, honouring Kallazhagar, regarded as Meenakshi's brother.",
+        "hi": {
+          "text": "सोलैमलै पहाड़ियों की तलहटी में विष्णु मंदिर, कल्लळगर को समर्पित, जिन्हें मीनाक्षी का भाई माना जाता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सोलैमलै टेकड्यांच्या पायथ्याशी विष्णू मंदिर, कल्लळगर यांना समर्पित, ज्यांना मीनाक्षीचा भाऊ मानले जाते.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Rameswaram", "hi": { "text": "रामेश्वरम", "reviewed": false }, "mr": { "text": "रामेश्वरम", "reviewed": false } },
+      "name": {
+        "en": "Rameswaram",
+        "hi": {
+          "text": "रामेश्वरम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रामेश्वरम",
+          "reviewed": false
+        }
+      },
       "km": 175,
-      "note": { "en": "Jyotirlinga town and Char Dham site, a natural next stop by train or road.", "hi": { "text": "ज्योतिर्लिंग नगर और चार धाम स्थल, रेल या सड़क से स्वाभाविक अगला पड़ाव।", "reviewed": false }, "mr": { "text": "ज्योतिर्लिंग नगर आणि चार धाम स्थळ, रेल्वे किंवा रस्त्याने पुढचा नैसर्गिक थांबा.", "reviewed": false } }
+      "note": {
+        "en": "Jyotirlinga town and Char Dham site, a natural next stop by train or road.",
+        "hi": {
+          "text": "ज्योतिर्लिंग नगर और चार धाम स्थल, रेल या सड़क से स्वाभाविक अगला पड़ाव।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ज्योतिर्लिंग नगर आणि चार धाम स्थळ, रेल्वे किंवा रस्त्याने पुढचा नैसर्गिक थांबा.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "Madurai Meenakshi temple gopurams", "hi": { "text": "मदुरै मीनाक्षी मंदिर के गोपुरम", "reviewed": false }, "mr": { "text": "मदुराई मीनाक्षी मंदिराची गोपुरे", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Madurai",
+        "hi": {
+          "text": "मदुरै",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मदुराई",
+          "reviewed": false
+        }
+      },
+      "credit": "MADHURANTHAKAN JAGADEESAN, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:S-TN-34_Meenakshi_Amman_Temple_South_Gopuram_enriched_with_delicate_Stucco_works.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Madurai",
+        "hi": {
+          "text": "मदुरै",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मदुराई",
+          "reviewed": false
+        }
+      },
+      "credit": "Ashwin Kumar from Bangalore, India, CC BY-SA 2.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Meenakshi_Amman_Temple_(11875881173).jpg"
     }
   ],
   "sources": [
-    { "label": "Meenakshi Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple" },
-    { "label": "Arulmigu Meenakshi Sundareswarar Temple, HR&CE official website", "url": "https://maduraimeenakshi.hrce.tn.gov.in" },
-    { "label": "Madurai, Tamil Nadu Tourism", "url": "https://www.tamilnadutourism.tn.gov.in/destinations/madurai" },
-    { "label": "Madurai, Wikipedia", "url": "https://en.wikipedia.org/wiki/Madurai" }
+    {
+      "label": "Meenakshi Temple, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple"
+    },
+    {
+      "label": "Arulmigu Meenakshi Sundareswarar Temple, HR&CE official website",
+      "url": "https://maduraimeenakshi.hrce.tn.gov.in"
+    },
+    {
+      "label": "Madurai, Tamil Nadu Tourism",
+      "url": "https://www.tamilnadutourism.tn.gov.in/destinations/madurai"
+    },
+    {
+      "label": "Madurai, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Madurai"
+    }
   ]
 }

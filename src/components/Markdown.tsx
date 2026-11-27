@@ -119,7 +119,7 @@ export function Markdown({ source, resolveHref }: MarkdownProps) {
       const kb = key();
       blocks.push(
         // Keyboard users must be able to scroll a wide table (axe scrollable-region-focusable, QA-14).
-        <div key={kb} className="my-4 overflow-x-auto rounded-sm focus-visible:outline-2" tabIndex={0} role="region" aria-label={cells(head!).join(", ")}>
+        <div key={kb} className="relative my-4 overflow-x-auto rounded-sm focus-visible:outline-2" tabIndex={0} role="region" aria-label={cells(head!).join(", ")}>
           <table className="w-full border-collapse text-small">
             <thead>
               <tr>

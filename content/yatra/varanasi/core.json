@@ -5,169 +5,436 @@
   "version": "2026-11-21.1",
   "status": "draft",
   "id": "varanasi",
-  "name": { "en": "Varanasi (Kashi)", "hi": { "text": "वाराणसी (काशी)", "reviewed": false }, "mr": { "text": "वाराणसी (काशी)", "reviewed": false } },
-  "state": { "en": "Uttar Pradesh", "hi": { "text": "उत्तर प्रदेश", "reviewed": false }, "mr": { "text": "उत्तर प्रदेश", "reviewed": false } },
+  "name": {
+    "en": "Varanasi (Kashi)",
+    "hi": {
+      "text": "वाराणसी (काशी)",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "वाराणसी (काशी)",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Uttar Pradesh",
+    "hi": {
+      "text": "उत्तर प्रदेश",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "उत्तर प्रदेश",
+      "reviewed": false
+    }
+  },
   "stateKey": "uttar-pradesh",
-  "traditions": ["hindu", "buddhist", "jain"],
+  "traditions": [
+    "hindu"
+  ],
   "deity": {
     "en": "Lord Shiva as Vishwanath (Vishweshwara), one of the twelve Jyotirlingas. The city is also sacred to Buddhists (Sarnath) and Jains (the birthplace of several Tirthankaras).",
-    "hi": { "text": "भगवान शिव विश्वनाथ (विश्वेश्वर) के रूप में, बारह ज्योतिर्लिंगों में से एक। यह नगर बौद्धों (सारनाथ) और जैनों (कई तीर्थंकरों की जन्मभूमि) के लिए भी पवित्र है।", "reviewed": false },
-    "mr": { "text": "भगवान शिव विश्वनाथ (विश्वेश्वर) रूपात, बारा ज्योतिर्लिंगांपैकी एक. हे नगर बौद्ध (सारनाथ) आणि जैन (अनेक तीर्थंकरांची जन्मभूमी) यांच्यासाठीही पवित्र आहे.", "reviewed": false }
+    "hi": {
+      "text": "भगवान शिव विश्वनाथ (विश्वेश्वर) के रूप में, बारह ज्योतिर्लिंगों में से एक। यह नगर बौद्धों (सारनाथ) और जैनों (कई तीर्थंकरों की जन्मभूमि) के लिए भी पवित्र है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "भगवान शिव विश्वनाथ (विश्वेश्वर) रूपात, बारा ज्योतिर्लिंगांपैकी एक. हे नगर बौद्ध (सारनाथ) आणि जैन (अनेक तीर्थंकरांची जन्मभूमी) यांच्यासाठीही पवित्र आहे.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "Kashi is counted among the oldest continuously inhabited cities. Tradition holds it as the city of Shiva, and a bath in the Ganga and a visit to the Vishwanath temple are central to a Hindu pilgrimage. Many families also come here to perform rites for their ancestors.",
-    "hi": { "text": "काशी को सबसे प्राचीन और निरंतर बसे नगरों में गिना जाता है। परंपरा इसे शिव की नगरी मानती है, और गंगा स्नान तथा विश्वनाथ मंदिर के दर्शन हिंदू तीर्थयात्रा के केंद्र में हैं। कई परिवार यहाँ अपने पितरों के लिए कर्म करने भी आते हैं।", "reviewed": false },
-    "mr": { "text": "काशी हे सर्वात प्राचीन आणि सतत वसलेल्या नगरांपैकी एक मानले जाते. परंपरेनुसार ही शिवाची नगरी आहे, आणि गंगास्नान व विश्वनाथ मंदिराचे दर्शन हिंदू तीर्थयात्रेच्या केंद्रस्थानी आहे. अनेक कुटुंबे येथे आपल्या पितरांसाठी विधी करण्यासाठीही येतात.", "reviewed": false }
+    "hi": {
+      "text": "काशी को सबसे प्राचीन और निरंतर बसे नगरों में गिना जाता है। परंपरा इसे शिव की नगरी मानती है, और गंगा स्नान तथा विश्वनाथ मंदिर के दर्शन हिंदू तीर्थयात्रा के केंद्र में हैं। कई परिवार यहाँ अपने पितरों के लिए कर्म करने भी आते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "काशी हे सर्वात प्राचीन आणि सतत वसलेल्या नगरांपैकी एक मानले जाते. परंपरेनुसार ही शिवाची नगरी आहे, आणि गंगास्नान व विश्वनाथ मंदिराचे दर्शन हिंदू तीर्थयात्रेच्या केंद्रस्थानी आहे. अनेक कुटुंबे येथे आपल्या पितरांसाठी विधी करण्यासाठीही येतात.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "The city of Shiva on the Ganga",
-    "hi": { "text": "गंगा तट पर शिव की नगरी", "reviewed": false },
-    "mr": { "text": "गंगेकाठची शिवाची नगरी", "reviewed": false }
+    "hi": {
+      "text": "गंगा तट पर शिव की नगरी",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "गंगेकाठची शिवाची नगरी",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Varanasi sits on the western bank of the Ganga, where the river turns north. Its heart is a long line of stone ghats, narrow lanes, small shrines and the Kashi Vishwanath temple. Mornings begin with boats and bathers at sunrise, and evenings with lamps and the Ganga aarti. Expect crowds, noise, steps and sacred moments side by side. Give yourself time to walk slowly.",
-    "hi": { "text": "वाराणसी गंगा के पश्चिमी तट पर बसी है, जहाँ नदी उत्तर की ओर मुड़ती है। इसका हृदय पत्थर के घाटों की लंबी कतार, संकरी गलियाँ, छोटे मंदिर और काशी विश्वनाथ मंदिर है। सुबह सूर्योदय पर नावों और स्नान करने वालों से शुरू होती है और शाम दीपों और गंगा आरती से। भीड़, शोर, सीढ़ियाँ और पवित्र क्षण साथ-साथ मिलेंगे। धीरे-धीरे घूमने के लिए पर्याप्त समय रखें।", "reviewed": false },
-    "mr": { "text": "वाराणसी गंगेच्या पश्चिम काठावर वसले आहे, जिथे नदी उत्तरेकडे वळते. दगडी घाटांची लांब रांग, अरुंद गल्ल्या, लहान मंदिरे आणि काशी विश्वनाथ मंदिर हे त्याचे हृदय आहे. सकाळ सूर्योदयाच्या वेळी नावा आणि स्नान करणाऱ्यांनी सुरू होते आणि संध्याकाळ दिवे व गंगा आरतीने. गर्दी, आवाज, पायऱ्या आणि पवित्र क्षण एकत्र अनुभवायला मिळतील. सावकाश फिरण्यासाठी पुरेसा वेळ ठेवा.", "reviewed": false }
+    "hi": {
+      "text": "वाराणसी गंगा के पश्चिमी तट पर बसी है, जहाँ नदी उत्तर की ओर मुड़ती है। इसका हृदय पत्थर के घाटों की लंबी कतार, संकरी गलियाँ, छोटे मंदिर और काशी विश्वनाथ मंदिर है। सुबह सूर्योदय पर नावों और स्नान करने वालों से शुरू होती है और शाम दीपों और गंगा आरती से। भीड़, शोर, सीढ़ियाँ और पवित्र क्षण साथ-साथ मिलेंगे। धीरे-धीरे घूमने के लिए पर्याप्त समय रखें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "वाराणसी गंगेच्या पश्चिम काठावर वसले आहे, जिथे नदी उत्तरेकडे वळते. दगडी घाटांची लांब रांग, अरुंद गल्ल्या, लहान मंदिरे आणि काशी विश्वनाथ मंदिर हे त्याचे हृदय आहे. सकाळ सूर्योदयाच्या वेळी नावा आणि स्नान करणाऱ्यांनी सुरू होते आणि संध्याकाळ दिवे व गंगा आरतीने. गर्दी, आवाज, पायऱ्या आणि पवित्र क्षण एकत्र अनुभवायला मिळतील. सावकाश फिरण्यासाठी पुरेसा वेळ ठेवा.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "The Puranas, especially the Kashi Khanda of the Skanda Purana, describe Kashi as the city that Shiva never leaves. The Kashi Vishwanath temple has been destroyed and rebuilt several times. The present temple was built in 1780 by Maharani Ahilyabai Holkar of Indore. In 2021 the Kashi Vishwanath Dham corridor opened a wide path between the temple and the river. Nearby Sarnath is where the Buddha gave his first teaching.",
-    "hi": { "text": "पुराणों में, विशेषकर स्कंद पुराण के काशी खंड में, काशी को ऐसी नगरी बताया गया है जिसे शिव कभी नहीं छोड़ते। काशी विश्वनाथ मंदिर कई बार तोड़ा और फिर बनाया गया। वर्तमान मंदिर 1780 में इंदौर की महारानी अहिल्याबाई होलकर ने बनवाया। 2021 में काशी विश्वनाथ धाम गलियारे ने मंदिर और नदी के बीच चौड़ा मार्ग खोला। पास का सारनाथ वह स्थान है जहाँ बुद्ध ने अपना पहला उपदेश दिया।", "reviewed": false },
-    "mr": { "text": "पुराणांमध्ये, विशेषतः स्कंद पुराणाच्या काशीखंडात, काशीचे वर्णन शिव कधीही न सोडणारी नगरी असे केले आहे. काशी विश्वनाथ मंदिर अनेक वेळा पाडले आणि पुन्हा बांधले गेले. सध्याचे मंदिर 1780 मध्ये इंदूरच्या महाराणी अहिल्याबाई होळकर यांनी बांधले. 2021 मध्ये काशी विश्वनाथ धाम मार्गिकेने मंदिर आणि नदी यांच्यात रुंद मार्ग उघडला. जवळचे सारनाथ हे ठिकाण आहे जिथे बुद्धांनी पहिला उपदेश केला.", "reviewed": false }
+    "hi": {
+      "text": "पुराणों में, विशेषकर स्कंद पुराण के काशी खंड में, काशी को ऐसी नगरी बताया गया है जिसे शिव कभी नहीं छोड़ते। काशी विश्वनाथ मंदिर कई बार तोड़ा और फिर बनाया गया। वर्तमान मंदिर 1780 में इंदौर की महारानी अहिल्याबाई होलकर ने बनवाया। 2021 में काशी विश्वनाथ धाम गलियारे ने मंदिर और नदी के बीच चौड़ा मार्ग खोला। पास का सारनाथ वह स्थान है जहाँ बुद्ध ने अपना पहला उपदेश दिया।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "पुराणांमध्ये, विशेषतः स्कंद पुराणाच्या काशीखंडात, काशीचे वर्णन शिव कधीही न सोडणारी नगरी असे केले आहे. काशी विश्वनाथ मंदिर अनेक वेळा पाडले आणि पुन्हा बांधले गेले. सध्याचे मंदिर 1780 मध्ये इंदूरच्या महाराणी अहिल्याबाई होळकर यांनी बांधले. 2021 मध्ये काशी विश्वनाथ धाम मार्गिकेने मंदिर आणि नदी यांच्यात रुंद मार्ग उघडला. जवळचे सारनाथ हे ठिकाण आहे जिथे बुद्धांनी पहिला उपदेश केला.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From the Kashi Khanda tradition and the recorded history of the temple.",
-    "hi": { "text": "काशी खंड की परंपरा और मंदिर के अभिलेखित इतिहास से।", "reviewed": false },
-    "mr": { "text": "काशीखंडाच्या परंपरेतून आणि मंदिराच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+    "hi": {
+      "text": "काशी खंड की परंपरा और मंदिर के अभिलेखित इतिहास से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "काशीखंडाच्या परंपरेतून आणि मंदिराच्या नोंदवलेल्या इतिहासातून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [10, 11, 12, 1, 2, 3],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [10, 11, 2, 3],
+        "months": [
+          10,
+          11,
+          2,
+          3
+        ],
         "rating": "best",
         "weather": {
           "en": "Clear and comfortable, roughly 15 to 30 degrees. Best for walking the ghats and long days. October and November also bring Dev Deepawali crowds.",
-          "hi": { "text": "साफ़ और सुहावना मौसम, लगभग 15 से 30 डिग्री। घाटों पर पैदल घूमने और लंबे दिनों के लिए सर्वोत्तम। अक्टूबर-नवंबर में देव दीपावली की भीड़ भी रहती है।", "reviewed": false },
-          "mr": { "text": "स्वच्छ आणि आल्हाददायक हवामान, सुमारे 15 ते 30 अंश. घाटांवर चालण्यासाठी आणि लांब दिवसांसाठी उत्तम. ऑक्टोबर-नोव्हेंबरमध्ये देव दीपावलीची गर्दीही असते.", "reviewed": false }
+          "hi": {
+            "text": "साफ़ और सुहावना मौसम, लगभग 15 से 30 डिग्री। घाटों पर पैदल घूमने और लंबे दिनों के लिए सर्वोत्तम। अक्टूबर-नवंबर में देव दीपावली की भीड़ भी रहती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "स्वच्छ आणि आल्हाददायक हवामान, सुमारे 15 ते 30 अंश. घाटांवर चालण्यासाठी आणि लांब दिवसांसाठी उत्तम. ऑक्टोबर-नोव्हेंबरमध्ये देव दीपावलीची गर्दीही असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [12, 1],
+        "months": [
+          12,
+          1
+        ],
         "rating": "good",
         "weather": {
           "en": "Cold mornings, often 5 to 10 degrees, with dense fog that can delay trains and flights and hide the sunrise. Carry warm layers. Crowds are lighter.",
-          "hi": { "text": "ठंडी सुबहें, अक्सर 5 से 10 डिग्री, और घना कोहरा जो रेल और उड़ानों में देरी कर सकता है तथा सूर्योदय छिपा लेता है। गर्म कपड़े रखें। भीड़ कम रहती है।", "reviewed": false },
-          "mr": { "text": "थंड सकाळ, अनेकदा 5 ते 10 अंश, आणि दाट धुके जे रेल्वे व विमानांना उशीर करू शकते आणि सूर्योदय झाकते. उबदार कपडे सोबत ठेवा. गर्दी कमी असते.", "reviewed": false }
+          "hi": {
+            "text": "ठंडी सुबहें, अक्सर 5 से 10 डिग्री, और घना कोहरा जो रेल और उड़ानों में देरी कर सकता है तथा सूर्योदय छिपा लेता है। गर्म कपड़े रखें। भीड़ कम रहती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंड सकाळ, अनेकदा 5 ते 10 अंश, आणि दाट धुके जे रेल्वे व विमानांना उशीर करू शकते आणि सूर्योदय झाकते. उबदार कपडे सोबत ठेवा. गर्दी कमी असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5, 6],
+        "months": [
+          4,
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Very hot and dry, often above 40 degrees, with hot winds. Visit only at dawn and after sunset, and drink water often.",
-          "hi": { "text": "बहुत गर्म और शुष्क, अक्सर 40 डिग्री से ऊपर, गर्म हवाओं के साथ। केवल भोर और सूर्यास्त के बाद जाएँ, और बार-बार पानी पिएँ।", "reviewed": false },
-          "mr": { "text": "खूप उष्ण आणि कोरडे, अनेकदा 40 अंशांहून अधिक, गरम वाऱ्यांसह. फक्त पहाटे आणि सूर्यास्तानंतर जा, आणि वारंवार पाणी प्या.", "reviewed": false }
+          "hi": {
+            "text": "बहुत गर्म और शुष्क, अक्सर 40 डिग्री से ऊपर, गर्म हवाओं के साथ। केवल भोर और सूर्यास्त के बाद जाएँ, और बार-बार पानी पिएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "खूप उष्ण आणि कोरडे, अनेकदा 40 अंशांहून अधिक, गरम वाऱ्यांसह. फक्त पहाटे आणि सूर्यास्तानंतर जा, आणि वारंवार पाणी प्या.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Monsoon. The Ganga rises, lower ghats can go under water, boat rides may stop and lanes get slippery. Humid and warm.",
-          "hi": { "text": "वर्षा ऋतु। गंगा का जल बढ़ता है, निचले घाट डूब सकते हैं, नाव सेवा रुक सकती है और गलियाँ फिसलन भरी हो जाती हैं। उमस और गर्मी रहती है।", "reviewed": false },
-          "mr": { "text": "पावसाळा. गंगेची पातळी वाढते, खालचे घाट पाण्याखाली जाऊ शकतात, नाव सेवा थांबू शकते आणि गल्ल्या निसरड्या होतात. दमट आणि उष्ण हवा असते.", "reviewed": false }
+          "hi": {
+            "text": "वर्षा ऋतु। गंगा का जल बढ़ता है, निचले घाट डूब सकते हैं, नाव सेवा रुक सकती है और गलियाँ फिसलन भरी हो जाती हैं। उमस और गर्मी रहती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळा. गंगेची पातळी वाढते, खालचे घाट पाण्याखाली जाऊ शकतात, नाव सेवा थांबू शकते आणि गल्ल्या निसरड्या होतात. दमट आणि उष्ण हवा असते.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Lal Bahadur Shastri International Airport (VNS)", "hi": { "text": "लाल बहादुर शास्त्री अंतरराष्ट्रीय हवाई अड्डा (VNS)", "reviewed": false }, "mr": { "text": "लाल बहादूर शास्त्री आंतरराष्ट्रीय विमानतळ (VNS)", "reviewed": false } },
+      "nearest": {
+        "en": "Lal Bahadur Shastri International Airport (VNS)",
+        "hi": {
+          "text": "लाल बहादुर शास्त्री अंतरराष्ट्रीय हवाई अड्डा (VNS)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लाल बहादूर शास्त्री आंतरराष्ट्रीय विमानतळ (VNS)",
+          "reviewed": false
+        }
+      },
       "km": 25,
       "how": {
         "en": "Direct flights from major Indian cities. Taxis, app cabs and the airport bus reach the city in about 45 to 75 minutes depending on traffic.",
-        "hi": { "text": "प्रमुख भारतीय शहरों से सीधी उड़ानें। टैक्सी, ऐप कैब और हवाई अड्डे की बस से शहर पहुँचने में यातायात के अनुसार लगभग 45 से 75 मिनट लगते हैं।", "reviewed": false },
-        "mr": { "text": "भारतातील प्रमुख शहरांमधून थेट उड्डाणे. टॅक्सी, ॲप कॅब आणि विमानतळाच्या बसने वाहतुकीनुसार सुमारे 45 ते 75 मिनिटांत शहरात पोहोचता येते.", "reviewed": false }
+        "hi": {
+          "text": "प्रमुख भारतीय शहरों से सीधी उड़ानें। टैक्सी, ऐप कैब और हवाई अड्डे की बस से शहर पहुँचने में यातायात के अनुसार लगभग 45 से 75 मिनट लगते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भारतातील प्रमुख शहरांमधून थेट उड्डाणे. टॅक्सी, ॲप कॅब आणि विमानतळाच्या बसने वाहतुकीनुसार सुमारे 45 ते 75 मिनिटांत शहरात पोहोचता येते.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Varanasi Junction (BSB), also called Varanasi Cantt", "hi": { "text": "वाराणसी जंक्शन (BSB), जिसे वाराणसी कैंट भी कहते हैं", "reviewed": false }, "mr": { "text": "वाराणसी जंक्शन (BSB), ज्याला वाराणसी कँट असेही म्हणतात", "reviewed": false } },
+      "nearest": {
+        "en": "Varanasi Junction (BSB), also called Varanasi Cantt",
+        "hi": {
+          "text": "वाराणसी जंक्शन (BSB), जिसे वाराणसी कैंट भी कहते हैं",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वाराणसी जंक्शन (BSB), ज्याला वाराणसी कँट असेही म्हणतात",
+          "reviewed": false
+        }
+      },
       "km": 6,
       "how": {
         "en": "Well connected to Delhi, Kolkata, Mumbai, Lucknow and Prayagraj. Two other stations, Banaras (Manduadih) and Kashi, also serve the city. Check which station your train uses.",
-        "hi": { "text": "दिल्ली, कोलकाता, मुंबई, लखनऊ और प्रयागराज से अच्छी तरह जुड़ा है। दो अन्य स्टेशन, बनारस (मंडुआडीह) और काशी, भी शहर की सेवा करते हैं। देखें कि आपकी ट्रेन किस स्टेशन पर रुकती है।", "reviewed": false },
-        "mr": { "text": "दिल्ली, कोलकाता, मुंबई, लखनऊ आणि प्रयागराज यांच्याशी चांगले जोडलेले. बनारस (मंडुआडीह) आणि काशी ही आणखी दोन स्थानकेही शहराला सेवा देतात. तुमची गाडी कोणत्या स्थानकावर थांबते ते तपासा.", "reviewed": false }
+        "hi": {
+          "text": "दिल्ली, कोलकाता, मुंबई, लखनऊ और प्रयागराज से अच्छी तरह जुड़ा है। दो अन्य स्टेशन, बनारस (मंडुआडीह) और काशी, भी शहर की सेवा करते हैं। देखें कि आपकी ट्रेन किस स्टेशन पर रुकती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्ली, कोलकाता, मुंबई, लखनऊ आणि प्रयागराज यांच्याशी चांगले जोडलेले. बनारस (मंडुआडीह) आणि काशी ही आणखी दोन स्थानकेही शहराला सेवा देतात. तुमची गाडी कोणत्या स्थानकावर थांबते ते तपासा.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "The city lies on the Delhi to Kolkata highway corridor. Prayagraj is about 120 km, Lucknow about 300 km and Gaya about 250 km away. State and private buses run from these cities.",
-        "hi": { "text": "शहर दिल्ली-कोलकाता राजमार्ग गलियारे पर है। प्रयागराज लगभग 120 किमी, लखनऊ लगभग 300 किमी और गया लगभग 250 किमी दूर है। इन शहरों से राज्य और निजी बसें चलती हैं।", "reviewed": false },
-        "mr": { "text": "शहर दिल्ली-कोलकाता महामार्गाच्या मार्गिकेवर आहे. प्रयागराज सुमारे 120 किमी, लखनऊ सुमारे 300 किमी आणि गया सुमारे 250 किमी अंतरावर आहे. या शहरांमधून राज्य आणि खासगी बसेस धावतात.", "reviewed": false }
+        "hi": {
+          "text": "शहर दिल्ली-कोलकाता राजमार्ग गलियारे पर है। प्रयागराज लगभग 120 किमी, लखनऊ लगभग 300 किमी और गया लगभग 250 किमी दूर है। इन शहरों से राज्य और निजी बसें चलती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शहर दिल्ली-कोलकाता महामार्गाच्या मार्गिकेवर आहे. प्रयागराज सुमारे 120 किमी, लखनऊ सुमारे 300 किमी आणि गया सुमारे 250 किमी अंतरावर आहे. या शहरांमधून राज्य आणि खासगी बसेस धावतात.",
+          "reviewed": false
+        }
       },
       "km": 120
     }
   },
   "localTransport": {
     "en": "The old city lanes near the ghats are walk-only or allow only cycle rickshaws. Use e-rickshaws and autos to reach the edge of the old city, then walk. Boats run along the ghats. Agree the fare or use the meter before you start, and pick a licensed boatman at a fixed-rate counter where one exists.",
-    "hi": { "text": "घाटों के पास की पुरानी गलियों में केवल पैदल या साइकिल रिक्शा चलता है। पुराने शहर के किनारे तक ई-रिक्शा और ऑटो लें, फिर पैदल चलें। घाटों के साथ नावें चलती हैं। चलने से पहले किराया तय कर लें या मीटर का उपयोग करें, और जहाँ निश्चित दर का काउंटर हो वहाँ से मान्य नाविक चुनें।", "reviewed": false },
-    "mr": { "text": "घाटांजवळच्या जुन्या गल्ल्यांमध्ये फक्त चालत किंवा सायकल रिक्षाने जाता येते. जुन्या शहराच्या काठापर्यंत ई-रिक्षा आणि ऑटो घ्या, मग चालत जा. घाटांच्या कडेने नावा चालतात. निघण्यापूर्वी भाडे ठरवा किंवा मीटर वापरा, आणि जिथे निश्चित दराचे काउंटर असेल तिथून परवानाधारक नावाडी निवडा.", "reviewed": false }
+    "hi": {
+      "text": "घाटों के पास की पुरानी गलियों में केवल पैदल या साइकिल रिक्शा चलता है। पुराने शहर के किनारे तक ई-रिक्शा और ऑटो लें, फिर पैदल चलें। घाटों के साथ नावें चलती हैं। चलने से पहले किराया तय कर लें या मीटर का उपयोग करें, और जहाँ निश्चित दर का काउंटर हो वहाँ से मान्य नाविक चुनें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "घाटांजवळच्या जुन्या गल्ल्यांमध्ये फक्त चालत किंवा सायकल रिक्षाने जाता येते. जुन्या शहराच्या काठापर्यंत ई-रिक्षा आणि ऑटो घ्या, मग चालत जा. घाटांच्या कडेने नावा चालतात. निघण्यापूर्वी भाडे ठरवा किंवा मीटर वापरा, आणि जिथे निश्चित दराचे काउंटर असेल तिथून परवानाधारक नावाडी निवडा.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "maha-shivaratri",
       "note": {
         "en": "A very large night of worship at the Vishwanath temple. Expect long queues and tight security.",
-        "hi": { "text": "विश्वनाथ मंदिर में पूजा की बहुत बड़ी रात। लंबी कतारें और कड़ी सुरक्षा की अपेक्षा रखें।", "reviewed": false },
-        "mr": { "text": "विश्वनाथ मंदिरात पूजेची खूप मोठी रात्र. लांब रांगा आणि कडक सुरक्षेची अपेक्षा ठेवा.", "reviewed": false }
+        "hi": {
+          "text": "विश्वनाथ मंदिर में पूजा की बहुत बड़ी रात। लंबी कतारें और कड़ी सुरक्षा की अपेक्षा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "विश्वनाथ मंदिरात पूजेची खूप मोठी रात्र. लांब रांगा आणि कडक सुरक्षेची अपेक्षा ठेवा.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "diwali",
       "note": {
         "en": "Dev Deepawali, on the full moon about two weeks after Diwali, lights the ghats with lakhs of lamps.",
-        "hi": { "text": "दीपावली के लगभग दो सप्ताह बाद पूर्णिमा पर देव दीपावली में घाट लाखों दीपों से जगमगाते हैं।", "reviewed": false },
-        "mr": { "text": "दिवाळीनंतर सुमारे दोन आठवड्यांनी पौर्णिमेला देव दीपावलीत घाट लाखो दिव्यांनी उजळतात.", "reviewed": false }
+        "hi": {
+          "text": "दीपावली के लगभग दो सप्ताह बाद पूर्णिमा पर देव दीपावली में घाट लाखों दीपों से जगमगाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवाळीनंतर सुमारे दोन आठवड्यांनी पौर्णिमेला देव दीपावलीत घाट लाखो दिव्यांनी उजळतात.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "makar-sankranti",
       "note": {
         "en": "Pilgrims take a holy dip in the Ganga and offer khichdi and sesame sweets.",
-        "hi": { "text": "श्रद्धालु गंगा में पवित्र स्नान करते हैं और खिचड़ी व तिल की मिठाइयाँ अर्पित करते हैं।", "reviewed": false },
-        "mr": { "text": "भाविक गंगेत पवित्र स्नान करतात आणि खिचडी व तिळाची मिठाई अर्पण करतात.", "reviewed": false }
+        "hi": {
+          "text": "श्रद्धालु गंगा में पवित्र स्नान करते हैं और खिचड़ी व तिल की मिठाइयाँ अर्पित करते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भाविक गंगेत पवित्र स्नान करतात आणि खिचडी व तिळाची मिठाई अर्पण करतात.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Sarnath", "hi": { "text": "सारनाथ", "reviewed": false }, "mr": { "text": "सारनाथ", "reviewed": false } },
+      "name": {
+        "en": "Sarnath",
+        "hi": {
+          "text": "सारनाथ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सारनाथ",
+          "reviewed": false
+        }
+      },
       "km": 10,
-      "note": { "en": "Buddhist site of the first sermon, with the Dhamek Stupa and a museum.", "hi": { "text": "प्रथम उपदेश का बौद्ध स्थल, धमेख स्तूप और संग्रहालय के साथ।", "reviewed": false }, "mr": { "text": "पहिल्या उपदेशाचे बौद्ध स्थळ, धमेख स्तूप आणि संग्रहालयासह.", "reviewed": false } }
+      "note": {
+        "en": "Buddhist site of the first sermon, with the Dhamek Stupa and a museum.",
+        "hi": {
+          "text": "प्रथम उपदेश का बौद्ध स्थल, धमेख स्तूप और संग्रहालय के साथ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पहिल्या उपदेशाचे बौद्ध स्थळ, धमेख स्तूप आणि संग्रहालयासह.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Ramnagar Fort", "hi": { "text": "रामनगर किला", "reviewed": false }, "mr": { "text": "रामनगर किल्ला", "reviewed": false } },
+      "name": {
+        "en": "Ramnagar Fort",
+        "hi": {
+          "text": "रामनगर किला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रामनगर किल्ला",
+          "reviewed": false
+        }
+      },
       "km": 14,
-      "note": { "en": "Fort and museum across the river, seat of the Kashi Naresh family.", "hi": { "text": "नदी के पार किला और संग्रहालय, काशी नरेश परिवार का निवास।", "reviewed": false }, "mr": { "text": "नदीपलीकडे किल्ला आणि संग्रहालय, काशी नरेश कुटुंबाचे निवासस्थान.", "reviewed": false } }
+      "note": {
+        "en": "Fort and museum across the river, seat of the Kashi Naresh family.",
+        "hi": {
+          "text": "नदी के पार किला और संग्रहालय, काशी नरेश परिवार का निवास।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नदीपलीकडे किल्ला आणि संग्रहालय, काशी नरेश कुटुंबाचे निवासस्थान.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Prayagraj (Sangam)", "hi": { "text": "प्रयागराज (संगम)", "reviewed": false }, "mr": { "text": "प्रयागराज (संगम)", "reviewed": false } },
+      "name": {
+        "en": "Prayagraj (Sangam)",
+        "hi": {
+          "text": "प्रयागराज (संगम)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "प्रयागराज (संगम)",
+          "reviewed": false
+        }
+      },
       "km": 120,
-      "note": { "en": "Meeting of the Ganga, Yamuna and Saraswati, an easy extension of a Kashi trip.", "hi": { "text": "गंगा, यमुना और सरस्वती का संगम, काशी यात्रा का सहज विस्तार।", "reviewed": false }, "mr": { "text": "गंगा, यमुना आणि सरस्वतीचा संगम, काशी यात्रेचा सहज विस्तार.", "reviewed": false } }
+      "note": {
+        "en": "Meeting of the Ganga, Yamuna and Saraswati, an easy extension of a Kashi trip.",
+        "hi": {
+          "text": "गंगा, यमुना और सरस्वती का संगम, काशी यात्रा का सहज विस्तार।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गंगा, यमुना आणि सरस्वतीचा संगम, काशी यात्रेचा सहज विस्तार.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "Varanasi ghats on the Ganga", "hi": { "text": "गंगा तट पर वाराणसी के घाट", "reviewed": false }, "mr": { "text": "गंगेकाठचे वाराणसीचे घाट", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Varanasi (Kashi)",
+        "hi": {
+          "text": "वाराणसी (काशी)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वाराणसी (काशी)",
+          "reviewed": false
+        }
+      },
+      "credit": "Marcin Białek, CC BY-SA 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Varanasi_Munshi_Ghat3.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Varanasi (Kashi)",
+        "hi": {
+          "text": "वाराणसी (काशी)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वाराणसी (काशी)",
+          "reviewed": false
+        }
+      },
+      "credit": "Philip Nalangan, CC BY 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Ganga_Mahal_Ghat_Varanasi_1.jpg"
     }
   ],
   "sources": [
-    { "label": "Varanasi, Wikipedia", "url": "https://en.wikipedia.org/wiki/Varanasi" },
-    { "label": "Kashi Vishwanath Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple" },
-    { "label": "Shri Kashi Vishwanath Temple, official website", "url": "https://shrikashivishwanath.org" },
-    { "label": "Uttar Pradesh Tourism", "url": "https://uptourism.gov.in" }
+    {
+      "label": "Varanasi, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Varanasi"
+    },
+    {
+      "label": "Kashi Vishwanath Temple, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"
+    },
+    {
+      "label": "Shri Kashi Vishwanath Temple, official website",
+      "url": "https://shrikashivishwanath.org"
+    },
+    {
+      "label": "Uttar Pradesh Tourism",
+      "url": "https://uptourism.gov.in"
+    }
   ]
 }

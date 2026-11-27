@@ -5,150 +5,362 @@
   "version": "2026-11-21.1",
   "status": "draft",
   "id": "shirdi",
-  "name": { "en": "Shirdi", "hi": { "text": "शिरडी", "reviewed": false }, "mr": { "text": "शिर्डी", "reviewed": false } },
-  "state": { "en": "Maharashtra", "hi": { "text": "महाराष्ट्र", "reviewed": false }, "mr": { "text": "महाराष्ट्र", "reviewed": false } },
+  "name": {
+    "en": "Shirdi",
+    "hi": {
+      "text": "शिरडी",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "शिर्डी",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Maharashtra",
+    "hi": {
+      "text": "महाराष्ट्र",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "महाराष्ट्र",
+      "reviewed": false
+    }
+  },
   "stateKey": "maharashtra",
-  "traditions": ["hindu"],
+  "traditions": [
+    "hindu"
+  ],
   "deity": {
     "en": "Sai Baba of Shirdi, a saint revered by devotees of many faiths, including Hindus and Muslims.",
-    "hi": { "text": "शिरडी के साईं बाबा, एक संत जिनका आदर अनेक धर्मों के श्रद्धालु करते हैं, जिनमें हिंदू और मुसलमान दोनों शामिल हैं।", "reviewed": false },
-    "mr": { "text": "शिर्डीचे साईबाबा, एक संत ज्यांना हिंदू आणि मुस्लिम यांच्यासह अनेक धर्मांचे भक्त आदराने मानतात.", "reviewed": false }
+    "hi": {
+      "text": "शिरडी के साईं बाबा, एक संत जिनका आदर अनेक धर्मों के श्रद्धालु करते हैं, जिनमें हिंदू और मुसलमान दोनों शामिल हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "शिर्डीचे साईबाबा, एक संत ज्यांना हिंदू आणि मुस्लिम यांच्यासह अनेक धर्मांचे भक्त आदराने मानतात.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "Shirdi is the town where Sai Baba lived for most of his life and where his samadhi stands. Devotees recall his message of faith and patience. The Samadhi Mandir draws a very large number of visitors every day, from every part of India.",
-    "hi": { "text": "शिरडी वह नगर है जहाँ साईं बाबा ने अपने जीवन का अधिकांश समय बिताया और जहाँ उनकी समाधि है। श्रद्धालु उनके श्रद्धा और सबुरी के संदेश को याद करते हैं। समाधि मंदिर में प्रतिदिन देश के हर भाग से बहुत बड़ी संख्या में लोग आते हैं।", "reviewed": false },
-    "mr": { "text": "शिर्डी हे गाव जिथे साईबाबांनी आपल्या आयुष्याचा बहुतेक काळ घालवला आणि जिथे त्यांची समाधी आहे. भक्त त्यांच्या श्रद्धा आणि सबुरीच्या संदेशाचे स्मरण करतात. समाधी मंदिरात दररोज देशाच्या सर्व भागांतून मोठ्या संख्येने भाविक येतात.", "reviewed": false }
+    "hi": {
+      "text": "शिरडी वह नगर है जहाँ साईं बाबा ने अपने जीवन का अधिकांश समय बिताया और जहाँ उनकी समाधि है। श्रद्धालु उनके श्रद्धा और सबुरी के संदेश को याद करते हैं। समाधि मंदिर में प्रतिदिन देश के हर भाग से बहुत बड़ी संख्या में लोग आते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "शिर्डी हे गाव जिथे साईबाबांनी आपल्या आयुष्याचा बहुतेक काळ घालवला आणि जिथे त्यांची समाधी आहे. भक्त त्यांच्या श्रद्धा आणि सबुरीच्या संदेशाचे स्मरण करतात. समाधी मंदिरात दररोज देशाच्या सर्व भागांतून मोठ्या संख्येने भाविक येतात.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "The town of Sai Baba, in the Godavari plains",
-    "hi": { "text": "गोदावरी के मैदानों में साईं बाबा की नगरी", "reviewed": false },
-    "mr": { "text": "गोदावरीच्या मैदानातील साईबाबांची नगरी", "reviewed": false }
+    "hi": {
+      "text": "गोदावरी के मैदानों में साईं बाबा की नगरी",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "गोदावरीच्या मैदानातील साईबाबांची नगरी",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Shirdi is a small town in Ahilyanagar district, in the Godavari river plains of Maharashtra. Life here moves around the Samadhi Mandir, Dwarkamai, Chavadi and Gurusthan, all within an easy walk of each other. Daily aartis, long queues, shops selling flowers and sweets, and trust-run kitchens and guest houses shape the day. Expect crowds on Thursdays, weekends and festival days.",
-    "hi": { "text": "शिरडी महाराष्ट्र के गोदावरी नदी के मैदानों में अहिल्यानगर जिले का एक छोटा नगर है। यहाँ जीवन समाधि मंदिर, द्वारकामाई, चावड़ी और गुरुस्थान के आसपास चलता है, जो एक-दूसरे से पैदल दूरी पर हैं। रोज़ की आरतियाँ, लंबी कतारें, फूल और मिठाई की दुकानें, तथा न्यास द्वारा चलाई जाने वाली रसोइयाँ और अतिथि गृह दिन को आकार देते हैं। गुरुवार, सप्ताहांत और त्योहारों पर भीड़ की अपेक्षा रखें।", "reviewed": false },
-    "mr": { "text": "शिर्डी हे महाराष्ट्रातील गोदावरी नदीच्या मैदानातील अहिल्यानगर जिल्ह्यातील एक लहान गाव आहे. येथील जीवन समाधी मंदिर, द्वारकामाई, चावडी आणि गुरुस्थान यांच्याभोवती फिरते, जे एकमेकांपासून चालत जाण्याच्या अंतरावर आहेत. रोजच्या आरत्या, लांब रांगा, फुले व मिठाईची दुकाने, तसेच न्यासाची भोजनालये आणि अतिथीगृहे दिवसाला आकार देतात. गुरुवार, सप्ताहांत आणि सणांच्या दिवशी गर्दीची अपेक्षा ठेवा.", "reviewed": false }
+    "hi": {
+      "text": "शिरडी महाराष्ट्र के गोदावरी नदी के मैदानों में अहिल्यानगर जिले का एक छोटा नगर है। यहाँ जीवन समाधि मंदिर, द्वारकामाई, चावड़ी और गुरुस्थान के आसपास चलता है, जो एक-दूसरे से पैदल दूरी पर हैं। रोज़ की आरतियाँ, लंबी कतारें, फूल और मिठाई की दुकानें, तथा न्यास द्वारा चलाई जाने वाली रसोइयाँ और अतिथि गृह दिन को आकार देते हैं। गुरुवार, सप्ताहांत और त्योहारों पर भीड़ की अपेक्षा रखें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "शिर्डी हे महाराष्ट्रातील गोदावरी नदीच्या मैदानातील अहिल्यानगर जिल्ह्यातील एक लहान गाव आहे. येथील जीवन समाधी मंदिर, द्वारकामाई, चावडी आणि गुरुस्थान यांच्याभोवती फिरते, जे एकमेकांपासून चालत जाण्याच्या अंतरावर आहेत. रोजच्या आरत्या, लांब रांगा, फुले व मिठाईची दुकाने, तसेच न्यासाची भोजनालये आणि अतिथीगृहे दिवसाला आकार देतात. गुरुवार, सप्ताहांत आणि सणांच्या दिवशी गर्दीची अपेक्षा ठेवा.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "Sai Baba came to Shirdi as a young man in the mid-1850s, when it was a small village. At first some villagers doubted him, but over the years devotees from different communities gathered around him. He lived in a disused mosque that came to be called Dwarkamai, and kept a sacred fire (dhuni) burning there. He died in 1918, and his remains were laid in the Buti Wada, which grew into the present Samadhi Mandir.",
-    "hi": { "text": "साईं बाबा युवावस्था में 1850 के दशक के मध्य में शिरडी आए, जब यह एक छोटा गाँव था। आरंभ में कुछ ग्रामीणों को उन पर संदेह था, पर वर्षों में अलग-अलग समुदायों के श्रद्धालु उनके पास एकत्र होने लगे। वे एक पुरानी मस्जिद में रहे, जिसे द्वारकामाई कहा जाने लगा, और वहाँ उन्होंने पवित्र धूनी जलाए रखी। 1918 में उनका देहावसान हुआ और उनकी समाधि बूटी वाड़ा में बनी, जो आज का समाधि मंदिर बन गया।", "reviewed": false },
-    "mr": { "text": "साईबाबा तरुण वयात 1850 च्या दशकाच्या मध्यात शिर्डीत आले, तेव्हा ते एक लहान गाव होते. सुरुवातीला काही गावकऱ्यांना त्यांच्याबद्दल शंका होती, पण कालांतराने विविध समाजांतील भक्त त्यांच्याभोवती जमू लागले. ते एका पडक्या मशिदीत राहिले, जिला पुढे द्वारकामाई म्हटले जाऊ लागले, आणि तेथे त्यांनी पवित्र धुनी तेवत ठेवली. 1918 मध्ये त्यांनी देह ठेवला आणि त्यांची समाधी बुटी वाड्यात झाली, जे आजचे समाधी मंदिर झाले.", "reviewed": false }
+    "hi": {
+      "text": "साईं बाबा युवावस्था में 1850 के दशक के मध्य में शिरडी आए, जब यह एक छोटा गाँव था। आरंभ में कुछ ग्रामीणों को उन पर संदेह था, पर वर्षों में अलग-अलग समुदायों के श्रद्धालु उनके पास एकत्र होने लगे। वे एक पुरानी मस्जिद में रहे, जिसे द्वारकामाई कहा जाने लगा, और वहाँ उन्होंने पवित्र धूनी जलाए रखी। 1918 में उनका देहावसान हुआ और उनकी समाधि बूटी वाड़ा में बनी, जो आज का समाधि मंदिर बन गया।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "साईबाबा तरुण वयात 1850 च्या दशकाच्या मध्यात शिर्डीत आले, तेव्हा ते एक लहान गाव होते. सुरुवातीला काही गावकऱ्यांना त्यांच्याबद्दल शंका होती, पण कालांतराने विविध समाजांतील भक्त त्यांच्याभोवती जमू लागले. ते एका पडक्या मशिदीत राहिले, जिला पुढे द्वारकामाई म्हटले जाऊ लागले, आणि तेथे त्यांनी पवित्र धुनी तेवत ठेवली. 1918 मध्ये त्यांनी देह ठेवला आणि त्यांची समाधी बुटी वाड्यात झाली, जे आजचे समाधी मंदिर झाले.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From the commonly recorded history of Sai Baba of Shirdi and the Shri Saibaba Sansthan.",
-    "hi": { "text": "शिरडी के साईं बाबा के सामान्यतः दर्ज इतिहास और श्री साईबाबा संस्थान से।", "reviewed": false },
-    "mr": { "text": "शिर्डीच्या साईबाबांच्या सर्वसाधारणपणे नोंदवलेल्या इतिहासातून आणि श्री साईबाबा संस्थानाकडून.", "reviewed": false }
+    "hi": {
+      "text": "शिरडी के साईं बाबा के सामान्यतः दर्ज इतिहास और श्री साईबाबा संस्थान से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "शिर्डीच्या साईबाबांच्या सर्वसाधारणपणे नोंदवलेल्या इतिहासातून आणि श्री साईबाबा संस्थानाकडून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [10, 11, 12, 1, 2],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
     "seasons": [
       {
-        "months": [10, 11, 12, 1, 2],
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
         "rating": "best",
         "weather": {
           "en": "Dry and pleasant, roughly 10 to 32 degrees. Cool mornings and comfortable days for queues and walking. Festival periods and winter holidays are crowded.",
-          "hi": { "text": "सूखा और सुहावना मौसम, लगभग 10 से 32 डिग्री। ठंडी सुबहें और कतारों व पैदल चलने के लिए आरामदायक दिन। त्योहारों और शीतकालीन छुट्टियों में भीड़ रहती है।", "reviewed": false },
-          "mr": { "text": "कोरडे आणि आल्हाददायक हवामान, सुमारे 10 ते 32 अंश. थंड सकाळ आणि रांगेत उभे राहण्यासाठी व चालण्यासाठी सोयीचे दिवस. सणांच्या काळात आणि हिवाळ्याच्या सुट्ट्यांत गर्दी असते.", "reviewed": false }
+          "hi": {
+            "text": "सूखा और सुहावना मौसम, लगभग 10 से 32 डिग्री। ठंडी सुबहें और कतारों व पैदल चलने के लिए आरामदायक दिन। त्योहारों और शीतकालीन छुट्टियों में भीड़ रहती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "कोरडे आणि आल्हाददायक हवामान, सुमारे 10 ते 32 अंश. थंड सकाळ आणि रांगेत उभे राहण्यासाठी व चालण्यासाठी सोयीचे दिवस. सणांच्या काळात आणि हिवाळ्याच्या सुट्ट्यांत गर्दी असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [6, 7, 8, 9],
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ],
         "rating": "good",
         "weather": {
           "en": "Monsoon. Moderate rain, green fields and warm, humid days. Carry an umbrella and rain cover. Roads and queue areas can be wet.",
-          "hi": { "text": "वर्षा ऋतु। मध्यम वर्षा, हरे खेत और गर्म, उमस भरे दिन। छाता और रेन कवर साथ रखें। सड़कें और कतार के क्षेत्र गीले हो सकते हैं।", "reviewed": false },
-          "mr": { "text": "पावसाळा. मध्यम पाऊस, हिरवीगार शेते आणि उष्ण, दमट दिवस. छत्री आणि रेन कव्हर सोबत ठेवा. रस्ते आणि रांगेचे भाग ओले असू शकतात.", "reviewed": false }
+          "hi": {
+            "text": "वर्षा ऋतु। मध्यम वर्षा, हरे खेत और गर्म, उमस भरे दिन। छाता और रेन कवर साथ रखें। सड़कें और कतार के क्षेत्र गीले हो सकते हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळा. मध्यम पाऊस, हिरवीगार शेते आणि उष्ण, दमट दिवस. छत्री आणि रेन कव्हर सोबत ठेवा. रस्ते आणि रांगेचे भाग ओले असू शकतात.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [3, 4, 5],
+        "months": [
+          3,
+          4,
+          5
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Hot and dry, often 38 to 42 degrees by April and May. Visit at dawn or after sunset, wear a hat while queuing outdoors and drink water often.",
-          "hi": { "text": "गर्म और शुष्क, अप्रैल-मई तक अक्सर 38 से 42 डिग्री। भोर में या सूर्यास्त के बाद जाएँ, बाहर कतार में टोपी पहनें और बार-बार पानी पिएँ।", "reviewed": false },
-          "mr": { "text": "उष्ण आणि कोरडे, एप्रिल-मेपर्यंत अनेकदा 38 ते 42 अंश. पहाटे किंवा सूर्यास्तानंतर जा, बाहेर रांगेत टोपी घाला आणि वारंवार पाणी प्या.", "reviewed": false }
+          "hi": {
+            "text": "गर्म और शुष्क, अप्रैल-मई तक अक्सर 38 से 42 डिग्री। भोर में या सूर्यास्त के बाद जाएँ, बाहर कतार में टोपी पहनें और बार-बार पानी पिएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि कोरडे, एप्रिल-मेपर्यंत अनेकदा 38 ते 42 अंश. पहाटे किंवा सूर्यास्तानंतर जा, बाहेर रांगेत टोपी घाला आणि वारंवार पाणी प्या.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Shirdi Airport (SAG), at Kakadi", "hi": { "text": "शिरडी हवाई अड्डा (SAG), काकड़ी", "reviewed": false }, "mr": { "text": "शिर्डी विमानतळ (SAG), काकडी", "reviewed": false } },
+      "nearest": {
+        "en": "Shirdi Airport (SAG), at Kakadi",
+        "hi": {
+          "text": "शिरडी हवाई अड्डा (SAG), काकड़ी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शिर्डी विमानतळ (SAG), काकडी",
+          "reviewed": false
+        }
+      },
       "km": 14,
       "how": {
         "en": "A small airport with flights to a few major cities. Routes change, so check with the airlines. Taxis and buses take about 25 to 40 minutes to the town. Larger airports are at Chhatrapati Sambhajinagar (about 115 km) and Pune (about 185 km).",
-        "hi": { "text": "छोटा हवाई अड्डा जहाँ से कुछ प्रमुख शहरों के लिए उड़ानें हैं। मार्ग बदलते रहते हैं, इसलिए एयरलाइन से जाँच लें। टैक्सी और बस से नगर तक लगभग 25 से 40 मिनट लगते हैं। बड़े हवाई अड्डे छत्रपति संभाजीनगर (लगभग 115 किमी) और पुणे (लगभग 185 किमी) में हैं।", "reviewed": false },
-        "mr": { "text": "लहान विमानतळ, जिथून काही प्रमुख शहरांसाठी उड्डाणे आहेत. मार्ग बदलत राहतात, म्हणून विमान कंपन्यांकडे तपासा. टॅक्सी आणि बसने गावात पोहोचण्यास सुमारे 25 ते 40 मिनिटे लागतात. मोठे विमानतळ छत्रपती संभाजीनगर (सुमारे 115 किमी) आणि पुणे (सुमारे 185 किमी) येथे आहेत.", "reviewed": false }
+        "hi": {
+          "text": "छोटा हवाई अड्डा जहाँ से कुछ प्रमुख शहरों के लिए उड़ानें हैं। मार्ग बदलते रहते हैं, इसलिए एयरलाइन से जाँच लें। टैक्सी और बस से नगर तक लगभग 25 से 40 मिनट लगते हैं। बड़े हवाई अड्डे छत्रपति संभाजीनगर (लगभग 115 किमी) और पुणे (लगभग 185 किमी) में हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लहान विमानतळ, जिथून काही प्रमुख शहरांसाठी उड्डाणे आहेत. मार्ग बदलत राहतात, म्हणून विमान कंपन्यांकडे तपासा. टॅक्सी आणि बसने गावात पोहोचण्यास सुमारे 25 ते 40 मिनिटे लागतात. मोठे विमानतळ छत्रपती संभाजीनगर (सुमारे 115 किमी) आणि पुणे (सुमारे 185 किमी) येथे आहेत.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Sainagar Shirdi (SNSI)", "hi": { "text": "साईनगर शिरडी (SNSI)", "reviewed": false }, "mr": { "text": "साईनगर शिर्डी (SNSI)", "reviewed": false } },
+      "nearest": {
+        "en": "Sainagar Shirdi (SNSI)",
+        "hi": {
+          "text": "साईनगर शिरडी (SNSI)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "साईनगर शिर्डी (SNSI)",
+          "reviewed": false
+        }
+      },
       "km": 3,
       "how": {
         "en": "Trains from Mumbai, Chennai, Hyderabad, Bengaluru and other cities stop here. Autos and taxis run to the temple area. Kopargaon (about 15 km) is another station and has more connections. Check which station your train uses.",
-        "hi": { "text": "मुंबई, चेन्नई, हैदराबाद, बेंगलुरु और अन्य शहरों की ट्रेनें यहाँ रुकती हैं। मंदिर क्षेत्र तक ऑटो और टैक्सी चलती हैं। कोपरगाँव (लगभग 15 किमी) दूसरा स्टेशन है और वहाँ अधिक संपर्क हैं। देखें कि आपकी ट्रेन किस स्टेशन पर रुकती है।", "reviewed": false },
-        "mr": { "text": "मुंबई, चेन्नई, हैदराबाद, बंगळुरू आणि इतर शहरांतून गाड्या येथे थांबतात. मंदिर परिसरापर्यंत ऑटो आणि टॅक्सी धावतात. कोपरगाव (सुमारे 15 किमी) हे आणखी एक स्थानक आहे आणि तेथे जास्त जोडणी आहे. तुमची गाडी कोणत्या स्थानकावर थांबते ते तपासा.", "reviewed": false }
+        "hi": {
+          "text": "मुंबई, चेन्नई, हैदराबाद, बेंगलुरु और अन्य शहरों की ट्रेनें यहाँ रुकती हैं। मंदिर क्षेत्र तक ऑटो और टैक्सी चलती हैं। कोपरगाँव (लगभग 15 किमी) दूसरा स्टेशन है और वहाँ अधिक संपर्क हैं। देखें कि आपकी ट्रेन किस स्टेशन पर रुकती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुंबई, चेन्नई, हैदराबाद, बंगळुरू आणि इतर शहरांतून गाड्या येथे थांबतात. मंदिर परिसरापर्यंत ऑटो आणि टॅक्सी धावतात. कोपरगाव (सुमारे 15 किमी) हे आणखी एक स्थानक आहे आणि तेथे जास्त जोडणी आहे. तुमची गाडी कोणत्या स्थानकावर थांबते ते तपासा.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "Shirdi is on the Nashik to Pune and Chhatrapati Sambhajinagar road network. Nashik is about 90 km, Pune about 185 km and Mumbai about 240 km away. State and private buses run from these cities.",
-        "hi": { "text": "शिरडी नासिक से पुणे और छत्रपति संभाजीनगर की सड़क व्यवस्था पर है। नासिक लगभग 90 किमी, पुणे लगभग 185 किमी और मुंबई लगभग 240 किमी दूर है। इन शहरों से राज्य और निजी बसें चलती हैं।", "reviewed": false },
-        "mr": { "text": "शिर्डी नाशिक ते पुणे आणि छत्रपती संभाजीनगर रस्त्यांच्या जाळ्यावर आहे. नाशिक सुमारे 90 किमी, पुणे सुमारे 185 किमी आणि मुंबई सुमारे 240 किमी अंतरावर आहे. या शहरांतून राज्य परिवहन आणि खासगी बसेस धावतात.", "reviewed": false }
+        "hi": {
+          "text": "शिरडी नासिक से पुणे और छत्रपति संभाजीनगर की सड़क व्यवस्था पर है। नासिक लगभग 90 किमी, पुणे लगभग 185 किमी और मुंबई लगभग 240 किमी दूर है। इन शहरों से राज्य और निजी बसें चलती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शिर्डी नाशिक ते पुणे आणि छत्रपती संभाजीनगर रस्त्यांच्या जाळ्यावर आहे. नाशिक सुमारे 90 किमी, पुणे सुमारे 185 किमी आणि मुंबई सुमारे 240 किमी अंतरावर आहे. या शहरांतून राज्य परिवहन आणि खासगी बसेस धावतात.",
+          "reviewed": false
+        }
       },
       "km": 90
     }
   },
   "localTransport": {
     "en": "The main temple sites are close together and many visitors walk. Autos and e-rickshaws cover longer hops, for example to the bus stand or the Lendi Baug side. Vehicles are restricted near the temple at busy hours. Agree the fare before you start.",
-    "hi": { "text": "मुख्य मंदिर स्थल पास-पास हैं और बहुत से यात्री पैदल चलते हैं। लंबी दूरी के लिए, जैसे बस स्टैंड या लेंडी बाग की ओर, ऑटो और ई-रिक्शा चलते हैं। व्यस्त समय में मंदिर के पास वाहनों पर रोक रहती है। चलने से पहले किराया तय कर लें।", "reviewed": false },
-    "mr": { "text": "मुख्य मंदिरस्थळे जवळजवळ आहेत आणि अनेक यात्रेकरू चालत जातात. लांब अंतरासाठी, उदा. बस स्थानक किंवा लेंडी बागेकडे, ऑटो आणि ई-रिक्षा चालतात. गर्दीच्या वेळी मंदिराजवळ वाहनांवर निर्बंध असतात. निघण्यापूर्वी भाडे ठरवा.", "reviewed": false }
+    "hi": {
+      "text": "मुख्य मंदिर स्थल पास-पास हैं और बहुत से यात्री पैदल चलते हैं। लंबी दूरी के लिए, जैसे बस स्टैंड या लेंडी बाग की ओर, ऑटो और ई-रिक्शा चलते हैं। व्यस्त समय में मंदिर के पास वाहनों पर रोक रहती है। चलने से पहले किराया तय कर लें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मुख्य मंदिरस्थळे जवळजवळ आहेत आणि अनेक यात्रेकरू चालत जातात. लांब अंतरासाठी, उदा. बस स्थानक किंवा लेंडी बागेकडे, ऑटो आणि ई-रिक्षा चालतात. गर्दीच्या वेळी मंदिराजवळ वाहनांवर निर्बंध असतात. निघण्यापूर्वी भाडे ठरवा.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "ram-navami",
       "note": {
         "en": "A multi-day utsav is held at Shirdi around Ram Navami, with processions and heavy crowds.",
-        "hi": { "text": "राम नवमी के आसपास शिरडी में कई दिनों का उत्सव होता है, जिसमें शोभायात्राएँ और भारी भीड़ रहती है।", "reviewed": false },
-        "mr": { "text": "रामनवमीच्या सुमारास शिर्डीत अनेक दिवसांचा उत्सव असतो, ज्यात मिरवणुका आणि मोठी गर्दी असते.", "reviewed": false }
+        "hi": {
+          "text": "राम नवमी के आसपास शिरडी में कई दिनों का उत्सव होता है, जिसमें शोभायात्राएँ और भारी भीड़ रहती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रामनवमीच्या सुमारास शिर्डीत अनेक दिवसांचा उत्सव असतो, ज्यात मिरवणुका आणि मोठी गर्दी असते.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "navratri-dussehra",
       "note": {
         "en": "Vijayadashami is observed as the day Sai Baba took samadhi, so the Dussehra period is very busy. Guru Purnima in July is another very crowded occasion.",
-        "hi": { "text": "विजयादशमी को साईं बाबा की समाधि का दिन माना जाता है, इसलिए दशहरे के समय बहुत भीड़ रहती है। जुलाई की गुरु पूर्णिमा भी बहुत भीड़ वाला अवसर है।", "reviewed": false },
-        "mr": { "text": "विजयादशमी हा साईबाबांच्या समाधीचा दिवस मानला जातो, म्हणून दसऱ्याच्या काळात खूप गर्दी असते. जुलैमधील गुरुपौर्णिमा हाही खूप गर्दीचा प्रसंग आहे.", "reviewed": false }
+        "hi": {
+          "text": "विजयादशमी को साईं बाबा की समाधि का दिन माना जाता है, इसलिए दशहरे के समय बहुत भीड़ रहती है। जुलाई की गुरु पूर्णिमा भी बहुत भीड़ वाला अवसर है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "विजयादशमी हा साईबाबांच्या समाधीचा दिवस मानला जातो, म्हणून दसऱ्याच्या काळात खूप गर्दी असते. जुलैमधील गुरुपौर्णिमा हाही खूप गर्दीचा प्रसंग आहे.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Shani Shingnapur", "hi": { "text": "शनि शिंगणापुर", "reviewed": false }, "mr": { "text": "शनी शिंगणापूर", "reviewed": false } },
+      "name": {
+        "en": "Shani Shingnapur",
+        "hi": {
+          "text": "शनि शिंगणापुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शनी शिंगणापूर",
+          "reviewed": false
+        }
+      },
       "km": 70,
-      "note": { "en": "Village temple of Shani, known for houses without doors. Often combined with Shirdi in a day trip.", "hi": { "text": "शनि देव का ग्राम मंदिर, बिना दरवाज़ों के घरों के लिए प्रसिद्ध। अक्सर शिरडी के साथ एक दिन की यात्रा में जोड़ा जाता है।", "reviewed": false }, "mr": { "text": "शनिदेवाचे ग्रामीण मंदिर, दरवाजे नसलेल्या घरांसाठी प्रसिद्ध. अनेकदा शिर्डीसोबत एक दिवसाच्या सहलीत जोडले जाते.", "reviewed": false } }
+      "note": {
+        "en": "Village temple of Shani, known for houses without doors. Often combined with Shirdi in a day trip.",
+        "hi": {
+          "text": "शनि देव का ग्राम मंदिर, बिना दरवाज़ों के घरों के लिए प्रसिद्ध। अक्सर शिरडी के साथ एक दिन की यात्रा में जोड़ा जाता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शनिदेवाचे ग्रामीण मंदिर, दरवाजे नसलेल्या घरांसाठी प्रसिद्ध. अनेकदा शिर्डीसोबत एक दिवसाच्या सहलीत जोडले जाते.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Nashik", "hi": { "text": "नासिक", "reviewed": false }, "mr": { "text": "नाशिक", "reviewed": false } },
+      "name": {
+        "en": "Nashik",
+        "hi": {
+          "text": "नासिक",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नाशिक",
+          "reviewed": false
+        }
+      },
       "km": 90,
-      "note": { "en": "Godavari ghats at Panchavati and, a little further, the Trimbakeshwar Jyotirlinga.", "hi": { "text": "पंचवटी के गोदावरी घाट और थोड़ा आगे त्र्यंबकेश्वर ज्योतिर्लिंग।", "reviewed": false }, "mr": { "text": "पंचवटीतील गोदावरी घाट आणि थोडे पुढे त्र्यंबकेश्वर ज्योतिर्लिंग.", "reviewed": false } }
+      "note": {
+        "en": "Godavari ghats at Panchavati and, a little further, the Trimbakeshwar Jyotirlinga.",
+        "hi": {
+          "text": "पंचवटी के गोदावरी घाट और थोड़ा आगे त्र्यंबकेश्वर ज्योतिर्लिंग।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पंचवटीतील गोदावरी घाट आणि थोडे पुढे त्र्यंबकेश्वर ज्योतिर्लिंग.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Chhatrapati Sambhajinagar (Aurangabad)", "hi": { "text": "छत्रपति संभाजीनगर (औरंगाबाद)", "reviewed": false }, "mr": { "text": "छत्रपती संभाजीनगर (औरंगाबाद)", "reviewed": false } },
+      "name": {
+        "en": "Chhatrapati Sambhajinagar (Aurangabad)",
+        "hi": {
+          "text": "छत्रपति संभाजीनगर (औरंगाबाद)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "छत्रपती संभाजीनगर (औरंगाबाद)",
+          "reviewed": false
+        }
+      },
       "km": 115,
-      "note": { "en": "Base for Ellora, Ajanta and Grishneshwar Jyotirlinga, for a longer trip.", "hi": { "text": "एलोरा, अजंता और घृष्णेश्वर ज्योतिर्लिंग के लिए आधार, लंबी यात्रा हेतु।", "reviewed": false }, "mr": { "text": "वेरूळ, अजिंठा आणि घृष्णेश्वर ज्योतिर्लिंगासाठी तळ, लांबच्या प्रवासासाठी.", "reviewed": false } }
+      "note": {
+        "en": "Base for Ellora, Ajanta and Grishneshwar Jyotirlinga, for a longer trip.",
+        "hi": {
+          "text": "एलोरा, अजंता और घृष्णेश्वर ज्योतिर्लिंग के लिए आधार, लंबी यात्रा हेतु।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वेरूळ, अजिंठा आणि घृष्णेश्वर ज्योतिर्लिंगासाठी तळ, लांबच्या प्रवासासाठी.",
+          "reviewed": false
+        }
+      }
     }
   ],
-  "photos": [
-    {
-      "file": "hero.webp",
-      "caption": { "en": "Shirdi, the temple town of Sai Baba", "hi": { "text": "साईं बाबा की मंदिर नगरी शिरडी", "reviewed": false }, "mr": { "text": "साईबाबांची मंदिर नगरी शिर्डी", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
-    }
-  ],
+  "photos": [],
   "sources": [
-    { "label": "Shirdi, Wikipedia", "url": "https://en.wikipedia.org/wiki/Shirdi" },
-    { "label": "Shri Saibaba Sansthan Trust, official website (FAQ)", "url": "https://sai.org.in/en/faq" }
+    {
+      "label": "Shirdi, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shirdi"
+    },
+    {
+      "label": "Shri Saibaba Sansthan Trust, official website (FAQ)",
+      "url": "https://sai.org.in/en/faq"
+    }
   ]
 }

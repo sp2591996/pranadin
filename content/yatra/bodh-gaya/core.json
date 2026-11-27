@@ -5,158 +5,433 @@
   "version": "2026-11-26.1",
   "status": "draft",
   "id": "bodh-gaya",
-  "name": { "en": "Bodh Gaya", "hi": { "text": "बोधगया", "reviewed": false }, "mr": { "text": "बोधगया", "reviewed": false } },
-  "state": { "en": "Bihar", "hi": { "text": "बिहार", "reviewed": false }, "mr": { "text": "बिहार", "reviewed": false } },
+  "name": {
+    "en": "Bodh Gaya",
+    "hi": {
+      "text": "बोधगया",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बोधगया",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Bihar",
+    "hi": {
+      "text": "बिहार",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बिहार",
+      "reviewed": false
+    }
+  },
   "stateKey": "bihar",
-  "traditions": ["buddhist", "hindu"],
+  "traditions": [
+    "buddhist"
+  ],
   "deity": {
     "en": "The Buddha, Siddhartha Gautama, the Awakened One. Buddhists honour him as a teacher who found the way out of suffering, not as a creator god. Bodh Gaya is the place of his awakening (sambodhi). Hindu visitors also come to the town, which lies beside Gaya.",
-    "hi": { "text": "बुद्ध, सिद्धार्थ गौतम, जागृत महापुरुष। बौद्ध उन्हें दुख से मुक्ति का मार्ग खोजने वाले शिक्षक के रूप में आदर देते हैं, सृष्टिकर्ता ईश्वर के रूप में नहीं। बोधगया उनके बोध (संबोधि) का स्थान है। हिंदू यात्री भी इस नगर में आते हैं, जो गया के पास है।", "reviewed": false },
-    "mr": { "text": "बुद्ध, सिद्धार्थ गौतम, जागृत महापुरुष. बौद्ध त्यांना दुःखातून मुक्तीचा मार्ग शोधणारे शिक्षक म्हणून आदर देतात, सृष्टिकर्ता देव म्हणून नाही. बोधगया हे त्यांच्या बोधाचे (संबोधी) स्थान आहे. हिंदू यात्रेकरूही या नगरात येतात, जे गयेच्या शेजारी आहे.", "reviewed": false }
+    "hi": {
+      "text": "बुद्ध, सिद्धार्थ गौतम, जागृत महापुरुष। बौद्ध उन्हें दुख से मुक्ति का मार्ग खोजने वाले शिक्षक के रूप में आदर देते हैं, सृष्टिकर्ता ईश्वर के रूप में नहीं। बोधगया उनके बोध (संबोधि) का स्थान है। हिंदू यात्री भी इस नगर में आते हैं, जो गया के पास है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बुद्ध, सिद्धार्थ गौतम, जागृत महापुरुष. बौद्ध त्यांना दुःखातून मुक्तीचा मार्ग शोधणारे शिक्षक म्हणून आदर देतात, सृष्टिकर्ता देव म्हणून नाही. बोधगया हे त्यांच्या बोधाचे (संबोधी) स्थान आहे. हिंदू यात्रेकरूही या नगरात येतात, जे गयेच्या शेजारी आहे.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "For Buddhists, Bodh Gaya is the most sacred of the four great places linked to the Buddha's life, because it is where he attained awakening under the Bodhi Tree. Monks, nuns and lay pilgrims from many countries come to chant, meditate, circumambulate the Mahabodhi Mahavihara and offer light and flowers. The Mahabodhi Temple Complex is a UNESCO World Heritage Site, inscribed in 2002.",
-    "hi": { "text": "बौद्धों के लिए बोधगया बुद्ध के जीवन से जुड़े चार महान स्थानों में सबसे पवित्र है, क्योंकि यहीं बोधि वृक्ष के नीचे उन्हें बोध प्राप्त हुआ। अनेक देशों के भिक्षु, भिक्षुणियाँ और उपासक यहाँ पाठ, ध्यान, महाबोधि महाविहार की परिक्रमा और दीप व पुष्प अर्पण के लिए आते हैं। महाबोधि मंदिर परिसर यूनेस्को विश्व धरोहर स्थल है, जो 2002 में सूचीबद्ध हुआ।", "reviewed": false },
-    "mr": { "text": "बौद्धांसाठी बोधगया हे बुद्धांच्या जीवनाशी निगडित चार महान स्थळांपैकी सर्वात पवित्र आहे, कारण येथेच बोधिवृक्षाखाली त्यांना बोध प्राप्त झाला. अनेक देशांतील भिक्खू, भिक्खुणी आणि उपासक येथे पठण, ध्यान, महाबोधी महाविहाराची प्रदक्षिणा आणि दीप व पुष्प अर्पण करण्यासाठी येतात. महाबोधी मंदिर परिसर हे युनेस्कोचे जागतिक वारसा स्थळ आहे, 2002 मध्ये नोंदवले गेले.", "reviewed": false }
+    "hi": {
+      "text": "बौद्धों के लिए बोधगया बुद्ध के जीवन से जुड़े चार महान स्थानों में सबसे पवित्र है, क्योंकि यहीं बोधि वृक्ष के नीचे उन्हें बोध प्राप्त हुआ। अनेक देशों के भिक्षु, भिक्षुणियाँ और उपासक यहाँ पाठ, ध्यान, महाबोधि महाविहार की परिक्रमा और दीप व पुष्प अर्पण के लिए आते हैं। महाबोधि मंदिर परिसर यूनेस्को विश्व धरोहर स्थल है, जो 2002 में सूचीबद्ध हुआ।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बौद्धांसाठी बोधगया हे बुद्धांच्या जीवनाशी निगडित चार महान स्थळांपैकी सर्वात पवित्र आहे, कारण येथेच बोधिवृक्षाखाली त्यांना बोध प्राप्त झाला. अनेक देशांतील भिक्खू, भिक्खुणी आणि उपासक येथे पठण, ध्यान, महाबोधी महाविहाराची प्रदक्षिणा आणि दीप व पुष्प अर्पण करण्यासाठी येतात. महाबोधी मंदिर परिसर हे युनेस्कोचे जागतिक वारसा स्थळ आहे, 2002 मध्ये नोंदवले गेले.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "Where the Buddha attained awakening",
-    "hi": { "text": "जहाँ बुद्ध को बोध प्राप्त हुआ", "reviewed": false },
-    "mr": { "text": "जिथे बुद्धांना बोध प्राप्त झाला", "reviewed": false }
+    "hi": {
+      "text": "जहाँ बुद्ध को बोध प्राप्त हुआ",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "जिथे बुद्धांना बोध प्राप्त झाला",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Bodh Gaya is a small town in Gaya district, Bihar, on the bank of the Phalgu (Niranjana) river system. At its centre stands the Mahabodhi Mahavihara beside the Bodhi Tree, surrounded by monasteries built by Buddhist communities from Thailand, Japan, Myanmar, Bhutan, Tibet, China, Bangladesh and other lands. Days here are quiet: early chanting, walking round the temple, sitting under the tree. The town is small and easy to walk, though the roads outside it are busy.",
-    "hi": { "text": "बोधगया बिहार के गया जिले का एक छोटा नगर है, जो फल्गु (निरंजना) नदी प्रणाली के तट पर बसा है। इसके केंद्र में बोधि वृक्ष के पास महाबोधि महाविहार है, जिसके चारों ओर थाईलैंड, जापान, म्यांमार, भूटान, तिब्बत, चीन, बांग्लादेश और अन्य देशों के बौद्ध समुदायों के बनाए विहार हैं। यहाँ के दिन शांत होते हैं: भोर का पाठ, मंदिर की परिक्रमा, वृक्ष के नीचे बैठना। नगर छोटा है और पैदल घूमने योग्य है, पर नगर के बाहर की सड़कें व्यस्त रहती हैं।", "reviewed": false },
-    "mr": { "text": "बोधगया हे बिहारमधील गया जिल्ह्यातील एक लहान नगर आहे, फल्गू (निरंजना) नदीप्रणालीच्या काठावर वसलेले. त्याच्या केंद्रस्थानी बोधिवृक्षाजवळ महाबोधी महाविहार आहे, ज्याच्याभोवती थायलंड, जपान, म्यानमार, भूतान, तिबेट, चीन, बांगलादेश आणि इतर देशांतील बौद्ध समुदायांनी बांधलेली विहारे आहेत. येथील दिवस शांत असतात: पहाटेचे पठण, मंदिराची प्रदक्षिणा, वृक्षाखाली बसणे. नगर लहान आणि चालण्यासारखे आहे, पण नगराबाहेरचे रस्ते गजबजलेले असतात.", "reviewed": false }
+    "hi": {
+      "text": "बोधगया बिहार के गया जिले का एक छोटा नगर है, जो फल्गु (निरंजना) नदी प्रणाली के तट पर बसा है। इसके केंद्र में बोधि वृक्ष के पास महाबोधि महाविहार है, जिसके चारों ओर थाईलैंड, जापान, म्यांमार, भूटान, तिब्बत, चीन, बांग्लादेश और अन्य देशों के बौद्ध समुदायों के बनाए विहार हैं। यहाँ के दिन शांत होते हैं: भोर का पाठ, मंदिर की परिक्रमा, वृक्ष के नीचे बैठना। नगर छोटा है और पैदल घूमने योग्य है, पर नगर के बाहर की सड़कें व्यस्त रहती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बोधगया हे बिहारमधील गया जिल्ह्यातील एक लहान नगर आहे, फल्गू (निरंजना) नदीप्रणालीच्या काठावर वसलेले. त्याच्या केंद्रस्थानी बोधिवृक्षाजवळ महाबोधी महाविहार आहे, ज्याच्याभोवती थायलंड, जपान, म्यानमार, भूतान, तिबेट, चीन, बांगलादेश आणि इतर देशांतील बौद्ध समुदायांनी बांधलेली विहारे आहेत. येथील दिवस शांत असतात: पहाटेचे पठण, मंदिराची प्रदक्षिणा, वृक्षाखाली बसणे. नगर लहान आणि चालण्यासारखे आहे, पण नगराबाहेरचे रस्ते गजबजलेले असतात.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "In the Buddhist account, the ascetic Siddhartha Gautama sat under a pipal tree here and, after seven weeks of practice, attained complete awakening and became the Buddha. Tradition credits Emperor Ashoka with raising the first shrine around the 3rd century BCE, and the present brick temple, about 55 metres tall, dates from around the 5th to 6th century CE. Beside it stands a tree held to descend from the original Bodhi Tree, and the Vajrasana, the stone seat attributed to Ashoka. After centuries of neglect the site was restored in the 19th century, and the Bodh Gaya Temple Act of 1949 placed it under a committee with both Buddhist and Hindu members.",
-    "hi": { "text": "बौद्ध वृत्तांत के अनुसार, तपस्वी सिद्धार्थ गौतम यहाँ पीपल के वृक्ष के नीचे बैठे और सात सप्ताह की साधना के बाद उन्हें पूर्ण बोध प्राप्त हुआ और वे बुद्ध बने। परंपरा के अनुसार सम्राट अशोक ने लगभग तीसरी शताब्दी ईसा पूर्व में पहला मंदिर बनवाया, और वर्तमान ईंटों का मंदिर, लगभग 55 मीटर ऊँचा, पाँचवीं-छठी शताब्दी ईस्वी के आसपास का है। इसके पास वह वृक्ष है जिसे मूल बोधि वृक्ष का वंशज माना जाता है, और वज्रासन, अशोक से जुड़ा पत्थर का आसन। सदियों की उपेक्षा के बाद 19वीं शताब्दी में स्थल का जीर्णोद्धार हुआ, और 1949 के बोधगया मंदिर अधिनियम ने इसे बौद्ध और हिंदू दोनों सदस्यों वाली समिति के अधीन रखा।", "reviewed": false },
-    "mr": { "text": "बौद्ध वृत्तांतानुसार, तपस्वी सिद्धार्थ गौतम येथे पिंपळाच्या झाडाखाली बसले आणि सात आठवड्यांच्या साधनेनंतर त्यांना पूर्ण बोध प्राप्त झाला आणि ते बुद्ध झाले. परंपरेनुसार सम्राट अशोकाने इसवी सनापूर्वी सुमारे तिसऱ्या शतकात पहिले मंदिर बांधले, आणि सध्याचे विटांचे मंदिर, सुमारे 55 मीटर उंच, इसवी सनाच्या पाचव्या-सहाव्या शतकाच्या सुमारास बांधलेले आहे. त्याच्या बाजूला मूळ बोधिवृक्षाचा वंशज मानला जाणारा वृक्ष आहे, आणि वज्रासन, अशोकाशी जोडलेले दगडी आसन. शतकानुशतकांच्या दुर्लक्षानंतर 19व्या शतकात स्थळाचा जीर्णोद्धार झाला, आणि 1949 च्या बोधगया मंदिर कायद्याने ते बौद्ध आणि हिंदू दोन्ही सदस्य असलेल्या समितीच्या अधीन ठेवले.", "reviewed": false }
+    "hi": {
+      "text": "बौद्ध वृत्तांत के अनुसार, तपस्वी सिद्धार्थ गौतम यहाँ पीपल के वृक्ष के नीचे बैठे और सात सप्ताह की साधना के बाद उन्हें पूर्ण बोध प्राप्त हुआ और वे बुद्ध बने। परंपरा के अनुसार सम्राट अशोक ने लगभग तीसरी शताब्दी ईसा पूर्व में पहला मंदिर बनवाया, और वर्तमान ईंटों का मंदिर, लगभग 55 मीटर ऊँचा, पाँचवीं-छठी शताब्दी ईस्वी के आसपास का है। इसके पास वह वृक्ष है जिसे मूल बोधि वृक्ष का वंशज माना जाता है, और वज्रासन, अशोक से जुड़ा पत्थर का आसन। सदियों की उपेक्षा के बाद 19वीं शताब्दी में स्थल का जीर्णोद्धार हुआ, और 1949 के बोधगया मंदिर अधिनियम ने इसे बौद्ध और हिंदू दोनों सदस्यों वाली समिति के अधीन रखा।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बौद्ध वृत्तांतानुसार, तपस्वी सिद्धार्थ गौतम येथे पिंपळाच्या झाडाखाली बसले आणि सात आठवड्यांच्या साधनेनंतर त्यांना पूर्ण बोध प्राप्त झाला आणि ते बुद्ध झाले. परंपरेनुसार सम्राट अशोकाने इसवी सनापूर्वी सुमारे तिसऱ्या शतकात पहिले मंदिर बांधले, आणि सध्याचे विटांचे मंदिर, सुमारे 55 मीटर उंच, इसवी सनाच्या पाचव्या-सहाव्या शतकाच्या सुमारास बांधलेले आहे. त्याच्या बाजूला मूळ बोधिवृक्षाचा वंशज मानला जाणारा वृक्ष आहे, आणि वज्रासन, अशोकाशी जोडलेले दगडी आसन. शतकानुशतकांच्या दुर्लक्षानंतर 19व्या शतकात स्थळाचा जीर्णोद्धार झाला, आणि 1949 च्या बोधगया मंदिर कायद्याने ते बौद्ध आणि हिंदू दोन्ही सदस्य असलेल्या समितीच्या अधीन ठेवले.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From the Buddhist tradition of the Buddha's awakening and the UNESCO and temple committee records.",
-    "hi": { "text": "बुद्ध के बोध की बौद्ध परंपरा तथा यूनेस्को और मंदिर समिति के अभिलेखों से।", "reviewed": false },
-    "mr": { "text": "बुद्धांच्या बोधाच्या बौद्ध परंपरेतून तसेच युनेस्को आणि मंदिर समितीच्या नोंदींतून.", "reviewed": false }
+    "hi": {
+      "text": "बुद्ध के बोध की बौद्ध परंपरा तथा यूनेस्को और मंदिर समिति के अभिलेखों से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बुद्धांच्या बोधाच्या बौद्ध परंपरेतून तसेच युनेस्को आणि मंदिर समितीच्या नोंदींतून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [10, 11, 12, 1, 2, 3],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [10, 11, 2, 3],
+        "months": [
+          10,
+          11,
+          2,
+          3
+        ],
         "rating": "best",
         "weather": {
           "en": "Clear and mild, roughly 12 to 30 degrees. Good for walking round the temple and visiting monasteries. October can still feel humid.",
-          "hi": { "text": "साफ़ और सौम्य मौसम, लगभग 12 से 30 डिग्री। मंदिर की परिक्रमा और विहारों के दर्शन के लिए अच्छा। अक्टूबर में अब भी उमस लग सकती है।", "reviewed": false },
-          "mr": { "text": "स्वच्छ आणि सौम्य हवामान, सुमारे 12 ते 30 अंश. मंदिराची प्रदक्षिणा आणि विहारांना भेट देण्यासाठी चांगले. ऑक्टोबरमध्ये अजूनही दमटपणा जाणवू शकतो.", "reviewed": false }
+          "hi": {
+            "text": "साफ़ और सौम्य मौसम, लगभग 12 से 30 डिग्री। मंदिर की परिक्रमा और विहारों के दर्शन के लिए अच्छा। अक्टूबर में अब भी उमस लग सकती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "स्वच्छ आणि सौम्य हवामान, सुमारे 12 ते 30 अंश. मंदिराची प्रदक्षिणा आणि विहारांना भेट देण्यासाठी चांगले. ऑक्टोबरमध्ये अजूनही दमटपणा जाणवू शकतो.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [12, 1],
+        "months": [
+          12,
+          1
+        ],
         "rating": "good",
         "weather": {
           "en": "The main pilgrimage season, with cold mornings of about 5 to 10 degrees and dense fog that can delay trains and flights. Monasteries often hold teachings and prayer gatherings, so the town is busy. Carry warm layers.",
-          "hi": { "text": "मुख्य तीर्थ मौसम, ठंडी सुबहें लगभग 5 से 10 डिग्री और घना कोहरा जो रेल और उड़ानों में देरी कर सकता है। विहारों में अक्सर प्रवचन और प्रार्थना सभाएँ होती हैं, इसलिए नगर व्यस्त रहता है। गर्म कपड़े रखें।", "reviewed": false },
-          "mr": { "text": "मुख्य तीर्थयात्रेचा हंगाम, थंड सकाळ सुमारे 5 ते 10 अंश आणि दाट धुके जे रेल्वे व विमानांना उशीर करू शकते. विहारांमध्ये अनेकदा प्रवचने आणि प्रार्थना सभा होतात, त्यामुळे नगर गजबजलेले असते. उबदार कपडे सोबत ठेवा.", "reviewed": false }
+          "hi": {
+            "text": "मुख्य तीर्थ मौसम, ठंडी सुबहें लगभग 5 से 10 डिग्री और घना कोहरा जो रेल और उड़ानों में देरी कर सकता है। विहारों में अक्सर प्रवचन और प्रार्थना सभाएँ होती हैं, इसलिए नगर व्यस्त रहता है। गर्म कपड़े रखें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "मुख्य तीर्थयात्रेचा हंगाम, थंड सकाळ सुमारे 5 ते 10 अंश आणि दाट धुके जे रेल्वे व विमानांना उशीर करू शकते. विहारांमध्ये अनेकदा प्रवचने आणि प्रार्थना सभा होतात, त्यामुळे नगर गजबजलेले असते. उबदार कपडे सोबत ठेवा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5, 6],
+        "months": [
+          4,
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Very hot and dry, often above 40 degrees. Buddha Purnima falls in April or May and brings pilgrims despite the heat. Visit at dawn and after sunset, and drink water often.",
-          "hi": { "text": "बहुत गर्म और शुष्क, अक्सर 40 डिग्री से ऊपर। बुद्ध पूर्णिमा अप्रैल या मई में आती है और गर्मी के बावजूद श्रद्धालु आते हैं। भोर और सूर्यास्त के बाद जाएँ, और बार-बार पानी पिएँ।", "reviewed": false },
-          "mr": { "text": "खूप उष्ण आणि कोरडे, अनेकदा 40 अंशांहून अधिक. बुद्ध पौर्णिमा एप्रिल किंवा मे मध्ये येते आणि उष्णता असूनही भाविक येतात. पहाटे आणि सूर्यास्तानंतर जा, आणि वारंवार पाणी प्या.", "reviewed": false }
+          "hi": {
+            "text": "बहुत गर्म और शुष्क, अक्सर 40 डिग्री से ऊपर। बुद्ध पूर्णिमा अप्रैल या मई में आती है और गर्मी के बावजूद श्रद्धालु आते हैं। भोर और सूर्यास्त के बाद जाएँ, और बार-बार पानी पिएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "खूप उष्ण आणि कोरडे, अनेकदा 40 अंशांहून अधिक. बुद्ध पौर्णिमा एप्रिल किंवा मे मध्ये येते आणि उष्णता असूनही भाविक येतात. पहाटे आणि सूर्यास्तानंतर जा, आणि वारंवार पाणी प्या.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Monsoon. Warm, humid and rainy, with muddy lanes and occasional flooding on roads outside the town. Fewer visitors and quieter monasteries.",
-          "hi": { "text": "वर्षा ऋतु। गर्म, उमस भरा और बरसाती मौसम, कीचड़ भरी गलियाँ और नगर के बाहर सड़कों पर कभी-कभी जलभराव। कम यात्री और शांत विहार।", "reviewed": false },
-          "mr": { "text": "पावसाळा. उष्ण, दमट आणि पावसाळी हवा, चिखलाच्या गल्ल्या आणि नगराबाहेरील रस्त्यांवर कधी कधी पाणी साचणे. कमी पर्यटक आणि शांत विहारे.", "reviewed": false }
+          "hi": {
+            "text": "वर्षा ऋतु। गर्म, उमस भरा और बरसाती मौसम, कीचड़ भरी गलियाँ और नगर के बाहर सड़कों पर कभी-कभी जलभराव। कम यात्री और शांत विहार।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळा. उष्ण, दमट आणि पावसाळी हवा, चिखलाच्या गल्ल्या आणि नगराबाहेरील रस्त्यांवर कधी कधी पाणी साचणे. कमी पर्यटक आणि शांत विहारे.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Gaya Airport (GAY), Gaya International", "hi": { "text": "गया हवाई अड्डा (GAY), गया अंतरराष्ट्रीय", "reviewed": false }, "mr": { "text": "गया विमानतळ (GAY), गया आंतरराष्ट्रीय", "reviewed": false } },
+      "nearest": {
+        "en": "Gaya Airport (GAY), Gaya International",
+        "hi": {
+          "text": "गया हवाई अड्डा (GAY), गया अंतरराष्ट्रीय",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गया विमानतळ (GAY), गया आंतरराष्ट्रीय",
+          "reviewed": false
+        }
+      },
       "km": 7,
       "how": {
         "en": "Flights from Delhi, Kolkata and a few other cities, with seasonal international services linked to the pilgrim season. Taxis and autos reach the town in about 20 to 30 minutes. Patna airport is about 110 to 130 km away and has more flights.",
-        "hi": { "text": "दिल्ली, कोलकाता और कुछ अन्य शहरों से उड़ानें, तीर्थ मौसम से जुड़ी मौसमी अंतरराष्ट्रीय सेवाओं के साथ। टैक्सी और ऑटो से नगर पहुँचने में लगभग 20 से 30 मिनट लगते हैं। पटना हवाई अड्डा लगभग 110 से 130 किमी दूर है और वहाँ अधिक उड़ानें हैं।", "reviewed": false },
-        "mr": { "text": "दिल्ली, कोलकाता आणि काही इतर शहरांतून उड्डाणे, यात्रेच्या हंगामाशी जोडलेल्या हंगामी आंतरराष्ट्रीय सेवांसह. टॅक्सी आणि ऑटोने नगरात पोहोचण्यास सुमारे 20 ते 30 मिनिटे लागतात. पाटणा विमानतळ सुमारे 110 ते 130 किमी अंतरावर आहे आणि तिथे अधिक उड्डाणे आहेत.", "reviewed": false }
+        "hi": {
+          "text": "दिल्ली, कोलकाता और कुछ अन्य शहरों से उड़ानें, तीर्थ मौसम से जुड़ी मौसमी अंतरराष्ट्रीय सेवाओं के साथ। टैक्सी और ऑटो से नगर पहुँचने में लगभग 20 से 30 मिनट लगते हैं। पटना हवाई अड्डा लगभग 110 से 130 किमी दूर है और वहाँ अधिक उड़ानें हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्ली, कोलकाता आणि काही इतर शहरांतून उड्डाणे, यात्रेच्या हंगामाशी जोडलेल्या हंगामी आंतरराष्ट्रीय सेवांसह. टॅक्सी आणि ऑटोने नगरात पोहोचण्यास सुमारे 20 ते 30 मिनिटे लागतात. पाटणा विमानतळ सुमारे 110 ते 130 किमी अंतरावर आहे आणि तिथे अधिक उड्डाणे आहेत.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Gaya Junction (GAYA)", "hi": { "text": "गया जंक्शन (GAYA)", "reviewed": false }, "mr": { "text": "गया जंक्शन (GAYA)", "reviewed": false } },
+      "nearest": {
+        "en": "Gaya Junction (GAYA)",
+        "hi": {
+          "text": "गया जंक्शन (GAYA)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गया जंक्शन (GAYA)",
+          "reviewed": false
+        }
+      },
       "km": 10,
       "how": {
         "en": "Well connected to Delhi (the Mahabodhi Express), Kolkata (Howrah to Gaya services, including a Vande Bharat), Patna and Varanasi. Autos, e-rickshaws and taxis run from the station to Bodh Gaya in about 30 to 45 minutes. Fix the fare before you board.",
-        "hi": { "text": "दिल्ली (महाबोधि एक्सप्रेस), कोलकाता (हावड़ा से गया सेवाएँ, एक वंदे भारत सहित), पटना और वाराणसी से अच्छी तरह जुड़ा है। स्टेशन से बोधगया तक ऑटो, ई-रिक्शा और टैक्सी लगभग 30 से 45 मिनट में पहुँचाते हैं। बैठने से पहले किराया तय कर लें।", "reviewed": false },
-        "mr": { "text": "दिल्ली (महाबोधी एक्सप्रेस), कोलकाता (हावडा ते गया सेवा, एका वंदे भारतसह), पाटणा आणि वाराणसी यांच्याशी चांगले जोडलेले. स्थानकापासून बोधगयेपर्यंत ऑटो, ई-रिक्षा आणि टॅक्सी सुमारे 30 ते 45 मिनिटांत पोहोचवतात. बसण्यापूर्वी भाडे ठरवा.", "reviewed": false }
+        "hi": {
+          "text": "दिल्ली (महाबोधि एक्सप्रेस), कोलकाता (हावड़ा से गया सेवाएँ, एक वंदे भारत सहित), पटना और वाराणसी से अच्छी तरह जुड़ा है। स्टेशन से बोधगया तक ऑटो, ई-रिक्शा और टैक्सी लगभग 30 से 45 मिनट में पहुँचाते हैं। बैठने से पहले किराया तय कर लें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्ली (महाबोधी एक्सप्रेस), कोलकाता (हावडा ते गया सेवा, एका वंदे भारतसह), पाटणा आणि वाराणसी यांच्याशी चांगले जोडलेले. स्थानकापासून बोधगयेपर्यंत ऑटो, ई-रिक्षा आणि टॅक्सी सुमारे 30 ते 45 मिनिटांत पोहोचवतात. बसण्यापूर्वी भाडे ठरवा.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "Buses and taxis run from Patna (about 110 km, 3 hours) via Rajgir, and from Gaya city and Varanasi (about 250 km). Roads are busy near Gaya.",
-        "hi": { "text": "पटना (लगभग 110 किमी, 3 घंटे) से राजगीर होकर, और गया शहर तथा वाराणसी (लगभग 250 किमी) से बसें और टैक्सियाँ चलती हैं। गया के पास सड़कें व्यस्त रहती हैं।", "reviewed": false },
-        "mr": { "text": "पाटणा (सुमारे 110 किमी, 3 तास) येथून राजगीरमार्गे, आणि गया शहर व वाराणसी (सुमारे 250 किमी) येथून बसेस आणि टॅक्सी धावतात. गयेजवळ रस्ते गजबजलेले असतात.", "reviewed": false }
+        "hi": {
+          "text": "पटना (लगभग 110 किमी, 3 घंटे) से राजगीर होकर, और गया शहर तथा वाराणसी (लगभग 250 किमी) से बसें और टैक्सियाँ चलती हैं। गया के पास सड़कें व्यस्त रहती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पाटणा (सुमारे 110 किमी, 3 तास) येथून राजगीरमार्गे, आणि गया शहर व वाराणसी (सुमारे 250 किमी) येथून बसेस आणि टॅक्सी धावतात. गयेजवळ रस्ते गजबजलेले असतात.",
+          "reviewed": false
+        }
       },
       "km": 110
     }
   },
   "localTransport": {
     "en": "The temple area and the monastery lanes are best covered on foot, and vehicles are restricted close to the Mahabodhi complex. Use e-rickshaws or autos between monasteries and for Sujata village. Agree the fare before you start. Many pilgrims hire a taxi for a day to see Rajgir and Nalanda.",
-    "hi": { "text": "मंदिर क्षेत्र और विहारों की गलियाँ पैदल घूमना सबसे अच्छा है, और महाबोधि परिसर के पास वाहनों पर रोक रहती है। विहारों के बीच और सुजाता गाँव के लिए ई-रिक्शा या ऑटो लें। चलने से पहले किराया तय कर लें। कई तीर्थयात्री राजगीर और नालंदा देखने के लिए एक दिन की टैक्सी लेते हैं।", "reviewed": false },
-    "mr": { "text": "मंदिर परिसर आणि विहारांच्या गल्ल्या चालत फिरणे सर्वोत्तम, आणि महाबोधी परिसराजवळ वाहनांवर निर्बंध असतात. विहारांमध्ये आणि सुजाता गावासाठी ई-रिक्षा किंवा ऑटो घ्या. निघण्यापूर्वी भाडे ठरवा. अनेक यात्रेकरू राजगीर आणि नालंदा पाहण्यासाठी एक दिवसाची टॅक्सी घेतात.", "reviewed": false }
+    "hi": {
+      "text": "मंदिर क्षेत्र और विहारों की गलियाँ पैदल घूमना सबसे अच्छा है, और महाबोधि परिसर के पास वाहनों पर रोक रहती है। विहारों के बीच और सुजाता गाँव के लिए ई-रिक्शा या ऑटो लें। चलने से पहले किराया तय कर लें। कई तीर्थयात्री राजगीर और नालंदा देखने के लिए एक दिन की टैक्सी लेते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मंदिर परिसर आणि विहारांच्या गल्ल्या चालत फिरणे सर्वोत्तम, आणि महाबोधी परिसराजवळ वाहनांवर निर्बंध असतात. विहारांमध्ये आणि सुजाता गावासाठी ई-रिक्षा किंवा ऑटो घ्या. निघण्यापूर्वी भाडे ठरवा. अनेक यात्रेकरू राजगीर आणि नालंदा पाहण्यासाठी एक दिवसाची टॅक्सी घेतात.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "buddha-purnima",
       "note": {
         "en": "Marks the Buddha's birth, awakening and final passing, on the full moon of Vaisakha (April or May). Thousands of pilgrims offer light, flowers and chanting at the Mahabodhi Mahavihara. Expect heat, crowds and tight security.",
-        "hi": { "text": "वैशाख की पूर्णिमा (अप्रैल या मई) पर बुद्ध के जन्म, बोध और महापरिनिर्वाण का स्मरण। हज़ारों श्रद्धालु महाबोधि महाविहार में दीप, पुष्प और पाठ अर्पित करते हैं। गर्मी, भीड़ और कड़ी सुरक्षा की अपेक्षा रखें।", "reviewed": false },
-        "mr": { "text": "वैशाख पौर्णिमेला (एप्रिल किंवा मे) बुद्धांचा जन्म, बोध आणि महापरिनिर्वाण यांचे स्मरण. हजारो भाविक महाबोधी महाविहारात दीप, पुष्पे आणि पठण अर्पण करतात. उष्णता, गर्दी आणि कडक सुरक्षेची अपेक्षा ठेवा.", "reviewed": false }
+        "hi": {
+          "text": "वैशाख की पूर्णिमा (अप्रैल या मई) पर बुद्ध के जन्म, बोध और महापरिनिर्वाण का स्मरण। हज़ारों श्रद्धालु महाबोधि महाविहार में दीप, पुष्प और पाठ अर्पित करते हैं। गर्मी, भीड़ और कड़ी सुरक्षा की अपेक्षा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वैशाख पौर्णिमेला (एप्रिल किंवा मे) बुद्धांचा जन्म, बोध आणि महापरिनिर्वाण यांचे स्मरण. हजारो भाविक महाबोधी महाविहारात दीप, पुष्पे आणि पठण अर्पण करतात. उष्णता, गर्दी आणि कडक सुरक्षेची अपेक्षा ठेवा.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Rajgir", "hi": { "text": "राजगीर", "reviewed": false }, "mr": { "text": "राजगीर", "reviewed": false } },
+      "name": {
+        "en": "Rajgir",
+        "hi": {
+          "text": "राजगीर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "राजगीर",
+          "reviewed": false
+        }
+      },
       "km": 75,
-      "note": { "en": "Where the Buddha taught often, with Gridhakuta (Vulture Peak) and the Venuvana grove. Also sacred to Jains.", "hi": { "text": "जहाँ बुद्ध ने अनेक बार उपदेश दिए, गृध्रकूट (गिद्ध शिखर) और वेणुवन के साथ। जैनों के लिए भी पवित्र।", "reviewed": false }, "mr": { "text": "जिथे बुद्धांनी अनेकदा उपदेश दिले, गृध्रकूट (गिधाड शिखर) आणि वेणुवनासह. जैनांसाठीही पवित्र.", "reviewed": false } }
+      "note": {
+        "en": "Where the Buddha taught often, with Gridhakuta (Vulture Peak) and the Venuvana grove. Also sacred to Jains.",
+        "hi": {
+          "text": "जहाँ बुद्ध ने अनेक बार उपदेश दिए, गृध्रकूट (गिद्ध शिखर) और वेणुवन के साथ। जैनों के लिए भी पवित्र।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जिथे बुद्धांनी अनेकदा उपदेश दिले, गृध्रकूट (गिधाड शिखर) आणि वेणुवनासह. जैनांसाठीही पवित्र.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Nalanda", "hi": { "text": "नालंदा", "reviewed": false }, "mr": { "text": "नालंदा", "reviewed": false } },
+      "name": {
+        "en": "Nalanda",
+        "hi": {
+          "text": "नालंदा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नालंदा",
+          "reviewed": false
+        }
+      },
       "km": 95,
-      "note": { "en": "Ruins of the ancient Buddhist monastic university, a UNESCO World Heritage Site, with a small museum.", "hi": { "text": "प्राचीन बौद्ध विश्वविद्यालय के खंडहर, यूनेस्को विश्व धरोहर स्थल, एक छोटे संग्रहालय के साथ।", "reviewed": false }, "mr": { "text": "प्राचीन बौद्ध विद्यापीठाचे अवशेष, युनेस्कोचे जागतिक वारसा स्थळ, एका लहान संग्रहालयासह.", "reviewed": false } }
+      "note": {
+        "en": "Ruins of the ancient Buddhist monastic university, a UNESCO World Heritage Site, with a small museum.",
+        "hi": {
+          "text": "प्राचीन बौद्ध विश्वविद्यालय के खंडहर, यूनेस्को विश्व धरोहर स्थल, एक छोटे संग्रहालय के साथ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "प्राचीन बौद्ध विद्यापीठाचे अवशेष, युनेस्कोचे जागतिक वारसा स्थळ, एका लहान संग्रहालयासह.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Sujata village and stupa", "hi": { "text": "सुजाता गाँव और स्तूप", "reviewed": false }, "mr": { "text": "सुजाता गाव आणि स्तूप", "reviewed": false } },
+      "name": {
+        "en": "Sujata village and stupa",
+        "hi": {
+          "text": "सुजाता गाँव और स्तूप",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुजाता गाव आणि स्तूप",
+          "reviewed": false
+        }
+      },
       "km": 2,
-      "note": { "en": "Across the river, remembered for the milkmaid Sujata who offered the Buddha rice milk before his awakening.", "hi": { "text": "नदी के पार, उस सुजाता की स्मृति में जिसने बोध से पहले बुद्ध को खीर अर्पित की।", "reviewed": false }, "mr": { "text": "नदीपलीकडे, बोधापूर्वी बुद्धांना खीर अर्पण करणाऱ्या सुजाताच्या स्मृतीत.", "reviewed": false } }
+      "note": {
+        "en": "Across the river, remembered for the milkmaid Sujata who offered the Buddha rice milk before his awakening.",
+        "hi": {
+          "text": "नदी के पार, उस सुजाता की स्मृति में जिसने बोध से पहले बुद्ध को खीर अर्पित की।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नदीपलीकडे, बोधापूर्वी बुद्धांना खीर अर्पण करणाऱ्या सुजाताच्या स्मृतीत.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Gaya (Vishnupad Temple)", "hi": { "text": "गया (विष्णुपद मंदिर)", "reviewed": false }, "mr": { "text": "गया (विष्णुपद मंदिर)", "reviewed": false } },
+      "name": {
+        "en": "Gaya (Vishnupad Temple)",
+        "hi": {
+          "text": "गया (विष्णुपद मंदिर)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गया (विष्णुपद मंदिर)",
+          "reviewed": false
+        }
+      },
       "km": 12,
-      "note": { "en": "The neighbouring city is a major Hindu centre for ancestral rites, along the Phalgu river.", "hi": { "text": "पड़ोसी शहर फल्गु नदी के तट पर पितृ कर्म का प्रमुख हिंदू केंद्र है।", "reviewed": false }, "mr": { "text": "शेजारचे शहर फल्गू नदीकाठी पितृकर्मांचे प्रमुख हिंदू केंद्र आहे.", "reviewed": false } }
+      "note": {
+        "en": "The neighbouring city is a major Hindu centre for ancestral rites, along the Phalgu river.",
+        "hi": {
+          "text": "पड़ोसी शहर फल्गु नदी के तट पर पितृ कर्म का प्रमुख हिंदू केंद्र है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शेजारचे शहर फल्गू नदीकाठी पितृकर्मांचे प्रमुख हिंदू केंद्र आहे.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "Mahabodhi Temple at Bodh Gaya", "hi": { "text": "बोधगया का महाबोधि मंदिर", "reviewed": false }, "mr": { "text": "बोधगयेतील महाबोधी मंदिर", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Bodh Gaya",
+        "hi": {
+          "text": "बोधगया",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बोधगया",
+          "reviewed": false
+        }
+      },
+      "credit": "Rohit Sharma, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Mahabodhi_temple_complex,_Bodhgaya_23.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Bodh Gaya",
+        "hi": {
+          "text": "बोधगया",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बोधगया",
+          "reviewed": false
+        }
+      },
+      "credit": "Rohit Sharma, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Mahabodhi_temple_complex,_Bodhgaya_07.jpg"
     }
   ],
   "sources": [
-    { "label": "Bodhgaya Temple Management Committee, official website", "url": "https://www.bodhgayatemple.com" },
-    { "label": "Mahabodhi Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Mahabodhi_Temple" },
-    { "label": "Mahabodhi Temple Complex at Bodh Gaya, UNESCO", "url": "https://whc.unesco.org/en/list/1056" },
-    { "label": "Bodh Gaya, Wikipedia", "url": "https://en.wikipedia.org/wiki/Bodh_Gaya" }
+    {
+      "label": "Bodhgaya Temple Management Committee, official website",
+      "url": "https://www.bodhgayatemple.com"
+    },
+    {
+      "label": "Mahabodhi Temple, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mahabodhi_Temple"
+    },
+    {
+      "label": "Mahabodhi Temple Complex at Bodh Gaya, UNESCO",
+      "url": "https://whc.unesco.org/en/list/1056"
+    },
+    {
+      "label": "Bodh Gaya, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bodh_Gaya"
+    }
   ]
 }

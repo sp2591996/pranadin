@@ -37,7 +37,7 @@ function Label({ icon, children, light }: { icon: IconName; children: React.Reac
 }
 
 export function TodayExplore({ locale }: { locale: Locale }) {
-  const ui = loadStrings(locale, ["today.path", "today.bento", "today.journal", "today.hero.aiPhoto", "nav.", "practice.breathe.sub", "practice.meditate.sub", "yoga.entry"]);
+  const ui = loadStrings(locale, ["today.path", "today.bento", "today.journal", "today.hero.aiPhoto", "today.photoBy", "nav.", "practice.breathe.sub", "practice.meditate.sub", "yoga.entry"]);
   const ch = loadChakraStrings(locale);
   const ya = loadYatraStrings(locale);
   const ai = ui["today.hero.aiPhoto"];
@@ -47,14 +47,17 @@ export function TodayExplore({ locale }: { locale: Locale }) {
       {/* Yatra: big photo, 2×2 */}
       <li className="tile reveal order-1 col-span-2 row-span-2 min-h-[20rem] bg-[#2A1408] shadow-elev-2">
         {/* eslint-disable-next-line @next/next/no-img-element -- server tile, no JS */}
-        <img src="/yatra/kedarnath/hero.webp" alt="" decoding="async" className="absolute inset-0 -z-20 h-full w-full object-cover" />
+        <img src="/yatra/kedarnath/photo-1.webp" alt="" decoding="async" className="absolute inset-0 -z-20 h-full w-full object-cover" />
         <span aria-hidden="true" className="photo-shade absolute inset-0 -z-10" />
         <Link href={yatraRoutes.list(locale)} className={`${linkBase} p-6 text-[#fff] sm:p-7`}>
           <span className="flex flex-wrap items-start justify-between gap-2">
             <Label icon="Bank" light>
               {ui["nav.yatra"]}
             </Label>
-            <span className="glass rounded-full px-2.5 py-1 text-caption text-[#fff]">{ai}</span>
+            <span className="glass rounded-full px-2.5 py-1 text-caption text-[#fff]">
+              {ui["today.photoBy"]?.replace("{credit}", "")}
+              <span lang="en">Shivam Kumar 766, CC BY-SA 4.0</span>
+            </span>
           </span>
           <span className="flex items-end justify-between gap-3">
             <span className="min-w-0">
@@ -86,7 +89,7 @@ export function TodayExplore({ locale }: { locale: Locale }) {
       </li>
 
       {/* Sounds: dark tile with moving bars */}
-      <li className="tile reveal order-3 bg-gradient-to-br from-[#3A1A0B] to-[#1E0E06] shadow-elev-2">
+      <li className="tile reveal brand-earth order-3 shadow-elev-2">
         <Link href={routes.sounds(locale)} className={`${linkBase} text-[#fff]`}>
           <span className="flex items-start justify-between gap-2">
             <span aria-hidden="true" className="eq text-[#F5B22E]">
@@ -108,33 +111,33 @@ export function TodayExplore({ locale }: { locale: Locale }) {
       </li>
 
       {/* Breath: expanding orb */}
-      <li className="tile reveal order-5 bg-gradient-to-br from-[#2F7D74] to-[#1C4F57] shadow-elev-1">
+      <li className="tile reveal brand-saffron brand-glow order-5 shadow-elev-1">
         <Link href={routes.practice(locale)} className={`${linkBase} text-[#fff]`}>
           <span aria-hidden="true" className="relative ml-2 mt-2 block h-12 w-12">
             <span className="orb absolute inset-0" />
           </span>
           <span>
             <span className="block font-display text-[1.5rem] font-semibold leading-tight">{ui["today.path.breath"]}</span>
-            <span className="line-clamp-2 text-small text-[#D7EFEA]">{ui["practice.breathe.sub"]}</span>
+            <span className="line-clamp-2 text-small text-[#F8E2C8]">{ui["practice.breathe.sub"]}</span>
           </span>
         </Link>
       </li>
 
       {/* Meditate: twilight */}
-      <li className="tile reveal order-6 bg-gradient-to-br from-[#4A3A7A] to-[#22183F] shadow-elev-1">
+      <li className="tile reveal brand-maroon brand-glow order-6 shadow-elev-1">
         <Link href={practiceRoutes.stillness(locale, SILENT_ID)} className={`${linkBase} text-[#fff]`}>
           <span aria-hidden="true" className="flex h-11 w-11 items-center justify-center rounded-full bg-[#fff]/15 text-[#F3D98B]">
             <Icon name="Timer" size={22} />
           </span>
           <span>
             <span className="block font-display text-[1.5rem] font-semibold leading-tight">{ui["today.path.meditate"]}</span>
-            <span className="line-clamp-2 text-small text-[#DED6F2]">{ui["practice.meditate.sub"]}</span>
+            <span className="line-clamp-2 text-small text-[#F3D9CC]">{ui["practice.meditate.sub"]}</span>
           </span>
         </Link>
       </li>
 
       {/* Chakras: rainbow */}
-      <li className="tile reveal chakra-wash order-7 shadow-elev-1">
+      <li className="tile reveal brand-earth brand-glow order-7 shadow-elev-1">
         <span aria-hidden="true" className="absolute inset-0 -z-10 bg-[#000]/35" />
         <Link href={chakraRoutes.list(locale)} className={`${linkBase} text-[#fff]`}>
           <span aria-hidden="true" className="flex gap-1">

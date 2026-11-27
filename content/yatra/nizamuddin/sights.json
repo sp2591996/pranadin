@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "nizamuddin",
+  "sights": [
+    {
+      "id": "tomb",
+      "name": {
+        "en": "The saint's tomb",
+        "hi": {
+          "text": "संत की मज़ार",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संतांची मजार",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Marble shrine with a mother-of-pearl canopy.",
+        "hi": {
+          "text": "सीप की नक़्क़ाशी वाली छतरी के साथ संगमरमर की मज़ार।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शिंपल्याच्या नक्षीच्या छत्रीसह संगमरवरी मजार.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 5 am to 10:30 pm",
+        "hi": {
+          "text": "लगभग सुबह 5 से रात 10:30",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे पहाटे 5 ते रात्री 10:30",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "khusro",
+      "name": {
+        "en": "Amir Khusro's tomb",
+        "hi": {
+          "text": "अमीर ख़ुसरो की मज़ार",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अमीर खुसरोंची मजार",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Resting place of the great poet and musician.",
+        "hi": {
+          "text": "महान कवि और संगीतकार का विश्राम स्थल।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महान कवी आणि संगीतकारांचे विश्रांतिस्थान.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open with the dargah",
+        "hi": {
+          "text": "दरगाह के साथ खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दर्ग्यासोबत खुले",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "jamatkhana",
+      "name": {
+        "en": "Jamat Khana Masjid",
+        "hi": {
+          "text": "जमात ख़ाना मस्जिद",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जमात खाना मशीद",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Red sandstone mosque from the 14th century.",
+        "hi": {
+          "text": "14वीं सदी की लाल बलुआ पत्थर की मस्जिद।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "14व्या शतकातील लाल वाळूदगडी मशीद.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open with the dargah",
+        "hi": {
+          "text": "दरगाह के साथ खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दर्ग्यासोबत खुले",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "baoli",
+      "name": {
+        "en": "The stepwell",
+        "hi": {
+          "text": "बावली",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पायविहीर",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Old stepwell built in the saint's time.",
+        "hi": {
+          "text": "संत के समय बनी पुरानी बावली।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संतांच्या काळात बांधलेली जुनी पायविहीर.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Daytime",
+        "hi": {
+          "text": "दिन में",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसा",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Come on Thursday evening for qawwali after sunset prayers.",
+        "hi": {
+          "text": "गुरुवार शाम सूर्यास्त की नमाज़ के बाद क़व्वाली के लिए आएँ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरुवारी संध्याकाळी मगरिबनंतरच्या कव्वालीसाठी या.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Leave shoes at the paid stands in the lane.",
+        "hi": {
+          "text": "गली के शुल्क वाले स्टैंड पर जूते रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गल्लीतील सशुल्क ठिकाणी पादत्राणे ठेवा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Women view the inner tomb through a lattice.",
+        "hi": {
+          "text": "महिलाएँ भीतरी मज़ार जाली से देखती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महिला आतील मजार जाळीतून पाहतात.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Politely refuse anyone pressing for donations.",
+        "hi": {
+          "text": "दान के लिए दबाव डालने वालों को विनम्रता से मना करें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देणगीसाठी आग्रह धरणाऱ्यांना नम्रपणे नकार द्या.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

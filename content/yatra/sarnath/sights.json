@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "sarnath",
+  "sights": [
+    {
+      "id": "dhamek",
+      "name": {
+        "en": "Dhamek Stupa",
+        "hi": {
+          "text": "धमेख स्तूप",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "धमेख स्तूप",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Large brick stupa marking the first sermon.",
+        "hi": {
+          "text": "पहले उपदेश को चिह्नित करता बड़ा ईंट का स्तूप।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पहिल्या उपदेशाची खूण असलेला मोठा विटांचा स्तूप.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Sunrise to sunset",
+        "hi": {
+          "text": "सूर्योदय से सूर्यास्त",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सूर्योदय ते सूर्यास्त",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "museum",
+      "name": {
+        "en": "Sarnath Museum",
+        "hi": {
+          "text": "सारनाथ संग्रहालय",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सारनाथ संग्रहालय",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Home of the Ashoka lion capital, India's emblem.",
+        "hi": {
+          "text": "अशोक सिंह शीर्ष का घर, भारत का राजचिह्न।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अशोक सिंहमुद्रेचे घर, भारताचे राजचिन्ह.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 9 am to 5 pm, closed Fridays",
+        "hi": {
+          "text": "लगभग सुबह 9 से शाम 5, शुक्रवार बंद",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 9 ते सायं 5, शुक्रवारी बंद",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "mulagandha",
+      "name": {
+        "en": "Mulagandha Kuti Vihara",
+        "hi": {
+          "text": "मूलगंध कुटी विहार",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मूलगंध कुटी विहार",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Modern temple with wall paintings of the Buddha's life.",
+        "hi": {
+          "text": "बुद्ध के जीवन के भित्तिचित्रों वाला आधुनिक मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बुद्धांच्या जीवनावरील भित्तिचित्रे असलेले आधुनिक मंदिर.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 7 am to 5 pm",
+        "hi": {
+          "text": "लगभग सुबह 7 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 7 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "deerpark",
+      "name": {
+        "en": "Deer Park",
+        "hi": {
+          "text": "मृग उद्यान",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हरिण उद्यान",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Quiet lawns where deer still graze.",
+        "hi": {
+          "text": "शांत लॉन जहाँ अब भी हिरण चरते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शांत हिरवळ जिथे अजूनही हरणे चरतात.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 7 am to 5 pm",
+        "hi": {
+          "text": "लगभग सुबह 7 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 7 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Go early to sit by the stupa before groups arrive.",
+        "hi": {
+          "text": "समूहों के आने से पहले स्तूप के पास बैठने के लिए जल्दी जाएँ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गट येण्यापूर्वी स्तूपाजवळ बसण्यासाठी लवकर जा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "The museum is closed on Fridays.",
+        "hi": {
+          "text": "संग्रहालय शुक्रवार को बंद रहता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संग्रहालय शुक्रवारी बंद असते.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Evening chanting at the vihara is open to all.",
+        "hi": {
+          "text": "विहार में संध्या पाठ सबके लिए खुला है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "विहारातील संध्याकाळचे पठण सर्वांसाठी खुले आहे.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Combine with a day in Varanasi.",
+        "hi": {
+          "text": "वाराणसी के एक दिन के साथ जोड़ें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वाराणसीतील एका दिवसासोबत जोडा.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

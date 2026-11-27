@@ -5,160 +5,418 @@
   "version": "2026-11-26.1",
   "status": "draft",
   "id": "rishikesh",
-  "name": { "en": "Rishikesh", "hi": { "text": "ऋषिकेश", "reviewed": false }, "mr": { "text": "ऋषिकेश", "reviewed": false } },
-  "state": { "en": "Uttarakhand", "hi": { "text": "उत्तराखंड", "reviewed": false }, "mr": { "text": "उत्तराखंड", "reviewed": false } },
+  "name": {
+    "en": "Rishikesh",
+    "hi": {
+      "text": "ऋषिकेश",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "ऋषिकेश",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Uttarakhand",
+    "hi": {
+      "text": "उत्तराखंड",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "उत्तराखंड",
+      "reviewed": false
+    }
+  },
   "stateKey": "uttarakhand",
-  "traditions": ["hindu"],
+  "traditions": [
+    "hindu"
+  ],
   "deity": {
     "en": "The Ganga, and Lord Shiva as Neelkanth Mahadev. The town is known for its ashrams and as a place of yoga and meditation.",
-    "hi": { "text": "गंगा, तथा भगवान शिव नीलकंठ महादेव के रूप में। यह नगर अपने आश्रमों और योग तथा ध्यान की भूमि के रूप में जाना जाता है।", "reviewed": false },
-    "mr": { "text": "गंगा, तसेच भगवान शिव नीळकंठ महादेवाच्या रूपात. हे शहर आपल्या आश्रमांसाठी आणि योग व ध्यानाची भूमी म्हणून ओळखले जाते.", "reviewed": false }
+    "hi": {
+      "text": "गंगा, तथा भगवान शिव नीलकंठ महादेव के रूप में। यह नगर अपने आश्रमों और योग तथा ध्यान की भूमि के रूप में जाना जाता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "गंगा, तसेच भगवान शिव नीळकंठ महादेवाच्या रूपात. हे शहर आपल्या आश्रमांसाठी आणि योग व ध्यानाची भूमी म्हणून ओळखले जाते.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "Rishikesh is where sages are said to have practised austerities on the banks of the Ganga, and it is a traditional starting point of the Char Dham yatra. Today it is best known for its ashrams, yoga schools and the evening Ganga aarti. Many visitors come for a few quiet days of study, silence or simple riverside walks.",
-    "hi": { "text": "ऋषिकेश वह स्थान है जहाँ गंगा तट पर ऋषियों के तपस्या करने की मान्यता है, और यह चार धाम यात्रा का पारंपरिक आरंभ बिंदु है। आज यह अपने आश्रमों, योग विद्यालयों और संध्या गंगा आरती के लिए सबसे अधिक जाना जाता है। कई यात्री अध्ययन, मौन या नदी किनारे सरल सैर के कुछ शांत दिनों के लिए आते हैं।", "reviewed": false },
-    "mr": { "text": "ऋषिकेश हे ते ठिकाण आहे जिथे गंगेच्या काठावर ऋषींनी तपश्चर्या केली असे मानले जाते, आणि हे चार धाम यात्रेचे पारंपरिक प्रारंभ बिंदू आहे. आज हे आश्रम, योग विद्यालये आणि संध्याकाळच्या गंगा आरतीसाठी सर्वाधिक ओळखले जाते. अनेक प्रवासी अभ्यास, मौन किंवा नदीकाठच्या साध्या फेरफटक्यांच्या काही शांत दिवसांसाठी येतात.", "reviewed": false }
+    "hi": {
+      "text": "ऋषिकेश वह स्थान है जहाँ गंगा तट पर ऋषियों के तपस्या करने की मान्यता है, और यह चार धाम यात्रा का पारंपरिक आरंभ बिंदु है। आज यह अपने आश्रमों, योग विद्यालयों और संध्या गंगा आरती के लिए सबसे अधिक जाना जाता है। कई यात्री अध्ययन, मौन या नदी किनारे सरल सैर के कुछ शांत दिनों के लिए आते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "ऋषिकेश हे ते ठिकाण आहे जिथे गंगेच्या काठावर ऋषींनी तपश्चर्या केली असे मानले जाते, आणि हे चार धाम यात्रेचे पारंपरिक प्रारंभ बिंदू आहे. आज हे आश्रम, योग विद्यालये आणि संध्याकाळच्या गंगा आरतीसाठी सर्वाधिक ओळखले जाते. अनेक प्रवासी अभ्यास, मौन किंवा नदीकाठच्या साध्या फेरफटक्यांच्या काही शांत दिवसांसाठी येतात.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "Ashrams, yoga and the Ganga in the foothills",
-    "hi": { "text": "तलहटी में आश्रम, योग और गंगा", "reviewed": false },
-    "mr": { "text": "पायथ्याशी आश्रम, योग आणि गंगा", "reviewed": false }
+    "hi": {
+      "text": "तलहटी में आश्रम, योग और गंगा",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "पायथ्याशी आश्रम, योग आणि गंगा",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Rishikesh lies on the right bank of the Ganga in the Dehradun district, at about 340 m above sea level, where the river leaves the hills. Ashrams, small shrines, cafes and yoga schools line both banks, joined by the Ram Jhula and Laxman Jhula areas. Evenings bring the Ganga aarti at Triveni Ghat and at some ashram ghats. The town is calmer than Haridwar, though it gets busy on weekends and in the Char Dham season. White-water rafting runs on the river in the dry season.",
-    "hi": { "text": "ऋषिकेश देहरादून जिले में गंगा के दाहिने तट पर, समुद्र तल से लगभग 340 मीटर की ऊँचाई पर है, जहाँ नदी पहाड़ियों से निकलती है। दोनों तटों पर आश्रम, छोटे मंदिर, कैफ़े और योग विद्यालय हैं, जो राम झूला और लक्ष्मण झूला क्षेत्रों से जुड़े हैं। शामें त्रिवेणी घाट और कुछ आश्रम घाटों पर गंगा आरती लाती हैं। नगर हरिद्वार से शांत है, पर सप्ताहांत और चार धाम के मौसम में व्यस्त हो जाता है। शुष्क मौसम में नदी पर व्हाइट-वाटर राफ्टिंग चलती है।", "reviewed": false },
-    "mr": { "text": "ऋषिकेश डेहराडून जिल्ह्यात गंगेच्या उजव्या काठावर, समुद्रसपाटीपासून सुमारे 340 मीटर उंचीवर आहे, जिथे नदी टेकड्यांतून बाहेर पडते. दोन्ही काठांवर आश्रम, लहान मंदिरे, कॅफे आणि योग विद्यालये आहेत, जी राम झुला आणि लक्ष्मण झुला परिसरांनी जोडलेली आहेत. संध्याकाळी त्रिवेणी घाट आणि काही आश्रम घाटांवर गंगा आरती असते. शहर हरिद्वारपेक्षा शांत आहे, तरी सप्ताहांत आणि चार धाम हंगामात गजबजते. कोरड्या हंगामात नदीवर व्हाइट-वॉटर राफ्टिंग चालते.", "reviewed": false }
+    "hi": {
+      "text": "ऋषिकेश देहरादून जिले में गंगा के दाहिने तट पर, समुद्र तल से लगभग 340 मीटर की ऊँचाई पर है, जहाँ नदी पहाड़ियों से निकलती है। दोनों तटों पर आश्रम, छोटे मंदिर, कैफ़े और योग विद्यालय हैं, जो राम झूला और लक्ष्मण झूला क्षेत्रों से जुड़े हैं। शामें त्रिवेणी घाट और कुछ आश्रम घाटों पर गंगा आरती लाती हैं। नगर हरिद्वार से शांत है, पर सप्ताहांत और चार धाम के मौसम में व्यस्त हो जाता है। शुष्क मौसम में नदी पर व्हाइट-वाटर राफ्टिंग चलती है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "ऋषिकेश डेहराडून जिल्ह्यात गंगेच्या उजव्या काठावर, समुद्रसपाटीपासून सुमारे 340 मीटर उंचीवर आहे, जिथे नदी टेकड्यांतून बाहेर पडते. दोन्ही काठांवर आश्रम, लहान मंदिरे, कॅफे आणि योग विद्यालये आहेत, जी राम झुला आणि लक्ष्मण झुला परिसरांनी जोडलेली आहेत. संध्याकाळी त्रिवेणी घाट आणि काही आश्रम घाटांवर गंगा आरती असते. शहर हरिद्वारपेक्षा शांत आहे, तरी सप्ताहांत आणि चार धाम हंगामात गजबजते. कोरड्या हंगामात नदीवर व्हाइट-वॉटर राफ्टिंग चालते.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "The name is traditionally linked to Hrishikesha, a name of Vishnu, and tradition holds that the sage Raibhya performed austerities here. The Laxman Jhula area is said to be where Lakshmana crossed the Ganga on two ropes. In 1968 the Beatles stayed at Maharishi Mahesh Yogi's ashram, which brought the town to world attention as a place of yoga and meditation. An International Yoga Festival has been held here in the first week of March since 1999.",
-    "hi": { "text": "नाम परंपरा से हृषीकेश, विष्णु के एक नाम, से जुड़ा है, और परंपरा मानती है कि ऋषि रैभ्य ने यहाँ तपस्या की। लक्ष्मण झूला क्षेत्र वह स्थान माना जाता है जहाँ लक्ष्मण ने दो रस्सियों पर गंगा पार की। 1968 में बीटल्स महर्षि महेश योगी के आश्रम में ठहरे, जिसने नगर को योग और ध्यान की भूमि के रूप में विश्व का ध्यान दिलाया। 1999 से यहाँ मार्च के पहले सप्ताह में अंतरराष्ट्रीय योग महोत्सव होता है।", "reviewed": false },
-    "mr": { "text": "नाव परंपरेने हृषीकेश, विष्णूचे एक नाव, याच्याशी जोडलेले आहे, आणि परंपरा मानते की ऋषी रैभ्य यांनी येथे तपश्चर्या केली. लक्ष्मण झुला परिसर हे ते ठिकाण मानले जाते जिथे लक्ष्मणाने दोन दोऱ्यांवरून गंगा ओलांडली. 1968 मध्ये बीटल्स महर्षी महेश योगींच्या आश्रमात राहिले, ज्यामुळे शहराकडे योग आणि ध्यानाची भूमी म्हणून जगाचे लक्ष गेले. 1999 पासून येथे मार्चच्या पहिल्या आठवड्यात आंतरराष्ट्रीय योग महोत्सव होतो.", "reviewed": false }
+    "hi": {
+      "text": "नाम परंपरा से हृषीकेश, विष्णु के एक नाम, से जुड़ा है, और परंपरा मानती है कि ऋषि रैभ्य ने यहाँ तपस्या की। लक्ष्मण झूला क्षेत्र वह स्थान माना जाता है जहाँ लक्ष्मण ने दो रस्सियों पर गंगा पार की। 1968 में बीटल्स महर्षि महेश योगी के आश्रम में ठहरे, जिसने नगर को योग और ध्यान की भूमि के रूप में विश्व का ध्यान दिलाया। 1999 से यहाँ मार्च के पहले सप्ताह में अंतरराष्ट्रीय योग महोत्सव होता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "नाव परंपरेने हृषीकेश, विष्णूचे एक नाव, याच्याशी जोडलेले आहे, आणि परंपरा मानते की ऋषी रैभ्य यांनी येथे तपश्चर्या केली. लक्ष्मण झुला परिसर हे ते ठिकाण मानले जाते जिथे लक्ष्मणाने दोन दोऱ्यांवरून गंगा ओलांडली. 1968 मध्ये बीटल्स महर्षी महेश योगींच्या आश्रमात राहिले, ज्यामुळे शहराकडे योग आणि ध्यानाची भूमी म्हणून जगाचे लक्ष गेले. 1999 पासून येथे मार्चच्या पहिल्या आठवड्यात आंतरराष्ट्रीय योग महोत्सव होतो.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From local and Puranic tradition and the recorded history of the town.",
-    "hi": { "text": "स्थानीय और पौराणिक परंपरा तथा नगर के अभिलेखित इतिहास से।", "reviewed": false },
-    "mr": { "text": "स्थानिक आणि पौराणिक परंपरा तसेच शहराच्या नोंदवलेल्या इतिहासातून.", "reviewed": false }
+    "hi": {
+      "text": "स्थानीय और पौराणिक परंपरा तथा नगर के अभिलेखित इतिहास से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "स्थानिक आणि पौराणिक परंपरा तसेच शहराच्या नोंदवलेल्या इतिहासातून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [10, 11, 12, 1, 2, 3],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [10, 11, 2, 3],
+        "months": [
+          10,
+          11,
+          2,
+          3
+        ],
         "rating": "best",
         "weather": {
           "en": "Clear, dry and comfortable, with days of roughly 20 to 30 degrees. Best for walks, yoga stays and the ghats. The International Yoga Festival in early March and the rafting season make these months busy.",
-          "hi": { "text": "साफ़, शुष्क और सुहावना, दिन लगभग 20 से 30 डिग्री के। सैर, योग प्रवास और घाटों के लिए सर्वोत्तम। मार्च की शुरुआत का अंतरराष्ट्रीय योग महोत्सव और राफ्टिंग का मौसम इन महीनों को व्यस्त बनाते हैं।", "reviewed": false },
-          "mr": { "text": "स्वच्छ, कोरडे आणि आल्हाददायक, दिवस सुमारे 20 ते 30 अंशांचे. फेरफटके, योग मुक्काम आणि घाटांसाठी उत्तम. मार्चच्या सुरुवातीचा आंतरराष्ट्रीय योग महोत्सव आणि राफ्टिंगचा हंगाम हे महिने गजबजलेले ठेवतात.", "reviewed": false }
+          "hi": {
+            "text": "साफ़, शुष्क और सुहावना, दिन लगभग 20 से 30 डिग्री के। सैर, योग प्रवास और घाटों के लिए सर्वोत्तम। मार्च की शुरुआत का अंतरराष्ट्रीय योग महोत्सव और राफ्टिंग का मौसम इन महीनों को व्यस्त बनाते हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "स्वच्छ, कोरडे आणि आल्हाददायक, दिवस सुमारे 20 ते 30 अंशांचे. फेरफटके, योग मुक्काम आणि घाटांसाठी उत्तम. मार्चच्या सुरुवातीचा आंतरराष्ट्रीय योग महोत्सव आणि राफ्टिंगचा हंगाम हे महिने गजबजलेले ठेवतात.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [12, 1],
+        "months": [
+          12,
+          1
+        ],
         "rating": "good",
         "weather": {
           "en": "Cool days, around 17 to 22 degrees, and cold mornings and nights, around 5 to 8 degrees. Fog can delay trains. The river is cold, so rafting is chilly and many guesthouses have little heating. Crowds are lighter.",
-          "hi": { "text": "ठंडे दिन, लगभग 17 से 22 डिग्री, और ठंडी सुबहें और रातें, लगभग 5 से 8 डिग्री। कोहरा रेलगाड़ियों में देरी कर सकता है। नदी ठंडी है, इसलिए राफ्टिंग में ठंड लगती है और कई अतिथि गृहों में गर्मी का साधन कम है। भीड़ कम रहती है।", "reviewed": false },
-          "mr": { "text": "थंड दिवस, सुमारे 17 ते 22 अंश, आणि थंड सकाळ व रात्री, सुमारे 5 ते 8 अंश. धुके रेल्वेला उशीर करू शकते. नदी थंड आहे, म्हणून राफ्टिंगमध्ये गारठा जाणवतो आणि अनेक अतिथीगृहांत उष्णतेची सोय कमी असते. गर्दी कमी असते.", "reviewed": false }
+          "hi": {
+            "text": "ठंडे दिन, लगभग 17 से 22 डिग्री, और ठंडी सुबहें और रातें, लगभग 5 से 8 डिग्री। कोहरा रेलगाड़ियों में देरी कर सकता है। नदी ठंडी है, इसलिए राफ्टिंग में ठंड लगती है और कई अतिथि गृहों में गर्मी का साधन कम है। भीड़ कम रहती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंड दिवस, सुमारे 17 ते 22 अंश, आणि थंड सकाळ व रात्री, सुमारे 5 ते 8 अंश. धुके रेल्वेला उशीर करू शकते. नदी थंड आहे, म्हणून राफ्टिंगमध्ये गारठा जाणवतो आणि अनेक अतिथीगृहांत उष्णतेची सोय कमी असते. गर्दी कमी असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5, 6],
+        "months": [
+          4,
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Hot, with highs near 40 degrees in May. May and June are also the peak of the Char Dham yatra, when the town and its roads are crowded and rooms are costly. Visit at dawn and after sunset and keep water with you.",
-          "hi": { "text": "गर्म, मई में तापमान 40 डिग्री के करीब। मई और जून चार धाम यात्रा का शिखर भी हैं, जब नगर और उसकी सड़कें भीड़ भरी होती हैं और कमरे महँगे। भोर और सूर्यास्त के बाद जाएँ और पानी साथ रखें।", "reviewed": false },
-          "mr": { "text": "उष्ण, मे महिन्यात तापमान 40 अंशांच्या जवळ. मे आणि जून हे चार धाम यात्रेचे शिखरही आहेत, तेव्हा शहर आणि त्याचे रस्ते गर्दीचे असतात आणि खोल्या महाग. पहाटे आणि सूर्यास्तानंतर जा आणि पाणी सोबत ठेवा.", "reviewed": false }
+          "hi": {
+            "text": "गर्म, मई में तापमान 40 डिग्री के करीब। मई और जून चार धाम यात्रा का शिखर भी हैं, जब नगर और उसकी सड़कें भीड़ भरी होती हैं और कमरे महँगे। भोर और सूर्यास्त के बाद जाएँ और पानी साथ रखें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण, मे महिन्यात तापमान 40 अंशांच्या जवळ. मे आणि जून हे चार धाम यात्रेचे शिखरही आहेत, तेव्हा शहर आणि त्याचे रस्ते गर्दीचे असतात आणि खोल्या महाग. पहाटे आणि सूर्यास्तानंतर जा आणि पाणी सोबत ठेवा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Monsoon with very heavy rain, especially in July and August. The Ganga runs high, rafting and river bathing are usually stopped, and landslides can close the mountain roads. Travel only with flexible plans and follow official notices.",
-          "hi": { "text": "बहुत भारी वर्षा के साथ वर्षा ऋतु, विशेषकर जुलाई और अगस्त में। गंगा ऊँची बहती है, राफ्टिंग और नदी में स्नान आमतौर पर रोके जाते हैं, और भूस्खलन से पर्वतीय सड़कें बंद हो सकती हैं। केवल लचीली योजना के साथ यात्रा करें और आधिकारिक सूचनाओं का पालन करें।", "reviewed": false },
-          "mr": { "text": "खूप मुसळधार पावसासह पावसाळा, विशेषतः जुलै आणि ऑगस्टमध्ये. गंगा उंच वाहते, राफ्टिंग आणि नदीत स्नान सहसा थांबवले जाते, आणि दरडींमुळे डोंगरी रस्ते बंद होऊ शकतात. फक्त लवचिक नियोजनासह प्रवास करा आणि अधिकृत सूचनांचे पालन करा.", "reviewed": false }
+          "hi": {
+            "text": "बहुत भारी वर्षा के साथ वर्षा ऋतु, विशेषकर जुलाई और अगस्त में। गंगा ऊँची बहती है, राफ्टिंग और नदी में स्नान आमतौर पर रोके जाते हैं, और भूस्खलन से पर्वतीय सड़कें बंद हो सकती हैं। केवल लचीली योजना के साथ यात्रा करें और आधिकारिक सूचनाओं का पालन करें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "खूप मुसळधार पावसासह पावसाळा, विशेषतः जुलै आणि ऑगस्टमध्ये. गंगा उंच वाहते, राफ्टिंग आणि नदीत स्नान सहसा थांबवले जाते, आणि दरडींमुळे डोंगरी रस्ते बंद होऊ शकतात. फक्त लवचिक नियोजनासह प्रवास करा आणि अधिकृत सूचनांचे पालन करा.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Jolly Grant Airport, Dehradun (DED)", "hi": { "text": "जॉली ग्रांट हवाई अड्डा, देहरादून (DED)", "reviewed": false }, "mr": { "text": "जॉली ग्रँट विमानतळ, डेहराडून (DED)", "reviewed": false } },
+      "nearest": {
+        "en": "Jolly Grant Airport, Dehradun (DED)",
+        "hi": {
+          "text": "जॉली ग्रांट हवाई अड्डा, देहरादून (DED)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जॉली ग्रँट विमानतळ, डेहराडून (DED)",
+          "reviewed": false
+        }
+      },
       "km": 20,
       "how": {
         "en": "Direct flights from Delhi and several other cities. Taxis and shared cabs reach Rishikesh in about 30 to 45 minutes (about 15 to 20 km, approximate). Delhi's Indira Gandhi International Airport is about 240 km away by road.",
-        "hi": { "text": "दिल्ली और कई अन्य शहरों से सीधी उड़ानें। टैक्सी और साझा कैब लगभग 30 से 45 मिनट में ऋषिकेश पहुँचाती हैं (लगभग 15 से 20 किमी, अनुमानित)। दिल्ली का इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा सड़क से लगभग 240 किमी दूर है।", "reviewed": false },
-        "mr": { "text": "दिल्ली आणि इतर अनेक शहरांमधून थेट उड्डाणे. टॅक्सी आणि सामायिक कॅब सुमारे 30 ते 45 मिनिटांत ऋषिकेशला पोहोचवतात (सुमारे 15 ते 20 किमी, अंदाजे). दिल्लीचे इंदिरा गांधी आंतरराष्ट्रीय विमानतळ रस्त्याने सुमारे 240 किमी अंतरावर आहे.", "reviewed": false }
+        "hi": {
+          "text": "दिल्ली और कई अन्य शहरों से सीधी उड़ानें। टैक्सी और साझा कैब लगभग 30 से 45 मिनट में ऋषिकेश पहुँचाती हैं (लगभग 15 से 20 किमी, अनुमानित)। दिल्ली का इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा सड़क से लगभग 240 किमी दूर है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्ली आणि इतर अनेक शहरांमधून थेट उड्डाणे. टॅक्सी आणि सामायिक कॅब सुमारे 30 ते 45 मिनिटांत ऋषिकेशला पोहोचवतात (सुमारे 15 ते 20 किमी, अंदाजे). दिल्लीचे इंदिरा गांधी आंतरराष्ट्रीय विमानतळ रस्त्याने सुमारे 240 किमी अंतरावर आहे.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Yog Nagari Rishikesh (YNRK) and Rishikesh (RKSH); Haridwar Junction (HW) has far more trains", "hi": { "text": "योग नगरी ऋषिकेश (YNRK) और ऋषिकेश (RKSH); हरिद्वार जंक्शन (HW) पर कहीं अधिक गाड़ियाँ हैं", "reviewed": false }, "mr": { "text": "योग नगरी ऋषिकेश (YNRK) आणि ऋषिकेश (RKSH); हरिद्वार जंक्शन (HW) येथे खूप जास्त गाड्या आहेत", "reviewed": false } },
+      "nearest": {
+        "en": "Yog Nagari Rishikesh (YNRK) and Rishikesh (RKSH); Haridwar Junction (HW) has far more trains",
+        "hi": {
+          "text": "योग नगरी ऋषिकेश (YNRK) और ऋषिकेश (RKSH); हरिद्वार जंक्शन (HW) पर कहीं अधिक गाड़ियाँ हैं",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "योग नगरी ऋषिकेश (YNRK) आणि ऋषिकेश (RKSH); हरिद्वार जंक्शन (HW) येथे खूप जास्त गाड्या आहेत",
+          "reviewed": false
+        }
+      },
       "km": 5,
       "how": {
         "en": "Yog Nagari Rishikesh has a handful of long-distance trains, while Haridwar Junction, about 24 km away, is the main rail hub with many more connections. The Rishikesh stations are a few km from the main riverside areas (approximate), so plan a short auto or taxi ride. Check which station your train uses.",
-        "hi": { "text": "योग नगरी ऋषिकेश पर कुछ लंबी दूरी की गाड़ियाँ हैं, जबकि लगभग 24 किमी दूर हरिद्वार जंक्शन कहीं अधिक संपर्कों वाला मुख्य रेल केंद्र है। ऋषिकेश के स्टेशन मुख्य नदी तट क्षेत्रों से कुछ किमी दूर हैं (अनुमानित), इसलिए छोटी ऑटो या टैक्सी की योजना रखें। देखें कि आपकी ट्रेन किस स्टेशन पर रुकती है।", "reviewed": false },
-        "mr": { "text": "योग नगरी ऋषिकेश येथे काही लांब पल्ल्याच्या गाड्या आहेत, तर सुमारे 24 किमी अंतरावरील हरिद्वार जंक्शन हे अनेक जोडण्यांचे मुख्य रेल्वे केंद्र आहे. ऋषिकेशची स्थानके मुख्य नदीकाठच्या भागांपासून काही किमी अंतरावर आहेत (अंदाजे), म्हणून लहान ऑटो किंवा टॅक्सीची योजना ठेवा. तुमची गाडी कोणत्या स्थानकावर थांबते ते तपासा.", "reviewed": false }
+        "hi": {
+          "text": "योग नगरी ऋषिकेश पर कुछ लंबी दूरी की गाड़ियाँ हैं, जबकि लगभग 24 किमी दूर हरिद्वार जंक्शन कहीं अधिक संपर्कों वाला मुख्य रेल केंद्र है। ऋषिकेश के स्टेशन मुख्य नदी तट क्षेत्रों से कुछ किमी दूर हैं (अनुमानित), इसलिए छोटी ऑटो या टैक्सी की योजना रखें। देखें कि आपकी ट्रेन किस स्टेशन पर रुकती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "योग नगरी ऋषिकेश येथे काही लांब पल्ल्याच्या गाड्या आहेत, तर सुमारे 24 किमी अंतरावरील हरिद्वार जंक्शन हे अनेक जोडण्यांचे मुख्य रेल्वे केंद्र आहे. ऋषिकेशची स्थानके मुख्य नदीकाठच्या भागांपासून काही किमी अंतरावर आहेत (अंदाजे), म्हणून लहान ऑटो किंवा टॅक्सीची योजना ठेवा. तुमची गाडी कोणत्या स्थानकावर थांबते ते तपासा.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "Rishikesh is about 240 km from Delhi by road (approximate), about 24 km from Haridwar and about 45 km from Dehradun. State and private buses connect it to Delhi, Haridwar and Dehradun, and it is the starting point of the mountain road to the Char Dham shrines. Landslides in the monsoon can slow the road north.",
-        "hi": { "text": "ऋषिकेश दिल्ली से सड़क से लगभग 240 किमी (अनुमानित), हरिद्वार से लगभग 24 किमी और देहरादून से लगभग 45 किमी है। राज्य और निजी बसें इसे दिल्ली, हरिद्वार और देहरादून से जोड़ती हैं, और यह चार धाम मंदिरों की पर्वतीय सड़क का आरंभ बिंदु है। वर्षा में भूस्खलन उत्तर की सड़क धीमी कर सकते हैं।", "reviewed": false },
-        "mr": { "text": "ऋषिकेश दिल्लीपासून रस्त्याने सुमारे 240 किमी (अंदाजे), हरिद्वारपासून सुमारे 24 किमी आणि डेहराडूनपासून सुमारे 45 किमी आहे. राज्य आणि खासगी बसेस त्याला दिल्ली, हरिद्वार आणि डेहराडूनशी जोडतात, आणि हे चार धाम मंदिरांच्या डोंगरी रस्त्याचे प्रारंभ बिंदू आहे. पावसाळ्यात दरडी उत्तरेकडील रस्ता मंद करू शकतात.", "reviewed": false }
+        "hi": {
+          "text": "ऋषिकेश दिल्ली से सड़क से लगभग 240 किमी (अनुमानित), हरिद्वार से लगभग 24 किमी और देहरादून से लगभग 45 किमी है। राज्य और निजी बसें इसे दिल्ली, हरिद्वार और देहरादून से जोड़ती हैं, और यह चार धाम मंदिरों की पर्वतीय सड़क का आरंभ बिंदु है। वर्षा में भूस्खलन उत्तर की सड़क धीमी कर सकते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ऋषिकेश दिल्लीपासून रस्त्याने सुमारे 240 किमी (अंदाजे), हरिद्वारपासून सुमारे 24 किमी आणि डेहराडूनपासून सुमारे 45 किमी आहे. राज्य आणि खासगी बसेस त्याला दिल्ली, हरिद्वार आणि डेहराडूनशी जोडतात, आणि हे चार धाम मंदिरांच्या डोंगरी रस्त्याचे प्रारंभ बिंदू आहे. पावसाळ्यात दरडी उत्तरेकडील रस्ता मंद करू शकतात.",
+          "reviewed": false
+        }
       },
       "km": 240
     }
   },
   "localTransport": {
     "en": "The Ram Jhula and Laxman Jhula areas are best done on foot, and some lanes are walk-only. Auto-rickshaws, e-rickshaws and shared vehicles link the main areas, and a ferry or footbridge crosses the river at places. Agree the fare or use the meter before you start. Check which footbridges are open before you plan a crossing, as some have been closed for safety and replaced from time to time.",
-    "hi": { "text": "राम झूला और लक्ष्मण झूला क्षेत्र पैदल घूमने के लिए सर्वोत्तम हैं, और कुछ गलियाँ केवल पैदल हैं। ऑटो-रिक्शा, ई-रिक्शा और साझा वाहन मुख्य क्षेत्रों को जोड़ते हैं, और कुछ स्थानों पर नाव या पैदल पुल से नदी पार होती है। चलने से पहले किराया तय कर लें या मीटर का उपयोग करें। नदी पार करने की योजना बनाने से पहले देख लें कि कौन-से पैदल पुल खुले हैं, क्योंकि कुछ सुरक्षा कारणों से बंद हुए हैं और समय-समय पर बदले गए हैं।", "reviewed": false },
-    "mr": { "text": "राम झुला आणि लक्ष्मण झुला परिसर चालत फिरण्यासाठी सर्वोत्तम आहेत, आणि काही गल्ल्या फक्त पायी आहेत. ऑटो-रिक्षा, ई-रिक्षा आणि सामायिक वाहने मुख्य भागांना जोडतात, आणि काही ठिकाणी नाव किंवा पादचारी पुलाने नदी ओलांडता येते. निघण्यापूर्वी भाडे ठरवा किंवा मीटर वापरा. नदी ओलांडण्याचे नियोजन करण्यापूर्वी कोणते पादचारी पूल खुले आहेत ते पाहा, कारण काही सुरक्षेच्या कारणाने बंद झाले आणि वेळोवेळी बदलले गेले आहेत.", "reviewed": false }
+    "hi": {
+      "text": "राम झूला और लक्ष्मण झूला क्षेत्र पैदल घूमने के लिए सर्वोत्तम हैं, और कुछ गलियाँ केवल पैदल हैं। ऑटो-रिक्शा, ई-रिक्शा और साझा वाहन मुख्य क्षेत्रों को जोड़ते हैं, और कुछ स्थानों पर नाव या पैदल पुल से नदी पार होती है। चलने से पहले किराया तय कर लें या मीटर का उपयोग करें। नदी पार करने की योजना बनाने से पहले देख लें कि कौन-से पैदल पुल खुले हैं, क्योंकि कुछ सुरक्षा कारणों से बंद हुए हैं और समय-समय पर बदले गए हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "राम झुला आणि लक्ष्मण झुला परिसर चालत फिरण्यासाठी सर्वोत्तम आहेत, आणि काही गल्ल्या फक्त पायी आहेत. ऑटो-रिक्षा, ई-रिक्षा आणि सामायिक वाहने मुख्य भागांना जोडतात, आणि काही ठिकाणी नाव किंवा पादचारी पुलाने नदी ओलांडता येते. निघण्यापूर्वी भाडे ठरवा किंवा मीटर वापरा. नदी ओलांडण्याचे नियोजन करण्यापूर्वी कोणते पादचारी पूल खुले आहेत ते पाहा, कारण काही सुरक्षेच्या कारणाने बंद झाले आणि वेळोवेळी बदलले गेले आहेत.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "maha-shivaratri",
       "note": {
         "en": "Shiva temples, including Neelkanth Mahadev in the forest above the town, see very long queues and all-night worship.",
-        "hi": { "text": "शिव मंदिरों में, नगर के ऊपर वन में स्थित नीलकंठ महादेव सहित, बहुत लंबी कतारें और रात भर पूजा होती है।", "reviewed": false },
-        "mr": { "text": "शिव मंदिरांमध्ये, शहराच्या वरील जंगलातील नीळकंठ महादेवासह, खूप लांब रांगा आणि रात्रभर पूजा असते.", "reviewed": false }
+        "hi": {
+          "text": "शिव मंदिरों में, नगर के ऊपर वन में स्थित नीलकंठ महादेव सहित, बहुत लंबी कतारें और रात भर पूजा होती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शिव मंदिरांमध्ये, शहराच्या वरील जंगलातील नीळकंठ महादेवासह, खूप लांब रांगा आणि रात्रभर पूजा असते.",
+          "reviewed": false
+        }
       }
     },
     {
       "festivalId": "makar-sankranti",
       "note": {
         "en": "Pilgrims take a cold dip in the Ganga and give alms and sesame sweets at the ghats.",
-        "hi": { "text": "श्रद्धालु गंगा में ठंडा स्नान करते हैं और घाटों पर दान तथा तिल की मिठाइयाँ देते हैं।", "reviewed": false },
-        "mr": { "text": "भाविक गंगेत थंड स्नान करतात आणि घाटांवर दान व तिळाची मिठाई देतात.", "reviewed": false }
+        "hi": {
+          "text": "श्रद्धालु गंगा में ठंडा स्नान करते हैं और घाटों पर दान तथा तिल की मिठाइयाँ देते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भाविक गंगेत थंड स्नान करतात आणि घाटांवर दान व तिळाची मिठाई देतात.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Neelkanth Mahadev Temple", "hi": { "text": "नीलकंठ महादेव मंदिर", "reviewed": false }, "mr": { "text": "नीळकंठ महादेव मंदिर", "reviewed": false } },
+      "name": {
+        "en": "Neelkanth Mahadev Temple",
+        "hi": {
+          "text": "नीलकंठ महादेव मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नीळकंठ महादेव मंदिर",
+          "reviewed": false
+        }
+      },
       "km": 28,
-      "note": { "en": "A Shiva temple in the forest above the town, reached by road or a long trek. Distance is approximate by road.", "hi": { "text": "नगर के ऊपर वन में शिव मंदिर, सड़क या लंबी पैदल यात्रा से पहुँचा जाता है। दूरी सड़क से अनुमानित है।", "reviewed": false }, "mr": { "text": "शहराच्या वरील जंगलातील शिव मंदिर, रस्त्याने किंवा लांब पायी यात्रेने पोहोचता येते. अंतर रस्त्याने अंदाजे आहे.", "reviewed": false } }
+      "note": {
+        "en": "A Shiva temple in the forest above the town, reached by road or a long trek. Distance is approximate by road.",
+        "hi": {
+          "text": "नगर के ऊपर वन में शिव मंदिर, सड़क या लंबी पैदल यात्रा से पहुँचा जाता है। दूरी सड़क से अनुमानित है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शहराच्या वरील जंगलातील शिव मंदिर, रस्त्याने किंवा लांब पायी यात्रेने पोहोचता येते. अंतर रस्त्याने अंदाजे आहे.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Haridwar", "hi": { "text": "हरिद्वार", "reviewed": false }, "mr": { "text": "हरिद्वार", "reviewed": false } },
+      "name": {
+        "en": "Haridwar",
+        "hi": {
+          "text": "हरिद्वार",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हरिद्वार",
+          "reviewed": false
+        }
+      },
       "km": 24,
-      "note": { "en": "Har Ki Pauri and the Ganga aarti, an easy day trip or a stop on the way. Distance is approximate by road.", "hi": { "text": "हर की पौड़ी और गंगा आरती, एक सहज दिन की यात्रा या रास्ते का पड़ाव। दूरी सड़क से अनुमानित है।", "reviewed": false }, "mr": { "text": "हर की पौडी आणि गंगा आरती, एक सहज एक दिवसीय सहल किंवा वाटेतील थांबा. अंतर रस्त्याने अंदाजे आहे.", "reviewed": false } }
+      "note": {
+        "en": "Har Ki Pauri and the Ganga aarti, an easy day trip or a stop on the way. Distance is approximate by road.",
+        "hi": {
+          "text": "हर की पौड़ी और गंगा आरती, एक सहज दिन की यात्रा या रास्ते का पड़ाव। दूरी सड़क से अनुमानित है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हर की पौडी आणि गंगा आरती, एक सहज एक दिवसीय सहल किंवा वाटेतील थांबा. अंतर रस्त्याने अंदाजे आहे.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Devprayag", "hi": { "text": "देवप्रयाग", "reviewed": false }, "mr": { "text": "देवप्रयाग", "reviewed": false } },
+      "name": {
+        "en": "Devprayag",
+        "hi": {
+          "text": "देवप्रयाग",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवप्रयाग",
+          "reviewed": false
+        }
+      },
       "km": 70,
-      "note": { "en": "Where the Bhagirathi and Alaknanda meet to form the Ganga, on the road north towards the Char Dham shrines. Distance is approximate by road.", "hi": { "text": "जहाँ भागीरथी और अलकनंदा मिलकर गंगा बनाती हैं, चार धाम मंदिरों की ओर उत्तर की सड़क पर। दूरी सड़क से अनुमानित है।", "reviewed": false }, "mr": { "text": "जिथे भागीरथी आणि अलकनंदा मिळून गंगा बनते, चार धाम मंदिरांकडे जाणाऱ्या उत्तरेकडील रस्त्यावर. अंतर रस्त्याने अंदाजे आहे.", "reviewed": false } }
+      "note": {
+        "en": "Where the Bhagirathi and Alaknanda meet to form the Ganga, on the road north towards the Char Dham shrines. Distance is approximate by road.",
+        "hi": {
+          "text": "जहाँ भागीरथी और अलकनंदा मिलकर गंगा बनाती हैं, चार धाम मंदिरों की ओर उत्तर की सड़क पर। दूरी सड़क से अनुमानित है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जिथे भागीरथी आणि अलकनंदा मिळून गंगा बनते, चार धाम मंदिरांकडे जाणाऱ्या उत्तरेकडील रस्त्यावर. अंतर रस्त्याने अंदाजे आहे.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "Rishikesh and the Ganga below the hills", "hi": { "text": "पहाड़ियों के नीचे ऋषिकेश और गंगा", "reviewed": false }, "mr": { "text": "टेकड्यांखाली ऋषिकेश आणि गंगा", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Rishikesh",
+        "hi": {
+          "text": "ऋषिकेश",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ऋषिकेश",
+          "reviewed": false
+        }
+      },
+      "credit": "Snehrashmi, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Lakshman_Jhula_Bridge_-_Hrishikesh_-_Uttarakhand_001.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Rishikesh",
+        "hi": {
+          "text": "ऋषिकेश",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ऋषिकेश",
+          "reviewed": false
+        }
+      },
+      "credit": "McKay Savage from London, UK, CC BY 2.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Rishikesh,_Lakshman_Jhula.jpg"
     }
   ],
   "sources": [
-    { "label": "Rishikesh, Wikipedia", "url": "https://en.wikipedia.org/wiki/Rishikesh" },
-    { "label": "Yog Nagari Rishikesh railway station, Wikipedia", "url": "https://en.wikipedia.org/wiki/Yog_Nagari_Rishikesh_railway_station" },
-    { "label": "Uttarakhand Tourism, Rishikesh", "url": "https://uttarakhandtourism.gov.in/destination/rishikesh" }
+    {
+      "label": "Rishikesh, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rishikesh"
+    },
+    {
+      "label": "Yog Nagari Rishikesh railway station, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yog_Nagari_Rishikesh_railway_station"
+    },
+    {
+      "label": "Uttarakhand Tourism, Rishikesh",
+      "url": "https://uttarakhandtourism.gov.in/destination/rishikesh"
+    }
   ]
 }

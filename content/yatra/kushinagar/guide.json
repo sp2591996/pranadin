@@ -1,0 +1,505 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "kushinagar",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "Kushinagar in a day",
+        "hi": {
+          "text": "एक दिन में कुशीनगर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "एका दिवसात कुशीनगर",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Mahaparinirvana Temple.",
+              "hi": {
+                "text": "महापरिनिर्वाण मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "महापरिनिर्वाण मंदिर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Ramabhar Stupa and Matha Kuar.",
+              "hi": {
+                "text": "रामभार स्तूप और माथा कुँवर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "रामभार स्तूप आणि माथा कुंवर.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Stupas and monasteries",
+        "hi": {
+          "text": "स्तूप और मठ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "स्तूप आणि मठ",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Mahaparinirvana Temple.",
+              "hi": {
+                "text": "महापरिनिर्वाण मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "महापरिनिर्वाण मंदिर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Ramabhar Stupa.",
+              "hi": {
+                "text": "रामभार स्तूप।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "रामभार स्तूप.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Japanese and Thai temples.",
+              "hi": {
+                "text": "जापानी और थाई मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "जपानी आणि थाई मंदिरे.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Meditation at the main temple.",
+              "hi": {
+                "text": "मुख्य मंदिर में ध्यान।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "मुख्य मंदिरात ध्यान.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Kushinagar and Gorakhpur",
+        "hi": {
+          "text": "कुशीनगर और गोरखपुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कुशीनगर आणि गोरखपूर",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Mahaparinirvana Temple.",
+              "hi": {
+                "text": "महापरिनिर्वाण मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "महापरिनिर्वाण मंदिर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Matha Kuar Shrine.",
+              "hi": {
+                "text": "माथा कुँवर मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "माथा कुंवर मंदिर.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "International monasteries.",
+              "hi": {
+                "text": "अंतरराष्ट्रीय मठ।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "आंतरराष्ट्रीय मठ.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Ramabhar Stupa at dusk.",
+              "hi": {
+                "text": "शाम को रामभार स्तूप।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "संध्याकाळी रामभार स्तूप.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Gorakhnath Temple.",
+              "hi": {
+                "text": "गोरखनाथ मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "गोरखनाथ मंदिर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest and travel on.",
+              "hi": {
+                "text": "आराम और आगे की यात्रा।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "विश्रांती आणि पुढील प्रवास.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Pilgrim rest houses",
+        "hi": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Simple, low-cost rooms run by trusts near the shrine.",
+        "hi": {
+          "text": "धाम के पास ट्रस्ट द्वारा चलाए जाने वाले सस्ते, सादे कमरे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवस्थानाजवळ ट्रस्टतर्फे चालवल्या जाणाऱ्या स्वस्त, साध्या खोल्या.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mid-range hotels",
+        "hi": {
+          "text": "मध्यम श्रेणी के होटल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मध्यम श्रेणीची हॉटेल्स",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Plenty of options within a short ride of the main site.",
+        "hi": {
+          "text": "मुख्य स्थल से थोड़ी दूरी पर कई विकल्प।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य स्थळापासून थोड्या अंतरावर अनेक पर्याय.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Book ahead for festivals",
+        "hi": {
+          "text": "त्योहारों में पहले से बुक करें",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणांच्या काळात आधी आरक्षण करा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Rooms fill fast on big festival days.",
+        "hi": {
+          "text": "बड़े त्योहारों पर कमरे जल्दी भर जाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोठ्या सणांच्या दिवशी खोल्या लवकर भरतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "Simple vegetarian thali",
+        "hi": {
+          "text": "सादी शाकाहारी थाली",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "साधी शाकाहारी थाळी",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Dal, rice, roti and seasonal vegetables.",
+        "hi": {
+          "text": "दाल, चावल, रोटी और मौसमी सब्ज़ी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "डाळ, भात, पोळी आणि हंगामी भाजी.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Monastery kitchens",
+        "hi": {
+          "text": "मठ की रसोई",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मठांचे स्वयंपाकघर",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Some monasteries serve simple meals to visitors.",
+        "hi": {
+          "text": "कुछ मठ यात्रियों को सादा भोजन देते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "काही मठ यात्रेकरूंना साधे जेवण देतात.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Litti chokha",
+        "hi": {
+          "text": "लिट्टी चोखा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लिट्टी चोखा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Roasted wheat balls with mashed vegetables.",
+        "hi": {
+          "text": "भुने आटे के गोले और भरता।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भाजलेले गव्हाचे गोळे आणि भरीत.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Simple vegetarian meals are easy to find near the shrine.",
+    "hi": {
+      "text": "धाम के पास सादा शाकाहारी भोजन आसानी से मिलता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवस्थानाजवळ साधे शाकाहारी जेवण सहज मिळते.",
+      "reviewed": false
+    }
+  },
+  "budget": {
+    "bands": {
+      "budget": {
+        "min": 700,
+        "max": 1300
+      },
+      "mid": {
+        "min": 2000,
+        "max": 3800
+      },
+      "comfort": {
+        "min": 4500,
+        "max": 8000
+      }
+    },
+    "note": {
+      "en": "Per person per day, excluding travel to reach the place.",
+      "hi": {
+        "text": "प्रति व्यक्ति प्रतिदिन, यहाँ पहुँचने का खर्च छोड़कर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर व्यक्ती दररोज, येथे पोहोचण्याचा खर्च वगळून.",
+        "reviewed": false
+      }
+    }
+  },
+  "health": [
+    {
+      "en": "Carry water and rest in the shade on hot days.",
+      "hi": {
+        "text": "गर्म दिनों में पानी साथ रखें और छाँव में आराम करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उष्ण दिवसांत पाणी सोबत ठेवा आणि सावलीत विश्रांती घ्या.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Crowds peak on festival days; keep children close.",
+      "hi": {
+        "text": "त्योहारों पर भीड़ सबसे ज़्यादा होती है; बच्चों को पास रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सणांच्या दिवशी गर्दी सर्वाधिक असते; मुलांना जवळ ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Wheelchair access is limited in older parts; ask staff for help.",
+      "hi": {
+        "text": "पुराने हिस्सों में व्हीलचेयर की सुविधा सीमित है; कर्मचारियों से मदद माँगें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जुन्या भागांत व्हीलचेअरची सोय मर्यादित आहे; कर्मचाऱ्यांची मदत घ्या.",
+        "reviewed": false
+      }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Walk around stupas clockwise.",
+      "hi": {
+        "text": "स्तूप की परिक्रमा घड़ी की दिशा में करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "स्तूपाची प्रदक्षिणा घड्याळाच्या दिशेने करा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Remove shoes before shrine halls.",
+      "hi": {
+        "text": "मंदिर कक्ष से पहले जूते उतारें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मंदिराच्या दालनापूर्वी पादत्राणे काढा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Keep your voice low near monks at prayer.",
+      "hi": {
+        "text": "प्रार्थना करते भिक्षुओं के पास धीमे बोलें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रार्थना करणाऱ्या भिक्खूंजवळ हळू बोला.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Never point your feet at a Buddha image.",
+      "hi": {
+        "text": "बुद्ध प्रतिमा की ओर पैर न करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "बुद्धमूर्तीकडे पाय करू नका.",
+        "reviewed": false
+      }
+    }
+  ]
+}

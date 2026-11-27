@@ -1,0 +1,505 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "nizamuddin",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "Dargah and qawwali",
+        "hi": {
+          "text": "दरगाह और क़व्वाली",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दर्गा आणि कव्वाली",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Humayun's Tomb gardens.",
+              "hi": {
+                "text": "हुमायूँ के मक़बरे के बाग़।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "हुमायूनच्या कबरीची उद्याने.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Dargah visit and qawwali.",
+              "hi": {
+                "text": "दरगाह दर्शन और क़व्वाली।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "दर्गा दर्शन आणि कव्वाली.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Sufi Delhi",
+        "hi": {
+          "text": "सूफ़ी दिल्ली",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सूफी दिल्ली",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Dargah, Khusro's tomb and the stepwell.",
+              "hi": {
+                "text": "दरगाह, ख़ुसरो की मज़ार और बावली।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "दर्गा, खुसरोंची मजार आणि पायविहीर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Thursday qawwali.",
+              "hi": {
+                "text": "गुरुवार की क़व्वाली।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "गुरुवारची कव्वाली.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Humayun's Tomb.",
+              "hi": {
+                "text": "हुमायूँ का मक़बरा।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "हुमायूनची कबर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lodhi Garden walk.",
+              "hi": {
+                "text": "लोधी गार्डन की सैर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "लोधी गार्डनमध्ये फेरफटका.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Delhi of saints",
+        "hi": {
+          "text": "संतों की दिल्ली",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संतांची दिल्ली",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Nizamuddin Dargah.",
+              "hi": {
+                "text": "निज़ामुद्दीन दरगाह।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "निजामुद्दीन दर्गा.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Qawwali at the dargah.",
+              "hi": {
+                "text": "दरगाह पर क़व्वाली।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "दर्ग्यावर कव्वाली.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Jama Masjid, Old Delhi.",
+              "hi": {
+                "text": "जामा मस्जिद, पुरानी दिल्ली।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "जामा मशीद, जुनी दिल्ली.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Gurudwara Bangla Sahib.",
+              "hi": {
+                "text": "गुरुद्वारा बंगला साहिब।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "गुरुद्वारा बंगला साहिब.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Humayun's Tomb.",
+              "hi": {
+                "text": "हुमायूँ का मक़बरा।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "हुमायूनची कबर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Lodhi Garden and rest.",
+              "hi": {
+                "text": "लोधी गार्डन और आराम।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "लोधी गार्डन आणि विश्रांती.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Pilgrim rest houses",
+        "hi": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Simple, low-cost rooms run by trusts near the shrine.",
+        "hi": {
+          "text": "धाम के पास ट्रस्ट द्वारा चलाए जाने वाले सस्ते, सादे कमरे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवस्थानाजवळ ट्रस्टतर्फे चालवल्या जाणाऱ्या स्वस्त, साध्या खोल्या.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mid-range hotels",
+        "hi": {
+          "text": "मध्यम श्रेणी के होटल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मध्यम श्रेणीची हॉटेल्स",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Plenty of options within a short ride of the main site.",
+        "hi": {
+          "text": "मुख्य स्थल से थोड़ी दूरी पर कई विकल्प।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य स्थळापासून थोड्या अंतरावर अनेक पर्याय.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Book ahead for festivals",
+        "hi": {
+          "text": "त्योहारों में पहले से बुक करें",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणांच्या काळात आधी आरक्षण करा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Rooms fill fast on big festival days.",
+        "hi": {
+          "text": "बड़े त्योहारों पर कमरे जल्दी भर जाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोठ्या सणांच्या दिवशी खोल्या लवकर भरतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "Basti kebabs",
+        "hi": {
+          "text": "बस्ती के कबाब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वस्तीतील कबाब",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Small eateries in the lane serve kebabs and rotis.",
+        "hi": {
+          "text": "गली के छोटे भोजनालय कबाब और रोटी परोसते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गल्लीतील लहान उपाहारगृहे कबाब आणि रोटी देतात.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Sweets for Eid",
+        "hi": {
+          "text": "ईद की मिठाइयाँ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ईदची मिठाई",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Sheer khurma and phirni around festivals.",
+        "hi": {
+          "text": "त्योहारों पर शीर ख़ुरमा और फिरनी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणांना शीरखुर्मा आणि फिरनी.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Delhi chaat",
+        "hi": {
+          "text": "दिल्ली की चाट",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्लीची चाट",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Tangy street snacks across the city.",
+        "hi": {
+          "text": "शहर भर में चटपटे नाश्ते।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शहरभर चटपटीत खाद्यपदार्थ.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Simple vegetarian meals are easy to find near the shrine.",
+    "hi": {
+      "text": "धाम के पास सादा शाकाहारी भोजन आसानी से मिलता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवस्थानाजवळ साधे शाकाहारी जेवण सहज मिळते.",
+      "reviewed": false
+    }
+  },
+  "budget": {
+    "bands": {
+      "budget": {
+        "min": 1500,
+        "max": 2500
+      },
+      "mid": {
+        "min": 3500,
+        "max": 6000
+      },
+      "comfort": {
+        "min": 8000,
+        "max": 15000
+      }
+    },
+    "note": {
+      "en": "Per person per day, excluding travel to reach the place.",
+      "hi": {
+        "text": "प्रति व्यक्ति प्रतिदिन, यहाँ पहुँचने का खर्च छोड़कर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर व्यक्ती दररोज, येथे पोहोचण्याचा खर्च वगळून.",
+        "reviewed": false
+      }
+    }
+  },
+  "health": [
+    {
+      "en": "Carry water and rest in the shade on hot days.",
+      "hi": {
+        "text": "गर्म दिनों में पानी साथ रखें और छाँव में आराम करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उष्ण दिवसांत पाणी सोबत ठेवा आणि सावलीत विश्रांती घ्या.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Crowds peak on festival days; keep children close.",
+      "hi": {
+        "text": "त्योहारों पर भीड़ सबसे ज़्यादा होती है; बच्चों को पास रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सणांच्या दिवशी गर्दी सर्वाधिक असते; मुलांना जवळ ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Wheelchair access is limited in older parts; ask staff for help.",
+      "hi": {
+        "text": "पुराने हिस्सों में व्हीलचेयर की सुविधा सीमित है; कर्मचारियों से मदद माँगें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जुन्या भागांत व्हीलचेअरची सोय मर्यादित आहे; कर्मचाऱ्यांची मदत घ्या.",
+        "reviewed": false
+      }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Cover your head inside the dargah.",
+      "hi": {
+        "text": "दरगाह के भीतर सिर ढकें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर्ग्यात डोके झाका.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Remove shoes at the gate.",
+      "hi": {
+        "text": "द्वार पर जूते उतारें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रवेशद्वाराजवळ पादत्राणे काढा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Dress modestly, covering shoulders and knees.",
+      "hi": {
+        "text": "शालीन कपड़े पहनें, कंधे और घुटने ढके हों।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "खांदे आणि गुडघे झाकणारे सभ्य कपडे घाला.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Keep quiet near the tomb and during prayers.",
+      "hi": {
+        "text": "मज़ार के पास और नमाज़ के समय शांत रहें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मजारीजवळ आणि नमाजाच्या वेळी शांत राहा.",
+        "reviewed": false
+      }
+    }
+  ]
+}

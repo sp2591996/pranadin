@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "dilwara",
+  "sights": [
+    {
+      "id": "vimal",
+      "name": {
+        "en": "Vimal Vasahi",
+        "hi": {
+          "text": "विमल वसही",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "विमल वसही",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "The oldest temple, for Rishabhanatha.",
+        "hi": {
+          "text": "सबसे पुराना मंदिर, ऋषभनाथ का।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सर्वात जुने मंदिर, ऋषभनाथांचे.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Visitors about 12 noon to 5 pm",
+        "hi": {
+          "text": "यात्रियों के लिए लगभग दोपहर 12 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पर्यटकांसाठी सुमारे दुपारी 12 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "luna",
+      "name": {
+        "en": "Luna Vasahi",
+        "hi": {
+          "text": "लूण वसही",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लूण वसही",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Famous for its carved marble ceiling dome.",
+        "hi": {
+          "text": "तराशे संगमरमर के गुंबद-छत के लिए प्रसिद्ध।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कोरीव संगमरवरी घुमटाच्या छतासाठी प्रसिद्ध.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Visitors about 12 noon to 5 pm",
+        "hi": {
+          "text": "यात्रियों के लिए लगभग दोपहर 12 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पर्यटकांसाठी सुमारे दुपारी 12 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "pittalhar",
+      "name": {
+        "en": "Pittalhar temple",
+        "hi": {
+          "text": "पित्तलहर मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पित्तलहर मंदिर",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Holds a large five-metal image of Rishabhanatha.",
+        "hi": {
+          "text": "ऋषभनाथ की बड़ी पंचधातु प्रतिमा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ऋषभनाथांची मोठी पंचधातू मूर्ती.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Visitors about 12 noon to 5 pm",
+        "hi": {
+          "text": "यात्रियों के लिए लगभग दोपहर 12 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पर्यटकांसाठी सुमारे दुपारी 12 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "kharatar",
+      "name": {
+        "en": "Parshvanatha (Khartar Vasahi)",
+        "hi": {
+          "text": "पार्श्वनाथ (खरतर वसही)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पार्श्वनाथ (खरतर वसही)",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "The tallest of the group, three storeys high.",
+        "hi": {
+          "text": "समूह का सबसे ऊँचा, तीन मंज़िला।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "समूहातील सर्वात उंच, तीन मजली.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Visitors about 12 noon to 5 pm",
+        "hi": {
+          "text": "यात्रियों के लिए लगभग दोपहर 12 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पर्यटकांसाठी सुमारे दुपारी 12 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Mornings are for worshippers; visitors enter after noon.",
+        "hi": {
+          "text": "सुबह पूजा करने वालों के लिए; यात्री दोपहर बाद प्रवेश करें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सकाळ उपासकांसाठी; पर्यटक दुपारनंतर प्रवेश करतात.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Phones and cameras are not allowed inside; use lockers.",
+        "hi": {
+          "text": "भीतर फ़ोन और कैमरे मना हैं; लॉकर इस्तेमाल करें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आत फोन आणि कॅमेरे मनाई आहेत; लॉकर वापरा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "A free guided walk explains the carvings.",
+        "hi": {
+          "text": "मुफ़्त निर्देशित सैर में नक्काशी समझाई जाती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोफत मार्गदर्शित फेरीत कोरीवकाम समजावले जाते.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Allow at least an hour for all five temples.",
+        "hi": {
+          "text": "पाँचों मंदिरों के लिए कम से कम एक घंटा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पाचही मंदिरांसाठी किमान एक तास ठेवा.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

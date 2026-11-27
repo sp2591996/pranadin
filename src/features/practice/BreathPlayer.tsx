@@ -310,7 +310,7 @@ export function BreathPlayer({ technique, caution }: { technique: Technique; cau
         </section>
       ) : (
         <>
-          <div className="flex flex-col items-center gap-3">
+          <div className="stage flex flex-col items-center gap-3">
             <div
               aria-hidden="true"
               className="relative flex items-center justify-center"

@@ -1,0 +1,360 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "san-thome",
+  "name": {
+    "en": "San Thome Basilica",
+    "hi": {
+      "text": "सान थोमे बेसिलिका",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सान थोमे बॅसिलिका",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Chennai, Tamil Nadu",
+    "hi": {
+      "text": "चेन्नई, तमिलनाडु",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "चेन्नई, तमिळनाडू",
+      "reviewed": false
+    }
+  },
+  "stateKey": "tamil-nadu",
+  "traditions": [
+    "christian"
+  ],
+  "deity": {
+    "en": "St Thomas the Apostle",
+    "hi": {
+      "text": "प्रेरित संत थॉमस",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "प्रेषित संत थॉमस",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "Built over the tomb of St Thomas, one of few churches over an apostle's tomb.",
+    "hi": {
+      "text": "संत थॉमस की समाधि पर बना, प्रेरितों की समाधि पर बने गिने-चुने चर्चों में से एक।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "संत थॉमस यांच्या समाधीवर बांधलेले, प्रेषितांच्या समाधीवरील मोजक्या चर्चपैकी एक.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "A white Gothic church by the sea",
+    "hi": {
+      "text": "समुद्र के पास सफ़ेद गॉथिक चर्च",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "समुद्राजवळचे पांढरे गॉथिक चर्च",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "The present neo-Gothic church in Mylapore was built in 1893.",
+    "hi": {
+      "text": "मायलापुर का वर्तमान नव-गॉथिक चर्च 1893 में बना।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मायलापूरमधील सध्याचे नव-गॉथिक चर्च 1893 मध्ये बांधले गेले.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "Tradition holds that St Thomas preached in South India and was martyred near Chennai in 72 CE.",
+    "hi": {
+      "text": "परंपरा कहती है संत थॉमस ने दक्षिण भारत में उपदेश दिया और 72 ईस्वी में चेन्नई के पास शहीद हुए।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "परंपरेनुसार संत थॉमस यांनी दक्षिण भारतात उपदेश केला आणि इसवी सन 72 मध्ये चेन्नईजवळ हुतात्मा झाले.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      12,
+      1,
+      2
+    ],
+    "seasons": [
+      {
+        "months": [
+          12,
+          1,
+          2
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Warm days, cooler evenings.",
+          "hi": {
+            "text": "गर्म दिन, ठंडी शामें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उबदार दिवस, थंड संध्याकाळ.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Hot and humid; visit mornings.",
+          "hi": {
+            "text": "गर्म और उमस; सुबह जाएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि दमट; सकाळी जा.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          10,
+          11
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "North-east monsoon rains.",
+          "hi": {
+            "text": "उत्तर-पूर्वी मानसून की बारिश।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "ईशान्य मोसमी पाऊस.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Chennai airport",
+        "hi": {
+          "text": "चेन्नई हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चेन्नई विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 16,
+      "how": {
+        "en": "Taxi or metro plus auto.",
+        "hi": {
+          "text": "टैक्सी या मेट्रो और ऑटो।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "टॅक्सी किंवा मेट्रो आणि रिक्षा.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Chennai Central",
+        "hi": {
+          "text": "चेन्नई सेंट्रल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चेन्नई सेंट्रल",
+          "reviewed": false
+        }
+      },
+      "km": 8,
+      "how": {
+        "en": "Taxi in 25 minutes; Thirumayilai local station is near.",
+        "hi": {
+          "text": "टैक्सी से 25 मिनट; तिरुमयिलै लोकल स्टेशन पास है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "टॅक्सीने 25 मिनिटे; तिरुमयिलै लोकल स्थानक जवळ आहे.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "City buses stop on Santhome High Road.",
+        "hi": {
+          "text": "शहर की बसें सांथोम हाई रोड पर रुकती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शहर बस सांथोम हाय रोडवर थांबतात.",
+          "reviewed": false
+        }
+      },
+      "km": 0
+    }
+  },
+  "localTransport": {
+    "en": "Autos and app cabs; the beach is a short walk.",
+    "hi": {
+      "text": "ऑटो और ऐप कैब; समुद्र तट पैदल पास है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "रिक्षा आणि ॲप कॅब; किनारा चालत जवळ आहे.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "christmas",
+      "note": {
+        "en": "Midnight Mass and a lit-up facade.",
+        "hi": {
+          "text": "आधी रात की प्रार्थना और जगमगाता मुखभाग।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मध्यरात्रीचा मिस्सा आणि उजळलेला दर्शनी भाग.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Kapaleeshwarar Temple",
+        "hi": {
+          "text": "कपालीश्वर मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कपालीश्वर मंदिर",
+          "reviewed": false
+        }
+      },
+      "km": 2,
+      "note": {
+        "en": "Grand Shiva temple of Mylapore.",
+        "hi": {
+          "text": "मायलापुर का भव्य शिव मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मायलापूरचे भव्य शिवमंदिर.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "St Thomas Mount",
+        "hi": {
+          "text": "सेंट थॉमस माउंट",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सेंट थॉमस माउंट",
+          "reviewed": false
+        }
+      },
+      "km": 12,
+      "note": {
+        "en": "Hill shrine linked to the saint's martyrdom.",
+        "hi": {
+          "text": "संत की शहादत से जुड़ा पहाड़ी धाम।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संतांच्या हौतात्म्याशी जोडलेले डोंगरावरील स्थान.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "San Thome Basilica, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Thome_Basilica"
+    },
+    {
+      "label": "Thomas the Apostle, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_the_Apostle"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "San Thome Basilica",
+        "hi": {
+          "text": "सान थोमे बेसिलिका",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सान थोमे बॅसिलिका",
+          "reviewed": false
+        }
+      },
+      "credit": "Pinakpani, CC BY 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:San_Thome_Basilica,_Mylapore_in_Chennai_08.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "San Thome Basilica",
+        "hi": {
+          "text": "सान थोमे बेसिलिका",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सान थोमे बॅसिलिका",
+          "reviewed": false
+        }
+      },
+      "credit": "Joe Ravi, CC BY-SA 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_San_Thome_Basilica.jpg"
+    }
+  ]
+}

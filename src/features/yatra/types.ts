@@ -35,7 +35,7 @@ export interface PlaceView {
   localTransport: Txt;
   festivals: { festivalId: string; name: Txt; note: Txt }[];
   nearby: { name: Txt; km: number; note: Txt }[];
-  photos: { file: string; caption: Txt; credit: string; ai: boolean }[];
+  photos: { file: string; caption: Txt; credit: string; ai: boolean; source?: string }[];
   sources: { label: string; url: string }[];
   sights: { id: string; name: Txt; desc: Txt; timings: Txt; dress: Txt }[];
   darshan: { tips: Txt[]; online: Txt };

@@ -4,98 +4,1600 @@
   "version": "2026-11-21.1",
   "status": "draft",
   "ui": {
-    "yatra.title": { "en": "Yatra guide", "hi": { "text": "यात्रा मार्गदर्शिका", "reviewed": false }, "mr": { "text": "यात्रा मार्गदर्शिका", "reviewed": false } },
-    "yatra.entry": { "en": "Sacred places: when to go, how to reach, what to see, and a simple trip planner.", "hi": { "text": "पावन स्थल: कब जाएँ, कैसे पहुँचें, क्या देखें, और एक सरल यात्रा योजना।", "reviewed": false }, "mr": { "text": "पवित्र स्थळे: केव्हा जावे, कसे पोहोचावे, काय पाहावे आणि सोपे सहल नियोजन.", "reviewed": false } },
-    "yatra.intro": { "en": "Plan a pilgrimage with care. Information only: nothing here can be booked, and timings, fares and rules change, so check locally before you travel.", "hi": { "text": "तीर्थयात्रा की योजना सोच-समझकर बनाएँ। यह केवल जानकारी है: यहाँ कुछ भी बुक नहीं होता, और समय, किराये व नियम बदलते रहते हैं, इसलिए यात्रा से पहले स्थानीय स्तर पर पुष्टि कर लें।", "reviewed": false }, "mr": { "text": "तीर्थयात्रेचे नियोजन काळजीपूर्वक करा. ही फक्त माहिती आहे: येथे काहीही आरक्षित करता येत नाही, आणि वेळा, भाडे व नियम बदलतात, म्हणून प्रवासापूर्वी स्थानिक ठिकाणी खात्री करा.", "reviewed": false } },
-    "yatra.back": { "en": "All places", "hi": { "text": "सभी स्थान", "reviewed": false }, "mr": { "text": "सर्व स्थळे", "reviewed": false } },
-    "yatra.filter.state": { "en": "State", "hi": { "text": "राज्य", "reviewed": false }, "mr": { "text": "राज्य", "reviewed": false } },
-    "yatra.filter.allStates": { "en": "All states", "hi": { "text": "सभी राज्य", "reviewed": false }, "mr": { "text": "सर्व राज्ये", "reviewed": false } },
-    "yatra.filter.tradition": { "en": "Filter by tradition", "hi": { "text": "परंपरा के अनुसार छाँटें", "reviewed": false }, "mr": { "text": "परंपरेनुसार निवडा", "reviewed": false } },
-    "yatra.filter.allTraditions": { "en": "All traditions", "hi": { "text": "सभी परंपराएँ", "reviewed": false }, "mr": { "text": "सर्व परंपरा", "reviewed": false } },
-    "yatra.filter.month": { "en": "Month to visit", "hi": { "text": "यात्रा का महीना", "reviewed": false }, "mr": { "text": "भेटीचा महिना", "reviewed": false } },
-    "yatra.filter.allMonths": { "en": "Any month", "hi": { "text": "कोई भी महीना", "reviewed": false }, "mr": { "text": "कोणताही महिना", "reviewed": false } },
-    "yatra.count": { "en": "{count, plural, one {# place} other {# places}}", "hi": { "text": "{count, plural, one {# स्थान} other {# स्थान}}", "reviewed": false }, "mr": { "text": "{count, plural, one {# स्थळ} other {# स्थळे}}", "reviewed": false } },
-    "yatra.none": { "en": "No place matches these filters. Try another month or state.", "hi": { "text": "इन फ़िल्टरों से कोई स्थान नहीं मिला। कोई दूसरा महीना या राज्य चुनें।", "reviewed": false }, "mr": { "text": "या निवडीशी जुळणारे कोणतेही स्थळ नाही. दुसरा महिना किंवा राज्य निवडा.", "reviewed": false } },
-    "yatra.bestIn": { "en": "Best: {months}", "hi": { "text": "उत्तम समय: {months}", "reviewed": false }, "mr": { "text": "उत्तम काळ: {months}", "reviewed": false } },
-    "yatra.noPhoto": { "en": "A photo will be added here.", "hi": { "text": "यहाँ चित्र जोड़ा जाएगा।", "reviewed": false }, "mr": { "text": "येथे छायाचित्र जोडले जाईल.", "reviewed": false } },
-    "yatra.aiImage": { "en": "AI-generated image", "hi": { "text": "एआई द्वारा बनाया गया चित्र", "reviewed": false }, "mr": { "text": "एआयने तयार केलेले चित्र", "reviewed": false } },
-    "yatra.photoCredit": { "en": "Photo: {credit}", "hi": { "text": "छायाचित्र: {credit}", "reviewed": false }, "mr": { "text": "छायाचित्र: {credit}", "reviewed": false } },
-    "yatra.gallery": { "en": "Photo gallery", "hi": { "text": "चित्र दीर्घा", "reviewed": false }, "mr": { "text": "चित्र दालन", "reviewed": false } },
-    "yatra.tabs": { "en": "Sections", "hi": { "text": "अनुभाग", "reviewed": false }, "mr": { "text": "विभाग", "reviewed": false } },
-    "yatra.tab.overview": { "en": "Overview", "hi": { "text": "परिचय", "reviewed": false }, "mr": { "text": "परिचय", "reviewed": false } },
-    "yatra.tab.reach": { "en": "When and how", "hi": { "text": "कब और कैसे", "reviewed": false }, "mr": { "text": "केव्हा आणि कसे", "reviewed": false } },
-    "yatra.tab.sights": { "en": "Sights and darshan", "hi": { "text": "दर्शनीय स्थल और दर्शन", "reviewed": false }, "mr": { "text": "पाहण्याची ठिकाणे आणि दर्शन", "reviewed": false } },
-    "yatra.tab.itineraries": { "en": "Itineraries", "hi": { "text": "यात्रा कार्यक्रम", "reviewed": false }, "mr": { "text": "सहल कार्यक्रम", "reviewed": false } },
-    "yatra.tab.stay": { "en": "Stay and eat", "hi": { "text": "ठहरना और भोजन", "reviewed": false }, "mr": { "text": "निवास आणि भोजन", "reviewed": false } },
-    "yatra.tab.know": { "en": "Good to know", "hi": { "text": "जानने योग्य", "reviewed": false }, "mr": { "text": "माहीत असावे", "reviewed": false } },
-    "yatra.deity": { "en": "Deity and tradition", "hi": { "text": "देवता और परंपरा", "reviewed": false }, "mr": { "text": "देवता आणि परंपरा", "reviewed": false } },
-    "yatra.significance": { "en": "Why it matters", "hi": { "text": "महत्त्व", "reviewed": false }, "mr": { "text": "महत्त्व", "reviewed": false } },
-    "yatra.overview": { "en": "Overview", "hi": { "text": "परिचय", "reviewed": false }, "mr": { "text": "परिचय", "reviewed": false } },
-    "yatra.story": { "en": "The story", "hi": { "text": "कथा", "reviewed": false }, "mr": { "text": "कथा", "reviewed": false } },
-    "yatra.festivals": { "en": "Festivals here", "hi": { "text": "यहाँ के त्योहार", "reviewed": false }, "mr": { "text": "येथील सण", "reviewed": false } },
-    "yatra.bestTime": { "en": "Best time to visit", "hi": { "text": "यात्रा का सर्वोत्तम समय", "reviewed": false }, "mr": { "text": "भेटीसाठी उत्तम काळ", "reviewed": false } },
-    "yatra.rating.best": { "en": "best", "hi": { "text": "सर्वोत्तम", "reviewed": false }, "mr": { "text": "उत्तम", "reviewed": false } },
-    "yatra.rating.good": { "en": "good", "hi": { "text": "ठीक", "reviewed": false }, "mr": { "text": "ठीक", "reviewed": false } },
-    "yatra.rating.difficult": { "en": "difficult", "hi": { "text": "कठिन", "reviewed": false }, "mr": { "text": "कठीण", "reviewed": false } },
-    "yatra.reach": { "en": "How to reach", "hi": { "text": "कैसे पहुँचें", "reviewed": false }, "mr": { "text": "कसे पोहोचावे", "reviewed": false } },
-    "yatra.air": { "en": "By air", "hi": { "text": "हवाई मार्ग", "reviewed": false }, "mr": { "text": "विमानाने", "reviewed": false } },
-    "yatra.rail": { "en": "By rail", "hi": { "text": "रेल मार्ग", "reviewed": false }, "mr": { "text": "रेल्वेने", "reviewed": false } },
-    "yatra.road": { "en": "By road", "hi": { "text": "सड़क मार्ग", "reviewed": false }, "mr": { "text": "रस्त्याने", "reviewed": false } },
-    "yatra.nearestKm": { "en": "Nearest: {name}, about {km} km", "hi": { "text": "निकटतम: {name}, लगभग {km} किमी", "reviewed": false }, "mr": { "text": "सर्वात जवळ: {name}, सुमारे {km} किमी", "reviewed": false } },
-    "yatra.localTransport": { "en": "Getting around", "hi": { "text": "स्थानीय आवागमन", "reviewed": false }, "mr": { "text": "स्थानिक प्रवास", "reviewed": false } },
-    "yatra.sights": { "en": "Must-see temples and sights", "hi": { "text": "अवश्य देखने योग्य मंदिर और स्थल", "reviewed": false }, "mr": { "text": "अवश्य पाहण्यासारखी मंदिरे आणि ठिकाणे", "reviewed": false } },
-    "yatra.timings": { "en": "Typical timings", "hi": { "text": "सामान्य समय", "reviewed": false }, "mr": { "text": "साधारण वेळा", "reviewed": false } },
-    "yatra.checkLocally": { "en": "Check locally", "hi": { "text": "स्थानीय स्तर पर पुष्टि करें", "reviewed": false }, "mr": { "text": "स्थानिक ठिकाणी खात्री करा", "reviewed": false } },
-    "yatra.dress": { "en": "Dress code", "hi": { "text": "पहनावा", "reviewed": false }, "mr": { "text": "पोशाख", "reviewed": false } },
-    "yatra.darshan": { "en": "Darshan tips", "hi": { "text": "दर्शन के सुझाव", "reviewed": false }, "mr": { "text": "दर्शनासाठी सूचना", "reviewed": false } },
-    "yatra.itin.pick": { "en": "Trip length", "hi": { "text": "यात्रा की अवधि", "reviewed": false }, "mr": { "text": "सहलीचा कालावधी", "reviewed": false } },
-    "yatra.itin.days": { "en": "{count, plural, one {# day} other {# days}}", "hi": { "text": "{count, plural, one {# दिन} other {# दिन}}", "reviewed": false }, "mr": { "text": "{count, plural, one {# दिवस} other {# दिवस}}", "reviewed": false } },
-    "yatra.itin.dayN": { "en": "Day {n}", "hi": { "text": "दिन {n}", "reviewed": false }, "mr": { "text": "दिवस {n}", "reviewed": false } },
-    "yatra.part.morning": { "en": "Morning", "hi": { "text": "सुबह", "reviewed": false }, "mr": { "text": "सकाळ", "reviewed": false } },
-    "yatra.part.afternoon": { "en": "Afternoon", "hi": { "text": "दोपहर", "reviewed": false }, "mr": { "text": "दुपार", "reviewed": false } },
-    "yatra.part.evening": { "en": "Evening", "hi": { "text": "शाम", "reviewed": false }, "mr": { "text": "संध्याकाळ", "reviewed": false } },
-    "yatra.stay": { "en": "Where to stay", "hi": { "text": "कहाँ ठहरें", "reviewed": false }, "mr": { "text": "कुठे राहावे", "reviewed": false } },
-    "yatra.food": { "en": "Food and local specialities", "hi": { "text": "भोजन और स्थानीय व्यंजन", "reviewed": false }, "mr": { "text": "भोजन आणि स्थानिक पदार्थ", "reviewed": false } },
-    "yatra.satvik": { "en": "Satvik options", "hi": { "text": "सात्त्विक विकल्प", "reviewed": false }, "mr": { "text": "सात्त्विक पर्याय", "reviewed": false } },
-    "yatra.budget": { "en": "Budget per day", "hi": { "text": "प्रतिदिन का बजट", "reviewed": false }, "mr": { "text": "दररोजचे अंदाजपत्रक", "reviewed": false } },
-    "yatra.band.budget": { "en": "Budget", "hi": { "text": "किफ़ायती", "reviewed": false }, "mr": { "text": "किफायतशीर", "reviewed": false } },
-    "yatra.band.mid": { "en": "Mid-range", "hi": { "text": "मध्यम", "reviewed": false }, "mr": { "text": "मध्यम", "reviewed": false } },
-    "yatra.band.comfort": { "en": "Comfort", "hi": { "text": "आरामदायक", "reviewed": false }, "mr": { "text": "आरामदायी", "reviewed": false } },
-    "yatra.perDay": { "en": "{min} to {max} per person per day", "hi": { "text": "प्रति व्यक्ति प्रतिदिन {min} से {max}", "reviewed": false }, "mr": { "text": "प्रति व्यक्ती प्रतिदिन {min} ते {max}", "reviewed": false } },
-    "yatra.indicative": { "en": "Indicative only. Prices change by season and crowd.", "hi": { "text": "केवल अनुमानित। मूल्य मौसम और भीड़ के अनुसार बदलते हैं।", "reviewed": false }, "mr": { "text": "फक्त अंदाजे. दर हंगाम आणि गर्दीनुसार बदलतात.", "reviewed": false } },
-    "yatra.health": { "en": "Accessibility and health notes", "hi": { "text": "सुगम्यता और स्वास्थ्य संबंधी बातें", "reviewed": false }, "mr": { "text": "सुलभता आणि आरोग्यविषयक बाबी", "reviewed": false } },
-    "yatra.healthNote": { "en": "General notes only, not medical advice. If you have a health condition, ask your own doctor before a long or crowded trip.", "hi": { "text": "ये सामान्य बातें हैं, चिकित्सकीय सलाह नहीं। यदि आपको कोई स्वास्थ्य समस्या है तो लंबी या भीड़ भरी यात्रा से पहले अपने चिकित्सक से पूछें।", "reviewed": false }, "mr": { "text": "ही सर्वसाधारण माहिती आहे, वैद्यकीय सल्ला नव्हे. आरोग्याची समस्या असल्यास लांब किंवा गर्दीच्या प्रवासापूर्वी आपल्या डॉक्टरांना विचारा.", "reviewed": false } },
-    "yatra.etiquette": { "en": "Etiquette", "hi": { "text": "शिष्टाचार", "reviewed": false }, "mr": { "text": "शिष्टाचार", "reviewed": false } },
-    "yatra.nearby": { "en": "Nearby places", "hi": { "text": "आस-पास के स्थान", "reviewed": false }, "mr": { "text": "जवळची ठिकाणे", "reviewed": false } },
-    "yatra.km": { "en": "about {km} km", "hi": { "text": "लगभग {km} किमी", "reviewed": false }, "mr": { "text": "सुमारे {km} किमी", "reviewed": false } },
-    "yatra.sources": { "en": "Sources", "hi": { "text": "स्रोत", "reviewed": false }, "mr": { "text": "स्रोत", "reviewed": false } },
-    "yatra.disclaimer": { "en": "Cultural and travel information only. No bookings are made here. Timings, passes, fares and rules change, so confirm with the temple office or official sources before you go.", "hi": { "text": "यह केवल सांस्कृतिक और यात्रा संबंधी जानकारी है। यहाँ कोई बुकिंग नहीं होती। समय, पास, किराये और नियम बदलते रहते हैं, इसलिए जाने से पहले मंदिर कार्यालय या आधिकारिक स्रोतों से पुष्टि करें।", "reviewed": false }, "mr": { "text": "ही केवळ सांस्कृतिक आणि प्रवासविषयक माहिती आहे. येथे कोणतेही आरक्षण होत नाही. वेळा, पास, भाडे आणि नियम बदलतात, म्हणून जाण्यापूर्वी मंदिर कार्यालय किंवा अधिकृत स्रोतांकडून खात्री करा.", "reviewed": false } },
-    "yatra.planner.open": { "en": "Trip planner", "hi": { "text": "यात्रा योजना", "reviewed": false }, "mr": { "text": "सहल नियोजक", "reviewed": false } },
-    "yatra.planner.title": { "en": "Trip planner", "hi": { "text": "यात्रा योजना", "reviewed": false }, "mr": { "text": "सहल नियोजक", "reviewed": false } },
-    "yatra.planner.intro": { "en": "Pick places and how many days at each. You get one day-by-day plan. It is saved on this device only.", "hi": { "text": "स्थान चुनें और हर जगह कितने दिन रुकना है बताएँ। आपको एक दिन-प्रतिदिन की योजना मिलेगी। यह केवल इसी उपकरण पर सहेजी जाती है।", "reviewed": false }, "mr": { "text": "ठिकाणे निवडा आणि प्रत्येक ठिकाणी किती दिवस थांबायचे ते सांगा. तुम्हाला दिवसागणिक एकत्रित योजना मिळेल. ती फक्त याच उपकरणावर जतन होते.", "reviewed": false } },
-    "yatra.planner.notSaved": { "en": "This device is not keeping the plan between visits. Copy or print it before you leave.", "hi": { "text": "यह उपकरण योजना को अगली बार के लिए नहीं रख रहा है। जाने से पहले इसे कॉपी या प्रिंट कर लें।", "reviewed": false }, "mr": { "text": "हे उपकरण योजना पुढील भेटीसाठी ठेवत नाही. निघण्यापूर्वी ती कॉपी किंवा प्रिंट करा.", "reviewed": false } },
-    "yatra.planner.pick": { "en": "Add places", "hi": { "text": "स्थान जोड़ें", "reviewed": false }, "mr": { "text": "ठिकाणे जोडा", "reviewed": false } },
-    "yatra.planner.allAdded": { "en": "All places are in your trip.", "hi": { "text": "सभी स्थान आपकी यात्रा में जुड़ चुके हैं।", "reviewed": false }, "mr": { "text": "सर्व ठिकाणे तुमच्या सहलीत जोडली आहेत.", "reviewed": false } },
-    "yatra.planner.addNamed": { "en": "Add {name}", "hi": { "text": "{name} जोड़ें", "reviewed": false }, "mr": { "text": "{name} जोडा", "reviewed": false } },
-    "yatra.planner.add": { "en": "Add to my trip", "hi": { "text": "मेरी यात्रा में जोड़ें", "reviewed": false }, "mr": { "text": "माझ्या सहलीत जोडा", "reviewed": false } },
-    "yatra.planner.added": { "en": "In your trip", "hi": { "text": "आपकी यात्रा में है", "reviewed": false }, "mr": { "text": "तुमच्या सहलीत आहे", "reviewed": false } },
-    "yatra.planner.yourTrip": { "en": "Your trip", "hi": { "text": "आपकी यात्रा", "reviewed": false }, "mr": { "text": "तुमची सहल", "reviewed": false } },
-    "yatra.planner.empty": { "en": "No places yet. Add one above.", "hi": { "text": "अभी कोई स्थान नहीं। ऊपर से जोड़ें।", "reviewed": false }, "mr": { "text": "अजून एकही ठिकाण नाही. वरून जोडा.", "reviewed": false } },
-    "yatra.planner.daysHere": { "en": "Days here", "hi": { "text": "यहाँ दिन", "reviewed": false }, "mr": { "text": "येथे दिवस", "reviewed": false } },
-    "yatra.planner.daysFor": { "en": "Days at {name}", "hi": { "text": "{name} में दिन", "reviewed": false }, "mr": { "text": "{name} येथे दिवस", "reviewed": false } },
-    "yatra.planner.up": { "en": "Move {name} earlier", "hi": { "text": "{name} को पहले करें", "reviewed": false }, "mr": { "text": "{name} आधी घ्या", "reviewed": false } },
-    "yatra.planner.down": { "en": "Move {name} later", "hi": { "text": "{name} को बाद में करें", "reviewed": false }, "mr": { "text": "{name} नंतर घ्या", "reviewed": false } },
-    "yatra.planner.remove": { "en": "Remove", "hi": { "text": "हटाएँ", "reviewed": false }, "mr": { "text": "काढा", "reviewed": false } },
-    "yatra.planner.total": { "en": "{count, plural, one {Total: # day} other {Total: # days}}", "hi": { "text": "कुल: {count} दिन", "reviewed": false }, "mr": { "text": "एकूण: {count} दिवस", "reviewed": false } },
-    "yatra.planner.plan": { "en": "Day-by-day plan", "hi": { "text": "दिन-प्रतिदिन की योजना", "reviewed": false }, "mr": { "text": "दिवसागणिक योजना", "reviewed": false } },
-    "yatra.planner.estimate": { "en": "Estimated total: {min} to {max} per person, excluding travel to the first place.", "hi": { "text": "अनुमानित कुल: प्रति व्यक्ति {min} से {max}, पहले स्थान तक के सफ़र को छोड़कर।", "reviewed": false }, "mr": { "text": "अंदाजे एकूण: प्रति व्यक्ती {min} ते {max}, पहिल्या ठिकाणापर्यंतचा प्रवास वगळून.", "reviewed": false } },
-    "yatra.planner.print": { "en": "Print", "hi": { "text": "प्रिंट करें", "reviewed": false }, "mr": { "text": "प्रिंट करा", "reviewed": false } },
-    "yatra.planner.copy": { "en": "Copy as text", "hi": { "text": "पाठ के रूप में कॉपी करें", "reviewed": false }, "mr": { "text": "मजकूर म्हणून कॉपी करा", "reviewed": false } },
-    "yatra.planner.share": { "en": "Share", "hi": { "text": "साझा करें", "reviewed": false }, "mr": { "text": "शेअर करा", "reviewed": false } },
-    "yatra.planner.copied": { "en": "Plan copied.", "hi": { "text": "योजना कॉपी हो गई।", "reviewed": false }, "mr": { "text": "योजना कॉपी झाली.", "reviewed": false } },
-    "yatra.planner.copyFail": { "en": "Could not copy. Use Print instead.", "hi": { "text": "कॉपी नहीं हो सकी। इसके बदले प्रिंट करें।", "reviewed": false }, "mr": { "text": "कॉपी करता आले नाही. त्याऐवजी प्रिंट करा.", "reviewed": false } },
-    "yatra.planner.textTitle": { "en": "PranaDin yatra plan ({days} days)", "hi": { "text": "प्राणदिन यात्रा योजना ({days} दिन)", "reviewed": false }, "mr": { "text": "प्राणदिन यात्रा योजना ({days} दिवस)", "reviewed": false } },
-    "yatra.planner.textDay": { "en": "Day {n}: {place} (day {k} of {of})", "hi": { "text": "दिन {n}: {place} ({of} में से दिन {k})", "reviewed": false }, "mr": { "text": "दिवस {n}: {place} ({of} पैकी दिवस {k})", "reviewed": false } },
-    "yatra.planner.textFooter": { "en": "Indicative plan. Confirm timings and rules locally.", "hi": { "text": "अनुमानित योजना। समय और नियम स्थानीय स्तर पर जाँच लें।", "reviewed": false }, "mr": { "text": "अंदाजे योजना. वेळा आणि नियम स्थानिक ठिकाणी तपासा.", "reviewed": false } }
+    "yatra.title": {
+      "en": "Yatra guide",
+      "hi": {
+        "text": "यात्रा मार्गदर्शिका",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "यात्रा मार्गदर्शिका",
+        "reviewed": false
+      }
+    },
+    "yatra.entry": {
+      "en": "Sacred places: when to go, how to reach, what to see, and a simple trip planner.",
+      "hi": {
+        "text": "पावन स्थल: कब जाएँ, कैसे पहुँचें, क्या देखें, और एक सरल यात्रा योजना।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "पवित्र स्थळे: केव्हा जावे, कसे पोहोचावे, काय पाहावे आणि सोपे सहल नियोजन.",
+        "reviewed": false
+      }
+    },
+    "yatra.intro": {
+      "en": "Plan a pilgrimage with care. Information only: nothing here can be booked, and timings, fares and rules change, so check locally before you travel.",
+      "hi": {
+        "text": "तीर्थयात्रा की योजना सोच-समझकर बनाएँ। यह केवल जानकारी है: यहाँ कुछ भी बुक नहीं होता, और समय, किराये व नियम बदलते रहते हैं, इसलिए यात्रा से पहले स्थानीय स्तर पर पुष्टि कर लें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तीर्थयात्रेचे नियोजन काळजीपूर्वक करा. ही फक्त माहिती आहे: येथे काहीही आरक्षित करता येत नाही, आणि वेळा, भाडे व नियम बदलतात, म्हणून प्रवासापूर्वी स्थानिक ठिकाणी खात्री करा.",
+        "reviewed": false
+      }
+    },
+    "yatra.back": {
+      "en": "All places",
+      "hi": {
+        "text": "सभी स्थान",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्व स्थळे",
+        "reviewed": false
+      }
+    },
+    "yatra.filter.state": {
+      "en": "State",
+      "hi": {
+        "text": "राज्य",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "राज्य",
+        "reviewed": false
+      }
+    },
+    "yatra.filter.allStates": {
+      "en": "All states",
+      "hi": {
+        "text": "सभी राज्य",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्व राज्ये",
+        "reviewed": false
+      }
+    },
+    "yatra.filter.tradition": {
+      "en": "Filter by tradition",
+      "hi": {
+        "text": "परंपरा के अनुसार छाँटें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "परंपरेनुसार निवडा",
+        "reviewed": false
+      }
+    },
+    "yatra.filter.allTraditions": {
+      "en": "All traditions",
+      "hi": {
+        "text": "सभी परंपराएँ",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्व परंपरा",
+        "reviewed": false
+      }
+    },
+    "yatra.filter.month": {
+      "en": "Month to visit",
+      "hi": {
+        "text": "यात्रा का महीना",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "भेटीचा महिना",
+        "reviewed": false
+      }
+    },
+    "yatra.filter.allMonths": {
+      "en": "Any month",
+      "hi": {
+        "text": "कोई भी महीना",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कोणताही महिना",
+        "reviewed": false
+      }
+    },
+    "yatra.count": {
+      "en": "{count, plural, one {# place} other {# places}}",
+      "hi": {
+        "text": "{count, plural, one {# स्थान} other {# स्थान}}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{count, plural, one {# स्थळ} other {# स्थळे}}",
+        "reviewed": false
+      }
+    },
+    "yatra.none": {
+      "en": "No place matches these filters. Try another month or state.",
+      "hi": {
+        "text": "इन फ़िल्टरों से कोई स्थान नहीं मिला। कोई दूसरा महीना या राज्य चुनें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "या निवडीशी जुळणारे कोणतेही स्थळ नाही. दुसरा महिना किंवा राज्य निवडा.",
+        "reviewed": false
+      }
+    },
+    "yatra.bestIn": {
+      "en": "Best: {months}",
+      "hi": {
+        "text": "उत्तम समय: {months}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उत्तम काळ: {months}",
+        "reviewed": false
+      }
+    },
+    "yatra.noPhoto": {
+      "en": "A photo will be added here.",
+      "hi": {
+        "text": "यहाँ चित्र जोड़ा जाएगा।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "येथे छायाचित्र जोडले जाईल.",
+        "reviewed": false
+      }
+    },
+    "yatra.aiImage": {
+      "en": "AI-generated image",
+      "hi": {
+        "text": "एआई द्वारा बनाया गया चित्र",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "एआयने तयार केलेले चित्र",
+        "reviewed": false
+      }
+    },
+    "yatra.photoCredit": {
+      "en": "Photo: {credit}",
+      "hi": {
+        "text": "छायाचित्र: {credit}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "छायाचित्र: {credit}",
+        "reviewed": false
+      }
+    },
+    "yatra.gallery": {
+      "en": "Photo gallery",
+      "hi": {
+        "text": "चित्र दीर्घा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "चित्र दालन",
+        "reviewed": false
+      }
+    },
+    "yatra.tabs": {
+      "en": "Sections",
+      "hi": {
+        "text": "अनुभाग",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "विभाग",
+        "reviewed": false
+      }
+    },
+    "yatra.tab.overview": {
+      "en": "Overview",
+      "hi": {
+        "text": "परिचय",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "परिचय",
+        "reviewed": false
+      }
+    },
+    "yatra.tab.reach": {
+      "en": "When and how",
+      "hi": {
+        "text": "कब और कैसे",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "केव्हा आणि कसे",
+        "reviewed": false
+      }
+    },
+    "yatra.tab.sights": {
+      "en": "Sights and darshan",
+      "hi": {
+        "text": "दर्शनीय स्थल और दर्शन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "पाहण्याची ठिकाणे आणि दर्शन",
+        "reviewed": false
+      }
+    },
+    "yatra.tab.itineraries": {
+      "en": "Itineraries",
+      "hi": {
+        "text": "यात्रा कार्यक्रम",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सहल कार्यक्रम",
+        "reviewed": false
+      }
+    },
+    "yatra.tab.stay": {
+      "en": "Stay and eat",
+      "hi": {
+        "text": "ठहरना और भोजन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "निवास आणि भोजन",
+        "reviewed": false
+      }
+    },
+    "yatra.tab.know": {
+      "en": "Good to know",
+      "hi": {
+        "text": "जानने योग्य",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "माहीत असावे",
+        "reviewed": false
+      }
+    },
+    "yatra.deity": {
+      "en": "Deity and tradition",
+      "hi": {
+        "text": "देवता और परंपरा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "देवता आणि परंपरा",
+        "reviewed": false
+      }
+    },
+    "yatra.significance": {
+      "en": "Why it matters",
+      "hi": {
+        "text": "महत्त्व",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "महत्त्व",
+        "reviewed": false
+      }
+    },
+    "yatra.overview": {
+      "en": "Overview",
+      "hi": {
+        "text": "परिचय",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "परिचय",
+        "reviewed": false
+      }
+    },
+    "yatra.story": {
+      "en": "The story",
+      "hi": {
+        "text": "कथा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कथा",
+        "reviewed": false
+      }
+    },
+    "yatra.festivals": {
+      "en": "Festivals here",
+      "hi": {
+        "text": "यहाँ के त्योहार",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "येथील सण",
+        "reviewed": false
+      }
+    },
+    "yatra.bestTime": {
+      "en": "Best time to visit",
+      "hi": {
+        "text": "यात्रा का सर्वोत्तम समय",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "भेटीसाठी उत्तम काळ",
+        "reviewed": false
+      }
+    },
+    "yatra.rating.best": {
+      "en": "best",
+      "hi": {
+        "text": "सर्वोत्तम",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उत्तम",
+        "reviewed": false
+      }
+    },
+    "yatra.rating.good": {
+      "en": "good",
+      "hi": {
+        "text": "ठीक",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ठीक",
+        "reviewed": false
+      }
+    },
+    "yatra.rating.difficult": {
+      "en": "difficult",
+      "hi": {
+        "text": "कठिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कठीण",
+        "reviewed": false
+      }
+    },
+    "yatra.reach": {
+      "en": "How to reach",
+      "hi": {
+        "text": "कैसे पहुँचें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कसे पोहोचावे",
+        "reviewed": false
+      }
+    },
+    "yatra.air": {
+      "en": "By air",
+      "hi": {
+        "text": "हवाई मार्ग",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "विमानाने",
+        "reviewed": false
+      }
+    },
+    "yatra.rail": {
+      "en": "By rail",
+      "hi": {
+        "text": "रेल मार्ग",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "रेल्वेने",
+        "reviewed": false
+      }
+    },
+    "yatra.road": {
+      "en": "By road",
+      "hi": {
+        "text": "सड़क मार्ग",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "रस्त्याने",
+        "reviewed": false
+      }
+    },
+    "yatra.nearestKm": {
+      "en": "Nearest: {name}, about {km} km",
+      "hi": {
+        "text": "निकटतम: {name}, लगभग {km} किमी",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्वात जवळ: {name}, सुमारे {km} किमी",
+        "reviewed": false
+      }
+    },
+    "yatra.localTransport": {
+      "en": "Getting around",
+      "hi": {
+        "text": "स्थानीय आवागमन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "स्थानिक प्रवास",
+        "reviewed": false
+      }
+    },
+    "yatra.sights": {
+      "en": "Must-see temples and sights",
+      "hi": {
+        "text": "अवश्य देखने योग्य मंदिर और स्थल",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "अवश्य पाहण्यासारखी मंदिरे आणि ठिकाणे",
+        "reviewed": false
+      }
+    },
+    "yatra.timings": {
+      "en": "Typical timings",
+      "hi": {
+        "text": "सामान्य समय",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "साधारण वेळा",
+        "reviewed": false
+      }
+    },
+    "yatra.checkLocally": {
+      "en": "Check locally",
+      "hi": {
+        "text": "स्थानीय स्तर पर पुष्टि करें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "स्थानिक ठिकाणी खात्री करा",
+        "reviewed": false
+      }
+    },
+    "yatra.dress": {
+      "en": "Dress code",
+      "hi": {
+        "text": "पहनावा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "पोशाख",
+        "reviewed": false
+      }
+    },
+    "yatra.darshan": {
+      "en": "Darshan tips",
+      "hi": {
+        "text": "दर्शन के सुझाव",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर्शनासाठी सूचना",
+        "reviewed": false
+      }
+    },
+    "yatra.itin.pick": {
+      "en": "Trip length",
+      "hi": {
+        "text": "यात्रा की अवधि",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सहलीचा कालावधी",
+        "reviewed": false
+      }
+    },
+    "yatra.itin.days": {
+      "en": "{count, plural, one {# day} other {# days}}",
+      "hi": {
+        "text": "{count, plural, one {# दिन} other {# दिन}}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{count, plural, one {# दिवस} other {# दिवस}}",
+        "reviewed": false
+      }
+    },
+    "yatra.itin.dayN": {
+      "en": "Day {n}",
+      "hi": {
+        "text": "दिन {n}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवस {n}",
+        "reviewed": false
+      }
+    },
+    "yatra.part.morning": {
+      "en": "Morning",
+      "hi": {
+        "text": "सुबह",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सकाळ",
+        "reviewed": false
+      }
+    },
+    "yatra.part.afternoon": {
+      "en": "Afternoon",
+      "hi": {
+        "text": "दोपहर",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दुपार",
+        "reviewed": false
+      }
+    },
+    "yatra.part.evening": {
+      "en": "Evening",
+      "hi": {
+        "text": "शाम",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "संध्याकाळ",
+        "reviewed": false
+      }
+    },
+    "yatra.stay": {
+      "en": "Where to stay",
+      "hi": {
+        "text": "कहाँ ठहरें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कुठे राहावे",
+        "reviewed": false
+      }
+    },
+    "yatra.food": {
+      "en": "Food and local specialities",
+      "hi": {
+        "text": "भोजन और स्थानीय व्यंजन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "भोजन आणि स्थानिक पदार्थ",
+        "reviewed": false
+      }
+    },
+    "yatra.satvik": {
+      "en": "Satvik options",
+      "hi": {
+        "text": "सात्त्विक विकल्प",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सात्त्विक पर्याय",
+        "reviewed": false
+      }
+    },
+    "yatra.budget": {
+      "en": "Budget per day",
+      "hi": {
+        "text": "प्रतिदिन का बजट",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दररोजचे अंदाजपत्रक",
+        "reviewed": false
+      }
+    },
+    "yatra.band.budget": {
+      "en": "Budget",
+      "hi": {
+        "text": "किफ़ायती",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "किफायतशीर",
+        "reviewed": false
+      }
+    },
+    "yatra.band.mid": {
+      "en": "Mid-range",
+      "hi": {
+        "text": "मध्यम",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मध्यम",
+        "reviewed": false
+      }
+    },
+    "yatra.band.comfort": {
+      "en": "Comfort",
+      "hi": {
+        "text": "आरामदायक",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "आरामदायी",
+        "reviewed": false
+      }
+    },
+    "yatra.perDay": {
+      "en": "{min} to {max} per person per day",
+      "hi": {
+        "text": "प्रति व्यक्ति प्रतिदिन {min} से {max}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रति व्यक्ती प्रतिदिन {min} ते {max}",
+        "reviewed": false
+      }
+    },
+    "yatra.indicative": {
+      "en": "Indicative only. Prices change by season and crowd.",
+      "hi": {
+        "text": "केवल अनुमानित। मूल्य मौसम और भीड़ के अनुसार बदलते हैं।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "फक्त अंदाजे. दर हंगाम आणि गर्दीनुसार बदलतात.",
+        "reviewed": false
+      }
+    },
+    "yatra.health": {
+      "en": "Accessibility and health notes",
+      "hi": {
+        "text": "सुगम्यता और स्वास्थ्य संबंधी बातें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सुलभता आणि आरोग्यविषयक बाबी",
+        "reviewed": false
+      }
+    },
+    "yatra.healthNote": {
+      "en": "General notes only, not medical advice. If you have a health condition, ask your own doctor before a long or crowded trip.",
+      "hi": {
+        "text": "ये सामान्य बातें हैं, चिकित्सकीय सलाह नहीं। यदि आपको कोई स्वास्थ्य समस्या है तो लंबी या भीड़ भरी यात्रा से पहले अपने चिकित्सक से पूछें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ही सर्वसाधारण माहिती आहे, वैद्यकीय सल्ला नव्हे. आरोग्याची समस्या असल्यास लांब किंवा गर्दीच्या प्रवासापूर्वी आपल्या डॉक्टरांना विचारा.",
+        "reviewed": false
+      }
+    },
+    "yatra.etiquette": {
+      "en": "Etiquette",
+      "hi": {
+        "text": "शिष्टाचार",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "शिष्टाचार",
+        "reviewed": false
+      }
+    },
+    "yatra.nearby": {
+      "en": "Nearby places",
+      "hi": {
+        "text": "आस-पास के स्थान",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जवळची ठिकाणे",
+        "reviewed": false
+      }
+    },
+    "yatra.km": {
+      "en": "about {km} km",
+      "hi": {
+        "text": "लगभग {km} किमी",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सुमारे {km} किमी",
+        "reviewed": false
+      }
+    },
+    "yatra.sources": {
+      "en": "Sources",
+      "hi": {
+        "text": "स्रोत",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "स्रोत",
+        "reviewed": false
+      }
+    },
+    "yatra.disclaimer": {
+      "en": "Cultural and travel information only. No bookings are made here. Timings, passes, fares and rules change, so confirm with the temple office or official sources before you go.",
+      "hi": {
+        "text": "यह केवल सांस्कृतिक और यात्रा संबंधी जानकारी है। यहाँ कोई बुकिंग नहीं होती। समय, पास, किराये और नियम बदलते रहते हैं, इसलिए जाने से पहले मंदिर कार्यालय या आधिकारिक स्रोतों से पुष्टि करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ही केवळ सांस्कृतिक आणि प्रवासविषयक माहिती आहे. येथे कोणतेही आरक्षण होत नाही. वेळा, पास, भाडे आणि नियम बदलतात, म्हणून जाण्यापूर्वी मंदिर कार्यालय किंवा अधिकृत स्रोतांकडून खात्री करा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.open": {
+      "en": "Trip planner",
+      "hi": {
+        "text": "यात्रा योजना",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सहल नियोजक",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.title": {
+      "en": "Trip planner",
+      "hi": {
+        "text": "यात्रा योजना",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सहल नियोजक",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.intro": {
+      "en": "Pick places and how many days at each. You get one day-by-day plan. It is saved on this device only.",
+      "hi": {
+        "text": "स्थान चुनें और हर जगह कितने दिन रुकना है बताएँ। आपको एक दिन-प्रतिदिन की योजना मिलेगी। यह केवल इसी उपकरण पर सहेजी जाती है।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ठिकाणे निवडा आणि प्रत्येक ठिकाणी किती दिवस थांबायचे ते सांगा. तुम्हाला दिवसागणिक एकत्रित योजना मिळेल. ती फक्त याच उपकरणावर जतन होते.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.notSaved": {
+      "en": "This device is not keeping the plan between visits. Copy or print it before you leave.",
+      "hi": {
+        "text": "यह उपकरण योजना को अगली बार के लिए नहीं रख रहा है। जाने से पहले इसे कॉपी या प्रिंट कर लें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "हे उपकरण योजना पुढील भेटीसाठी ठेवत नाही. निघण्यापूर्वी ती कॉपी किंवा प्रिंट करा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.pick": {
+      "en": "Add places",
+      "hi": {
+        "text": "स्थान जोड़ें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ठिकाणे जोडा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.allAdded": {
+      "en": "All places are in your trip.",
+      "hi": {
+        "text": "सभी स्थान आपकी यात्रा में जुड़ चुके हैं।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्व ठिकाणे तुमच्या सहलीत जोडली आहेत.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.addNamed": {
+      "en": "Add {name}",
+      "hi": {
+        "text": "{name} जोड़ें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{name} जोडा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.add": {
+      "en": "Add to my trip",
+      "hi": {
+        "text": "मेरी यात्रा में जोड़ें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "माझ्या सहलीत जोडा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.added": {
+      "en": "In your trip",
+      "hi": {
+        "text": "आपकी यात्रा में है",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमच्या सहलीत आहे",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.yourTrip": {
+      "en": "Your trip",
+      "hi": {
+        "text": "आपकी यात्रा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमची सहल",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.empty": {
+      "en": "No places yet. Add one above.",
+      "hi": {
+        "text": "अभी कोई स्थान नहीं। ऊपर से जोड़ें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "अजून एकही ठिकाण नाही. वरून जोडा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.daysHere": {
+      "en": "Days here",
+      "hi": {
+        "text": "यहाँ दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "येथे दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.daysFor": {
+      "en": "Days at {name}",
+      "hi": {
+        "text": "{name} में दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{name} येथे दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.up": {
+      "en": "Move {name} earlier",
+      "hi": {
+        "text": "{name} को पहले करें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{name} आधी घ्या",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.down": {
+      "en": "Move {name} later",
+      "hi": {
+        "text": "{name} को बाद में करें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{name} नंतर घ्या",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.remove": {
+      "en": "Remove",
+      "hi": {
+        "text": "हटाएँ",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "काढा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.total": {
+      "en": "{count, plural, one {Total: # day} other {Total: # days}}",
+      "hi": {
+        "text": "कुल: {count} दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "एकूण: {count} दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.plan": {
+      "en": "Day-by-day plan",
+      "hi": {
+        "text": "दिन-प्रतिदिन की योजना",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवसागणिक योजना",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.estimate": {
+      "en": "Estimated total: {min} to {max} per person, excluding travel to the first place.",
+      "hi": {
+        "text": "अनुमानित कुल: प्रति व्यक्ति {min} से {max}, पहले स्थान तक के सफ़र को छोड़कर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "अंदाजे एकूण: प्रति व्यक्ती {min} ते {max}, पहिल्या ठिकाणापर्यंतचा प्रवास वगळून.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.print": {
+      "en": "Print",
+      "hi": {
+        "text": "प्रिंट करें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रिंट करा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.copy": {
+      "en": "Copy as text",
+      "hi": {
+        "text": "पाठ के रूप में कॉपी करें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मजकूर म्हणून कॉपी करा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.share": {
+      "en": "Share",
+      "hi": {
+        "text": "साझा करें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "शेअर करा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.copied": {
+      "en": "Plan copied.",
+      "hi": {
+        "text": "योजना कॉपी हो गई।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "योजना कॉपी झाली.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.copyFail": {
+      "en": "Could not copy. Use Print instead.",
+      "hi": {
+        "text": "कॉपी नहीं हो सकी। इसके बदले प्रिंट करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कॉपी करता आले नाही. त्याऐवजी प्रिंट करा.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.textTitle": {
+      "en": "PranaDin yatra plan ({days} days)",
+      "hi": {
+        "text": "प्राणदिन यात्रा योजना ({days} दिन)",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्राणदिन यात्रा योजना ({days} दिवस)",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.textDay": {
+      "en": "Day {n}: {place} (day {k} of {of})",
+      "hi": {
+        "text": "दिन {n}: {place} ({of} में से दिन {k})",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवस {n}: {place} ({of} पैकी दिवस {k})",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.textFooter": {
+      "en": "Indicative plan. Confirm timings and rules locally.",
+      "hi": {
+        "text": "अनुमानित योजना। समय और नियम स्थानीय स्तर पर जाँच लें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "अंदाजे योजना. वेळा आणि नियम स्थानिक ठिकाणी तपासा.",
+        "reviewed": false
+      }
+    },
+    "yatra.glance.title": {
+      "en": "At a glance",
+      "hi": {
+        "text": "एक नज़र में",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "एका दृष्टिक्षेपात",
+        "reviewed": false
+      }
+    },
+    "yatra.glance.months": {
+      "en": "Best months to visit",
+      "hi": {
+        "text": "यात्रा के सबसे अच्छे महीने",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "भेटीसाठी उत्तम महिने",
+        "reviewed": false
+      }
+    },
+    "yatra.glance.air": {
+      "en": "Nearest airport",
+      "hi": {
+        "text": "निकटतम हवाई अड्डा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जवळचे विमानतळ",
+        "reviewed": false
+      }
+    },
+    "yatra.glance.rail": {
+      "en": "Nearest station",
+      "hi": {
+        "text": "निकटतम रेलवे स्टेशन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जवळचे रेल्वे स्थानक",
+        "reviewed": false
+      }
+    },
+    "yatra.glance.budget": {
+      "en": "Per day, mid-range",
+      "hi": {
+        "text": "प्रतिदिन, मध्यम",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दररोज, मध्यम",
+        "reviewed": false
+      }
+    },
+    "yatra.glance.days": {
+      "en": "Time needed",
+      "hi": {
+        "text": "आवश्यक समय",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "लागणारा वेळ",
+        "reviewed": false
+      }
+    },
+    "yatra.kmShort": {
+      "en": "{km} km",
+      "hi": {
+        "text": "{km} किमी",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{km} किमी",
+        "reviewed": false
+      }
+    },
+    "yatra.plan.title": {
+      "en": "Plan this yatra",
+      "hi": {
+        "text": "इस यात्रा की योजना बनाएँ",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "या यात्रेचे नियोजन करा",
+        "reviewed": false
+      }
+    },
+    "yatra.plan.sub": {
+      "en": "Choose the days, add it to your trip and get a day-by-day plan.",
+      "hi": {
+        "text": "दिन चुनें, अपनी यात्रा में जोड़ें और दिन-प्रतिदिन की योजना पाएँ।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवस निवडा, तुमच्या यात्रेत जोडा आणि दिवसानुसार योजना मिळवा.",
+        "reviewed": false
+      }
+    },
+    "yatra.readStory": {
+      "en": "Read the story",
+      "hi": {
+        "text": "कथा पढ़ें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कथा वाचा",
+        "reviewed": false
+      }
+    },
+    "yatra.photoN": {
+      "en": "Photo {n}",
+      "hi": {
+        "text": "चित्र {n}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "छायाचित्र {n}",
+        "reviewed": false
+      }
+    },
+    "yatra.legend": {
+      "en": "Colour shows how good each month is.",
+      "hi": {
+        "text": "रंग बताता है कि हर महीना कितना अच्छा है।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "रंग दाखवतो की प्रत्येक महिना किती चांगला आहे.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.heroSub": {
+      "en": "Choose places, set the days, and take a dated plan with you.",
+      "hi": {
+        "text": "स्थान चुनें, दिन तय करें और तारीख़ों वाली योजना साथ ले जाएँ।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ठिकाणे निवडा, दिवस ठरवा आणि तारखांसह योजना सोबत न्या.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.step1": {
+      "en": "Start from a ready trip",
+      "hi": {
+        "text": "तैयार यात्रा से शुरू करें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तयार सहलीपासून सुरुवात करा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.step1Sub": {
+      "en": "One tap fills your route. Change it after.",
+      "hi": {
+        "text": "एक टैप से मार्ग भर जाएगा। बाद में बदलें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "एका टॅपमध्ये मार्ग भरेल. नंतर बदला.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.starter.kashi": {
+      "en": "Kashi and Sarnath",
+      "hi": {
+        "text": "काशी और सारनाथ",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "काशी आणि सारनाथ",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.starter.punjab": {
+      "en": "Golden Temple and Anandpur Sahib",
+      "hi": {
+        "text": "स्वर्ण मंदिर और आनंदपुर साहिब",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सुवर्ण मंदिर आणि आनंदपूर साहिब",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.starter.buddha": {
+      "en": "Footsteps of the Buddha",
+      "hi": {
+        "text": "बुद्ध के पदचिह्न",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "बुद्धांच्या पाऊलखुणा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.starter.tamil": {
+      "en": "Tamil temple trail",
+      "hi": {
+        "text": "तमिल मंदिर यात्रा",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तमिळ मंदिर यात्रा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.starter.himalaya": {
+      "en": "Ganga to Kedarnath",
+      "hi": {
+        "text": "गंगा से केदारनाथ",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "गंगेपासून केदारनाथपर्यंत",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.starterUsed": {
+      "en": "Your route now follows {name}.",
+      "hi": {
+        "text": "आपका मार्ग अब {name} है।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमचा मार्ग आता {name} आहे.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.step2": {
+      "en": "Add places",
+      "hi": {
+        "text": "स्थान जोड़ें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ठिकाणे जोडा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.search": {
+      "en": "Search places",
+      "hi": {
+        "text": "स्थान खोजें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ठिकाणे शोधा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.noMatch": {
+      "en": "No places match.",
+      "hi": {
+        "text": "कोई स्थान नहीं मिला।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कोणतेही ठिकाण सापडले नाही.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.addShort": {
+      "en": "Add",
+      "hi": {
+        "text": "जोड़ें",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जोडा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.showAll": {
+      "en": "Show all {count}",
+      "hi": {
+        "text": "सभी {count} दिखाएँ",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सर्व {count} दाखवा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.showLess": {
+      "en": "Show fewer",
+      "hi": {
+        "text": "कम दिखाएँ",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "कमी दाखवा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.step3": {
+      "en": "Your route",
+      "hi": {
+        "text": "आपका मार्ग",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमचा मार्ग",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.daysAt": {
+      "en": "{n} days at {name}",
+      "hi": {
+        "text": "{name} में {n} दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{name} येथे {n} दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.settings": {
+      "en": "Trip details",
+      "hi": {
+        "text": "यात्रा विवरण",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सहलीचा तपशील",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.start": {
+      "en": "Start date",
+      "hi": {
+        "text": "आरंभ तिथि",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सुरुवातीची तारीख",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.travellers": {
+      "en": "Travellers",
+      "hi": {
+        "text": "यात्री",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रवासी",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.fewer": {
+      "en": "One fewer traveller",
+      "hi": {
+        "text": "एक यात्री कम",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "एक प्रवासी कमी",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.more": {
+      "en": "One more traveller",
+      "hi": {
+        "text": "एक यात्री और",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "आणखी एक प्रवासी",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.level": {
+      "en": "Budget level",
+      "hi": {
+        "text": "बजट स्तर",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "बजेट स्तर",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.summary": {
+      "en": "Trip summary",
+      "hi": {
+        "text": "यात्रा सारांश",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सहलीचा सारांश",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.stat.days": {
+      "en": "Days",
+      "hi": {
+        "text": "दिन",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवस",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.stat.places": {
+      "en": "Places",
+      "hi": {
+        "text": "स्थान",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "ठिकाणे",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.stat.cost": {
+      "en": "Estimated cost",
+      "hi": {
+        "text": "अनुमानित खर्च",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "अंदाजे खर्च",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.dates": {
+      "en": "{from} to {to}",
+      "hi": {
+        "text": "{from} से {to}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{from} ते {to}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.noDate": {
+      "en": "Add a start date to see dates and the season check.",
+      "hi": {
+        "text": "तारीख़ें और मौसम जाँच देखने के लिए आरंभ तिथि डालें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तारखा आणि हंगाम तपासणी पाहण्यासाठी सुरुवातीची तारीख द्या.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.costFor": {
+      "en": "{min} to {max} for {count, plural, one {# traveller} other {# travellers}}",
+      "hi": {
+        "text": "{count} यात्रियों के लिए {min} से {max}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{count} प्रवाशांसाठी {min} ते {max}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.costNote": {
+      "en": "Indicative. Stay, food and local travel only.",
+      "hi": {
+        "text": "अनुमानित। केवल ठहरना, भोजन और स्थानीय यात्रा।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "अंदाजे. फक्त निवास, जेवण आणि स्थानिक प्रवास.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.season": {
+      "en": "Season check",
+      "hi": {
+        "text": "मौसम जाँच",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "हंगाम तपासणी",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.seasonOk": {
+      "en": "Every stop falls in a good season.",
+      "hi": {
+        "text": "हर पड़ाव अच्छे मौसम में है।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रत्येक थांबा चांगल्या हंगामात आहे.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.seasonWarn": {
+      "en": "{place} is hard to visit in {month}.",
+      "hi": {
+        "text": "{month} में {place} जाना कठिन है।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{month} मध्ये {place} येथे जाणे कठीण आहे.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.clear": {
+      "en": "Clear trip",
+      "hi": {
+        "text": "यात्रा हटाएँ",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सहल रिकामी करा",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.cleared": {
+      "en": "Trip cleared.",
+      "hi": {
+        "text": "यात्रा हटा दी गई।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सहल रिकामी केली.",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.dayOf": {
+      "en": "Day {k} of {of}",
+      "hi": {
+        "text": "{of} में से दिन {k}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{of} पैकी दिवस {k}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.dayN": {
+      "en": "Day {n}",
+      "hi": {
+        "text": "दिन {n}",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दिवस {n}",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.placesCount": {
+      "en": "{count, plural, one {# place} other {# places}}",
+      "hi": {
+        "text": "{count} स्थान",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "{count} ठिकाणे",
+        "reviewed": false
+      }
+    },
+    "yatra.planner.emptyTitle": {
+      "en": "Your route is empty",
+      "hi": {
+        "text": "आपका मार्ग ख़ाली है",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "तुमचा मार्ग रिकामा आहे",
+        "reviewed": false
+      }
+    }
   }
 }

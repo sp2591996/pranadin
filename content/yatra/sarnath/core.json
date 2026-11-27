@@ -1,0 +1,363 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "sarnath",
+  "name": {
+    "en": "Sarnath",
+    "hi": {
+      "text": "सारनाथ",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सारनाथ",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Near Varanasi, Uttar Pradesh",
+    "hi": {
+      "text": "वाराणसी के पास, उत्तर प्रदेश",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "वाराणसीजवळ, उत्तर प्रदेश",
+      "reviewed": false
+    }
+  },
+  "stateKey": "uttar-pradesh",
+  "traditions": [
+    "buddhist"
+  ],
+  "deity": {
+    "en": "The Buddha",
+    "hi": {
+      "text": "बुद्ध",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बुद्ध",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "Where the Buddha gave his first teaching after enlightenment.",
+    "hi": {
+      "text": "जहाँ बुद्ध ने ज्ञान के बाद पहला उपदेश दिया।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "जिथे बुद्धांनी ज्ञानप्राप्तीनंतर पहिला उपदेश दिला.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "The deer park of the first sermon",
+    "hi": {
+      "text": "पहले उपदेश का मृगदाव",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "पहिल्या उपदेशाचे मृगदाव",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "A calm park of stupas and ruins, 10 km from Varanasi.",
+    "hi": {
+      "text": "वाराणसी से 10 किमी दूर स्तूपों और खंडहरों का शांत उद्यान।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "वाराणसीपासून 10 किमीवर स्तूप आणि अवशेषांचे शांत उद्यान.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "Here the Buddha taught five companions the Four Noble Truths; Emperor Ashoka later raised a lion pillar.",
+    "hi": {
+      "text": "यहाँ बुद्ध ने पाँच साथियों को चार आर्य सत्य सिखाए; बाद में सम्राट अशोक ने सिंह स्तंभ बनवाया।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "येथे बुद्धांनी पाच साथीदारांना चार आर्यसत्ये शिकवली; नंतर सम्राट अशोकाने सिंहस्तंभ उभारला.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "seasons": [
+      {
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Cool, clear days; foggy mornings in winter.",
+          "hi": {
+            "text": "ठंडे, साफ़ दिन; सर्दियों में कोहरे वाली सुबह।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंड, स्वच्छ दिवस; हिवाळ्यात धुक्याची सकाळ.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Monsoon rain, green fields.",
+          "hi": {
+            "text": "मानसूनी बारिश, हरे खेत।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळा, हिरवी शेते.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot plains summer.",
+          "hi": {
+            "text": "मैदानों की बहुत गर्म गर्मी।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "मैदानी प्रदेशाचा अतिशय उष्ण उन्हाळा.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Varanasi airport",
+        "hi": {
+          "text": "वाराणसी हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वाराणसी विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 30,
+      "how": {
+        "en": "Taxi in about 50 minutes.",
+        "hi": {
+          "text": "टैक्सी से लगभग 50 मिनट।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "टॅक्सीने सुमारे 50 मिनिटे.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Varanasi Junction",
+        "hi": {
+          "text": "वाराणसी जंक्शन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वाराणसी जंक्शन",
+          "reviewed": false
+        }
+      },
+      "km": 10,
+      "how": {
+        "en": "Auto or taxi in 25 minutes.",
+        "hi": {
+          "text": "ऑटो या टैक्सी से 25 मिनट।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रिक्षा किंवा टॅक्सीने 25 मिनिटे.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Easy half-day trip from Varanasi.",
+        "hi": {
+          "text": "वाराणसी से आसान आधे दिन की यात्रा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वाराणसीहून सोपी अर्ध्या दिवसाची सहल.",
+          "reviewed": false
+        }
+      },
+      "km": 10
+    }
+  },
+  "localTransport": {
+    "en": "All sights are within walking distance of each other.",
+    "hi": {
+      "text": "सभी स्थल एक-दूसरे से पैदल दूरी पर हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सर्व स्थळे एकमेकांपासून चालत जाण्याइतकी जवळ.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "buddha-purnima",
+      "note": {
+        "en": "Prayers, lamps and processions by monks.",
+        "hi": {
+          "text": "भिक्षुओं की प्रार्थना, दीप और शोभायात्रा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भिक्खूंच्या प्रार्थना, दिवे आणि मिरवणुका.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Kashi Vishwanath, Varanasi",
+        "hi": {
+          "text": "काशी विश्वनाथ, वाराणसी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "काशी विश्वनाथ, वाराणसी",
+          "reviewed": false
+        }
+      },
+      "km": 10,
+      "note": {
+        "en": "The great Shiva temple and the ghats.",
+        "hi": {
+          "text": "महान शिव मंदिर और घाट।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महान शिवमंदिर आणि घाट.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Chaukhandi Stupa",
+        "hi": {
+          "text": "चौखंडी स्तूप",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चौखंडी स्तूप",
+          "reviewed": false
+        }
+      },
+      "km": 1,
+      "note": {
+        "en": "Where the Buddha met his first disciples.",
+        "hi": {
+          "text": "जहाँ बुद्ध अपने पहले शिष्यों से मिले।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जिथे बुद्ध आपल्या पहिल्या शिष्यांना भेटले.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sarnath, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sarnath"
+    },
+    {
+      "label": "Archaeological Survey of India",
+      "url": "https://asi.nic.in/"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Sarnath",
+        "hi": {
+          "text": "सारनाथ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सारनाथ",
+          "reviewed": false
+        }
+      },
+      "credit": "Preeti Prajapati, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:14._Dhamek_Stupa,_Sarnath.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Sarnath",
+        "hi": {
+          "text": "सारनाथ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सारनाथ",
+          "reviewed": false
+        }
+      },
+      "credit": "Deepak Purti, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Dhamekh_Stupa_and_Jain_Temple,_Sarnath.jpg"
+    }
+  ]
+}

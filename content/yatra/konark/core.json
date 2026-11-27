@@ -5,149 +5,418 @@
   "version": "2026-11-26.1",
   "status": "draft",
   "id": "konark",
-  "name": { "en": "Konark (Sun Temple)", "hi": { "text": "कोणार्क (सूर्य मंदिर)", "reviewed": false }, "mr": { "text": "कोणार्क (सूर्य मंदिर)", "reviewed": false } },
-  "state": { "en": "Odisha", "hi": { "text": "ओडिशा", "reviewed": false }, "mr": { "text": "ओडिशा", "reviewed": false } },
+  "name": {
+    "en": "Konark (Sun Temple)",
+    "hi": {
+      "text": "कोणार्क (सूर्य मंदिर)",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कोणार्क (सूर्य मंदिर)",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Odisha",
+    "hi": {
+      "text": "ओडिशा",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "ओडिशा",
+      "reviewed": false
+    }
+  },
   "stateKey": "odisha",
-  "traditions": ["hindu"],
+  "traditions": [
+    "hindu"
+  ],
   "deity": {
     "en": "Surya, the Sun god. The temple is built as his great stone chariot. It is today a protected monument rather than a place of regular worship.",
-    "hi": { "text": "सूर्य देव। मंदिर उनके विशाल पत्थर के रथ के रूप में बना है। आज यह नियमित पूजा का स्थान नहीं, बल्कि एक संरक्षित स्मारक है।", "reviewed": false },
-    "mr": { "text": "सूर्यदेव. मंदिर त्यांच्या विशाल दगडी रथाच्या रूपात बांधले आहे. आज ते नियमित पूजेचे स्थान नसून संरक्षित स्मारक आहे.", "reviewed": false }
+    "hi": {
+      "text": "सूर्य देव। मंदिर उनके विशाल पत्थर के रथ के रूप में बना है। आज यह नियमित पूजा का स्थान नहीं, बल्कि एक संरक्षित स्मारक है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सूर्यदेव. मंदिर त्यांच्या विशाल दगडी रथाच्या रूपात बांधले आहे. आज ते नियमित पूजेचे स्थान नसून संरक्षित स्मारक आहे.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "Konark is the finest surviving temple of the Kalinga style and one of India's best known monuments. Its name comes from kona (corner) and arka (sun). It is a UNESCO World Heritage Site, inscribed in 1984, and its wheel appears on the Indian 10 rupee note. The Sun has long been honoured on this coast, and many Hindus come here at the Chandrabhaga fair in the month of Magha.",
-    "hi": { "text": "कोणार्क कलिंग शैली का सबसे उत्कृष्ट बचा हुआ मंदिर और भारत के सबसे प्रसिद्ध स्मारकों में से एक है। इसका नाम कोण (कोना) और अर्क (सूर्य) से आया है। यह यूनेस्को विश्व धरोहर स्थल है, जो 1984 में सूचीबद्ध हुआ, और इसका चक्र भारतीय 10 रुपये के नोट पर दिखता है। इस तट पर सूर्य का आदर लंबे समय से होता आया है, और कई हिंदू माघ मास में चंद्रभागा मेले में यहाँ आते हैं।", "reviewed": false },
-    "mr": { "text": "कोणार्क हे कलिंग शैलीतील सर्वोत्कृष्ट टिकून राहिलेले मंदिर आणि भारतातील सर्वात प्रसिद्ध स्मारकांपैकी एक आहे. त्याचे नाव कोण (कोपरा) आणि अर्क (सूर्य) यांपासून आले आहे. हे युनेस्कोचे जागतिक वारसा स्थळ आहे, 1984 मध्ये नोंदवले गेले, आणि त्याचे चक्र भारतीय 10 रुपयांच्या नोटेवर दिसते. या किनाऱ्यावर सूर्याचा आदर फार पूर्वीपासून होतो, आणि अनेक हिंदू माघ महिन्यातील चंद्रभागा मेळ्यासाठी येथे येतात.", "reviewed": false }
+    "hi": {
+      "text": "कोणार्क कलिंग शैली का सबसे उत्कृष्ट बचा हुआ मंदिर और भारत के सबसे प्रसिद्ध स्मारकों में से एक है। इसका नाम कोण (कोना) और अर्क (सूर्य) से आया है। यह यूनेस्को विश्व धरोहर स्थल है, जो 1984 में सूचीबद्ध हुआ, और इसका चक्र भारतीय 10 रुपये के नोट पर दिखता है। इस तट पर सूर्य का आदर लंबे समय से होता आया है, और कई हिंदू माघ मास में चंद्रभागा मेले में यहाँ आते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कोणार्क हे कलिंग शैलीतील सर्वोत्कृष्ट टिकून राहिलेले मंदिर आणि भारतातील सर्वात प्रसिद्ध स्मारकांपैकी एक आहे. त्याचे नाव कोण (कोपरा) आणि अर्क (सूर्य) यांपासून आले आहे. हे युनेस्कोचे जागतिक वारसा स्थळ आहे, 1984 मध्ये नोंदवले गेले, आणि त्याचे चक्र भारतीय 10 रुपयांच्या नोटेवर दिसते. या किनाऱ्यावर सूर्याचा आदर फार पूर्वीपासून होतो, आणि अनेक हिंदू माघ महिन्यातील चंद्रभागा मेळ्यासाठी येथे येतात.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "The stone chariot of the Sun god",
-    "hi": { "text": "सूर्य देव का पत्थर का रथ", "reviewed": false },
-    "mr": { "text": "सूर्यदेवाचा दगडी रथ", "reviewed": false }
+    "hi": {
+      "text": "सूर्य देव का पत्थर का रथ",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सूर्यदेवाचा दगडी रथ",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Konark is a small town on the Odisha coast, about 35 km from Puri and 65 km from Bhubaneswar. The temple stands on a raised platform in an open, tree-lined compound, shaped as a chariot with twenty-four carved wheels and seven horses. The sanctum tower has fallen, but the audience hall (Jagamohana) rises about 39 metres, and the walls carry dense carving of dancers, musicians, animals and scenes of daily life. Most visitors come for a half day, and the beach is a short drive away.",
-    "hi": { "text": "कोणार्क ओडिशा के तट पर एक छोटा नगर है, पुरी से लगभग 35 किमी और भुवनेश्वर से 65 किमी। मंदिर खुले, वृक्षों से घिरे परिसर में ऊँचे चबूतरे पर खड़ा है, रथ के आकार में, चौबीस नक्काशीदार पहियों और सात घोड़ों के साथ। गर्भगृह का शिखर गिर चुका है, पर सभा मंडप (जगमोहन) लगभग 39 मीटर ऊँचा खड़ा है, और दीवारों पर नर्तकों, वादकों, पशुओं और दैनिक जीवन के दृश्यों की सघन नक्काशी है। अधिकांश यात्री आधे दिन के लिए आते हैं, और समुद्र तट थोड़ी ही दूरी पर है।", "reviewed": false },
-    "mr": { "text": "कोणार्क हे ओडिशाच्या किनाऱ्यावरील एक लहान नगर आहे, पुरीपासून सुमारे 35 किमी आणि भुवनेश्वरपासून 65 किमी. मंदिर खुल्या, झाडांनी वेढलेल्या परिसरात उंच चौथऱ्यावर उभे आहे, रथाच्या आकारात, चोवीस कोरीव चाके आणि सात घोड्यांसह. गर्भगृहाचा शिखर कोसळला आहे, पण सभामंडप (जगमोहन) सुमारे 39 मीटर उंच उभा आहे, आणि भिंतींवर नर्तक, वादक, प्राणी आणि दैनंदिन जीवनाच्या दृश्यांचे दाट कोरीवकाम आहे. बहुतेक यात्री अर्ध्या दिवसासाठी येतात, आणि समुद्रकिनारा थोड्या अंतरावर आहे.", "reviewed": false }
+    "hi": {
+      "text": "कोणार्क ओडिशा के तट पर एक छोटा नगर है, पुरी से लगभग 35 किमी और भुवनेश्वर से 65 किमी। मंदिर खुले, वृक्षों से घिरे परिसर में ऊँचे चबूतरे पर खड़ा है, रथ के आकार में, चौबीस नक्काशीदार पहियों और सात घोड़ों के साथ। गर्भगृह का शिखर गिर चुका है, पर सभा मंडप (जगमोहन) लगभग 39 मीटर ऊँचा खड़ा है, और दीवारों पर नर्तकों, वादकों, पशुओं और दैनिक जीवन के दृश्यों की सघन नक्काशी है। अधिकांश यात्री आधे दिन के लिए आते हैं, और समुद्र तट थोड़ी ही दूरी पर है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कोणार्क हे ओडिशाच्या किनाऱ्यावरील एक लहान नगर आहे, पुरीपासून सुमारे 35 किमी आणि भुवनेश्वरपासून 65 किमी. मंदिर खुल्या, झाडांनी वेढलेल्या परिसरात उंच चौथऱ्यावर उभे आहे, रथाच्या आकारात, चोवीस कोरीव चाके आणि सात घोड्यांसह. गर्भगृहाचा शिखर कोसळला आहे, पण सभामंडप (जगमोहन) सुमारे 39 मीटर उंच उभा आहे, आणि भिंतींवर नर्तक, वादक, प्राणी आणि दैनंदिन जीवनाच्या दृश्यांचे दाट कोरीवकाम आहे. बहुतेक यात्री अर्ध्या दिवसासाठी येतात, आणि समुद्रकिनारा थोड्या अंतरावर आहे.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "The temple was built around 1250 CE under King Narasimhadeva I of the Eastern Ganga dynasty. The design is a stone chariot of twenty-four wheels that carries the Sun across the sky, drawn by seven horses. The wheels also work as sundials. The great sanctum tower, once about 70 metres high, fell in the 19th century, and the temple was long left in sand. Sailors called it the Black Pagoda and used it as a landmark. Conservation work by the Archaeological Survey of India has since protected what remains. Tradition also links the nearby Chandrabhaga shore to Samba, son of Krishna, who is said to have worshipped Surya here.",
-    "hi": { "text": "मंदिर लगभग 1250 ईस्वी में पूर्वी गंग वंश के राजा नरसिंहदेव प्रथम के शासन में बना। चौबीस पहियों वाला पत्थर का रथ, जिसके पहिये धूपघड़ी का भी काम करते हैं, सात घोड़ों से खिंचा सूर्य को आकाश में ले जाता है। विशाल गर्भगृह शिखर, जो कभी लगभग 70 मीटर ऊँचा था, 19वीं शताब्दी में गिर गया, और मंदिर लंबे समय तक रेत में दबा रहा। नाविक इसे ब्लैक पगोडा कहते थे और दिशा-चिह्न के रूप में उपयोग करते थे। तब से भारतीय पुरातत्व सर्वेक्षण के संरक्षण कार्य ने जो बचा है उसकी रक्षा की है। परंपरा पास के चंद्रभागा तट को कृष्ण के पुत्र साम्ब से भी जोड़ती है, जिन्होंने यहाँ सूर्य की उपासना की मानी जाती है।", "reviewed": false },
-    "mr": { "text": "मंदिर सुमारे इसवी सन 1250 मध्ये पूर्व गंग वंशाच्या राजा नरसिंहदेव पहिला याच्या काळात बांधले गेले. चोवीस चाकांचा दगडी रथ, ज्याची चाके सूर्यघड्याळाचेही काम करतात, सात घोड्यांनी ओढलेला सूर्याला आकाशातून घेऊन जातो. विशाल गर्भगृह शिखर, जो कधी सुमारे 70 मीटर उंच होता, 19व्या शतकात कोसळला, आणि मंदिर दीर्घकाळ वाळूत गाडलेले राहिले. खलाशी त्याला ब्लॅक पॅगोडा म्हणत आणि दिशादर्शक खूण म्हणून वापरत. तेव्हापासून भारतीय पुरातत्त्व सर्वेक्षणाच्या संवर्धन कार्याने जे उरले आहे त्याचे रक्षण केले आहे. परंपरा जवळच्या चंद्रभागा किनाऱ्याला कृष्णपुत्र साम्बाशीही जोडते, ज्याने येथे सूर्याची उपासना केली असे मानले जाते.", "reviewed": false }
+    "hi": {
+      "text": "मंदिर लगभग 1250 ईस्वी में पूर्वी गंग वंश के राजा नरसिंहदेव प्रथम के शासन में बना। चौबीस पहियों वाला पत्थर का रथ, जिसके पहिये धूपघड़ी का भी काम करते हैं, सात घोड़ों से खिंचा सूर्य को आकाश में ले जाता है। विशाल गर्भगृह शिखर, जो कभी लगभग 70 मीटर ऊँचा था, 19वीं शताब्दी में गिर गया, और मंदिर लंबे समय तक रेत में दबा रहा। नाविक इसे ब्लैक पगोडा कहते थे और दिशा-चिह्न के रूप में उपयोग करते थे। तब से भारतीय पुरातत्व सर्वेक्षण के संरक्षण कार्य ने जो बचा है उसकी रक्षा की है। परंपरा पास के चंद्रभागा तट को कृष्ण के पुत्र साम्ब से भी जोड़ती है, जिन्होंने यहाँ सूर्य की उपासना की मानी जाती है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मंदिर सुमारे इसवी सन 1250 मध्ये पूर्व गंग वंशाच्या राजा नरसिंहदेव पहिला याच्या काळात बांधले गेले. चोवीस चाकांचा दगडी रथ, ज्याची चाके सूर्यघड्याळाचेही काम करतात, सात घोड्यांनी ओढलेला सूर्याला आकाशातून घेऊन जातो. विशाल गर्भगृह शिखर, जो कधी सुमारे 70 मीटर उंच होता, 19व्या शतकात कोसळला, आणि मंदिर दीर्घकाळ वाळूत गाडलेले राहिले. खलाशी त्याला ब्लॅक पॅगोडा म्हणत आणि दिशादर्शक खूण म्हणून वापरत. तेव्हापासून भारतीय पुरातत्त्व सर्वेक्षणाच्या संवर्धन कार्याने जे उरले आहे त्याचे रक्षण केले आहे. परंपरा जवळच्या चंद्रभागा किनाऱ्याला कृष्णपुत्र साम्बाशीही जोडते, ज्याने येथे सूर्याची उपासना केली असे मानले जाते.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From temple tradition, the UNESCO listing and Archaeological Survey of India records.",
-    "hi": { "text": "मंदिर परंपरा, यूनेस्को सूची और भारतीय पुरातत्व सर्वेक्षण के अभिलेखों से।", "reviewed": false },
-    "mr": { "text": "मंदिर परंपरा, युनेस्को यादी आणि भारतीय पुरातत्त्व सर्वेक्षणाच्या नोंदींतून.", "reviewed": false }
+    "hi": {
+      "text": "मंदिर परंपरा, यूनेस्को सूची और भारतीय पुरातत्व सर्वेक्षण के अभिलेखों से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मंदिर परंपरा, युनेस्को यादी आणि भारतीय पुरातत्त्व सर्वेक्षणाच्या नोंदींतून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [10, 11, 12, 1, 2, 3],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [11, 12, 1, 2],
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ],
         "rating": "best",
         "weather": {
           "en": "Dry and pleasant, roughly 17 to 30 degrees. The best months to walk the open compound, with the Konark Festival of dance in early December and the Chandrabhaga fair around February.",
-          "hi": { "text": "शुष्क और सुहावना, लगभग 17 से 30 डिग्री। खुले परिसर में घूमने के सर्वोत्तम महीने, दिसंबर के आरंभ में नृत्य का कोणार्क महोत्सव और फरवरी के आसपास चंद्रभागा मेला।", "reviewed": false },
-          "mr": { "text": "कोरडे आणि आल्हाददायक, सुमारे 17 ते 30 अंश. खुल्या परिसरात चालण्यासाठी सर्वोत्तम महिने, डिसेंबरच्या सुरुवातीला नृत्याचा कोणार्क महोत्सव आणि फेब्रुवारीच्या सुमारास चंद्रभागा मेळा.", "reviewed": false }
+          "hi": {
+            "text": "शुष्क और सुहावना, लगभग 17 से 30 डिग्री। खुले परिसर में घूमने के सर्वोत्तम महीने, दिसंबर के आरंभ में नृत्य का कोणार्क महोत्सव और फरवरी के आसपास चंद्रभागा मेला।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "कोरडे आणि आल्हाददायक, सुमारे 17 ते 30 अंश. खुल्या परिसरात चालण्यासाठी सर्वोत्तम महिने, डिसेंबरच्या सुरुवातीला नृत्याचा कोणार्क महोत्सव आणि फेब्रुवारीच्या सुमारास चंद्रभागा मेळा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [10, 3],
+        "months": [
+          10,
+          3
+        ],
         "rating": "good",
         "weather": {
           "en": "Warm and humid. October can bring post-monsoon showers and occasional cyclone warnings, so check the forecast. March gets hotter, so go early.",
-          "hi": { "text": "गर्म और उमस भरा। अक्टूबर में मानसून के बाद की बौछारें और कभी-कभी चक्रवात की चेतावनी आ सकती है, इसलिए पूर्वानुमान देखें। मार्च अधिक गर्म होता है, इसलिए जल्दी जाएँ।", "reviewed": false },
-          "mr": { "text": "उष्ण आणि दमट. ऑक्टोबरमध्ये मान्सूननंतरच्या सरी आणि अधूनमधून चक्रीवादळाचे इशारे येऊ शकतात, म्हणून अंदाज पाहा. मार्च जास्त उष्ण असतो, म्हणून लवकर जा.", "reviewed": false }
+          "hi": {
+            "text": "गर्म और उमस भरा। अक्टूबर में मानसून के बाद की बौछारें और कभी-कभी चक्रवात की चेतावनी आ सकती है, इसलिए पूर्वानुमान देखें। मार्च अधिक गर्म होता है, इसलिए जल्दी जाएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि दमट. ऑक्टोबरमध्ये मान्सूननंतरच्या सरी आणि अधूनमधून चक्रीवादळाचे इशारे येऊ शकतात, म्हणून अंदाज पाहा. मार्च जास्त उष्ण असतो, म्हणून लवकर जा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5],
+        "months": [
+          4,
+          5
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Hot and very humid, often 35 degrees or more, with little shade in the compound. Go at opening time and leave by late morning.",
-          "hi": { "text": "गर्म और बहुत उमस, अक्सर 35 डिग्री या अधिक, परिसर में छाया कम। खुलते ही जाएँ और देर सुबह तक लौट आएँ।", "reviewed": false },
-          "mr": { "text": "उष्ण आणि खूप दमट, अनेकदा 35 अंश किंवा अधिक, परिसरात सावली कमी. उघडताच जा आणि उशिरा सकाळपर्यंत परत या.", "reviewed": false }
+          "hi": {
+            "text": "गर्म और बहुत उमस, अक्सर 35 डिग्री या अधिक, परिसर में छाया कम। खुलते ही जाएँ और देर सुबह तक लौट आएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि खूप दमट, अनेकदा 35 अंश किंवा अधिक, परिसरात सावली कमी. उघडताच जा आणि उशिरा सकाळपर्यंत परत या.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [6, 7, 8, 9],
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Monsoon. Warm, humid and rainy, with slippery stone and heavy showers. The compound is green, and visitors are fewer.",
-          "hi": { "text": "वर्षा ऋतु। गर्म, उमस भरा और बरसाती, फिसलन भरे पत्थर और भारी बौछारों के साथ। परिसर हरा-भरा रहता है और यात्री कम होते हैं।", "reviewed": false },
-          "mr": { "text": "पावसाळा. उष्ण, दमट आणि पावसाळी, निसरडे दगड आणि जोरदार सरींसह. परिसर हिरवागार असतो आणि अभ्यागत कमी असतात.", "reviewed": false }
+          "hi": {
+            "text": "वर्षा ऋतु। गर्म, उमस भरा और बरसाती, फिसलन भरे पत्थर और भारी बौछारों के साथ। परिसर हरा-भरा रहता है और यात्री कम होते हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळा. उष्ण, दमट आणि पावसाळी, निसरडे दगड आणि जोरदार सरींसह. परिसर हिरवागार असतो आणि अभ्यागत कमी असतात.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Biju Patnaik International Airport, Bhubaneswar (BBI)", "hi": { "text": "बीजू पटनायक अंतरराष्ट्रीय हवाई अड्डा, भुवनेश्वर (BBI)", "reviewed": false }, "mr": { "text": "बिजू पटनायक आंतरराष्ट्रीय विमानतळ, भुवनेश्वर (BBI)", "reviewed": false } },
+      "nearest": {
+        "en": "Biju Patnaik International Airport, Bhubaneswar (BBI)",
+        "hi": {
+          "text": "बीजू पटनायक अंतरराष्ट्रीय हवाई अड्डा, भुवनेश्वर (BBI)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बिजू पटनायक आंतरराष्ट्रीय विमानतळ, भुवनेश्वर (BBI)",
+          "reviewed": false
+        }
+      },
       "km": 65,
       "how": {
         "en": "Direct flights from major Indian cities. Taxis and app cabs reach Konark in about 1.5 hours depending on traffic.",
-        "hi": { "text": "प्रमुख भारतीय शहरों से सीधी उड़ानें। टैक्सी और ऐप कैब से कोणार्क पहुँचने में यातायात के अनुसार लगभग डेढ़ घंटा लगता है।", "reviewed": false },
-        "mr": { "text": "भारतातील प्रमुख शहरांमधून थेट उड्डाणे. टॅक्सी आणि ॲप कॅबने वाहतुकीनुसार कोणार्कला पोहोचण्यास सुमारे दीड तास लागतो.", "reviewed": false }
+        "hi": {
+          "text": "प्रमुख भारतीय शहरों से सीधी उड़ानें। टैक्सी और ऐप कैब से कोणार्क पहुँचने में यातायात के अनुसार लगभग डेढ़ घंटा लगता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भारतातील प्रमुख शहरांमधून थेट उड्डाणे. टॅक्सी आणि ॲप कॅबने वाहतुकीनुसार कोणार्कला पोहोचण्यास सुमारे दीड तास लागतो.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Puri (PURI). Konark itself has no passenger station.", "hi": { "text": "पुरी (PURI)। कोणार्क में स्वयं यात्री स्टेशन नहीं है।", "reviewed": false }, "mr": { "text": "पुरी (PURI). कोणार्कमध्ये स्वतः प्रवासी स्थानक नाही.", "reviewed": false } },
+      "nearest": {
+        "en": "Puri (PURI). Konark itself has no passenger station.",
+        "hi": {
+          "text": "पुरी (PURI)। कोणार्क में स्वयं यात्री स्टेशन नहीं है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पुरी (PURI). कोणार्कमध्ये स्वतः प्रवासी स्थानक नाही.",
+          "reviewed": false
+        }
+      },
       "km": 35,
       "how": {
         "en": "Take a train to Puri or Bhubaneswar, then a bus, shared auto or taxi to Konark. Buses run from Puri through the day and take about an hour.",
-        "hi": { "text": "पुरी या भुवनेश्वर तक रेल लें, फिर कोणार्क के लिए बस, साझा ऑटो या टैक्सी। पुरी से दिन भर बसें चलती हैं और लगभग एक घंटा लगता है।", "reviewed": false },
-        "mr": { "text": "पुरी किंवा भुवनेश्वरपर्यंत रेल्वे घ्या, मग कोणार्कसाठी बस, शेअर ऑटो किंवा टॅक्सी. पुरीहून दिवसभर बसेस धावतात आणि सुमारे एक तास लागतो.", "reviewed": false }
+        "hi": {
+          "text": "पुरी या भुवनेश्वर तक रेल लें, फिर कोणार्क के लिए बस, साझा ऑटो या टैक्सी। पुरी से दिन भर बसें चलती हैं और लगभग एक घंटा लगता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पुरी किंवा भुवनेश्वरपर्यंत रेल्वे घ्या, मग कोणार्कसाठी बस, शेअर ऑटो किंवा टॅक्सी. पुरीहून दिवसभर बसेस धावतात आणि सुमारे एक तास लागतो.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "The scenic Marine Drive links Puri and Konark along the coast, about 35 km. From Bhubaneswar the road is about 65 km. Buses, shared taxis and private cabs are all available.",
-        "hi": { "text": "सुंदर मरीन ड्राइव तट के साथ पुरी और कोणार्क को जोड़ती है, लगभग 35 किमी। भुवनेश्वर से सड़क लगभग 65 किमी है। बसें, साझा टैक्सियाँ और निजी कैब सभी उपलब्ध हैं।", "reviewed": false },
-        "mr": { "text": "सुंदर मरीन ड्राइव किनाऱ्याने पुरी आणि कोणार्कला जोडते, सुमारे 35 किमी. भुवनेश्वरहून रस्ता सुमारे 65 किमी आहे. बसेस, शेअर टॅक्सी आणि खासगी कॅब सर्व उपलब्ध आहेत.", "reviewed": false }
+        "hi": {
+          "text": "सुंदर मरीन ड्राइव तट के साथ पुरी और कोणार्क को जोड़ती है, लगभग 35 किमी। भुवनेश्वर से सड़क लगभग 65 किमी है। बसें, साझा टैक्सियाँ और निजी कैब सभी उपलब्ध हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुंदर मरीन ड्राइव किनाऱ्याने पुरी आणि कोणार्कला जोडते, सुमारे 35 किमी. भुवनेश्वरहून रस्ता सुमारे 65 किमी आहे. बसेस, शेअर टॅक्सी आणि खासगी कॅब सर्व उपलब्ध आहेत.",
+          "reviewed": false
+        }
       },
       "km": 35
     }
   },
   "localTransport": {
     "en": "The town is small and the temple, museum and market are within a short walk or auto ride of each other. Autos and e-rickshaws run to the beach. Most visitors come on a day trip by taxi from Puri or Bhubaneswar, so agree the waiting time and fare before you start.",
-    "hi": { "text": "नगर छोटा है और मंदिर, संग्रहालय और बाज़ार एक-दूसरे से पैदल या ऑटो की छोटी दूरी पर हैं। ऑटो और ई-रिक्शा समुद्र तट तक चलते हैं। अधिकांश यात्री पुरी या भुवनेश्वर से टैक्सी में एक दिन की यात्रा पर आते हैं, इसलिए चलने से पहले प्रतीक्षा समय और किराया तय करें।", "reviewed": false },
-    "mr": { "text": "नगर लहान आहे आणि मंदिर, संग्रहालय आणि बाजार एकमेकांपासून चालत किंवा ऑटोच्या लहान अंतरावर आहेत. ऑटो आणि ई-रिक्षा समुद्रकिनाऱ्यापर्यंत धावतात. बहुतेक अभ्यागत पुरी किंवा भुवनेश्वरहून टॅक्सीने एका दिवसाच्या सहलीवर येतात, म्हणून निघण्यापूर्वी थांबण्याची वेळ आणि भाडे ठरवा.", "reviewed": false }
+    "hi": {
+      "text": "नगर छोटा है और मंदिर, संग्रहालय और बाज़ार एक-दूसरे से पैदल या ऑटो की छोटी दूरी पर हैं। ऑटो और ई-रिक्शा समुद्र तट तक चलते हैं। अधिकांश यात्री पुरी या भुवनेश्वर से टैक्सी में एक दिन की यात्रा पर आते हैं, इसलिए चलने से पहले प्रतीक्षा समय और किराया तय करें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "नगर लहान आहे आणि मंदिर, संग्रहालय आणि बाजार एकमेकांपासून चालत किंवा ऑटोच्या लहान अंतरावर आहेत. ऑटो आणि ई-रिक्षा समुद्रकिनाऱ्यापर्यंत धावतात. बहुतेक अभ्यागत पुरी किंवा भुवनेश्वरहून टॅक्सीने एका दिवसाच्या सहलीवर येतात, म्हणून निघण्यापूर्वी थांबण्याची वेळ आणि भाडे ठरवा.",
+      "reviewed": false
+    }
   },
   "festivals": [],
   "nearby": [
     {
-      "name": { "en": "Chandrabhaga Beach", "hi": { "text": "चंद्रभागा समुद्र तट", "reviewed": false }, "mr": { "text": "चंद्रभागा समुद्रकिनारा", "reviewed": false } },
+      "name": {
+        "en": "Chandrabhaga Beach",
+        "hi": {
+          "text": "चंद्रभागा समुद्र तट",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चंद्रभागा समुद्रकिनारा",
+          "reviewed": false
+        }
+      },
       "km": 3,
-      "note": { "en": "A broad quiet beach, site of the Chandrabhaga fair in Magha and of a sand art festival in December.", "hi": { "text": "चौड़ा शांत समुद्र तट, माघ में चंद्रभागा मेले और दिसंबर में रेत कला महोत्सव का स्थल।", "reviewed": false }, "mr": { "text": "रुंद शांत समुद्रकिनारा, माघमधील चंद्रभागा मेळ्याचे आणि डिसेंबरमधील वाळू कला महोत्सवाचे स्थळ.", "reviewed": false } }
+      "note": {
+        "en": "A broad quiet beach, site of the Chandrabhaga fair in Magha and of a sand art festival in December.",
+        "hi": {
+          "text": "चौड़ा शांत समुद्र तट, माघ में चंद्रभागा मेले और दिसंबर में रेत कला महोत्सव का स्थल।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रुंद शांत समुद्रकिनारा, माघमधील चंद्रभागा मेळ्याचे आणि डिसेंबरमधील वाळू कला महोत्सवाचे स्थळ.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Ramachandi Temple and beach", "hi": { "text": "रामचंडी मंदिर और तट", "reviewed": false }, "mr": { "text": "रामचंडी मंदिर आणि किनारा", "reviewed": false } },
+      "name": {
+        "en": "Ramachandi Temple and beach",
+        "hi": {
+          "text": "रामचंडी मंदिर और तट",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रामचंडी मंदिर आणि किनारा",
+          "reviewed": false
+        }
+      },
       "km": 7,
-      "note": { "en": "A small shrine to the goddess Ramachandi at the mouth of the Kushabhadra river, on the Marine Drive.", "hi": { "text": "कुशभद्रा नदी के मुहाने पर देवी रामचंडी का छोटा मंदिर, मरीन ड्राइव पर।", "reviewed": false }, "mr": { "text": "कुशभद्रा नदीच्या मुखाशी देवी रामचंडीचे लहान मंदिर, मरीन ड्राइववर.", "reviewed": false } }
+      "note": {
+        "en": "A small shrine to the goddess Ramachandi at the mouth of the Kushabhadra river, on the Marine Drive.",
+        "hi": {
+          "text": "कुशभद्रा नदी के मुहाने पर देवी रामचंडी का छोटा मंदिर, मरीन ड्राइव पर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कुशभद्रा नदीच्या मुखाशी देवी रामचंडीचे लहान मंदिर, मरीन ड्राइववर.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Puri (Jagannath temple)", "hi": { "text": "पुरी (जगन्नाथ मंदिर)", "reviewed": false }, "mr": { "text": "पुरी (जगन्नाथ मंदिर)", "reviewed": false } },
+      "name": {
+        "en": "Puri (Jagannath temple)",
+        "hi": {
+          "text": "पुरी (जगन्नाथ मंदिर)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पुरी (जगन्नाथ मंदिर)",
+          "reviewed": false
+        }
+      },
       "km": 35,
-      "note": { "en": "The Char Dham city and the Jagannath temple, which admits only Hindus. The Grand Road and beach are open to all.", "hi": { "text": "चार धाम नगर और जगन्नाथ मंदिर, जिसमें केवल हिंदुओं को प्रवेश है। ग्रैंड रोड और समुद्र तट सभी के लिए खुले हैं।", "reviewed": false }, "mr": { "text": "चार धाम नगर आणि जगन्नाथ मंदिर, ज्यात फक्त हिंदूंना प्रवेश आहे. ग्रँड रोड आणि समुद्रकिनारा सर्वांसाठी खुले आहेत.", "reviewed": false } }
+      "note": {
+        "en": "The Char Dham city and the Jagannath temple, which admits only Hindus. The Grand Road and beach are open to all.",
+        "hi": {
+          "text": "चार धाम नगर और जगन्नाथ मंदिर, जिसमें केवल हिंदुओं को प्रवेश है। ग्रैंड रोड और समुद्र तट सभी के लिए खुले हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चार धाम नगर आणि जगन्नाथ मंदिर, ज्यात फक्त हिंदूंना प्रवेश आहे. ग्रँड रोड आणि समुद्रकिनारा सर्वांसाठी खुले आहेत.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Bhubaneswar temples", "hi": { "text": "भुवनेश्वर के मंदिर", "reviewed": false }, "mr": { "text": "भुवनेश्वरची मंदिरे", "reviewed": false } },
+      "name": {
+        "en": "Bhubaneswar temples",
+        "hi": {
+          "text": "भुवनेश्वर के मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भुवनेश्वरची मंदिरे",
+          "reviewed": false
+        }
+      },
       "km": 65,
-      "note": { "en": "The Lingaraj and Mukteswara temples, other great examples of Kalinga architecture.", "hi": { "text": "लिंगराज और मुक्तेश्वर मंदिर, कलिंग वास्तुकला के अन्य महान उदाहरण।", "reviewed": false }, "mr": { "text": "लिंगराज आणि मुक्तेश्वर मंदिरे, कलिंग स्थापत्याची इतर महान उदाहरणे.", "reviewed": false } }
+      "note": {
+        "en": "The Lingaraj and Mukteswara temples, other great examples of Kalinga architecture.",
+        "hi": {
+          "text": "लिंगराज और मुक्तेश्वर मंदिर, कलिंग वास्तुकला के अन्य महान उदाहरण।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लिंगराज आणि मुक्तेश्वर मंदिरे, कलिंग स्थापत्याची इतर महान उदाहरणे.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "The Sun Temple at Konark", "hi": { "text": "कोणार्क का सूर्य मंदिर", "reviewed": false }, "mr": { "text": "कोणार्कचे सूर्य मंदिर", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Konark (Sun Temple)",
+        "hi": {
+          "text": "कोणार्क (सूर्य मंदिर)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कोणार्क (सूर्य मंदिर)",
+          "reviewed": false
+        }
+      },
+      "credit": "Joydeep Chakraborty, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Konark_Sun_Temple_Puri_district,_Odisha,_India_3.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Konark (Sun Temple)",
+        "hi": {
+          "text": "कोणार्क (सूर्य मंदिर)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कोणार्क (सूर्य मंदिर)",
+          "reviewed": false
+        }
+      },
+      "credit": "Joydeep, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Wheel_engraved_in_the_13th_century_built_Konark_Sun_Temple_in_Orissa,_India.jpg"
     }
   ],
   "sources": [
-    { "label": "Konark Sun Temple, Wikipedia", "url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple" },
-    { "label": "Sun Temple, Konark, UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/246" },
-    { "label": "Archaeological Survey of India", "url": "https://asi.nic.in" },
-    { "label": "Odisha Tourism", "url": "https://odishatourism.gov.in" }
+    {
+      "label": "Konark Sun Temple, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple"
+    },
+    {
+      "label": "Sun Temple, Konark, UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/246"
+    },
+    {
+      "label": "Archaeological Survey of India",
+      "url": "https://asi.nic.in"
+    },
+    {
+      "label": "Odisha Tourism",
+      "url": "https://odishatourism.gov.in"
+    }
   ]
 }

@@ -5,153 +5,409 @@
   "version": "2026-11-21.1",
   "status": "draft",
   "id": "vaishno-devi",
-  "name": { "en": "Vaishno Devi (Katra)", "hi": { "text": "वैष्णो देवी (कटरा)", "reviewed": false }, "mr": { "text": "वैष्णो देवी (कटरा)", "reviewed": false } },
-  "state": { "en": "Jammu and Kashmir", "hi": { "text": "जम्मू और कश्मीर", "reviewed": false }, "mr": { "text": "जम्मू आणि काश्मीर", "reviewed": false } },
+  "name": {
+    "en": "Vaishno Devi (Katra)",
+    "hi": {
+      "text": "वैष्णो देवी (कटरा)",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "वैष्णो देवी (कटरा)",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Jammu and Kashmir",
+    "hi": {
+      "text": "जम्मू और कश्मीर",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "जम्मू आणि काश्मीर",
+      "reviewed": false
+    }
+  },
   "stateKey": "jammu-and-kashmir",
-  "traditions": ["hindu"],
+  "traditions": [
+    "hindu"
+  ],
   "deity": {
     "en": "Mata Vaishno Devi, worshipped in the Holy Cave as three natural rock forms (pindis) that tradition links to Mahakali, Mahalakshmi and Mahasaraswati.",
-    "hi": { "text": "माता वैष्णो देवी, जिनकी उपासना पवित्र गुफा में तीन प्राकृतिक शिला रूपों (पिंडियों) के रूप में होती है, जिन्हें परंपरा महाकाली, महालक्ष्मी और महासरस्वती से जोड़ती है।", "reviewed": false },
-    "mr": { "text": "माता वैष्णो देवी, ज्यांची उपासना पवित्र गुहेत तीन नैसर्गिक शिळारूपांच्या (पिंडी) रूपात होते, ज्यांना परंपरा महाकाली, महालक्ष्मी आणि महासरस्वतीशी जोडते.", "reviewed": false }
+    "hi": {
+      "text": "माता वैष्णो देवी, जिनकी उपासना पवित्र गुफा में तीन प्राकृतिक शिला रूपों (पिंडियों) के रूप में होती है, जिन्हें परंपरा महाकाली, महालक्ष्मी और महासरस्वती से जोड़ती है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "माता वैष्णो देवी, ज्यांची उपासना पवित्र गुहेत तीन नैसर्गिक शिळारूपांच्या (पिंडी) रूपात होते, ज्यांना परंपरा महाकाली, महालक्ष्मी आणि महासरस्वतीशी जोडते.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "Vaishno Devi is among the most visited Hindu shrines in India, with some nine to ten million pilgrims in a year according to recent figures. Devotees walk or ride up the Trikuta hills from Katra to the Holy Cave, calling out Jai Mata Di along the way. The shrine is run by the Shri Mata Vaishno Devi Shrine Board.",
-    "hi": { "text": "वैष्णो देवी भारत के सबसे अधिक दर्शन किए जाने वाले हिंदू तीर्थों में है, जहाँ हाल के आँकड़ों के अनुसार वर्ष में लगभग 90 लाख से 1 करोड़ यात्री आते हैं। श्रद्धालु कटरा से त्रिकूट पर्वत पर पैदल या सवारी से पवित्र गुफा तक जाते हैं और रास्ते भर जय माता दी का उद्घोष करते हैं। तीर्थ का संचालन श्री माता वैष्णो देवी श्राइन बोर्ड करता है।", "reviewed": false },
-    "mr": { "text": "वैष्णो देवी हे भारतातील सर्वाधिक दर्शन घेतल्या जाणाऱ्या हिंदू तीर्थांपैकी एक आहे, जिथे अलीकडील आकडेवारीनुसार वर्षाला सुमारे 90 लाख ते 1 कोटी यात्रेकरू येतात. भाविक कटरापासून त्रिकूट डोंगरावर चालत किंवा वाहनाने पवित्र गुहेपर्यंत जातात आणि वाटेत जय माता दी चा जयघोष करतात. तीर्थाचे संचालन श्री माता वैष्णो देवी श्राइन बोर्ड करते.", "reviewed": false }
+    "hi": {
+      "text": "वैष्णो देवी भारत के सबसे अधिक दर्शन किए जाने वाले हिंदू तीर्थों में है, जहाँ हाल के आँकड़ों के अनुसार वर्ष में लगभग 90 लाख से 1 करोड़ यात्री आते हैं। श्रद्धालु कटरा से त्रिकूट पर्वत पर पैदल या सवारी से पवित्र गुफा तक जाते हैं और रास्ते भर जय माता दी का उद्घोष करते हैं। तीर्थ का संचालन श्री माता वैष्णो देवी श्राइन बोर्ड करता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "वैष्णो देवी हे भारतातील सर्वाधिक दर्शन घेतल्या जाणाऱ्या हिंदू तीर्थांपैकी एक आहे, जिथे अलीकडील आकडेवारीनुसार वर्षाला सुमारे 90 लाख ते 1 कोटी यात्रेकरू येतात. भाविक कटरापासून त्रिकूट डोंगरावर चालत किंवा वाहनाने पवित्र गुहेपर्यंत जातात आणि वाटेत जय माता दी चा जयघोष करतात. तीर्थाचे संचालन श्री माता वैष्णो देवी श्राइन बोर्ड करते.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "The Holy Cave in the Trikuta hills",
-    "hi": { "text": "त्रिकूट पर्वत की पवित्र गुफा", "reviewed": false },
-    "mr": { "text": "त्रिकूट डोंगरातील पवित्र गुहा", "reviewed": false }
+    "hi": {
+      "text": "त्रिकूट पर्वत की पवित्र गुफा",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "त्रिकूट डोंगरातील पवित्र गुहा",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Katra, at about 875 metres, is the base town. From there a paved and lit route of about 12 to 14 km climbs to the Bhawan, passing Banganga, Charan Paduka and Ardhkuwari. Pilgrims register at Katra before they start. Ponies, palanquins, battery cars and helicopters are options for those who cannot walk the whole way. Plan time, keep your pace easy and expect crowds in peak months.",
-    "hi": { "text": "कटरा लगभग 875 मीटर पर आधार नगर है। वहाँ से लगभग 12 से 14 किमी का पक्का और रोशनी वाला मार्ग भवन तक चढ़ता है, जो बाणगंगा, चरण पादुका और अर्धकुँवारी से होकर गुज़रता है। तीर्थयात्री शुरू करने से पहले कटरा में पंजीकरण करते हैं। जो पूरा रास्ता पैदल न चल सकें उनके लिए घोड़े, पालकी, बैटरी कार और हेलीकॉप्टर के विकल्प हैं। समय का नियोजन करें, अपनी गति सहज रखें और व्यस्त महीनों में भीड़ की अपेक्षा रखें।", "reviewed": false },
-    "mr": { "text": "कटरा सुमारे 875 मीटर उंचीवरील पायथ्याचे नगर आहे. तेथून सुमारे 12 ते 14 किमीचा पक्का आणि दिवे असलेला मार्ग भवनापर्यंत चढतो, जो बाणगंगा, चरण पादुका आणि अर्धकुवारीवरून जातो. यात्रेकरू सुरू करण्यापूर्वी कटरा येथे नोंदणी करतात. जे संपूर्ण मार्ग चालू शकत नाहीत त्यांच्यासाठी घोडे, पालखी, बॅटरी कार आणि हेलिकॉप्टरचे पर्याय आहेत. वेळेचे नियोजन करा, आपली गती सहज ठेवा आणि गर्दीच्या महिन्यांत गर्दीची अपेक्षा ठेवा.", "reviewed": false }
+    "hi": {
+      "text": "कटरा लगभग 875 मीटर पर आधार नगर है। वहाँ से लगभग 12 से 14 किमी का पक्का और रोशनी वाला मार्ग भवन तक चढ़ता है, जो बाणगंगा, चरण पादुका और अर्धकुँवारी से होकर गुज़रता है। तीर्थयात्री शुरू करने से पहले कटरा में पंजीकरण करते हैं। जो पूरा रास्ता पैदल न चल सकें उनके लिए घोड़े, पालकी, बैटरी कार और हेलीकॉप्टर के विकल्प हैं। समय का नियोजन करें, अपनी गति सहज रखें और व्यस्त महीनों में भीड़ की अपेक्षा रखें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कटरा सुमारे 875 मीटर उंचीवरील पायथ्याचे नगर आहे. तेथून सुमारे 12 ते 14 किमीचा पक्का आणि दिवे असलेला मार्ग भवनापर्यंत चढतो, जो बाणगंगा, चरण पादुका आणि अर्धकुवारीवरून जातो. यात्रेकरू सुरू करण्यापूर्वी कटरा येथे नोंदणी करतात. जे संपूर्ण मार्ग चालू शकत नाहीत त्यांच्यासाठी घोडे, पालखी, बॅटरी कार आणि हेलिकॉप्टरचे पर्याय आहेत. वेळेचे नियोजन करा, आपली गती सहज ठेवा आणि गर्दीच्या महिन्यांत गर्दीची अपेक्षा ठेवा.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "According to tradition, the goddess took the form of Vaishnavi and meditated in a cave on the Trikuta hill. The traditional account also tells of the pursuit by Bhairon Nath, and why pilgrims later visit his temple after the main darshan. Ardhkuwari, the cave where the goddess is said to have stayed for nine months, is a stop on the way. These are traditional accounts, told in different versions by different families.",
-    "hi": { "text": "परंपरा के अनुसार देवी ने वैष्णवी रूप धारण कर त्रिकूट पर्वत की एक गुफा में तप किया। परंपरागत कथा में भैरों नाथ के पीछा करने का भी वर्णन है, और इसी कारण यात्री मुख्य दर्शन के बाद उनके मंदिर भी जाते हैं। अर्धकुँवारी, वह गुफा जहाँ देवी ने नौ माह निवास किया बताया जाता है, मार्ग का एक पड़ाव है। ये परंपरागत कथाएँ हैं जो अलग-अलग परिवारों में अलग रूपों में सुनाई जाती हैं।", "reviewed": false },
-    "mr": { "text": "परंपरेनुसार देवीने वैष्णवी रूप धारण करून त्रिकूट डोंगरावरील गुहेत तप केले. पारंपरिक कथेत भैरोनाथाने केलेल्या पाठलागाचाही उल्लेख आहे, आणि त्यामुळेच यात्रेकरू मुख्य दर्शनानंतर त्याच्या मंदिरालाही जातात. अर्धकुवारी, जिथे देवीने नऊ महिने निवास केल्याचे सांगितले जाते ती गुहा, मार्गावरील एक थांबा आहे. या पारंपरिक कथा आहेत आणि वेगवेगळ्या कुटुंबांत वेगवेगळ्या रूपांत सांगितल्या जातात.", "reviewed": false }
+    "hi": {
+      "text": "परंपरा के अनुसार देवी ने वैष्णवी रूप धारण कर त्रिकूट पर्वत की एक गुफा में तप किया। परंपरागत कथा में भैरों नाथ के पीछा करने का भी वर्णन है, और इसी कारण यात्री मुख्य दर्शन के बाद उनके मंदिर भी जाते हैं। अर्धकुँवारी, वह गुफा जहाँ देवी ने नौ माह निवास किया बताया जाता है, मार्ग का एक पड़ाव है। ये परंपरागत कथाएँ हैं जो अलग-अलग परिवारों में अलग रूपों में सुनाई जाती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "परंपरेनुसार देवीने वैष्णवी रूप धारण करून त्रिकूट डोंगरावरील गुहेत तप केले. पारंपरिक कथेत भैरोनाथाने केलेल्या पाठलागाचाही उल्लेख आहे, आणि त्यामुळेच यात्रेकरू मुख्य दर्शनानंतर त्याच्या मंदिरालाही जातात. अर्धकुवारी, जिथे देवीने नऊ महिने निवास केल्याचे सांगितले जाते ती गुहा, मार्गावरील एक थांबा आहे. या पारंपरिक कथा आहेत आणि वेगवेगळ्या कुटुंबांत वेगवेगळ्या रूपांत सांगितल्या जातात.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From traditional accounts of the shrine and the Shrine Board's published history.",
-    "hi": { "text": "तीर्थ के परंपरागत वृत्तांतों और श्राइन बोर्ड के प्रकाशित इतिहास से।", "reviewed": false },
-    "mr": { "text": "तीर्थाच्या पारंपरिक वृत्तांतांतून आणि श्राइन बोर्डाच्या प्रकाशित इतिहासातून.", "reviewed": false }
+    "hi": {
+      "text": "तीर्थ के परंपरागत वृत्तांतों और श्राइन बोर्ड के प्रकाशित इतिहास से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "तीर्थाच्या पारंपरिक वृत्तांतांतून आणि श्राइन बोर्डाच्या प्रकाशित इतिहासातून.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [3, 4, 10, 11, 12, 1, 2],
+    "months": [
+      3,
+      4,
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
     "seasons": [
       {
-        "months": [3, 4, 10, 11],
+        "months": [
+          3,
+          4,
+          10,
+          11
+        ],
         "rating": "best",
         "weather": {
           "en": "Cool to mild, roughly 10 to 28 degrees at Katra, and cooler higher up. The most comfortable months for the climb. Chaitra Navratri in spring and Sharad Navratri in autumn bring very large crowds.",
-          "hi": { "text": "ठंडा से सुहावना, कटरा में लगभग 10 से 28 डिग्री, और ऊपर अधिक ठंडा। चढ़ाई के लिए सबसे आरामदायक महीने। वसंत में चैत्र नवरात्र और शरद में शारदीय नवरात्र पर बहुत भारी भीड़ रहती है।", "reviewed": false },
-          "mr": { "text": "थंड ते सौम्य, कटऱ्यात सुमारे 10 ते 28 अंश, आणि वर आणखी थंड. चढाईसाठी सर्वात आरामदायी महिने. वसंतातील चैत्र नवरात्र आणि शरद ऋतूतील शारदीय नवरात्रीला खूप मोठी गर्दी असते.", "reviewed": false }
+          "hi": {
+            "text": "ठंडा से सुहावना, कटरा में लगभग 10 से 28 डिग्री, और ऊपर अधिक ठंडा। चढ़ाई के लिए सबसे आरामदायक महीने। वसंत में चैत्र नवरात्र और शरद में शारदीय नवरात्र पर बहुत भारी भीड़ रहती है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंड ते सौम्य, कटऱ्यात सुमारे 10 ते 28 अंश, आणि वर आणखी थंड. चढाईसाठी सर्वात आरामदायी महिने. वसंतातील चैत्र नवरात्र आणि शरद ऋतूतील शारदीय नवरात्रीला खूप मोठी गर्दी असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [12, 1, 2],
+        "months": [
+          12,
+          1,
+          2
+        ],
         "rating": "good",
         "weather": {
           "en": "Cold, with lows near 7 to 9 degrees at Katra and colder at the Bhawan, where snow can fall. Fog around Jammu can delay trains and flights. Carry warm layers. The route is quieter, though services can pause in bad weather.",
-          "hi": { "text": "ठंड, कटरा में न्यूनतम तापमान लगभग 7 से 9 डिग्री और भवन पर अधिक ठंड, जहाँ बर्फ़ गिर सकती है। जम्मू के आसपास कोहरे से रेल और उड़ानों में देरी हो सकती है। गर्म कपड़े रखें। मार्ग शांत रहता है, पर खराब मौसम में सेवाएँ रुक सकती हैं।", "reviewed": false },
-          "mr": { "text": "थंडी, कटऱ्यात किमान तापमान सुमारे 7 ते 9 अंश आणि भवनावर अधिक थंडी, जिथे बर्फवृष्टी होऊ शकते. जम्मूच्या आसपासच्या धुक्यामुळे रेल्वे आणि विमानांना उशीर होऊ शकतो. उबदार कपडे ठेवा. मार्ग शांत असतो, पण खराब हवामानात सेवा थांबू शकतात.", "reviewed": false }
+          "hi": {
+            "text": "ठंड, कटरा में न्यूनतम तापमान लगभग 7 से 9 डिग्री और भवन पर अधिक ठंड, जहाँ बर्फ़ गिर सकती है। जम्मू के आसपास कोहरे से रेल और उड़ानों में देरी हो सकती है। गर्म कपड़े रखें। मार्ग शांत रहता है, पर खराब मौसम में सेवाएँ रुक सकती हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंडी, कटऱ्यात किमान तापमान सुमारे 7 ते 9 अंश आणि भवनावर अधिक थंडी, जिथे बर्फवृष्टी होऊ शकते. जम्मूच्या आसपासच्या धुक्यामुळे रेल्वे आणि विमानांना उशीर होऊ शकतो. उबदार कपडे ठेवा. मार्ग शांत असतो, पण खराब हवामानात सेवा थांबू शकतात.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [5, 6],
+        "months": [
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Hot, with daytime highs around 34 to 35 degrees at Katra, and school-holiday crowds. Start in the evening or at night, rest often and carry water.",
-          "hi": { "text": "गर्मी, कटरा में दिन का तापमान लगभग 34 से 35 डिग्री, और स्कूल की छुट्टियों की भीड़। शाम या रात में चढ़ाई शुरू करें, बार-बार रुकें और पानी साथ रखें।", "reviewed": false },
-          "mr": { "text": "उष्णता, कटऱ्यात दिवसाचे तापमान सुमारे 34 ते 35 अंश, आणि शाळेच्या सुट्ट्यांची गर्दी. संध्याकाळी किंवा रात्री चढाई सुरू करा, वारंवार थांबा आणि पाणी सोबत ठेवा.", "reviewed": false }
+          "hi": {
+            "text": "गर्मी, कटरा में दिन का तापमान लगभग 34 से 35 डिग्री, और स्कूल की छुट्टियों की भीड़। शाम या रात में चढ़ाई शुरू करें, बार-बार रुकें और पानी साथ रखें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्णता, कटऱ्यात दिवसाचे तापमान सुमारे 34 ते 35 अंश, आणि शाळेच्या सुट्ट्यांची गर्दी. संध्याकाळी किंवा रात्री चढाई सुरू करा, वारंवार थांबा आणि पाणी सोबत ठेवा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Monsoon, with very heavy rain, especially in July and August. Landslides and wet, slippery paths can pause the yatra at short notice. Check the Shrine Board's advisories before you travel.",
-          "hi": { "text": "वर्षा ऋतु, विशेषकर जुलाई और अगस्त में बहुत भारी वर्षा। भूस्खलन और गीले, फिसलन भरे रास्तों से यात्रा अचानक रोकनी पड़ सकती है। यात्रा से पहले श्राइन बोर्ड की सूचनाएँ देखें।", "reviewed": false },
-          "mr": { "text": "पावसाळा, विशेषतः जुलै आणि ऑगस्टमध्ये खूप जोरदार पाऊस. भूस्खलन आणि ओल्या, निसरड्या मार्गांमुळे यात्रा अचानक थांबवावी लागू शकते. प्रवासापूर्वी श्राइन बोर्डाच्या सूचना तपासा.", "reviewed": false }
+          "hi": {
+            "text": "वर्षा ऋतु, विशेषकर जुलाई और अगस्त में बहुत भारी वर्षा। भूस्खलन और गीले, फिसलन भरे रास्तों से यात्रा अचानक रोकनी पड़ सकती है। यात्रा से पहले श्राइन बोर्ड की सूचनाएँ देखें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळा, विशेषतः जुलै आणि ऑगस्टमध्ये खूप जोरदार पाऊस. भूस्खलन आणि ओल्या, निसरड्या मार्गांमुळे यात्रा अचानक थांबवावी लागू शकते. प्रवासापूर्वी श्राइन बोर्डाच्या सूचना तपासा.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Jammu Airport (IXJ)", "hi": { "text": "जम्मू हवाई अड्डा (IXJ)", "reviewed": false }, "mr": { "text": "जम्मू विमानतळ (IXJ)", "reviewed": false } },
+      "nearest": {
+        "en": "Jammu Airport (IXJ)",
+        "hi": {
+          "text": "जम्मू हवाई अड्डा (IXJ)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जम्मू विमानतळ (IXJ)",
+          "reviewed": false
+        }
+      },
       "km": 50,
       "how": {
         "en": "Flights from Delhi, Srinagar and a few other cities. Taxis and buses cover the roughly 50 km to Katra in about 1.5 to 2 hours. Helicopter flights also run from Jammu to a helipad near the shrine route. Check current schedules.",
-        "hi": { "text": "दिल्ली, श्रीनगर और कुछ अन्य शहरों से उड़ानें। टैक्सी और बसें लगभग 50 किमी की दूरी कटरा तक लगभग 1.5 से 2 घंटे में तय करती हैं। जम्मू से तीर्थ मार्ग के पास के हेलीपैड तक हेलीकॉप्टर सेवा भी चलती है। वर्तमान समय-सारिणी जाँचें।", "reviewed": false },
-        "mr": { "text": "दिल्ली, श्रीनगर आणि इतर काही शहरांतून उड्डाणे. टॅक्सी आणि बसेस सुमारे 50 किमी अंतर कटऱ्यापर्यंत साधारण दीड ते दोन तासांत पार करतात. जम्मूहून तीर्थ मार्गाजवळील हेलिपॅडपर्यंत हेलिकॉप्टर सेवाही चालते. सध्याचे वेळापत्रक तपासा.", "reviewed": false }
+        "hi": {
+          "text": "दिल्ली, श्रीनगर और कुछ अन्य शहरों से उड़ानें। टैक्सी और बसें लगभग 50 किमी की दूरी कटरा तक लगभग 1.5 से 2 घंटे में तय करती हैं। जम्मू से तीर्थ मार्ग के पास के हेलीपैड तक हेलीकॉप्टर सेवा भी चलती है। वर्तमान समय-सारिणी जाँचें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिल्ली, श्रीनगर आणि इतर काही शहरांतून उड्डाणे. टॅक्सी आणि बसेस सुमारे 50 किमी अंतर कटऱ्यापर्यंत साधारण दीड ते दोन तासांत पार करतात. जम्मूहून तीर्थ मार्गाजवळील हेलिपॅडपर्यंत हेलिकॉप्टर सेवाही चालते. सध्याचे वेळापत्रक तपासा.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Shri Mata Vaishno Devi Katra (SVDK)", "hi": { "text": "श्री माता वैष्णो देवी कटरा (SVDK)", "reviewed": false }, "mr": { "text": "श्री माता वैष्णो देवी कटरा (SVDK)", "reviewed": false } },
+      "nearest": {
+        "en": "Shri Mata Vaishno Devi Katra (SVDK)",
+        "hi": {
+          "text": "श्री माता वैष्णो देवी कटरा (SVDK)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "श्री माता वैष्णो देवी कटरा (SVDK)",
+          "reviewed": false
+        }
+      },
       "km": 2,
       "how": {
         "en": "Katra has its own railway station on the Jammu to Baramulla line, with trains from Delhi and other cities. Jammu Tawi (JAT) is the larger railhead, about 42 km away by road. The registration counters and the start of the route are close to Katra station.",
-        "hi": { "text": "कटरा का अपना रेलवे स्टेशन जम्मू-बारामूला लाइन पर है, जहाँ दिल्ली और अन्य शहरों से गाड़ियाँ आती हैं। जम्मू तवी (JAT) बड़ा रेलवे स्टेशन है, जो सड़क से लगभग 42 किमी दूर है। पंजीकरण काउंटर और मार्ग का आरंभ कटरा स्टेशन के पास है।", "reviewed": false },
-        "mr": { "text": "कटऱ्याचे स्वतःचे रेल्वे स्थानक जम्मू-बारामुल्ला मार्गावर आहे, जिथे दिल्ली आणि इतर शहरांतून गाड्या येतात. जम्मू तवी (JAT) हे मोठे रेल्वे स्थानक सडकेने सुमारे 42 किमी अंतरावर आहे. नोंदणी काउंटर आणि मार्गाची सुरुवात कटरा स्थानकाजवळ आहे.", "reviewed": false }
+        "hi": {
+          "text": "कटरा का अपना रेलवे स्टेशन जम्मू-बारामूला लाइन पर है, जहाँ दिल्ली और अन्य शहरों से गाड़ियाँ आती हैं। जम्मू तवी (JAT) बड़ा रेलवे स्टेशन है, जो सड़क से लगभग 42 किमी दूर है। पंजीकरण काउंटर और मार्ग का आरंभ कटरा स्टेशन के पास है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कटऱ्याचे स्वतःचे रेल्वे स्थानक जम्मू-बारामुल्ला मार्गावर आहे, जिथे दिल्ली आणि इतर शहरांतून गाड्या येतात. जम्मू तवी (JAT) हे मोठे रेल्वे स्थानक सडकेने सुमारे 42 किमी अंतरावर आहे. नोंदणी काउंटर आणि मार्गाची सुरुवात कटरा स्थानकाजवळ आहे.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "Katra is about 42 km from Jammu on a good road, with frequent buses and taxis. Delhi is roughly 600 km and Amritsar roughly 190 km away. Private vehicles stop at designated parking near Katra.",
-        "hi": { "text": "कटरा जम्मू से अच्छी सड़क पर लगभग 42 किमी दूर है, जहाँ बसें और टैक्सियाँ बार-बार चलती हैं। दिल्ली लगभग 600 किमी और अमृतसर लगभग 190 किमी दूर है। निजी वाहन कटरा के पास निर्धारित पार्किंग तक जाते हैं।", "reviewed": false },
-        "mr": { "text": "कटरा जम्मूपासून चांगल्या रस्त्याने सुमारे 42 किमी अंतरावर आहे, जिथे बसेस आणि टॅक्सी वारंवार धावतात. दिल्ली सुमारे 600 किमी आणि अमृतसर सुमारे 190 किमी अंतरावर आहे. खासगी वाहने कटऱ्याजवळील निर्धारित पार्किंगपर्यंत जातात.", "reviewed": false }
+        "hi": {
+          "text": "कटरा जम्मू से अच्छी सड़क पर लगभग 42 किमी दूर है, जहाँ बसें और टैक्सियाँ बार-बार चलती हैं। दिल्ली लगभग 600 किमी और अमृतसर लगभग 190 किमी दूर है। निजी वाहन कटरा के पास निर्धारित पार्किंग तक जाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कटरा जम्मूपासून चांगल्या रस्त्याने सुमारे 42 किमी अंतरावर आहे, जिथे बसेस आणि टॅक्सी वारंवार धावतात. दिल्ली सुमारे 600 किमी आणि अमृतसर सुमारे 190 किमी अंतरावर आहे. खासगी वाहने कटऱ्याजवळील निर्धारित पार्किंगपर्यंत जातात.",
+          "reviewed": false
+        }
       },
       "km": 42
     }
   },
   "localTransport": {
     "en": "In Katra, autos and e-rickshaws run to the start of the route. On the climb you can walk, hire a pony, palanquin or porter at fixed rates posted by the board, or use battery cars on the separate track. Pay only at the official counters and keep the receipt. A ropeway links the Bhawan with Bhairon Ghati.",
-    "hi": { "text": "कटरा में ऑटो और ई-रिक्शा मार्ग के आरंभ तक जाते हैं। चढ़ाई में आप पैदल चल सकते हैं, बोर्ड द्वारा लगाई गई निश्चित दरों पर घोड़ा, पालकी या कुली ले सकते हैं, या अलग मार्ग पर बैटरी कार का उपयोग कर सकते हैं। केवल आधिकारिक काउंटर पर भुगतान करें और रसीद रखें। भवन को भैरों घाटी से रोपवे जोड़ता है।", "reviewed": false },
-    "mr": { "text": "कटऱ्यात ऑटो आणि ई-रिक्षा मार्गाच्या सुरुवातीपर्यंत जातात. चढाईत तुम्ही चालू शकता, बोर्डाने लावलेल्या निश्चित दराने घोडा, पालखी किंवा हमाल घेऊ शकता, किंवा वेगळ्या मार्गावर बॅटरी कार वापरू शकता. फक्त अधिकृत काउंटरवर पैसे द्या आणि पावती ठेवा. भवनाला भैरों घाटीशी रोपवे जोडतो.", "reviewed": false }
+    "hi": {
+      "text": "कटरा में ऑटो और ई-रिक्शा मार्ग के आरंभ तक जाते हैं। चढ़ाई में आप पैदल चल सकते हैं, बोर्ड द्वारा लगाई गई निश्चित दरों पर घोड़ा, पालकी या कुली ले सकते हैं, या अलग मार्ग पर बैटरी कार का उपयोग कर सकते हैं। केवल आधिकारिक काउंटर पर भुगतान करें और रसीद रखें। भवन को भैरों घाटी से रोपवे जोड़ता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कटऱ्यात ऑटो आणि ई-रिक्षा मार्गाच्या सुरुवातीपर्यंत जातात. चढाईत तुम्ही चालू शकता, बोर्डाने लावलेल्या निश्चित दराने घोडा, पालखी किंवा हमाल घेऊ शकता, किंवा वेगळ्या मार्गावर बॅटरी कार वापरू शकता. फक्त अधिकृत काउंटरवर पैसे द्या आणि पावती ठेवा. भवनाला भैरों घाटीशी रोपवे जोडतो.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "navratri-dussehra",
       "note": {
         "en": "Both Navratris are the busiest times at the shrine. Expect long queues, tight crowd control and higher prices for stay and transport.",
-        "hi": { "text": "दोनों नवरात्र तीर्थ पर सबसे व्यस्त समय हैं। लंबी कतारें, कड़ा भीड़ नियंत्रण और ठहरने तथा आवागमन के ऊँचे दामों की अपेक्षा रखें।", "reviewed": false },
-        "mr": { "text": "दोन्ही नवरात्री तीर्थावरील सर्वाधिक गर्दीचा काळ आहे. लांब रांगा, कडक गर्दी नियंत्रण आणि निवास व प्रवासाच्या वाढीव दरांची अपेक्षा ठेवा.", "reviewed": false }
+        "hi": {
+          "text": "दोनों नवरात्र तीर्थ पर सबसे व्यस्त समय हैं। लंबी कतारें, कड़ा भीड़ नियंत्रण और ठहरने तथा आवागमन के ऊँचे दामों की अपेक्षा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दोन्ही नवरात्री तीर्थावरील सर्वाधिक गर्दीचा काळ आहे. लांब रांगा, कडक गर्दी नियंत्रण आणि निवास व प्रवासाच्या वाढीव दरांची अपेक्षा ठेवा.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Shiv Khori", "hi": { "text": "शिव खोड़ी", "reviewed": false }, "mr": { "text": "शिव खोरी", "reviewed": false } },
+      "name": {
+        "en": "Shiv Khori",
+        "hi": {
+          "text": "शिव खोड़ी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शिव खोरी",
+          "reviewed": false
+        }
+      },
       "km": 80,
-      "note": { "en": "A natural cave shrine of Shiva in the Reasi hills, reached by road and a short walk. Check road and yatra conditions first.", "hi": { "text": "रियासी की पहाड़ियों में शिव की प्राकृतिक गुफा का तीर्थ, सड़क और थोड़ी पैदल दूरी से पहुँचा जाता है। पहले सड़क और यात्रा की स्थिति जाँच लें।", "reviewed": false }, "mr": { "text": "रियासी डोंगरांतील शिवाचे नैसर्गिक गुहा तीर्थ, रस्त्याने आणि थोड्या चालण्याने पोहोचता येते. आधी रस्ते आणि यात्रेची स्थिती तपासा.", "reviewed": false } }
+      "note": {
+        "en": "A natural cave shrine of Shiva in the Reasi hills, reached by road and a short walk. Check road and yatra conditions first.",
+        "hi": {
+          "text": "रियासी की पहाड़ियों में शिव की प्राकृतिक गुफा का तीर्थ, सड़क और थोड़ी पैदल दूरी से पहुँचा जाता है। पहले सड़क और यात्रा की स्थिति जाँच लें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रियासी डोंगरांतील शिवाचे नैसर्गिक गुहा तीर्थ, रस्त्याने आणि थोड्या चालण्याने पोहोचता येते. आधी रस्ते आणि यात्रेची स्थिती तपासा.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Raghunath Temple, Jammu", "hi": { "text": "रघुनाथ मंदिर, जम्मू", "reviewed": false }, "mr": { "text": "रघुनाथ मंदिर, जम्मू", "reviewed": false } },
+      "name": {
+        "en": "Raghunath Temple, Jammu",
+        "hi": {
+          "text": "रघुनाथ मंदिर, जम्मू",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रघुनाथ मंदिर, जम्मू",
+          "reviewed": false
+        }
+      },
       "km": 42,
-      "note": { "en": "A large temple complex in Jammu city dedicated to Rama, with many shrines in its courtyards.", "hi": { "text": "जम्मू शहर में राम को समर्पित विशाल मंदिर परिसर, जिसके प्रांगणों में कई मंदिर हैं।", "reviewed": false }, "mr": { "text": "जम्मू शहरातील रामाला समर्पित मोठा मंदिर परिसर, ज्याच्या अंगणांत अनेक मंदिरे आहेत.", "reviewed": false } }
+      "note": {
+        "en": "A large temple complex in Jammu city dedicated to Rama, with many shrines in its courtyards.",
+        "hi": {
+          "text": "जम्मू शहर में राम को समर्पित विशाल मंदिर परिसर, जिसके प्रांगणों में कई मंदिर हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जम्मू शहरातील रामाला समर्पित मोठा मंदिर परिसर, ज्याच्या अंगणांत अनेक मंदिरे आहेत.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Bahu Fort and Bagh-e-Bahu, Jammu", "hi": { "text": "बाहू किला और बाग-ए-बाहू, जम्मू", "reviewed": false }, "mr": { "text": "बाहू किल्ला आणि बाग-ए-बाहू, जम्मू", "reviewed": false } },
+      "name": {
+        "en": "Bahu Fort and Bagh-e-Bahu, Jammu",
+        "hi": {
+          "text": "बाहू किला और बाग-ए-बाहू, जम्मू",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बाहू किल्ला आणि बाग-ए-बाहू, जम्मू",
+          "reviewed": false
+        }
+      },
       "km": 40,
-      "note": { "en": "A fort above the Tawi river with a temple to Mata Kali and a garden below, a gentle stop on the way back.", "hi": { "text": "तवी नदी के ऊपर किला, जिसमें माता काली का मंदिर है और नीचे उद्यान है, वापसी पर एक शांत पड़ाव।", "reviewed": false }, "mr": { "text": "तवी नदीवरील किल्ला, ज्यात माता कालीचे मंदिर आहे आणि खाली बाग आहे, परतीच्या वाटेवरील शांत थांबा.", "reviewed": false } }
+      "note": {
+        "en": "A fort above the Tawi river with a temple to Mata Kali and a garden below, a gentle stop on the way back.",
+        "hi": {
+          "text": "तवी नदी के ऊपर किला, जिसमें माता काली का मंदिर है और नीचे उद्यान है, वापसी पर एक शांत पड़ाव।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "तवी नदीवरील किल्ला, ज्यात माता कालीचे मंदिर आहे आणि खाली बाग आहे, परतीच्या वाटेवरील शांत थांबा.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "The pilgrim route to Vaishno Devi in the Trikuta hills", "hi": { "text": "त्रिकूट पर्वत में वैष्णो देवी का यात्रा मार्ग", "reviewed": false }, "mr": { "text": "त्रिकूट डोंगरातील वैष्णो देवीचा यात्रा मार्ग", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Vaishno Devi (Katra)",
+        "hi": {
+          "text": "वैष्णो देवी (कटरा)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वैष्णो देवी (कटरा)",
+          "reviewed": false
+        }
+      },
+      "credit": "KDhruv406, CC BY 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Shri_Mata_Vaishno_Devi_Bhawan,_Katra_Jammu_%26_Kashmir_INDIA.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Vaishno Devi (Katra)",
+        "hi": {
+          "text": "वैष्णो देवी (कटरा)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वैष्णो देवी (कटरा)",
+          "reviewed": false
+        }
+      },
+      "credit": "Maheshkumarrathi, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Katra_Vaishno_Devi_temple_Seen1.jpg"
     }
   ],
   "sources": [
-    { "label": "Vaishno Devi, Wikipedia", "url": "https://en.wikipedia.org/wiki/Vaishno_Devi" },
-    { "label": "Shri Mata Vaishno Devi Shrine Board, Wikipedia", "url": "https://en.wikipedia.org/wiki/Shri_Mata_Vaishno_Devi_Shrine_Board" },
-    { "label": "Katra, Jammu and Kashmir, Wikipedia", "url": "https://en.wikipedia.org/wiki/Katra,_Jammu_and_Kashmir" },
-    { "label": "Shri Mata Vaishno Devi Shrine Board, official website", "url": "https://www.maavaishnodevi.org" }
+    {
+      "label": "Vaishno Devi, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vaishno_Devi"
+    },
+    {
+      "label": "Shri Mata Vaishno Devi Shrine Board, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shri_Mata_Vaishno_Devi_Shrine_Board"
+    },
+    {
+      "label": "Katra, Jammu and Kashmir, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katra,_Jammu_and_Kashmir"
+    },
+    {
+      "label": "Shri Mata Vaishno Devi Shrine Board, official website",
+      "url": "https://www.maavaishnodevi.org"
+    }
   ]
 }

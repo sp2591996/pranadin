@@ -1,0 +1,505 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "haji-ali",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "Dargah and sea views",
+        "hi": {
+          "text": "दरगाह और समुद्र दर्शन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दर्गा आणि सागरदर्शन",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Walk the causeway and offer prayers.",
+              "hi": {
+                "text": "पुल पर चलें और प्रार्थना करें।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "मार्गावरून चालत जा आणि प्रार्थना करा.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Watch the sunset from the shore.",
+              "hi": {
+                "text": "तट से सूर्यास्त देखें।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "किनाऱ्यावरून सूर्यास्त पाहा.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Dargah and old Mumbai",
+        "hi": {
+          "text": "दरगाह और पुरानी मुंबई",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दर्गा आणि जुनी मुंबई",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Dargah visit at low tide.",
+              "hi": {
+                "text": "भाटे पर दरगाह दर्शन।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "ओहोटीला दर्गा दर्शन.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Mahalaxmi Temple nearby.",
+              "hi": {
+                "text": "पास का महालक्ष्मी मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "जवळचे महालक्ष्मी मंदिर.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Gateway of India and the seafront.",
+              "hi": {
+                "text": "गेटवे ऑफ़ इंडिया और समुद्र तट।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "गेटवे ऑफ इंडिया आणि सागरकिनारा.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Return for Thursday qawwali.",
+              "hi": {
+                "text": "गुरुवार की क़व्वाली के लिए लौटें।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "गुरुवारच्या कव्वालीसाठी परत या.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Mumbai faith trail",
+        "hi": {
+          "text": "मुंबई आस्था यात्रा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुंबई श्रद्धा यात्रा",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Haji Ali Dargah.",
+              "hi": {
+                "text": "हाजी अली दरगाह।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "हाजी अली दर्गा.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Mahalaxmi Temple.",
+              "hi": {
+                "text": "महालक्ष्मी मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "महालक्ष्मी मंदिर.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Mount Mary Basilica, Bandra.",
+              "hi": {
+                "text": "माउंट मैरी बेसिलिका, बांद्रा।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "माउंट मेरी बॅसिलिका, वांद्रे.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Bandra seafront walk.",
+              "hi": {
+                "text": "बांद्रा समुद्र तट की सैर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "वांद्रे सागरकिनाऱ्यावर फेरफटका.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Siddhivinayak Temple.",
+              "hi": {
+                "text": "सिद्धिविनायक मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "सिद्धिविनायक मंदिर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest and shop for keepsakes.",
+              "hi": {
+                "text": "आराम करें और स्मृति-चिह्न लें।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "विश्रांती घ्या आणि आठवणीच्या वस्तू घ्या.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Pilgrim rest houses",
+        "hi": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Simple, low-cost rooms run by trusts near the shrine.",
+        "hi": {
+          "text": "धाम के पास ट्रस्ट द्वारा चलाए जाने वाले सस्ते, सादे कमरे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवस्थानाजवळ ट्रस्टतर्फे चालवल्या जाणाऱ्या स्वस्त, साध्या खोल्या.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mid-range hotels",
+        "hi": {
+          "text": "मध्यम श्रेणी के होटल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मध्यम श्रेणीची हॉटेल्स",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Plenty of options within a short ride of the main site.",
+        "hi": {
+          "text": "मुख्य स्थल से थोड़ी दूरी पर कई विकल्प।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य स्थळापासून थोड्या अंतरावर अनेक पर्याय.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Book ahead for festivals",
+        "hi": {
+          "text": "त्योहारों में पहले से बुक करें",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणांच्या काळात आधी आरक्षण करा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Rooms fill fast on big festival days.",
+        "hi": {
+          "text": "बड़े त्योहारों पर कमरे जल्दी भर जाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोठ्या सणांच्या दिवशी खोल्या लवकर भरतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "Fresh juices and falooda",
+        "hi": {
+          "text": "ताज़े जूस और फ़ालूदा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ताजे रस आणि फालुदा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Famous juice stalls line the road by the causeway.",
+        "hi": {
+          "text": "पुल के पास सड़क पर प्रसिद्ध जूस की दुकानें हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मार्गाजवळ रस्त्यावर प्रसिद्ध रसाची दुकाने आहेत.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mumbai street snacks",
+        "hi": {
+          "text": "मुंबई के नाश्ते",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुंबईचे खाद्यपदार्थ",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Vada pav and pav bhaji are everywhere.",
+        "hi": {
+          "text": "वड़ा पाव और पाव भाजी हर जगह मिलते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वडापाव आणि पावभाजी सगळीकडे मिळतात.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mughlai meals",
+        "hi": {
+          "text": "मुग़लई भोजन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुघलाई जेवण",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Kebabs and biryani in nearby eateries.",
+        "hi": {
+          "text": "पास के भोजनालयों में कबाब और बिरयानी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जवळच्या उपाहारगृहांत कबाब आणि बिर्याणी.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Simple vegetarian meals are easy to find near the shrine.",
+    "hi": {
+      "text": "धाम के पास सादा शाकाहारी भोजन आसानी से मिलता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवस्थानाजवळ साधे शाकाहारी जेवण सहज मिळते.",
+      "reviewed": false
+    }
+  },
+  "budget": {
+    "bands": {
+      "budget": {
+        "min": 1500,
+        "max": 2500
+      },
+      "mid": {
+        "min": 3500,
+        "max": 6000
+      },
+      "comfort": {
+        "min": 8000,
+        "max": 15000
+      }
+    },
+    "note": {
+      "en": "Per person per day, excluding travel to reach the place.",
+      "hi": {
+        "text": "प्रति व्यक्ति प्रतिदिन, यहाँ पहुँचने का खर्च छोड़कर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर व्यक्ती दररोज, येथे पोहोचण्याचा खर्च वगळून.",
+        "reviewed": false
+      }
+    }
+  },
+  "health": [
+    {
+      "en": "Carry water and rest in the shade on hot days.",
+      "hi": {
+        "text": "गर्म दिनों में पानी साथ रखें और छाँव में आराम करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उष्ण दिवसांत पाणी सोबत ठेवा आणि सावलीत विश्रांती घ्या.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Crowds peak on festival days; keep children close.",
+      "hi": {
+        "text": "त्योहारों पर भीड़ सबसे ज़्यादा होती है; बच्चों को पास रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सणांच्या दिवशी गर्दी सर्वाधिक असते; मुलांना जवळ ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Wheelchair access is limited in older parts; ask staff for help.",
+      "hi": {
+        "text": "पुराने हिस्सों में व्हीलचेयर की सुविधा सीमित है; कर्मचारियों से मदद माँगें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जुन्या भागांत व्हीलचेअरची सोय मर्यादित आहे; कर्मचाऱ्यांची मदत घ्या.",
+        "reviewed": false
+      }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Cover your head inside the dargah.",
+      "hi": {
+        "text": "दरगाह के भीतर सिर ढकें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर्ग्यात डोके झाका.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Remove shoes at the gate.",
+      "hi": {
+        "text": "द्वार पर जूते उतारें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रवेशद्वाराजवळ पादत्राणे काढा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Dress modestly, covering shoulders and knees.",
+      "hi": {
+        "text": "शालीन कपड़े पहनें, कंधे और घुटने ढके हों।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "खांदे आणि गुडघे झाकणारे सभ्य कपडे घाला.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Keep quiet near the tomb and during prayers.",
+      "hi": {
+        "text": "मज़ार के पास और नमाज़ के समय शांत रहें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मजारीजवळ आणि नमाजाच्या वेळी शांत राहा.",
+        "reviewed": false
+      }
+    }
+  ]
+}

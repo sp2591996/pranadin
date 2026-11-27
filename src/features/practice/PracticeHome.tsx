@@ -32,20 +32,13 @@ export interface MeditationSummary {
   lang: Locale;
 }
 
-/** Rich gradients, each with white text at 4.5:1 or better (D-036). */
-const TONES = [
-  "from-[#2F7D74] to-[#163F45]",
-  "from-[#A8431A] to-[#5E220B]",
-  "from-[#4A3A7A] to-[#1F1638]",
-  "from-[#2F6B3F] to-[#173621]",
-  "from-[#7A2F5A] to-[#3A1229]",
-  "from-[#2D4F86] to-[#15284A]",
-];
+/** Brand surfaces only (D-037): saffron, maroon, earth. */
+const TONES = ["brand-saffron", "brand-maroon", "brand-earth"];
 
 function Row({ href, title, sub, lang, tag, icon, tone = 0, cycle }: { href: string; title: string; sub?: string; lang?: Locale; tag?: string; icon: IconName; tone?: number; cycle?: number }) {
   return (
     <li className="flex">
-      <Link href={href} className={`tile group flex min-h-[13rem] flex-1 flex-col gap-4 bg-gradient-to-br p-6 text-white shadow-elev-2 ${TONES[tone % TONES.length]}`}>
+      <Link href={href} className={`tile group flex min-h-[13rem] flex-1 flex-col gap-4 brand-glow p-6 text-white shadow-elev-2 ${TONES[tone % TONES.length]}`}>
         <span aria-hidden="true" className="pointer-events-none absolute -right-10 -top-10 -z-10 h-40 w-40 rounded-full bg-white/10" />
         <span className="flex items-start justify-between gap-3">
           {cycle ? (

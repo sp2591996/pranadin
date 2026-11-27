@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "bom-jesus",
+  "sights": [
+    {
+      "id": "basilica",
+      "name": {
+        "en": "Basilica and tomb",
+        "hi": {
+          "text": "बेसिलिका और समाधि",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बॅसिलिका आणि समाधी",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Gilded altars and the silver casket of St Francis Xavier.",
+        "hi": {
+          "text": "सुनहरी वेदियाँ और संत फ़्रांसिस ज़ेवियर की चाँदी की पेटी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सोनेरी वेद्या आणि संत फ्रान्सिस झेविअर यांची चांदीची पेटी.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 9 am to 6:30 pm",
+        "hi": {
+          "text": "लगभग सुबह 9 से शाम 6:30",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 9 ते सायं 6:30",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "se",
+      "name": {
+        "en": "Se Cathedral",
+        "hi": {
+          "text": "से कैथेड्रल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "से कॅथेड्रल",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "One of Asia's largest churches, across the lawn.",
+        "hi": {
+          "text": "एशिया के सबसे बड़े चर्चों में से एक, लॉन के उस पार।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आशियातील सर्वात मोठ्या चर्चपैकी एक, हिरवळीपलीकडे.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 7:30 am to 6 pm",
+        "hi": {
+          "text": "लगभग सुबह 7:30 से शाम 6",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 7:30 ते सायं 6",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "assisi",
+      "name": {
+        "en": "St Francis of Assisi Church",
+        "hi": {
+          "text": "असीसी के संत फ़्रांसिस का चर्च",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "असिसीच्या संत फ्रान्सिसचे चर्च",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Painted walls and a small archaeology museum beside it.",
+        "hi": {
+          "text": "चित्रित दीवारें और पास में छोटा पुरातत्व संग्रहालय।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रंगवलेल्या भिंती आणि शेजारी लहान पुरातत्त्व संग्रहालय.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Museum closed Fridays",
+        "hi": {
+          "text": "संग्रहालय शुक्रवार बंद",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संग्रहालय शुक्रवारी बंद",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "cajetan",
+      "name": {
+        "en": "Church of St Cajetan",
+        "hi": {
+          "text": "संत कजेटन का चर्च",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संत कजेतानचे चर्च",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Domed church modelled on St Peter's in Rome.",
+        "hi": {
+          "text": "रोम के सेंट पीटर्स जैसा गुंबद वाला चर्च।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रोममधील सेंट पीटर्ससारखे घुमटाचे चर्च.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Daytime",
+        "hi": {
+          "text": "दिन में",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसा",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Sunday Mass is in Konkani and English; check times locally.",
+        "hi": {
+          "text": "रविवार की प्रार्थना कोंकणी और अंग्रेज़ी में; समय स्थानीय रूप से देखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रविवारचा मिस्सा कोकणी आणि इंग्रजीत; वेळ स्थानिक पातळीवर पाहा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Cover shoulders and knees inside.",
+        "hi": {
+          "text": "भीतर कंधे और घुटने ढकें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आत खांदे आणि गुडघे झाका.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "The tomb is viewed from a raised gallery.",
+        "hi": {
+          "text": "समाधि ऊँची दीर्घा से देखी जाती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "समाधी उंच दालनातून पाहता येते.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Arrive early in feast week to avoid queues.",
+        "hi": {
+          "text": "पर्व सप्ताह में कतार से बचने के लिए जल्दी पहुँचें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणाच्या आठवड्यात रांग टाळण्यासाठी लवकर पोहोचा.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

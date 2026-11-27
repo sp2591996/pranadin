@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "hazur-sahib",
+  "sights": [
+    {
+      "id": "sachkhand",
+      "name": {
+        "en": "Takht Sachkhand",
+        "hi": {
+          "text": "तख़्त सचखंड",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "तख्त सचखंड",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Gold-domed shrine where the Guru's relics are kept.",
+        "hi": {
+          "text": "सुनहरे गुंबद वाला धाम जहाँ गुरु की स्मृति-वस्तुएँ रखी हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सोनेरी घुमटाचे स्थान जिथे गुरूंच्या स्मृतिवस्तू ठेवल्या आहेत.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open all day",
+        "hi": {
+          "text": "पूरे दिन खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसभर खुले",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "nagina",
+      "name": {
+        "en": "Gurdwara Nagina Ghat",
+        "hi": {
+          "text": "गुरुद्वारा नगीना घाट",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरुद्वारा नगीना घाट",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Riverside gurdwara tied to a story of a gem thrown in the river.",
+        "hi": {
+          "text": "नदी में फेंके रत्न की कथा से जुड़ा तटीय गुरुद्वारा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नदीत फेकलेल्या रत्नाच्या कथेशी जोडलेला काठावरील गुरुद्वारा.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open all day",
+        "hi": {
+          "text": "पूरे दिन खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसभर खुला",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "bandaghat",
+      "name": {
+        "en": "Gurdwara Banda Ghat",
+        "hi": {
+          "text": "गुरुद्वारा बंदा घाट",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरुद्वारा बंदा घाट",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Where the Guru met Banda Singh Bahadur.",
+        "hi": {
+          "text": "जहाँ गुरु बंदा सिंह बहादुर से मिले।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जिथे गुरु बंदा सिंह बहादूर यांना भेटले.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open all day",
+        "hi": {
+          "text": "पूरे दिन खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसभर खुला",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "matasahib",
+      "name": {
+        "en": "Gurdwara Mata Sahib Devan",
+        "hi": {
+          "text": "गुरुद्वारा माता साहिब देवाँ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरुद्वारा माता साहिब देवा",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Quiet shrine with a large langar hall.",
+        "hi": {
+          "text": "बड़े लंगर कक्ष वाला शांत धाम।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोठे लंगर दालन असलेले शांत स्थान.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open all day",
+        "hi": {
+          "text": "पूरे दिन खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसभर खुला",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "See the evening ceremony when the Guru's weapons are shown.",
+        "hi": {
+          "text": "संध्या समारोह देखें जब गुरु के शस्त्रों के दर्शन होते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरूंच्या शस्त्रांचे दर्शन होणारा संध्याकाळचा सोहळा पाहा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Free rooms in the gurdwara sarais go fast; arrive early.",
+        "hi": {
+          "text": "गुरुद्वारा सरायों के मुफ़्त कमरे जल्दी भरते हैं; जल्दी पहुँचें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरुद्वाऱ्याच्या सरायांतील मोफत खोल्या लवकर भरतात; लवकर पोहोचा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Wash feet at the entrance pools.",
+        "hi": {
+          "text": "प्रवेश के कुंडों में पैर धोएँ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "प्रवेशाजवळील कुंडांत पाय धुवा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Carry a head covering for all gurdwaras.",
+        "hi": {
+          "text": "सभी गुरुद्वारों के लिए सिर ढकने का कपड़ा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सर्व गुरुद्वाऱ्यांसाठी डोके झाकण्याचे कापड ठेवा.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

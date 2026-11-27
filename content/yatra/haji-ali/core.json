@@ -1,0 +1,361 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "haji-ali",
+  "name": {
+    "en": "Haji Ali Dargah",
+    "hi": {
+      "text": "हाजी अली दरगाह",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "हाजी अली दर्गा",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Mumbai, Maharashtra",
+    "hi": {
+      "text": "मुंबई, महाराष्ट्र",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मुंबई, महाराष्ट्र",
+      "reviewed": false
+    }
+  },
+  "stateKey": "maharashtra",
+  "traditions": [
+    "islamic"
+  ],
+  "deity": {
+    "en": "Sufi saint Pir Haji Ali Shah Bukhari",
+    "hi": {
+      "text": "सूफ़ी संत पीर हाजी अली शाह बुखारी",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सूफी संत पीर हाजी अली शाह बुखारी",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "A white shrine on a rock in the sea, open to people of every faith.",
+    "hi": {
+      "text": "समुद्र में चट्टान पर बनी सफ़ेद दरगाह, जो हर धर्म के लोगों के लिए खुली है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "समुद्रातील खडकावरील पांढरा दर्गा, सर्व धर्मांच्या लोकांसाठी खुला.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "A shrine you walk to across the sea",
+    "hi": {
+      "text": "समुद्र पार पैदल पहुँचने वाली दरगाह",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "समुद्रातून चालत पोहोचण्याचा दर्गा",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "Built in 1431, the dargah sits about 500 m off Worli, reached by a causeway at low tide.",
+    "hi": {
+      "text": "1431 में बनी यह दरगाह वरली तट से लगभग 500 मीटर दूर है, भाटे के समय पुल से पहुँचते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "1431 मध्ये बांधलेला हा दर्गा वरळीच्या किनाऱ्यापासून सुमारे 500 मीटरवर आहे, ओहोटीच्या वेळी मार्गाने पोहोचता येते.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "Pir Haji Ali gave up his wealth before Hajj; tradition says his casket floated back to this rock.",
+    "hi": {
+      "text": "पीर हाजी अली ने हज से पहले अपना धन त्याग दिया; परंपरा कहती है उनका ताबूत तैरकर इसी चट्टान पर लौटा।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "पीर हाजी अली यांनी हजपूर्वी संपत्ती त्यागली; परंपरेनुसार त्यांची शवपेटी तरंगत याच खडकावर परतली.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "seasons": [
+      {
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Pleasant sea breeze, clear skies.",
+          "hi": {
+            "text": "सुहानी समुद्री हवा, साफ़ आसमान।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "सुखद सागरी वारा, निरभ्र आकाश.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          3,
+          4,
+          5,
+          10
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Hot and humid; go early or at sunset.",
+          "hi": {
+            "text": "गर्म और उमस भरा; सुबह या सूर्यास्त पर जाएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि दमट; सकाळी किंवा सूर्यास्ताला जा.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Monsoon waves can cover the causeway.",
+          "hi": {
+            "text": "मानसून की लहरें पुल को ढक सकती हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळ्यातील लाटा मार्ग झाकू शकतात.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Mumbai airport",
+        "hi": {
+          "text": "मुंबई हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुंबई विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 12,
+      "how": {
+        "en": "Taxi or cab in about 40 minutes.",
+        "hi": {
+          "text": "टैक्सी से लगभग 40 मिनट।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "टॅक्सीने सुमारे 40 मिनिटे.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Mumbai Central",
+        "hi": {
+          "text": "मुंबई सेंट्रल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुंबई सेंट्रल",
+          "reviewed": false
+        }
+      },
+      "km": 3,
+      "how": {
+        "en": "Short taxi ride; Mahalaxmi local station is closer.",
+        "hi": {
+          "text": "छोटी टैक्सी यात्रा; महालक्ष्मी लोकल स्टेशन और पास है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "छोटा टॅक्सी प्रवास; महालक्ष्मी लोकल स्थानक आणखी जवळ आहे.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "City buses and taxis stop at the causeway entrance.",
+        "hi": {
+          "text": "शहर की बसें और टैक्सियाँ पुल के मुहाने पर रुकती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शहर बस आणि टॅक्सी मार्गाच्या तोंडाशी थांबतात.",
+          "reviewed": false
+        }
+      },
+      "km": 0
+    }
+  },
+  "localTransport": {
+    "en": "Walk the causeway; use taxis or local trains in the city.",
+    "hi": {
+      "text": "पुल पर पैदल चलें; शहर में टैक्सी या लोकल ट्रेन लें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मार्गावर चालत जा; शहरात टॅक्सी किंवा लोकल वापरा.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "eid-al-fitr",
+      "note": {
+        "en": "Large, joyful crowds visit on Eid.",
+        "hi": {
+          "text": "ईद पर बड़ी, आनंदमय भीड़ आती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ईदला मोठी, आनंदी गर्दी येते.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Mahalaxmi Temple",
+        "hi": {
+          "text": "महालक्ष्मी मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महालक्ष्मी मंदिर",
+          "reviewed": false
+        }
+      },
+      "km": 1,
+      "note": {
+        "en": "Historic temple of Goddess Mahalaxmi.",
+        "hi": {
+          "text": "देवी महालक्ष्मी का ऐतिहासिक मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवी महालक्ष्मीचे ऐतिहासिक मंदिर.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Gateway of India",
+        "hi": {
+          "text": "गेटवे ऑफ़ इंडिया",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गेटवे ऑफ इंडिया",
+          "reviewed": false
+        }
+      },
+      "km": 9,
+      "note": {
+        "en": "Seafront arch from 1924.",
+        "hi": {
+          "text": "1924 का समुद्र तट मेहराब।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "1924 ची सागरकिनारी कमान.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Haji Ali Dargah, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Haji_Ali_Dargah"
+    },
+    {
+      "label": "Haji Ali Dargah Trust",
+      "url": "https://hajialidargah.in/"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Haji Ali Dargah",
+        "hi": {
+          "text": "हाजी अली दरगाह",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हाजी अली दर्गा",
+          "reviewed": false
+        }
+      },
+      "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Mumbai,_India,_Haji_Ali_Dargah_Mosque.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Haji Ali Dargah",
+        "hi": {
+          "text": "हाजी अली दरगाह",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "हाजी अली दर्गा",
+          "reviewed": false
+        }
+      },
+      "credit": "Shehnil, CC0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Haji_Ali_Mumbai.jpg"
+    }
+  ]
+}

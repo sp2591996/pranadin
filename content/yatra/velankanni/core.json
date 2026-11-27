@@ -5,146 +5,372 @@
   "version": "2026-11-26.1",
   "status": "draft",
   "id": "velankanni",
-  "name": { "en": "Velankanni", "hi": { "text": "वेलंकन्नी", "reviewed": false }, "mr": { "text": "वेलंकण्णी", "reviewed": false } },
-  "state": { "en": "Tamil Nadu", "hi": { "text": "तमिलनाडु", "reviewed": false }, "mr": { "text": "तमिळनाडू", "reviewed": false } },
+  "name": {
+    "en": "Velankanni",
+    "hi": {
+      "text": "वेलंकन्नी",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "वेलंकण्णी",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Tamil Nadu",
+    "hi": {
+      "text": "तमिलनाडु",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "तमिळनाडू",
+      "reviewed": false
+    }
+  },
   "stateKey": "tamil-nadu",
-  "traditions": ["christian"],
+  "traditions": [
+    "christian"
+  ],
   "deity": {
     "en": "Our Lady of Good Health (Arokya Matha in Tamil), the Virgin Mary, honoured at the Basilica of Our Lady of Good Health. Catholics see Mary as the Mother of God and a loving intercessor who prays with the faithful.",
-    "hi": { "text": "हमारी लेडी ऑफ़ गुड हेल्थ (तमिल में आरोग्य माता), कुँवारी मरियम, जिन्हें बेसिलिका ऑफ़ अवर लेडी ऑफ़ गुड हेल्थ में सम्मान दिया जाता है। कैथोलिक मरियम को परमेश्वर की माता और विश्वासियों के साथ प्रार्थना करने वाली प्रेमपूर्ण मध्यस्थ मानते हैं।", "reviewed": false },
-    "mr": { "text": "अवर लेडी ऑफ गुड हेल्थ (तमिळमध्ये आरोग्य माता), कुमारी मरीया, ज्यांचा बॅसिलिका ऑफ अवर लेडी ऑफ गुड हेल्थमध्ये सन्मान केला जातो. कॅथलिक मरीयेला देवाची माता आणि विश्वासूंसोबत प्रार्थना करणारी प्रेमळ मध्यस्थ मानतात.", "reviewed": false }
+    "hi": {
+      "text": "हमारी लेडी ऑफ़ गुड हेल्थ (तमिल में आरोग्य माता), कुँवारी मरियम, जिन्हें बेसिलिका ऑफ़ अवर लेडी ऑफ़ गुड हेल्थ में सम्मान दिया जाता है। कैथोलिक मरियम को परमेश्वर की माता और विश्वासियों के साथ प्रार्थना करने वाली प्रेमपूर्ण मध्यस्थ मानते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "अवर लेडी ऑफ गुड हेल्थ (तमिळमध्ये आरोग्य माता), कुमारी मरीया, ज्यांचा बॅसिलिका ऑफ अवर लेडी ऑफ गुड हेल्थमध्ये सन्मान केला जातो. कॅथलिक मरीयेला देवाची माता आणि विश्वासूंसोबत प्रार्थना करणारी प्रेमळ मध्यस्थ मानतात.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "The basilica is one of the best-known Marian shrines in India and a place of Catholic pilgrimage. Pilgrims come to pray, attend Mass, pray the Rosary and make novenas, and many visitors of other faiths come too. It is a place of prayer and thanksgiving more than a place of spectacle.",
-    "hi": { "text": "बेसिलिका भारत के सबसे प्रसिद्ध मरियम-तीर्थों में से एक और कैथोलिक तीर्थयात्रा का स्थान है। यात्री प्रार्थना करने, मिस्सा में भाग लेने, जपमाला पढ़ने और नोवेना करने आते हैं, और अन्य धर्मों के कई दर्शक भी आते हैं। यह दिखावे से अधिक प्रार्थना और कृतज्ञता का स्थान है।", "reviewed": false },
-    "mr": { "text": "बॅसिलिका हे भारतातील सर्वात प्रसिद्ध मरीया-तीर्थांपैकी एक आणि कॅथलिक यात्रेचे ठिकाण आहे. यात्रेकरू प्रार्थना करण्यासाठी, मिस्सामध्ये सहभागी होण्यासाठी, जपमाळ म्हणण्यासाठी आणि नोव्हेना करण्यासाठी येतात, आणि इतर धर्मांचे अनेक भेट देणारेही येतात. हे प्रार्थना आणि कृतज्ञतेचे स्थान आहे, देखाव्याचे नव्हे.", "reviewed": false }
+    "hi": {
+      "text": "बेसिलिका भारत के सबसे प्रसिद्ध मरियम-तीर्थों में से एक और कैथोलिक तीर्थयात्रा का स्थान है। यात्री प्रार्थना करने, मिस्सा में भाग लेने, जपमाला पढ़ने और नोवेना करने आते हैं, और अन्य धर्मों के कई दर्शक भी आते हैं। यह दिखावे से अधिक प्रार्थना और कृतज्ञता का स्थान है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बॅसिलिका हे भारतातील सर्वात प्रसिद्ध मरीया-तीर्थांपैकी एक आणि कॅथलिक यात्रेचे ठिकाण आहे. यात्रेकरू प्रार्थना करण्यासाठी, मिस्सामध्ये सहभागी होण्यासाठी, जपमाळ म्हणण्यासाठी आणि नोव्हेना करण्यासाठी येतात, आणि इतर धर्मांचे अनेक भेट देणारेही येतात. हे प्रार्थना आणि कृतज्ञतेचे स्थान आहे, देखाव्याचे नव्हे.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "The shrine of Our Lady of Good Health, by the Bay of Bengal",
-    "hi": { "text": "बंगाल की खाड़ी के किनारे हमारी लेडी ऑफ़ गुड हेल्थ का तीर्थ", "reviewed": false },
-    "mr": { "text": "बंगालच्या उपसागराकाठी अवर लेडी ऑफ गुड हेल्थचे तीर्थ", "reviewed": false }
+    "hi": {
+      "text": "बंगाल की खाड़ी के किनारे हमारी लेडी ऑफ़ गुड हेल्थ का तीर्थ",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बंगालच्या उपसागराकाठी अवर लेडी ऑफ गुड हेल्थचे तीर्थ",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Velankanni is a coastal town in Nagapattinam district, Tamil Nadu, on the Bay of Bengal. The basilica stands at the centre of the town, and its white domes and bell towers are visible from the streets around it. Pilgrims arrive all year, with the largest crowds during the annual festival in late August and early September. Dress modestly, go early for Mass, and expect long queues.",
-    "hi": { "text": "वेलंकन्नी तमिलनाडु के नागपट्टिनम ज़िले में बंगाल की खाड़ी के तट पर एक तटीय नगर है। बेसिलिका नगर के केंद्र में है, और उसके सफ़ेद गुंबद और घंटाघर आसपास की सड़कों से दिखाई देते हैं। यात्री पूरे साल आते हैं, और सबसे बड़ी भीड़ अगस्त के अंत और सितंबर की शुरुआत के वार्षिक उत्सव में होती है। शालीन कपड़े पहनें, मिस्सा के लिए जल्दी जाएँ, और लंबी कतारों की अपेक्षा रखें।", "reviewed": false },
-    "mr": { "text": "वेलंकण्णी हे तमिळनाडूच्या नागपट्टिनम जिल्ह्यातील बंगालच्या उपसागराकाठचे किनारी गाव आहे. बॅसिलिका गावाच्या मध्यभागी उभी आहे, आणि तिचे पांढरे घुमट व घंटागृह आसपासच्या रस्त्यांवरून दिसतात. यात्रेकरू वर्षभर येतात, आणि सर्वात मोठी गर्दी ऑगस्टच्या शेवटी आणि सप्टेंबरच्या सुरुवातीच्या वार्षिक उत्सवात असते. सभ्य कपडे घाला, मिस्सासाठी लवकर जा, आणि लांब रांगांची अपेक्षा ठेवा.", "reviewed": false }
+    "hi": {
+      "text": "वेलंकन्नी तमिलनाडु के नागपट्टिनम ज़िले में बंगाल की खाड़ी के तट पर एक तटीय नगर है। बेसिलिका नगर के केंद्र में है, और उसके सफ़ेद गुंबद और घंटाघर आसपास की सड़कों से दिखाई देते हैं। यात्री पूरे साल आते हैं, और सबसे बड़ी भीड़ अगस्त के अंत और सितंबर की शुरुआत के वार्षिक उत्सव में होती है। शालीन कपड़े पहनें, मिस्सा के लिए जल्दी जाएँ, और लंबी कतारों की अपेक्षा रखें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "वेलंकण्णी हे तमिळनाडूच्या नागपट्टिनम जिल्ह्यातील बंगालच्या उपसागराकाठचे किनारी गाव आहे. बॅसिलिका गावाच्या मध्यभागी उभी आहे, आणि तिचे पांढरे घुमट व घंटागृह आसपासच्या रस्त्यांवरून दिसतात. यात्रेकरू वर्षभर येतात, आणि सर्वात मोठी गर्दी ऑगस्टच्या शेवटी आणि सप्टेंबरच्या सुरुवातीच्या वार्षिक उत्सवात असते. सभ्य कपडे घाला, मिस्सासाठी लवकर जा, आणि लांब रांगांची अपेक्षा ठेवा.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "The shrine grew from local Catholic devotion on the Coromandel coast. The Tamil name Arokya Matha means Mother of Health. Local tradition tells of a Marian apparition to a child, and the shrine grew around that devotion. The current basilica was consecrated in 1962, and the feast of the Nativity of Mary on 8 September is its greatest celebration.",
-    "hi": { "text": "यह तीर्थ तमिल तट पर स्थानीय कैथोलिक भक्ति से विकसित हुआ। तमिल नाम आरोग्य माता का अर्थ है स्वास्थ्य की माता। स्थानीय परंपरा एक बालक को मरियम के दर्शन की कथा सुनाती है, और इसी भक्ति के इर्द-गिर्द तीर्थ विकसित हुआ। वर्तमान बेसिलिका 1962 में प्रतिष्ठित हुई, और 8 सितंबर को मरियम के जन्मोत्सव का पर्व उसका सबसे बड़ा उत्सव है।", "reviewed": false },
-    "mr": { "text": "हे तीर्थ तमिळ किनाऱ्यावरील स्थानिक कॅथलिक भक्तीतून वाढले. तमिळ नाव आरोग्य माता म्हणजे आरोग्याची माता. स्थानिक परंपरा एका बालकाला मरीयेचे दर्शन झाल्याची कथा सांगते, आणि त्या भक्तीभोवती तीर्थ वाढले. सध्याची बॅसिलिका 1962 मध्ये प्रतिष्ठित झाली, आणि 8 सप्टेंबरचा मरीयेच्या जन्मोत्सवाचा सण हा तिचा सर्वात मोठा सोहळा आहे.", "reviewed": false }
+    "hi": {
+      "text": "यह तीर्थ तमिल तट पर स्थानीय कैथोलिक भक्ति से विकसित हुआ। तमिल नाम आरोग्य माता का अर्थ है स्वास्थ्य की माता। स्थानीय परंपरा एक बालक को मरियम के दर्शन की कथा सुनाती है, और इसी भक्ति के इर्द-गिर्द तीर्थ विकसित हुआ। वर्तमान बेसिलिका 1962 में प्रतिष्ठित हुई, और 8 सितंबर को मरियम के जन्मोत्सव का पर्व उसका सबसे बड़ा उत्सव है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "हे तीर्थ तमिळ किनाऱ्यावरील स्थानिक कॅथलिक भक्तीतून वाढले. तमिळ नाव आरोग्य माता म्हणजे आरोग्याची माता. स्थानिक परंपरा एका बालकाला मरीयेचे दर्शन झाल्याची कथा सांगते, आणि त्या भक्तीभोवती तीर्थ वाढले. सध्याची बॅसिलिका 1962 मध्ये प्रतिष्ठित झाली, आणि 8 सप्टेंबरचा मरीयेच्या जन्मोत्सवाचा सण हा तिचा सर्वात मोठा सोहळा आहे.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From the Wikipedia entries on Velankanni and the Basilica of Our Lady of Good Health. Local tradition is shown as the community tells it.",
-    "hi": { "text": "विकिपीडिया की वेलंकन्नी और बेसिलिका ऑफ़ अवर लेडी ऑफ़ गुड हेल्थ प्रविष्टियों से। स्थानीय परंपरा वैसे दी गई है जैसे समुदाय उसे बताता है।", "reviewed": false },
-    "mr": { "text": "विकिपीडियावरील वेलंकण्णी आणि बॅसिलिका ऑफ अवर लेडी ऑफ गुड हेल्थ नोंदींवरून. स्थानिक परंपरा समाज सांगतो त्या स्वरूपात दिली आहे.", "reviewed": false }
+    "hi": {
+      "text": "विकिपीडिया की वेलंकन्नी और बेसिलिका ऑफ़ अवर लेडी ऑफ़ गुड हेल्थ प्रविष्टियों से। स्थानीय परंपरा वैसे दी गई है जैसे समुदाय उसे बताता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "विकिपीडियावरील वेलंकण्णी आणि बॅसिलिका ऑफ अवर लेडी ऑफ गुड हेल्थ नोंदींवरून. स्थानिक परंपरा समाज सांगतो त्या स्वरूपात दिली आहे.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [1, 2, 3],
+    "months": [
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [1, 2, 3],
+        "months": [
+          1,
+          2,
+          3
+        ],
         "rating": "best",
         "weather": {
           "en": "The most pleasant months, with sea breezes and drier weather. A good time for a calm visit to the basilica.",
-          "hi": { "text": "सबसे सुखद महीने, समुद्री हवा और सूखा मौसम। बेसिलिका की शांत यात्रा के लिए अच्छा समय।", "reviewed": false },
-          "mr": { "text": "सर्वात आल्हाददायक महिने, समुद्री वारे आणि कोरडे हवामान. बॅसिलिकेच्या शांत भेटीसाठी चांगला काळ.", "reviewed": false }
+          "hi": {
+            "text": "सबसे सुखद महीने, समुद्री हवा और सूखा मौसम। बेसिलिका की शांत यात्रा के लिए अच्छा समय।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "सर्वात आल्हाददायक महिने, समुद्री वारे आणि कोरडे हवामान. बॅसिलिकेच्या शांत भेटीसाठी चांगला काळ.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5, 6],
+        "months": [
+          4,
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Hot and humid, often above 35 degrees. Visit early in the morning and carry water.",
-          "hi": { "text": "गरम और उमस भरा, अक्सर 35 डिग्री से ऊपर। सुबह जल्दी जाएँ और पानी साथ रखें।", "reviewed": false },
-          "mr": { "text": "उष्ण आणि दमट, अनेकदा 35 अंशांपेक्षा अधिक. पहाटे लवकर जा आणि पाणी सोबत ठेवा.", "reviewed": false }
+          "hi": {
+            "text": "गरम और उमस भरा, अक्सर 35 डिग्री से ऊपर। सुबह जल्दी जाएँ और पानी साथ रखें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि दमट, अनेकदा 35 अंशांपेक्षा अधिक. पहाटे लवकर जा आणि पाणी सोबत ठेवा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "good",
         "weather": {
           "en": "Warm and humid. The annual festival runs from late August to 8 September, bringing the largest crowds of the year. Expect long queues and book stays early.",
-          "hi": { "text": "गरम और उमस भरा। वार्षिक उत्सव अगस्त के अंत से 8 सितंबर तक चलता है, जो साल की सबसे बड़ी भीड़ लाता है। लंबी कतारों और पहले से ठहरने की बुकिंग की अपेक्षा रखें।", "reviewed": false },
-          "mr": { "text": "उष्ण आणि दमट. वार्षिक उत्सव ऑगस्टच्या शेवटापासून 8 सप्टेंबरपर्यंत चालतो, जो वर्षातील सर्वात मोठी गर्दी आणतो. लांब रांगा आणि आधी मुक्कामाचे बुकिंग यांची अपेक्षा ठेवा.", "reviewed": false }
+          "hi": {
+            "text": "गरम और उमस भरा। वार्षिक उत्सव अगस्त के अंत से 8 सितंबर तक चलता है, जो साल की सबसे बड़ी भीड़ लाता है। लंबी कतारों और पहले से ठहरने की बुकिंग की अपेक्षा रखें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि दमट. वार्षिक उत्सव ऑगस्टच्या शेवटापासून 8 सप्टेंबरपर्यंत चालतो, जो वर्षातील सर्वात मोठी गर्दी आणतो. लांब रांगा आणि आधी मुक्कामाचे बुकिंग यांची अपेक्षा ठेवा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [10, 11, 12],
+        "months": [
+          10,
+          11,
+          12
+        ],
         "rating": "difficult",
         "weather": {
           "en": "The northeast monsoon brings heavy rain to the coast, and the streets can flood. Check weather before travel.",
-          "hi": { "text": "उत्तर-पूर्वी मानसून तट पर भारी बारिश लाता है, और सड़कों पर पानी भर सकता है। यात्रा से पहले मौसम जाँचें।", "reviewed": false },
-          "mr": { "text": "ईशान्य मान्सून किनाऱ्यावर मुसळधार पाऊस आणतो, आणि रस्त्यांवर पाणी साचू शकते. प्रवासापूर्वी हवामान तपासा.", "reviewed": false }
+          "hi": {
+            "text": "उत्तर-पूर्वी मानसून तट पर भारी बारिश लाता है, और सड़कों पर पानी भर सकता है। यात्रा से पहले मौसम जाँचें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "ईशान्य मान्सून किनाऱ्यावर मुसळधार पाऊस आणतो, आणि रस्त्यांवर पाणी साचू शकते. प्रवासापूर्वी हवामान तपासा.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Tiruchirappalli International Airport (about 165 km)", "hi": { "text": "तिरुचिरापल्ली अंतरराष्ट्रीय हवाई अड्डा (लगभग 165 किमी)", "reviewed": false }, "mr": { "text": "तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ (सुमारे 165 किमी)", "reviewed": false } },
+      "nearest": {
+        "en": "Tiruchirappalli International Airport (about 165 km)",
+        "hi": {
+          "text": "तिरुचिरापल्ली अंतरराष्ट्रीय हवाई अड्डा (लगभग 165 किमी)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ (सुमारे 165 किमी)",
+          "reviewed": false
+        }
+      },
       "km": 165,
       "how": {
         "en": "Trichy is the nearest major airport with domestic flights. Take a taxi or bus to Nagapattinam, then a local bus or cab to Velankanni. Allow most of a day for the road journey. Check flight schedules locally.",
-        "hi": { "text": "त्रिची निकटतम बड़ा हवाई अड्डा है जहाँ घरेलू उड़ानें हैं। वहाँ से टैक्सी या बस से नागपट्टिनम जाएँ, फिर स्थानीय बस या कैब से वेलंकन्नी। सड़क यात्रा में लगभग पूरा दिन लग सकता है। उड़ान समय स्थानीय रूप से जाँचें।", "reviewed": false },
-        "mr": { "text": "त्रिची हे सर्वात जवळचे मोठे विमानतळ असून तेथे देशांतर्गत उड्डाणे आहेत. तेथून टॅक्सी किंवा बसने नागपट्टिनमला जा, मग स्थानिक बस किंवा कॅबने वेलंकण्णी. रस्त्याच्या प्रवासाला जवळपास पूर्ण दिवस लागू शकतो. उड्डाणाच्या वेळा स्थानिक पातळीवर तपासा.", "reviewed": false }
+        "hi": {
+          "text": "त्रिची निकटतम बड़ा हवाई अड्डा है जहाँ घरेलू उड़ानें हैं। वहाँ से टैक्सी या बस से नागपट्टिनम जाएँ, फिर स्थानीय बस या कैब से वेलंकन्नी। सड़क यात्रा में लगभग पूरा दिन लग सकता है। उड़ान समय स्थानीय रूप से जाँचें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "त्रिची हे सर्वात जवळचे मोठे विमानतळ असून तेथे देशांतर्गत उड्डाणे आहेत. तेथून टॅक्सी किंवा बसने नागपट्टिनमला जा, मग स्थानिक बस किंवा कॅबने वेलंकण्णी. रस्त्याच्या प्रवासाला जवळपास पूर्ण दिवस लागू शकतो. उड्डाणाच्या वेळा स्थानिक पातळीवर तपासा.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Velankanni railway station", "hi": { "text": "वेलंकन्नी रेलवे स्टेशन", "reviewed": false }, "mr": { "text": "वेलंकण्णी रेल्वे स्थानक", "reviewed": false } },
+      "nearest": {
+        "en": "Velankanni railway station",
+        "hi": {
+          "text": "वेलंकन्नी रेलवे स्टेशन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वेलंकण्णी रेल्वे स्थानक",
+          "reviewed": false
+        }
+      },
       "km": 1,
       "how": {
         "en": "Velankanni has its own station, the terminus of a short branch line from Nagapattinam. Trains from Nagapattinam connect to the wider rail network. The basilica is a short walk or auto ride away.",
-        "hi": { "text": "वेलंकन्नी का अपना स्टेशन है, जो नागपट्टिनम से आने वाली एक छोटी शाखा रेखा का टर्मिनस है। नागपट्टिनम की गाड़ियाँ बड़े रेल नेटवर्क से जुड़ती हैं। बेसिलिका पैदल या ऑटो की छोटी दूरी पर है।", "reviewed": false },
-        "mr": { "text": "वेलंकण्णीला स्वतःचे स्थानक आहे, जे नागपट्टिनमहून येणाऱ्या छोट्या शाखा मार्गाचे टर्मिनस आहे. नागपट्टिनमच्या गाड्या मोठ्या रेल्वे जाळ्याशी जोडतात. बॅसिलिका पायी किंवा ऑटोने थोड्या अंतरावर आहे.", "reviewed": false }
+        "hi": {
+          "text": "वेलंकन्नी का अपना स्टेशन है, जो नागपट्टिनम से आने वाली एक छोटी शाखा रेखा का टर्मिनस है। नागपट्टिनम की गाड़ियाँ बड़े रेल नेटवर्क से जुड़ती हैं। बेसिलिका पैदल या ऑटो की छोटी दूरी पर है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वेलंकण्णीला स्वतःचे स्थानक आहे, जे नागपट्टिनमहून येणाऱ्या छोट्या शाखा मार्गाचे टर्मिनस आहे. नागपट्टिनमच्या गाड्या मोठ्या रेल्वे जाळ्याशी जोडतात. बॅसिलिका पायी किंवा ऑटोने थोड्या अंतरावर आहे.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "Nagapattinam is the nearest large town, about 12 to 14 km away, with buses to Velankanni. Chennai is a long road journey away, so most travellers use a bus or cab from Nagapattinam or Tiruchirappalli.",
-        "hi": { "text": "नागपट्टिनम निकटतम बड़ा नगर है, लगभग 12 से 14 किमी दूर, जहाँ से वेलंकन्नी के लिए बसें हैं। चेन्नई से सड़क यात्रा लंबी है, इसलिए अधिकतर यात्री नागपट्टिनम या त्रिची से बस या कैब लेते हैं।", "reviewed": false },
-        "mr": { "text": "नागपट्टिनम हे सर्वात जवळचे मोठे गाव असून सुमारे 12 ते 14 किमी अंतरावर आहे, तेथून वेलंकण्णीसाठी बसेस आहेत. चेन्नईहून रस्त्याचा प्रवास लांब आहे, म्हणून बहुतेक प्रवासी नागपट्टिनम किंवा त्रिचीहून बस किंवा कॅब घेतात.", "reviewed": false }
+        "hi": {
+          "text": "नागपट्टिनम निकटतम बड़ा नगर है, लगभग 12 से 14 किमी दूर, जहाँ से वेलंकन्नी के लिए बसें हैं। चेन्नई से सड़क यात्रा लंबी है, इसलिए अधिकतर यात्री नागपट्टिनम या त्रिची से बस या कैब लेते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नागपट्टिनम हे सर्वात जवळचे मोठे गाव असून सुमारे 12 ते 14 किमी अंतरावर आहे, तेथून वेलंकण्णीसाठी बसेस आहेत. चेन्नईहून रस्त्याचा प्रवास लांब आहे, म्हणून बहुतेक प्रवासी नागपट्टिनम किंवा त्रिचीहून बस किंवा कॅब घेतात.",
+          "reviewed": false
+        }
       },
       "km": 12
     }
   },
   "localTransport": {
     "en": "The basilica and the town centre are walkable. Autos and cycle rickshaws cover short distances, and buses link Velankanni to Nagapattinam. Agree the fare before you start, and avoid travelling late at night on the coast road.",
-    "hi": { "text": "बेसिलिका और नगर का केंद्र पैदल चलने योग्य हैं। ऑटो और साइकिल रिक्शा छोटी दूरी तय करते हैं, और बसें वेलंकन्नी को नागपट्टिनम से जोड़ती हैं। शुरू करने से पहले किराया तय करें, और तट की सड़क पर देर रात यात्रा से बचें।", "reviewed": false },
-    "mr": { "text": "बॅसिलिका आणि गावाचा मध्यभाग पायी फिरण्यासारखा आहे. ऑटो आणि सायकल रिक्षा थोड्या अंतरासाठी धावतात, आणि बसेस वेलंकण्णीला नागपट्टिनमशी जोडतात. सुरू करण्यापूर्वी भाडे ठरवा, आणि किनारी रस्त्यावर रात्री उशिरा प्रवास टाळा.", "reviewed": false }
+    "hi": {
+      "text": "बेसिलिका और नगर का केंद्र पैदल चलने योग्य हैं। ऑटो और साइकिल रिक्शा छोटी दूरी तय करते हैं, और बसें वेलंकन्नी को नागपट्टिनम से जोड़ती हैं। शुरू करने से पहले किराया तय करें, और तट की सड़क पर देर रात यात्रा से बचें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बॅसिलिका आणि गावाचा मध्यभाग पायी फिरण्यासारखा आहे. ऑटो आणि सायकल रिक्षा थोड्या अंतरासाठी धावतात, आणि बसेस वेलंकण्णीला नागपट्टिनमशी जोडतात. सुरू करण्यापूर्वी भाडे ठरवा, आणि किनारी रस्त्यावर रात्री उशिरा प्रवास टाळा.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "christmas",
       "note": {
         "en": "Christmas brings Mass and prayer to the basilica, and the shrine is busy with pilgrims during the Christmas season.",
-        "hi": { "text": "क्रिसमस पर बेसिलिका में मिस्सा और प्रार्थना होती है, और क्रिसमस के समय तीर्थ यात्रियों से भरा रहता है।", "reviewed": false },
-        "mr": { "text": "नाताळला बॅसिलिकेत मिस्सा आणि प्रार्थना होतात, आणि नाताळच्या काळात तीर्थ यात्रेकरूंनी गजबजलेले असते.", "reviewed": false }
+        "hi": {
+          "text": "क्रिसमस पर बेसिलिका में मिस्सा और प्रार्थना होती है, और क्रिसमस के समय तीर्थ यात्रियों से भरा रहता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नाताळला बॅसिलिकेत मिस्सा आणि प्रार्थना होतात, आणि नाताळच्या काळात तीर्थ यात्रेकरूंनी गजबजलेले असते.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Nagapattinam", "hi": { "text": "नागपट्टिनम", "reviewed": false }, "mr": { "text": "नागपट्टिनम", "reviewed": false } },
+      "name": {
+        "en": "Nagapattinam",
+        "hi": {
+          "text": "नागपट्टिनम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नागपट्टिनम",
+          "reviewed": false
+        }
+      },
       "km": 12,
-      "note": { "en": "The district town, with the main road, rail and bus links for Velankanni. A natural base for buses and shops.", "hi": { "text": "ज़िला नगर, जहाँ से वेलंकन्नी के लिए मुख्य सड़क, रेल और बस संपर्क हैं। बसों और दुकानों के लिए स्वाभाविक आधार।", "reviewed": false }, "mr": { "text": "जिल्ह्याचे गाव, जेथून वेलंकण्णीसाठी मुख्य रस्ता, रेल्वे आणि बस संपर्क आहेत. बसेस व दुकानांसाठी नैसर्गिक तळ.", "reviewed": false } }
+      "note": {
+        "en": "The district town, with the main road, rail and bus links for Velankanni. A natural base for buses and shops.",
+        "hi": {
+          "text": "ज़िला नगर, जहाँ से वेलंकन्नी के लिए मुख्य सड़क, रेल और बस संपर्क हैं। बसों और दुकानों के लिए स्वाभाविक आधार।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जिल्ह्याचे गाव, जेथून वेलंकण्णीसाठी मुख्य रस्ता, रेल्वे आणि बस संपर्क आहेत. बसेस व दुकानांसाठी नैसर्गिक तळ.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Nagore Dargah", "hi": { "text": "नागोर दरगाह", "reviewed": false }, "mr": { "text": "नागोर दर्गा", "reviewed": false } },
+      "name": {
+        "en": "Nagore Dargah",
+        "hi": {
+          "text": "नागोर दरगाह",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नागोर दर्गा",
+          "reviewed": false
+        }
+      },
       "km": 15,
-      "note": { "en": "A Sufi shrine on the coast near Nagapattinam, visited by people of many faiths. A good companion visit to see another living shrine tradition. Distance is approximate; check locally.", "hi": { "text": "नागपट्टिनम के पास तट पर एक सूफ़ी दरगाह, जहाँ कई धर्मों के लोग आते हैं। एक और जीवंत तीर्थ-परंपरा देखने के लिए अच्छी साथी यात्रा। दूरी अनुमानित है; स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "नागपट्टिनमजवळ किनाऱ्यावरील सूफी दर्गा, जेथे अनेक धर्मांचे लोक येतात. आणखी एक जिवंत तीर्थ परंपरा पाहण्यासाठी चांगली सोबतीची भेट. अंतर अंदाजे आहे; स्थानिक पातळीवर तपासा.", "reviewed": false } }
+      "note": {
+        "en": "A Sufi shrine on the coast near Nagapattinam, visited by people of many faiths. A good companion visit to see another living shrine tradition. Distance is approximate; check locally.",
+        "hi": {
+          "text": "नागपट्टिनम के पास तट पर एक सूफ़ी दरगाह, जहाँ कई धर्मों के लोग आते हैं। एक और जीवंत तीर्थ-परंपरा देखने के लिए अच्छी साथी यात्रा। दूरी अनुमानित है; स्थानीय रूप से जाँचें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नागपट्टिनमजवळ किनाऱ्यावरील सूफी दर्गा, जेथे अनेक धर्मांचे लोक येतात. आणखी एक जिवंत तीर्थ परंपरा पाहण्यासाठी चांगली सोबतीची भेट. अंतर अंदाजे आहे; स्थानिक पातळीवर तपासा.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "The Basilica of Our Lady of Good Health at Velankanni", "hi": { "text": "वेलंकन्नी में बेसिलिका ऑफ़ अवर लेडी ऑफ़ गुड हेल्थ", "reviewed": false }, "mr": { "text": "वेलंकण्णीतील बॅसिलिका ऑफ अवर लेडी ऑफ गुड हेल्थ", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Velankanni",
+        "hi": {
+          "text": "वेलंकन्नी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वेलंकण्णी",
+          "reviewed": false
+        }
+      },
+      "credit": "Krrishnah, CC BY-SA 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Shrine_Basilica,_Velankanni,_Tamil_Nadu.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Velankanni",
+        "hi": {
+          "text": "वेलंकन्नी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "वेलंकण्णी",
+          "reviewed": false
+        }
+      },
+      "credit": "Jpullokaran, CC BY-SA 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Velankanni_Church_101.JPG"
     }
   ],
   "sources": [
-    { "label": "Velankanni, Wikipedia", "url": "https://en.wikipedia.org/wiki/Velankanni" },
-    { "label": "Basilica of Our Lady of Good Health, Wikipedia", "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Good_Health" }
+    {
+      "label": "Velankanni, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Velankanni"
+    },
+    {
+      "label": "Basilica of Our Lady of Good Health, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Good_Health"
+    }
   ]
 }

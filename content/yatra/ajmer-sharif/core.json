@@ -5,146 +5,374 @@
   "version": "2026-11-26.1",
   "status": "draft",
   "id": "ajmer-sharif",
-  "name": { "en": "Ajmer Sharif", "hi": { "text": "अजमेर शरीफ़", "reviewed": false }, "mr": { "text": "अजमेर शरीफ", "reviewed": false } },
-  "state": { "en": "Rajasthan", "hi": { "text": "राजस्थान", "reviewed": false }, "mr": { "text": "राजस्थान", "reviewed": false } },
+  "name": {
+    "en": "Ajmer Sharif",
+    "hi": {
+      "text": "अजमेर शरीफ़",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "अजमेर शरीफ",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Rajasthan",
+    "hi": {
+      "text": "राजस्थान",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "राजस्थान",
+      "reviewed": false
+    }
+  },
   "stateKey": "rajasthan",
-  "traditions": ["islamic", "hindu"],
+  "traditions": [
+    "islamic"
+  ],
   "deity": {
     "en": "The dargah of Khwaja Moinuddin Chishti, a Sufi saint of the 13th century, known as Gharib Nawaz, the benefactor of the poor. Pilgrims of many faiths visit his tomb in Ajmer.",
-    "hi": { "text": "ख़्वाजा मोईनुद्दीन चिश्ती की दरगाह, 13वीं सदी के सूफ़ी संत, जो ग़रीब नवाज़ (ग़रीबों के सहायक) के नाम से जाने जाते हैं। कई धर्मों के यात्री अजमेर में उनकी मज़ार पर आते हैं।", "reviewed": false },
-    "mr": { "text": "ख्वाजा मोईनुद्दीन चिश्ती यांची दर्गा, 13व्या शतकातील सूफी संत, जे गरीब नवाज (गरिबांचे आश्रयदाते) म्हणून ओळखले जातात. अनेक धर्मांचे यात्रेकरू अजमेरमधील त्यांच्या मजारवर येतात.", "reviewed": false }
+    "hi": {
+      "text": "ख़्वाजा मोईनुद्दीन चिश्ती की दरगाह, 13वीं सदी के सूफ़ी संत, जो ग़रीब नवाज़ (ग़रीबों के सहायक) के नाम से जाने जाते हैं। कई धर्मों के यात्री अजमेर में उनकी मज़ार पर आते हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "ख्वाजा मोईनुद्दीन चिश्ती यांची दर्गा, 13व्या शतकातील सूफी संत, जे गरीब नवाज (गरिबांचे आश्रयदाते) म्हणून ओळखले जातात. अनेक धर्मांचे यात्रेकरू अजमेरमधील त्यांच्या मजारवर येतात.",
+      "reviewed": false
+    }
   },
   "significance": {
     "en": "In Sufi tradition, the dargah is a place of ziyarat, a visit to a saint whose life is seen as a model of humility, service and love of God. Moinuddin Chishti is the central figure of the Chishti order in South Asia. The dargah is a living centre of devotion, music and shared hospitality.",
-    "hi": { "text": "सूफ़ी परंपरा में दरगाह ज़ियारत का स्थान है, यानी उस संत के दर्शन जिनका जीवन विनम्रता, सेवा और ईश्वर के प्रेम का आदर्श माना जाता है। मोईनुद्दीन चिश्ती दक्षिण एशिया में चिश्ती सिलसिले के केंद्रीय व्यक्ति हैं। दरगाह भक्ति, संगीत और साझा मेहमाननवाज़ी का जीवंत केंद्र है।", "reviewed": false },
-    "mr": { "text": "सूफी परंपरेत दर्गा हे झियारत स्थळ आहे, म्हणजे अशा संतांचे दर्शन जे जीवन नम्रता, सेवा आणि ईश्वरप्रेमाचा आदर्श मानले जाते. मोईनुद्दीन चिश्ती हे दक्षिण आशियातील चिश्ती सिलसिल्याचे केंद्रस्थानी व्यक्तिमत्त्व आहेत. दर्गा हे भक्ती, संगीत आणि सामायिक आदरातिथ्याचे जिवंत केंद्र आहे.", "reviewed": false }
+    "hi": {
+      "text": "सूफ़ी परंपरा में दरगाह ज़ियारत का स्थान है, यानी उस संत के दर्शन जिनका जीवन विनम्रता, सेवा और ईश्वर के प्रेम का आदर्श माना जाता है। मोईनुद्दीन चिश्ती दक्षिण एशिया में चिश्ती सिलसिले के केंद्रीय व्यक्ति हैं। दरगाह भक्ति, संगीत और साझा मेहमाननवाज़ी का जीवंत केंद्र है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सूफी परंपरेत दर्गा हे झियारत स्थळ आहे, म्हणजे अशा संतांचे दर्शन जे जीवन नम्रता, सेवा आणि ईश्वरप्रेमाचा आदर्श मानले जाते. मोईनुद्दीन चिश्ती हे दक्षिण आशियातील चिश्ती सिलसिल्याचे केंद्रस्थानी व्यक्तिमत्त्व आहेत. दर्गा हे भक्ती, संगीत आणि सामायिक आदरातिथ्याचे जिवंत केंद्र आहे.",
+      "reviewed": false
+    }
   },
   "tagline": {
     "en": "The dargah of Gharib Nawaz, open to all",
-    "hi": { "text": "ग़रीब नवाज़ की दरगाह, सबके लिए खुली", "reviewed": false },
-    "mr": { "text": "गरीब नवाजांची दर्गा, सर्वांसाठी खुली", "reviewed": false }
+    "hi": {
+      "text": "ग़रीब नवाज़ की दरगाह, सबके लिए खुली",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "गरीब नवाजांची दर्गा, सर्वांसाठी खुली",
+      "reviewed": false
+    }
   },
   "overview": {
     "en": "Ajmer Sharif is a city in Rajasthan, and its dargah draws pilgrims from across India and abroad every day. Visitors pass through lanes of shops selling flowers and chadars (cloth offerings), enter through the gates, and sit or stand near the tomb to offer prayers. Expect crowds, especially on Thursdays and Fridays and during the Urs. Dress modestly, cover your head inside, and keep a respectful tone throughout.",
-    "hi": { "text": "अजमेर शरीफ़ राजस्थान का एक नगर है, और इसकी दरगाह हर दिन भारत और विदेश से यात्रियों को खींचती है। दर्शनार्थी फूलों और चादरों (भेंट के कपड़े) की दुकानों वाली गलियों से गुज़रकर द्वारों से प्रवेश करते हैं, और मज़ार के पास बैठकर या खड़े होकर दुआ करते हैं। भीड़ की अपेक्षा रखें, विशेषकर गुरुवार और शुक्रवार को और उर्स के दौरान। शालीन कपड़े पहनें, भीतर सिर ढकें और पूरे समय सम्मानजनक रवैया रखें।", "reviewed": false },
-    "mr": { "text": "अजमेर शरीफ हे राजस्थानातील एक शहर आहे, आणि तेथील दर्गा दररोज भारतभरातून आणि परदेशातून यात्रेकरू आकर्षित करतो. फुले आणि चादरी (अर्पणाचे कापड) विकणाऱ्या दुकानांच्या गल्ल्यांमधून भाविक दरवाजांतून आत जातात, आणि मजारजवळ बसून किंवा उभे राहून प्रार्थना करतात. गर्दीची अपेक्षा ठेवा, विशेषतः गुरुवार व शुक्रवारी आणि उरसच्या काळात. सभ्य कपडे घाला, आत डोके झाका आणि संपूर्ण वेळ आदरयुक्त वर्तन ठेवा.", "reviewed": false }
+    "hi": {
+      "text": "अजमेर शरीफ़ राजस्थान का एक नगर है, और इसकी दरगाह हर दिन भारत और विदेश से यात्रियों को खींचती है। दर्शनार्थी फूलों और चादरों (भेंट के कपड़े) की दुकानों वाली गलियों से गुज़रकर द्वारों से प्रवेश करते हैं, और मज़ार के पास बैठकर या खड़े होकर दुआ करते हैं। भीड़ की अपेक्षा रखें, विशेषकर गुरुवार और शुक्रवार को और उर्स के दौरान। शालीन कपड़े पहनें, भीतर सिर ढकें और पूरे समय सम्मानजनक रवैया रखें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "अजमेर शरीफ हे राजस्थानातील एक शहर आहे, आणि तेथील दर्गा दररोज भारतभरातून आणि परदेशातून यात्रेकरू आकर्षित करतो. फुले आणि चादरी (अर्पणाचे कापड) विकणाऱ्या दुकानांच्या गल्ल्यांमधून भाविक दरवाजांतून आत जातात, आणि मजारजवळ बसून किंवा उभे राहून प्रार्थना करतात. गर्दीची अपेक्षा ठेवा, विशेषतः गुरुवार व शुक्रवारी आणि उरसच्या काळात. सभ्य कपडे घाला, आत डोके झाका आणि संपूर्ण वेळ आदरयुक्त वर्तन ठेवा.",
+      "reviewed": false
+    }
   },
   "story": {
     "en": "Khwaja Moinuddin Chishti came to India in the 13th century and settled in Ajmer, where he taught love of God, service to people and openness to all. His followers built the tomb over time, and successive rulers, including the Sultans of Delhi and the Mughals, added gateways, mosques and courtyards. The tradition holds that he is buried here and that his spiritual presence continues to draw people. The annual Urs marks his death anniversary.",
-    "hi": { "text": "ख़्वाजा मोईनुद्दीन चिश्ती 13वीं सदी में भारत आए और अजमेर में बस गए, जहाँ उन्होंने ईश्वर के प्रेम, लोगों की सेवा और सबके प्रति खुलेपन की शिक्षा दी। उनके अनुयायियों ने समय के साथ मज़ार बनवाई, और दिल्ली के सुल्तानों तथा मुग़लों सहित उत्तराधिकारी शासकों ने द्वार, मस्जिदें और आँगन जोड़े। परंपरा मानती है कि उन्हें यहीं दफ़नाया गया और उनकी आध्यात्मिक उपस्थिति आज भी लोगों को खींचती है। सालाना उर्स उनकी पुण्यतिथि मनाता है।", "reviewed": false },
-    "mr": { "text": "ख्वाजा मोईनुद्दीन चिश्ती 13व्या शतकात भारतात आले आणि अजमेरमध्ये स्थायिक झाले, जेथे त्यांनी ईश्वरप्रेम, लोकसेवा आणि सर्वांप्रती मोकळेपणा शिकवला. त्यांच्या अनुयायांनी कालांतराने मजार बांधली, आणि दिल्लीच्या सुलतानांसह मुघलांसारख्या पुढील शासकांनी दरवाजे, मशिदी आणि अंगणे जोडली. परंपरेनुसार त्यांचे दफन येथे झाले आणि त्यांची आध्यात्मिक उपस्थिती आजही लोकांना आकर्षित करते. वार्षिक उरस त्यांची पुण्यतिथी साजरी करतो.", "reviewed": false }
+    "hi": {
+      "text": "ख़्वाजा मोईनुद्दीन चिश्ती 13वीं सदी में भारत आए और अजमेर में बस गए, जहाँ उन्होंने ईश्वर के प्रेम, लोगों की सेवा और सबके प्रति खुलेपन की शिक्षा दी। उनके अनुयायियों ने समय के साथ मज़ार बनवाई, और दिल्ली के सुल्तानों तथा मुग़लों सहित उत्तराधिकारी शासकों ने द्वार, मस्जिदें और आँगन जोड़े। परंपरा मानती है कि उन्हें यहीं दफ़नाया गया और उनकी आध्यात्मिक उपस्थिति आज भी लोगों को खींचती है। सालाना उर्स उनकी पुण्यतिथि मनाता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "ख्वाजा मोईनुद्दीन चिश्ती 13व्या शतकात भारतात आले आणि अजमेरमध्ये स्थायिक झाले, जेथे त्यांनी ईश्वरप्रेम, लोकसेवा आणि सर्वांप्रती मोकळेपणा शिकवला. त्यांच्या अनुयायांनी कालांतराने मजार बांधली, आणि दिल्लीच्या सुलतानांसह मुघलांसारख्या पुढील शासकांनी दरवाजे, मशिदी आणि अंगणे जोडली. परंपरेनुसार त्यांचे दफन येथे झाले आणि त्यांची आध्यात्मिक उपस्थिती आजही लोकांना आकर्षित करते. वार्षिक उरस त्यांची पुण्यतिथी साजरी करतो.",
+      "reviewed": false
+    }
   },
   "storySource": {
     "en": "From the Wikipedia entries on Ajmer Sharif Dargah and Ajmer, and Sufi tradition as the dargah community describes it.",
-    "hi": { "text": "विकिपीडिया की अजमेर शरीफ़ दरगाह और अजमेर प्रविष्टियों से, तथा दरगाह समुदाय जैसा बताता है वैसी सूफ़ी परंपरा से।", "reviewed": false },
-    "mr": { "text": "विकिपीडियावरील अजमेर शरीफ दर्गा आणि अजमेर नोंदींवरून, आणि दर्गा समुदाय सांगतो त्या सूफी परंपरेनुसार.", "reviewed": false }
+    "hi": {
+      "text": "विकिपीडिया की अजमेर शरीफ़ दरगाह और अजमेर प्रविष्टियों से, तथा दरगाह समुदाय जैसा बताता है वैसी सूफ़ी परंपरा से।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "विकिपीडियावरील अजमेर शरीफ दर्गा आणि अजमेर नोंदींवरून, आणि दर्गा समुदाय सांगतो त्या सूफी परंपरेनुसार.",
+      "reviewed": false
+    }
   },
   "bestTime": {
-    "months": [11, 12, 1, 2, 3],
+    "months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
     "seasons": [
       {
-        "months": [11, 12, 1, 2],
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ],
         "rating": "best",
         "weather": {
           "en": "Mild and dry, with little humidity. The best time for a long, unhurried visit. Hotel rooms fill up quickly, and the Urs dates shift with the Islamic calendar each year, so check them before you plan.",
-          "hi": { "text": "हल्का और शुष्क मौसम, नमी बहुत कम। लंबी, धीमी यात्रा के लिए सबसे अच्छा समय। होटल के कमरे जल्दी भर जाते हैं, और उर्स की तिथियाँ इस्लामी कैलेंडर के अनुसार हर साल बदलती हैं, इसलिए योजना से पहले जाँच लें।", "reviewed": false },
-          "mr": { "text": "सौम्य आणि कोरडे हवामान, आर्द्रता फार कमी. शांत, निवांत भेटीसाठी सर्वोत्तम काळ. हॉटेलच्या खोल्या लवकर भरतात, आणि उरसच्या तारखा इस्लामी कॅलेंडरनुसार दरवर्षी बदलतात, त्यामुळे नियोजनापूर्वी तपासा.", "reviewed": false }
+          "hi": {
+            "text": "हल्का और शुष्क मौसम, नमी बहुत कम। लंबी, धीमी यात्रा के लिए सबसे अच्छा समय। होटल के कमरे जल्दी भर जाते हैं, और उर्स की तिथियाँ इस्लामी कैलेंडर के अनुसार हर साल बदलती हैं, इसलिए योजना से पहले जाँच लें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "सौम्य आणि कोरडे हवामान, आर्द्रता फार कमी. शांत, निवांत भेटीसाठी सर्वोत्तम काळ. हॉटेलच्या खोल्या लवकर भरतात, आणि उरसच्या तारखा इस्लामी कॅलेंडरनुसार दरवर्षी बदलतात, त्यामुळे नियोजनापूर्वी तपासा.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [3, 10],
+        "months": [
+          3,
+          10
+        ],
         "rating": "good",
         "weather": {
           "en": "Warming in March and still warm in October. Mornings and evenings are pleasant for walking the lanes.",
-          "hi": { "text": "मार्च में गर्मी बढ़ती है और अक्टूबर में भी गर्म रहता है। सुबह और शाम गलियों में घूमने के लिए सुखद होते हैं।", "reviewed": false },
-          "mr": { "text": "मार्चमध्ये उष्णता वाढते आणि ऑक्टोबरमध्येही उबदार असते. सकाळी आणि संध्याकाळी गल्ल्यांत फिरणे आनंददायी असते.", "reviewed": false }
+          "hi": {
+            "text": "मार्च में गर्मी बढ़ती है और अक्टूबर में भी गर्म रहता है। सुबह और शाम गलियों में घूमने के लिए सुखद होते हैं।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "मार्चमध्ये उष्णता वाढते आणि ऑक्टोबरमध्येही उबदार असते. सकाळी आणि संध्याकाळी गल्ल्यांत फिरणे आनंददायी असते.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [4, 5, 6],
+        "months": [
+          4,
+          5,
+          6
+        ],
         "rating": "difficult",
         "weather": {
           "en": "Very hot and dry, often above 40 degrees. Visit only in the early morning or evening and carry water. Shade is limited in the lanes.",
-          "hi": { "text": "बहुत गर्म और शुष्क, अक्सर 40 डिग्री से ऊपर। केवल सुबह जल्दी या शाम को जाएँ और पानी साथ रखें। गलियों में छाया कम है।", "reviewed": false },
-          "mr": { "text": "खूप उष्ण आणि कोरडे, अनेकदा 40 अंशांपेक्षा अधिक. फक्त सकाळी लवकर किंवा संध्याकाळी जा आणि पाणी सोबत ठेवा. गल्ल्यांत सावली कमी आहे.", "reviewed": false }
+          "hi": {
+            "text": "बहुत गर्म और शुष्क, अक्सर 40 डिग्री से ऊपर। केवल सुबह जल्दी या शाम को जाएँ और पानी साथ रखें। गलियों में छाया कम है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "खूप उष्ण आणि कोरडे, अनेकदा 40 अंशांपेक्षा अधिक. फक्त सकाळी लवकर किंवा संध्याकाळी जा आणि पाणी सोबत ठेवा. गल्ल्यांत सावली कमी आहे.",
+            "reviewed": false
+          }
         }
       },
       {
-        "months": [7, 8, 9],
+        "months": [
+          7,
+          8,
+          9
+        ],
         "rating": "good",
         "weather": {
           "en": "Monsoon humidity and showers. Fewer visitors on most days, and the city is green and quiet between downpours.",
-          "hi": { "text": "मानसून की नमी और बौछारें। ज़्यादातर दिनों में यात्री कम। बारिश के बीच शहर हरा-भरा और शांत रहता है।", "reviewed": false },
-          "mr": { "text": "पावसाळ्यातील आर्द्रता आणि सरी. बहुतेक दिवशी प्रवासी कमी. मुसळधार पावसांच्या मधल्या वेळात शहर हिरवेगार आणि शांत असते.", "reviewed": false }
+          "hi": {
+            "text": "मानसून की नमी और बौछारें। ज़्यादातर दिनों में यात्री कम। बारिश के बीच शहर हरा-भरा और शांत रहता है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळ्यातील आर्द्रता आणि सरी. बहुतेक दिवशी प्रवासी कमी. मुसळधार पावसांच्या मधल्या वेळात शहर हिरवेगार आणि शांत असते.",
+            "reviewed": false
+          }
         }
       }
     ]
   },
   "reach": {
     "air": {
-      "nearest": { "en": "Kishangarh Airport, Ajmer (about 25 km)", "hi": { "text": "किशनगढ़ हवाई अड्डा, अजमेर (लगभग 25 किमी)", "reviewed": false }, "mr": { "text": "किशनगढ विमानतळ, अजमेर (सुमारे 25 किमी)", "reviewed": false } },
+      "nearest": {
+        "en": "Kishangarh Airport, Ajmer (about 25 km)",
+        "hi": {
+          "text": "किशनगढ़ हवाई अड्डा, अजमेर (लगभग 25 किमी)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "किशनगढ विमानतळ, अजमेर (सुमारे 25 किमी)",
+          "reviewed": false
+        }
+      },
       "km": 25,
       "how": {
         "en": "Kishangarh Airport serves Ajmer with limited flights. Many visitors fly into Jaipur and continue by road or rail. A taxi from Kishangarh takes about 30 to 40 minutes. Check schedules locally.",
-        "hi": { "text": "किशनगढ़ हवाई अड्डे से अजमेर के लिए सीमित उड़ानें हैं। कई यात्री जयपुर उतरकर सड़क या रेल से आगे आते हैं। किशनगढ़ से टैक्सी लगभग 30 से 40 मिनट लेती है। समय-सारणी स्थानीय रूप से जाँचें।", "reviewed": false },
-        "mr": { "text": "किशनगढ विमानतळावरून अजमेरसाठी मर्यादित उड्डाणे आहेत. अनेक प्रवासी जयपूरला उतरून रस्त्याने किंवा रेल्वेने पुढे येतात. किशनगढहून टॅक्सीला सुमारे 30 ते 40 मिनिटे लागतात. वेळापत्रक स्थानिक पातळीवर तपासा.", "reviewed": false }
+        "hi": {
+          "text": "किशनगढ़ हवाई अड्डे से अजमेर के लिए सीमित उड़ानें हैं। कई यात्री जयपुर उतरकर सड़क या रेल से आगे आते हैं। किशनगढ़ से टैक्सी लगभग 30 से 40 मिनट लेती है। समय-सारणी स्थानीय रूप से जाँचें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "किशनगढ विमानतळावरून अजमेरसाठी मर्यादित उड्डाणे आहेत. अनेक प्रवासी जयपूरला उतरून रस्त्याने किंवा रेल्वेने पुढे येतात. किशनगढहून टॅक्सीला सुमारे 30 ते 40 मिनिटे लागतात. वेळापत्रक स्थानिक पातळीवर तपासा.",
+          "reviewed": false
+        }
       }
     },
     "rail": {
-      "nearest": { "en": "Ajmer Junction railway station (about 2 km from the dargah)", "hi": { "text": "अजमेर जंक्शन रेलवे स्टेशन (दरगाह से लगभग 2 किमी)", "reviewed": false }, "mr": { "text": "अजमेर जंक्शन रेल्वे स्थानक (दर्ग्यापासून सुमारे 2 किमी)", "reviewed": false } },
+      "nearest": {
+        "en": "Ajmer Junction railway station (about 2 km from the dargah)",
+        "hi": {
+          "text": "अजमेर जंक्शन रेलवे स्टेशन (दरगाह से लगभग 2 किमी)",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अजमेर जंक्शन रेल्वे स्थानक (दर्ग्यापासून सुमारे 2 किमी)",
+          "reviewed": false
+        }
+      },
       "km": 2,
       "how": {
         "en": "Ajmer Junction is the main railway station in the city and is well connected to Delhi, Jaipur, Jodhpur and other cities. The dargah is a short auto or cab ride away.",
-        "hi": { "text": "अजमेर जंक्शन नगर का मुख्य रेलवे स्टेशन है और दिल्ली, जयपुर, जोधपुर तथा अन्य नगरों से अच्छी तरह जुड़ा है। दरगाह तक ऑटो या कैब की छोटी सवारी है।", "reviewed": false },
-        "mr": { "text": "अजमेर जंक्शन हे शहरातील मुख्य रेल्वे स्थानक असून ते दिल्ली, जयपूर, जोधपूर आणि इतर शहरांशी चांगले जोडलेले आहे. दर्ग्यापर्यंत ऑटो किंवा कॅबने थोडा प्रवास आहे.", "reviewed": false }
+        "hi": {
+          "text": "अजमेर जंक्शन नगर का मुख्य रेलवे स्टेशन है और दिल्ली, जयपुर, जोधपुर तथा अन्य नगरों से अच्छी तरह जुड़ा है। दरगाह तक ऑटो या कैब की छोटी सवारी है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अजमेर जंक्शन हे शहरातील मुख्य रेल्वे स्थानक असून ते दिल्ली, जयपूर, जोधपूर आणि इतर शहरांशी चांगले जोडलेले आहे. दर्ग्यापर्यंत ऑटो किंवा कॅबने थोडा प्रवास आहे.",
+          "reviewed": false
+        }
       }
     },
     "road": {
       "how": {
         "en": "Ajmer is on national highways connecting Jaipur, Udaipur and Jodhpur. State and private buses run from these cities, and the drive from Jaipur takes around three hours.",
-        "hi": { "text": "अजमेर जयपुर, उदयपुर और जोधपुर को जोड़ने वाले राष्ट्रीय राजमार्गों पर है। इन नगरों से राज्य और निजी बसें चलती हैं, और जयपुर से सफ़र लगभग तीन घंटे का है।", "reviewed": false },
-        "mr": { "text": "अजमेर जयपूर, उदयपूर आणि जोधपूरला जोडणाऱ्या राष्ट्रीय महामार्गांवर आहे. या शहरांहून राज्य आणि खासगी बसेस धावतात, आणि जयपूरहून प्रवास सुमारे तीन तासांचा आहे.", "reviewed": false }
+        "hi": {
+          "text": "अजमेर जयपुर, उदयपुर और जोधपुर को जोड़ने वाले राष्ट्रीय राजमार्गों पर है। इन नगरों से राज्य और निजी बसें चलती हैं, और जयपुर से सफ़र लगभग तीन घंटे का है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अजमेर जयपूर, उदयपूर आणि जोधपूरला जोडणाऱ्या राष्ट्रीय महामार्गांवर आहे. या शहरांहून राज्य आणि खासगी बसेस धावतात, आणि जयपूरहून प्रवास सुमारे तीन तासांचा आहे.",
+          "reviewed": false
+        }
       },
       "km": 135
     }
   },
   "localTransport": {
     "en": "The dargah area is best reached on foot from the main roads, since the lanes near the gates are narrow and busy. Autos and cabs drop you at the nearest point. Agree the fare before the ride or use the meter.",
-    "hi": { "text": "दरगाह क्षेत्र तक मुख्य सड़कों से पैदल जाना सबसे अच्छा है, क्योंकि द्वारों के पास की गलियाँ सँकरी और भीड़भाड़ वाली हैं। ऑटो और कैब आपको निकटतम बिंदु तक छोड़ते हैं। सवारी से पहले किराया तय करें या मीटर से चलें।", "reviewed": false },
-    "mr": { "text": "दर्ग्याच्या परिसरात मुख्य रस्त्यांवरून पायी जाणे सर्वोत्तम आहे, कारण दरवाज्यांजवळच्या गल्ल्या अरुंद आणि गर्दीच्या आहेत. ऑटो आणि कॅब जवळच्या बिंदूपर्यंत सोडतात. प्रवासापूर्वी भाडे ठरवा किंवा मीटरने जा.", "reviewed": false }
+    "hi": {
+      "text": "दरगाह क्षेत्र तक मुख्य सड़कों से पैदल जाना सबसे अच्छा है, क्योंकि द्वारों के पास की गलियाँ सँकरी और भीड़भाड़ वाली हैं। ऑटो और कैब आपको निकटतम बिंदु तक छोड़ते हैं। सवारी से पहले किराया तय करें या मीटर से चलें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "दर्ग्याच्या परिसरात मुख्य रस्त्यांवरून पायी जाणे सर्वोत्तम आहे, कारण दरवाज्यांजवळच्या गल्ल्या अरुंद आणि गर्दीच्या आहेत. ऑटो आणि कॅब जवळच्या बिंदूपर्यंत सोडतात. प्रवासापूर्वी भाडे ठरवा किंवा मीटरने जा.",
+      "reviewed": false
+    }
   },
   "festivals": [
     {
       "festivalId": "eid-al-fitr",
       "note": {
         "en": "Eid celebrations bring large crowds to the dargah and the town. Prayers and visits are busy, so arrive early and expect long queues.",
-        "hi": { "text": "ईद के उत्सव में दरगाह और नगर में बड़ी भीड़ होती है। प्रार्थना और दर्शन व्यस्त रहते हैं, इसलिए जल्दी पहुँचें और लंबी कतारों की अपेक्षा रखें।", "reviewed": false },
-        "mr": { "text": "ईदच्या उत्सवात दर्गा आणि गावात मोठी गर्दी असते. प्रार्थना आणि दर्शन व्यस्त असतात, त्यामुळे लवकर पोहोचा आणि लांब रांगांची अपेक्षा ठेवा.", "reviewed": false }
+        "hi": {
+          "text": "ईद के उत्सव में दरगाह और नगर में बड़ी भीड़ होती है। प्रार्थना और दर्शन व्यस्त रहते हैं, इसलिए जल्दी पहुँचें और लंबी कतारों की अपेक्षा रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ईदच्या उत्सवात दर्गा आणि गावात मोठी गर्दी असते. प्रार्थना आणि दर्शन व्यस्त असतात, त्यामुळे लवकर पोहोचा आणि लांब रांगांची अपेक्षा ठेवा.",
+          "reviewed": false
+        }
       }
     }
   ],
   "nearby": [
     {
-      "name": { "en": "Pushkar", "hi": { "text": "पुष्कर", "reviewed": false }, "mr": { "text": "पुष्कर", "reviewed": false } },
+      "name": {
+        "en": "Pushkar",
+        "hi": {
+          "text": "पुष्कर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पुष्कर",
+          "reviewed": false
+        }
+      },
       "km": 11,
-      "note": { "en": "A sacred Hindu lake town with the Brahma temple, a short drive from Ajmer. A natural pairing for a day trip. Distance is approximate; check locally.", "hi": { "text": "ब्रह्मा मंदिर वाला पवित्र हिंदू सरोवर नगर, अजमेर से थोड़ी दूरी पर। एक दिन की यात्रा के लिए स्वाभाविक जोड़ी। दूरी अनुमानित है; स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "ब्रह्मा मंदिर असलेले पवित्र हिंदू तलावाचे गाव, अजमेरपासून थोड्या अंतरावर. एका दिवसाच्या सहलीसाठी नैसर्गिक जोड. अंतर अंदाजे आहे; स्थानिक पातळीवर तपासा.", "reviewed": false } }
+      "note": {
+        "en": "A sacred Hindu lake town with the Brahma temple, a short drive from Ajmer. A natural pairing for a day trip. Distance is approximate; check locally.",
+        "hi": {
+          "text": "ब्रह्मा मंदिर वाला पवित्र हिंदू सरोवर नगर, अजमेर से थोड़ी दूरी पर। एक दिन की यात्रा के लिए स्वाभाविक जोड़ी। दूरी अनुमानित है; स्थानीय रूप से जाँचें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "ब्रह्मा मंदिर असलेले पवित्र हिंदू तलावाचे गाव, अजमेरपासून थोड्या अंतरावर. एका दिवसाच्या सहलीसाठी नैसर्गिक जोड. अंतर अंदाजे आहे; स्थानिक पातळीवर तपासा.",
+          "reviewed": false
+        }
+      }
     },
     {
-      "name": { "en": "Jaipur", "hi": { "text": "जयपुर", "reviewed": false }, "mr": { "text": "जयपूर", "reviewed": false } },
+      "name": {
+        "en": "Jaipur",
+        "hi": {
+          "text": "जयपुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जयपूर",
+          "reviewed": false
+        }
+      },
       "km": 135,
-      "note": { "en": "The capital of Rajasthan, with a larger airport and many hotels, a useful base before or after Ajmer. Distance is approximate; check locally.", "hi": { "text": "राजस्थान की राजधानी, जिसमें बड़ा हवाई अड्डा और कई होटल हैं, अजमेर से पहले या बाद में उपयोगी आधार। दूरी अनुमानित है; स्थानीय रूप से जाँचें।", "reviewed": false }, "mr": { "text": "राजस्थानची राजधानी, जेथे मोठे विमानतळ आणि अनेक हॉटेल्स आहेत, अजमेरपूर्वी किंवा नंतर उपयुक्त तळ. अंतर अंदाजे आहे; स्थानिक पातळीवर तपासा.", "reviewed": false } }
+      "note": {
+        "en": "The capital of Rajasthan, with a larger airport and many hotels, a useful base before or after Ajmer. Distance is approximate; check locally.",
+        "hi": {
+          "text": "राजस्थान की राजधानी, जिसमें बड़ा हवाई अड्डा और कई होटल हैं, अजमेर से पहले या बाद में उपयोगी आधार। दूरी अनुमानित है; स्थानीय रूप से जाँचें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "राजस्थानची राजधानी, जेथे मोठे विमानतळ आणि अनेक हॉटेल्स आहेत, अजमेरपूर्वी किंवा नंतर उपयुक्त तळ. अंतर अंदाजे आहे; स्थानिक पातळीवर तपासा.",
+          "reviewed": false
+        }
+      }
     }
   ],
   "photos": [
     {
-      "file": "hero.webp",
-      "caption": { "en": "The dargah of Khwaja Moinuddin Chishti in Ajmer", "hi": { "text": "अजमेर में ख़्वाजा मोईनुद्दीन चिश्ती की दरगाह", "reviewed": false }, "mr": { "text": "अजमेरमधील ख्वाजा मोईनुद्दीन चिश्ती यांची दर्गा", "reviewed": false } },
-      "credit": "AI-generated illustration for PranaDin",
-      "ai": true
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Ajmer Sharif",
+        "hi": {
+          "text": "अजमेर शरीफ़",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अजमेर शरीफ",
+          "reviewed": false
+        }
+      },
+      "credit": "Pinakpani, CC BY 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Ajmer_Sharif,_Dargah_of_Mainuddin_Chisti_in_Ajmer,_Rajasthan_32.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Ajmer Sharif",
+        "hi": {
+          "text": "अजमेर शरीफ़",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अजमेर शरीफ",
+          "reviewed": false
+        }
+      },
+      "credit": "Pinakpani, CC BY 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Ajmer_Sharif,_Dargah_of_Mainuddin_Chisti_in_Ajmer,_Rajasthan_28.jpg"
     }
   ],
   "sources": [
-    { "label": "Ajmer Sharif Dargah, Wikipedia", "url": "https://en.wikipedia.org/wiki/Ajmer_Sharif_Dargah" },
-    { "label": "Ajmer, Wikipedia", "url": "https://en.wikipedia.org/wiki/Ajmer" }
+    {
+      "label": "Ajmer Sharif Dargah, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajmer_Sharif_Dargah"
+    },
+    {
+      "label": "Ajmer, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajmer"
+    }
   ]
 }

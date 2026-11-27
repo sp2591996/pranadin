@@ -4,7 +4,7 @@
   "lang": "en",
   "version": "2026-11-14.1",
   "status": "final",
-  "count": 709,
+  "count": 710,
   "strings": {
     "common.appName": "PranaDin",
     "common.tagline": "Daily breath",
@@ -714,6 +714,7 @@
     "hub.practice.label": "Practice sections",
     "hub.practice.breath": "Breath & meditation",
     "hub.calendar.label": "Calendar sections",
-    "hub.calendar.panchang": "Panchang"
+    "hub.calendar.panchang": "Panchang",
+    "today.photoBy": "Photo: {credit}"
   }
 }

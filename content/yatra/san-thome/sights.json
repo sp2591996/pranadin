@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "san-thome",
+  "sights": [
+    {
+      "id": "nave",
+      "name": {
+        "en": "The basilica",
+        "hi": {
+          "text": "बेसिलिका",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बॅसिलिका",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Tall white spires and stained-glass windows.",
+        "hi": {
+          "text": "ऊँचे सफ़ेद शिखर और रंगीन काँच की खिड़कियाँ।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "उंच पांढरे शिखर आणि रंगीत काचेच्या खिडक्या.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 6 am to 9 pm",
+        "hi": {
+          "text": "लगभग सुबह 6 से रात 9",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 6 ते रात्री 9",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "tomb",
+      "name": {
+        "en": "Tomb chapel",
+        "hi": {
+          "text": "समाधि चैपल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "समाधी चॅपल",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Underground chapel over the saint's tomb.",
+        "hi": {
+          "text": "संत की समाधि के ऊपर भूमिगत चैपल।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संतांच्या समाधीवरील भूमिगत चॅपल.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 6 am to 8 pm",
+        "hi": {
+          "text": "लगभग सुबह 6 से रात 8",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 6 ते रात्री 8",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "museum",
+      "name": {
+        "en": "Basilica museum",
+        "hi": {
+          "text": "बेसिलिका संग्रहालय",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बॅसिलिका संग्रहालय",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Old relics, maps and stones from the first church.",
+        "hi": {
+          "text": "पहले चर्च के पुराने अवशेष, मानचित्र और पत्थर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पहिल्या चर्चचे जुने अवशेष, नकाशे आणि दगड.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Daytime",
+        "hi": {
+          "text": "दिन में",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसा",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "beach",
+      "name": {
+        "en": "Santhome beachfront",
+        "hi": {
+          "text": "सांथोम समुद्र तट",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सांथोम किनारा",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Sea views a few steps from the church.",
+        "hi": {
+          "text": "चर्च से कुछ क़दम पर समुद्र दर्शन।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चर्चपासून काही पावलांवर समुद्रदर्शन.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Best at sunrise",
+        "hi": {
+          "text": "सूर्योदय पर सबसे सुंदर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सूर्योदयाला सर्वात सुंदर",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Visit the tomb chapel first; it closes earlier.",
+        "hi": {
+          "text": "पहले समाधि चैपल देखें; वह जल्दी बंद होता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आधी समाधी चॅपल पाहा; ते लवकर बंद होते.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Masses are held in Tamil and English.",
+        "hi": {
+          "text": "प्रार्थनाएँ तमिल और अंग्रेज़ी में होती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मिस्सा तमिळ आणि इंग्रजीत होतात.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Mornings are cooler and quieter.",
+        "hi": {
+          "text": "सुबह ठंडी और शांत होती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सकाळ थंड आणि शांत असते.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Pair the visit with nearby Mylapore temples.",
+        "hi": {
+          "text": "पास के मायलापुर मंदिरों के साथ यात्रा जोड़ें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जवळच्या मायलापूर मंदिरांसोबत भेट जोडा.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

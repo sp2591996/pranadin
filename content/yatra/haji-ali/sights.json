@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "haji-ali",
+  "sights": [
+    {
+      "id": "tomb",
+      "name": {
+        "en": "The tomb chamber",
+        "hi": {
+          "text": "मज़ार कक्ष",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मजार दालन",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Silver-framed tomb under a white dome, draped in chadars.",
+        "hi": {
+          "text": "सफ़ेद गुंबद के नीचे चाँदी के फ़्रेम वाली मज़ार, चादरों से ढकी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पांढऱ्या घुमटाखाली चांदीच्या चौकटीतील मजार, चादरींनी झाकलेली.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 5:30 am to 10 pm",
+        "hi": {
+          "text": "लगभग सुबह 5:30 से रात 10",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे पहाटे 5:30 ते रात्री 10",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "causeway",
+      "name": {
+        "en": "The causeway walk",
+        "hi": {
+          "text": "समुद्री पुल की सैर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सागरी मार्गावरील चाल",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "A narrow path through the sea, open at low tide.",
+        "hi": {
+          "text": "समुद्र के बीच संकरा रास्ता, भाटे पर खुला।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "समुद्रातून जाणारा अरुंद मार्ग, ओहोटीला खुला.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Depends on the tide",
+        "hi": {
+          "text": "ज्वार-भाटे पर निर्भर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भरती-ओहोटीवर अवलंबून",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "mosque",
+      "name": {
+        "en": "Mosque and courtyard",
+        "hi": {
+          "text": "मस्जिद और आँगन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मशीद आणि अंगण",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Marble courtyard with sea views on all sides.",
+        "hi": {
+          "text": "चारों ओर समुद्र के दृश्य वाला संगमरमर का आँगन।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चारही बाजूंनी समुद्रदृश्य असलेले संगमरवरी अंगण.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open with the dargah",
+        "hi": {
+          "text": "दरगाह के साथ खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दर्ग्यासोबत खुले",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "qawwali",
+      "name": {
+        "en": "Qawwali evenings",
+        "hi": {
+          "text": "क़व्वाली की शामें",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कव्वालीच्या संध्याकाळी",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Devotional music, usually on Thursdays and Fridays.",
+        "hi": {
+          "text": "भक्ति संगीत, प्रायः गुरुवार और शुक्रवार को।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भक्तिसंगीत, सहसा गुरुवार आणि शुक्रवारी.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Evenings",
+        "hi": {
+          "text": "शाम",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संध्याकाळ",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Check the tide timetable before you go.",
+        "hi": {
+          "text": "जाने से पहले ज्वार-भाटे का समय देखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जाण्यापूर्वी भरती-ओहोटीची वेळ पाहा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Weekday mornings are the calmest.",
+        "hi": {
+          "text": "सप्ताह के दिनों की सुबह सबसे शांत होती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "आठवड्याच्या दिवसांतील सकाळ सर्वात शांत असते.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Women may pray in a separate area near the tomb.",
+        "hi": {
+          "text": "महिलाएँ मज़ार के पास अलग स्थान पर प्रार्थना कर सकती हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महिला मजारीजवळील वेगळ्या जागी प्रार्थना करू शकतात.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Buy chadars and flowers only from shops you trust.",
+        "hi": {
+          "text": "चादर और फूल भरोसेमंद दुकानों से ही लें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चादर आणि फुले विश्वासू दुकानांतूनच घ्या.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

@@ -42,9 +42,9 @@ function Row({ href, title, titleLang, sub, icon }: { href: string; title: strin
 }
 
 const LEVEL_TAG: Record<string, string> = {
-  beginner: "bg-success-tint text-success",
-  intermediate: "bg-warning-tint text-warning",
-  advanced: "bg-error-tint text-error",
+  beginner: "bg-[#FFF4E0] text-[#6A240B]",
+  intermediate: "bg-[#F4CB86] text-[#3A1A0B]",
+  advanced: "bg-[#5E1A10] text-[#FFF4E0]",
 };
 
 function PoseCard({ p, href, levelLabel, catLabel, aiLabel }: { p: PoseListItem; href: string; levelLabel: string; catLabel: string; aiLabel: string }) {

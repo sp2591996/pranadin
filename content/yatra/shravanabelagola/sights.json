@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "shravanabelagola",
+  "sights": [
+    {
+      "id": "gommata",
+      "name": {
+        "en": "Gommateshwara statue",
+        "hi": {
+          "text": "गोमटेश्वर प्रतिमा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोमटेश्वर मूर्ती",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "One of the largest monolithic statues in the world.",
+        "hi": {
+          "text": "दुनिया की सबसे बड़ी एकाश्म प्रतिमाओं में से एक।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जगातील सर्वात मोठ्या एकसंध मूर्तींपैकी एक.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 6:30 am to 6:30 pm",
+        "hi": {
+          "text": "लगभग सुबह 6:30 से शाम 6:30",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 6:30 ते सायं 6:30",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "chandragiri",
+      "name": {
+        "en": "Chandragiri hill",
+        "hi": {
+          "text": "चंद्रगिरि पहाड़ी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चंद्रगिरी टेकडी",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Ancient basadis and old inscriptions.",
+        "hi": {
+          "text": "प्राचीन बसदियाँ और पुराने शिलालेख।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "प्राचीन बसदी आणि जुने शिलालेख.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 7 am to 5 pm",
+        "hi": {
+          "text": "लगभग सुबह 7 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 7 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "bhandara",
+      "name": {
+        "en": "Bhandara Basadi",
+        "hi": {
+          "text": "भंडार बसदी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भंडार बसदी",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Temple with images of all 24 Tirthankaras.",
+        "hi": {
+          "text": "सभी 24 तीर्थंकरों की प्रतिमाओं वाला मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सर्व 24 तीर्थंकरांच्या मूर्ती असलेले मंदिर.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 7 am to 5 pm",
+        "hi": {
+          "text": "लगभग सुबह 7 से शाम 5",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 7 ते सायं 5",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "kalyani",
+      "name": {
+        "en": "Kalyani pond",
+        "hi": {
+          "text": "कल्याणी सरोवर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कल्याणी तळे",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Stepped temple tank in the town centre.",
+        "hi": {
+          "text": "नगर के बीच सीढ़ीदार मंदिर सरोवर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नगराच्या मध्यभागी पायऱ्यांचे मंदिर तळे.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open all day",
+        "hi": {
+          "text": "पूरे दिन खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसभर खुले",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Climb barefoot; start early before the rock heats up.",
+        "hi": {
+          "text": "नंगे पैर चढ़ें; चट्टान गरम होने से पहले जल्दी शुरू करें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अनवाणी चढा; खडक तापण्यापूर्वी लवकर सुरुवात करा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Carry socks for hot steps and a water bottle.",
+        "hi": {
+          "text": "गरम सीढ़ियों के लिए मोज़े और पानी की बोतल रखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "तापलेल्या पायऱ्यांसाठी मोजे आणि पाण्याची बाटली ठेवा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Dolis (chairs) can be hired for those who cannot climb.",
+        "hi": {
+          "text": "जो चढ़ न सकें उनके लिए डोली मिलती है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चढू न शकणाऱ्यांसाठी डोली मिळते.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "The Mahamastakabhisheka is held about every 12 years.",
+        "hi": {
+          "text": "महामस्तकाभिषेक लगभग हर 12 वर्ष में होता है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महामस्तकाभिषेक सुमारे दर 12 वर्षांनी होतो.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

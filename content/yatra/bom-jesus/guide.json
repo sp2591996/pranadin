@@ -1,0 +1,505 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "bom-jesus",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "Old Goa churches",
+        "hi": {
+          "text": "पुराने गोवा के चर्च",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जुन्या गोव्याची चर्च",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Bom Jesus and Se Cathedral.",
+              "hi": {
+                "text": "बॉम जीसस और से कैथेड्रल।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "बॉम जीझस आणि से कॅथेड्रल.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "St Francis of Assisi and the museum.",
+              "hi": {
+                "text": "असीसी चर्च और संग्रहालय।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "असिसी चर्च आणि संग्रहालय.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Churches and Panaji",
+        "hi": {
+          "text": "चर्च और पणजी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चर्च आणि पणजी",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Old Goa church walk.",
+              "hi": {
+                "text": "पुराने गोवा के चर्चों की सैर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "जुन्या गोव्यातील चर्चची फेरी.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "St Cajetan and the river front.",
+              "hi": {
+                "text": "संत कजेटन और नदी किनारा।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "संत कजेतान आणि नदीकिनारा.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Fontainhas lanes in Panaji.",
+              "hi": {
+                "text": "पणजी की फ़ॉन्टेनहास गलियाँ।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "पणजीतील फोन्तेनास गल्ल्या.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Our Lady of the Immaculate Conception church.",
+              "hi": {
+                "text": "निष्कलंक माता चर्च।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "निष्कलंक मातेचे चर्च.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Faith and islands",
+        "hi": {
+          "text": "आस्था और द्वीप",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "श्रद्धा आणि बेटे",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Bom Jesus and Se Cathedral.",
+              "hi": {
+                "text": "बॉम जीसस और से कैथेड्रल।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "बॉम जीझस आणि से कॅथेड्रल.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Museum and St Cajetan.",
+              "hi": {
+                "text": "संग्रहालय और संत कजेटन।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "संग्रहालय आणि संत कजेतान.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Ferry to Divar Island.",
+              "hi": {
+                "text": "दिवार द्वीप की नौका।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "दिवाडी बेटाकडे फेरी.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Village churches and fields.",
+              "hi": {
+                "text": "गाँव के चर्च और खेत।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "गावातील चर्च आणि शेते.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Panaji old quarter.",
+              "hi": {
+                "text": "पणजी का पुराना मोहल्ला।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "पणजीचा जुना भाग.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Mandovi riverside sunset.",
+              "hi": {
+                "text": "मांडवी तट पर सूर्यास्त।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "मांडवी किनारी सूर्यास्त.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Pilgrim rest houses",
+        "hi": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Simple, low-cost rooms run by trusts near the shrine.",
+        "hi": {
+          "text": "धाम के पास ट्रस्ट द्वारा चलाए जाने वाले सस्ते, सादे कमरे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवस्थानाजवळ ट्रस्टतर्फे चालवल्या जाणाऱ्या स्वस्त, साध्या खोल्या.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mid-range hotels",
+        "hi": {
+          "text": "मध्यम श्रेणी के होटल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मध्यम श्रेणीची हॉटेल्स",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Plenty of options within a short ride of the main site.",
+        "hi": {
+          "text": "मुख्य स्थल से थोड़ी दूरी पर कई विकल्प।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य स्थळापासून थोड्या अंतरावर अनेक पर्याय.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Book ahead for festivals",
+        "hi": {
+          "text": "त्योहारों में पहले से बुक करें",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणांच्या काळात आधी आरक्षण करा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Rooms fill fast on big festival days.",
+        "hi": {
+          "text": "बड़े त्योहारों पर कमरे जल्दी भर जाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोठ्या सणांच्या दिवशी खोल्या लवकर भरतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "Goan fish curry rice",
+        "hi": {
+          "text": "गोवा की मछली करी-चावल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोव्याचा माशाचा हुमण-भात",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "The everyday Goan meal, mild and coconut-rich.",
+        "hi": {
+          "text": "रोज़ का गोवा भोजन, हल्का और नारियल भरा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "रोजचे गोवन जेवण, सौम्य आणि नारळयुक्त.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Bebinca",
+        "hi": {
+          "text": "बेबिंका",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बेबिंका",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Layered coconut dessert, popular at feasts.",
+        "hi": {
+          "text": "नारियल की परतदार मिठाई, पर्वों पर लोकप्रिय।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नारळाचे थरांचे गोड पदार्थ, सणांना लोकप्रिय.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Poi bread",
+        "hi": {
+          "text": "पोई ब्रेड",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पोई पाव",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Fresh local bread from village bakeries.",
+        "hi": {
+          "text": "गाँव की बेकरी की ताज़ी स्थानीय रोटी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गावातील बेकरीचा ताजा स्थानिक पाव.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Simple vegetarian meals are easy to find near the shrine.",
+    "hi": {
+      "text": "धाम के पास सादा शाकाहारी भोजन आसानी से मिलता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवस्थानाजवळ साधे शाकाहारी जेवण सहज मिळते.",
+      "reviewed": false
+    }
+  },
+  "budget": {
+    "bands": {
+      "budget": {
+        "min": 1500,
+        "max": 2500
+      },
+      "mid": {
+        "min": 3500,
+        "max": 6500
+      },
+      "comfort": {
+        "min": 8000,
+        "max": 16000
+      }
+    },
+    "note": {
+      "en": "Per person per day, excluding travel to reach the place.",
+      "hi": {
+        "text": "प्रति व्यक्ति प्रतिदिन, यहाँ पहुँचने का खर्च छोड़कर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर व्यक्ती दररोज, येथे पोहोचण्याचा खर्च वगळून.",
+        "reviewed": false
+      }
+    }
+  },
+  "health": [
+    {
+      "en": "Carry water and rest in the shade on hot days.",
+      "hi": {
+        "text": "गर्म दिनों में पानी साथ रखें और छाँव में आराम करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उष्ण दिवसांत पाणी सोबत ठेवा आणि सावलीत विश्रांती घ्या.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Crowds peak on festival days; keep children close.",
+      "hi": {
+        "text": "त्योहारों पर भीड़ सबसे ज़्यादा होती है; बच्चों को पास रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सणांच्या दिवशी गर्दी सर्वाधिक असते; मुलांना जवळ ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Wheelchair access is limited in older parts; ask staff for help.",
+      "hi": {
+        "text": "पुराने हिस्सों में व्हीलचेयर की सुविधा सीमित है; कर्मचारियों से मदद माँगें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जुन्या भागांत व्हीलचेअरची सोय मर्यादित आहे; कर्मचाऱ्यांची मदत घ्या.",
+        "reviewed": false
+      }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly inside the church.",
+      "hi": {
+        "text": "चर्च के भीतर शालीन कपड़े पहनें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "चर्चमध्ये सभ्य कपडे घाला.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Keep silence during Mass.",
+      "hi": {
+        "text": "प्रार्थना सभा के दौरान मौन रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मिस्साच्या वेळी शांतता ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Ask before photographing people at prayer.",
+      "hi": {
+        "text": "प्रार्थना करते लोगों की फ़ोटो से पहले पूछें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रार्थना करणाऱ्यांचे छायाचित्र घेण्यापूर्वी विचारा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Switch phones to silent.",
+      "hi": {
+        "text": "फ़ोन मौन पर रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "फोन शांत स्थितीत ठेवा.",
+        "reviewed": false
+      }
+    }
+  ]
+}

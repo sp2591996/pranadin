@@ -8,6 +8,7 @@ import { formatDateKey } from "@/i18n/format";
 import type { Locale } from "@/i18n/config";
 import { useS } from "@/features/shared/strings";
 import { btn } from "@/features/shared/ui";
+import { TRAD_ART } from "./art";
 import { festivalRoutes } from "./routes";
 import type { FestivalTradition, FestivalView } from "./types";
 import { SectionHeader } from "@/components/SectionHeader";
@@ -17,17 +18,7 @@ const monthName = (m: number, locale: Locale) =>
     month: "long",
   });
 
-/** Card colour by tradition (D-036); white text stays at 4.5:1 or better. */
-const TRAD_ART: Record<FestivalTradition, string> = {
-  hindu: "from-[#B8471A] to-[#7A280A]",
-  sikh: "from-[#2D4F86] to-[#15284A]",
-  jain: "from-[#93600F] to-[#5E3A08]",
-  buddhist: "from-[#9B2F2A] to-[#5A1512]",
-  christian: "from-[#4A3A7A] to-[#1F1638]",
-  islamic: "from-[#2F6B3F] to-[#173621]",
-  parsi: "from-[#2F7D74] to-[#163F45]",
-};
-
+/** Card band from the brand palette (D-037); the tradition name is in the tag. */
 /** Festivals list (D-026 Wave D): filter by tradition and by month. */
 export function FestivalList({
   festivals,
@@ -116,7 +107,7 @@ export function FestivalList({
                 className="card-lift group flex flex-1 flex-col overflow-hidden rounded-[var(--r-xl)] border border-divider bg-surface shadow-elev-1"
               >
                 <span
-                  className={`relative flex h-24 items-start justify-between gap-3 overflow-hidden bg-gradient-to-br p-4 text-white ${TRAD_ART[f.traditions[0]] ?? TRAD_ART.hindu}`}
+                  className={`relative flex h-24 items-start justify-between gap-3 overflow-hidden p-4 text-white ${TRAD_ART[f.traditions[0]] ?? TRAD_ART.hindu}`}
                 >
                   <span
                     aria-hidden="true"

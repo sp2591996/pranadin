@@ -1,0 +1,257 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "sights",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "anandpur-sahib",
+  "sights": [
+    {
+      "id": "kesgarh",
+      "name": {
+        "en": "Takht Sri Kesgarh Sahib",
+        "hi": {
+          "text": "तख़्त श्री केसगढ़ साहिब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "तख्त श्री केसगड साहिब",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "White gurdwara on the spot where the Khalsa was founded.",
+        "hi": {
+          "text": "उस स्थान पर सफ़ेद गुरुद्वारा जहाँ ख़ालसा की स्थापना हुई।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "खालशाची स्थापना झालेल्या जागी पांढरा गुरुद्वारा.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open all day",
+        "hi": {
+          "text": "पूरे दिन खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसभर खुला",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "virasat",
+      "name": {
+        "en": "Virasat-e-Khalsa",
+        "hi": {
+          "text": "विरासत-ए-ख़ालसा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "विरासत-ए-खालसा",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Striking museum of Sikh history, opened in 2011.",
+        "hi": {
+          "text": "सिख इतिहास का भव्य संग्रहालय, 2011 में खुला।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शीख इतिहासाचे भव्य संग्रहालय, 2011 मध्ये उघडले.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "About 10 am to 5 pm, closed Mondays",
+        "hi": {
+          "text": "लगभग सुबह 10 से शाम 5, सोमवार बंद",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सुमारे सकाळी 10 ते सायं 5, सोमवारी बंद",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "sisganj",
+      "name": {
+        "en": "Gurdwara Sis Ganj Sahib",
+        "hi": {
+          "text": "गुरुद्वारा सीस गंज साहिब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरुद्वारा सीस गंज साहिब",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Honours Guru Tegh Bahadur's sacrifice.",
+        "hi": {
+          "text": "गुरु तेग बहादुर के बलिदान की स्मृति।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरु तेग बहादूर यांच्या बलिदानाची स्मृती.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open all day",
+        "hi": {
+          "text": "पूरे दिन खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसभर खुला",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "anandgarh",
+      "name": {
+        "en": "Qila Anandgarh Sahib",
+        "hi": {
+          "text": "क़िला आनंदगढ़ साहिब",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "किल्ला आनंदगड साहिब",
+          "reviewed": false
+        }
+      },
+      "desc": {
+        "en": "Gurdwara on the site of the Guru's old fort.",
+        "hi": {
+          "text": "गुरु के पुराने क़िले के स्थान पर गुरुद्वारा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरूंच्या जुन्या किल्ल्याच्या जागी गुरुद्वारा.",
+          "reviewed": false
+        }
+      },
+      "timings": {
+        "en": "Open all day",
+        "hi": {
+          "text": "पूरे दिन खुला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवसभर खुला",
+          "reviewed": false
+        }
+      },
+      "dress": {
+        "en": "Modest clothes; shoes off where asked.",
+        "hi": {
+          "text": "शालीन कपड़े; जहाँ कहा जाए जूते उतारें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सभ्य कपडे; सांगितल्यास पादत्राणे काढा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "darshan": {
+    "tips": [
+      {
+        "en": "Join the early morning prayer for a calm start.",
+        "hi": {
+          "text": "शांत शुरुआत के लिए सुबह की प्रार्थना में शामिल हों।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "शांत सुरुवातीसाठी पहाटेच्या प्रार्थनेत सहभागी व्हा.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Free shoe and luggage counters are run by volunteers.",
+        "hi": {
+          "text": "स्वयंसेवक मुफ़्त जूता और सामान घर चलाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "स्वयंसेवक मोफत पादत्राणे आणि सामान कक्ष चालवतात.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Help in the langar kitchen if you wish; all are welcome.",
+        "hi": {
+          "text": "चाहें तो लंगर रसोई में सेवा करें; सबका स्वागत है।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "इच्छा असल्यास लंगरच्या स्वयंपाकघरात सेवा करा; सर्वांचे स्वागत आहे.",
+          "reviewed": false
+        }
+      },
+      {
+        "en": "Book rooms early for Hola Mohalla.",
+        "hi": {
+          "text": "होला मोहल्ला के लिए कमरे पहले बुक करें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "होला मोहल्ल्यासाठी खोल्या आधी आरक्षित करा.",
+          "reviewed": false
+        }
+      }
+    ],
+    "online": {
+      "en": "Check the official site for timings and passes before you go.",
+      "hi": {
+        "text": "जाने से पहले समय और पास के लिए आधिकारिक साइट देखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जाण्यापूर्वी वेळा आणि पाससाठी अधिकृत संकेतस्थळ पाहा.",
+        "reviewed": false
+      }
+    }
+  }
+}

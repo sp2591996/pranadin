@@ -17,7 +17,7 @@ function englishRun(text: string): string | null {
 }
 
 test.describe("Yatra guide", () => {
-  test("Practice entry to list, filters, detail, itinerary and AI caption", async ({ page }) => {
+  test("Practice entry to list, filters, detail, itinerary and photo credit", async ({ page }) => {
     await onboard(page, "en");
     await page.goto("/en/practice/");
     await page.getByRole("link", { name: /Yatra guide/i }).first().click();
@@ -42,15 +42,15 @@ test.describe("Yatra guide", () => {
 
     await page.goto("/en/practice/yatra/varanasi/");
     await expect(page.locator("h1")).toContainText("Varanasi");
-    await expect(page.getByTestId("ai-caption")).toHaveText("AI-generated image");
-    await expect(page.locator("[data-testid=gallery] img")).toBeVisible();
+    await expect(page.getByTestId("photo-credit")).toContainText("Wikimedia Commons");
+    await expect(page.locator("[data-testid=gallery] img").first()).toBeVisible();
     await page.getByRole("tab", { name: /Itineraries/ }).click();
     await page.getByRole("button", { name: /^2 days$/ }).click();
     await expect(page.getByRole("heading", { name: "Day 2" })).toBeVisible();
     await page.getByRole("tab", { name: /Sights and darshan/ }).click();
     await expect(page.getByText("Check locally").first()).toBeVisible();
     await page.getByRole("tab", { name: /Stay and eat/ }).click();
-    await expect(page.getByText(/Indicative only/)).toBeVisible();
+    await expect(page.getByText(/Indicative only/).first()).toBeVisible();
   });
 
   test("Pandharpur shows a photo placeholder, not a fake photo", async ({ page }) => {
@@ -68,8 +68,9 @@ test.describe("Yatra guide", () => {
 
     await page.goto("/en/practice/yatra/plan/");
     await expect(page.getByTestId("trip-items").locator("li")).toHaveCount(1);
+    await page.getByLabel("Search places").fill("Pandhar");
     await page.getByRole("button", { name: "Add Pandharpur" }).click();
-    await page.getByLabel("Days at Pandharpur").selectOption("2");
+    await page.getByRole("group", { name: "Days at Pandharpur" }).getByRole("button", { name: "2 days at Pandharpur" }).click();
     await expect(page.getByTestId("trip-total")).toContainText("3");
     await expect(page.getByTestId("trip-plan").locator("ol > li")).toHaveCount(3);
     await page.getByRole("button", { name: "Move Pandharpur earlier" }).click();
@@ -77,11 +78,25 @@ test.describe("Yatra guide", () => {
     await expect(page.getByRole("button", { name: "Print" })).toBeVisible();
     await expect(page.getByRole("button", { name: "Copy as text" })).toBeVisible();
 
+    // Start date drives dated days; Kedarnath in January triggers the season check.
+    await page.getByRole("button", { name: /Ganga to Kedarnath/ }).click();
+    await expect(page.getByTestId("trip-items").locator("li")).toHaveCount(3);
+    await page.getByLabel("Start date").fill("2027-01-10");
+    await expect(page.getByTestId("season-warnings")).toContainText("Kedarnath");
+    await page.getByRole("button", { name: "One more traveller" }).click();
+    await expect(page.getByText(/for 3 travellers/)).toBeVisible();
+    await page.getByRole("button", { name: /Kashi and Sarnath/ }).click();
+    await page.getByLabel("Search places").fill("Pandhar");
+    await page.getByRole("button", { name: "Add Pandharpur" }).click();
+    await page.getByRole("button", { name: "2 days at Pandharpur" }).click();
+    await page.getByRole("button", { name: "Remove Sarnath" }).click();
+    await page.getByRole("button", { name: "Move Pandharpur earlier" }).click();
+
     // Saved in IndexedDB: survives a reload.
     await page.waitForTimeout(300);
     await page.reload();
     await expect(page.getByTestId("trip-items").locator("li")).toHaveCount(2);
-    await expect(page.getByTestId("trip-total")).toContainText("3");
+    await expect(page.getByTestId("trip-total")).toContainText("4");
     const stored = await page.evaluate(
       () =>
         new Promise<unknown>((resolve) => {

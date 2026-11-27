@@ -1,0 +1,376 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "shravanabelagola",
+  "name": {
+    "en": "Shravanabelagola",
+    "hi": {
+      "text": "श्रवणबेलगोला",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "श्रवणबेळगोळ",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Hassan district, Karnataka",
+    "hi": {
+      "text": "हासन ज़िला, कर्नाटक",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "हासन जिल्हा, कर्नाटक",
+      "reviewed": false
+    }
+  },
+  "stateKey": "karnataka",
+  "traditions": [
+    "jain"
+  ],
+  "deity": {
+    "en": "Bahubali (Gommateshwara)",
+    "hi": {
+      "text": "बाहुबली (गोमटेश्वर)",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बाहुबली (गोमटेश्वर)",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "Home of the 17 m statue of Bahubali, carved around 981 CE.",
+    "hi": {
+      "text": "लगभग 981 ईस्वी में तराशी 17 मीटर की बाहुबली प्रतिमा का घर।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सुमारे इसवी सन 981 मध्ये कोरलेल्या 17 मीटर बाहुबली मूर्तीचे घर.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "The giant of Vindhyagiri hill",
+    "hi": {
+      "text": "विंध्यगिरि पहाड़ी का विशाल रूप",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "विंध्यगिरी टेकडीवरील विराट मूर्ती",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "A small town between two granite hills, with a temple pond at its heart.",
+    "hi": {
+      "text": "दो ग्रेनाइट पहाड़ियों के बीच छोटा नगर, बीच में मंदिर का सरोवर।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "दोन ग्रॅनाइट टेकड्यांमधील छोटे नगर, मध्यभागी मंदिराचे तळे.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "Bahubali gave up a kingdom and stood in meditation so long that vines grew on him.",
+    "hi": {
+      "text": "बाहुबली ने राज्य त्यागा और इतनी देर ध्यान में खड़े रहे कि उन पर बेलें उग आईं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बाहुबलींनी राज्य त्यागले आणि इतका वेळ ध्यानस्थ उभे राहिले की त्यांच्यावर वेली वाढल्या.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "seasons": [
+      {
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Cool mornings, good for the climb.",
+          "hi": {
+            "text": "ठंडी सुबह, चढ़ाई के लिए अच्छी।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंड सकाळ, चढाईसाठी उत्तम.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Light rain; steps can be slippery.",
+          "hi": {
+            "text": "हल्की बारिश; सीढ़ियाँ फिसलन भरी।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "हलका पाऊस; पायऱ्या निसरड्या.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          3,
+          4,
+          5
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Hot rock; climb before 9 am.",
+          "hi": {
+            "text": "गर्म चट्टान; 9 बजे से पहले चढ़ें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "तापलेला खडक; सकाळी 9 पूर्वी चढा.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Bengaluru airport",
+        "hi": {
+          "text": "बेंगलुरु हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बंगळुरू विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 180,
+      "how": {
+        "en": "Taxi in about 3.5 hours.",
+        "hi": {
+          "text": "टैक्सी से लगभग साढ़े तीन घंटे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "टॅक्सीने सुमारे साडेतीन तास.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Shravanabelagola station",
+        "hi": {
+          "text": "श्रवणबेलगोला स्टेशन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "श्रवणबेळगोळ स्थानक",
+          "reviewed": false
+        }
+      },
+      "km": 3,
+      "how": {
+        "en": "Trains from Bengaluru and Mysuru.",
+        "hi": {
+          "text": "बेंगलुरु और मैसूरु से ट्रेनें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बंगळुरू आणि म्हैसूरहून गाड्या.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Buses from Bengaluru, Mysuru and Hassan.",
+        "hi": {
+          "text": "बेंगलुरु, मैसूरु और हासन से बसें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बंगळुरू, म्हैसूर आणि हासनहून बस.",
+          "reviewed": false
+        }
+      },
+      "km": 145
+    }
+  },
+  "localTransport": {
+    "en": "The town is walkable; the statue is a climb of about 650 steps.",
+    "hi": {
+      "text": "नगर पैदल घूमने योग्य; प्रतिमा तक लगभग 650 सीढ़ियाँ।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "नगर चालत फिरण्याजोगे; मूर्तीपर्यंत सुमारे 650 पायऱ्या.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "mahavir-jayanti",
+      "note": {
+        "en": "Processions and special pujas.",
+        "hi": {
+          "text": "शोभायात्रा और विशेष पूजा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मिरवणुका आणि विशेष पूजा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "festivalId": "diwali",
+      "note": {
+        "en": "Marks Mahavira's nirvana; temples are lit.",
+        "hi": {
+          "text": "महावीर का निर्वाण दिवस; मंदिर जगमगाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महावीरांचा निर्वाण दिवस; मंदिरे उजळतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Belur and Halebidu",
+        "hi": {
+          "text": "बेलूर और हलेबीडु",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बेलूर आणि हळेबीडू",
+          "reviewed": false
+        }
+      },
+      "km": 85,
+      "note": {
+        "en": "Finely carved Hoysala temples.",
+        "hi": {
+          "text": "बारीक नक्काशी वाले होयसल मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बारीक कोरीव होयसळ मंदिरे.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Melkote",
+        "hi": {
+          "text": "मेलकोटे",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मेलकोटे",
+          "reviewed": false
+        }
+      },
+      "km": 50,
+      "note": {
+        "en": "Hilltop Vishnu temple town.",
+        "hi": {
+          "text": "पहाड़ी पर विष्णु मंदिर नगर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "डोंगरावरील विष्णू मंदिराचे नगर.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Shravanabelagola, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shravanabelagola"
+    },
+    {
+      "label": "Gommateshwara statue, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gommateshwara_statue"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Shravanabelagola",
+        "hi": {
+          "text": "श्रवणबेलगोला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "श्रवणबेळगोळ",
+          "reviewed": false
+        }
+      },
+      "credit": "Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Gommateshwara_Bahubali_statue,_Shravanabelagola,_Karnataka_(2026)_13.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Shravanabelagola",
+        "hi": {
+          "text": "श्रवणबेलगोला",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "श्रवणबेळगोळ",
+          "reviewed": false
+        }
+      },
+      "credit": "Alende Devasia, CC BY-SA 3.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Jaina_statue_of_Gomateswara_N-KA-B201.JPG"
+    }
+  ]
+}

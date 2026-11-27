@@ -1,0 +1,342 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "dilwara",
+  "name": {
+    "en": "Dilwara Temples",
+    "hi": {
+      "text": "दिलवाड़ा मंदिर",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "दिलवाडा मंदिरे",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Mount Abu, Rajasthan",
+    "hi": {
+      "text": "माउंट आबू, राजस्थान",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "माउंट अबू, राजस्थान",
+      "reviewed": false
+    }
+  },
+  "stateKey": "rajasthan",
+  "traditions": [
+    "jain"
+  ],
+  "deity": {
+    "en": "Rishabhanatha, Neminatha and other Tirthankaras",
+    "hi": {
+      "text": "ऋषभनाथ, नेमिनाथ और अन्य तीर्थंकर",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "ऋषभनाथ, नेमिनाथ आणि इतर तीर्थंकर",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "Five marble temples from the 11th to 13th centuries, famed for fine carving.",
+    "hi": {
+      "text": "11वीं से 13वीं सदी के पाँच संगमरमर मंदिर, बारीक नक्काशी के लिए प्रसिद्ध।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "11 व्या ते 13 व्या शतकातील पाच संगमरवरी मंदिरे, बारीक कोरीवकामासाठी प्रसिद्ध.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "Marble carved like lace",
+    "hi": {
+      "text": "फीते जैसी तराशी संगमरमर",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "लेससारखा कोरलेला संगमरवर",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "Plain outside, dazzling inside, set in the green Aravalli hills.",
+    "hi": {
+      "text": "बाहर सादे, भीतर चकाचौंध, हरी अरावली पहाड़ियों में।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बाहेरून साधी, आतून झळाळती, हिरव्या अरवलीच्या टेकड्यांत.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "Minister Vimal Shah built the first temple in 1031; others followed over 200 years.",
+    "hi": {
+      "text": "मंत्री विमल शाह ने 1031 में पहला मंदिर बनवाया; बाकी 200 वर्षों में बने।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "मंत्री विमल शाह यांनी 1031 मध्ये पहिले मंदिर बांधले; इतर 200 वर्षांत बांधली गेली.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "seasons": [
+      {
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Cool hill air; cold winter nights.",
+          "hi": {
+            "text": "ठंडी पहाड़ी हवा; सर्दियों की ठंडी रातें।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंड डोंगरी हवा; हिवाळ्यात थंड रात्री.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Mild for Rajasthan; busy with holidaymakers.",
+          "hi": {
+            "text": "राजस्थान के हिसाब से सुहाना; छुट्टियों की भीड़।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "राजस्थानच्या मानाने सौम्य; सुट्टीची गर्दी.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Heavy rain and mist on hill roads.",
+          "hi": {
+            "text": "पहाड़ी सड़कों पर भारी बारिश और धुंध।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "डोंगरी रस्त्यांवर जोरदार पाऊस आणि धुके.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Udaipur airport",
+        "hi": {
+          "text": "उदयपुर हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "उदयपूर विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 185,
+      "how": {
+        "en": "Taxi in about 4 hours.",
+        "hi": {
+          "text": "टैक्सी से लगभग 4 घंटे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "टॅक्सीने सुमारे 4 तास.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Abu Road station",
+        "hi": {
+          "text": "आबू रोड स्टेशन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अबू रोड स्थानक",
+          "reviewed": false
+        }
+      },
+      "km": 28,
+      "how": {
+        "en": "Taxi or bus up the hill in an hour.",
+        "hi": {
+          "text": "पहाड़ी पर टैक्सी या बस से एक घंटा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "डोंगरावर टॅक्सी किंवा बसने एक तास.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Winding hill road from Abu Road.",
+        "hi": {
+          "text": "आबू रोड से घुमावदार पहाड़ी सड़क।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अबू रोडहून वळणदार घाट रस्ता.",
+          "reviewed": false
+        }
+      },
+      "km": 28
+    }
+  },
+  "localTransport": {
+    "en": "Shared jeeps and taxis from Mount Abu town, 3 km away.",
+    "hi": {
+      "text": "3 किमी दूर माउंट आबू नगर से साझा जीप और टैक्सी।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "3 किमीवरील माउंट अबू नगरातून शेअर जीप आणि टॅक्सी.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "mahavir-jayanti",
+      "note": {
+        "en": "Processions and special pujas.",
+        "hi": {
+          "text": "शोभायात्रा और विशेष पूजा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मिरवणुका आणि विशेष पूजा.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "festivalId": "diwali",
+      "note": {
+        "en": "Marks Mahavira's nirvana; temples are lit.",
+        "hi": {
+          "text": "महावीर का निर्वाण दिवस; मंदिर जगमगाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "महावीरांचा निर्वाण दिवस; मंदिरे उजळतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Nakki Lake",
+        "hi": {
+          "text": "नक्की झील",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नक्की तलाव",
+          "reviewed": false
+        }
+      },
+      "km": 3,
+      "note": {
+        "en": "Boating and an easy lakeside walk.",
+        "hi": {
+          "text": "नौका विहार और आसान झील किनारे सैर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नौकाविहार आणि सोपा तलावकाठचा फेरफटका.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Guru Shikhar",
+        "hi": {
+          "text": "गुरु शिखर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गुरु शिखर",
+          "reviewed": false
+        }
+      },
+      "km": 15,
+      "note": {
+        "en": "Highest Aravalli peak, with a Dattatreya shrine.",
+        "hi": {
+          "text": "अरावली की सबसे ऊँची चोटी, दत्तात्रेय मंदिर सहित।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "अरवलीचे सर्वोच्च शिखर, दत्तात्रेय मंदिरासह.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Dilwara Temples, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dilwara_Temples"
+    },
+    {
+      "label": "Mount Abu, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mount_Abu"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": []
+}

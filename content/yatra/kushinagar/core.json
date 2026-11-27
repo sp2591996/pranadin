@@ -1,0 +1,363 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "kushinagar",
+  "name": {
+    "en": "Kushinagar",
+    "hi": {
+      "text": "कुशीनगर",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कुशीनगर",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Kushinagar district, Uttar Pradesh",
+    "hi": {
+      "text": "कुशीनगर ज़िला, उत्तर प्रदेश",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "कुशीनगर जिल्हा, उत्तर प्रदेश",
+      "reviewed": false
+    }
+  },
+  "stateKey": "uttar-pradesh",
+  "traditions": [
+    "buddhist"
+  ],
+  "deity": {
+    "en": "The Buddha",
+    "hi": {
+      "text": "बुद्ध",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बुद्ध",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "Where the Buddha passed into parinirvana.",
+    "hi": {
+      "text": "जहाँ बुद्ध ने महापरिनिर्वाण प्राप्त किया।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "जिथे बुद्धांनी महापरिनिर्वाण प्राप्त केले.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "Place of the Buddha's final rest",
+    "hi": {
+      "text": "बुद्ध के अंतिम विश्राम का स्थान",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बुद्धांच्या अंतिम विश्रांतीचे स्थान",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "A quiet town of monasteries built by Buddhist nations from across Asia.",
+    "hi": {
+      "text": "एशिया भर के बौद्ध देशों द्वारा बनाए मठों का शांत नगर।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "आशियाभरातील बौद्ध देशांनी बांधलेल्या मठांचे शांत नगर.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "Aged 80, the Buddha lay down between two sal trees here and gave his last words.",
+    "hi": {
+      "text": "80 वर्ष की आयु में बुद्ध यहाँ दो साल वृक्षों के बीच लेटे और अंतिम वचन कहे।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "80 व्या वर्षी बुद्ध येथे दोन साल वृक्षांमध्ये पहुडले आणि अंतिम वचन सांगितले.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "seasons": [
+      {
+        "months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Cool, clear days; foggy mornings in winter.",
+          "hi": {
+            "text": "ठंडे, साफ़ दिन; सर्दियों में कोहरे वाली सुबह।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "थंड, स्वच्छ दिवस; हिवाळ्यात धुक्याची सकाळ.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Monsoon rain, green fields.",
+          "hi": {
+            "text": "मानसूनी बारिश, हरे खेत।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "पावसाळा, हिरवी शेते.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Very hot plains summer.",
+          "hi": {
+            "text": "मैदानों की बहुत गर्म गर्मी।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "मैदानी प्रदेशाचा अतिशय उष्ण उन्हाळा.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Kushinagar airport",
+        "hi": {
+          "text": "कुशीनगर हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कुशीनगर विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 10,
+      "how": {
+        "en": "Few flights; Gorakhpur airport is 55 km.",
+        "hi": {
+          "text": "कम उड़ानें; गोरखपुर हवाई अड्डा 55 किमी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कमी विमाने; गोरखपूर विमानतळ 55 किमी.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Gorakhpur Junction",
+        "hi": {
+          "text": "गोरखपुर जंक्शन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोरखपूर जंक्शन",
+          "reviewed": false
+        }
+      },
+      "km": 53,
+      "how": {
+        "en": "Bus or taxi in about 90 minutes.",
+        "hi": {
+          "text": "बस या टैक्सी से लगभग 90 मिनट।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बस किंवा टॅक्सीने सुमारे 90 मिनिटे.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Good highway from Gorakhpur.",
+        "hi": {
+          "text": "गोरखपुर से अच्छा राजमार्ग।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोरखपूरहून चांगला महामार्ग.",
+          "reviewed": false
+        }
+      },
+      "km": 53
+    }
+  },
+  "localTransport": {
+    "en": "Walk or take an e-rickshaw between the stupas.",
+    "hi": {
+      "text": "स्तूपों के बीच पैदल या ई-रिक्शा से जाएँ।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "स्तूपांदरम्यान चालत किंवा ई-रिक्षाने जा.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "buddha-purnima",
+      "note": {
+        "en": "Prayers, lamps and processions by monks.",
+        "hi": {
+          "text": "भिक्षुओं की प्रार्थना, दीप और शोभायात्रा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "भिक्खूंच्या प्रार्थना, दिवे आणि मिरवणुका.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Lumbini, Nepal",
+        "hi": {
+          "text": "लुम्बिनी, नेपाल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लुंबिनी, नेपाळ",
+          "reviewed": false
+        }
+      },
+      "km": 170,
+      "note": {
+        "en": "The Buddha's birthplace; passport or ID needed.",
+        "hi": {
+          "text": "बुद्ध का जन्मस्थान; पासपोर्ट या पहचान पत्र चाहिए।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बुद्धांचे जन्मस्थान; पासपोर्ट किंवा ओळखपत्र लागते.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Gorakhnath Temple",
+        "hi": {
+          "text": "गोरखनाथ मंदिर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोरखनाथ मंदिर",
+          "reviewed": false
+        }
+      },
+      "km": 53,
+      "note": {
+        "en": "Large temple in Gorakhpur.",
+        "hi": {
+          "text": "गोरखपुर का बड़ा मंदिर।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोरखपूरमधील मोठे मंदिर.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Kushinagar, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kushinagar"
+    },
+    {
+      "label": "Mahaparinirvana Temple, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mahaparinirvana_Temple"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Kushinagar",
+        "hi": {
+          "text": "कुशीनगर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कुशीनगर",
+          "reviewed": false
+        }
+      },
+      "credit": "Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Mahaparinirvan_9.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Kushinagar",
+        "hi": {
+          "text": "कुशीनगर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कुशीनगर",
+          "reviewed": false
+        }
+      },
+      "credit": "myself, CC BY-SA 2.5, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Mahaparinirvana.jpg"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "san-thome",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "Basilica and Mylapore",
+        "hi": {
+          "text": "बेसिलिका और मायलापुर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बॅसिलिका आणि मायलापूर",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Basilica and tomb chapel.",
+              "hi": {
+                "text": "बेसिलिका और समाधि चैपल।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "बॅसिलिका आणि समाधी चॅपल.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Kapaleeshwarar Temple and the beach.",
+              "hi": {
+                "text": "कपालीश्वर मंदिर और समुद्र तट।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "कपालीश्वर मंदिर आणि किनारा.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "St Thomas trail",
+        "hi": {
+          "text": "संत थॉमस यात्रा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "संत थॉमस यात्रा",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "San Thome Basilica and museum.",
+              "hi": {
+                "text": "सान थोमे बेसिलिका और संग्रहालय।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "सान थोमे बॅसिलिका आणि संग्रहालय.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Marina Beach walk.",
+              "hi": {
+                "text": "मरीना बीच की सैर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "मरीना बीचवर फेरफटका.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "St Thomas Mount.",
+              "hi": {
+                "text": "सेंट थॉमस माउंट।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "सेंट थॉमस माउंट.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Little Mount cave shrine.",
+              "hi": {
+                "text": "लिटिल माउंट गुफा धाम।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "लिटल माउंट गुहा स्थान.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Faiths of Chennai",
+        "hi": {
+          "text": "चेन्नई की आस्थाएँ",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "चेन्नईच्या श्रद्धा",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "San Thome Basilica.",
+              "hi": {
+                "text": "सान थोमे बेसिलिका।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "सान थोमे बॅसिलिका.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Basilica museum.",
+              "hi": {
+                "text": "बेसिलिका संग्रहालय।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "बॅसिलिका संग्रहालय.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Kapaleeshwarar Temple.",
+              "hi": {
+                "text": "कपालीश्वर मंदिर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "कपालीश्वर मंदिर.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Marina Beach.",
+              "hi": {
+                "text": "मरीना बीच।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "मरीना बीच.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "St Thomas Mount.",
+              "hi": {
+                "text": "सेंट थॉमस माउंट।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "सेंट थॉमस माउंट.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Rest and shop for silk.",
+              "hi": {
+                "text": "आराम और रेशम की ख़रीदारी।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "विश्रांती आणि रेशीम खरेदी.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Pilgrim rest houses",
+        "hi": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Simple, low-cost rooms run by trusts near the shrine.",
+        "hi": {
+          "text": "धाम के पास ट्रस्ट द्वारा चलाए जाने वाले सस्ते, सादे कमरे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवस्थानाजवळ ट्रस्टतर्फे चालवल्या जाणाऱ्या स्वस्त, साध्या खोल्या.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mid-range hotels",
+        "hi": {
+          "text": "मध्यम श्रेणी के होटल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मध्यम श्रेणीची हॉटेल्स",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Plenty of options within a short ride of the main site.",
+        "hi": {
+          "text": "मुख्य स्थल से थोड़ी दूरी पर कई विकल्प।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य स्थळापासून थोड्या अंतरावर अनेक पर्याय.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Book ahead for festivals",
+        "hi": {
+          "text": "त्योहारों में पहले से बुक करें",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणांच्या काळात आधी आरक्षण करा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Rooms fill fast on big festival days.",
+        "hi": {
+          "text": "बड़े त्योहारों पर कमरे जल्दी भर जाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोठ्या सणांच्या दिवशी खोल्या लवकर भरतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "South Indian breakfast",
+        "hi": {
+          "text": "दक्षिण भारतीय नाश्ता",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दक्षिण भारतीय न्याहारी",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Idli, dosa and filter coffee in Mylapore.",
+        "hi": {
+          "text": "मायलापुर में इडली, डोसा और फ़िल्टर कॉफ़ी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मायलापूरमध्ये इडली, डोसा आणि फिल्टर कॉफी.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Banana-leaf meals",
+        "hi": {
+          "text": "केले के पत्ते पर भोजन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "केळीच्या पानावरील जेवण",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Rice with sambar, rasam and sides.",
+        "hi": {
+          "text": "सांभर, रसम और साथ के व्यंजनों के साथ चावल।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सांबार, रस्सम आणि इतर पदार्थांसह भात.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Seaside snacks",
+        "hi": {
+          "text": "समुद्र किनारे के नाश्ते",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "किनाऱ्यावरील खाद्यपदार्थ",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Sundal and roasted corn on the beach.",
+        "hi": {
+          "text": "तट पर सुंडल और भुना भुट्टा।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "किनाऱ्यावर सुंडल आणि भाजलेले कणीस.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Simple vegetarian meals are easy to find near the shrine.",
+    "hi": {
+      "text": "धाम के पास सादा शाकाहारी भोजन आसानी से मिलता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवस्थानाजवळ साधे शाकाहारी जेवण सहज मिळते.",
+      "reviewed": false
+    }
+  },
+  "budget": {
+    "bands": {
+      "budget": {
+        "min": 1200,
+        "max": 2200
+      },
+      "mid": {
+        "min": 3000,
+        "max": 5500
+      },
+      "comfort": {
+        "min": 7000,
+        "max": 14000
+      }
+    },
+    "note": {
+      "en": "Per person per day, excluding travel to reach the place.",
+      "hi": {
+        "text": "प्रति व्यक्ति प्रतिदिन, यहाँ पहुँचने का खर्च छोड़कर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर व्यक्ती दररोज, येथे पोहोचण्याचा खर्च वगळून.",
+        "reviewed": false
+      }
+    }
+  },
+  "health": [
+    {
+      "en": "Carry water and rest in the shade on hot days.",
+      "hi": {
+        "text": "गर्म दिनों में पानी साथ रखें और छाँव में आराम करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उष्ण दिवसांत पाणी सोबत ठेवा आणि सावलीत विश्रांती घ्या.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Crowds peak on festival days; keep children close.",
+      "hi": {
+        "text": "त्योहारों पर भीड़ सबसे ज़्यादा होती है; बच्चों को पास रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सणांच्या दिवशी गर्दी सर्वाधिक असते; मुलांना जवळ ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Wheelchair access is limited in older parts; ask staff for help.",
+      "hi": {
+        "text": "पुराने हिस्सों में व्हीलचेयर की सुविधा सीमित है; कर्मचारियों से मदद माँगें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जुन्या भागांत व्हीलचेअरची सोय मर्यादित आहे; कर्मचाऱ्यांची मदत घ्या.",
+        "reviewed": false
+      }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Dress modestly inside the church.",
+      "hi": {
+        "text": "चर्च के भीतर शालीन कपड़े पहनें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "चर्चमध्ये सभ्य कपडे घाला.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Keep silence during Mass.",
+      "hi": {
+        "text": "प्रार्थना सभा के दौरान मौन रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "मिस्साच्या वेळी शांतता ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Ask before photographing people at prayer.",
+      "hi": {
+        "text": "प्रार्थना करते लोगों की फ़ोटो से पहले पूछें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "प्रार्थना करणाऱ्यांचे छायाचित्र घेण्यापूर्वी विचारा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Switch phones to silent.",
+      "hi": {
+        "text": "फ़ोन मौन पर रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "फोन शांत स्थितीत ठेवा.",
+        "reviewed": false
+      }
+    }
+  ]
+}

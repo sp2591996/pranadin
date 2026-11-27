@@ -58,7 +58,7 @@ export function loadPlaces(locale: Locale): PlaceView[] {
     localTransport: t(p.localTransport),
     festivals: p.festivals.map((f) => ({ festivalId: f.festivalId, name: t(fests.get(f.festivalId)!), note: t(f.note) })),
     nearby: p.nearby.map((n) => ({ name: t(n.name), km: n.km, note: t(n.note) })),
-    photos: p.photos.map((x) => ({ file: x.file, caption: t(x.caption), credit: x.credit, ai: x.ai })),
+    photos: p.photos.map((x) => ({ file: x.file, caption: t(x.caption), credit: x.credit, ai: x.ai, ...(x.source ? { source: x.source } : {}) })),
     sources: p.sources,
     sights: p.sights.map((s) => ({ id: s.id, name: t(s.name), desc: t(s.desc), timings: t(s.timings), dress: t(s.dress) })),
     darshan: { tips: p.darshan.tips.map(t), online: t(p.darshan.online) },

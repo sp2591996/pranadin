@@ -5,7 +5,7 @@
   "version": "2026-11-14.1",
   "status": "final",
   "note": "Board-approved strings have reviewed: true. Draft translations (reviewed: false) are shown too (D-030) until the Board reviews them.",
-  "count": 757,
+  "count": 758,
   "strings": {
     "common.appName": {
       "text": "प्राणदिन",
@@ -3661,6 +3661,10 @@
     },
     "hub.calendar.panchang": {
       "text": "पंचांग",
+      "reviewed": false
+    },
+    "today.photoBy": {
+      "text": "छायाचित्र: {credit}",
       "reviewed": false
     }
   }

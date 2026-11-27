@@ -163,8 +163,8 @@
   --input-border: var(--border-input);
   --input-border-focus: var(--focus-ring);
   --input-border-error: var(--error);
-  --tradition-tag-bg: var(--secondary-tint);
-  --tradition-tag-fg: var(--on-secondary-tint);
+  --tradition-tag-bg: var(--primary-tint);
+  --tradition-tag-fg: var(--on-primary-tint);
   --week-dot-done-bg: var(--primary);
   --week-dot-done-fg: var(--on-primary);
   --week-dot-empty-border: var(--border-input);

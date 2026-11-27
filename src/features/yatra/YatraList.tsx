@@ -5,8 +5,6 @@ import { useMemo, useState } from "react";
 import Image from "next/image";
 import { Icon } from "@/components/Icon";
 import { useI18n } from "@/i18n/client";
-import { formatDateKey } from "@/i18n/format";
-import type { Locale } from "@/i18n/config";
 import { useS } from "@/features/shared/strings";
 import { btn } from "@/features/shared/ui";
 import type { FestivalTradition } from "@/features/festivals/types";
@@ -14,7 +12,9 @@ import { yatraRoutes } from "./routes";
 import type { PlaceView } from "./types";
 import { SectionHeader } from "@/components/SectionHeader";
 
-export const monthName = (m: number, locale: Locale) => formatDateKey(`2027-${String(m).padStart(2, "0")}-01`, locale, { month: "long" });
+import { monthName } from "./month";
+
+export { monthName };
 
 /** Yatra place list: filter by state, tradition and month to visit. */
 export function YatraList({ places }: { places: PlaceView[] }) {

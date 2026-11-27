@@ -78,7 +78,7 @@ export const placeCoreSchema = z.object({
   festivals: z.array(z.object({ festivalId: id, note: lt })),
   nearby: z.array(z.object({ name: lt, km, note: lt })).min(2),
   /** Files sit in `public/yatra/<id>/`. Real photos replace AI ones later: set `ai` false and give the credit. */
-  photos: z.array(z.object({ file: z.string().regex(/^[a-z0-9-]+\.webp$/), caption: lt, credit: z.string().min(1), ai: z.boolean() })),
+  photos: z.array(z.object({ file: z.string().regex(/^[a-z0-9-]+\.webp$/), caption: lt, credit: z.string().min(1), ai: z.boolean(), source: z.string().url().optional() })),
   sources: z.array(sourceLink).min(2),
 });
 

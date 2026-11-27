@@ -1,0 +1,505 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "guide",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "hazur-sahib",
+  "itineraries": [
+    {
+      "days": 1,
+      "title": {
+        "en": "Takht Sachkhand",
+        "hi": {
+          "text": "तख़्त सचखंड",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "तख्त सचखंड",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Prayer at Takht Sachkhand.",
+              "hi": {
+                "text": "तख़्त सचखंड में प्रार्थना।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "तख्त सचखंडमध्ये प्रार्थना.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Evening ceremony and langar.",
+              "hi": {
+                "text": "संध्या समारोह और लंगर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "संध्याकाळचा सोहळा आणि लंगर.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 2,
+      "title": {
+        "en": "Gurdwaras of Nanded",
+        "hi": {
+          "text": "नांदेड़ के गुरुद्वारे",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नांदेडचे गुरुद्वारे",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Takht Sachkhand.",
+              "hi": {
+                "text": "तख़्त सचखंड।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "तख्त सचखंड.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Nagina Ghat and Banda Ghat.",
+              "hi": {
+                "text": "नगीना घाट और बंदा घाट।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "नगीना घाट आणि बंदा घाट.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Mata Sahib Devan.",
+              "hi": {
+                "text": "माता साहिब देवाँ।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "माता साहिब देवा.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Riverside walk at dusk.",
+              "hi": {
+                "text": "शाम को नदी किनारे सैर।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "संध्याकाळी नदीकाठी फेरफटका.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "days": 3,
+      "title": {
+        "en": "Nanded and around",
+        "hi": {
+          "text": "नांदेड़ और आसपास",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "नांदेड आणि परिसर",
+          "reviewed": false
+        }
+      },
+      "plan": [
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Takht Sachkhand.",
+              "hi": {
+                "text": "तख़्त सचखंड।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "तख्त सचखंड.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "evening",
+            "text": {
+              "en": "Evening ceremony.",
+              "hi": {
+                "text": "संध्या समारोह।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "संध्याकाळचा सोहळा.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Riverside gurdwaras.",
+              "hi": {
+                "text": "नदी तट के गुरुद्वारे।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "नदीकाठचे गुरुद्वारे.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Langar seva.",
+              "hi": {
+                "text": "लंगर सेवा।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "लंगर सेवा.",
+                "reviewed": false
+              }
+            }
+          }
+        ],
+        [
+          {
+            "part": "morning",
+            "text": {
+              "en": "Kandhar Fort.",
+              "hi": {
+                "text": "कंधार क़िला।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "कंधार किल्ला.",
+                "reviewed": false
+              }
+            }
+          },
+          {
+            "part": "afternoon",
+            "text": {
+              "en": "Return and rest.",
+              "hi": {
+                "text": "वापसी और आराम।",
+                "reviewed": false
+              },
+              "mr": {
+                "text": "परत येऊन विश्रांती.",
+                "reviewed": false
+              }
+            }
+          }
+        ]
+      ]
+    }
+  ],
+  "stay": [
+    {
+      "title": {
+        "en": "Pilgrim rest houses",
+        "hi": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "यात्री निवास",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Simple, low-cost rooms run by trusts near the shrine.",
+        "hi": {
+          "text": "धाम के पास ट्रस्ट द्वारा चलाए जाने वाले सस्ते, सादे कमरे।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "देवस्थानाजवळ ट्रस्टतर्फे चालवल्या जाणाऱ्या स्वस्त, साध्या खोल्या.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Mid-range hotels",
+        "hi": {
+          "text": "मध्यम श्रेणी के होटल",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मध्यम श्रेणीची हॉटेल्स",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Plenty of options within a short ride of the main site.",
+        "hi": {
+          "text": "मुख्य स्थल से थोड़ी दूरी पर कई विकल्प।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मुख्य स्थळापासून थोड्या अंतरावर अनेक पर्याय.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Book ahead for festivals",
+        "hi": {
+          "text": "त्योहारों में पहले से बुक करें",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सणांच्या काळात आधी आरक्षण करा",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Rooms fill fast on big festival days.",
+        "hi": {
+          "text": "बड़े त्योहारों पर कमरे जल्दी भर जाते हैं।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोठ्या सणांच्या दिवशी खोल्या लवकर भरतात.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "food": [
+    {
+      "title": {
+        "en": "Langar",
+        "hi": {
+          "text": "लंगर",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "लंगर",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Free community meal served to everyone, every day.",
+        "hi": {
+          "text": "सबको प्रतिदिन मुफ़्त सामुदायिक भोजन।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "सर्वांना दररोज मोफत सामुदायिक भोजन.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Karah prasad",
+        "hi": {
+          "text": "कड़ाह प्रसाद",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "कडाह प्रसाद",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Warm sweet offering given after prayers.",
+        "hi": {
+          "text": "प्रार्थना के बाद मिलने वाला गरम मीठा प्रसाद।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "प्रार्थनेनंतर मिळणारा गरम गोड प्रसाद.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Marathwada snacks",
+        "hi": {
+          "text": "मराठवाड़ा के व्यंजन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मराठवाड्याचे पदार्थ",
+          "reviewed": false
+        }
+      },
+      "body": {
+        "en": "Try poha, jowar bhakri and spicy thecha.",
+        "hi": {
+          "text": "पोहा, ज्वार भाकरी और तीखा ठेचा चखें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पोहे, ज्वारीची भाकरी आणि झणझणीत ठेचा चाखा.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "satvik": {
+    "en": "Simple vegetarian meals are easy to find near the shrine.",
+    "hi": {
+      "text": "धाम के पास सादा शाकाहारी भोजन आसानी से मिलता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "देवस्थानाजवळ साधे शाकाहारी जेवण सहज मिळते.",
+      "reviewed": false
+    }
+  },
+  "budget": {
+    "bands": {
+      "budget": {
+        "min": 800,
+        "max": 1500
+      },
+      "mid": {
+        "min": 2500,
+        "max": 4500
+      },
+      "comfort": {
+        "min": 5500,
+        "max": 9000
+      }
+    },
+    "note": {
+      "en": "Per person per day, excluding travel to reach the place.",
+      "hi": {
+        "text": "प्रति व्यक्ति प्रतिदिन, यहाँ पहुँचने का खर्च छोड़कर।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "दर व्यक्ती दररोज, येथे पोहोचण्याचा खर्च वगळून.",
+        "reviewed": false
+      }
+    }
+  },
+  "health": [
+    {
+      "en": "Carry water and rest in the shade on hot days.",
+      "hi": {
+        "text": "गर्म दिनों में पानी साथ रखें और छाँव में आराम करें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "उष्ण दिवसांत पाणी सोबत ठेवा आणि सावलीत विश्रांती घ्या.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Crowds peak on festival days; keep children close.",
+      "hi": {
+        "text": "त्योहारों पर भीड़ सबसे ज़्यादा होती है; बच्चों को पास रखें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "सणांच्या दिवशी गर्दी सर्वाधिक असते; मुलांना जवळ ठेवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Wheelchair access is limited in older parts; ask staff for help.",
+      "hi": {
+        "text": "पुराने हिस्सों में व्हीलचेयर की सुविधा सीमित है; कर्मचारियों से मदद माँगें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जुन्या भागांत व्हीलचेअरची सोय मर्यादित आहे; कर्मचाऱ्यांची मदत घ्या.",
+        "reviewed": false
+      }
+    }
+  ],
+  "etiquette": [
+    {
+      "en": "Cover your head; scarves are given at the entrance.",
+      "hi": {
+        "text": "सिर ढकें; प्रवेश पर रूमाल मिलते हैं।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "डोके झाका; प्रवेशद्वारावर रुमाल मिळतात.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Remove shoes and wash your feet before entering.",
+      "hi": {
+        "text": "जूते उतारें और प्रवेश से पहले पैर धोएँ।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "पादत्राणे काढा आणि आत जाण्यापूर्वी पाय धुवा.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "No tobacco or alcohol anywhere in the complex.",
+      "hi": {
+        "text": "परिसर में तंबाकू या शराब बिल्कुल नहीं।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "परिसरात तंबाखू किंवा मद्य अजिबात नाही.",
+        "reviewed": false
+      }
+    },
+    {
+      "en": "Sit on the floor and accept langar with both hands.",
+      "hi": {
+        "text": "ज़मीन पर बैठें और लंगर दोनों हाथों से लें।",
+        "reviewed": false
+      },
+      "mr": {
+        "text": "जमिनीवर बसा आणि लंगर दोन्ही हातांनी घ्या.",
+        "reviewed": false
+      }
+    }
+  ]
+}

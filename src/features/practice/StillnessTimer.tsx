@@ -237,7 +237,7 @@ export function StillnessTimer({ meditation, silentTitle, silentGuidance, refId,
         </h1>
       </div>
 
-      <div className="flex flex-col items-center gap-3">
+      <div className="stage flex flex-col items-center gap-3">
         <div className="relative" style={{ width: "min(240px, 66vw, 34vh)", height: "min(240px, 66vw, 34vh)" }}>
           <svg viewBox="0 0 240 240" className="h-full w-full -rotate-90" role="img" aria-label={ringLabel || label(leftMs)}>
             <circle cx="120" cy="120" r={R} fill="none" stroke="var(--timer-track)" strokeWidth="6" />

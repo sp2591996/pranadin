@@ -1,0 +1,361 @@
+{
+  "$schema": "pranadin-content/1.0",
+  "namespace": "yatra",
+  "part": "core",
+  "version": "2026-11-27.1",
+  "status": "draft",
+  "id": "bom-jesus",
+  "name": {
+    "en": "Basilica of Bom Jesus",
+    "hi": {
+      "text": "बॉम जीसस बेसिलिका",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बॉम जीझस बॅसिलिका",
+      "reviewed": false
+    }
+  },
+  "state": {
+    "en": "Old Goa, Goa",
+    "hi": {
+      "text": "पुराना गोवा, गोवा",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "जुने गोवे, गोवा",
+      "reviewed": false
+    }
+  },
+  "stateKey": "goa",
+  "traditions": [
+    "christian"
+  ],
+  "deity": {
+    "en": "The Infant Jesus; relics of St Francis Xavier",
+    "hi": {
+      "text": "बालक येशु; संत फ़्रांसिस ज़ेवियर के अवशेष",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "बाळ येशू; संत फ्रान्सिस झेविअर यांचे अवशेष",
+      "reviewed": false
+    }
+  },
+  "significance": {
+    "en": "A UNESCO World Heritage church holding the body of St Francis Xavier.",
+    "hi": {
+      "text": "संत फ़्रांसिस ज़ेवियर के पार्थिव शरीर वाला यूनेस्को विश्व धरोहर चर्च।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "संत फ्रान्सिस झेविअर यांचा पार्थिव देह असलेले युनेस्को जागतिक वारसा चर्च.",
+      "reviewed": false
+    }
+  },
+  "tagline": {
+    "en": "Baroque church of St Francis Xavier",
+    "hi": {
+      "text": "संत फ़्रांसिस ज़ेवियर का बारोक चर्च",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "संत फ्रान्सिस झेविअर यांचे बरोक चर्च",
+      "reviewed": false
+    }
+  },
+  "overview": {
+    "en": "Finished in 1605, the red laterite basilica is the heart of Old Goa's church quarter.",
+    "hi": {
+      "text": "1605 में पूरा हुआ लाल लेटराइट का यह बेसिलिका पुराने गोवा के चर्च क्षेत्र का केंद्र है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "1605 मध्ये पूर्ण झालेले हे लाल जांभ्या दगडाचे बॅसिलिका जुन्या गोव्याच्या चर्च परिसराचे केंद्र आहे.",
+      "reviewed": false
+    }
+  },
+  "story": {
+    "en": "St Francis Xavier died in 1552; his body came to Goa and is shown to the public about every ten years.",
+    "hi": {
+      "text": "संत फ़्रांसिस ज़ेवियर का 1552 में निधन हुआ; उनका शरीर गोवा लाया गया और लगभग हर दस वर्ष में दर्शन के लिए रखा जाता है।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "संत फ्रान्सिस झेविअर यांचे 1552 मध्ये निधन झाले; त्यांचा देह गोव्यात आणला गेला आणि सुमारे दर दहा वर्षांनी दर्शनासाठी ठेवला जातो.",
+      "reviewed": false
+    }
+  },
+  "bestTime": {
+    "months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "seasons": [
+      {
+        "months": [
+          11,
+          12,
+          1,
+          2
+        ],
+        "rating": "best",
+        "weather": {
+          "en": "Dry and sunny; the 3 December feast is busy.",
+          "hi": {
+            "text": "सूखा और धूप भरा; 3 दिसंबर का पर्व व्यस्त रहता है।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "कोरडे आणि सूर्यप्रकाशित; 3 डिसेंबरचा सण गर्दीचा असतो.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          3,
+          4,
+          5,
+          10
+        ],
+        "rating": "good",
+        "weather": {
+          "en": "Hot and humid; visit early.",
+          "hi": {
+            "text": "गर्म और उमस; सुबह जल्दी जाएँ।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "उष्ण आणि दमट; लवकर जा.",
+            "reviewed": false
+          }
+        }
+      },
+      {
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "rating": "difficult",
+        "weather": {
+          "en": "Heavy monsoon rain.",
+          "hi": {
+            "text": "भारी मानसूनी बारिश।",
+            "reviewed": false
+          },
+          "mr": {
+            "text": "मुसळधार पाऊस.",
+            "reviewed": false
+          }
+        }
+      }
+    ]
+  },
+  "reach": {
+    "air": {
+      "nearest": {
+        "en": "Goa (Dabolim) airport",
+        "hi": {
+          "text": "गोवा (दाबोलिम) हवाई अड्डा",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "गोवा (दाबोळी) विमानतळ",
+          "reviewed": false
+        }
+      },
+      "km": 30,
+      "how": {
+        "en": "Taxi in about 45 minutes.",
+        "hi": {
+          "text": "टैक्सी से लगभग 45 मिनट।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "टॅक्सीने सुमारे 45 मिनिटे.",
+          "reviewed": false
+        }
+      }
+    },
+    "rail": {
+      "nearest": {
+        "en": "Karmali station",
+        "hi": {
+          "text": "करमाली स्टेशन",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "करमळी स्थानक",
+          "reviewed": false
+        }
+      },
+      "km": 4,
+      "how": {
+        "en": "Taxi or bus to Old Goa.",
+        "hi": {
+          "text": "पुराने गोवा तक टैक्सी या बस।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जुन्या गोव्यापर्यंत टॅक्सी किंवा बस.",
+          "reviewed": false
+        }
+      }
+    },
+    "road": {
+      "how": {
+        "en": "Frequent buses from Panaji, 10 km away.",
+        "hi": {
+          "text": "10 किमी दूर पणजी से लगातार बसें।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "10 किमीवरील पणजीहून सतत बस.",
+          "reviewed": false
+        }
+      },
+      "km": 10
+    }
+  },
+  "localTransport": {
+    "en": "The churches are close together; walk between them.",
+    "hi": {
+      "text": "सभी चर्च पास-पास हैं; पैदल घूमें।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सर्व चर्च जवळजवळ आहेत; चालत फिरा.",
+      "reviewed": false
+    }
+  },
+  "festivals": [
+    {
+      "festivalId": "christmas",
+      "note": {
+        "en": "Midnight Mass and carols across Old Goa.",
+        "hi": {
+          "text": "पुराने गोवा भर में आधी रात की प्रार्थना और कैरोल।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "जुन्या गोव्यात मध्यरात्रीचा मिस्सा आणि कॅरोल.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "nearby": [
+    {
+      "name": {
+        "en": "Panaji",
+        "hi": {
+          "text": "पणजी",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "पणजी",
+          "reviewed": false
+        }
+      },
+      "km": 10,
+      "note": {
+        "en": "Goa's capital with the Fontainhas quarter.",
+        "hi": {
+          "text": "फ़ॉन्टेनहास मोहल्ले वाली गोवा की राजधानी।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "फोन्तेनास भाग असलेली गोव्याची राजधानी.",
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "name": {
+        "en": "Divar Island",
+        "hi": {
+          "text": "दिवार द्वीप",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "दिवाडी बेट",
+          "reviewed": false
+        }
+      },
+      "km": 3,
+      "note": {
+        "en": "Quiet island village by free ferry.",
+        "hi": {
+          "text": "मुफ़्त नौका से शांत द्वीप गाँव।",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "मोफत फेरीने शांत बेटावरील गाव.",
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "Basilica of Bom Jesus, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Basilica_of_Bom_Jesus"
+    },
+    {
+      "label": "Churches and Convents of Goa, UNESCO",
+      "url": "https://whc.unesco.org/en/list/234"
+    }
+  ],
+  "storySource": {
+    "en": "Retold from public histories; traditions vary.",
+    "hi": {
+      "text": "सार्वजनिक इतिहास से संक्षेप; परंपराएँ अलग हो सकती हैं।",
+      "reviewed": false
+    },
+    "mr": {
+      "text": "सार्वजनिक इतिहासावरून संक्षेप; परंपरा वेगळ्या असू शकतात.",
+      "reviewed": false
+    }
+  },
+  "photos": [
+    {
+      "file": "photo-1.webp",
+      "caption": {
+        "en": "Basilica of Bom Jesus",
+        "hi": {
+          "text": "बॉम जीसस बेसिलिका",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बॉम जीझस बॅसिलिका",
+          "reviewed": false
+        }
+      },
+      "credit": "iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg"
+    },
+    {
+      "file": "photo-2.webp",
+      "caption": {
+        "en": "Basilica of Bom Jesus",
+        "hi": {
+          "text": "बॉम जीसस बेसिलिका",
+          "reviewed": false
+        },
+        "mr": {
+          "text": "बॉम जीझस बॅसिलिका",
+          "reviewed": false
+        }
+      },
+      "credit": "iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+      "ai": false,
+      "source": "https://commons.wikimedia.org/wiki/File:Side_Elevation_of_Basilica_of_Bom_Jesus.jpg"
+    }
+  ]
+}

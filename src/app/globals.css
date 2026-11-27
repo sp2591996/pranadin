@@ -121,7 +121,6 @@ h2 {
 .tile:hover { transform: translateY(-4px); box-shadow: 0 18px 40px -18px rgba(90, 40, 10, 0.45); }
 .tile img { transition: transform 900ms cubic-bezier(.2,.8,.2,1); }
 .tile:hover img { transform: scale(1.06); }
-.chakra-wash { background: linear-gradient(160deg, #8E3FB4 0%, #4B5BD6 22%, #2F9FD8 38%, #3FAE6A 54%, #E7C23A 70%, #EE8A2C 84%, #D8432F 100%); }
 .no-scrollbar { scrollbar-width: none; }
 .no-scrollbar::-webkit-scrollbar { display: none; }
 
@@ -145,3 +144,21 @@ h2 {
 @keyframes sun-glow { 0%, 100% { filter: drop-shadow(0 0 4px rgba(245,178,46,.6)); } 50% { filter: drop-shadow(0 0 12px rgba(245,178,46,1)); } }
 @keyframes reveal { from { transform: translateY(32px); } to { transform: none; } }
 :root[data-motion="reduce"] .eq > i, :root[data-motion="reduce"] .orb, :root[data-motion="reduce"] .sun-dot, :root[data-motion="reduce"] .reveal { animation: none; }
+
+/* ---------- D-037: one brand palette for every coloured surface ----------
+   Saffron, maroon, deep earth and gold only (with cream surfaces). White text
+   on the three dark ones is 7:1 or better; the gold one takes dark text. */
+.brand-saffron { background: linear-gradient(150deg, #B9501C 0%, #8A3110 60%, #6A240B 100%); }
+.brand-maroon { background: linear-gradient(150deg, #8A2A1C 0%, #5E1A10 60%, #43120A 100%); }
+.brand-earth { background: linear-gradient(150deg, #4A2410 0%, #2E150A 60%, #1E0E06 100%); }
+.brand-gold { background: linear-gradient(150deg, #FBE7C2 0%, #F4CB86 100%); color: #3A1A0B; }
+.brand-glow::before { content: ""; position: absolute; inset: auto -20% -40% auto; width: 70%; aspect-ratio: 1; border-radius: 9999px; background: radial-gradient(circle, rgba(245, 178, 46, 0.35), transparent 65%); z-index: -1; }
+
+/* D-037: warm stage behind the breath orb, timer ring and yoga step (light, keeps text contrast). */
+.stage {
+  border-radius: var(--r-xl);
+  border: 1px solid var(--divider);
+  padding: 2rem 1rem;
+  background: radial-gradient(circle at 50% 38%, var(--primary-tint) 0%, var(--surface) 72%);
+  box-shadow: 0 18px 40px -28px rgba(74, 36, 16, 0.45);
+}
