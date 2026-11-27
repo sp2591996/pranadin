@@ -7,28 +7,23 @@
   "trailingSlash": true,
   "redirects": [
     {
-      "source": "/:locale(en|hi|mr)/calendar/stories",
+      "source": "/:locale(en|hi|mr)/calendar/stories/",
       "destination": "/:locale/stories/",
       "permanent": true
     },
     {
-      "source": "/:locale(en|hi|mr)/calendar/stories/:path*",
-      "destination": "/:locale/stories/:path*",
+      "source": "/:locale(en|hi|mr)/calendar/stories/:path+/",
+      "destination": "/:locale/stories/:path+/",
       "permanent": true
     },
     {
-      "source": "/:locale(en|hi|mr)/practice/yatra",
+      "source": "/:locale(en|hi|mr)/practice/yatra/",
       "destination": "/:locale/yatra/",
       "permanent": true
     },
     {
-      "source": "/:locale(en|hi|mr)/practice/yatra/:path*",
-      "destination": "/:locale/yatra/:path*",
-      "permanent": true
-    },
-    {
-      "source": "/:locale(en|hi|mr)/sounds",
-      "destination": "/:locale/practice/sounds/",
+      "source": "/:locale(en|hi|mr)/practice/yatra/:path+/",
+      "destination": "/:locale/yatra/:path+/",
       "permanent": true
     },
     {
