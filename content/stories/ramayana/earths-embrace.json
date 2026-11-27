@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "earths-embrace",
+ "order": 33,
+ "part": "uttara",
+ "figure": {
+  "en": "Sita and Rama",
+  "hi": {
+   "text": "सीता और राम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीता आणि राम",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The mother who took her daughter home",
+  "hi": {
+   "text": "वह माँ जो अपनी पुत्री को घर ले गई",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लेकीला घरी नेणारी माता",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Sita stands before the whole assembly one last time. What she says, and what the earth does in answer, is remembered as the most dignified silence in all the poem.",
+  "hi": {
+   "text": "सीता अंतिम बार पूरी सभा के सामने खड़ी हैं। वे जो कहती हैं, और उसके उत्तर में धरती जो करती है, उसे पूरे काव्य का सबसे गरिमामय मौन माना जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीता सर्व सभेसमोर शेवटच्या वेळी उभी राहते. तिने काय म्हटले, आणि पृथ्वीने काय उत्तर दिले, ती संपूर्ण काव्यातली सर्वांत प्रतिष्ठित शांतता म्हणून स्मरली जाते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/luv-kush-3.webp",
+   "w": 600,
+   "h": 465,
+   "caption": {
+    "en": "Sita returns to Mother Earth (Raja Ravi Varma)",
+    "hi": {
+     "text": "सीता धरती माता की गोद में लौटती हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीता धरणीमातेच्या कुशीत परत जाते (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sita_Bhum_Pravesh.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Sita is called",
+    "hi": {
+     "text": "सीता को बुलाया गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेला बोलावले जाते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the song ended and the boys' parentage was known, Rama sent word to Valmiki: let Sita come to the assembly, and let her speak, so that the people may be at peace. Rama's heart was torn, and he did not wish to ask again, but his people's faith still wavered.\n\nThe next day the court filled again. Sages, kings, citizens and the monkeys' envoys, even the gods, hidden in the sky, gathered in silence. Then Sita came.\n\nShe walked slowly, in a simple robe the colour of dawn, her eyes lowered, her hands folded, with Valmiki beside her. Her two sons walked behind. She was thin, but there was a light about her, and the crowd fell back to make a path.\n\nValmiki spoke first, his voice steady. “I have meditated for many years, and I tell you this truth: Sita is pure. My sons have no words on their tongues that I have not tested. Even if all my penance should fail, let it be known that she is faultless.”\n\nThe hall held its breath. Everyone turned to the quiet woman at the sage's side.",
+    "hi": {
+     "text": "जब गीत समाप्त हुआ और बालकों का परिचय ज्ञात हो गया, तो राम ने वाल्मीकि के पास संदेश भेजा: सीता सभा में आएँ और बोलें, ताकि प्रजा को शांति मिले। राम का हृदय विदीर्ण था, और वे दोबारा नहीं पूछना चाहते थे, पर उनकी प्रजा का विश्वास अभी डगमगा रहा था।\n\nअगले दिन दरबार फिर भर गया। ऋषि, राजा, नागरिक और वानरों के दूत, यहाँ तक कि देवता भी, आकाश में छिपे, चुपचाप एकत्र हुए। तब सीता आईं।\n\nवे धीरे-धीरे चलीं, भोर के रंग के सादे वस्त्र में, आँखें झुकी, हाथ जुड़े, उनके पास वाल्मीकि। उनके दोनों पुत्र पीछे चल रहे थे। वे दुबली थीं, पर उनके चारों ओर एक प्रकाश था, और भीड़ ने रास्ता देने को पीछे हटना शुरू कर दिया।\n\nवाल्मीकि पहले बोले, उनकी वाणी स्थिर थी। “मैंने बरसों ध्यान किया है, और मैं तुम्हें यह सत्य कहता हूँ: सीता पवित्र हैं। मेरे इन पुत्रों की जीभ पर ऐसे कोई शब्द नहीं जिन्हें मैंने परखा न हो। यदि मेरी सारी तपस्या विफल भी हो जाए, तो भी जान लो कि वे निर्दोष हैं।”\n\nसभा ने साँस रोक ली। सबकी दृष्टि ऋषि के पास खड़ी उस शांत स्त्री की ओर मुड़ गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गीत संपले आणि मुलांचे पितृत्व कळले तेव्हा रामांनी वाल्मीकींना निरोप पाठवला: सीतेला सभेत येऊ द्या, आणि तिला बोलू द्या, म्हणजे लोकांना शांतता मिळेल. रामांचे हृदय विदीर्ण झाले होते, आणि त्यांना पुन्हा विचारायची इच्छा नव्हती, पण त्यांच्या प्रजेचा विश्वास अजून डळमळत होता.\n\nदुसऱ्या दिवशी दरबार पुन्हा भरला. ऋषी, राजे, नागरिक आणि वानरांचे दूत, आकाशात लपलेले देवसुद्धा, शांतपणे जमले. मग सीता आली.\n\nती हळूहळू चालत आली, पहाटेच्या रंगाच्या साध्या वस्त्रात, नजर खाली, हात जोडलेले, आणि वाल्मीकी तिच्या शेजारी. तिचे दोन पुत्र तिच्या मागे चालत होते. ती कृश होती, पण तिच्याभोवती एक तेज होते, आणि गर्दी मार्ग करायला मागे सरकली.\n\nवाल्मीकी प्रथम बोलले, त्यांचा आवाज स्थिर होता. “मी अनेक वर्षे ध्यान केले आहे, आणि मी तुम्हाला हे सत्य सांगतो: सीता पवित्र आहे. माझ्या पुत्रांच्या जिभेवर मी तपासले नाही असा एकही शब्द नाही. माझे सारे तप निष्फळ झाले तरी चालेल, पण ती निर्दोष आहे हे कळू द्या.”\n\nसभागृहाने श्वास रोखला. प्रत्येकजण ऋषींच्या शेजारी उभ्या असलेल्या शांत स्त्रीकडे वळला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The vow",
+    "hi": {
+     "text": "शपथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शपथ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sita lifted her eyes. She looked at Rama, and there was no anger in her look: only a deep, calm sorrow, like water at the bottom of a well. Then she turned, folded her hands toward the earth, and spoke.\n\n“If I have never thought of anyone but Rama in my heart, in my mind or in my deeds, then let Mother Earth take me back into her. If I have been faithful to him, in word and thought, then let her open.”\n\nShe said it a second time, and a third. Her voice did not rise. It did not beg. She did not ask for justice or an apology, nor did she accuse. She spoke the way a person speaks who has nothing left to prove, and nothing she needs from the world.\n\nNo one in that great assembly said a word. Rama sat still on the throne, his hand clenched on the arm. The birds in the courtyard stopped singing. The air itself seemed to listen.\n\nAnd then the ground trembled.",
+    "hi": {
+     "text": "सीता ने आँखें उठाईं। उन्होंने राम को देखा, और उस दृष्टि में क्रोध नहीं था: बस एक गहरी, शांत व्यथा, कुएँ की तली के जल जैसी। फिर वे मुड़ीं, धरती की ओर हाथ जोड़े, और बोलीं।\n\n“यदि मैंने हृदय में, मन में या कर्म में राम के सिवा किसी का विचार नहीं किया, तो माता धरती मुझे अपने भीतर समा ले। यदि मैं वचन और विचार से उनके प्रति निष्ठावान रही हूँ, तो वे खुल जाएँ।”\n\nउन्होंने यह दूसरी बार कहा, और तीसरी बार। उनकी वाणी ऊँची नहीं हुई। उसमें याचना नहीं थी। उन्होंने न्याय माँगा, न क्षमा, न किसी पर आरोप लगाया। वे ऐसे बोलीं जैसे वह बोलता है जिसे कुछ सिद्ध नहीं करना, और संसार से कुछ नहीं चाहिए।\n\nउस विशाल सभा में किसी ने एक शब्द न कहा। राम सिंहासन पर निश्चल बैठे रहे, उनका हाथ आसन की बाँह पर भिंचा था। आँगन में पक्षियों ने चहचहाना बंद कर दिया। हवा तक मानो सुन रही थी।\n\nऔर तब धरती काँप उठी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेने डोळे वर केले. तिने रामांकडे पाहिले, आणि त्या नजरेत राग नव्हता: फक्त विहिरीच्या तळाशी असलेल्या पाण्यासारखे खोल, शांत दुःख होते. मग ती वळली, पृथ्वीकडे हात जोडून बोलली.\n\n“मी रामांशिवाय हृदयात, मनात किंवा कृतीत कोणाचाही विचार केला नसेल, तर पृथ्वीमाते, मला तुझ्यात परत घे. मी त्यांच्याशी वाणीने आणि विचाराने निष्ठावान राहिले असेन, तर तिने दुभंगावे.”\n\nतिने ते दुसऱ्यांदा म्हटले, आणि तिसऱ्यांदा. तिचा आवाज चढला नाही. तिने याचना केली नाही. तिने न्याय किंवा क्षमायाचना मागितली नाही, ना कोणावर आरोप केला. ज्याला सिद्ध करण्यासारखे काही उरले नाही आणि जगाकडून काही नको आहे अशा माणसाप्रमाणे ती बोलली.\n\nत्या महान सभेतल्या कोणीही शब्द उच्चारला नाही. राम सिंहासनावर स्तब्ध बसले, त्यांची मूठ आसनाच्या हातावर आवळलेली. अंगणातल्या पक्ष्यांनी गाणे थांबवले. हवासुद्धा ऐकत असल्यासारखी वाटली.\n\nआणि मग जमीन थरथरली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The earth opens",
+    "hi": {
+     "text": "धरती खुलती है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पृथ्वी दुभंगते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A crack appeared in the floor, and it widened. From the depths rose a glorious throne, shining like a thousand suns, borne on the heads of mighty serpents, adorned with jewels no human eye had ever seen. On it sat the goddess Earth, Bhumi Devi, radiant and tender, with her arms outstretched.\n\n“Come, my daughter,” she said. “You were born from my furrow, long ago. You have borne enough. Come home.”\n\nSita stood for one moment, looking at the sky. Then she bowed to Valmiki, to the people, to her sons. She looked back at Rama, and her face held no reproach, only a love that had been tested beyond what anyone should bear.\n\nThe goddess took her by the hand, and set her gently on the throne, and wrapped her in her arms. The throne sank slowly into the earth. A rain of flowers fell from the sky. The gods cried, “Well done!” and the whole court wept. Then the ground closed, and where it had opened there was only a trace of petals.\n\nSita, born from the earth, had returned to it.",
+    "hi": {
+     "text": "फ़र्श में एक दरार उभरी, और चौड़ी होती गई। गहराई से एक भव्य सिंहासन उठा, हज़ार सूर्यों-सा दमकता, विशाल नागों के शीश पर टिका, ऐसे रत्नों से सजा जिन्हें किसी मानव-आँख ने कभी नहीं देखा था। उस पर देवी धरती, भूमि देवी, तेजस्वी और कोमल, बाँहें फैलाए बैठी थीं।\n\n“आओ, मेरी पुत्री,” उन्होंने कहा। “बहुत पहले तुम मेरी हल-रेखा से जन्मी थीं। तुमने बहुत सह लिया। घर आ जाओ।”\n\nसीता क्षण भर आकाश को देखती खड़ी रहीं। फिर उन्होंने वाल्मीकि को, प्रजा को, अपने पुत्रों को प्रणाम किया। उन्होंने फिर राम की ओर देखा, और उनके मुख पर कोई उलाहना नहीं था, बस ऐसा प्रेम जो किसी के सहने से अधिक परखा गया था।\n\nदेवी ने उनका हाथ थामा, उन्हें कोमलता से सिंहासन पर बिठाया, और बाँहों में भर लिया। सिंहासन धीरे-धीरे धरती में उतर गया। आकाश से फूलों की वर्षा हुई। देवताओं ने पुकारा, “साधु!” और पूरा दरबार रो पड़ा। फिर धरती बंद हो गई, और जहाँ वह खुली थी, वहाँ केवल पंखुड़ियों के चिह्न रह गए।\n\nधरती से जन्मी सीता धरती में लौट गई थीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जमिनीला तडा गेला, आणि तो रुंदावला. खोलातून एक वैभवशाली सिंहासन वर आले, हजार सूर्यांसारखे तेजस्वी, बलवान नागांच्या फण्यांवर तोललेले, कोणत्याही मानवी डोळ्याने न पाहिलेल्या रत्नांनी सजलेले. त्यावर पृथ्वीदेवी भूमिदेवी बसली होती, तेजस्वी आणि कोमल, तिने हात पसरले होते.\n\n“ये माझी कन्ये,” ती म्हणाली. “फार पूर्वी तू माझ्या नांगराच्या तासातून जन्मलीस. तू पुरेसे सोसले आहेस. घरी ये.”\n\nसीता क्षणभर आकाशाकडे पाहत उभी राहिली. मग तिने वाल्मीकींना, लोकांना, आपल्या पुत्रांना नमस्कार केला. तिने रामांकडे वळून पाहिले, आणि तिच्या चेहऱ्यावर कोणताही आक्षेप नव्हता, फक्त कोणालाही सहन होऊ नये इतक्या परीक्षेतून गेलेले प्रेम होते.\n\nदेवीने तिचा हात धरला, तिला हळूच सिंहासनावर बसवले, आणि आपल्या बाहूंत गुंडाळले. सिंहासन हळूहळू पृथ्वीत उतरले. आकाशातून पुष्पवृष्टी झाली. देव ओरडले, “साधु साधु!” आणि सारा दरबार रडला. मग जमीन मिटली, आणि जिथे ती उघडली होती तिथे फक्त पाकळ्यांचा सडा उरला.\n\nपृथ्वीतून जन्मलेली सीता पुन्हा पृथ्वीत परतली होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A king in grief",
+    "hi": {
+     "text": "शोक में राजा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शोकाकुल राजा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Rama cried out, and rose from the throne, and ran toward the spot, and fell on his knees. In his anger and sorrow, he called to the earth to give her back. Even Brahma had to appear to console him. “Rama, you are not to grieve,” he said. “You will meet her again, in a world beyond this one. Finish what you have begun, for the good of your people.”\n\nSo Rama ruled on. His sons, Luv and Kush, came to live in the palace. The kingdom was prosperous and just. But the king's heart was not in the palace anymore.\n\nValmiki tells that Rama never married again. At every sacrifice and ritual, where a king's wife must sit beside him, he had a golden image of Sita placed at his side. He would look at it for a moment, and then close his eyes. People noticed that he rarely laughed, but was gentler than ever with those who suffered.\n\nSita's dignity shone on in the memory of Ayodhya. Her name was spoken with a bowed head. It is said that she is the very heart of the story, and that the poem is truly hers.",
+    "hi": {
+     "text": "राम चीख उठे, सिंहासन से उठकर उस स्थान की ओर दौड़े, और घुटनों के बल गिर पड़े। क्रोध और शोक में उन्होंने धरती से उन्हें वापस माँगा। स्वयं ब्रह्मा को उन्हें सांत्वना देने प्रकट होना पड़ा। “राम, तुम्हें शोक नहीं करना चाहिए,” उन्होंने कहा। “तुम उनसे फिर मिलोगे, इस लोक से परे। जो आरंभ किया है उसे पूरा करो, अपनी प्रजा के भले के लिए।”\n\nसो राम राज करते रहे। उनके पुत्र लव और कुश महल में रहने आए। राज्य समृद्ध और न्यायपूर्ण था। पर राजा का हृदय अब महल में नहीं था।\n\nवाल्मीकि बताते हैं कि राम ने फिर कभी विवाह नहीं किया। हर यज्ञ और अनुष्ठान में, जहाँ राजा की पत्नी को उसके पास बैठना होता है, वे अपने पास सीता की स्वर्ण-प्रतिमा रखवाते। वे उसे क्षण भर देखते, और फिर आँखें मूँद लेते। लोगों ने देखा कि वे कम हँसते थे, पर दुखियों के प्रति पहले से कहीं अधिक कोमल थे।\n\nअयोध्या की स्मृति में सीता की गरिमा चमकती रही। उनका नाम सिर झुकाकर लिया जाता। कहते हैं कि वे ही इस कथा का सच्चा हृदय हैं, और यह काव्य वास्तव में उन्हीं का है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम ओरडले, आणि सिंहासनावरून उठले, त्या जागेकडे धावले, आणि गुडघ्यांवर कोसळले. आपल्या संताप आणि दुःखात त्यांनी पृथ्वीला तिला परत द्यायची हाक मारली. त्यांचे सांत्वन करायला स्वतः ब्रह्मदेवाला प्रकट व्हावे लागले. “राम, तू शोक करू नकोस,” ते म्हणाले. “या जगाच्या पलीकडच्या जगात तू तिला पुन्हा भेटशील. तू सुरू केलेले प्रजेच्या कल्याणासाठी पूर्ण कर.”\n\nम्हणून राम राज्य करत राहिले. त्यांचे पुत्र लव आणि कुश राजवाड्यात राहायला आले. राज्य समृद्ध आणि न्यायी होते. पण राजाचे हृदय आता राजवाड्यात नव्हते.\n\nवाल्मीकी सांगतात की रामांनी पुन्हा कधीच विवाह केला नाही. प्रत्येक यज्ञात आणि विधीत, जिथे राजाच्या पत्नीला त्याच्या शेजारी बसावे लागते, तिथे त्यांनी सीतेची सोन्याची प्रतिमा आपल्या शेजारी ठेवली. ते क्षणभर तिच्याकडे पाहत आणि मग डोळे मिटत. लोकांनी पाहिले की ते क्वचितच हसत, पण दुःख सोसणाऱ्यांशी पूर्वीपेक्षा जास्त मृदू होते.\n\nसीतेची प्रतिष्ठा अयोध्येच्या स्मृतीत तेजाने उजळत राहिली. तिचे नाव मान झुकवून घेतले जाई. म्हणतात, ती या कथेचे हृदयच आहे, आणि काव्य खऱ्या अर्थाने तिचेच आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Time at the door",
+    "hi": {
+     "text": "द्वार पर काल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दारावर काळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Many years passed. One day a stranger came to the palace, a sage in plain clothes, asking to speak with Rama alone. He warned that whoever disturbed their talk must be punished with death. Rama agreed, and posted Lakshmana at the door.\n\nInside, the sage revealed himself. He was Kala, Time itself, sent by Brahma. “Rama, your work on earth is done. You came to destroy Ravana and restore dharma. It is time to return to your eternal home.”\n\nAt that moment the fierce sage Durvasa arrived at the gate, demanding to see Rama at once, and threatening to curse all Ayodhya if he was refused. Lakshmana was torn. If he went in, he would break the king's order. If he waited, the city would suffer. “Better that I die than that the people suffer,” he said, and opened the door.\n\nRama, bound by his word, could not bear the choice. With wet eyes he told his brother, “I must send you away.” Lakshmana bowed once, walked to the banks of the Sarayu, closed his eyes and gave up his life, and the gods received him with honour in the sky.",
+    "hi": {
+     "text": "बहुत वर्ष बीते। एक दिन महल में एक अजनबी आया, सादे वस्त्रों में एक साधु, जो राम से अकेले में बात करना चाहता था। उसने चेताया कि जो भी उनकी बातचीत में विघ्न डालेगा, उसे मृत्यु-दंड मिलना चाहिए। राम मान गए, और लक्ष्मण को द्वार पर खड़ा कर दिया।\n\nभीतर साधु ने अपना परिचय दिया। वह काल था, स्वयं समय, ब्रह्मा का भेजा हुआ। “राम, पृथ्वी पर तुम्हारा कार्य पूरा हुआ। तुम रावण का नाश करने और धर्म की स्थापना करने आए थे। अब अपने शाश्वत धाम को लौटने का समय है।”\n\nउसी क्षण उग्र ऋषि दुर्वासा द्वार पर आ पहुँचे, राम से तुरंत मिलने की माँग करते हुए, और मना करने पर पूरी अयोध्या को शाप देने की धमकी देते हुए। लक्ष्मण दुविधा में थे। भीतर जाते, तो राजा की आज्ञा तोड़ते। रुके रहते, तो नगर कष्ट पाता। “मैं मर जाऊँ, पर प्रजा कष्ट न पाए,” उन्होंने कहा, और द्वार खोल दिया।\n\nराम, अपने वचन से बँधे, इस चुनाव को सह न सके। भीगी आँखों से उन्होंने भाई से कहा, “मुझे तुम्हें छोड़ना होगा।” लक्ष्मण ने एक बार प्रणाम किया, सरयू के तट पर गए, आँखें मूँदीं और प्राण त्याग दिए, और देवताओं ने उन्हें आकाश में सम्मान से ग्रहण किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनेक वर्षे गेली. एके दिवशी एक अनोळखी साधू साध्या वस्त्रांत राजवाड्यात आला आणि त्याने रामांशी एकांतात बोलायची इच्छा व्यक्त केली. त्याने इशारा दिला की जो कोणी त्यांच्या बोलण्यात व्यत्यय आणेल त्याला मृत्युदंड दिला जावा. रामांनी मान्य केले, आणि लक्ष्मणाला दारात उभे केले.\n\nआत साधूने आपले खरे रूप प्रकट केले. तो काळ होता, स्वतः काळ, ब्रह्मदेवाने पाठवलेला. “राम, पृथ्वीवरचे तुझे कार्य पूर्ण झाले. तू रावणाचा नाश करायला आणि धर्म स्थापायला आला होतास. आता आपल्या शाश्वत धामी परतायची वेळ आली आहे.”\n\nत्याच क्षणी उग्र ऋषी दुर्वास दारात आला, रामांना ताबडतोब भेटायची मागणी करत, आणि नकार दिला तर अख्ख्या अयोध्येला शाप देण्याची धमकी देत. लक्ष्मण पेचात पडला. तो आत गेला तर राजाची आज्ञा मोडली जाईल. थांबला तर नगराला त्रास होईल. “प्रजेला दुःख होण्यापेक्षा मी मेलेले बरे,” तो म्हणाला, आणि दार उघडले.\n\nआपल्या शब्दाने बांधलेल्या रामांना ही निवड सहन होईना. डोळे ओले करून ते भावाला म्हणाले, “मला तुला दूर पाठवावे लागेल.” लक्ष्मणाने एकदा नमस्कार केला, सरयूच्या काठावर गेला, डोळे मिटले आणि प्राण सोडले, आणि देवांनी त्याचे आकाशात सन्मानाने स्वागत केले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Into the Sarayu",
+    "hi": {
+     "text": "सरयू में",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सरयूमध्ये",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Rama had never felt so alone. “Lakshmana was my shadow and my strength,” he said. “I cannot stay in this world without him.” He crowned his sons, Kusha and Lava, and set out for the river, wearing simple robes.\n\nThe whole city followed him: ministers and priests, old and young, even the animals. Hanuman was away, and so was Vibhishana; but Sugriva and the monkeys came, and many who had loved him all their lives. Quietly, Rama walked into the Sarayu until the water reached his chest. Then a golden light filled the sky, and Brahma and the gods appeared. Rama returned to his eternal form as Vishnu, and everyone who had followed him entered the light with him.\n\nBut the story did not end. Valmiki's poem lived on, as Brahma had promised, sung by mothers and wandering singers, carved in stone, danced and drawn. And in every place where it is sung, tradition says, a small monkey still sits at the edge of the gathering, his hands folded, tears on his face, listening with all his heart to the name of Rama.",
+    "hi": {
+     "text": "राम ने कभी इतना अकेला नहीं महसूस किया था। “लक्ष्मण मेरी परछाईं और मेरी शक्ति था,” उन्होंने कहा। “मैं उसके बिना इस संसार में नहीं रह सकता।” उन्होंने अपने पुत्रों, कुश और लव, का राजतिलक किया और सादे वस्त्र पहने नदी की ओर चल पड़े।\n\nपूरा नगर उनके पीछे चला: मंत्री और पुरोहित, बूढ़े और जवान, पशु तक। हनुमान दूर थे, और विभीषण भी; पर सुग्रीव और वानर आए, और बहुत-से जिन्होंने जीवन भर उनसे प्रेम किया था। राम शांत भाव से सरयू में उतरते गए जब तक जल उनकी छाती तक न आ गया। तब आकाश स्वर्णिम प्रकाश से भर गया, और ब्रह्मा और देवता प्रकट हुए। राम अपने शाश्वत रूप, विष्णु, में लौट गए, और जो भी उनके पीछे आया था, वह उनके साथ उस प्रकाश में समा गया।\n\nपर कथा समाप्त नहीं हुई। वाल्मीकि का काव्य जीवित रहा, जैसा ब्रह्मा ने वचन दिया था, माताओं और घूमते गायकों के कंठ से गाया जाता, पत्थरों में तराशा जाता, नृत्य और चित्रों में रचा जाता। और परंपरा कहती है कि जहाँ-जहाँ वह गाया जाता है, वहाँ सभा के किनारे एक नन्हा वानर आज भी बैठा है, हाथ जोड़े, चेहरे पर आँसू लिए, पूरे हृदय से राम का नाम सुनता हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामांना इतके एकटे कधीच वाटले नव्हते. “लक्ष्मण माझी सावली आणि माझे बळ होता,” ते म्हणाले. “त्याच्याशिवाय मी या जगात राहू शकत नाही.” त्यांनी आपल्या पुत्रांना, कुश आणि लवाला, राज्याभिषेक केला आणि साध्या वस्त्रांत नदीकडे निघाले.\n\nसारे नगर त्यांच्या मागे गेले: मंत्री आणि पुरोहित, म्हातारे आणि तरुण, प्राणीसुद्धा. हनुमान दूर होता, आणि विभीषणही; पण सुग्रीव आणि वानर आले, आणि आयुष्यभर त्यांच्यावर प्रेम केलेले अनेक जण. राम शांतपणे सरयूत छातीपर्यंत पाणी येईपर्यंत चालत गेले. मग आकाश सोनेरी प्रकाशाने भरले, आणि ब्रह्मदेव आणि देव प्रकट झाले. राम आपल्या शाश्वत विष्णुरूपात परतले, आणि त्यांच्या मागे आलेले सर्वजण त्यांच्यासह त्या प्रकाशात विलीन झाले.\n\nपण कथा संपली नाही. ब्रह्मदेवांनी वचन दिल्याप्रमाणे वाल्मीकींचे काव्य जिवंत राहिले, मातांनी आणि भटक्या गायकांनी गायले, दगडात कोरले, नृत्यात आणि चित्रांत उतरवले. आणि ते जिथे जिथे गायले जाते तिथे, परंपरा सांगते, एक छोटा वानर सभेच्या कडेला हात जोडून, गालांवर अश्रू घेऊन, रामनाम पूर्ण हृदयाने ऐकत बसलेला असतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Sita asked for nothing and accused no one; she simply stood in her truth. When you feel unfairly treated, can you respond with calm dignity instead of anger? Today, take three slow breaths before you answer anything that stings.",
+  "hi": {
+   "text": "सीता ने कुछ नहीं माँगा और किसी पर आरोप नहीं लगाया; वे बस अपने सत्य में खड़ी रहीं। जब आपके साथ अन्याय हो, तो क्या आप क्रोध की जगह शांत गरिमा से उत्तर दे सकते हैं? आज किसी चुभती बात का उत्तर देने से पहले तीन धीमी साँसें लीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीतेने काहीही मागितले नाही आणि कोणावर आरोप केला नाही; ती फक्त आपल्या सत्यात उभी राहिली. आपल्यावर अन्याय झाला असे वाटते तेव्हा तुम्ही रागाऐवजी शांत प्रतिष्ठेने प्रतिसाद देऊ शकता का? आज जे बोचेल त्याला उत्तर देण्यापूर्वी तीन हळू श्वास घ्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "True dignity needs no proof and no revenge; the Mother who holds all of us never abandons her children.",
+  "hi": {
+   "text": "सच्ची गरिमा को न प्रमाण चाहिए, न बदला; वह माता, जो हम सबको थामे है, अपनी संतानों को कभी नहीं छोड़ती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खऱ्या प्रतिष्ठेला पुरावा आणि सूड लागत नाही; आपल्या सर्वांना धारण करणारी माता आपल्या लेकरांना कधीही सोडत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Uttara Kanda (Sita's vow, the earth, Kala, Lakshmana, the Sarayu); the closing image of Hanuman listening is popular tradition",
+  "hi": {
+   "text": "वाल्मीकि रामायण, उत्तरकांड (सीता की शपथ, धरती, काल, लक्ष्मण, सरयू); हनुमान के सुनने का समापन-चित्र लोक-परंपरा है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, उत्तरकांड (सीतेची शपथ, पृथ्वी, काळ, लक्ष्मण, सरयू); हनुमान ऐकत असल्याचे शेवटचे चित्र ही लोकपरंपरा आहे",
+   "reviewed": false
+  }
+ }
+}

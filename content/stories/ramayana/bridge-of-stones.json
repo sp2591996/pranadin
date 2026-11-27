@@ -1,42 +1,42 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story",
- "version": "2026-11-27.2",
+ "version": "2026-11-27.3",
  "status": "draft",
  "id": "bridge-of-stones",
- "order": 12,
+ "order": 25,
  "part": "yuddha",
  "place": "rameswaram",
  "figure": {
-  "en": "Vibhishana",
+  "en": "Nala and the army",
   "hi": {
-   "text": "विभीषण",
+   "text": "नल और वानर सेना",
    "reviewed": false
   },
   "mr": {
-   "text": "बिभीषण",
+   "text": "नल आणि वानरसेना",
    "reviewed": false
   }
  },
  "title": {
-  "en": "The enemy's brother and the bridge of stones",
+  "en": "A road across the ocean",
   "hi": {
-   "text": "शत्रु का भाई और पत्थरों का सेतु",
+   "text": "सागर पर एक राह",
    "reviewed": false
   },
   "mr": {
-   "text": "शत्रूचा भाऊ आणि दगडांचा सेतू",
+   "text": "सागरावरचा मार्ग",
    "reviewed": false
   }
  },
  "teaser": {
-  "en": "The demon king's own brother seeks refuge with Rama. Then an army of monkeys builds a bridge across the sea.",
+  "en": "An army of millions stands before an ocean no one can cross. Rama asks politely three days running, and the sea does not answer. Then, for the first time, his eyes flash.",
   "hi": {
-   "text": "राक्षसराज का अपना भाई राम की शरण माँगता है। फिर वानरों की सेना समुद्र पर पुल बनाती है।",
+   "text": "करोड़ों की सेना एक ऐसे सागर के सामने खड़ी है जिसे कोई पार नहीं कर सकता। राम तीन दिन विनय से माँगते हैं, और सागर उत्तर नहीं देता। तब पहली बार उनकी आँखें दहक उठती हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "राक्षसराजाचा स्वतःचा भाऊ रामाकडे आश्रय मागतो. मग वानरांचे सैन्य समुद्रावर सेतू बांधते.",
+   "text": "लाखोंचे सैन्य एका असा सागराच्या काठावर उभे आहे जो कोणीच ओलांडू शकत नाही. राम सलग तीन दिवस नम्रपणे विनंती करतात आणि सागर उत्तर देत नाही. मग प्रथमच त्यांचे डोळे चमकतात.",
    "reviewed": false
   }
  },
@@ -99,72 +99,48 @@
  "scenes": [
   {
    "title": {
-    "en": "Vibhishana's choice",
+    "en": "Three days of silence",
     "hi": {
-     "text": "विभीषण का निर्णय",
+     "text": "तीन दिन का मौन",
      "reviewed": false
     },
     "mr": {
-     "text": "बिभीषणाचा निर्णय",
+     "text": "तीन दिवसांची शांतता",
      "reviewed": false
     }
    },
    "text": {
-    "en": "In Lanka, Vibhishana pleaded with Ravana once more: “Return Sita. You are bringing destruction on us all.” Ravana kicked him from the court. “Go, traitor!”\n\nVibhishana rose into the sky with four loyal companions and flew across the sea to Rama's camp. “I am Ravana's brother,” he called out, “and I come to Rama for refuge.”",
+    "en": "The army of Kishkindha stood on the southern shore, millions strong, with the sea stretching in front of them as far as the eye could see. Waves roared, gulls cried, and there was no ship, no boat, no way across.\n\nRama sat down on a bed of kusha grass spread on the sand, facing the water. He folded his hands and prayed to Samudra, the lord of the ocean. “Show me a path,” he said quietly. “We do not wish to harm you. We only wish to cross.”\n\nThe first day passed. The sea answered with the sound of its own waves. The second day passed, and the third. Rama did not eat, and he barely moved. The monkeys watched him, worried. Lakshmana stood nearby with his bow, silent.\n\nThen Rama opened his eyes. They were no longer soft. “I have asked three times with respect,” he said, “and I have not been heard. Some people understand nothing but force. Bring me my bow.” The soldiers drew back. For the first time in the war, Rama was angry.",
     "hi": {
-     "text": "लंका में विभीषण ने रावण से एक बार फिर विनती की: “सीता को लौटा दीजिए। आप हम सबका विनाश बुला रहे हैं।” रावण ने उसे सभा से लात मारकर निकाल दिया। “जा, गद्दार!”\n\nविभीषण चार निष्ठावान साथियों के साथ आकाश में उठे और समुद्र पार कर राम के शिविर पहुँचे। “मैं रावण का भाई हूँ,” उन्होंने पुकारा, “और राम की शरण में आया हूँ।”",
+     "text": "किष्किंधा की सेना दक्षिणी तट पर खड़ी थी, करोड़ों की संख्या में, और उनके आगे सागर दूर तक फैला था जहाँ तक आँख जाती थी। लहरें गरज रही थीं, समुद्री पक्षी चीख रहे थे, और न कोई जहाज़ था, न नाव, न पार जाने का कोई उपाय।\n\nराम रेत पर बिछी कुशा की शय्या पर सागर की ओर मुख करके बैठ गए। उन्होंने हाथ जोड़कर सागर के स्वामी समुद्र से प्रार्थना की। “मुझे राह दीजिए,” उन्होंने धीमे से कहा। “हम आपको हानि नहीं पहुँचाना चाहते। हम बस पार जाना चाहते हैं।”\n\nपहला दिन बीता। सागर ने अपनी ही लहरों की आवाज़ में उत्तर दिया। दूसरा दिन बीता, फिर तीसरा। राम ने कुछ नहीं खाया, और मुश्किल से हिले। वानर चिंता से उन्हें देखते रहे। लक्ष्मण धनुष लिए पास खड़े रहे, चुप।\n\nतब राम ने आँखें खोलीं। वे अब कोमल नहीं थीं। “मैंने आदर से तीन बार माँगा,” उन्होंने कहा, “और सुना नहीं गया। कुछ लोग बल के सिवा कुछ नहीं समझते। मेरा धनुष लाओ।” सैनिक पीछे हट गए। युद्ध में पहली बार राम क्रोधित थे।",
      "reviewed": false
     },
     "mr": {
-     "text": "लंकेत बिभीषणाने रावणाला पुन्हा एकदा विनवले: “सीतेला परत कर. तू आपणा सर्वांवर विनाश ओढवत आहेस.” रावणाने त्याला दरबारातून लाथ मारून हाकलले. “चालता हो, विश्वासघातक्या!”\n\nबिभीषण चार निष्ठावान साथीदारांसह आकाशात झेपावला आणि सागर पार करून रामाच्या छावणीत आला. “मी रावणाचा भाऊ आहे,” तो ओरडला, “आणि रामाकडे आश्रयासाठी आलो आहे.”",
+     "text": "किष्किंधेचे सैन्य दक्षिण किनाऱ्यावर उभे होते, लाखोंच्या संख्येने, आणि त्यांच्या समोर नजर पोहोचेल तिथवर सागर पसरलेला होता. लाटा गर्जत होत्या, समुद्रपक्षी ओरडत होते, आणि कुठे जहाज नव्हते, नाव नव्हती, पलीकडे जायला मार्ग नव्हता.\n\nराम पाण्याकडे तोंड करून वाळूवर पसरलेल्या दर्भांच्या आसनावर बसले. त्यांनी हात जोडले आणि सागराचा स्वामी समुद्रदेव याची प्रार्थना केली. “मला मार्ग दाखव,” ते शांतपणे म्हणाले. “आम्हाला तुझे नुकसान करायचे नाही. आम्हाला फक्त पलीकडे जायचे आहे.”\n\nपहिला दिवस गेला. सागराने आपल्या लाटांच्या आवाजानेच उत्तर दिले. दुसरा दिवस गेला, आणि तिसरा. रामांनी अन्न घेतले नाही, आणि ते क्वचितच हलले. वानर काळजीने त्यांच्याकडे पाहत होते. लक्ष्मण धनुष्य घेऊन जवळ शांतपणे उभा होता.\n\nमग रामांनी डोळे उघडले. ते आता मृदू नव्हते. “मी आदराने तीनदा विनंती केली,” ते म्हणाले, “आणि माझे ऐकले गेले नाही. काही जणांना बळाशिवाय काहीच समजत नाही. माझे धनुष्य आणा.” सैनिक मागे सरकले. युद्धात प्रथमच राम रागावले होते.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Should the enemy be trusted?",
+    "en": "The ocean bows",
     "hi": {
-     "text": "क्या शत्रु पर भरोसा हो?",
+     "text": "सागर झुकता है",
      "reviewed": false
     },
     "mr": {
-     "text": "शत्रूवर विश्वास ठेवावा का?",
+     "text": "सागर नम्र होतो",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The monkey chiefs were alarmed. “He's a spy! Kill him!” said Sugriva. Others urged caution. Hanuman said: “His face shows no deceit. I believe he is sincere.”\n\nThen Rama spoke words that devotees have cherished ever since: “Whoever comes to me even once and says ‘I am yours’, I give protection from all beings. That is my vow. Even if Ravana himself came, I would protect him.” Rama embraced Vibhishana and crowned him future king of Lanka with water from the sea.",
+    "en": "Rama strung his bow and fitted a blazing arrow. The string twanged like thunder, and the whole world held still. The sea began to boil. Fish and serpents fled in terror. Waves rose like mountains, and thick smoke rolled over the water. The sky grew dark, and the earth itself seemed to tremble.\n\n“Rama, stop!” cried Lakshmana, who feared that the world itself would break. “Do not destroy the sea!”\n\nBut before Rama could loose his arrow, the waters parted, and out of them rose Samudra himself, shining with jewels, his robes the colour of the deep. He bowed with folded hands, his voice trembling.\n\n“Forgive me, Rama,” he said. “By nature I am deep and unmoving, and I cannot hold still for any crossing, or I would not be the sea. But there is a way. Among your army is Nala, son of the divine architect Vishwakarma. Let him build a bridge. I will hold up every stone, and I will not let it sink.”\n\nRama lowered his bow. The arrow flew harmlessly into a distant desert.",
     "hi": {
-     "text": "वानर सरदार चिंतित हो उठे। “यह जासूस है! इसे मार दो!” सुग्रीव ने कहा। औरों ने सावधानी की सलाह दी। हनुमान ने कहा: “इसके मुख पर छल नहीं दिखता। मुझे विश्वास है कि यह सच्चा है।”\n\nतब राम ने वे वचन कहे जिन्हें भक्त तब से सँजोए हुए हैं: “जो एक बार भी मेरे पास आकर कहता है ‘मैं तुम्हारा हूँ’, उसे मैं सब प्राणियों से अभय देता हूँ। यह मेरा व्रत है। रावण स्वयं भी आ जाए, तो मैं उसकी रक्षा करूँगा।” राम ने विभीषण को गले लगाया और समुद्र के जल से उन्हें लंका का भावी राजा घोषित किया।",
+     "text": "राम ने धनुष चढ़ाया और उस पर दहकता बाण साधा। प्रत्यंचा बिजली-सी टंकारी और सारा संसार थम गया। सागर खौलने लगा। मछलियाँ और नाग भय से भागे। लहरें पर्वतों की तरह उठीं, और जल पर घना धुआँ छा गया। आकाश अँधेरा हो गया, और धरती स्वयं काँपती-सी लगी।\n\n“राम, रुकिए!” लक्ष्मण चिल्लाए, जिन्हें डर था कि संसार ही टूट जाएगा। “सागर का नाश मत कीजिए!”\n\nपर राम के बाण छोड़ने से पहले ही जल दो भागों में बँट गया, और उसमें से स्वयं समुद्र प्रकट हुए, रत्नों से दमकते, उनके वस्त्र गहराई के रंग के। उन्होंने हाथ जोड़कर प्रणाम किया, उनकी वाणी काँप रही थी।\n\n“क्षमा करें, राम,” उन्होंने कहा। “मेरा स्वभाव गहरा और अचल है, किसी के पार जाने के लिए मैं स्थिर नहीं हो सकता, नहीं तो मैं सागर ही न रहूँ। पर एक उपाय है। आपकी सेना में नल है, दिव्य शिल्पी विश्वकर्मा का पुत्र। उसे सेतु बनाने दीजिए। मैं हर पत्थर को थामे रखूँगा और उसे डूबने नहीं दूँगा।”\n\nराम ने धनुष नीचे किया। बाण निरापद एक दूर के मरुस्थल में जा गिरा।",
      "reviewed": false
     },
     "mr": {
-     "text": "वानर प्रमुख घाबरले. “हा हेर आहे! त्याला मारा!” सुग्रीव म्हणाला. इतरांनी सावधगिरीचा सल्ला दिला. हनुमान म्हणाला: “त्याच्या चेहऱ्यावर कपट दिसत नाही. मला वाटते तो प्रामाणिक आहे.”\n\nमग रामाने असे शब्द उच्चारले जे भक्तांनी तेव्हापासून हृदयात जपले आहेत: “जो कोणी एकदाही माझ्याकडे येऊन म्हणतो ‘मी तुझा आहे’, त्याला मी सर्व प्राण्यांपासून अभय देतो. हे माझे व्रत आहे. स्वतः रावण आला तरी मी त्याचे रक्षण करीन.” रामाने बिभीषणाला आलिंगन दिले आणि समुद्राच्या पाण्याने त्याला भावी लंकाधिपती म्हणून अभिषेक केला.",
-     "reviewed": false
-    }
-   }
-  },
-  {
-   "title": {
-    "en": "The sea refuses",
-    "hi": {
-     "text": "सागर नहीं मानता",
-     "reviewed": false
-    },
-    "mr": {
-     "text": "सागर नकार देतो",
-     "reviewed": false
-    }
-   },
-   "text": {
-    "en": "Now the army stood at the edge of the ocean. Rama lay on a bed of kusha grass for three days, praying to the Ocean to let them pass. The sea did not answer.\n\nFor once, Rama's eyes flashed with anger. He drew a fearsome arrow. The ocean boiled, fish fled, the whole world shook. Then the god of the Ocean rose from the waves, jewelled and humble. “Do not dry me up. Let Nala build a bridge; I will hold up every stone.”",
-    "hi": {
-     "text": "अब सेना महासागर के किनारे खड़ी थी। राम तीन दिन कुश की शय्या पर लेटे समुद्र से मार्ग देने की प्रार्थना करते रहे। सागर ने उत्तर नहीं दिया।\n\nपहली बार राम की आँखों में क्रोध चमका। उन्होंने भयंकर बाण चढ़ाया। सागर खौल उठा, मछलियाँ भागीं, पूरा संसार काँप उठा। तब समुद्रदेव लहरों से प्रकट हुए, रत्नों से सजे, विनम्र। “मुझे सुखाइए मत। नल को सेतु बनाने दीजिए; हर पत्थर को मैं थामे रहूँगा।”",
-     "reviewed": false
-    },
-    "mr": {
-     "text": "आता सैन्य सागराच्या काठावर उभे होते. रामाने तीन दिवस दर्भाच्या शय्येवर झोपून सागराला मार्ग देण्याची प्रार्थना केली. समुद्राने उत्तर दिले नाही.\n\nपहिल्यांदाच रामाचे डोळे रागाने पेटले. त्याने भयंकर बाण काढला. समुद्र उकळला, मासे पळाले, सारे जग हादरले. मग सागरदेव रत्नांनी मढलेला आणि नम्र होऊन लाटांतून वर आला. “मला सुकवू नका. नळाला सेतू बांधू द्या; प्रत्येक दगड मी पेलून धरीन.”",
+     "text": "रामांनी धनुष्य ताणले आणि त्यावर एक जळता बाण चढवला. दोरीचा टंकार मेघगर्जनेसारखा घुमला, आणि सारे जग स्तब्ध झाले. सागर उकळू लागला. मासे आणि नाग भीतीने पळाले. डोंगरांसारख्या लाटा उसळल्या, आणि पाण्यावर दाट धूर पसरला. आकाश काळवंडले, आणि पृथ्वीच थरथरल्यासारखी वाटली.\n\n“राम, थांबा!” लक्ष्मण ओरडला, ज्याला भीती वाटली की संपूर्ण जगच फुटेल. “सागराचा नाश करू नका!”\n\nपण रामांनी बाण सोडण्यापूर्वीच पाण्याचे दोन भाग झाले, आणि त्यातून रत्नांनी झळकणारा, खोल सागराच्या रंगाची वस्त्रे लेवून खुद्द समुद्रदेव वर आला. त्याने हात जोडून नमस्कार केला, त्याचा आवाज थरथरत होता.\n\n“राम, मला क्षमा करा,” तो म्हणाला. “स्वभावतः मी खोल आणि अचल आहे, आणि कोणत्याही पार जाण्यासाठी मी स्थिर राहू शकत नाही, नाहीतर मी सागर राहणार नाही. पण एक मार्ग आहे. तुमच्या सैन्यात दिव्य शिल्पकार विश्वकर्म्याचा पुत्र नल आहे. त्याला सेतू बांधू द्या. मी प्रत्येक दगड पेलून धरेन, आणि तो बुडू देणार नाही.”\n\nरामांनी धनुष्य खाली घेतले. तो बाण निरुपद्रवी होऊन दूरच्या वाळवंटात जाऊन पडला.",
      "reviewed": false
     }
    },
@@ -172,24 +148,24 @@
   },
   {
    "title": {
-    "en": "The bridge rises",
+    "en": "Nala builds",
     "hi": {
-     "text": "सेतु उठता है",
+     "text": "नल का निर्माण",
      "reviewed": false
     },
     "mr": {
-     "text": "सेतू उभा राहतो",
+     "text": "नल बांधतो",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Nala, son of the divine architect Vishwakarma, led the work. Millions of monkeys and bears tore up trees and rocks and hurled them into the sea. A tradition loved across India says that every stone carrying Rama's name floated.\n\nAnother much-loved story tells of a tiny squirrel rolling in the sand and shaking grains onto the bridge. The monkeys laughed, but Rama lifted it and gently stroked its back. The three stripes on squirrels, it is said, are the marks of his fingers. In five days the bridge stretched all the way to Lanka.",
+    "en": "Nala came forward, a little shy. “I have the skill of my father,” he said. “I did not think I would ever be asked to use it. But if the Lord permits, I can make a road across the ocean.”\n\nThe work began. Monkeys uprooted whole trees. Bears carried boulders on their backs. Giants of the forest tore up hillsides and rolled mountains toward the shore. The air rang with their shouts. As each stone hit the water, Nala set it in place, and the sea lifted it gently.\n\nA tradition loved across India says that when the stones were marked with the name of Rama, they did not sink but floated. Some say that Nala's own touch was enough. Whichever tale one tells, the lesson is the same: when work is done in the name of dharma, even the heaviest burden becomes light.\n\nThe pace quickened each day. Hills of rock went into the sea in rows, and a path of stone rose straight toward the horizon, wide enough for a hundred monkeys to march abreast.",
     "hi": {
-     "text": "देवशिल्पी विश्वकर्मा के पुत्र नल ने काम की अगुवाई की। लाखों वानर और रीछ पेड़ और चट्टानें उखाड़-उखाड़कर समुद्र में फेंकने लगे। भारत भर में प्रिय एक परंपरा कहती है कि राम का नाम लिखा हर पत्थर तैरने लगा।\n\nएक और प्यारी कथा एक नन्ही गिलहरी की है जो रेत में लोटकर सेतु पर दाने झाड़ती थी। वानर हँसे, पर राम ने उसे उठाया और उसकी पीठ पर प्रेम से हाथ फेरा। कहते हैं गिलहरियों की पीठ की तीन धारियाँ उन्हीं की उँगलियों के निशान हैं। पाँच दिनों में सेतु लंका तक पहुँच गया।",
+     "text": "नल कुछ संकोच से आगे आया। “मुझमें अपने पिता का कौशल है,” उसने कहा। “मैंने कभी नहीं सोचा था कि मुझे इसका उपयोग करने को कहा जाएगा। पर प्रभु की अनुमति हो, तो मैं सागर पर राह बना सकता हूँ।”\n\nकाम शुरू हुआ। वानर पूरे-पूरे वृक्ष उखाड़ लाए। रीछ पीठ पर शिलाएँ ढोने लगे। वन के विशाल वीरों ने पहाड़ियाँ उखाड़ीं और पर्वत लुढ़काते तट तक ले आए। उनकी गर्जना से हवा गूँज उठी। जैसे ही कोई पत्थर जल में गिरता, नल उसे ठीक जगह बिठाता, और सागर उसे कोमलता से उठा लेता।\n\nभारत भर में प्रिय एक परंपरा कहती है कि जब पत्थरों पर राम का नाम लिखा गया, तो वे डूबे नहीं, तैरने लगे। कुछ कहते हैं कि नल का अपना स्पर्श ही काफ़ी था। कथा जो भी कही जाए, सीख वही है: जब काम धर्म के नाम पर होता है, तो सबसे भारी बोझ भी हल्का हो जाता है।\n\nहर दिन गति बढ़ती गई। चट्टानों की पहाड़ियाँ कतारों में सागर में उतरती गईं, और पत्थर की एक राह क्षितिज की ओर सीधी उठती चली, इतनी चौड़ी कि सौ वानर एक साथ चल सकें।",
      "reviewed": false
     },
     "mr": {
-     "text": "दैवी वास्तुकार विश्वकर्म्याचा पुत्र नळ याने कामाचे नेतृत्व केले. लाखो वानर आणि अस्वलांनी झाडे आणि खडक उपटून सागरात फेकले. भारतभर प्रिय असलेली परंपरा सांगते की रामाचे नाव लिहिलेला प्रत्येक दगड तरंगला.\n\nआणखी एक आवडती कथा सांगते की एक छोटीशी खारुताई वाळूत लोळून आपल्या अंगावरचे कण सेतूवर झटकत होती. वानर हसले, पण रामाने तिला उचलले आणि तिच्या पाठीवरून हलकेच हात फिरवला. खारुताईच्या पाठीवरचे तीन पट्टे म्हणजे त्याच्या बोटांच्या खुणा, असे म्हटले जाते. पाच दिवसांत सेतू थेट लंकेपर्यंत पोहोचला.",
+     "text": "नल थोडा संकोचून पुढे आला. “माझ्याकडे माझ्या पित्याचे कौशल्य आहे,” तो म्हणाला. “ते वापरायला मला कधी सांगितले जाईल असे वाटले नव्हते. पण प्रभूंची आज्ञा असेल तर मी सागरावर मार्ग बांधू शकतो.”\n\nकाम सुरू झाले. वानरांनी अख्खी झाडे उपटली. अस्वले पाठीवर शिळा वाहू लागली. वनातले महाकाय प्राणी डोंगरउतार उपटून पर्वत लोटत किनाऱ्याकडे आणू लागले. त्यांच्या आरोळ्यांनी आकाश दुमदुमले. प्रत्येक दगड पाण्यावर पडला की नल तो जागी बसवत असे, आणि सागर त्याला हळुवारपणे उचलून धरत असे.\n\nभारतभर प्रिय असलेली एक परंपरा सांगते की दगडांवर रामनाम लिहिले तेव्हा ते बुडले नाहीत, तरंगले. काही जण म्हणतात की नलाचा स्पर्शच पुरेसा होता. कोणतीही कथा सांगितली तरी बोध एकच: धर्मासाठी कार्य नाम घेऊन केले की सर्वांत जड ओझेही हलके होते.\n\nप्रत्येक दिवशी वेग वाढत गेला. खडकांचे डोंगर रांगेत सागरात गेले, आणि दगडी मार्ग क्षितिजाकडे सरळ उभा राहिला, शंभर वानर एका ओळीत चालतील इतका रुंद.",
      "reviewed": false
     }
    },
@@ -197,84 +173,107 @@
   },
   {
    "title": {
-    "en": "The army crosses",
+    "en": "The little squirrel",
     "hi": {
-     "text": "सेना पार उतरती है",
+     "text": "नन्ही गिलहरी",
      "reviewed": false
     },
     "mr": {
-     "text": "सैन्य सागर पार करते",
+     "text": "छोटी खार",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The great army marched across the sea, roaring Rama's name, with Rama on Hanuman's shoulders and Lakshmana on Angada's. In Lanka, Ravana's spies counted them and went pale.\n\nRama sent Angada with a last message of peace: return Sita, and the war need not happen. Ravana laughed. The drums of war began to sound.",
+    "en": "Another much-loved story, which belongs to later tradition, is told of the bridge. In the midst of the thundering crowd of monkeys, a tiny squirrel was busy. It dipped itself in the water, rolled in the sand on the beach, then ran out onto the bridge and shook the sand into the cracks between the stones.\n\nIt did this again and again. A big monkey, carrying a rock, kicked it aside. “Get out of the way, little one!” he said. “Do you think you can help build a bridge?”\n\nThe squirrel squeaked in fear and ran back, but did not stop. Back and forth it went, back and forth.\n\nRama, watching, called it to him. The squirrel crept up and looked into his face, afraid he would scold. Instead Rama lifted it gently in his hand. “You have done all you could,” he said. “You have done what no one else saw to be done.” And he stroked its back with three fingers. It is said that the three pale stripes on a squirrel's back are the mark of Rama's touch, to this day.",
     "hi": {
-     "text": "विशाल सेना राम के नाम की गर्जना करती समुद्र के पार चली, राम हनुमान के कंधों पर और लक्ष्मण अंगद के कंधों पर। लंका में रावण के गुप्तचरों ने उन्हें गिना और उनके चेहरे पीले पड़ गए।\n\nराम ने अंगद को शांति का अंतिम संदेश देकर भेजा: सीता को लौटा दो, तो युद्ध की आवश्यकता नहीं। रावण हँस पड़ा। युद्ध के नगाड़े बजने लगे।",
+     "text": "सेतु की एक और बहुत प्रिय कथा है, जो बाद की परंपरा से आती है। गरजती वानर-भीड़ के बीच एक नन्ही गिलहरी व्यस्त थी। वह जल में भीगती, तट की रेत में लोटती, फिर सेतु पर दौड़कर पत्थरों की दरारों में रेत झाड़ आती।\n\nवह यह बार-बार करती रही। पत्थर उठाए एक बड़े वानर ने उसे ठोकर से हटा दिया। “हट जा, नन्ही!” वह बोला। “तू क्या समझती है कि सेतु बनाने में हाथ बँटाएगी?”\n\nगिलहरी डरकर चीं-चीं करती पीछे भागी, पर रुकी नहीं। आगे-पीछे, आगे-पीछे दौड़ती रही।\n\nराम ने देखा और उसे अपने पास बुलाया। गिलहरी डरते-डरते आई और उनके मुख की ओर देखा, कि कहीं डाँट न पड़े। पर राम ने उसे कोमलता से हथेली में उठा लिया। “तुमने जितना हो सकता था, किया,” उन्होंने कहा। “तुमने वह किया जो किसी और को करने योग्य दिखा ही नहीं।” और उन्होंने तीन उँगलियों से उसकी पीठ सहलाई। कहते हैं गिलहरी की पीठ की तीन हल्की धारियाँ आज भी राम के स्पर्श की निशानी हैं।",
      "reviewed": false
     },
     "mr": {
-     "text": "महान सैन्याने रामाचे नाव गर्जत सागर पार केला, रामाला हनुमानाच्या खांद्यावर आणि लक्ष्मणाला अंगदाच्या खांद्यावर घेऊन. लंकेत रावणाच्या हेरांनी त्यांची गणती केली आणि ते फिकट पडले.\n\nरामाने अंगदाला शांततेचा शेवटचा संदेश देऊन पाठवले: सीतेला परत करा, म्हणजे युद्ध होण्याची गरज नाही. रावण हसला. युद्धाचे नगारे वाजू लागले.",
+     "text": "सेतूबद्दल आणखी एक अतिशय प्रिय कथा सांगितली जाते, जी नंतरच्या परंपरेतील आहे. गर्जणाऱ्या वानरांच्या गर्दीत एक इवलीशी खार कामात गुंतली होती. ती पाण्यात स्वतःला बुडवे, किनाऱ्यावरच्या वाळूत लोळे, मग धावत सेतूवर जाई आणि दगडांमधल्या फटींमध्ये वाळू झटकून टाके.\n\nती हे पुन्हा पुन्हा करत राहिली. एका मोठ्या वानराने, जो खडक घेऊन चालला होता, तिला लाथेने दूर केले. “बाजूला हो, छोटी!” तो म्हणाला. “तुला वाटते का की तू सेतू बांधायला मदत करू शकतेस?”\n\nखार भीतीने चिवचिवली आणि मागे धावली, पण थांबली नाही. ती पुढे मागे, पुढे मागे करत राहिली.\n\nरामांनी हे पाहिले आणि तिला जवळ बोलावले. खार दबकत जवळ आली आणि त्यांच्या चेहऱ्याकडे पाहिले, ते रागावतील या भीतीने. उलट रामांनी तिला हळुवारपणे हातावर उचलले. “तुला जे जमले ते सर्व तू केलेस,” ते म्हणाले. “जे करायचे आहे हे कोणालाच दिसले नाही, ते तू केलेस.” आणि त्यांनी तीन बोटांनी तिच्या पाठीवरून हात फिरवला. म्हणतात, खारीच्या पाठीवरचे तीन फिकट पट्टे आजही रामांच्या स्पर्शाची खूण आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Worship at Rameswaram",
+    "hi": {
+     "text": "रामेश्वरम् में पूजा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामेश्वरची पूजा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In five days, the bridge reached Lanka. But before the army crossed, tradition tells of a quiet ceremony on the shore. A much-loved tale from later centuries says that Rama, before beginning a war with a devotee of Shiva, made a lingam of sand and worshipped Mahadeva at the place we now call Rameswaram, the Lord of Rama.\n\nHe asked for a blessing, not for victory over Ravana the man, but for victory of dharma over pride. Ravana, after all, was a great scholar who had worshipped Shiva with deep devotion for years. In some tellings, even Ravana himself came to perform the rites for Rama, and Rama bowed to him as a priest.\n\nThere is something in this story that reminds us that the war was never about hatred. Even enemies share a heart that seeks the divine. Rama carried no personal grudge. He carried only a promise to protect what was right.\n\nThe tide came in softly. The sand lingam stood glowing in the evening light, and the army knelt with Rama on the shore, in quiet.",
+    "hi": {
+     "text": "पाँच दिन में सेतु लंका तक पहुँच गया। पर सेना के पार उतरने से पहले, परंपरा तट पर एक शांत अनुष्ठान की कथा कहती है। बाद की सदियों की एक प्रिय कथा कहती है कि राम ने, शिव के एक भक्त से युद्ध आरंभ करने से पहले, रेत का शिवलिंग बनाया और उस स्थान पर महादेव की पूजा की जिसे हम आज रामेश्वरम् कहते हैं, राम के ईश्वर।\n\nउन्होंने आशीर्वाद माँगा, रावण पुरुष पर विजय का नहीं, बल्कि अभिमान पर धर्म की विजय का। आख़िर रावण एक महान विद्वान था जिसने बरसों गहरी भक्ति से शिव की उपासना की थी। कुछ कथाओं में तो स्वयं रावण राम के लिए अनुष्ठान कराने आया, और राम ने उसे पुरोहित मानकर प्रणाम किया।\n\nइस कथा में कुछ ऐसा है जो हमें याद दिलाता है कि यह युद्ध कभी घृणा के लिए नहीं था। शत्रुओं का भी हृदय वही है जो परमात्मा को खोजता है। राम के मन में कोई निजी द्वेष नहीं था। उनके पास केवल एक प्रण था: जो उचित है, उसकी रक्षा करना।\n\nज्वार धीरे-धीरे चढ़ आया। रेत का शिवलिंग संध्या की रोशनी में दमकता रहा, और सेना राम के साथ तट पर शांत होकर घुटनों पर बैठी रही।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाच दिवसांत सेतू लंकेपर्यंत पोहोचला. पण सैन्याने तो ओलांडण्यापूर्वी किनाऱ्यावर एका शांत विधीची परंपरा सांगितली जाते. नंतरच्या शतकांतील एक प्रिय कथा सांगते की शिवभक्ताशी युद्ध सुरू करण्यापूर्वी रामांनी वाळूचे शिवलिंग केले आणि आज ज्या ठिकाणाला आपण रामेश्वर म्हणतो, म्हणजे रामांचे ईश्वर, तिथे महादेवाची पूजा केली.\n\nत्यांनी आशीर्वाद मागितला, रावण या माणसावर विजयाचा नव्हे, तर गर्वावर धर्माच्या विजयाचा. शेवटी रावण हा महान विद्वान होता, ज्याने वर्षानुवर्षे खोल भक्तीने शिवाची उपासना केली होती. काही कथांत तर रावण स्वतः रामांसाठी विधी करायला आला, आणि रामांनी त्याला पुरोहित म्हणून नमस्कार केला.\n\nया कथेत काहीतरी आहे जे आठवण करून देते की हे युद्ध कधीच द्वेषासाठी नव्हते. शत्रूंच्याही हृदयात परमात्म्याचा शोध असतो. रामांच्या मनात वैयक्तिक वैर नव्हते. त्यांच्या मनात फक्त जे योग्य आहे त्याचे रक्षण करण्याचे वचन होते.\n\nभरती हळूच आली. वाळूचे शिवलिंग संध्याकाळच्या प्रकाशात तेजाळले, आणि सैन्य रामांसोबत किनाऱ्यावर शांतपणे गुडघे टेकून बसले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Crossing and spies",
+    "hi": {
+     "text": "पार उतरना और गुप्तचर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पार जाणे आणि हेर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The great army marched across, roaring Rama's name. The bridge shook with their steps. Rama rode on Hanuman's shoulders, Lakshmana on Angada's, and the banners of Kishkindha flew over the water, so many that it seemed a forest was marching across the sea.\n\nOn the far shore, they spread out along the coast of Lanka. The sight made the sky seem full of monkeys.\n\nMeanwhile, Ravana sent two of his cleverest ministers, Shuka and Sarana, disguised as monkeys, to count the army. They slipped into the camp. But Vibhishana saw through them at once, and the soldiers seized them.\n\nRama did not punish them. “Look well,” he said. “Count all you wish, see every soldier and every weapon. Then go back and tell Ravana what you saw, and tell him to return Sita while there is still time.” He ordered them freed.\n\nThe spies went pale. They flew back to the golden court and warned their king. Ravana only laughed. In the harbour of Lanka, the war drums began to beat.",
+    "hi": {
+     "text": "विशाल सेना राम का नाम गुँजाती हुई पार उतर गई। उनके क़दमों से सेतु हिल उठा। राम हनुमान के कंधों पर सवार थे, लक्ष्मण अंगद के, और किष्किंधा की पताकाएँ जल के ऊपर लहरा रही थीं, इतनी कि लगता था कोई वन सागर पर चला जा रहा है।\n\nदूर तट पर वे लंका के किनारे-किनारे फैल गए। दृश्य ऐसा था कि आकाश वानरों से भरा लगता था।\n\nइधर रावण ने अपने दो सबसे चतुर मंत्रियों, शुक और सारण, को वानर का वेश धराकर सेना गिनने भेजा। वे शिविर में घुस गए। पर विभीषण ने उन्हें तुरंत पहचान लिया, और सैनिकों ने उन्हें पकड़ लिया।\n\nराम ने उन्हें दंड नहीं दिया। “अच्छे से देख लो,” उन्होंने कहा। “जितना गिनना हो गिन लो, हर सैनिक और हर शस्त्र देख लो। फिर लौटकर रावण को बताओ कि तुमने क्या देखा, और कहना कि समय रहते सीता को लौटा दे।” उन्होंने उन्हें छोड़ देने की आज्ञा दी।\n\nगुप्तचर पीले पड़ गए। वे सुनहरे दरबार में लौटे और अपने राजा को चेताया। रावण केवल हँसा। लंका के बंदरगाह में युद्ध के नगाड़े बजने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महान सैन्य रामनामाची गर्जना करत सेतू ओलांडून गेले. त्यांच्या पावलांनी सेतू हादरला. रामांना हनुमानाने आपल्या खांद्यावर बसवले होते, लक्ष्मणाला अंगदाने, आणि किष्किंधेचे ध्वज पाण्यावर फडफडत होते, इतके की जणू एखादे अरण्य सागरावरून कूच करत आहे.\n\nपलीकडच्या किनाऱ्यावर ते लंकेच्या किनारपट्टीवर पसरले. दृश्य असे होते की आकाश वानरांनी भरल्यासारखे वाटले.\n\nइकडे रावणाने आपल्या दोन अत्यंत चतुर मंत्र्यांना, शुक आणि सारणाला, वानराच्या वेषात सैन्य मोजायला पाठवले. ते छावणीत शिरले. पण विभीषणाने त्यांना लगेच ओळखले, आणि सैनिकांनी त्यांना पकडले.\n\nरामांनी त्यांना शिक्षा केली नाही. “नीट पाहा,” ते म्हणाले. “हवे तितके मोजा, प्रत्येक सैनिक आणि प्रत्येक शस्त्र पाहा. मग परत जा आणि रावणाला जे पाहिलेत ते सांगा, आणि सांगा की अजून वेळ आहे तोवर सीतेला परत कर.” त्यांनी त्यांना सोडायची आज्ञा केली.\n\nहेर फिक्कट पडले. ते उडत सोनेरी दरबारात परतले आणि आपल्या राजाला इशारा दिला. रावण फक्त हसला. लंकेच्या बंदरात युद्धाचे नगारे वाजू लागले.",
      "reviewed": false
     }
    }
   }
  ],
- "verse": {
-  "text": "सकृदेव प्रपन्नाय तवास्मीति च याचते।\nअभयं सर्वभूतेभ्यो ददाम्येतद्व्रतं मम॥",
-  "cite": {
-   "en": "Valmiki Ramayana, Yuddha Kanda 18.33",
-   "hi": {
-    "text": "वाल्मीकि रामायण, युद्धकांड 18.33",
-    "reviewed": false
-   },
-   "mr": {
-    "text": "वाल्मीकी रामायण, युद्धकांड 18.33",
-    "reviewed": false
-   }
-  },
-  "meaning": {
-   "en": "To anyone who comes to me even once and says ‘I am yours’, I give freedom from fear of all beings. This is my vow.",
-   "hi": {
-    "text": "जो एक बार भी मेरे पास आकर कहता है ‘मैं तुम्हारा हूँ’, उसे मैं सब प्राणियों से अभय देता हूँ। यह मेरा व्रत है।",
-    "reviewed": false
-   },
-   "mr": {
-    "text": "जो कोणी एकदाही माझ्याकडे येऊन ‘मी तुझा आहे’ असे म्हणतो, त्याला मी सर्व प्राण्यांपासून अभय देतो. हे माझे व्रत आहे.",
-    "reviewed": false
-   }
-  }
- },
  "reflect": {
-  "en": "Rama welcomed even his enemy's brother, and honoured even a tiny squirrel's help. Today, value someone's small effort out loud.",
+  "en": "A whole army and one small squirrel built the bridge together, and Rama valued both. Whose small effort have you overlooked? Today, thank someone out loud for something small they did that no one noticed.",
   "hi": {
-   "text": "राम ने शत्रु के भाई का भी स्वागत किया, और एक नन्ही गिलहरी की सहायता का भी सम्मान किया। आज किसी के छोटे-से प्रयास की खुलकर कद्र कीजिए।",
+   "text": "पूरी सेना और एक नन्ही गिलहरी ने मिलकर सेतु बनाया, और राम ने दोनों का मान रखा। आपने किसके छोटे प्रयास को अनदेखा किया है? आज किसी को ज़ोर से धन्यवाद दीजिए उस छोटी बात के लिए जो उसने की और किसी ने नहीं देखी।",
    "reviewed": false
   },
   "mr": {
-   "text": "रामाने शत्रूच्या भावाचेही स्वागत केले आणि एका छोट्या खारुताईच्या मदतीलाही मान दिला. आज कुणाच्या तरी लहानशा प्रयत्नाचे मोठ्याने कौतुक करा.",
+   "text": "सेतू बांधायला संपूर्ण सैन्य आणि एक छोटी खार एकत्र आले, आणि रामांनी दोघांचेही मोल जाणले. तुम्ही कोणाच्या छोट्या प्रयत्नाकडे दुर्लक्ष केले आहे? आज कोणीतरी केलेल्या आणि कोणाच्याही लक्षात न आलेल्या एखाद्या लहानशा गोष्टीबद्दल त्यांचे मोठ्याने आभार माना.",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "The Divine refuses no one who surrenders, and no act of service is too small.",
+  "en": "No act of service is too small, and the Divine honours the effort, not the size of the gift.",
   "hi": {
-   "text": "परमात्मा शरण में आए किसी को नहीं ठुकराते, और सेवा का कोई कार्य छोटा नहीं होता।",
+   "text": "कोई सेवा छोटी नहीं होती, और परमात्मा प्रयास का मान रखते हैं, भेंट के आकार का नहीं।",
    "reviewed": false
   },
   "mr": {
-   "text": "शरण आलेल्या कुणालाही परमात्मा नाकारत नाही आणि कोणतीही सेवा लहान नसते.",
+   "text": "सेवेचे कोणतेही कर्म लहान नसते, आणि परमात्मा देणगीच्या आकाराचा नाही तर प्रयत्नाचा सन्मान करतो.",
    "reviewed": false
   }
  },
  "source": {
-  "en": "Valmiki Ramayana, Yuddha Kanda; popular traditions (floating stones, the squirrel)",
+  "en": "Valmiki Ramayana, Yuddha Kanda; popular traditions (floating stones, the squirrel, Rameswaram)",
   "hi": {
-   "text": "वाल्मीकि रामायण, युद्धकांड; लोक परंपराएँ (तैरते पत्थर, गिलहरी)",
+   "text": "वाल्मीकि रामायण, युद्धकांड; लोक-परंपराएँ (तैरते पत्थर, गिलहरी, रामेश्वरम्)",
    "reviewed": false
   },
   "mr": {
-   "text": "वाल्मीकी रामायण, युद्धकांड; लोकपरंपरा (तरंगणारे दगड, खारुताई)",
+   "text": "वाल्मीकी रामायण, युद्धकांड; लोकपरंपरा (तरंगणारे दगड, खार, रामेश्वर)",
    "reviewed": false
   }
  }

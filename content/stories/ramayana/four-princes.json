@@ -1,7 +1,7 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story",
- "version": "2026-11-27.2",
+ "version": "2026-11-27.3",
  "status": "draft",
  "id": "four-princes",
  "order": 2,
@@ -19,9 +19,9 @@
   }
  },
  "title": {
-  "en": "A king's prayer and four princes",
+  "en": "A king’s prayer and four princes",
   "hi": {
-   "text": "राजा की प्रार्थना और चार राजकुमार",
+   "text": "एक राजा की प्रार्थना और चार राजकुमार",
    "reviewed": false
   },
   "mr": {
@@ -32,11 +32,11 @@
  "teaser": {
   "en": "The mightiest king on earth has everything except a child. Then a blazing figure rises from the sacred fire.",
   "hi": {
-   "text": "धरती का सबसे प्रतापी राजा, जिसके पास सब कुछ है पर संतान नहीं। तभी यज्ञ की अग्नि से एक तेजस्वी पुरुष प्रकट होता है।",
+   "text": "धरती का सबसे प्रतापी राजा, जिसके पास सब कुछ है, बस संतान नहीं। फिर यज्ञ की अग्नि से एक दिव्य पुरुष प्रकट होते हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "पृथ्वीवरील सर्वात पराक्रमी राजाकडे सर्व काही आहे, फक्त मूल नाही. मग पवित्र अग्नीतून एक तेजस्वी पुरुष प्रकट होतो.",
+   "text": "पृथ्वीवरील सर्वशक्तिमान राजाकडे सर्व काही आहे, फक्त मूल नाही. आणि मग पवित्र अग्नीतून एक तेजस्वी पुरुष प्रकट होतो.",
    "reviewed": false
   }
  },
@@ -74,7 +74,7 @@
      "reviewed": false
     }
    },
-   "credit": "anonymous, Public domain, via Wikimedia Commons",
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ayodhya_celebrates_the_birth_of_Rama_and_his_brothers.jpg"
   }
  ],
@@ -87,42 +87,66 @@
      "reviewed": false
     },
     "mr": {
-     "text": "रिकामा राजवाडा",
+     "text": "ओसाड राजवाडा",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Ayodhya was a city of white palaces, wide streets and happy people. Its king, Dasharatha, was strong, wise and loved. His chariot had driven in all ten directions, and that is how he got his name.\n\nYet at night the king sat alone. He had three queens, Kausalya, Kaikeyi and Sumitra, but no child. Who would carry the kingdom forward? Who would light the lamp after him? The silence in the great palace felt heavier every year.",
+    "en": "Ayodhya, on the banks of the Sarayu, was a city of white palaces, wide streets lined with flowering trees, and happy people. Its walls were so strong that no enemy had ever dared to test them. The very name Ayodhya means the city that cannot be fought.\n\nIts king, Dasharatha, was strong, wise and loved. His chariot had driven in all ten directions, and that is how he got his name. Scholars filled his court, farmers blessed his rule, and no one in the kingdom went hungry.\n\nYet at night the king sat alone. He had three queens, gentle Kausalya, spirited Kaikeyi and thoughtful Sumitra, but not one child. Who would carry the kingdom forward? Who would light the lamp after him? He heard laughter drifting from the houses of the poor, and it hurt him.\n\nThe silence of the great palace felt heavier every year, and the king’s hair turned grey while the cradle stayed empty.",
     "hi": {
-     "text": "अयोध्या श्वेत महलों, चौड़ी सड़कों और सुखी प्रजा का नगर था। उसके राजा दशरथ बलवान, बुद्धिमान और सबके प्रिय थे। उनका रथ दसों दिशाओं में चलता था, इसीलिए उनका नाम दशरथ पड़ा।\n\nफिर भी रात होते ही राजा अकेले बैठ जाते। उनकी तीन रानियाँ थीं, कौसल्या, कैकेयी और सुमित्रा, पर कोई संतान नहीं। राज्य को आगे कौन ले जाएगा? उनके बाद दीप कौन जलाएगा? विशाल महल का सन्नाटा हर वर्ष और भारी होता जा रहा था।",
+     "text": "सरयू के तट पर बसी अयोध्या श्वेत महलों का नगर थी, जहाँ चौड़ी सड़कों के दोनों ओर फूलों से लदे वृक्ष थे और लोग सुखी थे। उसकी प्राचीरें इतनी सुदृढ़ थीं कि किसी शत्रु का उन्हें परखने का साहस न हुआ। अयोध्या नाम का अर्थ ही है, वह नगरी जिससे युद्ध न किया जा सके।\n\nउसके राजा दशरथ बलवान, बुद्धिमान और सबके प्रिय थे। उनका रथ दसों दिशाओं में दौड़ चुका था, इसीलिए उनका यह नाम पड़ा। उनकी सभा में विद्वान सुशोभित थे, किसान उनके राज्य को आशीर्वाद देते थे, और राज्य में कोई भूखा नहीं सोता था।\n\nफिर भी रात को राजा अकेले बैठे रहते। उनकी तीन रानियाँ थीं, सरल कौशल्या, तेजस्विनी कैकेयी और विचारशील सुमित्रा, पर एक भी संतान नहीं। राज्य को आगे कौन सँभालेगा? उनके बाद दीप कौन जलाएगा? जब गरीबों के घरों से हँसी की आवाज़ें तैरकर आतीं, तो राजा का मन कसक उठता।\n\nविशाल महल का सन्नाटा हर साल और भारी होता गया। राजा के केश पक गए, पर पालना सूना ही रहा।",
      "reviewed": false
     },
     "mr": {
-     "text": "अयोध्या ही शुभ्र प्रासाद, रुंद रस्ते आणि सुखी प्रजेची नगरी होती. तिचा राजा दशरथ बलवान, ज्ञानी आणि सर्वांचा लाडका होता. त्याचा रथ दहाही दिशांना धावला होता, म्हणूनच त्याचे नाव दशरथ पडले.\n\nतरीही रात्री राजा एकटाच बसून राही. त्याला तीन राण्या होत्या, कौसल्या, कैकेयी आणि सुमित्रा, पण मूल नव्हते. राज्य पुढे कोण चालवणार? त्याच्यानंतर दिवा कोण लावणार? त्या भव्य महालातली शांतता वर्षागणिक जड होत चालली होती.",
+     "text": "शरयू नदीच्या काठावरची अयोध्या म्हणजे शुभ्र प्रासादांची, फुललेल्या वृक्षांनी सजलेल्या रुंद रस्त्यांची आणि सुखी प्रजेची नगरी होती. तिची तटबंदी इतकी भक्कम की कोणत्याही शत्रूची तिला हात लावण्याची हिंमत झाली नव्हती. अयोध्या या नावाचा अर्थच तो: जिच्याशी युद्ध करता येत नाही अशी नगरी.\n\nतिचा राजा दशरथ बलवान, ज्ञानी आणि लोकप्रिय होता. त्याचा रथ दशदिशांना धावला होता, म्हणूनच त्याला दशरथ हे नाव मिळाले. त्याच्या दरबारात विद्वान गजबजलेले असत, शेतकरी त्याच्या राज्याला आशीर्वाद देत, आणि राज्यात कोणीही उपाशी झोपत नसे.\n\nतरीही रात्री राजा एकटाच बसून राही. त्याला तीन राण्या होत्या: सौम्य कौसल्या, तेजस्वी कैकेयी आणि विचारी सुमित्रा. पण एकही मूल नव्हते. राज्याचा भार पुढे कोण वाहणार? त्याच्यानंतर दिवा कोण लावणार? गरिबांच्या घरांतून येणारे हास्य कानावर पडले की त्याच्या हृदयाला जखम होई.\n\nमहालातली निःशब्दता वर्षागणिक जड होत गेली, आणि पाळणा रिकामाच राहिला, तर राजाचे केस पांढरे झाले.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "The great fire ritual",
+    "en": "The sage from the forest",
     "hi": {
-     "text": "महायज्ञ",
+     "text": "वन से आए ऋषि",
      "reviewed": false
     },
     "mr": {
-     "text": "महान यज्ञ",
+     "text": "अरण्यातील ऋषी",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Dasharatha's wise advisers counselled a sacred fire ritual for children, the putrakameshti yajna, led by the sage Rishyashringa. For days the fire roared, priests chanted, and offerings of ghee rose as fragrant smoke into the sky.\n\nThe story says that above, the gods were troubled too. Ravana, the ten-headed king of Lanka, had won a boon that no god or demon could kill him. In his pride he had never thought to fear a human. So Vishnu, the Preserver, chose to be born as a man.",
+    "en": "One night, Dasharatha called his minister Sumantra. “I have heard,” said Sumantra, “a story from the sages. Long ago a young ascetic named Rishyashringa, who had never seen a woman or the world beyond his forest, was brought to a kingdom suffering a terrible drought. The moment he stepped into that land, rain fell. He is no ordinary man. He can perform the fire ritual that grants children.”\n\nDasharatha bowed his head. For so long he had tried to command the world with his chariots and armies. Now, in humility, he would ask.\n\nRishyashringa came, young and shining, with his hair tied in a knot. The king washed his feet. A great ground was prepared on the banks of the Sarayu. The horse ritual would come first, then the putrakameshti, the sacred fire for sons. Dasharatha did not know it, but heaven itself was leaning close to watch.\n\nIn the great hall, ministers whispered that this was the surest road. The king sat with folded hands, and for the first time in years, he felt something like hope stirring in his chest.",
     "hi": {
-     "text": "दशरथ के बुद्धिमान मंत्रियों ने पुत्रप्राप्ति के लिए पुत्रकामेष्टि यज्ञ करने की सलाह दी, जिसके आचार्य ऋष्यशृंग बने। कई दिनों तक अग्नि धधकती रही, पुरोहित मंत्र गाते रहे, और घी की आहुतियाँ सुगंधित धुएँ के रूप में आकाश की ओर उठती रहीं।\n\nकथा कहती है कि उधर देवता भी चिंतित थे। लंका के दस सिरों वाले राजा रावण ने वरदान पा लिया था कि कोई देवता या दानव उसे नहीं मार सकेगा। अहंकार में उसने मनुष्य से डरने की बात कभी सोची ही नहीं थी। इसलिए पालनहार विष्णु ने मनुष्य रूप में जन्म लेने का निश्चय किया।",
+     "text": "एक रात दशरथ ने अपने मंत्री सुमंत्र को बुलाया। सुमंत्र बोले, “महाराज, मैंने ऋषियों से एक कथा सुनी है। बहुत पहले ऋष्यशृंग नाम के एक युवा तपस्वी थे, जिन्होंने अपने वन के सिवा न कभी कोई स्त्री देखी थी, न संसार। उन्हें एक ऐसे राज्य में लाया गया जहाँ भीषण अकाल पड़ा था। उन्होंने उस धरती पर पैर रखा ही था कि वर्षा होने लगी। वे कोई साधारण पुरुष नहीं हैं। वे संतान देने वाला यज्ञ करा सकते हैं।”\n\nदशरथ ने सिर झुका लिया। इतने समय तक वे रथों और सेनाओं के बल पर दुनिया को अपने वश में करना चाहते रहे थे। अब विनम्र होकर वे माँगेंगे।\n\nऋष्यशृंग पधारे, युवा और तेजस्वी, सिर पर बँधी जटा के साथ। राजा ने उनके चरण धोए। सरयू के किनारे एक विशाल यज्ञभूमि सजाई गई। पहले अश्वमेध होना था, फिर पुत्रकामेष्टि, पुत्र पाने का पवित्र यज्ञ। दशरथ नहीं जानते थे, पर स्वयं स्वर्ग झुककर यह सब देख रहा था।\n\nराजसभा में मंत्री आपस में कहते थे कि यही सबसे पक्की राह है। राजा हाथ जोड़े बैठे रहे, और बरसों बाद पहली बार उनके सीने में आशा जैसा कुछ हिलने लगा।",
      "reviewed": false
     },
     "mr": {
-     "text": "दशरथाच्या ज्ञानी मंत्र्यांनी पुत्रप्राप्तीसाठी पुत्रकामेष्टी यज्ञ करण्याचा सल्ला दिला, ज्याचे पौरोहित्य ऋष्यशृंग ऋषींनी केले. अनेक दिवस अग्नी धडधडत राहिला, ऋत्विज मंत्र म्हणत राहिले आणि तुपाच्या आहुतींचा सुगंधी धूर आकाशात चढत राहिला.\n\nकथा सांगते की तिकडे वर देवही चिंतेत होते. लंकेचा दहा मस्तकांचा राजा रावण याने वर मिळवला होता की कोणताही देव किंवा दानव त्याला मारू शकणार नाही. गर्वामुळे त्याने माणसाची कधी भीती बाळगलीच नव्हती. म्हणून पालनकर्ता विष्णू यांनी मनुष्य म्हणून जन्म घेण्याचे ठरवले.",
+     "text": "एका रात्री दशरथाने मंत्री सुमंत्रांना बोलावले. सुमंत्र म्हणाले, “महाराज, मी ऋषींकडून एक कथा ऐकली आहे. फार पूर्वी ऋष्यशृंग नावाचा एक तरुण तपस्वी होता. त्याने कधी स्त्री पाहिली नव्हती, आपल्या अरण्याबाहेरचे जगही पाहिले नव्हते. भयंकर दुष्काळाने ग्रासलेल्या एका राज्यात त्याला आणले गेले. त्या भूमीवर त्याने पाऊल ठेवताच पाऊस कोसळला. तो सामान्य पुरुष नाही. संतानप्राप्तीचा यज्ञ करण्याचे सामर्थ्य त्याच्यात आहे.”\n\nदशरथाने मान झुकवली. इतकी वर्षे तो रथांच्या आणि सैन्यांच्या बळावर जगावर हुकूम चालवू पाहत होता. आता नम्रतेने तो मागणार होता.\n\nऋष्यशृंग आले, तरुण आणि तेजःपुंज, जटा बांधलेल्या. राजाने त्यांचे पाय धुतले. शरयूच्या काठावर मोठे यज्ञस्थळ सजवले गेले. आधी अश्वमेध आणि मग पुत्रकामेष्टी, पुत्रप्राप्तीसाठीचा पवित्र यज्ञ. दशरथाला कल्पनाही नव्हती की स्वतः स्वर्ग तिथे वाकून पाहत होता.\n\nमहामंडपात मंत्री कुजबुजत होते की हाच खात्रीचा मार्ग आहे. राजा हात जोडून बसला होता, आणि वर्षानुवर्षांत प्रथमच त्याच्या छातीत आशेसारखे काहीतरी हलू लागले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The gods’ worry",
+    "hi": {
+     "text": "देवताओं की चिंता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवांची चिंता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Above the earth, the gods were gathered in great distress. A demon king named Ravana, ruler of golden Lanka, had performed fierce penance and won a boon from Brahma: no god, demon or spirit could kill him. In his pride he had not even thought to mention humans, whom he thought too small to matter.\n\nNow he tormented sages, trampled gardens, and made even the wind slow its steps near his palace.\n\nThey went to Vishnu, the Preserver, and begged him. “Be born as a man, and end this cruelty.” Vishnu, lying upon the great serpent, listened. Then he smiled. “Do not be afraid. I will take birth as the eldest son of Dasharatha.”\n\nThe gods sighed with relief. Some of them took birth too, as monkeys and bears, to help in the great work to come. Meanwhile on earth, the flames of the ritual leapt higher, and a king stood waiting at the edge of the fire.",
+    "hi": {
+     "text": "पृथ्वी के ऊपर देवता बड़े संकट में एकत्र थे। सोने की लंका के राजा रावण नामक दानव ने घोर तपस्या करके ब्रह्मा से वरदान पा लिया था कि कोई देवता, दानव या यक्ष उसे न मार सके। अभिमान में उसने मनुष्यों का नाम तक नहीं लिया, उन्हें वह इतना तुच्छ समझता था कि गिनती ही न की।\n\nअब वह ऋषियों को सताता, उपवनों को रौंदता, और उसके महल के पास हवा भी धीमे कदमों से चलती।\n\nदेवता पालनहार विष्णु के पास गए और विनती की, “आप मनुष्य के रूप में जन्म लीजिए और इस अत्याचार का अंत कीजिए।” शेषनाग की शय्या पर लेटे विष्णु ने सुना। फिर वे मुस्कुराए। “डरो मत। मैं दशरथ के ज्येष्ठ पुत्र के रूप में जन्म लूँगा।”\n\nदेवताओं ने चैन की साँस ली। कुछ ने स्वयं भी वानरों और भालुओं के रूप में जन्म लिया, आने वाले महान कार्य में सहायता के लिए। उधर पृथ्वी पर यज्ञ की लपटें और ऊँची उठने लगीं, और राजा अग्निकुंड के किनारे प्रतीक्षा में खड़े रहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पृथ्वीच्या वर देवांची सभा मोठ्या चिंतेत भरली होती. सोन्याच्या लंकेचा राजा रावण नावाचा राक्षस घोर तपश्चर्या करून ब्रह्मदेवांकडून वर मिळवून बसला होता: कोणीही देव, दानव किंवा यक्ष त्याला मारू शकणार नाही. गर्वाने त्याने मानवांचा उल्लेखही केला नव्हता, कारण त्याला ते क्षुद्र वाटले होते.\n\nआता तो ऋषींना छळत होता, बागा तुडवत होता, आणि त्याच्या महालाजवळ वाराही दबकत वाहत असे.\n\nदेव पालनकर्ते विष्णूंकडे गेले आणि त्यांनी विनंती केली, “मनुष्य रूपात जन्म घ्या आणि हा अत्याचार संपवा.” शेषशय्येवर पहुडलेल्या विष्णूंनी ऐकले आणि हसून म्हणाले, “भिऊ नका. मी दशरथाचा ज्येष्ठ पुत्र म्हणून जन्म घेईन.”\n\nदेवांनी सुटकेचा नि:श्वास सोडला. पुढच्या महान कार्यात मदत करण्यासाठी काही देवांनीही वानर आणि अस्वलांच्या रूपात जन्म घेतला. इकडे पृथ्वीवर यज्ञाच्या ज्वाळा आणखी उंच उसळल्या आणि अग्नीच्या काठावर एक राजा आतुरतेने उभा होता.",
      "reviewed": false
     }
    }
@@ -140,13 +164,13 @@
     }
    },
    "text": {
-    "en": "Suddenly the flames parted. A tall, shining being stepped out of the fire, dressed in red, holding a golden bowl covered with a silver lid. “King,” he said, “this payasam is the gift of the gods. Give it to your queens, and you will have sons.”\n\nThe king carried the bowl as if it held his own heart. He gave half to Kausalya, a share to Kaikeyi, and the rest to Sumitra, who received two portions.",
+    "en": "For days the fire roared. Priests chanted, ghee poured in glittering streams, and the fragrant smoke rose into the sky. On the last day the flames suddenly parted.\n\nA tall, shining being stepped out, dark and radiant, dressed in red, with a voice like a drum. In his arms was a golden vessel, covered with a silver lid. “King,” he said, “this payasam is the gift of the gods. Give it to your queens, and you will have sons.”\n\nDasharatha received the bowl as if it held his own heart. His hands trembled. He carried it inside and gave half to Kausalya. A share went to Kaikeyi. The rest he gave to Sumitra, who, as the story tells, received two portions, since the king had the thought of giving to her twice.\n\nThe queens ate with bowed heads. The palace waited, and the whole city seemed to hold its breath as the months turned.",
     "hi": {
-     "text": "अचानक ज्वालाएँ दो भागों में बँट गईं। अग्नि से एक ऊँचा, दीप्तिमान पुरुष निकला, लाल वस्त्र पहने, हाथों में चाँदी के ढक्कन वाला सोने का पात्र लिए। “राजन,” उसने कहा, “यह खीर देवताओं का उपहार है। इसे अपनी रानियों को दीजिए, आपको पुत्र प्राप्त होंगे।”\n\nराजा उस पात्र को ऐसे थामे चले, मानो उनका अपना हृदय उसमें रखा हो। आधी खीर उन्होंने कौसल्या को दी, एक भाग कैकेयी को, और शेष सुमित्रा को, जिन्हें दो भाग मिले।",
+     "text": "कई दिन अग्नि धधकती रही। ऋत्विज मंत्र पढ़ते रहे, घी की चमकती धाराएँ पड़ती रहीं, और सुगंधित धुआँ आकाश की ओर उठता रहा। अंतिम दिन अचानक लपटें दो भागों में बँट गईं।\n\nएक ऊँचे, दीप्तिमान पुरुष बाहर आए, श्याम वर्ण, तेजस्वी, लाल वस्त्र पहने, स्वर नगाड़े जैसा गूँजता हुआ। उनकी बाँहों में चाँदी के ढक्कन वाला एक स्वर्ण पात्र था। “राजन्,” उन्होंने कहा, “यह खीर देवताओं का उपहार है। इसे अपनी रानियों को दो, तुम्हें पुत्र प्राप्त होंगे।”\n\nदशरथ ने वह पात्र ऐसे ग्रहण किया, मानो उसमें उनका अपना हृदय रखा हो। उनके हाथ काँप रहे थे। वे उसे भीतर ले गए और आधा भाग कौशल्या को दिया। एक अंश कैकेयी को मिला। शेष उन्होंने सुमित्रा को दिया, जिन्हें कथा के अनुसार दो भाग मिले, क्योंकि राजा के मन में उन्हें दो बार देने का विचार आया था।\n\nरानियों ने सिर झुकाकर प्रसाद ग्रहण किया। महल प्रतीक्षा करता रहा, और महीने बीतते-बीतते पूरा नगर मानो साँस रोके खड़ा था।",
      "reviewed": false
     },
     "mr": {
-     "text": "अचानक ज्वाळा दुभंगल्या. लाल वस्त्रातला एक उंच, तेजस्वी पुरुष अग्नीतून बाहेर आला. त्याच्या हातात चांदीचे झाकण असलेले सोन्याचे पात्र होते. “राजा,” तो म्हणाला, “हे पायस देवांचे दान आहे. ते तुझ्या राण्यांना दे, तुला पुत्र होतील.”\n\nराजाने ते पात्र जणू आपले हृदयच असल्यासारखे जपून नेले. अर्धे त्याने कौसल्येला दिले, काही भाग कैकेयीला आणि उरलेले सुमित्रेला, जिला दोन वाटे मिळाले.",
+     "text": "दिवसेंदिवस अग्नी धडधडत राहिला. पुरोहित मंत्रोच्चार करत होते, तुपाच्या धारा चमकत होत्या आणि सुगंधी धूर आकाशाकडे झेपावत होता. शेवटच्या दिवशी अचानक ज्वाळा दुभंगल्या.\n\nत्यातून एक उंच, तेजस्वी पुरुष बाहेर आला. त्याचा वर्ण सावळा आणि तेजस्वी, वस्त्र लाल, आणि आवाज नगाऱ्यासारखा गंभीर. त्याच्या हातांत चांदीचे झाकण असलेले सोनेरी पात्र होते. “राजा,” तो म्हणाला, “हे पायस देवांचे दान आहे. ते तुझ्या राण्यांना दे, म्हणजे तुला पुत्र होतील.”\n\nदशरथाने ते पात्र स्वतःचे हृदयच असल्यासारखे स्वीकारले. त्याचे हात थरथरत होते. आत जाऊन त्याने अर्धे कौसल्येला दिले. एक वाटा कैकेयीला गेला. उरलेले सुमित्रेला दिले, आणि कथा सांगते की तिला दोन भाग मिळाले, कारण तिला दोनदा देण्याचा विचार राजाच्या मनात आला.\n\nराण्यांनी मान झुकवून ते प्राशन केले. महाल प्रतीक्षा करत राहिला, आणि महिने उलटत गेले तसा सारा नगरी जणू श्वास रोखून थांबली.",
      "reviewed": false
     }
    }
@@ -155,22 +179,22 @@
    "title": {
     "en": "Four lights are born",
     "hi": {
-     "text": "चार दीप जगमगाए",
+     "text": "चार ज्योतियों का जन्म",
      "reviewed": false
     },
     "mr": {
-     "text": "चार दीप उजळले",
+     "text": "चार तेजस्वी दिवे उजळले",
      "reviewed": false
     }
    },
    "text": {
-    "en": "In time, on the ninth day of the bright half of Chaitra, Kausalya gave birth to Rama. The day is still celebrated as Rama Navami. Kaikeyi gave birth to Bharata, and Sumitra to twins, Lakshmana and Shatrughna.\n\nAyodhya went wild with joy. Musicians played in the streets, flowers rained from balconies, and the king gave away cows, gold and grain until his treasuries were nearly empty, and still he felt he had not given enough.",
+    "en": "In time, on the ninth day of the bright half of the month of Chaitra, when the sun and five planets stood in high and happy places, Kausalya gave birth to a son of lotus eyes and calm face. They named him Rama, which means one who gives joy. The day is still celebrated as Rama Navami.\n\nKaikeyi gave birth to Bharata. And Sumitra, to twins, Lakshmana and Shatrughna.\n\nAyodhya went wild with joy. Musicians played in the streets, dancers whirled, flowers rained from balconies, and every lamp in the city was lit. The king gave away cows, gold and grain, until his treasuries were nearly empty, and still he felt he had not given enough.\n\nSages and singers came to bless the babies. It was said that when the infant Rama smiled, even the hardest hearts softened. The king looked at the four small faces in their cradles and thought: the empty years were not wasted. They were only the waiting.",
     "hi": {
-     "text": "समय आने पर चैत्र मास के शुक्ल पक्ष की नवमी को कौसल्या ने राम को जन्म दिया। वह तिथि आज भी रामनवमी के रूप में मनाई जाती है। कैकेयी ने भरत को जन्म दिया, और सुमित्रा ने जुड़वाँ पुत्रों, लक्ष्मण और शत्रुघ्न को।\n\nअयोध्या आनंद से झूम उठी। गलियों में वाद्य बजे, छज्जों से फूल बरसे, और राजा ने गौएँ, स्वर्ण और अन्न इतना बाँटा कि भंडार लगभग खाली हो गए, फिर भी उन्हें लगा कि अभी कम ही दिया है।",
+     "text": "समय आने पर चैत्र मास के शुक्ल पक्ष की नवमी को, जब सूर्य और पाँच ग्रह उच्च और शुभ स्थानों में थे, कौशल्या ने कमल-नयन, शांत मुख वाले पुत्र को जन्म दिया। उसका नाम रखा गया राम, अर्थात आनंद देने वाला। वह दिन आज भी रामनवमी के रूप में मनाया जाता है।\n\nकैकेयी ने भरत को जन्म दिया। और सुमित्रा ने जुड़वाँ पुत्रों को, लक्ष्मण और शत्रुघ्न को।\n\nअयोध्या आनंद से झूम उठी। गलियों में वादक बजाने लगे, नर्तक थिरक उठे, छज्जों से फूल बरसे, और नगर का हर दीप जल उठा। राजा ने गायें, सोना और अन्न इतना दान किया कि भंडार लगभग खाली हो गए, फिर भी उन्हें लगा कि अभी कम दिया है।\n\nऋषि और गायक शिशुओं को आशीर्वाद देने आए। कहते हैं कि जब नन्हे राम मुस्कुराते, तो कठोर से कठोर हृदय भी पिघल जाता। राजा ने पालनों में चारों नन्हे मुखड़े देखे और सोचा: वे सूने बरस व्यर्थ नहीं गए। वह तो बस प्रतीक्षा थी।",
      "reviewed": false
     },
     "mr": {
-     "text": "यथावकाश चैत्र शुक्ल नवमीला कौसल्येने रामाला जन्म दिला. तो दिवस आजही रामनवमी म्हणून साजरा होतो. कैकेयीला भरत झाला आणि सुमित्रेला जुळे, लक्ष्मण आणि शत्रुघ्न.\n\nअयोध्या आनंदाने बेभान झाली. रस्त्यांवर वाद्ये वाजली, सज्जांवरून फुलांचा वर्षाव झाला आणि राजाने गायी, सोने आणि धान्य इतके वाटले की कोठारे जवळजवळ रिकामी झाली, तरी त्याला वाटले अजून दिलेच नाही.",
+     "text": "यथावकाश चैत्र शुद्ध नवमीच्या दिवशी, सूर्य आणि पाच ग्रह उच्च आणि शुभ स्थानी असताना, कौसल्येने कमलनयन, शांत मुखाच्या पुत्राला जन्म दिला. त्याचे नाव ठेवले राम, म्हणजे आनंद देणारा. तो दिवस आजही रामनवमी म्हणून साजरा केला जातो.\n\nकैकेयीला भरत झाला. आणि सुमित्रेला जुळे, लक्ष्मण आणि शत्रुघ्न.\n\nअयोध्या आनंदाने बेभान झाली. रस्त्यांत वाद्ये वाजत होती, नर्तक गिरक्या घेत होते, गच्च्यांवरून फुलांचा पाऊस पडत होता आणि नगरीतला प्रत्येक दिवा उजळला होता. राजाने गाई, सोने आणि धान्य इतके दान केले की खजिना जवळजवळ रिकामा झाला, तरी त्याला वाटले की अजून पुरेसे दिले नाही.\n\nऋषी आणि गायक बाळांना आशीर्वाद द्यायला आले. म्हणतात की बाळ राम हसला की कठोरातले कठोर मनही मऊ होई. पाळण्यातल्या चार छोट्या चेहऱ्यांकडे पाहून राजाला वाटले, रिकामी वर्षे वाया गेली नाहीत. ती केवळ प्रतीक्षा होती.",
      "reviewed": false
     }
    },
@@ -180,7 +204,7 @@
    "title": {
     "en": "Brothers in heart",
     "hi": {
-     "text": "हृदय के भाई",
+     "text": "हृदय से भाई",
      "reviewed": false
     },
     "mr": {
@@ -189,37 +213,37 @@
     }
    },
    "text": {
-    "en": "The four princes grew up strong, learned and kind. They studied the scriptures with their teacher Vasishtha and practised archery until their arrows sang.\n\nFrom the very start, Lakshmana would not sleep unless Rama was beside him, would not eat unless Rama ate first. He was Rama's shadow. In the same way, Shatrughna followed Bharata everywhere. No one could yet know how much these bonds would be tested.",
+    "en": "The four princes grew up strong, learned and kind. They studied the scriptures with their teacher Vasishtha, practised archery until their arrows sang, and learned the arts of kings: to listen, to rule, to serve.\n\nBut it was not the lessons that people noticed most. It was the way the brothers were with each other. From the very start, Lakshmana could not sleep unless Rama was beside him, and would not eat unless Rama ate first. When Rama rode out to hunt, Lakshmana followed with his bow. He was Rama’s shadow, quick to laugh and quick to flare in anger, but gentle as water whenever Rama’s hand was on his shoulder.\n\nIn the same way Shatrughna followed Bharata everywhere, and the two pairs were close as one family can be.\n\nIn the evenings, Kausalya would watch them from her balcony. Rama was always the calmest of the four, the one the others turned to when they were afraid. No one could yet know how deeply these bonds would soon be tested.",
     "hi": {
-     "text": "चारों राजकुमार बलवान, विद्वान और दयालु बनकर बड़े हुए। उन्होंने गुरु वशिष्ठ से शास्त्र पढ़े और धनुर्विद्या का ऐसा अभ्यास किया कि उनके बाण गुनगुनाते हुए उड़ते थे।\n\nबचपन से ही लक्ष्मण राम के बिना सोते नहीं थे, और राम के खाने से पहले खाते नहीं थे। वे राम की परछाईं थे। उसी तरह शत्रुघ्न हर जगह भरत के पीछे-पीछे चलते। तब कोई नहीं जानता था कि इन बंधनों की कैसी कठिन परीक्षा होने वाली है।",
+     "text": "चारों राजकुमार बलवान, विद्वान और दयालु बनकर बड़े हुए। उन्होंने अपने गुरु वसिष्ठ से शास्त्र पढ़े, धनुर्विद्या का ऐसा अभ्यास किया कि बाण गाते थे, और राजाओं की कलाएँ सीखीं: सुनना, शासन करना, सेवा करना।\n\nपर लोगों की नज़र पढ़ाई पर नहीं, भाइयों के आपसी व्यवहार पर सबसे ज़्यादा जाती थी। आरंभ से ही लक्ष्मण को राम के बिना नींद न आती थी, और राम के खाने से पहले वे कौर न उठाते थे। जब राम शिकार को निकलते, लक्ष्मण धनुष लिए पीछे-पीछे चल देते। वे राम की परछाईं थे, हँसने में फुर्तीले, क्रोध में भी फुर्तीले, पर राम का हाथ कंधे पर पड़ते ही जल की तरह शांत।\n\nइसी तरह शत्रुघ्न हर जगह भरत के पीछे रहते, और दोनों जोड़ियाँ एक ही परिवार की तरह घुली-मिली थीं।\n\nशाम को कौशल्या अपने छज्जे से उन्हें निहारतीं। चारों में राम सदा सबसे शांत रहते, और जब दूसरों को भय लगता तो वे उन्हीं की ओर देखते। तब कोई नहीं जानता था कि इन बंधनों की जल्द ही कितनी कड़ी परीक्षा होने वाली है।",
      "reviewed": false
     },
     "mr": {
-     "text": "चारही राजकुमार बलवान, विद्वान आणि दयाळू होऊन वाढले. त्यांनी गुरू वसिष्ठांकडे शास्त्रांचा अभ्यास केला आणि धनुर्विद्येचा इतका सराव केला की त्यांचे बाण गुणगुणू लागले.\n\nअगदी लहानपणापासून रामाशिवाय लक्ष्मणाला झोप येत नसे, रामाने खाल्ल्याशिवाय तो खात नसे. तो रामाची सावलीच होता. तसाच शत्रुघ्न भरताच्या मागोमाग सर्वत्र जाई. या नात्यांची किती कठोर परीक्षा होणार आहे हे अजून कुणालाच ठाऊक नव्हते.",
+     "text": "चारही राजकुमार बलवान, विद्वान आणि दयाळू होऊन वाढले. गुरू वसिष्ठांकडे त्यांनी शास्त्रे शिकली, बाण सुरेल गुणगुणेपर्यंत धनुर्विद्येचा सराव केला, आणि राजाची कला आत्मसात केली: ऐकणे, राज्य करणे, सेवा करणे.\n\nपण लोकांच्या नजरेत सर्वाधिक भरत ते शिक्षण नव्हते. भावाभावांमधले नाते लोकांना भावत होते. अगदी सुरुवातीपासून लक्ष्मणाला रामाशिवाय झोप येत नसे आणि रामाने जेवल्याशिवाय तो घास घेत नसे. राम शिकारीला निघाला की धनुष्य घेऊन लक्ष्मण मागे असे. तो रामाची सावलीच होता, पटकन हसणारा आणि पटकन रागावणारा, पण रामाचा हात खांद्यावर पडला की पाण्यासारखा शांत.\n\nतसाच शत्रुघ्न भरताच्या मागे सर्वत्र जाई, आणि दोन्ही जोड्या एका कुटुंबाइतक्या जिव्हाळ्याच्या होत्या.\n\nसंध्याकाळी कौसल्या गच्चीवरून त्यांच्याकडे पाहत असे. चौघांपैकी राम नेहमी सर्वात शांत असे, भीती वाटली की इतर सारे त्याच्याकडेच वळत. या नात्यांची लवकरच किती कठोर परीक्षा होणार आहे, हे कोणालाच ठाऊक नव्हते.",
      "reviewed": false
     }
    }
   }
  ],
  "reflect": {
-  "en": "Dasharatha's longing was answered through patience, humility and prayer. Is there something you are waiting for? Offer it today in a quiet moment, and let go of how and when it will come.",
+  "en": "Dasharatha’s longing was answered through patience, humility and prayer. Is there something you are waiting for? Offer it today in a quiet moment, and let go of how and when it will come.",
   "hi": {
-   "text": "दशरथ की मनोकामना धैर्य, विनम्रता और प्रार्थना से पूरी हुई। क्या आप भी किसी चीज़ की प्रतीक्षा कर रहे हैं? आज शांत क्षण में उसे अर्पित कर दीजिए, और यह चिंता छोड़ दीजिए कि वह कैसे और कब आएगी।",
+   "text": "दशरथ की चाह धैर्य, विनम्रता और प्रार्थना से पूरी हुई। क्या आप भी किसी चीज़ की प्रतीक्षा में हैं? आज एक शांत क्षण में उसे अर्पित कर दीजिए, और यह चिंता छोड़ दीजिए कि वह कैसे और कब आएगी।",
    "reviewed": false
   },
   "mr": {
-   "text": "संयम, नम्रता आणि प्रार्थनेमुळे दशरथाची आस पूर्ण झाली. तुम्ही कशाची वाट पाहत आहात का? आज एका शांत क्षणी ते अर्पण करा आणि ते कधी व कसे येईल हे सोडून द्या.",
+   "text": "दशरथाची आर्त इच्छा धैर्य, नम्रता आणि प्रार्थनेतून पूर्ण झाली. तुम्ही कशाची वाट पाहत आहात? आज एका शांत क्षणी ती परमेश्वराला अर्पण करा आणि ती कशी आणि केव्हा येईल याची चिंता सोडा.",
    "reviewed": false
   }
  },
  "lesson": {
   "en": "What we wait for with faith and right effort often arrives in a form greater than we imagined.",
   "hi": {
-   "text": "जिसकी प्रतीक्षा हम श्रद्धा और सही प्रयास के साथ करते हैं, वह अक्सर हमारी कल्पना से कहीं बड़े रूप में मिलता है।",
+   "text": "जिसकी प्रतीक्षा हम श्रद्धा और सही प्रयास के साथ करते हैं, वह अक्सर हमारी कल्पना से कहीं बड़े रूप में आता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "श्रद्धेने आणि योग्य प्रयत्नांनी ज्याची आपण वाट पाहतो ते बहुतेक वेळा आपल्या कल्पनेपेक्षा मोठ्या रूपात येते.",
+   "text": "श्रद्धेने आणि योग्य प्रयत्नांनी ज्याची वाट पाहतो, ते अनेकदा आपल्या कल्पनेपेक्षा मोठ्या रूपात येते.",
    "reviewed": false
   }
  },

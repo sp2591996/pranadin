@@ -1,41 +1,41 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story",
- "version": "2026-11-27.2",
+ "version": "2026-11-27.3",
  "status": "draft",
  "id": "luv-kush",
- "order": 16,
+ "order": 32,
  "part": "uttara",
  "figure": {
-  "en": "Luv, Kush and Sita",
+  "en": "Luv and Kush",
   "hi": {
-   "text": "लव, कुश और सीता",
+   "text": "लव और कुश",
    "reviewed": false
   },
   "mr": {
-   "text": "लव, कुश आणि सीता",
+   "text": "लव आणि कुश",
    "reviewed": false
   }
  },
  "title": {
-  "en": "Two boys sing the Ramayana",
+  "en": "Two boys and a song",
   "hi": {
-   "text": "दो बालकों ने गाई रामायण",
+   "text": "दो बालक और एक गीत",
    "reviewed": false
   },
   "mr": {
-   "text": "दोन मुले रामायण गातात",
+   "text": "दोन मुले आणि एक गीत",
    "reviewed": false
   }
  },
  "teaser": {
-  "en": "In a forest ashram, twin boys learn a long poem by heart. One day they sing it before the king, not knowing he is their father.",
+  "en": "The story's gentlest heart is about to be tested. A queen walks into the forest, and in a hermitage two boys learn a poem whose hero is their own father.",
   "hi": {
-   "text": "वन के आश्रम में दो जुड़वाँ बालक एक लंबा काव्य कंठस्थ करते हैं। एक दिन वे उसे राजा के सामने गाते हैं, यह जाने बिना कि वे उनके पिता हैं।",
+   "text": "कथा के सबसे कोमल हृदय की परीक्षा होने वाली है। एक रानी वन में चली जाती है, और एक आश्रम में दो बालक वह काव्य सीखते हैं जिसके नायक उनके अपने पिता हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "जंगलातील आश्रमात जुळी मुले एक दीर्घ काव्य मुखोद्गत करतात. एके दिवशी ते राजासमोर ते गातात, तो आपला पिता आहे हे न जाणता.",
+   "text": "कथेच्या सर्वांत मृदू हृदयाची परीक्षा होणार आहे. एक राणी वनात जाते, आणि एका आश्रमात दोन मुले एक काव्य शिकतात ज्याचा नायक त्यांचेच पिता आहेत.",
    "reviewed": false
   }
  },
@@ -57,24 +57,6 @@
    },
    "credit": "Unknown author, Public domain, via Wikimedia Commons",
    "source": "https://commons.wikimedia.org/wiki/File:Sita,_Lava,_and_Kusha_in_the_hermitage_of_Valmiki.jpg"
-  },
-  {
-   "src": "/stories/ramayana/luv-kush-3.webp",
-   "w": 600,
-   "h": 465,
-   "caption": {
-    "en": "Sita returns to Mother Earth (Raja Ravi Varma)",
-    "hi": {
-     "text": "सीता धरती माता की गोद में लौटती हैं (राजा रवि वर्मा)",
-     "reviewed": false
-    },
-    "mr": {
-     "text": "सीता धरणीमातेच्या कुशीत परत जाते (राजा रवी वर्मा)",
-     "reviewed": false
-    }
-   },
-   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Sita_Bhum_Pravesh.jpg"
   },
   {
    "src": "/stories/ramayana/luv-kush-2.webp",
@@ -100,46 +82,94 @@
    "title": {
     "en": "A king's hardest choice",
     "hi": {
-     "text": "राजा का सबसे कठिन निर्णय",
+     "text": "राजा का कठिनतम निर्णय",
      "reviewed": false
     },
     "mr": {
-     "text": "राजाची सर्वात कठीण निवड",
+     "text": "राजाची सर्वांत कठीण निवड",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The Uttara Kanda, the final book, tells a painful story. Some people in Ayodhya whispered doubts about Sita, who had lived in Ravana's land. Rama, as king, felt bound to put the duty of the throne above his own happiness, and Sita was sent to the forest.\n\nThis part of the story has troubled hearts for centuries, and people still question it, debate it, and grieve over it. That too is part of the Ramayana: it asks us to think about justice, and about the cost when duty and love collide.",
+    "en": "The last book of the Ramayana, the Uttara Kanda, tells a painful story. Rama had been king for some time. Ayodhya was happy, and Sita was expecting a child. Then Rama learned, through his spies, that some people in the city were whispering about Sita, who had lived so long in Ravana's land.\n\nRama knew in his heart that she was pure. But he was a king, and he believed that a king belongs to his people, and that his own happiness must come after their trust. With deep sorrow, he decided that Sita must leave the palace.\n\nThis part of the story has troubled hearts for centuries, and still does. Many readers ask whether it was just. Many grieve for Sita, who had done nothing wrong, and some feel Rama chose duty over love and let love suffer. Thoughtful people have argued about it for as long as the poem has been told, and the Ramayana does not hide the pain.\n\nPerhaps that is part of its honesty. It asks us to think about justice, and about the cost when duty and love collide. It does not tell us the cost was small.",
     "hi": {
-     "text": "उत्तरकांड, अंतिम खंड, एक पीड़ादायी कथा कहता है। अयोध्या में कुछ लोग सीता के बारे में संदेह फुसफुसाने लगे, जो रावण की भूमि में रही थीं। राजा के रूप में राम ने सिंहासन के कर्तव्य को अपने सुख से ऊपर माना, और सीता को वन भेज दिया गया।\n\nकथा का यह भाग सदियों से हृदयों को व्यथित करता रहा है, और लोग आज भी इस पर प्रश्न उठाते हैं, बहस करते हैं और दुखी होते हैं। यह भी रामायण का ही अंग है: वह हमें न्याय के बारे में सोचने को कहती है, और उस मूल्य के बारे में जो तब चुकाना पड़ता है जब कर्तव्य और प्रेम टकराते हैं।",
+     "text": "रामायण का अंतिम खंड, उत्तरकांड, एक पीड़ाजनक कथा कहता है। राम को राजा हुए कुछ समय हो चुका था। अयोध्या सुखी थी, और सीता गर्भवती थीं। तभी राम को गुप्तचरों से पता चला कि नगर में कुछ लोग सीता के बारे में, जो इतने समय रावण की धरती पर रहीं, फुसफुसा रहे हैं।\n\nराम अपने हृदय में जानते थे कि वे पवित्र हैं। पर वे राजा थे, और मानते थे कि राजा अपनी प्रजा का होता है, और उसका निजी सुख प्रजा के विश्वास के बाद आता है। गहरे दुख के साथ उन्होंने तय किया कि सीता को महल छोड़ना होगा।\n\nकथा का यह भाग सदियों से हृदयों को व्यथित करता आया है, और आज भी करता है। बहुत से पाठक पूछते हैं कि क्या यह न्याय था। बहुत से सीता के लिए शोक करते हैं, जिन्होंने कोई दोष नहीं किया था, और कुछ को लगता है कि राम ने प्रेम से ऊपर कर्तव्य को चुना और प्रेम को कष्ट सहने दिया। विचारशील लोग इस पर उतने ही समय से बहस करते आए हैं जितने समय से यह काव्य कहा जाता रहा है, और रामायण पीड़ा को छिपाती नहीं।\n\nशायद यही उसकी ईमानदारी है। वह हमसे न्याय के बारे में सोचने को कहती है, और उस कीमत के बारे में जब कर्तव्य और प्रेम टकराते हैं। वह यह नहीं कहती कि कीमत छोटी थी।",
      "reviewed": false
     },
     "mr": {
-     "text": "उत्तरकांड, शेवटचे कांड, एक वेदनादायी कथा सांगते. रावणाच्या देशात राहिलेल्या सीतेबद्दल अयोध्येतील काही लोक शंका कुजबुजू लागले. राजा म्हणून रामाला स्वतःच्या सुखापेक्षा सिंहासनाचे कर्तव्य मोठे मानणे भाग वाटले आणि सीतेला वनात पाठवण्यात आले.\n\nकथेचा हा भाग शतकानुशतके हृदये व्यथित करत आला आहे आणि लोक आजही त्यावर प्रश्न विचारतात, वाद घालतात आणि शोक करतात. तेही रामायणाचाच भाग आहे: ते आपल्याला न्यायाबद्दल विचार करायला लावते आणि कर्तव्य व प्रेम यांची टक्कर झाली की किंमत काय मोजावी लागते याबद्दलही.",
+     "text": "रामायणाचा शेवटचा भाग, उत्तरकांड, एक वेदनादायक कथा सांगतो. राम काही काळ राजा झाले होते. अयोध्या सुखी होती, आणि सीता गर्भवती होती. मग रामांना हेरांकडून कळले की नगरातले काही लोक इतके काळ रावणाच्या देशात राहिलेल्या सीतेबद्दल कुजबुजत आहेत.\n\nरामांना हृदयात ठाऊक होते की ती पवित्र आहे. पण ते राजा होते, आणि त्यांचे मानणे होते की राजा प्रजेचा असतो, आणि स्वतःचे सुख प्रजेच्या विश्वासानंतर यायला हवे. खोल दुःखाने त्यांनी ठरवले की सीतेने राजवाडा सोडला पाहिजे.\n\nकथेचा हा भाग शतकानुशतके हृदये व्यथित करत आला आहे, आणि आजही करतो. अनेक वाचक विचारतात की हे न्याय्य होते का. अनेकांना निर्दोष सीतेसाठी दुःख होते, आणि काहींना वाटते की रामांनी प्रेमापेक्षा कर्तव्य निवडले आणि प्रेमाला सोसावे लागले. हे काव्य सांगितले गेले तेव्हापासून विचारी लोक यावर वाद घालत आले आहेत, आणि रामायण वेदना लपवत नाही.\n\nकदाचित हाच त्याचा प्रामाणिकपणाचा भाग असेल. ते आपल्याला न्यायाचा विचार करायला लावते, आणि कर्तव्य आणि प्रेम यांची टक्कर होते तेव्हा किंमत किती मोठी असते याचा. ती किंमत लहान होती असे ते सांगत नाही.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Twins in the ashram",
+    "en": "The edge of the forest",
     "hi": {
-     "text": "आश्रम में जुड़वाँ",
+     "text": "वन का किनारा",
      "reviewed": false
     },
     "mr": {
-     "text": "आश्रमातील जुळे",
+     "text": "वनाच्या काठावर",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Sita found shelter in the ashram of Valmiki, the same sage who had once wept over the krauncha bird. There she gave birth to twin sons: Lava and Kusha, known lovingly as Luv and Kush.\n\nThe boys grew up among the sages, strong as young lions. Valmiki taught them archery and the scriptures, and above all he taught them a long poem, the whole Ramayana, verse by verse, to sing to the music of the veena.",
+    "en": "Rama called Lakshmana, and in a voice hollow with grief, gave him the order. Lakshmana, who had never disobeyed his brother, wept. He did not argue, but he did not forget what he felt.\n\nThe next day he told Sita, gently, that she was to visit the hermitages along the Ganga, as she had once wished. She was glad. She packed gifts for the sages' wives. They crossed the river in a chariot, and a little boat took them over the water.\n\nOn the far bank, at the edge of the dark forest, Lakshmana stopped. He could not hold it in any longer. Falling at her feet, he sobbed out the truth: the whispers, the order, the king's decision.\n\nSita stood very still. The river murmured. For a long time she said nothing. Then she lifted him from the ground. “Lakshmana, I understand that you do only what you must. Tell my lord that I do not blame him. Tell him that I ask only one thing: that he rule justly, and love his people as he loved me. And tell him that I carry his child.”\n\nLakshmana went back across the water, weeping. Sita stood alone on the bank.",
     "hi": {
-     "text": "सीता को वाल्मीकि के आश्रम में आश्रय मिला, उसी ऋषि के जिन्होंने कभी क्रौंच पक्षी के लिए आँसू बहाए थे। वहाँ उन्होंने जुड़वाँ पुत्रों को जन्म दिया: लव और कुश।\n\nबालक ऋषियों के बीच पले, युवा सिंहों जैसे बलवान। वाल्मीकि ने उन्हें धनुर्विद्या और शास्त्र सिखाए, और सबसे बढ़कर एक लंबा काव्य, पूरी रामायण, श्लोक-श्लोक, वीणा के स्वरों पर गाने के लिए।",
+     "text": "राम ने लक्ष्मण को बुलाया और दुख से खोखली वाणी में आज्ञा दी। लक्ष्मण, जिन्होंने भाई की आज्ञा कभी नहीं टाली थी, रो पड़े। उन्होंने तर्क नहीं किया, पर जो महसूस किया उसे भूले नहीं।\n\nअगले दिन उन्होंने सीता को कोमलता से बताया कि वे गंगा तट के आश्रमों के दर्शन को जाएँगी, जैसी उनकी पुरानी इच्छा थी। वे प्रसन्न हुईं। उन्होंने ऋषि-पत्नियों के लिए उपहार बाँध लिए। वे रथ में नदी तक गए, और एक छोटी नाव उन्हें जल के पार ले गई।\n\nदूर किनारे पर, अँधेरे वन की सीमा पर, लक्ष्मण रुक गए। वे अब और न रोक सके। उनके चरणों में गिरकर वे सिसकते हुए सत्य कह गए: फुसफुसाहटें, आज्ञा, राजा का निर्णय।\n\nसीता बिल्कुल स्थिर खड़ी रहीं। नदी मंद-मंद बहती रही। बहुत देर तक वे कुछ नहीं बोलीं। फिर उन्होंने उन्हें धरती से उठा लिया। “लक्ष्मण, मैं समझती हूँ कि तुम वही करते हो जो तुम्हें करना है। मेरे स्वामी से कहना कि मैं उन्हें दोष नहीं देती। कहना कि मैं केवल एक बात माँगती हूँ: कि वे न्याय से राज करें, और प्रजा से वैसा प्रेम करें जैसा उन्होंने मुझसे किया। और कहना कि मैं उनके पुत्र को गर्भ में लिए हूँ।”\n\nलक्ष्मण रोते हुए जल के पार लौट गए। सीता किनारे पर अकेली खड़ी रहीं।",
      "reviewed": false
     },
     "mr": {
-     "text": "सीतेला वाल्मीकींच्या आश्रमात आश्रय मिळाला, त्याच ऋषींच्या ज्यांनी एकेकाळी क्रौंच पक्ष्यासाठी अश्रू ढाळले होते. तिथे तिने दोन जुळ्या पुत्रांना जन्म दिला: लव आणि कुश, प्रेमाने लव-कुश म्हणून ओळखले जाणारे.\n\nमुले ऋषींच्या सहवासात तरुण सिंहांसारखी बलवान होऊन वाढली. वाल्मीकींनी त्यांना धनुर्विद्या आणि शास्त्रे शिकवली आणि सर्वात मोठी गोष्ट म्हणजे एक दीर्घ काव्य, संपूर्ण रामायण, श्लोकामागून श्लोक, वीणेच्या सुरावर गाण्यासाठी.",
+     "text": "रामांनी लक्ष्मणाला बोलावले आणि दुःखाने पोकळ झालेल्या आवाजात त्याला आज्ञा दिली. आपल्या भावाची आज्ञा कधीही न मोडलेला लक्ष्मण रडला. त्याने वाद घातला नाही, पण त्याला काय वाटले ते तो विसरला नाही.\n\nदुसऱ्या दिवशी त्याने सीतेला हळूच सांगितले की, तिला हवे होते तसे गंगेकाठच्या आश्रमांना भेट द्यायला जायचे आहे. ती आनंदी झाली. तिने ऋषींच्या पत्नींसाठी भेटी बांधल्या. ते रथातून नदीपर्यंत गेले, आणि एका छोट्या नावेतून त्यांनी पाणी ओलांडले.\n\nपलीकडच्या काठावर, काळोख्या वनाच्या कडेला लक्ष्मण थांबला. त्याला आणखी आवरता आले नाही. तिच्या पायांवर कोसळून त्याने हुंदके देत सत्य सांगितले: कुजबुज, आज्ञा, राजाचा निर्णय.\n\nसीता अगदी स्तब्ध उभी राहिली. नदी खळखळत होती. बराच वेळ ती काहीच बोलली नाही. मग तिने त्याला जमिनीवरून उठवले. “लक्ष्मणा, मला समजते की तू फक्त जे करायला हवे ते करतोस. माझ्या स्वामींना सांग की मी त्यांना दोष देत नाही. त्यांना सांग की मी एकच मागते: त्यांनी न्यायाने राज्य करावे आणि माझ्यावर केले तसे प्रजेवर प्रेम करावे. आणि त्यांना सांग की मी त्यांचे अपत्य वाहते आहे.”\n\nलक्ष्मण रडत पाण्यापलीकडे परतला. सीता काठावर एकटी उभी राहिली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sage and the twins",
+    "hi": {
+     "text": "ऋषि और जुड़वाँ बालक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ऋषी आणि जुळे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Her tears fell into the forest silence. And in that silence, a voice spoke gently. “Daughter, I know who you are, and why you have come. Do not be afraid.”\n\nIt was Valmiki. The sage who had once wept over a krauncha bird had seen, by his meditation, what was to happen. He stood before her with folded hands, and around him the young ascetics watched with wide eyes. “You are the daughter of Janaka, the wife of Rama. Come to my ashram. You will be cared for, like a daughter. No one will harm you here.”\n\nSita bowed. For the first time in many months, she felt a small weight lift from her heart. The sage's wives and students welcomed her. They gave her a hut among the trees, and she lived there quietly, simply, caring for the plants, praying at dawn.\n\nIn the course of time, she gave birth to twin sons, as bright as the morning and the evening stars. Valmiki named them Lava and Kusha, called lovingly Luv and Kush. And Sita, who had lost everything, smiled again.",
+    "hi": {
+     "text": "उनके आँसू वन के सन्नाटे में गिरे। और उस सन्नाटे में एक स्वर ने कोमलता से कहा। “पुत्री, मैं जानता हूँ तुम कौन हो और क्यों आई हो। डरो मत।”\n\nवे वाल्मीकि थे। जिस ऋषि ने कभी क्रौंच पक्षी के लिए आँसू बहाए थे, उन्होंने ध्यान से जान लिया था कि क्या होने वाला है। वे हाथ जोड़े उनके सामने खड़े थे, और उनके चारों ओर युवा तपस्वी विस्फारित आँखों से देख रहे थे। “तुम जनक की पुत्री, राम की पत्नी हो। मेरे आश्रम में आओ। तुम्हारी देखभाल पुत्री की तरह होगी। यहाँ तुम्हें कोई हानि नहीं पहुँचाएगा।”\n\nसीता ने प्रणाम किया। बहुत महीनों में पहली बार उन्हें लगा कि हृदय से कुछ बोझ हट गया। ऋषि की पत्नियों और शिष्यों ने उनका स्वागत किया। उन्होंने उन्हें वृक्षों के बीच एक कुटिया दी, और वे वहाँ शांति और सादगी से रहने लगीं, पौधों की देखभाल करतीं, भोर में प्रार्थना करतीं।\n\nसमय बीतने पर उन्होंने दो जुड़वाँ पुत्रों को जन्म दिया, सुबह और साँझ के तारों जैसे दीप्तिमान। वाल्मीकि ने उनके नाम लव और कुश रखे, जिन्हें प्यार से लव-कुश कहते हैं। और सीता, जिन्होंने सब कुछ खो दिया था, फिर मुस्कुराईं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिचे अश्रू वनाच्या शांततेत पडले. आणि त्या शांततेत एक आवाज मृदूपणे बोलला. “कन्ये, मला माहीत आहे तू कोण आहेस आणि का आली आहेस. भिऊ नकोस.”\n\nते वाल्मीकी होते. जे ऋषी एकेकाळी क्रौंच पक्ष्यासाठी रडले होते, त्यांनी ध्यानाने काय घडणार आहे ते पाहिले होते. ते हात जोडून तिच्यासमोर उभे राहिले, आणि त्यांच्याभोवती तरुण तपस्वी विस्फारलेल्या डोळ्यांनी पाहत होते. “तू जनकाची कन्या, रामांची पत्नी आहेस. माझ्या आश्रमात ये. तुझी मुलीसारखी काळजी घेतली जाईल. इथे तुला कोणीही इजा करणार नाही.”\n\nसीतेने नमस्कार केला. अनेक महिन्यांत प्रथमच तिच्या हृदयावरचे एक छोटे ओझे कमी झाले. ऋषींच्या पत्नींनी आणि शिष्यांनी तिचे स्वागत केले. त्यांनी तिला झाडांमध्ये एक कुटी दिली, आणि ती तिथे शांतपणे, साधेपणाने राहिली, झाडांची काळजी घेत, पहाटे प्रार्थना करत.\n\nकालांतराने तिने दोन जुळ्या पुत्रांना जन्म दिला, सकाळ आणि संध्याकाळच्या ताऱ्यांसारखे तेजस्वी. वाल्मीकींनी त्यांची नावे लव आणि कुश ठेवली. आणि सर्वकाही गमावलेली सीता पुन्हा हसली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The poem on the veena",
+    "hi": {
+     "text": "वीणा पर काव्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वीणेवरचे काव्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The boys grew up among the sages, in the golden light of the forest. They climbed the tall trees, swam in the Tamasa, and learned to speak with the deer. Valmiki taught them everything: the Vedas, archery, how to sit still, how to care for others. They grew strong as young lions and gentle as the monks who raised them.\n\nBut the greatest gift Valmiki gave them was a poem.\n\nIt was the one he had composed himself, the story of Rama, in twenty-four thousand verses. He taught them every line. He taught them the melody, and showed them how to accompany it with the veena. They learned the stories of Dasharatha and the four princes, the broken bow, the forest, the golden deer, Hanuman's leap, the battle for Lanka.\n\nThey did not know, at first, that the hero of the poem was their father. Sita listened from her hut as their young voices rose in the evening air, and the verses she knew by heart rang through the trees. She did not say a word. Sometimes, a tear would fall into her cupped hands, and she would smile, as if hearing from far away.",
+    "hi": {
+     "text": "बालक ऋषियों के बीच वन की सुनहरी रोशनी में बड़े हुए। वे ऊँचे पेड़ों पर चढ़ते, तमसा में तैरते, और हिरणों से बात करना सीख गए। वाल्मीकि ने उन्हें सब कुछ सिखाया: वेद, धनुर्विद्या, शांत बैठना, दूसरों की सेवा करना। वे युवा सिंहों जैसे बलवान और उन तपस्वियों जैसे कोमल बने जिन्होंने उन्हें पाला।\n\nपर वाल्मीकि का सबसे बड़ा उपहार एक काव्य था।\n\nवह उनका अपना रचा काव्य था, राम की कथा, चौबीस हज़ार श्लोकों में। उन्होंने उन्हें एक-एक पंक्ति सिखाई। उन्होंने उन्हें धुन सिखाई, और वीणा के साथ उसे बजाना बताया। उन्होंने दशरथ और चार राजकुमारों की, टूटे धनुष की, वन की, सोने के मृग की, हनुमान की छलाँग की, लंका के युद्ध की कथाएँ सीखीं।\n\nवे पहले यह नहीं जानते थे कि काव्य के नायक उनके पिता हैं। सीता अपनी कुटिया से सुनतीं जब उनके कोमल स्वर साँझ की हवा में उठते, और वे श्लोक जो उन्हें कंठस्थ थे, वृक्षों में गूँजते। वे एक शब्द न कहतीं। कभी-कभी एक आँसू उनकी जुड़ी हथेलियों में गिरता, और वे मुस्कुरा देतीं, जैसे दूर से कुछ सुन रही हों।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मुले ऋषींमध्ये, वनाच्या सोनेरी प्रकाशात मोठी झाली. ती उंच झाडांवर चढली, तमसेत पोहली, आणि हरणांशी बोलायला शिकली. वाल्मीकींनी त्यांना सर्व शिकवले: वेद, धनुर्विद्या, शांत कसे बसावे, इतरांची काळजी कशी घ्यावी. ती तरुण सिंहांसारखी बलवान आणि त्यांना वाढवणाऱ्या ऋषींसारखी मृदू झाली.\n\nपण वाल्मीकींनी त्यांना दिलेली सर्वांत मोठी देणगी एक काव्य होते.\n\nते त्यांनी स्वतः रचलेले होते, चोवीस हजार श्लोकांतील रामांची कथा. त्यांनी त्यांना प्रत्येक ओळ शिकवली. त्यांनी त्यांना चाल शिकवली, आणि वीणेची साथ कशी द्यावी ते दाखवले. त्यांनी दशरथाच्या आणि चार राजपुत्रांच्या, मोडलेल्या धनुष्याच्या, वनाच्या, सोनेरी हरणाच्या, हनुमानाच्या उड्डाणाच्या, लंकेच्या युद्धाच्या कथा शिकल्या.\n\nकाव्याचा नायक आपले पिता आहेत हे त्यांना सुरुवातीला माहीत नव्हते. संध्याकाळच्या हवेत त्यांचे तरुण स्वर उठले, आणि तिला मुखोद्गत असलेले श्लोक झाडांतून घुमले, तेव्हा सीता आपल्या कुटीतून ऐकत असे. ती एक शब्दही बोलली नाही. कधी कधी तिच्या ओंजळीत एक अश्रू पडे, आणि ती हसे, जणू दूरवरून काहीतरी ऐकत आहे.",
      "reviewed": false
     }
    }
@@ -148,107 +178,82 @@
    "title": {
     "en": "The horse that would not be caught",
     "hi": {
-     "text": "वह घोड़ा जो पकड़ा न जा सका",
+     "text": "वह घोड़ा जो पकड़ा गया",
      "reviewed": false
     },
     "mr": {
-     "text": "कधीही न पकडला जाणारा घोडा",
+     "text": "पकडता न आलेला घोडा",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Years later Rama performed the great horse ritual, the Ashvamedha. Many tellings, loved across India, say the sacred horse wandered into the forest near the ashram, and Luv and Kush tied it to a tree for fun. When soldiers came, the boys defeated them, and even great warriors could not overcome the two children.",
+    "en": "Many years later, Rama, ruling in Ayodhya, performed the great Ashvamedha, the horse sacrifice. A sacred horse was let loose to roam freely, and any king who stopped it would have to fight Rama's army. A golden image of Sita sat beside Rama at the rites, for he had not married again.\n\nMany tellings, loved across India, say that the horse wandered into the forest near Valmiki's ashram. The boys, who had never seen so beautiful a horse, tied it to a tree for fun and read the golden plate on its forehead: it carried a challenge to all the world. Luv and Kush laughed. “Let them come.”\n\nWhen the soldiers arrived, the two boys, bows in hand, stood their ground. Arrow after arrow flew. The army was driven back. Even great warriors, even Lakshmana and Bharata in some tellings, found they could not overcome the two children. In some versions, Hanuman himself was bound by the boys. He let himself be tied, for he heard Rama's name in their voices and knew them for Rama's own, and his heart melted.",
     "hi": {
-     "text": "वर्षों बाद राम ने महान अश्वमेध यज्ञ किया। भारत भर में प्रिय अनेक कथाएँ कहती हैं कि पवित्र घोड़ा आश्रम के पास वन में भटक आया, और लव-कुश ने खेल-खेल में उसे एक पेड़ से बाँध दिया। जब सैनिक आए, तो बालकों ने उन्हें हरा दिया, और बड़े-बड़े योद्धा भी उन दोनों बच्चों पर विजय न पा सके।",
+     "text": "बहुत वर्षों बाद, अयोध्या में राज करते राम ने महान अश्वमेध यज्ञ किया। एक पवित्र घोड़ा खुला छोड़ा गया कि जहाँ चाहे घूमे, और जो भी राजा उसे रोकेगा, उसे राम की सेना से लड़ना होगा। यज्ञ में राम के पास सीता की स्वर्ण-प्रतिमा बैठी थी, क्योंकि उन्होंने दूसरा विवाह नहीं किया था।\n\nभारत भर में प्रिय अनेक कथाएँ कहती हैं कि घोड़ा वाल्मीकि के आश्रम के पास वन में जा पहुँचा। बालकों ने, जिन्होंने इतना सुंदर घोड़ा कभी नहीं देखा था, खेल-खेल में उसे पेड़ से बाँध दिया और उसके माथे पर लगी सोने की पट्टी पढ़ी: उसमें सारे संसार के लिए चुनौती थी। लव और कुश हँस पड़े। “आने दो उन्हें।”\n\nजब सैनिक आए, तो दोनों बालक धनुष लिए डटे रहे। बाण-पर-बाण उड़े। सेना पीछे धकेल दी गई। बड़े-बड़े योद्धा भी, कुछ कथाओं में तो लक्ष्मण और भरत भी, उन दो बच्चों को हरा न सके। कुछ रूपों में तो हनुमान को भी बालकों ने बाँध लिया। उन्होंने स्वयं को बँधने दिया, क्योंकि उनकी वाणी में उन्होंने राम का नाम सुना और उन्हें राम का अपना जान लिया, और उनका हृदय पिघल गया।",
      "reviewed": false
     },
     "mr": {
-     "text": "वर्षांनंतर रामाने अश्वमेध महायज्ञ केला. भारतभर प्रिय असलेल्या अनेक कथा सांगतात की यज्ञाचा पवित्र घोडा आश्रमाजवळच्या वनात भटकत आला आणि लव-कुशांनी गंमत म्हणून त्याला झाडाला बांधले. सैनिक आले तेव्हा मुलांनी त्यांना हरवले आणि मोठे वीरही त्या दोन बालकांवर मात करू शकले नाहीत.",
+     "text": "अनेक वर्षांनी अयोध्येत राज्य करणाऱ्या रामांनी महान अश्वमेध यज्ञ केला. एक पवित्र घोडा मोकळा सोडला गेला, आणि जो राजा त्याला अडवेल त्याला रामांच्या सैन्याशी लढावे लागणार होते. रामांनी दुसरा विवाह केला नव्हता, म्हणून यज्ञात त्यांच्या शेजारी सीतेची सोन्याची प्रतिमा बसवली गेली होती.\n\nभारतभर प्रिय असलेल्या अनेक कथा सांगतात की घोडा वाल्मीकींच्या आश्रमाजवळच्या वनात भटकत आला. मुलांनी, ज्यांनी इतका सुंदर घोडा कधी पाहिला नव्हता, गंमत म्हणून त्याला झाडाला बांधले आणि त्याच्या कपाळावरची सोनेरी पाटी वाचली: त्यावर साऱ्या जगाला आव्हान होते. लव आणि कुश हसले. “येऊ द्या त्यांना.”\n\nसैनिक आले तेव्हा दोन्ही मुले धनुष्य घेऊन ठामपणे उभी राहिली. बाणामागून बाण सुटले. सैन्य मागे हटवले गेले. महान योद्ध्यांनाही, काही कथांमध्ये लक्ष्मण आणि भरतालाही, त्या दोन मुलांवर मात करता आली नाही. काही कथांमध्ये खुद्द हनुमानाला मुलांनी बांधले. त्याने स्वतःला बांधू दिले, कारण त्यांच्या स्वरात त्याला रामांचे नाव ऐकू आले आणि तो त्यांना रामांचेच मानून हृदयाने वितळला.",
      "reviewed": false
     }
    },
-   "image": 2
+   "image": 1
   },
   {
    "title": {
     "en": "The song in the court",
     "hi": {
-     "text": "सभा में गान",
+     "text": "दरबार में गीत",
      "reviewed": false
     },
     "mr": {
-     "text": "दरबारातील गाणे",
+     "text": "दरबारातले गीत",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Valmiki brought the boys to Ayodhya. In the great assembly, in front of King Rama, they began to sing the Ramayana in their clear young voices: the birth of four princes, the broken bow, the golden deer, Hanuman's leap.\n\nThe court was spellbound. Rama listened with tears running down his face, hearing his own life. When he learned that the singers were Sita's sons, his sons, his heart broke open.",
+    "en": "At last Valmiki hurried to the battlefield, and the fighting ended. The sage took the boys by the hand and led them to Ayodhya, where Rama's sacrifice was being held. In the great assembly, among sages and kings and thousands of citizens, he said, “Let these two boys sing. They know a poem. It is the story of Rama.”\n\nThe two boys stood, dressed as ascetics, with veenas in their hands. They began to sing. Their clear young voices rose through the hall: the birth of four princes, the breaking of the great bow, the forest, the golden deer, the grief of the lost queen, Hanuman's leap, the fall of Ravana.\n\nThe court was spellbound. No one stirred. The sages wept. Rama himself, on the throne, listened with tears running down his cheeks, hearing his own life sung back to him by two strangers. They sang so truly that he felt as though he were living it all again.\n\nWhen he learned, at last, who the singers were, he lowered his head. They were Sita's sons, his sons. His heart broke open, and the song went on.",
     "hi": {
-     "text": "वाल्मीकि बालकों को अयोध्या ले आए। महान सभा में, राजा राम के सामने, उन्होंने अपनी स्पष्ट युवा वाणी में रामायण गानी शुरू की: चार राजकुमारों का जन्म, टूटा धनुष, स्वर्ण मृग, हनुमान की छलाँग।\n\nसभा मंत्रमुग्ध हो गई। राम आँखों से आँसू बहाते सुनते रहे, अपना ही जीवन सुनते हुए। जब उन्हें पता चला कि गायक सीता के पुत्र हैं, उनके अपने पुत्र, तो उनका हृदय फूट पड़ा।",
+     "text": "अंत में वाल्मीकि रणभूमि में दौड़े आए, और युद्ध थम गया। ऋषि बालकों का हाथ पकड़कर उन्हें अयोध्या ले गए, जहाँ राम का यज्ञ हो रहा था। ऋषियों, राजाओं और हज़ारों नागरिकों की उस विशाल सभा में उन्होंने कहा, “इन दो बालकों को गाने दो। ये एक काव्य जानते हैं। वह राम की कथा है।”\n\nदोनों बालक तपस्वी वेश में, हाथों में वीणा लिए खड़े हुए। उन्होंने गाना शुरू किया। उनकी निर्मल युवा वाणी सभा में उठी: चार राजकुमारों का जन्म, महान धनुष का टूटना, वन, सोने का मृग, खोई रानी का शोक, हनुमान की छलाँग, रावण का पतन।\n\nदरबार मंत्रमुग्ध हो गया। कोई नहीं हिला। ऋषि रो पड़े। स्वयं राम सिंहासन पर, गालों पर बहते आँसुओं के साथ, दो अजनबियों के मुख से अपना ही जीवन गाया जाता सुन रहे थे। उन्होंने इतने सच्चे ढंग से गाया कि उन्हें लगा जैसे वे सब कुछ फिर से जी रहे हों।\n\nजब उन्हें अंत में पता चला कि गाने वाले कौन हैं, तो उन्होंने सिर झुका लिया। वे सीता के पुत्र थे, उनके अपने पुत्र। उनका हृदय खुलकर टूट गया, और गीत चलता रहा।",
      "reviewed": false
     },
     "mr": {
-     "text": "वाल्मीकी मुलांना अयोध्येला घेऊन आले. भव्य सभेत, राजा रामासमोर, त्यांनी आपल्या स्वच्छ कोवळ्या आवाजात रामायण गायला सुरुवात केली: चार राजकुमारांचा जन्म, मोडलेले धनुष्य, सोनेरी हरिण, हनुमानाची झेप.\n\nदरबार मंत्रमुग्ध झाला. राम आपले स्वतःचे जीवन ऐकत, चेहऱ्यावरून अश्रू वाहत, ऐकत राहिला. गाणारी मुले सीतेचे पुत्र, त्याचेच पुत्र आहेत हे समजताच त्याचे हृदय उघडले.",
+     "text": "शेवटी वाल्मीकी घाईने रणांगणावर आले, आणि लढाई थांबली. ऋषींनी मुलांचे हात धरून त्यांना अयोध्येला नेले, जिथे रामांचा यज्ञ चालू होता. ऋषी, राजे आणि हजारो नागरिकांच्या त्या मोठ्या सभेत ते म्हणाले, “या दोन मुलांना गाऊ द्या. त्यांना एक काव्य येते. ती रामांची कथा आहे.”\n\nतपस्व्यांच्या वेषातली दोन मुले हातांत वीणा घेऊन उभी राहिली. त्यांनी गायला सुरुवात केली. त्यांचे स्वच्छ तरुण स्वर सभागृहात उठले: चार राजपुत्रांचा जन्म, महान धनुष्याचे भंग, वन, सोनेरी हरीण, हरवलेल्या राणीचे दुःख, हनुमानाचे उड्डाण, रावणाचा अंत.\n\nदरबार मंत्रमुग्ध झाला. कोणीही हलले नाही. ऋषी रडले. खुद्द राम सिंहासनावर बसून गालांवरून अश्रू वाहत ऐकत होते, दोन अनोळखी मुलांकडून आपलेच आयुष्य गायले जात असलेले. ते इतके खरे गात होते की रामांना वाटले जणू ते सारे पुन्हा जगत आहेत.\n\nगायक कोण आहेत हे शेवटी कळले तेव्हा त्यांनी मान झुकवली. ते सीतेचे पुत्र होते, त्यांचेच पुत्र. त्यांचे हृदय उघडले, आणि गीत चालू राहिले.",
      "reviewed": false
     }
    }
-  },
-  {
-   "title": {
-    "en": "The earth's embrace",
-    "hi": {
-     "text": "धरती माँ की गोद",
-     "reviewed": false
-    },
-    "mr": {
-     "text": "पृथ्वीची मिठी",
-     "reviewed": false
-    }
-   },
-   "text": {
-    "en": "Rama asked that Sita come and prove her purity before the whole court. Sita came, dressed simply, eyes lowered, Valmiki beside her. She folded her hands and said: “If I have never thought of anyone but Rama, may Mother Earth take me back.”\n\nThe ground opened. A golden throne rose up, and the goddess Earth took her daughter in her arms. Sita, born from a furrow in the earth, returned to it. Flowers rained from the sky. Rama ruled for many more years, a king with a grieving heart, and Sita's dignity still shines brighter than any crown.",
-    "hi": {
-     "text": "राम ने कहा कि सीता आकर पूरी सभा के सामने अपनी पवित्रता प्रमाणित करें। सीता आईं, सादे वस्त्रों में, नज़रें झुकाए, वाल्मीकि उनके साथ। उन्होंने हाथ जोड़कर कहा: “यदि मैंने राम के सिवा किसी का चिंतन नहीं किया, तो धरती माता मुझे अपनी गोद में ले लें।”\n\nधरती फट गई। एक स्वर्ण सिंहासन ऊपर उठा, और देवी पृथ्वी ने अपनी पुत्री को बाँहों में ले लिया। धरती की हल-रेखा से जन्मी सीता उसी में लौट गईं। आकाश से फूल बरसे। राम ने और भी बहुत वर्षों तक राज किया, शोकग्रस्त हृदय वाले राजा के रूप में, और सीता की गरिमा आज भी किसी भी मुकुट से अधिक दमकती है।",
-     "reviewed": false
-    },
-    "mr": {
-     "text": "रामाने सीतेला संपूर्ण दरबारासमोर येऊन आपली पवित्रता सिद्ध करण्यास सांगितले. सीता साधी वस्त्रे नेसून, नजर खाली, शेजारी वाल्मीकींसह आली. तिने हात जोडले आणि म्हणाली: “मी रामाशिवाय दुसऱ्या कोणाचाही विचार केला नसेल, तर माता पृथ्वीने मला पोटात घ्यावे.”\n\nभूमी दुभंगली. एक सोन्याचे सिंहासन वर आले आणि पृथ्वीदेवीने आपल्या कन्येला कवेत घेतले. नांगराच्या तासातून जन्मलेली सीता पुन्हा धरणीमध्ये विलीन झाली. आकाशातून फुलांचा वर्षाव झाला. राम पुढे अनेक वर्षे राज्य करत राहिला, दुःखी हृदयाचा राजा, आणि सीतेचे तेज आजही कोणत्याही मुकुटापेक्षा अधिक झळकते.",
-     "reviewed": false
-    }
-   },
-   "image": 1
   }
  ],
  "reflect": {
-  "en": "Sita stood in her truth without anger or begging. Think of a time you were misjudged. Can you hold your truth calmly, without needing everyone to agree?",
+  "en": "Sita stood in her truth without anger or begging, and her sons grew up singing with love for a father they had never met. Think of a time you were misjudged. Can you hold your truth calmly, without needing everyone to agree?",
   "hi": {
-   "text": "सीता अपने सत्य पर खड़ी रहीं, न क्रोध से, न गिड़गिड़ाकर। उस समय को याद कीजिए जब आपको गलत समझा गया। क्या आप शांति से अपने सत्य पर टिके रह सकते हैं, बिना यह चाहे कि सब सहमत हों?",
+   "text": "सीता अपने सत्य पर क्रोध और याचना के बिना खड़ी रहीं, और उनके पुत्र उस पिता के प्रेम में गाते बड़े हुए जिनसे वे कभी मिले नहीं थे। कोई ऐसा समय सोचिए जब आपको ग़लत समझा गया। क्या आप शांति से अपने सत्य पर टिके रह सकते हैं, बिना यह चाहे कि सब सहमत हों?",
    "reviewed": false
   },
   "mr": {
-   "text": "सीता रागाशिवाय आणि याचनेशिवाय आपल्या सत्यात उभी राहिली. तुमचा गैरसमज झाला होता तो काळ आठवा. प्रत्येकाने सहमत व्हावे असे न वाटता तुम्ही शांतपणे आपले सत्य धरून राहू शकता का?",
+   "text": "सीता कोणताही राग किंवा याचना न करता आपल्या सत्यात उभी राहिली, आणि तिची मुले कधी न भेटलेल्या पित्याबद्दलच्या प्रेमाने गात मोठी झाली. तुमच्यावर चुकीचा आळ आला होता असा एखादा प्रसंग आठवा. प्रत्येकाने सहमत व्हायची गरज न ठेवता तुम्ही आपले सत्य शांतपणे धरून राहू शकाल का?",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "Truth and dignity need no one's approval; and the story we live becomes the song others sing.",
+  "en": "Truth and dignity need no one's approval, and the story we live becomes the song others sing.",
   "hi": {
-   "text": "सत्य और गरिमा को किसी की स्वीकृति नहीं चाहिए; और जो कथा हम जीते हैं, वही आगे चलकर दूसरों का गीत बन जाती है।",
+   "text": "सत्य और गरिमा को किसी की स्वीकृति नहीं चाहिए, और जो कथा हम जीते हैं वही गीत बनकर दूसरे गाते हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "सत्य आणि प्रतिष्ठेला कोणाच्याही मान्यतेची गरज नसते; आणि आपण जगतो ती कथाच इतरांचे गाणे बनते.",
+   "text": "सत्य आणि प्रतिष्ठेला कोणाच्याही मान्यतेची गरज नसते, आणि आपण जगतो ती कथाच इतर जण गातात असे गीत बनते.",
    "reviewed": false
   }
  },
  "source": {
-  "en": "Valmiki Ramayana, Uttara Kanda; popular tellings (the horse ritual)",
+  "en": "Valmiki Ramayana, Uttara Kanda; popular tellings (the horse ritual and the boys' battle)",
   "hi": {
-   "text": "वाल्मीकि रामायण, उत्तरकांड; लोक कथाएँ (अश्वमेध यज्ञ)",
+   "text": "वाल्मीकि रामायण, उत्तरकांड; लोक-कथाएँ (अश्वमेध का घोड़ा और बालकों का युद्ध)",
    "reviewed": false
   },
   "mr": {
-   "text": "वाल्मीकी रामायण, उत्तरकांड; लोककथा (अश्वमेध यज्ञ)",
+   "text": "वाल्मीकी रामायण, उत्तरकांड; लोककथा (अश्वमेधाचा घोडा आणि मुलांचे युद्ध)",
    "reviewed": false
   }
  }

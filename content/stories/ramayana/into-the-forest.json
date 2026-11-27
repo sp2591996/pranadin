@@ -1,0 +1,266 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "into-the-forest",
+ "order": 9,
+ "part": "ayodhya",
+ "figure": {
+  "en": "Sita and Lakshmana",
+  "hi": {
+   "text": "सीता और लक्ष्मण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीता आणि लक्ष्मण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Where you are is Ayodhya",
+  "hi": {
+   "text": "जहाँ आप हैं, वहीं अयोध्या है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जिथे तुम्ही, तिथे अयोध्या",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Three travellers in bark clothes leave a weeping city behind. At the edge of the great river, a boatman will not move his boat.",
+  "hi": {
+   "text": "वल्कल पहने तीन यात्री रोते हुए नगर को पीछे छोड़ जाते हैं। महानदी के तट पर एक केवट अपनी नाव आगे नहीं बढ़ाता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वल्कले नेसलेले तिघे प्रवासी रडणारी नगरी मागे सोडतात. महान नदीच्या काठी एक नावाडी आपली होडी हलवायलाच तयार नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/into-the-forest-1.webp",
+   "w": 610,
+   "h": 1100,
+   "caption": {
+    "en": "Rama, Sita and Lakshmana leave the palace for exile (Indian painting)",
+    "hi": {
+     "text": "राम, सीता और लक्ष्मण वनवास के लिए महल छोड़ते हैं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम, सीता आणि लक्ष्मण वनवासासाठी राजवाडा सोडतात (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rama,_Sita_and_Lakshmana_leaving_the_palace_of_Ayodhya_for_exile.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Sita will not stay",
+    "hi": {
+     "text": "सीता नहीं रुकेंगी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीता थांबणार नाही",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Rama went to tell Sita. “I must go to the forest for fourteen years,” he said. “Stay here, serve my mother, and be safe.”\n\nShe did not weep. She stood straight, and her voice was quiet. “Is that what you truly want? The wife is the half of her husband’s life. Where you go, I go. Wherever you are, that is Ayodhya for me. The forest with you is better than a palace without you.”\n\n“The forest is hard,” Rama said gently. “Thorns, rain, hunger, wild animals.”\n\n“Thorns will be soft under your feet,” she answered, “and I would sooner starve beside you than feast alone. Do not leave me behind. If you do, I do not know what my life will be.” Her eyes held his, as steady as a flame in a windless room.\n\nRama had never been able to refuse her anything, and he saw now that she was not asking for permission. She was telling him who she was. He smiled, took her hand, and said, “Then come.”",
+    "hi": {
+     "text": "राम सीता को बताने गए। “मुझे चौदह वर्ष वन में रहना है,” उन्होंने कहा। “तुम यहीं रहो, मेरी माँ की सेवा करो, और सुरक्षित रहो।”\n\nवे रोईं नहीं। वे सीधी खड़ी रहीं, और उनका स्वर शांत था। “क्या आप सचमुच यही चाहते हैं? पत्नी पति के जीवन का आधा अंग होती है। जहाँ आप जाएँगे, मैं जाऊँगी। आप जहाँ हैं, वही मेरे लिए अयोध्या है। आपके साथ वन महल से अच्छा है, आपके बिना महल से बुरा।”\n\n“वन कठिन है,” राम ने कोमलता से कहा। “काँटे, वर्षा, भूख, हिंसक पशु।”\n\n“आपके चरणों के नीचे काँटे भी कोमल हो जाएँगे,” उन्होंने उत्तर दिया, “और मैं अकेले भोज करने से आपके साथ भूखी रहना पसंद करूँगी। मुझे पीछे मत छोड़िए। यदि छोड़ गए, तो मैं नहीं जानती मेरा जीवन कैसा होगा।” उनकी आँखें राम की आँखों में थीं, निर्वात कक्ष की लौ की तरह स्थिर।\n\nराम उन्हें कभी किसी बात के लिए मना नहीं कर पाए थे, और अब उन्होंने देखा कि वे अनुमति नहीं माँग रहीं, वे बता रही हैं कि वे कौन हैं। वे मुस्कुराए, उनका हाथ थामा और कहा, “तो चलो।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम सीतेला सांगायला गेला. “मला चौदा वर्षे वनात जायचे आहे,” तो म्हणाला. “तू इथेच राहा, माझ्या मातेची सेवा कर आणि सुरक्षित राहा.”\n\nती रडली नाही. ती ताठ उभी राहिली आणि तिचा आवाज शांत होता. “तुमची खरंच हीच इच्छा आहे का? पत्नी पतीच्या जीवनाचा अर्धा भाग असते. जिथे तुम्ही जाल तिथे मी येईन. जिथे तुम्ही असाल, तीच माझ्यासाठी अयोध्या. तुमच्याशिवायच्या महालापेक्षा तुमच्यासोबतचे वन श्रेष्ठ.”\n\n“वन कठीण असते,” राम हळू म्हणाला. “काटे, पाऊस, भूक, हिंस्र प्राणी.”\n\n“तुमच्या पावलांखाली काटे मऊ होतील,” ती म्हणाली, “आणि एकटीने मेजवानी करण्यापेक्षा तुमच्या शेजारी उपाशी राहणे मला प्रिय. मला मागे सोडू नका. सोडलेत, तर माझे आयुष्य काय होईल हे मला ठाऊक नाही.” तिची नजर वाऱ्याशिवायच्या खोलीतल्या ज्योतीसारखी स्थिर होती.\n\nरामाला तिला कधीही नकार देता आला नव्हता, आणि आता त्याला दिसले की ती परवानगी मागत नाही. ती तो कोण आहे हे त्याला सांगत आहे. तो हसला, तिचा हात धरला आणि म्हणाला, “तर चल.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Lakshmana’s vow",
+    "hi": {
+     "text": "लक्ष्मण का प्रण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लक्ष्मणाची प्रतिज्ञा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Lakshmana was waiting at the door. He had heard it all, and he had made up his mind long ago. He fell at Rama’s feet. “Brother, take me too. I cannot live a day without you. You and Sita will need someone to guard you at night while you sleep. Let that be my work.”\n\n“Your mother Sumitra and your wife need you,” said Rama.\n\n“Sumitra has blessed me already,” said Lakshmana, and indeed she had. When he asked his mother, she held him close and said only: “Treat Rama as your father, and Sita as your mother, and the forest as Ayodhya. Go, my son, and do not look back.”\n\nLakshmana vowed that for fourteen years he would not sleep and not rest, and that he would serve them day and night. He stood up and tied a cloth around his waist, a servant now, no longer a prince. In his eyes, there was no sadness at all. Only the joy of a man who has found his purpose.",
+    "hi": {
+     "text": "लक्ष्मण द्वार पर प्रतीक्षा कर रहे थे। उन्होंने सब सुन लिया था, और अपना निश्चय बहुत पहले कर चुके थे। वे राम के चरणों में गिर पड़े। “भैया, मुझे भी ले चलिए। मैं आपके बिना एक दिन भी नहीं जी सकता। जब आप और भाभी सोएँगे, तब रात को पहरा देने के लिए किसी की आवश्यकता होगी। वह काम मेरा हो।”\n\n“तुम्हारी माँ सुमित्रा और तुम्हारी पत्नी को तुम्हारी आवश्यकता है,” राम ने कहा।\n\n“माता सुमित्रा मुझे आशीर्वाद दे चुकी हैं,” लक्ष्मण बोले, और सचमुच ऐसा ही था। जब उन्होंने माँ से पूछा, तो उन्होंने उन्हें हृदय से लगाकर केवल इतना कहा: “राम को पिता, सीता को माता, और वन को अयोध्या समझना। जाओ, बेटा, और मुड़कर मत देखना।”\n\nलक्ष्मण ने प्रण लिया कि चौदह वर्ष वे न सोएँगे, न विश्राम करेंगे, और दिन-रात उनकी सेवा करेंगे। वे उठे और कमर में वस्त्र कस लिया, अब राजकुमार नहीं, सेवक। उनकी आँखों में कोई उदासी न थी। केवल उस मनुष्य का आनंद था जिसे अपना उद्देश्य मिल गया हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लक्ष्मण दाराशी वाट पाहत उभा होता. त्याने सारे ऐकले होते, आणि त्याने आपला निर्णय फार पूर्वीच घेतला होता. तो रामाच्या पायांवर कोसळला. “दादा, मलाही घे. मी तुमच्याशिवाय एक दिवसही जगू शकत नाही. तुम्ही आणि वहिनी झोपल्यावर रात्री तुमचे रक्षण करायला कोणीतरी हवे. ते काम मला करू द्या.”\n\n“तुझी माता सुमित्रा आणि तुझी पत्नी यांना तुझी गरज आहे,” राम म्हणाला.\n\n“सुमित्रामातेने मला आधीच आशीर्वाद दिला आहे,” लक्ष्मण म्हणाला, आणि खरोखर तसेच झाले होते. त्याने मातेला विचारले तेव्हा तिने त्याला जवळ घेतले आणि इतकेच म्हणाली, “रामाला पिता, सीतेला माता आणि वनाला अयोध्या समज. जा, पुत्रा, आणि मागे वळून पाहू नकोस.”\n\nचौदा वर्षे आपण झोपणार नाही, विश्रांती घेणार नाही, आणि रात्रंदिवस दोघांची सेवा करू, अशी प्रतिज्ञा लक्ष्मणाने केली. तो उठला आणि कमरेला वस्त्र बांधले, आता राजकुमार नव्हे तर सेवक. त्याच्या डोळ्यांत दुःखाचा लवलेशही नव्हता. फक्त ज्याला आपले जीवितकार्य सापडले आहे अशा माणसाचा आनंद होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The one who stayed behind",
+    "hi": {
+     "text": "जो पीछे रह गई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मागे राहिलेली ती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There was one more farewell, and it is told by the people more than by Valmiki. A much-loved tradition remembers Urmila, Lakshmana’s young wife, Sita’s own sister. She did not ask to go. She did not cry out or make demands.\n\nShe understood that if Lakshmana was to guard his brother for fourteen years without sleep, someone had to carry his sleep for him. So, the old stories tell, Urmila took upon herself a deep sleep that lasted the whole exile, while her husband stayed awake beside his brother in the forest. Her sacrifice was silent, with no song and no witness.\n\nWhen she said goodbye to Lakshmana, she smiled. “Go. Do your work. I will be here when you return.” She held the lamp at the palace door until the last footstep faded.\n\nIt is a quiet thing to be left behind, and to be the one who keeps a home alive while others walk into the story. Remember Urmila, and the many women and men whose love is the unsung foundation of every great journey.",
+    "hi": {
+     "text": "एक और विदाई थी, जिसे वाल्मीकि से अधिक लोक ने कहा है। एक प्रिय परंपरा लक्ष्मण की युवा पत्नी, सीता की अपनी बहन उर्मिला को याद करती है। उसने साथ चलने को नहीं कहा। वह रोई-चिल्लाई नहीं, कोई माँग नहीं रखी।\n\nवह समझती थी कि यदि लक्ष्मण को चौदह वर्ष बिना सोए अपने भाई की रक्षा करनी है, तो किसी को उनकी नींद भी तो सँभालनी होगी। इसलिए, पुरानी कथाएँ कहती हैं, उर्मिला ने स्वयं पर गहरी निद्रा ओढ़ ली जो पूरे वनवास भर चली, जबकि उसके पति वन में अपने भाई के पास जागते रहे। उसका त्याग मौन था, न कोई गीत, न कोई साक्षी।\n\nजब उसने लक्ष्मण को विदा किया, तो वह मुस्कुराई। “जाइए। अपना कर्तव्य निभाइए। जब आप लौटेंगे, मैं यहीं मिलूँगी।” वह महल के द्वार पर दीप थामे खड़ी रही, जब तक अंतिम पदचाप भी मिट न गई।\n\nपीछे छूट जाना, और दूसरे जब कथा में चल पड़ें तब घर को जीवित रखना, एक शांत बात है। उर्मिला को याद कीजिए, और उन अनेक स्त्री-पुरुषों को, जिनका प्रेम हर महान यात्रा की अनगाई नींव है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आणखी एक निरोप होता, आणि तो वाल्मीकींपेक्षा लोकांच्या कथांतून अधिक सांगितला जातो. एक लाडकी परंपरा उर्मिलेची आठवण जपते, लक्ष्मणाची तरुण पत्नी, सीतेची सख्खी बहीण. तिने सोबत येण्याची मागणी केली नाही. तिने आक्रोश केला नाही, हट्ट धरला नाही.\n\nतिला उमगले की चौदा वर्षे लक्ष्मणाने भावाचे रक्षण झोपेविना करायचे असेल, तर त्याची झोप कोणीतरी वाहायला हवी. म्हणून, जुन्या कथा सांगतात, उर्मिलेने गाढ झोप स्वतःवर घेतली जी संपूर्ण वनवासभर टिकली, तर तिचा पती वनात आपल्या भावाशेजारी जागा राहिला. तिचा त्याग मूक होता, गीताविना आणि साक्षीदाराविना.\n\nलक्ष्मणाचा निरोप घेताना ती हसली. “जा. तुमचे कार्य करा. तुम्ही परत याल तेव्हा मी इथे असेन.” शेवटचा पदरव विरेपर्यंत तिने महालाच्या दारात दिवा धरला होता.\n\nमागे राहणे, आणि इतर कथेत चालत निघाले असताना घर जिवंत ठेवणारी असणे, ही शांत गोष्ट आहे. उर्मिलेची आणि अशा अनेक स्त्री-पुरुषांची आठवण ठेवा ज्यांचे प्रेम प्रत्येक महान प्रवासाचा न गायलेला पाया असते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The city runs after the chariot",
+    "hi": {
+     "text": "रथ के पीछे दौड़ता नगर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रथामागे धावणारी नगरी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kausalya embraced her son, trembling. “I cannot stop you, Rama. Go, with my blessing. May dharma protect you, as you protect it.” She took Sita’s hands and whispered, “Take care of him.”\n\nThe three put on clothes of bark and took their bows. The charioteer Sumantra, grey with sorrow, drove them out through the palace gate.\n\nThe whole city followed. People ran behind the chariot, crying, shouting: “Stop, Sumantra! Stop the horses!” Dust rose in clouds. Old men stumbled. Mothers carried babies. Many caught hold of the wheels and wept.\n\nRama, standing in the chariot, could not bear to look back. “Drive faster,” he said softly to Sumantra, because he knew that every moment he lingered, the crowd would suffer more.\n\nThat night, on the bank of the river Tamasa, he slept on the ground. In the pre-dawn darkness, while the crowd slept, Rama woke Sumantra, and they quietly drove on, so that the people could return home. When they woke, the chariot was gone, and the loss struck them anew.",
+    "hi": {
+     "text": "कौशल्या ने काँपते हुए पुत्र को गले लगाया। “मैं तुम्हें रोक नहीं सकती, राम। जाओ, मेरे आशीर्वाद के साथ। धर्म तुम्हारी रक्षा करे, जैसे तुम उसकी करते हो।” उन्होंने सीता के हाथ थामे और फुसफुसाकर कहा, “इसका ध्यान रखना।”\n\nतीनों ने वल्कल वस्त्र पहने और धनुष उठाए। सारथी सुमंत्र ने, शोक से पीले पड़े हुए, उन्हें महल के द्वार से बाहर पहुँचाया।\n\nपूरा नगर पीछे चल पड़ा। लोग रथ के पीछे रोते-चिल्लाते दौड़े: “रुको, सुमंत्र! घोड़े रोक लो!” धूल के बादल उठे। बूढ़े लड़खड़ाए। माताएँ बच्चों को गोद में लिए थीं। अनेक ने पहिए थाम लिए और रो पड़े।\n\nरथ में खड़े राम पीछे मुड़कर देखने का साहस न कर सके। “और तेज़ चलाओ,” उन्होंने सुमंत्र से धीरे कहा, क्योंकि वे जानते थे कि जितनी देर वे रुकेंगे, भीड़ उतना और कष्ट पाएगी।\n\nउस रात तमसा नदी के तट पर वे भूमि पर सोए। भोर से पहले के अँधेरे में, जब भीड़ सो रही थी, राम ने सुमंत्र को जगाया, और वे चुपचाप आगे बढ़ गए, ताकि लोग घर लौट सकें। जब वे जागे, रथ जा चुका था, और वह वियोग उन पर फिर नए सिरे से टूट पड़ा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कौसल्येने थरथरत मुलाला आलिंगन दिले. “मी तुला थांबवू शकत नाही, राम. जा, माझ्या आशीर्वादासह. जसा तू धर्माचे रक्षण करतोस, तसा धर्म तुझे रक्षण करो.” तिने सीतेचे हात धरले आणि कुजबुजली, “याची काळजी घे.”\n\nतिघांनी वल्कले नेसली आणि धनुष्ये घेतली. दुःखाने राखाडी झालेल्या सारथी सुमंत्रांनी त्यांना महालाच्या दारातून बाहेर नेले.\n\nसारी नगरी मागे धावली. लोक रथामागे रडत, ओरडत धावले: “थांब, सुमंत्र! घोडे थांबव!” धुळीचे ढग उठले. वृद्ध अडखळले. माता बाळे घेऊन धावल्या. अनेकांनी चाके धरली आणि ते रडले.\n\nरथात उभ्या रामाला मागे वळून पाहवले नाही. “अधिक वेगाने हाक,” तो सुमंत्रांना हळू म्हणाला, कारण तो जितका रेंगाळेल तितके जनसमुदायाचे हाल वाढतील हे त्याला ठाऊक होते.\n\nत्या रात्री तमसेच्या काठी तो जमिनीवर झोपला. पहाटेपूर्वीच्या अंधारात लोक झोपलेले असताना रामाने सुमंत्रांना उठवले, आणि ते शांतपणे पुढे निघाले, म्हणजे लोक घरी परत जातील. ते जागे झाले तेव्हा रथ गेला होता, आणि त्यांना पुन्हा नव्याने तो आघात बसला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Guha the boatman king",
+    "hi": {
+     "text": "निषादराज गुह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नावाडी राजा गुह",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They drove on through the day and at last reached the bank of the Ganga, at Shringaverapura, where the king of the Nishadas, Guha, ruled. Guha was a hunter and boatman, rough in appearance and soft in heart. When he heard that Rama, the prince he had loved from a distance, was standing at his gate, he came running with food, honey, fruit and a whole fleet of boats.\n\n“My lord, this is your home too. Stay, and rule my land.” Rama gently refused. He would accept nothing but what an ascetic needs.\n\nThat night, Lakshmana sat awake beneath a tree, bow at his side, watching over his sleeping brother and sister-in-law. Guha sat with him. The hunter looked at the two sleeping on a bed of leaves and began to weep. Only the day before, they had slept on silk.\n\n“Do not weep,” said Lakshmana quietly. “They are not suffering. They are where they chose to be.” And the river hummed in the dark.",
+    "hi": {
+     "text": "वे दिन भर चलते रहे और अंततः श्रृंगवेरपुर में गंगा के तट पर पहुँचे, जहाँ निषादों के राजा गुह राज करते थे। गुह शिकारी और केवट थे, रूप से खुरदरे और हृदय से कोमल। जब उन्होंने सुना कि राम, वह राजकुमार जिसे वे दूर से ही प्रेम करते आए थे, उनके द्वार पर खड़े हैं, तो वे भोजन, मधु, फल और नावों का पूरा बेड़ा लेकर दौड़े आए।\n\n“प्रभु, यह आपका ही घर है। रुकिए, और मेरे राज्य पर शासन कीजिए।” राम ने कोमलता से मना कर दिया। वे केवल उतना ही स्वीकार करेंगे जितना तपस्वी को चाहिए।\n\nउस रात लक्ष्मण एक वृक्ष के नीचे जागते बैठे रहे, धनुष बगल में, सोते हुए भाई और भाभी की रखवाली करते। गुह उनके साथ बैठे थे। शिकारी ने पत्तों की शय्या पर सोए उन दोनों को देखा और रो पड़ा। बस कल ही तो वे रेशम पर सोए थे।\n\n“मत रोइए,” लक्ष्मण ने धीरे से कहा। “वे दुख में नहीं हैं। वे वहीं हैं जहाँ उन्होंने स्वयं होना चुना है।” और नदी अँधेरे में गुनगुनाती रही।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिवसभर प्रवास करून ते शेवटी गंगेच्या काठी शृंगवेरपुराला पोहोचले, जिथे निषादांचा राजा गुह राज्य करत होता. गुह शिकारी आणि नावाडी होता, दिसायला रांगडा आणि मनाने कोमल. दुरून प्रेम केलेला राजकुमार राम आपल्या दारात उभा आहे हे ऐकताच तो अन्न, मध, फळे आणि नौकांचा ताफा घेऊन धावत आला.\n\n“प्रभू, हे तुमचेही घर आहे. इथे राहा आणि माझ्या भूमीवर राज्य करा.” रामाने सौम्यपणे नकार दिला. तपस्व्याला जे लागते त्याशिवाय तो काहीही स्वीकारणार नव्हता.\n\nत्या रात्री लक्ष्मण झाडाखाली धनुष्य शेजारी ठेवून जागा बसला, झोपलेल्या भावाचे आणि वहिनीचे रक्षण करत. गुह त्याच्यासोबत बसला. पानांच्या शय्येवर झोपलेल्या त्या दोघांकडे पाहून शिकारी रडू लागला. केवळ एक दिवस आधी ते रेशमावर झोपले होते.\n\n“रडू नका,” लक्ष्मण हळू म्हणाला. “ते दुःखात नाहीत. त्यांनी निवडलेल्या जागी ते आहेत.” आणि अंधारात नदी गुणगुणत राहिली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Washing the feet",
+    "hi": {
+     "text": "चरण पखारना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चरणप्रक्षालन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At dawn, Sumantra took the empty chariot home, in tears, and Rama asked for a boat to cross the Ganga. Here Valmiki is brief, but the poet Tulsidas tells a beloved tale in his Ramcharitmanas, and it is told in villages to this day.\n\nThe boatman, Kevat, would not bring the boat. “I know your secret,” he said. “They say the dust of your feet turns stone into a woman. If my wooden boat touches your feet, it may turn into a woman too, and then how will I feed my family? Let me wash your feet first, and then you may board.”\n\nRama laughed, and Sita smiled behind her veil. Kevat brought a wooden bowl, and with the tenderest care he washed Rama’s feet, and drank the water, saying that his whole family was now saved from the cycle of birth and death.\n\nThen he rowed them across, singing under his breath. On the far shore, Rama wished to pay him, but Kevat bowed. “You and I are of one profession, Lord. I ferry people across a river. You ferry them across the world. Let me ask only this: when I am at the shore of that great river, carry me over for free.” Rama smiled and agreed.",
+    "hi": {
+     "text": "भोर में सुमंत्र खाली रथ लेकर रोते हुए लौटे, और राम ने गंगा पार करने को नाव माँगी। यहाँ वाल्मीकि संक्षेप में कहते हैं, पर कवि तुलसीदास ने अपने रामचरितमानस में एक प्रिय कथा कही है, जो आज भी गाँव-गाँव सुनाई जाती है।\n\nकेवट नाव लाने को तैयार न हुआ। “मैं आपका भेद जान गया हूँ,” उसने कहा। “लोग कहते हैं कि आपके चरणों की धूल पत्थर को स्त्री बना देती है। यदि मेरी लकड़ी की नाव आपके चरणों को छू गई, तो वह भी स्त्री बन सकती है, और फिर मैं अपने परिवार का पेट कैसे भरूँगा? पहले मुझे आपके चरण धो लेने दीजिए, फिर आप चढ़िए।”\n\nराम हँस पड़े, और सीता घूँघट में मुस्कुराईं। केवट एक काठ की कठौती लाया, और अत्यंत कोमलता से राम के चरण पखारे, फिर वह जल पी लिया, यह कहते हुए कि अब उसका पूरा कुल जन्म-मृत्यु के चक्र से तर गया।\n\nफिर वह उन्हें पार ले गया, मन-ही-मन गाता हुआ। दूसरे तट पर राम उसे उतराई देना चाहते थे, पर केवट ने प्रणाम किया। “प्रभु, आप और मैं एक ही पेशे के हैं। मैं लोगों को नदी पार कराता हूँ। आप उन्हें भवसागर पार कराते हैं। मैं बस इतना माँगता हूँ: जब मैं उस महान नदी के तट पर पहुँचूँ, तो मुझे बिना उतराई पार करा देना।” राम मुस्कुराए और मान गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटे सुमंत्र रिकामा रथ घेऊन अश्रू गाळत घरी निघाले, आणि रामाने गंगा ओलांडण्यासाठी होडी मागितली. इथे वाल्मीकी थोडक्यात सांगतात, पण कवी तुलसीदास आपल्या रामचरितमानसात एक प्रिय कथा सांगतात, आणि ती आजही गावोगावी सांगितली जाते.\n\nनावाडी केवट होडी आणायला तयारच नव्हता. “मला तुमचे रहस्य माहीत आहे,” तो म्हणाला. “म्हणतात, तुमच्या चरणांच्या धुळीने दगडाची स्त्री होते. माझ्या लाकडी होडीला तुमचे चरण लागले तर तीही स्त्री झाली, तर मी माझ्या कुटुंबाला कसे पोसू? आधी मला तुमचे पाय धुऊ द्या, मग तुम्ही बसा.”\n\nराम हसला आणि सीता पदराआड हसली. केवटाने लाकडी परात आणली, अत्यंत प्रेमाने रामाचे चरण धुतले आणि ते जल प्राशन केले, म्हणाला की आता त्याचे सारे कुटुंब जन्ममृत्यूच्या चक्रातून तरून गेले.\n\nमग त्याने त्यांना नदीपार नेले, मनातल्या मनात गुणगुणत. पलीकडच्या काठी रामाला त्याला मोबदला द्यायचा होता, पण केवटाने नमस्कार केला. “प्रभू, तुमचा आणि माझा धंदा एकच. मी लोकांना नदीपार करतो. तुम्ही त्यांना भवसागर पार करता. मला एवढेच मागू द्या: त्या महान नदीच्या काठावर मी असेन, तेव्हा मला फुकट पार न्या.” राम हसला आणि मान्य केले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "मागी नाव न केवटु आना। कहइ तुम्हार मरमु मैं जाना॥",
+  "cite": {
+   "en": "Ramcharitmanas of Tulsidas, Ayodhya Kanda (the boatman Kevat)",
+   "hi": {
+    "text": "तुलसीदास कृत रामचरितमानस, अयोध्याकांड (केवट प्रसंग)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "तुलसीदासांचे रामचरितमानस, अयोध्याकांड (नावाडी केवट)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Rama asked for the boat, but the boatman would not bring it: ‘I know your secret,’ he said.",
+   "hi": {
+    "text": "राम ने नाव माँगी, पर केवट नाव नहीं लाया। बोला, “मैं आपका भेद जान गया हूँ।”",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "रामाने होडी मागितली, पण नावाडी ती आणायला तयार नव्हता. “मला तुमचे रहस्य ठाऊक आहे,” तो म्हणाला.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Sita, Lakshmana, Urmila and Kevat each gave something no one could see on a list: presence, sleep, patience, a bowl of water. Whose quiet gift do you take for granted at home? Thank them today, out loud.",
+  "hi": {
+   "text": "सीता, लक्ष्मण, उर्मिला और केवट, सबने कुछ ऐसा दिया जो किसी सूची में नहीं दिखता: साथ, नींद, धैर्य, एक कठौती जल। घर में किसके मौन योगदान को आप सहज मान लेते हैं? आज उन्हें ज़ोर से धन्यवाद कहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीता, लक्ष्मण, उर्मिला आणि केवट यांनी, यादीत न दिसणारे असे काहीतरी दिले: सहवास, झोप, धीर, एक परात पाणी. घरात कोणाची शांत देणगी तुम्ही गृहीत धरता? आज त्यांना मोठ्याने धन्यवाद द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love shows itself in what we are willing to share, to give up, and to carry for another.",
+  "hi": {
+   "text": "प्रेम इसमें दिखता है कि हम दूसरे के लिए क्या बाँटने, क्या छोड़ने और क्या ढोने को तैयार हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रेम हे इतरांसाठी काय वाटून घ्यायला, सोडायला आणि वाहायला आपण तयार असतो त्यातून दिसते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Ayodhya Kanda; popular tradition (Urmila’s sleep); Ramcharitmanas of Tulsidas (Kevat washes Rama’s feet)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, अयोध्याकांड; लोक परंपरा (उर्मिला की निद्रा); तुलसीदास कृत रामचरितमानस (केवट द्वारा राम के चरण पखारना)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, अयोध्याकांड; लोकपरंपरा (उर्मिलेची झोप); तुलसीदासांचे रामचरितमानस (केवट रामाचे चरण धुतो)",
+   "reviewed": false
+  }
+ }
+}

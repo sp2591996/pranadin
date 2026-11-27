@@ -1,0 +1,285 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "ashoka-grove",
+ "order": 22,
+ "part": "sundara",
+ "figure": {
+  "en": "Sita and Hanuman",
+  "hi": {
+   "text": "सीता और हनुमान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीता आणि हनुमान",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "A blade of grass against a king",
+  "hi": {
+   "text": "एक राजा के सामने तिनके की ओट",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजासमोर गवताची काडी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In a grove of golden light, a woman sits under a tree, guarded by demons. She has one weapon against the most powerful king on earth: a single blade of grass.",
+  "hi": {
+   "text": "सुनहरी आभा वाली वाटिका में, राक्षसियों के पहरे में, एक स्त्री पेड़ के नीचे बैठी है। धरती के सबसे शक्तिशाली राजा के सामने उसके पास बस एक हथियार है: घास का एक तिनका।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सोनेरी प्रकाशाने भरलेल्या वनात एक स्त्री राक्षसींच्या पहाऱ्यात झाडाखाली बसली आहे. पृथ्वीवरच्या सर्वांत बलवान राजासमोर तिच्याकडे एकच शस्त्र आहे: गवताची एक काडी.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/great-leap-2.webp",
+   "w": 459,
+   "h": 652,
+   "caption": {
+    "en": "Hanuman finds Sita in the Ashoka grove and shows her Rama's ring (popular print)",
+    "hi": {
+     "text": "अशोक वाटिका में हनुमान सीता को राम की अंगूठी दिखाते हैं (लोकप्रिय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अशोक वनात हनुमान सीतेला रामाची अंगठी दाखवतात (लोकप्रिय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "MV Sharma printed by Anant Shivaji Desai, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanuman_finds_Sita_in_the_ashoka_grove,_and_shows_her_Rama%27s_ring.jpg"
+  },
+  {
+   "src": "/stories/ramayana/ashoka-grove-1.webp",
+   "w": 512,
+   "h": 787,
+   "caption": {
+    "en": "Ravana tries to deceive Sita in Lanka (Mughal Ramayana of Hamida Banu Begum)",
+    "hi": {
+     "text": "लंका में रावण सीता को छलने की कोशिश करता है (हमीदा बानो बेगम की मुग़ल रामायण)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लंकेत रावण सीतेला फसवण्याचा प्रयत्न करतो (हमीदा बानो बेगमचे मुघल रामायण)",
+     "reviewed": false
+    }
+   },
+   "credit": "From Ramayana of Hamida banu begum , mother of akbar, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ravana_deceiving_Sita_with_the_illusion_of_Rama%27s_severed_head_MUGHAL_INDIA,_1594_AD.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Moonlit Lanka, and a woman under a tree",
+    "hi": {
+     "text": "चाँदनी में लंका, और पेड़ के नीचे एक स्त्री",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चांदण्यातली लंका आणि झाडाखालची स्त्री",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Lankini fell before Hanuman's single blow and stepped aside, remembering Brahma's old word: when a monkey strikes you, the end of Lanka is near. Hanuman shrank to the size of a cat and slipped into the city under a full moon.\n\nIt was dazzling. Crystal mansions rose in rows, with golden lattices and rippling flags. Music of the vina drifted from windows. He crept through Ravana's palace, past ten thousand sleeping women, and saw Ravana himself on a great bed, ten heads on the pillows, breathing like a drum. “How can such greatness stoop so low?” Hanuman wondered. But not one of these women was Sita, and his heart began to sink.\n\nHe prayed, “Let me not fail Rama.” Then, beyond the palace, he saw a grove of Ashoka trees glowing in the moonlight. He leapt over the wall into a tree. Below, under an ancient simshapa, sat a thin woman in a single faded cloth, her knees drawn up, guarded by fierce demon women. Her eyes held a calm so deep that Hanuman knew at once. He had found her, and he hid among the leaves, trembling, to wait for dawn.",
+    "hi": {
+     "text": "लंकिनी हनुमान के एक ही प्रहार से गिर पड़ी और ब्रह्मा की पुरानी बात याद करके एक ओर हट गई: जब कोई वानर तुम्हें मारे, तो समझना कि लंका का अंत निकट है। हनुमान बिल्ली जितने छोटे हो गए और पूर्णिमा की रात में नगर में घुस गए।\n\nवह नगर आँखें चौंधिया देने वाला था। स्फटिक के महल कतारों में खड़े थे, सोने की जालियाँ थीं, ध्वजाएँ लहरा रही थीं। खिड़कियों से वीणा के स्वर तैर रहे थे। वे रावण के महल में दबे पाँव घूमे, दस हज़ार सोई हुई स्त्रियों के बीच से गुज़रे, और एक विशाल पलंग पर स्वयं रावण को देखा, तकियों पर दस सिर, साँसें नगाड़े जैसी। “इतनी महानता इतनी नीचे कैसे गिर गई?” हनुमान ने सोचा। पर इन स्त्रियों में सीता कोई न थीं, और उनका मन डूबने लगा।\n\nउन्होंने प्रार्थना की, “मुझे राम के सामने लज्जित न होने देना।” तभी महल के पार उन्हें अशोक के वृक्षों की एक वाटिका दिखी, जो चाँदनी में दमक रही थी। वे दीवार लाँघकर एक पेड़ पर जा बैठे। नीचे एक पुराने शिंशपा वृक्ष के तले एक दुबली स्त्री बैठी थी, एक ही फीके वस्त्र में, घुटने समेटे, भयानक राक्षसियों से घिरी हुई। उसकी आँखों में इतनी गहरी शांति थी कि हनुमान ने तुरंत जान लिया। उन्होंने उन्हें पा लिया था, और वे पत्तों के बीच काँपते हुए भोर की प्रतीक्षा में छिप गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमानाच्या एकाच प्रहाराने लंकिनी कोसळली आणि ब्रह्मदेवाचे जुने वचन आठवून बाजूला झाली: वानराने तुझ्यावर प्रहार केला की लंकेचा अंत जवळ आला आहे. हनुमानाने मांजराएवढे रूप घेतले आणि पौर्णिमेच्या चांदण्यात नगरीत शिरला.\n\nतो झगमगाट डोळे दिपवणारा होता. स्फटिकाचे महाल रांगांनी उभे होते, सोन्याच्या जाळ्या आणि फडफडणारे ध्वज होते. खिडक्यांतून वीणेचे सूर तरंगत येत होते. तो रावणाच्या राजवाड्यात दबकत गेला, दहा हजार झोपलेल्या स्त्रियांच्या शेजारून, आणि त्याने एका मोठ्या पलंगावर खुद्द रावणाला पाहिले, उशांवर दहा डोकी, श्वास नगाऱ्यासारखा. “एवढा थोर माणूस इतका खाली कसा आला?” हनुमानाला प्रश्न पडला. पण या स्त्रियांत सीता नव्हती, आणि त्याचे हृदय खचू लागले.\n\nत्याने प्रार्थना केली, “मला रामांसमोर अपयशी होऊ देऊ नकोस.” मग राजवाड्याच्या पलीकडे त्याला चांदण्यात चमकणारी अशोकवृक्षांची वाटिका दिसली. तो भिंतीवरून उडी मारून एका झाडावर चढला. खाली एका प्राचीन शिंशपा वृक्षाखाली फिकट झालेल्या एकाच वस्त्रात, गुडघे मिठीत घेऊन एक कृश स्त्री बसली होती, आणि भयानक राक्षसी तिच्याभोवती पहारा देत होत्या. तिच्या डोळ्यांत इतकी खोल शांतता होती की हनुमानाने लगेच ओळखले. त्याला ती सापडली होती, आणि पहाटेची वाट पाहत तो पानांमध्ये थरथरत लपून राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The blade of grass",
+    "hi": {
+     "text": "तिनका",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गवताची काडी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At dawn, there were drums, and the gate of the grove swung wide. Ravana entered in his finest robes, crowned and glittering, with a thousand women behind him. Sita folded herself smaller. She put a blade of grass on the ground between them, as a kind of wall.\n\nThere is a quiet depth to this moment. In Indian tradition, a blade of grass is the smallest thing on earth; yet in her hands it became a barrier no king could cross.\n\nRavana spoke sweetly, then harshly. “Be my queen, Sita. I am lord of Lanka. Why cling to a man who walks in the forest in bark clothes? Take me, and the world is yours.”\n\nSita's voice was steady. “You are a king who forgot his dharma,” she said. “Rama will come. You are a firefly boasting before the sun.”\n\nRavana's face darkened. “You have two months, no more,” he hissed, “then my cooks will carve you for my breakfast.” He swept out, and the guards closed in, whispering threats.",
+    "hi": {
+     "text": "भोर होते ही नगाड़े बजे और वाटिका का द्वार खुल गया। रावण अपने सबसे सुंदर वस्त्रों में, मुकुट पहने, जगमगाता हुआ भीतर आया, पीछे हज़ार स्त्रियाँ थीं। सीता ने अपने को और समेट लिया। उन्होंने अपने और उसके बीच धरती पर घास का एक तिनका रख दिया, मानो एक दीवार हो।\n\nइस क्षण में एक शांत गहराई है। भारतीय परंपरा में तिनका धरती की सबसे छोटी वस्तु है; फिर भी उनके हाथ में वह ऐसी रेखा बन गया जिसे कोई राजा लाँघ न सका।\n\nरावण पहले मीठा बोला, फिर कठोर। “मेरी रानी बन जाओ, सीता। मैं लंका का स्वामी हूँ। उस वल्कल पहने, वन में भटकते मनुष्य से क्यों चिपकी हो? मुझे अपना लो, और संसार तुम्हारा है।”\n\nसीता का स्वर अडिग था। “तुम ऐसे राजा हो जो अपना धर्म भूल गया,” उन्होंने कहा। “राम आएँगे। तुम सूर्य के सामने डींग मारने वाले जुगनू हो।”\n\nरावण का मुख काला पड़ गया। “तुम्हारे पास दो महीने हैं, बस,” वह फुफकारा, “फिर मेरे रसोइए तुम्हें मेरे नाश्ते के लिए काटेंगे।” वह चला गया, और पहरेदारिनें धमकियाँ फुसफुसाती हुई पास सिमट आईं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटे नगारे वाजले आणि वाटिकेचे दार उघडले. उत्तम वस्त्रे लेवून, मुकुट घालून, लखलखत रावण आत आला, त्याच्या मागे हजार स्त्रिया होत्या. सीता आणखी लहान होऊन सावरून बसली. तिने त्या दोघांमध्ये जमिनीवर गवताची एक काडी ठेवली, जणू एक भिंतच.\n\nया क्षणात एक शांत खोली आहे. भारतीय परंपरेत गवताची काडी ही पृथ्वीवरची सर्वात लहान गोष्ट; पण तिच्या हातात ती कोणत्याही राजाला ओलांडता न येणारी भिंत झाली.\n\nरावण गोड बोलला, मग कठोर बोलला. “माझी राणी हो, सीते. मी लंकेचा स्वामी आहे. वल्कले नेसून वनात फिरणाऱ्या माणसाला का धरून बसली आहेस? मला स्वीकार, आणि हे जग तुझे आहे.”\n\nसीतेचा स्वर स्थिर होता. “तू धर्म विसरलेला राजा आहेस,” ती म्हणाली. “राम येतील. तू सूर्यासमोर बढाई मारणारा काजवा आहेस.”\n\nरावणाचा चेहरा काळवंडला. “तुला दोन महिने आहेत, त्याहून जास्त नाही,” तो फुत्कारला, “मग माझे स्वयंपाकी तुला माझ्या न्याहारीसाठी चिरतील.” तो निघून गेला, आणि पहारेकरणी जवळ येऊन धमक्या कुजबुजू लागल्या.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Trijata's dream",
+    "hi": {
+     "text": "त्रिजटा का स्वप्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्रिजटेचे स्वप्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "All through that day the demon women taunted Sita. “Forget him. He will never cross the sea.” Their words were like arrows, but Sita sat with her head bowed, whispering a single name. She had decided she would end her life rather than yield.\n\nThen, an old demoness named Trijata rose to speak. She was a daughter of Vibhishana, known for her goodness. “Listen,” she said. “I had a dream last night. I saw Rama in a white chariot drawn by white elephants, shining like the moon. And I saw Ravana shaven and naked, riding a donkey south toward the city of death. Lanka was burning.”\n\nShe turned to the guards. “Be careful what you do to this woman. She will be the doom of anyone who harms her.”\n\nSome guards turned pale. Others laughed. But a softness came into the grove, and Sita felt, for the first time in many months, a small light, a hope she had not dared to feel. She looked up at the leaves, and a breeze moved the branches.",
+    "hi": {
+     "text": "उस पूरे दिन राक्षसियाँ सीता को ताने देती रहीं। “उसे भूल जा। वह कभी सागर पार नहीं करेगा।” उनके शब्द बाणों जैसे थे, पर सीता सिर झुकाए बैठी एक ही नाम जपती रहीं। उन्होंने तय कर लिया था कि झुकने से अच्छा प्राण दे देना है।\n\nतभी त्रिजटा नाम की एक बूढ़ी राक्षसी बोलने उठी। वह विभीषण की पुत्री थी, अपनी भलाई के लिए जानी जाती थी। “सुनो,” उसने कहा। “कल रात मैंने एक स्वप्न देखा। मैंने राम को सफ़ेद हाथियों वाले श्वेत रथ पर देखा, चंद्रमा की तरह दमकते हुए। और मैंने रावण को मुँडे सिर और नग्न देखा, गधे पर बैठे दक्षिण की ओर यमपुरी जाते हुए। लंका जल रही थी।”\n\nउसने पहरेदारिनों से कहा। “इस स्त्री के साथ जो करना हो, सोचकर करना। जो इसे सताएगा, यह उसका काल बनेगी।”\n\nकुछ पहरेदारिनों के मुख पीले पड़ गए। कुछ हँस पड़ीं। पर वाटिका में एक कोमलता उतर आई, और सीता को कई महीनों में पहली बार एक छोटी-सी रोशनी का, एक ऐसी आशा का अनुभव हुआ जिसे महसूस करने का साहस वे खो चुकी थीं। उन्होंने पत्तों की ओर देखा, और हवा ने डालियाँ हिला दीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या दिवशी दिवसभर राक्षसी सीतेला टोमणे मारत राहिल्या. “त्याला विसर. तो सागर कधीच ओलांडणार नाही.” त्यांचे शब्द बाणांसारखे होते, पण सीता मान खाली घालून एकच नाव कुजबुजत बसली होती. शरण जाण्यापेक्षा प्राण द्यायचे तिने ठरवले होते.\n\nमग त्रिजटा नावाची एक वृद्ध राक्षसी बोलायला उभी राहिली. ती विभीषणाची कन्या होती, आपल्या चांगुलपणासाठी प्रसिद्ध. “ऐका,” ती म्हणाली. “काल रात्री मला एक स्वप्न पडले. मी पाहिले की राम पांढऱ्या हत्तींनी ओढलेल्या पांढऱ्या रथात, चंद्रासारखे तेजस्वी बसले आहेत. आणि रावण मुंडण केलेला, नग्न, गाढवावर बसून यमपुरीच्या दिशेने दक्षिणेकडे जात आहे. लंका जळत होती.”\n\nतिने पहारेकरणींकडे वळून म्हटले. “या स्त्रीला काय करता याचा विचार करा. तिला जो त्रास देईल, त्याचा ती विनाश होईल.”\n\nकाही पहारेकरणी फिक्कट पडल्या. काही हसल्या. पण वाटिकेत एक मृदुता पसरली, आणि अनेक महिन्यांत प्रथमच सीतेला एक छोटासा प्रकाश जाणवला, एक आशा जी तिने बाळगायचे धाडस केले नव्हते. तिने पानांकडे वर पाहिले, आणि वाऱ्याने फांद्या हलल्या.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A song from the branches",
+    "hi": {
+     "text": "डालियों से एक गीत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फांद्यांतून येणारे गीत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the guards dozed, a voice began to sing from the tree above. It was soft and sweet and unhurried. It told of a king named Dasharatha, and his four sons, and of Rama, who went to the forest for his father's word.\n\nSita sat up. Was she dreaming? Was this one of Ravana's tricks? She looked up into the foliage and saw a small, golden monkey with folded hands.\n\nHanuman came down slowly, shrank himself, and stood before her. “Mother,” he said. “I am a messenger.” She shrank back, suspicious. Surely this was Ravana in disguise.\n\n“Who are you?” she whispered.\n\nHe spoke the line that the poets have remembered: “I am the servant of Rama, lord of Kosala, whose deeds are done without effort.” And he described Rama's face, his shoulders, his voice, so exactly that Sita's fear melted. Tears filled her eyes. Then, from his waist, he drew out the ring, and held it out on his open palm.",
+    "hi": {
+     "text": "जब पहरेदारिनें ऊँघने लगीं, ऊपर पेड़ से एक स्वर गाने लगा। वह कोमल, मीठा और ठहरा हुआ था। वह राजा दशरथ और उनके चार पुत्रों की कथा कह रहा था, और राम की, जो पिता के वचन के लिए वन गए।\n\nसीता सीधी होकर बैठ गईं। क्या वे स्वप्न देख रही थीं? क्या यह रावण की कोई चाल थी? उन्होंने पत्तों में देखा और हाथ जोड़े एक नन्हा, सुनहरा वानर दिखा।\n\nहनुमान धीरे-धीरे उतरे, स्वयं को छोटा किया, और उनके सामने खड़े हुए। “माता,” उन्होंने कहा। “मैं एक दूत हूँ।” वे सहमकर पीछे हट गईं, शंका से। यह अवश्य रावण का कोई रूप होगा।\n\n“तुम कौन हो?” उन्होंने फुसफुसाकर पूछा।\n\nउन्होंने वह पंक्ति कही जिसे कवियों ने याद रखा है: “मैं कोसल के स्वामी राम का दास हूँ, जिनके कार्य बिना क्लेश के सिद्ध होते हैं।” और उन्होंने राम का मुख, उनके कंधे, उनकी वाणी इतने यथार्थ वर्णित किए कि सीता का भय पिघल गया। आँखें भर आईं। फिर उन्होंने कमर से अँगूठी निकाली और खुली हथेली पर रखकर आगे बढ़ाई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहारेकरणी डुलक्या घेत असताना वरच्या झाडावरून एक आवाज गाऊ लागला. तो मृदू आणि गोड होता, घाई नसलेला. त्याने दशरथ नावाच्या राजाची, त्याच्या चार पुत्रांची, आणि वडिलांच्या शब्दासाठी वनात गेलेल्या रामाची कथा सांगितली.\n\nसीता सावरून बसली. स्वप्न तर नव्हते? की रावणाची ही एखादी युक्ती होती? तिने पानांकडे वर पाहिले आणि हात जोडून बसलेला एक छोटा सोनेरी वानर तिला दिसला.\n\nहनुमान हळूहळू खाली उतरला, स्वतःला लहान केले, आणि तिच्यासमोर उभा राहिला. “माते,” तो म्हणाला. “मी एक दूत आहे.” ती संशयाने मागे सरकली. हा नक्कीच वेषांतर केलेला रावण होता.\n\n“तू कोण आहेस?” ती कुजबुजली.\n\nकवींनी जपलेली ओळ तो बोलला: “मी कोसलाधीश रामांचा दास आहे, ज्यांची कर्मे सहजपणे पार पडतात.” आणि त्याने रामांचा चेहरा, त्यांचे खांदे, त्यांचा आवाज इतक्या तंतोतंत वर्णन केला की सीतेची भीती वितळून गेली. तिचे डोळे पाणावले. मग त्याने कमरेतून अंगठी काढली आणि उघड्या तळहातावर ती पुढे केली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The ring and the offer",
+    "hi": {
+     "text": "अँगूठी और प्रस्ताव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंगठी आणि प्रस्ताव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sita took the ring and pressed it to her cheek and then to her heart. For months she had been alone with only her own courage for company. Now she wept, but for joy, as if Rama himself had laid a hand on her head.\n\nShe asked a hundred questions. Was Rama well? Did he sleep? Did he eat? Did he ever speak of her? Hanuman answered each one patiently, and to each answer she nodded and smiled and wept.\n\nThen Hanuman bowed. “Mother, let me carry you across the sea on my back. Ravana's guards could not catch me. We can be with Rama by sunset.”\n\nSita smiled and shook her head. “You could do it, I know,” she said. “But I will not go like a thief in the night. Rama must come himself, break Ravana's pride, and take me back with honour, so that the whole world sees that dharma stands. That is better for Rama and for me.”\n\nHanuman bowed again, humbled. He understood that she was braver than he.",
+    "hi": {
+     "text": "सीता ने अँगूठी ली, उसे गाल से लगाया, फिर हृदय से। महीनों से वे अकेली थीं, केवल अपने साहस के साथ। अब वे रो पड़ीं, पर आनंद से, मानो स्वयं राम ने उनके सिर पर हाथ रखा हो।\n\nउन्होंने सैकड़ों प्रश्न पूछे। क्या राम कुशल हैं? क्या वे सोते हैं? खाते हैं? क्या कभी मेरी चर्चा करते हैं? हनुमान ने हर प्रश्न का धैर्य से उत्तर दिया, और हर उत्तर पर वे सिर हिलातीं, मुस्कुरातीं और रो पड़तीं।\n\nफिर हनुमान ने प्रणाम किया। “माता, मुझे अनुमति दीजिए कि मैं आपको अपनी पीठ पर बिठाकर सागर पार ले चलूँ। रावण के पहरेदार मुझे पकड़ नहीं सकते। संध्या तक हम राम के पास होंगे।”\n\nसीता मुस्कुराईं और सिर हिलाया। “तुम कर सकते हो, मैं जानती हूँ,” उन्होंने कहा। “पर मैं रात में चोर की तरह नहीं जाऊँगी। राम को स्वयं आना होगा, रावण का अभिमान तोड़ना होगा, और मुझे सम्मान सहित लौटाना होगा, ताकि सारा संसार देखे कि धर्म की विजय होती है। यही राम के लिए और मेरे लिए भी श्रेष्ठ है।”\n\nहनुमान ने विनम्र होकर फिर प्रणाम किया। उन्होंने समझ लिया कि वे उनसे कहीं अधिक साहसी हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेने अंगठी घेतली, ती गालाला लावली आणि मग हृदयाशी धरली. अनेक महिने ती एकटी होती, फक्त स्वतःच्या धैर्याच्या सोबतीने. आता ती रडली, पण आनंदाने, जणू खुद्द रामांनी तिच्या डोक्यावर हात ठेवला होता.\n\nतिने शंभर प्रश्न विचारले. राम कुशल आहेत ना? ते झोपतात का? जेवतात का? ते कधी माझी आठवण काढतात का? हनुमानाने प्रत्येकाचे संयमाने उत्तर दिले, आणि प्रत्येक उत्तरावर ती मान हलवत, हसत आणि रडत राहिली.\n\nमग हनुमानाने नमस्कार केला. “माते, मला तुम्हाला पाठीवर घेऊन सागर ओलांडू द्या. रावणाचे पहारेकरी मला पकडू शकणार नाहीत. आपण सूर्यास्तापर्यंत रामांपाशी असू.”\n\nसीता हसली आणि तिने मान हलवली. “तू हे करू शकशील, मला माहीत आहे,” ती म्हणाली. “पण मी रात्री चोरासारखी जाणार नाही. रामांनी स्वतः यावे, रावणाचा गर्व मोडावा, आणि मला सन्मानाने परत न्यावे, म्हणजे सारे जग पाहील की धर्म टिकतो. ते रामांसाठी आणि माझ्यासाठी अधिक चांगले आहे.”\n\nहनुमानाने पुन्हा नमस्कार केला, नम्र होऊन. त्याला कळले की ती त्याच्यापेक्षाही धैर्यवान आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The jewel for Rama",
+    "hi": {
+     "text": "राम के लिए चूड़ामणि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामांसाठी रत्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sita gave him a message to carry. “Tell Rama I live for two more months. After that, I do not know.” She gave him the chudamani, the jewel from her hair, which Rama would know at once. She told him a secret that only she and Rama shared, the story of a crow at Chitrakoot, so that he would know the messenger had truly met her.\n\n“Go,” she said. “May the wind be kind to you, my son.”\n\nHanuman touched her feet, and for a moment she saw all the strength of the Wind god in his small frame. He took the jewel and held it close, the way a sailor holds a lantern in a storm.\n\nAs she watched him vanish into the moonlit branches, Sita turned back to the simshapa tree. The guards still muttered. The grove was still dark. But she was no longer alone. Somewhere beyond the sea, Rama was coming; and in her hair, where the jewel had been, she felt, for the first time, the touch of morning air.",
+    "hi": {
+     "text": "सीता ने उन्हें ले जाने के लिए संदेश दिया। “राम से कहना कि मैं दो महीने और जीवित हूँ। उसके बाद मैं नहीं जानती।” उन्होंने उन्हें अपने केशों की चूड़ामणि दी, जिसे राम तुरंत पहचान लेंगे। उन्होंने उन्हें एक रहस्य बताया जो केवल वे और राम जानते थे, चित्रकूट के कौए की कथा, ताकि राम जान लें कि दूत सचमुच उनसे मिलकर आया है।\n\n“जाओ,” उन्होंने कहा। “पवन तुम्हारे लिए कृपालु रहे, पुत्र।”\n\nहनुमान ने उनके चरण छुए, और एक क्षण को उन्हें उनकी छोटी काया में पवनदेव का पूरा बल दिखा। उन्होंने मणि ली और उसे ऐसे हृदय से लगाया जैसे तूफ़ान में नाविक लालटेन थामता है।\n\nजब वे चाँदनी से नहाई डालियों में ओझल हो गए, तो सीता फिर शिंशपा वृक्ष की ओर मुड़ीं। पहरेदारिनें अब भी बड़बड़ा रही थीं। वाटिका अब भी अँधेरी थी। पर वे अब अकेली नहीं थीं। सागर के उस पार कहीं राम आ रहे थे; और उनके केशों में, जहाँ मणि थी, उन्होंने पहली बार भोर की हवा का स्पर्श महसूस किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेने त्याला नेण्यासाठी निरोप दिला. “रामांना सांग, मी आणखी दोन महिने जगेन. त्यानंतर मला माहीत नाही.” तिने त्याला चूडामणी दिला, तिच्या केसातले रत्न, जे राम लगेच ओळखतील. तिने त्याला एक गुपित सांगितले जे फक्त तिला आणि रामांना माहीत होते, चित्रकूटावरच्या कावळ्याची कथा, म्हणजे दूत खरोखर तिला भेटला आहे हे त्यांना कळावे.\n\n“जा,” ती म्हणाली. “वारा तुला साथ देवो, बाळा.”\n\nहनुमानाने तिच्या पायांना स्पर्श केला, आणि क्षणभर तिला त्याच्या छोट्या देहात वायुदेवाचे सारे बळ दिसले. त्याने ते रत्न घेतले आणि वादळात खलाशाने कंदील धरावा तसे जवळ धरले.\n\nचांदण्यातल्या फांद्यांत तो नाहीसा होताना पाहून सीता पुन्हा शिंशपा वृक्षाकडे वळली. पहारेकरणी अजून कुजबुजत होत्या. वाटिका अजून अंधारी होती. पण ती आता एकटी नव्हती. सागरापलीकडे कुठेतरी राम येत होते; आणि तिच्या केसांत, जिथे रत्न होते तिथे, तिला प्रथमच सकाळच्या हवेचा स्पर्श जाणवला.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "दासोऽहं कोसलेन्द्रस्य रामस्याक्लिष्टकर्मणः।",
+  "cite": {
+   "en": "Valmiki Ramayana, Sundara Kanda (Hanuman's declaration)",
+   "hi": {
+    "text": "वाल्मीकि रामायण, सुंदरकांड (हनुमान की घोषणा)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वाल्मीकी रामायण, सुंदरकांड (हनुमानाचे उद्गार)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "I am the servant of Rama, lord of Kosala, whose deeds are done without effort.",
+   "hi": {
+    "text": "मैं कोसल-नरेश राम का दास हूँ, जिनके कार्य बिना क्लेश के सिद्ध होते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मी कोसलाधीश रामांचा दास आहे, ज्यांची कर्मे सहजपणे पार पडतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Sita held onto a single blade of grass and a single name, and it was enough. What small thing keeps you steady when life feels too big? Today, hold it in your mind for one minute, and let it remind you that you are not alone.",
+  "hi": {
+   "text": "सीता ने बस एक तिनका और एक नाम थामे रखा, और वही काफ़ी था। जब जीवन बहुत बड़ा लगे, तो कौन-सी छोटी चीज़ आपको स्थिर रखती है? आज एक मिनट उसे मन में थामिए, और याद कीजिए कि आप अकेले नहीं हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सीतेने एका गवताच्या काडीला आणि एका नावाला धरून ठेवले, आणि ते पुरेसे झाले. जीवन फार मोठे वाटते तेव्हा तुम्हाला कोणती लहानशी गोष्ट स्थिर ठेवते? आज ती एक मिनिट मनात धरा, आणि तुम्ही एकटे नाही याची आठवण तिला करू द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Faith and courage need no great weapon; one steady heart can stand before an empire.",
+  "hi": {
+   "text": "श्रद्धा और साहस को किसी बड़े हथियार की ज़रूरत नहीं; एक अडिग हृदय पूरे साम्राज्य के सामने खड़ा हो सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रद्धा आणि धैर्याला मोठ्या शस्त्राची गरज नसते; एक स्थिर हृदय साम्राज्यासमोरही उभे राहू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Sundara Kanda (the Ashoka grove, Trijata's dream, the ring and the chudamani)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, सुंदरकांड (अशोक वाटिका, त्रिजटा का स्वप्न, अँगूठी और चूड़ामणि)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, सुंदरकांड (अशोकवन, त्रिजटेचे स्वप्न, अंगठी आणि चूडामणी)",
+   "reviewed": false
+  }
+ }
+}

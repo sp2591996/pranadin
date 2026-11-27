@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "ahalya",
+ "order": 5,
+ "part": "bala",
+ "figure": {
+  "en": "Ahalya",
+  "hi": {
+   "text": "अहल्या",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अहल्या",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The hermitage that waited in silence",
+  "hi": {
+   "text": "मौन में प्रतीक्षा करता आश्रम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शांततेत वाट पाहणारा आश्रम",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "On the road to Mithila lies a hermitage where no bird sings, and a woman no one has seen for years.",
+  "hi": {
+   "text": "मिथिला के मार्ग में एक ऐसा आश्रम पड़ता है जहाँ कोई पक्षी नहीं चहकता, और एक ऐसी स्त्री रहती है जिसे बरसों से किसी ने नहीं देखा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मिथिलेच्या वाटेवर एक आश्रम आहे जिथे एकही पक्षी गात नाही, आणि एक स्त्री जिला अनेक वर्षे कोणी पाहिलेले नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/sages-test-3.webp",
+   "w": 580,
+   "h": 1069,
+   "caption": {
+    "en": "Ahalya bows to Rama (Mughal painting by Govardhan)",
+    "hi": {
+     "text": "अहल्या राम को प्रणाम करती हैं (गोवर्धन का मुग़ल चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अहल्या रामाला नमस्कार करते (गोवर्धनचे मुघल चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Govardhan, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ahalya_bows_to_Rama.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The silent hermitage",
+    "hi": {
+     "text": "सूना आश्रम",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निःशब्द आश्रम",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The three travellers walked on toward Mithila, the city of King Janaka. The morning was fresh, and the road ran beside a wooded hill. Then Rama stopped.\n\nBefore them lay a hermitage, beautiful but empty. Flowering trees stood around a small hut, and a clear pool glistened in the sun. Yet there was no smoke from a fire, no voices, no bird in the branches. It felt like a place where time itself had stopped to listen.\n\n“Whose hermitage is this, master?” asked Rama quietly. “It is lovely, and yet it seems abandoned.”\n\nVishwamitra’s face softened with an old sadness. “It belonged to the sage Gautama. Here he lived in meditation with his wife, Ahalya, born of Brahma’s own mind and known as the most beautiful woman in the three worlds. Come, and I will tell you why the place sleeps. And then, Rama, you will know why I brought you this way.”",
+    "hi": {
+     "text": "तीनों यात्री राजा जनक की नगरी मिथिला की ओर बढ़ते चले। सुबह ताज़ी थी, और राह एक वनाच्छादित पहाड़ी के साथ-साथ जाती थी। तभी राम ठिठक गए।\n\nउनके सामने एक आश्रम था, सुंदर, पर निर्जन। एक छोटी कुटिया के चारों ओर फूलों वाले वृक्ष थे, और धूप में एक निर्मल सरोवर झिलमिला रहा था। फिर भी कहीं यज्ञ का धुआँ न था, न कोई स्वर, न डालियों पर कोई पक्षी। ऐसा लगता था, जैसे समय स्वयं कान लगाकर सुनने रुक गया हो।\n\n“गुरुवर, यह किसका आश्रम है?” राम ने धीरे से पूछा। “यह मनोहर है, फिर भी उजड़ा-सा लगता है।”\n\nविश्वामित्र के मुख पर एक पुरानी उदासी उतर आई। “यह महर्षि गौतम का आश्रम था। यहीं वे अपनी पत्नी अहल्या के साथ तपस्या में रहते थे, जो ब्रह्मा के मन से उत्पन्न हुई थीं और तीनों लोकों में सबसे सुंदर मानी जाती थीं। आओ, मैं बताता हूँ कि यह स्थान क्यों सोया पड़ा है। और तब, राम, तुम जान जाओगे कि मैं तुम्हें इस राह से क्यों लाया।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिघे प्रवासी राजा जनकाच्या मिथिला नगरीकडे चालत राहिले. सकाळ ताजी होती आणि वाट वृक्षांनी भरलेल्या टेकडीच्या कडेने जात होती. मग राम थबकला.\n\nसमोर एक आश्रम होता, सुंदर पण रिकामा. एका लहान कुटीभोवती फुललेली झाडे उभी होती आणि निर्मळ तळे उन्हात चमकत होते. तरीही कुठे अग्नीचा धूर नव्हता, आवाज नव्हते, फांद्यांवर पक्षी नव्हता. काळाने स्वतःच थांबून कान देऊन ऐकावे असे ते स्थान वाटत होते.\n\n“गुरुदेव, हा कोणाचा आश्रम?” रामाने हळू विचारले. “किती सुंदर आहे, तरी सोडून दिल्यासारखा वाटतो.”\n\nविश्वामित्रांच्या चेहऱ्यावर जुनी खंत उमटली. “हा गौतम ऋषींचा आश्रम. इथे ते पत्नी अहल्येसोबत ध्यानात राहत. अहल्या ब्रह्मदेवांच्या मनातून जन्मलेली आणि तिन्ही लोकांत सर्वांत सुंदर स्त्री म्हणून ओळखली जाई. चल, हे स्थान का झोपले आहे ते सांगतो. आणि मग, रामा, मी तुला या वाटेने का आणले ते तुला कळेल.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What happened here",
+    "hi": {
+     "text": "यहाँ क्या घटा था",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इथे काय घडले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“One morning,” said Vishwamitra, “Gautama went to the river for his prayers. Indra, king of the gods, who had long desired Ahalya, took the form of the sage and entered the hermitage. He spoke to her with Gautama’s voice and walked in with Gautama’s step.”\n\nThe sage paused. “In Valmiki’s telling, Ahalya understood who he truly was, and yet, out of a moment of weakness and curiosity, she let him stay. Then Indra fled. But on the path he met the real Gautama, returning from the river, and the sage saw all.”\n\nLakshmana bit his lip. Vishwamitra went on gently. “Gautama’s anger blazed. He cursed Indra, and he cursed Ahalya as well: ‘For thousands of years you will live here unseen by any eye, eating only air, burning in your own regret. When Rama, son of Dasharatha, steps into this forest, you will be freed.’”\n\nThen the sage bowed his head and went away to the Himalaya, and silence settled on the hermitage.",
+    "hi": {
+     "text": "“एक प्रातः,” विश्वामित्र ने कहा, “गौतम संध्या-वंदन के लिए नदी पर गए। देवराज इंद्र, जो बहुत समय से अहल्या पर मोहित थे, ऋषि का रूप धरकर आश्रम में आ गए। उन्होंने गौतम के स्वर में उनसे बात की और गौतम की चाल से भीतर चले आए।”\n\nऋषि ठहरे। “वाल्मीकि के कथन में अहल्या ने पहचान लिया कि वे कौन हैं, फिर भी, क्षण भर की दुर्बलता और जिज्ञासा में, उन्होंने उन्हें रुकने दिया। फिर इंद्र भागे। पर मार्ग में उन्हें नदी से लौटते असली गौतम मिल गए, और ऋषि ने सब देख लिया।”\n\nलक्ष्मण ने होंठ दबा लिए। विश्वामित्र ने कोमलता से कथा आगे बढ़ाई। “गौतम का क्रोध भड़क उठा। उन्होंने इंद्र को शाप दिया, और अहल्या को भी: ‘हज़ारों वर्षों तक तुम यहाँ किसी की आँख से अदृश्य रहोगी, केवल वायु पर जियोगी, अपने ही पश्चात्ताप में जलती रहोगी। जब दशरथ-पुत्र राम इस वन में पग रखेंगे, तब तुम मुक्त होगी।’”\n\nफिर ऋषि सिर झुकाकर हिमालय को चले गए, और आश्रम पर मौन छा गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“एके सकाळी,” विश्वामित्र म्हणाले, “गौतम प्रार्थनेसाठी नदीवर गेले. देवांचा राजा इंद्र, जो फार काळापासून अहल्येची अभिलाषा बाळगून होता, ऋषींचे रूप घेऊन आश्रमात शिरला. गौतमाच्या आवाजात तो तिच्याशी बोलला आणि गौतमाच्या चालीने आत आला.”\n\nऋषी क्षणभर थांबले. “वाल्मीकींच्या कथनात अहल्येने तो खरा कोण आहे हे ओळखले, तरीही क्षणिक दुर्बलतेने आणि कुतूहलाने तिने त्याला राहू दिले. मग इंद्र पळाला. पण वाटेत नदीवरून परतणारे खरे गौतम त्याला भेटले, आणि ऋषींनी सारे जाणले.”\n\nलक्ष्मणाने ओठ चावले. विश्वामित्र हळुवारपणे पुढे सांगू लागले. “गौतमांचा क्रोध भडकला. त्यांनी इंद्राला शाप दिला, आणि अहल्येलाही शाप दिला: ‘हजारो वर्षे तू इथे कोणाच्याही नजरेला न दिसता राहशील, केवळ हवा खाऊन, स्वतःच्या पश्चात्तापात होरपळत. दशरथपुत्र राम या वनात पाऊल टाकेल तेव्हा तू मुक्त होशील.’”\n\nमग ऋषींनी मान झुकवली आणि हिमालयात निघून गेले, आणि आश्रमावर शांतता पसरली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A woman no one could see",
+    "hi": {
+     "text": "वह स्त्री, जिसे कोई देख न सका",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कोणालाही न दिसणारी स्त्री",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Years turned to centuries. The seasons wheeled and the trees grew old. No one came here. Hunters passed by the hill, and travellers felt a strange hush, and hurried on.\n\nYet Ahalya was there. She lived in the hut among the ash and dust, invisible to all creatures. She ate no food. She drank only the air. Through a thousand monsoons and a thousand winters she sat in silent penance, and slowly, patiently, her heart was washed clean.\n\nWhat did she feel? Valmiki does not tell us everything. But the old story suggests that in all those lonely years, she did not become bitter. Instead, the regret she carried slowly turned into prayer. She wished harm to no one. She asked for no one’s pity. She simply waited, as the earth waits for rain, believing that one day a footstep would come that was not the footstep of a judge.\n\nAnd now, at last, the footsteps came. Rama, with the dust of the road on his sandals, crossed the threshold.",
+    "hi": {
+     "text": "वर्ष सदियों में बदल गए। ऋतुएँ घूमती रहीं और वृक्ष बूढ़े हो गए। यहाँ कोई न आया। बहेलिये पहाड़ी के पास से गुज़रते, और यात्रियों को एक अजीब सन्नाटा महसूस होता, और वे जल्दी-जल्दी आगे बढ़ जाते।\n\nफिर भी अहल्या वहीं थीं। राख और धूल के बीच कुटिया में रहतीं, सब प्राणियों के लिए अदृश्य। वे अन्न नहीं खाती थीं। केवल वायु पीती थीं। हज़ार वर्षाओं और हज़ार शीतों में वे मौन तपस्या में बैठी रहीं, और धीरे-धीरे, धैर्य से, उनका हृदय निर्मल होता गया।\n\nउनके मन में क्या था? वाल्मीकि सब कुछ नहीं बताते। पर पुरानी कथा यह संकेत देती है कि उन अकेले बरसों में वे कड़वी नहीं हुईं। जो पश्चात्ताप वे ढोती रहीं, वह धीरे-धीरे प्रार्थना में बदल गया। उन्होंने किसी का बुरा नहीं चाहा। किसी से दया नहीं माँगी। वे बस प्रतीक्षा करती रहीं, जैसे धरती वर्षा की करती है, इस विश्वास के साथ कि किसी दिन ऐसे पैरों की आहट आएगी जो किसी न्यायाधीश के पैर न होंगे।\n\nऔर अब, आख़िर, वे क़दम आ गए। राम ने, पैरों की पनहियों पर राह की धूल लिए, देहली पार की।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वर्षे शतकांत बदलली. ऋतू फिरत राहिले आणि झाडे जुनी झाली. इथे कोणी आले नाही. शिकारी टेकडीजवळून जात, प्रवाशांना विचित्र निःशब्दता जाणवे, आणि ते घाईने पुढे निघून जात.\n\nतरीही अहल्या तिथे होती. राख आणि धुळीत, कुटीमध्ये ती राहिली, सर्व प्राण्यांना अदृश्य. तिने अन्न खाल्ले नाही. फक्त हवा प्राशन केली. हजार पावसाळे आणि हजार हिवाळे ती मूक तपश्चर्येत बसून राहिली, आणि हळूहळू, धीराने, तिचे हृदय निर्मळ होत गेले.\n\nतिला काय वाटले असेल? वाल्मीकी आपल्याला सारे सांगत नाहीत. पण जुनी कथा सुचवते की त्या एकाकी वर्षांत ती कडवट झाली नाही. उलट, तिने वाहिलेला पश्चात्ताप हळूहळू प्रार्थनेत बदलला. तिने कोणाचे वाईट चिंतले नाही. कोणाकडे दयेची याचना केली नाही. पृथ्वी पावसाची वाट पाहते तशी ती वाट पाहत राहिली, या विश्वासाने की एके दिवशी असे पाऊल येईल जे न्यायाधीशाचे नसेल.\n\nआणि आता, शेवटी, पावलांचा आवाज आला. प्रवासाची धूळ पायतणांवर घेऊन राम उंबरठा ओलांडून आत आला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The curse ends",
+    "hi": {
+     "text": "शाप का अंत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शाप संपला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "As Rama stepped into the hermitage, something shifted in the air, as when clouds part at dawn. A faint light gathered near the doorway, glowing like the moon veiled in mist, like a flame hidden in smoke.\n\nThen the light took shape. A woman stood before them, her face thin and radiant, her hair loose, her eyes lowered. She was so luminous that the princes could hardly look at her.\n\nShe looked up and saw Rama. Her eyes filled. She did not speak. She had waited for so long, and now that he was here, all the words fell away.\n\nRama did not say a word of blame. He did not ask what had happened. He folded his hands, and then he bowed, and touched her feet, and Lakshmana did the same. In that moment the last shadow of the curse dissolved like frost in the sun. Birds, long absent, began to sing in the branches. The pool rippled. The hermitage woke from its sleep.",
+    "hi": {
+     "text": "जैसे ही राम ने आश्रम में पैर रखा, हवा में कुछ बदल गया, जैसे भोर में बादल छँटते हैं। द्वार के पास एक हल्का प्रकाश इकट्ठा होने लगा, धुंध में ढके चंद्रमा-सा, धुएँ में छिपी लौ-सा।\n\nफिर वह प्रकाश आकार लेने लगा। उनके सामने एक स्त्री खड़ी थी, दुबला-सा तेजस्वी मुख, खुले केश, झुकी आँखें। उसका तेज इतना था कि राजकुमार उसकी ओर देख भी न पा रहे थे।\n\nउसने आँखें उठाईं और राम को देखा। उसकी आँखें भर आईं। वह कुछ न बोली। इतने लंबे समय से उसने प्रतीक्षा की थी, और अब जब वे सामने थे, तो सारे शब्द खो गए।\n\nराम ने दोष का एक शब्द न कहा। उन्होंने यह भी न पूछा कि क्या हुआ था। उन्होंने हाथ जोड़े, फिर झुककर उसके चरण छुए, और लक्ष्मण ने भी वैसा ही किया। उसी क्षण शाप की अंतिम छाया धूप में पाले की तरह पिघल गई। बहुत दिनों से अनुपस्थित पक्षी डालियों पर चहकने लगे। सरोवर में लहरें उठीं। आश्रम अपनी नींद से जाग उठा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम आश्रमात शिरताच हवेत काहीतरी बदलले, जणू पहाटे ढग विलग व्हावेत तसे. दाराजवळ एक मंद प्रकाश जमला, धुक्यात झाकलेल्या चंद्रासारखा, धुरात लपलेल्या ज्योतीसारखा.\n\nमग त्या प्रकाशाने आकार घेतला. समोर एक स्त्री उभी होती, कृश पण तेजस्वी चेहरा, मोकळे केस, खाली नजर. ती इतकी तेजस्वी होती की राजकुमारांना तिच्याकडे पाहवेना.\n\nतिने वर पाहिले आणि रामाला पाहिले. तिचे डोळे भरून आले. ती बोलली नाही. इतका वेळ वाट पाहिली होती, आणि आता तो आला तेव्हा सारे शब्द गळून पडले.\n\nरामाने दोषाचा एक शब्दही उच्चारला नाही. काय घडले हेही विचारले नाही. त्याने हात जोडले, मग वाकून तिच्या चरणांना स्पर्श केला, आणि लक्ष्मणानेही तसेच केले. त्या क्षणी शापाची शेवटची सावली उन्हात हिमकणासारखी विरघळली. फार काळ अनुपस्थित असलेले पक्षी फांद्यांवर गाऊ लागले. तळ्यात तरंग उठले. आश्रम झोपेतून जागा झाला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Grace that restores",
+    "hi": {
+     "text": "कृपा, जो फिर से बसा दे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुन्हा उभे करणारी कृपा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Welcome, Rama,” Ahalya said at last, her voice trembling. “I have no wealth to offer you. But I offer you the water of this pool and the fruit of this tree, and a heart that has finally learned what it was waiting for.”\n\nFlowers fell from the sky. Gods and heavenly musicians sang from above. Ahalya bowed to Rama again, and then to Vishwamitra, who had brought him here, and the sage blessed her with joy.\n\nThen, along the forest path, came a figure striding home. It was Gautama. He had felt the curse lift in his own heart, and he hurried back to the hermitage. He found his wife standing there, whole and shining, and he took her hand. The long separation was over. They bowed to Rama and then went together into the hut as though no time had passed.\n\nLakshmana whispered, “Master, why did Rama’s feet bring such a change?” Vishwamitra smiled and said only: “Wait. Watch what he did, and what he did not do.”",
+    "hi": {
+     "text": "“स्वागत है, राम,” आख़िर अहल्या ने काँपते स्वर में कहा। “मेरे पास आपको देने को कोई धन नहीं। पर इस सरोवर का जल, इस वृक्ष के फल, और वह हृदय मैं अर्पित करती हूँ जिसने आख़िर जान लिया कि वह किसकी प्रतीक्षा कर रहा था।”\n\nआकाश से फूल बरसे। देवता और गंधर्व ऊपर से गाने लगे। अहल्या ने राम को फिर प्रणाम किया, फिर विश्वामित्र को, जो उन्हें यहाँ लाए थे, और ऋषि ने आनंद से उन्हें आशीर्वाद दिया।\n\nतभी वन-पथ पर एक आकृति तेज़ क़दमों से घर की ओर आती दिखी। वे गौतम थे। उन्होंने अपने हृदय में शाप के हटने का अनुभव कर लिया था, और वे दौड़े चले आए थे। उन्होंने अपनी पत्नी को वहाँ खड़े देखा, अखंड और दीप्तिमान, और उसका हाथ थाम लिया। लंबा वियोग समाप्त हुआ। दोनों ने राम को प्रणाम किया और फिर साथ-साथ कुटिया में चले गए, मानो कोई समय बीता ही न हो।\n\nलक्ष्मण ने फुसफुसाकर पूछा, “गुरुवर, राम के चरणों ने ऐसा परिवर्तन कैसे कर दिया?” विश्वामित्र मुस्कुराकर केवल इतना बोले, “ठहरो। देखो कि उन्होंने क्या किया, और क्या नहीं किया।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“स्वागत, राम,” अहल्या शेवटी थरथरत्या आवाजात म्हणाली. “तुम्हाला देण्यासारखे माझ्याकडे धन नाही. पण या तळ्याचे पाणी, या झाडाचे फळ आणि ज्याची वाट पाहत होते ते शेवटी समजून घेणारे हृदय मी तुम्हाला अर्पण करते.”\n\nआकाशातून फुले बरसली. देव आणि गंधर्व वरून गाऊ लागले. अहल्येने पुन्हा रामाला वंदन केले, आणि मग त्याला इथे आणणाऱ्या विश्वामित्रांना, आणि ऋषींनी आनंदाने तिला आशीर्वाद दिला.\n\nतेवढ्यात वनवाटेवरून घराकडे धावत येणारी एक आकृती दिसली. तो गौतम होता. शाप उतरल्याची जाणीव त्यांना स्वतःच्या हृदयात झाली होती, आणि ते घाईने आश्रमाकडे परतले. पत्नी तिथे पूर्ण आणि तेजस्वी उभी असलेली त्यांनी पाहिली आणि तिचा हात धरला. दीर्घ विरह संपला. त्यांनी रामाला वंदन केले आणि मग काळ गेलाच नसल्यासारखे दोघे एकत्र कुटीत गेले.\n\nलक्ष्मणाने हळू विचारले, “गुरुदेव, रामाच्या चरणांनी इतका बदल कसा झाला?” विश्वामित्र हसले आणि इतकेच म्हणाले, “थांब. त्याने काय केले, आणि काय केले नाही, ते पाहा.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What Rama did not do",
+    "hi": {
+     "text": "जो राम ने नहीं किया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामाने जे केले नाही",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They left the hermitage in the soft light of the afternoon. As they walked, Vishwamitra spoke quietly to the two princes.\n\n“Mark this, Rama. You came to a woman the world had judged and forgotten, and you did not judge her. You did not weigh her fault. You did not ask whether she had suffered enough. You gave her respect, and respect was all she needed to be herself again.”\n\nLakshmana was thoughtful. “But she did wrong, did she not?”\n\n“Perhaps,” said the sage. “And she paid for it with centuries of silence. The old story does not hide that. But look at what came after. When someone has already turned inward and done the long work of changing, the kindest thing the world can do is open the door.”\n\nRama was silent for a long time. Then he said, almost to himself, “Everyone deserves a chance to begin again.” And the road to Mithila stretched out before them, bright in the late sun.",
+    "hi": {
+     "text": "दोपहर के कोमल प्रकाश में उन्होंने आश्रम छोड़ा। चलते-चलते विश्वामित्र दोनों राजकुमारों से धीरे-धीरे बोले।\n\n“इसे समझो, राम। तुम एक ऐसी स्त्री के पास आए जिसे संसार ने दोषी ठहराकर भुला दिया था, और तुमने उसे दोषी नहीं ठहराया। तुमने उसके अपराध को तौला नहीं। तुमने यह नहीं पूछा कि वह पर्याप्त दुख भोग चुकी या नहीं। तुमने उसे सम्मान दिया, और स्वयं बन जाने के लिए उसे केवल उसी की आवश्यकता थी।”\n\nलक्ष्मण विचारमग्न थे। “पर उसने ग़लती तो की थी, है न?”\n\n“संभव है,” ऋषि बोले। “और उसने सदियों के मौन से उसका मूल्य चुकाया। पुरानी कथा यह छिपाती नहीं। पर देखो कि उसके बाद क्या हुआ। जब कोई भीतर की ओर मुड़कर बदलने का लंबा काम कर चुका हो, तब संसार के लिए सबसे दयालु बात यही है कि द्वार खोल दे।”\n\nराम बहुत देर चुप रहे। फिर लगभग अपने आप से बोले, “हर किसी को फिर से आरंभ करने का अवसर मिलना चाहिए।” और मिथिला की राह उनके सामने फैली थी, ढलती धूप में उजली।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुपारच्या मृदू प्रकाशात त्यांनी आश्रम सोडला. चालता चालता विश्वामित्र दोन्ही राजकुमारांशी हळू बोलले.\n\n“हे लक्षात ठेव, राम. जगाने जिला दोषी ठरवून विसरले, अशा स्त्रीकडे तू आलास, आणि तिला दोष दिला नाहीस. तिचा अपराध तोलला नाहीस. तिने पुरेसे भोगले का हेही विचारले नाहीस. तू तिला सन्मान दिलास, आणि पुन्हा स्वतःसारखे होण्यासाठी तिला फक्त तोच हवा होता.”\n\nलक्ष्मण विचारात पडला. “पण तिने चूक केली होती ना?”\n\n“कदाचित,” ऋषी म्हणाले. “आणि तिने त्याची किंमत शतकांच्या शांततेने चुकवली. जुनी कथा हे लपवत नाही. पण त्यानंतर काय घडले ते पाहा. जेव्हा कोणी आतल्या बाजूने वळून बदलाचे दीर्घ काम केलेले असते, तेव्हा जगाने करण्यासारखी सर्वात दयाळू गोष्ट म्हणजे दार उघडणे.”\n\nराम बराच वेळ शांत होता. मग जवळजवळ स्वतःशीच म्हणाला, “प्रत्येकाला पुन्हा सुरुवात करण्याची संधी मिळायला हवी.” आणि मिथिलेची वाट संध्याकाळच्या उन्हात उजळून त्यांच्यासमोर पसरली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Rama restored Ahalya by offering respect instead of judgment. Is there someone you have quietly written off for an old mistake? Offer them one warm word or greeting today.",
+  "hi": {
+   "text": "राम ने अहल्या को निर्णय की जगह सम्मान देकर फिर से स्थापित किया। क्या कोई ऐसा है जिसे आपने किसी पुरानी भूल के कारण चुपचाप मन से निकाल दिया है? आज उसे एक स्नेह भरा शब्द या अभिवादन दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रामाने न्यायनिवाड्याऐवजी सन्मान देऊन अहल्येला पुन्हा उभे केले. एखाद्या जुन्या चुकीमुळे तुम्ही मनातल्या मनात ज्याला दूर लोटले आहे असे कोणी आहे का? आज त्यांना एक प्रेमळ शब्द किंवा नमस्कार द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grace does not ignore wrongdoing; it simply refuses to let it be the last word about a person.",
+  "hi": {
+   "text": "कृपा अपराध को अनदेखा नहीं करती; वह बस उसे किसी मनुष्य के बारे में अंतिम शब्द बनने से मना कर देती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कृपा चुकीकडे डोळेझाक करत नाही; ती फक्त त्या चुकीला माणसाबद्दलचा अंतिम शब्द होऊ देत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Bala Kanda (the account of Ahalya follows the Valmiki telling; later traditions differ in detail)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, बालकांड (अहल्या का प्रसंग वाल्मीकि के वर्णन का अनुसरण करता है; परवर्ती परंपराओं में विवरण भिन्न हैं)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, बालकांड (अहल्येची कथा वाल्मीकींच्या कथनानुसार आहे; नंतरच्या परंपरांत तपशील वेगळे आहेत)",
+   "reviewed": false
+  }
+ }
+}

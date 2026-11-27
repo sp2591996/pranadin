@@ -1,0 +1,266 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "vibhishana",
+ "order": 24,
+ "part": "yuddha",
+ "figure": {
+  "en": "Vibhishana",
+  "hi": {
+   "text": "विभीषण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "विभीषण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The brother who left Lanka",
+  "hi": {
+   "text": "वह भाई जिसने लंका छोड़ दी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लंका सोडणारा भाऊ",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In the golden court everyone nods and flatters. One voice says no, and pays for it with his home. Where does a man go when he has chosen dharma over his own family?",
+  "hi": {
+   "text": "सुनहरे दरबार में सब हाँ में हाँ मिलाते और चापलूसी करते हैं। एक आवाज़ ‘नहीं’ कहती है, और उसकी कीमत अपने घर से चुकाती है। जिसने अपने परिवार से बढ़कर धर्म को चुना, वह कहाँ जाए?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सोनेरी दरबारात सगळे माना डोलावतात आणि खुशामत करतात. एक आवाज नाही म्हणतो, आणि त्याची किंमत आपले घर देऊन चुकवतो. आपल्या कुटुंबापेक्षा धर्म निवडलेला माणूस कुठे जाणार?",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/vibhishana-1.webp",
+   "w": 750,
+   "h": 750,
+   "caption": {
+    "en": "Vibhishana pleads with Ravana before the walls of Lanka (Indian painting)",
+    "hi": {
+     "text": "लंका की दीवारों के पास विभीषण रावण से विनती करते हैं (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लंकेच्या तटाजवळ विभीषण रावणाला विनवतो (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vibhishana_meeting_Ravana.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The war council",
+    "hi": {
+     "text": "युद्ध की सभा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धसभा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana summoned his ministers. News had come that an army of monkeys and bears stood at the southern shore, led by two princes. Lanka had burned, and Ravana's pride had burned with it, but he would not show it.\n\n“Tell me how to defeat them,” he said.\n\nOne after another, the generals stood and boasted. “They are monkeys, Your Majesty. We shall crush them.” “Give me an hour.” “Who is this Rama? We have fought gods.” Ravana's chest swelled with every word. They said what a king wanted to hear.\n\nThe court glittered with flattery. But in the shadows sat a man who did not smile. Vibhishana, Ravana's youngest brother, was a devotee of Vishnu, and had been known since childhood for his calm and his truth. He watched the nodding heads and felt a deep sorrow. A city does not fall to its enemies. It falls to the voices that refuse to tell it the truth.\n\nAs the flattery died down, a silence rose. Then Vibhishana stood.",
+    "hi": {
+     "text": "रावण ने मंत्रियों को बुलाया। समाचार आया था कि वानरों और रीछों की सेना दो राजकुमारों के नेतृत्व में दक्षिणी तट पर आ खड़ी हुई है। लंका जल चुकी थी, और रावण का अभिमान भी उसके साथ जला था, पर वह उसे दिखाना नहीं चाहता था।\n\n“मुझे बताओ कि उन्हें कैसे हराएँ,” उसने कहा।\n\nएक के बाद एक सेनापति खड़े होकर डींगें हाँकने लगे। “वे वानर हैं, महाराज। हम उन्हें कुचल देंगे।” “मुझे एक घड़ी दीजिए।” “यह राम है कौन? हमने तो देवताओं से युद्ध किया है।” हर शब्द पर रावण की छाती फूलती गई। वे वही कह रहे थे जो राजा सुनना चाहता था।\n\nदरबार चापलूसी से जगमगा रहा था। पर परछाईं में एक व्यक्ति बैठा था जो मुस्कुरा नहीं रहा था। विभीषण, रावण के सबसे छोटे भाई, विष्णु के भक्त थे, और बचपन से अपनी शांति और सत्यनिष्ठा के लिए जाने जाते थे। वे सिर हिलाते सिरों को देखते रहे और उनके मन में गहरा दुख उठा। कोई नगर शत्रुओं से नहीं हारता। वह उन आवाज़ों से हारता है जो उसे सच कहने से मना कर देती हैं।\n\nजब चापलूसी थमी, तो सन्नाटा छा गया। तब विभीषण उठे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाने आपल्या मंत्र्यांना बोलावले. बातमी आली होती की दोन राजपुत्रांच्या नेतृत्वाखाली वानर आणि अस्वलांचे सैन्य दक्षिण किनाऱ्यावर उभे आहे. लंका जळली होती, आणि रावणाचा अभिमानही तिच्यासोबत जळला होता, पण तो दाखवायला तो तयार नव्हता.\n\n“त्यांचा पराभव कसा करायचा ते मला सांगा,” तो म्हणाला.\n\nएकामागून एक सेनापती उभे राहून बढाया मारू लागले. “ते वानर आहेत, महाराज. आम्ही त्यांना चिरडू.” “मला एक तास द्या.” “हा राम कोण? आम्ही देवांशी लढलो आहोत.” प्रत्येक शब्दागणिक रावणाची छाती फुगत गेली. राजाला जे ऐकायचे होते तेच ते बोलत होते.\n\nदरबार खुशामतीने झगमगत होता. पण सावलीत एक माणूस बसला होता जो हसत नव्हता. रावणाचा धाकटा भाऊ विभीषण विष्णूचा भक्त होता, आणि लहानपणापासून शांतपणा आणि सत्यासाठी ओळखला जात होता. त्याने डोलणाऱ्या माना पाहिल्या आणि त्याला खोल दुःख झाले. नगर शत्रूंमुळे पडत नाही. जे आवाज त्याला सत्य सांगायला नकार देतात, त्यांच्यामुळे ते पडते.\n\nखुशामत शांत झाल्यावर शांतता पसरली. मग विभीषण उभा राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kumbhakarna's rebuke",
+    "hi": {
+     "text": "कुंभकर्ण की फटकार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंभकर्णाची निर्भर्त्सना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "It was not Vibhishana who spoke first. Kumbhakarna, the giant brother, had been woken for the council, bleary and heavy-eyed, and he had listened to it all in silence. Now he spoke, and his words fell like stones.\n\n“Brother, you should have asked us before you did this. Now that it is done, it is too late for advice. You took another man's wife by deceit. You did not think of the end. Where were your counsellors then? You stole in the shadows, when you could have fought in the light.”\n\nA gasp went through the hall. Ravana glared, but Kumbhakarna did not lower his eyes. “Still, I am your brother, and I will fight for you. But do not tell me this was wise.”\n\nThis was a strange kind of loyalty: one that tells the truth, then stays to share the consequence. Ravana laughed to cover his anger, and waved the matter away. But the words had been spoken, and in the great hall the air was changing.",
+    "hi": {
+     "text": "सबसे पहले विभीषण नहीं बोले। विशालकाय भाई कुंभकर्ण को सभा के लिए जगाया गया था, अलसाया और भारी आँखों वाला, और उसने सब कुछ चुपचाप सुना था। अब वह बोला, और उसके शब्द पत्थरों की तरह गिरे।\n\n“भैया, यह करने से पहले आपको हमसे पूछना चाहिए था। अब जब हो चुका, तब सलाह देना देर है। आपने छल से पराई स्त्री को उठा लिया। आपने अंजाम की नहीं सोची। तब आपके सलाहकार कहाँ थे? आप अँधेरे में चुराकर लाए, जबकि उजाले में लड़ सकते थे।”\n\nसभा में सिसकारी दौड़ गई। रावण ने घूरा, पर कुंभकर्ण ने नज़रें नहीं झुकाईं। “फिर भी मैं आपका भाई हूँ, और आपके लिए लड़ूँगा। पर यह मत कहिए कि यह बुद्धिमानी थी।”\n\nयह एक अनोखी तरह की निष्ठा थी: जो सच कहती है, और फिर परिणाम में साथ भी रहती है। रावण ने क्रोध छिपाने को हँसी की और बात टाल दी। पर शब्द कहे जा चुके थे, और विशाल सभा में हवा बदल रही थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रथम विभीषण बोलला नाही. परिषदेसाठी जागे केलेला राक्षसी भाऊ कुंभकर्ण, झोपाळू आणि जड डोळ्यांनी, सारे काही शांतपणे ऐकत होता. आता तो बोलला, आणि त्याचे शब्द दगडांसारखे पडले.\n\n“भाऊ, हे करण्यापूर्वी तू आम्हाला विचारायला हवे होतेस. आता झाले आहे, तेव्हा सल्ला उशिरा आहे. तू दुसऱ्याची पत्नी कपटाने पळवलीस. शेवटाचा विचार केला नाहीस. तेव्हा तुझे सल्लागार कुठे होते? तू प्रकाशात लढू शकला असतास, पण अंधारात चोरी केलीस.”\n\nसभागृहात सुस्कारा उमटला. रावणाने रागाने पाहिले, पण कुंभकर्णाने नजर खाली केली नाही. “तरीही मी तुझा भाऊ आहे, आणि मी तुझ्यासाठी लढेन. पण हे शहाणपणाचे होते असे मला सांगू नकोस.”\n\nही एक वेगळ्याच प्रकारची निष्ठा होती: जी सत्य सांगते, आणि मग परिणाम वाटून घ्यायला थांबते. रावण राग झाकण्यासाठी हसला, आणि त्याने विषय झटकून टाकला. पण शब्द बोलले गेले होते, आणि त्या मोठ्या सभागृहात हवा बदलत होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Vibhishana's plea",
+    "hi": {
+     "text": "विभीषण की विनती",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विभीषणाची विनवणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Now Vibhishana stepped forward. His voice was gentle, yet every ear heard it. “Brother, I speak because I love you. Since the day Sita came to Lanka, there have been terrible omens. The sacred fires burn low. Crows circle. Our own people are afraid. Return Sita to Rama with honour. A man who takes another's wife, as water takes a rock, will wear himself away.”\n\nHe bowed his head. “Rama is not an ordinary man. He is dharma itself, as sure as the sun. You cannot win against him, and you do not need to. Give her back. Lanka will be safe. The war will end before it begins.”\n\nThe hall held its breath. Ravana rose slowly from the throne. His face was dark with fury, and his voice shook.\n\n“You dare! In my own court, in front of my own sons, you speak like a coward and a traitor. You eat my bread and feel for my enemy! Is this how a brother speaks? Go, if you love him so much. Go to him! I want no one near me who doubts me.”",
+    "hi": {
+     "text": "अब विभीषण आगे आए। उनका स्वर कोमल था, फिर भी हर कान ने सुना। “भैया, मैं इसलिए बोल रहा हूँ कि मैं आपसे प्रेम करता हूँ। जिस दिन से सीता लंका आई हैं, भयंकर अपशकुन हो रहे हैं। पवित्र अग्नियाँ मंद जलती हैं। कौए मँडराते हैं। हमारे अपने लोग डरे हुए हैं। सीता को सम्मान सहित राम को लौटा दीजिए। जो पराई स्त्री को ले लेता है, उसे जल चट्टान को घिसने की तरह, घिसकर नष्ट कर देता है।”\n\nउन्होंने सिर झुकाया। “राम कोई साधारण मनुष्य नहीं हैं। वे स्वयं धर्म हैं, सूर्य जितने निश्चित। आप उनसे जीत नहीं सकते, और आपको जीतने की ज़रूरत भी नहीं। उन्हें उनकी पत्नी लौटा दीजिए। लंका सुरक्षित रहेगी। युद्ध शुरू होने से पहले ही समाप्त हो जाएगा।”\n\nसभा ने साँस रोक ली। रावण धीरे-धीरे सिंहासन से उठा। उसका मुख क्रोध से काला था, और स्वर काँप रहा था।\n\n“तेरी यह हिम्मत! मेरे अपने दरबार में, मेरे अपने पुत्रों के सामने, तू कायर और गद्दार की तरह बोलता है! मेरा अन्न खाता है और शत्रु के लिए दया दिखाता है! क्या भाई ऐसे बोलते हैं? जा, अगर उससे इतना प्रेम है तो जा! जिसे मुझ पर संदेह है, वह मेरे पास नहीं रह सकता।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता विभीषण पुढे आला. त्याचा आवाज सौम्य होता, तरी प्रत्येकाच्या कानांनी तो ऐकला. “भाऊ, मी बोलतो आहे कारण माझे तुझ्यावर प्रेम आहे. सीता लंकेत आली त्या दिवसापासून भयंकर अपशकुन होत आहेत. पवित्र अग्नी मंद जळत आहेत. कावळे घिरट्या घालत आहेत. आपली स्वतःची माणसे घाबरली आहेत. सीतेला सन्मानाने रामांना परत कर. जो दुसऱ्याची पत्नी घेतो, तो पाणी खडकाला झिजवते तसा स्वतः झिजतो.”\n\nत्याने मान झुकवली. “राम सामान्य माणूस नाही. तो सूर्याइतकाच निश्चितपणे धर्म आहे. तू त्याच्याविरुद्ध जिंकू शकत नाहीस, आणि तुला गरजही नाही. तिला परत दे. लंका सुरक्षित राहील. युद्ध सुरू होण्यापूर्वीच संपेल.”\n\nसभागृहाने श्वास रोखला. रावण हळूहळू सिंहासनावरून उठला. त्याचा चेहरा क्रोधाने काळा पडला होता, आणि त्याचा आवाज थरथरत होता.\n\n“तुझी हिंमत! माझ्याच दरबारात, माझ्याच पुत्रांसमोर, तू भित्र्यासारखा आणि विश्वासघातक्यासारखा बोलतोस! माझे अन्न खातोस आणि माझ्या शत्रूसाठी कळवळतोस! भाऊ असा बोलतो का? इतके प्रेम असेल तर जा! त्याच्याकडे जा! माझ्यावर शंका घेणारा कोणीही मला जवळ नको.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The flight across the sea",
+    "hi": {
+     "text": "सागर पार उड़ान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सागरापलीकडे उड्डाण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then Ravana did something that no one in the court ever forgot. He kicked Vibhishana from his seat. The younger brother fell to the floor. For one moment the only sound in the hall was the rustle of cloth.\n\nVibhishana rose. There were tears in his eyes, but his voice did not shake. “You are my elder, and I will not answer in anger,” he said. “I have said what I must. May you be well, brother. May you remember me, one day, with kindness.”\n\nHe turned and walked out. Four loyal friends went with him. The doors of the palace of his birth closed behind him. He did not look back. Whatever he lost that day, he knew, he had not lost his dharma.\n\nThey rose into the night sky, over the walls of Lanka, over the burning rooftops that were still smoking from Hanuman's visit. Below them the ocean shimmered, wide and cold. Vibhishana knew only that there was one place in the world where a man who had chosen right might be received, if he dared to ask.",
+    "hi": {
+     "text": "तब रावण ने वह किया जिसे दरबार में कोई कभी न भूला। उसने विभीषण को आसन से लात मार दी। छोटा भाई ज़मीन पर गिर पड़ा। एक क्षण को सभा में बस वस्त्रों की सरसराहट सुनाई दी।\n\nविभीषण उठे। आँखों में आँसू थे, पर स्वर नहीं काँपा। “आप मेरे बड़े हैं, मैं क्रोध में उत्तर नहीं दूँगा,” उन्होंने कहा। “जो कहना था, कह दिया। भैया, आप कुशल रहें। कभी मुझे प्रेम से याद कीजिएगा।”\n\nवे मुड़े और बाहर चले गए। चार निष्ठावान मित्र उनके साथ गए। जन्म के महल के द्वार उनके पीछे बंद हो गए। उन्होंने मुड़कर नहीं देखा। उस दिन उन्होंने जो भी खोया, वे जानते थे कि अपना धर्म नहीं खोया।\n\nवे रात के आकाश में उठे, लंका की दीवारों के ऊपर से, उन जलती छतों के ऊपर से जो हनुमान की यात्रा से अब भी धुआँ दे रही थीं। नीचे सागर चमक रहा था, चौड़ा और ठंडा। विभीषण बस इतना जानते थे कि संसार में एक ही स्थान है जहाँ सही राह चुनने वाले का स्वागत हो सकता है, यदि वह माँगने का साहस करे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग रावणाने असे काही केले जे दरबारातल्या कोणालाही कधीच विसरता आले नाही. त्याने विभीषणाला आसनावरून लाथ मारली. धाकटा भाऊ जमिनीवर कोसळला. क्षणभर सभागृहात फक्त वस्त्रांची सळसळ ऐकू आली.\n\nविभीषण उठला. त्याच्या डोळ्यांत अश्रू होते, पण आवाज थरथरला नाही. “तू माझा वडील भाऊ आहेस, आणि मी रागाने उत्तर देणार नाही,” तो म्हणाला. “मला जे सांगायचे होते ते मी सांगितले. भाऊ, तुझे कल्याण होवो. एखाद्या दिवशी तू मला प्रेमाने आठव.”\n\nतो वळला आणि बाहेर चालत गेला. चार निष्ठावान मित्र त्याच्यासोबत गेले. आपल्या जन्माच्या महालाची दारे त्याच्या मागे मिटली. त्याने मागे वळून पाहिले नाही. त्या दिवशी त्याने जे काही गमावले, तरी आपला धर्म गमावला नाही हे त्याला माहीत होते.\n\nते रात्रीच्या आकाशात उंच उडाले, लंकेच्या तटांवरून, हनुमानाच्या भेटीमुळे अजूनही धुमसणाऱ्या जळक्या छपरांवरून. खाली सागर चमकत होता, रुंद आणि थंड. विभीषणाला एवढेच माहीत होते की जगात एक जागा आहे जिथे योग्य निवडलेल्या माणसाचे स्वागत होऊ शकते, जर त्याने विचारायचे धैर्य केले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Suspicion at the shore",
+    "hi": {
+     "text": "तट पर संदेह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "किनाऱ्यावर संशय",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At dawn the monkey sentries on the beach saw five figures in the sky and cried the alarm. In a moment the army was on its feet, and Sugriva peered up with narrowed eyes.\n\nVibhishana landed at the water's edge, hands raised. “I am Vibhishana, brother of Ravana,” he called. “I have left him because he will not listen to the truth. I come to Rama for refuge.”\n\nThe monkey chiefs were not moved. “A demon's brother?” said Sugriva. “This is a trick. Ravana has sent a spy, and when we welcome him, he will slip a knife between our ribs. Let us seize him and be done.” Some of the generals agreed. Others, careful, urged that they should listen.\n\nRama asked each of his friends for their counsel. The others spoke, one by one, of danger. Then Hanuman rose.\n\n“My lord,” he said, “I watched Ravana's court with my own eyes. I have seen this man's face. He is not afraid to speak plainly. His words are sincere. I trust him.”",
+    "hi": {
+     "text": "भोर में तट के वानर पहरेदारों ने आकाश में पाँच आकृतियाँ देखीं और चेतावनी चिल्ला दी। पल भर में सेना खड़ी हो गई, और सुग्रीव ने आँखें सिकोड़कर ऊपर देखा।\n\nविभीषण जल के किनारे उतरे, हाथ ऊपर उठाए। “मैं विभीषण हूँ, रावण का भाई,” उन्होंने पुकारा। “मैंने उसे इसलिए छोड़ा कि वह सच सुनने को तैयार नहीं। मैं राम की शरण में आया हूँ।”\n\nवानर सरदारों का मन नहीं पिघला। “राक्षस का भाई?” सुग्रीव ने कहा। “यह छल है। रावण ने जासूस भेजा है, और जब हम उसका स्वागत करेंगे तो वह हमारी पसलियों में छुरा घोंप देगा। इसे पकड़कर समाप्त कर दें।” कुछ सेनापति सहमत थे। दूसरों ने, सावधानी से, कहा कि पहले सुन लेना चाहिए।\n\nराम ने हर मित्र से सलाह माँगी। बाकी सबने एक-एक कर ख़तरे की बात की। तब हनुमान उठे।\n\n“प्रभु,” उन्होंने कहा, “मैंने रावण का दरबार अपनी आँखों से देखा है। मैंने इस व्यक्ति का मुख देखा है। यह साफ़ बोलने से नहीं डरता। इसके शब्द सच्चे हैं। मुझे इन पर विश्वास है।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटे किनाऱ्यावरच्या वानर पहारेकऱ्यांनी आकाशात पाच आकृत्या पाहिल्या आणि धोक्याची घंटा वाजवली. क्षणात सैन्य उभे राहिले, आणि सुग्रीवाने डोळे बारीक करून वर पाहिले.\n\nविभीषण हात उंचावून पाण्याकाठी उतरला. “मी रावणाचा भाऊ विभीषण आहे,” त्याने हाक मारली. “तो सत्य ऐकायला तयार नाही म्हणून मी त्याला सोडून आलो आहे. मी रामांकडे आश्रयाला आलो आहे.”\n\nवानर प्रमुख प्रभावित झाले नाहीत. “राक्षसाचा भाऊ?” सुग्रीव म्हणाला. “ही युक्ती आहे. रावणाने हेर पाठवला आहे, आणि आपण त्याचे स्वागत केले की तो आपल्या फासळ्यांत सुरा खुपसेल. त्याला पकडू आणि संपवू.” काही सेनापती सहमत झाले. इतरांनी सावधपणे ऐकून घेण्याचा आग्रह धरला.\n\nरामांनी आपल्या प्रत्येक मित्राला सल्ला विचारला. बाकीचे एकामागून एक धोक्याबद्दल बोलले. मग हनुमान उभा राहिला.\n\n“प्रभू,” तो म्हणाला, “मी रावणाचा दरबार स्वतःच्या डोळ्यांनी पाहिला आहे. मी या माणसाचा चेहरा पाहिला आहे. तो स्पष्ट बोलायला घाबरत नाही. त्याचे शब्द प्रामाणिक आहेत. माझा त्याच्यावर विश्वास आहे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Rama's vow, and a crown of sea water",
+    "hi": {
+     "text": "राम का प्रण, और सागर-जल का राजतिलक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामांचे वचन आणि सागराच्या पाण्याचा मुकुट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Rama listened to all of them. Then he spoke, and his voice was soft and certain. “I have heard your fears, and they are wise. But I have one law of my own. If someone comes to me, even once, and says ‘I am yours’, I give him freedom from fear of all beings. This is my vow. Even if it were Ravana himself who came and asked for refuge, I would not refuse him.”\n\nSugriva, humbled, bowed his head. “Bring him here.” Vibhishana fell at Rama's feet, weeping, and Rama lifted him up and held him in a long embrace.\n\nThen Rama said, “Lakshmana, bring water from the sea.” There on the sand, with the waves for music and the sky for a roof, he poured it over Vibhishana's head and named him king of Lanka. The monkeys cheered. They had not yet crossed the sea, but a friend was already crowned: a promise that this war was to restore dharma, not to conquer a kingdom.\n\nVibhishana had left a palace and a family and arrived with nothing but the truth. That is the gift of refuge: it asks only that you come and say, with your whole heart, “I am yours.”",
+    "hi": {
+     "text": "राम ने सबकी सुनी। फिर वे बोले, और उनका स्वर कोमल और निश्चित था। “मैंने तुम्हारे भय सुने, और वे समझदारी के हैं। पर मेरा अपना एक नियम है। जो कोई मेरे पास एक बार भी आकर कहे ‘मैं तुम्हारा हूँ’, उसे मैं सब प्राणियों से अभय दे देता हूँ। यह मेरा प्रण है। स्वयं रावण भी आकर शरण माँगे, तो मैं उसे मना नहीं करूँगा।”\n\nसुग्रीव ने विनम्र होकर सिर झुकाया। “उन्हें यहाँ लाओ।” विभीषण रोते हुए राम के चरणों में गिर पड़े, और राम ने उन्हें उठाकर देर तक गले लगाए रखा।\n\nफिर राम ने कहा, “लक्ष्मण, सागर से जल लाओ।” वहीं रेत पर, लहरों के संगीत में और आकाश की छत के नीचे, उन्होंने वह जल विभीषण के सिर पर डाला और उन्हें लंका का राजा घोषित किया। वानरों ने जयकार की। उन्होंने अभी सागर पार नहीं किया था, पर एक मित्र का राजतिलक हो चुका था: इस बात का वचन कि यह युद्ध धर्म की स्थापना के लिए है, राज्य जीतने के लिए नहीं।\n\nविभीषण महल और परिवार छोड़कर आए थे, और सत्य के सिवा कुछ साथ नहीं लाए थे। शरण का यही उपहार है: वह बस इतना माँगती है कि आप आएँ और पूरे हृदय से कहें, “मैं आपका हूँ।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामांनी सर्वांचे ऐकले. मग ते बोलले, आणि त्यांचा आवाज मृदू आणि निश्चित होता. “मी तुमच्या भीती ऐकल्या आहेत, आणि त्या शहाणपणाच्या आहेत. पण माझा स्वतःचा एक नियम आहे. जो कोणी माझ्याकडे एकदा येऊन ‘मी तुमचा आहे’ म्हणतो, त्याला मी सर्व प्राण्यांपासून अभय देतो. हे माझे व्रत आहे. खुद्द रावण जरी आश्रय मागायला आला, तरी मी त्याला नकार देणार नाही.”\n\nसुग्रीवाने नम्र होऊन मान झुकवली. “त्याला इथे आणा.” विभीषण रामांच्या पायांवर कोसळला, रडत, आणि रामांनी त्याला उठवून दीर्घ आलिंगन दिले.\n\nमग राम म्हणाले, “लक्ष्मणा, सागराचे पाणी आण.” तिथे वाळूवर, लाटांचे संगीत आणि आकाशाचे छप्पर घेऊन, त्यांनी ते विभीषणाच्या मस्तकावर ओतले आणि त्याला लंकेचा राजा घोषित केले. वानरांनी जयजयकार केला. त्यांनी अजून सागर ओलांडला नव्हता, पण एक मित्र आधीच राज्याभिषिक्त झाला होता: हे युद्ध राज्य जिंकण्यासाठी नाही, तर धर्म स्थापण्यासाठी आहे याचे वचन.\n\nविभीषणाने महाल आणि कुटुंब सोडले आणि फक्त सत्य घेऊन आला. आश्रयाची हीच देणगी आहे: ती एवढेच मागते की तुम्ही या आणि पूर्ण हृदयाने म्हणा, “मी तुमचा आहे.”",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "सकृदेव प्रपन्नाय तवास्मीति च याचते।\nअभयं सर्वभूतेभ्यो ददाम्येतद्व्रतं मम॥",
+  "cite": {
+   "en": "Valmiki Ramayana, Yuddha Kanda 18.33",
+   "hi": {
+    "text": "वाल्मीकि रामायण, युद्धकांड 18.33",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वाल्मीकी रामायण, युद्धकांड १८.३३",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "To anyone who comes to me even once and says ‘I am yours’, I give freedom from fear of all beings. This is my vow.",
+   "hi": {
+    "text": "जो मेरे पास एक बार भी आकर कहे ‘मैं तुम्हारा हूँ’, उसे मैं सब प्राणियों से अभय देता हूँ। यह मेरा प्रण है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जो कोणी माझ्याकडे एकदा येऊन ‘मी तुमचा आहे’ म्हणतो, त्याला मी सर्व प्राण्यांपासून अभय देतो. हे माझे व्रत आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Vibhishana spoke the truth when everyone else flattered, and it cost him his home. When have you stayed quiet to keep the peace? Today, say one kind and honest thing that needs saying.",
+  "hi": {
+   "text": "विभीषण ने तब सच बोला जब सबने चापलूसी की, और इसकी कीमत उन्हें अपने घर से चुकानी पड़ी। आपने कब शांति बनाए रखने के लिए चुप्पी साधी? आज कोई एक कोमल और सच्ची बात कह दीजिए जो कही जानी चाहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सगळे खुशामत करत असताना विभीषणाने सत्य सांगितले, आणि त्याची किंमत त्याला आपले घर देऊन चुकवावी लागली. शांतता राखण्यासाठी तुम्ही कधी गप्प बसलात का? आज एक प्रेमळ आणि प्रामाणिक गोष्ट सांगा जी सांगायला हवी आहे.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The Divine refuses no one who surrenders, and the courage to speak the truth is always worth its cost.",
+  "hi": {
+   "text": "परमात्मा शरण में आए किसी को नहीं ठुकराते, और सत्य बोलने का साहस हमेशा अपनी कीमत से बड़ा होता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "परमेश्वर शरण आलेल्या कोणालाही नाकारत नाही, आणि सत्य बोलण्याचे धैर्य नेहमीच त्याच्या किंमतीला पात्र असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Sundara and Yuddha Kanda (the war council, Vibhishana's refuge)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, सुंदरकांड और युद्धकांड (युद्ध की सभा, विभीषण की शरण)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, सुंदर आणि युद्धकांड (युद्धसभा, विभीषणाचा आश्रय)",
+   "reviewed": false
+  }
+ }
+}

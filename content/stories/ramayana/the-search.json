@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "the-search",
+ "order": 20,
+ "part": "kishkindha",
+ "figure": {
+  "en": "Angada and Hanuman",
+  "hi": {
+   "text": "अंगद और हनुमान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अंगद आणि हनुमान",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The edge of the sea",
+  "hi": {
+   "text": "सागर के किनारे",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सागराच्या काठावर",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Four directions, one month, and a promise: return with news or do not return. In the south, the sea lies waiting, and a vulture with burnt wings is listening.",
+  "hi": {
+   "text": "चार दिशाएँ, एक महीना, और एक वचन: समाचार लेकर लौटना, नहीं तो मत लौटना। दक्षिण में सागर प्रतीक्षा कर रहा है, और जले पंखों वाला एक गिद्ध सुन रहा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चार दिशा, एक महिना, आणि एक वचन: बातमी घेऊन या, नाहीतर परतू नका. दक्षिणेला सागर वाट पाहत आहे, आणि पंख जळालेला एक गिधाड ऐकत आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/the-search-1.webp",
+   "w": 1200,
+   "h": 814,
+   "caption": {
+    "en": "Hanuman, Jambavan and Angada meet Sampati, Jatayu's elder brother (1700s painting)",
+    "hi": {
+     "text": "हनुमान, जाम्बवान और अंगद जटायु के बड़े भाई सम्पाति से मिलते हैं (अठारहवीं सदी का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमान, जांबवंत आणि अंगद जटायूचा मोठा भाऊ संपातीला भेटतात (अठराव्या शतकातील चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanuman_with_Jambavan_and_Angada_Meet_Sampati,_the_Elder_Brother_of_Jatayu_-_1700-1800.jpg"
+  },
+  {
+   "src": "/stories/ramayana/great-leap-3.webp",
+   "w": 754,
+   "h": 1100,
+   "caption": {
+    "en": "Rama gives Hanuman his ring for Sita (K. Venkatappa)",
+    "hi": {
+     "text": "राम सीता के लिए हनुमान को अपनी अंगूठी देते हैं (के. वेंकटप्पा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम सीतेसाठी हनुमानाला आपली अंगठी देतात (के. वेंकटप्पा)",
+     "reviewed": false
+    }
+   },
+   "credit": "K. Venkatappa, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rama_sending_his_signet_ring_to_Sita.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Four directions",
+    "hi": {
+     "text": "चार दिशाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चार दिशा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sugriva called his captains and gave each a direction. To the east he sent Vinata, to the west Sushena, and to the north the fierce Shatabali. Each was told: “You have one month. Search every cave, every river and every city. Whoever returns after that month without news of Sita will answer to me.”\n\nTo the south he sent the strongest of all: Prince Angada, with the great bear Jambavan, Nala, Neela and many more. And at their head, as their true guide, he sent Hanuman.\n\nHe spoke to Hanuman alone. “I know no one whose speed and wisdom match yours. Whatever happens, Hanuman, it is you whom I trust.”\n\nRama saw this too. When the others had gone, he called Hanuman close. He took a ring from his finger, with his own name carved upon it, and placed it in Hanuman's palm. “She will know it,” he said softly. “It will tell her that you come from me.” Hanuman bowed, tied it into the cloth at his waist, and set out.",
+    "hi": {
+     "text": "सुग्रीव ने सेनापतियों को बुलाकर हर एक को एक दिशा सौंपी। पूर्व में विनत को भेजा, पश्चिम में सुषेण को, और उत्तर में प्रचंड शतबली को। सबसे कहा गया: “तुम्हारे पास एक महीना है। हर गुफा, हर नदी और हर नगर खोज डालना। जो उस महीने के बाद सीता का समाचार लिए बिना लौटेगा, उसे मुझे उत्तर देना होगा।”\n\nदक्षिण में उन्होंने सबसे शक्तिशाली दल भेजा: युवराज अंगद, महान रीछ जाम्बवान, नल, नील और बहुत-से और। और उनके मुखिया के रूप में, सच्चे पथ-प्रदर्शक की तरह, हनुमान को भेजा।\n\nउन्होंने हनुमान से अकेले में कहा। “मैं किसी को नहीं जानता जिसकी गति और बुद्धि तुम्हारे बराबर हो। जो भी हो, हनुमान, भरोसा मुझे तुम्हीं पर है।”\n\nराम ने भी यह देखा। जब और सब चले गए, तो उन्होंने हनुमान को पास बुलाया। उन्होंने अपनी उँगली से अँगूठी उतारी, जिस पर उनका अपना नाम खुदा था, और हनुमान की हथेली पर रख दी। “वह इसे पहचान लेगी,” उन्होंने धीमे से कहा। “इससे उसे पता चलेगा कि तुम मेरे पास से आए हो।” हनुमान ने प्रणाम किया, उसे कमर के वस्त्र में बाँधा, और चल पड़े।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुग्रीवाने आपल्या सेनापतींना बोलावले आणि प्रत्येकाला एकेक दिशा दिली. पूर्वेला त्याने विनताला पाठवले, पश्चिमेला सुषेणाला, आणि उत्तरेला उग्र शतबलीला. प्रत्येकाला सांगितले: “तुमच्याकडे एक महिना आहे. प्रत्येक गुहा, प्रत्येक नदी आणि प्रत्येक नगर धुंडाळा. जो त्या महिन्यानंतर सीतेच्या बातमीशिवाय परत येईल, त्याला मला उत्तर द्यावे लागेल.”\n\nदक्षिणेला त्याने सर्वात बलवान जणांना पाठवले: राजकुमार अंगद, महान अस्वल जांबवान, नल, नील आणि इतर अनेक. आणि त्यांच्या अग्रभागी खरा मार्गदर्शक म्हणून त्याने हनुमानाला पाठवले.\n\nतो हनुमानाशी एकांतात बोलला. “वेगात आणि बुद्धीत तुझ्या तोडीचा मला कोणी माहीत नाही. काहीही झाले तरी हनुमान, माझा विश्वास तुझ्यावर आहे.”\n\nरामांनाही हे दिसले होते. बाकीचे गेल्यावर त्यांनी हनुमानाला जवळ बोलावले. त्यांनी आपल्या बोटातली, स्वतःचे नाव कोरलेली अंगठी काढली आणि हनुमानाच्या तळहातावर ठेवली. “ती ओळखेल,” ते हळूच म्हणाले. “तू माझ्याकडून आला आहेस हे ती तिला सांगेल.” हनुमानाने नमस्कार केला, ती अंगठी कमरेच्या वस्त्रात बांधली, आणि तो निघाला.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Into the dark cave",
+    "hi": {
+     "text": "अँधेरी गुफा में",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काळोख्या गुहेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "For weeks the southern party searched the Vindhya hills and forests, finding nothing. Their month was running out. The days grew hot and dry, and thirst gnawed at them.\n\nThen they saw a strange sight: wet birds flying out of a hole in the hillside, their feathers dripping. “Where there are wet birds, there is water,” said Hanuman. One by one they crept into the opening. The tunnel was dark, and they held hands and walked for what seemed a very long time.\n\nSuddenly the dark gave way to a golden light, and they stepped into a hidden garden of jewelled trees and sparkling lakes. A radiant ascetic woman sat in meditation. She was Swayamprabha, guardian of the cave, built by the divine architect Maya.\n\nShe fed them and gave them strength. Then she said, “Close your eyes, all of you.” When they opened them, they stood on the sandy shore of the southern ocean. The cave had vanished. And they saw, with a pang, that their month had long passed.",
+    "hi": {
+     "text": "कई सप्ताह दक्षिणी दल विंध्य की पहाड़ियों और वनों में खोजता रहा, पर कुछ न मिला। उनका महीना बीतने को था। दिन गरम और सूखे हो चले, और प्यास उन्हें सताने लगी।\n\nफिर उन्होंने एक अनोखा दृश्य देखा: पहाड़ी के एक छेद से भीगे हुए पक्षी निकल रहे थे, उनके पंखों से पानी टपक रहा था। “जहाँ भीगे पक्षी हैं, वहाँ जल है,” हनुमान ने कहा। एक-एक करके वे उस द्वार में घुस गए। सुरंग अँधेरी थी, और वे एक-दूसरे का हाथ थामे बहुत देर तक चलते रहे।\n\nअचानक अँधेरा सुनहरे प्रकाश में बदल गया, और वे रत्नों के वृक्षों और चमकते सरोवरों वाले एक गुप्त उपवन में आ पहुँचे। वहाँ एक तेजस्वी तपस्विनी ध्यान में बैठी थी। वह स्वयंप्रभा थी, उस गुफा की रक्षिका, जिसे दिव्य शिल्पी मय ने बनाया था।\n\nउसने उन्हें भोजन कराया और बल दिया। फिर बोली, “तुम सब आँखें बंद कर लो।” जब उन्होंने आँखें खोलीं, तो वे दक्षिणी सागर के रेतीले तट पर खड़े थे। गुफा ग़ायब हो चुकी थी। और उन्होंने कसक के साथ देखा कि उनका महीना कब का बीत चुका था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आठवडेच्या आठवडे दक्षिणेकडील पथक विंध्याच्या डोंगरांत आणि वनांत शोध घेत राहिले, पण काही सापडले नाही. त्यांचा महिना संपत आला होता. दिवस तापले आणि कोरडे झाले, तहानेने त्यांना पोखरले.\n\nमग त्यांना एक विचित्र दृश्य दिसले: डोंगरातल्या एका विवरातून ओले पक्षी बाहेर उडत होते, त्यांच्या पिसांतून पाणी ठिबकत होते. “जिथे ओले पक्षी असतात तिथे पाणी असते,” हनुमान म्हणाला. एकामागून एक ते त्या विवरात शिरले. बोगदा अंधारा होता, त्यांनी हात धरले आणि खूप वेळ चालत राहिले.\n\nअचानक अंधाराची जागा सोनेरी प्रकाशाने घेतली, आणि ते रत्नजडित वृक्षांच्या आणि लखलखत्या सरोवरांच्या एका गुप्त उद्यानात आले. तिथे एक तेजस्वी तपस्विनी ध्यानात बसली होती. ती स्वयंप्रभा होती, दिव्य शिल्पकार मयाने बांधलेल्या त्या गुहेची रक्षक.\n\nतिने त्यांना जेवू घातले आणि बळ दिले. मग ती म्हणाली, “तुम्ही सगळे डोळे मिटा.” त्यांनी डोळे उघडले तेव्हा ते दक्षिण सागराच्या वाळूच्या किनाऱ्यावर उभे होते. गुहा नाहीशी झाली होती. आणि त्यांच्या काळजात धस्स झाले, कारण त्यांचा महिना कधीच संपला होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Despair at the water",
+    "hi": {
+     "text": "सागर किनारे निराशा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाण्यापाशी निराशा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Before them stretched the sea, grey and endless, its waves roaring on the sand like a great beast that would not be bargained with. Their month had ended, and they had nothing to show for it.\n\nThe monkeys sat down on the shore. Angada, young and proud, put his head in his hands. “Sugriva will not forgive this,” he said. “He has never forgiven easily, even his own brother. And I am the son of the one he fought.”\n\n“There is no honour in going home empty-handed,” he continued. “I will sit here and fast until my life leaves me. Let the sea take me, and let whoever wishes to return, return.”\n\nSome wept. Some agreed. Old Jambavan said nothing. A heavy silence settled over the beach, and even the gulls seemed to fall quiet.\n\nThey spoke of Jatayu, who had given his life for a stranger, and of how a bird had done what a hundred monkeys could not. They were ashamed, and they were tired, and the evening wind was cold.",
+    "hi": {
+     "text": "उनके सामने सागर फैला था, धूसर और अंतहीन, उसकी लहरें रेत पर किसी ऐसे विशाल पशु की तरह गरज रही थीं जो मोल-भाव नहीं करता। उनका महीना पूरा हो चुका था, और दिखाने को हाथ में कुछ नहीं था।\n\nवानर तट पर बैठ गए। अंगद, जो युवा और स्वाभिमानी थे, सिर पकड़कर बैठ गए। “सुग्रीव इसके लिए क्षमा नहीं करेंगे,” उन्होंने कहा। “उन्होंने तो अपने सगे भाई को भी आसानी से क्षमा नहीं किया। और मैं उसी का पुत्र हूँ जिससे वे लड़े थे।”\n\n“ख़ाली हाथ लौटने में कोई मान नहीं,” वे बोलते गए। “मैं यहीं बैठकर उपवास करूँगा जब तक प्राण न निकल जाएँ। सागर मुझे ले ले, और जो लौटना चाहे, लौट जाए।”\n\nकुछ रो पड़े। कुछ ने हामी भरी। बूढ़े जाम्बवान कुछ न बोले। तट पर भारी सन्नाटा छा गया, और समुद्री पक्षी भी चुप हो गए।\n\nउन्होंने जटायु की बात की, जिसने एक अजनबी के लिए प्राण दे दिए, और कैसे एक पक्षी ने वह कर दिखाया जो सौ वानर नहीं कर सके। वे लज्जित थे, थके थे, और शाम की हवा ठंडी थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांच्या समोर सागर पसरला होता, करडा आणि अंतहीन, त्याच्या लाटा वाळूवर एखाद्या न ऐकणाऱ्या पशूसारख्या गर्जत होत्या. त्यांचा महिना संपला होता, आणि दाखवायला त्यांच्याकडे काहीच नव्हते.\n\nवानर किनाऱ्यावर बसले. तरुण आणि अभिमानी अंगदाने डोके हातांत धरले. “सुग्रीव हे क्षमा करणार नाहीत,” तो म्हणाला. “त्यांनी आपल्या स्वतःच्या भावालाही सहज क्षमा केली नाही. आणि मी तर ज्याच्याशी ते लढले त्याचा मुलगा आहे.”\n\n“रिकाम्या हाताने घरी जाण्यात काहीच मान नाही,” तो पुढे म्हणाला. “मी इथेच उपोषण करून बसेन, प्राण जाईपर्यंत. सागराने मला घेऊन जावे, आणि ज्यांना परतायचे आहे त्यांनी परतावे.”\n\nकाही जण रडले. काही जण सहमत झाले. वृद्ध जांबवान काहीच बोलला नाही. किनाऱ्यावर जड शांतता पसरली, आणि समुद्रपक्षीही गप्प झाल्यासारखे वाटले.\n\nत्यांनी जटायूचा विषय काढला, ज्याने एका अनोळखी स्त्रीसाठी प्राण दिले, आणि शंभर वानरांना जे जमले नाही ते एका पक्ष्याने कसे करून दाखवले. त्यांना लाज वाटली, ते थकले होते, आणि संध्याकाळचा वारा थंड होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The vulture on the cliff",
+    "hi": {
+     "text": "चट्टान पर गिद्ध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कड्यावरचे गिधाड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "As the monkeys sat, a huge shadow moved on the cliff above. It was a vulture so old and enormous that his body looked like a hill. His wings were burnt to stumps, and he dragged himself along on ragged claws.\n\n“What luck!” he said in a creaking voice. “Food has come to me. Today one of these will be my meal.”\n\nAngada's face fell, and he said sadly, “Look how Jatayu has gone to heaven for helping Sita, while we grieve here and fear the vulture who comes for us.”\n\nThe old bird stopped. “Jatayu?” he whispered. “Did you say Jatayu? Where did you hear that name? He is my brother.”\n\nTears ran down his beak as the monkeys, gently now, helped him down the cliff and told him everything: the golden deer, Ravana, the brave fight in the sky, Jatayu's last words to Rama. When they finished, the vulture was silent for a long time. His name was Sampati, and he had not heard of his brother in many years.",
+    "hi": {
+     "text": "वानर बैठे थे कि ऊपर चट्टान पर एक विशाल परछाईं हिली। वह एक इतना बूढ़ा और विशाल गिद्ध था कि उसकी देह पहाड़ जैसी लगती थी। उसके पंख जलकर ठूँठ रह गए थे, और वह फटे नाखूनों के सहारे घिसटकर चल रहा था।\n\n“कैसा भाग्य!” उसने चरमराती आवाज़ में कहा। “भोजन अपने आप चला आया। आज इनमें से एक मेरा आहार बनेगा।”\n\nअंगद का मुख उतर गया और उन्होंने दुखी होकर कहा, “देखो, जटायु सीता की सहायता करके स्वर्ग चले गए, और हम यहाँ शोक में बैठे हैं और अपने पास आते गिद्ध से डर रहे हैं।”\n\nबूढ़ा पक्षी रुक गया। “जटायु?” वह फुसफुसाया। “तुमने जटायु कहा? यह नाम तुमने कहाँ सुना? वह मेरा भाई है।”\n\nउसकी चोंच से आँसू बह चले, और वानरों ने, अब कोमलता से, उसे चट्टान से नीचे उतारा और सब कुछ बताया: सोने का मृग, रावण, आकाश में हुआ वीर युद्ध, राम के लिए जटायु के अंतिम वचन। जब वे चुप हुए, तो गिद्ध बहुत देर तक कुछ न बोला। उसका नाम सम्पाती था, और उसने बरसों से अपने भाई की कोई ख़बर नहीं सुनी थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वानर तिथे बसले असताना वरच्या कड्यावर एक प्रचंड सावली हलली. तो इतका वृद्ध आणि अवाढव्य गिधाड होता की त्याचे शरीर डोंगरासारखे दिसत होते. त्याचे पंख जळून खुंटे झाले होते, आणि फाटक्या नखांवर तो स्वतःला ओढत चालत होता.\n\n“काय नशीब!” तो करकरीत आवाजात म्हणाला. “अन्न स्वतःहून माझ्याकडे आले आहे. आज यांच्यापैकी एकजण माझे भक्ष्य होईल.”\n\nअंगदाचा चेहरा उतरला आणि तो खिन्नपणे म्हणाला, “पाहा, सीतेला मदत करणारा जटायू स्वर्गाला गेला, आणि आपण इथे शोक करतो आहोत आणि आपल्याला खायला आलेल्या गिधाडाला भितो आहोत.”\n\nवृद्ध पक्षी थांबला. “जटायू?” तो कुजबुजला. “तू जटायू म्हणालास का? हे नाव तू कुठे ऐकलेस? तो माझा भाऊ आहे.”\n\nत्याच्या चोचीवरून अश्रू वाहिले आणि वानरांनी, आता हळुवारपणे, त्याला कड्यावरून खाली उतरायला मदत केली आणि त्याला सर्व सांगितले: सोनेरी हरिण, रावण, आकाशातली शूर झुंज, जटायूचे रामांसाठी शेवटचे शब्द. त्यांचे सांगून झाल्यावर गिधाड बराच वेळ गप्प राहिला. त्याचे नाव संपाती होते, आणि कित्येक वर्षांत त्याने आपल्या भावाची बातमी ऐकली नव्हती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Sampati's story",
+    "hi": {
+     "text": "सम्पाती की कथा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संपातीची कथा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Let me tell you why my wings are gone,” said Sampati. “When we were young, Jatayu and I raced each other to the sun. We flew so high that the heat grew terrible. I saw him weakening and spread my wings over him to shield him. My wings caught fire, and I fell to earth, here on this mountain. And Jatayu, I thought, was lost.”\n\nHe had sat for years on that peak, waiting for the day to be of some use. A sage who passed had promised him: “One day, you will help the one who searches for the Lord's wife, and your wings will grow again.”\n\nHe turned his head toward the sea. “Do you see my eyes, monkeys? They are old, but a vulture's sight reaches a hundred yojanas. I can see a city across the water: golden Lanka on the island of Trikuta. And in a grove there, under a tree, a woman sits, thin and pale and surrounded by demon women. She is calling a name.”\n\nHe closed his eyes. “Sita is in Lanka.”",
+    "hi": {
+     "text": "“मैं बताता हूँ कि मेरे पंख क्यों जल गए,” सम्पाती बोला। “जब हम जवान थे, मैं और जटायु सूर्य तक पहुँचने की होड़ में उड़े। हम इतना ऊँचे उड़े कि ताप असह्य हो गया। मैंने उसे कमज़ोर पड़ते देखा तो अपने पंख फैलाकर उसे ढक लिया। मेरे पंखों में आग लग गई, और मैं यहीं इस पर्वत पर आ गिरा। और जटायु, मैंने सोचा, खो गया।”\n\nवह बरसों से उस शिखर पर बैठा उस दिन की राह देख रहा था जब वह किसी के काम आ सके। वहाँ से गुज़रे एक ऋषि ने उससे कहा था: “एक दिन तू उसकी सहायता करेगा जो प्रभु की पत्नी को खोजता आएगा, और तेरे पंख फिर उग आएँगे।”\n\nउसने सागर की ओर सिर घुमाया। “वानरो, मेरी आँखें देखते हो? ये बूढ़ी हैं, पर गिद्ध की दृष्टि सौ योजन तक जाती है। मुझे समुद्र पार एक नगर दिखता है: त्रिकूट द्वीप पर सोने की लंका। और वहाँ एक वाटिका में, एक पेड़ के नीचे, एक स्त्री बैठी है, दुबली और पीली, राक्षसियों से घिरी हुई। वह एक नाम पुकार रही है।”\n\nउसने आँखें मूँद लीं। “सीता लंका में है।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“माझे पंख का गेले ते मी तुम्हाला सांगतो,” संपाती म्हणाला. “आम्ही तरुण असताना जटायू आणि मी सूर्यापर्यंत शर्यत लावली. आम्ही इतके उंच उडालो की उष्णता असह्य झाली. मला दिसले की तो दुर्बळ होतो आहे, म्हणून मी त्याला झाकायला माझे पंख त्याच्यावर पसरले. माझ्या पंखांना आग लागली, आणि मी इथे या डोंगरावर पृथ्वीवर कोसळलो. आणि जटायू मला वाटले, हरवला.”\n\nतो वर्षानुवर्षे त्या शिखरावर बसून उपयोगी पडण्याच्या दिवसाची वाट पाहत होता. तिथून जाणाऱ्या एका ऋषींनी त्याला वचन दिले होते: “एके दिवशी तू परमेश्वराच्या पत्नीचा शोध घेणाऱ्यांना मदत करशील, आणि तुझे पंख पुन्हा उगवतील.”\n\nतो सागराकडे तोंड करून म्हणाला. “वानरांनो, माझे डोळे पाहता का? ते जुने आहेत, पण गिधाडाची दृष्टी शंभर योजने जाते. मला सागराच्या पलीकडे एक नगर दिसते आहे: त्रिकूट बेटावरची सोनेरी लंका. आणि तिथल्या एका उद्यानात, एका झाडाखाली, एक स्त्री बसली आहे, कृश आणि फिक्कट, राक्षसींनी वेढलेली. ती एक नाव घेऊन हाक मारते आहे.”\n\nत्याने डोळे मिटले. “सीता लंकेत आहे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Wings of hope",
+    "hi": {
+     "text": "आशा के पंख",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आशेचे पंख",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The beach erupted. The monkeys leapt and shouted and embraced each other. Angada wiped away his tears, and the weight that had pressed on all of them lifted like a cloud.\n\nAnd as the shouting subsided, a small miracle occurred. Sampati felt a prickle on his back, and new red feathers began to grow from his burnt wings. “The sage was right,” he whispered. “I have been of use at last.” He spread his wings and rose a few feet into the air, unsteady but alive.\n\n“Go now,” he said. “Go with all your strength. Tell Rama that my brother's friends have not forgotten him.”\n\nBut the sea still lay before them, a hundred yojanas wide, and no monkey among them knew how to cross it. They turned their faces to one another. In that tense silence, not one person looked at the monkey who sat quietly at the back, gazing at the waves as though listening to something far away.\n\nHanuman had not yet spoken. He did not yet know that this ocean was waiting for him.",
+    "hi": {
+     "text": "तट जयकारों से गूँज उठा। वानर उछले, चिल्लाए और एक-दूसरे को गले लगाने लगे। अंगद ने आँसू पोंछे, और जो बोझ सब पर पड़ा था, वह बादल की तरह छँट गया।\n\nऔर जब शोर थमा, तो एक छोटा-सा चमत्कार हुआ। सम्पाती को पीठ पर गुदगुदी हुई, और उसके जले पंखों पर नए लाल पंख उगने लगे। “ऋषि सही थे,” वह फुसफुसाया। “आख़िर मैं किसी के काम आ गया।” उसने पंख फैलाए और डगमगाता हुआ, पर जीवित, कुछ हाथ ऊपर उड़ा।\n\n“अब जाओ,” उसने कहा। “पूरी शक्ति से जाओ। राम से कहना कि मेरे भाई के मित्र उसे भूले नहीं हैं।”\n\nपर सागर अब भी उनके सामने था, सौ योजन चौड़ा, और उनमें से कोई वानर उसे पार करना नहीं जानता था। सब एक-दूसरे का मुँह ताकने लगे। उस तनाव भरे मौन में किसी ने उस वानर की ओर नहीं देखा जो पीछे चुपचाप बैठा लहरों को ऐसे निहार रहा था मानो कोई दूर की आवाज़ सुन रहा हो।\n\nहनुमान अभी कुछ नहीं बोले थे। उन्हें अभी यह पता नहीं था कि यह सागर उन्हीं की राह देख रहा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "किनाऱ्यावर जल्लोष उसळला. वानर उड्या मारू लागले, ओरडू लागले, एकमेकांना आलिंगन देऊ लागले. अंगदाने अश्रू पुसले, आणि सर्वांवर बसलेले ओझे ढगासारखे उचलले गेले.\n\nआणि आरडाओरडा शांत होत असताना एक छोटा चमत्कार घडला. संपातीला पाठीवर गुदगुल्या झाल्यासारखे वाटले, आणि त्याच्या जळालेल्या पंखांतून नवी तांबडी पिसे उगवू लागली. “ऋषी खरे बोलले,” तो कुजबुजला. “शेवटी मी उपयोगी पडलो.” त्याने पंख पसरले आणि थोडे वर उडाला, डळमळत पण जिवंत.\n\n“आता जा,” तो म्हणाला. “पूर्ण शक्तीनिशी जा. रामांना सांगा की माझ्या भावाच्या मित्रांनी त्याला विसरलेले नाही.”\n\nपण सागर अजून त्यांच्या समोरच होता, शंभर योजने रुंद, आणि त्यांच्यापैकी कोणत्याही वानराला तो कसा ओलांडायचा ते माहीत नव्हते. त्यांनी एकमेकांकडे पाहिले. त्या ताणलेल्या शांततेत मागे शांतपणे बसलेल्या, जणू दूरचे काहीतरी ऐकत लाटांकडे पाहणाऱ्या वानराकडे कोणीच पाहिले नाही.\n\nहनुमान अजून काहीच बोलला नव्हता. हा सागर आपली वाट पाहतो आहे हे त्याला अजून माहीत नव्हते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Angada nearly gave up one step before the news arrived, and Sampati waited years to be of use. Is there something you almost abandoned? Today, give it one more small effort, and thank someone who has quietly waited with you.",
+  "hi": {
+   "text": "अंगद समाचार आने से बस एक क़दम पहले हार मानने वाले थे, और सम्पाती ने बरसों किसी के काम आने की प्रतीक्षा की। क्या कोई ऐसी चीज़ है जिसे आपने लगभग छोड़ दिया था? आज उसे एक छोटा-सा प्रयास और दीजिए, और उस व्यक्ति को धन्यवाद कहिए जो चुपचाप आपके साथ प्रतीक्षा करता रहा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अंगद बातमी येण्याच्या एक पाऊल आधी हार मानायला निघाला होता, आणि संपातीने उपयोगी पडण्यासाठी वर्षानुवर्षे वाट पाहिली. तुम्ही जवळजवळ सोडून दिलेली अशी काही गोष्ट आहे का? आज त्याला आणखी एक छोटा प्रयत्न द्या, आणि शांतपणे तुमच्यासोबत वाट पाहिलेल्या कोणाचे तरी आभार माना.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Do not give up at the shore; help often arrives from the least expected place, just when hope runs lowest.",
+  "hi": {
+   "text": "किनारे पर हार मत मानो; सहायता अक्सर सबसे अनपेक्षित जगह से तभी आती है जब आशा सबसे कम होती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "किनाऱ्यावर हार मानू नका; बहुतेकदा जेव्हा आशा सर्वात कमी असते तेव्हाच अनपेक्षित ठिकाणाहून मदत येते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Kishkindha Kanda (the southern search, Swayamprabha, Sampati)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, किष्किंधाकांड (दक्षिण दिशा की खोज, स्वयंप्रभा, सम्पाती)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, किष्किंधाकांड (दक्षिण दिशेचा शोध, स्वयंप्रभा, संपाती)",
+   "reviewed": false
+  }
+ }
+}

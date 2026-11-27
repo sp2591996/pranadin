@@ -1,10 +1,10 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story",
- "version": "2026-11-27.2",
+ "version": "2026-11-27.3",
  "status": "draft",
  "id": "fall-of-ravana",
- "order": 14,
+ "order": 29,
  "part": "yuddha",
  "festival": "navratri-dussehra",
  "figure": {
@@ -19,24 +19,24 @@
   }
  },
  "title": {
-  "en": "The fall of the ten-headed king",
+  "en": "The heart of the sun",
   "hi": {
-   "text": "दस सिरों वाले राजा का पतन",
+   "text": "सूर्य का हृदय",
    "reviewed": false
   },
   "mr": {
-   "text": "दहा मस्तकांच्या राजाचा पाडाव",
+   "text": "सूर्याचे हृदय",
    "reviewed": false
   }
  },
  "teaser": {
-  "en": "Ravana, alone now, rides out for the last battle. Each head Rama cuts off grows back. How do you defeat the undefeatable?",
+  "en": "His sons are gone, his brothers are gone, his queen is begging him to stop. The last battle begins, and the sky itself comes down to watch.",
   "hi": {
-   "text": "अब अकेला रावण अंतिम युद्ध के लिए निकलता है। राम जो भी सिर काटते हैं, वह फिर उग आता है। अजेय को कैसे हराया जाए?",
+   "text": "उसके पुत्र चले गए, भाई चले गए, उसकी रानी उससे रुक जाने को विनती कर रही है। अंतिम युद्ध आरंभ होता है, और स्वयं आकाश उसे देखने उतर आता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "आता एकटा पडलेला रावण अंतिम युद्धासाठी निघतो. रामाने कापलेले प्रत्येक मस्तक पुन्हा उगवते. अजिंक्याला हरवायचे कसे?",
+   "text": "त्याचे पुत्र गेले आहेत, त्याचे भाऊ गेले आहेत, त्याची राणी त्याला थांबायची विनवणी करते आहे. शेवटचे युद्ध सुरू होते, आणि आकाश स्वतःच ते पाहायला खाली उतरते.",
    "reviewed": false
   }
  },
@@ -60,69 +60,94 @@
    "source": "https://commons.wikimedia.org/wiki/File:Rama_battles_Ravana.jpg"
   },
   {
-   "src": "/stories/ramayana/fall-of-ravana-1.webp",
-   "w": 1200,
-   "h": 705,
+   "src": "/stories/ramayana/fall-of-ravana-3.webp",
+   "w": 548,
+   "h": 789,
    "caption": {
-    "en": "The battle at Lanka (Mewar Ramayana by Sahibdin, 1649–53)",
+    "en": "Mandodari pleads with her husband Ravana (Indian painting)",
     "hi": {
-     "text": "लंका का युद्ध (साहिबदीन की मेवाड़ रामायण, 1649–53)",
+     "text": "मंदोदरी अपने पति रावण से विनती करती हैं (भारतीय चित्र)",
      "reviewed": false
     },
     "mr": {
-     "text": "लंकेचे युद्ध (साहिबदीनचे मेवाड रामायण, 1649–53)",
+     "text": "मंदोदरी आपल्या पतीला, रावणाला विनवते (भारतीय चित्र)",
      "reviewed": false
     }
    },
-   "credit": "Sahibdin, Public domain, via Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Battle_at_Lanka,_Ramayana,_Udaipur,_1649-53.jpg"
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mandodari_approaches_her_husband,_the_demon_king_Ravana.jpg"
   }
  ],
  "scenes": [
   {
    "title": {
-    "en": "Ravana rides out",
+    "en": "Mandodari's plea",
     "hi": {
-     "text": "रावण रणभूमि में",
+     "text": "मंदोदरी की विनती",
      "reviewed": false
     },
     "mr": {
-     "text": "रावण रणांगणात",
+     "text": "मंदोदरीची विनवणी",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Ravana had lost his brothers, his sons, his greatest generals. Now he came himself, on a huge chariot drawn by horses as dark as night, his ten heads crowned, twenty arms holding weapons.\n\nThe gods watched from the sky. Indra sent his own chariot and charioteer, Matali, for Rama. For the first time Rama and Ravana faced each other, two great archers, while both armies stopped fighting to watch.",
+    "en": "Lanka was a city of widows now. Ravana had lost his sons, his brother, his generals, and the sound of mourning rose from every house. Yet he would not turn back. In the grey light of dawn, he put on his armour.\n\nHis queen Mandodari, wise, beautiful and faithful, came to him. She had loved him for many years, and she saw what he would not see. She spoke softly, so that no one else could hear.\n\n“My lord, I beg you, stop. Rama is not a man to be beaten. He is the one who broke Vali with a single arrow, and Hanuman has already shown us what his servants can do. Return Sita. Make peace with him, and let our children live. You are still king. You can still be remembered as one who turned back in time.”\n\nRavana looked at her. For a moment something flickered in his face, like a lamp in the wind. Then it was gone. “A king does not turn back,” he said. “If I die, I die with honour, and with the one I wanted.”\n\nHe strode out. Mandodari watched him go, her hands over her face.",
     "hi": {
-     "text": "रावण अपने भाइयों को, पुत्रों को, अपने सबसे बड़े सेनापतियों को खो चुका था। अब वह स्वयं आया, रात जैसे काले घोड़ों वाले विशाल रथ पर, दसों सिरों पर मुकुट, बीसों भुजाओं में शस्त्र।\n\nदेवता आकाश से देख रहे थे। इंद्र ने राम के लिए अपना रथ और सारथी मातलि भेजा। पहली बार राम और रावण आमने-सामने थे, दो महान धनुर्धर, और दोनों सेनाएँ युद्ध रोककर देखती रहीं।",
+     "text": "लंका अब विधवाओं का नगर थी। रावण अपने पुत्र, भाई और सेनापति खो चुका था, और हर घर से शोक की ध्वनि उठ रही थी। फिर भी वह पीछे नहीं हटा। भोर की धूसर रोशनी में उसने कवच पहना।\n\nउसकी रानी मंदोदरी, बुद्धिमती, सुंदर और निष्ठावान, उसके पास आई। उसने उसे बरसों प्रेम किया था, और वह देख रही थी जो रावण नहीं देखना चाहता था। उसने धीमे बोला, ताकि कोई और न सुने।\n\n“स्वामी, मैं विनती करती हूँ, रुक जाइए। राम ऐसे मनुष्य नहीं जो हारें। वे वही हैं जिन्होंने वाली को एक बाण में गिरा दिया, और हनुमान ने हमें पहले ही दिखा दिया है कि उनके सेवक क्या कर सकते हैं। सीता को लौटा दीजिए। उनसे संधि कर लीजिए, और हमारे बच्चों को जीने दीजिए। आप अब भी राजा हैं। आप अब भी उस रूप में याद किए जा सकते हैं जो समय रहते लौट आया।”\n\nरावण ने उसे देखा। एक क्षण उसके मुख पर हवा में दीये-सा कुछ काँपा। फिर वह चला गया। “राजा पीछे नहीं लौटता,” उसने कहा। “यदि मैं मरूँगा, तो सम्मान से मरूँगा, और उसके साथ जिसे मैंने चाहा।”\n\nवह बाहर निकल गया। मंदोदरी ने उसे जाते देखा, हाथों से मुख ढके।",
      "reviewed": false
     },
     "mr": {
-     "text": "रावणाने आपले भाऊ, आपले पुत्र, आपले सर्वोत्तम सेनापती गमावले होते. आता तो स्वतः आला, रात्रीसारख्या काळ्या घोड्यांच्या प्रचंड रथातून, दहा मस्तकांवर मुकुट, वीस हातांत शस्त्रे.\n\nदेव आकाशातून पाहत होते. इंद्राने रामासाठी स्वतःचा रथ आणि सारथी मातली पाठवला. पहिल्यांदाच राम आणि रावण समोरासमोर आले, दोन महान धनुर्धर, आणि दोन्ही सैन्ये लढणे थांबवून पाहत राहिली.",
+     "text": "लंका आता विधवांचे नगर झाले होते. रावणाने आपले पुत्र, आपला भाऊ, आपले सेनापती गमावले होते, आणि प्रत्येक घरातून शोकाचे स्वर उठत होते. तरीही तो मागे फिरला नाही. पहाटेच्या करड्या प्रकाशात त्याने कवच चढवले.\n\nत्याची राणी मंदोदरी, शहाणी, सुंदर आणि निष्ठावान, त्याच्याकडे आली. तिने अनेक वर्षे त्याच्यावर प्रेम केले होते, आणि जे त्याला दिसत नव्हते ते तिला दिसत होते. ती हळू बोलली, म्हणजे दुसऱ्या कोणाला ऐकू जाऊ नये.\n\n“स्वामी, मी तुम्हाला विनवते, थांबा. राम हरवण्यासारखा माणूस नाही. त्यांनी वालीला एकाच बाणाने पाडले, आणि हनुमानाने त्यांचे सेवक काय करू शकतात ते आधीच दाखवले आहे. सीतेला परत करा. त्यांच्याशी शांतता करा, आणि आपल्या मुलांना जगू द्या. तुम्ही अजून राजा आहात. वेळेवर मागे फिरलेला म्हणून तुमची आठवण राहू शकते.”\n\nरावणाने तिच्याकडे पाहिले. क्षणभर त्याच्या चेहऱ्यावर वाऱ्यातल्या दिव्यासारखे काहीतरी लकाकले. मग ते गेले. “राजा मागे फिरत नाही,” तो म्हणाला. “मी मेलो तर सन्मानाने मरेन, आणि ज्याला मी हवे होते त्याच्यासह.”\n\nतो ताड ताड बाहेर गेला. मंदोदरी चेहऱ्यावर हात ठेवून त्याला जाताना पाहत राहिली.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Two chariots",
+    "hi": {
+     "text": "दो रथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन रथ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The gates of Lanka opened, and Ravana rode out on a mighty chariot drawn by horses as black as night. His ten heads wore ten crowns, and his twenty arms held every weapon. He looked like a dark mountain on wheels. The sound of his coming rolled over the plain like a storm.\n\nThe armies fell back. Never had they seen him so terrible, or so alone.\n\nOn the other side, Rama stood on the bare earth with his bow, while Ravana had a chariot. The gods, watching from the sky, were troubled. “It is not right,” said Indra. “He fights on foot against a man in a chariot.” So Indra sent his own chariot, bright as the sun, with his charioteer Matali.\n\nMatali bowed. “My lord, the king of gods has sent me to serve you.” Rama walked around the chariot with folded hands, then climbed in. The two great archers faced each other across the field, and both armies, monkeys and demons alike, put down their weapons to watch. Not one sound rose from the plain. Then the arrows began.",
+    "hi": {
+     "text": "लंका के द्वार खुले, और रावण रात-से काले घोड़ों वाले भव्य रथ पर निकला। उसके दस सिरों पर दस मुकुट थे, और बीस भुजाओं में हर शस्त्र। वह पहिए पर चलता काला पर्वत लग रहा था। उसके आने की ध्वनि तूफ़ान की तरह मैदान पर लुढ़क गई।\n\nसेनाएँ पीछे हट गईं। उन्होंने उसे कभी इतना भयंकर, या इतना अकेला नहीं देखा था।\n\nदूसरी ओर राम धनुष लिए नंगी धरती पर खड़े थे, जबकि रावण के पास रथ था। आकाश से देखते देवता व्याकुल हो गए। “यह ठीक नहीं,” इंद्र ने कहा। “वह रथ पर है और यह पैदल।” सो इंद्र ने अपना रथ भेजा, सूर्य जैसा दमकता, अपने सारथी मातलि के साथ।\n\nमातलि ने प्रणाम किया। “प्रभु, देवराज ने मुझे आपकी सेवा को भेजा है।” राम ने हाथ जोड़कर रथ की परिक्रमा की, फिर उसमें चढ़े। दोनों महान धनुर्धर मैदान के आर-पार आमने-सामने हुए, और दोनों सेनाओं ने, वानरों और दैत्यों ने, शस्त्र रखकर देखना शुरू किया। मैदान से एक ध्वनि नहीं उठी। फिर बाण चलने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लंकेची दारे उघडली, आणि रात्रीसारख्या काळ्या घोड्यांनी ओढलेल्या मोठ्या रथातून रावण बाहेर आला. त्याच्या दहा डोक्यांवर दहा मुकुट होते, आणि वीस हातांत प्रत्येक शस्त्र होते. तो चाकांवरच्या काळ्या डोंगरासारखा दिसत होता. त्याच्या येण्याचा आवाज वादळासारखा मैदानावर घुमला.\n\nसैन्ये मागे सरकली. त्यांनी त्याला इतके भयंकर आणि इतके एकाकी कधीच पाहिले नव्हते.\n\nदुसऱ्या बाजूला राम उघड्या जमिनीवर धनुष्य घेऊन उभे होते, आणि रावणाकडे रथ होता. आकाशातून पाहणारे देव अस्वस्थ झाले. “हे योग्य नाही,” इंद्र म्हणाला. “तो रथातल्या माणसाशी पायी लढतो आहे.” म्हणून इंद्राने आपला स्वतःचा सूर्यासारखा तेजस्वी रथ, सारथी मातलीसह पाठवला.\n\nमातलीने नमस्कार केला. “प्रभू, देवराजाने मला तुमची सेवा करायला पाठवले आहे.” रामांनी हात जोडून रथाला प्रदक्षिणा घातली आणि मग ते त्यात चढले. दोघे महान धनुर्धर मैदानाच्या आरपार एकमेकांसमोर उभे राहिले, आणि दोन्ही सैन्यांनी, वानर आणि राक्षस, शस्त्रे खाली ठेवून पाहिले. मैदानावर आवाजही उठला नाही. मग बाण सुरू झाले.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "A sage's secret",
+    "en": "The Heart of the Sun",
     "hi": {
-     "text": "ऋषि का रहस्य",
+     "text": "आदित्य हृदय",
      "reviewed": false
     },
     "mr": {
-     "text": "ऋषींचे गुपित",
+     "text": "सूर्याचे हृदय",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The fight raged on and on. Even Rama grew tired. Then the sage Agastya appeared beside him on the battlefield. “Rama, recite the Aditya Hridayam, the Heart of the Sun. It destroys all enemies and fills the heart with strength.”\n\nRama faced the sun, sipped water, and recited the hymn three times with full attention. A new fire rose in him. He picked up his bow again, calm and radiant.",
+    "en": "The duel raged for days and nights. The sky was full of arrows that met in the air and burst into flame. The earth cracked beneath the chariots. Ravana's weapons were terrible: serpents of fire, spears that rained like hail, shafts that turned into lions and tigers. Rama met each one with a counter, calm and sure.\n\nBut even Rama began to tire. He had fought since the day he left Ayodhya. As he stood panting, a gentle light appeared beside him. It was the sage Agastya, who had watched the battle from among the gods.\n\n“Rama,” said Agastya, “listen to an ancient secret. It is called the Aditya Hridayam, the Heart of the Sun. It destroys all enemies, and gives a strength that does not fail. Recite it, with a quiet mind, and see what happens.”\n\nRama turned to face the sun. He sipped water, folded his hands, and recited the hymn three times. His breath slowed. A new light rose in him, a deep calm. He felt the sun's strength not outside, but within, and he lifted his bow, radiant.",
     "hi": {
-     "text": "युद्ध चलता रहा, चलता रहा। राम भी थकने लगे। तब ऋषि अगस्त्य रणभूमि में उनके पास प्रकट हुए। “राम, आदित्य हृदयम् का पाठ करो, सूर्य का हृदय-स्तोत्र। यह सब शत्रुओं का नाश करता है और हृदय को बल से भर देता है।”\n\nराम ने सूर्य की ओर मुख किया, आचमन किया, और पूरे ध्यान से तीन बार स्तोत्र का पाठ किया। उनके भीतर नई अग्नि जाग उठी। उन्होंने फिर धनुष उठाया, शांत और दीप्तिमान।",
+     "text": "द्वंद्व दिन-रात चलता रहा। आकाश बाणों से भर गया जो हवा में टकराकर लपटों में फट जाते थे। रथों के नीचे धरती फट गई। रावण के अस्त्र भयानक थे: अग्नि के साँप, ओलों की तरह बरसते भाले, ऐसे बाण जो सिंह और बाघ बन जाते। राम ने हर एक का शांत और निश्चित प्रत्युत्तर दिया।\n\nपर राम भी थकने लगे। वे अयोध्या छोड़ने के दिन से लड़ते आए थे। जब वे हाँफते खड़े थे, उनके पास एक कोमल प्रकाश प्रकट हुआ। वह ऋषि अगस्त्य थे, जो देवताओं के बीच से युद्ध देख रहे थे।\n\n“राम,” अगस्त्य ने कहा, “एक प्राचीन रहस्य सुनो। इसे आदित्य हृदय कहते हैं, सूर्य का हृदय। यह सब शत्रुओं का नाश करता है, और ऐसा बल देता है जो कभी नहीं चुकता। शांत मन से इसका पाठ करो, और देखो क्या होता है।”\n\nराम ने सूर्य की ओर मुख किया। उन्होंने आचमन किया, हाथ जोड़े, और स्तोत्र का तीन बार पाठ किया। उनकी साँस धीमी हुई। उनके भीतर एक नया प्रकाश उठा, गहरी शांति। उन्हें सूर्य का बल बाहर नहीं, भीतर अनुभव हुआ, और उन्होंने तेजस्वी होकर धनुष उठाया।",
      "reviewed": false
     },
     "mr": {
-     "text": "लढाई चालतच राहिली. रामही थकला. तेव्हा महर्षी अगस्त्य रणांगणावर त्याच्या शेजारी प्रकटले. “रामा, आदित्यहृदयम् म्हण, सूर्याचे हृदय. ते सर्व शत्रूंचा नाश करते आणि हृदयाला बळ देते.”\n\nरामाने सूर्याकडे तोंड केले, आचमन केले आणि संपूर्ण एकाग्रतेने स्तोत्र तीन वेळा म्हटले. त्याच्यात नवा अग्नी जागा झाला. त्याने पुन्हा शांत आणि तेजस्वी होऊन धनुष्य उचलले.",
+     "text": "द्वंद्व रात्रंदिवस चालले. आकाश बाणांनी भरले जे हवेत भिडून पेटून उठत होते. रथांखाली पृथ्वी तडकली. रावणाची शस्त्रे भयंकर होती: अग्नीचे नाग, गारांसारखा वर्षाव करणारे भाले, सिंह आणि वाघ बनणारे बाण. रामांनी प्रत्येकाला शांतपणे आणि निश्चितपणे प्रत्युत्तर दिले.\n\nपण रामही थकू लागले. अयोध्या सोडल्याच्या दिवसापासून ते लढत होते. ते धापा टाकत उभे असताना त्यांच्या शेजारी एक मृदू प्रकाश प्रकट झाला. तो ऋषी अगस्त्य होता, जो देवांमधून युद्ध पाहत होता.\n\n“राम,” अगस्त्य म्हणाला, “एक प्राचीन गुपित ऐक. त्याला आदित्यहृदयम्, सूर्याचे हृदय, म्हणतात. ते सर्व शत्रूंचा नाश करते, आणि कधीही न संपणारे बळ देते. शांत मनाने ते म्हण, आणि काय होते ते पाहा.”\n\nरामांनी सूर्याकडे तोंड केले. त्यांनी आचमन केले, हात जोडले, आणि स्तोत्र तीनदा म्हटले. त्यांचा श्वास संथ झाला. त्यांच्यात एक नवा प्रकाश उगवला, खोल शांतता. त्यांना सूर्याचे बळ बाहेर नाही तर आतमध्ये जाणवले, आणि त्यांनी तेजस्वी होऊन धनुष्य उचलले.",
      "reviewed": false
     }
    }
@@ -131,26 +156,25 @@
    "title": {
     "en": "Heads that grow back",
     "hi": {
-     "text": "सिर जो फिर उग आते हैं",
+     "text": "जो सिर फिर उग आते हैं",
      "reviewed": false
     },
     "mr": {
-     "text": "पुन्हा उगवणारी मस्तके",
+     "text": "पुन्हा उगवणारी डोकी",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Rama's arrow cut off one of Ravana's heads. Another grew in its place. He cut off another, and it grew back too. A hundred heads fell, and each time a new one rose. The battle went on day and night.\n\nVibhishana whispered the secret: “Ravana keeps nectar of immortality in his navel. Strike there.”",
+    "en": "Now Rama's arrows flew faster. One of them shaved off Ravana's central head. Ravana gasped, then laughed: another head grew in its place. Rama cut off another. It grew back. A hundred times Rama struck the heads, and a hundred times they rose again, until the field was strewn with fallen crowns, and still the king stood and fought.\n\nThe monkeys groaned. “How can we win against this?”\n\nRama did not despair. He knew that he was fighting something more than a man. He was fighting a whole life of pride, and pride does not die by cutting its branches.\n\nThen Vibhishana, standing near, whispered a secret that only a brother would know. “Rama, Ravana carries a store of the nectar of immortality in his navel. That is the root of his strength. Strike there, and the heads will stop.”\n\nMatali also bent close to Rama. “My lord, remember the weapon you have: the Brahmastra, given to you by Agastya. It has never failed.”\n\nRama nodded, and drew a deep breath. The moment had come.",
     "hi": {
-     "text": "राम के बाण ने रावण का एक सिर काट दिया। उसकी जगह दूसरा उग आया। उन्होंने दूसरा काटा, वह भी लौट आया। सौ सिर गिरे, और हर बार नया उठ खड़ा हुआ। युद्ध दिन-रात चलता रहा।\n\nविभीषण ने रहस्य बताया: “रावण की नाभि में अमृत है। वहाँ प्रहार कीजिए।”",
+     "text": "अब राम के बाण और तेज़ उड़े। एक ने रावण का बीच का सिर काट दिया। रावण हाँफा, फिर हँसा: उसकी जगह एक और सिर उग आया। राम ने एक और काटा। वह भी उग आया। सौ बार राम ने सिर काटे, और सौ बार वे फिर उठ आए, जब तक मैदान गिरे मुकुटों से न भर गया, और फिर भी राजा खड़ा लड़ता रहा।\n\nवानर कराहे। “इससे हम कैसे जीतेंगे?”\n\nराम निराश नहीं हुए। वे जानते थे कि वे केवल एक मनुष्य से नहीं लड़ रहे। वे एक पूरे जीवन के अभिमान से लड़ रहे थे, और अभिमान डालियाँ काटने से नहीं मरता।\n\nतब पास खड़े विभीषण ने एक रहस्य फुसफुसाया जो केवल एक भाई जान सकता था। “राम, रावण की नाभि में अमृत का भंडार है। वही उसके बल की जड़ है। वहाँ प्रहार कीजिए, सिर उगना बंद हो जाएँगे।”\n\nमातलि भी राम के पास झुका। “प्रभु, याद कीजिए आपके पास कौन-सा शस्त्र है: ब्रह्मास्त्र, जो अगस्त्य ने आपको दिया था। यह कभी नहीं चूका।”\n\nराम ने सिर हिलाया और गहरी साँस ली। वह क्षण आ गया था।",
      "reviewed": false
     },
     "mr": {
-     "text": "रामाच्या बाणाने रावणाचे एक मस्तक कापले. त्याजागी दुसरे उगवले. त्याने आणखी एक कापले, तेही परत उगवले. शंभर मस्तके पडली, आणि प्रत्येक वेळी नवे उगवले. लढाई रात्रंदिवस चालू राहिली.\n\nबिभीषणाने गुपित हळूच सांगितले: “रावणाच्या नाभीत अमृत आहे. तिथे प्रहार कर.”",
+     "text": "आता रामांचे बाण अधिक वेगाने सुटले. एकाने रावणाचे मधले डोके उडवले. रावण धापा टाकत हसला: त्याजागी दुसरे डोके उगवले. रामांनी आणखी एक कापले. ते पुन्हा उगवले. रामांनी शंभर वेळा डोकी तोडली, आणि शंभर वेळा ती पुन्हा उठली, मैदान पडलेल्या मुकुटांनी भरले, तरीही राजा उभा राहून लढत राहिला.\n\nवानर कण्हले. “याच्याविरुद्ध आपण कसे जिंकणार?”\n\nरामांनी हार मानली नाही. त्यांना माहीत होते की ते एका माणसाहून अधिक कशाशी तरी लढत आहेत. ते एका संपूर्ण आयुष्याच्या गर्वाशी लढत होते, आणि गर्व फांद्या तोडून मरत नाही.\n\nमग जवळ उभ्या विभीषणाने फक्त भावालाच माहीत असू शकणारे गुपित कुजबुजले. “राम, रावणाच्या नाभीत अमृताचा साठा आहे. तेच त्याच्या बळाचे मूळ आहे. तिथे प्रहार करा, म्हणजे डोकी थांबतील.”\n\nमातलीनेही रामांकडे वाकून म्हटले. “प्रभू, तुमच्याकडे असलेले शस्त्र आठवा: ब्रह्मास्त्र, जे अगस्त्यांनी तुम्हाला दिले. ते कधीच चुकले नाही.”\n\nरामांनी मान हलवली, आणि दीर्घ श्वास घेतला. क्षण आला होता.",
      "reviewed": false
     }
-   },
-   "image": 1
+   }
   },
   {
    "title": {
@@ -160,18 +184,18 @@
      "reviewed": false
     },
     "mr": {
-     "text": "ब्रह्मास्त्र",
+     "text": "ब्रह्मबाण",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Matali reminded Rama of the Brahma weapon, given by Agastya. Rama fitted it to his bow, chanting the mantras. The arrow blazed like the fire at the end of time.\n\nIt struck Ravana in the chest and the heart of his power. The great king fell from his chariot. Flowers rained down from the gods, conch shells sounded, and the monkeys danced. The war was over.",
+    "en": "Rama took the Brahma weapon and fitted it to his bow. It had been made in the beginning of time by Brahma himself. Its shaft was lightning, its feathers the wind, its head the sun and fire. As he held it, the earth trembled.\n\nHe chanted the mantras that Agastya had taught. The arrow seemed to breathe, glowing brighter and brighter, like the fire at the end of an age. All creatures, gods and demons, held their breath.\n\nHe pulled the string back to his ear, took aim, and let go.\n\nThe arrow flew like a streak of light and struck Ravana in the chest, at the root of his life. The ten heads cried out. The bow fell from the king's hands. Ravana, the terror of the three worlds, who had conquered Indra and bound the planets, tumbled from his chariot to the earth.\n\nFrom the sky a rain of flowers poured down. The gods cheered, and conches sounded from every corner, and the monkeys danced and wept. The war was over.",
     "hi": {
-     "text": "मातलि ने राम को ब्रह्मास्त्र की याद दिलाई, जो अगस्त्य ने उन्हें दिया था। राम ने मंत्र पढ़ते हुए उसे धनुष पर चढ़ाया। बाण प्रलय की अग्नि की तरह दहक उठा।\n\nवह रावण की छाती में, उसकी शक्ति के केंद्र में लगा। महान राजा रथ से गिर पड़ा। देवताओं ने फूल बरसाए, शंख बजे, और वानर नाच उठे। युद्ध समाप्त हो गया।",
+     "text": "राम ने ब्रह्मास्त्र लेकर धनुष पर चढ़ाया। उसे सृष्टि के आरंभ में स्वयं ब्रह्मा ने रचा था। उसका फल बिजली था, उसके पंख पवन, उसकी नोक सूर्य और अग्नि। जब उन्होंने उसे थामा, धरती काँप उठी।\n\nउन्होंने वे मंत्र पढ़े जो अगस्त्य ने सिखाए थे। बाण मानो साँस लेने लगा, प्रलय की अग्नि की तरह और, और चमकता हुआ। सब प्राणियों ने, देवताओं और दैत्यों ने, साँस रोक ली।\n\nउन्होंने प्रत्यंचा कान तक खींची, निशाना साधा, और छोड़ दिया।\n\nबाण प्रकाश की रेखा की तरह उड़ा और रावण की छाती में, उसके प्राण की जड़ पर जा लगा। दसों सिर चीख उठे। राजा के हाथों से धनुष गिर पड़ा। रावण, तीनों लोकों का आतंक, जिसने इंद्र को जीता था और ग्रहों को बाँधा था, रथ से धरती पर लुढ़क गया।\n\nआकाश से फूलों की वर्षा हुई। देवताओं ने जयकार की, हर कोने से शंख बजे, और वानर नाचे और रोए। युद्ध समाप्त हो गया था।",
      "reviewed": false
     },
     "mr": {
-     "text": "मातलीने रामाला अगस्त्यांनी दिलेल्या ब्रह्मास्त्राची आठवण करून दिली. रामाने मंत्र म्हणत ते धनुष्यावर चढवले. तो बाण कल्पान्तीच्या अग्नीसारखा तेजाळला.\n\nत्याने रावणाच्या छातीवर, त्याच्या शक्तीच्या केंद्रावर आघात केला. महान राजा रथातून कोसळला. देवांकडून पुष्पवृष्टी झाली, शंख वाजले आणि वानर नाचू लागले. युद्ध संपले होते.",
+     "text": "रामांनी ब्रह्मास्त्र घेतले आणि धनुष्यावर चढवले. ते सृष्टीच्या आरंभी स्वतः ब्रह्मदेवाने निर्मिले होते. त्याचा दांडा वीज होता, पिसे वारा, आणि टोक सूर्य आणि अग्नी. ते हातात धरले तेव्हा पृथ्वी थरथरली.\n\nअगस्त्यांनी शिकवलेले मंत्र त्यांनी म्हटले. बाण जणू श्वास घेऊ लागला, युगाच्या अंती लागणाऱ्या अग्नीसारखा अधिकाधिक तेजस्वी होत गेला. सर्व प्राणिमात्रांनी, देव आणि राक्षसांनी, श्वास रोखला.\n\nत्यांनी दोरी कानापर्यंत ओढली, नेम धरला, आणि सोडून दिले.\n\nबाण प्रकाशाच्या रेषेसारखा उडाला आणि रावणाच्या छातीत, त्याच्या प्राणांच्या मुळाशी घुसला. दहा डोकी ओरडली. राजाच्या हातातून धनुष्य गळले. तिन्ही लोकांना भयभीत करणारा, ज्याने इंद्राला जिंकले आणि ग्रहांना बांधले होते, तो रावण रथातून पृथ्वीवर कोसळला.\n\nआकाशातून पुष्पवृष्टी झाली. देवांनी जयघोष केला, चारही कोपऱ्यांतून शंख वाजले, आणि वानर नाचले आणि रडले. युद्ध संपले होते.",
      "reviewed": false
     }
    }
@@ -180,22 +204,22 @@
    "title": {
     "en": "Respect in victory",
     "hi": {
-     "text": "विजय में भी आदर",
+     "text": "विजय में सम्मान",
      "reviewed": false
     },
     "mr": {
-     "text": "विजयात आदर",
+     "text": "विजयातही सन्मान",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Rama did not celebrate over his fallen enemy. He told Vibhishana to perform Ravana's funeral with full honour. “Enmity ends with death,” he said. “He was brave and learned. Now he is your brother, and mine too.”\n\nA tradition dear to many says Rama sent Lakshmana to the dying Ravana to learn from him, and that Ravana's last lesson was: “Do good things without delay, and put off the bad. I delayed what was good, and hurried towards what was wrong.”",
+    "en": "Among the weeping demons came Mandodari, running, her hair unbound. She threw herself across Ravana's body. “My lord, you conquered the worlds, and yet you could not conquer yourself. We begged you to listen.” Even Rama, standing nearby, felt his heart ache for the widow and for the fallen king. Vibhishana, sobbing, hesitated to offer rites to one who had been his enemy.\n\n“Enmity ends with death,” said Rama gently. “Our quarrel was for dharma, and it is finished. He was a brave warrior and a great scholar. Perform his rites with every honour. Now he is your brother, and mine too.” Ravana's funeral fire burned beside the sea, and Vibhishana lit it.\n\nA tradition dear to many says that Rama sent Lakshmana to the dying Ravana to learn from him, and that Ravana's last lesson was: “Do good things without delay, and put off the bad. I delayed what was good, and hurried towards what was wrong.”\n\nThe sun rose over Lanka. The darkest night of Sita's exile was ending, and somewhere in a quiet grove a woman was waiting.",
     "hi": {
-     "text": "राम ने गिरे हुए शत्रु पर उत्सव नहीं मनाया। उन्होंने विभीषण से कहा कि रावण का अंतिम संस्कार पूरे सम्मान से करें। “वैर मृत्यु के साथ समाप्त हो जाता है,” उन्होंने कहा। “वह वीर था, विद्वान था। अब वह तुम्हारा भाई है, और मेरा भी।”\n\nअनेक लोगों को प्रिय एक परंपरा कहती है कि राम ने लक्ष्मण को मरणासन्न रावण के पास सीखने भेजा, और रावण की अंतिम सीख यह थी: “शुभ काम में देर मत करो, और अशुभ को टालो। मैंने शुभ को टाला, और अनुचित की ओर दौड़ पड़ा।”",
+     "text": "रोती हुई राक्षसियों के बीच मंदोदरी दौड़ती आई, बाल बिखरे हुए। वह रावण की देह पर गिर पड़ी। “स्वामी, आपने संसार जीत लिया, और फिर भी अपने को न जीत सके। हमने कितना कहा कि सुन लीजिए।” पास खड़े राम का हृदय भी विधवा और गिरे हुए राजा के लिए पीड़ा से भर उठा। विभीषण ने सिसकते हुए, अपने शत्रु रहे व्यक्ति के संस्कार करने में झिझक की।\n\n“वैर मृत्यु के साथ समाप्त हो जाता है,” राम ने कोमलता से कहा। “हमारा झगड़ा धर्म के लिए था, और वह पूरा हुआ। वह वीर योद्धा और महान विद्वान था। उसके संस्कार पूरे सम्मान से करो। अब वह तुम्हारा भाई है, और मेरा भी।” रावण की चिता सागर के किनारे जली, और विभीषण ने उसे अग्नि दी।\n\nअनेकों को प्रिय एक परंपरा कहती है कि राम ने लक्ष्मण को मरते रावण के पास उससे सीखने भेजा, और रावण की अंतिम सीख थी: “शुभ काम में देर मत करो, और अशुभ को टाल दो। मैंने शुभ को टाला, और ग़लत की ओर जल्दी दौड़ा।”\n\nलंका पर सूर्य उगा। सीता के वनवास की सबसे अँधेरी रात बीत रही थी, और कहीं किसी शांत वाटिका में एक स्त्री प्रतीक्षा कर रही थी।",
      "reviewed": false
     },
     "mr": {
-     "text": "रामाने पडलेल्या शत्रूवर आनंद साजरा केला नाही. त्याने बिभीषणाला रावणाचे अंत्यसंस्कार पूर्ण सन्मानाने करायला सांगितले. “वैर मृत्यूबरोबर संपते,” तो म्हणाला. “तो शूर आणि विद्वान होता. आता तो तुझा भाऊ आहे आणि माझाही.”\n\nअनेकांना प्रिय असलेली एक परंपरा सांगते की रामाने लक्ष्मणाला मरणासन्न रावणाकडून शिकायला पाठवले आणि रावणाचा शेवटचा धडा होता: “चांगली कामे विलंब न लावता करा आणि वाईट कामे पुढे ढकला. मी चांगले ते लांबवले आणि वाईटाकडे घाईने गेलो.”",
+     "text": "रडणाऱ्या राक्षसांमधून मंदोदरी केस मोकळे सोडून धावत आली. तिने रावणाच्या देहावर स्वतःला झोकून दिले. “स्वामी, तुम्ही जग जिंकलेत, आणि तरीही स्वतःला जिंकू शकला नाहीत. आम्ही तुम्हाला ऐकायची विनवणी केली होती.” जवळ उभ्या असलेल्या रामांच्याही हृदयाला त्या विधवेसाठी आणि पडलेल्या राजासाठी वेदना झाल्या. विभीषण रडत, आपला शत्रू असलेल्याला अंतिम विधी करायला कचरला.\n\n“मृत्यूने वैर संपते,” राम मृदूपणे म्हणाले. “आपले भांडण धर्मासाठी होते, आणि ते संपले. तो शूर योद्धा आणि महान विद्वान होता. त्याचे संस्कार पूर्ण सन्मानाने कर. आता तो तुझा भाऊ आहे, आणि माझाही.” रावणाची चिता सागराकाठी पेटली, आणि विभीषणाने ती पेटवली.\n\nअनेकांना प्रिय असलेली एक परंपरा सांगते की रामांनी मरणासन्न रावणाकडून शिकायला लक्ष्मणाला पाठवले, आणि रावणाचा शेवटचा धडा होता: “चांगली कामे विलंब न करता करा, आणि वाईट कामे पुढे ढकला. मी चांगले ते लांबवले, आणि चुकीकडे घाईने गेलो.”\n\nलंकेवर सूर्य उगवला. सीतेच्या वनवासातली सर्वात अंधारी रात्र संपत होती, आणि कुठेतरी एका शांत वाटिकेत एक स्त्री वाट पाहत होती.",
      "reviewed": false
     }
    }
@@ -206,56 +230,56 @@
   "cite": {
    "en": "Valmiki Ramayana, Yuddha Kanda (Aditya Hridayam, verse 4)",
    "hi": {
-    "text": "वाल्मीकि रामायण, युद्धकांड (आदित्य हृदयम्, श्लोक 4)",
+    "text": "वाल्मीकि रामायण, युद्धकांड (आदित्य हृदय, श्लोक 4)",
     "reviewed": false
    },
    "mr": {
-    "text": "वाल्मीकी रामायण, युद्धकांड (आदित्यहृदयम्, श्लोक 4)",
+    "text": "वाल्मीकी रामायण, युद्धकांड (आदित्यहृदयम्, श्लोक ४)",
     "reviewed": false
    }
   },
   "meaning": {
    "en": "The Heart of the Sun is holy; it destroys all enemies and brings victory. Recite it always: it is lasting, supreme and auspicious.",
    "hi": {
-    "text": "सूर्य का हृदय-स्तोत्र पवित्र है; यह सब शत्रुओं का नाश करता है और विजय दिलाता है। इसका सदा पाठ कीजिए: यह अक्षय, परम और मंगलकारी है।",
+    "text": "सूर्य का हृदय पावन है; यह सब शत्रुओं का नाश करता है और विजय दिलाता है। इसका सदा जप करें: यह अक्षय, परम और मंगलकारी है।",
     "reviewed": false
    },
    "mr": {
-    "text": "सूर्याचे हृदय पवित्र आहे; ते सर्व शत्रूंचा नाश करते आणि विजय मिळवून देते. ते नित्य जपावे: ते अक्षय, श्रेष्ठ आणि कल्याणकारी आहे.",
+    "text": "सूर्याचे हृदय पवित्र आहे; ते सर्व शत्रूंचा नाश करते आणि विजय देते. ते नेहमी जपावे: ते अक्षय, श्रेष्ठ आणि मंगलकारी आहे.",
     "reviewed": false
    }
   }
  },
  "reflect": {
-  "en": "Ravana's heads kept growing back, like bad habits do. Pick one habit you want to drop. Instead of fighting it again and again, look for its root, as Rama looked for Ravana's.",
+  "en": "Ravana's heads kept growing back, like bad habits do. Pick one habit you want to drop. Instead of fighting it again and again, look for its root, as Rama looked for Ravana's, and take one small step there today.",
   "hi": {
-   "text": "रावण के सिर बुरी आदतों की तरह बार-बार उगते रहे। कोई एक आदत चुनिए जिसे आप छोड़ना चाहते हैं। उससे बार-बार लड़ने के बजाय उसकी जड़ खोजिए, जैसे राम ने रावण की जड़ खोजी।",
+   "text": "रावण के सिर बार-बार उग आते थे, बुरी आदतों की तरह। कोई एक आदत चुनिए जो आप छोड़ना चाहते हैं। उससे बार-बार लड़ने की जगह, राम की तरह उसकी जड़ खोजिए, और आज वहाँ एक छोटा क़दम उठाइए।",
    "reviewed": false
   },
   "mr": {
-   "text": "वाईट सवयींप्रमाणे रावणाची मस्तके पुन्हा पुन्हा उगवत होती. सोडायची एक सवय निवडा. तिच्याशी पुन्हा पुन्हा लढण्याऐवजी रामाने रावणाचे मूळ शोधले तसे तिचे मूळ शोधा.",
+   "text": "रावणाची डोकी वाईट सवयींसारखी पुन्हा पुन्हा उगवत राहिली. सोडायची एक सवय निवडा. तिच्याशी पुन्हा पुन्हा झगडण्याऐवजी, रामांनी रावणाचे मूळ शोधले तसे तिचे मूळ शोधा, आणि आज तिथे एक छोटे पाऊल उचला.",
    "reviewed": false
   }
  },
  "lesson": {
   "en": "Pride, however mighty, always falls; and the truly victorious remain humble and respectful even to an enemy.",
   "hi": {
-   "text": "अहंकार कितना भी बलवान हो, अंत में गिरता ही है; और सच्चा विजेता शत्रु के प्रति भी विनम्र और आदरशील रहता है।",
+   "text": "अभिमान चाहे कितना भी बलवान हो, गिरता अवश्य है; और सच्चे विजेता शत्रु के प्रति भी विनम्र और आदरपूर्ण रहते हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "अहंकार कितीही बलवान असला तरी शेवटी तो पडतोच; आणि खरे विजेते शत्रूसमोरही नम्र आणि आदरशील राहतात.",
+   "text": "गर्व कितीही प्रबळ असला तरी पडतोच; आणि खरे विजेते शत्रूसमोरही नम्र आणि आदरपूर्वक राहतात.",
    "reviewed": false
   }
  },
  "source": {
   "en": "Valmiki Ramayana, Yuddha Kanda; popular tradition (Ravana's last lesson)",
   "hi": {
-   "text": "वाल्मीकि रामायण, युद्धकांड; लोक परंपरा (रावण की अंतिम सीख)",
+   "text": "वाल्मीकि रामायण, युद्धकांड; लोक-परंपरा (रावण की अंतिम सीख)",
    "reviewed": false
   },
   "mr": {
-   "text": "वाल्मीकी रामायण, युद्धकांड; लोकपरंपरा (रावणाचा शेवटचा धडा)",
+   "text": "वाल्मीकी रामायण, युद्धकांड; लोकपरंपरा (रावणाचा अखेरचा धडा)",
    "reviewed": false
   }
  }

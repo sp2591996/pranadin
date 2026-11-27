@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "parashurama",
+ "order": 7,
+ "part": "bala",
+ "figure": {
+  "en": "Parashurama",
+  "hi": {
+   "text": "परशुराम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "परशुराम",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The axe and the bow of Vishnu",
+  "hi": {
+   "text": "परशु और विष्णु का धनुष",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "परशू आणि विष्णूंचे धनुष्य",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The sky turns black on the road home, and a warrior-sage with a blazing axe blocks the way. He has come to test the boy who broke a god’s bow.",
+  "hi": {
+   "text": "घर लौटते मार्ग पर आकाश काला पड़ जाता है, और दहकते परशु वाले एक योद्धा-ऋषि राह रोक लेते हैं। वे उस बालक की परीक्षा लेने आए हैं जिसने देवता का धनुष तोड़ा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "घरी परतताना आकाश काळवंडते, आणि तळपता परशू घेतलेला योद्धा ऋषी वाट अडवतो. देवाचे धनुष्य मोडणाऱ्या मुलाची परीक्षा घ्यायला तो आला आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/shivas-bow-3.webp",
+   "w": 1200,
+   "h": 926,
+   "caption": {
+    "en": "Parashurama stops Rama on the road home (Pahari painting)",
+    "hi": {
+     "text": "घर लौटते समय परशुराम राम को रोकते हैं (पहाड़ी चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "घरी परतताना परशुराम रामाला अडवतात (पहाडी चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:While_returning_to_Ayodhya_Parshurama_challenges_Rama_for_breaking_the_bow_of_lord_Shiva.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Omens on the road",
+    "hi": {
+     "text": "मार्ग में अपशकुन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाटेतले अपशकुन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The wedding party set out from Mithila, the whole procession winding through the green countryside toward Ayodhya. Dasharatha rode in front on a great elephant, with the four brides in curtained palanquins behind him. Sages chanted. Drums beat softly. Flower petals blew across the road.\n\nThen, without warning, the wind changed. A fierce gale rose from nowhere and tore at the banners. Dust whirled and darkened the afternoon. The earth trembled. Birds flew crying through the air, and deer ran across the road in the wrong direction.\n\nThe king looked at Vasishtha in alarm. “What are these omens? My heart is trembling.”\n\nThe sage did not answer at once. He was listening, as one listens to a distant bell. Then he said, slowly, “Something terrible and something wonderful are coming together. Be calm, King.”\n\nThe dust parted. Down the road, alone, walking toward the procession like a storm walking on legs, came a figure no one had hoped to see on a wedding day.",
+    "hi": {
+     "text": "बारात मिथिला से चल पड़ी, पूरा काफ़िला हरे-भरे देहात से होता हुआ अयोध्या की ओर घूमता जा रहा था। दशरथ आगे विशाल हाथी पर थे, उनके पीछे परदे वाली पालकियों में चारों वधुएँ। ऋषि मंत्र पढ़ रहे थे। नगाड़े धीमे-धीमे बज रहे थे। फूलों की पंखुड़ियाँ राह पर उड़ रही थीं।\n\nफिर बिना किसी चेतावनी के हवा का रुख़ बदल गया। कहीं से एक प्रचंड आँधी उठी और ध्वजाओं को नोचने लगी। धूल के बवंडर ने दोपहर को अँधेरा कर दिया। धरती काँप उठी। पक्षी चीख़ते हुए उड़ने लगे, और हिरन उलटी दिशा में राह पार करके भागे।\n\nराजा ने घबराकर वसिष्ठ की ओर देखा। “ये कैसे अपशकुन हैं? मेरा हृदय काँप रहा है।”\n\nऋषि ने तुरंत उत्तर न दिया। वे सुन रहे थे, जैसे कोई दूर की घंटी सुनता है। फिर उन्होंने धीरे से कहा, “कुछ भयंकर और कुछ अद्भुत एक साथ आ रहा है। शांत रहिए, राजन्।”\n\nधूल छँटी। राह पर, अकेली, पैरों पर चलती आँधी जैसी, एक आकृति बारात की ओर बढ़ी आ रही थी, जिसे विवाह के दिन देखने की किसी ने आशा न की थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लग्नाची वरात मिथिलेहून निघाली, सारी मिरवणूक हिरव्या शेतांतून अयोध्येच्या दिशेने वळणे घेत चालली होती. दशरथ पुढे एका मोठ्या हत्तीवर होता, त्याच्या मागे पडदे लावलेल्या पालख्यांत चार वधू. ऋषी मंत्र म्हणत होते. नगारे हळू वाजत होते. फुलांच्या पाकळ्या वाटेवर उडत होत्या.\n\nमग अचानक वारा बदलला. कुठून तरी भयंकर वादळ उठले आणि ध्वज फाडू लागले. धूळ गिरक्या घेत दुपार अंधारून गेली. धरणी हादरली. पक्षी ओरडत आकाशात उडाले, आणि हरणे उलट्या दिशेने वाटेवरून धावली.\n\nराजाने घाबरून वसिष्ठांकडे पाहिले. “हे कसले अपशकुन? माझे हृदय थरथरत आहे.”\n\nऋषींनी लगेच उत्तर दिले नाही. दूरच्या घंटेचा नाद ऐकावा तसे ते ऐकत होते. मग हळू म्हणाले, “काहीतरी भयंकर आणि काहीतरी अद्भुत एकत्र येत आहे. शांत राहा, राजा.”\n\nधूळ विरळ झाली. वाटेवरून, एकटी, वादळ पायांवर चालावे तशी, मिरवणुकीकडे येत होती अशी एक आकृती जिला लग्नाच्या दिवशी पाहण्याची कोणालाही आशा नव्हती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The warrior-sage",
+    "hi": {
+     "text": "योद्धा-ऋषि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योद्धा ऋषी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He was tall, with matted hair and a body burned dark by a thousand years of fire. An axe gleamed on his shoulder like a red moon. Bow and arrows hung at his back. His eyes were stern and sad at once. This was Parashurama, Rama of the axe, a sage of the Bhrigu line and, according to tradition, himself an avatar of Vishnu.\n\nThe sages in Dasharatha’s party shrank back. Everyone knew the old stories. Parashurama’s father had been killed by a proud king, and in his grief and rage, he had gone to war against kings who misused their power. Twenty-one times, it was said, he cleared the earth of arrogant rulers. He had been so terrible that the rivers ran red. Only after this did he give the land to the sages and retire to the mountains to do penance.\n\nNow, he stood on the road. Dasharatha slid from his elephant and folded his hands. “Great sage, please spare my sons. Let them go in peace.” But Parashurama did not even look at him. His eyes were fixed on one young face.",
+    "hi": {
+     "text": "वे लंबे थे, जटाएँ उलझी हुईं, देह हज़ार वर्षों की अग्नि से झुलसकर साँवली। कंधे पर परशु लाल चंद्रमा की तरह चमक रहा था। पीठ पर धनुष और बाण टँगे थे। आँखें एक साथ कठोर थीं और उदास भी। ये परशुराम थे, परशु वाले राम, भृगु वंश के ऋषि, और परंपरा के अनुसार स्वयं विष्णु के अवतार।\n\nदशरथ के दल के ऋषि सहमकर पीछे हट गए। सबने वे पुरानी कथाएँ सुनी थीं। परशुराम के पिता को एक अहंकारी राजा ने मार डाला था, और शोक तथा क्रोध में उन्होंने अपनी शक्ति का दुरुपयोग करने वाले राजाओं पर युद्ध छेड़ दिया था। कहते हैं, इक्कीस बार उन्होंने पृथ्वी को घमंडी शासकों से मुक्त किया। वे इतने भयंकर थे कि नदियाँ लाल बहीं। इसके बाद ही उन्होंने भूमि ऋषियों को दान कर दी और तपस्या के लिए पर्वतों में चले गए।\n\nअब वे राह में खड़े थे। दशरथ हाथी से उतरे और हाथ जोड़ लिए। “महान ऋषि, मेरे पुत्रों पर दया कीजिए। उन्हें शांति से जाने दीजिए।” पर परशुराम ने उनकी ओर देखा तक नहीं। उनकी दृष्टि एक ही युवा मुख पर जमी थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो उंच होता, जटा गुंतलेल्या, आणि हजार वर्षांच्या अग्नीने देह काळा झालेला. खांद्यावर लाल चंद्रासारखा परशू चमकत होता. पाठीवर धनुष्य आणि बाण लटकत होते. डोळ्यांत कठोरता आणि दुःख एकत्र होते. हे परशुराम, भृगु कुळातील ऋषी, परंपरेनुसार स्वतः विष्णूंचा अवतार.\n\nदशरथाच्या मंडळीतले ऋषी मागे सरकले. सर्वांना जुन्या कथा ठाऊक होत्या. परशुरामाच्या पित्याला एका गर्विष्ठ राजाने मारले होते, आणि दुःखात आणि संतापात तो सत्तेचा गैरवापर करणाऱ्या राजांवर युद्धाला निघाला होता. एकवीस वेळा, असे सांगतात, त्याने पृथ्वी उन्मत्त राजांपासून मोकळी केली. तो इतका भयंकर होता की नद्या लाल झाल्या. त्यानंतरच त्याने भूमी ऋषींना दिली आणि तपश्चर्येसाठी पर्वतांत निवृत्त झाला.\n\nआता तो वाटेवर उभा होता. दशरथ हत्तीवरून उतरला आणि हात जोडून म्हणाला, “महर्षी, माझ्या पुत्रांना क्षमा करा. त्यांना शांतपणे जाऊ द्या.” पण परशुरामाने त्याच्याकडे पाहिलेही नाही. त्याची नजर एका तरुण चेहऱ्यावर खिळली होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The challenge",
+    "hi": {
+     "text": "चुनौती",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आव्हान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“Rama, son of Dasharatha,” the sage said, and his voice rolled like thunder across the empty road. “I have heard what you did in Mithila. You broke Shiva’s old bow like a dry reed. People call you a hero. But that bow was ancient, and its glory was mostly legend.”\n\nHe unslung the bow from his back. It was a great bow of dark metal, humming with power. “This is the bow of Vishnu himself. It is the match of Shiva’s bow, and I carry it still. String it, Rama. Fit an arrow to it. If you can do that, I will fight you in single combat, and we shall see who is stronger.”\n\nDasharatha went pale. Lakshmana’s hand went to his sword hilt. The brides, behind their curtains, held each other’s hands.\n\nBut Rama stepped forward, calm as a lake, and bowed with folded hands. “Venerable one, I respect you deeply. You are a brahmin of great penance, and my family honours you. I did not wish to speak of strength, but since you ask, I will answer.”",
+    "hi": {
+     "text": "“दशरथ के पुत्र राम,” ऋषि बोले, और उनका स्वर सूनी राह पर बादल की तरह गूँज उठा। “मैंने सुना है कि तुमने मिथिला में क्या किया। तुमने शिव का पुराना धनुष सूखे नरकट की तरह तोड़ डाला। लोग तुम्हें वीर कहते हैं। पर वह धनुष पुराना था, और उसकी महिमा अधिकतर किंवदंती थी।”\n\nउन्होंने पीठ से धनुष उतारा। वह काले धातु का विशाल धनुष था, शक्ति से गुंजार करता हुआ। “यह स्वयं विष्णु का धनुष है। यह शिव के धनुष की बराबरी का है, और मैं इसे आज भी धारण करता हूँ। इसे चढ़ाओ, राम। इस पर बाण संधान करो। यदि कर सको, तो मैं तुमसे द्वंद्व युद्ध करूँगा, और देखेंगे कि कौन बलवान है।”\n\nदशरथ का मुख पीला पड़ गया। लक्ष्मण का हाथ तलवार की मूठ पर चला गया। परदों के पीछे वधुओं ने एक-दूसरे के हाथ थाम लिए।\n\nपर राम शांत सरोवर की तरह आगे आए और हाथ जोड़कर प्रणाम किया। “पूज्यवर, मैं आपका गहरा सम्मान करता हूँ। आप महान तपस्वी ब्राह्मण हैं, और मेरा कुल आपको मान देता है। मैं बल की बात नहीं करना चाहता था, पर आपने पूछा है तो उत्तर दूँगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“दशरथपुत्र राम,” ऋषी म्हणाला, आणि त्याचा आवाज मोकळ्या वाटेवर मेघगर्जनेसारखा घुमला. “मिथिलेत तू काय केलेस ते मी ऐकले आहे. शिवाचे जुने धनुष्य तू वाळलेल्या वेताप्रमाणे मोडलेस. लोक तुला वीर म्हणतात. पण ते धनुष्य प्राचीन होते आणि त्याचा गौरव बहुतांशी दंतकथाच होता.”\n\nत्याने पाठीवरचे धनुष्य काढले. ते गडद धातूचे महान धनुष्य सामर्थ्याने गुणगुणत होते. “हे प्रत्यक्ष विष्णूंचे धनुष्य. ते शिवाच्या धनुष्याच्या बरोबरीचे आहे, आणि मी ते अजूनही बाळगतो. राम, याला दोरी लाव. त्यावर बाण चढव. जमले तर मी तुझ्याशी द्वंद्व करीन, आणि पाहू कोण बलवान आहे.”\n\nदशरथ फिका पडला. लक्ष्मणाचा हात तलवारीच्या मुठीवर गेला. पडद्यांमागे वधूंनी एकमेकींचे हात घट्ट धरले.\n\nपण राम सरोवरासारखा शांत पुढे आला आणि हात जोडून वंदन केले. “आदरणीय गुरुदेव, मला तुमच्याबद्दल अपार आदर आहे. तुम्ही महान तपस्वी ब्राह्मण आहात, आणि माझे कुळ तुमचा सन्मान करते. मला बळाबद्दल बोलायची इच्छा नव्हती, पण तुम्ही विचारता म्हणून मी उत्तर देईन.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Rama strings the bow",
+    "hi": {
+     "text": "राम ने धनुष चढ़ाया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामाने धनुष्य सज्ज केले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He did not argue, and he did not boast. He simply held out his hand. Parashurama, almost without thinking, laid the great bow of Vishnu in it.\n\nThe moment Rama touched it, something changed in the air. A soft light seemed to rise around him. With one smooth motion, he strung the bow, as easily as if it were made for him. Then he took an arrow, fitted it to the string, and drew the bow back to his ear.\n\n“You are a brahmin, so I will not strike you,” Rama said quietly, his voice level and clear. “And you have always been honoured by my family. But this arrow cannot be fitted for nothing. Tell me where it should fly. Shall it destroy the worlds you have won by your penance, or the paths by which you travel?”\n\nSilence fell on the road. Even the wind held still. The gods in the sky, it is said, gathered to watch, hushed and breathless, as the sage and the prince stood face to face in the golden dust.",
+    "hi": {
+     "text": "उन्होंने न तर्क किया, न डींग मारी। बस हाथ बढ़ा दिया। परशुराम ने लगभग बिना सोचे विष्णु का वह महान धनुष उनके हाथ में रख दिया।\n\nराम के स्पर्श करते ही वायु में कुछ बदल गया। उनके चारों ओर एक कोमल प्रकाश उठता-सा लगा। एक ही सहज गति में उन्होंने धनुष चढ़ा दिया, मानो वह उन्हीं के लिए बना हो। फिर उन्होंने बाण लिया, प्रत्यंचा पर चढ़ाया और कान तक खींच लिया।\n\n“आप ब्राह्मण हैं, इसलिए मैं आप पर प्रहार नहीं करूँगा,” राम ने धीमे, स्थिर और स्पष्ट स्वर में कहा। “और मेरे कुल ने सदा आपका आदर किया है। पर यह बाण व्यर्थ नहीं चढ़ाया जा सकता। बताइए, इसे कहाँ जाना चाहिए? क्या यह आपकी तपस्या से अर्जित लोकों को नष्ट करे, या उन मार्गों को जिनसे आप विचरते हैं?”\n\nराह पर सन्नाटा छा गया। हवा तक थम गई। कहते हैं, आकाश में देवता भी रुद्ध साँसों से देखने एकत्र हो गए, जब ऋषि और राजकुमार स्वर्णिम धूल में आमने-सामने खड़े थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो वाद घालत बसला नाही, बढाईही केली नाही. त्याने फक्त हात पुढे केला. परशुरामाने जवळजवळ नकळतच विष्णूंचे ते महान धनुष्य त्याच्या हातात ठेवले.\n\nराम त्याला स्पर्श करताच हवेत काहीतरी बदलले. त्याच्याभोवती मृदू प्रकाश उगवल्यासारखा वाटला. एका सहज हालचालीत त्याने धनुष्याला दोरी चढवली, जणू ते त्याच्यासाठीच घडवले होते. मग बाण घेतला, दोरीवर चढवला आणि धनुष्य कानापर्यंत ओढले.\n\n“तुम्ही ब्राह्मण आहात, म्हणून मी तुमच्यावर वार करणार नाही,” राम शांतपणे म्हणाला, त्याचा स्वर स्थिर आणि स्पष्ट होता. “आणि माझ्या कुळाने तुमचा नेहमीच सन्मान केला आहे. पण हा बाण व्यर्थ चढवता येत नाही. सांगा, तो कुठे जावा? तुम्ही तपाने जिंकलेले लोक नष्ट करू, की ज्या मार्गांनी तुम्ही फिरता ते?”\n\nवाटेवर शांतता पसरली. वाराही स्तब्ध झाला. असे म्हणतात, आकाशातले देव दबक्या श्वासाने पाहायला जमले होते, सोनेरी धुळीत ऋषी आणि राजकुमार समोरासमोर उभे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Recognition",
+    "hi": {
+     "text": "पहचान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ओळख",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Parashurama looked at the young man before him, and the anger that had burned in him for centuries began to fade like smoke. Where he had expected pride, he found only stillness. Where he had expected a challenger, he saw a mirror.\n\nSlowly he understood. His own strength, the strength that had once shaken the earth, was being returned to the one it was meant for. The bow of Vishnu belonged in the hands of Vishnu’s own light.\n\n“I know you now, Rama,” he said, and his voice trembled. “You are not an ordinary prince. You are the Lord himself, and the reason for my long wait. My work is done.” He handed over his remaining power, bowed his head and asked only one thing: that Rama’s arrow take away the worlds he had gained by penance, so that he might begin again with nothing.\n\nRama released the arrow. Parashurama folded his hands, circled the prince once in respect, and turned toward the mountains. He walked away, and the dust settled behind him, and the road was quiet.",
+    "hi": {
+     "text": "परशुराम ने अपने सामने खड़े उस युवक को देखा, और सदियों से जो क्रोध उनमें जल रहा था, वह धुएँ की तरह मंद पड़ने लगा। जहाँ उन्हें अहंकार की आशा थी, वहाँ केवल स्थिरता मिली। जहाँ प्रतिद्वंद्वी की अपेक्षा थी, वहाँ उन्हें एक दर्पण दिखा।\n\nधीरे-धीरे वे समझ गए। उनका अपना बल, वह बल जिसने कभी पृथ्वी को हिला दिया था, अब उसी को लौटाया जा रहा था जिसके लिए वह था। विष्णु का धनुष विष्णु के ही तेज के हाथों में रहने योग्य था।\n\n“अब मैं तुम्हें पहचान गया, राम,” उन्होंने काँपते स्वर में कहा। “तुम कोई साधारण राजकुमार नहीं हो। तुम स्वयं प्रभु हो, और मेरी लंबी प्रतीक्षा का कारण भी। मेरा कार्य पूरा हुआ।” उन्होंने अपनी शेष शक्ति सौंप दी, सिर झुकाया और केवल एक बात माँगी: कि राम का बाण उन लोकों को हर ले जो उन्होंने तप से पाए हैं, ताकि वे शून्य से नए सिरे से आरंभ कर सकें।\n\nराम ने बाण छोड़ दिया। परशुराम ने हाथ जोड़े, सम्मान में राजकुमार की एक परिक्रमा की, और पर्वतों की ओर मुड़ गए। वे चले गए, उनके पीछे धूल थम गई, और राह शांत हो गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परशुरामाने समोर उभ्या तरुणाकडे पाहिले, आणि शतकानुशतके जळणारा क्रोध धुरासारखा विरळ होऊ लागला. जिथे अहंकाराची अपेक्षा होती तिथे केवळ स्थिरता होती. जिथे आव्हान देणाऱ्याची अपेक्षा होती तिथे आरसा दिसला.\n\nहळूहळू त्याला उमगले. त्याचे स्वतःचे बळ, जे एकेकाळी धरणी हलवत होते, ते ज्याच्यासाठी होते त्याला परत मिळत होते. विष्णूंचे धनुष्य विष्णूंच्याच तेजाच्या हातात असायला हवे होते.\n\n“आता मी तुला ओळखतो, राम,” तो म्हणाला, आणि त्याचा आवाज थरथरला. “तू सामान्य राजकुमार नाहीस. तू स्वतः परमेश्वर आहेस, माझ्या दीर्घ प्रतीक्षेचे कारण आहेस. माझे कार्य पूर्ण झाले.” त्याने आपले उरलेले सामर्थ्य सुपूर्द केले, मान झुकवली आणि फक्त एकच मागणे केले: रामाच्या बाणाने त्याने तपाने मिळवलेले लोक हरण करावेत, म्हणजे तो पुन्हा रिकाम्या हाताने सुरुवात करू शकेल.\n\nरामाने बाण सोडला. परशुरामाने हात जोडले, आदराने राजकुमाराला एक प्रदक्षिणा घातली आणि पर्वतांकडे वळला. तो चालत गेला, त्याच्या मागे धूळ खाली बसली, आणि वाट शांत झाली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Home to Ayodhya, and twelve happy years",
+    "hi": {
+     "text": "अयोध्या वापसी और बारह सुखद वर्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अयोध्येत परतणे आणि बारा सुखी वर्षे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Dasharatha, who had nearly fainted, embraced Rama as if he had come back from the dead. “My son, you are reborn!” he cried. The sky cleared, the wind softened, and the procession moved on, ringing with relief.\n\nWhen they reached Ayodhya, the city broke into celebration. Lamps lined every window. Flowers carpeted the streets. Kausalya, Kaikeyi and Sumitra waited at the gate with trays of offerings, and the four brides entered their new home to the sound of a hundred conch shells.\n\nThen came twelve happy years. Sita and Rama lived in joy, and the whole palace seemed lit from within. Valmiki says that each loved the other more with every passing day, and that Sita’s gentleness and Rama’s virtue made their bond like that of a lotus and its pond.\n\nDasharatha watched them from his balcony in the evenings and thought that his life was complete. He did not know that the happiest years of a family are sometimes the quiet doorway to the hardest.",
+    "hi": {
+     "text": "दशरथ, जो लगभग मूर्च्छित हो चुके थे, ने राम को ऐसे गले लगाया मानो वे मृत्यु के मुख से लौटे हों। “पुत्र, तुमने तो फिर जन्म लिया!” वे बोले। आकाश खुल गया, हवा कोमल हो गई, और बारात राहत के उल्लास से गूँजती हुई आगे बढ़ चली।\n\nअयोध्या पहुँचते ही नगर उत्सव में डूब गया। हर झरोखे में दीप जल उठे। गलियाँ फूलों से बिछ गईं। कौशल्या, कैकेयी और सुमित्रा आरती के थाल लिए द्वार पर प्रतीक्षा कर रही थीं, और सैकड़ों शंखों की ध्वनि में चारों वधुओं ने अपने नए घर में प्रवेश किया।\n\nफिर आए बारह सुखद वर्ष। सीता और राम आनंद में रहे, और पूरा महल मानो भीतर से जगमगाता था। वाल्मीकि कहते हैं कि दोनों एक-दूसरे को दिन-प्रतिदिन और अधिक चाहते गए, और सीता की कोमलता तथा राम की सदाचारिता ने उनके बंधन को कमल और सरोवर जैसा बना दिया।\n\nदशरथ संध्याओं में अपने छज्जे से उन्हें देखते और सोचते कि उनका जीवन पूर्ण हो गया। वे नहीं जानते थे कि किसी परिवार के सबसे सुखद वर्ष कभी-कभी सबसे कठिन समय का शांत द्वार होते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जवळजवळ बेशुद्ध झालेल्या दशरथाने रामाला जणू तो मृत्यूतून परत आला असल्यासारखे आलिंगन दिले. “पुत्रा, तुझा पुनर्जन्म झाला!” तो ओरडला. आकाश निवळले, वारा शांत झाला आणि सुटकेच्या नादात मिरवणूक पुढे निघाली.\n\nअयोध्येत पोहोचताच नगरी उत्सवात न्हाऊन निघाली. प्रत्येक खिडकीत दिवे लागले होते. रस्त्यांवर फुलांचे गालिचे होते. कौसल्या, कैकेयी आणि सुमित्रा ओवाळणीची ताटे घेऊन दारात वाट पाहत होत्या, आणि शेकडो शंखांच्या नादात चार वधूंनी नव्या घरात प्रवेश केला.\n\nत्यानंतर बारा सुखाची वर्षे आली. सीता आणि राम आनंदात राहिले आणि सारा महाल आतून उजळल्यासारखा वाटे. वाल्मीकी सांगतात की प्रत्येक दिवशी दोघे एकमेकांवर अधिक प्रेम करू लागले, आणि सीतेचे मार्दव आणि रामाचे सद्गुण यांमुळे त्यांचे नाते कमळ आणि तळ्यासारखे झाले.\n\nसंध्याकाळी गच्चीवरून त्यांना पाहून दशरथाला वाटे की आपले जीवन परिपूर्ण झाले. त्याला कल्पना नव्हती की कुटुंबातली सर्वात सुखी वर्षे कधी कधी सर्वात कठीण काळाचे शांत प्रवेशद्वार असतात.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Parashurama came with fury, and Rama answered with calm respect, and the fury dissolved. Next time someone meets you with anger today, try answering slowly and gently, and watch what happens.",
+  "hi": {
+   "text": "परशुराम क्रोध लेकर आए, और राम ने शांत आदर से उत्तर दिया, और क्रोध पिघल गया। आज जब कोई आप पर क्रोध करे, तो धीरे और कोमलता से उत्तर देकर देखिए कि क्या होता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "परशुराम संतापाने आला आणि रामाने शांत आदराने उत्तर दिले, आणि संताप विरघळला. आज कोणी रागाने तुमच्याशी बोलले, तर हळू आणि मृदू उत्तर देऊन पाहा, आणि काय घडते ते अनुभवा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A calm and humble answer can disarm even a storm of anger.",
+  "hi": {
+   "text": "शांत और विनम्र उत्तर क्रोध के तूफ़ान को भी निरस्त्र कर सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शांत आणि नम्र उत्तर संतापाच्या वादळालाही निःशस्त्र करू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Bala Kanda; Parashurama as an avatar of Vishnu is from later Puranic tradition",
+  "hi": {
+   "text": "वाल्मीकि रामायण, बालकांड; परशुराम का विष्णु-अवतार होना परवर्ती पौराणिक परंपरा से है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, बालकांड; परशुराम हे विष्णूंचे अवतार असणे हे नंतरच्या पुराणपरंपरेतून आले आहे",
+   "reviewed": false
+  }
+ }
+}

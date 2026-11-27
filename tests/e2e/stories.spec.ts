@@ -2,7 +2,7 @@ import { expect, test } from "@playwright/test";
 import { onboard } from "./helpers";
 
 test.describe("Story collections (D-038, D-040)", () => {
-  test("Calendar hub opens story collections; the Ramayana has 16 chapters by kanda that read in order", async ({ page }) => {
+  test("Calendar hub opens story collections; the Ramayana has 33 chapters by kanda that read in order", async ({ page }) => {
     await onboard(page, "en");
     await page.goto("/en/calendar/");
     await page.getByRole("navigation", { name: "Calendar sections" }).getByRole("link", { name: "Stories" }).click();
@@ -14,21 +14,21 @@ test.describe("Story collections (D-038, D-040)", () => {
     await expect(page).toHaveURL(/\/stories\/ramayana\/$/);
     await expect(page.getByRole("heading", { level: 1 })).toHaveText("Ramayana");
     await expect(page.getByRole("heading", { level: 2, name: /Sundara Kanda/ })).toBeVisible();
-    await expect(page.getByTestId("club-chapters").locator(":scope > li")).toHaveCount(16);
+    await expect(page.getByTestId("club-chapters").locator(":scope > li")).toHaveCount(33);
 
     await page.getByRole("link", { name: "Start reading" }).click();
     await expect(page.getByRole("heading", { level: 1 })).toHaveText("The cry that became a poem");
-    await expect(page.getByText("Chapter 1 of 16")).toBeVisible();
-    await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(5);
+    await expect(page.getByText("Chapter 1 of 33")).toBeVisible();
+    await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(6);
     await expect(page.getByText("From the scripture")).toBeVisible();
     await expect(page.getByText("Pause and reflect")).toBeVisible();
     await expect(page.getByTestId("story-credits")).toContainText("Wikimedia Commons");
 
     await page.getByTestId("chapter-nav").getByRole("link", { name: /Next chapter/ }).click();
-    await expect(page.getByText("Chapter 2 of 16")).toBeVisible();
+    await expect(page.getByText("Chapter 2 of 33")).toBeVisible();
     await expect(page.getByTestId("chapter-nav").getByRole("link", { name: /Previous chapter/ })).toBeVisible();
 
-    await page.goto("/en/calendar/stories/ramayana/luv-kush/");
+    await page.goto("/en/calendar/stories/ramayana/earths-embrace/");
     await expect(page.getByText("You have reached the end of this collection.")).toBeVisible();
     const broken = await page.evaluate(() => [...document.images].filter((i) => i.complete && i.naturalWidth === 0).map((i) => i.src));
     expect(broken).toEqual([]);

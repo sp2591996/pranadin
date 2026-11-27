@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "angada-envoy",
+ "order": 26,
+ "part": "yuddha",
+ "figure": {
+  "en": "Angada",
+  "hi": {
+   "text": "अंगद",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अंगद",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "A foot that no one could move",
+  "hi": {
+   "text": "वह चरण जिसे कोई हिला न सका",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणालाही न हलवता आलेले पाऊल",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "One last offer of peace, carried by a young prince into the lion's den. When it is refused, the sky fills with serpents, and even Rama and Lakshmana fall.",
+  "hi": {
+   "text": "शांति का एक अंतिम प्रस्ताव, जिसे एक युवा राजकुमार सिंह की माँद में ले जाता है। जब वह ठुकरा दिया जाता है, तो आकाश सर्पों से भर जाता है, और राम और लक्ष्मण भी गिर पड़ते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शांततेचा एक शेवटचा प्रस्ताव, जो एक तरुण राजपुत्र सिंहाच्या गुहेत घेऊन जातो. तो नाकारला जातो, तेव्हा आकाश सर्पांनी भरते आणि राम आणि लक्ष्मणही कोसळतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/fall-of-ravana-1.webp",
+   "w": 1200,
+   "h": 705,
+   "caption": {
+    "en": "The great battle at Lanka (Mewar Ramayana by Sahibdin, 1649–53)",
+    "hi": {
+     "text": "लंका का महायुद्ध (साहिबदीन की मेवाड़ रामायण, 1649–53)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लंकेचे महायुद्ध (साहिबदीनचे मेवाड रामायण, 1649–53)",
+     "reviewed": false
+    }
+   },
+   "credit": "Sahibdin, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Battle_at_Lanka,_Ramayana,_Udaipur,_1649-53.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The envoy",
+    "hi": {
+     "text": "दूत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दूत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Lanka's walls rose before them, tall and pale against the morning, and Rama, even now, wished to avoid bloodshed. “Let us send one more message,” he said. “A king should not go to war without offering peace.”\n\nHe chose Angada, the son of Vali. It was a bold choice. Angada was young and proud, carrying an old grief, and Rama trusted him to be both firm and fair. “Tell Ravana,” Rama said, “that he is a king who has done wrong. If he returns Sita and seeks forgiveness, there will be no war. If not, I will not spare Lanka.”\n\nAngada bowed. Then, with a single great leap, he sprang over the walls and landed in the middle of the golden court, where Ravana sat among his ministers, ten heads gleaming.\n\n“I am Angada, son of Vali, and I carry the word of Rama,” he said, calm and clear. “Return Sita to him. Otherwise this city will be ash by next moon.”\n\nThe hall rose in anger. Swords flashed. But the young prince did not move.",
+    "hi": {
+     "text": "लंका की दीवारें सुबह के सामने ऊँची और पीली खड़ी थीं, और राम अब भी रक्तपात से बचना चाहते थे। “एक संदेश और भेजें,” उन्होंने कहा। “राजा को शांति का प्रस्ताव दिए बिना युद्ध में नहीं उतरना चाहिए।”\n\nउन्होंने वाली के पुत्र अंगद को चुना। यह साहसी चुनाव था। अंगद युवा और स्वाभिमानी थे, मन में पुराना दुख लिए हुए, और राम को भरोसा था कि वे दृढ़ भी रहेंगे और न्यायप्रिय भी। “रावण से कहना,” राम बोले, “कि वह ऐसा राजा है जिसने अनुचित किया है। यदि वह सीता को लौटाकर क्षमा माँग ले, तो युद्ध नहीं होगा। नहीं तो मैं लंका को नहीं छोड़ूँगा।”\n\nअंगद ने प्रणाम किया। फिर एक ही विशाल छलाँग में वे दीवारों के ऊपर से कूदे और सुनहरे दरबार के बीच उतरे, जहाँ रावण अपने मंत्रियों के बीच दस चमकते सिरों के साथ बैठा था।\n\n“मैं वाली का पुत्र अंगद हूँ, और राम का संदेश लाया हूँ,” उन्होंने शांत और स्पष्ट स्वर में कहा। “सीता को उन्हें लौटा दो। नहीं तो अगले चंद्रमास तक यह नगर राख होगा।”\n\nसभा क्रोध से उठ खड़ी हुई। तलवारें चमकीं। पर युवा राजकुमार हिला नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लंकेचे तट त्यांच्या समोर उंच आणि सकाळच्या प्रकाशात फिकट दिसत होते, आणि आताही रामांना रक्तपात टाळायचा होता. “आणखी एक निरोप पाठवू,” ते म्हणाले. “राजाने शांततेचा प्रस्ताव दिल्याशिवाय युद्धात जाऊ नये.”\n\nत्यांनी वालीचा पुत्र अंगदाला निवडले. ही धाडसी निवड होती. अंगद तरुण आणि अभिमानी होता, जुने दुःख मनात बाळगणारा, आणि राम त्याच्यावर ठाम आणि न्यायी असण्याचा विश्वास ठेवत होते. “रावणाला सांग,” राम म्हणाले, “की तू चूक केलेला राजा आहेस. तू सीतेला परत केलेस आणि क्षमा मागितलीस तर युद्ध होणार नाही. नाहीतर मी लंकेला सोडणार नाही.”\n\nअंगदाने नमस्कार केला. मग एकाच मोठ्या उडीने तो तट ओलांडून गेला आणि सोनेरी दरबाराच्या मधोमध उतरला, जिथे रावण आपल्या मंत्र्यांमध्ये दहा तेजस्वी डोकी घेऊन बसला होता.\n\n“मी वालीपुत्र अंगद आहे, आणि मी रामांचा निरोप घेऊन आलो आहे,” तो शांत आणि स्पष्टपणे म्हणाला. “सीतेला त्यांच्याकडे परत करा. नाहीतर पुढच्या चंद्रापर्यंत हे नगर राख होईल.”\n\nसभागृह रागाने उठले. तलवारी चमकल्या. पण तरुण राजपुत्र हलला नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The planted foot",
+    "hi": {
+     "text": "जमा हुआ चरण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रोवलेले पाऊल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana said to his guards, “Seize this monkey!” Four demons rushed forward. Angada laughed softly, sprang up to the top of a pillar, and, with a roar, let the four fall off him like dust.\n\nAt this point, a popular tradition, beloved in later tellings, adds a famous scene. Angada strode to the centre of the hall and planted his right foot firmly on the polished floor. “Let any warrior of Lanka lift this foot,” he said. “If one of you can move it, Rama will go home, and Sita stays here.”\n\nOne by one, the great heroes of Lanka tried. Giants bent and heaved. Generals strained until their faces were red. Not a hair moved. The foot stayed rooted like a mountain.\n\nFinally Ravana himself rose from the throne. Gold crowns trembled on his heads. He walked to the monkey and bent down, reaching for the foot. Then Angada drew it back gently and said, in a voice that carried across the hall: “Do not touch my feet, King of Lanka. Hold Rama's feet, and you will be saved.”",
+    "hi": {
+     "text": "रावण ने पहरेदारों से कहा, “इस वानर को पकड़ो!” चार राक्षस दौड़े। अंगद धीरे से हँसे, एक स्तंभ के ऊपर कूद गए, और गरजकर उन चारों को धूल की तरह अपने ऊपर से गिरा दिया।\n\nयहाँ एक लोकप्रिय परंपरा, जो बाद की कथाओं में प्रिय रही है, एक प्रसिद्ध प्रसंग जोड़ती है। अंगद सभा के बीचोबीच गए और अपना दायाँ पाँव चिकने फ़र्श पर दृढ़ता से जमा दिया। “लंका का कोई योद्धा इस पाँव को उठाकर दिखाए,” उन्होंने कहा। “यदि तुममें से कोई इसे हिला दे, तो राम लौट जाएँगे, और सीता यहीं रहेगी।”\n\nएक-एक करके लंका के बड़े-बड़े वीरों ने कोशिश की। दैत्यों ने झुककर ज़ोर लगाया। सेनापतियों ने इतना खींचा कि मुख लाल हो गए। एक बाल भी न हिला। पाँव पर्वत की तरह जमा रहा।\n\nअंत में स्वयं रावण सिंहासन से उठा। उसके सिरों पर सोने के मुकुट काँप उठे। वह वानर के पास गया और पाँव पकड़ने को झुका। तब अंगद ने पाँव धीरे से खींच लिया और ऐसे स्वर में कहा जो पूरी सभा में गूँजा: “मेरे चरण मत छुओ, लंका के राजा। राम के चरण पकड़ो, तुम बच जाओगे।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावण आपल्या पहारेकऱ्यांना म्हणाला, “या वानराला पकडा!” चार राक्षस पुढे धावले. अंगद हळूच हसला, एका खांबाच्या माथ्यावर उडी मारली, आणि गर्जना करत ते चौघे धुळीसारखे अंगावरून झटकून टाकले.\n\nइथे नंतरच्या कथांमध्ये प्रिय असलेली एक लोकपरंपरा प्रसिद्ध प्रसंग जोडते. अंगद सभागृहाच्या मध्यभागी गेला आणि त्याने आपला उजवा पाय गुळगुळीत फरशीवर घट्ट रोवला. “लंकेच्या कोणत्याही योद्ध्याने हा पाय उचलून दाखवावा,” तो म्हणाला. “तुमच्यापैकी कोणाला तो हलवता आला तर राम परत जातील, आणि सीता इथेच राहील.”\n\nलंकेचे महान वीर एकेक करून प्रयत्न करू लागले. महाकाय वाकले आणि ओढले. सेनापतींनी चेहरे लाल होईपर्यंत जोर लावला. केसभरही पाय हलला नाही. तो पर्वतासारखा रुजून राहिला.\n\nशेवटी खुद्द रावण सिंहासनावरून उठला. त्याच्या डोक्यांवर सोन्याचे मुकुट थरथरले. तो वानराजवळ गेला आणि पाय पकडायला वाकला. तेव्हा अंगदाने हळूच पाय मागे घेतला आणि सभागृहात घुमणाऱ्या आवाजात म्हणाला: “माझे पाय धरू नकोस, लंकेच्या राजा. रामांचे पाय धर, म्हणजे तू वाचशील.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "War begins",
+    "hi": {
+     "text": "युद्ध आरंभ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्धाला सुरुवात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana straightened up, shaken and furious. Never in his long life had anyone spoken to him like this in front of his court. “Throw him out,” he said, in a tight, quiet voice.\n\nAngada leapt away through a hole in the roof, and tore a handful of golden turrets from the palace as he went, to scatter in the street. Then he returned to Rama and told him everything.\n\nRama sighed. “Then it must be so.” He raised his hand.\n\nThe next morning, the army of Kishkindha broke over Lanka like a wave. Monkeys and bears swarmed up the walls with rocks and trees. Demons poured from the gates with swords, spears and iron clubs. The air was filled with roars, and the wind carried arrows like rain. The bridge, the shore and the sea itself seemed to shake with the clash.\n\nDay after day, heroes fell on both sides. Hanuman, Angada, Neela and Sugriva fought bravely, and Lakshmana struck down the best of the rakshasa generals. But Ravana's most dangerous son was not yet seen.",
+    "hi": {
+     "text": "रावण सीधा हुआ, हिला हुआ और क्रोध में। अपने लंबे जीवन में दरबार के सामने किसी ने उससे ऐसे बात नहीं की थी। “इसे बाहर फेंक दो,” उसने कसे हुए, धीमे स्वर में कहा।\n\nअंगद छत के एक छेद से कूदकर निकल गए, जाते-जाते महल के सोने के कुछ कंगूरे नोचकर गली में बिखेर गए। फिर वे राम के पास लौटे और सब कुछ बताया।\n\nराम ने साँस भरी। “तो यही होना है।” उन्होंने हाथ उठाया।\n\nअगली सुबह किष्किंधा की सेना लहर की तरह लंका पर टूट पड़ी। वानर और रीछ पत्थर और वृक्ष लिए दीवारों पर चढ़ गए। राक्षस तलवारें, भाले और लोहे की गदाएँ लिए द्वारों से उमड़ पड़े। हवा गर्जनाओं से भर गई, और पवन बाणों को वर्षा की तरह उड़ा ले चली। सेतु, तट और सागर स्वयं इस टक्कर से काँपते लगे।\n\nदिन-पर-दिन दोनों ओर वीर गिरते रहे। हनुमान, अंगद, नील और सुग्रीव वीरता से लड़े, और लक्ष्मण ने राक्षस सेनापतियों में सबसे श्रेष्ठों को मार गिराया। पर रावण का सबसे ख़तरनाक पुत्र अभी दिखाई नहीं दिया था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावण हादरून आणि संतापून ताठ उभा राहिला. त्याच्या दीर्घ आयुष्यात कोणीही त्याच्या दरबारासमोर असे बोलले नव्हते. “याला बाहेर फेका,” तो घट्ट आणि शांत आवाजात म्हणाला.\n\nअंगदाने छपराच्या एका भोकातून उडी मारली, आणि जाताना राजवाड्यातली मूठभर सोनेरी शिखरे उपटून रस्त्यावर फेकली. मग तो रामांकडे परतला आणि त्यांना सर्व सांगितले.\n\nराम उसासा टाकून म्हणाले, “तर मग असेच व्हायचे आहे.” त्यांनी हात उंचावला.\n\nदुसऱ्या दिवशी सकाळी किष्किंधेचे सैन्य लाटेसारखे लंकेवर आदळले. वानर आणि अस्वले दगड आणि झाडे घेऊन तटांवर चढली. राक्षस तलवारी, भाले आणि लोखंडी गदा घेऊन वेशींमधून लोटले. हवा गर्जनांनी भरली, आणि वाऱ्यावर पावसासारखे बाण वाहत होते. सेतू, किनारा आणि सागरही या झुंजीने हादरल्यासारखे वाटले.\n\nदिवसेंदिवस दोन्ही बाजूंचे वीर पडत होते. हनुमान, अंगद, नील आणि सुग्रीव शौर्याने लढले, आणि लक्ष्मणाने राक्षस सेनापतींतील सर्वोत्तम पाडले. पण रावणाचा सर्वांत धोकादायक पुत्र अजून दिसला नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Indrajit in the clouds",
+    "hi": {
+     "text": "बादलों में इंद्रजित",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ढगांतला इंद्रजित",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Indrajit, the conqueror of Indra, was the most fearsome fighter in Lanka. In the dark of one night, he came out against Rama and Lakshmana, but he came hidden. He vanished into the clouds and the shadows, so that no one could see him, and from out of the blackness he rained arrows.\n\nRama and Lakshmana looked in every direction. The monkeys searched, but there was nothing to be seen. They could only hear a laugh, high above, and the whistle of the shafts.\n\nThen Indrajit raised a terrible weapon: the serpent arrows, a net of living snakes. They coiled around the brothers' bodies, tighter and tighter. Rama and Lakshmana fell, bound in a lattice of poison, and lay still on the field.\n\nA terrible wail went up from the army. Sugriva stood stunned. Hanuman knelt weeping beside them. Vibhishana, fighting back tears, tried to keep the monkeys from panic. Indrajit, laughing, ran back into Lanka to bring his father the news: “Rama and Lakshmana are dead.”",
+    "hi": {
+     "text": "इंद्र को जीतने वाला इंद्रजित लंका का सबसे भयंकर योद्धा था। एक रात के अँधेरे में वह राम और लक्ष्मण के सामने आया, पर छिपकर। वह बादलों और परछाइयों में ओझल हो गया, ताकि कोई उसे न देख सके, और उस कालिमा से बाणों की वर्षा करने लगा।\n\nराम और लक्ष्मण ने हर दिशा में देखा। वानरों ने खोजा, पर कुछ दिखाई न दिया। बस ऊपर कहीं से एक हँसी सुनाई देती थी, और बाणों की सीटी।\n\nफिर इंद्रजित ने एक भयानक अस्त्र उठाया: नागबाण, जीवित साँपों का जाल। वे भाइयों की देह पर लिपट गए, कसते-कसते। राम और लक्ष्मण विष के जाल में बँधे गिर पड़े और मैदान में निश्चल पड़े रहे।\n\nसेना में भयंकर विलाप उठा। सुग्रीव स्तब्ध खड़े रह गए। हनुमान रोते हुए उनके पास घुटनों पर बैठ गए। विभीषण ने आँसू रोकते हुए वानरों को घबराने से रोकने की कोशिश की। इंद्रजित हँसता हुआ लंका की ओर दौड़ा, पिता को समाचार देने: “राम और लक्ष्मण मर गए।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इंद्राला जिंकणारा इंद्रजित हा लंकेतला सर्वांत भयंकर योद्धा होता. एका अंधाऱ्या रात्री तो राम आणि लक्ष्मणाविरुद्ध आला, पण लपून आला. तो ढगांत आणि सावल्यांत गायब झाला, म्हणजे कोणालाही दिसू नये, आणि त्या काळोखातून त्याने बाणांचा वर्षाव केला.\n\nराम आणि लक्ष्मणाने चारही दिशांना पाहिले. वानरांनी शोध घेतला, पण काहीच दिसले नाही. त्यांना फक्त उंचावरचे हास्य आणि बाणांची शीळ ऐकू येत होती.\n\nमग इंद्रजिताने एक भयंकर अस्त्र उचलले: नागपाश, जिवंत सर्पांचे जाळे. ते दोघा भावांच्या शरीरांभोवती आवळत गेले, अधिक घट्ट. राम आणि लक्ष्मण विषाच्या जाळ्यात बांधलेले कोसळले, आणि रणांगणावर निश्चल पडले.\n\nसैन्यातून भयंकर आक्रोश उठला. सुग्रीव स्तब्ध उभा राहिला. हनुमान रडत त्यांच्या शेजारी गुडघे टेकून बसला. विभीषण अश्रू आवरत वानरांना घाबरू नका असे सांगू लागला. इंद्रजित हसत हसत लंकेत परतला आणि पित्याला बातमी देण्यासाठी धावला: “राम आणि लक्ष्मण मेले.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Sita sees them fall",
+    "hi": {
+     "text": "सीता उन्हें गिरते देखती हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीता त्यांना पडताना पाहते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana was delighted. He ordered the demon women who guarded Sita to take her in the Pushpaka chariot and show her the battlefield. “Let her see what has become of her husband,” he said. “Then she will be mine.”\n\nSo Sita was carried above the battlefield, and looked down. In the dust, among the fallen monkeys and the broken banners, she saw two bodies lying quite still: Rama, her lord, with his lotus eyes closed, and Lakshmana beside him, covered with arrows. She cried out and covered her face.\n\n“I am lost,” she sobbed. “It is over. Even the wise predicted that I would be a queen, and now I will be a widow.” For the first time in all her months of captivity, she wept loud and long.\n\nBut Trijata, the old demoness who had once spoken for her, bent beside her. “Do not despair,” she said gently. “Look at their faces. They have not lost their light. Their bodies are not those of the dead. This is no more than a sleep of the serpent's poison. Have faith.” Sita looked again, and a single spark of hope flickered.",
+    "hi": {
+     "text": "रावण प्रसन्न हो उठा। उसने सीता की रखवाली करने वाली राक्षसियों को आज्ञा दी कि उन्हें पुष्पक विमान में ले जाकर रणभूमि दिखाएँ। “वह देख ले कि उसके पति का क्या हाल हुआ,” उसने कहा। “फिर वह मेरी होगी।”\n\nसो सीता को रणभूमि के ऊपर ले जाया गया, और उन्होंने नीचे देखा। धूल में, गिरे हुए वानरों और टूटी ध्वजाओं के बीच, उन्होंने दो देह निश्चल पड़ी देखीं: उनके स्वामी राम, कमल-नयन बंद, और उनके पास लक्ष्मण, बाणों से ढके। वे चीख उठीं और मुख ढक लिया।\n\n“मैं लुट गई,” वे सिसकीं। “सब समाप्त हो गया। ज्ञानियों ने तो भविष्यवाणी की थी कि मैं रानी बनूँगी, और अब मैं विधवा हो जाऊँगी।” बंदी बनने के इतने महीनों में पहली बार वे ज़ोर-ज़ोर से, देर तक रोईं।\n\nपर त्रिजटा ने, उस बूढ़ी राक्षसी ने जिसने कभी उनके पक्ष में बात की थी, उनके पास झुककर कहा। “निराश मत हो,” उसने कोमलता से कहा। “उनके मुख देखो। उनका तेज नहीं गया है। उनकी देह मृतकों जैसी नहीं है। यह तो सर्प-विष की एक नींद भर है। विश्वास रखो।” सीता ने फिर देखा, और आशा की एक नन्ही चिंगारी टिमटिमाई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाला आनंद झाला. त्याने सीतेचा पहारा करणाऱ्या राक्षसींना आज्ञा दिली की तिला पुष्पक विमानातून रणांगण दाखवा. “तिच्या पतीचे काय झाले ते तिला पाहू दे,” तो म्हणाला. “मग ती माझी होईल.”\n\nम्हणून सीतेला रणांगणावरून नेले गेले, आणि तिने खाली पाहिले. धुळीत, पडलेल्या वानरांमध्ये आणि तुटलेल्या ध्वजांमध्ये तिला दोन देह निश्चल पडलेले दिसले: तिचे स्वामी राम, कमळनेत्र मिटलेले, आणि त्यांच्या शेजारी बाणांनी झाकलेला लक्ष्मण. ती ओरडली आणि चेहरा झाकला.\n\n“मी संपले,” ती हुंदके देत म्हणाली. “सारे संपले. शहाण्यांनीही सांगितले होते की मी राणी होईन, आणि आता मी विधवा होणार.” कैदेतल्या सर्व महिन्यांत प्रथमच ती मोठ्याने आणि खूप वेळ रडली.\n\nपण त्रिजटा, जिने एकेकाळी तिच्यासाठी शब्द टाकला होता, ती वृद्ध राक्षसी तिच्याजवळ वाकली. “निराश होऊ नकोस,” ती हळूच म्हणाली. “त्यांच्या चेहऱ्याकडे पाहा. त्यांचे तेज गेले नाही. त्यांचे देह मृतांसारखे नाहीत. हे सर्पाच्या विषाच्या झोपेशिवाय काही नाही. विश्वास ठेव.” सीतेने पुन्हा पाहिले, आणि आशेची एक ठिणगी लकाकली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Garuda",
+    "hi": {
+     "text": "गरुड़",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गरुड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the field below, Rama stirred. Slowly he opened his eyes. His body was still pinned by the living arrows, but his mind was clear. He saw Lakshmana beside him, ashen and still, and a cry of pain broke from him: “If you die, what is left to fight for? I can bear any loss but you.”\n\nBut Vibhishana, who had been searching, saw the two brothers move. “They live!” he shouted. “They are held by the serpent arrows, but Garuda, king of birds, can free them.”\n\nThen a great wind rose across the field. The sky darkened as though a golden cloud had come between earth and sun. Garuda descended on mighty wings, flames in his feathers, and at his coming the serpents slid away in fear, one by one, and vanished into the earth.\n\nGaruda touched the brothers' faces with his wings. Their wounds closed. Their strength came flooding back. “It is a debt of the heart,” said Garuda, smiling, and rose into the sky again. Rama and Lakshmana stood, shining like the morning, and the monkeys roared with new joy.",
+    "hi": {
+     "text": "नीचे मैदान में राम हिले। धीरे-धीरे उन्होंने आँखें खोलीं। उनकी देह अब भी जीवित बाणों से जकड़ी थी, पर मन स्पष्ट था। उन्होंने पास पड़े लक्ष्मण को देखा, राख-से पीले और निश्चल, और पीड़ा की चीख उनके मुख से निकल पड़ी: “यदि तू चला गया, तो लड़ने को क्या बचा? मैं हर हानि सह सकता हूँ, बस तुझे नहीं।”\n\nपर विभीषण ने, जो खोज रहे थे, दोनों भाइयों को हिलते देखा। “वे जीवित हैं!” वे चिल्लाए। “वे नाग-बाणों में जकड़े हैं, पर पक्षियों के राजा गरुड़ उन्हें मुक्त कर सकते हैं।”\n\nफिर मैदान पर एक विशाल आँधी उठी। आकाश ऐसे अँधेरा हुआ मानो धरती और सूर्य के बीच कोई सुनहरा बादल आ गया हो। गरुड़ विशाल पंखों पर उतरे, उनके पंखों में लपटें थीं, और उनके आते ही साँप भय से एक-एक करके रेंगकर धरती में समा गए।\n\nगरुड़ ने अपने पंखों से भाइयों के मुख छुए। घाव भर गए। बल लौट आया। “यह हृदय का ऋण है,” गरुड़ ने मुस्कुराकर कहा, और फिर आकाश में उड़ गए। राम और लक्ष्मण प्रभात की तरह दमकते उठ खड़े हुए, और वानर नए आनंद से गर्जना कर उठे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खाली रणांगणावर राम हलले. हळूहळू त्यांनी डोळे उघडले. त्यांचे शरीर अजून जिवंत बाणांनी जखडलेले होते, पण मन स्पष्ट होते. त्यांना शेजारी राख झालेला निश्चल लक्ष्मण दिसला, आणि वेदनेने एक आरोळी फुटली: “तू गेलास तर लढायला काय उरले? मी कोणताही आघात सहन करेन, पण तुझा नाही.”\n\nपण शोध घेत असलेल्या विभीषणाने दोघा भावांना हलताना पाहिले. “ते जिवंत आहेत!” तो ओरडला. “ते सर्पबाणांनी जखडले आहेत, पण पक्ष्यांचा राजा गरुड त्यांना मुक्त करू शकतो.”\n\nमग रणांगणावर मोठा वारा सुटला. सोनेरी ढग पृथ्वी आणि सूर्याच्या मध्ये आल्यासारखे आकाश काळवंडले. गरुड प्रबळ पंखांवर, पिसांत ज्वाला घेऊन उतरला, आणि त्याच्या येण्याने सर्प भीतीने एकेक करून सरपटत निघून गेले आणि जमिनीत लुप्त झाले.\n\nगरुडाने आपल्या पंखांनी दोघा भावांच्या चेहऱ्यांना स्पर्श केला. त्यांच्या जखमा भरल्या. त्यांचे बळ पुन्हा ओसंडून वाहू लागले. “हे हृदयाचे ऋण आहे,” गरुड हसत म्हणाला, आणि पुन्हा आकाशात झेपावला. राम आणि लक्ष्मण सकाळसारखे तेजस्वी उभे राहिले, आणि वानरांनी नव्या आनंदाने गर्जना केली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Angada stood firm without a weapon, and then gently pointed Ravana toward humility. When you are right, do you need to win, or can you simply stand firm and kind? Today, hold your ground gently in one small disagreement.",
+  "hi": {
+   "text": "अंगद बिना शस्त्र के अडिग खड़े रहे, और फिर कोमलता से रावण को विनम्रता की ओर इशारा किया। जब आप सही हों, तो क्या जीतना ज़रूरी है, या बस दृढ़ और दयालु रहना काफ़ी है? आज किसी एक छोटी असहमति में कोमलता से अपनी बात पर टिके रहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अंगद शस्त्राशिवाय ठाम उभा राहिला, आणि मग हळूच रावणाला नम्रतेकडे वळवले. तुम्ही बरोबर असता तेव्हा तुम्हाला जिंकायची गरज असते का, की तुम्ही फक्त ठाम आणि दयाळू राहू शकता? आज एखाद्या छोट्या मतभेदात हळुवारपणे आपली जागा धरून राहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Even in the hardest hour, a calm and fearless word spoken for dharma can be stronger than any army.",
+  "hi": {
+   "text": "कठिनतम घड़ी में भी धर्म के लिए कही गई शांत और निर्भय बात किसी सेना से अधिक बलवान हो सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अत्यंत कठीण क्षणीही धर्मासाठी बोललेला शांत आणि निर्भय शब्द कोणत्याही सैन्यापेक्षा प्रबळ ठरू शकतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Yuddha Kanda (Angada's embassy, Indrajit's serpent arrows, Garuda); popular tradition (Angada's planted foot)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, युद्धकांड (अंगद का दूत-कर्म, इंद्रजित के नागबाण, गरुड़); लोक-परंपरा (अंगद का जमा हुआ चरण)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, युद्धकांड (अंगदाची दूतगिरी, इंद्रजिताचे नागपाश, गरुड); लोकपरंपरा (अंगदाचे रोवलेले पाऊल)",
+   "reviewed": false
+  }
+ }
+}

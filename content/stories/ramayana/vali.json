@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "vali",
+ "order": 18,
+ "part": "kishkindha",
+ "figure": {
+  "en": "Vali and Tara",
+  "hi": {
+   "text": "वाली और तारा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाली आणि तारा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The arrow from the trees",
+  "hi": {
+   "text": "पेड़ों के पीछे से आया बाण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "झाडामागून आलेला बाण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Two brothers who look exactly alike. One arrow that must not miss. And a queen whose grief teaches the hardest lesson of all.",
+  "hi": {
+   "text": "दो भाई, जो एक-जैसे दिखते हैं। एक बाण, जो चूकना नहीं चाहिए। और एक रानी, जिसका शोक सबसे कठिन सीख दे जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दिसायला अगदी सारखे दोन भाऊ. एक बाण, जो चुकता कामा नये. आणि एका राणीचे दुःख, जे सर्वात कठीण धडा शिकवून जाते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/hanuman-meets-rama-2.webp",
+   "w": 800,
+   "h": 469,
+   "caption": {
+    "en": "Sugriva challenges Vali (illustrated Ramayana, about 1630–1650)",
+    "hi": {
+     "text": "सुग्रीव वाली को ललकारते हैं (सचित्र रामायण, लगभग 1630–1650)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुग्रीव वालीला आव्हान देतो (सचित्र रामायण, सुमारे 1630–1650)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown studio master. Book was commissioned by Maharana Jagat Singh (1628–1652), the ruler of Mewar, now part of Rajast, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Illustration_of_Sugriva_challenging_Vali_from_the_Ramayana_(c._1628%E2%80%931649).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The boulder at the cave",
+    "hi": {
+     "text": "गुफा के द्वार पर शिला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुहेच्या तोंडावरची शिळा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Why had two brothers, once so close, become enemies? The old tale goes back to a night when a buffalo-demon named Mayavi came roaring to the gates of Kishkindha, challenging Vali to fight. Vali, king of the monkeys, strode out at once, and his younger brother Sugriva followed. Seeing them, Mayavi turned and fled into the dark.\n\nThey chased him across fields and into a great cave in the hillside. “Wait here,” said Vali. “Guard the entrance. If I do not return, you will know I am gone.” And he went in alone.\n\nA month passed. Then a year. At last, a thick stream of froth and blood came pouring from the cave mouth, and Sugriva heard what he thought were the dying cries of his brother. Heartbroken, and afraid the demon would escape, he rolled a huge boulder across the entrance and walked home in tears.\n\nThe ministers begged him to take the throne. Reluctantly, he did.",
+    "hi": {
+     "text": "दो भाई, जो कभी जान से प्यारे थे, शत्रु कैसे बन गए? पुरानी कथा एक रात की है, जब मायावी नाम का भैंसा-रूपी दैत्य दहाड़ता हुआ किष्किंधा के द्वार पर आया और वाली को लड़ने की चुनौती दे बैठा। वानरों के राजा वाली उसी क्षण बाहर निकल पड़े, और उनके छोटे भाई सुग्रीव भी पीछे-पीछे चले। उन्हें देखते ही मायावी मुड़कर अँधेरे में भाग गया।\n\nवे उसका पीछा करते खेतों के पार एक बड़ी गुफा तक जा पहुँचे। “तुम यहीं द्वार पर पहरा देना,” वाली ने कहा। “अगर मैं न लौटूँ, तो समझ लेना कि मैं नहीं रहा।” और वे अकेले भीतर चले गए।\n\nएक महीना बीता। फिर एक वर्ष। अंत में गुफा के मुँह से झाग और खून की मोटी धार बह निकली, और सुग्रीव को लगा कि उन्होंने अपने भाई की मरते समय की चीख सुनी है। टूटे हुए मन से, और इस डर से कि कहीं दैत्य बाहर न निकल आए, उन्होंने एक विशाल शिला गुफा के द्वार पर लुढ़का दी और रोते हुए घर लौट आए।\n\nमंत्रियों ने हाथ जोड़कर उनसे सिंहासन सँभालने को कहा। बड़े अनमने मन से उन्होंने मान लिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकेकाळी इतके जवळ असलेले दोन भाऊ शत्रू का झाले? त्याची जुनी गोष्ट अशी की एका रात्री मायावी नावाचा रेड्याचा रूप घेतलेला राक्षस गर्जना करत किष्किंधेच्या वेशीवर आला आणि त्याने वालीला युद्धाचे आव्हान दिले. वानरांचा राजा वाली लगेच बाहेर पडला आणि त्याचा धाकटा भाऊ सुग्रीवही त्याच्या मागोमाग गेला. त्या दोघांना पाहून मायावी वळला आणि अंधारात पळून गेला.\n\nत्यांनी त्याचा पाठलाग केला. शेतांमधून धावत ते डोंगरातल्या एका मोठ्या गुहेपर्यंत पोहोचले. “तू इथेच थांब,” वाली म्हणाला. “प्रवेशद्वाराची राखण कर. मी परत आलो नाही, तर समज की मी गेलो.” आणि तो एकटाच आत शिरला.\n\nएक महिना गेला. मग एक वर्ष गेले. शेवटी गुहेच्या तोंडातून फेस आणि रक्ताचा जाड प्रवाह बाहेर वाहू लागला आणि सुग्रीवाला आपल्या भावाच्या मरणाच्या किंकाळ्या ऐकू आल्यासारखे वाटले. त्याचे हृदय तुटले. राक्षस बाहेर निसटेल या भीतीने त्याने एक प्रचंड शिळा गुहेच्या तोंडावर लोटली आणि डोळ्यांत पाणी आणून तो घरी परतला.\n\nमंत्र्यांनी त्याला सिंहासन स्वीकारण्याची विनवणी केली. नाइलाजाने त्याने ते स्वीकारले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A brother's wrath",
+    "hi": {
+     "text": "भाई का क्रोध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भावाचा क्रोध",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "But Vali was not dead. He had killed Mayavi after a long struggle, and now he came climbing out into the daylight, tired and proud. He found the entrance sealed. He pushed, he kicked, he shouted his brother's name. No one answered. When at last he broke through and returned to Kishkindha, he found Sugriva wearing his crown.\n\nGrief and victory had left Vali raw. He would not listen to explanations. “You sealed me in to die,” he thundered. “You wanted my throne and my queen!” He drove Sugriva out of the kingdom with only his clothes, and kept Sugriva's wife Ruma as his own.\n\nSugriva ran, hunted from one forest to the next, until he found the one place Vali could never enter: the hill of Rishyamuka, which a sage's curse had closed to him. There he lived in fear, until two travellers in bark clothes came walking along the lake.",
+    "hi": {
+     "text": "पर वाली मरे नहीं थे। लंबे संग्राम के बाद उन्होंने मायावी को मार डाला था, और अब थके हुए पर गर्व से भरे हुए वे गुफा से बाहर आने लगे। उन्होंने द्वार बंद पाया। उन्होंने धक्का दिया, लात मारी, भाई का नाम पुकारा। कोई उत्तर नहीं आया। जब आख़िर वे शिला हटाकर किष्किंधा लौटे, तो देखा कि सुग्रीव उनका मुकुट पहने बैठे हैं।\n\nशोक और विजय, दोनों ने मिलकर वाली का मन घायल कर दिया था। उन्होंने कोई सफ़ाई नहीं सुनी। “तूने मुझे मरने के लिए बंद कर दिया!” वे गरजे। “तुझे मेरा सिंहासन और मेरी रानी चाहिए थी!” उन्होंने सुग्रीव को केवल तन के वस्त्रों में राज्य से निकाल दिया, और सुग्रीव की पत्नी रुमा को अपने पास रख लिया।\n\nसुग्रीव भागते रहे, एक वन से दूसरे वन तक, जब तक उन्हें वह एकमात्र जगह न मिल गई जहाँ वाली कभी पैर नहीं रख सकते थे: ऋष्यमूक पर्वत, जो एक ऋषि के शाप से उनके लिए वर्जित था। वहीं वे डर के साये में रहने लगे, जब तक एक दिन झील के किनारे वल्कल पहने दो पथिक आते न दिखे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण वाली मेला नव्हता. दीर्घ झुंजीनंतर त्याने मायावीचा वध केला होता, आणि आता थकलेला पण अभिमानाने भरलेला तो दिवसाच्या उजेडात बाहेर येऊ पाहत होता. त्याला प्रवेशद्वार बंद झालेले दिसले. त्याने ढकलले, लाथा मारल्या, भावाचे नाव घेऊन हाका मारल्या. कोणीच उत्तर दिले नाही. शेवटी तो शिळा फोडून बाहेर पडला आणि किष्किंधेला परतला, तेव्हा त्याने पाहिले की सुग्रीवाच्या डोक्यावर आपला मुकुट आहे.\n\nदुःख आणि विजय यांनी वालीचे मन घायाळ झाले होते. त्याने कोणतेही स्पष्टीकरण ऐकले नाही. “तू मला मरायला आत कोंडलेस,” तो गर्जला. “तुला माझे सिंहासन आणि माझी राणी हवी होती!” त्याने सुग्रीवाला अंगावरच्या वस्त्रांनिशी राज्याबाहेर हाकलले आणि सुग्रीवाची पत्नी रुमा हिला स्वतःकडे ठेवून घेतले.\n\nसुग्रीव एका वनातून दुसऱ्या वनात पळत राहिला, वालीचे सैनिक त्याच्या मागावर होते. शेवटी त्याला असे एक ठिकाण सापडले जिथे वाली कधीही पाऊल ठेवू शकत नव्हता: ऋष्यमूक पर्वत, कारण एका ऋषींच्या शापाने त्याला तिथे बंदी होती. तिथे सुग्रीव भीतीच्या छायेत राहत होता, आणि एके दिवशी वल्कले नेसलेले दोन प्रवासी सरोवराच्या काठाने चालत आले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two storms, one face",
+    "hi": {
+     "text": "दो तूफ़ान, एक ही रूप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन वादळे, एकच चेहरा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Now Sugriva stood outside the gates of Kishkindha and roared a challenge. Vali, with his golden necklace and lion's strength, came out smiling grimly. Behind a tree, bow in hand, Rama watched.\n\nThe two brothers wrestled like thunderclouds meeting. They were so alike in height, in colour, in the very way they moved, that Rama simply could not tell them apart. He drew his bow and lowered it again, afraid to strike his friend. Under Vali's fists, Sugriva was beaten bloody. At last he broke away and fled back to the mountain, ashamed.\n\n“You gave me your word!” he cried to Rama. “Why did you not shoot?”\n\nGently, Rama answered, “I could not tell you apart, my friend, and one wrong arrow would have taken a life that was mine to protect. Tomorrow, wear a sign.” Lakshmana picked a wreath of gajapushpi flowers and placed it around Sugriva's neck. Sugriva bowed his head, ashamed of his doubt, and lifted it again with new courage.",
+    "hi": {
+     "text": "अब सुग्रीव किष्किंधा के द्वार पर खड़े होकर ललकार रहे थे। गले में सोने की माला पहने, सिंह जैसे बल वाले वाली कठोर मुस्कान के साथ बाहर आए। एक पेड़ के पीछे हाथ में धनुष लिए राम सब देख रहे थे।\n\nदोनों भाई ऐसे भिड़े जैसे आकाश में दो बादल टकराते हों। वे कद में, रंग में, चलने के ढंग तक में इतने एक-जैसे थे कि राम उन्हें पहचान ही न सके। उन्होंने धनुष उठाया और फिर नीचे कर लिया, कि कहीं अपने मित्र पर ही वार न हो जाए। वाली के घूँसों से सुग्रीव लहूलुहान हो गए। आख़िर किसी तरह छूटकर वे लज्जित होकर पर्वत की ओर भाग गए।\n\n“आपने तो वचन दिया था!” वे राम से बोले। “फिर बाण क्यों नहीं चलाया?”\n\nराम ने कोमलता से कहा, “मित्र, मैं तुम दोनों में भेद नहीं कर पाया। एक भी ग़लत बाण उस प्राण को ले लेता जिसकी रक्षा का मैंने प्रण लिया था। कल कोई पहचान पहन लेना।” लक्ष्मण ने गजपुष्पी की एक माला बनाकर सुग्रीव के गले में डाल दी। सुग्रीव ने अपने संदेह पर लज्जा से सिर झुकाया, और फिर नए साहस के साथ उठा लिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता सुग्रीव किष्किंधेच्या वेशीबाहेर उभा राहिला आणि त्याने गर्जून आव्हान दिले. गळ्यात सोन्याची माळ आणि अंगात सिंहाचे बळ घेऊन वाली कठोर हसत बाहेर आला. एका झाडामागे हातात धनुष्य घेऊन राम पाहत उभे होते.\n\nदोन्ही भाऊ ढग आपटावेत तसे एकमेकांशी भिडले. उंचीत, रंगात, चालण्याच्या ढबीतसुद्धा ते इतके सारखे होते की रामांना त्यांच्यातला फरक ओळखताच येईना. त्यांनी धनुष्य ताणले आणि पुन्हा खाली घेतले, कारण आपल्या मित्रावरच बाण पडेल अशी त्यांना भीती वाटली. वालीच्या मुठींच्या माराखाली सुग्रीव रक्ताने माखला. शेवटी तो कसाबसा सुटला आणि लज्जित होऊन पर्वताकडे पळाला.\n\n“तुम्ही मला शब्द दिला होता!” तो रामांना ओरडून म्हणाला. “तुम्ही बाण का सोडला नाही?”\n\nरामांनी शांतपणे उत्तर दिले, “मित्रा, मला तुमच्यातला फरक कळला नाही, आणि चुकीचा बाण गेला असता तर ज्याचे रक्षण करणे माझे कर्तव्य आहे, त्याचाच जीव गेला असता. उद्या एखादी खूण धारण कर.” लक्ष्मणाने गजपुष्पीच्या फुलांचा हार तोडून सुग्रीवाच्या गळ्यात घातला. सुग्रीवाने आपल्या शंकेबद्दल लज्जेने मान खाली घातली, आणि नव्या धैर्याने ती पुन्हा वर केली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The unseen arrow",
+    "hi": {
+     "text": "अदृश्य बाण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "न दिसलेला बाण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The next morning, Sugriva wore the garland and shouted again. This time, Tara, Vali's wise queen, tried to hold her husband back. “Last night he was beaten, and today he returns with a new boldness,” she said. “Someone stands behind him. Remember that Rama of Ayodhya is Sugriva's friend. Make peace with your brother.”\n\nVali would not hear it. “A warrior cannot refuse a challenge,” he said. “And do not fear. Rama is dharma itself; he will not strike me unfairly.” He walked out, and the brothers crashed together again.\n\nThis time the garland shone clearly among the flailing figures. Rama took careful aim. His arrow flew from the trees with a sound like a bell, and struck Vali in the chest. The mighty king staggered, then fell like a great tree cut at its root, his golden chain glinting in the dust. The fighting stopped. A silence spread across the plain.",
+    "hi": {
+     "text": "अगली सुबह सुग्रीव माला पहनकर फिर गरजे। इस बार वाली की समझदार रानी तारा ने पति को रोकने की कोशिश की। “कल रात वह पिटकर गया था, और आज नया साहस लेकर लौटा है,” उन्होंने कहा। “ज़रूर कोई उसके पीछे खड़ा है। याद रखिए, अयोध्या के राम सुग्रीव के मित्र हैं। अपने भाई से संधि कर लीजिए।”\n\nवाली ने न माना। “योद्धा चुनौती से मुँह नहीं मोड़ सकता,” वे बोले। “और तुम डरो मत। राम तो स्वयं धर्म हैं; वे मुझ पर अन्याय का वार नहीं करेंगे।” वे बाहर निकले, और दोनों भाई फिर आपस में जा भिड़े।\n\nइस बार उछलती-कूदती आकृतियों के बीच माला साफ़ चमक रही थी। राम ने सधा हुआ निशाना लिया। उनका बाण पेड़ों के पीछे से घंटे जैसी ध्वनि करता उड़ा और वाली की छाती में जा लगा। महाबली राजा लड़खड़ाए, फिर जड़ से कटे विशाल वृक्ष की तरह गिर पड़े, उनकी सोने की माला धूल में चमकती रही। लड़ाई थम गई। मैदान पर सन्नाटा छा गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसऱ्या दिवशी सकाळी सुग्रीवाने तो हार घातला आणि पुन्हा गर्जना केली. यावेळी वालीची शहाणी राणी तारा हिने पतीला अडवण्याचा प्रयत्न केला. “काल तो मार खाऊन गेला होता, आणि आज नव्या धिटाईने परत आला आहे,” ती म्हणाली. “त्याच्या पाठीशी कोणीतरी उभे आहे. लक्षात ठेवा, अयोध्येचे राम सुग्रीवाचे मित्र आहेत. भावाशी सलोखा करा.”\n\nवालीने ते ऐकले नाही. “योद्धा आव्हानाला नकार देत नाही,” तो म्हणाला. “आणि तू भिऊ नकोस. राम म्हणजे प्रत्यक्ष धर्म; ते माझ्यावर अन्यायाने बाण सोडणार नाहीत.” तो बाहेर गेला आणि दोन्ही भाऊ पुन्हा एकमेकांवर आदळले.\n\nयावेळी त्या झटापटीत सुग्रीवाच्या गळ्यातला हार स्पष्ट चमकत होता. रामांनी नेम धरला. झाडांच्या आडून घंटानादासारखा आवाज करत त्यांचा बाण सुटला आणि वालीच्या छातीत घुसला. तो बलवान राजा हेलकावला, आणि मुळापासून तुटलेल्या मोठ्या वृक्षासारखा कोसळला; त्याची सोन्याची माळ धुळीत चमकत होती. लढाई थांबली. सारे रान स्तब्ध झाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Vali's questions",
+    "hi": {
+     "text": "वाली के प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वालीचे प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Vali lay in the grass, breathing slowly, and when Rama and Lakshmana came near, he lifted his eyes. He was not afraid. He was hurt, and he was angry.\n\n“Rama, you are praised as the best of men. Why strike me from hiding, while I fought another? I never harmed you. If you had asked, I would have found Sita for you in a single day and dragged Ravana here in chains.”\n\nRama did not look away from the question. “This land belongs to the line of Ikshvaku,” he said, “and I am bound to keep dharma in it. You took your brother's wife, Vali. You treated her as a possession, when she was as dear to him as a daughter is to a father. For a king, that is a grave wrong. And Sugriva came to me for refuge, and I gave my word to him. A protector does not break his word.”\n\nVali was silent for a long while. Then he said quietly, “I understand. I accept your judgement.”",
+    "hi": {
+     "text": "वाली घास पर पड़े धीरे-धीरे साँस ले रहे थे, और जब राम और लक्ष्मण पास आए तो उन्होंने आँखें उठाईं। उन्हें डर नहीं था। वे आहत थे, और क्रोधित थे।\n\n“राम, तुम्हें सबसे श्रेष्ठ पुरुष कहा जाता है। फिर मुझे छिपकर क्यों मारा, जबकि मैं किसी और से लड़ रहा था? मैंने तो तुम्हारा कुछ नहीं बिगाड़ा। तुम कहते, तो मैं एक ही दिन में सीता को खोज लाता और रावण को बाँधकर यहाँ घसीट लाता।”\n\nराम ने प्रश्न से आँखें नहीं चुराईं। “यह धरती इक्ष्वाकु वंश की है,” उन्होंने कहा, “और इसमें धर्म की रक्षा करना मेरा कर्तव्य है। वाली, तुमने अपने भाई की पत्नी को अपने पास रख लिया। जो उसे पुत्री के समान प्रिय थी, उसे तुमने वस्तु की तरह समझा। एक राजा के लिए यह बड़ा अपराध है। और सुग्रीव मेरी शरण में आया था, मैंने उसे वचन दिया था। रक्षक अपना वचन नहीं तोड़ता।”\n\nवाली बहुत देर चुप रहे। फिर धीमे स्वर में बोले, “मैं समझ गया। मैं तुम्हारा निर्णय स्वीकार करता हूँ।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाली गवतात पडला होता, हळूहळू श्वास घेत होता, आणि राम आणि लक्ष्मण जवळ आले तेव्हा त्याने डोळे वर केले. तो घाबरलेला नव्हता. तो दुखावलेला होता, आणि रागावलेलाही.\n\n“राम, लोक तुम्हाला पुरुषांमध्ये श्रेष्ठ म्हणतात. मग मी दुसऱ्याशी लढत असताना तुम्ही लपून माझ्यावर बाण का मारलात? मी तुमचे काहीच वाईट केले नव्हते. तुम्ही मला सांगितले असते तर मी एका दिवसात सीतेला शोधून आणले असते आणि रावणाला साखळदंडांनी बांधून इथे ओढत आणले असते.”\n\nरामांनी त्या प्रश्नापासून नजर फिरवली नाही. “ही भूमी इक्ष्वाकूंच्या वंशाची आहे,” ते म्हणाले, “आणि तिथे धर्माचे रक्षण करणे माझे कर्तव्य आहे. वाली, तू आपल्या भावाची पत्नी स्वतःकडे ठेवलीस. ती त्याला मुलीइतकी प्रिय होती, आणि तू तिला एखाद्या वस्तूसारखे वागवलेस. राजासाठी हा फार मोठा अपराध आहे. आणि सुग्रीव माझ्याकडे आश्रयाला आला, आणि मी त्याला शब्द दिला. रक्षणकर्ता आपला शब्द मोडत नाही.”\n\nवाली बराच वेळ गप्प राहिला. मग हळूच म्हणाला, “मला समजले. मी तुमचा निर्णय मान्य करतो.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Tara's lament",
+    "hi": {
+     "text": "तारा का विलाप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ताराचा विलाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Tara came running across the field, her hair unbound, and fell on her husband's chest. Her grief was not loud, but it went through every heart. “You never listened to me,” she whispered, “and still I would not trade you for all the kingdoms of the world.”\n\nWhen she saw Rama, she did not curse him. She looked at him a long moment and said, “You are the one who bears the grief of everyone. Be kind to my son.”\n\nVali called Sugriva close and put his hand in his. “Forgive me, brother. We were two fools who loved each other and threw it away. Look after Angada as your own. And listen to Tara; she sees what others miss.” He gave Sugriva his golden necklace, and his breath slowly stilled.\n\nSugriva wept like a child. Later, at Rama's urging, he took the crown, with Tara's blessing and little Angada standing quietly at his side. Kishkindha had a new king, but the cost had been a brother.",
+    "hi": {
+     "text": "तारा बाल बिखेरे मैदान के पार दौड़ती आई और पति की छाती पर गिर पड़ी। उसका शोक ऊँचे स्वर में नहीं था, पर हर हृदय को चीर गया। “आपने कभी मेरी बात नहीं सुनी,” वह फुसफुसाई, “फिर भी मैं आपके बदले दुनिया के सारे राज्य भी न लूँ।”\n\nजब उसने राम को देखा, तो उन्हें शाप नहीं दिया। वह कुछ क्षण उन्हें देखती रही, फिर बोली, “आप ही वह हैं जो सबके दुख अपने ऊपर उठाते हैं। मेरे पुत्र पर दया रखिएगा।”\n\nवाली ने सुग्रीव को पास बुलाया और उसका हाथ अपने हाथ में लिया। “भाई, मुझे क्षमा कर दो। हम दो मूर्ख थे जो एक-दूसरे से प्रेम करते थे और उसे गँवा बैठे। अंगद को अपने पुत्र जैसा पालना। और तारा की बात सुनना; वह वह देख लेती है जो और लोग नहीं देख पाते।” उन्होंने अपनी सोने की माला सुग्रीव को दे दी, और उनकी साँस धीरे-धीरे थम गई।\n\nसुग्रीव बच्चे की तरह रोए। बाद में राम के कहने पर उन्होंने तारा के आशीर्वाद के साथ मुकुट स्वीकार किया, नन्हे अंगद को चुपचाप अपने पास खड़ा लिए। किष्किंधा को नया राजा मिल गया था, पर उसकी कीमत एक भाई था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तारा केस मोकळे सोडून शेतातून धावत आली आणि पतीच्या छातीवर कोसळली. तिचे दुःख मोठ्याने रडण्यातून नव्हते, पण ते प्रत्येकाच्या हृदयाला भिडले. “तुम्ही माझे कधी ऐकले नाही,” ती कुजबुजली, “तरीही सगळ्या जगाच्या राज्यांसाठीही मी तुम्हाला सोडले नसते.”\n\nरामांना पाहिल्यावर तिने त्यांना शाप दिला नाही. तिने क्षणभर त्यांच्याकडे पाहिले आणि म्हणाली, “तुम्ही सगळ्यांचे दुःख आपल्या हृदयात वाहणारे आहात. माझ्या मुलावर दया करा.”\n\nवालीने सुग्रीवाला जवळ बोलावले आणि त्याचा हात आपल्या हातात घेतला. “भावा, मला क्षमा कर. आपण दोघे वेडे होतो, एकमेकांवर प्रेम करणारे, आणि तरीही ते आपण फेकून दिले. अंगदाला आपल्या मुलासारखे सांभाळ. आणि ताराचे ऐकत जा; इतरांना जे दिसत नाही ते तिला दिसते.” त्याने आपली सोन्याची माळ सुग्रीवाला दिली, आणि हळूहळू त्याचा श्वास थांबला.\n\nसुग्रीव लहान मुलासारखा रडला. नंतर रामांच्या सांगण्यावरून त्याने मुकुट स्वीकारला, ताराच्या आशीर्वादाने आणि छोटा अंगद शांतपणे त्याच्या शेजारी उभा होता. किष्किंधेला नवा राजा मिळाला, पण त्याची किंमत एका भावाच्या प्राणाने चुकवावी लागली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Vali and Sugriva lost years to a misunderstanding they never stopped to clear up. Is there someone you have not spoken to because of a story you only half know? Today, write or say one honest, gentle sentence to begin to mend it.",
+  "hi": {
+   "text": "वाली और सुग्रीव ने एक ऐसी ग़लतफ़हमी में बरसों गँवा दिए जिसे सुलझाने के लिए वे कभी रुके ही नहीं। क्या कोई ऐसा है जिससे आपने किसी अधूरी सुनी बात के कारण बोलना छोड़ दिया है? आज एक सच्चा और कोमल वाक्य लिखिए या कहिए, और रिश्ता जोड़ने की शुरुआत कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाली आणि सुग्रीव एका गैरसमजात वर्षे गमावून बसले, तो मिटवायला कोणीच थांबले नाही. अर्धवट माहीत असलेल्या एखाद्या गोष्टीमुळे तुम्ही कोणाशी बोलायचे सोडले आहे का? आज त्या नात्याला जोडायला एक प्रामाणिक, मृदू वाक्य लिहा किंवा बोला.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Even a small misunderstanding, left unspoken, can grow into a war, and listening early is wiser than forgiving late.",
+  "hi": {
+   "text": "एक छोटी-सी ग़लतफ़हमी भी, अनकही रह जाए तो, युद्ध बन सकती है; देर से क्षमा करने से अच्छा है समय रहते सुन लेना।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लहानसा गैरसमजही न बोलला तर युद्धापर्यंत वाढू शकतो; उशिरा क्षमा करण्यापेक्षा लवकर ऐकणे शहाणपणाचे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Kishkindha Kanda (the Vali episode)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, किष्किंधाकांड (वाली प्रसंग)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, किष्किंधाकांड (वालीप्रसंग)",
+   "reviewed": false
+  }
+ }
+}

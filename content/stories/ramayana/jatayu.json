@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "jatayu",
+ "order": 15,
+ "part": "aranya",
+ "figure": {
+  "en": "Jatayu",
+  "hi": {
+   "text": "जटायु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जटायू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The old bird who would not look away",
+  "hi": {
+   "text": "वह बूढ़ा पक्षी, जिसने नज़रें न फेरीं",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नजर न फिरवणारा वृद्ध पक्षी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A stolen queen, a chariot in the sky, and an old vulture who flies straight into the fiercest king on earth.",
+  "hi": {
+   "text": "एक हरी गई रानी, आकाश में उड़ता रथ, और एक वृद्ध गिद्ध जो धरती के सबसे उग्र राजा से सीधा जा भिड़ता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पळवलेली राणी, आकाशातला रथ, आणि पृथ्वीवरच्या सर्वात भयंकर राजाकडे थेट झेपावणारा एक वृद्ध गिधाड.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/golden-deer-2.webp",
+   "w": 764,
+   "h": 1100,
+   "caption": {
+    "en": "Jatayu fights Ravana to save Sita (Raja Ravi Varma)",
+    "hi": {
+     "text": "सीता को बचाने के लिए जटायु रावण से लड़ते हैं (राजा रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेला वाचवण्यासाठी जटायू रावणाशी लढतो (राजा रवी वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ravi_Varma-Ravana_Sita_Jathayu.jpg"
+  },
+  {
+   "src": "/stories/ramayana/shabari-2.webp",
+   "w": 1200,
+   "h": 794,
+   "caption": {
+    "en": "Rama and Lakshmana find the wounded Jatayu (Pahari painting, late 1700s)",
+    "hi": {
+     "text": "राम और लक्ष्मण को घायल जटायु मिलते हैं (पहाड़ी चित्र, अठारहवीं सदी)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम-लक्ष्मणांना जखमी जटायू सापडतो (पहाडी चित्र, अठरावे शतक)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rama_During_his_Search_of_Sita_Meets_Wounded_Jatayu_and_Comes_to_Know_that_Ravana_Abducted_Sita_-_late_18th-century.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The pull of the chariot",
+    "hi": {
+     "text": "रथ का खिंचाव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रथाची ओढ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana seized Sita by her hair and her waist and lifted her into his golden chariot, drawn by braying donkeys with faces of demons. The chariot rose into the sky with a terrible noise.\n\nSita screamed. She cried out for Rama and for Lakshmana, but they were far away. She struggled and clawed, and the king of Lanka held her tighter. “Do not fear,” he said smoothly, as though he were doing her a kindness. “Come with me to a land of gold. You will be queen of queens.”\n\n“You are a thief,” said Sita. Her voice shook, but her eyes did not waver. “A coward, who waited until the lions were gone. My husband will find you, wherever you hide. He will tear down your city stone by stone.”\n\nRavana laughed. Below them, the forest rolled by, green and unconcerned. Sita turned to the trees and the river and the deer and called to them as to friends: “Tell Rama that Ravana has taken Sita! Tell him, wherever you see him!” The wind carried her voice a little way, and let it go.",
+    "hi": {
+     "text": "रावण ने सीता को बालों और कमर से पकड़कर अपने स्वर्ण रथ में उठा लिया, जिसे राक्षसी मुखों वाले रेंकते गधे खींच रहे थे। रथ भयानक कोलाहल के साथ आकाश में उठ गया।\n\nसीता चीख़ उठीं। उन्होंने राम को पुकारा, लक्ष्मण को पुकारा, पर वे बहुत दूर थे। वे छटपटाईं, नाखून गड़ाए, और लंकापति ने उन्हें और कसकर जकड़ लिया। “डरो मत,” उसने चिकनी वाणी में कहा, मानो उन पर उपकार कर रहा हो। “मेरे साथ स्वर्ण की भूमि चलो। तुम रानियों की रानी बनोगी।”\n\n“तू चोर है,” सीता ने कहा। उनका स्वर काँप रहा था, पर आँखें नहीं डगमगाईं। “कायर, जिसने सिंहों के हटने की प्रतीक्षा की। मेरे स्वामी तुझे ढूँढ निकालेंगे, तू जहाँ भी छिपे। वे तेरा नगर पत्थर-पत्थर करके गिरा देंगे।”\n\nरावण हँसा। नीचे वन हरा और निश्चिंत लुढ़कता जा रहा था। सीता ने वृक्षों, नदी और हिरनों की ओर मुड़कर मित्रों की तरह पुकारा: “राम से कह देना कि रावण सीता को ले गया है! जहाँ भी उन्हें देखो, कह देना!” हवा उनकी आवाज़ को थोड़ी दूर तक ले गई, और फिर छोड़ दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाने सीतेला केसांनी आणि कमरेला धरून आपल्या सोनेरी रथात उचलले, राक्षसी मुखांच्या ओरडणाऱ्या गाढवांनी ओढलेल्या. रथ भयंकर आवाज करत आकाशात झेपावला.\n\nसीता किंचाळली. तिने राम आणि लक्ष्मणाला हाका मारल्या, पण ते फार दूर होते. तिने झटापट केली, नखांनी ओरबाडले, आणि लंकेच्या राजाने तिला अधिक घट्ट धरले. “घाबरू नकोस,” तो गोडीने म्हणाला, जणू तो तिच्यावर उपकार करत होता. “माझ्यासोबत सोन्याच्या देशात ये. तू राण्यांची राणी होशील.”\n\n“तू चोर आहेस,” सीता म्हणाली. तिचा आवाज थरथरत होता, पण डोळे डळमळले नाहीत. “सिंह गेल्यावर वाट पाहणारा भित्रा. तू कुठेही लपलास तरी माझे पती तुला शोधतील. ते तुझे नगर दगडाने दगड उखडून टाकतील.”\n\nरावण हसला. खाली वन सरकत होते, हिरवे आणि बेफिकीर. सीतेने झाडांकडे, नदीकडे, हरणांकडे वळून त्यांना मैत्रिणींसारख्या हाका मारल्या: “रामाला सांगा की रावणाने सीतेला नेले! त्याला जिथे दिसाल तिथे सांगा!” वाऱ्याने तिचा आवाज थोडा दूर नेला आणि सोडून दिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Jatayu hears",
+    "hi": {
+     "text": "जटायु ने सुना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जटायूने ऐकले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the branch of a great tree, an old vulture woke with a start. His wings were broad and grey, his eyes dim, and he was very, very old. He had been a friend of King Dasharatha, and when Rama and Sita came to the forest, he had promised to guard them.\n\nHe heard the cry. He saw the golden chariot in the sky, and the woman struggling in it. “That is Sita,” he whispered. “That is the daughter-in-law of my friend.”\n\nOther birds would have turned away. Jatayu was no longer young. His bones ached and his wings had grown slow. Ravana was the most feared warrior on earth, a man who had humbled the gods, and a vulture could not hope to stop him.\n\nBut Jatayu did not stop to think of what he could lose. He opened his wings, rose into the air with a great cry, and flew straight at the chariot. “Stop, Ravana!” his voice thundered. “Put her down. A king who steals a wife has already lost his throne.”",
+    "hi": {
+     "text": "एक विशाल वृक्ष की डाल पर एक वृद्ध गिद्ध चौंककर जागा। उसके पंख चौड़े और धूसर थे, आँखें मंद, और वह बहुत, बहुत बूढ़ा था। वह राजा दशरथ का मित्र रह चुका था, और जब राम और सीता वन आए थे, तो उसने उनकी रक्षा का वचन दिया था।\n\nउसने वह पुकार सुनी। उसने आकाश में स्वर्ण रथ और उसमें छटपटाती स्त्री को देखा। “यह तो सीता है,” वह बुदबुदाया। “मेरे मित्र की पुत्रवधू।”\n\nऔर पक्षी मुँह फेर लेते। जटायु अब जवान न था। उसकी हड्डियाँ दुखती थीं और पंख धीमे पड़ गए थे। रावण पृथ्वी का सबसे भयंकर योद्धा था, जिसने देवताओं को झुकाया था, और एक गिद्ध उसे रोकने की आशा नहीं कर सकता था।\n\nपर जटायु ने यह सोचने में समय न गँवाया कि वह क्या खो सकता है। उसने पंख फैलाए, एक विशाल पुकार के साथ हवा में उठा, और सीधा रथ की ओर उड़ चला। “रुक जा, रावण!” उसकी वाणी गरज उठी। “उसे छोड़ दे। जो राजा पराई स्त्री चुराता है, वह अपना सिंहासन पहले ही खो चुका है।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका मोठ्या झाडाच्या फांदीवर एक वृद्ध गिधाड दचकून जागा झाला. त्याचे पंख रुंद आणि राखाडी होते, डोळे अंधुक, आणि तो फार फार म्हातारा होता. तो राजा दशरथाचा मित्र होता, आणि राम आणि सीता वनात आले तेव्हा त्याने त्यांचे रक्षण करण्याचे वचन दिले होते.\n\nत्याने ती हाक ऐकली. त्याने आकाशातला सोनेरी रथ आणि त्यात झटापट करणारी स्त्री पाहिली. “ती सीता आहे,” तो कुजबुजला. “माझ्या मित्राची सून.”\n\nइतर पक्ष्यांनी पाठ फिरवली असती. जटायू आता तरुण नव्हता. त्याची हाडे दुखत होती आणि पंख मंद झाले होते. रावण पृथ्वीवरचा सर्वात भयावह योद्धा होता, ज्याने देवांना नमवले होते, आणि एका गिधाडाला त्याला रोखण्याची आशा नव्हती.\n\nपण जटायूने काय गमावेल याचा विचार करायला थांबला नाही. त्याने पंख पसरले, मोठ्याने ओरडत आकाशात झेपावला आणि रथाकडे सरळ उडाला. “थांब, रावणा!” त्याचा आवाज गडगडला. “तिला खाली ठेव. परस्त्री चोरणाऱ्या राजाने सिंहासन आधीच गमावले आहे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The battle in the sky",
+    "hi": {
+     "text": "आकाश में युद्ध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आकाशातले युद्ध",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana stared at the old bird in astonishment, and then he laughed. “Old fool. Do you know who I am? Fly away, or I will cut your wings.”\n\nJatayu came on. He struck at the chariot with beak and talons. He shattered the wheels, tore the banner, killed the donkeys with his claws, and split the great bow. He tore at Ravana’s shoulders until blood ran. For a time, the demon king, astonished, fought only to defend himself, and Sita, watching from the wreckage of the chariot, began to hope.\n\nBut Jatayu was old, and Ravana was strong, and the fight could not go on for long. The vulture fought on through the afternoon, wing against steel, never once turning back.\n\nAt last, Ravana drew his sword, a sword given by Shiva. With three strokes he cut off Jatayu’s wings and his feet, and the great bird fell to the earth like a mountain, his body broken, his eyes still turned toward the sky. “Rama,” he whispered. “Rama will come.”",
+    "hi": {
+     "text": "रावण ने विस्मय से उस बूढ़े पक्षी को देखा, और फिर हँस पड़ा। “बूढ़े मूर्ख। जानता है मैं कौन हूँ? उड़ जा, या मैं तेरे पंख काट दूँगा।”\n\nजटायु बढ़ता गया। उसने चोंच और पंजों से रथ पर प्रहार किया। उसने पहिए चकनाचूर कर दिए, ध्वजा फाड़ डाली, नखों से गधों को मार गिराया, और विशाल धनुष तोड़ दिया। उसने रावण के कंधों को तब तक नोचा जब तक रक्त बहने न लगा। कुछ देर तक राक्षसराज, चकित, केवल अपनी रक्षा करता रहा, और सीता, रथ के ध्वंस से देखती हुईं, आशा करने लगीं।\n\nपर जटायु वृद्ध था, और रावण बलवान, और यह युद्ध अधिक देर नहीं चल सकता था। गिद्ध पूरी दुपहरी लड़ता रहा, पंख इस्पात के विरुद्ध, एक बार भी पीछे न मुड़ा।\n\nअंत में रावण ने अपनी तलवार खींची, शिव की दी हुई तलवार। तीन वारों में उसने जटायु के पंख और पैर काट दिए, और महान पक्षी पर्वत की तरह धरती पर गिर पड़ा, उसका शरीर टूटा हुआ, आँखें अब भी आकाश की ओर। “राम,” वह बुदबुदाया। “राम आएँगे।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाने आश्चर्याने त्या वृद्ध पक्ष्याकडे पाहिले, आणि मग तो हसला. “म्हाताऱ्या मूर्खा. मी कोण आहे ते तुला ठाऊक आहे का? उडून जा, नाहीतर मी तुझे पंख कापीन.”\n\nजटायू पुढे आला. त्याने चोचीने आणि नखांनी रथावर प्रहार केला. त्याने चाके फोडली, ध्वज फाडला, नखांनी गाढवांना मारले आणि महान धनुष्य तोडले. रक्त वाहेपर्यंत त्याने रावणाच्या खांद्यांना ओरबाडले. काही काळ राक्षसराजा, चकित होऊन, फक्त स्वतःचे रक्षण करत लढला, आणि रथाच्या ढिगाऱ्यातून पाहणाऱ्या सीतेला आशा वाटू लागली.\n\nपण जटायू वृद्ध होता, आणि रावण बलवान, आणि ती झुंज फार काळ चालू शकत नव्हती. पंख आणि पोलाद यांच्यातली लढत गिधाडाने दुपारभर चालू ठेवली, एकदाही मागे न वळता.\n\nशेवटी रावणाने तलवार काढली, शिवाने दिलेली तलवार. तीन वारांत त्याने जटायूचे पंख आणि पाय कापले, आणि तो महान पक्षी पर्वतासारखा पृथ्वीवर कोसळला, देह मोडलेला, डोळे अजूनही आकाशाकडे. “राम,” तो कुजबुजला. “राम येईल.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The trail of jewels",
+    "hi": {
+     "text": "गहनों की राह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दागिन्यांची वाट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana lifted Sita again and flew south. She cried to the forest. She cried to Lakshmana. She cried to the river Godavari, to the trees of Janasthana and to the lotuses on the pond. “Tell Rama!”\n\nAs they rose over the great mountains, she looked down and saw five monkeys sitting on a peak, watching the chariot. A thought flashed in her mind. Quickly she tore a piece of her yellow shawl, knotted her jewels into it, and dropped the bundle where the monkeys sat. Her ornaments, a necklace, her earrings and her bracelets, fell glittering into the mountain. Ravana did not see. The monkeys looked up at the sky, wondering. It was a small thing, thrown in desperate hope, and no one could know what it would mean.\n\nThe mountain was Rishyamuka, and the monkeys were the friends of Sugriva. The sea came into view, a great grey line. Far ahead, on the edge of the world, the golden towers of Lanka began to shine in the sun.",
+    "hi": {
+     "text": "रावण ने सीता को फिर उठाया और दक्षिण की ओर उड़ चला। वे वन को पुकारती रहीं। लक्ष्मण को पुकारती रहीं। गोदावरी नदी को, जनस्थान के वृक्षों को और सरोवर के कमलों को। “राम से कह देना!”\n\nजब वे विशाल पर्वतों के ऊपर से गुज़रे, तो उन्होंने नीचे देखा कि एक चोटी पर पाँच वानर बैठे रथ को देख रहे हैं। उनके मन में एक विचार कौंधा। उन्होंने जल्दी से अपने पीले उत्तरीय का एक टुकड़ा फाड़ा, उसमें अपने गहने बाँधे, और वह पोटली वानरों के बैठने की जगह गिरा दी। उनके आभूषण, हार, कुंडल और कंगन, चमकते हुए पर्वत पर जा गिरे। रावण ने नहीं देखा। वानरों ने आकाश की ओर देखा, विस्मित। यह एक छोटी-सी बात थी, हताश आशा में फेंकी हुई, और कोई नहीं जान सकता था कि इसका क्या अर्थ होगा।\n\nवह पर्वत ऋष्यमूक था, और वे वानर सुग्रीव के साथी थे। सागर दिखाई देने लगा, एक विशाल धूसर रेखा। बहुत आगे, संसार के छोर पर, लंका के स्वर्ण शिखर धूप में चमकने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाने सीतेला पुन्हा उचलले आणि दक्षिणेकडे उडाला. ती वनाला हाका मारत होती. लक्ष्मणाला हाका मारत होती. गोदावरी नदीला, जनस्थानाच्या झाडांना, आणि तळ्यातल्या कमळांना. “रामाला सांगा!”\n\nमोठे पर्वत ओलांडताना तिने खाली पाहिले आणि एका शिखरावर बसून रथाकडे पाहणारी पाच वानरे तिला दिसली. तिच्या मनात एक विचार चमकला. तिने लगेच आपल्या पिवळ्या शेल्याचा तुकडा फाडला, त्यात दागिने बांधले आणि ती पुरचुंडी वानरे बसली होती तिथे टाकली. तिचे अलंकार, हार, कानातले आणि बांगड्या चमकत पर्वतावर पडल्या. रावणाने ते पाहिले नाही. वानरे आश्चर्याने आकाशाकडे पाहू लागली. आर्त आशेने फेकलेली ती छोटी गोष्ट होती, आणि तिचा काय अर्थ होईल हे कोणालाच ठाऊक नव्हते.\n\nतो पर्वत ऋष्यमूक होता, आणि वानरे सुग्रीवाचे मित्र होती. सागर नजरेस आला, एक मोठी राखाडी रेषा. दूर, जगाच्या काठावर, लंकेचे सोनेरी मनोरे उन्हात चमकू लागले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The empty hut",
+    "hi": {
+     "text": "सूनी कुटिया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रिकामी कुटी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Meanwhile Rama, hurrying back, met Lakshmana on the path, running toward him with a stricken face. “Why have you left her alone?” cried Rama. “Why?”\n\nLakshmana told him everything. Rama said nothing. They ran together, and as they ran, the omens grew worse. Jackals howled. The birds were silent. Rama’s left eye trembled.\n\nThe hut was empty. A few flowers lay scattered on the ground. The garland Sita had been weaving lay half-finished on the porch.\n\nRama, who had smiled when he was exiled, who had not wept at his father’s death, now sank to his knees. He called her name. He ran around the hut, looking in the garden, the river, the grove. “Have you seen Sita?” he asked the trees. He asked the deer, the peacocks, the lotuses. The forest seemed to answer only with silence, and then, in his grief, a different Rama rose. Anger, terrible and cold, began to gather in him like a storm over the sea.\n\n“If the gods will not return her,” he said, “I will dissolve the worlds.”",
+    "hi": {
+     "text": "उधर राम जल्दी लौटते हुए राह में लक्ष्मण से मिले, जो व्यथित मुख लिए उनकी ओर दौड़े आ रहे थे। “तुम उसे अकेला क्यों छोड़ आए?” राम चीख़ पड़े। “क्यों?”\n\nलक्ष्मण ने सब बता दिया। राम कुछ न बोले। दोनों साथ दौड़े, और जैसे-जैसे दौड़े, अपशकुन बढ़ते गए। सियार चीत्कार उठे। पक्षी मौन थे। राम की बाईं आँख फड़कने लगी।\n\nकुटिया सूनी थी। कुछ फूल धरती पर बिखरे थे। सीता जो माला गूँथ रही थीं, वह अधूरी बरामदे में पड़ी थी।\n\nराम, जो वनवास पर मुस्कुराए थे, जिन्होंने पिता की मृत्यु पर आँसू नहीं बहाए, अब घुटनों के बल बैठ गए। उन्होंने उसका नाम पुकारा। वे कुटिया के चारों ओर दौड़े, बगीचे में, नदी पर, उपवन में खोजते। “क्या तुमने सीता को देखा?” उन्होंने पेड़ों से पूछा। हिरनों, मोरों, कमलों से पूछा। वन केवल मौन से उत्तर देता लगा, और तब उनके शोक में एक दूसरे राम उठ खड़े हुए। क्रोध, भयंकर और शीतल, उनके भीतर सागर पर घिरते तूफ़ान की तरह जमा होने लगा।\n\n“यदि देवता उसे नहीं लौटाएँगे,” उन्होंने कहा, “तो मैं लोकों को विलीन कर दूँगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इकडे राम घाईने परत येत असताना वाटेत त्याला लक्ष्मण भेटला, दुःखी चेहऱ्याने त्याच्याकडे धावत येणारा. “तू तिला एकटी का सोडलीस?” राम ओरडला. “का?”\n\nलक्ष्मणाने सारे सांगितले. राम काहीच बोलला नाही. दोघे एकत्र धावले, आणि धावताना अपशकुन वाढत गेले. कोल्हे ओरडले. पक्षी शांत होते. रामाचा डावा डोळा फडफडला.\n\nकुटी रिकामी होती. काही फुले जमिनीवर विखुरलेली. सीता विणत असलेली माळ पडवीवर अर्धवट पडली होती.\n\nजो राम वनवासाच्या वेळी हसला होता, जो पित्याच्या मृत्यूवेळी रडला नव्हता, तो आता गुडघ्यांवर कोसळला. त्याने तिचे नाव घेतले. तो कुटीभोवती धावला, बागेत, नदीकाठी, राईत शोधत. “सीता कुठे दिसली का?” त्याने झाडांना विचारले. हरणांना, मोरांना, कमळांना विचारले. वनाने फक्त शांततेने उत्तर दिले, आणि मग त्याच्या दुःखातून एक वेगळा राम उठला. भयंकर आणि थंड क्रोध समुद्रावरच्या वादळासारखा त्याच्यात गोळा होऊ लागला.\n\n“देव तिला परत देणार नसतील,” तो म्हणाला, “तर मी सारे लोक विरघळवून टाकीन.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Jatayu’s last gift",
+    "hi": {
+     "text": "जटायु का अंतिम उपहार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जटायूची अखेरची देणगी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "It was Lakshmana who calmed him. “Brother, you are the strength of all creatures. Do not destroy the world for one man’s crime. Let us search. Let us find who has done this.”\n\nAnd so they followed the signs. The deer pointed south with their faces. They found a broken chariot, scattered arrows, a shattered bow. And then, among the rocks, they saw something huge and grey, lying still.\n\nIt was Jatayu, torn and bleeding, alive only by the power of his will. “Rama,” he whispered. “I tried to stop him. It was Ravana. He took Sita. He went south. I fought him as long as I could. But the sword...”\n\nRama knelt, and took the great head in his lap. He wept. “Do not leave me,” he said. “Tell me more.” But the old bird’s breath was ebbing. “Sita is alive,” he breathed. “Find her.” Then he died, with his eyes on Rama’s face.\n\nRama placed him on a pyre of wood and lit it himself, performing the rites a son performs for a father. A prince of Ayodhya honoured a vulture as kin, because love, he knew, does not measure rank.",
+    "hi": {
+     "text": "लक्ष्मण ने ही उन्हें शांत किया। “भैया, आप समस्त प्राणियों का बल हैं। एक पुरुष के अपराध के लिए संसार का नाश मत कीजिए। चलिए खोजें। देखें कि यह किसने किया।”\n\nऔर इस तरह वे संकेतों के पीछे चले। हिरन अपने मुख दक्षिण की ओर किए संकेत करते रहे। उन्हें टूटा रथ मिला, बिखरे बाण, चूर हुआ धनुष। और फिर, चट्टानों के बीच, उन्होंने कुछ विशाल और धूसर निश्चल पड़ा देखा।\n\nवह जटायु था, फटा और रक्त से लथपथ, केवल अपनी इच्छा-शक्ति के बल पर जीवित। “राम,” वह बुदबुदाया। “मैंने उसे रोकने का प्रयास किया। वह रावण था। वह सीता को ले गया। वह दक्षिण गया। मैं जब तक लड़ सका, लड़ा। पर तलवार...”\n\nराम ने घुटने टेककर उस विशाल सिर को अपनी गोद में रख लिया। वे रो पड़े। “मुझे छोड़कर मत जाइए,” उन्होंने कहा। “और बताइए।” पर वृद्ध पक्षी की साँस उखड़ रही थी। “सीता जीवित है,” उसने साँस भरकर कहा। “उसे खोजो।” फिर उसने प्राण त्याग दिए, आँखें राम के मुख पर टिकी हुईं।\n\nराम ने उन्हें लकड़ियों की चिता पर रखा और स्वयं अग्नि दी, वे संस्कार करते हुए जो पुत्र पिता के लिए करता है। अयोध्या के एक राजकुमार ने एक गिद्ध को स्वजन की तरह सम्मान दिया, क्योंकि वे जानते थे कि प्रेम पद नहीं नापता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लक्ष्मणानेच त्याला शांत केले. “दादा, तू सर्व प्राण्यांचे बळ आहेस. एका माणसाच्या अपराधासाठी जगाचा नाश करू नकोस. आपण शोधू. हे कोणी केले ते शोधू.”\n\nआणि मग त्यांनी खुणांचा पाठलाग केला. हरणांनी तोंडे दक्षिणेकडे करून दिशा दाखवली. त्यांना मोडलेला रथ, विखुरलेले बाण, तुटलेले धनुष्य सापडले. आणि मग खडकांमध्ये त्यांना काहीतरी प्रचंड आणि राखाडी, निश्चल पडलेले दिसले.\n\nतो जटायू होता, फाटलेला आणि रक्ताळलेला, केवळ इच्छाशक्तीच्या बळावर जिवंत. “राम,” तो कुजबुजला. “मी त्याला थांबवण्याचा प्रयत्न केला. तो रावण होता. त्याने सीतेला नेले. तो दक्षिणेकडे गेला. मी शक्य तेवढा त्याच्याशी लढलो. पण तलवार...”\n\nरामाने गुडघे टेकले आणि ते महान मस्तक आपल्या मांडीवर घेतले. तो रडला. “मला सोडून जाऊ नका,” तो म्हणाला. “आणखी सांगा.” पण त्या वृद्ध पक्ष्याचा श्वास ओसरत होता. “सीता जिवंत आहे,” तो धापा टाकत म्हणाला. “तिला शोधा.” मग रामाच्या चेहऱ्यावर नजर ठेवून तो मरण पावला.\n\nरामाने त्याला लाकडांच्या चितेवर ठेवले आणि पुत्राने पित्यासाठी करावेत तसे विधी करून स्वतः अग्नी दिला. अयोध्येच्या राजकुमाराने एका गिधाडाला आप्त म्हणून सन्मान दिला, कारण प्रेम पदाचे मोजमाप करत नाही हे त्याला ठाऊक होते.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "reflect": {
+  "en": "Jatayu knew he could not win and still did what was right. Is there something small and brave you could do for someone today, even if you cannot fix the whole problem?",
+  "hi": {
+   "text": "जटायु जानता था कि वह जीत नहीं सकता, फिर भी उसने वही किया जो उचित था। क्या आज किसी के लिए कोई छोटा, साहस भरा काम आप कर सकते हैं, भले ही पूरी समस्या आप सुलझा न सकें?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जटायूला माहीत होते की आपण जिंकणार नाही, तरीही त्याने जे योग्य ते केले. आज एखाद्यासाठी तुम्ही एखादी लहानशी धैर्याची गोष्ट करू शकता का, संपूर्ण समस्या सोडवता येत नसली तरी?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "You do not have to be strong enough to win in order to be brave enough to stand up for what is right.",
+  "hi": {
+   "text": "उचित के लिए खड़े होने का साहस रखने को जीतने जितना बलवान होना आवश्यक नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जे योग्य त्यासाठी उभे राहण्याइतके धैर्यवान असायला जिंकण्याइतके बलवान असावे लागत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Aranya Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, अरण्यकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, अरण्यकांड",
+   "reviewed": false
+  }
+ }
+}

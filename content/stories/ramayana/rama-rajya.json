@@ -1,0 +1,285 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "rama-rajya",
+ "order": 31,
+ "part": "uttara",
+ "figure": {
+  "en": "Rama and Hanuman",
+  "hi": {
+   "text": "राम और हनुमान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राम आणि हनुमान",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The pearls and the heart",
+  "hi": {
+   "text": "मोती और हृदय",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मोती आणि हृदय",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A coronation, a necklace of priceless pearls, and a monkey who bites each one to find what he is looking for. What he shows the court leaves everyone silent.",
+  "hi": {
+   "text": "राज्याभिषेक, अनमोल मोतियों की एक माला, और एक वानर जो किसी की खोज में हर मोती को दाँत से तोड़ देता है। वह जो दिखाता है, उससे पूरा दरबार मौन रह जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राज्याभिषेक, अमोल मोत्यांचा हार, आणि प्रत्येक मोती चावून काहीतरी शोधणारा वानर. त्याने दरबाराला जे दाखवले त्याने सारे स्तब्ध झाले.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/rama-rajya-1.webp",
+   "w": 1200,
+   "h": 831,
+   "caption": {
+    "en": "The coronation of Rama (Kalamkari-style painting)",
+    "hi": {
+     "text": "राम का राज्याभिषेक (कलमकारी शैली का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीरामांचा राज्याभिषेक (कलमकारी शैलीतील चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "YECHARAN TATVAMASI, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SRI_RAMA_PATTABHIKSHEKAM_WP.jpg"
+  },
+  {
+   "src": "/stories/ramayana/rama-rajya-2.webp",
+   "w": 666,
+   "h": 1100,
+   "caption": {
+    "en": "Hanuman with Rama and Sita in his heart (Kalighat-style painting)",
+    "hi": {
+     "text": "हृदय में राम और सीता को धारण किए हनुमान (कालीघाट शैली का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हृदयात राम-सीतेला धारण केलेले हनुमान (कालीघाट शैलीतील चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanuman_with_Rama_and_Sita_in_his_heart_(6124500373).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The coronation and the gifts",
+    "hi": {
+     "text": "राज्याभिषेक और उपहार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राज्याभिषेक आणि भेटवस्तू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the morning after the lamps, Ayodhya gathered at the great palace. The sage Vasishtha, who had taught the princes as boys, stood at the head of the hall. Water was brought from the four oceans and the sacred rivers in golden pots. Rama, in a robe of gold, took his seat on the throne of the Ikshvaku kings, with Sita beside him, and Vasishtha poured the water over his head and placed the crown upon it. Drums rolled, conches sounded, and flowers rained from the sky. Lakshmana, offered the post of crown prince, declined. “Let Bharata be that, my lord. I serve you.”\n\nThen Rama turned to those who had helped him. Sugriva received a necklace of gold; Angada, jewelled armlets; Vibhishana, a bright palace and the words, “Rule Lanka with kindness, my friend.” The monkey chiefs, the bears and old Jambavan were honoured with gifts, and for a month the friends of the forest stayed as guests.\n\nWhen it was time to say goodbye, there was not a dry eye. One by one they embraced Rama and walked away, looking back at the gates until they were out of sight. Only one remained. He had asked for nothing, and no one had thought what to give him.",
+    "hi": {
+     "text": "दीपों के अगले प्रभात अयोध्या विशाल महल में एकत्र हुई। ऋषि वसिष्ठ, जिन्होंने राजकुमारों को बचपन में पढ़ाया था, सभा के आगे खड़े थे। चारों सागरों और पवित्र नदियों से जल स्वर्ण-कलशों में लाया गया। राम, सोने के वस्त्र में, इक्ष्वाकु राजाओं के सिंहासन पर बैठे, उनके पास सीता, और वसिष्ठ ने उनके सिर पर जल उँडेला और मुकुट रखा। नगाड़े गूँजे, शंख बजे, और आकाश से फूल बरसे। लक्ष्मण को युवराज पद दिया गया, पर उन्होंने इनकार कर दिया। “भरत को बनाइए, प्रभु। मैं आपकी सेवा करता हूँ।”\n\nफिर राम उनकी ओर मुड़े जिन्होंने उनकी सहायता की थी। सुग्रीव को सोने का हार मिला; अंगद को रत्नजड़ित बाजूबंद; विभीषण को एक दमकता महल और ये शब्द, “मित्र, लंका पर कोमलता से राज करना।” वानर सरदारों, रीछों और बूढ़े जाम्बवान का उपहारों से सम्मान हुआ, और एक महीने तक वन के मित्र अतिथि बनकर रहे।\n\nजब विदा का समय आया, तो कोई आँख सूखी नहीं थी। एक-एक करके वे राम से गले मिले और चल दिए, द्वार की ओर मुड़-मुड़कर देखते, जब तक ओझल न हो गए। केवल एक रुका रहा। उसने कुछ नहीं माँगा था, और किसी ने सोचा नहीं था कि उसे क्या दें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिव्यांच्या रात्रीनंतरच्या सकाळी अयोध्या महान राजवाड्यात जमली. राजपुत्रांना लहानपणी शिकवणारे ऋषी वसिष्ठ सभागृहाच्या अग्रभागी उभे होते. चार सागरांचे आणि पवित्र नद्यांचे पाणी सोन्याच्या कलशांतून आणले गेले. सोनेरी वस्त्र लेवून राम इक्ष्वाकू राजांच्या सिंहासनावर बसले, शेजारी सीता होती, आणि वसिष्ठांनी त्यांच्या मस्तकावर पाणी ओतले आणि मुकुट ठेवला. नगारे वाजले, शंख फुंकले गेले, आणि आकाशातून फुले बरसली. युवराजपद देऊ केल्यावर लक्ष्मणाने ते नाकारले. “ते भरताला द्या, प्रभू. मी तुमची सेवा करतो.”\n\nमग रामांनी आपल्याला मदत केलेल्यांकडे वळून पाहिले. सुग्रीवाला सोन्याचा हार मिळाला; अंगदाला रत्नजडित बाजूबंद; विभीषणाला तेजस्वी महाल आणि शब्द, “मित्रा, लंकेवर दयाळूपणे राज्य कर.” वानर प्रमुख, अस्वले आणि वृद्ध जांबवान यांचा भेटींनी सन्मान झाला, आणि एक महिना वनातले मित्र पाहुणे म्हणून राहिले.\n\nनिरोपाची वेळ आली तेव्हा कोणाचेही डोळे कोरडे नव्हते. एकेक करून त्यांनी रामांना आलिंगन दिले आणि दृष्टीआड होईपर्यंत वेशीकडे वळून पाहत गेले. फक्त एकजण राहिला. त्याने काहीही मागितले नव्हते, आणि त्याला काय द्यावे हे कोणाला सुचले नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The necklace of pearls",
+    "hi": {
+     "text": "मोतियों की माला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मोत्यांचा हार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sita, in the women's court, had watched all this with quiet joy. She wore a splendid necklace of pearls, a gift from her father Janaka, shining like moonlight. She took it off, and looked at Rama, who nodded with a smile. “Give it to the one who has earned your heart most,” he said.\n\nShe looked across the room and saw Hanuman, sitting humbly at the end of the hall, his hands folded. She rose and walked toward him. “Son,” she said, “you gave me hope when I had none. You brought me the news that kept me alive. There is no jewel that can repay you, but let this be a small token.” She placed the necklace around his neck.\n\nHanuman bowed his head. He looked at the pearls with his thoughtful eyes. Then, slowly, he lifted one in his fingers, held it up to the light, and, to the astonishment of the court, put it in his mouth and bit down hard.\n\nA murmur went through the hall. The pearl cracked in two, and Hanuman looked at the pieces and put them aside with a small frown.",
+    "hi": {
+     "text": "महिलाओं के प्रांगण में सीता यह सब शांत आनंद से देख रही थीं। उन्होंने मोतियों का एक भव्य हार पहना था, पिता जनक का उपहार, चाँदनी-सा दमकता। उन्होंने उसे उतारा और राम की ओर देखा, जिन्होंने मुस्कुराकर सिर हिलाया। “उसे दे दो जिसने तुम्हारा हृदय सबसे अधिक जीता हो,” उन्होंने कहा।\n\nउन्होंने कक्ष के पार देखा और हनुमान को सभा के अंत में विनम्रता से हाथ जोड़े बैठे पाया। वे उठकर उनकी ओर चलीं। “पुत्र,” उन्होंने कहा, “जब मेरे पास कोई आशा नहीं थी, तब तुमने मुझे आशा दी। तुम वह समाचार लाए जिसने मुझे जीवित रखा। ऐसा कोई रत्न नहीं जो तुम्हारा ऋण चुका सके, पर यह एक छोटी-सी भेंट हो।” उन्होंने हार हनुमान के गले में डाल दिया।\n\nहनुमान ने सिर झुकाया। उन्होंने अपनी विचारशील आँखों से मोतियों को देखा। फिर धीरे-धीरे एक मोती उँगलियों में उठाया, उसे रोशनी की ओर किया, और, दरबार के विस्मय के बीच, उसे मुँह में डालकर ज़ोर से दाँत गड़ा दिए।\n\nसभा में सरसराहट दौड़ गई। मोती दो टुकड़े हो गया, और हनुमान ने टुकड़ों को देखा और हल्की भृकुटि के साथ एक ओर रख दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जनान्यात सीतेने हे सर्व शांत आनंदाने पाहिले होते. तिच्या गळ्यात तिचे पिता जनकाने दिलेला, चांदण्यासारखा चमकणारा मोत्यांचा भव्य हार होता. तिने तो काढला, आणि रामांकडे पाहिले, ज्यांनी हसून मान हलवली. “ज्याने तुझे हृदय सर्वाधिक जिंकले आहे त्याला दे,” ते म्हणाले.\n\nतिने सभागृहात नजर फिरवली आणि हनुमान नम्रपणे, हात जोडून, सभागृहाच्या शेवटी बसलेला दिसला. ती उठली आणि त्याच्याकडे चालत गेली. “बाळ,” ती म्हणाली, “माझ्याकडे काहीच आशा नसताना तू मला आशा दिलीस. मला जिवंत ठेवणारी बातमी तू आणलीस. तुझी परतफेड करेल असे कोणतेही रत्न नाही, पण हे एक छोटेसे प्रतीक असू दे.” तिने तो हार त्याच्या गळ्यात घातला.\n\nहनुमानाने मान झुकवली. त्याने विचारी डोळ्यांनी मोत्यांकडे पाहिले. मग हळूहळू त्याने एक मोती बोटांत उचलला, प्रकाशाकडे धरला, आणि दरबाराला आश्चर्याचा धक्का देत तो तोंडात घालून जोराने चावला.\n\nसभागृहात कुजबुज पसरली. मोती दोन तुकड्यांत फुटला, आणि हनुमानाने तुकड्यांकडे पाहिले आणि किंचित भुवया आकुंचित करून ते बाजूला ठेवले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What Hanuman was looking for",
+    "hi": {
+     "text": "हनुमान क्या खोज रहे थे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमान काय शोधत होता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He picked up another pearl, and bit it, and broke it. Then another, and another. The courtiers laughed, thinking the monkey did not know the worth of what he held. Some shook their heads. A few were angry.\n\n“Is this how he repays the Queen's kindness?” whispered a noble.\n\nHanuman did not even look up. He cracked each pearl and examined the pieces, one at a time, and tossed them aside. Pearls lay in a small drift at his feet.\n\nAt last Vibhishana, who understood the monkey's heart best, called out gently. “Hanuman, why do you break these priceless pearls? They are the Queen's gift.”\n\nHanuman looked up. His eyes were shining. “A much-loved tradition tells what he said. “My lord,” he said, “a thing is of value to me only if Rama is in it. I was looking inside each pearl for the name of Rama, and the face of Sita. They are not here. If they are not in it, then it has no worth for me, however beautiful it may be.”\n\nThe hall was silent. Someone laughed, uneasily. “And you, Hanuman?” said a courtier. “Is Rama in you?”",
+    "hi": {
+     "text": "उन्होंने दूसरा मोती उठाया, उसे चबाकर तोड़ा। फिर तीसरा, फिर चौथा। दरबारी हँस पड़े, सोचकर कि वानर को अपने हाथ की वस्तु का मोल नहीं पता। कुछ ने सिर हिलाया। कुछ क्रोधित हुए।\n\n“क्या वे रानी की कृपा का यह प्रतिदान दे रहे हैं?” एक सामंत फुसफुसाया।\n\nहनुमान ने सिर तक न उठाया। वे हर मोती को तोड़ते, टुकड़ों को देखते, और एक ओर फेंक देते। उनके पैरों के पास मोतियों का छोटा-सा ढेर लग गया।\n\nअंत में विभीषण ने, जो वानर का हृदय सबसे अच्छा समझते थे, कोमलता से पुकारा। “हनुमान, तुम ये अनमोल मोती क्यों तोड़ रहे हो? ये रानी का उपहार हैं।”\n\nहनुमान ने आँखें उठाईं। वे चमक रही थीं। एक प्रिय परंपरा बताती है कि उन्होंने क्या कहा। “प्रभु,” उन्होंने कहा, “मेरे लिए कोई वस्तु तभी मूल्यवान है जब उसमें राम हों। मैं हर मोती के भीतर राम का नाम और सीता का मुख खोज रहा था। वे यहाँ नहीं हैं। जिसमें वे नहीं, उसका मेरे लिए कोई मोल नहीं, चाहे वह कितना भी सुंदर हो।”\n\nसभा मौन थी। कोई बेचैनी से हँसा। “और तुम में, हनुमान?” एक दरबारी ने कहा। “क्या तुम्हारे भीतर राम हैं?”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याने दुसरा मोती उचलला, चावला, आणि फोडला. मग आणखी एक, आणि आणखी एक. दरबारी हसले, कारण त्यांना वाटले की वानराला आपल्या हातातल्या वस्तूचे मोल कळत नाही. काहींनी मान हलवली. काही रागावले.\n\n“राणीच्या दयेची परतफेड तो अशी करतो का?” एक सरदार कुजबुजला.\n\nहनुमानाने वर पाहिलेही नाही. त्याने प्रत्येक मोती फोडला, तुकडे तपासले, एकेक करून, आणि फेकून दिले. त्याच्या पायाशी मोत्यांचा लहानसा ढीग साचला.\n\nशेवटी वानराचे हृदय सर्वांत चांगले जाणणाऱ्या विभीषणाने हळूच हाक मारली. “हनुमान, हे अमोल मोती तू का फोडतोस? ही राणीची भेट आहे.”\n\nहनुमानाने वर पाहिले. त्याचे डोळे चमकत होते. तो जे म्हणाला ते एका प्रिय परंपरेत सांगितले जाते. “प्रभू,” तो म्हणाला, “ज्यात राम असतात तीच वस्तू मला मोलाची वाटते. मी प्रत्येक मोत्यात रामाचे नाव आणि सीतामातेचा चेहरा शोधत होतो. ते इथे नाहीत. ते त्यात नसतील, तर ती वस्तू कितीही सुंदर असली तरी माझ्यासाठी तिला किंमत नाही.”\n\nसभागृह स्तब्ध झाले. कोणीतरी अस्वस्थपणे हसले. “आणि तू हनुमान?” एक दरबारी म्हणाला. “तुझ्यात राम आहेत का?”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Rama in the heart",
+    "hi": {
+     "text": "हृदय में राम",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हृदयातले राम",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hanuman did not answer. He smiled, put his two hands on his chest, and tore it open.\n\nThe whole court gasped. But there was no blood, no wound. There, in the glowing space of his heart, the courtiers saw a bright, small figure seated on a lotus: Rama, with a bow in his hand, and Sita beside him, smiling. Every hair on Hanuman's body, it is said, whispered the name of Rama.\n\nFor a long moment nobody moved. Then the nobles who had laughed knelt down with folded hands. Some wept openly. Sita touched her heart. Rama stood up from the throne and went down the steps. He lifted Hanuman into his arms, and closed the monkey's chest with a touch, and held him close.\n\nNo emperor in all the world, said the people afterward, had a servant like this. And no servant a master. It was not a ritual of devotion, or learning, or position. It was a heart so full of its beloved that there was no room left for anything else. This is what bhakti means, the sages say: a love that has become the very shape of the one who loves.",
+    "hi": {
+     "text": "हनुमान ने उत्तर नहीं दिया। वे मुस्कुराए, दोनों हाथ छाती पर रखे, और उसे चीर दिया।\n\nपूरा दरबार हाँफ उठा। पर न रक्त था, न घाव। वहाँ, उनके हृदय की दमकती जगह में, दरबारियों ने कमल पर बैठी एक चमकती नन्ही आकृति देखी: राम, हाथ में धनुष लिए, और उनके पास मुस्कुराती सीता। कहते हैं कि हनुमान के शरीर का हर रोम राम का नाम फुसफुसा रहा था।\n\nबहुत देर तक कोई नहीं हिला। फिर जो सामंत हँसे थे, वे हाथ जोड़े घुटनों पर बैठ गए। कुछ खुलकर रोए। सीता ने अपना हृदय छुआ। राम सिंहासन से उठे और सीढ़ियाँ उतरे। उन्होंने हनुमान को भुजाओं में उठाया, स्पर्श से वानर की छाती बंद की, और उन्हें गले से लगा लिया।\n\nलोगों ने बाद में कहा कि संसार के किसी सम्राट के पास ऐसा सेवक नहीं था। और किसी सेवक को ऐसा स्वामी नहीं मिला। यह भक्ति का कोई अनुष्ठान नहीं था, न विद्या का, न पद का। यह एक ऐसा हृदय था जो अपने प्रिय से इतना भरा था कि किसी और वस्तु के लिए स्थान ही नहीं बचा। ऋषि कहते हैं, भक्ति का यही अर्थ है: वह प्रेम जो प्रेम करने वाले का रूप ही बन गया हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हनुमानाने उत्तर दिले नाही. तो हसला, त्याने दोन्ही हात छातीवर ठेवले, आणि छाती चिरली.\n\nसारा दरबार धास्तावला. पण रक्त नव्हते, जखम नव्हती. त्याच्या हृदयाच्या तेजस्वी अवकाशात दरबाऱ्यांना कमळावर बसलेली एक तेजस्वी छोटी आकृती दिसली: हातात धनुष्य घेतलेले राम, आणि शेजारी हसणारी सीता. म्हणतात, हनुमानाच्या शरीरावरचा प्रत्येक केस रामनाम कुजबुजत होता.\n\nबराच वेळ कोणीही हलले नाही. मग हसलेले सरदार हात जोडून गुडघे टेकून बसले. काही उघडपणे रडले. सीतेने आपल्या हृदयाला स्पर्श केला. राम सिंहासनावरून उठून पायऱ्या उतरले. त्यांनी हनुमानाला आपल्या बाहूंत उचलले, स्पर्शाने त्याची छाती पूर्ववत केली, आणि त्याला जवळ धरले.\n\nजगातल्या कोणत्याही सम्राटाला असा सेवक नाही, लोक नंतर म्हणाले. आणि कोणत्याही सेवकाला असा स्वामी नाही. ही भक्तीची, विद्वत्तेची किंवा पदाची विधी नव्हती. ते असे हृदय होते जे आपल्या प्रियाने इतके भरलेले होते की इतर कशालाही जागा उरली नव्हती. भक्ती म्हणजे हेच, ऋषी सांगतात: प्रेम जे प्रेम करणाऱ्याचा आकारच बनून गेले आहे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "A wish to stay",
+    "hi": {
+     "text": "रुक जाने की इच्छा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "थांबण्याची इच्छा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At last the day came when Hanuman too must go home. Rama said gently, “Hanuman, I have given gifts to everyone. What do you want? Ask me anything. The whole kingdom is yours.”\n\nHanuman bowed. “My lord,” he said, “I do not want a kingdom. I want only this: that as long as your story is told on this earth, I may live to hear it. Where your name is sung, may I be present.”\n\nRama's eyes filled. “So be it,” he said. “As long as my story is remembered, you shall live. And that will be forever.” It is said that this is why, wherever the Ramayana is sung or read, Hanuman is believed to listen, sitting quietly at the edge of the gathering, his hands folded and tears on his cheeks.\n\nThe Chalisa says he guards the door of Rama: no one may enter without his leave. A person who wishes to reach Rama must pass through humility, service and love, and Hanuman is the keeper of that door. To reach the Lord, one must first learn to listen like Hanuman.",
+    "hi": {
+     "text": "अंत में वह दिन आ गया जब हनुमान को भी घर लौटना था। राम ने कोमलता से कहा, “हनुमान, मैंने सबको उपहार दिए। तुम क्या चाहते हो? कुछ भी माँगो। पूरा राज्य तुम्हारा है।”\n\nहनुमान ने प्रणाम किया। “प्रभु,” उन्होंने कहा, “मुझे राज्य नहीं चाहिए। मुझे केवल यह चाहिए: जब तक इस पृथ्वी पर आपकी कथा कही जाए, तब तक मैं उसे सुनने के लिए जीवित रहूँ। जहाँ आपका नाम गाया जाए, वहाँ मैं उपस्थित रहूँ।”\n\nराम की आँखें भर आईं। “ऐसा ही हो,” उन्होंने कहा। “जब तक मेरी कथा याद की जाएगी, तुम जीवित रहोगे। और वह सदा रहेगी।” कहते हैं इसीलिए जहाँ कहीं रामायण गाई या पढ़ी जाती है, वहाँ माना जाता है कि हनुमान सुनते हैं, सभा के किनारे चुपचाप बैठे, हाथ जोड़े, गालों पर आँसू लिए।\n\nचालीसा कहती है कि वे राम के द्वार के रखवाले हैं: उनकी आज्ञा के बिना कोई भीतर नहीं जा सकता। जो राम तक पहुँचना चाहे, उसे विनम्रता, सेवा और प्रेम से होकर जाना होगा, और हनुमान उस द्वार के रक्षक हैं। प्रभु तक पहुँचने के लिए पहले हनुमान की तरह सुनना सीखना होगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटी तो दिवस आला जेव्हा हनुमानालाही घरी जायचे होते. राम मृदूपणे म्हणाले, “हनुमान, मी सर्वांना भेटी दिल्या आहेत. तुला काय हवे? काहीही माग. सारे राज्य तुझे आहे.”\n\nहनुमानाने नमस्कार केला. “प्रभू,” तो म्हणाला, “मला राज्य नको. मला फक्त एवढेच हवे: या पृथ्वीवर जोवर तुमची कथा सांगितली जाईल, तोवर मी ती ऐकायला जिवंत राहावे. जिथे तुमचे नाव गायले जाईल, तिथे मी उपस्थित असावे.”\n\nरामांचे डोळे भरले. “तथास्तु,” ते म्हणाले. “जोवर माझी कथा स्मरली जाईल तोवर तू जगशील. आणि ती सदैव राहील.” म्हणतात, म्हणूनच जिथे जिथे रामायण गायले किंवा वाचले जाते, तिथे हनुमान ऐकत असतो असे मानले जाते, सभेच्या कडेला शांतपणे हात जोडून, गालांवर अश्रू घेऊन बसलेला.\n\nचालिसा म्हणते की तो रामाच्या दाराचा रखवालदार आहे: त्याच्या आज्ञेशिवाय कोणीही आत प्रवेश करू शकत नाही. ज्याला रामांपर्यंत पोहोचायचे आहे त्याला नम्रता, सेवा आणि प्रेमातून जावे लागते, आणि हनुमान त्या दाराचा रक्षक आहे. परमेश्वरापर्यंत पोहोचायला आधी हनुमानासारखे ऐकायला शिकावे लागते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What Rama Rajya meant",
+    "hi": {
+     "text": "रामराज्य का अर्थ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामराज्य म्हणजे काय",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Years passed, and Rama ruled. Valmiki tells how the people lived in that time. There was no fear of thieves, no fear of disease, no widow who wept for a young husband. The trees bore fruit all year round. The rains came when they were needed, and the rivers ran full. Parents did not outlive their children. No one lied, and no one went hungry.\n\nBut more than any miracle, what the people remembered was how the king listened. Anyone could come to his court. The poor man's word was heard as clearly as the rich man's. A king, Rama believed, is a servant of those he rules, and his greatest wealth is the trust of the smallest person in his kingdom.\n\nEven today, when people dream of a government that is fair, honest and kind, they call it Rama Rajya. It is a dream we still hold out for: a place where the mighty are humble, where justice is not a favour, and where the least of us may sleep without fear. And somewhere, in a gathering where the story is told, a small monkey sits at the back, listening, as the lamps burn low.",
+    "hi": {
+     "text": "बरसों बीते, और राम ने राज किया। वाल्मीकि बताते हैं कि उस समय लोग कैसे रहते थे। चोरों का भय नहीं था, रोग का भय नहीं था, कोई विधवा जवान पति के लिए नहीं रोई। वृक्ष बारहों महीने फल देते थे। वर्षा तब आती जब उसकी ज़रूरत होती, और नदियाँ भरकर बहतीं। माता-पिता अपनी संतान से पहले चले जाते थे। कोई झूठ नहीं बोलता था, और कोई भूखा नहीं रहता था।\n\nपर किसी भी चमत्कार से अधिक, लोगों को यह याद रहा कि राजा कैसे सुनते थे। कोई भी उनके दरबार में आ सकता था। गरीब की बात उतनी ही साफ़ सुनी जाती जितनी अमीर की। राम मानते थे कि राजा अपनी प्रजा का सेवक होता है, और उसकी सबसे बड़ी संपदा उसके राज्य के सबसे छोटे व्यक्ति का विश्वास है।\n\nआज भी जब लोग ऐसे शासन का सपना देखते हैं जो न्यायपूर्ण, ईमानदार और दयालु हो, तो उसे रामराज्य कहते हैं। यह वह सपना है जिसे हम अब भी सँजोए हैं: ऐसा स्थान जहाँ बलवान विनम्र हों, जहाँ न्याय कोई कृपा न हो, और जहाँ हममें सबसे छोटा भी निर्भय होकर सो सके। और कहीं, उस सभा में जहाँ कथा कही जा रही है, एक नन्हा वानर पीछे बैठा सुन रहा है, जब दीपक मंद पड़ते जा रहे हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वर्षे गेली, आणि राम राज्य करत राहिले. वाल्मीकी सांगतात त्या काळात लोक कसे जगले. चोरांची भीती नव्हती, रोगाची भीती नव्हती, तरुण पतीसाठी रडणारी एकही विधवा नव्हती. वृक्षांना वर्षभर फळे येत. पाऊस हवा तेव्हा येई, आणि नद्या दुथडी भरून वाहत. आईवडिलांना मुलांचे मरण पाहावे लागले नाही. कोणी खोटे बोलले नाही, आणि कोणी उपाशी राहिले नाही.\n\nपण कोणत्याही चमत्कारापेक्षा, लोकांना राजा कसा ऐकत असे ते आठवत राहिले. कोणीही त्याच्या दरबारात येऊ शकत होते. गरीब माणसाचे शब्द श्रीमंताइतकेच स्पष्टपणे ऐकले जात. राजा म्हणजे आपण ज्यांच्यावर राज्य करतो त्यांचा सेवक, आणि त्याचे सर्वांत मोठे धन म्हणजे राज्यातील सर्वांत लहान माणसाचा विश्वास, असे रामांचे मानणे होते.\n\nआजही जेव्हा लोक न्याय्य, प्रामाणिक आणि दयाळू शासनाचे स्वप्न पाहतात, तेव्हा त्याला रामराज्य म्हणतात. हे स्वप्न आपण आजही जपतो: असे ठिकाण जिथे बलवान नम्र असतात, जिथे न्याय ही कृपा नसते, आणि जिथे आपल्यातला सर्वांत लहान माणूसही निर्भयपणे झोपू शकतो. आणि कुठेतरी, कथा सांगितल्या जाणाऱ्या सभेत, एक छोटा वानर मागे बसून ऐकत असतो, दिवे मंद होत असताना.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "राम दुआरे तुम रखवारे। होत न आज्ञा बिनु पैसारे॥",
+  "cite": {
+   "en": "Hanuman Chalisa of Tulsidas",
+   "hi": {
+    "text": "तुलसीदास की हनुमान चालीसा",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "तुलसीदासकृत हनुमान चालीसा",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "You guard Rama's door; no one enters without your leave.",
+   "hi": {
+    "text": "आप राम के द्वार के रखवाले हैं; आपकी आज्ञा के बिना कोई भीतर नहीं जा सकता।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "तू रामांच्या दाराचा रखवालदार आहेस; तुझ्या आज्ञेशिवाय कोणीही आत जाऊ शकत नाही.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Hanuman valued a thing only by whether it held what he loved. What is the pearl in your life that you hold most dear, and does it carry love inside it? Today, give one person your full, unhurried attention.",
+  "hi": {
+   "text": "हनुमान किसी वस्तु का मोल इसी से आँकते थे कि उसमें उनका प्रिय है या नहीं। आपके जीवन का वह मोती कौन-सा है जो आपको सबसे प्रिय है, और क्या उसके भीतर प्रेम है? आज किसी एक व्यक्ति को अपना पूरा और बिना जल्दबाज़ी का ध्यान दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हनुमानाने कोणत्याही वस्तूचे मोल, तिच्यात त्याला जे प्रिय आहे ते आहे का यावरून ठरवले. तुमच्या आयुष्यातला तुम्हाला सर्वात प्रिय असा मोती कोणता, आणि त्याच्या आत प्रेम आहे का? आज एका व्यक्तीला तुमचे पूर्ण, घाई नसलेले लक्ष द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Real devotion carries the beloved in the heart, and a just ruler counts the smallest person's trust as his greatest treasure.",
+  "hi": {
+   "text": "सच्ची भक्ति अपने प्रिय को हृदय में रखती है, और न्यायी राजा सबसे छोटे व्यक्ति के विश्वास को अपनी सबसे बड़ी निधि मानता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरी भक्ती प्रियाला हृदयात धारण करते, आणि न्यायी शासक सर्वांत लहान माणसाचा विश्वास आपले सर्वांत मोठे धन मानतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Yuddha and Uttara Kanda (coronation, gifts, Rama's reign); popular tradition (the pearls and Hanuman's heart); the Hanuman Chalisa verse is from Tulsidas",
+  "hi": {
+   "text": "वाल्मीकि रामायण, युद्ध और उत्तरकांड (राज्याभिषेक, उपहार, राम का शासन); लोक-परंपरा (मोती और हनुमान का हृदय); हनुमान चालीसा की पंक्ति तुलसीदास की है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, युद्ध आणि उत्तरकांड (राज्याभिषेक, भेटी, रामांचे राज्य); लोकपरंपरा (मोती आणि हनुमानाचे हृदय); हनुमान चालिसेचा श्लोक तुलसीदासांचा",
+   "reviewed": false
+  }
+ }
+}

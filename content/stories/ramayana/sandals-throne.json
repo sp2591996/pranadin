@@ -1,10 +1,10 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story",
- "version": "2026-11-27.2",
+ "version": "2026-11-27.3",
  "status": "draft",
  "id": "sandals-throne",
- "order": 6,
+ "order": 11,
  "part": "ayodhya",
  "figure": {
   "en": "Bharata",
@@ -20,22 +20,22 @@
  "title": {
   "en": "Two sandals on a golden throne",
   "hi": {
-   "text": "स्वर्ण सिंहासन पर दो पादुकाएँ",
+   "text": "सोने के सिंहासन पर दो पादुकाएँ",
    "reviewed": false
   },
   "mr": {
-   "text": "सोन्याच्या सिंहासनावरच्या दोन पादुका",
+   "text": "सुवर्ण सिंहासनावर दोन पादुका",
    "reviewed": false
   }
  },
  "teaser": {
   "en": "Bharata comes home to find a kingdom handed to him. He wants nothing of it, only his brother back.",
   "hi": {
-   "text": "भरत घर लौटकर पाते हैं कि राज्य उन्हें सौंप दिया गया है। उन्हें राज्य नहीं चाहिए, बस अपना भाई वापस चाहिए।",
+   "text": "भरत घर लौटते हैं तो पाते हैं कि राज्य उन्हें सौंप दिया गया है। उन्हें इसमें से कुछ नहीं चाहिए, बस अपने भाई की वापसी चाहिए।",
    "reviewed": false
   },
   "mr": {
-   "text": "भरत घरी येतो तर त्याला राज्य आयते मिळालेले दिसते. त्याला त्यातले काहीही नको, फक्त भाऊ परत हवा.",
+   "text": "घरी परतलेल्या भरताला हाती आलेले राज्य दिसते. त्याला त्यातले काहीच नको, फक्त आपला भाऊ परत हवा.",
    "reviewed": false
   }
  },
@@ -104,25 +104,25 @@
      "reviewed": false
     },
     "mr": {
-     "text": "शोकमग्न नगरी",
+     "text": "शोकाकुल नगरी",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Bharata had been away at his grandfather's kingdom. Riders brought him home, fast. He entered Ayodhya and felt something was terribly wrong: no music, no smiles, the streets grey with sorrow.\n\nIn his mother's palace Kaikeyi greeted him eagerly. “Your father has gone to heaven. Rama is in the forest. The kingdom is yours!”",
+    "en": "Bharata had been away at his grandfather’s kingdom of Kekaya with his brother Shatrughna. For several nights he had slept badly, haunted by dreams: his father in dark clothes, the moon falling from the sky. Then messengers arrived: “The royal teacher summons you. Come at once.”\n\nHe rode day and night, and at last saw the white towers of Ayodhya. Something was terribly wrong. The streets were silent. Shops were shut. No music, no flowers, no children’s voices. Even the trees looked grey.\n\nHe walked into the palace and went straight to his mother’s rooms. Kaikeyi greeted him eagerly, her face bright, her hands outstretched. “My son, you have come! Sit down, rest.” He asked at once, “Where is Father?”\n\nShe answered calmly, as one who has rehearsed. “Your father has gone to heaven. And Rama is in the forest for fourteen years. And the kingdom, my dear, is yours.” She smiled. She truly expected him to be pleased.",
     "hi": {
-     "text": "भरत अपने ननिहाल गए हुए थे। दूत उन्हें तेज़ी से घर लाए। अयोध्या में प्रवेश करते ही उन्होंने अनुभव किया कि कुछ भयंकर घटा है: न संगीत, न मुसकानें, गलियाँ शोक से धूसर।\n\nअपनी माँ के महल में कैकेयी ने उन्हें उत्सुकता से गले लगाया। “तुम्हारे पिता स्वर्ग चले गए। राम वन में हैं। राज्य अब तुम्हारा है!”",
+     "text": "भरत अपने भाई शत्रुघ्न के साथ अपने नाना के राज्य कैकय में थे। कई रातों से वे ठीक से सो नहीं पाए थे, सपने सताते थे: पिता काले वस्त्रों में, चंद्रमा आकाश से गिरता हुआ। फिर दूत पहुँचे: “राजगुरु ने बुलाया है। तुरंत चलिए।”\n\nवे दिन-रात घोड़े दौड़ाते आए, और आख़िर अयोध्या के श्वेत शिखर दिखे। कुछ भयंकर रूप से ग़लत था। गलियाँ सूनी थीं। दुकानें बंद। न संगीत, न फूल, न बच्चों की आवाज़। पेड़ भी धूसर लगते थे।\n\nवे महल में गए और सीधे माँ के कक्ष पहुँचे। कैकेयी ने उत्सुकता से उनका स्वागत किया, मुख दमकता हुआ, हाथ फैले हुए। “मेरे पुत्र, तुम आ गए! बैठो, विश्राम करो।” भरत ने तुरंत पूछा, “पिताजी कहाँ हैं?”\n\nउन्होंने शांत स्वर में उत्तर दिया, जैसे कोई पहले से अभ्यास किए बैठा हो। “तुम्हारे पिता स्वर्ग सिधार गए। और राम चौदह वर्ष के लिए वन में है। और राज्य, मेरे लाल, अब तुम्हारा है।” वे मुस्कुराईं। उन्हें सचमुच आशा थी कि वह प्रसन्न होगा।",
      "reviewed": false
     },
     "mr": {
-     "text": "भरत आजोबांच्या राज्यात गेला होता. स्वारांनी त्याला भरभर घरी आणले. अयोध्येत शिरताच त्याला जाणवले की काहीतरी भयंकर बिघडले आहे: कुठेही संगीत नाही, हसू नाही, रस्ते दुःखाने राखाडी झालेले.\n\nआईच्या महालात कैकेयीने उत्सुकतेने त्याचे स्वागत केले. “तुझे वडील स्वर्गात गेले. राम वनात आहे. राज्य आता तुझे आहे!”",
+     "text": "भरत भाऊ शत्रुघ्नासह आजोबांच्या कैकेय राज्यात गेला होता. अनेक रात्री त्याला नीट झोप लागली नव्हती, स्वप्ने पछाडत होती: काळ्या वस्त्रांत पिता, आकाशातून कोसळणारा चंद्र. मग दूत आले: “राजगुरूंनी तुम्हाला बोलावले आहे. ताबडतोब या.”\n\nत्याने रात्रंदिवस घोडदौड केली, आणि शेवटी अयोध्येचे शुभ्र मनोरे दिसले. काहीतरी भयंकर चुकले होते. रस्ते निःशब्द होते. दुकाने बंद. संगीत नाही, फुले नाहीत, मुलांचे आवाज नाहीत. झाडेही राखाडी दिसत होती.\n\nतो महालात गेला आणि सरळ मातेच्या दालनाकडे गेला. कैकेयीने उत्सुकतेने स्वागत केले, चेहरा उजळलेला, हात पसरलेले. “पुत्रा, तू आलास! बैस, विश्रांती घे.” त्याने लगेच विचारले, “पिताजी कुठे आहेत?”\n\nतिने शांतपणे उत्तर दिले, जणू तिने ते आधी पाठ केले होते. “तुझे पिता स्वर्गवासी झाले. आणि राम चौदा वर्षांसाठी वनात आहे. आणि हे राज्य, बाळा, तुझे आहे.” ती हसली. त्याला आनंद होईल अशी तिला खरोखर अपेक्षा होती.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "A son's fury",
+    "en": "A son’s fury",
     "hi": {
      "text": "पुत्र का आक्रोश",
      "reviewed": false
@@ -133,13 +133,37 @@
     }
    },
    "text": {
-    "en": "Bharata cried out as if burned. “What have you done? You have killed my father and sent away the one I love most!” He refused the crown. He performed his father's funeral rites with a broken heart.\n\nThen he made a decision. “I will go to the forest and bring Rama back. The kingdom belongs to him.” Ministers, queens, priests and thousands of citizens set out with him.",
+    "en": "Bharata cried out as if he had been burned. He fell to the floor and for a long time could not speak. When he stood up, his voice was low and terrible.\n\n“What have you done? You have killed my father, and you have sent away the one I love most in all the world. I was born from you, and yet I wish I were not. How could you imagine that I would sit on a throne built on such grief?” He turned away. “From this day, you are no mother of mine.”\n\nKaikeyi stared at him, white-faced, finally understanding that she had misjudged her own son. She had never doubted that he would be glad. Now she saw that all her scheming had been for something that did not exist.\n\nBharata went to see Kausalya, and she took him in her arms, weeping. He performed his father’s funeral rites with a broken heart, and refused the crown when the ministers offered it. “The kingdom belongs to Rama. I will go to the forest and bring him back.”",
     "hi": {
-     "text": "भरत जलकर चीख उठे। “यह तुमने क्या किया? तुमने मेरे पिता को मार डाला और मेरे सबसे प्रिय को निकाल दिया!” उन्होंने राजमुकुट अस्वीकार कर दिया। टूटे हृदय से उन्होंने पिता का अंतिम संस्कार किया।\n\nफिर उन्होंने निश्चय किया। “मैं वन जाऊँगा और राम को वापस लाऊँगा। राज्य उन्हीं का है।” मंत्री, रानियाँ, पुरोहित और हज़ारों नगरवासी उनके साथ चल पड़े।",
+     "text": "भरत जैसे जल उठे और चीख़ पड़े। वे फ़र्श पर गिर पड़े और बहुत देर तक बोल न सके। जब उठे, तो उनका स्वर धीमा और भयावह था।\n\n“आपने यह क्या किया? आपने मेरे पिता को मार डाला, और जगत में जिसे मैं सबसे अधिक चाहता हूँ उसे दूर भेज दिया। मैं आपसे उत्पन्न हुआ हूँ, और फिर भी चाहता हूँ कि न हुआ होता। आपने कैसे सोच लिया कि मैं ऐसे शोक की नींव पर बने सिंहासन पर बैठूँगा?” वे मुड़ गए। “आज से आप मेरी माँ नहीं हैं।”\n\nकैकेयी पीला मुख लिए उन्हें देखती रह गईं, और अंततः समझा कि उन्होंने अपने ही पुत्र को ग़लत समझा था। उन्हें कभी संदेह न हुआ था कि वह प्रसन्न होगा। अब उन्होंने देखा कि उनकी सारी चालें किसी ऐसी वस्तु के लिए थीं जो थी ही नहीं।\n\nभरत कौशल्या के पास गए, और उन्होंने रोते हुए उन्हें बाँहों में भर लिया। उन्होंने टूटे हृदय से पिता का अंतिम संस्कार किया, और जब मंत्रियों ने मुकुट प्रस्तुत किया तो उसे ठुकरा दिया। “राज्य राम का है। मैं वन जाऊँगा और उन्हें लौटा लाऊँगा।”",
      "reviewed": false
     },
     "mr": {
-     "text": "भरत भाजल्यासारखा किंचाळला. “तू काय केलेस? तू माझ्या वडिलांचा जीव घेतलास आणि मला सर्वात प्रिय असलेल्याला दूर पाठवलेस!” त्याने मुकुट नाकारला. भग्न हृदयाने त्याने वडिलांचे अंत्यसंस्कार केले.\n\nमग त्याने निर्णय घेतला. “मी वनात जाईन आणि रामाला परत आणीन. राज्य त्याचेच आहे.” मंत्री, राण्या, पुरोहित आणि हजारो नागरिक त्याच्यासोबत निघाले.",
+     "text": "भरत भाजल्यासारखा ओरडला. तो जमिनीवर कोसळला आणि बराच वेळ बोलू शकला नाही. जेव्हा तो उठला तेव्हा त्याचा आवाज खोल आणि भयंकर होता.\n\n“तू काय केलेस? तू माझ्या पित्याला मारलेस, आणि या जगात मला सर्वात प्रिय असलेल्याला दूर पाठवलेस. मी तुझ्यापासून जन्मलो, तरीही नसतो तर बरे झाले असते असे वाटते. असल्या दुःखावर उभ्या केलेल्या सिंहासनावर मी बसेन असे तुला कसे वाटले?” तो मागे वळला. “आजपासून तू माझी माता नाहीस.”\n\nकैकेयी फिकट चेहऱ्याने त्याच्याकडे पाहत राहिली, शेवटी तिला कळले की आपण स्वतःच्या पुत्राला चुकीचे समजलो. तो आनंदी होईल याबद्दल तिला कधी शंका आली नव्हती. आता तिला दिसले की तिचे सारे कारस्थान अशा गोष्टीसाठी होते जी अस्तित्वातच नव्हती.\n\nभरत कौसल्येला भेटायला गेला, आणि तिने रडत त्याला कुशीत घेतले. तुटलेल्या मनाने त्याने पित्याचे अंत्यविधी केले, आणि मंत्र्यांनी मुकुट देऊ केला तेव्हा तो नाकारला. “राज्य रामाचे आहे. मी वनात जाऊन त्याला परत आणीन.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The army of the faithful",
+    "hi": {
+     "text": "निष्ठावानों की सेना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निष्ठावंतांचे सैन्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the first light of the next day, Bharata set out, and with him came ministers, queens, priests, merchants, soldiers, ordinary citizens, thousands of people with a single purpose. Even Kaikeyi came, walking with her head down, trying to look no one in the eye. Guha, the boatman king, saw the great host approach the Ganga and for a moment feared that Bharata had come to harm Rama. Then he saw the man in front, barefoot, and wept.\n\nThrough forests and across rivers they travelled, until they reached the green hills of Chitrakoot. There, on the banks of the Mandakini river, Rama, Sita and Lakshmana had built a small hut of leaves, and the days passed in peace. Deer wandered close to the door. Birds sang over the water.\n\nOne day Lakshmana, climbing a tree, saw dust on the horizon: the tramp of a great army. He leapt down with his bow in hand. “Bharata is coming,” he cried, “with soldiers. He wants to finish what his mother began!”",
+    "hi": {
+     "text": "अगले दिन की पहली किरण के साथ भरत चल पड़े, और उनके साथ मंत्री, रानियाँ, पुरोहित, व्यापारी, सैनिक, साधारण नागरिक, हज़ारों लोग एक ही उद्देश्य से चले। कैकेयी भी आईं, सिर झुकाए, किसी से आँख न मिलाती हुई। केवट-राजा गुह ने विशाल दल को गंगा की ओर आते देखा और क्षण भर को डरे कि भरत राम को हानि पहुँचाने आए हैं। फिर उन्होंने सबसे आगे चलते पुरुष को नंगे पैर देखा, और रो पड़े।\n\nवन और नदियाँ पार करते हुए वे चित्रकूट की हरी पहाड़ियों तक पहुँचे। वहाँ मंदाकिनी नदी के तट पर राम, सीता और लक्ष्मण ने पत्तों की एक छोटी कुटिया बना ली थी, और दिन शांति से बीत रहे थे। हिरन द्वार के पास तक आ जाते। जल के ऊपर पक्षी गाते।\n\nएक दिन लक्ष्मण ने पेड़ पर चढ़कर क्षितिज पर धूल उठती देखी: विशाल सेना के पैरों की धमक। वे धनुष हाथ में लिए कूद पड़े। “भरत आ रहा है,” वे चिल्लाए, “सेना लेकर। वह उसे पूरा करने आया है जो उसकी माँ ने शुरू किया था!”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसऱ्या दिवशी पहाटेच्या पहिल्या प्रकाशात भरत निघाला, आणि त्याच्यासोबत मंत्री, राण्या, पुरोहित, व्यापारी, सैनिक, सामान्य नागरिक, एकाच हेतूचे हजारो लोक आले. कैकेयीदेखील मान खाली घालून, कोणाच्या डोळ्यांना डोळे न भिडवता, चालत आली. नावाडी राजा गुहाने ती मोठी सेना गंगेकडे येताना पाहिली आणि क्षणभर त्याला भीती वाटली की भरत रामाला इजा करायला आला आहे. मग त्याने पुढे अनवाणी चालणाऱ्या माणसाला पाहिले आणि तो रडला.\n\nजंगले आणि नद्या ओलांडत ते चित्रकूटच्या हिरव्या टेकड्यांवर पोहोचले. तिथे मंदाकिनी नदीच्या काठी राम, सीता आणि लक्ष्मणाने पानांची छोटी कुटी बांधली होती, आणि दिवस शांततेत जात होते. हरणे दाराजवळ फिरत. पाण्यावर पक्षी गात.\n\nएके दिवशी झाडावर चढलेल्या लक्ष्मणाला क्षितिजावर धूळ दिसली: मोठ्या सेनेचा पदरव. धनुष्य हातात घेऊन तो खाली उडी मारून आला. “भरत येतो आहे,” तो ओरडला, “सैनिकांसोबत. त्याच्या मातेने जे सुरू केले ते संपवायला!”",
      "reviewed": false
     }
    }
@@ -148,22 +172,22 @@
    "title": {
     "en": "The meeting at Chitrakoot",
     "hi": {
-     "text": "चित्रकूट में भेंट",
+     "text": "चित्रकूट में मिलन",
      "reviewed": false
     },
     "mr": {
-     "text": "चित्रकूटावरील भेट",
+     "text": "चित्रकूटावरची भेट",
      "reviewed": false
     }
    },
    "text": {
-    "en": "In the green hills of Chitrakoot, Rama had built a simple hut of leaves. Lakshmana saw the dust of a great army and grabbed his bow. “Bharata comes to kill us!” he cried.\n\n“No,” said Rama quietly. “Bharata would never harm us.” And then Bharata appeared, not as a king but in bark clothes, running. He fell at Rama's feet, weeping. The brothers held each other, and the forest itself seemed to weep with them as they learned of their father's death.",
+    "en": "“No,” said Rama quietly. “Lakshmana, put down your bow. Bharata would never harm us. If you want the throne so badly, I will tell Bharata to give it to you.” Lakshmana looked ashamed.\n\nThen Bharata appeared at the edge of the clearing. He was not dressed as a king. He wore bark clothes, his hair was matted, his body thin from fasting and sorrow. He ran, as he had when they were boys, and fell at Rama’s feet, weeping so hard he could not say a word.\n\nRama lifted him and held him. The brothers wept together, and the forest itself seemed to weep with them. Then Bharata told the news he had carried all those miles: their father was gone.\n\nRama sat down very still. He did not speak for a long time. Then, with his brothers and Sita, he walked to the river and offered the waters of remembrance, and the hills of Chitrakoot echoed with the sound of grieving, and for one day nobody said anything of crowns.",
     "hi": {
-     "text": "चित्रकूट की हरी पहाड़ियों में राम ने पत्तों की सादी कुटिया बनाई थी। लक्ष्मण ने विशाल सेना की धूल देखी और धनुष उठा लिया। “भरत हमें मारने आ रहा है!” वे चिल्लाए।\n\n“नहीं,” राम ने शांत स्वर में कहा। “भरत हमें कभी हानि नहीं पहुँचाएगा।” और तभी भरत प्रकट हुए, राजा के रूप में नहीं, वल्कल वस्त्रों में, दौड़ते हुए। वे राम के चरणों में गिरकर रो पड़े। भाई एक-दूसरे से लिपट गए, और पिता की मृत्यु का समाचार सुनकर मानो वन भी उनके साथ रो उठा।",
+     "text": "“नहीं,” राम ने शांत स्वर में कहा। “लक्ष्मण, धनुष रख दो। भरत कभी हमें हानि नहीं पहुँचा सकता। यदि तुम्हें सिंहासन इतना ही चाहिए, तो मैं भरत से कह दूँगा कि वह तुम्हें दे दे।” लक्ष्मण लज्जित हो गए।\n\nफिर भरत वन-प्रांगण के किनारे प्रकट हुए। वे राजा के वेश में न थे। वे वल्कल पहने थे, केश उलझे हुए, देह उपवास और शोक से दुबली। वे बचपन की तरह दौड़े और राम के चरणों में गिर पड़े, इतना रोते हुए कि एक शब्द न कह सके।\n\nराम ने उन्हें उठाकर गले लगा लिया। दोनों भाई साथ रोए, और स्वयं वन भी उनके साथ रोता लगा। फिर भरत ने वह समाचार सुनाया जो वे इतने कोसों से ढोकर लाए थे: पिताजी नहीं रहे।\n\nराम चुपचाप बैठ गए। बहुत देर तक कुछ न बोले। फिर भाइयों और सीता के साथ वे नदी तक गए और स्मरण का जलदान किया, और चित्रकूट की पहाड़ियाँ विलाप की ध्वनि से गूँज उठीं, और उस दिन किसी ने मुकुट की बात नहीं की।",
      "reviewed": false
     },
     "mr": {
-     "text": "चित्रकूटाच्या हिरव्यागार डोंगरांत रामाने पानांची साधी कुटी बांधली होती. मोठ्या सैन्याची धूळ उडताना पाहून लक्ष्मणाने धनुष्य उचलले. “भरत आपल्याला मारायला येतोय!” तो ओरडला.\n\n“नाही,” राम शांतपणे म्हणाला. “भरत आपले कधीही वाईट करणार नाही.” आणि मग भरत समोर आला, राजाच्या वेशात नव्हे तर वल्कले नेसून, धावत. तो रामाच्या पायावर पडून रडू लागला. भावांनी एकमेकांना मिठी मारली आणि वडिलांच्या मृत्यूची बातमी कळताच वनही त्यांच्यासोबत रडल्यासारखे वाटले.",
+     "text": "“नाही,” राम शांतपणे म्हणाला. “लक्ष्मणा, धनुष्य खाली ठेव. भरत आपल्याला कधीही इजा करणार नाही. तुला सिंहासन एवढे हवे असेल, तर मी भरताला सांगतो ते तुला द्यायला.” लक्ष्मण लज्जित झाला.\n\nमग भरत मोकळ्या जागेच्या कडेला दिसला. तो राजासारखा नटलेला नव्हता. त्याने वल्कले नेसली होती, जटा झाल्या होत्या, उपवासाने आणि दुःखाने तो कृश झाला होता. तो लहानपणी धावायचा तसा धावला आणि रामाच्या पायांवर कोसळला, इतका रडला की एक शब्दही बोलू शकला नाही.\n\nरामाने त्याला उठवून कवटाळले. दोघे भाऊ एकत्र रडले, आणि सारे वनही त्यांच्यासोबत रडल्यासारखे वाटले. मग भरताने मैलोन् मैल वाहून आणलेली बातमी सांगितली: त्यांचे पिता आता नाहीत.\n\nराम अगदी स्तब्ध बसला. बराच वेळ तो काही बोलला नाही. मग भाऊ आणि सीतेसह तो नदीकडे गेला आणि तर्पण अर्पण केले, आणि चित्रकूटाच्या टेकड्या शोकाच्या आवाजाने घुमल्या, आणि त्या दिवशी कोणीही मुकुटाचा उल्लेखही केला नाही.",
      "reviewed": false
     }
    },
@@ -173,22 +197,22 @@
    "title": {
     "en": "A loving argument",
     "hi": {
-     "text": "प्रेम का अनोखा विवाद",
+     "text": "प्रेम भरा विवाद",
      "reviewed": false
     },
     "mr": {
-     "text": "प्रेमळ वाद",
+     "text": "प्रेमाचा वाद",
      "reviewed": false
     }
    },
    "text": {
-    "en": "For days Bharata begged. “Come home. Be king. I am your servant.” Rama answered gently, “Our father's word must not be broken. I will return after fourteen years. Until then, you must rule.”\n\nNeither would give way, each wanting the other to have the crown. Finally Bharata held out a pair of wooden sandals. “Then give me these. I will place them on the throne, and they will rule. I will only serve.”",
+    "en": "For days Bharata begged. “Come home. Be king. I am your servant. The throne is yours by right.” The sage Vasishtha added his own pleas. The queens wept. Even Kaikeyi, trembling, stepped forward and asked Rama’s forgiveness. He raised her up gently. “Mother, I hold nothing against you.”\n\nBut Rama’s heart did not change. “Our father’s word must not be broken. I promised, and he promised. I will return after fourteen years. Until then, you must rule, Bharata. That is your dharma, as the forest is mine.”\n\nNeither would give way, each wanting the other to have the crown. It was the strangest argument in the world: two princes, each trying to give away a kingdom. Even the sages who watched were moved to tears.\n\nAt last Bharata fell silent. He thought for a long while. Then he bowed his head and said, “If I cannot take you home, then give me something of yours to carry. Give me your sandals.”",
     "hi": {
-     "text": "कई दिनों तक भरत विनती करते रहे। “घर चलिए। राजा बनिए। मैं आपका सेवक हूँ।” राम ने कोमलता से उत्तर दिया, “पिताजी का वचन टूटना नहीं चाहिए। मैं चौदह वर्ष बाद लौटूँगा। तब तक तुम्हें राज्य सँभालना है।”\n\nकोई पीछे हटने को तैयार नहीं था, दोनों चाहते थे कि मुकुट दूसरे को मिले। अंत में भरत ने लकड़ी की एक जोड़ी पादुकाएँ आगे बढ़ाईं। “तो ये मुझे दे दीजिए। मैं इन्हें सिंहासन पर रखूँगा, ये ही राज करेंगी। मैं केवल सेवा करूँगा।”",
+     "text": "कई दिन भरत विनती करते रहे। “घर लौट चलिए। राजा बनिए। मैं आपका सेवक हूँ। सिंहासन आपका अधिकार है।” ऋषि वसिष्ठ ने भी अपनी प्रार्थना जोड़ी। रानियाँ रोईं। काँपती हुई कैकेयी भी आगे आईं और राम से क्षमा माँगी। उन्होंने उन्हें कोमलता से उठाया। “माँ, मेरे मन में आपके प्रति कुछ नहीं है।”\n\nपर राम का निश्चय नहीं बदला। “पिताजी का वचन टूटना नहीं चाहिए। मैंने वचन दिया, और उन्होंने भी। चौदह वर्ष बाद मैं लौटूँगा। तब तक तुम्हें शासन करना है, भरत। वही तुम्हारा धर्म है, जैसे वन मेरा।”\n\nकोई पीछे न हटा, दोनों चाहते थे कि मुकुट दूसरे को मिले। यह संसार का सबसे विचित्र विवाद था: दो राजकुमार, जिनमें प्रत्येक राज्य को दूसरे को सौंप देना चाहता था। देखने वाले ऋषि भी अश्रु रोक न सके।\n\nअंत में भरत चुप हो गए। वे बहुत देर तक सोचते रहे। फिर सिर झुकाकर बोले, “यदि मैं आपको घर नहीं ले जा सकता, तो मुझे अपनी कोई वस्तु साथ ले जाने को दे दीजिए। अपनी पादुकाएँ दे दीजिए।”",
      "reviewed": false
     },
     "mr": {
-     "text": "अनेक दिवस भरताने विनवण्या केल्या. “घरी चला. राजा व्हा. मी तुमचा सेवक आहे.” राम हळुवारपणे उत्तरला, “पित्याचा शब्द मोडता कामा नये. मी चौदा वर्षांनी परत येईन. तोवर तू राज्य कर.”\n\nदोघेही मागे हटेनात, प्रत्येकाला दुसऱ्याने मुकुट घालावा असे वाटत होते. शेवटी भरताने लाकडी पादुकांची जोडी पुढे केली. “मग मला या द्या. मी त्या सिंहासनावर ठेवीन आणि त्याच राज्य करतील. मी फक्त सेवा करीन.”",
+     "text": "दिवसेंदिवस भरत विनवत राहिला. “घरी चल. राजा हो. मी तुझा सेवक आहे. सिंहासन हक्काने तुझे आहे.” ऋषी वसिष्ठांनीही आपली विनंती जोडली. राण्या रडल्या. कैकेयीनेही, थरथरत, पुढे येऊन रामाची क्षमा मागितली. त्याने तिला हळुवारपणे उठवले. “माते, माझ्या मनात तुझ्याबद्दल काहीही नाही.”\n\nपण रामाचे हृदय बदलले नाही. “आपल्या पित्याचा शब्द मोडता कामा नये. मी वचन दिले, आणि त्यांनीही. चौदा वर्षांनी मी परत येईन. तोवर तू राज्य कर, भरता. तो तुझा धर्म आहे, जसे वन माझा.”\n\nकोणीही मागे हटेना, प्रत्येकाला दुसऱ्याने मुकुट घ्यावा असे वाटत होते. जगातला तो सर्वात विलक्षण वाद होता: दोन राजकुमार, प्रत्येक जण राज्य सोडून द्यायचा प्रयत्न करत होता. पाहणारे ऋषीही अश्रूंनी भारावले.\n\nशेवटी भरत शांत झाला. तो बराच वेळ विचार करत राहिला. मग त्याने मान झुकवली आणि म्हटले, “मी तुम्हाला घरी नेऊ शकत नसेन, तर तुमचे काहीतरी मला वाहून न्यायला द्या. मला तुमच्या पादुका द्या.”",
      "reviewed": false
     }
    }
@@ -197,22 +221,22 @@
    "title": {
     "en": "The king who lived like a hermit",
     "hi": {
-     "text": "तपस्वी की तरह रहने वाला राजा",
+     "text": "वनवासी की तरह रहने वाला राजा",
      "reviewed": false
     },
     "mr": {
-     "text": "तपस्व्यासारखा राहणारा राजा",
+     "text": "तपस्व्यासारखे जगणारा राजा",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Bharata carried the sandals on his head all the way back. He placed them on the golden throne of Ayodhya and ruled in their name.\n\nHe would not live in the palace. In the village of Nandigram he wore bark clothes, slept on the ground and ate like a sage, counting the days. “If Rama does not return on the day the fourteen years end,” he vowed, “I will walk into fire.”",
+    "en": "Rama stepped out of his wooden sandals and placed them in Bharata’s hands. Bharata lifted them and touched them to his forehead. “These will rule,” he said. “I will place them on the throne, and I will only serve.”\n\nHe carried the sandals on his head all the way back to Ayodhya, never letting them touch the ground. He placed them on the golden throne, and every royal order was issued in their name. Every day he laid a flower at them before touching any matter of state.\n\nBut he would not live in the palace. In the village of Nandigram, outside the city, he built a hut, wore bark clothes, slept on the ground, ate like a sage, and counted the days one by one. Kaikeyi watched from a distance, silent and sorrowing, her heart slowly healing.\n\n“If Rama does not return on the very day the fourteen years end,” he vowed, “I will walk into fire.” Every evening he looked to the south. And so Ayodhya waited, ruled by a pair of sandals and a brother’s love.",
     "hi": {
-     "text": "भरत पादुकाओं को सिर पर रखकर पूरे रास्ते लौटे। उन्होंने उन्हें अयोध्या के स्वर्ण सिंहासन पर स्थापित किया और उन्हीं के नाम पर राज चलाया।\n\nवे महल में नहीं रहे। नंदिग्राम गाँव में उन्होंने वल्कल पहने, धरती पर सोए और ऋषियों जैसा भोजन किया, दिन गिनते हुए। “यदि चौदह वर्ष पूरे होने के दिन राम न लौटे,” उन्होंने प्रण किया, “तो मैं अग्नि में प्रवेश कर लूँगा।”",
+     "text": "राम ने अपनी काष्ठ पादुकाएँ उतारकर भरत के हाथों में रख दीं। भरत ने उन्हें उठाकर माथे से लगा लिया। “ये ही राज्य करेंगी,” वे बोले। “मैं इन्हें सिंहासन पर रखूँगा, और स्वयं केवल सेवा करूँगा।”\n\nवे पादुकाओं को सिर पर रखकर पूरे मार्ग अयोध्या तक लाए, उन्हें कभी भूमि को छूने न दिया। उन्होंने उन्हें स्वर्ण सिंहासन पर प्रतिष्ठित किया, और हर राजाज्ञा उन्हीं के नाम से जारी हुई। हर दिन राज-काज को हाथ लगाने से पहले वे उन पर एक फूल चढ़ाते।\n\nपर वे महल में नहीं रहे। नगर के बाहर नंदिग्राम गाँव में उन्होंने कुटिया बनाई, वल्कल पहने, भूमि पर सोए, ऋषि की तरह भोजन किया, और दिन एक-एक करके गिनते रहे। कैकेयी दूर से देखती रहीं, मौन और दुखी, उनका हृदय धीरे-धीरे स्वस्थ होता हुआ।\n\n“यदि चौदह वर्ष पूरे होते ही उसी दिन राम न लौटे,” उन्होंने प्रण लिया, “तो मैं अग्नि में प्रवेश कर लूँगा।” हर संध्या वे दक्षिण की ओर देखते। और इस तरह अयोध्या प्रतीक्षा करती रही, एक जोड़ी पादुकाओं और एक भाई के प्रेम के शासन में।",
      "reviewed": false
     },
     "mr": {
-     "text": "भरताने पादुका डोक्यावर घेऊन संपूर्ण वाट चालत परत नेल्या. त्याने त्या अयोध्येच्या सोन्याच्या सिंहासनावर ठेवल्या आणि त्यांच्या नावाने राज्य चालवले.\n\nतो राजवाड्यात राहिला नाही. नंदिग्राम गावात तो वल्कले नेसून, जमिनीवर झोपून आणि ऋषीसारखे जेवून दिवस मोजत राहिला. “चौदा वर्षे संपण्याच्या दिवशी राम परत आला नाही,” त्याने प्रतिज्ञा केली, “तर मी अग्नीत प्रवेश करीन.”",
+     "text": "रामाने आपल्या लाकडी पादुका सोडल्या आणि भरताच्या हातांत ठेवल्या. भरताने त्या उचलून कपाळाला लावल्या. “यांचेच राज्य चालेल,” तो म्हणाला. “मी त्यांना सिंहासनावर ठेवीन, आणि मी फक्त सेवा करीन.”\n\nत्याने पादुका डोक्यावर घेऊन अयोध्येपर्यंत संपूर्ण वाट चालली, त्यांना कधीही जमिनीला लागू दिले नाही. त्याने त्यांना सुवर्ण सिंहासनावर ठेवले, आणि प्रत्येक राजाज्ञा त्यांच्या नावाने निघू लागली. राज्यकारभाराला हात लावण्याआधी दररोज तो त्यांना एक फूल वाही.\n\nपण तो महालात राहिला नाही. नगराबाहेर नंदिग्राम गावात त्याने कुटी बांधली, वल्कले नेसली, जमिनीवर झोपला, ऋषीसारखे जेवला, आणि दिवस एकेक करून मोजत राहिला. कैकेयी दुरून पाहत राहिली, शांत आणि दुःखी, तिचे हृदय हळूहळू बरे होत होते.\n\n“चौदा वर्षे संपण्याच्या दिवशीच राम परत आला नाही, तर मी अग्नीत प्रवेश करीन,” त्याने प्रतिज्ञा केली. दररोज संध्याकाळी तो दक्षिणेकडे पाहत असे. आणि अशा प्रकारे अयोध्या वाट पाहत राहिली, पादुकांचे आणि भावाच्या प्रेमाचे राज्य चालवत.",
      "reviewed": false
     }
    },
@@ -220,20 +244,20 @@
   }
  ],
  "reflect": {
-  "en": "Bharata could have had everything, yet chose love and duty over power. Today, give up one small advantage so that someone else can have it.",
+  "en": "Bharata could have had everything, yet chose love and duty over power. Today, give up one small advantage so that someone else can have it, a seat, a turn, the last piece, and notice how it feels.",
   "hi": {
-   "text": "भरत के पास सब कुछ हो सकता था, फिर भी उन्होंने सत्ता के ऊपर प्रेम और कर्तव्य को चुना। आज अपना कोई एक छोटा-सा लाभ छोड़ दीजिए ताकि कोई और उसे पा सके।",
+   "text": "भरत के पास सब कुछ हो सकता था, फिर भी उन्होंने सत्ता की जगह प्रेम और कर्तव्य को चुना। आज एक छोटा-सा लाभ, कोई आसन, कोई बारी, आख़िरी टुकड़ा, किसी और के लिए छोड़ दीजिए, और देखिए कि कैसा लगता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "भरताला सर्व काही मिळू शकले असते, तरीही त्याने सत्तेपेक्षा प्रेम आणि कर्तव्य निवडले. आज दुसऱ्याला मिळावा म्हणून तुमचा एखादा छोटासा फायदा सोडून द्या.",
+   "text": "भरताला सारे काही मिळू शकले असते, तरीही त्याने सत्तेपेक्षा प्रेम आणि कर्तव्य निवडले. आज एखादा छोटा फायदा सोडून द्या जेणेकरून दुसऱ्याला तो मिळेल, एखादे आसन, एखादी पाळी, शेवटचा घास, आणि कसे वाटते ते पाहा.",
    "reviewed": false
   }
  },
  "lesson": {
   "en": "Real greatness is not in taking the throne, but in serving what is right.",
   "hi": {
-   "text": "सच्ची महानता सिंहासन पर बैठने में नहीं, जो सही है उसकी सेवा करने में है।",
+   "text": "सच्ची महानता सिंहासन पर बैठने में नहीं, जो उचित है उसकी सेवा करने में है।",
    "reviewed": false
   },
   "mr": {

@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "shravan-kumar",
+ "order": 10,
+ "part": "ayodhya",
+ "figure": {
+  "en": "King Dasharatha",
+  "hi": {
+   "text": "महाराज दशरथ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजा दशरथ",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The arrow in the dark",
+  "hi": {
+   "text": "अँधेरे में चला बाण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अंधारातला बाण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The old king lies awake with a secret he has carried since youth, a sound in the night, an arrow loosed, and a curse that now comes due.",
+  "hi": {
+   "text": "बूढ़ा राजा एक ऐसे रहस्य के साथ जाग रहा है जिसे वह जवानी से ढो रहा है: रात की एक आहट, छूटा हुआ बाण, और एक शाप जो अब चुकता होने को है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वृद्ध राजा तारुण्यापासून जपलेल्या एका रहस्यासह जागा आहे: रात्रीचा आवाज, सुटलेला बाण, आणि आता फळाला येणारा शाप.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/shravan-kumar-1.webp",
+   "w": 758,
+   "h": 1100,
+   "caption": {
+    "en": "King Dasharatha and Shravan at the river (Ravi Varma Press)",
+    "hi": {
+     "text": "नदी किनारे राजा दशरथ और श्रवण (रवि वर्मा प्रेस)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीकाठी राजा दशरथ आणि श्रावण (रवि वर्मा प्रेस)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja ravi varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dashrath_Raja_and_Shravan.jpg"
+  },
+  {
+   "src": "/stories/ramayana/two-boons-2.webp",
+   "w": 755,
+   "h": 1100,
+   "caption": {
+    "en": "The death of King Dasharatha (Indian painting)",
+    "hi": {
+     "text": "राजा दशरथ का देहांत (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा दशरथांचे निधन (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Death_of_King_Dasharatha.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The chariot returns empty",
+    "hi": {
+     "text": "खाली लौटा रथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रिकामा रथ परतला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sumantra drove back to Ayodhya alone. The chariot that had left the city full of hope returned with three empty seats, and the people who saw it coming knew at once. A moan rose from the streets.\n\nHe went to the palace, bowed before the king, and told him everything: how Rama had spoken at the Ganga, how Sita had held her head high, how Lakshmana had said nothing at all. Dasharatha listened with his eyes closed. At the end he asked only, “Did Rama say anything for me?”\n\n“He said, ‘Tell my father I am well, and that I am not angry. Tell him to take care of my mother. Tell him I will return when the time is done.’”\n\nThe king lay back on his couch. His hands shook like leaves. All through the palace, the lamps burned low. He had not slept for five nights. Every time he closed his eyes he saw Rama in bark clothes walking away, and each time he opened them the room seemed darker. “It is my fault,” he whispered. “And I think I know why.”",
+    "hi": {
+     "text": "सुमंत्र अकेले अयोध्या लौटे। जो रथ आशा से भरा नगर से निकला था, वह तीन खाली आसन लेकर लौटा, और जिन्होंने उसे आते देखा, वे तुरंत सब समझ गए। गलियों से एक कराह उठी।\n\nवे महल गए, राजा के सामने झुके और सब बता दिया: गंगा तट पर राम ने क्या कहा, सीता ने कैसे सिर ऊँचा रखा, लक्ष्मण कुछ भी न बोले। दशरथ ने आँखें मूँदे सुना। अंत में उन्होंने केवल पूछा, “क्या राम ने मेरे लिए कुछ कहा?”\n\n“उन्होंने कहा, ‘पिताजी से कहना कि मैं कुशल हूँ, और क्रुद्ध नहीं हूँ। उनसे कहना कि मेरी माँ का ध्यान रखें। कहना कि समय पूरा होने पर मैं लौटूँगा।’”\n\nराजा पलंग पर पीछे लेट गए। उनके हाथ पत्तों की तरह काँप रहे थे। पूरे महल में दीप मद्धिम जल रहे थे। वे पाँच रातों से सोए न थे। जब भी आँखें बंद करते, राम को वल्कल पहने जाते देखते, और जब भी खोलते, कक्ष और काला लगता। “यह मेरा ही दोष है,” वे बुदबुदाए। “और मैं शायद जानता हूँ क्यों।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुमंत्र एकटेच अयोध्येत परतले. आशेने भरून निघालेला रथ तीन रिकाम्या आसनांसह परत आला, आणि तो येताना पाहणाऱ्यांना लगेच कळले. रस्त्यांतून एक आक्रोश उठला.\n\nते महालात गेले, राजासमोर नतमस्तक झाले आणि सारे सांगितले: गंगेवर राम कसा बोलला, सीतेने मान कशी उंच ठेवली, लक्ष्मण काहीच कसा बोलला नाही. दशरथाने डोळे मिटून ऐकले. शेवटी त्याने फक्त विचारले, “रामाने माझ्यासाठी काही सांगितले का?”\n\n“तो म्हणाला, ‘पित्याला सांगा, मी ठीक आहे आणि रागावलेलो नाही. त्यांना माझ्या मातेची काळजी घ्यायला सांगा. वेळ संपली की मी परत येईन.’”\n\nराजा पलंगावर मागे झुकला. त्याचे हात पानांसारखे थरथरत होते. सारा महाल दिव्यांच्या मंद उजेडात होता. पाच रात्री त्याला झोप लागली नव्हती. डोळे मिटले की वल्कले नेसून दूर जाणारा राम दिसे, आणि उघडले की खोली अधिकच अंधारी वाटे. “ही माझीच चूक आहे,” तो कुजबुजला. “आणि मला ती का ते ठाऊक आहे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A confession in the dark",
+    "hi": {
+     "text": "अँधेरे में स्वीकारोक्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंधारातली कबुली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At midnight, the old king called Kausalya. She came quickly and sat beside him. For a long time he said nothing. Then, in a voice she hardly recognised, he said: “Kausalya, there is something I have never told you. Hear it now, because I think the end of my life is near.”\n\nHe told her that in his youth, before any of his sons were born, he had been a hunter, famous for one particular skill. He could shoot at a sound alone, without seeing the target. “I was proud of it,” he said bitterly. “Pride is the beginning of every mistake.”\n\nOne rainy night, in the early season, he had gone out to the Sarayu to hunt buffalo or elephant that came to drink at the river. He sat hidden in the dark, with his bow ready, listening. Frogs croaked, the water murmured. Then he heard a splashing sound, like a large animal drinking, and without thinking, he loosed an arrow.\n\nA cry rose from the river. It was not the cry of an animal. It was a human voice.",
+    "hi": {
+     "text": "आधी रात को वृद्ध राजा ने कौशल्या को बुलाया। वे शीघ्र आईं और उनके पास बैठ गईं। बहुत देर तक वे चुप रहे। फिर ऐसे स्वर में, जिसे वे मुश्किल से पहचान पाईं, उन्होंने कहा: “कौशल्या, एक बात मैंने तुमसे कभी नहीं कही। अब सुन लो, क्योंकि मुझे लगता है कि मेरे जीवन का अंत निकट है।”\n\nउन्होंने बताया कि जवानी में, जब उनके कोई पुत्र न हुआ था, वे शिकारी थे, और एक विशेष कौशल के लिए प्रसिद्ध थे। वे केवल ध्वनि सुनकर, बिना लक्ष्य देखे, बाण चला सकते थे। “मुझे इस पर गर्व था,” वे कड़वाहट से बोले। “गर्व ही हर भूल की शुरुआत है।”\n\nएक वर्षा की रात, ऋतु के आरंभ में, वे सरयू पर गए थे, भैंसे या हाथी के शिकार को, जो नदी पर पानी पीने आते हैं। वे अँधेरे में छिपे बैठे थे, धनुष तैयार, कान लगाए। मेंढक टर्रा रहे थे, जल मर्मर कर रहा था। फिर उन्हें छपाक की आवाज़ सुनाई दी, जैसे कोई बड़ा पशु पानी पी रहा हो, और बिना सोचे उन्होंने बाण छोड़ दिया।\n\nनदी से एक चीख़ उठी। वह किसी पशु की चीख़ नहीं थी। वह मनुष्य की आवाज़ थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मध्यरात्री वृद्ध राजाने कौसल्येला बोलावले. ती धावत आली आणि त्याच्या शेजारी बसली. बराच वेळ तो काही बोलला नाही. मग तिला क्वचितच ओळखू येईल अशा आवाजात तो म्हणाला, “कौसल्ये, मी तुला कधी न सांगितलेले काहीतरी आहे. आता ऐक, कारण माझ्या आयुष्याचा अंत जवळ आला आहे असे मला वाटते.”\n\nत्याने सांगितले की तारुण्यात, कोणताही पुत्र जन्माला येण्यापूर्वी, तो शिकारी होता, आणि एका विशिष्ट कौशल्यासाठी प्रसिद्ध होता. लक्ष्य न पाहता केवळ आवाजावर तो बाण मारू शकत असे. “मला त्याचा अभिमान होता,” तो कडवटपणे म्हणाला. “अभिमान हीच प्रत्येक चुकीची सुरुवात.”\n\nपावसाळ्याच्या सुरुवातीच्या एका रात्री तो शरयूच्या काठी गेला होता, नदीवर पाणी प्यायला येणाऱ्या म्हशी किंवा हत्तींची शिकार करायला. तो अंधारात लपून धनुष्य सज्ज करून ऐकत बसला. बेडूक डरकाळत होते, पाणी गुणगुणत होते. मग त्याला एखादा मोठा प्राणी पाणी पीत असल्यासारखा चलबिचल आवाज आला, आणि काहीही न विचारता त्याने बाण सोडला.\n\nनदीवरून एक आक्रोश उठला. तो प्राण्याचा नव्हता. तो मानवी आवाज होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The boy at the river",
+    "hi": {
+     "text": "नदी किनारे का बालक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीकाठचा मुलगा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“I ran to the bank,” said Dasharatha, and his voice broke. “There, in the shadows, lay a young ascetic, a boy in the clothes of a hermit, with a pitcher beside him, and my arrow in his chest.”\n\nThe boy looked up at him in the dark with eyes full of bewilderment. “What harm have I done you, great king?” he said. “I am a hermit, and I came only to fetch water for my old parents. They are blind, and they are waiting, thirsty, in the forest. Who will give them water now? Please take this water to them, and tell them the truth. And please pull out the arrow, for it hurts.”\n\nIn Valmiki the boy is unnamed, a young ascetic of a hermit family. Later tradition gives him the name Shravan Kumar, the son who carried his parents on a pole across his shoulders to every holy place. His name has become a symbol of devotion to parents.\n\nDasharatha drew out the arrow, and the boy died in his arms. The king stood alone in the darkness, shaking, holding the water pitcher.",
+    "hi": {
+     "text": "“मैं दौड़कर किनारे पहुँचा,” दशरथ ने कहा, और उनका स्वर टूट गया। “वहाँ छायाओं में एक युवा तपस्वी पड़ा था, ऋषि-वेश में एक बालक, पास में घड़ा रखा था, और मेरा बाण उसकी छाती में धँसा था।”\n\nबालक ने अँधेरे में विस्मय भरी आँखों से मेरी ओर देखा। “महाराज, मैंने आपका क्या बिगाड़ा था?” वह बोला। “मैं तपस्वी हूँ, और मैं केवल अपने बूढ़े माता-पिता के लिए पानी भरने आया था। वे अंधे हैं, और प्यासे वन में प्रतीक्षा कर रहे हैं। अब उन्हें पानी कौन देगा? कृपया यह जल उनके पास ले जाइए और उन्हें सत्य बता दीजिए। और कृपया यह बाण निकाल दीजिए, क्योंकि यह बहुत पीड़ा देता है।”\n\nवाल्मीकि में उस बालक का नाम नहीं है, वह एक तपस्वी कुल का युवक है। परवर्ती परंपरा ने उसे श्रवण कुमार नाम दिया, वह पुत्र जो अपने माता-पिता को काँवर में कंधे पर उठाकर हर तीर्थ ले गया। उसका नाम माता-पिता की भक्ति का प्रतीक बन गया है।\n\nदशरथ ने बाण खींचा, और बालक ने उनकी गोद में प्राण त्याग दिए। राजा अँधेरे में अकेले खड़े रह गए, काँपते, जल का घड़ा थामे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“मी काठाकडे धावलो,” दशरथ म्हणाला, आणि त्याचा आवाज तुटला. “तिथे सावलीत एक तरुण तपस्वी पडला होता, ऋषीकुमाराच्या वेषातला मुलगा, शेजारी घागर, आणि त्याच्या छातीत माझा बाण.”\n\nमुलाने अंधारात त्याच्याकडे गोंधळलेल्या डोळ्यांनी पाहिले. “हे महाराज, मी तुमचे काय वाईट केले?” तो म्हणाला. “मी तपस्वी आहे, आणि फक्त माझ्या वृद्ध मातापित्यांसाठी पाणी न्यायला आलो होतो. ते आंधळे आहेत, आणि तहानलेले वनात वाट पाहत आहेत. आता त्यांना पाणी कोण देणार? कृपया हे पाणी त्यांच्याकडे घेऊन जा आणि त्यांना खरे सांगा. आणि कृपया बाण काढा, कारण फार दुखते आहे.”\n\nवाल्मीकींच्या कथेत हा मुलगा अनामिक आहे, एका ऋषिकुळातला तरुण तपस्वी. नंतरची परंपरा त्याला श्रावणबाळ हे नाव देते, तो पुत्र जो आपल्या मातापित्यांना काठीला बांधलेल्या कावडीत खांद्यावर घेऊन प्रत्येक तीर्थक्षेत्री नेई. त्याचे नाव मातापित्यांच्या भक्तीचे प्रतीक बनले आहे.\n\nदशरथाने बाण काढला, आणि मुलगा त्याच्या हातांत मरण पावला. राजा अंधारात एकटा उभा होता, थरथरत, पाण्याची घागर धरून.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The parents’ curse",
+    "hi": {
+     "text": "माता-पिता का शाप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मातापित्यांचा शाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Carrying the pitcher, the trembling king followed the path through the trees until he came to a small hut. Two old people sat there, blind and weak, listening for their son’s footsteps.\n\n“Son,” the old father called, “why are you so late? We are so thirsty.” Dasharatha stood frozen. He could not lie. Slowly, he told them who he was and what he had done.\n\nA terrible cry rose from the old couple. They begged to be taken to their son’s body. At the riverbank they lay down beside him and wept and spoke to him as if he were still alive, as if he could hear them. Then the old father turned toward the king, and his voice, though weak, rang like iron.\n\n“Because of the grief you have given us, you too will die of grief for a son. May you feel what we feel.” Then the father and mother laid themselves on the funeral fire and left the world.\n\nThe king sat in the ashes of that night for years, and the curse sat silently in his heart.",
+    "hi": {
+     "text": "घड़ा उठाए, काँपते राजा वृक्षों के बीच की पगडंडी पर चलते-चलते एक छोटी कुटिया तक पहुँचे। वहाँ दो वृद्ध बैठे थे, अंधे और दुर्बल, अपने पुत्र के पैरों की आहट की प्रतीक्षा करते।\n\n“बेटा,” वृद्ध पिता ने पुकारा, “इतनी देर क्यों की? हम बहुत प्यासे हैं।” दशरथ जड़ हो गए। वे झूठ नहीं बोल सके। धीरे-धीरे उन्होंने बताया कि वे कौन हैं और उन्होंने क्या किया है।\n\nवृद्ध दंपति से एक भयंकर चीत्कार उठी। उन्होंने विनती की कि उन्हें पुत्र के शव के पास ले चलें। नदी के किनारे वे उसके पास लेट गए, रोए और उससे ऐसे बातें करने लगे मानो वह जीवित हो, मानो सुन सकता हो। फिर वृद्ध पिता राजा की ओर मुड़े, और उनका स्वर, दुर्बल होने पर भी, लोहे की तरह गूँजा।\n\n“जो दुख तुमने हमें दिया है, उसी से तुम भी पुत्र के शोक में मरोगे। तुम्हें भी वही अनुभव हो जो हमें हो रहा है।” फिर पिता और माता दोनों चिता पर लेट गए और संसार छोड़ गए।\n\nराजा बरसों उस रात की राख में बैठे रहे, और वह शाप चुपचाप उनके हृदय में बैठा रहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "घागर घेऊन थरथरणारा राजा झाडांतल्या वाटेने चालत एका लहान कुटीपर्यंत पोहोचला. तिथे दोन वृद्ध माणसे, आंधळी आणि दुर्बल, मुलाच्या पावलांची चाहूल ऐकत बसली होती.\n\n“बाळा,” वृद्ध पित्याने हाक मारली, “इतका उशीर का केलास? आम्हाला फार तहान लागली आहे.” दशरथ गोठून उभा राहिला. त्याला खोटे बोलता आले नाही. हळूहळू त्याने ते कोण आहेत आणि त्याने काय केले ते सांगितले.\n\nवृद्ध दांपत्यातून एक भयंकर आक्रोश उठला. त्यांनी आपल्या मुलाच्या देहाजवळ नेण्याची याचना केली. नदीकाठी ते त्याच्या बाजूला पडले आणि रडले, तो जिवंत असल्यासारखे, त्याला ऐकू येत असल्यासारखे त्याच्याशी बोलले. मग वृद्ध पिता राजाकडे वळला, आणि त्याचा आवाज क्षीण असूनही लोखंडासारखा घुमला.\n\n“तू आम्हाला जे दुःख दिलेस, त्यामुळे तूही पुत्रशोकानेच मरशील. आम्हाला जे वाटते ते तुलाही वाटो.” मग पित्याने आणि मातेने स्वतःला चितेवर ठेवले आणि हे जग सोडले.\n\nराजा वर्षानुवर्षे त्या रात्रीच्या राखेत बसून राहिला, आणि तो शाप त्याच्या हृदयात शांतपणे बसला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Understanding at last",
+    "hi": {
+     "text": "अंततः समझ आया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अखेर उमगले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "“I was young,” Dasharatha told Kausalya. “I thought the curse a distant thing. When my sons were born, I almost forgot it. But now I understand. This is the grief the old man spoke of. It has come at last.”\n\nKausalya wept, but she did not speak in anger. She laid her hand on his. For the first time in many nights, the king felt a little relief, as if saying the truth aloud had loosened something that had held his chest tight for years.\n\n“I have kept my word to Kaikeyi,” he whispered. “But I cannot keep my life. Rama is walking in the forest because of an old man’s tears, and my own foolish arrow. Forgive me.”\n\n“There is nothing to forgive,” said Kausalya softly. “What was written is written, and you have always loved us.”\n\nThey sat together as the lamp guttered. The old king began to speak of Rama as a boy: how he ran across the palace courtyard, how he laughed, how he once gave away his own bracelet to a beggar child. And hearing these stories, for a moment, the room seemed lighter.",
+    "hi": {
+     "text": "“मैं जवान था,” दशरथ ने कौशल्या से कहा। “मैंने शाप को दूर की बात समझा। जब मेरे पुत्र हुए तो मैं उसे लगभग भूल ही गया। पर अब मैं समझ रहा हूँ। यह वही दुख है जिसकी बात उस वृद्ध ने कही थी। वह आख़िर आ ही गया।”\n\nकौशल्या रो पड़ीं, पर उन्होंने क्रोध में कुछ न कहा। उन्होंने उनके हाथ पर अपना हाथ रखा। कई रातों में पहली बार राजा को थोड़ी राहत मिली, मानो सत्य कह देने से कोई गाँठ ढीली हो गई हो, जिसने बरसों से उनकी छाती जकड़ रखी थी।\n\n“मैंने कैकेयी को दिया वचन निभाया,” वे फुसफुसाए। “पर अपना जीवन नहीं निभा सकता। राम एक बूढ़े के आँसुओं और मेरे अपने मूर्ख बाण के कारण वन में चल रहा है। मुझे क्षमा करो।”\n\n“क्षमा करने को कुछ नहीं है,” कौशल्या ने धीरे से कहा। “जो लिखा था, वह लिखा था, और आपने हम सबको सदा प्रेम किया।”\n\nदीप टिमटिमाता रहा और वे साथ बैठे रहे। वृद्ध राजा राम के बचपन की बातें करने लगे: वह महल के आँगन में कैसे दौड़ता था, कैसे हँसता था, कैसे एक बार उसने अपना कंगन एक भिखारी बालक को दे दिया था। और ये बातें सुनकर, एक क्षण को, कक्ष हल्का लगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "“मी तरुण होतो,” दशरथ कौसल्येला म्हणाला. “मला तो शाप फार दूरचा वाटला. पुत्र जन्मले तेव्हा मी तो जवळजवळ विसरलो. पण आता मला कळते. त्या वृद्धाने सांगितलेले दुःख हेच आहे. ते शेवटी आले आहे.”\n\nकौसल्या रडली, पण रागाने बोलली नाही. तिने त्याच्या हातावर हात ठेवला. अनेक रात्रींनंतर प्रथमच राजाला थोडा दिलासा वाटला, जणू सत्य मोठ्याने सांगितल्याने वर्षानुवर्षे छाती आवळून धरणारे काहीतरी सैल झाले.\n\n“मी कैकेयीला दिलेला शब्द पाळला आहे,” तो कुजबुजला. “पण मी माझे आयुष्य टिकवू शकत नाही. एका वृद्धाच्या अश्रूंमुळे आणि माझ्याच मूर्ख बाणामुळे राम वनात चालला आहे. मला क्षमा कर.”\n\n“क्षमा करण्यासारखे काही नाही,” कौसल्या हळू म्हणाली. “जे लिहिले होते ते घडले, आणि तुम्ही आमच्यावर नेहमीच प्रेम केलेत.”\n\nदिवा फडफडत असताना ते दोघे एकत्र बसले. वृद्ध राजा रामाबद्दल बोलू लागला, लहानपणी तो महालाच्या अंगणात कसा धावे, कसा हसे, एकदा भिक्षेकरी मुलाला त्याने स्वतःचे कडे कसे देऊन टाकले. आणि या कथा ऐकताना, क्षणभर, खोली उजळल्यासारखी वाटली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Calling Rama’s name",
+    "hi": {
+     "text": "राम का नाम पुकारते",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रामाचे नाव घेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Toward the end of that night, Dasharatha’s voice grew faint. The darkness in the room seemed to deepen. He stretched out his hands toward the door, as if someone were standing there.\n\n“Rama,” he whispered. “Rama, my son. Are you there?”\n\nKausalya held him. Sumitra came, and the physicians, and the old servants, and the ministers, standing quietly along the walls. Outside, the first grey light touched the white towers of Ayodhya.\n\n“Rama,” he called once more, as a child calls out in sleep. “Sita. Lakshmana.” And then there were no more words.\n\nThe king’s eyes were open, fixed on the door. He had died calling the name of the son he had sent away. Valmiki says the cry that rose from the palace that morning was heard by every house in the city, and that for many days no fire was lit in Ayodhya’s kitchens.\n\nOne promise had been kept. One father’s heart had broken. And somewhere far away, under the stars of the south, Rama slept on a bed of leaves, not yet knowing.",
+    "hi": {
+     "text": "उस रात के अंत की ओर दशरथ का स्वर क्षीण होता गया। कक्ष का अँधेरा और गहरा होता लगा। उन्होंने द्वार की ओर हाथ फैलाए, मानो वहाँ कोई खड़ा हो।\n\n“राम,” वे फुसफुसाए। “राम, मेरे बेटे। क्या तुम वहाँ हो?”\n\nकौशल्या ने उन्हें थामा। सुमित्रा आईं, वैद्य आए, पुराने सेवक और मंत्री आए और दीवारों के साथ चुपचाप खड़े हो गए। बाहर पहली धूसर किरण अयोध्या के श्वेत शिखरों को छू रही थी।\n\n“राम,” उन्होंने एक बार और पुकारा, जैसे बच्चा नींद में पुकारता है। “सीता। लक्ष्मण।” और फिर कोई शब्द न रहा।\n\nराजा की आँखें खुली थीं, द्वार पर टिकी। वे उस पुत्र का नाम पुकारते हुए चले गए जिसे उन्होंने स्वयं विदा किया था। वाल्मीकि कहते हैं कि उस सुबह महल से जो चीत्कार उठी, उसे नगर के हर घर ने सुना, और कई दिनों तक अयोध्या की रसोइयों में आग नहीं जली।\n\nएक वचन निभाया गया था। एक पिता का हृदय टूट गया था। और कहीं दूर, दक्षिण के तारों तले, राम पत्तों की शय्या पर सो रहे थे, अब तक अनजान।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या रात्रीच्या अखेरीस दशरथाचा आवाज क्षीण झाला. खोलीतला काळोख अधिक गडद होत गेल्यासारखा वाटला. त्याने दाराकडे हात पसरले, तिथे कोणी उभे असल्यासारखे.\n\n“राम,” तो कुजबुजला. “राम, माझ्या पुत्रा. तू तिथे आहेस का?”\n\nकौसल्येने त्याला धरले. सुमित्रा आली, वैद्य, वृद्ध सेवक, आणि मंत्री शांतपणे भिंतीकडेने उभे राहिले. बाहेर पहिल्या राखाडी प्रकाशाने अयोध्येच्या शुभ्र मनोऱ्यांना स्पर्श केला.\n\n“राम,” त्याने पुन्हा हाक मारली, झोपेत मूल हाक मारते तशी. “सीता. लक्ष्मण.” आणि मग शब्द संपले.\n\nराजाचे डोळे उघडे होते, दाराकडे खिळलेले. ज्या पुत्राला त्याने दूर पाठवले, त्याचे नाव घेत तो मरण पावला. वाल्मीकी सांगतात की त्या सकाळी महालातून उठलेला आक्रोश नगरीतल्या प्रत्येक घराने ऐकला, आणि अनेक दिवस अयोध्येच्या स्वयंपाकघरांत अग्नी पेटला नाही.\n\nएक वचन पाळले गेले होते. एका पित्याचे हृदय तुटले होते. आणि दूर कुठेतरी, दक्षिणेच्या चांदण्याखाली, राम पानांच्या शय्येवर झोपला होता, अजून काहीच माहीत नसताना.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "reflect": {
+  "en": "Dasharatha’s arrow was loosed in a careless second, and he carried its weight for a lifetime. Before you speak or act in haste today, pause for one breath and ask: could this hurt someone? Then choose.",
+  "hi": {
+   "text": "दशरथ का बाण एक लापरवाह क्षण में छूटा, और उसका बोझ उन्होंने जीवन भर ढोया। आज जल्दबाज़ी में बोलने या करने से पहले एक साँस रुककर पूछिए: क्या इससे किसी को चोट पहुँच सकती है? फिर चुनिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दशरथाचा बाण एका निष्काळजी क्षणात सुटला, आणि त्याचे ओझे त्याने आयुष्यभर वाहिले. आज घाईने बोलण्याआधी किंवा वागण्याआधी एक श्वास थांबा आणि विचारा: यामुळे कोणाला दुखावले जाईल का? मग निवड करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Our actions travel farther than we can see, and honest confession and forgiveness are how a heavy heart is finally set down.",
+  "hi": {
+   "text": "हमारे कर्म हमारी दृष्टि से कहीं दूर तक पहुँचते हैं, और सच्चा प्रायश्चित्त तथा क्षमा ही भारी हृदय को अंततः हल्का करते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपली कृत्ये आपल्याला दिसते त्यापेक्षा खूप दूर पोहोचतात, आणि प्रामाणिक कबुली आणि क्षमा यांमुळेच जड मन शेवटी हलके होते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Ayodhya Kanda (the unnamed young ascetic); the name Shravan Kumar is from later popular tradition",
+  "hi": {
+   "text": "वाल्मीकि रामायण, अयोध्याकांड (अनाम युवा तपस्वी); श्रवण कुमार नाम परवर्ती लोक परंपरा से है",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, अयोध्याकांड (अनामिक तरुण तपस्वी); श्रावणबाळ हे नाव नंतरच्या लोकपरंपरेतून आले आहे",
+   "reviewed": false
+  }
+ }
+}

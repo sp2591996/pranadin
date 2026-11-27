@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "forest-sages",
+ "order": 12,
+ "part": "aranya",
+ "figure": {
+  "en": "Rama and the sages",
+  "hi": {
+   "text": "राम और ऋषिगण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राम आणि ऋषी",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The forest asks for a protector",
+  "hi": {
+   "text": "वन को रक्षक की पुकार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वन रक्षणकर्ता मागते",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Deep in the Dandaka forest, sages show Rama a heap of bones and ask for help. His vow will change the whole journey.",
+  "hi": {
+   "text": "दंडकारण्य की गहराई में ऋषि राम को हड्डियों का ढेर दिखाकर सहायता माँगते हैं। उनका प्रण पूरी यात्रा की दिशा बदल देगा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दंडकारण्याच्या गर्भात ऋषी रामाला हाडांचा ढीग दाखवून मदत मागतात. त्याची प्रतिज्ञा संपूर्ण प्रवासाची दिशा बदलणार आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/forest-sages-1.webp",
+   "w": 1200,
+   "h": 923,
+   "caption": {
+    "en": "Rama and Lakshmana talk with the sage Atri while Sita sits with Anasuya (Indian painting)",
+    "hi": {
+     "text": "राम और लक्ष्मण ऋषि अत्रि से बात करते हैं, सीता अनसूया के साथ (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम-लक्ष्मण अत्री ऋषींशी बोलतात, सीता अनसूयेसोबत (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Rama_and_Lakshmana_Converse_with_Atri_at_His_Ashram_While_Sita_Talks_to_his_Wife,_Anasuya,_from_a_Ramayana_series_-_1995.69_-_Arthur_M._Sackler_Museum.jpg"
+  },
+  {
+   "src": "/stories/ramayana/forest-sages-2.webp",
+   "w": 1200,
+   "h": 852,
+   "caption": {
+    "en": "Rama, Sita and Lakshmana at a forest hermitage (Pahari painting)",
+    "hi": {
+     "text": "वन के एक आश्रम में राम, सीता और लक्ष्मण (पहाड़ी चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वनातील एका आश्रमात राम, सीता आणि लक्ष्मण (पहाडी चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "First Generation after Nainsukh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rama,_Sita,_and_Lakshmana_at_the_Hermitage_of_Bharadvaja-_Folio_from_a_Ramayana_Series_(IA_mma_rama_sita_and_lakshmana_at_the_hermitage_of_bharadvaja_folio_from_a_ramay_37955).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Atri, Anasuya and a gift",
+    "hi": {
+     "text": "अत्रि, अनसूया और एक उपहार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अत्री, अनसूया आणि एक भेट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Chitrakoot had become too crowded with memories and visitors, and Rama felt that Bharata’s people might come again. So one morning the three travellers took their bows and walked south, deeper into the great forest.\n\nThey came to the hermitage of the sage Atri, whose wife Anasuya was known across the world for her purity and calm. Anasuya, very old and gentle, embraced Sita as if she were her own daughter. She sat her down in the shade and spoke softly, giving her counsel on the dharma of a wife, and on how to remain steadfast in hardship.\n\nThen she did something unexpected. From a chest she drew a garland that never withered, a robe that never grew old, ornaments that never lost their shine, and a fragrant cream that kept the skin fresh. “Wear these, my child, and let your light never fade, wherever you wander.”\n\nSita bowed to touch her feet, and the old woman blessed her with tears in her eyes. “May your faith keep you,” she said, “in places where I cannot follow.”",
+    "hi": {
+     "text": "चित्रकूट स्मृतियों और आने-जाने वालों से अधिक भर गया था, और राम को लगा कि भरत के लोग फिर आ सकते हैं। इसलिए एक सुबह तीनों यात्री धनुष लेकर दक्षिण की ओर, विशाल वन में और भीतर चल पड़े।\n\nवे ऋषि अत्रि के आश्रम पहुँचे, जिनकी पत्नी अनसूया अपनी पवित्रता और शांति के लिए जगत में प्रसिद्ध थीं। अत्यंत वृद्ध और कोमल अनसूया ने सीता को अपनी पुत्री की तरह गले लगाया। उन्होंने उन्हें छाया में बिठाया और धीरे-धीरे पत्नी के धर्म तथा कठिनाई में अडिग रहने के विषय में उपदेश दिया।\n\nफिर उन्होंने कुछ अप्रत्याशित किया। एक पेटी से उन्होंने ऐसी माला निकाली जो कभी मुरझाती न थी, ऐसा वस्त्र जो कभी पुराना न होता, ऐसे आभूषण जिनकी चमक कभी न घटती, और ऐसा सुगंधित लेप जो त्वचा को ताज़ा रखता। “बेटी, इन्हें धारण करो, और तुम जहाँ भी भटको, तुम्हारी आभा कभी मंद न हो।”\n\nसीता ने झुककर उनके चरण छुए, और वृद्धा ने आँखों में आँसू भरकर आशीर्वाद दिया। “तुम्हारी श्रद्धा तुम्हारी रक्षा करे,” उन्होंने कहा, “उन स्थानों पर जहाँ मैं तुम्हारे साथ नहीं जा सकती।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चित्रकूट आठवणींनी आणि भेटीला येणाऱ्यांनी फार गजबजले होते, आणि भरताची माणसे पुन्हा येतील असे रामाला वाटले. म्हणून एका सकाळी तिघा प्रवाशांनी धनुष्ये घेतली आणि दक्षिणेकडे, महान वनाच्या आणखी आत निघाले.\n\nते ऋषी अत्रींच्या आश्रमात पोहोचले, ज्यांची पत्नी अनसूया तिच्या पावित्र्याबद्दल आणि शांततेबद्दल जगभर प्रसिद्ध होती. अत्यंत वृद्ध आणि मृदू अनसूयेने सीतेला स्वतःच्या कन्येसारखे आलिंगन दिले. तिला सावलीत बसवून तिने हळू आवाजात पत्नीधर्माबद्दल आणि संकटात खंबीर कसे राहावे याबद्दल उपदेश केला.\n\nमग तिने काहीतरी अनपेक्षित केले. एका पेटीतून तिने कधीही न कोमेजणारी माळ, कधीही जुने न होणारे वस्त्र, कधीही तेज न गमावणारे अलंकार आणि त्वचा ताजी ठेवणारे सुगंधी लेप काढले. “हे ल्याव, बाळे, आणि तू कुठेही भटकलीस तरी तुझे तेज कधी मलिन होऊ नये.”\n\nसीतेने वाकून तिच्या पायांना स्पर्श केला, आणि वृद्धेने डोळ्यांत पाणी आणून तिला आशीर्वाद दिला. “तुझी श्रद्धा तुझे रक्षण करो,” ती म्हणाली, “जिथे मी तुझ्यासोबत येऊ शकत नाही तिथे.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Into the Dandaka forest",
+    "hi": {
+     "text": "दंडकारण्य में",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दंडकारण्यात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After a night in the hermitage, the three set out again. Sages bade them farewell with blessings, and warned them: “The forest ahead is full of rakshasas. Be careful.”\n\nSoon the path grew narrow and the trees grew thick, and the light turned dim and green. Birdsong faded. Roots twisted across the path. Lakshmana walked first with his bow strung, Rama followed, and Sita walked between them, with her head high.\n\nAfter a few days they met a huge demon named Viradha, who seized Sita and ran. The brothers fought him with arrows until he fell, and as he died he revealed that he was a cursed heavenly being, who was now free. “Go to the sage Sharabhanga,” he said, and sank into the earth.\n\nThe forest was beautiful, but it carried a wrongness. Fires had been put out, altars broken. Rama noticed it as one notices a missing tooth. He felt like a person who has walked into a house and finds the family gone.",
+    "hi": {
+     "text": "आश्रम में एक रात बिताकर तीनों फिर चल पड़े। ऋषियों ने आशीर्वाद देकर विदा किया, और चेताया: “आगे का वन राक्षसों से भरा है। सावधान रहना।”\n\nजल्द ही पगडंडी संकरी हो गई और पेड़ घने, और प्रकाश धुँधला और हरा पड़ गया। पक्षियों का गान मंद हो गया। जड़ें राह पर आड़ी-तिरछी उलझी थीं। लक्ष्मण चढ़ाए हुए धनुष के साथ सबसे आगे चले, राम पीछे, और बीच में सिर ऊँचा किए सीता।\n\nकुछ दिन बाद उन्हें विराध नाम का एक विशाल राक्षस मिला, जिसने सीता को पकड़ लिया और भागा। भाइयों ने बाणों से उससे युद्ध किया जब तक वह गिर नहीं पड़ा, और मरते हुए उसने बताया कि वह शापित दिव्य प्राणी था, जो अब मुक्त हो गया। “ऋषि शरभंग के पास जाइए,” उसने कहा, और धरती में समा गया।\n\nवन सुंदर था, पर उसमें कुछ अनुचित छिपा था। अग्नियाँ बुझा दी गई थीं, वेदियाँ टूटी थीं। राम ने इसे वैसे ही अनुभव किया जैसे कोई टूटे दाँत की कमी महसूस करता है। उन्हें ऐसा लगा जैसे कोई घर में पहुँचे और पाए कि परिवार चला गया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आश्रमात एक रात्र घालवून तिघे पुन्हा निघाले. ऋषींनी आशीर्वाद देऊन निरोप दिला, आणि सावध केले: “पुढचे वन राक्षसांनी भरलेले आहे. जपून जा.”\n\nलवकरच वाट अरुंद झाली आणि झाडे दाट झाली, आणि प्रकाश अंधुक, हिरवट झाला. पक्ष्यांचे गाणे विरले. मुळे वाटेवर वळणे घेत पसरली होती. लक्ष्मण धनुष्य सज्ज करून पुढे चालला, राम मागे, आणि सीता दोघांच्या मध्ये, मान उंच ठेवून.\n\nकाही दिवसांनी त्यांना विराध नावाचा प्रचंड राक्षस भेटला, ज्याने सीतेला पकडून धाव घेतली. दोघा भावांनी तो कोसळेपर्यंत बाणांनी लढा दिला, आणि मरताना त्याने सांगितले की तो शापित दिव्य जीव होता, जो आता मुक्त झाला. “ऋषी शरभंगांकडे जा,” तो म्हणाला, आणि जमिनीत विलीन झाला.\n\nवन सुंदर होते, पण त्यात काहीतरी बिघडलेले होते. अग्नी विझवलेले होते, वेद्या मोडलेल्या. दात गेलेल्या जागेची जशी जाणीव होते तशी रामाला ती जाणवली. रिकामे घर आणि कुटुंब गेलेले पाहणाऱ्या माणसासारखे त्याला वाटले.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The bones of the hermits",
+    "hi": {
+     "text": "तपस्वियों की अस्थियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तपस्व्यांची हाडे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A group of sages met the princes at a hermitage in the deep woods. They were thin and anxious, and their robes were torn. They gathered round Rama and told him what they had suffered.\n\n“You are the protector of the world,” their elder said. “Rakshasas haunt these woods. They devour hermits at their prayers. They pour blood on our altars. We have no weapons and no army. Please, Rama, help us.”\n\nThen they led Rama to a clearing, and showed him a heap of bones, white and dry, the remains of ascetics who had been killed.\n\nRama stood in silence. The wind moved through the trees. When he finally spoke, his voice was very low. “Holy ones, you did not need to ask. It is my dharma to protect those who take shelter with me. I came to the forest to keep my father’s word. Now I will also keep this word.”\n\nHe raised his hand toward the sky. “I vow to free this forest of those who torment the good.”",
+    "hi": {
+     "text": "घने वन में एक आश्रम पर ऋषियों का एक दल राजकुमारों से मिला। वे दुबले और चिंतित थे, और उनके वस्त्र फटे हुए थे। वे राम के चारों ओर इकट्ठा हो गए और बताया कि उन्होंने क्या सहा है।\n\n“आप जगत के रक्षक हैं,” उनके वयोवृद्ध ने कहा। “राक्षस इन वनों में मँडराते हैं। वे तपस्वियों को प्रार्थना करते हुए खा जाते हैं। वे हमारी वेदियों पर रक्त उँडेलते हैं। हमारे पास न शस्त्र हैं, न सेना। कृपया, राम, हमारी सहायता कीजिए।”\n\nफिर वे राम को एक खुली जगह ले गए और उन्हें हड्डियों का ढेर दिखाया, श्वेत और सूखी, मारे गए तपस्वियों के अवशेष।\n\nराम मौन खड़े रहे। पेड़ों में हवा सरसराई। जब वे बोले, तो उनका स्वर बहुत धीमा था। “पूज्य ऋषियो, आपको माँगने की आवश्यकता नहीं थी। जो मेरी शरण में आए उसकी रक्षा करना मेरा धर्म है। मैं पिता का वचन निभाने वन आया था। अब यह वचन भी निभाऊँगा।”\n\nउन्होंने हाथ आकाश की ओर उठाया। “मैं प्रण करता हूँ कि सज्जनों को सताने वालों से इस वन को मुक्त करूँगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खोल रानातल्या आश्रमात काही ऋषी राजकुमारांना भेटले. ते कृश आणि चिंताग्रस्त होते, त्यांची वस्त्रे फाटलेली. ते रामाभोवती जमले आणि आपण काय भोगले ते सांगितले.\n\n“तू जगाचा रक्षक आहेस,” त्यांचे ज्येष्ठ म्हणाले. “या वनात राक्षस वावरतात. ते तपस्व्यांना प्रार्थना करत असतानाच खाऊन टाकतात. आमच्या वेद्यांवर रक्त ओततात. आमच्याकडे शस्त्रे नाहीत, सैन्य नाही. राम, कृपया आम्हाला मदत कर.”\n\nमग त्यांनी रामाला एका मोकळ्या जागी नेले आणि पांढऱ्या, कोरड्या हाडांचा ढीग दाखवला, मारल्या गेलेल्या तपस्व्यांचे अवशेष.\n\nराम स्तब्ध उभा राहिला. झाडांतून वारा फिरत होता. शेवटी तो बोलला तेव्हा त्याचा आवाज अगदी खोल होता. “महात्म्यांनो, तुम्हाला मागायची गरज नव्हती. जे माझ्या आश्रयाला येतात त्यांचे रक्षण करणे माझा धर्म आहे. मी पित्याचा शब्द पाळण्यासाठी वनात आलो. आता हा शब्दही पाळीन.”\n\nत्याने आकाशाकडे हात उंचावला. “सज्जनांना छळणाऱ्यांपासून हे वन मुक्त करण्याची मी प्रतिज्ञा करतो.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Sita’s question",
+    "hi": {
+     "text": "सीता का प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सीतेचा प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "That night, by the light of a small fire, Sita spoke softly. “My lord, may I ask you something? You have given your word to the sages, and I honour it. But you came to the forest to live as an ascetic, without anger, without violence. A weapon in the hand is a temptation. People who carry bows begin to see enemies everywhere. Let us be careful that we do not go looking for fights that are not ours.”\n\nRama looked at her fondly, and he did not wave her question away. He said: “Sita, you speak from love, and you are right to warn me. A weapon can ruin the one who wields it. But think. I took the bow not for pleasure, but for a purpose: so that the weak can live without fear. A protector who stands by while the helpless are killed has abandoned his dharma. I will fight only when there is no other way, and never in hatred.”\n\nShe nodded slowly. “Then keep your heart gentle, even as your hand is strong.” Rama smiled. “That is what I will try to do.”",
+    "hi": {
+     "text": "उस रात छोटी-सी अग्नि के प्रकाश में सीता ने धीमे स्वर में कहा। “स्वामी, क्या मैं कुछ पूछ सकती हूँ? आपने ऋषियों को वचन दिया है, और मैं उसका सम्मान करती हूँ। पर आप वन में तपस्वी की तरह, बिना क्रोध, बिना हिंसा के रहने आए थे। हाथ में शस्त्र प्रलोभन है। जो धनुष धारण करते हैं, उन्हें हर ओर शत्रु दिखने लगते हैं। हमें सावधान रहना चाहिए कि जो लड़ाइयाँ हमारी नहीं हैं, उन्हें खोजने न निकल पड़ें।”\n\nराम ने उन्हें स्नेह से देखा, और उनके प्रश्न को हवा में नहीं उड़ाया। उन्होंने कहा: “सीते, तुम प्रेम से कहती हो, और मुझे चेताना ठीक है। शस्त्र उसी का नाश कर सकता है जो उसे थामे। पर सोचो। मैंने धनुष आनंद के लिए नहीं, एक उद्देश्य के लिए उठाया है: ताकि निर्बल निर्भय होकर जी सकें। जो रक्षक असहायों को मरते देखता रहे, उसने अपना धर्म त्याग दिया है। मैं तभी लड़ूँगा जब कोई और उपाय न हो, और कभी घृणा में नहीं।”\n\nउन्होंने धीरे से सिर हिलाया। “तब हृदय कोमल रखिए, भले हाथ सशक्त हो।” राम मुस्कुराए। “मैं यही करने का प्रयास करूँगा।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या रात्री लहानशा अग्नीच्या प्रकाशात सीता हळू बोलली. “स्वामी, मी काही विचारू का? तुम्ही ऋषींना शब्द दिला आहे, आणि मी त्याचा आदर करते. पण तुम्ही वनात तपस्व्यासारखे, रागाविना आणि हिंसेविना राहायला आलात. हातातले शस्त्र हा मोह असतो. धनुष्य बाळगणाऱ्यांना सर्वत्र शत्रू दिसू लागतात. जी भांडणे आपली नाहीत ती शोधत जाऊ नये, याची आपण काळजी घेऊया.”\n\nरामाने तिच्याकडे प्रेमाने पाहिले, आणि तिचा प्रश्न उडवून लावला नाही. तो म्हणाला, “सीते, तू प्रेमातून बोलतेस, आणि मला सावध करणे तुझे योग्यच आहे. शस्त्र ते चालवणाऱ्यालाही उद्ध्वस्त करू शकते. पण विचार कर. मी धनुष्य आनंदासाठी नव्हे तर हेतूसाठी घेतले: जेणेकरून दुर्बल निर्भयपणे जगू शकतील. असहाय्यांना मारताना जो रक्षक नुसता पाहत उभा राहतो, त्याने आपला धर्म सोडला आहे. मी केवळ दुसरा मार्ग नसतानाच लढेन, आणि कधीही द्वेषाने नाही.”\n\nतिने हळू मान डोलावली. “तर हात बलवान असला तरी हृदय कोमल ठेवा.” राम हसला. “मी तेच करण्याचा प्रयत्न करीन.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sage Agastya’s gifts",
+    "hi": {
+     "text": "ऋषि अगस्त्य के उपहार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ऋषी अगस्त्यांच्या भेटी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "For ten years, the three wandered from hermitage to hermitage, living with the sages, helping where they could. Time passed softly. Then Rama thought of the great Agastya, the sage of the south, who was said to have once drunk the ocean and tamed the Vindhya mountain.\n\nThey found his hermitage at last, among cool groves. Agastya came to the gate and said, “I have been waiting for you, Rama.” He welcomed them with every honour. Then, in his quiet room, he opened a chest and drew out gifts: the bow of Vishnu, an unfailing arrow, a quiver that never emptied and a sword in a golden sheath.\n\n“The gods gave these to me for the one who would need them,” he said. “Take them, Rama. The work ahead is greater than you know.”\n\nHe also told them where to settle: a place on the river Godavari, called Panchavati, where five banyan trees stood together. It was beautiful, and near enough to the sages to protect them. Rama thanked him, and bent to touch his feet, and felt something large turning in the world.",
+    "hi": {
+     "text": "दस वर्ष तक तीनों एक आश्रम से दूसरे आश्रम घूमते रहे, ऋषियों के साथ रहते, जहाँ संभव होता सहायता करते। समय कोमलता से बीता। फिर राम को महान अगस्त्य का स्मरण हुआ, दक्षिण के ऋषि, जिनके बारे में कहा जाता था कि उन्होंने कभी सागर पी लिया था और विंध्य पर्वत को झुका दिया था।\n\nआख़िर ठंडे उपवनों के बीच उन्हें उनका आश्रम मिला। अगस्त्य द्वार पर आए और बोले, “राम, मैं तुम्हारी ही प्रतीक्षा कर रहा था।” उन्होंने उनका हर सम्मान से स्वागत किया। फिर अपने शांत कक्ष में उन्होंने पेटी खोली और उपहार निकाले: विष्णु का धनुष, एक अचूक बाण, कभी न खाली होने वाला तरकश, और सोने की म्यान में तलवार।\n\n“देवताओं ने ये मुझे उसके लिए दिए थे जिसे इनकी आवश्यकता होगी,” उन्होंने कहा। “इन्हें लो, राम। आगे का कार्य तुम्हारे अनुमान से बड़ा है।”\n\nउन्होंने यह भी बताया कि कहाँ बसना है: गोदावरी नदी पर पंचवटी नाम का एक स्थान, जहाँ पाँच वट वृक्ष साथ खड़े थे। वह सुंदर था, और ऋषियों की रक्षा के लिए पर्याप्त निकट। राम ने धन्यवाद दिया, झुककर उनके चरण छुए, और अनुभव किया कि संसार में कुछ विशाल घूम रहा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहा वर्षे तिघे आश्रमांतून आश्रमांत भटकले, ऋषींसोबत राहिले, जमेल तिथे मदत केली. काळ मृदूपणे सरला. मग रामाला दक्षिणेचे महान ऋषी अगस्त्य आठवले, ज्यांनी म्हणे एकदा सागर प्राशन केला होता आणि विंध्य पर्वताला नमवले होते.\n\nशेवटी थंडगार वृक्षराजीत त्यांचा आश्रम सापडला. अगस्त्य दारात येऊन म्हणाले, “राम, मी तुझीच वाट पाहत होतो.” त्यांनी सर्व सन्मानाने त्यांचे स्वागत केले. मग आपल्या शांत खोलीत त्यांनी पेटी उघडली आणि भेटी काढल्या: विष्णूंचे धनुष्य, अचूक बाण, कधीही न संपणारा भाता आणि सोनेरी म्यानातली तलवार.\n\n“ज्याला याची गरज पडेल त्याच्यासाठी देवांनी ही मला दिली,” ते म्हणाले. “घे, राम. पुढचे कार्य तुला वाटते त्यापेक्षा मोठे आहे.”\n\nत्यांनी कुठे वस्ती करावी तेही सांगितले: गोदावरी नदीकाठचे पंचवटी नावाचे स्थान, जिथे पाच वडाची झाडे एकत्र उभी होती. ते सुंदर होते, आणि ऋषींचे रक्षण करता येईल इतके जवळ. रामाने आभार मानले, वाकून त्यांच्या पायांना स्पर्श केला, आणि जगात काहीतरी मोठे फिरत असल्याची त्याला जाणीव झाली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The hut at Panchavati",
+    "hi": {
+     "text": "पंचवटी की कुटिया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पंचवटीतील कुटी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the way to Panchavati, they met a huge vulture sitting on a branch. At first Rama thought it was a demon, but the great bird said gently, “Child, I knew your father. My name is Jatayu. I am king of the vultures, and I will guard Sita while you are away.” Rama embraced him with joy. The old bird became their companion in the wilderness.\n\nPanchavati was every bit as beautiful as promised: a wide meadow beside the Godavari, with mountains in the distance, and groves of flowering trees. Deer came to the door without fear. Peacocks danced at dusk.\n\nLakshmana set to work at once. He cut bamboo, bound it with creepers, spread thatch, and in a few days built a beautiful hut with a clay floor, a fine roof, and a small porch for sitting in the evening.\n\nRama came and looked at it and laughed with delight, hugging his brother. “You have built us a home,” he said. That night they sat together under the stars, listening to the river. It was the last perfectly peaceful evening they would have for a very long time.",
+    "hi": {
+     "text": "पंचवटी के मार्ग में उन्हें एक डाल पर बैठा विशाल गिद्ध मिला। पहले राम ने उसे राक्षस समझा, पर उस महान पक्षी ने कोमलता से कहा, “वत्स, मैं तुम्हारे पिता का मित्र था। मेरा नाम जटायु है। मैं गिद्धों का राजा हूँ, और तुम्हारी अनुपस्थिति में सीता की रक्षा करूँगा।” राम ने आनंद से उसे गले लगाया। वृद्ध पक्षी वन में उनका साथी बन गया।\n\nपंचवटी बिलकुल वैसी ही सुंदर थी जैसा बताया गया था: गोदावरी के किनारे एक चौड़ा मैदान, दूर पर्वत, और फूलों वाले वृक्षों के उपवन। हिरन बिना भय के द्वार तक आते। संध्या को मोर नाचते।\n\nलक्ष्मण तुरंत काम में लग गए। उन्होंने बाँस काटा, लताओं से बाँधा, छप्पर डाला, और कुछ ही दिनों में मिट्टी के फ़र्श, सुंदर छत और संध्या को बैठने के लिए छोटे-से बरामदे वाली एक मनोहर कुटिया बना दी।\n\nराम ने आकर उसे देखा और आनंद से हँसते हुए भाई को गले लगा लिया। “तुमने हमारा घर बना दिया,” उन्होंने कहा। उस रात वे तारों के नीचे साथ बैठे, नदी का स्वर सुनते हुए। वह बहुत लंबे समय के लिए उनकी आख़िरी पूर्णतः शांत संध्या थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पंचवटीच्या वाटेवर त्यांना एका फांदीवर बसलेला प्रचंड गिधाड दिसला. आधी रामाला तो राक्षस वाटला, पण त्या महान पक्ष्याने हळूच म्हटले, “बाळा, मी तुझ्या पित्याला ओळखत होतो. माझे नाव जटायू. मी गिधाडांचा राजा आहे, आणि तुम्ही दूर असताना मी सीतेचे रक्षण करीन.” रामाने आनंदाने त्याला आलिंगन दिले. तो वृद्ध पक्षी त्यांच्या रानातला सोबती झाला.\n\nपंचवटी वचनाइतकीच सुंदर होती: गोदावरीकाठचे विस्तीर्ण कुरण, दूरवर पर्वत, आणि फुललेल्या झाडांची राई. हरणे निर्भयपणे दारात येत. संध्याकाळी मोर नाचत.\n\nलक्ष्मणाने लगेच कामाला सुरुवात केली. त्याने बांबू कापले, वेलींनी बांधले, शाकारणी केली, आणि काही दिवसांत मातीचे अंगण, सुंदर छप्पर आणि संध्याकाळी बसण्यासाठी लहानशी पडवी असलेली कुटी उभी केली.\n\nराम आला, पाहून आनंदाने हसला आणि भावाला मिठी मारली. “तू आपल्याला घर बांधून दिलेस,” तो म्हणाला. त्या रात्री ते तारकांच्या खाली एकत्र बसून नदीचे संगीत ऐकत राहिले. फार काळ पुन्हा मिळणार नाही अशी ती परिपूर्ण शांत संध्याकाळ होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Rama took the bow not out of anger but out of care for the helpless. Is there someone near you who needs a protector, a friend at school or work who is being left out? Quietly stand beside them today.",
+  "hi": {
+   "text": "राम ने धनुष क्रोध से नहीं, असहायों की चिंता से उठाया। क्या आपके आसपास कोई ऐसा है जिसे रक्षक की आवश्यकता है, स्कूल या दफ़्तर का कोई साथी जिसे अलग-थलग छोड़ दिया गया है? आज चुपचाप उसके साथ खड़े हो जाइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रामाने धनुष्य रागाने नव्हे तर असहाय्यांविषयीच्या काळजीतून घेतले. तुमच्या जवळ कोणाला रक्षणकर्त्याची गरज आहे का, शाळेतला किंवा कामावरचा एखादा मित्र जो एकटा पडतो आहे? आज शांतपणे त्यांच्या शेजारी उभे राहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Strength is meant to shelter the weak, and it must always be guided by a gentle heart.",
+  "hi": {
+   "text": "बल इसलिए है कि निर्बल को शरण मिले, और उसे सदा कोमल हृदय से मार्गदर्शन मिलना चाहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सामर्थ्य दुर्बलांना आश्रय देण्यासाठी असते, आणि ते नेहमी कोमल हृदयाच्या मार्गदर्शनाखाली असावे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Aranya Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, अरण्यकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, अरण्यकांड",
+   "reviewed": false
+  }
+ }
+}

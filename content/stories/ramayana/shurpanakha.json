@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "shurpanakha",
+ "order": 13,
+ "part": "aranya",
+ "figure": {
+  "en": "Shurpanakha",
+  "hi": {
+   "text": "शूर्पणखा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शूर्पणखा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The woman who wanted a prince",
+  "hi": {
+   "text": "राजकुमार को चाहने वाली स्त्री",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजकुमार हवा असणारी स्त्री",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A rakshasi falls for Rama, and what follows brings fourteen thousand demons to the hut and one furious king to Lanka.",
+  "hi": {
+   "text": "एक राक्षसी राम पर मोहित हो जाती है, और उसके बाद जो घटता है, वह चौदह हज़ार राक्षसों को कुटिया तक और एक क्रुद्ध राजा को लंका तक ले आता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक राक्षसी रामावर भाळते, आणि त्यानंतर जे घडते त्यामुळे चौदा हजार राक्षस कुटीवर चालून येतात आणि एक संतप्त राजा लंकेत पेटून उठतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/shurpanakha-2.webp",
+   "w": 462,
+   "h": 639,
+   "caption": {
+    "en": "Shurpanakha meets Rama and Lakshmana (Ravi Varma Press)",
+    "hi": {
+     "text": "शूर्पणखा राम और लक्ष्मण से मिलती है (रवि वर्मा प्रेस)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शूर्पणखा राम-लक्ष्मणांना भेटते (रवि वर्मा प्रेस)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Press, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Surpanaka_ramayana.jpg"
+  },
+  {
+   "src": "/stories/ramayana/shurpanakha-3.webp",
+   "w": 1200,
+   "h": 881,
+   "caption": {
+    "en": "Lakshmana punishes Shurpanakha (Paithan painting, about 1890)",
+    "hi": {
+     "text": "लक्ष्मण शूर्पणखा को दंड देते हैं (पैठण चित्र, लगभग 1890)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लक्ष्मण शूर्पणखेला शिक्षा करतात (पैठणी चित्र, सुमारे 1890)",
+     "reviewed": false
+    }
+   },
+   "credit": "Sailko, CC BY 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Scuola_di_paithan,_aranyakanda_pothi,_lakshmana_recide_il_naso_di_shurpanakha,_1890_ca.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Peaceful Panchavati",
+    "hi": {
+     "text": "शांत पंचवटी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शांत पंचवटी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Many seasons passed at Panchavati. In the early morning Rama and Sita bathed in the Godavari, whose water was so cold it tingled. Lakshmana gathered fruit and roots. At night, the three sat around the fire, and Rama told stories of Ayodhya, and Sita sang softly.\n\nWinter came, with mists curling over the river. Sages visited and went on their way blessed. For a while it seemed the forest had forgotten its fear.\n\nOne morning, after prayers, Rama sat outside the hut. Sita was weaving a garland of wildflowers. Lakshmana was sharpening arrows. The air was clear and the birds were loud.\n\nNone of them noticed the figure at the edge of the clearing, who had been watching for some time. She had been walking by the river when she had seen Rama, tall and bright as a new moon, and a wish had risen in her that she could not put down. Her name was Shurpanakha, and she was the sister of Ravana, king of Lanka.",
+    "hi": {
+     "text": "पंचवटी में कई ऋतुएँ बीतीं। भोर में राम और सीता गोदावरी में स्नान करते, जिसका जल इतना ठंडा था कि देह झनझना उठती। लक्ष्मण फल और कंद-मूल लाते। रात को तीनों अग्नि के पास बैठते, राम अयोध्या की कथाएँ सुनाते, और सीता धीमे स्वर में गाती थीं।\n\nशीत आया, और नदी पर धुंध लहराने लगी। ऋषि आते और आशीर्वाद पाकर आगे बढ़ जाते। कुछ समय के लिए ऐसा लगा कि वन अपना भय भूल गया है।\n\nएक सुबह, प्रार्थना के बाद, राम कुटिया के बाहर बैठे थे। सीता जंगली फूलों की माला गूँथ रही थीं। लक्ष्मण बाण पैने कर रहे थे। हवा निर्मल थी और पक्षी चहक रहे थे।\n\nकिसी ने उस आकृति को नहीं देखा जो काफ़ी देर से प्रांगण के किनारे खड़ी देख रही थी। वह नदी के किनारे घूम रही थी जब उसने राम को देखा, ऊँचे और नए चंद्रमा से दीप्तिमान, और उसके मन में एक चाह उठी जिसे वह दबा न सकी। उसका नाम शूर्पणखा था, और वह लंका के राजा रावण की बहन थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पंचवटीत अनेक ऋतू सरले. पहाटे राम आणि सीता गोदावरीत स्नान करत, तिचे पाणी इतके थंड की अंगावर शहारे येत. लक्ष्मण फळे आणि कंदमुळे गोळा करे. रात्री तिघे अग्नीभोवती बसत, राम अयोध्येच्या गोष्टी सांगे आणि सीता हळू आवाजात गाणे गाई.\n\nहिवाळा आला, नदीवर धुक्याचे पदर वळवळू लागले. ऋषी भेटीला येत आणि आशीर्वाद घेऊन पुढे जात. काही काळ वनाला आपली भीती विसरल्यासारखे वाटले.\n\nएका सकाळी प्रार्थनेनंतर राम कुटीबाहेर बसला होता. सीता रानफुलांची माळ विणत होती. लक्ष्मण बाण तासत होता. हवा स्वच्छ होती आणि पक्ष्यांचा किलबिलाट मोठा होता.\n\nमोकळ्या जागेच्या काठावर उभी असलेली, बराच वेळ त्यांच्याकडे पाहत राहिलेली ती आकृती कोणाच्याच लक्षात आली नाही. ती नदीकाठी फिरत असताना तिला राम दिसला होता, उंच आणि नवचंद्रासारखा तेजस्वी, आणि तिच्या मनात अशी इच्छा उगवली जी तिला दाबता येईना. तिचे नाव शूर्पणखा, आणि ती लंकेचा राजा रावणाची बहीण होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The visitor in disguise",
+    "hi": {
+     "text": "वेश बदलकर आई अतिथि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वेषांतर करून आलेली पाहुणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shurpanakha was a rakshasi, huge and rough, with a loud voice and a fierce temper. But she had the power to change her shape, and now she became a woman of rare beauty, with silver ornaments and a soft step. She came into the clearing, smiling.\n\n“Who are you?” she asked Rama. “You wear the clothes of a hermit, and yet you carry a bow. A man like you should not live in a forest with a wife. I am Shurpanakha, sister of the king of Lanka. Come, be my husband. I will show you the whole of Dandaka, and make you ruler of all this.”\n\nRama answered with a smile, and a gentle courtesy. “Lady, I am married already. My wife is here. Go to my brother Lakshmana. He is young and handsome, and he has no wife with him.”\n\nIt was meant lightly, a way of turning her aside. But Shurpanakha did not hear lightness. She heard a game. And she was a woman used to getting what she wanted.",
+    "hi": {
+     "text": "शूर्पणखा राक्षसी थी, विशालकाय और कर्कश, तेज़ आवाज़ और उग्र स्वभाव वाली। पर उसमें रूप बदलने की शक्ति थी, और अब वह अद्भुत सुंदरी बन गई, चाँदी के आभूषण पहने, मंद चाल वाली। वह मुस्कुराती हुई प्रांगण में आई।\n\n“तुम कौन हो?” उसने राम से पूछा। “तुम तपस्वी के वस्त्र पहने हो, फिर भी धनुष लिए हो। तुम जैसे पुरुष को पत्नी के साथ वन में नहीं रहना चाहिए। मैं शूर्पणखा हूँ, लंका के राजा की बहन। आओ, मेरे पति बनो। मैं तुम्हें पूरा दंडकारण्य दिखाऊँगी, और इन सबका स्वामी बना दूँगी।”\n\nराम ने मुस्कुराकर, कोमल शिष्टता से उत्तर दिया। “देवी, मैं विवाहित हूँ। मेरी पत्नी यहीं है। मेरे भाई लक्ष्मण के पास जाओ। वह युवा और सुदर्शन है, और उसकी पत्नी उसके साथ नहीं है।”\n\nयह हल्के में कहा गया था, उसे टालने का एक ढंग। पर शूर्पणखा को हल्कापन सुनाई नहीं दिया। उसने इसे खेल समझा। और वह ऐसी स्त्री थी जिसे अपनी चाही वस्तु पाने की आदत थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शूर्पणखा राक्षसी होती, प्रचंड आणि रांगडी, कर्कश आवाजाची आणि तापट. पण तिच्याकडे रूप बदलण्याची शक्ती होती, आणि आता ती अप्रतिम सौंदर्याची स्त्री बनली, चांदीच्या दागिन्यांनी सजलेली, मृदू पावलांची. ती हसत मोकळ्या जागेत आली.\n\n“तुम्ही कोण?” तिने रामाला विचारले. “तुम्ही तपस्व्याचे कपडे घातले आहेत, तरीही धनुष्य बाळगता. तुमच्यासारख्या पुरुषाने पत्नीसह वनात राहू नये. मी शूर्पणखा, लंकेच्या राजाची बहीण. या, माझे पती व्हा. मी तुम्हाला सारे दंडकारण्य दाखवीन आणि या सगळ्याचा राजा करीन.”\n\nरामाने हसून आणि सौम्य शिष्टाचाराने उत्तर दिले. “देवी, मी विवाहित आहे. माझी पत्नी इथेच आहे. माझा भाऊ लक्ष्मण याच्याकडे जा. तो तरुण आणि देखणा आहे, आणि त्याची पत्नी सोबत नाही.”\n\nते हलक्याफुलक्या स्वरात म्हटले होते, तिला टाळण्याचा एक मार्ग म्हणून. पण शूर्पणखेला त्यात हलकेपणा ऐकू आला नाही. तिला तो एक खेळ वाटला. आणि ती अशी स्त्री होती जिला हवे ते मिळवण्याची सवय होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Mockery and the attack",
+    "hi": {
+     "text": "उपहास और आक्रमण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "थट्टा आणि हल्ला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "She turned to Lakshmana, who answered with some sharpness, “I am only a servant of my brother. Why should you be the wife of a servant? Go back to Rama.” She turned again to Rama and again he sent her off, and the two brothers laughed behind her back.\n\nShurpanakha’s face changed. She realised she was being mocked, and the pride of a king’s sister cannot bear to be mocked. Her eyes turned red. She pointed at Sita. “This pale, thin woman is the reason you will not have me! I will devour her, and then you will have no choice.”\n\nShe sprang at Sita, her disguise falling away and her true shape rising, huge and terrible, with fangs and claws. Sita screamed and Rama shouted, “Lakshmana!”\n\nLakshmana drew his sword in a flash. He did not kill her. In a single stroke he struck her nose and ears, and she fell back, howling with pain and shame, blood on her face. She fled into the forest, screaming for her brothers.",
+    "hi": {
+     "text": "वह लक्ष्मण की ओर मुड़ी, जिन्होंने कुछ तीखेपन से उत्तर दिया, “मैं तो अपने भाई का दास हूँ। तुम दास की पत्नी क्यों बनना चाहती हो? राम के पास लौट जाओ।” वह फिर राम की ओर मुड़ी और उन्होंने फिर उसे लौटा दिया, और दोनों भाई उसकी पीठ पीछे हँस पड़े।\n\nशूर्पणखा का मुख बदल गया। उसने जान लिया कि उसका उपहास हो रहा है, और राजा की बहन का अभिमान उपहास सह नहीं सकता। उसकी आँखें लाल हो गईं। उसने सीता की ओर उँगली उठाई। “यह पीली, दुबली स्त्री ही कारण है कि तुम मुझे नहीं अपनाते! मैं इसे खा जाऊँगी, फिर तुम्हारे पास कोई चारा न रहेगा।”\n\nवह सीता पर झपटी, उसका वेश गिर गया और असली रूप उभर आया, विशाल और भयानक, दाढ़ों और नाखूनों वाला। सीता चीख़ उठीं और राम पुकार उठे, “लक्ष्मण!”\n\nलक्ष्मण ने पलक झपकते तलवार खींच ली। उन्होंने उसे मारा नहीं। एक ही वार में उसके नाक और कान काट दिए, और वह पीड़ा और लज्जा से चीख़ती, मुख पर रक्त लिए, पीछे गिर पड़ी। वह भाइयों को पुकारती हुई वन में भाग गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ती लक्ष्मणाकडे वळली, आणि तो थोड्या तिखटपणे म्हणाला, “मी केवळ माझ्या भावाचा सेवक आहे. तू सेवकाची पत्नी का व्हावीस? रामाकडे परत जा.” ती पुन्हा रामाकडे वळली आणि त्याने पुन्हा तिला पाठवले, आणि दोघे भाऊ तिच्या पाठीमागे हसले.\n\nशूर्पणखेचा चेहरा बदलला. आपली थट्टा होत आहे हे तिला उमगले, आणि राजाच्या बहिणीचा अभिमान थट्टा सहन करू शकत नाही. तिचे डोळे लाल झाले. तिने सीतेकडे बोट दाखवले. “ही फिकट, कृश स्त्री म्हणूनच तुम्ही मला नाकारता! मी हिला खाऊन टाकीन, मग तुम्हाला पर्याय राहणार नाही.”\n\nती सीतेवर झेपावली, तिचे वेषांतर गळून पडले आणि खरे रूप समोर आले, प्रचंड आणि भयंकर, सुळे आणि नखांसह. सीता किंचाळली आणि राम ओरडला, “लक्ष्मणा!”\n\nलक्ष्मणाने क्षणात तलवार काढली. त्याने तिला मारले नाही. एकाच वाराने त्याने तिचे नाक आणि कान कापले, आणि ती वेदनेने आणि लज्जेने किंचाळत मागे पडली, चेहऱ्यावर रक्त. ती भावांना हाका मारत ओरडत वनात पळाली.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Fourteen thousand",
+    "hi": {
+     "text": "चौदह हज़ार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चौदा हजार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shurpanakha ran to her cousins Khara and Dushana, the generals of the Janasthana region, and fell at their feet. “Look what they have done to me! Two men with bows, dressed like sages, and a woman with them. Kill them all!”\n\nKhara swore to avenge her. He sent fourteen demons, a group of fierce soldiers, to kill the brothers. Rama killed them all with a few arrows. Then Khara himself marched out with fourteen thousand warriors, with Dushana and the demon Trishira beside him. They came with horns blowing and chariots roaring, and the ground shook.\n\nRama sent Sita and Lakshmana to a nearby cave. “Guard her,” he said to his brother. “I will face this alone.” Lakshmana hesitated, then obeyed.\n\nRama put on his armour and took up the bow. He stood alone in the clearing, with the whole demon army before him, as the first of the dark arrows began to fall. Sita, from the mouth of the cave, put her hand to her mouth. She could not look away.",
+    "hi": {
+     "text": "शूर्पणखा अपने बंधु खर और दूषण के पास दौड़ी, जो जनस्थान के सेनापति थे, और उनके चरणों में गिर पड़ी। “देखो इन्होंने मेरा क्या हाल किया! धनुष लिए दो पुरुष, ऋषियों जैसे वस्त्र में, और उनके साथ एक स्त्री। इन सबको मार डालो!”\n\nखर ने बदला लेने की शपथ ली। उसने भाइयों को मारने के लिए चौदह राक्षस, उग्र योद्धाओं की एक टोली, भेजी। राम ने कुछ ही बाणों से उन सबको मार गिराया। तब स्वयं खर चौदह हज़ार योद्धाओं के साथ निकला, उसके साथ दूषण और राक्षस त्रिशिरा थे। वे सींग बजाते, रथ घरघराते आए, और धरती काँप उठी।\n\nराम ने सीता और लक्ष्मण को पास की गुफा में भेज दिया। “इसकी रक्षा करो,” उन्होंने भाई से कहा। “मैं अकेला इनका सामना करूँगा।” लक्ष्मण झिझके, फिर मान गए।\n\nराम ने कवच पहना और धनुष उठाया। वे प्रांगण में अकेले खड़े थे, सामने पूरी राक्षस सेना, और काले बाणों की पहली बौछार गिरने लगी। गुफा के द्वार से सीता ने हाथ मुँह पर रख लिया। वे नज़र हटा न सकीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शूर्पणखा जनस्थानाचे सेनापती असलेल्या चुलत भावांकडे, खर आणि दूषण यांच्याकडे धावली आणि त्यांच्या पायांवर कोसळली. “बघा त्यांनी माझे काय केले! धनुष्य घेतलेले दोघे पुरुष, ऋषीसारखे कपडे घातलेले, आणि सोबत एक स्त्री. त्या सर्वांना मारा!”\n\nखराने तिचा बदला घेण्याची शपथ घेतली. त्याने चौदा राक्षस, एक उग्र सैनिकांची तुकडी, भावांना मारायला पाठवली. रामाने काही बाणांत त्या सर्वांचा अंत केला. मग खर स्वतः चौदा हजार योद्ध्यांसह निघाला, दूषण आणि राक्षस त्रिशिरा त्याच्या शेजारी. शिंगे फुंकत, रथ गडगडत ते आले, आणि जमीन हादरली.\n\nरामाने सीता आणि लक्ष्मणाला जवळच्या गुहेत पाठवले. “तिचे रक्षण कर,” तो भावाला म्हणाला. “याला मी एकटाच तोंड देईन.” लक्ष्मण कचरला, मग त्याने आज्ञा पाळली.\n\nरामाने कवच घातले आणि धनुष्य उचलले. तो मोकळ्या जागेत एकटा उभा राहिला, समोर संपूर्ण राक्षसी सेना, आणि काळ्या बाणांचा पहिला वर्षाव सुरू झाला. गुहेच्या तोंडाशी सीतेने तोंडावर हात ठेवला. तिला नजर हटवता येईना.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "One against an army",
+    "hi": {
+     "text": "एक अकेला, सामने सेना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक विरुद्ध सेना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "What followed, Valmiki says, was a thing no one had ever seen. Rama stood alone, and his arrows fell like rain. He moved so fast that the demons could not see where he stood. Each arrow found its mark. Chariots shattered, banners fell, and the warriors found themselves facing a single man who seemed to be everywhere at once.\n\nIn a short time the army lay in ruins. Dushana fell. Trishira fell. Khara, mad with rage, rushed at Rama in his chariot, and the two fought long and fiercely. At last Rama took a blazing arrow, a gift from Agastya, and it struck Khara down.\n\nThe silence after the battle was enormous. The forest, which had held its breath, sighed. Birds, hesitant, began to sing again. Sages came out from their hiding places and stared in wonder.\n\nLakshmana and Sita came out from the cave. Sita ran to Rama and embraced him, laughing and crying. Rama was tired but unhurt, and he leaned his forehead against hers. The great sorrow was still to come, but this morning, they were safe.",
+    "hi": {
+     "text": "वाल्मीकि कहते हैं कि उसके बाद जो हुआ, वैसा किसी ने कभी नहीं देखा था। राम अकेले खड़े थे, और उनके बाण वर्षा की तरह गिरे। वे इतनी तेज़ी से चलते कि राक्षस देख न पाते कि वे कहाँ खड़े हैं। हर बाण निशाने पर लगा। रथ चूर हुए, ध्वजाएँ गिरीं, और योद्धाओं ने अपने सामने एक अकेले पुरुष को पाया जो एक साथ हर जगह दिखता था।\n\nथोड़े ही समय में सेना खंडहर बन गई। दूषण गिरा। त्रिशिरा गिरा। खर क्रोध में पागल होकर रथ में राम पर टूट पड़ा, और दोनों बहुत देर तक भयंकर युद्ध करते रहे। अंत में राम ने अगस्त्य के उपहार का एक दहकता बाण लिया, और उसने खर को मार गिराया।\n\nयुद्ध के बाद का सन्नाटा विशाल था। वन, जिसने साँस रोक रखी थी, लंबी साँस छोड़ बैठा। पक्षी, सकुचाते हुए, फिर गाने लगे। ऋषि अपने छिपने के स्थानों से निकलकर विस्मय से देखते रह गए।\n\nलक्ष्मण और सीता गुफा से बाहर आए। सीता दौड़कर राम से लिपट गईं, हँसती और रोती हुई। राम थके थे पर अक्षत, और उन्होंने अपना माथा उनके माथे से टिका दिया। बड़ा शोक अभी आना था, पर आज की सुबह वे सुरक्षित थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाल्मीकी सांगतात, त्यानंतर जे घडले ते कोणीही कधी पाहिले नव्हते. राम एकटा उभा होता, आणि त्याचे बाण पावसासारखे कोसळत होते. तो इतक्या वेगाने हालचाल करत होता की राक्षसांना तो कुठे उभा आहे हे दिसेना. प्रत्येक बाण नेमका लागत होता. रथ चुरचुरले, ध्वज कोसळले, आणि योद्ध्यांना एका अशा माणसाला सामोरे जावे लागले जो एकाच वेळी सर्वत्र असल्यासारखा वाटत होता.\n\nअल्पावधीत सेना उद्ध्वस्त झाली. दूषण पडला. त्रिशिरा पडला. संतापाने बेभान झालेला खर रथातून रामावर धावला, आणि दोघांनी दीर्घ आणि उग्र झुंज दिली. शेवटी रामाने अगस्त्यांनी दिलेला तेजस्वी बाण घेतला, आणि त्याने खराला पाडले.\n\nयुद्धानंतरची शांतता प्रचंड होती. श्वास रोखून बसलेल्या वनाने सुस्कारा सोडला. पक्षी, संकोचत, पुन्हा गाऊ लागले. लपलेल्या जागांतून ऋषी बाहेर आले आणि आश्चर्याने पाहत राहिले.\n\nलक्ष्मण आणि सीता गुहेतून बाहेर आले. सीता रामाकडे धावली आणि हसत रडत त्याला बिलगली. राम थकला होता पण अक्षत होता, आणि त्याने आपले कपाळ तिच्या कपाळावर टेकवले. मोठे दुःख अजून यायचे होते, पण त्या सकाळी ते सुरक्षित होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The messenger flies to Lanka",
+    "hi": {
+     "text": "दूत उड़ चला लंका की ओर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लंकेकडे धावलेला दूत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "But one demon, Akampana, had survived. He fled to Lanka and went straight to Ravana. “King, the whole army of Janasthana is destroyed. One man did it, alone, on foot. His name is Rama.”\n\nRavana rose in fury. “Who is this Rama?” Akampana described him. “Do not fight him,” the demon warned. “You cannot kill him in battle. But there is one way to hurt him. He has a wife, Sita. She is more beautiful than any woman in the three worlds. Take her, and he will die of grief.”\n\nRavana was silent. A new thought moved in him, slow and dark.\n\nThen Shurpanakha herself arrived, her face scarred, and fell weeping at his feet. She told him her story, but she told it in a way that suited her, leaving out her own part. She spoke of Sita’s beauty at great length, and she saw the light kindle in her brother’s eyes.\n\nAnd so, from a petty insult and a hurt pride, a great fire began. A king listened to a whisper, and his mind began to turn toward the south.",
+    "hi": {
+     "text": "पर एक राक्षस, अकंपन, बच गया था। वह लंका भागा और सीधे रावण के पास पहुँचा। “राजन्, जनस्थान की पूरी सेना नष्ट हो गई। एक पुरुष ने ऐसा किया, अकेले, पैदल। उसका नाम राम है।”\n\nरावण क्रोध से उठ खड़ा हुआ। “कौन है यह राम?” अकंपन ने उसका वर्णन किया। “उससे युद्ध मत कीजिए,” राक्षस ने चेताया। “युद्ध में आप उसे नहीं मार सकते। पर उसे चोट पहुँचाने का एक उपाय है। उसकी पत्नी है, सीता। वह तीनों लोकों की किसी भी स्त्री से अधिक सुंदर है। उसे हर लीजिए, और वह शोक में मर जाएगा।”\n\nरावण चुप रहा। उसके भीतर एक नया विचार धीमे, काले रूप में हिलने लगा।\n\nतब स्वयं शूर्पणखा पहुँची, उसका मुख कटा हुआ, और रोती हुई उसके चरणों में गिर पड़ी। उसने अपनी कथा सुनाई, पर अपने अनुकूल ढंग से, अपनी भूमिका को छोड़कर। उसने सीता के सौंदर्य का बड़ा विस्तार से वर्णन किया, और उसने अपने भाई की आँखों में दीप जलता देखा।\n\nऔर इस तरह एक तुच्छ अपमान और आहत अभिमान से एक बड़ी आग भड़क उठी। एक राजा ने एक कानाफूसी सुनी, और उसका मन दक्षिण की ओर मुड़ने लगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण एक राक्षस, अकंपन, जिवंत वाचला होता. तो लंकेत पळाला आणि सरळ रावणाकडे गेला. “राजा, जनस्थानाची सारी सेना नष्ट झाली. एकाने केले, एकट्याने, पायी. त्याचे नाव राम.”\n\nरावण संतापाने उठला. “हा राम कोण?” अकंपनाने त्याचे वर्णन केले. “त्याच्याशी लढू नका,” राक्षसाने सावध केले. “तुम्ही त्याला युद्धात मारू शकत नाही. पण त्याला दुखावण्याचा एक मार्ग आहे. त्याची पत्नी आहे, सीता. ती तिन्ही लोकांतल्या कोणत्याही स्त्रीपेक्षा सुंदर आहे. तिला पळवा, म्हणजे तो दुःखाने मरेल.”\n\nरावण शांत राहिला. त्याच्या मनात एक नवा विचार हळू आणि काळोखा सरकला.\n\nमग स्वतः शूर्पणखा आली, चेहऱ्यावर वण घेऊन, आणि रडत त्याच्या पायांवर पडली. तिने आपली कथा सांगितली, पण तिला सोयीस्कर अशा प्रकारे, स्वतःचा भाग वगळून. तिने सीतेच्या सौंदर्याचे दीर्घ वर्णन केले, आणि तिला भावाच्या डोळ्यांत ज्योत पेटताना दिसली.\n\nआणि अशा प्रकारे, क्षुल्लक अपमान आणि दुखावलेल्या अभिमानातून मोठा वणवा पेटला. एका राजाने कुजबुज ऐकली, आणि त्याचे मन दक्षिणेकडे वळू लागले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "A small hurt, not forgiven, grew into an army and a war. Is there a small grudge you are feeding? Try, today, to let go of one thing you have been replaying in your mind.",
+  "hi": {
+   "text": "एक छोटी-सी चोट, जो क्षमा न की गई, सेना और युद्ध में बदल गई। क्या कोई छोटा मनमुटाव है जिसे आप पाल रहे हैं? आज कोई एक बात, जिसे आप मन में बार-बार दोहरा रहे थे, जाने देने का प्रयास कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक छोटी जखम, क्षमा न केल्यामुळे, सैन्यात आणि युद्धात वाढली. तुम्ही एखादे छोटेसे वैर जोपासत आहात का? आज मनात पुन:पुन्हा घोळवत असलेली एखादी गोष्ट सोडून द्यायचा प्रयत्न करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Wounded pride, left unhealed, can set the whole world on fire.",
+  "hi": {
+   "text": "आहत अभिमान, यदि उपचारित न हो, तो पूरे संसार में आग लगा सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुखावलेला अभिमान बरा झाला नाही तर सारे जग पेटवू शकतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Aranya Kanda",
+  "hi": {
+   "text": "वाल्मीकि रामायण, अरण्यकांड",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, अरण्यकांड",
+   "reviewed": false
+  }
+ }
+}

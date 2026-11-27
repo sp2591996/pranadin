@@ -1,10 +1,10 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story",
- "version": "2026-11-27.2",
+ "version": "2026-11-27.3",
  "status": "draft",
  "id": "lanka-fire",
- "order": 11,
+ "order": 23,
  "part": "sundara",
  "figure": {
   "en": "Hanuman",
@@ -18,24 +18,24 @@
   }
  },
  "title": {
-  "en": "Lanka on fire",
+  "en": "The tail that set a city ablaze",
   "hi": {
-   "text": "जलती हुई लंका",
+   "text": "वह पूँछ जिसने नगर जला डाला",
    "reviewed": false
   },
   "mr": {
-   "text": "पेटलेली लंका",
+   "text": "नगर पेटवणारी शेपटी",
    "reviewed": false
   }
  },
  "teaser": {
-  "en": "Hanuman lets himself be captured, and the demon king makes the worst mistake of his life: he sets the monkey's tail on fire.",
+  "en": "He could have slipped away unseen. Instead, Hanuman chooses to be caught, and walks into the court of the mightiest king on earth with a message and a tail that will not burn.",
   "hi": {
-   "text": "हनुमान स्वयं को बंदी बनने देते हैं, और राक्षसराज अपने जीवन की सबसे बड़ी भूल कर बैठता है: वह वानर की पूँछ में आग लगा देता है।",
+   "text": "वे चुपचाप निकल सकते थे। पर हनुमान पकड़े जाना चुनते हैं, और संदेश तथा एक ऐसी पूँछ लेकर, जो जलेगी नहीं, धरती के सबसे बलवान राजा के दरबार में जा पहुँचते हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "हनुमान स्वतःला पकडू देतो आणि राक्षसराजा आयुष्यातली सर्वात मोठी चूक करतो: वानराच्या शेपटीला आग लावतो.",
+   "text": "तो नजरेआड निसटून जाऊ शकला असता. पण हनुमान स्वतःहून पकडला जाणे निवडतो, आणि एक निरोप आणि न जळणारी शेपटी घेऊन पृथ्वीवरच्या सर्वांत बलवान राजाच्या दरबारात जातो.",
    "reviewed": false
   }
  },
@@ -104,18 +104,18 @@
      "reviewed": false
     },
     "mr": {
-     "text": "उद्ध्वस्त वन",
+     "text": "वाटिकेचा विध्वंस",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Before going back, Hanuman decided Ravana should feel Rama's power. He tore up the trees of the Ashoka grove, smashed its pavilions and gates, and roared Rama's name so loudly that all Lanka woke up.\n\nWave after wave of demon soldiers rushed at him. He fought them all, swinging an iron beam. Even Ravana's son Akshaya fell.",
+    "en": "Hanuman bowed to Sita and prepared to leave. But as he looked over the beautiful grove, a thought rose in him. “I have found her. But I have not yet seen what Ravana's strength is. A good messenger learns how strong his enemy truly is.”\n\nSo he stood up in the branches, and his body grew, and he began to tear down the Ashoka grove. Trees came up by their roots. Pavilions fell. The lakes were churned to mud. Only the simshapa tree where Sita sat was left untouched. Then he climbed a gateway, and roared: “Victory to Rama and Lakshmana! I am Hanuman, servant of Rama, and a thousand Ravanas cannot stand against me!”\n\nAll Lanka woke. Demon guards ran from every side with spears and clubs. Hanuman tore a heavy iron bar from the gateway and swung it like a stick. Hundreds fell, and great generals after them, and even Ravana's own young son Akshaya, fierce as a fire, was brought down. The grove ran with the noise of battle, and the city trembled.",
     "hi": {
-     "text": "लौटने से पहले हनुमान ने तय किया कि रावण को राम के बल का एहसास होना चाहिए। उन्होंने अशोक वाटिका के पेड़ उखाड़ दिए, उसके मंडप और द्वार तोड़ डाले, और राम का नाम इतनी ज़ोर से गरजे कि पूरी लंका जाग उठी।\n\nराक्षस सैनिकों की लहर पर लहर उन पर टूट पड़ी। उन्होंने लोहे की भारी गदा घुमाकर सबसे युद्ध किया। रावण का पुत्र अक्षय कुमार भी मारा गया।",
+     "text": "हनुमान ने सीता को प्रणाम किया और जाने को तैयार हुए। पर सुंदर वाटिका को देखते हुए उनके मन में एक विचार उठा। “मैंने उन्हें खोज लिया। पर रावण का बल क्या है, यह मैंने अभी नहीं देखा। अच्छा दूत वही है जो जान ले कि शत्रु कितना बलवान है।”\n\nइसलिए वे डालियों में खड़े हो गए, उनका शरीर बढ़ा, और वे अशोक वाटिका उजाड़ने लगे। पेड़ जड़ समेत उखड़ गए। मंडप गिर पड़े। सरोवर मथकर कीचड़ हो गए। केवल वह शिंशपा वृक्ष, जहाँ सीता बैठी थीं, अछूता रहा। फिर वे एक द्वार पर चढ़े और गरजे: “राम और लक्ष्मण की जय! मैं राम का दास हनुमान हूँ, और हज़ार रावण भी मेरे सामने नहीं ठहर सकते!”\n\nसारी लंका जाग उठी। भाले और गदाएँ लिए राक्षस पहरेदार चारों ओर से दौड़े। हनुमान ने द्वार से लोहे की भारी अर्गला उखाड़ी और उसे डंडे की तरह घुमाया। सैकड़ों गिरे, उनके बाद बड़े-बड़े सेनापति, और रावण का अपना युवा पुत्र अक्षय भी, जो आग-सा प्रचंड था, धराशायी हुआ। वाटिका युद्ध के शोर से गूँज उठी, और नगर काँप गया।",
      "reviewed": false
     },
     "mr": {
-     "text": "परतण्याआधी हनुमानाने ठरवले की रावणाला रामाच्या सामर्थ्याची जाणीव झालीच पाहिजे. त्याने अशोकवनातील झाडे उपटली, मंडप आणि द्वारे फोडली आणि रामाचे नाव इतक्या जोरात गर्जले की सारी लंका जागी झाली.\n\nराक्षस सैनिकांच्या लाटांमागून लाटा त्याच्यावर धावल्या. त्याने लोखंडी दंड फिरवत त्या सर्वांना लोळवले. रावणाचा पुत्र अक्षयही पडला.",
+     "text": "हनुमानाने सीतेला नमस्कार केला आणि जायची तयारी केली. पण त्या सुंदर वाटिकेकडे पाहताना त्याच्या मनात एक विचार उठला. “मला ती सापडली आहे. पण रावणाचे बळ किती आहे ते मी अजून पाहिलेले नाही. चांगला दूत शत्रू खरोखर किती बलवान आहे ते जाणून घेतो.”\n\nम्हणून तो फांद्यांत उभा राहिला, त्याचे शरीर वाढले, आणि त्याने अशोकवन उद्ध्वस्त करायला सुरुवात केली. झाडे मुळांसकट उपटली गेली. मंडप कोसळले. तलाव ढवळून चिखल झाले. फक्त सीता बसली होती तो शिंशपा वृक्ष अस्पर्श राहिला. मग तो एका प्रवेशद्वारावर चढला आणि गर्जला: “राम आणि लक्ष्मणांचा जय! मी रामांचा दास हनुमान आहे, आणि हजार रावण माझ्यासमोर टिकू शकणार नाहीत!”\n\nसारी लंका जागी झाली. राक्षस पहारेकरी भाले आणि गदा घेऊन चारही बाजूंनी धावत आले. हनुमानाने दरवाज्यातली एक जड लोखंडी आडवी पट्टी उपटली आणि काठीसारखी फिरवली. शेकडो कोसळले, त्यांच्या मागून मोठे सेनापती, आणि अग्नीसारखा उग्र रावणाचा स्वतःचा तरुण मुलगा अक्षयही पडला. वाटिकेत युद्धाचा गोंगाट घुमला, आणि नगर हादरले.",
      "reviewed": false
     }
    }
@@ -124,22 +124,22 @@
    "title": {
     "en": "Captured on purpose",
     "hi": {
-     "text": "जानबूझकर बंदी",
+     "text": "जान-बूझकर बंदी",
      "reviewed": false
     },
     "mr": {
-     "text": "मुद्दाम पकडला गेलेला",
+     "text": "मुद्दाम पकडला गेला",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Then came Indrajit, Ravana's eldest son, the greatest warrior of Lanka. He shot the Brahma weapon, and Hanuman, out of respect for Brahma, let himself be bound. “Good,” he thought. “Now I can meet Ravana face to face.”\n\nThey dragged him into the golden court. Ravana sat on a crystal throne, ten crowned heads glittering, the most powerful king on earth.",
+    "en": "At last Ravana sent his eldest son. Indrajit, the conqueror of Indra, was the finest warrior in Lanka. He strode into the grove with a calm and dangerous smile.\n\nHanuman recognised that smile. He fought Indrajit in the air, dodging arrows as they hissed past, and for a while neither could hurt the other. Then Indrajit raised the Brahmastra, the weapon of Brahma, and aimed it. Hanuman remembered a boon: no weapon of Brahma could hold him for long. But he also remembered Brahma's honour, and he did not wish to insult it.\n\n“Good,” he thought. “Let it bind me. Now I shall meet Ravana face to face.”\n\nHe let the weapon strike. He fell. The demons swarmed over him with ropes, and the moment the ropes touched him the Brahma magic left him, but Hanuman said nothing. He let himself be dragged through the streets, past jeering crowds, into the golden court where Ravana sat on a throne of crystal, ten crowned heads glittering, the greatest king the world had known.",
     "hi": {
-     "text": "तब आया इंद्रजीत, रावण का ज्येष्ठ पुत्र, लंका का सबसे बड़ा योद्धा। उसने ब्रह्मास्त्र चलाया, और हनुमान ने ब्रह्माजी के सम्मान में स्वयं को बँधने दिया। “अच्छा है,” उन्होंने सोचा। “अब मैं रावण से आमने-सामने बात कर सकूँगा।”\n\nवे उन्हें घसीटकर स्वर्णमयी सभा में ले गए। रावण स्फटिक के सिंहासन पर बैठा था, दसों मुकुटधारी सिर दमकते हुए, धरती का सबसे शक्तिशाली राजा।",
+     "text": "अंत में रावण ने अपने ज्येष्ठ पुत्र को भेजा। इंद्र को जीतने वाला इंद्रजित लंका का सबसे श्रेष्ठ योद्धा था। वह शांत और ख़तरनाक मुस्कान लिए वाटिका में उतरा।\n\nहनुमान उस मुस्कान को पहचान गए। उन्होंने इंद्रजित से आकाश में युद्ध किया, सनसनाते बाणों से बचते रहे, और कुछ देर कोई किसी को चोट न पहुँचा सका। फिर इंद्रजित ने ब्रह्मा का अस्त्र, ब्रह्मास्त्र, उठाया और साधा। हनुमान को एक वरदान याद आया: ब्रह्मा का कोई अस्त्र उन्हें देर तक बाँध नहीं सकेगा। पर उन्हें ब्रह्मा का मान भी याद आया, और वे उसका अपमान नहीं करना चाहते थे।\n\n“अच्छा है,” उन्होंने सोचा। “यह मुझे बाँध ले। अब मैं रावण से आमने-सामने मिलूँगा।”\n\nउन्होंने अस्त्र को लगने दिया। वे गिर पड़े। राक्षस रस्सियाँ लिए उन पर टूट पड़े, और रस्सियाँ छूते ही ब्रह्मास्त्र का प्रभाव उतर गया, पर हनुमान कुछ न बोले। वे अपने को सड़कों पर घसीटने देते रहे, हँसती-ताने मारती भीड़ के बीच से, उस सुनहरे दरबार तक जहाँ रावण स्फटिक के सिंहासन पर बैठा था, दस मुकुटधारी सिर चमकते हुए, संसार का सबसे बड़ा राजा।",
      "reviewed": false
     },
     "mr": {
-     "text": "मग रावणाचा ज्येष्ठ पुत्र, लंकेचा सर्वश्रेष्ठ योद्धा इंद्रजित आला. त्याने ब्रह्मास्त्र सोडले आणि ब्रह्मदेवाच्या आदरापोटी हनुमानाने स्वतःला बांधू दिले. “छान,” त्याने मनात विचार केला. “आता मला रावणाला समोरासमोर भेटता येईल.”\n\nत्यांनी त्याला सोन्याच्या दरबारात ओढत नेले. रावण स्फटिकाच्या सिंहासनावर बसला होता, दहा मुकुटधारी मस्तके चमकत होती, पृथ्वीवरचा सर्वात शक्तिशाली राजा.",
+     "text": "शेवटी रावणाने आपल्या ज्येष्ठ पुत्राला पाठवले. इंद्राला जिंकणारा इंद्रजित लंकेतला सर्वश्रेष्ठ योद्धा होता. तो शांत आणि धोकादायक हसू घेऊन वाटिकेत आला.\n\nहनुमानाने ते हसू ओळखले. तो इंद्रजिताशी आकाशात लढला, सूं सूं करत आलेले बाण चुकवत, आणि काही काळ दोघांपैकी कोणीही कोणाला इजा करू शकले नाही. मग इंद्रजिताने ब्रह्मास्त्र, ब्रह्मदेवाचे शस्त्र, उचलले आणि नेम धरला. हनुमानाला वरदान आठवले: ब्रह्मदेवाचे कोणतेही शस्त्र त्याला फार काळ बांधू शकणार नव्हते. पण त्याला ब्रह्मदेवाचा मान सुद्धा आठवला, आणि त्याचा अपमान करायची त्याची इच्छा नव्हती.\n\n“ठीक आहे,” त्याने विचार केला. “त्याला मला बांधू दे. आता मी रावणाला समोरासमोर भेटेन.”\n\nत्याने अस्त्राला आपल्यावर आदळू दिले. तो कोसळला. राक्षस दोऱ्या घेऊन त्याच्यावर तुटून पडले, आणि दोऱ्या स्पर्श करताच ब्रह्मास्त्राची शक्ती त्याला सोडून गेली, पण हनुमान काही बोलला नाही. त्याने स्वतःला रस्त्यांतून फरपटत नेऊ दिले, टोमणे मारणाऱ्या गर्दीतून, स्फटिकाच्या सिंहासनावर रावण बसला होता त्या सोनेरी दरबारात, दहा मुकुट घातलेली डोकी लखलखत होती, जगाने पाहिलेला सर्वांत महान राजा.",
      "reviewed": false
     }
    },
@@ -158,13 +158,13 @@
     }
    },
    "text": {
-    "en": "Hanuman spoke without fear. “I am the messenger of Rama. Return Sita and ask his forgiveness, and you will live. Otherwise all your gold cannot save you.”\n\nRavana's eyes blazed. “Kill this monkey!” His good brother Vibhishana stepped forward: “Brother, dharma does not allow killing a messenger.” Ravana sneered. “Then burn his tail. A monkey loves his tail most.”",
+    "en": "Ravana looked at the monkey in chains. He was cold, curious and furious at once. “Who are you? Who sent you? Did Indra send you? Or Kubera, or Yama?”\n\nHanuman lifted his head. “I am the messenger of Rama, son of Dasharatha. Listen, King of Lanka: you are learned, and you have won great boons through penance. Do not waste them. Return Sita with honour and beg forgiveness. Otherwise no wall, no gold, no army will keep you from Rama's arrows. No god or demon can save a man who has set himself against dharma.”\n\nA great silence fell. Then Ravana's eyes flashed red. “Kill this insolent monkey!” he roared.\n\nSoldiers sprang forward. But his brother Vibhishana, who stood among the ministers, stepped up. “Brother, be calm,” he said. “A messenger must not be killed. That is the law that kings have always followed. Punish him in another way if you must.”\n\nRavana, jaw tight, thought for a moment. A cruel smile spread across his face. “Then burn his tail. A monkey loves his tail more than his life.”",
     "hi": {
-     "text": "हनुमान निर्भय होकर बोले। “मैं राम का दूत हूँ। सीता को लौटा दो और उनसे क्षमा माँग लो, तो तुम जीवित रहोगे। नहीं तो तुम्हारा सारा सोना तुम्हें नहीं बचा सकेगा।”\n\nरावण की आँखें धधक उठीं। “इस वानर को मार डालो!” उसके सज्जन भाई विभीषण आगे आए: “भैया, धर्म दूत को मारने की अनुमति नहीं देता।” रावण ने उपहास किया। “तो इसकी पूँछ जला दो। वानर को पूँछ सबसे प्यारी होती है।”",
+     "text": "रावण ने बेड़ियों में जकड़े वानर को देखा। वह एक साथ ठंडा, जिज्ञासु और क्रोधित था। “तू कौन है? तुझे किसने भेजा? इंद्र ने भेजा? या कुबेर ने, या यम ने?”\n\nहनुमान ने सिर उठाया। “मैं दशरथ-पुत्र राम का दूत हूँ। सुनो, लंका के राजा: तुम विद्वान हो, और तप से तुमने बड़े वरदान पाए हैं। उन्हें व्यर्थ मत करो। सीता को सम्मान सहित लौटा दो और क्षमा माँगो। नहीं तो कोई दीवार, कोई सोना, कोई सेना तुम्हें राम के बाणों से नहीं बचाएगी। जो मनुष्य धर्म के विरुद्ध खड़ा हो, उसे कोई देवता या राक्षस नहीं बचा सकता।”\n\nघोर सन्नाटा छा गया। फिर रावण की आँखें लाल हो उठीं। “इस ढीठ वानर को मार डालो!” वह गरजा।\n\nसैनिक झपटे। पर मंत्रियों के बीच खड़े उसके भाई विभीषण आगे आए। “भैया, शांत हो जाइए,” उन्होंने कहा। “दूत को मारा नहीं जाता। यही नियम राजा सदा से निभाते आए हैं। चाहें तो इसे किसी और तरह दंड दीजिए।”\n\nरावण ने जबड़े भींचकर क्षण भर सोचा। उसके मुख पर क्रूर मुस्कान फैल गई। “तो इसकी पूँछ जला दो। वानर को अपनी पूँछ प्राणों से प्यारी होती है।”",
      "reviewed": false
     },
     "mr": {
-     "text": "हनुमान निर्भयपणे बोलला. “मी रामाचा दूत आहे. सीतेला परत कर आणि त्याची क्षमा माग, म्हणजे तू जगशील. नाहीतर तुझे सारे सोने तुला वाचवू शकणार नाही.”\n\nरावणाचे डोळे पेटले. “या वानराला ठार करा!” त्याचा सज्जन भाऊ बिभीषण पुढे झाला: “दादा, धर्म दूताला मारण्याची परवानगी देत नाही.” रावण कुत्सितपणे म्हणाला. “मग त्याची शेपटी जाळा. वानराला आपली शेपटी सर्वात प्रिय असते.”",
+     "text": "रावणाने साखळदंडातल्या त्या वानराकडे पाहिले. तो एकाच वेळी थंड, उत्सुक आणि संतप्त होता. “तू कोण? तुला कोणी पाठवले? इंद्राने पाठवले का? की कुबेराने, की यमाने?”\n\nहनुमानाने डोके वर केले. “मी दशरथपुत्र रामांचा दूत आहे. ऐक, लंकेच्या राजा: तू विद्वान आहेस, आणि तपाने तू मोठी वरदाने मिळवली आहेस. ती वाया घालवू नकोस. सीतेला सन्मानाने परत कर आणि क्षमा माग. नाहीतर कोणतीही भिंत, कोणतेही सोने, कोणतेही सैन्य तुला रामांच्या बाणांपासून वाचवणार नाही. जो धर्माविरुद्ध उभा राहिला, त्याला कोणताही देव किंवा राक्षस वाचवू शकत नाही.”\n\nप्रचंड शांतता पसरली. मग रावणाचे डोळे लाल झाले. “या उद्धट वानराला मारा!” तो गरजला.\n\nसैनिक पुढे झेपावले. पण मंत्र्यांमध्ये उभा असलेला त्याचा भाऊ विभीषण पुढे झाला. “भाऊ, शांत व्हा,” तो म्हणाला. “दूताला मारू नये. राजे नेहमी हा नियम पाळत आले आहेत. शिक्षा करायचीच असेल तर दुसऱ्या मार्गाने करा.”\n\nरावणाने जबडा आवळून क्षणभर विचार केला. त्याच्या चेहऱ्यावर क्रूर हसू पसरले. “मग याची शेपटी जाळा. वानराला आपल्या जीवापेक्षा शेपटी प्रिय असते.”",
      "reviewed": false
     }
    }
@@ -182,13 +182,37 @@
     }
    },
    "text": {
-    "en": "The demons wrapped Hanuman's tail in rags, soaked it in oil and set it alight, and paraded him through the streets as crowds laughed.\n\nWhen Sita heard, she prayed to the fire god: “If I have been faithful, be cool to Hanuman.” And the fire did not burn him. Then Hanuman shrank, slipped his bonds, grew huge and leapt from rooftop to rooftop. Palace after palace caught fire. Golden Lanka burned like a sunset.",
+    "en": "The demons laughed and set to work. They wrapped Hanuman's tail in rags and soaked it in oil. Hanuman made his tail grow longer and longer, until they ran out of cloth, and the crowd cheered at the fun. At last they struck a flame, and the tail blazed like a torch. They led him through the streets, beating drums, while children and merchants clapped and jeered.\n\nHanuman bore it quietly. He was not angry. He was waiting.\n\nIn the Ashoka grove, a woman heard what was happening. Sita closed her eyes. She folded her hands and said, from the depths of her heart, “If I have been true to my husband, if I have lived by dharma, then, O Fire, be cool to Hanuman.”\n\nAnd the fire obeyed. It burned bright, but Hanuman felt only a gentle coolness, like a breeze from a snow mountain. He smiled. Then he shrank, slipped easily out of his chains, and sprang to the top of a palace, with the whole street staring up in terror.",
     "hi": {
-     "text": "राक्षसों ने हनुमान की पूँछ पर चीथड़े लपेटे, तेल में भिगोए और आग लगा दी, और उन्हें गलियों में घुमाया जबकि भीड़ हँसती रही।\n\nजब सीता ने यह सुना, तो उन्होंने अग्निदेव से प्रार्थना की: “यदि मैं पतिव्रता हूँ, तो हनुमान के लिए शीतल हो जाओ।” और आग ने उन्हें नहीं जलाया। फिर हनुमान छोटे हुए, बंधन से निकल आए, विशाल बने और छत-छत कूदने लगे। महल-पर-महल आग पकड़ने लगे। सोने की लंका सूर्यास्त की तरह जल उठी।",
+     "text": "राक्षस हँसते हुए काम में जुट गए। उन्होंने हनुमान की पूँछ पर चीथड़े लपेटे और उन्हें तेल में भिगो दिया। हनुमान ने अपनी पूँछ लंबी, और लंबी करते गए, जब तक कपड़ा ख़त्म न हो गया, और भीड़ इस तमाशे पर तालियाँ बजाने लगी। आख़िर उन्होंने आग लगाई, और पूँछ मशाल की तरह भभक उठी। वे उन्हें नगाड़े बजाते गलियों में घुमाने लगे, जबकि बच्चे और व्यापारी ताली बजाते और हँसी उड़ाते रहे।\n\nहनुमान ने चुपचाप सह लिया। वे क्रोधित नहीं थे। वे प्रतीक्षा कर रहे थे।\n\nअशोक वाटिका में एक स्त्री ने सुना कि क्या हो रहा है। सीता ने आँखें मूँदीं। हाथ जोड़कर उन्होंने हृदय की गहराई से कहा, “यदि मैं अपने पति के प्रति सच्ची रही हूँ, यदि मैंने धर्म से जीवन जिया है, तो हे अग्नि, हनुमान के लिए शीतल हो जाओ।”\n\nऔर अग्नि ने मान लिया। वह तेज़ जलती रही, पर हनुमान को हिम-पर्वत की हवा जैसी हल्की ठंडक लगी। वे मुस्कुराए। फिर उन्होंने स्वयं को छोटा किया, बेड़ियों से सहज निकल गए, और एक महल की छत पर कूद गए, जबकि पूरी गली भय से ऊपर ताकती रह गई।",
      "reviewed": false
     },
     "mr": {
-     "text": "राक्षसांनी हनुमानाच्या शेपटीला चिंध्या गुंडाळल्या, तेलात भिजवल्या आणि पेटवल्या आणि लोक हसत असताना त्याची रस्त्यांतून धिंड काढली.\n\nसीतेने हे ऐकले तेव्हा तिने अग्निदेवाची प्रार्थना केली: “मी पतिव्रता असेन, तर हनुमानाला थंड हो.” आणि अग्नीने त्याला जाळले नाही. मग हनुमान लहान झाला, बंधनातून निसटला, पुन्हा अवाढव्य झाला आणि छतावरून छतावर उड्या मारू लागला. एकामागून एक महाल पेटले. सोन्याची लंका सूर्यास्तासारखी जळू लागली.",
+     "text": "राक्षस हसले आणि कामाला लागले. त्यांनी हनुमानाची शेपटी चिंध्यांनी गुंडाळली आणि तेलात भिजवली. हनुमानाने आपली शेपटी लांब लांब वाढवली, त्यांच्याकडचे कापड संपले, आणि त्या गमतीवर गर्दीने जल्लोष केला. शेवटी त्यांनी ज्योत पेटवली, आणि शेपटी मशालीसारखी भडकली. नगारे वाजवत त्यांनी त्याला रस्त्यांतून फिरवले, आणि मुले आणि व्यापारी टाळ्या वाजवून टोमणे मारत होते.\n\nहनुमानाने ते शांतपणे सहन केले. तो रागावला नव्हता. तो वाट पाहत होता.\n\nअशोकवनात एका स्त्रीने काय चालले आहे ते ऐकले. सीतेने डोळे मिटले. तिने हात जोडले आणि हृदयाच्या गाभ्यातून म्हटले, “मी माझ्या पतीशी निष्ठावान राहिले असेन, मी धर्माने जगले असेन, तर हे अग्ने, हनुमानाला शीतल हो.”\n\nआणि अग्नीने आज्ञा पाळली. तो तेजाने जळत होता, पण हनुमानाला फक्त हिमालयावरून येणाऱ्या झुळुकेसारखा सौम्य गारवा जाणवला. तो हसला. मग तो लहान झाला, सहज साखळदंडांतून निसटला, आणि एका महालाच्या शिखरावर झेपावला, आणि सारा रस्ता भीतीने वर पाहत राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Golden Lanka burns",
+    "hi": {
+     "text": "सोने की लंका जलती है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सोनेरी लंका जळते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Up on the rooftops, Hanuman grew as tall as a mountain. His blazing tail swung like a banner of flame. He leapt from tower to tower, and wherever his tail touched, a roof caught alight.\n\nThe wind, his father, blew on the flames and carried them from house to house. Fire raced along the golden streets. Chariots burned, stables burned, and the jewelled halls of Ravana's friends glowed like the rising sun. Women and children ran out into the avenues, crying. The city that had sneered at Rama's messenger turned into a sea of red and orange light.\n\nHanuman moved quickly, and carefully. He had seen the Ashoka grove and made sure that no flame touched it. He avoided Vibhishana's house, where a good man lived. Only the cruel, the proud and the arrogant saw their palaces fall.\n\nNo one in the city could stop him. Some say Lanka burned for hours; some say all night. Golden Lanka, the pride of the demons, burned like a sunset that would not end.",
+    "hi": {
+     "text": "छतों पर हनुमान पर्वत जितने ऊँचे हो गए। उनकी जलती पूँछ अग्नि की पताका की तरह झूमी। वे एक बुर्ज से दूसरे बुर्ज पर कूदते, और जहाँ-जहाँ पूँछ छूती, छत जल उठती।\n\nउनके पिता पवन ने लपटों को हवा दी और उन्हें घर-घर पहुँचा दिया। आग सोने की गलियों में दौड़ गई। रथ जल गए, घुड़साल जल गए, और रावण के मित्रों के रत्नजड़ित भवन उगते सूर्य की तरह दहक उठे। स्त्रियाँ और बच्चे रोते हुए सड़कों पर भागे। जिस नगर ने राम के दूत का उपहास किया था, वह लाल और नारंगी रोशनी का सागर बन गया।\n\nहनुमान फुर्ती से और सावधानी से चले। उन्होंने अशोक वाटिका देखी थी और ध्यान रखा कि कोई लपट उसे न छुए। उन्होंने विभीषण का घर बचा लिया, जहाँ एक भला मनुष्य रहता था। केवल क्रूर, घमंडी और अहंकारी लोगों ने ही अपने महल गिरते देखे।\n\nनगर में कोई उन्हें रोक न सका। कुछ कहते हैं लंका घंटों जली; कुछ कहते हैं सारी रात। राक्षसों का गर्व, सोने की लंका, उस सूर्यास्त की तरह जलती रही जो ख़त्म ही नहीं होता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "छपरांवर उभे राहून हनुमान डोंगराएवढा मोठा झाला. त्याची जळती शेपटी ज्वालांच्या पताकेसारखी हेलकावत होती. तो बुरुजावरून बुरुजावर उडत गेला, आणि जिथे जिथे शेपटी लागली तिथे तिथे छप्पर पेटले.\n\nत्याचे पिता वायूने ज्वालांवर फुंकर घातली आणि त्यांना घरावरून घरावर नेले. सोनेरी रस्त्यांवरून आग धावली. रथ जळाले, तबेले जळले, आणि रावणाच्या मित्रांचे रत्नजडित महाल उगवत्या सूर्यासारखे चमकले. स्त्रिया आणि मुले रडत रस्त्यांवर धावत सुटली. रामांच्या दूताची थट्टा करणारे नगर लाल आणि केशरी प्रकाशाचा सागर झाले.\n\nहनुमान वेगाने आणि काळजीपूर्वक हालचाल करत होता. त्याने अशोकवन पाहिले होते आणि त्याला कोणतीही ज्वाला स्पर्श करणार नाही याची खात्री केली. त्याने विभीषणाचे घर टाळले, जिथे एक चांगला माणूस राहत होता. फक्त क्रूर, गर्विष्ठ आणि उद्धट लोकांचे महाल कोसळताना दिसले.\n\nनगरातले कोणीही त्याला रोखू शकले नाही. काही म्हणतात लंका काही तास जळली; काही म्हणतात सारी रात्र. राक्षसांचा अभिमान असलेली सोनेरी लंका कधीही न संपणाऱ्या सूर्यास्तासारखी जळत राहिली.",
      "reviewed": false
     }
    }
@@ -201,54 +225,79 @@
      "reviewed": false
     },
     "mr": {
-     "text": "रामाकडे परत",
+     "text": "रामांकडे परतणे",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Hanuman dipped his tail in the sea. Suddenly fearful, he rushed back to check that Sita was safe. She was. He bowed to her and leapt home across the ocean.\n\nThe monkey army cheered wildly. Before Rama, Hanuman said just two words first: “Sita is found.” He gave Rama the jewel from her hair. Rama held it and embraced Hanuman. “What can I give you for this? I have nothing to give but this embrace.” For Hanuman, that was everything.",
+    "en": "Hanuman dipped his tail in the sea, and the fire hissed and died. Then a terrible thought struck him. “In my anger, have I burned the grove too? Has Sita come to harm?” Celestial singers, the charanas, told him, “Fear not. Sita is safe.” Hanuman rushed back, found her as peaceful as before, bowed to her with joy, and sprang north over the sea. The Chalisa remembers both his faces: tiny and gentle before Sita, terrible before the proud.\n\nHours later, the monkeys on the far shore heard a roar rolling over the water. “Hanuman is back!”\n\nAt the mountain, he bowed before Rama and said two words first: “Sita is found.” Rama's face filled with hope, fear and joy. Hanuman placed the chudamani in his hands. Rama pressed the jewel to his heart, weeping, and embraced Hanuman. “What can I give you for this? I have nothing to give but this embrace.”\n\nFor Hanuman, who wanted nothing, it was everything. He knelt with tears of his own.",
     "hi": {
-     "text": "हनुमान ने अपनी पूँछ समुद्र में बुझाई। अचानक डर लगा कि कहीं सीता को आँच न आई हो, और वे दौड़कर देखने गए कि वे सुरक्षित हैं। वे सुरक्षित थीं। उन्होंने सीता को प्रणाम किया और सागर लाँघकर घर लौटे।\n\nवानर सेना ने उल्लास से जयजयकार की। राम के सामने हनुमान ने सबसे पहले केवल दो शब्द कहे: “सीता मिल गईं।” उन्होंने राम को सीता की चूड़ामणि दी। राम ने उसे थामा और हनुमान को गले लगा लिया। “इसके बदले मैं तुम्हें क्या दूँ? मेरे पास देने को बस यह आलिंगन है।” हनुमान के लिए वही सब कुछ था।",
+     "text": "हनुमान ने अपनी पूँछ सागर में बुझाई, और आग फुफकारकर शांत हो गई। तभी एक भयंकर विचार उनके मन में कौंधा। “क्रोध में कहीं मैंने वाटिका भी तो नहीं जला दी? कहीं सीता को हानि तो नहीं पहुँची?” चारणों ने, जो दिव्य गायक हैं, उनसे कहा, “डरो मत। सीता सुरक्षित हैं।” हनुमान दौड़े, उन्हें पहले जैसा ही शांत पाया, आनंद से प्रणाम किया, और उत्तर की ओर सागर के ऊपर उछल पड़े। चालीसा उनके दोनों रूपों को याद करती है: सीता के सामने नन्हे और कोमल, घमंडियों के सामने भयंकर।\n\nघंटों बाद, दूर तट पर वानरों ने जल पर लुढ़कती एक गर्जना सुनी। “हनुमान लौट आए!”\n\nपर्वत पर उन्होंने राम को प्रणाम किया और पहले दो शब्द कहे: “सीता मिल गईं।” राम का मुख आशा, भय और आनंद से भर गया। हनुमान ने चूड़ामणि उनके हाथों में रखी। राम ने मणि को हृदय से लगाया, रोए, और हनुमान को गले लगा लिया। “इसके बदले मैं तुम्हें क्या दूँ? मेरे पास देने को बस यह आलिंगन है।”\n\nहनुमान के लिए, जिन्हें कुछ नहीं चाहिए था, यह सब कुछ था। वे अपने आँसुओं के साथ घुटनों पर झुक गए।",
      "reviewed": false
     },
     "mr": {
-     "text": "हनुमानाने शेपटी समुद्रात बुडवली. अचानक भीती वाटल्याने सीता सुरक्षित आहे की नाही हे पाहण्यासाठी तो धावत परत गेला. ती सुरक्षित होती. त्याने तिला नमस्कार केला आणि सागर ओलांडून घरी झेपावला.\n\nवानरसेनेने जल्लोष केला. रामासमोर हनुमान आधी फक्त दोन शब्द बोलला: “सीता सापडली.” त्याने सीतेच्या केसांतील रत्न रामाला दिले. रामाने ते धरले आणि हनुमानाला मिठी मारली. “याबद्दल मी तुला काय देऊ? माझ्याकडे ही मिठी सोडून देण्यासारखे काहीच नाही.” हनुमानासाठी तेच सर्वस्व होते.",
+     "text": "हनुमानाने आपली शेपटी सागरात बुडवली, आणि आग चर्र करून विझली. मग एक भयंकर विचार त्याच्या मनात आला. “रागाच्या भरात मी वाटिकाही जाळली का? सीतेला इजा झाली का?” चारण या दिव्य गायकांनी त्याला सांगितले, “भिऊ नकोस. सीता सुरक्षित आहे.” हनुमान घाईने परत गेला, तिला पूर्वीसारखीच शांत पाहिले, आनंदाने तिला नमस्कार केला, आणि सागरावरून उत्तरेकडे झेपावला. चालिसा त्याची दोन्ही रूपे आठवते: सीतेसमोर इवलेसे आणि सौम्य, गर्विष्ठांसमोर भयंकर.\n\nकाही तासांनी दूरच्या किनाऱ्यावरच्या वानरांना पाण्यावरून गर्जना घुमत येताना ऐकू आली. “हनुमान परत आला!”\n\nपर्वतावर त्याने रामांसमोर नमस्कार केला आणि प्रथम दोन शब्द म्हटले: “सीता सापडली.” रामांचा चेहरा आशा, भीती आणि आनंदाने भरून आला. हनुमानाने चूडामणी त्यांच्या हातात ठेवला. रामांनी तो रत्न हृदयाशी धरला, रडत, आणि हनुमानाला आलिंगन दिले. “याबद्दल मी तुला काय देऊ? माझ्याकडे हे आलिंगन सोडून काहीच देण्यासारखे नाही.”\n\nकाहीच न हवे असलेल्या हनुमानासाठी ते सर्वस्व होते. तोही स्वतःच्या अश्रूंसह गुडघे टेकून बसला.",
      "reviewed": false
     }
    },
    "image": 2
   }
  ],
+ "verse": {
+  "text": "सूक्ष्म रूप धरि सियहिं दिखावा। बिकट रूप धरि लंक जरावा॥",
+  "cite": {
+   "en": "Hanuman Chalisa of Tulsidas",
+   "hi": {
+    "text": "तुलसीदास की हनुमान चालीसा",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "तुलसीदासकृत हनुमान चालीसा",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "In a tiny form he appeared to Sita; in a terrible form he burned Lanka.",
+   "hi": {
+    "text": "नन्हा रूप धरकर वे सीता को दिखे; भयंकर रूप धरकर उन्होंने लंका जलाई।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सीतेसमोर सूक्ष्म रूप धरून प्रकट झाले; भयंकर रूप धरून लंका जाळली.",
+    "reviewed": false
+   }
+  }
+ },
  "reflect": {
-  "en": "Sita's faith turned fire cool. When you face something frightening today, silently repeat a name or word that gives you strength, and notice what changes.",
+  "en": "Sita's faith turned fire cool, and Hanuman was gentle with Sita and fierce with injustice. When you face something frightening today, silently repeat a word that gives you strength, and notice what changes.",
   "hi": {
-   "text": "सीता की श्रद्धा ने आग को शीतल कर दिया। आज जब कोई भयानक बात आपके सामने आए, तो मन ही मन कोई ऐसा नाम या शब्द दोहराइए जो आपको बल देता है, और देखिए क्या बदलता है।",
+   "text": "सीता की श्रद्धा ने अग्नि को शीतल कर दिया, और हनुमान सीता के प्रति कोमल और अन्याय के प्रति प्रचंड रहे। आज जब कुछ डरावना सामने आए, तो मन में कोई ऐसा शब्द दोहराइए जो आपको बल दे, और देखिए क्या बदलता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "सीतेच्या श्रद्धेने अग्नी थंड केला. आज एखाद्या भीतीदायक गोष्टीला सामोरे जाताना मनातल्या मनात बळ देणारे एखादे नाव किंवा शब्द म्हणा आणि काय बदलते ते पाहा.",
+   "text": "सीतेच्या श्रद्धेने अग्नी शीतल केला, आणि हनुमान सीतेसमोर सौम्य आणि अन्यायासमोर उग्र होता. आज एखाद्या भीतीदायक गोष्टीला सामोरे जाताना, तुम्हाला बळ देणारा एक शब्द मनात म्हणा, आणि काय बदलते ते पाहा.",
    "reviewed": false
   }
  },
  "lesson": {
   "en": "Faith and fearlessness in a good cause can turn even fire into a friend.",
   "hi": {
-   "text": "भले उद्देश्य के लिए श्रद्धा और निर्भयता आग को भी मित्र बना सकती है।",
+   "text": "अच्छे कार्य में श्रद्धा और निर्भयता आग को भी मित्र बना सकती हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "चांगल्या कार्यातील श्रद्धा आणि निर्भयता अग्नीलाही मित्र बनवू शकते.",
+   "text": "चांगल्या कार्यातली श्रद्धा आणि निर्भयता अग्नीलाही मित्र बनवू शकते.",
    "reviewed": false
   }
  },
  "source": {
-  "en": "Valmiki Ramayana, Sundara Kanda",
+  "en": "Valmiki Ramayana, Sundara Kanda; the Hanuman Chalisa verse is from Tulsidas",
   "hi": {
-   "text": "वाल्मीकि रामायण, सुंदरकांड",
+   "text": "वाल्मीकि रामायण, सुंदरकांड; हनुमान चालीसा की पंक्ति तुलसीदास की है",
    "reviewed": false
   },
   "mr": {
-   "text": "वाल्मीकी रामायण, सुंदरकांड",
+   "text": "वाल्मीकी रामायण, सुंदरकांड; हनुमान चालिसेचा श्लोक तुलसीदासांचा",
    "reviewed": false
   }
  }

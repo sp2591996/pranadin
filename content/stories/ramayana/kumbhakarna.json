@@ -1,0 +1,241 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "kumbhakarna",
+ "order": 27,
+ "part": "yuddha",
+ "figure": {
+  "en": "Kumbhakarna",
+  "hi": {
+   "text": "कुंभकर्ण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुंभकर्ण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The giant who chose loyalty",
+  "hi": {
+   "text": "वह दैत्य जिसने निष्ठा चुनी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निष्ठा निवडणारा राक्षस",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Ravana has lost his generals and his pride. Now he sends for the one brother he never wanted to wake: a giant who knows the war is wrong, and who will fight it anyway.",
+  "hi": {
+   "text": "रावण अपने सेनापति और अपना अभिमान खो चुका है। अब वह उस भाई को बुलवाता है जिसे वह कभी जगाना नहीं चाहता था: एक दैत्य जो जानता है कि यह युद्ध ग़लत है, और फिर भी लड़ेगा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रावणाने आपले सेनापती आणि अभिमान गमावला आहे. आता तो अशा एकाला बोलावतो ज्याला उठवायची त्याची कधीच इच्छा नव्हती: एक राक्षस ज्याला माहीत आहे की हे युद्ध चुकीचे आहे, आणि तरीही तो लढेल.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/mountain-of-herbs-2.webp",
+   "w": 848,
+   "h": 1100,
+   "caption": {
+    "en": "Rama and Lakshmana defeat Kumbhakarna (Malwa painting)",
+    "hi": {
+     "text": "राम और लक्ष्मण कुंभकर्ण को हराते हैं (मालवा चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम-लक्ष्मण कुंभकर्णाचा पराभव करतात (माळवा चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "painter from India (Madhya Pradesh, Malwa), Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Demon_Kumbhakarna_Is_Defeated_by_Rama_and_Lakshmana.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Go and rest",
+    "hi": {
+     "text": "जाओ, विश्राम करो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जा आणि विश्रांती घे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The war ground on, and Ravana's best fell one by one. At last he drove out himself, on his great chariot, and shot down monkey after monkey. Lakshmana was struck and nearly fell. Even Hanuman staggered back from one of Ravana's blows.\n\nThen Rama stepped out. For the first time the two faced each other in battle. Rama's arrows rained down. One struck Ravana's chariot and splintered it. Another knocked the crown from his head. A third tore through his armour, and the great king reeled, bleeding and breathless, and dropped his bow.\n\nRama lowered his own. In Valmiki's telling, he spoke with a calm that stung more than any wound: “You have fought well today, Ravana. But you are tired and unarmed. I do not kill a man who cannot defend himself. Go back to Lanka and rest. Come again tomorrow, with fresh weapons.”\n\nRavana, who had never been so humbled, rode away in shame, his eyes burning. That night, for the first time, he thought of his brother, who slept in the deepest part of the city.",
+    "hi": {
+     "text": "युद्ध खिंचता गया, और रावण के सर्वश्रेष्ठ योद्धा एक-एक कर गिरते गए। अंत में वह स्वयं अपने विशाल रथ पर निकला और वानर-पर-वानर गिराता गया। लक्ष्मण पर प्रहार हुआ और वे लगभग गिर ही पड़े। हनुमान भी रावण के एक वार से लड़खड़ाकर पीछे हट गए।\n\nतब राम सामने आए। पहली बार दोनों युद्ध में आमने-सामने हुए। राम के बाण बरसे। एक ने रावण के रथ को चूर कर दिया। दूसरे ने उसके सिर से मुकुट गिरा दिया। तीसरे ने उसका कवच चीर दिया, और महाराज लड़खड़ाए, लहूलुहान और हाँफते हुए, और धनुष गिरा बैठे।\n\nराम ने अपना धनुष नीचे कर लिया। वाल्मीकि के वर्णन में, उन्होंने ऐसी शांति से कहा जो किसी भी घाव से अधिक चुभी: “रावण, आज तुमने अच्छा युद्ध किया। पर तुम थके हो और निहत्थे हो। जो अपनी रक्षा नहीं कर सकता, मैं उसे नहीं मारता। लंका लौटो और विश्राम करो। कल नए शस्त्र लेकर आना।”\n\nरावण, जो इतना अपमानित कभी नहीं हुआ था, जलती आँखों के साथ लज्जा में लौट गया। उस रात पहली बार उसे अपने भाई की याद आई, जो नगर के सबसे गहरे भाग में सो रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "युद्ध रेंगाळत राहिले आणि रावणाचे उत्तम योद्धे एकेक करून पडले. शेवटी तो स्वतः आपल्या मोठ्या रथातून निघाला आणि वानरामागून वानर पाडत गेला. लक्ष्मण घायाळ झाला आणि जवळजवळ कोसळला. रावणाच्या एका प्रहाराने हनुमानही हादरून मागे गेला.\n\nमग राम पुढे आले. प्रथमच ते दोघे युद्धात समोरासमोर आले. रामांचे बाण पावसासारखे कोसळले. एकाने रावणाच्या रथाचे तुकडे केले. दुसऱ्याने त्याच्या डोक्यावरचा मुकुट पाडला. तिसऱ्याने त्याचे कवच फाडले, आणि तो महान राजा घायाळ आणि धापा टाकत डळमळला, आणि त्याचे धनुष्य गळून पडले.\n\nरामांनी आपले धनुष्य खाली घेतले. वाल्मीकींच्या वर्णनात ते कोणत्याही जखमेपेक्षा जास्त बोचणाऱ्या शांततेने बोलले: “रावणा, आज तू चांगला लढलास. पण तू थकला आहेस आणि निःशस्त्र आहेस. जो स्वतःचे रक्षण करू शकत नाही त्याला मी मारत नाही. लंकेत परत जा आणि विश्रांती घे. उद्या नव्या शस्त्रांसह ये.”\n\nइतके अपमानित कधीच न झालेला रावण लज्जेने, डोळे जळत, परत गेला. त्या रात्री, प्रथमच, त्याला आपल्या भावाची आठवण आली, जो नगरातल्या सर्वात खोल भागात झोपला होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Waking the sleeper",
+    "hi": {
+     "text": "सोते हुए को जगाना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "झोपलेल्याला उठवणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kumbhakarna was the second brother of Ravana, a giant as tall as a hill. A later tradition says that long ago, by a trick of the gods, his boon had gone strangely wrong. When he had asked Brahma for “wakefulness,” the goddess of speech had twisted his tongue, and he asked for “sleep.” Now he slept for six months at a time and woke for a single day.\n\nRavana sent servants to wake him. They went into the cave where he slept. The giant's breath blew them across the room like leaves. They beat drums, blew conches, shouted in his ears. They drove elephants across his chest. They poured pitchers of water on his face. They rolled boulders on his body, and he only turned over.\n\nAt last, as the sun rose, one eye opened. Then the other. The giant sat up and stretched, and the walls shook.\n\nBefore him they laid out a feast: mountains of rice, whole herds of buffalo, jars of wine in the hundreds. He ate until the platters were bare. Then he asked, rubbing his eyes, “Why have you woken me? Is the city on fire?”",
+    "hi": {
+     "text": "कुंभकर्ण रावण का दूसरा भाई था, पहाड़ जितना ऊँचा दैत्य। बाद की परंपरा कहती है कि बहुत पहले देवताओं की एक चाल से उसका वरदान विचित्र रूप से बिगड़ गया था। जब उसने ब्रह्मा से “जागरण” माँगा था, तो वाणी की देवी ने उसकी जीभ मोड़ दी, और उसने “निद्रा” माँग ली। अब वह छह महीने सोता और केवल एक दिन जागता था।\n\nरावण ने सेवकों को जगाने भेजा। वे उस गुफा में गए जहाँ वह सोता था। दैत्य की साँस से वे पत्तों की तरह कमरे में उड़ गए। उन्होंने नगाड़े पीटे, शंख बजाए, कानों में चिल्लाए। उसकी छाती पर से हाथी चलाए। चेहरे पर घड़े-के-घड़े पानी उँडेले। उसके शरीर पर शिलाएँ लुढ़काईं, और वह बस करवट बदलकर रह गया।\n\nअंत में, सूर्योदय के समय, एक आँख खुली। फिर दूसरी। दैत्य उठकर बैठा और अँगड़ाई ली, और दीवारें हिल गईं।\n\nउसके सामने भोज सजाया गया: चावल के पहाड़, भैंसों के पूरे झुंड, सैकड़ों घड़े मदिरा। उसने तब तक खाया जब तक थालियाँ ख़ाली न हो गईं। फिर आँखें मलते हुए पूछा, “मुझे क्यों जगाया? क्या नगर में आग लगी है?”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंभकर्ण रावणाचा दुसरा भाऊ होता, डोंगराएवढा उंच राक्षस. नंतरची परंपरा सांगते की फार पूर्वी देवांच्या युक्तीने त्याचे वरदान विचित्रपणे चुकले होते. त्याने ब्रह्मदेवांकडे “जागरण” मागितले असता वाणीच्या देवीने त्याची जीभ फिरवली, आणि त्याने “निद्रा” मागितली. आता तो सहा महिने झोपे आणि फक्त एका दिवसासाठी जागा होई.\n\nरावणाने सेवकांना त्याला उठवायला पाठवले. ते तो झोपला होता त्या गुहेत गेले. राक्षसाच्या श्वासाने ते पानांसारखे खोलीभर उडाले. त्यांनी नगारे वाजवले, शंख फुंकले, कानांत ओरडले. त्यांनी हत्ती त्याच्या छातीवरून चालवले. त्यांनी घागरी भरून पाणी त्याच्या चेहऱ्यावर ओतले. त्यांनी त्याच्या अंगावर शिळा लोटल्या, आणि तो फक्त कूस बदलून झोपला.\n\nशेवटी, सूर्य उगवत असताना, एक डोळा उघडला. मग दुसरा. राक्षस उठून बसला आणि आळस दिला, आणि भिंती हादरल्या.\n\nत्याच्यासमोर त्यांनी मेजवानी मांडली: भाताचे डोंगर, रेड्यांचे कळपच्या कळप, शेकडो मद्याचे घडे. ताटे रिकामी होईपर्यंत तो खात राहिला. मग डोळे चोळत त्याने विचारले, “मला का उठवलेत? नगराला आग लागली आहे का?”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "An honest brother",
+    "hi": {
+     "text": "एक सच्चा भाई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रामाणिक भाऊ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ravana embraced him and told him all. Kumbhakarna listened in silence. When the tale was done, he sighed, and the sigh rang through the hall.\n\n“Brother,” he said, “you did wrong. You should have asked my counsel before you took Sita, when it could have helped. A king who acts in secret, and then asks for advice when it is too late, is like one who sets fire to his own house and asks for water.” He did not shout. He did not flatter.\n\nRavana's face darkened. “I did not wake you to be scolded. I woke you because I need you.”\n\nKumbhakarna was quiet for a moment. “I do not say these things to hurt you,” he said. “I say them because I love you. You are my brother, and I have eaten your bread. You have done wrong, but I will not abandon you. Let the righteous fight for the righteous. I will fight for my family, even in a wrong cause, and I will die in battle at your side.”\n\nIt was a terrible kind of faithfulness. He knew the truth, and he chose loyalty anyway.",
+    "hi": {
+     "text": "रावण ने उसे गले लगाया और सब बताया। कुंभकर्ण चुपचाप सुनता रहा। कथा पूरी हुई तो उसने साँस भरी, और वह साँस पूरी सभा में गूँजी।\n\n“भैया,” उसने कहा, “आपने ग़लत किया। सीता को लाने से पहले मुझसे सलाह लेनी थी, जब वह काम आ सकती थी। जो राजा चुपके से काम करता है और फिर देर हो जाने पर सलाह माँगता है, वह उस व्यक्ति जैसा है जो अपने ही घर में आग लगाकर पानी माँगे।” उसने चिल्लाया नहीं। उसने चापलूसी नहीं की।\n\nरावण का मुख काला पड़ गया। “मैंने तुझे डाँट सुनने के लिए नहीं जगाया। मैंने इसलिए जगाया कि मुझे तेरी ज़रूरत है।”\n\nकुंभकर्ण क्षण भर चुप रहा। “मैं यह आपको दुख देने के लिए नहीं कह रहा,” उसने कहा। “मैं यह इसलिए कह रहा हूँ कि मैं आपसे प्रेम करता हूँ। आप मेरे भाई हैं, और मैंने आपका अन्न खाया है। आपने ग़लत किया, पर मैं आपको नहीं छोड़ूँगा। धर्मात्मा धर्मात्मा के लिए लड़ें। मैं अपने परिवार के लिए लड़ूँगा, ग़लत काम में भी, और आपके पास युद्ध में प्राण दूँगा।”\n\nयह निष्ठा का एक भयंकर रूप था। वह सत्य जानता था, और फिर भी उसने निष्ठा चुनी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाने त्याला आलिंगन दिले आणि सारे सांगितले. कुंभकर्णाने शांतपणे ऐकले. कथा संपल्यावर त्याने उसासा टाकला, आणि तो उसासा सभागृहात घुमला.\n\n“भाऊ,” तो म्हणाला, “तू चुकलास. सीतेला नेण्यापूर्वी तू माझा सल्ला घ्यायला हवा होतास, जेव्हा त्याचा उपयोग झाला असता. जो राजा गुपचूप वागतो, आणि मग उशिरा सल्ला मागतो, तो स्वतःचे घर पेटवून पाणी मागणाऱ्यासारखा आहे.” त्याने आवाज चढवला नाही. त्याने खुशामत केली नाही.\n\nरावणाचा चेहरा काळवंडला. “मी तुला ओरडून घ्यायला उठवले नाही. मला तुझी गरज आहे म्हणून उठवले.”\n\nकुंभकर्ण क्षणभर गप्प राहिला. “मी हे तुला दुखवायला सांगत नाही,” तो म्हणाला. “मी हे सांगतो कारण माझे तुझ्यावर प्रेम आहे. तू माझा भाऊ आहेस, आणि मी तुझे अन्न खाल्ले आहे. तू चूक केलीस, पण मी तुला सोडणार नाही. धर्मीयांनी धर्मीयांसाठी लढावे. मी माझ्या कुटुंबासाठी लढेन, चुकीच्या कारणासाठी असले तरी, आणि तुझ्या बाजूने रणांगणात मरेन.”\n\nही एक भयंकर प्रकारची निष्ठा होती. त्याला सत्य माहीत होते, आणि तरीही त्याने निष्ठा निवडली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The giant in the field",
+    "hi": {
+     "text": "मैदान में दैत्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रणांगणावरचा राक्षस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kumbhakarna strode out of Lanka. The earth shook with each step, and the monkeys scattered, crying out in terror. They saw a shape bigger than any mountain, a giant with a spear of iron on his shoulder, his eyes red with sleep and fury.\n\nHe walked through the army like a man walking through tall grass. He flung monkeys aside by the dozen, swallowed them by handfuls, and flicked bears away like gnats. Great generals charged him and were swept off their feet. Angada was struck down. Hanuman, hurled a mountain peak, was knocked aside. Even Neela, the fiery, was wounded.\n\nThen Sugriva himself rushed up and threw an enormous rock. It bounced off the giant's chest. Kumbhakarna roared, snatched Sugriva up in one great hand and carried him toward Lanka as a trophy.\n\nBut the king of the monkeys was not so easily caught. As the giant strode through the streets, Sugriva struck his ears and nose with his claws and teeth. Kumbhakarna cried out and flung him away. Sugriva sprang free and vaulted back to the army, safe.",
+    "hi": {
+     "text": "कुंभकर्ण लंका से बाहर निकला। हर क़दम पर धरती हिलती थी, और वानर आतंक से चीखते हुए तितर-बितर हो गए। उन्होंने किसी भी पर्वत से बड़ी एक आकृति देखी, कंधे पर लोहे का भाला लिए एक दैत्य, जिसकी आँखें नींद और क्रोध से लाल थीं।\n\nवह सेना के बीच से ऐसे चला जैसे कोई लंबी घास में चलता है। उसने वानरों को दर्जनों की गिनती में उछाल फेंका, मुट्ठी भर-भर निगल लिए, और रीछों को मच्छरों की तरह झटक दिया। बड़े-बड़े सेनापतियों ने धावा बोला और पैर उखड़कर गिर गए। अंगद गिरा दिए गए। हनुमान ने पर्वत-शिखर फेंका, तो वह भी एक ओर फेंक दिए गए। अग्नि-सा तेजस्वी नील भी घायल हुआ।\n\nतब स्वयं सुग्रीव दौड़कर आए और एक विशाल चट्टान फेंकी। वह दैत्य की छाती से टकराकर उछल गई। कुंभकर्ण गरजा, एक ही बड़े हाथ में सुग्रीव को उठा लिया और ट्रॉफ़ी की तरह लंका की ओर ले चला।\n\nपर वानरराज इतनी आसानी से पकड़े जाने वाले नहीं थे। जब दैत्य गलियों से गुज़र रहा था, सुग्रीव ने नाखूनों और दाँतों से उसके कान और नाक नोच लिए। कुंभकर्ण चीखा और उन्हें दूर फेंक दिया। सुग्रीव उछलकर सुरक्षित सेना में लौट आए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंभकर्ण लंकेतून बाहेर निघाला. त्याच्या प्रत्येक पावलाला पृथ्वी हादरली, आणि वानर भीतीने ओरडत पांगले. त्यांना कोणत्याही पर्वतापेक्षा मोठी आकृती दिसली, खांद्यावर लोखंडी भाला घेतलेला राक्षस, झोपेने आणि रागाने लाल झालेले डोळे.\n\nतो उंच गवतातून चालावे तसा सैन्यातून चालत गेला. त्याने डझनभर वानर बाजूला फेकले, मूठभर गिळले, आणि अस्वलांना चिलटांसारखे उडवून लावले. महान सेनापती त्याच्यावर धावून गेले आणि पाय उखडून पडले. अंगद आपटला. हनुमानाने फेकलेल्या पर्वतशिखराने तो बाजूला फेकला गेला. अगदी तेजस्वी नीलसुद्धा जखमी झाला.\n\nमग खुद्द सुग्रीव धावला आणि त्याने एक प्रचंड खडक फेकला. तो राक्षसाच्या छातीवरून परत उडाला. कुंभकर्णाने गर्जना केली, सुग्रीवाला एका मोठ्या हाताने उचलले आणि विजयचिन्ह म्हणून लंकेकडे नेऊ लागला.\n\nपण वानरराजा इतका सहज पकडला जाणारा नव्हता. राक्षस रस्त्यांतून चालत असताना सुग्रीवाने नखांनी आणि दातांनी त्याचे कान आणि नाक फाडले. कुंभकर्ण ओरडला आणि त्याला फेकून दिले. सुग्रीव सुटला आणि उडी मारून सुरक्षित सैन्यापाशी परतला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Rama and the giant",
+    "hi": {
+     "text": "राम और दैत्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम आणि राक्षस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kumbhakarna, bleeding, only grew angrier. He plucked up mountain peaks and flung them as he walked, and the army scattered before him. Lakshmana ran to him with bow drawn, but the giant, to the surprise of everyone, bowed his head slightly.\n\n“I know it is not you I am meant to fight,” he said to Lakshmana. “I came to see the one you serve. Let me pass.”\n\nHe walked on, until the dust cleared, and he stood face to face with Rama.\n\nTwo great warriors faced each other. Rama drew his bow. The first arrow cut off one of the giant's arms, which fell, crushing a company of demon soldiers. The second took the other arm. The third cut his legs. Kumbhakarna, struggling, fell like a toppling mountain.\n\nOn his back, mouth open to swallow Rama, he did not rage. He looked up. There was no hatred in his eyes. Rama let fly one last arrow, bright as lightning, and it took the giant's head. It rolled into the sea, and the waves rose high.",
+    "hi": {
+     "text": "लहूलुहान कुंभकर्ण और क्रोधित हुआ। उसने चलते-चलते पर्वत-शिखर उखाड़कर फेंके, और सेना उसके आगे बिखर गई। लक्ष्मण धनुष ताने उसके पास दौड़े, पर सबको चकित करते हुए दैत्य ने सिर थोड़ा झुका लिया।\n\n“मैं जानता हूँ कि मुझे तुमसे नहीं लड़ना है,” उसने लक्ष्मण से कहा। “मैं उसे देखने आया हूँ जिसकी तुम सेवा करते हो। मुझे जाने दो।”\n\nवह आगे बढ़ता गया, जब तक धूल छँटी और वह राम के ठीक सामने खड़ा था।\n\nदो महान योद्धा आमने-सामने थे। राम ने धनुष खींचा। पहले बाण ने दैत्य की एक भुजा काट दी, जो गिरकर राक्षस सैनिकों की एक टुकड़ी को कुचल गई। दूसरे ने दूसरी भुजा ले ली। तीसरे ने उसके पैर काट दिए। कुंभकर्ण छटपटाता हुआ ढहते पर्वत की तरह गिरा।\n\nपीठ के बल पड़े, राम को निगलने को मुख खोले, वह क्रोध नहीं कर रहा था। उसने ऊपर देखा। उसकी आँखों में घृणा नहीं थी। राम ने एक अंतिम बाण छोड़ा, बिजली-सा चमकता, और उसने दैत्य का शीश ले लिया। वह सागर में जा गिरा, और लहरें ऊँची उठ गईं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंभकर्ण रक्तबंबाळ होऊन आणखीच संतापला. त्याने चालताना पर्वतशिखरे उपटून फेकली, आणि सैन्य त्याच्यासमोर पांगले. लक्ष्मण धनुष्य ताणून त्याच्याकडे धावला, पण राक्षसाने, सर्वांना आश्चर्य वाटेल असे, किंचित मान झुकवली.\n\n“मला माहीत आहे की मला तुझ्याशी लढायचे नाही,” तो लक्ष्मणाला म्हणाला. “तू ज्याची सेवा करतोस त्याला भेटायला मी आलो आहे. मला पुढे जाऊ दे.”\n\nधूळ विरेपर्यंत तो चालत राहिला, आणि रामांसमोर समोरासमोर उभा राहिला.\n\nदोन महान योद्धे एकमेकांसमोर उभे होते. रामांनी धनुष्य ताणले. पहिल्या बाणाने राक्षसाचा एक हात कापला, जो राक्षस सैनिकांच्या एका तुकडीवर पडून त्यांना चिरडून गेला. दुसऱ्याने दुसरा हात नेला. तिसऱ्याने पाय तोडले. कुंभकर्ण धडपडत कोसळत्या पर्वतासारखा पडला.\n\nपाठीवर पडून, रामांना गिळायला तोंड उघडलेले असताना, तो रागावला नाही. त्याने वर पाहिले. त्याच्या डोळ्यांत द्वेष नव्हता. रामांनी विजेसारखा तेजस्वी शेवटचा बाण सोडला, आणि त्याने राक्षसाचे शीर उडवले. ते सागरात लोळले, आणि लाटा उंच उसळल्या.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Ravana's grief",
+    "hi": {
+     "text": "रावण का शोक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाचा शोक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When Ravana heard, he fainted on his throne. When he came to himself, he cried out like a child, a great, ugly sound that carried through the halls: “My brother! The one who held up Lanka! I did not listen when he told me the truth.” Vibhishana, at a distance, wept in secret for the brother he loved. On the battlefield, even Rama's soldiers fell silent, remembering the giant's honest face. At Rama's order, Kumbhakarna's body received the honours of a warrior.\n\nThat night, as the funeral fires burned, old Jambavan spoke quietly among the monkeys. “Both brothers loved Ravana. One showed his love by leaving, because he would not take part in wrong. The other showed it by staying, because he would not abandon family. Both paid a great price, and Rama honoured them both.”\n\nWhen we love someone who is doing wrong, what is our duty? There is no easy answer. But the giant, who slept for most of his life, woke for a single day to a very hard truth, and met it with open eyes.",
+    "hi": {
+     "text": "जब रावण ने सुना, तो वह सिंहासन पर मूर्च्छित हो गया। होश आया तो वह बच्चे की तरह चीख उठा, एक विशाल, कुरूप ध्वनि जो पूरे महल में गूँज गई: “मेरे भाई! जिसने लंका को थामे रखा! जब उसने मुझे सच बताया, तब मैंने उसकी नहीं सुनी।” दूर खड़े विभीषण अपने प्रिय भाई के लिए चुपचाप रोए। रणभूमि में राम के सैनिक भी चुप हो गए, उस दैत्य के सच्चे मुख को याद करते हुए। राम की आज्ञा से कुंभकर्ण के शव को योद्धा के सम्मान दिए गए।\n\nउस रात, जब अंतिम संस्कार की अग्नियाँ जल रही थीं, बूढ़े जाम्बवान ने वानरों के बीच धीमे स्वर में कहा। “दोनों भाई रावण से प्रेम करते थे। एक ने छोड़कर प्रेम दिखाया, क्योंकि वह अधर्म में भागी नहीं बनना चाहता था। दूसरे ने रुककर, क्योंकि वह परिवार को नहीं त्यागना चाहता था। दोनों ने बड़ी कीमत चुकाई, और राम ने दोनों का सम्मान किया।”\n\nजब हम किसी ऐसे से प्रेम करते हैं जो ग़लत कर रहा है, तो हमारा कर्तव्य क्या है? इसका कोई आसान उत्तर नहीं। पर उस दैत्य ने, जो अपना अधिकांश जीवन सोता रहा, केवल एक दिन जागकर एक बहुत कठिन सत्य देखा, और उसका सामना खुली आँखों से किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रावणाने ऐकले तेव्हा तो सिंहासनावर मूर्च्छित झाला. शुद्धीवर आल्यावर तो लहान मुलासारखा ओरडला, एक मोठा, कुरूप आवाज जो सभागृहभर घुमला: “माझा भाऊ! लंकेला सावरून धरणारा! त्याने मला सत्य सांगितले तेव्हा मी ऐकले नाही.” विभीषण दूर उभा राहून आपल्या प्रिय भावासाठी गुपचूप रडला. रणांगणावर रामांचे सैनिकही राक्षसाचा प्रामाणिक चेहरा आठवून शांत झाले. रामांच्या आज्ञेवरून कुंभकर्णाच्या देहाला योद्ध्याचा सन्मान मिळाला.\n\nत्या रात्री अंत्यसंस्काराचे अग्नी जळत असताना वृद्ध जांबवान वानरांमध्ये हळूच बोलला. “दोन्ही भावांनी रावणावर प्रेम केले. एकाने ते सोडून जाऊन दाखवले, कारण त्याला चुकीच्या कामात भाग घ्यायचा नव्हता. दुसऱ्याने ते थांबून दाखवले, कारण त्याला कुटुंबाला सोडायचे नव्हते. दोघांनी मोठी किंमत चुकवली, आणि रामांनी दोघांचा सन्मान केला.”\n\nजो आपण प्रेम करतो तो चुकीचे करत असेल तेव्हा आपले कर्तव्य काय? सोपे उत्तर नाही. पण आयुष्याचा बहुतेक काळ झोपलेला हा राक्षस एका दिवसासाठी एका अतिशय कठीण सत्याला जागा झाला, आणि त्याला उघड्या डोळ्यांनी सामोरा गेला.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Kumbhakarna told the truth and still stood by his brother, but he never helped him see the wrong. When someone you love is making a mistake, what could you say, kindly and honestly? Today, practise one gentle, true sentence.",
+  "hi": {
+   "text": "कुंभकर्ण ने सच कहा और फिर भी भाई का साथ दिया, पर उसे ग़लती दिखाने में कभी सहायक न बन सका। जब आपका कोई प्रिय भूल कर रहा हो, तो आप कोमलता और सच्चाई से क्या कह सकते हैं? आज एक कोमल और सच्चा वाक्य बोलने का अभ्यास कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुंभकर्णाने सत्य सांगितले आणि तरीही भावाच्या बाजूने उभा राहिला, पण त्याला चूक दिसावी यासाठी त्याने कधी मदत केली नाही. आपण ज्यावर प्रेम करतो तो चूक करत असेल तर तुम्ही प्रेमाने आणि प्रामाणिकपणे काय सांगाल? आज एक मृदू, खरे वाक्य सरावाने बोलून पाहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Loyalty is noblest when it walks beside truth; love that stays silent about a wrong is not yet full love.",
+  "hi": {
+   "text": "निष्ठा तब सबसे ऊँची है जब वह सत्य के साथ चलती है; जो प्रेम ग़लत पर चुप रहे, वह अभी पूरा प्रेम नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निष्ठा सत्याच्या शेजारी चालते तेव्हा सर्वांत उदात्त ठरते; चुकीबद्दल मौन बाळगणारे प्रेम अजून पूर्ण प्रेम नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Yuddha Kanda (the first duel, Kumbhakarna)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, युद्धकांड (पहला द्वंद्व, कुंभकर्ण)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, युद्धकांड (पहिले द्वंद्व, कुंभकर्ण)",
+   "reviewed": false
+  }
+ }
+}

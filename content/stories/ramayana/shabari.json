@@ -1,10 +1,10 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story",
- "version": "2026-11-27.2",
+ "version": "2026-11-27.3",
  "status": "draft",
  "id": "shabari",
- "order": 8,
+ "order": 16,
  "part": "aranya",
  "figure": {
   "en": "Shabari",
@@ -24,18 +24,18 @@
    "reviewed": false
   },
   "mr": {
-   "text": "वाट पाहणारी म्हातारी",
+   "text": "वाट पाहणारी वृद्धा",
    "reviewed": false
   }
  },
  "teaser": {
   "en": "Grief-stricken, Rama searches the forest. In a quiet hermitage, an old devotee has waited her whole life for this day.",
   "hi": {
-   "text": "दुख से व्याकुल राम वन में खोज रहे हैं। एक शांत आश्रम में एक वृद्ध भक्तिन ने जीवन भर इसी दिन की राह देखी है।",
+   "text": "शोक से व्याकुल राम वन में खोज करते हैं। एक शांत आश्रम में एक वृद्ध भक्तिन ने अपना पूरा जीवन इसी दिन की राह देखते बिताया है।",
    "reviewed": false
   },
   "mr": {
-   "text": "दुःखाने व्याकूळ राम वन धुंडाळतो. एका शांत आश्रमात एक वृद्ध भक्त आयुष्यभर या दिवसाची वाट पाहत आहे.",
+   "text": "दुःखाने व्याकूळ राम वनात शोध घेतो. एका शांत आश्रमात एक वृद्ध भक्त आयुष्यभर या दिवसाची वाट पाहत आहे.",
    "reviewed": false
   }
  },
@@ -57,96 +57,77 @@
    },
    "credit": "Balasaheb Pandit Pant Pratinidhi (author dead before 1952 (April 13, 1951) - see, Public domain, via Wikimedia Commons",
    "source": "https://commons.wikimedia.org/wiki/File:Shabari%27s_Hospitality.jpg"
-  },
-  {
-   "src": "/stories/ramayana/shabari-2.webp",
-   "w": 1200,
-   "h": 794,
-   "caption": {
-    "en": "Rama and Lakshmana find the wounded Jatayu (Pahari painting, late 1700s)",
-    "hi": {
-     "text": "राम और लक्ष्मण को घायल जटायु मिलते हैं (पहाड़ी चित्र, अठारहवीं सदी)",
-     "reviewed": false
-    },
-    "mr": {
-     "text": "राम-लक्ष्मणांना जखमी जटायू सापडतो (पहाडी चित्र, अठरावे शतक)",
-     "reviewed": false
-    }
-   },
-   "credit": "anonymous, Public domain, via Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Rama_During_his_Search_of_Sita_Meets_Wounded_Jatayu_and_Comes_to_Know_that_Ravana_Abducted_Sita_-_late_18th-century.jpg"
   }
  ],
  "scenes": [
   {
    "title": {
-    "en": "An empty hut",
+    "en": "Searching the dark wood",
     "hi": {
-     "text": "सूनी कुटिया",
+     "text": "अँधेरे वन की खोज",
      "reviewed": false
     },
     "mr": {
-     "text": "रिकामी कुटी",
+     "text": "काळ्या वनाचा शोध",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Rama and Lakshmana ran back to find the hut empty. Flowers lay scattered; Sita was gone. Rama, who had stayed calm through exile and his father's death, now broke down completely. He asked the trees, the rivers, the deer: “Have you seen Sita?”\n\nThe deer looked south. Following them, the brothers found broken chariot wheels, a shattered bow, and blood on the ground.",
+    "en": "With Jatayu’s ashes cooling behind them, the brothers walked south. Rama did not eat. He did not rest. He called Sita’s name at every turn of the path, and the only answer was the echo from the hills.\n\nLakshmana walked beside him, silent and watchful, and when Rama stumbled, it was Lakshmana’s hand that steadied him. “Brother, grief will not find her,” he said. “Courage will. Let us go on.”\n\nThey passed through a dense, gloomy forest, and the path narrowed until it was hardly more than a deer track. The trees closed over their heads. Then, out of the shadows, something enormous reached for them: a pair of huge arms, each a yojana long, seizing both brothers at once. A shapeless monster with no head, a single eye in its belly and a mouth like a cave opened to devour them.\n\nIt was the demon Kabandha. For a moment the brothers were helpless. Then Rama said calmly, “Cut off the arms,” and two swords flashed in the half-light.",
     "hi": {
-     "text": "राम और लक्ष्मण दौड़ते हुए लौटे तो कुटिया खाली थी। फूल बिखरे पड़े थे; सीता कहीं नहीं थीं। जो राम वनवास और पिता की मृत्यु में भी शांत रहे थे, वे अब पूरी तरह टूट गए। वे वृक्षों से, नदियों से, हिरणों से पूछने लगे: “क्या तुमने सीता को देखा?”\n\nहिरणों ने दक्षिण की ओर देखा। उनके पीछे चलते भाइयों को टूटे रथ के पहिए, चूर-चूर धनुष और धरती पर रक्त मिला।",
+     "text": "जटायु की चिता ठंडी होती छोड़कर दोनों भाई दक्षिण की ओर चले। राम ने कुछ नहीं खाया। विश्राम नहीं किया। राह के हर मोड़ पर वे सीता का नाम पुकारते, और उत्तर में केवल पहाड़ियों की प्रतिध्वनि लौटती।\n\nलक्ष्मण उनके साथ-साथ चुपचाप, सजग चलते रहे, और जब राम लड़खड़ाते, तो लक्ष्मण का हाथ ही उन्हें सँभालता। “भैया, शोक उन्हें नहीं ढूँढ़ेगा,” उन्होंने कहा। “साहस ढूँढ़ेगा। चलिए आगे बढ़ें।”\n\nवे एक घने, उदास वन से गुज़रे, और राह इतनी संकरी हो गई कि हिरन की पगडंडी भर रह गई। पेड़ सिर के ऊपर बंद हो गए। फिर छायाओं में से कोई विशाल वस्तु उन पर झपटी: दो विशाल भुजाएँ, हर एक योजन भर लंबी, जिन्होंने दोनों भाइयों को एक साथ जकड़ लिया। एक आकारहीन दानव, जिसका सिर नहीं था, पेट में एक आँख, और गुफा जैसा मुख खुला था उन्हें निगलने को।\n\nवह राक्षस कबंध था। एक क्षण को भाई असहाय हो गए। फिर राम ने शांत स्वर में कहा, “भुजाएँ काट दो,” और धुँधले प्रकाश में दो तलवारें कौंध उठीं।",
      "reviewed": false
     },
     "mr": {
-     "text": "राम आणि लक्ष्मण धावत परतले तर कुटी रिकामी होती. फुले विखुरलेली होती; सीता नव्हती. वनवासात आणि वडिलांच्या मृत्यूतही शांत राहिलेला राम आता पूर्णपणे कोसळला. तो झाडांना, नद्यांना, हरणांना विचारू लागला: “तुम्ही सीतेला पाहिलेत का?”\n\nहरिणांनी दक्षिणेकडे पाहिले. त्यांच्या मागोमाग गेलेल्या भावांना तुटलेली रथचाके, मोडलेले धनुष्य आणि जमिनीवर रक्त दिसले.",
+     "text": "जटायूची राख मागे थंड होत असताना दोघे भाऊ दक्षिणेकडे चालू लागले. रामाने अन्न घेतले नाही. विश्रांती घेतली नाही. वाटेच्या प्रत्येक वळणावर तो सीतेचे नाव घेई, आणि एकमेव उत्तर टेकड्यांतून येणारा प्रतिध्वनी असे.\n\nलक्ष्मण त्याच्या शेजारी शांत आणि सावध चालत होता, आणि राम अडखळला की लक्ष्मणाचाच हात त्याला सावरी. “दादा, दुःख तिला शोधू शकत नाही,” तो म्हणाला. “धैर्य शोधेल. चला पुढे जाऊया.”\n\nते एका घनदाट, काळोख्या अरण्यातून गेले, आणि वाट अरुंद होत हरणांच्या पायवाटेपेक्षा थोडीच मोठी उरली. डोक्यावर झाडे मिटली. मग सावल्यांतून काहीतरी अवाढव्य त्यांच्याकडे झेपावले: दोन प्रचंड हात, प्रत्येक एक योजन लांब, ज्यांनी दोन्ही भावांना एकाच वेळी जखडले. मस्तक नसलेला, आकारहीन राक्षस, पोटात एक डोळा आणि गुहेसारखे तोंड उघडून त्यांना गिळायला सज्ज.\n\nतो कबंध राक्षस होता. क्षणभर भाऊ असहाय झाले. मग राम शांतपणे म्हणाला, “हात तोडा,” आणि अर्ध्या उजेडात दोन तलवारी चमकल्या.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Jatayu's last words",
+    "en": "The headless one is freed",
     "hi": {
-     "text": "जटायु के अंतिम शब्द",
+     "text": "शीशहीन की मुक्ति",
      "reviewed": false
     },
     "mr": {
-     "text": "जटायूचे शेवटचे शब्द",
+     "text": "शिरहीन कबंधाची मुक्ती",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Lying among the rocks was Jatayu, barely alive. “Ravana took her,” he gasped. “South. I tried to stop him.” Then the brave old bird died in Rama's arms.\n\nRama performed his funeral rites as if for his own father. A prince of Ayodhya honouring a vulture: the forest understood that this man saw no difference between creatures where love was concerned.",
+    "en": "The demon’s arms fell, and he cried out. “Who are you?” Rama told him. Then Kabandha, strangely, began to weep. “Burn my body,” he said. “I was once a beautiful spirit, but a sage cursed me for mocking him. He said I would be freed when Rama cut off my arms. Now it has come true.”\n\nThe brothers laid the huge body on a pyre. And from the flames rose a shining being, radiant and calm, in a robe of light.\n\n“Rama,” he said, “I will repay you with advice. You seek a friend to help you find Sita. There is one, a monkey king named Sugriva, who has been driven from his throne by his brother Vali. He, too, has lost a wife. Make an alliance with him. Go to the lake of Pampa, and on the way you will meet an old woman called Shabari. Honour her. Then go to Rishyamuka.”\n\nHe bowed, and rose into the sky, bright as the morning star. And the brothers, with a new direction in their hearts, went on.",
     "hi": {
-     "text": "चट्टानों के बीच जटायु पड़े थे, मुश्किल से जीवित। “रावण उन्हें ले गया,” उन्होंने हाँफते हुए कहा। “दक्षिण की ओर। मैंने रोकने की कोशिश की।” फिर वीर बूढ़े पक्षी ने राम की गोद में प्राण त्याग दिए।\n\nराम ने उनका अंतिम संस्कार अपने पिता की तरह किया। अयोध्या का राजकुमार एक गिद्ध को सम्मान दे रहा था: वन ने समझ लिया कि प्रेम के आगे इस पुरुष के लिए प्राणियों में कोई भेद नहीं।",
+     "text": "दानव की भुजाएँ गिर पड़ीं, और वह चीख़ा। “तुम कौन हो?” राम ने बताया। तब कबंध, विचित्र रूप से, रो पड़ा। “मेरा शरीर जला दो,” उसने कहा। “मैं कभी सुंदर गंधर्व था, पर एक ऋषि का उपहास करने पर उन्होंने मुझे शाप दिया। उन्होंने कहा था कि जब राम मेरी भुजाएँ काटेंगे, तब मैं मुक्त होऊँगा। अब वही हुआ।”\n\nभाइयों ने उस विशाल देह को चिता पर रखा। और अग्नि से एक दीप्तिमान पुरुष उठा, तेजोमय और शांत, प्रकाश के वस्त्र में।\n\n“राम,” उसने कहा, “मैं तुम्हें परामर्श से चुकाऊँगा। तुम सीता को खोजने में सहायता करने वाला मित्र ढूँढ़ रहे हो। एक है, वानरराज सुग्रीव, जिसे उसके भाई वाली ने सिंहासन से निकाल दिया है। उसने भी पत्नी खोई है। उससे मैत्री करो। पंपा सरोवर जाओ, और मार्ग में तुम्हें शबरी नाम की एक वृद्धा मिलेंगी। उनका सम्मान करना। फिर ऋष्यमूक जाना।”\n\nउसने प्रणाम किया, और भोर के तारे की तरह दमकता आकाश में उठ गया। और भाई, हृदय में नई दिशा लिए, आगे बढ़ चले।",
      "reviewed": false
     },
     "mr": {
-     "text": "खडकांत जटायू जेमतेम जिवंत पडला होता. “रावणाने तिला नेले,” तो धापा टाकत म्हणाला. “दक्षिणेकडे. मी त्याला थांबवायचा प्रयत्न केला.” मग तो शूर वृद्ध पक्षी रामाच्या मांडीवर मरण पावला.\n\nरामाने जणू आपल्या पित्यासाठी करावेत तसे त्याचे अंत्यसंस्कार केले. अयोध्येचा राजकुमार एका गिधाडाचा सन्मान करतो आहे: वनाला कळले की प्रेमाच्या बाबतीत हा पुरुष कोणत्याही जीवात भेद करत नाही.",
+     "text": "राक्षसाचे हात तुटून पडले, आणि तो ओरडला. “तुम्ही कोण?” रामाने सांगितले. आणि मग विचित्र म्हणजे कबंध रडू लागला. “माझे शरीर जाळा,” तो म्हणाला. “मी एकेकाळी सुंदर यक्ष होतो, पण एका ऋषींची थट्टा केल्यामुळे त्यांनी मला शाप दिला. म्हणाले, राम तुझे हात तोडेल तेव्हा तू मुक्त होशील. आता ते खरे झाले.”\n\nभावांनी त्या प्रचंड देहाला चितेवर ठेवले. आणि ज्वाळांतून एक तेजस्वी पुरुष उठला, शांत आणि प्रकाशमान, प्रकाशाचे वस्त्र ल्यालेला.\n\n“राम,” तो म्हणाला, “मी तुझे ऋण सल्ल्याने फेडतो. सीतेला शोधायला तुला मित्र हवा आहे. एक आहे, सुग्रीव नावाचा वानरराजा, ज्याला त्याचा भाऊ वाली याने सिंहासनावरून हाकलले आहे. त्यानेही पत्नी गमावली आहे. त्याच्याशी मैत्री कर. पंपा सरोवराकडे जा, आणि वाटेत तुला शबरी नावाची वृद्धा भेटेल. तिचा सन्मान कर. मग ऋष्यमूककडे जा.”\n\nत्याने वंदन केले आणि पहाटतारकेसारखा तेजस्वी होऊन आकाशात उंच गेला. आणि भाऊ, हृदयात नवी दिशा घेऊन, पुढे चालू लागले.",
      "reviewed": false
     }
-   },
-   "image": 1
+   }
   },
   {
    "title": {
-    "en": "The hermitage of Matanga",
+    "en": "The one who waited",
     "hi": {
-     "text": "मतंग ऋषि का आश्रम",
+     "text": "वह जिसने प्रतीक्षा की",
      "reviewed": false
     },
     "mr": {
-     "text": "मतंग ऋषींचा आश्रम",
+     "text": "वाट पाहणारी",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Deeper south, near the lake of Pampa, lay the hermitage of the sage Matanga. His disciple Shabari, a tribal woman, had served there all her life. Before he left this world, her teacher told her: “One day Rama himself will come here. Wait for him.”\n\nSo she waited. Every single morning, for years, she swept the path and gathered fruit, saying, “Perhaps today.” Her hair turned white. She never stopped.",
+    "en": "Near the beautiful lake Pampa lay the hermitage of the sage Matanga, who had long since left this world. His disciples had followed him to heaven. Only one remained: an old woman named Shabari, a tribal woman of the forest, who had come as a girl to serve him and had never left.\n\nBefore he died, her teacher had taken her hand and said, “One day Rama himself will come to this place. Wait for him.”\n\nSo she waited. Every single morning, for years and years, she swept the path to her hut. She picked flowers and set them out. She gathered fresh fruit and tasted it and set the best aside. And every morning she looked down the road and said quietly, “Perhaps today.”\n\nHer eyes grew dim. Her hair turned white as the foam on the lake. Her back bent like a bow. But she never stopped sweeping, and she never stopped hoping. Waiting had become her prayer. Someone told her once that Rama would never come to the home of a forest woman like her, but she only smiled. “My teacher does not lie.”",
     "hi": {
-     "text": "और दक्षिण में, पंपा सरोवर के पास, ऋषि मतंग का आश्रम था। उनकी शिष्या शबरी, एक वनवासी स्त्री, जीवन भर वहीं सेवा करती रही थी। संसार छोड़ने से पहले उसके गुरु ने कहा था: “एक दिन स्वयं राम यहाँ आएँगे। उनकी प्रतीक्षा करना।”\n\nसो वह प्रतीक्षा करती रही। वर्षों तक हर सुबह वह पथ बुहारती और फल इकट्ठे करती, कहती, “शायद आज।” उसके केश सफ़ेद हो गए। उसने कभी हार नहीं मानी।",
+     "text": "सुंदर पंपा सरोवर के पास ऋषि मतंग का आश्रम था, जो कब के इस लोक से जा चुके थे। उनके शिष्य उनके पीछे स्वर्ग चले गए थे। केवल एक बची थी: एक वृद्धा, शबरी, वन की एक वनवासी स्त्री, जो बालिका रहते उनकी सेवा करने आई थी और फिर कभी गई नहीं।\n\nमरने से पहले उनके गुरु ने उसका हाथ पकड़कर कहा था, “एक दिन स्वयं राम इस स्थान पर आएँगे। उनकी प्रतीक्षा करना।”\n\nइसलिए उसने प्रतीक्षा की। हर एक सुबह, बरसों-बरस, वह अपनी कुटिया तक की राह बुहारती। फूल चुनकर सजाती। ताज़े फल इकट्ठा करती, चखती, और सबसे मीठे अलग रख देती। और हर सुबह वह राह की ओर देखकर धीमे से कहती, “शायद आज।”\n\nउसकी आँखें मंद पड़ गईं। केश सरोवर के झाग जैसे श्वेत हो गए। पीठ धनुष की तरह झुक गई। पर उसने बुहारना कभी न छोड़ा, और आशा करना कभी न छोड़ा। प्रतीक्षा ही उसकी प्रार्थना बन गई थी। किसी ने एक बार उससे कहा था कि राम तुम जैसी वनवासी स्त्री के घर कभी नहीं आएँगे, पर वह बस मुस्कुरा दी। “मेरे गुरु झूठ नहीं बोलते।”",
      "reviewed": false
     },
     "mr": {
-     "text": "आणखी दक्षिणेला, पंपा सरोवराजवळ मतंग ऋषींचा आश्रम होता. त्यांची शिष्या शबरी, एक वनवासी स्त्री, आयुष्यभर तेथे सेवा करत होती. हे जग सोडण्याआधी तिच्या गुरूंनी तिला सांगितले: “एक दिवस स्वतः राम इथे येईल. त्याची वाट पाहा.”\n\nम्हणून ती वाट पाहत राहिली. वर्षानुवर्षे रोज सकाळी ती वाट झाडत असे आणि फळे गोळा करत असे, म्हणत: “कदाचित आज.” तिचे केस पांढरे झाले. तिने कधी थांबणे जाणले नाही.",
+     "text": "सुंदर पंपा सरोवराजवळ मतंग ऋषींचा आश्रम होता, ज्यांनी खूप पूर्वी हे जग सोडले होते. त्यांचे शिष्य त्यांच्यामागे स्वर्गात गेले होते. फक्त एक उरली होती: शबरी नावाची वृद्ध स्त्री, वनातली आदिवासी, जी मुलगी असताना त्यांची सेवा करायला आली आणि कधी गेलीच नाही.\n\nमरण्यापूर्वी गुरूंनी तिचा हात धरून म्हटले होते, “एके दिवशी स्वतः राम या ठिकाणी येईल. त्याची वाट पाहा.”\n\nम्हणून तिने वाट पाहिली. वर्षानुवर्षे, प्रत्येक सकाळी, ती कुटीकडे जाणारी वाट झाडत असे. फुले तोडून मांडत असे. ताजी फळे गोळा करून चाखत असे आणि सर्वात गोड बाजूला ठेवत असे. आणि दररोज सकाळी ती वाटेकडे पाहून हळू म्हणे, “कदाचित आज.”\n\nतिचे डोळे अंधुक झाले. तिचे केस तळ्यावरच्या फेसासारखे पांढरे झाले. पाठ धनुष्यासारखी वाकली. पण तिने झाडणे थांबवले नाही आणि आशा सोडली नाही. वाट पाहणे हीच तिची प्रार्थना झाली होती. कोणीतरी एकदा तिला म्हटले की राम तिच्यासारख्या वनवासी स्त्रीच्या घरी कधीच येणार नाही, पण ती फक्त हसली. “माझे गुरू खोटे बोलत नाहीत.”",
      "reviewed": false
     }
    }
@@ -164,22 +145,46 @@
     }
    },
    "text": {
-    "en": "And then one day two young men in bark clothes walked up the clean path. Shabari fell at Rama's feet with tears of joy. She washed their feet and offered them the fruit she had collected.\n\nA loving tradition across India says that she tasted each berry first, to be sure only the sweetest reached her Lord, and that Rama ate them happily, saying he had never eaten anything so sweet. In Valmiki's telling, Rama praises her devotion and asks after her penance with deep respect.",
+    "en": "And then one day, two young men in bark clothes walked up the clean path. One tall and dark as a rain cloud, with lotus eyes. One fierce and golden, with a bow on his shoulder.\n\nShabari looked up. She did not need to be told. She dropped her broom, and in a moment she had fallen at Rama’s feet, laughing and weeping at once. “You came,” she said. “Oh, you came. I knew you would.”\n\nShe brought water to wash their feet. She brought seats made of grass. And she brought the fruit she had been saving, berries and roots, heaped in a leaf bowl.\n\nValmiki tells us that Rama was moved, and that he asked after her penance and her teacher with deep respect. And the loving tradition, told in Tulsidas’s Ramcharitmanas and in many Indian villages, says that she tasted each berry first, to make sure that only the sweetest reached her Lord. Lakshmana frowned at the half-eaten berries. But Rama ate them happily, saying that he had never eaten anything so sweet. For what is offered with love, no food in any palace can match.",
     "hi": {
-     "text": "और फिर एक दिन वल्कल पहने दो युवक स्वच्छ पथ पर चलते आए। शबरी आनंद के आँसू बहाती राम के चरणों में गिर पड़ी। उसने उनके पाँव धोए और अपने चुने हुए फल उन्हें अर्पित किए।\n\nभारत में एक प्रेमभरी परंपरा कहती है कि उसने हर बेर पहले चखा, ताकि केवल सबसे मीठा ही उसके प्रभु तक पहुँचे, और राम ने उन्हें प्रसन्नता से खाया, यह कहते हुए कि ऐसा मीठा उन्होंने कभी कुछ नहीं खाया। वाल्मीकि के वर्णन में राम उसकी भक्ति की प्रशंसा करते हैं और गहरे आदर से उसकी तपस्या के बारे में पूछते हैं।",
+     "text": "और फिर एक दिन वल्कल पहने दो युवक स्वच्छ राह पर चलते आए। एक ऊँचा और वर्षा-मेघ-सा श्यामल, कमल-नयन। दूसरा उग्र और स्वर्णिम, कंधे पर धनुष लिए।\n\nशबरी ने ऊपर देखा। उसे बताने की आवश्यकता नहीं पड़ी। उसने झाड़ू छोड़ दी, और पल भर में वह राम के चरणों में गिर पड़ी, हँसती और रोती हुई। “आप आ गए,” उसने कहा। “ओह, आप आ गए। मुझे पता था आप आएँगे।”\n\nवह उनके चरण धोने को जल लाई। घास के आसन लाई। और वे फल लाई जो उसने सहेजकर रखे थे, बेर और कंद, पत्तों के दोने में ढेर।\n\nवाल्मीकि बताते हैं कि राम भावुक हुए, और उन्होंने बड़े आदर से उसकी तपस्या और उसके गुरु के विषय में पूछा। और प्रेममयी परंपरा, जो तुलसीदास के रामचरितमानस और भारत के अनेक गाँवों में कही जाती है, बताती है कि उसने हर बेर पहले चखा, ताकि केवल सबसे मीठे ही उसके प्रभु तक पहुँचें। लक्ष्मण ने आधे खाए बेरों को देखकर त्योरी चढ़ाई। पर राम ने उन्हें आनंद से खाया, यह कहते हुए कि उन्होंने इतना मीठा कुछ कभी नहीं खाया। क्योंकि जो प्रेम से अर्पित हो, उसकी बराबरी किसी महल का भोजन नहीं कर सकता।",
      "reviewed": false
     },
     "mr": {
-     "text": "आणि मग एके दिवशी वल्कले नेसलेले दोन तरुण त्या स्वच्छ वाटेने येताना दिसले. शबरी आनंदाश्रूंनी रामाच्या पायावर पडली. तिने त्यांचे पाय धुतले आणि गोळा केलेली फळे त्यांना अर्पण केली.\n\nभारतभर चालत आलेली एक प्रेमळ परंपरा सांगते की तिने प्रत्येक बोर आधी चाखून पाहिले, जेणेकरून फक्त सर्वात गोड बोरे तिच्या प्रभूपर्यंत पोहोचावीत आणि रामाने ती आनंदाने खाल्ली, म्हणाला की इतके गोड त्याने कधीच खाल्ले नव्हते. वाल्मीकींच्या वर्णनात राम तिच्या भक्तीची स्तुती करतो आणि तिच्या तपश्चर्येची मोठ्या आदराने चौकशी करतो.",
+     "text": "आणि मग एके दिवशी वल्कले नेसलेले दोन तरुण त्या स्वच्छ वाटेवरून चालत आले. एक उंच, पावसाळी मेघासारखा सावळा, कमलनयन. दुसरा तेजस्वी आणि सोनेरी, खांद्यावर धनुष्य घेतलेला.\n\nशबरीने वर पाहिले. तिला सांगण्याची गरज नव्हती. तिने खराटा टाकला आणि क्षणात ती रामाच्या पायांवर पडली, एकाच वेळी हसत आणि रडत. “तू आलास,” ती म्हणाली. “अरे, तू आलास. मला ठाऊक होते.”\n\nतिने पाय धुण्यासाठी पाणी आणले. गवताची आसने आणली. आणि जपून ठेवलेली फळे आणली, बोरे आणि कंदमुळे, पानांच्या द्रोणात ढीग रचलेली.\n\nवाल्मीकी सांगतात की राम हेलावला, आणि त्याने तिच्या तपाबद्दल आणि गुरूंबद्दल अत्यंत आदराने चौकशी केली. आणि तुलसीदासांच्या रामचरितमानसात आणि भारतातल्या अनेक गावांत सांगितली जाणारी प्रेमळ परंपरा म्हणते की तिने प्रत्येक बोर आधी चाखले, जेणेकरून फक्त सर्वात गोड तिच्या प्रभूपर्यंत पोहोचावे. अर्धवट चाखलेल्या बोरांकडे लक्ष्मणाने भुवया आक्रसल्या. पण रामाने ती आनंदाने खाल्ली आणि म्हणाला की इतके गोड त्याने कधीच काही खाल्ले नाही. कारण प्रेमाने अर्पण केलेल्या गोष्टीची बरोबरी कोणत्याही महालातले अन्न करू शकत नाही.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Shabari's gift",
+    "en": "The nine ways of devotion",
     "hi": {
-     "text": "शबरी की भेंट",
+     "text": "भक्ति के नौ प्रकार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नवविधा भक्ती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After they had eaten, Rama spoke to her tenderly, and what he said has been treasured by devotees ever since. In the Ramcharitmanas of Tulsidas, he describes nine forms of devotion, nine doors through which any heart can reach the Divine.\n\nThe first is the company of good people. The second is love for hearing the stories of the Lord. The third is humble service to one’s teacher. The fourth is singing the Lord’s praises without pride. And so on, through repeating his name, steadiness in prayer, seeing God in all beings, contentment with what one has, and simplicity of heart.\n\n“Whoever has even one of these nine,” said Rama, “is dear to me, man or woman, learned or unlettered. And you, mother, have all nine.”\n\nShabari listened with her hands folded. She had not read a single book. She had never been to a great temple or taught a single student. And yet the Lord of the world was telling her that her sweeping, her waiting and her tasting of berries had been the highest practice of all.",
+    "hi": {
+     "text": "भोजन के बाद राम ने उससे स्नेहपूर्वक बात की, और उन्होंने जो कहा, वह तब से भक्तों का अमूल्य धन है। तुलसीदास के रामचरितमानस में वे भक्ति के नौ रूप बताते हैं, नौ द्वार, जिनसे कोई भी हृदय परमात्मा तक पहुँच सकता है।\n\nपहला है संतों की संगति। दूसरा है प्रभु की कथाओं को सुनने की प्रीति। तीसरा है गुरु की विनम्र सेवा। चौथा है बिना अभिमान के प्रभु का गुणगान। और इसी प्रकार, उनके नाम का जप, प्रार्थना में स्थिरता, सब प्राणियों में ईश्वर का दर्शन, जो है उसमें संतोष, और हृदय की सरलता।\n\n“जिसमें इन नौ में से एक भी हो,” राम ने कहा, “वह मुझे प्रिय है, चाहे स्त्री हो या पुरुष, विद्वान हो या अनपढ़। और माता, तुम्हारे पास तो नौ की नौ हैं।”\n\nशबरी हाथ जोड़े सुनती रही। उसने एक भी ग्रंथ नहीं पढ़ा था। वह कभी किसी बड़े मंदिर नहीं गई थी, और न एक भी शिष्य को पढ़ाया था। फिर भी जगत के स्वामी उससे कह रहे थे कि उसका बुहारना, उसकी प्रतीक्षा और उसका बेर चखना सर्वोच्च साधना थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जेवणानंतर रामाने तिच्याशी हळुवारपणे संवाद साधला, आणि त्याने जे सांगितले ते भक्त तेव्हापासून जपत आले आहेत. तुलसीदासांच्या रामचरितमानसात तो भक्तीचे नऊ प्रकार सांगतो, नऊ दारे ज्यातून कोणतेही हृदय परमात्म्यापर्यंत पोहोचू शकते.\n\nपहिली म्हणजे सज्जनांची संगती. दुसरी, प्रभूच्या कथा ऐकण्याची आवड. तिसरी, गुरूंची नम्र सेवा. चौथी, गर्वाविना प्रभूचे गुणगान. आणि असे पुढे, नामस्मरण, प्रार्थनेतली स्थिरता, सर्व प्राण्यांत ईश्वराचे दर्शन, जे आहे त्यात समाधान आणि हृदयाचा साधेपणा.\n\n“यांतले एकही ज्याच्यापाशी आहे,” राम म्हणाला, “तो मला प्रिय, स्त्री असो वा पुरुष, विद्वान असो वा निरक्षर. आणि माते, तुझ्याजवळ नऊही आहेत.”\n\nशबरी हात जोडून ऐकत राहिली. तिने एकही पुस्तक वाचले नव्हते. कोणत्याही मोठ्या मंदिरात ती गेली नव्हती, एकाही शिष्याला शिकवले नव्हते. आणि तरीही जगाचा स्वामी तिला सांगत होता की तिचे झाडणे, तिची प्रतीक्षा आणि तिने बोरे चाखणे हीच सर्वोच्च साधना होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Shabari’s gift",
+    "hi": {
+     "text": "शबरी का उपहार",
      "reviewed": false
     },
     "mr": {
@@ -188,13 +193,13 @@
     }
    },
    "text": {
-    "en": "Shabari told Rama where to go next: “Go to Rishyamuka mountain. There lives Sugriva, a banished monkey king. Make him your friend. He will help you find Sita.”\n\nThen, her life's wait fulfilled, she entered the sacred fire and rose to the heavenly worlds, shining. Rama stood quietly for a long time. Kings and sages had honoured him, but this old woman's love had touched him most.",
+    "en": "Then Shabari spoke of the road ahead. “Go to Rishyamuka mountain. There lives Sugriva, a banished monkey king. Make him your friend. He will help you find Sita.”\n\nShe looked at Rama for a long moment, as one looks at a lamp one has tended all one’s life. “My work is done,” she said. “I have seen you. May I go?”\n\nRama nodded, and Lakshmana bowed his head. Shabari walked slowly to the sacred fire, which had burned in the hermitage for many years. She folded her hands, closed her eyes and stepped into the flames. And from the fire rose a shining form, young and radiant, in white, ascending to the worlds of light.\n\nThe brothers stood in silence. A soft wind stirred the flowers around the hut. Rama stood quietly for a long time. Kings and sages had honoured him. Armies had cheered. But this old woman, with her broom and her berries, had touched him most. He picked up his bow, and with a lighter step, he turned toward Pampa.",
     "hi": {
-     "text": "शबरी ने राम को बताया कि आगे कहाँ जाना है: “ऋष्यमूक पर्वत पर जाइए। वहाँ निर्वासित वानरराज सुग्रीव रहते हैं। उन्हें अपना मित्र बनाइए। वे सीता को खोजने में आपकी सहायता करेंगे।”\n\nफिर, जीवन भर की प्रतीक्षा पूरी होने पर, उसने पवित्र अग्नि में प्रवेश किया और तेजोमय होकर स्वर्गलोक को चली गई। राम बहुत देर तक चुपचाप खड़े रहे। राजाओं और ऋषियों ने उनका सम्मान किया था, पर इस वृद्धा के प्रेम ने उन्हें सबसे अधिक छुआ था।",
+     "text": "फिर शबरी ने आगे की राह बताई। “ऋष्यमूक पर्वत जाइए। वहाँ सुग्रीव रहते हैं, एक निर्वासित वानरराज। उन्हें मित्र बना लीजिए। वे सीता को खोजने में आपकी सहायता करेंगे।”\n\nउसने बहुत देर राम की ओर देखा, जैसे कोई उस दीपक को देखे जिसे उसने जीवन भर सँजोया हो। “मेरा कार्य पूरा हुआ,” उसने कहा। “मैंने आपके दर्शन कर लिए। क्या मैं जाऊँ?”\n\nराम ने सिर हिलाया, और लक्ष्मण ने सिर झुका लिया। शबरी धीरे-धीरे उस पवित्र अग्नि तक गई, जो आश्रम में बरसों से जल रही थी। उसने हाथ जोड़े, आँखें मूँदीं और ज्वाला में प्रवेश कर गई। और अग्नि से एक दीप्तिमान रूप उठा, युवा और तेजस्वी, श्वेत वस्त्रों में, प्रकाश के लोकों की ओर चढ़ता हुआ।\n\nभाई मौन खड़े रहे। कुटिया के चारों ओर फूलों को एक कोमल हवा ने हिलाया। राम बहुत देर तक शांत खड़े रहे। राजाओं और ऋषियों ने उनका सम्मान किया था। सेनाओं ने जयकार की थी। पर इस वृद्धा ने, अपनी झाड़ू और बेरों के साथ, उन्हें सबसे अधिक छुआ था। उन्होंने धनुष उठाया, और हल्के कदमों से पंपा की ओर मुड़ गए।",
      "reviewed": false
     },
     "mr": {
-     "text": "शबरीने रामाला पुढे कुठे जायचे ते सांगितले: “ऋष्यमूक पर्वतावर जा. तेथे सुग्रीव राहतो, एक हद्दपार वानरराजा. त्याच्याशी मैत्री कर. तो तुला सीता शोधायला मदत करील.”\n\nमग, आयुष्यभराची प्रतीक्षा पूर्ण झाल्यावर, ती पवित्र अग्नीत प्रवेश करून तेजस्वी रूपात दिव्य लोकांना गेली. राम बराच वेळ शांत उभा राहिला. राजांनी आणि ऋषींनी त्याला मान दिला होता, पण या म्हातारीच्या प्रेमाने त्याला सर्वात जास्त स्पर्शले.",
+     "text": "मग शबरीने पुढच्या मार्गाबद्दल सांगितले. “ऋष्यमूक पर्वतावर जा. तिथे सुग्रीव राहतो, हाकललेला वानरराजा. त्याला मित्र करा. तो तुम्हाला सीतेला शोधायला मदत करेल.”\n\nतिने आयुष्यभर जपलेल्या दिव्याकडे पाहावे तसे ती रामाकडे बराच वेळ पाहत राहिली. “माझे कार्य पूर्ण झाले,” ती म्हणाली. “मी तुला पाहिले. मी जाऊ का?”\n\nरामाने मान डोलावली, आणि लक्ष्मणाने मान झुकवली. शबरी हळू हळू आश्रमात अनेक वर्षे प्रज्वलित असलेल्या पवित्र अग्नीकडे गेली. तिने हात जोडले, डोळे मिटले आणि ज्वाळांत प्रवेश केला. आणि अग्नीतून पांढरे वस्त्र ल्यालेले, तरुण आणि तेजस्वी रूप उठले, प्रकाशलोकांकडे वर जाणारे.\n\nभाऊ शांत उभे राहिले. कुटीभोवतीच्या फुलांना मंद वाऱ्याने स्पर्श केला. राम बराच वेळ स्तब्ध उभा राहिला. राजांनी आणि ऋषींनी त्याचा सन्मान केला होता. सैन्यांनी जयघोष केला होता. पण खराटा आणि बोरे घेतलेल्या या वृद्धेने त्याला सर्वाधिक स्पर्श केला होता. त्याने धनुष्य उचलले आणि हलक्या पावलांनी पंपेकडे वळला.",
      "reviewed": false
     }
    }
@@ -205,22 +210,22 @@
   "cite": {
    "en": "Ramcharitmanas of Tulsidas, Aranya Kanda (Rama to Shabari)",
    "hi": {
-    "text": "तुलसीदास कृत रामचरितमानस, अरण्यकांड (राम का शबरी से कथन)",
+    "text": "तुलसीदास कृत रामचरितमानस, अरण्यकांड (राम का शबरी को उपदेश)",
     "reviewed": false
    },
    "mr": {
-    "text": "तुलसीदासकृत रामचरितमानस, अरण्यकांड (राम शबरीला)",
+    "text": "तुलसीदासांचे रामचरितमानस, अरण्यकांड (राम शबरीला)",
     "reviewed": false
    }
   },
   "meaning": {
    "en": "The first form of devotion is the company of good people; the second is love for hearing My stories.",
    "hi": {
-    "text": "भक्ति का पहला रूप संतों का संग है; दूसरा रूप मेरी कथाओं को सुनने का प्रेम है।",
+    "text": "भक्ति का पहला रूप है संतों की संगति, और दूसरा है मेरी कथाओं के प्रसंग में प्रेम।",
     "reviewed": false
    },
    "mr": {
-    "text": "भक्तीचा पहिला प्रकार म्हणजे संतांचा सहवास; दुसरा म्हणजे माझ्या कथा ऐकण्याची आवड.",
+    "text": "भक्तीचा पहिला प्रकार सज्जनांची संगती आहे; दुसरा माझ्या कथा ऐकण्याची आवड.",
     "reviewed": false
    }
   }
@@ -228,11 +233,11 @@
  "reflect": {
   "en": "Shabari had no wealth or learning to offer, only patient love and a clean path. Do one ordinary task today with complete love, as if it were for the Divine.",
   "hi": {
-   "text": "शबरी के पास भेंट करने को न धन था, न विद्या, केवल धैर्यभरा प्रेम और एक स्वच्छ पथ। आज कोई एक साधारण काम पूरे प्रेम से कीजिए, मानो वह परमात्मा के लिए हो।",
+   "text": "शबरी के पास अर्पण करने को न धन था न विद्या, केवल धैर्यपूर्ण प्रेम और स्वच्छ राह। आज कोई एक साधारण काम पूरे प्रेम से कीजिए, मानो वह परमात्मा के लिए हो।",
    "reviewed": false
   },
   "mr": {
-   "text": "शबरीकडे अर्पण करायला संपत्ती किंवा विद्या नव्हती, फक्त संयमी प्रेम आणि स्वच्छ वाट होती. आज एखादे साधे काम पूर्ण प्रेमाने करा, जणू ते परमात्म्यासाठी आहे.",
+   "text": "शबरीकडे देण्यासाठी धन किंवा विद्या नव्हती, फक्त धीराचे प्रेम आणि स्वच्छ वाट होती. आज एखादे साधे काम पूर्ण प्रेमाने करा, जणू ते परमेश्वरासाठीच आहे.",
    "reviewed": false
   }
  },
@@ -243,18 +248,18 @@
    "reviewed": false
   },
   "mr": {
-   "text": "देव जात, संपत्ती किंवा विद्या पाहत नाही, तो फक्त हृदयातले प्रेम पाहतो.",
+   "text": "देव जात, संपत्ती किंवा विद्या पाहत नाही, फक्त हृदयातले प्रेम पाहतो.",
    "reviewed": false
   }
  },
  "source": {
-  "en": "Valmiki Ramayana, Aranya Kanda; Ramcharitmanas of Tulsidas",
+  "en": "Valmiki Ramayana, Aranya Kanda; Ramcharitmanas of Tulsidas (the berries and the nine forms of devotion)",
   "hi": {
-   "text": "वाल्मीकि रामायण, अरण्यकांड; तुलसीदास कृत रामचरितमानस",
+   "text": "वाल्मीकि रामायण, अरण्यकांड; तुलसीदास कृत रामचरितमानस (बेर और नवधा भक्ति)",
    "reviewed": false
   },
   "mr": {
-   "text": "वाल्मीकी रामायण, अरण्यकांड; तुलसीदासकृत रामचरितमानस",
+   "text": "वाल्मीकी रामायण, अरण्यकांड; तुलसीदासांचे रामचरितमानस (बोरे आणि नवविधा भक्ती)",
    "reviewed": false
   }
  }

@@ -1,0 +1,260 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-27.3",
+ "status": "draft",
+ "id": "monsoon-wait",
+ "order": 19,
+ "part": "kishkindha",
+ "figure": {
+  "en": "Lakshmana and Rama",
+  "hi": {
+   "text": "लक्ष्मण और राम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लक्ष्मण आणि राम",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Four months of rain",
+  "hi": {
+   "text": "वर्षा के चार महीने",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पावसाचे चार महिने",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The clouds gather, the roads close, and a prince who has not slept in months counts every day. Then Lakshmana strings his bow and walks into Kishkindha.",
+  "hi": {
+   "text": "बादल घिरते हैं, रास्ते बंद हो जाते हैं, और महीनों से न सोने वाला राजकुमार हर दिन गिनता है। फिर लक्ष्मण धनुष चढ़ाकर किष्किंधा की ओर चल पड़ते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ढग दाटतात, वाटा बंद होतात, आणि महिनोन्महिने झोप न घेतलेला एक राजपुत्र एकेक दिवस मोजतो. मग लक्ष्मण धनुष्य सज्ज करून किष्किंधेत शिरतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/ramayana/monsoon-wait-1.webp",
+   "w": 1200,
+   "h": 787,
+   "caption": {
+    "en": "Tara and Angada receive an angry Lakshmana at Kishkindha (Pahari painting, 1820s)",
+    "hi": {
+     "text": "तारा और अंगद किष्किंधा में क्रोधित लक्ष्मण का स्वागत करते हैं (पहाड़ी चित्र, 1820 के दशक)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तारा आणि अंगद किष्किंधेत रागावलेल्या लक्ष्मणाचे स्वागत करतात (पहाडी चित्र, 1820 चे दशक)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tara_with_Her_Son_Angad_Receiving_an_Angry_Lakshmana_at_the_Gates_of_Kishkindha_-_c._1820s.jpg"
+  },
+  {
+   "src": "/stories/ramayana/monsoon-wait-2.webp",
+   "w": 744,
+   "h": 1100,
+   "caption": {
+    "en": "Rama receives Sugriva and Jambavan, kings of the monkeys and bears (Ramayana folio)",
+    "hi": {
+     "text": "राम वानरराज सुग्रीव और रीछराज जाम्बवान का स्वागत करते हैं (रामायण चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राम वानरराज सुग्रीव आणि अस्वलराज जांबवंताचे स्वागत करतात (रामायण चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Rama_Receives_Sugriva_and_Jambavat,_the_Monkey_and_Bear_Kings%22,_Folio_from_a_Ramayana.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The cave on the mountain",
+    "hi": {
+     "text": "पर्वत की गुफा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "डोंगरावरची गुहा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sugriva was king, and Rama's heart should have lifted. Instead, the sky began to darken. It was the start of the rains, when no army can march, and Sugriva himself asked Rama to wait four months on the mountain Prasravana, in a cave open to the sky.\n\nRama agreed. There was nothing else to do. But each afternoon, as thunder rolled down the valley and the first cool wind swept the trees, he walked out and stood looking south, as though the rain were a wall he could see through.\n\nLakshmana watched him closely. He gathered fruit and kept the fire. He never complained, though he longed to be moving. Between them lay a silence full of one name.\n\n“Lakshmana,” Rama said one evening, “I can bear the forest. I can bear hunger. What I cannot bear is that she might be thinking I have forgotten her.” And the rain came down in long silver ropes, and the hills disappeared.",
+    "hi": {
+     "text": "सुग्रीव राजा बन गए थे, और राम का मन खिल उठना चाहिए था। पर तभी आकाश साँवला पड़ने लगा। वर्षा ऋतु आ रही थी, जब कोई सेना कूच नहीं कर सकती, और स्वयं सुग्रीव ने राम से कहा कि वे चार महीने प्रस्रवण पर्वत की एक खुली गुफा में प्रतीक्षा करें।\n\nराम मान गए। और कर भी क्या सकते थे। पर हर दोपहर, जब घाटी में बादल गरजते और पहली ठंडी हवा पेड़ों को हिला जाती, वे बाहर आकर दक्षिण की ओर देखते खड़े रहते, मानो वर्षा एक दीवार हो जिसके पार वे देख लेना चाहते हों।\n\nलक्ष्मण उन्हें ध्यान से देखते रहते। वे फल जुटाते, अग्नि सँभालते। चलने को तरसते हुए भी उन्होंने कभी शिकायत नहीं की। दोनों के बीच एक चुप्पी थी, जिसमें एक ही नाम भरा था।\n\n“लक्ष्मण,” एक शाम राम बोले, “मैं वन सह सकता हूँ। भूख सह सकता हूँ। जो नहीं सह सकता, वह यह कि वह सोच रही होगी कि मैंने उसे भुला दिया।” और बारिश चाँदी की लंबी रस्सियों-सी बरसती रही, और पहाड़ियाँ ओझल हो गईं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुग्रीव राजा झाला होता आणि रामांचे हृदय आनंदाने फुलायला हवे होते. पण त्याऐवजी आकाश काळवंडू लागले. पावसाळा सुरू झाला होता, ज्या काळात कोणतेही सैन्य कूच करू शकत नाही, आणि खुद्द सुग्रीवानेच रामांना चार महिने प्रस्रवण पर्वतावर, आकाशाकडे उघड्या असलेल्या एका गुहेत थांबायला सांगितले.\n\nरामांनी मान्य केले. दुसरा काही उपायच नव्हता. पण रोज दुपारी, दरीतून मेघगर्जना घुमू लागल्या आणि झाडांमधून पहिला गार वारा वाहू लागला की ते बाहेर येत आणि दक्षिणेकडे पाहत उभे राहत, जणू पाऊस ही अशी भिंत होती जिच्या पलीकडे त्यांना दिसू शकत होते.\n\nलक्ष्मण त्यांच्याकडे बारकाईने पाहत असे. तो फळे गोळा करी आणि अग्नी जपत असे. पुढे निघण्याची ओढ असूनही त्याने कधी तक्रार केली नाही. त्या दोघांमध्ये एका नावाने भरलेली शांतता पसरलेली होती.\n\n“लक्ष्मणा,” एका संध्याकाळी राम म्हणाले, “मी वनवास सहन करू शकतो. भूक सहन करू शकतो. पण मी तिला विसरलो असे तिला वाटत असेल, हे मात्र मला सहन होत नाही.” आणि पाऊस चांदीच्या लांब दोरांसारखा कोसळत राहिला, आणि डोंगर दिसेनासे झाले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The poetry of the rain",
+    "hi": {
+     "text": "वर्षा की कविता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पावसाची कविता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Valmiki, who was himself a poet of sorrow, gives Rama some of his loveliest words in these chapters. Rama saw the clouds, heavy as pregnant elephants, lean on the mountaintops. He saw lightning flash across them like a golden thread across dark cloth, and said it looked like Sita herself, trembling in the arms of Ravana.\n\n“The sky weeps for the sun,” he said. “The earth drinks the rain as a wife drinks in the words of her beloved. Rivers rush to the sea like women running to meet the one they love. Peacocks dance, but I cannot, for my heart is not here.”\n\nHe saw the swans leave the lakes and the frogs begin to sing, as scholars chant in the morning. Each beautiful thing reminded him of one loss. The world was so alive that his grief felt even heavier.\n\nYet even in his pain he praised the rain. Without this long season, he said, the fields would not feed anyone. Waiting, too, can be part of the work.",
+    "hi": {
+     "text": "स्वयं शोक के कवि वाल्मीकि ने इन अध्यायों में राम को अपने कुछ सबसे सुंदर शब्द दिए हैं। राम ने देखा कि बादल, गर्भवती हथिनियों जैसे भारी, पर्वत-शिखरों पर टिके हैं। उन पर कौंधती बिजली सावले कपड़े पर सुनहरे धागे जैसी लगी, और उन्हें लगा मानो रावण की भुजाओं में काँपती सीता ही हो।\n\n“आकाश सूर्य के लिए रो रहा है,” उन्होंने कहा। “धरती वर्षा को ऐसे पी रही है जैसे पत्नी प्रियतम की बातें पीती है। नदियाँ सागर की ओर ऐसे दौड़ रही हैं जैसे स्त्रियाँ अपने प्रिय से मिलने दौड़ें। मोर नाच रहे हैं, पर मैं नहीं नाच सकता, क्योंकि मेरा हृदय यहाँ नहीं है।”\n\nउन्होंने हंसों को सरोवर छोड़ते और मेंढकों को गाते देखा, जैसे विद्यार्थी भोर में पाठ करते हैं। हर सुंदर वस्तु उन्हें एक ही खोए हुए की याद दिलाती। संसार इतना जीवंत था कि उनका दुख और भारी लगने लगा।\n\nफिर भी अपनी पीड़ा में उन्होंने वर्षा की स्तुति की। इस लंबी ऋतु के बिना, उन्होंने कहा, खेत किसी को अन्न नहीं देंगे। प्रतीक्षा भी काम का ही एक हिस्सा हो सकती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वतः दुःखाचे कवी असलेल्या वाल्मीकींनी या अध्यायांत रामांच्या मुखी आपले काही अत्यंत सुंदर शब्द घातले आहेत. राम पाहत होते की गर्भार हत्तिणींसारखे जड ढग पर्वतशिखरांवर टेकले आहेत. त्यांच्यातून विजेची सोनेरी रेषा काळ्या वस्त्रावरच्या जरीसारखी चमकली, आणि राम म्हणाले, जणू रावणाच्या बाहूंत थरथरणारी सीताच आहे.\n\n“आकाश सूर्यासाठी रडते आहे,” ते म्हणाले. “पत्नी प्रियकराचे शब्द पिते तशी पृथ्वी पाऊस पिते आहे. आपल्या प्रियाला भेटायला धावणाऱ्या स्त्रियांसारख्या नद्या सागराकडे धावत आहेत. मोर नाचत आहेत, पण मला नाचता येत नाही, कारण माझे हृदय इथे नाही.”\n\nत्यांनी राजहंस तलाव सोडून जाताना पाहिले आणि बेडकांना सकाळी विद्वान वेदपठण करतात तसे गाऊ लागलेले पाहिले. प्रत्येक सुंदर गोष्ट त्यांना त्या एकाच हरवलेल्या व्यक्तीची आठवण करून देई. जग इतके जिवंत होते की त्यांचे दुःख अधिकच जड वाटू लागले.\n\nतरीही आपल्या वेदनेतही त्यांनी पावसाची स्तुती केली. हा दीर्घ ऋतू नसता तर शेते कोणालाच अन्न देऊ शकली नसती, असे ते म्हणाले. वाट पाहणे हाही कामाचाच एक भाग असू शकतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The forgetful king",
+    "hi": {
+     "text": "भूला हुआ राजा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विसरलेला राजा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Back in Kishkindha, the palace was full of music. Sugriva, who had so long lived in fear, in hiding, in cold caves, now had a crown, a loving wife in Ruma, and Tara beside him. Wine flowed and drums sounded. He told himself that there was plenty of time.\n\nThe four months passed. The clouds rolled away. The roads dried, the rivers returned to their banks, and the autumn moon rose clear and bright over Rishyamuka. Yet no monkey messenger came from Kishkindha.\n\nHanuman, the wise, saw that his king had lost his way. He spoke plainly to Sugriva. “A friend who gives help and is not repaid ought not be forgotten. Rama has waited, and he is a patient man, but you must not test patience.” Sugriva roused himself and ordered his captains to gather the armies.\n\nBut the order was slow in reaching them. And on the mountain, Rama counted every sunrise since the day the rains ended.",
+    "hi": {
+     "text": "उधर किष्किंधा के महल में संगीत गूँज रहा था। सुग्रीव, जो इतने समय भय में, छिपकर, ठंडी गुफाओं में रहे थे, अब मुकुट, प्रेम करने वाली पत्नी रुमा और अपने साथ तारा को पाकर निश्चिंत थे। मदिरा बहती थी, नगाड़े बजते थे। वे अपने से कहते कि अभी बहुत समय है।\n\nचार महीने बीत गए। बादल छँट गए। रास्ते सूख गए, नदियाँ अपने किनारों में लौट आईं, और शरद का चाँद ऋष्यमूक पर साफ़ और उजला निकला। फिर भी किष्किंधा से कोई वानर दूत नहीं आया।\n\nज्ञानी हनुमान ने देखा कि उनका राजा राह भूल गया है। उन्होंने सुग्रीव से साफ़ कहा। “जिस मित्र ने उपकार किया हो, उसे भुला देना उचित नहीं। राम ने प्रतीक्षा की है, और वे धैर्यवान हैं, पर धैर्य की परीक्षा नहीं लेनी चाहिए।” सुग्रीव चेते और उन्होंने अपने सेनापतियों को सेनाएँ जुटाने की आज्ञा दी।\n\nपर आज्ञा उन तक पहुँचने में देर लगी। और उधर पर्वत पर राम वर्षा समाप्त होने के दिन से हर सूर्योदय गिन रहे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इकडे किष्किंधेत महाल संगीताने भरून गेला होता. इतका काळ भीतीत, लपून, थंड गुहांमध्ये राहिलेल्या सुग्रीवाला आता मुकुट होता, रुमासारखी प्रेमळ पत्नी होती, आणि शेजारी तारा होती. मद्य वाहत होते, नगारे वाजत होते. आपल्याकडे भरपूर वेळ आहे, असे तो स्वतःला समजावत होता.\n\nचार महिने सरले. ढग दूर निघून गेले. वाटा कोरड्या झाल्या, नद्या पुन्हा आपल्या पात्रात आल्या, आणि शरदाचा चंद्र ऋष्यमूकावर स्वच्छ आणि तेजस्वी उगवला. तरी किष्किंधेतून एकही वानरदूत आला नाही.\n\nशहाण्या हनुमानाला दिसले की आपला राजा वाट चुकला आहे. तो सुग्रीवाशी स्पष्टपणे बोलला. “ज्याने आपल्याला मदत केली आणि ज्याची परतफेड झाली नाही, अशा मित्राला विसरू नये. राम वाट पाहत आहेत, ते संयमी आहेत, पण संयमाची परीक्षा पाहू नये.” सुग्रीव जागा झाला आणि त्याने आपल्या सेनापतींना सैन्य जमवायची आज्ञा दिली.\n\nपण ती आज्ञा त्यांच्यापर्यंत पोहोचायला उशीर लागला. आणि इकडे पर्वतावर, पाऊस संपला त्या दिवसापासूनचा प्रत्येक सूर्योदय राम मोजत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Lakshmana at the gate",
+    "hi": {
+     "text": "द्वार पर लक्ष्मण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वेशीवर लक्ष्मण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At last Rama could say nothing more. He told Lakshmana: “The rains are over. The king has forgotten his word. Go to him, my brother, and speak plainly, but do not forget he is our friend.”\n\nLakshmana took his bow. He was gentle by nature, but sorrow can sharpen even the gentle. As he walked through the streets of Kishkindha, the string of his bow hummed like a hornet. The monkey guards saw his face and stepped back. Those who recognised him ran to wake their king.\n\nLakshmana strode through the city and stopped at the great gate of the palace, his eyes red, his bow raised. The monkeys, remembering the fate of the demons in the south, trembled. Angada ran out to greet his cousin and was waved aside.\n\nInside, Sugriva woke at the noise, still dizzy with sleep and sweet drinks. His courtiers whispered in fright. He understood, with a sudden cold feeling, that the thunder in the air was not from clouds.",
+    "hi": {
+     "text": "अंत में राम से और कुछ न कहा गया। उन्होंने लक्ष्मण से कहा: “वर्षा बीत गई। राजा अपना वचन भूल गया है। भाई, उसके पास जाओ और साफ़-साफ़ कहो, पर यह मत भूलना कि वह हमारा मित्र है।”\n\nलक्ष्मण ने धनुष उठाया। वे स्वभाव से कोमल थे, पर शोक कोमल को भी तीखा कर देता है। जब वे किष्किंधा की गलियों से गुज़रे, तो उनके धनुष की प्रत्यंचा भौंरे की तरह गूँज रही थी। वानर पहरेदार उनका मुख देखकर पीछे हट गए। जिन्होंने उन्हें पहचाना, वे अपने राजा को जगाने दौड़े।\n\nलक्ष्मण नगर पार करके महल के विशाल द्वार पर रुके, आँखें लाल थीं, धनुष उठा हुआ था। दक्षिण के राक्षसों का अंजाम याद करके वानर थर-थर काँप उठे। अंगद अपने भाई का स्वागत करने दौड़े, पर लक्ष्मण ने उन्हें हाथ से हटा दिया।\n\nभीतर सुग्रीव शोर से जागे, अभी नींद और मीठे पेयों के नशे में थे। दरबारी डर के मारे फुसफुसा रहे थे। उन्हें अचानक ठंडी कँपकँपी के साथ समझ आया कि हवा में गरज बादलों की नहीं है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटी रामांना आणखी काही बोलवेना. ते लक्ष्मणाला म्हणाले, “पाऊस संपला आहे. राजा आपला शब्द विसरला आहे. बंधो, त्याच्याकडे जा आणि स्पष्ट बोल, पण तो आपला मित्र आहे हे विसरू नकोस.”\n\nलक्ष्मणाने धनुष्य घेतले. तो स्वभावाने सौम्य होता, पण दुःख सौम्य माणसालाही धार देते. किष्किंधेच्या रस्त्यांतून तो चालत असताना त्याच्या धनुष्याची दोरी गांधीलमाशीसारखी गुंजत होती. वानर पहारेकऱ्यांनी त्याचा चेहरा पाहिला आणि ते मागे सरकले. ज्यांनी त्याला ओळखले ते आपल्या राजाला उठवायला धावले.\n\nलक्ष्मण नगरातून ताड ताड चालत आला आणि राजवाड्याच्या मोठ्या दारापाशी थांबला; त्याचे डोळे लाल होते, धनुष्य उचललेले होते. दक्षिणेतील राक्षसांचे काय झाले ते आठवून वानर थरथरले. अंगद आपल्या भावाचे स्वागत करायला धावत आला, पण लक्ष्मणाने त्याला बाजूला सारले.\n\nआत सुग्रीव आवाजाने जागा झाला, झोपेने आणि गोड पेयांनी अजून त्याला गुंगी होती. दरबारी भीतीने कुजबुजत होते. अचानक अंगावर काटा आणत त्याला कळले की हवेतला हा गडगडाट ढगांचा नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Tara's calm words",
+    "hi": {
+     "text": "तारा के शांत वचन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ताराचे शांत शब्द",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sugriva could not face Lakshmana. He sent the one person who might. Tara, the queen who had once begged Vali to make peace, came to the gate with unsteady steps, her eyes lowered, wearing the simple look of someone who has learned that grief is not the end of things.\n\nShe spoke softly. “Lakshmana, who would not be angry at a friend's neglect? But look at him. He was robbed of his home, he lived in terror, and now he has everything. A man like that may forget himself. He is not a traitor. He has already sent word to every corner of the earth for the armies to gather.”\n\nShe looked up. “And his heart is Rama's, even if his mind wandered.”\n\nThere was a stillness. Lakshmana felt the heat in his chest go quiet, like a fire when water is poured gently. He had come to fight, but she had given him a reason to listen. “Forgive me, Queen,” he said, lowering his bow. “Grief has made me harsh.”",
+    "hi": {
+     "text": "सुग्रीव लक्ष्मण का सामना नहीं कर सके। उन्होंने उसे भेजा जो कर सकती थी। तारा, वह रानी जिसने कभी वाली से संधि की विनती की थी, डगमगाते क़दमों से द्वार पर आई, आँखें झुकी हुई, उस सादगी के साथ जो उसे मिलती है जिसने जान लिया हो कि शोक ही अंत नहीं है।\n\nउसने धीरे से कहा। “लक्ष्मण, मित्र की उपेक्षा पर कौन क्रोधित न होगा? पर इन्हें देखिए। इनका घर छिन गया था, ये भय में जिए, और अब इनके पास सब कुछ है। ऐसा मनुष्य अपने को भूल सकता है। ये विश्वासघाती नहीं हैं। इन्होंने तो पृथ्वी के हर कोने में सेनाओं को बुलाने का संदेश कब का भेज दिया है।”\n\nउसने आँखें उठाईं। “और इनका हृदय राम का ही है, चाहे मन भटक गया हो।”\n\nएक ठहराव छा गया। लक्ष्मण को लगा कि छाती की आग शांत हो रही है, जैसे आग पर धीरे से जल डाला जाए। वे लड़ने आए थे, पर तारा ने उन्हें सुनने का कारण दे दिया। “क्षमा करें, रानी,” उन्होंने धनुष नीचे करते हुए कहा। “शोक ने मुझे कठोर बना दिया था।”",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुग्रीवाला लक्ष्मणाला सामोरे जायचे धैर्य होईना. त्याने अशा एकीला पाठवले जी जाऊ शकत होती. जिने एकेकाळी वालीला सलोखा करायची विनवणी केली होती, त्या तारा राणी, डळमळत्या पावलांनी वेशीपाशी आल्या, नजर खाली, आणि दुःख हा गोष्टींचा शेवट नसतो हे शिकलेल्या माणसाचा साधेपणा चेहऱ्यावर घेऊन.\n\nत्या हळू बोलल्या. “लक्ष्मणा, मित्राच्या दुर्लक्षाचा राग कोणाला येणार नाही? पण त्याच्याकडे पाहा. त्याचे घर हिरावले गेले, तो भीतीत जगला, आणि आता त्याला सगळे मिळाले आहे. असा माणूस स्वतःला विसरू शकतो. तो विश्वासघातकी नाही. त्याने आधीच पृथ्वीच्या कानाकोपऱ्यात सैन्य जमवण्याचा निरोप धाडला आहे.”\n\nत्यांनी वर पाहिले. “आणि त्याचे हृदय रामांचेच आहे, जरी त्याचे मन भरकटले असले तरी.”\n\nएक स्तब्धता पसरली. लक्ष्मणाला वाटले की छातीतली आग शांत होत आहे, जशी अग्नीवर हळूच पाणी ओतावे तशी. तो लढायला आला होता, पण तारेने त्याला ऐकायचे कारण दिले. “राणी, मला क्षमा करा,” धनुष्य खाली करत तो म्हणाला. “दुःखाने मला कठोर केले.”",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The army of the earth",
+    "hi": {
+     "text": "धरती की सेना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पृथ्वीचे सैन्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sugriva came out at last, his garland trembling. He bowed to Lakshmana and spoke from the heart. “I was careless. I forgot who made me king. Punish me as you wish, but let me serve Rama as I promised.”\n\nLakshmana, who had come as a storm, embraced him as a brother. Together they walked up the mountain to where Rama sat waiting. Sugriva fell at his feet, and Rama lifted him up and held him close. “A friend who has remembered is a friend who has never left,” he said.\n\nThen Sugriva sent runners in every direction. Within days, the hills of Kishkindha swelled with life. Monkeys came from the Himalayas, from the shores, from the forests of the south. Bears under old Jambavan marched in, and kings of the langurs. They arrived in ten thousands, in millions, until the valley was full of tails and banners and the sound of roaring voices.\n\nThe long waiting was over. The search for Sita could begin.",
+    "hi": {
+     "text": "आख़िर सुग्रीव बाहर आए, माला काँप रही थी। उन्होंने लक्ष्मण को प्रणाम किया और मन की बात कही। “मुझसे चूक हुई। मैं भूल गया कि मुझे राजा किसने बनाया। जो दंड चाहें दीजिए, पर मुझे राम की सेवा करने दीजिए, जैसा मैंने वचन दिया था।”\n\nजो आँधी बनकर आए थे, उन लक्ष्मण ने भाई की तरह उन्हें गले लगा लिया। दोनों साथ पर्वत पर चढ़े जहाँ राम प्रतीक्षा में बैठे थे। सुग्रीव उनके चरणों में गिर पड़े, और राम ने उन्हें उठाकर गले से लगा लिया। “जिस मित्र को याद आ गया, वह मित्र कभी गया ही नहीं था,” उन्होंने कहा।\n\nफिर सुग्रीव ने हर दिशा में दूत दौड़ाए। कुछ ही दिनों में किष्किंधा की पहाड़ियाँ जीवन से उमड़ पड़ीं। हिमालय से, समुद्र-तटों से, दक्षिण के वनों से वानर आए। बूढ़े जाम्बवान के साथ रीछ चले आए, और लंगूरों के राजा भी। वे दस-दस हज़ार, लाखों की संख्या में आए, जब तक घाटी पूँछों और ध्वजाओं और गर्जती आवाज़ों से भर नहीं गई।\n\nलंबी प्रतीक्षा समाप्त हुई। सीता की खोज शुरू हो सकती थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटी सुग्रीव बाहेर आला, त्याच्या गळ्यातला हार थरथरत होता. त्याने लक्ष्मणाला नमस्कार केला आणि मनापासून म्हणाला. “मी निष्काळजी झालो. मला कोणी राजा केले ते मी विसरलो. तुम्ही द्याल ती शिक्षा मला मान्य आहे, पण मी वचन दिल्याप्रमाणे रामांची सेवा मला करू द्या.”\n\nवादळासारखा आलेल्या लक्ष्मणाने त्याला भावासारखे आलिंगन दिले. दोघे मिळून पर्वतावर, जिथे राम वाट पाहत बसले होते, तिथे गेले. सुग्रीव त्यांच्या पायावर कोसळला, आणि रामांनी त्याला उठवून जवळ घेतले. “ज्याने आठवण ठेवली, तो मित्र कधी दूर गेलाच नव्हता,” ते म्हणाले.\n\nमग सुग्रीवाने चारही दिशांना धावते दूत पाठवले. काही दिवसांतच किष्किंधेचे डोंगर जीवनाने फुलून गेले. वानर हिमालयातून आले, सागरकिनाऱ्यांवरून आले, दक्षिणेच्या वनांतून आले. वृद्ध जांबवानाच्या नेतृत्वाखाली अस्वले आली आणि लंगुरांचे राजे आले. ते दहा हजारांच्या संख्येने, लाखोंनी आले, आणि दरी शेपट्यांनी, ध्वजांनी आणि गर्जनांच्या आवाजाने भरून गेली.\n\nदीर्घ प्रतीक्षा संपली होती. सीतेचा शोध आता सुरू होऊ शकत होता.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  }
+ ],
+ "reflect": {
+  "en": "Rama waited four months without losing hope, and Tara calmed a storm with a few kind words. When you feel anger rising today, pause and ask what gentle words might cool it. Try saying one, to yourself or aloud, before you act.",
+  "hi": {
+   "text": "राम ने चार महीने आशा न खोते हुए प्रतीक्षा की, और तारा ने कुछ कोमल शब्दों से तूफ़ान शांत कर दिया। आज जब क्रोध उठे, तो रुककर सोचिए कि कौन-से मधुर शब्द उसे ठंडा कर सकते हैं। कुछ करने से पहले उनमें से एक अपने से या ज़ोर से कहकर देखिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रामांनी आशा न सोडता चार महिने वाट पाहिली, आणि ताराने थोड्या मृदू शब्दांनी वादळ शांत केले. आज राग वर येत आहे असे वाटले तर थांबा आणि विचारा, कोणते मृदू शब्द त्याला शांत करतील. कृती करण्यापूर्वी असा एक शब्द स्वतःला किंवा मोठ्याने म्हणून पाहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Patience carries us through the long wait, and a calm voice can turn anger into understanding.",
+  "hi": {
+   "text": "धैर्य हमें लंबी प्रतीक्षा पार करा देता है, और एक शांत वाणी क्रोध को समझ में बदल सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संयम आपल्याला दीर्घ प्रतीक्षेतून पार नेतो, आणि शांत स्वर रागाला समजूतदारपणात बदलू शकतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Valmiki Ramayana, Kishkindha Kanda (the rains, Lakshmana's visit, Tara's counsel)",
+  "hi": {
+   "text": "वाल्मीकि रामायण, किष्किंधाकांड (वर्षा ऋतु, लक्ष्मण का आगमन, तारा की सीख)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाल्मीकी रामायण, किष्किंधाकांड (पावसाळा, लक्ष्मणाची भेट, ताराचा सल्ला)",
+   "reviewed": false
+  }
+ }
+}

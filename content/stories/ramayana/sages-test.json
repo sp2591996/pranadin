@@ -1,7 +1,7 @@
 {
  "$schema": "pranadin-content/1.0",
  "namespace": "story",
- "version": "2026-11-27.2",
+ "version": "2026-11-27.3",
  "status": "draft",
  "id": "sages-test",
  "order": 3,
@@ -24,18 +24,18 @@
    "reviewed": false
   },
   "mr": {
-   "text": "तेजस्वी ऋषींसोबत अंधाऱ्या वनात",
+   "text": "तेजस्वी ऋषींसोबत घनदाट अरण्यात",
    "reviewed": false
   }
  },
  "teaser": {
   "en": "A fierce sage asks the king for his dearest son. In a haunted forest, the boy prince faces his first terror.",
   "hi": {
-   "text": "एक उग्र ऋषि राजा से उनका सबसे प्यारा पुत्र माँगते हैं। भूतहा वन में बालक राजकुमार का पहला भयानक सामना होता है।",
+   "text": "एक उग्र ऋषि राजा से उनका सबसे प्यारा पुत्र माँगते हैं। भुतहे वन में किशोर राजकुमार का पहला भयानक सामना होता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "एक कठोर ऋषी राजाकडे त्याचा सर्वात प्रिय पुत्र मागतो. झपाटलेल्या वनात बालराजकुमाराला पहिल्यांदा भयाचा सामना करावा लागतो.",
+   "text": "एक उग्र ऋषी राजाकडे त्याचा सर्वात लाडका पुत्र मागतात. आणि झपाटलेल्या अरण्यात बालराजकुमारासमोर पहिले भयंकर संकट उभे राहते.",
    "reviewed": false
   }
  },
@@ -55,7 +55,7 @@
      "reviewed": false
     }
    },
-   "credit": "anonymous, Public domain, via Wikimedia Commons",
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
    "source": "https://commons.wikimedia.org/wiki/File:Rama_kills_Taraka.jpg"
   },
   {
@@ -75,24 +75,6 @@
    },
    "credit": "Workshop active in the First generation after Nainsukh, Public domain, via Wikimedia Commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_Sage_Vishvamitra_Requests_from_King_Dasharatha_the_Assistance_of_His_Son_Rama.jpg"
-  },
-  {
-   "src": "/stories/ramayana/sages-test-3.webp",
-   "w": 580,
-   "h": 1069,
-   "caption": {
-    "en": "Ahalya bows to Rama (Mughal painting by Govardhan)",
-    "hi": {
-     "text": "अहल्या राम को प्रणाम करती हैं (गोवर्धन का मुग़ल चित्र)",
-     "reviewed": false
-    },
-    "mr": {
-     "text": "अहल्या रामाला नमस्कार करते (गोवर्धनचे मुघल चित्र)",
-     "reviewed": false
-    }
-   },
-   "credit": "Govardhan, Public domain, via Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ahalya_bows_to_Rama.jpg"
   }
  ],
  "scenes": [
@@ -100,7 +82,7 @@
    "title": {
     "en": "A request that froze the court",
     "hi": {
-     "text": "ऐसी माँग जिससे सभा जम गई",
+     "text": "वह माँग, जिससे सभा जम गई",
      "reviewed": false
     },
     "mr": {
@@ -109,13 +91,13 @@
     }
    },
    "text": {
-    "en": "One day the great sage Vishwamitra, once a king himself, swept into Dasharatha's court. “Demons are spoiling my sacred fire rituals,” he said. “Send Rama with me to protect them.”\n\nThe king turned pale. “He is not yet sixteen! Take my whole army, take me, but not my Rama.” The sage's eyes flashed with anger. Only when the royal teacher Vasishtha gently reminded the king that Rama would be safe with such a master did Dasharatha, trembling, let his sons go. Lakshmana, of course, went too.",
+    "en": "One day the great sage Vishwamitra, once a mighty king himself and now a blazing ascetic, swept into Dasharatha’s court. The king rose at once, offered him a seat and said, “Ask anything. Whatever you wish, I will give.”\n\n“Demons are spoiling my sacred fire rituals,” said Vishwamitra. “Maricha and Subahu pour blood and bones onto the altar. Send Rama with me to protect them for ten days.”\n\nThe king turned pale. The cup fell from his hand. “He is not yet sixteen! He has never seen a real war. Take my whole army, take me, but not my Rama.”\n\nThe sage’s eyes flashed. “You gave your word, and now you take it back? I will go as I came, and may you be happy.” The whole court trembled. The earth itself seemed to shudder at the sage’s anger.\n\nSilence pressed on every heart. Even the lamps seemed to burn lower. Dasharatha stood at the edge of a decision that would shape the whole story.",
     "hi": {
-     "text": "एक दिन महान ऋषि विश्वामित्र, जो कभी स्वयं राजा थे, दशरथ की सभा में आ पहुँचे। “राक्षस मेरे पवित्र यज्ञों को बिगाड़ रहे हैं,” उन्होंने कहा। “रक्षा के लिए राम को मेरे साथ भेज दो।”\n\nराजा का मुख पीला पड़ गया। “वह अभी सोलह वर्ष का भी नहीं हुआ! मेरी पूरी सेना ले लीजिए, मुझे ले लीजिए, पर मेरे राम को नहीं।” ऋषि की आँखें क्रोध से चमक उठीं। जब राजगुरु वशिष्ठ ने धीरे से याद दिलाया कि ऐसे गुरु के साथ राम सुरक्षित रहेंगे, तब कहीं काँपते हृदय से दशरथ ने अपने पुत्रों को जाने दिया। लक्ष्मण तो साथ गए ही।",
+     "text": "एक दिन महान ऋषि विश्वामित्र, जो कभी स्वयं प्रतापी राजा थे और अब तेजस्वी तपस्वी, दशरथ की सभा में आँधी की तरह आ पहुँचे। राजा तुरंत उठे, आसन दिया और बोले, “माँगिए, जो भी चाहिए, मैं दूँगा।”\n\n“राक्षस मेरे यज्ञों को अपवित्र कर रहे हैं,” विश्वामित्र ने कहा। “मारीच और सुबाहु वेदी पर रक्त और हड्डियाँ बरसाते हैं। दस दिन उनकी रक्षा के लिए राम को मेरे साथ भेज दो।”\n\nराजा का मुख पीला पड़ गया। हाथ से प्याला छूट गया। “वह अभी सोलह वर्ष का भी नहीं हुआ! उसने कभी सचमुच का युद्ध नहीं देखा। मेरी पूरी सेना ले जाइए, मुझे ले जाइए, पर मेरे राम को नहीं।”\n\nऋषि की आँखों से चिंगारियाँ छूटीं। “तुमने वचन दिया था, और अब मुकर रहे हो? जैसा आया था, वैसा ही लौट जाऊँगा। सुखी रहो।” पूरी सभा काँप उठी। ऋषि के क्रोध से धरती भी थरथराती लगी।\n\nहर हृदय पर सन्नाटा भारी था। दीपों की लौ भी मद्धिम होती लगी। दशरथ एक ऐसे निर्णय के किनारे खड़े थे, जो पूरी कथा की दिशा तय करने वाला था।",
      "reviewed": false
     },
     "mr": {
-     "text": "एके दिवशी, एकेकाळी स्वतः राजा असलेले महान ऋषी विश्वामित्र दशरथाच्या दरबारात वादळासारखे आले. “राक्षस माझ्या यज्ञांत विघ्न आणत आहेत,” ते म्हणाले. “रामाला माझ्यासोबत पाठव, तो यज्ञाचे रक्षण करील.”\n\nराजा फिकट पडला. “तो अजून सोळा वर्षांचाही नाही! माझे सारे सैन्य घ्या, मला घ्या, पण माझ्या रामाला नको.” ऋषींचे डोळे रागाने लकाकले. शेवटी राजगुरू वसिष्ठांनी हळुवारपणे आठवण करून दिली की अशा गुरूसोबत राम सुरक्षित राहील, तेव्हाच थरथरत्या मनाने दशरथाने आपल्या पुत्रांना जाऊ दिले. लक्ष्मणही अर्थातच सोबत गेला.",
+     "text": "एके दिवशी थोर ऋषी विश्वामित्र, जे एकेकाळी स्वतः बलाढ्य राजा होते आणि आता तेजस्वी तपस्वी, दशरथाच्या दरबारात आले. राजा लगेच उठला, त्याने आसन दिले आणि म्हणाला, “काहीही मागा. जे इच्छिता ते मी देईन.”\n\n“राक्षस माझ्या पवित्र यज्ञांना विटाळत आहेत,” विश्वामित्र म्हणाले. “मारीच आणि सुबाहू वेदीवर रक्त आणि हाडे ओततात. रामाला माझ्यासोबत पाठव, दहा दिवस तो यज्ञाचे रक्षण करेल.”\n\nराजाचा चेहरा पांढराफटक पडला. हातातला पेला गळून पडला. “तो अजून सोळा वर्षांचाही नाही! त्याने खरे युद्ध कधी पाहिलेले नाही. माझे सारे सैन्य घ्या, मला घ्या, पण माझ्या रामाला नको.”\n\nऋषींचे डोळे चमकले. “वचन तू दिलेस आणि आता मागे घेतोस? आलो तसाच मी निघून जातो, तू सुखी राहा.” सारा दरबार थरथरला. ऋषींच्या क्रोधाने जणू धरणीही कंपित झाली.\n\nप्रत्येक हृदयावर शांतता दाटली. दिवेही मंद झाल्यासारखे वाटले. संपूर्ण कथेची दिशा ठरवणाऱ्या निर्णयाच्या काठावर दशरथ उभा होता.",
      "reviewed": false
     }
    },
@@ -123,24 +105,48 @@
   },
   {
    "title": {
-    "en": "Secret mantras by the river",
+    "en": "The old teacher’s counsel",
     "hi": {
-     "text": "सरयू तट पर गुप्त मंत्र",
+     "text": "बूढ़े गुरु की सलाह",
      "reviewed": false
     },
     "mr": {
-     "text": "नदीकाठी गुप्त मंत्र",
+     "text": "जुन्या गुरूंचा सल्ला",
      "reviewed": false
     }
    },
    "text": {
-    "en": "On the bank of the Sarayu, Vishwamitra taught the boys two secret mantras, Bala and Atibala. “With these,” he said, “you will never feel hunger, thirst or tiredness, and no one will catch you off guard.”\n\nThat night the princes slept on grass under the stars, two palace boys learning that the forest was now their home. Each morning Vishwamitra woke them with words still sung in temples: “Wake, Rama, the dawn has come. It is time for your morning prayers.”",
+    "en": "Into this terrible silence stepped Vasishtha, the royal teacher, calm as a still lake. “King of the Ikshvakus, you are known for keeping your word. How can you break it now? Do not fear for Rama. This is no ordinary sage. Vishwamitra holds weapons that even the gods have not seen, and he will be Rama’s guardian, as a fire guards a flame.”\n\nDasharatha closed his eyes. Every instinct of a father cried out against it, and yet he knew his duty. Slowly he nodded. He called both princes, for Lakshmana would not be left behind, and kissed their foreheads, and gave them to the sage. His hands shook as he let go.\n\nKausalya wept at the palace gate. Sumitra, with courage, whispered to Lakshmana: “Rama is your father now. The forest is your home. Go and do not look back.” And the two boys, bows on their shoulders, walked after the grey-bearded sage.",
     "hi": {
-     "text": "सरयू के किनारे विश्वामित्र ने बालकों को दो गुप्त मंत्र सिखाए, बला और अतिबला। “इनसे तुम्हें कभी भूख, प्यास या थकान नहीं सताएगी,” उन्होंने कहा, “और कोई तुम्हें असावधान नहीं पकड़ सकेगा।”\n\nउस रात दोनों राजकुमार तारों के नीचे घास पर सोए, महल के दो बालक यह सीखते हुए कि अब वन ही उनका घर है। हर सुबह विश्वामित्र उन्हें उन शब्दों से जगाते जो आज भी मंदिरों में गाए जाते हैं: “उठो राम, भोर हो गई। संध्या-वंदन का समय हो गया।”",
+     "text": "इसी भयानक सन्नाटे में राजगुरु वसिष्ठ आगे आए, शांत सरोवर की तरह स्थिर। “इक्ष्वाकु कुल के राजन्, आप वचन निभाने के लिए जाने जाते हैं। अब उसे कैसे तोड़ेंगे? राम की चिंता मत कीजिए। ये कोई साधारण ऋषि नहीं हैं। विश्वामित्र के पास ऐसे अस्त्र हैं जो देवताओं ने भी नहीं देखे, और वे राम की रक्षा वैसे ही करेंगे जैसे अग्नि अपनी लौ की करती है।”\n\nदशरथ ने आँखें मूँद लीं। एक पिता की हर वृत्ति इसके विरुद्ध चीख रही थी, फिर भी वे अपना कर्तव्य जानते थे। धीरे से उन्होंने सिर हिलाया। उन्होंने दोनों राजकुमारों को बुलाया, क्योंकि लक्ष्मण पीछे रहने वाले न थे, उनके माथे चूमे और उन्हें ऋषि को सौंप दिया। हाथ छोड़ते हुए उनके हाथ काँप रहे थे।\n\nकौशल्या महल के द्वार पर रो पड़ीं। सुमित्रा ने साहस बटोरकर लक्ष्मण के कान में कहा, “अब से राम को ही अपना पिता समझना। वन ही तुम्हारा घर है। जाओ, और मुड़कर मत देखना।” और दोनों बालक कंधों पर धनुष लिए, श्वेत दाढ़ी वाले ऋषि के पीछे चल पड़े।",
      "reviewed": false
     },
     "mr": {
-     "text": "सरयूच्या काठी विश्वामित्रांनी मुलांना दोन गुप्त मंत्र शिकवले, बला आणि अतिबला. “यांच्यामुळे,” ते म्हणाले, “तुम्हाला भूक, तहान किंवा थकवा जाणवणार नाही आणि कोणीही तुम्हाला बेसावध गाठू शकणार नाही.”\n\nत्या रात्री दोन राजवाड्यातली मुले तारे पाहत गवतावर झोपली, आता वनच आपले घर आहे हे शिकत. रोज सकाळी विश्वामित्र त्यांना ज्या शब्दांनी उठवत ते आजही मंदिरांत गायले जातात: “उठ राम, पहाट झाली आहे. आता तुझ्या प्रातःसंध्येची वेळ झाली.”",
+     "text": "या भयाण शांततेत शांत सरोवरासारखे स्थिर राजगुरू वसिष्ठ पुढे आले. “इक्ष्वाकू कुलाच्या राजा, तू दिलेला शब्द पाळणारा म्हणून ओळखला जातोस. आता तो कसा मोडशील? रामासाठी भिऊ नकोस. हे सामान्य ऋषी नाहीत. विश्वामित्रांकडे देवांनीही न पाहिलेली अस्त्रे आहेत, आणि अग्नी ज्योतीचे रक्षण करतो तसे ते रामाचे रक्षण करतील.”\n\nदशरथाने डोळे मिटले. पित्याची प्रत्येक भावना विरोध करत होती, तरी आपले कर्तव्य तो जाणत होता. हळूहळू त्याने मान डोलावली. त्याने दोन्ही राजकुमारांना बोलावले, कारण लक्ष्मण मागे राहणारच नव्हता, त्यांच्या कपाळाचे चुंबन घेतले आणि त्यांना ऋषींच्या हवाली केले. त्यांचे हात सोडताना त्याचे स्वतःचे हात थरथरत होते.\n\nराजवाड्याच्या दारात कौसल्या रडत होती. सुमित्रेने धैर्याने लक्ष्मणाच्या कानात सांगितले, “आता राम तुझा पिता आहे. वन हेच तुझे घर. जा, आणि मागे वळून पाहू नकोस.” आणि खांद्यावर धनुष्ये घेऊन दोन्ही मुले त्या पिकलेल्या दाढीच्या ऋषींच्या मागे चालू लागली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Secret mantras and a bed of grass",
+    "hi": {
+     "text": "गुप्त मंत्र और घास की शय्या",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुप्त मंत्र आणि गवताचे अंथरूण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the banks of the Sarayu, Vishwamitra stopped. He asked the boys to sip water and face east. Then he taught them two secret mantras, Bala and Atibala. “With these,” he said, “you will never feel hunger, thirst or tiredness, and no one will ever catch you off guard in sleep or in battle.”\n\nThey walked for hours through shady groves. That night the princes slept on a bed of grass beneath the stars, two palace boys learning for the first time what the forest felt like. The ground was hard. The sky was enormous. Lakshmana lay awake listening to the sound of crickets and watching Rama breathe.\n\nIn the grey before dawn, Vishwamitra bent over Rama and spoke the words that are still sung in temples across India, the morning song, the suprabhatam: “Wake, Rama, son of Kausalya. The dawn is breaking. It is time for your morning prayers.” Rama rose, and the great sage felt his heart lift.",
+    "hi": {
+     "text": "सरयू के तट पर विश्वामित्र रुक गए। उन्होंने बालकों से आचमन करने और पूर्व की ओर मुख करने को कहा। फिर उन्होंने उन्हें दो गुप्त मंत्र सिखाए, बला और अतिबला। “इनसे,” वे बोले, “तुम्हें कभी भूख, प्यास या थकान न लगेगी, और नींद में या युद्ध में कोई तुम्हें असावधान न पा सकेगा।”\n\nवे घंटों छायादार वनों में चलते रहे। उस रात राजकुमार तारों भरे आकाश के नीचे घास की शय्या पर सोए, दो महल के बालक, जो पहली बार जान रहे थे कि वन कैसा होता है। धरती कठोर थी। आकाश अपार था। लक्ष्मण जागते रहे, झींगुरों की आवाज़ सुनते और राम को साँस लेते देखते।\n\nभोर से पहले के धुँधलके में विश्वामित्र राम पर झुके और वे शब्द बोले, जो आज भी पूरे भारत के मंदिरों में गाए जाते हैं, वह प्रभाती, वह सुप्रभातम्: “उठो, कौशल्या के पुत्र राम। भोर हो रही है। प्रातःकाल की संध्या का समय हो गया।” राम उठे, और महान ऋषि का हृदय खिल उठा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शरयूच्या काठी विश्वामित्र थांबले. मुलांना त्यांनी आचमन करून पूर्वेकडे तोंड करायला सांगितले. मग त्यांनी बला आणि अतिबला हे दोन गुप्त मंत्र शिकवले. “यांमुळे,” ते म्हणाले, “तुम्हाला भूक, तहान किंवा थकवा कधीच जाणवणार नाही, आणि झोपेत किंवा युद्धात कोणीही तुम्हाला बेसावध पकडू शकणार नाही.”\n\nसावलीच्या राया तुडवत ते तासनतास चालले. त्या रात्री राजकुमार चांदण्याखाली गवताच्या अंथरुणावर झोपले, वनाचा स्पर्श प्रथमच अनुभवणारी राजवाड्यातली दोन मुले. जमीन टणक होती, आकाश अफाट. लक्ष्मण जागाच राहिला, रातकिड्यांचा आवाज ऐकत आणि रामाचे श्वास न्याहाळत.\n\nपहाटेच्या करड्या प्रकाशात विश्वामित्रांनी रामावर वाकून जे शब्द उच्चारले, ते आजही भारतभर मंदिरांत गायले जातात, ते प्रभाती सूर, सुप्रभातम: “उठ राम, कौसल्येच्या पुत्रा. पहाट होत आहे. प्रातःकर्मांची वेळ झाली.” राम उठला, आणि थोर ऋषींचे हृदय आनंदाने भरून आले.",
      "reviewed": false
     }
    }
@@ -149,95 +155,94 @@
    "title": {
     "en": "Tataka of the dark wood",
     "hi": {
-     "text": "अँधेरे वन की ताड़का",
+     "text": "काले वन की ताड़का",
      "reviewed": false
     },
     "mr": {
-     "text": "काळ्या वनातील ताटका",
+     "text": "काळ्या वनातील ताटिका",
      "reviewed": false
     }
    },
    "text": {
-    "en": "They reached a forest where no birds sang. Trees were broken, the ground scorched. “This is the land of Tataka,” said the sage. “She has the strength of a thousand elephants.”\n\nWith a roar Tataka burst out, hurling rocks, raising storms of dust, vanishing and appearing again. Rama hesitated; he did not want to strike a woman. “Rama,” said Vishwamitra, “protecting the innocent is your dharma.” Rama drew his bow. The arrow flew true, and the forest breathed again.",
+    "en": "They crossed the Ganga and entered a forest where no birds sang. The trees were broken, the ground scorched and cracked, and the air hung heavy with dread. “This is the land of Tataka,” said Vishwamitra quietly. “She was once a beautiful spirit, but cursed, and she has the strength of a thousand elephants. She has made this land a desert.”\n\nRama twanged his bowstring, and the sound rolled through the forest. With a roar Tataka burst from the trees, hurling rocks, raising storms of dust, vanishing and appearing again.\n\nRama hesitated. He did not want to strike a woman. “Rama,” said Vishwamitra, “protecting the innocent is your dharma. She has destroyed the lives of thousands. Do not let kindness for one become cruelty to many.”\n\nRama steadied his breath, drew the bowstring to his ear, and loosed the arrow. It flew true. The great shape fell. And across the dark wood the forest breathed again, and a single bird began to sing.",
     "hi": {
-     "text": "वे ऐसे वन में पहुँचे जहाँ कोई पक्षी नहीं गाता था। पेड़ टूटे पड़े थे, धरती झुलसी हुई थी। “यह ताड़का का क्षेत्र है,” ऋषि ने कहा। “उसमें हज़ार हाथियों का बल है।”\n\nगर्जना करती ताड़का सामने आई, पत्थर बरसाती, धूल के बवंडर उठाती, कभी ओझल होती, कभी फिर प्रकट होती। राम झिझके; वे एक स्त्री पर प्रहार नहीं करना चाहते थे। “राम,” विश्वामित्र ने कहा, “निर्दोषों की रक्षा करना तुम्हारा धर्म है।” राम ने धनुष चढ़ाया। बाण सीधा लक्ष्य पर लगा, और वन ने फिर साँस ली।",
+     "text": "उन्होंने गंगा पार की और एक ऐसे वन में प्रवेश किया जहाँ कोई पक्षी नहीं गाता था। पेड़ टूटे थे, धरती झुलसी और फटी थी, और हवा में भय भरा था। “यह ताड़का की भूमि है,” विश्वामित्र ने धीमे स्वर में कहा। “वह कभी सुंदर यक्षिणी थी, पर शापित हुई, और अब उसमें हज़ार हाथियों का बल है। उसने इस प्रदेश को मरुभूमि बना दिया है।”\n\nराम ने धनुष की प्रत्यंचा टंकारी, और उसकी गूँज पूरे वन में फैल गई। एक गर्जना के साथ ताड़का पेड़ों के बीच से टूट पड़ी, पत्थर फेंकती, धूल के बवंडर उठाती, ओझल होती और फिर प्रकट होती।\n\nराम झिझके। वे किसी स्त्री पर प्रहार नहीं करना चाहते थे। “राम,” विश्वामित्र ने कहा, “निर्दोषों की रक्षा करना तुम्हारा धर्म है। इसने हज़ारों के जीवन उजाड़ दिए हैं। एक पर दया करके बहुतों पर क्रूरता मत होने दो।”\n\nराम ने साँस थामी, प्रत्यंचा कान तक खींची और बाण छोड़ दिया। वह ठीक निशाने पर लगा। विशाल देह गिर पड़ी। और उस अँधेरे वन में फिर से साँस लौटी, और एक अकेला पक्षी चहक उठा।",
      "reviewed": false
     },
     "mr": {
-     "text": "ते अशा वनात पोहोचले जिथे पक्षी गात नव्हते. झाडे मोडलेली, जमीन करपलेली. “ही ताटकेची भूमी,” ऋषी म्हणाले. “तिच्यात हजार हत्तींचे बळ आहे.”\n\nगर्जना करत ताटका बाहेर झेपावली, दगड फेकत, धुळीची वादळे उठवत, गायब होत आणि पुन्हा प्रकटत. रामाने क्षणभर संकोच केला; स्त्रीवर बाण सोडायचा नव्हता त्याला. “रामा,” विश्वामित्र म्हणाले, “निष्पापांचे रक्षण करणे हा तुझा धर्म आहे.” रामाने धनुष्य ओढले. बाण नेमका सुटला आणि वनाने पुन्हा मोकळा श्वास घेतला.",
+     "text": "गंगा पार करून ते अशा जंगलात शिरले जिथे एकही पक्षी गात नव्हता. झाडे मोडलेली, जमीन करपलेली आणि भेगाळलेली, आणि हवेत भीती दाटलेली. “ही ताटिकेची भूमी,” विश्वामित्र हळू म्हणाले. “ती एकेकाळी सुंदर यक्षिणी होती, पण शापित झाली, आणि तिच्यात हजार हत्तींचे बळ आहे. तिने ही भूमी वाळवंट करून टाकली आहे.”\n\nरामाने धनुष्याची दोरी छेडली आणि तो नाद सारे वन दुमदुमून गेला. गर्जना करत ताटिका झाडीतून धावून आली, दगड फेकत, धुळीची वादळे उठवत, गायब होत आणि पुन्हा प्रकट होत.\n\nरामाने संकोच केला. स्त्रीवर वार करणे त्याला मान्य नव्हते. “राम,” विश्वामित्र म्हणाले, “निरपराधांचे रक्षण हा तुझा धर्म आहे. तिने हजारो जीवनांचा नाश केला आहे. एकावरची दया अनेकांवरची क्रूरता ठरू देऊ नकोस.”\n\nरामाने श्वास स्थिर केला, दोरी कानापर्यंत ओढली आणि बाण सोडला. तो अचूक लागला. ती महाकाय आकृती कोसळली. आणि त्या काळ्या वनात पुन्हा श्वास सुरू झाला, आणि एका पक्ष्याने गायला सुरुवात केली.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Guarding the sacred fire",
+    "en": "Six nights without sleep",
     "hi": {
-     "text": "यज्ञ की रखवाली",
+     "text": "छह रातें बिना नींद के",
      "reviewed": false
     },
     "mr": {
-     "text": "पवित्र अग्नीचे रक्षण",
+     "text": "सहा रात्री झोपेविना",
      "reviewed": false
     }
    },
    "text": {
-    "en": "At the sage's hermitage, the ritual lasted six days and six nights. The brothers did not sleep. On the last day the sky darkened as the demons Maricha and Subahu swooped down to pour blood on the altar.\n\nRama's arrow struck Maricha and flung him far out over the ocean, alive but terrified. Subahu fell. Remember Maricha: he will return, wearing a disguise of gold.",
+    "en": "At Vishwamitra’s hermitage, the sage began his great ritual. For six days and six nights the brothers stood guard, awake and alert, bows ready, their eyes never leaving the sky. They did not sleep. They did not tire, for the mantras of Bala and Atibala held them up.\n\nThe forest was strangely silent. Sages chanted softly, ghee crackled in the sacred fire, and the smoke rose in a straight line.\n\nOn the sixth night, when the fire stood at its brightest, the sky suddenly darkened. A roar shook the hermitage. Out of the clouds rushed two terrible shapes: the demon Maricha, huge and loud, and his companion Subahu, with a rain of blood in their hands.\n\nThe sages did not move. Rama’s hand went to his quiver. Lakshmana’s fingers were white on his bow. Everything depended on the next breath.\n\nThe brothers stood back to back at the altar, hearts pounding, knowing that if they failed, the sages’ six days of prayer would be undone in a single breath.",
     "hi": {
-     "text": "ऋषि के आश्रम में यज्ञ छह दिन और छह रात चला। भाइयों ने पलक भी नहीं झपकाई। अंतिम दिन आकाश अँधेरा हो गया, राक्षस मारीच और सुबाहु वेदी पर रक्त बरसाने झपटे।\n\nराम के बाण ने मारीच को दूर समुद्र के पार फेंक दिया, जीवित पर भय से काँपता हुआ। सुबाहु मारा गया। मारीच को याद रखिए: वह लौटेगा, सोने का वेश धरकर।",
+     "text": "विश्वामित्र के आश्रम में ऋषि ने अपना महान यज्ञ आरंभ किया। छह दिन और छह रात दोनों भाई पहरे पर खड़े रहे, जागते और चौकस, धनुष तैयार, आँखें आकाश से कभी न हटतीं। वे सोए नहीं। थके नहीं, क्योंकि बला और अतिबला के मंत्र उन्हें थामे थे।\n\nवन में अजीब-सी शांति थी। ऋषि धीमे स्वर में मंत्र पढ़ रहे थे, यज्ञाग्नि में घी चटक रहा था, और धुआँ सीधी रेखा में ऊपर जा रहा था।\n\nछठी रात, जब अग्नि अपनी पूरी प्रखरता पर थी, आकाश अचानक काला पड़ गया। एक गर्जन से आश्रम हिल उठा। बादलों में से दो भयंकर आकृतियाँ झपटीं: विशालकाय और कोलाहल मचाता राक्षस मारीच, और उसका साथी सुबाहु, दोनों के हाथों में रक्त की वर्षा थी।\n\nऋषि अपनी जगह से नहीं हिले। राम का हाथ तरकश तक गया। लक्ष्मण की उँगलियाँ धनुष पर सफ़ेद पड़ गईं। सब कुछ अगली साँस पर टिका था।\n\nदोनों भाई वेदी पर पीठ से पीठ टिकाए खड़े थे, दिल धड़कते हुए, यह जानते हुए कि यदि वे चूके तो ऋषियों के छह दिन की तपस्या एक ही क्षण में व्यर्थ हो जाएगी।",
      "reviewed": false
     },
     "mr": {
-     "text": "ऋषींच्या आश्रमात यज्ञ सहा दिवस आणि सहा रात्री चालला. भावांनी डोळ्याला डोळा लावला नाही. शेवटच्या दिवशी आकाश काळवंडले आणि मारीच व सुबाहू हे राक्षस वेदीवर रक्त ओतायला झेपावले.\n\nरामाच्या बाणाने मारीचाला उचलून समुद्राच्या पार दूर फेकले, जिवंत पण घाबरलेल्या अवस्थेत. सुबाहू पडला. मारीचाला लक्षात ठेवा: तो परत येईल, सोन्याचे रूप धारण करून.",
+     "text": "विश्वामित्रांच्या आश्रमात ऋषींनी आपला महान यज्ञ सुरू केला. सहा दिवस आणि सहा रात्री दोन्ही भाऊ जागे आणि सावध, धनुष्ये सज्ज, नजर आकाशावरून न हटवता पहारा देत राहिले. ते झोपले नाहीत. थकले नाहीत, कारण बला आणि अतिबला मंत्रांनी त्यांना सावरले होते.\n\nवन विलक्षण शांत होते. ऋषी हळू मंत्र म्हणत होते, पवित्र अग्नीत तूप तडतडत होते आणि धूर सरळ रेषेत वर जात होता.\n\nसहाव्या रात्री, यज्ञाग्नी सर्वात प्रखर असताना, आकाश अचानक काळवंडले. एका गर्जनेने आश्रम हादरला. ढगांतून दोन भयंकर आकृती धावून आल्या: अवाढव्य आणि कर्कश मारीच आणि त्याचा साथीदार सुबाहू, हातांतून रक्ताचा वर्षाव करत.\n\nऋषी हलले नाहीत. रामाचा हात भात्याकडे गेला. लक्ष्मणाची बोटे धनुष्यावर पांढरी पडली. पुढच्या श्वासावर सारे अवलंबून होते.\n\nवेदीजवळ दोघे भाऊ पाठीला पाठ लावून उभे राहिले, हृदये धडधडत होती, कारण ते अपयशी ठरले तर ऋषींच्या सहा दिवसांच्या तपाचा एका क्षणात नाश होणार होता.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "A stone that came to life",
+    "en": "Maricha flung across the sea",
     "hi": {
-     "text": "पत्थर में प्राण",
+     "text": "सागर पार फेंका गया मारीच",
      "reviewed": false
     },
     "mr": {
-     "text": "दगडातून जिवंत झालेली स्त्री",
+     "text": "समुद्रापार फेकला गेलेला मारीच",
      "reviewed": false
     }
    },
    "text": {
-    "en": "On the road to Mithila they passed an empty, silent hermitage. Here lived Ahalya, wife of the sage Gautama, who under a curse had been living unseen for many years, without food, purifying herself through penance.\n\nWhen Rama stepped into the hermitage and bowed to her, the curse ended. Ahalya shone again, like a flame breaking free of smoke. She welcomed the princes as honoured guests, flowers fell from the sky, and Gautama returned to his wife. Rama's touch had not judged her. It had restored her.",
+    "en": "Rama chose two arrows. One was a gentle weapon, the Manava, a sweeping arrow that did not kill. It struck Maricha square in the chest and hurled him a hundred yojanas, spinning end over end, until he plunged into the far ocean, alive but terrified and utterly stunned.\n\nThe second was a fire arrow. It struck Subahu, and the demon fell dead among the broken clouds. The rest of their army fled like leaves before a storm.\n\nThe sacred fire kept burning. Not one drop of blood touched the altar. The sages rose from their seats with tears of joy, and Vishwamitra embraced the young prince. “Today my vow is fulfilled. You have done more than guard a ritual, Rama. You have shown what a protector is.”\n\nRama bowed his head and said nothing. Remember Maricha, though. He had been hurled to a distant shore, and he had learned a fear he would never forget. One day, far from here, he would return wearing a disguise of gold.",
     "hi": {
-     "text": "मिथिला के मार्ग में उन्हें एक सूना, मौन आश्रम मिला। यहाँ ऋषि गौतम की पत्नी अहल्या रहती थीं, जो शाप के कारण बरसों से अदृश्य थीं, बिना अन्न-जल के तपस्या से स्वयं को शुद्ध करती हुई।\n\nजैसे ही राम ने आश्रम में पग रखा और उन्हें प्रणाम किया, शाप समाप्त हो गया। अहल्या फिर दमक उठीं, जैसे धुएँ से निकली ज्वाला। उन्होंने राजकुमारों का अतिथि की तरह सत्कार किया, आकाश से पुष्प बरसे, और गौतम अपनी पत्नी के पास लौट आए। राम के स्पर्श ने उन्हें दोषी नहीं ठहराया था। उसने उन्हें फिर से पूर्ण कर दिया था।",
+     "text": "राम ने दो बाण चुने। एक कोमल अस्त्र था, मानव अस्त्र, एक ऐसा बाण जो झोंके की तरह धकेलता है, मारता नहीं। उसने मारीच की छाती पर सीधा प्रहार किया और उसे सौ योजन दूर फेंक दिया। वह लट्टू की तरह घूमता हुआ दूर के महासागर में जा गिरा, जीवित, पर भय से काँपता और बिलकुल अचेत।\n\nदूसरा अग्निबाण था। वह सुबाहु को लगा, और राक्षस बिखरे बादलों के बीच मरकर गिर पड़ा। उनकी बाकी सेना तूफ़ान में उड़ते पत्तों की तरह भाग खड़ी हुई।\n\nयज्ञ की अग्नि जलती रही। वेदी पर रक्त की एक बूँद भी नहीं पड़ी। ऋषि आनंद के आँसुओं के साथ अपने आसनों से उठे, और विश्वामित्र ने युवा राजकुमार को गले लगा लिया। “आज मेरा व्रत पूरा हुआ। तुमने केवल यज्ञ की रक्षा नहीं की, राम। तुमने दिखा दिया कि रक्षक कैसा होता है।”\n\nराम ने सिर झुका लिया और कुछ न कहा। पर मारीच को याद रखिए। वह दूर किनारे पर फेंका गया था, और उसने ऐसा भय जान लिया था जिसे वह कभी न भूलेगा। एक दिन, यहाँ से बहुत दूर, वह सोने का वेश धरकर लौटेगा।",
      "reviewed": false
     },
     "mr": {
-     "text": "मिथिलेच्या वाटेवर त्यांना एक ओसाड, शांत आश्रम दिसला. येथे ऋषी गौतमांची पत्नी अहल्या शापामुळे अनेक वर्षे कुणालाही न दिसता, अन्नाशिवाय, तपश्चर्येने स्वतःला शुद्ध करत राहत होती.\n\nरामाने आश्रमात पाऊल ठेवून तिला नमस्कार केला आणि शाप संपला. धुरातून बाहेर पडणाऱ्या ज्योतीसारखी अहल्या पुन्हा तेजाने उजळली. तिने राजकुमारांचे पाहुणे म्हणून स्वागत केले, आकाशातून फुले पडली आणि गौतम आपल्या पत्नीकडे परतले. रामाच्या स्पर्शाने तिचा न्याय केला नाही. तिला पुन्हा पूर्वस्थितीला आणले.",
+     "text": "रामाने दोन बाण निवडले. एक सौम्य अस्त्र, मानवास्त्र, मारणारे नव्हे तर उडवून टाकणारे. ते मारीचाच्या छातीवर बरोबर लागले आणि त्याला शंभर योजने दूर भिरकावून गेले. गरगर फिरत तो दूरच्या सागरात आदळला, जिवंत पण भयभीत आणि पूर्ण स्तब्ध.\n\nदुसरा अग्निबाण होता. तो सुबाहूला लागला आणि तो राक्षस तुटलेल्या ढगांमध्ये मरून पडला. उरलेले त्यांचे सैन्य वादळापुढच्या पानांसारखे पळून गेले.\n\nयज्ञाग्नी तेवत राहिला. वेदीवर रक्ताचा एकही थेंब पडला नाही. आनंदाश्रू गाळत ऋषी उठले, आणि विश्वामित्रांनी तरुण राजकुमाराला आलिंगन दिले. “आज माझे व्रत पूर्ण झाले. राम, तू यज्ञाचे रक्षण केलेस इतकेच नाही, तर रक्षक कसा असतो ते दाखवलेस.”\n\nरामाने मान झुकवली आणि काही बोलला नाही. पण मारीचाला लक्षात ठेवा. तो दूरच्या किनाऱ्यावर फेकला गेला होता आणि तो असा धसका शिकला होता जो तो कधीच विसरणार नव्हता. एके दिवशी, इथून फार दूर, तो सोनेरी वेश घेऊन परत येणार होता.",
      "reviewed": false
     }
-   },
-   "image": 2
+   }
   }
  ],
  "reflect": {
   "en": "Rama did hard things not for glory but because they protected others. What is one difficult duty you have been avoiding? Take one small step toward it today.",
   "hi": {
-   "text": "राम ने कठिन कार्य यश के लिए नहीं, दूसरों की रक्षा के लिए किए। कौन-सा कठिन कर्तव्य आप टालते आ रहे हैं? आज उसकी ओर एक छोटा कदम बढ़ाइए।",
+   "text": "राम ने कठिन काम यश के लिए नहीं, दूसरों की रक्षा के लिए किए। आप कौन-सा कठिन कर्तव्य टालते आ रहे हैं? आज उसकी ओर एक छोटा-सा क़दम बढ़ाइए।",
    "reviewed": false
   },
   "mr": {
-   "text": "रामाने कठीण कामे केली ती कीर्तीसाठी नव्हे, तर ती इतरांचे रक्षण करत होती म्हणून. एखादे अवघड कर्तव्य तुम्ही टाळत आहात का? आज त्या दिशेने एक छोटे पाऊल टाका.",
+   "text": "रामाने कठीण गोष्टी कीर्तीसाठी केल्या नाहीत, तर इतरांचे रक्षण व्हावे म्हणून केल्या. कोणते अवघड कर्तव्य तुम्ही टाळत आहात? आज त्याकडे एक छोटे पाऊल टाका.",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "Courage is doing what is right when you are afraid, and grace is lifting others up instead of judging them.",
+  "en": "Courage is doing what is right when you are afraid, and a good teacher trusts you with a task bigger than you think you can carry.",
   "hi": {
-   "text": "साहस वही है जो भय में भी सही काम करे, और कृपा वही है जो दूसरों को परखने के बजाय उठाए।",
+   "text": "साहस वही है जो डर के बीच भी सही काम करे, और अच्छा गुरु आप पर उतना बड़ा कार्य सौंपता है जितना आप स्वयं उठा पाने की कल्पना नहीं करते।",
    "reviewed": false
   },
   "mr": {
-   "text": "भीती वाटत असतानाही जे योग्य ते करणे म्हणजे धैर्य, आणि इतरांना दोष न देता त्यांना उठवणे म्हणजे कृपा.",
+   "text": "भीती वाटत असतानाही जे योग्य ते करणे हेच धैर्य, आणि चांगला गुरू आपल्याला वाटते त्यापेक्षा मोठे काम सोपवण्याइतका आपल्यावर विश्वास ठेवतो.",
    "reviewed": false
   }
  },
