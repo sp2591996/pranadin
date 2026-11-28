@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-field-and-the-knower",
+ "order": 14,
+ "part": "jnana",
+ "figure": {
+  "en": "Dnyaneshwar",
+  "hi": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Field and the Knower",
+  "hi": {
+   "text": "क्षेत्र और क्षेत्रज्ञ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "क्षेत्र आणि क्षेत्रज्ञ",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The body as a field, the one who knows it, the signs of true knowing, and the most tender passage on serving a guru.",
+  "hi": {
+   "text": "शरीर एक खेत के रूप में, उसे जानने वाला, सच्चे ज्ञान के लक्षण, और गुरु की सेवा पर सबसे कोमल प्रसंग।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शरीर एक शेत म्हणून, ते जाणणारा, खऱ्या ज्ञानाची लक्षणे, आणि गुरुसेवेवरील सर्वांत कोमल प्रसंग.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/ch-arjuna-chooses.webp",
+   "w": 1200,
+   "h": 895,
+   "caption": {
+    "en": "Arjuna chooses Krishna (painting)",
+    "hi": {
+     "text": "अर्जुन कृष्ण को चुनते हुए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन कृष्णाची निवड करताना",
+     "reviewed": false
+    }
+   },
+   "credit": "Artist unknown, India, Himachal Pradesh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Arjuna_chooses_Krishna.jpg"
+  },
+  {
+   "src": "/stories/dnyaneshwari/ch-krishna-arjuna-1800.webp",
+   "w": 1200,
+   "h": 751,
+   "caption": {
+    "en": "Krishna and Arjuna (Indian painting, c. 1800)",
+    "hi": {
+     "text": "कृष्ण और अर्जुन (भारतीय चित्र, लगभग 1800)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कृष्ण आणि अर्जुन (भारतीय चित्र, सुमारे 1800)",
+     "reviewed": false
+    }
+   },
+   "credit": "Sailko, CC BY 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:India,_krishna_e_arjuna,_1800.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The field and its knower",
+    "hi": {
+     "text": "खेत और उसे जानने वाला",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेत आणि ते जाणणारा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The thirteenth adhyaya begins with a farmer's word. The body is the field, and the one who knows it is the knower of the field (13.7). 'The knower of all fields is I,' says Krishna (13.8). A farmer walks his field every day, yet he is not the soil. He sees the furrows, notices the weeds and feels the rain, while remaining himself.\n\nThe field is also where karma ripens as sin and merit (13.156). What we plant in thought and act comes up in the body and the life around it. And Dnyaneshwar adds a thoughtful picture: waking life holds the dream inside it (13.77). The ordinary day we feel so sure of may be larger than it seems, and the one who watches it all from within is the real owner of the land.",
+    "hi": {
+     "text": "तेरहवाँ अध्याय किसान के शब्द से आरंभ होता है। शरीर खेत है, और उसे जानने वाला खेत का जानकार, यानी क्षेत्रज्ञ है (13.7)। श्रीकृष्ण कहते हैं, ‘सब खेतों का जानकार मैं हूँ’ (13.8)। किसान रोज़ अपने खेत में घूमता है, फिर भी वह मिट्टी नहीं है। वह कुंड देखता है, खरपतवार पहचानता है और बारिश महसूस करता है, पर स्वयं वही बना रहता है।\n\nखेत वह जगह भी है जहाँ कर्म पाप और पुण्य के रूप में पकता है (13.156)। हम विचार और कर्म में जो बोते हैं, वह शरीर और आसपास के जीवन में उगता है। और ज्ञानेश्वर एक विचारणीय चित्र जोड़ते हैं: जाग्रत जीवन अपने भीतर स्वप्न को समाए हुए है (13.77)। जिस साधारण दिन पर हमें इतना भरोसा है, वह दिखने से बड़ा हो सकता है, और भीतर से सब कुछ देखने वाला ही उस भूमि का असली स्वामी है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेरावा अध्याय शेतकऱ्याच्या शब्दाने सुरू होतो. शरीर हे शेत आहे, आणि ते जाणणारा तो शेताचा जाणकार, म्हणजे क्षेत्रज्ञ (13.7). श्रीकृष्ण म्हणतात, ‘सर्व क्षेत्रांचा जाणता मी आहे’ (13.8). शेतकरी रोज आपल्या शेतात फिरतो, तरी तो माती नाही. तो सऱ्या पाहतो, तण ओळखतो आणि पाऊस अनुभवतो, पण स्वतः तोच राहतो.\n\nशेत ही अशी जागाही आहे जिथे कर्म पाप आणि पुण्य म्हणून पिकते (13.156). विचारात आणि कृतीत आपण जे पेरतो ते शरीरात आणि भोवतालच्या जीवनात उगवते. आणि ज्ञानेश्वर एक विचार करायला लावणारे चित्र जोडतात: जागृत जीवनाने स्वप्न आपल्या पोटात घेतले आहे (13.77). ज्या साध्या दिवसाची आपल्याला इतकी खात्री वाटते तो दिसतो त्याहून मोठा असू शकतो, आणि आतून सर्व पाहणारा तोच त्या जमिनीचा खरा मालक आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The signs of knowledge",
+    "hi": {
+     "text": "ज्ञान के लक्षण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानाची लक्षणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The list of the qualities of knowledge begins with humility (13.202), and Dnyaneshwar says they show outside as fragrance does. A banana tree turned to camphor shows by its scent, and a lamp inside a lantern shines out (13.183). True knowledge cannot be hidden.\n\nHe gives a gallery of pictures. The sun does not look at faces before it shines (13.356). The sky does not run after a passing cloud (13.489). The Mandara mountain is not shaken by the waves of the milk ocean (13.498). Each of these describes someone steady, impartial and unmoved by the noise around them. The qualities are not a test to pass but the natural look of a person in whom something has become clear, and their calm is the proof. Dnyaneshwar clearly enjoys these comparisons, and each one hands the listener something they can check in their own kitchen, courtyard or night sky.",
+    "hi": {
+     "text": "ज्ञान के गुणों की सूची विनम्रता से आरंभ होती है (13.202), और ज्ञानेश्वर कहते हैं कि वे बाहर वैसे ही प्रकट होते हैं जैसे सुगंध। कपूर बना केले का वृक्ष अपनी महक से पहचाना जाता है, और कंदील के भीतर का दीपक बाहर तक चमकता है (13.183)। सच्चा ज्ञान छिपाया नहीं जा सकता।\n\nवे चित्रों की एक पूरी दीर्घा देते हैं। सूर्य चमकने से पहले चेहरे नहीं देखता (13.356)। आकाश गुज़रते बादल के पीछे नहीं दौड़ता (13.489)। मंदराचल क्षीरसागर की लहरों से नहीं डगमगाता (13.498)। हर एक ऐसे व्यक्ति का वर्णन है जो स्थिर है, पक्षपात से रहित है और आसपास के शोर से अविचलित है। ये गुण पास करने की कोई परीक्षा नहीं हैं, बल्कि उस मनुष्य का सहज रूप हैं जिसमें कुछ स्पष्ट हो गया हो, और उसकी शांति ही प्रमाण है। ज्ञानेश्वर को ये उपमाएँ स्पष्ट ही प्रिय हैं, और हर एक श्रोता को ऐसी चीज़ देती है जिसे वह अपनी रसोई, आँगन या रात के आकाश में जाँच सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानाच्या गुणांची यादी नम्रतेने सुरू होते (13.202), आणि ज्ञानेश्वर म्हणतात ते बाहेर सुगंधासारखे प्रकट होतात. कापूर झालेले केळीचे झाड आपल्या वासाने ओळखू येते, आणि कंदिलातला दिवा बाहेर प्रकाश फाकतो (13.183). खरे ज्ञान लपवता येत नाही.\n\nते चित्रांची एक संपूर्ण दालन उभे करतात. सूर्य प्रकाशण्यापूर्वी चेहरे पाहत नाही (13.356). आकाश जाणाऱ्या ढगामागे धावत नाही (13.489). मंदराचल क्षीरसागराच्या लाटांनी हलत नाही (13.498). प्रत्येक चित्र स्थिर, निष्पक्ष आणि भोवतालच्या गोंगाटाने न ढळणाऱ्या माणसाचे वर्णन करते. ही गुणे उत्तीर्ण व्हायची परीक्षा नव्हेत, तर ज्याच्यात काही स्पष्ट झाले आहे अशा माणसाचे सहज रूप आहे, आणि त्याची शांतता हाच पुरावा. ज्ञानेश्वरांना या उपमा स्पष्टच आवडतात, आणि प्रत्येक उपमा श्रोत्याला आपल्या स्वयंपाकघरात, अंगणात किंवा रात्रीच्या आकाशात पडताळून पाहता येईल अशी गोष्ट देते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Serving the guru",
+    "hi": {
+     "text": "गुरु की सेवा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरुसेवा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The longest and most loving passage is about serving a guru. The disciple is a calf and the guru a cow (13.397). The disciple is a seedling watered by the guru's grace (13.399). 'The guru is the field, the guru is God, mother and father' (13.446).\n\nThe disciple will become the seat so that the guru may sit (13.425). It is all said with such warmth that you can feel the poet's own heart in it. Dnyaneshwar calls his own elder brother Nivruttinath his guru, and in these ovis he seems to be describing a love he lives every day. For him, learning is not a transaction. It is the closeness of a calf to its mother, where the knowledge flows like milk because of the bond, and the one who receives it is nourished in a way no book alone could manage.",
+    "hi": {
+     "text": "सबसे लंबा और सबसे प्रेम भरा प्रसंग गुरु की सेवा का है। शिष्य बछड़ा है और गुरु गाय (13.397)। शिष्य पौधा है जिसे गुरु की कृपा सींचती है (13.399)। ‘गुरु ही खेत है, गुरु ही ईश्वर, माता और पिता’ (13.446)।\n\nशिष्य आसन बन जाएगा ताकि गुरु बैठ सकें (13.425)। यह सब इतने स्नेह से कहा गया है कि इसमें कवि का अपना हृदय महसूस होता है। ज्ञानेश्वर अपने बड़े भाई निवृत्तिनाथ को अपना गुरु कहते हैं, और इन ओवियों में लगता है कि वे उस प्रेम का वर्णन कर रहे हैं जिसे वे रोज़ जीते हैं। उनके लिए सीखना कोई लेन-देन नहीं है। वह बछड़े का अपनी माँ के पास होना है, जहाँ ज्ञान उस बंधन के कारण दूध की तरह बहता है, और पाने वाला ऐसे पोषित होता है जैसा अकेली कोई पुस्तक नहीं कर सकती।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्वांत दीर्घ आणि सर्वांत प्रेमळ प्रसंग गुरुसेवेचा आहे. शिष्य वासरू आहे आणि गुरू गाय (13.397). शिष्य रोपटे आहे ज्याला गुरूंची कृपा पाणी घालते (13.399). ‘गुरूच शेत, गुरूच देव, आई आणि बाप’ (13.446).\n\nगुरू बसावेत म्हणून शिष्य आसन होईल (13.425). हे सर्व इतक्या उबेने सांगितले आहे की त्यात कवीचे स्वतःचे हृदय जाणवते. ज्ञानेश्वर आपले थोरले बंधू निवृत्तिनाथांना आपले गुरू म्हणतात, आणि या ओव्यांत ते रोज जगत असलेल्या प्रेमाचे वर्णन करत आहेत असे वाटते. त्यांच्यासाठी शिकणे हा व्यवहार नाही. ते वासराचे आपल्या आईजवळ असणे आहे, जिथे त्या नात्यामुळे ज्ञान दुधासारखे वाहते, आणि घेणारा असा पोषित होतो जसे एकटे पुस्तक करू शकत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Self like the sky",
+    "hi": {
+     "text": "आकाश जैसा आत्मा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आकाशासारखा आत्मा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Self is not touched by the body, says Dnyaneshwar, and he gives pictures. The sky is everywhere yet clings to nothing (13.1120). Fire is in the wood but is not the wood (13.1125). A gem-lamp wrapped in cloth still glows (13.1011).\n\nHe also gives the old, vivid comparison of a rope mistaken for a snake. The rope is still a rope, whatever fear the traveller feels (13.1138). Fear belongs to the person who sees it wrongly, and not to the rope. It is a gentle way of saying that the Self is never harmed by the body's troubles. Pain, age and death move through the field, but the one who knows the field is not what is hurt. A tired person can find real rest in that thought: I am the knower, and not only the field.",
+    "hi": {
+     "text": "आत्मा को शरीर नहीं छूता, ज्ञानेश्वर कहते हैं, और वे चित्र देते हैं। आकाश सर्वत्र है फिर भी किसी से चिपकता नहीं (13.1120)। अग्नि लकड़ी में है पर लकड़ी नहीं है (13.1125)। कपड़े में लपेटा रत्नदीप भी चमकता रहता है (13.1011)।\n\nवे रस्सी को साँप समझ लेने की पुरानी, सजीव उपमा भी देते हैं। रस्सी रस्सी ही रहती है, यात्री को कितना भी भय लगे (13.1138)। भय उस व्यक्ति का है जो उसे ग़लत देखता है, रस्सी का नहीं। यह कहने का कोमल ढंग है कि शरीर के कष्टों से आत्मा को कभी हानि नहीं पहुँचती। पीड़ा, बुढ़ापा और मृत्यु खेत से होकर गुज़रते हैं, पर खेत को जानने वाला वह नहीं जिसे चोट लगती है। थका हुआ मनुष्य इस विचार में सच्चा विश्राम पा सकता है: मैं जानने वाला हूँ, केवल खेत नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आत्म्याला शरीर स्पर्श करत नाही, असे ज्ञानेश्वर म्हणतात, आणि ते चित्रे देतात. आकाश सर्वत्र आहे तरी कशालाही चिकटत नाही (13.1120). अग्नी लाकडात आहे पण लाकूड नाही (13.1125). कापडात गुंडाळलेला रत्नदीपही तेजाळतो (13.1011).\n\nते दोरीला साप समजण्याची जुनी, जिवंत उपमाही देतात. दोरी दोरीच राहते, प्रवाशाला कितीही भीती वाटो (13.1138). भीती ती चुकीची पाहणाऱ्या माणसाची असते, दोरीची नाही. शरीराच्या त्रासांनी आत्म्याला कधीही इजा होत नाही हे सांगण्याचा हा कोमल मार्ग आहे. वेदना, वार्धक्य आणि मृत्यू शेतातून जातात, पण शेत जाणणारा तो ज्याला दुखापत होते असा नाही. थकलेला माणूस या विचारात खरी विश्रांती मिळवू शकतो: मी जाणणारा आहे, फक्त शेत नाही.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "One light in a million lamps",
+    "hi": {
+     "text": "लाखों दीपों में एक प्रकाश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लाखो दिव्यांतला एक प्रकाश",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "To end, Dnyaneshwar returns to oneness. Many lamps, one light (13.1077). Many waves, one water (13.1085). The mirror makes one face look like two (13.1018). Whoever sees the one Lord in all beings sees truly.\n\nAnd he ends on humility, the first quality in the list, which turns out to be the root of the rest. The chapter that began with a field closes by returning to its first seed. A person may grow in knowledge, but if the humility is lost, the tree stands without a root. The poet has been walking us through grand ideas, and he reminds us in the end that the way to hold them is to bow slightly, as a heavy-laden branch bows, and to remain a learner. If you find yourself arguing with someone over big ideas, this passage offers a smaller task: bow a little first, and listen as though the lamp in them were also your own.",
+    "hi": {
+     "text": "अंत में ज्ञानेश्वर एकत्व पर लौटते हैं। अनेक दीप, एक प्रकाश (13.1077)। अनेक लहरें, एक जल (13.1085)। दर्पण एक चेहरे को दो जैसा दिखाता है (13.1018)। जो सब प्राणियों में एक ही प्रभु को देखता है, वही सच्चा देखता है।\n\nऔर वे विनम्रता पर समाप्त करते हैं, जो सूची का पहला गुण है और जो बाकी सबकी जड़ निकलता है। जो अध्याय एक खेत से आरंभ हुआ था, वह अपने पहले बीज पर लौटकर समाप्त होता है। मनुष्य ज्ञान में बढ़ सकता है, पर यदि विनम्रता खो जाए, तो वृक्ष बिना जड़ के खड़ा है। कवि हमें बड़े-बड़े विचारों से गुज़ारते रहे हैं, और अंत में याद दिलाते हैं कि उन्हें थामने का ढंग थोड़ा झुकना है, जैसे फल से लदी डाल झुकती है, और सीखने वाला बने रहना है। यदि आप किसी से बड़े विचारों पर बहस करते पाएँ, तो यह प्रसंग एक छोटा काम सुझाता है: पहले थोड़ा झुकिए, और ऐसे सुनिए मानो उनके भीतर का दीपक आपका भी अपना है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटी ज्ञानेश्वर एकत्वाकडे परततात. अनेक दिवे, एक प्रकाश (13.1077). अनेक लाटा, एक पाणी (13.1085). आरसा एका चेहऱ्याचे दोन करून दाखवतो (13.1018). जो सर्व प्राण्यांत एकच परमेश्वर पाहतो, तोच खरे पाहतो.\n\nआणि ते नम्रतेवर संपवतात, जो यादीतला पहिला गुण आणि बाकी सर्वांचे मूळ ठरतो. शेतापासून सुरू झालेला अध्याय आपल्या पहिल्या बीजाकडे परतून संपतो. माणूस ज्ञानात वाढू शकतो, पण नम्रता गेली तर झाड मुळाशिवाय उभे आहे. कवी आपल्याला मोठमोठ्या कल्पनांतून फिरवत आले आहेत, आणि शेवटी आठवण करून देतात की त्या धरण्याचा मार्ग म्हणजे फळांनी लदलेली फांदी झुकते तसे थोडे झुकणे आणि शिकणारे राहणे. तुम्ही कोणाशी मोठ्या कल्पनांवर वाद घालत असाल, तर हा प्रसंग एक छोटे काम सुचवतो: आधी थोडे झुका, आणि त्यांच्यातला दिवा तुमचाही आहे असे समजून ऐका.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "नातरी केळीं कापूर जाहला । जेवीं परिमळें जाणों आला । \nकां भिंगारीं दीपु ठेविला । बाहेरी फांके",
+  "lang": "mr",
+  "cite": {
+   "en": "Dnyaneshwari 13.183",
+   "hi": {
+    "text": "ज्ञानेश्वरी 13.183",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी १३.१८३",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "As a banana tree turned to camphor shows by its fragrance, or a lamp set in a lantern shines outside.",
+   "hi": {
+    "text": "जैसे केले का वृक्ष कपूर बनकर अपनी सुगंध से पहचाना जाता है, या कंदील में रखा दीपक बाहर तक चमकता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कापूर झालेले केळीचे झाड सुगंधाने ओळखू येते, किंवा कंदिलात ठेवलेला दिवा बाहेर प्रकाश फाकतो, तसे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What quality of yours would a stranger notice without your saying it?",
+  "hi": {
+   "text": "आपका कौन-सा गुण कोई अजनबी आपके कहे बिना ही देख लेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमचा कोणता गुण एखादा अनोळखी माणूस तुम्ही न सांगताच ओळखेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "True knowledge shows itself in how a person lives, like fragrance, not in what he claims.",
+  "hi": {
+   "text": "सच्चा ज्ञान सुगंध की तरह मनुष्य के जीने के ढंग में दिखता है, उसके दावों में नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरे ज्ञान सुगंधाप्रमाणे माणसाच्या जगण्यातून दिसते, त्याच्या दाव्यांतून नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika) by Sant Dnyaneshwar, adhyaya 13; retold in our own words",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 13; हमारे अपने शब्दों में पुनर्कथन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय १३; आमच्या स्वतःच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-steady-flame",
+ "order": 7,
+ "part": "karma",
+ "figure": {
+  "en": "Dnyaneshwar",
+  "hi": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Steady Flame",
+  "hi": {
+   "text": "अडोल ज्योति",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "स्थिर ज्योत",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Meditation as Dnyaneshwar sees it: the lamp that does not flicker, the self as friend or enemy, and his proud song of Marathi.",
+  "hi": {
+   "text": "ज्ञानेश्वर की दृष्टि में ध्यान: न काँपने वाला दीपक, अपना ही मित्र या शत्रु होता मन, और मराठी भाषा पर उनका गर्व भरा गीत।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरांच्या दृष्टीतले ध्यान: न हलणारा दीप, स्वतःचाच मित्र किंवा शत्रू होणारे मन, आणि मराठीबद्दलचे त्यांचे अभिमानाचे गाणे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/ch-diwali-lamps.webp",
+   "w": 1200,
+   "h": 789,
+   "caption": {
+    "en": "Oil lamps at Diwali in Darjeeling",
+    "hi": {
+     "text": "दीवाली पर दीपक (दार्जिलिंग)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिवाळीतील तेलाचे दिवे (दार्जिलिंग)",
+     "reviewed": false
+    }
+   },
+   "credit": "Benoy, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Diwali_Oil_lamps_Darjeeling.jpg"
+  },
+  {
+   "src": "/stories/dnyaneshwari/ch-dev-deepavali.webp",
+   "w": 675,
+   "h": 900,
+   "caption": {
+    "en": "Lamps on the ghats at Dev Deepavali, Varanasi",
+    "hi": {
+     "text": "देव दीपावली पर वाराणसी के घाट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देव दिवाळीत वाराणसीच्या घाटावरील दिवे",
+     "reviewed": false
+    }
+   },
+   "credit": "Sumita Roy Dutta, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dev_Deepavali_at_Varanasi_DSC04305_15.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Sannyasa and yoga are one",
+    "hi": {
+     "text": "संन्यास और योग एक ही हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संन्यास आणि योग एकच",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The sixth adhyaya opens with Dhritarashtra and Sanjaya setting the scene once more (6.1-4), and then Krishna begins to speak about the true renouncer. He is not, says Krishna, the one who merely gives up the sacred fire and all work. A person can leave every duty behind and still be full of wishes.\n\nYoga and sannyasa, Dnyaneshwar says, differ only as the same water in two different pots (6.42). The water is the same, and only the vessel changes. Whoever works without craving and whoever has withdrawn from work are drinking from one source. That is a relief for any householder reading the book. You need not run to a cave to be a yogi. The word means the mind that has let go of the grasping, wherever the body happens to be sitting.",
+    "hi": {
+     "text": "छठा अध्याय धृतराष्ट्र और संजय से शुरू होता है, जो एक बार फिर दृश्य सामने रखते हैं (6.1-4), और फिर श्रीकृष्ण सच्चे संन्यासी के बारे में बोलना शुरू करते हैं। श्रीकृष्ण कहते हैं कि वह केवल वही नहीं है जिसने पवित्र अग्नि और सारे कर्म छोड़ दिए हों। कोई मनुष्य सब कर्तव्य छोड़कर भी इच्छाओं से भरा रह सकता है।\n\nज्ञानेश्वर कहते हैं कि योग और संन्यास में उतना ही भेद है जितना एक ही पानी के दो अलग घड़ों में होने का (6.42)। पानी वही है, केवल पात्र बदलता है। जो बिना लालसा के कर्म करता है और जो कर्म से हट गया है, दोनों एक ही स्रोत से पी रहे हैं। यह इस ग्रंथ को पढ़ने वाले हर गृहस्थ के लिए बड़ी राहत की बात है। योगी होने के लिए गुफा की ओर भागना ज़रूरी नहीं। इस शब्द का अर्थ वह मन है जिसने पकड़ना छोड़ दिया है, चाहे शरीर कहीं भी बैठा हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सहावा अध्याय धृतराष्ट्र आणि संजय यांनी पुन्हा एकदा प्रसंग मांडण्याने सुरू होतो (6.1-4), आणि मग श्रीकृष्ण खऱ्या संन्याशाविषयी बोलू लागतात. ते म्हणतात, तो केवळ पवित्र अग्नी आणि सर्व कर्मे सोडणारा नव्हे. माणूस सर्व कर्तव्ये सोडूनही इच्छांनी भरलेला राहू शकतो.\n\nज्ञानेश्वर म्हणतात, योग आणि संन्यास यांत तेवढाच भेद आहे जेवढा एकाच पाण्याचा दोन वेगळ्या घड्यांत असण्याचा (6.42). पाणी तेच, फक्त पात्र बदलते. जो आसक्तीविना कर्म करतो आणि जो कर्मापासून निवृत्त झाला आहे, दोघे एकाच स्रोतातून पीत आहेत. हे ग्रंथ वाचणाऱ्या प्रत्येक संसारी माणसासाठी मोठा दिलासा आहे. योगी होण्यासाठी गुहेकडे धावावे लागत नाही. या शब्दाचा अर्थ म्हणजे ज्या मनाने पकड सोडली आहे ते मन, शरीर कुठेही बसलेले असो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Your own friend or enemy",
+    "hi": {
+     "text": "अपना ही मित्र या शत्रु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वतःचाच मित्र किंवा शत्रू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna now says something striking: lift yourself by yourself. No one else can do your inner work. You are your own friend when you steady your own mind, and your own enemy when you do not.\n\nDnyaneshwar gives a sharp picture of the second case. The silkworm weaves a cocoon around itself and becomes its own prison (6.72). It spins, thread by thread, the very wall that shuts it in. We do the same when we cling to the body as the self (6.80), piling up wants, fears and labels until we can hardly move. The sad part is that the prison is made of our own thread. The hopeful part is the same fact: what we have spun, we can also learn to stop spinning, and the door was never locked from outside.",
+    "hi": {
+     "text": "श्रीकृष्ण अब एक चौंकाने वाली बात कहते हैं: अपने द्वारा अपना उद्धार करो। तुम्हारा भीतरी काम कोई और नहीं कर सकता। जब तुम अपना मन स्थिर करते हो तब तुम अपने मित्र हो, और जब नहीं करते तब अपने ही शत्रु।\n\nदूसरी स्थिति के लिए ज्ञानेश्वर एक तीखा चित्र देते हैं। रेशम का कीड़ा अपने चारों ओर कोया बुनता है और स्वयं अपना कारागार बन जाता है (6.72)। वह धागा-धागा वही दीवार कातता है जो उसे भीतर बंद कर देती है। जब हम देह को ही आत्मा मानकर उससे चिपके रहते हैं (6.80), तब हम भी यही करते हैं: इच्छाओं, भयों और नामों का ढेर लगाते जाते हैं, यहाँ तक कि हिलना भी कठिन हो जाता है। दुख की बात यह है कि कारागार हमारे ही धागे का बना है। आशा की बात भी वही है: जो हमने काता है, उसे कातना बंद करना भी हम सीख सकते हैं, और द्वार बाहर से कभी बंद था ही नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण आता एक लक्षवेधी गोष्ट सांगतात: स्वतःने स्वतःला वर उचल. तुमचे आंतरिक काम दुसरे कोणी करू शकत नाही. तुम्ही मन स्थिर करता तेव्हा स्वतःचे मित्र असता, आणि करत नाही तेव्हा स्वतःचेच शत्रू.\n\nदुसऱ्या स्थितीसाठी ज्ञानेश्वर एक बोचरे चित्र देतात. रेशमाचा किडा आपल्याभोवती कोश विणतो आणि स्वतःच स्वतःचा कारागृह बनतो (6.72). तो धागा-धागा तीच भिंत विणतो जी त्याला आत कोंडते. देहालाच आत्मा मानून त्याला चिकटतो तेव्हा (6.80) आपणही असेच करतो: इच्छा, भीती आणि लेबले रचत जातो, इतके की हलणेही कठीण होते. दुःखाची गोष्ट म्हणजे कारागृह आपल्याच धाग्याचे बनलेले आहे. आशेची गोष्टही तीच: जे आपण विणले, ते विणणे थांबवायलाही आपण शिकू शकतो, आणि दार बाहेरून कधीच बंद केलेले नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Marathi that beats nectar",
+    "hi": {
+     "text": "अमृत को हराने वाली मराठी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अमृताला जिंकणारी मराठी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the middle of this solemn teaching, Dnyaneshwar stops to praise his own language. 'My Marathi,' he says, 'will win a bet even against nectar' (6.14-15). It is one of the most delighted moments in the book, and it makes you smile. A young poet is so in love with his mother tongue that he cannot help boasting.\n\nBehind the joke lies a serious idea. The Gita should belong in the people's own speech, the words they use at the well, in the field and at the evening lamp. Sanskrit was for scholars, but Marathi was for the mother stirring a pot and the farmer resting under a tree. Dnyaneshwar's pride is not vanity. It is the pride of someone who has opened a locked treasury and found that the people it was kept from are the ones who can enjoy it most.",
+    "hi": {
+     "text": "इस गंभीर उपदेश के बीच ज्ञानेश्वर रुककर अपनी भाषा की स्तुति करते हैं। वे कहते हैं, 'मेरी मराठी अमृत से भी होड़ जीत लेगी' (6.14-15)। ग्रंथ का यह सबसे आनंद भरा क्षण है, और पढ़कर मुस्कान आ जाती है। एक युवा कवि अपनी मातृभाषा से इतना प्रेम करता है कि डींग हाँके बिना रह नहीं पाता।\n\nइस विनोद के पीछे एक गंभीर विचार है। गीता लोगों की अपनी बोली में होनी चाहिए, उन शब्दों में जो वे कुएँ पर, खेत में और शाम के दीये के पास बोलते हैं। संस्कृत विद्वानों की थी, पर मराठी हाँडी चलाती माँ और पेड़ के नीचे सुस्ताते किसान की थी। ज्ञानेश्वर का गर्व घमंड नहीं है। यह उस व्यक्ति का गर्व है जिसने बंद खज़ाना खोल दिया और पाया कि जिनसे वह छिपा रखा गया था, वही उसका सबसे अधिक आनंद ले सकते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या गंभीर उपदेशाच्या मध्येच ज्ञानेश्वर थांबून आपल्या भाषेची स्तुती करतात. ते म्हणतात, 'माझी मराठी अमृताशीही पैजा जिंकेल' (6.14-15). ग्रंथातला हा सर्वांत आनंदाचा क्षण आहे, आणि वाचून हसू येते. एक तरुण कवी आपल्या मातृभाषेवर इतके प्रेम करतो की त्याला बढाई मारल्याशिवाय राहवत नाही.\n\nया विनोदामागे एक गंभीर विचार आहे. गीता लोकांच्या स्वतःच्या बोलीत असायला हवी, विहिरीवर, शेतात आणि सायंकाळच्या दिव्यापाशी वापरल्या जाणाऱ्या शब्दांत. संस्कृत विद्वानांसाठी होती, पण मराठी भांडे ढवळणाऱ्या आईसाठी आणि झाडाखाली विसावणाऱ्या शेतकऱ्यासाठी होती. ज्ञानेश्वरांचा अभिमान अहंकार नाही. ज्याने कुलूपबंद खजिना उघडला आणि पाहिले की ज्यांच्यापासून तो राखून ठेवला होता तेच त्याचा सर्वाधिक आनंद घेऊ शकतात, त्याचा हा अभिमान आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The inner journey, told gently",
+    "hi": {
+     "text": "भीतर की यात्रा, कोमलता से",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंतर्यात्रा, हळुवारपणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The adhyaya then turns to meditation. Dnyaneshwar says to keep food, sleep and effort in a healthy measure (6.171-175, 6.346-349). Sit in a settled seat. Let the breath grow quiet, until the mind is like a cloud melting into the sky (6.468).\n\nAcross 6.190-320 he paints inner light and sound as poetry, and a reader should enjoy it as poetry. It is not a manual, and such practice needs a living guide, so it is best not to copy any of it from a page. The sign of success is given in a quiet image: the lamp in a windless place (6.358). It does not blaze or dance. It stands upright and shines in a straight line. That is how the steady mind looks from outside, and from inside it feels like quiet, wide, ordinary peace.",
+    "hi": {
+     "text": "अध्याय फिर ध्यान की ओर मुड़ता है। ज्ञानेश्वर कहते हैं कि भोजन, नींद और प्रयास को स्वस्थ मात्रा में रखो (6.171-175, 6.346-349)। स्थिर आसन पर बैठो। श्वास को शांत होने दो, यहाँ तक कि मन आकाश में घुलते बादल जैसा हो जाए (6.468)।\n\n6.190-320 में वे भीतरी प्रकाश और नाद का चित्रण कविता के रूप में करते हैं, और पाठक को उसे कविता की तरह ही आनंद से पढ़ना चाहिए। यह कोई पद्धति-पुस्तिका नहीं है, और ऐसे अभ्यास के लिए जीवित मार्गदर्शक चाहिए, इसलिए इनमें से कुछ भी पन्ने से नकल न करना ही अच्छा है। सफलता का चिह्न एक शांत चित्र में दिया गया है: हवा रहित स्थान में रखा दीपक (6.358)। वह न भभकता है, न नाचता है। वह सीधा खड़ा रहता है और सीधी रेखा में चमकता है। बाहर से स्थिर मन ऐसा ही दिखता है, और भीतर से वह शांत, विशाल, साधारण-सी शांति जैसा लगता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अध्याय मग ध्यानाकडे वळतो. ज्ञानेश्वर सांगतात की आहार, झोप आणि प्रयत्न निरोगी प्रमाणात ठेवा (6.171-175, 6.346-349). स्थिर आसनावर बसा. श्वास शांत होऊ द्या, इतका की मन आकाशात विरघळणाऱ्या ढगासारखे होईल (6.468).\n\n6.190-320 मध्ये ते आंतरिक प्रकाश आणि नाद यांचे वर्णन काव्य म्हणून रंगवतात, आणि वाचकाने ते काव्य म्हणूनच आनंदाने वाचावे. ही कृतिपुस्तिका नाही, आणि अशा साधनेसाठी जिवंत मार्गदर्शक लागतो, म्हणून त्यातले काहीही पानावरून उतरवू नये हे बरे. यशाची खूण एका शांत चित्रात दिली आहे: वारा नसलेल्या जागी ठेवलेला दिवा (6.358). तो भडकत नाही, नाचत नाही. तो सरळ उभा राहतो आणि सरळ रेषेत प्रकाशतो. स्थिर मन बाहेरून असे दिसते, आणि आतून ते शांत, विशाल, साध्या शांतीसारखे वाटते.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The thread and the rain",
+    "hi": {
+     "text": "धागा और वर्षा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धागा आणि पाऊस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The yogi sees the Self in all, says Dnyaneshwar, as one thread runs through the whole cloth (6.397-398). Take away the thread and the cloth falls apart into strands, but no one looks at a cloth and sees only a thread. Unity is hidden inside the variety. Good and bad deeds do not stick to the yogi, as rain falling into the sea leaves no mark (6.87).\n\nEven the yogi who falls short is not lost. The ovis on many births past (6.471-472) show him carried on, with his earlier effort waiting for him like a deposit in a safe place. Nothing sincere is wasted. The adhyaya ends with Krishna as 'the moon for the chakora-bird of devotees' (6.486), the one whose light they drink. Each flicker of honest effort is already part of the long road to that moon.",
+    "hi": {
+     "text": "ज्ञानेश्वर कहते हैं कि योगी सब में आत्मा को वैसे ही देखता है जैसे एक ही धागा पूरे वस्त्र में पिरोया होता है (6.397-398)। धागा निकाल दो तो वस्त्र बिखरकर तंतु हो जाता है, पर वस्त्र को देखकर कोई केवल धागा नहीं देखता। एकता विविधता के भीतर छिपी है। अच्छे और बुरे कर्म योगी से चिपकते नहीं, जैसे सागर में गिरी वर्षा कोई निशान नहीं छोड़ती (6.87)।\n\nजो योगी चूक भी जाए, वह भी खोया नहीं। बीते अनेक जन्मों की ओवियाँ (6.471-472) दिखाती हैं कि वह आगे ले जाया जाता है, और उसका पहले का प्रयास सुरक्षित स्थान में जमा धन की तरह उसकी प्रतीक्षा करता है। कोई भी सच्चा प्रयास व्यर्थ नहीं जाता। अध्याय का अंत श्रीकृष्ण के साथ होता है, जो 'भक्तों रूपी चकोर पक्षियों के लिए चंद्रमा' हैं (6.486), जिनका प्रकाश वे पीते हैं। ईमानदार प्रयास की हर टिमटिमाहट उस चंद्रमा तक की लंबी राह का हिस्सा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानेश्वर म्हणतात, योगी सर्वांत आत्म्याला असे पाहतो जसा एकच धागा संपूर्ण वस्त्रात ओवलेला असतो (6.397-398). धागा काढला तर वस्त्र तंतूंमध्ये विखुरते, पण वस्त्र पाहून कोणी फक्त धागा पाहत नाही. एकता विविधतेच्या आत दडलेली असते. चांगली-वाईट कर्मे योगीला चिकटत नाहीत, जसा समुद्रात पडलेला पाऊस कोणताही ठसा ठेवत नाही (6.87).\n\nकमी पडलेला योगीही हरवत नाही. मागील अनेक जन्मांवरच्या ओव्या (6.471-472) दाखवतात की तो पुढे नेला जातो, आणि त्याचा आधीचा प्रयत्न सुरक्षित जागी ठेवलेल्या ठेवीसारखा त्याची वाट पाहतो. कोणताही प्रामाणिक प्रयत्न वाया जात नाही. अध्यायाचा शेवट श्रीकृष्णांपाशी होतो, जे 'भक्तरूपी चकोरांचा चंद्र' आहेत (6.486), ज्यांचा प्रकाश ते पितात. प्रामाणिक प्रयत्नाची प्रत्येक थरथर त्या चंद्राकडे जाणाऱ्या दीर्घ वाटेचाच भाग आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "तयातें योगायुक्त म्हण । हेंही प्रसंगे जाण ।\nतें दीपांचे उपलक्षण । निर्वातींचिया",
+  "lang": "mr",
+  "cite": {
+   "en": "Dnyaneshwari 6.358",
+   "hi": {
+    "text": "ज्ञानेश्वरी 6.358",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी 6.358",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Such a one is called yoga-yukta; he is like a lamp standing in a windless place.",
+   "hi": {
+    "text": "ऐसे को योगयुक्त कहते हैं; वह वायुरहित स्थान में खड़े दीपक जैसा है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अशाला योगयुक्त म्हणावे; तो निर्वात जागी उभ्या असलेल्या दिव्यासारखा आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What is the wind that makes your own flame flicker, and where can you find shelter from it today?",
+  "hi": {
+   "text": "वह कौन-सी हवा है जो आपकी अपनी लौ को काँपने पर मजबूर करती है, और आज आप उससे आड़ कहाँ पा सकते हैं?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमची स्वतःची ज्योत हलवणारा वारा कोणता, आणि आज त्यापासून आडोसा तुम्हाला कुठे मिळेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A steady mind is a flame in a windless place: it takes shelter, not force.",
+  "hi": {
+   "text": "स्थिर मन हवा रहित स्थान की लौ है: उसे आड़ चाहिए, ज़ोर नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "स्थिर मन म्हणजे निर्वात जागेतली ज्योत: तिला आडोसा हवा, बळ नव्हे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika) by Sant Dnyaneshwar, adhyaya 6; retold in our own words",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 6; हमारे अपने शब्दों में पुनःकथित",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 6; आमच्या स्वतःच्या शब्दांत पुनःकथित",
+   "reviewed": false
+  }
+ }
+}

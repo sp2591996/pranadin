@@ -493,7 +493,7 @@
      "reviewed": false
     }
    },
-   "cover": "the-pillar-at-nevasa",
+   "cover": "how-the-dnyaneshwari-was-written",
    "growing": false,
    "parts": [
     {
@@ -511,15 +511,43 @@
      }
     },
     {
-     "id": "teaching",
+     "id": "karma",
      "title": {
-      "en": "The Gita in Marathi",
+      "en": "Karma: work as worship",
       "hi": {
-       "text": "मराठी में गीता",
+       "text": "कर्मयोग: कर्म ही पूजा",
        "reviewed": false
       },
       "mr": {
-       "text": "मराठीतील गीता",
+       "text": "कर्मयोग: कर्म हीच पूजा",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "bhakti",
+     "title": {
+      "en": "Bhakti: the path of love",
+      "hi": {
+       "text": "भक्ति: प्रेम का मार्ग",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "भक्ती: प्रेमाचा मार्ग",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "jnana",
+     "title": {
+      "en": "Jnana: the path of knowledge",
+      "hi": {
+       "text": "ज्ञान: ज्ञान का मार्ग",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "ज्ञान: ज्ञानाचा मार्ग",
        "reviewed": false
       }
      }

@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-universal-form",
+ "order": 12,
+ "part": "bhakti",
+ "figure": {
+  "en": "Dnyaneshwar",
+  "hi": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Thousand Suns",
+  "hi": {
+   "text": "हज़ार सूर्य",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हजार सूर्य",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Arjuna asks to see, is given divine sight, trembles at the cosmic form and begs to see the gentle face again.",
+  "hi": {
+   "text": "अर्जुन दर्शन माँगता है, उसे दिव्य दृष्टि मिलती है, वह विश्वरूप से काँप उठता है और फिर कोमल मुख को देखने की विनती करता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुन दर्शन मागतो, त्याला दिव्य दृष्टी मिळते, तो विश्वरूपाने थरथरतो आणि सौम्य मुख पुन्हा पाहण्याची विनवणी करतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/ch-vishvarupa-arjuna.webp",
+   "w": 583,
+   "h": 558,
+   "caption": {
+    "en": "Krishna reveals his Vishvarupa to Arjuna (Punjabi manuscript)",
+    "hi": {
+     "text": "कृष्ण अर्जुन को विश्वरूप दिखाते हुए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कृष्ण अर्जुनाला विश्वरूप दाखवताना",
+     "reviewed": false
+    }
+   },
+   "credit": "SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_revealing_his_vishvarupa_to_Arjuna,_from_an_illustrated_Punjabi_manuscript_in_Gurmukhi,_18th_century_CE,_Himachal_State_Museum,_Shimla_(cropped).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The request",
+    "hi": {
+     "text": "प्रार्थना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विनंती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna asks to see the Lord's universal form. Dnyaneshwar prepares us with pictures of the Lord's generosity and of a devotee's bold asking. The fish never thanks the water, and the baby nags at the breast (11.79), yet both are fed. Shishupala insulted the Lord and was still given a place (11.102). Dhruva came to the forest wanting only a father's lap (11.103).\n\nThese stories say the same thing. The Lord is not offended by a child's boldness. So Arjuna's request is not arrogance. It is the nagging of a baby who trusts that the breast is there. It also shows how much the Lord gives without being asked in the right words. Dnyaneshwar wants us to approach the giant sight the way a child approaches a mother, with a full heart and no small print.",
+    "hi": {
+     "text": "अर्जुन प्रभु का विश्वरूप देखना चाहता है। ज्ञानेश्वर हमें पहले प्रभु की उदारता और भक्त के निडर माँगने के चित्रों से तैयार करते हैं। मछली पानी को कभी धन्यवाद नहीं देती, और शिशु दूध पीते हुए ज़िद करता है (11.79), फिर भी दोनों का पोषण होता है। शिशुपाल ने प्रभु का अपमान किया और फिर भी उसे स्थान मिला (11.102)। ध्रुव वन में आया था, केवल पिता की गोद चाहता हुआ (11.103)।\n\nये कथाएँ एक ही बात कहती हैं। प्रभु बच्चे की निडरता से रुष्ट नहीं होते। इसलिए अर्जुन की माँग अहंकार नहीं है। वह उस शिशु की ज़िद है जिसे विश्वास है कि माँ की गोद वहीं है। यह भी दिखता है कि प्रभु बिना सही शब्दों में माँगे कितना देते हैं। ज्ञानेश्वर चाहते हैं कि हम उस विराट दृश्य के पास वैसे जाएँ जैसे बच्चा माँ के पास जाता है, भरे हृदय से और बिना किसी शर्त के।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन प्रभूचे विश्वरूप पाहू इच्छितो. ज्ञानेश्वर आधी प्रभूच्या उदारतेच्या आणि भक्ताच्या निर्भय मागण्याच्या चित्रांनी आपल्याला तयार करतात. मासा पाण्याचे आभार मानत नाही, आणि बाळ दूध पिताना हट्ट करते (11.79), तरी दोघांचे पोषण होते. शिशुपालाने प्रभूचा अपमान केला आणि तरीही त्याला स्थान मिळाले (11.102). ध्रुव वनात आला होता, फक्त वडिलांच्या मांडीची इच्छा धरून (11.103).\n\nया कथा एकच गोष्ट सांगतात. प्रभू मुलाच्या धीटपणाने रागावत नाही. म्हणून अर्जुनाची मागणी अहंकार नाही. ती आईचा स्तन तिथेच आहे असा विश्वास असलेल्या बाळाचा हट्ट आहे. हेही दिसते की योग्य शब्दांत न मागताही प्रभू किती देतो. ज्ञानेश्वरांना हवे आहे की त्या अवाढव्य दृश्याजवळ आपण तसेच जावे जसे मूल आईजवळ जाते, भरल्या हृदयाने आणि कोणत्याही अटीविना.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The divine eye",
+    "hi": {
+     "text": "दिव्य नेत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिव्य नेत्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna answers by giving Arjuna a divine eye, 'the light of the divine eye' (11.179). Ordinary sight could never hold such a vision. Dnyaneshwar recalls baby Krishna, who ate mud, and Yashoda, who looked into his open mouth and saw the whole universe inside (11.182). The infinite had been at home in the cowherd's house all along.\n\nThe new sight comes as clouds clear from the sun's disc, or as scum is pushed aside to show the water (11.74). Nothing is added. A covering is moved away. That is how the poet understands every real seeing: the thing was already there, and the veil lifts. For Arjuna, the veil that falls is the one between friend and Lord. The charioteer he has teased and joked with is now revealed as the ground of everything he has ever seen.",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन को दिव्य नेत्र देकर उत्तर देते हैं, 'दिव्य नेत्र का प्रकाश' (11.179)। साधारण दृष्टि ऐसे दर्शन को कभी थाम नहीं सकती। ज्ञानेश्वर बाल कृष्ण को याद करते हैं, जिन्होंने मिट्टी खाई थी, और यशोदा को, जिन्होंने उनके खुले मुख में पूरा ब्रह्मांड देखा (11.182)। अनंत तो ग्वाले के घर में आरंभ से ही रह रहा था।\n\nनई दृष्टि वैसे ही आती है जैसे सूर्य-मंडल से बादल छँटते हैं, या जैसे काई हटाने पर पानी दिखता है (11.74)। कुछ जोड़ा नहीं जाता। एक आवरण हटाया जाता है। कवि हर सच्चे दर्शन को इसी तरह समझते हैं: वस्तु पहले से वहाँ थी, और परदा उठ जाता है। अर्जुन के लिए जो परदा गिरता है वह मित्र और प्रभु के बीच का है। जिस सारथी से उसने हँसी-ठिठोली की, वह अब उस सबका आधार प्रकट होता है जो उसने कभी देखा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला दिव्य नेत्र देऊन उत्तर देतात, 'दिव्य नेत्राचा प्रकाश' (11.179). सामान्य दृष्टी असे दर्शन कधीच धरू शकत नाही. ज्ञानेश्वर माती खाणाऱ्या बाळकृष्णाची आणि त्याच्या उघड्या तोंडात संपूर्ण विश्व पाहणाऱ्या यशोदेची आठवण करतात (11.182). अनंत तर गवळ्याच्या घरात सुरुवातीपासूनच नांदत होता.\n\nनवी दृष्टी तशी येते जसे सूर्यबिंबावरून ढग दूर होतात, किंवा शेवाळ बाजूला सारल्यावर पाणी दिसते (11.74). काही जोडले जात नाही. एक आवरण दूर केले जाते. कवी प्रत्येक खऱ्या दर्शनाला असेच समजतात: वस्तू आधीपासून तिथे होती, आणि पडदा उचलला जातो. अर्जुनासाठी जो पडदा गळून पडतो तो मित्र आणि प्रभू यांच्यातला आहे. ज्या सारथ्याशी त्याने चेष्टा-मस्करी केली तो आता त्याने आजवर पाहिलेल्या सर्वाचा आधार म्हणून प्रकट होतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A thousand suns",
+    "hi": {
+     "text": "हज़ार सूर्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हजार सूर्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The vision opens. There are endless mouths and eyes, countless ornaments and weapons (11.194-213). Dnyaneshwar says that if a thousand suns rose in the sky together, even their glory could not match that light (11.238). The poet's words strain to hold it and he admits it cannot be held.\n\nShow Arjuna as he is, with the hair standing up on his body, his heart pounding, and his hands folded without his knowing it. It is not the calm of a scholar looking at a diagram. It is a shiver down the spine. Dnyaneshwar does not try to calm the reader either. He lets us feel how enormous this is, and how small and trembling a human heart is beside it. And yet the heart does not break. It opens. The experience is overwhelming and holy at once, and the poet is honest enough to let both feelings be there together.",
+    "hi": {
+     "text": "दर्शन खुलता है। अनंत मुख और नेत्र हैं, अनगिनत आभूषण और शस्त्र (11.194-213)। ज्ञानेश्वर कहते हैं कि यदि हज़ार सूर्य आकाश में एक साथ उगें, तो उनका तेज भी उस प्रकाश की बराबरी नहीं कर सकता (11.238)। कवि के शब्द उसे थामने के लिए खिंचते हैं और वे मानते हैं कि उसे थामा नहीं जा सकता।\n\nअर्जुन को वैसे ही देखिए जैसा वह है, शरीर के रोंगटे खड़े, हृदय धड़कता हुआ, और हाथ बिना जाने जुड़े हुए। यह किसी विद्वान की रेखाचित्र देखते हुए की शांति नहीं है। यह रीढ़ में दौड़ती सिहरन है। ज्ञानेश्वर पाठक को भी शांत करने का प्रयास नहीं करते। वे हमें अनुभव करने देते हैं कि यह कितना विराट है, और उसके पास मानव हृदय कितना छोटा और काँपता हुआ है। फिर भी हृदय टूटता नहीं। वह खुल जाता है। अनुभव एक साथ अभिभूत करने वाला और पवित्र है, और कवि इतने सच्चे हैं कि दोनों भावों को साथ रहने देते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दर्शन उघडते. अनंत मुखे आणि डोळे, असंख्य अलंकार आणि शस्त्रे (11.194-213). ज्ञानेश्वर म्हणतात, हजार सूर्य आकाशात एकत्र उगवले तरी त्यांचे तेजही त्या प्रकाशाची बरोबरी करू शकत नाही (11.238). कवीचे शब्द ते धरण्यासाठी ताणले जातात आणि ते कबूल करतात की ते धरता येत नाही.\n\nअर्जुनाला तसेच पाहा जसा तो आहे, अंगावर रोमांच उभे, हृदय धडधडणारे, आणि नकळत जोडलेले हात. हे आकृती पाहणाऱ्या विद्वानाच्या शांतीसारखे नाही. ही पाठीच्या कण्यातून धावणारी शिरशिरी आहे. ज्ञानेश्वर वाचकालाही शांत करण्याचा प्रयत्न करत नाहीत. हे किती अवाढव्य आहे आणि त्याच्या शेजारी मानवी हृदय किती लहान आणि थरथरणारे आहे हे ते आपल्याला जाणवू देतात. तरीही हृदय फुटत नाही. ते उघडते. अनुभव एकाच वेळी भारावून टाकणारा आणि पवित्र आहे, आणि कवी इतका प्रामाणिक आहे की दोन्ही भावना एकत्र राहू देतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The terrible form",
+    "hi": {
+     "text": "भयंकर रूप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भयंकर रूप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then the vision turns fearful. Warriors rush into the mouths like great rivers into the sea (11.423), and like moths into a flame (11.425). Krishna says, 'I am Time, grown great to destroy the worlds' (shloka 32). The world is scorched by the flames of his mouths (11.435).\n\nArjuna trembles. He has asked to see, and now he cannot bear what he sees. He begs for mercy and asks to be shown the four-armed, gentle form again. It is the most human moment of the chapter. After wishing for the whole truth, he finds that he needs a face he can speak to. Dnyaneshwar does not shame him for it. A frightened child who turns toward a mother has understood something about love, and the Lord is already preparing to answer. Dnyaneshwar's compassion for Arjuna here is plain, and it is why readers have loved this adhyaya for centuries.",
+    "hi": {
+     "text": "फिर दर्शन भयावह हो जाता है। योद्धा मुखों में ऐसे दौड़ते हैं जैसे बड़ी नदियाँ सागर में (11.423), और जैसे पतंगे ज्वाला में (11.425)। श्रीकृष्ण कहते हैं, 'मैं काल हूँ, लोकों का नाश करने के लिए बढ़ा हुआ' (श्लोक 32)। संसार उनके मुखों की ज्वालाओं से झुलस रहा है (11.435)।\n\nअर्जुन काँप उठता है। उसने देखना चाहा था, और अब जो देखता है उसे सह नहीं पाता। वह दया की भीख माँगता है और चार भुजाओं वाला कोमल रूप फिर दिखाने की प्रार्थना करता है। यह अध्याय का सबसे मानवीय क्षण है। पूरा सत्य चाहने के बाद उसे लगता है कि उसे ऐसा मुख चाहिए जिससे वह बात कर सके। ज्ञानेश्वर इसके लिए उसे लज्जित नहीं करते। डरा हुआ बच्चा जो माँ की ओर मुड़ता है, उसने प्रेम के बारे में कुछ समझ लिया है, और प्रभु उत्तर देने की तैयारी कर चुके हैं। यहाँ अर्जुन के प्रति ज्ञानेश्वर की करुणा साफ़ है, और इसीलिए पाठकों ने सदियों से इस अध्याय को प्यार किया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग दर्शन भयावह होते. योद्धे मुखांत असे धावतात जशा मोठ्या नद्या सागरात (11.423), आणि जसे पतंग ज्योतीत (11.425). श्रीकृष्ण म्हणतात, 'मी काळ आहे, लोकांचा नाश करण्यासाठी वाढलेला' (श्लोक 32). जग त्यांच्या मुखांच्या ज्वालांनी होरपळत आहे (11.435).\n\nअर्जुन थरथरतो. त्याने पाहण्याची इच्छा केली होती, आणि आता जे दिसते ते त्याला सोसवत नाही. तो दयेची याचना करतो आणि चार हातांचे सौम्य रूप पुन्हा दाखवण्याची विनंती करतो. हा अध्यायातला सर्वांत मानवी क्षण आहे. संपूर्ण सत्य मागितल्यावर त्याला जाणवते की त्याला असे मुख हवे आहे ज्याच्याशी बोलता येईल. ज्ञानेश्वर त्यासाठी त्याला लाजवत नाहीत. घाबरलेले मूल आईकडे वळते तेव्हा त्याला प्रेमाविषयी काहीतरी कळलेले असते, आणि प्रभू उत्तर देण्याची तयारी करत आहेत. इथे ज्ञानेश्वरांची अर्जुनाबद्दलची करुणा स्पष्ट आहे, आणि म्हणूनच वाचकांनी शतकानुशतके या अध्यायावर प्रेम केले आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The gentle face",
+    "hi": {
+     "text": "कोमल मुख",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सौम्य मुख",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Dnyaneshwar's own prayer for Arjuna is one of the sweetest passages in the book: 'show me this form as a mother comforts a lost child' (11.668). And then: 'I was a wave in the sea of the cosmic form; now let me be on the shore of your own form' (11.669).\n\nKrishna smiles and returns to the form of a friend. The terrible and glorious sight folds away, and there is the familiar face on the chariot. He tells Arjuna that this form, the one he is looking at now, can be seen only by single-hearted devotion (11.702-708). Not by study, nor by rituals, nor by charity. After the thousand suns, what the Lord offers is the quiet face of a friend, and a way to stay near him by love. The cosmic form is the summit, but the book chooses to end the vision on the friend's smile, because that is where love can rest.",
+    "hi": {
+     "text": "अर्जुन के लिए ज्ञानेश्वर की अपनी प्रार्थना ग्रंथ के सबसे मधुर अंशों में है: 'मुझे यह रूप वैसे दिखाओ जैसे माँ खोए हुए बच्चे को सांत्वना देती है' (11.668)। और फिर: 'मैं विश्वरूप के सागर की लहर था; अब मुझे अपने ही रूप के किनारे पर रहने दो' (11.669)।\n\nश्रीकृष्ण मुस्कुराते हैं और मित्र के रूप में लौट आते हैं। भयंकर और गौरवशाली दृश्य समेट लिया जाता है, और रथ पर वही जाना-पहचाना मुख है। वे अर्जुन से कहते हैं कि यह रूप, जिसे वह अब देख रहा है, केवल अनन्य भक्ति से देखा जा सकता है (11.702-708)। न अध्ययन से, न कर्मकांड से, न दान से। हज़ार सूर्यों के बाद प्रभु जो देते हैं वह मित्र का शांत मुख है, और प्रेम से उनके निकट रहने का मार्ग। विश्वरूप शिखर है, पर ग्रंथ दर्शन का अंत मित्र की मुस्कान पर करना चुनता है, क्योंकि प्रेम वहीं विश्राम पा सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनासाठी ज्ञानेश्वरांची स्वतःची प्रार्थना ग्रंथातील सर्वांत गोड भागांपैकी आहे: 'हरवलेल्या बाळाचे आई जसे समाधान करते तसे हे रूप मला दाखव' (11.668). आणि मग: 'मी विश्वरूपाच्या सागरातील लाट होतो; आता मला तुझ्या स्वतःच्या रूपाच्या किनाऱ्यावर राहू दे' (11.669).\n\nश्रीकृष्ण हसतात आणि मित्राच्या रूपात परततात. भयंकर आणि वैभवशाली दृश्य मिटवले जाते, आणि रथावर तेच ओळखीचे मुख आहे. ते अर्जुनाला सांगतात की हे रूप, जे तो आता पाहत आहे, ते केवळ अनन्य भक्तीनेच पाहता येते (11.702-708). अभ्यासाने नाही, कर्मकांडाने नाही, दानानेही नाही. हजार सूर्यांनंतर प्रभू जे देतात ते मित्राचे शांत मुख आहे, आणि प्रेमाने त्याच्या जवळ राहण्याचा मार्ग. विश्वरूप शिखर आहे, पण ग्रंथ दर्शनाचा शेवट मित्राच्या स्मितावर करणे निवडतो, कारण प्रेम तिथेच विसावू शकते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "तैसे ते दिव्यसूर्य सहस्रवरी । जरी उदयजती कां एकेचि अवसरीं । \nतऱ्ही तया तेजाची थोरी । उपमूं नये",
+  "lang": "mr",
+  "cite": {
+   "en": "Dnyaneshwari 11.238",
+   "hi": {
+    "text": "ज्ञानेश्वरी 11.238",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी 11.238",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Even if a thousand such divine suns rose at one moment, the greatness of that light could not be compared.",
+   "hi": {
+    "text": "यदि ऐसे हज़ार दिव्य सूर्य एक साथ उगें, तब भी उस तेज की महिमा की उपमा नहीं दी जा सकती।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "असे हजार दिव्य सूर्य एकाच वेळी उगवले तरी त्या तेजाच्या थोरवीची उपमा देता येणार नाही.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When did something too large for words leave you quiet? What helped you return to everyday life?",
+  "hi": {
+   "text": "कब कोई चीज़ इतनी विशाल थी कि शब्दों से परे होकर आपको मौन कर गई? उसके बाद रोज़मर्रा में लौटने में किस बात ने मदद की?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शब्दांच्या पलीकडच्या एखाद्या अवाढव्य गोष्टीने तुम्हाला कधी मौन केले? दैनंदिन जीवनात परतायला कशाने मदत केली?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The infinite is awesome; his mercy is that he can also be a friend on the chariot.",
+  "hi": {
+   "text": "अनंत विस्मयकारी है; उसकी कृपा यह है कि वह रथ पर मित्र भी हो सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अनंत विस्मयकारी आहे; त्याची कृपा ही की तो रथावर मित्रही होऊ शकतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika) by Sant Dnyaneshwar, adhyaya 11; retold in our own words",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 11; हमारे अपने शब्दों में पुनःकथित",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 11; आमच्या स्वतःच्या शब्दांत पुनःकथित",
+   "reviewed": false
+  }
+ }
+}

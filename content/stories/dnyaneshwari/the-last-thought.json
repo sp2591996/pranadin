@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-last-thought",
+ "order": 9,
+ "part": "bhakti",
+ "figure": {
+  "en": "Dnyaneshwar",
+  "hi": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Last Thought",
+  "hi": {
+   "text": "अंतिम स्मरण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अंतिम स्मरण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Arjuna's seven questions, why the last remembrance matters, the day and night of Brahma, and the two paths.",
+  "hi": {
+   "text": "अर्जुन के सात प्रश्न, अंतिम स्मरण क्यों मायने रखता है, ब्रह्मा का दिन और रात, और दो मार्ग।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अर्जुनाचे सात प्रश्न, अंतिम स्मरण का महत्त्वाचे, ब्रह्मदेवाचा दिवस आणि रात्र, आणि दोन मार्ग.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/ch-pandharpur.webp",
+   "w": 1091,
+   "h": 1100,
+   "caption": {
+    "en": "The temple town of Pandharpur in the wari season",
+    "hi": {
+     "text": "वारी के समय पंढरपुर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वारीच्या काळातील पंढरपूर",
+     "reviewed": false
+    }
+   },
+   "credit": "Udaykumar PR, CC BY 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pandharpur_2013_Aashad_-_panoramio_(10)_(cropped).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Seven questions",
+    "hi": {
+     "text": "सात प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सात प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna comes with a list. What is Brahman? What is the self? What is action? What is meant by the elements, the gods and the sacrifice? And how is the Lord known at the time of death (8.1-40)? They are the questions of a man who has just seen how short life is, and wants clear answers before the war begins.\n\nKrishna answers with surprising tenderness. Even one who dies by his hand, in anger, reaches him, and 'when you become Krishna's, Krishna becomes your heart' (8.9-10). Notice how Dnyaneshwar frames it. The Lord is not a judge reading a ledger. He is a friend who leans closer as the traveller grows tired. The one thing he asks is that the traveller remember him, and that makes the rest of the chapter possible.",
+    "hi": {
+     "text": "अर्जुन एक सूची लेकर आता है। ब्रह्म क्या है? आत्मा क्या है? कर्म क्या है? भूत, देवता और यज्ञ से क्या अभिप्राय है? और मृत्यु के समय प्रभु को कैसे जाना जाता है (8.1-40)? ये उस मनुष्य के प्रश्न हैं जिसने अभी देखा है कि जीवन कितना छोटा है, और जो युद्ध से पहले साफ़ उत्तर चाहता है।\n\nश्रीकृष्ण आश्चर्यजनक कोमलता से उत्तर देते हैं। जो उनके हाथों क्रोध में मरता है, वह भी उन तक पहुँचता है, और ‘जब तुम कृष्ण के हो जाते हो, कृष्ण तुम्हारा हृदय बन जाते हैं’ (8.9-10)। देखिए ज्ञानेश्वर इसे कैसे रखते हैं। प्रभु बही पढ़ते हुए न्यायाधीश नहीं हैं। वे ऐसे मित्र हैं जो यात्री के थकने के साथ और निकट झुक आते हैं। वे बस एक बात माँगते हैं कि यात्री उन्हें याद करे, और उसी से अध्याय की शेष बातें संभव होती हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन एक यादी घेऊन येतो. ब्रह्म म्हणजे काय? आत्मा म्हणजे काय? कर्म म्हणजे काय? भूते, देव आणि यज्ञ यांचा अर्थ काय? आणि मृत्यूच्या वेळी परमेश्वराला कसे ओळखावे (8.1-40)? आयुष्य किती लहान आहे हे नुकतेच पाहिलेल्या आणि युद्धापूर्वी स्पष्ट उत्तरे हवी असलेल्या माणसाचे हे प्रश्न आहेत.\n\nश्रीकृष्ण आश्चर्यकारक कोमलतेने उत्तर देतात. जो त्यांच्या हातून रागाने मरतो तोही त्यांना पोहोचतो, आणि ‘तू कृष्णाचा झालास की कृष्ण तुझे हृदय होतो’ (8.9-10). ज्ञानेश्वर हे कसे मांडतात ते पाहा. परमेश्वर वही वाचणारा न्यायाधीश नाही. तो असा मित्र आहे जो प्रवासी थकत जाताना अधिक जवळ झुकतो. तो एकच गोष्ट मागतो की प्रवाशाने त्याची आठवण ठेवावी, आणि त्यामुळेच अध्यायातील बाकी सर्व शक्य होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What you remember at the end",
+    "hi": {
+     "text": "अंत में आप क्या याद करते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटी तुम्हाला काय आठवते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Whatever one remembers at death, that one becomes (8.68-69, 8.75). Dnyaneshwar makes this concrete. A man running fast who falls into a pit cannot stop himself in mid-fall (8.70-72). His own speed carries him down. In the same way, a life run at one speed, toward one object, falls into that object at the end.\n\nHe also points to dreams. What we dwell on before sleep returns in our dreams (8.73-74). The mind does not suddenly become new in the dark. It goes where it has been walking all day. So what we love in life returns at death, and that is why this teaching is not about the last minute. It is about the long daily habit of the heart, which decides where it will turn when no other help remains. The teaching is also kind. It says that nothing is lost by beginning now, however late the hour feels, because every honest remembering turns the habit a little.",
+    "hi": {
+     "text": "मृत्यु के समय मनुष्य जो कुछ याद करता है, वही वह बन जाता है (8.68-69, 8.75)। ज्ञानेश्वर इसे ठोस बनाते हैं। तेज़ दौड़ता हुआ मनुष्य गड्ढे में गिरे तो वह बीच गिरने में अपने को रोक नहीं सकता (8.70-72)। उसकी अपनी गति उसे नीचे ले जाती है। उसी तरह, एक ही गति से, एक ही विषय की ओर चला जीवन अंत में उसी विषय में जा गिरता है।\n\nवे स्वप्नों की ओर भी इशारा करते हैं। नींद से पहले हम जिस पर टिके रहते हैं, वही स्वप्न में लौटता है (8.73-74)। अंधेरे में मन अचानक नया नहीं हो जाता। वह वहीं जाता है जहाँ दिन भर चलता रहा। इसलिए जीवन में जिससे हम प्रेम करते हैं, वही मृत्यु में लौटता है, और इसीलिए यह शिक्षा अंतिम क्षण के बारे में नहीं है। यह हृदय की उस लंबी दैनिक आदत के बारे में है, जो तय करती है कि जब कोई और सहारा न बचे तो वह किस ओर मुड़ेगा। यह शिक्षा दयालु भी है। यह कहती है कि अभी शुरू करने से कुछ नहीं खोता, चाहे घड़ी कितनी भी देर की लगे, क्योंकि हर सच्चा स्मरण आदत को थोड़ा मोड़ देता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मृत्यूच्या वेळी माणूस जे आठवतो तो तेच होतो (8.68-69, 8.75). ज्ञानेश्वर हे ठोस करतात. वेगाने धावणारा माणूस खड्ड्यात पडला तर तो मध्येच स्वतःला थांबवू शकत नाही (8.70-72). त्याचा स्वतःचा वेग त्याला खाली नेतो. तसेच, एकाच गतीने, एकाच विषयाकडे चाललेले आयुष्य शेवटी त्या विषयात पडते.\n\nते स्वप्नांकडेही निर्देश करतात. झोपण्यापूर्वी आपण ज्यावर रेंगाळतो ते स्वप्नांत परत येते (8.73-74). अंधारात मन अचानक नवे होत नाही. ते दिवसभर जिथे चालले तिथेच जाते. म्हणून जगताना आपण ज्यावर प्रेम करतो ते मृत्यूत परत येते, आणि म्हणूनच ही शिकवण अंतिम क्षणाबद्दल नाही. ती हृदयाच्या दीर्घ दैनंदिन सवयीबद्दल आहे, जी ठरवते की दुसरा कोणताही आधार उरला नाही तेव्हा ते कुठे वळेल. ही शिकवण दयाळूही आहे. ती सांगते की आता सुरू केल्याने काहीही गमावले जात नाही, वेळ कितीही उशिराची वाटो, कारण प्रत्येक प्रामाणिक स्मरण सवयीला थोडे वळवते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Om as the vehicle",
+    "hi": {
+     "text": "ॐ वाहन के रूप में",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ॐ वाहन म्हणून",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the end, says Krishna, the breath is gathered into Om, the one syllable that is Brahman (8.114-119). Through repetition, mind and breath grow still (8.117). Dnyaneshwar describes the sound as if it were a small boat, light enough that the weary can step into it.\n\nSay it simply: Om is the last note of a song that has been sung all life. A singer who has practised for years does not have to think when the final line comes. It rises of its own accord, in the same voice, from the same place. In the same way, the name practised in the morning, in the field and in the evening is the one that waits at the end. Dnyaneshwar wants us to see the practice as a kind of friendship we are slowly building with the last hour.",
+    "hi": {
+     "text": "श्रीकृष्ण कहते हैं कि अंत में प्राण को ॐ में समेट लिया जाता है, वह एक अक्षर जो ब्रह्म है (8.114-119)। जप से मन और प्राण शांत हो जाते हैं (8.117)। ज्ञानेश्वर उस ध्वनि का वर्णन ऐसे करते हैं मानो वह एक छोटी नाव हो, इतनी हलकी कि थका हुआ भी उसमें पाँव रख सके।\n\nसीधे शब्दों में कहें: ॐ उस गीत का अंतिम स्वर है जो जीवन भर गाया गया है। जिस गायक ने वर्षों अभ्यास किया हो, उसे अंतिम पंक्ति आने पर सोचना नहीं पड़ता। वह अपने आप उठती है, उसी स्वर में, उसी स्थान से। उसी तरह, सुबह, खेत में और साँझ को जपा गया नाम ही वह है जो अंत में प्रतीक्षा करता है। ज्ञानेश्वर चाहते हैं कि हम इस अभ्यास को एक प्रकार की मित्रता के रूप में देखें, जो हम अंतिम घड़ी के साथ धीरे-धीरे बना रहे हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण म्हणतात, शेवटी प्राण ॐ मध्ये एकवटला जातो, जो एक अक्षर म्हणजेच ब्रह्म आहे (8.114-119). जपाने मन आणि प्राण शांत होतात (8.117). ज्ञानेश्वर त्या ध्वनीचे वर्णन जणू एका छोट्या नावेसारखे करतात, इतकी हलकी की थकलेलाही तीत पाऊल ठेवू शकतो.\n\nसाध्या शब्दांत सांगायचे तर: ॐ हा आयुष्यभर गायलेल्या गाण्याचा अखेरचा सूर आहे. वर्षानुवर्षे सराव केलेल्या गायकाला शेवटची ओळ आली की विचार करावा लागत नाही. ती आपोआप उठते, त्याच आवाजात, त्याच जागेतून. तसेच, सकाळी, शेतात आणि संध्याकाळी जपलेले नाव तेच असते जे शेवटी वाट पाहते. हा सराव म्हणजे आपण अंतिम घटकेशी हळूहळू बांधत असलेली एक प्रकारची मैत्री आहे असे आपण पाहावे, असे ज्ञानेश्वरांना वाटते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The day and night of Brahma",
+    "hi": {
+     "text": "ब्रह्मा का दिन और रात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ब्रह्मदेवाचा दिवस आणि रात्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Now the poet widens the frame. A thousand cycles of the four ages make one day of Brahma, and the night is as long (8.156-168). The worlds come out at daybreak and fold back at night. Even the higher heavens return (8.160-168). What looks like a firm roof over our heads is a moment in a very long breath.\n\nAgainst that great turning, Dnyaneshwar says the Lord's remembrance is a cool shade for the traveller (8.133). The picture is a small human one: a walker on a hot road who finds a tree. Time may roll on in ages, and worlds may rise and sink, but the one who has rested in the Lord stands outside the wheel. That is not a threat to scare us. It is a quiet invitation to put our weight on something that does not wear out.",
+    "hi": {
+     "text": "अब कवि दायरा चौड़ा करते हैं। चार युगों के हज़ार चक्र ब्रह्मा का एक दिन बनाते हैं, और रात उतनी ही लंबी है (8.156-168)। लोक भोर में प्रकट होते हैं और रात में समा जाते हैं। ऊँचे स्वर्ग भी लौट आते हैं (8.160-168)। जो हमारे सिर पर ठोस छत जैसा दिखता है, वह एक बहुत लंबी साँस का एक क्षण है।\n\nउस महान चक्र के सामने ज्ञानेश्वर कहते हैं कि प्रभु का स्मरण यात्री के लिए शीतल छाया है (8.133)। चित्र एक छोटा मानवीय है: तपती राह पर चलता पथिक जिसे एक वृक्ष मिल जाए। समय युगों में लुढ़कता रहे और लोक उठते-गिरते रहें, पर जो प्रभु में विश्राम कर चुका है वह चक्र के बाहर खड़ा है। यह हमें डराने वाली धमकी नहीं है। यह एक शांत निमंत्रण है कि हम अपना भार उस पर रखें जो घिसता नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता कवी चौकट रुंद करतात. चार युगांची हजार चक्रे म्हणजे ब्रह्मदेवाचा एक दिवस, आणि रात्र तितकीच दीर्घ (8.156-168). लोक पहाटे प्रकटतात आणि रात्री विलीन होतात. उंच स्वर्गही परत येतात (8.160-168). आपल्या डोक्यावरच्या भक्कम छपरासारखे जे दिसते ते एका फार दीर्घ श्वासातला एक क्षण आहे.\n\nत्या महान फिरण्यासमोर ज्ञानेश्वर म्हणतात की परमेश्वराचे स्मरण प्रवाशासाठी शीतल सावली आहे (8.133). चित्र एक छोटे मानवी आहे: तापलेल्या वाटेवर चालणारा वाटसरू ज्याला झाड मिळते. काळ युगांमध्ये लोटत राहो आणि लोक उठत-बुडत राहोत, पण जो परमेश्वरात विसावला आहे तो चक्राच्या बाहेर उभा आहे. आपल्याला घाबरवणारी ही धमकी नाही. जे झिजत नाही त्यावर आपला भार टाकण्याचे हे शांत आमंत्रण आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two paths",
+    "hi": {
+     "text": "दो मार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The adhyaya ends with the two paths a soul may take when it leaves the body. The bright path is the way of fire, light, day and the northern course. The dark path is the way of smoke, night and the southern course (8.220-230). One does not return in the ordinary way, and the other does.\n\nThe wise know both and are not confused. They do not have to fear, because they do not depend on a special hour or place. When death's storm arrives, only the practice made beforehand stands (8.208-218). A house is not built when the rain begins. Dnyaneshwar's gentle advice, at the close of this adhyaya, is the same one a farmer would give: do the work of remembering in calm weather, and you will find it waiting in the storm.",
+    "hi": {
+     "text": "अध्याय उन दो मार्गों पर समाप्त होता है जिन पर जीव देह छोड़ते समय जा सकता है। उजला मार्ग अग्नि, ज्योति, दिन और उत्तर दिशा का है। अँधेरा मार्ग धुएँ, रात और दक्षिण दिशा का है (8.220-230)। एक से सामान्य रीति से लौटना नहीं होता, और दूसरे से होता है।\n\nज्ञानी दोनों को जानते हैं और भ्रमित नहीं होते। उन्हें डरने की ज़रूरत नहीं, क्योंकि वे किसी विशेष घड़ी या स्थान पर निर्भर नहीं हैं। जब मृत्यु का तूफ़ान आता है, तब केवल पहले से किया गया अभ्यास ही खड़ा रहता है (8.208-218)। घर बारिश शुरू होने पर नहीं बनाया जाता। इस अध्याय के अंत में ज्ञानेश्वर की कोमल सलाह वही है जो किसान देगा: स्मरण का काम शांत मौसम में कर लो, और तूफ़ान में वह तुम्हें प्रतीक्षा करता मिलेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अध्याय त्या दोन मार्गांवर संपतो जे जीव देह सोडताना घेऊ शकतो. तेजस्वी मार्ग अग्नी, ज्योती, दिवस आणि उत्तरेच्या वाटेचा आहे. अंधारा मार्ग धूर, रात्र आणि दक्षिणेच्या वाटेचा आहे (8.220-230). एकातून नेहमीच्या रीतीने परतावे लागत नाही, आणि दुसऱ्यातून परतावे लागते.\n\nज्ञानी दोन्ही जाणतात आणि गोंधळत नाहीत. त्यांना घाबरण्याची गरज नाही, कारण ते कोणत्याही विशेष घटकेवर किंवा स्थानावर अवलंबून नाहीत. मृत्यूचे वादळ आले की फक्त आधी केलेला सरावच टिकतो (8.208-218). पाऊस सुरू झाल्यावर घर बांधले जात नाही. या अध्यायाच्या शेवटी ज्ञानेश्वरांचा कोमल सल्ला तोच आहे जो शेतकरी देईल: स्मरणाचे काम शांत हवामानात करून ठेवा, आणि वादळात ते तुम्हाला वाट पाहत आढळेल.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "आणि मरणीं जया जें आठवे । तो तेचि गतीतें पावे।\nम्हणोनि सदां स्मरावें । मातेंचि तुवां",
+  "lang": "mr",
+  "cite": {
+   "en": "Dnyaneshwari 8.75",
+   "hi": {
+    "text": "ज्ञानेश्वरी 8.75",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी ८.७५",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Whatever one remembers at death, that is the state one reaches; therefore always remember Me alone.",
+   "hi": {
+    "text": "मृत्यु के समय मनुष्य जिसे याद करता है, वही गति उसे मिलती है; इसलिए सदा मुझे ही स्मरण करो।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मरणसमयी ज्याला जे आठवते तो तीच गती पावतो; म्हणून सदा माझेच स्मरण कर.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What one thought would you like as your companion at the end? Practise it for a minute today.",
+  "hi": {
+   "text": "अंत में आप कौन-सा एक विचार अपने साथी के रूप में चाहेंगे? आज एक मिनट उसका अभ्यास कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शेवटी कोणता एक विचार तुम्हाला सोबती म्हणून हवा आहे? आज एक मिनिट त्याचा सराव करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Life trains the last thought; what we love now is what we will remember.",
+  "hi": {
+   "text": "जीवन अंतिम स्मरण को साधता है; जिससे हम अभी प्रेम करते हैं, वही हमें याद आएगा।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आयुष्य अंतिम स्मरणाला घडवते; आज आपण ज्यावर प्रेम करतो तेच आपल्याला आठवेल.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika) by Sant Dnyaneshwar, adhyaya 8; retold in our own words",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 8; हमारे अपने शब्दों में पुनर्कथन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय ८; आमच्या स्वतःच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

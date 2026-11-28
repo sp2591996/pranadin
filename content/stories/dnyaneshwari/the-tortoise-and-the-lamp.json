@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-tortoise-and-the-lamp",
+ "order": 3,
+ "part": "karma",
+ "figure": {
+  "en": "Dnyaneshwar",
+  "hi": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Tortoise and the Lamp",
+  "hi": {
+   "text": "कछुआ और दीपक",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कासव आणि दिवा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Krishna's first teaching: the self cannot be cut or burned, and the steady mind draws in its senses like a tortoise.",
+  "hi": {
+   "text": "श्रीकृष्ण की पहली शिक्षा: आत्मा को न काटा जा सकता है, न जलाया जा सकता है, और स्थिर मन अपनी इंद्रियों को कछुए की तरह समेट लेता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीकृष्णांची पहिली शिकवण: आत्म्याला कापता येत नाही, जाळता येत नाही, आणि स्थिर मन आपल्या इंद्रियांना कासवासारखे आवरून घेते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/ch-kurma.webp",
+   "w": 878,
+   "h": 1100,
+   "caption": {
+    "en": "Vishnu as Kurma, the tortoise avatar (Wellcome Collection)",
+    "hi": {
+     "text": "विष्णु का कूर्म अवतार, कछुआ (वेलकम कलेक्शन)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विष्णूचा कूर्म अवतार, कासव (वेलकम संग्रह)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, CC BY 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vishnu_in_his_avatar_as_Kurma,_the_tortoise._Wellcome_L0043633.jpg"
+  },
+  {
+   "src": "/stories/dnyaneshwari/ch-tortoise-gita.webp",
+   "w": 880,
+   "h": 1100,
+   "caption": {
+    "en": "Krishna teaching Arjuna in the Gita (painting)",
+    "hi": {
+     "text": "गीता में कृष्ण अर्जुन को उपदेश देते हुए (चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गीतेत कृष्ण अर्जुनाला उपदेश देताना (चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_Arjuna_Gita.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Krishna's first words",
+    "hi": {
+     "text": "श्रीकृष्ण के पहले शब्द",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णांचे पहिले शब्द",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna begins by reminding Arjuna who he is: the hero who once fought even Shiva, the man to whom the three worlds look small (2.6-12). Why should such a man sit weeping on the floor of a chariot? Dnyaneshwar lets the question hang in the air, and the friend's gentle teasing has a purpose. It is meant to lift Arjuna's head.\n\nThen comes the turning point. Arjuna says he is no longer a friend but a student, and asks to be taught (shloka 7). The great archer, who has never bowed to any man in a fight, sits down as a pupil and folds his hands. In that small change of posture the whole Gita begins. Teaching can only start when someone is honest enough to say, 'I do not know, and I am ready to learn.'",
+    "hi": {
+     "text": "श्रीकृष्ण अर्जुन को याद दिलाते हुए आरंभ करते हैं कि वह कौन है: वह वीर जिसने कभी शिव से भी युद्ध किया, वह पुरुष जिसे तीनों लोक छोटे लगते हैं (2.6-12)। ऐसा पुरुष रथ के तल पर बैठकर क्यों रो रहा है? ज्ञानेश्वर यह प्रश्न हवा में लटका रहने देते हैं, और मित्र की इस कोमल छेड़छाड़ का एक उद्देश्य है। वह अर्जुन का सिर ऊपर उठाने के लिए है।\n\nफिर आता है मोड़ का क्षण। अर्जुन कहता है कि अब वह मित्र नहीं, शिष्य है, और सिखाने की प्रार्थना करता है (श्लोक 7)। महान धनुर्धर, जो युद्ध में कभी किसी के आगे नहीं झुका, शिष्य बनकर बैठता है और हाथ जोड़ लेता है। मुद्रा के इसी छोटे-से बदलाव में पूरी गीता आरंभ होती है। सिखाना तभी शुरू हो सकता है जब कोई इतना सच्चा हो कि कह सके, 'मैं नहीं जानता, और सीखने को तैयार हूँ।'",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण अर्जुनाला तो कोण आहे याची आठवण करून देत सुरुवात करतात: ज्याने एकेकाळी शिवाशीही युद्ध केले तो वीर, ज्याला तिन्ही लोक लहान वाटतात तो पुरुष (2.6-12). असा पुरुष रथाच्या तळाशी बसून का रडतो आहे? ज्ञानेश्वर हा प्रश्न हवेत तसाच राहू देतात, आणि मित्राच्या या हळुवार चेष्टेला एक हेतू आहे. अर्जुनाची मान वर करणे हा तो हेतू.\n\nमग येतो वळणाचा क्षण. अर्जुन म्हणतो की आता तो मित्र नाही तर शिष्य आहे, आणि शिकवण्याची विनंती करतो (श्लोक 7). लढाईत कधीही कोणापुढे न झुकलेला थोर धनुर्धर शिष्य म्हणून बसतो आणि हात जोडतो. बसण्याच्या त्या लहानशा बदलातच संपूर्ण गीता सुरू होते. शिकवण तेव्हाच सुरू होऊ शकते जेव्हा कोणी इतका प्रामाणिक असतो की म्हणू शकेल, 'मला माहीत नाही, आणि मी शिकायला तयार आहे.'",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The self that does not die",
+    "hi": {
+     "text": "वह आत्मा जो मरती नहीं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "न मरणारा आत्मा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna's first great teaching is the picture of clothes. 'As one throws off a worn-out garment and wraps a new one around him, so the self takes a new body' (2.144). Dnyaneshwar adds that weapons cannot cut it (2.145). Flood cannot drown it, fire cannot burn it and wind cannot dry it (2.146). It is everywhere and always (2.147-151).\n\nHe also points to what Arjuna already knows. The body passes from childhood to youth to old age (2.109), and no one weeps that the child has died because the young man has appeared. The one who watches all those changes does not itself change. Think of how many versions of yourself you have outgrown, yet you have never lost the one who looked out through each of them. That, says Krishna, is what grief forgets.",
+    "hi": {
+     "text": "श्रीकृष्ण की पहली बड़ी शिक्षा वस्त्र का चित्र है। 'जैसे कोई पुराना वस्त्र उतारकर नया ओढ़ लेता है, वैसे ही आत्मा नया शरीर धारण करती है' (2.144)। ज्ञानेश्वर जोड़ते हैं कि शस्त्र उसे काट नहीं सकते (2.145)। बाढ़ उसे डुबो नहीं सकती, आग उसे जला नहीं सकती और हवा उसे सुखा नहीं सकती (2.146)। वह सर्वत्र और सदा है (2.147-151)।\n\nवे उस ओर भी संकेत करते हैं जो अर्जुन पहले से जानता है। शरीर बचपन से जवानी और जवानी से बुढ़ापे में जाता है (2.109), और कोई इसलिए नहीं रोता कि बच्चा मर गया क्योंकि जवान आ गया। इन सारे बदलावों को देखने वाला स्वयं नहीं बदलता। सोचिए कि अपने कितने रूपों को आप पीछे छोड़ आए हैं, फिर भी उसे कभी नहीं खोया जिसने हर रूप से बाहर झाँका। श्रीकृष्ण कहते हैं, शोक यही भूल जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्णांची पहिली मोठी शिकवण वस्त्राचे चित्र आहे. 'जसा कोणी जुने वस्त्र टाकून नवे पांघरतो, तसा आत्मा नवे शरीर धारण करतो' (2.144). ज्ञानेश्वर जोडतात की शस्त्रे त्याला कापू शकत नाहीत (2.145). पूर त्याला बुडवू शकत नाही, अग्नी त्याला जाळू शकत नाही आणि वारा त्याला सुकवू शकत नाही (2.146). तो सर्वत्र आणि सदा आहे (2.147-151).\n\nअर्जुनाला आधीच ठाऊक असलेल्या गोष्टीकडेही ते बोट दाखवतात. शरीर बालपणातून तारुण्यात आणि तारुण्यातून म्हातारपणात जाते (2.109), आणि तरुण आला म्हणून मूल मेले असे म्हणून कोणी रडत नाही. या सर्व बदलांना पाहणारा स्वतः बदलत नाही. आपण स्वतःची किती रूपे मागे टाकली याचा विचार करा, तरी प्रत्येक रूपातून डोकावणाऱ्याला आपण कधीच गमावले नाही. श्रीकृष्ण म्हणतात, शोक नेमके हेच विसरतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Work without clinging",
+    "hi": {
+     "text": "आसक्ति बिना कर्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आसक्तीविना कर्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Next Krishna teaches karma yoga: act without longing for the fruit. Dnyaneshwar gives it three pictures. Seeds that have been burnt do not sprout, even in the best soil (2.66), so action done without craving leaves no new bondage behind it. A small lamp-flame still gives a great light (2.238), so even modest work, done cleanly, shines far. And a traveller who walks by lamplight does not stumble (2.187).\n\nSee how practical this is. Krishna does not tell Arjuna to stop working. He tells him to work like a farmer who sows honestly and then lets the sky do its share. The effort is yours, the harvest is not, and the mind is freed from the tiring habit of counting. A hand that stops gripping the result can finally use its whole strength on the task.",
+    "hi": {
+     "text": "इसके बाद श्रीकृष्ण कर्मयोग सिखाते हैं: फल की लालसा बिना कर्म करो। ज्ञानेश्वर इसके तीन चित्र देते हैं। जले हुए बीज सर्वोत्तम भूमि में भी अंकुरित नहीं होते (2.66), इसलिए कामना बिना किया गया कर्म अपने पीछे कोई नया बंधन नहीं छोड़ता। छोटे दीये की लौ भी बड़ा प्रकाश देती है (2.238), इसलिए साधारण-सा कर्म भी, यदि निर्मल हो, दूर तक चमकता है। और दीये के उजाले में चलने वाला पथिक ठोकर नहीं खाता (2.187)।\n\nदेखिए यह कितना व्यावहारिक है। श्रीकृष्ण अर्जुन से काम छोड़ने को नहीं कहते। वे कहते हैं कि उस किसान की तरह काम करो जो ईमानदारी से बोता है और फिर आकाश को उसका हिस्सा करने देता है। प्रयास तुम्हारा है, फ़सल नहीं, और मन गिनते रहने की थका देने वाली आदत से मुक्त हो जाता है। जो हाथ फल को जकड़ना छोड़ देता है, वह अपनी पूरी शक्ति काम में लगा सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुढे श्रीकृष्ण कर्मयोग शिकवतात: फळाच्या इच्छेविना कर्म करा. ज्ञानेश्वर त्याची तीन चित्रे देतात. भाजलेली बीजे उत्तम जमिनीतही रुजत नाहीत (2.66), म्हणून इच्छेविना केलेले कर्म मागे नवे बंधन ठेवत नाही. लहान दिव्याची ज्योतही मोठा प्रकाश देते (2.238), म्हणून साधे कामही, निर्मळपणे केले तर, दूरवर उजळते. आणि दिव्याच्या उजेडात चालणारा वाटसरू अडखळत नाही (2.187).\n\nहे किती व्यवहारी आहे ते पाहा. श्रीकृष्ण अर्जुनाला काम थांबवायला सांगत नाहीत. ते सांगतात की त्या शेतकऱ्यासारखे काम करा जो प्रामाणिकपणे पेरतो आणि मग आकाशाला त्याचा वाटा करू देतो. प्रयत्न तुमचा, कापणी नाही, आणि मन मोजत राहण्याच्या थकवणाऱ्या सवयीतून मोकळे होते. फळाला घट्ट धरणे सोडलेला हात आपले संपूर्ण बळ कामावर लावू शकतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The tortoise",
+    "hi": {
+     "text": "कछुआ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कासव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Now the steady mind. 'As the tortoise spreads out its limbs and then draws them in at will, so the senses obey the one whose wisdom is steady' (2.301-302, and again at 2.352-353). The tortoise is not limbless. It simply is not ruled by its limbs, and can pull them in whenever it chooses.\n\nDnyaneshwar adds the lamp in a windless place that does not flicker (2.341). He also adds the one who is awake where all creatures sleep (2.355-356). The crowd is asleep to what matters and wide awake to every passing sound, taste and sight. The steady person is the reverse, quiet where they rush, watchful where they doze. It is a very different idea from cutting off the senses. It is the freedom to draw them in and rest. The tortoise teaches a patient art: steadiness is practised in small, repeated returns, and nobody has to be perfect on the first day.",
+    "hi": {
+     "text": "अब स्थिर मन की बात। 'जैसे कछुआ अपने अंग फैलाता है और फिर इच्छा से समेट लेता है, वैसे ही जिसकी बुद्धि स्थिर है उसकी इंद्रियाँ उसके वश में रहती हैं' (2.301-302, और फिर 2.352-353)। कछुआ अंगहीन नहीं है। बस उसके अंग उस पर राज नहीं करते, और वह जब चाहे उन्हें भीतर खींच सकता है।\n\nज्ञानेश्वर हवा रहित स्थान में न काँपने वाले दीपक की उपमा भी जोड़ते हैं (2.341)। साथ ही उसकी, जो जागता है जहाँ सारे प्राणी सोते हैं (2.355-356)। भीड़ उस बात के लिए सोई है जो महत्त्व रखती है, और हर आते-जाते स्वर, स्वाद और दृश्य के लिए पूरी तरह जागी है। स्थिर व्यक्ति इसका उलटा है, जहाँ वे दौड़ते हैं वहाँ शांत, जहाँ वे ऊँघते हैं वहाँ सजग। यह इंद्रियों को काट देने के विचार से बहुत भिन्न है। यह उन्हें भीतर खींचकर विश्राम करने की स्वतंत्रता है। कछुआ धैर्य की कला सिखाता है: स्थिरता छोटे-छोटे बार-बार लौटने से सधती है, और पहले ही दिन किसी को पूर्ण होने की आवश्यकता नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता स्थिर मन. 'जसे कासव आपले अवयव पसरते आणि मग इच्छेने आत ओढून घेते, तशी ज्याची बुद्धी स्थिर त्याची इंद्रिये त्याच्या ताब्यात असतात' (2.301-302, आणि पुन्हा 2.352-353). कासव अवयवहीन नसते. फक्त त्याच्यावर त्याचे अवयव राज्य करत नाहीत, आणि हवे तेव्हा ते त्यांना आत ओढू शकते.\n\nज्ञानेश्वर वारा नसलेल्या जागी न हलणाऱ्या दिव्याची उपमाही जोडतात (2.341). तसेच त्याची, जो सर्व प्राणी झोपलेले असताना जागा असतो (2.355-356). जमाव महत्त्वाच्या गोष्टीबद्दल झोपलेला असतो आणि प्रत्येक येणाऱ्या-जाणाऱ्या आवाजाला, चवीला आणि दृश्याला पूर्ण जागा असतो. स्थिर माणूस याच्या उलट असतो, जिथे ते धावतात तिथे शांत, जिथे ते झोपतात तिथे जागरूक. इंद्रिये तोडून टाकण्याच्या कल्पनेपेक्षा हे फार वेगळे आहे. त्यांना आत ओढून विसावण्याचे हे स्वातंत्र्य आहे. कासव संयमाची कला शिकवते: स्थिरता लहान, वारंवार परत येण्याने साधते, आणि पहिल्याच दिवशी कोणीही परिपूर्ण असण्याची गरज नाही.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The sea and the rivers",
+    "hi": {
+     "text": "सागर और नदियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सागर आणि नद्या",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The adhyaya closes with the sea. All the rivers run into it, and it is not disturbed (2.357-358). In summer, when the rivers dry up, the sea is not lessened (2.359-360). It neither swells with the flood of getting nor shrinks in the drought of losing.\n\nThat, says Dnyaneshwar, is the calm of one who wants nothing. Not the dull calm of someone who has given up, but the wide calm of someone who is already full. Wanting is a restless tide that rises and falls with every gain and loss. When it is let go, the water stays level, and the same peace remains whatever comes in. Arjuna came to the chariot asking to be told what to do. He is given something deeper: a way of being that no result can shake.",
+    "hi": {
+     "text": "अध्याय सागर पर समाप्त होता है। सारी नदियाँ उसमें आकर गिरती हैं, और वह विचलित नहीं होता (2.357-358)। गर्मी में जब नदियाँ सूख जाती हैं, तब भी सागर घटता नहीं (2.359-360)। वह न पाने की बाढ़ से फूलता है, न खोने के सूखे से सिकुड़ता है।\n\nज्ञानेश्वर कहते हैं कि वही उसकी शांति है जो कुछ नहीं चाहता। हार मान चुके व्यक्ति की सुस्त शांति नहीं, बल्कि पहले से भरे हुए व्यक्ति की विशाल शांति। चाहना एक बेचैन ज्वार है जो हर लाभ और हानि के साथ चढ़ता-उतरता है। उसे छोड़ दो तो जल सम रहता है, और जो भी आए वही शांति बनी रहती है। अर्जुन रथ पर यह पूछता हुआ आया था कि उसे क्या करना है। उसे उससे गहरी चीज़ मिलती है: जीने का ऐसा ढंग जिसे कोई परिणाम हिला नहीं सकता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अध्याय सागराने संपतो. सर्व नद्या त्यात येऊन मिळतात, आणि तो क्षुब्ध होत नाही (2.357-358). उन्हाळ्यात नद्या आटतात तेव्हाही सागर कमी होत नाही (2.359-360). तो मिळण्याच्या पुराने फुगत नाही आणि गमावण्याच्या दुष्काळाने आक्रसत नाही.\n\nज्ञानेश्वर म्हणतात, तीच त्याची शांती जो काहीही इच्छीत नाही. हार मानलेल्या माणसाची मंद शांती नव्हे, तर आधीच परिपूर्ण असलेल्या माणसाची विशाल शांती. इच्छा ही अस्वस्थ भरती आहे जी प्रत्येक लाभ-हानीबरोबर चढते-उतरते. ती सोडली तर पाणी समपातळीवर राहते, आणि जे काही येईल त्यातही तीच शांती टिकते. अर्जुन रथावर काय करावे ते विचारत आला होता. त्याला त्याहून खोल गोष्ट दिली जाते: जगण्याची अशी रीत जिला कोणताही परिणाम हलवू शकत नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "'''\n\nकां कूर्म जियापरी । उवाइला अवेव पसरी ।\nना इच्छावशें आवरी । आपुले आपण",
+  "lang": "mr",
+  "cite": {
+   "en": "Dnyaneshwari 2.301",
+   "hi": {
+    "text": "ज्ञानेश्वरी 2.301",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी 2.301",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Like the tortoise that spreads out its limbs and then draws them back in at will.",
+   "hi": {
+    "text": "जैसे कछुआ अपने अंग फैलाता है और फिर इच्छा से उन्हें भीतर समेट लेता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जसे कासव आपले अवयव पसरते आणि मग इच्छेने ते आत ओढून घेते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Which sense pulls you away most easily today? Practise drawing it in for five quiet minutes.",
+  "hi": {
+   "text": "आज कौन-सी इंद्रिय आपको सबसे आसानी से खींच ले जाती है? पाँच शांत मिनट उसे भीतर समेटने का अभ्यास करें।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आज कोणते इंद्रिय तुम्हाला सर्वांत सहज ओढून नेते? पाच शांत मिनिटे त्याला आत ओढून घेण्याचा सराव करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Steadiness does not mean having no senses; it means being able to draw them in and settle.",
+  "hi": {
+   "text": "स्थिरता का अर्थ इंद्रियाँ न होना नहीं है; उसका अर्थ है उन्हें भीतर समेटकर शांत हो पाना।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "स्थिरता म्हणजे इंद्रिये नसणे नव्हे; ती म्हणजे त्यांना आत ओढून शांत होता येणे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika) by Sant Dnyaneshwar, adhyaya 2; retold in our own words",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 2; हमारे अपने शब्दों में पुनःकथित",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 2; आमच्या स्वतःच्या शब्दांत पुनःकथित",
+   "reviewed": false
+  }
+ }
+}

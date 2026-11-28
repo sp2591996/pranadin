@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "how-the-dnyaneshwari-was-written",
+ "order": 1,
+ "part": "story",
+ "figure": {
+  "en": "Dnyaneshwar",
+  "hi": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "How the Dnyaneshwari Was Written",
+  "hi": {
+   "text": "ज्ञानेश्वरी कैसे लिखी गई",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी कशी लिहिली गेली",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Four outcast children of Alandi, a guru in the Nath line, a village on the Godavari and a scribe called Sachchidananda Baba: how a Gita in Marathi came to be.",
+  "hi": {
+   "text": "आलंदी के चार बहिष्कृत बच्चे, नाथ परंपरा के एक गुरु, गोदावरी किनारे का एक गाँव और सच्चिदानंद बाबा नामक लेखक: मराठी में गीता कैसे रची गई।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आळंदीची चार वाळीत टाकलेली मुले, नाथ परंपरेतले एक गुरू, गोदावरीकाठचे एक गाव आणि सच्चिदानंद बाबा नावाचे लेखक: मराठीतील गीता कशी घडली.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/dn-1.webp",
+   "w": 1200,
+   "h": 675,
+   "caption": {
+    "en": "Statues of Dnyaneshwar speaking the ovis and Sachchidananda Baba writing them down",
+    "hi": {
+     "text": "ओवियाँ बोलते ज्ञानेश्वर और उन्हें लिखते सच्चिदानंद बाबा की मूर्तियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ओव्या सांगणारे ज्ञानेश्वर आणि त्या लिहून घेणारे सच्चिदानंद बाबा यांची शिल्पे",
+     "reviewed": false
+    }
+   },
+   "credit": "ज्ञानदा गद्रे-फडके, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Saint_Dnyaneshwar_and_Sachchidanand_baba.jpg"
+  },
+  {
+   "src": "/stories/dnyaneshwar/1.webp",
+   "w": 737,
+   "h": 1057,
+   "caption": {
+    "en": "Sant Dnyaneshwar (Ravi Varma Press print, 1910s)",
+    "hi": {
+     "text": "संत ज्ञानेश्वर (रवि वर्मा प्रेस का चित्र, 1910 का दशक)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संत ज्ञानेश्वर (रवि वर्मा प्रेसचे चित्र, 1910 चे दशक)",
+     "reviewed": false
+    }
+   },
+   "credit": "Ravi Varma Press, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jnandev.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The children of Alandi",
+    "hi": {
+     "text": "आलंदी के बच्चे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आळंदीची मुले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Alandi sits beside the Indrayani river, and Varkari tradition begins the story there. It says that Vitthalpant, who had once taken sannyasa and then returned to family life, and his wife Rukminibai were shunned by their community. Their four children grew up as outcasts: Nivrutti, Dnyaneshwar, Sopan and little Muktabai. Note that this family story comes from later biographies. The book itself does not tell it.\n\nPicture the four of them close together in a house the village avoided. Nivrutti, the eldest, looked after the rest. Dnyaneshwar was hungry to learn, and so were his younger brother and sister. Being turned away from the usual doors seems to have made them lean on one another and on the one thing nobody could take from them, which was the pleasure of understanding. Out of that small, shut-out household, tradition says, came the poem that Maharashtra still sings.",
+    "hi": {
+     "text": "आलंदी इंद्रायणी नदी के किनारे बसा है, और वारकरी परंपरा कथा की शुरुआत वहीं से करती है। परंपरा कहती है कि विठ्ठलपंत, जिन्होंने कभी संन्यास लिया था और फिर गृहस्थ जीवन में लौट आए थे, और उनकी पत्नी रुक्मिणीबाई को उनके समाज ने बहिष्कृत कर दिया। उनके चारों बच्चे बहिष्कृत बनकर ही बड़े हुए: निवृत्ति, ज्ञानेश्वर, सोपान और नन्ही मुक्ताबाई। ध्यान रहे कि यह पारिवारिक कथा बाद के जीवन-चरित्रों से आती है। ग्रंथ स्वयं इसे नहीं बताता।\n\nकल्पना कीजिए कि चारों उस घर में एक-दूसरे से सटकर रह रहे हैं जिससे गाँव दूर रहता था। सबसे बड़े निवृत्ति बाकी सबकी देखभाल करते थे। ज्ञानेश्वर को सीखने की भूख थी, और उनके छोटे भाई-बहन को भी। जान पड़ता है कि सामान्य दरवाज़ों से लौटाए जाने ने उन्हें एक-दूसरे का और उस एक चीज़ का सहारा लेना सिखाया जो कोई उनसे छीन नहीं सकता था, यानी समझने का आनंद। परंपरा कहती है कि उसी छोटे, ठुकराए हुए घर से वह काव्य निकला जिसे महाराष्ट्र आज भी गाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आळंदी इंद्रायणी नदीच्या काठी वसले आहे, आणि वारकरी परंपरा कथेची सुरुवात तिथूनच करते. परंपरा सांगते की विठ्ठलपंत, ज्यांनी एकदा संन्यास घेतला होता आणि नंतर गृहस्थाश्रमात परत आले, आणि त्यांच्या पत्नी रुक्मिणीबाई यांना समाजाने वाळीत टाकले. त्यांची चारही मुले वाळीत टाकलेली म्हणूनच वाढली: निवृत्ती, ज्ञानेश्वर, सोपान आणि चिमुकली मुक्ताबाई. लक्षात ठेवा, ही कौटुंबिक कथा नंतरच्या चरित्रांतून आली आहे. ग्रंथ स्वतः ती सांगत नाही.\n\nगावाने टाळलेल्या घरात ती चौघे एकमेकांना बिलगून राहत असल्याचे चित्र डोळ्यांसमोर आणा. सर्वांत थोरले निवृत्ती बाकीच्यांची काळजी घेत. ज्ञानेश्वरांना शिकण्याची भूक होती, आणि त्यांच्या धाकट्या भावंडांनाही. नेहमीच्या दारांतून परत पाठवले गेल्यामुळे ते एकमेकांवर आणि कोणीही हिरावून घेऊ शकत नाही अशा एकाच गोष्टीवर, म्हणजे समजून घेण्याच्या आनंदावर, टेकले असावेत असे दिसते. परंपरा सांगते की त्याच लहान, बाहेर ठेवलेल्या घरातून ते काव्य निघाले, जे महाराष्ट्र आजही गातो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The guru and his line",
+    "hi": {
+     "text": "गुरु और उनकी परंपरा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू आणि त्यांची परंपरा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In almost every adhyaya, and again at the very end, Dnyaneshwar names his guru, who was also his elder brother, Nivruttinath. Near the close of the book (18.1752-1759) he traces how the teaching came down: from Shiva to Matsyendra, to Gorakh, to Gahininath, and then to Nivrutti. Treat this lineage as Nath tradition. It is how the author himself understood where his words came from.\n\nHe says the command to write was Nivruttinath's, because the age was full of suffering (18.1758-1761). He says the guru's word made him like a cloud ready to rain. In 18.1729 and 18.1751 he adds that the guru works inside him, and that the book is the guru's grace and not his own cleverness. A poet who gives away the credit so openly is worth believing: he is not building a name, only passing on a gift.",
+    "hi": {
+     "text": "लगभग हर अध्याय में, और अंत में फिर से, ज्ञानेश्वर अपने गुरु का नाम लेते हैं, जो उनके बड़े भाई भी थे, निवृत्तिनाथ। ग्रंथ के अंत के पास (18.1752-1759) वे बताते हैं कि यह शिक्षा कैसे चली आई: शिव से मत्स्येंद्र, फिर गोरख, गहिनीनाथ, और फिर निवृत्ति तक। इस वंश-परंपरा को नाथ परंपरा का कथन मानिए। लेखक स्वयं अपने शब्दों का स्रोत इसी तरह समझता था।\n\nवे कहते हैं कि लिखने की आज्ञा निवृत्तिनाथ की थी, क्योंकि युग दुखों से भरा था (18.1758-1761)। वे कहते हैं कि गुरु के वचन ने उन्हें बरसने को तैयार बादल जैसा बना दिया। 18.1729 और 18.1751 में वे जोड़ते हैं कि गुरु ही उनके भीतर कार्य करते हैं, और यह ग्रंथ गुरु की कृपा है, उनकी अपनी चतुराई नहीं। जो कवि श्रेय इतने खुले मन से दे देता है, उस पर विश्वास किया जा सकता है: वह अपना नाम नहीं बना रहा, केवल एक उपहार आगे बढ़ा रहा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जवळजवळ प्रत्येक अध्यायात, आणि अगदी शेवटी पुन्हा, ज्ञानेश्वर आपल्या गुरूंचे नाव घेतात, जे त्यांचे थोरले बंधूही होते, निवृत्तिनाथ. ग्रंथाच्या शेवटाजवळ (18.1752-1759) ते ही शिकवण कशी खाली आली ते सांगतात: शिवापासून मत्स्येंद्र, गोरख, गहिनीनाथ, आणि मग निवृत्ती. ही परंपरा नाथ परंपरेचे कथन म्हणून समजा. आपल्या शब्दांचा उगम लेखकाने स्वतः असा समजला होता.\n\nते म्हणतात, लिहिण्याची आज्ञा निवृत्तिनाथांची होती, कारण युग दुःखाने भरलेले होते (18.1758-1761). गुरूंच्या शब्दाने आपण बरसायला तयार असलेल्या मेघासारखे झालो, असे ते सांगतात. 18.1729 आणि 18.1751 मध्ये ते पुढे म्हणतात की गुरूच त्यांच्या आत कार्य करतात, आणि हा ग्रंथ गुरूंची कृपा आहे, त्यांची स्वतःची चतुराई नव्हे. श्रेय इतके उघडपणे देऊन टाकणाऱ्या कवीवर विश्वास ठेवावा: तो स्वतःचे नाव घडवत नाही, फक्त एक देणगी पुढे देतो आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Why Marathi, and why so humble",
+    "hi": {
+     "text": "मराठी क्यों, और इतनी विनम्रता क्यों",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मराठीच का, आणि इतकी नम्रता का",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Dnyaneshwar chose the people's own language, and he is cheerful about it. In 6.14 he says his Marathi would win a bet even against nectar. Yet he is full of small images about his own smallness. In 1.68 he is the tittibha bird trying to measure the sea with its beak. In 1.59 he is a bee that carries off pollen and never knows the lotus petals. In 1.76 the saints' grace is a bright lamp given to a fool, and in 1.77 it is the touchstone that turns iron into gold. In 18.1765 he says he can neither read nor chant, so what right has he to this book?\n\nTradition adds stories, and they should be labelled as tradition: the buffalo of Paithan said to have recited the Vedas when the children were tested, and the wall that walked. They are loved because they show how the people felt about a boy who spoke their own tongue.",
+    "hi": {
+     "text": "ज्ञानेश्वर ने जन-सामान्य की अपनी भाषा चुनी, और इस पर वे प्रसन्न भी हैं। 6.14 में वे कहते हैं कि उनकी मराठी अमृत से भी होड़ में बाज़ी जीत ले। फिर भी वे अपनी लघुता के छोटे-छोटे चित्रों से भरे हैं। 1.68 में वे टिट्टिभ पक्षी हैं जो चोंच से सागर को नापने चला है। 1.59 में वे भ्रमर हैं जो पराग ले जाता है और कमल की पंखुड़ियों को कभी जानता नहीं। 1.76 में संतों की कृपा मूर्ख को दिया गया उजला दीपक है, और 1.77 में वह पारस है जो लोहे को सोना बना देता है। 18.1765 में वे कहते हैं कि उन्हें न पढ़ना आता है, न पाठ करना, तो इस ग्रंथ पर उनका क्या अधिकार?\n\nपरंपरा कुछ कथाएँ भी जोड़ती है, और उन्हें परंपरा ही कहना चाहिए: पैठण का वह भैंसा जिसने, कहते हैं, बच्चों की परीक्षा के समय वेद पढ़े, और वह दीवार जो चल पड़ी। वे इसलिए प्रिय हैं क्योंकि वे दिखाते हैं कि लोग अपनी ही भाषा बोलने वाले उस बालक के बारे में कैसा अनुभव करते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानेश्वरांनी लोकांची स्वतःची भाषा निवडली, आणि त्याबद्दल ते आनंदी आहेत. 6.14 मध्ये ते म्हणतात की त्यांची मराठी अमृताशीही पैज जिंकेल. तरीही ते आपल्या लहानपणाच्या छोट्या उपमांनी भरलेले आहेत. 1.68 मध्ये ते टिटवी पक्षी आहेत, जो चोचीने सागर मोजायला निघाला आहे. 1.59 मध्ये ते भ्रमर आहेत, जो पराग घेऊन जातो आणि कमळाच्या पाकळ्या कधी ओळखत नाही. 1.76 मध्ये संतांची कृपा मूर्खाला दिलेला उजळ दिवा आहे, आणि 1.77 मध्ये ती लोखंडाचे सोने करणारा परीस आहे. 18.1765 मध्ये ते म्हणतात, मला वाचता येत नाही, म्हणता येत नाही, मग या ग्रंथावर माझा काय अधिकार?\n\nपरंपरा काही कथाही जोडते, आणि त्यांना परंपरा म्हणूनच म्हटले पाहिजे: पैठणचा रेडा, ज्याने मुलांची परीक्षा घेतली तेव्हा वेद म्हटले असे सांगतात, आणि चालणारी भिंत. त्या प्रिय आहेत कारण आपलीच भाषा बोलणाऱ्या त्या मुलाबद्दल लोकांना कसे वाटत होते ते त्या दाखवतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Nevasa on the Godavari",
+    "hi": {
+     "text": "गोदावरी किनारे नेवासे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गोदावरीकाठचे नेवासे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Dnyaneshwar gives the place himself, in 18.1803-1806. He names Maharashtra, the bank of the Godavari, and the holy site of Mahalaya, which tradition reads as Nevasa in Ahmednagar district. He names the age of Ramachandra of the Yadava dynasty. He calls himself 'Nivruttinath's son', a word for a disciple, and says he is making the Gita into a jewel for the people's own language.\n\nTradition adds that he leaned against a pillar of the temple at Nevasa while he spoke, and the pillar is still honoured today. You can picture the scene: a village temple, people sitting on the floor, the smell of lamp oil, and a teenage boy speaking ovi after ovi in plain Marathi, so that farmers and women, not only scholars, could follow every word. It is a modest setting for a book that would travel across centuries, and that is exactly the point the poet seems to enjoy.",
+    "hi": {
+     "text": "ज्ञानेश्वर स्थान स्वयं बताते हैं, 18.1803-1806 में। वे महाराष्ट्र, गोदावरी के तट और महालय नामक पवित्र स्थल का नाम लेते हैं, जिसे परंपरा अहमदनगर जिले का नेवासे मानती है। वे यादव वंश के रामचंद्र के समय का उल्लेख करते हैं। वे स्वयं को 'निवृत्तिनाथ का पुत्र' कहते हैं, जो शिष्य के लिए प्रयुक्त शब्द है, और कहते हैं कि वे गीता को जन-भाषा के लिए रत्न बना रहे हैं।\n\nपरंपरा जोड़ती है कि बोलते समय वे नेवासे के मंदिर के एक खंभे से टिके थे, और वह खंभा आज भी पूजनीय है। दृश्य आँखों के सामने आ जाता है: गाँव का मंदिर, ज़मीन पर बैठे लोग, दीये के तेल की गंध, और एक किशोर बालक जो सादी मराठी में ओवी पर ओवी बोलता जा रहा है, ताकि किसान और स्त्रियाँ भी, केवल पंडित नहीं, हर शब्द समझ सकें। यह उस ग्रंथ के लिए साधारण-सा परिवेश है जो सदियों तक यात्रा करने वाला था, और कवि को जैसे यही बात आनंद देती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानेश्वर ठिकाण स्वतः सांगतात, 18.1803-1806 मध्ये. ते महाराष्ट्र, गोदावरीचा तीर आणि महालय नावाचे पवित्र स्थान यांचा उल्लेख करतात, ज्याला परंपरा अहमदनगर जिल्ह्यातील नेवासे मानते. ते यादव वंशातील रामचंद्रांच्या काळाचा उल्लेख करतात. ते स्वतःला 'निवृत्तिनाथांचा पुत्र' म्हणवतात, जो शिष्यासाठी वापरला जाणारा शब्द आहे, आणि सांगतात की ते गीतेला लोकांच्या स्वतःच्या भाषेसाठी रत्न बनवत आहेत.\n\nपरंपरा जोडते की बोलताना ते नेवाशाच्या देवळातील एका खांबाला टेकले होते, आणि तो खांब आजही पूजनीय मानला जातो. दृश्य डोळ्यांसमोर येते: गावातले देऊळ, जमिनीवर बसलेले लोक, दिव्याच्या तेलाचा वास, आणि एक किशोर मुलगा साध्या मराठीत ओवीमागून ओवी बोलत आहे, जेणेकरून पंडितांनाच नव्हे तर शेतकऱ्यांना आणि स्त्रियांनाही प्रत्येक शब्द समजावा. शतकानुशतके प्रवास करणाऱ्या ग्रंथासाठी ही साधी जागा आहे, आणि कवीला नेमके हेच आवडत असावे असे वाटते.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Sachchidananda Baba and the finished book",
+    "hi": {
+     "text": "सच्चिदानंद बाबा और पूर्ण ग्रंथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सच्चिदानंद बाबा आणि पूर्ण झालेला ग्रंथ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The last ovi of the book, 18.1811, gives the date and the scribe. It says that in Shaka 1212, which is 1290 CE, Dnyaneshwar made this commentary, and that Sachchidananda Baba, with respect, became the writer. By tradition he was a local devotee who sat and wrote down each ovi as it was spoken. So the book was spoken before it was written.\n\nIts own name is Bhavartha Deepika, the lamp that shows the meaning of the Gita, but everyone simply says Dnyaneshwari. It has about nine thousand ovis in eighteen chapters, and each one is a small gift from a young man to ordinary people. The commentary has been copied, sung and carried for more than seven centuries. It began as speech in a village temple and a scribe's patient pen. Seven centuries later, the same ovis are still read aloud in homes and temples across Maharashtra, as fresh as when the scribe first dipped his pen.",
+    "hi": {
+     "text": "ग्रंथ की अंतिम ओवी, 18.1811, तिथि और लेखक बताती है। उसमें लिखा है कि शक 1212 में, यानी सन 1290 ई. में, ज्ञानेश्वर ने यह टीका रची, और सच्चिदानंद बाबा आदरपूर्वक लेखक बने। परंपरा के अनुसार वे स्थानीय भक्त थे जो बैठकर हर ओवी को बोले जाते ही लिख लेते थे। इसलिए ग्रंथ पहले बोला गया, फिर लिखा गया।\n\nइसका अपना नाम भावार्थदीपिका है, यानी वह दीपक जो गीता का अर्थ दिखाता है, पर सब इसे सीधे ज्ञानेश्वरी कहते हैं। इसमें अठारह अध्यायों में लगभग नौ हज़ार ओवियाँ हैं, और हर एक एक युवक की ओर से साधारण लोगों को दिया गया छोटा-सा उपहार है। यह टीका सात सौ वर्षों से अधिक समय से नकल की जा रही है, गाई जा रही है और साथ ढोई जा रही है। इसकी शुरुआत गाँव के मंदिर में बोले गए शब्दों और लेखक की धैर्यपूर्ण कलम से हुई। सात सदियों बाद आज भी वही ओवियाँ महाराष्ट्र के घरों और मंदिरों में उसी ताज़गी से ज़ोर से पढ़ी जाती हैं जैसी तब थीं जब लेखक ने पहली बार कलम डुबोई थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ग्रंथाची शेवटची ओवी, 18.1811, तारीख आणि लेखक सांगते. त्यात म्हटले आहे की शके 1212 मध्ये, म्हणजे इ.स. 1290 मध्ये, ज्ञानेश्वरांनी ही टीका केली, आणि सच्चिदानंद बाबा आदराने लेखक झाले. परंपरेनुसार ते स्थानिक भक्त होते, जे प्रत्येक ओवी बोलली जाताच बसून लिहून घेत. म्हणजे ग्रंथ आधी बोलला गेला, मग लिहिला गेला.\n\nत्याचे स्वतःचे नाव भावार्थदीपिका आहे, म्हणजे गीतेचा अर्थ दाखवणारा दिवा, पण सगळे त्याला सरळ ज्ञानेश्वरी म्हणतात. अठरा अध्यायांत सुमारे नऊ हजार ओव्या आहेत, आणि प्रत्येक ओवी एका तरुणाने सामान्य लोकांना दिलेली छोटीशी भेट आहे. ही टीका सातशे वर्षांहून अधिक काळ उतरवली गेली आहे, गायली गेली आहे आणि वाहून नेली गेली आहे. तिची सुरुवात गावच्या देवळातल्या बोलण्यातून आणि लेखकाच्या धीराच्या लेखणीतून झाली. सात शतकांनंतरही त्याच ओव्या महाराष्ट्रातील घरांत आणि देवळांत मोठ्याने वाचल्या जातात, लेखकाने पहिल्यांदा लेखणी बुडवली तेव्हा होत्या तितक्याच ताज्या.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "शके बाराशतें बारोत्तरें । तैं टीका केली ज्ञानेश्वरें । \nसच्चिदानंदबाबा आदरें । लेखकु जाहला",
+  "lang": "mr",
+  "cite": {
+   "en": "Dnyaneshwari 18.1811",
+   "hi": {
+    "text": "ज्ञानेश्वरी 18.1811",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी १८.१८११",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "In Shaka 1212 (1290 CE) Dnyaneshwar made this commentary, and Sachchidananda Baba, with respect, became the writer.",
+   "hi": {
+    "text": "शक 1212 (सन 1290 ई.) में ज्ञानेश्वर ने यह टीका रची, और सच्चिदानंद बाबा आदरपूर्वक लेखक बने।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "शके 1212 (इ.स. 1290) मध्ये ज्ञानेश्वरांनी ही टीका केली, आणि सच्चिदानंद बाबा आदराने लेखक झाले.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who has been a quiet scribe in your life, someone who kept what you said or made? Thank them today.",
+  "hi": {
+   "text": "आपके जीवन में कौन चुपचाप लेखक रहा है, जिसने आपकी कही या रची बात को सँजोकर रखा? आज उन्हें धन्यवाद दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या आयुष्यात कोण शांत लेखक होते, ज्याने तुम्ही सांगितलेले किंवा घडवलेले जपून ठेवले? आज त्यांचे आभार माना.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A great teaching is carried by many hands: the guru who commands, the poet who speaks and the scribe who keeps.",
+  "hi": {
+   "text": "महान शिक्षा को कई हाथ आगे ले जाते हैं: आज्ञा देने वाला गुरु, बोलने वाला कवि और सँजोकर रखने वाला लेखक।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान शिकवण अनेक हातांनी वाहून नेली जाते: आज्ञा देणारे गुरू, बोलणारा कवी आणि जपून ठेवणारा लेखक.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika) by Sant Dnyaneshwar, adhyaya 18 (closing ovis) and Varkari tradition; retold in our own words",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 18 (समापन ओवियाँ) और वारकरी परंपरा; हमारे अपने शब्दों में पुनर्कथन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय १८ (समारोपाच्या ओव्या) आणि वारकरी परंपरा; आमच्या स्वतःच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

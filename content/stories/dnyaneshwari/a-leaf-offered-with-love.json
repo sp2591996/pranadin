@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "a-leaf-offered-with-love",
+ "order": 10,
+ "part": "bhakti",
+ "figure": {
+  "en": "Dnyaneshwar",
+  "hi": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "A Leaf Offered with Love",
+  "hi": {
+   "text": "प्रेम से अर्पित एक पत्ता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रेमाने अर्पण केलेले एक पान",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The royal secret: all beings rest in the Lord as air rests in the sky, and a humble leaf given with love is received like nectar.",
+  "hi": {
+   "text": "राजगुह्य रहस्य: सभी प्राणी प्रभु में वैसे ही टिके हैं जैसे आकाश में वायु, और प्रेम से दिया गया एक विनम्र पत्ता अमृत की तरह स्वीकार होता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजगुह्य रहस्य: आकाशात वारा विसावतो तसे सर्व प्राणी परमेश्वरात विसावले आहेत, आणि प्रेमाने दिलेले एक नम्र पान अमृतासारखे स्वीकारले जाते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/ch-sudama-welcome.webp",
+   "w": 1200,
+   "h": 710,
+   "caption": {
+    "en": "Krishna welcomes Sudama (painting)",
+    "hi": {
+     "text": "सुदामा का स्वागत करते कृष्ण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुदाम्याचे स्वागत करणारे कृष्ण",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_welcoming_Sudama,_from_a_Bhagavata_Purna_-_Google_Art_Project.jpg"
+  },
+  {
+   "src": "/stories/dnyaneshwari/ch-sudama-palace.webp",
+   "w": 702,
+   "h": 474,
+   "caption": {
+    "en": "Sudama finds a golden palace on his return",
+    "hi": {
+     "text": "लौटने पर सुदामा को सोने का महल मिलता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परतल्यावर सुदाम्याला सोन्याचा महाल दिसतो",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sudama_returns_home_to_find_in_place_of_it,_a_golden_palace,_the_gift_of_Krishna,_ca_1775-1790_painting.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A child at the father's plate",
+    "hi": {
+     "text": "पिता की थाली पर एक बच्चा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बापाच्या ताटातले लेकरू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Dnyaneshwar opens the ninth adhyaya with a small family scene. A little child climbs onto his father's plate and feeds his father with his own tiny hand, and the father is delighted (9.15-16). The child is not giving anything the father did not already own. But it is love that makes the gift sweet.\n\nThat is how the poet sees his own work. He is feeding the Lord's own word back to his listeners, and hopes that it pleases like the child's morsel. This chapter is called the royal knowledge, the royal secret. It is a king's treasure, yet it is offered in the lap of a child. Notice the tone: there is no fear in it, no distance, only a warm cheerfulness. It sets the mood for a chapter that will tell us how small and ordinary things can reach the greatest one.",
+    "hi": {
+     "text": "ज्ञानेश्वर नौवें अध्याय का आरंभ एक छोटे-से घरेलू दृश्य से करते हैं। एक नन्हा बच्चा अपने पिता की थाली पर चढ़ जाता है और अपने छोटे हाथ से पिता को खिलाता है, और पिता खुश हो जाते हैं (9.15-16)। बच्चा ऐसी कोई चीज़ नहीं दे रहा जो पिता के पास पहले से न हो। पर प्रेम ही उस भेंट को मीठा बना देता है।\n\nकवि अपनी रचना को इसी नज़र से देखते हैं। वे प्रभु का ही वचन श्रोताओं को लौटाकर खिला रहे हैं, और आशा करते हैं कि यह बच्चे के कौर की तरह प्रिय लगे। इस अध्याय को राजविद्या, राजगुह्य कहा गया है। यह राजा का खज़ाना है, फिर भी एक बच्चे की गोद में रखकर दिया गया है। इसका स्वर देखिए: इसमें न भय है, न दूरी, केवल अपनापन और हँसी-खुशी है। यही भाव उस अध्याय की भूमिका बनता है जो बताएगा कि छोटी और साधारण चीज़ें भी सबसे बड़े तक पहुँच सकती हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानेश्वर नवव्या अध्यायाची सुरुवात एका छोट्या घरगुती दृश्याने करतात. एक चिमुकले मूल बापाच्या ताटावर चढते आणि आपल्या इवल्या हाताने बापाला भरवते, आणि बाप आनंदित होतो (9.15-16). मूल असे काहीच देत नाही जे बापाकडे आधी नव्हते. पण प्रेमामुळेच ते देणे गोड होते.\n\nकवी आपल्या कामाकडे असेच पाहतात. ते देवाचेच बोल श्रोत्यांना परत भरवत आहेत, आणि मुलाच्या घासाप्रमाणे ते आवडेल अशी आशा करतात. या अध्यायाला राजविद्या, राजगुह्य म्हटले आहे. हा राजाचा खजिना आहे, तरीही तो लेकराच्या मांडीवर ठेवून दिला आहे. त्याचा सूर पाहा: त्यात भीती नाही, अंतर नाही, फक्त मायेची प्रसन्नता आहे. हाच सूर या अध्यायाची भूमिका ठरवतो, ज्यात लहान आणि साध्या गोष्टी सर्वोच्चापर्यंत कशा पोहोचतात ते सांगितले जाणार आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Air in the sky",
+    "hi": {
+     "text": "आकाश में वायु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आकाशातला वारा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "All beings rest in him, says Krishna, as the wind rests in the sky (9.89). The sky is not moved though the wind moves in it. Beings come and go through the Lord without disturbing him. Gold shows as many ornaments, yet it is always gold (9.77).\n\nAt the great dissolution, beings fold back as clouds clear away and the wind goes still, or as a dream ends on waking (9.101-104). Dnyaneshwar says all this without alarm. It is a way of showing how little the Lord is bound by what he holds. Creation is a play within his wide quiet. For anyone who has felt crowded by the noise of the world, the picture of the open sky where all the weather happens is a great comfort, and a hint that we also have such a sky within.",
+    "hi": {
+     "text": "श्रीकृष्ण कहते हैं कि सब प्राणी मुझमें वैसे ही टिके हैं जैसे वायु आकाश में टिकी है (9.89)। वायु चलती है, फिर भी आकाश हिलता नहीं। प्राणी प्रभु के भीतर आते-जाते रहते हैं, पर प्रभु अविचल रहते हैं। सोना अनेक गहनों के रूप में दिखता है, फिर भी वह सदा सोना ही रहता है (9.77)।\n\nमहाप्रलय में प्राणी वैसे ही लौट जाते हैं जैसे बादल छँट जाते हैं और हवा थम जाती है, या जैसे जागने पर सपना टूट जाता है (9.101-104)। ज्ञानेश्वर यह सब बिना घबराहट के कहते हैं। इससे वे दिखाते हैं कि प्रभु अपने भीतर समाई चीज़ों से कितने कम बँधे हैं। सृष्टि उनके विशाल मौन के भीतर एक लीला है। जिसने कभी संसार के शोर से घुटन महसूस की हो, उसके लिए उस खुले आकाश की तस्वीर बड़ा सहारा है जिसमें सारे मौसम घटते हैं, और एक संकेत भी कि ऐसा आकाश हमारे भीतर भी है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण म्हणतात, वारा आकाशात विसावतो तसे सर्व प्राणी माझ्यात विसावले आहेत (9.89). वारा आकाशात फिरतो, तरी आकाश हलत नाही. प्राणी देवाच्या ठायी येतात-जातात, पण त्याला काही क्षोभ होत नाही. सोने अनेक अलंकारांच्या रूपात दिसते, तरी ते सदैव सोनेच असते (9.77).\n\nमहाप्रलयात ढग विरतात आणि वारा शांत होतो, किंवा जाग आल्यावर स्वप्न संपते, तसे प्राणी परत लीन होतात (9.101-104). ज्ञानेश्वर हे सर्व न घाबरता सांगतात. आपल्या पोटात असलेल्या गोष्टींनी देव किती कमी बांधला जातो, हे ते यातून दाखवतात. सृष्टी हा त्याच्या विशाल शांततेतला एक खेळ आहे. जगाच्या गोंगाटाने ज्याला कधी कोंडल्यासारखे वाटले असेल, त्याला सर्व ऋतू घडणाऱ्या त्या मोकळ्या आकाशाचे चित्र मोठा आधार देते, आणि आपल्या आत असेच आकाश आहे याची ती खूणही आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Lord carries them",
+    "hi": {
+     "text": "प्रभु स्वयं उनका भार उठाते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देव त्यांचा भार वाहतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "For those who think of him alone, says Krishna, he carries their needs: their yoga-kshema, the gaining and keeping of what they lack (9.343). It is the promise of a parent who stays awake while the child sleeps. 'Whoever takes refuge in me, I remove their birth and death' (9.288).\n\nHe speaks too of those who worship other forms with faith. They are really worshipping him, Krishna says, but by a roundabout road. There is no scorn in it. A traveller who walks a longer path still reaches the village, though he spends more days on the road. Dnyaneshwar's heart is wide here. His point is that the shortest road is a simple one: turn toward the Lord directly, with your own voice, and rest your weight on him as you would on a trusted friend.",
+    "hi": {
+     "text": "श्रीकृष्ण कहते हैं कि जो केवल मेरा चिंतन करते हैं, उनका योग-क्षेम मैं वहन करता हूँ, यानी जो उनके पास नहीं है उसे दिलाना और जो है उसे बचाए रखना (9.343)। यह उस माता-पिता का वचन है जो बच्चे के सोने पर भी जागते रहते हैं। 'जो मेरी शरण लेता है, उसके जन्म-मृत्यु के बंधन मैं काट देता हूँ' (9.288)।\n\nवे उनकी भी बात करते हैं जो श्रद्धा से अन्य रूपों की पूजा करते हैं। श्रीकृष्ण कहते हैं कि वे भी वास्तव में मेरी ही पूजा करते हैं, पर घुमावदार रास्ते से। इसमें कोई तिरस्कार नहीं है। जो यात्री लंबा रास्ता चलता है वह भी गाँव पहुँचता ही है, बस उसे सड़क पर अधिक दिन लगते हैं। ज्ञानेश्वर का हृदय यहाँ बहुत विशाल है। उनकी बात यह है कि सबसे छोटा रास्ता सीधा-सादा है: सीधे प्रभु की ओर मुड़ो, अपनी ही वाणी से पुकारो, और अपना सारा बोझ उन पर वैसे ही छोड़ दो जैसे किसी भरोसेमंद मित्र पर छोड़ते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण म्हणतात, जे फक्त माझे चिंतन करतात, त्यांचा योगक्षेम मी वाहतो, म्हणजे जे त्यांच्याकडे नाही ते मिळवून देणे आणि जे आहे ते राखणे (9.343). मूल झोपी गेल्यावरही जागे राहणाऱ्या आई-वडिलांचे हे वचन आहे. 'जो मला शरण येतो, त्याचे जन्म-मरण मी दूर करतो' (9.288).\n\nजे श्रद्धेने इतर रूपांची उपासना करतात त्यांच्याविषयीही तो बोलतो. श्रीकृष्ण म्हणतात, तेही खरे तर माझीच उपासना करतात, पण वळसा घालून. यात कुठेही तुच्छता नाही. लांबच्या वाटेने चालणारा प्रवासीही गावात पोहोचतोच, फक्त त्याला वाटेवर जास्त दिवस लागतात. येथे ज्ञानेश्वरांचे हृदय विशाल आहे. त्यांचे म्हणणे असे की सर्वांत जवळची वाट साधी आहे: थेट देवाकडे वळा, आपल्या स्वतःच्या वाणीने हाक मारा, आणि विश्वासू मित्रावर टाकतो तसा आपला भार त्याच्यावर टाका.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The leaf, the flower, the fruit, the water",
+    "hi": {
+     "text": "पत्ता, फूल, फल और जल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पान, फूल, फळ आणि पाणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then comes the most loved verse of the chapter. 'Whoever offers me a leaf, a flower, a fruit or water with devotion, I accept it.' Dnyaneshwar adds a beautiful thought: the leaf and the flower are only an excuse for love (9.396). It is the love the Lord is after, and the little gift is the vessel that carries it.\n\nA leaf offered with the whole heart is received as a hungry man receives nectar (9.386). Think what that means. Nobody needs to be rich to worship. Nobody needs a grand temple or a priest's learning. A woman picking a tulsi leaf at dawn, a child with a handful of water, a farmer with a first fruit: each of them has all that is needed. The Lord looks at the heart behind the hand, and finds it good.",
+    "hi": {
+     "text": "फिर आता है इस अध्याय का सबसे प्रिय श्लोक। 'जो भक्ति से मुझे पत्ता, फूल, फल या जल अर्पित करता है, उसे मैं स्वीकार करता हूँ।' ज्ञानेश्वर एक सुंदर बात जोड़ते हैं: पत्ता और फूल तो केवल प्रेम का बहाना हैं (9.396)। प्रभु को प्रेम चाहिए, और वह छोटी-सी भेंट उसे पहुँचाने वाला पात्र है।\n\nपूरे हृदय से अर्पित पत्ते को प्रभु वैसे ही स्वीकार करते हैं जैसे भूखा मनुष्य अमृत को स्वीकारता है (9.386)। सोचिए इसका अर्थ क्या है। पूजा के लिए किसी को धनी होना ज़रूरी नहीं। न भव्य मंदिर चाहिए, न पुरोहित जैसा पांडित्य। भोर में तुलसी का पत्ता तोड़ती स्त्री, अंजुलि भर जल लिए बच्चा, पहला फल अर्पित करता किसान: इनमें से हर किसी के पास वह सब है जो चाहिए। प्रभु हाथ के पीछे के हृदय को देखते हैं, और उसे अच्छा पाते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग येतो अध्यायातला सर्वांत आवडता श्लोक. 'जो मला भक्तीने पान, फूल, फळ किंवा पाणी अर्पण करतो, ते मी स्वीकारतो.' ज्ञानेश्वर एक सुंदर विचार जोडतात: पान आणि फूल हे केवळ प्रेमाचे निमित्त आहे (9.396). देवाला प्रेम हवे असते, आणि ती लहानशी भेट ते प्रेम वाहून नेणारे पात्र असते.\n\nपूर्ण हृदयाने अर्पण केलेले पान, भुकेला माणूस अमृत स्वीकारतो तसे देव स्वीकारतो (9.386). याचा अर्थ किती मोठा आहे ते पाहा. पूजा करायला कोणीही श्रीमंत असण्याची गरज नाही. भव्य देऊळ किंवा पुरोहिताचे पांडित्य लागत नाही. पहाटे तुळशीचे पान तोडणारी स्त्री, ओंजळभर पाणी घेतलेले मूल, पहिले फळ अर्पण करणारा शेतकरी: प्रत्येकाकडे जे हवे ते सगळे आहे. देव हाताच्या मागचे हृदय पाहतो, आणि ते त्याला चांगले वाटते.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "No one is too low",
+    "hi": {
+     "text": "कोई भी इतना नीचा नहीं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कोणीही इतका हीन नाही",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Even the worst sinner who turns to him alone, says Krishna, is soon made good. Dnyaneshwar uses the philosopher's stone: iron touching it becomes gold, however rough the touch (9.464). He does not ask how the iron got rusty. He only says what the stone does.\n\nEven the family of such a person is made holy (9.421). And the gate stays open. Women, merchants and the lowly may all reach the highest. For a poet who was himself an outcast in his village, according to tradition, this teaching carries a personal warmth. The Lord does not measure by birth or by record. He measures by turning. One turn of the face toward him is enough to begin, and the road from there is a walk in the light. The poet's gate is wide, and he stands beside it with a lamp, calling the late and the weary to come in.",
+    "hi": {
+     "text": "श्रीकृष्ण कहते हैं कि बड़े-से-बड़ा पापी भी यदि केवल उनकी ओर मुड़ जाए, तो शीघ्र ही सुधर जाता है। ज्ञानेश्वर पारस पत्थर की उपमा देते हैं: लोहा उसे छू भर ले तो सोना हो जाता है, चाहे स्पर्श कितना ही खुरदरा क्यों न हो (9.464)। वे यह नहीं पूछते कि लोहे में जंग कैसे लगी। वे बस यह बताते हैं कि पत्थर क्या करता है।\n\nऐसे व्यक्ति का कुल भी पावन हो जाता है (9.421)। और द्वार खुला रहता है। स्त्रियाँ, व्यापारी और दीन-हीन, सब परम पद तक पहुँच सकते हैं। परंपरा के अनुसार स्वयं अपने गाँव में बहिष्कृत रहे इस कवि के लिए यह शिक्षा निजी आत्मीयता लिए हुए है। प्रभु जन्म या लेखे-जोखे से नहीं नापते। वे मुड़ने को नापते हैं। उनकी ओर एक बार चेहरा मोड़ लेना आरंभ के लिए काफ़ी है, और फिर आगे का मार्ग उजाले में चलना है। कवि का द्वार चौड़ा है, और वे दीपक लेकर उसके पास खड़े हैं, देर से आने वालों और थके हुओं को भीतर बुलाते हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण म्हणतात, मोठ्यात मोठा पापी जरी फक्त माझ्याकडे वळला, तरी तो लवकरच सुधारतो. ज्ञानेश्वर परीसाचा दृष्टांत देतात: लोखंडाने त्याला कसाही स्पर्श केला, तरी ते सोने होते (9.464). लोखंडाला गंज कसा चढला हे ते विचारत नाहीत. परीस काय करतो एवढेच सांगतात.\n\nअशा माणसाचे कुळही पवित्र होते (9.421). आणि दार उघडेच राहते. स्त्रिया, व्यापारी आणि दीनदुबळे, सगळेच सर्वोच्च पदाला पोहोचू शकतात. परंपरेनुसार स्वतः गावात बहिष्कृत असलेल्या या कवीच्या बाबतीत ही शिकवण जिव्हाळ्याची ठरते. देव जन्माने किंवा नोंदींनी मोजत नाही. तो वळण्याने मोजतो. त्याच्याकडे एकदा तोंड फिरवणे सुरुवातीला पुरेसे आहे, आणि पुढचा रस्ता म्हणजे प्रकाशात चालणे. कवीचे दार रुंद आहे, आणि हातात दिवा घेऊन ते त्याच्याजवळ उभे आहेत, उशिरा आलेल्यांना आणि थकलेल्यांना आत बोलावत.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "परि सर्वभावें भरलें देखें । आणि भुकेला अमृतें तोखे ।\nतैसें पत्रचि परि तेणें सुखें  । आरोगूं लागें",
+  "lang": "mr",
+  "cite": {
+   "en": "Dnyaneshwari 9.386",
+   "hi": {
+    "text": "ज्ञानेश्वरी 9.386",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी ९.३८६",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Offered with all the heart, even a leaf is received like nectar by a hungry man, and he eats it with joy.",
+   "hi": {
+    "text": "पूरे भाव से अर्पित किया जाए तो एक पत्ता भी भूखे मनुष्य को अमृत की तरह लगता है, और वह उसे आनंद से खाता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सर्व भावाने अर्पण केले, तर एक पानही भुकेल्या माणसाला अमृतासारखे वाटते, आणि तो ते आनंदाने खातो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What small thing could you offer with a whole heart today?",
+  "hi": {
+   "text": "आज आप कौन-सी छोटी-सी चीज़ पूरे हृदय से अर्पित कर सकते हैं?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आज कोणती छोटीशी गोष्ट तुम्ही पूर्ण मनाने अर्पण करू शकता?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The Lord looks for the love in the offering, not its size.",
+  "hi": {
+   "text": "प्रभु भेंट का आकार नहीं, उसमें बसा प्रेम देखते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "देव अर्पणाचा आकार पाहत नाही, त्यातले प्रेम पाहतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika) by Sant Dnyaneshwar, adhyaya 9; retold in our own words",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 9; हमारे अपने शब्दों में पुनर्कथन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय ९; आमच्या स्वतःच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-chariot-between-the-armies",
+ "order": 2,
+ "part": "karma",
+ "figure": {
+  "en": "Dnyaneshwar",
+  "hi": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संत ज्ञानेश्वर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Warrior Who Put Down His Bow",
+  "hi": {
+   "text": "वह योद्धा जिसने धनुष रख दिया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धनुष्य खाली ठेवणारा योद्धा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Dnyaneshwar opens the Gita with Ganesha as the Word itself, then shows Arjuna's heart melting like moonstone between two armies.",
+  "hi": {
+   "text": "ज्ञानेश्वर गीता का आरंभ वाणी-रूप गणेश की वंदना से करते हैं, फिर दो सेनाओं के बीच अर्जुन के हृदय को चंद्रकांत मणि की तरह पिघलते दिखाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वर गीतेची सुरुवात शब्दरूप गणेशाच्या वंदनेने करतात, मग दोन सेनांमध्ये अर्जुनाचे हृदय चंद्रकांत मण्यासारखे द्रवताना दाखवतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/dnyaneshwari/ch-chariot-krishna-arjuna.webp",
+   "w": 773,
+   "h": 1100,
+   "caption": {
+    "en": "Krishna and Arjuna on their chariot (painting)",
+    "hi": {
+     "text": "रथ पर कृष्ण और अर्जुन (चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रथावरील कृष्ण आणि अर्जुन (चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "V Karnathia, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_and_Arjuna_on_Chariot_Painting.jpg"
+  },
+  {
+   "src": "/stories/dnyaneshwari/ch-chariot-battle.webp",
+   "w": 624,
+   "h": 1100,
+   "caption": {
+    "en": "Arjuna in battle at Kurukshetra (Gita illustration)",
+    "hi": {
+     "text": "कुरुक्षेत्र में अर्जुन का युद्ध (गीता का चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुरुक्षेत्रावरील अर्जुनाचे युद्ध (गीतेचे चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Arjuna_BattlesWith_the_Kauravas_At_Kuruksheta_Bhagavad_Gita.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The Word as a living form",
+    "hi": {
+     "text": "जीवंत रूप में वाणी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जिवंत रूपातील वाणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Dnyaneshwar begins by bowing to Ganesha, and he sees him as the Word itself. The Vedas are his body (1.3). The eighteen Puranas are his jewels (1.5). The six philosophies are his arms, each carrying a weapon, with logic as the axe and Vedanta as the sweet modak (1.10-11).\n\nIn 1.2 he signs himself 'Nivrutti's servant'. Here is a poet who treats a book as a living deity before he has even opened it. For him, language is not a tool lying on a table. It is a presence you greet, with folded hands, the way you greet a guest who has brought you something precious. That attitude shapes everything that follows in the commentary, and it tells the listener how to hear it: slowly, gratefully and with respect. To open a long poem on war with a bow to the Word is itself a statement: before anything is done, it must first be rightly said and rightly heard.",
+    "hi": {
+     "text": "ज्ञानेश्वर गणेश को प्रणाम करके आरंभ करते हैं, और उन्हें स्वयं वाणी के रूप में देखते हैं। वेद उनका शरीर हैं (1.3)। अठारह पुराण उनके आभूषण हैं (1.5)। छह दर्शन उनकी भुजाएँ हैं, हर एक शस्त्र लिए हुए, जिनमें तर्क कुल्हाड़ी है और वेदांत मीठा मोदक (1.10-11)।\n\n1.2 में वे स्वयं को ‘निवृत्ति का सेवक’ कहते हैं। यहाँ एक ऐसा कवि है जो ग्रंथ को खोलने से पहले ही उसे जीवित देवता मानता है। उसके लिए भाषा मेज़ पर पड़ा औज़ार नहीं है। वह एक उपस्थिति है जिसका हाथ जोड़कर स्वागत किया जाता है, वैसे ही जैसे उस अतिथि का, जो आपके लिए कोई अनमोल वस्तु लाया हो। यही दृष्टि टीका में आगे की हर बात को आकार देती है, और श्रोता को बताती है कि इसे कैसे सुनना है: धीरे, कृतज्ञता और आदर के साथ। युद्ध पर लिखे लंबे काव्य को वाणी की वंदना से आरंभ करना अपने-आप में एक वक्तव्य है: कुछ भी करने से पहले उसे ठीक से कहा जाना और ठीक से सुना जाना चाहिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञानेश्वर गणेशाला नमन करून सुरुवात करतात, आणि त्याला स्वतः शब्दब्रह्माच्या रूपात पाहतात. वेद त्याचे शरीर आहेत (1.3). अठरा पुराणे त्याचे रत्नालंकार आहेत (1.5). सहा दर्शने त्याचे बाहू आहेत, प्रत्येकाच्या हाती शस्त्र, ज्यात तर्क कुऱ्हाड आहे आणि वेदांत गोड मोदक (1.10-11).\n\n1.2 मध्ये ते स्वतःला ‘निवृत्तीचा सेवक’ म्हणवतात. ग्रंथ उघडण्यापूर्वीच त्याला जिवंत देवता मानणारा कवी येथे दिसतो. त्याच्यासाठी भाषा टेबलावर पडलेले हत्यार नाही. ती एक उपस्थिती आहे, जिला हात जोडून अभिवादन केले जाते, मौल्यवान काही घेऊन आलेल्या पाहुण्याला करतो तसे. हीच दृष्टी टीकेतल्या पुढील सर्व गोष्टींना आकार देते, आणि श्रोत्याला ती कशी ऐकावी ते सांगते: सावकाश, कृतज्ञतेने आणि आदराने. युद्धावरील दीर्घ काव्याची सुरुवात शब्दाला वंदन करून करणे हेच एक विधान आहे: काहीही करण्यापूर्वी ते आधी नीट सांगितले गेले पाहिजे आणि नीट ऐकले गेले पाहिजे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A poet's humility",
+    "hi": {
+     "text": "कवि की विनम्रता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कवीची नम्रता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Before the story starts, Dnyaneshwar gives a run of small, charming pictures of his own smallness. He is the tittibha bird measuring the sea with its beak (1.68). He is a bee that takes pollen and leaves the lotus petals untouched (1.59). He is the chakora bird, which drinks only moonbeams (1.56).\n\nThe saints' grace, he says, is a bright lamp for a fool (1.76), and a touchstone that changes iron into gold (1.77). The Gita itself is the ocean of the Vedas, retold by the Lord in person (1.72). Notice how generous this is. He makes his listeners feel that the great thing is already waiting, and that he is only the small bird, the bee or the lamp-bearer who points toward it. This is the opposite of a showman's opening. A listener who is told the speaker is small becomes ready to hear something large, and the poet earns trust before he asks for any.",
+    "hi": {
+     "text": "कथा आरंभ होने से पहले ज्ञानेश्वर अपनी लघुता के छोटे-छोटे मनोहर चित्रों की एक लड़ी देते हैं। वे टिट्टिभ पक्षी हैं जो चोंच से सागर को नाप रहा है (1.68)। वे भ्रमर हैं जो पराग ले लेता है और कमल की पंखुड़ियों को छुए बिना छोड़ देता है (1.59)। वे चकोर पक्षी हैं, जो केवल चंद्रकिरणें पीता है (1.56)।\n\nवे कहते हैं कि संतों की कृपा मूर्ख के लिए उजला दीपक है (1.76), और वह पारस है जो लोहे को सोना बना देता है (1.77)। गीता स्वयं वेदों का सागर है, जिसे प्रभु ने साक्षात कहा (1.72)। देखिए यह कितना उदार है। वे श्रोताओं को अनुभव कराते हैं कि महान वस्तु पहले से प्रतीक्षा कर रही है, और वे तो केवल वह छोटा पक्षी, भ्रमर या दीपक-धारक हैं जो उसकी ओर संकेत करता है। यह दिखावा करने वाले की शुरुआत का उलटा है। जिस श्रोता को बताया जाए कि वक्ता छोटा है, वह किसी बड़ी बात को सुनने के लिए तैयार हो जाता है, और कवि कुछ माँगने से पहले ही विश्वास कमा लेता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथा सुरू होण्यापूर्वी ज्ञानेश्वर स्वतःच्या लहानपणाची छोटी, मनोहर चित्रे देतात. ते टिटवी पक्षी आहेत, जो चोचीने सागर मोजतो आहे (1.68). ते भ्रमर आहेत, जो पराग घेतो आणि कमळाच्या पाकळ्यांना हात लावत नाही (1.59). ते चकोर पक्षी आहेत, जो फक्त चांदणे पितो (1.56).\n\nसंतांची कृपा मूर्खासाठी उजळ दिवा आहे (1.76), आणि लोखंडाचे सोने करणारा परीस आहे (1.77), असे ते म्हणतात. गीता स्वतः वेदांचा सागर आहे, जी प्रत्यक्ष परमेश्वराने सांगितली (1.72). हे किती उदार आहे ते पाहा. मोठी गोष्ट आधीच वाट पाहते आहे, आणि आपण फक्त त्या दिशेला बोट दाखवणारे छोटे पक्षी, भ्रमर किंवा दिवा धरणारे आहोत, असे ते श्रोत्यांना वाटू देतात. ही दिखाऊ माणसाच्या सुरुवातीच्या उलट गोष्ट आहे. वक्ता लहान आहे असे सांगितलेला श्रोता मोठे काही ऐकायला सज्ज होतो, आणि कवी काही मागण्याआधीच विश्वास कमावतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Between the two armies",
+    "hi": {
+     "text": "दोनों सेनाओं के बीच",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन सेनांच्या मध्ये",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then the story opens. Sanjaya tells the blind king what he sees on the field. Arjuna asks Krishna to drive the chariot into the space between the two armies, so that he can look at the men he must fight.\n\nHe sees fathers, grandfathers, teachers, uncles, cousins and friends, and with them the old debts of kindness (1.180-184). Dnyaneshwar holds the moment still. The conch shells have sounded, the dust hangs in the air, and a stillness sits on the field before the war. Then faces come into focus, and everything changes. A fight that looked like a plan on a map becomes a field full of people he loves, and the great archer finds that he cannot simply look away. Dnyaneshwar lingers on the moment because he knows that every real decision is made in such a pause, in the quiet before the first arrow, when the heart finally gets to speak.",
+    "hi": {
+     "text": "फिर कथा खुलती है। संजय अंधे राजा को बताता है कि उसे रणभूमि में क्या दिख रहा है। अर्जुन श्रीकृष्ण से कहता है कि रथ को दोनों सेनाओं के बीच की खाली जगह में ले चलो, ताकि वह उन लोगों को देख सके जिनसे उसे लड़ना है।\n\nवह पिताओं, पितामहों, गुरुओं, चाचाओं, भाइयों और मित्रों को देखता है, और उनके साथ दया के पुराने ऋणों को भी (1.180-184)। ज्ञानेश्वर उस क्षण को थामे रखते हैं। शंख बज चुके हैं, धूल हवा में टँगी है, और युद्ध से पहले रणभूमि पर एक निस्तब्धता बैठी है। फिर चेहरे साफ़ दिखने लगते हैं, और सब कुछ बदल जाता है। जो लड़ाई नक्शे पर बनी योजना जैसी दिखती थी, वह अपने प्रियजनों से भरा मैदान बन जाती है, और महान धनुर्धर पाता है कि वह बस नज़र फेर नहीं सकता। ज्ञानेश्वर उस क्षण पर इसलिए ठहरते हैं कि वे जानते हैं हर सच्चा निर्णय ऐसे ही ठहराव में होता है, पहले बाण से पहले की शांति में, जब हृदय को अंततः बोलने का अवसर मिलता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग कथा उघडते. संजय अंध राजाला रणांगणावर काय दिसते आहे ते सांगतो. अर्जुन श्रीकृष्णाला सांगतो की रथ दोन्ही सेनांमधल्या मोकळ्या जागेत घे, म्हणजे ज्यांच्याशी लढायचे त्या माणसांना त्याला पाहता येईल.\n\nतो वडील, आजोबा, गुरू, काका, भाऊ आणि मित्र पाहतो, आणि त्यांच्यासोबत दयेची जुनी ऋणेही (1.180-184). ज्ञानेश्वर तो क्षण स्थिर धरतात. शंख वाजून झाले आहेत, धूळ हवेत लटकली आहे, आणि युद्धापूर्वी रणांगणावर निःस्तब्धता बसली आहे. मग चेहरे स्पष्ट दिसू लागतात, आणि सगळे बदलते. नकाशावरच्या योजनेसारखी वाटणारी लढाई आपल्या प्रिय माणसांनी भरलेले मैदान बनते, आणि महान धनुर्धराला कळते की तो नुसता नजर फिरवू शकत नाही. ज्ञानेश्वर त्या क्षणावर रेंगाळतात कारण त्यांना माहीत आहे की प्रत्येक खरा निर्णय अशाच थांब्यात होतो, पहिल्या बाणापूर्वीच्या शांततेत, जेव्हा हृदयाला शेवटी बोलू दिले जाते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Love that turns to weakness",
+    "hi": {
+     "text": "प्रेम जो दुर्बलता बन जाए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुर्बलता बनलेले प्रेम",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna's heart gives way. His mind, says Dnyaneshwar, 'melts like a moonstone touched by moonbeams' (1.191). His limbs tremble, his mouth dries and the Gandiva bow slips from his hand (1.196-198).\n\nThen comes the great picture of the bee in the lotus. A bee can bore through hard, dry wood, yet it stays caught in the soft bud and will not cut a single petal (1.201-202). So the fierce warrior is held by tenderness. Dnyaneshwar calls this the Lord's Maya (1.203), the gentle net that even heroes cannot cut with a sword. He does not scold Arjuna for it. He lets us see how strong love is, and how a good man can be stopped by what is best in him. It is a very human weakness, and the poet treats it with great respect, because it comes from the same heart that will later learn to love without being bound.",
+    "hi": {
+     "text": "अर्जुन का हृदय टूट जाता है। ज्ञानेश्वर कहते हैं कि उसका मन ‘चंद्रकिरणों के स्पर्श से चंद्रकांत मणि की तरह पिघल गया’ (1.191)। उसके अंग काँपते हैं, मुँह सूख जाता है और गांडीव धनुष हाथ से छूट जाता है (1.196-198)।\n\nफिर कमल में भ्रमर का महान चित्र आता है। भ्रमर कठोर सूखी लकड़ी को भी छेद सकता है, फिर भी वह कोमल कली में फँसा रहता है और एक पंखुड़ी तक नहीं काटता (1.201-202)। इसी तरह उग्र योद्धा कोमलता से बँध जाता है। ज्ञानेश्वर इसे प्रभु की माया कहते हैं (1.203), वह कोमल जाल जिसे वीर भी तलवार से नहीं काट सकते। वे इसके लिए अर्जुन को डाँटते नहीं। वे हमें दिखाते हैं कि प्रेम कितना प्रबल है, और कैसे एक भला मनुष्य अपने भीतर की सबसे अच्छी चीज़ से रुक सकता है। यह बहुत मानवीय दुर्बलता है, और कवि इसे बड़े आदर से देखता है, क्योंकि यह उसी हृदय से आती है जो आगे चलकर बिना बँधे प्रेम करना सीखेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुनाचे हृदय खचते. ज्ञानेश्वर म्हणतात, त्याचे मन ‘चांदण्याच्या स्पर्शाने चंद्रकांत मणी द्रवावा तसे द्रवले’ (1.191). त्याचे अवयव कापतात, तोंड कोरडे पडते आणि गांडीव धनुष्य हातातून निसटते (1.196-198).\n\nमग कमळातल्या भ्रमराचे मोठे चित्र येते. भ्रमर कठीण सुकलेल्या लाकडालाही छिद्र पाडू शकतो, तरी तो कोमल कळीत अडकून राहतो आणि एकही पाकळी कापत नाही (1.201-202). तसाच उग्र योद्धा कोमलतेने बांधला जातो. ज्ञानेश्वर याला परमेश्वराची माया म्हणतात (1.203), ते कोमल जाळे जे वीरही तलवारीने तोडू शकत नाहीत. त्यासाठी ते अर्जुनाला रागवत नाहीत. प्रेम किती बलवान आहे आणि चांगला माणूस आपल्यातल्या सर्वोत्तम गोष्टीमुळे कसा थांबू शकतो, हे ते आपल्याला दाखवतात. ही अतिशय मानवी दुर्बलता आहे, आणि कवी तिच्याकडे मोठ्या आदराने पाहतो, कारण ती त्याच हृदयातून येते जे पुढे बंधनाशिवाय प्रेम करायला शिकणार आहे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The bow falls",
+    "hi": {
+     "text": "धनुष गिर पड़ा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धनुष्य गळून पडले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna argues like a decent man. How can I live by killing my own family (1.207-221)? How will I face you, Krishna (1.227)? The cuckoo leaves a garden when fire enters it (1.230). When the family's dharma fails, it goes out like a lamp (1.247).\n\nAt last he throws down his bow and sits on the chariot like a prince who has lost his throne, or the sun in eclipse (1.270). The first adhyaya ends in that silence, with the hero defeated and the teacher not yet speaking. Dnyaneshwar closes with a promise to tell what Krishna said, signed 'Dnyandev says, Nivrutti's servant' (1.275). The best lessons begin where our certainty ends. Many a reader finds comfort in this: even the greatest archer is allowed to stop, to weep and to say he does not know. The Gita does not begin with certainty. It begins with honesty, and that is where the teaching can enter.",
+    "hi": {
+     "text": "अर्जुन एक भले मनुष्य की तरह तर्क करता है। अपने ही परिवार को मारकर मैं कैसे जिऊँगा (1.207-221)? हे कृष्ण, मैं आपको क्या मुँह दिखाऊँगा (1.227)? बाग़ में आग घुसे तो कोयल उसे छोड़ जाती है (1.230)। जब कुल का धर्म नष्ट होता है, तो वह दीपक की तरह बुझ जाता है (1.247)।\n\nअंत में वह धनुष फेंक देता है और रथ पर बैठ जाता है, उस राजकुमार की तरह जिसने सिंहासन खो दिया हो, या ग्रहण में घिरे सूर्य की तरह (1.270)। पहला अध्याय उसी मौन पर समाप्त होता है, जहाँ नायक पराजित है और गुरु अभी बोले नहीं। ज्ञानेश्वर इस वचन के साथ समापन करते हैं कि वे बताएँगे श्रीकृष्ण ने क्या कहा, और हस्ताक्षर करते हैं ‘ज्ञानदेव कहते हैं, निवृत्ति का सेवक’ (1.275)। सबसे अच्छी शिक्षाएँ वहीं शुरू होती हैं जहाँ हमारा निश्चय समाप्त होता है। बहुत से पाठक इसमें सांत्वना पाते हैं: सबसे महान धनुर्धर को भी रुकने, रोने और यह कहने की छूट है कि मैं नहीं जानता। गीता निश्चय से शुरू नहीं होती। वह ईमानदारी से शुरू होती है, और शिक्षा वहीं से भीतर आ सकती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन एखाद्या सभ्य माणसासारखा युक्तिवाद करतो. स्वतःच्या कुटुंबाला मारून मी कसा जगू (1.207-221)? श्रीकृष्णा, मी तुला काय तोंड दाखवू (1.227)? बागेत आग शिरली की कोकीळ ती सोडून जाते (1.230). कुळाचा धर्म नष्ट होतो तेव्हा तो दिव्यासारखा विझतो (1.247).\n\nशेवटी तो धनुष्य फेकून देतो आणि सिंहासन गमावलेल्या राजपुत्रासारखा, किंवा ग्रहणात सापडलेल्या सूर्यासारखा, रथात बसतो (1.270). पहिला अध्याय त्याच शांततेत संपतो, जिथे नायक पराभूत आहे आणि गुरू अजून बोलले नाहीत. श्रीकृष्ण काय म्हणाले ते सांगण्याच्या वचनाने, आणि ‘ज्ञानदेव म्हणे, निवृत्तीचा दास’ अशी सही करून ज्ञानेश्वर शेवट करतात (1.275). सर्वोत्तम शिकवणी तिथे सुरू होतात जिथे आपला निश्चय संपतो. अनेक वाचकांना यात दिलासा मिळतो: सर्वांत महान धनुर्धरालाही थांबण्याची, रडण्याची आणि मला कळत नाही असे म्हणण्याची मुभा आहे. गीता निश्चयाने सुरू होत नाही. ती प्रामाणिकपणाने सुरू होते, आणि शिकवण तिथूनच आत येऊ शकते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "म्हणऊनि असता धीरु गेला । हृदया द्रावो आला ।\nजैसा चंद्रकळीं सिंपिला । सोमकांतु",
+  "lang": "mr",
+  "cite": {
+   "en": "Dnyaneshwari 1.191",
+   "hi": {
+    "text": "ज्ञानेश्वरी 1.191",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्ञानेश्वरी १.१९१",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "His steadiness was gone and his heart melted, as the moonstone melts under the touch of moonbeams.",
+   "hi": {
+    "text": "उसका धैर्य जाता रहा और हृदय पिघल गया, जैसे चंद्रकिरणों के स्पर्श से चंद्रकांत मणि पिघलती है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "त्याचा धीर गेला आणि हृदय द्रवले, जसा चंद्रकांत मणी चांदण्याच्या स्पर्शाने द्रवतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When did love for someone make a hard thing feel impossible? What did you do then?",
+  "hi": {
+   "text": "कब किसी के प्रति प्रेम ने किसी कठिन काम को असंभव-सा बना दिया? तब आपने क्या किया?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कधी कोणावरील प्रेमामुळे एखादी कठीण गोष्ट अशक्य वाटली? तेव्हा तुम्ही काय केले?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Compassion mixed with confusion can stop us; the Gita begins by honouring that honest breakdown.",
+  "hi": {
+   "text": "भ्रम से मिली करुणा हमें रोक सकती है; गीता उसी ईमानदार टूटन का सम्मान करते हुए शुरू होती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गोंधळात मिसळलेली करुणा आपल्याला थांबवू शकते; गीता त्या प्रामाणिक कोसळण्याचा सन्मान करूनच सुरू होते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Dnyaneshwari (Bhavartha Deepika) by Sant Dnyaneshwar, adhyaya 1; retold in our own words",
+  "hi": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय 1; हमारे अपने शब्दों में पुनर्कथन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानेश्वरी (भावार्थदीपिका), संत ज्ञानेश्वर, अध्याय १; आमच्या स्वतःच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

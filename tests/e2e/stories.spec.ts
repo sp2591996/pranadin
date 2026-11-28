@@ -51,7 +51,7 @@ test.describe("Story collections (D-038, D-040)", () => {
     await onboard(page, "en");
     for (const [club, count, part] of [
       ["bhagavad-gita", 18, /path of devotion/],
-      ["dnyaneshwari", 10, /The Gita in Marathi/],
+      ["dnyaneshwari", 20, /Karma: work as worship/],
       ["gurucharitra", 22, /Bhakti kanda/],
     ] as const) {
       await page.goto(`/en/stories/${club}/`);
@@ -61,7 +61,7 @@ test.describe("Story collections (D-038, D-040)", () => {
     await page.goto("/en/stories/bhagavad-gita/the-undying-self/");
     await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(3);
     await expect(page.locator('p[lang="sa"]')).toContainText("कर्मण्येवाधिकारस्ते");
-    await page.goto("/en/stories/dnyaneshwari/pasayadan/");
+    await page.goto("/en/stories/dnyaneshwari/pasayadan-and-alandi/");
     await expect(page.locator('p[lang="mr"]')).toContainText("जो जे वांछील तो ते लाहो");
     await expect(page.getByText("You have reached the end of this collection.")).toBeVisible();
     const broken = await page.evaluate(() => [...document.images].filter((i) => i.complete && i.naturalWidth === 0).map((i) => i.src));
@@ -71,7 +71,7 @@ test.describe("Story collections (D-038, D-040)", () => {
   for (const lang of ["hi", "mr"] as const) {
     test(`${lang} collection and chapter pages are translated`, async ({ page }) => {
       await onboard(page, lang);
-      for (const p of ["stories/ramayana/", "stories/ramayana/great-leap/", "stories/varkari/dnyaneshwar/", "stories/mahabharata/the-bhagavad-gita/", "stories/bhagavad-gita/", "stories/dnyaneshwari/pasayadan/", "stories/gurucharitra/kuravpur/"]) {
+      for (const p of ["stories/ramayana/", "stories/ramayana/great-leap/", "stories/varkari/dnyaneshwar/", "stories/mahabharata/the-bhagavad-gita/", "stories/bhagavad-gita/", "stories/dnyaneshwari/pasayadan-and-alandi/", "stories/gurucharitra/kuravpur/"]) {
         await page.goto(`/${lang}/${p}`);
         const text = await page.evaluate(() => {
           const out: string[] = [];
