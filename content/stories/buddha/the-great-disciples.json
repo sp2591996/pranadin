@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-great-disciples",
+ "order": 17,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Great Disciples",
+  "hi": {
+   "text": "महान शिष्य",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान शिष्य",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Two monks begging in Rajagriha catch the eye of a scholar, and one short verse brings Sariputra, Maudgalyayana and Mahakashyapa to the Buddha.",
+  "hi": {
+   "text": "राजगृह में भिक्षा माँगते दो भिक्षुओं पर एक विद्वान की नज़र पड़ती है, और एक छोटे से श्लोक से सारिपुत्र, मौद्गल्यायन और महाकाश्यप बुद्ध के पास आते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजगृहात भिक्षा मागणाऱ्या दोन भिक्षूंकडे एका विद्वानाची नजर जाते, आणि एका छोट्या श्लोकाने सारिपुत्र, मौद्गल्यायन आणि महाकाश्यप बुद्धांकडे येतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-greatdisc.webp",
+   "w": 811,
+   "h": 1100,
+   "caption": {
+    "en": "Disciples of the Buddha, carved relief",
+    "hi": {
+     "text": "बुद्ध के शिष्य, नक्काशीदार शिल्प",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांचे शिष्य, कोरीव शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "Nomu420, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sariputra_and_Maudgalyayana_become_disciples_of_Buddha_Roundel_31_buddha_ivory_tusk.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The bamboo grove",
+    "hi": {
+     "text": "बाँस-वन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बांबूवन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Bimbisara bowed his head and asked the Buddha to move his dwelling to the bamboo grove. The Buddha agreed by silence. The king, who had seen the truth, offered his adoration and went back to his palace, and the Buddha, with the great company, walked to the grove to rest there awhile. The poem says he stayed to convert all that breathed, to kindle the lamp of wisdom once for all, and to confirm the lives of saints and sages.\n\nIn Beal's rendering the grove is not simply a gift of land. It is a base from which the teaching can spread, and the next canto begins with what happened in the city streets. Two of the first monks, Ashvajit and Vashpa, were going in to beg their food. The poet says they were unrivalled in the world for grace of person, and the people of the town were filled with joy at the sight of them. Those who were walking stood still, those ahead waited, and those behind hurried to catch up.",
+    "hi": {
+     "text": "राजा बिंबिसार ने सिर झुकाकर बुद्ध से प्रार्थना की कि वे अपना निवास बाँस-वन में बनाएँ। बुद्ध ने मौन से सहमति दी। सत्य को देख चुके राजा ने उनकी वंदना की और अपने महल लौट गए, और बुद्ध अपनी महान मंडली के साथ वन की ओर चले, कुछ समय विश्राम के लिए। काव्य कहता है कि वे वहाँ रुककर सभी प्राणियों को परिवर्तित करने, ज्ञान का दीप सदा के लिए जलाने, और संतों और ऋषियों का जीवन सुदृढ़ करने के लिए ठहरे।\n\nबील के अनुवाद में वन केवल भूमि का दान नहीं है। वह वह आधार है जहाँ से उपदेश फैल सकता है, और अगला सर्ग नगर की गलियों में घटी घटनाओं से शुरू होता है। संघ के प्रारंभिक भिक्षुओं में से दो, अश्वजित और वष्प, भिक्षा के लिए नगर में जा रहे थे। कवि कहता है कि वे अपने रूप की शोभा में संसार में अनुपम थे, और नगर के लोग उन्हें देखकर आनंदित हो उठे। जो चल रहे थे वे रुक गए, जो आगे थे वे ठहर गए, और जो पीछे थे वे दौड़कर साथ आ गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा बिंबिसाराने मस्तक झुकवून बुद्धांना विनंती केली की त्यांनी आपला निवास बांबूवनात करावा. बुद्धांनी मौनाने संमती दिली. सत्य पाहिलेल्या राजाने त्यांना वंदन केले आणि आपल्या राजवाड्यात परत गेला, आणि बुद्ध आपल्या मोठ्या मंडळीसह विश्रांतीसाठी त्या वनात गेले. काव्य सांगते की ते तिथे सर्व प्राण्यांना परिवर्तित करण्यासाठी, ज्ञानाचा दीप कायमचा प्रज्वलित करण्यासाठी, आणि संत व ऋषींचे जीवन दृढ करण्यासाठी थांबले.\n\nबीलच्या अनुवादात वन केवळ जमिनीचे दान नाही. तो एक असा आधार आहे जिथून उपदेश पसरू शकतो, आणि पुढील सर्ग नगराच्या गल्ल्यांतील घटनांनी सुरू होतो. संघातील सुरुवातीच्या भिक्षूंपैकी दोन, अश्वजित आणि वष्प, भिक्षेसाठी नगरात जात होते. कवी सांगतो की आपल्या रूपाच्या शोभेमुळे ते जगात अतुलनीय होते, आणि नगरातील लोक त्यांना पाहून आनंदित झाले. जे चालत होते ते थांबले, जे पुढे होते ते थबकले, आणि जे मागे होते ते धावत जवळ आले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A question in the street",
+    "hi": {
+     "text": "गली में एक प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गल्लीतील प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Among the scholars of the city was the sage Kapila, who had many followers, and one of them, famous far and wide, was Sariputra. He saw the two monks go by, their senses subdued, their walk dignified, and was struck by the sight. Young in years but pure and graceful, he said, with his hands raised, I have never seen the like. What law have you followed, who is your master, and what is the teaching you have learned? Tell me, and relieve my doubts.\n\nOne of the monks answered with a pleasant air and gentle words. The all-knowing one, born of the Ikshvaku family, the first among gods and men, is my great master. I am young, he added, and the sun of wisdom has only just risen for me. How can I explain his doctrine, which is deep and hard to understand? But I will tell you briefly. Whatever things exist all spring from a cause, and the cause of birth and death may be destroyed, by the means he has declared.",
+    "hi": {
+     "text": "नगर के विद्वानों में कपिल नामक एक ऋषि थे, जिनके बहुत शिष्य थे, और उनमें से एक, दूर-दूर तक प्रसिद्ध, सारिपुत्र था। उसने दोनों भिक्षुओं को गुजरते देखा, उनकी इंद्रियाँ संयमित थीं, चाल गरिमामय थी, और वह इस दृश्य से प्रभावित हुआ। युवा थे पर पवित्र और सुंदर, उसने हाथ उठाकर कहा, मैंने ऐसा कभी नहीं देखा। आपने किस धर्म का पालन किया है, आपका गुरु कौन है, और आपने कौन सी शिक्षा पाई है? बताइए, और मेरे संशय दूर कीजिए।\n\nभिक्षुओं में से एक ने सुखद भाव और कोमल शब्दों से उत्तर दिया। इक्ष्वाकु वंश में जन्मे, देवताओं और मनुष्यों में सर्वश्रेष्ठ, सर्वज्ञ मेरे महान गुरु हैं। मैं युवा हूँ, उसने जोड़ा, और ज्ञान का सूर्य मेरे लिए अभी-अभी उगा है। उनके गहरे और कठिन सिद्धांत को मैं कैसे समझाऊँ? पर संक्षेप में कहूँगा। जो कुछ भी है वह किसी कारण से उत्पन्न होता है, और जन्म-मृत्यु का कारण उन उपायों से नष्ट किया जा सकता है जो उन्होंने बताए हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नगरातील विद्वानांमध्ये कपिल नावाचे एक ऋषी होते, ज्यांचे पुष्कळ शिष्य होते, आणि त्यांच्यापैकी एक, दूरवर प्रसिद्ध, सारिपुत्र होता. त्याने दोन्ही भिक्षू जाताना पाहिले, त्यांची इंद्रिये संयमित होती, चाल गरिमेची होती, आणि तो या दृश्याने प्रभावित झाला. तरुण होते पण पवित्र आणि सुंदर, त्याने हात उंचावून म्हटले, मी असे कधी पाहिले नाही. आपण कोणत्या धर्माचे पालन करता, आपला गुरू कोण आहे, आणि कोणते शिक्षण घेतले आहे? सांगा, आणि माझे संशय दूर करा.\n\nभिक्षूंपैकी एकाने सुखद भावाने आणि कोमल शब्दांत उत्तर दिले. इक्ष्वाकु वंशात जन्मलेले, देवता आणि मनुष्यांमध्ये श्रेष्ठ, सर्वज्ञ असे माझे महान गुरू आहेत. मी तरुण आहे, त्याने जोडले, आणि ज्ञानाचा सूर्य माझ्यासाठी नुकताच उगवला आहे. त्यांचा खोल आणि कठीण सिद्धांत मी कसा समजावू? तरी थोडक्यात सांगेन. जे काही अस्तित्वात आहे ते एखाद्या कारणातून उत्पन्न होते, आणि जन्म-मृत्यूचे कारण त्यांनी सांगितलेल्या उपायांनी नष्ट करता येते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A friend with a new face",
+    "hi": {
+     "text": "एक नए चेहरे वाला मित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नव्या चेहऱ्याचा मित्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sariputra took the verse to heart. Until then he had trusted explanations about what is a cause and what is not, even that everything is made by a lord. Now he understood the rule of true causation and the absence of any fixed self. When the sun gives light, he said, who would ask for the dimness of a lamp? Like a lotus stem that has been cut, the pods will die as well, and the teaching has cut the stem of sorrow, so that no seeds are left. He bowed at the monks' feet and went home.\n\nHis friend Maudgalyayana, equally well known for learning, saw him coming from far off with a light step and a pleasant face. Your former nature seems quite changed, he said. These are marks of eternal truth, and they have a cause. Sariputra answered that the words of the Tathagata were such as had never been spoken, and when his friend asked, he repeated them. Maudgalyayana heard, understood, and at once put away his defilements too, as one sees by a lamp brought near.",
+    "hi": {
+     "text": "सारिपुत्र ने वह श्लोक हृदय में बसा लिया। अब तक वह मानता था कि कारण और अकारण के बारे में बताई गई व्याख्याएँ सच हैं, यहाँ तक कि सब कुछ किसी ईश्वर द्वारा बनाया गया है। अब उसने सच्चे कार्य-कारण का नियम और किसी स्थायी आत्मा के अभाव को समझा। जब सूर्य प्रकाश देता है, उसने कहा, तो कौन दीपक की मंद रोशनी माँगेगा? कटे हुए कमल-डंठल की तरह, फल भी सूख जाते हैं, और इस उपदेश ने दुःख का डंठल काट दिया है, ताकि कोई बीज न बचे। उसने भिक्षुओं के चरणों में प्रणाम किया और घर लौट गया।\n\nउसका मित्र मौद्गल्यायन, जो विद्या में भी उतना ही प्रसिद्ध था, उसे दूर से हल्के कदमों और प्रसन्न मुख के साथ आते देखकर बोला। तुम्हारा पूर्व स्वभाव बहुत बदला हुआ लगता है, उसने कहा। ये शाश्वत सत्य के चिह्न हैं, और इनका कोई कारण है। सारिपुत्र ने उत्तर दिया कि तथागत के वचन ऐसे थे जो पहले कभी नहीं कहे गए थे, और जब मित्र ने पूछा, तो उसने वे वचन दोहराए। मौद्गल्यायन ने सुना, समझा, और तत्काल अपनी मलिनताएँ भी त्याग दीं, जैसे दीपक पास लाने पर दिखाई देता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सारिपुत्राने तो श्लोक मनात बाळगला. आजवर तो मानत होता की कारण आणि अकारणाबद्दलची स्पष्टीकरणे खरी आहेत, इतकेच नव्हे तर सर्व काही कोणा ईश्वराने निर्माण केले आहे. आता त्याने खऱ्या कार्यकारणभावाचा नियम आणि कोणत्याही स्थायी आत्म्याचा अभाव समजून घेतला. जेव्हा सूर्य प्रकाश देतो, तो म्हणाला, तेव्हा कोण दिव्याचा मंद प्रकाश मागेल? कापलेल्या कमळाच्या दांड्यासारखे, फळेही सुकतात, आणि या उपदेशाने दुःखाचा दांडा तोडला आहे, जेणेकरून कोणतेही बीज उरू नये. त्याने भिक्षूंच्या चरणी नमन केले आणि घरी परतला.\n\nत्याचा मित्र मौद्गल्यायन, जो विद्येतही तितकाच प्रसिद्ध होता, त्याला दुरून हलक्या पावलांनी आणि प्रसन्न चेहऱ्याने येताना पाहून बोलला. तुझा पूर्वीचा स्वभाव खूप बदललेला दिसतो, तो म्हणाला. ही शाश्वत सत्याची चिन्हे आहेत, आणि त्यांना कारण आहे. सारिपुत्राने उत्तर दिले की तथागतांचे शब्द असे होते जे पूर्वी कधी उच्चारले गेले नव्हते, आणि मित्राने विचारल्यावर त्याने ते शब्द पुन्हा सांगितले. मौद्गल्यायनाने ऐकले, समजले, आणि त्वरित आपली मलिनताही टाकून दिली, जसे दीप जवळ आणल्यावर दिसते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Welcome",
+    "hi": {
+     "text": "स्वागत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वागत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The two friends set out together for the Buddha with a large crowd of followers, two hundred and fifty men in all. The Buddha saw them coming and said to his disciples, These two will be my two most eminent followers, one unsurpassed in wisdom and the other in powers beyond the ordinary. Then in a deep and sweet voice he bade them welcome. Here is the pure and peaceful law, he said, and here is the end of all discipleship.\n\nThey stood holding their triple staffs, with their hair twisted up and their water vessels in their hands. At the word of welcome they were changed at once into monks. The two leaders and all their followers appeared as bhikshus, bowed at the Buddha's feet, rose, and sat beside him. As they listened, they all became arhats. The tradition would remember Sariputra as the first among the wise and Maudgalyayana as the first in powers of the mind, and the two of them are still shown standing at either side of the Buddha.",
+    "hi": {
+     "text": "दोनों मित्र पाँच सौ पचास अनुयायियों के साथ बुद्ध की ओर चले, कुल मिलाकर दो सौ पचास पुरुष। बुद्ध ने उन्हें आते देखा और अपने शिष्यों से कहा, ये दोनों मेरे दो सर्वश्रेष्ठ अनुयायी होंगे, एक ज्ञान में अतुलनीय और दूसरा अलौकिक शक्तियों में। फिर गहरी और मधुर वाणी में उन्होंने उनका स्वागत किया। यह शुद्ध और शांत धर्म है, उन्होंने कहा, और यह सब शिष्यत्व का अंत है।\n\nवे तीन दंड थामे, बालों को लपेटकर, हाथों में जलपात्र लिए खड़े थे। स्वागत के शब्द सुनते ही वे तत्काल भिक्षु बन गए। दोनों नेता और उनके सभी अनुयायी भिक्षु रूप में प्रकट हुए, बुद्ध के चरणों में झुके, उठे, और उनके पास बैठ गए। सुनते-सुनते वे सब अर्हत बन गए। परंपरा सारिपुत्र को ज्ञानियों में प्रथम और मौद्गल्यायन को मानसिक शक्तियों में प्रथम स्मरण करती है, और आज भी उन दोनों को बुद्ध के दोनों ओर खड़ा दिखाया जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन्ही मित्र पाचशे पन्नास अनुयायांसह बुद्धांकडे निघाले, एकूण दोनशे पन्नास पुरुष. बुद्धांनी त्यांना येताना पाहिले आणि आपल्या शिष्यांना म्हणाले, हे दोघे माझे दोन सर्वश्रेष्ठ अनुयायी होतील, एक ज्ञानात अतुलनीय आणि दुसरा अलौकिक शक्तींमध्ये. मग गहन आणि गोड आवाजात त्यांनी त्यांचे स्वागत केले. हा शुद्ध आणि शांत धर्म आहे, ते म्हणाले, आणि हाच सर्व शिष्यत्वाचा अंत आहे.\n\nते तीन दंड धरून, केस गुंडाळून, हातात जलपात्रे घेऊन उभे होते. स्वागताचे शब्द ऐकताच ते तत्क्षणी भिक्षू झाले. दोन्ही नेते आणि त्यांचे सर्व अनुयायी भिक्षूंच्या रूपात प्रकट झाले, बुद्धांच्या चरणी वाकले, उठले, आणि त्यांच्याजवळ बसले. ऐकताना ते सर्व अर्हत झाले. परंपरा सारिपुत्राला ज्ञानी लोकांमध्ये प्रथम आणि मौद्गल्यायनाला मानसिक शक्तींमध्ये प्रथम म्हणून स्मरते, आणि आजही त्या दोघांना बुद्धांच्या दोन्ही बाजूंना उभे असलेले दाखवले जाते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kashyapa of the bright lamp",
+    "hi": {
+     "text": "तेजस्वी दीपक वाले कश्यप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेजस्वी दिव्याचा काश्यप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There was also a Brahman called Kashyapa Agnidatta, whom Beal renders as the one who gave a bright lamp. He was distinguished, rich in possessions, with a most virtuous wife, and he had left all of this behind to become a hermit seeking the way. One day on the road, beside a tower, he suddenly met the Shakya sage, who stood out among people like the embroidered flag at a temple. Kashyapa bowed to his feet. Truly, honoured one, you are my teacher and I am your follower, he said. I have been tormented by doubts for a long time. I wish you would light the lamp.\n\nThe Buddha bade him welcome, with a soft voice, and explained briefly the way of deliverance. Kashyapa gave up his old belief in a self, and saw the nature of sorrow with an equal mind. He lost his craving even for a formless state of being. Then the lamp of wisdom was lit, and every doubt dispersed. He came to be called Maha Kashyapa, and the three disciples waited on the Buddha like three stars.",
+    "hi": {
+     "text": "वहाँ एक ब्राह्मण भी था जिसका नाम काश्यप अग्निदत्त था, जिसे बील 'जिसने उज्ज्वल दीपक दिया' के रूप में अनुवादित करते हैं। वह प्रतिष्ठित था, धन-संपत्ति में समृद्ध, और उसकी पत्नी अत्यंत सद्गुणी थी, पर उसने यह सब छोड़कर मार्ग की खोज में तपस्वी बनने का निश्चय किया था। एक दिन मार्ग पर, एक स्तूप के पास, उसकी अचानक भेंट शाक्य मुनि से हुई, जो मंदिर की ध्वजा के समान जनसमूह के बीच खड़े थे। काश्यप उनके चरणों में झुका। आप सचमुच मेरे गुरु हैं, और मैं आपका शिष्य हूँ, उसने कहा। मैं बहुत समय से संशय से पीड़ित हूँ। मेरी इच्छा है कि आप दीपक जलाएँ।\n\nबुद्ध ने उसे कोमल स्वर में स्वागत किया, और मुक्ति का मार्ग संक्षेप में समझाया। काश्यप ने आत्मा के विषय में अपना पुराना विश्वास छोड़ दिया, और दुःख के स्वभाव को समान मन से देखा। उसने अरूप अवस्था की भी लालसा त्याग दी। तब ज्ञान का दीप जल उठा, और सभी संदेह दूर हो गए। वह महाकाश्यप कहलाया, और तीनों शिष्य बुद्ध की सेवा ऐसे करते थे जैसे तीन तारे चंद्रमा की सेवा करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिथे काश्यप अग्निदत्त नावाचा एक ब्राह्मणही होता, ज्याचे बील 'ज्याने उज्ज्वल दिवा दिला' असे भाषांतर करतात. तो प्रतिष्ठित होता, धनसंपत्तीने समृद्ध, आणि त्याची पत्नी अत्यंत सद्गुणी होती, पण त्याने हे सर्व सोडून मार्गाच्या शोधात तपस्वी होण्याचा निश्चय केला होता. एके दिवशी रस्त्यावर, एका स्तूपाजवळ, त्याची अचानक शाक्य मुनींशी भेट झाली, जे मंदिराच्या ध्वजासारखे जनसमुदायात उभे होते. काश्यप त्यांच्या चरणी लोटांगण घालून म्हणाला, आपणच खरे माझे गुरू आहात आणि मी आपला शिष्य आहे. मी बराच काळ संशयाने पीडित आहे. माझी इच्छा आहे की आपण दिवा प्रज्वलित करावा.\n\nबुद्धांनी त्याचे कोमल स्वरात स्वागत केले, आणि मुक्तीचा मार्ग थोडक्यात समजावला. काश्यपाने आत्म्याविषयीचा आपला जुना विश्वास सोडला, आणि दुःखाचा स्वभाव समान मनाने पाहिला. त्याने अरूप अवस्थेची लालसाही सोडली. तेव्हा ज्ञानाचा दीप पेटला, आणि सर्व संशय दूर झाले. तो महाकाश्यप म्हणून ओळखला गेला, आणि तिन्ही शिष्य बुद्धांची सेवा अशी करत होते जशी तीन तारे चंद्राची सेवा करतात.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Here is the pure and peaceful law",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita, canto 17 (tr. Beal, 1883)",
+   "hi": {
+    "text": "बुद्धचरित, सर्ग 17 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित, सर्ग 17 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The Buddha's words of welcome to Sariputra and Maudgalyayana.",
+   "hi": {
+    "text": "सारिपुत्र और मौद्गल्यायन को बुद्ध का स्वागत वचन।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सारिपुत्र आणि मौद्गल्यायनाला बुद्धांचे स्वागतवचन.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What was the last short saying that made you stop and see something differently?",
+  "hi": {
+   "text": "वह अंतिम छोटा सा वचन कौन सा था जिसने तुम्हें रुककर किसी बात को नए ढंग से देखने पर मजबूर कर दिया?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ते शेवटचे छोटे वाक्य कोणते होते ज्याने तुला थांबून एखादी गोष्ट नव्या दृष्टीने पाहायला भाग पाडले?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A single clear sentence, offered by someone calm, can change a learned person's whole way of seeing.",
+  "hi": {
+   "text": "शांत मन से कहा गया एक स्पष्ट वाक्य किसी विद्वान व्यक्ति की पूरी दृष्टि बदल सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शांत मनाने उच्चारलेले एक स्पष्ट वाक्य एखाद्या विद्वान व्यक्तीची संपूर्ण दृष्टी बदलू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 17; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 17; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 17; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

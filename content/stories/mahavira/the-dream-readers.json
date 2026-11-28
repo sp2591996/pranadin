@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-dream-readers",
+ "order": 4,
+ "part": "conception",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Dream Readers",
+  "hi": {
+   "text": "स्वप्न-व्याख्याता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "स्वप्नांचे अर्थ सांगणारे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "At daybreak King Siddhartha calls the interpreters of dreams, and learns that his son will be either a universal emperor or a Jina.",
+  "hi": {
+   "text": "प्रभात होते ही राजा सिद्धार्थ स्वप्न-व्याख्याताओं को बुलाते हैं, और जानते हैं कि उनका पुत्र या तो चक्रवर्ती सम्राट होगा या जिन।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पहाटे राजा सिद्धार्थ स्वप्नांचे अर्थ सांगणाऱ्यांना बोलावतात, आणि त्यांचा पुत्र एकतर चक्रवर्ती सम्राट होईल किंवा जिन होईल, हे जाणतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-readers.webp",
+   "w": 1200,
+   "h": 535,
+   "caption": {
+    "en": "King Siddhartha and Queen Trishala with the dream diviners (Cleveland)",
+    "hi": {
+     "text": "राजा सिद्धार्थ और रानी त्रिशला स्वप्न-पाठकों के साथ (क्लीवलैंड)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा सिद्धार्थ आणि राणी त्रिशला स्वप्नपाठकांसह (क्लीव्हलँड)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Unknown_artist_-_King_Siddhartha_and_Queen_Trishala_with_the_Dream_Diviners,_from_a_Kalpa-sutra_-_1932.119.9_-_Cleveland_Museum_of_Art.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Morning at the palace",
+    "hi": {
+     "text": "राजभवन में प्रभात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजवाड्यातील सकाळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At daybreak the red sun rose over Kundapura, which the sutra describes as a morning painted like saffron over the whole inhabited world. King Siddhartha got up from his bed and went to the exercise hall, where he jumped, wrestled and fenced until he was properly tired. Skilled attendants then anointed him with refined oils and kneaded his limbs until his tiredness was gone.\n\nHe bathed in a room with latticed windows and a floor of mosaic, dressed in a fresh robe, rubbed himself with sandal and hung strings of pearls on his chest. Then, shining like the moon coming out from behind a white cloud, he went to the outer hall of audience and sat facing the east. Before he did, he had given his servants a plain order: sprinkle the hall, sweep it, set out flowers, and place my throne. It was an ordinary king's morning, and nothing in it yet showed what the night had brought.",
+    "hi": {
+     "text": "प्रभात होते ही कुंडपुर के ऊपर लाल सूर्य उगा, जिसे सूत्र केसर से रंगी हुई उस प्रभात के रूप में वर्णित करता है जो पूरे बसे हुए संसार पर फैली थी। राजा सिद्धार्थ शय्या से उठे और व्यायामशाला में गए, जहाँ उन्होंने कूदने, कुश्ती लड़ने और तलवारबाज़ी का अभ्यास किया, जब तक वे ठीक से थक न गए। फिर कुशल सेवकों ने परिष्कृत तेलों से उनकी मालिश की और उनके अंग तब तक दबाए जब तक थकान न मिट गई।\n\nउन्होंने जालीदार खिड़कियों और मोज़ेक फर्श वाले स्नानगृह में स्नान किया, ताज़ा वस्त्र पहने, चंदन लगाया और छाती पर मोतियों की मालाएँ लटकाईं। फिर सफ़ेद बादल के पीछे से निकलते चंद्रमा की तरह चमकते हुए वे बाहरी सभा-कक्ष में गए और पूर्व की ओर मुख करके बैठे। ऐसा करने से पहले उन्होंने सेवकों को सीधा आदेश दिया था: सभा-कक्ष पर जल छिड़को, उसे बुहारो, फूल सजाओ, और मेरा सिंहासन रखो। यह एक साधारण राजा की सुबह थी, और इसमें अभी कुछ नहीं दिखता था कि रात क्या लेकर आई थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटे कुंडपुरावर लाल सूर्य उगवला, ज्याला सूत्र केशरात रंगवलेली सकाळ म्हणते, जी संपूर्ण वसलेल्या जगावर पसरली होती. राजा सिद्धार्थ पलंगावरून उठले आणि व्यायामशाळेत गेले, जिथे त्यांनी उड्या मारल्या, कुस्ती केली आणि तलवारबाजी केली, जोपर्यंत ते नीट थकले नाहीत. मग कुशल सेवकांनी त्यांना उंची तेलांनी अभ्यंग केला आणि थकवा जाईपर्यंत त्यांचे अवयव चुरले.\n\nत्यांनी जाळीच्या खिडक्या आणि मोझेक फरशी असलेल्या स्नानगृहात स्नान केले, ताजे वस्त्र नेसले, चंदन लावले आणि छातीवर मोत्यांच्या माळा लटकवल्या. मग पांढऱ्या ढगाआडून बाहेर येणाऱ्या चंद्रासारखे झळकत ते बाहेरच्या सभागृहात गेले आणि पूर्वेकडे तोंड करून बसले. असे करण्यापूर्वी त्यांनी सेवकांना एक साधा आदेश दिला होता: सभागृहात पाणी शिंपडा, ते झाडा, फुले लावा आणि माझे सिंहासन ठेवा. ती एका सामान्य राजाची सकाळ होती, आणि तिच्यात अजून काहीच दिसत नव्हते की रात्र काय घेऊन आली होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The curtain",
+    "hi": {
+     "text": "पर्दा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पडदा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Siddhartha had eight chairs set to the north-east of his throne, and not far from them a curtain hung, woven with pictures of wolves, bulls, horses, dolphins, birds, deer and elephants. Behind that curtain he had a seat prepared for Queen Trishala, soft, covered in white cloth.\n\nHe then told his servants to bring the interpreters of dreams, people learned in the science of omens with its eight branches. The servants went through Kundapura from house to house. The interpreters bathed, made their offerings, dressed in clean court clothes and put white mustard seeds and grass on their heads for good luck, as the sutra notes, and came to the palace gate. The curtain is an old detail, and a gentle one. It lets the queen hear everything that is said about her dreams while keeping the custom of the court, so that she is present in the room without having to be seen.",
+    "hi": {
+     "text": "सिद्धार्थ ने अपने सिंहासन के उत्तर-पूर्व में आठ आसन लगवाए थे, और उनके समीप ही एक पर्दा लटका था, जिस पर भेड़िए, बैल, घोड़े, डॉल्फिन, पक्षी, हिरण और हाथियों के चित्र बुने हुए थे। उस पर्दे के पीछे उन्होंने रानी त्रिशला के लिए सफ़ेद वस्त्र से ढका, कोमल आसन लगवाया था।\n\nफिर उन्होंने सेवकों को आदेश दिया कि स्वप्न-व्याख्याताओं को लाया जाए, जो शकुन-शास्त्र की आठ शाखाओं में निपुण थे। सेवक कुंडपुर में घर-घर गए। व्याख्याता स्नान करके, पूजा करके, स्वच्छ दरबारी वस्त्र पहनकर और सिर पर सफ़ेद सरसों तथा दूब रखकर, जैसा सूत्र बताता है, राजमहल के द्वार पर आए। पर्दा एक पुरानी और कोमल प्रथा है। वह रानी को, दरबार की मर्यादा निभाते हुए, वह सब सुनने देता है जो उसके स्वप्नों के विषय में कहा जाता है, इस प्रकार वह कक्ष में उपस्थित रहती है, बिना दिखे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धार्थांनी आपल्या सिंहासनाच्या ईशान्येला आठ आसने ठेवली होती, आणि त्यांच्या जवळच एक पडदा लटकत होता, ज्यावर लांडगे, बैल, घोडे, डॉल्फिन, पक्षी, हरीण आणि हत्ती विणलेले होते. त्या पडद्यामागे त्यांनी राणी त्रिशलेसाठी पांढऱ्या वस्त्राने झाकलेले, मऊ आसन ठेवले होते.\n\nमग त्यांनी सेवकांना आज्ञा दिली की शकुनशास्त्राच्या आठ शाखांमध्ये निपुण असलेल्या स्वप्न-अर्थ सांगणाऱ्यांना आणावे. सेवक कुंडपुरात घरोघर गेले. अर्थ सांगणारे स्नान करून, पूजा करून, स्वच्छ दरबारी वस्त्रे घालून, आणि शुभासाठी डोक्यावर पांढरी मोहरी आणि दूर्वा ठेवून, सूत्र सांगते त्याप्रमाणे, राजवाड्याच्या दारी आले. पडदा ही एक जुनी आणि सौम्य प्रथा आहे. ती राणीला, दरबाराची मर्यादा पाळत, तिच्या स्वप्नांविषयी जे बोलले जाते ते सर्व ऐकण्याची सोय करते, अशा प्रकारे ती खोलीत उपस्थित असते, दिसल्याविना.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What the books say",
+    "hi": {
+     "text": "पुस्तकों का कथन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुस्तकांचे म्हणणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king greeted them with flowers and fruit in his hands and with great courtesy, then told them what Trishala had seen and asked what would come of it. The interpreters consulted among themselves, reached their conclusion and recited from their dream books. These list forty-two ordinary dreams and thirty great ones, they said, and of the thirty, the mothers of universal emperors and of Arhats see fourteen when such a child enters the womb.\n\nThey explained a scale. A Vasudeva's mother sees seven of the fourteen, a Baladeva's mother sees four, and a lesser ruler's mother sees one. Trishala had seen all fourteen. Her son, they said, would grow up to be either a universal emperor, ruling the whole earth with a great army, or a Jina, a spiritual conqueror, lord of the three worlds and the universal emperor of the Law. The king accepted their words, honoured them with food, flowers, perfumes and gifts, and sent them home.",
+    "hi": {
+     "text": "राजा ने हाथों में फल और फूल लेकर उनका स्वागत किया और बड़े शिष्टाचार से बताया कि त्रिशला ने क्या देखा है, और पूछा कि इसका क्या फल होगा। व्याख्याताओं ने आपस में विचार किया, अपने निष्कर्ष तक पहुँचे और अपनी स्वप्न-पुस्तकों से पाठ किया। उनमें बयालीस साधारण स्वप्न और तीस महान स्वप्न सूचीबद्ध हैं, उन्होंने कहा, और उन तीस में से चक्रवर्ती सम्राटों और अर्हतों की माताएँ ऐसे बालक के गर्भ में आने पर चौदह स्वप्न देखती हैं।\n\nउन्होंने एक मापदंड समझाया। वासुदेव की माता चौदह में से सात देखती है, बलदेव की माता चार, और किसी छोटे शासक की माता एक। त्रिशला ने सभी चौदह देखे थे। उसका पुत्र, उन्होंने कहा, या तो चक्रवर्ती सम्राट बनेगा, जो विशाल सेना के साथ पूरी पृथ्वी पर शासन करेगा, या जिन बनेगा, आध्यात्मिक विजेता, तीनों लोकों का स्वामी और धर्म का चक्रवर्ती। राजा ने उनकी बात स्वीकार की, भोजन, फूल, सुगंध और उपहारों से उनका सम्मान किया, और उन्हें विदा किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजांनी हातात फळे आणि फुले घेऊन त्यांचे स्वागत केले, आणि मोठ्या सौजन्याने त्रिशलेने काय पाहिले ते सांगितले आणि त्याचे फळ काय होईल असे विचारले. अर्थ सांगणाऱ्यांनी आपसात विचार केला, आपल्या निष्कर्षावर पोहोचले, आणि आपल्या स्वप्नपुस्तकांमधून वाचून दाखवले. त्यात बेचाळीस सामान्य स्वप्ने आणि तीस महास्वप्ने नोंदवलेली आहेत, ते म्हणाले, आणि त्या तीसपैकी चक्रवर्ती सम्राटांच्या आणि अर्हतांच्या माता, असा बालक गर्भात आल्यावर, चौदा स्वप्ने पाहतात.\n\nत्यांनी एक मापदंड समजावला. वासुदेवाची माता चौदापैकी सात पाहते, बलदेवाची माता चार, आणि एखाद्या लहान शासकाची माता एक. त्रिशलेने सर्व चौदा पाहिली होती. तिचा पुत्र, ते म्हणाले, एकतर चक्रवर्ती सम्राट होईल, जो प्रचंड सैन्यासह संपूर्ण पृथ्वीवर राज्य करेल, किंवा जिन होईल, आध्यात्मिक विजेता, तिन्ही लोकांचा स्वामी आणि धर्माचा चक्रवर्ती. राजांनी त्यांचे शब्द मान्य केले, अन्न, फुले, सुगंध आणि भेटवस्तूंनी त्यांचा सन्मान केला, आणि त्यांना निरोप दिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Trishala's joy",
+    "hi": {
+     "text": "त्रिशला का हर्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्रिशलेचा आनंद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Siddhartha rose from his throne, went behind the curtain, and told the queen all that the interpreters had said. Trishala heard it glad and joyful. With her husband's permission she rose from her jewelled seat and went back to her own rooms with the same smooth, even step as before.\n\nThe sutra reports no more of her words, only her state: delighted, quiet, sure. In its many repetitions, the text uses the same phrases whenever someone is told good news. Glad, pleased, joyful, delighted, with a heart widening under the influence of happiness. They are the formulas of a world in which joy is spoken of openly and in the same words by king, queen, servant, god and Brahmin alike. What the Kalpa Sutra adds here is that joy has now become certainty. The child has been named, in the dream books, by his possible futures: an emperor or a Jina.",
+    "hi": {
+     "text": "सिद्धार्थ सिंहासन से उठे, पर्दे के पीछे गए, और रानी को वह सब बताया जो व्याख्याताओं ने कहा था। त्रिशला ने प्रसन्न और हर्षित होकर सुना। पति की अनुमति से वह रत्नजटित आसन से उठी और उसी सहज, समान चाल से अपने कक्ष में लौट गई।\n\nसूत्र उनके शब्दों का और विवरण नहीं देता, केवल उनकी अवस्था बताता है: आनंदित, शांत, निश्चिंत। अपने अनेक दोहरावों में पाठ जब भी किसी को शुभ समाचार मिलता है, वही शब्द प्रयोग करता है: हर्षित, प्रसन्न, आनंदित, मुदित, और हृदय सुख के प्रभाव से विस्तृत होता हुआ। ये उस संसार के सूत्र हैं जिसमें आनंद खुलकर और एक ही शब्दों में राजा, रानी, सेवक, देवता और ब्राह्मण सभी कहते हैं। कल्पसूत्र यहाँ जोड़ता है कि अब हर्ष निश्चितता बन चुका है। स्वप्न-पुस्तकों में बालक को उसके संभावित भविष्यों से नाम मिल गया है: चक्रवर्ती या जिन।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धार्थ सिंहासनावरून उठले, पडद्यामागे गेले, आणि अर्थ सांगणाऱ्यांनी जे सांगितले ते सर्व राणीला सांगितले. त्रिशलेने आनंदाने आणि हर्षाने ऐकले. पतीच्या अनुमतीने ती रत्नजडित आसनावरून उठली आणि त्याच सहज, समान चालीने आपल्या कक्षात परत गेली.\n\nसूत्र तिच्या शब्दांचा पुढील तपशील देत नाही, फक्त तिची अवस्था सांगते: आनंदित, शांत, निश्चिंत. तिच्या अनेक पुनरावृत्तींमध्ये, जेव्हाही कोणाला शुभ बातमी मिळते, तेव्हा पाठ तेच शब्द वापरतो: हर्षित, प्रसन्न, आनंदित, मुदित, आणि हृदय सुखाच्या प्रभावाने विस्तारत. हे त्या जगाचे सूत्र आहेत जिथे आनंद उघडपणे आणि एकाच शब्दांत राजा, राणी, सेवक, देव आणि ब्राह्मण सर्वजण व्यक्त करतात. कल्पसूत्र येथे जोडते की आता हर्ष निश्चितीत बदलला आहे. स्वप्नपुस्तकांच्या दृष्टीने बालकाला त्याच्या संभाव्य भविष्यांवरून नाव मिळाले आहे: चक्रवर्ती किंवा जिन.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Care of the womb",
+    "hi": {
+     "text": "गर्भ की देखभाल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गर्भाची काळजी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "From that time, the sutra says, the queen looked after the child with great care. She bathed, made offerings to the house gods, and kept off sickness, sorrow, fear and tiredness. Her food and clothing and perfumes were never too cold or too hot, too sour or too sweet, too rough or too smooth, but always suited to the season. She ate only what was healthy for the child.\n\nShe walked in quiet, pleasant places and slept on soft beds. Her wishes were honoured and fulfilled, not ignored, and she carried her unborn child in great comfort. The text puts the whole picture in practical terms. A mother's calm, it implies, is part of what she gives the child before birth. Outside, the palace was changing too. Treasures long buried and forgotten were being brought to King Siddhartha's house, and the family's wealth and good name grew day by day. The next chapter turns to why the child kept so still.",
+    "hi": {
+     "text": "उस समय से, सूत्र कहता है, रानी ने शिशु की बड़ी सावधानी से देखभाल की। वह स्नान करती, गृह-देवताओं को भेंट चढ़ाती, और रोग, शोक, भय और थकान से दूर रहती। उसका भोजन, वस्त्र और सुगंध कभी बहुत ठंडा या गरम, बहुत खट्टा या मीठा, बहुत रूखा या चिकना नहीं होता था, बल्कि सदा ऋतु के अनुकूल रहता था। वह केवल वही खाती थी जो शिशु के लिए स्वास्थ्यकर हो।\n\nवह शांत और सुखद स्थानों में घूमती थी और कोमल शय्या पर सोती थी। उसकी इच्छाओं का सम्मान किया जाता था और वे पूरी की जाती थीं, उपेक्षित नहीं होतीं, और वह अपने अजन्मे शिशु को बड़े सुख में धारण करती थी। पाठ पूरा चित्र व्यावहारिक शब्दों में रखता है। माता की शांति, यह संकेत करता है, वह भी है जो वह जन्म से पहले शिशु को देती है। बाहर राजमहल भी बदल रहा था। लंबे समय से गड़े और भुलाए गए खजाने सिद्धार्थ के भवन में लाए जा रहे थे, और परिवार का धन तथा यश दिन-प्रतिदिन बढ़ रहा था। अगला अध्याय इस पर है कि शिशु इतना स्थिर क्यों रहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या क्षणापासून, सूत्र सांगते, राणीने बालकाची मोठ्या काळजीने देखभाल केली. ती स्नान करत असे, गृहदेवतांना नैवेद्य दाखवत असे, आणि रोग, शोक, भय आणि थकवा यांपासून दूर राहत असे. तिचे अन्न, वस्त्रे आणि सुगंध कधीही फार थंड किंवा गरम, फार आंबट किंवा गोड, फार खरखरीत किंवा गुळगुळीत नसत, तर नेहमी ऋतुला साजेसे असत. ती फक्त तेच खात असे जे बालकासाठी आरोग्यदायी असेल.\n\nती शांत आणि आल्हाददायक ठिकाणी फिरत असे आणि मऊ शय्येवर झोपत असे. तिच्या इच्छांचा मान राखला जात असे आणि त्या पूर्ण केल्या जात, दुर्लक्षित होत नसत, आणि ती आपल्या अजन्मा बालकाला मोठ्या सुखात धारण करत असे. पाठ संपूर्ण चित्र व्यावहारिक शब्दांत मांडतो. मातेची शांतता, असे सूचित होते, ती देखील आहे जी ती जन्मापूर्वी बालकाला देते. बाहेर राजवाडाही बदलत होता. फार पूर्वी पुरून विसरलेले खजिने सिद्धार्थांच्या घरी आणले जात होते, आणि कुटुंबाची संपत्ती व कीर्ती दिवसेंदिवस वाढत होती. पुढील प्रकरण हे सांगते की बालक इतके स्थिर का राहिले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "the mothers of universal monarchs or of Arhats wake up after seeing these fourteen great dreams out of the thirty great dreams",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §74 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §74 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §74 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The interpreters tell the king that the number and kind of dreams show how great the child will be.",
+   "hi": {
+    "text": "व्याख्याता राजा को बताते हैं कि स्वप्नों की संख्या और प्रकार से दिखता है कि बालक कितना महान होगा।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अर्थ सांगणारे राजांना सांगतात की स्वप्नांची संख्या आणि प्रकार दाखवतात की बालक किती महान असेल.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "How do you care for the things that are still growing in you and not yet visible to anyone?",
+  "hi": {
+   "text": "तुम अपनी उन चीज़ों की देखभाल कैसे करते हो जो अभी बढ़ रही हैं और जो अभी किसी को दिखाई नहीं देतीं?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तू अशा गोष्टींची काळजी कशी घेतोस ज्या अजून वाढत आहेत आणि ज्या अजून कोणालाच दिसत नाहीत?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Calm, careful attention to a hidden beginning is part of what lets it come safely into the world.",
+  "hi": {
+   "text": "किसी छिपे आरंभ पर शांत और सावधान ध्यान ही वह है जो उसे सुरक्षित रूप से संसार में आने देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एका लपलेल्या आरंभाकडे शांत, सावध लक्ष देणे हाच तो भाग आहे जो त्याला सुरक्षितपणे जगात येऊ देतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§56–88; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§56–88; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§56–88; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

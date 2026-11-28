@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-wicked-tenants",
+ "order": 13,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Wicked Tenants",
+  "hi": {
+   "text": "दुष्ट किसान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुष्ट कुळवाडी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A landowner sends servants and then his son to collect the fruit of his vineyard, and the tenants refuse them all.",
+  "hi": {
+   "text": "एक भूमिपति अपने दाख की बारी का फल लेने सेवक और फिर अपने बेटे को भेजता है, पर किसान सबको ठुकरा देते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक जमीनमालक आपल्या द्राक्षमळ्याचे फळ घेण्यासाठी सेवकांना आणि मग आपल्या मुलाला पाठवतो, पण कुळवाडी सर्वांना नाकारतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-tenants-bowyer.webp",
+   "w": 533,
+   "h": 640,
+   "caption": {
+    "en": "The wicked tenants, engraving from the Bowyer Bible",
+    "hi": {
+     "text": "दुष्ट किसान, बोवायर बाइबल का उत्कीर्णन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुष्ट कुळवाडी, बोवायर बायबलमधील कोरीवकाम",
+     "reviewed": false
+    }
+   },
+   "credit": "Phidev74, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bowyer_Bible_print_3874_The_Scribes_and_Pharisees_wicked_tenants_of_God%E2%80%99s_vineyard_Matthew_23_33-41_Passeri.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A hard conversation in Jerusalem",
+    "hi": {
+     "text": "यरूशलेम में एक कठिन बातचीत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यरूशलेममधील एक कठीण संवाद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "This is the second of three parables told in Matthew in the Temple in Jerusalem, in the days before Jesus was arrested. His listeners are the chief priests and the elders, the leaders of his own Jewish community, who had questioned his authority. This is an argument within a family of faith, between a Jewish teacher and the leaders of his people, and it should be read that way.\n\nJesus begins with a story that any educated listener would recognise from the prophet Isaiah, who had described the people of Israel as God's vineyard. His hearers would have known where the image came from, and they would have felt its weight. They were not being asked to admire a pretty picture but to look at what the vineyard had been given and what was now expected of its keepers.",
+    "hi": {
+     "text": "यह मत्ती में मंदिर में, यरूशलेम में, यीशु की गिरफ़्तारी से पहले के दिनों में सुनाए गए तीन दृष्टांतों में दूसरा है। उनके श्रोता प्रधान याजक और प्राचीन हैं, उनके अपने यहूदी समुदाय के अगुवे, जिन्होंने उनके अधिकार पर सवाल उठाया था। यह विश्वास के एक परिवार के भीतर की बहस है, एक यहूदी शिक्षक और उसके लोगों के अगुवों के बीच, और इसे इसी तरह पढ़ा जाना चाहिए।\n\nयीशु एक ऐसी कहानी से शुरू करते हैं जिसे कोई भी शिक्षित श्रोता भविष्यवक्ता यशायाह से पहचान लेता, जिन्होंने इस्राएल के लोगों को परमेश्वर की दाख की बारी बताया था। उनके श्रोता जानते थे कि यह चित्र कहाँ से आया है, और वे उसका भार महसूस करते थे। उनसे किसी सुंदर चित्र की प्रशंसा करने को नहीं कहा जा रहा था, बल्कि यह देखने को कहा जा रहा था कि दाख की बारी को क्या सौंपा गया था और अब उसके रखवालों से क्या अपेक्षा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्तीमध्ये मंदिरात, यरूशलेममध्ये, यीशूच्या अटकेपूर्वीच्या दिवसांत सांगितलेल्या तीन दृष्टांतांपैकी हा दुसरा आहे. त्यांचे श्रोते मुख्य याजक आणि वडीलजन आहेत, त्यांच्याच यहूदी समाजाचे पुढारी, ज्यांनी त्यांच्या अधिकारावर प्रश्न उपस्थित केला होता. हा श्रद्धेच्या कुटुंबातील वाद आहे, एक यहूदी शिक्षक आणि त्याच्या लोकांचे पुढारी यांच्यातला, आणि तो तसाच वाचला गेला पाहिजे.\n\nयीशू एका अशा गोष्टीने सुरुवात करतात जी कोणत्याही सुशिक्षित श्रोत्याने संदेष्टा यशयाकडून ओळखली असती, ज्याने इस्राएलच्या लोकांना देवाचा द्राक्षमळा म्हटले होते. त्यांच्या श्रोत्यांना ती प्रतिमा कुठून आली हे माहीत होते, आणि तिचे ओझेही जाणवत होते. त्यांना एखादे सुंदर चित्र पाहून कौतुक करायला सांगितले जात नव्हते, तर द्राक्षमळ्याला काय सोपवले होते आणि आता त्याच्या राखणदारांकडून काय अपेक्षा आहे हे पाहायला सांगितले जात होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The vineyard and the tenants",
+    "hi": {
+     "text": "दाख की बारी और किसान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्राक्षमळा आणि कुळवाडी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A landowner plants a vineyard, sets a hedge around it, digs a winepress and builds a tower. He has done everything that a careful owner could do. Then he leases it out to farmers and travels to another country. The picture is of a generous gift, a well-prepared place put into the hands of workers, with the owner trusting them to look after it.\n\nWhen the season for fruit comes near, he sends his servants to collect his share. But the tenants seize the servants. They beat one, kill another and stone a third. The owner, patient to a fault, sends other servants, more in number than the first, and the tenants treat them the same way. It is a story of repeated mercy met by repeated violence. The picture grows steadily darker, and the listeners can feel the tension rising with each new messenger sent.",
+    "hi": {
+     "text": "एक भूमिपति दाख की बारी लगाता है, उसके चारों ओर बाड़ा बनाता है, रस निकालने का कुंड खोदता है और एक बुर्ज बनाता है। सावधान मालिक जो कुछ कर सकता था, उसने सब किया है। फिर वह उसे किसानों को पट्टे पर देकर दूसरे देश चला जाता है। चित्र एक उदार उपहार का है, एक अच्छी तरह तैयार की गई जगह जो मज़दूरों के हाथों में सौंपी गई है, और मालिक को उन पर विश्वास है कि वे उसकी देखभाल करेंगे।\n\nजब फल का मौसम पास आता है, वह अपने सेवकों को अपना हिस्सा लेने भेजता है। पर किसान सेवकों को पकड़ लेते हैं। वे एक को पीटते हैं, दूसरे को मार डालते हैं और तीसरे पर पत्थर फेंकते हैं। मालिक, सहनशीलता की हद तक धैर्यवान, दूसरे सेवक भेजता है, पहले से अधिक संख्या में, और किसान उनके साथ भी वही करते हैं। यह बार-बार की दया का बार-बार की हिंसा से सामना होने की कहानी है। चित्र लगातार और अधिक अंधकारमय होता जाता है, और हर नए दूत के भेजे जाने के साथ श्रोता तनाव बढ़ता महसूस करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक जमीनमालक द्राक्षमळा लावतो, त्याभोवती कुंपण घालतो, रस काढण्याचे कुंड खणतो आणि एक बुरूज बांधतो. एक काळजीवाहू मालक जे काही करू शकतो ते सर्व त्याने केले आहे. मग तो तो शेतकर्यांना भाडेपट्ट्याने देतो आणि दुसर्या देशात निघून जातो. चित्र एका उदार भेटीचे आहे, चांगल्या प्रकारे तयार केलेली जागा कामकर्यांच्या हाती दिलेली, आणि मालकाचा त्यांनी त्याची काळजी घ्यावी यावर विश्वास.\n\nफळाचा हंगाम जवळ येतो तेव्हा तो आपला हिस्सा घेण्यासाठी सेवक पाठवतो. पण कुळवाडी सेवकांना धरतात. ते एकाला मारहाण करतात, दुसर्याचा जीव घेतात आणि तिसर्यावर दगडफेक करतात. मालक, सहनशीलतेच्या मर्यादेपर्यंत धीराचा, दुसरे सेवक पाठवतो, पहिल्यापेक्षा जास्त संख्येने, आणि कुळवाडी त्यांच्याशीही तसेच वागतात. ही वारंवार दाखवलेल्या दयेची वारंवार हिंसेने भेट होण्याची कहानी आहे. चित्र सतत अधिक काळे होत जाते, आणि प्रत्येक नवा दूत पाठवला जाताना श्रोते तणाव वाढत असल्याचे जाणवतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The son",
+    "hi": {
+     "text": "बेटा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मुलगा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At last the owner sends his son, saying, They will respect my son. The reader sees at once that this is a hope that has little ground, but the father is still hoping. The Gospel does not suggest that he is foolish, only that his trust in his own family goes beyond what the circumstances warrant.\n\nThe tenants see the son coming and say to each other, This is the heir. Come, let's kill him and take his inheritance. They throw him out of the vineyard and kill him. It is a chilling turn. Then Jesus asks his listeners what the owner will do when he comes, and the priests and elders themselves answer that he will put those wretched men to a bad end and lease the vineyard to other farmers, who will give him the fruit in its season.",
+    "hi": {
+     "text": "अंत में मालिक अपने बेटे को भेजता है, यह कहते हुए, वे मेरे बेटे का आदर करेंगे। पाठक तुरंत देख लेता है कि यह एक ऐसी आशा है जिसकी ज़मीन कमज़ोर है, पर पिता फिर भी आशा रखता है। शुभवर्तमान यह नहीं बताता कि वह मूर्ख है; बस उसका अपने परिवार पर भरोसा परिस्थितियों से अधिक है।\n\nकिसान बेटे को आते देखते हैं और आपस में कहते हैं, यह वारिस है। आओ, हम इसे मार डालें और इसकी विरासत ले लें। वे उसे दाख की बारी से बाहर फेंककर मार डालते हैं। यह एक ठंडा कर देने वाला मोड़ है। फिर यीशु अपने श्रोताओं से पूछते हैं कि मालिक जब आएगा तो क्या करेगा, और प्रधान याजक और प्राचीन स्वयं उत्तर देते हैं कि वह उन दुष्ट लोगों का बुरा अंत करेगा और दाख की बारी दूसरे किसानों को पट्टे पर दे देगा, जो मौसम आने पर उसे फल देंगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटी मालक आपल्या मुलाला पाठवतो, म्हणतो, ते माझ्या मुलाचा मान राखतील. वाचकाला लगेच दिसते की ही आशा फारशा आधारावर उभी नाही, पण वडील तरीही आशा ठेवतात. शुभवर्तमान सुचवत नाही की तो मूर्ख आहे; फक्त त्याचा स्वतःच्या कुटुंबावरचा विश्वास परिस्थितीपेक्षा अधिक आहे.\n\nकुळवाडी मुलाला येताना पाहतात आणि आपसात म्हणतात, हा वारस आहे. चला, याला मारून टाकू आणि याचे वतन आपलेसे करू. ते त्याला द्राक्षमळ्याबाहेर लोटून मारतात. हा थंड करणारा वळण आहे. मग यीशू श्रोत्यांना विचारतात की धनी येईल तेव्हा काय करेल, आणि मुख्य याजक आणि वडीलजन स्वतःच उत्तर देतात की तो त्या दुष्ट माणसांचा वाईट अंत करेल आणि द्राक्षमळा दुसर्या शेतकर्यांना भाडेपट्ट्याने देईल, जे हंगामात त्याला फळ देतील.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The stone the builders rejected",
+    "hi": {
+     "text": "वह पत्थर जिसे राजमिस्त्रियों ने ठुकराया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्या दगडाला बांधकाम करणार्यांनी नाकारले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus then quotes a line from the Psalms about the stone that the builders rejected, which became the head of the corner. He says that the Kingdom of God will be taken from those who are not bearing fruit and given to a people who will produce it. The Gospel says that the chief priests and Pharisees realised he was speaking about them.\n\nChristians have long read the son as Jesus himself, and the story as a foreshadowing of his death. It is important to read it with care. The parable is addressed to particular leaders in Jerusalem, within Jesus's own Jewish community, and not to the Jewish people as a whole. The Gospel itself notes that the crowds considered him a prophet, and Christian history has too often misused this passage against Jews, which it was never meant to justify.",
+    "hi": {
+     "text": "फिर यीशु भजनों से उस पत्थर की पंक्ति उद्धृत करते हैं जिसे राजमिस्त्रियों ने ठुकराया, और वही कोने का मुख्य पत्थर बन गया। वे कहते हैं कि परमेश्वर का राज्य उनसे छीन लिया जाएगा जो फल नहीं ला रहे, और उस जाति को दिया जाएगा जो उसे उत्पन्न करेगी। शुभवर्तमान कहता है कि प्रधान याजकों और फरीसियों को समझ आया कि वे उन्हीं के बारे में बोल रहे हैं।\n\nईसाइयों ने लंबे समय से बेटे को स्वयं यीशु और इस कहानी को उनकी मृत्यु का पूर्वसंकेत पढ़ा है। इसे सावधानी से पढ़ना ज़रूरी है। यह दृष्टांत यरूशलेम के कुछ विशेष अगुवों को संबोधित है, यीशु के अपने यहूदी समुदाय के भीतर, न कि पूरे यहूदी लोगों को। सुसमाचार स्वयं नोट करता है कि भीड़ उन्हें एक भविष्यवक्ता मानती थी, और ईसाई इतिहास ने अक्सर इस अंश का दुरुपयोग यहूदियों के विरुद्ध किया है, जिसे यह कभी उचित ठहराने के लिए नहीं था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग यीशू स्तोत्रांमधील त्या दगडाची ओळ उद्धृत करतात जो बांधकाम करणार्यांनी नाकारला, आणि जो कोपर्याचा मुख्य दगड बनला. ते म्हणतात की देवाचे राज्य जे फळ देत नाहीत त्यांच्यापासून काढून घेतले जाईल, आणि जे फळ आणतील अशा राष्ट्राला दिले जाईल. शुभवर्तमान सांगते की मुख्य याजक आणि परुशांना लक्षात आले की ते त्यांच्याविषयीच बोलत आहेत.\n\nख्रिस्ती लोकांनी दीर्घकाळ पुत्राला स्वतः यीशू आणि ही कथा त्यांच्या मृत्यूचे पूर्वसूचक म्हणून वाचले आहे. हे काळजीपूर्वक वाचणे महत्त्वाचे आहे. हा दृष्टांत यरूशलेममधील काही विशिष्ट पुढार्यांना उद्देशून आहे, यीशूच्या स्वतःच्या यहूदी समाजात, संपूर्ण यहूदी लोकांना नाही. शुभवर्तमान स्वतः नोंदवते की जमाव त्यांना संदेष्टा मानत होता, आणि ख्रिस्ती इतिहासात या उतार्याचा यहूद्यांविरुद्ध अनेकदा गैरवापर झाला आहे, जो तो कधीही समर्थन करण्यासाठी नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Fruit is the question",
+    "hi": {
+     "text": "फल ही प्रश्न है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फळ हाच प्रश्न आहे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Strip away the history and the story asks a question that anyone can hear, about trust and responsibility. We are all, in some sense, tenants of things we did not make, such as land, families, communities and time itself. The owner of the vineyard asks only for the fruit, and the tenants find that they would rather keep it.\n\nThe parable invites a careful look at how we hold what has been given to us. Do we treat our gifts and positions as ours by right, and resent every reminder that they came from somewhere else? Or can we receive each messenger who asks us to account for what we have done, even the ones whose message we would prefer not to hear, and answer them honestly? It is a question for those who lead as much as for those who follow, and it deserves a thoughtful reply.",
+    "hi": {
+     "text": "इतिहास को हटा दें तो कहानी एक ऐसा प्रश्न पूछती है जो कोई भी सुन सकता है, भरोसे और ज़िम्मेदारी के बारे में। हम किसी न किसी अर्थ में उन चीज़ों के किरायेदार हैं जो हमने नहीं बनाईं, जैसे भूमि, परिवार, समुदाय और स्वयं समय। दाख की बारी का मालिक केवल फल माँगता है, और किसान पाते हैं कि वे उसे अपने पास रखना चाहते हैं।\n\nयह दृष्टांत इस पर सावधानी से सोचने का आमंत्रण देता है कि हम अपने को सौंपी गई चीज़ों को कैसे थामते हैं। क्या हम अपने उपहारों और पदों को अधिकार से अपना मानते हैं, और इस बात पर नाराज़ होते हैं कि वे कहीं और से आए थे? या क्या हम हर उस दूत को स्वीकार कर सकते हैं जो हमसे पूछता है कि हमने क्या किया है, चाहे उसका संदेश हम सुनना न चाहते हों, और ईमानदारी से उत्तर दे सकते हैं? यह प्रश्न जितना उनके लिए है जो नेतृत्व करते हैं, उतना ही उनके लिए है जो अनुसरण करते हैं, और इसका एक विचारशील उत्तर मिलना चाहिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इतिहास बाजूला ठेवला तर ही कथा असा प्रश्न विचारते जो कोणीही ऐकू शकतो, विश्वास आणि जबाबदारीबद्दल. आपण सर्व काही अर्थाने आपण न बनवलेल्या गोष्टींचे भाडेकरू आहोत, जसे जमीन, कुटुंबे, समाज आणि स्वतः काळ. द्राक्षमळ्याचा मालक फक्त फळ मागतो, आणि कुळवाडी त्यांना ते स्वतःकडे ठेवायचे असल्याचे पाहतात.\n\nहा दृष्टांत आपल्याला आपल्याकडे सोपवलेल्या गोष्टी आपण कशा धरतो यावर काळजीपूर्वक नजर टाकायला आमंत्रित करतो. आपण आपल्या देणग्यांना आणि पदांना हक्काने आपले मानतो का, आणि इतरत्र कुठून आलेल्या प्रत्येक आठवणीचा राग करतो का? की प्रत्येक दूताचे स्वागत करू शकतो जो आपल्याला आपण काय केले याचा हिशोब मागतो, जरी त्याचा संदेश ऐकणे आपल्याला आवडत नसले, आणि प्रामाणिकपणे उत्तर देऊ शकतो? हा प्रश्न जितका नेतृत्व करणार्यांसाठी आहे तितकाच अनुसरण करणार्यांसाठी आहे, आणि त्याला विचारपूर्वक उत्तर मिळायला हवे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "But afterward he sent to them his son, saying, ‘They will respect my son.’",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 21:37 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 21:37 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 21:37 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "After many refusals, the owner makes one last, costly appeal in the hope that his son will be respected.",
+   "hi": {
+    "text": "कई इनकारों के बाद मालिक एक आखिरी, महँगी अपील करता है, इस आशा में कि उसके बेटे का आदर होगा।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अनेक नकारांनंतर धनी एक शेवटचे, महागडे आवाहन करतो, या आशेने की त्याच्या मुलाचा आदर होईल.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What have you been given to look after, such as a gift, a role or a relationship? Are you tending it as something entrusted to you, or treating it as simply yours?",
+  "hi": {
+   "text": "तुम्हें किस चीज़ की देखभाल करने को दिया गया है, जैसे कोई उपहार, कोई भूमिका या कोई रिश्ता? क्या तुम उसे अपने को सौंपी गई अमानत की तरह सँभाल रहे हो, या केवल अपनी मानकर बरत रहे हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्हाला कशाची काळजी घेण्यासाठी सोपवले गेले आहे, जसे एखादी देणगी, भूमिका किंवा नाते? तुम्ही ते तुमच्याकडे सोपवलेली अमानत म्हणून जपत आहात, की फक्त स्वतःचे म्हणून वागवत आहात?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "What we hold has been entrusted to us, and we are asked for its fruit; we are free to answer honestly, and wise to listen to those who ask.",
+  "hi": {
+   "text": "जो हमारे पास है वह हमें सौंपा गया है, और हमसे उसका फल माँगा जाता है; हम ईमानदारी से उत्तर देने के लिए स्वतंत्र हैं, और जो पूछते हैं उन्हें सुनना बुद्धिमानी है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जे आपल्याजवळ आहे ते आपल्याकडे सोपवलेले आहे, आणि त्याचे फळ आपल्याकडून मागितले जाते; प्रामाणिकपणे उत्तर देण्यास आपण मोकळे आहोत, आणि जे विचारतात त्यांचे ऐकणे शहाणपणाचे आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 21:33-46; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 21:33-46 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 21:33-46 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

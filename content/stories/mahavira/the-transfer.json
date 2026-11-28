@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-transfer",
+ "order": 2,
+ "part": "conception",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Transfer",
+  "hi": {
+   "text": "गर्भ-परिवर्तन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गर्भसंक्रमण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In the Svetambara account, the king of the gods notices where Mahavira's soul has come to rest and sends a messenger to move the embryo to a royal household.",
+  "hi": {
+   "text": "श्वेतांबर वृत्तांत में देवों का राजा देखता है कि महावीर की आत्मा कहाँ ठहरी है, और गर्भ को एक राजपरिवार में ले जाने के लिए एक दूत भेजता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्वेतांबर वृत्तांतात देवांचा राजा पाहतो की महावीरांचा आत्मा कुठे विसावला आहे, आणि गर्भाला एका राजघराण्यात नेण्यासाठी एक दूत पाठवतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-transfer.webp",
+   "w": 1200,
+   "h": 533,
+   "caption": {
+    "en": "Harinegameshin moves the embryo, Kalpa Sutra miniature (Cleveland)",
+    "hi": {
+     "text": "हरिनैगमेषी गर्भ को स्थानांतरित करते हैं, कल्पसूत्र का लघुचित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हरिणैगमेषी गर्भ हलवतात, कल्पसूत्र लघुचित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Unknown_artist_-_Kalpa-sutra_Manuscript_with_24_Miniatures,_Harinegamesin_Moves_the_Embryo_-_1932.119.5_-_Cleveland_Museum_of_Art.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Shakra on his throne",
+    "hi": {
+     "text": "सौधर्म पर शक्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सौधर्मावर शक्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the heaven called Saudharma sat Shakra, chief of the gods, in the hall named Sudharman. The Kalpa Sutra describes him at length: bearer of the thunderbolt, rider of the elephant Airavata, dressed in spotless robes, his earrings trembling against his cheeks, surrounded by queens, armies and the music of lutes and drums.\n\nWith his far-reaching divine sight he looked over the whole continent and saw something that made him rise at once from his throne. In Kundagrama, in the womb of the Brahmin lady Devananda, lay the last Tirthankara. The text says he descended from his footstool, took off his jewelled shoes, advanced seven or eight steps toward the unborn teacher, knelt and touched the ground with his head three times. Then he recited a long hymn of reverence to the Arhats, the givers of safety and sight and the road, the lights of the world, and sat down again facing east.",
+    "hi": {
+     "text": "सौधर्म नामक स्वर्ग में, सुधर्मा नामक सभा-भवन में, देवराज शक्र विराजमान थे। कल्पसूत्र उनका विस्तार से वर्णन करता है: वज्र धारण करने वाले, ऐरावत हाथी पर सवार, निर्मल वस्त्र पहने, कपोलों तक झूलते कुंडल, रानियों, सेनाओं और वीणा तथा मृदंग के संगीत से घिरे हुए।\n\nअपनी दूरगामी दिव्य दृष्टि से उन्होंने पूरे द्वीप को देखा और एक ऐसी बात देखी जिसने उन्हें तुरंत सिंहासन से उठा दिया। कुंडग्राम में, ब्राह्मणी देवानंदा की कोख में अंतिम तीर्थंकर थे। पाठ कहता है कि वे पादपीठ से उतरे, अपने रत्नजड़ित जूते उतारे, अजन्मे शिक्षक की ओर सात-आठ कदम बढ़े, घुटनों के बल झुके और तीन बार सिर से भूमि छुई। फिर उन्होंने अर्हतों की स्तुति में एक लंबा स्तोत्र पढ़ा, जो सुरक्षा, दृष्टि और मार्ग देते हैं, जो संसार के प्रकाश हैं, और पूर्व की ओर मुख करके फिर बैठ गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सौधर्म नावाच्या स्वर्गात, सुधर्मा नावाच्या सभागृहात देवराज शक्र विराजमान होते. कल्पसूत्र त्यांचे सविस्तर वर्णन करते: वज्र धारण करणारे, ऐरावत हत्तीवर स्वार, निर्मळ वस्त्रे नेसलेले, गालांपर्यंत झुलणारे कुंडल, राण्या, सेना आणि वीणा व मृदंगाच्या संगीताने वेढलेले.\n\nआपल्या दूरदर्शी दिव्य दृष्टीने त्यांनी संपूर्ण जंबूद्वीपाकडे पाहिले, आणि अशी एक गोष्ट पाहिली की ते लगेच सिंहासनावरून उठले. कुंडग्रामात, ब्राह्मणी देवानंदेच्या उदरात अंतिम तीर्थंकर होते. पाठ सांगतो की ते पादपीठावरून उतरले, आपले रत्नजडित पादत्राणे काढली, त्या अजन्मा गुरूकडे सात-आठ पावले चालत गेले, गुडघे टेकून बसले आणि तीन वेळा मस्तक भूमीला लावले. मग त्यांनी अर्हतांची, जे संरक्षण, दृष्टी आणि मार्ग देतात, जे जगाचे प्रकाश आहेत, त्यांची स्तुती करणारे एक दीर्घ स्तोत्र म्हटले, आणि पूर्वेकडे तोंड करून पुन्हा बसले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A thought about birth",
+    "hi": {
+     "text": "जन्म के विषय में एक विचार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जन्माबद्दलचा एक विचार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "As he sat, a reflection came to Shakra. The sutra states it as a settled rule of the universe: Arhats, universal emperors and the other great figures of each age are never born into poor, low or mendicant families, nor into Brahmin ones. They are born into high, noble, royal lines.\n\nThen comes an unusual admission. Over the endless turning of the world's ages, the text says, it does happen, as a wonder, that such a being takes the form of an embryo in a family outside that rule. This is because of the force of karma connected with name and family, which no one can destroy. Such a being, however, is never actually brought out by birth from such a womb. The custom of every Shakra, past, present and future, is to have the embryo moved to a noble family. Mahavira's karma had set him in a Brahmin home first, and Shakra's duty was to set it right.",
+    "hi": {
+     "text": "बैठे-बैठे शक्र के मन में एक विचार आया। सूत्र इसे विश्व का एक निश्चित नियम बताता है: अर्हत, चक्रवर्ती सम्राट और हर युग के अन्य महान व्यक्ति कभी दरिद्र, नीच या भिक्षुक कुलों में, और न ही ब्राह्मण कुलों में जन्म लेते हैं। वे उच्च, श्रेष्ठ और राजसी वंशों में जन्म लेते हैं।\n\nफिर एक असामान्य स्वीकार आता है। जगत के अनंत युगों के चक्र में, पाठ कहता है, ऐसा होता है, एक चमत्कार के रूप में, कि ऐसा प्राणी उस नियम से भिन्न परिवार में गर्भ का रूप लेता है। यह नाम और कुल से जुड़े कर्म के बल के कारण होता है, जिसे कोई नष्ट नहीं कर सकता। फिर भी ऐसा प्राणी उस गर्भ से जन्म द्वारा कभी वास्तव में बाहर नहीं आता। हर शक्र का, भूत, वर्तमान और भविष्य का, यह नियम है कि गर्भ को एक श्रेष्ठ कुल में ले जाया जाए। महावीर के कर्म ने उन्हें पहले एक ब्राह्मण घर में रखा था, और शक्र का कर्तव्य था इसे सुधारना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बसल्या बसल्या शक्रांच्या मनात एक विचार आला. सूत्र याला विश्वाचा एक निश्चित नियम म्हणते: अर्हत, चक्रवर्ती सम्राट आणि प्रत्येक युगातील इतर महान पुरुष कधीही दरिद्री, हीन किंवा भिक्षुक कुळांत जन्मत नाहीत, आणि ब्राह्मण कुळांतही नाही. ते उच्च, श्रेष्ठ आणि राजेशाही वंशांत जन्म घेतात.\n\nमग एक असामान्य कबुली येते. जगाच्या अनंत युगांच्या चक्रात, पाठ सांगतो, असे घडते, एक चमत्कार म्हणून, की असा प्राणी त्या नियमापेक्षा वेगळ्या कुळात गर्भाचे रूप घेतो. हे नाव आणि कुळाशी जोडलेल्या कर्माच्या बळामुळे होते, जे कोणीही नष्ट करू शकत नाही. तरीही असा प्राणी त्या गर्भातून जन्माने कधीच खऱ्या अर्थाने बाहेर येत नाही. प्रत्येक शक्राचा, भूत, वर्तमान आणि भविष्य, नियम हा आहे की गर्भाला श्रेष्ठ कुळात नेले जावे. महावीरांच्या कर्माने त्यांना आधी एका ब्राह्मण घरात ठेवले होते, आणि ते सुधारणे हे शक्राचे कर्तव्य होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Harinegameshin sets out",
+    "hi": {
+     "text": "हरिनैगमेषी निकलते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हरिनैगमेषी निघतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shakra called Harinegameshin, the divine commander of his foot soldiers, and gave him the task: take the Venerable One from the Brahmin quarter of Kundagrama and place him in the womb of Trishala, the Kshatriya queen of King Siddhartha, wife of a noble of the Jnatri clan. And place the embryo that Trishala carries into Devananda's womb.\n\nHarinegameshin bowed and set out. Later pictures in Jain art show him with the head of an antelope, a detail Jacobi noted in his translation. He crossed countless continents and oceans with divine swiftness and arrived at the Brahmin's house. The sutra says he first bowed to the Venerable One, and then cast Devananda and her attendants into a deep sleep so that nothing would disturb them. He removed what was unclean and brought forward what was pure, and asked the soul's permission before he began.",
+    "hi": {
+     "text": "शक्र ने हरिनैगमेषी को बुलाया, जो उनकी पैदल सेना के दिव्य सेनापति थे, और उन्हें यह कार्य सौंपा: पूज्य भगवान को कुंडग्राम के ब्राह्मण मोहल्ले से उठाकर रानी त्रिशला के गर्भ में रखो, जो राजा सिद्धार्थ की क्षत्रिय रानी और ज्ञातृ कुल के एक सामंत की पत्नी हैं। और जो गर्भ त्रिशला धारण कर रही है, उसे देवानंदा के गर्भ में रखो।\n\nहरिनैगमेषी ने झुककर प्रस्थान किया। बाद के जैन कला-चित्रों में उन्हें मृग के सिर के साथ दिखाया गया है, एक ऐसा विवरण जिसे याकोबी ने अपने अनुवाद में नोट किया। उन्होंने दिव्य वेग से अनगिनत महाद्वीप और समुद्र पार किए और ब्राह्मण के घर पहुँचे। सूत्र कहता है कि उन्होंने पहले पूज्य भगवान को प्रणाम किया, फिर देवानंदा और उनकी दासियों को गहरी नींद में सुला दिया ताकि कुछ भी उन्हें विचलित न करे। उन्होंने जो अशुद्ध था उसे हटाया और जो शुद्ध था उसे आगे रखा, और आरंभ करने से पहले आत्मा से अनुमति माँगी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शक्रांनी हरिनैगमेषीला बोलावले, जो त्यांच्या पायदळाचा दिव्य सेनापती होता, आणि त्याला हे काम दिले: पूज्य भगवानांना कुंडग्रामातील ब्राह्मण मोहल्ल्यातून उचलून राणी त्रिशलेच्या गर्भात ठेव, जी राजा सिद्धार्थांची क्षत्रिय राणी आणि ज्ञातृ कुळातील एका सरदाराची पत्नी आहे. आणि त्रिशलेने धारण केलेला गर्भ देवानंदेच्या उदरात ठेव.\n\nहरिनैगमेषी नमस्कार करून निघाला. नंतरच्या जैन कलेतील चित्रांत त्याला हरणाचे मस्तक असलेला दाखवले आहे, हा तपशील याकोबींनी आपल्या अनुवादात नोंदवला आहे. त्याने दिव्य वेगाने असंख्य खंडे आणि समुद्र ओलांडले आणि ब्राह्मणाच्या घरी पोहोचला. सूत्र सांगते की त्याने प्रथम पूज्य भगवानांना वंदन केले, मग देवानंदा आणि तिच्या दासींना गाढ झोपेत टाकले, जेणेकरून काहीही त्यांना त्रास देऊ नये. त्याने जे अशुद्ध होते ते दूर केले आणि जे शुद्ध होते ते पुढे आणले, आणि सुरुवात करण्यापूर्वी आत्म्याकडून परवानगी मागितली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Carried without being hurt",
+    "hi": {
+     "text": "बिना चोट के उठाया गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इजा न होता उचलला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Taking the embryo into the hollow of his folded hands, the sutra says, he carried it without hurting it to the Kshatriya part of town, to the house of King Siddhartha, where Queen Trishala lay with her attendants asleep. He placed the embryo of Mahavira in her womb and the embryo of Trishala in Devananda's.\n\nThe date is given exactly. It happened on the thirteenth day of the dark half of Ashvina, eighty-two days having passed and the eighty-third running, in the middle of the night, under Uttaraphalguni. The knowledge of the Venerable One was again threefold: he knew he was to be moved, he knew he had been moved, he did not know the moment it was being done. Elsewhere in the sutra, Devananda wakes that same night and sees her fourteen dreams passing from her. The text records the fact and says no more of her feelings.",
+    "hi": {
+     "text": "गर्भ को अपनी मुड़ी हुई हथेलियों की अंजलि में रखकर, सूत्र कहता है, वे उसे बिना चोट पहुँचाए क्षत्रिय मोहल्ले में ले गए, राजा सिद्धार्थ के भवन में, जहाँ रानी त्रिशला अपनी सेविकाओं सहित सो रही थीं। उन्होंने महावीर का गर्भ उनके उदर में रखा और त्रिशला का गर्भ देवानंदा के उदर में।\n\nतिथि भी सटीक दी गई है। यह आश्विन कृष्ण पक्ष की त्रयोदशी को हुआ, जब बयासी दिन बीत चुके थे और तिरासीवाँ चल रहा था, मध्यरात्रि में, उत्तराफाल्गुनी नक्षत्र के नीचे। पूज्य भगवान का ज्ञान फिर त्रिविध था: वे जानते थे कि उन्हें हटाया जाना है, वे जानते थे कि उन्हें हटाया जा चुका है, और वे नहीं जानते थे कि यह किस क्षण हो रहा है। सूत्र में अन्यत्र, देवानंदा उसी रात जागती है और अपने चौदह स्वप्नों को अपने से दूर जाते देखती है। पाठ यह तथ्य दर्ज करता है और उनकी भावनाओं पर इससे अधिक कुछ नहीं कहता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गर्भाला आपल्या घडी घातलेल्या तळहातांच्या ओंजळीत धरून, सूत्र सांगते, त्याने तो कोणत्याही इजेविना क्षत्रिय मोहल्ल्यात, राजा सिद्धार्थांच्या महालात नेला, जिथे राणी त्रिशला आपल्या दासींसह झोपल्या होत्या. त्याने महावीरांचा गर्भ त्यांच्या उदरात ठेवला आणि त्रिशलेचा गर्भ देवानंदेच्या उदरात.\n\nतारीखही अचूक दिली आहे. ते आश्विन कृष्ण त्रयोदशीला घडले, जेव्हा ब्याऐंशी दिवस उलटले होते आणि त्र्याऐंशीवा चालू होता, मध्यरात्री, उत्तराफाल्गुनी नक्षत्राखाली. पूज्य भगवानांचे ज्ञान पुन्हा त्रिविध होते: त्यांना माहीत होते की त्यांना हलवले जाणार आहे, त्यांना माहीत होते की त्यांना हलवले गेले आहे, आणि ते क्षण कोणता आहे हे त्यांना माहीत नव्हते. सूत्राच्या अन्य भागात, त्याच रात्री देवानंदा जागी होते आणि आपली चौदा स्वप्ने आपल्यापासून दूर जाताना पाहते. पाठ ही वस्तुस्थिती नोंदवतो आणि त्यांच्या भावनांविषयी त्यापेक्षा अधिक काही सांगत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two traditions, one story",
+    "hi": {
+     "text": "दो परंपराएँ, एक कथा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन परंपरा, एक कथा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The transfer is one of the most discussed episodes in the Jain accounts. In the Svetambara tradition, which follows the Kalpa Sutra, it is a settled part of Mahavira's life and is celebrated as the second of his five auspicious moments. The Digambara tradition does not accept it. In the Digambara account Trishala bears him from the very beginning, and the soul never rests in Devananda's womb.\n\nThe Kalpa Sutra's own explanation is not a social one about caste. It is about karma, which the text treats as a force strong enough to reach even a Tirthankara's name and family, and also about order: the universe keeps its customs even when karma bends them. Whichever account a Jain reader follows, the destination is the same. The child will be born in the household of Siddhartha and Trishala in Kshatriyakunda, in the clan of the Jnatris.",
+    "hi": {
+     "text": "गर्भ-परिवर्तन जैन वृत्तांतों के सबसे अधिक चर्चित प्रसंगों में से एक है। श्वेतांबर परंपरा में, जो कल्पसूत्र का अनुसरण करती है, यह महावीर के जीवन का एक सुस्थापित अंग है, और उनके पाँच शुभ क्षणों में दूसरे के रूप में मनाया जाता है। दिगंबर परंपरा इसे स्वीकार नहीं करती। उसके वृत्तांत में त्रिशला आरंभ से ही उन्हें गर्भ में धारण करती हैं, और आत्मा कभी देवानंदा के उदर में नहीं ठहरती।\n\nकल्पसूत्र की अपनी व्याख्या जाति के विषय में सामाजिक नहीं है। वह कर्म के विषय में है, जिसे पाठ इतना शक्तिशाली बल मानता है कि वह तीर्थंकर के नाम और कुल तक पहुँच सकता है, और व्यवस्था के विषय में भी: ब्रह्मांड अपनी रीतियाँ तब भी निभाता है जब कर्म उन्हें मोड़ता है। जैन पाठक जिस भी वृत्तांत को माने, गंतव्य वही रहता है। बालक क्षत्रियकुंड में, ज्ञातृ कुल में, सिद्धार्थ और त्रिशला के परिवार में जन्म लेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गर्भसंक्रमण हा जैन वृत्तांतांतील सर्वाधिक चर्चिल्या गेलेल्या प्रसंगांपैकी एक आहे. कल्पसूत्राचे अनुसरण करणाऱ्या श्वेतांबर परंपरेत तो महावीरांच्या जीवनाचा सुस्थापित भाग आहे, आणि त्यांच्या पाच शुभ क्षणांपैकी दुसरा म्हणून साजरा केला जातो. दिगंबर परंपरा तो मान्य करत नाही. तिच्या वृत्तांतात त्रिशला सुरुवातीपासूनच त्यांना गर्भात धारण करतात, आणि आत्मा देवानंदेच्या उदरात कधीच विसावत नाही.\n\nकल्पसूत्राची स्वतःची स्पष्टीकरणे जातीविषयी सामाजिक नाहीत. ती कर्माविषयी आहेत, जे पाठ इतके शक्तिशाली बल मानतो की ते तीर्थंकरांच्या नाव आणि कुळापर्यंतही पोहोचू शकते, आणि व्यवस्थेविषयीही: कर्म जरी रीतींना वाकवत असले तरी विश्व आपल्या रीती पाळत राहते. जैन वाचक जो भी वृत्तांत धरो, गंतव्य तेच राहते. बालक क्षत्रियकुंडात, ज्ञातृ कुळात, सिद्धार्थ आणि त्रिशला यांच्या घराण्यात जन्म घेईल.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "he knew that he was to be removed; he knew that he was removed; he knew not when he was being removed.",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §29 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §29 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §29 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "As at the descent, Mahavira knew the transfer was coming and had come, but not the moment it happened.",
+   "hi": {
+    "text": "अवतरण की तरह, महावीर जानते थे कि गर्भ-परिवर्तन होने वाला है और हो चुका है, परंतु वह क्षण कब आया, यह नहीं जानते थे।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अवतरणाप्रमाणेच, महावीरांना माहीत होते की गर्भसंक्रमण होणार आहे आणि झाले आहे, पण ते नेमके कधी घडत आहे हे माहीत नव्हते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Is there a change in your own life that you did not choose but that put you where you needed to be?",
+  "hi": {
+   "text": "क्या तुम्हारे जीवन में कोई ऐसा परिवर्तन है जिसे तुमने नहीं चुना, फिर भी उसने तुम्हें वहाँ पहुँचाया जहाँ तुम्हें होना था?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझ्या आयुष्यात असा कोणता बदल आहे जो तू निवडला नाहीस, पण ज्याने तुला तिथे नेले जिथे तू असायला हवा होतास?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "In this tradition even karma has its order, and the course of a great life is set right by quiet, unseen hands.",
+  "hi": {
+   "text": "इस परंपरा में कर्म का भी अपना क्रम है, और किसी महान जीवन का मार्ग शांत, अदृश्य हाथों से ठीक किया जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "या परंपरेत कर्मालाही स्वतःचा क्रम आहे, आणि एका महान जीवनाचा मार्ग शांत, अदृश्य हातांनी दुरुस्त केला जातो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§14–32; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§14–32; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§14–32; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

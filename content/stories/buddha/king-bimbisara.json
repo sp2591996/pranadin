@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "king-bimbisara",
+ "order": 10,
+ "part": "renunciation",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "King Bimbisara",
+  "hi": {
+   "text": "राजा बिंबिसार",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजा बिंबिसार",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A mendicant in a red robe walks through the capital of Magadha, and the king himself climbs a mountain to make him an offer.",
+  "hi": {
+   "text": "लाल वस्त्र धारण किया एक भिक्षु मगध की राजधानी में घूमता है, और स्वयं राजा पर्वत पर चढ़कर उसे एक प्रस्ताव देने आता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लाल वस्त्र घातलेला एक भिक्षू मगधच्या राजधानीतून फिरतो, आणि स्वतः राजा डोंगरावर चढून त्याला एक प्रस्ताव देण्यासाठी येतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-bimbisara.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Carvings at the Dhauli Shanti Stupa, Odisha",
+    "hi": {
+     "text": "धौली शांति स्तूप की नक्काशी, ओडिशा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धौली शांती स्तूपावरील कोरीवकाम, ओडिशा",
+     "reviewed": false
+    }
+   },
+   "credit": "User:Tinucherian, CC BY 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dhauli_Shanti_Stupa_carvings2.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The city of five hills",
+    "hi": {
+     "text": "पाँच पहाड़ियों का नगर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाच टेकड्यांचे नगर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After he had sent the minister and the priest home, the prince crossed the Ganges with its quick waves and came to Rajagriha, the city among five hills, with its fine palaces and its hallowed bathing places. News of his majesty, strength and beauty had gone before him, and the people were amazed as if some god with an unshakeable vow were walking among them.\n\nAshvaghosha describes how a whole city stopped. Whoever was going elsewhere stood still, whoever was standing followed him, whoever was walking gravely began to run, and whoever was sitting sprang up. Some saluted him with their hands, some bowed their heads, and some spoke kind words, and not one passed on without paying respect. Those wearing bright clothes felt ashamed, and those chatting fell silent. Nobody had an improper thought, as though Religion herself were walking down the road.",
+    "hi": {
+     "text": "मंत्री और पुरोहित को विदा करने के बाद राजकुमार वेगवती धाराओं वाली गंगा पार करके राजगृह आया, जो पाँच पहाड़ियों के बीच बसा नगर था, जिसके सुंदर महल और पवित्र स्नानघाट थे। उसकी शक्ति, तेज और सौंदर्य की ख्याति उससे पहले पहुँच चुकी थी, और लोग इस तरह विस्मित थे मानो कोई अटल व्रत वाला देवता उनके बीच घूम रहा हो।\n\nअश्वघोष बताते हैं कि पूरा नगर कैसे ठहर गया। जो कहीं और जा रहा था, वह रुक गया, जो खड़ा था वह उसके पीछे चलने लगा, जो गंभीरता से चल रहा था वह दौड़ने लगा, और जो बैठा था वह उठ खड़ा हुआ। कुछ ने हाथ जोड़कर अभिवादन किया, कुछ ने सिर झुकाया, कुछ ने मधुर वचन कहे, और कोई भी बिना सम्मान दिखाए आगे नहीं बढ़ा। चमकीले वस्त्र पहने लोग लज्जित हुए, और बातें करते लोग चुप हो गए। किसी के मन में कोई अनुचित विचार नहीं आया, मानो स्वयं धर्म उस मार्ग पर चल रहा हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मंत्री आणि पुरोहिताला परत पाठवल्यावर राजपुत्र वेगवान प्रवाहांच्या गंगेला ओलांडून राजगृहात आला, जे पाच टेकड्यांमध्ये वसलेले नगर होते, ज्यात सुंदर महाल आणि पवित्र स्नानघाट होते. त्याच्या पराक्रमाची, तेजाची आणि सौंदर्याची कीर्ती त्याच्या आधीच पोहोचली होती, आणि लोक असे विस्मित झाले जणू एखादा अढळ व्रत असलेला देव त्यांच्यामध्ये फिरत आहे.\n\nअश्वघोष सांगतात की संपूर्ण नगर कसे थांबले. जो कुठे जात होता तो थांबला, जो उभा होता तो त्याच्यामागे चालू लागला, जो गंभीरपणे चालत होता तो धावू लागला, आणि जो बसला होता तो उठून उभा राहिला. कोणी हात जोडून अभिवादन केले, कोणी मस्तक झुकवले, कोणी गोड शब्द बोलले, आणि कोणीही आदर दाखविल्याशिवाय पुढे गेले नाही. चमकदार वस्त्रे घातलेले लज्जित झाले, आणि गप्पा मारणारे शांत झाले. कोणाच्याही मनात अयोग्य विचार आला नाही, जणू धर्मच त्या वाटेवरून चालत होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Begging for his food",
+    "hi": {
+     "text": "भिक्षा माँगना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भिक्षा मागणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The prince walked with his eyes cast down, looking no further ahead than the length of a plough, his voice hushed and his pace slow and even. His marks of beauty gave him away, the circle of hair between his brows, his long eyes, his hands with a delicate web between the fingers. People remarked how strange it was that one who looked fit to rule the earth wore a mendicant's dress.\n\nHe went from door to door begging, keeping his limbs and his wandering thoughts under control. The poet says that even the goddess of the city was disturbed. When he had received what was offered, he took it out of the city to a quiet place by a waterfall, ate it there in the proper manner, and climbed the mountain called Pandava. A man followed him at a distance. The king of the country, whose palace overlooked the crowds, had asked to know where this mendicant was going.",
+    "hi": {
+     "text": "राजकुमार नीची नज़र किए चल रहा था, हल की लंबाई से आगे नहीं देखता था, उसकी आवाज़ धीमी थी और चाल संथ और समान। उसके सौंदर्य-चिह्न उसकी पहचान थे: भौंहों के बीच बालों का घेरा, उसकी लंबी आँखें, उँगलियों के बीच नाजुक जाल वाले उसके हाथ। लोग आश्चर्य करते थे कि जो पृथ्वी पर राज करने योग्य दिखता है, वह भिक्षु का वस्त्र क्यों पहने है।\n\nवह द्वार-द्वार भिक्षा माँगता रहा, अपने अंगों और भटकते विचारों को संयम में रखते हुए। कवि कहते हैं कि नगर की देवी भी विचलित हो गई। जो भिक्षा मिली उसे लेकर वह नगर से बाहर एक झरने के पास शांत स्थान पर गया, वहीं उचित विधि से भोजन किया, और पांडव नामक पर्वत पर चढ़ गया। एक व्यक्ति दूर से उसके पीछे चला। उस देश का राजा, जिसका महल भीड़ के ऊपर था, जानना चाहता था कि यह भिक्षु कहाँ जा रहा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्र खाली नजर ठेवून चालला, नांगराच्या लांबीपलीकडे पाहत नव्हता, त्याचा आवाज हळू आणि पावले संथ व समान होती. त्याची सौंदर्यचिन्हे त्याची ओळख पटवत होती: भुवयांच्या मध्ये केसांचे वलय, त्याचे लांब डोळे, बोटांमध्ये नाजूक जाळी असलेले हात. लोक आश्चर्य करत होते की पृथ्वीवर राज्य करण्यास योग्य वाटणारा माणूस भिक्षूचे वस्त्र का घालतो.\n\nतो दारोदार भिक्षा मागत फिरला, आपले अवयव आणि भटकणारे विचार आवरत. कवी सांगतात की नगराच्या देवीलाही अस्वस्थता वाटली. जे मिळाले ते घेऊन तो नगराबाहेर एका झऱ्याजवळच्या शांत जागी गेला, तिथे योग्य पद्धतीने भोजन केले, आणि पांडव नावाच्या पर्वतावर चढला. एक माणूस दुरून त्याच्या मागे गेला. त्या देशाचा राजा, ज्याचा महाल गर्दीवर उंच होता, त्याला हा भिक्षू कुठे जात आहे हे जाणून घ्यायचे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "On the mountain",
+    "hi": {
+     "text": "पर्वत पर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "डोंगरावर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Shrenya, whom the world also calls Bimbisara, had seen the crowd from his palace and asked what it meant. A man told him that this was the son of the king of the Shakyas, who had been foretold by Brahmans to become either a supreme sage or an emperor of the earth. The king ordered that it be learned where he was going. When the man reported that the mendicant had settled in a wood on Pandava mountain, the king set out himself with a small retinue.\n\nThe poet describes the sight he saw. In a wood thick with lodhra trees, where peacocks called from the thickets, the young man sat on the rock like a sun of mankind, in his red dress, as the morning sun shines above the eastern mountain. His senses were quiet. The king, filled with astonishment and affection, drew near, and the poet compares his approach to a god approaching Brahma. They exchanged the usual kind enquiries, and the king sat down on the clean rock.",
+    "hi": {
+     "text": "राजा श्रेण्य, जिसे संसार बिंबिसार भी कहता है, महल से भीड़ देख रहा था और पूछा कि यह क्या है। किसी ने बताया कि यह शाक्यों के राजा के पुत्र हैं, जिनके बारे में ब्राह्मणों ने भविष्य कहा था कि वे या तो परम ऋषि होंगे या पृथ्वी के सम्राट। राजा ने आदेश दिया कि पता लगाया जाए कि वह कहाँ जा रहा है। जब व्यक्ति ने बताया कि भिक्षु पांडव पर्वत के वन में बस गया है, तो राजा थोड़े से अनुचरों के साथ स्वयं निकल पड़ा।\n\nकवि जो दृश्य राजा ने देखा उसका वर्णन करता है। लोध्र वृक्षों से घने वन में, जहाँ झाड़ियों से मोर पुकार रहे थे, वह युवक लाल वस्त्र में पत्थर पर बैठा था, मानो मनुष्यों का सूर्य हो, जैसे पूर्वी पर्वत के ऊपर प्रभात का सूर्य चमकता है। उसकी इंद्रियाँ शांत थीं। राजा, विस्मय और स्नेह से भरकर, पास आया, और कवि उसके आने की तुलना ब्रह्मा के पास आते देवता से करते हैं। उन्होंने सामान्य कुशल-क्षेम पूछा, और राजा स्वच्छ शिला पर बैठ गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा श्रेण्य, ज्याला जग बिंबिसार म्हणते, महालातून गर्दी पाहत होता आणि त्याने विचारले की हा काय प्रकार आहे. कोणीतरी सांगितले की हा शाक्यांच्या राजाचा पुत्र आहे, ज्याच्याबद्दल ब्राह्मणांनी भविष्य सांगितले होते की तो एकतर परम ऋषी होईल किंवा पृथ्वीचा सम्राट. राजाने आदेश दिला की तो कुठे जात आहे हे शोधून काढावे. जेव्हा त्या माणसाने सांगितले की भिक्षू पांडव पर्वताच्या वनात स्थिरावला आहे, तेव्हा राजा थोड्या अनुचरांसह स्वतः निघाला.\n\nकवी राजाने पाहिलेले दृश्य वर्णन करतात. लोध्र वृक्षांनी दाट असलेल्या वनात, जिथे झाडीतून मोर ओरडत होते, तो तरुण लाल वस्त्रात दगडावर बसला होता, मनुष्यांमधील सूर्यासारखा, जसा पूर्वेकडील पर्वतावर सकाळचा सूर्य तळपतो. त्याच्या इंद्रिये शांत होती. विस्मय आणि प्रेमाने भरलेला राजा जवळ आला, आणि कवी त्याच्या जवळ येण्याची तुलना ब्रह्मदेवाजवळ जाणाऱ्या देवाशी करतात. त्यांनी नेहमीची चौकशी केली, आणि राजा स्वच्छ शिळेवर बसला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The king's offer",
+    "hi": {
+     "text": "राजा का प्रस्ताव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाचा प्रस्ताव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Bimbisara spoke from the heart. He told the prince that his family had long been a friend of his own, and that he felt a wish to speak as a father might. Whence, he asked, came this resolve, so out of keeping with everything else about him, to live as a beggar rather than a king? His limbs deserved sandalwood, not rough cloth, and his hand was made to protect subjects, not to hold food given by others.\n\nThen he made the offer. If you do not want your father's kingdom out of love for him, he said, take half of mine. If pride of race keeps you from trusting me, then let me be your ally and conquer your foes with your arrows. The king added that he was speaking out of affection, not out of any desire to rule or any fear. Seeing the mendicant's dress, he said, he was filled with compassion, and he wept.",
+    "hi": {
+     "text": "बिंबिसार ने हृदय से बात की। उसने कहा कि उसका परिवार बहुत पहले से उसके अपने परिवार का मित्र रहा है, और उसके मन में पिता की तरह बोलने की इच्छा हुई। उसने पूछा कि उसके सब गुणों से मेल न खाने वाला यह संकल्प, राजा होकर भी भिखारी जैसा जीवन जीने का, कहाँ से आया? उसके अंग चंदन के योग्य थे, कठोर वस्त्र के नहीं, और उसके हाथ प्रजा की रक्षा के लिए बने थे, दूसरों से मिला भोजन पकड़ने के लिए नहीं।\n\nफिर उसने प्रस्ताव रखा। यदि तुम अपने पिता का राज्य उनके प्रेम के कारण नहीं चाहते, उसने कहा, तो मेरा आधा राज्य ले लो। यदि वंश का अभिमान तुम्हें मुझ पर भरोसा करने से रोकता है, तो मुझे अपना मित्र बनने दो और अपने बाणों से शत्रुओं को जीतो। राजा ने जोड़ा कि वह स्नेह से बोल रहा है, न किसी शासन की इच्छा से और न किसी भय से। भिक्षु का वेश देखकर, उसने कहा, वह करुणा से भर गया है, और वह रो पड़ा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बिंबिसार मनापासून बोलला. त्याने सांगितले की त्याचे घराणे त्याच्या स्वतःच्या घराण्याशी फार पूर्वीपासून मैत्रीचे आहे, आणि वडिलांप्रमाणे बोलण्याची त्याची इच्छा झाली. त्याने विचारले की त्याच्या बाकी सर्व गुणांशी न जुळणारा हा संकल्प, राजा असूनही भिकाऱ्यासारखे जगण्याचा, कुठून आला? त्याचे अवयव चंदनास योग्य होते, खरखरीत वस्त्रास नव्हे, आणि त्याचे हात प्रजेच्या रक्षणासाठी बनले होते, इतरांनी दिलेले अन्न धरण्यासाठी नव्हे.\n\nमग त्याने प्रस्ताव मांडला. जर तू आपल्या वडिलांचे राज्य त्यांच्या प्रेमाखातर नको असशील, तो म्हणाला, तर माझे अर्धे राज्य घे. जर वंशाभिमान तुला माझ्यावर विश्वास ठेवू देत नसेल, तर मला तुझा मित्र होऊ दे आणि तुझ्या बाणांनी शत्रूंना जिंकू दे. राजाने जोडले की तो प्रेमापोटी बोलत आहे, सत्ता हवी म्हणून नव्हे, आणि भीतीमुळे नव्हे. भिक्षूचे वस्त्र पाहून, तो म्हणाला, त्याचे मन करुणेने भरून गेले, आणि तो रडू लागला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Pleasure first, religion later",
+    "hi": {
+     "text": "पहले सुख, फिर धर्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आधी सुख, मग धर्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king went on to give the oldest advice in the world. Pursue the three aims of life, he said, which are duty, wealth and pleasure, so that your beauty bears fruit. Pleasure belongs to the young, wealth to the middle-aged, and religion to the old. Youth is the enemy of religion and wealth, and pleasures are hard to hold, so let this restless time of youth pass first. The old, he said, find it easy to be unattached, almost for shame.\n\nAnd if religion really is your only aim, he said, then offer sacrifices, as your family has always done. The royal sages of old reached the same goal by sacrifice that other sages reached by self-denial, with golden bracelets on their arms and jewelled crowns on their heads. The king spoke well and with feeling, like Indra himself. The prince heard him out without wavering, firm like the mountain Kailasa with its many peaks. The canto ends there, and the reply is for the next.",
+    "hi": {
+     "text": "राजा ने संसार की सबसे पुरानी सलाह दी। तुम जीवन के तीन लक्ष्यों का पालन करो, उसने कहा, जो हैं धर्म, धन और काम, ताकि तुम्हारी सुंदरता फल दे। सुख युवाओं का है, धन प्रौढ़ों का, और धर्म वृद्धों का। यौवन धर्म और धन दोनों का शत्रु है, और सुख पकड़ में रखना कठिन है, इसलिए इस चंचल यौवन-काल को पहले बीतने दो। वृद्धों के लिए, उसने कहा, अनासक्त होना सहज है, लगभग लज्जा से।\n\nऔर यदि धर्म ही तुम्हारा एकमात्र लक्ष्य है, उसने कहा, तो यज्ञ करो, जैसा तुम्हारा वंश सदा से करता आया है। प्राचीन राजर्षियों ने यज्ञ से वही लक्ष्य पाया जो दूसरे ऋषियों ने तपस्या से पाया, उनकी भुजाओं पर स्वर्ण कंगन और सिर पर रत्नजड़ित मुकुट थे। राजा ने इंद्र के समान अच्छी और भावपूर्ण वाणी में बात की। राजकुमार ने पर्वत कैलाश की तरह अपने अनेक शिखरों सहित दृढ़ रहकर बिना डगमगाए सब सुना। सर्ग वहीं समाप्त होता है, और उत्तर अगले सर्ग के लिए है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाने जगातला सर्वात जुना सल्ला दिला. तू जीवनाच्या तीन उद्दिष्टांचे पालन कर, तो म्हणाला, ती म्हणजे धर्म, अर्थ आणि काम, म्हणजे तुझे सौंदर्य फळ देईल. सुख तरुणांचे, संपत्ती मध्यमवयीनांची, आणि धर्म वृद्धांचा. तारुण्य धर्म आणि संपत्ती या दोघांचा शत्रू आहे, आणि सुख टिकवणे कठीण आहे, म्हणून या चंचल तारुण्याला आधी जाऊ दे. वृद्धांना, तो म्हणाला, अनासक्त राहणे सोपे वाटते, जवळजवळ लाजेने.\n\nआणि जर धर्मच तुझे एकमेव ध्येय आहे, तो म्हणाला, तर यज्ञ कर, जसे तुझे घराणे नेहमी करत आले आहे. प्राचीन राजर्षींनी यज्ञाद्वारे तेच ध्येय गाठले जे इतर ऋषींनी तपाने गाठले, त्यांच्या दंडांवर सोन्याची कडी आणि डोक्यावर रत्नजडित मुकुट होते. राजाने इंद्रासारख्या चांगल्या आणि भावपूर्ण वाणीत बोलले. राजपुत्राने कैलास पर्वताप्रमाणे अनेक शिखरांसह दृढ राहून, न डगमगता सर्व ऐकून घेतले. सर्ग तिथेच संपतो, आणि उत्तर पुढच्या सर्गासाठी आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "he the sun of mankind shone, wearing his red dress, like the morning sun above the eastern mountain",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 10.15 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 10.15 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 10.15 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The poet's picture of the young renunciant seated on the mountain.",
+   "hi": {
+    "text": "पर्वत पर बैठे युवा संन्यासी का कवि द्वारा चित्रित दृश्य।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "डोंगरावर बसलेल्या तरुण संन्याशाचे कवीने काढलेले चित्र.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Has someone ever offered you something good and generous that you still had to refuse? How did you do it kindly?",
+  "hi": {
+   "text": "क्या किसी ने तुम्हें कोई अच्छा और उदार प्रस्ताव दिया है जिसे तुम्हें फिर भी ठुकराना पड़ा? तुमने यह विनम्रता से कैसे किया?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुला कधी कोणी चांगला, उदार प्रस्ताव दिला आहे का जो तरीही नाकारावा लागला? ते तू नम्रपणे कसे केलेस?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "An offer made out of real goodwill deserves a real answer, and the kindest refusal is one that does not despise what is offered.",
+  "hi": {
+   "text": "सच्ची सद्भावना से किए गए प्रस्ताव का सच्चा उत्तर मिलना चाहिए, और सबसे दयालु इनकार वह है जो दी गई चीज़ का अपमान न करे।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खऱ्या सद्भावनेने केलेल्या प्रस्तावाला खरे उत्तर मिळायला हवे, आणि सर्वात दयाळू नकार तो आहे जो दिलेल्या गोष्टीचा अपमान करत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 10; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 10; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 10; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

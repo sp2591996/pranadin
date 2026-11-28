@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "birth-of-the-blessed-one",
+ "order": 1,
+ "part": "birth",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Birth of the Blessed One",
+  "hi": {
+   "text": "धन्य पुरुष का जन्म",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धन्य पुरुषाचा जन्म",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In the city of Kapilavastu a long-awaited child is born in a flowering grove, and an old seer weeps at the sight of him.",
+  "hi": {
+   "text": "कपिलवस्तु नगर में एक लंबे समय से प्रतीक्षित शिशु एक खिले हुए उपवन में जन्म लेता है, और एक वृद्ध ऋषि उसे देखकर रो पड़ता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कपिलवस्तू नगरात एक दीर्घ प्रतीक्षित बालक फुललेल्या उपवनात जन्मतो, आणि त्याला पाहून एक वृद्ध ऋषी रडू लागतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-birth-bm.webp",
+   "w": 550,
+   "h": 1100,
+   "caption": {
+    "en": "Maya holds a branch at Lumbini (Gandhara relief, British Museum)",
+    "hi": {
+     "text": "लुंबिनी में माया एक शाखा थामे हुए (गांधार शिल्प, ब्रिटिश संग्रहालय)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लुंबिनीत माया फांदी धरलेली (गांधार शिल्प, ब्रिटिश संग्रहालय)",
+     "reviewed": false
+    }
+   },
+   "credit": "Marie-Lan Nguyen, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Birth_Buddha_BM_OA_1917.5-1.3.jpg"
+  },
+  {
+   "src": "/stories/buddha/b-birth-prague.webp",
+   "w": 1200,
+   "h": 800,
+   "caption": {
+    "en": "The birth of Siddhartha, Gandhara relief (c. 200 CE)",
+    "hi": {
+     "text": "सिद्धार्थ का जन्म, गांधार शिल्प (लगभग 200 ई.)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धार्थांचा जन्म, गांधार शिल्प (सुमारे इ.स. 200)",
+     "reviewed": false
+    }
+   },
+   "credit": "Zde, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Maya_and_the_Birth_of_Siddhartha,_200_AD,_Prague_NM-NpM,_151218.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The city of the Shakyas",
+    "hi": {
+     "text": "शाक्यों का नगर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शाक्यांचे नगर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ashvaghosha opens his poem with a city. Kapilavastu stands on a broad table-land at the foot of the Himalaya, its palaces so high that the poet says they seem to be sunk in the sky. Its gateways and festive arbours glitter with gems, and its streets are full of citizens so excellent that even prosperity seems to smile there. The city is the home of the Shakya clan, who trace their line back to the sun and to the great sage Kapila.\n\nOver the Shakyas rules King Shuddhodana, anointed at the head of the kings of the earth. The poet praises him as generous without pride, strong without cruelty, and gentle even though his majesty reaches far. His queen is Maya, whose very name, the poem says, was no empty title: she was calm as the earth and pure as a water lily. The kingdom is rich and at peace, and yet the royal couple have no child. The poet is setting the scene for a birth that the whole world is waiting for, though the world does not yet know it.",
+    "hi": {
+     "text": "अश्वघोष अपने काव्य का आरंभ एक नगर से करते हैं। कपिलवस्तु हिमालय की तलहटी में एक विस्तृत पठार पर स्थित है, और उसके महल इतने ऊँचे हैं कि कवि कहते हैं मानो वे आकाश में धँसे हुए हों। उसके द्वार और उत्सव-मंडप रत्नों से जगमगाते हैं, और उसकी गलियाँ ऐसे उत्तम नागरिकों से भरी हैं कि समृद्धि भी वहाँ मुस्कराती प्रतीत होती है। यह नगर शाक्य वंश का घर है, जो अपनी वंश-परंपरा सूर्य और महान ऋषि कपिल तक ले जाता है।\n\nशाक्यों पर राजा शुद्धोदन का शासन है, जो पृथ्वी के राजाओं के बीच सबसे श्रेष्ठ माने गए हैं। कवि उनकी प्रशंसा करते हैं कि वे उदार हैं पर अभिमानी नहीं, शक्तिशाली हैं पर क्रूर नहीं, और उनका प्रताप दूर तक फैला होने पर भी वे कोमल हैं। उनकी रानी माया हैं, जिनका नाम, काव्य के अनुसार, केवल उपाधि नहीं था: वे पृथ्वी जैसी शांत और जलकमल जैसी निर्मल थीं। राज्य समृद्ध और शांत है, फिर भी राजदंपति के कोई संतान नहीं है। कवि उस जन्म के लिए मंच तैयार कर रहे हैं जिसकी पूरा संसार प्रतीक्षा कर रहा है, यद्यपि संसार अभी यह नहीं जानता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अश्वघोष आपले काव्य एका नगराने सुरू करतात. कपिलवस्तू हिमालयाच्या पायथ्याशी एका विस्तीर्ण पठारावर वसलेले आहे, आणि तिचे महाल इतके उंच आहेत की कवी म्हणतात ते जणू आकाशात बुडालेले वाटतात. तिची प्रवेशद्वारे आणि उत्सवमंडप रत्नांनी झळकतात, आणि तिचे रस्ते इतक्या उत्तम नागरिकांनी भरलेले आहेत की समृद्धीसुद्धा तिथे हसताना दिसते. हे नगर शाक्य वंशाचे घर आहे, जो आपला वंश सूर्य आणि महान ऋषी कपिल यांच्यापर्यंत नेतो.\n\nशाक्यांवर राजा शुद्धोदन राज्य करतात, जे पृथ्वीवरील राजांमध्ये सर्वश्रेष्ठ म्हणून अभिषिक्त आहेत. कवी त्यांची स्तुती करतात की ते उदार पण गर्विष्ठ नाहीत, बलवान पण क्रूर नाहीत, आणि त्यांचे प्रताप दूरवर पसरलेले असूनही ते सौम्य आहेत. त्यांची राणी माया आहे, जिचे नाव, काव्य सांगते, केवळ उपाधी नव्हते: ती पृथ्वीसारखी शांत आणि कमळासारखी निर्मळ होती. राज्य समृद्ध आणि शांत आहे, तरीही राजदांपत्याला अपत्य नाही. कवी त्या जन्मासाठी रंगमंच तयार करत आहेत ज्याची अख्खे जग वाट पाहत आहे, जरी जगाला अजून ते ठाऊक नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The queen's dream",
+    "hi": {
+     "text": "रानी का स्वप्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राणीचे स्वप्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "According to the poem, a great being who had lived through countless lives was ready to be born for the last time. Ashvaghosha describes this in the language of legend, and it is best read as poetry about the meaning of the birth. Maya dreamed that a huge white elephant, bright as the snow of the Himalaya, with six tusks and a face perfumed with flowing ichor, entered her side without hurting her. In Indian tradition the elephant is a sign of strength and gentleness together.\n\nFrom that moment the poet says that the guardians of the world came down to watch over her, as moonbeams gather brightest on a mountain peak. Maya, who carried the child like a line of clouds that holds a flash of lightning, felt only lightness. The poem adds that she gave freely to the poor around her, and the kingdom seemed to share her good fortune. A child was coming who would, in the poet's words, destroy the evils of the world.",
+    "hi": {
+     "text": "काव्य के अनुसार, एक महान सत्ता, जो अनगिनत जन्मों से गुज़रकर अंतिम बार जन्म लेने को तैयार थी, अवतरित होने वाली थी। अश्वघोष इसे पौराणिक भाषा में वर्णित करते हैं, और इसे उस काव्य की तरह पढ़ना उचित है जो जन्म के अर्थ को समझाता है। माया ने स्वप्न देखा कि हिमालय की बर्फ़ जैसा उज्ज्वल, छह दंतों वाला एक विशाल श्वेत हाथी उनकी कोख में बिना कष्ट पहुँचाए प्रवेश कर गया, और उसका मुख बहते हुए रस की सुगंध से भरा था। भारतीय परंपरा में हाथी शक्ति और कोमलता, दोनों का प्रतीक है।\n\nउसी क्षण से, कवि कहते हैं, संसार के रक्षक देवता उनकी रक्षा करने उतरे, जैसे चंद्रकिरणें पर्वत-शिखर पर सबसे अधिक उजागर होती हैं। माया, जो शिशु को उस बिजली की चमक वाले मेघ की तरह ले जा रही थीं, उन्हें केवल हल्कापन अनुभव हुआ। काव्य आगे कहता है कि वे अपने आसपास के गरीबों को उदारता से दान देती थीं, और राज्य भी उनकी सौभाग्य-भागी प्रतीत होता था। एक ऐसा शिशु आने वाला था जो, कवि के शब्दों में, संसार के दुःखों का नाश करेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काव्यानुसार, एक महान सत्ता, जी असंख्य जन्मांतून गेलेली होती, ती शेवटच्या वेळी जन्म घेण्यास तयार होती. अश्वघोष हे पौराणिक भाषेत वर्णन करतात, आणि ते जन्माचा अर्थ सांगणारी कविता म्हणून वाचणे योग्य आहे. माया हिने स्वप्नात पाहिले की हिमालयातील बर्फासारखा तेजस्वी, सहा दात असलेला, एक प्रचंड पांढरा हत्ती तिच्या कुशीत कोणतीही इजा न करता शिरला, आणि त्याचे मुख वाहत्या रसाच्या सुगंधाने भरलेले होते. भारतीय परंपरेत हत्ती शक्ती आणि कोमलता या दोन्हींचे प्रतीक आहे.\n\nत्या क्षणापासून, कवी सांगतात, जगाचे रक्षक देव तिचे रक्षण करण्यासाठी खाली उतरले, जसे चंद्रकिरणे पर्वतशिखरावर सर्वाधिक जमा होतात. माया, जी त्या बालकाला विजेचा प्रकाश असलेल्या मेघासारखी वाहून नेत होती, तिला केवळ हलकेपणा जाणवला. काव्य पुढे सांगते की ती आपल्या भोवतालच्या गरिबांना उदारपणे दान देत असे, आणि राज्यही तिच्या सौभाग्यात वाटा घेत असल्यासारखे वाटत असे. एक असा बालक येणार होता जो, कवीच्या शब्दांत, जगातील दुष्टता नष्ट करेल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The grove at Lumbini",
+    "hi": {
+     "text": "लुंबिनी का उपवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लुंबिनीचे उपवन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One day, with the king's permission, Queen Maya felt a great wish to see the garden at Lumbini and went there with the women of the household. The grove was in blossom. Ashvaghosha tells us that, as she reached up and held a branch heavy with flowers, her son was born, in the fortunate hour when the star Pushya was rising. The poet stresses that the birth came without pain and without illness, and that he was born from her side, as the tradition says.\n\nThe poem reaches for light to describe the moment. The newborn was like the sun breaking out of a cloud in the morning, and the world turned the colour of gold. The poet says the gods took him gently, and two streams of water, one cool and one warm, fell from the sky over his head, with showers of flowers. All of this is the language of devotion, meant to show that the world felt this child as a blessing.",
+    "hi": {
+     "text": "एक दिन राजा की अनुमति से रानी माया के मन में लुंबिनी के उद्यान को देखने की गहरी इच्छा जगी, और वे परिवार की स्त्रियों के साथ वहाँ गईं। उपवन फूलों से लदा था। अश्वघोष बताते हैं कि जब उन्होंने फूलों से भरी एक शाखा को ऊपर उठाकर थामा, तभी उनके पुत्र का जन्म हुआ, उस शुभ घड़ी में जब पुष्य नक्षत्र उदित हो रहा था। कवि बल देते हैं कि जन्म बिना पीड़ा और बिना रोग के हुआ, और परंपरा के अनुसार शिशु उनके पार्श्व से जन्मा।\n\nकाव्य उस क्षण का वर्णन प्रकाश के सहारे करता है। नवजात शिशु प्रातः बादलों से निकलते सूर्य जैसा था, और सारा संसार स्वर्ण-रंग में रंग गया। कवि कहते हैं कि देवताओं ने उसे कोमलता से ग्रहण किया, और आकाश से दो जलधाराएँ, एक शीतल और एक गुनगुनी, उसके सिर पर गिरीं, साथ में पुष्पवृष्टि भी हुई। यह सब भक्ति की भाषा है, जिसका उद्देश्य दिखाना है कि संसार ने इस शिशु को आशीर्वाद के रूप में अनुभव किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एके दिवशी राजाच्या परवानगीने राणी मायेला लुंबिनीचे उपवन पाहण्याची तीव्र इच्छा झाली, आणि ती घरातील स्त्रियांसह तिथे गेली. उपवन फुलांनी बहरले होते. अश्वघोष सांगतात की जेव्हा तिने फुलांनी लगडलेली एक फांदी वर उचलून धरली, तेव्हाच तिच्या पुत्राचा जन्म झाला, त्या शुभ घडीला जेव्हा पुष्य नक्षत्र उगवत होते. कवी भर देतात की जन्म वेदना आणि रोगाविना झाला, आणि परंपरेप्रमाणे बालक तिच्या कुशीतून जन्मले.\n\nकाव्य या क्षणाचे वर्णन प्रकाशाने करते. नवजात बालक सकाळी ढगांतून बाहेर पडणाऱ्या सूर्यासारखे होते, आणि सारे जग सुवर्णरंगात न्हाऊन निघाले. कवी सांगतात की देवांनी त्याला हळुवारपणे घेतले, आणि आकाशातून दोन जलधारा, एक शीतल आणि एक कोमट, त्याच्या मस्तकावर पडल्या, फुलांच्या वर्षावासह. हे सर्व भक्तीची भाषा आहे, जिचा हेतू हे दाखवणे आहे की जगाने या बालकाला आशीर्वादरूपात अनुभवले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The seven steps",
+    "hi": {
+     "text": "सात पग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सात पावले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ashvaghosha then tells of the seven steps, and here the poem is plainly speaking in the voice of tradition. The infant stood up, steady and unhurried, and took seven firm steps, with the sign of a lotus appearing at each footfall. The poet compares him to the constellation of the seven sages. He looked toward the four quarters of space and spoke in a voice like a lion's, saying that he was born for supreme knowledge, for the welfare of the world, and that this was his last birth.\n\nAround him the poem gathers a crowd of watchers. Gods held a white umbrella over him, great serpents fanned him and scattered flowers, and the guardians of the grove stood round with golden lotuses. Even the pure gods of the highest heavens, who feel no desire, were glad. Buddhist readers take the story as a sign of what the child would become, and to anyone else it is a poet's way of saying that something rare had come into the world.",
+    "hi": {
+     "text": "अब अश्वघोष सात पगों की बात करते हैं, और यहाँ काव्य स्पष्ट रूप से परंपरा के स्वर में बोलता है। शिशु उठ खड़ा हुआ, स्थिर और धीमी गति से, और उसने सात दृढ़ पग रखे, और हर पग पर कमल का चिह्न प्रकट हुआ। कवि उसकी तुलना सप्तर्षि नक्षत्र से करते हैं। उसने अंतरिक्ष की चारों दिशाओं की ओर देखा और सिंह के स्वर में कहा कि वह परम ज्ञान के लिए जन्मा है, संसार के कल्याण के लिए जन्मा है, और यह उसका अंतिम जन्म है।\n\nउसके चारों ओर काव्य दर्शकों की भीड़ जुटाता है। देवताओं ने उसके ऊपर श्वेत छत्र थामा, महान नाग उसे पंखा झलने लगे और पुष्प बरसाने लगे, और उपवन के रक्षक देवता स्वर्ण कमल लेकर चारों ओर खड़े हो गए। यहाँ तक कि सर्वोच्च स्वर्गों के शुद्ध देवता, जिन्हें कोई इच्छा नहीं होती, भी प्रसन्न हुए। बौद्ध पाठक इस कथा को उस बात का संकेत मानते हैं जो यह शिशु बनने वाला था, और दूसरों के लिए यह कवि का वह तरीका है यह कहने का कि संसार में कुछ दुर्लभ आया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता अश्वघोष सात पावलांचे वर्णन करतात, आणि येथे काव्य स्पष्टपणे परंपरेच्या स्वरात बोलते. बालक उभा राहिला, स्थिर आणि संथ, आणि त्याने सात दृढ पावले टाकली, आणि प्रत्येक पावलागणिक कमळाचे चिन्ह प्रकट झाले. कवी त्याची तुलना सप्तर्षी नक्षत्राशी करतात. त्याने अवकाशाच्या चारही दिशांकडे पाहिले आणि सिंहगर्जनेसारख्या स्वरात सांगितले की तो परम ज्ञानासाठी जन्मला आहे, जगाच्या कल्याणासाठी जन्मला आहे, आणि हा त्याचा शेवटचा जन्म आहे.\n\nत्याच्या भोवती काव्य प्रेक्षकांची गर्दी गोळा करते. देवांनी त्याच्यावर पांढरे छत्र धरले, मोठे नाग त्याला वारा घालू लागले आणि फुले उधळू लागले, आणि उपवनाचे रक्षक देव सोन्याची कमळे घेऊन सभोवती उभे राहिले. सर्वोच्च स्वर्गातील शुद्ध देव, ज्यांना कोणतीही इच्छा नसते, तेही आनंदित झाले. बौद्ध वाचक ही कथा त्या गोष्टीचे चिन्ह मानतात जी हे बालक पुढे होणार होते, आणि इतरांसाठी ही कवीची अशी पद्धत आहे की जगात काहीतरी दुर्मिळ आले आहे हे सांगण्याची.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Asita weeps",
+    "hi": {
+     "text": "असित रोता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "असित रडतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Soon an ascetic named Asita came down from the mountains. He had heard a heavenly voice say that a child had been born for the sake of supreme knowledge. The king, bewildered with joy, carried the infant to him. Asita looked at the child and saw the marks: a wheel on the sole of the foot, webbing between the fingers, a circle of hair between the brows. Then tears hung on his eyelashes, and he sighed and looked up to the sky.\n\nThe frightened king asked if the child would die young. Asita answered that he wept for no ill. The boy would either rule the earth or become a Buddha, an awakened one who would carry the world across the sea of sorrow. The old man wept for himself, because he was near the end of his life and would not be there to hear the teaching. The king was comforted. On the tenth day he made offerings and gave a hundred thousand milk cows to the brahmans for his son's welfare. Then he led queen and child in a procession into Kapilavastu, and the whole city rejoiced as if for the birth of a god.",
+    "hi": {
+     "text": "शीघ्र ही असित नाम का एक तपस्वी पर्वतों से उतरकर आया। उसने स्वर्गीय वाणी से सुना था कि ज्ञान की खोज के लिए एक शिशु जन्मा है। राजा हर्ष से चकित होकर शिशु को उसके पास ले गए। असित ने शिशु को देखा और उसके लक्षण पहचाने: पैर के तलवे पर चक्र, उँगलियों के बीच जाल, और भौंहों के बीच बालों का घेरा। तब उसकी पलकों पर आँसू आ गए, उसने ठंडी साँस ली और आकाश की ओर देखा।\n\nभयभीत राजा ने पूछा कि क्या शिशु अल्पायु में मर जाएगा। असित ने उत्तर दिया कि वह किसी अनर्थ के लिए नहीं रो रहा। बालक या तो पृथ्वी पर राज्य करेगा या बुद्ध बनेगा, एक जागृत पुरुष जो दुःख के सागर के पार संसार को ले जाएगा। वृद्ध ऋषि अपने लिए रोया, क्योंकि उसका जीवन समाप्ति पर था और वह उस उपदेश को सुनने के लिए वहाँ नहीं होगा। राजा को सांत्वना मिली। दसवें दिन उसने उत्सव किया और अपने पुत्र के कल्याण के लिए ब्राह्मणों को एक लाख दुधारू गायें दान दीं। फिर वह रानी और शिशु के साथ शोभायात्रा में कपिलवस्तु में प्रवेश कर गया, और पूरा नगर किसी देवता के जन्म की तरह आनंदित हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लवकरच असित नावाचा एक तपस्वी पर्वतांवरून खाली आला. त्याने दिव्य वाणीत ऐकले होते की परम ज्ञानासाठी एक बालक जन्मले आहे. राजा हर्षाने चकित होऊन बालकाला त्याच्याकडे घेऊन गेला. असितने बालकाकडे पाहिले आणि त्याची लक्षणे ओळखली: पायाच्या तळव्यावर चक्र, बोटांच्या मध्ये जाळी, आणि भुवयांच्या मध्ये केसांचे वलय. मग त्याच्या पापण्यांवर अश्रू तरळले, त्याने उसासा टाकला आणि आकाशाकडे पाहिले.\n\nघाबरलेल्या राजाने विचारले की बालक अल्पायुषी तर होणार नाही ना. असितने सांगितले की तो कोणत्याही अनर्थासाठी रडत नाही. तो बालक एकतर पृथ्वीवर राज्य करेल किंवा बुद्ध होईल, एक जागृत पुरुष जो दुःखाच्या सागरापलीकडे जगाला पोहोचवेल. तो वृद्ध ऋषी स्वतःसाठी रडत होता, कारण त्याचे आयुष्य संपत आले होते आणि तो त्या उपदेशाचे श्रवण करण्यासाठी उपस्थित राहणार नव्हता. राजाला सांत्वन मिळाले. दहाव्या दिवशी त्याने उत्सव केला आणि आपल्या पुत्राच्या कल्याणासाठी ब्राह्मणांना एक लाख दुभत्या गायी दान दिल्या. मग तो राणी आणि बालकासह मिरवणुकीने कपिलवस्तूत आला, आणि सारे नगर एखाद्या देवाच्या जन्मासारखे आनंदाने नाचले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "I am born for supreme knowledge, for the welfare of the world",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 1.34 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 1.34 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 1.34 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The newborn child, in the poet's telling, declares what his life is for.",
+   "hi": {
+    "text": "नवजात शिशु, कवि के वर्णन में, घोषणा करता है कि उसका जीवन किसलिए है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "नवजात बालक, कवीच्या वर्णनानुसार, घोषित करतो की त्याचे जीवन कशासाठी आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "If you could say in one line what your own life is for, what would you want that line to be?",
+  "hi": {
+   "text": "यदि तुम एक पंक्ति में बता सकते कि तुम्हारा अपना जीवन किसलिए है, तो वह पंक्ति क्या होती?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जर तुला एका वाक्यात सांगायचे असेल की तुझे स्वतःचे जीवन कशासाठी आहे, तर ते वाक्य काय असेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A life can begin with a purpose larger than itself, and the joy and the sorrow around a birth are both real.",
+  "hi": {
+   "text": "जीवन ऐसे उद्देश्य के साथ आरंभ हो सकता है जो स्वयं से बड़ा हो, और जन्म के चारों ओर की प्रसन्नता और शोक, दोनों वास्तविक हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जीवन स्वतःपेक्षा मोठ्या उद्देशाने सुरू होऊ शकते, आणि जन्माभोवतीचा आनंद व दुःख दोन्ही खरे असतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 1; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 1; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 1; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

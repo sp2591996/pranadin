@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-great-renunciation",
+ "order": 10,
+ "part": "renunciation",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Great Renunciation",
+  "hi": {
+   "text": "महान त्याग",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान त्याग",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "After a year of giving away everything he owns, Mahavira rides in a palanquin to a park outside the town and takes off his ornaments for the last time.",
+  "hi": {
+   "text": "एक वर्ष तक अपनी सारी संपत्ति दान करने के बाद, महावीर पालकी में नगर के बाहर एक उद्यान तक जाते हैं और अंतिम बार अपने आभूषण उतारते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक वर्षभर आपली सर्व संपत्ती दान केल्यावर, महावीर पालखीतून नगराबाहेरील एका उद्यानात जातात आणि शेवटच्या वेळी आपले अलंकार उतरवतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-renunciation.webp",
+   "w": 726,
+   "h": 1100,
+   "caption": {
+    "en": "A Mahavira image in a Jain setting",
+    "hi": {
+     "text": "जैन परिवेश में महावीर की प्रतिमा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जैन परिसरातील महावीरांची प्रतिमा",
+     "reviewed": false
+    }
+   },
+   "credit": "Dayodaya, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mahavir.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A year of giving",
+    "hi": {
+     "text": "एक वर्ष का दान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका वर्षाचे दान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Having decided to leave, Vardhamana did not leave at once. The Kalpa Sutra says he gave up his silver, gold, riches, grain, army, treasury, town and subjects, and handed out gifts through suitable persons and to the poor. The Acharanga Sutra adds that he gave for a whole year, from the first light of morning, and says the gifts were counted in the many crores of gold pieces.\n\nThe verses attached to the Acharanga passage make this a rule for every Tirthankara. For a year before leaving the world, the text says, the best of Jinas gives away his property from the rising of the sun. The numbers in the text are enormous and cannot be taken as accounting. They carry the meaning that nothing was kept back. Before the great renunciation of the body and the household, there was the gentle renunciation of ownership, practised daily in the sight of the whole town.",
+    "hi": {
+     "text": "संसार त्यागने का निश्चय करने के बाद भी वर्धमान तुरंत नहीं गए। कल्पसूत्र कहता है कि उन्होंने अपनी चाँदी, सोना, धन, अन्न, सेना, खजाना, नगर और प्रजा त्याग दी, और दान योग्य व्यक्तियों के माध्यम से तथा गरीबों को उपहार बाँटे। आचारांग सूत्र जोड़ता है कि उन्होंने पूरे एक वर्ष तक, सूर्योदय के प्रथम प्रकाश से, दान दिया, और कहता है कि उपहार स्वर्ण मुद्राओं के अनेक करोड़ों में गिने गए।\n\nआचारांग के इस अंश से जुड़ी गाथाएँ इसे हर तीर्थंकर के लिए नियम बना देती हैं। संसार छोड़ने से पहले एक वर्ष तक, पाठ कहता है, श्रेष्ठ जिन सूर्योदय से अपनी संपत्ति बाँटते हैं। पाठ की संख्याएँ अपार हैं और उन्हें हिसाब के रूप में नहीं लिया जा सकता। वे इस अर्थ को ढोती हैं कि कुछ भी बचाकर नहीं रखा गया। शरीर और गृहस्थी के महान त्याग से पहले, पूरे नगर की दृष्टि में दैनिक रूप से अभ्यास किया गया स्वामित्व का कोमल त्याग था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संसार सोडायचा निश्चय केल्यावरही वर्धमान लगेच गेले नाहीत. कल्पसूत्र सांगते की त्यांनी आपली चांदी, सोने, धन, धान्य, सेना, खजिना, नगर आणि प्रजा सोडून दिली, आणि योग्य व्यक्तींमार्फत तसेच गरिबांना भेटवस्तू वाटल्या. आचारांग सूत्र भर घालते की त्यांनी पूर्ण एक वर्ष, सूर्योदयाच्या पहिल्या प्रकाशापासून, दान दिले, आणि भेटवस्तू सुवर्णमुद्रांच्या अनेक कोटींमध्ये मोजल्या गेल्या असे सांगते.\n\nआचारांगाच्या या भागाशी जोडलेल्या गाथा हे प्रत्येक तीर्थंकरासाठी नियम बनवतात. संसार सोडण्यापूर्वी एक वर्ष, पाठ सांगतो, श्रेष्ठ जिन सूर्योदयापासून आपली संपत्ती वाटतात. पाठातील संख्या अफाट आहेत आणि त्या हिशेब म्हणून घेता येत नाहीत. त्या हा अर्थ वाहतात की काहीही राखून ठेवले नव्हते. देह आणि गृहस्थाश्रम यांच्या महान त्यागाआधी, संपूर्ण नगराच्या दृष्टीसमोर दररोज सरावलेला मालकीचा सौम्य त्याग होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The gods remind him",
+    "hi": {
+     "text": "लौकांतिक देव याद दिलाते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लोकांतिक देव आठवण करून देतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At that moment, the sutra says, the Laukantika gods came to him. These gods live in a heaven of the Brahma realm and, according to the tradition, appear to every Tirthankara before he leaves the world. They praised him with sweet words: Victory, victory to you, gladdener of the world. Awake, lord. Establish the religion of the law that benefits all living beings.\n\nThe moment is gently understated. The sutra explains that Mahavira already knew the time had come, through his own knowledge, and that the gods only followed their established custom. They did not tell him anything he did not know. The reminder was an honour, a way of saying that the whole universe had been waiting for this. Their words are an invitation to teach, since what he is to give up is only half the story. What he will establish in the world is the other half, and they name it already.",
+    "hi": {
+     "text": "सूत्र कहता है कि उसी समय लौकांतिक देव उनके पास आए। ये देव ब्रह्मलोक के एक स्वर्ग में रहते हैं, और परंपरा के अनुसार हर तीर्थंकर के संसार छोड़ने से पहले प्रकट होते हैं। उन्होंने मधुर शब्दों में उनकी स्तुति की: विजय हो, विजय हो आपकी, संसार को आनंद देने वाले। जागिए, प्रभु। समस्त प्राणियों के हितकारी धर्म-मार्ग की स्थापना कीजिए।\n\nयह क्षण सौम्य संकेत से कहा गया है। सूत्र समझाता है कि महावीर अपने ज्ञान से पहले ही जानते थे कि समय आ गया है, और देवता केवल अपनी स्थापित परंपरा का पालन कर रहे थे। उन्होंने ऐसी कोई बात नहीं बताई जो वे पहले से न जानते हों। यह याद दिलाना एक सम्मान था, इस बात का कि पूरा विश्व इसी क्षण की प्रतीक्षा कर रहा था। उनके शब्द उपदेश देने का निमंत्रण हैं, क्योंकि जो वे त्याग रहे हैं वह कहानी का केवल आधा भाग है। जो वे संसार में स्थापित करेंगे वह दूसरा आधा है, और देवता उसे पहले ही नाम दे देते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूत्र सांगते की त्याच वेळी लोकांतिक देव त्यांच्याकडे आले. हे देव ब्रह्मलोकातील एका स्वर्गात राहतात, आणि परंपरेनुसार प्रत्येक तीर्थंकर संसार सोडण्यापूर्वी त्यांच्यासमोर प्रकट होतात. त्यांनी गोड शब्दांत त्यांची स्तुती केली: विजय असो, विजय असो तुमचा, जगाला आनंद देणारे. जागे व्हा, प्रभू. सर्व प्राण्यांच्या हिताचा धर्ममार्ग प्रस्थापित करा.\n\nहा क्षण सौम्य सूचनेने सांगितला आहे. सूत्र समजावते की महावीरांना आपल्या ज्ञानाने आधीच माहीत होते की वेळ आली आहे, आणि देव केवळ आपल्या प्रस्थापित प्रथेचे पालन करत होते. त्यांनी असे काहीही सांगितले नाही जे महावीरांना आधी माहीत नव्हते. ही आठवण एक सन्मान होती, संपूर्ण विश्व याच क्षणाची वाट पाहत होते हे सांगणारी. त्यांचे शब्द उपदेशाचे आमंत्रण आहेत, कारण जे ते सोडत आहेत ती कथेची केवळ अर्धी बाजू आहे. जे ते जगात प्रस्थापित करणार आहेत ती दुसरी अर्धी बाजू आहे, आणि देव तिला आधीच नाव देतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The palanquin",
+    "hi": {
+     "text": "चंद्रप्रभा पालकी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चंद्रप्रभा पालखी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the tenth day of the dark half of Margashirsha, when the shadow had turned to the east and the first part of the day was over, in the palanquin called Chandraprabha, the Moon-Radiance, Mahavira set out. The Acharanga Sutra says Shakra himself had bathed and dressed him and prepared the palanquin, which a thousand men could carry.\n\nGods, men and asuras followed in a great train. There were shell-blowers, heralds, bell-bearers and courtiers. The sutra pictures a street of palaces, thousands of eyes fixed on him, thousands of hands joined, and a crowd answering with the half-spoken murmur of people who know they are watching something rare. He returned the salutations with his right hand. The people called out their hopes for him: that with undisturbed knowledge and good conduct he would conquer the unconquered senses, put down love and hate like two dangerous wrestlers, and win the supreme knowledge. They asked him not to be afraid of hardships, and to be free of obstacles in the practice of the law.",
+    "hi": {
+     "text": "मार्गशीर्ष कृष्ण पक्ष की दसवीं तिथि को, जब छाया पूर्व की ओर मुड़ चुकी थी और दिन का पहला भाग बीत चुका था, चंद्रप्रभा नामक पालकी में महावीर निकले। आचारांग सूत्र कहता है कि स्वयं शक्र ने उन्हें स्नान कराया और सजाया, और वह पालकी तैयार की, जिसे एक हज़ार व्यक्ति उठा सकते थे।\n\nदेव, मनुष्य और असुर एक बड़े जुलूस में पीछे चले। शंख बजाने वाले, उद्घोषक, घंटा-धारक और दरबारी थे। सूत्र महलों की एक गली का चित्र खींचता है, हज़ारों आँखें उन पर टिकी हुई, हज़ारों हाथ जुड़े हुए, और एक भीड़ जो आधे स्वर में उत्तर दे रही थी, उन लोगों की तरह जो जानते हैं कि वे कुछ दुर्लभ देख रहे हैं। उन्होंने दाहिने हाथ से अभिवादनों का उत्तर दिया। लोग उनके लिए अपनी आशाएँ पुकार रहे थे: कि अविचल ज्ञान और उत्तम आचरण के साथ वे अजेय इंद्रियों पर विजय पाएँ, राग और द्वेष को दो खतरनाक मल्लों की तरह परास्त करें, और सर्वोच्च ज्ञान प्राप्त करें। उन्होंने कहा कि वे कठिनाइयों से न डरें, और धर्म के पालन में बाधाओं से मुक्त रहें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मार्गशीर्ष कृष्ण पक्षाच्या दहाव्या दिवशी, जेव्हा सावली पूर्वेकडे वळली होती आणि दिवसाचा पहिला भाग संपला होता, चंद्रप्रभा नावाच्या पालखीत महावीर निघाले. आचारांग सूत्र सांगते की स्वतः शक्राने त्यांना स्नान घालून सजवले होते, आणि जी पालखी एक हजार माणसे उचलू शकत होती ती तयार केली होती.\n\nदेव, मनुष्य आणि असुर मोठ्या मिरवणुकीत मागे चालले. शंख वाजवणारे, उद्घोषक, घंटाधारी आणि दरबारी होते. सूत्र राजवाड्यांच्या एका रस्त्याचे चित्र रंगवते, हजारो डोळे त्यांच्यावर खिळलेले, हजारो हात जोडलेले, आणि एक जमाव जो अर्ध्या स्वरात प्रतिसाद देत होता, जणू ते काहीतरी दुर्मीळ पाहत आहेत हे जाणणाऱ्या लोकांसारखे. त्यांनी उजव्या हाताने अभिवादनांना उत्तर दिले. लोक त्यांच्यासाठी आपल्या आशा पुकारत होते: अढळ ज्ञान आणि उत्तम आचरणाने ते अजिंक्य इंद्रियांवर विजय मिळवोत, राग आणि द्वेष दोन धोकादायक मल्लांप्रमाणे पराभूत करोत, आणि सर्वोच्च ज्ञान प्राप्त करोत. त्यांनी सांगितले की त्यांनी अडचणींना घाबरू नये, आणि धर्माच्या आचरणात अडथळ्यांपासून मुक्त राहावे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Under the ashoka tree",
+    "hi": {
+     "text": "अशोक वृक्ष के नीचे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अशोक वृक्षाखाली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The procession passed through Kundapura to a park called Shandavana, the park of the Jnatris, and came to a fine ashoka tree. There Mahavira stopped the palanquin and stepped down from it. With his own hands he took off his ornaments, garlands and finery. The Acharanga Sutra says the god Vaishramana caught them in a cloth.\n\nThen, with his own hands, he plucked out his hair in five handfuls, using his right and left hands on the two sides of his head. The sutra says that Shakra caught the hair in a cup of diamond and, with the Venerable One's permission, took it to the Milk Ocean. This hair-plucking is the traditional Jain tonsure, still practised by Jain monks and nuns, and the text records it with great care. It was done with a fast of two and a half days without water, when the moon stood in Uttaraphalguni. He was quite alone, the sutra says, with nobody else present.",
+    "hi": {
+     "text": "जुलूस कुंडपुर से होकर शांडवन नामक उद्यान तक गया, जो ज्ञातृ कुल का उद्यान था, और एक सुंदर अशोक वृक्ष के पास पहुँचा। वहाँ महावीर ने पालकी रुकवाई और उतरे। अपने हाथों से उन्होंने अपने आभूषण, मालाएँ और वस्त्राभूषण उतारे। आचारांग सूत्र कहता है कि देव वैश्रमण ने उन्हें एक वस्त्र में थाम लिया।\n\nफिर, अपने हाथों से, उन्होंने पाँच मुट्ठियों में अपने केश उखाड़े, दाएँ और बाएँ हाथ से सिर के दोनों ओर। सूत्र कहता है कि शक्र ने केशों को हीरे के पात्र में थामा और पूज्य भगवान की अनुमति से उन्हें क्षीरसागर तक ले गया। केश-लोच की यह प्रथा जैन साधु-साध्वियों द्वारा आज भी पालन की जाती है, और पाठ इसे बड़ी सावधानी से दर्ज करता है। यह ढाई दिन के जल-त्याग उपवास के साथ, जब चंद्रमा उत्तराफाल्गुनी में था, किया गया। वे पूर्णतः अकेले थे, सूत्र कहता है, वहाँ उनके सिवा कोई उपस्थित नहीं था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मिरवणूक कुंडपुरातून जाऊन शांडवन नावाच्या, ज्ञातृ कुळाच्या उद्यानात पोहोचली, आणि एका सुंदर अशोक वृक्षाजवळ थांबली. तिथे महावीरांनी पालखी थांबवली आणि खाली उतरले. स्वतःच्या हातांनी त्यांनी आपले अलंकार, माळा आणि वस्त्राभरणे उतरवली. आचारांग सूत्र सांगते की वैश्रमण देवाने ती एका वस्त्रात झेलली.\n\nमग, स्वतःच्या हातांनी, त्यांनी पाच मुठींमध्ये आपले केस उपटले, डाव्या आणि उजव्या हातांनी डोक्याच्या दोन बाजूंनी. सूत्र सांगते की शक्राने केस हिऱ्याच्या पात्रात झेलले, आणि पूज्य भगवानांच्या अनुमतीने ते क्षीरसागरापर्यंत नेले. केशलोचनाची ही परंपरागत जैन प्रथा आजही जैन साधू आणि साध्वी पाळतात, आणि पाठ ती मोठ्या काळजीने नोंदवतो. ती अडीच दिवसांच्या पाण्याविना उपवासासह, जेव्हा चंद्र उत्तराफाल्गुनीत होता, तेव्हा झाली. ते पूर्णपणे एकटे होते, सूत्र सांगते, त्यांच्याशिवाय तिथे दुसरे कोणीही उपस्थित नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The vow",
+    "hi": {
+     "text": "संकल्प",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संकल्प",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After the hair was gone, the Acharanga Sutra says, Mahavira paid obeisance to all the liberated souls and vowed to do no sinful act. He adopted the holy conduct. At that moment, it says, the whole assembly of gods and men stood motionless, like figures in a painting, and at Shakra's command the noise of voices and music suddenly stopped.\n\nHe then formed the resolution that would shape the next twelve years. He would neglect his body and abandon the care of it, and he would bear with equanimity every calamity that came upon him from gods, from men or from animals. The Jain tradition understands this as the resolution of a monk who has set aside everything that protects him, in order to see what remains. The text does not present it as an instruction to others. It tells of one man's chosen path, with the care and reverence that Jains give to it. Everything that follows is an unfolding of this vow.",
+    "hi": {
+     "text": "केश उतर जाने के बाद, आचारांग सूत्र कहता है, महावीर ने सभी मुक्त आत्माओं को प्रणाम किया और कोई पापपूर्ण कर्म न करने की प्रतिज्ञा की। उन्होंने पवित्र आचरण अपनाया। उसी क्षण, सूत्र कहता है, देवों और मनुष्यों की पूरी सभा चित्र की आकृतियों की तरह स्थिर हो गई, और शक्र की आज्ञा से स्वरों और संगीत का शोर अचानक थम गया।\n\nफिर उन्होंने वह संकल्प लिया जो अगले बारह वर्षों को आकार देगा। वे अपने शरीर की उपेक्षा करेंगे और उसकी देखभाल त्याग देंगे, और देवों, मनुष्यों या पशुओं की ओर से आने वाली हर विपत्ति को समभाव से सहेंगे। जैन परंपरा इसे उस साधु का संकल्प मानती है जिसने अपनी रक्षा करने वाली हर वस्तु त्याग दी है, यह देखने के लिए कि उसके बाद क्या शेष रहता है। पाठ इसे दूसरों के लिए आदेश के रूप में प्रस्तुत नहीं करता। वह एक व्यक्ति के चुने हुए मार्ग की कथा कहता है, उस देखभाल और आदर के साथ जो जैन उसे देते हैं। इसके बाद जो कुछ होता है वह इसी संकल्प का विस्तार है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "केस उतरल्यानंतर, आचारांग सूत्र सांगते, महावीरांनी सर्व मुक्त आत्म्यांना वंदन केले आणि कोणतेही पापकर्म न करण्याचे व्रत घेतले. त्यांनी पवित्र आचरण स्वीकारले. त्याच क्षणी, सूत्र सांगते, देव आणि मनुष्यांची संपूर्ण सभा चित्रातल्या आकृत्यांसारखी स्तब्ध झाली, आणि शक्राच्या आज्ञेने आवाज आणि संगीताचा गोंगाट अचानक थांबला.\n\nमग त्यांनी तो संकल्प केला जो पुढील बारा वर्षांना आकार देईल. ते आपल्या देहाची उपेक्षा करतील आणि त्याची काळजी सोडतील, आणि देव, मनुष्य किंवा पशूंकडून आलेले प्रत्येक संकट समभावाने सहन करतील. जैन परंपरा हा संकल्प अशा साधूचा मानते ज्याने आपले संरक्षण करणारी प्रत्येक गोष्ट सोडली आहे, हे पाहण्यासाठी की त्यानंतर काय उरते. पाठ हा दुसऱ्यांसाठी आदेश म्हणून मांडत नाही. तो एका व्यक्तीने निवडलेल्या मार्गाची कथा सांगतो, जैन ज्या काळजीने आणि आदराने तिला पाहतात त्याच काळजीने. यानंतर जे घडते ते याच संकल्पाचा विस्तार आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "There under the excellent tree Asoka he caused his palankin to stop, descended from his palankin, took off his ornaments, garlands, and finery with his own hands, and with his own hands plucked out his hair in five handfuls.",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §116 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §116 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §116 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Mahavira lays down everything he owns, with his own hands, in the park under the ashoka tree.",
+   "hi": {
+    "text": "अशोक वृक्ष के नीचे उद्यान में महावीर अपने हाथों से अपनी सारी संपत्ति और आभूषण त्यागते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अशोक वृक्षाखाली, उद्यानात, महावीर आपल्या हातांनी आपली सर्व संपत्ती आणि अलंकार उतरवतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What is one thing you could put down this week, not out of loss but because you are ready to?",
+  "hi": {
+   "text": "एक ऐसी चीज़ कौन-सी है जिसे तुम इस सप्ताह त्याग सकते हो, हानि के कारण नहीं, बल्कि इसलिए कि तुम उसके लिए तैयार हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "असे कोणते एक गोष्ट आहे जी तू या आठवड्यात सोडू शकतोस, हानीमुळे नव्हे तर तू त्यासाठी तयार आहेस म्हणून?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Letting go is easier when it has been practised gradually and in the open, as a year of giving before the final step.",
+  "hi": {
+   "text": "त्याग धीरे-धीरे और खुलेपन से अभ्यास किया जाए, जैसे अंतिम कदम से पहले एक वर्ष का दान, तो उसे छोड़ना सरल होता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "त्याग हळूहळू आणि उघडपणे सरावला तर तो सोपा होतो, जसे अंतिम पावलाआधीचे एक वर्षाचे दान.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§110–116, with Acharanga Sutra II, 15; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§110–116; आचारांग सूत्र (द्वितीय श्रुतस्कंध), अध्ययन १५ के साथ; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§110–116; आचारांग सूत्र (द्वितीय श्रुतस्कंध), अध्ययन १५ यासह; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

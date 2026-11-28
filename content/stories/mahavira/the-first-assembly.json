@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-first-assembly",
+ "order": 14,
+ "part": "awakening",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The First Assembly",
+  "hi": {
+   "text": "पहली सभा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पहिली सभा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The new Jina begins to teach, and Indrabhuti Gautama, a learned Brahmin, becomes the first of the disciples who will carry his words forward.",
+  "hi": {
+   "text": "नए जिन उपदेश देना आरंभ करते हैं, और इंद्रभूति गौतम, एक विद्वान ब्राह्मण, उन पहले शिष्यों में से पहले बनते हैं जो उनके वचन आगे ले जाएँगे।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नवे जिन उपदेश देऊ लागतात, आणि इंद्रभूती गौतम, एक विद्वान ब्राह्मण, हे त्यांचे शब्द पुढे नेणाऱ्या पहिल्या शिष्यांपैकी पहिले ठरतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-assembly.webp",
+   "w": 1200,
+   "h": 806,
+   "caption": {
+    "en": "Ahinsa Sthal, a Jain pilgrimage site",
+    "hi": {
+     "text": "अहिंसा स्थल, जैन तीर्थ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अहिंसा स्थल, जैन तीर्थक्षेत्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Harjeetsinghnarang, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ahinsa_Sthal.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The hall of the gods",
+    "hi": {
+     "text": "देवों का सभा-भवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवांचे सभागृह",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jain tradition describes the setting of a Tirthankara's teaching as the samavasarana, a great divine assembly hall made by the gods. It has several circular walls, and in its centre, under an ashoka tree, the Tirthankara sits and speaks. Gods, humans, animals and other beings each have a place in the rings around him, and, as the tradition tells, each hears him in their own language.\n\nThe Kalpa Sutra does not describe the samavasarana. This picture comes from later Jain literature, and Jain art, especially the illustrated manuscripts and temple carvings, has shown it for centuries. Its meaning is clear: the teaching of a Jina is for everyone, with no wall between a king and a snake. It is placed here in the account as the tradition places it, immediately after the attainment of kevala. The text's own words are simpler. It says the Venerable One, endowed with the highest knowledge and vision, taught the five great vows, the six classes of living beings.",
+    "hi": {
+     "text": "जैन परंपरा तीर्थंकर के उपदेश की पृष्ठभूमि को समवसरण कहती है, देवों द्वारा निर्मित एक विशाल दिव्य सभा-भवन। उसकी कई वृत्ताकार दीवारें होती हैं, और उसके केंद्र में अशोक वृक्ष के नीचे तीर्थंकर बैठते और बोलते हैं। देव, मनुष्य, पशु और अन्य प्राणी उनके चारों ओर के वृत्तों में अपना स्थान पाते हैं, और, परंपरा के अनुसार, हर कोई उन्हें अपनी भाषा में सुनता है।\n\nकल्पसूत्र समवसरण का वर्णन नहीं करता। यह चित्र बाद के जैन साहित्य से आता है, और जैन कला, विशेषकर सचित्र पांडुलिपियों और मंदिरों की नक्काशी में, इसे सदियों से दिखाया गया है। इसका अर्थ स्पष्ट है: जिन का उपदेश सबके लिए है, राजा और सर्प के बीच कोई दीवार नहीं है। इसे यहाँ वैसे ही रखा गया है जैसे परंपरा रखती है, केवलज्ञान की प्राप्ति के ठीक बाद। पाठ के अपने शब्द सरल हैं। वह कहता है कि पूज्य भगवान ने, सर्वोच्च ज्ञान और दर्शन से संपन्न होकर, पाँच महाव्रत और छह प्रकार के जीवों का उपदेश दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जैन परंपरा तीर्थंकरांच्या शिकवणीची पार्श्वभूमी समवसरण म्हणते, देवांनी बनवलेला एक भव्य दिव्य सभामंडप. त्याला अनेक वर्तुळाकार भिंती असतात, आणि त्याच्या मध्यभागी अशोक वृक्षाखाली तीर्थंकर बसतात आणि बोलतात. देव, मनुष्य, पशू आणि इतर प्राणी त्यांच्या भोवतीच्या वर्तुळांत आपापले स्थान घेतात, आणि परंपरेनुसार प्रत्येकजण त्यांना आपापल्या भाषेत ऐकतो.\n\nकल्पसूत्र समवसरणाचे वर्णन करत नाही. हे चित्र नंतरच्या जैन साहित्यातून आले आहे, आणि जैन कलेने, विशेषतः सचित्र हस्तलिखिते आणि मंदिरांवरील कोरीव कामांमध्ये, ते शतकानुशतके दाखवले आहे. त्याचा अर्थ स्पष्ट आहे: जिनांची शिकवण सर्वांसाठी आहे, राजा आणि साप यांच्यात कोणतीही भिंत नाही. इथे ते परंपरा ज्या प्रकारे ठेवते तसे, केवलज्ञान प्राप्तीनंतर लगेच ठेवले आहे. पाठाचे स्वतःचे शब्द साधे आहेत. ते म्हणते की पूज्य भगवानांनी, सर्वोच्च ज्ञान आणि दर्शनाने संपन्न होऊन, पाच महाव्रते आणि सहा प्रकारचे जीव यांचा उपदेश केला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "An assembly no one joined",
+    "hi": {
+     "text": "एक सभा जिसमें कोई सम्मिलित न हुआ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक सभा ज्यात कोणी सामील झाले नाही",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Svetambara tradition, in works later than the Kalpa Sutra, tells that the first teaching, given at the place of the attainment, found no one ready to take up the vows. It is told as a rare thing, one of the surprises that Jain tradition says happens in the life of each Tirthankara. The gods came and listened, but no human took up the way of renunciation.\n\nThe Digambara tradition tells it differently. For the Digambaras, the Jina's voice, called divyadhvani, remained silent for sixty-six days after the attainment, because the proper chief disciple had not yet arrived to receive it. Both stories explain a gap between the attainment and the real beginning of the teaching, and both turn on the same point: a teacher needs someone ready to listen. The sutra itself does not mention the gap and passes straight to the community that grew around him.",
+    "hi": {
+     "text": "श्वेतांबर परंपरा, कल्पसूत्र के बाद की रचनाओं में, बताती है कि प्राप्ति के स्थान पर दिया गया पहला उपदेश किसी को भी व्रत लेने के लिए तैयार नहीं कर पाया। यह एक दुर्लभ घटना के रूप में कही गई है, उन आश्चर्यों में से एक जो जैन परंपरा के अनुसार हर तीर्थंकर के जीवन में घटित होते हैं। देव आए और उन्होंने सुना, परंतु किसी मनुष्य ने त्याग का मार्ग नहीं अपनाया।\n\nदिगंबर परंपरा इसे भिन्न रूप में कहती है। दिगंबरों के अनुसार, प्राप्ति के बाद जिन की वाणी, जिसे दिव्यध्वनि कहा जाता है, छियासठ दिनों तक मौन रही, क्योंकि उपयुक्त प्रमुख शिष्य अभी तक नहीं पहुँचा था जो उसे ग्रहण करता। दोनों कथाएँ प्राप्ति और शिक्षा के वास्तविक आरंभ के बीच के अंतराल की व्याख्या करती हैं, और दोनों एक ही बात पर टिकी हैं: शिक्षक को ऐसे व्यक्ति की आवश्यकता होती है जो सुनने के लिए तैयार हो। सूत्र स्वयं इस अंतराल का उल्लेख नहीं करता, और सीधे उस समुदाय की ओर बढ़ता है जो उनके चारों ओर बना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्वेतांबर परंपरा, कल्पसूत्रानंतरच्या ग्रंथांत, सांगते की प्राप्तीच्या ठिकाणी दिलेल्या पहिल्या उपदेशात व्रत घेण्यास कोणीही तयार नव्हते. हे दुर्मीळ घटना म्हणून सांगितले आहे, जैन परंपरा ज्या आश्चर्यांना प्रत्येक तीर्थंकराच्या जीवनात घडतात असे मानते, त्यांपैकी एक. देव आले आणि त्यांनी ऐकले, पण एकाही मनुष्याने त्यागाचा मार्ग स्वीकारला नाही.\n\nदिगंबर परंपरा हे वेगळ्या प्रकारे सांगते. दिगंबरांच्या मते, प्राप्तीनंतर जिनांची वाणी, जिला दिव्यध्वनी म्हणतात, छासष्ट दिवस मौन राहिली, कारण योग्य प्रमुख शिष्य अजून आला नव्हता जो ती ग्रहण करील. दोन्ही कथा प्राप्ती आणि शिकवणीची खरी सुरुवात यांमधील अंतर स्पष्ट करतात, आणि दोन्ही एकाच मुद्द्यावर आधारित आहेत: शिक्षकाला असा कोणीतरी हवा असतो जो ऐकण्यास तयार आहे. सूत्र स्वतः हे अंतर नमूद करत नाही, आणि थेट त्यांच्याभोवती उभ्या राहिलेल्या समुदायाकडे जाते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Pava and the garden of Mahasena",
+    "hi": {
+     "text": "पावा और महासेन का उद्यान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पावा आणि महासेन उद्यान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "According to Svetambara tradition, Mahavira then walked to the town of Apapa, or Pava, to the garden called Mahasena, where a wealthy Brahmin named Somila was holding a great sacrifice. Among the learned men gathered there was Indrabhuti Gautama, a scholar who was famous for his command of the Vedas and who had five hundred pupils of his own.\n\nThe tradition says that Indrabhuti came to challenge the newcomer, and that Mahavira spoke to him by name and answered a doubt he had never spoken aloud, about the existence of the soul. Indrabhuti, convinced, bowed and became his disciple, with his five hundred pupils. The Digambara tradition places this meeting at Rajagriha, on the hill called Vipulachala. The sutra does not tell the story, but the fact behind it is not in doubt. Indrabhuti of the Gautama family is named in the Kalpa Sutra as the oldest of his disciples.",
+    "hi": {
+     "text": "श्वेतांबर परंपरा के अनुसार, महावीर फिर अपापा, या पावा नगर की ओर गए, महासेन नामक उद्यान में, जहाँ सोमिल नामक एक धनी ब्राह्मण एक बड़ा यज्ञ करा रहा था। वहाँ एकत्र विद्वानों में इंद्रभूति गौतम थे, एक ऐसे विद्वान जो वेदों पर अपनी पकड़ के लिए प्रसिद्ध थे और जिनके अपने पाँच सौ शिष्य थे।\n\nपरंपरा कहती है कि इंद्रभूति नवागंतुक को चुनौती देने आए थे, और महावीर ने उन्हें नाम लेकर संबोधित किया और उनके एक ऐसे संदेह का उत्तर दिया जो उन्होंने कभी ज़ोर से नहीं कहा था: आत्मा के अस्तित्व के विषय में। इंद्रभूति, आश्वस्त होकर, झुके और अपने पाँच सौ शिष्यों सहित उनके शिष्य बन गए। दिगंबर परंपरा यह भेंट राजगृह में, विपुलाचल नामक पहाड़ी पर रखती है। सूत्र यह कथा नहीं कहता, पर उसके पीछे का तथ्य संदेह से परे है। गौतम गोत्र के इंद्रभूति को कल्पसूत्र उनके शिष्यों में सबसे ज्येष्ठ के रूप में नामित करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्वेतांबर परंपरेनुसार, महावीर मग अपापा, म्हणजे पावा नगराकडे चालत गेले, महासेन नावाच्या उद्यानात, जिथे सोमिल नावाचा एक श्रीमंत ब्राह्मण मोठा यज्ञ करत होता. तिथे जमलेल्या विद्वानांमध्ये इंद्रभूती गौतम होते, वेदांवरील प्रभुत्वासाठी प्रसिद्ध आणि स्वतःचे पाचशे शिष्य असलेले विद्वान.\n\nपरंपरा सांगते की इंद्रभूती नवागताला आव्हान देण्यासाठी आले होते, आणि महावीरांनी त्यांना नाव घेऊन संबोधले आणि त्यांच्या एका अशा शंकेचे उत्तर दिले जी त्यांनी कधी मोठ्याने बोलली नव्हती: आत्मा अस्तित्वात आहे का याविषयी. इंद्रभूती खात्री पटून नतमस्तक झाले आणि आपल्या पाचशे शिष्यांसह त्यांचे शिष्य झाले. दिगंबर परंपरा ही भेट राजगृहात, विपुलाचल नावाच्या टेकडीवर ठेवते. सूत्र ही कथा सांगत नाही, पण त्यामागील वस्तुस्थितीबद्दल शंका नाही. गौतम गोत्राचे इंद्रभूती हे त्यांच्या शिष्यांमध्ये सर्वात ज्येष्ठ म्हणून कल्पसूत्रात नोंदवलेले आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The eleven chief disciples",
+    "hi": {
+     "text": "ग्यारह गणधर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अकरा गणधर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ten other learned men came with their pupils, as the tradition tells it, and so there were eleven ganadharas, the chief disciples who received Mahavira's teaching and arranged it for others to remember. The Sthaviravali, the section of the Kalpa Sutra that lists the lineage, says that he had nine ganas, or groups of monks, and eleven ganadharas.\n\nIt explains why the numbers are different. The oldest was Indrabhuti, the middle-aged Agnibhuti and the youngest Vayubhuti, all of the Gautama family, each teaching five hundred monks. The rest are named in the list that follows, among them Arya Vyakta of the Bharadvaja family and Sudharman, who would later carry the teaching on. This list matters to Jains because the whole line of teachers after Mahavira, the sthaviras, draws its authority from these first disciples. Through them the words of the Jina were handed down by memory.",
+    "hi": {
+     "text": "परंपरा के अनुसार दस अन्य विद्वान भी अपने शिष्यों के साथ आए, और इस प्रकार ग्यारह गणधर हुए, प्रमुख शिष्य जिन्होंने महावीर का उपदेश ग्रहण किया और उसे दूसरों के स्मरण के लिए व्यवस्थित किया। स्थविरावली, कल्पसूत्र का वह भाग जो वंश-परंपरा सूचीबद्ध करता है, कहती है कि उनके नौ गण, यानी साधुओं के समूह, और ग्यारह गणधर थे।\n\nवह बताती है कि संख्याएँ भिन्न क्यों हैं। सबसे ज्येष्ठ इंद्रभूति थे, मध्यम आयु के अग्निभूति, और सबसे छोटे वायुभूति, ये सभी गौतम गोत्र के थे, और प्रत्येक पाँच सौ साधुओं को पढ़ाता था। शेष का नाम आगे की सूची में है, जिनमें भारद्वाज गोत्र के आर्य व्यक्त और सुधर्मा भी हैं, जो आगे चलकर शिक्षा को आगे ले गए। यह सूची जैनों के लिए महत्त्वपूर्ण है, क्योंकि महावीर के बाद के आचार्यों की पूरी परंपरा, जिन्हें स्थविर कहते हैं, इन्हीं प्रथम शिष्यों से अपना प्रामाणिक आधार लेती है। इन्हीं के माध्यम से जिन के वचन स्मृति के सहारे आगे पहुँचे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परंपरेनुसार दहा इतर विद्वानही आपल्या शिष्यांसह आले, आणि अशा प्रकारे अकरा गणधर झाले, म्हणजे प्रमुख शिष्य ज्यांनी महावीरांची शिकवण ग्रहण केली आणि ती इतरांनी स्मरणात ठेवावी म्हणून मांडली. स्थविरावली, कल्पसूत्राचा तो भाग जो वंशपरंपरेची यादी देतो, सांगते की त्यांचे नऊ गण, म्हणजे साधूंचे समूह, आणि अकरा गणधर होते.\n\nती सांगते की संख्या भिन्न का आहेत. सर्वात ज्येष्ठ इंद्रभूती होते, मध्यम वयाचे अग्निभूती, आणि सर्वात लहान वायुभूती, हे सर्व गौतम गोत्राचे होते, आणि प्रत्येक जण पाचशे साधूंना शिकवत असे. उरलेल्यांची नावे पुढील यादीत आहेत, त्यात भारद्वाज गोत्राचे आर्य व्यक्त आणि सुधर्मा आहेत, जे पुढे शिकवण वाहून नेणार होते. ही यादी जैनांसाठी महत्त्वाची आहे, कारण महावीरांनंतरची शिक्षक-परंपरा, जिला स्थविर म्हणतात, संपूर्णपणे या पहिल्या शिष्यांकडून आपला अधिकार घेते. त्यांच्याद्वारे जिनांचे शब्द स्मृतीच्या आधाराने पुढे आले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The community grows",
+    "hi": {
+     "text": "संघ का विस्तार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संघाचा विस्तार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Kalpa Sutra gives the size of the community that gathered around him, and Jacobi notes that these numbers, though large, are nevertheless rather moderate for texts of their kind. There were fourteen thousand monks with Indrabhuti at their head, thirty-six thousand nuns with Chandana at their head, one hundred and fifty-nine thousand lay men with Shankhashataka at their head, and three hundred and eighteen thousand lay women with Sulasa and Revati at their head.\n\nThe list goes on: three hundred who knew the fourteen ancient texts, seven hundred who were themselves omniscient, and others gifted in many kinds of knowledge. What is notable is that the community had four parts: monks, nuns, laymen and laywomen. Women appear in it from the beginning, in numbers larger than the men, and the text names the leaders of the nuns and of the laywomen as it names those of the monks. The next chapter looks at what they were taught.",
+    "hi": {
+     "text": "कल्पसूत्र उस समुदाय का आकार बताता है जो उनके चारों ओर एकत्र हुआ, और याकोबी ध्यान दिलाते हैं कि ये संख्याएँ, बड़ी होने पर भी, अपनी श्रेणी के ग्रंथों के लिए अपेक्षाकृत संयत हैं। इंद्रभूति के नेतृत्व में चौदह हज़ार साधु थे, चंदना के नेतृत्व में छत्तीस हज़ार साध्वियाँ, शंखशतक के नेतृत्व में एक लाख उनसठ हज़ार गृहस्थ पुरुष, और सुलसा तथा रेवती के नेतृत्व में तीन लाख अठारह हज़ार गृहस्थ स्त्रियाँ।\n\nसूची आगे बढ़ती है: तीन सौ जो चौदह प्राचीन ग्रंथ जानते थे, सात सौ जो स्वयं सर्वज्ञ थे, और अन्य जो अनेक प्रकार के ज्ञान में निपुण थे। उल्लेखनीय बात यह है कि समुदाय के चार अंग थे: साधु, साध्वी, गृहस्थ पुरुष और गृहस्थ स्त्रियाँ। स्त्रियाँ आरंभ से ही उसमें उपस्थित हैं, और कई गुना अधिक संख्या में, तथा पाठ साध्वियों और गृहस्थ स्त्रियों की प्रमुखाओं के नाम भी उसी प्रकार लेता है जैसे साधुओं के प्रमुखों के। अगला अध्याय देखता है कि उन्हें क्या सिखाया गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कल्पसूत्र त्यांच्याभोवती जमलेल्या समुदायाचा आकार सांगते, आणि याकोबी लक्षात आणून देतात की या संख्या, मोठ्या असल्या तरी, त्यांच्या प्रकारच्या ग्रंथांसाठी तुलनेने संयत आहेत. इंद्रभूतींच्या नेतृत्वाखाली चौदा हजार साधू होते, चंदनाच्या नेतृत्वाखाली छत्तीस हजार साध्वी, शंखशतकाच्या नेतृत्वाखाली एक लाख एकोणसाठ हजार गृहस्थ पुरुष, आणि सुलसा व रेवती यांच्या नेतृत्वाखाली तीन लाख अठरा हजार गृहस्थ स्त्रिया.\n\nयादी पुढे जाते: चौदा प्राचीन ग्रंथ जाणणारे तीनशे, स्वतः सर्वज्ञ असलेले सातशे, आणि अनेक प्रकारच्या ज्ञानात निपुण इतर. लक्षणीय गोष्ट म्हणजे समुदायाचे चार भाग होते: साधू, साध्वी, गृहस्थ पुरुष आणि गृहस्थ स्त्रिया. स्त्रिया सुरुवातीपासूनच त्यात आहेत, पुरुषांपेक्षा अधिक संख्येने, आणि पाठ साध्वी व गृहस्थ स्त्रियांच्या प्रमुखांची नावेही साधूंच्या प्रमुखांच्या नावांइतक्याच आदराने देते. पुढील प्रकरण पाहते की त्यांना काय शिकवले गेले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "In that period, in that age the Venerable Ascetic Mahavira had an excellent community of fourteen thousand Sramanas with Indrabhuti at their head;",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §134 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §134 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §134 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The Kalpa Sutra names Indrabhuti as the head of fourteen thousand monks.",
+   "hi": {
+    "text": "कल्पसूत्र इंद्रभूति को चौदह हज़ार साधुओं का प्रमुख बताता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र इंद्रभूतींना चौदा हजार साधूंचे प्रमुख म्हणून नाव देते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who first listened to you with real attention, and what did that change?",
+  "hi": {
+   "text": "किसने तुम्हें पहली बार सच्चे ध्यान से सुना, और उससे तुम्हारे जीवन में क्या बदला?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुला पहिल्यांदा खऱ्या लक्षाने कोणी ऐकले, आणि त्यामुळे तुझ्या आयुष्यात काय बदलले?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A teaching becomes a living tradition when someone is ready to receive it, and the traditions agree on that even where they disagree on details.",
+  "hi": {
+   "text": "कोई शिक्षा तब जीवंत परंपरा बनती है जब कोई उसे ग्रहण करने के लिए तैयार हो, और परंपराएँ विवरणों में भिन्न होकर भी इस बात पर सहमत हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एखादी शिकवण तेव्हाच जिवंत परंपरा बनते जेव्हा कोणीतरी ती स्वीकारण्यास तयार असते, आणि परंपरा तपशिलांत भिन्न असल्या तरी या गोष्टीवर सहमत आहेत.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§121–145 and the Sthaviravali; later tradition noted; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§121–145 और स्थविरावली; बाद की परंपरा का उल्लेख; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§121–145 आणि स्थविरावली; नंतरची परंपरा नमूद; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

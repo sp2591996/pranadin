@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-weeds-among-the-wheat",
+ "order": 3,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Weeds Among the Wheat",
+  "hi": {
+   "text": "गेहूँ के बीच जंगली पौधे",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गव्हात मिसळलेले तण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A farmer finds weeds in his good field and chooses patience over a quick clean-up.",
+  "hi": {
+   "text": "एक किसान अपने अच्छे खेत में जंगली पौधे पाता है और जल्दबाज़ी में सफाई करने के बजाय धैर्य चुनता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक शेतकरी आपल्या चांगल्या शेतात तण शोधतो आणि घाईने साफसफाई करण्याऐवजी संयम निवडतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-weeds-bloemaert.webp",
+   "w": 1200,
+   "h": 905,
+   "caption": {
+    "en": "Landscape with the parable of the tares, Abraham Bloemaert",
+    "hi": {
+     "text": "गेहूँ के बीच जंगली पौधों के दृष्टांत वाला भू-दृश्य, अब्राहम ब्लोमार्ट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गव्हातील तणांच्या दृष्टांतासह निसर्गदृश्य, अब्राहम ब्लूमार्ट",
+     "reviewed": false
+    }
+   },
+   "credit": "Abraham Bloemaert, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Abraham_Bloemaert_-_Landscape_with_the_Parable_of_the_Tares_among_the_Wheat_-_WGA02280.jpg"
+  },
+  {
+   "src": "/stories/parables/p-weeds-duivel.webp",
+   "w": 1200,
+   "h": 784,
+   "caption": {
+    "en": "The devil sows weeds among the wheat (Rijksmuseum print)",
+    "hi": {
+     "text": "शैतान गेहूँ के बीच जंगली पौधे बोता है (राइक्सम्युज़ियम)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सैतान गव्हात तण पेरतो (रिक्सम्युझियम)",
+     "reviewed": false
+    }
+   },
+   "credit": "Rijksmuseum, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:De_duivel_zaait_onkruid_tussen_het_graan,_RP-T-1897-A-3353.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "More stories by the sea",
+    "hi": {
+     "text": "समुद्र किनारे और कहानियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "समुद्राकाठच्या आणखी गोष्टी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the same long day of teaching beside the Sea of Galilee, Jesus told the crowds one parable after another. The Gospel of Matthew says he set this next story before them as a picture of the Kingdom of Heaven, the rule of God that he said was already beginning to touch the world. He was speaking to farming people who knew fields as well as they knew their own hands.\n\nThe story concerns something every farmer fears. It begins as a calm tale of a man who sowed good seed in his field, which promised an ordinary and happy harvest. Then, in the second sentence, something goes wrong in the night, and the listeners would have felt that small chill of recognition, because it was the kind of trouble they had met themselves.",
+    "hi": {
+     "text": "गलील झील के किनारे उसी लंबे दिन की शिक्षा में यीशु भीड़ से एक के बाद एक दृष्टांत कहते गए। मत्तय का सुसमाचार कहता है कि उन्होंने यह अगली कहानी स्वर्ग के राज्य के चित्र के रूप में उनके सामने रखी, यानी वह परमेश्वर का शासन जो उनके अनुसार दुनिया को छूने लगा था। वे खेती करने वाले लोगों से बोल रहे थे, जो खेतों को उतना ही जानते थे जितना अपने हाथों को।\n\nकहानी उस चीज़ से जुड़ी है जिससे हर किसान डरता है। यह एक शांत कथा से शुरू होती है, एक ऐसे व्यक्ति की जिसने अपने खेत में अच्छा बीज बोया, जो एक साधारण और सुखद फसल का वादा करता था। फिर दूसरे वाक्य में रात में कुछ गलत हो जाता है, और सुनने वालों को पहचान की वह छोटी सिहरन महसूस हुई होगी, क्योंकि यह वैसी ही परेशानी थी जो उन्होंने खुद झेली थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गालीली सरोवराकाठी त्याच लांब शिकवणीच्या दिवशी यीशू जमावाला एकामागून एक दृष्टांत सांगत होते. मत्तीचे शुभवर्तमान सांगते की त्यांनी ही पुढील गोष्ट स्वर्गाच्या राज्याचे चित्र म्हणून त्यांच्यासमोर ठेवली, म्हणजे ती देवाची सत्ता जी त्यांच्या मते जगाला स्पर्श करू लागली होती. ते शेती करणार्या लोकांशी बोलत होते, जे शेते आपल्या हातांइतकीच चांगली ओळखत होते.\n\nही गोष्ट प्रत्येक शेतकर्याला भेडसावणार्या भीतीशी संबंधित आहे. ती एका शांत कथेने सुरू होते, एका माणसाने आपल्या शेतात चांगले बी पेरले, जे एक साधे आणि आनंदी पीक देण्याचे वचन देत होते. मग दुसर्या वाक्यात रात्री काहीतरी चुकते, आणि श्रोत्यांना ओळखीची ती छोटीशी शिरशिरी जाणवली असेल, कारण हा त्रास त्यांनीही स्वतः अनुभवलेला होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The enemy in the night",
+    "hi": {
+     "text": "रात का शत्रु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रात्रीचा शत्रु",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "While everyone slept, the man's enemy came and sowed weeds in among the wheat, and then slipped away. The weed meant here is darnel, which looks very much like wheat while both are young and is hard to tell apart until the heads begin to form. Nobody notices anything wrong for weeks.\n\nOnly when the blades come up and the grain begins to form do the weeds show themselves. The servants of the householder come to their master, puzzled and a little hurt. Did you not sow good seed in your field, they ask, so where did these weeds come from? The master does not blame them and does not pretend to be surprised. An enemy has done this, he says quietly. It is a story about the sudden discovery that all is not as clean as it seemed, and about how a wise person responds.",
+    "hi": {
+     "text": "जब सब सो रहे थे, तब उस मनुष्य का शत्रु आया और गेहूँ के बीच जंगली पौधे बो गया, और फिर चुपचाप चला गया। यहाँ जिस जंगली पौधे की बात है वह संभवतः कड़वा दाना है, जो जब दोनों छोटे होते हैं तो गेहूँ जैसा ही दिखता है, और बालियाँ बनने तक उसे पहचानना कठिन होता है। हफ्तों तक किसी को कुछ गलत नहीं दिखता।\n\nजब पत्तियाँ निकलती हैं और दाने बनने लगते हैं, तब जाकर जंगली पौधे अपनी पहचान दिखाते हैं। घर के मालिक के सेवक, उलझन में और थोड़े आहत होकर, अपने स्वामी के पास आते हैं। क्या तूने अपने खेत में अच्छा बीज नहीं बोया था, वे पूछते हैं, तो ये जंगली पौधे कहाँ से आ गए? स्वामी उन्हें दोष नहीं देता और न ही आश्चर्य का नाटक करता है। यह किसी शत्रु का काम है, वह शांति से कहता है। यह उस अचानक खोज की कहानी है कि सब कुछ उतना साफ नहीं जितना दिखता था, और कि एक बुद्धिमान व्यक्ति इस पर कैसे प्रतिक्रिया देता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सगळे झोपलेले असताना त्या माणसाचा शत्रू आला आणि गव्हात तण पेरून निघून गेला. येथे जे तण म्हटले आहे ते बहुधा कुरडू (डरनेल) आहे, जे दोन्ही लहान असताना गव्हासारखेच दिसते आणि कणसे येईपर्यंत ओळखणे कठीण असते. आठवडेभर कोणाच्या लक्षातही काही चूक येत नाही.\n\nजेव्हा पाती वर येतात आणि दाणे धरू लागतात, तेव्हाच तण आपली ओळख दाखवते. घरमालकाचे सेवक, गोंधळलेले आणि थोडे दुखावलेले, आपल्या धन्याकडे येतात. तू आपल्या शेतात चांगले बी पेरले नव्हते का, ते विचारतात, मग हे तण कुठून आले? धनी त्यांना दोष देत नाही आणि आश्चर्याचे नाटकही करत नाही. हे एका शत्रूने केले आहे, तो शांतपणे म्हणतो. ही कथा त्या अचानक शोधाविषयी आहे की सर्व काही दिसते तितके स्वच्छ नाही, आणि एक शहाणा माणूस त्यावर कशी प्रतिक्रिया देतो याविषयी आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Let both grow",
+    "hi": {
+     "text": "दोनों को बढ़ने दो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन्ही वाढू द्या",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The servants offer to do the obvious thing and go out to gather the weeds up at once. It is a sensible, energetic offer, and any farmer would understand the urge. But the master says no. If you pull up the weeds now, he warns, you may root up the wheat along with them, because the two have grown tangled together below the surface.\n\nHis answer is to wait. Let both grow together until the harvest, he says. At harvest time he will tell the reapers to gather the weeds first and bind them in bundles to burn, and to bring the wheat safely into his barn. It is an odd, patient kind of farming, a decision to put up with a mixed field today for the sake of the grain. The answer is patient and practical, since the master knows his field better than his servants do.",
+    "hi": {
+     "text": "सेवक वह स्पष्ट काम करने की पेशकश करते हैं और अभी जाकर जंगली पौधे उखाड़ने को तैयार हैं। यह एक समझदार और उत्साही प्रस्ताव है, और हर किसान इस भावना को समझेगा। पर स्वामी नहीं कहता। अगर तुम अभी जंगली पौधे उखाड़ोगे, वह चेतावनी देता है, तो शायद गेहूँ भी उनके साथ उखड़ जाए, क्योंकि ज़मीन के नीचे दोनों आपस में उलझ चुके हैं।\n\nउसका उत्तर है प्रतीक्षा करना। दोनों को फसल तक साथ-साथ बढ़ने दो, वह कहता है। कटाई के समय वह कटाई करने वालों से कहेगा कि पहले जंगली पौधे इकट्ठे करके गट्ठर बाँधकर जलाने के लिए रखें, और गेहूँ सुरक्षित रूप से अपने खलिहान में लाएँ। यह एक विचित्र, धैर्यवान प्रकार की खेती है, अनाज की खातिर आज मिश्रित खेत को सहने का निर्णय। उत्तर धैर्यवान और व्यावहारिक है, क्योंकि स्वामी अपने खेत को सेवकों से बेहतर जानता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सेवक स्पष्ट गोष्ट करण्याची ऑफर देतात, आणि लगेच जाऊन तण उपटायला तयार असतात. ही समजूतदार आणि उत्साही ऑफर आहे, आणि प्रत्येक शेतकरी ही ओढ समजेल. पण धनी नकार देतो. आता तण उपटलेस तर, तो इशारा देतो, कदाचित गहूही त्यांच्याबरोबर उपटला जाईल, कारण जमिनीखाली दोन्ही एकमेकांत गुंतलेले आहेत.\n\nत्याचे उत्तर आहे प्रतीक्षा करणे. कापणीपर्यंत दोघांना एकत्र वाढू द्या, तो म्हणतो. कापणीच्या वेळी तो कापणी करणार्यांना आधी तण गोळा करून त्याचे भारे बांधून जाळण्यासाठी ठेवायला सांगेल, आणि गहू सुरक्षितपणे आपल्या कोठारात आणायला सांगेल. ही एक विचित्र, संयमी प्रकारची शेती आहे, धान्यासाठी आज मिश्रित शेत सहन करण्याचा निर्णय. उत्तर संयमी आणि व्यावहारिक आहे, कारण धनी आपल्या सेवकांपेक्षा आपले शेत अधिक चांगले जाणतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The explanation",
+    "hi": {
+     "text": "स्पष्टीकरण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्पष्टीकरण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Later, in the house, the disciples asked Jesus to explain the parable of the weeds, and he did. The one who sows the good seed is the Son of Man, a title Jesus used for himself. The field is the world, the good seed are the children of the Kingdom, and the weeds are the children of the evil one. The harvest is the end of the age, and the reapers are angels.\n\nHe described the end of the age in stark images of fire and of the righteous shining like the sun in the Kingdom of their Father. Christians honour these as serious words about final justice. At the same time, the story as Jesus told it puts the sorting in the hands of God at the harvest, and not in the hands of the servants who pull up plants today.",
+    "hi": {
+     "text": "बाद में घर में शिष्यों ने यीशु से जंगली पौधों के दृष्टांत का अर्थ समझाने को कहा, और उन्होंने समझाया। अच्छा बीज बोने वाला मनुष्य का पुत्र है, यह उपाधि यीशु ने अपने लिए इस्तेमाल की। खेत संसार है, अच्छा बीज राज्य की संतान है, और जंगली पौधे उस दुष्ट की संतान हैं। कटाई युग का अंत है, और कटाई करने वाले स्वर्गदूत हैं।\n\nउन्होंने युग के अंत का वर्णन आग के कठोर चित्रों से किया, और धर्मियों का अपने पिता के राज्य में सूर्य के समान चमकने का। ईसाई इन्हें अंतिम न्याय के विषय में गंभीर शब्दों के रूप में सम्मान देते हैं। साथ ही, यीशु द्वारा बताई गई कहानी छँटाई का काम कटाई के समय परमेश्वर के हाथों में रखती है, और आज पौधे उखाड़ने वाले सेवकों के हाथों में नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नंतर घरात शिष्यांनी यीशूला तणांच्या दृष्टांताचा अर्थ समजावून सांगण्यास सांगितले, आणि त्यांनी तो सांगितला. चांगले बी पेरणारा मनुष्याचा पुत्र आहे, ही उपाधी यीशूने स्वतःसाठी वापरली. शेत जग आहे, चांगले बी राज्याची मुले आहेत, आणि तण दुष्टाची मुले आहेत. कापणी युगाचा शेवट आहे, आणि कापणी करणारे देवदूत आहेत.\n\nत्यांनी युगाच्या शेवटाचे वर्णन अग्नीच्या कठोर प्रतिमांनी केले, आणि नीतिमान लोक आपल्या पित्याच्या राज्यात सूर्यासारखे तेजस्वी होतील असे सांगितले. ख्रिस्ती लोक ह्यांना अंतिम न्यायाविषयी गंभीर शब्द म्हणून मान देतात. त्याच वेळी, यीशूने सांगितलेली गोष्ट वर्गवारी कापणीच्या वेळी देवाच्या हाती ठेवते, आज रोपे उपटणार्या सेवकांच्या हाती नाही.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Patience in a mixed field",
+    "hi": {
+     "text": "मिश्रित खेत में धैर्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मिसळलेल्या शेतात संयम",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Many Christians have taken this parable as a caution against hurrying to judge. The world is a mixed field, and so is the human heart, and we are rarely wise enough to separate the good from the bad in others without damaging something precious. The master's patience is a reminder that the final verdict is not ours to give.\n\nThe story also acknowledges honestly that evil is real and that it can be planted by someone who means harm. It does not pretend the field is clean. For readers of any tradition, it offers a calm view of a world in which good and bad grow side by side. We are asked to keep faith, to keep tending the wheat, and to be gentle with our eagerness to uproot. In a mixed field, humility is not weakness but wisdom, and the harvest has its own time.",
+    "hi": {
+     "text": "कई ईसाइयों ने इस दृष्टांत को जल्दी निर्णय देने के विरुद्ध चेतावनी के रूप में लिया है। संसार एक मिश्रित खेत है, और मानव हृदय भी, और हम दूसरों में अच्छे और बुरे को अलग करने के लिए शायद ही इतने बुद्धिमान होते हैं कि कुछ मूल्यवान को नुकसान पहुँचाए बिना ऐसा कर सकें। स्वामी का धैर्य याद दिलाता है कि अंतिम निर्णय हमारा देना नहीं है।\n\nयह कहानी ईमानदारी से यह भी मानती है कि बुराई वास्तविक है और उसे कोई ऐसा व्यक्ति बो सकता है जो हानि पहुँचाना चाहता है। यह खेत को साफ होने का दिखावा नहीं करती। किसी भी परंपरा के पाठकों के लिए यह एक शांत दृष्टिकोण देती है, ऐसी दुनिया का जहाँ अच्छाई और बुराई साथ-साथ बढ़ती हैं। हमसे विश्वास बनाए रखने, गेहूँ की देखभाल करते रहने, और उखाड़ने की अपनी उतावली के प्रति कोमल रहने को कहा जाता है। मिश्रित खेत में नम्रता कमजोरी नहीं, बल्कि बुद्धिमत्ता है, और फसल का अपना समय होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनेक ख्रिस्ती लोकांनी हा दृष्टांत घाईने न्याय करण्याविरुद्धचा इशारा म्हणून घेतला आहे. जग एक मिसळलेले शेत आहे, आणि मानवी हृदयही तसेच आहे, आणि आपण क्वचितच इतके शहाणे असतो की इतरांमधील चांगले आणि वाईट वेगळे करू शकू आणि काहीतरी मौल्यवान नुकसान न करता. धन्याचा संयम आठवण करून देतो की अंतिम निर्णय आपला नाही.\n\nही गोष्ट प्रामाणिकपणे हेही मान्य करते की वाईट वास्तविक आहे आणि ते कोणीतरी जो हानी करू इच्छितो तो पेरू शकतो. शेत स्वच्छ असल्याचा ती दिखावा करत नाही. कोणत्याही परंपरेच्या वाचकांना ती अशा जगाचा शांत दृष्टिकोन देते जिथे चांगले आणि वाईट शेजारी-शेजारी वाढतात. आपल्याला श्रद्धा टिकवून ठेवण्यास, गव्हाची काळजी घेत राहण्यास आणि उपटण्याच्या आपल्या उतावळेपणाशी सौम्य राहण्यास सांगितले जाते. मिसळलेल्या शेतात नम्रता कमकुवतपणा नसून शहाणपण आहे, आणि पिकाला आपली वेळ असते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "No, lest perhaps while you gather up the darnel weeds, you root up the wheat with them.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 13:29 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 13:29 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 13:29 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The master holds back the servants because pulling out the bad too soon could destroy the good.",
+   "hi": {
+    "text": "स्वामी सेवकों को रोकता है, क्योंकि बुराई को बहुत जल्दी उखाड़ने से अच्छाई भी नष्ट हो सकती है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "धनी सेवकांना थांबवतो, कारण वाईट लवकर उपटल्याने चांगलेही नष्ट होऊ शकते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Is there someone you have been quick to write off? What might you see if you gave the situation more time before deciding what it is?",
+  "hi": {
+   "text": "क्या कोई ऐसा है जिसे तुमने जल्दी से खारिज कर दिया है? यदि तुम निर्णय लेने से पहले स्थिति को थोड़ा और समय देते, तो तुम्हें क्या दिखता?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "असे कोणी आहे का ज्याला तुम्ही पटकन नाकारले आहे? निर्णय घेण्यापूर्वी परिस्थितीला थोडा अधिक वेळ दिला असता तर तुम्हाला काय दिसले असते?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "We are poor judges of what is wheat and what is weed; patience and humility protect what is good while the final sorting is left to God.",
+  "hi": {
+   "text": "हम यह तय करने में कमज़ोर न्यायाधीश हैं कि क्या गेहूँ है और क्या जंगली पौधा; धैर्य और नम्रता अच्छाई की रक्षा करते हैं, और अंतिम छँटाई परमेश्वर पर छोड़ी जाती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गहू काय आणि तण काय हे ठरवण्यात आपण कमकुवत न्यायाधीश आहोत; संयम आणि नम्रता चांगल्याचे रक्षण करतात, आणि अंतिम वर्गवारी देवावर सोडली जाते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 13:24-30, 36-43; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 13:24-30, 36-43 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 13:24-30, 36-43 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

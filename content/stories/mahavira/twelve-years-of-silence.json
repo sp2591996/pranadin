@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "twelve-years-of-silence",
+ "order": 11,
+ "part": "renunciation",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Twelve Years of Silence",
+  "hi": {
+   "text": "बारह वर्षों का मौन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "बारा वर्षांचे मौन",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Mahavira walks the roads of eastern India with no home, no companions and almost no words, and the old texts describe him with a string of images from nature.",
+  "hi": {
+   "text": "महावीर पूर्वी भारत की सड़कों पर बिना घर, बिना साथी और लगभग बिना शब्दों के चलते हैं, और प्राचीन ग्रंथ प्रकृति से लिए गए चित्रों की एक माला में उनका वर्णन करते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महावीर पूर्व भारतातील रस्त्यांवरून घर नसलेले, सोबती नसलेले आणि जवळजवळ शब्दांविना चालतात, आणि प्राचीन ग्रंथ निसर्गातील प्रतिमांच्या माळेत त्यांचे वर्णन करतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-silence.webp",
+   "w": 1200,
+   "h": 207,
+   "caption": {
+    "en": "A monk in meditation, Kalpa Sutra leaf (Devachandra)",
+    "hi": {
+     "text": "ध्यानमग्न जैन साधु, कल्पसूत्र का पृष्ठ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ध्यानस्थ जैन साधू, कल्पसूत्राचे पान",
+     "reviewed": false
+    }
+   },
+   "credit": "Devachandra, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Devachandra_-_Leaf_from_a_Jain_Manuscript-_Kalpa-sutra-_The_Monk_Gautama,_Enthroned_(rect_-_1971.118.6.a_-_Cleveland_Museum_of_Art.tif"
+  },
+  {
+   "src": "/stories/mahavira/m-statue-bruxelles.webp",
+   "w": 1100,
+   "h": 1100,
+   "caption": {
+    "en": "A seated Jain Tirthankara statue",
+    "hi": {
+     "text": "ध्यानमुद्रा में तीर्थंकर की प्रतिमा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ध्यानमुद्रेतील तीर्थंकरांची मूर्ती",
+     "reviewed": false
+    }
+   },
+   "credit": "Vassil, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mahavira_Bruxelles_02_10_2011.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The first road",
+    "hi": {
+     "text": "पहला मार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहिली वाट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Having taken his vow, Mahavira walked away from the park. The Acharanga Sutra says that he reached the village of Kummara when only a single muhurta of the day remained, a little under an hour. He had given up his body's comforts and was already living by his resolution, meditating on his Self in lodgings where no sin was committed and on a path that brought no harm to anyone.\n\nHe was, in the language of the sutra, houseless. He was careful in how he walked, how he spoke, how he begged, how he received anything and how he put things down. He guarded his thoughts, words and actions, and his senses. He was free of anger, pride, deceit and greed, and he owned nothing. The sutra gives this as a list because Jain life is a discipline of attention, in which no act is too small to be done with care. For a man who had been a prince, that attention was itself a new kind of wealth.",
+    "hi": {
+     "text": "व्रत लेने के बाद महावीर उद्यान से दूर चले गए। आचारांग सूत्र कहता है कि वे कुमार नामक गाँव पहुँचे, जब दिन का केवल एक मुहूर्त शेष था, लगभग एक घंटा। उन्होंने अपने शरीर की सुख-सुविधाएँ त्याग दी थीं, और अपने संकल्प से पहले ही जी रहे थे, ऐसे आवासों में अपनी आत्मा का चिंतन करते हुए जहाँ कोई पाप नहीं होता, और ऐसे मार्ग पर जो किसी को हानि नहीं पहुँचाता।\n\nवे, सूत्र की भाषा में, अनगार थे, गृहहीन। वे चलने, बोलने, भिक्षा माँगने, कुछ ग्रहण करने और कुछ रखने में सावधान थे। उन्होंने अपने विचारों, वचनों, कर्मों और इंद्रियों की रक्षा की। वे क्रोध, अहंकार, छल और लोभ से मुक्त थे, और उनके पास कुछ नहीं था। सूत्र यह सूची इसलिए देता है क्योंकि जैन जीवन ध्यान का अनुशासन है, जिसमें कोई कर्म इतना छोटा नहीं कि सावधानी से न किया जा सके। जो व्यक्ति कभी राजकुमार था, उसके लिए वह सावधानी स्वयं एक नई संपत्ति थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "व्रत घेतल्यानंतर महावीर उद्यानापासून दूर गेले. आचारांग सूत्र सांगते की ते कुमार नावाच्या गावी पोहोचले, जेव्हा दिवसाचा केवळ एक मुहूर्त शिल्लक होता, म्हणजे साधारण एक तास. त्यांनी आपल्या देहाची सुखसाधने सोडली होती, आणि आपल्या संकल्पानुसार आधीच जगत होते, अशा निवासस्थानांत आपल्या आत्म्याचे चिंतन करत जिथे कोणतेही पाप होत नाही, आणि अशा मार्गावर जो कोणालाही इजा करत नाही.\n\nते, सूत्राच्या भाषेत, अनगार होते, गृहहीन. ते चालताना, बोलताना, भिक्षा मागताना, काही घेताना आणि काही ठेवताना सावध होते. त्यांनी आपले विचार, वचने, कृती आणि इंद्रिये यांचे रक्षण केले. ते राग, अहंकार, कपट आणि लोभापासून मुक्त होते, आणि त्यांच्याकडे काहीच नव्हते. सूत्र ही यादी देते कारण जैन जीवन हे लक्ष देण्याची शिस्त आहे, ज्यात कोणतीही कृती इतकी लहान नसते की ती काळजीपूर्वक करता येणार नाही. जो माणूस एकेकाळी राजपुत्र होता, त्याच्यासाठी ती काळजी स्वतःच एक नवी संपत्ती होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "No fixed home",
+    "hi": {
+     "text": "कोई स्थायी घर नहीं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कोणतेही कायमचे घर नाही",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Kalpa Sutra describes his rhythm of travel. Except in the rainy season, during all the eight months of summer and winter, he stayed in a village only a single night and in a town only five nights. He moved on again and again, owning no house, never settling.\n\nThe Acharanga Sutra lists the places where he slept: workshops, assembly halls, wells, shops, sheds of straw, travellers' rest-houses, garden houses, burial grounds, empty houses and the foot of a tree. He slept very little, it says, waking himself often, and sometimes walked outside for an hour in the night. When people in a lodging asked who he was, he sometimes answered only, I am a mendicant. But the best rule, the sutra says, was to stay silent and meditate even if treated badly. He spoke little, and often not at all, which is the silence the chapter's title points to.",
+    "hi": {
+     "text": "कल्पसूत्र उनकी यात्रा की लय का वर्णन करता है। वर्षा ऋतु को छोड़कर, ग्रीष्म और शीत के आठों महीनों में वे किसी गाँव में केवल एक रात और किसी नगर में केवल पाँच रातें रुकते थे। वे बार-बार आगे बढ़ते, कोई घर न रखते, कभी न बसते।\n\nआचारांग सूत्र उन स्थानों की सूची देता है जहाँ वे सोते थे: कारखाने, सभा-भवन, कुएँ, दुकानें, पुआल के छप्पर, यात्रियों की धर्मशालाएँ, उद्यान-भवन, श्मशान, खाली घर और वृक्ष की जड़। वे बहुत कम सोते थे, सूत्र कहता है, बार-बार अपने को जगाते, और कभी-कभी रात में एक घंटा बाहर चलते। जब किसी आवास में लोग पूछते कि वे कौन हैं, तो कभी-कभी वे केवल इतना कहते कि मैं एक भिक्षु हूँ। पर सबसे अच्छा नियम, सूत्र कहता है, यह था कि बुरा व्यवहार मिलने पर भी मौन रहें और ध्यान करें। वे कम बोलते थे, और अक्सर बिलकुल नहीं, यही वह मौन है जिसकी ओर अध्याय का शीर्षक संकेत करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कल्पसूत्र त्यांच्या प्रवासाची लय सांगते. पावसाळा सोडून, उन्हाळा आणि हिवाळ्याच्या आठ महिन्यांत ते एखाद्या गावात फक्त एक रात्र आणि एखाद्या नगरात फक्त पाच रात्री राहत. ते वारंवार पुढे जात, कोणतेही घर ठेवत नसत, कधीही स्थायिक होत नसत.\n\nआचारांग सूत्र त्या जागांची यादी देते जिथे ते झोपत: कारखाने, सभागृहे, विहिरी, दुकाने, गवताच्या झोपड्या, प्रवाशांच्या धर्मशाळा, उद्यानातील घरे, स्मशाने, ओसाड घरे आणि झाडाचे खोड. ते फार कमी झोपत, सूत्र सांगते, वारंवार स्वतःला जागे करत, आणि कधी कधी रात्री एक तास बाहेर चालत. वस्तीत लोक विचारत की ते कोण आहेत, तेव्हा ते कधी कधी फक्त इतकेच म्हणत, मी एक भिक्षू आहे. पण सर्वोत्तम नियम, सूत्र सांगते, हा होता की वाईट वागणूक मिळाली तरी मौन राखावे आणि ध्यान करावे. ते कमी बोलत, आणि अनेकदा अजिबात नाही, आणि हेच ते मौन आहे ज्याकडे प्रकरणाचे शीर्षक निर्देश करते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The robe and the hand",
+    "hi": {
+     "text": "चोला और हाथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चोळणा आणि हात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The sutra says that, for a year and a month, Mahavira wore a robe, the divine garment given at his initiation. After that time he walked about naked and took his alms in the hollow of his hand, with no bowl at all. The Acharanga Sutra repeats this, adding that he gave up the robe and became world-relinquishing and houseless.\n\nThis is a point on which the Jain traditions differ with great courtesy. The Svetambara texts, including the Kalpa Sutra, tell of the thirteen months with a robe. Digambara tradition holds that he gave up all clothing at the moment of initiation and never wore any. The two traditions also differ in the practice of their own monks, the Svetambaras wearing plain white cloth and the Digambaras living unclothed. Both honour Mahavira's nakedness as a sign of complete non-possession. Whichever account a reader follows, the point is the same: the wanderer carried nothing that could be taken from him.",
+    "hi": {
+     "text": "सूत्र कहता है कि एक वर्ष और एक मास तक महावीर ने एक चोला पहना, वह दिव्य वस्त्र जो उनकी दीक्षा के समय मिला था। उसके बाद वे नग्न घूमे और भिक्षा अपनी हथेली की अंजलि में लेते थे, बिलकुल भिक्षापात्र के बिना। आचारांग सूत्र इसे दोहराता है, और जोड़ता है कि उन्होंने चोला त्याग दिया और संसार से विरक्त तथा गृहहीन हो गए।\n\nयह एक ऐसा बिंदु है जिस पर जैन परंपराएँ अत्यंत शिष्टता से भिन्न हैं। श्वेतांबर ग्रंथ, कल्पसूत्र सहित, तेरह मास के चोले की बात करते हैं। दिगंबर परंपरा मानती है कि उन्होंने दीक्षा के क्षण पर ही सभी वस्त्र त्याग दिए और कभी कुछ नहीं पहना। दोनों परंपराएँ अपने-अपने साधुओं के आचरण में भी भिन्न हैं: श्वेतांबर सादे श्वेत वस्त्र पहनते हैं और दिगंबर वस्त्रहीन रहते हैं। दोनों महावीर की नग्नता को पूर्ण अपरिग्रह के चिह्न के रूप में सम्मान देते हैं। किसी भी वृत्तांत को कोई पाठक माने, बिंदु वही है: वह भटकने वाला कुछ नहीं ढोता था जो उससे छीना जा सके।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूत्र सांगते की एक वर्ष आणि एक महिना महावीरांनी एक चोळणा नेसला होता, ते दिव्य वस्त्र जे त्यांच्या दीक्षेच्या वेळी मिळाले होते. त्यानंतर ते नग्न फिरले आणि भिक्षा आपल्या तळहाताच्या ओंजळीत घेत असत, अगदी भिक्षापात्राशिवाय. आचारांग सूत्र हे पुनरुच्चारते, आणि जोडते की त्यांनी चोळणा त्यागला आणि संसारापासून विरक्त व गृहहीन झाले.\n\nहा एक असा मुद्दा आहे ज्यावर जैन परंपरा अतिशय सौम्यपणे भिन्न आहेत. कल्पसूत्रासह श्वेतांबर ग्रंथ तेरा महिन्यांच्या चोळण्याविषयी सांगतात. दिगंबर परंपरा मानते की त्यांनी दीक्षेच्या क्षणीच सर्व वस्त्रे त्यागली आणि कधीही काही परिधान केले नाही. दोन्ही परंपरा आपापल्या साधूंच्या आचरणातही भिन्न आहेत: श्वेतांबर साधे पांढरे वस्त्र घालतात, आणि दिगंबर वस्त्रविरहित राहतात. दोन्ही परंपरा महावीरांच्या नग्नतेला पूर्ण अपरिग्रहाचे चिन्ह म्हणून मान देतात. कोणताही वाचक कोणता वृत्तांत मानतो, मुद्दा एकच आहे: तो भटकणारा असा काही बाळगत नव्हता जे त्याच्याकडून हिरावता आले असते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Like water on a copper vessel",
+    "hi": {
+     "text": "तांबे के पात्र पर जल की भाँति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तांब्याच्या भांड्यावरील पाण्यासारखे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Kalpa Sutra then breaks into a long series of pictures to say what kind of person he had become. Sins did not stick to him, it says, as water does not stick to a copper vessel or collyrium to mother-of-pearl. His course was unobstructed like that of the soul, he needed no support like the firmament, and he knew no obstacles like the wind.\n\nHis heart was clear like autumn water. Nothing could soil him, as a lotus leaf stays dry. His senses were drawn in like a tortoise's, he was alone like the horn of a rhinoceros, free like a bird, valiant like an elephant, strong like a bull and hard to attack like a lion. He was steady as Mount Mandara, deep as the ocean, mild as the moon, bright as the sun, pure as gold, patient as the earth and blazing like a well-kindled fire. The sutra then sums up the whole list in two short verses, as if it were a memory aid for those who would one day recite it.",
+    "hi": {
+     "text": "फिर कल्पसूत्र अनेक चित्रों की लंबी श्रृंखला में चला जाता है, यह बताने के लिए कि वे कैसे व्यक्ति बन गए थे। पाप उन पर उसी प्रकार नहीं चिपकते थे जैसे जल तांबे के पात्र पर नहीं टिकता, या सुरमा सीप पर नहीं लगता। उनका मार्ग आत्मा की भाँति बाधाहीन था, उन्हें आकाश की तरह किसी सहारे की आवश्यकता नहीं थी, और वायु की तरह उन्हें कोई रुकावट नहीं जानती थी।\n\nउनका हृदय शरद ऋतु के जल की तरह निर्मल था। कमल के पत्ते की तरह सूखा रहकर उन्हें कोई मलिन नहीं कर सकता था। उनकी इंद्रियाँ कछुए की तरह भीतर समेटी हुई थीं, वे गैंडे के सींग की तरह अकेले थे, पक्षी की तरह स्वतंत्र, हाथी की तरह वीर, बैल की तरह बलवान, और सिंह की तरह आक्रमण से अजेय। वे मंदर पर्वत की भाँति स्थिर, समुद्र की भाँति गहरे, चंद्र की भाँति सौम्य, सूर्य की भाँति उज्ज्वल, सोने की भाँति शुद्ध, पृथ्वी की भाँति धैर्यवान और प्रज्वलित अग्नि की भाँति तेजस्वी थे। सूत्र फिर इस पूरी सूची का सार दो छोटी गाथाओं में देता है, मानो यह उन लोगों के लिए स्मरण-सहायक हो जो इसे एक दिन पढ़ेंगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग कल्पसूत्र अनेक प्रतिमांच्या लांब मालेत जाते, ते सांगण्यासाठी की ते कोणते व्यक्ती बनले होते. पाप त्यांना चिकटत नव्हते, जसे पाणी तांब्याच्या भांड्यावर थांबत नाही, किंवा काजळ शिंपल्यावर चिकटत नाही. त्यांचा मार्ग आत्म्यासारखा अडथळाविरहित होता, त्यांना आकाशासारखा कोणत्याही आधाराची गरज नव्हती, आणि वाऱ्यासारखा त्यांना कोणताही अडथळा माहीत नव्हता.\n\nत्यांचे हृदय शरद ऋतूतील पाण्यासारखे निर्मळ होते. कमळाच्या पानासारखे कोरडे राहत असल्याने त्यांना कोणीही मलिन करू शकत नव्हते. त्यांची इंद्रिये कासवासारखी आत आवरलेली होती, ते गेंड्याच्या शिंगासारखे एकटे होते, पक्ष्यासारखे मुक्त, हत्तीसारखे शूर, बैलासारखे बलवान, आणि सिंहासारखे आक्रमणाला अजिंक्य. ते मंदर पर्वतासारखे स्थिर, समुद्रासारखे खोल, चंद्रासारखे सौम्य, सूर्यासारखे तेजस्वी, सोन्यासारखे शुद्ध, पृथ्वीसारखे धीरोदात्त आणि पेटलेल्या अग्नीसारखे तेजस्वी होते. सूत्र मग या संपूर्ण यादीचे सार दोन छोट्या गाथांमध्ये देते, जणू ती ज्यांना एके दिवशी ते वाचायचे आहे त्यांच्यासाठी स्मरणसाधन असावी.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The rains",
+    "hi": {
+     "text": "वर्षा ऋतु",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पावसाळा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "During the four months of rain, Jain monks and nuns do not travel, because the roads and fields are full of life. The Kalpa Sutra counts the places where Mahavira spent these retreats, and gives a total of forty-two rainy seasons as a monk. The first was at Asthikagrama. Later came Champa, Prishtichampa, Vaishali, Vanijagrama, Rajagriha, the suburb of Nalanda, Mithila, Bhadrika, Alabhika, Shravasti, and finally the town of Papa.\n\nA note in Jacobi's translation, from the commentary, says Asthikagrama was once called Vardhamana and was renamed after a yaksha had piled a great heap of bones there from the people he had killed. The sutra describes his inner life in the same period with a single refrain: he meditated on himself for twelve years, with supreme knowledge, supreme conduct and supreme patience, indifferent to the smell of dung or of sandal, to straw or jewels, to pleasure or pain, desiring neither life nor death.",
+    "hi": {
+     "text": "वर्षा के चार महीनों में जैन साधु-साध्वी यात्रा नहीं करते, क्योंकि मार्ग और खेत जीवों से भरे होते हैं। कल्पसूत्र उन स्थानों की गणना करता है जहाँ महावीर ने ये प्रवास बिताए, और साधु के रूप में बयालीस वर्षावासों का कुल योग देता है। पहला अस्थिकग्राम में था। बाद में चंपा, पृष्ठचंपा, वैशाली, वाणिज्यग्राम, राजगृह, नालंदा का उपनगर, मिथिला, भद्रिका, आलभिका, श्रावस्ती, और अंत में पावा नगर।\n\nयाकोबी की अनुवाद-टिप्पणी, टीका के आधार पर, बताती है कि अस्थिकग्राम पहले वर्धमान कहलाता था और एक यक्ष द्वारा उसके मारे गए लोगों की हड्डियों का बड़ा ढेर लगाए जाने के बाद उसका नाम बदला गया। सूत्र इसी काल में उनके आंतरिक जीवन का वर्णन एक ही टेक से करता है: वे बारह वर्षों तक अपने आप में चिंतन करते रहे, सर्वोच्च ज्ञान, सर्वोच्च आचरण और सर्वोच्च धैर्य के साथ, मल की दुर्गंध या चंदन की सुगंध से, तिनके या रत्नों से, सुख या दुख से समान रूप से उदासीन, न जीवन की और न मृत्यु की इच्छा रखते हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पावसाळ्याच्या चार महिन्यांत जैन साधू-साध्वी प्रवास करत नाहीत, कारण मार्ग आणि शेते जीवांनी भरलेली असतात. कल्पसूत्र ती ठिकाणे मोजते जिथे महावीरांनी हे वास्तव्य घालवले, आणि साधू म्हणून बेचाळीस पावसाळ्यांची एकूण संख्या देते. पहिला अस्थिकग्राममध्ये होता. नंतर चंपा, पृष्ठचंपा, वैशाली, वाणिज्यग्राम, राजगृह, नालंदाचे उपनगर, मिथिला, भद्रिका, आलभिका, श्रावस्ती, आणि शेवटी पावा नगर.\n\nयाकोबींची अनुवादावरील टिप्पणी, टीकेच्या आधारे, सांगते की अस्थिकग्राम पूर्वी वर्धमान म्हणून ओळखले जाई आणि एका यक्षाने तिथे मारलेल्या लोकांच्या हाडांचा मोठा ढीग लावल्यानंतर त्याचे नाव बदलले गेले. सूत्र याच काळातील त्यांच्या अंतर्गत जीवनाचे वर्णन एकाच टेकेने करते: ते बारा वर्षे स्वतःमध्ये चिंतन करत राहिले, सर्वोच्च ज्ञान, सर्वोच्च आचरण आणि सर्वोच्च धैर्यासह, विष्ठेच्या दुर्गंधीने किंवा चंदनाच्या सुगंधाने, गवताने किंवा अलंकारांनी, सुख किंवा दुःखाने समान उदासीन, जीवनाची किंवा मृत्यूची इच्छा न ठेवता.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "he was indifferent alike to the smell of ordure and of sandal, to straw and jewels, dirt and gold, pleasure and pain, attached neither to this world nor to that beyond, desiring neither life nor death",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §119 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §119 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §119 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "In his wandering years Mahavira treats pleasant and unpleasant, valuable and worthless, with the same calm.",
+   "hi": {
+    "text": "अपने भटकने के वर्षों में महावीर सुखद और दुखद, मूल्यवान और निरर्थक को एक ही समभाव से देखते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भटकंतीच्या वर्षांत महावीर सुखद आणि दुःखद, मौल्यवान आणि निरुपयोगी यांना एकाच शांततेने पाहतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What would change in your day if you gave one ordinary action your complete and quiet attention?",
+  "hi": {
+   "text": "यदि तुम अपने दिन की एक साधारण क्रिया को पूरे और शांत ध्यान से करते, तो तुम्हारे दिन में क्या बदल जाता?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तू आपल्या दिवसातील एखादी साधी कृती पूर्ण आणि शांत लक्ष देऊन केलीस, तर तुझ्या दिवसात काय बदलेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Evenness of mind, being at peace with what is pleasant and with what is not, is the real freedom the wandering years were seeking.",
+  "hi": {
+   "text": "समचित्तता, यानी सुखद और अप्रिय दोनों के साथ शांति रखना, वही वास्तविक स्वतंत्रता है जिसे भटकने के वर्ष खोज रहे थे।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "समचित्तता, म्हणजे सुखद आणि अप्रिय दोन्हीशी शांती राखणे, हीच खरी स्वातंत्र्यशक्ती आहे जी भटकंतीची वर्षे शोधत होती.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§116–122, with Acharanga Sutra I, 9 and II, 15; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§116–122; आचारांग सूत्र (प्रथम श्रुतस्कंध) ९ और (द्वितीय श्रुतस्कंध) १५ के साथ; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§116–122; आचारांग सूत्र (प्रथम श्रुतस्कंध) ९ आणि (द्वितीय श्रुतस्कंध) १५ यासह; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

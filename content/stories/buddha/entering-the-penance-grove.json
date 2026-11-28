@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "entering-the-penance-grove",
+ "order": 7,
+ "part": "renunciation",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Entering the Penance Grove",
+  "hi": {
+   "text": "तपोवन में प्रवेश",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तपोवनात प्रवेश",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The new wanderer walks into a forest of hermits and, courteous but unconvinced, asks what their hard penances are for.",
+  "hi": {
+   "text": "नया घुमक्कड़ तपस्वियों के एक वन में प्रवेश करता है, और विनम्र पर असहमत रहते हुए पूछता है कि उनकी कठोर तपस्या किसलिए है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नवा भटका साधू तपस्व्यांच्या एका अरण्यात प्रवेश करतो, आणि नम्र पण असहमत राहून विचारतो की त्यांच्या कठोर तपाचा उद्देश काय आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-penance-1.webp",
+   "w": 618,
+   "h": 855,
+   "caption": {
+    "en": "Head of the emaciated Buddha, a bronze from Gandhara",
+    "hi": {
+     "text": "कृश बुद्ध का शीर्ष, गांधार की कांस्य मूर्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कृश बुद्धांचे मस्तक, गांधारातील कांस्य शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "G41rn8, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Emaciated_Buddha._Bharat_Kala_Bhavan,_ni3-8.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A stranger among the hermits",
+    "hi": {
+     "text": "तपस्वियों के बीच अजनबी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तपस्व्यांमधील अनोळखी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The prince entered the grove of ascetics like a deer into a herd of deer. Ashvaghosha says that even without his royal robes his beauty drew every eye. Travellers with their carts and their wives stopped and stared, with the yokes still in their hands. Brahmans who had come out for firewood arrived with their arms full of fuel, flowers and sacred grass, and forgot to go back to their cells.\n\nThe peacocks cried out, as if they had seen a dark cloud rising, and the deer with their restless eyes came near. Even the cows, though their milking was done, let their milk flow for joy. The hermits whispered that one of the gods had come down, perhaps one of the Vasus or the Ashvins. The prince greeted them politely, with a voice like a cloud in the rainy season, and they invited him in. He walked through the hermitage with courtesy and curiosity, watching how people lived there.",
+    "hi": {
+     "text": "राजकुमार तपस्वियों के उपवन में ऐसे प्रविष्ट हुआ जैसे हिरण हिरणों के झुंड में आता है। अश्वघोष कहते हैं कि राजसी वस्त्रों के बिना भी उसके सौंदर्य ने हर आँख को खींच लिया। बैलगाड़ियों और पत्नियों के साथ आए यात्री रुककर देखने लगे, उनके जुए अब भी उनके हाथों में थे। लकड़ी लेने आए ब्राह्मण बाँहों में ईंधन, फूल और पवित्र घास भरे हुए आए, और अपनी कुटियों को लौटना भूल गए।\n\nमोर ऐसे चिल्लाए मानो उन्होंने घिरती हुई काली घटा देख ली हो, और चंचल आँखों वाले हिरण पास आए। गायें भी, दूध दुह लिए जाने के बाद, आनंद से दूध बहाने लगीं। तपस्वी फुसफुसाए कि कोई देवता उतर आए हैं, शायद वसु या अश्विन। राजकुमार ने वाणी में मेघ-गर्जना जैसी मधुरता के साथ उन्हें विनम्रता से नमस्कार किया, और उन्होंने उसे भीतर बुलाया। वह आश्रम में विनम्रता और जिज्ञासा के साथ घूमता रहा, और देखता रहा कि वहाँ लोग कैसे जीते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमार तपस्व्यांच्या उपवनात असा शिरला जसा हरीण हरणांच्या कळपात शिरते. अश्वघोष सांगतात की राजवस्त्रांशिवायही त्याच्या सौंदर्याने प्रत्येक डोळा वेधून घेतला. बैलगाड्या आणि पत्नींसह आलेले प्रवासी थांबून पाहू लागले, त्यांचे जू अजून त्यांच्या हातात होते. सरपण आणायला आलेले ब्राह्मण हातांत इंधन, फुले आणि पवित्र गवत घेऊन आले आणि आपल्या कुटीकडे परतायला विसरले.\n\nमोर असे ओरडले जणू त्यांनी उठणारा काळा ढग पाहिला असावा, आणि चंचल डोळ्यांची हरणे जवळ आली. गायीही, दूध काढून झाल्यावरही, आनंदाने दूध वाहू लागल्या. तपस्वी कुजबुजले की कोणी देव उतरला आहे, कदाचित वसू किंवा अश्विन. राजकुमाराने मेघगर्जनेसारख्या स्वराने त्यांना सौजन्याने नमस्कार केला, आणि त्यांनी त्याला आत बोलावले. तो आश्रमातून सौजन्याने आणि कुतूहलाने फिरत राहिला, आणि तिथले लोक कसे जगतात ते पाहत राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The ways of penance",
+    "hi": {
+     "text": "तप के मार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तपाचे मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He had never seen a hermitage before, and he asked one of the ascetics who followed him to explain what each person there was trying to do. The old brahman, skilled in the rules, told him in order. Food in the forest was wild and unploughed: roots, leaves and fruit, water and gleanings. Some lived like birds on what they could pick up from the ground, others grazed like deer, others lived on air as the snakes do, or stood so still that ant-hills grew up around them.\n\nSome got their food with great effort from stones, others ground their own grain with their teeth. Some matted their hair, soaked in water and made twice-daily offerings to the sacred fire. Some plunged into rivers like fish and let the tortoises scratch them. Through such pain, the ascetic explained, one reached heaven by the higher penances, the world of men by the lower, and in the end a state of happiness. Pain, he said, is the root of merit.",
+    "hi": {
+     "text": "उसने इससे पहले कभी आश्रम नहीं देखा था, और उसने अपने पीछे चल रहे एक तपस्वी से पूछा कि वहाँ हर व्यक्ति क्या करने का प्रयत्न कर रहा है। नियमों में निपुण एक वृद्ध ब्राह्मण ने उसे क्रम से बताया। वन में भोजन जंगली और बिना जोता हुआ था: जड़ें, पत्ते और फल, जल और बीन कर लाया अन्न। कोई पक्षियों की तरह ज़मीन से उठाए हुए दाने खाकर रहता था, कोई हिरणों की तरह घास चरता था, कोई साँपों की तरह केवल हवा पर जीता था, या इतना स्थिर खड़ा रहता कि उसके चारों ओर वल्मीक जम जाते।\n\nकोई पत्थरों से बड़ी मेहनत से अन्न निकालता, कोई अपने दाँतों से अनाज पीसता। कोई जटा बढ़ाता, जल में भिगोता, और दिन में दो बार पवित्र अग्नि को आहुति देता। कोई मछलियों की तरह नदियों में कूद जाता और कछुए उसे खरोंचते। ऐसे कष्टों से, तपस्वी ने समझाया, उच्च तपों से मनुष्य स्वर्ग पाता है, निचले तपों से मनुष्यलोक, और अंत में सुख की अवस्था। पीड़ा, उसने कहा, पुण्य की जड़ है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याने याआधी कधीही आश्रम पाहिला नव्हता, म्हणून त्याने आपल्यामागे चालणाऱ्या एका तपस्व्याला विचारले की तिथे प्रत्येक जण काय करण्याचा प्रयत्न करत आहे. नियमांत निपुण एका वृद्ध ब्राह्मणाने त्याला क्रमाने सांगितले. वनातील अन्न रानटी आणि न नांगरलेले होते: मुळे, पाने आणि फळे, पाणी आणि वेचलेले धान्य. कोणी पक्ष्यांसारखे जमिनीवरचे दाणे वेचून जगत होता, कोणी हरणांसारखे गवत खात होता, कोणी सापांसारखे फक्त हवेवर जगत होता, किंवा इतका स्थिर उभा राहत होता की त्याच्याभोवती वारूळे वाढत.\n\nकोणी दगडांपासून मोठ्या कष्टाने अन्न मिळवत होता, कोणी दातांनी धान्य दळत होता. कोणी केस वाढवत, पाण्यात भिजवत, आणि दिवसातून दोनदा पवित्र अग्नीला आहुती देत होता. कोणी माशांसारखे नद्यांत उड्या मारत आणि कासवे त्यांना ओरखडत. अशा कष्टांनी, तपस्व्याने समजावले, उच्च तपांनी माणूस स्वर्गाला जातो, खालच्या तपांनी मनुष्यलोकात, आणि शेवटी सुखाच्या अवस्थेत. वेदना, तो म्हणाला, पुण्याचे मूळ आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince weighs it",
+    "hi": {
+     "text": "राजकुमार तौलता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमार तोलतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The prince listened courteously, even though he could not find a high truth in what he heard. To himself he reasoned that the penance is full of pain, that its reward at best is heaven, and that all worlds are subject to change. The labour of the hermitages, he thought, is spent for little gain. The heaven they sought would be only another place of pain in time.\n\nWhen the hermits gathered round him he spoke to them with respect, and plainly. If merit came from simple food, he said, then deer would have merit. If choosing pain is a cause of merit, why should choosing pleasure not be? If a sacred spot is where one sprinkles water on oneself to be cleansed, he said, then water has only the power of water; the real place of pilgrimage is the virtue of a virtuous person. Without the mind, the body is like a log. Control of the mind, he said, is what matters.",
+    "hi": {
+     "text": "राजकुमार ने विनम्रता से सुना, यद्यपि जो उसने सुना उसमें उसे कोई उच्च सत्य नहीं मिला। मन ही मन उसने विचार किया कि तप पीड़ा से भरा है, उसका फल अधिक से अधिक स्वर्ग है, और सारे लोक परिवर्तनशील हैं। आश्रमों का परिश्रम, उसने सोचा, बहुत थोड़े लाभ के लिए खर्च होता है। जिस स्वर्ग की वे खोज करते हैं वह केवल एक और पीड़ा का स्थान होगा, समय के अधीन।\n\nजब तपस्वी उसके चारों ओर एकत्र हुए, तो उसने आदरपूर्वक और स्पष्ट रूप से उनसे बात की। यदि सादे भोजन से पुण्य मिलता है, उसने कहा, तो हिरणों को भी पुण्य मिलना चाहिए। यदि पीड़ा चुनना पुण्य का कारण है, तो सुख चुनना क्यों नहीं? यदि किसी पवित्र स्थान पर स्वयं पर जल छिड़कना शुद्धि है, तो जल में तो केवल जल का गुण है; वास्तविक तीर्थ सद्गुणी व्यक्ति का सद्गुण है। मन के बिना शरीर लकड़ी के ठूँठ जैसा है। मन पर नियंत्रण, उसने कहा, वही महत्वपूर्ण है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमाराने सौजन्याने ऐकले, जरी त्याला जे ऐकले त्यात कोणतेही उच्च सत्य सापडले नाही. मनातल्या मनात त्याने विचार केला की तप वेदनांनी भरलेले आहे, त्याचे फळ जास्तीत जास्त स्वर्ग आहे, आणि सारे लोक बदलणारे आहेत. आश्रमांचे श्रम, त्याला वाटले, फारच थोड्या लाभासाठी खर्च होते. ज्या स्वर्गाचा ते शोध घेतात, तो फक्त कालाधीन असलेले आणखी एक वेदनेचे स्थान असेल.\n\nजेव्हा तपस्वी त्याच्याभोवती जमले, तेव्हा त्याने आदराने आणि स्पष्टपणे त्यांच्याशी बोलला. साध्या अन्नाने पुण्य मिळत असेल, तो म्हणाला, तर हरिणांना पुण्य मिळायला हवे. वेदना निवडणे पुण्याचे कारण असेल, तर सुख निवडणे का नसावे? एखाद्या पवित्र ठिकाणी स्वतःवर पाणी शिंपडणे शुद्धी असेल, तर पाण्यात तर केवळ पाण्याचा गुणधर्म आहे; खरे तीर्थ सद्गुणी माणसाचे सद्गुण आहे. मनाशिवाय शरीर लाकडाच्या ओंडक्यासारखे आहे. मनावर नियंत्रण, तो म्हणाला, तेच महत्त्वाचे आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kindness without agreement",
+    "hi": {
+     "text": "सहृदय असहमति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सहृदय असहमती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The sun went down, and he entered the grove, where the trees were grey with the smoke of evening offerings, and the shrines murmured with prayers. He stayed several nights, studying their practices, and he left feeling that he had understood all that penance had to teach. The hermits followed him with their minds fixed on the greatness of soul they saw in him, like seers watching Religion herself leaving a land that had been invaded.\n\nOn the road an old man from among them spoke gently and asked if the prince disliked something about their ways. The prince's answer was tender. He told them their kindness had touched him like a bath, and that he felt the joy he had known when he first understood dharma. He said he was sorry to leave them. But they were seeking heaven, he said, and he wanted an end to rebirth, and these two aims are different. He did not leave out of dislike for them, for they were like great sages themselves.",
+    "hi": {
+     "text": "सूर्य अस्त हुआ, और वह उस उपवन में आया जहाँ संध्याकालीन आहुतियों के धुएँ से वृक्ष धूसर हो गए थे, और देवालयों में प्रार्थनाओं की गुंजन थी। वह कई रातें वहाँ रहा, उनकी प्रथाओं का अध्ययन करता रहा, और जब गया तो उसे लगा कि तप जो सिखा सकता था वह उसने समझ लिया है। तपस्वी उसके पीछे-पीछे चले, उसमें दिखने वाली आत्मा की महानता पर मन टिकाए, जैसे ऋषि धर्म को उस देश से जाते हुए देखते हैं जिस पर आक्रमण हुआ हो।\n\nमार्ग पर उनमें से एक वृद्ध ने कोमलता से पूछा कि क्या राजकुमार को उनके किसी आचरण से अरुचि है। राजकुमार का उत्तर स्नेहिल था। उसने कहा कि उनकी दयालुता ने उसे स्नान की तरह छुआ है, और उसने वही आनंद अनुभव किया जो धर्म को पहली बार समझने पर होता है। उसने कहा कि उन्हें छोड़ते हुए उसे दुःख है। पर वे स्वर्ग खोज रहे हैं, उसने कहा, और वह जन्म के चक्र का अंत चाहता है, और ये दो लक्ष्य भिन्न हैं। उसने उन्हें नापसंद करके नहीं छोड़ा था, क्योंकि वे स्वयं महान ऋषियों जैसे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूर्य मावळला, आणि तो त्या उपवनात आला जिथे संध्याकाळच्या आहुतींच्या धुराने वृक्ष धूसर झाले होते, आणि देवस्थानांत प्रार्थनांचा गुंजारव होता. तो अनेक रात्री तिथे राहिला, त्यांच्या पद्धतींचा अभ्यास करत, आणि जेव्हा तो निघाला तेव्हा त्याला वाटले की तप जे शिकवू शकते ते त्याने समजून घेतले आहे. तपस्वी त्याच्या मागून गेले, त्याच्यात दिसणाऱ्या आत्म्याच्या महानतेवर मन लावून, जसे ऋषी धर्माला त्या देशातून जाताना पाहतात जिथे आक्रमण झाले आहे.\n\nवाटेवर त्यांच्यातील एका वृद्धाने हळुवारपणे विचारले की राजकुमाराला त्यांच्या कोणत्या आचारात अरुची आहे का. राजकुमाराचे उत्तर प्रेमळ होते. त्याने म्हटले की त्यांच्या दयाळूपणाने त्याला स्नानासारखे स्पर्श केला, आणि धर्म पहिल्यांदा समजला तेव्हा जो आनंद झाला होता तोच आनंद त्याने अनुभवला. तो म्हणाला, त्यांना सोडताना त्याला वाईट वाटते. पण ते स्वर्ग शोधत आहेत, तो म्हणाला, आणि त्याला जन्मचक्राचा अंत हवा आहे, आणि हे दोन ध्येय वेगळी आहेत. त्याने त्यांना नापसंत करून सोडले नव्हते, कारण ते स्वतः महान ऋषींसारखे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The road to Arada",
+    "hi": {
+     "text": "आराड की ओर का मार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आराडाकडे जाणारा मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then a tall brahman who had been lying among the ashes, with his hair in a tuft and his clothing of bark, with reddish eyes and a water pot in his hand, raised his voice. Brave is your purpose, he said, you who, though young, have seen the evil of birth. Many seek heaven with sacrifice and penance, he said, but the strong fight desire as an enemy and want freedom.\n\nHe told the prince to go quickly to Vindhyakoshtha, where lived the sage Arada, who had gained insight into the highest peace. From him he would hear the path, the brahman said, and if he liked it, he would take it. But, he added, I foresee that your purpose will go further than his teaching. That face of yours, he said, will drink up the whole ocean of what is to be known. The prince said, Very well. He saluted them all and went. The hermits, having paid him every courtesy, turned back into their grove.",
+    "hi": {
+     "text": "तब राख में लेटा एक लंबा ब्राह्मण उठा, जिसके बाल जूड़े में बँधे थे, जिसके वस्त्र वल्कल के थे, आँखें लालिमायुक्त थीं और हाथ में जलपात्र था, और उसने ऊँचे स्वर में कहा। तुम्हारा संकल्प वीरता का है, उसने कहा, तुम जो युवा होकर भी जन्म के दोष को देख चुके हो। अनेक लोग यज्ञ और तप से स्वर्ग चाहते हैं, उसने कहा, पर बलवान लोग इच्छा को शत्रु मानकर उससे लड़ते हैं और मुक्ति चाहते हैं।\n\nउसने राजकुमार से कहा कि शीघ्र विन्ध्यकोष्ठ जाओ, जहाँ परम शांति का ज्ञान पाए ऋषि आराड रहते हैं। वहाँ से तुम मार्ग सुनोगे, ब्राह्मण ने कहा, और यदि वह तुम्हें भाए, तो उसे अपनाना। पर, उसने जोड़ा, मुझे लगता है कि तुम्हारा संकल्प उनके उपदेश से भी आगे जाएगा। तुम्हारा यह मुख, उसने कहा, ज्ञेय के पूरे महासागर को पी जाएगा। राजकुमार ने कहा, ठीक है। उसने सबको प्रणाम किया और चला गया। तपस्वी, सब सौजन्य दिखाकर, अपने उपवन की ओर लौट गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग राखेत पडलेला एक उंच ब्राह्मण उठला, ज्याचे केस जटेत बांधलेले होते, ज्याचे वस्त्र वल्कलाचे होते, ज्याचे डोळे तांबूस होते आणि हातात जलपात्र होते, आणि त्याने उंच आवाजात म्हटले. तुझा संकल्प शौर्याचा आहे, तो म्हणाला, तू तरुण असूनही जन्माचा दोष पाहिला आहेस. अनेक लोक यज्ञ आणि तपाने स्वर्ग शोधतात, तो म्हणाला, पण बलवान लोक इच्छेला शत्रू मानून तिच्याशी लढतात आणि मुक्ती इच्छितात.\n\nत्याने राजकुमाराला सांगितले की त्वरित विंध्यकोष्ठ जा, जिथे परम शांतीचा बोध झालेले ऋषी आराड राहतात. तिथून तुला मार्ग ऐकायला मिळेल, ब्राह्मण म्हणाला, आणि जर तो तुला पटला, तर तो स्वीकार. पण, त्याने जोडले, मला वाटते की तुझा संकल्प त्यांच्या उपदेशाच्याही पुढे जाईल. तुझे हे मुख, तो म्हणाला, ज्ञेयाच्या संपूर्ण महासागराला पिऊन टाकेल. राजकुमार म्हणाला, ठीक आहे. त्याने सर्वांना नमस्कार केला आणि निघून गेला. तपस्वी, सर्व सौजन्य दाखवून, आपल्या उपवनाकडे परतले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Since this to-day is my first sight of a hermitage I do not understand this rule of penance",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 7.12 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 7.12 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 7.12 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The prince, on his first visit to a hermitage, asks politely to be taught before he judges.",
+   "hi": {
+    "text": "राजकुमार, आश्रम की अपनी पहली यात्रा पर, विनम्रता से सिखाए जाने की विनती करता है, इससे पहले कि वह निर्णय करे।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "राजकुमार, आश्रमाच्या पहिल्या भेटीत, निर्णय घेण्यापूर्वी नम्रपणे शिकवण मागतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When you disagree with how someone else seeks what is good, can you still listen kindly and give thanks for their sincerity?",
+  "hi": {
+   "text": "जब तुम्हें किसी दूसरे की अच्छाई पाने के तरीके से असहमति होती है, तब क्या तुम फिर भी दयालुता से सुन सकते हो और उनकी निष्ठा के लिए आभार प्रकट कर सकते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा कोणी दुसरा आपल्याला चांगले मिळवण्याच्या पद्धतीशी असहमत असतो, तेव्हा तू त्याचे प्रामाणिकपण मान्य करून दयाळूपणे ऐकू शकतोस का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A seeker can honour sincere people of other paths and still say honestly where his own road must diverge.",
+  "hi": {
+   "text": "साधक दूसरे मार्गों के सच्चे लोगों का सम्मान कर सकता है और फिर भी ईमानदारी से कह सकता है कि उसका अपना मार्ग कहाँ अलग होना चाहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "साधक इतर मार्गांवरील प्रामाणिक लोकांचा सन्मान करू शकतो, आणि तरी स्पष्टपणे सांगू शकतो की त्याचा स्वतःचा मार्ग कुठे वेगळा व्हायला हवा.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 7; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 7; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 7; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

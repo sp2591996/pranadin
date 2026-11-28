@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-mustard-seed",
+ "order": 4,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Mustard Seed",
+  "hi": {
+   "text": "सरसों का दाना",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मोहरीचा दाणा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The smallest of seeds becomes a tree large enough for the birds to nest in.",
+  "hi": {
+   "text": "सबसे छोटा बीज बढ़कर इतना बड़ा पेड़ बन जाता है कि पक्षी उसकी डालियों में घोंसले बना सकें।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वात लहान बी वाढून इतके मोठे झाड होते की पक्षी त्यावर घरटी बांधू शकतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-mustard.webp",
+   "w": 1200,
+   "h": 857,
+   "caption": {
+    "en": "Seeds in bowls, still life (mustard-type seeds)",
+    "hi": {
+     "text": "कटोरों में बीज (स्थिर चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाट्यांत बिया (स्थिर चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Sheila Sund from Salem, United States, CC BY 2.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Parable_of_the_Mustard_Seed_(33261749704).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Another picture of the Kingdom",
+    "hi": {
+     "text": "राज्य की एक और तस्वीर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राज्याचे आणखी एक चित्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Beside the Sea of Galilee, Jesus was still speaking to the large crowd that had gathered, and he went on telling short stories one after another. The Gospel of Matthew introduces this one by saying he set another parable before them. Like the others in this chapter, it is a picture of what he called the Kingdom of Heaven, the rule of God that he taught was drawing near to ordinary people.\n\nIt is a story of only two sentences, and it asks the listener to look at something very small. Jesus did not talk about palaces, armies or temples. He pointed to a seed, an object that everyone in the crowd had held between finger and thumb a hundred times, and he asked them to imagine what it might become if it were given time and soil.",
+    "hi": {
+     "text": "गलील झील के किनारे यीशु अब भी जमा हुई बड़ी भीड़ से बात कर रहे थे, और वे एक के बाद एक छोटी कहानियाँ सुनाते जा रहे थे। मत्ती का सुसमाचार इस दृष्टांत का परिचय यह कहकर देता है कि उन्होंने उनके सामने एक और दृष्टांत रखा। इस अध्याय के बाकी दृष्टांतों की तरह यह भी उस चीज़ का चित्र है जिसे उन्होंने स्वर्ग का राज्य कहा, यानी परमेश्वर का शासन, जिसके निकट आने की शिक्षा उन्होंने साधारण लोगों को दी।\n\nयह केवल दो वाक्यों की कहानी है, और यह श्रोता से किसी बहुत छोटी चीज़ को देखने के लिए कहती है। यीशु ने महलों, सेनाओं या मंदिरों की बात नहीं की। उन्होंने एक बीज की ओर इशारा किया, ऐसी वस्तु जिसे भीड़ में हर किसी ने सैकड़ों बार उँगली और अँगूठे के बीच पकड़ा होगा, और उनसे कल्पना करने को कहा कि यदि उसे समय और मिट्टी मिले तो वह क्या बन सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गालीली समुद्राच्या काठी यीशू अजूनही जमलेल्या मोठ्या जमावाशी बोलत होते, आणि एकामागून एक छोट्या गोष्टी सांगत होते. मत्तीचे शुभवर्तमान या दृष्टांताची ओळख करून देताना म्हणते की त्यांनी त्यांच्यासमोर आणखी एक दृष्टांत ठेवला. या अध्यायातील इतर दृष्टांतांप्रमाणे हाही त्या गोष्टीचे चित्र आहे जिला त्यांनी स्वर्गाचे राज्य म्हटले, म्हणजे देवाची सत्ता, जी सामान्य लोकांच्या जवळ येत आहे असे ते शिकवत होते.\n\nही केवळ दोन वाक्यांची कथा आहे, आणि ती ऐकणार्याला एखादी अतिशय लहान गोष्ट पाहायला सांगते. यीशूने राजवाडे, सैन्ये किंवा मंदिरे यांबद्दल सांगितले नाही. त्यांनी एका बियाकडे बोट दाखवले, अशी वस्तू जी जमावातील प्रत्येकाने शंभरदा बोटांच्या चिमटीत धरली असेल, आणि त्यांना कल्पना करायला सांगितले की वेळ व माती मिळाली तर ती काय होऊ शकते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The smallest of seeds",
+    "hi": {
+     "text": "सबसे छोटा बीज",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्वात लहान बी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A man takes a grain of mustard seed and sows it in his field. In the farming life of Galilee, the mustard seed was proverbially tiny, a speck you could lose in the crease of your palm. Matthew says it is smaller than all seeds, which was how people spoke of it in everyday talk, and nobody listening would have found it hard to believe.\n\nThere is nothing impressive about the moment of planting. The man pushes the seed into the earth and walks on. If anyone had been watching, they would have seen no sign of what was about to happen. It is the sort of beginning that nobody would remember, which is exactly the point Jesus wants the crowd to notice and to keep in mind as the story goes on. The smallness is stressed on purpose, so that the contrast with what comes later will be as great as possible.",
+    "hi": {
+     "text": "एक मनुष्य सरसों का एक दाना लेकर अपने खेत में बोता है। गलील के खेती के जीवन में सरसों का बीज कहावत की तरह बहुत छोटा माना जाता था, इतना छोटा कि हथेली की दरार में खो जाए। मत्ती कहते हैं कि वह सब बीजों से छोटा है, और आम बोलचाल में लोग इसी तरह इसकी बात करते थे, और सुनने वालों में से किसी को इस पर विश्वास करना कठिन न लगा होगा।\n\nरोपने के क्षण में कुछ भी प्रभावशाली नहीं है। मनुष्य बीज को मिट्टी में दबाता है और आगे बढ़ जाता है। यदि कोई देख भी रहा होता, तो उसे आने वाली घटना का कोई संकेत नहीं दिखता। यह ऐसी शुरुआत है जिसे कोई याद नहीं रखता, और यही वह बात है जिसे यीशु चाहते हैं कि भीड़ ध्यान दे और कहानी आगे बढ़ते हुए याद रखे। छोटेपन पर जानबूझकर ज़ोर दिया गया है, ताकि बाद में आने वाली चीज़ से उसका विरोध जितना संभव हो उतना बड़ा हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक माणूस मोहरीचा एक दाणा घेऊन आपल्या शेतात पेरतो. गालीलच्या शेतीच्या जीवनात मोहरीचे बी म्हणींमध्येही अत्यंत लहान मानले जाई, इतके की ते हाताच्या तळव्याच्या घडीत हरवून जावे. मत्ती म्हणतात की ते सर्व बियांपेक्षा लहान आहे, आणि सामान्य बोलण्यात लोक त्याबद्दल असेच बोलत, आणि ऐकणार्यांपैकी कोणाला त्यावर विश्वास ठेवणे कठीण गेले नसते.\n\nपेरणीच्या क्षणात काहीही प्रभावी नाही. माणूस बी मातीत दाबतो आणि पुढे निघून जातो. कोणी पाहत असते तरी पुढे काय घडणार आहे याचे कोणतेही चिन्ह त्यांना दिसले नसते. ही अशी सुरुवात आहे जी कोणी लक्षात ठेवत नाही, आणि हेच यीशूला जमावाने लक्षात घ्यावे आणि कथा पुढे जाताना ध्यानात ठेवावे असे वाटते. लहानपणावर मुद्दाम भर दिला आहे, जेणेकरून नंतर येणार्या गोष्टीशी तुलना होताना फरक शक्य तितका मोठा दिसेल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The tree that grows",
+    "hi": {
+     "text": "बढ़ता हुआ पेड़",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाढणारे झाड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The story turns on a single contrast. When the mustard plant is fully grown, it is greater than the other garden herbs. It becomes a tree, Jesus says, so large that the birds of the air come and make their nests in its branches. A seed that could scarcely be seen has become a place of shelter, shade and rest for living creatures.\n\nThe picture of birds lodging in the branches would have stirred memories in anyone who knew the Hebrew Scriptures, where great trees sometimes stand for kingdoms that shelter many peoples. Jesus uses the image gently. His tree is no empire, only a plant from a kitchen garden, grown beyond what anyone would have guessed, and still humble enough to be found at the edge of a farmer's field. The Gospel does not exaggerate; it simply observes that something very small turns out to hold far more than anyone would have guessed.",
+    "hi": {
+     "text": "कहानी एक ही विरोधाभास पर टिकी है। जब सरसों का पौधा पूरी तरह बढ़ जाता है, तो वह बाकी बगीचे की जड़ी-बूटियों से बड़ा हो जाता है। यीशु कहते हैं, वह एक पेड़ बन जाता है, इतना बड़ा कि आकाश के पक्षी आकर उसकी डालियों में अपने घोंसले बनाते हैं। जो बीज मुश्किल से दिखता था, वह जीव-जंतुओं के लिए आश्रय, छाया और विश्राम की जगह बन गया है।\n\nपक्षियों का डालियों में बसेरा करना उन लोगों के मन में पुरानी यादें जगाता जो इब्रानी शास्त्र जानते थे, जहाँ बड़े पेड़ कभी ऐसे राज्यों के प्रतीक होते थे जो अनेक जातियों को शरण देते हैं। यीशु इस चित्र का उपयोग कोमलता से करते हैं। उनका पेड़ कोई साम्राज्य नहीं है, बस बगीचे का एक पौधा है, जो किसी की कल्पना से भी आगे बढ़ गया, और फिर भी इतना विनम्र है कि किसान के खेत के किनारे मिल जाए। शुभवर्तमान बढ़ा-चढ़ाकर नहीं कहता; वह केवल देखता है कि कोई बहुत छोटी चीज़ किसी की कल्पना से कहीं अधिक धारण कर सकती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथा एकाच विरोधाभासावर उभी आहे. मोहरीचे रोप पूर्ण वाढल्यावर ते बागेतील इतर वनस्पतींपेक्षा मोठे होते. ते एक झाड बनते, यीशू म्हणतात, इतके मोठे की आकाशातील पक्षी येऊन त्याच्या फांद्यांत घरटी बांधतात. जे बी जवळजवळ दिसत नव्हते, ते जिवंत प्राण्यांसाठी निवारा, सावली आणि विश्रांतीची जागा बनले आहे.\n\nपक्षी फांद्यांत वस्ती करताना दिसणे हे इब्री शास्त्र जाणणार्यांच्या मनात जुन्या आठवणी जागवणारे असू शकते, जिथे मोठी झाडे कधीकधी अनेक लोकांना आश्रय देणार्या राज्यांचे प्रतीक असत. यीशू हे चित्र सौम्यपणे वापरतात. त्यांचे झाड कोणते साम्राज्य नाही, तर बागेतील एक रोप आहे, जे कोणाच्या अंदाजापेक्षा खूप वाढले, आणि तरीही इतके विनम्र आहे की शेतकर्याच्या शेताच्या कडेला सापडेल. शुभवर्तमान अतिशयोक्ती करत नाही; ते केवळ पाहते की एखादी अतिशय लहान गोष्ट कोणालाही वाटले नसेल त्यापेक्षा खूप काही धरू शकते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "How Christians understand it",
+    "hi": {
+     "text": "ईसाई इसे कैसे समझते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोक हे कसे समजतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have long read the mustard seed as a promise about the Kingdom of God and about the movement that grew around Jesus. It began among a handful of fishermen, tax collectors and women in a small corner of the Roman Empire, with no wealth and no power, and it grew over the centuries into a faith followed by millions across the world.\n\nThe parable is also read more personally. A small kindness, a single act of courage or a quiet decision to forgive may look like nothing at the time, and yet it may become shelter for others in ways that its author never sees. The Gospel does not explain the story, and perhaps that is why the tradition has found so many ways to hear it. Whichever reading we prefer, the story keeps its simple force: the largest things in life can start in the least noticeable places.",
+    "hi": {
+     "text": "ईसाइयों ने सरसों के दाने को लंबे समय से परमेश्वर के राज्य के बारे में एक वचन और उस आंदोलन के बारे में माना है जो यीशु के चारों ओर बढ़ा। यह रोमी साम्राज्य के एक छोटे कोने में मछुआरों, चुंगी लेने वालों और कुछ स्त्रियों के छोटे समूह से शुरू हुआ, बिना धन और बिना शक्ति के, और सदियों में बढ़कर एक ऐसा विश्वास बन गया जिसका पालन दुनिया भर में लाखों लोग करते हैं।\n\nइस दृष्टांत को अधिक व्यक्तिगत रूप से भी पढ़ा जाता है। एक छोटी दयालुता, साहस का एक कार्य या क्षमा करने का एक शांत निर्णय उस समय कुछ भी न लगे, फिर भी वह दूसरों के लिए ऐसे आश्रय में बदल सकता है जिसे उसे करने वाला कभी नहीं देखता। शुभवर्तमान कहानी की व्याख्या नहीं करता, और शायद इसी कारण परंपरा ने इसे सुनने के इतने तरीके खोजे हैं। हम जो भी पाठ पसंद करें, कहानी अपना सरल बल बनाए रखती है: जीवन की सबसे बड़ी चीज़ें सबसे कम ध्यान में आने वाली जगहों से शुरू हो सकती हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोक मोहरीच्या दाण्याकडे देवाच्या राज्याबद्दलचे आणि यीशूभोवती वाढलेल्या चळवळीबद्दलचे वचन म्हणून फार पूर्वीपासून पाहतात. रोमन साम्राज्याच्या एका छोट्या कोपर्यात मच्छिमार, जकातदार आणि काही स्त्रियांच्या मुठभर गटापासून ती सुरू झाली, कोणतीही संपत्ती किंवा सत्ता नसताना, आणि शतकानुशतके वाढून जगभरातील लाखो लोक पाळत असलेला विश्वास बनली.\n\nया दृष्टांताचे अधिक वैयक्तिक अर्थानेही वाचन केले जाते. एखादा छोटा दयाळूपणा, धैर्याचे एक कृत्य किंवा क्षमा करण्याचा एक शांत निर्णय त्या क्षणी काहीच नसल्यासारखा वाटू शकतो, तरीही तो इतरांसाठी अशा निवार्यात बदलू शकतो जो तो करणारी व्यक्ती कधीच पाहत नाही. शुभवर्तमान कथेचे स्पष्टीकरण देत नाही, आणि कदाचित म्हणूनच परंपरेला ती ऐकण्याचे इतके मार्ग सापडले आहेत. आपण कोणता अर्थ पसंत करतो तरीही कथेची साधी ताकद कायम राहते: आयुष्यातील सर्वात मोठ्या गोष्टी सर्वात कमी लक्षात येणार्या ठिकाणांपासून सुरू होऊ शकतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Do not despise small beginnings",
+    "hi": {
+     "text": "छोटी शुरुआत को तुच्छ न जानें",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लहान सुरुवातीला तुच्छ लेखू नका",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The mustard seed says something that people of every faith and none may find true. Large changes in the world, in a family or in a single heart nearly always begin as something unnoticed, an idea, a habit or a kind word, and they depend on patience and on good ground more than on force or speed.\n\nWhen we feel that what we can do is too small to matter, the parable offers a quiet correction. The seed does not need to feel important. It needs only to be planted and given time. Anyone who has watched a child learn to read, or a friendship slowly deepen, will recognise what Jesus meant, and may be encouraged to plant something small today without waiting to see the tree. Those who tend a classroom, a family or a quiet practice may find in it a reason to keep going.",
+    "hi": {
+     "text": "सरसों का दाना कुछ ऐसा कहता है जिसे हर धर्म और किसी भी धर्म के न होने वाले लोग सच मान सकते हैं। दुनिया में, किसी परिवार में या किसी एक हृदय में बड़े बदलाव लगभग हमेशा किसी अनदेखी चीज़ से शुरू होते हैं, एक विचार, एक आदत या एक दयालु शब्द, और वे ज़ोर या गति से ज़्यादा धैर्य और अच्छी ज़मीन पर निर्भर करते हैं।\n\nजब हमें लगता है कि हम जो कर सकते हैं वह इतना छोटा है कि उससे कोई फर्क नहीं पड़ेगा, तो यह दृष्टांत एक शांत सुधार देता है। बीज को यह महसूस करने की ज़रूरत नहीं कि वह महत्वपूर्ण है। उसे केवल बोए जाने और समय दिए जाने की ज़रूरत है। जिसने किसी बच्चे को पढ़ना सीखते या किसी मित्रता को धीरे-धीरे गहरा होते देखा है, वह पहचानेगा कि यीशु का क्या मतलब था, और आज कुछ छोटा बोने के लिए प्रोत्साहित हो सकता है, पेड़ देखे बिना। कक्षा, परिवार या किसी शांत साधना की देखभाल करने वाले लोग इसमें आगे बढ़ते रहने का कारण पा सकते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मोहरीचा दाणा असे काही सांगतो जे प्रत्येक धर्माच्या आणि कोणत्याही धर्म न मानणार्या लोकांना खरे वाटू शकते. जगात, कुटुंबात किंवा एका हृदयात होणारे मोठे बदल जवळजवळ नेहमी काही न दिसणार्या गोष्टीपासून सुरू होतात, एखादा विचार, एखादी सवय किंवा एखादा दयाळू शब्द, आणि ते बळ किंवा वेगापेक्षा धीर आणि चांगल्या जमिनीवर अधिक अवलंबून असतात.\n\nजेव्हा आपल्याला वाटते की आपण जे करू शकतो ते इतके छोटे आहे की त्याला काही अर्थ नाही, तेव्हा हा दृष्टांत एक शांत सुधारणा देतो. बीजाला स्वतःला महत्त्वाचे वाटण्याची गरज नसते. त्याला फक्त पेरले जाणे आणि वेळ मिळणे आवश्यक आहे. ज्याने एखाद्या मुलाला वाचायला शिकताना किंवा मैत्री हळूहळू गहिरी होताना पाहिली आहे, त्याला यीशूचा अर्थ कळेल, आणि आज झाड पाहण्याची वाट न पाहता काहीतरी छोटे पेरण्यास प्रोत्साहन मिळू शकते. वर्ग, कुटुंब किंवा एखादी शांत साधना सांभाळणारे लोक यात पुढे चालत राहण्याचे कारण शोधू शकतात.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "But when it is grown, it is greater than the herbs and becomes a tree, so that the birds of the air come and lodge in its branches.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 13:32 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 13:32 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 13:32 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Something that begins very small can grow into a source of shelter for many.",
+   "hi": {
+    "text": "जो बहुत छोटी शुरुआत से आरंभ होता है, वह अनेकों के लिए आश्रय का स्रोत बन सकता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जे अगदी लहान सुरुवातीने सुरू होते, ते अनेकांसाठी निवार्याचे स्रोत बनू शकते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What small thing, a habit, a kindness or an idea, are you tempted to dismiss as too little to matter? What would it mean to plant it anyway?",
+  "hi": {
+   "text": "कौन सी छोटी चीज़, कोई आदत, दयालुता या विचार, तुम्हें इतना छोटा मानकर टालने का मन करता है कि उससे कोई फर्क न पड़े? फिर भी उसे बो देना कैसा होगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणती लहानशी गोष्ट, सवय, दयाळूपणा किंवा कल्पना, तुम्हाला इतकी छोटी वाटून दुर्लक्ष करावीशी वाटते की तिने काहीच फरक पडणार नाही? तरीही ती पेरणे म्हणजे काय असेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Great things often begin invisibly small, so do not despise a modest beginning; plant it, tend it and give it time.",
+  "hi": {
+   "text": "बड़ी चीज़ें अक्सर अदृश्य रूप से छोटी शुरू होती हैं, इसलिए साधारण शुरुआत को तुच्छ न जानो; उसे बोओ, उसकी देखभाल करो और उसे समय दो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मोठ्या गोष्टी अनेकदा अदृश्यपणे लहान सुरू होतात, म्हणून साध्या सुरुवातीला तुच्छ लेखू नका; ती पेरा, तिची काळजी घ्या आणि तिला वेळ द्या.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 13:31-32; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 13:31-32 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 13:31-32 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-persistent-widow",
+ "order": 29,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Persistent Widow",
+  "hi": {
+   "text": "लगातार माँगने वाली विधवा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चिकाटी धरणारी विधवा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A widow keeps coming to an unjust judge until he gives her justice just to be rid of her.",
+  "hi": {
+   "text": "एक विधवा अन्यायी न्यायाधीश के पास बार-बार जाती रहती है, जब तक वह उसे केवल पीछा छुड़ाने के लिए न्याय नहीं दे देता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक विधवा अन्यायी न्यायाधीशाकडे वारंवार जात राहते, शेवटी तो फक्त तिची कटकट थांबवण्यासाठी तिला न्याय देतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-widow-rp.webp",
+   "w": 900,
+   "h": 689,
+   "caption": {
+    "en": "The persistent widow before the judge (Rijksmuseum print)",
+    "hi": {
+     "text": "न्यायाधीश के सामने लगातार माँगती विधवा (राइक्सम्युज़ियम)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "न्यायाधीशासमोर चिकाटीने मागणारी विधवा (रिक्सम्युझियम)",
+     "reviewed": false
+    }
+   },
+   "credit": "Rijksmuseum, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gelijkenis_van_de_rechter_die_wordt_lastiggevallen_door_een_klagende_vrouw,_RP-P-OB-46.028.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Pray and do not give up",
+    "hi": {
+     "text": "प्रार्थना करो और हार मत मानो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रार्थना करा आणि खचू नका",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Luke introduces this parable with its purpose already stated, which is rare in the Gospels. Jesus told his disciples a parable to show them that they should always pray and not give up. It comes shortly after he has been speaking about hard times ahead and the need for faithfulness while waiting for what God will do.\n\nThe disciples would have understood why such encouragement was needed. Many of them were poor and powerless, and they lived under a foreign empire and often faced the contempt of the powerful. Prayer, for people in their position, could easily seem like shouting into the wind. Jesus responds with a story in which the weakest person in the picture is the one who eventually wins her case. By stating the purpose at the start, Luke leaves us in no doubt about the direction of the story, even before the judge or the widow appears.",
+    "hi": {
+     "text": "लूका इस दृष्टांत का उद्देश्य पहले ही बता देते हैं, जो सुसमाचारों में कम देखने को मिलता है। यीशु ने अपने शिष्यों को एक दृष्टांत सुनाया ताकि वे दिखा सकें कि उन्हें हमेशा प्रार्थना करनी चाहिए और हार नहीं माननी चाहिए। यह उस समय के बाद आता है जब यीशु आने वाले कठिन समय के बारे में बोल रहे थे, और उस प्रतीक्षा में विश्वासयोग्य बने रहने की ज़रूरत के बारे में, जो परमेश्वर करेगा।\n\nशिष्य समझ सकते थे कि ऐसे प्रोत्साहन की ज़रूरत क्यों थी। उनमें से बहुत से लोग गरीब और शक्तिहीन थे, वे एक विदेशी साम्राज्य के अधीन जीते थे और अक्सर शक्तिशाली लोगों की उपेक्षा झेलते थे। उनकी स्थिति में प्रार्थना हवा में चिल्लाने जैसी लग सकती थी। यीशु एक कहानी से उत्तर देते हैं जिसमें चित्र का सबसे कमज़ोर व्यक्ति ही अंत में अपना मुकदमा जीतता है। शुरू में ही उद्देश्य बताकर लूका हमें कहानी की दिशा के बारे में संदेह में नहीं छोड़ते, न्यायाधीश या विधवा के प्रकट होने से पहले ही।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूका हा दृष्टांत त्याचा हेतू आधीच सांगून सुरू करतात, जे शुभवर्तमानांत क्वचितच आढळते. यीशूने आपल्या शिष्यांना हे दाखवण्यासाठी दृष्टांत सांगितला की त्यांनी नेहमी प्रार्थना करावी आणि खचून जाऊ नये. तो यीशू पुढे येणार्या कठीण काळाविषयी आणि देव जे करील त्याची वाट पाहताना विश्वासू राहण्याच्या गरजेविषयी बोलत असताना आला.\n\nअशा प्रोत्साहनाची गरज का होती हे शिष्यांना समजू शकत होते. त्यांच्यातील अनेक जण गरीब आणि शक्तीहीन होते, ते एका परकीय साम्राज्याखाली जगत होते आणि अनेकदा सत्ताधार्यांचा तिरस्कार सहन करत. त्यांच्या स्थितीत प्रार्थना वार्यात ओरडण्यासारखी वाटू शकत होती. यीशू एका कथेने उत्तर देतात ज्यात चित्रातील सर्वात दुर्बल व्यक्तीच शेवटी आपली केस जिंकते. सुरुवातीलाच उद्देश सांगून लूका आपल्याला कथेच्या दिशेबद्दल शंका ठेवत नाहीत, न्यायाधीश किंवा विधवा प्रकट होण्यापूर्वीच.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The judge and the widow",
+    "hi": {
+     "text": "न्यायाधीश और विधवा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "न्यायाधीश आणि विधवा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In a certain city, Jesus says, there was a judge who neither feared God nor had respect for people. This is a picture of the worst kind of official, one with no conscience and no shame. In a society where judges were the last hope of the vulnerable, a judge like this was a disaster for anyone without influence or money to bribe him.\n\nA widow in that city kept coming to him, saying, Give me justice against my opponent. A widow had few rights and no protector. Without a husband or a grown son to speak for her, she had nothing to bring but her voice, and she brought it every day. It is hard to imagine a weaker person, and a harder man for her to appeal to. Jesus presents the situation without softening it, and everyone listening would have understood how slim her chances were.",
+    "hi": {
+     "text": "यीशु कहते हैं, किसी नगर में एक न्यायाधीश था जो न परमेश्वर का भय मानता था और न मनुष्यों का लिहाज़ करता था। यह सबसे बुरे प्रकार के अधिकारी का चित्र है, जिसमें न अंतरात्मा है न लज्जा। ऐसे समाज में जहाँ न्यायाधीश कमज़ोरों की अंतिम आशा होते थे, ऐसा न्यायाधीश उस हर व्यक्ति के लिए आपदा था जिसके पास प्रभाव या रिश्वत देने के लिए धन नहीं था।\n\nउस नगर में एक विधवा उसके पास बार-बार आती और कहती, मेरे विरोधी से मुझे न्याय दिला। विधवा के अधिकार कम थे और उसकी कोई रक्षा करने वाला नहीं था। बिना पति या बड़े बेटे के उसके लिए बोलने वाला कोई नहीं था, और उसके पास अपनी आवाज़ के अलावा कुछ नहीं था, और वह उसे हर दिन उठाती थी। किसी कमज़ोर व्यक्ति की कल्पना करना कठिन है, और उसके लिए किसी कठोर व्यक्ति से गुहार लगाना भी कठिन है। यीशु स्थिति को बिना नरम किए प्रस्तुत करते हैं, और सुनने वाला हर व्यक्ति समझ जाता कि उसके अवसर कितने कम थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू म्हणतात, एका नगरात एक न्यायाधीश होता जो ना देवाचे भय बाळगत होता ना माणसांची पर्वा करत होता. हे सर्वात वाईट प्रकारच्या अधिकार्याचे चित्र आहे, ज्याला ना विवेक आहे ना लाज. अशा समाजात जिथे न्यायाधीश हे दुर्बळांची शेवटची आशा असत, तिथे असा न्यायाधीश प्रभाव किंवा लाच देण्यासाठी पैसा नसलेल्या प्रत्येकासाठी संकट होता.\n\nत्या नगरात एक विधवा त्याच्याकडे येत राहिली आणि म्हणत राहिली, माझ्या विरोधकापासून मला न्याय दे. विधवेचे हक्क फार कमी होते आणि तिचा कोणीही संरक्षक नव्हता. तिच्यासाठी बोलायला पती किंवा मोठा मुलगा नसल्यामुळे तिच्याकडे फक्त तिचा आवाज होता, आणि तो ती दररोज उठवत होती. इतका दुर्बल माणूस आणि तिला ज्याच्यापुढे जावे लागत होते तो इतका कठोर माणूस, याची कल्पना करणे कठीण आहे. यीशू परिस्थिती मऊ करून सांगत नाहीत, आणि ऐकणार्या प्रत्येकाला तिच्या संधी किती कमी होत्या हे समजत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Wearing him out",
+    "hi": {
+     "text": "उसे थका देना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिने त्याला त्रास दिला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "For a while he refused. But afterward he said to himself, Though I neither fear God nor respect people, yet because this widow keeps bothering me, I will give her justice, so that she will not wear me out by her continual coming. The Greek verb that is translated wear me out is actually a boxing term, meaning to strike under the eye.\n\nThe judge is not moved by compassion or by fairness. He gives in because he is tired of her. It is a small, rather comic victory, won by sheer persistence, and it is the opposite of the way things normally go for a poor widow with a powerful official. The story asks listeners to notice that even this unjust man cannot hold out forever against someone who will not go away.",
+    "hi": {
+     "text": "कुछ समय तक वह मना करता रहा। पर बाद में उसने मन में सोचा, यद्यपि मैं न परमेश्वर का भय मानता और न मनुष्यों का लिहाज़ करता हूँ, फिर भी क्योंकि यह विधवा मुझे बार-बार तंग करती है, मैं इसे न्याय दूँगा, ताकि वह अपने लगातार आने से मुझे थका न दे। जिस यूनानी क्रिया का अनुवाद थका देना है, वह वास्तव में मुक्केबाज़ी का शब्द है, जिसका अर्थ है आँख के नीचे मारना।\n\nन्यायाधीश करुणा या निष्पक्षता से प्रेरित नहीं होता। वह इसलिए झुकता है क्योंकि वह उससे ऊब गया है। यह एक छोटी, कुछ हद तक हास्यास्पद जीत है, जो केवल अटल लगन से मिली है, और यह उस तरीके का उल्टा है जिस तरह आमतौर पर एक गरीब विधवा और शक्तिशाली अधिकारी के बीच बातें होती हैं। कहानी सुनने वालों को यह देखने के लिए कहती है कि यहाँ तक कि यह अन्यायी व्यक्ति भी उस व्यक्ति के सामने हमेशा नहीं टिक सकता जो हटने को तैयार नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काही काळ तो नकार देत राहिला. पण नंतर तो मनाशी म्हणाला, जरी मी देवाला भीत नाही आणि माणसांची पर्वा करत नाही, तरी ही विधवा मला सतत त्रास देते म्हणून मी तिला न्याय देईन, म्हणजे ती सारखी येऊन मला थकवणार नाही. ज्या ग्रीक क्रियापदाचे भाषांतर थकवणे केले आहे, तो खरे तर मुष्टियुद्धातील शब्द आहे, ज्याचा अर्थ डोळ्याखाली मारणे असा होतो.\n\nन्यायाधीश करुणेने किंवा न्यायाने प्रेरित होत नाही. तो तिच्यामुळे कंटाळल्यामुळे झुकतो. हा एक लहानसा, काहीसा विनोदी विजय आहे, जो केवळ अविचल चिकाटीने मिळाला आहे, आणि सामर्थ्यवान अधिकार्यासमोर गरीब विधवेला सहसा जसे मिळते त्याच्या उलट आहे. कथा ऐकणार्यांना लक्षात घ्यायला सांगते की हा अन्यायी माणूसही जो हटणार नाही त्याच्यासमोर कायमचा टिकू शकत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Will God not give justice?",
+    "hi": {
+     "text": "क्या परमेश्वर न्याय नहीं देगा?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देव न्याय देणार नाही काय?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus draws the conclusion. Listen to what the unrighteous judge says, he tells his disciples. And will God not give justice to his chosen ones who cry to him day and night? Will he delay long in helping them? I tell you, he will give justice to them quickly.\n\nThe argument is from the lesser to the greater. If a corrupt judge will respond to a persistent plea, then a just and loving God will certainly hear the cries of those who call to him. The story is not saying that God is like the judge. It is saying that God is utterly unlike him. Jesus then adds a question that hangs in the air, When the Son of Man comes, will he find faith on earth? The promise that justice will come quickly is tied to a sober question about whether faith will still be found when it does.",
+    "hi": {
+     "text": "यीशु निष्कर्ष निकालते हैं। सुनो, अन्यायी न्यायाधीश क्या कहता है, वे अपने शिष्यों से कहते हैं। और क्या परमेश्वर अपने चुने हुए लोगों को न्याय न देगा, जो दिन-रात उसकी दोहाई देते हैं? क्या वह उनकी सहायता करने में देर करेगा? मैं तुमसे कहता हूँ, वह उन्हें शीघ्र न्याय देगा।\n\nतर्क छोटे से बड़े की ओर चलता है। यदि भ्रष्ट न्यायाधीश लगातार की गई प्रार्थना पर प्रतिक्रिया देता है, तो एक धर्मी और प्रेममय परमेश्वर निश्चय ही उन लोगों की पुकार सुनेगा जो उसे पुकारते हैं। कहानी यह नहीं कहती कि परमेश्वर न्यायाधीश जैसा है। वह कहती है कि परमेश्वर उससे पूरी तरह भिन्न है। फिर यीशु एक प्रश्न जोड़ते हैं जो हवा में लटका रह जाता है: जब मनुष्य का पुत्र आएगा, तो क्या वह पृथ्वी पर विश्वास पाएगा? शीघ्र न्याय आने का वादा उस गंभीर प्रश्न से जुड़ा है कि जब वह आएगा, तब भी क्या विश्वास मिलेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू निष्कर्ष काढतात. ऐका, तो अधर्मी न्यायाधीश काय म्हणतो, ते आपल्या शिष्यांना म्हणतात. आणि देव आपल्या निवडलेल्या लोकांना, जे रात्रंदिवस त्याचा धावा करतात, न्याय देणार नाही काय? ते त्यांना मदत करण्यास उशीर करील काय? मी तुम्हांला सांगतो, तो त्यांना लवकर न्याय देईल.\n\nयुक्तिवाद लहानाकडून मोठ्याकडे जातो. जर भ्रष्ट न्यायाधीश सतत केलेल्या विनंतीला प्रतिसाद देतो, तर एक नीतिमान आणि प्रेमळ देव जे त्याला हाक मारतात त्यांचा आक्रोश नक्की ऐकेल. कथा असे म्हणत नाही की देव न्यायाधीशासारखा आहे. ती म्हणते की देव त्याच्यापेक्षा पूर्णपणे वेगळा आहे. मग यीशू एक प्रश्न जोडतात जो हवेत लटकत राहतो: जेव्हा मनुष्याचा पुत्र येईल, तेव्हा त्याला पृथ्वीवर विश्वास सापडेल काय? लवकर न्याय मिळेल हे वचन त्या गंभीर प्रश्नाशी बांधलेले आहे, की तो येईल तेव्हा विश्वास सापडेल का.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Faith that keeps going",
+    "hi": {
+     "text": "विश्वास जो चलता रहता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सातत्य ठेवणारा विश्वास",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have read the parable as a call to keep praying through long waits and apparent silence. It does not promise that everything will happen as we wish or on our schedule. It says that persistence matters and that the cries of those who suffer injustice are not forgotten. The widow does not give up, and the story honours her for it.\n\nPeople of many faiths may also read the story as a call to keep working for justice, since the widow did not just wait but went again and again to the one who could help. The question at the end is a challenge to everyone who hopes for a better world. Will we still be hoping, still asking and still acting, after the long delay? The parable keeps its edge of challenge, and it leaves the reader to answer the closing question for themselves.",
+    "hi": {
+     "text": "ईसाइयों ने इस दृष्टांत को लंबी प्रतीक्षा और स्पष्ट मौन के बीच भी प्रार्थना जारी रखने के आह्वान के रूप में पढ़ा है। यह नहीं कहता कि सब कुछ हमारी इच्छा के अनुसार या हमारे समय पर होगा। यह कहता है कि लगन मायने रखती है, और अन्याय सहने वालों की पुकार भुलाई नहीं जाती। विधवा हार नहीं मानती, और कहानी इसी के लिए उसका सम्मान करती है।\n\nकई धर्मों के लोग इस कहानी को न्याय के लिए काम करते रहने के आह्वान के रूप में भी पढ़ सकते हैं, क्योंकि विधवा केवल प्रतीक्षा नहीं करती थी, बल्कि उस व्यक्ति के पास बार-बार जाती रही जो मदद कर सकता था। अंत का प्रश्न हर उस व्यक्ति के लिए चुनौती है जो एक बेहतर दुनिया की आशा रखता है। क्या लंबी देरी के बाद भी हम आशा रखेंगे, पूछते रहेंगे और कार्य करते रहेंगे? दृष्टांत अपनी चुनौती की धार बनाए रखता है, और पाठक को अंतिम प्रश्न का उत्तर स्वयं देने के लिए छोड़ देता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोकांनी हा दृष्टांत लांब प्रतीक्षेत आणि उघड मौनातही प्रार्थना चालू ठेवण्याचे आवाहन म्हणून वाचला आहे. तो असे वचन देत नाही की सर्व काही आपल्या इच्छेप्रमाणे किंवा आपल्या वेळापत्रकाप्रमाणे होईल. तो म्हणतो की चिकाटीला महत्त्व आहे, आणि अन्यायाने दुःख भोगणार्यांचा आक्रोश विसरला जात नाही. विधवा हार मानत नाही, आणि कथा त्यासाठीच तिचा सन्मान करते.\n\nअनेक धर्मांचे लोक ही कथा न्यायासाठी सतत कार्य करत राहण्याचे आवाहन म्हणूनही वाचू शकतात, कारण विधवा केवळ वाट पाहत नव्हती, तर जो मदत करू शकत होता त्याच्याकडे वारंवार जात होती. शेवटचा प्रश्न प्रत्येकासाठी आव्हान आहे जो चांगल्या जगाची आशा ठेवतो. लांब विलंबानंतरही आपण आशा ठेवू, विचारत राहू आणि कृती करत राहू का? दृष्टांत आपली आव्हानाची धार टिकवून ठेवतो, आणि अंतिम प्रश्नाचे उत्तर वाचकाने स्वतः द्यावे म्हणून त्याला सोडून देतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "He also spoke a parable to them that they must always pray and not give up",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 18:1 (World English Bible)",
+   "hi": {
+    "text": "लूका 18:1 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 18:1 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Luke tells us at the start that this story is meant to encourage constant prayer without losing heart.",
+   "hi": {
+    "text": "लूका शुरू में ही बताते हैं कि यह कहानी बिना हिम्मत खोए निरंतर प्रार्थना को प्रोत्साहित करने के लिए है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका सुरुवातीलाच सांगतात की ही कथा हिम्मत न हारता सतत प्रार्थना करण्यास प्रोत्साहन देण्यासाठी आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Where have you been tempted to give up on a hope, a prayer or a cause? What would one more honest, persistent step look like?",
+  "hi": {
+   "text": "तुम किसी आशा, प्रार्थना या उद्देश्य को छोड़ने के प्रलोभन में कहाँ आए हो? एक और ईमानदार, लगातार उठाया गया कदम कैसा दिखेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही एखादी आशा, प्रार्थना किंवा कार्य सोडून देण्याच्या मोहात कुठे आला आहात? आणखी एक प्रामाणिक, चिकाटीचे पाऊल कसे दिसेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Persistence in prayer and in seeking justice matters, and the cry of the powerless is never wasted.",
+  "hi": {
+   "text": "प्रार्थना में और न्याय की खोज में लगन मायने रखती है, और शक्तिहीनों की पुकार कभी व्यर्थ नहीं जाती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रार्थनेत आणि न्यायाच्या शोधात चिकाटी महत्त्वाची आहे, आणि दुर्बळांचा आक्रोश कधीही व्यर्थ जात नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 18:1-8; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 18:1-8 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 18:1-8 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

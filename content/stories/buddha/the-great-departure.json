@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-great-departure",
+ "order": 5,
+ "part": "renunciation",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Great Departure",
+  "hi": {
+   "text": "महान प्रस्थान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान प्रस्थान",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "After a quiet morning in the fields and a refused request to his father, the prince rides out of Kapilavastu at night.",
+  "hi": {
+   "text": "एक शांत सुबह खेत में और पिता से अस्वीकृत निवेदन के बाद राजकुमार रात में कपिलवस्तु से निकल जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक शांत सकाळ शेतात आणि वडिलांनी नाकारलेल्या विनंतीनंतर राजपुत्र रात्री कपिलवस्तूतून निघून जातो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-departure-1.webp",
+   "w": 1200,
+   "h": 801,
+   "caption": {
+    "en": "The Great Departure, Gandhara relief (Musée Guimet)",
+    "hi": {
+     "text": "महाभिनिष्क्रमण, गांधार शिल्प (गिमे संग्रहालय)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महाभिनिष्क्रमण, गांधार शिल्प (गिमे संग्रहालय)",
+     "reviewed": false
+    }
+   },
+   "credit": "Marie-Lan Nguyen, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Great_Departure_Guimet_MA3397_n01.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The ploughed field",
+    "hi": {
+     "text": "जुता हुआ खेत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नांगरलेले शेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ashvaghosha tells us that the prince, though tempted by all that attracts others, felt no delight, like a lion with a poisoned arrow deep in its heart. One day, with the king's permission, he rode out on his horse Kanthaka with some sons of his father's ministers, longing for the quiet of the forest edge.\n\nThere he saw a field being ploughed, the furrows breaking like waves on water. The young grass was torn, and the eggs and young of little insects were crushed in the earth. The poet says he felt sorrow as if for the death of his own kin. He looked at the ploughmen, their faces spoiled by dust, sun and wind, and at the oxen bewildered by the weight they pulled. He got down from his horse and walked slowly over the ground, thinking of how the world is born and destroyed, and he said that this was truly pitiable.",
+    "hi": {
+     "text": "अश्वघोष बताते हैं कि राजकुमार को वह सब कुछ आकर्षित नहीं करता था जो दूसरों को लुभाता है। वह ऐसे था जैसे विषैला बाण हृदय में धँसा हो और सिंह को कष्ट दे रहा हो। एक दिन राजा की अनुमति से वह अपने घोड़े कंथक पर सवार हुआ, मंत्रियों के कुछ पुत्रों के साथ, वन के किनारे की शांति की ओर मन लगाए।\n\nवहाँ उसने एक खेत जुतता देखा, हल से उठती मिट्टी लहरों की तरह टूट रही थी। नई घास उखड़ गई थी, और छोटे कीड़ों के अंडे और बच्चे धरती में कुचले जा रहे थे। कवि कहता है कि उसे ऐसी पीड़ा हुई जैसे अपने ही संबंधियों की मृत्यु पर होती है। उसने हलवाहों को देखा, जिनके चेहरे धूल, धूप और हवा से बिगड़े हुए थे, और उन बैलों को देखा जो अपने भार से हैरान थे। वह घोड़े से उतरा और धीरे-धीरे भूमि पर चला, यह सोचते हुए कि संसार कैसे जन्म लेता और नष्ट होता है, और उसने कहा कि यह वास्तव में दयनीय है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अश्वघोष सांगतात की राजपुत्राला इतरांना मोहित करणारे काहीच आकर्षित करत नव्हते. ते असे होते जणू विषारी बाण हृदयात रुतलेला सिंह यातना भोगत असावा. एके दिवशी राजाच्या परवानगीने तो आपला घोडा कंथक याच्यावर बसून, मंत्र्यांच्या काही पुत्रांसह, वनाच्या काठावरील शांततेच्या ओढीने निघाला.\n\nतिथे त्याने एक शेत नांगरलेले पाहिले, नांगराने उठलेली माती लाटांसारखी फुटत होती. कोवळे गवत उखडले गेले होते, आणि लहान किड्यांची अंडी व पिले मातीत चिरडली जात होती. कवी सांगतो की त्याला जणू आपल्याच नातेवाइकांच्या मृत्यूसारखे दुःख झाले. त्याने नांगरणाऱ्यांकडे पाहिले, ज्यांचे चेहरे धूळ, ऊन आणि वाऱ्याने विद्रूप झाले होते, आणि ज्या बैलांना आपल्या ओझ्याने गोंधळून गेल्यासारखे वाटत होते. तो घोड्यावरून उतरला आणि हळूहळू जमिनीवर चालला, जग कसे जन्मते आणि नष्ट होते याचा विचार करत, आणि म्हणाला की हे खरोखरच दयनीय आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Under the rose-apple tree",
+    "hi": {
+     "text": "जामुन के वृक्ष के नीचे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जांभळाच्या झाडाखाली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Wishing to be alone with his thoughts, he asked his friends to stop where they were. He went to the root of a rose-apple tree, its leaves trembling, and sat down on the ground that was bright with young grass. There he meditated on how the world arises and passes away, and the poem says his mind settled into a calm, clear state, free from desire and from sin.\n\nOut of that calm a thought came to him. It is a sad thing, he reflected, that people who are themselves weak and liable to sickness, old age and death look with disgust at another who is old, ill or dead. If he felt that disgust, it would not be right for him who knew the truth. As he thought of the faults of old age, sickness and death, the joy he had taken in his own youth and strength went out of him in a moment, though he felt neither remorse nor scorn for anyone.",
+    "hi": {
+     "text": "एकांत में अपने विचारों के साथ रहने की इच्छा से उसने अपने मित्रों से वहीं रुकने को कहा। वह एक जामुन (रोज़-एप्पल) वृक्ष की जड़ के पास गया, जिसके पत्ते काँप रहे थे, और नई घास से चमकती भूमि पर बैठ गया। वहाँ उसने विचार किया कि संसार कैसे उत्पन्न होता और लुप्त होता है, और काव्य कहता है कि उसका मन एक शांत, स्वच्छ अवस्था में स्थिर हो गया, कामना और पाप से मुक्त।\n\nउस शांति से एक विचार उसके मन में आया। यह दुःखद है, उसने सोचा, कि जो लोग स्वयं दुर्बल हैं और रोग, बुढ़ापे और मृत्यु के अधीन हैं, वे किसी वृद्ध, रोगी या मृत व्यक्ति को देखकर घृणा करते हैं। यदि वह भी ऐसी घृणा अनुभव करे, तो सत्य को जानने वाले के लिए यह उचित नहीं होगा। बुढ़ापे, रोग और मृत्यु के दोषों पर विचार करते हुए अपनी युवावस्था और शक्ति से जुड़ा जो आनंद उसके मन में था, वह क्षण भर में उसके भीतर से निकल गया, यद्यपि उसे न पश्चाताप था न किसी के प्रति तिरस्कार।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकांतात आपल्या विचारांसोबत राहण्याच्या इच्छेने त्याने मित्रांना तिथेच थांबायला सांगितले. तो एका जांभूळ वृक्षाच्या मुळाशी गेला, ज्याची पाने थरथरत होती, आणि नव्या गवताने चमकणाऱ्या जमिनीवर बसला. तिथे त्याने विचार केला की जग कसे उत्पन्न होते आणि लोप पावते, आणि काव्य सांगते की त्याचे मन एका शांत, निर्मळ अवस्थेत स्थिर झाले, वासना आणि पापापासून मुक्त.\n\nत्या शांततेतून त्याच्या मनात एक विचार आला. हे दुःखद आहे, त्याने विचार केला, की जे लोक स्वतः दुर्बल आहेत आणि आजार, म्हातारपण व मृत्यूच्या अधीन आहेत, ते एखाद्या वृद्ध, रोगी किंवा मृत व्यक्तीला पाहून किळस करतात. जर तो स्वतः अशी किळस अनुभवत असेल, तर सत्य जाणणाऱ्याला ते योग्य नाही. म्हातारपण, रोग आणि मृत्यूच्या दोषांचा विचार करताना, आपल्या तारुण्य आणि शक्तीविषयी जो आनंद त्याच्या मनात होता, तो क्षणात त्याच्या आतून निघून गेला, जरी त्याला पश्चात्ताप नव्हता आणि कोणाबद्दल तिरस्कारही नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The beggar and the request",
+    "hi": {
+     "text": "भिखारी और निवेदन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भिकारी आणि विनंती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "While the prince sat in this stillness, a man in a beggar's dress came near, unseen by the others. The prince asked who he was. The man answered that he was terrified of birth and death and had become a wanderer to find freedom, living at the root of a tree or in an empty house, with no family and no hope of gain. Then he rose up into the sky. The poem says he was a heavenly being, sent to stir the prince's memory of his purpose.\n\nThe prince rode home with a new calm. When a young woman called out that the wife of such a man was fortunate, he heard the word blessed as a word for Nirvana. He went to his father and asked leave to become a wandering seeker. The king trembled like a tree struck by an elephant and begged him to wait. The prince answered gently that he would stay if his father could promise four things: that he would never die, never be sick, never grow old, and never lose his wealth.",
+    "hi": {
+     "text": "जब राजकुमार इस शांति में बैठा था, तब एक भिखारी के वस्त्र पहने एक व्यक्ति, जो दूसरों की नज़र से बचा हुआ था, पास आया। राजकुमार ने पूछा कि वह कौन है। उसने उत्तर दिया कि वह जन्म और मृत्यु से भयभीत है और मुक्ति की खोज में भटकने वाला बन गया है, वृक्ष की जड़ पर या किसी खाली घर में रहता है, उसका कोई परिवार नहीं और कोई लाभ की आशा नहीं। फिर वह आकाश में उठ गया। काव्य कहता है कि वह एक स्वर्गीय प्राणी था, जिसे राजकुमार की स्मृति जगाने के लिए भेजा गया था।\n\nराजकुमार नई शांति के साथ घर लौटा। जब एक युवती ने पुकारकर कहा कि ऐसे व्यक्ति की पत्नी भाग्यवान है, तो उसने उस शब्द 'धन्य' को निर्वाण के लिए प्रयुक्त शब्द के रूप में सुना। वह पिता के पास गया और खोजी बनकर भटकने की अनुमति माँगी। राजा हाथी द्वारा उखाड़े गए वृक्ष की तरह काँप उठा और उससे रुकने की विनती की। राजकुमार ने कोमलता से उत्तर दिया कि वह रुक जाएगा, यदि पिता चार बातों का वचन दे सकें: कि वह कभी नहीं मरेगा, कभी बीमार नहीं होगा, कभी बूढ़ा नहीं होगा, और कभी अपनी संपत्ति नहीं खोएगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्र या शांततेत बसला असताना, एका भिकाऱ्याचे वस्त्र घातलेला एक माणूस, इतरांच्या नजरेतून लपून, त्याच्या जवळ आला. राजपुत्राने विचारले की तो कोण आहे. त्याने उत्तर दिले की तो जन्म आणि मृत्यूला घाबरतो आणि मुक्तीच्या शोधात भटकणारा बनला आहे, झाडाच्या मुळाशी किंवा एखाद्या रिकाम्या घरात राहतो, त्याला कुटुंब नाही आणि लाभाची कोणतीही आशा नाही. मग तो आकाशात उडून गेला. काव्य सांगते की तो एक दिव्य प्राणी होता, जो राजपुत्राची स्मृती जागवण्यासाठी पाठवला गेला होता.\n\nराजपुत्र नव्या शांततेने घरी परतला. जेव्हा एका तरुणीने हाक मारून म्हटले की अशा माणसाची पत्नी भाग्यवान आहे, तेव्हा त्याने 'धन्य' या शब्दाला निर्वाणासाठी वापरलेला शब्द म्हणून ऐकले. तो वडिलांकडे गेला आणि शोधक म्हणून भटकण्याची परवानगी मागितली. राजा हत्तीने उखडलेल्या वृक्षासारखा थरथरला आणि त्याला थांबण्याची विनंती केली. राजपुत्राने सौम्यपणे उत्तर दिले की तो थांबेल, जर वडील चार गोष्टींचे वचन देऊ शकले: की तो कधी मरणार नाही, कधी आजारी पडणार नाही, कधी म्हातारा होणार नाही, आणि कधी आपली संपत्ती गमावणार नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sleeping women",
+    "hi": {
+     "text": "सोती हुई स्त्रियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "झोपलेल्या स्त्रिया",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king could not promise these things and refused to let him go. He doubled the guards and the pleasures. That night, in the palace, there was music, but the prince took no pleasure in it. The poem says that the heavenly beings who knew his purpose made the women sleep. The musicians lay where they fell, their lutes, flutes and drums in their arms, some with their garments loosened and their mouths open, in all kinds of disarray.\n\nThe prince looked at them and was filled with a deep distaste for what he had once found beautiful. Ashvaghosha lets him say that he saw how sleep changes the face of beauty and how dress and ornament had deceived him. A modern reader may find the passage harsh toward women, and it is better understood as the prince's own thought about being deceived by appearances. The gods then caused the palace doors to open of themselves, and he descended from the roof and went out into the courtyard.",
+    "hi": {
+     "text": "राजा ये बातें नहीं दे सका, और उसने राजकुमार को जाने नहीं दिया। उसने पहरेदार और आनंद के साधन दोगुने कर दिए। उस रात महल में संगीत था, पर राजकुमार को उसमें कोई आनंद नहीं मिला। काव्य कहता है कि उसका उद्देश्य जानने वाले स्वर्गीय प्राणियों ने स्त्रियों को सुला दिया। वादक जहाँ गिरे थे वहीं सो गए, उनकी वीणाएँ, बाँसुरी और ढोल उनकी बाँहों में थे, कोई वस्त्र ढीले किए हुए, कोई मुँह खुला हुआ, हर प्रकार की अस्त-व्यस्तता में।\n\nराजकुमार ने उन्हें देखा और उस वस्तु के प्रति गहरी अरुचि अनुभव की जिसे वह कभी सुंदर मानता था। अश्वघोष उससे कहलवाते हैं कि नींद सौंदर्य का रूप कैसे बदल देती है, और कि वेशभूषा और अलंकारों ने उसे कैसे धोखा दिया था। आधुनिक पाठक को यह अंश कठोर लग सकता है, और इसे स्त्रियों पर कठोर होने की बजाय राजकुमार के अपने विचार के रूप में समझना बेहतर है कि वह दिखावे से कैसे धोखा खाता रहा। फिर देवताओं ने महल के द्वार अपने आप खोल दिए, और वह छत से उतरकर आँगन में निकल गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा या गोष्टी देऊ शकला नाही, आणि त्याने राजपुत्राला जाऊ दिले नाही. त्याने पहारेकरी आणि आनंदाची साधने दुप्पट केली. त्या रात्री महालात संगीत होते, पण राजपुत्राला त्यात आनंद मिळाला नाही. काव्य सांगते की त्याचा हेतू जाणणाऱ्या दिव्य प्राण्यांनी स्त्रियांना झोपवले. वादक जिथे पडले होते तिथेच झोपी गेले, त्यांच्या वीणा, बासर्या आणि ढोल त्यांच्या बाहुपाशात होते, कोणी वस्त्रे सैल करून, कोणाचे तोंड उघडे ठेवून, सर्व प्रकारच्या अस्ताव्यस्त अवस्थेत.\n\nराजपुत्राने त्यांच्याकडे पाहिले आणि ज्या गोष्टीला तो कधी सुंदर मानत होता, तिच्याबद्दल त्याला खोल तिरस्कार वाटला. अश्वघोष त्याच्या मुखी असे वाक्य घालतात की झोप सौंदर्याचे रूप कसे बदलते, आणि वस्त्रे व अलंकारांनी त्याला कसे फसवले होते. आजच्या वाचकाला हा भाग कठोर वाटू शकतो, आणि त्याला स्त्रियांवरील कठोरपणा म्हणून न पाहता राजपुत्राचा स्वतःचा विचार म्हणून पाहणे अधिक योग्य आहे, की दिखाव्याने तो किती वेळा फसला होता. मग देवांनी महालाची दारे आपोआप उघडली, आणि तो छतावरून उतरून अंगणात गेला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Out through the gate",
+    "hi": {
+     "text": "फाटक से बाहर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दरवाज्याबाहेर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He woke his groom Chandaka and told him to bring Kanthaka, because tonight he wanted to go and find immortality. Chandaka, urged on by a higher power, brought the white horse. The prince embraced him and spoke to him like a friend, asking him to carry him well, for the good of the world.\n\nHe mounted, bright as fire, and the horse went forth with a hushed jaw and a silent neigh so as not to wake the household. Yakshas, in the poet's picture, bent down and held up his hooves in their lotus hands. The great city gates, which elephants could scarcely have opened, swung wide without a sound. He left behind his father, his young son, his people and all his splendour. Looking back at the city once, he spoke like a lion: until he had seen the farther shore of birth and death he would never enter the city of Kapila again.",
+    "hi": {
+     "text": "उसने अपने सेवक छंदक को जगाया और कहा कि कंथक को लाए, क्योंकि आज रात वह अमरत्व की खोज में जाना चाहता है। छंदक, ऊपर की किसी शक्ति से प्रेरित होकर, वह श्वेत घोड़ा लाया। राजकुमार ने उसे गले लगाया और मित्र की तरह बोला, उससे विनती करते हुए कि संसार के भले के लिए उसे अच्छी तरह ले चले।\n\nवह अग्नि की तरह दमकता हुआ सवार हुआ, और घोड़ा चुपचाप, बिना हिनहिनाए, घर के लोगों को न जगाने के लिए आगे बढ़ा। कवि के चित्र में यक्ष झुके और उसके खुरों को अपने कमल जैसे हाथों पर उठाया। विशाल नगर के द्वार, जिन्हें हाथी भी शायद ही खोल पाते, बिना आवाज़ के अपने आप खुल गए। उसने अपने पिता, अपने छोटे पुत्र, अपनी प्रजा और अपना सारा वैभव पीछे छोड़ा। एक बार नगर की ओर मुड़कर उसने सिंह की तरह कहा: जब तक मैं जन्म और मृत्यु के दूसरे तट को न देख लूँ, मैं कपिल नगरी में फिर प्रवेश नहीं करूँगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याने आपला सेवक छंदक याला जागे करून सांगितले की कंथकाला घेऊन ये, कारण आज रात्री त्याला अमरत्वाच्या शोधासाठी जायचे आहे. छंदक, वरच्या कुठल्यातरी शक्तीने प्रेरित होऊन, तो श्वेत घोडा घेऊन आला. राजपुत्राने त्याला मिठी मारली आणि मित्रासारखे बोलला, त्याला विनंती केली की जगाच्या भल्यासाठी त्याला नीट घेऊन जा.\n\nतो अग्नीसारखा तेजस्वी दिसत स्वार झाला, आणि घोडा शांतपणे, खिंकाळल्याशिवाय, घरातल्या लोकांना जागे न करता पुढे निघाला. कवीच्या चित्रात यक्ष खाली वाकले आणि त्याच्या खुरांना आपल्या कमळासारख्या हातांवर उचलले. विशाल नगराची दारे, जी हत्तीसुद्धा क्वचितच उघडू शकत, आवाज न करता आपोआप उघडली. त्याने आपले वडील, आपला लहान पुत्र, आपली प्रजा आणि आपले सर्व वैभव मागे सोडले. एकदा नगराकडे वळून सिंहासारखा तो म्हणाला: जोपर्यंत मी जन्म आणि मृत्यूचा दुसरा किनारा पाहत नाही, तोपर्यंत मी कपिल नगरीत पुन्हा प्रवेश करणार नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Till I have seen the further shore of birth and death I will never again enter the city",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 5.84 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 5.84 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 5.84 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "As he leaves, the prince makes a vow not to return home until he has found freedom.",
+   "hi": {
+    "text": "प्रस्थान करते समय राजकुमार प्रतिज्ञा करता है कि मुक्ति पाए बिना वह घर नहीं लौटेगा।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "प्रस्थान करताना राजकुमार प्रतिज्ञा करतो की मुक्ती मिळेपर्यंत तो घरी परत येणार नाही.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What would you be willing to leave behind, and who would be hurt by your leaving, if you were certain of a greater good?",
+  "hi": {
+   "text": "तुम किसे छोड़ सकते थे और किसे चोट पहुँचेगी, यदि तुम्हें किसी बड़े भले की पक्की जानकारी हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जर तुम्हाला एखाद्या मोठ्या भल्याची खात्री असेल, तर तुम्ही कोणाला सोडू शकाल आणि कोणाला दुखापत होईल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A great decision rarely comes in a flash; it grows out of what a person has seen and quietly gone on thinking about.",
+  "hi": {
+   "text": "एक महान निर्णय शायद ही कभी एक क्षण में आता है; वह उससे उपजता है जो व्यक्ति ने देखा है और चुपचाप सोचता रहा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एखादा मोठा निर्णय क्वचितच एका क्षणात येतो; तो त्या गोष्टीतून उगम पावतो जी व्यक्तीने पाहिली आहे आणि शांतपणे विचारात घेतली आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 5; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 5; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 5; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

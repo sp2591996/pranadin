@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-lost-sheep",
+ "order": 9,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Lost Sheep",
+  "hi": {
+   "text": "खोई हुई भेड़",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हरवलेली मेंढी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A shepherd leaves ninety-nine safe sheep to search for the one that has wandered off.",
+  "hi": {
+   "text": "एक चरवाहा निन्यानवे सुरक्षित भेड़ों को छोड़कर उस एक भेड़ को ढूँढने निकलता है जो भटक गई है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक मेंढपाळ भटकलेल्या एका मेंढीला शोधायला निघतो आणि निन्याण्णव सुरक्षित मेंढरांना मागे सोडतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-lost-sheep-vangogh.webp",
+   "w": 1200,
+   "h": 614,
+   "caption": {
+    "en": "Shepherd with a flock of sheep, Vincent van Gogh (1884)",
+    "hi": {
+     "text": "भेड़ों के झुंड के साथ चरवाहा, विंसेंट वैन गॉग (1884)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मेंढरांच्या कळपासह मेंढपाळ, व्हिन्सेंट व्हॅन गॉग (1884)",
+     "reviewed": false
+    }
+   },
+   "credit": "Vincent van Gogh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Shepherd_with_a_Flock_of_Sheep_(1884)_-_F42.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Among the little ones",
+    "hi": {
+     "text": "छोटों के बीच",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लहानांमध्ये",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In Matthew, Jesus tells this story to his disciples after a conversation about who is greatest in the Kingdom of Heaven. He had set a child in front of them and said that those who humble themselves like a child are greatest. He then warned them not to despise any of these little ones, whether children or those who are small, overlooked and easily led astray.\n\nIt is in that setting that he asks a simple question. What do you think, he says, drawing his listeners in. Most of those around him knew shepherds well, and some were shepherds themselves. He was not describing something remote or poetic, but a scene from the hills of Galilee and Judea, where sheep and the men who guarded them were part of daily life. Their daily work meant long hours with the flock, so the question was not abstract but a familiar part of life.",
+    "hi": {
+     "text": "मत्ती के सुसमाचार में यीशु यह कहानी अपने शिष्यों को तब सुनाते हैं जब स्वर्ग के राज्य में सबसे बड़ा कौन है, इस पर बातचीत हो चुकी होती है। उन्होंने एक बालक को उनके सामने खड़ा किया था और कहा था कि जो बालक के समान अपने को नम्र करते हैं वे सबसे बड़े हैं। फिर उन्होंने उन्हें चेतावनी दी कि इन छोटों में से किसी को भी तुच्छ न जानें, चाहे वे बच्चे हों या वे जो छोटे हैं, उपेक्षित हैं और आसानी से भटक जाते हैं।\n\nइसी संदर्भ में वे एक सरल प्रश्न पूछते हैं। तुम क्या सोचते हो, वे अपने श्रोताओं को अपनी ओर खींचते हुए कहते हैं। उनके आसपास के अधिकांश लोग चरवाहों को अच्छी तरह जानते थे, और कुछ स्वयं चरवाहे थे। वे किसी दूर की या काव्यात्मक चीज़ का वर्णन नहीं कर रहे थे, बल्कि गलील और यहूदिया की पहाड़ियों का एक दृश्य था, जहाँ भेड़ें और उनकी रखवाली करने वाले लोग रोज़मर्रा के जीवन का हिस्सा थे। उनका रोज़ का काम झुंड के साथ लंबे घंटे बिताना था, इसलिए यह प्रश्न अमूर्त नहीं, बल्कि जीवन का परिचित हिस्सा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्तीच्या शुभवर्तमानात यीशू स्वर्गाच्या राज्यात सर्वात मोठा कोण या विषयावर झालेल्या संभाषणानंतर आपल्या शिष्यांना ही कथा सांगतात. त्यांनी एका बालकाला त्यांच्यासमोर उभे केले होते आणि म्हटले होते की जे बालकासारखे स्वतःला नम्र करतात ते सर्वात मोठे आहेत. मग त्यांनी त्यांना इशारा दिला की या लहानांपैकी कोणालाही तुच्छ लेखू नका, मग ते लहान मुले असोत किंवा जे लहान, दुर्लक्षित आणि सहज वाट चुकणारे आहेत ते असोत.\n\nया संदर्भातच ते एक साधा प्रश्न विचारतात. तुम्हांला काय वाटते, ते आपल्या श्रोत्यांना आपल्याकडे ओढत म्हणतात. त्यांच्या आजूबाजूचे बहुतेक लोक मेंढपाळांना चांगले ओळखत होते, आणि काही स्वतः मेंढपाळ होते. ते काही दूरचे किंवा काव्यमय वर्णन करत नव्हते, तर गालील आणि यहूदियाच्या डोंगरांतील एक दृश्य होते, जिथे मेंढरे आणि त्यांचे रक्षण करणारे लोक दैनंदिन जीवनाचा भाग होते. त्यांचे रोजचे काम म्हणजे कळपाबरोबर तासन्तास घालवणे, त्यामुळे हा प्रश्न अमूर्त नव्हता, तर जीवनाचा परिचित भाग होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "One hundred sheep",
+    "hi": {
+     "text": "सौ भेड़ें",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंभर मेंढरे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A man has a hundred sheep, and one of them goes astray. It is not stolen and not carried off by a wolf, just wandered away, as sheep do, nibbling its way along a hillside until it can no longer see the flock. In dry country with steep ravines and rocky ground, a lost sheep was in real danger and could not find its own way home.\n\nJesus asks what the shepherd would do, and the answer he expects is obvious. He leaves the ninety-nine, goes to the mountains and looks for the one that has gone astray. The detail would have made some listeners smile, for a sensible shepherd might worry about leaving the rest. But the story is not about caution. It is about what one creature means to the person who cares for it.",
+    "hi": {
+     "text": "एक मनुष्य के पास सौ भेड़ें हैं, और उनमें से एक भटक जाती है। वह चोरी नहीं होती और भेड़िया उसे उठाकर नहीं ले जाता, बस भेड़ों की तरह भटक जाती है, पहाड़ी ढलान पर घास चरते-चरते इतनी दूर चली जाती है कि झुंड दिखना बंद हो जाता है। सूखे इलाके में, जहाँ गहरी घाटियाँ और पथरीली ज़मीन हैं, खोई हुई भेड़ सचमुच खतरे में होती थी और अपना रास्ता घर तक नहीं ढूँढ सकती थी।\n\nयीशु पूछते हैं कि चरवाहा क्या करेगा, और जिस उत्तर की वे अपेक्षा करते हैं वह स्पष्ट है। वह निन्यानवे को छोड़कर पहाड़ों पर जाता है और उस एक को ढूँढता है जो भटक गई है। यह विवरण कुछ श्रोताओं को मुस्कुराने पर मजबूर कर सकता था, क्योंकि एक समझदार चरवाहा बाकी को छोड़कर जाने की चिंता कर सकता था। पर कहानी सावधानी के बारे में नहीं है। यह इस बारे में है कि एक जीव उस व्यक्ति के लिए क्या अर्थ रखता है जो उसकी देखभाल करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका माणसाजवळ शंभर मेंढरे आहेत, आणि त्यांतील एक भटकते. ती चोरीला जात नाही, किंवा लांडग्याने पळवून नेली जात नाही, तर मेंढरे करतात तसे ती फक्त भटकते, डोंगर उतारावर गवत चरत चरत इतकी दूर जाते की कळप दिसेनासा होतो. कोरड्या प्रदेशात, जिथे खोल दर्या आणि खडकाळ जमीन आहे, तिथे हरवलेली मेंढी खरोखर धोक्यात असते आणि तिला स्वतःच्या घराकडे परतीची वाट सापडत नाही.\n\nयीशू विचारतात की मेंढपाळ काय करील, आणि त्यांना अपेक्षित उत्तर स्पष्ट आहे. तो निन्याण्णवांना सोडून डोंगरांत जातो आणि जी भटकली आहे तिला शोधतो. हा तपशील काही श्रोत्यांना हसू आणू शकला असता, कारण एक समजूतदार मेंढपाळ बाकीच्यांना सोडण्याची काळजी करू शकला असता. पण ही कथा सावधगिरीबद्दल नाही. ती एका जीवाचा त्याची काळजी घेणार्याच्या लेखी काय अर्थ आहे याबद्दल आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Rejoicing over the one",
+    "hi": {
+     "text": "उस एक पर आनंद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या एकीवरचा आनंद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The shepherd searches until he finds it. In the version in Luke, he lifts the sheep onto his shoulders and carries it home, but Matthew focuses on the feeling that follows. If he finds it, Jesus says, most certainly he rejoices over it more than over the ninety-nine that never went astray.\n\nThis is the tender surprise of the story. We might have expected the shepherd to be annoyed with the wandering sheep, or at least to treat it as a nuisance. Instead there is gladness, the particular joy of something that was lost and is now found. Anyone who has searched for a lost child or a lost friend knows how that kind of gladness is sharper than the quiet contentment of what was never in doubt. The surprise is how little the shepherd is concerned with blame, and how much with the plain pleasure of having the sheep back.",
+    "hi": {
+     "text": "चरवाहा तब तक ढूँढता है जब तक वह उसे पा नहीं लेता। लूका के संस्करण में वह भेड़ को कंधों पर उठाकर घर ले आता है, पर मत्ती उस भावना पर ध्यान देते हैं जो उसके बाद आती है। यदि उसे वह मिल जाती है, यीशु कहते हैं, तो वह सच में उन निन्यानवे से अधिक उस पर आनंद करता है जो कभी भटकी ही नहीं।\n\nयही कहानी का कोमल आश्चर्य है। हम शायद सोचते कि चरवाहा भटकी हुई भेड़ से चिढ़ेगा, या कम से कम उसे परेशानी समझेगा। इसके बजाय वहाँ आनंद है, खोई और अब मिली हुई किसी वस्तु का विशेष आनंद। जिसने किसी खोए हुए बच्चे या मित्र को ढूँढा है, वह जानता है कि उस तरह का आनंद उस शांत संतोष से तीखा होता है जो कभी संदेह में था ही नहीं। आश्चर्य यह है कि चरवाहे को दोष देने की चिंता कितनी कम है, और भेड़ को वापस पाने के सादे आनंद की चिंता कितनी अधिक।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मेंढपाळ ती सापडेपर्यंत शोधतो. लूकाच्या आवृत्तीत तो मेंढी खांद्यावर उचलून घरी आणतो, पण मत्ती त्यानंतर येणार्या भावनेवर लक्ष केंद्रित करतात. जर त्याला ती सापडली, यीशू म्हणतात, तर तो निश्चितच जे कधीच भटकले नाहीत त्या निन्याण्णवांपेक्षा त्या एकीवर अधिक आनंद करतो.\n\nहीच कथेची कोमल आश्चर्यकारक बाजू आहे. कदाचित आपण अपेक्षा केली असती की मेंढपाळ भटकलेल्या मेंढीवर चिडेल, किंवा निदान तिला त्रास मानेल. त्याऐवजी आनंद आहे, जे हरवले होते आणि आता सापडले आहे त्याचा विशेष आनंद. ज्याने हरवलेल्या मुलाचा किंवा मित्राचा शोध घेतला आहे, त्याला माहीत आहे की असा आनंद त्या शांत समाधानापेक्षा तीव्र असतो जे कधी शंकेतच नव्हते. आश्चर्य हे आहे की मेंढपाळाला दोष देण्याची किती कमी काळजी आहे, आणि मेंढी परत मिळाल्याच्या साध्या आनंदाची किती जास्त.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Not one of these little ones",
+    "hi": {
+     "text": "इन छोटों में से एक भी नहीं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या लहानांपैकी एकही नाही",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Matthew ends the parable with its meaning, stated in a single sentence. Even so, Jesus says, it is not the will of your Father who is in heaven that one of these little ones should perish. The shepherd is a picture of God's care, and the sheep stands for any person who has wandered, whether by foolishness, hardship, loneliness or simple drifting.\n\nChristians have found great comfort in this picture, and Luke's Gospel tells much the same story about sinners and God's joy over their return. Within the setting in Matthew it is also an instruction to the disciples. If God values even the smallest and most easily lost, then the community that follows Jesus must pay attention to its own members and look for the one who has dropped out of sight. For the disciples, it was a lesson in how to treat one another and the vulnerable people who come among them.",
+    "hi": {
+     "text": "मत्ती दृष्टांत का अर्थ एक वाक्य में बताते हुए समाप्त करते हैं। फिर भी, यीशु कहते हैं, स्वर्ग में तुम्हारे पिता की इच्छा नहीं है कि इन छोटों में से एक भी नाश हो। चरवाहा परमेश्वर की देखभाल का चित्र है, और भेड़ किसी भी ऐसे व्यक्ति का प्रतीक है जो भटक गया है, चाहे मूर्खता से, कठिनाई से, अकेलेपन से या बस बहक जाने से।\n\nख्रिस्ती लोगों ने इस चित्र में बड़ा दिलासा पाया है, और लूका का सुसमाचार पापियों और उनके लौटने पर परमेश्वर के आनंद के बारे में लगभग यही कहानी सुनाता है। मत्ती के संदर्भ में यह शिष्यों के लिए एक निर्देश भी है। यदि परमेश्वर सबसे छोटे और सबसे आसानी से खो जाने वालों को भी मूल्य देता है, तो यीशु के पीछे चलने वाले समुदाय को अपने ही सदस्यों पर ध्यान देना चाहिए और उसे ढूँढना चाहिए जो नज़रों से ओझल हो गया है। शिष्यों के लिए यह एक पाठ था कि एक-दूसरे से और अपने बीच आने वाले कमज़ोर लोगों से कैसा व्यवहार करें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्ती दृष्टांताची सांगता त्याचा अर्थ एका वाक्यात सांगून करतात. तरीही, यीशू म्हणतात, स्वर्गातील तुमच्या पित्याची इच्छा नाही की या लहानांपैकी एकाचाही नाश व्हावा. मेंढपाळ देवाच्या काळजीचे चित्र आहे, आणि मेंढी अशा कोणत्याही व्यक्तीचे प्रतीक आहे जी भटकली आहे, मग ते मूर्खपणामुळे असो, संकटामुळे, एकटेपणामुळे किंवा फक्त वाहवत जाण्यामुळे.\n\nख्रिस्ती लोकांनी या चित्रात मोठे सांत्वन पाहिले आहे, आणि लूकाचे शुभवर्तमान पापी लोक आणि त्यांच्या परत येण्यावरील देवाच्या आनंदाबद्दल जवळजवळ अशीच कथा सांगते. मत्तीच्या संदर्भात ही शिष्यांसाठी एक सूचनाही आहे. जर देव सर्वात लहान आणि सर्वात सहज हरवणार्यांनाही मूल्य देतो, तर यीशूच्या मागे चालणार्या समाजाने आपल्या स्वतःच्या सदस्यांकडे लक्ष द्यायला हवे आणि जे नजरेआड गेले आहे त्याचा शोध घ्यायला हवा. शिष्यांसाठी हा एकमेकांशी आणि त्यांच्यात येणार्या दुर्बल लोकांशी कसे वागायचे याचा धडा होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Every one counts",
+    "hi": {
+     "text": "हर एक मायने रखता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रत्येक एक मोजला जातो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The parable carries a quiet arithmetic that runs against common sense. Counted in ordinary terms, ninety-nine is nearly all of the flock and one is a very small loss. But the shepherd does not count that way. For him, each sheep is whole and irreplaceable, and he will not call the flock complete until the missing one is home.\n\nPeople of any tradition may find in this a simple moral about caring for each person. We are often tempted to treat the one who has strayed, whether a member of our family, a colleague or a neighbour, as a statistic or a lost cause. The shepherd shows another way, a patient search that does not give up and a joy that does not hold the wandering against the one who is found. Each person is more than a number, and the search for one is never wasted effort.",
+    "hi": {
+     "text": "दृष्टांत में एक शांत गणित है जो सामान्य समझ के विरुद्ध चलता है। साधारण रूप से गिना जाए तो निन्यानवे लगभग पूरा झुंड है और एक बहुत छोटा नुकसान है। पर चरवाहा ऐसे नहीं गिनता। उसके लिए हर भेड़ पूर्ण और अपूरणीय है, और जब तक खोई हुई भेड़ घर वापस नहीं आ जाती, तब तक वह झुंड को पूरा नहीं मानता।\n\nकिसी भी परंपरा के लोग इसमें हर व्यक्ति की देखभाल के बारे में एक सरल नैतिकता पा सकते हैं। हम अक्सर उस व्यक्ति को, जो भटक गया है, चाहे वह हमारे परिवार का सदस्य हो, सहकर्मी हो या पड़ोसी, केवल आँकड़ा या हारी हुई बाज़ी मानने के प्रलोभन में पड़ते हैं। चरवाहा एक दूसरा मार्ग दिखाता है, धैर्यवान खोज जो हार नहीं मानती और ऐसा आनंद जो भटकने को उसके विरुद्ध नहीं रखता जो मिल गया है। हर व्यक्ति संख्या से अधिक है, और एक की खोज कभी व्यर्थ प्रयास नहीं होती।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दृष्टांतात एक शांत गणित आहे, जे सामान्य समजुतीच्या विरुद्ध चालते. सामान्य पद्धतीने मोजले तर निन्याण्णव जवळजवळ संपूर्ण कळप आहे, आणि एक फार लहान नुकसान आहे. पण मेंढपाळ अशा प्रकारे मोजत नाही. त्याच्यासाठी प्रत्येक मेंढी पूर्ण आणि अमूल्य आहे, आणि हरवलेली मेंढी घरी येईपर्यंत तो कळप पूर्ण झाला असे म्हणणार नाही.\n\nकोणत्याही परंपरेतील लोक यात प्रत्येक व्यक्तीच्या काळजीबद्दलची एक साधी नैतिकता शोधू शकतात. आपण अनेकदा भटकलेल्या व्यक्तीला, मग ती आपल्या कुटुंबातील सदस्य असो, सहकारी असो किंवा शेजारी असो, केवळ आकडा किंवा हरलेली केस मानण्याच्या मोहात पडतो. मेंढपाळ दुसरा मार्ग दाखवतो, संयमी शोध जो हार मानत नाही, आणि असा आनंद जो भटकण्याला सापडलेल्या व्यक्तीविरुद्ध धरत नाही. प्रत्येक व्यक्ती संख्येपेक्षा अधिक असते, आणि एकाचा शोध कधीही व्यर्थ प्रयत्न नसतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Even so it is not the will of your Father who is in heaven that one of these little ones should perish.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 18:14 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 18:14 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 18:14 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "God cares for each individual person, and no one is considered too small to be sought and saved.",
+   "hi": {
+    "text": "परमेश्वर हर एक व्यक्ति की देखभाल करता है, और कोई भी इतना छोटा नहीं माना जाता कि उसे ढूँढा और बचाया न जाए।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "देव प्रत्येक वैयक्तिक व्यक्तीची काळजी घेतो, आणि शोधून वाचवण्यासाठी कोणीही इतका लहान मानला जात नाही.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who in your life has drifted away or dropped out of sight? What would it look like to go and look for them, gently and without blame?",
+  "hi": {
+   "text": "तुम्हारे जीवन में कौन दूर चला गया है या नज़रों से ओझल हो गया है? उसे कोमलता से और बिना दोष दिए ढूँढने जाना कैसा दिखेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या आयुष्यात कोण दूर गेले आहे किंवा नजरेआड झाले आहे? त्यांना हळुवारपणे आणि दोष न देता शोधायला जाणे कसे दिसेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Every single person matters, and the one who has wandered is sought with patience and welcomed with joy.",
+  "hi": {
+   "text": "हर एक व्यक्ति मायने रखता है, और जो भटक गया है उसे धैर्य से ढूँढा जाता है और आनंद से स्वीकार किया जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रत्येक एक व्यक्ती महत्त्वाची आहे, आणि जो भटकला आहे त्याचा धीराने शोध घेतला जातो आणि आनंदाने स्वागत केले जाते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 18:10-14; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 18:10-14 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 18:10-14 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

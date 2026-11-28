@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-two-sons",
+ "order": 12,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Two Sons",
+  "hi": {
+   "text": "दो बेटे",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन मुलगे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "One son says no and then goes to work. The other says yes and never goes.",
+  "hi": {
+   "text": "एक बेटा मना करता है और फिर काम पर चला जाता है। दूसरा हाँ कहता है और कभी नहीं जाता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक मुलगा नाही म्हणतो आणि मग कामाला जातो. दुसरा हो म्हणतो आणि कधीच जात नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-sons-russian.webp",
+   "w": 1200,
+   "h": 840,
+   "caption": {
+    "en": "The parable of the two sons, painting by Andrei Mironov",
+    "hi": {
+     "text": "दो बेटों का दृष्टांत, आंद्रेई मिरोनोव का चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन मुलग्यांचा दृष्टांत, आंद्रेई मिरोनोव्ह यांचे चित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Andrei Mironov, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%22%D0%9F%D1%80%D0%B8%D1%82%D1%87%D0%B0_%D0%BE_%D0%B4%D0%B2%D1%83%D1%85_%D1%81%D1%8B%D0%BD%D0%BE%D0%B2%D1%8C%D1%8F%D1%85%22.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A challenge in the Temple",
+    "hi": {
+     "text": "मंदिर में एक चुनौती",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मंदिरातील आव्हान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "This parable is told in Jerusalem, in the final days before the arrest of Jesus. He has entered the Temple and is teaching there when the chief priests and the elders of the people come to him and ask by what authority he does these things. It is a direct challenge, from leaders of his own community, to a teacher they did not appoint.\n\nJesus does not answer them at once. He asks a question of his own about John the Baptist, whether John's baptism was from heaven or from men. They talk it over among themselves, and they cannot answer without trouble to themselves, so they say, We don't know. Jesus declines to answer their question in turn, and then, instead, he asks them for their opinion on a story about a father and his two sons.",
+    "hi": {
+     "text": "यह दृष्टांत यरूशलेम में, गिरफ़्तारी से पहले के अंतिम दिनों में सुनाया गया है। यीशु मंदिर में प्रवेश करके वहाँ शिक्षा दे रहे थे, जब प्रधान याजक और लोगों के प्राचीन उनके पास आए और पूछने लगे कि वे ये काम किस अधिकार से करते हैं। यह उनके अपने समुदाय के अगुवों की ओर से, एक ऐसे शिक्षक के प्रति सीधी चुनौती थी जिसे उन्होंने नियुक्त नहीं किया था।\n\nयीशु तुरंत उत्तर नहीं देते। वे यूहन्ना बपतिस्मा देने वाले के विषय में अपना प्रश्न पूछते हैं, कि यूहन्ना का बपतिस्मा स्वर्ग की ओर से था या मनुष्यों की ओर से। वे आपस में विचार करते हैं, और वे बिना अपने ही नुकसान के उत्तर नहीं दे सकते, इसलिए कहते हैं, हम नहीं जानते। यीशु अपने प्रश्न का उत्तर देने से इनकार करते हैं, और फिर उसकी जगह वे उनसे एक पिता और उसके दो बेटों की कहानी पर उनकी राय पूछते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ही दृष्टांत-कथा यरूशलेममध्ये, अटक होण्यापूर्वीच्या शेवटच्या दिवसांत सांगितली गेली. यीशू मंदिरात येऊन तिथे शिकवत होते, तेव्हा मुख्य याजक आणि लोकांचे वडीलजन त्यांच्याकडे येऊन विचारू लागले की ते हे सर्व कोणत्या अधिकाराने करतात. हे त्यांच्याच समाजाच्या पुढार्यांनी, ज्या शिक्षकाची नेमणूक त्यांनी केली नव्हती त्याला दिलेले थेट आव्हान होते.\n\nयीशू लगेच उत्तर देत नाहीत. ते योहान बाप्तिस्मा करणार्याविषयी स्वतःचा प्रश्न विचारतात, की योहानाचा बाप्तिस्मा स्वर्गातून होता की मनुष्यांकडून. ते आपसात विचार करतात, आणि स्वतःला हानी न होता उत्तर देऊ शकत नाहीत, म्हणून म्हणतात, आम्हांला माहीत नाही. यीशू त्यांच्या प्रश्नाचे उत्तर द्यायला नकार देतात, आणि त्याऐवजी एका पित्याच्या आणि त्याच्या दोन मुलांच्या गोष्टीवर त्यांचे मत विचारतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two answers",
+    "hi": {
+     "text": "दो उत्तर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन उत्तरे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A man has two sons. He goes to the first and says, Son, go and work today in my vineyard. It is an ordinary request in a family that farms, since a vineyard was always full of work to do, and a father could expect his children to help. The first son answers bluntly, I will not.\n\nThe father goes to the second son and says the same thing. This one replies politely and promptly, I'm going, sir. He addresses his father with respect and sounds entirely willing. If we were watching the scene from outside, we would have good reason to think that the father would be pleased by the second son and disappointed by the first, and that the vineyard would soon have a worker in it. The story sets out the contrast in a few plain strokes, which is how the best of Jesus's parables work.",
+    "hi": {
+     "text": "एक मनुष्य के दो बेटे हैं। वह पहले के पास जाकर कहता है, बेटा, आज जा और मेरी दाख की बारी में काम कर। खेती वाले परिवार में यह एक सामान्य अनुरोध है, क्योंकि दाख की बारी में हमेशा काम रहता था, और पिता अपने बच्चों से मदद की अपेक्षा रखता था। पहला बेटा सीधे उत्तर देता है, मैं नहीं जाऊँगा।\n\nपिता दूसरे बेटे के पास जाकर वही बात कहता है। यह शिष्टता और तत्परता से उत्तर देता है, जी हाँ, पिताजी, मैं जाता हूँ। वह पिता से आदर के साथ बात करता है और पूरी तरह तैयार लगता है। यदि हम यह दृश्य बाहर से देख रहे होते, तो हमारे पास यह सोचने का अच्छा कारण होता कि पिता दूसरे बेटे से प्रसन्न होगा और पहले से निराश, और जल्द ही दाख की बारी में एक मज़दूर होगा। कहानी कुछ सरल रेखाओं में अंतर खींचती है, जैसे यीशु के सर्वोत्तम दृष्टांत काम करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका माणसाला दोन मुलगे होते. तो पहिल्याकडे जाऊन म्हणतो, बाळा, आज जा आणि माझ्या द्राक्षमळ्यात काम कर. शेती करणार्या कुटुंबात ही एक सामान्य विनंती होती, कारण द्राक्षमळा नेहमीच कामांनी भरलेला असे, आणि पिता मुलांकडून मदतीची अपेक्षा करत असे. पहिला मुलगा स्पष्टपणे उत्तर देतो, मी जाणार नाही.\n\nपिता दुसर्या मुलाकडे जाऊन तीच गोष्ट सांगतो. हा नम्रपणे आणि लगेच उत्तर देतो, हो बाबा, मी जातो. तो वडिलांशी आदराने बोलतो आणि पूर्ण तयार वाटतो. जर आपण हे दृश्य बाहेरून पाहत असतो, तर वडील दुसर्या मुलावर खूश आणि पहिल्यावर नाराज होतील, आणि लवकरच द्राक्षमळ्यात एक मजूर असेल, असे वाटण्याचे आपल्याकडे चांगले कारण होते. कथा काही साध्या रेषांत फरक दाखवते, जसे यीशूचे सर्वोत्तम दृष्टांत चालतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What happened next",
+    "hi": {
+     "text": "आगे क्या हुआ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुढे काय झाले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "But the story turns on what follows the words. The first son, who said no, changed his mind afterwards and went to the vineyard. The Gospel does not tell us why. Perhaps he felt ashamed, or reconsidered what his father meant to him, or simply saw the work that needed to be done. Whatever the reason, he turned around and did what he had been asked.\n\nThe second son, who had said such a pleasant yes, did not go. His courtesy turned out to be only words. The vineyard stood unworked by him. In a few short lines, Jesus has overturned the usual way of judging people by what they say, and has set beside it the plainer measure of what they actually do when the moment of work arrives. What looked like a rebellion turns out to be a beginning, and what sounded like obedience turns out to be an empty promise.",
+    "hi": {
+     "text": "पर कहानी शब्दों के बाद जो होता है उस पर मुड़ती है। पहला बेटा, जिसने मना किया था, बाद में अपना विचार बदलता है और दाख की बारी में चला जाता है। शुभवर्तमान नहीं बताता कि उसने ऐसा क्यों किया। शायद उसे लज्जा आई, या उसने सोचा कि उसके पिता के लिए वह क्या है, या बस उसने वह काम देखा जो करना था। कारण जो भी हो, वह मुड़ा और उसने वही किया जो उससे माँगा गया था।\n\nदूसरा बेटा, जिसने इतनी सुखद हाँ कही थी, नहीं गया। उसकी शिष्टता केवल शब्दों तक सीमित निकली। दाख की बारी उसके द्वारा बिना काम के रह गई। कुछ ही पंक्तियों में यीशु ने लोगों को उनके शब्दों से आँकने की आम रीति को उलट दिया है, और उसके पास वह सीधा माप रख दिया है कि जब काम का क्षण आता है तो लोग वास्तव में क्या करते हैं। जो विद्रोह जैसा लगा वह आरंभ निकलता है, और जो आज्ञाकारिता जैसा सुनाई दिया वह खोखला वादा निकलता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पण कथा शब्दांनंतर जे घडते त्यावर वळते. पहिला मुलगा, ज्याने नकार दिला होता, नंतर आपले मन बदलतो आणि द्राक्षमळ्यात जातो. शुभवर्तमान सांगत नाही की त्याने असे का केले. कदाचित त्याला लाज वाटली, किंवा त्याने वडिलांचा त्याच्यासाठी काय अर्थ आहे याचा पुनर्विचार केला, किंवा फक्त करायचे काम त्याला दिसले. कारण काहीही असो, तो वळला आणि जे त्याला सांगितले होते तेच त्याने केले.\n\nदुसरा मुलगा, ज्याने इतके सुखद हो म्हटले होते, तो गेलाच नाही. त्याची नम्रता केवळ शब्दांतच होती. द्राक्षमळा त्याच्यामुळे न खुडलेला राहिला. काही लहान ओळींत यीशूने लोकांना त्यांच्या बोलण्यावरून मोजण्याच्या नेहमीच्या पद्धतीला उलटे केले आहे, आणि त्याजवळ तो साधा मापदंड ठेवला आहे की काम येते तेव्हा लोक प्रत्यक्षात काय करतात. जे बंड वाटले ते सुरुवात ठरते, आणि जे आज्ञापालनासारखे ऐकू आले ते रिकामे वचन ठरते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Which did his father's will?",
+    "hi": {
+     "text": "किसने पिता की इच्छा पूरी की?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पित्याची इच्छा कोणी पाळली?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus then asks the priests and elders, Which of the two did the will of his father? They give the obvious answer, the first. He then applies the story directly to them. Tax collectors and prostitutes, people whom respectable society regarded as having refused God, were entering the Kingdom of God ahead of them.\n\nThe reason he gives is that John came in the way of righteousness, and the leaders did not believe him, while those who were regarded as sinners did. When they saw the change in those people, they did not even repent afterwards. It is a sharp rebuke, but it is addressed within a family, as one Jewish teacher speaking to the leaders of his own community, about the common human distance between promise and deed. The point is not a rejection of anyone's community but a challenge to those with the most responsibility.",
+    "hi": {
+     "text": "फिर यीशु प्रधान याजकों और प्राचीनों से पूछते हैं, दोनों में से किसने अपने पिता की इच्छा पूरी की? वे स्पष्ट उत्तर देते हैं, पहले ने। फिर वे कहानी को सीधे उन्हीं पर लागू करते हैं। चुंगी लेने वाले और वेश्याएँ, जिन्हें सम्मानित समाज परमेश्वर को अस्वीकार करने वाले मानता था, उनसे पहले परमेश्वर के राज्य में प्रवेश कर रहे थे।\n\nवे कारण बताते हैं कि यूहन्ना धार्मिकता के मार्ग से आया, और अगुवों ने उस पर विश्वास नहीं किया, जबकि जिन्हें पापी माना जाता था उन्होंने किया। जब उन्होंने उन लोगों में बदलाव देखा, तब भी वे बाद में पश्चाताप नहीं करते। यह कठोर फटकार है, पर यह एक परिवार के भीतर कही गई है, जैसे एक यहूदी शिक्षक अपने समुदाय के अगुवों से बोल रहा हो, वादे और कर्म के बीच की सामान्य मानवीय दूरी के बारे में। मुद्दा किसी के समुदाय को अस्वीकार करना नहीं, बल्कि सबसे अधिक ज़िम्मेदारी वालों को चुनौती देना है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग यीशू प्रधान याजकांना आणि वडीलजनांना विचारतात, दोघांपैकी कोणी आपल्या पित्याची इच्छा पूर्ण केली? ते स्पष्ट उत्तर देतात, पहिल्याने. मग ते कथा थेट त्यांच्यावरच लागू करतात. जकातदार आणि वेश्या, ज्यांना आदरणीय समाज देवाला नाकारणारे मानत होता, ते त्यांच्या आधी परमेश्वराच्या राज्यात प्रवेश करत होते.\n\nते कारण सांगतात की योहान नीतिमत्तेच्या मार्गाने आला, आणि पुढार्यांनी त्याच्यावर विश्वास ठेवला नाही, तर ज्यांना पापी मानले गेले त्यांनी विश्वास ठेवला. जेव्हा त्यांनी त्या लोकांमध्ये बदल पाहिला, तेव्हाही ते नंतर पश्चात्ताप करत नव्हते. ही तीक्ष्ण फटकार आहे, पण ती एका कुटुंबाच्या चौकटीत केली आहे, जसे एक यहूदी शिक्षक आपल्या समाजाच्या पुढार्यांशी बोलत असतो, वचन आणि कृती यांतील सामान्य मानवी अंतराबद्दल. मुद्दा कोणाच्या समाजाला नाकारण्याचा नाही, तर सर्वाधिक जबाबदारी असलेल्यांना आव्हान देण्याचा आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Doing, not only saying",
+    "hi": {
+     "text": "केवल कहना नहीं, करना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "केवळ बोलणे नव्हे, करणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "This is a story that anyone can recognise in themselves. Most of us have been both sons. We have said yes too quickly, wanting to please, and then failed to follow through. And we have said no out of pride or fear, and later quietly gone and done what was needed. The parable is kinder to the first son than to the second, but it condemns neither as a person.\n\nIt offers a reassuring thought, that a first refusal is not a final answer. There is always room to change one's mind and go to the vineyard, and the change counts. At the same time it asks for honesty. Fine words and pious language have no value in themselves, and the work that was asked of us still waits to be done. It encourages those who have fallen short, and it warns those who are comfortable with their own good words.",
+    "hi": {
+     "text": "यह ऐसी कहानी है जिसे हर कोई अपने भीतर पहचान सकता है। हम में से अधिकांश दोनों बेटे रहे हैं। हमने प्रसन्न करने की इच्छा से बहुत जल्दी हाँ कह दी है, और फिर उसे पूरा करने में असफल रहे हैं। और हमने अभिमान या भय से नहीं कहा है, और बाद में चुपचाप जाकर वह कर लिया है जो ज़रूरी था। दृष्टांत पहले बेटे के प्रति दूसरे से अधिक दयालु है, पर वह दोनों को व्यक्ति के रूप में दोषी नहीं ठहराता।\n\nयह एक आश्वस्त करने वाला विचार देता है, कि पहला इनकार अंतिम उत्तर नहीं है। अपना विचार बदलकर दाख की बारी में जाने का अवसर सदा है, और वह बदलाव मायने रखता है। साथ ही वह ईमानदारी माँगता है। सुंदर शब्द और धार्मिक भाषा अपने आप में कोई मूल्य नहीं रखते, और जो काम हमसे माँगा गया था वह अब भी करने को बाकी है। यह उन लोगों को प्रोत्साहित करता है जो चूक गए हैं, और उन लोगों को चेतावनी देता है जो अपने अच्छे शब्दों से संतुष्ट हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ही अशी कथा आहे जी प्रत्येकजण स्वतःमध्ये ओळखू शकतो. आपल्यापैकी बहुतेक जण दोन्ही मुलगे राहिले आहेत. प्रसन्न करण्याच्या इच्छेने आपण खूप पटकन हो म्हटले आहे, आणि मग ते पूर्ण करण्यात अपयशी ठरलो आहोत. आणि अभिमान किंवा भीतीपोटी आपण नाही म्हटले आहे, आणि नंतर शांतपणे जाऊन जे आवश्यक होते ते केले आहे. दृष्टांत पहिल्या मुलाबद्दल दुसर्यापेक्षा अधिक दयाळू आहे, पण तो दोघांनाही व्यक्ती म्हणून दोषी ठरवत नाही.\n\nते एक आश्वस्त करणारा विचार देते, की पहिला नकार अंतिम उत्तर नाही. आपले मन बदलून द्राक्षमळ्यात जाण्याची संधी नेहमी असते, आणि तो बदल महत्त्वाचा असतो. त्याच वेळी ते प्रामाणिकपणा मागते. सुंदर शब्द आणि धार्मिक भाषेला स्वतःत काही मूल्य नाही, आणि जे काम आपल्याकडून मागितले होते ते अजून करायचे बाकी आहे. जे कमी पडले आहेत त्यांना ते प्रोत्साहन देते, आणि आपल्या चांगल्या शब्दांवर समाधानी असलेल्यांना इशारा देते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "He answered, ‘I will not,’ but afterward he changed his mind, and went.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 21:29 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 21:29 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 21:29 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "What counts is whether a person finally does what was asked, even if they first said no.",
+   "hi": {
+    "text": "मायने यह रखता है कि व्यक्ति अंततः वही करे जो उससे माँगा गया, भले ही उसने पहले मना किया हो।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "महत्त्वाचे हे आहे की शेवटी माणूस जे मागितले होते ते करतो का, जरी त्याने आधी नकार दिला असला तरी.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Is there something you have said yes to but not done, or something you refused that you now see you should do? What would it take to go to the vineyard today?",
+  "hi": {
+   "text": "क्या कुछ ऐसा है जिसके लिए तुमने हाँ कहा पर किया नहीं, या कुछ ऐसा जिसे तुमने मना किया और अब समझते हो कि तुम्हें करना चाहिए था? आज दाख की बारी में जाने के लिए क्या करना होगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "असे काही आहे का ज्याला तुम्ही हो म्हटले पण केले नाही, किंवा काही नाकारले जे आता तुम्हाला करायला हवे असे दिसते? आज द्राक्षमळ्यात जाण्यासाठी काय लागेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A change of mind followed by action means more than a polite promise left unkept.",
+  "hi": {
+   "text": "विचार बदलने के बाद किया गया कर्म एक विनम्र वादे से अधिक मायने रखता है जो निभाया न गया हो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मन बदलल्यानंतर केलेली कृती ही एका नम्र वचनापेक्षा अधिक मोलाची असते, जे कधी पाळले जात नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 21:28-32; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 21:28-32 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 21:28-32 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

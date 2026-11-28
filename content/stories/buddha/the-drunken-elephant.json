@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-drunken-elephant",
+ "order": 21,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Drunken Elephant",
+  "hi": {
+   "text": "मदमस्त हाथी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मदोन्मत्त हत्ती",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "After years of walking from town to town, the Buddha faces the jealousy of Devadatta, who sends a maddened elephant down the king's highway.",
+  "hi": {
+   "text": "वर्षों तक नगर-नगर घूमने के बाद बुद्ध देवदत्त की ईर्ष्या का सामना करते हैं, जो राजमार्ग पर एक उन्मत्त हाथी छोड़ देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वर्षानुवर्षे गावोगाव फिरल्यानंतर बुद्धांना देवदत्ताच्या मत्सराचा सामना करावा लागतो, जो राजमार्गावर एक उन्मत्त हत्ती सोडतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-elephant-1.webp",
+   "w": 813,
+   "h": 900,
+   "caption": {
+    "en": "The Buddha calms the elephant Nalagiri, painted scroll",
+    "hi": {
+     "text": "बुद्ध हाथी नालागिरि को शांत करते हैं, चित्रित पट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्ध नालागिरी हत्तीला शांत करतात, रंगवलेला पट",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, CC BY 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nalagiri,_a_ferocious_elephant,_sits_listening_to_Buddha_Wellcome_L0027851_(cropped).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Years of walking",
+    "hi": {
+     "text": "वर्षों की यात्राएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वर्षांचे प्रवास",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The canto begins with the Buddha, who has taught his mother in the heaven of the gods and returned to the world, going about to convert all who could be reached. Beal's version lists a long run of names and places that Ashvaghosha strings together like a roll of honour. There are noble sons and a king of Gandhara who left his country to become a recluse. There are demons on mountains, a head of the Brahmans who had been sacrificing countless victims, and a spirit called the musician Panchashikha.\n\nHe is said to have gone to Alavi, to Vaishali, to Mathura, to Kaushambi, to Ayodhya and many other towns, and everywhere he met someone who needed a different kind of teaching. The poet's picture for all of this is plain. As the sun shines into a dark and sombre cave, so the Buddha went among the beings of air and water and earth, and in due order he converted and saved them. The roll is too long to follow here, but its point is steady, that no creature was too fierce or too humble to be taught.",
+    "hi": {
+     "text": "सर्ग का आरंभ इस तरह होता है कि बुद्ध, जिन्होंने स्वर्ग में अपनी माता को उपदेश दिया था और फिर संसार में लौट आए थे, हर उस व्यक्ति तक पहुँचने के लिए घूमते हैं जिसे पहुँचा जा सके। बील के पाठ में स्थानों और नामों की एक लंबी सूची है, जिसे अश्वघोष एक गौरव-सूची की तरह पिरोते हैं। वहाँ उत्तम पुत्र हैं, गांधार का एक राजा जिसने संन्यास के लिए अपना देश त्याग दिया, पर्वतों पर रहने वाले दानव हैं, और पंचशिख नामक एक गंधर्व-संगीतज्ञ है।\n\nकहा गया है कि वे आलवी गए, वैशाली गए, मथुरा, कौशांबी, अयोध्या और अनेक अन्य नगरों में गए, और हर जगह उन्हें ऐसा व्यक्ति मिला जिसे एक भिन्न प्रकार के उपदेश की आवश्यकता थी। कवि का चित्र यहाँ सरल है। जैसे सूर्य किसी अंधेरी और उदास गुफा में प्रकाश भर देता है, वैसे ही बुद्ध वायु, जल और पृथ्वी के प्राणियों के बीच गए और क्रम से उन्हें परिवर्तित करके बचाया। सूची इतनी लंबी है कि यहाँ पूरी नहीं दी जा सकती, पर उसका तात्पर्य स्थिर है कि कोई प्राणी न इतना क्रूर था न इतना तुच्छ कि उसे शिक्षा न दी जा सके।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्गाची सुरुवात अशी आहे की बुद्ध, ज्यांनी स्वर्गात आपल्या मातेला उपदेश केला होता आणि मग जगात परत आले होते, ज्यांच्यापर्यंत पोहोचता येईल त्या सर्वांपर्यंत फिरत आहेत. बीलच्या पाठात ठिकाणांची आणि नावांची एक लांबलचक यादी आहे, जी अश्वघोष गौरवसूचीप्रमाणे गुंफतात. तिथे उत्तम पुत्र आहेत, गांधारचा एक राजा आहे ज्याने संन्यासासाठी आपला देश सोडला, पर्वतांवर राहणारे दानव आहेत, आणि पंचशिख नावाचा एक गंधर्व-संगीतज्ञ आहे.\n\nसांगितले आहे की ते आलवीला गेले, वैशालीला गेले, मथुरा, कौशांबी, अयोध्या आणि अनेक इतर नगरांत गेले, आणि प्रत्येक ठिकाणी त्यांना अशी व्यक्ती भेटली जिला वेगळ्या प्रकारच्या उपदेशाची गरज होती. कवीचे चित्र येथे साधे आहे. जसा सूर्य एखाद्या अंधाऱ्या आणि उदास गुहेत प्रकाश भरतो, तसे बुद्ध वायू, जल आणि पृथ्वीवरील प्राण्यांत गेले आणि क्रमाने त्यांना परिवर्तित करून वाचवले. यादी इतकी लांब आहे की येथे पूर्ण देता येत नाही, पण तिचा मुद्दा स्थिर आहे की कोणताही प्राणी इतका क्रूर किंवा इतका क्षुल्लक नव्हता की त्याला शिकवता येऊ नये.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The jealous cousin",
+    "hi": {
+     "text": "ईर्ष्यालु चचेरा भाई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ईर्ष्यालू चुलत भाऊ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Devadatta watched all this and saw the remarkable excellences of the Buddha. In his heart grew a jealous hatred, and he lost the power of calm thought. He was a man with real gifts, since the poem says he could at first fly by supernatural power, but envy ate at him. He made wicked plans to stop the spread of the true law. He climbed the mountain called Vulture Peak and rolled down a stone to strike the Buddha.\n\nThe stone split in two, and each half passed on either side of him. The attempt failed, and Devadatta did not give up. In the tradition he is the Buddha's cousin and a former member of the order, and his rivalry is the best known in Buddhist stories. Ashvaghosha does not dwell on his motives. He shows a man who had seen what the Buddha was and could not bear it, and who grew more desperate with each failure. The next plan was a larger one, and it would fall on the whole city.",
+    "hi": {
+     "text": "देवदत्त ने यह सब देखा और बुद्ध की उत्कृष्ट श्रेष्ठताएँ पहचानीं। उसके हृदय में ईर्ष्या भरी घृणा उठी, और वह शांत विचार की शक्ति खो बैठा। वह वास्तविक प्रतिभा वाला व्यक्ति था, क्योंकि कवि कहते हैं कि वह पहले अलौकिक शक्ति से उड़ भी सकता था, पर ईर्ष्या उसे खाने लगी। उसने सद्धर्म का प्रसार रोकने के लिए दुष्ट योजनाएँ बनाईं। वह गृध्रकूट पर्वत पर चढ़ा और बुद्ध को मारने के लिए एक पत्थर लुढ़काया।\n\nपत्थर दो टुकड़ों में फट गया, और दोनों टुकड़े उनके दोनों ओर से निकल गए। प्रयास विफल रहा, पर देवदत्त ने हार नहीं मानी। परंपरा में वह बुद्ध का चचेरा भाई और संघ का पूर्व सदस्य है, और उसकी प्रतिद्वंद्विता बौद्ध कथाओं में सबसे प्रसिद्ध है। अश्वघोष उसके उद्देश्यों पर अधिक नहीं रुकते। वे एक ऐसे व्यक्ति को दिखाते हैं जिसने देखा कि बुद्ध कैसे हैं और यह सहन न कर सका, और हर विफलता के साथ और निराश होता गया। अगली योजना एक बड़ी थी, और वह पूरे नगर पर पड़ने वाली थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवदत्ताने हे सर्व पाहिले आणि बुद्धांचे उत्कृष्ट गुण ओळखले. त्याच्या मनात मत्सराने भरलेला द्वेष उसळला, आणि शांत विचार करण्याची शक्ती तो गमावून बसला. तो खरोखर प्रतिभावान माणूस होता, कारण कवी सांगतात की तो आधी अलौकिक शक्तीने उडूही शकत होता, पण ईर्ष्या त्याला खाऊ लागली. सद्धर्माचा प्रसार थांबवण्यासाठी त्याने दुष्ट योजना आखल्या. तो गृध्रकूट पर्वतावर चढला आणि बुद्धांना मारण्यासाठी एक दगड लोटला.\n\nदगड दोन तुकड्यांत फुटला आणि दोन्ही तुकडे त्यांच्या दोन्ही बाजूंनी निघून गेले. प्रयत्न फसला, पण देवदत्ताने हार मानली नाही. परंपरेत तो बुद्धांचा चुलत भाऊ आणि संघाचा पूर्वीचा सदस्य आहे, आणि त्याची स्पर्धा बौद्ध कथांमधील सर्वात प्रसिद्ध आहे. अश्वघोष त्याच्या हेतूंवर फार रेंगाळत नाहीत. ते एका अशा माणसाला दाखवतात ज्याने बुद्ध कसे आहेत हे पाहिले आणि ते सहन झाले नाही, आणि प्रत्येक अपयशाने तो अधिक हताश होत गेला. पुढची योजना मोठी होती, आणि ती संपूर्ण नगरावर पडणार होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The road in Rajagriha",
+    "hi": {
+     "text": "राजगृह का मार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजगृहाचा मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the royal highway he let loose a drunken, vicious elephant. With its trunk raised and trumpeting like thunder, its maddened breath raising a cloud around it, it ran faster than the wind. To touch its trunk, tusks, tail or feet was instant death. It ran through the streets of Rajagriha, wounding and killing men. Bodies lay across the road, and their blood and brains were scattered far. The men and women stayed shut indoors, and the whole city was in terror. Outside the walls people ran for holes and dens in the ground.\n\nAt this moment the Tathagata, with five hundred followers, was coming toward the city. From the tops of the gates and from every window, people who were afraid for him begged him not to come further. He did not stop. His heart was composed and quiet, and he was thinking of the sorrow that hatred causes, and wishing to appease it with a loving heart. Guardian serpent-kings followed him, according to the poem, as he slowly approached the maddened beast.",
+    "hi": {
+     "text": "राजमार्ग पर उसने एक मदमस्त, क्रूर हाथी को छोड़ दिया। सूँड़ ऊपर उठाए, गर्जना करता हुआ, उसकी उन्मत्त साँसें उसके चारों ओर धूल का बादल बना रही थीं, वह हवा से भी तेज दौड़ रहा था। उसकी सूँड़, दाँत, पूँछ या पैरों को छूना तत्काल मृत्यु थी। वह राजगृह की गलियों में दौड़ा, मनुष्यों को घायल करता और मारता। शवों से सड़क पटी थी, और उनका रक्त और मस्तिष्क दूर तक बिखरा था। स्त्री-पुरुष घरों में बंद हो गए, और पूरा नगर आतंक में डूब गया। नगर की दीवारों के बाहर लोग गड्ढों और गुफाओं की ओर भागे।\n\nउसी क्षण तथागत, पाँच सौ अनुयायियों के साथ, नगर की ओर आ रहे थे। दरवाज़ों की ऊपरी मंजिलों से और हर खिड़की से, उनके लिए डरे हुए लोग उनसे आगे न जाने की विनती कर रहे थे। वे नहीं रुके। उनका हृदय शांत और स्थिर था, और वे उस दुःख के बारे में सोच रहे थे जो घृणा उत्पन्न करती है, और चाहते थे कि प्रेमपूर्ण हृदय से उसे शांत करें। काव्य के अनुसार नागराज रक्षक के रूप में उनके पीछे चले, जब वे उस उन्मत्त पशु की ओर धीरे-धीरे बढ़े।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजमार्गावर त्याने एक मदोन्मत्त, क्रूर हत्ती सोडला. सोंड वर उचलून, गर्जना करत, त्याच्या उन्मत्त श्वासांनी आपल्याभोवती धुरळा उडवत, तो वाऱ्यापेक्षाही वेगाने धावत होता. त्याची सोंड, सुळे, शेपूट किंवा पाय स्पर्श करणे म्हणजे तत्काळ मृत्यू होता. तो राजगृहाच्या गल्ल्यांतून धावला, माणसांना जखमी करत आणि मारत. रस्त्यावर प्रेतांचा ढीग पडला होता, आणि त्यांचे रक्त व मेंदू दूरवर विखुरलेले होते. स्त्री-पुरुष घरांत बंद झाले, आणि सारे नगर भयात बुडाले. नगराच्या भिंतींबाहेर लोक खड्डे आणि गुहांकडे पळाले.\n\nत्याचवेळी तथागत, पाचशे अनुयायांसह, नगराकडे येत होते. दरवाज्यांच्या वरच्या मजल्यांवरून आणि प्रत्येक खिडकीतून, त्यांच्यासाठी घाबरलेले लोक त्यांना पुढे न जाण्याची विनंती करत होते. ते थांबले नाहीत. त्यांचे हृदय शांत आणि स्थिर होते, आणि ते द्वेषामुळे निर्माण होणाऱ्या दुःखाचा विचार करत होते, आणि प्रेमळ हृदयाने ते शांत करू इच्छित होते. काव्यानुसार नागराज रक्षक म्हणून त्यांच्या मागे चालले, जेव्हा ते त्या उन्मत्त पशूकडे हळूहळू पुढे जात होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The hand on the head",
+    "hi": {
+     "text": "सिर पर हाथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "डोक्यावर हात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The monks all left him. Ananda alone stayed at his side, bound by every tie of duty, and the poet says his steadfast nature did not shake or quail. The drunken elephant, savage and spiteful, saw the Buddha and came to himself at once. He bent down and worshipped at his feet, as a great mountain falls to the earth. With a hand like a lotus the master stroked his head, as the moon lights up a flying cloud. The beast lay crouched before him.\n\nThen the Buddha spoke some sacred words for his sake. An elephant cannot harm the mighty dragon, he said, and it is hard to fight such a one. You who are deceived by lust, anger and delusion, which Buddha has conquered, will never reach a happy birth by this. Give them up this very day, you who are swallowed in the mud of sorrow, for if you do not they will only grow. The elephant, hearing, escaped from drunkenness and rejoiced, and his mind and body found rest, like a thirsty creature drinking.",
+    "hi": {
+     "text": "सारे भिक्षु उन्हें छोड़ गए। केवल आनंद उनके पास रहा, कर्तव्य के हर बंधन से बँधा हुआ, और कवि कहते हैं कि उसकी दृढ़ प्रकृति न काँपी, न डगमगाई। मदमस्त हाथी ने, क्रूर और द्वेषी, बुद्ध को देखा और तुरंत होश में आ गया। वह झुका और उनके चरणों में नमन किया, जैसे विशाल पर्वत पृथ्वी पर गिरता है। कमल जैसे हाथ से गुरु ने उसके सिर को सहलाया, जैसे चंद्रमा उड़ते बादल को प्रकाशित करता है। पशु उनके सामने सिमटकर बैठ गया।\n\nतब बुद्ध ने उसके लिए कुछ पवित्र वचन कहे। हाथी महान नाग को हानि नहीं पहुँचा सकता, उन्होंने कहा, और ऐसे को परास्त करना कठिन है। तुम जो वासना, क्रोध और मोह से भ्रमित हो, जिन्हें बुद्ध ने जीत लिया है, इस तरह कभी सुखद जन्म नहीं पाओगे। इन्हें आज ही छोड़ दो, तुम जो शोक की कीचड़ में डूबे हो, क्योंकि यदि नहीं छोड़ोगे तो ये बढ़ते ही जाएँगे। हाथी ने सुना, मदमस्ती से मुक्त हुआ, और प्रसन्न हुआ, और उसका मन और शरीर वैसे ही विश्राम पाए जैसे प्यासा प्राणी पानी पीकर पाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सारे भिक्षू त्यांना सोडून गेले. फक्त आनंद त्यांच्याजवळ राहिला, कर्तव्याच्या प्रत्येक बंधनात बांधलेला, आणि कवी म्हणतात की त्याची दृढ प्रकृती कापली नाही आणि डगमगली नाही. मदोन्मत्त हत्ती, क्रूर आणि द्वेषी, बुद्धांना पाहून क्षणात भानावर आला. तो वाकला आणि त्यांच्या चरणी नमन केले, जसे विशाल पर्वत पृथ्वीवर कोसळतो. कमळासारख्या हाताने गुरूंनी त्याचे मस्तक कुरवाळले, जसा चंद्र उडणाऱ्या ढगाला प्रकाशित करतो. प्राणी त्यांच्यासमोर अंग चोरून बसला.\n\nमग बुद्धांनी त्याच्यासाठी काही पवित्र शब्द उच्चारले. हत्ती महान नागाला इजा करू शकत नाही, ते म्हणाले, आणि अशा व्यक्तीशी लढणे कठीण आहे. जे तुम्ही वासना, क्रोध आणि मोहाने भ्रमित झाला आहात, जे बुद्धांनी जिंकले आहेत, त्यांना हे मार्गाने तुम्हाला सुखद जन्म कधीच मिळणार नाही. हे आजच सोडून द्या, तुम्ही जे शोकाच्या चिखलात बुडाला आहात, कारण ते सोडले नाहीत तर ते वाढतच जातील. हत्तीने ऐकले, मदोन्मत्ततेतून मुक्त झाला, आणि आनंदला, आणि त्याचे मन व शरीर तहानलेला प्राणी पाणी पिऊन जसे विसावतो तसे विसावले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What the city saw",
+    "hi": {
+     "text": "नगर ने क्या देखा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नगराने काय पाहिले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The people who had been hiding came out filled with joy. They cried out at the miracle and brought offerings of every kind. In the poet's balanced phrase, the scarcely good arrived at middle virtue, the middling good passed to a higher grade, the unbelieving became believers, and those who believed were strengthened in their faith. King Ajatashatru, who was mighty, saw how the Buddha had conquered the drunken elephant. His heart was moved deeply, and filled with joy he found a twofold growth of piety.\n\nThe Buddha, by the exercise of virtue, showed all kinds of spiritual powers and brought the minds of all into harmony, and by degrees they reached religious truth. Through the kingdom, the poem says, virtuous seeds were sown, as at the beginning when men first began to live. But Devadatta was mad with rage and caught in his own wickedness. He had once been able to fly by miraculous power, and now, the poet says, he had fallen, and dwells in the lowest hell. The canto closes on his fate.",
+    "hi": {
+     "text": "जो लोग छिपे थे वे आनंदित होकर बाहर आए। उन्होंने चमत्कार पर जयघोष किया और हर प्रकार की भेंट लाए। कवि के संतुलित वाक्य में, जो कुछ लगभग भला था वह मध्यम सद्गुण तक पहुँचा, जो मध्यम भला था वह और ऊँचे स्तर तक गया, जो अविश्वासी थे वे विश्वासी बने, और जो विश्वास रखते थे उनकी श्रद्धा दृढ़ हुई। राजा अजातशत्रु, जो शक्तिशाली था, ने देखा कि बुद्ध ने मदमस्त हाथी को कैसे जीता। उसका हृदय गहराई से द्रवित हुआ, और आनंद से भरकर उसने अपनी श्रद्धा को दुगुना होते पाया।\n\nबुद्ध ने सद्गुण के अभ्यास से हर प्रकार की आध्यात्मिक शक्तियाँ दिखाईं, और सबके मन को सामंजस्य में लाए, और धीरे-धीरे वे धार्मिक सत्य तक पहुँचे। पूरे राज्य में, काव्य कहता है, सद्गुण के बीज बोए गए, जैसे आरंभ में जब मनुष्य पहली बार जीने लगे थे। पर देवदत्त क्रोध से पागल था और अपनी ही दुष्टता में फँसा था। उसने कभी अपनी अलौकिक शक्ति से उड़ना सीखा था, और अब, कवि कहते हैं, वह गिर चुका था, और सबसे निचले नरक में रहता है। सर्ग उसके भाग्य पर समाप्त होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लपलेले लोक आनंदाने बाहेर आले. त्यांनी चमत्कारावर जयघोष केला आणि प्रत्येक प्रकारच्या अर्पणांसह आले. कवीच्या समतोल वाक्यात, जे जवळजवळ चांगले होते ते मध्यम सद्गुणापर्यंत पोहोचले, जे मध्यम चांगले होते ते उच्च स्तरावर गेले, जे अविश्वासू होते ते श्रद्धावान झाले, आणि जे श्रद्धा ठेवत होते त्यांची श्रद्धा दृढ झाली. राजा अजातशत्रू, जो पराक्रमी होता, त्याने पाहिले की बुद्धांनी मदोन्मत्त हत्तीला कसे जिंकले. त्याचे हृदय खोलवर हलले, आणि आनंदाने भरून त्याला आपल्या श्रद्धेची दुप्पट वाढ जाणवली.\n\nबुद्धांनी सद्गुणांच्या अभ्यासाने सर्व प्रकारच्या आध्यात्मिक शक्ती दाखवल्या, आणि सर्वांची मने सुसंवादात आणली, आणि हळूहळू ते धार्मिक सत्यापर्यंत पोहोचले. संपूर्ण राज्यात, काव्य सांगते, सद्गुणांची बीजे पेरली गेली, जसे सुरुवातीला माणूस प्रथम जगू लागला तेव्हा. पण देवदत्त क्रोधाने वेडा झाला होता आणि स्वतःच्या दुष्टपणात अडकला होता. त्याला एकेकाळी अलौकिक शक्तीने उडता येत होते, आणि आता, कवी म्हणतात, तो पडला होता, आणि सर्वात खालच्या नरकात राहतो. सर्ग त्याच्या नशिबावर संपतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "When someone near you is out of control with anger, what would it take to walk toward them calmly?",
+  "hi": {
+   "text": "जब तुम्हारे आसपास कोई क्रोध से बेकाबू हो, तो उसकी ओर शांति से चलने के लिए क्या चाहिए होगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या जवळचा कोणी क्रोधाने बेकाबू झाला असेल, तर त्याच्याकडे शांतपणे जाण्यासाठी काय लागेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Fearless kindness can quiet what force cannot, and envy destroys the one who carries it far more than the one it targets.",
+  "hi": {
+   "text": "निडर दया वह शांत कर सकती है जो बल से नहीं होता, और ईर्ष्या उसे ढोने वाले को उसके निशाने से कहीं अधिक नष्ट करती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निडर दया ती गोष्ट शांत करू शकते जी बळाने होत नाही, आणि मत्सर बाळगणाऱ्याचा नाश त्याच्या लक्ष्यापेक्षा जास्त होतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 21; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 21; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 21; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

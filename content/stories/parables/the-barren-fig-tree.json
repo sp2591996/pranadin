@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-barren-fig-tree",
+ "order": 23,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशु",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Barren Fig Tree",
+  "hi": {
+   "text": "बाँझ अंजीर का पेड़",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वांझ अंजिराचे झाड",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A fig tree has borne no fruit for three years, and the gardener asks for one more year.",
+  "hi": {
+   "text": "एक अंजीर का पेड़ तीन वर्ष से कोई फल नहीं दे रहा, और माली एक और वर्ष माँगता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एका अंजिराच्या झाडाला तीन वर्षे फळ आले नाही, आणि माळी आणखी एक वर्ष मागतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-fig.webp",
+   "w": 702,
+   "h": 1100,
+   "caption": {
+    "en": "Fig tree leaves (photograph; Ficus, a fig relative)",
+    "hi": {
+     "text": "अंजीर परिवार के पौधे की पत्तियाँ (छायाचित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंजीर कुळातील झाडाची पाने (छायाचित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "SarKaLay စာကလေး, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fig_Tree_(24141).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "News of two disasters",
+    "hi": {
+     "text": "दो दुर्घटनाओं की ख़बर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन दुर्घटनांची बातमी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the Gospel of Luke, some people in the crowd tell Jesus about a recent atrocity. Pilate, the Roman governor, had killed some Galileans while they were offering sacrifices, so that their blood was mixed with that of the animals. People were shocked, and many wondered aloud whether the victims had somehow deserved it.\n\nJesus answers by asking whether those Galileans were worse sinners than all the others. No, he says, I tell you, but unless you repent, you will all perish in the same way. He adds another example, the eighteen people killed when a tower fell in Siloam, and asks whether they were more guilty than everyone else in Jerusalem. Again he says no. Then, turning from other people's tragedies to his listeners' own lives, he tells a parable. Both events were then fresh in people's minds, and Jesus uses them to turn attention from speculation about others toward honest self-examination.",
+    "hi": {
+     "text": "लूका के सुसमाचार में भीड़ के कुछ लोग यीशु को एक हाल की भयानक घटना सुनाते हैं। रोमी राज्यपाल पिलातुस ने कुछ गलीली लोगों को मार डाला था, जब वे बलि चढ़ा रहे थे, इसलिए उनका लहू जानवरों के लहू के साथ मिल गया। लोग स्तब्ध थे, और कई लोग ज़ोर से सोच रहे थे कि क्या पीड़ितों ने किसी तरह यह सब कमाया था।\n\nयीशु यह पूछकर उत्तर देते हैं कि क्या वे गलीली बाकी सब लोगों से बढ़कर पापी थे। नहीं, वे कहते हैं, मैं तुम से कहता हूँ, पर यदि तुम मन न फिराओगे, तो तुम सब भी इसी तरह नाश हो जाओगे। वे एक और उदाहरण जोड़ते हैं, शीलोह में गिरे एक मीनार में मरे अठारह लोगों का, और पूछते हैं कि क्या वे यरूशलेम के बाकी सब लोगों से अधिक दोषी थे। फिर वे कहते हैं नहीं। तब दूसरों की विपत्तियों से अपने सुनने वालों के अपने जीवन की ओर मुड़कर वे एक दृष्टांत सुनाते हैं। ये दोनों घटनाएँ तब लोगों के मन में ताज़ा थीं, और यीशु उनका उपयोग दूसरों के बारे में अटकलों से हटाकर ईमानदार आत्म-परीक्षण की ओर ध्यान ले जाने के लिए करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूकाच्या शुभवर्तमानात जमावातील काही लोक यीशूला अलीकडे घडलेल्या एका भयानक घटनेची माहिती देतात. रोमी राज्यपाल पिलात याने काही गालीलकरांना ते यज्ञ अर्पण करत असतानाच ठार मारले होते, त्यामुळे त्यांचे रक्त प्राण्यांच्या रक्तात मिसळले. लोक हादरले होते, आणि अनेकांना मोठ्याने प्रश्न पडत होता की कदाचित बळी पडलेल्या लोकांनी असे काही केले असेल का.\n\nयीशू विचारून उत्तर देतात की ते गालीलकर इतर सर्वांपेक्षा अधिक पापी होते काय. नाही, ते म्हणतात, मी तुम्हांला सांगतो, पण जर तुम्ही पश्चात्ताप केला नाही, तर तुम्ही सर्वही त्याच प्रकारे नाश पावाल. ते आणखी एक उदाहरण जोडतात, शिलोहात मनोरा कोसळून मरण पावलेल्या अठरा जणांचे, आणि विचारतात की ते यरूशलेममधील इतर सर्वांपेक्षा अधिक दोषी होते काय. पुन्हा ते म्हणतात नाही. मग इतरांच्या दुर्दैवापासून आपल्या ऐकणार्यांच्या स्वतःच्या जीवनाकडे वळून ते एक दृष्टांत सांगतात. या दोन्ही घटना तेव्हा लोकांच्या मनात ताज्या होत्या, आणि इतरांविषयीच्या अटकळींपासून प्रामाणिक आत्मपरीक्षणाकडे लक्ष वळवण्यासाठी यीशू त्यांचा उपयोग करतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Three years without figs",
+    "hi": {
+     "text": "तीन वर्ष बिना अंजीर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन वर्षे अंजिराविना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A certain man had a fig tree planted in his vineyard. It was common in that country to plant fruit trees among the vines, and a fig tree was a valuable and long-lived asset. He came looking for fruit on it and found none. This was not a single disappointment. The owner tells his gardener that for three years he has come looking and found nothing.\n\nCut it down, he says. Why should it use up the soil? The reasoning is hard to argue with. A tree in a vineyard takes up space, water and nourishment, and gives nothing back. The owner has been patient already, coming year after year, and now he thinks that the ground might be put to better use by something that bears. A year of unproductive growth costs the owner something real, and the story does not pretend otherwise or excuse the tree.",
+    "hi": {
+     "text": "किसी व्यक्ति ने अपनी दाख की बारी में एक अंजीर का पेड़ लगाया था। उस देश में फलदार पेड़ों को दाख की लताओं के बीच लगाना आम बात थी, और अंजीर का पेड़ एक मूल्यवान और लंबे समय तक जीने वाला पेड़ था। वह उस पर फल ढूँढने आया और कोई फल नहीं मिला। यह कोई एक बार की निराशा नहीं थी। मालिक अपने माली से कहता है कि तीन वर्ष से वह आ रहा है और कुछ नहीं पाता।\n\nइसे काट डालो, वह कहता है। यह भूमि क्यों घेरे? तर्क के सामने कुछ कहना कठिन है। दाख की बारी में खड़ा पेड़ जगह, पानी और पोषण लेता है और बदले में कुछ नहीं देता। मालिक पहले ही धैर्य रख चुका है, हर वर्ष आते-आते, और अब उसे लगता है कि उस ज़मीन का बेहतर उपयोग ऐसी चीज़ से हो सकता है जो फल दे। एक वर्ष की अनुत्पादक बढ़त मालिक का कुछ वास्तविक नुकसान करती है, और कहानी इससे इनकार नहीं करती और न ही पेड़ के लिए कोई बहाना बनाती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका माणसाने आपल्या द्राक्षमळ्यात एक अंजिराचे झाड लावले होते. त्या देशात द्राक्षवेलींमध्ये फळझाडे लावणे सामान्य होते, आणि अंजिराचे झाड मौल्यवान आणि दीर्घायुषी ठेवा होता. तो त्यावर फळ शोधायला आला आणि त्याला काहीच मिळाले नाही. ही एकदाची निराशा नव्हती. मालक आपल्या माळ्याला सांगतो की तीन वर्षांपासून तो येत आहे आणि त्याला काहीच सापडले नाही.\n\nते तोडून टाक, तो म्हणतो. ते जमीन का अडवून ठेवेल? या तर्कावर वाद घालणे कठीण आहे. द्राक्षमळ्यात उभे असलेले झाड जागा, पाणी आणि पोषण घेते, आणि त्याबदल्यात काहीच देत नाही. मालकाने आधीच संयम ठेवला आहे, वर्षानुवर्षे येऊन, आणि आता त्याला वाटते की त्या जमिनीचा अधिक चांगला उपयोग असा काही करता येईल जो फळ देईल. एक वर्षाची फलरहित वाढ मालकाला खरे नुकसान देते, आणि कथा ते नाकारत नाही किंवा झाडासाठी सबब सांगत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "One more year",
+    "hi": {
+     "text": "एक और वर्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आणखी एक वर्ष",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Here the gardener speaks up. Sir, he answers, leave it alone this year also, until I dig around it and fertilise it. It is a humble, practical plea. He does not claim that the tree is better than it seems, or that it has secretly been bearing figs. He asks for time, and he promises to work for it, to loosen the soil, to bring nourishment and to give the tree every chance.\n\nThen he says, If it bears fruit, well. But if not, after that you can cut it down. The gardener accepts that the owner's patience has limits. He does not argue for the tree forever. He asks only for one more season of real care, and he is willing to take on the labour himself. In the picture, someone stands between the tree and the axe.",
+    "hi": {
+     "text": "यहाँ माली बोलता है। स्वामी, उसने उत्तर दिया, इस वर्ष भी इसे छोड़ दीजिए, जब तक मैं इसके चारों ओर खोदकर खाद न डाल दूँ। यह एक विनम्र और व्यावहारिक निवेदन है। वह यह दावा नहीं करता कि पेड़ जितना दिखता है उससे बेहतर है, या कि उसने चुपचाप फल दिए हैं। वह समय माँगता है, और वादा करता है कि वह उसके लिए मेहनत करेगा, मिट्टी को ढीला करेगा, पोषण देगा और पेड़ को हर अवसर देगा।\n\nफिर वह कहता है, यदि यह फल लाए तो ठीक है। नहीं तो उसके बाद तू इसे काट डालना। माली मानता है कि मालिक के धैर्य की सीमा है। वह पेड़ के लिए हमेशा तर्क नहीं करता। वह केवल एक और मौसम की सच्ची देखभाल माँगता है, और स्वयं यह श्रम उठाने को तैयार है। चित्र में कोई पेड़ और कुल्हाड़ी के बीच खड़ा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इथे माळी बोलतो. धनी, तो उत्तरतो, या वर्षीही हे राहू द्या, जोपर्यंत मी याच्याभोवती खणून खत घालत नाही. ही एक नम्र आणि व्यावहारिक विनंती आहे. झाड दिसते त्यापेक्षा चांगले आहे, किंवा त्याने गुपचूप फळे दिली आहेत, असा तो दावा करत नाही. तो वेळ मागतो, आणि त्यासाठी मेहनत घेण्याचे वचन देतो, माती सैल करेन, पोषण देईन आणि झाडाला प्रत्येक संधी देईन असे म्हणतो.\n\nमग तो म्हणतो, जर ते फळ धरले तर ठीक. नाहीतर त्यानंतर तू ते तोडून टाक. माळी मान्य करतो की मालकाच्या संयमालाही मर्यादा आहे. तो झाडासाठी सतत वाद घालत नाही. तो फक्त आणखी एका हंगामाची खरी काळजी मागतो, आणि ते श्रम स्वतः उचलायला तयार आहे. चित्रात झाड आणि कुर्हाड यांच्या मध्ये कोणीतरी उभा आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "An open ending",
+    "hi": {
+     "text": "एक खुला अंत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक खुला शेवट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The parable stops there. We are not told whether the tree bore fruit the following year. Luke leaves the story unfinished, and many readers have felt that this is deliberate. The listeners, who had just been told to repent, are left standing at the point where the tree is still alive and the year is still ahead.\n\nChristians have often read the owner as God, the gardener as the one who pleads for mercy, and the tree as any person or community that has not yet borne the fruit it was meant to. The first part of the passage shows the urgency, and the gardener's words show the mercy. Together they say that time is a gift, and that it is not unlimited. Neither the owner's patience nor the gardener's appeal is the whole story; the two are held together, and the listener must decide what to do with the time.",
+    "hi": {
+     "text": "दृष्टांत वहीं रुक जाता है। हमें नहीं बताया जाता कि अगले वर्ष पेड़ पर फल आया या नहीं। लूका कहानी को अधूरा छोड़ते हैं, और कई पाठकों को लगा है कि यह जानबूझकर है। जिन श्रोताओं से अभी-अभी मन फिराने को कहा गया था, वे उस बिंदु पर खड़े रह जाते हैं जहाँ पेड़ अभी जीवित है और वर्ष अभी आगे है।\n\nईसाई लोग अक्सर मालिक को परमेश्वर, माली को दया की विनती करने वाला, और पेड़ को किसी भी व्यक्ति या समुदाय के रूप में पढ़ते आए हैं जिसने अभी तक वह फल नहीं दिया जिसके लिए वह बना था। अंश का पहला भाग तात्कालिकता दिखाता है, और माली के शब्द दया दिखाते हैं। दोनों मिलकर कहते हैं कि समय एक देन है, और वह असीम नहीं है। न मालिक का धैर्य पूरी कहानी है, न माली की विनती; दोनों एक साथ थामे गए हैं, और श्रोता को तय करना है कि वह इस समय का क्या करेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दृष्टांत तिथेच थांबतो. पुढील वर्षी झाडाला फळ आले की नाही हे सांगितले जात नाही. लूका कथा अपूर्ण ठेवतो, आणि अनेक वाचकांना हे जाणूनबुजून केलेले वाटले आहे. ज्या श्रोत्यांना नुकतेच पश्चात्ताप करण्यास सांगितले गेले होते, ते अशा ठिकाणी उभे राहतात जिथे झाड अजून जिवंत आहे आणि वर्ष अजून पुढे आहे.\n\nख्रिस्ती लोक अनेकदा मालकाला देव, दयेची याचना करणारा माळी, आणि झाडाला असा कोणीही व्यक्ती किंवा समुदाय मानतात ज्याने अजून ते फळ दिलेले नाही जे देण्यासाठी त्याची निर्मिती झाली होती. उतार्याचा पहिला भाग निकड दाखवतो, आणि माळ्याचे शब्द दया दाखवतात. दोन्ही एकत्र सांगतात की वेळ ही देणगी आहे, आणि ती अमर्याद नाही. ना मालकाचा संयम संपूर्ण कथा आहे, ना माळ्याची विनंती; दोन्ही एकत्र धरलेले आहेत, आणि ऐकणार्याने या वेळेचे काय करायचे ते ठरवायचे आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The gift of another season",
+    "hi": {
+     "text": "एक और मौसम का उपहार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आणखी एका हंगामाची देणगी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There is a gentle challenge in this story. It does not tell us exactly what fruit we are meant to bear, but it invites us to ask. Is there something that we have been meaning to do for years, such as a reconciliation, a change of habit or an act of care, and have not yet done? The tree has had its three years. A fourth is being offered.\n\nIt is also a story of hope. Patience is shown and attention is given, and there is someone willing to dig around the roots. Readers of any tradition might find in it a reminder that change is rarely a matter of a single decision. It usually takes time, tending and a second chance, and we can offer those same things to others who are struggling to bear fruit.",
+    "hi": {
+     "text": "इस कहानी में एक कोमल चुनौती है। यह ठीक-ठीक नहीं बताती कि हमें कौन सा फल लाना है, पर पूछने के लिए आमंत्रित करती है। क्या कोई ऐसी बात है जिसे हम वर्षों से करने की सोच रहे हैं, जैसे मेल-मिलाप, आदत में बदलाव, या सेवा का कोई काम, और जो अभी तक नहीं किया? पेड़ के पास तीन वर्ष थे। अब चौथा दिया जा रहा है।\n\nयह आशा की कहानी भी है। धैर्य दिखाया गया है और ध्यान दिया गया है, और वहाँ कोई है जो जड़ों के चारों ओर खोदने को तैयार है। किसी भी परंपरा के पाठक इसमें यह याद पा सकते हैं कि बदलाव शायद ही कभी एक ही निर्णय का मामला होता है। इसमें आम तौर पर समय, देखभाल और दूसरा अवसर लगता है, और वही चीज़ें हम उन लोगों को दे सकते हैं जो फल लाने के लिए संघर्ष कर रहे हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या कथेत एक सौम्य आव्हान आहे. कोणते फळ आपण धरायचे आहे हे ती नेमकेपणाने सांगत नाही, पण विचारण्यास आमंत्रित करते. वर्षानुवर्षे करण्याचा विचार केलेली एखादी गोष्ट आहे का, जसे की मेळ, सवयीत बदल किंवा सेवेचे एखादे कार्य, जे अजून केलेले नाही? झाडाला तीन वर्षे मिळाली होती. आता चौथे देऊ केले जात आहे.\n\nही आशेचीही कथा आहे. संयम दाखवला आहे आणि लक्ष दिले आहे, आणि मुळांभोवती खणायला तयार असलेला कोणीतरी तिथे आहे. कोणत्याही परंपरेचा वाचक यात अशी आठवण शोधू शकतो की बदल क्वचितच एका निर्णयाने होतो. त्याला सहसा वेळ, काळजी आणि दुसरी संधी लागते, आणि तीच गोष्ट आपण फळ देण्यासाठी धडपडणार्यांना देऊ शकतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Lord, leave it alone this year also, until I dig around it and fertilize it.",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 13:8 (World English Bible)",
+   "hi": {
+    "text": "लूका 13:8 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 13:8 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The gardener asks for one more season of patient care before the tree is given up on.",
+   "hi": {
+    "text": "माली उस पेड़ को छोड़ देने से पहले एक और मौसम की धैर्यपूर्ण देखभाल माँगता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "माळी त्या झाडाला सोडून देण्याआधी आणखी एका हंगामाची धीराची काळजी मागतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What fruit have you been meaning to bear for a long time, and what would it take, in care and attention, to begin this year?",
+  "hi": {
+   "text": "कौन सा फल तुम वर्षों से लाने की सोच रहे हो, और इस वर्ष उसे शुरू करने के लिए देखभाल और ध्यान में क्या लगेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणते फळ तुम्ही बर्याच काळापासून देण्याचा विचार करत आहात, आणि या वर्षी ते सुरू करण्यासाठी काळजी आणि लक्ष यांत काय लागेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Time is a gift, and patience paired with real care gives every person another chance to bear fruit.",
+  "hi": {
+   "text": "समय एक उपहार है, और धैर्य के साथ सच्ची देखभाल हर व्यक्ति को फल लाने का एक और अवसर देती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वेळ ही देणगी आहे, आणि धीर आणि खरी काळजी यांच्या जोडीने प्रत्येक माणसाला फळ देण्याची आणखी एक संधी मिळते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 13:1-9; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 13:1-9 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 13:1-9 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

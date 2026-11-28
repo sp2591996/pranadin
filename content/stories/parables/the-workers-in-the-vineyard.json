@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-workers-in-the-vineyard",
+ "order": 11,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशु",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Workers in the Vineyard",
+  "hi": {
+   "text": "दाख की बारी के मज़दूर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दाख की बारी के मजदूर",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A landowner pays every worker the same wage, however long they worked, and some of them are upset.",
+  "hi": {
+   "text": "एक भूमिपति हर मज़दूर को एक ही मज़दूरी देता है, चाहे उसने कितनी भी देर काम किया हो, और उनमें से कुछ लोग नाराज़ हो जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक भूमिपति हर मजदूर को उतनी ही मजदूरी देता है चाहे उसने कितनी देर काम किया हो, और कुछ लोग नाराज हो जाते हैं।",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-workers-koninck.webp",
+   "w": 1200,
+   "h": 980,
+   "caption": {
+    "en": "The parable of the workers in the vineyard, Salomon Koninck",
+    "hi": {
+     "text": "दाख की बारी के मज़दूरों का दृष्टांत, सलोमन कोनिंक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्राक्षमळ्यातील मजुरांचा दृष्टांत, सलोमन कोनिंक",
+     "reviewed": false
+    }
+   },
+   "credit": "Salomon Koninck, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Salomon_Koninck_-_Parable_of_the_Workers_in_the_Vineyard_-_WGA12249.jpg"
+  },
+  {
+   "src": "/stories/parables/p-workers-valckenborch.webp",
+   "w": 1200,
+   "h": 838,
+   "caption": {
+    "en": "Workers in the vineyard, Marten van Valckenborch",
+    "hi": {
+     "text": "दाख की बारी के मज़दूर, मार्टन वान वाल्केनबोर्च",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "द्राक्षमळ्यातील मजूर, मार्टन व्हॅन व्हाल्केनबोर्श",
+     "reviewed": false
+    }
+   },
+   "credit": "Marten van Valckenborch, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marten_van_Valckenborch_-_Parable_of_the_Workers_in_the_Vineyard_(March).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "After a question about reward",
+    "hi": {
+     "text": "मज़दूरी के प्रश्न के बाद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इनाम के प्रश्न के बाद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "This parable follows a conversation in which Peter, speaking for the disciples, had asked what they would receive for having left everything to follow Jesus. Jesus promised that those who gave up much for the sake of the Kingdom would be richly blessed, and then added a puzzling line that many who are first will be last, and the last first.\n\nThe parable that follows is his way of explaining that saying. It begins with the Kingdom of Heaven, the rule of God, and it takes place in a setting every listener knew well, the daily hiring of labourers in a village marketplace. In a land where most people lived close to hunger, to be picked for a day's work or passed over could mean the difference between a meal and an empty table.",
+    "hi": {
+     "text": "यह दृष्टांत उस बातचीत के बाद आता है जिसमें पतरस ने शिष्यों की ओर से पूछा था कि यीशु के पीछे चलने के लिए सब कुछ छोड़ देने पर उन्हें क्या मिलेगा। यीशु ने वादा किया कि जो राज्य के लिए बहुत कुछ त्याग देते हैं उन्हें भरपूर आशीष मिलेगी, और फिर एक उलझाने वाली बात जोड़ी कि बहुत से जो पहले हैं वे पीछे होंगे, और जो पीछे हैं वे पहले होंगे।\n\nउसके बाद का दृष्टांत उस कथन को समझाने का उनका तरीका है। यह स्वर्ग के राज्य, यानी परमेश्वर के शासन से शुरू होता है, और ऐसे परिवेश में घटता है जिसे हर श्रोता भली-भाँति जानता था: गाँव के बाज़ार में मज़दूरों की रोज़ की भर्ती। ऐसे देश में जहाँ अधिकतर लोग भूख के करीब जीते थे, एक दिन की मज़दूरी के लिए चुना जाना या छोड़ दिया जाना, भोजन और खाली थाली के बीच का अंतर हो सकता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यह दृष्टांत उस बातचीत के बाद आता है जिसमें पतरस ने शिष्यों की ओर से पूछा था कि यीशु के पीछे चलने के लिए सब कुछ छोड देने पर उन्हें क्या मिलेगा। यीशु ने वादा किया कि जो राज्य के लिए बहुत कुछ त्यागते हैं उन्हें भरपूर आशीष मिलेगी, और फिर एक उलझाने वाली बात जोडी कि बहुत से जो पहले हैं वे पीछे होंगे, और जो पीछे हैं वे पहले होंगे।\n\nउसके बाद का दृष्टांत उस कथन को समझाने का उनका तरीका है। यह स्वर्ग के राज्य, यानी परमेश्वर के शासन से शुरू होता है, और ऐसे परिवेश में घटता है जिसे हर श्रोता भली-भाँति जानता था: गाँव के बाजार में मजदूरों की रोज की भर्ती। ऐसे देश में जहाँ अधिकतर लोग भूख के करीब जीते थे, एक दिन की मजदूरी के लिए चुना जाना या छोड दिया जाना, भोजन और खाली थाली के बीच का अंतर हो सकता था।",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Hired at dawn",
+    "hi": {
+     "text": "सुबह-सुबह काम पर लगाए गए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुबह-सुबह काम पर लगाए गए",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A landowner goes out early in the morning to hire workers for his vineyard. He agrees with them on a denarius for the day, which was the usual pay for a day's labour, enough to feed a family for a day. They go into the vineyard, and the work begins as the cool morning light spreads across the rows of vines.\n\nBut the landowner is not finished with hiring. He goes out again at about the third hour, then the sixth and the ninth, and each time he finds people standing idle in the marketplace and sends them into the vineyard, promising to pay whatever is right. The harvest evidently needs a great many hands, and he is determined that nobody who is willing will be left idle. The scene is warm and ordinary, which sets up the surprise the story has in store.",
+    "hi": {
+     "text": "एक भूमिपति सुबह-सुबह निकलकर अपने दाख की बारी के लिए मज़दूर लगाता है। वह उनसे एक दीनार प्रतिदिन पर सहमत होता है, जो एक दिन की मज़दूरी की सामान्य दर थी, जिससे एक परिवार का एक दिन का पेट भर सकता था। वे बारी में जाते हैं, और काम तब शुरू होता है जब सुबह की ठंडी रोशनी बेलों की कतारों पर फैलती है।\n\nपर भूमिपति भर्ती करने से रुका नहीं है। वह लगभग तीसरे पहर, फिर छठे और नौवें घंटे पर फिर निकलता है, और हर बार उसे बाज़ार में बेकार खड़े लोग मिलते हैं, और वह उन्हें बारी में भेजता है, यह वादा करते हुए कि जो उचित होगा वह देगा। फसल के लिए स्पष्ट रूप से बहुत हाथों की ज़रूरत है, और वह दृढ़ है कि जो भी काम करने को तैयार है वह बेकार न रहे। दृश्य गर्मजोशी भरा और सामान्य है, जो कहानी में छिपे आश्चर्य के लिए मंच तैयार करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक भूमिपति सुबह-सुबह निकलकर अपने दाख की बारी के लिए मजदूर लगाता है। वह उनसे एक दीनार प्रतिदिन पर सहमत होता है, जो एक दिन की मजदूरी की सामान्य दर थी, जिससे एक परिवार का एक दिन का पेट भर सकता था। वे बारी में जाते हैं, और काम तब शुरू होता है जब सुबह की ठंडी रोशनी बेलों की कतारों पर फैलती है।\n\nपर भूमिपति भर्ती करने से रुका नहीं है। वह लगभग तीसरे पहर, फिर छठे और नौवें घंटे पर फिर निकलता है, और हर बार उसे बाजार में बेकार खडे लोग मिलते हैं, और वह उन्हें बारी में भेजता है, यह वादा करते हुए कि जो उचित होगा वह देगा। फसल के लिए स्पष्ट रूप से बहुत हाथों की जरूरत है, और वह दृढ है कि जो भी काम करने को तैयार है वह बेकार न रहे। दृश्य गर्मजोशी भरा और सामान्य है, जो कहानी में छिपे आश्चर्य के लिए मंच तैयार करता है।",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The eleventh hour",
+    "hi": {
+     "text": "ग्यारहवाँ घंटा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ग्यारहवें घंटे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Near the end of the day, about the eleventh hour, when only an hour of daylight remains, he goes out once more. He finds still others standing there and asks why they have been idle all day. They answer, Because no one has hired us. The answer is simple and painful, for these are not lazy men, only men whom nobody has chosen.\n\nHe sends them into the vineyard too, with the promise that they will receive whatever is right. It is easy to imagine what they felt as they walked in among the vines with only an hour's work to do. They had probably given up hope of earning anything that day. Their families would go hungry unless a miracle happened, and the landowner was about to give them one. Their answer shows how hard it was to be unwanted, and the landowner does not hold it against them.",
+    "hi": {
+     "text": "दिन के अंत के निकट, लगभग ग्यारहवें घंटे पर, जब दिन का केवल एक घंटा बाकी रहता है, वह एक बार और निकलता है। उसे अब भी कुछ लोग खड़े मिलते हैं और वह पूछता है कि तुम सारे दिन बेकार क्यों खड़े रहे? वे उत्तर देते हैं, क्योंकि किसी ने हमें काम पर नहीं रखा। उत्तर सरल और पीड़ादायक है, क्योंकि ये आलसी लोग नहीं हैं, बस ऐसे लोग हैं जिन्हें किसी ने चुना नहीं।\n\nवह उन्हें भी बारी में भेज देता है, इस वादे के साथ कि जो उचित होगा वह उन्हें मिलेगा। कल्पना करना आसान है कि बेलों के बीच केवल एक घंटे का काम लेकर चलते समय उन्हें क्या लगा होगा। उस दिन कुछ कमाने की आशा उन्होंने शायद छोड़ दी होगी। कोई चमत्कार न हुआ तो उनके परिवारों को भूखा रहना पड़ेगा, और भूमिपति उन्हें वही चमत्कार देने वाला था। उनका उत्तर दिखाता है कि अनचाहा होना कितना कठिन था, और भूमिपति उसे उनके विरुद्ध नहीं रखता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिन के अंत के निकट, लगभग ग्यारहवें घंटे पर, जब दिन का केवल एक घंटा बाकी रहता है, वह एक बार और निकलता है। उसे अब भी कुछ लोग खडे मिलते हैं और वह पूछता है कि तुम दिनभर बेकार क्यों खडे रहे? वे उत्तर देते हैं, क्योंकि कोणीही आम्हांला कामावर घेतले नाही। उत्तर सरल और वेदनादायक है, क्योंकि हे आळशी लोक नाहीत, तर असे लोक आहेत ज्यांना कोणीही निवडले नाही.\n\nतो त्यांनाही बारीत पाठवतो, या वचनासह की जे योग्य असेल ते त्यांना मिळेल. कल्पना करणे सोपे आहे की बारीच्या वेलींमध्ये फक्त एक तासाचे काम घेऊन चालताना त्यांना काय वाटले असेल. त्या दिवशी काही कमावण्याची आशा त्यांनी कदाचित सोडून दिली असेल. चमत्कार घडल्याशिवाय त्यांच्या कुटुंबांना उपाशी राहावे लागेल, आणि भूमिपती त्यांना तोच चमत्कार देणार होता. त्यांचे उत्तर दाखवते की नको असणे किती कठीण आहे, आणि भूमिपती ते त्यांच्या विरोधात धरत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Pay day",
+    "hi": {
+     "text": "मज़दूरी का दिन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वेतनाचा दिवस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When evening comes, the landowner tells his manager to call the workers and pay them, beginning with the last and ending with the first. Those hired at the eleventh hour each receive a denarius, a full day's wage. Those who worked since dawn watch and quietly expect more. But when their turn comes, they receive a denarius too.\n\nThey grumble against the landowner. These last have worked one hour, they say, and you have made them equal to us, who have borne the burden of the day and the scorching heat. His answer is calm. Friend, I am doing you no wrong. Didn't you agree to a denarius? Take what is yours and go. Is your eye evil, he asks, because I am good? The grumbling is understandable, and the story takes it seriously, but it does not let it have the last word.",
+    "hi": {
+     "text": "शाम होने पर भूमिपति अपने प्रबंधक से कहता है कि मज़दूरों को बुलाकर मज़दूरी दे, अंतिम से शुरू करके पहले तक। ग्यारहवें घंटे पर लगाए गए लोगों को प्रत्येक को एक दीनार मिलता है, पूरे दिन की मज़दूरी। जो सुबह से काम कर रहे थे वे देखते हैं और चुपचाप अधिक की उम्मीद करते हैं। पर उनकी बारी आने पर उन्हें भी एक ही दीनार मिलता है।\n\nवे भूमिपति के विरुद्ध बड़बड़ाते हैं। ये अंतिम लोग केवल एक घंटा काम करते थे, वे कहते हैं, और तूने उन्हें हमारे बराबर कर दिया, जिन्होंने दिन का बोझ और कड़ी धूप सही। उसका उत्तर शांत है। मित्र, मैं तेरे साथ कोई अन्याय नहीं कर रहा। क्या तू एक दीनार पर सहमत नहीं हुआ था? जो तेरा है वह ले और जा। क्या मेरी उदारता के कारण तेरी आँख बुरी हो जाती है, वह पूछता है। यह बड़बड़ाहट समझने योग्य है, और कथा इसे गंभीरता से लेती है, पर वह इसे अंतिम शब्द नहीं बोलने देती।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संध्याकाळ झाल्यावर भूमिपती आपल्या व्यवस्थापकाला मजदूरांना बोलावून पैसे देण्यास सांगतो, शेवटच्यापासून सुरुवात करून पहिल्यापर्यंत. ज्यांना ग्यारहव्या घंटेला कामावर घेतले होते त्यांना प्रत्येकी एक दीनार मिळतो, पूर्ण दिवसाची मजदूरी. जे सकाळपासून काम करत होते ते पाहतात आणि शांतपणे अधिक मिळण्याची अपेक्षा करतात. पण त्यांची पाळी आल्यावर त्यांनाही एक दीनारच मिळतो.\n\nते भूमिपतीविरुद्ध कुरकुर करतात. हे शेवटचे लोक फक्त एक तास काम करत होते, ते म्हणतात, आणि तू त्यांना आमच्याबरोबर बरोबरीचे केलेस, ज्यांनी दिवसाचा भार आणि कडक उन्हाचा ताप सहन केला. त्याचे उत्तर शांत आहे. मित्रा, मी तुझ्यावर अन्याय करत नाही. तू एक दीनारावर सहमत झाला नव्हतास का? जे तुझे आहे ते घे आणि जा. माझी चांगुलपणा पाहून तुझा डोळा वाईट होतो का, तो विचारतो. ही कुरकुर समजण्यासारखी आहे, आणि कथा ती गांभीर्याने घेते, पण ती तिला शेवटचा शब्द बोलू देत नाही.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Generosity, not wages",
+    "hi": {
+     "text": "उदारता, मज़दूरी नहीं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उदारता, मजदूरी नव्हे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have read the landowner as a picture of God, whose generosity does not run on a scale of hours worked. The story makes no claim that effort is worthless, and the early workers receive exactly what they were promised. But it insists that grace is not wages, and that those who come late are welcomed as fully as those who came early.\n\nIt is also a story about envy. The grumbling workers were not cheated, and yet they were unhappy because someone else received kindness. Many people of any background will recognise the feeling, the sense that the good fortune of another somehow takes something from us. The parable invites us to ask whether we can be glad on behalf of those who needed the generosity more than we did. The parable asks us to examine whether our sense of fairness has room for kindness.",
+    "hi": {
+     "text": "ईसाइयों ने भूमिपति को परमेश्वर का चित्र मानकर पढ़ा है, जिसकी उदारता घंटों के हिसाब पर नहीं चलती। कथा यह नहीं कहती कि परिश्रम का कोई मूल्य नहीं है, और सुबह के मज़दूरों को ठीक वही मिलता है जो उनसे वादा किया गया था। पर वह आग्रह करती है कि अनुग्रह मज़दूरी नहीं है, और जो देर से आते हैं उनका उतना ही पूरा स्वागत होता है जितना जल्दी आने वालों का।\n\nयह ईर्ष्या के बारे में भी एक कहानी है। बड़बड़ाने वाले मज़दूरों के साथ धोखा नहीं हुआ था, फिर भी वे दुखी थे क्योंकि किसी और को दया मिली। किसी भी पृष्ठभूमि के लोग यह भावना पहचान सकते हैं, कि दूसरे का अच्छा भाग्य मानो हमसे कुछ छीन लेता है। दृष्टांत हमें पूछने को कहता है कि क्या हम उन लोगों की ओर से आनंदित हो सकते हैं जिन्हें उस उदारता की हमसे अधिक ज़रूरत थी। न्याय की हमारी भावना में दया के लिए जगह है या नहीं, दृष्टांत इसकी जाँच करने को कहता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोकांनी भूमिपतीला देवाचे चित्र म्हणून वाचले आहे, ज्याची उदारता तासांच्या हिशेबावर चालत नाही. कथा केलेल्या कष्टांची किंमत शून्य आहे असे म्हणत नाही, आणि सुरुवातीच्या मजदूरांना त्यांना वचन दिलेले नेमके तेच मिळते. पण ती आग्रह धरते की कृपा ही मजदूरी नाही, आणि जे उशिरा येतात त्यांचेही तितक्याच पूर्णपणे स्वागत होते जितके लवकर येणार्यांचे होते.\n\nही मत्सराबद्दलची कथाही आहे. कुरकुर करणार्या मजदूरांची फसवणूक झाली नव्हती, तरीही ते दुःखी होते कारण दुसर्याला दया मिळाली. कोणत्याही पार्श्वभूमीच्या लोकांना ही भावना ओळखता येईल, ही भावना की दुसर्याचे चांगले भाग्य आपल्याकडून काहीतरी हिरावून घेते. दृष्टांत आपल्याला विचारायला सांगतो की ज्यांना त्या उदारतेची आपल्यापेक्षा अधिक गरज होती त्यांच्यासाठी आपण आनंद करू शकतो का. न्यायाच्या आपल्या कल्पनेत दयेसाठी जागा आहे का, हे तपासायला दृष्टांत आपल्याला सांगतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Or is your eye evil, because I am good?",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 20:15 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 20:15 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 20:15 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The landowner asks whether resentment is a fair response to his choosing to be generous.",
+   "hi": {
+    "text": "भूमिपति पूछता है कि उसके उदार होने के चुनाव पर नाराज़गी क्या उचित प्रतिक्रिया है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "भूमिपती विचारतो की त्याने उदार होण्याचे ठरवल्याबद्दल राग येणे हा न्याय्य प्रतिसाद आहे का.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When someone else receives good fortune or kindness, what rises in you? Can you practise being glad for them, even when you worked hard and they did not?",
+  "hi": {
+   "text": "जब किसी और को अच्छा भाग्य या दयालुता मिलती है, तो तुम्हारे भीतर क्या उठता है? जब तुमने कड़ी मेहनत की हो और उन्होंने न की हो, तब भी क्या तुम उनके लिए आनंदित रहने का अभ्यास कर सकते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा दुसर्याला चांगले भाग्य किंवा दयाळूपणा मिळतो, तेव्हा तुमच्या मनात काय उठते? तुम्ही कठोर मेहनत केलेली असताना आणि त्यांनी केली नसताना देखील त्यांच्यासाठी आनंदी राहण्याचा सराव तुम्ही करू शकता का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Generosity is not a wage to be calculated; it welcomes those who come late as fully as those who came early, and invites us to share the gladness.",
+  "hi": {
+   "text": "उदारता कोई हिसाब से चुकाई जाने वाली मज़दूरी नहीं है; वह देर से आने वालों का भी उतनी ही पूर्णता से स्वागत करती है जितनी पूर्णता से जल्दी आने वालों का, और हमें आनंद बाँटने के लिए आमंत्रित करती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "उदारता ही मोजून द्यायची मजदूरी नाही; ती उशिरा येणार्यांचे तितक्याच पूर्णपणे स्वागत करते जितके लवकर येणार्यांचे करते, आणि आपल्याला आनंद वाटून घेण्यासाठी आमंत्रित करते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 20:1-16; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 20:1-16 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 20:1-16 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

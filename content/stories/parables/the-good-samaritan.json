@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-good-samaritan",
+ "order": 20,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Good Samaritan",
+  "hi": {
+   "text": "भला सामरी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चांगला सामरी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Two respected men pass a wounded stranger on the road, and a despised outsider stops to help.",
+  "hi": {
+   "text": "सम्मानित दो लोग सड़क पर घायल अजनबी के पास से गुज़र जाते हैं, और तिरस्कृत बाहरी व्यक्ति रुककर मदद करता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन आदरणीय माणसे रस्त्यात जखमी अनोळखी माणसाजवळून जातात, आणि तुच्छ मानला गेलेला बाहेरचा माणूस थांबून मदत करतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-samaritan-rembrandt.webp",
+   "w": 1200,
+   "h": 845,
+   "caption": {
+    "en": "Landscape with the Good Samaritan, Rembrandt",
+    "hi": {
+     "text": "भले सामरी के साथ भू-दृश्य, रेम्ब्रांट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चांगल्या सामरीसह निसर्गदृश्य, रेम्ब्रांट",
+     "reviewed": false
+    }
+   },
+   "credit": "Rembrandt, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Landscape_with_the_Good_Samaritan_-_Rembrandt.jpg"
+  },
+  {
+   "src": "/stories/parables/p-samaritan-lastman.webp",
+   "w": 1200,
+   "h": 955,
+   "caption": {
+    "en": "The Good Samaritan tends the wounded man, Pieter Lastman",
+    "hi": {
+     "text": "भला सामरी घायल की सेवा करता है, पीटर लास्टमैन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चांगला सामरी जखमी माणसाची शुश्रूषा करतो, पीटर लास्टमन",
+     "reviewed": false
+    }
+   },
+   "credit": "Pieter Lastman, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pieter_Lastman_-_The_Good_Samaritan_tending_the_wounds_of_the_traveller.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A lawyer's question",
+    "hi": {
+     "text": "एक शास्त्री का प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका नियमशास्त्र शिक्षकाचा प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the Gospel of Luke, a lawyer, meaning an expert in the Jewish Law, stands up to test Jesus. Teacher, he asks, what shall I do to inherit eternal life? Jesus turns the question back to him, asking what is written in the Law and how he reads it. The man answers well, quoting the commandments to love the Lord your God with all your heart, soul, strength and mind, and your neighbour as yourself.\n\nJesus tells him he has answered correctly. Do this, and you will live. But the lawyer, Luke says, wanted to justify himself, and so he asks a second question that sounds sincere but also draws a line. And who is my neighbour? It is a question that many people ask in one form or another, and the answer Jesus gives is a story.",
+    "hi": {
+     "text": "लूका के सुसमाचार में एक शास्त्री, यानी यहूदी व्यवस्था का विद्वान, यीशु की परीक्षा लेने के लिए खड़ा होता है। गुरु, वह पूछता है, अनन्त जीवन पाने के लिए मैं क्या करूँ? यीशु उसी प्रश्न को उसकी ओर लौटाते हैं और पूछते हैं कि व्यवस्था में क्या लिखा है और वह उसे कैसे पढ़ता है। वह व्यक्ति ठीक उत्तर देता है, और परमेश्वर को अपने सारे मन, प्राण, शक्ति और बुद्धि से प्रेम करने और अपने पड़ोसी से अपने समान प्रेम करने की आज्ञाएँ उद्धृत करता है।\n\nयीशु कहते हैं कि उसने सही उत्तर दिया है। यह कर, तो तू जीएगा। पर लूका बताते हैं कि शास्त्री स्वयं को सही ठहराना चाहता था, इसलिए वह एक दूसरा प्रश्न पूछता है, जो सच्चा लगता है पर एक रेखा भी खींच देता है। और मेरा पड़ोसी कौन है? यह ऐसा प्रश्न है जो बहुत से लोग किसी न किसी रूप में पूछते हैं, और यीशु जो उत्तर देते हैं वह एक कहानी है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूकाच्या शुभवर्तमानात एक नियमशास्त्र शिक्षक, म्हणजे यहूदी नियमशास्त्राचा तज्ज्ञ, यीशूची परीक्षा घ्यायला उभा राहतो. गुरुजी, तो विचारतो, अनंत जीवन वारसा म्हणून मिळवण्यासाठी मी काय करू? यीशू हा प्रश्न त्यालाच परत करतात आणि विचारतात की नियमशास्त्रात काय लिहिले आहे आणि तो ते कसे वाचतो. तो माणूस चांगले उत्तर देतो, परमेश्वर तुझा देव याच्यावर सर्व अंतःकरणाने, सर्व जिवाने, सर्व शक्तीने आणि सर्व मनाने प्रीती कर, आणि आपल्या शेजार्यावर स्वतःसारखी प्रीती कर, या आज्ञा उद्धृत करत.\n\nयीशू म्हणतात की त्याने बरोबर उत्तर दिले आहे. असे कर, म्हणजे तू जगशील. पण लूका सांगतात की तो शिक्षक स्वतःला नीतिमान ठरवू इच्छित होता, म्हणून तो दुसरा प्रश्न विचारतो, जो प्रामाणिक वाटतो पण एक रेषाही आखतो. आणि माझा शेजारी कोण आहे? हा प्रश्न अनेक लोक कोणत्या ना कोणत्या रूपात विचारतात, आणि यीशू जे उत्तर देतात ती एक गोष्ट आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The road to Jericho",
+    "hi": {
+     "text": "यरीहो की सड़क",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यरीहोचा रस्ता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A man was going down from Jerusalem to Jericho. This road was well known to Jesus's listeners, a steep and winding route through rocky desert hills that dropped some three thousand feet, and it had a reputation for robbers. The man falls among thieves, who strip him, beat him and leave him half dead by the side of the road.\n\nHe lies there with no way to help himself and no one to call. The story deliberately tells us nothing about who he is. He is not named, and we are not told his nationality or his religion. He is simply a human being in desperate need, which is exactly what he needs to be if the story is to make the point that Jesus has in mind. We are meant to see him only as a person, before any label of tribe or belief is attached to him.",
+    "hi": {
+     "text": "एक मनुष्य यरूशलेम से यरीहो की ओर जा रहा था। यह रास्ता यीशु के श्रोताओं के लिए अच्छी तरह जाना-पहचाना था, एक तीखा और घुमावदार मार्ग जो पथरीली रेगिस्तानी पहाड़ियों से होकर लगभग तीन हज़ार फुट नीचे उतरता था, और उसकी ख्याति डाकुओं के लिए थी। वह मनुष्य लुटेरों के हाथ पड़ जाता है, जो उसके कपड़े उतार लेते हैं, उसे मारते हैं और अधमरा छोड़कर सड़क के किनारे पड़ा रहने देते हैं।\n\nवह वहाँ पड़ा है, खुद को बचाने का कोई उपाय नहीं और बुलाने के लिए कोई नहीं। कहानी जानबूझकर हमें यह नहीं बताती कि वह कौन है। उसका नाम नहीं लिया गया, उसकी जाति या धर्म नहीं बताया गया। वह बस एक असहाय मनुष्य है, और कहानी में यह उसी रूप में होना ज़रूरी है ताकि यीशु का मुद्दा साफ़ हो। हमें उसे केवल एक इंसान के रूप में देखना है, इससे पहले कि उस पर कोई कबीले या विश्वास का ठप्पा लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक माणूस यरूशलेमहून यरीहोकडे खाली जात होता. हा रस्ता यीशूच्या श्रोत्यांना चांगला माहीत होता, खडकाळ वाळवंटी डोंगरांमधून वळणावळणाने उतरणारा आणि सुमारे तीन हजार फूट खाली जाणारा, आणि त्याची ख्याती चोरांसाठी होती. तो माणूस चोरांच्या हाती सापडतो, जे त्याचे कपडे काढून घेतात, त्याला मारहाण करतात आणि अर्धमेला करून रस्त्याच्या कडेला सोडून देतात.\n\nतो तिथे पडून आहे, स्वतःला वाचवण्याचा उपाय नाही आणि बोलावण्यासाठी कोणी नाही. कथा जाणूनबुजून आपल्याला सांगत नाही की तो कोण आहे. त्याचे नाव घेतले नाही, त्याची जात किंवा धर्म सांगितला नाही. तो फक्त एक असहाय्य माणूस आहे, आणि यीशूचा मुद्दा स्पष्ट होण्यासाठी कथेत त्याने तसेच असणे गरजेचे आहे. कोणत्याही जमातीचा किंवा श्रद्धेचा शिक्का त्याच्यावर लागण्याआधी आपण त्याला केवळ एक माणूस म्हणून पाहावे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two who passed by",
+    "hi": {
+     "text": "जो दोनों गुज़र गए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे दोघे पुढे गेले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "By chance, a priest comes down the same road. When he sees the man, he passes by on the other side. Then a Levite, an assistant in the Temple, arrives at the place, sees him and also passes by on the other side. These were respected men, people whom the lawyer would have admired, and who were trained in matters of religion.\n\nThe Gospel gives no reasons for their choice. Perhaps they feared robbers still hiding nearby, or worried about ritual purity if the man were dead. Perhaps they were simply in a hurry. Jesus does not turn them into villains. He only notes what they did, and the plain, quiet detail that they moved to the other side of the road is enough to make every listener uncomfortable. Anyone who has ever hurried past a stranger in difficulty will recognise the quiet pull of reasons that seemed sensible at the time.",
+    "hi": {
+     "text": "संयोग से एक याजक उसी सड़क से आता है। जब वह उस मनुष्य को देखता है, तो दूसरी ओर से निकल जाता है। फिर एक लेवी, जो मंदिर में सहायक था, उस स्थान पर आता है, उसे देखता है, और वह भी दूसरी ओर से निकल जाता है। ये सम्मानित लोग थे, ऐसे लोग जिन्हें शास्त्री प्रशंसा की दृष्टि से देखता, और जो धार्मिक विषयों में प्रशिक्षित थे।\n\nशुभवर्तमान उनके चुनाव का कोई कारण नहीं देता। शायद उन्हें आसपास छिपे डाकुओं का डर था, या अगर वह मनुष्य मर चुका होता तो अनुष्ठानिक शुद्धता की चिंता थी। शायद वे बस जल्दी में थे। यीशु उन्हें खलनायक नहीं बनाते। वे केवल बताते हैं कि उन्होंने क्या किया, और सड़क के दूसरी ओर निकल जाने का सादा, शांत ब्यौरा हर श्रोता को असहज करने के लिए काफी है। जिसने भी किसी परेशान अजनबी के पास से जल्दी में गुज़रा हो, वह उन कारणों के शांत खिंचाव को पहचानेगा जो उस समय समझदारी भरे लगे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योगायोगाने एक याजक त्याच रस्त्याने येतो. त्या माणसाला पाहून तो दुसर्या बाजूने निघून जातो. मग एक लेवी, जो मंदिरातील सेवक होता, त्या ठिकाणी येतो, त्याला पाहतो, आणि तोही दुसर्या बाजूने निघून जातो. हे आदरणीय लोक होते, असे लोक ज्यांचे शास्त्री कौतुक करत असत, आणि जे धार्मिक बाबींमध्ये प्रशिक्षित होते.\n\nशुभवर्तमान त्यांच्या निवडीचे कारण देत नाही. कदाचित त्यांना जवळपास लपलेल्या चोरांची भीती होती, किंवा तो मेला असता तर विधींच्या शुद्धतेची काळजी होती. कदाचित ते फक्त घाईत होते. यीशू त्यांना खलनायक बनवत नाहीत. ते फक्त सांगतात की त्यांनी काय केले, आणि रस्त्याच्या दुसर्या बाजूने निघून जाणे हा साधा, शांत तपशील प्रत्येक श्रोत्याला अस्वस्थ करण्यासाठी पुरेसा आहे. संकटात असलेल्या अनोळखी माणसाजवळून कधी घाईने गेलेला प्रत्येक जण त्या वेळी समजूतदार वाटलेल्या कारणांची शांत ओढ ओळखेल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Samaritan",
+    "hi": {
+     "text": "सामरी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सामरी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then a Samaritan comes along. For Jesus's listeners this was a startling choice. Samaritans and Jews had a long history of mutual suspicion and hostility, and each regarded the other as outsiders in matters of faith. To make a Samaritan the hero of the story would have been, for many in the crowd, almost unbearable.\n\nBut he is the one who stops. When he sees the man, he is moved with compassion. He goes to him, binds up his wounds, pouring on oil and wine, sets him on his own animal and takes him to an inn, and cares for him there. The next day he gives the innkeeper two denarii, asks him to look after the man, and promises to repay whatever more it costs when he returns. Every action is practical and costly, from the oil and wine to the animal he gives up and the money he leaves behind.",
+    "hi": {
+     "text": "फिर एक सामरी वहाँ आता है। यीशु के श्रोताओं के लिए यह चौंकाने वाला चुनाव था। सामरी और यहूदियों का लंबा इतिहास परस्पर अविश्वास और शत्रुता का था, और दोनों एक-दूसरे को विश्वास के मामलों में बाहरी मानते थे। कहानी का नायक किसी सामरी को बनाना भीड़ में कई लोगों के लिए लगभग असहनीय रहा होगा।\n\nपर वही रुकता है। जब वह उस मनुष्य को देखता है, तो उसके मन में करुणा उमड़ती है। वह उसके पास जाता है, उसके घाव पर तेल और दाखरस लगाकर पट्टी बाँधता है, उसे अपनी ही सवारी पर बिठाता है, एक सराय में ले जाता है और वहीं उसकी देखभाल करता है। अगले दिन वह सराय के मालिक को दो दीनार देता है, उससे उस मनुष्य की देखभाल करने को कहता है, और वादा करता है कि लौटते समय जो भी और खर्च होगा, वह चुका देगा। हर कार्य व्यावहारिक और कीमती है, तेल और दाखरस से लेकर वह जानवर जो उसने दिया और वह पैसा जो उसने छोड़ा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग एक सामरी तिथे येतो. यीशूच्या श्रोत्यांसाठी हा धक्कादायक निवड होता. सामरी आणि यहूद्यांचा दीर्घ इतिहास परस्पर अविश्वास आणि शत्रुत्वाचा होता, आणि दोघेही एकमेकांना श्रद्धेच्या बाबतीत बाहेरचे मानत. एका सामरी माणसाला कथेचा नायक बनवणे जमावातील अनेकांसाठी जवळजवळ असह्य झाले असते.\n\nपण तोच थांबतो. जेव्हा तो त्या माणसाला पाहतो, तेव्हा त्याच्या मनात करुणा दाटून येते. तो त्याच्याकडे जातो, त्याच्या जखमांवर तेल आणि द्राक्षरस ओतून पट्टी बांधतो, त्याला आपल्या स्वतःच्या जनावरावर बसवतो, सरायेत नेतो आणि तिथे त्याची काळजी घेतो. दुसर्या दिवशी तो सरायवाल्याला दोन दीनार देतो, त्या माणसाची काळजी घ्यायला सांगतो, आणि परत येताना जो काही अधिक खर्च होईल तो फेडण्याचे वचन देतो. प्रत्येक कृती व्यावहारिक आणि मौल्यवान आहे, तेल आणि द्राक्षरसापासून ते त्याने दिलेल्या जनावरापर्यंत आणि त्याने मागे ठेवलेल्या पैशापर्यंत.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Go and do likewise",
+    "hi": {
+     "text": "जा, और वैसा ही कर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जा, आणि तसेच कर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus then reverses the lawyer's question. Which of these three, he asks, seemed to be a neighbour to the man who fell among the robbers? The lawyer, perhaps unable to say the word Samaritan, answers, The one who showed mercy on him. And Jesus says simply, Go and do likewise.\n\nThe question has changed. It is no longer about who qualifies as my neighbour, but about whether I will be a neighbour to whoever is in need. Christians have taken this as one of the clearest statements of the call to compassion across every boundary. People of every faith can recognise it, since each tradition teaches kindness to the stranger. The story asks us to let go of the lines we draw and simply stop. The lawyer is sent back to his own life with the same instruction, and so is the reader.",
+    "hi": {
+     "text": "फिर यीशु शास्त्री के प्रश्न को उलट देते हैं। इन तीनों में से, वे पूछते हैं, कौन उस मनुष्य का पड़ोसी ठहरा जो डाकुओं के बीच गिर पड़ा था? शास्त्री, शायद सामरी शब्द कह पाने में असमर्थ होकर, उत्तर देता है, जिसने उस पर दया की। और यीशु सीधे कहते हैं, जा, और वैसा ही कर।\n\nप्रश्न बदल गया है। अब बात यह नहीं कि मेरा पड़ोसी कौन योग्य है, बल्कि यह कि क्या मैं उसका पड़ोसी बनूँगा जो ज़रूरतमंद है। ईसाई लोगों ने इसे हर सीमा के पार करुणा के आह्वान का सबसे स्पष्ट कथन माना है। हर धर्म के लोग इसे पहचान सकते हैं, क्योंकि हर परंपरा अजनबी के प्रति दया सिखाती है। यह कहानी हमें उन रेखाओं को छोड़ने और बस रुक जाने को कहती है। शास्त्री को उसी निर्देश के साथ उसके अपने जीवन में लौटाया जाता है, और पाठक को भी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग यीशू शिक्षकाचा प्रश्न उलटवतात. या तिघांपैकी, ते विचारतात, जो चोरांच्या हाती सापडला त्याचा शेजारी कोण वाटला? शिक्षक, कदाचित सामरी हा शब्द उच्चारू न शकल्यामुळे, उत्तर देतो, ज्याने त्याच्यावर दया केली तो. आणि यीशू साधेपणाने म्हणतात, जा, आणि तसेच कर.\n\nप्रश्न बदलला आहे. आता तो असा नाही की माझा शेजारी कोण योग्य आहे, तर असा आहे की ज्याला गरज आहे त्याचा मी शेजारी होईन का. ख्रिस्ती लोकांनी याला प्रत्येक सीमा ओलांडून करुणेच्या आवाहनाचे सर्वात स्पष्ट विधान मानले आहे. प्रत्येक धर्माचे लोक हे ओळखू शकतात, कारण प्रत्येक परंपरा अनोळखी माणसाशी दयाळूपणा शिकवते. ही कथा आपल्याला आखलेल्या रेषा सोडून देऊन फक्त थांबायला सांगते. शिक्षकाला त्याच्या स्वतःच्या जीवनात त्याच सूचनेसह परत पाठवले जाते, आणि वाचकालाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Now which of these three do you think seemed to be a neighbor to him who fell among the robbers?",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 10:36 (World English Bible)",
+   "hi": {
+    "text": "लूका 10:36 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 10:36 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Jesus turns the question from who deserves help to who actually helped.",
+   "hi": {
+    "text": "यीशु प्रश्न को बदल देते हैं, कौन मदद के योग्य है से हटाकर, वास्तव में किसने मदद की।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "यीशू प्रश्न बदलतात, कोणाला मदत करणे योग्य आहे यावरून कोणी खरोखर मदत केली यावर आणतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who counts as a neighbour for you, and who might you be passing by on the other side? What would it cost you to stop?",
+  "hi": {
+   "text": "तुम्हारे लिए पड़ोसी कौन है, और तुम किसको सड़क के दूसरी ओर से निकल जाते हो? रुकने की कीमत तुम्हें क्या चुकानी पड़ेगी?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्यासाठी शेजारी कोण आहे, आणि तुम्ही कोणाला रस्त्याच्या दुसर्या बाजूने निघून जात आहात? थांबण्याची किंमत तुम्हाला काय मोजावी लागेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Being a neighbour means showing mercy to anyone in need, whatever their background, instead of drawing lines around whom we owe it to.",
+  "hi": {
+   "text": "पड़ोसी होने का अर्थ है किसी भी ज़रूरतमंद पर दया दिखाना, चाहे उसकी पृष्ठभूमि कुछ भी हो, न कि यह तय करना कि हम किसके प्रति कर्तव्यबद्ध हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शेजारी होणे म्हणजे गरजू कोणावरही, त्याची पार्श्वभूमी कोणतीही असो, दया दाखवणे, आणि कोणाचे देणे लागतो याभोवती रेषा न आखणे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 10:25-37; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 10:25-37 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 10:25-37 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

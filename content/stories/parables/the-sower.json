@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-sower",
+ "order": 2,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Sower",
+  "hi": {
+   "text": "बोने वाला",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पेरणारा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A farmer scatters seed on four kinds of ground, and each one answers differently.",
+  "hi": {
+   "text": "एक किसान चार प्रकार की ज़मीन पर बीज बिखेरता है, और हर ज़मीन अलग तरह से उत्तर देती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक शेतकरी चार प्रकारच्या जमिनींवर बी विखरतो, आणि प्रत्येक जमीन वेगळ्या प्रकारे प्रतिसाद देते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-sower-millet.webp",
+   "w": 893,
+   "h": 1100,
+   "caption": {
+    "en": "The Sower, Jean-François Millet (1850)",
+    "hi": {
+     "text": "बोने वाला, ज्याँ-फ़्राँस्वा मिये (1850)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पेरणारा, ज्याँ-फ्रांस्वा मिये (1850)",
+     "reviewed": false
+    }
+   },
+   "credit": "Jean-François Millet, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_The_Sower_-_Google_Art_Project.jpg"
+  },
+  {
+   "src": "/stories/parables/p-sower-vangogh.webp",
+   "w": 674,
+   "h": 800,
+   "caption": {
+    "en": "The Sower, after Millet, Vincent van Gogh (1880s)",
+    "hi": {
+     "text": "मिये के बाद बोने वाला, विंसेंट वैन गॉग (1880 के दशक)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मिये नंतरचा पेरणारा, व्हिन्सेंट व्हॅन गॉग (१८८० चे दशक)",
+     "reviewed": false
+    }
+   },
+   "credit": "Vincent van Gogh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Sower_-_Vincent_Van_Gogh.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A boat at the water's edge",
+    "hi": {
+     "text": "झील के किनारे नाव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सरोवराच्या काठी होडी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On a day when great crowds gathered by the Sea of Galilee, Jesus left a house, sat down by the shore and then climbed into a boat so that everyone on the beach could see and hear him. The Gospel of Matthew says he told them many things in parables, short stories drawn from daily life, which people could carry home and turn over in their minds.\n\nThe first of these was about a farmer. It began in the plainest way, with a man going out to sow. Everyone listening knew the scene by heart: the sack of grain, the swinging arm, the seed flung in wide arcs across a field that was never perfectly even. They were farmers, fishermen and villagers, and they were already leaning forward before the story had properly begun.",
+    "hi": {
+     "text": "जिस दिन गलील झील के किनारे बड़ी भीड़ जमा हुई, यीशु एक घर से निकले, किनारे पर बैठे, और फिर एक नाव पर चढ़ गए, ताकि किनारे पर खड़ा हर व्यक्ति उन्हें देख और सुन सके। मत्ती का सुसमाचार कहता है कि उन्होंने उन्हें दृष्टांतों में बहुत सी बातें सिखाईं, दैनिक जीवन से ली गई छोटी कहानियाँ, जिन्हें लोग घर ले जा सकें और मन में दोहरा सकें।\n\nइनमें से पहली एक किसान की थी। उसकी शुरुआत सबसे सरल ढंग से हुई, एक मनुष्य बोने के लिए निकलता है। सुनने वाले हर व्यक्ति को यह दृश्य मुँह-ज़बानी याद था: अनाज की बोरी, झूलता हुआ हाथ, और एक ऐसे खेत पर चौड़ी चाप में फेंका गया बीज जो कभी पूरी तरह समतल नहीं होता। वे किसान, मछुआरे और गाँव के लोग थे, और कहानी ठीक से शुरू होने से पहले ही वे आगे झुक चुके थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका दिवशी गालीली समुद्राजवळ मोठी गर्दी जमली, तेव्हा यीशू घरातून निघाले, किनार्यावर बसले, आणि मग एका होडीत चढले, जेणेकरून किनार्यावर उभा असलेला प्रत्येक जण त्यांना पाहू आणि ऐकू शकेल. मत्तीचे शुभवर्तमान सांगते की त्यांनी त्यांना दृष्टांतांच्या रूपाने पुष्कळ गोष्टी शिकवल्या, दैनंदिन जीवनातून घेतलेल्या छोट्या गोष्टी, ज्या लोक घरी नेऊ शकत आणि मनात घोळवू शकत.\n\nत्यातील पहिला दृष्टांत एका शेतकर्याचा होता. तो अगदी साध्या रीतीने सुरू झाला, एक माणूस पेरणीसाठी बाहेर पडतो. ऐकणार्या प्रत्येकाला ते दृश्य तोंडपाठ होते: धान्याची पिशवी, झुलणारा हात, आणि कधीही पूर्ण सपाट नसलेल्या शेतावर रुंद कमानीत फेकलेले बी. ते शेतकरी, मच्छिमार आणि गावकरी होते, आणि गोष्ट नीट सुरू होण्याआधीच ते पुढे झुकलेले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Seed on every kind of ground",
+    "hi": {
+     "text": "हर तरह की ज़मीन पर बीज",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रत्येक प्रकारच्या जमिनीवर बी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "As the farmer scatters his seed, some of it falls along the path, where the ground is hard-packed and the birds come and eat it. Some falls on rocky ground with only a thin layer of soil. It springs up quickly, but when the sun climbs it is scorched, and because it has no root, it withers away.\n\nSome falls among thorns, which grow up and choke it. Nothing is wrong with the seed in any of these cases. The sower is neither careless nor stingy. He simply throws generously, the way a man throws who trusts that the harvest is worth the risk of waste, and the ground, which varies from place to place, decides what happens next. Anyone who has stood at the edge of a field will recognise how much depends on what lies beneath the surface.",
+    "hi": {
+     "text": "जैसे ही किसान बीज बिखेरता है, उसमें से कुछ रास्ते पर गिरता है, जहाँ ज़मीन सख्त दबी हुई है और पक्षी आकर उसे खा जाते हैं। कुछ पथरीली ज़मीन पर गिरता है जिसमें मिट्टी की केवल पतली परत है। वह जल्दी उग आता है, पर जब सूरज चढ़ता है तो वह झुलस जाता है, और जड़ न होने के कारण सूख जाता है।\n\nकुछ झाड़ियों के बीच गिरता है, जो बढ़कर उसका गला घोंट देती हैं। इन सभी मामलों में बीज में कोई दोष नहीं है। बोने वाला न लापरवाह है न कंजूस। वह बस उदारता से बिखेरता है, जैसे कोई व्यक्ति बिखेरता है जो मानता है कि फसल बर्बादी के जोखिम के लायक है, और ज़मीन, जो एक जगह से दूसरी जगह बदलती है, तय करती है कि आगे क्या होगा। जिसने कभी किसी खेत के किनारे खड़े होकर देखा है, वह जानता है कि सतह के नीचे जो है उस पर कितना निर्भर करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेतकरी बी विखरत असताना त्यातील काही वाटेवर पडते, जिथे जमीन घट्ट दबलेली असते आणि पक्षी येऊन ते खाऊन टाकतात. काही खडकाळ जमिनीवर पडते, जिथे मातीचा फक्त पातळ थर असतो. ते लगेच उगवते, पण सूर्य वर आल्यावर ते करपते, आणि मुळे नसल्यामुळे वाळून जाते.\n\nकाही काटेरी झुडपांत पडते, जी वाढून त्याचा गळा दाबतात. या कोणत्याही प्रकरणात बियाण्यात काही दोष नाही. पेरणारा ना निष्काळजी आहे ना कंजूष. तो फक्त उदारपणे विखरतो, जसा कोणी माणूस विखरतो ज्याला विश्वास असतो की पीक नासाडीच्या धोक्याच्या योग्य आहे, आणि जमीन, जी एका ठिकाणाहून दुसर्या ठिकाणी बदलते, पुढे काय होईल ते ठरवते. शेताच्या काठी उभे राहिलेल्या कोणालाही माहीत आहे की पृष्ठभागाखाली काय आहे यावर किती अवलंबून असते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The good soil",
+    "hi": {
+     "text": "अच्छी मिट्टी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चांगली जमीन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then comes the turn in the story. Other seed falls on good soil, and there it takes hold and yields fruit, some one hundred times as much as was sown, some sixty and some thirty. For a listener who knew how thin an ordinary harvest could be, a hundredfold was almost beyond belief, a picture of astonishing abundance.\n\nJesus ends the parable with a line that was a familiar call in his time: he who has ears to hear, let him hear. It is an invitation more than a command. The story is left open on purpose, like a field after planting, so that each person in the crowd has to ask for themselves which sort of ground they might be, and what might yet grow there. The ordinary eventually produces the astonishing, if only the ground is ready.",
+    "hi": {
+     "text": "अब कहानी में मोड़ आता है। कुछ और बीज अच्छी मिट्टी पर गिरता है, और वहाँ वह जड़ पकड़ता है और फल देता है, कोई सौ गुना, कोई साठ गुना और कोई तीस गुना। जो व्यक्ति जानता था कि साधारण फसल कितनी कम हो सकती है, उसके लिए सौ गुना लगभग अविश्वसनीय था, असाधारण बहुतायत का चित्र।\n\nयीशु दृष्टांत का अंत एक ऐसी पंक्ति से करते हैं जो उनके समय में एक परिचित आह्वान था: जिसके कान सुनने के लिए हों, वह सुन ले। यह आदेश से अधिक एक निमंत्रण है। कहानी जानबूझकर खुली छोड़ी गई है, जैसे बोने के बाद खेत, ताकि भीड़ में से हर व्यक्ति स्वयं पूछे कि वह किस प्रकार की ज़मीन हो सकता है, और वहाँ अभी क्या उग सकता है। साधारण से अंततः असाधारण पैदा होता है, बशर्ते ज़मीन तैयार हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता गोष्टीत वळण येते. काही बी चांगल्या जमिनीवर पडते, आणि तिथे ते मुळे धरते आणि फळ देते, कोणी शंभरपट, कोणी साठपट आणि कोणी तीसपट. साधे पीक किती कमी असू शकते हे माहीत असलेल्या श्रोत्यासाठी शंभरपट जवळजवळ अविश्वसनीय होते, विलक्षण विपुलतेचे चित्र.\n\nयीशू दृष्टांताची सांगता अशा ओळीने करतात जी त्यांच्या काळात एक परिचित आवाहन होती: ज्याला ऐकायला कान आहेत त्याने ऐकावे. हे आज्ञेपेक्षा निमंत्रण अधिक आहे. गोष्ट मुद्दाम खुली ठेवली आहे, पेरणीनंतरच्या शेतासारखी, म्हणजे गर्दीतील प्रत्येकाने स्वतःला विचारावे की तो कोणत्या प्रकारची जमीन असू शकतो, आणि तिथे अजून काय उगवू शकते. साधे शेवटी विलक्षण निर्माण करते, फक्त जमीन तयार असेल तर.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The question and the explanation",
+    "hi": {
+     "text": "प्रश्न और व्याख्या",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रश्न आणि स्पष्टीकरण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Afterwards the disciples came to Jesus and asked why he spoke to the crowds in parables. He answered that the meaning of the Kingdom of Heaven was being opened to them, and that many hear without really listening. Later he explained the story itself, which is one of the few parables whose meaning the Gospels give in full.\n\nThe seed, he said, is the word of the Kingdom. The path stands for the one who hears and does not understand. The rocky ground is the person who receives it with joy but has no root, and falls away when trouble comes. The thorns are the cares of the age and the lure of riches, which choke the word. The good soil is the one who hears, understands and bears fruit. This is a rare case in which the Gospel lays out the meaning of the story itself, and the explanation is worth hearing in full.",
+    "hi": {
+     "text": "बाद में शिष्य यीशु के पास आए और पूछा कि वे भीड़ से दृष्टांतों में क्यों बोलते हैं। उन्होंने उत्तर दिया कि स्वर्ग के राज्य का भेद उन पर खोला जा रहा है, और बहुत से लोग सुनते हैं पर वास्तव में ध्यान नहीं देते। बाद में उन्होंने कहानी की व्याख्या की, जो उन दुर्लभ दृष्टांतों में से है जिनका अर्थ सुसमाचार पूरी तरह देते हैं।\n\nबीज, उन्होंने कहा, राज्य का वचन है। रास्ता उस व्यक्ति का प्रतीक है जो सुनता है पर समझता नहीं। पथरीली ज़मीन वह व्यक्ति है जो आनंद से उसे ग्रहण करता है पर उसमें जड़ नहीं होती, और जब कष्ट आता है तो गिर जाता है। काँटे इस युग की चिंताएँ और धन का लोभ हैं, जो वचन का गला घोंट देते हैं। अच्छी ज़मीन वह है जो सुनती है, समझती है और फल लाती है। यह एक दुर्लभ अवसर है जहाँ सुसमाचार स्वयं कहानी का अर्थ खोलकर रखता है, और उस व्याख्या को पूरा सुनना उचित है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नंतर शिष्य यीशूकडे येऊन विचारतात की ते गर्दीशी दृष्टांतांत का बोलतात. ते म्हणाले की स्वर्गाच्या राज्याचे रहस्य त्यांच्यासाठी उघडले जात आहे, आणि पुष्कळ जण ऐकतात पण खरे लक्ष देत नाहीत. नंतर त्यांनी गोष्टीचे स्पष्टीकरण केले, जी त्या थोड्या दृष्टांतांपैकी आहे ज्यांचा अर्थ शुभवर्तमान पूर्णपणे देते.\n\nबी, ते म्हणाले, राज्याचे वचन आहे. वाट त्या माणसाचे प्रतीक आहे जो ऐकतो पण समजत नाही. खडकाळ जमीन ती व्यक्ती आहे जी आनंदाने ते स्वीकारते पण तिला मूळ नसते, आणि संकट आले की गळून पडते. काटे म्हणजे या युगाच्या चिंता आणि धनाचे आकर्षण, जे वचनाचा गळा दाबतात. चांगली जमीन ती आहे जी ऐकते, समजते आणि फळ देते. ही एक दुर्मिळ घटना आहे जिथे शुभवर्तमान स्वतः गोष्टीचा अर्थ मांडते, आणि त्या स्पष्टीकरणाचे पूर्ण श्रवण करणे योग्य आहे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "How the story is read",
+    "hi": {
+     "text": "यह कहानी कैसे पढ़ी जाती है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ही गोष्ट कशी वाचली जाते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have read this parable as a story about attention and about hope. It does not scold the listener. It describes the real variety of hearts, and it admits that every one of us has been each kind of soil at some time, hardened by a bad week, shallow in our enthusiasm, crowded by worries, and sometimes quiet and open.\n\nThe parable is also kind to the sower, who stands for anyone who offers good words or good deeds to the world and cannot control what happens to them. Readers of any faith may find it consoling. The task is to keep scattering generously, and to tend the ground within ourselves so that what is good can take root, grow slowly and one day feed others. It is as much a story about patient hope as it is about the condition of the listener, and it asks for neither guilt nor pride.",
+    "hi": {
+     "text": "ईसाइयों ने इस दृष्टांत को ध्यान और आशा के विषय पर एक कहानी के रूप में पढ़ा है। यह श्रोता को डाँटता नहीं। यह हृदयों की वास्तविक विविधता का वर्णन करता है, और स्वीकार करता है कि हम में से हर एक किसी समय हर प्रकार की ज़मीन रहा है, किसी बुरे सप्ताह से कठोर, अपने उत्साह में उथला, चिंताओं से भरा, और कभी शांत और खुला।\n\nयह दृष्टांत बोने वाले के प्रति भी दयालु है, जो हर उस व्यक्ति का प्रतीक है जो दुनिया को अच्छे शब्द या अच्छे कर्म देता है और यह नियंत्रित नहीं कर सकता कि उनके साथ क्या होता है। किसी भी धर्म के पाठक इसमें सांत्वना पा सकते हैं। काम यह है कि उदारता से बिखेरते रहें, और अपने भीतर की ज़मीन की देखभाल करें ताकि जो अच्छा है वह जड़ पकड़ सके, धीरे-धीरे बढ़े, और एक दिन दूसरों का पेट भरे। यह जितनी धैर्यपूर्ण आशा की कहानी है उतनी ही श्रोता की स्थिति की भी, और यह न अपराधबोध माँगती है न घमंड।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोकांनी या दृष्टांताला लक्ष आणि आशेविषयीची गोष्ट म्हणून वाचले आहे. ती श्रोत्याला दोष देत नाही. ती हृदयांची खरी विविधता वर्णन करते, आणि कबूल करते की आपल्यापैकी प्रत्येक जण कधी ना कधी प्रत्येक प्रकारची जमीन राहिला आहे, एखाद्या वाईट आठवड्याने कठोर, आपल्या उत्साहात उथळ, चिंतांनी गर्दीने भरलेला, आणि कधी शांत व खुला.\n\nहा दृष्टांत पेरणार्याबद्दलही दयाळू आहे, जो अशा प्रत्येकाचे प्रतीक आहे जो जगाला चांगले शब्द किंवा चांगली कृत्ये देतो आणि त्यांचे पुढे काय होते हे नियंत्रित करू शकत नाही. कोणत्याही धर्माच्या वाचकांना यात सांत्वन मिळू शकते. काम हे आहे की उदारपणे विखरत राहावे, आणि आपल्या आतल्या जमिनीची काळजी घ्यावी, जेणेकरून जे चांगले आहे ते मुळे धरू शकेल, हळूहळू वाढेल, आणि एक दिवस इतरांना पोसेल. ही जितकी संयमी आशेची गोष्ट आहे तितकीच श्रोत्याच्या स्थितीचीही आहे, आणि ती अपराधीपणा किंवा अभिमान दोन्ही मागत नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Others fell on good soil and yielded fruit: some one hundred times as much, some sixty, and some thirty.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 13:8 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 13:8 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 13:8 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "When a good word meets a ready heart, it grows into far more than was first given.",
+   "hi": {
+    "text": "जब एक अच्छा वचन तैयार हृदय से मिलता है, तो वह दी गई वस्तु से कहीं अधिक बढ़ जाता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जेव्हा एक चांगला शब्द तयार हृदयाला भेटतो, तेव्हा तो सुरुवातीला दिलेल्यापेक्षा कितीतरी अधिक वाढतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Which of the four soils best describes how you are right now: hardened, shallow, crowded or open? What is one small thing you could do to make a little more room for what is good?",
+  "hi": {
+   "text": "चार प्रकार की ज़मीनों में से कौन सी तुम्हारी इस समय की हालत का सबसे अच्छा वर्णन करती है: कठोर, उथली, भीड़भाड़ वाली, या खुली? अच्छी चीज़ के लिए थोड़ी और जगह बनाने के लिए तुम कौन सी एक छोटी चीज़ कर सकते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चार प्रकारच्या जमिनींपैकी कोणती सध्या तुमच्या स्थितीचे सर्वोत्तम वर्णन करते: कठोर, उथळ, गर्दीची, की मोकळी? चांगल्या गोष्टीसाठी थोडी अधिक जागा करण्यासाठी तुम्ही कोणती एक छोटी गोष्ट करू शकता?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Goodness is offered generously to everyone, and what it becomes depends on how ready the heart is, a readiness we can tend.",
+  "hi": {
+   "text": "भलाई सभी को उदारता से दी जाती है, और वह क्या बनती है यह इस पर निर्भर करता है कि हृदय कितना तैयार है, और यह तैयारी हम सँवार सकते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चांगुलपणा सर्वांना उदारपणे दिला जातो, आणि तो काय बनतो ते हृदय किती तयार आहे यावर अवलंबून असते, आणि ती तयारी आपण जोपासू शकतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 13:1-23; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 13:1-23 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 13:1-23 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

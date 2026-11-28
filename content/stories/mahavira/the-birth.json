@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-birth",
+ "order": 6,
+ "part": "youth",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Birth",
+  "hi": {
+   "text": "जन्म",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जन्म",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In the middle of a spring night, the child is born in Kshatriyakunda, and the whole sky fills with light and the sound of gods.",
+  "hi": {
+   "text": "वसंत की एक आधी रात में क्षत्रियकुंड में बालक का जन्म होता है, और पूरा आकाश प्रकाश और देवताओं के स्वर से भर उठता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वसंत ऋतूतील एका मध्यरात्री क्षत्रियकुंडात बालकाचा जन्म होतो, आणि संपूर्ण आकाश प्रकाशाने आणि देवतांच्या आवाजाने भरून जाते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-birth.webp",
+   "w": 706,
+   "h": 900,
+   "caption": {
+    "en": "The birth of Mahavira, Kalpa Sutra page (Gujarat, early 16th century)",
+    "hi": {
+     "text": "महावीर का जन्म, कल्पसूत्र का पृष्ठ (गुजरात, 16वीं सदी का आरंभ)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महावीरांचा जन्म, कल्पसूत्राचे पान (गुजरात, १६व्या शतकाचा आरंभ)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jain,_Western_India,_Gujarat,_early_16th_century_-_Page_from_a_Kalpa-sutra-_The_Birth_of_Mahavira_-_1925.1340_-_Cleveland_Museum_of_Art.jpg"
+  },
+  {
+   "src": "/stories/mahavira/m-temple-kundalpur.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Mahavira temple at Kundalpur (birthplace tradition)",
+    "hi": {
+     "text": "कुंडलपुर का महावीर मंदिर (जन्मस्थान की परंपरा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुंडलपूर येथील महावीर मंदिर (जन्मस्थानाची परंपरा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Odantapuribs, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kundalpur_temple_Mahavira.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The middle of the night",
+    "hi": {
+     "text": "रात का मध्य भाग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रात्रीचा मध्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After nine months and seven and a half days, in the first month of summer according to the old Indian calendar, which is the spring month of Chaitra, Trishala gave birth. The Kalpa Sutra says it happened in the middle of the night, when the moon stood in Uttaraphalguni, the same asterism that had marked the descent and the transfer.\n\nIt gives few details of the birth itself, because the sutra says what matters about it in a single line. The mother was perfectly healthy and the boy was perfectly healthy. There is no suffering in the account, no struggle. The text's calendar for this day differs from the one Jains celebrate today as Mahavir Janma Kalyanak, which falls on the thirteenth day of the bright half of Chaitra. Jacobi's translation gives the dark half in the manuscript he used, and the sutra's modern readers are used to setting this small difference aside. What every version agrees on is the hour and the sign.",
+    "hi": {
+     "text": "पुराने भारतीय पंचांग के अनुसार ग्रीष्म के पहले मास में, जो वसंत का चैत्र मास है, नौ मास और साढ़े सात दिन बीतने पर त्रिशला ने जन्म दिया। कल्पसूत्र कहता है कि यह आधी रात को हुआ, जब चंद्रमा उत्तराफाल्गुनी नक्षत्र में था, वही नक्षत्र जो गर्भ-अवतरण और गर्भ-परिवर्तन के समय भी था।\n\nजन्म का विवरण सूत्र में बहुत कम है, क्योंकि जो बात सबसे महत्त्वपूर्ण है उसे वह एक पंक्ति में कह देता है। माता पूर्णतः स्वस्थ थीं और बालक भी पूर्णतः स्वस्थ था। इस वर्णन में कोई पीड़ा या संघर्ष नहीं है। इस दिन की जो तिथि सूत्र में दी गई है, वह उस तिथि से भिन्न है जिसे आज जैन समाज चैत्र शुक्ल त्रयोदशी को महावीर जन्म कल्याणक के रूप में मनाता है। याकोबी के अनुवाद में प्रयुक्त पांडुलिपि में कृष्ण पक्ष लिखा है, और आधुनिक पाठक इस छोटे अंतर को अलग रख देते हैं। सभी पाठ जिस बात पर सहमत हैं, वह है समय और शुभ संकेत।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जुन्या भारतीय पंचांगानुसार ग्रीष्माच्या पहिल्या महिन्यात, म्हणजे वसंताच्या चैत्र महिन्यात, नऊ महिने आणि साडेसात दिवस उलटल्यावर त्रिशलेने जन्म दिला. कल्पसूत्र सांगते की हे मध्यरात्री घडले, जेव्हा चंद्र उत्तराफाल्गुनी नक्षत्रात होता, तेच नक्षत्र जे गर्भावतरण आणि गर्भसंक्रमणाच्या वेळीही होते.\n\nजन्माचे तपशील सूत्रात फार कमी आहेत, कारण जे महत्त्वाचे आहे ते सूत्र एकाच ओळीत सांगते. माता पूर्णपणे निरोगी होती आणि बालकही पूर्णपणे निरोगी होते. या वर्णनात वेदना किंवा संघर्ष नाही. या दिवसाची तिथी सूत्रात दिलेली आहे, ती तिथी आज जैन समाज चैत्र शुद्ध त्रयोदशीला महावीर जन्मकल्याणक म्हणून साजरी करतो तिच्यापेक्षा वेगळी आहे. याकोबींच्या अनुवादात वापरलेल्या हस्तलिखितात कृष्ण पक्ष असा उल्लेख आहे, आणि आधुनिक वाचक हा छोटा फरक बाजूला ठेवतात. सर्व आवृत्त्या ज्यावर सहमत आहेत, ते म्हणजे वेळ आणि शुभ चिन्ह.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Light in the universe",
+    "hi": {
+     "text": "विश्व में प्रकाश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विश्वात प्रकाश",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the night in which the Venerable One was born, the sutra says, there was a divine lustre, made by many gods and goddesses coming down and going up. The whole universe, resplendent with a single light, was filled with the confusion and noise of the gods' gathering.\n\nIt is a picture of the heavens turning toward one small house. The text does not describe a miracle done for a crowd. It describes a movement, many beings in many directions, all arriving at the same place. The sutra uses the same words for each of Mahavira's five great moments: when he is born, when he leaves home, when he attains omniscience, and when he is liberated, the gods again fill the night with light and noise. That regular rhythm is part of what makes the five moments feel like a single event seen from five sides, the way a mountain looks different from each approach.",
+    "hi": {
+     "text": "सूत्र कहता है कि जिस रात पूज्य भगवान का जन्म हुआ, उस रात अनेक देवों और देवियों के उतरने और ऊपर जाने से एक दिव्य प्रभा फैल गई। एक ही प्रकाश से जगमगाता पूरा ब्रह्मांड देवताओं के एकत्र होने की हलचल और कोलाहल से भर गया।\n\nयह स्वर्ग का एक छोटे-से घर की ओर मुड़ने का चित्र है। पाठ किसी भीड़ के लिए किए गए चमत्कार का वर्णन नहीं करता, बल्कि एक गति का वर्णन करता है: अनेक प्राणी अनेक दिशाओं से आते हुए, और सभी एक ही स्थान पर पहुँचते हुए। सूत्र महावीर के पाँचों महान क्षणों के लिए एक ही शब्दावली प्रयोग करता है। जन्म, गृह-त्याग, केवलज्ञान और मोक्ष, इन सभी के समय देवता फिर से रात को प्रकाश और ध्वनि से भर देते हैं। यही नियमित लय इन पाँचों क्षणों को एक ही घटना के पाँच पहलुओं की तरह देखने योग्य बनाती है, जैसे पर्वत हर ओर से अलग दिखता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूत्र सांगते की ज्या रात्री पूज्य भगवानांचा जन्म झाला, त्या रात्री अनेक देव आणि देवींच्या खाली उतरण्याने आणि वर जाण्याने एक दिव्य तेज निर्माण झाले. एकाच प्रकाशाने झळाळणारे संपूर्ण विश्व देवतांच्या मेळाव्याच्या गोंधळाने आणि गोंगाटाने भरून गेले.\n\nहे स्वर्ग एका छोट्या घराकडे वळल्याचे चित्र आहे. पाठ जमावासाठी केलेल्या चमत्काराचे वर्णन करत नाही, तर एका हालचालीचे वर्णन करतो: अनेक दिशांनी येणारे अनेक प्राणी, आणि ते सर्व एकाच ठिकाणी पोहोचत आहेत. सूत्र महावीरांच्या पाच महान क्षणांसाठी एकच शब्दप्रयोग वापरते. जन्म, गृहत्याग, केवलज्ञान आणि मोक्ष, या प्रत्येक वेळी देव पुन्हा रात्र प्रकाशाने आणि आवाजाने भरून टाकतात. हीच नियमित लय या पाच क्षणांना एकाच घटनेच्या पाच बाजू म्हणून पाहता येण्याजोगी बनवते, जसा पर्वत प्रत्येक दिशेने वेगळा दिसतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The rain of riches",
+    "hi": {
+     "text": "धन की वर्षा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संपत्तीचा वर्षाव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "That same night, the text says, many spirits in the service of Vaishramana rained down on King Siddhartha's palace a great shower of silver, gold, diamonds, cloth, ornaments, flowers, fruits, seeds, garlands, perfumes, sandal powder and wealth. The old treasure that had been flowing to the house since the conception now arrived in abundance.\n\nThe four orders of gods, the sutra adds, celebrated the feast of the Tirthankara's birth. Later Jain tradition, in commentaries and in the Digambara and Svetambara literature that grew around the Kalpa Sutra, elaborates this festival into a great ritual: Indra, king of the gods, carries the infant to the summit of Mount Meru, where the gods bathe him with water from the ocean of milk. The Kalpa Sutra itself, in Jacobi's translation, says only that the gods celebrated the festival. The Meru bathing belongs to the later tradition, and Jain temple art shows it often.",
+    "hi": {
+     "text": "उसी रात, पाठ के अनुसार, वैश्रमण की सेवा में लगे अनेक यक्षों ने राजा सिद्धार्थ के महल पर चाँदी, सोना, हीरे, वस्त्र, आभूषण, फूल, फल, बीज, मालाएँ, सुगंधित द्रव्य, चंदन का चूर्ण और धन की बड़ी वर्षा की। गर्भ ठहरने के समय से जो पुराना खजाना घर की ओर बह रहा था, वह अब प्रचुरता से आ पहुँचा।\n\nसूत्र आगे कहता है कि देवों के चारों समूहों ने तीर्थंकर के जन्म का उत्सव मनाया। बाद की जैन परंपरा, जो कल्पसूत्र के आसपास की टीकाओं और दिगंबर तथा श्वेतांबर साहित्य में विकसित हुई, इस उत्सव को एक बड़े अनुष्ठान में बदल देती है: देवराज इंद्र शिशु को सुमेरु पर्वत के शिखर पर ले जाते हैं, जहाँ देवता क्षीरसागर के जल से उसका अभिषेक करते हैं। याकोबी के अनुवाद में कल्पसूत्र केवल इतना कहता है कि देवों ने उत्सव मनाया। सुमेरु पर अभिषेक का वर्णन बाद की परंपरा का है, और जैन मंदिरों की कला में यह दृश्य बार-बार मिलता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याच रात्री, पाठानुसार, वैश्रमणाच्या सेवेतील अनेक यक्षांनी राजा सिद्धार्थाच्या राजवाड्यावर चांदी, सोने, हिरे, वस्त्रे, अलंकार, फुले, फळे, बिया, माळा, सुगंधी द्रव्ये, चंदनाची पूड आणि संपत्ती यांचा मोठा वर्षाव केला. गर्भधारणेपासून घराकडे वाहत आलेला जुना खजिना आता विपुलतेने पोहोचला.\n\nसूत्र पुढे सांगते की देवांच्या चारही समूहांनी तीर्थंकरांच्या जन्माचा उत्सव साजरा केला. नंतरची जैन परंपरा, जी कल्पसूत्राभोवती टीका आणि दिगंबर व श्वेतांबर साहित्यात वाढली, या उत्सवाला मोठ्या विधीचे स्वरूप देते: देवराज इंद्र बालकाला मेरू पर्वताच्या शिखरावर नेतात, जिथे देव क्षीरसागराच्या पाण्याने त्याला स्नान घालतात. याकोबींच्या अनुवादात कल्पसूत्र केवळ इतकेच सांगते की देवांनी उत्सव साजरा केला. मेरूवरील स्नानाचे वर्णन नंतरच्या परंपरेचे आहे, आणि जैन मंदिरांच्या कलेत ते वारंवार दिसते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The king's orders",
+    "hi": {
+     "text": "राजा के आदेश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाची आज्ञा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At daybreak Siddhartha called his town police and gave orders that would have been remembered in Kundapura for a long time. All prisoners were to be set free. Weights and measures were to be increased, which meant that buyers would get more for the same price. The whole town was to be sprinkled with water, swept and smeared fresh, and the squares and crossroads cleaned.\n\nHe had platforms raised, flags and banners hung, painted pavilions set up, and handprints in sandal paste pressed on the walls. Auspicious vases stood at doors and arches, long garlands hung down, and dancers, wrestlers, storytellers, ballad singers and musicians came to the city. The king's first act as the father of a son was not to give a feast for himself. It was to open the prison doors and put a little more into the hands of ordinary buyers. Freedom and generosity came before celebration, and the Jains remember this.",
+    "hi": {
+     "text": "प्रभात होते ही सिद्धार्थ ने अपने नगर-रक्षकों को बुलाया और ऐसे आदेश दिए जो कुंडपुर में लंबे समय तक याद रखे गए। सभी बंदी छोड़ दिए जाने थे। तौल और माप बढ़ाई जानी थी, यानी एक ही मूल्य पर खरीदारों को अधिक मिलना था। पूरे नगर पर जल छिड़का जाना था, उसे बुहारकर ताज़ा लीपा जाना था, और चौराहे तथा चौक साफ किए जाने थे।\n\nउन्होंने मंच बनवाए, ध्वज और पताकाएँ टँगवाईं, रंगीन मंडप लगवाए, और दीवारों पर चंदन के लेप से हाथों की छापें लगवाईं। द्वारों और मेहराबों पर मंगल-कलश रखे गए, लंबी मालाएँ लटकाई गईं, और नर्तक, पहलवान, कथावाचक, गायक और संगीतकार नगर में आए। पुत्र के पिता बनने पर राजा का पहला कार्य अपने लिए भोज देना नहीं था। उसने कारागार के द्वार खोले और साधारण खरीदारों के हाथों में कुछ और अधिक रख दिया। उत्सव से पहले स्वतंत्रता और उदारता आई, और जैन समाज इसे आज भी याद रखता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहाटे सिद्धार्थाने आपल्या नगररक्षकांना बोलावले आणि अशा आज्ञा दिल्या ज्या कुंडपुरात बराच काळ स्मरणात राहिल्या. सर्व कैद्यांना सोडण्यात यावे. वजने आणि मापे वाढवण्यात यावीत, म्हणजे एकाच किमतीत खरेदी करणाऱ्यांना अधिक मिळणार होते. संपूर्ण नगरावर पाणी शिंपडावे, ते झाडून ताजे सारवावे, आणि चौक व चौरस्ते स्वच्छ करावेत.\n\nत्यांनी मंच उभारले, ध्वज आणि पताका लावल्या, रंगवलेले मंडप उभारले, आणि भिंतींवर चंदनाच्या लेपाने हाताचे ठसे उमटवले. दारांवर आणि कमानींवर मंगल कलश ठेवले, लांब माळा लटकवल्या, आणि नर्तक, मल्ल, कथाकार, गायक आणि वादक नगरात आले. पुत्राचा पिता झाल्यावर राजाचे पहिले कृत्य स्वतःसाठी मेजवानी देणे नव्हते. त्याने कारागृहाची दारे उघडली आणि सामान्य खरेदीदारांच्या हातात आणखी थोडे अधिक ठेवले. उत्सवाआधी स्वातंत्र्य आणि उदारता आली, आणि जैन समाज हे आजही लक्षात ठेवतो.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Ten days of joy",
+    "hi": {
+     "text": "दस दिनों का आनंद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहा दिवसांचा आनंद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The festival lasted ten days. Taxes and customs duties were waived, buying and selling stopped, officials were not allowed to enter houses, fines were remitted and debts cancelled. Trumpets, conches, cymbals and drums sounded through the streets. Fresh garlands hung everywhere, and the whole population of the town and the country rejoiced.\n\nWhen the ten days were over, Siddhartha gave and received hundreds and thousands of gifts. The sutra says he also made offerings to the gods. For ten days no one in Kundapura owed anyone anything, and no one bought or sold. The text does not say who the festival was for, but it is clear that it was for everyone. The child had been born into a clan called the Jnatris, in a town the Kalpa Sutra calls Kundapura, in the land of Videha, and from the first day the people around him gave in to joy without keeping accounts.",
+    "hi": {
+     "text": "उत्सव दस दिन चला। कर और चुंगी माफ़ कर दिए गए, क्रय-विक्रय रुक गया, अधिकारियों को घरों में प्रवेश की अनुमति नहीं थी, दंड क्षमा किए गए और ऋण रद्द कर दिए गए। गलियों में तुरही, शंख, झाँझ और ढोल बजते रहे। हर ओर ताज़ा मालाएँ लटकीं, और नगर तथा पूरे देश के लोग आनंद मनाते रहे।\n\nदस दिन पूरे होने पर सिद्धार्थ ने सैकड़ों और हज़ारों उपहार दिए और प्राप्त किए। सूत्र कहता है कि उन्होंने देवताओं को भी भेंट चढ़ाई। दस दिनों तक कुंडपुर में कोई किसी का ऋणी नहीं रहा, और न कोई खरीदता-बेचता रहा। पाठ यह नहीं बताता कि उत्सव किसके लिए था, पर यह स्पष्ट है कि वह सबके लिए था। बालक का जन्म ज्ञातृ नामक कुल में हुआ था, विदेह देश के कुंडपुर नगर में, जैसा कल्पसूत्र उसे कहता है, और पहले ही दिन से उसके आसपास के लोग हिसाब रखे बिना आनंद में डूब गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उत्सव दहा दिवस चालला. कर आणि जकात माफ करण्यात आली, खरेदी-विक्री थांबली, अधिकाऱ्यांना घरांमध्ये प्रवेश नव्हता, दंड माफ झाले आणि कर्जे रद्द झाली. रस्त्यांवर तुतारी, शंख, झांजा आणि ढोल वाजत राहिले. सर्वत्र ताज्या माळा लटकल्या, आणि नगर व संपूर्ण देशातील लोक आनंदात होते.\n\nदहा दिवस संपल्यावर सिद्धार्थाने शेकडो आणि हजारो भेटवस्तू दिल्या आणि घेतल्या. सूत्र सांगते की त्यांनी देवांनाही नैवेद्य अर्पण केला. दहा दिवस कुंडपुरात कोणीही कोणाचे देणे लागत नव्हते, आणि कोणीही खरेदी-विक्री करत नव्हते. हा उत्सव कोणासाठी होता हे पाठ सांगत नाही, पण तो सर्वांसाठी होता हे स्पष्ट आहे. बालकाचा जन्म ज्ञातृ नावाच्या कुळात झाला होता, विदेह देशातील, कल्पसूत्र ज्याला कुंडपुर म्हणते त्या नगरात, आणि पहिल्या दिवसापासून त्याच्या भोवतालचे लोक हिशेब न ठेवता आनंदात बुडाले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "In that night in which the Venerable Ascetic Mahavira was born, there was a divine lustre originated by many descending and ascending gods and goddesses",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §97 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §97 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §97 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "On the night of his birth the heavens themselves are described as full of light and movement.",
+   "hi": {
+    "text": "जन्म की रात को स्वर्ग भी प्रकाश और गति से भरा हुआ बताया गया है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्या रात्री त्यांचा जन्म झाला, त्या रात्री स्वर्गही प्रकाश आणि हालचालींनी भरलेले असल्याचे वर्णन आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "If you could mark a new beginning by setting someone free or cancelling a debt, what would you choose?",
+  "hi": {
+   "text": "यदि तुम किसी को मुक्त करके या ऋण रद्द करके कोई नई शुरुआत चिह्नित कर सकते, तो तुम क्या चुनते?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जर तू एखाद्याला मुक्त करून किंवा कर्ज रद्द करून नव्या सुरुवातीची खूण करू शकलास, तर तू काय निवडशील?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A celebration that begins with freedom and fairness shows what kind of joy is worth sharing.",
+  "hi": {
+   "text": "जो उत्सव स्वतंत्रता और न्याय से शुरू होता है, वही दिखाता है कि किस प्रकार का आनंद बाँटने योग्य है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्या उत्सवाची सुरुवात स्वातंत्र्याने आणि न्यायाने होते, तोच दाखवतो की कोणता आनंद वाटण्यासारखा आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§96–103; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§96–103; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§96–103; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-rich-fool",
+ "order": 22,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Rich Fool",
+  "hi": {
+   "text": "मूर्ख धनवान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मूर्ख श्रीमंत",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A farmer with a record harvest plans to build bigger barns and relax, but he does not live to see the plan through.",
+  "hi": {
+   "text": "एक किसान की फसल रिकॉर्ड स्तर पर होती है, वह बड़े गोदाम बनवाकर आराम करने की योजना बनाता है, पर वह अपनी योजना पूरी होते नहीं देख पाता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एका शेतकर्याचे उत्पन्न विक्रमी होते, तो मोठी कोठारे बांधून आरामात राहण्याची योजना करतो, पण ती योजना पूर्ण होताना तो पाहू शकत नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-rich-fool-rembrandt.webp",
+   "w": 1200,
+   "h": 892,
+   "caption": {
+    "en": "A rich man counting his wealth by candlelight, Rembrandt",
+    "hi": {
+     "text": "मोमबत्ती की रोशनी में धन गिनता धनवान, रेम्ब्रांट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मेणबत्तीच्या प्रकाशात संपत्ती मोजणारा श्रीमंत, रेम्ब्रांट",
+     "reviewed": false
+    }
+   },
+   "credit": "Rembrandt, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Parable_of_the_Rich_Fool.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A dispute over an inheritance",
+    "hi": {
+     "text": "विरासत पर विवाद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वारशावरून वाद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the Gospel of Luke, Jesus is teaching a large crowd when a man calls out to him, Teacher, tell my brother to divide the inheritance with me. It is a family quarrel over property, the sort of dispute that was often taken to a respected teacher to settle. Jesus declines the role. Man, he says, who made me a judge or an arbitrator over you?\n\nInstead he turns to the crowd with a warning. Beware, he says, and keep yourselves from covetousness, for a person's life does not consist of the abundance of his possessions. Then, to bring the point home, he tells a story about a rich man, the kind of person that the man in the crowd, and most of the others, might secretly have wished to be. Jesus does not accuse the man of anything; he simply uses the moment to ask what a life consists of.",
+    "hi": {
+     "text": "लूका के सुसमाचार में यीशु एक बड़ी भीड़ को शिक्षा दे रहे हैं, तभी एक व्यक्ति पुकारता है, गुरु, मेरे भाई से कहिए कि विरासत मेरे साथ बाँटे। यह संपत्ति पर पारिवारिक झगड़ा है, ऐसा विवाद जिसे अक्सर किसी सम्मानित शिक्षक के पास सुलझाने के लिए ले जाया जाता था। यीशु यह भूमिका लेने से इनकार करते हैं। हे मनुष्य, वे कहते हैं, किसने मुझे तुम्हारा न्यायी या मध्यस्थ ठहराया है?\n\nइसके बजाय वे भीड़ को चेतावनी देते हैं। सावधान रहो, वे कहते हैं, और हर प्रकार के लोभ से अपने को बचाए रखो, क्योंकि किसी मनुष्य का जीवन उसकी संपत्ति की बहुतायत से नहीं बनता। फिर बात को समझाने के लिए वे एक धनवान व्यक्ति की कहानी सुनाते हैं, ऐसे व्यक्ति जैसा वह आदमी, और भीड़ के अधिकांश लोग, मन ही मन बनना चाहते होंगे। यीशु उस पर कोई आरोप नहीं लगाते; वे बस उस क्षण का उपयोग यह पूछने के लिए करते हैं कि जीवन किससे बनता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूकाच्या शुभवर्तमानात यीशू मोठ्या जमावाला शिकवत असताना एक माणूस हाक मारतो, गुरुजी, माझ्या भावाला सांगा की वारसा माझ्याबरोबर वाटून घ्यावा. हा मालमत्तेवरून कौटुंबिक भांडण आहे, असा वाद जो अनेकदा आदरणीय शिक्षकाकडे मिटवण्यासाठी नेला जाई. यीशू ती भूमिका घेण्यास नकार देतात. हे मानवा, ते म्हणतात, मला तुमच्यावर न्यायाधीश किंवा मध्यस्थ कोणी नेमले आहे?\n\nत्याऐवजी ते जमावाला इशारा देतात. सावध राहा, ते म्हणतात, आणि सर्व प्रकारच्या लोभापासून स्वतःला जपा, कारण माणसाचे जीवन त्याच्या संपत्तीच्या विपुलतेने बनत नाही. मग ही गोष्ट स्पष्ट करण्यासाठी ते एका श्रीमंत माणसाची कथा सांगतात, असा माणूस जसा जमावातील तो माणूस, आणि बहुतेक इतर लोक, मनातून बनू इच्छित असतील. यीशू त्याच्यावर कोणताही आरोप करत नाहीत; ते फक्त त्या क्षणाचा उपयोग करून विचारतात की जीवन कशाने बनते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "An abundant harvest",
+    "hi": {
+     "text": "भरपूर फसल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भरघोस पीक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The ground of a certain rich man produced abundantly. The story does not say that he was dishonest, cruel or lazy. His good fortune seems to have come from good land and good weather, and there is nothing wrong in the harvest itself. In an age when famine was a real threat, a bumper crop would have been welcome news to any household.\n\nBut the harvest brings a problem. He reasons within himself, What shall I do, because I have no place to store my crops? The word he uses over and over is I. There is no one else in the scene, no family, no servants, no neighbours and no poor, and no mention of God. He is talking only to himself, and the reader notices how small and closed that conversation is.",
+    "hi": {
+     "text": "एक धनवान व्यक्ति की ज़मीन में बहुत अधिक उपज हुई। कहानी यह नहीं कहती कि वह बेईमान, निर्दयी या आलसी था। उसका सौभाग्य अच्छी ज़मीन और अच्छे मौसम से आया लगता है, और फसल में ही कुछ गलत नहीं है। ऐसे युग में जब अकाल एक वास्तविक खतरा था, भरपूर फसल किसी भी घर के लिए स्वागत योग्य समाचार होती।\n\nपर फसल एक समस्या भी लाती है। वह मन में विचार करता है, मैं क्या करूँ, क्योंकि मेरे पास अपनी उपज रखने की जगह नहीं है? वह शब्द जो वह बार-बार प्रयोग करता है वह है मैं। दृश्य में कोई और नहीं है, न परिवार, न सेवक, न पड़ोसी, न गरीब, और परमेश्वर का कोई उल्लेख नहीं। वह केवल अपने आप से बात कर रहा है, और पाठक देखता है कि वह बातचीत कितनी छोटी और बंद है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका श्रीमंत माणसाच्या शेतात भरघोस उत्पन्न झाले. कथा सांगत नाही की तो अप्रामाणिक, क्रूर किंवा आळशी होता. त्याचे नशीब चांगल्या जमिनीतून आणि चांगल्या हवामानातून आलेले दिसते, आणि पिकात स्वतःमध्ये काही चुकीचे नाही. दुष्काळ हा खरा धोका असलेल्या काळात भरघोस पीक कोणत्याही घरासाठी स्वागतार्ह बातमी ठरली असती.\n\nपण पीक एक समस्याही आणते. तो मनात विचार करतो, मी काय करू, कारण माझे उत्पन्न ठेवायला माझ्याजवळ जागा नाही? तो वारंवार वापरतो तो शब्द आहे मी. दृश्यात दुसरे कोणीही नाही, ना कुटुंब, ना सेवक, ना शेजारी, ना गरीब, आणि देवाचा कोणताही उल्लेख नाही. तो फक्त स्वतःशी बोलत आहे, आणि वाचकाच्या लक्षात येते की ते संभाषण किती लहान आणि बंद आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Bigger barns",
+    "hi": {
+     "text": "बड़े गोदाम",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मोठी कोठारे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He quickly finds an answer. I will pull down my barns and build bigger ones, and there I will store all my grain and my goods. It is a sensible plan, and a man who thought this way would hardly be thought a fool by his neighbours. He is planning for the future, as any prudent person would.\n\nThen he turns to his soul and says, Soul, you have many goods laid up for many years. Take your ease, eat, drink and be merry. The picture is one of complete satisfaction. He has security, comfort and time, and he imagines years of rest stretching before him, with his needs met and nothing to worry about. Nothing in his reasoning allows for the possibility that he might be wrong. It is the language of a man who has settled everything and feels entirely secure in his own arrangements.",
+    "hi": {
+     "text": "वह तुरंत एक उत्तर खोज लेता है। मैं अपने गोदामों को तोड़कर और बड़े बनवाऊँगा, और वहाँ अपना सारा अन्न और अपनी सारी वस्तुएँ रखूँगा। यह एक समझदारी भरी योजना है, और इस तरह सोचने वाले व्यक्ति को उसके पड़ोसी शायद ही मूर्ख मानते। वह भविष्य की योजना बना रहा है, जैसा कोई भी विवेकशील व्यक्ति करता।\n\nफिर वह अपनी आत्मा से कहता है, हे मेरी आत्मा, तेरे लिए बहुत वर्षों के लिए बहुत सा माल रखा है। अब चैन कर, खा-पी और आनंद मना। चित्र पूर्ण संतुष्टि का है। उसके पास सुरक्षा है, सुख-सुविधा है, और समय है, और वह आने वाले वर्षों के आराम की कल्पना करता है, जिसमें उसकी ज़रूरतें पूरी हैं और चिंता करने को कुछ नहीं। उसके तर्क में इस संभावना के लिए कोई जगह नहीं कि वह गलत हो सकता है। यह उस व्यक्ति की भाषा है जिसने सब कुछ तय कर लिया है और अपनी ही व्यवस्थाओं में पूरी तरह सुरक्षित महसूस करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो लगेच एक उत्तर शोधतो. मी माझी कोठारे पाडून मोठी बांधीन, आणि तिथे माझे सर्व धान्य आणि माल साठवीन. ही एक समजूतदार योजना आहे, आणि अशा प्रकारे विचार करणार्या माणसाला त्याचे शेजारी क्वचितच मूर्ख समजतील. तो भविष्याची योजना आखत आहे, जसा कोणताही विवेकी माणूस करेल.\n\nमग तो आपल्या जिवाला म्हणतो, हे माझ्या जिवा, तुझ्यासाठी अनेक वर्षांकरिता पुष्कळ माल ठेवला आहे. आता विसावा घे, खा, प्या आणि आनंद कर. चित्र पूर्ण समाधानाचे आहे. त्याला सुरक्षितता, सुखसोयी आणि वेळ आहे, आणि तो पुढे पसरलेल्या विश्रांतीच्या वर्षांची कल्पना करतो, ज्यात त्याच्या गरजा पूर्ण आहेत आणि चिंता करण्यासारखे काही नाही. त्याच्या तर्कात तो चुकू शकतो या शक्यतेला जागा नाही. हे अशा माणसाची भाषा आहे ज्याने सर्व काही ठरवले आहे आणि आपल्याच व्यवस्थांमध्ये पूर्णपणे सुरक्षित वाटते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Tonight",
+    "hi": {
+     "text": "आज की रात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आजची रात्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then comes the interruption. But God said to him, You foolish one, tonight your soul is required of you. The things you have prepared, whose will they be? In one stroke, the plan of many years is cut down to a single night, and the man who spoke so confidently of the future finds that he has no control over it.\n\nJesus closes with a sentence addressed to his listeners. So is he who lays up treasure for himself, and is not rich toward God. The man's mistake, as the story tells it, is not that he saved or planned. It is that his whole sense of security rested on what he owned, and that he never thought to be generous or to ask what his life was for. The sentence leaves the reader with a question that no amount of planning can quietly set aside.",
+    "hi": {
+     "text": "फिर बाधा आती है। पर परमेश्वर ने उससे कहा, हे मूर्ख, आज की रात तेरा प्राण तुझसे ले लिया जाएगा। जो कुछ तूने तैयार किया है, वह अब किसका होगा? एक ही झटके में कई वर्षों की योजना एक रात तक सिमट जाती है, और जो व्यक्ति भविष्य के बारे में इतने भरोसे से बोल रहा था, वह पाता है कि उस पर उसका कोई नियंत्रण नहीं।\n\nयीशु अपने श्रोताओं को संबोधित एक वाक्य से समाप्त करते हैं। जो व्यक्ति अपने लिए धन जोड़ता है और परमेश्वर के प्रति धनवान नहीं है, उसकी भी यही दशा होती है। कथा के अनुसार उस व्यक्ति की गलती यह नहीं थी कि उसने बचत की या योजना बनाई। गलती यह थी कि उसकी पूरी सुरक्षा की भावना उसकी संपत्ति पर टिकी थी, और उसने कभी उदार होने या यह पूछने का नहीं सोचा कि उसका जीवन किसलिए है। यह वाक्य पाठक को एक ऐसे प्रश्न के साथ छोड़ता है जिसे कोई भी योजना चुपचाप टाल नहीं सकती।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग व्यत्यय येतो. पण देव त्याला म्हणाला, अरे मूर्खा, आज रात्रीच तुझा जीव तुझ्यापासून मागितला जाईल. तू जे काही तयार करून ठेवले आहेस, ते कोणाचे होईल? एकाच झटक्यात अनेक वर्षांची योजना एका रात्रीवर येऊन थांबते, आणि भविष्याविषयी इतक्या आत्मविश्वासाने बोलणारा माणूस पाहतो की त्यावर त्याचे काहीच नियंत्रण नाही.\n\nयीशू आपल्या श्रोत्यांना उद्देशून एक वाक्य बोलून समाप्त करतात. जो स्वतःसाठी धन साठवतो आणि देवाच्या दृष्टीने धनवान नाही, त्याची हीच अवस्था होते. कथा सांगते त्यानुसार त्या माणसाची चूक ही बचत किंवा नियोजन करणे नव्हती. चूक ही होती की त्याची सर्व सुरक्षिततेची भावना त्याच्या मालकीच्या गोष्टींवर उभी होती, आणि उदार होण्याचा किंवा आपले जीवन कशासाठी आहे असा प्रश्न विचारण्याचा त्याने कधी विचारही केला नाही. हे वाक्य वाचकाला असा प्रश्न घेऊन सोडते, जो कोणतेही नियोजन शांतपणे बाजूला ठेवू शकत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What makes a life rich",
+    "hi": {
+     "text": "जीवन को धनी कौन बनाता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जीवन कशामुळे श्रीमंत होते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have read the parable as a warning against making possessions the centre of life, and as an invitation to be rich toward God, which they take to mean generous, grateful and mindful of others. The farmer might have used his surplus to feed the hungry, and the story hints at what he missed by showing a man with no one to share it with.\n\nIt is also a reminder that is easy to accept in theory and hard to live by. Readers of every tradition know that life is uncertain, and that abundance can quiet our awareness of that fact. The parable does not condemn good harvests. It asks what we will do with them, and whether our plans have room for others and for the possibility that tomorrow is not ours to count on.",
+    "hi": {
+     "text": "ईसाइयों ने इस दृष्टांत को संपत्ति को जीवन का केंद्र बनाने के विरुद्ध चेतावनी के रूप में पढ़ा है, और परमेश्वर के प्रति धनवान होने के आह्वान के रूप में भी, जिसका अर्थ उन्होंने उदार, कृतज्ञ और दूसरों के प्रति सजग होना समझा है। किसान अपने अतिरिक्त अन्न से भूखों को खिला सकता था, और कहानी यह संकेत देती है कि उसने क्या खो दिया, यह दिखाकर कि उसके पास बाँटने के लिए कोई नहीं है।\n\nयह एक ऐसी याद दिलाने वाली बात भी है जिसे सिद्धांत में स्वीकार करना आसान है और जीना कठिन। हर परंपरा के पाठक जानते हैं कि जीवन अनिश्चित है, और प्रचुरता हमारी इस जागरूकता को शांत कर सकती है। दृष्टांत अच्छी फसलों की निंदा नहीं करता। वह पूछता है कि हम उनका क्या करेंगे, और क्या हमारी योजनाओं में दूसरों के लिए और इस संभावना के लिए जगह है कि कल हमारा नहीं है, जिस पर हम भरोसा कर सकें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोकांनी हा दृष्टांत संपत्तीला जीवनाचा केंद्र बनवण्याविरुद्ध इशारा म्हणून वाचला आहे, आणि देवाच्या दृष्टीने धनवान होण्याचे आवाहन म्हणूनही, ज्याचा अर्थ त्यांनी उदार, कृतज्ञ आणि इतरांबद्दल जागरूक असणे असा घेतला आहे. शेतकरी आपल्या अतिरिक्त धान्याने भुकेल्यांना खाऊ घालू शकला असता, आणि कथा ज्याच्याबरोबर वाटून घ्यावे असे कोणीच नसलेला माणूस दाखवून त्याने काय गमावले याचा इशारा देते.\n\nही अशी आठवण आहे जी सिद्धांतात स्वीकारणे सोपे आणि जगण्यात कठीण आहे. प्रत्येक परंपरेच्या वाचकांना माहीत आहे की जीवन अनिश्चित आहे, आणि विपुलता आपल्याला ही जाणीव विसरायला लावू शकते. दृष्टांत चांगल्या पिकांचा निषेध करत नाही. तो विचारतो की आपण त्यांचे काय करू, आणि आपल्या योजनांमध्ये इतरांसाठी जागा आहे का, आणि उद्या आपले आहे असे गृहीत धरण्याच्या बाबतीत आपण सावध आहोत का.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "You foolish one, tonight your soul is required of you. The things which you have prepared—whose will they be?",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 12:20 (World English Bible)",
+   "hi": {
+    "text": "लूका 12:20 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 12:20 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "God reminds the rich man that his careful plans cannot guarantee his own life.",
+   "hi": {
+    "text": "परमेश्वर धनवान को याद दिलाता है कि उसकी सावधान योजनाएँ उसके अपने जीवन की गारंटी नहीं दे सकतीं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "देव श्रीमंत माणसाला आठवण करून देतो की त्याच्या काळजीपूर्वक केलेल्या योजना त्याच्या स्वतःच्या जीवनाची हमी देऊ शकत नाहीत.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What are you storing up for yourself, and for whom? What would it look like to be a little more generous with what you already have?",
+  "hi": {
+   "text": "तुम अपने लिए क्या जमा कर रहे हो, और किसके लिए? जो कुछ तुम्हारे पास पहले से है उसमें थोड़ा और उदार होना कैसा दिखेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही स्वतःसाठी काय साठवत आहात, आणि कोणासाठी? तुमच्याकडे जे आधीच आहे त्यात थोडे अधिक उदार होणे कसे दिसेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A life is not measured by what it holds, so the wise use abundance generously and do not mistake it for security.",
+  "hi": {
+   "text": "जीवन को उसके पास जो है उससे नहीं आँका जाता, इसलिए बुद्धिमान लोग प्रचुरता का उपयोग उदारता से करते हैं और उसे सुरक्षा समझने की भूल नहीं करते।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जीवन त्याच्याजवळ काय आहे त्यावरून मोजले जात नाही, म्हणून शहाणे लोक विपुलतेचा उपयोग उदारपणे करतात आणि तिला सुरक्षितता समजत नाहीत.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 12:13-21; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 12:13-21 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 12:13-21 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

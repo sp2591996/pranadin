@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-gift-of-jetavana",
+ "order": 20,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Gift of Jetavana",
+  "hi": {
+   "text": "जेतवन का दान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेतवनाचे दान",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A garden bought with gold is poured out as a gift from a golden pitcher, and the king of Kosala comes to listen and is taught how a king should rule.",
+  "hi": {
+   "text": "सोने से खरीदा गया उपवन एक स्वर्ण-कलश से दान के रूप में अर्पित होता है, और कोसल का राजा सुनने आता है और सीखता है कि एक राजा को कैसे शासन करना चाहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सोन्याने विकत घेतलेले उपवन सोन्याच्या कलशातून दान म्हणून अर्पण होते, आणि कोसलचा राजा ऐकायला येतो व राजाने कसे शासन करावे हे शिकतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-jetavana-1.webp",
+   "w": 1200,
+   "h": 908,
+   "caption": {
+    "en": "Anathapindika buys the Jetavana grove, relief",
+    "hi": {
+     "text": "अनाथपिंडिक जेतवन खरीदते हैं, शिल्प",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनाथपिंडिक जेतवन विकत घेतात, शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "Anandajoti, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:095_Anathapindaka_Buys_Jetavana_and_Offers_it_to_Buddha.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The garden made ready",
+    "hi": {
+     "text": "तैयार होता उपवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तयार होणारे उपवन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When his work among the people of Kapilavastu was done, the Buddha went with his great company to the country of Kosala, where King Prasenajit ruled. The garden of Jeta had been fully adorned by then, with its halls and courts carefully prepared. Fountains and streams ran through it, and it glittered with flowers and fruit. Rare birds sat by the pools and sang in sweet concord, each according to its kind. The poet says it was as beautiful as the palace on Mount Kailasa.\n\nThe merchant, the friend of the orphans, had come out with his attendants to meet the Buddha on the way, scattering flowers and burning incense. He invited the lord to enter the garden. The poem is spare about the work behind this day. The gold on the ground, the quarrel and the building belong to the previous canto. Here the garden is finished, and what is left is the giving of it, in the old manner of the country.",
+    "hi": {
+     "text": "कपिलवस्तु के लोगों के बीच अपना कार्य पूरा करके बुद्ध अपने विशाल संघ के साथ कोसल देश गए, जहाँ राजा प्रसेनजित शासन करते थे। जेत का उपवन तब तक पूरी तरह सजाया जा चुका था, उसके भवन और आँगन सावधानी से तैयार थे। उसमें फव्वारे और झरने बह रहे थे, और वह फूलों और फलों से जगमगा रहा था। दुर्लभ पक्षी जलाशयों के पास बैठकर अपनी-अपनी जाति के अनुसार मधुर स्वर में गा रहे थे। कवि कहते हैं कि वह कैलास पर्वत के महल जितना सुंदर था।\n\nगृहस्थ, अनाथों के मित्र, मार्ग में बुद्ध से मिलने अपने अनुचरों के साथ निकले, फूल बिखेरते और धूप जलाते हुए। उन्होंने प्रभु से उपवन में प्रवेश करने की विनती की। काव्य इस दिन के पीछे के कार्य के बारे में संक्षिप्त है। भूमि पर बिछे स्वर्ण, झगड़ा और निर्माण पिछले सर्ग के हिस्से हैं। यहाँ उपवन तैयार है, और जो शेष है वह उसका दान है, देश की पुरानी रीति से।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कपिलवस्तूतील लोकांमधील आपले कार्य पूर्ण करून बुद्ध आपल्या मोठ्या संघासह कोसल देशात गेले, जिथे राजा प्रसेनजित राज्य करत होता. जेताचे उपवन तोपर्यंत पूर्णपणे सजवलेले होते, त्यातील भवने आणि अंगणे काळजीपूर्वक तयार केली होती. त्यात कारंजे आणि झरे वाहत होते, आणि ते फुलांनी व फळांनी झगमगत होते. दुर्मिळ पक्षी तलावांजवळ बसून आपापल्या जातीनुसार मधुर स्वरात गात होते. कवी म्हणतात की ते कैलास पर्वतावरील महालासारखे सुंदर होते.\n\nगृहस्थ, अनाथांचा मित्र, वाटेत बुद्धांना भेटण्यासाठी आपल्या सेवकांसह निघाला, फुले उधळत आणि धूप जाळत. त्याने प्रभूंना उपवनात प्रवेश करण्याची विनंती केली. काव्य त्या दिवसामागील कामाबद्दल फारसे सांगत नाही. जमिनीवर पसरलेले सोने, वाद आणि बांधकाम हे मागील सर्गाचे भाग आहेत. इथे उपवन तयार आहे, आणि उरले आहे ते त्याचे दान, देशाच्या जुन्या रीतीने.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The pouring of water",
+    "hi": {
+     "text": "जल बहाने का संकेत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाणी ओतण्याचा संकेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In his hand the merchant carried a golden pitcher in the shape of a dragon. He bent low upon his knees and poured out the water. This was the sign of the gift, and by it he gave Jetavana as a monastery for the use of the community of monks throughout the world. The Buddha received it and made a prayer. May it overrule all evil influences, he said, and give the kingdom permanent rest, and may the happiness of Anathapindada flow out in countless streams.\n\nOld stone carvings at Bharhut show the scene, with a figure carrying a pitcher in the act of pouring, and the wheel marking the place where the teaching was given. The translator notes that the Chinese word he renders as prayer may mean no more than earnest desire coming from the heart. The giving was made in the plainest way, with water running from a pitcher onto the ground, a gesture that anyone could understand, made for a purpose that outlasted the man who made it.",
+    "hi": {
+     "text": "सेठ के हाथ में एक स्वर्ण-कलश था, जिसका आकार ड्रैगन जैसा था। वह घुटनों के बल झुका और उसने जल बहाया। यही दान का संकेत था, और इसके द्वारा उसने जेतवन को संसार भर के भिक्षुओं के संघ के उपयोग के लिए विहार के रूप में अर्पित किया। बुद्ध ने उसे स्वीकार किया और एक प्रार्थना की। यह सब बुरे प्रभावों को दूर करे, उन्होंने कहा, और राज्य को स्थायी शांति दे, और अनाथपिंडक का आनंद अनगिनत धाराओं में बहे।\n\nभरहुत के प्राचीन पाषाण-शिल्प में यह दृश्य दिखाया गया है, जिसमें एक आकृति कलश से जल बहाती है, और धर्मचक्र उस स्थान को चिह्नित करता है जहाँ उपदेश दिया गया था। अनुवादक नोट करते हैं कि चीनी शब्द, जिसका वे प्रार्थना के रूप में अनुवाद करते हैं, केवल हृदय से आई हार्दिक इच्छा का अर्थ रख सकता है। दान सबसे सादे ढंग से दिया गया था, कलश से भूमि पर बहता जल, एक ऐसा संकेत जिसे हर कोई समझ सकता था, एक ऐसे उद्देश्य के लिए जो उसे देने वाले व्यक्ति से भी अधिक काल तक टिका।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रेष्ठीच्या हातात ड्रॅगनच्या आकाराचा एक सोन्याचा कलश होता. तो गुडघ्यांवर वाकला आणि त्याने पाणी ओतले. हा दानाचा संकेत होता, आणि त्याद्वारे त्याने जेतवन संपूर्ण जगातील भिक्षूंच्या संघाच्या उपयोगासाठी विहार म्हणून अर्पण केले. बुद्धांनी ते स्वीकारले आणि एक प्रार्थना केली. हे वाईट प्रभाव दूर करो, ते म्हणाले, आणि राज्याला कायमची शांती देवो, आणि अनाथपिंडकाचा आनंद अनंत प्रवाहांत वाहो.\n\nभरहूतमधील प्राचीन दगडी शिल्पात हा प्रसंग दाखवला आहे, ज्यात एक आकृती कलशातून पाणी ओतताना दिसते, आणि धर्मचक्र त्या जागेचे चिन्ह आहे जिथे उपदेश दिला गेला. अनुवादक नोंदवतात की ज्या चिनी शब्दाचे ते प्रार्थना म्हणून भाषांतर करतात, त्याचा अर्थ केवळ मनापासूनची हार्दिक इच्छा इतकाच असू शकतो. दान अत्यंत साध्या पद्धतीने दिले गेले, कलशातून जमिनीवर वाहणारे पाणी, एक असे चिन्ह जे कोणालाही समजू शकत होते, आणि एका अशा उद्देशासाठी जो देणाऱ्या माणसापेक्षा अधिक काळ टिकला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The king comes to listen",
+    "hi": {
+     "text": "राजा सुनने आता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा ऐकायला येतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Prasenajit heard that the Buddha had come. He went to the garden with his royal retinue to worship at his feet, took a seat on one side, and spoke with his hands clasped. How fortunate, he said, that my unworthy and obscure kingdom should suddenly meet such good fortune. How can misfortune or calamity affect it, in the presence of so great a man? He compared an assembly to a town, in which people of high and low rank can both enter the same stream, and to a breeze that carries the scent of a whole grove.\n\nHe went on. An assembly may be made of persons of very different capacities, each of little account, and still be a glorious body. Worldly profit is fleeting and perishable, but holy profit is eternal and cannot be used up. A man, though a king, is full of trouble, but a common man who is holy has everlasting rest. The Buddha, who knew the state of the king's heart, saw two weights upon it, too great a love of money and too great a love of outward pleasures.",
+    "hi": {
+     "text": "राजा प्रसेनजित ने सुना कि बुद्ध आए हैं। वह अपने राजसी परिवार के साथ उपवन में गया, उनके चरणों में नमस्कार करने, एक ओर बैठा, और हाथ जोड़कर बोला। कितना सौभाग्य है, उसने कहा, कि मेरे अयोग्य और छोटे राज्य को अचानक ऐसे महान व्यक्ति का योग मिला। ऐसे महापुरुष की उपस्थिति में कोई विपत्ति या संकट इस पर कैसे आ सकता है? उसने सभा की तुलना एक नगर से की, जिसमें ऊँचे और नीचे पद के लोग एक ही धारा में प्रवेश कर सकते हैं, और एक ऐसी हवा से जो पूरे उपवन की सुगंध ले जाती है।\n\nवह आगे बोला। सभा ऐसे लोगों से बन सकती है जिनकी क्षमताएँ बहुत भिन्न हों, हर एक भले ही छोटा हो, फिर भी वह एक गौरवशाली समुदाय हो सकती है। सांसारिक लाभ क्षणभंगुर और नश्वर है, पर धार्मिक लाभ शाश्वत है और कभी समाप्त नहीं होता। मनुष्य, भले ही राजा हो, बहुत चिंताओं से भरा होता है, पर पवित्र सामान्य मनुष्य को अनंत विश्राम मिलता है। बुद्ध, जो राजा के हृदय की अवस्था जानते थे, उसके हृदय पर दो भार देखते थे: धन के प्रति बहुत अधिक प्रेम और बाहरी सुखों के प्रति बहुत अधिक प्रेम।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा प्रसेनजिताने ऐकले की बुद्ध आले आहेत. तो आपल्या राजवैभवासह उपवनात गेला, त्यांच्या चरणी नमस्कार करण्यासाठी, एका बाजूला बसला आणि हात जोडून बोलला. किती सौभाग्य आहे, तो म्हणाला, की माझ्या अयोग्य आणि लहान राज्याला अचानक इतक्या महान व्यक्तीचा संग लाभला. इतक्या महान पुरुषाच्या उपस्थितीत त्यावर कोणते संकट किंवा आपत्ती येऊ शकेल? त्याने सभेची तुलना एका नगराशी केली, जिथे उच्च आणि नीच पदाचे लोक एकाच प्रवाहात प्रवेश करू शकतात, आणि एका अशा वाऱ्याशी जो संपूर्ण उपवनाचा सुगंध वाहून नेतो.\n\nतो पुढे म्हणाला. सभा अशा लोकांची बनू शकते ज्यांची क्षमता अत्यंत भिन्न आहे, प्रत्येकजण भलेही लहान असेल, तरी ती एक गौरवशाली समुदाय ठरू शकते. सांसारिक लाभ क्षणभंगुर आणि नश्वर आहे, पण धार्मिक लाभ शाश्वत आहे आणि कधी संपत नाही. माणूस, जरी राजा असला, तरी अनेक चिंतांनी भरलेला असतो, पण पवित्र सामान्य माणसाला अनंत विश्रांती मिळते. बुद्ध, ज्यांना राजाच्या हृदयाची स्थिती माहीत होती, त्याच्या हृदयावर दोन ओझी पाहत होते: संपत्तीवर खूप प्रेम आणि बाह्य सुखांवर खूप प्रेम.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What a king owes",
+    "hi": {
+     "text": "राजा का कर्तव्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाचे कर्तव्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Buddha began with a gentle point. Even those born in low rank by their past deeds feel reverence when they see a person of virtuous character, he said, so how much more should an independent king, who has gained great merit in earlier lives, feel reverence when he meets a Buddha. A country has more peace for a Buddha's presence. Then he spoke of his own end. My merits are completed, he said, and for me there is no further body or spirit, only freedom from every tie of kin. Our deeds follow us like shadows.\n\nA prince who cherishes his people gains renown in this life and goes to heaven after it, but neglect of duty brings distress now and misery later. He gave two old examples, a king who kept the precepts and was born in heaven, and a king who did wickedly and was born in misery. The great requirement, he told Prasenajit, is a loving heart, looking on the people as one looks on an only son, never oppressing or destroying them, and never raising oneself by treading down the weak.",
+    "hi": {
+     "text": "बुद्ध ने एक कोमल बात से आरंभ किया। जो लोग अपने पूर्व कर्मों से निम्न पद में जन्मे हैं, वे भी किसी सद्गुणी व्यक्तित्व को देखकर श्रद्धा अनुभव करते हैं, उन्होंने कहा, तो फिर वह स्वतंत्र राजा, जिसने पूर्व जन्मों में महान पुण्य अर्जित किया है, जब बुद्ध से मिलता है तो कितनी अधिक श्रद्धा अनुभव करेगा? बुद्ध की उपस्थिति से देश को अधिक शांति मिलती है। फिर उन्होंने अपने अंत की बात की। मेरे पुण्य पूरे हो चुके हैं, उन्होंने कहा, और मेरे लिए न कोई और शरीर है न आत्मा, केवल संबंधों के हर बंधन से मुक्ति है। हमारे कर्म छाया की तरह हमारे पीछे चलते हैं।\n\nजो राजकुमार अपनी प्रजा को प्रिय मानता है, वह इस जीवन में यश पाता है और उसके बाद स्वर्ग जाता है, पर कर्तव्य की उपेक्षा से वर्तमान में कष्ट और आगे चलकर दुःख आता है। उन्होंने दो पुराने उदाहरण दिए, एक राजा जिसने शील का पालन किया और स्वर्ग में जन्मा, और एक राजा जिसने दुष्टता की और दुःख में जन्मा। राजा प्रसेनजित से उन्होंने कहा, महान अपेक्षा यह है कि हृदय प्रेमपूर्ण हो, प्रजा को उस दृष्टि से देखो जैसे एकमात्र पुत्र को देखते हो, उन्हें कभी न दबाओ और न नष्ट करो, और दुर्बलों को कुचलकर स्वयं को ऊँचा न उठाओ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांनी एका सौम्य गोष्टीने सुरुवात केली. पूर्वकर्मांमुळे जे लोक नीच पदावर जन्मले आहेत, तेही एखाद्या सद्गुणी व्यक्तीला पाहून आदर वाटतात, ते म्हणाले, तर मग ते स्वतंत्र राजा, ज्याने पूर्वजन्मांत मोठे पुण्य मिळवले आहे, बुद्धांना भेटताना किती अधिक आदर अनुभवेल? बुद्धांच्या उपस्थितीने देशाला अधिक शांती मिळते. मग त्यांनी आपल्या अंताबद्दल सांगितले. माझे पुण्य पूर्ण झाले आहे, ते म्हणाले, आणि माझ्यासाठी आता कोणताही पुढील देह किंवा आत्मा नाही, केवळ नात्यांच्या सर्व बंधनांपासून मुक्ती आहे. आपली कर्मे सावलीप्रमाणे आपल्या मागे येतात.\n\nजो राजपुत्र आपल्या प्रजेला प्रिय मानतो, तो या जन्मात यश मिळवतो आणि त्यानंतर स्वर्गाला जातो, पण कर्तव्याच्या उपेक्षेने वर्तमानात वेदना आणि पुढे दुःख येते. त्यांनी दोन जुनी उदाहरणे दिली, एक राजा ज्याने शीलाचे पालन केले आणि स्वर्गात जन्मला, आणि एक राजा ज्याने दुष्कृत्ये केली आणि दुःखात जन्मला. राजा प्रसेनजिताला ते म्हणाले, महान अपेक्षा ही आहे की हृदय प्रेमळ असावे, प्रजेकडे त्या दृष्टीने पाहावे जशी एकुलत्या एका पुत्राकडे पाहतो, तिला कधी दडपू नये किंवा नष्ट करू नये, आणि दुर्बलांना चिरडून स्वतःला उंच करू नये.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The mountain on every side",
+    "hi": {
+     "text": "चारों ओर पर्वत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चारही बाजूंनी पर्वत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He told the king to comfort and befriend those who suffer, to take no pleasure in false theories or in the smooth words of false teachers, and not to wear himself out with austerities either. He should meditate on the Buddha and weigh his law, keep in mind how fickle life is, and lay up a good name for distant ages. Evil words, he said, are repeated far and wide by the crowd, while few follow good direction. And no one can avoid the result of works, because the doer cannot escape what he has done.\n\nHe used a picture the poem returns to often. A man shut in by a mountain on every side has no place of refuge, and in the same way, within the wall of old age, birth, disease and death there is no escape for the world. Only by considering and practising the true law can we get out of this mountain of sorrows. The pleasures of the senses end like a flash of lightning, while old age and death fall like piercing bolts, so what is the profit of doing wrong?",
+    "hi": {
+     "text": "उन्होंने राजा से कहा कि पीड़ितों को सांत्वना दो और उनके मित्र बनो, झूठे सिद्धांतों या झूठे शिक्षकों के चिकने शब्दों में आनंद न लो, और तपस्याओं से स्वयं को न थकाओ। बुद्ध का ध्यान करो और उनके धर्म पर विचार करो, जीवन कितना चंचल है यह याद रखो, और दूर के युगों के लिए अच्छा नाम कमाओ। बुरे शब्द भीड़ द्वारा दूर-दूर तक दोहराए जाते हैं, उन्होंने कहा, जबकि सत्कर्मों का मार्ग कम ही लोग अनुसरण करते हैं। और कोई भी कर्मों के फल से बच नहीं सकता, क्योंकि करने वाला अपने किए से बच नहीं सकता।\n\nउन्होंने एक चित्र उपयोग किया जिसे काव्य बार-बार दोहराता है। एक व्यक्ति जो चारों ओर पर्वत से घिरा है, उसे शरण का कोई स्थान नहीं मिलता, और उसी प्रकार म्हातारपण, जन्म, रोग और मृत्यु की दीवार के भीतर संसार के लिए कोई मुक्ति नहीं। केवल सत्य धर्म का विचार करके और उसका अभ्यास करके हम दुःखों के इस पर्वत से बाहर निकल सकते हैं। इंद्रिय-सुख बिजली की चमक की तरह समाप्त हो जाते हैं, जबकि म्हातारपण और मृत्यु भेदक बाणों की तरह गिरते हैं, तो फिर बुरे कर्म करने से क्या लाभ?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांनी राजाला सांगितले की पीडितांना धीर दे आणि त्यांचा मित्र हो, खोट्या सिद्धांतांत किंवा खोट्या शिक्षकांच्या गोड शब्दांत आनंद घेऊ नकोस, आणि तपश्चर्येने स्वतःला थकवू नकोस. बुद्धांचे ध्यान कर आणि त्यांच्या धर्माचे चिंतन कर, जीवन किती अस्थिर आहे हे लक्षात ठेव, आणि दूरच्या युगांसाठी चांगले नाव कमव. वाईट शब्द गर्दीकडून दूरवर पुनरावृत्त होतात, ते म्हणाले, तर सत्कर्माच्या मार्गाचे अनुसरण फार थोडे लोक करतात. आणि कोणीही कर्मांच्या फळापासून सुटू शकत नाही, कारण करणारा आपल्या कृत्यांपासून पळू शकत नाही.\n\nत्यांनी एक चित्र वापरले जे काव्य वारंवार परत आणते. चारही बाजूंनी पर्वताने वेढलेल्या माणसाला आश्रयाचे कोणतेही ठिकाण सापडत नाही, आणि त्याचप्रमाणे म्हातारपण, जन्म, रोग आणि मृत्यूच्या भिंतीच्या आत जगासाठी सुटका नाही. केवळ सत्य धर्माचा विचार करून आणि त्याचे आचरण करून आपण दुःखांच्या या पर्वतातून बाहेर पडू शकतो. इंद्रियसुख विजेच्या चमकेसारखे संपते, तर म्हातारपण आणि मृत्यू भेदक बाणांसारखे कोसळतात, तर मग वाईट कर्म करण्याचा काय फायदा?",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "What is the most useful thing you could give away that you could never be paid back for?",
+  "hi": {
+   "text": "वह सबसे उपयोगी चीज़ कौन सी है जो तुम दे सकते हो और जिसका प्रतिफल तुम्हें कभी नहीं मिलेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही कोणती सर्वात उपयुक्त गोष्ट देऊ शकता, ज्याचा मोबदला तुम्हाला कधीच मिळणार नाही?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A gift made with open hands and a clear purpose can shelter many people, and those with power are taught that their rule is measured by their kindness.",
+  "hi": {
+   "text": "खुले हाथों और स्पष्ट उद्देश्य से दिया गया दान अनेक लोगों को आश्रय दे सकता है, और सत्ता वालों को यह सिखाया जाता है कि उनका शासन उनकी दयालुता से मापा जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "उघड्या हातांनी आणि स्पष्ट हेतूने दिलेले दान अनेकांना आश्रय देऊ शकते, आणि सत्ताधाऱ्यांना शिकवले जाते की त्यांचे राज्य त्यांच्या दयाळूपणाने मोजले जाते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 20; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 20; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 20; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

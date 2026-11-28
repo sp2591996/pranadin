@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-attainment-of-omniscience",
+ "order": 13,
+ "part": "awakening",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Attainment of Omniscience",
+  "hi": {
+   "text": "सर्वज्ञता की प्राप्ति",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वज्ञतेची प्राप्ती",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In the thirteenth year, in a farmer's field beside a river, Mahavira sits under a sal tree and reaches the knowledge he has been seeking.",
+  "hi": {
+   "text": "तेरहवें वर्ष में, नदी किनारे एक किसान के खेत में, महावीर एक साल वृक्ष के नीचे बैठते हैं और वह ज्ञान पा लेते हैं जिसकी उन्हें खोज थी।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तेराव्या वर्षी, नदीकाठच्या एका शेतकऱ्याच्या शेतात, महावीर एका साल वृक्षाखाली बसतात आणि ज्या ज्ञानाचा ते शोध घेत होते ते प्राप्त करतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-omniscience.webp",
+   "w": 464,
+   "h": 422,
+   "caption": {
+    "en": "Kevalajnana, the symbol of omniscience",
+    "hi": {
+     "text": "केवलज्ञान का चिह्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "केवलज्ञानाचे चिन्ह",
+     "reviewed": false
+    }
+   },
+   "credit": "Jaina Publications, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kevalajnana.jpg"
+  },
+  {
+   "src": "/stories/mahavira/m-statue-rujuwalika.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Mahavira's kevala statue at the Rujuvalika temple",
+    "hi": {
+     "text": "ऋजुवालिका मंदिर में महावीर की केवलज्ञान प्रतिमा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ऋजुवालिका मंदिरातील महावीरांची केवलज्ञान मूर्ती",
+     "reviewed": false
+    }
+   },
+   "credit": "Nizil Shah, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Mahavira_Rujuwalika_New_Jain_Temple.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The thirteenth year",
+    "hi": {
+     "text": "तेरहवाँ वर्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेरावे वर्ष",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Kalpa Sutra says that Mahavira meditated on himself for twelve years, and then it moves to the thirteenth with the exactness of a calendar. It names the season: the second month of summer. It names the fortnight: the bright half of Vaishakha. It gives the tenth day, called Suvrata, the hour called Vijaya, and the position of the moon, once more in Uttaraphalguni.\n\nThe time of day is given too. The shadow had turned toward the east, and the first watch was over. For Jains, who treasure these details, they are not decoration. They are the way the community remembers that this was an event in time, on a particular day of a particular year, in a world that other people were also living in. The sutra gives the same care to this moment as it gave to his birth and to his leaving home, and so the five great moments of his life share the same star.",
+    "hi": {
+     "text": "कल्पसूत्र कहता है कि महावीर बारह वर्षों तक आत्म-चिंतन करते रहे, और फिर वह तेरहवें वर्ष पर आता है, कैलेंडर जैसी सटीकता के साथ। वह ऋतु बताता है: ग्रीष्म का दूसरा मास। पक्ष बताता है: वैशाख का शुक्ल पक्ष। वह दसवाँ दिन देता है, जिसे सुव्रत कहा गया है, वह मुहूर्त जिसे विजय कहा गया है, और चंद्रमा की स्थिति, जो एक बार फिर उत्तराफाल्गुनी में है।\n\nदिन का समय भी दिया गया है। छाया पूर्व की ओर मुड़ चुकी थी, और दिन का पहला प्रहर बीत चुका था। जैनों के लिए, जो इन विवरणों को संजोकर रखते हैं, ये केवल अलंकरण नहीं हैं। इसी तरीके से समुदाय स्मरण रखता है कि यह समय की एक घटना थी, किसी वर्ष के किसी विशेष दिन पर, ऐसे संसार में जिसमें दूसरे लोग भी जी रहे थे। सूत्र इस क्षण को भी उतनी ही सावधानी से देता है जितनी उसने उनके जन्म और गृह-त्याग को दी थी, और इस प्रकार उनके जीवन के पाँचों महान क्षण एक ही नक्षत्र को साझा करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कल्पसूत्र सांगते की महावीर बारा वर्षे आत्मचिंतन करत राहिले, आणि मग ते तेराव्या वर्षावर येते, दिनदर्शिकेसारख्या अचूकतेने. ते ऋतू सांगते: ग्रीष्माचा दुसरा महिना. पक्ष सांगते: वैशाखाचा शुद्ध पक्ष. ते दहावा दिवस देते, ज्याला सुव्रत म्हटले आहे, तो मुहूर्त ज्याला विजय म्हटले आहे, आणि चंद्राची स्थिती, जी पुन्हा उत्तराफाल्गुनीत आहे.\n\nदिवसाची वेळही दिली आहे. सावली पूर्वेकडे वळली होती, आणि दिवसाचा पहिला प्रहर संपला होता. जैनांसाठी, जे हे तपशील जपून ठेवतात, ती केवळ सजावट नाही. यामुळेच समुदाय लक्षात ठेवतो की ही वेळेतली घटना होती, एका विशिष्ट वर्षाच्या एका विशिष्ट दिवशी, अशा जगात जिथे इतर लोकही जगत होते. सूत्र या क्षणालाही त्याच काळजीने वर्णन करते जशी त्याने त्यांच्या जन्माला आणि गृहत्यागाला दिली होती, आणि अशा प्रकारे त्यांच्या आयुष्यातील पाचही महान क्षण एकाच नक्षत्राखाली येतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The field by the river",
+    "hi": {
+     "text": "नदी किनारे का खेत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीकाठचे शेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The place is as exact as the date. It was outside the town of Jrimbhikagrama, on the bank of the river Rijupalika, not far from an old temple, in the field of a householder named Samaga. The Acharanga Sutra adds that it was on the northern bank, to the north-east of the old temple, and not far from a sal tree.\n\nThere is no great temple here, no grove of kings, no throne. It is a farmer's field in the plains of eastern India, belonging to a man whose name the tradition has kept for some twenty-five centuries. Such details remind the reader how close the highest attainment, in the Jain view, is to ordinary ground and ordinary work. The householder Samaga, who grew his crops there, is remembered only because the most important day of the Tirthankara's life happened to fall on his land.",
+    "hi": {
+     "text": "स्थान तिथि जितना ही सटीक है। वह जृंभिकग्राम नगर के बाहर था, ऋजुपालिका नदी के तट पर, एक प्राचीन मंदिर से कुछ दूर, समग नामक गृहस्थ के खेत में। आचारांग सूत्र जोड़ता है कि वह नदी के उत्तरी तट पर था, प्राचीन मंदिर के उत्तर-पूर्व में, और एक साल वृक्ष के समीप।\n\nयहाँ कोई भव्य मंदिर नहीं है, राजाओं का उद्यान नहीं, सिंहासन नहीं। यह पूर्वी भारत के मैदानों में एक किसान का खेत है, जो एक ऐसे व्यक्ति का है जिसका नाम परंपरा लगभग पच्चीस शताब्दियों से संजोए हुए है। ऐसे विवरण पाठक को याद दिलाते हैं कि जैन दृष्टि में सर्वोच्च उपलब्धि साधारण भूमि और साधारण कर्म के कितनी निकट है। गृहस्थ समग, जिन्होंने वहाँ अन्न उगाया, केवल इसलिए स्मरण किए जाते हैं क्योंकि तीर्थंकर के जीवन का सबसे महत्वपूर्ण दिन उनकी भूमि पर पड़ा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्थान तिथीइतकेच अचूक आहे. ते जृंभिकाग्राम नगराबाहेर, ऋजुपालिका नदीच्या काठी, एका प्राचीन मंदिराजवळ, समग नावाच्या गृहस्थाच्या शेतात होते. आचारांग सूत्र भर घालते की ते नदीच्या उत्तर तीरावर, प्राचीन मंदिराच्या ईशान्येस आणि एका साल वृक्षाजवळ होते.\n\nइथे कोणतेही भव्य मंदिर नाही, राजांचे उपवन नाही, सिंहासन नाही. पूर्व भारताच्या मैदानातील एक शेतकऱ्याचे शेत आहे, जे अशा माणसाचे आहे ज्याचे नाव परंपरेने सुमारे पंचवीस शतके जपले आहे. असे तपशील वाचकाला आठवण करून देतात की जैन दृष्टीने सर्वोच्च प्राप्ती सामान्य भूमी आणि सामान्य कामाच्या किती जवळ आहे. गृहस्थ समग, ज्यांनी तिथे धान्य पिकवले, केवळ यासाठी आठवले जातात की तीर्थंकरांच्या जीवनातला सर्वात महत्त्वाचा दिवस त्यांच्या जमिनीवर घडला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The posture",
+    "hi": {
+     "text": "आसन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आसन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Under the sal tree Mahavira sat in the posture the Jains call godohika, a squatting position with the heels joined, the knees raised and the head low, exposing himself to the heat of the sun. The Kalpa Sutra says that he had fasted for two and a half days without water, and that he was absorbed in deep meditation. It adds nothing more about his state.\n\nThe account is of one extraordinary person at the end of long preparation, and it does not offer a method for others. Jain teachers say clearly that this was the Tirthankara's own path, taken after twelve years of work and in the strength of a soul that had done this before. The sutra moves with simple dignity. It does not describe temptations or armies, or a battle with an enemy, as some other traditions do. The struggle has already been fought, over twelve years, in many villages and fields, and what remains is the quiet fruit of it.",
+    "hi": {
+     "text": "साल वृक्ष के नीचे महावीर उस मुद्रा में बैठे जिसे जैन गोदोहिका कहते हैं, एड़ियाँ जुड़ी हुईं, घुटने ऊपर उठे हुए और सिर झुका हुआ, सूर्य की ऊष्मा में स्वयं को खुला रखते हुए। कल्पसूत्र कहता है कि उन्होंने ढाई दिन बिना जल के उपवास किया था, और वे गहन ध्यान में लीन थे। वह उनकी अवस्था के बारे में इससे अधिक कुछ नहीं जोड़ता।\n\nयह वर्णन लंबी तैयारी के अंत में एक असाधारण व्यक्ति का है, और यह दूसरों के लिए कोई विधि नहीं देता। जैन आचार्य स्पष्ट कहते हैं कि यह तीर्थंकर का अपना मार्ग था, जो बारह वर्षों के परिश्रम के बाद और उस आत्मा के बल से तय हुआ जिसने यही मार्ग पहले भी तय किया था। सूत्र सरल गरिमा के साथ आगे बढ़ता है। यह दूसरी परंपराओं की तरह प्रलोभनों, सेनाओं या किसी शत्रु से युद्ध का वर्णन नहीं करता। संघर्ष बारह वर्षों में, अनेक गाँवों और खेतों में, पहले ही लड़ा जा चुका है, और शेष उसका शांत फल है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "साल वृक्षाखाली महावीर त्या आसनात बसले ज्याला जैन गोदोहिका म्हणतात, टाचा जुळलेल्या, गुडघे वर उचललेले आणि डोके खाली, सूर्याच्या उष्णतेस स्वतःला उघडे ठेवत. कल्पसूत्र सांगते की त्यांनी अडीच दिवस पाण्याविना उपवास केला होता, आणि ते खोल ध्यानात मग्न होते. त्यांच्या अवस्थेविषयी ते यापेक्षा अधिक काही सांगत नाही.\n\nहे वर्णन दीर्घ तयारीच्या शेवटी एका असामान्य व्यक्तीचे आहे, आणि ते इतरांसाठी कोणतीही पद्धत देत नाही. जैन आचार्य स्पष्टपणे सांगतात की हा तीर्थंकरांचा स्वतःचा मार्ग होता, बारा वर्षांच्या परिश्रमानंतर, आणि त्या आत्म्याच्या बळावर घेतलेला, ज्याने हा मार्ग याआधीही चालला होता. सूत्र साध्या प्रतिष्ठेने पुढे जाते. ते इतर परंपरांप्रमाणे मोह, सेना किंवा शत्रूशी युद्धाचे वर्णन करत नाही. संघर्ष बारा वर्षांत, अनेक गावे आणि शेतांमध्ये, आधीच लढला गेला होता, आणि उरलेले त्याचे शांत फळ आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kevala",
+    "hi": {
+     "text": "केवलज्ञान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "केवलज्ञान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then, the sutra says, he reached the highest knowledge and intuition, called kevala, which is infinite, supreme, unobstructed, unimpeded, complete and full. Each of these words is a different side of the same thing. Nothing was outside it, nothing could block it, nothing was missing from it.\n\nThe sutra says that he had become a Jina, a conqueror, and an Arhat, one worthy of honour. He was omniscient and comprehended all objects. He knew and saw the conditions of the whole world: of gods, men and demons, where they come from and where they go, whether they are born as men or animals or gods or hell-beings, their thoughts, their food and their actions, their open and secret deeds. For the Arhat, the text says, there is no secret. The Acharanga Sutra adds that this was a kind of living liberation, which is not yet the final release that comes with the end of the body.",
+    "hi": {
+     "text": "फिर, सूत्र कहता है, उन्होंने सर्वोच्च ज्ञान और दर्शन प्राप्त किया, जिसे केवल कहते हैं, जो अनंत, सर्वोच्च, अबाधित, निर्बाध, पूर्ण और परिपूर्ण है। इनमें से प्रत्येक शब्द एक ही वस्तु का अलग पहलू है। उसके बाहर कुछ नहीं था, उसे कोई रोक नहीं सकता था, और उसमें कुछ भी कम नहीं था।\n\nसूत्र कहता है कि वे जिन, विजेता, और अर्हत, यानी आदर के योग्य, बन गए थे। वे सर्वज्ञ थे और सभी पदार्थों को जानते थे। वे समस्त लोक की दशाएँ जानते और देखते थे: देवों, मनुष्यों और दानवों की, वे कहाँ से आते हैं और कहाँ जाते हैं, वे मनुष्य, पशु, देव या नरक-जीव के रूप में कैसे जन्म लेते हैं, उनके विचार, उनका आहार और उनके कर्म, उनके प्रकट और गुप्त कार्य। अर्हत के लिए, पाठ कहता है, कोई रहस्य नहीं है। आचारांग सूत्र जोड़ता है कि यह एक प्रकार की जीवित मुक्ति थी, जो अभी अंतिम मोक्ष नहीं है, जो शरीर के अंत के साथ आता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग, सूत्र सांगते, त्यांनी सर्वोच्च ज्ञान आणि दर्शन प्राप्त केले, ज्याला केवल म्हणतात, जे अनंत, सर्वोच्च, अबाधित, निरंतर, पूर्ण आणि परिपूर्ण आहे. यातील प्रत्येक शब्द एकाच गोष्टीची वेगळी बाजू आहे. त्याच्या बाहेर काहीच नव्हते, त्याला कोणी अडवू शकत नव्हते, आणि त्यात काही कमी नव्हते.\n\nसूत्र सांगते की ते जिन, विजेता, आणि अर्हत, म्हणजे आदरास पात्र, झाले होते. ते सर्वज्ञ होते आणि सर्व पदार्थ जाणत होते. त्यांना सर्व लोकांच्या अवस्था माहीत होत्या आणि ते त्या पाहत होते: देव, मनुष्य आणि दानवांच्या, ते कुठून येतात आणि कुठे जातात, ते मनुष्य, पशू, देव किंवा नरकजीव म्हणून कसे जन्म घेतात, त्यांचे विचार, त्यांचा आहार आणि त्यांची कर्मे, त्यांची उघड आणि गुप्त कृत्ये. अर्हतासाठी, पाठ सांगतो, कोणतेही गुपित नाही. आचारांग सूत्र भर घालते की ही एक प्रकारची जिवंत मुक्ती होती, जी अजून अंतिम मोक्ष नाही, जो देहाच्या अंताबरोबर येतो.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The gods gather",
+    "hi": {
+     "text": "देवों का एकत्र होना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवांचा मेळावा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the day Mahavira reached kevala, the Acharanga Sutra says, the gods of the four orders descended from heaven and ascended again, as at his birth. Light and noise filled the sky. The Acharanga Sutra says that, having reached the highest knowledge, the Venerable One reflected on himself and the world, and that he taught the law first to the gods and afterwards to men.\n\nHis teaching began with the five great vows and the six classes of living beings. Later Svetambara tradition adds that this first preaching, at the place of the attainment, found no one ready to take the vows, and counts that among the rare surprises of a Tirthankara's life. The next chapter looks at how the teaching began in earnest, and at the different ways the Jain traditions tell it.",
+    "hi": {
+     "text": "जिस दिन महावीर को केवलज्ञान हुआ, आचारांग सूत्र कहता है, चारों प्रकार के देव स्वर्ग से उतरे और फिर ऊपर चले गए, जैसे उनके जन्म के समय हुआ था। आकाश प्रकाश और ध्वनि से भर गया। आचारांग सूत्र कहता है कि सर्वोच्च ज्ञान प्राप्त करके पूज्य भगवान ने स्वयं और संसार पर चिंतन किया, और पहले देवों को, फिर मनुष्यों को धर्म का उपदेश दिया।\n\nउनका उपदेश पाँच महान व्रतों और छह प्रकार के जीवों से आरंभ हुआ। बाद की श्वेतांबर परंपरा जोड़ती है कि इस पहले उपदेश में, प्राप्ति के स्थान पर, किसी ने भी व्रत लेने की तैयारी नहीं दिखाई, और इसे तीर्थंकर के जीवन के दुर्लभ आश्चर्यों में गिना जाता है। अगला अध्याय देखता है कि शिक्षा वास्तव में कैसे आरंभ हुई, और जैन परंपराएँ उसे भिन्न-भिन्न रूपों में कैसे कहती हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्या दिवशी महावीरांना केवलज्ञान झाले, आचारांग सूत्र सांगते, चारही प्रकारचे देव स्वर्गातून खाली उतरले आणि पुन्हा वर गेले, जसे त्यांच्या जन्माच्या वेळी झाले होते. आकाश प्रकाश आणि ध्वनीने भरले. आचारांग सूत्र सांगते की सर्वोच्च ज्ञान प्राप्त केल्यावर पूज्य भगवानांनी स्वतःवर आणि जगावर चिंतन केले, आणि प्रथम देवांना, नंतर मनुष्यांना धर्माचा उपदेश केला.\n\nत्यांच्या शिकवणीची सुरुवात पाच महाव्रतांनी आणि सहा प्रकारच्या जीवांनी झाली. नंतरची श्वेतांबर परंपरा जोडते की या पहिल्या उपदेशाच्या वेळी, प्राप्तीच्या ठिकाणी, व्रत घेण्यास कोणीही तयार नव्हते, आणि हे तीर्थंकरांच्या जीवनातील दुर्मीळ आश्चर्यांपैकी एक मानले जाते. पुढचे प्रकरण पाहते की शिकवणीची खरी सुरुवात कशी झाली, आणि जैन परंपरा ती वेगवेगळ्या प्रकारे कशी सांगतात.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "in a squatting position with joined heels, exposing himself to the heat of the sun, after fasting two and a half days without drinking water, being engaged in deep meditation, reached the highest knowledge and intuition, called Kevala, which is infinite, supreme, unobstructed, unimpeded, complete, and full.",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §120 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §120 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §120 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "On the bank of the Rijupalika, under a sal tree, Mahavira reaches complete knowledge.",
+   "hi": {
+    "text": "ऋजुपालिका के तट पर, एक साल वृक्ष के नीचे, महावीर पूर्ण ज्ञान प्राप्त करते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ऋजुपालिकेच्या काठी, एका साल वृक्षाखाली, महावीरांना पूर्ण ज्ञान प्राप्त होते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Where do your own quietest moments of understanding tend to arrive, in an ordinary place or in a special one?",
+  "hi": {
+   "text": "तुम्हारी अपनी सबसे शांत समझ के क्षण सामान्य स्थान पर आते हैं या किसी विशेष स्थान पर?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझे स्वतःचे सर्वात शांत समजुतीचे क्षण सामान्य ठिकाणी येतात की एखाद्या खास ठिकाणी?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "In the Jain account complete knowledge comes in a plain field, after years of ordinary, patient effort.",
+  "hi": {
+   "text": "जैन वृत्तांत में पूर्ण ज्ञान साधारण खेत में, वर्षों के सामान्य और धैर्यपूर्ण परिश्रम के बाद आता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जैन वृत्तांतात पूर्ण ज्ञान साध्या शेतात, वर्षानुवर्षांच्या सामान्य, संयमी प्रयत्नांनंतर येते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§120–121, with Acharanga Sutra II, 15; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§120–121; आचारांग सूत्र (द्वितीय श्रुतस्कंध), अध्ययन १५ के साथ; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§120–121; आचारांग सूत्र (द्वितीय श्रुतस्कंध), अध्ययन १५ यासह; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-prodigal-son",
+ "order": 26,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Prodigal Son",
+  "hi": {
+   "text": "खोया हुआ बेटा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हरवलेला मुलगा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A younger son squanders his inheritance and comes home to a father who runs to meet him, and an elder brother who will not come in.",
+  "hi": {
+   "text": "छोटा बेटा अपनी विरासत उड़ाकर घर लौटता है, जहाँ एक पिता उसकी ओर दौड़ता है, और बड़ा भाई भीतर आने से इनकार करता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धाकटा मुलगा आपला वारसा उधळतो आणि घरी परततो, तिथे एक पिता त्याच्याकडे धावत जातो, आणि मोठा भाऊ आत येण्यास नकार देतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-prodigal-rembrandt.webp",
+   "w": 843,
+   "h": 1100,
+   "caption": {
+    "en": "The return of the prodigal son, Rembrandt",
+    "hi": {
+     "text": "खोए हुए बेटे की वापसी, रेम्ब्रांट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हरवलेल्या मुलाचे परत येणे, रेम्ब्रांट",
+     "reviewed": false
+    }
+   },
+   "credit": "Rembrandt, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The third of three stories",
+    "hi": {
+     "text": "तीन कहानियों में तीसरी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन गोष्टींपैकी तिसरी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "This is the third parable in Luke's fifteenth chapter, told to answer the complaint of the Pharisees and scribes that Jesus welcomes sinners and eats with them. After the lost sheep and the lost coin, he turns to a story about a family, where the loss is much closer to the heart. It is perhaps the best loved of all his stories, and it has two brothers in it, not one.\n\nA certain man had two sons. The younger says to his father, Father, give me my share of the property. In that world, to ask for an inheritance while the father was still alive was a great insult, as if the son wished him dead. Remarkably, the father agrees, and divides his livelihood between them. Luke gives the story a gentle, steady opening, and the father's quiet agreement already hints at the kind of person he is.",
+    "hi": {
+     "text": "यह लूका के पंद्रहवें अध्याय का तीसरा दृष्टांत है, जो इस शिकायत का उत्तर देने के लिए सुनाया गया कि यीशु पापियों का स्वागत करते हैं और उनके साथ भोजन करते हैं। खोई हुई भेड़ और खोए हुए सिक्के के बाद वे एक परिवार की कहानी सुनाते हैं, जहाँ खोना हृदय के बहुत निकट है। यह शायद उनकी सबसे प्रिय कहानियों में से एक है, और इसमें एक नहीं दो भाई हैं।\n\nकिसी एक मनुष्य के दो बेटे थे। छोटा बेटा अपने पिता से कहता है, पिताजी, संपत्ति में से जो हिस्सा मेरा है वह मुझे दे दीजिए। उस संसार में, पिता के जीते जी विरासत माँगना एक बड़ा अपमान था, मानो बेटा चाहता हो कि पिता मर जाए। आश्चर्य की बात है कि पिता मान जाता है, और अपनी संपत्ति उनमें बाँट देता है। लूका कहानी की एक कोमल, स्थिर शुरुआत करते हैं, और पिता की शांत सहमति पहले ही बताती है कि वह किस तरह का व्यक्ति है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूकाच्या पंधराव्या अध्यायातील हा तिसरा दृष्टांत आहे, जो फरीसींच्या आणि शास्त्र्यांच्या त्या तक्रारीला उत्तर देण्यासाठी सांगितला गेला की यीशू पापी लोकांचे स्वागत करतो आणि त्यांच्याबरोबर जेवतो. हरवलेली मेंढी आणि हरवलेल्या नाण्यानंतर ते एका कुटुंबाची गोष्ट सांगतात, जिथे नुकसान हृदयाच्या अधिक जवळ आहे. कदाचित ही त्यांची सर्वात आवडती गोष्ट आहे, आणि तिच्यात एक नव्हे तर दोन भाऊ आहेत.\n\nएका माणसाला दोन मुलगे होते. धाकटा मुलगा वडिलांना म्हणतो, बाबा, मालमत्तेतील माझा वाटा मला द्या. त्या जगात, वडील हयात असताना वारसा मागणे हा मोठा अपमान होता, जणू मुलाला वडील मेलेले पाहायचे आहेत. आश्चर्य म्हणजे वडील मान्य करतात, आणि आपली मालमत्ता त्यांच्यात वाटून देतात. लूका कथेची सौम्य, स्थिर सुरुवात करतात, आणि वडिलांची शांत संमती आधीच सांगते की ते कोणत्या प्रकारचे माणूस आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The far country",
+    "hi": {
+     "text": "दूर देश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दूरचा देश",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Not many days later the younger son gathers all he has and travels to a distant country. There he wastes his property in reckless living. The money runs out just as a severe famine strikes the land, and he begins to be in need. He hires himself out to one of the citizens, who sends him into the fields to feed pigs.\n\nFor a Jewish listener, there could hardly be a lower position, since pigs were unclean animals. He is so hungry that he longs to fill his stomach with the pods the pigs are eating, and no one gives him anything. Luke then writes a phrase that has become famous. When he came to himself, the young man thinks of his father's hired servants, who have bread to spare, and decides to go home.",
+    "hi": {
+     "text": "कुछ ही दिनों बाद छोटा बेटा अपना सब कुछ इकट्ठा करके एक दूर देश को चला जाता है। वहाँ वह लापरवाह जीवन में अपनी संपत्ति उड़ा देता है। पैसा खत्म होता है और उसी समय देश में भयंकर अकाल पड़ जाता है, और वह ज़रूरतमंद होने लगता है। वह उस देश के एक नागरिक के यहाँ नौकरी कर लेता है, जो उसे खेतों में सूअर चराने भेज देता है।\n\nयहूदी सुनने वाले के लिए इससे नीची स्थिति शायद ही कोई हो सकती थी, क्योंकि सूअर अशुद्ध पशु थे। वह इतना भूखा है कि जो फलियाँ सूअर खा रहे हैं उनसे अपना पेट भरने की इच्छा करता है, और कोई उसे कुछ नहीं देता। फिर लूका एक वाक्य लिखते हैं जो प्रसिद्ध हो गया है। जब वह अपने होश में आया, तो युवक सोचता है कि उसके पिता के मज़दूरों के पास रोटी बहुत है, और वह घर लौटने का निश्चय करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "थोड्याच दिवसांत धाकटा मुलगा आपले सर्वस्व गोळा करून एका दूरच्या देशात जातो. तिथे तो बेफाम जीवनात आपली मालमत्ता उधळतो. पैसे संपतात, आणि त्याच वेळी त्या देशात भीषण दुष्काळ पडतो, आणि तो गरजू होऊ लागतो. तो त्या देशातील एका नागरिकाकडे नोकरी धरतो, जो त्याला शेतात डुकरे चारायला पाठवतो.\n\nयहूदी श्रोत्यासाठी यापेक्षा खालची स्थिती क्वचितच असू शकत होती, कारण डुकरे अशुद्ध प्राणी होती. तो इतका भुकेला आहे की डुकरे जी शेंगा खात आहेत त्यांनी आपले पोट भरावे अशी इच्छा करतो, आणि त्याला कोणी काही देत नाही. मग लूका एक वाक्य लिहितात जे प्रसिद्ध झाले आहे. तो जेव्हा शुद्धीवर आला, तेव्हा त्या तरुणाला आपल्या वडिलांच्या मजुरांची आठवण येते, ज्यांच्याकडे भाकर भरपूर आहे, आणि तो घरी परतायचे ठरवतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The father runs",
+    "hi": {
+     "text": "पिता दौड़ता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वडील धावतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He rehearses his speech on the way. Father, I have sinned against heaven and in your sight. I am no longer worthy to be called your son. Make me as one of your hired servants. He does not expect to be restored, only to survive. But the story has a surprise. While he is still a long way off, his father sees him, is moved with compassion, runs and falls on his neck and kisses him.\n\nIt was undignified for an older man in that culture to run, and the father does not care. The son begins his speech, but the father interrupts it with orders to the servants. Bring the best robe and put it on him, and a ring on his hand and sandals on his feet. Bring the fattened calf and kill it, and let us eat and celebrate, for this my son was dead and is alive again. He was lost and is found.",
+    "hi": {
+     "text": "रास्ते में वह अपना भाषण तैयार करता है। पिताजी, मैंने स्वर्ग के विरुद्ध और आपके सामने पाप किया है। अब मैं इस योग्य नहीं कि आपका बेटा कहलाऊँ। मुझे अपने मज़दूरों में से एक जैसा रख लीजिए। वह बहाली की आशा नहीं करता, केवल जीवित रहने की। पर कहानी में एक आश्चर्य है। जब वह अभी बहुत दूर ही था, तभी उसके पिता ने उसे देखा, करुणा से भर गया, दौड़ा, उसके गले से लिपट गया और उसे चूमने लगा।\n\nउस संस्कृति में किसी बड़ी उम्र के व्यक्ति का दौड़ना अशोभनीय था, और पिता को इसकी परवाह नहीं। बेटा अपना भाषण शुरू करता है, पर पिता उसे रोककर सेवकों को आदेश देता है। सबसे अच्छा वस्त्र लाओ और इसे पहनाओ, इसकी उँगली में अँगूठी और पाँवों में जूते पहनाओ। मोटा बछड़ा लाकर मारो, और खाएँ और आनंद मनाएँ, क्योंकि मेरा यह बेटा मर गया था और अब जीवित हो गया है। वह खो गया था और मिल गया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाटेत तो आपले भाषण रचतो. बाबा, मी स्वर्गाविरुद्ध आणि तुमच्यासमोर पाप केले आहे. आता मी तुमचा मुलगा म्हणवून घेण्यास योग्य नाही. मला तुमच्या मजुरांपैकी एकासारखे ठेवा. तो पुनर्स्थापनेची आशा करत नाही, फक्त जिवंत राहण्याची. पण कथेत एक आश्चर्य आहे. तो अजून खूप दूर असतानाच त्याच्या वडिलांनी त्याला पाहिले, करुणेने भरून गेले, धावत गेले, त्याच्या गळ्यात पडले आणि त्याचे चुंबन घेतले.\n\nत्या संस्कृतीत एका वयस्कर माणसाने धावणे अप्रतिष्ठेचे होते, आणि वडिलांना त्याची पर्वा नाही. मुलगा आपले भाषण सुरू करतो, पण वडील सेवकांना आदेश देऊन ते मध्येच थांबवतात. सर्वात चांगला झगा आणा आणि याला घाला, याच्या बोटात अंगठी आणि पायात चपला घाला. मोठे वासरू आणून मारा, आणि आपण खाऊ व आनंद करू, कारण माझा हा मुलगा मेला होता आणि आता जिवंत झाला आहे. तो हरवला होता आणि सापडला आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The elder brother",
+    "hi": {
+     "text": "बड़ा भाई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मोठा भाऊ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The elder son has been in the field. As he comes near the house, he hears music and dancing, and learns from a servant that his brother has come home and that their father has killed the fattened calf. He is angry and will not go in. The father comes out and pleads with him, and the elder son answers bitterly. All these years I have served you, and you never gave me even a young goat to celebrate with my friends. But when this son of yours came, you killed the fattened calf.\n\nThe father's reply is tender. Son, you are always with me, and all that is mine is yours. But it was right to celebrate and be glad, for this your brother was dead and is alive, and was lost and is found. The story ends there, with the elder brother outside, and we are not told whether he goes in.",
+    "hi": {
+     "text": "बड़ा बेटा खेत में था। जब वह घर के निकट आता है, तो उसे गाना-बजाना और नाचना सुनाई देता है, और एक सेवक से पता चलता है कि उसका भाई लौट आया है और पिता ने मोटा बछड़ा मारा है। वह क्रोधित होता है और भीतर जाने से इनकार करता है। पिता बाहर आकर उससे विनती करता है, और बड़ा बेटा कड़वाहट से उत्तर देता है। इतने वर्षों से मैं तेरी सेवा करता आया हूँ, और तूने मुझे कभी अपने मित्रों के साथ आनंद मनाने के लिए एक बकरी का बच्चा भी नहीं दिया। पर जब तेरा यह बेटा आया, जिसने तेरी संपत्ति वेश्याओं में उड़ा दी, तो तूने उसके लिए मोटा बछड़ा मार डाला।\n\nपिता का उत्तर कोमल है। बेटा, तू सदा मेरे साथ है, और जो कुछ मेरा है वह सब तेरा है। पर आनंद मनाना और खुश होना उचित था, क्योंकि यह तेरा भाई मर गया था और अब जीवित है, और खो गया था और अब मिल गया है। कहानी वहीं समाप्त होती है, बड़ा भाई बाहर खड़ा है, और हमें नहीं बताया जाता कि वह भीतर जाता है या नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मोठा मुलगा शेतात होता. तो घराजवळ येताच त्याला गाणे-वाजंत्री आणि नाचणे ऐकू येते, आणि एका सेवकाकडून कळते की त्याचा भाऊ परत आला आहे आणि वडिलांनी मोठे वासरू मारले आहे. त्याला राग येतो आणि तो आत जायला नकार देतो. वडील बाहेर येऊन त्याला विनवतात, आणि मोठा मुलगा कडवटपणे उत्तर देतो. इतकी वर्षे मी तुमची सेवा करत आलो आहे, आणि तुम्ही मला माझ्या मित्रांसोबत आनंद करण्यासाठी एक करडूसुद्धा दिले नाही. पण जेव्हा हा तुमचा मुलगा आला, ज्याने तुमची मालमत्ता वेश्यांमध्ये उधळली, तेव्हा तुम्ही त्याच्यासाठी मोठे वासरू मारले.\n\nवडिलांचे उत्तर कोमल आहे. बेटा, तू नेहमी माझ्याबरोबर आहेस, आणि जे माझे आहे ते सर्व तुझेच आहे. पण आनंद करणे आणि हर्षित होणे योग्य होते, कारण हा तुझा भाऊ मेला होता आणि आता जिवंत आहे, आणि हरवला होता आणि आता सापडला आहे. कथा तिथेच संपते, मोठा भाऊ बाहेर उभा आहे, आणि तो आत जातो की नाही हे आपल्याला सांगितले जात नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two ways of being far away",
+    "hi": {
+     "text": "दूर होने के दो तरीके",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दूर राहण्याचे दोन मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have understood the father as a picture of God, whose love runs out to meet those who turn toward home. The story has no demand for payment or a long penance first. The son's return is enough, and the welcome is complete. This is why it has been told and painted for centuries, and why people of many backgrounds have felt it describes something true.\n\nBut the story also holds a mirror to the elder brother, who was never physically far away yet stood distant in his heart, keeping accounts of his own obedience. Both sons are loved, and both are invited to the feast. The parable asks each reader which brother they are, and whether they can share the father's joy when someone else comes home. The feast is ready for both, and what remains uncertain is whether the elder brother will take his place at the table.",
+    "hi": {
+     "text": "ईसाइयों ने पिता को परमेश्वर के चित्र के रूप में समझा है, जिसका प्रेम उन लोगों की ओर दौड़ पड़ता है जो घर की ओर मुड़ते हैं। कहानी में कीमत चुकाने या पहले लंबे प्रायश्चित्त की कोई माँग नहीं। बेटे का लौटना पर्याप्त है, और स्वागत पूरा है। इसीलिए सदियों से इसे सुनाया और चित्रित किया गया है, और इसीलिए विभिन्न पृष्ठभूमियों के लोगों को लगा है कि यह किसी सच्ची बात का वर्णन करती है।\n\nपर यह कहानी बड़े बेटे के सामने एक दर्पण भी रखती है, जो शारीरिक रूप से कभी दूर नहीं गया था, फिर भी अपने हृदय में दूर खड़ा था, और अपनी आज्ञाकारिता का हिसाब रखता था। दोनों बेटों से प्रेम है, और दोनों को भोज में बुलाया गया है। दृष्टांत हर पाठक से पूछता है कि वह किस भाई जैसा है, और क्या वह किसी और के घर लौटने पर पिता के आनंद में सहभागी हो सकता है। भोज दोनों के लिए तैयार है, और जो अनिश्चित रहता है वह यह है कि क्या बड़ा भाई मेज़ पर अपनी जगह लेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोकांनी वडिलांना देवाच्या चित्राच्या रूपात समजले आहे, ज्याचे प्रेम घराकडे वळणार्यांना सामोरे जाण्यासाठी धावत येते. कथेत पैसे परत मागण्याची किंवा आधी लांब प्रायश्चित्त करण्याची कोणतीही मागणी नाही. मुलाचे परत येणे पुरेसे आहे, आणि स्वागत पूर्ण आहे. म्हणूनच शतकानुशतके ती सांगितली आणि चित्रित केली गेली आहे, आणि म्हणूनच विविध पार्श्वभूमीच्या लोकांना ती एका खर्या गोष्टीचे वर्णन वाटली आहे.\n\nपण ही कथा मोठ्या भावासमोर एक आरसाही धरते, जो शारीरिकदृष्ट्या कधी दूर गेला नव्हता, तरीही त्याच्या हृदयात दूर उभा होता, आणि आपल्या आज्ञापालनाचा हिशेब ठेवत होता. दोन्ही मुलांवर प्रेम आहे, आणि दोघांनाही भोजनासाठी बोलावले आहे. दृष्टांत प्रत्येक वाचकाला विचारतो की तो कोणत्या भावासारखा आहे, आणि इतर कोणाच्या घरी परतण्यावर वडिलांच्या आनंदात तो सहभागी होऊ शकतो का. भोज दोघांसाठी तयार आहे, आणि जे अनिश्चित राहते ते म्हणजे मोठा भाऊ मेजावर आपली जागा घेईल का.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "But while he was still far off, his father saw him and was moved with compassion, and ran, fell on his neck, and kissed him.",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 15:20 (World English Bible)",
+   "hi": {
+    "text": "लूका 15:20 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 15:20 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The father does not wait for the son to arrive but runs out to meet him with compassion.",
+   "hi": {
+    "text": "पिता बेटे के पहुँचने की प्रतीक्षा नहीं करता, बल्कि करुणा से भरकर उसकी ओर दौड़ पड़ता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वडील मुलाच्या पोहोचण्याची वाट पाहत नाहीत, तर करुणेने भरून त्याला भेटण्यासाठी धावत जातात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Are you more like the son who left, the son who stayed, or the father who waits? What would it take to come home, or to welcome someone else home?",
+  "hi": {
+   "text": "तुम उस बेटे से अधिक मिलते हो जो दूर चला गया, उस बेटे से जो घर पर रहा, या उस पिता से जो प्रतीक्षा करता है? घर लौटने के लिए, या किसी और को घर वापस बुलाने के लिए क्या करना होगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही त्या मुलासारखे अधिक आहात जो दूर गेला, त्या मुलासारखे जो घरी राहिला, की त्या वडिलांसारखे जो वाट पाहतो? घरी परतण्यासाठी, किंवा दुसर्या कोणाला घरी स्वागत करण्यासाठी काय लागेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love runs out to meet those who turn toward home, and invites everyone, including the resentful, to come in and share the joy.",
+  "hi": {
+   "text": "प्रेम उन लोगों की ओर दौड़ पड़ता है जो घर की ओर मुड़ते हैं, और सभी को, नाराज़ लोगों को भी, भीतर आकर आनंद में सहभागी होने का निमंत्रण देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रेम घराकडे वळणार्यांना भेटण्यासाठी धावत येते, आणि नाराज असलेल्यांसह सर्वांना आत येऊन आनंद वाटून घेण्याचे आमंत्रण देते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 15:11-32; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 15:11-32 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 15:11-32 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

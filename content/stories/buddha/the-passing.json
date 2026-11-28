@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-passing",
+ "order": 26,
+ "part": "parinirvana",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Passing",
+  "hi": {
+   "text": "महापरिनिर्वाण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महापरिनिर्वाण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A wandering teacher asks to see him at the last hour, he gives his final instructions, and in the grove at Kushinagara the Buddha enters Nirvana.",
+  "hi": {
+   "text": "एक भटकता हुआ गुरु अंतिम घड़ी में उनसे मिलने की विनती करता है, वे अपने अंतिम उपदेश देते हैं, और कुशीनगर के उपवन में बुद्ध निर्वाण में प्रवेश करते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक भटकता गुरू शेवटच्या घडीला त्यांना भेटण्याची विनंती करतो, ते आपले अंतिम उपदेश देतात, आणि कुशीनगरच्या उपवनात बुद्ध निर्वाणात प्रवेश करतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-passing-1.webp",
+   "w": 1200,
+   "h": 800,
+   "caption": {
+    "en": "Ajanta Cave 26, rock-cut monastery",
+    "hi": {
+     "text": "अजंता गुफ़ा 26",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अजिंठा लेणी क्रमांक २६",
+     "reviewed": false
+    }
+   },
+   "credit": "Rohit Sharma, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cave_26_(Mahaparinirvana_of_the_Buddha),_Ajanta_caves.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The last disciple",
+    "hi": {
+     "text": "अंतिम शिष्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटचा शिष्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There was a wandering teacher named Subhadra, well known for his virtues and for protecting all living things. In his youth he had taken up the views of other schools. Now he heard that the Tathagata was about to die, and said to Ananda that it would be hard to meet him again, as hard as to catch the moon's reflection in a mirror. I wish to see him, he said, because I seek to cross the sea of birth and death. Let me gaze for a moment on the sun of the Buddha before it quenches its rays.\n\nAnanda feared the man had come to argue, or was secretly glad that the lord was dying, and he would not let him in. The Buddha knew the earnest desire of the man and that he was a fit vessel for the teaching. Permit him to come forward, he said to Ananda. I was born to save mankind, so make no hindrance and no excuse. Subhadra was overjoyed, and approached with increased reverence. He asked only for a short explanation, to moisten his thirsty soul, and not to win an argument.",
+    "hi": {
+     "text": "सुभद्र नाम का एक भटकता हुआ गुरु था, जो अपने सद्गुणों और सभी प्राणियों की रक्षा के लिए प्रसिद्ध था। अपनी युवावस्था में उसने दूसरे संप्रदायों के विचार अपनाए थे। अब उसने सुना कि तथागत मृत्यु के निकट हैं, और उसने आनंद से कहा कि उन्हें फिर मिलना कठिन होगा, जितना दर्पण में चंद्रमा का प्रतिबिंब पकड़ना। मैं उनसे मिलना चाहता हूँ, उसने कहा, क्योंकि मैं जन्म और मृत्यु का सागर पार करना चाहता हूँ। मुझे बुद्ध के सूर्य को उसकी किरणें बुझने से पहले एक क्षण देखने दो।\n\nआनंद को भय हुआ कि वह वाद-विवाद करने आया है, या गुप्त रूप से यह आशा रखता है कि प्रभु मरने वाले हैं, इसलिए उसने उसे भीतर नहीं आने दिया। बुद्ध ने उस व्यक्ति की सच्ची इच्छा जान ली थी और जानते थे कि वह उपदेश ग्रहण करने का योग्य पात्र है। आनंद से बोले, उसे आगे आने दो। मैं मानवजाति को बचाने के लिए जन्मा हूँ, इसलिए कोई बाधा और कोई बहाना मत बनाओ। सुभद्र आनंदित हुआ, और और अधिक श्रद्धा से आगे आया। उसने केवल संक्षिप्त व्याख्या माँगी, अपनी प्यासी आत्मा को तृप्त करने के लिए, वाद जीतने के लिए नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुभद्र नावाचा एक भटकणारा गुरू होता, जो आपल्या सद्गुणांसाठी आणि सर्व प्राण्यांच्या रक्षणासाठी प्रसिद्ध होता. तरुण वयात त्याने इतर पंथांची मते स्वीकारली होती. आता त्याने ऐकले की तथागत मृत्यूच्या जवळ आहेत, आणि त्याने आनंदाला सांगितले की त्यांना पुन्हा भेटणे कठीण होईल, आरशात चंद्राचे प्रतिबिंब पकडण्याइतके कठीण. मला त्यांना भेटायचे आहे, तो म्हणाला, कारण मला जन्म आणि मृत्यूचा सागर पार करायचा आहे. बुद्धांच्या सूर्याला त्याची किरणे विझण्यापूर्वी क्षणभर पाहू द्या.\n\nआनंदाला भीती वाटली की तो वादविवाद करायला आला आहे, किंवा गुप्तपणे आशा बाळगतो आहे की प्रभू मरणार आहेत, म्हणून त्याने त्याला आत येऊ दिले नाही. बुद्धांनी त्या व्यक्तीची खरी इच्छा ओळखली होती, आणि ते जाणत होते की तो उपदेश ग्रहण करण्यास योग्य पात्र आहे. आनंदाला ते म्हणाले, त्याला पुढे येऊ दे. मी मानवजातीला वाचवण्यासाठी जन्मलो आहे, म्हणून कोणताही अडथळा किंवा सबब निर्माण करू नकोस. सुभद्र आनंदला, आणि अधिक आदराने पुढे आला. त्याने फक्त थोडक्यात स्पष्टीकरण मागितले, आपली तहानलेली आत्मा तृप्त करण्यासाठी, वाद जिंकण्यासाठी नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Subhadra sees",
+    "hi": {
+     "text": "सुभद्र देखता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुभद्राला दिसते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Buddha told him briefly of the eight right ways. Subhadra listened, and his empty heart took it as a man who has been misled takes directions for the right road. He knew that what he had known before was not the final way, and he gave up his books of heresy. He reasoned it out for himself. If lust, hatred and ignorance had a fixed nature of their own, he thought, nothing could remove them, and there would be no word like deliverance. But the teaching says that all things arise from causes, and what has a cause can have its cause removed.\n\nHe had once held that the self was a distinct entity, not seeing that it has no maker. Now he saw that there is no creator and no personal self in the world. His heart opened to the truth, and he looked at the sleeping Buddha with an earnest gaze, and could not bear to see him go. Before the Buddha reaches the end of life, he said, I will go first. He sat apart with joined hands, composed and firm, and gave up his life, as rain puts out a little fire.",
+    "hi": {
+     "text": "बुद्ध ने उसे आठ सम्यक मार्गों के बारे में संक्षेप में बताया। सुभद्र ने सुना, और उसका रिक्त हृदय उसे उस तरह ग्रहण कर गया जैसे भटका हुआ व्यक्ति सही मार्ग के निर्देश ग्रहण करता है। उसने समझ लिया कि जो वह पहले जानता था वह अंतिम मार्ग नहीं था, और उसने अपने मिथ्या मत के ग्रंथ त्याग दिए। उसने स्वयं तर्क किया। यदि वासना, द्वेष और अज्ञान का कोई निश्चित स्वभाव होता, उसने सोचा, तो उन्हें कोई हटा नहीं सकता था, और मुक्ति जैसा कोई शब्द ही न होता। पर शिक्षा कहती है कि सब कुछ कारणों से उत्पन्न होता है, और जिसका कारण है उसका कारण हटाया जा सकता है।\n\nपहले वह मानता था कि आत्मा एक स्वतंत्र सत्ता है, और यह नहीं देख पाता था कि उसका कोई रचयिता नहीं। अब उसने देखा कि संसार में न कोई सृष्टिकर्ता है न कोई व्यक्तिगत आत्मा। उसका हृदय सत्य के लिए खुल गया, और उसने सोए हुए बुद्ध को गहरी दृष्टि से देखा, और उनसे विदा लेना सहन नहीं कर सका। बुद्ध के जीवन के अंत से पहले, उसने कहा, मैं पहले जाऊँगा। वह हाथ जोड़कर अलग बैठ गया, शांत और दृढ़, और उसने अपना प्राण त्याग दिया, जैसे वर्षा छोटी-सी आग बुझा देती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांनी त्याला आठ सम्यक मार्गांबद्दल थोडक्यात सांगितले. सुभद्र ऐकत राहिला, आणि त्याचे रिकामे हृदय ते असे ग्रहण करत होते जसे भरकटलेला माणूस योग्य मार्गाच्या सूचना घेतो. त्याला समजले की त्याला पूर्वी जे ठाऊक होते ते अंतिम मार्ग नव्हता, आणि त्याने आपले मिथ्यामतांचे ग्रंथ सोडून दिले. त्याने स्वतःच विचार केला. जर वासना, द्वेष आणि अज्ञान यांचा कोणता निश्चित स्वभाव असता, तर ते कोणीही काढू शकले नसते, आणि मुक्ती नावाचा शब्दही उरला नसता. पण शिकवण सांगते की सर्व काही कारणांमधून उत्पन्न होते, आणि ज्याला कारण आहे त्याचे कारण दूर करता येते.\n\nआधी तो मानत होता की आत्मा एक स्वतंत्र अस्तित्व आहे, आणि त्याचा कोणी निर्माता नाही हे त्याला दिसत नव्हते. आता त्याने पाहिले की जगात ना कोणी सृष्टिकर्ता आहे, ना कोणी वैयक्तिक आत्मा. त्याचे हृदय सत्यासाठी खुले झाले, आणि त्याने झोपलेल्या बुद्धांकडे गंभीर नजरेने पाहिले, आणि त्यांचा निरोप घेणे त्याला सहन होईना. बुद्धांच्या आयुष्याच्या समाप्तीपूर्वी, तो म्हणाला, मी आधी जाईन. तो हात जोडून बाजूला बसला, शांत आणि दृढ, आणि त्याने आपला प्राण सोडला, जसा पाऊस एका लहानशा आगीला विझवतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The bequeathed precepts",
+    "hi": {
+     "text": "सौंपे गए नियम",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सोपवलेले नियम",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The first watch of the night passed. The moon shone, and the stars were clear, and the grove was without a sound. Moved by compassion, the Buddha gave his disciples the rules to follow after his death. Reverence the code of discipline as your master, he said, a shining lamp in the dark night, or a great jewel found by a poor man. Keep your body, words and conduct pure. Avoid lands and houses, cattle, stored wealth and hoarded grain, as you would a fiery pit, and avoid star-gazing and telling fortunes, and be kind to all that lives. Receive what is given in moderation, but do not hoard.\n\nHe spoke of the senses, which run wild like an ill-broken horse, of eating only as the body needs, like mending an old chariot, and of the bee that sips a flower without spoiling its fragrance. He told them to sleep in the middle watch and wake early. If someone cuts your body piece by piece, he said, do not let angry thoughts or harsh words rise, for nothing is so full of victory as patience.",
+    "hi": {
+     "text": "पहला पहर बीत गया। चाँद चमक रहा था, तारे स्पष्ट थे, और उपवन में कोई आवाज़ नहीं थी। करुणा से प्रेरित होकर बुद्ध ने अपने शिष्यों को मृत्यु के बाद पालन करने के नियम सौंपे। अनुशासन की संहिता को अपने गुरु की तरह सम्मान दो, उन्होंने कहा, जैसे अंधेरी रात का चमकता दीप, या गरीब मनुष्य को मिला महान रत्न। अपना शरीर, वचन और आचरण शुद्ध रखो। भूमि और घर, गाय-बैल, संचित धन और जमा किया हुआ अनाज ऐसे टालो जैसे आग का गड्ढा, और तारे देखने और भविष्य बताने से बचो, और सभी जीवों पर दयालु रहो। जो दिया जाए उसे संयम से लो, पर संग्रह मत करो।\n\nउन्होंने इंद्रियों के बारे में बोला, जो अनियंत्रित घोड़े की तरह भागती हैं, खाने के बारे में, जो केवल शरीर की आवश्यकता तक हो, जैसे जीर्ण रथ की मरम्मत, और उस मधुमक्खी के बारे में जो फूल का रस लेती है पर उसकी सुगंध नहीं बिगाड़ती। उन्होंने उन्हें मध्यरात्रि में सोने और प्रातः जल्दी जागने को कहा। यदि कोई तुम्हारे शरीर के टुकड़े-टुकड़े कर दे, उन्होंने कहा, तो क्रोध या कटु वचन मन में न आने दो, क्योंकि धैर्य से बढ़कर कोई विजय नहीं है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहिला प्रहर सरला. चंद्र चमकत होता, तारे स्पष्ट होते, आणि उपवनात एकही आवाज नव्हता. करुणेने प्रेरित होऊन बुद्धांनी आपल्या शिष्यांना त्यांच्या मृत्यूनंतर पाळायचे नियम सोपवले. शिस्तीच्या संहितेचा आपल्या गुरूसारखा आदर करा, ते म्हणाले, जसा अंधारी रात्रीतला चमकणारा दीप, किंवा गरीब माणसाला सापडलेले महान रत्न. आपले शरीर, वाणी आणि आचरण शुद्ध ठेवा. जमीन आणि घर, गायी-बैल, साठवलेले धन आणि जमा केलेले धान्य अग्नीच्या खड्ड्यासारखे टाळा, आणि तारे पाहणे व भविष्य सांगणे टाळा, आणि सर्व जीवांप्रती दयाळू रहा. जे दिले जाईल ते संयमाने घ्या, पण संग्रह करू नका.\n\nत्यांनी इंद्रियांबद्दल सांगितले, जी बिघडलेल्या घोड्यासारखी धावतात, अन्नाबद्दल, जे फक्त शरीराच्या गरजेपुरते असावे, जसे जुन्या रथाची दुरुस्ती, आणि त्या मधमाशीबद्दल जी फुलातील रस घेते पण त्याचा सुगंध बिघडवत नाही. त्यांनी त्यांना मध्यरात्री झोपण्यास आणि पहाटे लवकर उठण्यास सांगितले. जर कोणी तुमच्या शरीराचे तुकडे तुकडे केले, ते म्हणाले, तर रागाचे किंवा कडवट शब्द मनात येऊ देऊ नका, कारण संयमासारखा कोणताही विजय नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Few wants",
+    "hi": {
+     "text": "थोड़ी इच्छाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "थोड्या इच्छा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He spoke at length about a few wants and a contented mind. The man who covets much brings sorrow on himself, and the man who wants little finds rest, he said. A contented mind is always joyful, and the rich and the poor alike, if they are content, enjoy perpetual rest. A discontented man, even born to heavenly joys, has a mind burnt up by sorrow, while one who is poor and content is rich indeed. A man weighed down by many relatives is like a lone tree in the desert where birds and monkeys gather, or like an old elephant struggling in the mud.\n\nBe diligent, he said. The little streams that trickle down the mountain valleys wear away the rock by always flowing, and if we do not drill wood against wood with effort, we shall not get the spark. Right thought is like a strong armour against the six robbers of the senses, and wisdom is the boat across the sea of birth and death, the shining lamp in the dark, the medicine and the axe that fells the tangled forest of sorrow. Above all, he said, do not be careless.",
+    "hi": {
+     "text": "उन्होंने थोड़ी इच्छाओं और संतुष्ट मन के बारे में विस्तार से कहा। जो बहुत चाहता है वह अपने ऊपर दुःख लाता है, और जो कम चाहता है उसे विश्राम मिलता है, उन्होंने कहा। संतुष्ट मन सदा आनंदित रहता है, और धनी और निर्धन दोनों, यदि संतुष्ट हों, तो स्थायी विश्राम पाते हैं। असंतुष्ट मनुष्य, भले ही स्वर्गीय सुखों में जन्मा हो, उसका मन दुःख से जल उठता है, जबकि संतुष्ट और निर्धन व्यक्ति सचमुच धनी है। अनेक संबंधियों से दबा मनुष्य उस अकेले पेड़ जैसा है जहाँ रेगिस्तान में पक्षी और बंदर इकट्ठे होते हैं, या कीचड़ में संघर्ष करते बूढ़े हाथी जैसा।\n\nपरिश्रमी बनो, उन्होंने कहा। पर्वत-दरों में बहती छोटी धाराएँ निरंतर बहते हुए चट्टान को घिसती हैं, और यदि हम लकड़ी पर लकड़ी परिश्रम से नहीं घिसते, तो चिंगारी नहीं मिलती। सम्यक विचार छह लुटेरों, इंद्रियों के विरुद्ध मजबूत कवच है, और प्रज्ञा जन्म-मृत्यु के सागर को पार कराने वाली नाव है, अंधकार में चमकता दीपक, वह औषधि और कुल्हाड़ी जो दुःख के घने वन को काटती है। सबसे बढ़कर, उन्होंने कहा, लापरवाह मत बनो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांनी थोड्या इच्छा आणि समाधानी मन याविषयी विस्ताराने सांगितले. जो खूप इच्छितो तो स्वतःवर दुःख ओढवून घेतो, आणि जो कमी इच्छितो त्याला विश्रांती मिळते, ते म्हणाले. समाधानी मन नेहमी आनंदी असते, आणि श्रीमंत व गरीब दोघेही, समाधानी असतील तर, कायमची विश्रांती मिळवतात. असमाधानी माणूस, जरी स्वर्गीय सुखात जन्मला असला, तरी त्याचे मन दुःखाने जळते, तर समाधानी गरीब माणूस खरोखर श्रीमंत असतो. अनेक नातेवाइकांच्या ओझ्याखाली दबलेला माणूस त्या एकट्या झाडासारखा आहे जिथे वाळवंटात पक्षी आणि माकडे जमतात, किंवा चिखलात धडपडणाऱ्या म्हाताऱ्या हत्तीसारखा.\n\nउद्यमी व्हा, ते म्हणाले. डोंगराच्या दऱ्यांतून वाहणारे लहान ओहोळ सतत वाहून दगडालाही झिजवतात, आणि जर आपण लाकडावर लाकूड परिश्रमाने घासले नाही, तर ठिणगी मिळत नाही. सम्यक विचार सहा लुटारूंच्या, म्हणजे इंद्रियांच्या, विरुद्ध मजबूत चिलखत आहे, आणि प्रज्ञा जन्म-मृत्यूच्या सागरातून पार नेणारी नौका आहे, अंधारातला तेजस्वी दीप, ते औषध आणि ती कुऱ्हाड जी दुःखाचे दाट अरण्य तोडते. सर्वांत वर, ते म्हणाले, बेफिकीर राहू नका.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The great quiet",
+    "hi": {
+     "text": "महान शांति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महान शांतता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then he asked them to speak. If there is anything you do not understand about the four truths, ask me freely. The whole assembly was silent. Anuruddha answered for them. The moon might be warm, the sun's rays cool, the air still and the earth moving, he said, but this assembly could never doubt the truths of sorrow, its cause, its end and the way. We are sad because the lord is going to die. Why does the Buddha die so quickly?\n\nThe Buddha answered kindly. Things that come together will separate, he said. Do not give way again to sorrow. Use the appointed means, and aim for the home where separation cannot come. I have lit the lamp of wisdom, and its rays alone can drive away the gloom that shrouds the world. Rejoice, as a friend who has been grievously ill rejoices when he is healed. I have put away this painful vessel, and stemmed the flowing sea of birth and death, free for ever from pain. Guard yourselves, and let there be no remissness. These were his last words.",
+    "hi": {
+     "text": "फिर उन्होंने उन्हें बोलने को कहा। चार सत्यों के विषय में यदि तुम्हें कुछ समझ में न आए, तो मुझसे खुलकर पूछो। सारी सभा मौन थी। अनुरुद्ध ने उनकी ओर से उत्तर दिया। चंद्रमा शायद गर्म हो जाए, सूर्य की किरणें शीतल, हवा स्थिर और पृथ्वी चलायमान, उन्होंने कहा, पर यह सभा दुःख, उसके कारण, उसके निरोध और मार्ग के सत्यों पर कभी संदेह नहीं कर सकती। हम दुःखी हैं क्योंकि प्रभु मरने वाले हैं। बुद्ध इतनी जल्दी क्यों जा रहे हैं?\n\nबुद्ध ने करुणा से उत्तर दिया। जो एक साथ आता है वह अलग होगा, उन्होंने कहा। फिर शोक मत करो। नियत साधनों का उपयोग करो, और उस घर का लक्ष्य रखो जहाँ विछोह नहीं हो सकता। मैंने ज्ञान का दीपक जलाया है, और उसकी किरणें अकेली ही संसार को घेरने वाले अंधकार को दूर कर सकती हैं। आनंद मनाओ, जैसे कोई मित्र जो गंभीर रूप से बीमार रहा हो, स्वस्थ होने पर आनंदित होता है। मैंने यह कष्टदायक देह त्याग दिया है, और जन्म-मृत्यु के बहते सागर को रोक दिया है, सदा के लिए पीड़ा से मुक्त। सावधान रहो, और कोई भी शिथिलता न आने दो। ये उनके अंतिम शब्द थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग त्यांनी त्यांना बोलण्यास सांगितले. चार सत्यांविषयी तुम्हाला काही समजत नसेल तर माझ्याकडे मोकळेपणाने विचारा. सारी सभा शांत होती. अनिरुद्धने त्यांच्यातर्फे उत्तर दिले. चंद्र कदाचित उष्ण होईल, सूर्याच्या किरणे शीतल होतील, वारा स्थिर होईल आणि पृथ्वी चलायमान होईल, ते म्हणाले, पण ही सभा दुःख, त्याचे कारण, त्याचा निरोध आणि मार्ग या सत्यांबद्दल कधीच शंका घेऊ शकत नाही. आम्ही दुःखी आहोत कारण प्रभू मरणार आहेत. बुद्ध इतक्या लवकर का जात आहेत?\n\nबुद्धांनी करुणेने उत्तर दिले. जे एकत्र येते ते वेगळे होईल, ते म्हणाले. पुन्हा शोक करू नका. नियत साधनांचा उपयोग करा, आणि त्या घराचे ध्येय ठेवा जिथे विरह होऊ शकत नाही. मी ज्ञानाचा दीप पेटवला आहे, आणि त्याच्या किरणांनीच जगाला वेढणारा अंधार दूर होऊ शकतो. आनंदी व्हा, जसा गंभीर आजारी असलेला मित्र बरा झाल्यावर आनंदित होतो. मी हा वेदनादायक देह सोडला आहे, आणि जन्म-मृत्यूचा वाहता सागर थांबवला आहे, कायमचा वेदनेपासून मुक्त. सावध रहा, आणि कोणतीही शिथिलता येऊ देऊ नका. हे त्यांचे अंतिम शब्द होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "I have lit the lamp of wisdom, its rays alone can drive away the gloom that shrouds the world",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita, canto 26 (tr. Beal, 1883)",
+   "hi": {
+    "text": "बुद्धचरित, सर्ग 26 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित, सर्ग 26 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "In his last words, the Buddha tells his followers that the light he lit will remain.",
+   "hi": {
+    "text": "अपने अंतिम वचनों में बुद्ध अपने अनुयायियों से कहते हैं कि उन्होंने जलाया हुआ प्रकाश शेष रहेगा।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "आपल्या अंतिम शब्दांत बुद्ध अनुयायांना सांगतात की त्यांनी पेटवलेला प्रकाश कायम राहील.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What would you want to say to the people you love, if you knew these were your last words to them?",
+  "hi": {
+   "text": "यदि तुम्हें पता होता कि यह तुम्हारे प्रियजनों से तुम्हारे अंतिम शब्द होंगे, तो तुम उनसे क्या कहना चाहते?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जर तुला माहीत असते की हेच तुझ्या प्रियजनांना दिलेले अंतिम शब्द असतील, तर तू त्यांना काय सांगू इच्छिला असतास?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A teacher's last act is to leave the lamp lit and trust the students to carry it, and a seeker may come at the last hour and still arrive.",
+  "hi": {
+   "text": "गुरु का अंतिम कार्य दीप को जलता छोड़ना और शिष्यों पर भरोसा करना है कि वे उसे आगे ले जाएँगे, और जो अंतिम घड़ी में भी आता है, वह फिर भी पहुँच सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरूचे अंतिम कार्य म्हणजे दिवा तेवत ठेवणे आणि शिष्य तो पुढे नेतील यावर विश्वास ठेवणे; आणि जो शेवटच्या घडीलाही येतो, तो तरीही पोहोचू शकतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 26; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 26; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 26; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-teachings",
+ "order": 15,
+ "part": "awakening",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Teachings",
+  "hi": {
+   "text": "उपदेश",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "उपदेश",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "For nearly thirty years Mahavira teaches five great vows, with non-violence first among them, and builds a community of monks, nuns and householders.",
+  "hi": {
+   "text": "लगभग तीस वर्षों तक महावीर पाँच महाव्रतों का उपदेश देते हैं, जिनमें अहिंसा सर्वप्रथम है, और साधुओं, साध्वियों व गृहस्थों का संघ बनाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सुमारे तीस वर्षे महावीर पाच महाव्रतांचा उपदेश करतात, ज्यात अहिंसा सर्वप्रथम आहे, आणि साधू, साध्वी व गृहस्थ यांचा संघ उभा करतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-teachings.webp",
+   "w": 1200,
+   "h": 760,
+   "caption": {
+    "en": "Mahavira's departure with Indra (Indian painting)",
+    "hi": {
+     "text": "इंद्र के साथ महावीर का प्रस्थान (भारतीय चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इंद्रासह महावीरांचे प्रस्थान (भारतीय चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Unknown_artist,_India_-_Kalaha_Preaches_to_King_Sahr_-_Mahavira%E2%80%99s_Departure_with_Indra_-_Adoration_of_a_Tirthankara_-_90.29.2_-_Minneapolis_Institute_of_Art.jpg"
+  },
+  {
+   "src": "/stories/mahavira/m-teachings-statue.webp",
+   "w": 828,
+   "h": 1100,
+   "caption": {
+    "en": "Tirthankara statue, Mathura (Chaurasi Digambara Jain temple)",
+    "hi": {
+     "text": "तीर्थंकर प्रतिमा, मथुरा (चौरासी दिगंबर जैन मंदिर)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीर्थंकर मूर्ती, मथुरा (चौरासी दिगंबर जैन मंदिर)",
+     "reviewed": false
+    }
+   },
+   "credit": "Capankajsmilyo, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tirthankara_statue_at_Mathura_Chaurasi_Digambara_Jain_Temple_05.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The first vow",
+    "hi": {
+     "text": "पहला व्रत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहिले व्रत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Acharanga Sutra gives the first great vow in the words a monk or nun speaks at initiation. I renounce all killing of living beings, whether subtle or gross, whether moving or unmoving. I shall not kill them myself, nor cause others to do so, nor consent to it. As long as I live I confess and blame, repent and set aside these sins, in mind, speech and body.\n\nThe vow is built from three times three: to do, to cause and to consent, in thought, word and deed. Its scope is the six classes of living beings that Mahavira taught: beings of earth, of water, of fire, of air, plants, and creatures that move. Non-violence in this tradition, ahimsa, is not a matter of diet or of a single act. It is a way of seeing the whole world as alive and sensitive, and of letting that sight shape every step. It is the first vow because the other four, in the Jain view, grow out of it.",
+    "hi": {
+     "text": "आचारांग सूत्र पहला महाव्रत उन शब्दों में देता है जिन्हें दीक्षा के समय साधु या साध्वी बोलते हैं। मैं जीवों की सभी हिंसा का त्याग करता हूँ, चाहे वह सूक्ष्म हो या स्थूल, चाहे वे चलते हों या स्थिर। मैं स्वयं उनकी हिंसा नहीं करूँगा, न दूसरों से करवाऊँगा, न उसकी अनुमति दूँगा। जब तक मैं जीवित हूँ, मन, वचन और काया से इन पापों की निंदा, आलोचना, प्रायश्चित्त और त्याग करता हूँ।\n\nयह व्रत तीन-तीन के मेल से बना है: करना, करवाना और अनुमोदन करना, विचार, वचन और कर्म में। इसका विस्तार वे छह प्रकार के जीव हैं जिन्हें महावीर ने सिखाया: पृथ्वीकाय, अप्काय, तेजस्काय, वायुकाय, वनस्पति और चलने-फिरने वाले जीव। जैन परंपरा में अहिंसा केवल भोजन या किसी एक कर्म का प्रश्न नहीं है। यह संसार को जीवंत और संवेदनशील मानकर देखने की दृष्टि है, और यह दृष्टि हर कदम को दिशा देती है। यह पहला व्रत इसलिए है क्योंकि जैन दृष्टि में बाकी चारों उसी से निकलते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आचारांग सूत्र पहिले महाव्रत त्या शब्दांत देते जे दीक्षेच्या वेळी साधू किंवा साध्वी म्हणतात. मी जीवांच्या सर्व प्रकारच्या हिंसेचा त्याग करतो, मग ती सूक्ष्म असो वा स्थूल, ते जीव चालणारे असोत वा स्थिर. मी स्वतः त्यांची हिंसा करणार नाही, दुसऱ्यांकडून करवणार नाही, आणि तिला संमतीही देणार नाही. जोपर्यंत मी जिवंत आहे, मन, वाणी आणि काया यांनी या पापांची निंदा, आलोचना, प्रायश्चित्त आणि त्याग करतो.\n\nहे व्रत तीन-तीनच्या मेळाने बनले आहे: करणे, करवणे आणि अनुमोदन, विचार, वाणी आणि कृती यांत. त्याचा विस्तार म्हणजे महावीरांनी शिकवलेले सहा प्रकारचे जीव: पृथ्वीकाय, अप्काय, तेजस्काय, वायुकाय, वनस्पती आणि चालणारे जीव. जैन परंपरेत अहिंसा केवळ आहार किंवा एखाद्या कृतीचा प्रश्न नाही. ती जगाला जिवंत आणि संवेदनशील मानून पाहण्याची दृष्टी आहे, आणि ती दृष्टी प्रत्येक पावलाला दिशा देते. हे पहिले व्रत आहे कारण जैन दृष्टीने उरलेली चारही त्यातूनच निघतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Care in small things",
+    "hi": {
+     "text": "छोटी बातों में सावधानी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लहान गोष्टींत काळजी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Acharanga Sutra gives each great vow five clauses, five supports that make it practical. For the first vow, the first clause is care in walking. A monk walks carefully, not carelessly, because a careless walker might hurt, displace, injure or kill living beings with his feet.\n\nThe other clauses concern the mind and the speech: examining one's thoughts and words and refusing those that are sinful or that cause quarrels, taking care in laying down one's begging utensils, and looking at food and drink before taking them. Each clause is explained the same way. The Kevalin gives the reason, and the reason is always what harm might otherwise follow. These are rules for ascetics, and the texts are clear that householders follow gentler forms of the same vows, according to their situation. For both, the principle is attention: a person who pays attention will harm less.",
+    "hi": {
+     "text": "आचारांग सूत्र हर महाव्रत को पाँच अंग देता है, पाँच आधार जो उसे व्यवहार में लाते हैं। पहले व्रत का पहला अंग चलने में सावधानी है। साधु सावधानी से चलता है, लापरवाही से नहीं, क्योंकि असावधान चलने वाला अपने पैरों से जीवों को चोट पहुँचा सकता है, उन्हें विस्थापित कर सकता है, घायल कर सकता है या मार सकता है।\n\nअन्य अंग मन और वाणी से संबंधित हैं: अपने विचारों और शब्दों को परखना, और पापपूर्ण या कलह उत्पन्न करने वाले शब्दों को त्यागना, भिक्षा-पात्र रखते समय सावधानी बरतना, और भोजन-पेय लेने से पहले उसे देखना। हर अंग का कारण उसी ढंग से समझाया गया है। केवली कारण बताते हैं, और कारण हमेशा यह होता है कि अन्यथा कौन-सी हानि हो सकती है। ये साधुओं के नियम हैं, और पाठ स्पष्ट है कि गृहस्थ अपनी परिस्थिति के अनुसार उन्हीं व्रतों के नरम रूप पालते हैं। दोनों के लिए सिद्धांत सावधानी है: जो ध्यान रखता है, वह कम हानि करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आचारांग सूत्र प्रत्येक महाव्रताला पाच अंग देते, पाच आधार जे त्याला व्यवहारात आणतात. पहिल्या व्रताचे पहिले अंग म्हणजे चालण्यात काळजी. साधू काळजीपूर्वक चालतो, निष्काळजीपणे नाही, कारण बेफिकीर चालणारा आपल्या पायांनी जीवांना इजा करू शकतो, त्यांना विस्थापित करू शकतो, जखमी करू शकतो किंवा मारू शकतो.\n\nइतर अंगे मन आणि वाणीशी संबंधित आहेत: आपले विचार आणि शब्द तपासणे, आणि पापी किंवा कलह निर्माण करणारे शब्द नाकारणे, भिक्षापात्रे ठेवताना काळजी घेणे, आणि अन्न-पेय घेण्यापूर्वी ते पाहणे. प्रत्येक अंगाचे कारण त्याच पद्धतीने समजावले आहे. केवली कारण सांगतात, आणि कारण नेहमी हेच असते की अन्यथा कोणती हानी होऊ शकते. ही साधूंसाठीची नियमावली आहे, आणि पाठ स्पष्ट करतो की गृहस्थ आपल्या परिस्थितीनुसार त्याच व्रतांची सौम्य रूपे पाळतात. दोघांसाठी तत्त्व एकच आहे: काळजी. जो लक्ष देतो, तो कमी हानी करतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Truth, honesty, chastity, non-possession",
+    "hi": {
+     "text": "सत्य, ईमानदारी, ब्रह्मचर्य, अपरिग्रह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सत्य, प्रामाणिकपणा, ब्रह्मचर्य, अपरिग्रह",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The second vow renounces lying, whether from anger, greed, fear or mirth. Each of these four, the sutra notes, is a clause of its own, because a person moved by any of them might say what is false. The third vow, which the Jain tradition calls asteya, is not to take what has not been given. The fourth is chastity, and the fifth is non-possession, the giving up of attachment to things, people and places.\n\nTaken together, the five great vows are called the mahavratas. In the Jain tradition, Parshva had taught four of them, and Mahavira made the fifth, chastity, explicit as a separate vow. They mark out a way of life that is meant to leave as little mark as possible on other beings. The sutra gives them not as a list of prohibitions but as promises made freely, in the first person, by someone who has already seen why they are worth making.",
+    "hi": {
+     "text": "दूसरा व्रत असत्य का त्याग करता है, चाहे वह क्रोध से हो, लोभ से, भय से या हास्य से। सूत्र बताता है कि इन चारों में से हर एक का अपना अलग अंग है, क्योंकि जो व्यक्ति इनमें से किसी से प्रेरित होता है, वह असत्य बोल सकता है। तीसरा व्रत, जिसे जैन परंपरा अस्तेय कहती है, बिना दिए हुए को न लेना है। चौथा ब्रह्मचर्य है, और पाँचवाँ अपरिग्रह है, वस्तुओं, लोगों और स्थानों के प्रति आसक्ति का त्याग।\n\nये पाँचों महाव्रत मिलकर महाव्रत कहलाते हैं। जैन परंपरा में पार्श्व ने उनमें से चार सिखाए थे, और महावीर ने पाँचवें, ब्रह्मचर्य, को अलग व्रत के रूप में स्पष्ट किया। वे एक ऐसे जीवन की सीमा बनाते हैं जो संसार पर यथासंभव कम चिह्न छोड़ने के लिए बना है। सूत्र इन्हें निषेधों की सूची के रूप में नहीं, बल्कि स्वेच्छा से, प्रथम पुरुष में दिए गए वचनों के रूप में प्रस्तुत करता है, उस व्यक्ति द्वारा जिसने पहले ही देख लिया है कि इन्हें लेना क्यों उचित है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसरे व्रत असत्याचा त्याग करते, मग ते क्रोधाने, लोभाने, भयाने किंवा थट्टेने असो. सूत्र सांगते की यांपैकी प्रत्येकाचे स्वतंत्र अंग आहे, कारण यांपैकी कोणत्याही भावनेने प्रेरित झालेली व्यक्ती असत्य बोलू शकते. तिसरे व्रत, ज्याला जैन परंपरा अस्तेय म्हणते, न दिलेले घेऊ नये हे आहे. चौथे ब्रह्मचर्य आहे, आणि पाचवे अपरिग्रह, म्हणजे वस्तू, माणसे आणि स्थळे यांच्याविषयीची आसक्ती सोडणे.\n\nही पाचही मिळून महाव्रते म्हणवतात. जैन परंपरेत पार्श्वनाथांनी त्यांपैकी चार शिकवली होती, आणि महावीरांनी पाचवे, ब्रह्मचर्य, स्वतंत्र व्रत म्हणून स्पष्ट केले. ती एका अशा जीवनाची मर्यादा आखतात जे जगावर शक्य तितके कमी ठसे उमटवण्यासाठी बनलेले आहे. सूत्र त्यांना निषेधांची यादी म्हणून नव्हे, तर स्वेच्छेने, प्रथम पुरुषात दिलेल्या वचनांप्रमाणे मांडते, अशा व्यक्तीने जिने आधीच पाहिले आहे की ती का घ्यावीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The fourfold community",
+    "hi": {
+     "text": "चतुर्विध संघ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चतुर्विध संघ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Mahavira organised those who followed him into a community of four parts: monks, nuns, laymen and laywomen, or in the language of the tradition, sadhus, sadhvis, shravakas and shravikas. The Kalpa Sutra counts all four with numbers, and names a leader for each group, among them the nun Chandana and the laywomen Sulasa and Revati.\n\nThe four parts were meant to support each other. Monks and nuns lived without possessions and depended on the householders for alms, while the householders depended on monks and nuns for teaching and an example of the vows lived completely. This arrangement shaped the Jain community that survives to this day, and it gave women and laypeople a place in the teaching from the start. The nuns outnumber the monks in the sutra's figures by more than two to one, and the laywomen outnumber the laymen by about two to one.",
+    "hi": {
+     "text": "महावीर ने जो लोग उनके पीछे चले, उन्हें चार अंगों वाले समुदाय में व्यवस्थित किया: साधु, साध्वी, श्रावक और श्राविका, अथवा परंपरा की भाषा में, साधु, साध्वी, श्रावक और श्राविकाएँ। कल्पसूत्र इन चारों की संख्या बताता है, और हर समूह का एक नेता नामित करता है, जिनमें साध्वी चंदना और श्राविकाएँ सुलसा और रेवती हैं।\n\nचारों अंग एक-दूसरे का सहारा बनने के लिए थे। साधु और साध्वी बिना संपत्ति के जीते थे और भिक्षा के लिए गृहस्थों पर निर्भर थे, जबकि गृहस्थ उपदेश और व्रतों के पूर्ण पालन के उदाहरण के लिए साधुओं और साध्वियों पर निर्भर थे। इस व्यवस्था ने आज तक जीवित जैन समुदाय को आकार दिया है, और इसने आरंभ से ही स्त्रियों और गृहस्थों को शिक्षा में स्थान दिया। सूत्र के आँकड़ों में साध्वियाँ साधुओं से दो गुने से अधिक हैं, और श्राविकाएँ श्रावकों से लगभग दो गुनी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महावीरांच्या मागे चालणाऱ्यांना त्यांनी चार अंगांच्या समुदायात संघटित केले: साधू, साध्वी, श्रावक आणि श्राविका, किंवा परंपरेच्या भाषेत, साधू, साध्वी, श्रावक आणि श्राविका. कल्पसूत्र या चौघांची संख्या सांगते, आणि प्रत्येक गटासाठी एक प्रमुख नाव देते, त्यात साध्वी चंदना आणि श्राविका सुलसा व रेवती आहेत.\n\nही चारही अंगे एकमेकांना आधार देण्यासाठी होती. साधू आणि साध्वी संपत्तीविना जगत आणि भिक्षेसाठी गृहस्थांवर अवलंबून राहत, तर गृहस्थ उपदेश आणि व्रतांच्या पूर्ण पालनाच्या उदाहरणासाठी साधू व साध्वींवर अवलंबून असत. या रचनेने आजवर टिकलेल्या जैन समाजाला आकार दिला, आणि सुरुवातीपासूनच स्त्रियांना व गृहस्थांना शिकवणीत स्थान दिले. सूत्राच्या आकड्यांत साध्वी साधूंच्या दुप्पट पेक्षा अधिक आहेत, आणि श्राविका श्रावकांच्या जवळपास दुप्पट.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Many sides of the truth, and thirty years",
+    "hi": {
+     "text": "सत्य के अनेक पहलू, और तीस वर्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सत्याच्या अनेक बाजू, आणि तीस वर्षे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A teaching often attributed to Mahavira's tradition, though not found in the Kalpa Sutra itself, is anekantavada, the idea that reality has many sides and that any single statement about it is true only from one point of view. It was developed in detail by later Jain philosophers, who compared it to the old story of blind men describing an elephant. Scholars like Paul Dundas stress that it concerns the nature of reality and not tolerance for its own sake, and that the five vows remain strict. It is told here as a later development of the tradition.\n\nThe sutra gives the duration of his teaching in one phrase. He lived something less than thirty years as a kevalin, travelling the villages and towns, and spending the rainy seasons in one place after another. At seventy-two years of age, forty-two of them as a monk, his teaching years were drawing to a close.",
+    "hi": {
+     "text": "जैन परंपरा से जुड़ा एक सिद्धांत, जो कल्पसूत्र में नहीं मिलता, अनेकांतवाद है, यह विचार कि वास्तविकता के अनेक पहलू होते हैं और उसके विषय में कोई भी एक कथन केवल एक दृष्टिकोण से सत्य होता है। इसे बाद के जैन दार्शनिकों ने विस्तार से विकसित किया, जिन्होंने इसकी तुलना अंधों द्वारा हाथी के वर्णन की पुरानी कहानी से की। पॉल डंडास जैसे विद्वान बल देते हैं कि यह वास्तविकता के स्वरूप से संबंधित है, न कि केवल सहिष्णुता के लिए, और पाँच व्रत फिर भी कठोर बने रहते हैं। यहाँ इसे परंपरा के बाद के विकास के रूप में प्रस्तुत किया गया है।\n\nसूत्र उनके उपदेश की अवधि एक वाक्यांश में देता है। वे केवली के रूप में तीस वर्ष से कुछ कम जिए, गाँवों और नगरों में भ्रमण करते हुए, और वर्षा-ऋतु एक के बाद एक स्थान पर बिताते हुए। बहत्तर वर्ष की आयु में, जिनमें से बयालीस वर्ष साधु के रूप में थे, उनके उपदेश के वर्ष समाप्ति की ओर बढ़ रहे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जैन परंपरेशी जोडलेला एक सिद्धांत, जो कल्पसूत्रात आढळत नाही, तो अनेकांतवाद आहे, वास्तवाला अनेक बाजू असतात आणि त्याविषयीचे कोणतेही एक विधान केवळ एका दृष्टिकोनातूनच खरे असते, ही कल्पना. नंतरच्या जैन तत्त्वज्ञांनी तिचा सविस्तर विकास केला, आणि तिची तुलना अंधांनी हत्ती वर्णन करण्याच्या जुन्या गोष्टीशी केली. पॉल डंडास यांसारखे विद्वान भर देतात की ती वास्तवाच्या स्वरूपाशी संबंधित आहे, केवळ सहिष्णुतेसाठी नाही, आणि पाच व्रते तरीही कठोर राहतात. इथे तिला परंपरेच्या नंतरच्या विकासाप्रमाणे मांडले आहे.\n\nसूत्र त्यांच्या उपदेशाचा कालावधी एका वाक्यात देते. ते केवली म्हणून तीस वर्षांपेक्षा थोडे कमी जगले, गावोगाव आणि नगरोनगरी फिरत, आणि एकामागून एक ठिकाणी पावसाळे घालवत. बहात्तर वर्षांच्या वयात, त्यांपैकी बेचाळीस वर्षे साधू म्हणून, त्यांच्या उपदेशाची वर्षे संपत येत होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "I renounce all killing of living beings, whether subtile or gross, whether movable or immovable.",
+  "lang": "en",
+  "cite": {
+   "en": "Acharanga Sutra II, 15, 29 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "आचारांग सूत्र (द्वितीय श्रुतस्कंध) १५, २९ (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "आचारांग सूत्र (द्वितीय श्रुतस्कंध) १५, २९ (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The first great vow, spoken by Jain monks and nuns, renounces harm to every kind of living being.",
+   "hi": {
+    "text": "पहला महान व्रत, जिसे जैन साधु और साध्वियाँ बोलते हैं, जीवों के हर प्रकार की हिंसा का त्याग करता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "पहिले महान व्रत, जे जैन साधू आणि साध्वी उच्चारतात, प्रत्येक प्रकारच्या जीवांची हिंसा नाकारते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Where in your own day could a little more care in a small action spare someone, or something, from harm?",
+  "hi": {
+   "text": "तुम्हारे दिन में कहाँ थोड़ी और सावधानी किसी छोटे कर्म में किसी को, या किसी चीज़ को, हानि से बचा सकती है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझ्या दिवसात कुठे एखाद्या छोट्या कृतीत थोडी अधिक काळजी कोणाला, किंवा कशाला, हानीपासून वाचवू शकेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Non-violence begins with attention, and attention to small things shapes the whole of a life.",
+  "hi": {
+   "text": "अहिंसा ध्यान से शुरू होती है, और छोटी बातों पर ध्यान पूरे जीवन को आकार देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अहिंसा लक्ष देण्यापासून सुरू होते, आणि लहान गोष्टींकडे लक्ष दिल्याने संपूर्ण आयुष्य घडते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§134–147, with Acharanga Sutra II, 15; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§134–147, आचारांग सूत्र (द्वितीय श्रुतस्कंध), अध्ययन १५ के साथ; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§134–147, आचारांग सूत्र (द्वितीय श्रुतस्कंध), अध्ययन १५ यासह; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

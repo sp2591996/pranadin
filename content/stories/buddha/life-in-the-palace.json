@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "life-in-the-palace",
+ "order": 2,
+ "part": "birth",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Life in the Palace",
+  "hi": {
+   "text": "महल का जीवन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजवाड्यातील जीवन",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A prince grows up in a kingdom of plenty, married and surrounded by music, while his father quietly tries to keep him from the thought of leaving.",
+  "hi": {
+   "text": "एक राजकुमार सुख-समृद्धि के राज्य में बड़ा होता है, विवाहित होता है और संगीत से घिरा रहता है, जबकि उसके पिता चुपचाप उसे विरक्ति के विचार से दूर रखने का प्रयास करते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक राजपुत्र सुख-समृद्धीच्या राज्यात वाढतो, विवाहित होतो आणि संगीताने वेढलेला राहतो, तर त्याचे वडील शांतपणे त्याला विरक्तीच्या विचारापासून दूर ठेवण्याचा प्रयत्न करतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-palace-yasodhara.webp",
+   "w": 521,
+   "h": 433,
+   "caption": {
+    "en": "Siddhartha and Yasodhara in the palace, Gandhara frieze fragment",
+    "hi": {
+     "text": "महल में सिद्धार्थ और यशोधरा, गांधार फ़्रीज़ का टुकड़ा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजवाड्यात सिद्धार्थ आणि यशोधरा, गांधार फ्रीझचा तुकडा",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown, photographed in 1908., Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Siddharta_and_wife_Yasodhara_Gandhara.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A kingdom that flourishes",
+    "hi": {
+     "text": "समृद्ध होता राज्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "समृद्ध होत जाणारे राज्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "From the day the child was born, Ashvaghosha says, King Shuddhodana's fortunes rose like a river fed by many streams. Treasure came to him unasked, wild elephants from the Himalaya came to serve him, and his city was full of horses with new golden trappings. Cows grew fat, rain fell in its season, and crops ripened almost without ploughing. Even mothers gave birth in safety.\n\nThe poet paints a gentle kingdom. Enemies grew indifferent, and indifference turned to friendship. Nobody was cruel, nobody broke a promise, and nobody turned away a petitioner. People built gardens, shrines, wells and groves, and husbands and wives were faithful to each other. Seeing every aim of his people accomplished at the birth of his son, the king named the boy Sarvarthasiddha, which means one by whom every aim is accomplished.",
+    "hi": {
+     "text": "अश्वघोष कहते हैं कि बालक के जन्म के दिन से ही राजा शुद्धोदन का भाग्य उस नदी की तरह बढ़ने लगा जिसमें अनेक धाराएँ आकर मिलती हैं। बिना माँगे धन उनके पास आने लगा, हिमालय के जंगली हाथी उनकी सेवा में आए, और उनका नगर सुनहरी सजावट वाले घोड़ों से भर गया। गायें हृष्ट-पुष्ट हुईं, वर्षा समय पर हुई, और फसलें लगभग बिना जोते पकने लगीं। माताएँ भी सुरक्षित रूप से प्रसव करने लगीं।\n\nकवि एक कोमल राज्य का चित्र खींचते हैं। शत्रु उदासीन हो गए, और उदासीनता मित्रता में बदल गई। कोई क्रूर न था, कोई वचन नहीं तोड़ता था, और कोई याचक को लौटाया नहीं जाता था। लोगों ने उद्यान, मंदिर, कुएँ और वन बनाए, और पति-पत्नी एक-दूसरे के प्रति निष्ठावान रहे। पुत्र के जन्म पर अपनी प्रजा के सारे मनोरथ पूरे होते देखकर राजा ने बालक का नाम सर्वार्थसिद्ध रखा, अर्थात वह जिसके द्वारा हर लक्ष्य पूरा होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अश्वघोष सांगतात की बालकाच्या जन्मापासूनच राजा शुद्धोदनाचे भाग्य अनेक प्रवाह मिळणाऱ्या नदीसारखे वाढू लागले. न मागता संपत्ती त्यांच्याकडे येऊ लागली, हिमालयातील रानटी हत्ती त्यांची सेवा करायला आले, आणि त्यांचे नगर सोनेरी साज असलेल्या घोड्यांनी भरले. गायी सुदृढ झाल्या, पाऊस ऋतूत पडला, आणि पिके जवळजवळ नांगरणी न करताही पिकली. माताही सुरक्षितपणे प्रसूत होऊ लागल्या.\n\nकवी एका सौम्य राज्याचे चित्र रंगवतात. शत्रू उदासीन झाले, आणि उदासीनता मैत्रीत बदलली. कोणी क्रूर नव्हते, कोणी वचन मोडत नव्हते, आणि कोणा याचकाला परत फिरवले जात नव्हते. लोकांनी उद्याने, देवालये, विहिरी आणि वने निर्माण केली, आणि पती-पत्नी एकमेकांशी निष्ठावान राहिले. पुत्राच्या जन्मावेळी आपल्या प्रजेची सर्व इच्छा पूर्ण झालेली पाहून राजाने बालकाचे नाव सर्वार्थसिद्ध ठेवले, म्हणजे ज्याच्याद्वारे प्रत्येक ध्येय साध्य होते तो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The loss of a mother",
+    "hi": {
+     "text": "माता का वियोग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मातेचा वियोग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Not everything in this happy picture was bright. Queen Maya looked at the great glory of her newborn son and, the poem says, could not bear the joy of it, and she passed from this world to heaven. The infant was brought up by his mother's sister, who loved him as her own child.\n\nThe poem does not dwell on this loss. Its eye returns quickly to the growing boy, who from the start showed what the poet calls a settled calm. He was gentle, he shone with health, and he seemed to learn more quickly than other children. Yet the early death of his mother is part of the picture that the story slowly builds: a child who knew from the beginning how fragile a life can be, even in a house where nothing seemed to be lacking.",
+    "hi": {
+     "text": "इस सुखद चित्र में सब कुछ उज्ज्वल नहीं था। रानी माया अपने नवजात पुत्र के महान तेज को देखकर उस आनंद को सह न सकीं, काव्य कहता है, और वे इस संसार से स्वर्ग की ओर चली गईं। शिशु का पालन-पोषण उनकी बहन ने किया, जिसने उसे अपने बच्चे की तरह प्रेम किया।\n\nकाव्य इस हानि पर अधिक नहीं रुकता। उसकी दृष्टि शीघ्र ही बड़े होते बालक पर लौट आती है, जो आरंभ से ही उसे कवि के शब्दों में शांत स्थिरता दिखाता था। वह कोमल स्वभाव का था, स्वास्थ्य से दमकता था, और दूसरे बच्चों से जल्दी सीखता प्रतीत होता था। फिर भी माता की असमय मृत्यु उस कथा का वह भाग है जो धीरे-धीरे बनती है: एक ऐसा बालक जो आरंभ से जानता था कि जीवन कितना नाज़ुक है, उस घर में भी जहाँ किसी चीज़ की कमी नहीं लगती थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या सुखद चित्रात सर्व काही उजळ नव्हते. राणी माया आपल्या नवजात पुत्राचे थोर तेज पाहून तो आनंद सहन करू शकली नाही, काव्य सांगते, आणि ती या जगातून स्वर्गाकडे निघून गेली. बालकाचे पालनपोषण तिच्या बहिणीने केले, जिने त्याला आपल्या मुलासारखे प्रेम दिले.\n\nकाव्य या हानीवर फार रेंगाळत नाही. त्याची नजर लवकरच वाढत्या बालकावर परत येते, जो सुरुवातीपासूनच कवीच्या शब्दांत एक शांत स्थैर्य दाखवत होता. तो सौम्य होता, आरोग्याने तेजस्वी होता, आणि इतर मुलांपेक्षा लवकर शिकताना दिसत होता. तरीही मातेचा अकाली मृत्यू ही त्या कथेचा भाग आहे जी हळूहळू उभी राहते: असा बालक, ज्याला सुरुवातीपासूनच जीवन किती नाजूक आहे हे ठाऊक होते, आणि हे अशा घरात, जिथे कशाचीही कमतरता वाटत नव्हती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The father's fear",
+    "hi": {
+     "text": "पिता का भय",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पित्याची भीती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Shuddhodana had not forgotten Asita's words. The old seer had said that his son would either rule the earth or leave the world to find freedom. The king wanted the first of these and feared the second. So he set out to bind his son to the life of a king.\n\nHe sought a bride from a family of spotless character, a woman of beauty, modesty and quiet bearing named Yashodhara. The prince, the poet says, took delight in her company as Indra delights in his wife. Then, thinking that his son might see something disturbing, the king had a special dwelling prepared in the inner recesses of the palace, away from the busy streets. Ashvaghosha insists that the king's fear came from love. He wanted his son to be safe, happy and near, and he built his plan on that wish.",
+    "hi": {
+     "text": "राजा शुद्धोदन असित के वचन नहीं भूले थे। उस वृद्ध ऋषि ने कहा था कि उनका पुत्र या तो पृथ्वी पर राज्य करेगा या संसार छोड़कर मुक्ति की खोज करेगा। राजा पहले को चाहता था और दूसरे से डरता था। इसलिए उसने अपने पुत्र को राजा के जीवन से बाँधने का प्रयत्न किया।\n\nउसने निष्कलंक चरित्र वाले कुल से एक वधू खोजी, सौंदर्य, विनम्रता और शांत आचरण वाली यशोधरा। कवि कहते हैं कि राजकुमार उसके साथ ऐसे आनंदित होता था जैसे इंद्र अपनी पत्नी के साथ आनंदित होते हैं। फिर, यह सोचकर कि उसका पुत्र कोई अप्रिय दृश्य देख सकता है, राजा ने महल के भीतरी भागों में, व्यस्त गलियों से दूर, एक विशेष निवास तैयार करवाया। अश्वघोष आग्रह करते हैं कि राजा का भय प्रेम से उपजा था। वह चाहता था कि उसका पुत्र सुरक्षित, सुखी और निकट रहे, और उसने अपनी योजना इसी इच्छा पर बनाई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा शुद्धोदन असितचे शब्द विसरले नव्हते. त्या वृद्ध ऋषींनी सांगितले होते की त्याचा पुत्र एकतर पृथ्वीवर राज्य करेल किंवा जग सोडून स्वातंत्र्याचा शोध घेईल. राजाला पहिले हवे होते आणि दुसऱ्याची भीती वाटत होती. म्हणून त्याने आपल्या पुत्राला राजजीवनाशी बांधून ठेवण्याचा प्रयत्न केला.\n\nत्याने निष्कलंक चारित्र्याच्या कुळातून एक वधू शोधली, सौंदर्य, विनम्रता आणि शांत वर्तनाची यशोधरा. कवी सांगतात की राजकुमाराला तिच्या सहवासात आनंद मिळत असे, जसा इंद्राला आपल्या पत्नीच्या सहवासात मिळतो. मग, आपला पुत्र एखादे अप्रिय दृश्य पाहील या विचाराने, राजाने महालाच्या आतील भागात, गजबजलेल्या रस्त्यांपासून दूर, एक खास निवासस्थान तयार करवले. अश्वघोष आग्रह धरतात की राजाची भीती प्रेमातून आली होती. त्याला पुत्र सुरक्षित, सुखी आणि जवळ हवा होता, आणि त्याने आपली योजना त्याच इच्छेवर आधारली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The house of pleasures",
+    "hi": {
+     "text": "सुखों का भवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुखांचा महाल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In these royal apartments the seasons were all provided for. There were rooms for the heat and rooms for the cold, balconies bright like the clouds of autumn, and singing-women whose tambourines were beaten softly by their fingertips. The dances were like those of the nymphs of heaven, and the palace, the poet says, shone like Mount Kailasa.\n\nThe women delighted him with soft voices, pearl necklaces, playful laughter and glances half hidden behind the brows. Ashvaghosha even tells that once, while carried among them, he fell from the roof of a pavilion and yet did not reach the ground, like a sage stepping out of a chariot of the gods. All of this is described with real pleasure in beauty. The poet does not sneer at the prince's life. He wants us to see how complete it was, so that what comes later will be understood as a real renunciation and no escape from difficulty.",
+    "hi": {
+     "text": "इन राजसी कक्षों में हर ऋतु का प्रबंध था। गर्मी के लिए अलग कक्ष थे और ठंड के लिए अलग, शरद ऋतु के बादलों जैसे चमकते झरोखे थे, और गायिकाएँ थीं जिनकी डफलियाँ उनकी उँगलियों के सिरों से धीरे-धीरे बजती थीं। नृत्य स्वर्ग की अप्सराओं जैसे थे, और काव्य के अनुसार महल कैलास पर्वत की तरह चमकता था।\n\nस्त्रियाँ कोमल स्वरों, मोतियों के हारों, खिलखिलाती हँसी और भौंहों की ओट में छिपी चितवनों से उसे प्रसन्न करती थीं। अश्वघोष यहाँ तक बताते हैं कि एक बार उनके बीच ले जाए जाते समय वह एक मंडप की छत से गिर पड़ा, फिर भी ज़मीन तक नहीं पहुँचा, जैसे कोई ऋषि देवताओं के रथ से उतरता है। यह सब सौंदर्य के सच्चे आनंद के साथ वर्णित है। कवि राजकुमार के जीवन पर व्यंग्य नहीं करता। वह चाहता है कि हम देखें कि वह कितना पूर्ण था, ताकि बाद में आने वाले त्याग को सच्चा त्याग समझा जाए, कठिनाई से भागना नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या राजकीय दालनांत प्रत्येक ऋतूची सोय होती. उष्णतेसाठी वेगळे कक्ष होते आणि थंडीसाठी वेगळे, शरद ऋतूच्या ढगांसारखे तेजस्वी गच्च्या होत्या, आणि गायिका होत्या ज्यांच्या डफ त्यांच्या बोटांच्या टोकांनी हळूवार वाजत होत्या. नृत्ये स्वर्गातील अप्सरांसारखी होती, आणि काव्यानुसार महाल कैलास पर्वतासारखा चमकत होता.\n\nस्त्रिया मृदू स्वरांनी, मोत्यांच्या हारांनी, खळखळून हसण्याने, आणि भुवयांच्या आड लपलेल्या कटाक्षांनी त्याला आनंदित करत. अश्वघोष इथे असेही सांगतात की एकदा त्यांच्यामध्ये नेले जात असताना तो एका मंडपाच्या छतावरून खाली पडला, तरीही जमिनीपर्यंत पोहोचला नाही, जसा एखादा ऋषी देवांच्या रथातून उतरतो. हे सर्व सौंदर्याच्या खऱ्या आनंदाने वर्णिले आहे. कवी राजकुमाराच्या जीवनाची थट्टा करत नाही. त्याला आपण पाहावे की तो किती परिपूर्ण होता, म्हणजे नंतर येणाऱ्या त्यागाला खरा त्याग समजले जाईल, अडचणीपासून पळ काढणे नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A son is born",
+    "hi": {
+     "text": "एक पुत्र का जन्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुत्राचा जन्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Meanwhile the king himself lived a plain and disciplined life. He spoke only what was kind and true, he spared those whom the law had condemned, he took no more tax than he could repay in protection, and his people followed his example. He made his offerings and prayed for his son's long life.\n\nIn time Yashodhara gave birth to a son, and the poem names the child Rahula. The king was overjoyed. As he had rejoiced at the birth of his son, so he now rejoiced at the birth of his grandson, and he thought, how can I feel the love my son feels for his child? He performed every rite with care. The poet closes the canto on a note of satisfied hope. The family line was secure, and the king believed that his son was settled for good. The reader, who has heard the prophecy, knows that it is not so.",
+    "hi": {
+     "text": "इस बीच राजा स्वयं एक सरल और अनुशासित जीवन जीता था। वह केवल वही बोलता था जो दयालु और सत्य हो, जिन्हें धर्म ने दंड दिया था उन्हें वह क्षमा करता था, वह उतना ही कर लेता था जितना वह सुरक्षा के बदले लौटा सके, और उसकी प्रजा उसका अनुसरण करती थी। वह यज्ञ करता और अपने पुत्र की दीर्घायु के लिए प्रार्थना करता।\n\nसमय आने पर यशोधरा ने एक पुत्र को जन्म दिया, और काव्य उस बालक का नाम राहुल रखता है। राजा हर्ष से भर गया। जैसे उसने अपने पुत्र के जन्म पर आनंद मनाया था, वैसे ही अब उसने पौत्र के जन्म पर आनंद मनाया, और सोचा कि मैं अपने पुत्र के उस प्रेम को कैसे अनुभव कर सकता हूँ जो वह अपनी संतान से करता है? उसने हर संस्कार सावधानी से किया। कवि संतुष्ट आशा के स्वर पर सर्ग समाप्त करते हैं। वंश सुरक्षित था, और राजा मानता था कि उसका पुत्र हमेशा के लिए स्थिर हो गया है। जिस पाठक ने भविष्यवाणी सुनी है, वह जानता है कि ऐसा नहीं है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यादरम्यान राजा स्वतः साधे आणि शिस्तबद्ध जीवन जगत होता. तो फक्त दयाळू आणि सत्य बोलत असे, ज्यांना धर्माने शिक्षा ठरवली होती त्यांना तो सोडत असे, संरक्षणाच्या मोबदल्यात परत करता येईल तितकाच कर घेत असे, आणि त्याची प्रजा त्याचे अनुकरण करत असे. तो यज्ञ करत असे आणि आपल्या पुत्राच्या दीर्घायुष्यासाठी प्रार्थना करत असे.\n\nयथावकाश यशोधरेला पुत्र झाला, आणि कवी त्या बालकाचे नाव राहुल ठेवतात. राजा आनंदाने भरून गेला. जसा त्याने आपल्या पुत्राच्या जन्मावेळी आनंद मानला होता, तसाच आता नातवाच्या जन्मावेळी मानला, आणि विचार केला, मी माझ्या पुत्राला आपल्या संततीविषयी जे प्रेम वाटते ते कसे अनुभवू शकतो? त्याने प्रत्येक विधी काळजीपूर्वक केला. कवी समाधानी आशेच्या सुरात सर्ग संपवतात. वंश सुरक्षित होता, आणि राजाला वाटत होते की त्याचा पुत्र कायमचा स्थिरावला आहे. ज्या वाचकाने भविष्यवाणी ऐकली आहे, त्याला ठाऊक आहे की तसे नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "His enemies became indifferent; indifference grew into friendship",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 2.6 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 2.6 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 2.6 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "In the poet's picture of the prince's kingdom, even rivals cooled and warmed into friends.",
+   "hi": {
+    "text": "राजकुमार के राज्य के चित्र में प्रतिद्वंद्वी भी शीतल होकर मित्र बन जाते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "राजकुमाराच्या राज्याच्या चित्रात, प्रतिस्पर्धी सुद्धा थंड होऊन मित्र बनतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Is there a comfort in your life that you hold on to so tightly that it keeps you from asking a harder question?",
+  "hi": {
+   "text": "तुम्हारे जीवन में कौन सा ऐसा सुख है जिसे तुम इतनी कसकर पकड़े हो कि वह तुम्हें एक कठिन प्रश्न पूछने से रोकता है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझ्या आयुष्यातील असे कोणते सुख आहे जे तू इतके घट्ट धरून आहेस की ते तुला एक कठीण प्रश्न विचारण्यापासून रोखते?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A love that protects can also confine; real freedom has to be found, and cannot only be given.",
+  "hi": {
+   "text": "जो प्रेम रक्षा करता है, वही बाँध भी सकता है; सच्ची स्वतंत्रता खोजी जानी चाहिए, केवल दी नहीं जा सकती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जे प्रेम रक्षण करते तेच बांधूनही ठेवू शकते; खरे स्वातंत्र्य शोधावे लागते, ते केवळ दिले जाऊ शकत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 2; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 2; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 2; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

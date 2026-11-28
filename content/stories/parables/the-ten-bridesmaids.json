@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-ten-bridesmaids",
+ "order": 15,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Ten Bridesmaids",
+  "hi": {
+   "text": "दस कुँवारियाँ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दहा कुमारिका",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Ten young women wait for the bridegroom at night, and five of them have not brought enough oil.",
+  "hi": {
+   "text": "दस युवतियाँ रात में दूल्हे की प्रतीक्षा करती हैं, और उनमें से पाँच के पास पर्याप्त तेल नहीं है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दहा तरुणी रात्री वराची वाट पाहतात, आणि त्यांपैकी पाच जणींनी पुरेसे तेल आणलेले नसते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-ten-blake.webp",
+   "w": 909,
+   "h": 1100,
+   "caption": {
+    "en": "Wise and foolish virgins, William Blake (1826)",
+    "hi": {
+     "text": "बुद्धिमान और मूर्ख कुँवारियाँ, विलियम ब्लेक (1826)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शहाण्या आणि मूर्ख कुमारिका, विल्यम ब्लेक (1826)",
+     "reviewed": false
+    }
+   },
+   "credit": "William Blake, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Blake_Wise_And_Foolish_Virgins_1826.jpg"
+  },
+  {
+   "src": "/stories/parables/p-ten-met.webp",
+   "w": 967,
+   "h": 1100,
+   "caption": {
+    "en": "Wise and foolish virgins, print (Metropolitan Museum of Art)",
+    "hi": {
+     "text": "बुद्धिमान और मूर्ख कुँवारियाँ, मेट्रोपॉलिटन संग्रहालय का चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शहाण्या आणि मूर्ख कुमारिका, मेट्रोपॉलिटन संग्रहालयाचे चित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "William Blake, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Parable_of_the_Wise_and_Foolish_Virgins_MET_23107.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "On the Mount of Olives",
+    "hi": {
+     "text": "जैतून पहाड़ पर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जैतून डोंगरावर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Matthew places this parable in the last teaching Jesus gave his disciples before his arrest, spoken privately on the Mount of Olives, looking across the valley at Jerusalem. He had been speaking to them about the future, about uncertain times and the need to stay alert, and about the day that no one can predict. This parable follows naturally from all that.\n\nIt begins by saying that the Kingdom of Heaven will be like ten young women who took their lamps and went out to meet the bridegroom. The Gospel calls them virgins, meaning unmarried young women, the friends of the bride. In the weddings of that region, they waited at night for the bridegroom to arrive and then walked with him in a torchlit procession to the wedding feast. The audience would have recognised the scene at once, since a night-time wedding procession was among the loveliest sights of village life.",
+    "hi": {
+     "text": "मत्ती इस दृष्टांत को उस अंतिम शिक्षा में रखते हैं जो यीशु ने अपनी गिरफ़्तारी से पहले अपने शिष्यों को दी थी। यह जैतून पहाड़ पर निजी रूप में कही गई थी, जहाँ से घाटी के पार यरूशलेम दिखता है। वे उनसे भविष्य के बारे में बोल रहे थे, अनिश्चित समय के बारे में, सतर्क रहने की ज़रूरत के बारे में, और उस दिन के बारे में जिसका कोई पूर्वानुमान नहीं लगा सकता। यह दृष्टांत उसी बात से स्वाभाविक रूप से जुड़ता है।\n\nयह कहकर शुरू होता है कि स्वर्ग का राज्य दस युवतियों जैसा होगा, जिन्होंने अपने दीये लिए और दूल्हे से मिलने निकलीं। शुभवर्तमान उन्हें कुँवारियाँ कहता है, यानी अविवाहित युवतियाँ, जो दुल्हन की सहेलियाँ थीं। उस क्षेत्र के विवाहों में वे रात में दूल्हे के आने की प्रतीक्षा करती थीं, और फिर मशालों की रोशनी में उसके साथ भोज तक जाती थीं। सुनने वाले यह दृश्य तुरंत पहचान लेते, क्योंकि गाँव के जीवन में रात्रि की विवाह-बारात सबसे सुंदर दृश्यों में से एक थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्ती हा दृष्टांत यीशूने अटक होण्यापूर्वी आपल्या शिष्यांना दिलेल्या शेवटच्या शिकवणीत ठेवतात. ती जैतून डोंगरावर खाजगीत सांगितली गेली, जिथून दरीपलीकडचे यरूशलेम दिसते. ते त्यांच्याशी भविष्याबद्दल बोलत होते, अनिश्चित काळाबद्दल, सावध राहण्याच्या गरजेबद्दल, आणि अशा दिवसाबद्दल जो कोणालाही अंदाजित करता येत नाही. हा दृष्टांत त्या सगळ्याच्या पाठोपाठ स्वाभाविकपणे येतो.\n\nस्वर्गाचे राज्य दहा तरुणींसारखे असेल, जिने आपापले दिवे घेऊन वराला भेटायला बाहेर पडल्या, असे सांगून तो सुरू होतो. शुभवर्तमान त्यांना कुमारिका म्हणते, म्हणजे अविवाहित तरुणी, वधूच्या मैत्रिणी. त्या प्रदेशातील लग्नांत त्या रात्री वराच्या येण्याची वाट पाहत, आणि मग मशालींच्या प्रकाशात त्याच्याबरोबर लग्नाच्या मेजवानीपर्यंत मिरवणुकीने जात. ऐकणार्यांना हे दृश्य लगेच ओळखता आले असते, कारण गावाच्या जीवनात रात्रीची लग्नमिरवणूक हे सर्वात सुंदर दृश्यांपैकी एक होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Wise and foolish",
+    "hi": {
+     "text": "बुद्धिमान और मूर्ख",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शहाण्या आणि मूर्ख",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Five of the ten young women are called foolish and five wise. The difference between them is not obvious from outside. All ten have lamps, all ten are dressed for the occasion and all ten are waiting for the same bridegroom. But when the foolish ones took their lamps, they took no extra oil, while the wise took flasks of oil along with their lamps.\n\nIt is a very small detail, and exactly the kind of thing that can be overlooked when everyone is excited. Nobody plans to be unprepared. The foolish ones are not wicked, and they are not lazy. They simply expected the evening to go as they imagined, with the bridegroom arriving at a reasonable hour, and so a night's supply of oil did not seem important to them. Wisdom here is not cleverness, only the quiet habit of thinking ahead and being ready for a night that may run longer than expected.",
+    "hi": {
+     "text": "दस में से पाँच युवतियों को मूर्ख और पाँच को बुद्धिमान कहा गया है। उनके बीच का अंतर बाहर से स्पष्ट नहीं दिखता। सभी के पास दीये हैं, सभी ने उत्सव के अनुरूप वस्त्र पहने हैं, और सभी उसी दूल्हे की प्रतीक्षा कर रही हैं। पर जब मूर्ख युवतियों ने अपने दीये लिए, तो उन्होंने अतिरिक्त तेल नहीं लिया, जबकि बुद्धिमान युवतियों ने दीयों के साथ तेल की शीशियाँ भी लीं।\n\nयह बहुत छोटा ब्योरा है, और ठीक ऐसी ही चीज़ है जो सबके उत्साह में नज़रअंदाज़ हो जाती है। कोई तैयार न रहने की योजना नहीं बनाता। मूर्ख युवतियाँ दुष्ट नहीं थीं, और आलसी भी नहीं थीं। वे बस मानती थीं कि शाम वैसी ही बीतेगी जैसी वे सोचती हैं, दूल्हा उचित समय पर आ जाएगा, इसलिए रात भर के लिए अतिरिक्त तेल उन्हें ज़रूरी नहीं लगा। यहाँ बुद्धिमानी चतुराई नहीं, बल्कि आगे की सोचने और उस रात के लिए तैयार रहने की शांत आदत है जो अपेक्षा से लंबी चल सकती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहापैकी पाच तरुणींना मूर्ख आणि पाच शहाण्या म्हटले आहे. त्यांच्यातील फरक बाहेरून स्पष्ट दिसत नाही. सर्वांकडे दिवे आहेत, सर्वांनी प्रसंगासाठी पोशाख केले आहेत, आणि सर्व एकाच वराची वाट पाहत आहेत. पण जेव्हा मूर्ख तरुणींनी आपले दिवे घेतले, तेव्हा त्यांनी अतिरिक्त तेल घेतले नाही, तर शहाण्या तरुणींनी दिव्यांबरोबर तेलाच्या कुप्याही घेतल्या.\n\nहा अगदी लहानसा तपशील आहे, आणि सर्वांचा उत्साह असताना नेमकी अशीच गोष्ट दुर्लक्षित होते. कोणीही तयार नसण्याची योजना करत नाही. मूर्ख तरुणी दुष्ट नव्हत्या, आणि आळशीही नव्हत्या. त्यांना फक्त वाटत होते की संध्याकाळ त्यांच्या कल्पनेप्रमाणेच जाईल, वर योग्य वेळी येईल, म्हणून रात्रभरासाठी अतिरिक्त तेल त्यांना महत्त्वाचे वाटले नाही. येथे शहाणपण म्हणजे चतुराई नव्हे, तर पुढचा विचार करण्याची आणि अपेक्षेपेक्षा लांब चालू शकणार्या रात्रीसाठी तयार राहण्याची शांत सवय आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The midnight cry",
+    "hi": {
+     "text": "आधी रात की पुकार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मध्यरात्रीची हाक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The bridegroom is delayed, and as the hours pass, all ten grow drowsy and fall asleep. Nobody is blamed for sleeping, and the wise ones do it as well. Then at midnight there is a shout, Behold, the bridegroom is coming! Come out to meet him! The women rise and trim their lamps, and the foolish find that their lamps are running dry.\n\nThey ask the wise to share their oil, and the wise answer that there may not be enough for both, and they send them to buy some. While the five are away, the bridegroom arrives. Those who were ready go in with him to the wedding feast, and the door is shut. When the others come back and call, Lord, Lord, open to us, he answers, I do not know you.",
+    "hi": {
+     "text": "दूल्हे के आने में देरी होती है, और जैसे-जैसे घंटे बीतते हैं, दसों ऊँघने लगती हैं और सो जाती हैं। सोने के लिए किसी को दोष नहीं दिया जाता, और बुद्धिमान युवतियाँ भी सो जाती हैं। फिर आधी रात को एक आवाज़ आती है, देखो, दूल्हा आ रहा है! उससे मिलने के लिए निकलो! युवतियाँ उठकर अपने दीये ठीक करती हैं, और मूर्ख युवतियों को पता चलता है कि उनके दीयों का तेल खत्म हो रहा है।\n\nवे बुद्धिमान युवतियों से अपना तेल बाँटने को कहती हैं, और बुद्धिमान उत्तर देती हैं कि शायद दोनों के लिए पर्याप्त न हो, और उन्हें खरीद लाने को भेज देती हैं। जब पाँचों दूर हैं, तब दूल्हा आ जाता है। जो तैयार थीं वे उसके साथ विवाह-भोज में अंदर चली जाती हैं, और दरवाज़ा बंद हो जाता है। जब बाकी लौटकर पुकारती हैं, प्रभु, प्रभु, हमारे लिए दरवाज़ा खोल, तो वह उत्तर देता है, मैं तुम्हें नहीं जानता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वराला विलंब होतो, आणि जसजसे तास सरतात तसतशा सर्व दहा जणींना डुलकी लागते आणि त्या झोपी जातात. झोपण्यासाठी कोणालाही दोष दिला जात नाही, आणि शहाण्या तरुणीही झोपतात. मग मध्यरात्री आरोळी येते, पाहा, वर येत आहे! त्याला भेटायला बाहेर या! तरुणी उठतात आणि आपले दिवे नीट करतात, आणि मूर्ख तरुणींच्या लक्षात येते की त्यांच्या दिव्यांतील तेल संपत आले आहे.\n\nत्या शहाण्या तरुणींना आपले तेल वाटून द्यायला सांगतात, आणि शहाण्या उत्तर देतात की कदाचित दोघींना पुरेसे नसेल, आणि त्यांना विकत आणायला पाठवतात. त्या पाचजणी गेल्या असताना वर येतो. जे तयार होते ते त्याच्याबरोबर लग्नाच्या मेजवानीत आत जातात, आणि दरवाजा बंद होतो. बाकीच्या परत येऊन हाक मारतात, प्रभू, प्रभू, आमच्यासाठी दार उघड, तेव्हा तो उत्तर देतो, मी तुम्हांला ओळखत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Stay awake",
+    "hi": {
+     "text": "जागते रहो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जागे राहा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus ends with a plain instruction. Watch therefore, he says, for you do not know the day nor the hour. The point of the story, as the Gospel tells it, is readiness. Christians have traditionally read the bridegroom as Christ, whose return is expected but whose timing is not known, and the lamps as lives kept ready for that day.\n\nThe ending is sobering, and it has often been felt to be harsh, since the closed door seems unforgiving. Readers have noted that the story is a parable and uses heightened pictures to make its point. Its force falls on the importance of being prepared in time, because some things cannot be borrowed at the last moment, and the wise cannot hand over their own readiness to someone else. It is a call to ordinary, steady preparation, and not to fear.",
+    "hi": {
+     "text": "यीशु एक सीधे निर्देश से समाप्त करते हैं। इसलिए जागते रहो, वे कहते हैं, क्योंकि तुम न उस दिन को जानते हो न उस घड़ी को। शुभवर्तमान के अनुसार कहानी का मुद्दा तैयार रहना है। ईसाइयों ने परंपरागत रूप से दूल्हे को मसीह के रूप में पढ़ा है, जिसके लौटने की प्रतीक्षा है पर जिसका समय ज्ञात नहीं, और दीयों को उस दिन के लिए तैयार रखे गए जीवन के रूप में।\n\nअंत गंभीर है, और इसे अक्सर कठोर महसूस किया गया है, क्योंकि बंद दरवाज़ा अक्षम्य लगता है। पाठकों ने ध्यान दिया है कि यह एक दृष्टांत है और अपनी बात पर ज़ोर देने के लिए बढ़ा-चढ़ाकर चित्र इस्तेमाल करता है। इसका बल समय पर तैयार होने के महत्व पर है, क्योंकि कुछ चीज़ें अंतिम क्षण में उधार नहीं ली जा सकतीं, और बुद्धिमान अपनी तैयारी किसी दूसरे को नहीं सौंप सकते। यह डर के लिए नहीं, बल्कि साधारण, स्थिर तैयारी के लिए आवाहन है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू एका साध्या सूचनेने समाप्त करतात. म्हणून जागे राहा, ते म्हणतात, कारण तुम्हांला तो दिवस किंवा ती घटका माहीत नाही. शुभवर्तमानानुसार गोष्टीचा मुद्दा तयार असणे आहे. ख्रिस्ती लोकांनी पारंपरिकपणे वराला ख्रिस्त म्हणून वाचले आहे, ज्याच्या परतण्याची अपेक्षा आहे पण वेळ माहीत नाही, आणि दिव्यांना त्या दिवसासाठी तयार ठेवलेले जीवन म्हणून.\n\nशेवट गंभीर आहे, आणि अनेकदा तो कठोर वाटला आहे, कारण बंद दार क्षमाहीन वाटते. वाचकांनी लक्षात घेतले आहे की ही एक दृष्टांत-कथा आहे आणि आपला मुद्दा ठसवण्यासाठी अतिशयोक्त चित्रे वापरते. तिचा जोर वेळेत तयार राहण्याच्या महत्त्वावर आहे, कारण काही गोष्टी शेवटच्या क्षणी उसन्या घेता येत नाहीत, आणि शहाणे आपली तयारी दुसर्याच्या हाती सोपवू शकत नाहीत. हे भीतीसाठी नव्हे, तर सामान्य, स्थिर तयारीसाठी दिलेले आवाहन आहे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Oil that cannot be borrowed",
+    "hi": {
+     "text": "ऐसा तेल जो उधार नहीं लिया जा सकता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उसने न मिळणारे तेल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There is something universal in the story. Most traditions teach that certain things cannot be done for us, such as the inner work of character, of attention, of settled and steady practice. They have to be built over time, in ordinary days, by the person who will need them.\n\nThe parable is not meant to frighten. It simply observes that the night is long, that the moment of testing often comes when we are tired, and that those who have quietly kept something in reserve will be glad of it. Whatever our own tradition, we might ask what our oil is, the patient habits and relationships that keep a light burning, and whether we are filling our flasks while the evening is still calm. No one can live another person's faithfulness for them, however much they may wish to help.",
+    "hi": {
+     "text": "इस कहानी में एक सार्वभौमिक बात है। अधिकांश परंपराएँ सिखाती हैं कि कुछ चीज़ें हमारे लिए कोई और नहीं कर सकता, जैसे चरित्र, ध्यान और स्थिर, निरंतर अभ्यास का आंतरिक कार्य। वे समय के साथ, साधारण दिनों में, उस व्यक्ति द्वारा बनानी पड़ती हैं जिसे उनकी ज़रूरत होगी।\n\nदृष्टांत डराने के लिए नहीं है। वह बस यह देखता है कि रात लंबी होती है, परीक्षा की घड़ी अक्सर तब आती है जब हम थके होते हैं, और जिन्होंने चुपचाप कुछ बचा कर रखा है वे उसके लिए आभारी होंगे। हमारी अपनी परंपरा जो भी हो, हम पूछ सकते हैं कि हमारा तेल क्या है, वे धैर्यपूर्ण अभ्यास और संबंध जो दीया जलाए रखते हैं, और क्या हम शाम शांत होते हुए भी अपनी शीशियाँ भर रहे हैं। कोई भी किसी दूसरे की निष्ठा उसके लिए नहीं जी सकता, चाहे वह कितनी भी मदद करना चाहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या कथेत एक सार्वत्रिक गोष्ट आहे. बहुतेक परंपरा शिकवतात की काही गोष्टी आपल्यासाठी कोणी करू शकत नाही, जसे चारित्र्याचे, लक्ष देण्याचे आणि स्थिर, सातत्यपूर्ण सरावाचे अंतर्गत काम. ती वेळेनुसार, साध्या दिवसांत, ज्याला त्यांची गरज पडेल त्या व्यक्तीकडून उभारावी लागतात.\n\nहा दृष्टांत घाबरवण्यासाठी नाही. तो फक्त असे निरीक्षण करतो की रात्र लांब असते, परीक्षेची वेळ अनेकदा आपण थकलेले असताना येते, आणि ज्यांनी शांतपणे काहीतरी राखीव ठेवले आहे त्यांना त्याचा आनंद होईल. आपली स्वतःची परंपरा कोणतीही असो, आपण विचारू शकतो की आपले तेल काय आहे, कोणत्या संयमी सवयी आणि नाती दिवा तेवत ठेवतात, आणि संध्याकाळ शांत असतानाच आपण आपल्या कुप्या भरत आहोत का. कोणीही दुसर्याची निष्ठा त्याच्यासाठी जगू शकत नाही, कितीही मदत करण्याची इच्छा असली तरी.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Watch therefore, for you don’t know the day nor the hour in which the Son of Man is coming.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 25:13 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 25:13 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 25:13 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Jesus asks his listeners to stay alert and ready, because the timing of what matters most cannot be known.",
+   "hi": {
+    "text": "यीशु अपने श्रोताओं से सतर्क और तैयार रहने को कहते हैं, क्योंकि जो सबसे अधिक मायने रखता है उसका समय नहीं जाना जा सकता।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "यीशू आपल्या श्रोत्यांना सतर्क आणि तयार राहण्यास सांगतात, कारण जे सर्वात महत्त्वाचे आहे त्याची वेळ जाणता येत नाही.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What is your oil, the steady habits and relationships that would keep your light burning through a long night? What could you add to the flask while things are calm?",
+  "hi": {
+   "text": "वह तेल क्या है, वे स्थिर आदतें और संबंध जो एक लंबी रात में तुम्हारा दीया जलाए रखेंगे? शांत समय में शीशी में और क्या जोड़ सकते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमचे तेल काय आहे, त्या स्थिर सवयी आणि नाती जी लांब रात्री तुमचा दिवा तेवत ठेवतील? शांत काळात कुपीत आणखी काय भरू शकता?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Readiness is built quietly beforehand, in ordinary days, and cannot be borrowed at the last moment.",
+  "hi": {
+   "text": "तैयारी पहले से चुपचाप, साधारण दिनों में बनाई जाती है, और उसे अंतिम क्षण में उधार नहीं लिया जा सकता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तयारी आधीच शांतपणे, साध्या दिवसांत बांधली जाते, आणि ती शेवटच्या क्षणी उसनी घेता येत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 25:1-13; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 25:1-13 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 25:1-13 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

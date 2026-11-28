@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-lament-of-the-women",
+ "order": 8,
+ "part": "renunciation",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Lament of the Palace",
+  "hi": {
+   "text": "महल का विलाप",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजवाड्याचा विलाप",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A groom and a horse come home alone, and a whole city learns that the prince is gone.",
+  "hi": {
+   "text": "एक सेवक और एक घोड़ा अकेले लौटते हैं, और पूरे नगर को पता चलता है कि राजकुमार चला गया है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक सेवक आणि एक घोडा एकटे परततात, आणि संपूर्ण नगराला कळते की राजकुमार निघून गेला आहे.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-lament.webp",
+   "w": 757,
+   "h": 1100,
+   "caption": {
+    "en": "Princess Yasodhara, a Thai painting",
+    "hi": {
+     "text": "राजकुमारी यशोधरा, थाई चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमारी यशोधरा, थाई चित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Photo Dharma from Sadao, Thailand, CC BY 2.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Yasodhara.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The road home",
+    "hi": {
+     "text": "लौटने का मार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परतीचा मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ashvaghosha follows Chandaka back along the road. He had travelled it in one night with his master, and now, thinking of him all the way, it took eight days. Not a tear fell from him at first, the poet says, because his sorrow was too deep to find an outlet. The horse Kanthaka, though still brave, had lost his spirit. He walked slowly with all his gold ornaments on, and they no longer made him beautiful without his master.\n\nOften he turned his head toward the hermitage in the distance and neighed in a sad, long call. Though he was hungry, he would not take the grass or water on the road as he had done before. The two of them arrived at last at the city of Kapila, which seemed to the poet like the sky when the sun has gone, empty and dim. Even the garden, bright with lotus ponds and flowering trees, looked like a forest because its people had lost their happiness.",
+    "hi": {
+     "text": "अश्वघोष छंदक के साथ उसी मार्ग पर लौटते हैं। वह उसी मार्ग से एक रात में अपने स्वामी के साथ गया था, और अब उनका ध्यान करते हुए वही मार्ग आठ दिनों का हो गया। आरंभ में उसकी आँख से एक भी आँसू नहीं गिरा, कवि कहता है, क्योंकि उसका शोक इतना गहरा था कि उसे बाहर निकलने का मार्ग नहीं मिला। घोड़ा कंथक, साहसी होते हुए भी, अपना उत्साह खो चुका था। वह सारे सुनहरे आभूषण पहने धीरे-धीरे चल रहा था, और ये आभूषण अब अपने स्वामी के बिना उसे सुंदर नहीं बनाते थे।\n\nवह बार-बार दूर आश्रम की ओर मुड़कर एक लंबी, दुःखभरी हिनहिनाहट करता। भूखा होने पर भी उसने मार्ग में घास या पानी नहीं लिया, जैसा वह पहले करता था। आखिरकार वे दोनों कपिल नगर पहुँचे, जो कवि को उस आकाश जैसा लगा जब सूर्य अस्त हो गया हो, सूना और धूसर। यहाँ तक कि उद्यान, जो कमल-सरोवरों और फूलदार वृक्षों से सजा था, वन जैसा दिखने लगा, क्योंकि उसके लोगों का सुख खो गया था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अश्वघोष छंदकाबरोबर त्याच वाटेवरून परत येताना दाखवतात. तो त्याच वाटेने एका रात्रीत आपल्या स्वामीबरोबर गेला होता, आणि आता त्याच्या विचारात हरवलेल्या मनाने ती वाट आठ दिवसांची झाली. सुरुवातीला त्याच्या डोळ्यातून एकही अश्रू पडला नाही, कवी सांगतो, कारण त्याचे दुःख इतके खोल होते की त्याला बाहेर पडण्याचा मार्ग सापडत नव्हता. कंथक हा घोडा, धाडसी असूनही, आपला उत्साह गमावून बसला होता. सगळे सोन्याचे अलंकार घालून तो हळूहळू चालत होता, आणि ते अलंकार आता आपल्या स्वामीशिवाय त्याला सुंदर करत नव्हते.\n\nदूर आश्रमाकडे वळून तो वारंवार एक लांब, दुःखी खिंकाळणे करत होता. भुकेला असूनही त्याने वाटेवर गवत किंवा पाणी घेतले नाही, जसे तो आधी करत असे. शेवटी ते दोघे कपिल नगरीत पोहोचले, जी कवीला त्या आकाशासारखी वाटली जिथे सूर्य मावळला आहे, सुनी आणि मंद. कमल-सरोवरांनी आणि फुलांच्या वृक्षांनी सजलेले उद्यानही वनासारखे दिसू लागले, कारण तिथल्या लोकांचे सुख हरवले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The city learns",
+    "hi": {
+     "text": "नगर जानता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नगराला कळते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They entered the city slowly, and the sad citizens seemed to forbid them silently from going further. People gathered in the road and wept when they saw the horse with an empty back, as in the old story when the chariot of Dasharatha's son came home without him. Some of the crowd followed Chandaka, calling in tears, where is the king's son, the glory of his race and kingdom? You have stolen him away.\n\nChandaka answered them gently. He had not left the prince, he said. He had been sent back from the empty forest by the prince himself, who had given up his ornaments and his hair together. The crowd, hearing this, said they would go to that forest this very day, for they had no wish to live without him. A city without him was a forest, they said, and the forest where he lived was a city. Women ran to their windows crying that the prince had come back, and shut them again, wailing, when they saw the empty saddle.",
+    "hi": {
+     "text": "वे धीरे-धीरे नगर में प्रवेश कर रहे थे, और दुःखी नागरिक उन्हें मौन रूप से जैसे आगे बढ़ने से रोक रहे थे। सड़क पर लोग एकत्र हुए और जब उन्होंने खाली पीठ वाले घोड़े को देखा तो रो पड़े, जैसे पुरानी कथा में दशरथ के पुत्र का रथ उनके बिना लौटा था। भीड़ का कुछ हिस्सा छंदक के पीछे-पीछे चलते हुए रोते हुए पुकारने लगा, राजकुमार कहाँ है, राजा का पुत्र, अपने वंश और राज्य का गौरव? तुम उसे चुरा कर ले गए हो।\n\nछंदक ने उन्हें कोमलता से उत्तर दिया। उसने कहा कि वह राजकुमार को छोड़कर नहीं आया, बल्कि उसे स्वयं राजकुमार ने वन से वापस भेजा था, जिसने अपने आभूषण और केश दोनों त्याग दिए थे। यह सुनकर भीड़ ने कहा कि वे आज ही उस वन में जाएँगे, क्योंकि उन्हें उसके बिना जीने की इच्छा नहीं। उनके बिना नगर वन जैसा था, और जिस वन में वह रहता था वही उनके लिए नगर था। स्त्रियाँ खिड़कियों पर दौड़ आईं और रोती हुई पुकारीं कि राजकुमार लौट आया है, फिर खाली काठी देखकर विलाप करती हुई खिड़कियाँ बंद कर लीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते हळूहळू नगरात प्रवेश करत होते, आणि दुःखी नागरिक जणू मौनपणे त्यांना पुढे जाण्यापासून रोखत होते. रस्त्यावर लोक जमले, आणि जेव्हा त्यांनी रिकाम्या पाठीचा घोडा पाहिला तेव्हा ते रडू लागले, जसे जुन्या कथेत दशरथपुत्राचा रथ त्याच्याशिवाय परतला होता. जमावाचा एक भाग छंदकाच्या मागे धावत रडत हाका मारू लागला, राजकुमार कुठे आहे, राजाचा पुत्र, त्याच्या वंशाचे आणि राज्याचे वैभव? तू त्याला चोरून नेले आहेस.\n\nछंदकाने त्यांना सौम्यपणे उत्तर दिले. तो म्हणाला की त्याने राजकुमाराला सोडून दिले नाही, तर स्वतः राजकुमारानेच त्याला रिकाम्या वनातून परत पाठवले, ज्याने आपले अलंकार आणि केस दोन्ही त्यागले होते. हे ऐकून जमाव म्हणाला की ते आजच त्या वनात जातील, कारण त्याच्याशिवाय जगण्याची त्यांची इच्छा नाही. तो नसताना नगर वनासारखे होते, आणि ज्या वनात तो राहतो तेच त्यांच्यासाठी नगर होते. स्त्रिया खिडक्यांवर धावत आल्या आणि रडत म्हणाल्या की राजकुमार परत आला आहे, मग रिकामी खोगीर पाहून विलाप करत खिडक्या पुन्हा बंद केल्या.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The king's grief",
+    "hi": {
+     "text": "राजा का शोक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाचा शोक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Shuddhodana was in the temple, performing rites and murmuring prayers for his son's safe return. When Chandaka stood before him with the horse and the ornaments, the old king, who had held himself so firmly, lost his self-control. The poet compares him to a bull-elephant that has lost his herd. He wept aloud and asked to hear everything, as if his son's loss might be changed by learning more about it.\n\nHe turned in his grief to the horse himself. Why, he said to Kanthaka, had he carried his dear son off into the forest and thrown him down like a worthless thing? Either lead me to him, he said, or bring him back, for without him there is no life left to me. He recalled kings who had died when their sons went into the forest, and he envied them. His old firmness, steady as the earth, was gone. The poet says he lamented like Dasharatha mourning for Rama.",
+    "hi": {
+     "text": "वृद्ध राजा शुद्धोदन मंदिर में थे, अपने पुत्र की सुरक्षित वापसी के लिए अनुष्ठान करते और प्रार्थनाएँ बुदबुदाते। जब छंदक घोड़े, आभूषणों और समाचार के साथ उनके सामने खड़ा हुआ, तो वह वृद्ध राजा, जिसने अब तक स्वयं को इतनी दृढ़ता से थामे रखा था, अपना आत्मसंयम खो बैठा। कवि उसकी तुलना उस गजराज से करता है जिसने अपना झुंड खो दिया हो। वह ज़ोर से रोने लगा और सब कुछ सुनना चाहा, मानो पुत्र के खोने का दुःख इसके बारे में अधिक जानने से बदल सकता हो।\n\nअपने शोक में उसने स्वयं घोड़े से बात की। कंथक से उसने पूछा कि वह अपने प्रिय पुत्र को वन में क्यों ले गया और उसे एक निकम्मी चीज़ की तरह क्यों फेंक दिया। या तो मुझे उसके पास ले चल, उसने कहा, या उसे वापस ला, क्योंकि उसके बिना मेरे लिए जीवन शेष नहीं। उसने उन राजाओं की याद की जो अपने पुत्रों के वन जाने पर मर गए थे, और उनसे ईर्ष्या की। उसकी पुरानी दृढ़ता, जो पृथ्वी जैसी स्थिर थी, अब नहीं रही। कवि कहता है कि वह दशरथ के राम के लिए विलाप करने जैसा विलाप करने लगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वृद्ध राजा शुद्धोदन मंदिरात होते, आपल्या पुत्राच्या सुरक्षित परतीसाठी विधी करत आणि प्रार्थना पुटपुटत. जेव्हा छंदक घोडा, अलंकार आणि वार्ता घेऊन त्याच्यासमोर उभा राहिला, तेव्हा तो वृद्ध राजा, ज्याने आतापर्यंत स्वतःला इतके घट्ट धरून ठेवले होते, आपला आत्मसंयम गमावून बसला. कवी त्याची तुलना त्या गजराजाशी करतो ज्याने आपला कळप गमावला आहे. तो मोठ्याने रडू लागला आणि सारे काही ऐकू इच्छित होता, जणू पुत्राच्या हरवण्याचे दुःख त्याबद्दल अधिक जाणून घेतल्याने बदलू शकेल.\n\nआपल्या शोकात त्याने स्वतः घोड्याशी संवाद साधला. कंथकाला त्याने विचारले की त्याने आपल्या प्रिय पुत्राला वनात का नेले आणि त्याला निरुपयोगी वस्तूसारखे का फेकून दिले. एकतर मला त्याच्याकडे घेऊन चल, तो म्हणाला, किंवा त्याला परत आण, कारण त्याच्याशिवाय माझ्यासाठी जीवन उरलेले नाही. ज्या राजांचे पुत्र वनात गेल्यावर ते मरण पावले, त्यांची त्याने आठवण केली, आणि त्यांचा हेवा वाटला. पृथ्वीसारखी स्थिर त्याची जुनी दृढता आता राहिली नव्हती. कवी सांगतो की तो दशरथाने रामासाठी विलाप केला तसा विलाप करू लागला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Yashodhara's lament",
+    "hi": {
+     "text": "यशोधरा का विलाप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यशोधरेचा विलाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the women's rooms there was a different kind of silence and then a different kind of noise. The king's principal queen, Gautami, fell weeping to the ground like a cow who has lost her calf. Some women stood senseless, as if they were painted, and others beat their breasts and fainted. The palace shone with their tear-wet faces like a lake in the first rains.\n\nYashodhara, his wife, spoke with deep sorrow, her chest heaving, her eyes red with anger and grief. She asked Chandaka where he had gone, leaving her asleep in the night. She asked how the horse could have carried him so willingly. Then she said that if Kanthaka had neighed or beat his hooves, she would not be in such grief. She wept for her young son. Chandaka's reply was humble and honest. He and Kanthaka were guiltless, he said, for it had seemed the working of fate: the gates opening, the guards asleep, the horse that made no sound.",
+    "hi": {
+     "text": "महिलाओं के कक्षों में एक और प्रकार का मौन था, फिर एक दूसरे प्रकार का शोर। राजा की प्रमुख रानी गौतमी भूमि पर गिरकर रोने लगी, जैसे अपने बछड़े को खो चुकी गाय। कुछ स्त्रियाँ सुन्न खड़ी रहीं मानो चित्रित हों, और कुछ अपनी छाती पीटती हुई मूर्च्छित हो गईं। महल उनके आँसुओं से भीगे चेहरों से वैसे ही चमक रहा था जैसे पहली वर्षा के बाद कोई झील।\n\nयशोधरा, उसकी पत्नी, गहरे दुःख में बोली, उसकी छाती उठ-गिर रही थी, उसकी आँखें क्रोध और शोक से लाल थीं। उसने छंदक से पूछा कि वह कहाँ चला गया, उसे सोता छोड़कर रात में। उसने पूछा कि घोड़ा इतने इच्छापूर्वक उसे कैसे ले जा सका। फिर उसने कहा कि यदि कंथक ने हिनहिनाया होता या खुरों से धरती पीटी होती, तो वह इतने शोक में न होती। वह अपने छोटे पुत्र के लिए रोई। छंदक का उत्तर विनम्र और सच्चा था। वह और कंथक निर्दोष थे, उसने कहा, क्योंकि यह भाग्य का खेल लगा: दरवाज़े अपने आप खुलते गए, पहरेदार सो गए, और घोड़ा बिना आवाज़ किए चलता गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्त्रियांच्या दालनात आणखी एक प्रकारचे मौन होते, मग आणखी एक प्रकारचा आवाज. राजाची प्रमुख राणी गौतमी जमिनीवर कोसळून रडू लागली, जशी आपले वासरू गमावलेली गाय. काही स्त्रिया चित्रासारख्या निश्चेष्ट उभ्या राहिल्या, आणि काही छाती बडवत बेशुद्ध पडल्या. पहिल्या पावसानंतरच्या सरोवरासारखा महाल त्यांच्या अश्रुंनी भिजलेल्या चेहऱ्यांनी चमकत होता.\n\nयशोधरा, त्याची पत्नी, खोल दुःखाने बोलली, तिची छाती उसासत होती आणि डोळे क्रोध व दुःखाने लाल झाले होते. तिने छंदकाला विचारले की तो कुठे गेला, तिला रात्री झोपलेले सोडून. तिने विचारले की घोडा इतक्या इच्छेने त्याला कसा नेऊ शकला. मग ती म्हणाली की कंथकाने खिंकाळली असती किंवा खुरांनी जमीन बडवली असती, तर ती इतक्या शोकात नसती. ती आपल्या लहान पुत्रासाठी रडली. छंदकाचे उत्तर नम्र आणि प्रामाणिक होते. तो आणि कंथक निर्दोष होते, तो म्हणाला, कारण हे नशिबाचे खेळ वाटत होते: दरवाजे आपोआप उघडत गेले, पहारेकरी झोपले, आणि घोडा आवाज न करता चालत गेला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The king sends two men",
+    "hi": {
+     "text": "राजा दो लोगों को भेजता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा दोन माणसे पाठवतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The old king's grief did not end. But the king's wise counsellor and his old family priest spoke to him then, with words that neither overflowed with sorrow nor held back from it. They told him to take heart. Many kings of the earth, they reminded him, had gone into the forest throwing away their royal pomp like a crushed garland, and the sage Asita had said long ago that this child would never be made to rest contentedly in heaven or in an emperor's domain.\n\nBut if effort must be made, they said, they would go. The king gave the order at once. Go quickly, he said, for my heart will not come back to peace any more than a bird's in the woods longing for its young. The counsellor and the family priest set off for the forest. Then the king, with his wives and his queen, said, it is done, and went on with the rites that remained. His hope was now in these two men.",
+    "hi": {
+     "text": "वृद्ध राजा का शोक फिर भी समाप्त नहीं हुआ। पर उस समय राजा के बुद्धिमान सल्लागार और उसके पुराने कुलपुरोहित ने उससे बात की, ऐसे शब्दों में जो न अत्यधिक शोक से भरे थे न उसे दबाते थे। उन्होंने उसे धीर धरने को कहा। पृथ्वी के कई राजा, उन्होंने याद दिलाया, अपने राजवैभव को कुचली माला की तरह फेंककर वन में गए हैं, और ऋषि असित ने बहुत पहले कहा था कि यह बालक कभी स्वर्ग या सम्राट के क्षेत्र में संतोष से नहीं ठहरेगा।\n\nपर यदि प्रयत्न करना ही है, उन्होंने कहा, तो वे जाएँगे। राजा ने तुरंत आदेश दिया। शीघ्र जाओ, उसने कहा, क्योंकि मेरा हृदय वैसे ही शांति नहीं पाएगा जैसे वन में पंछी अपने बच्चों के लिए तड़पता है। सल्लागार और कुलपुरोहित वन की ओर चल पड़े। फिर राजा ने अपनी रानियों के साथ कहा, यह हो गया, और शेष संस्कारों में लग गया। उसकी आशा अब इन दोनों व्यक्तियों पर टिकी थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वृद्ध राजाचा शोक तरीही संपला नाही. पण त्या वेळी राजाचा शहाणा सल्लागार आणि त्याचा जुना कुलपुरोहित त्याच्याशी बोलले, अशा शब्दांत जे अति शोकाने भरलेले नव्हते आणि त्याला दाबतही नव्हते. त्यांनी त्याला धीर धरण्यास सांगितले. पृथ्वीवरील अनेक राजे, त्यांनी आठवण करून दिली, आपले राजवैभव चुरगळलेल्या माळेसारखे टाकून वनात गेले आहेत, आणि ऋषी असित यांनी फार पूर्वी सांगितले होते की हे बालक स्वर्गात किंवा सम्राटाच्या क्षेत्रात समाधानाने कधीच राहणार नाही.\n\nपण जर प्रयत्न करायचाच असेल, तर ते जातील, त्यांनी म्हटले. राजाने तत्काळ आदेश दिला. लवकर जा, तो म्हणाला, कारण माझे हृदय वनातील पक्ष्याप्रमाणे आपल्या पिल्लांसाठी तडफडते तसे शांती पावणार नाही. सल्लागार आणि कुलपुरोहित वनाच्या दिशेने निघाले. मग राजा आपल्या राण्यांसह म्हणाला, हे झाले, आणि उरलेल्या विधींमध्ये मग्न झाला. त्याची आशा आता या दोन माणसांवर होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Where is the king's son, the glory of his race and kingdom?",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 8.9 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 8.9 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 8.9 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The people of the city cry out to Chandaka as he returns alone.",
+   "hi": {
+    "text": "नगर के लोग लौटे हुए छंदक को पुकारते हैं, जब वह अकेला लौटता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "छंदक एकटा परतत असताना नगरातील लोक त्याला हाक मारतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When someone you love chooses a path that costs you, where does your grief go, and can it become something other than blame?",
+  "hi": {
+   "text": "जब कोई प्रिय तुम्हारे लिए ऐसा रास्ता चुनता है जिसमें तुम्हें कीमत चुकानी पड़े, तो तुम्हारा शोक कहाँ जाता है, और क्या वह दोष के सिवा कुछ और बन सकता है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा एखादा प्रिय तुझ्यासाठी असा मार्ग निवडतो ज्यात तुला किंमत मोजावी लागते, तेव्हा तुझे दुःख कुठे जाते, आणि ते दोषारोपाशिवाय दुसरे काही होऊ शकते का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A great renunciation leaves real grief behind it, and a story that hides that grief is only half told.",
+  "hi": {
+   "text": "महान त्याग अपने पीछे सच्चा शोक छोड़ जाता है, और जो कहानी उस शोक को छिपाती है, वह आधी ही कही गई होती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान त्याग मागे खरे दुःख सोडतो, आणि जी कथा ते दुःख लपवते ती अर्धीच सांगितलेली असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 8; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 8; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 8; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

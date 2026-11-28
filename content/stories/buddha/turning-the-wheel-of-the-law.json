@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "turning-the-wheel-of-the-law",
+ "order": 15,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Turning the Wheel of the Law",
+  "hi": {
+   "text": "धर्मचक्र प्रवर्तन",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धर्मचक्र प्रवर्तन",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "On the road to Benares the Buddha meets a stranger, then finds his five old companions and teaches them the middle way between indulgence and self-torment.",
+  "hi": {
+   "text": "वाराणसी की ओर जाते हुए बुद्ध एक अजनबी से मिलते हैं, फिर अपने पाँच पुराने साथियों को पाकर उन्हें भोग और आत्म-पीड़ा के बीच के मध्य मार्ग की शिक्षा देते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाराणसीकडे जाताना बुद्ध एका अनोळखी माणसाला भेटतात, मग आपल्या पाच जुन्या साथीदारांना शोधून त्यांना भोग आणि आत्मक्लेश यांच्यामधील मध्यम मार्ग शिकवतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-wheel-1.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Buddha teaching, Gandhara stone stele",
+    "hi": {
+     "text": "उपदेश देते बुद्ध, गांधार पाषाण स्तंभ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उपदेश करणारे बुद्ध, गांधार शिळा",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MET_11r1_61B.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A stranger on the road",
+    "hi": {
+     "text": "मार्ग पर एक अजनबी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाटेवरील अनोळखी माणूस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Tathagata set out for Benares, the city of Kasi, to turn the wheel of the law. He walked alone, calm and silent, and so full of light that he seemed to be surrounded by a crowd of followers. On the way he met a young Brahman named Upaka, who stopped at the roadside, struck by the bearing of this wanderer, and bowed with closed hands.\n\nThe crowds around us are stained and plain, he said, but your senses are composed, your face is like the full moon, and you seem to have drunk the water of the stream of the immortals. Who is your master, and what is your tribe? The answer was short. I have no master, he said, no honourable tribe, and no point of excellence. Self-taught in this deepest teaching, I have reached a wisdom beyond the human. Upaka, astonished, murmured his praise, and went on his way, stopping to think at every turning of the road.",
+    "hi": {
+     "text": "तथागत धर्मचक्र प्रवर्तित करने के लिए काशी नगर वाराणसी की ओर चले। वे अकेले, शांत और मौन चल रहे थे, और इतने प्रकाशमान थे कि लगता था जैसे अनुयायियों की भीड़ उनके साथ चल रही हो। मार्ग में उन्हें उपक नाम का एक युवा ब्राह्मण मिला, जो इस घुमक्कड़ की गरिमा से प्रभावित होकर मार्ग के किनारे रुका और हाथ जोड़कर झुका।\n\nसंसार के लोग मलिन और साधारण हैं, उन्होंने कहा, पर तुम्हारी इंद्रियाँ शांत हैं, तुम्हारा मुख पूर्णिमा के चंद्रमा जैसा है, और लगता है तुमने अमर धारा का जल पिया है। तुम्हारा गुरु कौन है, और तुम्हारा कुल क्या है? उत्तर संक्षिप्त था। मेरा कोई गुरु नहीं, उन्होंने कहा, न कोई श्रेष्ठ कुल, न कोई विशेष गुण। इस सबसे गहरे ज्ञान को स्वयं सीखकर मैंने मानव से परे की बुद्धि पाई है। उपक विस्मित होकर उनकी प्रशंसा में कुछ बुदबुदाया, और मार्ग पर रुक-रुककर सोचता हुआ आगे बढ़ गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तथागत धर्मचक्र प्रवर्तित करण्यासाठी काशी नगरी वाराणसीकडे निघाले. ते एकटे, शांत आणि मौन होते, आणि इतके तेजस्वी होते की जणू अनुयायांचा मोठा समूह त्यांच्यासोबत चालत होता. वाटेत त्यांना उपक नावाचा एक तरुण ब्राह्मण भेटला, जो या भटक्या माणसाच्या गरिमेने प्रभावित होऊन वाटेवर थांबला आणि हात जोडून वाकला.\n\nजगातील लोक मलीन आणि साधे आहेत, तो म्हणाला, पण तुमच्या इंद्रिये शांत आहेत, तुमचे मुख पौर्णिमेच्या चंद्रासारखे आहे, आणि असे दिसते की तुम्ही अमर प्रवाहाचे पाणी प्यायला आहात. तुमचा गुरू कोण आहे, आणि तुमचे कुल कोणते? उत्तर संक्षिप्त होते. माझा कोणी गुरू नाही, ते म्हणाले, ना कोणते उत्तम कुल, ना कोणता विशेष गुण. या सर्वात गहन ज्ञानाचा मी स्वतः अभ्यास करून मानवी पलीकडची बुद्धी मिळवली आहे. उपक विस्मित होऊन त्यांच्या स्तुतीत काहीतरी पुटपुटला, आणि वाटेवर थांबत विचार करत पुढे गेला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The lamp that shines by itself",
+    "hi": {
+     "text": "दीपक जो स्वयं चमकता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वतःच चमकणारा दीप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Buddha went on to explain himself to the young man, and the poem gives him a series of homely pictures. A lamp shines in the dark with no purpose of its own, he said, and so the lamp of the Tathagata burns without the shadow of a personal feeling. Bore wood against wood, and there must be fire. The wind blows of its own free nature in space. Dig deep, and you will come to water. This, he said, is the rule of things that arise from their causes.\n\nHe also gave the reason for his names. If he did not heal diseases, what would the name of physician mean? If he saw a traveller lost and did not show him the road, why should he be called a guide? He had come, he said, to teach the truth, to save living beings from pain, and to keep an old promise to rescue those not yet delivered. Then he came to the land of Kasi, with its woods, its fruit trees, and the Ganges flowing beside it.",
+    "hi": {
+     "text": "बुद्ध ने उस युवक के सामने अपनी बात समझाई, और काव्य उन्हें सरल उदाहरण देता है। दीपक अंधकार में बिना किसी उद्देश्य के जलता है, उन्होंने कहा, और इसी तरह तथागत का दीपक बिना किसी व्यक्तिगत भावना की छाया के जलता है। लकड़ी से लकड़ी रगड़ो तो आग निकलती ही है। वायु अंतरिक्ष में अपने स्वभाव से स्वतंत्र बहती है। गहरे खोदो तो जल मिलता है। यही, उन्होंने कहा, कारणों से उत्पन्न होने वाली वस्तुओं का नियम है।\n\nउन्होंने अपने नामों का कारण भी बताया। यदि वे रोग दूर नहीं करते, तो वैद्य कहलाने का क्या अर्थ है? यदि वे किसी भटके यात्री को मार्ग न दिखाएँ, तो उन्हें मार्गदर्शक क्यों कहा जाए? वे सत्य सिखाने, प्राणियों को दुःख से बचाने, और उन लोगों को मुक्त करने जो अभी बंधे हैं, इस पुराने वचन को पूरा करने आए थे। फिर वे काशी देश पहुँचे, जहाँ वन, फलदार वृक्ष थे और गंगा उनके पास बहती थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांनी त्या तरुणाला आपली बाजू समजावली, आणि काव्य त्यांना साधी उदाहरणे देते. दीप अंधारात कोणत्याही हेतूविना जळतो, ते म्हणाले, आणि त्याचप्रमाणे तथागतांचा दीप कोणत्याही वैयक्तिक भावनेच्या छायेविना जळतो. लाकडावर लाकूड घासले तर अग्नी निघतोच. वारा अवकाशात आपल्या स्वभावानेच मुक्त वाहतो. खोल खणले तर पाणी लागते. हाच, ते म्हणाले, कारणांतून उत्पन्न होणाऱ्या वस्तूंचा नियम आहे.\n\nत्यांनी आपल्या नावांचे कारणही सांगितले. जर ते रोग बरे करत नाहीत, तर वैद्य म्हणवण्यात काय अर्थ? जर एखाद्या भरकटलेल्या प्रवाशाला ते वाट दाखवत नाहीत, तर त्यांना मार्गदर्शक का म्हणावे? ते सत्य शिकवण्यासाठी, प्राण्यांना दुःखातून वाचवण्यासाठी, आणि जे अजून बंधनात आहेत त्यांना मुक्त करण्यासाठी आले होते, जुने वचन पूर्ण करण्यासाठी. मग ते काशी देशात पोहोचले, जिथे वने, फळझाडे होती आणि गंगा त्यांच्या जवळून वाहत होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The five who would not stand",
+    "hi": {
+     "text": "वे पाँच जो खड़े नहीं हुए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते पाच जे उभे राहिले नाहीत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the deer park near Benares, five ascetics were practising austerities. Beal's translation names them as Kaundinya, Dashabalakashyapa, Vashpa, Ashvajit and Bhadra. They had been the companions of his hard fasting, and they saw him coming from far off. They agreed that this Gautama had given up the practice, so they would not rise or greet him or offer him refreshments, because he had broken his first vow.\n\nBut as he drew near, they could not help themselves. Against their own agreement, they stood up and invited him to sit. They offered to take his robe and bowl, to wash his feet, and asked what else he required. Yet they went on calling him Gautama, by his family name. Do not call me by my private name, he said gently. To one who has reached the state of an arhat it is a careless way of speaking, though respect or disrespect does not disturb my mind. A buddha looks on all living beings with an equal heart, as a father looks on children.",
+    "hi": {
+     "text": "मृगदाव वन में पाँच तपस्वी कठोर तपस्या कर रहे थे। बील के अनुवाद में उनके नाम कौण्डिन्य, दशबलकाश्यप, वष्प, अश्वजित और भद्र हैं। वे उनके उपवास के साथी रहे थे, और उन्होंने उन्हें दूर से आते देखा। उन्होंने आपस में सहमति बनाई कि यह गौतम अपनी तपस्या छोड़ चुका है, इसलिए वे न उठेंगे, न उसका स्वागत करेंगे, न उसे भोजन देंगे, क्योंकि उसने अपना पहला व्रत तोड़ा है।\n\nपर जब वह निकट आए, तो वे स्वयं को रोक न सके। अपनी ही सहमति के विरुद्ध वे उठ खड़े हुए और उसे बैठने को कहा। उन्होंने उसका वस्त्र और पात्र लेने, उसके पैर धोने की पेशकश की, और पूछा कि उसे और क्या चाहिए। फिर भी वे उसे गौतम, उसके कुल के नाम से पुकारते रहे। मेरे निजी नाम से मत पुकारो, उसने कोमलता से कहा। जो अर्हत अवस्था पा चुका है, उसके लिए यह लापरवाह ढंग से बोलना है, यद्यपि आदर या अनादर मेरे मन को विचलित नहीं करते। बुद्ध सभी प्राणियों को समान हृदय से देखते हैं, जैसे पिता अपने बच्चों को देखता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मृगदाव वनात पाच तपस्वी कठोर तप करत होते. बीलच्या अनुवादात त्यांची नावे कौण्डिन्य, दशबलकाश्यप, वष्प, अश्वजित आणि भद्र अशी आहेत. ते त्यांच्या उपवासाचे साथीदार होते, आणि त्यांनी त्यांना दुरून येताना पाहिले. त्यांनी आपापसात ठरवले की हा गौतम आपली तपस्या सोडून गेला आहे, म्हणून ते उठणार नाहीत, स्वागत करणार नाहीत, त्याला अन्न देणार नाहीत, कारण त्याने आपले पहिले व्रत मोडले आहे.\n\nपण तो जवळ आल्यावर ते स्वतःला रोखू शकले नाहीत. आपल्याच ठरावाच्या विरुद्ध ते उठले आणि त्याला बसायला सांगितले. त्यांनी त्याचे वस्त्र आणि पात्र घेण्याची, त्याचे पाय धुण्याची तयारी दर्शवली, आणि त्याला आणखी काय हवे आहे ते विचारले. तरीही ते त्याला गौतम, त्याच्या कुळाच्या नावाने हाक मारत राहिले. माझे वैयक्तिक नाव घेऊ नका, त्याने सौम्यपणे सांगितले. जो अर्हत अवस्थेला पोहोचला आहे, त्याच्यासाठी हे निष्काळजीपणे बोलणे आहे, जरी आदर किंवा अनादर माझे मन विचलित करत नाहीत. बुद्ध सर्व प्राण्यांकडे समान हृदयाने पाहतात, जसा पिता आपल्या मुलांकडे पाहतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The middle way",
+    "hi": {
+     "text": "मध्य मार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मध्यम मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They still doubted him. He had practised self-denial and given it up, they said, so how could he have become a buddha? He answered by showing them the two extremes. The man who starves himself, he said, makes his thoughts confused and sickly, and one who tries to light a lamp with water will not scatter the darkness. Whoever seeks fire from rotten wood wastes his labour, but one who bores hard wood into hard wood gets it at once.\n\nIndulgence, he said, is just as great an error. A man who is sick and eats food that is not fit to eat only makes his illness worse, and one who feeds desire is like a fire in dry desert grass, fanned by the wind. I reject both extremes, he said, and my heart keeps to the middle way. The poem then names the eight right ways, right sight, thought, speech, action, livelihood, effort, recollection and meditation, which it likens to a dwelling, a pleasant grove, a city of refuge and a bed to rest on.",
+    "hi": {
+     "text": "फिर भी वे संदेह में थे। उसने आत्म-संयम किया था और उसे छोड़ दिया था, वे बोले, तो वह बुद्ध कैसे बन सकता है? उसने उन्हें दोनों अतियाँ दिखाकर उत्तर दिया। जो व्यक्ति स्वयं को भूखा रखता है, उसने कहा, उसके विचार भ्रमित और रोगी हो जाते हैं, और जो पानी से दीपक जलाने की कोशिश करता है, वह अँधेरा दूर नहीं कर पाता। जो सड़ी लकड़ी से आग माँगता है, वह अपना श्रम व्यर्थ करता है, पर जो कठोर लकड़ी को कठोर लकड़ी पर रगड़ता है, उसे तुरंत आग मिलती है।\n\nभोग भी उतनी ही बड़ी भूल है, उसने कहा। जो रोगी व्यक्ति अयोग्य भोजन खाता है, वह अपना रोग बढ़ाता है, और जो इच्छा को पोषित करता है, वह सूखी रेगिस्तानी घास में हवा से भड़की आग जैसा है। मैं दोनों अतियों को अस्वीकार करता हूँ, उसने कहा, और मेरा हृदय मध्य मार्ग पर टिका है। फिर काव्य आठ सम्यक मार्गों के नाम लेता है: सम्यक दृष्टि, संकल्प, वाणी, कर्म, आजीविका, प्रयत्न, स्मृति और ध्यान। उन्हें एक निवास, एक सुंदर उपवन, एक शरण-नगर और विश्राम की शय्या की उपमा दी गई है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तरीही ते संशयात होते. त्याने आत्मसंयम केला होता आणि तो सोडून दिला होता, ते म्हणाले, मग तो बुद्ध कसा होऊ शकतो? त्याने त्यांना दोन टोके दाखवून उत्तर दिले. जो माणूस स्वतःला उपाशी ठेवतो, तो म्हणाला, त्याचे विचार गोंधळलेले आणि रोगट होतात, आणि जो पाण्याने दिवा पेटवायचा प्रयत्न करतो, तो अंधार दूर करू शकत नाही. जो कुजलेल्या लाकडातून आग मागतो, तो आपला श्रम वाया घालवतो, पण जो कठीण लाकडावर कठीण लाकूड घासतो, त्याला लगेच आग मिळते.\n\nभोग ही तितकीच मोठी चूक आहे, तो म्हणाला. जो आजारी माणूस अयोग्य अन्न खातो, तो आपला रोग वाढवतो, आणि जो इच्छेचे पोषण करतो, तो वाळलेल्या वाळवंटी गवतातील वाऱ्याने भडकलेल्या आगीसारखा आहे. मी दोन्ही टोके नाकारतो, तो म्हणाला, आणि माझे हृदय मध्यम मार्गावर स्थिर आहे. मग काव्य आठ सम्यक मार्गांची नावे घेते: सम्यक दृष्टी, संकल्प, वाणी, कर्म, आजीविका, प्रयत्न, स्मृती आणि ध्यान. त्यांना एक निवासस्थान, एक सुंदर उपवन, एक आश्रयनगर आणि विश्रांतीची शय्या अशा उपमा दिल्या आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The wheel begins to turn",
+    "hi": {
+     "text": "चक्र घूमने लगता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चक्र फिरू लागते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He told them what the way contains. The chain of sorrow, he said, goes on turning because of covetous desire, and where the seed of desire is destroyed, as a grain of corn dies when it is taken from the earth and kept from water, then bud and leaf cannot be born. If the seed is gone, no more binding is left. Then he named the four great truths, to know sorrow, to cut off its cause, to end it, and to follow the eight right ways. Because they were now known, he said, I know that deliverance is gained, that all is done.\n\nWhen he had spoken, Kaundinya and eighty thousand of the host of gods were filled with saving knowledge and gained the pure eye of the law. The Buddha asked with a lion's voice whether he now understood, and Kaundinya answered that he knew the great master's law. For this reason he was called Ajnata Kaundinya, Kaundinya who knows, the first of the disciples to understand.",
+    "hi": {
+     "text": "उसने उन्हें बताया कि मार्ग में क्या है। शोक का चक्र, उसने कहा, कामना के लोभ से घूमता रहता है, और जहाँ कामना के बीज का नाश होता है, जैसे अनाज का दाना धरती से निकाल कर पानी से दूर रखने पर अंकुर नहीं देता, वहाँ न कली उगती है न पत्ता। यदि बीज नहीं, तो फिर कोई बंधन नहीं बचता। फिर उसने चार महान सत्य बताए: दुःख को जानना, उसके कारण को काटना, उसका निरोध करना, और उस अष्टांग मार्ग पर चलना। क्योंकि ये अब जान लिए गए हैं, उसने कहा, इसलिए मैं जानता हूँ कि मुक्ति प्राप्त हो गई है, सब कुछ पूरा हो चुका है।\n\nजब उसने यह कहा, तो कौण्डिन्य और अस्सी हजार देवताओं के समूह को शुद्ध ज्ञान का प्रकाश मिला और उन्होंने धर्म की शुद्ध दृष्टि पाई। बुद्ध ने सिंह जैसे स्वर में पूछा कि क्या वह अब समझ गया है, और कौण्डिन्य ने उत्तर दिया कि उसने महान गुरु का धर्म जान लिया है। इसीलिए उसे अज्ञात कौण्डिन्य कहा गया, कौण्डिन्य जो जानता है, पहला शिष्य जिसने समझा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याने त्यांना सांगितले की मार्गात काय आहे. दुःखाचे चक्र, तो म्हणाला, तृष्णेच्या लोभाने फिरत राहते, आणि जिथे तृष्णेच्या बीजाचा नाश होतो, जसे धान्याचा दाणा जमिनीतून काढून पाण्यापासून दूर ठेवला की अंकुर फुटत नाही, तिथे ना कळी उगवते ना पान. बीज नसेल, तर मग कोणतेही बंधन उरत नाही. मग त्याने चार आर्य सत्ये सांगितली: दुःख जाणणे, त्याचे कारण तोडणे, त्याचा निरोध करणे, आणि त्या अष्टांगिक मार्गावर चालणे. ही आता जाणली गेली असल्यामुळे, तो म्हणाला, मला ठाऊक आहे की मुक्ती मिळाली आहे, सर्व काही पूर्ण झाले आहे.\n\nजेव्हा त्याने हे सांगितले, तेव्हा कौण्डिन्य आणि ऐंशी हजार देवांच्या समूहाला शुद्ध ज्ञानाचा प्रकाश मिळाला आणि त्यांना धर्माची शुद्ध दृष्टी लाभली. बुद्धांनी सिंहासारख्या स्वरात विचारले की तो आता समजला आहे का, आणि कौण्डिन्याने उत्तर दिले की त्याने महान गुरूंचा धर्म जाणला आहे. म्हणूनच त्याला अज्ञात कौण्डिन्य म्हटले गेले, कौण्डिन्य जो जाणतो, पहिला शिष्य ज्याने समजून घेतले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "I have no master; no honourable tribe; no point of excellence",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita, canto 15 (tr. Beal, 1883)",
+   "hi": {
+    "text": "बुद्धचरित, सर्ग 15 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित, सर्ग 15 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The Buddha answers a stranger who asks who taught him.",
+   "hi": {
+    "text": "एक अजनबी पूछता है कि बुद्ध को किसने सिखाया, और बुद्ध उत्तर देते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "एक अनोळखी माणूस विचारतो की बुद्धांना कोणी शिकवले, आणि बुद्ध उत्तर देतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Where in your own life are you pulled toward one of the two extremes, too much strain or too much ease?",
+  "hi": {
+   "text": "तुम्हारे जीवन में कहाँ तुम दो अतियों में से किसी एक की ओर खिंचते हो, अत्यधिक परिश्रम या अत्यधिक सुख, और सुविधा का मध्य मार्ग कैसा दिखेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझ्या आयुष्यात तू कुठे दोनपैकी एका टोकाकडे ओढला जातोस, अति परिश्रम किंवा अति सुख, आणि सोयीचा मध्यम मार्ग कसा दिसेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The middle way is neither self-punishment nor indulgence: it keeps the body and mind steady enough to see clearly.",
+  "hi": {
+   "text": "मध्य मार्ग न आत्म-दंड है न भोग; वह शरीर और मन को इतना स्थिर रखता है कि स्पष्ट देख सकें।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मध्यम मार्ग ना आत्मदंड आहे ना भोग; तो शरीर आणि मन इतके स्थिर ठेवतो की स्पष्ट पाहता येते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 15; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 15; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 15; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

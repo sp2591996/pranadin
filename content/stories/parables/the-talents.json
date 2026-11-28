@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-talents",
+ "order": 16,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Talents",
+  "hi": {
+   "text": "तालंत",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तलांत",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A master entrusts his property to three servants, and two put it to work while one buries it in the ground.",
+  "hi": {
+   "text": "एक स्वामी तीन सेवकों को अपनी संपत्ति सौंपकर यात्रा पर जाता है, दो सेवक उसे काम में लगाते हैं जबकि एक उसे ज़मीन में गाड़ देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक धनी माणूस तीन सेवकांवर आपली संपत्ती सोपवून प्रवासाला जातो, दोघे ती कामाला लावतात, तर एक ती जमिनीत पुरून ठेवतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-talents-poorter.webp",
+   "w": 1200,
+   "h": 983,
+   "caption": {
+    "en": "The parable of the talents (minas), Willem de Poorter",
+    "hi": {
+     "text": "तालंतों का दृष्टांत, विलेम दे पूर्टर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तलांतांचा दृष्टांत, विलेम दे पूर्टर",
+     "reviewed": false
+    }
+   },
+   "credit": "Willem de Poorter, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Willem_de_Poorter%27s_The_Parable_of_The_Talents_or_Minas.png"
+  },
+  {
+   "src": "/stories/parables/p-talents-anvertraut.webp",
+   "w": 900,
+   "h": 614,
+   "caption": {
+    "en": "Die anvertrauten Pfunde (the entrusted pounds), modern artwork",
+    "hi": {
+     "text": "सौंपे गए पाउंड (Die anvertrauten Pfunde), आधुनिक कलाकृति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सोपवलेले पौंड (Die anvertrauten Pfunde), आधुनिक कलाकृती",
+     "reviewed": false
+    }
+   },
+   "credit": "Pedemann, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Die_anvertrauten_Pfunde.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Entrusted before a journey",
+    "hi": {
+     "text": "यात्रा से पहले सौंपी गई संपत्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रवासापूर्वी सोपवलेली संपत्ती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Matthew tells this parable in the same last teaching on the Mount of Olives as the story of the ten bridesmaids, and the two belong together. Jesus is speaking to his disciples about how to live while waiting for a future that nobody can see clearly. This one is less about watching and more about what to do in the meantime.\n\nA man is going on a journey, and before he leaves he calls his servants and entrusts his property to them. This was a common arrangement in a world without banks as we know them. A master going abroad would leave his wealth in the hands of those he trusted, and when he returned he would expect to find that it had been looked after, and perhaps increased. Today we may think of a talent as a personal gift, but the story begins with a heavy purse and a long road.",
+    "hi": {
+     "text": "मत्ती इस दृष्टांत को उसी अंतिम शिक्षा में सुनाते हैं जैसे जैतून पहाड़ पर दस कुँवारियों की कहानी, और ये दोनों एक-दूसरे से जुड़ी हैं। यीशु अपने शिष्यों से बोल रहे हैं कि उस भविष्य की प्रतीक्षा करते हुए कैसे जिया जाए जिसे कोई भी साफ़ नहीं देख सकता। यह दृष्टांत जागते रहने के बजाय इस बात पर अधिक है कि इस बीच क्या किया जाए।\n\nएक मनुष्य यात्रा पर जा रहा है, और जाने से पहले वह अपने सेवकों को बुलाकर अपनी संपत्ति उन्हें सौंप देता है। बिना उन बैंकों वाले संसार में यह एक आम व्यवस्था थी। विदेश जाने वाला स्वामी अपनी धन-संपत्ति उन लोगों के हाथों में छोड़ जाता था जिन पर वह भरोसा करता था, और लौटने पर उसकी अपेक्षा होती थी कि सब कुछ सँभाला गया है, और शायद बढ़ा भी है। आज हम तालंत को व्यक्तिगत प्रतिभा के रूप में सोच सकते हैं, पर कहानी एक भारी थैली और एक लंबी राह से शुरू होती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्ती हा दृष्टांत त्याच अंतिम शिकवणीत सांगतात जिथे जैतून डोंगरावर दहा कुमारिकांची गोष्ट आहे, आणि त्या दोन्ही एकमेकांशी जुळलेल्या आहेत. यीशू आपल्या शिष्यांशी बोलतात की कोणालाही स्पष्ट न दिसणार्या भविष्याच्या प्रतीक्षेत कसे जगावे. ही गोष्ट जागे राहण्याबद्दल कमी आणि त्या दरम्यान काय करायचे याबद्दल अधिक आहे.\n\nएक माणूस प्रवासाला निघाला आहे, आणि जाण्यापूर्वी तो आपल्या सेवकांना बोलावून आपली मालमत्ता त्यांच्या हाती सोपवतो. आपण ओळखतो तसे बँका नसलेल्या जगात ही एक सामान्य व्यवस्था होती. परदेशी जाणारा धनी आपली संपत्ती ज्यांच्यावर विश्वास आहे त्यांच्या हाती सोडून जात असे, आणि परत आल्यावर तिची काळजी घेतलेली, आणि कदाचित वाढलेली असावी अशी अपेक्षा करत असे. आज आपण तालंताला वैयक्तिक देणगी समजू शकतो, पण कथा एका जड थैलीने आणि लांब वाटेने सुरू होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Five, two and one",
+    "hi": {
+     "text": "पाँच, दो और एक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाच, दोन आणि एक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "To one servant the master gives five talents, to another two and to a third one, each according to his ability. A talent was a very large sum, worth many years of a labourer's wages, so even the smallest portion was a serious trust. The word talent in English, meaning a gift or skill, comes from this story, though in the Gospel it is a measure of money.\n\nThe master goes away. The servant with five talents immediately goes to work and trades with them, and makes another five. The servant with two does the same and gains two more. But the servant with one talent goes away, digs a hole in the ground and hides his master's money. Nothing is lost, but nothing is done either, and the long days of waiting begin.",
+    "hi": {
+     "text": "एक सेवक को स्वामी पाँच तालंत देता है, दूसरे को दो और तीसरे को एक, हर एक को उसकी क्षमता के अनुसार। एक तालंत बहुत बड़ी रकम थी, कई वर्षों की मज़दूरी के बराबर, इसलिए सबसे छोटा हिस्सा भी एक गंभीर भरोसा था। अंग्रेज़ी का टैलेंट शब्द, जिसका अर्थ प्रतिभा या कौशल है, इसी कहानी से आया है, हालाँकि सुसमाचार में यह धन का एक माप है।\n\nस्वामी चला जाता है। जिस सेवक के पास पाँच तालंत थे, वह तुरंत काम में लग जाता है और उनसे व्यापार करता है, और पाँच और कमा लेता है। जिसके पास दो थे वह भी ऐसा ही करता है और दो और कमा लेता है। पर जिस सेवक को एक तालंत मिला था वह जाकर ज़मीन में गड्ढा खोदता है और अपने स्वामी का धन छिपा देता है। कुछ खोता नहीं, पर कुछ किया भी नहीं जाता, और इंतज़ार के लंबे दिन शुरू हो जाते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका सेवकाला धनी पाच तलांत देतो, दुसर्याला दोन आणि तिसर्याला एक, प्रत्येकाच्या क्षमतेनुसार. एक तलांत ही फार मोठी रक्कम होती, अनेक वर्षांच्या मजुरीइतकी, त्यामुळे सर्वात लहान वाटासुद्धा गंभीर विश्वास होता. इंग्रजीतील टॅलेंट हा शब्द, म्हणजे देणगी किंवा कौशल्य, याच गोष्टीवरून आला आहे, जरी शुभवर्तमानात तो पैशाचे माप आहे.\n\nधनी निघून जातो. ज्याच्याजवळ पाच तलांत होते तो लगेच कामाला लागतो आणि त्यांचा व्यापार करतो, आणि आणखी पाच मिळवतो. ज्याच्याजवळ दोन होते तोही असेच करतो आणि आणखी दोन मिळवतो. पण ज्या सेवकाला एक तलांत मिळाले होते तो जाऊन जमिनीत खड्डा खणतो आणि धन्याचे पैसे लपवतो. काही हरवत नाही, पण काही केलेही जात नाही, आणि प्रतीक्षेचे लांबलेले दिवस सुरू होतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The reckoning",
+    "hi": {
+     "text": "हिसाब का दिन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हिशेबाचा दिवस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After a long time the master returns and settles accounts. The first servant comes forward with ten talents, and the master says, Well done, good and faithful servant. You have been faithful over a few things, and I will set you over many. Enter into the joy of your lord. The second, with four, receives exactly the same words of praise.\n\nThen the third servant steps up. Lord, he says, I knew you were a hard man, reaping where you did not sow, and I was afraid. So I went and hid your talent in the ground. Here is what is yours. The master calls him wicked and lazy, says he might at least have put the money with the bankers to earn interest, and the talent is given to the one with ten.",
+    "hi": {
+     "text": "बहुत समय बाद स्वामी लौटता है और हिसाब करता है। पहला सेवक दस तालंत लेकर आगे आता है, और स्वामी कहता है, शाबाश, अच्छे और विश्वासयोग्य सेवक। तू थोड़ी बातों में विश्वासयोग्य रहा, मैं तुझे बहुत बातों पर अधिकारी बनाऊँगा। अपने स्वामी के आनंद में प्रवेश कर। दूसरा, चार तालंत लेकर, ठीक वैसी ही प्रशंसा पाता है।\n\nफिर तीसरा सेवक आगे बढ़ता है। स्वामी, वह कहता है, मैं जानता था कि तू कठोर मनुष्य है, जहाँ तूने बोया नहीं वहाँ काटता है, और मैं डर गया। इसलिए मैंने जाकर तेरा तालंत ज़मीन में छिपा दिया। देख, यह रहा जो तेरा है। स्वामी उसे दुष्ट और आलसी कहता है, कहता है कि उसे कम से कम साहूकारों के पास धन रखना चाहिए था ताकि ब्याज मिलता, और वह तालंत उस सेवक से लेकर जिसके पास दस हैं उसे दे दिया जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बर्याच काळानंतर धनी परत येतो आणि हिशेब करतो. पहिला सेवक दहा तलांत घेऊन पुढे येतो, आणि धनी म्हणतो, शाब्बास, चांगल्या आणि विश्वासू सेवका. तू थोड्या गोष्टींत विश्वासू राहिलास, मी तुला पुष्कळ गोष्टींवर अधिकारी नेमीन. तुझ्या धन्याच्या आनंदात प्रवेश कर. दुसरा, चार तलांतांसह, अगदी तसेच कौतुक मिळवतो.\n\nमग तिसरा सेवक पुढे येतो. धनी, तो म्हणतो, मला माहीत होते की तू कठोर माणूस आहेस, जिथे पेरले नाहीस तिथे कापतोस, आणि मी घाबरलो. म्हणून मी जाऊन तुझा तलांत जमिनीत लपवून ठेवला. पाहा, हे तुझे आहे. धनी त्याला दुष्ट आणि आळशी म्हणतो, म्हणतो की त्याने निदान सावकारांकडे पैसे ठेवायला हवे होते म्हणजे व्याज मिळाले असते, आणि तो तलांत ज्याच्याजवळ दहा आहेत त्याला दिला जातो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Fear and trust",
+    "hi": {
+     "text": "भय और भरोसा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भय आणि भरवसा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The turning point of the story is the third servant's reason. He did not lose the money through carelessness, and he did not steal it. He was afraid. His picture of the master as a hard man made him play safe, and in the process he gave back exactly what he had received and nothing more. The parable asks whether such caution can ever be real faithfulness.\n\nChristians have taken the talents as the gifts God gives each person, abilities, opportunities and time, which are meant to be used and not buried. The Gospel adds a hard saying, that to everyone who has, more will be given, and from the one who has not, even what he has will be taken away. It describes how gifts grow with use and shrink when they are left idle.",
+    "hi": {
+     "text": "कहानी का मोड़ तीसरे सेवक के कारण पर है। उसने धन लापरवाही से नहीं खोया, और चुराया भी नहीं। वह डरा हुआ था। स्वामी की कठोर व्यक्ति की उसकी तस्वीर ने उसे सुरक्षित खेलने को मजबूर किया, और ऐसा करते हुए उसने जो मिला था वही ठीक-ठीक लौटा दिया, उससे एक पैसा भी अधिक नहीं। दृष्टांत पूछता है कि क्या ऐसी सावधानी कभी सच्ची विश्वासयोग्यता हो सकती है।\n\nईसाइयों ने तालंतों को उन दानों के रूप में समझा है जो परमेश्वर हर व्यक्ति को देता है, योग्यताएँ, अवसर और समय, जिन्हें उपयोग में लाना है, गाड़ना नहीं। सुसमाचार एक कठोर वचन भी जोड़ता है, कि जिसके पास है उसे और दिया जाएगा, और जिसके पास नहीं है, उससे वह भी ले लिया जाएगा जो उसके पास है। यह बताता है कि उपयोग से दान कैसे बढ़ते हैं और निष्क्रिय छोड़ने पर कैसे घटते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथेचे वळण तिसर्या सेवकाच्या कारणात आहे. त्याने पैसे निष्काळजीपणाने गमावले नाहीत, आणि चोरलेही नाहीत. तो घाबरलेला होता. धनी कठोर माणूस आहे या त्याच्या कल्पनेने त्याला सुरक्षित खेळायला लावले, आणि असे करताना त्याला मिळाले होते तेच नेमके परत दिले, एकही पैसा जास्त नाही. दृष्टांत विचारतो की अशी सावधगिरी कधी खरी विश्वासूता असू शकते का.\n\nख्रिस्ती लोकांनी तलांतांना ते दान म्हणून समजले आहे जे देव प्रत्येक व्यक्तीला देतो, क्षमता, संधी आणि वेळ, ज्यांचा उपयोग करायचा आहे आणि जे जमिनीत पुरायचे नाहीत. शुभवर्तमान एक कठोर वचनही जोडते, की ज्याच्याजवळ आहे त्याला आणखी दिले जाईल, आणि ज्याच्याजवळ नाही, त्याच्याकडून जे आहे तेही काढून घेतले जाईल. वापराने दान कसे वाढते आणि निष्क्रिय सोडल्यास कसे कमी होते, हे ते सांगते.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Using what we have",
+    "hi": {
+     "text": "जो हमारे पास है उसका उपयोग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे आपल्याजवळ आहे त्याचा उपयोग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There is a gentleness inside the story's severity. The master does not demand equal results from every servant. He gives according to each one's ability, and he praises the two with the same words even though one earned more than the other. What he looks for is trust and effort, and the willingness to take part.\n\nPeople of every tradition may recognise the fear of the third servant, the thought that we will be safe if we do nothing and risk nothing. The parable suggests that a buried gift is a kind of loss. Whatever we have been given, whether skill, kindness, attention or time, comes alive when we bring it out and use it for the good of others. He asks for faithfulness with what each has, and not for more than they could give, so that the hardest thing in the story is simply to begin.",
+    "hi": {
+     "text": "कहानी की कठोरता के भीतर एक कोमलता है। स्वामी हर सेवक से समान परिणाम की माँग नहीं करता। वह हर एक की क्षमता के अनुसार देता है, और दोनों को, जिनमें से एक ने दूसरे से अधिक कमाया, एक ही शब्दों में शाबाशी देता है। वह जो देखता है वह भरोसा और परिश्रम है, और भाग लेने की इच्छा।\n\nहर परंपरा के लोग तीसरे सेवक का भय पहचान सकते हैं, यह विचार कि कुछ न करने और कोई जोखिम न लेने में हम सुरक्षित रहेंगे। दृष्टांत सुझाता है कि गाड़ा हुआ दान एक प्रकार की हानि है। हमें जो भी मिला है, चाहे वह कौशल हो, दया, ध्यान या समय, वह तब जीवंत होता है जब हम उसे बाहर लाकर दूसरों की भलाई के लिए उपयोग करते हैं। वह हर एक से उसके पास जो है उसके साथ विश्वासयोग्यता माँगता है, उससे अधिक नहीं जो वे दे सकते हैं, इसलिए कहानी की सबसे कठिन बात बस शुरुआत करना है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथेच्या कठोरतेत एक मृदुता आहे. धनी प्रत्येक सेवकाकडून समान परिणामाची मागणी करत नाही. तो प्रत्येकाच्या क्षमतेनुसार देतो, आणि ज्याने दुसर्यापेक्षा अधिक कमावले तरी दोघांचेही त्याच शब्दांत कौतुक करतो. तो जे पाहतो ते म्हणजे भरवसा आणि कष्ट, आणि सहभागी होण्याची तयारी.\n\nकोणत्याही परंपरेचे लोक तिसर्या सेवकाची भीती ओळखू शकतात, की काहीही न केल्याने आणि कोणताही धोका न घेतल्याने आपण सुरक्षित राहू असा विचार. दृष्टांत सुचवतो की गाडलेली देणगी हे एक प्रकारचे नुकसान आहे. आपल्याला जे काही मिळाले आहे, मग ते कौशल्य असो, दया, लक्ष किंवा वेळ, ते जिवंत तेव्हा होते जेव्हा आपण ते बाहेर काढून इतरांच्या भल्यासाठी वापरतो. तो प्रत्येकाकडे जे आहे त्याबद्दल विश्वासूता मागतो, ते देऊ शकत नाहीत त्यापेक्षा अधिक नाही, त्यामुळे कथेतील सर्वात कठीण गोष्ट म्हणजे फक्त सुरुवात करणे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 25:21 (World English Bible)",
+   "hi": {
+    "text": "मत्तय 25:21 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 25:21 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The master praises the servant who used what he was given and entrusts him with more.",
+   "hi": {
+    "text": "स्वामी उस सेवक की प्रशंसा करता है जिसने जो मिला था उसका उपयोग किया, और उसे और अधिक सौंपता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "धनी त्या सेवकाचे कौतुक करतो ज्याने मिळालेल्या गोष्टींचा उपयोग केला, आणि त्याच्यावर अधिक सोपवतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What gift, skill or opportunity have you been keeping safely buried? What would it mean to put it to work this week, even in a small way?",
+  "hi": {
+   "text": "कौन सा दान, कौशल या अवसर तुमने सुरक्षित रूप से ज़मीन में गाड़कर रखा है? इस सप्ताह उसे थोड़ा ही सही, काम में लगाना कैसा होगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणते दान, कौशल्य किंवा संधी तुम्ही सुरक्षितपणे जमिनीत पुरून ठेवली आहे? या आठवड्यात ती, कितीही लहान प्रमाणात असली तरी, कामाला लावणे कसे दिसेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Gifts are given to be used, and faithfulness means taking the risk of using them rather than burying them out of fear.",
+  "hi": {
+   "text": "दान उपयोग के लिए दिए जाते हैं, और विश्वासयोग्यता का अर्थ है उनका उपयोग करने का जोखिम उठाना, न कि भय से उन्हें गाड़ देना।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दान उपयोगासाठी दिले जाते, आणि विश्वासूपणाचा अर्थ भीतीने ते पुरून ठेवण्याऐवजी त्याचा उपयोग करण्याची जोखीम उचलणे आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 25:14-30; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्तय 25:14-30 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 25:14-30 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "chandaka-is-sent-back",
+ "order": 6,
+ "part": "renunciation",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Chandaka Is Sent Back",
+  "hi": {
+   "text": "छंदक को लौटाया गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "छंदकाला परत पाठवले",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "At sunrise beside a hermitage, the prince cuts off his hair and sends his faithful charioteer and horse home without him.",
+  "hi": {
+   "text": "सूर्योदय के समय एक आश्रम के पास राजकुमार अपने केश काटता है, और अपने विश्वासपात्र सारथी और घोड़े को उनके बिना घर लौटा देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सूर्योदयाच्या वेळी एका आश्रमाजवळ राजपुत्र आपले केस कापतो, आणि आपला विश्वासू सारथी व घोडा यांना आपल्याशिवाय घरी परत पाठवतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-chandaka.webp",
+   "w": 1200,
+   "h": 960,
+   "caption": {
+    "en": "Siddhartha parts from Kanthaka and Chandaka (Gandhara relief, British Museum)",
+    "hi": {
+     "text": "सिद्धार्थ कंथक और छन्न से विदा लेते हुए (गांधार शिल्प, ब्रिटिश संग्रहालय)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धार्थ कंथक आणि छन्नापासून निरोप घेताना (गांधार शिल्प, ब्रिटिश संग्रहालय)",
+     "reviewed": false
+    }
+   },
+   "credit": "Marie-Lan Nguyen, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Siddharta_parting_from_Kanthaka_and_Chandaka_BM_OA1880.65.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Morning at the hermitage",
+    "hi": {
+     "text": "आश्रम की सुबह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आश्रमातील सकाळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the sun, the eye of the world, had just risen, the prince came to the hermitage of a sage of the family of Bhrigu. Ashvaghosha paints a place of perfect trust. The deer were asleep without fear, the birds were resting in the quiet air, and the prince, looking at it, felt himself grow still. He had ridden through the night, and the poem says that the horse had covered in a few hours a distance that took Chandaka eight days to travel back.\n\nHe dismounted and looked kindly at his charioteer, and said that he was pleased with him. He took off his ornaments, for they were useless to him now, and told Chandaka to take them with the horse. The poet gives the prince tenderness, not coldness. He thanked the servant who had done what he asked, even though he knew it would bring him sorrow.",
+    "hi": {
+     "text": "जब संसार की आँख, सूर्य, अभी-अभी उदित हुए थे, तब राजकुमार भृगु वंश के एक ऋषि के आश्रम में पहुँचा। अश्वघोष एक ऐसे स्थान का चित्र खींचते हैं जहाँ पूर्ण विश्वास है। हिरण निर्भय होकर सो रहे थे, पक्षी शांत वायु में विश्राम कर रहे थे, और राजकुमार उसे देखकर स्वयं भी शांत होता गया। वह रातभर सवारी करता आया था, और काव्य कहता है कि घोड़े ने कुछ घंटों में वह दूरी तय कर ली जिसे लौटने में छंदक को आठ दिन लगते।\n\nवह उतरा और अपने सारथी को स्नेह से देखा, और कहा कि वह उससे प्रसन्न है। उसने अपने आभूषण उतारे, क्योंकि अब वे उसके किसी काम के नहीं थे, और छंदक से कहा कि इन्हें घोड़े के साथ ले जाए। कवि राजकुमार को कोमलता देते हैं, ठंडापन नहीं। उसने उस सेवक का धन्यवाद किया जिसने उसकी इच्छा पूरी की, यद्यपि वह जानता था कि इससे उसे दुःख होगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जेव्हा जगाचा डोळा, सूर्य, नुकताच उगवला होता, तेव्हा राजपुत्र भृगू वंशातील एका ऋषींच्या आश्रमात पोहोचला. अश्वघोष एका अशा ठिकाणाचे चित्र रंगवतात जिथे पूर्ण विश्वास आहे. हरणे निर्भय होऊन झोपलेली होती, पक्षी शांत हवेत विसावले होते, आणि राजपुत्र ते पाहून स्वतःही स्थिर होत गेला. तो रात्रभर प्रवास करून आला होता, आणि काव्य सांगते की घोड्याने काही तासांत तितके अंतर कापले जे परतायला छंदकाला आठ दिवस लागले असते.\n\nतो उतरला आणि आपल्या सारथ्याकडे प्रेमाने पाहिले, आणि त्याला सांगितले की तो त्याच्यावर प्रसन्न आहे. त्याने आपले अलंकार उतरवले, कारण आता ते त्याच्या उपयोगाचे नव्हते, आणि छंदकाला ते घोड्यासह परत नेण्यास सांगितले. कवी राजपुत्राला कोमलता देतात, कठोरता नाही. ज्या सेवकाने त्याची इच्छा पूर्ण केली त्याचे त्याने आभार मानले, जरी त्याला ठाऊक होते की त्यामुळे सेवकाला दुःख होईल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Chandaka pleads",
+    "hi": {
+     "text": "छंदक की विनती",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "छंदकाची विनवणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Chandaka was in tears, and he spoke with his hands joined. How, he asked, could he go back to the king and say that he had left the prince alone in a forest? He reminded the prince of his old father, of the queen who had brought him up, and of Yashodhara and her little son. He said that the prince's body, made to lie on a palace bed, would have to lie on rough grass in a forest.\n\nHe said, too, that he had taken the prince out of the city only because some power had bewildered his mind, and he begged to be allowed to go with him. If he could not go, he said, let the prince go back with him. His speech has none of a servant's flattery. It is the grief of a man who has loved his master and who cannot see how the world can be made to make sense without him. The prince listened until he had finished.",
+    "hi": {
+     "text": "छंदक आँसू बहा रहा था और उसने हाथ जोड़कर बात की। उसने पूछा कि वह राजा के पास कैसे लौटकर कहे कि उसने राजकुमार को वन में अकेला छोड़ दिया? उसने राजकुमार को उसके वृद्ध पिता की, उस रानी की जिसने उसे पाला था, और यशोधरा तथा उसके नन्हे पुत्र की याद दिलाई। उसने कहा कि राजकुमार का शरीर, जो राजमहल की शय्या पर सोने के लिए बना था, अब वन की खुरदरी घास पर लेटना पड़ेगा।\n\nउसने यह भी कहा कि वह राजकुमार को नगर से केवल इसलिए बाहर लाया था क्योंकि किसी शक्ति ने उसका मन भ्रमित कर दिया था, और उसने विनती की कि उसे भी साथ जाने दिया जाए। यदि वह साथ नहीं जा सकता, तो राजकुमार उसके साथ लौट चले। उसके वचनों में सेवक की चापलूसी नहीं है। यह उस व्यक्ति का दुःख है जिसने अपने स्वामी से प्रेम किया है और जिसे यह नहीं दिखता कि उसके बिना संसार कैसे समझ में आएगा। राजकुमार उसकी बात तब तक सुनता रहा जब तक वह पूरी न हो गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "छंदक अश्रू ढाळत होता आणि हात जोडून बोलला. तो म्हणाला, राजाकडे परत जाऊन तो कसे सांगू की राजपुत्राला वनात एकटे सोडून आला? त्याने राजपुत्राला त्याच्या वृद्ध पित्याची, ज्या राणीने त्याला वाढवले त्या मातेची, आणि यशोधरा व तिच्या लहानग्या पुत्राची आठवण करून दिली. राजमहालाच्या पलंगावर झोपण्यासाठी बनलेले शरीर आता वनातल्या खरखरीत गवतावर झोपावे लागेल, असे तो म्हणाला.\n\nतो असेही म्हणाला की राजपुत्राला नगराबाहेर आणले कारण कोणत्यातरी शक्तीने त्याचे मन गोंधळवले होते, आणि त्याने विनंती केली की त्यालाही सोबत जाऊ द्यावे. तो सोबत जाऊ शकत नसेल, तर राजपुत्राने त्याच्याबरोबर परत चलावे. त्याच्या बोलण्यात सेवकाची खुशामत नाही. हे त्या माणसाचे दुःख आहे ज्याने आपल्या स्वामीवर प्रेम केले आहे आणि ज्याला त्याच्याशिवाय जग कसे अर्थपूर्ण राहील हे दिसत नाही. राजपुत्र त्याचे बोलणे पूर्ण होईपर्यंत ऐकत राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince answers",
+    "hi": {
+     "text": "राजकुमार का उत्तर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राचे उत्तर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The prince answered with firm, self-possessed gentleness. He told Chandaka to put aside his sorrow. Separation, he said, is part of being born, and even if he did not leave his kin out of love for freedom, death would one day part them all without asking. His own mother had borne him in pain and thirst for a child, and now where was he with respect to her, and she with respect to him?\n\nAs birds fly to a tree to roost and then depart, he said, so the meeting of living beings ends in parting. As clouds come together and drift apart, such is the meeting and parting of all that lives. He asked Chandaka to take a message to the people of Kapilavastu: do not keep your love for me, and hear what I have decided. Either he would come back quickly, having destroyed old age and death, or he would perish in the attempt. Then he gave the horse a last word.",
+    "hi": {
+     "text": "राजकुमार ने दृढ़ और आत्मसंयमी कोमलता से उत्तर दिया। उसने छंदक से शोक त्यागने को कहा। वियोग जन्म लेने का ही भाग है, उसने कहा, और भले ही वह प्रेम से नहीं, बल्कि स्वतंत्रता की चाह में अपने प्रियजनों को छोड़ रहा हो, फिर भी मृत्यु एक दिन उन सबको बिना पूछे अलग कर देगी। उसकी अपनी माता ने संतान की पीड़ा और प्यास सहकर उसे जन्म दिया था, तो अब वह उसके प्रति कहाँ है, और वह उसके प्रति कहाँ?\n\nजैसे पक्षी वृक्ष पर रात बिताने आते हैं और फिर चले जाते हैं, उसने कहा, वैसे ही जीवों का मिलन विदाई में समाप्त होता है। जैसे बादल एक साथ आते और फिर बिखर जाते हैं, वैसे ही हर जीव का मिलन और विछोह होता है। उसने छंदक से कपिलवस्तु के लोगों को संदेश देने को कहा: मेरे प्रति अपना स्नेह मत रखो, और सुनो कि मैंने क्या निश्चय किया है। या तो मैं बुढ़ापे और मृत्यु का नाश करके शीघ्र लौट आऊँगा, या इस प्रयास में नष्ट हो जाऊँगा। फिर उसने घोड़े को अंतिम शब्द कहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राने दृढ आणि आत्मसंयमी कोमलतेने उत्तर दिले. त्याने छंदकाला शोक सोडून देण्यास सांगितले. वियोग हा जन्म घेण्याचा भाग आहे, तो म्हणाला, आणि जरी तो आपल्या नातेवाइकांना प्रेमापोटी नव्हे तर स्वातंत्र्याच्या ओढीने सोडत असला, तरी मृत्यू एक दिवस त्या सर्वांना न विचारता वेगळे करील. त्याच्या स्वतःच्या मातेने वेदना आणि मुलाच्या तहानेने त्याला जन्म दिला होता, आणि आता तो तिच्याबाबत कुठे आहे, आणि ती त्याच्याबाबत कुठे आहे?\n\nजसे पक्षी रात्री निवाऱ्यासाठी झाडावर येतात आणि मग निघून जातात, तसेच जीवांचे मिलन वियोगात संपते, तो म्हणाला. जसे ढग एकत्र येतात आणि पुन्हा विखुरतात, तसेच सर्व सजीवांचे मिलन आणि वियोग होतो. त्याने छंदकाला कपिलवस्तूच्या लोकांसाठी संदेश नेण्यास सांगितले: माझ्यावरील प्रेम धरून ठेवू नका, आणि मी काय ठरवले आहे ते ऐका. एकतर मी म्हातारपण आणि मृत्यू नष्ट करून लवकर परत येईन, किंवा या प्रयत्नात नष्ट होईन. मग त्याने घोड्याला अंतिम शब्द दिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The horse and the sword",
+    "hi": {
+     "text": "घोड़ा और तलवार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "घोडा आणि तलवार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The noble Kanthaka, who had understood, licked his master's feet with his tongue and let hot tears fall. The prince stroked him with his hand, which was marked with a lucky sign, and spoke to him as to a friend. Do not weep, Kanthaka, he said, your service has been proved. This labour will soon bear its fruit.\n\nThen he took the sharp jewelled sword from Chandaka's hand and drew it from its sheath like a serpent from its hole. The blade was dark blue like a lotus petal. With it he cut off his hair and his decorated headdress and threw them into the air, where they floated like a goose landing on a lake. The poem says that the gods caught them and worshipped them in heaven. A heavenly being, in the dress of a hunter, then came near, and the prince exchanged his fine clothes for the hunter's plain red-brown garment, which suited the life he had chosen.",
+    "hi": {
+     "text": "कंथक, जो सब समझ गया था, उस उत्तम घोड़े ने अपने स्वामी के पैर अपनी जीभ से चाटे और गरम आँसू गिराए। राजकुमार ने अपने शुभ चिह्न वाले हाथ से उसे सहलाया और उससे मित्र की तरह बात की। मत रो, कंथक, उसने कहा, तेरी सेवा का मूल्य सिद्ध हो चुका है। यह परिश्रम शीघ्र ही फल देगा।\n\nफिर उसने छंदक के हाथ से रत्नजड़ित तीखी तलवार ली और उसे म्यान से ऐसे निकाला जैसे सर्प अपने बिल से निकलता है। उसका फल कमल की पंखुड़ी जैसा गहरा नीला था। उसी से उसने अपने केश और अलंकृत मुकुट काटे और उन्हें हवा में उछाल दिया, जहाँ वे झील पर उतरते हंस की तरह तैरते हुए गए। काव्य कहता है कि देवताओं ने उन्हें पकड़कर स्वर्ग में पूजा। तब एक दिव्य प्राणी शिकारी का वेश धरकर पास आया, और राजकुमार ने अपने सुंदर वस्त्र उसके साधारण लाल-भूरे वस्त्र से बदल लिए, जो उसके चुने हुए जीवन के अनुरूप था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कंथक, ज्याला सर्व समजले होते, त्या श्रेष्ठ घोड्याने आपल्या स्वामीचे पाय जिभेने चाटले आणि गरम अश्रू ढाळले. राजपुत्राने आपल्या शुभचिन्हांकित हाताने त्याला कुरवाळले आणि मित्राशी बोलावे तसे बोलला. कंथका, रडू नकोस, तो म्हणाला, तुझ्या सेवेचे मोल सिद्ध झाले आहे. हे कष्ट लवकरच फळ देतील.\n\nमग त्याने छंदकाच्या हातातून रत्नजडित तीक्ष्ण तलवार घेतली आणि ती सापाने बिळातून बाहेर यावे तशी म्यानातून बाहेर काढली. तिचे पाते कमळाच्या पाकळीसारखे गडद निळे होते. तिने त्याने आपले केस आणि अलंकृत मुकुट कापून हवेत फेकले, आणि ते तळ्यावर उतरणाऱ्या हंसासारखे तरंगत गेले. काव्य सांगते की देवांनी ते झेलून स्वर्गात त्यांची पूजा केली. मग एक दिव्य प्राणी शिकाऱ्याचा वेश धरून जवळ आला, आणि राजपुत्राने आपले सुंदर वस्त्र त्याच्या साध्या तपकिरी-लाल वस्त्राशी बदलले, जे त्याने निवडलेल्या जीवनाला साजेसे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The groom goes home",
+    "hi": {
+     "text": "सेवक घर लौटता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सेवक घरी परततो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Chandaka watched him go, wearing the red garment of a forest saint and looking, in the poet's picture, like the king of mountains wrapped in an evening cloud. Alone, the prince turned toward the hermitage. Behind him the groom threw up his arms and fell to the ground, wailing.\n\nThen he stood up and looked again, and wept aloud, and embraced the horse. Kanthaka, too, was grieving. At last Chandaka took the horse, the ornaments and the news, and began the long road home, stopping and turning round to look and weeping as he went. The poet does not hurry past this pain. The prince's renunciation was not made in coldness, and he leaves behind two creatures who loved him, and who must carry the news of it to a king and a city that were not ready to hear it.",
+    "hi": {
+     "text": "छंदक उसे जाते देखता रहा, वन के तपस्वी का लाल वस्त्र पहने, और कवि के चित्र में वह संध्या-मेघ में लिपटे पर्वतराज जैसा दिख रहा था। अकेला राजकुमार आश्रम की ओर मुड़ा। उसके पीछे सेवक ने अपने हाथ उठाए, और भूमि पर गिरकर विलाप करने लगा।\n\nफिर वह उठा, एक बार फिर देखा, ज़ोर से रोया और घोड़े को गले लगा लिया। कंथक भी शोक कर रहा था। अंत में छंदक घोड़े, आभूषणों और संदेश को लेकर लंबी वापसी की यात्रा पर चला, रुक-रुककर पीछे मुड़कर देखता और रोता हुआ। कवि इस पीड़ा पर जल्दी नहीं निकलते। राजकुमार का त्याग ठंडेपन से नहीं हुआ था, और वह पीछे दो ऐसे प्राणी छोड़ जाता है जो उससे प्रेम करते थे, और जिन्हें उसका समाचार ऐसे राजा और नगर तक पहुँचाना है जो उसे सुनने को तैयार नहीं थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "छंदक त्याला जाताना पाहत राहिला, वनातील संन्याशाचे लाल वस्त्र परिधान केलेला, आणि कवीच्या चित्रात तो संध्याकाळच्या ढगात गुंडाळलेल्या पर्वतराजासारखा दिसत होता. एकटा राजपुत्र आश्रमाच्या दिशेने वळला. त्याच्या मागे सेवकाने दोन्ही हात वर केले आणि जमिनीवर कोसळून आक्रोश करू लागला.\n\nमग तो उठला, पुन्हा पाहिले, मोठ्याने रडला, आणि घोड्याला मिठी मारली. कंथकही शोक करत होता. शेवटी छंदक घोडा, अलंकार आणि संदेश घेऊन लांबच्या परतीच्या प्रवासाला निघाला, वाटेत थांबून मागे वळून पाहत आणि रडत. कवी या वेदनेवर घाई करून पुढे जात नाहीत. राजपुत्राचा त्याग थंडपणाने झाला नव्हता, आणि तो मागे दोन असे प्राणी सोडतो जे त्याच्यावर प्रेम करत होते, आणि ज्यांना ही बातमी अशा राजा आणि नगरापर्यंत पोहोचवायची आहे जे ती ऐकायला तयार नव्हते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "As clouds, having come together, depart asunder again, such I consider the meeting and parting of living things",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 6.47 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 6.47 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 6.47 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The prince comforts Chandaka by saying that every meeting ends in parting.",
+   "hi": {
+    "text": "राजकुमार छंदक को सांत्वना देते हुए कहता है कि हर मिलन अंत में विदाई में बदल जाता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "राजपुत्र छंदकाला धीर देताना सांगतो की प्रत्येक भेट अखेरीस वियोगात संपते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who in your life carries the weight of someone else's choice, and have you thanked them?",
+  "hi": {
+   "text": "तुम्हारे जीवन में कौन किसी और के चुनाव का बोझ उठाता है, और क्या तुमने उसका धन्यवाद किया है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या आयुष्यात असा कोण आहे जो दुसऱ्याच्या निर्णयाचे ओझे वाहतो, आणि तू त्याचे आभार मानले आहेस का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Letting go can be done with tenderness, and honouring those who stay behind belongs to every real journey.",
+  "hi": {
+   "text": "विदा कोमलता से भी ली जा सकती है, और जो पीछे रह जाते हैं उनका सम्मान करना हर सच्ची यात्रा का हिस्सा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निरोप कोमलतेने घेता येतो, आणि जे मागे राहतात त्यांचा सन्मान करणे प्रत्येक खऱ्या प्रवासाचा भाग आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 6; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 6; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 6; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

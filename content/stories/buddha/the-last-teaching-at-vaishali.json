@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-last-teaching-at-vaishali",
+ "order": 24,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Last Teaching at Vaishali",
+  "hi": {
+   "text": "वैशाली में अंतिम उपदेश",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वैशालीतील शेवटचे शिक्षण",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The earth shakes, Ananda weeps, and the Buddha tells his disciples to be an island to themselves and explains why even a buddha is subject to change.",
+  "hi": {
+   "text": "धरती काँपती है, आनंद रोता है, और बुद्ध अपने शिष्यों से कहते हैं कि वे स्वयं अपना द्वीप बनें, और समझाते हैं कि बुद्ध भी परिवर्तन के अधीन क्यों हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धरणी थरथरते, आनंद रडतो, आणि बुद्ध आपल्या शिष्यांना सांगतात की त्यांनी स्वतःसाठी एक बेट व्हावे, आणि बुद्धही परिवर्तनाच्या अधीन का आहेत हे समजावतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-lastteach.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "The road to Vaishali, lined with trees",
+    "hi": {
+     "text": "वैशाली की ओर जाने वाला पथ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वैशालीकडे जाणारा पथ",
+     "reviewed": false
+    }
+   },
+   "credit": "Sumitsurai, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_Relic_Stupa_-_Vaishali_(1).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The shaking of the earth",
+    "hi": {
+     "text": "धरती का काँपना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धरणीचा थरकाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the Buddha gave up the remainder of his years, the earth shook on every side. The venerable Ananda saw it, and his heart was fearful and his hair stood on end. He asked the Buddha the cause. I have fixed three months for the end of my life, the Buddha answered, and I have given up the rest of it, and this is why the earth is so greatly shaken. Ananda heard and was moved with pity, and the tears ran down his face, like perfume dripping from a sandalwood tree when a mighty elephant shakes it.\n\nHe loved his master so much, the poem says, and was so full of kindness, that he was not yet free from earthly longing. He gave his grief full liberty and could not master it. My body fails, he said, my strength is gone, my mind is dazed, and all the words of truth are forgotten. Heaven and earth seem a wild deserted waste. Have pity, master, and do not perish so soon. It is the plain weeping of a man who is about to lose his teacher.",
+    "hi": {
+     "text": "जब बुद्ध ने अपने शेष वर्षों का त्याग किया, तो धरती हर ओर से काँप उठी। आदरणीय आनंद ने यह देखा, और उसका हृदय भय से भर गया, और उसके रोंगटे खड़े हो गए। उसने बुद्ध से इसका कारण पूछा। मैंने अपने जीवन की समाप्ति के लिए तीन मास निश्चित किए हैं, बुद्ध ने उत्तर दिया, और शेष जीवन का त्याग कर दिया है, इसीलिए धरती इतनी जोर से काँप रही है। आनंद ने सुना और करुणा से भर गया, और उसके आँसू बह निकले, जैसे चंदन के वृक्ष से सुगंधित रस टपकता है जब कोई विशाल हाथी उसे झकझोरता है।\n\nवह अपने गुरु से इतना प्रेम करता था और इतनी करुणा से भरा था, काव्य कहता है, कि अभी भी सांसारिक लालसा से मुक्त नहीं था। उसने अपने दुःख को पूरी छूट दी और उस पर नियंत्रण न कर सका। मेरा शरीर क्षीण हो रहा है, उसने कहा, मेरी शक्ति चली गई है, मेरा मन विचलित है, और सत्य के सारे वचन भूल गया हूँ। स्वर्ग और धरती एक उजाड़ वन जैसे लगते हैं। हे गुरुवर, दया कीजिए, इतनी जल्दी मत जाइए। यह एक ऐसे व्यक्ति का सच्चा रुदन है जो अपने गुरु को खोने वाला है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जेव्हा बुद्धांनी आपल्या उर्वरित आयुष्याचा त्याग केला, तेव्हा सर्व बाजूंनी धरणी हादरली. आदरणीय आनंदाने ते पाहिले, त्याचे हृदय भयाने भरले, आणि त्याचे केस उभे राहिले. त्याने बुद्धांना त्याचे कारण विचारले. मी आपल्या जीवनाच्या समाप्तीसाठी तीन महिने निश्चित केले आहेत, बुद्ध म्हणाले, आणि उर्वरित आयुष्य सोडून दिले आहे, म्हणूनच धरणी इतकी हादरते आहे. आनंदाने ऐकले आणि करुणेने भरून गेला, आणि त्याचे अश्रू गळू लागले, जसे चंदनाच्या झाडावरून सुगंधी रस टपकतो, जेव्हा एखादा विशाल हत्ती त्याला हलवतो.\n\nतो आपल्या गुरूवर इतका प्रेम करत होता आणि इतका करुणामय होता, काव्य सांगते, की तो अजूनही सांसारिक ओढीतून मुक्त नव्हता. त्याने आपल्या दुःखाला पूर्ण मोकळीक दिली आणि त्यावर ताबा ठेवू शकला नाही. माझे शरीर क्षीण होत आहे, तो म्हणाला, माझी शक्ती गेली आहे, माझे मन गोंधळले आहे, आणि सत्याचे सर्व शब्द मी विसरलो आहे. स्वर्ग आणि धरणी ओसाड रानासारखी वाटत आहेत. हे गुरुवर, दया करा, इतक्या लवकर जाऊ नका. हे अशा माणसाचे साधे रडणे आहे जो आपला गुरू गमावणार आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Ananda's pictures",
+    "hi": {
+     "text": "आनंद के चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आनंदाची चित्रे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Ananda tried to say what it felt like, and the poem gives him a string of images. I was perishing of cold and chanced upon a fire, and suddenly it vanished. I was wandering in the wilds of grief, confused and lost, and a wise guide came upon me, and when I was barely saved from my bewilderment, he disappeared again. A poor man, tired and parched, trudging through endless mud, comes upon a cool lake, hurries to it, and finds it dried up.\n\nThe farmer sees the blade pushing up through the earth, and the clouds gather, and he waits for the welcome rain, and then a fierce wind drives the great clouds away and he is left looking at a dry field. The world of living beings was groping in deep darkness, Ananda said, and the Tathagata lit the lamp of wisdom, and then suddenly put it out, before he had brought it out of the house. The Buddha heard all this, grieved at the words, and in soothing tones spoke to him.",
+    "hi": {
+     "text": "आनंद ने बताने की कोशिश की कि उसे कैसा लग रहा है, और काव्य उसे चित्रों की एक श्रृंखला देता है। मैं ठंड से मर रहा था और अचानक एक आग मिली, और वह भी गायब हो गई। मैं दुःख के वन में भ्रमित और खोया हुआ भटक रहा था, और एक बुद्धिमान मार्गदर्शक मुझ तक पहुँचा, और जब मैं अपनी उलझन से मुश्किल से बचा था, तो वह फिर चला गया। एक गरीब आदमी, थका और प्यासा, कीचड़ की अंतहीन पगडंडी पर चलता हुआ, एक शीतल सरोवर तक पहुँचता है, उसकी ओर दौड़ता है, और पाता है कि वह सूख गया है।\n\nकिसान धरती से उगता अंकुर देखता है, और बादल जमा होते हैं, और वह वर्षा की प्रतीक्षा करता है, फिर एक तेज हवा बड़े बादलों को उड़ा देती है और वह सूखे खेत को देखता रह जाता है। जीवों का संसार गहरे अंधकार में टटोल रहा था, आनंद ने कहा, और तथागत ने ज्ञान का दीपक जलाया, और फिर अचानक उसे बुझा दिया, इससे पहले कि वह घर से बाहर आ पाता। बुद्ध ने यह सब सुना, इन वचनों से दुःखी हुए, और सांत्वना के स्वर में उससे बात की।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आनंदाने सांगण्याचा प्रयत्न केला की त्याला कसे वाटत आहे, आणि काव्य त्याला चित्रांची मालिका देते. मी थंडीने मरत होतो आणि अचानक एक आग सापडली, आणि ती सुद्धा नाहीशी झाली. मी दुःखाच्या रानात गोंधळून हरवून भटकत होतो, आणि एक शहाणा मार्गदर्शक मला भेटला, आणि जेव्हा मी माझ्या गोंधळातून जेमतेम वाचलो होतो, तेव्हा तो पुन्हा निघून गेला. एक गरीब माणूस, थकलेला आणि तहानलेला, चिखलाच्या अंतहीन वाटेवरून चालत, एका थंड सरोवरापर्यंत पोहोचतो, त्याकडे धावतो, आणि पाहतो की ते आटले आहे.\n\nशेतकरी जमिनीतून वर येणारे कोंब पाहतो, आणि ढग जमतात, आणि तो पावसाची वाट पाहतो, मग एक प्रचंड वारा मोठे ढग उडवून नेतो आणि तो कोरड्या शेताकडे पाहत राहतो. जीवांचे जग गाढ अंधारात चाचपडत होते, आनंद म्हणाला, आणि तथागतांनी ज्ञानाचा दीप पेटवला, आणि मग अचानक तो विझवला, घराबाहेर आणण्याआधीच. बुद्धांनी हे सर्व ऐकले, या शब्दांनी दुःखी झाले, आणि सांत्वनाच्या स्वरात त्याच्याशी बोलले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Everything joined will part",
+    "hi": {
+     "text": "जो जुड़ा है वह बिछड़ेगा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे जुळते ते विभक्त होईल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "If men knew their own nature, he said, they would not live in sorrow. Everything that lives is subject to the law of destruction. I have told you plainly that the nature of things that are joined is to separate, and love, as a clinging, does not abide, so it is better to put away this pitiful, doting heart. All things around us bear the stamp of change, and are born to perish. If things could be kept forever and never changed or parted, he said, that would already be salvation, and there would be no need to look for it.\n\nYou and all that lives can seek in me this great deliverance, and that is what I have taught you from the beginning. Why then should I preserve this body? The body of the excellent law will endure for a long time. I am resolved, and I look for rest. The poem then adds a pointed instruction, that his hearers should prepare to cast off even their sense of self, and settle themselves on an island of their own.",
+    "hi": {
+     "text": "यदि मनुष्य अपना स्वभाव जान लेते, उन्होंने कहा, तो वे दुःख में नहीं जीते। जो भी जीवित है वह विनाश के नियम के अधीन है। मैंने तुम्हें स्पष्ट बताया है कि जुड़ी हुई वस्तुओं का स्वभाव अलग होना है, और प्रेम, एक आसक्ति के रूप में, टिकता नहीं, इसलिए इस दयनीय, मोहग्रस्त हृदय को त्याग देना ही अच्छा है। हमारे चारों ओर की सब चीज़ें परिवर्तन की छाप लिए हैं, और वे जन्म लेकर नष्ट होने के लिए ही बनी हैं। यदि चीजें सदा रखी जा सकतीं और कभी न बदलतीं या न बिछड़तीं, उन्होंने कहा, तो वही मुक्ति होती, और उसे खोजने की आवश्यकता ही न होती।\n\nतुम और सारे जीव मुझमें यह महान मुक्ति खोज सकते हो, और यही मैंने आरंभ से तुम्हें सिखाया है। तो फिर मैं यह शरीर क्यों बनाए रखूँ? श्रेष्ठ धर्म का शरीर लंबे समय तक टिकेगा। मैंने निश्चय कर लिया है, और मैं विश्राम की खोज में हूँ। फिर काव्य एक स्पष्ट निर्देश जोड़ता है, कि उसके श्रोता अपने आत्मबोध तक को त्यागने के लिए तैयार हों, और स्वयं को अपने ही एक द्वीप पर स्थिर करें।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जर माणसांना आपला स्वभाव कळला असता, तर ते दुःखात जगले नसते, ते म्हणाले. जे जिवंत आहे ते विनाशाच्या नियमाच्या अधीन आहे. मी तुला स्पष्ट सांगितले आहे की जोडलेल्या वस्तूंचा स्वभाव विभक्त होणे आहे, आणि प्रेम, आसक्ती म्हणून, टिकत नाही, म्हणून हे दयनीय, मोहग्रस्त हृदय सोडून देणे चांगले. आपल्या भोवतालच्या सर्व गोष्टींवर परिवर्तनाचा शिक्का आहे, आणि त्या जन्म घेऊन नष्ट होण्यासाठीच जन्मल्या आहेत. जर वस्तू कायम ठेवता आल्या असत्या आणि कधी बदलल्या किंवा विभक्त झाल्या नसत्या, ते म्हणाले, तर ते आधीच मुक्ती ठरले असते, आणि तिला शोधण्याची गरजच उरली नसती.\n\nतुम्ही आणि सर्व जीव माझ्यामध्ये ही महान मुक्ती शोधू शकता, आणि मी तुम्हाला सुरुवातीपासून हेच शिकवले आहे. तर मग मी हे शरीर का टिकवावे? श्रेष्ठ धर्माचे शरीर दीर्घकाळ टिकेल. मी निश्चय केला आहे, आणि मी विश्रांती शोधत आहे. मग काव्य एक स्पष्ट सूचना जोडते, की त्याचे श्रोते आपल्या आत्मभानापर्यंत त्यागण्यास तयार असावेत, आणि स्वतःला स्वतःच्याच एका बेटावर स्थिर करावे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "An island in the stream",
+    "hi": {
+     "text": "धारा में एक द्वीप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रवाहातील बेट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Those who are fixed on that island, he said, with single aim and earnest effort, preparing quietly a quiet place and not moved by other people's ways of thinking, are safe on the law's island. Fixed in contemplation and lit by the lamp of wisdom, they have destroyed ignorance and gloom. Dare to seek for true religion only, he told them, and forget yourself and every ground of self, the bones, the nerves, the skin, the flesh and the blood running in every little vein. See them as impure, and what joy can there be in such a body?\n\nEvery sensation is born of a cause, like a bubble floating on water. The foolish man conceives the idea of a self, while the wise man sees there is no ground on which to build it. The aggregates built of sorrow must pass away, he said, and my own body too will perish, but the law is one and constant, without exception. With this sermon he calmed Ananda's heart. The image of the island recalls an old line of the Dhammapada, as Beal notes.",
+    "hi": {
+     "text": "जो लोग एकाग्र लक्ष्य और सच्चे प्रयत्न से उस द्वीप पर स्थिर हैं, उन्होंने कहा, जो शांत रूप से एक शांत स्थान तैयार करते हैं और दूसरों के विचारों से विचलित नहीं होते, वे धर्म के द्वीप पर सुरक्षित हैं। ध्यान में स्थिर और ज्ञान के दीपक से प्रकाशित, उन्होंने अज्ञान और अंधकार को नष्ट कर दिया है। केवल सच्चे धर्म की खोज करने का साहस करो, उन्होंने उनसे कहा, और स्वयं को तथा आत्मा के हर आधार को भूल जाओ, हड्डियाँ, नसें, त्वचा, मांस और हर छोटी नस में बहता रक्त। उन्हें अशुद्ध मानो, और ऐसे शरीर में क्या आनंद हो सकता है?\n\nहर संवेदना एक कारण से जन्म लेती है, जैसे पानी पर तैरता बुलबुला। मूर्ख मनुष्य आत्मा का विचार करता है, जबकि ज्ञानी देखता है कि उस पर कोई आधार नहीं है जिस पर वह बनाई जा सके। दुःख से बने ये स्कंध नष्ट होंगे, उन्होंने कहा, और मेरा अपना शरीर भी नष्ट होगा, पर धर्म एक है और स्थिर है, बिना किसी अपवाद के। इस उपदेश से उन्होंने आनंद का हृदय शांत किया। द्वीप का यह चित्र, बील नोट करते हैं, धम्मपद की एक पुरानी पंक्ति की याद दिलाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे लोक एकाग्र ध्येय आणि खऱ्या प्रयत्नाने त्या बेटावर स्थिर आहेत, ते म्हणाले, जे शांतपणे एक शांत स्थान तयार करतात आणि इतरांच्या विचारांनी विचलित होत नाहीत, ते धर्माच्या बेटावर सुरक्षित आहेत. ध्यानात स्थिर आणि ज्ञानाच्या दिव्याने प्रकाशित, त्यांनी अज्ञान आणि अंधार नष्ट केला आहे. फक्त खऱ्या धर्माचा शोध घेण्याचे धैर्य करा, त्यांनी त्यांना सांगितले, आणि स्वतःला आणि आत्म्याच्या प्रत्येक आधाराला विसरा, हाडे, नसा, त्वचा, मांस आणि प्रत्येक लहान शिरेत वाहणारे रक्त. त्यांना अशुद्ध समजा, आणि अशा शरीरात काय आनंद असू शकतो?\n\nप्रत्येक संवेदना एका कारणातून जन्मते, पाण्यावरच्या बुडबुड्यासारखी. मूर्ख माणूस आत्म्याची कल्पना करतो, तर शहाणा पाहतो की त्यावर काही रचता येईल असा आधारच नाही. दुःखाने बनलेले हे स्कंध नष्ट होणार, ते म्हणाले, आणि माझे स्वतःचे शरीरही नष्ट होईल, पण धर्म एक आहे आणि स्थिर आहे, कोणत्याही अपवादाशिवाय. या उपदेशाने त्यांनी आनंदाचे हृदय शांत केले. बीलच्या नोंदीनुसार, बेटाचे हे चित्र धम्मपदातील एका जुन्या ओळीची आठवण करून देते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The princes go home",
+    "hi": {
+     "text": "राजकुमार घर लौटते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजकुमार घरी परततात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Licchavis heard the report. Afraid and uneasy, they gathered in a body and hurried to the Buddha with none of their usual ornaments. They saluted him, stood to one side, and wished to ask a question but could not find the words. He knew their hearts. Impermanence is the nature of all that exists, he said, and change and restlessness are its conditions. The royal sages of old and the great emperors, he said, have all perished, and the sun, the moon and even Shakra, the king of the gods, will all perish. Every Buddha of past ages, as many as the sands of the Ganges, has gone out like a lamp.\n\nAll the Buddhas yet to come will also pass away. Why then should I alone be different? I too will pass into Nirvana. But as they prepared others, so you must press forward on the path. He told them to step by step advance along the upward road. The Licchavis went home with saddened hearts, sighing, lifting their hands to heaven and asking why the sun of wisdom should fade without warning.",
+    "hi": {
+     "text": "लिच्छवियों ने यह समाचार सुना। भयभीत और बेचैन होकर वे एकत्र हुए और सारे अलंकार उतारकर बुद्ध के पास जल्दी से पहुँचे। उन्होंने उन्हें प्रणाम किया, एक ओर खड़े हुए, और प्रश्न पूछना चाहा, पर शब्द नहीं मिले। वह उनके हृदय को जानते थे। हर सत्ता अनित्य है, उन्होंने कहा, और परिवर्तन व अशांति उसके स्वभाव हैं। प्राचीन राजर्षि और महान चक्रवर्ती, उन्होंने कहा, सब नष्ट हो गए, और सूर्य, चंद्रमा और इंद्र भी नष्ट होंगे। गंगा के रेत जितने अतीत के प्रत्येक बुद्ध एक दीपक की तरह बुझ गए।\n\nभविष्य के सभी बुद्ध भी लुप्त हो जाएँगे। तो फिर मैं अकेला क्यों भिन्न होऊँ? मैं भी निर्वाण में प्रवेश करूँगा। पर जैसे वे दूसरों को तैयार करते हैं, वैसे ही तुम्हें भी मार्ग पर आगे बढ़ना होगा। उन्होंने उन्हें चरण-दर-चरण ऊपर के मार्ग पर बढ़ने को कहा। लिच्छवी उदास हृदयों के साथ घर लौटे, उसाँसे भरते, हाथ आकाश की ओर उठाते, और पूछते कि ज्ञान का सूर्य बिना किसी चेतावनी के क्यों अस्त हो रहा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लिच्छवींनी ही बातमी ऐकली. भयभीत आणि अस्वस्थ होऊन ते एकत्र जमले आणि आपले सर्व अलंकार उतरवून बुद्धांकडे लवकर गेले. त्यांनी त्यांना नमस्कार केला, एका बाजूला उभे राहिले, आणि प्रश्न विचारू इच्छिले, पण शब्द सापडले नाहीत. बुद्ध त्यांचे हृदय जाणत होते. अस्तित्वातील प्रत्येक गोष्ट अनित्य आहे, ते म्हणाले, आणि बदल व अस्वस्थता हाच त्याचा स्वभाव आहे. प्राचीन राजर्षी आणि महान सम्राट सर्व नष्ट झाले, ते म्हणाले, आणि सूर्य, चंद्र आणि इंद्रही नष्ट होतील. गंगेच्या वाळूइतके भूतकाळातील प्रत्येक बुद्ध दिव्यासारखे विझून गेले.\n\nभविष्यातील सर्व बुद्धही लुप्त होतील. तर मग मीच एकटा का वेगळा असावा? मीही निर्वाणात प्रवेश करीन. पण जसे ते इतरांना तयार करतात, तसेच तुम्हीही मार्गावर पुढे जायला हवे. त्यांनी त्यांना टप्प्याटप्प्याने वरच्या मार्गावर चालण्यास सांगितले. लिच्छवी उदास मनाने घरी परतले, उसासे टाकत, हात आकाशाकडे उचलून, आणि विचारत की ज्ञानसूर्य कोणतीही पूर्वसूचना न देता का मावळत आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "why then should I alone be different",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita, canto 24 (tr. Beal, 1883)",
+   "hi": {
+    "text": "बुद्धचरित, सर्ग 24 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित, सर्ग 24 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The Buddha explains that even a buddha is subject to change, as every buddha before him.",
+   "hi": {
+    "text": "बुद्ध समझाते हैं कि प्रत्येक बुद्ध भी, जैसे उनसे पहले के सभी बुद्ध, परिवर्तन के अधीन है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्ध स्पष्ट करतात की प्रत्येक बुद्ध, त्यांच्या आधीच्या सर्व बुद्धांप्रमाणे, परिवर्तनाच्या अधीन आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What in your life are you holding on to that you already know will change?",
+  "hi": {
+   "text": "तुम अपने जीवन में ऐसा क्या थामे हुए हो जिसके बारे में तुम पहले से जानते हो कि वह बदलेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तू आपल्या आयुष्यात असे काय धरून आहेस ज्याबद्दल तुला आधीच माहिती आहे की ते बदलणार आहे?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Everything that comes together will come apart, and the teaching asks us to meet that with a steady heart and to keep walking.",
+  "hi": {
+   "text": "जो भी जुड़ता है वह अलग होता है, और शिक्षा हमें इसका सामना स्थिर हृदय से करने और चलते रहने के लिए कहती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जे जुळते ते विभक्त होते, आणि शिकवण आपल्याला स्थिर हृदयाने त्याला सामोरे जाण्यास आणि चालत राहण्यास सांगते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 24; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 24; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 24; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

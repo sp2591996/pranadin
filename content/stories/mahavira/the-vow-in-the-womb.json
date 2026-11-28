@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-vow-in-the-womb",
+ "order": 5,
+ "part": "conception",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Vow in the Womb",
+  "hi": {
+   "text": "गर्भ में प्रतिज्ञा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गर्भातील प्रतिज्ञा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A hush falls over the palace when the unborn child stops moving. His reason is compassion, and what he decides next shapes the rest of his life.",
+  "hi": {
+   "text": "जब अजन्मा बालक हिलना-डुलना रोक देता है, तो महल में सन्नाटा छा जाता है। उसका कारण करुणा है, और उसके बाद वह जो निर्णय लेता है, वही उसके शेष जीवन को आकार देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा अजन्मे बालक हालचाल थांबवते, तेव्हा राजवाड्यावर शांतता पसरते. त्यामागे कारण करुणा आहे, आणि त्यानंतर तो जो निर्णय घेतो, तोच त्याच्या उर्वरित आयुष्याला आकार देतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-descent.webp",
+   "w": 1200,
+   "h": 548,
+   "caption": {
+    "en": "A page from a Kalpa Sutra manuscript (Cleveland Museum of Art)",
+    "hi": {
+     "text": "कल्पसूत्र पांडुलिपि का एक पृष्ठ (क्लीवलैंड संग्रहालय)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कल्पसूत्र हस्तलिखिताचे एक पान (क्लीव्हलँड संग्रहालय)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Unknown_artist_-_Kalpa-sutra_Manuscript_with_24_Miniatures,_Manuscript_page_-_1932.119.36_-_Cleveland_Museum_of_Art.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Wealth comes to the house",
+    "hi": {
+     "text": "घर में धन का आगमन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "घरात संपत्तीचे आगमन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "From the moment the Venerable One entered the family of the Jnatris, the sutra says, treasures began to arrive at King Siddhartha's palace. Spirits in the service of Vaishramana, the god of wealth, acting on Shakra's order, carried to the palace the old hidden hoards of dead and forgotten owners, from villages, mines, crossroads, wells, gardens, temples, caves and empty houses.\n\nIn the same night, the text says, the family's silver, gold, grain, army, treasury and subjects increased, and so did its fame and generosity. The king and queen noticed. They said to each other that since this child was conceived, everything had grown. So when he was born, they decided, they would give him a name that fitted his quality: Vardhamana, the one who increases. The detail shows how the sutra sees the unborn child: not as a promise yet to be kept but as a presence already blessing the house around him.",
+    "hi": {
+     "text": "जिस क्षण पूज्य भगवान ज्ञातृ कुल में प्रविष्ट हुए, सूत्र कहता है, राजा सिद्धार्थ के महल में खजाने पहुँचने लगे। शक्र के आदेश पर वैश्रमण की सेवा में लगे यक्ष मृत और विस्मृत स्वामियों के प्राचीन गुप्त भंडार गाँवों, खदानों, चौराहों, कुओं, उद्यानों, मंदिरों, गुफाओं और खाली घरों से लाकर महल में पहुँचाते थे।\n\nउसी रात, पाठ कहता है, परिवार की चाँदी, सोना, अन्न, सेना, खजाना और प्रजा बढ़ी, और उसकी कीर्ति और उदारता भी बढ़ी। राजा और रानी ने यह देखा। उन्होंने आपस में कहा कि जब से यह बालक गर्भ में आया है, सब कुछ बढ़ा है। इसलिए जब वह जन्मेगा, तो वे उसे ऐसा नाम देंगे जो उसके गुण के अनुरूप हो: वर्धमान, जो बढ़ाता है। यह विवरण दिखाता है कि सूत्र अजन्मे बालक को कैसे देखता है: किसी ऐसे वचन के रूप में नहीं जो अभी निभाना है, बल्कि एक ऐसी उपस्थिति के रूप में जो अपने चारों ओर के घर को पहले से आशीर्वाद दे रही है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्या क्षणी पूज्य भगवान ज्ञातृ कुळात प्रविष्ट झाले, सूत्र सांगते, राजा सिद्धार्थांच्या राजवाड्यात खजिने येऊ लागले. शक्राच्या आज्ञेने वैश्रमणाच्या सेवेतील यक्ष, मृत आणि विस्मृत मालकांचे जुने लपवलेले साठे, गावे, खाणी, चौरस्ते, विहिरी, उद्याने, मंदिरे, गुहा आणि ओसाड घरे येथून आणून राजवाड्यात पोहोचवत होते.\n\nत्याच रात्री, पाठ सांगतो, कुटुंबाची चांदी, सोने, धान्य, सेना, खजिना आणि प्रजा वाढली, आणि तिची कीर्ती व उदारताही वाढली. राजा आणि राणीने हे पाहिले. ते एकमेकांना म्हणाले, हे मूल गर्भात आल्यापासून सर्वकाही वाढले आहे. म्हणून जेव्हा तो जन्मेल, तेव्हा आपण त्याला त्याच्या गुणांना साजेसे नाव देऊ: वर्धमान, जो वाढवतो. हा तपशील दाखवतो की सूत्र अजन्मे बालकाकडे कसे पाहते: अजून पूर्ण करायचे वचन म्हणून नव्हे, तर आपल्या भोवतीच्या घराला आधीच आशीर्वाद देणारी उपस्थिती म्हणून.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Stillness",
+    "hi": {
+     "text": "स्थिरता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्थिरता",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then something happened in the womb. The Venerable One, the sutra says, out of compassion for his mother, did not move, did not stir and did not quiver, but lay quiet, stiff and motionless. His reasoning, as the text gives it, was tenderness: he did not wish to cause her pain by moving.\n\nTrishala felt the change at once. A fear came over her that the fruit of her womb had been taken from her, that it had died, fallen, been lost. It had moved before, and now it did not. Plunged into a sea of sorrow, she sat with her head resting in her hand and her eyes cast down, lost in dark thoughts. Everything in the palace stopped with her. The drums and stringed instruments fell silent, the clapping and the plays and the amusements of the people ceased, and a mournful gloom spread through Siddhartha's house.",
+    "hi": {
+     "text": "फिर गर्भ में कुछ हुआ। पूज्य भगवान, सूत्र कहता है, अपनी माता के प्रति करुणा से, नहीं हिले, नहीं डोले, नहीं काँपे, बल्कि शांत, जड़ और स्थिर पड़े रहे। पाठ में दिया गया उनका तर्क कोमलता था: वे नहीं चाहते थे कि हिलने से उन्हें कष्ट हो।\n\nत्रिशला ने तुरंत परिवर्तन अनुभव किया। एक भय उन पर छा गया कि गर्भ का फल उनसे छीन लिया गया है, कि वह मर गया है, गिर गया है, खो गया है। पहले वह हिलता था, और अब नहीं हिल रहा था। शोक के सागर में डूबी, उन्होंने सिर हाथ पर टिकाकर, नीचे नज़रें झुकाए, गहरे विचारों में बैठी रहीं। महल की हर वस्तु उनके साथ रुक गई। ढोल और तंतुवाद्य शांत हो गए, लोगों के ताली बजाने, नाटक और मनोरंजन रुक गए, और सिद्धार्थ के भवन में उदासी फैल गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग गर्भात काहीतरी घडले. पूज्य भगवान, सूत्र सांगते, आपल्या मातेविषयीच्या करुणेने हलले नाहीत, डोलले नाहीत, थरथरले नाहीत, तर शांत, ताठ आणि निश्चल पडून राहिले. पाठात दिलेला त्यांचा तर्क कोमलतेचा होता: हालचाल करून तिला वेदना द्याव्यात अशी त्यांची इच्छा नव्हती.\n\nत्रिशलेला बदल लगेच जाणवला. तिच्या मनात भीती दाटली की गर्भाचे फळ तिच्यापासून हिरावले गेले आहे, की ते मेले आहे, पडले आहे, हरवले आहे. ते आधी हलत होते, आणि आता हलत नव्हते. दुःखाच्या सागरात बुडालेली, तिने डोके हातावर टेकवून, डोळे खाली करून, गडद विचारांत बसून राहिली. राजवाड्यातील प्रत्येक गोष्ट तिच्याबरोबर थांबली. ढोल आणि तंतुवाद्ये शांत झाली, लोकांच्या टाळ्या, नाटके आणि करमणूक थांबल्या, आणि सिद्धार्थांच्या घरावर दुःखाचा अंधार पसरला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "He stirs again",
+    "hi": {
+     "text": "वह फिर हिलता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो पुन्हा हलतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The child knew what had come into his mother's mind. Through whatever knowledge the sutra means here, the Venerable One understood that his tenderness had caused the very pain it was meant to avoid. So he quivered, just a little.\n\nTrishala felt it, and the joy that came back to her is one of the most human moments in the sutra. No, she said, the fruit of my womb has not been taken from me. It has not died, it has not fallen, it is not lost. Before, it did not move, but now it does. She was glad again, pleased and delighted. The music, the plays and the amusements began again, and the house came back to life. It is a small story with a large point. Compassion that ignores what the other person is feeling can wound as well as heal. He had to learn, before he was even born, to care in the way the other person needs.",
+    "hi": {
+     "text": "बालक जानता था कि उसकी माता के मन में क्या आया है। सूत्र के अनुसार, किसी भी ज्ञान से, पूज्य भगवान समझ गए कि उनकी कोमलता ही उस पीड़ा का कारण बनी है जिससे वह बचाना चाहती थी। इसलिए वे थोड़ा-सा काँपे।\n\nत्रिशला ने इसे अनुभव किया, और जो आनंद उनके पास लौटा, वह सूत्र के सबसे मानवीय क्षणों में से एक है। नहीं, उन्होंने कहा, मेरे गर्भ का फल मुझसे नहीं छीना गया है। वह मरा नहीं है, गिरा नहीं है, खोया नहीं है। पहले वह नहीं हिलता था, पर अब हिलता है। वे फिर प्रसन्न हुईं, आनंदित और हर्षित। संगीत, नाटक और मनोरंजन फिर से आरंभ हुए, और घर फिर जीवित हो उठा। यह एक छोटी कथा है जिसका बड़ा अर्थ है। ऐसी करुणा जो दूसरे की भावना की अनदेखी करती है, वह उपचार करने जितनी ही घाव भी कर सकती है। उन्हें जन्म से पहले ही यह सीखना था कि दूसरे को जिस प्रकार की परवाह चाहिए, वैसी कैसे की जाए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बालकाला कळले की त्याच्या मातेच्या मनात काय आले आहे. सूत्रातील कोणत्या तरी ज्ञानाने, पूज्य भगवानांना समजले की त्यांच्या कोमलतेमुळेच ती वेदना निर्माण झाली आहे जिच्यापासून ते तिला वाचवू इच्छित होते. म्हणून ते थोडेसे थरथरले.\n\nत्रिशलेने ते अनुभवले, आणि तिला परत मिळालेला आनंद हा सूत्रातील सर्वात मानवी क्षणांपैकी एक आहे. नाही, ती म्हणाली, माझ्या गर्भाचे फळ माझ्यापासून हिरावले गेलेले नाही. ते मेलेले नाही, पडलेले नाही, हरवलेले नाही. आधी ते हलत नव्हते, पण आता हलते आहे. ती पुन्हा आनंदी झाली, प्रसन्न आणि हर्षित. संगीत, नाटके आणि करमणूक पुन्हा सुरू झाली, आणि घर पुन्हा जिवंत झाले. ही एक छोटी गोष्ट आहे पण तिचा अर्थ मोठा आहे. दुसऱ्याच्या भावनांकडे दुर्लक्ष करणारी करुणा जितकी बरे करू शकते तितकीच दुखावूही शकते. जन्माच्या आधीच त्यांना शिकावे लागले, की दुसऱ्याला ज्या प्रकारच्या काळजीची गरज आहे, तशी काळजी कशी घ्यायची.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The promise",
+    "hi": {
+     "text": "प्रतिज्ञा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रतिज्ञा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "While still in her womb, the Venerable One then made a resolution. It would not be right for him, he decided, to tear out his hair and leave home to become a houseless ascetic while his parents were alive.\n\nThe sutra gives this as a fixed decision, made at the moment he understood how much his mother's love depended on his being near. Because of it, the great renunciation that all five of the Tirthankara's moments lead toward would wait. It would come only after his parents had died and he had asked permission of his elder brother. The vow shows something about how Jainism thinks of leaving the world. It is not an escape from duty. Mahavira's path to the ascetic life runs through his respect for the people who gave him life, and he will not step onto it at their expense. Years of householder life lay ahead of him, because of one decision made before he drew breath.",
+    "hi": {
+     "text": "माता के गर्भ में रहते हुए ही पूज्य भगवान ने फिर एक संकल्प किया। उनके निश्चय के अनुसार, माता-पिता जीवित हों तब उनके लिए यह उचित नहीं होगा कि वे केश उखाड़ें और गृह त्यागकर अनगार अवस्था में प्रवेश करें।\n\nसूत्र इसे एक निश्चित निर्णय के रूप में प्रस्तुत करता है, जो उसी क्षण लिया गया जब उन्होंने समझा कि उनकी माता का प्रेम उनके पास होने पर कितना निर्भर है। इसी कारण वह महान त्याग, जिसकी ओर पाँचों तीर्थंकर-क्षण बढ़ते हैं, प्रतीक्षा करेगा। वह तभी होगा जब उनके माता-पिता का देहांत हो जाए और उन्होंने बड़े भाई से अनुमति माँग ली हो। यह व्रत जैन दृष्टि से संसार त्यागने के विषय में कुछ बताता है। वह कर्तव्य से पलायन नहीं है। महावीर का तपस्वी जीवन की ओर जाने वाला मार्ग उन लोगों के प्रति उनके आदर से होकर जाता है जिन्होंने उन्हें जीवन दिया, और वे उन्हें हानि पहुँचाकर उस मार्ग पर पैर नहीं रखेंगे। उनके सामने गृहस्थ जीवन के वर्ष थे, क्योंकि जन्म लेने से पहले किए गए एक निर्णय के कारण।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मातेच्या उदरात असतानाच पूज्य भगवानांनी एक संकल्प केला. त्यांनी ठरवले की आई-वडील हयात असताना केस उपटून, घर सोडून अनगार अवस्था स्वीकारणे त्यांच्यासाठी योग्य होणार नाही.\n\nसूत्र हे एक पक्के ठरलेले निर्णय म्हणून मांडते, जे त्या क्षणी घेतले गेले जेव्हा त्यांना समजले की त्यांची माता त्यांच्या जवळ असण्यावर किती अवलंबून आहे. त्यामुळे, ज्या महान त्यागाकडे पाचही तीर्थंकर-क्षण वाटचाल करतात, तो प्रतीक्षा करणार होता. तो फक्त आई-वडिलांचे देहावसान झाल्यावर आणि मोठ्या भावाची परवानगी घेतल्यावरच घडणार होता. या व्रतातून जैन दृष्टीने संसार त्यागाबद्दल काहीतरी स्पष्ट होते. ते कर्तव्यापासून पळून जाणे नाही. महावीरांचा तपस्वी जीवनाकडचा मार्ग त्यांनी ज्यांनी जीवन दिले त्यांच्याविषयीच्या आदरातून जातो, आणि त्या आदराला इजा करून ते त्या मार्गावर पाऊल ठेवणार नाहीत. त्यांच्यासमोर गृहस्थाश्रमाची वर्षे उभी होती, कारण जन्म घेण्याआधीच घेतलेल्या एका निर्णयामुळे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Waiting for the day",
+    "hi": {
+     "text": "उस दिन की प्रतीक्षा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या दिवसाची वाट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Trishala carried her child through the months with every comfort. She ate only what was suitable, walked in pleasant places, rested on soft beds and seats, and was kept free of sickness, grief and fear. Nine months and seven and a half days went by.\n\nThe text then gives the hour of birth in the middle of the night, in the first month of summer, under Uttaraphalguni. A later insertion in the sutra adds the signs of an auspicious time: the planets in their high places, a clear and bright sky, a gentle favourable breeze, green fields and happy people. Jacobi notes that this passage is missing from his oldest manuscript and was probably added much later, after Greek astrology reached India. The older text is simpler. Trishala, perfectly healthy herself, gave birth to a perfectly healthy boy. The next chapter begins with that night.",
+    "hi": {
+     "text": "त्रिशला ने अपने बालक को हर सुविधा के साथ महीनों तक धारण किया। वे केवल योग्य भोजन करती थीं, सुंदर स्थानों में घूमती थीं, कोमल शय्या और आसनों पर विश्राम करती थीं, और रोग, शोक तथा भय से मुक्त रखी जाती थीं। नौ महीने और साढ़े सात दिन बीत गए।\n\nफिर पाठ आधी रात में जन्म की घड़ी देता है, ग्रीष्म के पहले मास में, उत्तराफाल्गुनी नक्षत्र के नीचे। सूत्र में बाद में जोड़ा गया एक अंश शुभ समय के लक्षण जोड़ता है: ग्रहों की उच्च स्थितियाँ, निर्मल और उजला आकाश, सुखद अनुकूल पवन, हरे खेत और प्रसन्न लोग। याकोबी ध्यान दिलाते हैं कि यह अंश उनकी सबसे पुरानी पांडुलिपि में नहीं है और संभवतः बहुत बाद में जोड़ा गया, जब यूनानी ज्योतिष भारत पहुँच चुका था। पुराना पाठ सरल है। त्रिशला, स्वयं पूर्णतः स्वस्थ, एक पूर्णतः स्वस्थ पुत्र को जन्म देती हैं। अगला अध्याय उसी रात से आरंभ होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्रिशलेने आपल्या बालकाला सर्व सोयींसह महिनोनमहिने धारण केले. ती केवळ योग्य अन्न घेत असे, सुंदर ठिकाणी फिरत असे, मऊ शय्या आणि आसनांवर विश्रांती घेत असे, आणि आजार, शोक व भय यांपासून मुक्त ठेवली जात असे. नऊ महिने आणि साडेसात दिवस उलटले.\n\nमग पाठ मध्यरात्री, उन्हाळ्याच्या पहिल्या महिन्यात, उत्तराफाल्गुनी नक्षत्राखाली जन्माची घडी देतो. सूत्रात नंतर घातलेला एक भाग शुभ वेळेची चिन्हे जोडतो: ग्रहांची उच्च स्थाने, निर्मळ आणि तेजस्वी आकाश, सुखद अनुकूल वारा, हिरवी शेते आणि आनंदी लोक. याकोबी लक्षात आणून देतात की हा भाग त्यांच्या सर्वात जुन्या हस्तलिखितात नाही आणि बहुधा खूप नंतर जोडला गेला, जेव्हा ग्रीक ज्योतिषशास्त्र भारतात पोहोचले होते. जुना पाठ साधा आहे. त्रिशला, स्वतः पूर्णपणे निरोगी, एका पूर्णपणे निरोगी मुलाला जन्म देते. पुढील प्रकरण त्या रात्रीपासून सुरू होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "It will not behove me, during the life of my parents, to tear out my hair, and leaving the house to enter the state of houselessness.",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §94 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §94 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §94 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Before birth, Mahavira resolves not to leave home while his parents are alive.",
+   "hi": {
+    "text": "जन्म से पहले ही महावीर संकल्प करते हैं कि माता-पिता के जीवित रहते वे घर नहीं छोड़ेंगे।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जन्मापूर्वीच महावीर संकल्प करतात की आई-वडील हयात असेपर्यंत ते घर सोडणार नाहीत.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When have you held back out of kindness, and only later seen that your quiet had worried someone more than it helped?",
+  "hi": {
+   "text": "तुमने कब करुणा से चुप्पी साधी है, और बाद में समझा है कि तुम्हारी वह चुप्पी किसी को तुम्हारी मदद से अधिक चिंतित कर गई थी?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तू कधी करुणेपोटी गप्प राहिलास, आणि नंतर तुला लक्षात आले की तुझ्या त्या शांततेमुळे कोणीतरी तुझ्या मदतीपेक्षा अधिक काळजीत पडले होते?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Compassion looks at what the other person is actually feeling, and love for parents can come before even the highest calling.",
+  "hi": {
+   "text": "करुणा वह देखती है जो दूसरा व्यक्ति वास्तव में अनुभव कर रहा है, और माता-पिता के प्रति प्रेम महानतम बुलावे से भी पहले आ सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "करुणा ते पाहते जे दुसरी व्यक्ती खरोखर अनुभवत आहे, आणि आई-वडिलांवरील प्रेम सर्वोच्च बोलावण्यापूर्वीही येऊ शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§89–96; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§89–96; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§89–96; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

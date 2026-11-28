@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-mourning-and-the-pyre",
+ "order": 27,
+ "part": "parinirvana",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Mourning and the Pyre",
+  "hi": {
+   "text": "शोक और चिता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शोक आणि चिता",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Gods, disciples and the people of Kushinagara praise the Buddha as the light goes out of the world, and carry his body to the pyre.",
+  "hi": {
+   "text": "देवता, शिष्य और कुशीनगर के लोग संसार का प्रकाश बुझते समय बुद्ध की स्तुति करते हैं, और उनके शरीर को चिता तक ले जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "देव, शिष्य आणि कुशीनगरचे लोक जगाचा प्रकाश मालवताना बुद्धांची स्तुती करतात, आणि त्यांचा देह चितेपर्यंत नेतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-mourn-1.webp",
+   "w": 1200,
+   "h": 864,
+   "caption": {
+    "en": "Mourners at the Buddha's cremation, relief",
+    "hi": {
+     "text": "बुद्ध के दाह संस्कार पर शोक करते लोग, शिल्प",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांच्या अंत्यसंस्कारावेळी शोक करणारे लोक, शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "Anandajoti, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:172_The_Cremation_of_the_Buddha.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Verses from the sky",
+    "hi": {
+     "text": "आकाश से श्लोक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आकाशातील श्लोक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A god riding in a white swan palace in the middle of space saw the Buddha enter final Nirvana. For the good of the whole assembly of the gods he sang verses on impermanence. Impermanence is the nature of all things, he said, quickly born and quickly dying. With birth comes a rush of sorrows, and only in Nirvana is there joy. The fuel heaped up by our deeds only the fire of wisdom can consume, and though the fame of our deeds may rise to heaven like smoke, the rain that falls will put it out in time.\n\nA high sage of heaven, dwelling in untroubled bliss, sighed his own praise. Looking through all the conditions of life, from first to last, nothing is free from destruction, he said, but the incomparable seer, who knows the highest truth, can save the beings in the world. Yet, alas, all that lives is sunk in unbelief. Beal observes that the language of this canto, which is a hymn, is figurative and sometimes obscure, and he marks the doubtful lines in his notes.",
+    "hi": {
+     "text": "अंतिम निर्वाण में बुद्ध को प्रवेश करते देख, अंतरिक्ष में श्वेत हंस-महल पर सवार एक देवता ने सभी देवताओं के हित के लिए अनित्यता पर श्लोक गाए। अनित्यता ही सब वस्तुओं का स्वभाव है, उसने कहा, जो शीघ्र जन्मती और शीघ्र नष्ट होती है। जन्म के साथ दुःखों की बाढ़ आती है, और केवल निर्वाण में आनंद है। हमारे कर्मों द्वारा जोड़ा गया ईंधन केवल ज्ञान की अग्नि भस्म कर सकती है, और हमारे कर्मों की कीर्ति धुएँ की तरह स्वर्ग तक उठ सकती है, पर वर्षा जो बरसेगी उसे समय पर बुझा देगी।\n\nस्वर्ग का एक उच्च ऋषि, जो अविचल आनंद में बसता था, अपनी स्तुति में उच्छ्वास भरने लगा। जीवन की हर अवस्था को आदि से अंत तक देखकर, उसने कहा, कुछ भी विनाश से मुक्त नहीं है, पर अतुलनीय द्रष्टा, जो परम सत्य जानता है, संसार के प्राणियों को बचा सकता है। फिर भी, हाय, सारे जीव अविश्वास में डूबे हैं। बील टिप्पणी करते हैं कि इस सर्ग की भाषा, जो एक स्तोत्र है, अलंकारिक और कभी-कभी अस्पष्ट है, और वे अपनी टिप्पणियों में संदिग्ध पंक्तियाँ चिह्नित करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंतिम निर्वाणात बुद्धांचा प्रवेश पाहून, अंतराळात श्वेत हंसमहालावर स्वार एका देवाने सर्व देवांच्या हितासाठी अनित्यतेवर श्लोक गायले. अनित्यता हाच सर्व वस्तूंचा स्वभाव आहे, तो म्हणाला, जे लवकर जन्मते आणि लवकर नष्ट होते. जन्मासोबत दुःखांचा पूर येतो, आणि केवळ निर्वाणात आनंद आहे. आपल्या कर्मांनी जमा केलेले इंधन केवळ ज्ञानाच्या अग्नीने भस्म होऊ शकते, आणि आपल्या कर्मांची कीर्ती धुरासारखी स्वर्गापर्यंत उठू शकते, पण येणारा पाऊस वेळेत ती विझवेल.\n\nस्वर्गातील एक उच्च ऋषी, जो अविचल आनंदात वास करत होता, आपल्या स्तुतीत उसासे टाकू लागला. जीवनाच्या प्रत्येक अवस्थेकडे आदीपासून अंतापर्यंत पाहता, तो म्हणाला, कशाचाही विनाश टळत नाही, पण अतुलनीय द्रष्टा, जो परम सत्य जाणतो, जगातील प्राण्यांना वाचवू शकतो. तरीही, अरेरे, सारे जीव अविश्वासात बुडाले आहेत. बील नोंदवतात की या सर्गाची भाषा, जी स्तोत्र आहे, अलंकारिक आणि कधी कधी अस्पष्ट आहे, आणि ते आपल्या टिपांमध्ये संशयास्पद ओळी चिन्हांकित करतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Anuruddha's hymn",
+    "hi": {
+     "text": "अनुरुद्ध का स्तोत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनुरुद्धाचे स्तोत्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The disciple Anuruddha, whose name the translator reads as one who is not stopped, sighed forth his praise as well. All living things are blind and dark, he said, and the mass of deeds is perishing, like a fleeting pile of cloud. Quickly arising and quickly passing, they give the wise man no refuge, and the diamond mace of impermanence can overturn even the mountain of a hermit sage. Impermanence, like a fierce lion, can despoil even the great elephant of a sage. Only the Buddha overcomes it, and how much more should those who are not yet free from desire dread its power.\n\nHe compared the Buddha to a crested bird that seizes the serpent in the pool and dies when the water dries, to a war-horse that goes fearlessly into battle and returns quiet when the fight is done, and to a fire that burns with the fuel and goes out when the fuel is gone. He is like the moon, said Anuruddha, which sheds its light everywhere and then disappears behind the great mountain, and the world is left in the dark.",
+    "hi": {
+     "text": "शिष्य अनुरुद्ध, जिसके नाम को अनुवादक 'जो रुकता नहीं' पढ़ते हैं, ने भी अपनी स्तुति उच्छ्वासों में व्यक्त की। सारे जीव अंधे और अंधकार में हैं, उसने कहा, और कर्मों का समूह नष्ट हो रहा है, क्षणभंगुर मेघ-समूह की तरह। जल्दी उत्पन्न होते और जल्दी मिटते ये ज्ञानी को कोई शरण नहीं देते, और अनित्यता का हीरक-गदा ऋषि के पर्वत जैसे आश्रम को भी उलट सकता है। अनित्यता, प्रचंड सिंह की तरह, ऋषि के महान हाथी को भी लूट सकती है। केवल बुद्ध इस पर विजय पाते हैं, और जो अभी इच्छा से मुक्त नहीं हैं, वे उसकी शक्ति से कितना अधिक भयभीत होने चाहिए।\n\nउसने बुद्ध की तुलना उस चकोर पक्षी से की जो तालाब के साँप को पकड़ती है और पानी सूख जाने पर मर जाती है, उस युद्ध-घोड़े से जो निर्भय होकर युद्ध में जाता है और लड़ाई खत्म होने पर शांत लौटता है, और उस आग से जो ईंधन के साथ जलती है और ईंधन खत्म होने पर बुझ जाती है। वह चंद्रमा जैसे हैं, अनुरुद्ध ने कहा, जो हर जगह प्रकाश बिखेरता है और फिर किसी महान पर्वत के पीछे छिप जाता है, और संसार अँधेरे में रह जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिष्य अनुरुद्ध, ज्याच्या नावाचा अनुवादक 'जो थांबत नाही' असा अर्थ लावतात, त्यानेही आपली स्तुती उसाशांत व्यक्त केली. सारे जीव आंधळे आणि अंधारात आहेत, तो म्हणाला, आणि कर्मांचा समूह नष्ट होत आहे, क्षणभंगुर ढगांच्या राशीसारखा. लवकर उत्पन्न होणारे आणि लवकर नष्ट होणारे ज्ञानी माणसाला कोणताही आश्रय देत नाहीत, आणि अनित्यतेचा हिरक-गदा ऋषींच्या पर्वतासारख्या आश्रमालाही उलथवू शकतो. अनित्यता, प्रचंड सिंहासारखी, ऋषींच्या महान हत्तीलाही लुटू शकते. केवळ बुद्धच तिच्यावर विजय मिळवतात, आणि जे अजून इच्छेपासून मुक्त नाहीत त्यांनी तिच्या सामर्थ्याला किती भ्यायला हवे.\n\nत्याने बुद्धांची तुलना त्या चकोर पक्ष्याशी केली जो तलावातील साप धरते आणि पाणी आटल्यावर मरते, त्या युद्धाश्वाशी जो निर्भयपणे लढाईत जातो आणि लढाई संपल्यावर शांत परततो, आणि त्या अग्नीशी जो इंधनासह जळतो आणि इंधन संपल्यावर विझतो. ते चंद्रासारखे आहेत, अनुरुद्ध म्हणाला, जो सर्वत्र प्रकाश पसरवतो आणि मग एखाद्या महान पर्वताच्या आड लपतो, आणि जग अंधारात राहते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What the world has lost",
+    "hi": {
+     "text": "संसार ने क्या खोया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जगाने काय गमावले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The hymn goes on to praise what the Buddha did. He reached what had not been reached, and obtained what man had not obtained. With the water he provided, he filled every thirsty soul. He gave what had never been given, and was a welcome physician for all diseases, the one destroyer of impermanence. Turning the wheel of the superlative law, he was received with gladness by those who in earlier lives had planted a love of religion. He led those who had not seen the truth to see it, and he overcame the armies of Mara. His pity and his love went even to those who opposed him, and he rejoiced neither in their defeat nor in his own success.\n\nThen comes the lament. Who shall give us life again with the cool water of his teaching, they ask, and who shall destroy the net in which the world is caught? The world without a Buddha is like a king without a kingdom, or a boat without a pilot, or an army without a general, or a company of merchants without a guide. It is like the stars without the moon.",
+    "hi": {
+     "text": "स्तोत्र बुद्ध के कार्यों की प्रशंसा करता आगे बढ़ता है। वे वहाँ पहुँचे जहाँ कोई नहीं पहुँचा था, और जो किसी मनुष्य ने प्राप्त नहीं किया था, उसे प्राप्त किया। जो जल उन्होंने दिया उससे उन्होंने हर प्यासी आत्मा को तृप्त किया। उन्होंने वह दिया जो पहले कभी नहीं दिया गया था, और सभी रोगों के लिए वे स्वागत-योग्य वैद्य थे, अनित्यता के अकेले नाशक। सर्वोत्तम धर्म का चक्र घुमाकर वे उन लोगों द्वारा हर्ष से स्वीकारे गए जिन्होंने पूर्व जन्मों में धर्म के प्रति प्रेम बोया था। जिन्होंने सत्य नहीं देखा था, उन्हें उन्होंने देखना सिखाया, और उन्होंने मार की सेनाएँ जीतीं। उनकी करुणा और प्रेम उन लोगों तक भी गया जो उनके विरोधी थे, और वे न उनकी हार में आनंदित हुए न अपनी जीत में।\n\nफिर शोक आता है। हमें जीवन फिर कौन देगा, उनके शीतल धर्म-जल से, और कौन उस जाल को तोड़ेगा जिसमें संसार फँसा है? बुद्ध के बिना संसार उस राजा जैसा है जिसका राज्य नहीं, या उस नाव जैसा जिसका नाविक नहीं, या उस सेना जैसा जिसका सेनापति नहीं, या उन व्यापारियों जैसा जिनका मार्गदर्शक नहीं। वह तारों जैसा है जिनमें चंद्रमा नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्तोत्र बुद्धांच्या कार्यांची प्रशंसा करत पुढे जाते. ते तिथे पोहोचले जिथे कोणी पोहोचला नव्हता, आणि जे कोणा माणसाने मिळवले नव्हते ते मिळवले. त्यांनी दिलेल्या जलाने प्रत्येक तहानलेल्या आत्म्याला तृप्त केले. त्यांनी असे दान दिले जे पूर्वी कधी दिले गेले नव्हते, आणि सर्व रोगांसाठी ते स्वागतयोग्य वैद्य होते, अनित्यतेचे एकमेव नाशक. सर्वोत्तम धर्मचक्र फिरवून ते त्या लोकांकडून आनंदाने स्वीकारले गेले ज्यांनी पूर्वजन्मांत धर्माबद्दलचे प्रेम पेरले होते. ज्यांनी सत्य पाहिले नव्हते त्यांना त्यांनी पाहायला शिकवले, आणि मारची सेना जिंकली. त्यांची करुणा आणि प्रेम त्यांच्या विरोधकांपर्यंतही गेले, आणि ते त्यांच्या पराभवात आनंदले नाहीत, न आपल्या विजयात.\n\nमग शोक येतो. आम्हाला पुन्हा जीवन कोण देईल, त्यांच्या शीतल धर्मजलाने, आणि जाळे तोडेल ज्यात जग अडकले आहे? बुद्धांशिवाय जग त्या राजासारखे आहे ज्याला राज्य नाही, किंवा त्या नौकेसारखे ज्याला नावाडी नाही, किंवा त्या सेनेसारखे ज्याला सेनापती नाही, किंवा त्या व्यापाऱ्यांसारखे ज्यांना मार्गदर्शक नाही. ते चंद्र नसलेल्या तार्‍यांसारखे आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Mallas weep",
+    "hi": {
+     "text": "मल्ल रोते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मल्ल रडतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Those who were not yet free from passion wept with many tears, and could not control themselves, and even those who had put away all faults sighed at the thought of birth and death. The Malla people heard that the Buddha had entered Nirvana. They wept with confused cries, like a flight of herons meeting a hawk, and in a body they reached the twin sal trees. They saw the Tathagata lying in his long sleep, the features that would never wake again, and they beat their breasts and sighed to heaven, like a herd when a lion seizes a calf.\n\nOne Malla who loved the law gazed steadfastly at him. The world was asleep, he said, and the Buddha, setting forth his law, caused it to awake, and now he has entered on the mighty calm and all is finished in an unending sleep. The standard he raised for men has fallen in a moment. Why has the darkness come back? Some in the crowd hid their grief and said nothing, others fell down on the earth, others stood silent, lost in thought, and others groaned deeply.",
+    "hi": {
+     "text": "जो अभी आसक्ति से मुक्त नहीं थे, वे अनेक आँसुओं से रोए, और अपने को नियंत्रित न कर सके, और जिन्होंने सारे दोष त्याग दिए थे वे भी जन्म और मृत्यु के विचार पर उच्छ्वास भरते रहे। मल्ल लोगों ने सुना कि बुद्ध निर्वाण को प्राप्त हो गए हैं। वे व्याकुल पुकारों के साथ रोए, जैसे बगुलों का झुंड बाज से मिलता है, और सब एक साथ जुड़वे साल वृक्षों तक पहुँचे। उन्होंने तथागत को उनकी लंबी निद्रा में लेटे देखा, वे मुख जो फिर कभी नहीं जागेंगे, और उन्होंने छाती पीटी और आकाश की ओर उसाँसें भरीं, जैसे सिंह बछड़े को पकड़ लेता है तो झुंड रोता है।\n\nमल्लों में से एक ने, जो धर्म से प्रेम करता था, उन्हें स्थिर दृष्टि से देखा। संसार सो रहा था, उसने कहा, और बुद्ध ने अपना धर्म प्रकट करके उसे जगाया, और अब वे महान शांति में प्रवेश कर गए हैं, और सब कुछ एक अनंत निद्रा में समाप्त हो गया। मनुष्यों के लिए उठाया गया मानदंड एक क्षण में गिर गया। अंधकार फिर क्यों लौट आया? भीड़ में कुछ ने अपना शोक छिपाया और कुछ न बोले, कुछ धरती पर गिर पड़े, कुछ चुपचाप खड़े विचार में डूबे रहे, और कुछ ने गहरी आह भरी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे अजून आसक्तीपासून मुक्त नव्हते ते अनेक अश्रूंनी रडले, आणि स्वतःला आवरू शकले नाहीत, आणि ज्यांनी सारे दोष सोडले होते तेही जन्म आणि मृत्यूच्या विचाराने उसासे टाकत राहिले. मल्ल लोकांनी ऐकले की बुद्ध निर्वाण पावले. ते व्याकुळ आक्रोशांसह रडले, जसा बगळ्यांचा थवा बाजाला भेटतो, आणि एकत्र जुळ्या साल वृक्षांपर्यंत पोहोचले. त्यांनी तथागतांना त्यांच्या दीर्घ निद्रेत पडलेले पाहिले, ते चेहरे जे पुन्हा कधीच जागे होणार नाहीत, आणि त्यांनी उरावर मारले आणि आकाशाकडे उसासे टाकले, जसा सिंह वासरू पकडतो तेव्हा कळप आक्रोश करतो.\n\nमल्लांपैकी एक, जो धर्मावर प्रेम करत होता, स्थिर नजरेने त्यांच्याकडे पाहत राहिला. जग झोपलेले होते, तो म्हणाला, आणि बुद्धांनी आपला धर्म मांडून त्याला जागे केले, आणि आता ते महान शांतीत प्रविष्ट झाले आहेत, आणि सर्व काही अनंत निद्रेत संपले आहे. मानवजातीसाठी उभारलेला मापदंड एका क्षणात कोसळला. अंधार पुन्हा का परतला? गर्दीत काहींनी आपले दुःख लपवले आणि काहींनी काहीच म्हटले नाही, काही जमिनीवर कोसळले, काही शांत उभे राहून विचारात हरवले, आणि काहींनी खोल सुस्कारे सोडले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The fire that would not catch",
+    "hi": {
+     "text": "न जलने वाली अग्नि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "न पेटणारी आग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They laid the body on a couch set with gold, silver and gems, adorned with flowers and scents, and raised a jewelled canopy above it, with flags and streamers and embroidered banners. With dance and music the lords and ladies of the Mallas followed along the road with their offerings, while the gods scattered scents and flowers and sounded drums in heaven. Men and gods shared one sorrow. They entered the city, passed through the Elephant gate and crossed the river Hiranyavati to the place where the earlier Buddhas had their shrines.\n\nThere they piled ox-head sandalwood and every famous scented wood above the body and poured oils on the pyre. They lit the fire beneath it and walked around three times, but it would not burn. The great Kashyapa was on his way from Rajagriha with his followers, wishing to see the body once more, and the fire went out because of his earnest wish. When he had come, wept and bowed at the master's feet, the fire burst out. The bones remained, the poet says, like diamond, and they were placed in a golden pitcher.",
+    "hi": {
+     "text": "उन्होंने शरीर को सोने, चाँदी और रत्नों से सजे पलंग पर रखा, फूलों और सुगंधों से सजाया, और रत्नजड़ित छत्र ऊपर लगाया, पताकाओं, लहराते वस्त्रों और कढ़ाईदार ध्वजों के साथ। नृत्य और संगीत के साथ मल्लों के स्वामी और स्त्रियाँ अपने अर्पणों के साथ मार्ग पर चले, जबकि देवताओं ने स्वर्ग में सुगंध और फूल बरसाए और ढोल बजाए। मनुष्य और देव एक ही शोक में एक थे। वे नगर में प्रविष्ट हुए, हाथी-द्वार से निकले, और हिरण्यवती नदी पार करके उस स्थान पर पहुँचे जहाँ पूर्ववर्ती बुद्धों के स्तूप थे।\n\nवहाँ उन्होंने शरीर के ऊपर बैल-मस्तक चंदन और हर प्रसिद्ध सुगंधित लकड़ी चिता पर रखी, और चिता पर तेल डाले। उन्होंने उसमें आग लगाई और तीन बार चक्कर लगाया, पर चिता नहीं जली। महान कश्यप अपने शिष्यों के साथ राजगृह से आ रहे थे, गुरु के शरीर को एक बार और देखने की इच्छा से, और उनकी तीव्र इच्छा से आग बुझ गई। जब वे आए, रोए, और गुरु के चरणों में झुके, तो आग फिर भड़क उठी। अस्थियाँ शेष रहीं, कवि कहता है, हीरे जैसी, और उन्हें एक स्वर्ण-कलश में रखा गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांनी देह सोन्या, चांदी आणि रत्नांनी सजवलेल्या पलंगावर ठेवला, फुले आणि सुगंधांनी सजवला, आणि वर रत्नजडित छत्र ठेवले, पताका, फडकणारी वस्त्रे आणि भरतकामाचे ध्वज लावून. नृत्य आणि संगीतासह मल्लांचे स्वामी आणि स्त्रिया आपल्या अर्पणांसह मार्गावरून चालले, आणि स्वर्गात देवांनी सुगंध आणि फुले उधळली व ढोल वाजवले. माणसे आणि देव एकाच शोकात एकत्र होते. ते नगरात प्रवेश करून हत्ती-द्वारातून बाहेर पडले, आणि हिरण्यवती नदी ओलांडून त्या ठिकाणी पोहोचले जिथे पूर्वीच्या बुद्धांचे स्तूप होते.\n\nतिथे त्यांनी देहाच्या वर बैलाच्या मस्तकाचे चंदन आणि प्रसिद्ध सुगंधी लाकडे चितेवर रचली, आणि चितेवर तेल ओतले. त्यांनी त्याला अग्नी दिला आणि तीन वेळा प्रदक्षिणा घातली, पण चिता पेटली नाही. महान कश्यप आपल्या शिष्यांसह राजगृहातून येत होते, गुरूंचा देह आणखी एकदा पाहण्याच्या इच्छेने, आणि त्यांच्या तीव्र इच्छेमुळे आग विझली. जेव्हा ते आले, रडले, आणि गुरूंच्या चरणी वाकले, तेव्हा आग पुन्हा भडकली. अस्थी उरल्या, कवी म्हणतो, हिऱ्यासारख्या, आणि त्या सोन्याच्या कलशात ठेवल्या गेल्या.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Turning the wheel of the superlative law",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita, canto 27 (tr. Beal, 1883)",
+   "hi": {
+    "text": "बुद्धचरित, सर्ग 27 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित, सर्ग 27 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "One of the praises sung for the Buddha at his passing.",
+   "hi": {
+    "text": "अंतिम विदाई के समय बुद्ध की प्रशंसा में गाई गई एक स्तुति।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अंतिम विदाईच्या वेळी बुद्धांच्या स्तुतीत गायलेली एक स्तुती.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who has been a teacher to you, and have you ever told them what their teaching meant?",
+  "hi": {
+   "text": "तुम्हारे कोई शिक्षक रहे हैं, और क्या तुमने कभी उन्हें बताया कि उनकी शिक्षा तुम्हारे लिए क्या थी?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझे कधी कोणी शिक्षक राहिले आहेत का, आणि तू कधी त्यांना सांगितले आहेस का की त्यांची शिकवण तुझ्यासाठी काय होती?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grief at a great teacher's passing is real, and the hymns of the day turn it toward the teaching he left: everything that comes together will pass, and the light he lit can be carried on.",
+  "hi": {
+   "text": "महान शिक्षक के निधन का शोक सच्चा होता है, और उस दिन के स्तोत्र उसे उस शिक्षा की ओर मोड़ते हैं जो उसने छोड़ी: जो भी जुड़ता है वह बिखरेगा, और जो प्रकाश उसने जलाया उसे आगे ले जाया जा सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान शिक्षकाच्या निधनाचा शोक खरा असतो, आणि त्या दिवसाची स्तोत्रे त्याला त्या शिकवणीकडे वळवतात जी त्याने मागे सोडली: जे जुळते ते विखुरते, आणि ज्या दिव्याला त्याने पेटवले तो पुढे नेता येतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 27; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 27; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 27; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

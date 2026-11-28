@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "amrapali-sees-the-buddha",
+ "order": 22,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Amrapali Sees the Buddha",
+  "hi": {
+   "text": "आम्रपाली ने बुद्ध को देखा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आम्रपालीने बुद्धांना पाहिले",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Near the end of his life the Buddha walks north across the Ganges, and at Vaishali a woman of the city comes to his mango grove with an offering.",
+  "hi": {
+   "text": "अपने जीवन के अंत के निकट बुद्ध गंगा पार करके उत्तर की ओर चलते हैं, और वैशाली में नगर की एक स्त्री अपनी भेंट लेकर उनके आम्रउपवन में आती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आयुष्याच्या शेवटी बुद्ध गंगा ओलांडून उत्तरेकडे चालतात, आणि वैशालीत नगरातील एक स्त्री आपली भेट घेऊन त्यांच्या आम्रवनात येते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-amrapali-1.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Buddha relic stupa, Vaishali",
+    "hi": {
+     "text": "बुद्ध स्तूप, वैशाली",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्ध स्तूप, वैशाली",
+     "reviewed": false
+    }
+   },
+   "credit": "Sumitsurai, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_Relic_Stupa_-_Vaishali_(12).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The town of Pataliputra",
+    "hi": {
+     "text": "पाटलिपुत्र नगर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाटलिपुत्र नगर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "With his wide work of conversion done, the Buddha turned his thoughts toward Nirvana. From Rajagriha he went on to the town of Pataliputra and stayed at a famous shrine. The poem describes it as a frontier town of Magadha, defending the edge of the country. Its ruler was a learned Brahman, and there was an overseer who took omens about whether the place would be safe. The king of Magadha sent a messenger commanding that fortifications be raised around the town, and the work was going ahead.\n\nThe Buddha, as they built, foretold that because of the gods and spirits who protected the place it would stay strong and free from ruin. The overseer was glad and made offerings to the Buddha, the law and the community. When the Buddha left by the city gate to go toward the Ganges, the overseer named that gate the Gautama gate in his honour. A town that would later be a great capital appears here as a small border post on a morning in the last year of the Buddha's life.",
+    "hi": {
+     "text": "अपने व्यापक धर्मप्रचार के कार्य को पूरा करके बुद्ध का मन निर्वाण की ओर मुड़ा। राजगृह से वे पाटलिपुत्र नगर गए और एक प्रसिद्ध तीर्थस्थान पर ठहरे। काव्य इसे मगध की सीमा पर बसा एक सीमावर्ती नगर बताता है, जो देश के किनारे की रक्षा करता था। इसका शासक एक विद्वान ब्राह्मण था, और वहाँ एक अधिकारी था जो यह देखता था कि स्थान सुरक्षित रहेगा या नहीं। मगध के राजा ने एक दूत भेजकर आदेश दिया कि नगर के चारों ओर किलेबंदी की जाए, और काम आगे बढ़ रहा था।\n\nनिर्माण होते समय बुद्ध ने भविष्यवाणी की कि उस स्थान की रक्षा करने वाले देवताओं और आत्माओं के कारण यह नगर सुदृढ़ रहेगा और विनाश से बचा रहेगा। अधिकारी प्रसन्न हुआ और उसने बुद्ध, धर्म और संघ को भेंट अर्पित की। जब बुद्ध नगर के द्वार से होकर गंगा की ओर चले, तो अधिकारी ने उस द्वार को उनके सम्मान में गौतम द्वार नाम दिया। जो नगर आगे चलकर एक महान राजधानी बना, वह यहाँ बुद्ध के जीवन के अंतिम वर्ष की एक सुबह एक छोटी सीमा-चौकी के रूप में दिखाई देता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपले व्यापक धर्मप्रसाराचे कार्य पूर्ण झाल्यावर बुद्धांचे मन निर्वाणाकडे वळले. राजगृहातून ते पाटलिपुत्र नगरात गेले आणि एका प्रसिद्ध तीर्थस्थानी थांबले. काव्य त्या नगराचे वर्णन मगध देशाच्या सीमेवरील नगर म्हणून करते, जे देशाच्या टोकाचे रक्षण करत होते. तेथील शासक एक विद्वान ब्राह्मण होता, आणि तिथे एक अधिकारी होता जो ते स्थान सुरक्षित राहील की नाही याबद्दल शकुन पाहत असे. मगधच्या राजाने दूत पाठवून नगराभोवती तटबंदी उभारण्याचा आदेश दिला होता, आणि ते काम सुरू होते.\n\nबांधकाम चालू असताना बुद्धांनी भविष्य सांगितले की त्या जागेचे रक्षण करणाऱ्या देवता आणि आत्म्यांमुळे हे नगर बलवान राहील आणि नाशापासून मुक्त राहील. अधिकारी आनंदित झाला आणि त्याने बुद्ध, धर्म आणि संघ यांना अर्पण केले. बुद्ध नगराच्या वेशीतून गंगेच्या दिशेने निघाले, तेव्हा अधिकाऱ्याने त्यांच्या सन्मानार्थ त्या वेशीला गौतम वेस असे नाव दिले. पुढे जे नगर एक महान राजधानी बनणार होते, ते येथे बुद्धांच्या आयुष्यातील शेवटच्या वर्षातील एका सकाळी एका छोट्या सीमा-चौकीच्या रूपात दिसते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Crossing the Ganges",
+    "hi": {
+     "text": "गंगा पार करना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गंगा ओलांडणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the river all the people had come out to pay reverence. They prepared every kind of offering, and each one, with a decorated boat, invited him to cross in his. The Buddha thought of how many boats there were. If he accepted one, he feared, it would look like partiality and hurt the feelings of all the rest. So in a moment, by his spiritual power, he carried himself and the great company across, leaving this shore and standing at once on that one.\n\nThe poet reads it as a sign. It showed the passage in the boat of wisdom, large enough to carry all that lives from this world to Nirvana, and so he crossed the great river without any boat at all. The people on the bank raised a shout of wonder and said that the ford would be called the Gautama ford, as the gate was. He went on through villages where he preached, and in one where many people had died, he answered each of the mourners as to where their friends had been reborn.",
+    "hi": {
+     "text": "नदी के किनारे सब लोग श्रद्धा प्रकट करने के लिए एकत्र हुए थे। उन्होंने हर प्रकार की भेंट तैयार की थी, और हर व्यक्ति अपनी सजी हुई नाव में उन्हें पार ले जाने का निमंत्रण दे रहा था। बुद्ध ने सोचा कि कितनी नावें हैं। यदि वे एक नाव स्वीकार करते, तो उन्हें डर था कि यह पक्षपात जैसा लगेगा और बाकी सबकी भावनाओं को ठेस पहुँचेगी। इसलिए क्षण भर में अपनी आध्यात्मिक शक्ति से उन्होंने स्वयं को और उस बड़ी मंडली को पार पहुँचा दिया, जिससे वे एक ही क्षण में इस तट को छोड़कर उस तट पर खड़े थे।\n\nकवि इसे एक संकेत के रूप में पढ़ता है। यह ज्ञान की नाव से पार उतरने का चित्र था, इतनी बड़ी नाव जो इस संसार के हर जीव को निर्वाण तक ले जा सके। इसी कारण उन्होंने बिना किसी नाव के उस महानदी को पार किया। तट पर खड़े लोगों ने आश्चर्य से जयघोष किया और कहा कि इस घाट को भी गौतम घाट कहा जाएगा, जैसे वह द्वार था। वे गाँव-गाँव होते हुए आगे बढ़े और उपदेश दिया। एक गाँव में जहाँ बहुत लोग मर चुके थे, उन्होंने हर शोक करने वाले को बताया कि उनके प्रियजन किस गति को प्राप्त हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नदीकाठी सर्व लोक आदर व्यक्त करण्यासाठी जमले होते. त्यांनी सर्व प्रकारच्या अर्पणांची तयारी केली होती, आणि प्रत्येकजण आपल्या सजवलेल्या होडीतून त्यांना ओलांडून नेण्याचे आमंत्रण देत होता. बुद्धांनी विचार केला की किती होड्या आहेत. जर त्यांनी एकच होडी स्वीकारली, तर ती पक्षपात वाटेल आणि बाकी सर्वांच्या भावना दुखावतील, अशी त्यांना भीती वाटली. म्हणून क्षणार्धात आपल्या आध्यात्मिक सामर्थ्याने त्यांनी स्वतःला आणि ती मोठी मंडळी पलीकडे नेली, आणि एकाच क्षणात ते या किनाऱ्यावरून त्या किनाऱ्यावर उभे होते.\n\nकवी याकडे एक चिन्ह म्हणून पाहतो. हे ज्ञानाच्या होडीतून पलीकडे जाण्याचे चित्र होते, इतकी मोठी होडी जी या जगातील सर्व जिवांना निर्वाणापर्यंत नेऊ शकेल. म्हणूनच त्यांनी कोणत्याही होडीशिवाय त्या महानदीला ओलांडले. काठावरील लोकांनी आश्चर्याने जयघोष केला आणि सांगितले की या घाटालाही वेशीप्रमाणेच गौतम घाट म्हटले जाईल. ते गावोगावी उपदेश करत पुढे गेले. एका गावात, जिथे अनेक लोक मरण पावले होते, त्यांनी प्रत्येक शोक करणाऱ्याला सांगितले की त्यांचे प्रियजन कोणत्या गतीला गेले आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The mango grove",
+    "hi": {
+     "text": "आम्र उपवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आम्रवन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then he went forward to Vaishali and stayed in the mango grove. The celebrated lady Amra, or Amrapali in the southern records, was well disposed toward the Buddha. She went to the garden with her waiting women, while children from the schools paid her respect on the way. The poet notes her careful dress. She had put away her ornamented robes, her scents and flowers, and wore light, plain clothes, and she came as a prudent and virtuous woman goes to her religious duties, beautiful to look at, like a goddess in appearance.\n\nThe Buddha saw her from far off and spoke to the monks. In this canto he warns them, in strong words typical of a monastic text, to keep their recollection straight and not let a beautiful woman fascinate their minds, and he asks them to hold their senses and their objects in due limits, as two oxen must pull evenly at a plough. The warning is about the monks' own minds. Beal's note says this sermon is not found in the Pali account.",
+    "hi": {
+     "text": "फिर वे आगे वैशाली गए और आम्र उपवन में ठहरे। प्रसिद्ध महिला आम्रा, जिसे दक्षिण की परंपराओं में आम्रपाली कहा गया है, बुद्ध के प्रति श्रद्धा रखती थी। वह अपनी परिचारिकाओं के साथ उपवन की ओर गई, और रास्ते में पाठशालाओं के बच्चे उसका आदर करने लगे। कवि उसकी सावधान वेशभूषा का उल्लेख करता है। उसने अपने अलंकृत वस्त्र, सुगंध और फूल त्याग दिए थे और सादे, हल्के वस्त्र पहने थे। वह एक विवेकी और सद्गुणी स्त्री की तरह धार्मिक कर्तव्य के लिए जा रही थी, देखने में सुंदर, मानो किसी देवी के समान।\n\nबुद्ध ने उसे दूर से देखा और भिक्षुओं से बात की। इस सर्ग में वे भिक्षुओं को मठीय ग्रंथों की कठोर भाषा में चेतावनी देते हैं कि अपनी स्मृति सीधी रखें और सुंदर स्त्री को अपने मन पर मोहित न होने दें। वे कहते हैं कि इंद्रियों और उनके विषयों को उचित सीमा में रखें, जैसे हल खींचने वाले दो बैल समान रूप से खींचते हैं। यह चेतावनी भिक्षुओं के अपने मन के लिए है। बील की टिप्पणी के अनुसार यह उपदेश पालि विवरण में नहीं मिलता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग ते पुढे वैशालीला गेले आणि आम्रवनात राहिले. प्रसिद्ध स्त्री आम्रा, दक्षिणेकडील नोंदींमध्ये जिला आम्रपाली म्हटले आहे, ती बुद्धांबद्दल चांगल्या भावनेची होती. ती आपल्या सेविकांसह उद्यानाकडे गेली, आणि वाटेत शाळांतील मुले तिला आदर देत होती. कवी तिच्या सावध वेशाकडे लक्ष वेधतो. तिने आपले अलंकृत वस्त्र, सुगंध आणि फुले बाजूला ठेवली होती आणि साधे, हलके कपडे घातले होते. विवेकी आणि सद्गुणी स्त्री जशी आपल्या धार्मिक कर्तव्यासाठी जाते, तशी ती जात होती, पाहायला सुंदर, एखाद्या देवीसारखी.\n\nबुद्धांनी तिला दुरूनच पाहिले आणि भिक्षूंशी बोलले. या सर्गात ते भिक्षूंना मठीय ग्रंथांच्या कठोर भाषेत इशारा देतात की त्यांनी आपली स्मृती सरळ ठेवावी आणि सुंदर स्त्रीने त्यांच्या मनाला मोहित करू देऊ नये. इंद्रिये आणि त्यांचे विषय योग्य मर्यादेत ठेवावेत, जसे नांगर ओढताना दोन बैल समान रीतीने ओढतात, असे ते सांगतात. हा इशारा भिक्षूंच्या स्वतःच्या मनासाठी आहे. बीलच्या टिपणीनुसार हा उपदेश पाली वृत्तांतात सापडत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A woman of faith",
+    "hi": {
+     "text": "श्रद्धावान स्त्री",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रद्धावान स्त्री",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Amra came gradually into his presence. She saw the Buddha sitting under a tree, lost in thought, and remembered his great compassion, and thought that in pity he would receive her garden. With steady heart and joyful face, her outward form restrained, she bowed her head at his feet and sat where he told her. In due order he spoke the law to her. Your heart seems composed, lady, and your form needs no outward ornament, he said. You are young and rich, and you seem as gifted as you are beautiful.\n\nThat one so gifted should have faith enough to receive the law of righteousness is a rare thing in the world. A man who has learned wisdom in former births accepts it with joy, and that is not rare, he said, but that a woman, weak of will and deeply immersed in love, should be able to delight in piety is very rare. The poem's phrasing reflects its own time, and the praise it gives her is meant sincerely. She is shown as the person who understood the teaching best in the scene.",
+    "hi": {
+     "text": "आम्रा धीरे-धीरे बुद्ध के समीप आई। उसने बुद्ध को एक वृक्ष के नीचे ध्यानमग्न बैठे देखा, उनकी महान करुणा का स्मरण किया, और सोचा कि करुणावश वे उसका उपवन स्वीकार कर लेंगे। स्थिर हृदय और प्रसन्न मुख के साथ, अपने बाहरी रूप को संयमित रखते हुए, उसने उनके चरणों में सिर झुकाया और जहाँ उन्होंने कहा वहाँ बैठ गई। उन्होंने उसे क्रम से धर्म का उपदेश दिया। उन्होंने कहा, हे देवी, तुम्हारा हृदय शांत प्रतीत होता है, और तुम्हारे रूप को बाहरी अलंकार की आवश्यकता नहीं। तुम युवा और धनी हो, और जितनी सुंदर हो उतनी ही प्रतिभाशाली भी लगती हो।\n\nऐसी प्रतिभा वाली स्त्री में धर्म का मार्ग ग्रहण करने जितनी श्रद्धा हो, यह संसार में दुर्लभ है। जो व्यक्ति पूर्व जन्मों में ज्ञान पा चुका हो, वह उसे आनंद से स्वीकार करता है, और यह दुर्लभ नहीं है। पर एक स्त्री, जो इच्छा में दुर्बल और प्रेम में डूबी हो, यदि धर्म में आनंद पा सके, तो यह अत्यंत दुर्लभ है, ऐसा उन्होंने कहा। काव्य की भाषा अपने समय की है, और उसकी प्रशंसा सच्चे भाव से की गई है। इस दृश्य में वह उस व्यक्ति के रूप में दिखाई गई है जिसने शिक्षा को सबसे अच्छी तरह समझा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आम्रा हळूहळू त्यांच्या समोर आली. तिने बुद्धांना एका वृक्षाखाली ध्यानमग्न बसलेले पाहिले, त्यांच्या महान करुणेचे स्मरण केले, आणि वाटले की करुणेमुळे ते तिचे उद्यान स्वीकारतील. स्थिर हृदय आणि आनंदी चेहऱ्याने, बाह्य रूप संयमित ठेवून, तिने त्यांच्या चरणी मस्तक टेकवले आणि त्यांनी सांगितले तिथे ती बसली. त्यांनी क्रमाक्रमाने तिला धर्माचा उपदेश केला. ते म्हणाले, हे देवी, तुझे हृदय शांत दिसते, आणि तुझ्या रूपाला बाह्य अलंकाराची गरज नाही. तू तरुण आणि श्रीमंत आहेस, आणि जितकी सुंदर आहेस तितकीच प्रतिभावानही दिसतेस.\n\nअशा प्रतिभावान स्त्रीमध्ये धर्ममार्ग स्वीकारण्याइतकी श्रद्धा असणे जगात दुर्मिळ आहे. पूर्व जन्मांत ज्ञान मिळवलेला माणूस ते आनंदाने स्वीकारतो, आणि ते दुर्मिळ नाही, ते म्हणाले. पण इच्छेने दुर्बल आणि प्रेमात खोलवर बुडालेली स्त्री धर्मात आनंद मिळवू शकली, तर ते अत्यंत दुर्मिळ आहे. काव्याची भाषा त्या काळाची आहे, आणि तिच्याबद्दल केलेली स्तुती खरी आहे. या प्रसंगात ती अशी व्यक्ती दाखवली आहे जिने शिकवण सर्वात चांगली समजून घेतली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The offering accepted",
+    "hi": {
+     "text": "स्वीकृत भेंट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वीकारलेले अर्पण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Amra's wisdom strengthened as she listened, and she was able to cast off desire. Though still in a woman's form, the poem says, she was dissatisfied with it and was freed from all polluting thoughts. Filled with religious joy she bowed at the Buddha's feet. Oh, may the lord, in deep compassion, receive from me, though ignorant, this offering, she said, and so fulfil my earnest vow. She was offering her grove, and she asked him to accept.\n\nThe Buddha knew her sincerity and acted for the good of all that lives. He silently accepted her request, and in consequence she felt full joy. All her friends who had come with her also listened and grew in knowledge, and after adoring him they went home. In the southern accounts she also invites him to a meal the next day and, to the annoyance of the Licchavi princes, refuses to give up the invitation, but Beal's text has none of this and ends with the gift of the grove and the quiet return home.",
+    "hi": {
+     "text": "उपदेश सुनते-सुनते आम्रा की बुद्धि दृढ़ हुई, और वह इच्छा को त्याग सकी। काव्य कहता है कि यद्यपि वह अब भी स्त्री रूप में थी, फिर भी उसे उस रूप से अरुचि हुई और वह हर मलिन विचार से मुक्त हो गई। धार्मिक आनंद से भरकर उसने बुद्ध के चरणों में प्रणाम किया। उसने कहा, हे प्रभु, गहरी करुणा से मुझ अज्ञानी की यह भेंट स्वीकार करें और इस प्रकार मेरी सच्ची मन्नत पूरी करें। वह अपना उपवन अर्पित कर रही थी, और उसने प्रार्थना की कि वे उसे स्वीकार करें।\n\nबुद्ध उसकी निष्ठा को जानते थे, और समस्त जीवों के हित के लिए उन्होंने मौन रहकर उसकी प्रार्थना स्वीकार की। इसके फलस्वरूप उसे पूर्ण आनंद हुआ। उसके साथ आई सब सखियों ने भी सुना और ज्ञान में बढ़ीं, और प्रणाम करने के बाद वे अपने घर लौट गईं। दक्षिण की परंपराओं में वह बुद्ध को अगले दिन भोजन का निमंत्रण भी देती है, और लिच्छवि राजकुमार इससे नाराज़ होते हैं, पर बील के पाठ में इसका कोई उल्लेख नहीं है। वह उपवन के दान और शांत वापसी पर समाप्त होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ऐकताना आम्राची बुद्धी दृढ झाली, आणि ती इच्छा त्यागू शकली. काव्य सांगते की ती अजूनही स्त्री रूपात होती, तरी त्या रूपाबद्दल ती असंतुष्ट झाली आणि सर्व मलिन विचारांपासून मुक्त झाली. धार्मिक आनंदाने भरून तिने बुद्धांच्या चरणी नमन केले. ती म्हणाली, हे प्रभो, खोल करुणेने माझ्यासारख्या अज्ञानी स्त्रीचे हे अर्पण स्वीकारावे, आणि अशा प्रकारे माझा मनापासूनचा संकल्प पूर्ण करावा. ती आपले उद्यान अर्पण करत होती, आणि तिने त्यांना ते स्वीकारण्याची विनंती केली.\n\nबुद्धांनी तिचा प्रामाणिकपणा ओळखला, आणि सर्व जिवांच्या हितासाठी त्यांनी मौन धारण करून तिची विनंती स्वीकारली. त्यामुळे तिला पूर्ण आनंद झाला. तिच्याबरोबर आलेल्या सर्व मैत्रिणींनीही ऐकले आणि ज्ञानात वाढल्या, आणि नमन केल्यानंतर त्या घरी परतल्या. दक्षिणेकडील परंपरांमध्ये ती दुसऱ्या दिवशी भोजनाचेही आमंत्रण देते, आणि लिच्छवी राजपुत्रांना त्याचा राग येतो, पण बीलच्या मजकुरात यापैकी काहीही नाही. तो उद्यानाच्या दानाने आणि शांत परतीने संपतो.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Have you ever made a simple, wholehearted offering that you gave without expecting anything back?",
+  "hi": {
+   "text": "क्या तुमने कभी कोई सरल, पूरे मन की भेंट दी है, जो बदले में कुछ पाने की आशा के बिना दी गई हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तू कधी एखादे साधे, मनापासूनचे अर्पण दिले आहेस का, जे बदल्यात काही मिळण्याची अपेक्षा न ठेवता दिले होते?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Sincere giving needs no show: a plain dress, a quiet request and an open heart are enough.",
+  "hi": {
+   "text": "सच्चे दान को दिखावे की ज़रूरत नहीं: सादे वस्त्र, शांत निवेदन और खुला हृदय पर्याप्त हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरे दान दिखाव्याची गरज नसते: साधा पोशाख, शांत विनंती आणि खुले हृदय पुरेसे असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 22; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 22; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 22; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

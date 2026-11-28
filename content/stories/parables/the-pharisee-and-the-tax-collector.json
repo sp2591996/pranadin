@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-pharisee-and-the-tax-collector",
+ "order": 30,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Pharisee and the Tax Collector",
+  "hi": {
+   "text": "फरीसी और कर वसूलने वाला",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "फरीसी आणि जकातदार",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Two men pray in the Temple, one confident in his goodness and one asking only for mercy.",
+  "hi": {
+   "text": "दो व्यक्ति मंदिर में प्रार्थना करते हैं, एक अपनी भलाई पर भरोसा रखता है और दूसरा केवल दया माँगता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन माणसे मंदिरात प्रार्थना करतात, एक आपल्या चांगुलपणाचा अभिमान बाळगतो आणि दुसरा फक्त दयेची याचना करतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-pharisee-bowyer.webp",
+   "w": 640,
+   "h": 478,
+   "caption": {
+    "en": "The Pharisee and the tax collector, engraving from the Bowyer Bible",
+    "hi": {
+     "text": "फरीसी और कर वसूलने वाला, बोवायर बाइबल का उत्कीर्णन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फरीसी आणि जकातदार, बोवायर बायबलमधील कोरीवकाम",
+     "reviewed": false
+    }
+   },
+   "credit": "Phidev74, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bowyer_Bible_Luke_The_parable_of_the_Pharisee_and_the_publican_Luke_18_10-14_Dutch_Bible.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "For those sure of their own goodness",
+    "hi": {
+     "text": "उन लोगों के लिए जो अपनी भलाई को लेकर निश्चिंत हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे स्वतःच्या चांगुलपणाविषयी खात्री बाळगतात त्यांच्यासाठी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Luke introduces this parable with a note about its audience. Jesus told it to some who trusted in themselves that they were righteous, and who looked down on everyone else. It is a story about two people at prayer, and it follows closely after the story of the persistent widow.\n\nIt is important to approach the story fairly. Pharisees were not villains. They were serious, devoted people, among the most careful students of the Scriptures in Jesus's day, and many were sincere in their faith and respected for it. Jesus himself shared much with them in belief and practice. The parable is aimed at an attitude of mind that can appear in anyone, in any religion, and not at a group. Jesus had friends and critics among the Pharisees, and the Gospels record warm and serious exchanges between him and them, so the parable should not be read as a caricature.",
+    "hi": {
+     "text": "लूका इस दृष्टांत का परिचय उसके श्रोताओं के बारे में एक टिप्पणी से देते हैं। यीशु इसे कुछ ऐसे लोगों से कह रहे थे जो स्वयं पर भरोसा करते थे कि वे धर्मी हैं, और बाकी सब को तुच्छ समझते थे। यह प्रार्थना करते दो लोगों की कहानी है, और यह उस विधवा के दृष्टांत के ठीक बाद आती है।\n\nकहानी को निष्पक्षता से देखना ज़रूरी है। फरीसी खलनायक नहीं थे। वे गंभीर और समर्पित लोग थे, यीशु के समय में शास्त्रों के सबसे सावधान अध्येताओं में से, और उनमें से बहुत से लोग अपनी आस्था में सच्चे थे और उसके लिए सम्मानित थे। यीशु स्वयं विश्वास और आचरण में उनके साथ बहुत कुछ साझा करते थे। यह दृष्टांत एक मनोवृत्ति को निशाना बनाता है, जो किसी भी व्यक्ति में, किसी भी धर्म में, दिख सकती है, न कि किसी समूह को। यीशु के फरीसियों में मित्र भी थे और आलोचक भी, और सुसमाचार उनके और उनके बीच गर्मजोशी भरे और गंभीर संवादों का उल्लेख करते हैं, इसलिए इस दृष्टांत को व्यंग्यचित्र के रूप में नहीं पढ़ा जाना चाहिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूका हा दृष्टांत त्याच्या श्रोत्यांविषयीच्या एका टिपेने सादर करतात. यीशू तो काही अशा लोकांना सांगत होते जे स्वतःवर भरवसा ठेवत की ते नीतिमान आहेत, आणि बाकीच्यांना तुच्छ लेखत. ही दोन माणसांची प्रार्थना करतानाची कथा आहे, आणि ती विधवेच्या दृष्टांतानंतर लगेच येते.\n\nही कथा निःपक्षपातीपणे समजून घेणे महत्त्वाचे आहे. फरीसी खलनायक नव्हते. ते गंभीर आणि निष्ठावान लोक होते, यीशूच्या काळातील शास्त्रांचे सर्वात काळजीपूर्वक अभ्यासक होते, आणि त्यांच्यातील अनेक जण आपल्या श्रद्धेत प्रामाणिक होते आणि त्यासाठी आदरणीय होते. यीशू स्वतः श्रद्धा आणि आचरणात त्यांच्याशी बरेच काही सामायिक करत होते. हा दृष्टांत कोणत्याही धर्मातील, कोणाही व्यक्तीत दिसू शकणार्या एका मनोवृत्तीवर बोट ठेवतो, कोणत्या गटावर नाही. यीशूचे फरीसींमध्ये मित्रही होते आणि टीकाकारही होते, आणि शुभवर्तमान त्यांच्यातील उबदार आणि गंभीर संवादांची नोंद करते, त्यामुळे हा दृष्टांत व्यंगचित्र म्हणून वाचला जाऊ नये.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two men go up to pray",
+    "hi": {
+     "text": "दो मनुष्य प्रार्थना करने ऊपर जाते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन माणसे प्रार्थना करायला वर जातात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Two men went up into the Temple to pray, one a Pharisee and the other a tax collector. Their reputations could hardly be more different. A Pharisee was widely respected as a person of strict faith and moral discipline. A tax collector, in the Roman system, was regarded as a collaborator with the occupying power, and was often suspected of taking more than he should.\n\nEveryone listening would have assumed they knew which of the two would be the hero of the story. The Temple was the centre of Jewish worship, a place where a person came to pray in the open before God. The two men step into the same sacred space at the same time, and Jesus lets the listeners watch them as they take up their places. The setting is prayer itself, which makes the contrast between the two men all the more striking and personal.",
+    "hi": {
+     "text": "दो मनुष्य प्रार्थना करने मंदिर में गए, एक फरीसी और दूसरा कर वसूलने वाला। उनकी प्रतिष्ठा में शायद ही इससे अधिक अंतर हो सकता था। फरीसी को कठोर विश्वास और नैतिक अनुशासन वाले व्यक्ति के रूप में व्यापक सम्मान मिलता था। कर वसूलने वाला, रोमी व्यवस्था में, कब्ज़ा करने वाली सत्ता का सहयोगी माना जाता था, और अक्सर उस पर आरोप लगता था कि वह तय से अधिक वसूलता है।\n\nसुनने वाले सभी मानते थे कि उन्हें पता है कि दोनों में से कौन कहानी का नायक होगा। मंदिर यहूदी उपासना का केंद्र था, ऐसी जगह जहाँ व्यक्ति खुले में परमेश्वर के सामने प्रार्थना करने आता है। दोनों मनुष्य एक ही समय पर उसी पवित्र स्थान में प्रवेश करते हैं, और यीशु सुनने वालों को उन्हें अपनी-अपनी जगह लेते हुए देखने देते हैं। पृष्ठभूमि प्रार्थना ही है, जिससे दोनों के बीच का अंतर और भी स्पष्ट और व्यक्तिगत हो जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन माणसे प्रार्थना करायला मंदिरात गेली, एक फरीसी आणि दुसरा जकातदार. त्यांच्या प्रतिष्ठेत यापेक्षा मोठा फरक असू शकत नव्हता. फरीसी कडक श्रद्धा आणि नैतिक शिस्तीचा माणूस म्हणून व्यापकपणे आदरला जात असे. जकातदार, रोमन व्यवस्थेत, ताबा घेतलेल्या सत्तेचा सहकारी मानला जाई, आणि त्याच्यावर अनेकदा ठरवलेल्यापेक्षा जास्त वसूल करण्याचा संशय असे.\n\nऐकणार्या सर्वांना वाटले असेल की त्यांना माहीत आहे दोघांपैकी कोण कथेचा नायक असेल. मंदिर हे यहूदी उपासनेचे केंद्र होते, असे ठिकाण जिथे माणूस खुलेपणाने देवासमोर प्रार्थना करायला येतो. दोन माणसे एकाच वेळी त्याच पवित्र जागेत प्रवेश करतात, आणि यीशू श्रोत्यांना त्यांची जागा घेताना पाहू देतात. पार्श्वभूमी स्वतः प्रार्थना आहे, ज्यामुळे दोघांतील फरक अधिकच ठळक आणि वैयक्तिक होतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Pharisee's prayer",
+    "hi": {
+     "text": "फरीसी की प्रार्थना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परुशाची प्रार्थना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Pharisee stands and prays about himself. God, he says, I thank you that I am not like other people, extortioners, unrighteous, adulterers, or even like this tax collector. I fast twice a week, and I give tithes of all that I get. On the surface, everything he says may well be true, and his practices are admirable. Fasting twice a week and tithing everything went beyond what the Law required.\n\nThe trouble is in the direction of the prayer. It begins with thanks to God, but quickly becomes a comparison, and the tax collector standing nearby is used as a point of contrast. He seems to be less in conversation with God than in conversation with his own sense of himself. He leaves the Temple having asked for nothing, since he does not feel that he needs anything.",
+    "hi": {
+     "text": "फरीसी खड़ा होकर अपने बारे में प्रार्थना करता है। हे परमेश्वर, मैं तेरा धन्यवाद करता हूँ कि मैं और लोगों की तरह अन्यायी, ठग, व्यभिचारी नहीं हूँ, या इस कर वसूलने वाले की तरह भी नहीं हूँ। मैं सप्ताह में दो बार उपवास करता हूँ, और जो कुछ मैं कमाता हूँ उसका दशमांश देता हूँ। सतह पर, जो कुछ वह कहता है वह शायद सच हो, और उसकी प्रथाएँ सराहनीय हैं। सप्ताह में दो बार उपवास और जो कुछ कमाता है उसका दशमांश देना व्यवस्था की माँग से भी आगे था।\n\nसमस्या प्रार्थना की दिशा में है। वह परमेश्वर के प्रति धन्यवाद से शुरू होती है, पर जल्दी ही तुलना बन जाती है, और पास खड़ा कर वसूलने वाला तुलना के बिंदु के रूप में उपयोग होता है। वह परमेश्वर से कम बात कर रहा है और अपने आप के बोध से अधिक। वह मंदिर से कुछ माँगे बिना निकलता है, क्योंकि उसे लगता नहीं कि उसे किसी चीज़ की ज़रूरत है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फरीसी उभा राहून स्वतःविषयी प्रार्थना करतो. हे देवा, मी तुझे आभार मानतो की मी इतर लोकांसारखा लुबाडणारा, अन्यायी, व्यभिचारी नाही, किंवा या जकातदारासारखाही नाही. मी आठवड्यातून दोनदा उपवास करतो, आणि जे काही मी मिळवतो त्याचा दशांश देतो. वरवर पाहता, तो जे बोलतो ते कदाचित खरे असेल, आणि त्याच्या प्रथा प्रशंसनीय आहेत. आठवड्यातून दोनदा उपवास आणि जे मिळवतो त्याचा दशांश देणे नियमशास्त्राच्या मागणीपेक्षाही पुढे होते.\n\nअडचण प्रार्थनेच्या दिशेत आहे. ती देवाचे आभार मानण्यापासून सुरू होते, पण लवकरच तुलना बनते, आणि जवळ उभा असलेला जकातदार तुलनेचा मुद्दा म्हणून वापरला जातो. तो देवाशी संवाद साधण्यापेक्षा स्वतःच्या जाणिवेशी अधिक बोलत असल्यासारखा वाटतो. तो मंदिरातून काहीही न मागता निघून जातो, कारण त्याला स्वतःला काही गरज आहे असे वाटत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The tax collector's prayer",
+    "hi": {
+     "text": "कर वसूलने वाले की प्रार्थना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जकातदाराची प्रार्थना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The tax collector stands far off, and will not even lift his eyes to heaven, but beats his breast. He says only one sentence, God, be merciful to me, a sinner. There is no list of achievements and no comparison with anyone else, and no defence. He knows what he is, and he asks for mercy.\n\nThen Jesus gives the verdict, which would have startled his listeners. I tell you, this man went down to his house justified rather than the other, for everyone who exalts himself will be humbled, but he who humbles himself will be exalted. The word justified means that he was set right with God. The man everyone expected to be rejected is the one who goes home at peace. What he possesses is nothing at all, only an honest request, and that turns out to be exactly what the story honours.",
+    "hi": {
+     "text": "कर वसूलने वाला दूर खड़ा रहता है, आँखें स्वर्ग की ओर भी नहीं उठाता, बल्कि अपनी छाती पीटता है। वह केवल एक वाक्य कहता है, हे परमेश्वर, मुझ पापी पर दया कर। इसमें उपलब्धियों की कोई सूची नहीं है, किसी से तुलना नहीं है, और कोई बचाव भी नहीं। वह जानता है कि वह क्या है, और वह दया माँगता है।\n\nफिर यीशु वह निर्णय सुनाते हैं, जिसने उनके श्रोताओं को चौंका दिया होगा। मैं तुमसे कहता हूँ, यह मनुष्य दूसरे की अपेक्षा धर्मी ठहराया गया होकर अपने घर गया, क्योंकि जो कोई अपने आप को बड़ा करेगा वह छोटा किया जाएगा, और जो अपने आप को छोटा करेगा वह बड़ा किया जाएगा। धर्मी ठहराया जाना का अर्थ है कि वह परमेश्वर के सामने सही ठहराया गया। जिस व्यक्ति से सबको अस्वीकृति की उम्मीद थी, वही शांति से घर लौटता है। उसके पास कुछ भी नहीं था, केवल एक ईमानदार निवेदन, और कथा यही सम्मानित करती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जकातदार दूर उभा राहतो, डोळे स्वर्गाकडे देखील वर न करता, छाती बडवतो. तो फक्त एकच वाक्य म्हणतो, हे देवा, मज पापी माणसावर दया कर. त्यात उपलब्धींची यादी नाही, कोणाशी तुलना नाही, आणि बचावही नाही. तो काय आहे हे जाणतो, आणि दया मागतो.\n\nमग यीशू तो निर्णय सांगतात, जो त्यांच्या श्रोत्यांना धक्का देणारा ठरला असेल. मी तुम्हांला सांगतो, हा माणूस दुसर्यापेक्षा नीतिमान ठरून आपल्या घरी गेला, कारण जो कोणी स्वतःला मोठे करतो त्याला नम्र केले जाईल, आणि जो स्वतःला नम्र करतो त्याला मोठे केले जाईल. नीतिमान ठरवले जाणे म्हणजे तो देवासमोर योग्य ठरवला गेला. ज्या माणसाला सर्वजण नाकारला जाईल असे समजत होते, तोच शांतपणे घरी परततो. त्याच्याजवळ काहीच नव्हते, फक्त एक प्रामाणिक विनंती, आणि कथा हेच सन्मानित करते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Humility as honesty",
+    "hi": {
+     "text": "विनम्रता ईमानदारी के रूप में",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नम्रता म्हणजे प्रामाणिकपणा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The point of the parable is not that being a tax collector is better than being a Pharisee, or that fasting and tithing are worthless. It is about where our trust lies. Christians have read it as a lesson that no one stands before God on the strength of their record, and that honest, humble prayer is more real than polished self-assurance.\n\nThe temptation the story describes is common to people of every belief, and of none. It is easy to feel good about ourselves by comparison with others. The tax collector's brief prayer offers a different path, simple honesty about our need, without defence or display. In that kind of humility, there is relief, since we no longer have to hold up an image of ourselves that we cannot maintain. Many have found that the story is less about two kinds of men than about two possible moods inside the same person.",
+    "hi": {
+     "text": "दृष्टांत का मुद्दा यह नहीं कि कर वसूलने वाला होना फरीसी होने से बेहतर है, या उपवास और दशमांश व्यर्थ हैं। बात यह है कि हमारा भरोसा कहाँ है। ईसाइयों ने इसे इस शिक्षा के रूप में पढ़ा है कि कोई भी व्यक्ति अपने रिकॉर्ड के बल पर परमेश्वर के सामने खड़ा नहीं होता, और ईमानदार, विनम्र प्रार्थना पॉलिश किए गए आत्मविश्वास से अधिक वास्तविक है।\n\nकहानी जिस प्रलोभन का वर्णन करती है वह हर विश्वास के लोगों में, और किसी भी विश्वास के न होने वालों में भी, आम है। दूसरों की तुलना में स्वयं पर अच्छा महसूस करना आसान है। कर वसूलने वाले की छोटी प्रार्थना एक अलग मार्ग देती है, अपनी ज़रूरत के बारे में सरल ईमानदारी, बिना बचाव या दिखावे के। ऐसी विनम्रता में राहत है, क्योंकि फिर हमें अपनी ऐसी छवि नहीं थामनी पड़ती जिसे हम बनाए नहीं रख सकते। कई लोगों ने पाया है कि यह कहानी दो तरह के लोगों के बारे में कम और एक ही व्यक्ति के भीतर दो संभावित मनोदशाओं के बारे में अधिक है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दृष्टांताचा मुद्दा असा नाही की जकातदार असणे फरीसी असण्यापेक्षा चांगले आहे, किंवा उपवास आणि दशांश व्यर्थ आहेत. मुद्दा आहे की आपला भरवसा कुठे आहे. ख्रिस्ती लोकांनी हे असा धडा मानला आहे की कोणीही आपल्या नोंदींच्या बळावर देवासमोर उभा राहत नाही, आणि प्रामाणिक, नम्र प्रार्थना पॉलिश केलेल्या आत्मविश्वासापेक्षा अधिक खरी असते.\n\nकथा वर्णन करते तो मोह प्रत्येक श्रद्धेच्या लोकांमध्ये, आणि कोणतीही श्रद्धा नसलेल्यांमध्येही सामान्य आहे. इतरांच्या तुलनेत स्वतःबद्दल चांगले वाटणे सोपे आहे. जकातदाराची छोटी प्रार्थना एक वेगळा मार्ग देते, आपल्या गरजेविषयी साधी प्रामाणिकपणा, कोणताही बचाव किंवा दिखावा न करता. अशा नम्रतेत दिलासा आहे, कारण मग आपल्याला स्वतःची अशी प्रतिमा धरून ठेवावी लागत नाही जी आपण टिकवू शकत नाही. अनेकांना असे आढळले आहे की ही कथा दोन प्रकारच्या माणसांविषयी कमी आणि एकाच माणसाच्या आत असलेल्या दोन संभाव्य मनोवृत्तींविषयी अधिक आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "God, be merciful to me, a sinner!",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 18:13 (World English Bible)",
+   "hi": {
+    "text": "लूका 18:13 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 18:13 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The tax collector's short, honest prayer asks only for mercy, and it is the prayer Jesus says is heard.",
+   "hi": {
+    "text": "कर वसूलने वाले की छोटी, ईमानदार प्रार्थना केवल दया माँगती है, और यीशु कहते हैं कि यही प्रार्थना सुनी जाती है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जकातदाराची लहान, प्रामाणिक प्रार्थना केवळ दया मागते, आणि यीशू म्हणतात की तीच प्रार्थना ऐकली जाते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When you compare yourself to others, who do you use as your point of contrast? What would a prayer or a thought of plain honesty about yourself sound like?",
+  "hi": {
+   "text": "जब तुम दूसरों से अपनी तुलना करते हो, तो किसे अपने तुलना के बिंदु के रूप में इस्तेमाल करते हो? अपने बारे में सीधी ईमानदारी वाली प्रार्थना या विचार कैसा सुनाई देगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा तुम्ही इतरांशी स्वतःची तुलना करता, तेव्हा कोणाला तुलनेचा बिंदू म्हणून वापरता? स्वतःविषयी साध्या प्रामाणिकपणाची प्रार्थना किंवा विचार कसा वाटेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Humble honesty about our need is nearer to God than polished confidence in our own goodness.",
+  "hi": {
+   "text": "अपनी ज़रूरत के बारे में विनम्र ईमानदारी, अपनी भलाई पर पॉलिश किए गए आत्मविश्वास से परमेश्वर के अधिक निकट है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपल्या गरजेविषयी नम्र प्रामाणिकपणा हा आपल्या चांगुलपणावरील पॉलिश केलेल्या आत्मविश्वासापेक्षा देवाच्या अधिक जवळ आहे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 18:9-14; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 18:9-14 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 18:9-14 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

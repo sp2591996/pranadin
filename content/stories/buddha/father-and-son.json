@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "father-and-son",
+ "order": 19,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Father and Son",
+  "hi": {
+   "text": "पिता और पुत्र",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पिता आणि पुत्र",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "After years away, the Buddha comes home to Kapilavastu, and the king, who had mourned him, meets the son who has become a teacher.",
+  "hi": {
+   "text": "वर्षों की दूरी के बाद बुद्ध कपिलवस्तु लौटते हैं, और जो राजा उनके लिए शोक करता रहा था, वह अब एक शिक्षक बन चुके पुत्र से मिलता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वर्षांच्या दूरीनंतर बुद्ध कपिलवस्तूला परततात, आणि जो राजा त्यांच्यासाठी शोक करत होता, तो आता शिक्षक झालेल्या पुत्राला भेटतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-father-1.webp",
+   "w": 1200,
+   "h": 623,
+   "caption": {
+    "en": "The Buddha visits Kapilavastu, carved frieze",
+    "hi": {
+     "text": "बुद्ध कपिलवस्तु जाते हैं, नक्काशीदार फ़्रीज़",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्ध कपिलवस्तूला जातात, कोरीव फ्रीझ",
+     "reviewed": false
+    }
+   },
+   "credit": "Anandajoti, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:054_The_Buddha_Visits_Kapilavastu.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "News from the road",
+    "hi": {
+     "text": "मार्ग से समाचार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाटेवरील बातमी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Buddha had been teaching in Magadha, changing people of every persuasion by one and the same law, as the sun drowns the stars in its brightness. Then he left the city of the five mountains with his thousand disciples, and a great crowd going before and after him, and he advanced toward the mountain near Kapilavastu. There he formed the generous purpose of making an offering of religion to his father, the king.\n\nIn the city, the king's priest and chief minister had sent officers and attendants to watch the road on both sides, and they soon saw him advancing and halting. They hurried back with the news. The prince who went far away to find enlightenment, they said, has fulfilled his aim, and is coming home. The king was greatly pleased. He went out with his grand equipage to meet his son, and the whole body of the gentry of the country went with him. Beal says nothing in this canto about earlier messengers, and he moves straight to the meeting.",
+    "hi": {
+     "text": "बुद्ध मगध में उपदेश दे रहे थे, हर प्रकार के मतावलंबियों को एक ही धर्म से बदलते हुए, जैसे सूर्य अपनी चमक में तारों को डुबो देता है। फिर वे अपने एक हज़ार शिष्यों और एक बड़ी भीड़ के साथ पाँच पहाड़ियों वाले नगर से निकले और कपिलवस्तु के पास वाले पर्वत की ओर बढ़े। वहाँ उन्होंने अपने पिता राजा को धर्म का उपहार देने का उदार संकल्प किया।\n\nनगर में राजा के पुरोहित और प्रधानमंत्री ने मार्ग के दोनों ओर दूत और सेवक भेजे थे, और वे शीघ्र ही उसे आगे बढ़ते और रुकते देखने लगे। वे दौड़कर समाचार लाए। जो राजकुमार ज्ञान पाने दूर चला गया था, उन्होंने कहा, उसने अपना लक्ष्य पूरा कर लिया है और घर लौट रहा है। राजा अत्यंत प्रसन्न हुआ। वह अपने भव्य काफिले के साथ पुत्र से मिलने निकला, और देश के सारे सम्मानित लोग उसके साथ गए। बील इस सर्ग में पहले के दूतों का कोई उल्लेख नहीं करते, और सीधे मिलन की ओर बढ़ते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्ध मगधमध्ये उपदेश करत होते, प्रत्येक पंथाच्या लोकांना एकाच धर्माने बदलत, जसा सूर्य आपल्या तेजात तारे बुडवतो. मग ते आपल्या हजार शिष्यांसह आणि मोठ्या जमावासह पाच डोंगरांच्या नगरातून निघाले, आणि कपिलवस्तूजवळच्या पर्वताकडे पुढे सरकले. तिथे त्यांनी आपल्या पित्याला, राजाला, धर्माचे दान देण्याचा उदात्त संकल्प केला.\n\nनगरात राजाच्या पुरोहिताने आणि मुख्यमंत्र्याने मार्गाच्या दोन्ही बाजूंना अधिकारी आणि सेवक पाठवले होते, आणि ते लवकरच त्यांना पुढे सरकताना आणि थांबताना पाहू लागले. ते घाईघाईने बातमी घेऊन परतले. जो राजकुमार ज्ञानप्राप्तीसाठी दूर गेला होता, त्याने आपले ध्येय पूर्ण केले आहे आणि तो घरी येत आहे, असे ते म्हणाले. राजा अत्यंत आनंदित झाला. तो आपल्या भव्य लवाजम्यासह पुत्राला भेटायला निघाला, आणि देशातील सर्व प्रतिष्ठित लोक त्याच्याबरोबर गेले. बील या सर्गात आधीच्या दूतांचा उल्लेख करत नाहीत, आणि थेट भेटीकडे वळतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two silences",
+    "hi": {
+     "text": "दो मौन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन मौने",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king saw his son from far off, shining with a beauty twice greater than before, in the middle of the great assembly like Brahma himself. He got down from his chariot and came forward with dignity, anxious about whether religious custom required him to greet his son first. He was glad, and his mouth found no words. Thinking about it, he realised that he was still living among the unconverted while his son had become a saint, and although this was his son, he did not know what name to use for a religious lord.\n\nThe prince sat down in silence, composed, his face unchanged. They sat for some time opposite each other, and the king's heart grew heavy. He felt like a man faint with thirst who sees a clear fountain on the road, hurries to it, and finds the spring dried up. He knew the features, but the manner was lofty and cold. Their eyes met and there was no answering joy, like a man looking at the painted likeness of a distant friend.",
+    "hi": {
+     "text": "राजा ने दूर से अपने पुत्र को देखा, जो पहले से दुगुनी सुंदरता से चमक रहा था, उस महान सभा के बीच ब्रह्मा के समान। वह रथ से उतरा और गरिमा के साथ आगे बढ़ा, इस चिंता में कि धार्मिक रीति के अनुसार उसे पहले पुत्र को प्रणाम करना चाहिए या नहीं। वह प्रसन्न था, पर उसका मुख शब्द नहीं खोज पाया। सोचते-सोचते उसे यह बोध हुआ कि वह अभी भी अधर्मियों के बीच जी रहा है, जबकि उसका पुत्र संत बन गया है, और यद्यपि यह उसका अपना पुत्र था, उसे नहीं पता था कि एक धार्मिक स्वामी को किस नाम से पुकारे।\n\nराजकुमार शांत मन से चुपचाप बैठ गया, उसका मुख अपरिवर्तित था। वे कुछ देर एक-दूसरे के सामने बैठे रहे, और राजा का हृदय भारी होता गया। वह उस व्यक्ति जैसा अनुभव कर रहा था जो प्यास से मूर्च्छित होने को है, सड़क पर स्वच्छ झरना देखता है, दौड़कर वहाँ पहुँचता है, और पाता है कि उसका जल सूख गया है। उसने उसके नाक-नक्श पहचाने, पर उसका व्यवहार ऊँचा और ठंडा था। उनकी नज़रें मिलीं और उनमें आनंद का कोई उत्तर नहीं था, जैसे कोई दूर के मित्र के चित्र को देख रहा हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाने दुरूनच आपल्या पुत्राला पाहिले, जो पूर्वीपेक्षा दुप्पट सौंदर्याने चमकत होता, त्या महान सभेच्या मध्यभागी ब्रह्मदेवासारखा. तो रथातून उतरला आणि गांभीर्याने पुढे आला, धार्मिक रीतीनुसार आधी पुत्राला नमस्कार करावा की नाही याबद्दल चिंतित. तो आनंदित होता, पण त्याच्या मुखात शब्द सापडले नाहीत. विचार करता करता त्याच्या लक्षात आले की तो अजूनही अधार्मिक लोकांमध्ये जगत आहे, तर त्याचा पुत्र संत झाला आहे, आणि हा आपलाच पुत्र असूनही धार्मिक स्वामीला कोणत्या नावाने हाक मारावी हे त्याला कळत नव्हते.\n\nराजकुमार शांतपणे, स्थिर मनाने बसला, त्याचा चेहरा तसाच होता. काही काळ ते एकमेकांसमोर बसून राहिले, आणि राजाचे हृदय जड होत गेले. त्याला वाटले की तो तहानेने बेशुद्ध होणाऱ्या माणसासारखा आहे, जो रस्त्यावर स्वच्छ झरा पाहतो, धावत जातो आणि पाहतो की तो आटला आहे. त्याने पुत्राचे नाक-डोळे ओळखले, पण त्याची वागणूक उंच आणि थंड होती. त्यांच्या नजरा भेटल्या आणि त्यात आनंदाचा प्रतिसाद नव्हता, जसा कोणी दूरच्या मित्राच्या चित्राकडे पाहत असावा.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The gift no son has given",
+    "hi": {
+     "text": "वह उपहार जो कोई पुत्र नहीं दे सका",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ती भेट जी कोणताही पुत्र देऊ शकला नाही",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king thought it a strange life, that one who might have ruled the world should go begging his food. The Buddha knew his father's mind. To open it, and moved with pity for the crowd, he rose into the air by his power, seemed to take the sun and the moon in his hands, and walked to and fro in space. He divided his body into many and joined them again, walked on water as on dry ground, passed through stone walls, and sent out water and fire from each side. The king, filled with joy, forgot the thought of father and son.\n\nSeated on a lotus in the air, the Buddha spoke. I know that for your son's sake you add grief to grief, he said, so let the bands of love that bind you be loosed. Receive from me the nourishment no son has ever given a father, and one that few kings of heaven have had, the way of deathless peace. Knowing that deeds bring fruit, he said, be diligent in your deeds, because at the end of life the spirit goes forth alone and only good deeds befriend it.",
+    "hi": {
+     "text": "राजा को यह जीवन अजीब लगा कि जो व्यक्ति संसार पर शासन कर सकता था, वह भिक्षा माँगकर भोजन करे। बुद्ध पिता के मन को जानते थे। उसे खोलने के लिए, और भीड़ की दया से प्रेरित होकर, उन्होंने अपनी शक्ति से आकाश में उड़ान भरी, मानो सूर्य और चंद्रमा को हाथों में ले लिया हो, और अंतरिक्ष में इधर-उधर चलने लगे। उन्होंने अपने शरीर को अनेक रूपों में बाँटा और फिर एक कर लिया, सूखी भूमि की तरह जल पर चले, पत्थर की दीवारों के आर-पार निकल गए, और हर ओर से जल और अग्नि प्रकट की। राजा प्रसन्नता से भर गया और पिता-पुत्र के रिश्ते का विचार भूल गया।\n\nएक कमल पर आकाश में बैठकर बुद्ध ने कहा। मैं जानता हूँ कि अपने पुत्र के कारण तुम दुःख पर दुःख जोड़ रहे हो, उन्होंने कहा, इसलिए स्नेह के वे बंधन जो तुम्हें बाँधे हुए हैं उन्हें ढीला होने दो। मुझसे वह पोषण ग्रहण करो जो कोई पुत्र पिता को कभी नहीं दे सका, और वह जो स्वर्ग के कुछ ही राजाओं को मिला है: अमर शांति का मार्ग। यह जानकर कि कर्म फल देते हैं, उन्होंने कहा, अपने कर्मों में सजग रहो, क्योंकि जीवन के अंत में आत्मा अकेली जाती है, और केवल सत्कर्म ही उसके मित्र होते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाला हे जीवन विचित्र वाटले, की ज्याला जग राज्य करायला मिळू शकले असते, तो भिक्षा मागत फिरतो. बुद्धांनी पित्याचे मन ओळखले. ते उघडण्यासाठी, आणि जमावाच्या दया भावनेने, त्यांनी आपल्या सामर्थ्याने आकाशात उड्डाण केले, जणू सूर्य आणि चंद्र हातात घेतले असावेत, आणि अवकाशात इकडे-तिकडे फिरू लागले. त्यांनी आपले शरीर अनेक रूपांत विभागले आणि पुन्हा एक केले, कोरड्या जमिनीवर चालावे तसे पाण्यावर चालले, दगडी भिंतींतून आरपार गेले, आणि प्रत्येक बाजूने पाणी आणि अग्नी बाहेर काढले. राजा आनंदाने भरला आणि पिता-पुत्राचे नाते विसरून गेला.\n\nआकाशात कमळावर बसून बुद्ध बोलले. मला ठाऊक आहे की तू तुझ्या पुत्रामुळे दुःखावर दुःख वाढवत आहेस, ते म्हणाले, म्हणून जे प्रेमाचे बंध तुला बांधून ठेवत आहेत त्यांना सैल होऊ दे. माझ्याकडून ते पोषण घे जे कोणताही पुत्र पित्याला कधीच देऊ शकला नाही, आणि जे स्वर्गाच्या फार थोड्या राजांना मिळाले आहे: अमर शांतीचा मार्ग. कर्मांना फळ असते हे जाणून, ते म्हणाले, आपल्या कर्मांत सजग राहा, कारण आयुष्याच्या शेवटी आत्मा एकटाच जातो, आणि केवळ सत्कर्मे त्याचे मित्र असतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The king's answer",
+    "hi": {
+     "text": "राजा का उत्तर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाचे उत्तर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king had rejoiced at the miracles, but now the joy of hearing the truth moved him more deeply, and he became a vessel for it. Wonderful, he said, that you have fulfilled your oath. My sorrowing heart was heavy, but now the sorrow has brought only profit, and today I reap the full fruit of having a son. It was right that you refused the pleasures of a monarch, and right that you cut off every feeling of love for family and kin, since the old royal sages who boasted of their penances gained no such merit as yours.\n\nIf you had stayed in your first estate, he said, and ruled the world as a universal monarch, without any power of your own, how could I have received deliverance? There would have been no excellent law declared, and the bonds of birth and death would still be unsevered. You might have kept the holy state of a universal monarch, but no such good as this would have come of it. Then he bowed down before his son, and the people did the same.",
+    "hi": {
+     "text": "राजा चमत्कारों से आनंदित हुआ था, पर अब सत्य सुनने का आनंद उसे और गहराई से छू गया, और वह उसे ग्रहण करने का पात्र बन गया। अद्भुत है, उसने कहा, कि तुमने अपनी प्रतिज्ञा पूरी की। मेरा शोकग्रस्त हृदय भारी था, पर अब वह शोक केवल लाभ लेकर आया है, और आज मुझे पुत्र होने का पूरा फल मिल रहा है। यह ठीक था कि तुमने राजाओं के सुख ठुकराए, और यह भी ठीक था कि तुमने परिवार और संबंधियों के प्रति हर स्नेह काट दिया, क्योंकि तपस्या पर गर्व करने वाले पुराने राजर्षियों को भी तुम्हारे जैसा पुण्य नहीं मिला।\n\nयदि तुम अपने पहले पद पर रहते, उसने कहा, और सार्वभौम सम्राट के रूप में बिना किसी निजी शक्ति के संसार पर शासन करते, तो मैं मुक्ति कैसे पाता? कोई उत्तम विधान घोषित नहीं होता, और जन्म-मृत्यु के बंधन अनटूटे रहते। सार्वभौम सम्राट का पवित्र पद तुम्हारे पास हो सकता था, पर उससे ऐसा कल्याण नहीं आता। फिर उसने अपने पुत्र के आगे सिर झुकाया, और प्रजा ने भी वैसा ही किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा चमत्कारांनी आनंदित झाला होता, पण आता सत्य ऐकण्याचा आनंद त्याला अधिक खोलवर स्पर्शून गेला, आणि तो ते ग्रहण करण्याचे पात्र बनला. आश्चर्य आहे, तो म्हणाला, की तू तुझी शपथ पूर्ण केलीस. माझे शोकाकुल हृदय जड होते, पण आता त्या दुःखाने केवळ फायदाच आणला आहे, आणि आज मला पुत्र असण्याचे पूर्ण फळ मिळत आहे. तू राजसुखे नाकारलीस हे योग्यच केलेस, आणि कुटुंब व नातेवाईकांबद्दलचा प्रत्येक स्नेह तोडलास हेही योग्यच, कारण तपाचा अभिमान बाळगणाऱ्या जुन्या राजर्षींनाही तुझ्यासारखे पुण्य मिळाले नव्हते.\n\nजर तू तुझ्या पहिल्या पदावर राहिला असतास, तो म्हणाला, आणि कोणतीही वैयक्तिक शक्ती न बाळगता सार्वभौम सम्राट म्हणून जग चालवत असतास, तर मला मुक्ती कशी मिळाली असती? कोणताही उत्तम धर्म जाहीर झाला नसता, आणि जन्म-मृत्यूची बंधने तुटलीच नसती. सार्वभौम सम्राटाचे पवित्र पद तुझ्याजवळ असू शकले असते, पण त्यातून असे कल्याण उगवले नसते. मग त्याने आपल्या पुत्रासमोर मस्तक झुकवले, आणि प्रजाही तसेच करू लागली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Shakya princes",
+    "hi": {
+     "text": "शाक्य राजकुमार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शाक्य राजपुत्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The people of the kingdom had seen the miracles, heard the law, and seen the king's reverence. Tired of the sorrows that go with a householder's life, many wished to leave home. The princes of the Shakya clan saw the fruit of righteousness and gave up the glitter of the world with joy, among them Ananda, Nanda, Kimbila and Anuruddha. The sons of the king's great minister followed them, Udayin being the chief, and so did the barber's son Upali, who saw all the princes becoming hermits and received the law of renunciation as well.\n\nThe king himself, seeing his son's great powers, entered the calm flowings of thought, the gate of the true law. He left his kingship, lost in meditation, and lived in silence in his palace as a royal sage. When it was time to beg, the Buddha went into Kapilavastu, and the lords and ladies of the city, filled with admiration, raised a chant of praise. The poem breaks off in the middle of their song, which continues in the next canto.",
+    "hi": {
+     "text": "राज्य की प्रजा ने चमत्कार देखे थे, धर्म सुना था, और राजा का सम्मान देखा था। गृहस्थ जीवन के दुःखों से थककर बहुत से लोग घर छोड़ना चाहते थे। शाक्य वंश के राजकुमारों ने धर्म का फल देखा और प्रसन्नता से संसार का वैभव त्याग दिया, उनमें आनंद, नंद, किंबिल और अनुरुद्ध थे। राजा के महान मंत्री के पुत्र उनके पीछे चले, जिनमें उदायिन प्रमुख था, और नाई का पुत्र उपालि भी, जिसने सभी राजकुमारों को तपस्वी बनते देखा और संन्यास का धर्म भी स्वीकार किया।\n\nराजा ने स्वयं अपने पुत्र की महान शक्ति देखकर, विचारों के शांत प्रवाह में प्रवेश किया, जो सत्य धर्म का द्वार है। उसने राज्य त्याग दिया, ध्यान में लीन हो गया, और अपने महल में राजर्षि की तरह मौन में रहने लगा। भिक्षा का समय आने पर बुद्ध कपिलवस्तु में गए, और नगर के स्वामी और स्त्रियाँ प्रशंसा से भरकर स्तुति-गान करने लगे। कवि उनके गीत के बीच में काव्य रोक देता है, और वह गीत अगले सर्ग में आगे बढ़ता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राज्याच्या प्रजेने चमत्कार पाहिले होते, धर्म ऐकला होता, आणि राजाचा आदर पाहिला होता. गृहस्थ जीवनातील दुःखांनी थकून अनेकजण घर सोडू इच्छित होते. शाक्य वंशातील राजपुत्रांनी धर्माचे फळ पाहिले आणि आनंदाने जगाचा वैभव सोडला, त्यात आनंद, नंद, किंबिल आणि अनुरुद्ध होते. राजाच्या महान मंत्र्याची मुले त्यांच्यामागे गेली, ज्यात उदायिन प्रमुख होता, आणि न्हाव्याचा मुलगा उपालीदेखील, ज्याने सर्व राजपुत्र तपस्वी होताना पाहिले आणि त्यागाचा धर्मही स्वीकारला.\n\nराजाने स्वतः, आपल्या पुत्राची महान शक्ती पाहून, विचारांच्या शांत प्रवाहात प्रवेश केला, जो खऱ्या धर्माचे द्वार आहे. त्याने राज्य सोडले, ध्यानात मग्न झाला, आणि आपल्या राजवाड्यात राजर्षीप्रमाणे मौनात राहू लागला. भिक्षेची वेळ झाल्यावर बुद्ध कपिलवस्तूत गेले, आणि नगरातील स्वामी व स्त्रिया प्रशंसेने भरून स्तुतीगीत गाऊ लागल्या. कवी त्यांच्या गीताच्या मध्येच काव्य थांबवतो, आणि ते गीत पुढच्या सर्गात चालू राहते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "When someone you love has changed, how do you meet them, as who they were or as who they have become?",
+  "hi": {
+   "text": "जब तुम्हारा कोई प्रिय बदल जाता है, तो तुम उससे कैसे मिलते हो, उसी रूप में जैसा वह था, या उसी रूप में जैसा वह अब बन गया है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा तुझा एखादा प्रिय माणूस बदलतो, तेव्हा तू त्याला तो जसा होता त्या रूपात भेटतोस की तो आता जसा झाला आहे त्या रूपात?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love that is willing to be taught can turn a father's grief into a shared understanding.",
+  "hi": {
+   "text": "ऐसा प्रेम जो सीखने के लिए तैयार हो, पिता के शोक को साझा समझ में बदल सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शिकण्यास तयार असलेले प्रेम पित्याच्या शोकाला सामायिक समजुतीत बदलू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 19; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 19; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 19; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

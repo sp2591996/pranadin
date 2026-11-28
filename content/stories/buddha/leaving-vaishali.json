@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "leaving-vaishali",
+ "order": 25,
+ "part": "parinirvana",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Leaving Vaishali",
+  "hi": {
+   "text": "वैशाली छोड़ते हुए",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वैशाली सोडताना",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The city that had sheltered him falls silent, he takes a last look at it, and on the road to Kushinagara he leaves his followers with a rule for judging teachings.",
+  "hi": {
+   "text": "जिस नगर ने उन्हें शरण दी थी वह मौन हो जाता है, वे उसे अंतिम बार देखते हैं, और कुशीनगर के मार्ग पर वे अपने शिष्यों को किसी शिक्षा को परखने का नियम दे जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्या नगराने त्यांना आश्रय दिला होता ते मौन होते, ते त्याकडे शेवटची नजर टाकतात, आणि कुशीनगराच्या वाटेवर ते आपल्या शिष्यांना शिकवण परखण्याचा नियम देतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-leaving.webp",
+   "w": 546,
+   "h": 1100,
+   "caption": {
+    "en": "Scenes from the life of the Buddha, Gandhara panel",
+    "hi": {
+     "text": "बुद्ध के जीवन के दृश्य, गांधार पट्टिका",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांच्या जीवनातील प्रसंग, गांधार फलक",
+     "reviewed": false
+    }
+   },
+   "credit": "SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Scenes_from_the_life_of_Buddha,_2nd_Century,_Gandhara_School_of_Art,_housed_at_Government_Museum_and_Art_Gallery_Chandigarh.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The empty city",
+    "hi": {
+     "text": "सूना नगर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुनसान नगर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the Buddha set out toward the place of his final Nirvana, the city of Vaishali seemed deserted, as on a dark cloudy night when the moon and stars withdraw their shining. The land that had known peace was now afflicted, and the poet compares it to an orphan daughter who has lost a loving father, who still has her grace and skill but no longer cares for them, who speaks with stammering lips, and whose brilliant wit seems poor to her now.\n\nAll outward show had fallen, like autumn fields with no water, or the smoke of a half-smouldering fire. The people were like those who have food before them and forget to eat. They forgot their household duties and prepared nothing for the day's needs. Thinking of the Buddha, lost in deep reflection, they sat silent and spoke no word. The Licchavi princes bore the great sorrow with manly endurance, and with flowing tears and sighs they destroyed all their books of heresy, to show that they held firmly to the true law.",
+    "hi": {
+     "text": "जब बुद्ध अपने अंतिम निर्वाण के स्थान की ओर चले, तो वैशाली नगर सूना लगने लगा, जैसे अँधेरी बादलों वाली रात में चाँद और तारे अपनी चमक समेट लेते हैं। जिस भूमि ने शांति जानी थी, वह अब व्याकुल थी, और कवि उसे उस अनाथ कन्या से तुलना करते हैं जिसने प्रेमल पिता खो दिया है, जिसमें अब भी उसकी कृपा और कौशल हैं पर अब वह उनकी परवाह नहीं करती, जो हकलाते होठों से बोलती है, और जिसकी चतुराई अब उसे तुच्छ लगती है।\n\nबाह्य वैभव सब झर गया था, जैसे जल विहीन शरद की खेतें, या अधजली आग का धुआँ। लोग उस व्यक्ति जैसे थे जिसके सामने भोजन रखा हो और वह खाना भूल जाए। वे अपने घरेलू कर्तव्य भूल गए और दिन की ज़रूरतों के लिए कुछ तैयार नहीं किया। बुद्ध का स्मरण करते हुए, गहरे चिंतन में खोए वे मौन बैठे रहे। लिच्छवि राजकुमारों ने इस महान शोक को मर्दानगी के धैर्य से सहा, और आँसुओं व उसासों के साथ उन्होंने अपने सारे मिथ्या-मत के ग्रंथ नष्ट कर दिए, यह दिखाने के लिए कि वे सच्चे धर्म से दृढ़ता से जुड़े हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्ध जेव्हा आपल्या अंतिम निर्वाणाच्या ठिकाणाकडे निघाले, तेव्हा वैशाली नगर ओसाड वाटू लागले, जसे अंधाऱ्या ढगाळ रात्री चंद्र आणि तारे आपली चमक मागे घेतात. ज्या भूमीने शांती अनुभवली होती ती आता व्याकूळ होती, आणि कवी तिची तुलना त्या अनाथ कन्येशी करतात जिने प्रेमळ पिता गमावला आहे, जिच्यात अजूनही कृपा आणि कौशल्य आहे पण ती त्यांची पर्वा करत नाही, जी अडखळत्या ओठांनी बोलते, आणि जिची हुशारी आता तिला क्षुल्लक वाटते.\n\nसर्व बाह्य वैभव गळून पडले होते, जसे पाण्याविना शरद ऋतूतील शेते, किंवा अर्धवट पेटलेल्या आगीचा धूर. लोक असे होते जसे समोर अन्न ठेवलेले असूनही कोणी खायला विसरावे. ते आपली घरची कामे विसरले आणि दिवसाच्या गरजांसाठी काहीच तयारी केली नाही. बुद्धांचे स्मरण करत, खोल चिंतनात हरवून ते मौन बसले. लिच्छवी राजपुत्रांनी हा मोठा शोक पुरुषार्थी धैर्याने सहन केला, आणि अश्रू व उसासे सोडत त्यांनी आपले सगळे मिथ्यामतांचे ग्रंथ नष्ट केले, हे दाखवण्यासाठी की ते खऱ्या धर्माशी घट्ट बांधलेले आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What the princes said",
+    "hi": {
+     "text": "राजकुमारों ने क्या कहा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्र काय म्हणाले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They spoke among themselves of what was happening. The lord of men now enters the great quiet place, they said, and we are left without support. We have lost our steadfast will, like a fire without fuel. When we are hot we seek a cool lake, and when we are cold we use fire, but now in a moment all is lost, and the world is left with no refuge. The world has lost its master guide, and old age, disease and death spread everywhere, now that the road is missed.\n\nThey gave the old pictures of the teaching. The gloom of ignorance is like deep water, lust like a rolling billow, sorrow like floating bubbles and false views like a sea monster, and only the ship of wisdom can carry us across the sea. The perfect law has destroyed the gloom of ignorance, and the straight road leads to quietness. Even he who is loving and impartial to friend and foe is about to leave the world, they said, and if so, who can claim exemption? Inconstancy is the dreaded enemy, sparing neither rich nor poor.",
+    "hi": {
+     "text": "वे आपस में बात करने लगे कि क्या हो रहा है। नरश्रेष्ठ अब महान शांति में प्रवेश कर रहे हैं, उन्होंने कहा, और हम बिना सहारे के छूट गए हैं। हमने अपनी दृढ़ इच्छा खो दी है, जैसे ईंधन के बिना आग। जब हमें गर्मी लगती है तो हम शीतल सरोवर खोजते हैं, और जब ठंड लगती है तो आग का सहारा लेते हैं, पर अब एक क्षण में सब कुछ खो गया है, और संसार बिना किसी शरण के रह गया है। मार्गदर्शक गुरु संसार से चला गया है, और मार्ग छूट जाने पर बुढ़ापा, रोग और मृत्यु हर जगह फैल गए हैं।\n\nउन्होंने शिक्षा के पुराने चित्र याद किए। अज्ञान का अंधकार गहरे जल जैसा है, वासना उमड़ती लहर जैसी, दुःख तैरते बुलबुलों जैसा, और मिथ्या दृष्टियाँ समुद्री दानव जैसी, और केवल ज्ञान की नाव ही हमें इस सागर के पार ले जा सकती है। पूर्ण धर्म ने अज्ञान का अंधकार नष्ट कर दिया है, और सीधा मार्ग शांति तक ले जाता है। जो मित्र और शत्रु दोनों के प्रति प्रेमपूर्ण और निष्पक्ष है, वह भी संसार छोड़ने वाला है, उन्होंने कहा, और यदि ऐसा है, तो छूट कौन पा सकता है? अनित्यता एक भयंकर शत्रु है, जो न धनी को छोड़ती है न निर्धन को।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते आपसात बोलू लागले की काय घडत आहे. नरश्रेष्ठ आता महान शांतीत प्रवेश करत आहेत, ते म्हणाले, आणि आपण आधाराविना राहिलो आहोत. आपण आपली दृढ इच्छा गमावली आहे, जसे इंधनाशिवाय आग. जेव्हा आपल्याला उष्णता लागते तेव्हा आपण शीतल सरोवर शोधतो, आणि थंडी लागते तेव्हा अग्नीचा आधार घेतो, पण आता एका क्षणात सर्व काही हरवले आहे, आणि जग कोणत्याही आश्रयाविना राहिले आहे. मार्गदर्शक गुरू जगातून गेला आहे, आणि मार्ग चुकल्यामुळे म्हातारपण, रोग आणि मृत्यू सर्वत्र पसरले आहेत.\n\nत्यांनी शिकवणीची जुनी चित्रे आठवली. अज्ञानाचा अंधार खोल पाण्यासारखा आहे, वासना उसळत्या लाटेसारखी, दुःख तरंगत्या फुग्यांसारखे, आणि मिथ्या दृष्टी समुद्रातील राक्षसासारखी, आणि फक्त ज्ञानाची नौकाच आपल्याला हा सागर पार करवू शकते. परिपूर्ण धर्माने अज्ञानाचा अंधार नष्ट केला आहे, आणि सरळ मार्ग शांततेकडे नेतो. मित्र आणि शत्रू दोघांवरही प्रेम आणि समभाव ठेवणारे सुद्धा जग सोडून जाणार आहेत, ते म्हणाले, आणि जर असे असेल, तर सुटका कोणाची होऊ शकते? अनित्यता एक भयंकर शत्रू आहे, जो धनवान किंवा गरीब कोणालाही सोडत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The last look",
+    "hi": {
+     "text": "अंतिम दृष्टि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटची नजर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Licchavis, the poet says, were mindful of the Buddha's wisdom and troubled by the pain of birth and death, and they sighed forth their fond remembrance of the man-lion, the lion of the Shakyas. They gave up love of worldly things and aimed to rise above desire. They practised unselfish and charitable conduct, put away all listlessness and found their joy in quiet and seclusion, meditating only on religious truth.\n\nThen the all-wise one turned his whole body round, in what the text calls a lion-turn, and looked once more at Vaishali. He spoke a farewell verse. For the last time, he said, I leave Vaishali, the land where heroes live and flourish. Now I am going to die. Beal notes that the Pali record says he looked back with an elephant look instead, and that the lion is the favourite animal of Northern Buddhists while the elephant is that of the Southern. A pillar topped with a lion was found near the old site of the city, he adds.",
+    "hi": {
+     "text": "लिच्छवि, कवि कहते हैं, बुद्ध की शिक्षा को स्मरण करते थे और जन्म-मृत्यु के दुःख से व्याकुल थे, और उन्होंने नरसिंह, शाक्यों के सिंह के प्रति अपनी प्रिय स्मृति को उसाँसों में व्यक्त किया। उन्होंने सांसारिक वस्तुओं का प्रेम छोड़ा और इच्छा से ऊपर उठने का लक्ष्य रखा। उन्होंने निःस्वार्थ और दानशील आचरण का अभ्यास किया, हर प्रकार की सुस्ती त्यागी, और एकांत तथा शांति में आनंद पाया, केवल धार्मिक सत्य का चिंतन करते हुए।\n\nफिर सर्वज्ञ ने अपने पूरे शरीर को सिंहवलन के रूप में घुमाया, और एक बार फिर वैशाली की ओर देखा। उन्होंने विदाई का श्लोक कहा। अंतिम बार, उन्होंने कहा, मैं वैशाली छोड़ रहा हूँ, वीरों की भूमि जहाँ वे जीते और फलते-फूलते हैं। अब मैं मृत्यु को जा रहा हूँ। बील नोट करते हैं कि पाली अभिलेख कहता है कि उन्होंने उसकी जगह हाथी जैसी दृष्टि से पीछे देखा, और सिंह उत्तरी बौद्धों का प्रिय पशु है जबकि हाथी दक्षिणी बौद्धों का। वे जोड़ते हैं कि नगर की पुरानी जगह के पास सिंह से सजा एक स्तंभ मिला था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लिच्छवी, कवी सांगतात, बुद्धांच्या शिकवणीचे स्मरण करत होते आणि जन्म-मृत्यूच्या वेदनेने व्याकूळ होते, आणि त्यांनी नरसिंह, शाक्यांचा सिंह, याच्या प्रेमळ स्मृतीचे उसासे टाकले. त्यांनी सांसारिक वस्तूंवरचे प्रेम सोडले आणि इच्छेच्या वर जाण्याचे ध्येय ठेवले. त्यांनी निःस्वार्थ आणि दानशूर आचरण केले, सर्व आळस टाकला, आणि एकांतात व शांततेत आनंद मिळवला, केवळ धार्मिक सत्याचे चिंतन करत.\n\nमग सर्वज्ञ बुद्धांनी आपले संपूर्ण शरीर सिंहासारखे वळवले, आणि एकदा पुन्हा वैशालीकडे पाहिले. त्यांनी निरोपाचा श्लोक म्हटला. शेवटच्या वेळी, ते म्हणाले, मी वैशाली सोडत आहे, वीरांची भूमी जिथे ते जगतात आणि भरभराटतात. आता मी मृत्यूकडे जात आहे. बील नोंदवतात की पाली अभिलेख सांगतो की त्यांनी त्याऐवजी हत्तीसारख्या दृष्टीने मागे पाहिले, आणि सिंह उत्तरेकडील बौद्धांचा आवडता प्राणी आहे, तर हत्ती दक्षिणेकडील बौद्धांचा. ते पुढे सांगतात की नगराच्या जुन्या जागेजवळ सिंह असलेला एक स्तंभ सापडला होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "How to judge a teaching",
+    "hi": {
+     "text": "किसी शिक्षा को कैसे परखें",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिकवण कशी परखावी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He went on stage by stage until he came to Bhoga-nagara and rested in a grove, where he instructed the monks. I shall enter Nirvana, he said, so rely on the law, which is your highest vantage ground. What is not found in the sutras, what disagrees with the rules of discipline, what opposes the one true system of my doctrine, you must not hold. Accept what is said aright, in agreement with the law and the discipline. Words which neither I, the law, nor the discipline declare are not to be believed.\n\nHe warned them against clinging to the letter without finding the hidden meaning, which is the way of foolish teachers. To accept in the dark without discrimination, he said, is like a shop selling gold and its alloys together. Examine true principles as a goldsmith does, who melts and strikes the metal and then picks out the true. He who grasps a sword unskilfully only wounds his own hand. Losing the meaning, the law is disregarded, and the mind becomes confused, so the wise do not neglect to find the true meaning.",
+    "hi": {
+     "text": "वे चरण-दर-चरण आगे बढ़े, जब तक भोग-नगर नहीं पहुँचे, जहाँ वे एक उपवन में ठहरे और भिक्षुओं को उपदेश दिया। मैं निर्वाण में प्रवेश करने वाला हूँ, उन्होंने कहा, इसलिए धर्म पर भरोसा करो, जो तुम्हारा सर्वोच्च आधार है। जो सूत्रों में नहीं मिलता, जो विनय के नियमों से मेल नहीं खाता, जो मेरे एक सच्चे सिद्धांत का विरोध करता है, उसे तुम्हें स्वीकार नहीं करना चाहिए। जो धर्म और विनय के अनुरूप ठीक से कहा गया हो, उसे स्वीकार करो। जिन शब्दों को न मैं, न धर्म, न विनय घोषित करते हैं, उन पर विश्वास मत करो।\n\nउन्होंने उन्हें शब्दों से चिपके रहने के विरुद्ध चेतावनी दी, बिना उनके गुप्त अर्थ को खोजे, जो मूर्ख शिक्षकों का मार्ग है। बिना विवेक के अंधाधुंध मान लेना, उन्होंने कहा, उस दुकान जैसा है जो सोने और उसकी मिलावट को एक साथ बेचती है। सत्य सिद्धांतों को सोनार की तरह परखो, जो धातु को पिघलाता और पीटता है और फिर शुद्ध को अलग करता है। जो अनाड़ी की तरह तलवार पकड़ता है, वह केवल अपना ही हाथ घायल करता है। अर्थ खोने पर धर्म की उपेक्षा होती है, और मन उलझ जाता है, इसलिए ज्ञानी अर्थ खोजने में लापरवाही नहीं करते।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते टप्प्याटप्प्याने पुढे गेले, भोगनगरात पोहोचेपर्यंत, जिथे ते एका उपवनात थांबले आणि भिक्षूंना उपदेश केला. मी निर्वाणात प्रवेश करणार आहे, ते म्हणाले, म्हणून धर्मावर विश्वास ठेवा, जो तुमचा सर्वोच्च आधार आहे. जे सूत्रांत सापडत नाही, जे विनयाच्या नियमांशी जुळत नाही, जे माझ्या एकमेव खऱ्या सिद्धांताच्या विरोधात आहे, ते तुम्ही धरू नका. जे धर्म आणि विनयाशी सुसंगत असे योग्य रीतीने सांगितले गेले आहे, ते स्वीकारा. जे शब्द मी, धर्म किंवा विनय यांनी जाहीर केलेले नाहीत, त्यांच्यावर विश्वास ठेवू नका.\n\nशब्दांना चिकटून बसण्याबद्दल, त्यांच्या गुप्त अर्थाचा शोध न घेता, त्यांनी इशारा दिला, जो मूर्ख शिक्षकांचा मार्ग आहे. विवेकाशिवाय आंधळेपणाने स्वीकारणे, ते म्हणाले, सोने आणि त्याची भेसळ एकत्र विकणाऱ्या दुकानासारखे आहे. खरी तत्त्वे सोनाराप्रमाणे परखा, जो धातू वितळवतो आणि ठोकतो, आणि मग शुद्ध वेगळे करतो. जो अनाडीपणे तलवार पकडतो, तो फक्त स्वतःचाच हात जखमी करतो. अर्थ हरवला की धर्माकडे दुर्लक्ष होते, आणि मन गोंधळते, म्हणून शहाणे लोक अर्थ शोधण्यात निष्काळजी राहत नाहीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The last meal and the sal grove",
+    "hi": {
+     "text": "अंतिम भोजन और साल वन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंतिम भोजन आणि साल वन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He came to the town of Pava, where the Mallas prepared offerings of every kind. A householder named Chunda invited him to his house, and there gave him, as an offering, his very last meal. The Buddha accepted it and taught, and then went on to Kushinagara, crossing two rivers. Beal remarks that the text says nothing about Chunda's trade or what the meal was. In the grove of sal trees, a quiet place for hermits, he bathed in the golden river Hiranyavati, and he looked like a golden mountain.\n\nHe told Ananda to sweep and water the ground between the twin sal trees and lay out his couch, because he would die at midnight. Ananda's breath was choked with sadness, but he obeyed, weeping. The Buddha lay down with his head to the north, on his right side, resting on his hand as on a pillow with his feet crossed, like a lion-king. The disciples gathered round him in a circle and sighed, The eye of the great world is now put out. The wind was hushed, the forest streams were silent and no bird or beast made a sound.",
+    "hi": {
+     "text": "वे पावा नगर पहुँचे, जहाँ मल्लों ने हर प्रकार की भेंट तैयार की थी। चुन्द नाम के एक गृहस्थ ने उन्हें अपने घर निमंत्रित किया, और वहीं उसने उन्हें अपना अंतिम भोजन अर्पित किया। बुद्ध ने उसे स्वीकार किया और उपदेश दिया, फिर वे दो नदियाँ पार करके कुशीनगर की ओर बढ़े। बील नोट करते हैं कि पाठ में चुन्द के व्यवसाय या भोजन के बारे में कुछ नहीं कहा गया। साल वृक्षों के वन में, जो तपस्वियों के लिए शांत स्थान था, उन्होंने स्वर्णिम नदी हिरण्यवती में स्नान किया, और वे स्वर्णिम पर्वत जैसे दिखे।\n\nउन्होंने आनंद से कहा कि जुड़वे साल वृक्षों के बीच की भूमि झाड़कर पानी से भिगोए, और उनकी शय्या बिछाए, क्योंकि वे मध्यरात्रि को देह त्यागेंगे। आनंद का स्वर शोक से रुँध गया, पर वह आज्ञा मानकर रोते हुए चला गया। बुद्ध ने सिर उत्तर की ओर करके, दाहिनी करवट लेकर, हाथ का तकिया लगाकर, पैर एक पर एक रखकर, सिंहराज की तरह लेट गए। शिष्य उनके चारों ओर वृत्त बनाकर बैठे और आह भरी, महान संसार की दृष्टि अब बुझ गई है। हवा थम गई, वन की धाराएँ मौन हो गईं, और कोई पक्षी या पशु कोई आवाज़ नहीं कर रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते पावा नगरात पोहोचले, जिथे मल्लांनी सर्व प्रकारच्या अर्पणांची तयारी केली होती. चुंद नावाच्या एका गृहस्थाने त्यांना आपल्या घरी निमंत्रित केले, आणि तिथेच त्याने त्यांना आपले शेवटचे भोजन अर्पण केले. बुद्धांनी ते स्वीकारले आणि उपदेश केला, मग ते दोन नद्या ओलांडून कुशीनगराकडे गेले. बील नोंदवतात की मजकुरात चुंदाच्या व्यवसायाबद्दल किंवा भोजनाबद्दल काहीच सांगितलेले नाही. साल वृक्षांच्या वनात, जे तपस्व्यांसाठी शांत स्थान होते, त्यांनी सुवर्णमयी नदी हिरण्यवतीत स्नान केले, आणि ते सुवर्ण पर्वतासारखे दिसत होते.\n\nत्यांनी आनंदाला सांगितले की जोडीच्या साल वृक्षांमधील जमीन झाडून पाणी शिंपडावे, आणि त्यांचे शयनासन लावावे, कारण ते मध्यरात्री देह ठेवणार आहेत. आनंदाचा स्वर दुःखाने दाटून आला, पण आज्ञा मानून रडत तो गेला. बुद्ध डोके उत्तरेकडे करून, उजव्या कुशीवर, हाताची उशी करून, पाय एकावर एक ठेवून, सिंहराजासारखे झोपले. शिष्य त्यांच्याभोवती वर्तुळ करून बसले आणि उसासा टाकला, महान जगाचा डोळा आता विझला आहे. वारा थांबला, वनातील झरे मौन झाले, आणि कोणताही पक्षी किंवा पशू आवाज करत नव्हता.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "How do you tell, in your own life, between a teaching that comes with a real meaning and one that only has the right words?",
+  "hi": {
+   "text": "अपने जीवन में तुम एक ऐसी शिक्षा को, जिसमें सच्चा अर्थ है, और एक ऐसी शिक्षा को, जिसमें केवल सही शब्द हैं, कैसे अलग पहचानते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझ्या आयुष्यात तू अशी शिकवण कशी ओळखतोस, जिला खरा अर्थ आहे, आणि अशी शिकवण कशी, जिला फक्त योग्य शब्द आहेत?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grief comes to a whole city, and the Buddha's last advice is to test every word by its meaning, and to rely on the law rather than on any person.",
+  "hi": {
+   "text": "किसी महान गुरु की मृत्यु पर पूरे नगर को शोक होता है, और बुद्ध की अंतिम सलाह है कि हर शब्द को उसके अर्थ से परखो, और किसी व्यक्ति पर नहीं, धर्म पर भरोसा करो।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "महान गुरूच्या निधनाने संपूर्ण नगर शोकात बुडते, आणि बुद्धांचा शेवटचा सल्ला आहे की प्रत्येक शब्दाला त्याच्या अर्थाने परखा, आणि कोणा व्यक्तीवर नव्हे तर धर्मावर विसंबून राहा.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 25; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 25; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 25; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

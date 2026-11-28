@@ -886,18 +886,90 @@
     }
    },
    "intro": {
-    "en": "How Prince Siddhartha left his palace to find the end of suffering, and awoke under the Bodhi tree.",
+    "en": "The life of the Buddha as told in Ashvaghosha's Buddhacharita, a poem of 28 cantos: from the prince's birth to the Awakening and the passing away.",
     "hi": {
-     "text": "राजकुमार सिद्धार्थ ने दुख का अंत खोजने के लिए महल कैसे छोड़ा और बोधि वृक्ष के नीचे बुद्धत्व पाया।",
+     "text": "अश्वघोष के बुद्धचरित (28 सर्गों का काव्य) में वर्णित बुद्ध का जीवन: राजकुमार के जन्म से बोधि और महापरिनिर्वाण तक।",
      "reviewed": false
     },
     "mr": {
-     "text": "राजपुत्र सिद्धार्थाने दुःखाचा अंत शोधण्यासाठी राजवाडा कसा सोडला आणि बोधिवृक्षाखाली ज्ञान कसे प्राप्त केले.",
+     "text": "अश्वघोषाच्या बुद्धचरित (२८ सर्गांचे काव्य) मध्ये सांगितलेले बुद्धांचे जीवन: राजपुत्राच्या जन्मापासून बोधी आणि महापरिनिर्वाणापर्यंत.",
      "reviewed": false
     }
    },
-   "growing": true,
-   "parts": []
+   "cover": "the-awakening",
+   "growing": false,
+   "parts": [
+    {
+     "id": "birth",
+     "title": {
+      "en": "Birth and youth",
+      "hi": {
+       "text": "जन्म और बचपन",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "जन्म आणि बालपण",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "renunciation",
+     "title": {
+      "en": "Renunciation",
+      "hi": {
+       "text": "त्याग",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "त्याग",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "awakening",
+     "title": {
+      "en": "Awakening",
+      "hi": {
+       "text": "बोधि",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "बोधी",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "ministry",
+     "title": {
+      "en": "Teaching",
+      "hi": {
+       "text": "उपदेश",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "उपदेश",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "parinirvana",
+     "title": {
+      "en": "Parinirvana",
+      "hi": {
+       "text": "महापरिनिर्वाण",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "महापरिनिर्वाण",
+       "reviewed": false
+      }
+     }
+    }
+   ]
   },
   {
    "id": "mahavira",
@@ -927,18 +999,76 @@
     }
    },
    "intro": {
-    "en": "Stories of Vardhamana Mahavira, whose path of non-violence and self-control shapes Jain life.",
+    "en": "The life of Mahavira as told in the Kalpa Sutra, the Jain text read during Paryushana: from his descent into the womb to his nirvana at Pavapuri.",
     "hi": {
-     "text": "वर्धमान महावीर की कथाएँ, जिनका अहिंसा और संयम का मार्ग जैन जीवन की नींव है।",
+     "text": "कल्पसूत्र में वर्णित महावीर का जीवन, जो पर्युषण में पढ़ा जाने वाला जैन ग्रंथ है: गर्भ में अवतरण से पावापुरी में निर्वाण तक।",
      "reviewed": false
     },
     "mr": {
-     "text": "वर्धमान महावीरांच्या कथा, ज्यांचा अहिंसा आणि संयमाचा मार्ग जैन जीवनाचा पाया आहे.",
+     "text": "कल्पसूत्रात सांगितलेले महावीरांचे जीवन, पर्युषणात वाचला जाणारा जैन ग्रंथ: गर्भावतरणापासून पावापुरी येथील निर्वाणापर्यंत.",
      "reviewed": false
     }
    },
-   "growing": true,
-   "parts": []
+   "cover": "the-teachings",
+   "growing": false,
+   "parts": [
+    {
+     "id": "conception",
+     "title": {
+      "en": "Conception",
+      "hi": {
+       "text": "गर्भावतरण",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "गर्भावतरण",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "youth",
+     "title": {
+      "en": "Birth and youth",
+      "hi": {
+       "text": "जन्म और बाल्यकाल",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "जन्म आणि बालपण",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "renunciation",
+     "title": {
+      "en": "Renunciation",
+      "hi": {
+       "text": "त्याग",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "त्याग",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "awakening",
+     "title": {
+      "en": "Awakening and teaching",
+      "hi": {
+       "text": "कैवल्य और उपदेश",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "कैवल्य आणि उपदेश",
+       "reviewed": false
+      }
+     }
+    }
+   ]
   },
   {
    "id": "parables",
@@ -968,18 +1098,62 @@
     }
    },
    "intro": {
-    "en": "Short stories Jesus told to teach love, mercy and kindness to neighbours and strangers.",
+    "en": "The parables of Jesus from the Gospels of Matthew, Mark and Luke: short stories that teach love, mercy and kindness to neighbours and strangers.",
     "hi": {
-     "text": "प्रेम, दया और पड़ोसी तथा अजनबी के प्रति करुणा सिखाने के लिए ईसा मसीह की कही छोटी कथाएँ।",
+     "text": "मत्ती, मरकुस और लूका के सुसमाचारों से ईसा मसीह के दृष्टांत: पड़ोसियों और अजनबियों के प्रति प्रेम, दया और करुणा सिखाने वाली छोटी कथाएँ।",
      "reviewed": false
     },
     "mr": {
-     "text": "शेजारी आणि अनोळखी व्यक्तींवर प्रेम, दया आणि करुणा शिकवण्यासाठी येशूने सांगितलेल्या छोट्या कथा.",
+     "text": "मत्ती, मरकुस आणि लूका यांच्या शुभवर्तमानांतील येशू ख्रिस्ताचे दाखले: शेजारी आणि अनोळखी लोकांवर प्रेम, दया आणि करुणा शिकवणाऱ्या छोट्या कथा.",
      "reviewed": false
     }
    },
-   "growing": true,
-   "parts": []
+   "cover": "the-prodigal-son",
+   "growing": false,
+   "parts": [
+    {
+     "id": "matthew",
+     "title": {
+      "en": "Gospel of Matthew",
+      "hi": {
+       "text": "मत्ती का सुसमाचार",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "मत्ती याचे शुभवर्तमान",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "mark",
+     "title": {
+      "en": "Gospel of Mark",
+      "hi": {
+       "text": "मरकुस का सुसमाचार",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "मरकुस याचे शुभवर्तमान",
+       "reviewed": false
+      }
+     }
+    },
+    {
+     "id": "luke",
+     "title": {
+      "en": "Gospel of Luke",
+      "hi": {
+       "text": "लूका का सुसमाचार",
+       "reviewed": false
+      },
+      "mr": {
+       "text": "लूका याचे शुभवर्तमान",
+       "reviewed": false
+      }
+     }
+    }
+   ]
   },
   {
    "id": "sufi-saints",

@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "rejecting-desire",
+ "order": 11,
+ "part": "renunciation",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Rejecting Desire",
+  "hi": {
+   "text": "इच्छा का त्याग",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "इच्छेचा त्याग",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The prince thanks the king with real courtesy, then explains why the pleasures of the world cannot satisfy him.",
+  "hi": {
+   "text": "राजकुमार सच्ची विनम्रता के साथ राजा को धन्यवाद देता है, फिर समझाता है कि संसार के सुख उसे क्यों संतुष्ट नहीं कर सकते।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजपुत्र खऱ्या सौजन्याने राजाचे आभार मानतो, आणि मग जगातील सुख त्याचे समाधान का करू शकत नाहीत हे समजावून सांगतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-desire-1.webp",
+   "w": 1200,
+   "h": 924,
+   "caption": {
+    "en": "Mara's daughters try to tempt the Buddha, Gandhara relief",
+    "hi": {
+     "text": "मार की पुत्रियाँ बुद्ध को लुभाने का प्रयास करती हैं, गांधार शिल्प",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मारांच्या कन्या बुद्धांना मोहात पाडण्याचा प्रयत्न करतात, गांधार शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "Photograph: Andreas Praefcke, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Versuchung_des_Buddha_Museum_Rietberg_RVI_25.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A friend's answer",
+    "hi": {
+     "text": "मित्र का उत्तर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मित्राचे उत्तर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king's speech had a friendly face and, in the poet's phrase, an edge underneath. The prince, who was calm, unchanged and of pure family, answered it with simple friendship. It is no wonder, he said, that you, born into a great house, treat as a friend someone who is in a way a friend of yours. The good keep up the friendships of their ancestors by new acts of kindness, and those who stay faithful in reverses are the true friends. Who is not the friend of the rich man in his good days?\n\nHe praised the king's offer as generous, and he promised to answer without anger. I have felt the fear of old age and death, he said, and I have run to this path in my longing for freedom. I have left my dear kin with tears on their faces. How much more, then, should I leave pleasures, which are the causes of evil? He said that he was afraid of worldly pleasures as one is afraid of a snake.",
+    "hi": {
+     "text": "राजा का वचन मैत्रीपूर्ण मुख वाला था, और कवि के शब्दों में, नीचे उसमें एक धार थी। राजकुमार, जो शांत, अविचलित और शुद्ध कुल का था, सरल मित्रता के साथ उत्तर देता है। यह आश्चर्य की बात नहीं कि आप, जो एक महान कुल में जन्मे हैं, उसे मित्र मानते हैं जो एक प्रकार से आपका मित्र है। सज्जन अपने पूर्वजों की मित्रता को नई दयालुता के कार्यों से निभाते हैं, और विपत्ति में भी जो वफादार रहते हैं वही सच्चे मित्र होते हैं। अच्छे दिनों में धनी व्यक्ति का मित्र कौन नहीं होता?\n\nउसने राजा के प्रस्ताव की उदारता की प्रशंसा की, और क्रोध के बिना उत्तर देने का वचन दिया। मैंने बुढ़ापे और मृत्यु का भय अनुभव किया है, उसने कहा, और मुक्ति के मार्ग की चाह में मैं इस पथ पर दौड़ा हूँ। मैंने अपने प्रिय संबंधियों को आँसुओं के साथ छोड़ा है। तो फिर मुझे सुखों को क्यों नहीं छोड़ना चाहिए, जो दोष के कारण हैं? उसने कहा कि वह सांसारिक सुखों से वैसे ही डरता है जैसे कोई सर्प से डरता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाचे बोलणे मैत्रीपूर्ण चेहऱ्याचे होते, आणि कवीच्या शब्दांत, त्याखाली एक धार होती. राजपुत्र, जो शांत, अविचल आणि शुद्ध कुळातील होता, साध्या मैत्रीने उत्तर देतो. तुम्ही, जो एका महान घरात जन्मला आहात, ज्याला तुम्ही मित्र मानता तो एका अर्थाने तुमचा मित्र आहे, यात आश्चर्य नाही, तो म्हणाला. सज्जन आपल्या पूर्वजांची मैत्री नव्या दयाळू कृतींनी जपतात, आणि संकटात जे निष्ठावान राहतात तेच खरे मित्र असतात. चांगल्या दिवसांत श्रीमंत माणसाचा मित्र कोण नसतो?\n\nत्याने राजाच्या प्रस्तावाच्या उदारतेची प्रशंसा केली, आणि रागाविना उत्तर देण्याचे वचन दिले. मला म्हातारपण आणि मृत्यूची भीती वाटली आहे, तो म्हणाला, आणि मुक्तीच्या ओढीने मी या मार्गावर धावलो आहे. मी आपल्या प्रिय नातेवाइकांना अश्रूंसह सोडले आहे. मग मी दोषाचे कारण असलेली सुखे का सोडू नयेत? तो म्हणाला की तो सांसारिक सुखांना सापापासून जसे माणूस घाबरतो तसा घाबरतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "More afraid than of serpents",
+    "hi": {
+     "text": "सर्प से भी अधिक भय",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सापापेक्षाही अधिक भीती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "I am not so afraid of serpents, he told the king, nor of thunderbolts falling from the sky, nor of fire fanned by the wind, as I am afraid of these worldly objects. They are the robbers of our happiness, he said, and they float through the world like illusions. They bewilder men's minds even when they are only hoped for, and much more when they have settled in the heart.\n\nThen he spoke of thirst. A man who is thirsty is never satisfied with pleasures, he said, as fire is never satisfied with fuel. Even in the heaven of the gods the victims of pleasure find no happiness, still less in the world of mortals. There is no calamity in the world like pleasures, he said, and people give themselves to them only through delusion. What wise man, when he knows the truth and fears harm, would of his own choice desire evil? The line is spoken with courtesy, as a thinker states a conclusion.",
+    "hi": {
+     "text": "मैं सर्पों से इतना नहीं डरता, उसने राजा से कहा, न आकाश से गिरती बिजली से, न हवा से भड़की आग से, जितना इन सांसारिक वस्तुओं से डरता हूँ। ये हमारे सुख के लुटेरे हैं, उसने कहा, और ये भ्रम की तरह संसार में तैरते हैं। वे मन को भ्रमित करते हैं, केवल आशा में भी, और जब वे हृदय में बस जाते हैं तब तो और भी अधिक।\n\nफिर उसने प्यास की बात की। जो प्यासा है, वह सुखों से कभी तृप्त नहीं होता, उसने कहा, जैसे आग ईंधन से कभी तृप्त नहीं होती। देवताओं के स्वर्ग में भी सुख के दास को सुख नहीं मिलता, मनुष्यलोक की तो बात ही क्या। संसार में सुखों जैसी कोई विपत्ति नहीं है, उसने कहा, और लोग उनमें केवल मोह के कारण लिप्त होते हैं। जो बुद्धिमान सत्य को जानता है और हानि से डरता है, वह अपनी इच्छा से बुराई क्यों चाहेगा? यह वाक्य विनम्रता से बोला गया है, जैसे कोई विचारक अपना निष्कर्ष बताता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मला साप इतके भीतीदायक वाटत नाहीत, तो राजाला म्हणाला, ना आकाशातून पडणारी वीज, ना वाऱ्याने भडकलेली आग, जितकी या सांसारिक वस्तू. ते आपल्या सुखाचे चोर आहेत, तो म्हणाला, आणि भ्रमाप्रमाणे जगात तरंगतात. ते केवळ अपेक्षेनेही मन भ्रमित करतात, आणि हृदयात घर केल्यावर तर अधिकच.\n\nमग तो तहानेविषयी बोलला. जो तहानलेला आहे, तो सुखांनी कधीच तृप्त होत नाही, तो म्हणाला, जसा अग्नी इंधनाने कधी तृप्त होत नाही. देवांच्या स्वर्गातही सुखाचे गुलाम झालेल्यांना सुख मिळत नाही, मनुष्यलोकाची तर गोष्टच वेगळी. जगात सुखांसारखे संकट नाही, तो म्हणाला, आणि लोक त्यांना केवळ मोहामुळे शरण जातात. जो शहाणा माणूस सत्य जाणतो आणि हानीला घाबरतो, तो स्वेच्छेने वाईट कशाला मागेल? हे वाक्य विनम्रपणे उच्चारले आहे, जसा एखादा विचारवंत आपला निष्कर्ष सांगतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kings who were never satisfied",
+    "hi": {
+     "text": "कभी तृप्त न होने वाले राजा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कधीही न भागणारे राजे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Like a good teacher he gave examples from the stories everyone knew. When they have won all the earth to its sea shores, he said, kings wish to conquer the other side of the ocean, and mankind is never full of pleasures, as the sea is never full of rivers. Mandhatri, who conquered the four continents and had half of Indra's throne, was still not satisfied. Nahusha had enjoyed the kingdom of the gods and made great seers carry his litter, and he fell.\n\nWho would put his trust in such things, the prince asked, which pass from Bali to Indra, and from Indra to Nahusha, and back again to Indra? He spoke of the paltry flavour of worldly objects, of the pleasure that ends only in wanting more, and of pleasures like a torch of dry grass, that make you thirsty when you reach for them and burn the hand that grasps them. He called it a poison that wears the name of delight.",
+    "hi": {
+     "text": "एक अच्छे शिक्षक की तरह उसने वे उदाहरण दिए जो सब जानते थे। जब राजा पृथ्वी को समुद्र तट तक जीत लेते हैं, उसने कहा, तो वे समुद्र के उस पार भी जीतना चाहते हैं, और मनुष्य कभी सुखों से भरता नहीं, जैसे समुद्र नदियों से कभी भरता नहीं। मांधाता, जिसने चारों द्वीप जीते और इंद्र के सिंहासन का आधा पाया, फिर भी तृप्त न हुआ। नहुष ने देवताओं का राज्य भोगा और महान ऋषियों से अपनी पालकी उठवाई, और वह गिर पड़ा।\n\nऐसी वस्तुओं पर कौन भरोसा करे, राजकुमार ने पूछा, जो बलि से इंद्र के पास और इंद्र से नहुष के पास, और फिर इंद्र के पास लौटती हैं? उसने सांसारिक वस्तुओं के फीके स्वाद की बात की, उस सुख की जो केवल और चाहत जगाकर समाप्त होता है, और उन सुखों की जो सूखे घास की मशाल जैसे हैं, जो पकड़ने पर प्यास बढ़ाते हैं और हाथ जलाते हैं। उसने उसे उस विष की संज्ञा दी जो आनंद का नाम धारण करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका चांगल्या शिक्षकाप्रमाणे त्याने सर्वांना माहीत असलेल्या गोष्टींवरून उदाहरणे दिली. राजे सर्व पृथ्वी समुद्रकिनाऱ्यापर्यंत जिंकल्यावर समुद्राच्या पलीकडेही जिंकण्याची इच्छा करतात, तो म्हणाला, आणि माणसाचे सुख कधीच पूर्ण होत नाही, जसा समुद्र नद्यांनी कधीही भरत नाही. मांधाता, ज्याने चारही खंड जिंकले आणि इंद्राच्या सिंहासनाचा अर्धा भाग मिळवला, तरीही तो समाधानी झाला नाही. नहुषाने देवांचे राज्य उपभोगले आणि महान ऋषींकडून आपली पालखी उचलून घेतली, आणि तो खाली पडला.\n\nअशा गोष्टींवर कोणी विश्वास ठेवावा, राजपुत्राने विचारले, ज्या बलीकडून इंद्राकडे आणि इंद्राकडून नहुषाकडे, आणि पुन्हा इंद्राकडे जातात? त्याने सांसारिक वस्तूंच्या बेचव चवीबद्दल सांगितले, त्या सुखाबद्दल जे केवळ अधिक हव्यासात संपते, आणि त्या सुखांबद्दल जी वाळलेल्या गवताच्या मशालीसारखी आहेत, जी पकडताना तहान वाढवतात आणि हात जाळतात. त्याने त्याला आनंदाचे नाव धारण करणारे विष म्हटले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What a king really has",
+    "hi": {
+     "text": "राजा के पास वास्तव में क्या है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाजवळ खरोखर काय आहे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He then took the king's own life as an example. The things we use, he said, such as water, food, a house, clothes, a bed, a seat, a carriage, are remedies for pain. Water relieves thirst, food relieves hunger, a house keeps out the wind and sun, and clothing keeps out the cold. They are not in themselves a source of joy. Who would call medicine a delight? And pleasures change. Heavy clothes and fragrant wood are pleasant in the cold and a burden in the heat.\n\nAs I see it, he said, pleasure and pain are mixed, and I count royalty and slavery as the same: a king does not always smile, and a slave is not always in pain. A king's pains are great, because his command is wide, and he is like a peg that holds the world together. Even after conquering the whole earth, he said, only one city can be lived in, and only one house in that city. Is a kingdom not labour for the sake of others? A king wears one pair of garments, and eats only enough to quiet his hunger.",
+    "hi": {
+     "text": "फिर उसने राजा के अपने जीवन को उदाहरण बनाया। जो वस्तुएँ हम उपयोग करते हैं, जैसे जल, भोजन, घर, वस्त्र, शय्या, आसन, रथ, वे पीड़ा की औषधियाँ हैं, उसने कहा। जल प्यास बुझाता है, भोजन भूख मिटाता है, घर हवा और धूप से बचाता है, और वस्त्र ठंड से बचाते हैं। वे अपने आप में आनंद का स्रोत नहीं हैं। क्या कोई औषधि को आनंद कहेगा? और सुख बदलते भी हैं। भारी वस्त्र और सुगंधित चंदन ठंड में सुखद लगते हैं और गर्मी में बोझ।\n\nमैं इसे ऐसे देखता हूँ, उसने कहा, कि सुख और दुःख मिले हुए हैं, और मैं राजसत्ता और दासता को एक समान गिनता हूँ: राजा सदा मुस्कराता नहीं, और दास सदा पीड़ा में नहीं रहता। राजा की पीड़ाएँ बड़ी होती हैं, क्योंकि उसका आदेश दूर तक जाता है, और वह उस खूंटे जैसा है जो संसार को थामे रखता है। पूरी पृथ्वी जीत लेने पर भी, उसने कहा, केवल एक नगर में रहा जा सकता है, और उस नगर में केवल एक घर। क्या राज्य दूसरों के लिए किया गया परिश्रम नहीं है? राजा एक ही जोड़ी वस्त्र पहनता है, और भूख शांत करने भर ही खाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग त्याने राजाच्या स्वतःच्या जीवनाचे उदाहरण घेतले. जे आपण वापरतो, जसे पाणी, अन्न, घर, वस्त्र, शय्या, आसन, रथ, ते वेदनेवरील औषधे आहेत, तो म्हणाला. पाणी तहान शमवते, अन्न भूक भागवते, घर वारा आणि ऊन अडवते, आणि वस्त्र थंडीपासून वाचवते. ती स्वतःत आनंदाचे स्रोत नाहीत. औषधाला कोण आनंद म्हणेल? आणि सुख बदलतेही. जड वस्त्रे आणि सुगंधी चंदन थंडीत आनंददायी वाटतात, आणि उन्हाळ्यात ओझे.\n\nमी असे पाहतो, तो म्हणाला, की सुख आणि दुःख मिसळलेले आहेत, आणि मी राजेपण आणि गुलामगिरी एकसारखी मानतो: राजा नेहमी हसत नाही, आणि गुलाम नेहमी वेदनेत नसतो. राजाच्या वेदना मोठ्या असतात, कारण त्याचा आदेश दूरवर जातो, आणि तो असा खुंटा आहे जो जगाला धरून ठेवतो. संपूर्ण पृथ्वी जिंकल्यावरही, तो म्हणाला, फक्त एकच नगर राहण्यासाठी असते, आणि त्या नगरात फक्त एकच घर. राज्य हे इतरांसाठी केलेले कष्ट नाही का? राजा एकच जोड वस्त्र घालतो, आणि भूक शमेल इतकेच खातो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A promise and a farewell",
+    "hi": {
+     "text": "एक वचन और एक विदाई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक वचन आणि एक निरोप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "To the king's talk of sacrifices and heaven, the prince replied that he would not be lured into action for a reward in some future life. My mind does not delight, O king, in future births, he said. Such actions are uncertain, like plants beaten about by rain from a cloud. He said that he had come to see the sage Arada, who proclaimed liberation, and that he would set out that very day. He asked pardon for the bluntness of words that came from a mind without passion.\n\nHe wished the king well. Guard the world, he said, as Indra guards heaven, and guard your own religion. Bimbisara folded his hands and, with a sudden longing in his heart, answered that the prince would reach his goal without hindrance, and that when it was done, he should show his favour to him. The prince gave his promise and went toward the hermitage of Arada. The king and his courtiers watched him go, amazed, and returned to the mountain.",
+    "hi": {
+     "text": "राजा की यज्ञों और स्वर्ग की बातों के उत्तर में राजकुमार ने कहा कि वह भविष्य के जन्म के पुरस्कार की आशा में किसी कर्म में नहीं फँसेगा। मेरा मन, हे राजन, भविष्य के जन्मों में आनंद नहीं पाता, उसने कहा। ऐसे कर्म अनिश्चित हैं, जैसे बादल से गिरती वर्षा से हिलाए गए पौधे। उसने कहा कि वह मुक्ति का उपदेश देने वाले ऋषि आराड से मिलने आया है, और उसी दिन वह प्रस्थान करेगा। उसने वचनों की कठोरता के लिए क्षमा माँगी, जो एक राग-रहित मन से निकले थे।\n\nउसने राजा का कल्याण चाहा। जैसे इंद्र स्वर्ग की रक्षा करते हैं, वैसे ही पृथ्वी की रक्षा करो, उसने कहा, और अपने धर्म की भी। बिंबिसार ने हाथ जोड़े, और अचानक उत्कट इच्छा से भरे हृदय के साथ उत्तर दिया कि राजकुमार बिना किसी बाधा के अपने लक्ष्य तक पहुँचेगा, और जब वह हो जाए, तो उस पर अनुग्रह करे। राजकुमार ने अपना वचन दिया और आराड के आश्रम की ओर चल पड़ा। राजा और उसके दरबारी विस्मय से उसे जाते देखते रहे, और फिर पर्वत की ओर लौट गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाच्या यज्ञ आणि स्वर्गाच्या बोलण्यावर राजपुत्र म्हणाला की तो भविष्यातील जन्माच्या पुरस्काराच्या आशेने कोणत्याही कर्मात अडकणार नाही. माझे मन, हे राजन, पुढील जन्मांत रमत नाही, तो म्हणाला. असे कर्म अनिश्चित असते, जसे ढगांतून पडणाऱ्या पावसाने हलवलेली रोपे. तो म्हणाला की तो मुक्तीचा उपदेश करणारे ऋषी आराड यांना भेटायला आला आहे, आणि त्याच दिवशी निघेल. राग-रहित मनातून आलेल्या बोलण्याच्या कठोरपणाबद्दल त्याने क्षमा मागितली.\n\nत्याने राजाच्या कल्याणाची इच्छा केली. जसा इंद्र स्वर्गाचे रक्षण करतो, तसे पृथ्वीचे रक्षण कर, तो म्हणाला, आणि आपल्या धर्माचेही. बिंबिसाराने हात जोडले, आणि अचानक तीव्र इच्छेने भरलेल्या हृदयाने उत्तर दिले की राजपुत्र कोणत्याही अडथळ्याविना आपल्या ध्येयापर्यंत पोहोचेल, आणि ते झाल्यावर त्याने आपली कृपा दाखवावी. राजपुत्राने आपले वचन दिले आणि आराडाच्या आश्रमाच्या दिशेने निघाला. राजा आणि त्याचे दरबारी विस्मयाने त्याला जाताना पाहत राहिले, आणि मग पर्वताकडे परतले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "what wise man would of his own choice desire evil",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 11.11 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 11.11 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 11.11 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Once one knows what pleasures cost, the prince asks, why would anyone choose them freely?",
+   "hi": {
+    "text": "जब कोई जान लेता है कि सुखों की क्या कीमत होती है, तो राजकुमार पूछता है, फिर कोई उन्हें अपनी इच्छा से क्यों चुनेगा?",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सुखांची किंमत कळल्यावर राजकुमार विचारतो, मग कोणी ती स्वेच्छेने का निवडेल?",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Which of your own wants has never been satisfied, however many times it has been met?",
+  "hi": {
+   "text": "तुम्हारी कौन सी इच्छा है जो पूरी होने के बाद भी कभी संतुष्ट नहीं हुई?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझी कोणती इच्छा आहे जी पूर्ण झाल्यावरही कधी समाधानी झाली नाही?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Desire promises fullness and delivers more thirst; seeing this clearly is the beginning of freedom, and it can be said without contempt.",
+  "hi": {
+   "text": "इच्छा पूर्णता का वचन देती है, पर अधिक प्यास ही देती है; इसे स्पष्ट देख लेना मुक्ति की शुरुआत है, और यह बात तिरस्कार के बिना भी कही जा सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "इच्छा पूर्णतेचे वचन देते, पण अधिक तहानच देते; ते स्पष्टपणे पाहणे मुक्तीची सुरुवात आहे, आणि ते तिरस्काराशिवायही सांगता येते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 11; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 11; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 11; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

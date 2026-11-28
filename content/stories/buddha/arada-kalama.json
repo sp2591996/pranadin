@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "arada-kalama",
+ "order": 12,
+ "part": "awakening",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Arada Kalama",
+  "hi": {
+   "text": "आराड कालाम",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आराड कालाम",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The seeker studies with two great teachers, finds their goal incomplete, and then tries six years of hard fasting before sitting down under a tree.",
+  "hi": {
+   "text": "खोजी राजकुमार दो महान गुरुओं से अध्ययन करता है, उनके लक्ष्य को अधूरा पाता है, और फिर एक वृक्ष के नीचे बैठने से पहले छह वर्ष कठोर तप करता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शोधक राजपुत्र दोन महान गुरूंकडे अभ्यास करतो, त्यांचे ध्येय अपूर्ण असल्याचे पाहतो, आणि मग एका वृक्षाखाली बसण्यापूर्वी सहा वर्षे कठोर उपवास करतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-arada-1.webp",
+   "w": 900,
+   "h": 707,
+   "caption": {
+    "en": "Meditating Buddha, painted ceiling, Ajanta caves",
+    "hi": {
+     "text": "ध्यानमग्न बुद्ध, अजंता की छत का चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ध्यानस्थ बुद्ध, अजिंठा लेणीतील छतचित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Harshvardhankabra, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MEDITATING_BUDDHA.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A teacher's welcome",
+    "hi": {
+     "text": "गुरु का स्वागत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूचे स्वागत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The prince came to the hermitage of the sage Arada, and the sage called out a welcome while he was still far off. They asked each other the usual questions about health, and sat down on two clean wooden seats. Arada looked at him closely, as if drinking him in with wide eyes, and said that he knew how this young man had come, having cut the bond of affection as a wild elephant breaks its rope.\n\nIt was no marvel that old kings retired to the forest, he said, leaving their glory to their children like a garland already worn. The marvel was that a man in the freshness of youth had come, before he had tasted the world's pleasures. You are a worthy vessel to receive this highest religion, he said, so learn it and cross the sea of misery. The prince was pleased. He said that seeing Arada was like a lamp to someone who longs to see, a guide to a traveller, a boat to someone who wants to cross. He asked him to teach.",
+    "hi": {
+     "text": "राजकुमार ऋषि आराड के आश्रम में आया, और ऋषि ने दूर से ही उसका स्वागत पुकारकर किया। उन्होंने एक-दूसरे से स्वास्थ्य आदि की सामान्य बातें पूछीं और दो स्वच्छ लकड़ी के आसनों पर बैठ गए। आराड ने उसे ध्यान से देखा, मानो आँखें फैलाकर उसे पी रहे हों, और कहा कि वह जानता है यह युवक किस कारण आया है, क्योंकि उसने स्नेह का बंधन ऐसे तोड़ दिया है जैसे जंगली हाथी अपनी रस्सी तोड़ देता है।\n\nउन्होंने कहा कि यह आश्चर्य की बात नहीं कि पुराने राजा वन में चले जाते हैं और अपना वैभव अपनी संतानों को सौंप देते हैं, जैसे पहनी हुई माला दे दी जाए। आश्चर्य यह है कि यौवन की ताज़गी में कोई व्यक्ति संसार के सुख चखने से पहले ही आ गया है। तुम इस सर्वोच्च धर्म को ग्रहण करने के योग्य पात्र हो, उन्होंने कहा, इसलिए इसे सीखो और दुःख के सागर को पार करो। राजकुमार प्रसन्न हुआ। उसने कहा कि आराड को देखना उस व्यक्ति के लिए दीपक जैसा है जो देखना चाहता है, यात्री के लिए मार्गदर्शक जैसा है, और उस व्यक्ति के लिए नाव जैसा है जो पार जाना चाहता है। उसने उनसे शिक्षा देने की प्रार्थना की।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्र ऋषी आराडाच्या आश्रमात आला, आणि ऋषींनी तो दूर असतानाच त्याचे स्वागत हाक मारून केले. त्यांनी एकमेकांना प्रकृतीविषयीचे नेहमीचे प्रश्न विचारले आणि दोन स्वच्छ लाकडी आसनांवर बसले. आराडाने त्याच्याकडे बारकाईने पाहिले, जणू डोळे विस्फारून त्याला पीत असावेत, आणि म्हणाले की हा तरुण कोणत्या कारणाने आला आहे हे त्यांना ठाऊक आहे, कारण जंगली हत्ती जसा आपला दोर तोडतो तसा त्याने स्नेहाचे बंधन तोडले आहे.\n\nजुने राजे वनात निवृत्त होतात आणि आपले वैभव आपल्या मुलांकडे सोपवतात, जसे वापरलेली माळ दिली जाते, यात काही आश्चर्य नाही, ते म्हणाले. आश्चर्य हे आहे की तारुण्याच्या ताजेपणात एखादा माणूस जगातील सुख चाखण्यापूर्वीच आला आहे. तू हा सर्वोच्च धर्म स्वीकारण्यास योग्य पात्र आहेस, ते म्हणाले, म्हणून तो शिक. दुःखाच्या सागरातून पार हो. राजपुत्र आनंदित झाला. तो म्हणाला की आराडाला भेटणे हे पाहू इच्छिणाऱ्यासाठी दिव्यासारखे, प्रवाशासाठी मार्गदर्शकासारखे आणि पार जाऊ इच्छिणाऱ्यासाठी होडीसारखे आहे. त्याने त्यांना शिकवण्याची विनंती केली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The doctrine of Arada",
+    "hi": {
+     "text": "आराड का सिद्धांत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आराडाचे तत्त्वज्ञान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arada explained his teaching briefly. The way our mortal existence arises and goes round, he said, is this. There is nature, the unmanifest source, with its evolutes: intellect, the sense of self, the five elements, the senses, the mind. And there is something that knows this field, the knower of the field, which is the soul. Birth, old age and death belong to the field.\n\nThe soul, he went on, is bound by ignorance, by the sense of I and mine, and by desire and action. When a person sees the difference between the knower and the field, the bondage ends. Arada described the stages of meditation by which one withdraws, and he spoke of the last stage, where the wise man sees that nothing exists of his own, and the soul, like a reed drawn from its sheath or a bird from a cage, is released. This, he said, is the supreme Brahman, constant and without signs, which the wise call liberation. Others had reached it, he said, so follow it.",
+    "hi": {
+     "text": "आराड ने अपनी शिक्षा संक्षेप में समझाई। उन्होंने कहा, नश्वर अस्तित्व इस प्रकार उत्पन्न होता है और चक्र में घूमता है। वहाँ प्रकृति है, अव्यक्त मूल, अपने विकारों के साथ: बुद्धि, अहंकार, पाँच तत्त्व, इंद्रियाँ और मन। और वहाँ कुछ ऐसा है जो इस क्षेत्र को जानता है, क्षेत्रज्ञ, जो आत्मा है। जन्म, बुढ़ापा और मृत्यु क्षेत्र से संबंधित हैं।\n\nआत्मा, उन्होंने आगे कहा, अज्ञान से, मैं और मेरे के भाव से, तथा इच्छा और कर्म से बँधी है। जब मनुष्य क्षेत्रज्ञ और क्षेत्र का भेद देख लेता है, तो बंधन समाप्त हो जाता है। आराड ने ध्यान की उन अवस्थाओं का वर्णन किया जिनमें मन भीतर सिमटता है, और अंतिम अवस्था की चर्चा की जहाँ ज्ञानी देखता है कि कुछ भी अपना नहीं है, और आत्मा, जैसे म्यान से निकला सरकंडा या पिंजरे से उड़ता पक्षी, मुक्त हो जाती है। यही, उन्होंने कहा, परम ब्रह्म है, स्थिर और निर्गुण, जिसे ज्ञानी मुक्ति कहते हैं। दूसरे भी इसे पा चुके हैं, इसलिए इसका अनुसरण करो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आराडाने आपली शिकवण थोडक्यात समजावली. ते म्हणाले, नश्वर अस्तित्व असे उत्पन्न होते आणि चक्रात फिरते. तेथे प्रकृती आहे, अव्यक्त मूळ, आपल्या विकारांसह: बुद्धी, अहंकार, पाच महाभूते, इंद्रिये आणि मन. आणि असे काहीतरी आहे जे या क्षेत्राला जाणते, क्षेत्रज्ञ, जो आत्मा आहे. जन्म, म्हातारपण आणि मृत्यू हे क्षेत्राचे भाग आहेत.\n\nआत्मा, ते पुढे म्हणाले, अज्ञानाने, मी आणि माझे या भावाने, तसेच इच्छा आणि कर्म यांनी बांधलेला आहे. जेव्हा माणूस क्षेत्रज्ञ आणि क्षेत्र यांतील फरक पाहतो, तेव्हा बंधन संपते. आराडाने ध्यानाच्या त्या अवस्थांचे वर्णन केले ज्यात मन आत वळते, आणि शेवटच्या अवस्थेबद्दल सांगितले, जिथे ज्ञानी पाहतो की स्वतःचे असे काहीच नाही, आणि म्यानातून काढलेल्या काडीसारखा किंवा पिंजऱ्यातून उडणाऱ्या पक्ष्यासारखा आत्मा मुक्त होतो. हेच, ते म्हणाले, परम ब्रह्म आहे, स्थिर आणि निर्गुण, ज्याला ज्ञानी मुक्ती म्हणतात. इतरांनीही ते गाठले आहे, म्हणून त्याचे अनुसरण कर.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince's doubt",
+    "hi": {
+     "text": "राजकुमार का संदेह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राची शंका",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The prince listened with care, and thought about what he had heard. Then he spoke with respect. Your teaching is subtle and excellent, he said, but I do not think it can be final, because it does not show how to let go of the soul itself in its different bodies. Even a soul freed from nature and its products, he said, still has the condition of a seed, and could be born again.\n\nAs long as there is a soul, he explained, it is not truly abandoned, and some trace of the old condition remains. The imperfections are only thinned out, thought is quiet, and the term of life is long, but that is not the same as an end. The absolute end of our aim, he said, is found only in abandoning everything. So the prince, unsatisfied, put his teacher's doctrine aside as incomplete and turned away. The poem says that he did so without anger, as one who had been honestly taught.",
+    "hi": {
+     "text": "राजकुमार ने ध्यान से सुना और जो सुना था उस पर विचार किया। फिर आदरपूर्वक बोला। आपका उपदेश सूक्ष्म और उत्कृष्ट है, उसने कहा, पर मुझे लगता है कि यह अंतिम नहीं हो सकता, क्योंकि यह नहीं दिखाता कि अपने विभिन्न शरीरों में आत्मा को ही कैसे छोड़ा जाए। प्रकृति और उसके विकारों से मुक्त आत्मा भी, उसने कहा, बीज जैसी अवस्था में रहती है और फिर से जन्म ले सकती है।\n\nजब तक आत्मा है, उसने समझाया, वह सच्चे अर्थ में त्यागी नहीं गई, और पुरानी अवस्था का कोई अंश शेष रहता है। दोष केवल कम होते हैं, मन शांत रहता है, और जीवन की अवधि लंबी होती है, पर यह अंत नहीं है। हमारे लक्ष्य का पूर्ण अंत, उसने कहा, केवल सब कुछ त्यागने में मिलता है। इसलिए राजकुमार असंतुष्ट होकर गुरु के सिद्धांत को अधूरा मानकर एक ओर रख गया और मुड़ गया। काव्य कहता है कि उसने यह क्रोध के बिना किया, जैसे कोई ईमानदारी से शिक्षित व्यक्ति करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राने काळजीपूर्वक ऐकले आणि जे ऐकले त्यावर विचार केला. मग आदराने बोलला. तुमचे शिक्षण सूक्ष्म आणि उत्कृष्ट आहे, तो म्हणाला, पण मला वाटत नाही की ते अंतिम असू शकते, कारण आत्मा त्याच्या विविध शरीरांत कसा सोडायचा हे ते दाखवत नाही. प्रकृती आणि तिच्या उत्पादनांपासून मुक्त झालेला आत्माही, तो म्हणाला, बीजासारखी अवस्था बाळगतो आणि पुन्हा जन्म घेऊ शकतो.\n\nजोपर्यंत आत्मा आहे, त्याने समजावले, तोपर्यंत तो खऱ्या अर्थाने सोडला गेलेला नसतो, आणि जुन्या अवस्थेचा काही अंश उरतो. दोष केवळ पातळ होतात, मन शांत होते, आणि जीवनाची मुदत दीर्घ असते, पण ते अंत नव्हे. आपल्या ध्येयाचा निरपेक्ष अंत, तो म्हणाला, केवळ सर्व काही सोडण्यातच मिळतो. म्हणून असमाधानी राजपुत्राने गुरूंचा सिद्धांत अपूर्ण मानून बाजूला ठेवला आणि तो पाठ फिरवून निघाला. काव्य सांगते की त्याने हे रागाविना केले, जसा प्रामाणिकपणे शिकवलेला माणूस करतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Udraka and the five",
+    "hi": {
+     "text": "उद्रक और पाँच साथी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उद्रक आणि ते पाच",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Wanting to know the real distinction, the prince went to the hermitage of Udraka, but he found no clear understanding in his treatment of the soul. Udraka went beyond nothingness, to a state with neither name nor lack of a name, where thought rests in an extremely subtle condition. But even there, the prince saw, the mind returns to the world when it comes out of the trance. So he left Udraka too, still seeking something further.\n\nHe came to the hermitage of the royal sage Gaya, and by the clear bank of the Nairanjana river he settled in a lonely place. There five mendicants, who were seeking liberation, came to him as the senses come to a man who has gained wealth and health. They honoured him, and he thought that perhaps fasting would abolish birth and death. He began a series of hard austerities, and for six years, the poem says, he practised self-mortification, breaking his fast only with single jujube fruits, sesame seeds and grains of rice.",
+    "hi": {
+     "text": "वास्तविक भेद जानने के लिए राजकुमार उद्रक के आश्रम में गया, पर उसे आत्मा के विषय में उसकी व्याख्या में कोई स्पष्ट समझ नहीं मिली। उद्रक शून्यता से भी आगे गया, उस अवस्था तक जहाँ न कोई नाम है न नाम का अभाव, और जहाँ मन अत्यंत सूक्ष्म स्थिति में विश्राम करता है। पर राजकुमार ने देखा कि वहाँ भी, समाधि से निकलते ही, मन फिर संसार की ओर लौट आता है। इसलिए उसने उद्रक को भी छोड़ दिया, और अब भी किसी और चीज़ की खोज में रहा।\n\nवह राजर्षि गय के आश्रम में आया, और नैरंजना नदी के स्वच्छ तट पर एक एकांत स्थान में बस गया। वहाँ पाँच साधु, जो मुक्ति की खोज में थे, उसके पास आए, जैसे इंद्रियाँ उस व्यक्ति के पास आती हैं जिसने धन और स्वास्थ्य पाया हो। उन्होंने उसका सम्मान किया, और उसने सोचा कि शायद उपवास से जन्म और मृत्यु का अंत हो जाएगा। उसने कठोर तप आरंभ किया, और काव्य के अनुसार छह वर्ष तक उसने आत्म-पीड़न का अभ्यास किया, केवल एक-एक बेर, तिल और चावल के दाने खाकर उपवास तोड़ते हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खरा भेद जाणून घेण्यासाठी राजपुत्र उद्रकाच्या आश्रमात गेला, पण आत्म्याविषयीच्या त्याच्या मांडणीत त्याला स्पष्ट समज सापडली नाही. उद्रक शून्यतेच्याही पलीकडे गेला होता, अशा अवस्थेत जिथे नाव नाही आणि नावाचा अभावही नाही, आणि जिथे मन अत्यंत सूक्ष्म स्थितीत विसावते. पण राजपुत्राने पाहिले की तिथेही, समाधीतून बाहेर आल्यावर, मन पुन्हा जगाकडे परत येते. म्हणून त्याने उद्रकालाही सोडले, आणि तो अजूनही आणखी कशाचा तरी शोध घेत होता.\n\nतो राजर्षी गयाच्या आश्रमात आला, आणि नैरंजना नदीच्या स्वच्छ तीरावर एका एकांत ठिकाणी स्थिरावला. तेथे मुक्तीच्या शोधात असलेले पाच भिक्षू त्याच्याकडे आले, जसे धन आणि आरोग्य मिळवलेल्या माणसाकडे इंद्रिये येतात. त्यांनी त्याचा सन्मान केला, आणि त्याला वाटले की कदाचित उपवासाने जन्म आणि मृत्यू नाहीसे होतील. त्याने कठोर तपाची मालिका सुरू केली, आणि काव्यानुसार सहा वर्षे त्याने आत्मपीडनाचा अभ्यास केला, फक्त एक-एक बोर, तीळ आणि तांदळाचे दाणे खाऊन उपवास सोडत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Milk, and the tree",
+    "hi": {
+     "text": "दूध और वृक्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दूध आणि वृक्ष",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The poet says the body wasted, but the light about him did not. With nothing but skin and bone left, he still shone like the ocean, and the poem pictures him like the autumn moon in the first part of her bright fortnight. Yet he came to see that this was not the way to freedom or perfect knowledge. A mind exhausted by hunger and thirst, he thought, cannot reach what is to be reached by the mind. Calm needs a settled body, and so he decided to eat.\n\nHe bathed in the Nairanjana and climbed the bank, with the trees bending down their branches to support him. A herdsman's daughter named Nandabala, moved by sudden joy, bowed to him and persuaded him to take some milk. When he had eaten and recovered his strength, the five mendicants left him, as the senses leave a soul when it is freed. Alone, he went to the foot of the fig tree and spread grass there. The serpent king Kala praised him, saying he would surely that day attain the fruit, and he sat down, vowing not to rise until he had reached his goal.",
+    "hi": {
+     "text": "कवि कहता है कि शरीर क्षीण हो गया, पर उसके चारों ओर का प्रकाश क्षीण नहीं हुआ। केवल त्वचा और हड्डियाँ बची थीं, फिर भी वह समुद्र की तरह चमकता था, और कवि उसे शुक्ल पक्ष के आरंभ में शरद की चंद्रमा जैसा चित्रित करता है। फिर भी उसने देखा कि यह मुक्ति या पूर्ण ज्ञान का मार्ग नहीं है। भूख और प्यास से थका मन, उसने सोचा, वह नहीं पा सकता जो मन द्वारा पाया जाना है। शांति के लिए स्थिर शरीर चाहिए, इसलिए उसने भोजन करने का निश्चय किया।\n\nवह नैरंजना में स्नान करके तट पर चढ़ा, और वृक्षों की डालियाँ उसे सहारा देने के लिए झुक गईं। नंदबला नाम की एक ग्वालिन की पुत्री ने अचानक आनंद से प्रेरित होकर उसे प्रणाम किया और उसे दूध लेने को राज़ी किया। जब उसने भोजन करके शक्ति पुनः पाई, तो पाँचों साधु उसे छोड़कर चले गए, जैसे मुक्त होने पर आत्मा को इंद्रियाँ छोड़ देती हैं। अकेला वह एक पीपल के वृक्ष के नीचे गया और वहाँ घास बिछाई। नाग राजा काल ने उसकी प्रशंसा की और कहा कि वह उसी दिन अवश्य फल पाएगा। तब वह यह संकल्प लेकर बैठ गया कि लक्ष्य पाए बिना नहीं उठेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कवी सांगतो की शरीर झिजले, पण त्याच्या सभोवतालचा प्रकाश झिजला नाही. फक्त त्वचा आणि हाडे उरली होती, तरीही तो समुद्रासारखा चमकत होता, आणि कवी त्याला शरद ऋतूतल्या चंद्रासारखे चित्रित करतो, शुक्ल पक्षाच्या सुरुवातीला. तरीही त्याला दिसले की हा मुक्ती किंवा पूर्ण ज्ञानाचा मार्ग नाही. भूक आणि तहानेने थकलेले मन, त्याला वाटले, जे मनाने गाठायचे आहे ते गाठू शकत नाही. शांततेसाठी स्थिर शरीर हवे, म्हणून त्याने भोजन करण्याचे ठरवले.\n\nतो नैरंजनेत स्नान करून काठावर चढला, आणि वृक्षांच्या फांद्या त्याला आधार देण्यासाठी वाकल्या. नंदबला नावाच्या एका गवळ्याच्या मुलीने अचानक आनंदाने प्रेरित होऊन त्याला नमस्कार केला आणि त्याला दूध घेण्यास राजी केले. जेव्हा त्याने भोजन करून शक्ती परत मिळवली, तेव्हा ते पाच भिक्षू त्याला सोडून गेले, जसे मुक्त झाल्यावर आत्म्याला इंद्रिये सोडून जातात. एकटा तो एका पिंपळाखाली गेला आणि तेथे गवत पसरले. नाग राजा काल याने त्याची स्तुती केली आणि सांगितले की तो त्याच दिवशी नक्की फळ मिळवेल. मग तो हा निश्चय करून बसला की ध्येय गाठल्याशिवाय उठणार नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Verily thou art a worthy vessel to receive this highest religion",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 12.9 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 12.9 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 12.9 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Arada greets the prince as someone ready to learn his teaching.",
+   "hi": {
+    "text": "आराड राजकुमार का स्वागत उस व्यक्ति के रूप में करते हैं जो उनकी शिक्षा ग्रहण करने के लिए तैयार है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "आराड राजपुत्राचे स्वागत अशा व्यक्तीच्या रूपात करतात जी त्यांची शिकवण घ्यायला तयार आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When a teacher or a system gives you a great deal but not everything, how do you thank them and still go on looking?",
+  "hi": {
+   "text": "जब कोई गुरु या कोई प्रणाली तुम्हें बहुत कुछ दे, पर सब कुछ नहीं, तो तुम उसका धन्यवाद कैसे करते हो और फिर भी खोज कैसे जारी रखते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा एखादा गुरू किंवा एखादी प्रणाली तुम्हाला खूप काही देते, पण सर्वकाही नाही, तेव्हा तुम्ही त्यांचे आभार कसे मानता आणि तरीही शोध कसा चालू ठेवता?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Honest seeking learns from every teacher, honours what is good, and has the courage to say, not yet complete.",
+  "hi": {
+   "text": "ईमानदार खोजी हर गुरु से सीखता है, जो अच्छा है उसका सम्मान करता है, और यह कहने का साहस रखता है कि अभी पूरा नहीं हुआ।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रामाणिक शोधक प्रत्येक गुरूकडून शिकतो, जे चांगले आहे त्याचा सन्मान करतो, आणि अजून पूर्ण झालेले नाही असे म्हणण्याचे धैर्य ठेवतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 12; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 12; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 12; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

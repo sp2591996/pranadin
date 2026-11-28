@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-fourteen-dreams",
+ "order": 3,
+ "part": "conception",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Fourteen Dreams",
+  "hi": {
+   "text": "चौदह स्वप्न",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चौदा स्वप्ने",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "On the night he enters her womb, Queen Trishala sees a procession of great images, and wakes her husband to ask what they mean.",
+  "hi": {
+   "text": "जिस रात वे उनके गर्भ में प्रवेश करते हैं, उस रात रानी त्रिशला महान प्रतिमाओं की एक शोभायात्रा देखती हैं, और पति को जगाकर पूछती हैं कि उनका अर्थ क्या है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्या रात्री ते त्यांच्या गर्भात प्रवेश करतात, त्या रात्री राणी त्रिशला महान प्रतिमांची मिरवणूक पाहते, आणि पतीला जागे करून त्याचा अर्थ विचारते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-dreams.webp",
+   "w": 858,
+   "h": 1100,
+   "caption": {
+    "en": "Two pages with miniatures from a Kalpa Sutra manuscript (Walters Art Museum)",
+    "hi": {
+     "text": "कल्पसूत्र पांडुलिपि के दो लघुचित्र पृष्ठ (वॉल्टर्स कला संग्रहालय)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कल्पसूत्र हस्तलिखितातील लघुचित्रांची दोन पाने (वॉल्टर्स कला संग्रहालय)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Indian_-_Two_Illustrated_Pages_from_a_%22Kalpasutra%22_Manuscript_-_Walters_W910.jpg"
+  },
+  {
+   "src": "/stories/mahavira/m-vow.webp",
+   "w": 1200,
+   "h": 535,
+   "caption": {
+    "en": "Siddhartha hears Trishala's recitation of her dreams (Cleveland)",
+    "hi": {
+     "text": "सिद्धार्थ त्रिशला से उनके स्वप्न सुनते हुए (क्लीवलैंड)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धार्थ त्रिशलेकडून तिची स्वप्ने ऐकताना (क्लीव्हलँड)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anonymous, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Unknown_artist_-_Kalpa-sutra_Manuscript_with_24_Miniatures,_Siddhartha_Hears_the_Recitation_of_Trisala%27s_Dreams_-_1932.119.8_-_Cleveland_Museum_of_Art.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The queen's chamber",
+    "hi": {
+     "text": "रानी का कक्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राणीचा कक्ष",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Kalpa Sutra stops to describe the place where Trishala was sleeping. The inside of her dwelling was decorated with pictures, the outside whitewashed, the ceiling painted, and jewels scattered the darkness. The floor was smooth and marked with auspicious figures. Flowers of five colours lay strewn about and the fragrance of aloe and frankincense curled through the air.\n\nHer bed was long and raised at both ends, hollow in the middle, soft as the sand of the Ganges bank, covered with fine linen and hung with red curtains. There Trishala lay in the light sleep between waking and dreaming, in the very night when the embryo of the Venerable One had been placed in her womb. The text gives so much room to the room because this was the hour the whole age had been waiting for. A woman of the royal house was about to see what only the mothers of Tirthankaras and universal emperors see.",
+    "hi": {
+     "text": "कल्पसूत्र उस स्थान का वर्णन करने के लिए रुकता है जहाँ त्रिशला सो रही थीं। उनके निवास का भीतरी भाग चित्रों से सजा था, बाहर सफ़ेदी थी, छत पर चित्रकारी थी, और रत्न अँधेरे में बिखरे थे। फ़र्श चिकना था और उस पर मंगल-चिह्न बने थे। पाँच रंगों के फूल बिखरे थे, और अगरु तथा लोबान की सुगंध हवा में तैर रही थी।\n\nउनकी शय्या लंबी थी, दोनों सिरों पर ऊँची, बीच में धँसी हुई, गंगा तट की रेत जैसी कोमल, बारीक वस्त्र से ढकी और लाल परदों से लटकी हुई। वहीं त्रिशला जागने और स्वप्न देखने के बीच की हल्की नींद में लेटी थीं, उसी रात में जब पूज्य भगवान का गर्भ उनके उदर में रखा गया था। पाठ कक्ष को इतना स्थान इसलिए देता है क्योंकि यह वह घड़ी थी जिसकी प्रतीक्षा पूरा युग कर रहा था। राजकुल की एक स्त्री वह देखने वाली थी जो केवल तीर्थंकरों और चक्रवर्ती सम्राटों की माताएँ देखती हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कल्पसूत्र त्या जागेचे वर्णन करण्यासाठी थांबते जिथे त्रिशला झोपल्या होत्या. त्यांच्या निवासाचा आतील भाग चित्रांनी सजवलेला होता, बाहेरून पांढरा रंग दिलेला होता, छत रंगवलेले होते, आणि अंधारात रत्ने विखुरलेली होती. जमीन गुळगुळीत होती आणि तिच्यावर मंगल चिन्हे होती. पाच रंगांची फुले पसरलेली होती, आणि अगरू व धुपाचा सुगंध हवेत पसरला होता.\n\nत्यांची शय्या लांब होती, दोन्ही टोकांना उंचावलेली, मधे खोल, गंगेच्या काठच्या वाळूसारखी मऊ, बारीक वस्त्राने झाकलेली आणि लाल पडद्यांनी लटकलेली. तिथे त्रिशला जागेपणी आणि स्वप्नात यांच्या मधल्या हलक्या झोपेत पडल्या होत्या, त्याच रात्री जेव्हा पूज्य भगवानांचा गर्भ त्यांच्या उदरात ठेवला गेला. पाठ त्या कक्षाला एवढी जागा देतो कारण ती घडी संपूर्ण युग ज्याची वाट पाहत होते तिची होती. राजकुळातील एक स्त्री असे काही पाहणार होती जे फक्त तीर्थंकर आणि चक्रवर्ती सम्राटांच्या माता पाहतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The elephant, the bull and the lion",
+    "hi": {
+     "text": "हाथी, बैल और सिंह",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हत्ती, बैल आणि सिंह",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "First came an elephant of the whitest colour, whiter than a cloud or a heap of pearls or the milk ocean, with four great tusks, strong thighs and a deep voice like thunder. Second came a bull, white as lotus petals, with a splendid hump, a glossy hide and a shining light all around it. The text says he foretold innumerable good qualities.\n\nThird came a lion leaping down from the sky toward her face. The sutra spends many lines on him: white as pearls, with strong forearms, a tender red mouth, eyes like lightning, a soft white mane and a curling, flicking tail. The elephant, bull and lion are among the oldest signs of greatness in India: gentleness with power, patient strength, and fearless courage. Together they open the sequence, each one more vivid than the last, and Trishala sees them without fear.",
+    "hi": {
+     "text": "पहले एक हाथी आया, जो बादल, मोतियों के ढेर या क्षीरसागर से भी अधिक उजला था, उसके चार बड़े दाँत थे, सुदृढ़ जाँघें थीं, और गर्जन जैसी गहरी आवाज़ थी। दूसरा एक बैल आया, कमल की पंखुड़ियों जैसा सफ़ेद, सुंदर कूबड़ वाला, चिकने चमड़े वाला, और चारों ओर चमकता प्रकाश। पाठ कहता है कि उसने असंख्य सद्गुणों का संकेत दिया।\n\nतीसरा एक सिंह था जो आकाश से उनके मुख की ओर कूदता हुआ उतर रहा था। सूत्र उस पर कई पंक्तियाँ खर्च करता है: मोतियों जैसा सफ़ेद, सुदृढ़ भुजाओं वाला, कोमल लाल मुख, बिजली जैसी आँखें, मुलायम सफ़ेद अयाल, और लहराती, झटकती पूँछ। हाथी, बैल और सिंह भारत के सबसे प्राचीन महानता के चिह्नों में से हैं: शक्ति के साथ कोमलता, धैर्यपूर्ण बल और निर्भय साहस। वे मिलकर स्वप्नों का क्रम आरंभ करते हैं, हर एक पिछले से अधिक स्पष्ट, और त्रिशला उन्हें बिना भय के देखती हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पहिल्यांदा एक हत्ती आला, जो ढगापेक्षा, मोत्यांच्या राशीपेक्षा किंवा क्षीरसागरापेक्षाही अधिक शुभ्र होता, त्याला चार मोठे सुळे होते, बळकट मांड्या होत्या, आणि गडगडाटासारखा खोल आवाज होता. दुसरा एक बैल आला, कमळाच्या पाकळ्यांसारखा पांढरा, सुंदर कुबड असलेला, चकचकीत कातडीचा, आणि भोवताली तेजस्वी प्रकाश असलेला. पाठ सांगतो की त्याने असंख्य सद्गुणांचे भाकीत केले.\n\nतिसरा एक सिंह होता, जो आकाशातून त्यांच्या तोंडाच्या दिशेने झेप घेत उतरत होता. सूत्र त्यावर अनेक ओळी खर्च करते: मोत्यासारखा पांढरा, बळकट दंडांचा, कोमल लाल तोंडाचा, विजेसारख्या डोळ्यांचा, मऊ पांढऱ्या केसाळ आयाळीचा, आणि वळणदार, हलणाऱ्या शेपटीचा. हत्ती, बैल आणि सिंह हे भारतातील महानतेच्या सर्वात प्राचीन खुणांपैकी आहेत: सामर्थ्यासह सौम्यता, धीरोदात्त बळ आणि निर्भय धैर्य. ते एकत्रितपणे स्वप्नांची मालिका उघडतात, प्रत्येक मागच्यापेक्षा अधिक स्पष्ट, आणि त्रिशला ते भयाशिवाय पाहते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Shri and the signs of light",
+    "hi": {
+     "text": "श्री और प्रकाश के चिह्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री आणि प्रकाशाच्या खुणा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The fourth dream was the goddess Shri, seated on a lotus on a lake at the top of the Himalayas, bathed by the trunks of two great elephants. The text describes her from her feet, like golden tortoises, up to her lotus eyes, and says her whole adornment served only to show the loveliness of her face.\n\nThen a garland of fresh flowers came down from the sky, humming with bees. Then the full moon, white as cow's milk, opened the night blossoms. Then the sun, red as the ashoka flower, drove back the dark. Then a great banner appeared, hung from a golden staff, with a white lion on its top. The sutra lingers over how many scents and colours are named in this part, flower after flower. It reads like a procession of everything that is auspicious in the Indian world, each image bringing a little more light into the room.",
+    "hi": {
+     "text": "चौथा स्वप्न देवी श्री का था, हिमालय के शिखर पर एक सरोवर के कमल पर विराजमान, जिन्हें दो महान हाथी अपनी सूँड़ों से स्नान करा रहे थे। पाठ उनका वर्णन पैरों से लेकर, जो सुनहरे कछुओं जैसे थे, कमल-नेत्रों तक करता है, और कहता है कि उनका समस्त शृंगार केवल उनके मुख की सुंदरता दिखाने के लिए था।\n\nफिर आकाश से ताज़े फूलों की माला उतरी, जिस पर भँवरे गूँज रहे थे। फिर पूर्णिमा का चंद्रमा, गाय के दूध जैसा उजला, जिसने रात के पुष्पों को खिलाया। फिर सूर्य, अशोक पुष्प जैसा लाल, जिसने अंधकार को दूर भगाया। फिर एक महान ध्वज प्रकट हुआ, जो स्वर्ण दंड से लटका था, जिसके शिखर पर एक श्वेत सिंह था। सूत्र उन सुगंधों और रंगों पर ठहरता है जो इस भाग में एक-एक करके गिनाए गए हैं। यह भारतीय संसार की हर शुभ वस्तु का एक जुलूस जैसा पढ़ा जाता है, जिसमें हर चित्र कमरे में थोड़ा और प्रकाश लाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चौथे स्वप्न देवी श्रीचे होते, हिमालयाच्या शिखरावरील एका सरोवरात कमळावर बसलेल्या, ज्यांना दोन मोठे हत्ती आपल्या सोंडांनी स्नान घालत होते. पाठ त्यांचे वर्णन पायांपासून, जे सोनेरी कासवांसारखे होते, कमळासारख्या डोळ्यांपर्यंत करतो, आणि सांगतो की त्यांचा सर्व शृंगार केवळ त्यांच्या मुखाचे सौंदर्य दाखवण्यासाठी होता.\n\nमग आकाशातून ताज्या फुलांची माळ खाली आली, ज्यावर भुंगे गुंजत होते. मग पौर्णिमेचा चंद्र, गाईच्या दुधासारखा शुभ्र, ज्याने रात्रीची फुले उमलवली. मग सूर्य, अशोकाच्या फुलासारखा लाल, ज्याने अंधार दूर केला. मग एक मोठा ध्वज प्रकट झाला, सोन्याच्या दांड्यावर लटकलेला, ज्याच्या शिखरावर एक पांढरा सिंह होता. सूत्र या भागात गिनलेल्या सुगंधांवर आणि रंगांवर फूल-फूल करत थांबते. हे भारतीय जगातील प्रत्येक शुभ गोष्टीची मिरवणूक आहे असे वाचले जाते, जिथे प्रत्येक प्रतिमा खोलीत थोडा अधिक प्रकाश आणते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The vase, the lake, the ocean, the palace",
+    "hi": {
+     "text": "कलश, सरोवर, सागर और भवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कलश, सरोवर, सागर आणि महाल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "She saw a full vase of gleaming metal, brimming with clean water and wreathed in lotuses, the abode of good fortune. She saw a lake covered with lotuses opening to the morning sun, with swans and cranes resting on it and water drops shining like pearls on the leaves. She saw the ocean of milk, heaving with enormous waves and rushing to the shore.\n\nThen a celestial palace, shining like the morning sun, with a thousand and eight golden columns, hung with garlands and filled with the sound of heavenly drums and musicians. Last came a heap of jewels, rising like Mount Meru and lighting up the sky, and then a smokeless fire fed with golden ghee, its flames pressing into each other as if baking the firmament. After the fourteenth, the queen woke, the text says, with the hair of her body standing up for joy. In the Digambara tradition the list is longer, with sixteen dreams, adding a pair of fish and a throne.",
+    "hi": {
+     "text": "उन्होंने एक पूर्ण कलश देखा, चमकती धातु का, स्वच्छ जल से भरा और कमलों से सजा, जो सौभाग्य का निवास है। उन्होंने एक सरोवर देखा, जो सूर्योदय की ओर खिले कमलों से ढका था, जिस पर हंस और सारस विश्राम कर रहे थे, और पत्तों पर जल की बूँदें मोतियों की तरह चमक रही थीं। उन्होंने क्षीरसागर देखा, भारी लहरों से उछलता और तट की ओर दौड़ता।\n\nफिर एक दिव्य भवन, प्रभात सूर्य की तरह चमकता, जिसमें एक हज़ार आठ स्वर्ण स्तंभ थे, माला से सजा और स्वर्गीय ढोलों और संगीतकारों की ध्वनि से भरा। अंत में रत्नों की राशि आई, जो मेरु पर्वत की तरह ऊँची उठी और आकाश को प्रकाशित करती हुई, और फिर एक धुआँ-रहित अग्नि, जो स्वर्ण घृत से पोषित थी, उसकी लपटें एक-दूसरे में दबती हुईं, मानो आकाश को पका रही हों। चौदहवें स्वप्न के बाद रानी जागीं, पाठ कहता है, शरीर के रोम हर्ष से खड़े हुए। दिगंबर परंपरा की सूची लंबी है, सोलह स्वप्नों के साथ, जिसमें मछलियों का जोड़ा और सिंहासन भी जुड़े हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांनी एक पूर्ण कलश पाहिला, चमकत्या धातूचा, स्वच्छ पाण्याने भरलेला आणि कमळांनी सजलेला, जो सौभाग्याचे निवासस्थान आहे. त्यांनी एक सरोवर पाहिले, जे सूर्योदयाकडे उमललेल्या कमळांनी झाकलेले होते, ज्यावर हंस आणि करकोचे विसावलेले होते, आणि पानांवरचे पाण्याचे थेंब मोत्यांसारखे चमकत होते. त्यांनी क्षीरसागर पाहिला, प्रचंड लाटांनी उसळणारा आणि किनाऱ्याकडे धावणारा.\n\nमग एक दिव्य महाल, सकाळच्या सूर्यासारखा झळकणारा, ज्याला एक हजार आठ सोनेरी खांब होते, माळांनी सजलेला आणि स्वर्गीय ढोल व वादकांच्या आवाजाने भरलेला. शेवटी रत्नांचा ढीग आला, मेरू पर्वताप्रमाणे उंच उठणारा आणि आकाश उजळवणारा, आणि मग धूररहित अग्नी, सोन्याच्या तुपाने पोसलेला, त्याच्या ज्वाळा एकमेकांवर दाबल्या जाणाऱ्या, जणू आकाश भाजत असाव्यात. चौदाव्या नंतर राणी जागी झाली, पाठ सांगतो, आनंदाने तिच्या अंगावरचे केस उभे राहिले. दिगंबर परंपरेतील यादी अधिक लांब आहे, सोळा स्वप्नांसह, ज्यात माशांची जोडी आणि सिंहासनही जोडले आहे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Waking the king",
+    "hi": {
+     "text": "राजा को जगाना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाला जागे करणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Trishala rose at once. Neither hasty nor trembling, she came down from the footstool and walked with the smooth, even gait of the royal swan to the couch of King Siddhartha. She woke him with words the sutra calls kind, pleasing, tender and sweet, and with his permission she sat down on a chair inlaid with jewels. Then she told him each dream in turn and asked what they meant.\n\nSiddhartha listened and thought them over with his own mind. He told her they were illustrious and blessed, and that she would give birth to a son who would be the banner of their family, the lamp of the family, its crown and its pride. Trishala accepted his words with joy. Then, afraid that some bad dream might drive the good ones away, she did not go back to sleep. She stayed awake the rest of the night listening to good stories of gods and of holy men.",
+    "hi": {
+     "text": "त्रिशला तुरंत उठीं। न जल्दबाज़ी में, न काँपते हुए, वे पादपीठ से उतरीं और राजहंस जैसी सहज, समान चाल से राजा सिद्धार्थ की शय्या तक गईं। उन्होंने उन्हें ऐसे शब्दों से जगाया जिन्हें सूत्र कोमल, मनोहर, स्नेहिल और मधुर कहता है, और पति की अनुमति से रत्नजटित आसन पर बैठीं। फिर उन्होंने एक-एक स्वप्न सुनाया और पूछा कि उनका अर्थ क्या है।\n\nसिद्धार्थ ने सुना और अपनी बुद्धि से उन पर विचार किया। उन्होंने कहा कि वे उज्ज्वल और मंगलकारी हैं, और वे एक ऐसे पुत्र को जन्म देंगी जो उनके कुल की पताका होगा, कुल का दीपक, उसका मुकुट और उसका गौरव। त्रिशला ने उनके शब्द हर्ष से स्वीकार किए। फिर, इस भय से कि कोई बुरा स्वप्न अच्छे स्वप्नों को भगा न दे, वे पुनः नहीं सोईं। शेष रात्रि वे देवताओं और सज्जन पुरुषों की अच्छी कथाएँ सुनते हुए जागती रहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्रिशला लगेच उठली. घाईने नव्हे, कापत नव्हे, ती पादपीठावरून उतरली आणि राजहंसासारख्या सहज, समान चालीने राजा सिद्धार्थांच्या शय्येकडे गेली. सूत्र ज्यांना सौम्य, मनोहर, स्नेहपूर्ण आणि मधुर म्हणते अशा शब्दांनी तिने त्यांना जागे केले, आणि पतीच्या परवानगीने रत्नजडित आसनावर बसली. मग तिने एकेक स्वप्न सांगितले आणि त्याचा अर्थ विचारला.\n\nसिद्धार्थांनी ऐकले आणि आपल्या बुद्धीने त्यावर विचार केला. ती शुभ आणि तेजस्वी आहेत, असे ते म्हणाले, आणि ती एका अशा पुत्राला जन्म देईल जो त्यांच्या कुळाची पताका, कुळाचा दीप, त्याचा मुकुट आणि अभिमान असेल. त्रिशलेने आनंदाने त्यांचे शब्द स्वीकारले. मग, कोणतेही वाईट स्वप्न चांगल्या स्वप्नांना घालवून देईल या भीतीने, ती पुन्हा झोपली नाही. उरलेली रात्र ती देवांच्या आणि सत्पुरुषांच्या चांगल्या कथा ऐकत जागी राहिली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Every mother of a Tirthakara sees these fourteen dreams in that night in which the famous Arhat enters her womb.",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §46 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §46 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §46 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The fourteen dreams are the sign that marks the coming of a Tirthankara.",
+   "hi": {
+    "text": "चौदह स्वप्न उस संकेत के रूप में हैं जो तीर्थंकर के आगमन को चिह्नित करता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "चौदा स्वप्ने हे ते चिन्ह आहे जे तीर्थंकरांचे आगमन दर्शवते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When you have something good happen, how do you protect it, by sharing it, by being still, or by something else?",
+  "hi": {
+   "text": "जब तुम्हारे जीवन में कोई अच्छी बात घटती है, तो तुम उसकी रक्षा कैसे करते हो, उसे बाँटकर, शांत रहकर, या किसी और तरह से?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुझ्या आयुष्यात जेव्हा काही चांगले घडते, तेव्हा तू त्याचे रक्षण कसे करतोस, ते वाटून, शांत राहून, की आणखी कशाने?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Trishala guarded her good dreams by filling the night with good stories, a reminder that what we feed our minds shapes what stays with us.",
+  "hi": {
+   "text": "त्रिशला ने रात को अच्छी कथाओं से भरकर अपने शुभ स्वप्नों की रक्षा की, यह याद दिलाते हुए कि हम अपने मन को जो खिलाते हैं, वही हमारे पास टिकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "त्रिशलेने रात्र चांगल्या कथांनी भरून आपल्या शुभ स्वप्नांचे रक्षण केले, हे आठवण करून देत की आपण मनाला जे पुरवतो तेच आपल्यासोबत राहते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§31–55; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§31–55; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§31–55; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

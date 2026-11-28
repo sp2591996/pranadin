@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-defeat-of-mara",
+ "order": 13,
+ "part": "awakening",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Defeat of Mara",
+  "hi": {
+   "text": "मार की पराजय",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "माराचा पराभव",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "On the night of his awakening, the seeker is tested by the lord of desire, his arrows, his daughters and a host of terrifying shapes.",
+  "hi": {
+   "text": "ज्ञानप्राप्ति की रात में साधक की परीक्षा कामदेव के बाणों, उसकी पुत्रियों और भयानक रूपों की सेना से होती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्ञानप्राप्तीच्या रात्री साधकाची परीक्षा कामदेवाचे बाण, त्याच्या कन्या आणि भयंकर रूपांच्या सेनेकडून घेतली जाते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-mara-1.webp",
+   "w": 900,
+   "h": 641,
+   "caption": {
+    "en": "The Buddha beneath the bodhi tree, painted scroll",
+    "hi": {
+     "text": "बोधि वृक्ष के नीचे बुद्ध, चित्रित पट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बोधिवृक्षाखालील बुद्ध, रंगवलेला पट",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown artist, CC BY 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha,_resisting_the_demons_of_Mara,_Wellcome_V0046085.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The lord of desire grows afraid",
+    "hi": {
+     "text": "कामदेव को भय होता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कामदेव घाबरतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the great sage sat down with his mind set on the highest knowledge, the whole world rejoiced, but one being was afraid. Ashvaghosha calls him Mara, the enemy of the good law, and says he is also known as Kama, the god of desire, who carries a bow of flowers and rules the realm of wanting. His three sons were named Confusion, Gaiety and Pride, and his three daughters Lust, Delight and Thirst. They saw their father downcast and asked why.\n\nHe told them. This sage, he said, wears the armour of resolve and has drawn the arrow of wisdom with the barb of truth, and he intends to conquer my realms. If he succeeds and shows the world the path to final peace, my whole kingdom will be empty. While he is still within my reach and his inner sight is not yet won, I will attack him, as the swollen strength of a river attacks a dam. The poem is giving a face to every pull a person feels away from the path.",
+    "hi": {
+     "text": "जब महान मुनि उच्चतम ज्ञान में मन लगाकर बैठे, तो सारा संसार आनंदित हुआ, पर एक प्राणी भयभीत था। अश्वघोष उसे मार कहते हैं, सद्धर्म का शत्रु, और बताते हैं कि उसे काम भी कहा जाता है, वह देवता जो फूलों का धनुष धारण करता है और इच्छा के राज्य पर शासन करता है। उसके तीन पुत्र थे, भ्रम, उल्लास और अभिमान, और तीन पुत्रियाँ, वासना, आनंद और तृष्णा। उन्होंने पिता को उदास देखा और पूछा कि क्या हुआ।\n\nउसने बताया। यह मुनि, उसने कहा, दृढ़ संकल्प का कवच पहने है और सत्य की नोक वाला ज्ञान का बाण चढ़ा चुका है, और वह मेरे राज्यों को जीतने का इरादा रखता है। यदि वह सफल हुआ और संसार को परम शांति का मार्ग दिखा दिया, तो मेरा पूरा राज्य सूना हो जाएगा। जब तक वह मेरी पहुँच में है और उसकी अंतर्दृष्टि अभी जीती नहीं गई, मैं उस पर आक्रमण करूँगा, जैसे नदी का उफनता बल बाँध पर हमला करता है। काव्य मार की ओर खिंचाव को मनुष्य के मन में उठने वाले हर उस आकर्षण का चेहरा देता है जो उसे मार्ग से दूर खींचता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जेव्हा महान मुनी परम ज्ञानावर मन एकाग्र करून बसले, तेव्हा सारे जग आनंदित झाले, पण एक प्राणी भयभीत झाला. अश्वघोष त्याला मार म्हणतात, सद्धर्माचा शत्रू, आणि सांगतात की त्याला कामदेवही म्हटले जाते, तो देव जो फुलांचे धनुष्य धारण करतो आणि इच्छेच्या राज्यावर शासन करतो. त्याला तीन पुत्र होते, भ्रम, उल्हास आणि अभिमान, आणि तीन कन्या, वासना, आनंद आणि तृष्णा. त्यांनी पित्याला उदास पाहिले आणि विचारले की काय झाले.\n\nत्याने सांगितले. हा मुनी, तो म्हणाला, दृढ संकल्पाचे कवच घालून आहे आणि सत्याच्या टोकाचे ज्ञानबाण सज्ज करून बसला आहे, आणि त्याला माझी राज्ये जिंकायची आहेत. जर तो यशस्वी झाला आणि जगाला परम शांतीचा मार्ग दाखवला, तर माझे सारे राज्य ओसाड होईल. तो जोपर्यंत माझ्या आवाक्यात आहे, आणि त्याची अंतर्दृष्टी अजून जिंकली गेली नाही, तोपर्यंत मी त्याच्यावर हल्ला करीन, जसे नदीचा उफाळलेला जोर बंधाऱ्यावर हल्ला करतो. काव्य माराकडे ओढ घेणाऱ्या, माणसाला मार्गापासून दूर खेचणाऱ्या प्रत्येक आकर्षणाला एक चेहरा देते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The flower arrows",
+    "hi": {
+     "text": "फूलों के बाण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फुलांचे बाण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Mara took up his bow of flowers and his five infatuating arrows and went to the foot of the fig tree with his children. Holding the arrow on the string, he spoke to the calm man seated there. Up, he said, you who fear death. Follow your own duty as a warrior. Win the lower worlds by your arrows, and then the higher worlds of Indra. A mendicant's life, he said, does not suit one born into a family of royal sages.\n\nHe held up the arrow that, in the old stories, had made even great sages mad with desire. But the Shakya sage did not change his posture. Mara shot the arrow, and his sons and daughters stood before the sage, and still there was no sign that he noticed. Mara sank down, and said slowly to himself that this was the arrow that had pierced the great god Shiva with love and shaken him from his vow. Can this man be without feeling? Is this not the very same arrow?",
+    "hi": {
+     "text": "मार अपना फूलों का धनुष और पाँच मोहक बाण लेकर अपनी संतानों के साथ पीपल के वृक्ष के नीचे गया। बाण को डोरी पर चढ़ाकर उसने उस शांत मनुष्य से कहा जो वहाँ बैठा था। उठो, उसने कहा, तुम जो मृत्यु से डरते हो। योद्धा के रूप में अपना कर्तव्य निभाओ। अपने बाणों से निचले लोक जीतो, फिर इंद्र के उच्च लोक। भिक्षु का जीवन, उसने कहा, उस कुल के लिए उचित नहीं जिसमें राजर्षि जन्मे हैं।\n\nउसने वह बाण उठाया जिसने पुराने कथानकों में महान ऋषियों तक को वासना से पागल कर दिया था। पर शाक्य मुनि ने अपनी मुद्रा नहीं बदली। मार ने बाण छोड़ा, और उसकी संतानें मुनि के सामने आईं, फिर भी उन्होंने कोई संकेत नहीं दिया कि उन्होंने देखा भी है। मार नीचे बैठ गया और धीरे-धीरे अपने आप से बोला कि यही बाण था जिसने महादेव शिव को प्रेम से बींधकर उनका व्रत तोड़ा था। क्या यह मनुष्य भावनाहीन है? क्या यह वही बाण नहीं है?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मार आपले फुलांचे धनुष्य आणि पाच मोहक बाण घेऊन आपल्या संततीसह पिंपळाच्या झाडाखाली गेला. बाण दोरीवर चढवून त्याने शांत बसलेल्या माणसाला सांगितले. ऊठ, तो म्हणाला, तू जो मृत्यूला घाबरतोस. योद्ध्याप्रमाणे आपले कर्तव्य पार पाड. आपल्या बाणांनी खालचे लोक जिंक, मग इंद्राचे उच्च लोक. भिक्षूचे जीवन, तो म्हणाला, राजर्षींच्या कुळात जन्मलेल्याला शोभत नाही.\n\nत्याने तो बाण उचलला ज्याने जुन्या कथांमध्ये महान ऋषींनाही वासनेने वेडे केले होते. पण शाक्य मुनींनी आपली मुद्रा बदलली नाही. माराने बाण सोडला, आणि त्याची मुले व कन्या मुनींसमोर आल्या, तरीही त्यांनी आपण पाहिले आहे असे कोणतेही चिन्ह दिले नाही. मार खाली बसला आणि हळूच स्वतःशी म्हणाला की हाच तो बाण होता ज्याने महादेव शिवाला प्रेमाने विद्ध करून त्याचा संकल्प मोडवला होता. हा माणूस भावनाशून्य आहे का? हा तोच बाण नाही का?",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "An army of strange shapes",
+    "hi": {
+     "text": "विचित्र रूपों की सेना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विचित्र रूपांची सेना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then Mara called his army. They came with every kind of form, with the faces of boars, fish, horses, camels, tigers and bears, some with one eye and some with many faces, some with swollen bellies, some with knees like water pots, some carrying headless bodies. Some were as tall as palm trees and some small as children, some dancing with tridents, some dragging clubs, and one blazing flames from every hair. They surrounded the tree on every side, waiting for their lord's command.\n\nAshvaghosha lets nature itself react. The sky did not shine, the earth shook, a fierce wind blew, the stars were dark, and the oceans were disturbed. The mountain spirits and the serpents who honoured the Law were angry. But the pure gods, who feel no anger, only pity for Mara. Seeing the great sage remain unmoved among the host, the poet compares him to a lion sitting in the middle of a herd of oxen. The sage was neither frightened nor disturbed. In the poem he watches the army as one watches rough children at play.",
+    "hi": {
+     "text": "तब मार ने अपनी सेना बुलाई। वे हर प्रकार के रूप में आए: सूअर, मछली, घोड़े, ऊँट, बाघ और भालू के मुख वाले, कोई एक आँख वाला और कोई अनेक मुख वाला, कोई फूले पेट वाला, कोई घड़े जैसे घुटनों वाला, कोई धड़ मात्र उठाए हुए। कुछ ताड़ के वृक्ष जितने ऊँचे थे और कुछ बालकों जितने छोटे, कोई त्रिशूल लेकर नाचता, कोई गदा घसीटता, और एक के हर बाल से ज्वालाएँ निकल रही थीं। वे वृक्ष को चारों ओर से घेरकर अपने स्वामी के आदेश की प्रतीक्षा करने लगे।\n\nअश्वघोष प्रकृति को स्वयं प्रतिक्रिया करते हुए दिखाते हैं। आकाश में प्रकाश न रहा, धरती काँपी, प्रचंड वायु चली, तारे धूमिल हो गए और समुद्र विचलित हुए। पर्वतों के देवता और धर्म का सम्मान करने वाले नाग क्रोधित हो उठे। परंतु शुद्ध देव, जिन्हें क्रोध नहीं होता, केवल मार पर दया करते थे। सेना के बीच महान मुनि को अविचलित देखकर कवि उनकी तुलना उस सिंह से करते हैं जो बैलों के झुंड के बीच बैठा हो। मुनि न डरे न विचलित हुए। काव्य में वे सेना को ऐसे देखते हैं जैसे कोई शरारती बच्चों का खेल देखता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेव्हा मार आपल्या सेनेला बोलावू लागला. ते सर्व प्रकारच्या रूपांत आले: डुकराची, माशाची, घोड्याची, उंटाची, वाघ आणि अस्वलाची तोंडे असलेले, कोणी एका डोळ्याचे, कोणी अनेक तोंडांचे, कोणाचे पोट फुगलेले, कोणाचे गुडघे माठासारखे, कोणी फक्त धड उचललेले. काही ताडाच्या झाडाइतके उंच होते आणि काही मुलांइतके लहान, कोणी त्रिशूळ घेऊन नाचत, कोणी गदा ओढत, आणि एकाच्या प्रत्येक केसातून ज्वाला निघत होत्या. त्यांनी झाडाला चारही बाजूंनी वेढले आणि आपल्या स्वामीच्या आदेशाची वाट पाहू लागले.\n\nअश्वघोष निसर्गालाही प्रतिक्रिया देताना दाखवतात. आकाश प्रकाशहीन झाले, पृथ्वी हलली, प्रचंड वारा सुटला, तारे अंधुक झाले आणि समुद्र अस्वस्थ झाले. पर्वतांचे देव आणि धर्माचा आदर करणारे नाग संतप्त झाले. पण शुद्ध देव, ज्यांना राग येत नाही, ते केवळ मारवर दया करत होते. सेनेमध्ये महान मुनींना अविचल पाहून कवी त्यांची तुलना बैलांच्या कळपात बसलेल्या सिंहाशी करतो. मुनी भीत नव्हते आणि विचलितही नव्हते. काव्यात ते सेनेकडे असे पाहतात जसे कोणी खोडकर मुले खेळताना पाहतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Weapons that fail",
+    "hi": {
+     "text": "बेकार हथियार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निरुपयोगी शस्त्रे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The attacks were of every kind. A demon raised a club, and his arm was stopped as Indra's arm once was with the thunderbolt. Others lifted stones and trees and found they could not throw them. Some flung rocks into the sky, where they hung and did not fall, like coloured rays at evening. Another hurled a mass of blazing straw as large as a mountain peak, and it broke into a hundred fragments in the air.\n\nOne demon, rising like the sun, rained down a great shower of burning coals, but when they reached the foot of the tree they became a shower of red lotus petals, through what the poet calls the sage's boundless kindness. A woman with a skull in her hand flitted about, unable to settle, like a fickle mind over holy texts. Another wished to burn him with his glance and found he was no longer there. Hyenas howled, deer and elephants cried out. Among all of this the sage trembled no more than the great eagle at the noise of crows.",
+    "hi": {
+     "text": "हमले हर प्रकार के थे। एक दानव ने गदा उठाई, और उसका हाथ वैसे ही थम गया जैसे एक बार इंद्र का हाथ वज्र के साथ थमा था। दूसरों ने पत्थर और वृक्ष उठाए और पाया कि वे उन्हें फेंक नहीं सकते। कुछ ने आकाश में चट्टानें फेंकीं, जो वहीं लटकी रहीं और गिरीं नहीं, जैसे संध्या के रंगीन किरण। एक ने पर्वत-शिखर जितना बड़ा जलता हुआ पुआल का ढेर फेंका, और वह हवा में सौ टुकड़ों में फूट गया।\n\nएक दानव सूर्य जैसा उठा और उसने जलते अंगारों की भारी वर्षा की, पर जब वे वृक्ष के पैरों तक पहुँचे तो लाल कमल की पंखुड़ियों की वर्षा बन गए, कवि के शब्दों में मुनि की असीम करुणा से। एक स्त्री हाथ में खोपड़ी लिए इधर-उधर उड़ती रही, टिक न पाती, जैसे पवित्र ग्रंथों पर चंचल मन टिक नहीं पाता। एक और ने अपनी दृष्टि से उन्हें भस्म करना चाहा और पाया कि वे वहाँ थे ही नहीं। लकड़बग्घे चिल्लाए, हिरण और हाथी रोए। इन सबके बीच मुनि उतने ही काँपे जितना गरुड़ कौवों की कर्कश आवाज़ से।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हल्ले सर्व प्रकारचे होते. एका राक्षसाने गदा उगारली, आणि त्याचा हात तसाच थांबला जसा एकदा इंद्राचा हात वज्रासह थांबला होता. इतरांनी दगड आणि झाडे उचलली आणि ती फेकता येत नसल्याचे पाहिले. कोणी आकाशात खडक फेकले, जे तिथेच लटकले आणि खाली पडले नाहीत, जसे संध्याकाळचे रंगीत किरण. एकाने पर्वतशिखराएवढा जळता पेंढ्याचा ढीग फेकला, आणि तो हवेत शंभर तुकड्यांत फुटला.\n\nएक राक्षस सूर्यासारखा उगवला आणि त्याने जळत्या निखाऱ्यांचा मोठा पाऊस पाडला, पण ते झाडाच्या बुडाशी पोहोचले तेव्हा लाल कमळाच्या पाकळ्यांचा वर्षाव झाले, कवीच्या शब्दांत मुनींच्या अमर्याद करुणेमुळे. एक स्त्री हातात कवटी घेऊन इकडे-तिकडे उडत राहिली, स्थिर होऊ शकली नाही, जसे पवित्र ग्रंथांवर चंचल मन स्थिर होत नाही. दुसऱ्या एकीने आपल्या दृष्टीने त्यांना भस्म करू इच्छिले, आणि ते तिथे नाहीत असे आढळले. कोल्हे ओरडले, हरणे आणि हत्ती आक्रोश करू लागले. या सर्वांत मुनी तितकेच कंपित झाले जितका गरुड कावळ्यांच्या कर्कश आवाजाने.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Mara departs",
+    "hi": {
+     "text": "मार चला जाता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मार निघून जातो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Mara, seeing that his army could not shake the sage, grew more angry and more grieved. Then an unseen being of great glory spoke from the sky. Take no more of this useless trouble upon yourself, Mara, he said. Throw aside your ill-will and go in peace. This sage cannot be shaken by you any more than the mighty mountain Meru by the wind. Fire might lose its heat and water its fluidity, but he would never give up his resolve, which he has earned through countless ages.\n\nThe voice said that one who rubs two sticks together gets fire, and one who digs the ground finds water, and to this man nothing is impossible. He is a lamp in the great darkness, it said, and no right-minded being would try to put out a lamp lit in the gloom of night. Hearing this and seeing his unshaken firmness, Mara left, dispirited. His host fled in every direction, and the moon shone clear, a rain of fragrant flowers fell, and the night grew bright like a girl with a smile.",
+    "hi": {
+     "text": "मार ने देखा कि उसकी सेना मुनि को हिला नहीं सकी, और वह और अधिक क्रोधित और दुःखी हुआ। तब आकाश से एक अदृश्य, महान तेज वाले प्राणी ने कहा। मार, अब इस व्यर्थ कष्ट को अपने ऊपर मत लो, उसने कहा। अपना द्वेष छोड़ो और शांति से चले जाओ। यह मुनि तुमसे उतना ही नहीं हिलेंगे जितना वायु से विशाल मेरु पर्वत। अग्नि अपनी उष्णता खो दे और जल अपनी तरलता, फिर भी वह अपना संकल्प नहीं छोड़ेगा, जो उसने अनगिनत युगों में अर्जित किया है।\n\nवह वाणी बोली कि जो दो लकड़ियाँ रगड़ता है वह आग पाता है, और जो धरती खोदता है वह पानी, और इस मनुष्य के लिए कुछ भी असंभव नहीं है। वह घोर अंधकार में जलता दीपक है, उसने कहा, और कोई भी सही मन वाला प्राणी रात के अंधेरे में जलते दीपक को बुझाने का प्रयत्न नहीं करेगा। यह सुनकर और उसकी अडिग दृढ़ता देखकर मार निराश होकर चला गया। उसकी सेना हर दिशा में भाग गई, चंद्रमा स्वच्छ चमका, सुगंधित फूलों की वर्षा हुई, और रात हँसती हुई नवयुवती की तरह उजली हो गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मारने पाहिले की त्याची सेना मुनींना हलवू शकली नाही, आणि तो आणखी रागावला आणि दुःखी झाला. तेव्हा आकाशातून एक अदृश्य, महातेजस्वी प्राणी बोलला. मार, आता या निरर्थक त्रासात स्वतःला गुंतवू नकोस, तो म्हणाला. तुझा द्वेष सोडून शांततेने निघून जा. हा मुनी तुझ्या स्पर्शाने तितकाच हलणार नाही जितका वाऱ्याने विशाल मेरू पर्वत. अग्नी आपली उष्णता गमावेल आणि पाणी आपली तरलता, तरी तो आपला संकल्प कधीच सोडणार नाही, जो त्याने अगणित युगांत मिळवला आहे.\n\nती वाणी म्हणाली की जो दोन लाकडे घासतो त्याला आग मिळते, आणि जो जमीन खणतो त्याला पाणी सापडते, आणि या माणसासाठी काहीही अशक्य नाही. तो घनदाट अंधारातील दिवा आहे, ती म्हणाली, आणि कोणताही सुबुद्ध प्राणी रात्रीच्या अंधारात पेटलेला दिवा विझवण्याचा प्रयत्न करणार नाही. हे ऐकून आणि त्याची अचल दृढता पाहून मार निराश होऊन निघून गेला. त्याची सेना सर्व दिशांना पळाली, चंद्र स्वच्छ चमकला, सुगंधी फुलांचा वर्षाव झाला, आणि रात्र हसणाऱ्या तरुणीसारखी उजळली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "this sage cannot be shaken by thee any more than the mighty mountain Meru by the wind",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 13.57 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 13.57 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 13.57 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "An unseen voice tells Mara that his attack will fail.",
+   "hi": {
+    "text": "एक अदृश्य वाणी मार से कहती है कि उसका हमला विफल होगा।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "एक अदृश्य वाणी मारला सांगते की त्याचा हल्ला अयशस्वी होईल.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Which of the voices that try to move you from what you know is right does not come from outside at all?",
+  "hi": {
+   "text": "तुम्हें अपने सही मार्ग से हटाने वाली जो आवाज़ें आती हैं, उनमें से कौन सी बाहर से नहीं, भीतर से आती है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुला योग्य मार्गापासून हटवू पाहणाऱ्या आवाजांपैकी कोणता बाहेरून नाही, तर आतून येतो?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Fear, craving and pride can arrive in many forms, and they lose their power when we watch them calmly instead of fighting them.",
+  "hi": {
+   "text": "भय, तृष्णा और अभिमान कई रूपों में आ सकते हैं, और जब हम उन्हें शांति से देखते हैं, तो उनकी शक्ति घट जाती है, उनसे लड़ने पर नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भय, तृष्णा आणि अभिमान अनेक रूपांत येऊ शकतात, आणि आपण त्यांना शांतपणे पाहिले की त्यांची शक्ती संपते, त्यांच्याशी लढल्याने नव्हे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 13; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 13; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 13; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

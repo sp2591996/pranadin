@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-rich-man-and-lazarus",
+ "order": 28,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Rich Man and Lazarus",
+  "hi": {
+   "text": "धनवान और लाज़र",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धनवान आणि लाजर",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A beggar lies at a rich man's gate, and after death their places are reversed.",
+  "hi": {
+   "text": "एक भिखारी धनवान के फाटक पर पड़ा रहता है, और मृत्यु के बाद दोनों की स्थिति उलट जाती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक भिकारी धनवानाच्या दारासमोर पडून असतो, आणि मृत्यूनंतर त्या दोघांची जागा उलटते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-lazarus-giordano.webp",
+   "w": 1200,
+   "h": 803,
+   "caption": {
+    "en": "Dives and Lazarus, painting attributed to Luca Giordano",
+    "hi": {
+     "text": "धनवान और लाज़र, लुका जोर्दानो को आरोपित चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धनवान आणि लाजर, लुका जॉर्डानो यांना श्रेय दिलेले चित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Attributed to Luca Giordano, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Luca_Giordano_-_Dives_and_Lazarus_-_1976.100_-_Fogg_Museum.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Told to lovers of money",
+    "hi": {
+     "text": "धन के प्रेमियों के लिए कही गई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पैशाच्या प्रेमींना सांगितलेली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the Gospel of Luke, this story follows directly after Jesus has been speaking about money and serving God. The Pharisees, Luke says, who were lovers of money, heard all this and scoffed at him. Jesus answers that they justify themselves before other people, but God knows their hearts, and what is highly esteemed among people may be detestable in God's sight.\n\nHe then tells the story that follows. It is addressed to a particular group, in a particular quarrel, and is told with the sharpness of a prophet, as if the Pharisees were to be reminded of the teachings of Moses and the prophets, which they themselves studied and treasured. The scene he describes is one of great contrast, between a lavish life and a desperate one. The mood is that of a prophetic warning, and it deserves to be read in that spirit rather than as a detailed account of the world beyond death.",
+    "hi": {
+     "text": "लूका के सुसमाचार में यह कहानी उस बात के ठीक बाद आती है जब यीशु धन और परमेश्वर की सेवा के विषय पर बोल रहे थे। लूका कहते हैं कि फरीसी, जो धन के लोभी थे, यह सब सुनकर उनकी हँसी उड़ाने लगे। यीशु उत्तर देते हैं कि वे लोगों के सामने स्वयं को धर्मी ठहराते हैं, पर परमेश्वर उनके हृदय जानता है, और जो मनुष्यों के बीच ऊँचा माना जाता है वह परमेश्वर की दृष्टि में घृणित हो सकता है।\n\nफिर वे वह कहानी सुनाते हैं जो आगे आती है। यह एक विशेष समूह को, एक विशेष विवाद में कही गई है, और एक भविष्यवक्ता की तीखी धार के साथ सुनाई गई है, मानो फरीसियों को मूसा और भविष्यवक्ताओं की शिक्षाओं की याद दिलाई जा रही हो, जिन्हें वे स्वयं पढ़ते और सँजोते थे। जो दृश्य वे चित्रित करते हैं वह बड़े अंतर का है, एक शानदार जीवन और एक निराश जीवन के बीच। भाव एक भविष्यवाणी जैसी चेतावनी का है, और इसे परलोक के विस्तृत विवरण के रूप में नहीं, बल्कि उसी भावना में पढ़ा जाना चाहिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूकाच्या शुभवर्तमानात ही कथा यीशू धन आणि देवाची सेवा याबद्दल बोलल्यानंतर लगेच येते. लूका म्हणतात की फरीसी, जे पैशाचे लोभी होते, हे सर्व ऐकून त्याची थट्टा करू लागले. यीशू उत्तर देतात की ते लोकांसमोर स्वतःला नीतिमान ठरवतात, पण देव त्यांचे हृदय जाणतो, आणि जे माणसांमध्ये मोठे मानले जाते ते देवाच्या दृष्टीने घृणास्पद असू शकते.\n\nमग ते पुढची गोष्ट सांगतात. ती एका विशिष्ट गटाला, एका विशिष्ट वादात सांगितली आहे, आणि एका संदेष्ट्याच्या तिखटपणाने सांगितली आहे, जणू फरीसींना मोशे आणि संदेष्ट्यांच्या शिकवणीची आठवण करून द्यायची आहे, जी ते स्वतः अभ्यासत आणि जपत होते. ते चित्रित करत असलेला देखावा मोठ्या विरोधाभासाचा आहे, एका ऐषारामी जीवन आणि एका हताश जीवनामधला. सूर संदेष्ट्यासारख्या इशार्याचा आहे, आणि तो मरणोत्तर जगाच्या तपशीलवार वर्णनाऐवजी त्याच भावनेने वाचला जावा.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "At the gate",
+    "hi": {
+     "text": "फाटक पर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फाटकापाशी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There was a certain rich man, clothed in purple and fine linen, who feasted sumptuously every day. Purple dye was costly, and fine linen was the clothing of the wealthy. His life is one long banquet. The story gives him no name, and at his gate lies a beggar named Lazarus, covered in sores.\n\nLazarus longs to be fed with what falls from the rich man's table, and the dogs come and lick his sores. It is a picture of complete neglect. The beggar is so close that the rich man must step past him every time he leaves home. The only name in the story belongs to the poor man, a name that means God helps, and the rich man remains nameless. The contrast is deliberate and complete, and Jesus draws it with just a few strokes so that no listener can miss it, or forget it afterwards.",
+    "hi": {
+     "text": "एक धनवान व्यक्ति था जो बैंगनी रंग के और महीन सन के वस्त्र पहनता था, और हर दिन शानदार भोज करता था। बैंगनी रंग महँगा था, और महीन सन धनवानों का वस्त्र था। उसका जीवन एक लंबे भोज जैसा था। कहानी उसे कोई नाम नहीं देती, और उसके फाटक पर लाज़र नाम का एक भिखारी पड़ा रहता है, जिसके शरीर पर घाव हैं।\n\nलाज़र ललचाता है कि धनवान की मेज़ से गिरे टुकड़ों से उसका पेट भरे, और कुत्ते आकर उसके घाव चाटते हैं। यह पूरी उपेक्षा का चित्र है। भिखारी इतना पास है कि धनवान को हर बार घर से निकलते समय उसे लाँघकर जाना पड़ता है। कहानी में एक ही नाम गरीब का है, ऐसा नाम जिसका अर्थ है परमेश्वर सहायता करता है, और धनवान बेनाम रहता है। यह विरोधाभास जानबूझकर और पूरा है, और यीशु इसे कुछ ही रेखाओं में खींचते हैं ताकि कोई श्रोता इसे चूक न सके, और बाद में भूल न सके।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक धनवान माणूस होता, जो जांभळे आणि उत्तम तागाचे वस्त्र घालत असे, आणि दररोज थाटामाटात मेजवानी करत असे. जांभळा रंग महाग होता, आणि उत्तम ताग श्रीमंतांचा पोशाख होता. त्याचे जीवन एका दीर्घ मेजवानीसारखे होते. कथा त्याला कोणतेही नाव देत नाही, आणि त्याच्या फाटकापाशी लाजर नावाचा एक भिकारी पडलेला आहे, ज्याच्या अंगावर फोड आहेत.\n\nलाजरची इच्छा आहे की धनवानाच्या मेजावरून खाली पडलेल्या तुकड्यांनी त्याचे पोट भरावे, आणि कुत्रे येऊन त्याचे फोड चाटतात. हे पूर्ण दुर्लक्षाचे चित्र आहे. भिकारी इतका जवळ आहे की धनवानाला घरातून बाहेर पडताना प्रत्येक वेळी त्याला ओलांडून जावे लागते. कथेतील एकमेव नाव गरीब माणसाचे आहे, असे नाव ज्याचा अर्थ आहे देव साहाय्य करतो, आणि धनवान नावाविना राहतो. हा विरोधाभास जाणीवपूर्वक आणि पूर्ण आहे, आणि यीशू तो काही रेषांत रेखाटतात, जेणेकरून कोणताही श्रोता त्याला चुकवणार नाही, आणि नंतर विसरणार नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The reversal",
+    "hi": {
+     "text": "उलटफेर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उलटफेर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then both men die. The beggar is carried by the angels to Abraham's side, the place of honour at the great banquet of the faithful. The rich man also dies and is buried, and in the place of the dead he is in torment. Looking up, he sees Abraham far away, with Lazarus at his side.\n\nHe calls out, Father Abraham, have mercy on me, and send Lazarus to dip the tip of his finger in water and cool my tongue. Abraham answers, Son, remember that in your lifetime you received your good things, and Lazarus in the same way bad things, but now he is comforted here and you are in anguish. Besides this, between us and you a great chasm has been fixed, so that no one can cross it. Even in his torment, the rich man still thinks of Lazarus as someone to be sent on errands, which many readers have found telling.",
+    "hi": {
+     "text": "फिर दोनों मर जाते हैं। भिखारी को स्वर्गदूत अब्राहम की गोद में ले जाते हैं, वह स्थान जो विश्वासियों के महान भोज में सम्मान का स्थान है। धनवान भी मरता है और उसे दफनाया जाता है, और मृत्यु के स्थान पर वह यातना में है। ऊपर देखते हुए वह दूर अब्राहम को देखता है, और लाज़र उसके पास है।\n\nवह पुकारता है, हे पिता अब्राहम, मुझ पर दया कर, और लाज़र को भेज कि वह अपनी उँगली का सिरा पानी में डुबोकर मेरी जीभ को ठंडा करे। अब्राहम उत्तर देता है, पुत्र, स्मरण रख कि तूने अपने जीवन में अपनी अच्छी वस्तुएँ पाईं, और लाज़र ने उसी प्रकार बुरी वस्तुएँ, पर अब वह यहाँ शांति पाता है और तू पीड़ा में है। इसके अलावा, हमारे और तुम्हारे बीच एक बड़ी खाई ठहरा दी गई है, ताकि कोई इधर से उधर न जा सके। यातना में भी धनवान अब भी लाज़र को ऐसे व्यक्ति के रूप में देखता है जिसे काम पर भेजा जा सकता है, जिसे कई पाठकों ने एक सांकेतिक बात माना है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग दोघेही मरतात. भिकार्याला स्वर्गदूत अब्राहामाच्या कुशीत नेतात, विश्वासूंच्या महान भोजातील सन्मानाचे स्थान. धनवानही मरतो आणि त्याला पुरले जाते, आणि मृतांच्या स्थानी तो यातनेत असतो. वर पाहताना त्याला दूरवर अब्राहाम दिसतो, आणि लाजर त्याच्याजवळ आहे.\n\nतो हाक मारतो, हे पिता अब्राहामा, माझ्यावर दया कर, आणि लाजरला पाठव की त्याने आपल्या बोटाचे टोक पाण्यात बुडवून माझी जीभ थंड करावी. अब्राहाम उत्तर देतो, पुत्रा, आठवण ठेव की तू तुझ्या हयातीत तुझ्या चांगल्या गोष्टी पावलास, आणि लाजरने त्याच प्रकारे वाईट गोष्टी, पण आता तो येथे सांत्वन पावतो आणि तू यातनेत आहेस. याशिवाय, आमच्या आणि तुमच्यामध्ये एक मोठी दरी ठेवली गेली आहे, जेणेकरून कोणीही इकडून तिकडे जाऊ शकत नाही. यातनेतही धनवान लाजरकडे अजूनही असा माणूस म्हणून पाहतो जो कामासाठी पाठवता येईल, जे अनेक वाचकांना सूचक वाटले आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The brothers",
+    "hi": {
+     "text": "भाई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भाऊ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The rich man then asks that Lazarus be sent to his father's house, where he has five brothers, to warn them so they will not come to this place. Abraham answers that they have Moses and the prophets, and they should listen to them. No, father Abraham, says the rich man, but if someone goes to them from the dead, they will repent.\n\nAbraham replies, If they do not listen to Moses and the prophets, neither will they be persuaded if someone rises from the dead. The story ends there, on a note that Christians have often connected to the resurrection of Jesus. But in the story itself the point is nearer to hand. The Scriptures already teach care for the poor, and the warning has been given to anyone who will hear it.",
+    "hi": {
+     "text": "फिर धनवान माँगता है कि लाज़र उसके पिता के घर भेजा जाए, जहाँ उसके पाँच भाई हैं, ताकि वह उन्हें चेतावनी दे कि वे इस स्थान पर न आएँ। अब्राहम उत्तर देता है कि उनके पास मूसा और भविष्यवक्ता हैं, उन्हें उनकी सुननी चाहिए। नहीं, पिता अब्राहम, धनवान कहता है, पर यदि मृतकों में से कोई उनके पास जाए, तो वे मन फिराएँगे।\n\nअब्राहम उत्तर देता है, यदि वे मूसा और भविष्यवक्ताओं की नहीं सुनते, तो यदि मृतकों में से कोई जी उठे तो भी वे नहीं मानेंगे। कहानी यहीं समाप्त होती है, एक ऐसे स्वर पर जिसे ईसाइयों ने अक्सर यीशु के पुनरुत्थान से जोड़ा है। पर कहानी के भीतर बात अधिक निकट की है। पवित्रशास्त्र गरीबों की देखभाल की शिक्षा पहले से देता है, और चेतावनी हर उस व्यक्ति को दे दी गई है जो सुनने को तैयार हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग धनवान मागणी करतो की लाजरला त्याच्या वडिलांच्या घरी पाठवावे, जिथे त्याचे पाच भाऊ आहेत, म्हणजे त्याने त्यांना इशारा द्यावा की ते या ठिकाणी येऊ नयेत. अब्राहाम उत्तर देतो की त्यांच्याकडे मोशे आणि संदेष्टे आहेत, त्यांनी त्यांचे ऐकावे. नाही, पिता अब्राहाम, धनवान म्हणतो, पण जर मृतांपैकी कोणी त्यांच्याकडे गेला, तर ते मन फिरवतील.\n\nअब्राहाम उत्तर देतो, जर ते मोशे आणि संदेष्ट्यांचे ऐकत नाहीत, तर मृतांपैकी कोणी उठला तरी ते पटणार नाहीत. कथा तिथेच संपते, अशा सुरात जो ख्रिस्ती लोकांनी अनेकदा यीशूच्या पुनरुत्थानाशी जोडला आहे. पण कथेच्या आत गोष्ट अधिक जवळची आहे. पवित्र शास्त्र गरीबांच्या काळजीचे शिक्षण आधीच देते, आणि इशारा प्रत्येकाला दिला गेला आहे जो ऐकण्यास तयार आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The neighbour at the gate",
+    "hi": {
+     "text": "फाटक पर पड़ा पड़ोसी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फाटकावर पडलेला शेजारी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The parable is a stark picture, not a map of the afterlife, and most readers have taken it as a story about how to live. The rich man's fault is not described as cruelty. It is indifference to a person lying at his own door. The chasm that he fixed in life, by never crossing the few steps to Lazarus, is the one that is fixed beyond it.\n\nThe lesson reaches across faiths. Almost every tradition teaches that wealth carries responsibility for those nearby who are in need. The story asks us to look at our own gates, and to notice who is lying there. It does not ask us to carry the whole world's suffering, but it asks us not to step over the person who is right in front of us. That is a modest request, and it is the one the story makes of everyone who hears it.",
+    "hi": {
+     "text": "यह दृष्टांत एक कठोर चित्र है, परलोक का नक्शा नहीं, और अधिकांश पाठकों ने इसे जीने के तरीके की कहानी के रूप में लिया है। धनवान का दोष क्रूरता के रूप में वर्णित नहीं है। वह अपने ही दरवाज़े पर पड़े एक व्यक्ति के प्रति उदासीनता है। जो खाई उसने जीवन में बना ली, लाज़र तक कुछ कदम न चलकर, वही मृत्यु के बाद स्थायी हो जाती है।\n\nयह शिक्षा सभी धर्मों को जोड़ती है। लगभग हर परंपरा सिखाती है कि धन अपने आस-पास के ज़रूरतमंद लोगों के प्रति उत्तरदायित्व लाता है। कहानी हमें अपने दरवाज़ों को देखने, और यह देखने को कहती है कि वहाँ कौन पड़ा है। वह हमसे पूरी दुनिया का दुःख उठाने को नहीं कहती, पर यह कहती है कि जो व्यक्ति ठीक हमारे सामने है उसे लाँघकर न जाएँ। यह एक विनम्र माँग है, और यही कहानी हर सुनने वाले से करती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हा दृष्टांत एक कठोर चित्र आहे, परलोकाचा नकाशा नव्हे, आणि बहुतेक वाचकांनी त्याला कसे जगायचे याची कथा म्हणून घेतले आहे. धनवानाचा दोष क्रूरता म्हणून वर्णिलेला नाही. तो आपल्याच दारात पडलेल्या माणसाबद्दलची उदासीनता आहे. जी दरी त्याने आयुष्यात निर्माण केली, लाजरपर्यंत काही पावले न जाऊन, तीच मृत्यूनंतर कायमची होते.\n\nही शिकवण सर्व धर्मांना जोडते. जवळजवळ प्रत्येक परंपरा शिकवते की संपत्ती आपल्या आसपासच्या गरजू लोकांसाठी जबाबदारी घेऊन येते. ही कथा आपल्याला आपले स्वतःचे दरवाजे पाहायला, आणि तिथे कोण पडले आहे ते लक्षात घ्यायला सांगते. ती आपल्याला संपूर्ण जगाचे दुःख वाहायला सांगत नाही, पण जो माणूस अगदी समोर आहे त्याला ओलांडून न जाण्यास सांगते. ही एक नम्र मागणी आहे, आणि प्रत्येक ऐकणार्याकडून कथा हीच मागते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "If they don’t listen to Moses and the prophets, neither will they be persuaded if one rises from the dead.",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 16:31 (World English Bible)",
+   "hi": {
+    "text": "लूका 16:31 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 16:31 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "If people will not hear the teaching already given about caring for others, even a dramatic sign will not change them.",
+   "hi": {
+    "text": "यदि लोग दूसरों की देखभाल के बारे में पहले से दी गई शिक्षा नहीं सुनेंगे, तो कोई नाटकीय चिह्न भी उन्हें नहीं बदलेगा।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जर लोक दुसर्यांच्या काळजीविषयी आधी दिलेली शिकवण ऐकणार नसतील, तर एखादे नाट्यमय चिन्हही त्यांना बदलणार नाही.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who is at your gate, someone whose need you pass every day without really seeing? What is one small step you could take toward them?",
+  "hi": {
+   "text": "तुम्हारे फाटक पर कौन है, कोई ऐसा व्यक्ति जिसकी ज़रूरत को तुम हर दिन देखे बिना गुज़र जाते हो? उसकी ओर उठाया जा सकने वाला एक छोटा कदम कौन सा है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या दारासमोर कोण आहे, असा कोणी ज्याची गरज तुम्ही रोज खरोखर न पाहता ओलांडून जाता? त्याच्याकडे उचलता येईल असे एक छोटे पाऊल कोणते?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Wealth carries the duty to notice and help the person in need at our own door, and the distance we put between us now can become permanent.",
+  "hi": {
+   "text": "धन अपने दरवाज़े पर ज़रूरतमंद व्यक्ति को देखने और उसकी मदद करने का कर्तव्य लाता है, और जो दूरी हम अभी बनाते हैं वह स्थायी हो सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संपत्ती आपल्या दारात गरजू व्यक्तीला पाहण्याचे आणि तिला मदत करण्याचे कर्तव्य घेऊन येते, आणि आपण आता जे अंतर ठेवतो ते कायमचे होऊ शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 16:14-31; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 16:14-31 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 16:14-31 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

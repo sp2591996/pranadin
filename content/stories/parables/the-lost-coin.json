@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-lost-coin",
+ "order": 25,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Lost Coin",
+  "hi": {
+   "text": "खोया हुआ सिक्का",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हरवलेले नाणे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A woman lights a lamp and sweeps her house until she finds one lost coin, then calls her neighbours to rejoice.",
+  "hi": {
+   "text": "एक स्त्री दीया जलाकर घर का कोना-कोना झाड़ती है जब तक उसे अपना खोया हुआ एक सिक्का न मिल जाए, फिर वह पड़ोसियों को आनंद मनाने के लिए बुलाती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक स्त्री दिवा लावून घर झाडते, जोपर्यंत तिचे एक हरवलेले नाणे सापडत नाही, मग ती शेजार्यांना आनंद साजरा करायला बोलावते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-lost-coin-fetti.webp",
+   "w": 651,
+   "h": 1100,
+   "caption": {
+    "en": "The parable of the lost drachma, Domenico Fetti",
+    "hi": {
+     "text": "खोई हुई दिरहम का दृष्टांत, डोमेनिको फ़ेत्ती",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हरवलेल्या नाण्याचा दृष्टांत, डोमेनिको फेत्ती",
+     "reviewed": false
+    }
+   },
+   "credit": "Domenico Fetti, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Domenico_Fetti_-_Parable_of_the_Lost_Drachma_-_WGA07857.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Why does he eat with sinners?",
+    "hi": {
+     "text": "वह पापियों के साथ क्यों खाता है?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो पापी लोकांसोबत का जेवतो?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the Gospel of Luke, tax collectors and others regarded as sinners keep gathering around Jesus to listen to him. The Pharisees and the scribes, who were careful about whom they ate with, grumble about it. This man, they say, welcomes sinners and eats with them. To share a meal in that world was to share friendship, and they thought a teacher of God ought to be more careful.\n\nJesus answers them with three parables in a row, all about something precious that is lost and found. The first is about a shepherd and a sheep, the third about a father and a son, and between them stands this short story, which Luke alone records. It is the one parable in this group in which the central figure is a woman. The setting matters, because the story is Jesus's reply to people who thought that holiness meant keeping a safe distance from those they judged unworthy.",
+    "hi": {
+     "text": "लूका के सुसमाचार में चुंगी लेने वाले और दूसरे लोग, जिन्हें पापी माना जाता था, यीशु को सुनने के लिए उनके चारों ओर जमा होते रहते हैं। फरीसी और शास्त्री, जो इस बात का ध्यान रखते थे कि वे किसके साथ भोजन करें, इस पर कुड़कुड़ाते हैं। यह आदमी पापियों का स्वागत करता है और उनके साथ खाता है, वे कहते हैं। उस संसार में साथ बैठकर भोजन करना मित्रता बाँटना था, और उन्हें लगता था कि परमेश्वर के शिक्षक को अधिक सावधान रहना चाहिए।\n\nयीशु उन्हें एक के बाद एक तीन दृष्टांतों से उत्तर देते हैं, जो सभी किसी मूल्यवान खोई हुई और फिर मिली हुई चीज़ के बारे में हैं। पहला एक चरवाहे और भेड़ के बारे में है, तीसरा एक पिता और पुत्र के बारे में, और इन दोनों के बीच यह छोटी कहानी है, जिसे केवल लूका दर्ज करते हैं। इस समूह में यह अकेला दृष्टांत है जिसकी केंद्रीय पात्र एक स्त्री है। यह संदर्भ मायने रखता है, क्योंकि यह कहानी उन लोगों का उत्तर है जो मानते थे कि पवित्रता का अर्थ है उन लोगों से सुरक्षित दूरी बनाए रखना जिन्हें वे अयोग्य समझते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूकाच्या शुभवर्तमानात जकातदार आणि पापी मानले गेलेले इतर लोक यीशूचे ऐकण्यासाठी सतत त्याच्याभोवती जमतात. फरीसी आणि शास्त्री, जे कोणाबरोबर जेवायचे याबाबत काटेकोर होते, त्यावर कुरकुर करतात. हा माणूस पापी लोकांचे स्वागत करतो आणि त्यांच्याबरोबर जेवतो, ते म्हणतात. त्या जगात एकत्र जेवणे म्हणजे मैत्री वाटून घेणे होते, आणि परमेश्वराच्या शिक्षकाने अधिक सावध असायला हवे असे त्यांना वाटत होते.\n\nयीशू त्यांना एका पाठोपाठ तीन दृष्टांतांनी उत्तर देतात, जे सर्व काही मौल्यवान हरवले आणि सापडले याबद्दल आहेत. पहिला मेंढपाळ आणि मेंढी याबद्दल आहे, तिसरा पिता आणि पुत्र याबद्दल, आणि त्यांच्या मध्ये ही छोटी कथा आहे, जी केवळ लूका नोंदवतात. या गटातील हा एकमेव दृष्टांत आहे ज्यात केंद्रस्थानी स्त्री आहे. संदर्भ महत्त्वाचा आहे, कारण ही कथा अशा लोकांना उत्तर आहे जे मानत होते की पवित्रता म्हणजे ज्यांना ते अयोग्य समजत त्यांच्यापासून सुरक्षित अंतर राखणे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Ten coins",
+    "hi": {
+     "text": "दस सिक्के",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दहा नाणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A woman has ten drachma coins. A drachma was worth about a day's wages for a labourer, so ten of them were a modest sum, perhaps the family's savings, kept in a small bundle or even worn on a headband. Nothing about her suggests wealth. Each coin counts, and the loss of one is felt at once.\n\nThen one of them is lost. Perhaps it rolled off the table or slipped through a crack in the floor, which in a small, dim home would be a real difficulty. A village house of that time had a packed earth floor, often covered with straw or rushes, and very little light from small windows. A silver coin could vanish in an instant and be nearly impossible to see. Losing even one would send her searching, because she knew exactly what it was worth to her household and could not simply forget it.",
+    "hi": {
+     "text": "एक स्त्री के पास दस दिरहम के सिक्के हैं। एक दिरहम मज़दूर की लगभग एक दिन की मज़दूरी के बराबर था, इसलिए दस सिक्के एक साधारण राशि थे, शायद परिवार की बचत, जो एक छोटी पोटली में रखी थी या शायद सिर के कपड़े पर बाँधी हुई थी। उसके बारे में कुछ भी धनवान होने का संकेत नहीं देता। हर सिक्का मायने रखता है, और एक सिक्के का खोना तुरंत महसूस होता है।\n\nफिर उनमें से एक खो जाता है। शायद वह मेज़ से लुढ़क गया या ज़मीन की दरार में फिसल गया, जो एक छोटे, अँधेरे घर में वास्तविक परेशानी होती। उस समय के गाँव के घर में मिट्टी का फर्श होता था, जिस पर अक्सर पुआल या सरकंडे बिछे होते, और छोटी खिड़कियों से बहुत कम रोशनी आती। चाँदी का सिक्का एक पल में गायब हो सकता है और उसे देखना लगभग असंभव हो सकता है। एक भी सिक्का खोने पर वह ढूँढने लगती, क्योंकि वह जानती थी कि उसकी गृहस्थी के लिए उसकी कीमत क्या है, और उसे यूँ ही भूल जाना संभव नहीं था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका स्त्रीजवळ दहा दिरहम नाणी आहेत. एक दिरहम म्हणजे मजुराच्या सुमारे एका दिवसाच्या मजुरीइतके मूल्य होते, त्यामुळे दहा नाणी ही माफक रक्कम होती, कदाचित कुटुंबाची बचत, एका छोट्या पोटलीत ठेवलेली किंवा डोक्याच्या पट्ट्यात बांधलेली. तिच्याविषयी काहीच धनवत्ता सूचित होत नाही. प्रत्येक नाणे मोजले जाते, आणि एक नाणे हरवणे लगेच जाणवते.\n\nमग त्यातील एक हरवते. कदाचित ते टेबलावरून घरंगळले किंवा जमिनीच्या भेगेतून घसरले, जे एका छोट्या, अंधार्या घरात खरी अडचण ठरली असती. त्या काळच्या गावातील घराची जमीन मातीची असे, अनेकदा त्यावर पेंढा किंवा काड्या पसरलेल्या असत, आणि लहान खिडक्यांतून फारच थोडा प्रकाश येई. चांदीचे नाणे क्षणात नाहीसे होऊ शकते आणि ते शोधणे जवळजवळ अशक्य होऊ शकते. एक नाणे हरवले तरी ती शोधू लागेल, कारण तिच्या घरासाठी त्याचे मूल्य काय आहे हे तिला नेमके माहीत होते आणि ते सहजपणे विसरता येत नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The search",
+    "hi": {
+     "text": "खोज",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शोध",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "She does not shrug and say that nine out of ten is not bad. She lights a lamp, even in daytime, because the house is too dark to see the floor. She sweeps the whole house, and she seeks diligently until she finds it. The Gospel gives us three verbs, light, sweep and seek, and in them we see a determined, patient and thorough effort.\n\nThen the moment of discovery comes, and it is described with the same warmth as the search. When she has found it, she calls together her friends and neighbours, saying, Rejoice with me, for I have found the drachma which I had lost! The woman cannot keep her happiness to herself. A single small coin, recovered, is worth a celebration to share with her friends. The house is small, but the effort is complete, and nothing in the telling suggests she minded the cost or the dust.",
+    "hi": {
+     "text": "वह यह नहीं कहती कि दस में से नौ सिक्के भी ठीक हैं। वह दिन में भी दीया जलाती है, क्योंकि घर इतना अँधेरा है कि फर्श दिखाई नहीं देता। वह पूरा घर झाड़ती है, और लगन से ढूँढती है जब तक वह उसे पा न ले। सुसमाचार हमें तीन क्रियाएँ देता है, जलाना, झाड़ना और ढूँढना, और इनमें हम एक दृढ़, धैर्यवान और पूर्ण प्रयास देखते हैं।\n\nफिर खोज की ख़ुशी का क्षण आता है, और उसका वर्णन उतनी ही गर्मजोशी से होता है जितनी खोज का। जब वह उसे पा लेती है, तो वह अपनी सहेलियों और पड़ोसियों को बुलाती है और कहती है, मेरे साथ आनंद करो, क्योंकि जो दिरहम मेरा खो गया था, वह मुझे मिल गया है! वह स्त्री अपनी खुशी अकेले नहीं रख सकती। एक छोटा सा सिक्का, जो वापस मिल गया, सहेलियों के साथ बाँटने लायक उत्सव है। घर छोटा है, पर प्रयास पूरा है, और कथा में कहीं भी यह संकेत नहीं मिलता कि उसे खर्च या धूल की परवाह थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ती खांदे उडवून म्हणत नाही की दहापैकी नऊ नाणी ठीक आहेत. ती दिवसासुद्धा दिवा लावते, कारण घर इतके अंधारे आहे की जमीन दिसत नाही. ती संपूर्ण घर झाडते, आणि ते सापडेपर्यंत काळजीपूर्वक शोधते. शुभवर्तमान आपल्याला तीन क्रियापदे देते, दिवा लावणे, झाडणे आणि शोधणे, आणि त्यातून निश्चयी, संयमी आणि परिपूर्ण प्रयत्न दिसतो.\n\nमग शोधाचा आनंदाचा क्षण येतो, आणि त्याचे वर्णन शोधाइतक्याच उबदारपणे केले आहे. ते सापडल्यावर ती आपल्या मैत्रिणींना आणि शेजार्यांना एकत्र बोलावते आणि म्हणते, माझ्याबरोबर आनंद करा, कारण माझे हरवलेले दिरहम मला सापडले आहे! ती स्त्री आपला आनंद स्वतःपाशी ठेवू शकत नाही. एक लहानसे नाणे, परत मिळालेले, मैत्रिणींबरोबर वाटून साजरा करण्याइतके मोलाचे आहे. घर लहान आहे, पण प्रयत्न पूर्ण आहे, आणि कथेत कुठेही असे सुचवलेले नाही की तिला खर्चाची किंवा धुळीची पर्वा होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Joy in the presence of the angels",
+    "hi": {
+     "text": "स्वर्गदूतों की उपस्थिति में आनंद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवदूतांच्या उपस्थितीत आनंद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus ends with the meaning. Even so, he tells his listeners, I tell you, there is joy in the presence of the angels of God over one sinner repenting. The coin stands for any person who is lost and then found, and the woman for God, whose attention does not rest while even one of those who matter to him is missing.\n\nIt is a direct reply to the Pharisees' complaint. If a woman will turn her house upside down for a coin, and call her neighbours to celebrate when it turns up, then how much more is the joy when a person is found. Eating with the people who were lost is not a lapse in holiness, Jesus suggests. It is the very thing that God himself rejoices in. The angels are described as sharing in the celebration, as if the whole of heaven were leaning in to hear the news.",
+    "hi": {
+     "text": "यीशु अर्थ के साथ समाप्त करते हैं। फिर भी, वे अपने श्रोताओं से कहते हैं, मैं तुमसे कहता हूँ, एक पापी के मन फिराने पर परमेश्वर के स्वर्गदूतों के सामने आनंद होता है। सिक्का किसी भी ऐसे व्यक्ति का चित्र है जो खोया हुआ है और फिर मिल गया है, और वह स्त्री परमेश्वर का चित्र है, जिसका ध्यान तब तक नहीं हटता जब तक उसके लिए मूल्यवान लोगों में से एक भी गायब है।\n\nयह फरीसियों की शिकायत का सीधा उत्तर है। यदि एक स्त्री एक सिक्के के लिए अपना घर उलटा-पुलटा कर देती है, और उसके मिल जाने पर पड़ोसियों को उत्सव के लिए बुलाती है, तो जब कोई व्यक्ति मिलता है तब आनंद कितना अधिक होगा। खोए हुए लोगों के साथ भोजन करना पवित्रता में चूक नहीं है, यीशु सुझाते हैं। यही वह बात है जिसमें स्वयं परमेश्वर आनंद करता है। स्वर्गदूत उस उत्सव में सहभागी बताए गए हैं, जैसे पूरा स्वर्ग यह समाचार सुनने के लिए झुककर खड़ा हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू अर्थाने समाप्ती करतात. तरीही, ते आपल्या श्रोत्यांना सांगतात, मी तुम्हांला सांगतो, एका पापी माणसाने मन फिरवल्यावर देवाच्या देवदूतांच्या उपस्थितीत आनंद होतो. ते नाणे अशा प्रत्येक व्यक्तीचे प्रतीक आहे जी हरवलेली आहे आणि मग सापडलेली आहे, आणि ती स्त्री देवाचे प्रतीक आहे, ज्याचे लक्ष तोपर्यंत हटत नाही जोपर्यंत त्याला प्रिय असलेल्यांपैकी एकही गहाळ आहे.\n\nहे फरीसींच्या तक्रारीला थेट उत्तर आहे. जर एखादी स्त्री एका नाण्यासाठी आपले घर उलटेपालटे करते, आणि ते सापडल्यावर शेजार्यांना उत्सवासाठी बोलावते, तर एखादी व्यक्ती सापडते तेव्हा आनंद किती अधिक असेल. हरवलेल्या लोकांसोबत जेवणे पवित्रतेतील चूक नाही, यीशू सुचवतात. त्याच गोष्टीत स्वतः देव आनंद करतो. देवदूत या उत्सवात सहभागी असल्याचे सांगितले आहे, जणू संपूर्ण स्वर्ग ही बातमी ऐकण्यासाठी पुढे झुकला आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Worth searching for",
+    "hi": {
+     "text": "खोजने योग्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शोधण्यासारखे मोल",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Notice that the coin does nothing in the story. It does not repent or find its own way back. It is simply sought, and the seeking is what the story praises. Christians have found great comfort in the picture of a God who looks for people with the same care that this woman gives to her coin, lamp in hand, down on her knees.\n\nReaders of other traditions may also recognise the idea that each person has a worth that does not diminish through being lost. The parable invites us to look for those who have slipped out of sight, in our own families and communities, and to greet their return, as the woman does, with gladness instead of questions about how they came to be lost. Whoever has lost heart, drifted away or been overlooked may hear in it a quiet word that they are still being looked for.",
+    "hi": {
+     "text": "ध्यान दें कि सिक्का कहानी में कुछ नहीं करता। वह पश्चात्ताप नहीं करता और अपना रास्ता वापस नहीं खोजता। उसे केवल ढूँढा जाता है, और यही ढूँढना है जिसकी कहानी प्रशंसा करती है। ईसाइयों ने ऐसे परमेश्वर के चित्र में बहुत सांत्वना पाई है जो लोगों को उसी लगन से खोजता है जिससे यह स्त्री अपने सिक्के को खोजती है, हाथ में दीया लिए, घुटनों के बल।\n\nअन्य परंपराओं के पाठक भी इस विचार को पहचान सकते हैं कि हर व्यक्ति का एक मूल्य होता है जो खो जाने से कम नहीं होता। दृष्टांत हमें उन लोगों को ढूँढने के लिए आमंत्रित करता है जो नज़रों से दूर हो गए हैं, अपने परिवारों और समुदायों में, और उनके लौटने का स्वागत उसी तरह करने के लिए जैसे वह स्त्री करती है, प्रश्नों के बजाय आनंद के साथ कि वे खोए कैसे। जिसने मन हार लिया है, दूर चला गया है या अनदेखा कर दिया गया है, वह इसमें यह शांत शब्द सुन सकता है कि अब भी उसकी खोज हो रही है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लक्षात घ्या की कथेत नाणे काहीच करत नाही. ते पश्चात्ताप करत नाही किंवा स्वतःचा मार्ग परत शोधत नाही. त्याचा केवळ शोध घेतला जातो, आणि कथा त्या शोधाचीच प्रशंसा करते. ख्रिस्ती लोकांना अशा देवाच्या चित्रात मोठा दिलासा मिळाला आहे जो लोकांचा त्याच काळजीने शोध घेतो जी ही स्त्री आपल्या नाण्यासाठी घेते, हातात दिवा घेऊन, गुडघ्यांवर बसून.\n\nइतर परंपरांचे वाचकही ही कल्पना ओळखू शकतात की प्रत्येक व्यक्तीचे मूल्य आहे, जे हरवल्यामुळे कमी होत नाही. हा दृष्टांत आपल्याला अशा लोकांचा शोध घ्यायला आमंत्रित करतो जे नजरेआड गेले आहेत, आपल्या कुटुंबात आणि समाजात, आणि त्यांच्या परत येण्याचे स्वागत त्याच प्रकारे करायला, जसे ती स्त्री करते, आनंदाने, ते कसे हरवले याचे प्रश्न विचारण्याऐवजी. ज्याचे मन खचले आहे, जो दूर गेला आहे किंवा ज्याकडे दुर्लक्ष झाले आहे, त्याला यातून असा शांत शब्द ऐकू येऊ शकतो की अजूनही त्याचा शोध घेतला जात आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Rejoice with me, for I have found the drachma which I had lost!",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 15:9 (World English Bible)",
+   "hi": {
+    "text": "लूका 15:9 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 15:9 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The woman's joy at finding her one lost coin is meant to show God's joy over each person who is found.",
+   "hi": {
+    "text": "अपना एक खोया हुआ सिक्का पाने पर स्त्री का आनंद परमेश्वर के उस आनंद को दिखाता है जो हर खोए हुए व्यक्ति के मिल जाने पर होता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "आपले एक हरवलेले नाणे सापडल्यावर स्त्रीचा आनंद हा प्रत्येक सापडलेल्या व्यक्तीबद्दल देवाच्या आनंदाचे प्रतीक आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who or what in your life have you stopped looking for? What would it mean to light a lamp and search once more?",
+  "hi": {
+   "text": "तुम अपने जीवन में किसकी या किस चीज़ की खोज करना छोड़ चुके हो? दीया जलाकर एक बार फिर से खोजना क्या अर्थ रखेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही तुमच्या आयुष्यात कोणाचा किंवा कशाचा शोध घेणे थांबवले आहे? दिवा लावून पुन्हा एकदा शोधणे म्हणजे काय असेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Every person is worth the search, and finding what was lost is a cause for shared joy and not for reproach.",
+  "hi": {
+   "text": "हर व्यक्ति खोज के योग्य है, और जो खो गया था उसे पाना साझा आनंद का कारण है, निंदा का नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रत्येक व्यक्ती शोधण्यास योग्य आहे, आणि जे हरवले होते ते सापडणे हे सामायिक आनंदाचे कारण आहे, निंदेचे नव्हे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 15:1-2, 8-10; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 15:1-2, 8-10 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 15:1-2, 8-10 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

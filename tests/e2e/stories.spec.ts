@@ -47,6 +47,30 @@ test.describe("Story collections (D-038, D-040)", () => {
     expect(broken).toEqual([]);
   });
 
+  test("Parables of Jesus has 30 chapters, and a chapter shows its English verse in a lang=en paragraph", async ({ page }) => {
+    await onboard(page, "en");
+    await page.goto("/en/stories/parables/");
+    await expect(page.getByTestId("club-chapters").locator(":scope > li")).toHaveCount(30);
+    await page.goto("/en/stories/parables/the-prodigal-son/");
+    await expect(page.locator('p[lang="en"]').first()).toBeVisible();
+  });
+
+  test("The Life of the Buddha has 28 cantos as chapters, with the awakening under the Bodhi tree", async ({ page }) => {
+    await onboard(page, "en");
+    await page.goto("/en/stories/buddha/");
+    await expect(page.getByTestId("club-chapters").locator(":scope > li")).toHaveCount(28);
+    await page.goto("/en/stories/buddha/the-awakening/");
+    await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(5);
+  });
+
+  test("Life of Mahavira has 16 chapters from the Kalpa Sutra, with the liberation at Pavapuri", async ({ page }) => {
+    await onboard(page, "en");
+    await page.goto("/en/stories/mahavira/");
+    await expect(page.getByTestId("club-chapters").locator(":scope > li")).toHaveCount(16);
+    await page.goto("/en/stories/mahavira/the-liberation/");
+    await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(5);
+  });
+
   test("Gita, Dnyaneshwari and Gurucharitra are detailed illustrated summaries (D-041, D-043)", async ({ page }) => {
     await onboard(page, "en");
     for (const [club, count, part] of [

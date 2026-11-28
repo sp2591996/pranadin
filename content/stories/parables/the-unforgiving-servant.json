@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-unforgiving-servant",
+ "order": 10,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Unforgiving Servant",
+  "hi": {
+   "text": "निर्दयी सेवक",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निर्दयी सेवक",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A servant forgiven an enormous debt refuses to forgive a small one.",
+  "hi": {
+   "text": "जिस सेवक का बहुत बड़ा कर्ज़ माफ़ हुआ, वह एक छोटा कर्ज़ माफ़ करने से इनकार कर देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याचे प्रचंड मोठे कर्ज माफ झाले, तो एक छोटे कर्ज माफ करण्यास नकार देतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-unforgiving-bowyer.webp",
+   "w": 640,
+   "h": 442,
+   "caption": {
+    "en": "The unmerciful servant, engraving from the Bowyer Bible",
+    "hi": {
+     "text": "निर्दयी सेवक, बोवायर बाइबल का उत्कीर्णन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निर्दयी सेवक, बोवायर बायबलमधील कोरीवकाम",
+     "reviewed": false
+    }
+   },
+   "credit": "Phidev74, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bowyer_Bible_print_3724_The_parable_of_the_unmerciful_servant_Matthew_18_23-27_Perelle_(45344).jpg"
+  },
+  {
+   "src": "/stories/parables/p-unforgiving-hemessen.webp",
+   "w": 1200,
+   "h": 616,
+   "caption": {
+    "en": "The parable of the unmerciful servant, Jan van Hemessen",
+    "hi": {
+     "text": "निर्दयी सेवक का दृष्टांत, यान वान हेमेसेन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निर्दयी सेवकाचा दृष्टांत, यान व्हॅन हेमेसेन",
+     "reviewed": false
+    }
+   },
+   "credit": "Jan Sanders van Hemessen, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jan_van_Hemessen_-_The_Parable_of_the_Unmerciful_Servant.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Peter's question",
+    "hi": {
+     "text": "पतरस का प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पतरसचा प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The parable grows out of a question. Peter, one of Jesus's closest disciples, came to him and asked how often he should forgive a brother who sins against him, and offered his own generous answer. Until seven times? Seven was a number that stood for completeness, and Peter probably thought he was being very patient.\n\nJesus answered that he did not mean seven times, but seventy times seven. He was not setting a number to be counted. He was saying that forgiveness should have no ceiling. Then, to show what he meant and why, he told a story about a king and his servants, a story that begins with a settling of accounts and ends with a question about what mercy really asks of anyone who has received it. In this way the whole parable is an answer to a practical question about how to live with those who wrong us.",
+    "hi": {
+     "text": "यह दृष्टांत एक प्रश्न से निकलता है। पतरस, यीशु के सबसे निकट शिष्यों में से एक, उनके पास आया और पूछा कि जो भाई उसके विरुद्ध पाप करे, उसे कितनी बार क्षमा करे, और अपना उदार उत्तर भी दिया। क्या सात बार तक? सात संख्या पूर्णता का प्रतीक थी, और पतरस शायद सोचता था कि वह बहुत धैर्यवान है।\n\nयीशु ने उत्तर दिया कि उनका अर्थ सात बार नहीं, बल्कि सत्तर गुना सात है। वे गिनने के लिए कोई संख्या नहीं दे रहे थे। वे कह रहे थे कि क्षमा की कोई सीमा नहीं होनी चाहिए। फिर अपना अर्थ और उसका कारण दिखाने के लिए उन्होंने एक राजा और उसके सेवकों की कहानी सुनाई, जो हिसाब निपटाने से शुरू होती है और इस प्रश्न पर समाप्त होती है कि जिसने दया पाई है उससे वास्तव में दया की क्या अपेक्षा है। इस प्रकार पूरा दृष्टांत इस व्यावहारिक प्रश्न का उत्तर है कि उनके साथ कैसे जिया जाए जो हमारे साथ अन्याय करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हा दृष्टांत एका प्रश्नातून उगम पावतो. यीशूच्या अत्यंत जवळच्या शिष्यांपैकी एक पतरस त्यांच्याकडे येऊन विचारतो की जो भाऊ आपल्याविरुद्ध पाप करतो त्याला किती वेळा क्षमा करावी, आणि स्वतःचे उदार उत्तरही देतो. सात वेळा पर्यंत? सात ही संख्या पूर्णतेचे प्रतीक होती, आणि पतरसाला वाटले असेल की तो खूप धीराचा आहे.\n\nयीशू उत्तर देतात की त्यांचा अर्थ सात वेळा नव्हे, तर सत्तर वेळा सात असा आहे. ते मोजण्यासाठी संख्या देत नव्हते. ते सांगत होते की क्षमेला कोणतीही मर्यादा नसावी. मग त्यांचा अर्थ आणि त्यामागचे कारण दाखवण्यासाठी त्यांनी एका राजाची आणि त्याच्या सेवकांची गोष्ट सांगितली, जी हिशेब मिटवण्यापासून सुरू होते आणि दयेची खरी मागणी काय आहे याच्या प्रश्नावर संपते. अशा प्रकारे संपूर्ण दृष्टांत, आपल्यावर अन्याय करणार्यांसोबत कसे जगावे या व्यावहारिक प्रश्नाचे उत्तर आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A debt that could never be paid",
+    "hi": {
+     "text": "एक ऐसा कर्ज़ जो कभी चुकाया नहीं जा सकता",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कधीही न फिटणारे कर्ज",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A king decides to settle accounts with his servants, and one of them is brought in who owes him ten thousand talents. A talent was a very large unit of money, and ten thousand of them was a sum so vast that no ordinary person could ever have repaid it, not in a hundred lifetimes. The number is meant to be absurd and overwhelming.\n\nThe servant cannot pay, and the king orders him to be sold, along with his wife and children and everything he has. The servant falls on his knees and begs for patience, promising to repay everything, which both of them must know is impossible. Then the king, moved with compassion, does something astonishing. He releases the servant and forgives him the entire debt. Everything in the scene shows that the king owes this man nothing and gives everything.",
+    "hi": {
+     "text": "एक राजा अपने सेवकों के साथ हिसाब निपटाने का निर्णय करता है, और उनमें से एक को लाया जाता है जिस पर दस हज़ार तालंत बकाया हैं। एक तालंत धन की एक बहुत बड़ी इकाई थी, और दस हज़ार तालंत इतनी विशाल रकम थी कि कोई साधारण व्यक्ति उसे सौ जीवनों में भी नहीं चुका सकता था। यह संख्या जानबूझकर अविश्वसनीय और अभिभूत कर देने वाली है।\n\nसेवक चुका नहीं सकता, और राजा आदेश देता है कि उसे, उसकी पत्नी, बच्चों और उसकी हर चीज़ के साथ बेच दिया जाए। सेवक घुटनों के बल गिरकर धैर्य माँगता है, और वादा करता है कि सब कुछ चुका देगा, जो दोनों जानते होंगे कि असंभव है। फिर राजा, करुणा से भरकर, कुछ अद्भुत करता है। वह सेवक को छोड़ देता है और पूरा कर्ज़ माफ़ कर देता है। दृश्य की हर बात दिखाती है कि राजा का इस व्यक्ति पर कुछ भी बकाया नहीं, और वह सब कुछ देता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक राजा आपल्या सेवकांशी हिशेब मिटवण्याचे ठरवतो, आणि त्याच्यासमोर एका सेवकाला आणले जाते ज्याच्यावर दहा हजार तलांत बाकी आहेत. एक तलांत ही पैशाची फार मोठी एकक होती, आणि दहा हजार तलांत इतकी प्रचंड रक्कम होती की कोणताही साधा माणूस शंभर आयुष्यांतही ती फेडू शकला नसता. ही संख्या मुद्दाम अशक्य आणि भारावून टाकणारी आहे.\n\nसेवक फेडू शकत नाही, आणि राजा आज्ञा देतो की त्याला, त्याची पत्नी, मुले आणि त्याची सर्व मालमत्ता यांच्यासह विकून टाकावे. सेवक गुडघ्यांवर पडून संयम मागतो, आणि सर्व फेडण्याचे वचन देतो, जे दोघांनाही माहीत असेल की अशक्य आहे. मग राजा करुणेने हलून एक आश्चर्यकारक गोष्ट करतो. तो सेवकाला सोडून देतो आणि संपूर्ण कर्ज माफ करतो. दृश्यातील प्रत्येक गोष्ट दाखवते की या माणसाचे राजाला काहीही देणे नाही, आणि राजा सर्वकाही देतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A debt of a hundred denarii",
+    "hi": {
+     "text": "सौ दीनार का कर्ज़",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंभर दीनारांचे कर्ज",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hardly has the forgiven servant left the king's presence when he meets a fellow servant who owes him one hundred denarii. A denarius was roughly a day's wage, so this was a real debt, a few months of work, but tiny compared with what he himself had just been spared. He seizes the man by the throat and demands, Pay me what you owe.\n\nThe fellow servant falls down and begs for patience, using almost exactly the words that the first servant had spoken to the king. But the forgiven man refuses. He has the other thrown into prison until the debt is paid. In a few short lines Jesus has drawn a startling picture of how quickly mercy received can be forgotten by the one who received it. The scene is a reminder of how easily we can see another person's debt more clearly than our own.",
+    "hi": {
+     "text": "जिस सेवक को माफ़ी मिली, वह राजा के सामने से निकलते ही अपने एक साथी सेवक से मिलता है जिस पर सौ दीनार बकाया हैं। एक दीनार लगभग एक दिन की मज़दूरी थी, इसलिए यह एक वास्तविक कर्ज़ था, कुछ महीनों की मेहनत, पर उस बड़ी रकम के मुकाबले बहुत छोटा जो उसे अभी-अभी माफ़ किया गया था। वह उसका गला पकड़ लेता है और माँगता है, जो मेरा बकाया है वह मुझे दे।\n\nसाथी सेवक गिरकर धैर्य माँगता है, और लगभग वही शब्द कहता है जो पहले सेवक ने राजा से कहे थे। पर माफ़ किया गया वह व्यक्ति इनकार कर देता है। वह उसे तब तक जेल में डलवा देता है जब तक कर्ज़ चुका न दिया जाए। कुछ ही पंक्तियों में यीशु ने यह भयावह चित्र खींचा है कि जो दया पाता है, वह उसे कितनी जल्दी भूल सकता है। यह दृश्य याद दिलाता है कि हम दूसरे के कर्ज़ को अपने कर्ज़ से कितनी आसानी से अधिक स्पष्ट देख सकते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्या सेवकाला माफी मिळाली तो राजाच्या समोरून बाहेर पडताच त्याला आपला एक सहसेवक भेटतो ज्याच्यावर शंभर दीनार बाकी आहेत. एक दीनार म्हणजे साधारण एका दिवसाची मजुरी होती, त्यामुळे हे खरे कर्ज होते, काही महिन्यांची मेहनत, पण त्याला नुकतेच जे माफ झाले होते त्याच्या तुलनेत अगदी लहान. तो त्याचा गळा धरतो आणि मागणी करतो, जे माझे तुझ्यावर देणे आहे ते मला दे.\n\nसहसेवक गुडघ्यांवर पडून संयम मागतो, आणि जवळजवळ त्याच शब्दांत बोलतो जे पहिल्या सेवकाने राजाला सांगितले होते. पण माफ झालेला तो माणूस नकार देतो. तो त्याला कर्ज फिटेपर्यंत तुरुंगात टाकतो. काही ओळींत यीशूने हे भयावह चित्र काढले आहे की ज्याला दया मिळाली आहे तो ती किती पटकन विसरू शकतो. हे दृश्य आठवण करून देते की आपण दुसर्याचे कर्ज आपल्या स्वतःच्या कर्जापेक्षा किती सहजपणे अधिक स्पष्ट पाहू शकतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The king calls him back",
+    "hi": {
+     "text": "राजा उसे वापस बुलाता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा त्याला परत बोलावतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The other servants see what has happened, and they are deeply distressed and report it to the king. He summons the first servant and says, You wicked servant. I forgave you all that debt because you begged me. Shouldn't you also have had mercy on your fellow servant, even as I had mercy on you?\n\nIn anger, the king hands him over to the tormentors until the debt is paid. Jesus ends with a sober sentence, that his heavenly Father will treat his hearers in the same way if they do not each forgive their brother from the heart. Christians have read this as a serious statement about the link between the mercy God shows and the mercy people are called to show to each other. The tale ends not with comfort but with a plain, serious warning that mercy is meant to move on.",
+    "hi": {
+     "text": "दूसरे सेवक यह देखते हैं, और गहरे दुःखी होकर राजा को सब बता देते हैं। वह पहले सेवक को बुलाता है और कहता है, दुष्ट सेवक। जब तू मुझसे गिड़गिड़ाया तो मैंने तेरा वह सारा कर्ज़ माफ़ कर दिया। क्या तुझे भी अपने साथी सेवक पर दया नहीं करनी चाहिए थी, जैसे मैंने तुझ पर दया की?\n\nक्रोध में राजा उसे तब तक यातना देने वालों के हवाले कर देता है जब तक कर्ज़ चुका न दिया जाए। यीशु एक गंभीर वाक्य से समाप्त करते हैं कि उनका स्वर्गीय पिता भी उनके सुनने वालों के साथ ऐसा ही करेगा यदि वे हर एक अपने भाई को हृदय से क्षमा न करें। ईसाइयों ने इसे उस दया के संबंध पर गंभीर कथन के रूप में पढ़ा है जो परमेश्वर दिखाता है और जो दया मनुष्यों को एक-दूसरे के प्रति दिखाने के लिए बुलाया गया है। कहानी सांत्वना पर नहीं, बल्कि इस सीधी और गंभीर चेतावनी पर समाप्त होती है कि दया को आगे बहना चाहिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "इतर सेवक हे पाहतात, आणि खोलवर दुःखी होऊन राजाला सर्व सांगतात. तो पहिल्या सेवकाला बोलावून म्हणतो, दुष्ट सेवका. तू माझ्याकडे विनवणी केलीस म्हणून मी तुझे ते सर्व कर्ज माफ केले. तुझ्या सहसेवकावर दया करणे तुलाही योग्य नव्हते काय, जशी मी तुझ्यावर दया केली?\n\nक्रोधाने राजा त्याला तो कर्ज फेडेपर्यंत छळणार्यांच्या स्वाधीन करतो. यीशू एका गंभीर वाक्याने समाप्त करतात की त्यांचा स्वर्गीय पिता त्यांच्या श्रोत्यांशीही असेच वागेल, जर ते प्रत्येकजण आपल्या भावाला मनापासून क्षमा करणार नाहीत. ख्रिस्ती लोकांनी हे देवाने दाखवलेली दया आणि लोकांनी एकमेकांना दाखवण्यासाठी बोलावलेली दया यांच्या नात्यावरील गंभीर विधान म्हणून वाचले आहे. कथा सांत्वनाने नव्हे, तर या साध्या, गंभीर इशार्याने संपते की दया पुढे वाहिली पाहिजे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Forgiveness that flows on",
+    "hi": {
+     "text": "क्षमा जो आगे बहती है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुढे वाहणारी क्षमा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The parable does not say that forgiveness is easy, nor that it excuses real harm. It says that those who have been shown great mercy are poorly placed to refuse a small one. The contrast between the two debts makes the point without any need for argument, since the first servant owes ten thousand talents and is owed a few months' wages.\n\nMany people of different faiths and none know that holding onto a grudge can imprison the one who holds it as much as the one who owes. The story invites a kind of humility. When we remember how much we ourselves have been forgiven by others, we may find it a little easier to release the debts that people owe to us, and so to breathe more freely. Forgiveness in this story is both a gift received and a task, and the two are bound together.",
+    "hi": {
+     "text": "दृष्टांत यह नहीं कहता कि क्षमा आसान है, न ही यह कि वह वास्तविक हानि को उचित ठहराती है। वह कहता है कि जिन्हें बहुत बड़ी दया दिखाई गई है, वे छोटी दया से इनकार करने की स्थिति में नहीं हैं। दोनों कर्ज़ों का अंतर बिना किसी तर्क के बात को स्पष्ट कर देता है, क्योंकि पहला सेवक दस हज़ार तालंत का देनदार है और उसे कुछ महीनों की मज़दूरी मिलनी है।\n\nविभिन्न धर्मों और किसी भी धर्म के न होने वाले कई लोग जानते हैं कि किसी द्वेष को पकड़े रखना उसे उतना ही कैद कर सकता है जितना उसे जिस पर कर्ज़ है। कहानी एक प्रकार की विनम्रता का निमंत्रण देती है। जब हम याद करते हैं कि दूसरों ने हमें कितना क्षमा किया है, तो हमें दूसरों के कर्ज़ों को छोड़ना कुछ आसान लग सकता है, और इस तरह हम अधिक स्वतंत्रता से साँस ले सकते हैं। इस कहानी में क्षमा एक प्राप्त उपहार भी है और एक कर्तव्य भी, और दोनों आपस में बँधे हुए हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दृष्टांत असे म्हणत नाही की क्षमा सोपी आहे, किंवा ती खर्या हानीचे समर्थन करते. ती म्हणते की ज्यांना खूप मोठी दया दाखवली गेली आहे ते लहान दया नाकारण्याच्या स्थितीत चांगले नाहीत. दोन कर्जांतील फरक कोणत्याही युक्तिवादाशिवाय मुद्दा स्पष्ट करतो, कारण पहिला सेवक दहा हजार तलांतांचा देणेकरी आहे आणि त्याला काही महिन्यांची मजुरी देणे आहे.\n\nवेगवेगळ्या धर्मांचे आणि कोणताही धर्म न मानणारे अनेक लोक जाणतात की एखादा राग मनात धरून ठेवणे ज्याने तो धरतो त्याला, जितके कर्ज असलेल्या व्यक्तीला, तितकेच बंदिस्त करू शकते. कथा एका प्रकारच्या नम्रतेचे आमंत्रण देते. जेव्हा आपण आठवतो की इतरांनी आपल्याला किती क्षमा केली आहे, तेव्हा लोकांचे आपल्याकडचे कर्ज सोडून देणे थोडे सोपे वाटू शकते, आणि त्यामुळे आपण अधिक मोकळेपणाने श्वास घेऊ शकतो. या कथेत क्षमा ही मिळालेली देणगी आणि एक कर्तव्य, दोन्ही आहे, आणि ते दोन्ही एकमेकांशी बांधलेले आहेत.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Shouldn’t you also have had mercy on your fellow servant, even as I had mercy on you?",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 18:33 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 18:33 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 18:33 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Those who have received great mercy are expected to pass some of it on.",
+   "hi": {
+    "text": "जिन्हें बहुत बड़ी दया मिली है, उनसे अपेक्षा है कि वे उसमें से कुछ आगे बढ़ाएँ।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "ज्यांना मोठी दया मिळाली आहे, त्यांनी त्यातील काही पुढे द्यावी अशी अपेक्षा आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Think of a time someone forgave you when you did not deserve it. Is there someone you have been holding a small debt against, whom you might now release?",
+  "hi": {
+   "text": "उस समय को याद करो जब किसी ने तुम्हें ऐसे समय क्षमा किया जब तुम उसके योग्य नहीं थे। क्या कोई ऐसा है जिसके विरुद्ध तुम्हारा एक छोटा कर्ज़ अब भी खाते में है, और जिसे तुम अब छोड़ सकते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एखादी वेळ आठवा जेव्हा कोणीतरी तुम्हाला तुम्ही पात्र नसतानाही क्षमा केली. तुमच्या मनात एखाद्याविरुद्ध एक लहानसे कर्ज अजून धरून असेल, जे आता सोडून देता येईल का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Mercy received is meant to flow on; to hold a small debt against another after being forgiven a great one is to forget what we ourselves were given.",
+  "hi": {
+   "text": "प्राप्त दया को आगे बहना चाहिए; बड़ी क्षमा पाने के बाद दूसरे के विरुद्ध छोटा कर्ज़ रखना यह भूल जाना है कि हमें स्वयं क्या दिया गया था।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मिळालेली दया पुढे वाहायला हवी; मोठी क्षमा मिळाल्यानंतर दुसर्याविरुद्ध छोटे कर्ज धरून ठेवणे म्हणजे आपल्याला स्वतःला काय दिले गेले होते ते विसरणे होय.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 18:21-35; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 18:21-35 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 18:21-35 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

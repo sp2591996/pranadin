@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-women-of-the-garden",
+ "order": 4,
+ "part": "birth",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Women of the Garden",
+  "hi": {
+   "text": "उपवन की स्त्रियाँ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "उपवनातील स्त्रिया",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In a garden of music and flowers, the prince is courted with every art, and answers that he cannot take pleasure in a world on fire.",
+  "hi": {
+   "text": "संगीत और फूलों से भरे उपवन में राजकुमार को हर कला से लुभाया जाता है, और वह उत्तर देता है कि जब संसार आग में जल रहा हो, तो उसे सुख में शांति नहीं मिल सकती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संगीत आणि फुलांनी भरलेल्या उपवनात राजपुत्राला प्रत्येक कलेने भुलवले जाते, आणि तो उत्तर देतो की जग आगीत जळत असताना त्याला सुखात शांती मिळू शकत नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-women-ajanta.webp",
+   "w": 1024,
+   "h": 768,
+   "caption": {
+    "en": "Buddha seated in a cave shrine, Ajanta",
+    "hi": {
+     "text": "अजंता की गुफ़ा में बैठे बुद्ध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अजिंठा लेणीतील बुद्ध",
+     "reviewed": false
+    }
+   },
+   "credit": "Danial Chitnis from Ahvaz, IRAN, CC BY 2.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_Ajanta.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The prince arrives",
+    "hi": {
+     "text": "राजकुमार का आगमन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राचे आगमन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The garden was full of women who had come out to meet the prince as one meets a bridegroom newly arrived. Their eyes were restless with excitement. When he came near, they folded their hands like lotus buds and stood round him, drinking him in with eyes wide open and unmoving, wholly taken up by his presence.\n\nAshvaghosha lists their fancies. Some took him for the god of love in human form, because his marks of beauty shone like natural ornaments. Others, seeing his gentleness and majesty, thought that the moon had come down to earth, its beams still wet with nectar. Some yawned as though to swallow him, and others looked at each other and sighed. They were so overcome that they did not even speak or smile. The poet records all this with a smile of his own, because he is preparing the contrast that follows.",
+    "hi": {
+     "text": "उपवन उन स्त्रियों से भरा था जो राजकुमार का स्वागत करने ऐसे आई थीं जैसे नवागत वर का। उनकी आँखें उत्साह से चंचल थीं। जब वह निकट आया, तो उन्होंने कमल-कलियों की तरह हाथ जोड़ लिए और उसके चारों ओर खड़ी हो गईं, खुली और स्थिर आँखों से उसे पीते हुए, उसकी उपस्थिति में पूरी तरह डूबी हुई।\n\nअश्वघोष उनकी कल्पनाएँ गिनाते हैं। कोई उसे मानव रूप में कामदेव समझती थी, क्योंकि उसके शुभ लक्षण स्वाभाविक आभूषणों की तरह चमकते थे। कुछ उसकी कोमलता और गरिमा देखकर सोचती थीं कि चंद्रमा पृथ्वी पर उतर आया है, उसकी किरणें अमृत से अब भी भीगी हुई हैं। कुछ मानो उसे निगल जाने के लिए जम्हाई लेतीं, और कुछ एक-दूसरे को देखकर आह भरतीं। वे इतनी मुग्ध थीं कि न बोल पाती थीं, न मुस्कराती थीं। कवि इन सबका वर्णन अपनी ही एक मुस्कान के साथ करता है, क्योंकि वह आगे आने वाले विरोध की भूमिका बाँध रहा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उपवन त्या स्त्रियांनी भरले होते ज्या राजपुत्राचे स्वागत करायला नववराला भेटावे तसे आल्या होत्या. त्यांचे डोळे उत्साहाने चंचल होते. जेव्हा तो जवळ आला, तेव्हा त्यांनी कमळकळ्यांसारखे हात जोडले आणि त्याच्याभोवती उभ्या राहिल्या, उघड्या आणि स्थिर डोळ्यांनी त्याला प्राशन करत, त्याच्या उपस्थितीत पूर्णपणे हरवून गेलेल्या.\n\nअश्वघोष त्यांच्या कल्पना मोजतात. कोणी त्याला मानवी रूपातील मदन समजत होती, कारण त्याची शुभ लक्षणे नैसर्गिक अलंकारांसारखी चमकत होती. काहींना त्याची सौम्यता आणि गरिमा पाहून वाटत होते की चंद्र पृथ्वीवर उतरला आहे, त्याच्या किरणांवर अजूनही अमृत आहे. काही जणी त्याला गिळून टाकावे इतक्या जांभया देत होत्या, आणि काही एकमेकींकडे पाहून उसासे टाकत होत्या. त्या इतक्या मुग्ध झाल्या होत्या की त्यांना बोलताही येत नव्हते आणि हसताही येत नव्हते. कवी हे सर्व स्वतःच्या एका हसऱ्या नजरेसह वर्णन करतो, कारण पुढे येणाऱ्या विरोधाची तो पूर्वतयारी करत आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Udayin's counsel",
+    "hi": {
+     "text": "उदायिन का परामर्श",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उदायीचा सल्ला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king had planned this meeting. Seeing the women so spellbound, a young man named Udayin, the son of the family priest and a friend of the prince, spoke to them. You are skilled in every graceful art, he told them, and you could move even sages who have lost every desire. Why this timidity? Such shyness suits new brides, not you. Remember that the great seers of old were won over by women, and do not be afraid of him merely because he is a hero.\n\nThen, turning to the prince, Udayin spoke to him as a friend. A man in his youth and strength should not turn away from pleasures to which the whole world is devoted. Even gods and great seers have yielded to desire, he said, and a man can deal gently or even cleverly with women to win them. The speech is full of the old stories of India, and it is meant to sound sensible and affectionate, as indeed it was.",
+    "hi": {
+     "text": "यह भेंट राजा ने ही आयोजित की थी। स्त्रियों को इस प्रकार मंत्रमुग्ध देखकर उदायिन नाम का एक युवक, जो पुरोहित का पुत्र और राजकुमार का मित्र था, उनसे बोला। तुम हर सुंदर कला में निपुण हो, उसने कहा, और तुम उन ऋषियों को भी मोह सकती हो जिन्होंने हर इच्छा खो दी है। यह संकोच क्यों? ऐसी लज्जा नवविवाहिताओं को शोभा देती है, तुम्हें नहीं। याद रखो कि प्राचीन महान ऋषि भी स्त्रियों से मोहित हुए थे, और उसे केवल इसलिए मत डराओ कि वह एक वीर है।\n\nफिर वह राजकुमार की ओर मुड़ा और मित्र की तरह उससे बोला। जिस तरुणाई और शक्ति में तुम हो, उससे उन सुखों से मुँह नहीं मोड़ना चाहिए जिनकी ओर सारा संसार समर्पित है। देवता और महान ऋषि भी इच्छा के आगे झुके हैं, उसने कहा, और मनुष्य स्त्रियों के साथ कोमलता या चतुराई से व्यवहार करके उन्हें जीत सकता है। यह भाषण पुरानी भारतीय कथाओं से भरा है, और इसका उद्देश्य समझदार और स्नेहपूर्ण लगना था, जो वह था भी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ही भेट राजानेच ठरवली होती. स्त्रियांना असे मंत्रमुग्ध पाहून उदायी नावाचा एक तरुण, जो पुरोहिताचा मुलगा आणि राजपुत्राचा मित्र होता, त्यांच्याशी बोलला. तुम्ही प्रत्येक सुंदर कलेत निपुण आहात, तो म्हणाला, आणि जे ऋषी सर्व इच्छा गमावून बसले आहेत त्यांनाही तुम्ही मोहात पाडू शकता. हा संकोच का? असा लाजाळूपणा नववधूंना शोभतो, तुम्हाला नाही. लक्षात ठेवा, प्राचीन महान ऋषीही स्त्रियांनी मोहले होते, आणि तो वीर आहे म्हणून त्याला घाबरवू नका.\n\nमग तो राजपुत्राकडे वळला आणि मित्राप्रमाणे त्याच्याशी बोलला. तारुण्य आणि सामर्थ्य ज्यात तू आहेस, त्यात ज्या सुखांकडे सारे जग समर्पित आहे त्यांच्यापासून तोंड फिरवू नये. देव आणि महान ऋषीही इच्छेपुढे नमले आहेत, तो म्हणाला, आणि माणूस स्त्रियांशी सौम्यपणे किंवा चातुर्याने वागून त्यांना जिंकू शकतो. हे भाषण जुन्या भारतीय कथांनी भरलेले आहे, आणि ते समजूतदार व प्रेमळ वाटावे असा त्याचा हेतू होता, आणि तो तसा होताही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince replies",
+    "hi": {
+     "text": "राजकुमार का उत्तर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राचे उत्तर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The prince answered in a voice like the thunder of a cloud, and first he thanked his friend for speaking out of affection. He did not despise worldly pleasures, he said. He knew that all people are bound up with them. But he remembered that the world is passing, and for that reason his mind could not rest in them.\n\nIf old age, sickness and death did not exist, he said, he too would take pleasure in what delights the mind. And even if the beauty of women lasted forever, a wise man would not find his joy in it. As it is, old age will drink that beauty away. A man who is himself subject to death, disease and decay and yet plays undisturbed with those who are subject to the same, he said, is no better than a bird or a beast. He added that he had no skill in flattery or guile, and that he did not want to be given what was not honestly offered.",
+    "hi": {
+     "text": "राजकुमार ने मेघगर्जना जैसी ध्वनि में उत्तर दिया, और पहले उसने मित्र को स्नेहपूर्ण वचनों के लिए धन्यवाद दिया। उसने कहा कि वह सांसारिक सुखों को तुच्छ नहीं समझता। वह जानता है कि सभी लोग उनसे बँधे हैं। पर उसे स्मरण है कि संसार नश्वर है, और इसी कारण उसका मन उनमें विश्राम नहीं पा सका।\n\nयदि बुढ़ापा, रोग और मृत्यु न होते, उसने कहा, तो वह भी मन को भाने वाली वस्तुओं में आनंद पाता। और यदि स्त्रियों का सौंदर्य सदा रहता, तब भी बुद्धिमान मनुष्य उसमें अपना सुख न पाता। पर वास्तव में बुढ़ापा उस सौंदर्य को पी जाएगा। जो मनुष्य स्वयं मृत्यु, रोग और क्षय के अधीन है, और फिर भी उन्हीं के अधीन दूसरों के साथ निश्चिंत होकर खेलता है, उसने कहा, वह पक्षी या पशु से बेहतर नहीं है। उसने यह भी कहा कि उसे चापलूसी या छल की कोई कला नहीं आती, और वह नहीं चाहता कि उसे वह दिया जाए जो ईमानदारी से नहीं दिया गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राने मेघगर्जनेसारख्या आवाजात उत्तर दिले, आणि आधी मित्राला त्याच्या स्नेहपूर्ण शब्दांबद्दल धन्यवाद दिले. तो म्हणाला की तो सांसारिक सुखांना तुच्छ मानत नाही. त्याला ठाऊक आहे की सारे लोक त्यांच्याशी बांधलेले आहेत. पण त्याला आठवते की जग नश्वर आहे, आणि त्यामुळेच त्याचे मन त्यात विसावा घेऊ शकत नाही.\n\nजर म्हातारपण, रोग आणि मृत्यू नसते, तो म्हणाला, तर त्यालाही मनाला आवडणाऱ्या गोष्टींत आनंद वाटला असता. आणि जर स्त्रियांचे सौंदर्य कायम राहिले असते, तरीही शहाण्या माणसाने त्यात आपले सुख शोधले नसते. पण प्रत्यक्षात म्हातारपण त्या सौंदर्याला पिऊन टाकणार आहे. जो माणूस स्वतः मृत्यू, रोग आणि क्षयाच्या अधीन आहे, आणि तरीही त्याच्याच अधीन असलेल्या इतरांबरोबर निश्चिंतपणे खेळतो, तो पक्षी किंवा पशूपेक्षा चांगला नाही, तो म्हणाला. त्याने हेही सांगितले की त्याला खुशामत किंवा छळाच्या कला येत नाहीत, आणि जे प्रामाणिकपणे दिले गेले नाही ते त्याला नको.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A world on fire",
+    "hi": {
+     "text": "एक जलता हुआ संसार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक जळते जग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then the prince said what was on his heart. Udayin must have a very firm mind, he said, if he could find anything solid in the pleasures of the senses. Even in the middle of great alarm, Udayin could cling to worldly things, when he saw all living creatures walking the road to death. As for himself, he was frightened and bewildered when he thought of old age, death and disease.\n\nHe could find no peace, no self-command, and still less any pleasure, while he saw the world as if it were ablaze with fire. If a man knows that death is certain, the prince said, and desire still stirs in his heart, then that man's soul must be made of iron, if he can hold himself back in such a terror and not weep. The speech had the ring of a decision. It was not a rebuke to the women or to his friend, but a plain account of what he had seen.",
+    "hi": {
+     "text": "फिर राजकुमार ने वह कहा जो उसके हृदय में था। उदायिन का मन बहुत दृढ़ होगा, उसने कहा, यदि वह इंद्रिय-सुखों में कुछ ठोस पा सके। अत्यंत भय के बीच भी उदायिन सांसारिक वस्तुओं से चिपके रह सकता था, जब वह हर प्राणी को मृत्यु की ओर जाते देखता था। उसके अपने लिए, राजकुमार ने कहा, वह बुढ़ापा, मृत्यु और रोग के विचार से डरा और विचलित हुआ है।\n\nवह शांति नहीं पा सकता, आत्म-संयम नहीं पा सकता, और सुख तो और भी कम पा सकता है, जब वह संसार को आग में जलता देखता है। यदि कोई मनुष्य जानता है कि मृत्यु निश्चित है, राजकुमार ने कहा, और फिर भी उसके हृदय में इच्छा जगती है, तो उसका आत्मा लोहे का बना होना चाहिए, यदि वह ऐसे भय में स्वयं को रोक ले और न रोए। यह वचन दृढ़ निश्चय का था। यह न स्त्रियों की निंदा था, न अपने मित्र की, बल्कि उसने जो देखा था उसका सीधा वर्णन था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग राजपुत्राने जे त्याच्या हृदयात होते ते सांगितले. उदायीचे मन फार दृढ असले पाहिजे, तो म्हणाला, जर त्याला इंद्रियसुखांत काही ठोस सापडत असेल. अत्यंत भयाच्या मध्येही उदायी सांसारिक वस्तूंना धरून राहू शकत होता, जेव्हा तो प्रत्येक प्राण्याला मृत्यूकडे जाताना पाहत होता. स्वतःसाठी, राजपुत्र म्हणाला, तो म्हातारपण, मृत्यू आणि रोगाच्या विचाराने भयभीत आणि विचलित झाला आहे.\n\nजेव्हा तो जग आगीत जळताना पाहतो, तेव्हा त्याला शांती मिळत नाही, आत्मसंयम मिळत नाही, आणि सुख तर त्याहूनही कमी मिळते, तो म्हणाला. जर एखादा माणूस जाणतो की मृत्यू निश्चित आहे, आणि तरीही त्याच्या हृदयात इच्छा जागते, तर त्याचा आत्मा लोखंडाचा बनलेला असला पाहिजे, जर तो अशा भयात स्वतःला आवरू शकला आणि रडला नाही. ते वचन दृढ निश्चयाचे होते. ते स्त्रियांची निंदा नव्हते, न मित्राची, तर त्याने जे पाहिले होते त्याचे सरळ वर्णन होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The evening and the king's night",
+    "hi": {
+     "text": "शाम और राजा की रात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संध्याकाळ आणि राजाची रात्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "As the prince finished, the sun, which the poet calls the lord of the day, sank behind the western mountain. The women, who had worn their garlands and ornaments in vain and had seen all their graceful arts come to nothing, hid their love deep in their hearts and went back to the city with their hopes broken. The prince, thinking of how everything passes, went back to his own rooms.\n\nWhen the king heard that his son's mind had turned away from every object of the senses, he could not lie down all that night. Ashvaghosha compares him to an elephant with an arrow in its heart. With his ministers he talked through every plan, and found nothing else to hold his son but the very pleasures that the prince had already put aside. A father's love, the poet seems to say, can see its own failure clearly and still not know what else to do.",
+    "hi": {
+     "text": "जैसे ही राजकुमार ने बात पूरी की, सूर्य, जिसे कवि दिन का स्वामी कहता है, पश्चिमी पर्वत के पीछे डूब गया। स्त्रियाँ, जिन्होंने व्यर्थ ही अपने फूल और आभूषण पहने थे और अपनी सारी सुंदर कलाएँ विफल होते देखीं, अपने प्रेम को हृदय की गहराई में छिपाकर टूटी आशाओं के साथ नगर लौट गईं। राजकुमार, यह सोचते हुए कि सब कुछ कैसे बीत जाता है, अपने कक्षों में लौट गया।\n\nजब राजा ने सुना कि उसके पुत्र का मन इंद्रियों की हर वस्तु से दूर हो गया है, तो वह पूरी रात लेट नहीं सका। अश्वघोष उसकी तुलना बाण लगे हाथी से करते हैं। अपने मंत्रियों के साथ उसने हर योजना पर विचार किया, पर उसे अपने पुत्र को रोकने के लिए उन्हीं सुखों के अलावा कुछ नहीं मिला, जिन्हें राजकुमार पहले ही त्याग चुका था। पिता का प्रेम, कवि जैसे कहता है, अपनी विफलता को साफ़ देख सकता है और फिर भी नहीं जानता कि और क्या करे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राने बोलणे संपवताच, ज्याला कवी दिवसाचा स्वामी म्हणतो तो सूर्य पश्चिमेच्या डोंगराआड गेला. स्त्रिया, ज्यांनी व्यर्थच आपली फुले आणि अलंकार घातले होते, आणि आपल्या सर्व सुंदर कला फसलेल्या पाहिल्या, त्या आपले प्रेम हृदयाच्या खोलवर लपवून, तुटलेल्या आशांसह नगराकडे परतल्या. राजपुत्र, सर्व काही कसे निघून जाते याचा विचार करत, आपल्या दालनांत परतला.\n\nजेव्हा राजाने ऐकले की त्याच्या पुत्राचे मन इंद्रियांच्या प्रत्येक वस्तूपासून दूर गेले आहे, तेव्हा त्याला पूर्ण रात्र झोप लागली नाही. अश्वघोष त्याची तुलना बाण लागलेल्या हत्तीशी करतात. आपल्या मंत्र्यांसोबत त्याने प्रत्येक योजनेचा विचार केला, पण पुत्राला रोखण्यासाठी त्याला त्याच सुखांशिवाय काही सापडले नाही, जी राजपुत्राने आधीच त्यागली होती. पित्याचे प्रेम, कवी जणू सुचवतो, आपले अपयश स्पष्ट पाहू शकते, आणि तरीही कळत नाही की आणखी काय करावे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "I can find no peace, no self-command, much less can I find pleasure, while I see the world as it were ablaze with fire",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 4.98 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 4.98 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 4.98 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The prince explains why pleasure has lost its taste once he has seen old age, sickness and death.",
+   "hi": {
+    "text": "राजकुमार बताता है कि सुखों का स्वाद कैसे फीका पड़ गया है, जब उसने बुढ़ापा, रोग और मृत्यु देखे।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "राजकुमार सांगतो की म्हातारपण, रोग आणि मृत्यू पाहिल्यावर सुखांची चव कशी फिकी पडली.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When something troubles you deeply, do you let other people's good advice talk you out of it, or listen to what it is telling you?",
+  "hi": {
+   "text": "जब कोई बात तुम्हें गहराई से परेशान करती है, तो क्या तुम दूसरों की अच्छी सलाह को तुम्हें उससे विचलित होने देते हो, या उसकी सुनते हो जो वह तुम्हें बता रही है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा एखादी गोष्ट तुला खोलवर अस्वस्थ करते, तेव्हा तू इतरांच्या चांगल्या सल्ल्याने तिच्यापासून विचलित होतोस का, की ती तुला काय सांगत आहे ते ऐकतोस?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A true insight does not need to attack pleasure or the people who offer it; it only has to see clearly what pleasure cannot give.",
+  "hi": {
+   "text": "सच्ची अंतर्दृष्टि को सुख या उसे देने वालों पर हमला करने की आवश्यकता नहीं; उसे केवल स्पष्ट देखना है कि सुख क्या नहीं दे सकता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खऱ्या अंतर्दृष्टीला सुखावर किंवा ते देणाऱ्यांवर हल्ला करण्याची गरज नसते; ती फक्त हे स्पष्ट पाहते की सुख काय देऊ शकत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 4; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 4; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 4; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

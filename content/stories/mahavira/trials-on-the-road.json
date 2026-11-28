@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "trials-on-the-road",
+ "order": 12,
+ "part": "renunciation",
+ "figure": {
+  "en": "Bhagavan Mahavira",
+  "hi": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "भगवान महावीर",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Trials on the Road",
+  "hi": {
+   "text": "रास्ते की परीक्षाएँ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाटेतील परीक्षा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Heat, cold, insects, dogs, blows and abuse meet the wanderer on the road, and he answers every one of them with a calm that harms no one.",
+  "hi": {
+   "text": "गर्मी, ठंड, कीड़े, कुत्ते, प्रहार और गालियाँ यात्री के मार्ग पर आती हैं, और वह हर एक का उत्तर ऐसी शांति से देता है जो किसी को हानि नहीं पहुँचाती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "उन्हाळा, थंडी, कीटक, कुत्रे, मार आणि शिवीगाळ, हे सर्व वाटसरूच्या वाटेवर येतात, आणि तो प्रत्येकाला अशा शांततेने उत्तर देतो जी कोणालाही इजा करत नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/mahavira/m-trials.webp",
+   "w": 1200,
+   "h": 816,
+   "caption": {
+    "en": "A page from a Jain ritual book (Kalpasutra)",
+    "hi": {
+     "text": "जैन ग्रंथ का पृष्ठ (कल्पसूत्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जैन ग्रंथाचे पान (कल्पसूत्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Jenny O'Donnell, CC BY-SA 2.0 uk, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BLW_Page_from_Kalpasutra_(Book_of_Rituals).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Cold and heat",
+    "hi": {
+     "text": "सर्दी और गर्मी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "थंडी आणि उन्हाळा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Acharanga Sutra, the oldest account of the wandering years, describes how Mahavira met the weather. When a cold wind blew and others sought shelter, some monks said they would wear more clothes or light a fire to bear the cold. The Venerable One desired nothing of the kind. Strong in self-control, he suffered it, despising all shelter. In the cold season he sometimes meditated in the shade. In summer he sat squatting in the full sun.\n\nHis food, the text says, was plain: rice, pounded jujube fruit and beans, on which he sustained himself for eight months. There were also long periods when he took very little, and the sutra mentions them with the same quiet tone as everything else. It says nothing of how others should live. The account is of a particular man, the last Tirthankara, in a particular time of his life, and the texts that follow draw different rules for the monks and nuns of later days.",
+    "hi": {
+     "text": "आचारांग सूत्र, भटकते वर्षों का सबसे प्राचीन वृत्तांत, बताता है कि महावीर मौसम का सामना कैसे करते थे। जब ठंडी हवा चलती और दूसरे लोग आश्रय खोजते, तो कुछ साधु कहते कि वे अधिक वस्त्र पहनेंगे या ठंड सहने के लिए आग जलाएँगे। पूज्य भगवान को ऐसी कोई इच्छा नहीं थी। आत्मसंयम से दृढ़, उन्होंने उसे सहा, हर प्रकार के आश्रय को तुच्छ जानते हुए। शीत ऋतु में वे कभी-कभी छाया में ध्यान करते थे। ग्रीष्म में वे पूरी धूप में उकड़ूँ बैठते थे।\n\nउनका आहार, पाठ कहता है, सादा था: चावल, कूटे हुए बेर और सेम, जिन पर उन्होंने आठ महीने निर्वाह किया। लंबे काल भी थे जब वे बहुत कम लेते थे, और सूत्र उन्हें उसी शांत स्वर में बताता है जिसमें वह बाकी सब बताता है। वह यह नहीं कहता कि दूसरों को कैसे जीना चाहिए। वर्णन एक विशेष व्यक्ति का है, अंतिम तीर्थंकर का, अपने जीवन के एक विशेष काल में, और आगे के ग्रंथ बाद के साधु-साध्वियों के लिए भिन्न नियम देते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आचारांग सूत्र, भटक्या वर्षांचा सर्वात प्राचीन वृत्तांत, सांगते की महावीर हवामानाला कसे सामोरे गेले. थंड वारा वाहू लागला आणि इतर लोक आश्रय शोधू लागले, तेव्हा काही साधू म्हणाले की ते अधिक वस्त्रे घालतील किंवा थंडी सहन करण्यासाठी शेकोटी पेटवतील. पूज्य भगवानांना अशी कोणतीही इच्छा नव्हती. आत्मसंयमाने दृढ राहून त्यांनी ते सहन केले, सर्व प्रकारच्या आश्रयाला तुच्छ मानत. हिवाळ्यात ते कधी कधी सावलीत ध्यान करत. उन्हाळ्यात ते पूर्ण उन्हात उकिडवे बसत.\n\nत्यांचा आहार, पाठ सांगतो, साधा होता: तांदूळ, ठेचलेली बोरे आणि वाटाणे, ज्यांवर त्यांनी आठ महिने निर्वाह केला. असेही दीर्घ काळ होते जेव्हा ते फारच कमी घेत, आणि सूत्र त्यांचा उल्लेख त्याच शांत सुरात करते जसे ते बाकी सर्व करते. ते दुसऱ्यांनी कसे जगावे हे सांगत नाही. वर्णन एका विशिष्ट व्यक्तीचे आहे, शेवटच्या तीर्थंकरांचे, त्यांच्या आयुष्याच्या एका विशिष्ट काळातील, आणि पुढील ग्रंथ नंतरच्या साधू-साध्वींसाठी भिन्न नियम देतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Insects and bites",
+    "hi": {
+     "text": "कीड़े और डंक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कीटक आणि दंश",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The sutra records that for more than four months many kinds of living beings gathered on his body, crawled over it and caused pain. He did not brush them off. He bore the discomfort of insects, flies and gnats, and of grass and fire and cold, with a mind that stayed on its path.\n\nThis is the first great principle of Jain non-violence made plain in the story: a creature that is hurting you is still a creature. The same Acharanga lecture says that he understood earth, water, fire, wind, plants and seeds to be filled with life, and avoided harming them. For a person who had been a prince, protected by servants and a palace, to sit patiently while insects crawled on him must have been a hard thing. The text uses no heroic language for it. It simply says that he endured, and that he did not strike.",
+    "hi": {
+     "text": "सूत्र दर्ज करता है कि चार महीनों से अधिक समय तक अनेक प्रकार के जीव उनके शरीर पर जमा हुए, उस पर रेंगे और पीड़ा दी। उन्होंने उन्हें झटका नहीं। उन्होंने कीड़ों, मक्खियों और मच्छरों की असुविधा सही, और घास, आग और ठंड की भी, ऐसे मन से जो अपने मार्ग पर स्थिर रहा।\n\nयह अहिंसा का पहला बड़ा सिद्धांत है जो कथा में स्पष्ट किया गया है: जो प्राणी तुम्हें कष्ट दे रहा है, वह फिर भी एक प्राणी है। उसी आचारांग अध्ययन में कहा गया है कि वे पृथ्वी, जल, अग्नि, वायु, वनस्पति और बीजों को जीवों से भरा समझते थे, और उन्हें हानि पहुँचाने से बचते थे। जिस व्यक्ति का पालन-पोषण सेवकों और महल की सुरक्षा में हुआ था, उसके लिए कीड़ों को शरीर पर रेंगते देख धैर्य से बैठना कठिन रहा होगा। पाठ उसके लिए वीरता की कोई भाषा प्रयोग नहीं करता। वह केवल कहता है कि उन्होंने सहा, और उन्होंने प्रहार नहीं किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूत्र नोंदवते की चार महिन्यांहून अधिक काळ अनेक प्रकारचे जीव त्यांच्या शरीरावर जमले, त्यावरून रेंगाळले आणि वेदना दिली. त्यांनी त्यांना झटकले नाही. त्यांनी किडे, माश्या आणि डासांचा त्रास सहन केला, आणि गवत, आग आणि थंडीचाही, अशा मनाने जे आपल्या वाटेवर स्थिर राहिले.\n\nहे अहिंसेचे पहिले मोठे तत्त्व कथेत स्पष्ट केले आहे: जो प्राणी तुम्हाला त्रास देत आहे, तो तरीही एक प्राणी आहे. त्याच आचारांग अध्यायात सांगितले आहे की ते पृथ्वी, जल, अग्नी, वायू, वनस्पती आणि बीजांना जीवांनी भरलेले मानत, आणि त्यांना इजा करणे टाळत. ज्या माणसाचे संगोपन सेवक आणि राजवाड्याच्या संरक्षणात झाले होते, त्याच्यासाठी शरीरावर कीटक रेंगाळत असताना धीराने बसणे कठीण गेले असेल. पाठ त्यासाठी शौर्याची कोणतीही भाषा वापरत नाही. तो फक्त इतकेच सांगतो की त्यांनी सहन केले, आणि त्यांनी प्रहार केला नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The dogs of Ladha",
+    "hi": {
+     "text": "लाढ़ के कुत्ते",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लाढ्यातील कुत्रे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The sutra describes a journey into the pathless country of Ladha, in Vajrabhumi and Subhrabhumi, a rough region the commentators place in the west of Bengal. There he used miserable beds and seats, and met many dangers. The natives attacked him, and even in the better part of the rough country the dogs bit him and ran at him.\n\nFew people kept the dogs away from him. Others, it says, cried out to them to make them bite. Other monks who travelled in the same country carried a stick or a stalk to keep the dogs off, and even so they were torn. Mahavira, the text says, had given up the stick, giving up violence even against the animals that were hurting him. The sutra turns to a simile of war, and says that like an elephant at the head of the battle, so was Mahavira there victorious. His victory was not over the dogs or the villagers. It was over the wish to strike back.",
+    "hi": {
+     "text": "सूत्र लाढ़ देश की पथहीन भूमि में, वज्रभूमि और सुभ्रभूमि में एक यात्रा का वर्णन करता है, एक कठोर क्षेत्र जिसे टीकाकार बंगाल के पश्चिम में रखते हैं। वहाँ उन्होंने दुखद शय्या और आसन लिए, और अनेक संकटों का सामना किया। वहाँ के लोग उन पर टूट पड़े, और कठोर क्षेत्र के अच्छे भागों में भी कुत्तों ने उन्हें काटा और उन पर दौड़े।\n\nबहुत कम लोग कुत्तों को उनसे दूर रखते थे। अन्य, पाठ कहता है, उन्हें काटने के लिए उकसाने हेतु चिल्लाते थे। उसी देश में यात्रा करने वाले अन्य साधु डंडा या सोटी साथ रखते थे ताकि कुत्ते दूर रहें, और फिर भी वे फटकारे गए। महावीर ने डंडा त्याग दिया था, पाठ कहता है, और जो उन्हें कष्ट दे रहे थे उन पशुओं के विरुद्ध भी हिंसा त्याग दी थी। सूत्र युद्ध की उपमा की ओर मुड़ता है, कि जैसे युद्ध के अग्रभाग में हाथी विजयी होता है, वैसे ही महावीर वहाँ विजयी थे। उनकी विजय न कुत्तों पर थी, न गाँववालों पर। वह उस इच्छा पर थी जो प्रहार का बदला लेना चाहती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सूत्र लाढ देशाच्या पथविहीन प्रदेशातील प्रवासाचे वर्णन करते, वज्रभूमी आणि सुभ्रभूमी येथे, एक खडतर प्रदेश जो टीकाकार बंगालच्या पश्चिमेला ठेवतात. तिथे त्यांनी दुःखद शय्या आणि आसने वापरली, आणि अनेक संकटे पेलली. तिथले लोक त्यांच्यावर तुटून पडले, आणि खडतर प्रदेशाच्या चांगल्या भागातही कुत्र्यांनी त्यांना चावा घेतला आणि त्यांच्यावर धावून गेले.\n\nफार थोडे लोक कुत्र्यांना त्यांच्यापासून दूर ठेवत. इतर, पाठ सांगतो, त्यांना चावण्यासाठी ओरडून चिथावत. त्याच देशातून प्रवास करणारे इतर साधू कुत्र्यांना दूर ठेवण्यासाठी काठी किंवा दांडा सोबत ठेवत, आणि तरीही त्यांना फाडले गेले. महावीरांनी काठी त्यागली होती, पाठ सांगतो, आणि त्यांना त्रास देणाऱ्या त्या पशूंविरुद्धही हिंसा सोडली होती. सूत्र युद्धाच्या उपमेकडे वळते, की जसा युद्धाच्या आघाडीवरील हत्ती विजयी होतो, तसे महावीर तिथे विजयी होते. त्यांचा विजय कुत्र्यांवर किंवा गावकऱ्यांवर नव्हता. तो त्या इच्छेवर होता जी प्रहाराचा सूड घेऊ पाहते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Blows and abuse",
+    "hi": {
+     "text": "प्रहार और अपमान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मार आणि अपमान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When he approached a village in Ladha, the inhabitants met him outside and told him to go away. He was struck with sticks and fists and lances, and hit with fruit, clods of earth and pieces of broken pot. Beating him again and again, many cried out. When he sat still, they cut his flesh, pulled his hair, or covered him with dust. They threw him up in the air and let him fall, or disturbed him in his postures.\n\nThe Jain tradition remembers these passages with sorrow and with reverence. The text does not call the villagers wicked. It says only that Mahavira, neglecting his body and humbling himself, bore the pain free from desire, and went forward on his way toward liberation. As a hero at the head of the battle is surrounded on all sides, the sutra says, so was he there. He did not curse them, and he did not run, and he did not answer. Asked who he was or what he wanted, the sutra says, he gave no answer, and went on his way without leaving the right path.",
+    "hi": {
+     "text": "जब वे लाढ़ के एक गाँव के पास पहुँचे, तो गाँव के लोग उनसे बाहर मिले और उन्हें चले जाने को कहा। उन पर डंडों, मुक्कों और भालों से प्रहार हुए, और फलों, मिट्टी के ढेलों और टूटे मटके के टुकड़ों से मारा गया। बार-बार पीटे जाने पर कई लोग चिल्लाए। जब वे शांत बैठे रहे, तो उन्होंने उनका मांस काटा, बाल खींचे, या उन पर धूल डाली। उन्होंने उन्हें हवा में उछाला और गिरने दिया, या उनकी मुद्राओं में बाधा डाली।\n\nजैन परंपरा इन अंशों को दुःख और श्रद्धा दोनों के साथ याद करती है। पाठ ग्रामीणों को दुष्ट नहीं कहता। वह केवल कहता है कि महावीर ने, अपने शरीर की उपेक्षा करते और स्वयं को विनम्र रखते हुए, कामना-रहित होकर पीड़ा सही, और मोक्ष की ओर अपने मार्ग पर आगे बढ़ते रहे। जैसे युद्ध के अग्रभाग में नायक सब ओर से घिर जाता है, सूत्र कहता है, वैसे ही वे वहाँ थे। उन्होंने न श्राप दिया, न भागे, न उत्तर दिया। पूछा गया कि वे कौन हैं या क्या चाहते हैं, तो सूत्र कहता है कि उन्होंने कोई उत्तर नहीं दिया, और सही मार्ग से हटे बिना अपने रास्ते चले गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जेव्हा ते लाढ्यातील एका गावाजवळ पोहोचले, तेव्हा गावकरी त्यांना बाहेरच भेटले आणि निघून जाण्यास सांगितले. काठ्या, मुठी आणि भाल्यांनी त्यांच्यावर प्रहार झाले, आणि फळे, मातीची ढेकळे आणि फुटक्या मडक्याच्या तुकड्यांनी त्यांना मारले गेले. वारंवार मार खाताना अनेक जण ओरडले. ते शांत बसून राहिले तेव्हा त्यांनी त्यांचे मांस कापले, केस ओढले, किंवा त्यांच्यावर धूळ टाकली. त्यांनी त्यांना हवेत फेकले आणि पडू दिले, किंवा त्यांच्या आसनांत अडथळे आणले.\n\nजैन परंपरा हे भाग दुःखाने आणि आदराने आठवते. पाठ गावकऱ्यांना दुष्ट म्हणत नाही. तो फक्त इतकेच सांगतो की महावीरांनी, आपल्या देहाची उपेक्षा करत आणि स्वतःला नम्र ठेवत, वासनारहित होऊन वेदना सहन केल्या, आणि मोक्षाच्या दिशेने आपल्या मार्गावर पुढे गेले. जसा युद्धाच्या आघाडीवरील वीर सर्व बाजूंनी घेरला जातो, सूत्र सांगते, तसे ते तिथे होते. त्यांनी शाप दिला नाही, पळ काढला नाही, आणि उत्तर दिले नाही. ते कोण आहेत किंवा काय हवे आहे असे विचारल्यावर, सूत्र सांगते, त्यांनी कोणतेही उत्तर दिले नाही, आणि योग्य मार्ग न सोडता आपल्या वाटेने निघून गेले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Trials by the gods",
+    "hi": {
+     "text": "देवों की परीक्षाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "देवांच्या परीक्षा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Later Jain tradition adds stories of trials sent by gods and spirits. In the Svetambara life stories, a yaksha named Shulapani at Asthikagrama frightens him through the night with terrible shapes and cries, and later a god named Sangama is said to harass him for a long time. Jacobi's note on Asthikagrama mentions the yaksha and the heap of bones, and these accounts belong to the commentaries and later lives, not to the Kalpa Sutra's own words.\n\nThe Kalpa Sutra itself says only that he bore with equanimity all pleasant and unpleasant occurrences arising from divine powers, men or animals. Whether the trials came from gods, humans or animals, the answer in every version is the same: no anger. In the Jain understanding, anger given back only binds the person further. What the stories ask a listener to see is a man whose peace could not be made to turn into hostility, even when he was tested to the limit.",
+    "hi": {
+     "text": "बाद की जैन परंपरा यक्षों और आत्माओं द्वारा भेजी गई परीक्षाओं की कथाएँ जोड़ती है। श्वेतांबर जीवन-कथाओं में, अस्थिकग्राम में शूलपाणि नामक एक यक्ष रात भर भयानक आकृतियों और चीखों से उन्हें डराता है, और बाद में संगम नामक देव के बारे में कहा जाता है कि उसने उन्हें बहुत समय तक सताया। याकोबी की अस्थिकग्राम पर टिप्पणी यक्ष और हड्डियों के ढेर का उल्लेख करती है, और ये वृत्तांत टीकाओं और बाद के जीवन-चरित्रों से हैं, कल्पसूत्र के अपने शब्दों से नहीं।\n\nस्वयं कल्पसूत्र केवल इतना कहता है कि उन्होंने दैवी शक्तियों, मनुष्यों या पशुओं से उत्पन्न सभी सुखद और दुखद घटनाओं को समभाव से सहा। चाहे परीक्षाएँ देवों से आईं, मनुष्यों से या पशुओं से, हर संस्करण का उत्तर एक ही है: क्रोध नहीं। जैन समझ में, लौटाया गया क्रोध व्यक्ति को और अधिक बाँध देता है। ये कथाएँ श्रोता से एक ऐसे व्यक्ति को देखने का आग्रह करती हैं जिसकी शांति को हिंसा में नहीं बदला जा सका, भले ही उसे अपनी सीमा तक परखा गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नंतरची जैन परंपरा यक्ष आणि आत्म्यांनी पाठवलेल्या परीक्षांच्या कथा जोडते. श्वेतांबर चरित्रांत, अस्थिकग्राम येथे शूलपाणी नावाचा एक यक्ष रात्रभर भयानक आकृत्या आणि किंचाळ्यांनी त्यांना घाबरवतो, आणि नंतर संगम नावाच्या देवाने त्यांना बराच काळ छळले असे सांगितले जाते. याकोबींची अस्थिकग्रामावरील टिप्पणी यक्ष आणि हाडांच्या ढिगाचा उल्लेख करते, आणि हे वृत्तांत टीका आणि नंतरच्या चरित्रांतील आहेत, कल्पसूत्राच्या स्वतःच्या शब्दांतील नाहीत.\n\nकल्पसूत्र स्वतः इतकेच सांगते की दैवी शक्ती, मनुष्य किंवा पशूंपासून आलेल्या सर्व सुखद आणि दुःखद घटना त्यांनी समभावाने सहन केल्या. परीक्षा देवांकडून आल्या, मनुष्यांकडून किंवा पशूंकडून, प्रत्येक आवृत्तीचे उत्तर एकच आहे: राग नाही. जैन समजुतीत, परत दिलेला राग माणसाला अधिकच बांधून टाकतो. या कथा श्रोत्याला अशा व्यक्तीकडे पाहण्याचा आग्रह करतात ज्याची शांतता हिंसेत बदलता आली नाही, जरी त्याची त्याच्या मर्यादेपर्यंत परीक्षा घेतली गेली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "he with equanimity bore, underwent, and suffered all pleasant or unpleasant occurrences arising from divine powers, men, or animals.",
+  "lang": "en",
+  "cite": {
+   "en": "Kalpa Sutra §117 (tr. Jacobi, 1884)",
+   "hi": {
+    "text": "कल्पसूत्र §117 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "कल्पसूत्र §117 (अनुवाद: याकोबी, 1884)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Whatever came to Mahavira, from any source, he met with an even mind.",
+   "hi": {
+    "text": "जो कुछ भी महावीर तक किसी भी स्रोत से पहुँचा, उन्होंने उसे समचित्त से सहा।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "महावीरांपर्यंत कोणत्याही स्रोतातून जे काही आले, ते त्यांनी समचित्ताने सहन केले.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When something hurts you, what is the first thing you want to do, and what would an even mind do instead?",
+  "hi": {
+   "text": "जब कुछ तुम्हें दुख देता है, तो पहली चीज़ जो तुम करना चाहते हो वह क्या है, और समचित्त व्यक्ति उसकी जगह क्या करेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा काही तुला दुःख देते, तेव्हा तुला सर्वात आधी काय करावेसे वाटते, आणि समचित्त माणूस त्याऐवजी काय करेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Non-violence in the Jain tradition begins with the refusal to answer harm with harm, even in thought.",
+  "hi": {
+   "text": "जैन परंपरा में अहिंसा उस इनकार से शुरू होती है कि हानि का उत्तर हानि से दिया जाए, यहाँ तक कि विचार में भी।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जैन परंपरेत अहिंसा त्या नकारातून सुरू होते की हानीचे उत्तर हानीने द्यायचे नाही, अगदी मनातही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Kalpa Sutra (Life of Mahavira), §§117–119, with Acharanga Sutra I, 9; retold in our own words",
+  "hi": {
+   "text": "कल्पसूत्र (महावीर का जीवन), §§117–119, आचारांग सूत्र (प्रथम श्रुतस्कंध), अध्ययन ९ के साथ; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कल्पसूत्र (महावीरांचे चरित्र), §§117–119, आचारांग सूत्र (प्रथम श्रुतस्कंध), अध्ययन ९ यासह; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

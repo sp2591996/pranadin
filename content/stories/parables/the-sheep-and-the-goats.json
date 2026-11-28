@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-sheep-and-the-goats",
+ "order": 17,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Sheep and the Goats",
+  "hi": {
+   "text": "भेड़ें और बकरियाँ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मेंढरे आणि शेळ्या",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A king says to those who fed, clothed and visited the least of people, that they did it to him.",
+  "hi": {
+   "text": "एक राजा उन लोगों से कहता है जिन्होंने सबसे छोटे लोगों को भोजन, वस्त्र और सहायता दी, कि उन्होंने वह उसी के साथ किया।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक राजा ज्यांनी सर्वात लहान लोकांना अन्न, वस्त्र आणि भेट दिली त्यांना सांगतो की त्यांनी ते त्याच्याशीच केले.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-sheep-bonheur.webp",
+   "w": 1200,
+   "h": 660,
+   "caption": {
+    "en": "A shepherd with his flock of sheep, Rosa Bonheur",
+    "hi": {
+     "text": "भेड़ों के झुंड के साथ चरवाहा, रोज़ा बोनर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मेंढरांच्या कळपासह मेंढपाळ, रोझा बॉन्हर",
+     "reviewed": false
+    }
+   },
+   "credit": "Rosa Bonheur, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_shepherd_with_his_flock_of_sheep_-_Rosa_Bonheur.webp"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The last teaching",
+    "hi": {
+     "text": "अंतिम शिक्षा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटची शिकवण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "This is the final teaching of Jesus before the story of his suffering begins in Matthew. He is still on the Mount of Olives, speaking to his disciples about the future, and this passage closes a long series that includes the ten bridesmaids and the talents. It is sometimes called a parable, though it is closer to a vision of a great judgement told with the image of a shepherd and his flock.\n\nHe begins by describing the Son of Man coming in glory, with all the angels, and sitting on a throne with all the nations gathered before him. Then he does something very ordinary. He compares what happens next to a shepherd who separates sheep from goats, a task that people in those hills watched every day. It sets a scene of great scale next to a plain daily picture.",
+    "hi": {
+     "text": "मत्ती में यह यीशु की उस अंतिम शिक्षा है जो उनके दुःख भोगने की कथा शुरू होने से पहले आती है। वे अब भी जैतून पहाड़ पर हैं, और अपने शिष्यों से भविष्य के बारे में बोल रहे हैं। यह अंश उस लंबी श्रृंखला को समाप्त करता है जिसमें दस कुँवारियों और तालंतों के दृष्टांत भी हैं। इसे कभी-कभी दृष्टांत कहा जाता है, हालाँकि यह एक महान न्याय के दर्शन के अधिक निकट है, जो एक चरवाहे और उसके झुंड के चित्र में कहा गया है।\n\nवे आरंभ करते हैं मनुष्य के पुत्र के महिमा के साथ आने का वर्णन करते हुए, सभी स्वर्गदूतों के साथ, और सिंहासन पर बैठते हुए, जिसके सामने सभी जातियाँ इकट्ठी हैं। फिर वे एक बहुत साधारण बात करते हैं। वे आगे होने वाली बात की तुलना एक चरवाहे से करते हैं जो भेड़ों को बकरियों से अलग करता है, ऐसा काम जिसे उन पहाड़ियों के लोग रोज़ देखते थे। यह एक बड़े पैमाने के दृश्य को एक साधारण दैनिक चित्र के बगल में रख देता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्तीमध्ये यीशूची ही शेवटची शिकवण आहे, जी त्यांच्या दुःखसहनाची कथा सुरू होण्यापूर्वी येते. ते अजूनही जैतून डोंगरावर आहेत, आणि आपल्या शिष्यांशी भविष्याविषयी बोलत आहेत. हा उतारा दहा कुमारिका आणि तलांतांच्या दृष्टांतांचा समावेश असलेली एक लांब मालिका संपवतो. याला कधी कधी दृष्टांत म्हटले जाते, जरी तो एका मेंढपाळाच्या आणि त्याच्या कळपाच्या प्रतिमेतून सांगितलेल्या एका महान न्यायाच्या दृष्टान्तासारखा अधिक आहे.\n\nते मनुष्याच्या पुत्राचे वैभवात येणे वर्णन करून सुरुवात करतात, सर्व देवदूतांसह, आणि सिंहासनावर बसलेला, ज्याच्या समोर सर्व राष्ट्रे एकत्र आली आहेत. मग ते एक अतिशय साधी गोष्ट करतात. पुढे जे घडते त्याची तुलना ते एका मेंढपाळाशी करतात जो मेंढरांना शेळ्यांपासून वेगळे करतो, असे काम जे त्या डोंगरातील लोक रोज पाहत. हे एका मोठ्या प्रमाणाच्या दृश्याला एका साध्या दैनंदिन चित्राच्या शेजारी ठेवते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Right hand and left",
+    "hi": {
+     "text": "दाहिने हाथ और बाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उजवा हात आणि डावा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the image, the shepherd puts the sheep on his right and the goats on his left, and the king then addresses the two groups. To those on his right he says, Come, you who are blessed by my Father, inherit the Kingdom prepared for you from the foundation of the world. Then he gives the reason, in six short sentences.\n\nI was hungry, and you gave me food. I was thirsty, and you gave me a drink. I was a stranger, and you took me in. I was naked, and you clothed me. I was sick, and you visited me. I was in prison, and you came to me. The list is simple and concrete, a catalogue of the most basic human needs and the most ordinary acts of care that anyone can offer.",
+    "hi": {
+     "text": "चित्र में चरवाहा भेड़ों को अपने दाहिने और बकरियों को बाएँ रखता है, और राजा दोनों समूहों को संबोधित करता है। जो उसकी दाहिनी ओर हैं उनसे वह कहता है, आओ, तुम जो मेरे पिता के धन्य हो, जगत की उत्पत्ति से तुम्हारे लिए तैयार किए गए राज्य को अपना बना लो। फिर वह कारण बताता है, छह छोटे वाक्यों में।\n\nमैं भूखा था, और तुमने मुझे भोजन दिया। मैं प्यासा था, और तुमने मुझे पानी पिलाया। मैं परदेशी था, और तुमने मुझे अपने घर में रखा। मैं नंगा था, और तुमने मुझे वस्त्र पहनाए। मैं बीमार था, और तुम मुझसे मिलने आए। मैं कैद में था, और तुम मेरे पास आए। यह सूची सरल और ठोस है, सबसे मूल मानवीय ज़रूरतों और सबसे साधारण सेवा के कार्यों की एक सूची, जिसे कोई भी व्यक्ति दे सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चित्रात मेंढपाळ मेंढरांना आपल्या उजव्या बाजूला आणि शेळ्यांना डाव्या बाजूला ठेवतो, आणि मग राजा दोन्ही गटांना संबोधितो. जे त्याच्या उजवीकडे आहेत त्यांना तो म्हणतो, या, तुम्ही जे माझ्या पित्याकडून धन्य झालात, जगाच्या उत्पत्तीपासून तुमच्यासाठी तयार केलेले राज्य वतन म्हणून घ्या. मग तो कारण सांगतो, सहा छोट्या वाक्यांत.\n\nमी भुकेला होतो, आणि तुम्ही मला अन्न दिले. मी तहानलेला होतो, आणि तुम्ही मला पाणी पाजले. मी परका होतो, आणि तुम्ही मला घरी घेतले. मी उघडा होतो, आणि तुम्ही मला वस्त्र दिले. मी आजारी होतो, आणि तुम्ही मला भेटायला आलात. मी तुरुंगात होतो, आणि तुम्ही माझ्याकडे आलात. यादी सोपी आणि ठोस आहे, सर्वात मूलभूत मानवी गरजा आणि कोणीही देऊ शकेल अशा सर्वात साध्या काळजीच्या कृतींची सूची.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "When did we see you?",
+    "hi": {
+     "text": "हमने तुझे कब देखा?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आम्ही तुला कधी पाहिले?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The righteous are surprised. Lord, they say, when did we see you hungry and feed you, or thirsty and give you a drink? When did we see you a stranger and take you in, or naked and clothe you? When did we see you sick or in prison and come to you? They had not been counting, and had not thought of their kindness as anything out of the ordinary.\n\nThe king answers, Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me. Christians read this as a statement that Christ is present in every person who suffers, and that care shown to the poorest is care shown to him. The heart of the judgement is not belief or ritual but the way people treated one another.",
+    "hi": {
+     "text": "धर्मी लोग चकित होते हैं। हे प्रभु, वे कहते हैं, हमने तुझे कब भूखा देखा और खिलाया, या प्यासा देखा और पानी पिलाया? हमने तुझे कब परदेशी देखा और घर में रखा, या नंगा देखा और वस्त्र पहनाए? हमने तुझे कब बीमार या कैद में देखा और तेरे पास आए? उन्होंने गिनती नहीं की थी, और अपनी दया को कुछ असाधारण नहीं सोचा था।\n\nराजा उत्तर देता है, मैं तुमसे सच-सच कहता हूँ, क्योंकि तुमने इन सबसे छोटे भाइयों में से एक के साथ यह किया, तुमने मेरे साथ किया। ईसाई इसे इस कथन के रूप में पढ़ते हैं कि मसीह हर उस व्यक्ति में उपस्थित है जो दुःख झेलता है, और सबसे गरीब के साथ दिखाई गई देखभाल उसी के साथ दिखाई गई देखभाल है। न्याय का मर्म विश्वास या अनुष्ठान नहीं, बल्कि यह है कि लोगों ने एक-दूसरे के साथ कैसा व्यवहार किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नीतिमान लोक आश्चर्यचकित होतात. प्रभू, ते म्हणतात, आम्ही तुला कधी भुकेलेले पाहिले आणि खाऊ घातले, किंवा तहानलेले पाहिले आणि पाणी पाजले? आम्ही तुला कधी परके पाहिले आणि घरी घेतले, किंवा उघडे पाहिले आणि वस्त्र दिले? आम्ही तुला कधी आजारी किंवा तुरुंगात पाहिले आणि तुझ्याकडे आलो? त्यांनी मोजले नव्हते, आणि आपल्या दयेला काहीतरी असाधारण मानले नव्हते.\n\nराजा उत्तर देतो, मी तुम्हांला खरोखर सांगतो, कारण तुम्ही या माझ्या सर्वात लहान बांधवांपैकी एकाशी असे केले, तुम्ही माझ्याशी केले. ख्रिस्ती हे असे विधान म्हणून वाचतात की ख्रिस्त प्रत्येक दुःख भोगणार्या व्यक्तीमध्ये उपस्थित आहे, आणि सर्वात गरिबाला दाखवलेली काळजी ही त्याला दाखवलेली काळजी आहे. न्यायाचा गाभा विश्वास किंवा विधी नसून, लोकांनी एकमेकांशी कसे वागले ही गोष्ट आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The other side",
+    "hi": {
+     "text": "दूसरी ओर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसरी बाजू",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then the king turns to those on his left and speaks the same list in reverse. I was hungry, and you did not feed me. I was a stranger, and you did not take me in. They too are puzzled, and they ask when they saw him in need and did not help. He answers that what they did not do for the least of these, they did not do for him.\n\nThe passage closes with severe words about eternal punishment for some and eternal life for the righteous. These are the words Christians have held with the greatest seriousness, and they are a reminder that Jesus treated indifference to suffering as a grave matter. Note that those condemned have not committed dramatic crimes. Their failure is simply that they saw need and looked away.",
+    "hi": {
+     "text": "फिर राजा अपनी बाईं ओर वालों की ओर मुड़ता है और वही सूची उल्टे क्रम में बोलता है। मैं भूखा था, और तुमने मुझे भोजन नहीं दिया। मैं परदेशी था, और तुमने मुझे अपने घर में नहीं रखा। वे भी चकित होते हैं, और पूछते हैं कि उन्होंने उसे ज़रूरत में कब देखा और मदद नहीं की। वह उत्तर देता है कि जो उन्होंने इन सबसे छोटों के लिए नहीं किया, वह उसके लिए भी नहीं किया।\n\nयह अंश कुछ लोगों के लिए अनंत दंड और धर्मियों के लिए अनंत जीवन के कठोर शब्दों के साथ समाप्त होता है। ये वे शब्द हैं जिन्हें ईसाइयों ने सबसे अधिक गंभीरता से थामा है, और ये एक याद दिलाते हैं कि यीशु ने दुःख के प्रति उदासीनता को गंभीर विषय माना। ध्यान दें कि जिन्हें दोषी ठहराया गया है, उन्होंने कोई नाटकीय अपराध नहीं किया है। उनकी विफलता सीधी है कि उन्होंने ज़रूरत देखी और मुँह फेर लिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग राजा आपल्या डावीकडच्यांकडे वळतो आणि तीच यादी उलट्या क्रमाने सांगतो. मी भुकेला होतो, आणि तुम्ही मला अन्न दिले नाही. मी परका होतो, आणि तुम्ही मला घरी घेतले नाही. तेही गोंधळतात, आणि विचारतात की त्यांनी त्याला गरजेत कधी पाहिले आणि मदत केली नाही. तो उत्तर देतो की जे त्यांनी या सर्वात लहानांसाठी केले नाही, ते त्याच्यासाठीही केले नाही.\n\nहा उतारा काही लोकांसाठी सार्वकालिक शिक्षेविषयी आणि नीतिमानांसाठी सार्वकालिक जीवनाविषयीच्या कठोर शब्दांनी संपतो. हे असे शब्द आहेत जे ख्रिस्ती लोकांनी सर्वात गांभीर्याने धरले आहेत, आणि ते आठवण करून देतात की यीशूने दुःखाविषयीच्या उदासीनतेला गंभीर बाब मानले. लक्षात घ्या की ज्यांना दोषी ठरवले गेले आहे त्यांनी कोणताही नाट्यमय गुन्हा केलेला नाही. त्यांची चूक साधी आहे की त्यांनी गरज पाहिली आणि तोंड फिरवले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Care as the measure",
+    "hi": {
+     "text": "देखभाल ही पैमाना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काळजी हेच मोजमाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Of all the parables, this is the one that most clearly turns the spotlight outward. It describes no secret knowledge and no fine point of belief. It asks whether we fed the hungry, welcomed the stranger, and visited the sick and the imprisoned. For many Christians it is the plainest summary of what faith looks like when it is lived.\n\nReaders of every tradition may find that the passage echoes their own teachings on compassion and charity. Most of the world's faiths hold that the way we treat the most vulnerable is a test of our character. Whatever we believe about the larger picture, the questions of this story are close at hand, in the next hungry person we meet, the next lonely neighbour, and the next person who needs a door opened. What counts, in the end, may be the small kindnesses we hardly noticed we were doing.",
+    "hi": {
+     "text": "सभी दृष्टांतों में यही वह है जो सबसे स्पष्ट रूप से रोशनी को बाहर की ओर मोड़ती है। यह किसी गुप्त ज्ञान या विश्वास की किसी बारीक बात का वर्णन नहीं करती। यह पूछती है कि क्या हमने भूखे को भोजन दिया, परदेशी का स्वागत किया, और बीमारों और कैदियों से मिलने गए। कई ईसाइयों के लिए यह उस विश्वास का सबसे सीधा सार है जब वह जिया जाता है।\n\nहर परंपरा के पाठक पा सकते हैं कि यह अंश करुणा और दान पर उनकी अपनी शिक्षाओं की गूँज देता है। दुनिया के अधिकांश धर्म मानते हैं कि हम सबसे कमज़ोरों के साथ कैसा व्यवहार करते हैं, वह हमारे चरित्र की परीक्षा है। बड़े चित्र के बारे में हम जो भी मानें, इस कथा के प्रश्न पास ही हैं, अगले भूखे व्यक्ति में जिससे हम मिलें, अगले अकेले पड़ोसी में, और उस अगले व्यक्ति में जिसे दरवाज़ा खुलवाने की ज़रूरत है। अंत में जो मायने रखता है वह शायद वे छोटी दयालुताएँ हैं जिन पर हमने ध्यान भी नहीं दिया कि हम कर रहे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्व दृष्टांतांत ही सर्वात स्पष्टपणे प्रकाश बाहेरच्या दिशेने वळवणारी आहे. ती कोणत्याही गुप्त ज्ञानाचे किंवा विश्वासातील सूक्ष्म मुद्द्याचे वर्णन करत नाही. ती विचारते की आपण भुकेल्याला अन्न दिले, परक्याचे स्वागत केले, आणि आजारी व तुरुंगात असलेल्यांची भेट घेतली का. अनेक ख्रिस्ती लोकांसाठी विश्वास जगला जातो तेव्हा त्याचा हा सर्वात सरळ सारांश आहे.\n\nसर्व परंपरांचे वाचक या उतार्यात करुणा आणि दानाबद्दलच्या स्वतःच्या शिकवणीचे प्रतिध्वनी पाहू शकतात. जगातील बहुतेक धर्म मानतात की आपण सर्वात असुरक्षितांशी जसे वागतो ती आपल्या चारित्र्याची कसोटी आहे. मोठ्या चित्राविषयी आपण जे काही मानतो, तरी या कथेचे प्रश्न जवळच आहेत, पुढच्या भुकेल्या व्यक्तीत, पुढच्या एकाकी शेजार्यात, आणि ज्याला दरवाजा उघडून हवा आहे त्या पुढच्या व्यक्तीत. शेवटी जे महत्त्वाचे ठरेल ते कदाचित ते छोटे दयाळूपणाचे कृत्य असेल जे आपण करत आहोत हे आपल्याला लक्षातही आले नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 25:40 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 25:40 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 25:40 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Care given to the smallest and neediest person is counted as care given to the king himself.",
+   "hi": {
+    "text": "सबसे छोटे और सबसे ज़रूरतमंद व्यक्ति के प्रति की गई देखभाल को राजा स्वयं के प्रति की गई देखभाल माना जाता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "सर्वात लहान आणि सर्वात गरजू व्यक्तीला दिलेली काळजी राजाला स्वतःलाच दिलेली काळजी म्हणून मोजली जाते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Who near you is hungry, lonely, sick or overlooked right now? What is one simple, concrete thing you could do for them this week?",
+  "hi": {
+   "text": "तुम्हारे पास कौन भूखा, अकेला, बीमार या उपेक्षित है इस समय? इस सप्ताह उनके लिए तुम एक सरल, ठोस काम क्या कर सकते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या जवळ कोण सध्या भुकेले, एकाकी, आजारी किंवा दुर्लक्षित आहे? या आठवड्यात त्यांच्यासाठी तुम्ही कोणती एक साधी, ठोस गोष्ट करू शकता?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The measure of a life is found in plain acts of care for those in need, and each person in need is to be met as if they were the one we revere most.",
+  "hi": {
+   "text": "जीवन का मापदंड ज़रूरतमंदों के प्रति साधारण देखभाल के कार्यों में मिलता है, और हर ज़रूरतमंद व्यक्ति से वैसे ही मिलना है जैसे वह हमारे सबसे आदरणीय व्यक्ति हों।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जीवनाचे मोजमाप गरजू लोकांसाठी केलेल्या साध्या काळजीच्या कृतींमध्ये सापडते, आणि प्रत्येक गरजू व्यक्तीला ज्याला आपण सर्वात जास्त आदर देतो तशीच भेट द्यायची असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 25:31-46; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 25:31-46 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 25:31-46 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

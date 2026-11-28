@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "fixing-his-years",
+ "order": 23,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Fixing His Years",
+  "hi": {
+   "text": "अपने वर्षों का निश्चय",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपल्या आयुष्याचा निर्णय",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The princes of Vaishali ride out in splendour to hear him, Mara reminds him of an old promise, and the Buddha sets the span of his remaining life.",
+  "hi": {
+   "text": "वैशाली के राजकुमार वैभव के साथ उनके दर्शन को आते हैं, मार उन्हें उनके पुराने वचन की याद दिलाता है, और बुद्ध अपने शेष जीवन की अवधि तय करते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वैशालीचे राजपुत्र वैभवाने त्यांचे दर्शन घ्यायला येतात, मार त्यांना जुन्या वचनाची आठवण करून देतो, आणि बुद्ध उरलेल्या आयुष्याची मुदत निश्चित करतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-fixing.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Buddha relic stupa, Vaishali",
+    "hi": {
+     "text": "बुद्ध स्तूप, वैशाली",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्ध स्तूप, वैशाली",
+     "reviewed": false
+    }
+   },
+   "credit": "Sumitsurai, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_Relic_Stupa_-_Vaishali_(5).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The princes arrive",
+    "hi": {
+     "text": "राजकुमारों का आगमन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्रांचे आगमन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The great men among the Licchavis heard that the lord of the world had come into their country and was staying in the mango grove. They went there in colourful chariots with silk canopies, wearing robes of blue, red, yellow and white, each with his own emblem, and escorted by bodyguards, while others cleared the road ahead. They wore flowered garments and heavenly crowns and every kind of costly ornament. Their noble forms added glory to the grove.\n\nWhen they came near, they took off the five marks of their rank, got down from their chariots and walked. They advanced slowly, with bated breath and respectful bodies, bowed and worshipped the Buddha's feet, and gathered round him like a great crowd around the sun's disc. Beal notes that the picture of chariots, cognizances and display fits what is known of the Licchavi people, who are believed to have come from the north. The poem sets up a contrast between their splendour and the plain seat of the man they have come to hear.",
+    "hi": {
+     "text": "लिच्छवियों के महान पुरुषों ने सुना कि संसार के स्वामी उनके देश में पधारे हैं और आम्र उपवन में ठहरे हैं। वे रंग-बिरंगे रथों में गए, जिन पर रेशमी छत्र थे, नीले, लाल, पीले और सफेद वस्त्र पहने हुए, हर एक अपने प्रतीक-चिह्न के साथ, और अंगरक्षकों से घिरे हुए, जबकि अन्य लोग आगे का मार्ग साफ़ कर रहे थे। उन्होंने फूलों वाले वस्त्र और स्वर्गीय मुकुट तथा हर प्रकार के मूल्यवान आभूषण पहने थे। उनकी भव्य आकृतियाँ उपवन की शोभा बढ़ा रही थीं।\n\nजब वे निकट आए, तो उन्होंने अपने पद के पाँच चिह्न उतार दिए, रथों से उतरे और पैदल चले। उन्होंने धीरे-धीरे, साँस रोककर और आदर से झुके हुए शरीरों के साथ आगे बढ़कर बुद्ध के चरणों में प्रणाम किया, और सूर्य-मंडल के चारों ओर एकत्र होती बड़ी भीड़ की तरह उनके चारों ओर जुट गए। बील नोट करते हैं कि रथ, चिह्न और वैभव का यह चित्र लिच्छवि लोगों के बारे में जो ज्ञात है उससे मेल खाता है, जिनके बारे में माना जाता है कि वे उत्तर से आए थे। काव्य उनके वैभव और उस सादे आसन के बीच विरोध दिखाता है, जिस पर बैठकर वह व्यक्ति उपदेश देने वाला है जिसे वे सुनने आए हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लिच्छवींमधील थोर पुरुषांनी ऐकले की जगाचे स्वामी त्यांच्या देशात आले आहेत आणि आम्रवनात उतरले आहेत. ते रंगीत रथांतून गेले, ज्यांच्यावर रेशमी छत्र होते, निळे, लाल, पिवळे आणि पांढरे वस्त्र परिधान केलेले, प्रत्येकाचे स्वतःचे चिन्ह घेऊन, अंगरक्षकांसह, आणि इतर लोक पुढचा मार्ग मोकळा करत होते. त्यांनी फुलांची वस्त्रे, स्वर्गीय मुकुट आणि सर्व प्रकारचे मौल्यवान अलंकार परिधान केले होते. त्यांच्या भव्य आकृत्यांनी उपवनाची शोभा वाढवली होती.\n\nजवळ आल्यावर त्यांनी आपल्या पदाचे पाच चिन्ह उतरवले, रथातून उतरले आणि पायी चालले. ते हळूहळू, श्वास रोखून आणि आदराने वाकलेल्या देहांनिशी पुढे आले, बुद्धांच्या चरणांना वंदन केले, आणि सूर्यबिंबाभोवती जमणाऱ्या मोठ्या जमावाप्रमाणे त्यांच्याभोवती गोळा झाले. बील नोंदवतात की रथ, चिन्हे आणि भपका यांचे हे चित्र लिच्छवी लोकांविषयी जे ज्ञात आहे त्याच्याशी जुळते, जे उत्तरेकडून आले असावेत असे मानले जाते. काव्य त्यांच्या वैभवाची आणि ज्या साध्या आसनावर बसून तो माणूस उपदेश करणार आहे, त्याची यांच्यात तुलना करते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The lion and the lion's teaching",
+    "hi": {
+     "text": "सिंह और सिंह का उपदेश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिंह आणि सिंहाचा उपदेश",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Their chief, a man with the bold build and eyes of a lion, stood among them, but without a lion's pride, because the lion of the Shakyas was about to teach him. The Buddha spoke. Great and illustrious ones, famed as a tribe for grace and comeliness, put aside the world's high thoughts, he said, and accept the added lustre of religion. Wealth and beauty, scented flowers and ornaments are not to be compared in grace with moral rectitude.\n\nYour land is fertile and peaceful, he said, and that is your renown, but true grace of body and a happy people depend on a well-governed heart. Add a joyful feeling for religion, and a country's fame is at its height. Cherish your people with care and lead them in the right way, as the ox-king leads the herd across the ford. Precious gems come out of the desert earth, and moral conduct is the earth from which all good grows. With it, we fly without wings and cross a river without needing a boat.",
+    "hi": {
+     "text": "उनका नेता, जिसकी देह और नेत्र सिंह के समान थे, उनके बीच खड़ा था, परंतु सिंह जैसे गर्व के बिना, क्योंकि शाक्यों का सिंह उसे उपदेश देने वाला था। बुद्ध बोले। हे महान और प्रसिद्ध जनो, जो अपनी कृपा और सौंदर्य के लिए जाति के रूप में विख्यात हो, संसार के ऊँचे विचार त्याग दो, उन्होंने कहा, और धर्म की अतिरिक्त आभा स्वीकार करो। धन और सौंदर्य, सुगंधित फूल और अलंकार, नैतिक सदाचार की कृपा के सामने तुलनीय नहीं हैं।\n\nतुम्हारी भूमि उपजाऊ और शांत है, उन्होंने कहा, और यही तुम्हारी ख्याति है, पर शरीर का सच्चा सौंदर्य और प्रजा का सुख एक सुशासित हृदय पर निर्भर करते हैं। धर्म के प्रति आनंदपूर्ण भावना जोड़ो, और देश की कीर्ति अपने शिखर पर होगी। अपनी प्रजा को सावधानी से संभालो और सही मार्ग पर ले चलो, जैसे बैलों का राजा झुंड को नदी पार कराता है। बहुमूल्य रत्न रेगिस्तानी मिट्टी से निकलते हैं, और नैतिक आचरण वह भूमि है जिससे सारा शुभ उगता है। उसके साथ हम बिना पंखों के उड़ते हैं और बिना नाव के नदी पार करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांचा प्रमुख, सिंहासारखी बांधणी आणि डोळे असलेला, त्यांच्यामध्ये उभा होता, पण सिंहासारखा अभिमान न बाळगता, कारण शाक्यांचा सिंह त्याला उपदेश करणार होता. बुद्ध बोलले. हे महान आणि प्रसिद्ध लोकांनो, जे कृपा आणि सौंदर्यासाठी एक जमात म्हणून प्रसिद्ध आहात, जगाचे उच्च विचार सोडून द्या, ते म्हणाले, आणि धर्माची अधिक तेजस्वी शोभा स्वीकारा. संपत्ती आणि सौंदर्य, सुगंधी फुले आणि अलंकार हे नैतिक सचोटीच्या कृपेशी तुलनीय नाहीत.\n\nतुमचा देश सुपीक आणि शांत आहे, ते म्हणाले, आणि तीच तुमची कीर्ती आहे, पण शरीराची खरी शोभा आणि सुखी प्रजा सुशासित हृदयावर अवलंबून असते. धर्माबद्दल आनंदी भावना जोडा, आणि देशाची कीर्ती शिखरावर पोहोचेल. आपल्या प्रजेची काळजीपूर्वक जोपासना करा आणि तिला योग्य मार्गावर न्या, जसा बैलांचा राजा कळपाला नदी ओलांडून नेतो. मौल्यवान रत्ने वाळवंटी मातीतून निघतात, आणि नैतिक आचरण ही ती भूमी आहे जिच्यातून सर्व कल्याण उगवते. त्याच्या साहाय्याने आपण पंखांविना उडतो आणि नौकेविना नदी ओलांडतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Pride and anger",
+    "hi": {
+     "text": "अभिमान और क्रोध",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अभिमान आणि क्रोध",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then he spoke of what spoils a good life. He gave the example of a king who became a hermit, who wore dyed garments, bathed three times a day, sacrificed to fire, breathed the wind, drank from the Ganges and fasted bitterly, and yet, having no strict morality, was immersed in sorrow. A man may live like a brute and still not be a vessel of the righteous law. Pure conduct, he said, is a guide through the wilderness of birth and death, and like a ladder it lets us climb.\n\nThe poem returns to pride of self, which covers every lofty aim as ashes cover a fire, so that treading on it burns the foot. Age and disease waste youthful beauty, and pride of self destroys virtue, and from jealousy and envy the gods and demigods went to war. Lust is a fire that cannot be put out with water, he said. Anger dulls the eye, chokes the wish to hear the truth, and divides a family, and whoever can hold his wild and angry heart is an illustrious charioteer.",
+    "hi": {
+     "text": "फिर उन्होंने उस बात की चर्चा की जो अच्छे जीवन को बिगाड़ देती है। उन्होंने एक ऐसे राजा का उदाहरण दिया जो तपस्वी बन गया, रंगे वस्त्र पहने, दिन में तीन बार स्नान किया, अग्नि को आहुति दी, हवा पर जीवित रहा, गंगा का जल पिया और कठोर उपवास किया, फिर भी नैतिक संयम न होने के कारण वह दुःख में डूबा रहा। मनुष्य पशु जैसा जीवन जी सकता है और फिर भी धर्म का पात्र नहीं बनता। शुद्ध आचरण, उन्होंने कहा, जन्म-मृत्यु के वन में मार्गदर्शक है, और सीढ़ी की तरह वह हमें ऊपर चढ़ने देता है।\n\nकाव्य आत्माभिमान पर लौटता है, जो हर उच्च लक्ष्य को वैसे ढक देता है जैसे राख आग को ढक देती है, इतना कि उस पर पैर रखने से पैर जल जाता है। बुढ़ापा और रोग यौवन के सौंदर्य को क्षीण करते हैं, आत्माभिमान सद्गुण को नष्ट करता है, और ईर्ष्या तथा द्वेष से देवता और दैत्य युद्ध करने चले गए। वासना, उन्होंने कहा, ऐसी आग है जिसे पानी से बुझाया नहीं जा सकता। क्रोध नेत्रों को धुंधला करता है, सत्य सुनने की इच्छा को रोकता है, और परिवार को बाँट देता है, और जो अपने उग्र और क्रोधी हृदय को थाम सके, वही श्रेष्ठ सारथी है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग त्यांनी जे चांगले जीवन बिघडवते त्याबद्दल सांगितले. त्यांनी एका अशा राजाचे उदाहरण दिले जो तपस्वी बनला, रंगीत वस्त्रे परिधान केली, दिवसातून तीन वेळा स्नान केले, अग्नीला आहुती दिली, वाऱ्यावर जगला, गंगेचे पाणी प्याले आणि कठोर उपवास केले, तरी नैतिक संयम नसल्यामुळे तो दुःखात बुडालेला राहिला. माणूस पशूसारखे जगूनही धर्माचे पात्र होत नाही, ते म्हणाले. शुद्ध आचरण, ते म्हणाले, जन्म-मृत्यूच्या अरण्यात मार्गदर्शक आहे, आणि शिडीसारखे ते आपल्याला वर चढू देते.\n\nकाव्य आत्माभिमानाकडे परत येते, जो प्रत्येक उच्च ध्येयाला राखेने विस्तवाला झाकावे तसे झाकतो, इतका की त्यावर पाय ठेवला तर पाय भाजतो. म्हातारपण आणि रोग तारुण्याचे सौंदर्य झिजवतात, आत्माभिमान सद्गुण नष्ट करतो, आणि असूया व द्वेषामुळे देव आणि दानव युद्धाला निघाले. वासना, ते म्हणाले, अशी अग्नी आहे जी पाण्याने विझत नाही. क्रोध डोळ्यांना अंधुक करतो, सत्य ऐकण्याची इच्छा रोखतो, आणि कुटुंबात फूट पाडतो, आणि जो आपल्या उग्र व रागीट हृदयाला आवरू शकतो, तोच श्रेष्ठ सारथी आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two invitations",
+    "hi": {
+     "text": "दो निमंत्रण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन निमंत्रणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Buddha spoke as a good physician prescribes, according to the disease. The Licchavis bowed at his feet and placed them on their heads, and asked him and the community to accept their poor offerings the next day. The Buddha told them that the lady Amra had already invited him. Pride and disappointment rose in them, and they said that she should not take away their profit. But they knew his heart to be impartial and fair, and they regained their cheerfulness.\n\nThe Buddha appeased them, and as a snake subdued by charms shines again with glossy skin, they regained their grandeur of appearance. When the night had passed and dawn appeared, he and the great assembly went to Amra's house and received her meal. They went on to the village of Beluva, where he spent the three months of the rainy season. When the rest was over, he returned to Vaishali and stayed beside a pond called the Monkey Tank, and he sat in a shady grove, shedding a flood of glory from his person.",
+    "hi": {
+     "text": "बुद्ध ने वैसे ही बोला जैसे एक अच्छा वैद्य रोग के अनुसार औषधि देता है। लिच्छवियों ने उनके चरणों पर मस्तक टेका और उनसे प्रार्थना की कि वे कल संघ सहित उनका तुच्छ अर्पण स्वीकारें। बुद्ध ने उन्हें बताया कि उन्हें आम्रपाली ने पहले ही निमंत्रित किया है। अभिमान और निराशा उनके मन में उठी, और उन्होंने कहा कि वह उनका लाभ न छीने। पर वे उनके हृदय को निष्पक्ष और न्यायी जानते थे, और उनका उल्लास लौट आया।\n\nबुद्ध ने उन्हें शांत किया, और जैसे मंत्र से वश में किया गया सर्प चमकीली त्वचा के साथ फिर से चमकने लगता है, वैसे ही वे अपने वैभव की चमक पुनः पा गए। जब रात बीती और प्रभात हुआ, तो वे और बड़ी सभा के साथ आम्रपाली के घर गए और उसका भोजन स्वीकार किया। फिर वे बेलुवा गाँव गए, जहाँ उन्होंने वर्षा ऋतु के तीन मास बिताए। जब वर्षावास समाप्त हुआ, तो वे वैशाली लौटे और मर्कट-सरोवर नामक तालाब के पास ठहरे, और एक छायादार उपवन में बैठे, उनके शरीर से तेज की धारा बह रही थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्ध आजारानुसार औषध देणाऱ्या चांगल्या वैद्याप्रमाणे बोलले. लिच्छवींनी त्यांच्या चरणी मस्तक ठेवले आणि उद्या भिक्षूंसह त्यांचे लहान अर्पण स्वीकारावे अशी विनंती केली. बुद्धांनी सांगितले की आम्रपालीने त्यांना आधीच निमंत्रण दिले आहे. अभिमान आणि निराशा त्यांच्या मनात उठली, आणि त्यांनी म्हटले की तिने त्यांचा लाभ हिरावून घेऊ नये. पण त्यांना बुद्धांचे हृदय निष्पक्ष आणि न्याय्य आहे हे ठाऊक होते, आणि त्यांचा उल्हास परत आला.\n\nबुद्धांनी त्यांचे समाधान केले, आणि मंत्राने वश केलेला साप जसा चकचकीत कातडीसह पुन्हा चमकतो, तसे त्यांनी आपले वैभव पुन्हा मिळवले. रात्र सरून प्रभात झाली, तेव्हा ते आणि मोठी सभा आम्रपालीच्या घरी गेले आणि तिचे भोजन स्वीकारले. मग ते बेलुवा गावात गेले, जिथे त्यांनी पावसाळ्याचे तीन महिने घालवले. पावसाळा संपल्यावर ते वैशालीला परतले आणि मर्कट सरोवर नावाच्या तलावाजवळ थांबले, आणि एका सावलीच्या उपवनात बसले, त्यांच्या देहातून तेजाचा प्रवाह वाहत होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Three months",
+    "hi": {
+     "text": "तीन मास",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन महिने",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Mara came to the place where the Buddha was sitting, with palms joined, and spoke. Once, beside the Nairanjana river, when you had reached your steadfast aim, you said that when you had done all you had to do you would pass to Nirvana, he said. Now you have done it, so keep your word. The Buddha answered that the time of his complete deliverance was near. Let three months pass, he said, and I shall reach Nirvana. Mara, knowing the time was fixed and his wish was fulfilled, went back joyfully to his abode in heaven.\n\nThe Tathagata sat beneath a tree and at once was lost in ecstasy. Of his own will he gave up the rest of his allotted years and by his spiritual power fixed the remnant of his life. Beal remarks that the text does not say a sickness lay behind this decision, which the Pali record does describe. The poem treats it as a free choice made by someone who had finished what he came to do, not as something that happened to him.",
+    "hi": {
+     "text": "मार बुद्ध के आसन के पास आया, हाथ जोड़े हुए, और बोला। एक बार, नैरंजना नदी के तट पर, जब तुमने अपना दृढ़ लक्ष्य पा लिया था, तो तुमने कहा था कि जब तुम्हारा सारा कर्तव्य पूरा हो जाएगा तो तुम निर्वाण को जाओगे, उसने कहा। अब तुमने वह कर लिया है, इसलिए अपना वचन निभाओ। बुद्ध ने उत्तर दिया कि उनकी पूर्ण मुक्ति का समय निकट है। तीन मास बीतने दो, उन्होंने कहा, और मैं निर्वाण पाऊँगा। मार यह जानकर कि समय निश्चित हो गया है और उसकी इच्छा पूरी हुई, प्रसन्नता से अपने स्वर्गलोक को लौट गया।\n\nतथागत एक वृक्ष के नीचे बैठे और तुरंत समाधि में लीन हो गए। अपनी इच्छा से उन्होंने अपने शेष वर्ष त्याग दिए और अपनी आध्यात्मिक शक्ति से जीवन का शेष भाग निश्चित कर दिया। बील टिप्पणी करते हैं कि इस पाठ में ऐसा नहीं कहा गया कि इस निर्णय के पीछे कोई बीमारी थी, जबकि पाली अभिलेख उसका उल्लेख करता है। काव्य इसे एक मुक्त चुनाव मानता है, जो उस व्यक्ति ने किया जिसने अपना उद्देश्य पूरा कर लिया था, न कि कोई ऐसी घटना जो उसके साथ घटी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मार बुद्धांच्या आसनाजवळ हात जोडून आला आणि बोलला. एकदा, नैरंजना नदीकाठी, जेव्हा तू तुझे दृढ ध्येय गाठले होतेस, तेव्हा तू म्हणाला होतास की तुझे सर्व कर्तव्य पूर्ण झाले की तू निर्वाणाला जाशील, तो म्हणाला. आता तू ते केले आहेस, म्हणून तुझे वचन पाळ. बुद्धांनी उत्तर दिले की त्यांच्या पूर्ण मुक्तीची वेळ जवळ आली आहे. तीन महिने जाऊ दे, ते म्हणाले, मग मी निर्वाण पावेन. मार, वेळ निश्चित झाली आहे आणि त्याची इच्छा पूर्ण झाली आहे हे जाणून, आनंदाने आपल्या स्वर्गलोकात परत गेला.\n\nतथागत एका वृक्षाखाली बसले आणि लगेचच समाधीत लीन झाले. स्वतःच्या इच्छेने त्यांनी उरलेली वर्षे सोडून दिली आणि आपल्या आध्यात्मिक सामर्थ्याने आयुष्याचा उरलेला भाग निश्चित केला. बील नोंदवतात की या पाठात असे म्हटलेले नाही की या निर्णयामागे कोणता आजार होता, जरी पाली अभिलेख त्याचे वर्णन करतो. काव्य याला मुक्त निवड मानते, ज्या व्यक्तीने आपले कार्य पूर्ण केले आहे तिने केलेली, आणि एखादी घटना जी त्याच्याबाबत घडली अशी नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "If you knew how much time you had left, what would you stop doing first?",
+  "hi": {
+   "text": "यदि तुम जानते कि तुम्हारे पास कितना समय बचा है, तो सबसे पहले कौन सी चीज़ करना बंद करते?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुला तुझ्या उरलेल्या आयुष्याची मुदत माहीत असेल, तर सर्वप्रथम कोणती गोष्ट करणे थांबवशील?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Rank and beauty fade, but a well-governed heart and fair dealing hold a people together, and a life well finished can be let go of freely.",
+  "hi": {
+   "text": "पद और सुंदरता मुरझा जाते हैं, पर सुशासित हृदय और न्यायपूर्ण व्यवहार लोगों को एक साथ रखते हैं, और पूर्ण हुआ जीवन स्वेच्छा से छोड़ा जा सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पद आणि सौंदर्य कोमेजते, पण सुशासित हृदय आणि न्याय्य वर्तन लोकांना एकत्र ठेवते, आणि पूर्ण झालेले आयुष्य मनापासून सोडता येते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 23; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 23; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 23; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

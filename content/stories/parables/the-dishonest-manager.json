@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-dishonest-manager",
+ "order": 27,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Dishonest Manager",
+  "hi": {
+   "text": "बेईमान प्रबंधक",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अप्रामाणिक कारभारी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A manager about to lose his job reduces his master's debtors' bills, and is praised for his shrewdness.",
+  "hi": {
+   "text": "नौकरी खोने वाला एक प्रबंधक अपने मालिक के कर्जदारों के बिल घटा देता है, और उसकी चतुराई की सराहना होती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नोकरी जाणार असलेला एक कारभारी आपल्या धन्याच्या कर्जदारांची बिले कमी करतो, आणि त्याच्या चतुराईची प्रशंसा होते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-dishonest-rp.webp",
+   "w": 900,
+   "h": 697,
+   "caption": {
+    "en": "The unjust steward (Rijksmuseum print)",
+    "hi": {
+     "text": "बेईमान प्रबंधक (राइक्सम्युज़ियम का उत्कीर्णन)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अप्रामाणिक कारभारी (रिक्सम्युझियमचे कोरीवकाम)",
+     "reviewed": false
+    }
+   },
+   "credit": "Rijksmuseum, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gelijkenis_van_de_onrechtvaardige_rentmeester,_RP-P-OB-46.025.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A difficult story",
+    "hi": {
+     "text": "एक कठिन कहानी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक कठीण कथा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "This is among the most puzzling of the parables, and honest readers have always said so. In Luke's sixteenth chapter, Jesus turns from the crowds and the Pharisees to speak to his disciples. He tells them of a rich man who had a manager, and the manager has been accused of wasting his master's possessions.\n\nThere is no agreed answer to what the story means, and scholars and preachers across many centuries have offered different readings. It is best approached with some modesty. What follows is one common way of telling it, and some of the ways that Christians have understood it. Even those who are certain about it admit that the final saying of Jesus is hard to hear on first meeting. We will tell it plainly and let the difficulty stand, rather than smoothing it over with an answer the text itself does not give.",
+    "hi": {
+     "text": "यह दृष्टांतों में सबसे उलझाने वाले दृष्टांतों में से एक है, और ईमानदार पाठक हमेशा यह मानते आए हैं। लूका के सोलहवें अध्याय में यीशु भीड़ और फरीसियों से मुड़कर अपने शिष्यों से बात करते हैं। वे एक धनी व्यक्ति की बात सुनाते हैं जिसका एक प्रबंधक था, और उस प्रबंधक पर आरोप है कि उसने मालिक की संपत्ति बर्बाद की है।\n\nइस कहानी का अर्थ क्या है, इस पर कोई एक सर्वमान्य उत्तर नहीं है, और कई सदियों से विद्वानों और उपदेशकों ने अलग-अलग अर्थ दिए हैं। इसे विनम्रता के साथ समझना सबसे अच्छा है। जो आगे है वह इसे कहने का एक आम तरीका है, और ईसाइयों ने इसे जिस प्रकार समझा है उनमें से कुछ तरीके। जो लोग इस पर पूरी तरह निश्चित हैं, वे भी मानते हैं कि यीशु का अंतिम वचन पहली बार सुनने पर कठिन लगता है। हम इसे सीधे-सीधे बताएँगे, और कठिनाई को ऐसे उत्तर से नहीं ढकेंगे जो पाठ स्वयं नहीं देता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हे दृष्टांत सर्वात गोंधळात टाकणार्या दृष्टांतांपैकी एक आहे, आणि प्रामाणिक वाचकांनी नेहमीच हे मान्य केले आहे. लूकाच्या सोळाव्या अध्यायात यीशू जमावांकडून आणि फरीसींकडून वळून आपल्या शिष्यांशी बोलतात. ते एका श्रीमंत माणसाची गोष्ट सांगतात ज्याचा एक कारभारी होता, आणि त्या कारभार्यावर आरोप आहे की त्याने धन्याची मालमत्ता उधळली आहे.\n\nही कथा नेमकी कशाचा अर्थ सांगते याचे कोणतेही मान्य उत्तर नाही, आणि अनेक शतकांतील विद्वानांनी व उपदेशकांनी वेगवेगळे अर्थ मांडले आहेत. त्याकडे नम्रतेने पाहणे योग्य ठरेल. पुढे दिलेली गोष्ट सांगण्याचा एक सामान्य मार्ग आहे, आणि ख्रिस्ती लोकांनी तिचा जो अर्थ लावला आहे त्यातील काही मार्ग. ज्यांना यावर खात्री आहे तेही कबूल करतात की यीशूचे शेवटचे वचन पहिल्यांदा ऐकताना कठीण वाटते. आम्ही ते साधेपणाने सांगू, आणि मजकूर स्वतः देत नसलेले उत्तर देऊन अडचण गुळगुळीत करणार नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The accounting",
+    "hi": {
+     "text": "हिसाब",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हिशेब",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The rich man summons the manager. What is this that I hear about you? he says. Give an account of your management, for you can no longer be manager. The manager is about to lose his position, and he talks the matter over with himself. What shall I do? I am not strong enough to dig, and I am ashamed to beg.\n\nThen he thinks of a plan, and it is a shrewd one. I know what I will do, so that when I am removed from management, people may welcome me into their homes. He is thinking of how to secure a future for himself after the job is gone, and the plan is to make some friends. He will have only a very short time to carry it out, since the master has already called for the books.",
+    "hi": {
+     "text": "धनी व्यक्ति प्रबंधक को बुलाता है। मैं तुम्हारे बारे में यह क्या सुन रहा हूँ? वह कहता है। अपने प्रबंधन का हिसाब दो, क्योंकि अब तुम प्रबंधक नहीं रह सकते। प्रबंधक अपना पद खोने वाला है, और वह मन ही मन सोचता है। मैं क्या करूँ? मुझमें खोदने की ताकत नहीं है, और भीख माँगने में मुझे लज्जा आती है।\n\nतब वह एक योजना सोचता है, और वह चतुर है। मुझे पता है मैं क्या करूँगा, ताकि जब मुझे प्रबंधन से हटाया जाए, तो लोग मुझे अपने घरों में स्वागत करें। वह सोच रहा है कि नौकरी जाने के बाद अपने लिए भविष्य कैसे सुरक्षित करे, और योजना कुछ मित्र बनाने की है। उसके पास इसे करने के लिए बहुत थोड़ा समय है, क्योंकि मालिक पहले ही बही-खाते मँगा चुका है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धनी कारभार्याला बोलावतो. मी तुझ्याविषयी हे काय ऐकत आहे? तो म्हणतो. तुझ्या कारभाराचा हिशेब दे, कारण तू आता कारभारी राहू शकत नाहीस. कारभारी आपले पद गमावणार आहे, आणि तो स्वतःशीच विचार करतो. मी काय करू? माझ्यात खणण्याचे बळ नाही, आणि भीक मागायला मला लाज वाटते.\n\nमग तो एक योजना आखतो, आणि ती चतुराईची आहे. मला माहीत आहे मी काय करीन, म्हणजे मला कारभारातून काढले गेल्यावर लोक मला आपल्या घरात स्वीकारतील. नोकरी गेल्यानंतर स्वतःसाठी भविष्य कसे सुरक्षित करायचे याचा तो विचार करत आहे, आणि योजना काही मित्र मिळवण्याची आहे. ती पूर्ण करायला त्याच्याकडे फार थोडा वेळ आहे, कारण धन्याने आधीच हिशेबाच्या वह्या मागवल्या आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The reduced bills",
+    "hi": {
+     "text": "घटाए गए बिल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कमी केलेली बिले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He calls in his master's debtors one by one. How much do you owe my master? he asks the first. A hundred measures of oil. He tells him to take his bill, sit down quickly and write fifty. To the next he says, And how much do you owe? A hundred measures of wheat. Take your bill, he says, and write eighty.\n\nThe reduction may have been the manager's own commission, or it may have been interest the master was owed, or it may simply have been a fraud. The Gospel does not say, and scholars disagree. What is clear is that the debtors now owe him a favour. And then comes the surprise. The master commends the dishonest manager because he had acted shrewdly, which is a remarkable thing for an employer to say.",
+    "hi": {
+     "text": "वह अपने मालिक के एक-एक कर्जदार को बुलाता है। तुम मेरे मालिक का कितना कर्ज़ा है? वह पहले से पूछता है। सौ माप तेल। वह उससे कहता है कि अपना बिल लो, जल्दी बैठो और पचास लिखो। अगले से वह कहता है, और तुम पर कितना कर्ज़ है? सौ माप गेहूँ। अपना बिल लो, वह कहता है, और अस्सी लिखो।\n\nयह कमी प्रबंधक का अपना कमीशन हो सकती थी, या वह ब्याज हो सकता था जो मालिक को मिलना था, या यह केवल धोखाधड़ी रही होगी। शुभवर्तमान यह नहीं बताता, और विद्वान इस पर सहमत नहीं हैं। जो स्पष्ट है वह यह कि कर्जदार अब उसके एहसानमंद हैं। और फिर आश्चर्य आता है। मालिक बेईमान प्रबंधक की प्रशंसा करता है, क्योंकि उसने चतुराई से काम किया था, और किसी मालिक के लिए यह एक असाधारण बात है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तो आपल्या धन्याच्या कर्जदारांना एकेक करून बोलावतो. माझ्या धन्याचे तुझ्यावर किती देणे आहे? तो पहिल्याला विचारतो. शंभर मापे तेल. तो त्याला सांगतो, तुझे बिल घे, लवकर बस आणि पन्नास लिही. पुढच्याला तो म्हणतो, आणि तुझ्यावर किती देणे आहे? शंभर मापे गहू. तुझे बिल घे, तो म्हणतो, आणि ऐंशी लिही.\n\nही घट कारभार्याचेच कमिशन असेल, किंवा धन्याला मिळायचे व्याज असेल, किंवा साधी फसवणूकही असेल. शुभवर्तमान हे सांगत नाही, आणि विद्वानांत यावर मतभेद आहेत. जे स्पष्ट आहे ते इतकेच की आता कर्जदार त्याचे उपकार मानतात. आणि मग आश्चर्य येते. धनी अप्रामाणिक कारभार्याची प्रशंसा करतो, कारण त्याने चतुराईने वागले होते, आणि नियोक्त्याने असे म्हणणे ही विलक्षण गोष्ट आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What Jesus says next",
+    "hi": {
+     "text": "यीशु आगे क्या कहते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू पुढे काय म्हणतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus does not praise the dishonesty. He notes that the children of this world are, in their own way, more shrewd in dealing with their own generation than the children of light. The manager saw a crisis coming and acted decisively to prepare for the future. Jesus wonders why those who care for higher things are often so much less energetic.\n\nHe adds a saying about using worldly wealth to make friends, so that when it is gone, you will be welcomed into eternal homes. He then says that whoever is faithful in a very little is faithful in much, and that no servant can serve two masters. You cannot serve God and money. These sayings are widely read as the heart of the lesson, though how they connect to the story is much debated.",
+    "hi": {
+     "text": "यीशु बेईमानी की प्रशंसा नहीं करते। वे ध्यान दिलाते हैं कि इस संसार के लोग अपनी पीढ़ी के साथ व्यवहार में, अपने ढंग से, उजियाले के लोगों से अधिक चतुर होते हैं। प्रबंधक ने आने वाले संकट को देखा और भविष्य की तैयारी के लिए निर्णायक कदम उठाए। यीशु पूछते हैं कि जो लोग ऊँची बातों की चिंता करते हैं वे अक्सर इतने कम उत्साही क्यों होते हैं।\n\nवे संसारिक धन से मित्र बनाने के विषय में एक वचन जोड़ते हैं, ताकि जब वह न रहे, तो तुम्हें अनन्त निवासों में स्वागत किया जाए। फिर वे कहते हैं कि जो बहुत थोड़े में विश्वासयोग्य है, वह बहुत में भी विश्वासयोग्य है, और कोई दास दो स्वामियों की सेवा नहीं कर सकता। तुम परमेश्वर और धन दोनों की सेवा नहीं कर सकते। इन वचनों को व्यापक रूप से शिक्षा का केंद्र माना गया है, हालाँकि ये कहानी से कैसे जुड़ते हैं, इस पर बहुत बहस है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू अप्रामाणिकपणाची प्रशंसा करत नाहीत. ते लक्षात आणून देतात की या जगाचे लोक आपल्या पिढीशी व्यवहार करताना, आपल्या परीने, प्रकाशाच्या लोकांपेक्षा अधिक चतुर असतात. कारभार्याने येणारे संकट ओळखले आणि भविष्यासाठी तयारी करण्यासाठी ठामपणे पावले उचलली. जे लोक उच्च गोष्टींची काळजी करतात ते इतके कमी उत्साही का असतात, असा प्रश्न यीशू विचारतात.\n\nते ऐहिक धनाने मित्र मिळवण्याबद्दल एक वचन जोडतात, म्हणजे ते संपल्यावर तुमचे अनंत निवासात स्वागत होईल. मग ते म्हणतात की जो फार थोड्यात विश्वासू आहे तो पुष्कळात विश्वासू आहे, आणि कोणताही सेवक दोन धन्यांची सेवा करू शकत नाही. तुम्ही देव आणि धन यांची सेवा करू शकत नाही. ही वचने धड्याचे हृदय मानली जातात, जरी ती कथेशी कशी जोडली जातात यावर बराच वाद आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Shrewd with what we have",
+    "hi": {
+     "text": "जो हमारे पास है उसमें चतुराई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपल्याजवळ जे आहे त्यात चतुराई",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Many Christians read this parable as a call to use money and resources wisely and generously, with the future and with other people in mind, rather than hoarding them. The manager made friends with wealth that was passing through his hands, and the lesson is that wealth is best used to build relationships and to help others, as a tool and not a master.\n\nOthers have noted the sharpness of the closing line, that we cannot serve both God and money, and take it as the clearest part of the passage. People of every faith may find a challenge here about how we use what passes through our hands. The puzzles of the story remain, and it is fair to say so, while the lasting question is what we are doing, urgently and wisely, with the time and means we have.",
+    "hi": {
+     "text": "कई ईसाई इस दृष्टांत को धन और संसाधनों को बुद्धिमानी और उदारता से उपयोग करने के आह्वान के रूप में पढ़ते हैं, भविष्य और दूसरों को ध्यान में रखते हुए, न कि उन्हें जमा करके रखने के रूप में। प्रबंधक ने उस धन से मित्र बनाए जो उसके हाथों से गुजर रहा था, और शिक्षा यह है कि धन का सबसे अच्छा उपयोग संबंध बनाने और दूसरों की सहायता करने के लिए होता है, एक साधन के रूप में, स्वामी के रूप में नहीं।\n\nअन्य लोगों ने अंतिम वाक्य की तीक्ष्णता पर ध्यान दिया है, कि हम परमेश्वर और धन दोनों की सेवा नहीं कर सकते, और इसे इस अंश का सबसे स्पष्ट भाग माना है। हर धर्म के लोग इसमें एक चुनौती पा सकते हैं कि हमारे हाथों से जो गुजरता है उसका हम क्या करते हैं। कहानी की उलझनें बनी रहती हैं, और यह कहना उचित है, जबकि स्थायी प्रश्न यह है कि हम अपने पास के समय और साधनों के साथ तत्परता और बुद्धिमानी से क्या कर रहे हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनेक ख्रिस्ती लोक हा दृष्टांत पैसा आणि साधने बुद्धिमानीने आणि उदारपणे वापरण्याचे आवाहन म्हणून वाचतात, भविष्य आणि इतरांचा विचार करून, ती साठवून ठेवण्याऐवजी. कारभार्याने आपल्या हातातून जाणार्या धनातून मित्र मिळवले, आणि धडा असा की धनाचा सर्वोत्तम उपयोग नाती निर्माण करण्यासाठी आणि इतरांना मदत करण्यासाठी होतो, साधन म्हणून, स्वामी म्हणून नव्हे.\n\nइतरांनी शेवटच्या वाक्याची धार लक्षात घेतली आहे, की आपण देव आणि धन दोन्हींची सेवा करू शकत नाही, आणि त्याला उतार्यातील सर्वात स्पष्ट भाग मानले आहे. प्रत्येक धर्माच्या लोकांना आपल्या हातातून जाणार्या गोष्टींचे आपण काय करतो यावर येथे एक आव्हान सापडू शकते. कथेतील कोडी कायम राहतात, आणि ते मान्य करणे योग्य आहे, तर चिरस्थायी प्रश्न असा आहे की आपल्याजवळील वेळ आणि साधनांनी आपण तत्परतेने आणि शहाणपणाने काय करत आहोत.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "You aren’t able to serve God and Mammon.",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 16:13 (World English Bible)",
+   "hi": {
+    "text": "लूका 16:13 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 16:13 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Jesus says that a person cannot give wholehearted loyalty both to God and to money.",
+   "hi": {
+    "text": "यीशु कहते हैं कि कोई व्यक्ति परमेश्वर और धन दोनों के प्रति पूर्ण निष्ठा नहीं रख सकता।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "यीशू म्हणतात की एखादी व्यक्ती देव आणि धन या दोघांना पूर्ण निष्ठा देऊ शकत नाही.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "How are you using the money and resources that pass through your hands? Are they building friendships and helping others, or only serving yourself?",
+  "hi": {
+   "text": "तुम्हारे हाथों से जो धन और साधन गुजरते हैं, उनका तुम कैसे उपयोग कर रहे हो? क्या वे मित्रताएँ बना रहे हैं और दूसरों की सहायता कर रहे हैं, या केवल तुम्हारी अपनी सेवा कर रहे हैं?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या हातातून जाणार्या पैशाचा आणि साधनांचा तुम्ही कसा उपयोग करता? ते नाती जोडत आहेत आणि इतरांना मदत करत आहेत का, की फक्त तुमचीच सेवा करत आहेत?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Wealth is a tool to be used wisely and generously, and it should never become the master we serve.",
+  "hi": {
+   "text": "धन एक साधन है जिसका बुद्धिमानी और उदारता से उपयोग होना चाहिए, और उसे कभी ऐसा स्वामी नहीं बनने देना चाहिए जिसकी हम सेवा करें।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धन हे बुद्धिमानीने आणि उदारपणे वापरायचे साधन आहे, आणि ते कधीही आपण सेवा करावी असा धनी बनू देऊ नये.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 16:1-13; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 16:1-13 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 16:1-13 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

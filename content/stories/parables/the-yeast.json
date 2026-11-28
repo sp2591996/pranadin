@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-yeast",
+ "order": 5,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Yeast",
+  "hi": {
+   "text": "ख़मीर",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीस्ट",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A woman folds a little yeast into a great deal of flour, and the whole batch rises.",
+  "hi": {
+   "text": "एक स्त्री थोड़ा ख़मीर बहुत सारे आटे में मिलाती है, और पूरा आटा फूल जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक स्त्री थोडे यीस्ट मोठ्या प्रमाणातल्या पिठात मिसळते, आणि सगळे पीठ फुगून येते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-harvest-vangogh.webp",
+   "w": 900,
+   "h": 738,
+   "caption": {
+    "en": "Wheat harvest in Provence, Vincent van Gogh",
+    "hi": {
+     "text": "प्रोवांस में गेहूँ की कटाई, विंसेंट वैन गॉग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रोव्हांसमधील गव्हाची कापणी, व्हिन्सेंट व्हॅन गॉग",
+     "reviewed": false
+    }
+   },
+   "credit": "Vincent van Gogh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Corn_Harvest_in_Provence_-_Google_Art_Project.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A story from the kitchen",
+    "hi": {
+     "text": "रसोई की एक कहानी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वयंपाकघरातील एक गोष्ट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Still beside the Sea of Galilee, still speaking to the crowds who had come out to hear him, Jesus told another short parable. The Gospel of Matthew gives it just one sentence, and it follows the story of the mustard seed. Where the farmer's field gave him his picture before, this time he turned to something that was done every day by the women of every village in the land.\n\nIt is worth noticing that Jesus drew on a woman's work to describe the Kingdom of Heaven, the rule of God that he taught was beginning among ordinary people. His listeners knew baking as well as they knew sowing. The bread on their tables came from this humble labour, repeated morning after morning, and he was quietly honouring it by making it a window into something much greater.",
+    "hi": {
+     "text": "गलील झील के किनारे, अब भी उन भीड़ों से बोलते हुए जो उन्हें सुनने आई थी, यीशु ने एक और छोटा दृष्टांत सुनाया। मत्ती का सुसमाचार उसे केवल एक वाक्य देता है, और वह राई के दाने की कहानी के बाद आता है। पहले जहाँ किसान के खेत ने उन्हें चित्र दिया था, इस बार वे किसी ऐसी चीज़ की ओर मुड़े जो देश के हर गाँव की स्त्रियाँ रोज़ करती थीं।\n\nध्यान देने योग्य है कि यीशु ने स्वर्ग के राज्य का वर्णन करने के लिए, जो उनकी शिक्षा के अनुसार साधारण लोगों के बीच शुरू हो रहा था, एक स्त्री के काम का उपयोग किया। उनके श्रोता बुवाई उतनी ही अच्छी तरह जानते थे जितनी पकाई। उनकी मेज़ों की रोटी इसी साधारण मेहनत से आती थी, जो हर सुबह दोहराई जाती थी, और यीशु उसे एक बड़ी चीज़ की खिड़की बनाकर चुपचाप उसका सम्मान कर रहे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गालीली सरोवराकाठी, अजूनही ऐकायला आलेल्या जमावाशी बोलताना, यीशूने आणखी एक छोटा दृष्टांत सांगितला. मत्तीचे शुभवर्तमान त्याला फक्त एक वाक्य देते, आणि ते राईच्या दाण्याच्या गोष्टीनंतर येते. आधी जिथे शेतकर्याच्या शेताने त्यांना चित्र दिले होते, तिथे यावेळी ते अशा गोष्टीकडे वळले जी त्या देशातील प्रत्येक गावातील स्त्रिया रोज करत असत.\n\nलक्षात घेण्यासारखे आहे की स्वर्गाच्या राज्याचे वर्णन करण्यासाठी यीशूने स्त्रीच्या कामाचा उपयोग केला, जे राज्य त्यांच्या शिकवणीनुसार सामान्य लोकांमध्ये सुरू होत होते. त्यांचे श्रोते पेरणी जितक्या चांगल्या प्रकारे ओळखत होते तितक्याच चांगल्या प्रकारे भाजणी ओळखत होते. त्यांच्या ताटांवरील भाकरी याच साध्या कष्टातून येत होती, जे सकाळी सकाळी पुन्हा पुन्हा केले जात होते, आणि यीशू त्या कामाला एका मोठ्या गोष्टीची खिडकी बनवून शांतपणे त्याचा सन्मान करत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Three measures of flour",
+    "hi": {
+     "text": "तीन माप आटा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन माप पीठ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A woman takes some yeast and hides it in three measures of meal, until the whole of it is leavened. Three measures was a large amount of flour, enough to bake bread for a big household, or for a feast with many guests. Against that great heap of flour, the portion of yeast is small, and it is simply kneaded in and left out of sight.\n\nThe word the Gospel uses is hid, and it matters. Nothing about the yeast announces itself. The woman does not decorate it or display it. She works it into the dough and covers the bowl with a cloth, and then she goes about her day, trusting that what she has begun will go on working without her. The work is done quietly, and the result is out of all proportion to the effort that the woman visibly puts in.",
+    "hi": {
+     "text": "एक स्त्री कुछ ख़मीर लेती है और उसे तीन माप आटे में छिपा देती है, जब तक पूरा आटा फूल न जाए। तीन माप आटा बड़ी मात्रा थी, इतना कि किसी बड़े परिवार के लिए या कई अतिथियों वाले भोज के लिए रोटी बन सके। उस आटे के बड़े ढेर के सामने ख़मीर का हिस्सा छोटा है, और वह बस गूँधकर नज़रों से ओझल कर दिया जाता है।\n\nशुभवर्तमान जो शब्द प्रयोग करता है, छिपा दिया, वह मायने रखता है। ख़मीर के बारे में कुछ भी अपनी घोषणा नहीं करता। स्त्री उसे सजाती या दिखाती नहीं। वह उसे आटे में मिलाती है, बर्तन को कपड़े से ढकती है, और फिर अपने दिन के काम में लग जाती है, इस भरोसे के साथ कि जो उसने शुरू किया है वह उसके बिना भी काम करता रहेगा। काम चुपचाप होता है, और परिणाम उस प्रयास के अनुपात से कहीं बड़ा होता है जो स्त्री स्पष्ट रूप से लगाती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक स्त्री काही यीस्ट घेते आणि ते तीन माप पिठात लपवून ठेवते, जोपर्यंत सगळे पीठ फुगत नाही. तीन माप पीठ ही मोठी मात्रा होती, इतकी की मोठ्या कुटुंबासाठी किंवा पुष्कळ पाहुण्यांच्या भोजनासाठी भाकरी बनवता येईल. पिठाच्या त्या मोठ्या ढिगापुढे यीस्टचा भाग लहान आहे, आणि तो फक्त मळून नजरेआड केला जातो.\n\nशुभवर्तमान जो शब्द वापरते, लपवले, तो महत्त्वाचा आहे. यीस्टबद्दल काहीच स्वतःची जाहिरात करत नाही. स्त्री त्याचे सजावट किंवा प्रदर्शन करत नाही. ती ते पिठात मिसळते, भांड्यावर कापड झाकते, आणि मग आपल्या दिवसाच्या कामाला लागते, या विश्वासाने की तिने जे सुरू केले आहे ते तिच्याशिवायही काम करत राहील. काम शांतपणे होते, आणि परिणाम स्त्री जो प्रयत्न स्पष्टपणे करते त्याच्या प्रमाणात कितीतरी मोठा असतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Until it was all leavened",
+    "hi": {
+     "text": "जब तक सब फूल न गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सगळे फुगेपर्यंत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The turn of the story lies in the last phrase: until it was all leavened. After a while, the yeast has done its quiet work, and the dough has risen right through, leaving no part of the bowl untouched. The change was not loud or dramatic at any point. It was thorough, patient and complete, and in the end it could not be undone.\n\nAnyone who has baked bread knows this feeling. You press down the dough and nothing seems to happen, and then you return to find it swollen and warm. In the world of the Gospels, leaven could stand for something bad in other sayings of Jesus. Here the image is clearly good, and the parable shows how much is hidden in small and unnoticed things. The completeness is the point, for nothing in the dough is left as it was.",
+    "hi": {
+     "text": "कहानी का मोड़ अंतिम वाक्यांश में है: जब तक सब फूल न गया। कुछ देर बाद ख़मीर अपना शांत काम कर चुका होता है, और आटा पूरी तरह फूल जाता है, बर्तन का कोई भाग अछूता नहीं रहता। बदलाव कभी भी ऊँचा या नाटकीय नहीं था। वह पूरा, धैर्यवान और संपूर्ण था, और अंत में उसे पलटा नहीं जा सकता था।\n\nजिसने कभी रोटी बनाई है वह यह एहसास जानता है। आप आटे को दबाते हैं और कुछ होता नहीं दिखता, फिर लौटकर देखते हैं तो वह फूला हुआ और गुनगुना होता है। यीशु के युग के शुभवर्तमानों में, ख़मीर यीशु की अन्य बातों में कुछ बुरा दर्शा सकता था। यहाँ चित्र स्पष्ट रूप से अच्छा है, और दृष्टांत दिखाता है कि छोटी और अनदेखी चीज़ों में कितना कुछ छिपा हो सकता है। संपूर्णता ही बात का मर्म है, क्योंकि आटे का कोई भाग वैसा नहीं छोड़ा जाता जैसा वह था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथेचे वळण शेवटच्या वाक्यांशात आहे: सगळे फुगेपर्यंत. थोड्या वेळाने यीस्टने आपले शांत काम केलेले असते, आणि पीठ आतपर्यंत फुगलेले असते, भांड्याचा कोणताही भाग अस्पर्श राहत नाही. हा बदल कधीच मोठा किंवा नाट्यमय नव्हता. तो पूर्ण, संयमी आणि संपूर्ण होता, आणि शेवटी तो उलटवता येणारा नव्हता.\n\nज्याने कधी भाकरी केली आहे त्याला ही भावना माहीत असते. तुम्ही पीठ दाबता आणि काही होत नसल्यासारखे वाटते, मग परत येऊन पाहिले की ते फुगलेले आणि उबदार असते. यीशूच्या काळातील शुभवर्तमानांत, यीस्ट यीशूच्या इतर म्हणींमध्ये काहीतरी वाईट दर्शवू शकत होते. इथे चित्र स्पष्टपणे चांगले आहे, आणि दृष्टांत दाखवतो की लहान आणि न दिसणार्या गोष्टींत किती काही लपलेले असू शकते. संपूर्णता हाच मुद्दा आहे, कारण पिठातला कोणताही भाग जसा होता तसा सोडला जात नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "How the tradition reads it",
+    "hi": {
+     "text": "परंपरा इसे कैसे पढ़ती है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "परंपरा हे कसे वाचते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Gospel does not explain the parable, so Christians have offered several readings. Many have heard it as the same kind of promise as the mustard seed: the Kingdom of God starts small and hidden, and it spreads until it has touched the whole of life. Others have emphasised the way the yeast works from the inside, changing the dough without force.\n\nSome have also seen in it a hint about how goodness spreads in a community. A few honest, kind and faithful people can alter the character of a family, a workplace or a village far beyond their number. The image is of influence without noise, of change that comes through quiet presence and steady, daily example, more than through speeches or rules. None of these readings cancels the others, and all of them keep the image of a small thing doing large work.",
+    "hi": {
+     "text": "सुसमाचार दृष्टांत की व्याख्या नहीं करता, इसलिए ईसाइयों ने कई व्याख्याएँ दी हैं। अनेक लोगों ने इसे राई के दाने जैसे ही वादे के रूप में सुना है: परमेश्वर का राज्य छोटा और छिपा हुआ शुरू होता है, और फैलते-फैलते जीवन के पूरे हिस्से को छू लेता है। दूसरों ने इस पर बल दिया है कि ख़मीर अंदर से कैसे काम करता है, बिना बल के आटे को बदलते हुए।\n\nकुछ ने इसमें यह संकेत भी देखा है कि किसी समुदाय में भलाई कैसे फैलती है। कुछ ईमानदार, दयालु और विश्वासयोग्य लोग किसी परिवार, कार्यस्थल या गाँव का स्वभाव अपनी संख्या से कहीं आगे जाकर बदल सकते हैं। चित्र शोर के बिना प्रभाव का है, ऐसे बदलाव का जो भाषणों या नियमों से अधिक शांत उपस्थिति और रोज़मर्रा के स्थिर उदाहरण से आता है। इनमें से कोई व्याख्या दूसरी को रद्द नहीं करती, और सभी में एक छोटी सी चीज़ के बड़ा काम करने की छवि बनी रहती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शुभवर्तमान दृष्टांताचे स्पष्टीकरण देत नाही, म्हणून ख्रिस्ती लोकांनी अनेक अर्थ सुचवले आहेत. अनेकांनी हे राईच्या दाण्यासारख्याच वचनाप्रमाणे ऐकले आहे: देवाचे राज्य लहान आणि लपलेले सुरू होते, आणि पसरत जाऊन जीवनाच्या संपूर्ण भागाला स्पर्श करते. इतरांनी यावर भर दिला आहे की यीस्ट आतून कसे काम करते, बलाचा वापर न करता पीठ बदलत.\n\nकाहींनी यात समुदायात चांगुलपणा कसा पसरतो याचा इशाराही पाहिला आहे. काही प्रामाणिक, दयाळू आणि विश्वासू लोक एखाद्या कुटुंबाचा, कार्यस्थळाचा किंवा गावाचा स्वभाव त्यांच्या संख्येपेक्षा कितीतरी पुढे बदलू शकतात. चित्र आवाजाशिवाय प्रभावाचे आहे, भाषणे किंवा नियमांपेक्षा शांत उपस्थिती आणि दैनंदिन स्थिर उदाहरणातून येणार्या बदलाचे. यापैकी कोणतेही अर्थ दुसर्याला रद्द करत नाहीत, आणि सर्वांमध्ये एका लहान गोष्टीने मोठे काम करण्याची प्रतिमा टिकून राहते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The power of the hidden",
+    "hi": {
+     "text": "छिपी हुई शक्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लपलेली शक्ती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "People of every faith know that a great deal of good is done unseen. Parents, teachers, neighbours and carers work like yeast, shaping the character of others in ways they may never know and are seldom thanked for. The parable gives dignity to this kind of work, which is rarely noticed because it is so ordinary.\n\nIt also invites each of us to ask what we are working into the world around us. Our moods, habits and attitudes move through a household or a team as surely as yeast moves through flour. If a little can leaven the whole, then it is worth choosing with care what we allow ourselves to carry, and to be patient while it quietly does its work. Hidden service, kept up for years, may shape more lives than any single remarkable act.",
+    "hi": {
+     "text": "हर धर्म के लोग जानते हैं कि बहुत सा भला अनदेखा होकर किया जाता है। माता-पिता, शिक्षक, पड़ोसी और देखभाल करने वाले लोग ख़मीर की तरह काम करते हैं, दूसरों के चरित्र को ऐसे ढंग से गढ़ते हैं जिसे वे शायद कभी नहीं जानते और जिसके लिए शायद ही कभी धन्यवाद मिलता है। यह दृष्टांत इस प्रकार के काम को गरिमा देता है, जो इतना साधारण होने के कारण शायद ही ध्यान में आता है।\n\nयह हम में से हर एक को यह सोचने के लिए भी आमंत्रित करता है कि हम अपने आसपास की दुनिया में क्या मिला रहे हैं। हमारे मूड, आदतें और दृष्टिकोण परिवार या टीम में उसी तरह फैलते हैं जैसे ख़मीर आटे में। यदि थोड़ा सा पूरे को फुला सकता है, तो यह सोचना उचित है कि हम अपने भीतर क्या रखने दें, और जब वह शांत काम कर रहा हो तब धैर्य रखें। छिपी हुई सेवा, जो वर्षों तक निभाई जाती है, किसी एक उल्लेखनीय कर्म से अधिक जीवनों को आकार दे सकती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जगातील प्रत्येक धर्माचे लोक जाणतात की बरेच चांगले काम न दिसता होते. पालक, शिक्षक, शेजारी आणि काळजी घेणारे लोक यीस्टप्रमाणे काम करतात, इतरांच्या चारित्र्याला अशा प्रकारे आकार देतात जे त्यांना कदाचित कधीच कळत नाही आणि ज्याबद्दल क्वचितच आभार मिळतात. हा दृष्टांत अशा कामाला प्रतिष्ठा देतो, जे इतके साधे असल्यामुळे क्वचितच लक्षात येते.\n\nहा दृष्टांत आपल्यातील प्रत्येकाला हेही विचारायला आमंत्रित करतो की आपण आपल्या सभोवतालच्या जगात काय मिसळत आहोत. आपले मूड, सवयी आणि वृत्ती एखाद्या घरातून किंवा संघातून यीस्ट पिठातून जावे तशा जातात. जर थोडेसे संपूर्ण भाग फुगवू शकते, तर आपण आपल्या आत काय ठेवू देतो याचा विचार करणे आणि ते शांतपणे काम करत असताना संयम ठेवणे योग्य आहे. लपलेली सेवा, जी वर्षानुवर्षे चालू ठेवली जाते, एखाद्या उल्लेखनीय कृतीपेक्षा अधिक आयुष्यांना आकार देऊ शकते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "The Kingdom of Heaven is like yeast which a woman took and hid in three measures of meal, until it was all leavened.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 13:33 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 13:33 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 13:33 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Something small and hidden, given time, can quietly change everything around it.",
+   "hi": {
+    "text": "कुछ छोटा और छिपा हुआ, समय दिए जाने पर, अपने चारों ओर की हर चीज़ को शांति से बदल सकता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "काहीतरी छोटे आणि लपलेले, वेळ दिल्यास, आपल्या सभोवतालचे सर्व काही शांतपणे बदलू शकते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What quiet influence are you having on the people around you, in your home or your work? Is it one you would choose to have spread through the whole dough?",
+  "hi": {
+   "text": "तुम अपने घर या काम में आसपास के लोगों पर कौन सा शांत प्रभाव डाल रहे हो? क्या यह वह प्रभाव है जिसे तुम पूरे आटे में फैलते देखना चाहोगे?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही घरात किंवा कामावर आपल्या आजूबाजूच्या लोकांवर कोणता शांत प्रभाव टाकत आहात? हा असा प्रभाव आहे का जो तुम्हाला संपूर्ण पिठात पसरलेला पहायला आवडेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Goodness often works like yeast, unseen and patient, changing the whole from within.",
+  "hi": {
+   "text": "भलाई अक्सर ख़मीर की तरह काम करती है, अनदेखी और धैर्यवान, भीतर से पूरे को बदलती हुई।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चांगुलपणा अनेकदा यीस्टप्रमाणे काम करतो, न दिसणारा आणि संयमी, आतून संपूर्ण गोष्ट बदलत.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 13:33; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 13:33 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 13:33 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

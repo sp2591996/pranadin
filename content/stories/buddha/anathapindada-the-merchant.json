@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "anathapindada-the-merchant",
+ "order": 18,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Anathapindada the Merchant",
+  "hi": {
+   "text": "सेठ अनाथपिंडक",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रेष्ठी अनाथपिंडक",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A very rich householder known as the friend of the orphan and the destitute travels by night to meet the Buddha, and then covers a garden with gold.",
+  "hi": {
+   "text": "अनाथों और दीन-दुखियों के मित्र के नाम से प्रसिद्ध एक अत्यंत धनी गृहस्थ रात में यात्रा करके बुद्ध से मिलने जाता है, और फिर अपने उपवन को स्वर्ण से ढक देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अनाथ आणि दीनदुबळ्यांचा मित्र म्हणून ओळखला जाणारा एक अत्यंत श्रीमंत गृहस्थ रात्री प्रवास करून बुद्धांना भेटायला जातो, आणि नंतर आपले उद्यान सोन्याने झाकून टाकतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-anatha-1.webp",
+   "w": 736,
+   "h": 866,
+   "caption": {
+    "en": "Seated Buddha with halo, Gandhara sculpture",
+    "hi": {
+     "text": "प्रभामंडल के साथ बैठे बुद्ध, गांधार मूर्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रभावळीसह बसलेले बुद्ध, गांधार शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Miracle_of_Sravasti_(the_fire_scene)_Kabul,_circa_2nd_century_CE,_Gandhara_School_of_Art,_Indian_Museum,_Kolkata.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The friend of the orphan",
+    "hi": {
+     "text": "अनाथों का मित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनाथांचा मित्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There was a great householder whose name meant the friend of the orphan and the destitute. He was very rich, with unbounded means, and widely charitable in helping the poor and needy. He had come a long way from the north, from the country of Kosala, and was staying at the house of a friend in Rajagriha. There he heard that a Buddha had appeared in the world and was living in the bamboo grove close by, and he also heard of his renown and his fine qualities.\n\nHe did not wait until morning. He set out that very night for the grove. The Tathagata knew his character and that he was ready to bring forth a pure and believing heart. He called the visitor by his true name and spoke to him with a gentle welcome. You have rejoiced in the true law, he said, and you have overcome your wish for sleep to come and pay me reverence. Now I will discharge fully the duties of a first meeting. He said that the root of virtue had been planted in the man in earlier lives.",
+    "hi": {
+     "text": "वहाँ एक महान गृहस्थ था, जिसका नाम उसके गुणों के अनुरूप था: वह अनाथों और दीन-दुखियों का मित्र था। वह अपार धन-संपत्ति का स्वामी था और निर्धनों और ज़रूरतमंदों की सहायता करने में उदार था। वह उत्तर में कोसल देश से लंबी यात्रा करके राजगृह में अपने एक मित्र के घर ठहरा हुआ था। वहाँ उसने सुना कि संसार में एक बुद्ध प्रकट हुए हैं, जो पास के बाँस-वन में रहते हैं, और उसने उनके यश तथा उनके श्रेष्ठ गुणों के विषय में भी सुना।\n\nवह सुबह तक नहीं रुका। उसी रात वह वन की ओर चल पड़ा। तथागत उसके स्वभाव को जानते थे और यह भी कि वह एक शुद्ध और श्रद्धालु हृदय को प्रकट करने के लिए तैयार है। उन्होंने आगंतुक को उसके सच्चे नाम से पुकारा और कोमल स्वागत के साथ बोले। उन्होंने कहा कि तुमने सच्चे धर्म में आनंद पाया है, और मुझे प्रणाम करने के लिए तुमने नींद की इच्छा पर विजय पाई है। अब मैं प्रथम भेंट के सभी कर्तव्य पूरे करूँगा। उन्होंने कहा कि पूर्व जन्मों में उस व्यक्ति के भीतर पुण्य का बीज बोया जा चुका था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेथे एक महान गृहस्थ होता, ज्याचे नाव त्याच्या गुणांना साजेसे होते: तो अनाथ आणि दीनदुबळ्यांचा मित्र होता. तो अपार संपत्तीचा मालक होता, आणि गरीब व गरजूंना मदत करण्यात अत्यंत उदार होता. तो उत्तरेकडील कोसल देशातून दूरचा प्रवास करून राजगृहात आपल्या एका मित्राच्या घरी उतरला होता. तिथे त्याने ऐकले की जगात एक बुद्ध प्रकट झाले आहेत आणि जवळच्या बांबूवनात राहतात. त्याने त्यांची कीर्ती आणि त्यांचे उत्तम गुणही ऐकले.\n\nतो सकाळपर्यंत थांबला नाही. त्याच रात्री तो वनाकडे निघाला. तथागतांना त्याचा स्वभाव ठाऊक होता, आणि हेही ठाऊक होते की तो एक शुद्ध आणि श्रद्धावान हृदय प्रकट करण्यास तयार आहे. त्यांनी आगंतुकाला त्याच्या खऱ्या नावाने हाक मारली आणि सौम्य स्वागताने बोलले. ते म्हणाले, तुला सत्य धर्मात आनंद वाटला आहे, आणि मला नमन करण्यासाठी तू झोपेच्या इच्छेवर मात केली आहेस. आता मी पहिल्या भेटीचे सर्व कर्तव्य पूर्ण करीन. त्यांनी सांगितले की पूर्वजन्मांत त्या माणसाच्या अंतःकरणात पुण्याचे बीज रोवले गेले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Giving up the search",
+    "hi": {
+     "text": "खोज का त्याग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शोध सोडणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Buddha praised the merchant's goodness first. You are a vessel fit for righteousness, he said, humble in mind but large in gracious deeds, abundant in your charity to the poor and helpless. Your name is widely spread, and this is the fruit of former merit. Then he turned him toward a larger gift. Take from me the charity of perfect rest, he said. My rules are full of grace and can lift a man even to heaven, but to seek heaven for its own sake is a great evil, because lustful longing only grows and brings sorrow.\n\nPractise the art of giving up, he said, for giving up desire is the joy of perfect rest. Old age, disease and death are the great sorrows of the world, and even in heaven nothing continues, and where nothing continues there is sorrow. The restless busy nature of the world is at the root of pain. Stop it by choking up the source. All is empty, neither a self nor a place for a self, and the world is like a phantasy.",
+    "hi": {
+     "text": "बुद्ध ने पहले सेठ की भलाई की प्रशंसा की। उन्होंने कहा, तुम धर्म के योग्य पात्र हो, मन से विनम्र पर उदार कर्मों में महान, और निर्धनों तथा असहायों के प्रति दान में अथाह। तुम्हारा नाम दूर-दूर तक फैला है, और यह पूर्व पुण्य का फल है। फिर उन्होंने उसे एक बड़े दान की ओर मोड़ा। उन्होंने कहा, मुझसे पूर्ण विश्राम का दान लो। मेरे नियम कृपा से भरे हैं और मनुष्य को स्वर्ग तक भी उठा सकते हैं, पर स्वर्ग को केवल उसी के लिए खोजना बड़ा दोष है, क्योंकि वासना की लालसा बढ़ती ही है और दुःख लाती है।\n\nत्याग का अभ्यास करो, उन्होंने कहा, क्योंकि इच्छा का त्याग ही पूर्ण विश्राम का आनंद है। बुढ़ापा, रोग और मृत्यु संसार के महान दुःख हैं, और स्वर्ग में भी कुछ स्थायी नहीं है, और जहाँ कुछ स्थायी न हो वहाँ दुःख है। संसार का अशांत और व्यस्त स्वभाव ही पीड़ा की जड़ है। उसके स्रोत को रोककर उसे थामो। सब कुछ शून्य है, न कोई आत्मा है, न आत्मा के लिए कोई स्थान, और संसार एक मृगतृष्णा के समान है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांनी प्रथम श्रेष्ठींच्या सदाचाराची प्रशंसा केली. ते म्हणाले, तू धर्मासाठी योग्य पात्र आहेस, मनाने विनम्र पण उदार कृतींमध्ये महान, आणि गरीब व असहाय्य लोकांना दान देण्यात अथांग. तुझे नाव सर्वत्र पसरले आहे, आणि हे पूर्वपुण्याचे फळ आहे. मग त्यांनी त्याला एका मोठ्या दानाकडे वळवले. ते म्हणाले, माझ्याकडून पूर्ण विश्रांतीचे दान घे. माझे नियम कृपेने भरलेले आहेत आणि माणसाला स्वर्गापर्यंतही नेऊ शकतात, पण स्वर्गाची इच्छा स्वतःसाठीच करणे हा मोठा दोष आहे, कारण वासनेची लालसा वाढतच जाते आणि दुःख आणते.\n\nत्यागाचा सराव कर, ते म्हणाले, कारण इच्छेचा त्याग हाच पूर्ण विश्रांतीचा आनंद आहे. म्हातारपण, रोग आणि मृत्यू हे जगातील मोठे दुःख आहेत, आणि स्वर्गातही काहीच कायम टिकत नाही, आणि जिथे काहीच कायम नाही तिथे दुःख आहे. जगाचा अस्वस्थ आणि व्यग्र स्वभाव हेच वेदनेचे मूळ आहे. त्याचा उगम रोखून ते थांबव. सर्व काही शून्य आहे, ना आत्मा आहे ना आत्म्यासाठी जागा, आणि जग एखाद्या मृगजळासारखे आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A true charity",
+    "hi": {
+     "text": "सच्चा दान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खरे दान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The merchant heard the law and at once reached the first degree of holiness. The poem says he emptied the sea of birth and death, leaving only one drop. Then the Buddha spoke at length about giving, which was the merchant's own way of life. A wise man, knowing how inconstant riches are, gives freely and does acts of kindness with what he has saved. The miser guards his wealth, worn by anxiety, and never fears the worst thing of all, which is death, and the sorrow of losing everything.\n\nThere is a proper time and a proper way of giving, he said, as a warrior goes to battle. The giver is loved by all, widely renowned, and his heart is at rest in death. He is not tormented by repentance. Founding places of rest for the religious brings the best reward. Some give to get a name, some to get heaven, some to avoid poverty later. Yours, friend, he told him, is a charity without such thoughts, the highest and best, with no self-interest and no thought of gain.",
+    "hi": {
+     "text": "सेठ ने धर्म सुना और उसी क्षण पवित्रता की पहली सीढ़ी पा ली। काव्य कहता है कि उसने जन्म और मृत्यु के सागर को सुखा दिया और केवल एक बूँद छोड़ी। फिर बुद्ध ने दान के विषय में विस्तार से कहा, जो सेठ का अपना जीवन-मार्ग था। ज्ञानी व्यक्ति जानता है कि धन कितना अस्थिर है, इसलिए वह जो बचाया है उससे उदारतापूर्वक दान करता है और दया के कार्य करता है। कंजूस अपने धन की रक्षा करता है, चिंता से जर्जर होता है, और उस सबसे बड़े भय से कभी नहीं डरता, जो मृत्यु और सब कुछ खो देने का दुःख है।\n\nदान का भी उचित समय और उचित विधि होती है, उन्होंने कहा, जैसे योद्धा युद्ध की ओर जाता है। दानी सबका प्रिय होता है, व्यापक रूप से प्रसिद्ध होता है, और मृत्यु के समय उसका हृदय शांत होता है। उसे पश्चाताप नहीं सताता। धार्मिक जनों के लिए विश्राम-स्थल बनवाना सबसे उत्तम फल देता है। कुछ लोग यश के लिए दान देते हैं, कुछ स्वर्ग के लिए, कुछ भविष्य की निर्धनता से बचने के लिए। तुम्हारा दान, मित्र, ऐसे विचारों से रहित है, सबसे श्रेष्ठ और उत्तम, जिसमें कोई स्वार्थ नहीं और लाभ का कोई विचार नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रेष्ठींनी धर्म ऐकला आणि त्याच क्षणी पवित्रतेची पहिली पायरी गाठली. काव्य सांगते की त्याने जन्म आणि मृत्यूचा सागर आटवला, फक्त एक थेंब उरवला. मग बुद्ध दानाबद्दल विस्ताराने बोलले, जे श्रेष्ठींचे स्वतःचे जीवनमार्ग होते. शहाणा माणूस जाणतो की संपत्ती किती अस्थिर आहे, म्हणून तो जे साठवले आहे त्यातून मुक्तपणे दान करतो आणि दयेची कृत्ये करतो. कंजूष माणूस आपल्या धनाचे रक्षण करतो, चिंतेने झिजत राहतो, आणि त्या सर्वात मोठ्या भीतीला, म्हणजे मृत्यूला आणि सर्वस्व गमावण्याच्या दुःखाला, कधी घाबरत नाही.\n\nदानाची योग्य वेळ आणि योग्य पद्धत असते, ते म्हणाले, जसा योद्धा युद्धाला जातो. दाता सर्वांना प्रिय असतो, व्यापकपणे प्रसिद्ध असतो, आणि मृत्यूच्या वेळी त्याचे हृदय शांत असते. त्याला पश्चात्ताप छळत नाही. धार्मिक जनांसाठी विश्रांतीस्थाने उभारणे सर्वोत्तम फळ देते. काही लोक नावलौकिकासाठी दान देतात, काही स्वर्गासाठी, काही भविष्यातील गरिबीपासून बचावासाठी. तुझे दान, मित्रा, अशा विचारांविना आहे, सर्वोच्च आणि उत्तम, ज्यात स्वार्थ नाही आणि लाभाचा विचार नाही, ते त्यांनी सांगितले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince's garden",
+    "hi": {
+     "text": "राजकुमार का उपवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राचा उपवन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The merchant took the teaching to heart and asked his friend Upatishya, who is Sariputra, to go back with him to Kosala. Walking around to choose a pleasant place for a monastery, he saw the garden of the prince Jeta, with its groves and clear streams. He went to the prince and asked for leave to buy the ground. The prince valued it so much that at first he would not sell. At last he said, If you can cover it with gold, you may have it, but not otherwise.\n\nThe merchant was glad and began to spread his gold on the ground. Then Jeta said he would not sell after all, so why was the man spreading his gold? Why did you say, fill it with yellow gold, replied the merchant. They quarrelled until they went to a magistrate. Meanwhile the people whispered about this unusual charity, and the prince, who knew the man's sincerity, asked what his reasons were. I wish to build a monastery, the merchant answered, and offer it to the Tathagata and all his monks.",
+    "hi": {
+     "text": "सेठ ने उपदेश को हृदय में उतारा और अपने मित्र उपतिष्य से, जो सारिपुत्र थे, कहा कि वे उसके साथ कोसल चलें। एक सुंदर स्थान खोजने के लिए घूमते हुए उसकी दृष्टि राजकुमार जेत के उपवन पर पड़ी, जिसमें वन और स्वच्छ झरने थे। वह राजकुमार के पास गया और भूमि खरीदने की अनुमति माँगी। राजकुमार ने उसे इतना मूल्यवान माना कि पहले बेचने से इनकार कर दिया। अंत में उसने कहा, यदि तुम इसे स्वर्ण से ढक सको, तो यह तुम्हारी है, अन्यथा नहीं।\n\nसेठ प्रसन्न हुआ और उसने भूमि पर स्वर्ण बिछाना शुरू कर दिया। तब जेत ने कहा कि वह अब बेचेगा नहीं, तो यह आदमी अपना स्वर्ण क्यों बिछा रहा है? तुमने ही तो कहा था कि पीले स्वर्ण से भर दो, उत्तर में सेठ ने कहा। दोनों में झगड़ा हो गया और वे एक न्यायाधीश के पास गए। इस बीच लोग इस असामान्य दान के बारे में कानाफूसी करने लगे। राजकुमार ने, जो उस व्यक्ति की सच्चाई को जानता था, पूछा कि उसका उद्देश्य क्या है। सेठ ने उत्तर दिया, मैं एक विहार बनवाना चाहता हूँ और उसे तथागत और उनके सभी भिक्षुओं को अर्पित करना चाहता हूँ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रेष्ठींनी उपदेश मनात ठसवला आणि आपला मित्र उपतिष्य, म्हणजेच सारिपुत्र, याला सोबत कोसलला चल असे सांगितले. एक सुंदर जागा शोधत फिरताना त्यांची नजर राजपुत्र जेतच्या उपवनावर पडली, ज्यात वने आणि स्वच्छ झरे होते. तो राजपुत्राकडे गेला आणि जमीन विकत घेण्याची परवानगी मागितली. राजपुत्राने ती जमीन इतकी मौल्यवान मानली की सुरुवातीला विकण्यास नकार दिला. शेवटी तो म्हणाला, जर तू ती सोन्याने झाकू शकलास, तर ती तुझी आहे, नाहीतर नाही.\n\nश्रेष्ठी आनंदित झाला आणि त्याने जमिनीवर सोने पसरायला सुरुवात केली. तेव्हा जेत म्हणाला की तो आता विकणार नाही, मग हा माणूस आपले सोने का पसरत आहे? तूच तर म्हणाला होतास की पिवळ्या सोन्याने भरून टाक, श्रेष्ठी म्हणाला. दोघांमध्ये वाद झाला आणि ते न्यायाधीशाकडे गेले. तोपर्यंत लोक या असामान्य दानाबद्दल कुजबुजू लागले, आणि त्या माणसाची प्रामाणिकता जाणणाऱ्या राजपुत्राने त्याचे कारण विचारले. श्रेष्ठी म्हणाला, मला एक विहार बांधायचा आहे आणि तो तथागत व त्यांच्या सर्व भिक्षूंना अर्पण करायचा आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Half the gold",
+    "hi": {
+     "text": "आधा स्वर्ण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्धे सोने",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the name of Buddha, the poem says, the prince received illumination at once. He took only half the gold, and wished to share in the gift. The merchant's heart was glad, and he had half the ground for himself and half for the prince, so that the whole was given together. This was the beginning of the monastery in the garden of Jeta, which the next cantos describe in more detail. The Chinese text presents it as a gift made by two people, the one who gave the gold and the one who gave the land.\n\nAshvaghosha lets the scene say what the sermon had said. The merchant did not seek heaven, fame or any return. His giving was open to anyone who could see its purpose, and even the quarrel in the market was part of it, because it brought the prince to the teaching as well. A charity without thoughts of gain, the poem suggests, spreads itself outward like the gold on the ground, and ends up covering far more than the man expected.",
+    "hi": {
+     "text": "बुद्ध का नाम सुनते ही काव्य के अनुसार राजकुमार को उसी क्षण ज्ञान का प्रकाश मिला। उसने केवल आधा स्वर्ण लिया और चाहा कि वह भी इस दान में सहभागी बने। सेठ का हृदय प्रसन्न हुआ। उसने आधी भूमि अपने लिए रखी और आधी राजकुमार के लिए, ताकि पूरा उपवन एक साथ दान किया जाए। यही जेतवन के विहार का आरंभ था, जिसका विस्तृत वर्णन अगले सर्गों में मिलता है। चीनी पाठ इसे दो लोगों द्वारा किया गया दान बताता है, एक जिसने स्वर्ण दिया और दूसरा जिसने भूमि दी।\n\nअश्वघोष दृश्य को वही कहने देते हैं जो उपदेश ने कहा था। सेठ ने स्वर्ग, यश या किसी प्रतिफल की इच्छा नहीं की। उसका दान हर उस व्यक्ति के लिए खुला था जो उसका उद्देश्य देख सके, और बाज़ार का वह झगड़ा भी इसका हिस्सा बन गया, क्योंकि उसने राजकुमार को भी उपदेश तक पहुँचा दिया। काव्य संकेत देता है कि लाभ की इच्छा से रहित दान, भूमि पर बिछे स्वर्ण की तरह फैलकर उस सबसे कहीं अधिक ढक लेता है, जितना दाता ने सोचा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांचे नाव ऐकताच काव्य सांगते की राजपुत्राला तत्काळ ज्ञानप्रकाश मिळाला. त्याने फक्त अर्धे सोने घेतले, आणि इच्छा केली की या दानात त्यालाही सहभाग मिळावा. श्रेष्ठींचे मन आनंदले. त्याने अर्धी भूमी स्वतःसाठी ठेवली आणि अर्धी राजपुत्रासाठी, जेणेकरून संपूर्ण उद्यान एकत्र दान केले जाईल. हाच जेतवन विहाराचा प्रारंभ होता, ज्याचे विस्तृत वर्णन पुढील सर्गांत येते. चिनी पाठ याला दोन जणांनी केलेले दान म्हणतो, एक ज्याने सोने दिले आणि दुसरा ज्याने जमीन दिली.\n\nअश्वघोष दृश्यालाच तो उपदेश सांगू देतात. श्रेष्ठीने स्वर्ग, कीर्ती किंवा कोणताही मोबदला शोधला नाही. त्याचे दान त्या प्रत्येकासाठी खुले होते जो त्याचा हेतू पाहू शकत होता, आणि बाजारातील तो वादसुद्धा त्याचाच भाग झाला, कारण त्याने राजपुत्रालाही उपदेशापर्यंत आणले. लाभाच्या विचारांविना केलेले दान, जमिनीवर पसरलेल्या सोन्यासारखे बाहेरपर्यंत पसरते आणि माणसाने जितके अपेक्षिले होते त्याहून कितीतरी अधिक झाकून टाकते, असे काव्य सुचवते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Think of the last time you gave something. Did you expect anything back, even thanks?",
+  "hi": {
+   "text": "उस अंतिम बार के बारे में सोचो जब तुमने कुछ दिया था। क्या तुमने बदले में कुछ चाहा था, यहाँ तक कि धन्यवाद भी?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तू शेवटचे काहीतरी कधी दिले होते तो प्रसंग आठव. तुला त्या बदल्यात काही अपेक्षा होती का, अगदी आभाराची सुद्धा?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The finest generosity asks for nothing in return, and it often brings others into the circle of giving.",
+  "hi": {
+   "text": "सबसे उत्तम उदारता बदले में कुछ नहीं माँगती, और वह अक्सर दूसरों को भी दान के घेरे में ले आती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वोत्तम उदारता बदल्यात काहीच मागत नाही, आणि ती अनेकदा इतरांनाही दानाच्या वर्तुळात आणते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 18; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 18; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 18; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-ride-to-the-garden",
+ "order": 3,
+ "part": "birth",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Ride to the Garden",
+  "hi": {
+   "text": "उपवन की ओर यात्रा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "उद्यानाकडे प्रवास",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "On three journeys to a pleasure garden, a young prince meets old age, sickness and death for the first time.",
+  "hi": {
+   "text": "एक आनंद-उद्यान की तीन यात्राओं में एक युवा राजकुमार पहली बार बुढ़ापे, रोग और मृत्यु को देखता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एका आनंद-उद्यानाच्या तीन प्रवासांत एक तरुण राजपुत्र प्रथमच म्हातारपण, आजार आणि मृत्यू पाहतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-ride-gandhara.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Scenes from the life of the Buddha, Gandhara relief",
+    "hi": {
+     "text": "बुद्ध के जीवन के दृश्य, गांधार शिल्प",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांच्या जीवनातील प्रसंग, गांधार शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "Hispalois, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Scenes_life_Buddha_Gandhara_1.JPG"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A wish to go out",
+    "hi": {
+     "text": "बाहर जाने की इच्छा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बाहेर जाण्याची इच्छा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One day the prince heard people speak of the forests outside the city, where the grass was tender, the lotus ponds were bright and the cuckoos were singing after the cold season. In Ashvaghosha's words, he wanted to go out of doors like an elephant long shut up in a house. His father, King Shuddhodana, agreed, and gave orders for a pleasure party worthy of his son's beauty and youth.\n\nBut the king was afraid. He forbade anyone with a deformity or a sickness to appear on the high road, and had all the old, the sick and the squalid beggars quietly moved out of sight. He feared that his tender-natured son might even imagine himself to be distressed. So the road was swept clean, and the city made ready for a prince who must not be allowed to see how most of its people lived.",
+    "hi": {
+     "text": "एक दिन राजकुमार ने नगर के बाहर के वनों की चर्चा सुनी, जहाँ घास कोमल थी, कमल-सरोवर उज्ज्वल थे और ठंडे मौसम के बाद कोयलें गा रही थीं। अश्वघोष के शब्दों में, वह घर में बंद हाथी की तरह बाहर जाना चाहता था। पिता, राजा शुद्धोदन, सहमत हो गए, और उन्होंने अपने पुत्र की सुंदरता और युवावस्था के योग्य एक आनंद-यात्रा का आदेश दिया।\n\nपर राजा डर गया। उसने आदेश दिया कि कोई भी विकृत अंग वाला या बीमार व्यक्ति उच्च मार्ग पर न दिखे, और सभी वृद्धों, रोगियों और गंदे भिखारियों को चुपचाप दृष्टि से दूर हटा दिया गया। उसे डर था कि उसका कोमल स्वभाव वाला पुत्र अपने को दुःखी भी समझ सकता है। इसलिए सड़क साफ़ की गई, और नगर उस राजकुमार के लिए तैयार हुआ जिसे यह देखने नहीं दिया जाना था कि उसके अधिकांश लोग कैसे जीते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एके दिवशी राजपुत्राने नगराबाहेरच्या वनांबद्दल ऐकले, जिथे गवत कोवळे होते, कमलसरोवरे स्वच्छ होती आणि थंड ऋतूनंतर कोकिळा गात होत्या. अश्वघोषांच्या शब्दांत, घरात बंदिस्त असलेल्या हत्तीप्रमाणे त्याला बाहेर जायचे होते. पिता, राजा शुद्धोदन, तयार झाले, आणि त्यांनी आपल्या पुत्राच्या सौंदर्याला आणि तारुण्याला शोभेल अशा आनंद-यात्रेची आज्ञा दिली.\n\nपण राजा घाबरला. त्याने आदेश दिला की कोणताही विकलांग किंवा आजारी माणूस उच्च मार्गावर दिसता कामा नये, आणि सर्व वृद्ध, रोगी आणि मलीन भिकाऱ्यांना शांतपणे दृष्टीआड करण्यात आले. त्याला भीती होती की त्याचा कोमल स्वभावाचा पुत्र स्वतःलाही दुःखी समजू शकेल. म्हणून रस्ता झाडून स्वच्छ करण्यात आला, आणि नगर त्या राजपुत्रासाठी तयार झाले, ज्याला बहुतेक लोक कसे जगतात हे पाहू दिले जाणार नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince in his chariot",
+    "hi": {
+     "text": "रथ में राजकुमार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रथातील राजपुत्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king smelled his son's head, a sign of a father's love in India, and with tears in his eyes said, Go. Though his heart would not let the boy leave, he let him go. The prince mounted a golden chariot yoked to four gentle horses and drove down a road strewn with flowers and hung with garlands and banners, like the moon entering the sky with its constellation.\n\nThe whole city came to watch. Ashvaghosha paints the scene with joy. People stared with eyes wide open like blue lotuses, and women hurried to their rooftops with girdles slipping and ornaments only half fastened. Faces looked out of every window, as if lotuses were growing from the houses. Some praised his gentle nature, some his beauty, and many hoped for him long life. For a moment the prince himself felt a little pleasure, and thought that the city seemed to promise him a new youth.",
+    "hi": {
+     "text": "राजा ने अपने पुत्र का सिर सूँघा, जो भारत में पिता के स्नेह का चिह्न था, और आँसू भरी आँखों से कहा, जाओ। यद्यपि उसका हृदय नहीं चाहता था कि बालक जाए, फिर भी उसने उसे जाने दिया। राजकुमार एक सुनहरे रथ पर सवार हुआ, जिसमें चार सौम्य घोड़े जुते थे, और वह ऐसी सड़क पर चला जो फूलों से बिछी और मालाओं व पताकाओं से सजी थी, जैसे चंद्रमा अपने नक्षत्र के साथ आकाश में प्रवेश करता है।\n\nपूरा नगर देखने आया। अश्वघोष यह दृश्य आनंद से चित्रित करते हैं। लोग खुली आँखों से नीले कमलों की तरह देख रहे थे, और स्त्रियाँ अपनी मेखलाएँ खिसकते और आधे बँधे आभूषणों के साथ छतों पर दौड़ आईं। हर खिड़की से चेहरे झाँक रहे थे, जैसे भवनों में से कमल उग रहे हों। कुछ ने उसके सौम्य स्वभाव की प्रशंसा की, कुछ उसके सौंदर्य की, और बहुतों ने उसकी लंबी आयु की कामना की। क्षण भर के लिए राजकुमार को भी कुछ आनंद हुआ, और उसे लगा कि नगर उसे नया यौवन देने का वचन दे रहा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाने आपल्या पुत्राचे मस्तक हुंगले, जे भारतात पित्याच्या स्नेहाचे चिन्ह होते, आणि अश्रू भरलेल्या डोळ्यांनी म्हणाला, जा. त्याचे मन नको म्हणत असले तरी त्याने मुलाला जाऊ दिले. राजपुत्र सोन्याच्या रथात बसला, ज्याला चार सौम्य घोडे जुंपलेले होते, आणि तो फुलांनी आच्छादित, माळा व पताकांनी सजलेल्या रस्त्यावरून निघाला, जसा चंद्र आपल्या नक्षत्रासह आकाशात प्रवेश करतो.\n\nपूर्ण नगर पाहायला आले. अश्वघोष हे दृश्य आनंदाने रंगवतात. लोक उघड्या डोळ्यांनी निळ्या कमळांसारखे पाहत होते, आणि स्त्रिया आपली मेखला सरकलेली आणि अर्धवट बांधलेले अलंकार घेऊन गच्च्यांवर धावत आल्या. प्रत्येक खिडकीतून चेहरे डोकावत होते, जणू इमारतींमधून कमळे उगवत होती. कोणी त्याच्या सौम्य स्वभावाची स्तुती करत होते, कोणी त्याच्या सौंदर्याची, आणि अनेकांनी त्याच्या दीर्घायुष्याची इच्छा केली. क्षणभर राजपुत्रालाही आनंद झाला, आणि त्याला वाटले की नगर त्याला नवे तारुण्य देण्याचे वचन देत आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The old man",
+    "hi": {
+     "text": "वृद्ध मनुष्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वृद्ध माणूस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then, the poet tells us, the gods of the pure abodes looked down at the rejoicing city and decided to stir the prince's heart. They created an old man, who walked slowly along the road, white-haired, leaning on a staff, his eyes half hidden under his brows and his limbs hanging loose, and only the prince and his charioteer could see him. The prince asked who this man was, and whether he had been born so or had been changed.\n\nThe charioteer, his mind bewildered by the gods, told him the truth: this is old age, the ravisher of beauty and the ruin of strength. The man once drank milk as a child and crawled on the ground, he said, and step by step has come to this. It will come to my lord too, in time. The prince shook his head and sighed. He said that old age strikes down all alike, our memory, our comeliness, our courage, and yet the world is not troubled even when it sees such a fate coming. He told the charioteer to turn back at once. How could he enjoy a garden, he asked, when the thought of old age was overpowering him?",
+    "hi": {
+     "text": "तब, कवि कहते हैं, शुद्ध लोकों के देवताओं ने हर्षित नगर को देखा और राजकुमार के हृदय को हिलाने का निश्चय किया। उन्होंने एक वृद्ध मनुष्य बनाया, जो सड़क पर धीरे-धीरे चल रहा था, सफेद बालों वाला, एक छड़ी के सहारे झुका हुआ, उसकी आँखें भौंहों के नीचे आधी छिपी हुईं और उसके अंग ढीले लटके हुए। राजकुमार और उसके सारथी के सिवा किसी को वह दिखाई नहीं दिया। राजकुमार ने पूछा कि यह व्यक्ति कौन है, और क्या वह ऐसा ही जन्मा था या बदल गया।\n\nसारथी का मन देवताओं ने भ्रमित कर दिया था, पर उसने सच बताया: यह बुढ़ापा है, सौंदर्य का लुटेरा और बल का नाश करने वाला। यह मनुष्य बचपन में दूध पीता था और धरती पर रेंगता था, उसने कहा, और धीरे-धीरे यहाँ तक पहुँच गया। यह एक दिन मेरे स्वामी के साथ भी होगा। राजकुमार ने सिर हिलाया और आह भरी। उसने कहा कि बुढ़ापा सबको एक-सा मारता है, हमारी स्मृति, हमारी सुंदरता और हमारा साहस, फिर भी संसार उसे आते देखकर भी विचलित नहीं होता। उसने सारथी को तुरंत लौटने को कहा। वह उद्यान का आनंद कैसे ले सकता है, उसने पूछा, जब बुढ़ापे का विचार उसे इतना अभिभूत कर रहा है?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग, कवी सांगतात, शुद्ध लोकांतील देवांनी आनंदी नगराकडे पाहिले आणि राजपुत्राचे हृदय हलवण्याचा निश्चय केला. त्यांनी एक वृद्ध माणूस निर्माण केला, जो रस्त्यावरून हळूहळू चालत होता, पांढऱ्या केसांचा, काठीच्या आधाराने वाकलेला, त्याचे डोळे भुवयांखाली अर्धे लपलेले आणि त्याचे अवयव सैल लटकलेले. राजपुत्र आणि त्याचा सारथी यांच्याशिवाय कोणालाही तो दिसला नाही. राजपुत्राने विचारले की हा माणूस कोण आहे, आणि तो असाच जन्मला होता, की बदलून असा झाला आहे.\n\nसारथ्याचे मन देवांनी भ्रमित केले होते, पण त्याने खरे सांगितले: हे म्हातारपण आहे, सौंदर्याचा लुटारू आणि बलाचा नाश करणारे. हा माणूस बालपणी दूध पीत होता आणि जमिनीवर रांगत होता, तो म्हणाला, आणि हळूहळू येथपर्यंत पोहोचला. हे एक दिवस माझ्या स्वामीलाही होईल. राजपुत्राने मान हलवली आणि उसासा टाकला. म्हातारपण सर्वांना सारख्याच प्रकारे मारते, तो म्हणाला, आपली स्मृती, आपले सौंदर्य आणि आपले धैर्य, तरीही जग ते येताना पाहूनही विचलित होत नाही. त्याने सारथ्याला लगेच परत फिरायला सांगितले. म्हातारपणाचा विचार त्याला इतका व्यापून टाकत असताना तो उद्यानाचा आनंद कसा घेऊ शकेल, त्याने विचारले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sick man",
+    "hi": {
+     "text": "बीमार मनुष्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आजारी माणूस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Back in the palace the prince found no peace. He kept thinking, old age, old age. His father, seeing him unhappy, allowed him to go out again, and again the road was cleared, though the gods once more contrived a sight that human care had missed. This time a sick man appeared by the roadside, with a swollen belly, his body pale and thin and shaking as he panted, calling out for his mother as he clung to a stranger.\n\nThe prince asked what was the matter. The charioteer answered that this was sickness, a great affliction that can leave even a strong man no longer master of himself, and that it is common to all. The prince trembled like the moon reflected in the waves. How can people feel at ease, he said, when they can see such calamities? Once more he asked to be driven home, and once more the king, hearing of it, rebuked those who had kept the road clear and tried to find yet more amusements to restore his son.",
+    "hi": {
+     "text": "महल में लौटकर राजकुमार को शांति नहीं मिली। वह बार-बार सोचता रहा, बुढ़ापा, बुढ़ापा। उसके पिता ने, उसे दुःखी देखकर, उसे फिर बाहर जाने दिया, और फिर से सड़क साफ़ की गई, हालाँकि देवताओं ने एक बार फिर वह दृश्य रचा जो मानव सावधानी से छूट गया था। इस बार सड़क के किनारे एक बीमार मनुष्य दिखा, जिसका पेट फूला हुआ था, उसका शरीर पीला और दुबला था और साँस लेते हुए काँप रहा था, वह अपनी माँ को पुकार रहा था और एक अजनबी से चिपका था।\n\nराजकुमार ने पूछा कि क्या बात है। सारथी ने उत्तर दिया कि यह रोग है, एक महान पीड़ा जो एक बलवान मनुष्य को भी अपने ऊपर नियंत्रण खो देने देती है, और यह सबको होता है। राजकुमार काँपा, जैसे पानी में चंद्रमा का प्रतिबिंब काँपता है। लोग इतने सुखी कैसे रह सकते हैं, उसने पूछा, जब वे ऐसी आपदाएँ देख सकते हैं? एक बार फिर उसने घर लौटने को कहा, और एक बार फिर राजा ने, यह सुनकर, उन लोगों को डाँटा जिन्होंने सड़क साफ़ रखी थी, और अपने पुत्र का मन बहलाने के लिए और आनंद के साधन खोजने लगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महालात परतल्यावर राजपुत्राला शांती मिळाली नाही. तो सतत विचार करत राहिला, म्हातारपण, म्हातारपण. त्याच्या पित्याने, त्याला दुःखी पाहून, त्याला पुन्हा बाहेर जाऊ दिले, आणि पुन्हा रस्ता साफ करण्यात आला, जरी देवांनी पुन्हा एकदा ते दृश्य रचले जे मानवी काळजीने चुकवले होते. यावेळी रस्त्याच्या कडेला एक आजारी माणूस दिसला, ज्याचे पोट फुगलेले होते, शरीर पिवळे आणि कृश होते आणि श्वास घेताना थरथरत होते, तो आपल्या आईला हाक मारत होता आणि एका अनोळखी माणसाला बिलगला होता.\n\nराजपुत्राने विचारले की काय झाले आहे. सारथ्याने उत्तर दिले की हा आजार आहे, एक मोठी वेदना जी एका बलवान माणसालाही स्वतःवरचा ताबा गमावायला लावते, आणि हा सर्वांना होतो. राजपुत्र थरथरला, जसा पाण्यात चंद्राचे प्रतिबिंब थरथरते. लोक अशी संकटे पाहूनही सुखाने कसे राहू शकतात, त्याने विचारले? पुन्हा एकदा त्याने घरी परतण्यास सांगितले, आणि पुन्हा राजाने, हे ऐकून, रस्ता साफ ठेवणाऱ्यांना दटावले, आणि आपल्या पुत्राचे मन रमवण्यासाठी आणखी आनंदाची साधने शोधू लागला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The dead man",
+    "hi": {
+     "text": "मृत मनुष्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मृत माणूस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On a third journey, with singing-women and the best attendants, the gods created a dead man, carried on a bier by four men, with mourners following. Only the charioteer and the prince saw him. The prince asked who it was who was being carried, and the charioteer, whose mind the gods had overpowered, told him truthfully that this was death, the final end of every living creature, whether poor, middle or great.\n\nHearing this, the prince, calm though he was by nature, sank down against the chariot pole and cried out in a loud voice. Is this end appointed for all creatures, he said, and yet the world forgets its fear and carries on? He said that the hearts of men must be hard indeed. This was no time for a pleasure party. Even so, the charioteer, following his master's order in a puzzled way, drove on to the lovely forest garden filled with young women, and the prince was carried there almost against his will.",
+    "hi": {
+     "text": "तीसरी यात्रा में, गायिकाओं और सबसे अच्छे सेवकों के साथ, देवताओं ने एक मृत मनुष्य रचा, जिसे चार पुरुष बिस्तर पर उठाकर ले जा रहे थे, और उसके पीछे शोक करने वाले चल रहे थे। केवल सारथी और राजकुमार ने उसे देखा। राजकुमार ने पूछा कि कौन उठाकर ले जाया जा रहा है, और सारथी, जिसका मन देवताओं ने वश में कर लिया था, ने सच कहा कि यह मृत्यु है, हर जीव का अंतिम अंत, चाहे वह गरीब हो, मध्यम हो या महान।\n\nयह सुनकर राजकुमार, जो स्वभाव से शांत था, रथ के दंडे के सहारे धँस गया और ज़ोर से रो पड़ा। क्या हर प्राणी के लिए यह अंत तय है, उसने कहा, और फिर भी संसार अपना भय भूलकर आगे बढ़ता रहता है? उसने कहा कि मनुष्यों के हृदय सचमुच कठोर होंगे। यह आनंद-यात्रा का समय नहीं था। फिर भी, अपने स्वामी के आदेश का भ्रमित मन से पालन करते हुए, सारथी ने रथ को युवतियों से भरे सुंदर वन-उद्यान की ओर बढ़ाया, और राजकुमार लगभग अपनी इच्छा के विरुद्ध वहाँ लाया गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिसऱ्या प्रवासात, गायिका आणि सर्वोत्तम सेवकांसह, देवांनी एक मृत माणूस निर्माण केला, ज्याला चार माणसे खाटेवर उचलून नेत होती, आणि मागे शोक करणारे चालत होते. फक्त सारथी आणि राजपुत्र यांनी ते पाहिले. राजपुत्राने विचारले की कोणाला उचलून नेत आहेत, आणि सारथ्याने, ज्याचे मन देवांनी वश केले होते, खरे सांगितले की हे मृत्यू आहे, प्रत्येक जीवाचा अंतिम शेवट, मग तो गरीब असो, मध्यम असो किंवा महान.\n\nते ऐकून राजपुत्र, जो स्वभावाने शांत होता, रथाच्या दांड्यावर कोसळला आणि मोठ्याने रडला. प्रत्येक प्राण्यासाठी हा शेवट ठरलेला आहे का, तो म्हणाला, आणि तरीही जग आपली भीती विसरून पुढे चालते? मनुष्यांची मने खरोखर कठोर असली पाहिजेत, तो म्हणाला. हा आनंद-यात्रेचा काळ नव्हता. तरीही आपल्या स्वामीच्या आज्ञेचे भ्रमित मनाने पालन करत सारथ्याने रथ तरुणींनी भरलेल्या सुंदर वन-उद्यानाकडे नेला, आणि राजपुत्राला जवळजवळ त्याच्या इच्छेविरुद्ध तिथे नेण्यात आले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Old age thus strikes down all alike, our memory, comeliness, and valour",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 3.36 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 3.36 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 3.36 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The prince's first reaction to seeing an old man: age does not spare anyone.",
+   "hi": {
+    "text": "पहली बार वृद्ध व्यक्ति को देखकर राजकुमार की प्रतिक्रिया: बुढ़ापा किसी को नहीं छोड़ता।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "पहिल्यांदा वृद्ध माणूस पाहिल्यावर राजपुत्राची प्रतिक्रिया: म्हातारपण कोणालाच सोडत नाही.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Which of the three sights, old age, sickness or death, do you most avoid thinking about, and what might change if you looked at it calmly?",
+  "hi": {
+   "text": "इन तीन दृश्यों, बुढ़ापा, रोग और मृत्यु, में से तुम किसे सबसे अधिक टालते हो, और यदि तुम उसे शांतिपूर्वक देखो तो क्या बदल सकता है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "या तीन दृश्यांपैकी, म्हातारपण, आजार आणि मृत्यू, तू कोणाला सर्वाधिक टाळतोस, आणि जर तू त्याकडे शांतपणे पाहिलेस तर काय बदलू शकते?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Sorrow can be hidden from sight but cannot be taken out of life; the first step toward wisdom is to look at it plainly.",
+  "hi": {
+   "text": "दुःख को दृष्टि से ओझल किया जा सकता है, पर जीवन से निकाला नहीं जा सकता; ज्ञान की पहली सीढ़ी उसे स्पष्ट रूप से देखना है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुःख दृष्टीआड करता येते, पण जीवनातून काढता येत नाही; ज्ञानाची पहिली पायरी म्हणजे ते स्पष्टपणे पाहणे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 3; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 3; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 3; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

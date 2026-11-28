@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-search",
+ "order": 9,
+ "part": "renunciation",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Search",
+  "hi": {
+   "text": "खोज",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शोध",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A counsellor and a priest follow the prince into the forest and plead with him to come home.",
+  "hi": {
+   "text": "एक मंत्री और एक पुरोहित राजकुमार का पीछा करते हुए वन में जाते हैं और उससे घर लौटने की विनती करते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक मंत्री आणि एक पुरोहित राजकुमाराचा पाठलाग करत वनात जातात आणि त्याला घरी परतण्याची विनंती करतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-search-gandhara.webp",
+   "w": 762,
+   "h": 406,
+   "caption": {
+    "en": "Scenes from the life of the Buddha, Gandhara relief",
+    "hi": {
+     "text": "बुद्ध के जीवन के दृश्य, गांधार शिल्प",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बुद्धांच्या जीवनातील प्रसंग, गांधार शिल्प",
+     "reviewed": false
+    }
+   },
+   "credit": "Per Honor et Gloria at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gandhara_Buddha_scene.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Under the tree",
+    "hi": {
+     "text": "वृक्ष के नीचे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वृक्षाखाली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king's two messengers, the family priest and the minister, left their chariot and their royal pomp behind and went on foot into the forest. They came first to the hermitage of Bhargava, where the prince had been, and asked after him. The sage told them that the prince had been there, but not as one who did not know what he wanted. This way of life, he said, only brings us back again, and so the prince had gone on toward the sage Arada, seeking liberation.\n\nThe two men followed. As they went, they saw him sitting at the foot of a tree by the road, stripped of all ornaments yet as bright as ever, like the sun under the shade of a cloud. The priest and the minister went up to him with due respect. He rose and paid them honour in return, as Indra honours the teachers of the gods in heaven, and when he gave them leave, they sat down near him. The priest began to speak.",
+    "hi": {
+     "text": "राजा के दो दूत, कुलपुरोहित और मंत्री, अपने रथ और राजसी वैभव को पीछे छोड़कर पैदल वन में गए। वे पहले भार्गव के आश्रम पहुँचे, जहाँ राजकुमार रह चुका था, और उसके बारे में पूछा। ऋषि ने बताया कि राजकुमार वहाँ आया था, पर इस तरह नहीं कि उसे पता न हो कि वह क्या चाहता है। यह जीवनशैली, उसने कहा, हमें केवल फिर से जन्म के चक्र में ले जाती है, और इसलिए राजकुमार मुक्ति की खोज में ऋषि आराड के पास चला गया था।\n\nदोनों उसके पीछे चले। चलते हुए उन्होंने उसे मार्ग के किनारे एक वृक्ष के नीचे बैठे देखा, आभूषणों से रहित, फिर भी पहले जैसा ही तेजस्वी, जैसे बादल की छाया में सूर्य। पुरोहित और मंत्री आदरपूर्वक उसके पास गए। वह उठा और उन्हें सम्मान दिया, जैसे इंद्र स्वर्ग में आचार्यों का सम्मान करते हैं, और उनकी अनुमति से वे उसके पास बैठ गए। पुरोहित ने बोलना शुरू किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाचे दोन दूत, कुलपुरोहित आणि मंत्री, आपला रथ आणि राजवैभव मागे ठेवून पायी वनात गेले. ते प्रथम भार्गवाच्या आश्रमात पोहोचले, जिथे राजपुत्र राहिला होता, आणि त्यांनी त्याची चौकशी केली. ऋषींनी सांगितले की राजपुत्र तिथे आला होता, पण असा नाही की त्याला काय हवे आहे हे कळत नव्हते. ही जीवनपद्धती, ते म्हणाले, आपल्याला फक्त पुन्हा जन्मचक्रात नेते, आणि म्हणून राजपुत्र मुक्तीच्या शोधात ऋषी आराड यांच्याकडे निघून गेला होता.\n\nदोघे त्याच्या मागे निघाले. चालताना त्यांनी त्याला मार्गाच्या कडेला एका वृक्षाखाली बसलेले पाहिले, अलंकारांशिवाय, तरीही पूर्वीसारखाच तेजस्वी, जसा ढगाच्या सावलीत सूर्य. पुरोहित आणि मंत्री आदराने त्याच्याजवळ गेले. तो उठला आणि त्यांना सन्मान दिला, जसा इंद्र स्वर्गात आचार्यांचा सन्मान करतो, आणि त्यांच्या परवानगीने ते त्याच्याजवळ बसले. पुरोहिताने बोलायला सुरुवात केली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The priest speaks for the king",
+    "hi": {
+     "text": "पुरोहित राजा की ओर से बोलता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुरोहित राजाच्या वतीने बोलतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The priest told the prince what the king had said as he lay fainting on the ground with the arrow of his son's sorrow in his heart. I know your purpose is religion, the king had said, but I am burning with grief. Enjoy the earth for a while, and go to the forest at the time that the scriptures set. Religion is not worked out only in the forests. Even a householder can reach freedom, since the forest and the robe are only signs and a coward might hide in them.\n\nThen the priest spoke of those the prince had left. Think of her, he said, who grieves like a cow that has lost her calf, and of your wife, widowed though her lord is alive, like a swan separated from its mate. Think of your child Rahula, who wanders through the women's rooms and the whole city looking for you. Please rescue him from the grief of his kin, he said, like the full moon from the touch of Rahu.",
+    "hi": {
+     "text": "पुरोहित ने राजकुमार को वह बताया जो राजा ने कहा था, जब वह अपने पुत्र के शोक के बाण से हृदय में आहत होकर भूमि पर मूर्च्छित पड़ा था। मैं जानता हूँ कि तुम्हारा उद्देश्य धर्म है, राजा ने कहा था, पर मैं शोक से जल रहा हूँ। पृथ्वी का सुख कुछ समय भोगो, और शास्त्रों में बताए समय पर वन जाना। धर्म केवल वनों में नहीं खोजा जाता। गृहस्थ भी मुक्ति पा सकता है, क्योंकि वन और चीवर केवल चिह्न हैं, और कायर उनके पीछे छिप सकता है।\n\nफिर पुरोहित ने उन लोगों के बारे में बात की जिन्हें राजकुमार ने पीछे छोड़ा था। उस स्त्री का सोचो, उसने कहा, जो बछड़ा खोई गाय की तरह शोक कर रही है, और अपने पति के जीवित होते हुए भी विधवा जैसी, जैसे अलग हुआ हंस अपने जोड़े से बिछड़ा हो। अपने पुत्र राहुल का सोचो, जो स्त्रियों के कक्षों में और पूरे नगर में तुम्हें ढूँढता भटकता है। उसे उसके स्वजनों के शोक से छुड़ाओ, उसने कहा, जैसे पूर्ण चंद्रमा राहु के स्पर्श से छूटता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुरोहिताने राजपुत्राला राजाने सांगितलेले सर्व सांगितले, जेव्हा तो आपल्या पुत्राच्या शोकाच्या बाणाने हृदयात घायाळ होऊन जमिनीवर मूर्च्छित पडला होता. मला ठाऊक आहे की तुझे ध्येय धर्म आहे, राजा म्हणाला होता, पण मी शोकाने जळत आहे. पृथ्वीचे सुख काही काळ भोग, आणि शास्त्रांनी सांगितलेल्या वेळी वनात जा. धर्म केवळ वनात शोधला जात नाही. गृहस्थही मुक्ती मिळवू शकतो, कारण वन आणि चीवर फक्त चिन्हे आहेत, आणि भित्रा माणूस त्यांच्या मागे लपू शकतो.\n\nमग पुरोहिताने ज्यांना राजपुत्राने मागे सोडले होते त्यांच्याबद्दल सांगितले. त्या स्त्रीचा विचार कर, तो म्हणाला, जी वासरू हरवलेल्या गाईसारखी शोक करत आहे, आणि पती जिवंत असूनही विधवेसारखी, जसा वेगळा झालेला हंस आपल्या जोडीदारापासून दूर पडतो. आपल्या पुत्र राहुलचा विचार कर, जो स्त्रियांच्या दालनात आणि सर्व नगरात तुला शोधत फिरतो. त्याला त्याच्या नातेवाइकांच्या दुःखातून सोडव, तो म्हणाला, जसा पूर्ण चंद्र राहूच्या स्पर्शातून सुटतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The prince answers",
+    "hi": {
+     "text": "राजकुमार उत्तर देता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राचे उत्तर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The prince thought for a moment, and then answered gently. I know the king's tenderness, he said, especially toward me. Even so, I am alarmed by sickness, old age and death, and I am forced to leave my kin. If parting from those we love did not exist, who would not want to see his own people? But since parting will come again, in the end, this is why I abandon my father, loving as he is.\n\nHe did not agree that he had caused the king's grief. He said that the king, in the midst of dream-like unions, was afflicted by thoughts of future partings. Neither a son nor kin is the cause of sorrow, he said, and sorrow comes only from ignorance. All beings are fixed for parting, like travellers who have joined company on a road. Why, he asked, should a wise man grieve for kin he loses, even though he loves them? And he asked why anyone should call his departure ill-timed, when death is present from the moment of birth.",
+    "hi": {
+     "text": "राजकुमार ने क्षण भर सोचा, फिर कोमलता से उत्तर दिया। मैं राजा की कोमलता को जानता हूँ, उसने कहा, विशेषकर मेरे प्रति। फिर भी मैं बुढ़ापे, रोग और मृत्यु से भयभीत हूँ, और मुझे अपने प्रियजनों को छोड़ना पड़ रहा है। यदि प्रियजनों से वियोग होता ही नहीं, तो कौन अपने लोगों को देखना नहीं चाहेगा? पर चूँकि अंततः वियोग आएगा, इसलिए मैं अपने पिता को छोड़ता हूँ, यद्यपि वे प्रेमी हैं।\n\nउसने यह स्वीकार नहीं किया कि उसने राजा का दुःख पैदा किया है। राजा, उसने कहा, क्षणभंगुर मिलनों के बीच, भविष्य के वियोगों की चिंता से पीड़ित है। न पुत्र और न ही संबंधी शोक का कारण हैं, उसने कहा, शोक केवल अज्ञान से आता है। सभी प्राणी वियोग के लिए नियत हैं, जैसे मार्ग पर साथ मिले यात्री। ज्ञानी व्यक्ति, उसने पूछा, उन संबंधियों के लिए क्यों शोक करे जिन्हें वह खोता है, यद्यपि वह उनसे प्रेम करता है? और उसने पूछा कि कोई उसके प्रस्थान को असमय क्यों कहे, जबकि मृत्यु जन्म के क्षण से साथ है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजपुत्राने क्षणभर विचार केला, मग सौम्यपणे उत्तर दिले. मला राजाची कोमलता माहीत आहे, तो म्हणाला, विशेषतः माझ्याबाबतीत. तरीही मी म्हातारपण, रोग आणि मृत्यूला घाबरतो, आणि मला माझ्या प्रियजनांना सोडावे लागत आहे. जर प्रियजनांपासून वियोग झालाच नसता, तर आपल्या लोकांना कोण पाहू इच्छिणार नाही? पण अखेरीस वियोग येणारच आहे, म्हणून मी माझ्या पित्याला सोडतो, जरी ते प्रेमळ आहेत.\n\nत्याने मान्य केले नाही की त्याने राजाचे दुःख निर्माण केले आहे. राजा, तो म्हणाला, क्षणभंगुर मिलनांदरम्यान, भविष्यातील वियोगांच्या चिंतेने पीडित आहे. पुत्र किंवा नातेवाईक शोकाचे कारण नाहीत, तो म्हणाला, शोक केवळ अज्ञानातून येतो. सर्व प्राणी वियोगासाठी नियत आहेत, जसे वाटेत एकत्र आलेले प्रवासी. ज्ञानी माणसाने, त्याने विचारले, ज्या नातेवाइकांना तो गमावतो त्यांच्यासाठी का शोक करावा, जरी तो त्यांच्यावर प्रेम करतो? आणि त्याने विचारले की कोणी त्याच्या प्रस्थानाला अकाली का म्हणावे, जेव्हा जन्माच्या क्षणापासूनच मृत्यू सोबत असतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The offer of the throne",
+    "hi": {
+     "text": "राजसिंहासन का प्रस्ताव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजसिंहासनाचा प्रस्ताव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The priest had said, take the kingdom first. The prince replied that a father who wished to give his son the kingdom had a noble thought, worthy of a father. But he said it would be as improper for him to accept it as for a sick man, through greed, to take unwholesome food. How could a wise man enter a kingdom, he asked, the home of illusion, where fear and worry are never absent?\n\nThen the minister spoke too, and gave examples of kings who left the forest for their homes and ruled again, so that returning from a hermitage to do one's duty is no sin. The prince said he could not take this from another's word. A person who cannot know the truth by hearsay, he said, must find it by his own effort. Mankind are like the blind guided in the dark by the blind. He asked how anyone could accept as authority those who had broken their vows.",
+    "hi": {
+     "text": "पुरोहित ने कहा था, पहले राज्य ले लो। राजकुमार ने उत्तर दिया कि पिता का अपने पुत्र को राज्य देने का विचार उदात्त है और पिता के योग्य है। पर उसने कहा कि उसके लिए उसे स्वीकार करना वैसा ही अनुचित होगा जैसे कोई रोगी लालच से अहितकर भोजन ले। एक ज्ञानी व्यक्ति, उसने पूछा, राज्य में कैसे प्रवेश करे, जो भ्रम का घर है, जहाँ भय और चिंता कभी अनुपस्थित नहीं रहते?\n\nफिर मंत्री ने भी बात की, और ऐसे राजाओं के उदाहरण दिए जो वन से लौटकर फिर से राज करने लगे थे, इसलिए आश्रम से अपने कर्तव्य के लिए लौटना कोई पाप नहीं। राजकुमार ने कहा कि वह किसी दूसरे के कहने पर इसे स्वीकार नहीं कर सकता। जो व्यक्ति सत्य को सुनकर नहीं जान सकता, उसने कहा, उसे अपने परिश्रम से उसे पाना होगा। मनुष्य अंधों से अंधों की तरह अंधेरे में चलाए जाने वाले लोगों जैसे हैं। उसने पूछा कि जिन्होंने अपने व्रत तोड़े हैं, उन्हें प्रमाण कैसे माना जाए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुरोहिताने म्हटले होते, आधी राज्य घे. राजपुत्राने उत्तर दिले की पित्याने पुत्राला राज्य देण्याचा विचार उदात्त आहे आणि वडिलांना शोभणारा आहे. पण तो म्हणाला की त्याच्यासाठी ते स्वीकारणे तितकेच अयोग्य असेल, जितके एखाद्या आजारी माणसाने लोभाने हानिकारक अन्न घेणे. ज्ञानी माणसाने, त्याने विचारले, भ्रमाच्या घरात, जिथे भय आणि चिंता कधीच अनुपस्थित नसतात, राज्यात कसा प्रवेश करावा?\n\nमग मंत्र्यानेही बोलले, आणि अशा राजांची उदाहरणे दिली जे वनातून परत येऊन पुन्हा राज्य करू लागले होते, त्यामुळे आश्रमातून आपल्या कर्तव्यासाठी परत येणे हे पाप नाही. राजपुत्राने सांगितले की तो दुसऱ्याच्या सांगण्यावरून हे स्वीकारू शकत नाही. जो माणूस सत्य ऐकून जाणू शकत नाही, तो म्हणाला, त्याने ते आपल्या स्वतःच्या परिश्रमाने मिळवले पाहिजे. माणसे आंधळ्यांनी आंधळ्यांना अंधारात चालवावे अशा लोकांसारखी आहेत. ज्यांनी आपली व्रते मोडली आहेत, त्यांना प्रमाण कसे मानावे, त्याने विचारले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "They turn back",
+    "hi": {
+     "text": "वे लौट जाते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते परत फिरतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then he spoke his final word, with a proud steadiness. The sun may fall to the earth, he said, and the Himalaya may lose its firmness, but never would he return to his home as a worldly man who did not know the truth. He would enter a blazing fire, he said, sooner than his house with his purpose unfulfilled. He stood and went on his way, calm and without bitterness.\n\nThe minister and the priest, in tears, followed him for a while with downcast faces and then, slowly, turned back toward the city. Out of love for the prince and loyalty to the king, they stopped again and again to look behind them, for they could neither see him on the road nor stop seeing him, shining in his own light like the sun. They left faithful men, in disguise, to find out what he did next. On the way they asked each other how they could face the king who longed for his son.",
+    "hi": {
+     "text": "फिर उसने अपना अंतिम वचन कहा, गर्वीली दृढ़ता के साथ। सूर्य पृथ्वी पर गिर सकता है, उसने कहा, और हिमालय अपनी दृढ़ता खो सकता है, पर वह कभी अपने घर एक सांसारिक व्यक्ति की तरह नहीं लौटेगा, जिसने सत्य नहीं जाना। वह अपने घर लौटने के बजाय जलती आग में प्रवेश करेगा, यदि उसका उद्देश्य अधूरा रहे। वह खड़ा हुआ और शांत, बिना कड़वाहट के, अपने मार्ग पर चल पड़ा।\n\nमंत्री और पुरोहित आँसुओं से भरे, झुके हुए मुखों के साथ कुछ दूर तक उसके पीछे चले, और फिर धीरे-धीरे नगर की ओर मुड़े। राजकुमार के प्रति प्रेम और राजा के प्रति निष्ठा के कारण, वे बार-बार मुड़कर देखते रहे, क्योंकि वे उसे मार्ग पर न देख सकते थे, न उसे देखना छोड़ सकते थे, अपने ही प्रकाश में सूर्य की तरह चमकता। उन्होंने विश्वस्त पुरुषों को वेश बदलकर पीछे भेजा, यह जानने के लिए कि वह आगे क्या करता है। रास्ते में वे एक-दूसरे से पूछते रहे कि वे उस राजा का सामना कैसे करेंगे जो अपने पुत्र के लिए तरस रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग त्याने आपले अंतिम वचन गर्विष्ठ दृढतेने सांगितले. सूर्य पृथ्वीवर पडू शकतो, तो म्हणाला, आणि हिमालय आपली दृढता गमावू शकतो, तरीही तो कधीही सत्य न जाणलेल्या सांसारिक माणसासारखा आपल्या घरी परत जाणार नाही. जर त्याचे ध्येय अपूर्ण राहिले, तर घरी परतण्याऐवजी तो पेटत्या अग्नीत प्रवेश करील. तो उभा राहिला आणि शांतपणे, कडवटपणाशिवाय, आपल्या मार्गाने निघाला.\n\nमंत्री आणि पुरोहित अश्रूंनी भरलेल्या, खाली झुकलेल्या चेहऱ्यांनी त्याच्यामागे काही अंतरापर्यंत गेले, आणि मग हळूहळू नगराकडे परतले. राजपुत्राच्या प्रेमामुळे आणि राजाच्या निष्ठेमुळे ते वारंवार मागे वळून पाहत राहिले, कारण ते त्याला मार्गावर पाहू शकत नव्हते, आणि पाहणे सोडूही शकत नव्हते, स्वतःच्याच प्रकाशात सूर्यासारखा चमकणारा. त्यांनी विश्वासू माणसांना वेश बदलून मागे पाठवले, तो पुढे काय करतो हे जाणण्यासाठी. वाटेत ते एकमेकांना विचारत राहिले की ते त्या राजाला कसे सामोरे जातील जो आपल्या पुत्रासाठी तळमळत होता.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "it would be as improper for me to accept it, as for a sick man through greed to accept unwholesome food",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita 9.39 (tr. Cowell, 1894)",
+   "hi": {
+    "text": "बुद्धचरित 9.39 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित 9.39 (अनुवाद: कॉवेल, 1894)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The prince declines the offer of his father's throne.",
+   "hi": {
+    "text": "राजकुमार राजसिंहासन का प्रस्ताव अस्वीकार करता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "राजकुमार राजसिंहासनाचा प्रस्ताव नाकारतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When people who love you offer you a safe way, how do you tell the difference between their care and your own calling?",
+  "hi": {
+   "text": "जब तुम्हें प्रेम करने वाले लोग तुम्हें सुरक्षित मार्ग देते हैं, तो तुम उनकी देखभाल और अपनी पुकार के बीच अंतर कैसे पहचानते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा तुला प्रेम करणारे लोक तुला सुरक्षित मार्ग देतात, तेव्हा त्यांची काळजी आणि तुझी हाक यातला फरक तू कसा ओळखतोस?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love and duty can pull in opposite directions, and honest answers are given gently, without bitterness toward those who ask.",
+  "hi": {
+   "text": "प्रेम और कर्तव्य विपरीत दिशाओं में खींच सकते हैं, और ईमानदार उत्तर विनम्रता से दिए जाते हैं, उन लोगों के प्रति कड़वाहट के बिना जो पूछते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रेम आणि कर्तव्य विरुद्ध दिशांना खेचू शकतात, आणि प्रामाणिक उत्तरे विनम्रतेने दिली जातात, विचारणाऱ्यांबद्दल कडवटपणा न ठेवता.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 9; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 9; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 9; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

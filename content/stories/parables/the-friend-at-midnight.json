@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-friend-at-midnight",
+ "order": 21,
+ "part": "luke",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Friend at Midnight",
+  "hi": {
+   "text": "आधी रात का मित्र",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मध्यरात्रीचा मित्र",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A man knocks at a neighbour's door in the dark for bread, and keeps knocking until it opens.",
+  "hi": {
+   "text": "एक व्यक्ति रात के अंधेरे में अपने पड़ोसी का दरवाज़ा रोटी माँगने के लिए खटखटाता है, और तब तक खटखटाता रहता है जब तक दरवाज़ा खुल न जाए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक माणूस अंधारात शेजार्याचे दार भाकरीसाठी ठोठावतो, आणि ते उघडेपर्यंत ठोठावत राहतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-midnight-hunt.webp",
+   "w": 743,
+   "h": 1100,
+   "caption": {
+    "en": "The Light of the World, after William Holman Hunt (lantern at a closed door)",
+    "hi": {
+     "text": "विश्व का प्रकाश, विलियम होलमन हंट के बाद (बंद द्वार पर लालटेन)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जगाचा प्रकाश, विल्यम होलमन हंट यांच्या नंतर (बंद दारावर कंदील)",
+     "reviewed": false
+    }
+   },
+   "credit": "After: William Holman Hunt (pastiche of) Published by: Gustav W Seitz, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Light_of_the_World_(BM_1870,1210.358).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Teach us to pray",
+    "hi": {
+     "text": "हमें प्रार्थना करना सिखाइए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आम्हाला प्रार्थना करायला शिकवा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the Gospel of Luke, Jesus has been praying alone in a certain place. When he finishes, one of his disciples comes and asks him, Lord, teach us to pray, just as John also taught his disciples. In response Jesus gives them the short prayer that begins with the words Our Father in heaven, asking for daily bread, for forgiveness and for protection from evil.\n\nHe then goes on at once to tell a story about prayer, one that seems at first to be about nothing more than an awkward night visit. It starts with a question, as many of his parables do. Which of you, he says, would have a friend and go to him at midnight? The listeners are invited to imagine themselves in the scene, standing in the dark outside a closed door.",
+    "hi": {
+     "text": "लूका के सुसमाचार में यीशु किसी एकांत स्थान पर प्रार्थना कर रहे हैं। जब वे प्रार्थना समाप्त करते हैं, तो उनके एक शिष्य आकर पूछते हैं, प्रभु, हमें प्रार्थना करना सिखा दीजिए, जैसे यूहन्ना ने भी अपने शिष्यों को सिखाया था। इसके उत्तर में यीशु उन्हें वह छोटी प्रार्थना देते हैं जो हमारे पिता जो स्वर्ग में हो, इन शब्दों से शुरू होती है, और जिसमें रोज़ की रोटी, क्षमा और बुराई से रक्षा माँगी जाती है।\n\nफिर वे तुरंत प्रार्थना के बारे में एक कहानी सुनाने लगते हैं, जो पहली नज़र में केवल एक असहज रात की भेंट जैसी लगती है। यह एक प्रश्न से शुरू होती है, जैसे उनके बहुत से दृष्टांत करते हैं। वे कहते हैं, तुम में से कौन है जिसका कोई मित्र हो और वह आधी रात को उसके पास जाए? सुनने वालों को यह कल्पना करने के लिए बुलाया जाता है कि वे उस दृश्य में खुद खड़े हैं, अँधेरे में बंद दरवाज़े के बाहर।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लूकाच्या शुभवर्तमानात यीशू एका एकांत जागी प्रार्थना करत आहेत. ते प्रार्थना संपवतात तेव्हा त्यांचा एक शिष्य येऊन विचारतो, प्रभू, जसे योहानाने आपल्या शिष्यांना प्रार्थना शिकवली, तसे आम्हालाही प्रार्थना शिकवा. यावर यीशू त्यांना ती छोटी प्रार्थना देतात जी हे आमच्या स्वर्गातील पित्या, या शब्दांनी सुरू होते, आणि ज्यात रोजची भाकर, क्षमा आणि वाईटापासून संरक्षण मागितले जाते.\n\nमग ते लगेच प्रार्थनेबद्दल एक गोष्ट सांगू लागतात, जी पहिल्या नजरेत केवळ एका अवघड रात्रीच्या भेटीबद्दल वाटते. ती एका प्रश्नाने सुरू होते, जसे त्यांचे अनेक दृष्टांत सुरू होतात. ते म्हणतात, तुमच्यापैकी कोणाचा मित्र असेल आणि तो मध्यरात्री त्याच्याकडे जाईल असे कोण आहे? श्रोत्यांना त्या दृश्यात स्वतःला कल्पून अंधारात बंद दारासमोर उभे असल्याचे चित्र रंगवण्यासाठी बोलावले जाते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Three loaves",
+    "hi": {
+     "text": "तीन रोटियाँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन भाकरी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A friend of yours has arrived from a journey in the middle of the night, Jesus says, and you have nothing to set before him. In the world of the Gospels, hospitality was a sacred duty, and to turn a traveller away hungry would have been a source of deep shame to the household and the whole village.\n\nSo you go to your neighbour's house and call out, Friend, lend me three loaves of bread. It is an uncomfortable request. It is midnight, and he has gone to bed. Bread in a village was baked fresh each day, so he may well have had some, but the hour is impossible and the request is a great imposition. Jesus asks his listeners to feel how awkward and urgent that moment would be. Nobody in the crowd would have found the request unreasonable, because the shame of an empty table outweighed the embarrassment of knocking so late.",
+    "hi": {
+     "text": "यीशु कहते हैं, तुम्हारा एक मित्र यात्रा से आधी रात को आया है, और तुम्हारे पास उसके आगे रखने को कुछ नहीं है। यीशु के समय के समाज में अतिथि-सत्कार एक पवित्र कर्तव्य था, और किसी भूखे यात्री को लौटा देना पूरे घर और गाँव के लिए गहरी लज्जा का विषय होता।\n\nतो तुम अपने पड़ोसी के घर जाते हो और पुकारते हो, मित्र, मुझे तीन रोटियाँ उधार दे। यह एक असहज माँग है। आधी रात हो चुकी है, और वह सोने जा चुका है। गाँव में रोटी हर दिन ताज़ी सेंकी जाती थी, इसलिए उसके पास कुछ हो सकता था, पर यह समय असंभव है और यह माँग बड़ा बोझ है। यीशु अपने श्रोताओं से कहते हैं कि वे उस क्षण की असहजता और तात्कालिकता को महसूस करें। भीड़ में से किसी को भी यह माँग अनुचित नहीं लगती, क्योंकि खाली मेज़ की लज्जा देर रात दरवाज़ा खटखटाने की झिझक से कहीं भारी थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू म्हणतात, तुमचा एक मित्र प्रवासातून मध्यरात्री आला आहे, आणि तुमच्याजवळ त्याच्यासमोर ठेवायला काहीच नाही. शुभवर्तमानांच्या काळात पाहुणचार हे पवित्र कर्तव्य होते, आणि एखाद्या भुकेल्या प्रवाशाला परत पाठवणे हे संपूर्ण घरासाठी आणि गावासाठी खोल लाजिरवाणे ठरले असते.\n\nतर तुम्ही आपल्या शेजार्याच्या घरी जाऊन हाक मारता, मित्रा, मला तीन भाकरी उसन्या दे. ही एक अवघड मागणी आहे. मध्यरात्र झाली आहे, आणि तो झोपी गेला आहे. गावात भाकर रोज ताजी भाजली जात असे, त्यामुळे त्याच्याकडे काही असू शकते, पण ती वेळ अशक्य आहे आणि ही मागणी मोठे ओझे आहे. यीशू आपल्या श्रोत्यांना त्या क्षणाची अवघडपणा आणि निकड जाणवायला सांगतात. जमावातील कोणालाही ती मागणी अवाजवी वाटली नसती, कारण रिकाम्या ताटाची लाज उशिरा ठोठावण्याच्या संकोचापेक्षा खूप मोठी होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The closed door",
+    "hi": {
+     "text": "बंद दरवाज़ा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बंद दार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The man inside answers, and it is not a warm answer. Do not bother me, he says. The door is now shut, and my children are with me in bed. I cannot get up and give it to you. In a one-room village home, the whole family slept together on mats on the floor, so getting up would mean moving everyone, and the door was barred for the night.\n\nIt is a very human refusal. He is not wicked, only tired and comfortable, and he does not want to be disturbed. Jesus does not make the neighbour a villain. The refusal is the natural reaction of a sleepy man at midnight, and that makes the surprise at the end of the story all the greater, because it shows what persistence can do. A request that seems simple becomes costly the moment it disturbs someone's rest, and the story does not hide that.",
+    "hi": {
+     "text": "भीतर का आदमी उत्तर देता है, और उत्तर गर्मजोशी भरा नहीं है। मुझे तंग मत करो, वह कहता है। दरवाज़ा अब बंद है, और मेरे बच्चे मेरे साथ बिस्तर में हैं। मैं उठकर तुझे कुछ नहीं दे सकता। एक कमरे वाले गाँव के घर में पूरा परिवार ज़मीन पर चटाइयों पर एक साथ सोता था, इसलिए उठना मतलब सबको हिलाना होता, और रात के लिए दरवाज़ा अंदर से बंद था।\n\nयह बहुत मानवीय इनकार है। वह दुष्ट नहीं है, बस थका हुआ और आरामदेह है, और वह परेशान होना नहीं चाहता। यीशु पड़ोसी को खलनायक नहीं बनाते। यह इनकार एक नींद में डूबे आदमी की स्वाभाविक प्रतिक्रिया है, और इसीलिए कहानी के अंत का आश्चर्य और बड़ा हो जाता है, क्योंकि वह दिखाता है कि लगातार बने रहने से क्या हो सकता है। एक सरल लगने वाली माँग उस क्षण महँगी हो जाती है जब वह किसी की नींद में खलल डालती है, और कहानी इस बात को छिपाती नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आतला माणूस उत्तर देतो, आणि ते उत्तर उबदार नाही. मला त्रास देऊ नकोस, तो म्हणतो. आता दार बंद आहे, आणि माझी मुले माझ्याबरोबर अंथरुणात आहेत. मी उठून तुला काही देऊ शकत नाही. एका खोलीच्या गावातील घरात सर्व कुटुंब जमिनीवर चटयांवर एकत्र झोपत असे, त्यामुळे उठणे म्हणजे सर्वांना हलवणे होते, आणि रात्रीसाठी दार आतून बंद होते.\n\nहा अगदी माणसासारखा नकार आहे. तो दुष्ट नाही, फक्त थकलेला आणि आरामात आहे, आणि त्याला त्रास नको आहे. यीशू शेजार्याला खलनायक बनवत नाहीत. हा नकार झोपाळलेल्या माणसाची मध्यरात्रीची स्वाभाविक प्रतिक्रिया आहे, आणि त्यामुळेच कथेच्या शेवटचे आश्चर्य अधिक मोठे ठरते, कारण ते दाखवते की चिकाटी काय करू शकते. एखादी साधी वाटणारी मागणी कोणाची झोप मोडते तेव्हा ती महाग ठरते, आणि कथा हे लपवत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Because of his persistence",
+    "hi": {
+     "text": "उसकी लगातारता के कारण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याच्या चिकाटीमुळे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus then gives the turn. I tell you, he says, although he will not get up and give it to him because he is his friend, yet because of his persistence he will rise and give him as many as he needs. The word used here can also mean shamelessness, a boldness that does not take no for an answer when someone else's need is at stake.\n\nJesus applies it at once to prayer. Keep asking, and it will be given you. Keep seeking and you will find. Keep knocking, and it will be opened. He adds that a father, even a flawed one, does not give his child a stone for bread, so how much more will the heavenly Father give good things to those who ask. The sleepy neighbour is a contrast, not a comparison.",
+    "hi": {
+     "text": "फिर यीशु मोड़ देते हैं। मैं तुमसे कहता हूँ, वे कहते हैं, यद्यपि वह अपने मित्र होने के कारण उठकर उसे नहीं देगा, फिर भी उसकी लगातार माँग के कारण वह उठेगा और जितनी उसे ज़रूरत है उतना देगा। यहाँ इस्तेमाल हुआ शब्द ढिठाई का भी अर्थ रखता है, ऐसा साहस जो दूसरे की ज़रूरत दाँव पर होने पर न को स्वीकार नहीं करता।\n\nयीशु इसे तुरंत प्रार्थना पर लागू करते हैं। माँगते रहो, तो तुम्हें दिया जाएगा। ढूँढ़ते रहो, तो तुम पाओगे। खटखटाते रहो, तो तुम्हारे लिए खोला जाएगा। वे जोड़ते हैं कि कोई पिता, चाहे वह कितना भी दोषपूर्ण हो, अपने बच्चे को रोटी के बदले पत्थर नहीं देता, तो स्वर्गीय पिता अपने माँगने वालों को अच्छी वस्तुएँ कितना अधिक देगा। सोया हुआ पड़ोसी एक तुलना नहीं, बल्कि एक विपरीत उदाहरण है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग यीशू वळण देतात. मी तुम्हांला सांगतो, ते म्हणतात, जरी तो मित्र असल्यामुळे उठून देणार नाही, तरी त्याच्या चिकाटीमुळे तो उठेल आणि त्याला जितके हवे तितके देईल. येथे वापरलेला शब्द निर्लज्जपणाचाही अर्थ देतो, असे धाडस जे दुसर्याची गरज पणाला लागलेली असताना नकार स्वीकारत नाही.\n\nयीशू हे लगेच प्रार्थनेवर लागू करतात. मागत राहा, म्हणजे तुम्हांला दिले जाईल. शोधत राहा, म्हणजे तुम्हांला सापडेल. ठोठावत राहा, म्हणजे तुमच्यासाठी उघडले जाईल. ते जोडतात की कोणताही पिता, कितीही सदोष असला तरी, आपल्या मुलाला भाकरीऐवजी दगड देत नाही, तर स्वर्गीय पिता आपल्या मागणार्यांना चांगल्या गोष्टी किती अधिक देईल. झोपाळलेला शेजारी ही तुलना नसून एक विरोधाभास आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Knocking in the dark",
+    "hi": {
+     "text": "अँधेरे में खटखटाना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अंधारात ठोठावणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have read this story as an encouragement to keep praying even when nothing seems to happen. God is not like the neighbour who must be worn down. Rather, the story argues from the lesser to the greater. If even a reluctant friend will eventually give, how much more will a generous God hear those who bring their real needs without shame.\n\nThe parable also honours something that many people of different traditions share, the practice of asking boldly and continuing. Most of us know the feeling of a door that does not open at the first knock. The story gently says that the persistence itself has value, and that to go on asking for what is truly needed, especially for others, is not rude but trusting. The story invites us to take our real needs to God and to others without apology, and to keep returning when the answer is slow.",
+    "hi": {
+     "text": "ईसाई लोगों ने इस कथा को उस समय भी प्रार्थना जारी रखने के प्रोत्साहन के रूप में पढ़ा है जब कुछ होता न दिखे। परमेश्वर उस पड़ोसी जैसा नहीं है जिसे थकाकर मनाना पड़े। कहानी छोटे से बड़े की ओर तर्क करती है। यदि एक अनिच्छुक मित्र भी आखिरकार दे देता है, तो एक उदार परमेश्वर उन लोगों की सुनेगा कितना अधिक, जो अपनी सच्ची ज़रूरतें बिना लज्जा के लाते हैं।\n\nदृष्टांत उस साहस का भी सम्मान करता है जिसे विभिन्न परंपराओं के बहुत से लोग साझा करते हैं: निडरता से माँगना और लगे रहना। हम में से ज़्यादातर लोग उस दरवाज़े का अनुभव जानते हैं जो पहली दस्तक पर नहीं खुलता। कहानी धीरे से कहती है कि लगे रहने का भी अपना मूल्य है, और जो सचमुच ज़रूरी है उसे माँगते रहना, खासकर दूसरों के लिए, अशिष्टता नहीं बल्कि भरोसा है। यह कहानी हमें अपनी सच्ची ज़रूरतें परमेश्वर और दूसरों के सामने बिना संकोच रखने और जब उत्तर धीमा हो तो फिर लौटने के लिए आमंत्रित करती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोकांनी या कथेला अशी प्रेरणा मानले आहे की काहीच घडत नसले तरी प्रार्थना चालू ठेवावी. देव तो शेजारी नाही ज्याला थकवून राजी करावे लागते. कथा लहानातून मोठ्याकडे तर्क करते. जर एक अनिच्छुक मित्रही शेवटी देतो, तर उदार देव आपल्या खर्या गरजा लाज न बाळगता आणणार्यांचे किती अधिक ऐकेल.\n\nहा दृष्टांत अशा एका गोष्टीचाही सन्मान करतो जी अनेक परंपरांच्या लोकांमध्ये समान आहे, धैर्याने मागणे आणि सातत्य ठेवणे. आपल्यापैकी बहुतेकांना पहिल्या ठोक्यावर न उघडणार्या दाराचा अनुभव असतो. कथा हळुवारपणे सांगते की चिकाटीला स्वतःचे मूल्य आहे, आणि जे खरोखर गरजेचे आहे ते, विशेषतः इतरांसाठी, मागत राहणे उद्धटपणा नसून विश्वास आहे. ही कथा आपल्याला आपल्या खर्या गरजा देवाकडे आणि इतरांकडे संकोच न बाळगता नेण्यासाठी आणि उत्तर मंद असताना पुन्हा परतण्यासाठी आमंत्रित करते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "I tell you, keep asking, and it will be given you. Keep seeking, and you will find. Keep knocking, and it will be opened to you.",
+  "lang": "en",
+  "cite": {
+   "en": "Luke 11:9 (World English Bible)",
+   "hi": {
+    "text": "लूका 11:9 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "लूका 11:9 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Jesus encourages his listeners to keep asking, seeking and knocking in prayer.",
+   "hi": {
+    "text": "यीशु अपने श्रोताओं को प्रार्थना में माँगते, ढूँढ़ते और खटखटाते रहने का प्रोत्साहन देते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "यीशू आपल्या श्रोत्यांना प्रार्थनेत मागत, शोधत आणि ठोठावत राहण्यासाठी प्रोत्साहन देतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What are you praying for, or hoping for, that you have stopped asking about? What would it be like to knock once more, without shame?",
+  "hi": {
+   "text": "तुम किस चीज़ के लिए प्रार्थना कर रहे हो, या किस चीज़ की आशा कर रहे हो, जिसके बारे में तुमने पूछना छोड़ दिया है? इस वर्ष बिना संकोच के एक बार फिर खटखटाना कैसा होगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही कोणासाठी प्रार्थना करत आहात, किंवा कोणत्या गोष्टीची आशा करत आहात, जिच्याबद्दल विचारणे तुम्ही थांबवले आहे? आणखी एकदा लाज न बाळगता ठोठावणे कसे वाटेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Keep asking and keep knocking, because bold and persistent prayer is a sign of trust and not of rudeness.",
+  "hi": {
+   "text": "माँगते रहो और खटखटाते रहो, क्योंकि साहसी और लगातार की गई प्रार्थना भरोसे का चिन्ह है, अशिष्टता का नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मागत राहा आणि ठोठावत राहा, कारण धाडसी आणि सातत्यपूर्ण प्रार्थना हे विश्वासाचे लक्षण आहे, उद्धटपणाचे नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Luke 11:1-13; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "लूका 11:1-13 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लूका 11:1-13 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

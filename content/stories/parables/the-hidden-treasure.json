@@ -1,0 +1,262 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-hidden-treasure",
+ "order": 6,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Hidden Treasure",
+  "hi": {
+   "text": "छिपा हुआ खज़ाना",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लपलेला खजिना",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A man stumbles on buried treasure in a field and gladly gives up everything to own it.",
+  "hi": {
+   "text": "एक व्यक्ति खेत में गड़ा हुआ खज़ाना अचानक पाता है और उसे पाने के लिए खुशी-खुशी सब कुछ दे देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक माणूस शेतात पुरलेला खजिना अचानक शोधतो आणि तो मिळवण्यासाठी आनंदाने सर्वस्व देतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-treasure-bowyer.webp",
+   "w": 516,
+   "h": 640,
+   "caption": {
+    "en": "The hidden treasure, engraving from the Bowyer Bible",
+    "hi": {
+     "text": "छिपा खज़ाना, बोवायर बाइबल का उत्कीर्णन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लपलेला खजिना, बोवायर बायबलमधील कोरीवकाम",
+     "reviewed": false
+    }
+   },
+   "credit": "Phidev74, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bowyer_Bible_print_3671_The_parable_of_the_hidden_treasure_Matthew_13_44_Caspar_Luyken.jpg"
+  },
+  {
+   "src": "/stories/parables/p-treasure-rembrandt.webp",
+   "w": 1200,
+   "h": 994,
+   "caption": {
+    "en": "The hidden treasure, painting attributed to Rembrandt",
+    "hi": {
+     "text": "छिपा खज़ाना, रेम्ब्रांट को आरोपित चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लपलेला खजिना, रेम्ब्रांटला श्रेय दिलेले चित्र",
+     "reviewed": false
+    }
+   },
+   "credit": "Yair-haklai, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Parable_of_the_Hidden_Treasure_by_Rembrandt.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "For those who were listening closely",
+    "hi": {
+     "text": "जो ध्यान से सुन रहे थे उनके लिए",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे लक्षपूर्वक ऐकत होते त्यांच्यासाठी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In Matthew's account, Jesus told the first parables of this chapter to the crowds at the lakeside, and then went into a house with his disciples to explain them. The next few short parables follow in that more private setting, among those who had stayed to ask what the stories meant. They are brief, almost like riddles, and each begins in the same way, saying that the Kingdom of Heaven is like something.\n\nThe Kingdom of Heaven was Jesus's name for the rule of God, which he taught was breaking into the world. It was hard to describe in plain terms, so he used pictures. This one is about a discovery, and it would have made sense to anyone who lived in a land where wars and invasions had often sent people hurrying to bury what they owned.",
+    "hi": {
+     "text": "मत्ती के वृत्तांत में यीशु इस अध्याय के पहले दृष्टांत झील किनारे की भीड़ को सुनाते हैं, और फिर उन्हें समझाने के लिए शिष्यों के साथ एक घर में चले जाते हैं। अगले कुछ छोटे दृष्टांत उसी अधिक निजी वातावरण में आते हैं, उन लोगों के बीच जो यह पूछने के लिए रुके थे कि कहानियों का अर्थ क्या है। वे संक्षिप्त हैं, लगभग पहेलियों जैसे, और हर एक इसी तरह आरंभ होता है, कि स्वर्ग का राज्य ऐसा है जैसे कोई वस्तु।\n\nस्वर्ग का राज्य यीशु का परमेश्वर के शासन के लिए नाम था, जिसे उन्होंने सिखाया कि दुनिया में प्रवेश कर रहा है। इसे सादे शब्दों में समझाना कठिन था, इसलिए उन्होंने चित्रों का प्रयोग किया। यह एक खोज के बारे में है, और यह उस देश में रहने वाले हर व्यक्ति को समझ आता जहाँ युद्ध और आक्रमण अक्सर लोगों को अपनी संपत्ति गाड़ने के लिए भागने पर मजबूर कर देते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्तीाच्या वृत्तांतात यीशू या अध्यायाचे पहिले दृष्टांत सरोवराकाठी जमलेल्या जमावाला सांगतात, आणि मग ते स्पष्ट करण्यासाठी शिष्यांसह एका घरात जातात. पुढील काही लहान दृष्टांत त्या अधिक खाजगी वातावरणात येतात, जे लोक कथांचा अर्थ विचारण्यासाठी थांबले होते त्यांच्यासाठी. ते संक्षिप्त आहेत, जवळजवळ कोड्यांसारखे, आणि प्रत्येक जण त्याच प्रकारे सुरू होतो, की स्वर्गाचे राज्य अशा एखाद्या गोष्टीसारखे आहे.\n\nस्वर्गाचे राज्य हा यीशूने देवाच्या सत्तेसाठी दिलेला शब्द होता, जी सत्ता जगात प्रवेश करत आहे असे त्यांनी शिकवले. साध्या शब्दांत तिचे वर्णन करणे कठीण होते, म्हणून त्यांनी चित्रांचा उपयोग केला. हा दृष्टांत एका शोधाबद्दल आहे, आणि ज्या देशात युद्धे आणि आक्रमणे अनेकदा लोकांना आपली संपत्ती पुरून ठेवायला पळवत असत, तिथे राहणार्या कोणाच्याही लगेच लक्षात येईल असा हा शोध होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A field and a find",
+    "hi": {
+     "text": "खेत और खोज",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेत आणि सापडलेला खजिना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A man is working in a field, perhaps ploughing it, perhaps simply passing through. His tool strikes something solid, or the earth gives way, and there is treasure hidden in the ground. In an age without banks, people often buried coins and valuables for safekeeping, and then died or fled without ever returning for them. The treasure may have been forgotten for generations.\n\nThe man does not own the field, and so the treasure is not his. He covers it up again and keeps his secret. The Gospel says he hid it, and the moment must have been tense, with his heart racing and his mind turning over what to do. He does not run to tell the neighbours, for he has already begun to think about how it might become his. His quick thinking shows how a person who has seen something precious begins at once to arrange everything else around it.",
+    "hi": {
+     "text": "एक व्यक्ति खेत में काम कर रहा है, शायद जुताई करता हुआ, या बस वहाँ से गुजर रहा है। उसका औज़ार किसी ठोस चीज़ से टकराता है, या मिट्टी ढह जाती है, और ज़मीन में खज़ाना छिपा है। बैंकों के बिना युग में लोग अक्सर सिक्के और कीमती वस्तुएँ सुरक्षा के लिए गाड़ देते थे, और फिर मर जाते या भाग जाते और कभी उन्हें लेने लौटते ही नहीं। खज़ाना पीढ़ियों तक भुलाया जा सकता था।\n\nवह आदमी खेत का मालिक नहीं है, इसलिए खज़ाना भी उसका नहीं है। वह उसे फिर से ढक देता है और अपना राज़ छिपा रखता है। शुभवर्तमान कहता है कि उसने उसे छिपाया, और वह क्षण तनावपूर्ण रहा होगा, उसका दिल धड़कता होगा और मन में यह चलता होगा कि क्या करे। वह पड़ोसियों को बताने नहीं दौड़ता, क्योंकि वह पहले ही सोचने लगा है कि यह कैसे उसका बन सकता है। उसकी तत्परता दिखाती है कि जिस व्यक्ति ने कोई अनमोल चीज़ देखी है, वह तुरंत बाकी सब कुछ उसके इर्द-गिर्द कैसे व्यवस्थित करने लगता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक माणूस शेतात काम करत आहे, कदाचित नांगरणी करत, किंवा फक्त तिथून जात आहे. त्याचे अवजार एखाद्या घट्ट वस्तूला धडकते, किंवा माती खचते, आणि जमिनीत लपलेला खजिना आहे. बँका नसलेल्या काळात लोक सुरक्षिततेसाठी नाणी आणि मौल्यवान वस्तू अनेकदा पुरून ठेवत आणि मग मरण पावत किंवा पळून जात, आणि परत कधीच त्या घ्यायला येत नसत. खजिना पिढ्यानपिढ्या विसरला गेला असू शकतो.\n\nत्या माणसाच्या मालकीचे शेत नाही, म्हणून खजिनाही त्याचा नाही. तो तो पुन्हा झाकून ठेवतो आणि आपले रहस्य जपतो. शुभवर्तमान म्हणते की त्याने तो लपवला, आणि तो क्षण तणावाचा असणार, त्याचे हृदय धडधडत असणार आणि काय करायचे याचा त्याच्या मनात विचार चालू असणार. तो शेजार्यांना सांगायला धावत नाही, कारण तो हा खजिना आपला कसा होईल याचा विचार आधीच करू लागला आहे. त्याची तत्परता दाखवते की ज्याने कोणतीतरी मौल्यवान गोष्ट पाहिली आहे, तो लगेच बाकी सर्व गोष्टी त्याभोवती कशा लावायच्या याचा विचार करू लागतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "In his joy",
+    "hi": {
+     "text": "अपने आनंद में",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आपल्या आनंदात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "What happens next is the heart of the story. In his joy, Matthew says, the man goes and sells all that he has and buys that field. The word joy is easy to pass over, but it changes how we hear the parable. He is not grimly sacrificing his possessions. He is delighted. Everything else he owns suddenly seems small beside what he has found.\n\nHe sells his house, his tools and perhaps his animals, and from the outside it might look like madness or foolish risk. But the man knows something that his neighbours do not. For a price he can afford to pay, he is about to gain something worth far more than all he gives up, and so the price does not feel like a loss at all. Joy, not duty, is the engine of the whole story, and everything else follows from it.",
+    "hi": {
+     "text": "इसके बाद जो होता है वही कहानी का हृदय है। अपने आनंद में, मत्ती कहते हैं, वह व्यक्ति जाकर अपना सब कुछ बेच देता है और वह खेत खरीद लेता है। आनंद शब्द को आसानी से छोड़ दिया जा सकता है, पर यह दृष्टांत को सुनने का ढंग बदल देता है। वह अपनी संपत्ति को बोझिल मन से त्याग नहीं रहा। वह प्रसन्न है। जो उसने पाया है उसके सामने उसकी बाकी सारी संपत्ति अचानक छोटी लगती है।\n\nवह अपना घर, अपने औज़ार और शायद अपने जानवर बेच देता है, और बाहर से यह पागलपन या मूर्खतापूर्ण जोखिम लग सकता है। पर वह आदमी कुछ ऐसा जानता है जो उसके पड़ोसी नहीं जानते। जो मूल्य वह चुका सकता है, उसके बदले में वह ऐसी चीज़ पाने वाला है जो उसके दिए गए सब कुछ से कहीं अधिक मूल्यवान है, इसलिए वह मूल्य नुकसान जैसा लगता ही नहीं। पूरी कहानी को चलाने वाला इंजन आनंद है, कर्तव्य नहीं, और बाकी सब उसी से आता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुढे जे घडते ते कथेचे हृदय आहे. आपल्या आनंदात, मत्ती म्हणतात, तो माणूस जाऊन आपले सर्वस्व विकतो आणि ते शेत विकत घेतो. आनंद हा शब्द सहज ओलांडला जाऊ शकतो, पण तो दृष्टांत कसा ऐकायचा ते बदलतो. तो आपली मालमत्ता जड मनाने त्यागत नाही. तो आनंदित आहे. त्याने जे शोधले आहे त्यापुढे त्याची बाकी सारी मालमत्ता अचानक लहान वाटते.\n\nतो आपले घर, अवजारे आणि कदाचित जनावरे विकतो, आणि बाहेरून हे वेडेपणा किंवा मूर्ख धोका वाटू शकते. पण त्या माणसाला असे काहीतरी माहीत आहे जे त्याच्या शेजार्यांना माहीत नाही. जी किंमत तो देऊ शकतो, त्याच्या बदल्यात तो असे काही मिळवणार आहे जे त्याने दिलेल्या सर्वांपेक्षा कितीतरी अधिक मौल्यवान आहे, म्हणून ती किंमत नुकसान वाटतच नाही. संपूर्ण कथा चालवणारा आनंद आहे, कर्तव्य नव्हे, आणि बाकी सर्व त्यातूनच येते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What Christians take from it",
+    "hi": {
+     "text": "ईसाई इससे क्या ग्रहण करते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोक यातून काय घेतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have understood the treasure to be the Kingdom of God itself, or the life of faith that Jesus offered, and the story to be about how it feels to discover it. People who come to what matters most to them often describe giving up other things easily, not out of duty but because those other things seem lighter than they did before.\n\nThe parable has also been read with some care about its details. It is a story of a person who has found something worth everything, and it makes no claim about how everyone must find it or when. It is not a command to sell your belongings. It is a picture of joyful, wholehearted commitment, and of the sudden clarity that can arrive when a person recognises what is truly precious.",
+    "hi": {
+     "text": "ईसाइयों ने इस खज़ाने को स्वयं परमेश्वर का राज्य, या यीशु द्वारा दिया गया विश्वास का जीवन माना है, और कहानी को इस बारे में माना है कि उसे खोजने पर कैसा लगता है। जो लोग उस चीज़ तक पहुँचते हैं जो उनके लिए सबसे महत्वपूर्ण है, वे अक्सर बताते हैं कि दूसरी चीज़ें वे आसानी से छोड़ देते हैं, कर्तव्य के कारण नहीं, बल्कि इसलिए कि वे चीज़ें पहले की तुलना में हल्की लगने लगती हैं।\n\nदृष्टांत को उसके विवरणों पर कुछ सावधानी से भी पढ़ा गया है। यह उस व्यक्ति की कहानी है जिसने कुछ ऐसा पाया है जो सब कुछ के बराबर है, और यह दावा नहीं करता कि हर किसी को उसे कैसे या कब पाना होगा। यह अपनी संपत्ति बेचने का आदेश नहीं है। यह आनंदपूर्ण, पूर्ण समर्पण का चित्र है, और उस अचानक स्पष्टता का चित्र है जो तब आती है जब व्यक्ति पहचान लेता है कि सच में अनमोल क्या है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोकांनी हा खजिना स्वतः देवाचे राज्य, किंवा यीशूने दिलेले विश्वासाचे जीवन असे समजले आहे, आणि कथा तो शोधल्यावर कसे वाटते याबद्दल आहे असे मानले आहे. ज्या लोकांना त्यांना सर्वात महत्त्वाचे वाटणारे काही सापडते, ते अनेकदा सांगतात की ते इतर गोष्टी सहज सोडून देतात, कर्तव्य म्हणून नव्हे, तर त्या गोष्टी पूर्वीपेक्षा हलक्या वाटू लागतात म्हणून.\n\nया दृष्टांताचे तपशीलही काळजीपूर्वक वाचले गेले आहेत. हे एका अशा व्यक्तीची कथा आहे जिने सर्वस्वाच्या मोलाचे काहीतरी शोधले आहे, आणि ते प्रत्येकाने कसे किंवा कधी शोधावे यावर ते कोणताही दावा करत नाही. स्वतःचे सामान विकण्याची ही आज्ञा नाही. हे आनंदी, पूर्ण मनाच्या समर्पणाचे चित्र आहे, आणि जेव्हा माणूस खरोखर मौल्यवान काय आहे ते ओळखतो तेव्हा येणार्या अचानक स्पष्टतेचे चित्र आहे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Joy as the measure",
+    "hi": {
+     "text": "आनंद ही माप है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आनंद हे मोजमाप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Readers of any faith, or none, may recognise this moment from their own lives. There are times when someone realises what they truly love, whether a calling, a person, a practice or a way of living, and the cost of pursuing it no longer weighs on them as a sacrifice. The question stops being what they must give up, and becomes how soon they can begin.\n\nThe parable asks us gently what our own treasure might be, and whether we have yet found it. It also suggests how to tell the difference between duty and love. Where there is real discovery, the giving up comes with gladness, and the person who has found it would hardly dream of calling it a loss, because the field is worth so much more. Joy, not obligation, is the measure the story offers, and each reader may quietly ask what would bring such joy to them.",
+    "hi": {
+     "text": "किसी भी धर्म के, या किसी धर्म के न होने वाले पाठक भी अपने जीवन से इस क्षण को पहचान सकते हैं। ऐसे समय आते हैं जब कोई समझ जाता है कि उसे वास्तव में किससे प्रेम है, चाहे वह बुलावा हो, कोई व्यक्ति हो, कोई साधना हो या जीने का कोई तरीका, और उसे पाने की कीमत अब बलिदान की तरह उसे भारी नहीं लगती। प्रश्न यह नहीं रह जाता कि उसे क्या छोड़ना है, बल्कि यह बन जाता है कि वह कितनी जल्दी शुरू कर सकता है।\n\nदृष्टांत हमसे कोमलता से पूछता है कि हमारा अपना खज़ाना क्या हो सकता है, और क्या हमने उसे अभी तक पाया है। यह यह भी सुझाता है कि कर्तव्य और प्रेम में अंतर कैसे पहचाना जाए। जहाँ सच्ची खोज होती है, वहाँ त्याग आनंद के साथ आता है, और जिसने उसे पाया है वह उसे नुकसान कहने का सपना भी नहीं देखेगा, क्योंकि खेत की कीमत कहीं अधिक है। आनंद, दायित्व नहीं, वह माप है जो कहानी देती है, और हर पाठक शांति से पूछ सकता है कि उसे ऐसा आनंद क्या देगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कोणत्याही धर्माचे, किंवा कोणताही धर्म नसलेले वाचकही आपल्या जीवनातील हा क्षण ओळखू शकतात. असे काही क्षण येतात जेव्हा एखाद्याला कळते की त्याचे खरे प्रेम कशावर आहे, मग ते एखादे बोलावणे असो, व्यक्ती असो, साधना असो किंवा जगण्याचा मार्ग, आणि त्याचा पाठपुरावा करण्याची किंमत आता त्याला त्याग म्हणून जड वाटत नाही. प्रश्न असा राहत नाही की काय सोडायचे, तर असा होतो की किती लवकर सुरुवात करता येईल.\n\nदृष्टांत आपल्याला हळुवारपणे विचारतो की आपला स्वतःचा खजिना कोणता असू शकतो, आणि आपण तो अजून शोधला आहे का. तो हेही सुचवतो की कर्तव्य आणि प्रेम यातील फरक कसा ओळखायचा. जिथे खरी शोधाची अनुभूती असते, तिथे त्याग आनंदाने येतो, आणि ज्याने ते शोधले आहे तो त्याला नुकसान म्हणण्याचे स्वप्नही पाहणार नाही, कारण शेत त्याहून खूप मोलाचे आहे. आनंद, बंधन नव्हे, हे मोजमाप कथा देते, आणि प्रत्येक वाचक शांतपणे विचारू शकतो की त्याला असा आनंद काय देईल.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "In his joy, he goes and sells all that he has and buys that field.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 13:44 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 13:44 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 13:44 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "When someone truly finds what matters most, giving up the rest feels like gladness, not loss.",
+   "hi": {
+    "text": "जब कोई सचमुच वह पा लेता है जो सबसे महत्वपूर्ण है, तो बाकी सब छोड़ देना नुकसान नहीं, आनंद जैसा लगता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "जेव्हा एखाद्याला खरोखर जे महत्त्वाचे आहे ते सापडते, तेव्हा बाकीचे सोडून देणे नुकसान नव्हे तर आनंद वाटतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What is the thing you value so much that you would give up other things for it with joy? Are you giving it the place in your life that it deserves?",
+  "hi": {
+   "text": "वह कौन सी चीज़ है जिसे तुम इतना मूल्य देते हो कि उसके लिए तुम खुशी-खुशी दूसरी चीज़ें छोड़ दोगे? क्या तुम उसे अपने जीवन में वह स्थान दे रहे हो जिसकी वह हकदार है?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अशी कोणती गोष्ट आहे जिला तुम्ही इतके मोल देता की तिच्यासाठी तुम्ही आनंदाने इतर गोष्टी सोडाल? तुम्ही तिला तुमच्या आयुष्यात तिचे योग्य स्थान देत आहात का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "What is truly precious is worth everything, and the one who finds it gives up the rest with joy, not with regret.",
+  "hi": {
+   "text": "जो सचमुच अनमोल है वह सब कुछ के बराबर है, और जो उसे पाता है वह बाकी सब खुशी से छोड़ देता है, पछतावे से नहीं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जे खरोखर मौल्यवान आहे ते सर्वस्वाच्या मोलाचे आहे, आणि ते शोधणारा बाकी सर्व आनंदाने सोडतो, पश्चात्तापाने नव्हे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 13:44; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 13:44 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 13:44 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

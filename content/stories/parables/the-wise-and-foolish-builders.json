@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-wise-and-foolish-builders",
+ "order": 1,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Wise and Foolish Builders",
+  "hi": {
+   "text": "बुद्धिमान और मूर्ख निर्माता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शहाणे आणि मूर्ख बांधकाम करणारे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Two houses stand in the same storm. Only one was built on something that holds.",
+  "hi": {
+   "text": "दो घर एक ही तूफ़ान में खड़े हैं। केवल एक ऐसी नींव पर बना था जो टिकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दोन घरे एकाच वादळात उभी असतात. फक्त एक घर अशा पायावर बांधलेले असते जे टिकते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-rock-geograph.webp",
+   "w": 640,
+   "h": 480,
+   "caption": {
+    "en": "A stone set firmly in open ground (Geograph photograph)",
+    "hi": {
+     "text": "खुली ज़मीन पर मज़बूती से खड़ा एक पत्थर (ज्योग्राफ़ फ़ोटो)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मोकळ्या माळरानावर घट्ट उभा असलेला एक दगड (जिओग्राफ छायाचित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Ian Paterson, CC BY-SA 2.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Between_a_Rock_and_a_Hard_Place_-_geograph.org.uk_-_820963.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The end of a long sermon",
+    "hi": {
+     "text": "एक लंबे उपदेश का अंत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका लांब उपदेशाचा शेवट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Gospel of Matthew places this short story at the close of the Sermon on the Mount, the long teaching Jesus gave on a hillside in Galilee. Jesus of Nazareth, whom Christians honour as the Son of God and Muslims honour as the prophet Isa, had been speaking to his disciples and to a crowd of ordinary people about prayer, anger, money, mercy and how to live a whole life well.\n\nNow he gathers all of it into a single picture that anyone could follow. Farmers, fishermen and craftsmen knew about building, about weather and about what happens when work is done carelessly. He does not ask the crowd to admire his words or to agree with them politely. He asks what they will do with them, and he uses an ordinary house to make that question plain and hard to forget.",
+    "hi": {
+     "text": "मत्ती का सुसमाचार इस छोटी कहानी को पर्वत-उपदेश के अंत में रखता है, वह लंबी शिक्षा जो यीशु ने गलील की एक पहाड़ी पर दी थी। नासरत के यीशु, जिन्हें ईसाई परमेश्वर का पुत्र मानते हैं और मुसलमान ईसा नबी के रूप में आदर देते हैं, अपने शिष्यों और साधारण लोगों की भीड़ से प्रार्थना, क्रोध, धन, दया और पूरा जीवन ठीक से कैसे जीएँ, इन विषयों पर बोल रहे थे।\n\nअब वे यह सब एक ऐसे चित्र में समेटते हैं जिसे कोई भी आसानी से समझ सके। किसान, मछुआरे और कारीगर निर्माण, मौसम और लापरवाही से किए गए काम के परिणाम के बारे में जानते थे। वे भीड़ से उनके शब्दों की प्रशंसा करने या शिष्टता से सहमत होने को नहीं कहते। वे पूछते हैं कि वे उन शब्दों का क्या करेंगे, और इस प्रश्न को स्पष्ट और भूलने में कठिन बनाने के लिए वे एक साधारण घर का उपयोग करते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्तीच्या शुभवर्तमानात ही छोटी गोष्ट डोंगरावरील उपदेशाच्या शेवटी ठेवली आहे, गालीलमधील एका डोंगरावर यीशूने दिलेली ती लांब शिकवण. नासरेथचा यीशू, ज्याला ख्रिस्ती देवाचा पुत्र मानतात आणि मुसलमान ईसा संदेष्टा म्हणून आदर देतात, तो आपल्या शिष्यांशी आणि साध्या लोकांच्या जमावाशी प्रार्थना, राग, पैसा, दया आणि संपूर्ण जीवन चांगल्या रीतीने कसे जगावे याबद्दल बोलत होता.\n\nआता ते हे सर्व एका अशा चित्रात एकत्र आणतात जे कोणीही सहज समजू शकेल. शेतकरी, मच्छिमार आणि कारागीर बांधकाम, हवामान आणि निष्काळजीपणाने केलेल्या कामाचे परिणाम जाणत होते. ते जमावाला त्यांच्या शब्दांची प्रशंसा करायला किंवा सभ्यपणे सहमती द्यायला सांगत नाहीत. ते विचारतात की ते या शब्दांचे काय करतील, आणि हा प्रश्न स्पष्ट आणि विसरता न येणारा करण्यासाठी ते एका साध्या घराचा उपयोग करतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The man who dug down",
+    "hi": {
+     "text": "जिसने गहरी खुदाई की",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्याने खोल खोदले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The first builder in the story is called wise. He looks over the land, chooses his place and builds his house on the rock. Anyone who has lived near a seasonal river bed in that part of the world knows the temptation to build on soft ground, because it is easier to dig and quicker to finish, and the family can move in sooner.\n\nThe wise man takes the harder way. He works down to something solid before he raises a single wall. Nothing about his house looks special from the road, and a passer-by would not praise it above its neighbours. Its strength is under the floor, in the part nobody admires and nobody sees, and it was laid down in good weather, long before any storm was in sight to prove the point.",
+    "hi": {
+     "text": "कहानी का पहला निर्माता बुद्धिमान कहलाता है। वह ज़मीन देखता है, अपनी जगह चुनता है और अपना घर चट्टान पर बनाता है। उस इलाके में मौसमी नदी के किनारे रहने वाला हर व्यक्ति उस प्रलोभन को जानता है कि नरम ज़मीन पर बनाया जाए, क्योंकि खोदना आसान है और काम जल्दी पूरा होता है, और परिवार जल्दी रहने जा सकता है।\n\nबुद्धिमान मनुष्य कठिन मार्ग चुनता है। वह एक भी दीवार उठाने से पहले ठोस ज़मीन तक खुदाई करता है। उसके घर में सड़क से देखने पर कुछ खास नहीं लगता, और कोई राहगीर उसे पड़ोसियों के घरों से अधिक नहीं सराहेगा। उसकी मज़बूती फर्श के नीचे है, उस हिस्से में जिसे कोई सराहता नहीं और कोई देखता नहीं, और वह अच्छे मौसम में डाली गई थी, किसी तूफ़ान के आने और सिद्ध होने से बहुत पहले।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथेतील पहिल्या बांधकाम करणार्याला शहाणा म्हटले आहे. तो जमीन पाहतो, आपली जागा निवडतो आणि आपले घर खडकावर बांधतो. त्या प्रदेशात मोसमी नदीपात्राजवळ राहणार्या प्रत्येकाला मऊ जमिनीवर बांधण्याचा मोह माहीत आहे, कारण खोदणे सोपे असते आणि काम लवकर पूर्ण होते, आणि कुटुंब लवकर राहायला जाऊ शकते.\n\nशहाणा माणूस कठीण मार्ग निवडतो. तो एकही भिंत उभी करण्यापूर्वी घट्ट जमिनीपर्यंत खोदतो. त्याच्या घराकडे रस्त्यावरून पाहिल्यास काही विशेष वाटत नाही, आणि कोणताही वाटसरू त्याची शेजार्यांच्या घरांपेक्षा अधिक प्रशंसा करणार नाही. त्याची ताकद जमिनीखाली आहे, अशा भागात जे कोणी कौतुक करत नाही आणि कोणी पाहत नाही, आणि ती चांगल्या हवामानात घातली गेली होती, वादळ दिसण्याआधीच बराच काळ आधी.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The man who built on sand",
+    "hi": {
+     "text": "जिसने रेत पर बनाया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्याने वाळूवर बांधले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The second builder is called foolish, and Jesus is careful about the reason. His house may be just as handsome as the first one. He has heard the same words and has had the same chance to build well. The difference is that he builds on the sand, because the sand is easy to work, the day is bright and the rain seems a long way off.\n\nHe is not wicked in the story, and he is not lazy about the building itself. He simply never stops to ask what his house is standing on. The tale invites each listener to recognise that quiet habit in themselves, the habit of working hard on what shows to the world while leaving the ground beneath it unexamined, because the ground does not seem urgent today. Many of us build our days this way, without ever deciding to, and the parable asks us to look down.",
+    "hi": {
+     "text": "दूसरा निर्माता मूर्ख कहलाता है, और यीशु उस कारण के बारे में सावधान हैं। उसका घर भी पहले जितना ही सुंदर हो सकता है। उसने भी वही शब्द सुने हैं और अच्छा बनाने का वही अवसर पाया है। अंतर यह है कि वह रेत पर बनाता है, क्योंकि रेत पर काम करना आसान है, दिन उजला है और बारिश बहुत दूर लगती है।\n\nकहानी में वह दुष्ट नहीं है, और निर्माण के काम में आलसी भी नहीं। बस वह कभी रुककर यह नहीं पूछता कि उसका घर किस पर खड़ा है। कहानी हर सुनने वाले को अपने भीतर वही शांत आदत पहचानने के लिए आमंत्रित करती है, कि दुनिया को दिखने वाली चीज़ों पर कड़ी मेहनत करना और उसके नीचे की ज़मीन को बिना जाँचे छोड़ देना, क्योंकि आज ज़मीन जरूरी नहीं लगती। हममें से बहुत से लोग अपने दिन इसी तरह बनाते हैं, बिना कभी यह तय किए, और दृष्टांत हमें नीचे देखने को कहता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुसरा बांधकाम करणारा मूर्ख म्हटला जातो, आणि यीशू त्यामागच्या कारणाबद्दल काळजीपूर्वक बोलतात. त्याचे घरही पहिल्याइतकेच देखणे असू शकते. त्यानेही तेच शब्द ऐकले आहेत आणि चांगले बांधण्याची तीच संधी मिळवली आहे. फरक इतकाच की तो वाळूवर बांधतो, कारण वाळूवर काम करणे सोपे आहे, दिवस उजळ आहे आणि पाऊस दूर वाटतो.\n\nकथेत तो दुष्ट नाही, आणि बांधकामाच्या कामात आळशीही नाही. तो फक्त कधीच थांबून विचारत नाही की त्याचे घर कशावर उभे आहे. कथा प्रत्येक श्रोत्याला स्वतःमधील ती शांत सवय ओळखायला आमंत्रित करते, की जगाला दिसणार्या गोष्टींवर कठोर मेहनत करायची आणि त्याखालील जमिनीची तपासणी न करायची, कारण आज ती जमीन तातडीची वाटत नाही. आपल्यातील अनेक जण आपले दिवस असेच बांधतात, असे कधीच ठरवल्याशिवाय, आणि दृष्टांत आपल्याला खाली पाहायला सांगतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The same storm",
+    "hi": {
+     "text": "एक ही तूफ़ान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एकच वादळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then the weather arrives, and it is the same weather for both men. The rain comes down, the floods rise and the wind beats against each house with equal force. Jesus does not suggest that the wise man is spared any trouble at all. Storms fall on the careful and the careless alike, and the story says so plainly, without any promise that a good life will be an easy one.\n\nThe only difference is the outcome. One house stands, because it was founded on rock. The other falls, and its fall, the Gospel says, was great. The picture is spare and a little stern, but it is the sort of sternness a good builder shows when he tells a neighbour something unwelcome in time to save him a heavy loss, and means it kindly.",
+    "hi": {
+     "text": "फिर मौसम आता है, और दोनों मनुष्यों के लिए यह एक ही मौसम है। बारिश गिरती है, बाढ़ आती है, और हवा दोनों घरों पर बराबर ज़ोर से टकराती है। यीशु यह सुझाव नहीं देते कि बुद्धिमान मनुष्य को कोई परेशानी छूती ही नहीं। तूफ़ान सावधान और लापरवाह दोनों पर गिरते हैं, और कहानी इसे साफ़ कहती है, बिना इस वादे के कि अच्छा जीवन आसान होगा।\n\nअंतर केवल परिणाम में है। एक घर खड़ा रहता है, क्योंकि उसकी नींव चट्टान पर थी। दूसरा गिर जाता है, और उसका गिरना, सुसमाचार कहता है, बड़ा था। चित्र संक्षिप्त और कुछ कठोर है, पर यह वैसी ही कठोरता है जैसी एक अच्छा निर्माता तब दिखाता है जब वह किसी पड़ोसी को कोई अप्रिय बात समय रहते बताता है ताकि उसे भारी नुकसान से बचाया जा सके, और उसे दयालुता से कहता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग हवामान येते, आणि दोन्ही माणसांसाठी ते एकच हवामान असते. पाऊस कोसळतो, पूर येतो, आणि वारा दोन्ही घरांवर समान जोराने आदळतो. यीशू सुचवत नाहीत की शहाण्या माणसाला कोणताही त्रास होत नाही. वादळे सावध आणि निष्काळजी दोघांवर पडतात, आणि कथा हे स्पष्टपणे सांगते, चांगले जीवन सोपे असेल असा कोणताही वादा न करता.\n\nफरक फक्त परिणामात आहे. एक घर उभे राहते, कारण त्याचा पाया खडकावर होता. दुसरे कोसळते, आणि त्याचे कोसळणे, शुभवर्तमान सांगते, मोठे होते. चित्र संक्षिप्त आणि थोडे कठोर आहे, पण ही तशीच कठोरता आहे जी एक चांगला कारागीर तेव्हा दाखवतो जेव्हा तो एखाद्या शेजार्याला अप्रिय गोष्ट वेळेत सांगतो, जेणेकरून त्याचे मोठे नुकसान टळेल, आणि ते दयाळूपणाने सांगतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What the rock is",
+    "hi": {
+     "text": "चट्टान क्या है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खडक म्हणजे काय",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Christians have understood the rock to be the teaching of Jesus when it is put into practice. Hearing is not enough in this story. The words must become habits, choices and ways of treating other people, or they remain only sand with a pleasant surface. The wise builder is simply the one who listens and then goes and does it.\n\nMany readers of other faiths will find something familiar here, since most traditions teach that sincere practice outlasts fine speeches. The parable is also a quiet comfort. A person does not need to be clever, rich or powerful to build well. They need to keep doing the small, steady, unseen things that make a life able to bear a hard season when it comes, as it comes to everyone. Rock, in this telling, is simply whatever we have already chosen to trust and live by.",
+    "hi": {
+     "text": "ईसाइयों ने चट्टान को यीशु की शिक्षा के रूप में समझा है, जब उसे व्यवहार में लाया जाता है। इस कहानी में सुनना पर्याप्त नहीं है। शब्द आदतें, निर्णय और दूसरों से व्यवहार के तरीके बनने चाहिए, नहीं तो वे केवल सुहावनी सतह वाली रेत बने रहते हैं। बुद्धिमान निर्माता वही है जो सुनता है, फिर जाकर उसे करता है।\n\nअन्य धर्मों के कई पाठकों को यहाँ कुछ परिचित लगेगा, क्योंकि अधिकांश परंपराएँ सिखाती हैं कि सच्चा अभ्यास सुंदर भाषणों से अधिक टिकता है। यह दृष्टांत एक शांत सांत्वना भी है। व्यक्ति को अच्छा निर्माण करने के लिए चतुर, धनी या शक्तिशाली होने की ज़रूरत नहीं। उसे छोटे, स्थिर, अदृश्य कामों को करते रहने की ज़रूरत है, जो जीवन को कठिन मौसम सहने योग्य बनाते हैं, जैसा वह हर किसी के जीवन में आता है। इस व्याख्या में चट्टान बस वह है जिसे हमने भरोसे और जीने के लिए पहले ही चुन लिया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ख्रिस्ती लोकांनी खडकाला यीशूची शिकवण म्हणून समजले आहे, जेव्हा ती प्रत्यक्षात उतरवली जाते. या कथेत केवळ ऐकणे पुरेसे नाही. शब्द सवयी, निर्णय आणि इतरांशी वागण्याच्या पद्धती बनले पाहिजेत, नाहीतर ते केवळ आकर्षक पृष्ठभागाची वाळू राहतात. शहाणा बांधकाम करणारा तोच आहे जो ऐकतो आणि मग जाऊन ते करतो.\n\nइतर धर्मांच्या अनेक वाचकांना येथे काहीतरी परिचित वाटेल, कारण बहुतेक परंपरा शिकवतात की खरे आचरण सुंदर भाषणांपेक्षा अधिक टिकते. हा दृष्टांत एक शांत सांत्वनही आहे. चांगले बांधण्यासाठी व्यक्तीला हुशार, श्रीमंत किंवा सत्ताधारी असण्याची गरज नाही. तिला लहान, स्थिर, अदृश्य कामे करत राहण्याची गरज आहे, जी जीवनाला कठीण ऋतू सहन करण्यायोग्य बनवतात, जसा तो प्रत्येकाच्या जीवनात येतो. या अर्थाने खडक हा फक्त तो आहे जो आपण आधीच भरवसा आणि जगण्यासाठी निवडलेला आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "The rain came down, the floods came, and the winds blew and beat on that house; and it didn’t fall, for it was founded on the rock.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 7:25 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 7:25 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 7:25 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "A life built on practised teaching, not only on hearing it, can stand through hard times.",
+   "hi": {
+    "text": "अभ्यास में लाए गए शिक्षण पर बना जीवन, केवल सुनने पर नहीं, कठिन समय में टिक सकता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "अभ्यासात आणलेल्या शिकवणीवर बांधलेले जीवन, केवळ ऐकण्यावर नव्हे, कठीण काळातही टिकू शकते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Think of one thing you already know is good for you or others that you have not yet put into practice. What small, ordinary step could you take today to turn it into foundation?",
+  "hi": {
+   "text": "एक ऐसी बात सोचो जिसे तुम जानते हो कि तुम्हारे या दूसरों के लिए अच्छी है, पर जिसे तुमने अब तक अभ्यास में नहीं लाया। नींव बनाने के लिए आज कौन सा छोटा, साधारण कदम उठा सकते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एखादी अशी गोष्ट विचार जी तुम्हाला माहीत आहे की तुमच्यासाठी किंवा इतरांसाठी चांगली आहे, पण जी तुम्ही अजून अभ्यासात आणली नाही. पाया बनवण्यासाठी आज कोणते छोटे, साधे पाऊल उचलू शकता?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Words about goodness are not enough; what holds a life together in a storm is the goodness we actually practise, built quietly and early.",
+  "hi": {
+   "text": "भलाई के बारे में शब्द पर्याप्त नहीं हैं; तूफ़ान में जो जीवन को टिकाए रखता है वह वही भलाई है जिसका हम वास्तव में अभ्यास करते हैं, जो चुपचाप और जल्दी बनाई जाती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "चांगुलपणाबद्दलचे शब्द पुरेसे नाहीत; वादळात जीवन एकत्र धरून ठेवते ते आपण प्रत्यक्षात आचरणात आणलेले चांगुलपणच असते, जे शांतपणे आणि लवकर बांधले जाते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 7:24-27; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 7:24-27 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 7:24-27 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

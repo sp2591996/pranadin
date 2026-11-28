@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "bimbisara-becomes-a-disciple",
+ "order": 16,
+ "part": "ministry",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Bimbisara Becomes a Disciple",
+  "hi": {
+   "text": "बिंबिसार शिष्य बनते हैं",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "बिंबिसार शिष्य होतो",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A rich young man leaves his sleeping house, a fire-priest meets a serpent in his shrine, and a king keeps an old promise to listen.",
+  "hi": {
+   "text": "एक धनी युवक अपने सोते हुए घर को छोड़ता है, एक अग्निपूजक अपने मंदिर में एक नाग से मिलता है, और एक राजा सुनने का पुराना वचन निभाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक श्रीमंत तरुण झोपलेल्या घरातून निघून जातो, एक अग्निपूजक आपल्या मंदिरात एका नागाला भेटतो, आणि एक राजा ऐकण्याचे जुने वचन पाळतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-bimdisc.webp",
+   "w": 768,
+   "h": 512,
+   "caption": {
+    "en": "Painted panels from Ajanta Cave 1",
+    "hi": {
+     "text": "अजंता गुफ़ा 1 के चित्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अजिंठा लेणी क्रमांक १ मधील चित्रे",
+     "reviewed": false
+    }
+   },
+   "credit": "Gill, Robert, born 1804 - died 1875, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cave_1_painting,_Ajanta,_Maharashtra.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The young man who woke at night",
+    "hi": {
+     "text": "रात में जागा युवक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रात्री जागा झालेला तरुण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After the five ascetics had taken up the law one by one, the poem tells of a young nobleman named Yasas, from a town in the same region. He woke suddenly in the night and looked at the people who attended him, men and women lying asleep in disorder, their clothes in disarray. His heart filled with loathing. He thought of the root of sorrow and how madly men are sunk in it. He dressed, put on his jewels and left his home.\n\nOn the road he stood and cried aloud, Alas, what an endless chain of sorrows. The Tathagata was walking out that night and heard him. Welcome, he answered. Here is a place of rest, the best and most refreshing, Nirvana, quiet and unmoved and free from sorrow. The young man felt joy rise where disgust had been, as one feels on first stepping into a cold clear lake. He came forward still wearing his ornaments, and by the strength of good done in earlier lives he quickly reached the state of an arhat.",
+    "hi": {
+     "text": "पाँच साधुओं के धर्म ग्रहण कर लेने के बाद काव्य आसपास के क्षेत्र के एक नगर के युवा कुलीन यश की कथा सुनाता है। वह रात में अचानक जागा और अपने सेवकों को देखा, स्त्री-पुरुष अस्त-व्यस्त वस्त्रों में बेसुध सो रहे थे। उसका मन घृणा से भर गया। उसने दुःख के मूल और मनुष्य उसमें कितना उलझा है, इस पर विचार किया। वह वस्त्र पहनकर, आभूषण धारण करके अपना घर छोड़ गया।\n\nमार्ग पर खड़े होकर उसने ऊँची आवाज़ में कहा, हाय, दुःखों की यह कैसी अंतहीन श्रृंखला है। उस रात तथागत वहीं से गुजर रहे थे और उन्होंने यह सुना। उत्तर में वे बोले, स्वागत है। यहाँ विश्राम का स्थान है, सबसे उत्तम और शीतल, निर्वाण, जो शांत, अचल और दुःख से मुक्त है। युवक के मन में जहाँ घृणा थी वहाँ आनंद उठा, जैसे कोई पहली बार ठंडी और निर्मल झील में उतरता है। वह अपने आभूषण पहने हुए ही आगे बढ़ा, और पूर्व जन्मों के पुण्य के बल से वह शीघ्र ही अर्हत अवस्था को पहुँच गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाच तपस्वींनी एकेक करून धर्म स्वीकारल्यानंतर काव्यात यश नावाच्या एका तरुण सरदाराची गोष्ट येते, जो त्याच प्रदेशातील एका नगरातून होता. तो रात्री अचानक जागा झाला आणि त्याला दिसले की त्याची सेवा करणारे स्त्री-पुरुष अस्ताव्यस्त कपड्यांत गाढ झोपलेले आहेत. त्याचे मन तिरस्काराने भरून गेले. त्याने दुःखाच्या मूळाचा आणि माणूस त्यात किती वेड्यासारखा बुडालेला आहे याचा विचार केला. तो कपडे घालून, दागिने चढवून घर सोडून गेला.\n\nवाटेत उभा राहून त्याने मोठ्याने म्हटले, अरेरे, दुःखांची ही किती अंतहीन साखळी आहे. त्या रात्री तथागत त्या वाटेने चालले होते आणि त्यांनी ते ऐकले. ते उत्तरले, स्वागत आहे. इथे विश्रांतीचे स्थान आहे, सर्वात उत्तम आणि शीतल, निर्वाण, जे शांत, अचल आणि दुःखरहित आहे. जिथे तिरस्कार होता तिथे तरुणाच्या मनात आनंद उसळला, जसा थंड आणि निर्मळ सरोवरात पहिल्यांदा पाऊल टाकताना वाटते. तो अजूनही आपले दागिने घातलेला पुढे आला, आणि पूर्वजन्मांतील पुण्याच्या बळावर लवकरच तो अर्हत अवस्थेला पोहोचला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The ornaments and the robe",
+    "hi": {
+     "text": "आभूषण और चीवर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दागिने आणि चीवर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Yasas looked down at his rich clothes and felt ashamed. The Tathagata knew his thought and answered in verse. A man may wear jewels, he said, and still have conquered his senses and look on all living things with an equal mind. The outward form does not decide religion. Another may wear the ascetic's dress and be sunk in worldly thoughts, or live in a lonely wood and still crave worldly show. The layman and the hermit are the same when both have put away the thought of self.\n\nThe poem adds a plain picture. A man wears the decorations of war because he has triumphed over an enemy, and so he who wears the hermit's coloured robe does so for having vanquished sorrow as his foe. Then he invited Yasas to join the order, and the young man's clothes changed on the spot into a hermit's dress. Fifty-four of his old friends, seeing him a hermit, followed him one by one, until with the first disciples there were sixty arhats. He sent them out to teach, each alone, with compassion.",
+    "hi": {
+     "text": "यश ने अपने महँगे वस्त्रों को देखा और लज्जित हुआ। तथागत ने उसका विचार जान लिया और श्लोक में उत्तर दिया। मनुष्य आभूषण पहनकर भी अपनी इंद्रियों को जीत सकता है और सभी प्राणियों को समान दृष्टि से देख सकता है। बाहरी रूप से धर्म का निर्णय नहीं होता। कोई तपस्वी का वस्त्र पहनकर भी सांसारिक विचारों में डूबा रह सकता है, और कोई एकांत वन में रहकर भी सांसारिक ठाठ की इच्छा रख सकता है। गृहस्थ और वनवासी दोनों समान हैं, जब दोनों ने अहंकार का विचार त्याग दिया हो।\n\nकाव्य एक सादा चित्र देता है। जैसे योद्धा शत्रु पर विजय पाने के बाद युद्ध के चिह्न धारण करता है, वैसे ही जो तपस्वी का गेरुआ वस्त्र पहनता है, वह दुःख पर विजय पाकर उसे अपना प्रतीक मानता है। फिर उसने यश को संघ में सम्मिलित होने का निमंत्रण दिया, और उसी क्षण युवक के वस्त्र तपस्वी के वस्त्रों में बदल गए। उसके चौवन पुराने मित्रों ने उसे संन्यासी देखकर एक-एक करके उसका अनुसरण किया, और पहले शिष्यों के साथ अर्हतों की संख्या साठ हो गई। उसने उन्हें करुणा से एक-एक करके शिक्षा देने भेजा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यशाने आपल्या भरजरी कपड्यांकडे पाहिले आणि त्याला लाज वाटली. तथागतांनी त्याचा विचार ओळखला आणि श्लोकात उत्तर दिले. माणूस दागिने घालूनही आपल्या इंद्रियांवर विजय मिळवू शकतो आणि सर्व सजीवांकडे समान दृष्टीने पाहू शकतो. बाह्य रूपावरून धर्माचा निर्णय होत नाही. कोणी तपस्व्याचे वस्त्र घालूनही सांसारिक विचारांत बुडलेला असू शकतो, आणि कोणी एकांत अरण्यात राहूनही सांसारिक वैभवाची इच्छा बाळगू शकतो. गृहस्थ आणि वनवासी दोघेही सारखेच असतात, जेव्हा दोघांनी अहंकाराचा विचार सोडलेला असतो.\n\nकाव्य एक साधे चित्र देते. योद्धा शत्रूवर विजय मिळवल्यामुळे युद्धाची वस्त्रे धारण करतो, तसेच जो भगव्या वस्त्राने परिधान करतो, त्याने दुःखावर विजय मिळवलेला असतो. मग त्याने यशाला संघात सामील होण्याचे निमंत्रण दिले, आणि त्याच क्षणी तरुणाचे वस्त्र तपस्व्याच्या वेशात बदलले. त्याचे चौपन्न जुने मित्र त्याला संन्याशाच्या रूपात पाहून एकेक करून त्याच्या मागे गेले, आणि पहिल्या शिष्यांसह अर्हतांची संख्या साठ झाली. त्याने करुणेने त्यांना एकेकटे पाठवून शिकवण्यासाठी पाठवले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The fire grotto",
+    "hi": {
+     "text": "अग्नि-गुफा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अग्निगुहा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He himself went alone to the mountain near Gaya, where the hermit Kashyapa of Uruvilva was revered across the country. The sage kept a fire grotto where he made his sacrifices, and in it dwelt an evil serpent. When the Buddha asked for a place to spend the night, Kashyapa said he had none to offer except the grotto, which was cool and fit for the purpose but home to a dragon that poisons men. Permit me only, said the Buddha, and I will lodge there tonight.\n\nHe went in and sat down in deep reflection. The serpent saw him and breathed out burning poison until the whole place was in flames, but the fire consumed itself without touching him, and he sat on, composed, like Brahma in the fire at the end of an age. The serpent saw his face glowing with peace, ceased his blast, bowed his head and worshipped. In the night Kashyapa saw the glow and sighed, Alas, this man too is burnt by the serpent. At dawn he found the serpent placed in the Buddha's bowl.",
+    "hi": {
+     "text": "वे स्वयं अकेले गया के पास पर्वत पर गए, जहाँ उरुवेल्व का तपस्वी कश्यप सारे देश में पूजनीय था। उस ऋषि के पास एक अग्निशाला थी जहाँ वह यज्ञ करते थे, और उसमें एक दुष्ट नाग रहता था। जब बुद्ध ने रात बिताने के लिए स्थान माँगा, तो कश्यप ने कहा कि गुफा के सिवा उनके पास कुछ नहीं है, जो शीतल और उपयुक्त तो है, पर वहाँ एक नाग रहता है जो मनुष्यों को विष देता है। बुद्ध ने कहा, बस मुझे अनुमति दो, मैं आज रात वहीं ठहरूँगा।\n\nवे अंदर गए और गहन चिंतन में बैठ गए। नाग ने उन्हें देखा और विष की भयानक फुफकार छोड़ी जिससे पूरी जगह में आग लग गई, पर आग स्वयं को जलाकर बुझ गई और उन्हें छू भी न सकी। वे शांत होकर बैठे रहे, जैसे युग के अंत की अग्नि में ब्रह्मा बैठे हों। नाग ने उनके चेहरे पर शांति का तेज देखा, फुफकार रोकी, सिर झुकाया और उनकी पूजा की। रात में कश्यप ने वह प्रकाश देखा और आह भरकर कहा, हाय, यह व्यक्ति भी नाग से जल गया। सवेरे उसने वह नाग बुद्ध के भिक्षापात्र में पड़ा पाया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते स्वतः एकटे गयेजवळच्या डोंगराकडे गेले, जिथे उरुवेल्वचा तपस्वी कश्यप सर्व देशात पूज्य होता. त्या ऋषीकडे यज्ञासाठी एक अग्निगुहा होती, आणि त्यात एक दुष्ट नाग राहत होता. बुद्धांनी रात्र घालवण्यासाठी जागा मागितली, तेव्हा कश्यप म्हणाला की गुहेशिवाय माझ्याकडे देण्यासारखे काही नाही; ती थंड आणि योग्य आहे, पण तिथे एक नाग राहतो जो माणसांना विष देतो. बुद्ध म्हणाले, फक्त मला परवानगी द्या, मी आज रात्री तिथेच राहीन.\n\nते आत गेले आणि गाढ चिंतनात बसले. नागाने त्यांना पाहिले आणि भयंकर विषारी फुत्कार सोडला, ज्यामुळे सारी जागा आगीत बुडाली, पण आग स्वतःलाच जाळून विझली आणि त्यांना स्पर्शही करू शकली नाही. ते शांतपणे बसून राहिले, जसे युगाच्या शेवटच्या अग्नीत ब्रह्मदेव बसलेले असतात. नागाने त्यांच्या चेहऱ्यावर शांतीचे तेज पाहिले, फुत्कार थांबवला, मस्तक झुकवले आणि त्यांची पूजा केली. रात्री कश्यपाला तो प्रकाश दिसला आणि तो उसासा टाकून म्हणाला, अरेरे, हा माणूसही नागाने जळून गेला. सकाळी त्याला तो नाग बुद्धांच्या भिक्षापात्रात ठेवलेला दिसला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Kashyapa lets go of fire",
+    "hi": {
+     "text": "कश्यप अग्नि को छोड़ते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कश्यपाने अग्नी सोडला",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Kashyapa saw the power and still thought, this Gautama is deeply versed, but he says he is a master of religion. The Buddha showed him wonders and gently changed his thinking until he admitted that his own wisdom could not compare. Kashyapa and five hundred followers received the teaching. The sage threw his sacrificial vessels into the river, where they floated off, and his two brothers, who lived downstream, saw them and came up the river, each with five hundred followers, to look for him. Seeing him dressed as a hermit, they too submitted.\n\nThe Buddha then taught the thousand a discourse on fire. Lust, anger and delusion are the fire, he said, and it burns all living things and goes on giving rise to birth and death. When a person conceives a distaste for it, desire fades, and where desire is extinguished there is rescue. A thousand monks heard him, and their minds found complete deliverance. The sermon is remembered as the one on burning, and it speaks to ascetics who had worshipped fire all their lives.",
+    "hi": {
+     "text": "कश्यप ने उस शक्ति को देखा, फिर भी सोचा कि यह गौतम बहुत ज्ञानी है, पर वह कहता है कि वह धर्म का गुरु है। बुद्ध ने उन्हें चमत्कार दिखाए और धीरे-धीरे उनकी सोच बदली, जब तक कश्यप ने मान नहीं लिया कि उनका अपना ज्ञान उसकी तुलना में कुछ नहीं। कश्यप और उनके पाँच सौ अनुयायियों ने शिक्षा ग्रहण की। ऋषि ने अपने यज्ञ-पात्र नदी में फेंक दिए, जो बहकर दूर चले गए, और उनके दो भाई, जो नीचे की ओर रहते थे, उन्हें देखकर नदी के ऊपर की ओर आए, हर एक के साथ पाँच सौ अनुयायी, उन्हें खोजने के लिए। उन्हें तपस्वी वेश में देखकर वे भी नतमस्तक हो गए।\n\nफिर बुद्ध ने उन एक हजार को अग्नि पर प्रवचन दिया। उन्होंने कहा, वासना, क्रोध और मोह ही अग्नि है, जो सभी प्राणियों को जलाती है और जन्म तथा मृत्यु को जन्म देती रहती है। जब मनुष्य उससे विरक्ति का अनुभव करता है, तो इच्छा क्षीण होती है, और जहाँ इच्छा बुझ जाती है वहाँ मुक्ति है। एक हजार भिक्षुओं ने यह सुना, और उनके मन को पूर्ण मुक्ति मिली। यह प्रवचन अग्नि-प्रवचन के नाम से याद किया जाता है, और वह उन तपस्वियों से बात करता है जिन्होंने जीवनभर अग्नि की पूजा की थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कश्यपाने त्यांची शक्ती पाहिली, तरीही त्याला वाटले, हा गौतम खूप ज्ञानी आहे, पण तो म्हणतो की तो धर्माचा गुरू आहे. बुद्धांनी त्याला चमत्कार दाखवले आणि त्याचा विचार हळूहळू बदलला, इतका की कश्यपाने मान्य केले की त्याचे स्वतःचे ज्ञान त्यांच्यापुढे काहीच नाही. कश्यप आणि त्याचे पाचशे अनुयायी शिक्षण घेऊ लागले. त्या ऋषीने आपली यज्ञपात्रे नदीत फेकली, ती वाहून गेली, आणि नदीच्या खालच्या बाजूला राहणारे त्याचे दोन भाऊ ती पाहून, प्रत्येकी पाचशे अनुयायांसह नदीच्या वरच्या बाजूस त्याला शोधत आले. त्याला तपस्वी वेशात पाहून तेही नतमस्तक झाले.\n\nमग बुद्धांनी त्या एक हजार जणांना अग्नीवर प्रवचन दिले. ते म्हणाले, वासना, क्रोध आणि मोह हीच अग्नी आहे, जी सर्व सजीवांना जाळते आणि जन्म व मृत्यू निर्माण करत राहते. जेव्हा माणूस तिच्याबद्दल विरक्ती बाळगतो, तेव्हा इच्छा क्षीण होते, आणि जिथे इच्छा विझते तिथे उद्धार असतो. एक हजार भिक्षूंनी ते ऐकले आणि त्यांच्या मनाला पूर्ण मुक्ती मिळाली. हे प्रवचन अग्नि-प्रवचन म्हणून स्मरणात राहिले, आणि ते आयुष्यभर अग्नीची पूजा केलेल्या तपस्व्यांशी बोलते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The king keeps his promise",
+    "hi": {
+     "text": "राजा अपना वचन निभाता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा आपले वचन पाळतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then the Buddha went with his followers to Rajagriha, remembering what he had promised the king of Magadha. He stayed in the staff grove, and King Bimbisara came with his courtiers, took off his ornaments, left his chariot, and bowed at the Buddha's feet. The king thought, he must have great power, if these Kashyapas are his disciples. The Buddha asked Kashyapa what he had gained from tending the sacred fire, and Kashyapa answered before the whole assembly. It only kept me in the wheel of birth and death, he said, and my desires grew, so I gave it up and went in search of rest.\n\nAt the Buddha's word Kashyapa rose into the air, walking, sitting, lying down, with fire and water streaming from his body without burning or wetting it. The crowd called out, Buddha is our teacher. Then the Buddha taught the king that there is no fixed self to cling to, and that the shoot springs from the seed, not one and not different. Bimbisara was filled with joy, and a hundred thousand spirits shook off their stain.",
+    "hi": {
+     "text": "फिर बुद्ध अपने अनुयायियों के साथ राजगृह आए, मगध के राजा से किया वचन स्मरण करते हुए। वे यष्टिवन में ठहरे, और राजा बिंबिसार अपने दरबारियों के साथ आया, उसने अपने आभूषण उतारे, रथ छोड़ा, और बुद्ध के चरणों में प्रणाम किया। राजा ने सोचा, यदि ये कश्यप इनके शिष्य हैं, तो इनमें बड़ी शक्ति होगी। बुद्ध ने कश्यप से पूछा कि पवित्र अग्नि की सेवा से उन्हें क्या मिला, और कश्यप ने पूरी सभा के सामने उत्तर दिया। इसने मुझे केवल जन्म और मृत्यु के चक्र में बाँधे रखा, उन्होंने कहा, मेरी इच्छाएँ बढ़ती गईं, इसलिए मैंने उसे त्याग दिया और विश्राम की खोज में निकल पड़ा।\n\nबुद्ध के आदेश पर कश्यप आकाश में उठे, चलते हुए, बैठते हुए, लेटते हुए, उनके शरीर से अग्नि और जल बहते रहे, पर न वे जले न भीगे। भीड़ ने पुकारा, बुद्ध हमारे गुरु हैं। तब बुद्ध ने राजा को सिखाया कि ऐसा कोई स्थायी आत्मा नहीं है जिससे चिपका जाए, और अंकुर बीज से निकलता है, न वह एक है न भिन्न। बिंबिसार आनंद से भर गया, और एक लाख आत्माओं ने अपने दोष त्याग दिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग बुद्ध आपल्या अनुयायांसह राजगृहात आले, मगधच्या राजाला दिलेले वचन आठवत. ते यष्टिवनात थांबले, आणि राजा बिंबिसार आपल्या दरबारींसह आला, त्याने दागिने उतरवले, रथ सोडला आणि बुद्धांच्या चरणी नमस्कार केला. राजाने विचार केला, जर हे कश्यप यांचे शिष्य असतील, तर यांच्यात मोठी शक्ती असली पाहिजे. बुद्धांनी कश्यपाला विचारले की पवित्र अग्नीची सेवा करून त्याला काय मिळाले, आणि कश्यपाने संपूर्ण सभेसमोर उत्तर दिले. त्याने मला फक्त जन्म आणि मृत्यूच्या चक्रात बांधून ठेवले, तो म्हणाला, माझ्या इच्छा वाढत गेल्या, म्हणून मी ते सोडले आणि विश्रांतीच्या शोधात निघालो.\n\nबुद्धांच्या आदेशाने कश्यप आकाशात उठला, चालत, बसत, झोपत, आणि त्याच्या शरीरातून अग्नी व पाणी वाहत होते, पण ते न त्याला जाळत होते न भिजवत होते. गर्दी ओरडली, बुद्ध आमचे गुरू आहेत. मग बुद्धांनी राजाला शिकवले की कोणताही स्थायी आत्मा नाही ज्याला चिकटून राहता येईल, आणि अंकुर बीजातून येतो, ना तो एक आहे ना भिन्न. बिंबिसार आनंदाने भरून गेला, आणि एक लाख आत्म्यांनी आपले डाग झटकून टाकले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "so he who wears the hermit's colour'd robe, does so for having vanquished sorrow as his foe",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita, canto 16 (tr. Beal, 1883)",
+   "hi": {
+    "text": "बुद्धचरित, सर्ग 16 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित, सर्ग 16 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The Buddha tells a young man ashamed of his jewels what the robe is really for.",
+   "hi": {
+    "text": "बुद्ध उस युवक को बताते हैं जो अपने आभूषणों से लज्जित है कि वह चीवर वास्तव में किसलिए है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्ध त्या तरुणाला सांगतात, जो आपल्या दागिन्यांमुळे लज्जित आहे, की ते चीवर खरे कशासाठी आहे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What do you wear or carry to show what you are, and what would remain if it were taken away?",
+  "hi": {
+   "text": "तुम ऐसा क्या पहनते या साथ रखते हो जो दिखाता है कि तुम कौन हो, और यदि वह छीन लिया जाए तो तुम्हारे पास क्या बचेगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तू असे काय घालतोस किंवा बाळगतोस जे दाखवते की तू कोण आहेस, आणि ते काढून घेतले तर काय उरेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A robe or a title means little by itself; the worth of a path is in what the heart has actually given up.",
+  "hi": {
+   "text": "वस्त्र या उपाधि अपने आप में कम अर्थ रखती है; मार्ग का मूल्य इसमें है कि हृदय ने वास्तव में क्या त्यागा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वस्त्र किंवा पदवी स्वतःमध्ये फारसा अर्थ ठेवत नाही; मार्गाचे मूल्य हृदयाने खरोखर काय सोडले आहे यात असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 16; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 16; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 16; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

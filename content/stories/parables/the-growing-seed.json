@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-growing-seed",
+ "order": 18,
+ "part": "mark",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Growing Seed",
+  "hi": {
+   "text": "बढ़ता हुआ बीज",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वाढणारे बी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A man scatters seed and goes about his life, and the earth does its work on its own.",
+  "hi": {
+   "text": "एक व्यक्ति बीज बोकर अपने काम में लग जाता है, और धरती अपना काम स्वयं करती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक माणूस बी पेरून आपल्या कामाला लागतो, आणि जमीन आपले काम स्वतः करते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-harvest-vangogh.webp",
+   "w": 900,
+   "h": 738,
+   "caption": {
+    "en": "Wheat harvest in Provence, Vincent van Gogh",
+    "hi": {
+     "text": "प्रोवांस में गेहूँ की कटाई, विंसेंट वैन गॉग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रोव्हांसमधील गव्हाची कापणी, व्हिन्सेंट व्हॅन गॉग",
+     "reviewed": false
+    }
+   },
+   "credit": "Vincent van Gogh, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Corn_Harvest_in_Provence_-_Google_Art_Project.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A parable only Mark tells",
+    "hi": {
+     "text": "केवल मरकुस का दृष्टांत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "फक्त मरकुसने सांगितलेला दृष्टांत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Gospel of Mark, the shortest of the four, includes this small story that does not appear in Matthew or Luke. It comes in the fourth chapter, in the same stretch of teaching as the parable of the sower, when Jesus was speaking by the Sea of Galilee to a large crowd gathered on the shore. Mark says he taught them many things in parables, as the crowd was able to hear.\n\nJesus of Nazareth, whom Christians honour as the Son of God and Muslims honour as the prophet Isa, used the world his listeners knew. This story needs no explanation to anyone who has ever planted anything. It is about the simple, wonderful fact that seeds grow, and about how little the farmer actually does in the long weeks between the sowing and the reaping.",
+    "hi": {
+     "text": "मरकुस का सुसमाचार चारों में सबसे छोटा है, और इसमें यह छोटी कहानी है जो मत्ती या लूका में नहीं मिलती। यह चौथे अध्याय में, बोने वाले के दृष्टांत के ठीक बाद वाले उपदेश के क्रम में आती है, जब यीशु गलील झील के किनारे तट पर जमा एक बड़ी भीड़ से बोल रहे थे। मरकुस कहते हैं कि उन्होंने भीड़ की समझ के अनुसार उन्हें दृष्टांतों में बहुत सी बातें सिखाईं।\n\nनासरत के यीशु, जिन्हें ईसाई परमेश्वर का पुत्र मानते हैं और मुसलमान ईसा नबी के रूप में आदर देते हैं, अपने श्रोताओं की जानी-पहचानी दुनिया से बात करते थे। इस कहानी को किसी भी ऐसे व्यक्ति को समझाने की ज़रूरत नहीं जिसने कभी कुछ बोया हो। यह इस सरल और अद्भुत तथ्य के बारे में है कि बीज उगते हैं, और इस बारे में कि बोने और काटने के बीच के लंबे हफ्तों में किसान वास्तव में कितना कम करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "चार शुभवर्तमानांत सर्वात लहान असलेल्या मरकुसच्या शुभवर्तमानात ही छोटी कथा आहे, जी मत्ती किंवा लूकामध्ये दिसत नाही. ती चौथ्या अध्यायात, पेरणार्याच्या दृष्टांताच्या त्याच शिकवणीच्या भागात येते, जेव्हा यीशू गालीली समुद्राजवळ किनार्यावर जमलेल्या मोठ्या जमावाशी बोलत होते. मरकुस म्हणतात की जमावाला ऐकता येईल त्या प्रमाणात त्यांनी दृष्टांतांच्या रूपाने अनेक गोष्टी शिकवल्या.\n\nनासरेथचा यीशू, ज्याला ख्रिस्ती देवाचा पुत्र म्हणून मान देतात आणि मुसलमान ईसा संदेष्टा म्हणून मान देतात, त्याने आपल्या श्रोत्यांच्या परिचित जगाचा उपयोग केला. ही कथा ज्याने कधी काही पेरले आहे त्याला स्पष्ट करण्याची गरज नाही. ती या साध्या आणि अद्भुत वास्तवाबद्दल आहे की बी उगवतात, आणि पेरणी आणि कापणी यांच्यामधल्या लांब आठवड्यांत शेतकरी प्रत्यक्षात किती कमी करतो याबद्दल आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The man who sleeps and rises",
+    "hi": {
+     "text": "वह आदमी जो सोता और जागता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "झोपणारा आणि उठणारा माणूस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "God's Kingdom, Jesus says, is as if a man should cast seed on the earth. He scatters it, and that is the end of his dramatic part in the story. Then he sleeps at night and rises by day, living an ordinary rhythm of days and nights, and meanwhile the seed sprouts and grows. He does not know how.\n\nThis phrase is at the centre of the parable. The farmer is not idle. Elsewhere in the Gospels, work in the field is honoured. But there is a point at which the growing is out of his hands. He cannot make a seed unfold, and he cannot pull a stalk up faster by tugging at it. What he can do is to have sown it, and to trust the soil that he sowed it in.",
+    "hi": {
+     "text": "यीशु कहते हैं, परमेश्वर का राज्य ऐसा है जैसे कोई मनुष्य भूमि पर बीज डाले। वह उसे बिखेर देता है, और कहानी में उसका नाटकीय हिस्सा यहीं खत्म हो जाता है। फिर वह रात को सोता है और दिन को जागता है, दिन और रात की एक साधारण लय में जीता है, और इस बीच बीज अंकुरित होकर बढ़ता है। वह नहीं जानता कि यह कैसे होता है।\n\nयह वाक्य दृष्टांत के केंद्र में है। किसान निठल्ला नहीं है। सुसमाचारों में अन्यत्र खेत के काम का सम्मान किया गया है। पर एक बिंदु ऐसा आता है जहाँ बढ़ना उसके हाथ में नहीं रहता। वह बीज को खुलने के लिए मजबूर नहीं कर सकता, और न ही डंठल को खींचकर तेज़ी से ऊपर उठा सकता है। वह केवल इतना कर सकता है कि बो दे, और उस मिट्टी पर भरोसा करे जिसमें उसने बोया है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू म्हणतात, देवाचे राज्य असे आहे की जणू एखाद्या माणसाने जमिनीत बी टाकावे. तो ते विखरून टाकतो, आणि कथेतील त्याचा नाट्यमय भाग तिथेच संपतो. मग तो रात्री झोपतो आणि दिवसा उठतो, दिवस आणि रात्रीच्या साध्या लयीत जगतो, आणि तोपर्यंत बी अंकुरते आणि वाढते. कसे होते ते त्याला कळत नाही.\n\nहे वाक्य दृष्टांताच्या केंद्रस्थानी आहे. शेतकरी आळशी नाही. शुभवर्तमानांत इतरत्र शेतातील कामाचा मान राखला आहे. पण एक बिंदू असा येतो जिथे वाढ त्याच्या हातात राहत नाही. तो बी उमलण्यासाठी भाग पाडू शकत नाही, आणि देठ ओढून वेगाने वर काढू शकत नाही. तो फक्त इतकेच करू शकतो की पेरणी केली आहे, आणि ज्या जमिनीत पेरले आहे तिच्यावर विश्वास ठेवतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "First the blade",
+    "hi": {
+     "text": "पहले पत्ती",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आधी पाते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The earth bears fruit by itself, Jesus says, and then he describes the order of growth with a few quiet words: first the blade, then the ear, then the full grain in the ear. Each stage has its own timing. The green shoot comes before the head of the plant, and the head before the ripe kernel, and none of them can be skipped.\n\nAnyone who has waited for a garden to come up will know the patience this takes. In the early weeks, the field may look as though nothing is happening at all, and then there is a thin line of green. The story encourages us to see that slow, ordinary growth is real growth, and that the quiet stretches are part of the work and not a sign that it has failed.",
+    "hi": {
+     "text": "यीशु कहते हैं, धरती अपने आप फल लाती है, और फिर वे कुछ शांत शब्दों में बढ़त का क्रम बताते हैं: पहले अंकुर, फिर बाली, फिर बाली में पूरा दाना। हर चरण का अपना समय होता है। हरा अंकुर पौधे की बाली से पहले आता है, और बाली पके दाने से पहले, और इनमें से कोई भी चरण छोड़ा नहीं जा सकता।\n\nजिसने कभी बगीचे के उगने की प्रतीक्षा की है, वह इसके लिए ज़रूरी धैर्य जानता होगा। शुरुआती हफ्तों में खेत ऐसा दिख सकता है मानो कुछ भी न हो रहा हो, और फिर हरी पतली रेखा दिखाई देती है। कहानी हमें यह देखने के लिए प्रेरित करती है कि धीमी, साधारण बढ़त भी असली बढ़त है, और शांत अंतराल काम का हिस्सा हैं, उसके विफल होने का संकेत नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू म्हणतात, जमीन स्वतःहून फळ देते, आणि मग ते काही शांत शब्दांत वाढीचा क्रम सांगतात: प्रथम अंकुर, मग कणीस, मग कणसातील पूर्ण दाणा. प्रत्येक टप्प्याची स्वतःची वेळ असते. हिरवा कोंब वनस्पतीच्या कणसापूर्वी येतो, आणि कणीस पिकलेल्या दाण्यापूर्वी, आणि यांपैकी कोणताही टप्पा वगळता येत नाही.\n\nबाग उगवण्याची वाट ज्याने पाहिली आहे त्याला यासाठी लागणारा संयम माहीत असेल. सुरुवातीच्या आठवड्यांत शेत पाहिल्यास काहीच घडत नसल्यासारखे दिसू शकते, आणि मग हिरव्या रेषेची पातळ ओळ दिसते. ही कथा आपल्याला पाहायला शिकवते की संथ, साधी वाढ ही खरी वाढ आहे, आणि शांत कालखंड हे कामाचाच भाग आहेत, ते अपयशाचे चिन्ह नाहीत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Harvest comes",
+    "hi": {
+     "text": "कटनी का समय आता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कापणी येते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The last verse of the parable turns to the harvest. When the grain is ripe, the man immediately puts in the sickle, because the harvest has come. After all the waiting, there is a sudden, urgent moment of action. The farmer who seemed to do so little for so long now has his hands full and cannot afford to delay.\n\nChristians have read this as a picture of the Kingdom of God, which grows in ways that people cannot fully observe or control, and which comes to fruition in its own time. It speaks to those who work hard for good in the world and wonder whether anything is happening. The story promises that growth continues even when we cannot see it, and that the harvest is real. The mystery of growth and the clarity of harvest sit side by side, and the story trusts the listener to hold both without needing a tidy explanation.",
+    "hi": {
+     "text": "दृष्टांत का अंतिम पद कटनी की ओर मुड़ता है। जब दाना पक जाता है, तो वह मनुष्य तुरंत दराँती लगाता है, क्योंकि कटनी का समय आ गया है। इतनी प्रतीक्षा के बाद कार्य का एक अचानक और तत्काल क्षण आता है। जो किसान इतने लंबे समय तक इतना कम करता दिखा, अब उसके हाथ भरे हैं और देर करने का उसके पास समय नहीं है।\n\nईसाइयों ने इसे परमेश्वर के राज्य का चित्र माना है, जो ऐसे ढंग से बढ़ता है जिसे लोग पूरी तरह न देख सकते हैं न नियंत्रित कर सकते हैं, और जो अपने समय में फल देता है। यह उन लोगों से बात करता है जो दुनिया में भलाई के लिए कठिन परिश्रम करते हैं और सोचते हैं कि क्या कुछ हो भी रहा है। कहानी वादा करती है कि बढ़त तब भी जारी रहती है जब हम उसे देख नहीं पाते, और कटनी वास्तविक है। बढ़त का रहस्य और कटनी की स्पष्टता साथ-साथ रहते हैं, और कहानी श्रोता पर भरोसा करती है कि वह बिना किसी साफ़-सुथरी व्याख्या के दोनों को थाम सके।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दृष्टांताचे शेवटचे वचन कापणीकडे वळते. दाणा पिकला की तो माणूस लगेच विळा लावतो, कारण कापणीचा काळ आला आहे. इतक्या प्रतीक्षेनंतर कृतीचा एक अचानक आणि तातडीचा क्षण येतो. जो शेतकरी इतका काळ इतके कमी करताना दिसला, त्याचे हात आता भरलेले आहेत आणि त्याला उशीर करणे परवडत नाही.\n\nख्रिस्ती लोकांनी याकडे देवाच्या राज्याचे चित्र म्हणून पाहिले आहे, जे अशा रीतीने वाढते की लोक ते पूर्णपणे पाहू किंवा नियंत्रित करू शकत नाहीत, आणि जे आपल्या वेळी फळाला येते. हे अशा लोकांशी बोलते जे जगात चांगल्यासाठी कष्ट करतात आणि प्रश्न पडतात की काही घडत आहे का. कथा वचन देते की वाढ तेव्हाही चालू असते जेव्हा आपल्याला ती दिसत नाही, आणि कापणी खरी आहे. वाढीचे रहस्य आणि कापणीची स्पष्टता शेजारी-शेजारी बसतात, आणि कथा ऐकणार्यावर विश्वास ठेवते की त्याने कोणतेही नीटनेटके स्पष्टीकरण न लागता दोन्ही धरून ठेवावे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Trusting what we cannot see",
+    "hi": {
+     "text": "उस पर भरोसा जो हम देख नहीं सकते",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जे आपल्याला दिसत नाही त्यावर विश्वास",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "There is a spiritual freedom in the parable. It tells us that we are not responsible for every part of the outcome. We plant, we tend, we watch, and then we rest, trusting that some part of the work is being done by something beyond our effort. For those who carry heavy responsibilities, this is a gentle permission to sleep.\n\nIt also offers hope to anyone raising children, teaching others, practising a discipline or working for change. The result may not be visible for a long time, and we may not understand how it works. People of every faith know something of this kind of faith, that patient and faithful work is rarely wasted, and the earth and the seasons have their own slow generosity. We can plant with care, tend with attention and then let go of the need to force what only time can produce, and in that there is real rest.",
+    "hi": {
+     "text": "इस दृष्टांत में एक आध्यात्मिक स्वतंत्रता है। यह हमें बताता है कि परिणाम के हर भाग के लिए हम ज़िम्मेदार नहीं हैं। हम बोते हैं, देखभाल करते हैं, निगरानी रखते हैं, और फिर विश्राम करते हैं, इस भरोसे के साथ कि काम का कोई भाग हमारे प्रयास से परे किसी शक्ति द्वारा किया जा रहा है। जो लोग भारी ज़िम्मेदारियाँ उठाते हैं, उनके लिए यह सोने की एक कोमल अनुमति है।\n\nयह उन सभी को आशा भी देता है जो बच्चों का पालन-पोषण करते हैं, दूसरों को सिखाते हैं, किसी अनुशासन का अभ्यास करते हैं या परिवर्तन के लिए काम करते हैं। परिणाम लंबे समय तक दिखाई न दे, और हम शायद समझ भी न पाएँ कि वह कैसे होता है। हर धर्म के लोग इस प्रकार के विश्वास को कुछ हद तक जानते हैं, कि धैर्य और निष्ठा से किया गया काम शायद ही कभी व्यर्थ जाता है, और धरती और मौसमों की अपनी धीमी उदारता होती है। हम देखभाल से बो सकते हैं, ध्यान से सींच सकते हैं, और फिर उस चीज़ को ज़बरदस्ती करने की आवश्यकता छोड़ सकते हैं जो केवल समय ही दे सकता है, और उसी में सच्चा विश्राम है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या दृष्टांतात एक आध्यात्मिक मोकळेपणा आहे. तो आपल्याला सांगतो की परिणामाच्या प्रत्येक भागासाठी आपण जबाबदार नाही. आपण पेरतो, जपतो, पाहतो, आणि मग विसावतो, या विश्वासाने की कामाचा काही भाग आपल्या प्रयत्नांपलीकडील कोणीतरी करत आहे. जे लोक जड जबाबदार्या वाहतात, त्यांच्यासाठी ही झोपेची हळुवार परवानगी आहे.\n\nमुले वाढवणार्यांना, इतरांना शिकवणार्यांना, एखादी शिस्त पाळणार्यांना किंवा बदलासाठी काम करणार्यांना हे आशा देखील देते. परिणाम दीर्घकाळ दिसणार नाही, आणि ते कसे घडते हे आपल्याला कदाचित समजणार नाही. प्रत्येक धर्माचे लोक या प्रकारच्या श्रद्धेला थोडेफार ओळखतात, की धीर आणि निष्ठेने केलेले काम क्वचितच वाया जाते, आणि जमीन व ऋतूंची स्वतःची संथ उदारता असते. आपण काळजीने पेरू शकतो, लक्षपूर्वक जपू शकतो, आणि मग फक्त वेळच जे देऊ शकते ते जबरदस्तीने मिळवण्याची गरज सोडू शकतो, आणि त्यातच खरी विश्रांती आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "For the earth bears fruit by itself: first the blade, then the ear, then the full grain in the ear.",
+  "lang": "en",
+  "cite": {
+   "en": "Mark 4:28 (World English Bible)",
+   "hi": {
+    "text": "मरकुस 4:28 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मरकुस 4:28 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "Growth comes in its own stages and in its own time, beyond the sower's control.",
+   "hi": {
+    "text": "बढ़त अपने चरणों में और अपने समय पर आती है, बोने वाले के नियंत्रण से परे।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "वाढ स्वतःच्या टप्प्यांत आणि स्वतःच्या वेळी येते, पेरणार्याच्या नियंत्रणापलीकडे.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What have you planted that you are anxiously waiting to see grow? Can you do your part and then rest, trusting the slow work of the soil?",
+  "hi": {
+   "text": "तुमने क्या बोया है जिसे बढ़ते हुए देखने के लिए तुम बेचैनी से प्रतीक्षा कर रहे हो? क्या तुम अपना हिस्सा कर के फिर धरती की धीमी मेहनत पर भरोसा करके विश्राम कर सकते हो?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही असे काय पेरले आहे ज्याची वाढ पाहण्यासाठी तुम्ही उत्सुकतेने वाट पाहत आहात? तुम्ही आपला वाटा उचलून मग जमिनीच्या संथ कामावर विश्वास ठेवून विसावू शकता का?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "We sow and tend, but growth has its own timing, so we can work faithfully, rest and wait with trust for the harvest.",
+  "hi": {
+   "text": "हम बोते और देखभाल करते हैं, पर बढ़त का अपना समय है, इसलिए हम निष्ठा से काम कर सकते हैं, विश्राम कर सकते हैं, और भरोसे के साथ कटनी की प्रतीक्षा कर सकते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपण पेरतो आणि जपतो, पण वाढीची स्वतःची वेळ असते, म्हणून आपण विश्वासूपणे काम करू शकतो, विसावू शकतो आणि विश्वासाने कापणीची वाट पाहू शकतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Mark 4:26-29; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मरकुस 4:26-29 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मरकुस 4:26-29 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

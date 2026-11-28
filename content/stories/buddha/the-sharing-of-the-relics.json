@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-sharing-of-the-relics",
+ "order": 28,
+ "part": "parinirvana",
+ "figure": {
+  "en": "The Buddha",
+  "hi": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गौतम बुद्ध",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Sharing of the Relics",
+  "hi": {
+   "text": "अस्थियों का बँटवारा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अस्थींची वाटणी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Seven kings march on Kushinagara over the Buddha's remains, and a single Brahman talks them out of war by quoting the Buddha's own patience.",
+  "hi": {
+   "text": "सात राजा बुद्ध के अवशेषों के लिए कुशीनगर पर चढ़ाई करते हैं, और एक ब्राह्मण बुद्ध की अपनी सहनशीलता का स्मरण दिलाकर उन्हें युद्ध से रोक लेता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सात राजे बुद्धांच्या अवशेषांसाठी कुशीनगरावर चढाई करतात, आणि एक ब्राह्मण बुद्धांच्या स्वतःच्या सहनशीलतेची आठवण करून देऊन त्यांना युद्धापासून परावृत्त करतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/buddha/b-relics.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Carved panel at the Dhauli Peace Pagoda",
+    "hi": {
+     "text": "धौली शांति स्तूप पर नक्काशीदार पट्टिका",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धौली शांती स्तूपावरील कोरीव फलक",
+     "reviewed": false
+    }
+   },
+   "credit": "Rajashree Talukdar, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dhauli_Peace_Pagoda_-_Ornamentations_(1).jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Seven kings and a refusal",
+    "hi": {
+     "text": "सात राजा और एक इनकार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सात राजे आणि एक नकार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Mallas placed the relics on a tower for gods and men to adore, and with the costliest flowers and scents made their supreme offering. The kings of seven countries heard that the Buddha was dead and sent messengers to ask to share the relics. The Mallas, who revered the body and trusted their martial renown, grew haughty. They would rather part with life, they said, than with the relics of the Buddha. The messengers went back, and the seven kings, greatly angered, advanced on Kushinagara with an army as numerous as rain clouds.\n\nThe people who had gone out of the city came back in terror and said that horse and foot from the neighbouring countries were coming with elephants and chariots to surround the city. The gardens, fountains, lakes and fruit trees outside the town were destroyed by the host, and the pleasant resting-places lay in ruins. From the city towers the Mallas saw their supports of life being ruined, and they readied their catapults and flying torches. The poem pictures a city defending the most peaceful relic in the world with machines of war.",
+    "hi": {
+     "text": "मल्लों ने अवशेषों को देवताओं और मनुष्यों की पूजा के लिए एक स्तंभ पर रखा, और सबसे बहुमूल्य पुष्पों और सुगंधों से परम अर्पण किया। सात देशों के राजाओं ने सुना कि बुद्ध का निधन हो गया है, और उन्होंने दूत भेजकर अवशेषों में अपना भाग माँगा। मल्ल, जो शरीर की पूजा करते थे और अपने युद्ध-यश पर भरोसा रखते थे, अभिमानी हो गए। वे बुद्ध के अवशेषों को त्यागने के बजाय प्राण त्यागना पसंद करेंगे, उन्होंने कहा। दूत लौट गए, और सातों राजा अत्यंत क्रोधित होकर मेघों जितनी विशाल सेना लेकर कुशीनगर की ओर बढ़े।\n\nनगर से बाहर गए लोग भय में लौटे और बोले कि पड़ोसी देशों की पैदल और घुड़सवार सेनाएँ हाथियों और रथों के साथ नगर को घेरने आ रही हैं। नगर के बाहर के उद्यान, फव्वारे, सरोवर और फलदार वृक्ष सेना ने नष्ट कर दिए, और सुखद विश्राम-स्थल खंडहर हो गए। नगर के बुर्जों से मल्लों ने अपने जीवन-आधार को उजड़ते देखा, और उन्होंने गुलेलें और जलते हुए आग-गोले तैयार किए। कविता उस नगर का चित्र खींचती है जो संसार के सबसे शांत अवशेष की रक्षा युद्ध-यंत्रों से कर रहा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मल्लांनी अवशेष देव आणि मानवांच्या पूजेसाठी एका स्तंभावर ठेवले, आणि सर्वात मौल्यवान फुले व सुगंधांनी परम अर्पण केले. सात देशांच्या राजांनी ऐकले की बुद्धांचे निधन झाले आहे, आणि त्यांनी दूत पाठवून अवशेषांत आपला वाटा मागितला. मल्ल, जे शरीराची पूजा करत होते आणि आपल्या युद्धकीर्तीवर विसंबून होते, ते गर्विष्ठ झाले. बुद्धांचे अवशेष सोडण्यापेक्षा आम्ही प्राण सोडू, असे ते म्हणाले. दूत परत गेले, आणि सात राजे अत्यंत क्रोधित होऊन मेघांइतक्या विशाल सेनेसह कुशीनगरकडे निघाले.\n\nनगराबाहेर गेलेले लोक भयभीत होऊन परतले आणि म्हणाले की शेजारच्या देशांचे पायदळ व घोडदळ हत्ती व रथांसह नगराला वेढायला येत आहे. नगराबाहेरील उद्याने, कारंजी, सरोवरे आणि फळझाडे सैन्याने उद्ध्वस्त केली, आणि सुखद विश्रांतीची स्थाने भग्न झाली. नगराच्या बुरुजांवरून मल्लांनी आपले जीवनाधार उद्ध्वस्त होताना पाहिले, आणि त्यांनी गोफणी व पेटते गोळे तयार केले. कविता असे चित्र उभे करते की जगातील सर्वात शांत अवशेषाचे रक्षण एक नगर युद्धयंत्रांनी करत आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A bloodless victory",
+    "hi": {
+     "text": "रक्तहीन विजय",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रक्तहीन विजय",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The seven kings entrenched themselves around the city, each army filled with fresh courage. The wings of battle shone in array like the sun's seven beams, and the heavy drums rolled like thunder. The Mallas, greatly angry, opened the gates and commanded the fight to begin. But the old men and women who had trust in the Buddha's law breathed out a vow with deep concern. Oh, may the victory be a bloodless one, they said. Those who had friends urged one another not to encourage a desire for strife.\n\nThe warriors in armour were grasping spears and brandishing swords amid the noise of the drums when a Brahman named Drona came forward. He was celebrated for penetration and honoured for his modesty, and his loving heart took pleasure in religion. The poet gives his name in the old Sanskrit form, and in the Pali accounts he is the one who later receives the relic pitcher. He stood between the two sides before the battle began, and he began to speak to the kings.",
+    "hi": {
+     "text": "सातों राजा नगर के चारों ओर डेरा डालकर बैठ गए, हर सेना नए साहस से भरी हुई। युद्ध की पंक्तियाँ सूर्य की सात किरणों जैसी चमकीं, और भारी नगाड़े बादलों की गड़गड़ाहट की तरह बजे। अत्यंत क्रोधित मल्लों ने फाटक खोले और युद्ध आरंभ करने का आदेश दिया। पर बुद्ध के धर्म में विश्वास रखने वाले वृद्ध और स्त्रियाँ गहरी चिंता के साथ एक संकल्प बोले। हे प्रभु, विजय रक्तहीन हो, उन्होंने कहा। जिनके मित्र थे, उन्होंने एक-दूसरे से कलह की इच्छा न जगाने का आग्रह किया।\n\nकवच पहने योद्धा तलवारें और भाले थामे युद्धभेरी के शोर में खड़े थे, जब द्रोण नाम का एक ब्राह्मण आगे आया। वह अपनी सूक्ष्म समझ के लिए प्रसिद्ध था और विनम्रता के लिए सम्मानित था, और उसके दयालु हृदय को धर्म में आनंद मिलता था। कवि उसका नाम पुराने संस्कृत रूप में देता है, और पाली वृत्तांतों में वही है जो बाद में अवशेषों का कलश प्राप्त करता है। युद्ध शुरू होने से पहले वह दोनों सेनाओं के बीच खड़ा हुआ, और उसने राजाओं से बोलना शुरू किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सातही राजे नगराभोवती तळ ठोकून बसले, प्रत्येक सेना नव्या उत्साहाने भरलेली. युद्धाच्या रांगा सूर्याच्या सात किरणांसारख्या चमकल्या, आणि जड नगारे मेघगर्जनेसारखे घुमले. अत्यंत संतप्त मल्लांनी दरवाजे उघडले आणि युद्ध सुरू करण्याची आज्ञा दिली. पण बुद्धांच्या धर्मावर श्रद्धा असलेले वृद्ध आणि स्त्रिया गहिऱ्या चिंतेने एक संकल्प बोलल्या. हे प्रभो, विजय रक्तहीन असो, त्या म्हणाल्या. ज्यांचे मित्र होते त्यांनी एकमेकांना कलहाची इच्छा न धरण्याचा आग्रह केला.\n\nकवच घातलेले योद्धे तलवारी व भाले उचलून युद्धभेरींच्या आवाजात उभे असताना, द्रोण नावाचा एक ब्राह्मण पुढे आला. तो सूक्ष्म बुद्धीसाठी प्रसिद्ध होता आणि नम्रतेसाठी आदरणीय होता, आणि त्याच्या दयाळू हृदयाला धर्मात आनंद मिळत असे. कवी त्याचे नाव जुन्या संस्कृत रूपात देतो, आणि पाली वृत्तांतांत तोच पुढे अवशेषांचा कलश मिळवतो. युद्ध सुरू होण्यापूर्वी तो दोन सेनांच्या मध्ये उभा राहिला, आणि त्याने राजांशी बोलण्यास सुरुवात केली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Brahman's plea",
+    "hi": {
+     "text": "ब्राह्मण की प्रार्थना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ब्राह्मणाची विनंती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Look at the strength of the city, Drona said to the kings. One man alone might defend it, and how much more a people united in will. Mutual strife has always brought destruction, so how can it bring glory here? After the clash of swords, someone must perish, and in battle the weak may overcome the strong. Do not lean too much on strength of body, for nothing compares with the strength of right. An old conquering king, Karandhama, ruled the world and was rich and renowned, yet in the end all was lost. Use the principles of righteousness and the expedients of goodwill and love. Conquer your foe by force and you increase his enmity. Conquer by love and you will reap no sorrow later.\n\nThis thirst for blood cannot be endured, he said. If you wish to honour the Buddha, follow his example of patience and long-suffering. The poem calls this the boldest speech of the story, delivered with confidence by a man who held his ground between two armies, and it holds the moral of the whole canto.",
+    "hi": {
+     "text": "इस नगर की शक्ति को देखो, द्रोण ने राजाओं से कहा। एक व्यक्ति भी इसकी रक्षा कर सकता है, तो एकजुट जनता की इच्छा का तो कहना ही क्या। आपसी कलह ने सदा विनाश ही किया है, तो यहाँ वह गौरव कैसे ला सकती है? तलवारों की टक्कर के बाद किसी न किसी का नाश होना ही है, और युद्ध में निर्बल भी प्रबल को हरा सकता है। शरीर के बल पर अधिक भरोसा न करो, क्योंकि कुछ भी धर्म के बल की बराबरी नहीं कर सकता। कर्णधम नाम का एक प्राचीन विजेता राजा सारी पृथ्वी का स्वामी था, धनी और प्रसिद्ध था, फिर भी अंततः सब कुछ खो गया। धर्म के सिद्धांतों और प्रेम के उपायों का प्रयोग करो। बल से शत्रु को जीतोगे तो उसकी शत्रुता बढ़ेगी। प्रेम से जीतोगे तो बाद में कोई दुःख नहीं होगा।\n\nरक्त की इस प्यास को सहा नहीं जा सकता, उसने कहा। यदि तुम बुद्ध का सम्मान करना चाहते हो, तो उनकी सहनशीलता और धैर्य का अनुसरण करो। कविता इसे इस कथा का सबसे साहसी भाषण कहती है, जो दो सेनाओं के बीच अपनी जगह पर डटे एक व्यक्ति ने आत्मविश्वास से दिया, और उसमें पूरी कथा का नीति-वचन निहित है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या नगराची शक्ती पहा, द्रोण राजांना म्हणाला. एक माणूस देखील त्याचे रक्षण करू शकतो, मग एकत्र झालेल्या जनतेच्या इच्छेविषयी काय बोलावे? परस्पर कलहाने नेहमीच नाश केला आहे, मग इथे तो गौरव कसा आणेल? तलवारींच्या टकरीनंतर कोणाचा तरी नाश होणारच, आणि युद्धात दुबळेही प्रबळांना हरवू शकतात. शरीराच्या बळावर फार विसंबून राहू नका, कारण कशाचीही तुलना धर्माच्या बळाशी होऊ शकत नाही. कर्णधम नावाचा एक प्राचीन विजेता राजा सर्व पृथ्वीचा स्वामी होता, धनवान आणि प्रसिद्ध होता, तरीही शेवटी सारे गमावून बसला. धर्माची तत्त्वे आणि प्रेमाचे उपाय वापरा. बळाने शत्रूला जिंकलात तर त्याचे वैर वाढेल. प्रेमाने जिंकलात तर नंतर कोणतेही दुःख होणार नाही.\n\nरक्ताची ही तहान सहन होणार नाही, तो म्हणाला. जर तुम्हाला बुद्धांचा सन्मान करायचा असेल, तर त्यांच्या सहनशीलतेचे आणि धैर्याचे अनुसरण करा. कविता याला या कथेतील सर्वात धाडसी भाषण म्हणते, जे दोन सेनांमध्ये आपल्या जागी ठाम उभ्या राहिलेल्या माणसाने आत्मविश्वासाने दिले, आणि त्यात संपूर्ण कथेचा नीतिबोध सामावलेला आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Dividing the relics",
+    "hi": {
+     "text": "अवशेषों का बँटवारा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अवशेषांची वाटणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The kings answered him politely. They said that they had not come for land or money or out of pride or hatred, but because they venerated the great sage. They pointed to old wars fought over a woman, over a kingdom, over a demon's quarrel, and asked why they should be forbidden to fight for the body of a teacher who was free from passion. But because your words are right, they added, we hold our anger for a while, like a great angry snake quieted by a charm. They asked him to go into the city and demand that the relics be shared.\n\nDrona went to the Mallas and spoke without flattery. You honour what we honour, he told them on the kings' behalf, so we are brothers in religion. To be miserly with wealth is a fault, and to grudge religion, of which the world has so little knowledge, is much worse. Not to obey his teaching, and yet to offer gifts to him, is a contradiction. The Mallas felt ashamed and looked at one another. They thanked him, opened the relics and divided them into eight equal parts.",
+    "hi": {
+     "text": "राजाओं ने उसे विनम्रता से उत्तर दिया। उन्होंने कहा कि वे भूमि, धन या अभिमान या द्वेष के लिए नहीं आए, बल्कि इसलिए कि वे महान ऋषि का आदर करते हैं। उन्होंने पुराने युद्धों की ओर इशारा किया जो एक स्त्री, एक राज्य, एक असुर के झगड़े पर लड़े गए थे, और पूछा कि वीतराग शिक्षक के शरीर के लिए लड़ने से उन्हें क्यों रोका जाए। पर चूँकि तुम्हारे शब्द सही हैं, उन्होंने जोड़ा, तो हम कुछ समय के लिए अपना क्रोध रोकते हैं, जैसे कोई क्रुद्ध विशाल सर्प मंत्र से शांत हो जाता है। उन्होंने उससे कहा कि नगर में जाकर अवशेषों के बँटवारे की माँग करे।\n\nद्रोण मल्लों के पास गया और चापलूसी के बिना बोला। तुम वही सम्मान करते हो जो हम करते हैं, उसने उनसे राजाओं की ओर से कहा, इसलिए हम धर्म में भाई हैं। धन में कंजूसी दोष है, और उस धर्म में कंजूसी, जिसका संसार में इतना कम ज्ञान है, और भी बुरा है। उनके उपदेश का पालन न करके भी उन्हें भेंट चढ़ाना विरोधाभास है। मल्ल लज्जित हुए और एक-दूसरे की ओर देखने लगे। उन्होंने उसे धन्यवाद दिया, अवशेष खोले, और उन्हें आठ समान भागों में बाँट दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजांनी त्याला नम्रपणे उत्तर दिले. ते म्हणाले की ते भूमी, धन किंवा अभिमान व द्वेषासाठी आलेले नाहीत, तर महान ऋषींचा आदर करतात म्हणून आले आहेत. त्यांनी जुन्या युद्धांकडे बोट दाखवले, जी एका स्त्रीसाठी, एका राज्यासाठी, एका राक्षसाच्या भांडणावर लढली गेली, आणि विचारले की वीतराग शिक्षकाच्या देहासाठी लढण्यापासून त्यांना का अडवले जावे. पण तुमचे शब्द योग्य असल्यामुळे, ते पुढे म्हणाले, आम्ही काही काळ आपला राग रोखतो, जसा संतापलेला मोठा नाग मंत्राने शांत होतो. त्यांनी त्याला सांगितले की त्याने नगरात जाऊन अवशेषांच्या वाटणीची मागणी करावी.\n\nद्रोण मल्लांकडे गेला आणि खुशामत न करता बोलला. तुम्ही तोच सन्मान करता जो आम्ही करतो, त्याने त्यांना राजांच्या वतीने सांगितले, म्हणून आपण धर्माने बंधू आहोत. धनाबाबत कंजूषपणा हा दोष आहे, आणि ज्या धर्माचे जगात इतके कमी ज्ञान आहे, त्याबाबत कंजूषपणा तर त्याहूनही वाईट आहे. त्यांच्या उपदेशाचे पालन न करता त्यांना अर्पण करणे हा विरोधाभास आहे. मल्ल लज्जित झाले आणि एकमेकांकडे पाहू लागले. त्यांनी त्याचे आभार मानले, अवशेष उघडले, आणि त्यांचे आठ समान भाग केले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Towers and a council",
+    "hi": {
+     "text": "स्तूप और एक सभा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्तूप आणि एक सभा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Mallas worshipped one part themselves and handed the other seven to the Brahman, who gave them to the seven kings. The kings put them on their heads, took them home and raised stupas over them. Drona asked the Mallas for the relic pitcher as his share, and from the kings he requested a fragment as an eighth, and he built a shrine called the Golden Pitcher. The men of Kushinagara gathered the ashes and raised a shrine called the Ashes Stupa. So ten shrines were raised, the poet says, throughout the land, and the people held music and dancing day and night.\n\nFive hundred arhats, who had lost their master's presence, went back to Vulture Peak and gathered the teachings, with Ananda reciting, in the great assembly, the sermons of the Tathagata, beginning with the words, Thus have I heard. The whole assembly was bathed in tears. The poem then ends with King Ashoka, once called the violent and now called the righteous, who opened the old stupas and raised eighty-four thousand towers in one day, and honoured the shrines of the Tathagata throughout his empire.",
+    "hi": {
+     "text": "मल्लों ने एक भाग स्वयं पूजा के लिए रखा और बाकी सात भाग ब्राह्मण को दे दिए, जिसने उन्हें सात राजाओं को दे दिया। राजाओं ने उन्हें अपने मस्तक पर रखा, अपने देश ले गए, और उन पर स्तूप बनवाए। द्रोण ने मल्लों से अपने भाग के रूप में अवशेषों का कलश माँगा, और राजाओं से आठवें भाग के लिए एक टुकड़ा माँगा, और उसने 'स्वर्णकलश' नाम का एक मंदिर बनवाया। कुशीनगर के लोगों ने राख इकट्ठा करके 'भस्म-स्तूप' नाम का एक स्तूप बनाया। इस प्रकार, कवि कहता है, पूरे देश में दस स्तूप बने, और लोग दिन-रात संगीत और नृत्य करते रहे।\n\nपाँच सौ अर्हत, जिन्होंने अपने गुरु की उपस्थिति खो दी थी, गृध्रकूट लौटे और शिक्षाएँ एकत्र कीं, और आनंद ने महान सभा में तथागत के उपदेश सुनाए, 'ऐसा मैंने सुना' से आरंभ करते हुए। सारी सभा आँसुओं में डूब गई। फिर काव्य अशोक की ओर मुड़ता है, जो पहले क्रूर कहलाए गए और अब धर्मात्मा कहलाते हैं, जिन्होंने प्राचीन स्तूप खोले, एक ही दिन में चौरासी हजार स्तूप बनवाए, और अपने पूरे साम्राज्य में तथागत के स्मारकों का सम्मान किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मल्लांनी एक भाग स्वतः पूजेसाठी ठेवला आणि उरलेले सात भाग ब्राह्मणाला दिले, ज्याने ते सात राजांना वाटले. राजांनी ते आपल्या मस्तकावर ठेवले, आपल्या देशात नेले आणि त्यांवर स्तूप उभारले. द्रोणाने मल्लांकडे आपला वाटा म्हणून अवशेषांचा कलश मागितला, आणि राजांकडून आठव्या भागासाठी एक तुकडा मागितला, आणि 'सुवर्णकलश' नावाचे एक मंदिर बांधले. कुशीनगरच्या लोकांनी राख गोळा करून 'भस्मस्तूप' नावाचा स्तूप उभारला. अशा प्रकारे, कवी सांगतो, संपूर्ण देशात दहा स्तूप उभारले गेले, आणि लोक दिवसरात्र संगीत व नृत्य करत राहिले.\n\nपाचशे अर्हत, ज्यांनी आपल्या गुरूंची उपस्थिती गमावली होती, ते गृध्रकूटावर परत गेले आणि शिकवणी एकत्र केल्या, आणि आनंदाने महान सभेत तथागतांचे उपदेश म्हटले, 'असे मी ऐकले' अशा शब्दांनी सुरुवात करून. सारी सभा अश्रूंत बुडाली. मग काव्य अशोकाकडे वळते, जे आधी क्रूर म्हणवले गेले आणि आता धर्मात्मा म्हणवले जातात, ज्यांनी प्राचीन स्तूप उघडले, एकाच दिवसात चौऱ्याऐंशी हजार स्तूप उभारले, आणि आपल्या संपूर्ण साम्राज्यात तथागतांच्या स्मारकांचा सन्मान केला.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Oh ! may the victory be a bloodless one",
+  "lang": "en",
+  "cite": {
+   "en": "Buddhacharita, canto 28 (tr. Beal, 1883)",
+   "hi": {
+    "text": "बुद्धचरित, सर्ग 28 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "बुद्धचरित, सर्ग 28 (अनुवाद: बील, 1883)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The old people of Kushinagara pray as the armies gather.",
+   "hi": {
+    "text": "युद्ध की सेनाएँ जुटते समय कुशीनगर के बूढ़े लोग प्रार्थना करते हैं।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "युद्धाच्या सेना जमताना कुशीनगरातील वृद्ध लोक प्रार्थना करतात.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "When two sides both say they honour the same thing, what would it take for you to be the one who steps between them?",
+  "hi": {
+   "text": "जब दो पक्ष दोनों कहते हैं कि वे एक ही चीज़ का सम्मान करते हैं, तो तुम्हें उनके बीच आकर खड़े होने के लिए क्या चाहिए?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जेव्हा दोन्ही बाजू म्हणतात की त्या एकाच गोष्टीचा सन्मान करतात, तेव्हा त्यांच्यामध्ये येऊन उभे राहण्यासाठी तुला काय लागेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Reverence that is carried out in anger contradicts itself; shared honour is better kept by sharing, and by patience.",
+  "hi": {
+   "text": "क्रोध में किया गया सम्मान अपने आप से विरोधाभास है; साझा सम्मान बाँटने और धैर्य से ही सबसे अच्छी तरह निभता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "रागाच्या भरात केलेला सन्मान स्वतःशीच विरोधाभासी असतो; सामायिक सन्मान वाटून आणि धैर्याने सर्वोत्तम जपला जातो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Ashvaghosha, Buddhacharita, canto 28; retold in our own words",
+  "hi": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 28; हमारे अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अश्वघोष, बुद्धचरित, सर्ग 28; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले",
+   "reviewed": false
+  }
+ }
+}

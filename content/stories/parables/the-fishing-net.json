@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-fishing-net",
+ "order": 8,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Fishing Net",
+  "hi": {
+   "text": "मछली पकड़ने का जाल",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मासेमारीचे जाळे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A net is cast into the sea and gathers fish of every kind, and the sorting is done on the shore.",
+  "hi": {
+   "text": "समुद्र में जाल डाला जाता है और हर तरह की मछलियाँ उसमें आती हैं, और छँटाई किनारे पर होती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "समुद्रात जाळे टाकले जाते आणि त्यात सर्व प्रकारचे मासे येतात, आणि त्यांची निवड किनार्यावर होते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-fishnet-rembrandt.webp",
+   "w": 885,
+   "h": 1100,
+   "caption": {
+    "en": "Christ in the storm on the Sea of Galilee, Rembrandt (the fishermen's boat)",
+    "hi": {
+     "text": "गलील झील पर तूफ़ान में मछुआरों की नाव, रेम्ब्रांट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गालीली सरोवरावरील वादळात मच्छिमारांची होडी, रेम्ब्रांट",
+     "reviewed": false
+    }
+   },
+   "credit": "Rembrandt, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A parable for fishermen",
+    "hi": {
+     "text": "मछुआरों के लिए एक दृष्टांत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मच्छिमारांसाठी एक दृष्टांत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "This is the last of the stories in Matthew's thirteenth chapter, told to the disciples in the house after Jesus had finished with the crowds. Several of those disciples, Peter, Andrew, James and John among them, had been fishermen on the Sea of Galilee before they followed him. They understood nets and boats and early mornings on the water as well as any people alive.\n\nJesus once told such men that he would make them fishers of people, and so a story about a net would have fallen naturally on their ears. As with the others in this chapter, it begins with the Kingdom of Heaven, the rule of God that Jesus taught was coming near, and likens it to a thing they knew from their daily work. Nets, boats and the slow work of mending them were the texture of their former lives, and Jesus speaks in that language on purpose.",
+    "hi": {
+     "text": "यह मत्ती के तेरहवें अध्याय की अंतिम कहानियों में से है, जो यीशु के भीड़ से निपटने के बाद घर के भीतर शिष्यों को सुनाई गई। उन शिष्यों में से कई, जिनमें पतरस, अन्द्रियास, याकूब और यूहन्ना शामिल थे, यीशु के पीछे चलने से पहले गलील झील पर मछुआरे थे। वे जालों, नावों और पानी पर भोर के समय के काम को किसी भी जीवित मनुष्य से अधिक अच्छी तरह समझते थे।\n\nयीशु ने एक बार ऐसे लोगों से कहा था कि वे उन्हें मनुष्यों के मछुआरे बनाएँगे, इसलिए जाल की कहानी उनके कानों में स्वाभाविक रूप से पड़ी होगी। इस अध्याय की बाकी कहानियों की तरह, यह स्वर्ग के राज्य से शुरू होती है, वह परमेश्वर का शासन जिसके निकट आने की शिक्षा यीशु ने दी, और उसे उस चीज़ से तुलना करती है जिसे वे अपने रोज़ के काम में जानते थे। जाल, नावें और उन्हें सुधारने का धीमा काम उनके पुराने जीवन की बनावट थे, और यीशु जानबूझकर उसी भाषा में बोलते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्तीाच्या तेराव्या अध्यायातील शेवटच्या कथांपैकी ही एक आहे, जी यीशूने जमावांशी बोलून झाल्यावर घरात शिष्यांना सांगितली. त्या शिष्यांपैकी अनेक, ज्यात पतरस, अंद्रिया, याकोब आणि योहान होते, यीशूच्या मागे जाण्यापूर्वी गालीली समुद्रावर मच्छिमार होते. जाळी, होड्या आणि पहाटे पाण्यावरचे काम त्यांना जगातील कोणत्याही माणसाइतके चांगले समजत होते.\n\nयीशूने एकदा अशा माणसांना सांगितले होते की तो त्यांना माणसांचे मच्छिमार बनवेल, म्हणून जाळ्याची कथा त्यांच्या कानांवर स्वाभाविकपणे पडली असती. या अध्यायातील इतर कथांप्रमाणे ती स्वर्गाच्या राज्यापासून सुरू होते, म्हणजे देवाची सत्ता जी जवळ येत आहे असे यीशू शिकवत होते, आणि तिची तुलना अशा गोष्टीशी केली आहे जी ते आपल्या रोजच्या कामात ओळखत होते. जाळी, होड्या आणि ती दुरुस्त करण्याचे संथ काम हे त्यांच्या पूर्वीच्या जीवनाचे पोत होते, आणि यीशू त्याच भाषेत मुद्दाम बोलतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The dragnet",
+    "hi": {
+     "text": "घसीटने वाला जाल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ओढ-जाळे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Kingdom of Heaven, Jesus says, is like a dragnet that was cast into the sea and gathered some fish of every kind. A dragnet was a long net, weighted along one edge and floated along the other, which was drawn through the water by boats or hauled ashore by teams of men, sweeping up whatever lay in its path.\n\nIt is an image of wide and indiscriminate gathering. The net does not choose in advance which fish may enter. Small fish and large ones, fine fish and poor ones, the useful and the useless all end up together inside it. The story begins, then, with a picture of great breadth, of a net that reaches into the deep and brings up a haul far bigger than anyone could have picked by hand. Nothing in the picture suggests the net is selective; its first work is to gather widely, and only afterwards does anyone look closely at the catch.",
+    "hi": {
+     "text": "यीशु कहते हैं, स्वर्ग का राज्य उस घसीटने वाले जाल के समान है जिसे समुद्र में डाला गया और जिसने हर तरह की कुछ मछलियाँ इकट्ठी कीं। घसीटने वाला जाल एक लंबा जाल था, जिसका एक किनारा भारी होता था और दूसरा तैरता था, जिसे नावों द्वारा पानी में खींचा जाता था या लोगों के दलों द्वारा किनारे पर खींचा जाता था, और जो अपने रास्ते में जो कुछ भी पड़ता उसे बटोर लेता था।\n\nयह व्यापक और बिना भेदभाव के इकट्ठा करने का चित्र है। जाल पहले से यह नहीं चुनता कि कौन सी मछली भीतर जा सकती है। छोटी और बड़ी मछलियाँ, अच्छी और खराब मछलियाँ, काम की और बेकार सभी उसमें एक साथ आ जाती हैं। तो कहानी इस चित्र से शुरू होती है कि कितना बड़ा विस्तार है, एक ऐसा जाल जो गहराई तक पहुँचता है और इतना भारी ढेर लाता है जितना कोई हाथ से नहीं चुन सकता। चित्र में कुछ भी यह नहीं बताता कि जाल चुनिंदा है; उसका पहला काम व्यापक रूप से बटोरना है, और उस ढेर को ध्यान से देखने का काम बाद में होता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू म्हणतात, स्वर्गाचे राज्य हे समुद्रात टाकलेल्या ओढ-जाळ्यासारखे आहे, ज्यात सर्व प्रकारचे मासे जमा झाले. ओढ-जाळे एक लांब जाळे होते, ज्याची एक बाजू वजनदार आणि दुसरी तरंगणारी असे, जे होड्यांनी पाण्यातून ओढले जाई किंवा माणसांच्या गटांनी किनार्यावर ओढले जाई, आणि वाटेत जे काही येई ते सर्व गोळा करत असे.\n\nहे व्यापक आणि निवड न करता गोळा करण्याचे चित्र आहे. जाळे आधी ठरवत नाही की कोणता मासा आत यावा. लहान आणि मोठे मासे, चांगले आणि वाईट, उपयोगी आणि निरुपयोगी असे सर्व एकत्र आत येतात. तर कथा विस्ताराच्या चित्राने सुरू होते, खोलवर पोहोचणारे आणि कोणालाही हाताने निवडता येणार नाही इतका मोठा साठा आणणारे जाळे. चित्रात कुठेही असे सुचवलेले नाही की जाळे निवडक आहे; त्याचे पहिले काम व्यापकपणे गोळा करणे आहे, आणि नंतरच कोणीतरी त्या साठ्याकडे बारकाईने पाहते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The sorting on the beach",
+    "hi": {
+     "text": "किनारे पर छँटाई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "किनार्यावर निवड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the net is full, the fishermen draw it up on the beach. Then they sit down, an unhurried detail that anyone who has seen fishing crews at work would recognise, and they begin to sort the catch. The good fish are gathered into containers. The bad, meaning those that cannot be eaten or sold, are thrown away.\n\nThe sorting takes place at the end of the work, after the net has done its gathering, and it is done by the people who know what they are looking at. The fish themselves have no say in the matter, and neither do they sort one another while they are in the water. The moment of judgement belongs to a different time and to a different place, which is the shore. The fishermen's patient, practised sorting is the detail the disciples would have recognised best, since they had done it themselves many times.",
+    "hi": {
+     "text": "जब जाल भर जाता है, मछुआरे उसे किनारे पर खींच लाते हैं। फिर वे बैठ जाते हैं, एक ऐसा शांत विवरण जिसे मछली पकड़ने वाले दल का काम देखने वाला कोई भी पहचान लेगा, और वे पकड़ी गई मछलियों की छँटाई करने लगते हैं। अच्छी मछलियाँ बर्तनों में इकट्ठी की जाती हैं। बुरी मछलियाँ, यानी जो न खाई जा सकती थीं न बेची, फेंक दी जाती हैं।\n\nछँटाई काम के अंत में होती है, जाल के बटोरने के बाद, और यह वे लोग करते हैं जो जानते हैं कि वे क्या देख रहे हैं। मछलियों की इसमें कोई बात नहीं होती, और न ही वे पानी में रहते हुए एक-दूसरे को छाँटती हैं। न्याय का क्षण एक अलग समय और अलग स्थान का होता है, जो किनारा है। मछुआरों की धीरज वाली, अनुभवी छँटाई वह विवरण है जिसे शिष्य सबसे अच्छी तरह पहचानते, क्योंकि वे खुद उसे कई बार कर चुके थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जाळे भरले की मच्छिमार ते किनार्यावर ओढतात. मग ते बसतात, ही एक निवांत तपशील आहे जी मासेमारीचे काम पाहिलेल्या कोणालाही ओळखता येईल, आणि ते पकडलेल्या माशांची निवड करू लागतात. चांगले मासे भांड्यात गोळा केले जातात. वाईट मासे, म्हणजे जे खाता येत नाहीत किंवा विकता येत नाहीत, फेकून दिले जातात.\n\nनिवड कामाच्या शेवटी होते, जाळ्याने गोळा केल्यानंतर, आणि ते लोक करतात जे ते काय पाहत आहेत हे जाणतात. माशांना यात काही सांगायचे नसते, आणि ते पाण्यात असताना एकमेकांची निवड करत नाहीत. न्यायाचा क्षण वेगळ्या काळात आणि वेगळ्या ठिकाणी येतो, ते म्हणजे किनारा. मच्छिमारांची संयमी, अनुभवी निवड हा तपशील आहे जो शिष्य सर्वात चांगला ओळखत, कारण त्यांनी ते स्वतः अनेकदा केले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The meaning Jesus gives",
+    "hi": {
+     "text": "यीशु जो अर्थ देते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यीशू दिलेला अर्थ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Jesus then states the meaning briefly, in the same words he used for the weeds among the wheat. So it will be at the end of the age, he says. The angels will come and separate the wicked from among the righteous, and cast the wicked into the furnace of fire, where there will be weeping and gnashing of teeth. It is among the sternest passages in the Gospels.\n\nChristians have taken these words seriously as a statement that goodness and justice finally matter. At the same time, many have noticed what the parable leaves out. The net gathers everyone first, and it is not the fish who are asked to sort one another. Many readers take this to mean that the community of the faithful will always be mixed, and that the final sorting is not ours to do.",
+    "hi": {
+     "text": "फिर यीशु उसका अर्थ संक्षेप में बताते हैं, उन्हीं शब्दों में जो उन्होंने गेहूँ के बीच के जंगली पौधों के लिए कहे थे। युग के अंत में भी ऐसा ही होगा, वे कहते हैं। स्वर्गदूत आएँगे और दुष्टों को धर्मियों में से अलग करेंगे, और दुष्टों को आग की भट्ठी में डाल देंगे, जहाँ रोना और दाँत पीसना होगा। यह शुभवर्तमानों के सबसे कठोर उतार्यों में से है।\n\nख्रिस्ती लोगों ने इन शब्दों को इस रूप में गंभीरता से लिया है कि भलाई और न्याय अंततः मायने रखते हैं। साथ ही, कई लोगों ने देखा है कि दृष्टांत क्या छोड़ देता है। जाल पहले सभी को बटोरता है, और मछलियों से यह नहीं कहा जाता कि वे एक-दूसरे को छाँटें। कई पाठक इसका अर्थ यह लेते हैं कि विश्वासियों का समुदाय हमेशा मिश्रित रहेगा, और अंतिम छँटाई हमारे हाथ में नहीं है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग यीशू अर्थ थोडक्यात सांगतात, त्याच शब्दांत जे त्यांनी गव्हातील तणांबद्दल वापरले होते. युगाच्या शेवटीही असेच होईल, ते म्हणतात. देवदूत येतील आणि दुष्टांना नीतिमानांपासून वेगळे करतील, आणि दुष्टांना अग्नीच्या भट्टीत टाकतील, जिथे रडणे आणि दात खाणे होईल. शुभवर्तमानांतील हे सर्वात कठोर उतारे आहेत.\n\nख्रिस्ती लोकांनी या शब्दांना गांभीर्याने घेतले आहे, कारण ते सांगतात की चांगुलपणा आणि न्याय शेवटी महत्त्वाचे आहेत. त्याच वेळी, अनेकांनी लक्षात घेतले आहे की दृष्टांत काय सोडून देतो. जाळे आधी सर्वांना गोळा करते, आणि माशांना एकमेकांची निवड करायला सांगितले जात नाही. अनेक वाचक याचा अर्थ असा घेतात की विश्वासणार्यांचा समाज नेहमी मिश्र असेल, आणि अंतिम निवड करणे आपल्या हाती नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Wide welcome, honest ending",
+    "hi": {
+     "text": "व्यापक स्वागत, ईमानदार अंत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "व्यापक स्वागत, प्रामाणिक शेवट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Two things are held together in this short parable. One is the open, generous reach of the net, which gathers fish of every kind. The other is the sober fact that choices have consequences, and that in the end what is good will be told apart from what is not. Neither cancels the other, and the story holds them in the same breath.\n\nFor a reader of any faith, it may be a reminder to be generous in our welcome and humble in our verdicts. We do not know what the whole catch looks like, and we are not the fishermen on the beach. Our task is to live well and let the net do its wide work, taking care not to mistake our own opinions for the final and fair sorting that the story describes.",
+    "hi": {
+     "text": "इस छोटे दृष्टांत में दो बातें एक साथ धरी गई हैं। एक है जाल की खुली, उदार पहुँच, जो हर तरह की मछलियाँ बटोरता है। दूसरी है गंभीर वास्तविकता कि चुनावों के परिणाम होते हैं, और अंत में जो भला है उसे जो भला नहीं है उससे अलग किया जाएगा। कोई एक दूसरे को रद्द नहीं करता, और कहानी दोनों को एक ही साँस में धरती है।\n\nकिसी भी धर्म के पाठक के लिए यह याद दिलाने वाला हो सकता है कि हम अपने स्वागत में उदार रहें और अपने निर्णयों में विनम्र। हम नहीं जानते कि पूरा ढेर कैसा है, और हम किनारे पर बैठे मछुआरे नहीं हैं। हमारा काम है अच्छा जीवन जीना और जाल को उसका व्यापक काम करने देना, और सावधान रहना कि हम अपने विचारों को उस अंतिम और न्यायपूर्ण छँटाई के साथ न भ्रमित कर दें जिसका वर्णन यह कहानी करती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या छोट्या दृष्टांतात दोन गोष्टी एकत्र धरलेल्या आहेत. एक म्हणजे जाळ्याची खुली, उदार पोहोच, जी सर्व प्रकारचे मासे गोळा करते. दुसरी म्हणजे कठोर वास्तव की निवडींचे परिणाम होतात, आणि शेवटी जे चांगले आहे ते जे चांगले नाही त्यापासून वेगळे केले जाईल. यातील कोणतीही गोष्ट दुसरीला रद्द करत नाही, आणि कथा दोन्हींना एकाच श्वासात धरते.\n\nकोणत्याही धर्माच्या वाचकासाठी हे आठवण करून देणारे असू शकते की आपण आपल्या स्वागतात उदार आणि आपल्या निर्णयांत नम्र असावे. संपूर्ण साठा कसा आहे हे आपल्याला माहीत नाही, आणि आपण किनार्यावरचे मच्छिमार नाही. आपले काम आहे चांगले जगणे आणि जाळ्याला त्याचे व्यापक काम करू देणे, आणि कथा वर्णन करते त्या अंतिम आणि न्याय्य निवडीशी आपली स्वतःची मते गोंधळू न देण्याची काळजी घेणे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "the Kingdom of Heaven is like a dragnet that was cast into the sea and gathered some fish of every kind",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 13:47 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 13:47 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 13:47 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "The net of the Kingdom reaches widely and gathers all kinds of people before any sorting takes place.",
+   "hi": {
+    "text": "राज्य का जाल व्यापक रूप से पहुँचता है और किसी भी छँटाई से पहले हर तरह के लोगों को बटोरता है।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "राज्याचे जाळे व्यापकपणे पोहोचते आणि कोणतीही निवड होण्याआधी सर्व प्रकारच्या लोकांना गोळा करते.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "Where in your life are you quick to sort people into good and bad? What would it be like to leave that sorting alone for a while and simply welcome?",
+  "hi": {
+   "text": "तुम कहाँ लोगों को जल्दी से अच्छे और बुरे में बाँट देते हो? कुछ समय के लिए उस छँटाई को छोड़कर केवल स्वागत करना कैसा होगा?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही कुठे लोकांना पटकन चांगले आणि वाईट अशा गटांत टाकता? काही काळ ती निवड बाजूला ठेवून फक्त स्वागत करणे कसे वाटेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The invitation is wide and takes in people of every kind; the final sorting is not ours to do.",
+  "hi": {
+   "text": "निमंत्रण व्यापक है और हर तरह के लोगों को अपनाता है; अंतिम छँटाई हमारा काम नहीं है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आमंत्रण व्यापक आहे आणि सर्व प्रकारच्या लोकांना सामावून घेते; अंतिम निवड करणे आपले काम नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 13:47-50; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 13:47-50 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 13:47-50 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}

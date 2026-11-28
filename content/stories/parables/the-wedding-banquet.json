@@ -1,0 +1,243 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "the-wedding-banquet",
+ "order": 14,
+ "part": "matthew",
+ "figure": {
+  "en": "Jesus",
+  "hi": {
+   "text": "यीशु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "यीशू",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Wedding Banquet",
+  "hi": {
+   "text": "विवाह-भोज",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लग्नाचे भोजन",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A king's wedding feast is ready, the invited guests will not come, and the doors are opened to everyone.",
+  "hi": {
+   "text": "राजा के बेटे का विवाह-भोज तैयार है, आमंत्रित अतिथि नहीं आते, और दरवाज़े सबके लिए खोल दिए जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजाच्या मुलाचा लग्नसोहळा तयार आहे, आमंत्रित पाहुणे येत नाहीत, आणि दरवाजे सर्वांसाठी उघडले जातात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/parables/p-wedding-franck.webp",
+   "w": 1200,
+   "h": 942,
+   "caption": {
+    "en": "The wedding feast, print by Ambrosius Francken (1585)",
+    "hi": {
+     "text": "विवाह-भोज, आम्ब्रोसियस फ़्रांकेन का उत्कीर्णन (1585)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लग्नाचे भोजन, आम्ब्रोसियस फ्रांकेन यांचे कोरीवकाम (1585)",
+     "reviewed": false
+    }
+   },
+   "credit": "Ambrosius Francken I, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_parable_of_the_wedding_banquet_1585_print_by_Ambrosius_Francken_I,_S.I_1026,_Prints_Department,_Royal_Library_of_Belgium.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The third story in the Temple",
+    "hi": {
+     "text": "मंदिर में तीसरी कहानी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मंदिरातील तिसरी गोष्ट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Matthew places this parable still in the Temple in Jerusalem, in the last days before the arrest of Jesus. It follows the stories of the two sons and the wicked tenants, and Jesus is still speaking to the chief priests and Pharisees who had challenged him. The Gospel says he answered them again in parables, as if the conversation were one long argument carried on in pictures.\n\nThis one begins, as many of his stories do, with the Kingdom of Heaven, the rule of God he taught was coming near. His picture is of a wedding feast, the greatest celebration in village life, an occasion where the whole community eats and rejoices. For a king's son it would be an event of the highest honour, and a refusal to attend would be a grave insult.",
+    "hi": {
+     "text": "मत्ती इस दृष्टांत को भी यरूशलेम के मंदिर में ही रखते हैं, यीशु की गिरफ़्तारी से पहले के अंतिम दिनों में। यह दो बेटों और दुष्ट किसानों की कहानियों के बाद आता है, और यीशु अब भी उन प्रधान याजकों और फरीसियों से बात कर रहे हैं जिन्होंने उन्हें चुनौती दी थी। सुसमाचार कहता है कि उन्होंने फिर से दृष्टांतों में उत्तर दिया, मानो यह बातचीत चित्रों में चलने वाली एक लंबी बहस हो।\n\nयह दृष्टांत, जैसे उनकी कई कहानियाँ, स्वर्ग के राज्य से शुरू होता है, उस परमेश्वर के शासन से जो निकट आ रहा है, ऐसा उन्होंने सिखाया। उनका चित्र एक विवाह-भोज का है, गाँव के जीवन का सबसे बड़ा उत्सव, जब पूरा समुदाय मिलकर खाता और आनंद मनाता है। एक राजा के पुत्र के लिए यह सम्मान का सबसे ऊँचा अवसर होगा, और उसमें न आना गंभीर अपमान होगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मत्ती हा दृष्टांत अजूनही यरूशलेमच्या मंदिरातच ठेवतात, यीशूच्या अटकेपूर्वीच्या शेवटच्या दिवसांत. तो दोन पुत्रांच्या आणि दुष्ट कुळवाड्यांच्या गोष्टींनंतर येतो, आणि यीशू अजूनही त्या मुख्य याजकांशी आणि फरीसींशी बोलत आहेत ज्यांनी त्यांना आव्हान दिले होते. शुभवर्तमान सांगते की त्यांनी पुन्हा दृष्टांतांत उत्तर दिले, जणू हा संवाद चित्रांमधील एक लांब वादविवाद होता.\n\nहा दृष्टांत, त्यांच्या अनेक गोष्टींप्रमाणे, स्वर्गाच्या राज्यापासून सुरू होतो, ज्या देवाच्या सत्तेचा ते शिकवण देत होते की जवळ येत आहे. त्यांचे चित्र लग्नाच्या मेजवानीचे आहे, गावातील जीवनातील सर्वात मोठा उत्सव, जेव्हा संपूर्ण समाज एकत्र जेवतो आणि आनंद करतो. राजाच्या पुत्रासाठी हा सन्मानाचा सर्वोच्च प्रसंग असेल, आणि त्याला न जाणे हा गंभीर अपमान असेल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Those who would not come",
+    "hi": {
+     "text": "जो आना नहीं चाहते थे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्यांना यायचे नव्हते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "A king prepares a wedding feast for his son, and sends servants to call those who had been invited. They will not come. The king tries again, sending other servants with a more urgent message, telling them to say that the dinner is prepared, the oxen and fattened animals are killed, and everything is ready.\n\nBut the invited guests make light of it. One goes off to his farm, another to his business. The rest seize the servants, mistreat them and kill them. In the story the king is outraged, sends his troops to destroy those murderers and burns their city. The violence is sudden, and the Gospel does not soften it. Many scholars read it as a reflection of the destruction of Jerusalem that Matthew's first readers had lived through. The rejection is described in escalating stages, so that the reader sees how far the guests have drifted from their first welcome.",
+    "hi": {
+     "text": "एक राजा अपने पुत्र के लिए विवाह-भोज तैयार करता है, और आमंत्रित लोगों को बुलाने के लिए सेवक भेजता है। वे नहीं आते। राजा फिर प्रयास करता है, और दूसरे सेवकों को अधिक तात्कालिक संदेश के साथ भेजता है, और कहने को कहता है कि भोज तैयार है, बैल और पले हुए पशु कटे हैं, और सब कुछ तैयार है।\n\nपर आमंत्रित अतिथि इसे हल्के में लेते हैं। एक अपने खेत पर चला जाता है, दूसरा अपने व्यापार पर। बाकी सेवकों को पकड़कर उनके साथ दुर्व्यवहार करते हैं और उन्हें मार डालते हैं। कहानी में राजा क्रोधित होता है, अपनी सेना भेजकर उन हत्यारों को नष्ट करवाता है और उनका नगर जला देता है। हिंसा अचानक है, और शुभवर्तमान उसे नरम नहीं करता। कई विद्वान इसे मत्ती के पहले पाठकों द्वारा झेले गए यरूशलेम के विनाश का प्रतिबिंब मानते हैं। अस्वीकार को बढ़ते चरणों में वर्णित किया गया है, ताकि पाठक देख सके कि अतिथि अपने पहले स्वागत से कितनी दूर भटक गए हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक राजा आपल्या पुत्रासाठी लग्नाची मेजवानी तयार करतो, आणि आमंत्रित लोकांना बोलावण्यासाठी सेवक पाठवतो. ते येत नाहीत. राजा पुन्हा प्रयत्न करतो, आणि दुसर्या सेवकांना अधिक तातडीचा निरोप देऊन पाठवतो, आणि सांगायला सांगतो की जेवण तयार आहे, बैल आणि पुष्ट जनावरे कापली आहेत, आणि सर्व काही तयार आहे.\n\nपण आमंत्रित पाहुणे त्याला हलक्यात घेतात. एक आपल्या शेतावर निघून जातो, दुसरा आपल्या व्यापारावर. उरलेले सेवकांना धरून त्यांचा अपमान करतात आणि त्यांना ठार मारतात. कथेत राजा संतप्त होतो, आपले सैन्य पाठवून त्या खुन्यांचा नाश करवतो आणि त्यांचे नगर जाळतो. हिंसा अचानक आहे, आणि शुभवर्तमान ती सौम्य करत नाही. अनेक विद्वान हे मत्तीच्या पहिल्या वाचकांनी भोगलेल्या यरूशलेमच्या विनाशाचे प्रतिबिंब मानतात. नकाराचे वर्णन वाढत्या टप्प्यांत केले आहे, जेणेकरून वाचकाला दिसते की पाहुणे त्यांच्या पहिल्या स्वागतापासून किती दूर गेले आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The highways",
+    "hi": {
+     "text": "राजमार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजमार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king then says to his servants that the wedding is ready, but those who were invited were not worthy. Go to the main roads, he tells them, and invite to the feast as many as you find. The servants go out and gather everyone they meet, bad and good alike, and the hall is filled with guests.\n\nThis is the great turn of the story. The feast was never meant to be empty, and when the first guests refuse, the doors are opened wide. The picture is one of astonishing welcome, in which anyone on the road, whoever they are and whatever they have done, receives an invitation from the king. Christians have read this as a statement that the Kingdom is open to all. The feast, we learn, is more important than the guest list, and it will go ahead whoever comes.",
+    "hi": {
+     "text": "फिर राजा अपने सेवकों से कहता है कि विवाह तैयार है, पर जो आमंत्रित थे वे योग्य नहीं निकले। मुख्य सड़कों पर जाओ, वह उनसे कहता है, और जितने भी मिलें उन्हें भोज में बुलाओ। सेवक बाहर जाते हैं और जितने भी लोग मिलते हैं, अच्छे और बुरे सबको इकट्ठा करते हैं, और भवन अतिथियों से भर जाता है।\n\nयह कहानी का महान मोड़ है। यह भोज कभी खाली रहने के लिए नहीं था, और जब पहले अतिथि इनकार करते हैं, तो द्वार चौड़े खोल दिए जाते हैं। चित्र अद्भुत स्वागत का है, जिसमें सड़क पर चलने वाला कोई भी व्यक्ति, वह कोई भी हो और उसने कुछ भी किया हो, राजा का निमंत्रण पाता है। ईसाइयों ने इसे इस कथन के रूप में पढ़ा है कि राज्य सबके लिए खुला है। भोज, हम सीखते हैं, अतिथि सूची से अधिक महत्वपूर्ण है, और वह आगे बढ़ेगा चाहे कोई भी आए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग राजा आपल्या सेवकांना सांगतो की लग्न तयार आहे, पण ज्यांना बोलावले होते ते योग्य नव्हते. मुख्य रस्त्यांवर जा, तो त्यांना सांगतो, आणि जितके लोक सापडतील त्या सर्वांना मेजवानीला बोलवा. सेवक बाहेर जातात आणि जे भेटतील त्या सर्वांना, चांगले आणि वाईट दोघांनाही, एकत्र करतात, आणि सभागृह पाहुण्यांनी भरते.\n\nहा कथेचा मोठा वळण बिंदू आहे. ही मेजवानी कधीही रिकामी राहण्यासाठी नव्हती, आणि पहिले पाहुणे नकार देतात तेव्हा दरवाजे रुंद उघडले जातात. चित्र एका अद्भुत स्वागताचे आहे, ज्यात रस्त्यावर कोणीही, तो कोणीही असो आणि त्याने काहीही केलेले असो, राजाचे निमंत्रण मिळवतो. ख्रिस्ती लोकांनी याला हे विधान मानले आहे की राज्य सर्वांसाठी खुले आहे. मेजवानी, आपण शिकतो, पाहुण्यांच्या यादीपेक्षा अधिक महत्त्वाची आहे आणि कोणीही आले तरी ती पुढे जाईल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The guest without a wedding garment",
+    "hi": {
+     "text": "वह अतिथि जिसने विवाह-वस्त्र नहीं पहने थे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्याने लग्नाची वस्त्रे घातली नव्हती तो पाहुणा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The story has a puzzling final scene. The king comes in to see the guests and notices a man who is not wearing wedding clothes. Friend, he asks, how did you come in here without wedding clothing? The man is speechless. The king tells the servants to bind him hand and foot and cast him into the outer darkness.\n\nThis ending has been debated for centuries. Many readers take the garment to stand for a changed way of living, a sincere response to the invitation, since it is not enough merely to arrive. Others note that in the story the guests were gathered suddenly from the road, and that the point is about taking the king's honour seriously. Jesus closes with the saying that many are called, but few are chosen. The final scene is a sober one, and it has made many people think hard about what it means to answer an invitation fully.",
+    "hi": {
+     "text": "कहानी का एक उलझाने वाला अंतिम दृश्य है। राजा अतिथियों को देखने आता है, और एक ऐसे व्यक्ति को देखता है जिसने विवाह-वस्त्र नहीं पहने हैं। मित्र, वह पूछता है, तू बिना विवाह-वस्त्र के यहाँ कैसे आ गया? वह व्यक्ति निरुत्तर रह जाता है। राजा सेवकों को आज्ञा देता है कि उसके हाथ-पैर बाँधकर उसे बाहर के अंधकार में फेंक दो।\n\nइस अंत पर सदियों से बहस होती आई है। कई पाठक वस्त्र को जीवन में आए बदलाव का प्रतीक मानते हैं, निमंत्रण के प्रति एक सच्चे उत्तर का, क्योंकि केवल पहुँच जाना पर्याप्त नहीं। कुछ अन्य ध्यान दिलाते हैं कि कहानी में अतिथि अचानक मार्ग से इकट्ठे किए गए थे, और मुद्दा राजा के सम्मान को गंभीरता से लेने का है। यीशु का समापन वाक्य है कि बहुत बुलाए जाते हैं, पर थोड़े चुने जाते हैं। अंतिम दृश्य गंभीर है, और इसने कई लोगों को सोचने पर विवश किया है कि निमंत्रण का पूरी तरह उत्तर देने का क्या अर्थ है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथेचा एक गोंधळात टाकणारा शेवटचा प्रसंग आहे. राजा पाहुण्यांना पाहायला आत येतो, आणि त्याला लग्नाची वस्त्रे न घातलेला एक माणूस दिसतो. मित्रा, तो विचारतो, लग्नाची वस्त्रे न घालता तू येथे कसा आलास? तो माणूस निरुत्तर होतो. राजा सेवकांना आज्ञा देतो की त्याचे हात-पाय बांधून त्याला बाहेरच्या अंधारात फेकून द्या.\n\nया शेवटावर शतकानुशतके वाद झाला आहे. अनेक वाचक वस्त्र हे जीवनात आलेल्या बदलाचे प्रतीक मानतात, निमंत्रणाला दिलेल्या खर्या प्रतिसादाचे, कारण केवळ पोहोचणे पुरेसे नाही. काही इतर लक्षात आणून देतात की कथेत पाहुणे अचानक रस्त्यावरून गोळा केले गेले होते, आणि मुद्दा राजाच्या सन्मानाला गंभीरपणे घेण्याचा आहे. यीशूचे समापन वाक्य आहे की पुष्कळ बोलावलेले असतात, पण थोडे निवडले जातात. अंतिम दृश्य गंभीर आहे, आणि त्याने अनेक लोकांना निमंत्रणाला पूर्णपणे उत्तर देणे म्हणजे काय याचा खोलवर विचार करायला लावला आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "An invitation to everyone",
+    "hi": {
+     "text": "सबके लिए निमंत्रण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सर्वांसाठी निमंत्रण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The heart of the parable is a welcome. A feast has been prepared, and it will not be wasted. When some who might have been expected to come decline because of their farms and their business, the invitation goes out to anyone willing to come. The story invites each of us to ask what might be keeping us from the table.\n\nIt is also a story that asks for a sincere answer. A banquet is not something to be passed through casually, since the celebration is for someone. People of any faith may see in this a gentle point about gratitude and respect. When we are invited into something generous, we are asked to come as ourselves and to take the occasion seriously, with a glad and ready heart. There is room at the table for anyone who is willing to come, and that is the gladdest part of the story.",
+    "hi": {
+     "text": "दृष्टांत का हृदय एक स्वागत है। एक भोज तैयार किया गया है, और वह व्यर्थ नहीं जाएगा। जब जो लोग आने की अपेक्षा थी वे अपने खेतों और व्यापारों के कारण इनकार करते हैं, तो निमंत्रण हर उस व्यक्ति के लिए जाता है जो आने को तैयार है। कहानी हम में से हर एक को पूछने के लिए आमंत्रित करती है कि हमें मेज़ से क्या रोक रहा है।\n\nयह एक ऐसी कहानी भी है जो एक ईमानदार उत्तर माँगती है। भोज कोई ऐसी चीज़ नहीं जिससे लापरवाही से गुज़र जाया जाए, क्योंकि उत्सव किसी के लिए होता है। किसी भी धर्म के लोग इसमें कृतज्ञता और सम्मान पर एक कोमल बिंदु देख सकते हैं। जब हमें किसी उदार चीज़ में आमंत्रित किया जाता है, तो हमसे अपेक्षा है कि हम स्वयं बनकर आएँ और अवसर को गंभीरता से लें, प्रसन्न और तैयार हृदय के साथ। मेज़ पर उस हर व्यक्ति के लिए जगह है जो आने को तैयार है, और यही कहानी का सबसे आनंदमय भाग है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दृष्टांताचे हृदय स्वागत आहे. एक मेजवानी तयार करण्यात आली आहे, आणि ती वाया जाणार नाही. ज्यांच्याकडून येण्याची अपेक्षा होती त्यांनी आपल्या शेतांमुळे आणि व्यापारांमुळे नकार दिला, तेव्हा निमंत्रण येण्यास तयार असलेल्या कोणालाही दिले जाते. कथा आपल्यातील प्रत्येकाला विचारायला आमंत्रित करते की आपल्याला मेजेपासून काय रोखत आहे.\n\nही एक अशी कथा आहे जी प्रामाणिक उत्तर मागते. मेजवानी ही निष्काळजीपणे पार करण्यासारखी गोष्ट नाही, कारण उत्सव कोणासाठी तरी असतो. कोणत्याही धर्माचे लोक यात कृतज्ञता आणि आदर याबद्दलचा एक सौम्य मुद्दा पाहू शकतात. जेव्हा आपल्याला एखाद्या उदार गोष्टीत बोलावले जाते, तेव्हा आपल्याकडून अपेक्षा असते की आपण स्वतः होऊन यावे आणि प्रसंगाला गंभीरपणे घ्यावे, आनंदी आणि तयार हृदयाने. मेजेवर जो कोणी येण्यास तयार आहे त्याच्यासाठी जागा आहे, आणि हाच कथेचा सर्वात आनंदी भाग आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "verse": {
+  "text": "Go therefore to the intersections of the highways, and as many as you may find, invite to the wedding feast.",
+  "lang": "en",
+  "cite": {
+   "en": "Matthew 22:9 (World English Bible)",
+   "hi": {
+    "text": "मत्ती 22:9 (वर्ल्ड इंग्लिश बाइबल)",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "मत्ती 22:9 (वर्ल्ड इंग्लिश बायबल)",
+    "reviewed": false
+   }
+  },
+  "meaning": {
+   "en": "When the first guests refuse, the king opens the feast to everyone who can be found.",
+   "hi": {
+    "text": "जब पहले अतिथि इनकार करते हैं, तो राजा भोज को उस हर व्यक्ति के लिए खोल देता है जो मिल सके।",
+    "reviewed": false
+   },
+   "mr": {
+    "text": "पहिले पाहुणे नकार देतात तेव्हा राजा मेजवानी सापडेल त्या प्रत्येकासाठी खुली करतो.",
+    "reviewed": false
+   }
+  }
+ },
+ "reflect": {
+  "en": "What keeps you from accepting a generous invitation, such as a farm to see to or business to attend? What might you find if you came to the table?",
+  "hi": {
+   "text": "कौन सी चीज़ तुम्हें एक उदार निमंत्रण स्वीकार करने से रोकती है, जैसे खेत देखना या व्यापार में जाना? यदि तुम मेज़ पर आते, तो तुम्हें क्या मिल सकता था?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्हाला उदार निमंत्रण स्वीकारण्यापासून काय रोखते, जसे शेत पाहायचे किंवा व्यवसायात जायचे? जर तुम्ही मेजेवर आलात तर काय सापडू शकेल?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The invitation is wide enough for anyone, and it asks for a sincere and glad response.",
+  "hi": {
+   "text": "निमंत्रण हर किसी के लिए पर्याप्त व्यापक है, और वह एक ईमानदार और प्रसन्न उत्तर माँगता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "निमंत्रण प्रत्येकासाठी पुरेसे व्यापक आहे, आणि ते प्रामाणिक आणि आनंदी प्रतिसाद मागते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "The Gospel of Matthew 22:1-14; retold in our own words. Quotation from the World English Bible (public domain)",
+  "hi": {
+   "text": "मत्ती 22:1-14 का सुसमाचार; हमारे अपने शब्दों में पुनः कहा गया। उद्धरण वर्ल्ड इंग्लिश बाइबल से (पब्लिक डोमेन)",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मत्ती 22:1-14 चे शुभवर्तमान; आमच्या स्वतःच्या शब्दांत पुन्हा सांगितले. उतारा वर्ल्ड इंग्लिश बायबलमधून (पब्लिक डोमेन)",
+   "reviewed": false
+  }
+ }
+}
