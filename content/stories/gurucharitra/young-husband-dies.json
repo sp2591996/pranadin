@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "young-husband-dies",
+ "order": 30,
+ "part": "karma",
+ "figure": {
+  "en": "Narasimha Saraswati, a young couple of Mahur and a sanyasi",
+  "hi": {
+   "text": "नृसिंह सरस्वती, माहुर का एक युवा दंपति और एक संन्यासी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती, माहूरचे एक तरुण दांपत्य आणि एक संन्यासी",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Pilgrimage That Ended in Grief",
+  "hi": {
+   "text": "वह तीर्थयात्रा जो शोक में समाप्त हुई",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शोकात संपलेली तीर्थयात्रा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A devoted wife takes her sick husband toward the Guru, and he dies on arrival. A sanyasi meets her on the road to despair.",
+  "hi": {
+   "text": "एक निष्ठावान पत्नी अपने बीमार पति को गुरु के पास ले जाती है, और पहुँचने पर पति की मृत्यु हो जाती है। एक संन्यासी निराशा की राह पर उससे मिलते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक निष्ठावान पत्नी आजारी पतीला गुरूंकडे घेऊन जाते, आणि पोहोचताच त्याचा मृत्यू होतो. निराशेच्या वाटेवर एक संन्यासी तिला भेटतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-renuka-mahur.webp",
+   "w": 887,
+   "h": 1100,
+   "caption": {
+    "en": "Renuka Devi temple, Mahur",
+    "hi": {
+     "text": "माहूर की रेणुका देवी मंदिर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "माहूरचे रेणुकादेवी मंदिर",
+     "reviewed": false
+    }
+   },
+   "credit": "V.narsikar, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Renukadevi_mahur.JPG"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A Rich Family of Mahur",
+    "hi": {
+     "text": "माहुर का समृद्ध परिवार",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "माहूरचे समृद्ध कुटुंब",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the town of Mahur lived a rich brahmin named Gopinath and his wife, both devoted to Dattatreya. They had a son, and he grew up, and they married him to a young woman. Their house was a happy one and their days were full.\n\nThen the young husband fell ill with consumption. The Gurucharitra speaks of illness as the people of that time understood it. We should read it only as a sorrow that came to a good family, and not as a judgement on anyone. Gopinath and his wife were devotees of Datta, and their son had been brought up in the same faith. The Gurucharitra gives no more of the family than this, and wants us to feel the ordinary happiness of a home before sorrow touched it, and the cruel contrast that follows when a young man falls ill in the middle of his life.",
+    "hi": {
+     "text": "माहुर नगर में गोपीनाथ नाम के एक धनी ब्राह्मण और उनकी पत्नी रहते थे, जो दोनों दत्तात्रेय के भक्त थे। उनके एक पुत्र था, वह बड़ा हुआ, और उन्होंने उसका विवाह एक युवती से कर दिया। उनका घर सुखी था और दिन भरे-पूरे थे।\n\nफिर युवा पति क्षय रोग से बीमार पड़ गया। श्री गुरुचरित्र रोग की उस समझ के साथ बात करता है जो उस समय के लोगों में थी। हमें इसे केवल एक ऐसे अच्छे परिवार पर आए दुःख के रूप में पढ़ना चाहिए, किसी के भी विषय में निर्णय के रूप में नहीं। गोपीनाथ और उनकी पत्नी दत्त के उपासक थे, और उनके पुत्र का पालन उसी आस्था में हुआ था। श्री गुरुचरित्र परिवार के विषय में इतना ही देता है, और चाहता है कि हम दुःख छूने से पहले घर के साधारण सुख को महसूस करें, और फिर जब एक युवा पुरुष अपने जीवन के बीच में बीमार पड़ता है, तो उस क्रूर विरोधाभास को भी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "माहूर नगरात गोपीनाथ नावाचे एक धनी ब्राह्मण आणि त्यांची पत्नी राहत होते, जे दोघे दत्तात्रेयांचे भक्त होते. त्यांना एक मुलगा होता, तो मोठा झाला, आणि त्यांनी त्याचे लग्न एका तरुणीशी लावून दिले. त्यांचे घर सुखी होते आणि दिवस भरलेले होते.\n\nमग तरुण पती क्षयरोगाने आजारी पडला. श्री गुरुचरित्र त्या काळच्या लोकांना समजलेल्या स्वरूपात आजाराविषयी बोलते. आपण ते केवळ एका चांगल्या कुटुंबावर आलेले दुःख म्हणून वाचले पाहिजे, कोणाविषयीच्या निर्णयाच्या रूपात नव्हे. गोपीनाथ आणि त्यांची पत्नी दत्ताचे उपासक होते, आणि त्यांच्या मुलाचे संगोपनही त्याच श्रद्धेत झाले होते. श्री गुरुचरित्र कुटुंबाविषयी एवढेच देते, आणि दुःख स्पर्शण्यापूर्वीचा घरातला साधा आनंद आपण अनुभवावा अशी इच्छा ठेवते, आणि मग जेव्हा एक तरुण पुरुष आयुष्याच्या मध्यावर आजारी पडतो, तेव्हा येणारा क्रूर विरोधाभासही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Faithful Wife",
+    "hi": {
+     "text": "निष्ठावान पत्नी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "निष्ठावान पत्नी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "His young wife nursed him with total devotion. She shared his food and his medicine, set aside her fine clothes, and sat by his bed through the night.\n\nThe family performed rituals and gave charity, but he grew worse. At last the wife went to her in-laws and asked them to take him to the Guru at Ganagapur. They agreed, and the whole family began the journey. She slept little, and the family watched her tending him as a mother tends a child. The Siddha mentions all this to show that she did all that could be asked of her, and more, before the thought of the Guru came to her. The story honours her care, and it is a quiet picture of love in the face of a long illness.",
+    "hi": {
+     "text": "उसकी युवा पत्नी ने पूरी निष्ठा से उसकी सेवा की। उसने उसका भोजन और औषधि साझा की, अपने सुंदर वस्त्र एक ओर रख दिए, और रात भर उसकी शय्या के पास बैठी रही।\n\nपरिवार ने अनुष्ठान किए और दान दिया, पर वह और बिगड़ता गया। अंत में पत्नी अपने ससुराल वालों के पास गई और उनसे विनती की कि वे उसे गाणगापुर में गुरु के पास ले चलें। वे मान गए, और पूरा परिवार यात्रा पर निकल पड़ा। वह बहुत कम सोती थी, और परिवार उसे एक माता की तरह बच्चे की सेवा करते देखता था। सिद्ध यह सब इसलिए बताते हैं कि यह दिखाएँ कि गुरु का विचार आने से पहले ही उसने वह सब किया जो उससे माँगा जा सकता था, और उससे भी अधिक। कथा उसकी सेवा का सम्मान करती है, और यह लंबी बीमारी के सामने प्रेम का एक शांत चित्र है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिच्या तरुण पत्नीने पूर्ण निष्ठेने त्याची सेवा केली. तिने त्याचे अन्न आणि औषध वाटून घेतले, आपली सुंदर वस्त्रे बाजूला ठेवली, आणि रात्रभर त्याच्या पलंगाजवळ बसली.\n\nकुटुंबाने अनुष्ठाने केली आणि दान दिले, पण तो अधिक खालावत गेला. शेवटी पत्नी सासरच्या माणसांकडे गेली आणि त्यांना विनंती केली की त्याला गाणगापूरला गुरूंकडे घेऊन जावे. त्यांनी होकार दिला आणि संपूर्ण कुटुंब प्रवासाला निघाले. ती फार थोडे झोपली, आणि कुटुंब तिला आई मुलाची काळजी घेते तशी त्याची काळजी घेताना पाहत होते. सिद्ध हे सर्व सांगतात हे दाखवण्यासाठी की गुरूंचा विचार येण्याआधीच तिने जे शक्य होते ते, आणि त्याहूनही अधिक, केले होते. कथा तिच्या सेवेचा सन्मान करते, आणि दीर्घ आजारापुढे प्रेमाचे हे शांत चित्र आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "On the Road",
+    "hi": {
+     "text": "मार्ग पर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वाटेवर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The road to Ganagapur was long. As they travelled, the young man's strength failed further. Each day he was thinner and quieter, and his wife walked beside the litter, speaking softly to him.\n\nThey did not turn back. They kept going, in the hope that the Guru, who had healed so many, would heal him too. The road was dusty and the days were long, and his parents walked in silence, afraid to speak their thoughts. Each evening the hope of reaching Ganagapur kept them walking one more day, and the wife stayed close to her husband through all of it. They did not turn back, in the hope that the Guru would heal him, and the road to Ganagapur became the longest of their lives. The Gurucharitra does not say how many days it took, only that the family went on together toward a teacher they trusted.",
+    "hi": {
+     "text": "गाणगापुर की राह लंबी थी। यात्रा के दौरान युवक की शक्ति और घटती गई। हर दिन वह और दुबला और शांत होता गया, और उसकी पत्नी डोली के साथ चलती, धीरे-धीरे उससे बात करती।\n\nवे लौटे नहीं। वे इस आशा में आगे बढ़ते रहे कि गुरु, जिन्होंने इतनों को स्वस्थ किया, उसे भी स्वस्थ कर देंगे। राह धूल भरी थी और दिन लंबे थे, और माता-पिता चुपचाप चलते रहे, अपने विचार कहने से डरते हुए। हर संध्या गाणगापुर पहुँचने की आशा उन्हें एक दिन और चलने की शक्ति देती, और पत्नी इस सब में अपने पति के निकट रही। वे इस आशा में लौटे नहीं कि गुरु उसे स्वस्थ कर देंगे, और गाणगापुर की राह उनके जीवन की सबसे लंबी राह बन गई। श्री गुरुचरित्र नहीं बताता कि इसमें कितने दिन लगे, केवल इतना कि परिवार एक ऐसे गुरु की ओर साथ चलता रहा जिन पर उसे विश्वास था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाणगापूरची वाट लांब होती. प्रवासात तरुण माणसाची शक्ती आणखी कमी होत गेली. दररोज तो अधिकाधिक बारीक आणि शांत होत गेला, आणि त्याची पत्नी पालखीजवळ चालत राहिली, हळूच त्याच्याशी बोलत.\n\nते मागे फिरले नाहीत. गुरू, ज्यांनी इतकांना बरे केले होते, तेच त्यालाही बरे करतील या आशेने ते पुढे चालत राहिले. वाट धुळीची होती आणि दिवस लांब होते, आणि आई-वडील मौन चालत राहिले, आपले विचार बोलायला घाबरत. दर संध्याकाळी गाणगापूर गाठण्याच्या आशेने त्यांना आणखी एक दिवस चालायला बळ मिळे, आणि पत्नी या सर्वात पतीच्या जवळ राहिली. गुरू त्याला बरे करतील या आशेने ते परत फिरले नाहीत, आणि गाणगापूरची वाट त्यांच्या आयुष्यातील सर्वात लांब वाट ठरली. श्री गुरुचरित्र सांगत नाही की त्यासाठी किती दिवस लागले, फक्त इतके की कुटुंब ज्या गुरूंवर विश्वास होता त्यांच्याकडे एकत्र चालत राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Arrival and Loss",
+    "hi": {
+     "text": "आगमन और हानि",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आगमन आणि हानी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They reached Ganagapur. But the young man died on arrival, within sight of the place they had sought. The journey was over, and so was his life.\n\nHis wife was overcome. She blamed herself, believing that she had not brought him in time, though she had done everything a person could. In her grief she decided that she would go to the pyre with him, as widows of that age sometimes did. The family had pictured a different ending: the sick man brought before the Guru, a blessing, a recovery. Instead there was only a still figure on a litter and a wife who sank to the ground. The elders tried to speak, and could not. The weight of what had happened pressed on all of them, and the young woman most of all.",
+    "hi": {
+     "text": "वे गाणगापुर पहुँचे। पर युवक वहाँ पहुँचते ही मर गया, उस स्थान के दिखते-दिखते जिसकी उन्हें खोज थी। यात्रा समाप्त हो गई, और उसका जीवन भी।\n\nउसकी पत्नी अभिभूत हो गई। उसने स्वयं को दोषी ठहराया, यह मानते हुए कि वह उसे समय पर नहीं ला सकी, यद्यपि उसने वह सब किया था जो एक व्यक्ति कर सकता है। अपने शोक में उसने निश्चय किया कि वह भी उसके साथ चिता पर जाएगी, जैसा उस युग में कुछ विधवाएँ करती थीं। परिवार ने एक और अंत की कल्पना की थी: बीमार व्यक्ति गुरु के सामने लाया जाए, आशीर्वाद मिले, स्वास्थ्य लौटे। इसके बजाय डोली पर एक निश्चल आकृति थी, और एक पत्नी जो भूमि पर बैठ गई थी। बड़े-बूढ़े बोलने का प्रयास कर रहे थे, पर बोल नहीं पा रहे थे। जो घटा था उसका भार सब पर पड़ा था, और उस युवा स्त्री पर सबसे अधिक।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते गाणगापूरला पोहोचले. पण ज्या ठिकाणाचा शोध घेत ते आले होते, त्याच्या दृष्टीपथात येताच तरुण माणसाचा मृत्यू झाला. प्रवास संपला, आणि त्याचे जीवनही.\n\nत्याची पत्नी कोसळली. तिने स्वतःला दोष दिला, की ती त्याला वेळेत आणू शकली नाही, जरी एका माणसाने जे करता येते ते सर्व तिने केले होते. आपल्या दुःखात तिने ठरवले की ती त्याच्याबरोबर चितेवर जाईल, जसे त्या काळात काही विधवा करत. कुटुंबाने वेगळ्या शेवटाची कल्पना केली होती: आजारी माणसाला गुरूंसमोर आणले जाईल, आशीर्वाद मिळेल, आरोग्य परत येईल. त्याऐवजी डोलीवर एक स्तब्ध आकृती होती, आणि एक पत्नी जी जमिनीवर कोसळली होती. वडील मंडळी बोलण्याचा प्रयत्न करत होती, पण बोलू शकत नव्हती. जे घडले त्याचे ओझे सर्वांवर पडले होते, आणि त्या तरुण स्त्रीवर सर्वाधिक.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Sanyasi Arrives",
+    "hi": {
+     "text": "एक संन्यासी आते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक संन्यासी येतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At this moment a sanyasi arrived. He was radiant, marked with ash and rudraksha, and he sat down near the grieving young woman and began to speak to her. He told her that life is transient, like logs carried on a flood, or like birds that gather on a single tree and then fly apart.\n\nThe Siddha says that he will tell what the sanyasi said next. The chapter ends with the young wife listening, still weeping, as the stranger spoke to her with great gentleness. He spoke softly and did not hurry, and his words, as the Siddha recalls them, were not about her husband alone but about the nature of life itself. She listened with her face in her hands. Whether or not the words reached her yet, the sound of a calm voice was something to hold on to in the night.",
+    "hi": {
+     "text": "उसी क्षण एक संन्यासी आए। वे तेजस्वी थे, उन पर भस्म और रुद्राक्ष थे, और वे शोकग्रस्त युवा स्त्री के पास बैठकर उससे बात करने लगे। उन्होंने उससे कहा कि जीवन क्षणभंगुर है, जैसे बाढ़ में बहती लकड़ियाँ, या जैसे पक्षी एक ही वृक्ष पर एकत्र होकर फिर उड़ जाते हैं।\n\nसिद्ध कहते हैं कि संन्यासी ने आगे जो कहा, वह वे बताएँगे। अध्याय उस युवा पत्नी के सुनने पर समाप्त होता है, जो अब भी रो रही थी, जब अपरिचित व्यक्ति उससे बड़ी कोमलता से बात कर रहे थे। वे धीरे बोले और जल्दी नहीं की, और उनके शब्द, जैसा सिद्ध स्मरण करते हैं, केवल उसके पति के विषय में नहीं थे, बल्कि स्वयं जीवन के स्वभाव के विषय में थे। वह मुँह हाथों में छिपाए सुनती रही। शब्द उस तक पहुँचे या नहीं, रात में एक शांत स्वर की ध्वनि थाम लेने योग्य थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्याच क्षणी एक संन्यासी आले. ते तेजस्वी होते, त्यांच्या अंगावर भस्म आणि रुद्राक्ष होते, आणि त्यांनी शोकग्रस्त तरुण स्त्रीजवळ बसून तिच्याशी बोलायला सुरुवात केली. त्यांनी तिला सांगितले की जीवन क्षणभंगुर आहे, पुराच्या पाण्यात वाहून जाणाऱ्या ओंडक्यांसारखे, किंवा एका झाडावर जमून मग उडून जाणाऱ्या पक्ष्यांसारखे.\n\nसिद्ध म्हणतात की संन्याशांनी पुढे काय सांगितले ते ते सांगतील. अध्याय त्या तरुण पत्नीच्या ऐकण्यावर संपतो, जी अजूनही रडत होती, जेव्हा तो अनोळखी माणूस तिच्याशी अत्यंत कोमलतेने बोलत होता. ते हळू बोलले आणि घाई केली नाही, आणि त्यांचे शब्द, सिद्ध आठवतात तसे, केवळ तिच्या पतीविषयी नव्हते, तर स्वतः जीवनाच्या स्वभावाविषयी होते. ती तोंड हातांत लपवून ऐकत राहिली. शब्द तिच्यापर्यंत पोहोचले की नाही, रात्री एका शांत आवाजाची साथ धरून राहण्यासारखी होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Who in your life is carrying a loss silently? Sit with them without trying to fix anything.",
+  "hi": {
+   "text": "आपके जीवन में कौन चुपचाप कोई हानि ढो रहा है? उनके पास बैठिए, कुछ ठीक करने का प्रयास किए बिना।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या आयुष्यात कोण शांतपणे एक हानी वाहत आहे? त्यांच्याजवळ बसा, काहीही दुरुस्त करण्याचा प्रयत्न न करता.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Even love that does everything right may meet loss, and the one who sits beside the grieving is already doing holy work.",
+  "hi": {
+   "text": "जो प्रेम सब कुछ सही करता है, उसे भी हानि मिल सकती है, और जो शोकग्रस्त के पास बैठता है, वह पहले से पवित्र कार्य कर रहा है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जे प्रेम सर्व काही बरोबर करते, त्यालाही हानी भेटू शकते, आणि जो शोकग्रस्ताच्या शेजारी बसतो तो आधीच पवित्र कार्य करत असतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 30; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 30; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 30; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "dull-boy-and-the-goddess",
+ "order": 17,
+ "part": "jnana",
+ "figure": {
+  "en": "The Guru and a dull boy of Kavir",
+  "hi": {
+   "text": "गुरु और कवीर का एक मंद बालक",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरू आणि कवीरचा एक मंद मुलगा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Boy Who Offered His Tongue",
+  "hi": {
+   "text": "वह बालक जिसने अपनी जीभ अर्पित की",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याने आपली जीभ अर्पण केली तो मुलगा",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A boy mocked for dullness sacrifices what he has left, and receives it all back.",
+  "hi": {
+   "text": "उपहास सहता एक बालक जो शेष बचा है वही अर्पित कर देता है, और सब कुछ लौटकर पाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "मंदपणाबद्दल उपहास सहन करणारा एक मुलगा त्याच्याकडे उरलेले अर्पण करतो, आणि सर्वकाही परत मिळवतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-triplets.webp",
+   "w": 657,
+   "h": 630,
+   "caption": {
+    "en": "Anasuya and the three sons (Ravi Varma)",
+    "hi": {
+     "text": "अनसूया और तीन पुत्र (रवि वर्मा)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अनसूया आणि तीन पुत्र (रवि वर्मा)",
+     "reviewed": false
+    }
+   },
+   "credit": "Raja Ravi Varma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Triplets_2.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Why the Guru Hides",
+    "hi": {
+     "text": "गुरु क्यों छिपते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू का लपतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Namdharak asked why the Guru lived so secretly, and even begged for his food. The Siddha explained that the Guru travelled to protect his devotees, but that people’s trivial demands, a coin here and a trifle there, drove him into hiding. Yet his glow could not be hidden, and those who needed him found him anyway.\n\nThe story that followed began with someone who was not looking for a teacher at all, but for a way to end his shame: a boy from the town of Kavir. The Siddha told it slowly, and he wanted Namdharak to feel the boy’s despair before he heard of the boy’s rescue. The Guru’s hiding was not rejection; it was a way of keeping his time for those who truly needed him. The Siddha had explained that the Guru roamed to protect his devotees, and that even so his glow could not be hidden from those in real need.",
+    "hi": {
+     "text": "नामधारक ने पूछा कि गुरु इतने गुप्त रूप से क्यों रहते हैं, और भिक्षा के लिए भी माँगते हैं। सिद्ध ने समझाया कि गुरु अपने भक्तों की रक्षा के लिए यात्रा करते हैं, पर लोगों की छोटी-छोटी माँगें, यहाँ एक सिक्का, वहाँ कोई तुच्छ वस्तु, उन्हें छिपने को विवश कर देती हैं। फिर भी उनका तेज छिप नहीं सकता, और जिन्हें उनकी आवश्यकता थी, वे उन्हें खोज ही लेते थे।\n\nजो कथा आगे आई, वह एक ऐसे व्यक्ति से आरंभ होती है जो गुरु को खोज नहीं रहा था, बल्कि अपनी लज्जा का अंत खोज रहा था: कवीर नगर का एक बालक। सिद्ध ने उसे धीरे-धीरे सुनाया, और चाहते थे कि नामधारक बालक की निराशा को महसूस करें, इससे पहले कि वे उसके उद्धार की बात सुनें। गुरु का छिपना अस्वीकार नहीं था; यह अपना समय उन लोगों के लिए बचाने का एक तरीका था जिन्हें सचमुच उनकी आवश्यकता थी। सिद्ध ने समझाया था कि गुरु अपने भक्तों की रक्षा के लिए घूमते हैं, और फिर भी उनका तेज सच्ची आवश्यकता वाले लोगों से छिप नहीं सकता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नामधारकांनी विचारले की गुरू इतके गुप्त का राहतात, आणि अन्नासाठी भिक्षाही मागतात. सिद्धांनी समजावले की गुरू आपल्या भक्तांच्या रक्षणासाठी प्रवास करतात, पण लोकांच्या क्षुल्लक मागण्या, इथे एक नाणे तर तिथे एक तुच्छ वस्तू, त्यांना लपण्यास भाग पाडतात. तरीही त्यांचे तेज लपू शकत नव्हते, आणि ज्यांना त्यांची गरज होती ते त्यांना शोधून काढत.\n\nपुढे आलेली कथा अशा माणसापासून सुरू होते जो गुरू शोधत नव्हता, तर आपल्या लाजेचा अंत शोधत होता: कवीर गावातला एक मुलगा. सिद्धांनी ती हळूहळू सांगितली, आणि मुलाची सुटका ऐकण्यापूर्वी त्याची निराशा नामधारकांना जाणवावी अशी त्यांची इच्छा होती. गुरूंचे लपणे नकार नव्हते; ज्यांना खरोखर त्यांची गरज होती त्यांच्यासाठी वेळ राखून ठेवण्याचा तो मार्ग होता. सिद्धांनी समजावले होते की गुरू आपल्या भक्तांच्या रक्षणासाठी भटकतात, आणि तरीही खऱ्या गरजवंतांपासून त्यांचे तेज लपत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Learned Father, a Dull Son",
+    "hi": {
+     "text": "एक विद्वान पिता, एक मंद पुत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक विद्वान पिता, मंद मुलगा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In Kavir lived a learned brahmin who left behind a son. The boy could not do the daily sandhya prayers or recite the Gayatri. Other brahmins looked at him with scorn and told him to go and beg. Everything that his father had been, the boy could not be, and he carried that comparison like a stone.\n\nThe Gurucharitra does not blame him. It describes him gently, as someone for whom the door of learning had simply not opened. He bore the contempt of the town day after day. Eventually he could bear it no longer. He left Kavir with no plan, walking until he came to Bhilavadi, where the goddess Bhuvaneshwari has her temple on the banks of the Krishna. Sandhya is the prayer at dawn, noon and dusk that every brahmin boy learns, and the Gayatri is its heart, so the boy’s inability to recite either felt like a verdict on his whole life.",
+    "hi": {
+     "text": "कवीर में एक विद्वान ब्राह्मण रहते थे, जिन्होंने एक पुत्र छोड़ा। बालक नित्य की संध्या-वंदन नहीं कर पाता था, न गायत्री का पाठ। अन्य ब्राह्मण उसे तिरस्कार से देखते और कहते कि जाकर भीख माँगे। उसका पिता जो कुछ था, वह बालक नहीं बन पाया, और वह इस तुलना को एक पत्थर की तरह ढोता रहा।\n\nश्री गुरुचरित्र उसे दोष नहीं देता। वह उसका वर्णन कोमलता से करता है, जैसे कोई ऐसा व्यक्ति जिसके लिए विद्या का द्वार सीधे खुला ही नहीं था। उसने नगर का तिरस्कार दिन-प्रतिदिन सहा। अंततः वह और नहीं सह सका। वह बिना किसी योजना के कवीर से निकल पड़ा, चलते-चलते भिलवडी पहुँचा, जहाँ कृष्णा के तट पर देवी भुवनेश्वरी का मंदिर है। संध्या प्रातः, दोपहर और सायं की वह प्रार्थना है जो हर ब्राह्मण बालक सीखता है, और गायत्री उसका हृदय है, इसलिए बालक का इन दोनों को न कर पाना उसके पूरे जीवन पर एक निर्णय जैसा लगता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कवीरमध्ये एक विद्वान ब्राह्मण राहत होते, ज्यांनी एक मुलगा मागे ठेवला. मुलाला रोजची संध्या किंवा गायत्रीचे पठण करता येत नव्हते. इतर ब्राह्मण त्याच्याकडे तिरस्काराने पाहत आणि भीक मागायला जा असे सांगत. त्याचे वडील जे होते, ते तो बनू शकला नाही, आणि ती तुलना तो दगडासारखी वाहत राहिला.\n\nश्री गुरुचरित्र त्याला दोष देत नाही. ते त्याचे वर्णन कोमलतेने करते, जणू तो असा माणूस आहे ज्याच्यासाठी विद्येचे दार सरळ उघडलेच नव्हते. त्याने दिवसेंदिवस नगराचा तिरस्कार सहन केला. शेवटी त्याला ते सहन झाले नाही. तो कोणत्याही योजनेशिवाय कवीर सोडून निघाला, चालत चालत भिलवडीला पोहोचला, जिथे कृष्णेच्या काठावर देवी भुवनेश्वरीचे मंदिर आहे. संध्या ही सकाळी, दुपारी आणि सायंकाळी केली जाणारी प्रार्थना आहे, जी प्रत्येक ब्राह्मण मुलगा शिकतो, आणि गायत्री तिचे हृदय आहे, त्यामुळे मुलाला दोन्हीही म्हणता येणे हे त्याच्या संपूर्ण आयुष्यावरील निकालासारखे वाटत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Temple of Bhuvaneshwari",
+    "hi": {
+     "text": "भुवनेश्वरी का मंदिर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भुवनेश्वरीचे मंदिर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At Bhilavadi he sat down in the temple of the goddess Bhuvaneshwari. He had nowhere to go and no one to ask. In his grief and anger he did something dreadful: he cut off his own tongue and offered it to the goddess, as if to say, if I cannot use it for learning, take it.\n\nThe text records the act without comment, and we should read it as the depth of a desperate heart, not as a model for anyone. Nobody should ever harm themselves out of shame. What the Gurucharitra shows is that the boy’s pain reached the goddess, and that sorrow offered sincerely does not fall on deaf ears. He lay in the temple that night, and the Devi came to him. The goddess’s temple at Bhilavadi was quiet at that hour, with only the lamp burning before her image.",
+    "hi": {
+     "text": "भिलवडी में वह देवी भुवनेश्वरी के मंदिर में बैठ गया। उसके पास कहीं जाने को नहीं था और पूछने वाला कोई नहीं था। अपने शोक और क्रोध में उसने एक भयानक कार्य किया: उसने अपनी ही जीभ काट डाली और देवी को अर्पित कर दी, मानो कह रहा हो, यदि मैं इसे विद्या के लिए काम में नहीं ला सकता, तो इसे ले लो।\n\nग्रंथ इस कर्म को बिना टिप्पणी के दर्ज करता है, और हमें इसे एक निराश हृदय की गहराई के रूप में पढ़ना चाहिए, किसी के लिए आदर्श के रूप में नहीं। किसी को भी लज्जा से स्वयं को हानि नहीं पहुँचानी चाहिए। श्री गुरुचरित्र यह दिखाता है कि बालक का दुःख देवी तक पहुँचा, और सच्चे मन से अर्पित दुःख बहरे कानों तक नहीं जाता। वह उस रात मंदिर में लेटा, और देवी उसके पास आईं। उस समय भुवनेश्वरी का मंदिर भिलवडी में शांत था, केवल उनकी प्रतिमा के सामने एक दीपक जल रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भिलवडीत तो देवी भुवनेश्वरीच्या मंदिरात बसला. त्याला जायला जागा नव्हती आणि विचारायला कोणी नव्हते. आपल्या दुःखात आणि संतापात त्याने एक भयंकर कृती केली: स्वतःची जीभ कापून देवीला अर्पण केली, जणू म्हणत की, मी ती विद्येसाठी वापरू शकत नसेन, तर ती घे.\n\nग्रंथ ही कृती कोणतीही टिप्पणी न करता नोंदवतो, आणि आपण तिला एका हताश हृदयाची खोली म्हणून वाचले पाहिजे, कोणासाठीही आदर्श म्हणून नव्हे. लाजेतून कोणीही स्वतःला इजा करू नये. श्री गुरुचरित्र दाखवते की मुलाचे दुःख देवीपर्यंत पोहोचले, आणि प्रामाणिकपणे अर्पण केलेले दुःख बहिऱ्या कानांपर्यंत जात नाही. तो त्या रात्री मंदिरात पडून राहिला, आणि देवी त्याच्याकडे आल्या. भिलवडीतले देवीचे मंदिर त्या वेळी शांत होते, फक्त तिच्या मूर्तीसमोर एक दिवा जळत होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Dream and the River",
+    "hi": {
+     "text": "स्वप्न और नदी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वप्न आणि नदी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "That night the Devi appeared to him in a dream. She told him to go to a certain avataric person who was sitting under an audumbar tree on the bank of the Krishna. The next morning, tongueless and tired, he crossed the river and found the Guru there beneath the tree.\n\nHe bowed at the Guru’s feet and prayed, with no words, because he had none. The Guru looked at him with kindness. In that gaze the boy’s shame dissolved. This is one of the loveliest turns in the book: the goddess herself, who received his offering, sent him onward, as if to say that she was a doorway and the Guru was the room beyond it. The audumbar is a fig tree with broad leaves, and under it the Guru sat looking out at the water.",
+    "hi": {
+     "text": "उसी रात देवी ने उसे स्वप्न में दर्शन दिए। उन्होंने उसे आज्ञा दी कि वह एक निश्चित अवतारी पुरुष के पास जाए, जो कृष्णा के तट पर एक औदुंबर वृक्ष के नीचे बैठे हैं। अगली सुबह, जीभ रहित और थका हुआ, वह नदी पार करके पहुँचा और वहाँ वृक्ष के नीचे गुरु को पाया।\n\nवह गुरु के चरणों में झुका और बिना शब्दों के प्रार्थना की, क्योंकि उसके पास शब्द ही नहीं थे। गुरु ने उसे करुणा से देखा। उस दृष्टि में बालक की लज्जा घुल गई। यह ग्रंथ के सबसे सुंदर मोड़ों में से एक है: स्वयं देवी, जिन्होंने उसका अर्पण स्वीकार किया था, उसे आगे भेज देती हैं, मानो कह रही हों कि वे एक द्वार हैं और गुरु उस द्वार के पार का कक्ष। औदुंबर एक चौड़े पत्तों वाला वृक्ष है, और उसके नीचे गुरु जल की ओर देखते हुए बैठे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या रात्री देवी त्याला स्वप्नात दिसल्या. त्यांनी सांगितले की एका अवतारी पुरुषाकडे जा, जो कृष्णेच्या काठी औदुंबर वृक्षाखाली बसला आहे. पुढच्या सकाळी, जीभ नसलेला आणि थकलेला, त्याने नदी ओलांडली आणि तिथे वृक्षाखाली गुरू त्याला सापडले.\n\nतो गुरूंच्या चरणी नमला आणि शब्दांशिवाय प्रार्थना केली, कारण त्याच्याजवळ शब्दच नव्हते. गुरूंनी त्याच्याकडे करुणेने पाहिले. त्या नजरेत मुलाची लाज विरघळली. ग्रंथातील हा सर्वात सुंदर वळणांपैकी एक आहे: ज्या देवीने त्याचे अर्पण स्वीकारले, तीच त्याला पुढे पाठवते, जणू ती एक दार आहे आणि गुरू त्या दारापलीकडची खोली आहेत. औदुंबर हा रुंद पानांचा वृक्ष आहे, आणि त्याखाली गुरू पाण्याकडे पाहत बसले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Knowledge Returned",
+    "hi": {
+     "text": "ज्ञान लौट आया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्ञान परत आले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru blessed the boy, and the Gurucharitra says that he received knowledge, and that his tongue was restored. The boy who could not recite one prayer could now speak with learning, and his shame was gone. The tongue he had offered to the goddess was his again, a sign, the Gurucharitra says, of the Guru’s grace flowing exactly where the goddess had pointed him.\n\nThe Siddha closed the story with a lovely image. A crow that bathes in Lake Manasa becomes a swan, he said; in the same way, one who touches the Guru’s feet gains all knowledge. Namdharak took the image to heart. The Guru sat on under his tree by the Krishna, and the boy walked away, no longer ashamed to speak. The father’s learning was in the town’s memory, and now the son stood before them with his own.",
+    "hi": {
+     "text": "गुरु ने बालक को आशीर्वाद दिया, और श्री गुरुचरित्र कहता है कि उसे ज्ञान प्राप्त हुआ, और उसकी जीभ पुनः स्थापित हो गई। जो बालक एक प्रार्थना भी नहीं कर पाता था, वह अब विद्या के साथ बोल सकता था, और उसकी लज्जा मिट गई थी। जो जीभ उसने देवी को अर्पित की थी, वह फिर उसकी हो गई, जो, श्री गुरुचरित्र के अनुसार, गुरु की कृपा के उसी स्थान पर बहने का चिह्न था जहाँ देवी ने उसे भेजा था।\n\nसिद्ध ने कथा का समापन एक सुंदर बिंब से किया। मानसरोवर में स्नान करने वाला कौआ हंस बन जाता है, उन्होंने कहा; उसी प्रकार, जो गुरु के चरण छूता है, वह समस्त ज्ञान पा लेता है। नामधारक ने इस बिंब को हृदय में बसा लिया। गुरु कृष्णा के तट पर अपने वृक्ष के नीचे बैठे रहे, और बालक बिना लज्जा के बोलने के भाव से चला गया। पिता की विद्या नगर की स्मृति में थी, और अब पुत्र अपनी विद्या लिए लोगों के सामने खड़ा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी मुलाला आशीर्वाद दिला, आणि श्री गुरुचरित्र सांगते की त्याला ज्ञान मिळाले आणि त्याची जीभ पुन्हा बसवली गेली. जो मुलगा एक प्रार्थनाही म्हणू शकत नव्हता, तो आता विद्येसह बोलू शकत होता, आणि त्याची लाज नाहीशी झाली होती. ज्या जिभेचे त्याने देवीला अर्पण केले होते, ती पुन्हा त्याची झाली, जे, श्री गुरुचरित्रानुसार, देवीने ज्या ठिकाणाकडे निर्देश केला होता तिथे गुरूंची कृपा वाहत असल्याचे चिन्ह होते.\n\nसिद्धांनी कथा एका सुंदर प्रतिमेने संपवली. मानसरोवरात स्नान करणारा कावळा हंस होतो, ते म्हणाले; त्याचप्रमाणे, जो गुरूंच्या चरणांना स्पर्श करतो, त्याला सर्व ज्ञान मिळते. नामधारकांनी ही प्रतिमा हृदयात घेतली. गुरू कृष्णेच्या काठी आपल्या वृक्षाखाली बसलेले राहिले, आणि मुलगा लाज न बाळगता बोलू शकणारा होऊन निघून गेला. पित्याची विद्या गावाच्या स्मरणात होती, आणि आता पुत्र स्वतःची विद्या घेऊन लोकांसमोर उभा होता.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there something you have called yourself too slow or too dull to do? Take one small step toward it today, and be kind to yourself about the pace.",
+  "hi": {
+   "text": "क्या ऐसी कोई चीज़ है जिसे करने के लिए आपने स्वयं को बहुत धीमा या बहुत मंद कहा है? आज उसकी ओर एक छोटा कदम बढ़ाइए, और अपनी गति के प्रति स्वयं दयालु रहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही स्वतःला कधी खूप मंद किंवा खूप धीमे म्हटले आहे अशी एखादी गोष्ट आहे का? आज त्याच्या दिशेने एक छोटे पाऊल टाका, आणि तुमच्या गतीबद्दल स्वतःशी दयाळू राहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "No one is too dull for grace, and sorrow offered sincerely is always heard.",
+  "hi": {
+   "text": "कृपा के लिए कोई इतना मंद नहीं होता, और सच्चे मन से अर्पित दुःख सदैव सुना जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कृपेसाठी कोणीही इतका मंद नसतो, आणि प्रामाणिकपणे अर्पण केलेले दुःख नेहमी ऐकले जाते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 17; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 17; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 17; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

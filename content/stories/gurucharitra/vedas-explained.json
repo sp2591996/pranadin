@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "vedas-explained",
+ "order": 26,
+ "part": "karma",
+ "figure": {
+  "en": "Narasimha Saraswati and the two debaters",
+  "hi": {
+   "text": "नृसिंह सरस्वती और दो शास्त्रार्थी विद्वान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि दोन शास्त्रार्थी पंडित",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Three Handfuls from a Mountain",
+  "hi": {
+   "text": "पर्वतों से तीन मुट्ठी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "पर्वतांमधून तीन मूठ",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The Guru tells the scholars why no one in this age can master all the Vedas, and still they insist on a debate.",
+  "hi": {
+   "text": "गुरु विद्वानों को समझाते हैं कि इस युग में कोई भी सारे वेद क्यों नहीं जान सकता, फिर भी वे शास्त्रार्थ पर अड़े रहते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "या युगात कोणीही सर्व वेद का आत्मसात करू शकत नाही, हे गुरू विद्वानांना सांगतात, तरीही ते शास्त्रार्थावर अडून राहतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-pithapuram.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Kunti Madhavaswamy temple tank, Pithapuram",
+    "hi": {
+     "text": "पीठापुरम का कुंती माधवस्वामी मंदिर और कुंड",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पीठापूरमधील कुंती माधवस्वामी मंदिर आणि कुंड",
+     "reviewed": false
+    }
+   },
+   "credit": "Adityamadhav83, CC BY 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kunti_Madhavswamy_Temple_Koneru_(Tank)_in_Pithapuram.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A Short Age",
+    "hi": {
+     "text": "एक छोटा जीवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक अल्प आयुष्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru tried a new approach with the two scholars. He told them that in the present age, the Kali yuga, human life is short, and no one can master all the Vedas. He asked them to be honest about what any person can actually hold.\n\nHe wished to show them that their certificates measured something small. A debate won among a few listeners proved little against the ocean of what remained unknown. He pointed out that a lifetime of study ends and the texts remain. A man might spend a lifetime on one Veda and still find a branch he had not touched. The Guru said this without scorn, as one who respects learning too much to let it be turned into a contest. The scholars shifted where they sat. No one had put it to them so simply, and it was hard to dispute, for every learned person knows there is always more to learn.",
+    "hi": {
+     "text": "गुरु ने दोनों विद्वानों के साथ एक नया मार्ग अपनाया। उन्होंने कहा कि वर्तमान युग, कलियुग, में मनुष्य का जीवन छोटा है, और कोई भी सारे वेद नहीं जान सकता। उन्होंने उनसे आग्रह किया कि वे ईमानदारी से विचार करें कि कोई भी मनुष्य वास्तव में कितना धारण कर सकता है।\n\nवे उन्हें दिखाना चाहते थे कि उनके प्रमाणपत्र कुछ छोटी चीज़ को मापते हैं। कुछ श्रोताओं के बीच जीता गया शास्त्रार्थ उस अज्ञात सागर के सामने बहुत कम सिद्ध करता है जो शेष रह जाता है। उन्होंने बताया कि जीवन भर का अध्ययन समाप्त हो जाता है, और ग्रंथ शेष रहते हैं। एक व्यक्ति एक वेद पर जीवन भर लगा सकता है और फिर भी उसकी एक शाखा अछूती मिल सकती है। गुरु ने यह बिना उपहास के कहा, उस व्यक्ति की तरह जो विद्या का इतना सम्मान करता है कि उसे प्रतियोगिता में बदलते नहीं देखना चाहता। विद्वान अपनी जगह पर कुछ हिले। किसी ने उन्हें इतनी सरलता से यह बात नहीं कही थी, और इसका खंडन करना कठिन था, क्योंकि हर विद्वान जानता है कि सीखने को सदा और बहुत कुछ शेष रहता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी दोन विद्वानांशी एक नवीन मार्ग अवलंबला. ते म्हणाले की सध्याच्या कलियुगात मानवी आयुष्य अल्प आहे, आणि कोणीही सर्व वेद आत्मसात करू शकत नाही. त्यांनी त्यांना सांगितले की प्रत्यक्षात कोणता माणूस किती धारण करू शकतो याविषयी प्रामाणिक राहा.\n\nत्यांना दाखवायचे होते की त्यांची प्रमाणपत्रे फार लहान गोष्ट मोजतात. काही श्रोत्यांमध्ये जिंकलेला वाद, उरलेल्या अज्ञाताच्या महासागरासमोर फार काही सिद्ध करत नाही. त्यांनी दाखवले की आयुष्यभराचा अभ्यास संपतो, आणि ग्रंथ मात्र उरतात. एखादा माणूस एका वेदावर आयुष्यभर घालवू शकतो आणि तरीही त्याची एखादी शाखा अस्पर्शित सापडू शकते. गुरूंनी हे तिरस्काराविना सांगितले, विद्येचा इतका आदर करणाऱ्या माणसासारखे की तिला स्पर्धेत बदललेले पाहायचे नाही. विद्वान आपल्या जागेवर थोडेसे हलले. इतक्या साधेपणाने त्यांना कोणी हे सांगितले नव्हते, आणि त्याला खोडून काढणे कठीण होते, कारण प्रत्येक विद्वानाला माहीत असते की शिकण्यासारखे नेहमीच खूप काही असते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Bharadwaja and Brahma",
+    "hi": {
+     "text": "भारद्वाज और ब्रह्मा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भारद्वाज आणि ब्रह्मदेव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "To make the point, the Guru told them the story of the sage Bharadwaja. This sage asked Brahma to teach him the Vedas. Brahma showed him three great mountains of the Vedas heaped up before him.\n\nFrom each mountain, Brahma took a handful and gave it to the sage. That was all Bharadwaja could learn in a life, said the god, and the rest would remain. The scholars heard how little a great sage could hold, and they were quiet for a moment. Bharadwaja was no ordinary student, and the story is told to show how little even a great sage can hold. Brahma, patient and kind, showed him the truth of the matter by pointing at the mountains and telling him plainly how much a single person can carry away. The Guru let the image settle in the room.",
+    "hi": {
+     "text": "अपनी बात स्पष्ट करने के लिए गुरु ने ऋषि भारद्वाज की कथा सुनाई। इस ऋषि ने ब्रह्मा से वेद सिखाने की प्रार्थना की। ब्रह्मा ने उनके सामने वेदों के तीन विशाल पर्वत ढेर रूप में दिखाए।\n\nब्रह्मा ने हर पर्वत से एक-एक मुट्ठी लेकर ऋषि को दी। देव ने कहा कि एक जीवन में भारद्वाज बस इतना ही सीख सकते थे, और शेष अनजाना रह जाएगा। विद्वानों ने सुना कि एक महान ऋषि भी कितना कम धारण कर सकते हैं, और क्षण भर को वे चुप हो गए। भारद्वाज कोई साधारण शिष्य नहीं थे, और यह कथा यह दिखाने के लिए है कि महान ऋषि भी कितना कम ले जा सकते हैं। ब्रह्मा ने धैर्य और दया से पर्वतों की ओर संकेत करते हुए स्पष्ट बताया कि एक व्यक्ति कितना ले जा सकता है, और इस प्रकार बात का सत्य दिखाया। गुरु ने उस चित्र को कक्ष में बैठने दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हा मुद्दा स्पष्ट करण्यासाठी गुरूंनी ऋषी भारद्वाजांची कथा सांगितली. या ऋषींनी ब्रह्मदेवांना वेद शिकवण्याची विनंती केली. ब्रह्मदेवांनी त्यांच्यासमोर वेदांचे तीन मोठे पर्वत रचलेले दाखवले.\n\nप्रत्येक पर्वतातून ब्रह्मदेवांनी एक-एक मूठ घेऊन ऋषींना दिली. एका आयुष्यात भारद्वाज एवढेच शिकू शकतील, देव म्हणाले, आणि बाकीचे अनोळखी राहील. विद्वानांनी ऐकले की एक महान ऋषीही किती कमी धारण करू शकतात, आणि ते क्षणभर शांत झाले. भारद्वाज काही सामान्य विद्यार्थी नव्हते, आणि ही कथा दाखवण्यासाठी आहे की महान ऋषीही किती थोडे नेऊ शकतात. ब्रह्मदेवांनी धीराने आणि दयेने पर्वतांकडे निर्देश करत एक माणूस किती घेऊन जाऊ शकतो हे स्पष्टपणे सांगितले. गुरूंनी ते चित्र सभागृहात स्थिरावू दिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Four Disciples of Vyasa",
+    "hi": {
+     "text": "व्यास के चार शिष्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "व्यासांचे चार शिष्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru went on to explain how the Vedas were passed on. The Atharva Veda, he said, is formed from mantras of the other three. The sage Vyasa taught four disciples, each one a different Veda: Paila the Rig, Vaishampayana the Yajur, Jaimini the Sama and Sumantu the Atharva.\n\nEach line of students had its own family, its own deity and its own metre. The Guru named them one by one, to show that the Vedas were a living tradition, kept by many hands and not owned by a single scholar. Each had a family of teachers who kept that Veda alive, the gotras passing it from father to son, the deities named at the start of each hymn, and the metres that give each verse its shape. The Guru named all this carefully, because the scholars cared about such things, and he wanted them to hear that he knew it too.",
+    "hi": {
+     "text": "गुरु ने समझाया कि वेद कैसे आगे पहुँचे। अथर्ववेद, उन्होंने कहा, शेष तीन वेदों के मंत्रों से बना है। ऋषि व्यास ने चार शिष्यों को पढ़ाया, और उनमें से हर एक को एक अलग वेद मिला: पैल को ऋग्वेद, वैशंपायन को यजुर्वेद, जैमिनि को सामवेद, और सुमंतु को अथर्ववेद।\n\nहर शिष्य-परंपरा का अपना कुल, अपना देवता और अपना छंद था। गुरु ने उनका नाम एक-एक करके लिया, यह दिखाने के लिए कि वेद एक जीवित परंपरा हैं, जिन्हें अनेक हाथों ने सँभाला है, न कि किसी एक विद्वान की संपत्ति। हर वेद के साथ आचार्यों का एक ऐसा परिवार था जो उसे जीवित रखता था, गोत्र जो पिता से पुत्र को उसे सौंपते थे, हर सूक्त के आरंभ में नामित देवता, और वे छंद जो हर मंत्र को उसका आकार देते हैं। गुरु ने यह सब सावधानी से गिनाया, क्योंकि विद्वानों को ऐसी बातों की परवाह थी, और वे चाहते थे कि वे सुनें कि गुरु भी इन्हें जानते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू पुढे सांगू लागले की वेद कसे पुढे दिले गेले. अथर्ववेद, ते म्हणाले, उरलेल्या तीन वेदांच्या मंत्रांपासून बनला आहे. ऋषी व्यासांनी चार शिष्यांना शिकवले, आणि प्रत्येकाला वेगळा वेद मिळाला: पैल यांना ऋग्वेद, वैशंपायन यांना यजुर्वेद, जैमिनी यांना सामवेद आणि सुमंतू यांना अथर्ववेद.\n\nप्रत्येक शिष्यपरंपरेचे स्वतःचे गोत्र, स्वतःचे दैवत आणि स्वतःचे छंद होते. वेद ही एक जिवंत परंपरा आहे, अनेक हातांनी जपलेली, कोणत्याही एका विद्वानाची मालमत्ता नाही, हे दाखवण्यासाठी गुरूंनी त्यांची नावे एकेक करून घेतली. प्रत्येक वेदाला आचार्यांचे एक कुटुंब होते जे तो जिवंत ठेवत होते, वडिलांकडून मुलाकडे जाणारी गोत्रे, प्रत्येक सूक्ताच्या सुरुवातीला नमूद केलेली दैवते, आणि प्रत्येक ऋचेला आकार देणारे छंद. गुरूंनी हे सर्व काळजीपूर्वक सांगितले, कारण विद्वानांना अशा गोष्टींची काळजी होती, आणि त्यांना ऐकायचे होते की गुरूही हे जाणतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Fall of the Vedic Path",
+    "hi": {
+     "text": "वैदिक मार्ग का पतन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वैदिक मार्गाचा ऱ्हास",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru then spoke sadly of his own age. Brahmins were once so honoured, he said, that they were called bhusura, gods on earth, and could command the gods themselves. But in Kali yuga many had left the Vedic path, serving others for pay and even selling what they had learned.\n\nThis is how the Gurucharitra describes the worry of its own world, a period when a class that held learning in trust was feeling that the trust was slipping. We read it as the author's concern for his time, not as a rule for ours. The Gurucharitra's author lived in a time of change, and his sorrow runs through these lines. He remembered an ideal of the scholar who served truth alone, and he saw a different world around him. The Guru's words are those of a man grieving something he loves, and the scholars, who might have heard that grief, heard only an accusation.",
+    "hi": {
+     "text": "फिर गुरु ने अपने युग के विषय में दुःख के साथ कहा। एक समय ब्राह्मणों का इतना सम्मान था कि उन्हें भूसुर, पृथ्वी के देवता, कहा जाता था, और वे स्वयं देवताओं को आज्ञा दे सकते थे। पर कलियुग में अनेक लोग वैदिक मार्ग से हट गए थे, वेतन के लिए दूसरों की सेवा करने लगे थे और जो सीखा था उसे भी बेचने लगे थे।\n\nश्री गुरुचरित्र अपने युग की चिंता इस प्रकार व्यक्त करता है, एक ऐसा काल जब विद्या को धरोहर मानने वाला वर्ग अनुभव कर रहा था कि वह भरोसा फिसल रहा है। हम इसे ग्रंथ-रचयिता की अपने समय के प्रति चिंता के रूप में पढ़ते हैं, हमारे लिए नियम के रूप में नहीं। ग्रंथ का रचयिता परिवर्तन के एक समय में जीता था, और उसका शोक इन पंक्तियों में बहता है। उसे सत्य के लिए ही सेवा करने वाले विद्वान का आदर्श याद था, और उसके चारों ओर एक भिन्न संसार था। गुरु के शब्द उस व्यक्ति के हैं जो किसी प्रिय वस्तु के लिए शोक कर रहा हो, और विद्वानों ने, जो शायद वह शोक सुन पाते, केवल आरोप सुना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग गुरूंनी आपल्या युगाविषयी दुःखाने सांगितले. एकेकाळी ब्राह्मणांचा इतका मान होता, ते म्हणाले, की त्यांना भूसुर, पृथ्वीवरील देव म्हटले जाई, आणि ते स्वतः देवांनाही आज्ञा देऊ शकत. पण कलियुगात अनेकजण वैदिक मार्गापासून दूर गेले, वेतनासाठी इतरांची सेवा करू लागले, आणि जे शिकले होते तेही विकू लागले.\n\nश्री गुरुचरित्र अशा प्रकारे आपल्या स्वतःच्या काळाची चिंता मांडते, असा काळ जेव्हा विद्या धरोहर मानणारा वर्ग जाणवत होता की तो विश्वास निसटत आहे. आपण हे ग्रंथकर्त्याची आपल्या काळाविषयीची चिंता म्हणून वाचतो, आपल्यासाठी नियम म्हणून नव्हे. ग्रंथकर्ता बदलाच्या काळात जगत होता, आणि त्याचे दुःख या ओळींमधून वाहते. सत्यासाठीच सेवा करणाऱ्या विद्वानाचा आदर्श त्याला आठवत होता, आणि त्याच्या भोवती वेगळे जग होते. गुरूंचे शब्द आपल्या प्रिय वस्तूसाठी शोक करणाऱ्या माणसाचे आहेत, आणि विद्वानांनी, जे कदाचित तो शोक ऐकू शकले असते, फक्त आरोप ऐकला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Rat and the Serpent's Box",
+    "hi": {
+     "text": "चूहा और सर्प की पेटी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उंदीर आणि सापाची पेटी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru urged the two scholars to leave. He said there was nothing to gain in a debate that was only about pride. But they insisted. They were sure of their knowledge and could not hear what he was saying.\n\nAt last, the Guru lost patience. He told them they were digging their own graves, like a rat gnawing at the box that holds a serpent. The scholars did not understand it, and the Siddha pauses here to let the weight of those words settle. The rat in the old fable gnaws at the box without knowing that a serpent sleeps within. The image is plain enough. The scholars bowed stiffly, their faces set, and did not leave. Their stubbornness was now the only thing between them and a gentler road, and the Guru, with real sadness, stepped back to let what would happen happen.",
+    "hi": {
+     "text": "गुरु ने दोनों विद्वानों से जाने का आग्रह किया। उन्होंने कहा कि ऐसे शास्त्रार्थ में, जो केवल अभिमान के लिए हो, कुछ भी प्राप्त नहीं होता। पर वे अड़े रहे। वे अपने ज्ञान के प्रति आश्वस्त थे और जो वे कह रहे थे उसे सुन नहीं पा रहे थे।\n\nअंत में गुरु का धैर्य टूट गया। उन्होंने कहा कि वे अपनी ही कब्र खोद रहे हैं, उस चूहे की तरह जो उस पेटी को कुतर रहा है जिसमें सर्प रखा है। विद्वान इसे समझ नहीं पाए, और सिद्ध यहाँ रुककर उन शब्दों का भार बैठने देते हैं। पुरानी कथा में चूहा पेटी को यह जाने बिना कुतरता है कि उसके भीतर सर्प सो रहा है। बिंब स्पष्ट है। विद्वान अकड़कर झुके, उनके चेहरे कठोर थे, और वे नहीं गए। उनका हठ अब उनके और एक कोमल मार्ग के बीच एकमात्र बाधा था, और गुरु, सच्चे दुःख के साथ, पीछे हट गए ताकि जो होना है वह हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी दोन्ही विद्वानांना निघून जाण्याचा आग्रह केला. ते म्हणाले की केवळ अभिमानासाठी असलेल्या वादात काहीही मिळत नाही. पण ते अडून राहिले. ते आपल्या ज्ञानाविषयी खात्रीत होते आणि त्यांना जे सांगितले जात होते ते ऐकू शकत नव्हते.\n\nशेवटी गुरूंचा संयम सुटला. ते म्हणाले की ते स्वतःचीच कबर खोदत आहेत, त्या उंदरासारखे जो सापाची पेटी कुरतडत आहे. विद्वानांना ते समजले नाही, आणि सिद्ध ते शब्द बसू देण्यासाठी येथे थांबतात. जुन्या कथेत उंदीर पेटी कुरतडतो, आत साप झोपलेला आहे हे न जाणता. प्रतिमा स्पष्ट आहे. विद्वान ताठ मानेने झुकले, त्यांचे चेहरे कठोर होते, आणि ते गेले नाहीत. त्यांचा हट्ट आता त्यांच्या आणि एका सौम्य मार्गामधील एकमेव अडथळा होता, आणि गुरू खऱ्या दुःखाने मागे सरले, जे होणार होते ते होऊ देण्यासाठी.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "What is one thing you do not know and are not embarrassed about? Say it out loud to someone today.",
+  "hi": {
+   "text": "आप कौन-सी ऐसी बात नहीं जानते और उसके लिए लज्जित भी नहीं हैं? आज किसी से उसे ज़ोर से कहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्हाला माहीत नसलेली आणि ज्याची तुम्हाला लाज वाटत नाही अशी एखादी गोष्ट आहे का? आज कोणाला तरी ती मोठ्याने सांगा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The wisest teachers know how small a handful of knowledge is, and the best students hold their own handful lightly.",
+  "hi": {
+   "text": "सबसे बुद्धिमान शिक्षक जानते हैं कि ज्ञान की मुट्ठी कितनी छोटी है, और सबसे अच्छे शिष्य अपनी मुट्ठी को हल्के से थामते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सर्वात शहाणे शिक्षक ज्ञानाची मूठ किती लहान आहे हे जाणतात, आणि सर्वोत्तम शिष्य आपली मूठ हलक्या हाताने धरतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 26; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 26; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 26; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

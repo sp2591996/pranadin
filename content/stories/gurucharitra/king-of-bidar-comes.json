@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "king-of-bidar-comes",
+ "order": 50,
+ "part": "bhakti",
+ "figure": {
+  "en": "Narasimha Saraswati and the king of Bidar",
+  "hi": {
+   "text": "नृसिंह सरस्वती और बीदर का राजा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि बिदरचा राजा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Washerman's Return",
+  "hi": {
+   "text": "धोबी की वापसी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "धोब्याचे परतणे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The washerman who once admired a king's pomp has been reborn as a king himself, and a boil on his thigh brings him to the Guru.",
+  "hi": {
+   "text": "जिस धोबी ने कभी राजा के ठाठ पर मोहित होकर इच्छा की थी, वह स्वयं राजा के रूप में जन्मा है, और जाँघ का एक फोड़ा उसे गुरु के पास लाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्या धोब्याने एकदा राजाच्या थाटाची इच्छा केली होती, त्याचाच राजा म्हणून पुनर्जन्म झाला आहे, आणि मांडीवरील एक फोड त्याला गुरूंकडे आणतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-bhima.webp",
+   "w": 1200,
+   "h": 301,
+   "caption": {
+    "en": "The Bhima river",
+    "hi": {
+     "text": "भीमा नदी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीमा नदी",
+     "reviewed": false
+    }
+   },
+   "credit": "Arupparia, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhima_River.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Ranjaka, King of Vaidurya",
+    "hi": {
+     "text": "वैदूर्य का राजा रंजक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वैदूर्यनगरीचा राजा रंजक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha returned to a figure from long before. Ranjaka, the washerman of Kuravpur who had admired a king's procession and wished for it, had been reborn into a royal family of the Yavana, the Muslim rulers. He now ruled the city of Vaidurya, which is Bidar, and he ruled it well.\n\nHe was prosperous and kind to people of every caste, and he honoured brahmins. His court priests urged him to scorn gods and holy men, but he refused. The divine, he told them, is in all creation. We tell the story here as the Gurucharitra tells it: a story of grace that crosses divides, not of conversion. When court priests urged him to scorn gods and brahmins, he answered that the divine pervades all creation, and he held to his respect.",
+    "hi": {
+     "text": "सिद्ध ने बहुत पहले की एक आकृति की ओर लौटकर कहा। रंजक, कुरवपुर का वह धोबी, जिसने किसी राजा के जुलूस को देखकर वैसे ही ठाठ की इच्छा की थी, यवन, यानी मुस्लिम शासकों, के एक राजवंश में जन्मा था। अब वह वैदूर्य नगर पर शासन कर रहा था, जो बीदर है, और वह अच्छा शासन कर रहा था।\n\nवह समृद्ध था, हर जाति के लोगों के प्रति दयालु था, और ब्राह्मणों का सम्मान करता था। उसके दरबारी पुरोहित उसे देवताओं और संतों की निंदा करने के लिए उकसाते, पर वह इनकार करता। दिव्यता, उसने उनसे कहा, समस्त सृष्टि में है। हम इस कथा को वैसे ही सुनाते हैं जैसे श्री गुरुचरित्र इसे कहता है: भेदों को पार करने वाली कृपा की कथा, धर्मांतरण की नहीं। जब दरबारी पुरोहितों ने उसे देवताओं और ब्राह्मणों की अवमानना करने को कहा, तो उसने उत्तर दिया कि दिव्यता सारी सृष्टि में व्याप्त है, और वह अपने सम्मान पर अडिग रहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्ध बऱ्याच पूर्वीच्या एका व्यक्तीकडे परत वळले. रंजक, कुरवपूरचा तो धोबी, ज्याने एका राजाच्या मिरवणुकीचे कौतुक करून तशीच इच्छा केली होती, तो यवन, म्हणजे मुस्लिम शासकांच्या एका राजघराण्यात जन्मला होता. आता तो वैदूर्य नगरीवर, म्हणजे बिदरवर, राज्य करत होता, आणि चांगले राज्य करत होता.\n\nतो समृद्ध होता, सर्व जातींच्या लोकांशी दयाळू होता, आणि ब्राह्मणांचा सन्मान करत होता. त्याचे दरबारी पुरोहित त्याला देवांची आणि संतांची निंदा करण्यास भाग पाडत, पण त्याने नकार दिला. दिव्यता, त्याने त्यांना सांगितले, सर्व सृष्टीत आहे. ही कथा आम्ही श्री गुरुचरित्र सांगते तशीच सांगतो: भेद ओलांडणाऱ्या कृपेची कथा, धर्मांतराची नव्हे. दरबारी पुरोहितांनी त्याला देव आणि ब्राह्मणांची अवहेलना करण्यास सांगितले, तेव्हा त्याने उत्तर दिले की दिव्यता सर्व सृष्टीत व्याप्त आहे, आणि तो आपल्या आदरावर ठाम राहिला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Boil on the Thigh",
+    "hi": {
+     "text": "जाँघ पर फोड़ा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मांडीवर फोड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then a painful boil appeared on the king's thigh. The royal physicians tried everything and failed. The king bore the pain and asked the brahmins of his court what he should do.\n\nThey advised him to go to Papavinashi tirtha. At Ganagapur, the Guru already knew that the king was coming. He decided to go to the Godavari for the great Simhastha pilgrimage and to stay hidden, as he often did when crowds began to press. A king who could command armies could not command his own body, and doctors could not cure the boil. On the advice of the brahmins he went to Papavinashi. Meanwhile at Ganagapur the Guru had already foreseen the king’s coming, and he decided to go to the Godavari for the Simhastha pilgrimage and to remain hidden, as he did when crowds pressed. The king’s journey and the Guru’s withdrawal ran side by side, so that their meeting would come not by plan but by grace.",
+    "hi": {
+     "text": "फिर राजा की जाँघ पर एक पीड़ादायक फोड़ा निकल आया। राजकीय वैद्यों ने सब कुछ किया और असफल रहे। राजा ने पीड़ा सहते हुए अपने दरबार के ब्राह्मणों से पूछा कि उसे क्या करना चाहिए।\n\nउन्होंने सलाह दी कि वह पापविनाशिनी तीर्थ जाए। गाणगापुर में गुरु को पहले से ज्ञात था कि राजा आने वाला है। उन्होंने सिंहस्थ के महान पर्व के लिए गोदावरी जाने का निश्चय किया, और जब भीड़ बढ़ने लगती है तो वे प्रायः छिप जाते थे, वैसे ही छिपे रहने का निश्चय किया। जो राजा सेनाओं को आज्ञा दे सकता था, वह अपने शरीर को आज्ञा नहीं दे सकता था, और वैद्य फोड़ा ठीक नहीं कर पाए। ब्राह्मणों की सलाह पर वह पापविनाशिनी गया। इसी बीच गाणगापुर में गुरु ने राजा के आगमन को पहले ही देख लिया था, और उन्होंने सिंहस्थ पर्व के लिए गोदावरी जाने और छिपे रहने का निश्चय किया, जैसा वे तब करते थे जब भीड़ घेरने लगती। राजा की यात्रा और गुरु का लौट जाना साथ-साथ चले, ताकि उनका मिलन योजना से नहीं, कृपा से हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग राजाच्या मांडीवर एक वेदनादायक फोड आला. राजवैद्यांनी सर्व प्रयत्न केले आणि अपयशी ठरले. राजाने वेदना सहन करत आपल्या दरबारातील ब्राह्मणांना काय करावे असे विचारले.\n\nत्यांनी पापविनाशिनी तीर्थाला जाण्याचा सल्ला दिला. गाणगापूरमध्ये गुरूंना आधीच माहीत होते की राजा येणार आहे. सिंहस्थाच्या महान पर्वासाठी गोदावरीला जाण्याचा आणि लोकांची गर्दी वाढू लागली की ते नेहमी करत असत तसे लपून राहण्याचा त्यांनी निश्चय केला. जो राजा सैन्याला आज्ञा देऊ शकत होता, तो आपल्या शरीराला आज्ञा देऊ शकत नव्हता, आणि वैद्य फोड बरा करू शकले नाहीत. ब्राह्मणांच्या सल्ल्यानुसार तो पापविनाशिनीला गेला. याच वेळी गाणगापूरमध्ये गुरूंनी राजाचे आगमन आधीच पाहिले होते, आणि त्यांनी सिंहस्थ पर्वासाठी गोदावरीला जाऊन लपून राहण्याचा निर्णय घेतला, जसे ते गर्दी घेरू लागली की करत. राजाचा प्रवास आणि गुरूंचे परतणे एकाच वेळी चालले, जेणेकरून त्यांची भेट योजनेने नव्हे तर कृपेने व्हावी.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Tale of the Yati",
+    "hi": {
+     "text": "यति की कथा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यतीची कथा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At Papavinashi the king met a yati, a wandering ascetic, who told him a story. A brahmin of Avanti had lived badly, with a courtesan named Pingala, and in a later life he served the sage Rishabha. The sage, by sprinkling sacred ash, revived the dead son of an abandoned queen.\n\nThe yati told the king that he should go to a saint on the banks of the Bhima at Ganagapur. The king set out again for Ganagapur, the place to which the yati had pointed him, in the hope that the saint there could help. The yati had told him a story of a brahmin of Avanti who lived badly with a courtesan named Pingala, and in a later life served the sage Rishabha, who revived the dead son of an abandoned queen with sacred ash. The tale was a way of saying that no past is too heavy for grace.",
+    "hi": {
+     "text": "पापविनाशिनी पर राजा की भेंट एक यति से हुई, एक भटकते संन्यासी से, जिन्होंने उसे एक कथा सुनाई। अवंती का एक ब्राह्मण पिंगला नाम की एक गणिका के साथ बुरा जीवन जीता था, और एक बाद के जन्म में वह ऋषि ऋषभ की सेवा करने लगा। ऋषि ने पवित्र भस्म छिड़ककर एक त्यागी गई रानी के मृत पुत्र को जीवित कर दिया।\n\nयति ने राजा से कहा कि उसे गाणगापुर में भीमा के तट पर एक संत के पास जाना चाहिए। राजा फिर गाणगापुर की ओर चल पड़ा, उस स्थान की ओर जहाँ यति ने उसे भेजा था, इस आशा से कि वहाँ का संत सहायता कर सके। यति ने उसे अवंती के उस ब्राह्मण की कथा सुनाई थी जो पिंगला नाम की गणिका के साथ बुरा जीवन जीता था, और बाद के जन्म में ऋषि ऋषभ की सेवा करता था, जिन्होंने पवित्र भस्म से त्यागी गई रानी के मृत पुत्र को जीवित किया था। कथा यह कहने का एक ढंग थी कि कोई भी अतीत कृपा के लिए इतना भारी नहीं होता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पापविनाशिनीवर राजाची भेट एका यतीशी, म्हणजे भटक्या संन्याशाशी झाली, ज्यांनी त्याला एक कथा सांगितली. अवंतीचा एक ब्राह्मण पिंगला नावाच्या गणिकेसोबत वाईट जीवन जगत होता, आणि पुढच्या जन्मात तो ऋषी ऋषभांची सेवा करू लागला. ऋषींनी पवित्र भस्म शिंपडून एका त्यागलेल्या राणीच्या मृत पुत्राला जिवंत केले.\n\nयतीने राजाला सांगितले की त्याने गाणगापूरमध्ये भीमेच्या काठी एका संताकडे जावे. राजा पुन्हा गाणगापूरकडे निघाला, ज्या ठिकाणाकडे यतीने त्याला पाठवले होते, या आशेने की तिथला संत मदत करू शकेल. यतीने त्याला अवंतीच्या त्या ब्राह्मणाची कथा सांगितली होती जो पिंगला नावाच्या गणिकेसोबत वाईट जीवन जगत होता, आणि पुढच्या जन्मात ऋषी ऋषभांची सेवा करत होता, ज्यांनी पवित्र भस्माने त्यागलेल्या राणीच्या मृत पुत्राला जिवंत केले होते. ती कथा हे सांगण्याचा एक मार्ग होता की कोणताही भूतकाळ कृपेसाठी इतका जड नसतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "At the Sangam",
+    "hi": {
+     "text": "संगम पर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संगमावर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At the sangam, the Guru recognised the king at once as his former devotee, the washerman of Kuravpur. The king bowed, and the boil vanished.\n\nThe Siddha tells it plainly. A man who had once only watched a king pass by with longing had become a king, and had come back in pain to the one who had promised him this life. The Guru had kept his word, and the king had come home, though neither of them said so. The Gurucharitra does not tell the meeting in more detail, and it does not speak of conversion. It tells of grace reaching a person who had once wished sincerely. The Guru recognised the king at once as his former washerman devotee, and the man who had once only watched a king pass with longing had become one and had come back in pain to the one who had promised him this life. The Guru had kept his word.",
+    "hi": {
+     "text": "संगम पर गुरु ने राजा को तुरंत पहचान लिया, कि वह उनका पूर्व भक्त, कुरवपुर का धोबी है। राजा झुका, और फोड़ा मिट गया।\n\nसिद्ध इसे सीधे-सादे ढंग से कहते हैं। जो व्यक्ति कभी केवल लालसा से एक राजा को निकलते देखता था, वह स्वयं राजा बन गया था, और पीड़ा में उसी के पास लौटा था जिसने उसे यह जीवन देने का वचन दिया था। गुरु ने अपना वचन निभाया था, और राजा घर लौट आया था, यद्यपि दोनों में से किसी ने यह नहीं कहा। श्री गुरुचरित्र इस भेंट का अधिक विवरण नहीं देता, और वह धर्मांतरण की चर्चा नहीं करता। वह उस व्यक्ति तक पहुँची कृपा की बात करता है जिसने कभी सच्चे मन से इच्छा की थी। गुरु ने राजा को तुरंत अपने पूर्व धोबी भक्त के रूप में पहचाना, और जिस व्यक्ति ने कभी केवल लालसा से राजा का जुलूस देखा था, वह राजा बन गया था और पीड़ा में उसी के पास लौटा था जिसने उसे यह जीवन देने का वचन दिया था। गुरु ने अपना वचन निभाया था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संगमावर गुरूंनी राजाला त्याचा पूर्वीचा भक्त, कुरवपूरचा धोबी, म्हणून लगेच ओळखले. राजा नमला, आणि फोड नाहीसा झाला.\n\nसिद्ध हे सरळ सांगतात. जो माणूस एकदा केवळ लालसेने राजाला जाताना पाहत होता, तो स्वतः राजा झाला होता, आणि वेदनेत त्याच व्यक्तीकडे परत आला होता ज्याने त्याला हे जीवन देण्याचे वचन दिले होते. गुरूंनी आपले वचन पाळले होते, आणि राजा घरी परत आला होता, जरी त्या दोघांपैकी कोणीही तसे म्हटले नाही. श्री गुरुचरित्र या भेटीचे अधिक तपशील देत नाही, आणि धर्मांतराची चर्चा करत नाही. ते एका व्यक्तीपर्यंत पोहोचलेल्या कृपेविषयी सांगते जिने एकदा प्रामाणिकपणे इच्छा केली होती. गुरूंनी राजाला त्याचा पूर्वीचा धोबी भक्त म्हणून लगेच ओळखले, आणि ज्या माणसाने कधीकाळी केवळ लालसेने राजाचा थाट पाहिला होता, तो राजा झाला होता आणि वेदनेत त्याच व्यक्तीकडे परत आला होता ज्याने त्याला हे जीवन देण्याचे वचन दिले होते. गुरूंनी आपले वचन पाळले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A City the Guru Declined",
+    "hi": {
+     "text": "एक नगर जिसे गुरु ने ठुकराया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक नगर जे गुरूंनी नाकारले",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The king invited the Guru to his city. The Guru declined. The Gurucharitra says he would not live amid the killing of animals and the noise of a royal capital. The king, wanting only to keep his Guru near, promised to stop the harm to animals in his city.\n\nThe Guru promised to meet him at Papavinashi, and then vanished from the sangam. He went with his disciples to Vaidurya, and then to Papavinashi, where Naganath, the son of Sayamdev, hosted him. He blessed the king's family and left for Shrishailam and Nasik. The chapter closes with the Guru blessing the king’s family and leaving for Shrishailam and Nasik. The king invited him to his city, the Guru promised to meet him at Papavinashi and then vanished from the sangam, and he went with his disciples to Vaidurya and then to Papavinashi, where Naganath, the son of Sayamdev, hosted him.",
+    "hi": {
+     "text": "राजा ने गुरु को अपने नगर में आमंत्रित किया। गुरु ने इनकार कर दिया। श्री गुरुचरित्र कहता है कि वे पशुओं की हत्या और एक राजधानी के शोर के बीच नहीं रहेंगे। राजा ने, जो बस अपने गुरु को समीप रखना चाहता था, वचन दिया कि वह अपने नगर में पशुओं की हानि रोक देगा।\n\nगुरु ने पापविनाशिनी पर मिलने का वचन दिया, और फिर संगम से अंतर्धान हो गए। वे अपने शिष्यों के साथ वैदूर्य गए, फिर पापविनाशिनी, जहाँ सायंदेव के पुत्र नागनाथ ने उनका आतिथ्य किया। उन्होंने राजा के परिवार को आशीर्वाद दिया और श्रीशैलम तथा नासिक की ओर चल पड़े। अध्याय गुरु के राजा के परिवार को आशीर्वाद देने और श्रीशैलम तथा नासिक की ओर प्रस्थान करने पर समाप्त होता है। राजा ने उन्हें अपने नगर आमंत्रित किया, गुरु ने पापविनाशिनी पर मिलने का वचन दिया और फिर संगम से लुप्त हो गए, और वे अपने शिष्यों के साथ वैदूर्य और फिर पापविनाशिनी गए, जहाँ सायंदेव के पुत्र नागनाथ ने उनका आतिथ्य किया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजाने गुरूंना आपल्या नगरात आमंत्रित केले. गुरूंनी नकार दिला. श्री गुरुचरित्र सांगते की ते प्राण्यांच्या हत्येत आणि राजधानीच्या गोंगाटात राहणार नाहीत. राजाने, ज्याला फक्त आपल्या गुरूंना जवळ ठेवायचे होते, वचन दिले की तो आपल्या नगरात प्राण्यांची हानी थांबवेल.\n\nगुरूंनी त्याला पापविनाशिनीवर भेटण्याचे वचन दिले, आणि मग संगमावरून अंतर्धान पावले. ते आपल्या शिष्यांसह वैदूर्यला गेले, आणि मग पापविनाशिनीला, जिथे सायंदेवांचा पुत्र नागनाथ यांनी त्यांचे आतिथ्य केले. त्यांनी राजाच्या कुटुंबाला आशीर्वाद दिला आणि श्रीशैलम व नाशिकच्या दिशेने निघाले. अध्याय गुरूंनी राजाच्या कुटुंबाला आशीर्वाद देऊन श्रीशैलम आणि नाशिककडे प्रस्थान केल्याने संपतो. राजाने त्यांना आपल्या नगरात आमंत्रित केले, गुरूंनी पापविनाशिनीवर भेटण्याचे वचन दिले आणि मग संगमावरून लुप्त झाले, आणि ते आपल्या शिष्यांसह वैदूर्य आणि मग पापविनाशिनीला गेले, जिथे सायंदेवांचा पुत्र नागनाथ यांनी त्यांचे आतिथ्य केले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there something you wished for long ago that has since come true? Take a moment today to say thank you.",
+  "hi": {
+   "text": "क्या कोई इच्छा आपने बहुत पहले की थी जो अब पूरी हो चुकी है? आज कुछ क्षण रुककर धन्यवाद कहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "बऱ्याच पूर्वी केलेली एखादी इच्छा तुम्हाला आठवते का, जी आता पूर्ण झाली आहे? आज क्षणभर थांबून धन्यवाद म्हणा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A wish held honestly is not forgotten, and grace crosses every boundary of rank and religion that people draw.",
+  "hi": {
+   "text": "ईमानदारी से रखी गई इच्छा भुलाई नहीं जाती, और कृपा उन पदों और धर्मों की हर सीमा को लाँघ जाती है जो लोग खींचते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रामाणिकपणे धरलेली इच्छा विसरली जात नाही, आणि कृपा माणसे आखत असलेल्या पद आणि धर्माच्या प्रत्येक सीमेला ओलांडते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 50; boundary with 51 differs between editions; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 50; अध्याय 51 की सीमा संस्करणों में भिन्न है; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 50; अध्याय 51 ची सीमा संस्करणांमध्ये वेगळी आहे; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

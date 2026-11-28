@@ -1,0 +1,236 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "sangam-and-ganagapur-glory",
+ "order": 48,
+ "part": "bhakti",
+ "figure": {
+  "en": "Narasimha Saraswati, Ratnai and the people of Ganagapur",
+  "hi": {
+   "text": "नृसिंह सरस्वती, रत्नई और गाणगापुर के लोग",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती, रत्नाई आणि गाणगापूरचे लोक",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Where the Rivers Meet",
+  "hi": {
+   "text": "जहाँ नदियाँ मिलती हैं",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जिथे नद्या भेटतात",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The Guru bathes with his family at the sangam, tells how the Amarja river was born, and names the holy places of Ganagapur.",
+  "hi": {
+   "text": "गुरु परिवार के साथ संगम पर स्नान करते हैं, अमरजा नदी के जन्म की कथा सुनाते हैं, और गाणगापुर के पवित्र स्थानों के नाम गिनाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरू कुटुंबासह संगमावर स्नान करतात, अमरजा नदीचा जन्म कसा झाला ते सांगतात, आणि गाणगापूरच्या पवित्र स्थळांची नावे घेतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/gc-4.webp",
+   "w": 495,
+   "h": 1100,
+   "caption": {
+    "en": "The Dattatreya temple at Ganagapur",
+    "hi": {
+     "text": "गाणगापुर का दत्तात्रेय मंदिर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाणगापूरचे दत्तात्रेय मंदिर",
+     "reviewed": false
+    }
+   },
+   "credit": "FailedEngineer2027, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganagapur_Dattatreya_Temple_Sri_Kshetra_Ganagapur.jpg"
+  },
+  {
+   "src": "/stories/gurucharitra/n-bhima.webp",
+   "w": 1200,
+   "h": 301,
+   "caption": {
+    "en": "The Bhima river",
+    "hi": {
+     "text": "भीमा नदी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भीमा नदी",
+     "reviewed": false
+    }
+   },
+   "credit": "Arupparia, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhima_River.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A Bath at the Sangam",
+    "hi": {
+     "text": "संगम पर स्नान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संगमावर स्नान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On the fourteenth day of the dark half of Ashvin, the Guru went to the sangam with his family and bathed in the confluence. It was the Trishali sangam, a three-fold meeting of waters, and the Guru explained its sanctity to those who gathered there.\n\nHe told them why the place was holy. A simple stretch of water where rivers meet had been, in his telling, a doorway for the grace of the gods since long before the town existed. Children sat on the steps and listened with the grown-ups. The Gurucharitra gives the occasion as a day of bathing and teaching, and the Guru in the water among his people is the picture it leaves us with. On Ashvin Vadya 14 the Guru bathed there with his family, and the sangam where the Bhima and the Amarja meet became, in his teaching, a place the whole town could return to for blessing.",
+    "hi": {
+     "text": "आश्विन कृष्ण चतुर्दशी को गुरु परिवार के साथ संगम पर गए और वहाँ स्नान किया। वह त्रिशूली संगम था, जल का त्रिगुण मिलन, और गुरु ने वहाँ एकत्र लोगों को उसकी पवित्रता समझाई।\n\nउन्होंने बताया कि यह स्थान पवित्र क्यों है। उनके वर्णन में नदियों के मिलने का जल का एक साधारण विस्तार उस नगर के बनने से भी बहुत पहले से देवताओं की कृपा का द्वार रहा था। बच्चे सीढ़ियों पर बड़ों के साथ बैठकर सुनते रहे। श्री गुरुचरित्र इस अवसर को स्नान और उपदेश के दिन के रूप में प्रस्तुत करता है, और जल के बीच अपने लोगों के साथ खड़े गुरु का चित्र ही हमारे मन में रह जाता है। आश्विन वद्य चतुर्दशी को गुरु ने परिवार के साथ वहाँ स्नान किया, और भीमा तथा अमरजा के मिलन का संगम उनकी शिक्षा में ऐसा स्थान बन गया जहाँ पूरा नगर आशीर्वाद के लिए लौट सकता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आश्विन कृष्ण चतुर्दशीला गुरू कुटुंबासह संगमावर गेले आणि त्रिवेणीत स्नान केले. तो त्रिशूली संगम होता, पाण्याचा त्रिगुण मिलाप, आणि गुरूंनी जमलेल्या लोकांना त्याचे पावित्र्य समजावले.\n\nत्यांनी सांगितले की हे स्थान पवित्र का आहे. त्यांच्या सांगण्यानुसार नद्या जिथे मिळतात तिथला साधा पाण्याचा विस्तार, नगर वसण्याच्याही आधीपासून देवतांच्या कृपेचे द्वार होता. लहान मुले पायऱ्यांवर मोठ्यांसोबत बसून ऐकत होती. श्री गुरुचरित्र हा प्रसंग स्नान आणि उपदेशाचा दिवस म्हणून सांगते, आणि पाण्यात आपल्या लोकांमध्ये उभे असलेले गुरू हेच चित्र आपल्या मनात राहते. आश्विन वद्य चतुर्दशीला गुरूंनी कुटुंबासह तिथे स्नान केले, आणि भीमा व अमरजा यांचा संगम त्यांच्या शिकवणीत असे ठिकाण बनला जिथे संपूर्ण नगर आशीर्वादासाठी परत येऊ शकत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Nectar from Shiva",
+    "hi": {
+     "text": "शिव का अमृत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिवाचे अमृत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru told how the Amarja river was born. When Indra's forces had killed the demons of Jalandhara, the gods who had fallen in battle needed reviving. Indra took Shiva's nectar and sprinkled it over them, and drops of it fell to the earth.\n\nFrom those drops the Amarja river arose. The Gurucharitra gives the river an origin worthy of its place. The Guru told it quietly, without ornament, and the people who had come to bathe understood that the water at their feet carried a very old gift. Shiva's nectar had been meant for the gods alone, and yet some of it, the Guru said, spilled on the ground. The rest of the story flows as the river does. A sip of immortality had fallen on an ordinary valley, and the river carries the name of that gift to this day.",
+    "hi": {
+     "text": "गुरु ने बताया कि अमरजा नदी कैसे उत्पन्न हुई। जब इंद्र की सेना ने जालंधर के दैत्यों का वध किया, तब युद्ध में गिरे देवताओं को पुनर्जीवन की आवश्यकता थी। इंद्र ने शिव का अमृत लिया और उसे उन पर छिड़का, और उसकी कुछ बूँदें धरती पर गिर पड़ीं।\n\nउन्हीं बूँदों से अमरजा नदी उत्पन्न हुई। श्री गुरुचरित्र इस नदी को उसके स्थान के योग्य एक उत्पत्ति देता है। गुरु ने इसे शांति से, बिना अलंकार के कहा, और स्नान के लिए आए लोग समझ गए कि उनके पैरों के नीचे का जल एक अत्यंत प्राचीन वरदान ले जा रहा है। शिव का अमृत केवल देवताओं के लिए था, फिर भी उसकी कुछ बूँदें, गुरु ने कहा, भूमि पर गिर गईं। शेष कथा नदी की भाँति बहती है। अमरत्व की एक घूँट एक साधारण घाटी पर गिरी, और नदी आज भी उस वरदान का नाम लिए बहती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी अमरजा नदी कशी जन्मली ते सांगितले. जेव्हा इंद्राच्या सेनेने जालंधराच्या दैत्यांचा वध केला, तेव्हा युद्धात पडलेल्या देवांना पुनर्जीवनाची गरज होती. इंद्राने शिवाचे अमृत घेतले आणि ते त्यांच्यावर शिंपडले, आणि त्याचे काही थेंब पृथ्वीवर पडले.\n\nत्या थेंबांपासून अमरजा नदी उगम पावली. श्री गुरुचरित्र नदीला तिच्या स्थानाला शोभेल अशी उत्पत्ती देते. गुरूंनी ते शांतपणे, अलंकाराशिवाय सांगितले, आणि स्नानासाठी आलेल्या लोकांना समजले की त्यांच्या पायांखालचे पाणी एक अत्यंत प्राचीन देणगी वाहत आहे. शिवाचे अमृत केवळ देवांसाठी होते, तरीही त्यातले काही थेंब, गुरू म्हणाले, जमिनीवर सांडले. बाकीची कथा नदीसारखी वाहते. अमरत्वाचा एक घोट एका साध्या दरीवर पडला, आणि नदी आजही त्या वरदानाचे नाव घेऊन वाहते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Shrines and Brothers",
+    "hi": {
+     "text": "मंदिर और दो भाई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मंदिरे आणि दोन भाऊ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He described the shrines near the river: the ashvattha tree and the temple of Sangameshwar. He told of two brothers, Ishwar and Pandurang, of Bharadwaja gotra, who had set up Kashi Vishweshwar at this place.\n\nThe people nodded. These were the places they knew from childhood, and the Guru was showing them the history of what they had always walked past. A familiar bank became, for a moment, an old and storied place. Kashi Vishweshwar is the great temple of Shiva in the north, and the two brothers had wished to bring its blessing to the Bhima. The people looked at the small shrine with new eyes, and the Guru, standing at the edge of the water, let them look. He described the ashvattha tree and the shrine of Sangameshwar, and told how two brothers of Bharadwaja gotra, Ishwar and Pandurang, had established Kashi Vishweshwar there.",
+    "hi": {
+     "text": "उन्होंने नदी के समीप के मंदिरों का वर्णन किया: अश्वत्थ वृक्ष और संगमेश्वर का मंदिर। उन्होंने ईश्वर और पांडुरंग नामक दो भाइयों की चर्चा की, जो भारद्वाज गोत्र के थे और जिन्होंने इस स्थान पर काशी विश्वेश्वर की स्थापना की थी।\n\nलोगों ने सिर हिलाया। ये वे स्थान थे जिन्हें वे बचपन से जानते थे, और गुरु उन्हें उस वस्तु का इतिहास दिखा रहे थे जिसके पास से वे सदा गुज़रते रहे थे। एक परिचित तट क्षण भर के लिए एक प्राचीन और कथाओं से भरा स्थान बन गया। काशी विश्वेश्वर उत्तर में शिव का महान मंदिर है, और दोनों भाई उसका आशीर्वाद भीमा तट तक लाना चाहते थे। लोगों ने उस छोटे मंदिर को नई दृष्टि से देखा, और जल के किनारे खड़े गुरु ने उन्हें देखने दिया। उन्होंने अश्वत्थ वृक्ष और संगमेश्वर के मंदिर का वर्णन किया, और बताया कि भारद्वाज गोत्र के दो भाई, ईश्वर और पांडुरंग, ने वहाँ काशी विश्वेश्वर की स्थापना कैसे की।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांनी नदीजवळच्या मंदिरांचे वर्णन केले: अश्वत्थ वृक्ष आणि संगमेश्वराचे मंदिर. त्यांनी ईश्वर आणि पांडुरंग या भारद्वाज गोत्राच्या दोन भावांची चर्चा केली, ज्यांनी या ठिकाणी काशी विश्वेश्वराची स्थापना केली होती.\n\nलोक मान हलवून होकार देत होते. ही अशी ठिकाणे होती जी ते लहानपणापासून ओळखत होते, आणि गुरू त्यांना ज्या गोष्टींच्या जवळून ते नेहमी जात असत त्यांचा इतिहास दाखवत होते. एक परिचित काठ क्षणभरासाठी एक प्राचीन आणि कथांनी भरलेले ठिकाण बनले. काशी विश्वेश्वर हे उत्तरेकडील शिवाचे महान मंदिर आहे, आणि त्या दोन भावांना त्याचा आशीर्वाद भीमेपर्यंत आणायचा होता. लोकांनी त्या लहान मंदिराकडे नव्या नजरेने पाहिले, आणि पाण्याच्या काठी उभे असलेल्या गुरूंनी त्यांना पाहू दिले. त्यांनी अश्वत्थ वृक्ष आणि संगमेश्वराच्या मंदिराचे वर्णन केले, आणि भारद्वाज गोत्राचे दोन भाऊ, ईश्वर आणि पांडुरंग, यांनी तिथे काशी विश्वेश्वराची स्थापना कशी केली ते सांगितले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Ratnai at Papavinashi",
+    "hi": {
+     "text": "पापविनाशिनी पर रत्नई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पापविनाशिनीवर रत्नाई",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru then directed his sister Ratnai, who had come with the family, to bathe at the Papavinashi tirtha. She did, and the leprosy that had been foretold in an earlier chapter left her. The text links this with an old wrong she had done, but we read it, as the Gurucharitra intends, as the fulfilment of a promise of healing.\n\nShe stood on the bank healed, and her brother looked at her with calm affection. A sister who had once asked to be released from family ties had found, in the end, that the family had come to her. Ratnai came down to the water slowly. The Siddha tells it without ceremony. She bathed, and she came out clean and well. It was a quiet moment, and the Guru did not make a speech.",
+    "hi": {
+     "text": "फिर गुरु ने अपनी बहन रत्नई को, जो परिवार के साथ आई थीं, पापविनाशिनी तीर्थ पर स्नान करने का निर्देश दिया। उन्होंने स्नान किया, और जिस कुष्ठ रोग की भविष्यवाणी एक पूर्व अध्याय में की गई थी, वह उनसे दूर हो गया। ग्रंथ इसे उनके किसी पुराने अपराध से जोड़ता है, पर हम इसे, जैसा श्री गुरुचरित्र का अभिप्राय है, उपचार के वचन की पूर्ति के रूप में पढ़ते हैं।\n\nवे तट पर स्वस्थ खड़ी थीं, और उनका भाई शांत स्नेह से उन्हें देख रहा था। जिस बहन ने कभी पारिवारिक बंधनों से मुक्ति माँगी थी, उसने अंत में पाया कि परिवार स्वयं उसके पास आ गया था। रत्नई धीरे-धीरे जल की ओर उतरीं। सिद्ध इसे बिना किसी आडंबर के कहते हैं। वे नहाईं, और स्वच्छ और स्वस्थ होकर बाहर आईं। वह एक शांत क्षण था, और गुरु ने कोई भाषण नहीं दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग गुरूंनी आपली बहीण रत्नाई, जी कुटुंबासह आली होती, तिला पापविनाशिनी तीर्थात स्नान करण्यास सांगितले. तिने स्नान केले, आणि मागील अध्यायात ज्या कुष्ठरोगाचे भाकीत केले होते, तो तिच्यापासून दूर झाला. ग्रंथ हे तिच्या एखाद्या जुन्या अपराधाशी जोडतो, पण आपण ते, श्री गुरुचरित्राच्या अभिप्रायानुसार, उपचाराच्या वचनाची पूर्तता म्हणून वाचतो.\n\nती काठावर बरी होऊन उभी होती, आणि तिचा भाऊ शांत स्नेहाने तिच्याकडे पाहत होता. ज्या बहिणीने एकदा कौटुंबिक बंधनांतून मुक्ती मागितली होती, तिला शेवटी आढळले की कुटुंबच तिच्याकडे आले होते. रत्नाई हळूहळू पाण्याकडे उतरल्या. सिद्ध हे कोणत्याही विधीशिवाय सांगतात. त्या स्नान करून स्वच्छ आणि निरोगी होऊन बाहेर आल्या. तो शांत क्षण होता, आणि गुरूंनी कोणतेही भाषण केले नाही.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "The Eight Places and a Feast",
+    "hi": {
+     "text": "आठ तीर्थ और भोज",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आठ तीर्थे आणि भोज",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "He named other tirthas of the town: Koti, Rudra, Chakra and Manmatha, and the shrine of Kalleshwar. He spoke of the greatness of eight places in all, so that the people would know them by name. He spoke of the greatness of eight places in all, among them the tirthas Koti, Rudra, Chakra and Manmatha, and the shrine of Kalleshwar. Each name was an invitation to the townspeople to see their own surroundings as sacred ground, and to come back to them with care.\n\nA grand samaradhana followed, a feast for all who had come. The Siddha tells it as a day of ease, with the river running beside them and the Guru among his people. After the stories of nectar and healing, the plain pleasure of a shared meal seemed the right ending.",
+    "hi": {
+     "text": "उन्होंने नगर के अन्य तीर्थों के नाम लिए: कोटि, रुद्र, चक्र और मन्मथ, और कल्लेश्वर का मंदिर। उन्होंने कुल आठ स्थानों की महिमा कही, ताकि लोग उन्हें नाम से जानें। कोटि, रुद्र, चक्र और मन्मथ तीर्थों, और कल्लेश्वर के मंदिर सहित आठ स्थानों की महिमा उन्होंने कही। हर नाम नगरवासियों के लिए यह आमंत्रण था कि वे अपने चारों ओर के स्थानों को पवित्र भूमि के रूप में देखें, और उनके पास सावधानी से लौटें।\n\nफिर सबके लिए एक भव्य समाराधना, एक भोज हुआ। सिद्ध इसे सुख के दिन के रूप में सुनाते हैं, नदी उनके साथ बहती हुई, और गुरु अपने लोगों के बीच। अमृत और उपचार की कथाओं के बाद, एक साथ बैठकर किया गया साधारण भोजन ही उचित अंत लगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांनी नगरातील इतर तीर्थांची नावे घेतली: कोटी, रुद्र, चक्र आणि मन्मथ, आणि कल्लेश्वराचे मंदिर. त्यांनी एकूण आठ स्थानांच्या महिमेचे वर्णन केले, जेणेकरून लोकांना ती नावाने माहीत व्हावीत. कोटी, रुद्र, चक्र आणि मन्मथ तीर्थे, आणि कल्लेश्वराचे मंदिर यांसह आठ स्थानांची महती त्यांनी सांगितली. प्रत्येक नाव नगरवासीयांना आमंत्रण होते की त्यांनी आपल्या सभोवतालची ठिकाणे पवित्र भूमी म्हणून पाहावीत आणि काळजीने त्यांच्याकडे परत यावे.\n\nमग सर्वांसाठी भव्य समाराधना, म्हणजे भोज, झाला. सिद्ध हे सुखाचा दिवस म्हणून सांगतात, नदी त्यांच्याशेजारी वाहत आहे, आणि गुरू आपल्या लोकांमध्ये. अमृत आणि उपचाराच्या कथांनंतर, एकत्र बसून केलेले साधे जेवण हाच योग्य शेवट वाटला.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Which place near you carries a story you have never asked about? Find out one thing about it this week.",
+  "hi": {
+   "text": "आपके आसपास कौन-सा स्थान ऐसी कथा लिए है जिसके विषय में आपने कभी नहीं पूछा? इस सप्ताह उसके विषय में एक बात जानिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या जवळचे कोणते ठिकाण अशी कथा घेऊन आहे ज्याबद्दल तुम्ही कधीच विचारले नाही? या आठवड्यात त्याविषयी एक गोष्ट जाणून घ्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The places we pass every day carry stories and gifts, and a sincere eye can find the holy in the familiar.",
+  "hi": {
+   "text": "हम हर दिन जिन स्थानों से गुज़रते हैं, वे कथाएँ और कृपा लिए होते हैं, और एक सच्ची दृष्टि परिचित में भी पवित्र को पा सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपण दररोज ज्या ठिकाणांवरून जातो त्यांच्यात कथा आणि कृपा असते, आणि प्रामाणिक नजर परिचितातही पवित्र शोधू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 48; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 48; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 48; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

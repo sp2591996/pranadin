@@ -4,154 +4,202 @@
  "version": "2026-11-28.1",
  "status": "draft",
  "id": "shripad-shrivallabha",
- "order": 4,
+ "order": 5,
  "part": "jnana",
  "figure": {
-  "en": "Apalaraj, Sumati and the child Shripad",
+  "en": "Apalaraj, Sumati and Shripad",
   "hi": {
-   "text": "आपळराज, सुमति और बालक श्रीपाद",
+   "text": "अपलराज, सुमति और श्रीपाद",
    "reviewed": false
   },
   "mr": {
-   "text": "आपळराज, सुमती आणि बालक श्रीपाद",
+   "text": "अपलराज, सुमती आणि श्रीपाद",
    "reviewed": false
   }
  },
  "title": {
-  "en": "The Guest on Shraddha Day",
+  "en": "The Guest Who Came on Shraddha Day",
   "hi": {
-   "text": "श्राद्ध के दिन का अतिथि",
+   "text": "श्राद्ध के दिन आया अतिथि",
    "reviewed": false
   },
   "mr": {
-   "text": "श्राद्धाच्या दिवशीचा पाहुणा",
+   "text": "श्राद्धदिनी आलेला पाहुणा",
    "reviewed": false
   }
  },
  "teaser": {
-  "en": "A household is about to honour its ancestors when an uninvited guest appears at the door. Who is he?",
+  "en": "A mother’s kindness to an uninvited guest brings the first avatar of Datta’s line to Pithapur.",
   "hi": {
-   "text": "एक घर अपने पितरों का सम्मान करने की तैयारी में है, तभी द्वार पर एक अनिमंत्रित अतिथि आ खड़ा होता है। वह कौन है?",
+   "text": "एक बिन बुलाए अतिथि के प्रति माता की दया दत्त-वंश के पहले अवतार को पीठापुर तक ले आती है।",
    "reviewed": false
   },
   "mr": {
-   "text": "एक घर आपल्या पितरांचा सन्मान करण्याच्या तयारीत असताना दारात एक न बोलावलेला पाहुणा उभा राहतो. तो कोण आहे?",
+   "text": "एका बिनबोलावलेल्या पाहुण्यावरील आईची दया दत्त-वंशातील पहिला अवतार पीठापूरपर्यंत घेऊन येते.",
    "reviewed": false
   }
  },
  "images": [
   {
-   "src": "/stories/gurucharitra/gc-5.webp",
-   "w": 764,
+   "src": "/stories/gurucharitra/n-shripad.webp",
+   "w": 825,
    "h": 1100,
    "caption": {
-    "en": "Pithapuram, birthplace of Shripad Shrivallabha",
+    "en": "Shripad Shrivallabha shrine",
     "hi": {
-     "text": "पीठापुरम, श्रीपाद श्रीवल्लभ की जन्मभूमि",
+     "text": "श्रीपाद श्रीवल्लभ का मंदिर",
      "reviewed": false
     },
     "mr": {
-     "text": "पीठापूर, श्रीपाद श्रीवल्लभांचे जन्मस्थान",
+     "text": "श्रीपाद श्रीवल्लभांचे मंदिर",
      "reviewed": false
     }
    },
-   "credit": "Adityamadhav83, CC BY-SA 3.0, via Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Pithapuram_Montage.jpg"
+   "credit": "SriPada2498, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SriPada_Sri_vallabha.jpg"
   }
  ],
  "scenes": [
   {
    "title": {
-    "en": "A house at Pithapur",
+    "en": "Avatars Before",
     "hi": {
-     "text": "पीठापुर का एक घर",
+     "text": "पहले के अवतार",
      "reviewed": false
     },
     "mr": {
-     "text": "पीठापूर येथील एक घर",
+     "text": "आधीचे अवतार",
      "reviewed": false
     }
    },
    "text": {
-    "en": "In the town of Pithapur lived a learned brahmin named Apalaraj and his wife Sumati, a pious and gentle couple. They had little wealth but great sincerity, and their home was known for welcoming anyone who came to the door. They longed for a child who would carry their devotion forward. Their neighbours often said that their house felt warm even in the hottest weather, for kindness filled every room.\n\nOne day they were preparing a shraddha, a ritual meal in memory of their ancestors. In the world of that time, the first portion was set aside for invited brahmin guests, and the household kept strict rules about who might eat before the rite was finished. Everything was ready, and the invited guests were still to arrive. Sumati rose early, swept the courtyard, and prayed that she might one day be worthy of a child of such blessing.",
+    "en": "The Siddha reminded Namdharak how the Lord has come again and again: as the fish, the tortoise, Narasimha, Rama and Krishna, with Kalki still to come. He also spoke of Bhagiratha, who brought the Ganga down to earth by long penance, to show that great effort calls down great grace.\n\nThen he turned to Pithapur, a town in the south-east. There, he said, the next chapter of the Guru’s story took shape in an ordinary household. It did not begin with thunder in the sky but with a brahmin named Apalaraj and his devout wife Sumati, who lived quietly, kept their rites and had no idea that anyone was watching. Pithapur, later called Pithapuram, lies in the east of the Deccan, near the sea, and the Gurucharitra counts it as the first home of Shripad’s story.",
     "hi": {
-     "text": "पीठापुर नगर में आपळराज नामक एक विद्वान ब्राह्मण और उनकी पत्नी सुमति रहते थे, एक धर्मपरायण और सौम्य दंपति। उनके पास धन कम था पर सच्चाई बहुत थी, और उनका घर द्वार पर आने वाले हर किसी का स्वागत करने के लिए जाना जाता था। वे एक ऐसी संतान की आस रखते थे जो उनकी भक्ति को आगे ले जाए। पड़ोसी अक्सर कहते कि उनका घर कड़ी गर्मी में भी गर्म नहीं, स्नेहिल लगता है, क्योंकि दयालुता हर कक्ष में भरी रहती थी।\n\nएक दिन वे श्राद्ध की तैयारी कर रहे थे, अपने पितरों की स्मृति में किया जाने वाला भोज। उस समय के संसार में पहला भाग आमंत्रित ब्राह्मण अतिथियों के लिए अलग रखा जाता था, और घर में इसके कठोर नियम थे कि विधि पूरी होने से पहले कौन खा सकता है। सब कुछ तैयार था, और आमंत्रित अतिथि अभी आने थे। सुमति भोर में उठीं, आँगन बुहारा, और प्रार्थना की कि वे कभी ऐसी आशीर्वादित संतान के योग्य बन सकें।",
+     "text": "सिद्ध ने नामधारक को याद दिलाया कि प्रभु बार-बार कैसे अवतरित हुए हैं: मत्स्य, कच्छप, नृसिंह, राम और कृष्ण के रूप में, और कल्कि अभी आने वाले हैं। उन्होंने भगीरथ की भी चर्चा की, जिन्होंने लंबी तपस्या से गंगा को पृथ्वी पर उतारा, यह दिखाने के लिए कि महान प्रयास महान कृपा को बुलाता है।\n\nफिर वे दक्षिण-पूर्व के एक नगर पीठापुर की ओर मुड़े। वहाँ, उन्होंने कहा, गुरु की कथा का अगला अध्याय एक साधारण गृहस्थी में आकार लेता है। वह आरंभ आकाश की गर्जना से नहीं हुआ, बल्कि अपलराज नाम के एक ब्राह्मण और उनकी धर्मपरायण पत्नी सुमति से, जो शांति से रहते थे, अपने कर्म-कांड करते थे, और यह नहीं जानते थे कि कोई उन्हें देख रहा है। पीठापुर, जिसे बाद में पीठापुरम कहा गया, दक्कन के पूर्व में समुद्र के समीप स्थित है, और श्री गुरुचरित्र इसे श्रीपाद की कथा का पहला घर मानता है।",
      "reviewed": false
     },
     "mr": {
-     "text": "पीठापूर नगरात आपळराज नावाचे एक विद्वान ब्राह्मण आणि त्यांची पत्नी सुमती राहत होते, एक धार्मिक आणि सौम्य दांपत्य. त्यांच्याकडे संपत्ती थोडी पण प्रामाणिकपणा खूप होता, आणि त्यांचे घर दारात येणाऱ्या प्रत्येकाचे स्वागत करण्यासाठी प्रसिद्ध होते. त्यांच्या भक्तीला पुढे नेईल अशा संतानाची त्यांना आस होती. शेजारी बहुधा म्हणत की त्यांचे घर कडक उन्हाळ्यातही उबदार नव्हे, मायाळू वाटते, कारण दयाळूपणा प्रत्येक खोलीत भरलेला असे.\n\nएके दिवशी ते श्राद्धाची तयारी करीत होते, पितरांच्या स्मरणार्थ केले जाणारे भोजन. त्या काळाच्या जगात पहिला भाग आमंत्रित ब्राह्मण पाहुण्यांसाठी बाजूला काढला जाई, आणि विधी पूर्ण होण्यापूर्वी कोणी जेवावे याचे घरात कडक नियम होते. सारे तयार होते, आणि आमंत्रित पाहुणे अजून यायचे होते. सुमती पहाटे उठली, अंगण झाडले, आणि तिने प्रार्थना केली की मी कधीतरी अशा आशीर्वादित बाळाला पात्र ठरावे.",
+     "text": "सिद्धांनी नामधारकांना आठवण करून दिली की प्रभू वारंवार कसे अवतरले आहेत: मत्स्य, कूर्म, नृसिंह, राम आणि कृष्ण म्हणून, आणि कल्की अजून यायचे आहेत. त्यांनी भगीरथांचीही चर्चा केली, ज्यांनी दीर्घ तपस्येने गंगेला पृथ्वीवर आणले, हे दाखवण्यासाठी की मोठा प्रयत्न मोठी कृपा आकर्षित करतो.\n\nमग ते दक्षिण-पूर्वेकडच्या पीठापूर नगराकडे वळले. तिथे, ते म्हणाले, गुरूंच्या कथेचा पुढचा अध्याय एका साध्या गृहस्थीत आकार घेतो. तो आकाशातील गर्जनेने सुरू झाला नाही, तर अपलराज नावाच्या ब्राह्मणाने आणि त्यांची धार्मिक पत्नी सुमती यांच्यापासून सुरू झाला, जे शांतपणे राहत, आपले विधी करत, आणि कोणी आपल्याला पाहत आहे याची त्यांना कल्पनाही नव्हती. पीठापूर, जे नंतर पीठापुरम म्हणून ओळखले गेले, दख्खनच्या पूर्वेला समुद्राजवळ आहे, आणि श्री गुरुचरित्र त्याला श्रीपादांच्या कथेचे पहिले घर मानते.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "The unexpected guest",
+    "en": "A Day of Remembrance",
     "hi": {
-     "text": "अनपेक्षित अतिथि",
+     "text": "स्मरण का एक दिन",
      "reviewed": false
     },
     "mr": {
-     "text": "अनपेक्षित पाहुणा",
+     "text": "स्मरणाचा दिवस",
      "reviewed": false
     }
    },
    "text": {
-    "en": "At that moment a lean, shining mendicant stood at the door and asked for food. Sumati hesitated, for the rite was incomplete. But her heart told her that a hungry visitor must never be turned away, and she knew that a guest at the door is a guest of the Lord. She served him with respect and with her own hands. She did not argue with herself for long, because the face before her seemed to ask only for a little love.\n\nThe mendicant ate, and his face lit with joy. Then, to her astonishment, he revealed himself as Dattatreya, the three-in-one. Pleased by her kindness and her courage in setting a rule aside for the sake of love, he asked what she wished for. Sumati bowed and said that what she longed for was a son. Apalaraj, when he came in, was startled, and then he bowed too, for he felt the same sudden stillness.",
+    "en": "On an amavasya day Apalaraj and Sumati were preparing the shraddha, the rite in which a family remembers its ancestors with food and prayer. Brahmins had been invited to eat, and the house was busy with cooking. The invited guests had not yet been served when a mendicant appeared at the door asking for alms.\n\nIn the custom of the time, food prepared for such a ceremony was not to be given first to anyone but the invited brahmins. Sumati hesitated, but her heart moved before her rules did. She saw a hungry person at her gate, and she gave him alms before the others had eaten. She did it with love, and the Gurucharitra remembers her for it. The shraddha was held on amavasya, the new-moon day, when families remember their forefathers with food and water, and nobody was meant to eat before the rite was done.",
     "hi": {
-     "text": "उसी क्षण एक दुबला, तेजस्वी भिक्षुक द्वार पर आ खड़ा हुआ और भोजन माँगा। सुमति झिझकीं, क्योंकि विधि अधूरी थी। पर उनके हृदय ने कहा कि भूखे आगंतुक को कभी लौटाना नहीं चाहिए, और वे जानती थीं कि द्वार पर आया अतिथि प्रभु का ही अतिथि है। उन्होंने आदर से और अपने हाथों से उसे परोसा। वे अधिक देर अपने मन से तर्क नहीं करती रहीं, क्योंकि सामने का मुख मानो केवल थोड़े-से प्रेम की याचना कर रहा था।\n\nभिक्षुक ने भोजन किया, और उसका मुख आनंद से दमक उठा। फिर, उनके आश्चर्य के बीच, उसने स्वयं को दत्तात्रेय के रूप में प्रकट किया, तीन में एक। उनकी दया और प्रेम के लिए नियम किनारे रखने के उनके साहस से प्रसन्न होकर उन्होंने पूछा कि वे क्या चाहती हैं। सुमति ने प्रणाम करके कहा कि उनकी चाह एक पुत्र की है। आपळराज जब भीतर आए, तो चौंक गए, और फिर वे भी प्रणत हुए, क्योंकि उन्होंने भी वैसा ही आकस्मिक ठहराव महसूस किया।",
+     "text": "अमावस्या के दिन अपलराज और सुमति श्राद्ध की तैयारी कर रहे थे, वह विधि जिसमें परिवार अन्न और प्रार्थना के द्वारा अपने पूर्वजों का स्मरण करता है। भोजन के लिए ब्राह्मणों को निमंत्रण दिया गया था, और घर में पाकशाला की हलचल थी। निमंत्रित अतिथियों को अभी भोजन परोसा नहीं गया था, तभी एक भिक्षुक द्वार पर आकर भिक्षा माँगने लगा।\n\nउस समय की रीति के अनुसार ऐसे अनुष्ठान के लिए बना भोजन निमंत्रित ब्राह्मणों के अतिरिक्त पहले किसी और को नहीं दिया जाता था। सुमति झिझकीं, पर उनके हृदय ने उनके नियमों से पहले उत्तर दिया। उन्होंने अपने द्वार पर एक भूखे व्यक्ति को देखा, और दूसरों के भोजन से पहले उसे भिक्षा दे दी। उन्होंने यह प्रेम से किया, और श्री गुरुचरित्र उन्हें इसी कारण स्मरण करता है। श्राद्ध अमावस्या के दिन होता है, जब परिवार अन्न और जल से अपने पूर्वजों को स्मरण करते हैं, और कर्म पूरा होने से पहले किसी को भोजन नहीं करना था।",
      "reviewed": false
     },
     "mr": {
-     "text": "त्याच क्षणी एक कृश, तेजस्वी भिक्षुक दारात उभा राहिला आणि त्याने अन्न मागितले. सुमती कचरली, कारण विधी अपूर्ण होता. पण तिचे हृदय म्हणाले की भुकेल्या पाहुण्याला कधी परत पाठवू नये, आणि तिला माहीत होते की दारात आलेला पाहुणा हा प्रभूचाच पाहुणा असतो. तिने आदराने आणि स्वतःच्या हातांनी त्याला वाढले. ती फार वेळ स्वतःशी वाद घालत बसली नाही, कारण समोरचा चेहरा जणू थोड्याशा प्रेमाचीच याचना करीत होता.\n\nभिक्षुकाने जेवण केले, आणि त्याचा चेहरा आनंदाने उजळला. मग, तिच्या आश्चर्यासमोर, त्याने स्वतःला दत्तात्रेय म्हणून प्रकट केले, तिघांमधील एक. तिच्या दयेने आणि प्रेमासाठी नियम बाजूला ठेवण्याच्या तिच्या धैर्याने प्रसन्न होऊन त्याने विचारले की तुला काय हवे आहे. सुमतीने नमस्कार करून सांगितले की मला पुत्र हवा आहे. आपळराज आत आले तेव्हा ते चकित झाले, आणि मग तेही नतमस्तक झाले, कारण त्यांनाही तोच अचानक ठहराव जाणवला.",
+     "text": "अमावस्येला अपलराज आणि सुमती श्राद्धाची तयारी करत होते, ज्या विधीत कुटुंब अन्न आणि प्रार्थनेने आपल्या पूर्वजांचे स्मरण करते. ब्राह्मणांना जेवायला बोलावले होते, आणि घरात स्वयंपाकाची लगबग होती. निमंत्रित पाहुण्यांना अजून वाढले गेले नव्हते, तोच एक भिक्षुक दारात येऊन भिक्षा मागू लागला.\n\nत्या काळच्या रीतीनुसार अशा विधीसाठी बनवलेले अन्न निमंत्रित ब्राह्मणांशिवाय आधी कोणालाही दिले जात नसे. सुमती संकोचल्या, पण त्यांच्या हृदयाने त्यांच्या नियमांपेक्षा आधी उत्तर दिले. दारात एक भुकेला माणूस पाहून त्यांनी इतरांनी जेवण्यापूर्वीच त्याला भिक्षा दिली. त्यांनी ते प्रेमाने केले, आणि श्री गुरुचरित्र त्यामुळेच त्यांचे स्मरण करते. श्राद्ध अमावस्येला होते, जेव्हा कुटुंबे अन्न आणि पाण्याने पूर्वजांचे स्मरण करतात, आणि विधी पूर्ण होईपर्यंत कोणीही जेवायचे नसते.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "The child who was a gift",
+    "en": "The Boon",
     "hi": {
-     "text": "उपहार बनकर आया बालक",
+     "text": "वरदान",
      "reviewed": false
     },
     "mr": {
-     "text": "देणगी म्हणून आलेला बालक",
+     "text": "वरदान",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Dattatreya blessed her and promised that he himself would come as her child. In time a boy was born to Apalaraj and Sumati, radiant and calm. He was named Shripad Shrivallabha, and the Gurucharitra counts him as the first appearance of Dattatreya in this line of gurus. Villagers who passed by said they felt calmer for a moment, without knowing why they had stopped walking.\n\nThe family’s home became a place of quiet wonder, where neighbours came simply to see the child. The Siddha said to Namdharak that the story shows how grace often arrives dressed as an ordinary visitor. A heart that is ready to feed the stranger may find that it has fed God. Namdharak, listening, thought of the many doors he had walked past without looking, and he smiled quietly.",
+    "en": "The mendicant was Shri Datta himself. He showed Sumati his divine form, and she fell at his feet. Pleased with her kindness, he granted her a boon: she would have a learned and famous son who would be a light to the world.\n\nSumati rose from that meeting with her hands trembling and her house still full of the smell of the ceremony. The invited brahmins ate, the shraddha was completed, and nobody in Pithapur knew what had passed at the door. But the boon had been given, and in due time Sumati bore a child. The Gurucharitra says that the greatest rite of that day was not the one the family had planned. Datta told her that her son would be famous and learned, and Sumati, still trembling, bowed again and again at his feet. The invited brahmins ate only after the mendicant had been fed, and the house returned to its rites.",
     "hi": {
-     "text": "दत्तात्रेय ने उन्हें आशीर्वाद दिया और वचन दिया कि वे स्वयं उनके पुत्र बनकर आएँगे। समय पर आपळराज और सुमति के यहाँ एक पुत्र जन्मा, तेजस्वी और शांत। उसका नाम श्रीपाद श्रीवल्लभ रखा गया, और गुरुचरित्र उन्हें इस गुरु-परंपरा में दत्तात्रेय का पहला अवतार मानता है। जो ग्रामवासी वहाँ से गुज़रते, कहते कि क्षण भर के लिए उन्हें शांति अनुभव हुई, बिना जाने कि वे क्यों रुक गए।\n\nपरिवार का घर शांत विस्मय का स्थान बन गया, जहाँ पड़ोसी बस बालक को देखने आते थे। सिद्ध ने नामधारक से कहा कि कथा दिखाती है कि कृपा अक्सर किसी साधारण आगंतुक का वेश धरकर आती है। जो हृदय अजनबी को खिलाने को तैयार हो, वह पाता है कि उसने ईश्वर को खिला दिया। नामधारक ने सुनते हुए उन अनेक द्वारों के बारे में सोचा जिनके पास से वह बिना देखे गुज़र गया था, और वह शांत भाव से मुस्कुराया।",
+     "text": "वह भिक्षुक स्वयं श्री दत्त थे। उन्होंने सुमति को अपना दिव्य रूप दिखाया, और वे उनके चरणों में गिर पड़ीं। उनकी दया से प्रसन्न होकर उन्होंने वर दिया कि उन्हें एक विद्वान और यशस्वी पुत्र होगा, जो संसार के लिए प्रकाश बनेगा।\n\nउस भेंट के बाद सुमति के हाथ काँप रहे थे और उनका घर अब भी अनुष्ठान की गंध से भरा था। निमंत्रित ब्राह्मणों ने भोजन किया, श्राद्ध पूर्ण हुआ, और पीठापुर में किसी को पता नहीं चला कि द्वार पर क्या घटा है। पर वर दिया जा चुका था, और समय आने पर सुमति को एक पुत्र हुआ। श्री गुरुचरित्र कहता है कि उस दिन का सबसे बड़ा कर्म वह नहीं था जिसकी परिवार ने योजना बनाई थी। दत्त ने उससे कहा कि उसका पुत्र विख्यात और विद्वान होगा, और सुमति, अब भी काँपती हुई, उनके चरणों में बार-बार झुकीं। निमंत्रित ब्राह्मणों ने भिक्षुक को भोजन कराने के बाद ही भोजन किया, और घर फिर अपने कर्म-कांड की ओर लौट गया।",
      "reviewed": false
     },
     "mr": {
-     "text": "दत्तात्रेयांनी तिला आशीर्वाद दिला आणि वचन दिले की मी स्वतः तुझे बाळ होऊन येईन. योग्य वेळी आपळराज आणि सुमती यांच्या घरी एक पुत्र जन्मला, तेजस्वी आणि शांत. त्याचे नाव श्रीपाद श्रीवल्लभ ठेवले गेले, आणि गुरुचरित्र त्यांना या गुरुपरंपरेतील दत्तात्रेयांचा पहिला अवतार मानते. जवळून जाणारे गावकरी सांगत की क्षणभर त्यांना शांत वाटले, आपण का थांबलो हे न कळता.\n\nकुटुंबाचे घर शांत आश्चर्याचे स्थान झाले, जिथे शेजारी फक्त त्या बाळाला पाहण्यासाठी येत. सिद्धांनी नामधारकाला सांगितले की कथा दाखवते की कृपा बहुधा एखाद्या सामान्य पाहुण्याच्या वेषात येते. जे हृदय अनोळखी माणसाला जेवू घालायला तयार असते त्याला आढळते की आपण देवालाच जेवू घातले. नामधारकाने ऐकताना त्या अनेक दारांचा विचार केला ज्यांच्या जवळून तो न पाहता निघून गेला होता, आणि तो शांतपणे हसला.",
+     "text": "तो भिक्षुक स्वतः श्री दत्त होते. त्यांनी सुमतीला आपले दिव्य रूप दाखवले, आणि त्या त्यांच्या चरणांवर कोसळल्या. तिच्या दयेने प्रसन्न होऊन त्यांनी तिला वर दिला की तिला एक विद्वान आणि कीर्तिमान पुत्र होईल, जो जगाला प्रकाश देईल.\n\nत्या भेटीनंतर सुमतीचे हात थरथरत होते आणि घरात अजून विधीचा सुगंध दरवळत होता. निमंत्रित ब्राह्मणांनी जेवण केले, श्राद्ध पूर्ण झाले, आणि पीठापूरमध्ये दारात काय घडले हे कोणालाच कळले नाही. पण वर दिला गेला होता, आणि योग्य वेळी सुमतीला पुत्र झाला. श्री गुरुचरित्र म्हणते की त्या दिवसाचा सर्वात मोठा विधी तो नव्हता ज्याची कुटुंबाने योजना केली होती. दत्तांनी तिला सांगितले की तिचा पुत्र प्रसिद्ध आणि विद्वान होईल, आणि सुमती, अजूनही थरथरत, त्यांच्या चरणांशी वारंवार नतमस्तक झाली. निमंत्रित ब्राह्मणांनी भिक्षुकाला जेवू घातल्यानंतरच जेवण केले, आणि घर पुन्हा आपल्या विधींकडे परतले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Child Shripad",
+    "hi": {
+     "text": "बालक श्रीपाद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बालक श्रीपाद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The boy was named Shripad. By the age of seven he had mastered the Vedas and was teaching brahmins older than himself. When he turned sixteen his family began to speak of marriage. He refused, declaring that he was a brahmachari named Shri Vallabha, and that he meant to go to the forest.\n\nHis mother fainted. She had two elder sons, one blind and one lame, and in her sorrow she cried that she was losing her last support. The child who had been a wonder to the whole town now faced the hardest scene of all: a mother’s grief at his leave-taking, and two brothers who could not follow him. At sixteen, when others prepared a wedding, the boy spoke instead of the forest, and the house fell silent. His mother had waited sixteen years for him to grow, and now she watched him choose a life she could not follow.",
+    "hi": {
+     "text": "बालक का नाम श्रीपाद रखा गया। सात वर्ष की आयु तक उन्होंने वेदों में निपुणता पा ली थी और अपने से बड़े ब्राह्मणों को पढ़ाने लगे थे। जब वे सोलह के हुए, तो परिवार में विवाह की चर्चा होने लगी। उन्होंने यह कहते हुए मना कर दिया कि वे श्रीवल्लभ नामक ब्रह्मचारी हैं और वन में जाना चाहते हैं।\n\nउनकी माता मूर्छित हो गईं। उनके दो बड़े पुत्र थे, एक अंधा और एक लंगड़ा, और दुःख में उन्होंने रोते हुए कहा कि वे अपना अंतिम सहारा खो रही हैं। जो बालक पूरे नगर के लिए चमत्कार था, वह अब सबसे कठिन दृश्य के सामने खड़ा था: विदा के समय एक माता का शोक, और दो भाई जो उनके साथ नहीं जा सकते थे। सोलह वर्ष की आयु में, जब लोग विवाह की तैयारी कर रहे थे, बालक ने वन की बात की, और घर में सन्नाटा छा गया। उनकी माता ने उनके बड़े होने की सोलह वर्ष प्रतीक्षा की थी, और अब वे उन्हें ऐसा जीवन चुनते देख रही थीं जिसके पीछे वे नहीं चल सकती थीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बालकाचे नाव श्रीपाद ठेवले गेले. सात वर्षांचा होईपर्यंत त्यांनी वेद आत्मसात केले होते आणि आपल्यापेक्षा मोठ्या ब्राह्मणांना शिकवू लागले होते. सोळा वर्षांचे झाल्यावर कुटुंबात लग्नाची चर्चा सुरू झाली. त्यांनी नकार दिला, आपण श्रीवल्लभ नावाचे ब्रह्मचारी आहोत आणि वनात जायचे आहे असे सांगत.\n\nत्यांची आई मूर्च्छित झाली. त्यांना दोन मोठे भाऊ होते, एक आंधळा आणि एक लंगडा, आणि दुःखात तिने रडत सांगितले की ती आपला शेवटचा आधार गमावत आहे. संपूर्ण नगराला चमत्कार वाटणारे बालक आता सर्वात कठीण प्रसंगाला सामोरे जात होते: निरोप घेताना एका आईचे दुःख, आणि दोन भाऊ जे त्यांच्याबरोबर जाऊ शकत नव्हते. सोळाव्या वर्षी, इतर लग्नाची तयारी करत असताना, मुलाने वनाविषयी सांगितले, आणि घरात शांतता पसरली. आईने त्यांच्या मोठे होण्याची सोळा वर्षे वाट पाहिली होती, आणि आता ती त्यांना असे जीवन निवडताना पाहत होती ज्यामागे ती जाऊ शकत नव्हती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Leaving",
+    "hi": {
+     "text": "प्रस्थान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रस्थान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shripad did not leave her in despair. With a touch he healed both brothers: the blind one could see, the lame one could walk, and both became learned. He blessed the family with future prosperity and told them they need not fear for the days ahead. Sumati, who had fainted a moment before, now stood among her three sons.\n\nThen he turned north and walked away from Pithapur, eventually reaching Gokarna, on the western coast. The Gurucharitra says that this was the first avatar in the line the book follows. Namdharak, listening, saw how one small gift of alms had grown into a whole age of grace, carried by a boy who now walked the roads alone. The two brothers, who had been carried and helped for years, walked out of the house on their own feet.",
+    "hi": {
+     "text": "श्रीपाद ने उन्हें निराश होकर नहीं छोड़ा। एक स्पर्श से उन्होंने दोनों भाइयों को स्वस्थ कर दिया: अंधा देखने लगा, लंगड़ा चलने लगा, और दोनों विद्वान बन गए। उन्होंने परिवार को भविष्य की समृद्धि का आशीर्वाद दिया और कहा कि आने वाले दिनों से डरने की आवश्यकता नहीं। सुमति, जो क्षण भर पहले मूर्छित हुई थीं, अब अपने तीनों पुत्रों के बीच खड़ी थीं।\n\nफिर वे उत्तर की ओर मुड़े और पीठापुर से दूर चल पड़े, अंततः पश्चिमी तट पर गोकर्ण पहुँचे। श्री गुरुचरित्र कहता है कि यह उस परंपरा का पहला अवतार था जिसका अनुसरण यह ग्रंथ करता है। सुनते हुए नामधारक ने देखा कि भिक्षा का एक छोटा-सा दान कैसे पूरे युग की कृपा में बदल गया, जिसे अब अकेले राह पर चलते एक बालक ने आगे बढ़ाया। वे दो भाई, जिन्हें वर्षों से उठाकर और सहारा देकर रखा जाता था, अपने पैरों से चलकर घर से बाहर निकले।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीपादांनी त्यांना निराशेत सोडले नाही. एका स्पर्शाने त्यांनी दोन्ही भावांना बरे केले: आंधळ्याला दिसू लागले, लंगड्याला चालता येऊ लागले, आणि दोघेही विद्वान झाले. त्यांनी कुटुंबाला भविष्यातील समृद्धीचा आशीर्वाद दिला आणि सांगितले की येणाऱ्या दिवसांची भीती बाळगू नका. क्षणापूर्वी मूर्च्छित झालेली सुमती आता आपल्या तीन पुत्रांमध्ये उभी होती.\n\nमग ते उत्तरेकडे वळले आणि पीठापूरपासून दूर चालले, शेवटी पश्चिम किनाऱ्यावरील गोकर्णला पोहोचले. श्री गुरुचरित्र म्हणते की हा त्या परंपरेतील पहिला अवतार होता, जिचे पालन हा ग्रंथ करतो. ऐकताना नामधारकांनी पाहिले की भिक्षेचे एक छोटेसे दान कसे संपूर्ण युगाच्या कृपेत वाढले, जी आता एकट्या रस्त्यावरून चालणाऱ्या बालकाने पुढे नेली. ते दोन भाऊ, ज्यांना वर्षानुवर्षे उचलून आधार दिला जात होता, आता स्वतःच्या पायांनी घराबाहेर पडले.",
      "reviewed": false
     }
    }
   }
  ],
  "reflect": {
-  "en": "Who in your life might be quietly waiting to be noticed or helped? Offer one small act of welcome today, such as a call, a meal or a kind word.",
+  "en": "What small kindness have you been postponing because the moment is not perfect? Do it today, and do not wait for the right form.",
   "hi": {
-   "text": "आपके जीवन में कौन चुपचाप इस प्रतीक्षा में हो सकता है कि कोई उसे देखे या उसकी सहायता करे? आज स्वागत का एक छोटा कार्य कीजिए, जैसे एक फ़ोन, एक भोजन या एक कोमल शब्द।",
+   "text": "कौन-सी छोटी दयालुता आप इसलिए टालते आ रहे हैं कि अभी समय ठीक नहीं है? उसे आज कीजिए, सही रूप की प्रतीक्षा मत कीजिए।",
    "reviewed": false
   },
   "mr": {
-   "text": "तुमच्या आयुष्यात कोणी शांतपणे कोणाच्या तरी लक्षात येण्याची किंवा मदतीची वाट पाहत असेल का? आज स्वागताची एक छोटी कृती करा, जसे एक फोन, एक जेवण किंवा एक प्रेमळ शब्द.",
+   "text": "कोणती छोटी दयाळूपणाची कृती तुम्ही 'योग्य वेळ नाही' म्हणून पुढे ढकलत आला आहात? ती आज करा, योग्य रूपाची वाट पाहू नका.",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "Welcoming a stranger with an open heart can invite grace into an ordinary home.",
+  "en": "Compassion offered in time matters more than ceremony done perfectly.",
   "hi": {
-   "text": "खुले हृदय से अजनबी का स्वागत करना एक साधारण घर में भी कृपा को आमंत्रित कर सकता है।",
+   "text": "समय पर दी गई करुणा, विधिवत पूरे किए गए कर्म-कांड से अधिक मूल्यवान है।",
    "reviewed": false
   },
   "mr": {
-   "text": "मोकळ्या मनाने अनोळखी माणसाचे स्वागत केल्याने सामान्य घरातही कृपेला आमंत्रण मिळू शकते.",
+   "text": "वेळेवर दिलेली करुणा, विधिवत पार पाडलेल्या कर्मकांडापेक्षा अधिक मोलाची आहे.",
    "reviewed": false
   }
  },
@@ -162,7 +210,7 @@
    "reviewed": false
   },
   "mr": {
-   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय ५; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 5; आमच्या शब्दांत पुनर्कथन",
    "reviewed": false
   }
  }

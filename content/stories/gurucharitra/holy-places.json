@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "holy-places",
+ "order": 15,
+ "part": "jnana",
+ "figure": {
+  "en": "The Guru and his disciples",
+  "hi": {
+   "text": "गुरु और उनके शिष्य",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरू आणि त्यांचे शिष्य",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Why the Guru Sent His Disciples Away",
+  "hi": {
+   "text": "गुरु ने शिष्यों को क्यों भेजा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरूंनी शिष्यांना का पाठवले",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A hidden Guru sends his disciples on pilgrimage and lists the holy places of Bharat.",
+  "hi": {
+   "text": "छिपे हुए गुरु अपने शिष्यों को तीर्थयात्रा पर भेजते हैं, और भारत के पवित्र स्थानों की सूची देते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "लपलेले गुरू आपल्या शिष्यांना तीर्थयात्रेवर पाठवतात, आणि भारतातील पवित्र स्थळांची यादी देतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-srisailam2.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Srisailam temple view",
+    "hi": {
+     "text": "श्रीशैलम मंदिर का दृश्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीशैलम मंदिराचे दृश्य",
+     "reviewed": false
+    }
+   },
+   "credit": "Chavakiran, CC BY 2.5, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Srisailam_Temple_view_noon.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A Hidden Life at Vaijnath",
+    "hi": {
+     "text": "वैजनाथ में छिपा जीवन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वैजनाथमधील लपलेले जीवन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru lived hidden at Arogya Bhavani Vaijnath. The reason, the Gurucharitra tells, was that people of every kind came to him at all hours, asking for all kinds of things, and he could not rest. The text compares him to Parashurama, who once withdrew to the sea when brahmins kept coming for more and more gifts.\n\nThe Siddha tells it with sympathy for both sides: the crowd that needed him and the Guru who needed quiet. So he stayed in Vaijnath, and the world mostly forgot to look for him there. Namdharak, thinking of his own crowded days, felt a rush of fellow feeling. The hidden shrine at Vaijnath became, for him, a very tender image. Arogya Bhavani Vaijnath is at Parli, and the Gurucharitra counts it among the places where the Guru stayed quietly out of sight.",
+    "hi": {
+     "text": "गुरु आरोग्य भवानी वैजनाथ में गुप्त रूप से रहते थे। श्री गुरुचरित्र बताता है कि इसका कारण यह था कि हर प्रकार के लोग उनके पास हर समय आते और तरह-तरह की माँगें रखते, और उन्हें विश्राम नहीं मिलता था। ग्रंथ उनकी तुलना परशुराम से करता है, जो तब समुद्र की ओर चले गए थे जब ब्राह्मण लगातार अधिकाधिक दान माँगने आते रहे।\n\nसिद्ध ने इसे दोनों पक्षों के प्रति सहानुभूति से सुनाया: वह भीड़ जिसे गुरु की आवश्यकता थी, और वे गुरु जिन्हें एकांत चाहिए था। इसलिए वे वैजनाथ में रहे, और संसार प्रायः उन्हें वहाँ खोजना भूल गया। नामधारक ने अपने भीड़-भरे दिनों का स्मरण करते हुए एक गहरी आत्मीयता अनुभव की। वैजनाथ का वह छिपा हुआ मंदिर उनके लिए एक अत्यंत कोमल चित्र बन गया। आरोग्य भवानी वैजनाथ परली में है, और श्री गुरुचरित्र उसे उन स्थानों में गिनता है जहाँ गुरु दृष्टि से दूर शांति से रहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू आरोग्य भवानी वैजनाथ येथे गुप्तपणे राहत होते. श्री गुरुचरित्र सांगते, याचे कारण असे की सर्व प्रकारचे लोक सर्व वेळी त्यांच्याकडे येत, नाना प्रकारच्या मागण्या करत, आणि त्यांना विश्रांती मिळत नसे. ग्रंथ त्यांची तुलना परशुरामांशी करतो, जे एकदा ब्राह्मण सतत अधिकाधिक दान मागत राहिल्यावर समुद्राकडे निघून गेले होते.\n\nसिद्धांनी हे दोन्ही बाजूंच्या सहानुभूतीने सांगितले: ती गर्दी जिला गुरूंची गरज होती, आणि ते गुरू ज्यांना एकांत हवा होता. म्हणून ते वैजनाथमध्ये राहिले, आणि जग बहुधा त्यांना तिथे शोधायचे विसरले. नामधारकांनी आपल्या गर्दीच्या दिवसांचा विचार करून एक खोल आपुलकी अनुभवली. वैजनाथचे ते लपलेले मंदिर त्यांच्यासाठी एक अत्यंत कोमल प्रतिमा बनले. आरोग्य भवानी वैजनाथ परळीला आहे, आणि श्री गुरुचरित्र त्याला अशा ठिकाणांत मोजते जिथे गुरू दृष्टीआड शांतपणे राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Command to Go",
+    "hi": {
+     "text": "जाने का आदेश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जाण्याची आज्ञा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru then sent his disciples on pilgrimage. It was not an easy parting, for they loved to be near him. But he told them to go, to visit the holy places, and to meet him again at Shrishailam in the year called Bahudhanya. He told them also what to do at each place, how to bathe, what to give and what to remember.\n\nIt is a lovely idea: that devotion to a Guru is not only to sit beside him but to walk, in his name, to places where the earth itself is held sacred. A pilgrimage is another form of service. The disciples bowed, took their leave, and prepared for a journey that would take them across the whole country, from the Ganga to the southern sea. They were to meet again at Shrishailam, on the great hill where Mallikarjuna is worshipped, in the year named Bahudhanya.",
+    "hi": {
+     "text": "फिर गुरु ने अपने शिष्यों को तीर्थयात्रा पर भेजा। यह विदा सरल नहीं थी, क्योंकि वे उनके समीप रहना चाहते थे। पर गुरु ने उन्हें जाने को कहा, पवित्र स्थानों के दर्शन करने, और बहुधान्य नामक वर्ष में श्रीशैलम पर उनसे फिर मिलने को। उन्होंने हर स्थान पर क्या करना है, कैसे स्नान करना है, क्या दान देना है और क्या स्मरण रखना है, यह भी बताया।\n\nयह एक सुंदर विचार है: गुरु के प्रति भक्ति केवल उनके पास बैठना नहीं, बल्कि उनके नाम पर उन स्थानों तक चलना भी है, जहाँ धरती स्वयं पवित्र मानी जाती है। तीर्थयात्रा भी सेवा का एक रूप है। शिष्यों ने झुककर प्रणाम किया, विदा ली, और ऐसी यात्रा की तैयारी की जो उन्हें पूरे देश में ले जाने वाली थी, गंगा से दक्षिण के समुद्र तक। उन्हें बहुधान्य वर्ष में महान पर्वत श्रीशैलम पर, जहाँ मल्लिकार्जुन की पूजा होती है, फिर मिलना था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग गुरूंनी आपल्या शिष्यांना तीर्थयात्रेवर पाठवले. ही विदाई सोपी नव्हती, कारण त्यांना गुरूंच्या जवळ राहायला आवडत होते. पण गुरूंनी त्यांना जायला सांगितले, पवित्र स्थळांचे दर्शन घेण्यासाठी, आणि बहुधान्य नावाच्या वर्षी श्रीशैलमला पुन्हा भेटण्यासाठी. त्यांनी प्रत्येक ठिकाणी काय करायचे, कसे स्नान करायचे, काय दान द्यायचे आणि काय स्मरणात ठेवायचे हेही सांगितले.\n\nही सुंदर कल्पना आहे: गुरूंच्या प्रति भक्ती म्हणजे फक्त त्यांच्याजवळ बसणे नव्हे, तर त्यांच्या नावाने त्या स्थळांपर्यंत चालत जाणे, जिथे भूमी स्वतःच पवित्र मानली जाते. तीर्थयात्रा सेवेचेच एक रूप आहे. शिष्यांनी नमस्कार करून निरोप घेतला, आणि गंगेपासून दक्षिणेकडील समुद्रापर्यंत संपूर्ण देश पार करणाऱ्या प्रवासाची तयारी केली. त्यांना बहुधान्य वर्षी महान पर्वत श्रीशैलमवर, जिथे मल्लिकार्जुनाची पूजा होते, पुन्हा भेटायचे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Route of the North",
+    "hi": {
+     "text": "उत्तर का मार्ग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उत्तरेचा मार्ग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru gave them a route. They were to begin at Kashi on the Bhagirathi, then go to Prayag, the banks of the Yamuna and the Saraswati, then the Varuna, Kushavarta, Krishnaveni and Vitasta, the Narmada, Pushkar, Gaya and Kurukshetra. Further north lay Badrinarayan and Kedar, with their snows.\n\nThe list is long, and the text revels in the names, like a prayer made of geography. In an age without maps in every hand, such a list was a gift, a way of holding the whole country in the mind as one sacred body. Each name carried a story, and the Guru gave his disciples the task of letting those stories touch them as they walked. Kashi first, the Guru said, and then Prayag, and so on down the list he gave.",
+    "hi": {
+     "text": "गुरु ने उन्हें एक मार्ग दिया। उन्हें भागीरथी पर स्थित काशी से आरंभ करना था, फिर प्रयाग, यमुना और सरस्वती के तट, फिर वरुणा, कुशावर्त, कृष्णवेणी और वितस्ता, नर्मदा, पुष्कर, गया और कुरुक्षेत्र। और उत्तर में हिम से ढके बदरीनारायण और केदार।\n\nयह सूची लंबी है, और ग्रंथ इन नामों में रमता है, मानो भूगोल से बनी प्रार्थना हो। जब हर किसी के हाथ में नक्शे नहीं थे, तब ऐसी सूची एक उपहार थी, जिससे पूरे देश को एक पवित्र शरीर की तरह मन में धारण किया जा सकता था। हर नाम के साथ एक कथा जुड़ी थी, और गुरु ने शिष्यों को यह कार्य दिया कि चलते समय वे उन कथाओं को अपने हृदय तक आने दें। पहले काशी, गुरु ने कहा, फिर प्रयाग, और इसी प्रकार उन्होंने सूची नीचे तक दी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी त्यांना एक मार्ग दिला. त्यांना भागीरथीवरील काशीपासून सुरुवात करायची होती, मग प्रयाग, यमुना व सरस्वतीचे तट, मग वरुणा, कुशावर्त, कृष्णवेणी आणि वितस्ता, नर्मदा, पुष्कर, गया आणि कुरुक्षेत्र. आणि उत्तरेला बदरीनारायण आणि केदार, त्यांच्या हिमशिखरांसह.\n\nही यादी लांब आहे, आणि ग्रंथ या नावांमध्ये रमतो, जणू भूगोलाची बनलेली प्रार्थना. ज्या काळात प्रत्येकाच्या हातात नकाशे नव्हते, तेव्हा अशी यादी एक देणगी होती, संपूर्ण देशाला एका पवित्र शरीरासारखे मनात धारण करण्याचा मार्ग. प्रत्येक नावामागे एक कथा होती, आणि गुरूंनी शिष्यांना चालताना त्या कथा त्यांना स्पर्श करू देण्याचे काम दिले. आधी काशी, गुरू म्हणाले, मग प्रयाग, आणि अशा प्रकारे त्यांनी यादी खालपर्यंत सांगितली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Westward and Southward",
+    "hi": {
+     "text": "पश्चिम और दक्षिण की ओर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पश्चिम आणि दक्षिणेकडे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The path then turned west and south: Prabhasa, Gokarna, Ayodhya, Mathura, Kanchi and Dwarka, and the seven cities said to grant liberation. Further south lay Setubandha and Rameshwar, Dhanushkoti and Kanyakumari, and the shrines of Pandharpur, Harihar and Kolhapur.\n\nHe also named Gangapur and the sangam of the Bhima and Amarja, the very place where Namdharak was headed, as well as Mallikarjuna at Shrishailam and the goddess Bhuvaneshwari at Bhilavadi. It is a map from the Himalaya to the sea, held together by the idea that every river and every hill is a doorway for those who approach with reverence, and each disciple took the list as a prayer. Each stop, he told them, had its own penance to be done there: how to bathe, what to give and what to remember. The Gurucharitra lists them with care, and the disciples took the whole of Bharat, from the Ganga to the southern sea, as their road.",
+    "hi": {
+     "text": "मार्ग फिर पश्चिम और दक्षिण की ओर मुड़ा: प्रभास, गोकर्ण, अयोध्या, मथुरा, कांची और द्वारका, और वे सात नगरियाँ जिन्हें मोक्षदायी कहा गया है। और दक्षिण में सेतुबंध और रामेश्वर, धनुषकोटि और कन्याकुमारी, और पंढरपुर, हरिहर और कोल्हापुर के तीर्थ।\n\nउन्होंने गाणगापुर और भीमा-अमरजा संगम का भी नाम लिया, वही स्थान जहाँ नामधारक जा रहे थे, साथ ही श्रीशैलम पर मल्लिकार्जुन और भिलवडी में देवी भुवनेश्वरी। यह हिमालय से समुद्र तक का नक्शा है, जो इस विचार से बँधा है कि हर नदी और हर पर्वत श्रद्धा से आने वालों के लिए एक द्वार है, और हर शिष्य ने इस सूची को एक प्रार्थना की तरह लिया। हर पड़ाव पर, गुरु ने कहा, वहीं करने योग्य अपना विधान है: कैसे स्नान करना, क्या दान देना और क्या स्मरण रखना। श्री गुरुचरित्र उन्हें सावधानी से गिनाता है, और शिष्यों ने गंगा से दक्षिणी समुद्र तक पूरे भारत को अपना मार्ग बनाया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मार्ग मग पश्चिम व दक्षिणेकडे वळला: प्रभास, गोकर्ण, अयोध्या, मथुरा, कांची आणि द्वारका, आणि मोक्ष देणारी मानली जाणारी सात नगरे. आणि दक्षिणेला सेतुबंध आणि रामेश्वर, धनुषकोटी आणि कन्याकुमारी, आणि पंढरपूर, हरिहर व कोल्हापूरची तीर्थस्थाने.\n\nत्यांनी गाणगापूर आणि भीमा-अमरजा संगमाचेही नाव घेतले, तीच जागा जिथे नामधारक निघाले होते, तसेच श्रीशैलमचे मल्लिकार्जुन आणि भिलवडीची देवी भुवनेश्वरी. हिमालयापासून समुद्रापर्यंतचा हा नकाशा आहे, जो या विचाराने बांधलेला आहे की प्रत्येक नदी आणि प्रत्येक डोंगर श्रद्धेने जाणाऱ्यांसाठी एक द्वार आहे, आणि प्रत्येक शिष्याने ही यादी एक प्रार्थना म्हणून घेतली. प्रत्येक थांब्यावर, ते म्हणाले, तिथे करायचे स्वतःचे प्रायश्चित्त आहे: कसे स्नान करायचे, काय दान द्यायचे आणि काय स्मरणात ठेवायचे. श्री गुरुचरित्र ते काळजीपूर्वक मोजते, आणि शिष्यांनी गंगेपासून दक्षिण समुद्रापर्यंत संपूर्ण भारत आपला मार्ग बनवला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Note on the Customs",
+    "hi": {
+     "text": "रीति-रिवाजों पर एक टिप्पणी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "रीतिरिवाजांवर एक टीप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The chapter also includes rules of conduct for pilgrimage, such as avoiding a river’s bath when it first receives new rain water, a rule the text explains in terms of that age’s ideas of purity. Such rules belong to the world of the fifteenth century, and we read them as old customs of reverence, not as instructions for our time.\n\nThe disciples bowed and set out. The Gurucharitra does not follow them step by step. It leaves them on the roads of India, walking with the Guru’s words in their hearts, and turns back to the Guru himself, still quietly resting at Vaijnath, and to the questions Namdharak was about to ask of the Siddha under the ashvattha tree. At Vaijnath, far from the roads, the Guru stayed quietly out of sight, as the chapter began.",
+    "hi": {
+     "text": "इस अध्याय में तीर्थयात्रा के आचरण-नियम भी हैं, जैसे नदी में उस समय स्नान न करना जब उसमें पहली बार नया वर्षा-जल आता है, जिसे ग्रंथ उस युग की शुद्धता संबंधी धारणाओं के आधार पर समझाता है। ऐसे नियम पंद्रहवीं शताब्दी के संसार के हैं, और हम इन्हें श्रद्धा की पुरानी रीतियों के रूप में पढ़ते हैं, आज के लिए निर्देशों के रूप में नहीं।\n\nशिष्यों ने झुककर प्रणाम किया और प्रस्थान किया। श्री गुरुचरित्र उनके कदम-दर-कदम पीछे नहीं चलता। वह उन्हें भारत की राहों पर छोड़ देता है, उनके हृदय में गुरु के वचन लिए चलते हुए, और फिर गुरु की ओर लौटता है, जो अभी भी वैजनाथ में शांति से विश्राम कर रहे हैं, और उन प्रश्नों की ओर जो नामधारक अश्वत्थ वृक्ष के नीचे सिद्ध से पूछने वाले थे। वैजनाथ में, राहों से दूर, गुरु वैसे ही शांति से दृष्टि से दूर रहे, जैसे अध्याय का आरंभ था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "या अध्यायात तीर्थयात्रेसाठी आचाराचे नियमही आहेत, जसे की नदीत जेव्हा पहिल्यांदा नवे पावसाचे पाणी येते तेव्हा स्नान न करणे, जो नियम ग्रंथ त्या काळच्या शुद्धतेच्या कल्पनांवरून समजावतो. असे नियम पंधराव्या शतकातील जगाचे आहेत, आणि आपण त्यांना श्रद्धेच्या जुन्या रीती म्हणून वाचतो, आजच्या काळासाठी सूचना म्हणून नव्हे.\n\nशिष्य नमस्कार करून निघाले. श्री गुरुचरित्र त्यांच्या पावलोपावली मागे जात नाही. ते त्यांना भारताच्या रस्त्यांवर सोडते, हृदयात गुरूंचे शब्द घेऊन चालत, आणि मग गुरूंकडे परतते, जे अजूनही वैजनाथमध्ये शांतपणे विश्रांती घेत आहेत, आणि त्या प्रश्नांकडे जे नामधारक अश्वत्थ वृक्षाखाली सिद्धांना विचारणार होते. वैजनाथमध्ये, रस्त्यांपासून दूर, गुरू अध्यायाच्या सुरुवातीप्रमाणेच शांतपणे दृष्टीआड राहिले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there a place that feels sacred to you, a river, a hill, or a corner of your home? Visit it, or imagine it, for five calm minutes today.",
+  "hi": {
+   "text": "क्या कोई स्थान आपको पवित्र लगता है, कोई नदी, कोई पर्वत, या आपके घर का कोई कोना? आज पाँच शांत मिनट उसके पास जाइए, या उसकी कल्पना कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्हाला पवित्र वाटणारी एखादी जागा आहे का, नदी, डोंगर किंवा तुमच्या घरातील एखादा कोपरा? आज पाच शांत मिनिटे तिथे जा, किंवा त्याची कल्पना करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A pilgrimage is a form of service, and the whole earth can become a doorway to the sacred.",
+  "hi": {
+   "text": "तीर्थयात्रा भी सेवा का एक रूप है, और पूरी धरती पवित्र की ओर खुला द्वार बन सकती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तीर्थयात्रा सेवेचे एक रूप आहे, आणि संपूर्ण पृथ्वी पवित्राकडे उघडणारे द्वार होऊ शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 15; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 15; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 15; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

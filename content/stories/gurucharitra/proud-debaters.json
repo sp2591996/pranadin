@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "proud-debaters",
+ "order": 25,
+ "part": "karma",
+ "figure": {
+  "en": "Narasimha Saraswati and two brahmin scholars",
+  "hi": {
+   "text": "नृसिंह सरस्वती और दो ब्राह्मण विद्वान",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि दोन ब्राह्मण पंडित",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Two Scholars Who Would Not Listen",
+  "hi": {
+   "text": "दो विद्वान जो सुनना नहीं चाहते थे",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ऐकू इच्छित नसलेले दोन विद्वान",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Two learned brahmins who have never lost a debate come to Gangapur looking for a rival.",
+  "hi": {
+   "text": "दो विद्वान ब्राह्मण, जो कभी शास्त्रार्थ नहीं हारे, एक प्रतिद्वंद्वी की खोज में गाणगापुर आते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कधीही वादात न हरलेले दोन विद्वान ब्राह्मण प्रतिस्पर्धी शोधत गाणगापूरला येतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-datta-ravi-studio.webp",
+   "w": 841,
+   "h": 1100,
+   "caption": {
+    "en": "Dattatreya, Ravi Varma studio print (c. 1910s)",
+    "hi": {
+     "text": "दत्तात्रेय, रवि वर्मा स्टूडियो का चित्र (1910 के आसपास)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दत्तात्रेय, रवि वर्मा स्टुडिओचे चित्र (सुमारे 1910)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_depiction_of_Dattatreye_from_the_Ravi_Varma_studio,_c.1910%27s.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Scholars at a Cruel Court",
+    "hi": {
+     "text": "एक कठोर दरबार के विद्वान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कठोर दरबारातील विद्वान",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the town of Vidura, in the Bidar region, a harsh Muslim ruler held power. The Gurucharitra says that brahmins were summoned to his court to recite and explain the Vedas, and that they were paid for it. It was a world in which learning could bring both wealth and danger.\n\nTwo brahmins there knew three Vedas each. They had studied deeply, and they travelled widely. Wherever they went they looked for someone who could out-argue them, and they found no one. Such courts valued a quick tongue and a long memory, and the scholars had both. They were respected for what they knew. Perhaps this is how their pride grew: every honour made the next debate feel like a duty to win, and every win made losing unthinkable. The Gurucharitra opens its Karma kanda with this picture of learning that has turned into a trophy, so that the teaching on action and its fruits can begin where pride is most at home.",
+    "hi": {
+     "text": "बीदर क्षेत्र के विदुर नगर में एक कठोर मुस्लिम शासक का शासन था। श्री गुरुचरित्र बताता है कि ब्राह्मणों को उसके दरबार में वेद पढ़ने और उनकी व्याख्या करने के लिए बुलाया जाता था, और इसके लिए उन्हें वेतन दिया जाता था। वह एक ऐसा संसार था जहाँ विद्या धन और संकट, दोनों ला सकती थी।\n\nवहाँ दो ब्राह्मण थे, जिनमें से हर एक को तीन-तीन वेद कंठस्थ थे। उन्होंने गहराई से अध्ययन किया था, और वे दूर-दूर तक यात्रा कर चुके थे। जहाँ भी जाते, वे ऐसे किसी व्यक्ति को खोजते जो उन्हें तर्क में हरा सके, और उन्हें कोई नहीं मिला। ऐसे दरबार तेज़ ज़ुबान और लंबी स्मृति को महत्व देते थे, और इन विद्वानों में दोनों थे। लोग उनके ज्ञान के लिए उनका आदर करते थे। शायद इसी से उनका अभिमान बढ़ा: हर सम्मान ने अगले शास्त्रार्थ को जीतने का कर्तव्य बना दिया, और हर जीत ने हार की कल्पना असंभव कर दी। श्री गुरुचरित्र अपने कर्मकांड का आरंभ विद्या के एक ऐसे चित्र से करता है जो ट्रॉफी बन गई है, ताकि कर्म और उसके फल की शिक्षा वहीं से आरंभ हो सके जहाँ अभिमान सबसे अधिक घर बनाए बैठा है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बिदर प्रदेशातील विदुर नगरात एक कठोर मुस्लिम शासक सत्तेवर होता. श्री गुरुचरित्र सांगते की ब्राह्मणांना त्याच्या दरबारात वेद पठण करण्यासाठी आणि त्यांचा अर्थ सांगण्यासाठी बोलावले जात असे, आणि त्यांना त्यासाठी वेतन दिले जात असे. ते असे जग होते जिथे विद्या संपत्ती आणि धोका दोन्ही आणू शकत असे.\n\nतिथे दोन ब्राह्मण होते, ज्यांपैकी प्रत्येकाला तीन-तीन वेद मुखोद्गत होते. त्यांनी खोल अभ्यास केला होता, आणि त्यांनी दूरवर प्रवास केला होता. जिथे जात तिथे त्यांना वादात हरवू शकणारा कोणी शोधत, आणि कोणीही भेटत नसे. अशा दरबारांना चपळ जीभ आणि दीर्घ स्मरणशक्ती महत्त्वाची वाटे, आणि या विद्वानांकडे दोन्ही होते. त्यांच्या ज्ञानासाठी लोक त्यांचा आदर करत. कदाचित यातूनच त्यांचा अभिमान वाढला: प्रत्येक सन्मानाने पुढचा वाद जिंकणे कर्तव्य वाटू लागले, आणि प्रत्येक विजयाने हार अकल्पनीय वाटू लागली. श्री गुरुचरित्र आपला कर्मकांड अशा विद्येच्या चित्राने सुरू करते जी ट्रॉफी बनली आहे, जेणेकरून कर्म आणि त्याच्या फळाविषयीची शिकवण अभिमान सर्वात जास्त घर करून बसलेल्या ठिकाणी सुरू होऊ शकेल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Collectors of Victories",
+    "hi": {
+     "text": "विजय-प्रमाणपत्रों के संग्राहक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विजयपत्रांचे संग्राहक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "From every place they visited they carried a victory certificate, a paper recording a win. They had many of these. The papers had become the proof of who they were, and the thought of losing one debate was a fear they did not name. They looked for rivals everywhere and found none, and the more certificates they gathered the less they could imagine being wrong. Such is the quiet danger of success that has never been tested.\n\nThey came to Kumasi and challenged Trivikram Bharati. Either he must debate them, they said, or he must give them a certificate of victory. Trivikram saw no need for either. He sent them on to his Guru at Gangapur. Kumasi was only one stop on a long list. When Trivikram Bharati declined to debate, they took it as a challenge unanswered, and they came on to Gangapur still counting their victories.",
+    "hi": {
+     "text": "हर स्थान से जहाँ वे गए, वे एक विजय-प्रमाणपत्र लेकर लौटते, एक कागज़ जिसमें उनकी जीत दर्ज होती। उनके पास ऐसे कई थे। ये कागज़ उनके होने का प्रमाण बन गए थे, और एक शास्त्रार्थ हारने का विचार एक ऐसा भय था जिसे वे नाम नहीं देते थे। वे हर जगह प्रतिद्वंद्वी खोजते और कोई नहीं मिलता, और जितने अधिक प्रमाणपत्र वे जुटाते, उतना ही कम वे अपने गलत होने की कल्पना कर पाते। अपरीक्षित सफलता का यही शांत खतरा है।\n\nवे कुमसी पहुँचे और त्रिविक्रम भारती को चुनौती दी। या तो वे उनसे शास्त्रार्थ करें, उन्होंने कहा, या विजय का प्रमाणपत्र दें। त्रिविक्रम को दोनों में से किसी की आवश्यकता नहीं लगी। उन्होंने उन्हें अपने गुरु के पास गाणगापुर भेज दिया। कुमसी उनकी लंबी सूची का केवल एक पड़ाव था। जब त्रिविक्रम भारती ने शास्त्रार्थ से इनकार किया, तो उन्होंने उसे अनुत्तरित चुनौती समझा, और अपनी जीतों की गिनती करते हुए गाणगापुर आ गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्या ज्या ठिकाणी ते गेले, तिथून ते एक विजयपत्र घेऊन येत, एक कागद ज्यात त्यांचा विजय नोंदवलेला असे. अशी त्यांच्याकडे अनेक होती. ती कागदपत्रे त्यांच्या अस्तित्वाचा पुरावा बनली होती, आणि एखादा वाद हरण्याचा विचार ही एक भीती होती जिचे ते नाव घेत नसत. ते सर्वत्र प्रतिस्पर्धी शोधत आणि कोणीच मिळत नसे, आणि जितकी जास्त प्रमाणपत्रे ते जमवत, तितकेच ते चुकू शकतात ही कल्पना त्यांना कमी करता येत असे. न तपासलेल्या यशाचा हा शांत धोका असतो.\n\nते कुमसीला आले आणि त्रिविक्रम भारतींना आव्हान दिले. एकतर त्यांनी त्यांच्याशी वाद घालावा, ते म्हणाले, किंवा विजयाचे प्रमाणपत्र द्यावे. त्रिविक्रमांना यापैकी कशाचीही गरज वाटली नाही. त्यांनी त्यांना आपल्या गुरूंकडे गाणगापूरला पाठवले. कुमसी त्यांच्या लांबलचक यादीतील फक्त एक थांबा होता. त्रिविक्रम भारतींनी वाद घालण्यास नकार दिला तेव्हा त्यांनी ते न स्वीकारलेले आव्हान समजले, आणि आपल्या विजयांची गणना करत ते गाणगापूरला आले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "At the Guru's Door",
+    "hi": {
+     "text": "गुरु के द्वार पर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंच्या दारी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At Gangapur, the two scholars stood before the Guru and repeated their demand. The Guru asked them quietly why they wanted to argue at all. A sanyasi, he told them, values neither victory nor defeat.\n\nThe scholars did not understand this. They brought out their certificates and showed him one after another, each from a different place. They said they could not leave without a debate or a certificate. Their eyes were on the papers and not on the man. Around them in the hall sat disciples and visitors, watching two travel-worn men press a calm sanyasi for a contest. The Guru heard them out with great patience. He did not raise his voice, and he did not smile at their boasting. He asked only that they consider what they were really asking for.",
+    "hi": {
+     "text": "गाणगापुर में दोनों विद्वान गुरु के सामने खड़े हुए और अपनी माँग दोहराई। गुरु ने शांति से पूछा कि वे तर्क करना ही क्यों चाहते हैं। संन्यासी, उन्होंने उनसे कहा, न जीत को महत्व देता है न हार को।\n\nविद्वान यह समझ नहीं पाए। उन्होंने अपने प्रमाणपत्र निकाले और एक-एक करके उन्हें दिखाए, हर एक अलग-अलग स्थान से। उन्होंने कहा कि शास्त्रार्थ या प्रमाणपत्र के बिना वे नहीं जाएँगे। उनकी दृष्टि कागज़ों पर थी, व्यक्ति पर नहीं। उनके चारों ओर सभा-भवन में शिष्य और दर्शनार्थी बैठे थे, जो दो थके-हारे यात्रियों को एक शांत संन्यासी पर प्रतियोगिता के लिए दबाव डालते देख रहे थे। गुरु ने बड़े धैर्य से उनकी पूरी बात सुनी। उन्होंने स्वर नहीं उठाया, और उनकी डींगों पर मुस्कुराए भी नहीं। उन्होंने केवल इतना कहा कि वे सोचें कि वास्तव में वे क्या माँग रहे हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाणगापूरमध्ये दोन विद्वान गुरूंसमोर उभे राहिले आणि आपली मागणी पुन्हा सांगितली. गुरूंनी शांतपणे विचारले की त्यांना वाद का घालायचा आहे. संन्यासी, ते त्यांना म्हणाले, जय किंवा पराजय दोन्हीला महत्त्व देत नाही.\n\nविद्वानांना हे समजले नाही. त्यांनी आपली प्रमाणपत्रे काढली आणि एकेक करून दाखवली, प्रत्येक वेगळ्या ठिकाणची. त्यांनी सांगितले की शास्त्रार्थ किंवा प्रमाणपत्राशिवाय ते जाणार नाहीत. त्यांची नजर कागदांवर होती, माणसावर नव्हती. त्यांच्या भोवती सभागृहात शिष्य आणि दर्शनार्थी बसले होते, जे दोन प्रवासाने थकलेले माणसे एका शांत संन्याशावर स्पर्धेसाठी दबाव आणताना पाहत होते. गुरूंनी त्यांचे संपूर्ण बोलणे मोठ्या संयमाने ऐकले. त्यांनी आवाज चढवला नाही, आणि त्यांच्या बढाईवर हसले नाही. त्यांनी फक्त इतकेच विचारले की ते खरोखर काय मागत आहेत याचा त्यांनी विचार करावा.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Stories of Pride",
+    "hi": {
+     "text": "अभिमान की कथाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अभिमानाच्या कथा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru tried to warn them gently. He reminded them of Bali, and of Banasura and Ravana, great warriors who fell by their own pride. He spoke of the Kauravas, who lost everything in a war they might have avoided.\n\nHe told these stories as an elder does, not as a threat but as a wish for the listeners to be spared the same ending. Vanity, he said, brings ruin to anyone it touches, however learned. He spoke of Bali with sadness, for even the great can be undone by pride. He gave them these names because the scholars knew them well and could not say they had never been told. He spoke of Ravana, whose strength shook mountains, and of the Kauravas, who had every advantage and lost every one. The scholars knew all these stories well. They simply did not think the stories were about them.",
+    "hi": {
+     "text": "गुरु ने कोमलता से उन्हें चेताने का प्रयास किया। उन्होंने बलि का स्मरण कराया, और बाणासुर और रावण का, महान योद्धा जो अपने ही अभिमान से गिरे। उन्होंने कौरवों की चर्चा की, जो एक ऐसे युद्ध में सब कुछ खो बैठे जिससे वे बच सकते थे।\n\nउन्होंने ये कथाएँ एक बड़े की तरह सुनाईं, धमकी के रूप में नहीं, बल्कि इस इच्छा से कि श्रोता वही अंत न पाएँ। अभिमान, उन्होंने कहा, जिसे भी छूता है उसका विनाश करता है, चाहे वह कितना भी विद्वान क्यों न हो। उन्होंने बलि की चर्चा दुःख के साथ की, क्योंकि महान व्यक्ति भी अभिमान से नष्ट हो सकते हैं। उन्होंने ये नाम इसलिए लिए क्योंकि विद्वान उन्हें भली-भाँति जानते थे और यह नहीं कह सकते थे कि उन्हें कभी बताया ही नहीं गया। उन्होंने रावण की चर्चा की, जिसका बल पर्वतों को हिला देता था, और कौरवों की, जिनके पास हर लाभ था और जिन्होंने हर लाभ खो दिया। विद्वान ये सारी कथाएँ भली-भाँति जानते थे। बस उन्हें यह नहीं लगा कि ये कथाएँ उनके बारे में हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी त्यांना हळुवारपणे सावध करण्याचा प्रयत्न केला. त्यांनी बळीची आठवण करून दिली, आणि बाणासुर व रावणाची, महान योद्धे जे आपल्याच अभिमानाने पडले. त्यांनी कौरवांचा उल्लेख केला, जे एका युद्धात सर्वस्व हरले जे त्यांना टाळता आले असते.\n\nत्यांनी या कथा वडिलधाऱ्याप्रमाणे सांगितल्या, धमकी म्हणून नव्हे तर श्रोत्यांना तोच शेवट टाळता यावा या इच्छेने. अभिमान, ते म्हणाले, जो कोणाला स्पर्श करतो त्याचा नाश करतो, तो कितीही विद्वान असो. त्यांनी बळीचा उल्लेख दुःखाने केला, कारण महान माणसेही अभिमानाने उद्ध्वस्त होऊ शकतात. त्यांनी ही नावे घेतली कारण विद्वानांना ती चांगली ठाऊक होती आणि त्यांना सांगितलेलेच नव्हते असे ते म्हणू शकत नव्हते. त्यांनी रावणाचा उल्लेख केला, ज्याच्या बळाने पर्वत हलत, आणि कौरवांचा, ज्यांच्याकडे प्रत्येक फायदा होता आणि ज्यांनी प्रत्येक फायदा गमावला. विद्वानांना या सर्व कथा चांगल्या माहीत होत्या. फक्त त्या कथा आपल्याविषयी आहेत असे त्यांना वाटले नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "They Refuse to Leave",
+    "hi": {
+     "text": "वे जाने से इनकार करते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते जाण्यास नकार देतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The scholars heard every word, and nodded, and did not change their minds. They had come for a debate, and they would have one. They sat down in the hall as if they planned to stay.\n\nThe Siddha ends the chapter here, with the two men seated and the Guru looking at them. The quiet in the room was the quiet before something would happen, and Namdharak, listening, wondered what it would be. The Guru did not argue further. He looked at them for some time, and then he looked away, toward the door, where sunlight lay across the floor. A sanyasi can wish another person well and still know that the person will not accept it. Namdharak, listening, felt the quiet in the room as if he had been there himself.",
+    "hi": {
+     "text": "विद्वानों ने हर शब्द सुना, सिर हिलाया, और अपना मन नहीं बदला। वे शास्त्रार्थ के लिए आए थे, और शास्त्रार्थ करके ही रहेंगे। वे सभा-भवन में ऐसे बैठ गए मानो रुकने की योजना बना चुके हों।\n\nसिद्ध अध्याय यहीं समाप्त करते हैं, दोनों पुरुषों के बैठे रहने और गुरु के उन्हें देखने के दृश्य पर। कक्ष की शांति उस शांति जैसी थी जो किसी घटना से पहले होती है, और नामधारक सुनते हुए सोचते रहे कि वह क्या होगी। गुरु ने आगे तर्क नहीं किया। उन्होंने उन्हें कुछ देर देखा, फिर दरवाज़े की ओर दृष्टि फेरी, जहाँ धूप फर्श पर फैली थी। संन्यासी किसी दूसरे का भला चाह सकता है और फिर भी जानता है कि वह व्यक्ति उसे स्वीकार नहीं करेगा। नामधारक सुनते हुए कक्ष की शांति ऐसे महसूस कर रहे थे, मानो वे स्वयं वहाँ उपस्थित हों।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विद्वानांनी प्रत्येक शब्द ऐकला, मान हलवली, आणि आपले मत बदलले नाही. ते शास्त्रार्थासाठी आले होते, आणि त्यांना तो मिळवायचाच होता. ते सभागृहात असे बसले जणू थांबण्याचा बेत केला असावा.\n\nसिद्ध अध्याय इथेच संपवतात, दोन पुरुष बसलेले आणि गुरू त्यांच्याकडे पाहत असलेल्या दृश्यावर. खोलीतील शांतता काहीतरी घडण्यापूर्वीच्या शांततेसारखी होती, आणि नामधारक ऐकत विचार करत होते की ते काय असेल. गुरूंनी आणखी वाद घातला नाही. त्यांनी काही काळ त्यांच्याकडे पाहिले, मग दरवाजाकडे नजर फिरवली, जिथे फरशीवर सूर्यप्रकाश पसरला होता. संन्यासी एखाद्याचे भले चिंतू शकतो आणि तरीही हे जाणतो की ती व्यक्ती ते स्वीकारणार नाही. नामधारक ऐकताना खोलीतील शांतता अशी अनुभवत होते, जणू ते स्वतः तिथे उपस्थित होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Where in your life do you keep score? Name one place where you could put the certificate down.",
+  "hi": {
+   "text": "अपने जीवन में आप कहाँ हिसाब रखते हैं, कौन जीता, कौन हारा? एक ऐसी जगह पहचानिए जहाँ आप वह प्रमाणपत्र नीचे रख सकते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही आपल्या आयुष्यात कुठे हिशेब ठेवता, कोण जिंकले, कोण हरले? अशी एक जागा ओळखा जिथे तुम्ही ते प्रमाणपत्र खाली ठेवू शकता.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Learning without humility closes the ears, and pride is most dangerous when it comes with credentials.",
+  "hi": {
+   "text": "विनम्रता के बिना विद्या कान बंद कर देती है, और अभिमान तब सबसे खतरनाक होता है जब उसके साथ उपाधियाँ भी हों।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नम्रतेशिवाय विद्या कान बंद करते, आणि अभिमान सर्वात धोकादायक तेव्हा असतो जेव्हा त्याच्यासोबत पदव्याही असतात.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 25; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 25; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 25; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "siddha-teaches-guru",
+ "order": 2,
+ "part": "jnana",
+ "figure": {
+  "en": "The Siddha and Namdharak",
+  "hi": {
+   "text": "सिद्ध और नामधारक",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सिद्ध आणि नामधारक",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "What the Word Guru Means",
+  "hi": {
+   "text": "गुरु शब्द का अर्थ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरू शब्दाचा अर्थ",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A stranger who looks like the figure in the dream explains why a Guru can do what even gods sometimes cannot.",
+  "hi": {
+   "text": "स्वप्न जैसी मूर्ति वाला एक अपरिचित व्यक्ति समझाता है कि गुरु वह क्या कर सकता है, जो कभी-कभी देवता भी नहीं कर पाते।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "स्वप्नातल्या मूर्तीसारखा दिसणारा एक अनोळखी माणूस सांगतो की गुरू असे काय करू शकतात, जे कधी कधी देवांनाही शक्य होत नाही.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/gc-7.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Dattatreya surrounded by yogis (19th-century wall painting, Punjab)",
+    "hi": {
+     "text": "योगियों से घिरे दत्तात्रेय (उन्नीसवीं सदी का भित्ति चित्र, पंजाब)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "योग्यांनी वेढलेले दत्तात्रेय (एकोणिसाव्या शतकातील भित्तिचित्र, पंजाब)",
+     "reviewed": false
+    }
+   },
+   "credit": "Unknown Kangra muralists (and at-least one artist from Jalandhar named Sarfuddin as per as per Jatinder Mauhar), presuma, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mural_depicting_Dattatreya_with_yogis_surrounding_him,_from_Ramtatwali_Dham,_Hoshiarpur_district,_Punjab,_circa_19th_century.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The Man from the Dream",
+    "hi": {
+     "text": "स्वप्न का वह पुरुष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वप्नातला पुरुष",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Namdharak was still turning over his dream when he met a man whose face reminded him of the radiant figure. Overcome, he bowed low and called him a parent. The man smiled and said that he was a Siddha, a yogi who could move between earth and heaven, and a disciple of Shri Narasimha Saraswati.\n\nHe lived, he said, at Gangapur, close to the meeting of the rivers Bhima and Amarja. So the dream had not been a trick of tiredness. It had pointed Namdharak toward real company, a person who knew the Guru from close by and was willing to speak of him. Namdharak, who had walked so far alone, folded his hands and asked whether he might sit at the Siddha’s feet and be taught. The two sat together by the roadside.",
+    "hi": {
+     "text": "नामधारक अभी अपने स्वप्न पर विचार कर ही रहे थे कि उन्हें एक व्यक्ति मिला, जिसका चेहरा उन्हें उस तेजस्वी मूर्ति की याद दिलाता था। विह्वल होकर उन्होंने झुककर प्रणाम किया और उन्हें पिता कहकर संबोधित किया। वह व्यक्ति मुस्कुराए और बोले कि वे एक सिद्ध हैं, एक योगी जो धरती और स्वर्ग के बीच आ-जा सकते हैं, और श्री नृसिंह सरस्वती के शिष्य हैं।\n\nउन्होंने कहा कि वे गाणगापुर में रहते हैं, भीमा और अमरजा नदियों के संगम के समीप। तो वह स्वप्न थकान का कोई भ्रम नहीं था। उसने नामधारक को सचमुच के एक साथी की ओर इंगित किया था, एक ऐसे व्यक्ति की ओर, जो गुरु को निकट से जानता था और उनके विषय में बोलने को तैयार था। नामधारक, जो इतनी दूर अकेले चलकर आए थे, हाथ जोड़कर पूछने लगे कि क्या वे सिद्ध के चरणों में बैठकर शिक्षा पा सकते हैं। दोनों राह के किनारे साथ बैठ गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नामधारक अजूनही आपल्या स्वप्नावर विचार करत असतानाच त्यांना असा एक माणूस भेटला, ज्याचा चेहरा त्यांना त्या तेजस्वी मूर्तीची आठवण करून देत होता. भारावून जाऊन त्यांनी वाकून नमस्कार केला आणि त्यांना पिता म्हणून संबोधले. तो माणूस हसला आणि म्हणाला की तो सिद्ध आहे, एक योगी जो पृथ्वी आणि स्वर्ग यांच्यामध्ये ये-जा करू शकतो, आणि श्री नृसिंह सरस्वती यांचा शिष्य आहे.\n\nते म्हणाले की ते गाणगापूरमध्ये राहतात, भीमा आणि अमरजा नद्यांच्या संगमाजवळ. त्यामुळे ते स्वप्न थकव्याचा भ्रम नव्हता. त्याने नामधारकांना खऱ्या सोबत्याकडे दाखवले होते, असा माणूस ज्याला गुरू जवळून माहीत होते आणि ज्याला त्यांच्याविषयी बोलण्याची तयारी होती. इतका दूर एकटे चालत आलेले नामधारक हात जोडून विचारू लागले की, मी आपल्या चरणांशी बसून शिकू शकतो का? दोघे रस्त्याच्या कडेला एकत्र बसले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Question of Suffering",
+    "hi": {
+     "text": "दुःख का प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुःखाचा प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Namdharak did not waste the chance. He asked the Siddha the question he had carried from home: why do devotees still suffer? The Siddha answered that whole-hearted devotion matters most, and that the Guru can protect even where other gods cannot. Then, to show what he meant, he began to narrate from the very beginning.\n\nHe told how four-headed Brahma spoke the four Vedas, how Vishnu created and preserved the world through the four yugas, and how in the age of Kali the world grew restless and forgetful. Kali himself, the Siddha said, once went to Brahma with questions of his own. The answer, he promised, would explain why a Guru is needed most in the darkest age, and Namdharak settled in to listen. The question was simple, but the Siddha did not hurry to answer it with a single line; he preferred to give Namdharak a whole river of history to wade in.",
+    "hi": {
+     "text": "नामधारक ने यह अवसर व्यर्थ नहीं जाने दिया। उन्होंने सिद्ध से वह प्रश्न पूछा जो वे घर से लेकर चले थे: भक्त अब भी दुःख क्यों भोगते हैं? सिद्ध ने उत्तर दिया कि सम्पूर्ण हृदय की भक्ति सबसे अधिक मायने रखती है, और गुरु वहाँ भी रक्षा कर सकते हैं जहाँ अन्य देवता नहीं कर पाते। फिर अपनी बात स्पष्ट करने के लिए वे आरंभ से कथा सुनाने लगे।\n\nउन्होंने बताया कि चार मुख वाले ब्रह्मा ने चारों वेदों का उच्चारण कैसे किया, विष्णु ने चारों युगों में संसार की रचना और पालन कैसे किया, और कलियुग में संसार कैसे अशांत और विस्मृत होता गया। सिद्ध ने कहा कि स्वयं कलि एक बार अपने प्रश्न लेकर ब्रह्मा के पास गए थे। उनका उत्तर, सिद्ध ने वचन दिया, यह समझाएगा कि सबसे अंधकारमय युग में गुरु की आवश्यकता सबसे अधिक क्यों होती है, और नामधारक सुनने के लिए बैठ गए। प्रश्न सरल था, पर सिद्ध ने उसका उत्तर एक ही पंक्ति में देने की जल्दी नहीं की; वे नामधारक को इतिहास की पूरी नदी में उतारना चाहते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नामधारक यांनी ही संधी वाया जाऊ दिली नाही. घरून सोबत आणलेला प्रश्न त्यांनी सिद्धांना विचारला: भक्त अजूनही दुःख का भोगतात? सिद्धांनी उत्तर दिले की पूर्ण अंतःकरणाने केलेली भक्ती सर्वात महत्त्वाची आहे, आणि गुरू तिथेही रक्षण करू शकतात जिथे इतर देव करू शकत नाहीत. मग आपला मुद्दा स्पष्ट करण्यासाठी ते अगदी सुरुवातीपासून कथा सांगू लागले.\n\nचतुर्मुख ब्रह्मदेवाने चार वेदांचे उच्चारण कसे केले, विष्णूने चार युगांमधून जग कसे निर्माण केले आणि पालन केले, आणि कलियुगात जग अस्वस्थ आणि विस्मरणशील कसे झाले, हे त्यांनी सांगितले. सिद्ध म्हणाले की स्वतः कलि एकदा आपले प्रश्न घेऊन ब्रह्मदेवाकडे गेला होता. त्याचे उत्तर, सिद्धांनी वचन दिले, हे स्पष्ट करेल की सर्वात अंधाऱ्या युगात गुरूंची गरज सर्वाधिक का असते, आणि नामधारक ऐकण्यासाठी स्थिरावले. प्रश्न साधा होता, पण सिद्धांनी त्याचे उत्तर एका ओळीत देण्याची घाई केली नाही; त्यांना नामधारकांना इतिहासाच्या संपूर्ण नदीत उतरवायचे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Brahma Explains the Word",
+    "hi": {
+     "text": "ब्रह्मा गुरु शब्द समझाते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ब्रह्मदेव शब्द समजावतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha told how Kali himself came to Brahma with questions, and how Brahma explained what the word Guru truly means. The word, the tradition says, points to one who removes darkness. A guru is not only a person who teaches facts but one who opens the eyes, and for that reason mother and father, and in the highest sense the three great gods, are also called by that name.\n\nWherever someone leads us from ignorance toward light, there the Guru is at work. The Siddha wanted Namdharak to see his own life as already full of teachers. So the Siddha was not asking Namdharak to leave his family or his work. He was asking him to look again at everyone who had ever lit a lamp for him, and to bow inwardly to each of them. The Siddha added that this was why even a householder like Namdharak, in his own small world, already stood among many gurus: the parent who raised him, the neighbour who warned him, the friend who sat with him in the dark.",
+    "hi": {
+     "text": "सिद्ध ने बताया कि स्वयं कलि ब्रह्मा के पास प्रश्न लेकर कैसे आए, और ब्रह्मा ने गुरु शब्द का सच्चा अर्थ कैसे समझाया। परंपरा कहती है कि यह शब्द उसकी ओर संकेत करता है जो अंधकार को दूर करता है। गुरु केवल तथ्य सिखाने वाला व्यक्ति नहीं, बल्कि वह है जो आँखें खोलता है, और इसी कारण माता और पिता को, और परम अर्थ में तीनों महान देवों को भी, इसी नाम से पुकारा जाता है।\n\nजहाँ कोई हमें अज्ञान से प्रकाश की ओर ले चलता है, वहीं गुरु कार्य कर रहे होते हैं। सिद्ध चाहते थे कि नामधारक अपने जीवन को पहले से ही शिक्षकों से भरा हुआ देखें। इसलिए सिद्ध नामधारक से घर या काम छोड़ने को नहीं कह रहे थे। वे उनसे केवल यह कह रहे थे कि उन सबको फिर से देखें जिन्होंने कभी उनके लिए दीपक जलाया था, और उनमें से हर एक के आगे भीतर से शीश झुकाएँ। सिद्ध ने जोड़ा कि इसी कारण नामधारक जैसा एक गृहस्थ भी, अपने छोटे-से संसार में, पहले से ही अनेक गुरुओं के बीच खड़ा है: वह माता-पिता जिन्होंने उसे पाला, वह पड़ोसी जिसने उसे सचेत किया, वह मित्र जो अंधेरे में उसके साथ बैठा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी सांगितले की स्वतः कलि ब्रह्मदेवाकडे प्रश्न घेऊन कसा आला, आणि ब्रह्मदेवांनी गुरू शब्दाचा खरा अर्थ कसा समजावला. परंपरा सांगते की हा शब्द अशा व्यक्तीकडे निर्देश करतो जी अंधार दूर करते. गुरू केवळ तथ्ये शिकवणारा माणूस नसतो, तर जो डोळे उघडतो तो असतो, आणि त्यामुळेच माता आणि पित्यांना, आणि परम अर्थाने तीन महान देवांनाही, याच नावाने संबोधले जाते.\n\nजिथे कोणी आपल्याला अज्ञानातून प्रकाशाकडे नेतो, तिथे गुरू कार्य करत असतात. सिद्धांना नामधारकांनी आपल्या स्वतःच्या जीवनाकडे शिक्षकांनी भरलेले पाहावे असे वाटत होते. त्यामुळे सिद्ध नामधारकांना घर किंवा कामधंदा सोडायला सांगत नव्हते. ते फक्त सांगत होते की ज्यांनी त्यांच्यासाठी दिवा लावला होता, त्या प्रत्येकाकडे पुन्हा पाहा आणि प्रत्येकासमोर आतून नतमस्तक व्हा. सिद्धांनी जोडले की याच कारणामुळे नामधारकांसारखा एक गृहस्थही आपल्या छोट्याशा जगात आधीच अनेक गुरूंमध्ये उभा आहे: ज्याने त्याला वाढवले ते आई-वडील, ज्याने त्याला सावध केले तो शेजारी, अंधारात त्याच्याबरोबर बसलेला मित्र.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Sandipak Serves His Guru",
+    "hi": {
+     "text": "सिद्ध का प्रसंग: सेवक संदीपक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संदीपकाचे उदाहरण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "To show what real service looks like, the Siddha told the story of Sandipak and his teacher Veda Dharma. When Veda Dharma fell seriously ill, Sandipak did not complain or count the cost. He served his teacher with total devotion through the long illness, asking for nothing in return, and gave himself wholly to his care.\n\nVishnu, pleased with such service, appeared and restored Veda Dharma to health. The Siddha does not tell it as a bargain, as though care were paid back with a cure. It is a picture of a disciple so absorbed in serving that he forgets himself. This, said the Siddha, is the spirit in which Namdharak should approach Shri Guru at Ganagapur, with open hands and no list of demands. Namdharak, listened with quiet resolve.",
+    "hi": {
+     "text": "सच्ची सेवा कैसी होती है, यह दिखाने के लिए सिद्ध ने संदीपक और उनके गुरु वेद धर्म की कथा सुनाई। जब वेद धर्म गंभीर रूप से बीमार पड़े, तो संदीपक ने न शिकायत की, न हानि-लाभ गिने। उन्होंने लंबी बीमारी के दौरान पूरी भक्ति से अपने गुरु की सेवा की, बदले में कुछ नहीं माँगा, और स्वयं को पूरी तरह उनकी देखभाल में समर्पित कर दिया।\n\nऐसी सेवा से प्रसन्न होकर विष्णु प्रकट हुए और उन्होंने वेद धर्म को स्वस्थ कर दिया। सिद्ध इसे किसी सौदे की तरह नहीं सुनाते, मानो सेवा का प्रतिफल कोई इलाज हो। यह एक ऐसे शिष्य का चित्र है जो सेवा में इतना लीन है कि अपने आप को भूल जाता है। सिद्ध ने कहा कि नामधारक को भी गाणगापुर में श्री गुरु के पास इसी भाव से जाना चाहिए, खुले हाथों से, बिना माँगों की सूची लिए। नामधारक ने शांत दृढ़ता से यह सुना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "खरी सेवा कशी असते हे दाखवण्यासाठी सिद्धांनी संदीपक आणि त्यांचे गुरू वेद धर्म यांची कथा सांगितली. जेव्हा वेद धर्म गंभीर आजारी पडले, तेव्हा संदीपकांनी तक्रार केली नाही किंवा त्याची किंमत मोजली नाही. त्यांनी दीर्घ आजारात पूर्ण भक्तीने आपल्या गुरूंची सेवा केली, बदल्यात काहीही मागितले नाही, आणि स्वतःला त्यांच्या काळजीत पूर्णपणे वाहून घेतले.\n\nअशा सेवेने प्रसन्न होऊन विष्णू प्रकट झाले आणि त्यांनी वेद धर्मांना बरे केले. सिद्ध हे सौदेबाजीसारखे सांगत नाहीत, जणू सेवेची परतफेड इलाजाने झाली. हे एका अशा शिष्याचे चित्र आहे जो सेवेत इतका मग्न होतो की स्वतःला विसरतो. हाच भाव, सिद्ध म्हणाले, नामधारकांनी गाणगापूरला श्री गुरूंजवळ जाताना ठेवावा, उघड्या हातांनी, कोणतीही मागण्यांची यादी न घेता. नामधारक शांत निश्चयाने ऐकत राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Go and Serve",
+    "hi": {
+     "text": "जाओ और सेवा करो",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जा आणि सेवा कर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha closed the teaching with a plain instruction: serve Shri Guru as Sandipak served Veda Dharma. He did not promise that Namdharak’s troubles would melt overnight. He offered a way of standing in life, close to the source of light, humble and busy with love.\n\nHe then embraced Namdharak, who asked in turn to become his disciple. For Namdharak this was the first real answer to the question he had carried since leaving home. His suffering had not been ignored; it had been given a direction. Under the roadside shade the Siddha prepared to tell him the whole story of the Guru, from the birth of Dattatreya onward, and Namdharak, no longer so tired, leaned in to listen. The Siddha raised his hand in blessing, and the evening light fell across the road. The Siddha lived at Gangapur, near the meeting of the Bhima and Amarja rivers, and the road ahead led toward that place.",
+    "hi": {
+     "text": "सिद्ध ने उपदेश का समापन एक सीधे निर्देश से किया: जैसे संदीपक ने वेद धर्म की सेवा की, वैसे ही श्री गुरु की सेवा करो। उन्होंने यह वचन नहीं दिया कि नामधारक के कष्ट रातों-रात मिट जाएँगे। उन्होंने जीवन में खड़े होने का एक मार्ग दिया, प्रकाश के स्रोत के समीप, विनम्र और प्रेम से भरपूर।\n\nफिर उन्होंने नामधारक को गले लगाया, और नामधारक ने बदले में उनसे शिष्य बनने की विनती की। नामधारक के लिए यह उस प्रश्न का पहला सच्चा उत्तर था, जिसे वे घर छोड़ने के समय से लिए चल रहे थे। उनके दुःख को अनसुना नहीं किया गया था; उसे एक दिशा मिल गई थी। राह के किनारे की छाया में सिद्ध दत्तात्रेय के जन्म से आरंभ करके गुरु की पूरी कथा सुनाने को तैयार हुए, और नामधारक, अब उतने थके हुए नहीं, ध्यान से आगे झुक गए। सिद्ध ने आशीर्वाद में हाथ उठाया, और संध्या का प्रकाश राह पर फैल गया। सिद्ध गाणगापुर में रहते थे, भीमा और अमरजा के संगम के समीप, और आगे की राह उसी स्थान की ओर जाती थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी उपदेशाचा शेवट एका साध्या आज्ञेने केला: जसे संदीपकांनी वेद धर्मांची सेवा केली, तसे श्री गुरूंची सेवा कर. नामधारकांचे कष्ट रातोरात विरघळतील असे त्यांनी वचन दिले नाही. त्यांनी जीवनात उभे राहण्याचा एक मार्ग दिला, प्रकाशाच्या स्रोताजवळ, नम्र आणि प्रेमाने भरलेला.\n\nमग त्यांनी नामधारकांना मिठी मारली, आणि नामधारकांनी बदल्यात त्यांचे शिष्य होण्याची विनंती केली. नामधारकांसाठी घर सोडल्यापासून वाहत असलेल्या प्रश्नाचे हे पहिले खरे उत्तर होते. त्यांचे दुःख दुर्लक्षित झाले नव्हते; त्याला एक दिशा मिळाली होती. रस्त्याच्या कडेच्या सावलीत सिद्ध दत्तात्रेयांच्या जन्मापासून गुरूंची संपूर्ण कथा सांगण्यास तयार झाले, आणि नामधारक, आता फारसे थकलेले नसल्याने, लक्षपूर्वक पुढे झुकले. सिद्धांनी आशीर्वादासाठी हात उंचावला, आणि संध्याकाळचा प्रकाश रस्त्यावर पसरला. सिद्ध गाणगापूरला, भीमा आणि अमरजा नद्यांच्या संगमाजवळ राहत होते, आणि पुढची वाट त्याच ठिकाणी जात होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Who has quietly led you out of darkness, whether parent, teacher or friend? Thank one of them today with a short message or a plain word.",
+  "hi": {
+   "text": "कौन चुपचाप आपको अंधकार से बाहर ले आया, माता-पिता, शिक्षक या मित्र? आज उनमें से किसी एक को छोटे-से संदेश या सादे शब्दों में धन्यवाद दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्हाला शांतपणे अंधारातून बाहेर कोणी काढले आहे: आई-वडील, शिक्षक की मित्र? आज त्यांच्यापैकी एकाचे एका छोट्या संदेशाने किंवा साध्या शब्दांनी आभार माना.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A guru is anyone who leads us from darkness toward light, and service offered without calculation opens the door to grace.",
+  "hi": {
+   "text": "गुरु वह है जो हमें अंधकार से प्रकाश की ओर ले चले, और बिना हिसाब के की गई सेवा कृपा का द्वार खोलती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जो आपल्याला अंधारातून प्रकाशाकडे नेतो तो गुरू आहे, आणि हिशेब न करता दिलेली सेवा कृपेचे दार उघडते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 2; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 2; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 2; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

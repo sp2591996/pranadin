@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "poet-narahari-disciple",
+ "order": 45,
+ "part": "bhakti",
+ "figure": {
+  "en": "Narasimha Saraswati and the poet Narahari of Hipperge",
+  "hi": {
+   "text": "नृसिंह सरस्वती और हिप्परगे के कवि नरहरि",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि हिप्परग्याचे कवी नरहरी",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Poet Who Sold His Tongue",
+  "hi": {
+   "text": "वह कवि जिसने अपनी जीभ बेच दी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याने आपली जीभ विकली तो कवी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A poet who has given his voice to Kalleshwar alone learns that the Guru and the god he worships are not two.",
+  "hi": {
+   "text": "जिसने अपनी वाणी केवल कल्लेश्वर को समर्पित की है, वह कवि सीखता है कि गुरु और वह देव, जिसकी वह पूजा करता है, दो नहीं हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याने आपली वाणी फक्त कल्लेश्वराला अर्पण केली आहे, तो कवी शिकतो की गुरू आणि तो देव ज्याची तो पूजा करतो हे दोन नाहीत.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/gc-3.webp",
+   "w": 776,
+   "h": 1100,
+   "caption": {
+    "en": "The birth of Shri Datta (Ravi Varma Press print by Anant Shivaji Desai)",
+    "hi": {
+     "text": "श्री दत्त का जन्म (अनंत शिवाजी देसाई, रवि वर्मा प्रेस चित्र)",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री दत्तजन्म (अनंत शिवाजी देसाई, रवि वर्मा प्रेस चित्र)",
+     "reviewed": false
+    }
+   },
+   "credit": "Anant Shivaji Desai, Raja Ravi Varma Press, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shri_Datt_Janam.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Five Verses a Day",
+    "hi": {
+     "text": "हर दिन पाँच श्लोक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दररोज पाच श्लोक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At Hipperge, a village not far from Gangapur, lived a devotee also named Narahari. He worshipped Kalleshwar, the form of Shiva whose shrine stood at Gangapur, and he composed five verses in praise of him every day. His voice and his skill belonged to the god.\n\nHe refused to praise any human being. When people urged him to compose a verse for a king or for a famous teacher, he declined. He said that he had sold his tongue to Kalleshwar, and it was no longer his own to give. Whatever he made, he offered at once to the god. It was a simple, regular, complete devotion, and it asked for nothing. The Siddha tells Namdharak of a devotee also called Narahari, who lived at Hipperge and composed five verses a day to Kalleshwar, the form of Shiva worshipped at Gangapur.",
+    "hi": {
+     "text": "हिप्परगे में, गाणगापुर से दूर नहीं, एक भक्त रहते थे जिनका नाम भी नरहरि था। वे कल्लेश्वर की पूजा करते थे, शिव का वह रूप जिसका मंदिर गाणगापुर में था, और वे हर दिन उनकी स्तुति में पाँच श्लोक रचते थे। उनकी वाणी और उनका कौशल देव के थे।\n\nवे किसी मनुष्य की स्तुति करने से इनकार करते थे। जब लोग उनसे किसी राजा या किसी प्रसिद्ध गुरु के लिए श्लोक रचने का आग्रह करते, तो वे मना कर देते। वे कहते कि उन्होंने अपनी जीभ कल्लेश्वर को बेच दी है, और अब वह उनकी अपनी नहीं रही जो किसी और को दी जा सके। जो भी वे रचते, तुरंत देव को अर्पित कर देते। यह एक सरल, नियमित और पूर्ण भक्ति थी, जो कुछ नहीं माँगती थी। सिद्ध नामधारक को एक ऐसे भक्त की बात बताते हैं, जिनका नाम भी नरहरि था, जो हिप्परगे में रहते थे और गाणगापुर में पूजे जाने वाले शिव के रूप कल्लेश्वर को हर दिन पाँच श्लोक अर्पित करते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाणगापूरपासून फार दूर नसलेल्या हिप्परगे गावात नरहरी नावाचे एक भक्त राहत होते. ते कल्लेश्वराची, म्हणजे गाणगापूरमध्ये मंदिर असलेल्या शिवाच्या रूपाची, पूजा करत आणि दररोज त्यांच्या स्तुतीसाठी पाच श्लोक रचत. त्यांची वाणी आणि कौशल्य देवाचे होते.\n\nते कोणत्याही माणसाची स्तुती करण्यास नकार देत. लोक त्यांना एखाद्या राजासाठी किंवा प्रसिद्ध गुरूंसाठी श्लोक रचण्याचा आग्रह करत, तेव्हा ते नकार देत. ते म्हणत की त्यांनी आपली जीभ कल्लेश्वराला विकली आहे, आणि ती आता त्यांची स्वतःची राहिली नाही जी कोणाला देता येईल. ते जे काही रचत, ते लगेच देवाला अर्पण करत. ही एक साधी, नियमित आणि पूर्ण भक्ती होती, जी काहीही मागत नव्हती. सिद्ध नामधारकांना हिप्परग्यातील नरहरी नावाच्या एका भक्ताविषयी सांगतात, जो गाणगापूरमध्ये पूजल्या जाणाऱ्या शिवाच्या कल्लेश्वर रूपाला दररोज पाच श्लोक अर्पण करत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Vow of the Tongue",
+    "hi": {
+     "text": "जीभ का व्रत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जिभेचे व्रत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The vow was a hard one, and he kept it for years. He simply held his silence when he was asked to praise another, and went on with his daily five verses to his chosen lord.\n\nHis vow kept him from praising any human being, and he did not want to be false to the one he loved. The Gurucharitra does not present him as proud. It presents him as a man whose devotion was so complete that it had become a fence, and the story is about how that fence was opened by grace. He had said that he had sold his tongue to Kalleshwar, and for him praising a human being would have been a kind of betrayal. The Guru did not argue with this. The answer came in a dream.",
+    "hi": {
+     "text": "यह व्रत कठिन था, और उन्होंने इसे वर्षों तक निभाया। जब किसी दूसरे की स्तुति करने को कहा जाता, तो वे मौन रह जाते, और अपने चुने हुए स्वामी के लिए अपने दैनिक पाँच श्लोक रचते रहते।\n\nउनका व्रत उन्हें किसी मनुष्य की स्तुति करने से रोकता था, और वे उस व्यक्ति से झूठे नहीं होना चाहते थे जिससे वे प्रेम करते थे। श्री गुरुचरित्र उन्हें अहंकारी नहीं बताता। वह उन्हें ऐसे व्यक्ति के रूप में प्रस्तुत करता है जिसकी भक्ति इतनी पूर्ण थी कि वह एक बाड़ बन गई थी, और कथा इस बारे में है कि वह बाड़ कृपा से कैसे खुली। उन्होंने कहा था कि उन्होंने अपनी जीभ कल्लेश्वर को बेच दी है, और उनके लिए किसी मनुष्य की स्तुति करना एक प्रकार का विश्वासघात होता। गुरु ने इस पर विवाद नहीं किया। उत्तर एक स्वप्न में आया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हे व्रत कठीण होते, आणि त्यांनी ते वर्षानुवर्षे पाळले. कोणी दुसऱ्याची स्तुती करायला सांगितले की ते मौन धरत, आणि आपल्या निवडलेल्या स्वामीसाठी दररोजचे पाच श्लोक रचत राहत.\n\nत्यांच्या व्रतामुळे ते कोणत्याही माणसाची स्तुती करू शकत नव्हते, आणि ज्याच्यावर ते प्रेम करत होते त्याच्याशी त्यांना खोटे बोलायचे नव्हते. श्री गुरुचरित्र त्यांना गर्विष्ठ म्हणून दाखवत नाही. ते त्यांना अशा माणसाच्या रूपात दाखवते ज्याची भक्ती इतकी पूर्ण होती की ती एक कुंपण बनली होती, आणि कथा त्या कुंपणाचे कृपेने कसे उघडले गेले याविषयी आहे. त्यांनी म्हटले होते की त्यांनी आपली जीभ कल्लेश्वराला विकली आहे, आणि त्यांच्यासाठी माणसाची स्तुती करणे एक प्रकारचे विश्वासघात ठरले असते. गुरूंनी यावर वाद घातला नाही. उत्तर एका स्वप्नात आले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Dream of the Linga",
+    "hi": {
+     "text": "लिंग का स्वप्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लिंगाचे स्वप्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One night he dreamed. In the dream he saw the Guru seated on the linga of Kalleshwar. The Guru spoke to him with a clear voice and rebuked him for doubting, as a teacher rebukes a student who has not looked closely.\n\nNarahari woke in distress. His mind was full of what he had seen, and what he had been told. The vow that he had held so carefully had stood between him and the one he had been worshipping all along. The rebuke in the dream was mild. Narahari woke in the dark and sat up, with the lamp still burning, until the first light came. In the dream he had seen the Guru seated on the linga and had been rebuked for doubting, and he understood that he had been standing at a door he had thought was shut.",
+    "hi": {
+     "text": "एक रात उन्होंने स्वप्न देखा। स्वप्न में उन्होंने गुरु को कल्लेश्वर के शिवलिंग पर विराजमान देखा। गुरु ने स्पष्ट स्वर में उनसे बात की और उन्हें संदेह करने के लिए डाँटा, जैसे कोई गुरु उस शिष्य को डाँटता है जिसने ठीक से नहीं देखा।\n\nनरहरि व्याकुल होकर जागे। उनका मन उसी से भरा था जो उन्होंने देखा और सुना था। वह व्रत, जिसे उन्होंने इतनी सावधानी से थामा था, उनके और उस व्यक्ति के बीच खड़ा था जिसकी वे सदा से पूजा कर रहे थे। स्वप्न की डाँट कोमल थी। नरहरि अँधेरे में जागकर बैठ गए, दीपक जलता रहा, प्रातःकाल की पहली रोशनी तक। स्वप्न में उन्होंने गुरु को शिवलिंग पर विराजमान देखा था और संदेह के लिए डाँटे गए थे, और उन्हें समझ आया कि वे एक ऐसे द्वार पर खड़े थे जिसे वे बंद समझते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका रात्री त्यांना स्वप्न पडले. स्वप्नात त्यांनी गुरूंना कल्लेश्वराच्या शिवलिंगावर विराजमान पाहिले. गुरूंनी स्पष्ट स्वरात त्यांच्याशी संवाद साधला आणि संशय घेतल्याबद्दल त्यांना फटकारले, जसा एखादा गुरू तो शिष्य फटकारतो ज्याने नीट पाहिले नाही.\n\nनरहरी व्याकुळ होऊन जागे झाले. त्यांच्या मनात त्यांनी पाहिलेले आणि ऐकलेले भरून होते. ज्या व्रताला त्यांनी इतक्या काळजीने धरून ठेवले होते, तेच त्यांच्या आणि ज्याची ते इतक्या वर्षांपासून पूजा करत होते त्याच्यामध्ये उभे होते. स्वप्नातील फटकार सौम्य होती. नरहरी अंधारात जागे होऊन बसले, दिवा जळत राहिला, पहिल्या प्रकाशापर्यंत. स्वप्नात त्यांनी गुरूंना शिवलिंगावर पाहिले होते, आणि संशयासाठी फटकारले गेले होते, आणि त्यांना समजले की ते एका अशा दारावर उभे होते जे त्यांना बंद वाटत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "He Asks Forgiveness",
+    "hi": {
+     "text": "वे क्षमा माँगते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते क्षमा मागतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Narahari went to Gangapur. He came before the Guru and fell at his feet, and asked forgiveness. The Guru did not scold him. He gave him new clothes, a mark of welcome, and accepted him as a disciple.\n\nThe Guru told him to continue to worship Kalleshwar as before. It was a kind and even generous answer, for it asked him to give up nothing that he loved. The Guru's welcome to the poet was without reproach. He looked at the man who had been so strict with himself, and did not make him explain. The new clothes were a plain sign of acceptance, as a household gives a cloth to a guest it intends to keep. The Guru told him to continue worshipping Kalleshwar, and Narahari answered that the Guru himself is Kalleshwar and that he would stay at his feet.",
+    "hi": {
+     "text": "नरहरि गाणगापुर गए। वे गुरु के सामने आए, उनके चरणों में गिरे, और क्षमा माँगी। गुरु ने उन्हें डाँटा नहीं। उन्होंने उन्हें नए वस्त्र दिए, स्वागत का चिह्न, और उन्हें शिष्य के रूप में स्वीकार किया।\n\nगुरु ने कहा कि वे पहले की तरह कल्लेश्वर की पूजा जारी रखें। यह एक दयालु और उदार उत्तर था, क्योंकि इसने उनसे वह कुछ भी छोड़ने को नहीं कहा जिसे वे प्रेम करते थे। गुरु का कवि के प्रति स्वागत बिना किसी निंदा के था। उन्होंने उस व्यक्ति को देखा जो अपने प्रति इतना कठोर रहा था, और उससे कोई स्पष्टीकरण नहीं माँगा। नए वस्त्र स्वीकृति का सरल चिह्न थे, जैसे कोई गृहस्थ किसी अतिथि को, जिसे वह रखना चाहता है, वस्त्र देता है। गुरु ने उनसे कल्लेश्वर की पूजा जारी रखने को कहा, और नरहरि ने उत्तर दिया कि गुरु स्वयं कल्लेश्वर हैं, और वे उनके चरणों में ही रहेंगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नरहरी गाणगापूरला गेले. ते गुरूंसमोर आले, त्यांच्या चरणी लोटांगण घातले, आणि क्षमा मागितली. गुरूंनी त्यांना फटकारले नाही. त्यांनी त्यांना नवे वस्त्र दिले, स्वागताचे चिन्ह, आणि त्यांना शिष्य म्हणून स्वीकारले.\n\nगुरूंनी सांगितले की त्यांनी पूर्वीप्रमाणेच कल्लेश्वराची पूजा सुरू ठेवावी. हे दयाळू आणि अगदी उदार उत्तर होते, कारण यात त्यांना ज्यावर प्रेम होते ते काहीही सोडायला सांगितले नव्हते. गुरूंचे कवीचे स्वागत कोणत्याही निंदेविना होते. ज्या माणसाने स्वतःशी इतके कठोर वर्तन केले होते, त्याच्याकडे पाहिले आणि त्याला स्पष्टीकरण देण्यास भाग पाडले नाही. नवे वस्त्र स्वीकृतीचे साधे चिन्ह होते, जसे एखादा गृहस्थ आपण ठेवू इच्छित असलेल्या पाहुण्याला वस्त्र देतो. गुरूंनी त्यांना कल्लेश्वराची पूजा सुरू ठेवण्यास सांगितले, आणि नरहरींनी उत्तर दिले की गुरू स्वतः कल्लेश्वर आहेत, आणि ते त्यांच्या चरणीच राहतील.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Guru Is Kalleshwar",
+    "hi": {
+     "text": "गुरु ही कल्लेश्वर हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूच कल्लेश्वर आहेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then Narahari spoke. The Guru himself is Kalleshwar, he said, and he would stay at the Guru's feet. The Siddha says it was a statement made not in argument but in simple recognition, as a man might say that the sun and its light are the same.\n\nNarahari became a great poet and devotee, and his tongue, which he had once promised to a single god, now sang freely in the Guru's presence. Namdharak, hearing it, thought about the vows he had made in his own life. He had not been asked to give up his god, and he had not given him up. He had found him in the form he had been looking at all along, and the long vow was over. He became a great poet and devotee, and the Gurucharitra holds him up as one whose tongue was given first to a god and then, without contradiction, to the Guru who is that god.",
+    "hi": {
+     "text": "फिर नरहरि ने कहा। गुरु स्वयं कल्लेश्वर हैं, उन्होंने कहा, और वे गुरु के चरणों में ही रहेंगे। सिद्ध कहते हैं कि यह तर्क में नहीं, सरल पहचान में कहा गया वाक्य था, जैसे कोई कहे कि सूर्य और उसका प्रकाश एक ही हैं।\n\nनरहरि एक महान कवि और भक्त बने, और जिस जीभ को उन्होंने कभी एक ही देव को वचन दिया था, वह अब गुरु की उपस्थिति में स्वतंत्र रूप से गाने लगी। नामधारक, इसे सुनकर, अपने जीवन में लिए गए व्रतों के विषय में सोचने लगे। उनसे उनका देव छीना नहीं गया था, और उन्होंने उसे छोड़ा भी नहीं था। उन्होंने उसे उसी रूप में पा लिया था जिसे वे सदा से देख रहे थे, और लंबा व्रत समाप्त हो गया था। वे एक महान कवि और भक्त बने, और श्री गुरुचरित्र उन्हें ऐसे व्यक्ति के रूप में प्रस्तुत करता है जिसकी जीभ पहले एक देव को, और फिर बिना किसी विरोध के, उसी देव रूप गुरु को समर्पित हुई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग नरहरी बोलले. गुरूच स्वतः कल्लेश्वर आहेत, ते म्हणाले, आणि ते गुरूंच्या चरणी राहतील. सिद्ध सांगतात की हे विधान वादात नव्हे तर साध्या ओळखीने केले गेले होते, जसा एखादा माणूस म्हणेल की सूर्य आणि त्याचा प्रकाश एकच आहेत.\n\nनरहरी एक महान कवी आणि भक्त बनले, आणि ज्या जिभेने त्यांनी कधीकाळी एकाच देवाला वचन दिले होते, ती आता गुरूंच्या उपस्थितीत मुक्तपणे गाऊ लागली. हे ऐकून नामधारकांना त्यांच्या स्वतःच्या आयुष्यातील व्रतांविषयी विचार आला. त्यांना आपला देव सोडायला सांगितले गेले नव्हते, आणि त्यांनी तो सोडलाही नव्हता. त्यांना तो त्याच रूपात सापडला होता ज्याकडे ते सदैव पाहत होते, आणि लांबचे व्रत संपले होते. ते एक महान कवी आणि भक्त बनले, आणि श्री गुरुचरित्र त्यांना अशा माणसाच्या रूपात मांडते ज्याची जीभ आधी एका देवाला, आणि मग कोणताही विरोध न येता, त्याच देवरूप गुरूंना अर्पण झाली.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there a vow or rule you keep so tightly that it keeps you from something good? Loosen it a little today.",
+  "hi": {
+   "text": "क्या कोई व्रत या नियम आप इतनी कसकर निभाते हैं कि वह आपको किसी अच्छी वस्तु से दूर रखता है? आज उसे थोड़ा ढीला कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही कोणते व्रत किंवा नियम इतके घट्ट पाळता की तो तुम्हाला एखाद्या चांगल्या गोष्टीपासून दूर ठेवतो? आज तो थोडा सैल करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "The one we worship is never limited by the name we give, and love is wider than the boundaries we draw around it.",
+  "hi": {
+   "text": "जिस देव की हम पूजा करते हैं, वह उस नाम से सीमित नहीं होता जो हम उसे देते हैं, और प्रेम उन सीमाओं से अधिक विशाल है जो हम उसके चारों ओर खींचते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्या देवाची आपण पूजा करतो तो आपण दिलेल्या नावाने मर्यादित नसतो, आणि प्रेम आपण त्याभोवती आखलेल्या सीमांपेक्षा अधिक विशाल असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 45; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 45; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 45; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

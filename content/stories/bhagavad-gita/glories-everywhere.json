@@ -20,7 +20,7 @@
  "title": {
   "en": "Glories Everywhere",
   "hi": {
-   "text": "हर ओर प्रभु की विभूति",
+   "text": "सर्वत्र महिमा",
    "reviewed": false
   },
   "mr": {
@@ -31,11 +31,11 @@
  "teaser": {
   "en": "Among mountains the Himalaya, among rivers the Ganga: wherever splendour shines, Krishna says, see a spark of the divine.",
   "hi": {
-   "text": "पर्वतों में हिमालय, नदियों में गंगा: जहाँ भी तेज दमके, श्रीकृष्ण कहते हैं, वहाँ प्रभु की एक चिंगारी देखो।",
+   "text": "पर्वतों में हिमालय, नदियों में गंगा: जहाँ भी वैभव चमकता है, श्रीकृष्ण कहते हैं, वहाँ दिव्य की एक चिंगारी को देखो।",
    "reviewed": false
   },
   "mr": {
-   "text": "पर्वतांत हिमालय, नद्यांत गंगा: जिथे जिथे तेज झळकते तिथे परमात्म्याची ठिणगी पाहा, असे श्रीकृष्ण सांगतात.",
+   "text": "पर्वतांत हिमालय, नद्यांत गंगा: जिथे जिथे वैभव चमकते, तिथे दिव्याची ठिणगी पाहा, असे श्रीकृष्ण सांगतात.",
    "reviewed": false
   }
  },
@@ -62,72 +62,120 @@
  "scenes": [
   {
    "title": {
-    "en": "Tell me more of your greatness",
+    "en": "Words for a beloved friend",
     "hi": {
-     "text": "अपनी महिमा और बताइए",
+     "text": "प्रिय मित्र के लिए शब्द",
      "reviewed": false
     },
     "mr": {
-     "text": "तुझे आणखी वैभव सांग",
+     "text": "प्रिय मित्रासाठी शब्द",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Arjuna is moved by Krishna’s words and asks him to describe, in full, the ways in which his glory fills the world. He wants to know how to think of him, in what forms and in what places, so that he can keep him in mind.\n\nKrishna agrees, though he says the list has no end. He starts with the heart: he is the self seated within every being, the beginning, the middle and the end of all that lives. Then he gives examples, as a teacher might hold up a few jewels from a treasure chest to show how vast it is. It is the question of a loving student who wants to see the divine in everyday life, not only in a temple or a far-off heaven.",
+    "en": "Krishna, pleased with Arjuna’s growing trust, says he will speak once more for his good. Hear my supreme word, he says, for neither the gods nor the great sages know my origin, since I am the source of all of them (10.1-2). One who knows him as unborn, without beginning and lord of the worlds is free of delusion and freed from all wrongs (10.3).\n\nHe lists qualities that arise in beings: intelligence, knowledge, patience, truth, self-control, calm, pleasure, pain, birth, death, fear and fearlessness, nonviolence, equanimity, contentment, austerity, charity, fame and disgrace (10.4-5). All of these various states of beings come from him alone. He is speaking now not as a distant lord but as a friend who wants Arjuna to understand how close the divine really is, in the ordinary stuff of mind, body and feeling.",
     "hi": {
-     "text": "अर्जुन श्रीकृष्ण के वचनों से भावविभोर हैं और प्रार्थना करते हैं कि वे अपनी उन विभूतियों को विस्तार से बताएँ जिनसे यह संसार भरा है। वे जानना चाहते हैं कि प्रभु का चिंतन कैसे करें, किन रूपों में और किन स्थानों में, ताकि उन्हें सदा मन में रख सकें।\n\nश्रीकृष्ण मान जाते हैं, पर कहते हैं कि इस सूची का अंत नहीं। वे हृदय से आरंभ करते हैं: वे हर प्राणी के भीतर बैठा आत्मा हैं, सब जीवों के आदि, मध्य और अंत भी वही हैं। फिर वे उदाहरण देते हैं, जैसे कोई गुरु खज़ाने की पेटी से कुछ रत्न निकालकर दिखाए कि वह कितना विशाल है। यह एक प्रेमी शिष्य का प्रश्न है, जो प्रभु को रोज़मर्रा के जीवन में देखना चाहता है, केवल किसी मंदिर या दूर के स्वर्ग में नहीं।",
+     "text": "श्रीकृष्ण अर्जुन के बढ़ते विश्वास से प्रसन्न होकर कहते हैं कि अब वे उसके हित के लिए एक बार फिर बोलेंगे। वे कहते हैं, मेरा परम वचन सुनो, क्योंकि न देवता और न महर्षि मेरी उत्पत्ति जानते हैं, क्योंकि मैं ही उन सबका आदि हूँ (10.1-2)। जो मुझे अजन्मा, अनादि और लोकों का स्वामी जानता है, वह मोह से मुक्त होकर सब पापों से छूट जाता है (10.3)।\n\nवे उन गुणों की सूची देते हैं जो प्राणियों में उत्पन्न होते हैं: बुद्धि, ज्ञान, क्षमा, सत्य, इंद्रिय-संयम, शम, सुख, दुःख, जन्म, मृत्यु, भय और अभय, अहिंसा, समता, संतोष, तप, दान, यश और अपयश (10.4-5)। प्राणियों की ये सभी विविध अवस्थाएँ केवल मुझसे ही उत्पन्न होती हैं। वे अब दूर के स्वामी की तरह नहीं, बल्कि एक मित्र की तरह बोल रहे हैं, जो चाहता है कि अर्जुन समझे कि मन, शरीर और भावनाओं की साधारण सामग्री में दिव्य कितना निकट है।",
      "reviewed": false
     },
     "mr": {
-     "text": "श्रीकृष्णाचे शब्द ऐकून अर्जुन भारावून जातो आणि विनंती करतो की तुझे वैभव जगात कसे कसे भरून राहिले आहे ते पूर्णपणे सांग. तुझे चिंतन कोणत्या रूपांत आणि कोणत्या ठिकाणी करावे म्हणजे तुझे स्मरण टिकेल, हे त्याला जाणून घ्यायचे आहे.\n\nश्रीकृष्ण मान्य करतात, पण सांगतात की या वैभवाला अंत नाही. ते हृदयापासून सुरुवात करतात: प्रत्येक जीवाच्या अंतरी वसलेला आत्मा मीच आहे, आणि सर्व प्राण्यांचा आदि, मध्य आणि अंतही मीच. मग ते उदाहरणे देतात, जणू एखादा गुरू खजिन्याच्या पेटीतून काही रत्ने दाखवून तो किती अफाट आहे ते सांगतो. हा प्रेमळ शिष्याचा प्रश्न आहे, ज्याला परमात्मा केवळ मंदिरात किंवा दूरच्या स्वर्गात नव्हे, तर रोजच्या जीवनात पाहायचा आहे.",
+     "text": "अर्जुनाचा वाढता विश्वास पाहून श्रीकृष्ण प्रसन्न होतात आणि म्हणतात की आता ते त्याच्या हितासाठी पुन्हा बोलतील. ते म्हणतात, माझे परम वचन ऐक, कारण देव आणि महर्षी दोघेही माझी उत्पत्ती जाणत नाहीत, कारण मी त्या सर्वांचा आरंभ आहे (10.1-2)। जो मला अजन्मा, अनादी आणि लोकांचा स्वामी म्हणून जाणतो, तो मोहातून मुक्त होऊन सर्व पापांपासून सुटतो (10.3)।\n\nते प्राण्यांमध्ये उत्पन्न होणाऱ्या गुणांची यादी देतात: बुद्धी, ज्ञान, क्षमा, सत्य, इंद्रियनिग्रह, शम, सुख, दुःख, जन्म, मृत्यू, भय आणि अभय, अहिंसा, समता, संतोष, तप, दान, कीर्ती आणि अपकीर्ती (10.4-5)। प्राण्यांच्या या विविध अवस्था केवळ माझ्याकडूनच येतात. ते आता दूरच्या स्वामीसारखे नव्हे, तर मित्रासारखे बोलत आहेत, ज्याला अर्जुनाने समजून घ्यावे की मन, शरीर आणि भावना यांच्या साध्या सामग्रीत दिव्य किती जवळ आहे.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Sparks of splendour",
+    "en": "Arjuna asks to hear more",
     "hi": {
-     "text": "तेज की चिंगारियाँ",
+     "text": "अर्जुन और अधिक सुनना चाहता है",
      "reviewed": false
     },
     "mr": {
-     "text": "तेजाच्या ठिणग्या",
+     "text": "अर्जुन आणखी ऐकू इच्छितो",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Among the shining ones he is the sun, and among the stars, the moon. Among mountains he is the Himalaya, and among rivers the Ganga. Among trees he is the ashvattha, among sages the great seers, among words the sacred syllable Om. Among the senses he is the mind, and among the seasons the spring.\n\nWhatever is powerful, beautiful or full of life, Krishna says, comes from a tiny fraction of his light. Then he asks Arjuna a gentle question: what need is there for a long list? The whole universe is held up by one small portion of him. Those who understand this are devoted with steady love, and he gives them the understanding to come closer.",
+    "en": "Arjuna answers with deep faith. He declares that he accepts all that Krishna has said, and that neither gods nor demons know his manifestation (10.14). Only you know yourself by yourself, supreme person, source of beings and lord of the world (10.15).\n\nThen he asks for something practical. Tell me, he says, of your divine glories, in which you pervade these worlds and abide (10.16). How may I know you by constant meditation, and in which various forms am I to think of you (10.17)? Tell me again in detail of your power and glory, for I am never satisfied hearing this nectar (10.18). It is a student who wants hooks for the mind, something concrete to look for. Arjuna also recalls the sages Narada, Asita, Devala and Vyasa, who have all declared Krishna’s divinity, and he adds that Krishna himself says the same (10.12-13).",
     "hi": {
-     "text": "तेजस्वियों में वे सूर्य हैं, और तारों में चंद्रमा। पर्वतों में वे हिमालय हैं, और नदियों में गंगा। वृक्षों में अश्वत्थ, ऋषियों में महान द्रष्टा, शब्दों में पवित्र अक्षर ॐ। इंद्रियों में वे मन हैं, और ऋतुओं में वसंत।\n\nजो कुछ भी शक्तिशाली, सुंदर या प्राणवान है, श्रीकृष्ण कहते हैं, वह उनके तेज के एक नन्हे अंश से ही उपजा है। फिर वे अर्जुन से कोमलता से पूछते हैं: इतनी लंबी सूची की क्या आवश्यकता? पूरा ब्रह्मांड उनके एक छोटे-से अंश से ही थमा हुआ है। जो यह जान लेते हैं, वे अटल प्रेम से उनकी भक्ति करते हैं, और वे उन्हें वह समझ देते हैं जिससे वे उनके और निकट आ सकें।",
+     "text": "अर्जुन गहरी श्रद्धा से उत्तर देता है। वह कहता है कि जो कुछ श्रीकृष्ण ने कहा, वह उसे पूरी तरह स्वीकार करता है, और न देवता और न दानव उनके प्रकट स्वरूप को जानते हैं (10.14)। हे पुरुषोत्तम, प्राणियों के उत्पत्तिकर्ता और जगत के स्वामी, केवल आप ही अपने आप को अपने द्वारा जानते हैं (10.15)।\n\nफिर वह एक व्यावहारिक माँग रखता है। वह कहता है, मुझे अपनी दिव्य विभूतियाँ बताइए, जिनके द्वारा आप इन लोकों में व्याप्त होकर स्थित हैं (10.16)। निरंतर ध्यान से मैं आपको कैसे जानूँ, और किन-किन रूपों में मैं आपका चिंतन करूँ (10.17)? अपनी शक्ति और विभूति को विस्तार से फिर से बताइए, क्योंकि इस अमृत-वचन को सुनकर मैं कभी तृप्त नहीं होता (10.18)। यह उस शिष्य की तरह है जो मन के लिए ठोस आधार चाहता है, कुछ ऐसा जिसे वह देख और खोज सके। अर्जुन नारद, असित, देवल और व्यास जैसे ऋषियों को भी याद करता है, जिन्होंने श्रीकृष्ण की दिव्यता घोषित की है, और वह जोड़ता है कि श्रीकृष्ण स्वयं भी वही कहते हैं (10.12-13)।",
      "reviewed": false
     },
     "mr": {
-     "text": "तेजस्वी पदार्थांत मी सूर्य, आणि नक्षत्रांत चंद्र. पर्वतांत मी हिमालय, आणि नद्यांत गंगा. वृक्षांत मी अश्वत्थ, ऋषींत महान द्रष्टे, शब्दांत पवित्र ओंकार. इंद्रियांत मी मन, आणि ऋतूंत वसंत.\n\nजे जे सामर्थ्यवान, सुंदर किंवा जीवनाने भरलेले आहे ते माझ्या तेजाच्या अगदी लहानशा अंशातून आले आहे, असे श्रीकृष्ण सांगतात. मग ते अर्जुनाला हळूच विचारतात, इतक्या लांब यादीची गरजच काय? हे सारे विश्व माझ्या एका लहानशा अंशाने धरून ठेवले आहे. हे जाणणारे लोक स्थिर प्रेमाने भक्ती करतात, आणि मी त्यांना माझ्या जवळ येण्याची बुद्धी देतो.",
+     "text": "अर्जुन खोल श्रद्धेने उत्तर देतो. श्रीकृष्ण जे सांगत आहेत ते तो पूर्णपणे स्वीकारतो, आणि म्हणतो की न देव न दानव त्यांचे प्रकटीकरण जाणतात (10.14)। हे पुरुषोत्तमा, प्राण्यांचे उगमस्थान आणि जगाचे स्वामी, केवळ तूच स्वतःला स्वतःने जाणतोस (10.15)।\n\nमग तो एक व्यावहारिक विनंती करतो. तो म्हणतो, तुझी दिव्य विभूती मला सांग, ज्यांनी तू या लोकांमध्ये व्यापून राहतोस (10.16)। सतत ध्यानाने मी तुला कसे जाणू शकेन, आणि कोणत्या विविध रूपांत मी तुझे चिंतन करू (10.17)? तुझी शक्ती आणि वैभव पुन्हा सविस्तर सांग, कारण हे अमृतमय बोलणे ऐकून माझे समाधान होत नाही (10.18)। हे असे आहे की एखादा विद्यार्थी मनाला पकडण्यासाठी ठोस आधार शोधतो, असे काहीतरी जे तो पाहू आणि शोधू शकेल. अर्जुन नारद, असित, देवल आणि व्यास या ऋषींचीही आठवण काढतो, ज्यांनी श्रीकृष्णांची दिव्यता घोषित केली आहे, आणि जोडतो की श्रीकृष्ण स्वतःही तेच सांगतात (10.12-13)।",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Learning to look for light",
+    "en": "I am the self in every heart",
     "hi": {
-     "text": "प्रकाश को खोजना सीखें",
+     "text": "हर हृदय में स्थित आत्मा मैं हूँ",
      "reviewed": false
     },
     "mr": {
-     "text": "प्रकाश शोधायला शिकणे",
+     "text": "प्रत्येक हृदयातील आत्मा मी आहे",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Our days are crowded with problems, and it is easy to see only what is wrong. This chapter trains the eye to look for what is shining. Watch a sunrise, hear a child laugh, notice someone doing something kind. Whether you call it divine or simply wonderful, give it your attention.\n\nTry a small game today. Find three things that fill you with awe or quiet joy, and name them out loud or in a notebook. People who keep this habit often report feeling more grateful and less alone. The world, this chapter says, is lit from within, and all we need to do is look. Gratitude of this kind costs nothing, yet it quietly turns an ordinary day into one full of small gifts.",
+    "en": "Krishna agrees, but warns that there is no end to the details of his glories, so he will speak only of the chief ones (10.19). Before any list, he gives the heart of it. I am the self, Arjuna, seated in the hearts of all beings. I am the beginning, the middle and also the end of all beings (10.20).\n\nThen begin the images. Among the Adityas he is Vishnu, among lights the radiant sun, among the winds Marichi and among the stars the moon (10.21). Among the Vedas he is the Sama Veda, among the gods Indra, among the senses the mind, and in beings the consciousness (10.22). Among the mountains he is Meru, among the priests Brihaspati, and among the waters the ocean (10.23-24). He is not claiming to be only these things. He is pointing out that each of them is a doorway through which the vast reality can be seen.",
     "hi": {
-     "text": "हमारे दिन समस्याओं से भरे हैं, और केवल जो गलत है वही दिखना आसान है। यह अध्याय आँख को जो चमक रहा है उसे खोजना सिखाता है। सूर्योदय देखिए, बच्चे की हँसी सुनिए, किसी को भला काम करते हुए ध्यान से देखिए। आप उसे दिव्य कहें या केवल अद्भुत, उस पर अपना ध्यान टिकाइए।\n\nआज एक छोटा खेल खेलिए। तीन ऐसी चीज़ें खोजिए जो आपको विस्मय या शांत आनंद से भर दें, और उन्हें ज़ोर से बोलिए या डायरी में लिख लीजिए। जो लोग यह आदत डालते हैं, वे अक्सर कहते हैं कि उन्हें अधिक कृतज्ञता और कम अकेलापन महसूस होता है। इस अध्याय का कहना है कि संसार भीतर से प्रकाशित है, बस हमें देखना है। ऐसी कृतज्ञता में कुछ खर्च नहीं होता, फिर भी वह चुपचाप साधारण दिन को छोटी-छोटी सौगातों से भर देती है।",
+     "text": "श्रीकृष्ण सहमत होते हैं, पर चेतावनी देते हैं कि उनकी महिमा के विवरणों का कोई अंत नहीं, इसलिए वे केवल प्रमुख विभूतियों की बात करेंगे (10.19)। किसी सूची से पहले वे उसका सार देते हैं। हे अर्जुन, मैं सब प्राणियों के हृदय में स्थित आत्मा हूँ। मैं ही सब प्राणियों का आदि, मध्य और अंत भी हूँ (10.20)।\n\nफिर चित्र आरंभ होते हैं। आदित्यों में मैं विष्णु हूँ, प्रकाशों में तेजस्वी सूर्य, वायुओं में मरीचि, और नक्षत्रों में चंद्रमा हूँ (10.21)। वेदों में मैं सामवेद हूँ, देवताओं में इंद्र, इंद्रियों में मन, और प्राणियों में चेतना हूँ (10.22)। पर्वतों में मैं मेरु हूँ, पुरोहितों में बृहस्पति, और जलाशयों में समुद्र हूँ (10.23-24)। वे यह दावा नहीं कर रहे कि वे केवल यही हैं। वे दिखा रहे हैं कि इनमें से प्रत्येक एक द्वार है जिससे विशाल सत्य देखा जा सकता है।",
      "reviewed": false
     },
     "mr": {
-     "text": "आपले दिवस अडचणींनी भरलेले असतात आणि जे चुकले आहे तेवढेच दिसणे सोपे असते. हा अध्याय डोळ्यांना जे झळकते आहे ते शोधायला शिकवतो. सूर्योदय पाहा, लहान मुलाचे हसणे ऐका, कोणी चांगले काम करताना पाहिले तर ते लक्षात घ्या. त्याला दैवी म्हणा किंवा नुसते सुंदर म्हणा, पण त्याकडे लक्ष द्या.\n\nआज एक छोटा खेळ करून पाहा. ज्या तीन गोष्टी तुम्हाला आश्चर्याने किंवा शांत आनंदाने भरतात त्या शोधा, आणि त्यांची नावे मोठ्याने किंवा वहीत लिहा. ही सवय जपणाऱ्या लोकांना अधिक कृतज्ञ आणि कमी एकटे वाटते, असे ते सांगतात. हे जग आतून उजळलेले आहे, आपल्याला फक्त पाहायचे आहे, असे हा अध्याय सांगतो. अशी कृतज्ञता काहीच खर्च करत नाही, तरी ती साधा दिवसही लहानलहान देणग्यांनी भरून टाकते.",
+     "text": "श्रीकृष्ण सहमत होतात, पण इशारा देतात की त्यांच्या वैभवाच्या तपशिलांना अंत नाही, म्हणून ते केवळ प्रमुख विभूतींबद्दल बोलतील (10.19)। कोणत्याही यादीच्या आधी ते त्याचे सार सांगतात. हे अर्जुना, मी सर्व प्राण्यांच्या हृदयात वसलेला आत्मा आहे. मीच सर्व प्राण्यांचा आदी, मध्य आणि अंत आहे (10.20)।\n\nमग प्रतिमा सुरू होतात. आदित्यांमध्ये मी विष्णू आहे, प्रकाशांमध्ये तेजस्वी सूर्य, वायूंमध्ये मरीची, आणि ताऱ्यांमध्ये चंद्र आहे (10.21)। वेदांमध्ये मी सामवेद आहे, देवांमध्ये इंद्र, इंद्रियांमध्ये मन, आणि प्राण्यांमध्ये चेतना आहे (10.22)। पर्वतांमध्ये मी मेरू आहे, पुरोहितांमध्ये बृहस्पती, आणि जलाशयांमध्ये समुद्र आहे (10.23-24)। तो दावा करत नाही की तो फक्त हेच आहे. तो दाखवत आहे की यातील प्रत्येक गोष्ट एक असे द्वार आहे ज्यातून विशाल सत्य पाहता येते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The greatest of each kind",
+    "hi": {
+     "text": "अपनी जाति में श्रेष्ठतम",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "प्रत्येक प्रकारातील श्रेष्ठ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The list goes on, always choosing the finest example. Among the great sages he is Bhrigu, among words the single syllable Om, among offerings the silent repetition of the name, and among the immovable the Himalaya (10.25). Among trees he is the sacred peepal, among sages Narada, among horses Uccaihshravas and among elephants Airavata (10.26-27).\n\nAmong weapons he is the thunderbolt, among cows the wish-granting cow, and among serpents Vasuki (10.28). Among rivers he is the Ganga (10.31). Among creators he is the beginning, the middle and the end of creations, and among knowledge the knowledge of the self (10.32). He is also the letter A among letters, the dual among compounds, and imperishable time (10.33). In each case the point is the same: wherever a thing shines in its kind, a spark of his light is there.",
+    "hi": {
+     "text": "सूची आगे बढ़ती है, और हर बार सबसे उत्तम उदाहरण चुना जाता है। महर्षियों में मैं भृगु हूँ, शब्दों में एकाक्षर ॐ, यज्ञों में मौन जप, और अचल वस्तुओं में हिमालय हूँ (10.25)। वृक्षों में मैं पवित्र पीपल हूँ, ऋषियों में नारद, अश्वों में उच्चैःश्रवा और हाथियों में ऐरावत हूँ (10.26-27)।\n\nअस्त्रों में मैं वज्र हूँ, गायों में कामधेनु, और सर्पों में वासुकि हूँ (10.28)। नदियों में मैं गंगा हूँ (10.31)। सृष्टियों के रचयिताओं में मैं उनका आदि, मध्य और अंत हूँ, और विद्याओं में अध्यात्म-विद्या हूँ (10.32)। अक्षरों में मैं 'अ' हूँ, समासों में द्वंद्व, और अविनाशी काल हूँ (10.33)। हर उदाहरण में बात एक ही है: जहाँ भी कोई वस्तु अपनी जाति में चमकती है, वहाँ मेरे प्रकाश की एक चिंगारी है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "यादी पुढे जाते, आणि प्रत्येक वेळी सर्वोत्तम उदाहरण निवडले जाते. महर्षींमध्ये मी भृगू आहे, शब्दांमध्ये एकाक्षर ॐ, यज्ञांमध्ये मौन जप, आणि अचलांमध्ये हिमालय आहे (10.25)। वृक्षांमध्ये मी पवित्र पिंपळ आहे, ऋषींमध्ये नारद, अश्वांमध्ये उच्चैःश्रवा आणि हत्तींमध्ये ऐरावत आहे (10.26-27)।\n\nशस्त्रांमध्ये मी वज्र आहे, गायींमध्ये कामधेनू, आणि सर्पांमध्ये वासुकी आहे (10.28)। नद्यांमध्ये मी गंगा आहे (10.31)। सृष्टी निर्माण करणाऱ्यांमध्ये मी तिचा आरंभ, मध्य आणि अंत आहे, आणि विद्यांमध्ये आत्मज्ञान आहे (10.32)। अक्षरांमध्ये मी 'अ' आहे, समासांमध्ये द्वंद्व, आणि अविनाशी काळ आहे (10.33)। प्रत्येक उदाहरणात मुद्दा एकच आहे: जिथे जिथे एखादी वस्तू आपल्या जातीत चमकते, तिथे माझ्या प्रकाशाची ठिणगी असते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A single spark of splendour",
+    "hi": {
+     "text": "वैभव की एक चिंगारी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वैभवाची एक ठिणगी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna adds some quieter examples. Among secrets he is silence, and among the wise the wisdom (10.38). Among the strong he is the strength, among the victorious the victory, and among the virtuous the virtue. Among those who rule he is the rod of punishment and among those who seek victory the policy (10.36, 10.38).\n\nThen he cuts the list short. He is the seed of all beings, and nothing moving or unmoving can exist without him (10.39). There is no end to his divine glories, and what he has spoken is only an illustration (10.40). Whatever being is glorious, prosperous or powerful, know that it springs from a fragment of his splendour (10.41). In the end he asks, what need is there for you of this much detail, Arjuna? With a single portion of himself, he says, he stands upholding this entire universe (10.42).",
+    "hi": {
+     "text": "श्रीकृष्ण कुछ शांत उदाहरण भी जोड़ते हैं। गोपनीय बातों में मैं मौन हूँ, और ज्ञानियों में ज्ञान (10.38)। बलवानों में मैं बल हूँ, विजयी में विजय, और सदाचारियों में सदाचार। शासकों में मैं दंड हूँ, और विजय चाहने वालों में नीति (10.36, 10.38)।\n\nफिर वे सूची को समेट देते हैं। मैं सब प्राणियों का बीज हूँ, और मेरे बिना कोई चर या अचर वस्तु नहीं हो सकती (10.39)। मेरी दिव्य महिमा का कोई अंत नहीं है, और जो मैंने कहा वह केवल एक उदाहरण मात्र है (10.40)। जो भी प्राणी तेजस्वी, समृद्ध या शक्तिशाली है, उसे मेरे वैभव के एक अंश से उत्पन्न जानो (10.41)। अंत में वे पूछते हैं, हे अर्जुन, तुम्हें इतने विस्तार की क्या आवश्यकता है? अपने एक अंश मात्र से मैं इस सारे ब्रह्मांड को धारण करके स्थित हूँ (10.42)।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण काही शांत उदाहरणेही जोडतात. गुह्य गोष्टींमध्ये मी मौन आहे, आणि ज्ञानींमध्ये ज्ञान (10.38)। बलवानांमध्ये मी बल आहे, विजयींमध्ये विजय, आणि सदाचारींमध्ये सदाचार. शासकांमध्ये मी दंड आहे, आणि विजय शोधणाऱ्यांमध्ये नीती (10.36, 10.38)।\n\nमग ते यादी आटोपती घेतात. मी सर्व प्राण्यांचे बीज आहे, आणि माझ्याशिवाय चर किंवा अचर काहीही अस्तित्वात राहू शकत नाही (10.39)। माझ्या दिव्य वैभवाला अंत नाही, आणि मी जे सांगितले ते केवळ एक उदाहरण आहे (10.40)। जे जे प्राणी तेजस्वी, समृद्ध किंवा शक्तिशाली आहे, ते माझ्या वैभवाच्या एका अंशातून उगम पावते, हे जाण (10.41)। शेवटी ते विचारतात, अर्जुना, तुला इतक्या तपशिलांची काय गरज आहे? माझ्या स्वतःच्या एका अंशाने मी हे संपूर्ण विश्व धारण करून उभा आहे (10.42)।",
      "reviewed": false
     }
    }
@@ -142,41 +190,41 @@
     "reviewed": false
    },
    "mr": {
-    "text": "भगवद्गीता १०.२०",
+    "text": "भगवद्गीता 10.20",
     "reviewed": false
    }
   },
   "meaning": {
    "en": "I am the self living in the heart of every being, and I am also their beginning, their middle and their end.",
    "hi": {
-    "text": "हे अर्जुन, मैं सब प्राणियों के हृदय में बसा आत्मा हूँ, और मैं ही उन सबका आदि, मध्य और अंत भी हूँ।",
+    "text": "मैं हर प्राणी के हृदय में निवास करने वाला आत्मा हूँ, और मैं ही उनका आदि, मध्य और अंत भी हूँ।",
     "reviewed": false
    },
    "mr": {
-    "text": "हे अर्जुना, सर्व प्राण्यांच्या हृदयात वसलेला आत्मा मीच आहे, आणि त्यांचा आदि, मध्य आणि अंतही मीच आहे.",
+    "text": "मी प्रत्येक प्राण्याच्या हृदयात वास करणारा आत्मा आहे, आणि मीच त्यांचा आरंभ, मध्य आणि अंतही आहे.",
     "reviewed": false
    }
   }
  },
  "reflect": {
-  "en": "What beautiful or powerful thing did you notice recently? Today, spot three more and thank them quietly.",
+  "en": "Where have you seen something so beautiful or brave that it stopped you? Today, notice one such moment and silently honour whatever shines through it.",
   "hi": {
-   "text": "हाल में आपने कौन-सी सुंदर या सशक्त चीज़ देखी? आज तीन और खोजिए और मन-ही-मन उनका आभार मानिए।",
+   "text": "आपने कब कोई ऐसी चीज़ देखी जो इतनी सुंदर या साहसी थी कि आप ठहर गए? आज ऐसे एक क्षण पर ध्यान दीजिए और मौन में उस चमक का सम्मान कीजिए जो उससे होकर झलक रही थी।",
    "reviewed": false
   },
   "mr": {
-   "text": "अलीकडे तुम्हाला कोणती सुंदर किंवा सामर्थ्यवान गोष्ट जाणवली? आज आणखी तीन शोधा आणि त्यांना मनातल्या मनात धन्यवाद द्या.",
+   "text": "तुम्ही कधी इतके सुंदर किंवा शूर काहीतरी पाहिले आहे की तुम्ही थांबलात? आज असा एक क्षण शोधा आणि मौनात त्या तेजाचा सन्मान करा जे त्यातून झळकत होते.",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "Wherever beauty and strength appear, a spark of the divine is shining.",
+  "en": "Wherever something shines, a spark of the divine is shining through it.",
   "hi": {
-   "text": "जहाँ भी सौंदर्य और शक्ति दिखे, वहाँ प्रभु की एक चिंगारी चमक रही है।",
+   "text": "जहाँ भी कुछ चमकता है, वहाँ उसके माध्यम से दिव्य की एक चिंगारी ही चमक रही है।",
    "reviewed": false
   },
   "mr": {
-   "text": "जिथे जिथे सौंदर्य आणि सामर्थ्य दिसते, तिथे परमात्म्याची ठिणगी तेजाने चमकत असते.",
+   "text": "जिथे काही चमकते, तिथे त्यातून दिव्याची एक ठिणगीच चमकत असते.",
    "reviewed": false
   }
  },
@@ -187,7 +235,7 @@
    "reviewed": false
   },
   "mr": {
-   "text": "भगवद्गीता, अध्याय १० (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "text": "भगवद्गीता, अध्याय 10 (महाभारत, भीष्म पर्व); आमच्या स्वतःच्या शब्दांत सारांश",
    "reviewed": false
   }
  }

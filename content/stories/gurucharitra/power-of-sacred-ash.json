@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "power-of-sacred-ash",
+ "order": 29,
+ "part": "karma",
+ "figure": {
+  "en": "Narasimha Saraswati and Trivikram Bharati",
+  "hi": {
+   "text": "नृसिंह सरस्वती और त्रिविक्रम भारती",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि त्रिविक्रम भारती",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Ash on the Forehead",
+  "hi": {
+   "text": "माथे पर भस्म",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कपाळावरील भस्म",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Trivikram asks why the man's learning faded, and the Guru tells of Vamadeva and a demon of twenty-five births.",
+  "hi": {
+   "text": "त्रिविक्रम पूछते हैं कि उस व्यक्ति की विद्या क्यों लुप्त हो गई, और गुरु वामदेव तथा पच्चीस जन्मों के एक राक्षस की कथा सुनाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "त्रिविक्रम विचारतात की त्या माणसाची विद्या का लोपली, आणि गुरू वामदेव व पंचवीस जन्मांच्या एका राक्षसाची कथा सांगतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-ganesh-idol.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Lord Ganesha",
+    "hi": {
+     "text": "भगवान गणेश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भगवान गणेश",
+     "reviewed": false
+    }
+   },
+   "credit": "Arunsbhat, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lord_Ganesha_Idol.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Why the Knowledge Faded",
+    "hi": {
+     "text": "विद्या क्यों लुप्त हुई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विद्या का लोपली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Trivikram Bharati had noticed something puzzling. The outcaste man had spoken the Vedas perfectly, and then, after bathing, had lost that knowledge. He asked the Guru how it had come, and why it had gone.\n\nThe Guru answered simply. The knowledge had come from the vibhuti, the sacred ash sprinkled on the man, and when the ash was washed off, the knowledge had washed away with it. The gift had been real, but it had not been his own. The ash was a sign of grace, and grace given for a time still counts as given. Trivikram Bharati, who had seen the man recite the Vedas so perfectly, wanted to understand what he had witnessed, and the Guru answered his question without any show. The Guru said it kindly, to avoid any suggestion that the man had cheated. The ash had carried a blessing, and the blessing had done its work for the time it was needed. Trivikram nodded slowly, taking it in.",
+    "hi": {
+     "text": "त्रिविक्रम भारती ने एक विचित्र बात देखी थी। उस अंत्यज व्यक्ति ने वेद निर्दोष रूप से पढ़े थे, और फिर स्नान के बाद वह ज्ञान उसमें नहीं रहा। उन्होंने गुरु से पूछा कि यह ज्ञान कैसे आया और क्यों चला गया।\n\nगुरु ने सीधा उत्तर दिया। वह ज्ञान उस विभूति, उस पवित्र भस्म से आया था जो उस व्यक्ति पर छिड़की गई थी, और जब भस्म धुल गई, तो ज्ञान भी उसके साथ धुल गया। वह उपहार सच्चा था, पर वह उसका अपना नहीं था। भस्म कृपा का चिह्न थी, और कृपा जो कुछ समय के लिए दी गई हो, वह फिर भी दी गई मानी जाती है। त्रिविक्रम भारती ने उस व्यक्ति को वेदपाठ करते देखा था, और वे समझना चाहते थे कि उन्होंने क्या देखा है। गुरु ने बिना किसी दिखावे के उनके प्रश्न का उत्तर दिया। गुरु ने यह दयालुता से कहा, ताकि यह संकेत न जाए कि उस व्यक्ति ने छल किया था। भस्म में एक आशीर्वाद था, और वह आशीर्वाद उतने समय तक अपना काम कर गया जितने समय उसकी आवश्यकता थी। त्रिविक्रम धीरे से सिर हिलाते हुए उसे ग्रहण करने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्रिविक्रम भारतींच्या लक्षात एक कोडे आले होते. तो अस्पृश्य माणूस वेद निर्दोषपणे बोलला होता, आणि मग स्नानानंतर ते ज्ञान त्याच्यात उरले नव्हते. त्यांनी गुरूंना विचारले की ते कसे आले आणि का गेले.\n\nगुरूंनी सरळ उत्तर दिले. ते ज्ञान त्या माणसावर शिंपडलेल्या विभूतीतून, पवित्र भस्मातून आले होते, आणि भस्म धुतले गेल्यावर ज्ञानही त्याबरोबर धुतले गेले. ती देणगी खरी होती, पण ती त्याची स्वतःची नव्हती. भस्म हे कृपेचे चिन्ह होते, आणि काही काळासाठी दिलेली कृपाही दिली गेलेली मानली जाते. त्रिविक्रम भारती, ज्यांनी त्या माणसाला इतक्या परिपूर्णतेने वेद म्हणताना पाहिले होते, त्यांना जे पाहिले ते समजून घ्यायचे होते, आणि गुरूंनी कोणताही दिखावा न करता त्यांच्या प्रश्नाचे उत्तर दिले. गुरूंनी ते दयाळूपणे सांगितले, जेणेकरून त्या माणसाने फसवणूक केली अशी शंका येऊ नये. भस्मात आशीर्वाद होता, आणि ज्या वेळी त्याची गरज होती तोपर्यंत तो आशीर्वाद आपले काम करून गेला. त्रिविक्रम हळूच मान हलवत ते समजून घेत राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Vamadeva in the Krauncha Forest",
+    "hi": {
+     "text": "क्रौंच वन में वामदेव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "क्रौंच वनात वामदेव",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "To explain the power of ash, the Guru told a story of the sage Vamadeva, who was walking in the Krauncha forest. A demon came out of the trees and attacked him. The yogi did not strike back. He only stood, and ash from his own body touched the demon.\n\nAt that touch the demon's sins were cleared, and knowledge came to him. He stopped. He looked at the sage with new eyes. The forest of Krauncha is thick and dark in the old tales, and a sage walking alone through it might well meet a threat. Vamadeva, though, was without fear. When the demon sprang out of the shadows with a roar, the sage stood where he was, and did not so much as raise his hand to defend himself.",
+    "hi": {
+     "text": "भस्म की शक्ति समझाने के लिए गुरु ने ऋषि वामदेव की कथा सुनाई, जो क्रौंच वन में चल रहे थे। एक राक्षस पेड़ों के बीच से निकला और उन पर आक्रमण कर दिया। योगी ने प्रहार नहीं किया। वे बस खड़े रहे, और उनके अपने शरीर की भस्म राक्षस को छू गई।\n\nउस स्पर्श से राक्षस के पाप धुल गए, और उसमें ज्ञान उत्पन्न हुआ। वह रुक गया। उसने ऋषि को नई दृष्टि से देखा। पुरानी कथाओं में क्रौंच वन घना और अंधकारमय है, और अकेले उसमें चलता ऋषि किसी संकट से मिल सकता है। फिर भी वामदेव निर्भय थे। जब राक्षस गर्जना करते हुए छाया से निकला, तब भी ऋषि वहीं खड़े रहे, और अपनी रक्षा के लिए हाथ तक नहीं उठाया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भस्माची शक्ती समजावण्यासाठी गुरूंनी ऋषी वामदेवांची कथा सांगितली, जे क्रौंच वनातून चालत होते. एक राक्षस झाडांमधून बाहेर आला आणि त्यांच्यावर हल्ला केला. योग्याने प्रहार केला नाही. ते फक्त उभे राहिले, आणि त्यांच्याच शरीरावरील भस्म राक्षसाला स्पर्श झाले.\n\nत्या स्पर्शाने राक्षसाची पापे धुतली गेली, आणि त्याच्यात ज्ञान उत्पन्न झाले. तो थांबला. त्याने ऋषींकडे नव्या दृष्टीने पाहिले. जुन्या कथांमध्ये क्रौंच वन दाट आणि अंधारे आहे, आणि एकट्याने त्यातून जाणारा ऋषी कोणत्याही संकटाला सामोरा जाऊ शकतो. तरीही वामदेव निर्भय होते. राक्षस गर्जना करत अंधारातून झेपावला तेव्हाही ऋषी जिथे होते तिथेच उभे राहिले, आणि स्वतःच्या रक्षणासाठी हातही उचलला नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Twenty-Five Past Lives",
+    "hi": {
+     "text": "पच्चीस पूर्व जन्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पंचवीस पूर्वजन्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The demon now remembered twenty-five of his past births. He had been a wicked king named Durjaya, and he saw clearly what he had done in those lives. The memory was heavy, and he fell at the sage's feet.\n\nHe begged to be released from what he had become. Vamadeva, seeing his sorrow, did not turn him away. He listened as the demon spoke of all he had been and wished he had not. These were not good memories. He remembered what he had been as Durjaya, and for the first time he saw those lives as his own. The Siddha does not hurry the telling. A being who had terrified a forest was now trembling at the sight of its own history, and begged to be allowed to change.",
+    "hi": {
+     "text": "अब राक्षस को अपने पच्चीस पूर्व जन्म स्मरण हो आए। वह दुर्जय नाम का एक दुष्ट राजा रहा था, और उसने उन जन्मों में जो किया था, वह स्पष्ट देखा। वह स्मृति भारी थी, और वह ऋषि के चरणों में गिर पड़ा।\n\nउसने उस अवस्था से मुक्ति की विनती की जिसमें वह पहुँच गया था। वामदेव ने उसका शोक देखकर उसे दूर नहीं किया। उन्होंने सुना कि राक्षस अपने अब तक के जीवन और उसके लिए पछतावे के विषय में बोल रहा है। ये अच्छी स्मृतियाँ नहीं थीं। उसे याद आया कि दुर्जय के रूप में वह क्या था, और पहली बार उसने उन जन्मों को अपने ही रूप में देखा। सिद्ध कथा को जल्दी नहीं बढ़ाते। जो प्राणी पूरे वन को भयभीत करता था, वह अब अपने ही इतिहास को देखकर काँप रहा था, और बदलने की अनुमति माँग रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता राक्षसाला त्याचे पंचवीस पूर्वजन्म आठवले. तो दुर्जय नावाचा एक दुष्ट राजा होता, आणि त्या जन्मांत त्याने काय केले होते ते त्याने स्पष्ट पाहिले. ती आठवण जड होती, आणि तो ऋषींच्या चरणी कोसळला.\n\nत्याने त्याच्या झालेल्या अवस्थेतून मुक्तीची याचना केली. वामदेवांनी त्याचे दुःख पाहून त्याला दूर लोटले नाही. राक्षस आपण काय होतो आणि काय नको होते याविषयी बोलत असताना त्यांनी ऐकले. त्या चांगल्या आठवणी नव्हत्या. दुर्जय म्हणून तो काय होता हे त्याला आठवले, आणि पहिल्यांदाच त्याने ते जन्म स्वतःचे म्हणून पाहिले. सिद्ध कथा घाईने पुढे नेत नाहीत. ज्या प्राण्याने संपूर्ण वनाला भयभीत केले होते, तो आता स्वतःच्या इतिहासाकडे पाहून थरथरत होता, आणि बदलण्याची परवानगी मागत होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Heavenly Form",
+    "hi": {
+     "text": "दिव्य रूप",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिव्य रूप",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Vamadeva then empowered a pinch of ash with a mantra of Shiva and gave it to the demon. The demon applied it as instructed. His body was changed, and he took a heavenly form, bright and light.\n\nThe story ends with the former demon in a new, heavenly form. It is told as a grace given and received, with the sage doing no more than offering what he had to someone who asked. The mantra of Shiva is said to carry great power, but the story is clear that it was the sage's compassion that made the ash work. A demon who had come to kill was sent away in a form of light. Those who watched in the story, and those who hear it now, are meant to feel how far one kind act can reach.",
+    "hi": {
+     "text": "फिर वामदेव ने भस्म की एक चुटकी पर शिव के मंत्र से शक्ति का आह्वान किया और उसे राक्षस को दिया। राक्षस ने उसे निर्देशानुसार लगाया। उसका शरीर बदल गया, और उसने एक दिव्य रूप पाया, उज्ज्वल और प्रकाशमान।\n\nकथा पूर्व राक्षस के नए, दिव्य रूप के साथ समाप्त होती है। इसे दी गई और पाई गई कृपा के रूप में सुनाया गया है, जिसमें ऋषि ने केवल वही दिया जो उनके पास था, माँगने वाले को। शिव के मंत्र में महान शक्ति मानी जाती है, पर कथा स्पष्ट है कि भस्म को असर ऋषि की करुणा ने दिया। जो राक्षस मारने आया था, उसे प्रकाश के रूप में विदा किया गया। कथा में देखने वालों को, और आज इसे सुनने वालों को, यह महसूस करना है कि एक दयालु कर्म कितनी दूर तक पहुँच सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग वामदेवांनी भस्माच्या एका चिमटीवर शिवाच्या मंत्राने शक्तीचे आवाहन केले आणि ती राक्षसाला दिली. राक्षसाने ती सांगितल्याप्रमाणे लावली. त्याचे शरीर बदलले, आणि त्याने दिव्य रूप धारण केले, तेजस्वी आणि प्रकाशमान.\n\nकथा पूर्वीच्या राक्षसाच्या नव्या, दिव्य रूपाने संपते. ती दिलेली आणि स्वीकारलेली कृपा म्हणून सांगितली आहे, ज्यात ऋषींनी जे त्यांच्याजवळ होते तेच, मागणाऱ्याला दिले. शिवाच्या मंत्राला मोठी शक्ती मानली जाते, पण कथा स्पष्ट आहे की भस्माला परिणाम ऋषींच्या करुणेने दिला. मारायला आलेल्या राक्षसाला प्रकाशाच्या रूपात निरोप दिला गेला. कथेत पाहणाऱ्यांना, आणि आज ती ऐकणाऱ्यांना, एका दयाळू कृतीची पोहोच किती दूरवर जाऊ शकते हे जाणवायला हवे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Guru's Word",
+    "hi": {
+     "text": "गुरु का वचन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंचे वचन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru closed the lesson with one sentence. No mantra bears fruit without the blessing of a guru, he said. The ash, the words and the practice are all only means, and the one who gives them life is the teacher.\n\nTrivikram bowed, and the hall grew quiet. The man who had crossed seven lines stood beside him. The Siddha tells Namdharak that this is why he sits at the Guru's feet, and not merely beside his books. Namdharak, who had come to the Siddha seeking help, was learning this as he listened: that books and mantras are as seed, and a teacher is the rain. The Guru's words to Trivikram were gentle, and the sanyasi sat quietly, taking them in. The hall was still, and the ash on the man's forehead glinted in the lamplight.",
+    "hi": {
+     "text": "गुरु ने पाठ एक वाक्य से समाप्त किया। गुरु के आशीर्वाद के बिना कोई मंत्र फल नहीं देता, उन्होंने कहा। भस्म, शब्द और साधना सब केवल साधन हैं, और उन्हें प्राण देने वाला गुरु है।\n\nत्रिविक्रम ने प्रणाम किया, और सभा शांत हो गई। जिस व्यक्ति ने सात रेखाएँ पार की थीं, वह उनके पास खड़ा था। सिद्ध नामधारक को बताते हैं कि इसी कारण वे गुरु के चरणों में बैठते हैं, केवल अपनी पुस्तकों के पास नहीं। नामधारक, जो सिद्ध से सहायता पाने आए थे, सुनते हुए यह सीख रहे थे: पुस्तकें और मंत्र बीज के समान हैं, और गुरु वर्षा हैं। त्रिविक्रम के प्रति गुरु के शब्द कोमल थे, और संन्यासी शांति से बैठकर उन्हें ग्रहण करते रहे। सभा स्थिर थी, और उस व्यक्ति के माथे की भस्म दीपक की रोशनी में चमक रही थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी धड्याचा शेवट एका वाक्याने केला. गुरूंच्या आशीर्वादाशिवाय कोणताही मंत्र फळ देत नाही, ते म्हणाले. भस्म, शब्द आणि साधना हे सर्व केवळ साधन आहेत, आणि त्यात प्राण फुंकणारा गुरू आहे.\n\nत्रिविक्रमांनी नमस्कार केला, आणि सभा शांत झाली. ज्या माणसाने सात रेषा ओलांडल्या होत्या तो त्यांच्या शेजारी उभा होता. सिद्ध नामधारकांना सांगतात की म्हणूनच ते गुरूंच्या चरणांशी बसतात, केवळ आपल्या पुस्तकांजवळ नव्हे. सिद्धांकडून मदत मागायला आलेले नामधारक ऐकताना हे शिकत होते: पुस्तके आणि मंत्र बियाण्यासारखे आहेत, आणि गुरू पाऊस आहेत. त्रिविक्रमांना गुरूंचे शब्द सौम्य होते, आणि संन्यासी शांतपणे बसून ते ग्रहण करत राहिले. सभा स्थिर होती, आणि त्या माणसाच्या कपाळावरची भस्म दिव्याच्या प्रकाशात चमकत होती.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Which of your teachers gave you something you could not have found alone? Send them a thank-you note.",
+  "hi": {
+   "text": "आपके कौन-से शिक्षक ने आपको कुछ ऐसा दिया जो आप अकेले कभी नहीं पा सकते थे? उन्हें एक धन्यवाद-पत्र भेजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या कोणत्या शिक्षकाने तुम्हाला असे काही दिले जे तुम्ही एकट्याने कधीच शोधू शकला नसता? त्यांना एक धन्यवाद-पत्र पाठवा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A tool in untrained hands does little, and the blessing of a teacher is what turns practice into transformation.",
+  "hi": {
+   "text": "अप्रशिक्षित हाथों में औजार थोड़ा ही करता है, और गुरु का आशीर्वाद ही अभ्यास को रूपांतरण में बदलता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "प्रशिक्षण न घेतलेल्या हातात साधन थोडेच करते, आणि शिक्षकाचा आशीर्वादच सरावाला परिवर्तनात बदलतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 29; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 29; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 29; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

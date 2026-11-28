@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "leper-and-the-dry-log",
+ "order": 40,
+ "part": "bhakti",
+ "figure": {
+  "en": "Narasimha Saraswati and the brahmin Narahari",
+  "hi": {
+   "text": "नृसिंह सरस्वती और ब्राह्मण नरहरि",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि ब्राह्मण नरहरी",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Log That Turned Green",
+  "hi": {
+   "text": "सूखा लट्ठा जो हरा हुआ",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हिरवा झालेला सुका ओंडका",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A young student excluded from rituals because of his illness is told to water a dry log, and he does it for as long as it takes.",
+  "hi": {
+   "text": "रोग के कारण अनुष्ठानों से दूर रखा गया एक युवा छात्र सूखी लकड़ी को सींचने का आदेश पाता है, और जब तक आवश्यक हो, वह यह करता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आजारामुळे विधींपासून दूर ठेवलेल्या एका तरुण विद्यार्थ्याला सुकी लाकडी ओंडका सिंचण्यास सांगितले जाते, आणि तो जितका वेळ लागेल तितका वेळ ते करतो.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-audumbar.webp",
+   "w": 1200,
+   "h": 675,
+   "caption": {
+    "en": "The audumbar (Ficus racemosa) tree",
+    "hi": {
+     "text": "औदुंबर (गूलर) का वृक्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "औदुंबर (उंबर) वृक्ष",
+     "reviewed": false
+    }
+   },
+   "credit": "Rajasekhar1961, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ficus_racemosa_in_Pithapuram_2026_May_01.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A Student Set Apart",
+    "hi": {
+     "text": "एक छात्र जो अलग रखा गया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "बाजूला ठेवलेला विद्यार्थी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At Gangapur lived a young brahmin named Narahari, a student of the Yajur Veda, who had leprosy. In the world of that time people were afraid of the disease and kept those who had it away from rituals and gatherings. Narahari had been excluded from the very learning he had given his life to.\n\nThe Gurucharitra tells his story with the language of its age, and we read it with care. Illness here is not a punishment, and no one in the story is blamed for it. The young man comes to the Guru as one more person in need of a kind word. The exclusion hurt in a particular way, for he had given his life to the very learning from which he was kept away. The Siddha speaks of him with tenderness.",
+    "hi": {
+     "text": "गाणगापुर में नरहरि नाम का एक युवा ब्राह्मण रहता था, यजुर्वेद का छात्र, जिसे कुष्ठ रोग था। उस समय के संसार में लोग इस रोग से भयभीत रहते थे, और इससे पीड़ित व्यक्तियों को अनुष्ठानों और सभाओं से दूर रखते थे। नरहरि को उसी विद्या से बाहर कर दिया गया था, जिसके लिए उन्होंने अपना जीवन समर्पित किया था।\n\nश्री गुरुचरित्र उनकी कथा अपने युग की भाषा में कहता है, और हम उसे सावधानी से पढ़ते हैं। यहाँ रोग दंड नहीं है, और कथा में किसी को इसके लिए दोषी नहीं ठहराया गया है। वह युवक गुरु के पास एक और ऐसे व्यक्ति के रूप में आता है जिसे किसी दयालु शब्द की आवश्यकता है। बहिष्कार की पीड़ा एक विशेष प्रकार से चुभी, क्योंकि उन्होंने जिस विद्या को अपना जीवन दिया था, उसी से वे दूर रखे गए थे। सिद्ध उनके विषय में कोमलता से बोलते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाणगापूरमध्ये नरहरी नावाचा एक तरुण ब्राह्मण राहत होता, यजुर्वेदाचा विद्यार्थी, ज्याला कुष्ठरोग होता. त्या काळच्या जगात लोक या रोगाला घाबरत आणि ज्यांना तो झाला असे त्यांना विधी आणि सभांपासून दूर ठेवत. नरहरींना ज्या विद्येसाठी त्यांनी आयुष्य वाहिले होते, तिच्यातूनच वगळण्यात आले होते.\n\nश्री गुरुचरित्र त्यांची कथा आपल्या काळाच्या भाषेत सांगते, आणि आपण ती काळजीने वाचतो. इथे आजार शिक्षा नाही, आणि कथेत कोणालाही त्यासाठी दोष दिलेला नाही. तो तरुण गुरूंकडे दयाळू शब्दाची गरज असलेला आणखी एक माणूस म्हणून येतो. बहिष्काराची वेदना एका विशिष्ट प्रकारे बोचली, कारण ज्या विद्येसाठी त्यांनी आयुष्य दिले, तिच्यापासूनच त्यांना दूर ठेवले होते. सिद्ध त्यांच्याविषयी प्रेमाने बोलतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Dry Log and an Order",
+    "hi": {
+     "text": "सूखा लट्ठा और एक आदेश",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सुका ओंडका आणि एक आदेश",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru gave him a task that seemed odd. He handed him a dry log of audumbar wood and told him to plant it on the bank of the Bhima, to worship the ashvattha tree, and to water the log three times a day after bathing.\n\nNarahari did exactly as he was told. He did not ask why, and he did not look for another cure. Each day he walked down to the river, washed, and then poured water over a stick that everyone could see would never grow. The dry log stood in the earth, and yet he came back for the second pour, and then the third. The Guru had told him to plant the dry audumbar log on the bank of the Bhima, to worship the ashvattha tree, and to water the log three times a day after bathing. It was a plain instruction with no promise attached to it, and Narahari accepted it as it was given.",
+    "hi": {
+     "text": "गुरु ने उसे एक विचित्र लगने वाला कार्य सौंपा। उन्होंने उसे औदुंबर की लकड़ी का एक सूखा लट्ठा दिया और कहा कि उसे भीमा के तट पर गाड़ दे, अश्वत्थ वृक्ष की पूजा करे, और स्नान के बाद दिन में तीन बार उस लट्ठे को सींचे।\n\nनरहरि ने ठीक वैसा ही किया। उसने पूछा नहीं कि ऐसा क्यों, और कोई दूसरा उपचार नहीं खोजा। हर दिन वह नदी तक जाता, स्नान करता, और फिर एक ऐसी लकड़ी पर जल डालता जिसके विषय में हर कोई देख सकता था कि वह कभी नहीं उगेगी। सूखा लट्ठा धरती में खड़ा था, फिर भी वह दूसरी बार और फिर तीसरी बार जल डालने लौट आता। गुरु ने उसे औदुंबर का सूखा लट्ठा भीमा के तट पर लगाने, अश्वत्थ की पूजा करने, और स्नान के बाद दिन में तीन बार लट्ठे को सींचने को कहा था। यह एक सादा आदेश था जिसके साथ कोई वचन नहीं जुड़ा था, और नरहरि ने इसे जैसा दिया गया था वैसा ही स्वीकार कर लिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी त्याला एक विचित्र वाटणारे काम दिले. त्यांनी त्याला औदुंबराच्या लाकडाचा एक सुका ओंडका दिला आणि सांगितले की तो भीमेच्या काठी लावावा, अश्वत्थ वृक्षाची पूजा करावी, आणि स्नानानंतर दिवसातून तीन वेळा त्या ओंडक्याला पाणी घालावे.\n\nनरहरींनी अगदी सांगितल्याप्रमाणे केले. त्यांनी कारण विचारले नाही, आणि दुसरा उपाय शोधला नाही. रोज ते नदीकडे जात, स्नान करत, आणि मग एका काठीवर पाणी ओतत, जी कधीच उगवणार नाही हे सगळ्यांना दिसत होते. सुका ओंडका जमिनीत उभा होता, आणि तरीही ते दुसऱ्यांदा आणि मग तिसऱ्यांदा पाणी घालायला परत येत. गुरूंनी त्यांना औदुंबराचा सुका ओंडका भीमेच्या काठी लावायला, अश्वत्थाची पूजा करायला, आणि स्नानानंतर दिवसातून तीन वेळा ओंडक्याला पाणी घालायला सांगितले होते. ही एक साधी आज्ञा होती, ज्याला कोणतेही वचन जोडलेले नव्हते, आणि नरहरींनी ती दिल्याप्रमाणेच स्वीकारली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Mockery and Seven Days",
+    "hi": {
+     "text": "उपहास और सात दिन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "उपहास आणि सात दिवस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "People laughed at him. Passers-by shook their heads at the young man pouring water over a stump, and some of them said it aloud. Narahari kept to his task. He fasted for seven days, and each day he went back to the river.\n\nThe Siddha says nothing of what Narahari felt in those days, but we can guess. It takes a particular kind of faith to keep watering a dead piece of wood while others watch. He did it because the Guru had said so, and because he had nothing else to rely on. It was a trial of patience, and the young man bore it quietly, with the log in the earth and the river nearby. People mocked him, and he fasted for seven days. The story gives us only the outline, and we are free to imagine what faith it takes to keep going while others laugh.",
+    "hi": {
+     "text": "लोग उस पर हँसे। राह चलते लोग एक ठूँठ पर जल डालते युवक को देखकर सिर हिलाते, और उनमें से कुछ ऐसा कहते भी। नरहरि अपने कार्य में लगा रहा। उसने सात दिन उपवास किया, और हर दिन वह नदी पर लौटता।\n\nसिद्ध उन दिनों में नरहरि के मन की बात नहीं कहते, पर हम अनुमान लगा सकते हैं। जब दूसरे देख रहे हों, तब एक निर्जीव लकड़ी को सींचते रहने के लिए एक विशेष प्रकार की श्रद्धा चाहिए। उसने ऐसा इसलिए किया क्योंकि गुरु ने कहा था, और क्योंकि उसके पास सहारे के लिए कुछ और नहीं था। यह धैर्य की परीक्षा थी, और वह युवक उसे शांति से सहता रहा, लट्ठा धरती में था और नदी पास में। लोग उसका उपहास करते रहे, और वह सात दिन उपवास करता रहा। कथा हमें केवल रूपरेखा देती है, और हम कल्पना कर सकते हैं कि दूसरों के हँसते हुए आगे बढ़ते रहने के लिए कैसी श्रद्धा चाहिए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "लोक त्यांची थट्टा करत. वाटेने जाणारे लोक एका बुंध्यावर पाणी ओतणाऱ्या तरुणाकडे पाहून मान हलवत, आणि त्यांच्यापैकी काही ते मोठ्याने बोलतही. नरहरी आपल्या कामात टिकून राहिले. त्यांनी सात दिवस उपवास केला, आणि रोज ते नदीवर परत जात.\n\nत्या दिवसांत नरहरींच्या मनात काय होते हे सिद्ध सांगत नाहीत, पण आपण अंदाज करू शकतो. इतरांनी पाहत असताना एका निर्जीव लाकडाला सिंचन करत राहण्यासाठी एक विशेष प्रकारची श्रद्धा लागते. त्यांनी ते केले कारण गुरूंनी सांगितले होते, आणि कारण त्यांच्याकडे आधार घेण्यासारखे दुसरे काहीच नव्हते. ती धीराची कसोटी होती, आणि तो तरुण ती शांतपणे सहन करत राहिला, ओंडका जमिनीत होता आणि नदी जवळ होती. लोक त्याची थट्टा करत राहिले, आणि तो सात दिवस उपवास करत राहिला. कथा आपल्याला केवळ रूपरेषा देते, आणि इतरांनी हसत असताना पुढे जाण्यासाठी कोणती श्रद्धा लागते याची कल्पना आपण करू शकतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Hunter's Wife",
+    "hi": {
+     "text": "शिकारी की पत्नी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिकारीची पत्नी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "During those days the Guru told a story from the Skanda Purana. A man named Dhananjaya met a hunter and his devoted wife, a couple who lived simply and loved Shiva. Their faith was so steady that Shiva himself blessed them, though they were not learned and knew none of the proper forms.\n\nThe Guru told it to the people who had gathered, perhaps for Narahari's sake, perhaps for theirs. It was a story about the worth of plain, unbroken devotion, in a world that so often measured worth by learning and rank. He let it fall into the hall like a seed, and the listeners picked it up as they would. A hunter and his wife had no learning at all, but their devotion had reached the same god that the learned seek.",
+    "hi": {
+     "text": "उन्हीं दिनों गुरु ने स्कंद पुराण से एक कथा सुनाई। धनंजय नाम का एक व्यक्ति एक शिकारी और उसकी धर्मपरायण पत्नी से मिला, एक ऐसा दंपति जो सादगी से रहता था और शिव से प्रेम करता था। उनकी श्रद्धा इतनी स्थिर थी कि यद्यपि वे विद्वान नहीं थे और उचित विधियाँ नहीं जानते थे, फिर भी स्वयं शिव ने उन्हें आशीर्वाद दिया।\n\nगुरु ने यह कथा उन लोगों को सुनाई जो एकत्र हुए थे, शायद नरहरि के लिए, शायद अपने लिए। यह सादी, अखंड भक्ति के मूल्य की कथा थी, ऐसे संसार में जो मूल्य को विद्या और पद से मापता था। उन्होंने इसे बीज की तरह सभा में गिरने दिया, और श्रोताओं ने उसे अपनी रीति से उठा लिया। एक शिकारी और उसकी पत्नी के पास कोई विद्या नहीं थी, पर उनकी भक्ति उसी देव तक पहुँची जिसे विद्वान खोजते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या दिवसांत गुरूंनी स्कंदपुराणातील एक कथा सांगितली. धनंजय नावाचा एक माणूस एका शिकाऱ्याला आणि त्याच्या निष्ठावान पत्नीला भेटला, असे दांपत्य जे साधेपणाने राहत आणि शिवावर प्रेम करत. त्यांची श्रद्धा इतकी स्थिर होती की ते विद्वान नसले आणि योग्य विधी जाणत नसले, तरी स्वतः शिवाने त्यांना आशीर्वाद दिला.\n\nगुरूंनी ही कथा जमलेल्या लोकांना सांगितली, कदाचित नरहरींसाठी, कदाचित स्वतःसाठी. ती साध्या, अखंड भक्तीच्या मोलाची कथा होती, अशा जगात जे मोल विद्या आणि पदावरून मोजत होते. त्यांनी ती बीजासारखी सभेत पडू दिली, आणि श्रोत्यांनी ती आपापल्या परीने उचलली. शिकारी आणि त्याच्या पत्नीकडे कोणतीही विद्या नव्हती, पण त्यांची भक्ती त्याच देवापर्यंत पोहोचली जिला विद्वान शोधतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Green Leaves",
+    "hi": {
+     "text": "हरे पत्ते",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हिरवी पाने",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At last the Guru sprinkled holy water on the log. It sprouted green. Narahari was cured.. The Guru named him Yogeshwara, gave him the Vidya Saraswati mantra, and invited his family to live at the math.\n\nNarahari composed eight verses of praise, and they are still sung at Ganagapur after the evening aarti. The Siddha ends by saying only that the young man, who had been kept from rituals, became part of the Guru's household. The revival of the log and the healing of the man are told as acts of grace. His family was invited to live at the math itself. The student who had been kept outside the door was now inside, with a home and a name. The Guru sprinkled holy water on the log, which sprouted green, and Narahari was cured. The Guru named him Yogeshwara and gave him the Vidya Saraswati mantra, and this is how the Gurucharitra tells that grace reached a young man whom his world had pushed to the edge.",
+    "hi": {
+     "text": "अंत में गुरु ने लट्ठे पर पवित्र जल छिड़का। वह हरा होकर अंकुरित हो उठा। नरहरि स्वस्थ हो गए। गुरु ने उन्हें योगेश्वर नाम दिया, विद्या सरस्वती मंत्र दिया, और उनके परिवार को मठ में रहने के लिए आमंत्रित किया।\n\nनरहरि ने स्तुति के आठ श्लोक रचे, जो आज भी संध्या-आरती के बाद गाणगापुर में गाए जाते हैं। सिद्ध यह कहकर समाप्त करते हैं कि वह युवक, जिसे अनुष्ठानों से दूर रखा गया था, गुरु के परिवार का अंग बन गया। लट्ठे का पुनर्जीवन और उस व्यक्ति का उपचार कृपा के कार्यों के रूप में कहे गए हैं। उसके परिवार को मठ में ही रहने का निमंत्रण मिला। जो छात्र द्वार के बाहर रखा गया था, वह अब एक घर और एक नाम के साथ भीतर था। गुरु ने लट्ठे पर पवित्र जल छिड़का, जो हरा होकर अंकुरित हुआ, और नरहरि स्वस्थ हो गए। गुरु ने उन्हें योगेश्वर नाम दिया और विद्या सरस्वती मंत्र दिया, और श्री गुरुचरित्र इस प्रकार बताता है कि कृपा उस युवक तक पहुँची जिसे उसके संसार ने किनारे धकेल दिया था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटी गुरूंनी ओंडक्यावर पवित्र जल शिंपडले. तो हिरवा होऊन अंकुरला. नरहरी बरे झाले. गुरूंनी त्यांना योगेश्वर नाव दिले, विद्या सरस्वती मंत्र दिला, आणि त्यांच्या कुटुंबाला मठात राहण्यासाठी आमंत्रित केले.\n\nनरहरींनी स्तुतीचे आठ श्लोक रचले, जे आजही गाणगापूरमध्ये संध्याआरतीनंतर गायले जातात. सिद्ध हे सांगून समाप्त करतात की विधींपासून दूर ठेवलेला तो तरुण गुरूंच्या कुटुंबाचा भाग बनला. ओंडक्याचे पुनरुज्जीवन आणि त्या माणसाचा उपचार कृपेची कृत्ये म्हणून सांगितले आहेत. त्याच्या कुटुंबाला मठातच राहण्याचे आमंत्रण मिळाले. जो विद्यार्थी दारापासून बाहेर ठेवला गेला होता, तो आता घर आणि नावासह आत होता. गुरूंनी ओंडक्यावर पवित्र जल शिंपडले, जो हिरवा होऊन अंकुरला, आणि नरहरी बरे झाले. गुरूंनी त्यांना योगेश्वर नाव दिले आणि विद्या सरस्वती मंत्र दिला, आणि श्री गुरुचरित्र अशा प्रकारे सांगते की कृपा त्या तरुणापर्यंत पोहोचली ज्याला त्याच्या जगाने काठावर ढकलले होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there someone in your community who has been left out because of illness? Reach out to them in a simple way this week.",
+  "hi": {
+   "text": "क्या आपके समुदाय में कोई ऐसा है जिसे रोग के कारण छोड़ दिया गया है? इस सप्ताह किसी सरल रूप में उससे संपर्क कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या समाजात असा कोणी आहे का जो आजारामुळे बाजूला ठेवला गेला आहे? या आठवड्यात त्याच्याशी एका साध्या मार्गाने संपर्क साधा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Steady faith, even when it looks foolish, is met by grace, and no illness puts a person outside the Guru's care.",
+  "hi": {
+   "text": "स्थिर श्रद्धा, भले ही वह मूर्खतापूर्ण लगे, कृपा से मिलती है, और कोई रोग व्यक्ति को गुरु की देखभाल से बाहर नहीं करता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "स्थिर श्रद्धा, ती मूर्खपणाची वाटली तरी, कृपेने भेटली जाते, आणि कोणताही आजार माणसाला गुरूंच्या काळजीच्या बाहेर टाकत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 40; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 40; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 40; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

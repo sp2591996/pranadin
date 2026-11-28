@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "service-to-the-guru",
+ "order": 16,
+ "part": "jnana",
+ "figure": {
+  "en": "The Guru, a repentant brahmin and the sage Dhaumya",
+  "hi": {
+   "text": "गुरु, एक पश्चात्तापी ब्राह्मण और ऋषि धौम्य",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरू, एक पश्चात्तापी ब्राह्मण आणि ऋषी धौम्य",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Aruni, Veda and Upamanyu",
+  "hi": {
+   "text": "अरुणि, वेद और उपमन्यु",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अरुणी, वेद आणि उपमन्यू",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Namdharak asks who stayed with the Guru, and the Guru teaches what service to a teacher really means.",
+  "hi": {
+   "text": "नामधारक पूछते हैं कि गुरु के पास कौन रुका रहा, और गुरु सिखाते हैं कि गुरु की सेवा का सच्चा अर्थ क्या है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नामधारक विचारतात की गुरूंजवळ कोण राहिले, आणि गुरू शिकवतात की गुरूंची सेवा म्हणजे खरे काय.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-datta-paduka.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Datta paduka shrine, the Guru's footprints",
+    "hi": {
+     "text": "दत्त पादुका मंदिर, गुरु के चरण-चिह्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दत्त पादुका मंदिर, गुरूंच्या पावलांचे ठसे",
+     "reviewed": false
+    }
+   },
+   "credit": "Rajasekhar1961, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Datta_Paduka_Mandir_01.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Who Stayed Behind?",
+    "hi": {
+     "text": "पीछे कौन रुका?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मागे कोण थांबले?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Namdharak asked an innocent question: with all the disciples away on pilgrimage, who had stayed with the Guru? The question woke the Siddha as if from a trance. He confessed that he himself had stayed, and that he had been so absorbed in the memory that he had almost forgotten Namdharak was waiting.\n\nHe had been with the Guru at Arogya Bhavani, near Vaijnath. It is a moving note of humility. The narrator of the whole book, a great yogi, admits to being carried away, like any listener, by love for the Guru. The story is not delivered from a distance; it is a memory still warm in the hands of the one who tells it. The Siddha’s eyes, Namdharak noticed, were wet, though his voice was steady. He had stayed near the Guru in those hidden days.",
+    "hi": {
+     "text": "नामधारक ने एक भोला प्रश्न पूछा: सारे शिष्य तीर्थयात्रा पर चले गए, तो गुरु के पास कौन रुका रहा? प्रश्न ने सिद्ध को मानो समाधि से जगा दिया। उन्होंने स्वीकार किया कि वे स्वयं रुके थे, और उस स्मृति में इतने लीन हो गए थे कि लगभग भूल ही गए कि नामधारक प्रतीक्षा कर रहे हैं।\n\nवे वैजनाथ के समीप आरोग्य भवानी में गुरु के साथ थे। यह विनम्रता का एक मार्मिक संकेत है। पूरे ग्रंथ का कथावाचक, एक महान योगी, स्वीकार करते हैं कि वे भी किसी भी श्रोता की तरह गुरु के प्रेम में बह गए। कथा किसी दूर से नहीं सुनाई जा रही; वह उस व्यक्ति के हाथों में अब भी गरम स्मृति है जो उसे कह रहा है। नामधारक ने देखा कि सिद्ध की आँखें नम थीं, यद्यपि उनकी आवाज़ स्थिर थी। उन छिपे हुए दिनों में वे गुरु के समीप रहे थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नामधारकांनी एक निरागस प्रश्न विचारला: सर्व शिष्य तीर्थयात्रेला गेले असताना गुरूंजवळ कोण थांबले होते? प्रश्नाने सिद्धांना जणू समाधीतून जागे केले. त्यांनी कबूल केले की ते स्वतः थांबले होते, आणि त्या आठवणीत ते इतके गुंतले होते की नामधारक वाट पाहत आहेत हेही जवळजवळ विसरले होते.\n\nते वैजनाथजवळ आरोग्य भवानी येथे गुरूंसोबत होते. ही नम्रतेची हृदयस्पर्शी नोंद आहे. संपूर्ण ग्रंथाचा निवेदक, एक महान योगी, कबूल करतात की ते कोणत्याही श्रोत्याप्रमाणे गुरूंच्या प्रेमात वाहून गेले. कथा दुरून सांगितली जात नाही; ती सांगणाऱ्याच्या हातात अजून उबदार असलेली आठवण आहे. नामधारकांच्या लक्षात आले की सिद्धांचे डोळे ओले होते, जरी त्यांचा आवाज स्थिर होता. त्या लपलेल्या दिवसांत ते गुरूंच्या जवळ राहिले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Brahmin Who Left His Guru",
+    "hi": {
+     "text": "गुरु को छोड़ने वाला ब्राह्मण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंना सोडलेला ब्राह्मण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One day a brahmin came to the Guru at Vaijnath, seeking knowledge. He had left a harsh teacher, and he spoke ill of him. The Guru rebuked him sharply. He said that service and respect to one’s guru bring the Vedas, the scriptures and even the eight siddhis, and that to run down a teacher closes the very door one wants to walk through.\n\nThe Gurucharitra does not claim that every teacher is perfect. The Guru was not defending harsh behaviour so much as showing the brahmin that his own bitterness was the obstacle. A cup held out with contempt cannot be filled. The brahmin stood silent, for the words struck him as true, and he listened as the Guru went on. The Guru said that the eight siddhis are the supernatural powers that a perfect student may gain, and that the Vedas come with them.",
+    "hi": {
+     "text": "एक दिन एक ब्राह्मण ज्ञान की खोज में वैजनाथ में गुरु के पास आया। वह एक कठोर गुरु को छोड़कर आया था, और उनकी निंदा करने लगा। गुरु ने उसे कठोरता से डाँटा। उन्होंने कहा कि गुरु की सेवा और उनके प्रति सम्मान से वेद, शास्त्र और यहाँ तक कि अष्ट सिद्धियाँ भी प्राप्त होती हैं, और गुरु की निंदा करना उसी द्वार को बंद कर देता है जिससे कोई प्रवेश करना चाहता है।\n\nश्री गुरुचरित्र यह दावा नहीं करता कि हर गुरु पूर्ण होते हैं। गुरु कठोर व्यवहार का बचाव नहीं कर रहे थे, बल्कि ब्राह्मण को यह दिखा रहे थे कि उसकी अपनी कड़वाहट ही बाधा है। तिरस्कार से फैलाया गया पात्र नहीं भरता। ब्राह्मण चुप खड़ा रहा, क्योंकि ये शब्द उसे सच लगे, और वह सुनता रहा जब गुरु बोलते रहे। गुरु ने कहा कि अष्ट सिद्धियाँ वे अलौकिक शक्तियाँ हैं जो एक पूर्ण शिष्य पा सकता है, और वेद उन्हीं के साथ आते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एके दिवशी एक ब्राह्मण ज्ञानाच्या शोधात वैजनाथला गुरूंकडे आला. तो एका कठोर गुरूंना सोडून आला होता, आणि त्यांची निंदा करत होता. गुरूंनी त्याला कडक शब्दात फटकारले. ते म्हणाले की गुरूंची सेवा आणि त्यांच्याविषयीचा आदर केल्याने वेद, शास्त्रे आणि अष्टसिद्धीसुद्धा प्राप्त होतात, आणि गुरूंची निंदा करणे म्हणजे ज्या दारातून आत जायचे आहे तेच बंद करणे होय.\n\nश्री गुरुचरित्र असा दावा करत नाही की प्रत्येक गुरू परिपूर्ण असतो. गुरू कठोर वर्तनाचे समर्थन करत नव्हते, तर ब्राह्मणाला हे दाखवत होते की त्याचा स्वतःचा कडवटपणाच अडथळा आहे. तिरस्काराने धरलेले पात्र भरत नाही. ब्राह्मण गप्प उभा राहिला, कारण ते शब्द त्याला खरे वाटले, आणि गुरू बोलत राहिले तेव्हा तो ऐकत राहिला. अष्टसिद्धी म्हणजे पूर्ण शिष्याला मिळू शकणारी अलौकिक शक्ती, आणि वेद त्यांच्याबरोबर येतात, असे गुरूंनी सांगितले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Who Is the Guru?",
+    "hi": {
+     "text": "गुरु कौन है?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू कोण आहे?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The brahmin asked a humble question: who, then, is the guru? The Guru answered that a mother, a father, and the three great gods, Brahma, Vishnu and Maheshwara, are all gurus. The word is not limited to one robed teacher, but to everyone who gives life, protection and knowledge.\n\nTo bring this alive, he told the story of the sage Dhaumya and his disciples. Dhaumya taught the Vedas, and among his students were Aruni, Baid, also called Veda, and Upamanyu. Before teaching them, the text says, Dhaumya tested them, one by one. The Guru left the tests for the next scene, since they would show better than any definition what a disciple’s heart can do. Dhaumya’s three students stand in the Gurucharitra as the picture of what a disciple can be.",
+    "hi": {
+     "text": "ब्राह्मण ने विनम्र प्रश्न किया: तो फिर गुरु कौन है? गुरु ने उत्तर दिया कि माता, पिता, और तीनों महादेव, ब्रह्मा, विष्णु और महेश्वर, सभी गुरु हैं। यह शब्द किसी एक वस्त्रधारी शिक्षक तक सीमित नहीं, बल्कि हर उस व्यक्ति के लिए है जो जीवन, रक्षा और ज्ञान देता है।\n\nइसे जीवंत करने के लिए उन्होंने ऋषि धौम्य और उनके शिष्यों की कथा सुनाई। धौम्य वेद पढ़ाते थे, और उनके शिष्यों में अरुणि, बैद, जिन्हें वेद भी कहा जाता था, और उपमन्यु थे। ग्रंथ कहता है कि पढ़ाने से पहले धौम्य ने एक-एक करके उनकी परीक्षा ली। गुरु ने परीक्षाओं का वर्णन अगले दृश्य के लिए छोड़ा, क्योंकि वे किसी भी परिभाषा से बेहतर दिखाएँगी कि शिष्य का हृदय क्या कर सकता है। धौम्य के ये तीन शिष्य श्री गुरुचरित्र में उस आदर्श शिष्य के चित्र के रूप में खड़े हैं जो शिष्य हो सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ब्राह्मणाने नम्रपणे विचारले: तर गुरू कोण? गुरूंनी सांगितले की आई, वडील, आणि ब्रह्मा, विष्णू व महेश्वर हे तिन्ही महादेव सर्व गुरू आहेत. हा शब्द एका वस्त्रधारी शिक्षकापुरता मर्यादित नसून, जीवन, संरक्षण आणि ज्ञान देणाऱ्या प्रत्येकासाठी आहे.\n\nते जिवंत करण्यासाठी त्यांनी ऋषी धौम्य आणि त्यांच्या शिष्यांची कथा सांगितली. धौम्य वेद शिकवत, आणि त्यांच्या शिष्यांमध्ये अरुणी, बैद, ज्यांना वेद असेही म्हटले जाई, आणि उपमन्यू होते. ग्रंथ सांगतो की शिकवण्याआधी धौम्यांनी त्यांची एक-एक करून परीक्षा घेतली. गुरूंनी परीक्षा पुढच्या प्रसंगासाठी ठेवल्या, कारण त्या कोणत्याही व्याख्येपेक्षा शिष्याचे हृदय काय करू शकते हे अधिक चांगले दाखवतील. धौम्यांचे हे तीन शिष्य श्री गुरुचरित्रात शिष्य कसा असू शकतो याचे चित्र म्हणून उभे आहेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Three Tests",
+    "hi": {
+     "text": "तीन परीक्षाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तीन परीक्षा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Dhaumya tested each disciple in turn. The Gurucharitra tells that Dhaumya tested Aruni, Upamanyu and Baid with hard and humbling service before he taught them. We keep to that outline here, since the book’s main point is the disciples’ trust and not the details of each trial.\n\nIn each case the teacher’s test was severe, and we read it as an old story of devotion, not as advice to anyone to endure harm. What matters is the disciples’ trust, and the teacher’s deep love behind the hardness. Through that trust, the tradition says, the Vedas came to them. Baid, or Veda, was tested too, and he too passed, and the three together show how learning follows service and not the other way round. The Guru told the story to the repentant brahmin as an answer to his question, and the point reached him: the teacher he had left was owed the same respect Dhaumya’s disciples gave theirs, whatever the hardness of the road.",
+    "hi": {
+     "text": "धौम्य ने हर शिष्य की बारी-बारी से परीक्षा ली। श्री गुरुचरित्र बताता है कि शिक्षा देने से पहले धौम्य ने अरुणि, उपमन्यु और बैद की कठिन और विनम्र कर देने वाली सेवा के द्वारा परीक्षा ली। यहाँ हम उसी रूपरेखा का पालन करते हैं, क्योंकि ग्रंथ का मुख्य बिंदु शिष्यों का विश्वास है, न कि हर परीक्षा का ब्योरा।\n\nहर मामले में गुरु की परीक्षा कठोर थी, और हम इसे भक्ति की एक प्राचीन कथा के रूप में पढ़ते हैं, किसी को भी हानि सहने की सलाह के रूप में नहीं। महत्व शिष्यों के विश्वास का है, और उस कठोरता के पीछे गुरु के गहरे प्रेम का। उसी विश्वास के द्वारा, परंपरा कहती है, उन्हें वेद प्राप्त हुए। बैद, या वेद, की भी परीक्षा हुई, और वे भी उत्तीर्ण हुए, और तीनों मिलकर दिखाते हैं कि विद्या सेवा के पीछे आती है, न कि उसके उलट। गुरु ने यह कथा पश्चात्तापी ब्राह्मण को उसके प्रश्न का उत्तर देने के लिए सुनाई, और बात उस तक पहुँच गई: जिस गुरु को उसने छोड़ा था, उसे वही सम्मान मिलना चाहिए था जो धौम्य के शिष्य अपने गुरु को देते थे, मार्ग चाहे जितना कठोर हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धौम्यांनी प्रत्येक शिष्याची पाळीपाळीने परीक्षा घेतली. श्री गुरुचरित्र सांगते की शिकवण्यापूर्वी धौम्यांनी अरुणी, उपमन्यू आणि बैद यांची कठीण व नम्र करणाऱ्या सेवेद्वारे परीक्षा घेतली. इथे आपण त्याच रूपरेषेचे पालन करतो, कारण ग्रंथाचा मुख्य मुद्दा शिष्यांचा विश्वास आहे, प्रत्येक परीक्षेचे तपशील नव्हे.\n\nप्रत्येक प्रसंगात गुरूंची परीक्षा कठोर होती, आणि आपण ती भक्तीची एक प्राचीन कथा म्हणून वाचतो, कोणालाही हानी सहन करण्याचा सल्ला म्हणून नव्हे. महत्त्वाचा मुद्दा शिष्यांचा विश्वास आणि त्या कठोरतेमागील गुरूंचे खोल प्रेम आहे. त्या विश्वासातून, परंपरा सांगते, त्यांना वेद प्राप्त झाले. बैद किंवा वेद यांचीही परीक्षा झाली, आणि तेही उत्तीर्ण झाले, आणि तिघे मिळून दाखवतात की विद्या सेवेच्या मागे येते, उलट नव्हे. गुरूंनी ही कथा पश्चात्तापी ब्राह्मणाला त्याच्या प्रश्नाचे उत्तर म्हणून सांगितली, आणि मुद्दा त्याच्यापर्यंत पोहोचला: ज्या गुरूंना त्याने सोडले होते, त्यांना धौम्यांच्या शिष्यांनी आपल्या गुरूंना दिलेला तोच आदर मिळायला हवा होता, मार्ग कितीही कठीण असला तरी.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Repentant Brahmin",
+    "hi": {
+     "text": "पश्चात्तापी ब्राह्मण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पश्चात्तापी ब्राह्मण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hearing all this, the brahmin was ashamed. He bowed to the Guru and asked forgiveness. The Guru touched him, and by that touch, the Gurucharitra says, he gained knowledge. The harshness of the earlier rebuke gave way to a simple blessing.\n\nThen the Guru left Vaijnath for Bhuvaneshwari near Bhilavadi, and stayed beneath an audumbar tree on the banks of the Krishna. There the next stories of the book are set. The Siddha, finishing, looked at Namdharak with kindness. Those who serve the teacher with an open heart, he said, need not fear that their effort is wasted, for knowledge comes in its own time. Bhuvaneshwari’s temple stands at Bhilavadi, and the audumbar tree by the Krishna became the Guru’s home. The Siddha followed him there, and so Namdharak would soon hear of the boy of Kavir.",
+    "hi": {
+     "text": "यह सब सुनकर ब्राह्मण लज्जित हो गया। उसने गुरु को प्रणाम किया और क्षमा माँगी। गुरु ने उसे स्पर्श किया, और श्री गुरुचरित्र कहता है कि उस स्पर्श से उसे ज्ञान प्राप्त हुआ। पहले की फटकार की कठोरता एक सरल आशीर्वाद में बदल गई।\n\nफिर गुरु वैजनाथ से भिलवडी के समीप भुवनेश्वरी के लिए चले गए, और कृष्णा के तट पर एक औदुंबर वृक्ष के नीचे ठहरे। वहीं ग्रंथ की अगली कथाएँ घटती हैं। सिद्ध ने समाप्त करते हुए नामधारक की ओर स्नेह से देखा। जो खुले हृदय से गुरु की सेवा करते हैं, उन्हें यह डरने की आवश्यकता नहीं कि उनका प्रयास व्यर्थ जाएगा, क्योंकि ज्ञान अपने समय पर आता है। भुवनेश्वरी का मंदिर भिलवडी में है, और कृष्णा के तट का औदुंबर वृक्ष गुरु का निवास बन गया। सिद्ध उनके पीछे वहाँ गए, और इसलिए नामधारक शीघ्र ही कवीर के उस बालक की कथा सुनने वाले थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हे सर्व ऐकून ब्राह्मण लज्जित झाला. त्याने गुरूंना नमस्कार केला आणि क्षमा मागितली. गुरूंनी त्याला स्पर्श केला, आणि त्या स्पर्शाने त्याला ज्ञान मिळाले, असे श्री गुरुचरित्र सांगते. आधीच्या फटकाऱ्याची कठोरता एका साध्या आशीर्वादात विरघळली.\n\nमग गुरू वैजनाथहून भिलवडीजवळील भुवनेश्वरीकडे गेले, आणि कृष्णेच्या काठावर एका औदुंबर वृक्षाखाली थांबले. तिथेच ग्रंथातील पुढच्या कथा घडतात. सिद्धांनी समारोप करताना नामधारकांकडे प्रेमाने पाहिले. जे शिष्य खुल्या मनाने गुरूंची सेवा करतात, त्यांना भीती बाळगण्याचे कारण नाही की त्यांचा प्रयत्न व्यर्थ जाईल, कारण ज्ञान आपल्या वेळेवर येते. भुवनेश्वरीचे मंदिर भिलवडीला आहे, आणि कृष्णेकाठचा औदुंबर गुरूंचे निवासस्थान बनला. सिद्ध त्यांच्या मागोमाग तिथे गेले, आणि म्हणून नामधारक लवकरच कवीरच्या त्या मुलाची कथा ऐकणार होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Whom have you spoken about with bitterness lately, someone who also taught you something? Say one thankful sentence about them today.",
+  "hi": {
+   "text": "हाल में किसके बारे में आपने कड़वाहट से बात की है, जिसने आपको भी कुछ सिखाया था? आज उनके बारे में एक कृतज्ञ वाक्य कहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "अलीकडे कोणाबद्दल तुम्ही कडवटपणे बोललात, ज्यानेही तुम्हाला काही शिकवले होते? आज त्यांच्याबद्दल एक कृतज्ञतेचे वाक्य म्हणा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Our attitude shapes what we can receive, and a teacher honoured in the heart gives more than one criticised.",
+  "hi": {
+   "text": "हमारा दृष्टिकोण तय करता है कि हम क्या ग्रहण कर सकते हैं, और जिस गुरु का हृदय में सम्मान है, वह उस गुरु से अधिक देता है जिसकी आलोचना की जाती है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आपली वृत्ती ठरवते की आपण काय ग्रहण करू शकतो, आणि हृदयात सन्मानित गुरू टीका झालेल्या गुरूपेक्षा अधिक देतो.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 16; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 16; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 16; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

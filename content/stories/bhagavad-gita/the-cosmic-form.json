@@ -31,11 +31,11 @@
  "teaser": {
   "en": "Arjuna is given a glimpse of the whole universe within Krishna, then asks to see his gentle, friendly face again.",
   "hi": {
-   "text": "अर्जुन को श्रीकृष्ण में पूरे ब्रह्मांड की झलक मिलती है, फिर वे उनका वही सौम्य, मित्र जैसा मुख फिर से देखना चाहते हैं।",
+   "text": "अर्जुन को श्रीकृष्ण के भीतर पूरे विश्व का दर्शन मिलता है, फिर वह उनका कोमल, मित्रभाव भरा मुख फिर से देखने की प्रार्थना करता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "अर्जुनाला श्रीकृष्णात संपूर्ण विश्वाचे दर्शन घडते, आणि मग तो त्यांचे सौम्य, मैत्रीपूर्ण रूप पुन्हा पाहण्याची विनंती करतो.",
+   "text": "अर्जुनाला श्रीकृष्णांमध्ये संपूर्ण विश्वाचे दर्शन घडते, मग तो त्यांचे सौम्य, मित्रभावी रूप पुन्हा पाहण्याची विनंती करतो.",
    "reviewed": false
   }
  },
@@ -98,72 +98,145 @@
  "scenes": [
   {
    "title": {
-    "en": "A request to see",
+    "en": "Arjuna’s request",
     "hi": {
-     "text": "दर्शन की प्रार्थना",
+     "text": "अर्जुन की प्रार्थना",
      "reviewed": false
     },
     "mr": {
-     "text": "पाहण्याची विनंती",
+     "text": "अर्जुनाची विनंती",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Arjuna says his confusion has melted away after all that he has heard. But he has one more wish: to see, with his own eyes, the divine form Krishna has been describing. If it is possible, he asks, please show me.\n\nKrishna agrees. He tells Arjuna that his ordinary eyes cannot see this, and so he grants him a divine sight. Suddenly Arjuna beholds a form beyond measure, with countless faces and eyes, wearing wondrous ornaments, and holding many raised weapons. The brilliance of a thousand suns rising at once in the sky, Sanjaya says, might be like the radiance of that great being. He is both eager and a little afraid, as anyone is when asking to see something far bigger than themselves.",
+    "en": "Arjuna begins with gratitude. By the supreme secret teaching about the self that you have spoken out of kindness, he says, my delusion is gone (11.1). He has heard in detail how beings come and go, and of Krishna’s changeless greatness (11.2). Yet one wish remains. If you think I am able to see it, lord of yoga, show me your imperishable self (11.3-4).\n\nKrishna answers at once. Behold my forms, Arjuna, by hundreds and thousands, of many kinds, colours and shapes (11.5). See the Adityas, Vasus, Rudras and Ashvins, and many wonders never seen before (11.6). But Arjuna’s ordinary eyes cannot bear it, so Krishna says, I give you divine sight; behold my sovereign power (11.8). Arjuna’s request is gentle and humble. He does not demand proof; he asks only if it is possible, and leaves the decision to his friend.",
     "hi": {
-     "text": "अर्जुन कहते हैं कि सब कुछ सुनकर उनका मोह मिट गया है। पर एक इच्छा और है: श्रीकृष्ण जिस दिव्य रूप का वर्णन कर रहे हैं, उसे अपनी आँखों से देखना। यदि संभव हो, वे कहते हैं, तो मुझे दिखाइए।\n\nश्रीकृष्ण मान जाते हैं। वे कहते हैं कि अर्जुन की साधारण आँखें इसे नहीं देख सकतीं, इसलिए वे उसे दिव्य दृष्टि देते हैं। अचानक अर्जुन एक अपार रूप देखते हैं, जिसके असंख्य मुख और नेत्र हैं, जो अद्भुत आभूषण पहने है और अनेक शस्त्र उठाए हुए है। संजय कहते हैं कि आकाश में एक साथ हज़ार सूर्य उग आएँ, तो शायद उस महान स्वरूप के तेज जैसा लगे। अर्जुन उत्सुक भी हैं और थोड़े भयभीत भी, जैसे कोई भी तब होता है जब वह अपने से कहीं विराट कुछ देखने की माँग करता है।",
+     "text": "अर्जुन कृतज्ञता से आरंभ करते हैं। आपने करुणावश जो परम गोपनीय आत्म-विषयक उपदेश दिया है, उससे मेरा मोह दूर हो गया है, वे कहते हैं (11.1)। उन्होंने प्राणियों के उत्पन्न होने और लय होने का विस्तार से वर्णन सुना है, और श्रीकृष्ण की अविनाशी महिमा भी (11.2)। फिर भी एक इच्छा शेष है। यदि आप मानते हैं कि मैं उसे देखने योग्य हूँ, हे योगेश्वर, तो अपना अविनाशी स्वरूप मुझे दिखाइए (11.3-4)।\n\nश्रीकृष्ण तुरंत उत्तर देते हैं। हे अर्जुन, मेरे सैकड़ों-हज़ारों, अनेक प्रकार के, अनेक रंगों और आकारों वाले रूप देखो (11.5)। आदित्यों, वसुओं, रुद्रों और अश्विनीकुमारों को देखो, और ऐसे अनेक आश्चर्य देखो जो पहले कभी नहीं देखे गए (11.6)। पर अर्जुन की साधारण आँखें इसे सह नहीं सकतीं, इसलिए श्रीकृष्ण कहते हैं, मैं तुम्हें दिव्य दृष्टि देता हूँ; मेरे ऐश्वरिक योग को देखो (11.8)। अर्जुन का निवेदन कोमल और विनम्र है। वे प्रमाण नहीं माँगते; केवल पूछते हैं कि क्या यह संभव है, और निर्णय अपने मित्र पर छोड़ देते हैं।",
      "reviewed": false
     },
     "mr": {
-     "text": "अर्जुन म्हणतो की इतके ऐकल्यावर माझा मोह विरून गेला आहे. पण आणखी एक इच्छा आहे: श्रीकृष्ण ज्या दिव्य रूपाचे वर्णन करत आहेत ते मला माझ्या डोळ्यांनी पाहायचे आहे. शक्य असेल तर मला ते दाखवा.\n\nश्रीकृष्ण मान्य करतात. ते सांगतात की तुझ्या या सामान्य डोळ्यांनी हे दिसणार नाही, म्हणून मी तुला दिव्य दृष्टी देतो. अचानक अर्जुनाला अपरंपार रूप दिसते: असंख्य मुखे आणि डोळे, अद्भुत अलंकार आणि उगारलेली अनेक शस्त्रे. आकाशात हजार सूर्य एकदम उगवले तर कदाचित त्या महान विभूतीच्या तेजासारखे ते दिसेल, असे संजय सांगतो. अर्जुन उत्सुकही आहे आणि थोडा घाबरलाही आहे, जसा कोणीही आपल्यापेक्षा खूप मोठे काही पाहू इच्छिताना असतो.",
+     "text": "अर्जुन कृतज्ञतेने सुरुवात करतो. आपण दयाळूपणे सांगितलेल्या परम गुह्य आत्मोपदेशाने माझा मोह नाहीसा झाला आहे, तो म्हणतो (11.1)। प्राण्यांची उत्पत्ती आणि लय कशी होते, आणि श्रीकृष्णांचे अविनाशी माहात्म्य, हे त्याने विस्ताराने ऐकले आहे (11.2)। तरीही एक इच्छा उरली आहे. जर मी ते पाहण्यास योग्य आहे असे आपल्याला वाटत असेल, तर हे योगेश्वरा, आपले अविनाशी स्वरूप मला दाखवा (11.3-4)।\n\nश्रीकृष्ण लगेच उत्तर देतात. हे अर्जुना, माझी शेकडो आणि हजारो रूपे पाहा, विविध प्रकारची, विविध रंगांची आणि आकारांची (11.5)। आदित्य, वसू, रुद्र आणि अश्विनीकुमार पाहा, आणि यापूर्वी कधीही न पाहिलेली अनेक आश्चर्ये पाहा (11.6)। पण अर्जुनाचे सामान्य डोळे ते सहन करू शकत नाहीत, म्हणून श्रीकृष्ण म्हणतात, मी तुला दिव्य दृष्टी देतो; माझे ऐश्वर्यमय योगसामर्थ्य पाहा (11.8)। अर्जुनाची विनंती सौम्य आणि नम्र आहे. तो पुरावा मागत नाही; तो फक्त विचारतो की हे शक्य आहे का, आणि निर्णय आपल्या मित्रावर सोडतो.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Awe, and then fear",
+    "en": "A thousand suns",
     "hi": {
-     "text": "विस्मय, फिर भय",
+     "text": "हज़ार सूर्य",
      "reviewed": false
     },
     "mr": {
-     "text": "आश्चर्य, आणि मग भीती",
+     "text": "हजार सूर्य",
      "reviewed": false
     }
    },
    "text": {
-    "en": "In that form Arjuna sees the whole universe in one place, with all its parts. He sees gods, sages and beings of every kind. He also sees time itself, vast and devouring, with armies rushing into its mouths. His hair stands on end, he trembles, and he folds his hands in reverence.\n\nKrishna explains that he is time, the great force that brings all things to their end, and that the warriors are already undone by it. Arjuna is meant to be an instrument, not the cause. But the vision is too much for a human heart. Shaken, Arjuna begs forgiveness for ever treating Krishna so casually, and asks him to return to the form he knows.",
+    "en": "Sanjaya tells the blind king what happened next. Krishna, great lord of yoga, showed Arjuna his supreme, divine form (11.9). It had many mouths and eyes, many wondrous sights, many divine ornaments and raised weapons, wearing divine garlands and robes, anointed with divine fragrances, full of marvels, endless, facing every way (11.10-11).\n\nIf the light of a thousand suns were to blaze forth all at once in the sky, it might resemble the radiance of that great being (11.12). There Arjuna saw the whole universe, with its many divisions, gathered together in the body of the god of gods (11.13). Filled with wonder, with hair standing on end, he bowed his head, folded his hands and began to speak (11.14). Sanjaya himself says that his words can only hint at the sight, which is the way the text prepares us for something beyond ordinary description.",
     "hi": {
-     "text": "उस रूप में अर्जुन पूरा ब्रह्मांड, उसके सब अंगों सहित, एक ही स्थान पर देखते हैं। वे देवता, ऋषि और हर प्रकार के प्राणी देखते हैं। वे काल को भी देखते हैं, विशाल और सब कुछ निगलता हुआ, जिसके मुखों में सेनाएँ दौड़ी जा रही हैं। उनके रोंगटे खड़े हो जाते हैं, वे काँपते हैं और हाथ जोड़कर प्रणाम करते हैं।\n\nश्रीकृष्ण समझाते हैं कि वे ही काल हैं, वह महाशक्ति जो सबका अंत करती है, और ये योद्धा उसके द्वारा पहले ही मारे जा चुके हैं। अर्जुन को केवल निमित्त बनना है, कारण नहीं। पर यह दर्शन मनुष्य के हृदय के लिए बहुत भारी है। हिल गए अर्जुन क्षमा माँगते हैं कि उन्होंने श्रीकृष्ण के साथ इतना सहज व्यवहार किया, और प्रार्थना करते हैं कि वे अपने उसी परिचित रूप में लौट आएँ।",
+     "text": "संजय अंधे राजा को आगे का वृत्तांत सुनाते हैं। महान योगेश्वर श्रीकृष्ण ने अर्जुन को अपना परम दिव्य रूप दिखाया (11.9)। उसके अनेक मुख और नेत्र थे, अनेक अद्भुत दृश्य थे, अनेक दिव्य आभूषण और उठाए हुए शस्त्र थे, दिव्य माला और वस्त्र धारण किए हुए थे, दिव्य सुगंधों से लेपित थे, अद्भुत थे, अनंत थे, और चारों ओर मुख किए हुए थे (11.10-11)।\n\nयदि आकाश में हज़ार सूर्य एक साथ उदित हो जाएँ, तो शायद उस महान स्वरूप के तेज के समान हो सके (11.12)। वहाँ अर्जुन ने अपने अनेक विभागों सहित संपूर्ण विश्व को देवों के देव के शरीर में एकत्र देखा (11.13)। विस्मय से भरे, रोंगटे खड़े हुए, उन्होंने सिर झुकाया, हाथ जोड़े और बोलने लगे (11.14)। संजय स्वयं कहते हैं कि उनके शब्द उस दर्शन का केवल संकेत ही दे सकते हैं, और यही वह ढंग है जिससे यह ग्रंथ हमें साधारण वर्णन से परे किसी चीज़ के लिए तैयार करता है।",
      "reviewed": false
     },
     "mr": {
-     "text": "त्या रूपात अर्जुनाला संपूर्ण विश्व एकाच ठिकाणी, सर्व अंगांसकट दिसते. त्याला देव, ऋषी आणि सर्व प्रकारचे प्राणी दिसतात. त्याला काळही दिसतो, अफाट आणि सर्व काही गिळणारा, ज्याच्या मुखांत सेना धावत जात आहेत. त्याच्या अंगावर काटा येतो, तो थरथरतो आणि श्रद्धेने हात जोडतो.\n\nश्रीकृष्ण सांगतात की मीच काळ आहे, सर्व गोष्टींचा अंत करणारी महान शक्ती, आणि हे योद्धे आधीच त्याने संपवले आहेत. अर्जुन केवळ निमित्त आहे, कर्ता नाही. पण हे दर्शन मानवी हृदयाला सहन होण्यासारखे नाही. हादरलेला अर्जुन श्रीकृष्णाशी आजवर सलगीने वागल्याबद्दल क्षमा मागतो, आणि त्यांनी आपल्या परिचित रूपात परतावे अशी विनंती करतो.",
+     "text": "संजय अंध राजाला पुढे काय झाले ते सांगतात. महान योगेश्वर श्रीकृष्णांनी अर्जुनाला आपले परम दिव्य रूप दाखवले (11.9)। त्याला अनेक मुखे आणि नेत्र होते, अनेक अद्भुत दृश्ये होती, अनेक दिव्य अलंकार आणि उगारलेली शस्त्रे होती, दिव्य माला आणि वस्त्रे धारण केलेली होती, दिव्य सुगंधांनी लिंपलेली होती, आश्चर्यांनी भरलेली होती, अनंत होती, आणि सर्व दिशांकडे तोंड केलेली होती (11.10-11)।\n\nआकाशात हजार सूर्य एकाच वेळी प्रकाशले, तर कदाचित त्या महान स्वरूपाच्या तेजासारखे ते दिसतील (11.12)। तेथे अर्जुनाने आपल्या अनेक विभागांसह संपूर्ण विश्व देवांच्या देवाच्या शरीरात एकवटलेले पाहिले (11.13)। विस्मयाने भरून, रोमांच उभे राहिलेले, त्यांनी मस्तक लववले, हात जोडले आणि बोलू लागले (11.14)। संजय स्वतः म्हणतात की त्यांचे शब्द त्या दर्शनाचा केवळ संकेत देऊ शकतात, आणि साध्या वर्णनापलीकडील काहीतरी स्वीकारण्यासाठी ग्रंथ आपल्याला असा तयार करतो.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Awe, and the friendly face",
+    "en": "Awe and a trembling heart",
     "hi": {
-     "text": "विस्मय और सखा का सौम्य मुख",
+     "text": "विस्मय और काँपता हृदय",
      "reviewed": false
     },
     "mr": {
-     "text": "आश्चर्य, आणि मैत्रीचा चेहरा",
+     "text": "विस्मय आणि कंपित हृदय",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Krishna smiles and returns to his gentle human form, and Arjuna says his mind is calm again. Many readers love this ending. The greatest wonder is not meant to frighten us away. It is followed by tenderness, and the friend on the chariot is still there.\n\nIn daily life we also meet things too big to grasp, such as the night sky, a great illness or a loss that shakes everything. This chapter says awe is allowed, and so is wanting to come back to something familiar. Today, step outside, look up for a minute, and then turn to someone you love and thank them for being near. Awe passes, and what remains is a quiet closeness, a steady friendship that holds us through both wonder and fear.",
+    "en": "Arjuna’s words pour out. I see all the gods in your body, and all kinds of beings, the lord on the lotus seat, the sages and divine serpents (11.15). I see you everywhere with countless arms, bellies, mouths and eyes, and I see neither your end, nor middle, nor beginning (11.16). You are the imperishable, the supreme thing to be known, the guardian of eternal dharma (11.18). With your sun and moon as eyes, you burn the world with your radiance (11.19).\n\nBut the vision is also terrifying. The three worlds tremble (11.20). Seeing your mouths with fearful teeth, like the fires of the end of time, Arjuna cannot find direction or peace (11.25). The heroes of both armies rush into your mouths like rivers racing to the sea, and like moths flying into a flame (11.28-29). Be gracious, he cries, and tell me who you are, for I do not know your work (11.31).",
     "hi": {
-     "text": "श्रीकृष्ण मुस्कुराते हैं और अपने सौम्य मानव रूप में लौट आते हैं, और अर्जुन कहते हैं कि उनका मन फिर शांत हो गया है। बहुत से पाठक इस अंत को पसंद करते हैं। सबसे बड़ा आश्चर्य हमें डराकर दूर भगाने के लिए नहीं है। उसके पीछे कोमलता आती है, और रथ पर बैठा मित्र वहीं रहता है।\n\nरोज़ के जीवन में भी हमें ऐसी चीज़ें मिलती हैं जो समझ से बहुत बड़ी हैं: रात का आकाश, कोई गंभीर रोग, या ऐसी क्षति जो सब कुछ हिला दे। यह अध्याय कहता है कि विस्मय में डूबना ठीक है, और किसी जाने-पहचाने सहारे की ओर लौटने की चाह भी ठीक है। आज बाहर निकलिए, एक मिनट ऊपर आकाश को देखिए, फिर किसी प्रिय की ओर मुड़कर पास होने के लिए उसे धन्यवाद दीजिए। विस्मय बीत जाता है, और जो रह जाता है वह है शांत अपनापन, वह स्थिर मित्रता जो अचरज और भय, दोनों में हमें थामे रखती है।",
+     "text": "अर्जुन के शब्द उमड़ पड़ते हैं। मैं आपके शरीर में सब देवताओं को और सब प्रकार के प्राणियों को देखता हूँ, कमल-आसन पर स्थित ब्रह्मा को, ऋषियों और दिव्य सर्पों को (11.15)। मैं आपको सब ओर असंख्य भुजाओं, उदरों, मुखों और नेत्रों के साथ देखता हूँ, और न आपका अंत देखता हूँ, न मध्य, न आदि (11.16)। आप अक्षर हैं, जानने योग्य परम तत्त्व हैं, शाश्वत धर्म के रक्षक हैं (11.18)। सूर्य और चंद्र आपके नेत्र हैं, और आप अपने तेज से संपूर्ण विश्व को तपा रहे हैं (11.19)।\n\nपर यह दर्शन भयावह भी है। तीनों लोक काँप रहे हैं (11.20)। भयानक दाँतों वाले आपके मुखों को, जो प्रलय-काल की अग्नि जैसे हैं, देखकर अर्जुन को न दिशा सूझती है, न शांति (11.25)। दोनों सेनाओं के वीर आपके मुखों में ऐसे दौड़े जा रहे हैं जैसे नदियाँ समुद्र की ओर भागती हैं, और जैसे पतंगे प्रज्वलित अग्नि में गिरते हैं (11.28-29)। वे पुकारते हैं, कृपा करके बताइए आप कौन हैं, उग्र रूप वाले, मैं आपको जानना चाहता हूँ, क्योंकि मैं आपका प्रयोजन नहीं जानता (11.31)।",
      "reviewed": false
     },
     "mr": {
-     "text": "श्रीकृष्ण हसतात आणि आपल्या सौम्य मानवी रूपात परत येतात, आणि अर्जुन म्हणतो की माझे मन पुन्हा शांत झाले. अनेक वाचकांना हा शेवट आवडतो. सर्वांत मोठे आश्चर्य आपल्याला घाबरवून दूर लोटण्यासाठी नाही. त्यानंतर प्रेमळपणा येतो, आणि रथावरचा तो मित्र अजूनही तिथेच असतो.\n\nरोजच्या जीवनातही आपल्याला पेलवणार नाहीत अशा गोष्टी भेटतात: रात्रीचे आकाश, मोठा आजार किंवा सारे हादरवून टाकणारे नुकसान. आश्चर्य वाटणे योग्य आहे, आणि परिचित गोष्टींकडे परत येण्याची इच्छा होणेही योग्य आहे, असे हा अध्याय सांगतो. आज बाहेर जा, एक मिनिट वर आकाशाकडे पाहा, आणि मग आपल्या प्रिय व्यक्तीकडे वळून ती जवळ असल्याबद्दल तिचे आभार माना. आश्चर्य ओसरते, आणि उरते ती शांत जवळीक, एक स्थिर मैत्री जी आश्चर्यात आणि भीतीतही आपल्याला धरून ठेवते.",
+     "text": "अर्जुनाचे शब्द ओसंडून वाहतात. मी आपल्या शरीरात सर्व देवांना आणि सर्व प्रकारच्या प्राण्यांना पाहतो, कमळासनावर बसलेल्या ब्रह्मदेवाला, ऋषींना आणि दिव्य सर्पांना (11.15)। मी आपल्याला सर्वत्र असंख्य बाहू, उदरे, मुखे आणि नेत्रांसह पाहतो, आणि आपला अंत पाहत नाही, मध्यही नाही आणि आरंभही नाही (11.16)। आपण अक्षर आहात, जाणण्यायोग्य परम तत्त्व आहात, शाश्वत धर्माचे रक्षक आहात (11.18)। सूर्य आणि चंद्र आपले डोळे आहेत, आणि आपण आपल्या तेजाने सारे विश्व तापवत आहात (11.19)।\n\nपण हे दर्शन भयानकही आहे. तिन्ही लोक थरथरत आहेत (11.20)। प्रलयकाळच्या अग्नीसारखी भयानक दाढे असलेली आपली मुखे पाहून अर्जुनाला दिशा सापडत नाही, आणि शांतीही मिळत नाही (11.25)। दोन्ही सैन्यांतील वीर आपल्या मुखांमध्ये असे धावत आहेत जसे नद्या समुद्राकडे धावतात, आणि जसे पतंग प्रज्वलित अग्नीत उडी घेतात (11.28-29)। ते ओरडतात, कृपा करून सांगा की आपण कोण आहात, उग्र रूप असलेले, कारण आपले कार्य मला कळत नाही (11.31)।",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Time, the destroyer",
+    "hi": {
+     "text": "काल, संहारक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "काल, संहारक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna answers plainly. I am Time, the mighty destroyer of the worlds, who has come here to gather them in (11.32). Even without you, none of these warriors standing in the opposing ranks will live. So arise and win glory, conquer your enemies and enjoy the prosperous kingdom (11.32-33).\n\nThey have already been slain by me; be merely the instrument, Arjuna (11.33). Strike down Drona, Bhishma, Jayadratha, Karna and the other heroes who have already been struck by me; do not hesitate, fight, and you will conquer your rivals in battle (11.34). Many teachers read this as the Gita’s humbling picture: events are far larger than any one person, and we serve best by doing our part without pride. Krishna’s words are not cruel. They remind Arjuna that the cycles of birth and passing are far greater than any single battle, and that his part is to act with courage and without hatred.",
+    "hi": {
+     "text": "श्रीकृष्ण स्पष्ट उत्तर देते हैं। मैं काल हूँ, लोकों का संहार करने वाला प्रबल काल, जो यहाँ इन सबको समेटने के लिए आया है (11.32)। तुम्हारे बिना भी, विरोधी पंक्तियों में खड़े इन योद्धाओं में से कोई भी जीवित नहीं रहेगा। इसलिए उठो, यश प्राप्त करो, शत्रुओं को जीतो और समृद्ध राज्य का भोग करो (11.32-33)।\n\nये पहले ही मेरे द्वारा मारे जा चुके हैं; हे अर्जुन, तुम केवल निमित्त बनो (11.33)। द्रोण, भीष्म, जयद्रथ, कर्ण और अन्य वीर, जो मेरे द्वारा पहले ही मारे जा चुके हैं, उन्हें मारो; संकोच मत करो, युद्ध करो, और तुम युद्ध में अपने प्रतिद्वंद्वियों को जीत लोगे (11.34)। अनेक शिक्षक इसे गीता का विनम्र करने वाला चित्र मानते हैं: घटनाएँ किसी एक व्यक्ति से कहीं बड़ी हैं, और हम अहंकार के बिना अपना भाग निभाकर सबसे अच्छी सेवा करते हैं। श्रीकृष्ण के शब्द क्रूर नहीं हैं। वे अर्जुन को याद दिलाते हैं कि जन्म और लय के चक्र किसी एक युद्ध से कहीं बड़े हैं, और उसका काम साहस से और द्वेष के बिना कर्म करना है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण स्पष्ट उत्तर देतात. मी काल आहे, लोकांचा संहार करणारा प्रबल काल, जो येथे यांना एकत्र गोळा करण्यासाठी आला आहे (11.32)। तुझ्याशिवायही विरुद्ध पंक्तीत उभे राहिलेले हे योद्धे कोणीही जिवंत राहणार नाही. म्हणून ऊठ, यश मिळव, शत्रूंना जिंक आणि समृद्ध राज्याचा उपभोग घे (11.32-33)।\n\nहे माझ्याकडून आधीच मारले गेले आहेत; हे अर्जुना, तू केवळ निमित्त हो (11.33)। द्रोण, भीष्म, जयद्रथ, कर्ण आणि इतर वीर, जे माझ्याकडून आधीच आघात पावलेले आहेत, त्यांना मार; संकोच करू नकोस, लढ, आणि युद्धात तू आपल्या प्रतिस्पर्ध्यांना जिंकशील (11.34)। अनेक शिक्षक याकडे गीतेचे नम्र करणारे चित्र म्हणून पाहतात: घटना कोणत्याही एका व्यक्तीपेक्षा खूप मोठ्या आहेत, आणि अहंकाराशिवाय आपला भाग पार पाडून आपण सर्वोत्तम सेवा करतो. श्रीकृष्णांचे शब्द क्रूर नाहीत. ते अर्जुनाला आठवण करून देतात की जन्म आणि लयाची चक्रे कोणत्याही एका युद्धापेक्षा खूप मोठी आहेत, आणि त्याचे काम धैर्याने आणि द्वेषाशिवाय कर्म करणे आहे.",
+     "reviewed": false
+    }
+   },
+   "image": 1
+  },
+  {
+   "title": {
+    "en": "Forgiveness and a plea",
+    "hi": {
+     "text": "क्षमा और प्रार्थना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "क्षमा आणि प्रार्थना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Hearing this, Arjuna folds his hands, trembling, and bows again and again to Krishna, speaking in a choked voice and overcome by fear (11.35). He praises him as the first god, the ancient person, the supreme abode of the universe, the knower and the thing to be known (11.38). He asks forgiveness for all the careless times he addressed him as a mere friend, saying hey Krishna, hey Yadava, out of affection and carelessness (11.41-42).\n\nHe is not shaming himself; he is a friend recognising that closeness had made him casual, and he asks only to be forgiven. His prayer is the prayer of anyone who has felt the greatness of life and then wished to rest in something kind and familiar. The Gita treats that wish with tenderness, not as a failure of nerve.",
+    "hi": {
+     "text": "यह सुनकर अर्जुन हाथ जोड़ लेते हैं, काँपते हुए बार-बार श्रीकृष्ण को नमस्कार करते हैं, रुँधे हुए कंठ से बोलते हैं और भय से अभिभूत हो जाते हैं (11.35)। वे उन्हें आदि देव, पुरातन पुरुष, विश्व का परम आश्रय, ज्ञाता और ज्ञेय कहकर स्तुति करते हैं (11.38)। वे उन सभी असावधान क्षणों के लिए क्षमा माँगते हैं जब उन्होंने स्नेह और लापरवाही से उन्हें केवल मित्र मानकर 'हे कृष्ण', 'हे यादव' कहकर पुकारा था (11.41-42)।\n\nवे अपने आप को लज्जित नहीं कर रहे; वे एक मित्र हैं जो पहचानते हैं कि निकटता ने उन्हें बेपरवाह बना दिया था, और वे केवल क्षमा माँगते हैं। उनकी प्रार्थना उस हर व्यक्ति की प्रार्थना है जिसने जीवन की महानता को अनुभव किया है और फिर किसी कोमल और परिचित आश्रय में विश्राम करना चाहा है। गीता इस इच्छा को कोमलता से लेती है, साहस की विफलता के रूप में नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "हे ऐकून अर्जुन हात जोडतो, थरथरत वारंवार श्रीकृष्णांना नमस्कार करतो, दाटलेल्या कंठाने बोलतो आणि भयाने व्याकूळ होतो (11.35)। तो त्यांना आदिदेव, पुरातन पुरुष, विश्वाचे परम आश्रयस्थान, ज्ञाता आणि ज्ञेय म्हणून स्तवतो (11.38)। ज्या बेपर्वाईच्या क्षणी त्याने प्रेमाने आणि निष्काळजीपणाने 'हे कृष्णा, हे यादवा' म्हणत त्यांना केवळ मित्र मानले, त्याबद्दल तो क्षमा मागतो (11.41-42)।\n\nतो स्वतःला लाजवत नाही; तो एक मित्र आहे जो ओळखतो की जवळिकीमुळे तो बेफिकीर झाला होता, आणि तो केवळ क्षमा मागतो. त्याची प्रार्थना अशा प्रत्येकाची प्रार्थना आहे ज्याने जीवनाचे महात्म्य अनुभवले आणि मग एखाद्या सौम्य, परिचित आश्रयात विसावावेसे वाटले. गीता ही इच्छा कोमलतेने स्वीकारते, धैर्याच्या अपयशाप्रमाणे नव्हे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The gentle form returns",
+    "hi": {
+     "text": "कोमल रूप लौट आता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सौम्य रूप परत येते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna is grateful for the wonder but cannot bear it. I am glad I have seen what was never seen before, he says, but my mind is shaken with fear. Show me again that form of yours, the human one (11.45). Krishna, pleased, tells him that this form is very hard to see, and that it cannot be seen by study, austerity, charity or ritual, but only by single-minded devotion (11.48, 11.53-54). Then he shows his gentle human form again, and Arjuna, calm once more, says that his mind has returned to normal (11.50-51). The one who works for me, loves me, is free from attachment and bears no ill will to any being comes to me (11.55). Many teachers say this ending is the heart of the chapter: the infinite is real, and yet it is also close enough to sit beside us as a friend, if we come with love.",
+    "hi": {
+     "text": "अर्जुन इस विस्मय के लिए कृतज्ञ हैं, पर उसे सह नहीं पाते। वे कहते हैं, जो पहले कभी नहीं देखा गया था, वह देखकर मुझे प्रसन्नता हुई, पर मेरा मन भय से काँप रहा है। मुझे अपना वही रूप फिर दिखाइए, मनुष्य वाला रूप (11.45)। श्रीकृष्ण प्रसन्न होकर कहते हैं कि यह रूप देखना अत्यंत कठिन है, और यह न वेदाध्ययन, न तप, न दान, न यज्ञ से देखा जा सकता है, केवल एकनिष्ठ भक्ति से ही (11.48, 11.53-54)। फिर वे अपना कोमल मानव रूप दिखाते हैं, और अर्जुन पुनः शांत होकर कहते हैं कि उनका मन अपनी स्थिति में लौट आया है (11.50-51)। जो मेरे लिए कर्म करता है, मुझसे प्रेम करता है, आसक्ति से मुक्त है और किसी प्राणी से वैर नहीं रखता, वह मुझे प्राप्त होता है (11.55)। अनेक शिक्षक कहते हैं कि यही अध्याय का हृदय है: अनंत सत्य है, फिर भी वह इतना निकट भी है कि प्रेम से आने पर मित्र की तरह हमारे पास बैठ सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन या विस्मयासाठी कृतज्ञ आहे, पण तो ते सहन करू शकत नाही. तो म्हणतो, जे पूर्वी कधी पाहिले नव्हते ते पाहून मला आनंद झाला, पण माझे मन भयाने हादरले आहे. मला आपले ते पूर्वीचे, मानवी रूप पुन्हा दाखवा (11.45)। श्रीकृष्ण प्रसन्न होऊन सांगतात की हे रूप पाहणे अत्यंत कठीण आहे, आणि ते वेदाध्ययनाने, तपाने, दानाने किंवा यज्ञाने पाहता येत नाही, तर केवळ एकनिष्ठ भक्तीनेच (11.48, 11.53-54)। मग ते आपले सौम्य मानवी रूप पुन्हा दाखवतात, आणि अर्जुन पुन्हा शांत होऊन म्हणतो की त्याचे मन पूर्ववत झाले आहे (11.50-51)। जो माझ्यासाठी कर्म करतो, माझ्यावर प्रेम करतो, आसक्तीपासून मुक्त आहे आणि कोणत्याही प्राण्याविषयी वैर बाळगत नाही, तो मला प्राप्त होतो (11.55)। अनेक शिक्षक म्हणतात की हाच या अध्यायाचा गाभा आहे: अनंत सत्य आहे, आणि तरीही ते इतके जवळही आहे की प्रेमाने आल्यास मित्रासारखे आपल्या शेजारी बसू शकते.",
      "reviewed": false
     }
    },
@@ -179,41 +252,41 @@
     "reviewed": false
    },
    "mr": {
-    "text": "भगवद्गीता ११.१२",
+    "text": "भगवद्गीता 11.12",
     "reviewed": false
    }
   },
   "meaning": {
    "en": "If a thousand suns rose in the sky together, their blaze might come close to the brilliance of that great being.",
    "hi": {
-    "text": "यदि आकाश में हज़ार सूर्य एक साथ उदित हो जाएँ, तो भी उनका प्रकाश शायद उस महान स्वरूप के तेज के निकट पहुँचे।",
+    "text": "यदि आकाश में एक साथ हज़ार सूर्य उदित हो जाएँ, तो उनका तेज शायद उस महान स्वरूप की दीप्ति के निकट पहुँच सके।",
     "reviewed": false
    },
    "mr": {
-    "text": "आकाशात हजार सूर्य एकदम उगवले, तर त्यांचा प्रकाश कदाचित त्या महान विभूतीच्या तेजाशी बरोबरी करू शकेल.",
+    "text": "आकाशात एकाच वेळी हजार सूर्य उदित झाले, तर त्यांची दीप्ती कदाचित त्या महान स्वरूपाच्या तेजाच्या जवळ पोहोचेल.",
     "reviewed": false
    }
   }
  },
  "reflect": {
-  "en": "When did something vast leave you speechless? Take one minute outdoors today to feel small in a good way.",
+  "en": "What in life feels too vast or frightening to hold in your mind? Today, take one small, calm breath before facing it, and remember that you only have to play your part.",
   "hi": {
-   "text": "कब किसी विशाल बात ने आपको निःशब्द कर दिया? आज एक मिनट बाहर खड़े होकर अच्छे अर्थ में खुद को छोटा महसूस कीजिए।",
+   "text": "जीवन में ऐसा क्या है जो आपके मन में पकड़ने के लिए बहुत विशाल या भयावह लगता है? आज उसका सामना करने से पहले एक छोटी, शांत साँस लीजिए, और याद रखिए कि आपको केवल अपना भाग निभाना है।",
    "reviewed": false
   },
   "mr": {
-   "text": "एखाद्या अफाट गोष्टीने तुम्हाला कधी नि:शब्द केले होते? आज एक मिनिट बाहेर जाऊन चांगल्या अर्थाने आपण लहान असल्याचा अनुभव घ्या.",
+   "text": "जीवनात असे काय आहे जे तुमच्या मनात धरून ठेवण्यासाठी खूप विशाल किंवा भयावह वाटते? आज त्याला सामोरे जाण्यापूर्वी एक लहानसा, शांत श्वास घ्या, आणि लक्षात ठेवा की तुम्हाला फक्त आपला भाग निभवायचा आहे.",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "Awe humbles us, and a friendly presence brings us home again.",
+  "en": "The universe is vast beyond measure, yet its Lord can be loved in a gentle, human form.",
   "hi": {
-   "text": "विस्मय हमें विनम्र बनाता है, और एक स्नेह भरी उपस्थिति हमें फिर घर ले आती है।",
+   "text": "विश्व अपार रूप से विशाल है, फिर भी उसके स्वामी को कोमल मानव रूप में प्रेम किया जा सकता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "आश्चर्य आपल्याला नम्र करते, आणि मैत्रीची सोबत आपल्याला पुन्हा घरी आणते.",
+   "text": "विश्व मोजता न येण्याइतके विशाल आहे, तरीही त्याच्या स्वामीला कोमल मानवी रूपात प्रेम करता येते.",
    "reviewed": false
   }
  },
@@ -224,7 +297,7 @@
    "reviewed": false
   },
   "mr": {
-   "text": "भगवद्गीता, अध्याय ११ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "text": "भगवद्गीता, अध्याय 11 (महाभारत, भीष्म पर्व); आमच्या स्वतःच्या शब्दांत सारांश",
    "reviewed": false
   }
  }

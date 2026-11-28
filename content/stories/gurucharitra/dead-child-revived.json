@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "dead-child-revived",
+ "order": 21,
+ "part": "jnana",
+ "figure": {
+  "en": "Narasimha Saraswati and the grieving mother",
+  "hi": {
+   "text": "नृसिंह सरस्वती, एक संन्यासी और शोकग्रस्त माता",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती, एक संन्यासी आणि शोकग्रस्त माता",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Sanyasi and the Sleeping Child",
+  "hi": {
+   "text": "संन्यासी और सोता हुआ बालक",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "संन्यासी आणि झोपलेले बालक",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A mother refuses to bury her son, a sanyasi counsels her, and a dream under the audumbar tree returns the boy to her arms.",
+  "hi": {
+   "text": "एक माता अपने पुत्र को दफ़नाने से इनकार करती है, एक संन्यासी उसे परामर्श देता है, और औदुंबर वृक्ष के नीचे का स्वप्न बालक को उसकी गोद में लौटा देता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक माता आपल्या मुलाला दफन करण्यास नकार देते, एक संन्यासी तिला मार्गदर्शन करतो, आणि औदुंबर वृक्षाखालचे स्वप्न बालकाला तिच्या कुशीत परत आणते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-audumbar.webp",
+   "w": 1200,
+   "h": 675,
+   "caption": {
+    "en": "The audumbar (Ficus racemosa) tree",
+    "hi": {
+     "text": "औदुंबर (गूलर) का वृक्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "औदुंबर (उंबर) वृक्ष",
+     "reviewed": false
+    }
+   },
+   "credit": "Rajasekhar1961, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ficus_racemosa_in_Pithapuram_2026_May_01.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The Sanyasi's Words",
+    "hi": {
+     "text": "संन्यासी के शब्द",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संन्याशाचे शब्द",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The sanyasi sat beside the weeping mother and spoke quietly. He told her that death comes to every body, that the body is only a bubble made of five elements, and that the thought 'my son' is a bond shaped by what has gone before. He did not say it harshly. He sat with her as she cried.\n\nThe Gurucharitra offers these as the words of the age, a kind of comfort that its listeners knew well. A modern reader may find them hard to hear at such a moment, and the mother herself did. Words like these can be true and still fall on a grieving mother like stones, and the Gurucharitra lets her answer them honestly in the next moment. The sanyasi stayed where he was, and did not hurry her.",
+    "hi": {
+     "text": "संन्यासी रोती हुई माता के पास बैठे और शांत स्वर में बोले। उन्होंने कहा कि मृत्यु हर शरीर पर आती है, कि शरीर पाँच तत्वों से बना एक बुलबुला मात्र है, और \"मेरा पुत्र\" का विचार उस बंधन का नाम है जो पिछले कर्मों से बना है। उन्होंने यह कठोरता से नहीं कहा। वे उसके रोते हुए बैठे रहे।\n\nश्री गुरुचरित्र इन्हें उस युग के शब्द के रूप में प्रस्तुत करता है, एक प्रकार का सांत्वना जिसे उसके श्रोता भली-भाँति जानते थे। आज का पाठक ऐसे क्षण में इन्हें सुनना कठिन पा सकता है, और वह माता स्वयं भी पा रही थी। ऐसे शब्द सच हो सकते हैं और फिर भी शोकग्रस्त माता पर पत्थर की तरह गिर सकते हैं, और श्री गुरुचरित्र उसे अगले क्षण में उनका ईमानदारी से उत्तर देने देता है। संन्यासी वहीं बैठे रहे, और उन्होंने उसे जल्दी करने को नहीं कहा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "संन्यासी रडणाऱ्या मातेजवळ बसले आणि शांत स्वरात बोलले. त्यांनी सांगितले की मृत्यू प्रत्येक शरीरावर येतो, शरीर पाच तत्वांनी बनलेला केवळ एक बुडबुडा आहे, आणि \"माझा पुत्र\" हा विचार मागील कर्मांनी घडलेल्या बंधनाचे नाव आहे. त्यांनी ते कठोरपणे म्हटले नाही. ते तिच्याबरोबर बसले, ती रडत असताना.\n\nश्री गुरुचरित्र हे शब्द त्या काळचे, त्या काळच्या श्रोत्यांना परिचित असलेले सांत्वन म्हणून मांडते. आजचा वाचक अशा क्षणी ते ऐकणे कठीण मानेल, आणि ती माता स्वतःही तसेच अनुभवत होती. असे शब्द खरे असू शकतात आणि तरीही शोकग्रस्त मातेवर दगडासारखे पडू शकतात, आणि श्री गुरुचरित्र तिला पुढच्या क्षणी त्यांना प्रामाणिक उत्तर देऊ देते. संन्यासी तिथेच राहिले, आणि त्यांनी तिला घाई केली नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "She Will Not Be Consoled",
+    "hi": {
+     "text": "वह सांत्वना नहीं मानती",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सांत्वन ती मानत नाही",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The mother answered him boldly. If everything is already fixed, she said, then worship is pointless, and every ritual she had done was in vain. She was no longer willing to listen to teaching. She had made up her mind to end her own life there beside her child.\n\nThe sanyasi did not argue. He changed his advice and suggested a different course. Let her take the child's body to the audumbar tree, he said, and lay it by the Guru's padukas. It was a small request, and in her grief she agreed, because there was no other door left. She said it without anger, but with the plain honesty of someone who has nothing left to lose. The sanyasi listened to her, and did not take offence. He seemed to see that her protest was itself a kind of prayer, a demand to be answered by someone who truly cared. Her husband sat beside her, silent and grey, holding the small cold hand of the boy.",
+    "hi": {
+     "text": "माता ने साहसपूर्वक उत्तर दिया। यदि सब कुछ पहले से तय है, उसने कहा, तो पूजा व्यर्थ है, और उसने जितने अनुष्ठान किए थे, सब निरर्थक थे। अब वह कोई उपदेश सुनने को तैयार नहीं थी। उसने वहीं अपने बालक के पास अपना जीवन समाप्त करने का निश्चय कर लिया था।\n\nसंन्यासी ने तर्क नहीं किया। उन्होंने अपना परामर्श बदला और एक भिन्न मार्ग सुझाया। बालक का शरीर औदुंबर वृक्ष तक ले जाकर गुरु की पादुकाओं के पास रख दिया जाए, उन्होंने कहा। यह एक छोटा-सा आग्रह था, और शोक में उसने सहमति दे दी, क्योंकि अब कोई और द्वार नहीं बचा था। उसने बिना क्रोध के, पर उस सीधी ईमानदारी से कहा जो अपने पास खोने को कुछ न बचा हो। संन्यासी ने उसकी बात सुनी और बुरा नहीं माना। वे देख रहे थे कि उसका प्रतिरोध स्वयं एक प्रकार की प्रार्थना है, ऐसी माँग जिसका उत्तर कोई ऐसा दे जो सचमुच परवाह करता हो। उसका पति मौन और धूसर होकर उसके पास बैठा रहा, बालक का छोटा-सा ठंडा हाथ थामे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "माता धैर्याने उत्तरली. सर्व काही आधीच ठरलेले असेल, तर पूजा निरर्थक आहे, ती म्हणाली, आणि तिने केलेले सर्व विधी व्यर्थ आहेत. आता ती कोणताही उपदेश ऐकण्यास तयार नव्हती. तिने आपल्या बालकाजवळच आपले जीवन संपवण्याचा निर्धार केला होता.\n\nसंन्याशांनी वाद घातला नाही. त्यांनी आपला सल्ला बदलला आणि वेगळा मार्ग सुचवला. बालकाचा देह अश्वत्थ वृक्षापर्यंत नेऊन गुरूंच्या पादुकांजवळ ठेवावा, ते म्हणाले. ही एक छोटी विनंती होती, आणि दुःखात तिने होकार दिला, कारण दुसरे दार उरले नव्हते. तिने ते रागाविना, पण ज्याच्याकडे गमावायला काहीच उरले नाही अशा माणसाच्या साध्या प्रामाणिकपणाने सांगितले. संन्याशांनी तिचे ऐकले आणि ते वाईट मानले नाही. त्यांना दिसत होते की तिचा विरोध हीच एक प्रकारची प्रार्थना आहे, कोणीतरी खऱ्या अर्थाने काळजी करणाऱ्याने उत्तर द्यावे अशी मागणी. तिचे पती मौन आणि धूसर होऊन तिच्याजवळ बसले, बालकाचा लहानसा थंड हात धरून.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Night at the Tree",
+    "hi": {
+     "text": "वृक्ष के नीचे रात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वृक्षाखाली रात्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "They carried the boy to the tree and laid him down. The night passed slowly. The mother and father sat with the child, and the audumbar leaves moved above them. The text says that after midnight, worn out with weeping, both parents fell asleep where they sat.\n\nIt was in that sleep that the mother dreamed. She saw a figure marked with ash, wearing rudraksha beads and carrying a trident, wrapped in a tiger skin. He stood by her son, and she was not afraid. The audumbar leaves rustled overhead, and an owl called somewhere beyond the river. The padukas stood where they always stood, simple wooden sandals set at the foot of the tree. The night was long and dark around them. The mother kept her eyes on the child's face until her eyelids grew too heavy to hold open.",
+    "hi": {
+     "text": "वे बालक को वृक्ष तक ले गए और उसे लिटा दिया। रात धीरे-धीरे बीती। माता और पिता बालक के पास बैठे रहे, और औदुंबर के पत्ते उनके ऊपर हिलते रहे। ग्रंथ कहता है कि आधी रात के बाद, रोते-रोते थककर, दोनों माता-पिता वहीं बैठे-बैठे सो गए।\n\nउसी नींद में माता ने स्वप्न देखा। उसने एक ऐसी आकृति देखी जिस पर भस्म लगी थी, जो रुद्राक्ष की माला पहने थी, हाथ में त्रिशूल लिए, और बाघंबर ओढ़े हुए। वह उसके पुत्र के पास खड़ा था, और वह भयभीत नहीं हुई। ऊपर औदुंबर के पत्ते खड़खड़ा रहे थे, और नदी के उस पार कहीं एक उल्लू बोला। पादुकाएँ अपनी जगह पर थीं, वृक्ष के चरणों में रखी साधारण लकड़ी की खड़ाऊँ। उनके चारों ओर रात लंबी और अंधेरी थी। माता बालक के चेहरे पर दृष्टि टिकाए रहीं, जब तक उनकी पलकें बोझिल होकर बंद न होने लगीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्यांनी बालकाला वृक्षापर्यंत नेऊन ठेवले. रात्र हळूहळू गेली. आई आणि वडील बालकाजवळ बसले, आणि औदुंबराची पाने त्यांच्यावर हलत होती. ग्रंथ सांगतो की मध्यरात्रीनंतर, रडून थकलेले, दोघे पालक जिथे बसले होते तिथेच झोपी गेले.\n\nत्या झोपेतच आईने स्वप्न पाहिले. तिने एक आकृती पाहिली, अंगावर भस्म, गळ्यात रुद्राक्ष, हाती त्रिशूळ आणि अंगावर व्याघ्रचर्म. तो तिच्या पुत्राजवळ उभा होता, आणि तिला भीती वाटली नाही. वर औदुंबराची पाने सळसळत होती, आणि नदीच्या पलीकडे कुठेतरी एक घुबड ओरडले. पादुका आपल्या जागी होत्या, वृक्षाच्या पायथ्याशी ठेवलेल्या साध्या लाकडी खडावा. त्यांच्याभोवती रात्र लांब आणि अंधारी होती. आईने बालकाच्या चेहऱ्यावरून नजर हटवली नाही, जोपर्यंत तिच्या पापण्या जड होऊन मिटू लागल्या.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Breath and Ash",
+    "hi": {
+     "text": "श्वास और भस्म",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्वास आणि भस्म",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the dream the figure put sacred ash on the boy's forehead. Then he bent and breathed into the boy's mouth, gently, as one might wake a sleeping child. The mother watched, and in the dream no word was spoken.\n\nShe woke. The child was warm. His eyes were open, and he was hungry. Milk flowed to her breast and she fed him, weeping with a joy that had no words. Her husband woke beside her and saw it, and could say nothing. The dream was quiet and clear. There was no thunder and no light from the sky. The figure stood simply, as a man might stand beside a sleeping child, and his face was kind. The mother, who had screamed in her grief only hours earlier, felt her heart grow still, and watched what he did without any wish to stop him.",
+    "hi": {
+     "text": "स्वप्न में उस आकृति ने बालक के ललाट पर पवित्र भस्म लगाई। फिर वह झुका और बालक के मुख में धीरे से श्वास दी, जैसे कोई सोए हुए शिशु को जगाता है। माता देखती रहीं, और स्वप्न में कोई शब्द नहीं बोला गया।\n\nवह जाग गईं। बालक गरम था। उसकी आँखें खुली थीं, और उसे भूख लगी थी। माता के स्तन में दूध उतर आया और उन्होंने उसे पिलाया, आनंद के ऐसे आँसुओं के साथ जिनके लिए शब्द नहीं थे। पति बगल में जागे, उन्होंने यह देखा, और कुछ कह न सके। स्वप्न शांत और स्पष्ट था। न गर्जना थी, न आकाश से कोई प्रकाश। वह आकृति साधारण रूप से खड़ी थी, जैसे कोई पुरुष सोए बालक के पास खड़ा हो, और उसका मुख करुणामय था। जो माता कुछ ही घंटे पहले शोक में चीखी थीं, उनका हृदय स्थिर हो गया, और वे बिना उसे रोकने की इच्छा के देखती रहीं कि वह क्या करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वप्नात त्या आकृतीने बालकाच्या कपाळावर पवित्र भस्म लावले. मग तो वाकला आणि बालकाच्या मुखात हळूच श्वास सोडला, जसे कोणी झोपलेल्या बालकाला जागे करतो. आई पाहत राहिली, आणि स्वप्नात कोणताही शब्द बोलला गेला नाही.\n\nती जागी झाली. बालक उबदार होते. त्याचे डोळे उघडे होते, आणि त्याला भूक लागली होती. तिच्या स्तनांमध्ये दूध उतरले आणि तिने त्याला पाजले, आनंदाश्रूंनी, ज्यांना शब्द नव्हते. पती शेजारी जागे झाले, त्यांनी हे पाहिले, आणि त्यांना काही बोलता आले नाही. स्वप्न शांत आणि स्पष्ट होते. गर्जना नव्हती, आकाशातून प्रकाश नव्हता. ती आकृती साधेपणाने उभी होती, जसा एखादा पुरुष झोपलेल्या बालकाजवळ उभा राहतो, आणि त्याचा चेहरा दयाळू होता. जी माता काही तासांपूर्वीच दुःखात किंचाळली होती, तिचे हृदय शांत झाले, आणि ती तिला थांबवण्याची इच्छा न करता जे तो करत होता ते पाहत राहिली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Washing of the Padukas",
+    "hi": {
+     "text": "पादुकाओं का प्रक्षालन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पादुकांचे प्रक्षालन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The couple bowed to the Guru's padukas, the wooden sandals that stood at the tree. They asked forgiveness for the rash words spoken in the night, for the despair that had pulled at them. Then they washed the padukas, and the blood that had been on them, with their own hands.\n\nThe brahmins of the town gathered, amazed, and praised the Guru. The Siddha tells this as a revival and a sign of grace, and not as a thing to be argued over. A mother who had said that nothing mattered held her living son, and the whole town knew that it mattered very much. The child cried the sharp, hungry cry of any living baby. The two of them sat in the grey light of dawn, hardly daring to speak, afraid that a word might break what had happened. Then they went to the padukas.",
+    "hi": {
+     "text": "दंपति ने वृक्ष पर रखी गुरु की पादुकाओं को प्रणाम किया, लकड़ी की उन खड़ाऊँ को जो वृक्ष के पास थीं। उन्होंने रात में कहे गए उन असावधान शब्दों के लिए क्षमा माँगी, उस निराशा के लिए भी जिसने उन्हें खींचा था। फिर उन्होंने अपने हाथों से पादुकाएँ धोईं, और उन पर लगा रक्त भी धोया।\n\nनगर के ब्राह्मण एकत्र होकर विस्मित हुए और गुरु की स्तुति करने लगे। सिद्ध इसे पुनर्जीवन और कृपा के चिह्न के रूप में सुनाते हैं, किसी ऐसी बात के रूप में नहीं जिस पर विवाद किया जाए। जिस माता ने कहा था कि कुछ भी मायने नहीं रखता, उसने अब अपने जीवित पुत्र को थामा था, और पूरे नगर को पता था कि सब कुछ बहुत मायने रखता है। बालक भूख से भरी उस तीखी आवाज़ में रोया जैसे हर जीवित शिशु रोता है। दोनों भोर के धूसर प्रकाश में बैठे रहे, मुश्किल से बोलने का साहस करते, इस डर से कि कोई शब्द जो हुआ है उसे तोड़ न दे। फिर वे पादुकाओं के पास गए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दांपत्याने वृक्षाजवळच्या गुरूंच्या पादुकांना नमस्कार केला. रात्री बोललेल्या घाईच्या शब्दांबद्दल, आणि त्यांना ओढणाऱ्या निराशेबद्दल त्यांनी क्षमा मागितली. मग त्यांनी स्वतःच्या हातांनी पादुका धुतल्या, आणि त्यांच्यावर असलेले रक्तही धुतले.\n\nगावातील ब्राह्मण जमले, आश्चर्यचकित होऊन, आणि त्यांनी गुरूंची स्तुती केली. सिद्ध हे पुनरुज्जीवन आणि कृपेचे चिन्ह म्हणून सांगतात, वादविवाद करण्याचा विषय म्हणून नव्हे. जिने म्हटले होते की काहीच महत्त्वाचे नाही, ती आता आपला जिवंत पुत्र धरून होती, आणि सर्व गावाला माहीत होते की सर्व काही फार महत्त्वाचे आहे. बालक भुकेच्या त्या तीक्ष्ण आवाजात रडले, जसे प्रत्येक जिवंत बालक रडते. दोघे पहाटेच्या धूसर प्रकाशात बसले, क्वचितच बोलण्याचे धैर्य करत, भीती वाटत की एखादा शब्द घडलेले तुटून टाकेल. मग ते पादुकांकडे गेले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "When did a kind presence, and not advice, last help you through a hard time? Offer the same quiet company to someone today.",
+  "hi": {
+   "text": "कब आपको किसी कठिन समय में सलाह नहीं, बल्कि किसी की कोमल उपस्थिति ने सहारा दिया था? आज वही शांत साथ किसी और को दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कठीण काळात तुम्हाला सल्ल्याऐवजी कोणाच्या सौम्य उपस्थितीने आधार दिला होता? आज तीच शांत सोबत कोणालातरी द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grace can reach a person at their lowest point, and it does not ask them to be calm or wise first.",
+  "hi": {
+   "text": "कृपा व्यक्ति तक उसके सबसे निचले बिंदु पर भी पहुँच सकती है, और वह पहले शांत या बुद्धिमान होने की माँग नहीं करती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कृपा माणसापर्यंत त्याच्या सर्वात खालच्या बिंदूवरही पोहोचू शकते, आणि ती आधी शांत किंवा शहाणे होण्याची मागणी करत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 21; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 21; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 21; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

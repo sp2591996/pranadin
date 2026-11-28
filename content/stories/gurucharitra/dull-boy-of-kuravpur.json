@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "dull-boy-of-kuravpur",
+ "order": 8,
+ "part": "jnana",
+ "figure": {
+  "en": "Shripad, Ambika and her son",
+  "hi": {
+   "text": "श्रीपाद, अंबिका और उनका पुत्र",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्रीपाद, अंबिका आणि तिचा पुत्र",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Mother Who Went to the River",
+  "hi": {
+   "text": "वह माता जो नदी तक गई",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "नदीकडे गेलेली आई",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "At Kuravpur a desperate mother and her speechless son meet a young ascetic on the riverbank.",
+  "hi": {
+   "text": "कुरवपुर में एक निराश माता और उसका मूक पुत्र नदी के तट पर एक युवा संन्यासी से मिलते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कुरवपूरमध्ये एक हताश आई आणि तिचा मुका मुलगा नदीकाठी एका तरुण संन्याशाला भेटतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-krishna-river.webp",
+   "w": 1200,
+   "h": 901,
+   "caption": {
+    "en": "Old temple on the river Krishna",
+    "hi": {
+     "text": "कृष्णा नदी पर प्राचीन मंदिर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कृष्णा नदीवरील जुने मंदिर",
+     "reviewed": false
+    }
+   },
+   "credit": "Kanj Saurav, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Temple_of_River_Krishna_Back_View.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "The Hidden Years at Kuravpur",
+    "hi": {
+     "text": "कुरवपुर के छिपे वर्ष",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुरवपूरमधील लपलेली वर्षे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "After three quiet years at Gokarna, Shripad Shrivallabha travelled on to Shrigiri and the Nivritti Sangam and finally reached Kuravpur, a village on the banks of the Krishna river. He did not announce himself. He lived there as a simple ascetic, and those who passed saw only a young man sitting by the water.\n\nYet the Siddha told Namdharak that this village would become one of the Guru’s dearest homes, a place his devotees would visit for centuries. In the meantime Kuravpur went on with its ordinary sorrows, and one of them was a household that was quietly falling apart, a brahmin family whose only living son could not speak and could not learn. Shripad’s road to Kuravpur ran through Shrigiri and the Nivritti Sangam, places the Gurucharitra counts as holy ground, and it ended beside the Krishna.",
+    "hi": {
+     "text": "गोकर्ण में तीन शांत वर्ष बिताने के बाद श्रीपाद श्रीवल्लभ श्रीगिरि और निवृत्ति संगम होते हुए आगे बढ़े, और अंततः कृष्णा नदी के तट पर बसे गाँव कुरवपुर पहुँचे। उन्होंने अपना परिचय नहीं दिया। वे वहाँ एक साधारण संन्यासी की तरह रहे, और राह चलते लोगों ने केवल नदी किनारे बैठे एक युवक को देखा।\n\nफिर भी सिद्ध ने नामधारक को बताया कि यही गाँव गुरु के सबसे प्रिय निवास-स्थानों में से एक बनेगा, ऐसा स्थान जहाँ उनके भक्त सदियों तक आएँगे। इस बीच कुरवपुर अपने साधारण दुःखों के साथ चलता रहा, और उन्हीं में से एक दुःख एक ऐसा ब्राह्मण परिवार था जो चुपचाप बिखर रहा था, जिसके जीवित एकमात्र पुत्र न बोल सकते थे, न कुछ सीख सकते थे। श्रीपाद की कुरवपुर की राह श्रीगिरि और निवृत्ति संगम से होकर गई, जिन स्थानों को श्री गुरुचरित्र पवित्र भूमि मानता है, और वह कृष्णा के तट पर जाकर समाप्त हुई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गोकर्णमध्ये तीन शांत वर्षे घालवल्यानंतर श्रीपाद श्रीवल्लभ श्रीगिरी आणि निवृत्ती संगमामार्गे पुढे गेले, आणि शेवटी कृष्णा नदीकाठच्या कुरवपूर गावी पोहोचले. त्यांनी आपली ओळख दिली नाही. ते तिथे एका साध्या संन्याशाप्रमाणे राहिले, आणि वाटेने जाणाऱ्यांना फक्त पाण्याजवळ बसलेला एक तरुण दिसला.\n\nतरीही सिद्धांनी नामधारकांना सांगितले की हे गाव गुरूंच्या सर्वात प्रिय निवासस्थानांपैकी एक होईल, असे ठिकाण जिथे त्यांचे भक्त शतकानुशतके येतील. तोपर्यंत कुरवपूर आपल्या साध्या दुःखांसह चालत होते, आणि त्यापैकी एक दुःख एक असे ब्राह्मण कुटुंब होते जे शांतपणे विस्कटत होते, ज्यांचा एकमेव जिवंत मुलगा बोलू शकत नव्हता आणि शिकूही शकत नव्हता. श्रीपादांची कुरवपूरकडची वाट श्रीगिरी आणि निवृत्ती संगमातून गेली, ज्यांना श्री गुरुचरित्र पवित्र भूमी मानते, आणि ती कृष्णेच्या काठी संपली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Mother and a Silent Son",
+    "hi": {
+     "text": "एक माता और मूक पुत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक आई आणि मूक मुलगा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In Kuravpur lived a brahmin and his devoted wife Ambika. Their only surviving son was dull of mind and could not speak. The father, in his frustration, beat the boy, hoping to force some learning into him, but nothing helped. Then the father died, and the mother and her son were left with no income. They lived by begging door to door, and the townspeople mocked the boy and sneered at the mother who had borne him.\n\nThe Gurucharitra does not look away from this cruelty. Disabled and poor, the boy was treated as a shame on the house, and his mother carried both his silence and the village’s contempt. Day after day she grew thinner and quieter, until she could see no road left but one, and it ran down to the river. The family that had once held a place in the village now found even neighbours looking away from its door.",
+    "hi": {
+     "text": "कुरवपुर में एक ब्राह्मण और उनकी समर्पित पत्नी अंबिका रहते थे। उनका एकमात्र जीवित पुत्र मंद बुद्धि का था और बोल नहीं सकता था। पिता अपनी निराशा में बालक को मारते-पीटते थे, इस आशा में कि कुछ विद्या उसमें भर जाए, पर कुछ लाभ न हुआ। फिर पिता का देहांत हो गया, और माता और पुत्र के पास कोई आय न रही। वे घर-घर भिक्षा माँगकर जीने लगे, और नगरवासी बालक का उपहास करते और उसकी माता पर भी ताने कसते, जिसने उसे जन्म दिया था।\n\nश्री गुरुचरित्र इस क्रूरता से दृष्टि नहीं फेरता। अपंग और दरिद्र होने के कारण बालक को घर पर कलंक माना गया, और उसकी माता उसकी मूकता और गाँव की घृणा, दोनों ढोती रहीं। दिन-प्रतिदिन वे और दुबली और चुप होती गईं, जब तक उन्हें नदी तक जाने वाली एक ही राह नहीं दिखने लगी। जिस परिवार की गाँव में कभी इज़्ज़त थी, उसी के द्वार से अब पड़ोसी भी नज़रें फेर लेते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कुरवपूरमध्ये एक ब्राह्मण आणि त्यांची निष्ठावान पत्नी अंबिका राहत होते. त्यांचा एकमेव जिवंत मुलगा मंद बुद्धीचा होता आणि बोलू शकत नव्हता. वडील निराशेत मुलाला मारत, या आशेने की त्याच्यात काहीतरी विद्या भरेल, पण काहीही उपयोग झाला नाही. मग वडिलांचे निधन झाले, आणि आई व मुलाला कोणतीही उत्पन्नाची साधने उरली नाहीत. ते घरोघर भिक्षा मागून जगू लागले, आणि नगरातील लोक मुलाची थट्टा करत आणि ज्या आईने त्याला जन्म दिला तिच्यावरही टोमणे मारत.\n\nश्री गुरुचरित्र या क्रौर्याकडे पाठ फिरवत नाही. अपंग आणि गरीब असल्यामुळे मुलाला घराची लाज मानले गेले, आणि आईने त्याचे मौन आणि गावाची तिरस्कार दोन्ही वाहिले. दिवसेंदिवस ती अधिकच कृश आणि शांत होत गेली, जोपर्यंत तिला नदीकडे जाणारा एकच मार्ग उरला नाही असे वाटू लागले. ज्या कुटुंबाला गावात कधी मान होता, त्याच्या दारातून आता शेजारीसुद्धा नजर फिरवत होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Edge of the Krishna",
+    "hi": {
+     "text": "कृष्णा का किनारा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कृष्णेचा काठ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One day Ambika took her son by the hand and walked down to the Krishna to end both their lives. She was not weak or foolish. She had been pushed past the last limit of endurance, and her love for her son would not let her leave him behind in a world that scorned him.\n\nAt that moment Shripad Shrivallabha stepped in front of them and stopped them. He asked her gently to tell him what had brought her there, and for the first time in a long while someone listened to her whole story without judgement. She spoke, and the weight she had carried alone began to lift just from being told. The boy stood beside her, silent, holding her hand. The river that fed the whole village now seemed to Ambika the only place left that would take her in.",
+    "hi": {
+     "text": "एक दिन अंबिका अपने पुत्र का हाथ पकड़कर कृष्णा तक गईं, ताकि दोनों के प्राण दे दें। वे कमज़ोर या मूर्ख नहीं थीं। उन्हें सहनशक्ति की अंतिम सीमा तक धकेल दिया गया था, और पुत्र के प्रति उनका प्रेम उसे ऐसे संसार में पीछे छोड़ने नहीं देता था जो उसका तिरस्कार करता था।\n\nउसी क्षण श्रीपाद श्रीवल्लभ उनके और नदी के बीच आ खड़े हुए और उन्हें रोक लिया। उन्होंने कोमलता से पूछा कि उन्हें वहाँ किस बात ने पहुँचाया है, और बहुत समय बाद किसी ने बिना निर्णय दिए उनकी पूरी कथा सुनी। उन्होंने कहा, और जो भार वे अकेले ढो रही थीं, वह केवल कह देने भर से हल्का होने लगा। बालक मौन होकर उनके पास खड़ा रहा, माँ का हाथ थामे। जिस नदी से पूरा गाँव जीवन पाता था, वही अब अंबिका को एकमात्र ऐसा स्थान लगी जो उन्हें अपनाएगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एके दिवशी अंबिकेने मुलाचा हात धरला आणि दोघांचा जीव द्यायला कृष्णेकडे चालत गेली. ती दुर्बल किंवा मूर्ख नव्हती. तिला सहनशक्तीच्या शेवटच्या मर्यादेपर्यंत ढकलले गेले होते, आणि मुलावरील प्रेम तिला अशा जगात त्याला मागे सोडू देत नव्हते जे त्याचा तिरस्कार करत होते.\n\nत्याच क्षणी श्रीपाद श्रीवल्लभ त्यांच्यासमोर आले आणि त्यांना थांबवले. त्यांनी हळुवारपणे विचारले की तिला तिथे काय घेऊन आले आहे, आणि बऱ्याच काळानंतर कोणीतरी निर्णय न देता तिची संपूर्ण कथा ऐकली. ती बोलली, आणि एकटीने वाहिलेले ओझे फक्त सांगितल्याने हलके होऊ लागले. मुलगा तिचा हात धरून मौन उभा राहिला. ज्या नदीने संपूर्ण गावाला जीवन दिले होते, तीच अंबिकेला एकमेव अशी जागा वाटली जी तिला स्वीकारेल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Remedy and Three Stories",
+    "hi": {
+     "text": "एक उपाय और तीन कथाएँ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक उपाय आणि तीन कथा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shripad advised Ambika to worship Shiva on Shani Pradosh, the Saturday evening of the thirteenth lunar day. To teach her faith he told her stories. First came King Chandrasen of Ujjain, whose minister Manibhadra owned a wish-fulfilling gem, the chintamani. While Chandrasen was at his worship, enemy kings attacked his city, yet the worship protected him.\n\nThen came the cowherd boys, who imitated Chandrasen’s worship with a plain stone for a linga. Shiva was so pleased with their innocent devotion that he rewarded them with a temple, although one boy’s mother, not understanding, destroyed the play-shrine in anger. The point of these stories was simple: sincere devotion matters more than status, wealth or learning, and a child’s stone can please God as much as a king’s jewels. Shani Pradosh falls when the thirteenth day of the lunar fortnight coincides with Saturday, and is held as an especially favourable hour for Shiva’s worship.",
+    "hi": {
+     "text": "श्रीपाद ने अंबिका को शनि प्रदोष पर शिव की पूजा करने का उपदेश दिया, जो चंद्र-मास के तेरहवें दिन और शनिवार की संध्या होती है। उनकी श्रद्धा को सिखाने के लिए उन्होंने कथाएँ सुनाईं। पहले उज्जैन के राजा चंद्रसेन की कथा आई, जिनके मंत्री मणिभद्र के पास चिंतामणि नामक इच्छा पूर्ण करने वाला रत्न था। जब चंद्रसेन पूजा में लीन थे, तब शत्रु राजाओं ने उनकी नगरी पर आक्रमण किया, फिर भी उस पूजा ने उन्हें सुरक्षित रखा।\n\nफिर ग्वाले बालकों की कथा आई, जिन्होंने चंद्रसेन की पूजा का अनुकरण करते हुए एक साधारण पत्थर को शिवलिंग बनाया। शिव उनकी निष्कपट भक्ति से ऐसे प्रसन्न हुए कि उन्हें एक मंदिर का वरदान दिया, यद्यपि एक बालक की माता ने, बिना समझे, क्रोध में उस खेल वाले मंदिर को तोड़ दिया। इन कथाओं का सार सरल था: सच्ची भक्ति पद, धन या विद्या से अधिक मायने रखती है, और एक बालक का पत्थर भी ईश्वर को उतना ही प्रसन्न कर सकता है जितने राजा के रत्न। शनि प्रदोष तब आता है जब चंद्र-मास का तेरहवाँ दिन शनिवार से मेल खाता है, और शिव की पूजा के लिए इसे विशेष शुभ समय माना जाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीपादांनी अंबिकेला शनिप्रदोषाला शिवाची पूजा करण्याचा सल्ला दिला, जो चंद्र-मासाच्या तेराव्या दिवशी शनिवारची संध्याकाळ असते. तिची श्रद्धा शिकवण्यासाठी त्यांनी कथा सांगितल्या. प्रथम उज्जैनचा राजा चंद्रसेनाची कथा आली, ज्याच्या मंत्री मणिभद्राकडे चिंतामणी नावाचे इच्छापूर्ती करणारे रत्न होते. चंद्रसेन पूजेत असताना शत्रू राजांनी त्याच्या नगरीवर हल्ला केला, तरीही त्या पूजेने त्याचे रक्षण केले.\n\nनंतर गुराख्यांच्या मुलांची कथा आली, ज्यांनी चंद्रसेनाच्या पूजेचे अनुकरण करत एका साध्या दगडाला शिवलिंग मानले. शिव त्यांच्या निरागस भक्तीने इतके प्रसन्न झाले की त्यांना एक मंदिर बहाल केले, जरी एका मुलाच्या आईने, न समजता, रागाच्या भरात त्या खेळातील मंदिर फोडून टाकले. या कथांचा सरळ संदेश होता: प्रामाणिक भक्ती दर्जा, संपत्ती किंवा विद्येपेक्षा अधिक महत्त्वाची असते, आणि मुलाचा दगडही राजाच्या रत्नांइतकाच देवाला प्रसन्न करू शकतो. शनिप्रदोष तेव्हा येतो जेव्हा चंद्र-मासाचा तेरावा दिवस शनिवारी येतो, आणि शिवपूजेसाठी ती विशेष शुभ वेळ मानली जाते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Boy Who Knew the Vedas",
+    "hi": {
+     "text": "वेद जानने वाला बालक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वेद जाणणारा मुलगा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When Shripad finished, he blessed the dull boy. In that instant the child, who had never spoken, knew the Vedas, and began to speak. Mother and son stood by the river, no longer begging, no longer ashamed. The Gurucharitra tells this as a sign of grace, and its meaning is that no person is beyond the Guru’s reach.\n\nThe tale has a quiet echo. In a later chapter the Siddha will tell us that this same Ambika is reborn as the mother of Narasimha Saraswati, the Guru’s own later form. The woman who nearly gave up on life became, in the long view of the book, the woman who carried the Guru himself. Her darkest hour was not the end of her story at all. For the first time in years, mother and son had a different kind of tomorrow to walk toward.",
+    "hi": {
+     "text": "जब श्रीपाद अपनी बात पूरी कर चुके, तो उन्होंने उस मंद बुद्धि बालक को आशीर्वाद दिया। उसी क्षण, जो बालक कभी बोला नहीं था, उसे वेद आ गए, और वह बोलने लगा। माता और पुत्र नदी के किनारे खड़े थे, अब न भिक्षा माँगते हुए, न लज्जित। श्री गुरुचरित्र इसे कृपा का चिह्न बताता है, और इसका अर्थ है कि कोई भी व्यक्ति गुरु की पहुँच से बाहर नहीं है।\n\nइस कथा की एक शांत प्रतिध्वनि भी है। एक आगे के अध्याय में सिद्ध बताएँगे कि यही अंबिका अगले जन्म में नृसिंह सरस्वती, गुरु के ही बाद के रूप, की माता बनीं। जो स्त्री जीवन से लगभग हार मान चुकी थी, वह ग्रंथ की दीर्घ दृष्टि में वह स्त्री बनी जिसने स्वयं गुरु को धारण किया। उसकी सबसे अंधकारमय घड़ी उसकी कथा का अंत नहीं थी। वर्षों बाद माता और पुत्र के पास एक अलग प्रकार का कल था, जिसकी ओर वे चल सकते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीपादांनी बोलणे संपवल्यावर त्यांनी त्या मंद बुद्धीच्या मुलाला आशीर्वाद दिला. त्याच क्षणी, जो मुलगा कधी बोललाच नव्हता, त्याला वेद येऊ लागले, आणि तो बोलू लागला. आई आणि मुलगा नदीकाठी उभे होते, आता भिक्षा मागत नव्हते, लाजत नव्हते. श्री गुरुचरित्र याला कृपेचे चिन्ह मानते, आणि याचा अर्थ असा की गुरूंच्या पोहोचीबाहेर कोणताही माणूस नाही.\n\nया कथेचा एक शांत प्रतिध्वनी आहे. एका पुढील अध्यायात सिद्ध सांगतील की हीच अंबिका पुढच्या जन्मात नृसिंह सरस्वतींची, म्हणजे गुरूंच्याच नंतरच्या रूपाची, आई झाली. जी स्त्री जीवनाची आशा सोडून देणार होती, ती ग्रंथाच्या दीर्घ दृष्टीत अशी स्त्री बनली जिने स्वतः गुरूंना धारण केले. तिची सर्वात अंधारी घडी तिच्या कथेचा शेवट नव्हती. वर्षांनंतर माता आणि मुलासमोर एक वेगळा उद्या होता, ज्याकडे ते चालू शकत होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there someone near you who is struggling quietly, perhaps ashamed to ask for help? Reach out today with one kind sentence or small offer.",
+  "hi": {
+   "text": "क्या आपके आसपास कोई चुपचाप संघर्ष कर रहा है, शायद लज्जा के कारण सहायता माँगने से हिचकता हुआ? आज एक दयालु वाक्य या छोटे प्रस्ताव से उसका हाथ थामिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या आसपास कोणी शांतपणे झगडत आहे का, कदाचित लाजेमुळे मदत मागायला कचरत असेल? आज एका दयाळू वाक्याने किंवा छोट्या प्रस्तावाने त्याचा हात धरा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "No one is too low, too slow or too far gone to be held by grace, and the darkest hour is not the whole story.",
+  "hi": {
+   "text": "कोई भी इतना नीचा, इतना धीमा या इतना खोया हुआ नहीं कि कृपा उसे न थाम सके, और सबसे अंधकारमय घड़ी पूरी कहानी नहीं होती।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणीही इतका खालचा, इतका मंद किंवा इतका हरवलेला नसतो की कृपा त्याला धरू शकणार नाही, आणि सर्वात अंधारी घडी ही संपूर्ण गोष्ट नसते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 8; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 8; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 8; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

@@ -7,35 +7,35 @@
  "order": 1,
  "part": "jnana",
  "figure": {
-  "en": "Namdharak and the Siddha",
+  "en": "Namdharak",
   "hi": {
-   "text": "नामधारक और सिद्ध",
+   "text": "नामधारक",
    "reviewed": false
   },
   "mr": {
-   "text": "नामधारक आणि सिद्ध",
+   "text": "नामधारक",
    "reviewed": false
   }
  },
  "title": {
-  "en": "The Seeker and the Siddha",
+  "en": "A Dream on the Road to Ganagapur",
   "hi": {
-   "text": "साधक और सिद्ध",
+   "text": "गाणगापुर की राह का स्वप्न",
    "reviewed": false
   },
   "mr": {
-   "text": "साधक आणि सिद्ध",
+   "text": "गाणगापूरच्या वाटेवरील स्वप्न",
    "reviewed": false
   }
  },
  "teaser": {
-  "en": "A tired young man dreams of a teacher he has never met, then meets a stranger on the road who seems to know him.",
+  "en": "A burdened householder sets out on foot to find the Guru, and falls asleep arguing with him in prayer.",
   "hi": {
-   "text": "एक थका हुआ युवक एक ऐसे गुरु का स्वप्न देखता है जिनसे वह कभी मिला नहीं, फिर राह में एक अजनबी मिलता है जो उसे पहचानता-सा लगता है।",
+   "text": "थकी हुई आशा लिए एक गृहस्थ पैदल गुरु को खोजने निकलता है, और प्रार्थना में तर्क करते हुए सो जाता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "एक थकलेला तरुण कधी न भेटलेल्या गुरूंचे स्वप्न पाहतो, मग वाटेत एक अनोळखी भेटतो जो त्याला ओळखत असल्यासारखा वाटतो.",
+   "text": "थकलेली आशा घेऊन एक गृहस्थ पायी गुरूंना शोधायला निघतो, आणि प्रार्थनेत त्यांच्याशी वाद घालता घालता झोपी जातो.",
    "reviewed": false
   }
  },
@@ -62,107 +62,155 @@
  "scenes": [
   {
    "title": {
-    "en": "A weary seeker",
+    "en": "The Road of a Troubled Householder",
     "hi": {
-     "text": "एक थका हुआ साधक",
+     "text": "एक चिंतित गृहस्थ की राह",
      "reviewed": false
     },
     "mr": {
-     "text": "थकलेला साधक",
+     "text": "एका चिंताग्रस्त गृहस्थाची वाट",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Long ago, a young man named Namdharak wandered the roads, tired in body and heavier in heart. He had studied, travelled and tried many paths, yet peace kept slipping through his fingers. Doubts crowded his mind. Was there truly a teacher who could show the way, or was the search only the habit of a restless soul?\n\nOne night, worn out, he fell asleep and dreamed. A radiant figure stood before him, calm and kind, and the dream carried a feeling he could not name, as if someone had been waiting for him all along. He woke before dawn with a new kind of hunger. He no longer wanted clever answers. He wanted to find that face and sit quietly in its presence.",
+    "en": "The Gurucharitra opens with invocations to Ganesha, Saraswati and the three great gods, and with Saraswati Gangadhar’s humble note that he writes at the Guru’s own command. He mentions his family line and apologises in advance for any mistakes. Only then does the tale begin, in the town of Ganagapur, with a man named Namdharak.\n\nNamdharak was a householder weighed down by troubles at home. One day he made a hard resolution: he would walk to Ganagapur and see Shri Guru, or give up his life trying. With that vow in his heart he set out on foot. It was not the calm pilgrimage of a contented man. It was the journey of someone who had run out of other doors to knock on, and who carried his fatigue and his hope in the very same bundle. The author names his own line at the start of the book: the ancestor Sayandev, his father Gangadhar and his mother Champa.",
     "hi": {
-     "text": "बहुत समय पहले नामधारक नाम का एक युवक राहों पर भटकता था, शरीर से थका और मन से और भी भारी। उसने अध्ययन किया था, यात्राएँ की थीं, अनेक मार्ग आज़माए थे, फिर भी शांति उसकी मुट्ठी से फिसलती रही। मन में संशय भीड़ लगाए रहते। क्या सचमुच कोई ऐसा गुरु है जो राह दिखा सके, या यह खोज किसी बेचैन आत्मा की आदत भर है?\n\nएक रात, थककर, वह सो गया और उसने स्वप्न देखा। एक तेजस्वी आकृति उसके सामने खड़ी थी, शांत और करुणामय, और उस स्वप्न में ऐसा भाव था जिसे वह नाम न दे सका, मानो कोई उसकी प्रतीक्षा में पहले से बैठा हो। वह भोर से पहले जागा, एक नई तरह की भूख लिए। अब उसे चतुर उत्तर नहीं चाहिए थे। वह उस मुख को खोजकर उसके सान्निध्य में शांत बैठना चाहता था।",
+     "text": "श्री गुरुचरित्र गणेश, सरस्वती और तीनों महादेवों की वंदना से आरंभ होता है, और सरस्वती गंगाधर की उस विनम्र टिप्पणी से, जो उन्होंने गुरु की अपनी आज्ञा से लिखी। वे अपने वंश का उल्लेख करते हैं और पहले ही किसी भी भूल के लिए क्षमा माँग लेते हैं। तभी कथा आरंभ होती है, गाणगापुर नगर में, नामधारक नाम के एक व्यक्ति से।\n\nनामधारक एक गृहस्थ थे, जिन्हें घर की चिंताएँ दबाए रहती थीं। एक दिन उन्होंने कठिन संकल्प लिया: वे पैदल गाणगापुर जाएँगे और श्री गुरु के दर्शन करेंगे, या इस प्रयास में प्राण दे देंगे। इसी संकल्प को मन में लिए वे पैदल निकल पड़े। यह किसी संतुष्ट मनुष्य की शांत तीर्थयात्रा नहीं थी। यह उस व्यक्ति की यात्रा थी जिसके लिए खटखटाने को और दरवाज़े बचे ही नहीं थे, और जो अपनी थकान और अपनी आशा, दोनों एक ही गठरी में लिए चल रहा था। लेखक ग्रंथ के आरंभ में अपने वंश का भी उल्लेख करते हैं: पूर्वज सायंदेव, पिता गंगाधर और माता चंपा।",
      "reviewed": false
     },
     "mr": {
-     "text": "फार पूर्वी नामधारक नावाचा एक तरुण रस्त्यांवरून भटकत होता, शरीराने थकलेला आणि मनाने त्याहून जड. त्याने अभ्यास केला होता, प्रवास केले होते, अनेक मार्ग अजमावले होते, तरीही शांती त्याच्या मुठीतून निसटत राहिली. मनात शंकांची गर्दी होई. खरोखर वाट दाखवणारा कोणी गुरू आहे का, की हा शोध म्हणजे अस्वस्थ जीवाची केवळ सवय आहे?\n\nएका रात्री, थकून तो झोपी गेला आणि त्याला स्वप्न पडले. एक तेजस्वी आकृती त्याच्यासमोर उभी होती, शांत आणि मायाळू, आणि त्या स्वप्नात अशी भावना होती जिला तो नाव देऊ शकला नाही, जणू कोणी त्याची आधीपासूनच वाट पाहत बसले होते. पहाटेपूर्वी तो जागा झाला, एका नव्या प्रकारच्या भुकेसह. आता त्याला हुशार उत्तरे नको होती. त्याला तो चेहरा शोधून त्याच्या सान्निध्यात शांत बसायचे होते.",
+     "text": "श्री गुरुचरित्राची सुरुवात गणेश, सरस्वती आणि तीन महादेवांच्या स्तुतीने होते, आणि सरस्वती गंगाधर यांच्या नम्र टिपणीने होते, जी त्यांनी गुरूंच्या आज्ञेने लिहिली. ते आपल्या वंशाचा उल्लेख करतात आणि आधीच चुकांबद्दल क्षमा मागतात. त्यानंतर कथा गाणगापूर नगरात, नामधारक नावाच्या एका माणसापासून सुरू होते.\n\nनामधारक एक गृहस्थ होते, ज्यांना घरच्या चिंतांनी दाबून टाकले होते. एके दिवशी त्यांनी एक कठोर संकल्प केला: ते पायी गाणगापूरला जातील आणि श्री गुरूंचे दर्शन घेतील, नाहीतर हा प्रयत्न करताना प्राण देतील. हाच संकल्प मनात घेऊन ते पायी निघाले. ही एखाद्या समाधानी माणसाची शांत तीर्थयात्रा नव्हती. ज्याच्यासाठी ठोठावायला आणखी दारे उरली नव्हती, आणि जो आपला थकवा आणि आपली आशा एकाच गाठोड्यात घेऊन चालत होता, अशा माणसाचा तो प्रवास होता. लेखकाने ग्रंथाच्या सुरुवातीला आपला वंशही सांगितला आहे: पूर्वज सायंदेव, वडील गंगाधर आणि आई चंपा.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "The Siddha on the road",
+    "en": "An Argument in Prayer",
     "hi": {
-     "text": "राह में सिद्ध",
+     "text": "प्रार्थना में तर्क",
      "reviewed": false
     },
     "mr": {
-     "text": "वाटेतील सिद्ध",
+     "text": "प्रार्थनेत वाद",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Soon afterwards, on a dusty road, Namdharak met a luminous traveller whom people called a Siddha, one who has walked the path to its end. The Siddha looked at him with such gentle attention that the young man’s doubts came tumbling out. He spoke of his tiredness, his many questions, and the dream that would not leave him alone.\n\nThe Siddha listened without hurry, then smiled. He asked Namdharak to describe the figure in the dream, and as the young man spoke, the Siddha’s eyes filled with quiet joy. This is the Guru, he said, the one who appears in every age to lift those who are lost. Come, sit beside me, and I will tell you how he came, and how he still comes.",
+    "en": "As he walked, Namdharak spoke to the Guru in his mind, and his prayer was half devotion and half complaint. You are the touchstone that turns iron to gold, he said. You are the Trimurti, mother, father and protector. Then he reminded the Guru of those who had been rescued before him: Bali, Vibhishana, Dhruva and Prahlad, and Parashurama too.\n\nWhy, then, he asked, must a devotee suffer, when his own forefathers had also served this Guru? It was a bold question, and Saraswati Gangadhar does not hide it. Namdharak did not accuse; he asked to understand, like a child who knows he is loved and cannot see why he is hurting. Still he kept walking, still he kept arguing, and the argument itself was a way of keeping hold of the Guru’s hem. Even at his angriest he never turned back toward home.",
     "hi": {
-     "text": "इसके कुछ ही समय बाद, एक धूल-भरी राह पर, नामधारक को एक तेजोमय यात्री मिला जिसे लोग सिद्ध कहते थे, वह जो मार्ग को उसके अंत तक चल चुका है। सिद्ध ने उसे इतने कोमल ध्यान से देखा कि युवक के संशय अपने आप उमड़ पड़े। उसने अपनी थकान की बात की, अपने अनेक प्रश्नों की, और उस स्वप्न की जो उसका पीछा नहीं छोड़ता था।\n\nसिद्ध ने बिना जल्दी किए सुना, फिर मुस्कुराए। उन्होंने नामधारक से स्वप्न की उस आकृति का वर्णन करने को कहा, और जैसे-जैसे युवक बोलता गया, सिद्ध की आँखें शांत आनंद से भर गईं। यही गुरु हैं, उन्होंने कहा, जो हर युग में खोए हुओं को उठाने प्रकट होते हैं। आओ, मेरे पास बैठो, मैं तुम्हें बताऊँगा कि वे कैसे आए, और आज भी कैसे आते हैं।",
+     "text": "चलते-चलते नामधारक मन ही मन गुरु से बात करते रहे, और उनकी प्रार्थना आधी भक्ति थी और आधी शिकायत। उन्होंने कहा, आप वह पारस हैं जो लोहे को सोना कर देता है। आप त्रिमूर्ति हैं, माता, पिता और रक्षक। फिर उन्होंने उन भक्तों को याद दिलाया जो पहले उबारे गए थे: बलि, विभीषण, ध्रुव और प्रह्लाद, और परशुराम भी।\n\nतो फिर, उन्होंने पूछा, भक्त को कष्ट क्यों सहना पड़े, जब उनके अपने पूर्वजों ने भी इन्हीं गुरु की सेवा की थी? यह साहसी प्रश्न था, और सरस्वती गंगाधर इसे छिपाते नहीं। नामधारक ने आरोप नहीं लगाया; उन्होंने समझना चाहा, ठीक वैसे जैसे कोई बच्चा जानता है कि उससे प्रेम किया जाता है, फिर भी समझ नहीं पाता कि उसे चोट क्यों लगी। फिर भी वे चलते रहे, तर्क करते रहे, और यह तर्क ही गुरु के वस्त्र का छोर थामे रहने का उनका तरीका था। अपने सबसे क्रोधित क्षणों में भी वे घर की ओर मुड़कर नहीं लौटे।",
      "reviewed": false
     },
     "mr": {
-     "text": "त्यानंतर लवकरच, एका धुळीच्या वाटेवर, नामधारकाला एक तेजस्वी प्रवासी भेटला, ज्याला लोक सिद्ध म्हणत, ज्याने मार्ग शेवटापर्यंत चालून पूर्ण केला आहे. सिद्धांनी त्याच्याकडे इतक्या प्रेमळ लक्षाने पाहिले की तरुणाच्या शंका आपोआप बाहेर उसळल्या. त्याने आपल्या थकव्याबद्दल सांगितले, आपल्या अनेक प्रश्नांबद्दल, आणि पाठ न सोडणाऱ्या त्या स्वप्नाबद्दल.\n\nसिद्धांनी घाई न करता ऐकले, मग हसले. त्यांनी नामधारकाला स्वप्नातील आकृतीचे वर्णन करायला सांगितले, आणि जसजसा तरुण बोलत गेला, सिद्धांचे डोळे शांत आनंदाने भरून आले. हेच ते गुरू, ते म्हणाले, जे प्रत्येक युगात हरवलेल्यांना उचलण्यासाठी प्रकटतात. ये, माझ्या शेजारी बस, मी तुला सांगतो की ते कसे आले, आणि आजही कसे येतात.",
+     "text": "चालता चालता नामधारक मनातल्या मनात गुरूंशी बोलत होते, आणि त्यांची प्रार्थना अर्धी भक्ती आणि अर्धी तक्रार अशी होती. ते म्हणाले, आपण तो परीस आहात जो लोखंडाचे सोने करतो. आपण त्रिमूर्ती आहात, माता, पिता आणि रक्षक. मग त्यांनी त्या भक्तांची आठवण करून दिली जे पूर्वी उद्धरले गेले होते: बळी, विभीषण, ध्रुव आणि प्रल्हाद, आणि परशुरामही.\n\nमग, त्यांनी विचारले, भक्ताने दुःख का सोसावे, जेव्हा त्याच्या स्वतःच्या पूर्वजांनीही या गुरूंची सेवा केली होती? हा धाडसी प्रश्न होता, आणि सरस्वती गंगाधर तो लपवत नाहीत. नामधारक यांनी आरोप केला नाही; त्यांनी समजून घ्यायचे होते, जसे एखादे मूल जाणते की त्याच्यावर प्रेम आहे, पण त्याला दुखावले का जाते ते समजत नाही. तरीही ते चालत राहिले, वाद घालत राहिले, आणि तो वादच गुरूंच्या वस्त्राचा पदर धरून ठेवण्याचा त्यांचा मार्ग होता. सर्वात संतापातही ते घराकडे परत फिरले नाहीत.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "The tree that grants wishes",
+    "en": "Sleep Beneath a Tree",
     "hi": {
-     "text": "कल्पवृक्ष",
+     "text": "पेड़ की छाया में नींद",
      "reviewed": false
     },
     "mr": {
-     "text": "कल्पवृक्ष",
+     "text": "झाडाखाली झोप",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The Siddha explained why a seeker needs a guide. A wish-fulfilling tree, he said, gives whatever is asked of it, yet it is found only by those who go looking with a sincere heart. The Guru is like that tree, and more. He gives not only what we ask for, but what we truly need, and sometimes what we did not know how to ask.\n\nThe Gurucharitra, he told Namdharak, is the story of such a teacher in the line of Dattatreya, set down by Saraswati Gangadhar and loved for centuries across Maharashtra and Karnataka. Listen with an open heart, said the Siddha. Honest doubt is welcome here, for doubt is only love that has not yet found its footing. And so, in the shade of a roadside tree, the great tale began.",
+    "en": "The road was long and Namdharak’s body gave out before his questions did. Somewhere on the way to Ganagapur he sat down under a tree to rest, the vow still burning inside him: to see Shri Guru, or to give up his life. His feet were dusty, his throat was dry, and his thoughts, for the first time in days, had gone quiet.\n\nHe lay back against the trunk and slept. The detail speaks for itself: the great meeting does not begin at the end of effort but at the moment effort runs out. A man who had walked and argued and wept had finally stopped steering, and in that stillness, under an ordinary tree beside an ordinary road, the Gurucharitra lets something extraordinary come close to him while he is not looking. He had left his house with nothing but a vow and a bundle.",
     "hi": {
-     "text": "सिद्ध ने समझाया कि साधक को मार्गदर्शक क्यों चाहिए। उन्होंने कहा कि कल्पवृक्ष जो माँगा जाए वह देता है, फिर भी वह उन्हीं को मिलता है जो सच्चे हृदय से उसे खोजने निकलते हैं। गुरु उसी वृक्ष जैसे हैं, और उससे बढ़कर। वे केवल वह नहीं देते जो हम माँगते हैं, बल्कि वह देते हैं जिसकी हमें सचमुच ज़रूरत है, और कभी वह भी जिसे माँगना हमें आता न था।\n\nउन्होंने नामधारक को बताया कि गुरुचरित्र ऐसे ही एक गुरु की कथा है, दत्तात्रेय की परंपरा में, जिसे सरस्वती गंगाधर ने लिखा और जो महाराष्ट्र और कर्नाटक में सदियों से प्रिय है। खुले हृदय से सुनो, सिद्ध ने कहा। यहाँ सच्चे संशय का स्वागत है, क्योंकि संशय बस वह प्रेम है जिसे अभी पैर टिकाने की जगह नहीं मिली। और इस तरह, राह किनारे के एक वृक्ष की छाया में, महान कथा आरंभ हुई।",
+     "text": "राह लंबी थी, और नामधारक का शरीर प्रश्नों से पहले थक गया। गाणगापुर की राह में कहीं वे एक पेड़ के नीचे विश्राम करने बैठ गए, मन में वही संकल्प अब भी जल रहा था: श्री गुरु के दर्शन करें, या प्राण त्याग दें। उनके पाँव धूल से भरे थे, गला सूख रहा था, और उनके विचार, कई दिनों बाद पहली बार, शांत हो गए थे।\n\nवे तने से पीठ टिकाकर लेट गए और सो गए। यह प्रसंग अपने आप में बहुत कुछ कह देता है: महान मिलन प्रयास के अंत में नहीं, बल्कि उस क्षण में होता है जब प्रयास थक जाता है। एक मनुष्य, जो चला, तर्क करता रहा और रोया, अब आख़िरकार अपने को सँभालना छोड़ चुका था, और उस स्थिरता में, एक साधारण पेड़ के नीचे, एक साधारण राह के किनारे, श्री गुरुचरित्र दिखाता है कि कुछ असाधारण उसके बेखबर रहते उसके पास आ जाता है। वे घर से केवल एक संकल्प और एक गठरी लेकर निकले थे।",
      "reviewed": false
     },
     "mr": {
-     "text": "सिद्धांनी समजावून सांगितले की साधकाला मार्गदर्शक का हवा. ते म्हणाले की कल्पवृक्ष जे मागावे ते देतो, तरी तो फक्त त्यांनाच सापडतो जे खऱ्या मनाने त्याला शोधायला निघतात. गुरू त्या वृक्षासारखे आहेत, आणि त्याहूनही अधिक. ते आपण जे मागतो तेवढेच देत नाहीत, तर आपल्याला खरोखर जे हवे ते देतात, आणि कधी ते देखील जे मागायचे कसे हे आपल्याला कळत नव्हते.\n\nत्यांनी नामधारकाला सांगितले की गुरुचरित्र हे अशाच एका गुरूंची कथा आहे, दत्तात्रेयांच्या परंपरेतील, जी सरस्वती गंगाधरांनी लिहिली आणि जी महाराष्ट्र आणि कर्नाटकात शतकानुशतके प्रिय आहे. मोकळ्या मनाने ऐक, सिद्ध म्हणाले. इथे प्रामाणिक शंकेचे स्वागत आहे, कारण शंका म्हणजे फक्त ते प्रेम जे अजून पाय रोवू शकले नाही. आणि अशा रीतीने, वाटेवरील एका झाडाच्या सावलीत, ती महान कथा सुरू झाली.",
+     "text": "वाट लांब होती, आणि नामधारक यांचे शरीर प्रश्नांआधीच थकले. गाणगापूरच्या वाटेवर कुठेतरी ते एका झाडाखाली विश्रांतीसाठी बसले, मनात तोच संकल्प अजून धगधगत होता: श्री गुरूंचे दर्शन घ्यायचे, नाहीतर प्राण द्यायचे. त्यांचे पाय धुळीने भरले होते, घसा कोरडा होता, आणि त्यांचे विचार, कित्येक दिवसांनंतर पहिल्यांदाच, शांत झाले होते.\n\nते खोडाला टेकून झोपी गेले. हा प्रसंग स्वतःच बरेच सांगून जातो: महान भेट प्रयत्नांच्या शेवटी होत नाही, तर प्रयत्न थकतात त्या क्षणी होते. चाललेला, वाद घातलेला आणि रडलेला माणूस अखेर स्वतःला सावरणे सोडून देतो, आणि त्या शांततेत, एका साध्या झाडाखाली, एका साध्या वाटेच्या कडेला, श्री गुरुचरित्र दाखवते की काहीतरी विलक्षण त्याच्या नकळत त्याच्या जवळ येते. घर सोडताना त्यांच्याजवळ फक्त एक संकल्प आणि एक गाठोडे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Radiant Figure",
+    "hi": {
+     "text": "तेजस्वी मूर्ति",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तेजस्वी मूर्ती",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the dream a figure appeared with matted hair and a body smeared with ash, his face full of kindness. Namdharak knew at once that this was Shri Guru. Nobody had to tell him, and he did not need to ask. The Guru stepped close, marked his forehead with ash, laid a hand on his head and blessed him, and the whole dream was held in a stillness that words could not carry.\n\nNamdharak woke amazed and deeply moved, his forehead almost warm where the ash had been. The troubles that had driven him out of his house had not vanished, yet something in him had been set straight. He had been seen. The question that had weighed on him all the way from home, whether anyone was truly listening, had been answered without a single word of argument. The ash on his brow was the first gift he had ever received from the Guru, and he touched it again and again.",
+    "hi": {
+     "text": "स्वप्न में एक मूर्ति प्रकट हुई, जिसके बाल जटाओं में बँधे थे और शरीर पर भस्म लगी थी, और जिसका मुख करुणा से भरा था। नामधारक ने तुरंत जान लिया कि यह श्री गुरु हैं। किसी को बताना नहीं पड़ा, और उन्हें पूछने की भी आवश्यकता नहीं हुई। गुरु पास आए, उनके ललाट पर भस्म लगाई, सिर पर हाथ रखकर आशीर्वाद दिया, और पूरा स्वप्न ऐसी स्तब्ध शांति में डूब गया जिसे शब्द नहीं सँभाल सकते।\n\nनामधारक अचंभित और गहरे भावुक होकर जागे, उनका ललाट जहाँ भस्म लगी थी वहाँ लगभग गर्म-सा था। जिन चिंताओं ने उन्हें घर से निकाला था, वे मिटी नहीं थीं, फिर भी उनके भीतर कुछ सीधा हो गया था। उन्हें देखा गया था। वह प्रश्न जो घर से निकलने के समय से उन पर बोझ था, कि क्या कोई सचमुच सुन रहा है, बिना किसी तर्क के एक शब्द के उत्तर पा चुका था। उनके माथे की भस्म गुरु का पहला उपहार था जो उन्होंने कभी पाया था, और वे बार-बार उसे छूते रहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्वप्नात एक मूर्ती प्रकट झाली, जटा बांधलेली आणि अंगावर भस्म लावलेली, चेहरा करुणेने भरलेला. नामधारक यांनी क्षणात ओळखले की ते श्री गुरू आहेत. कोणी सांगावे लागले नाही, आणि विचारायचीही गरज पडली नाही. गुरू जवळ आले, त्यांच्या कपाळाला भस्म लावले, डोक्यावर हात ठेवून आशीर्वाद दिला, आणि संपूर्ण स्वप्न अशा स्तब्ध शांततेत बुडाले जी शब्द सांभाळू शकत नाहीत.\n\nनामधारक थक्क आणि गहिवरून जागे झाले, जिथे भस्म लागले होते तिथे त्यांचे कपाळ जवळजवळ उबदार वाटत होते. ज्या चिंतांनी त्यांना घरातून बाहेर काढले होते, त्या नाहीशा झाल्या नव्हत्या, तरी त्यांच्यात काहीतरी सरळ झाले होते. त्यांना पाहिले गेले होते. घरून निघाल्यापासून ज्या प्रश्नाने त्यांना दाबले होते, की खरेच कोणी ऐकतेय का, त्याचे उत्तर एकही वादाचा शब्द न वापरता मिळाले होते. कपाळावरचे ते भस्म गुरूंनी दिलेली पहिली भेट होती, आणि ते वारंवार त्याला स्पर्श करत राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Why the Story Begins Here",
+    "hi": {
+     "text": "कथा यहीं से क्यों शुरू होती है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथा इथूनच का सुरू होते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Gurucharitra places this dream first for a reason. Before the great tales of Dattatreya, of Shripad Shrivallabha and Narasimha Saraswati, it wants us to meet an ordinary householder with a family, a burden and a vow. Namdharak is every reader who opens a sacred book with problems rather than answers.\n\nHe rises from beneath the tree, wipes the sleep from his eyes and walks on, and presently he will meet a man on the road who looks very much like the figure in his dream. That man will be a Siddha, a disciple of the Guru, and he will narrate the whole life of the Guru in reply to Namdharak’s questions. All of that waits just ahead. For now there is only a dusty road, a tree, a mark of ash and a man who has stopped being alone.",
+    "hi": {
+     "text": "श्री गुरुचरित्र यह स्वप्न इसी कारण सबसे पहले रखता है। दत्तात्रेय, श्रीपाद श्रीवल्लभ और नृसिंह सरस्वती की महान कथाओं से पहले, यह हमें एक साधारण गृहस्थ से मिलवाता है, जिसके पास परिवार है, बोझ है और एक संकल्प है। नामधारक हर उस पाठक का प्रतिनिधि है जो किसी पवित्र ग्रंथ को उत्तरों के बजाय समस्याओं के साथ खोलता है।\n\nवे पेड़ के नीचे से उठते हैं, आँखों से नींद पोंछते हैं और आगे चलते हैं, और थोड़ी ही देर में राह पर उन्हें एक ऐसा व्यक्ति मिलेगा जो स्वप्न की मूर्ति जैसा लगेगा। वह व्यक्ति एक सिद्ध होगा, गुरु का एक शिष्य, और नामधारक के प्रश्नों के उत्तर में वह गुरु का पूरा जीवन सुनाएगा। वह सब आगे प्रतीक्षा कर रहा है। अभी केवल एक धूल भरी राह है, एक पेड़ है, माथे पर भस्म का चिह्न है, और एक ऐसा व्यक्ति है जो अब अकेला नहीं है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री गुरुचरित्र हे स्वप्न यासाठीच प्रथम ठेवते. दत्तात्रेय, श्रीपाद श्रीवल्लभ आणि श्री नृसिंह सरस्वती यांच्या महान कथांपूर्वी, ते आपल्याला एका सामान्य गृहस्थाची ओळख करून देते, ज्याच्याकडे कुटुंब, ओझे आणि एक संकल्प आहे. नामधारक हा प्रत्येक वाचकाचा प्रतिनिधी आहे, जो पवित्र ग्रंथ उत्तरांऐवजी समस्यांसह उघडतो.\n\nते झाडाखालून उठतात, डोळ्यांवरची झोप पुसतात आणि पुढे चालतात, आणि थोड्याच वेळात रस्त्यावर त्यांना एक असा माणूस भेटेल जो स्वप्नातल्या मूर्तीसारखा दिसेल. तो माणूस सिद्ध असेल, गुरूंचा एक शिष्य, आणि नामधारकांच्या प्रश्नांना उत्तर म्हणून तो गुरूंचे संपूर्ण जीवन सांगेल. ते सर्व पुढे वाट पाहत आहे. आत्ता फक्त धुळीची वाट आहे, एक झाड आहे, कपाळावर भस्माची खूण आहे, आणि एक माणूस आहे जो आता एकटा नाही.",
      "reviewed": false
     }
    }
   }
  ],
  "reflect": {
-  "en": "Is there a question you have carried for a long time without asking it aloud? Write it down today in one honest sentence, and sit with it for two quiet minutes.",
+  "en": "What question or complaint have you been carrying quietly? Write it as an honest prayer today, even if it sounds like an argument, and read it aloud once.",
   "hi": {
-   "text": "कोई ऐसा प्रश्न है जिसे आप बहुत समय से मन में लिए घूम रहे हैं पर कभी ज़ोर से पूछा नहीं? आज उसे एक सच्चे वाक्य में लिखिए और दो शांत मिनट उसके साथ बैठिए।",
+   "text": "कौन-सा प्रश्न या शिकायत आप चुपचाप ढोते आ रहे हैं? आज उसे एक ईमानदार प्रार्थना के रूप में लिखिए, भले ही वह तर्क जैसा लगे, और उसे एक बार ज़ोर से पढ़िए।",
    "reviewed": false
   },
   "mr": {
-   "text": "एखादा प्रश्न तुम्ही खूप काळ मनात बाळगला आहे पण कधी मोठ्याने विचारला नाही? आज तो एका प्रामाणिक वाक्यात लिहा आणि दोन शांत मिनिटे त्याच्यासोबत बसा.",
+   "text": "कोणता प्रश्न किंवा तक्रार तुम्ही शांतपणे वाहत आला आहात? आज ती एक प्रामाणिक प्रार्थना म्हणून लिहा, जरी ती वादासारखी वाटली तरी, आणि ती एकदा मोठ्याने वाचा.",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "A sincere seeker, doubts and all, is already halfway to the teacher who is looking for them.",
+  "en": "A sincere seeker, doubts and all, is already on the way to the teacher who is looking for them.",
   "hi": {
-   "text": "सच्चा साधक, अपने संशयों सहित, उस गुरु की ओर आधी राह पहले ही तय कर चुका है जो उसे खोज रहा है।",
+   "text": "एक सच्चा साधक, संदेहों के साथ भी, पहले से ही उस गुरु की ओर चल पड़ा है जो उसे खोज रहे हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "प्रामाणिक साधक, आपल्या शंकांसह, आपला शोध घेणाऱ्या गुरूंकडे आधीच अर्धी वाट चालून गेलेला असतो.",
+   "text": "प्रामाणिक साधक, शंकांसह असला तरी, आधीच त्या गुरूंच्या दिशेने निघालेला असतो जे त्याचा शोध घेत आहेत.",
    "reviewed": false
   }
  },
  "source": {
-  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 1-2; retold in our own words",
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 1; retold in our own words",
   "hi": {
-   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 1 और 2; अपने शब्दों में पुनः कहा गया",
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 1; अपने शब्दों में पुनः कहा गया",
    "reviewed": false
   },
   "mr": {
-   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय १ व २; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 1; आमच्या शब्दांत पुनर्कथन",
    "reviewed": false
   }
  }

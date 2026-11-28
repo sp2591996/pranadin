@@ -47,19 +47,19 @@ test.describe("Story collections (D-038, D-040)", () => {
     expect(broken).toEqual([]);
   });
 
-  test("Gita, Dnyaneshwari and Gurucharitra are short illustrated summaries (D-041)", async ({ page }) => {
+  test("Gita, Dnyaneshwari and Gurucharitra are detailed illustrated summaries (D-041, D-043)", async ({ page }) => {
     await onboard(page, "en");
     for (const [club, count, part] of [
       ["bhagavad-gita", 18, /path of devotion/],
       ["dnyaneshwari", 20, /Karma: work as worship/],
-      ["gurucharitra", 22, /Bhakti kanda/],
+      ["gurucharitra", 53, /Bhakti kanda/],
     ] as const) {
       await page.goto(`/en/stories/${club}/`);
       await expect(page.getByTestId("club-chapters").locator(":scope > li")).toHaveCount(count);
       await expect(page.getByRole("heading", { level: 2, name: part })).toBeVisible();
     }
     await page.goto("/en/stories/bhagavad-gita/the-undying-self/");
-    await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(3);
+    await expect(page.getByTestId("story-scenes").locator(":scope > li")).toHaveCount(6);
     await expect(page.locator('p[lang="sa"]')).toContainText("कर्मण्येवाधिकारस्ते");
     await page.goto("/en/stories/dnyaneshwari/pasayadan-and-alandi/");
     await expect(page.locator('p[lang="mr"]')).toContainText("जो जे वांछील तो ते लाहो");
@@ -71,7 +71,7 @@ test.describe("Story collections (D-038, D-040)", () => {
   for (const lang of ["hi", "mr"] as const) {
     test(`${lang} collection and chapter pages are translated`, async ({ page }) => {
       await onboard(page, lang);
-      for (const p of ["stories/ramayana/", "stories/ramayana/great-leap/", "stories/varkari/dnyaneshwar/", "stories/mahabharata/the-bhagavad-gita/", "stories/bhagavad-gita/", "stories/dnyaneshwari/pasayadan-and-alandi/", "stories/gurucharitra/kuravpur/"]) {
+      for (const p of ["stories/ramayana/", "stories/ramayana/great-leap/", "stories/varkari/dnyaneshwar/", "stories/mahabharata/the-bhagavad-gita/", "stories/bhagavad-gita/", "stories/dnyaneshwari/pasayadan-and-alandi/", "stories/gurucharitra/dull-boy-of-kuravpur/"]) {
         await page.goto(`/${lang}/${p}`);
         const text = await page.evaluate(() => {
           const out: string[] = [];

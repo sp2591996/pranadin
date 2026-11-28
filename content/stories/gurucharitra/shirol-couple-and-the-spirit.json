@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "shirol-couple-and-the-spirit",
+ "order": 20,
+ "part": "jnana",
+ "figure": {
+  "en": "Narasimha Saraswati, Gangadhar of Shirol and his wife",
+  "hi": {
+   "text": "नृसिंह सरस्वती, शिरोल के गंगाधर और उनकी पत्नी",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती, शिरोळचे गंगाधर आणि त्यांची पत्नी",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Mother Who Sheltered at the Tree",
+  "hi": {
+   "text": "वह माता जिसने वृक्ष की शरण ली",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "झाडाखाली आश्रय घेणारी माता",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A couple at Shirol who have lost child after child are told of an old debt, and the Guru frees them and gives them sons.",
+  "hi": {
+   "text": "शिरोल का एक दंपति, जिसने एक के बाद एक संतान खोई, एक पुराने ऋण की बात सुनता है, और गुरु उन्हें मुक्ति तथा पुत्र देते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "शिरोळमधील एक दांपत्य, ज्याने एकामागून एक मुले गमावली, त्यांना एका जुन्या ऋणाची माहिती मिळते, आणि गुरू त्यांना मुक्ती व पुत्र देतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-paddy.webp",
+   "w": 1200,
+   "h": 675,
+   "caption": {
+    "en": "Paddy fields in Karnataka",
+    "hi": {
+     "text": "कर्नाटक में धान के खेत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कर्नाटकातील भाताची शेती",
+     "reviewed": false
+    }
+   },
+   "credit": "Pramodv1993, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Paddy_field_in_Karnataka,_India_2014.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A Mother's Grief",
+    "hi": {
+     "text": "एक माता का शोक",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका मातेचे दुःख",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At Shirol lived a learned brahmin named Gangadhar, a student of the Veda, with a wife who was devout and gentle. Their children were born one by one, and one by one they died while still very young. Such sorrow repeated is hard for any home to bear, and the neighbours spoke of it in low voices.\n\nThe couple asked the elders of the town what could be done. The answer the Gurucharitra gives is one that belongs to its own age. We should not read it as blame upon the grieving parents, for the story itself is about their release and not their fault. The village knew the sound of that house: first a newborn's cry, then, within a year or two, the silence after it. Each time, the mother rose again and went about her work, and each time she grew a little quieter. Her husband, a scholar of the Veda, found that no verse he knew could answer her silence.",
+    "hi": {
+     "text": "शिरोल में गंगाधर नाम के एक विद्वान ब्राह्मण रहते थे, जो वेद के अध्येता थे, और उनकी पत्नी धर्मपरायण और कोमल स्वभाव की थीं। उनकी संतानें एक-एक करके जन्मीं, और एक-एक करके बहुत छोटी आयु में चली गईं। ऐसा शोक बार-बार किसी भी घर के लिए सहना कठिन है, और पड़ोसी धीमी आवाज़ में इसकी चर्चा करते थे।\n\nदंपति ने नगर के वृद्धजनों से पूछा कि क्या किया जा सकता है। श्री गुरुचरित्र जो उत्तर देता है, वह उसके अपने युग का है। हमें इसे शोकग्रस्त माता-पिता पर दोष के रूप में नहीं पढ़ना चाहिए, क्योंकि कथा स्वयं उनकी मुक्ति के विषय में है, उनके दोष के विषय में नहीं। गाँव उस घर की ध्वनि पहचानता था: पहले नवजात का रोना, फिर एक-दो वर्ष में उसके बाद का सन्नाटा। हर बार माता फिर उठती और अपना काम करने लगती, और हर बार कुछ और शांत हो जाती। उनके पति, वेद के विद्वान, पाते थे कि उन्हें जितने मंत्र आते थे, उनमें से कोई भी उनकी चुप्पी का उत्तर नहीं दे सकता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शिरोळमध्ये गंगाधर नावाचे एक विद्वान ब्राह्मण राहत होते, वेदांचे अभ्यासक, आणि त्यांची पत्नी धार्मिक आणि सौम्य होती. त्यांची मुले एकामागून एक जन्मली, आणि एकामागून एक फार लहान वयात गेली. असे दुःख वारंवार कोणत्याही घराला सोसणे कठीण आहे, आणि शेजारी त्याची चर्चा खालच्या आवाजात करत.\n\nदांपत्याने गावातील वृद्धांना विचारले की काय करता येईल. श्री गुरुचरित्र जे उत्तर देते ते त्याच्या स्वतःच्या काळाचे आहे. आपण ते शोकग्रस्त पालकांवरील दोष म्हणून वाचू नये, कारण कथा स्वतः त्यांच्या मुक्तीविषयी आहे, त्यांच्या दोषाविषयी नाही. गावाला त्या घराचा आवाज माहीत होता: आधी नवजात बालकाचे रडणे, मग एक-दोन वर्षांत त्यानंतरची शांतता. प्रत्येक वेळी माता पुन्हा उठून आपली कामे करू लागे, आणि प्रत्येक वेळी ती थोडी अधिक शांत होत असे. तिचे पती, वेदांचे विद्वान, त्यांना जाणवत होते की त्यांना माहीत असलेला कोणताही मंत्र तिच्या मौनाचे उत्तर देऊ शकत नव्हता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Old Debt",
+    "hi": {
+     "text": "पुराना ऋण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जुने ऋण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The advisers said that a brahmin of the Shounak line had died long before by his own hand, after a debt went unpaid, and that his restless spirit was standing between the woman and her children. This is how that world explained a sorrow it could not otherwise understand.\n\nThe remedy they named was a long one. She was to fast for a month, bathe at Papavinashi, worship the audumbar tree, offer abhisheka to the Guru, bathe again at Kamya tirtha, give a gift to a Shounak brahmin and perform the rites for the dead man. It was a path of patience and humility, taken in the hope of making peace. Their house was full of small things that reminded them: a cradle kept in the corner, a tiny garment folded away, a lamp that the mother lit each evening and could not bring herself to put out. Their neighbours brought food and kept their voices low. The wife grew quiet in the way of someone who has cried more than she has spoken.",
+    "hi": {
+     "text": "सलाहकारों ने कहा कि शौनक वंश के एक ब्राह्मण की बहुत पहले अपने ही हाथों मृत्यु हुई थी, जब एक ऋण चुकाया नहीं गया था, और उसकी अशांत आत्मा उस स्त्री और उसकी संतानों के बीच खड़ी है। उस युग में इसी प्रकार एक ऐसे शोक की व्याख्या की जाती थी जिसे वह अन्यथा समझ नहीं पाता था।\n\nजो उपाय उन्होंने बताया वह लंबा था। उसे एक माह उपवास रखना था, पापविनाशिनी में स्नान करना था, औदुंबर वृक्ष की पूजा करनी थी, गुरु का अभिषेक करना था, फिर कामय तीर्थ में स्नान करना था, एक शौनक ब्राह्मण को दान देना था, और मृत व्यक्ति के लिए श्राद्ध करना था। यह धैर्य और विनम्रता का मार्ग था, शांति स्थापित करने की आशा से अपनाया गया। उनके घर में छोटी-छोटी चीज़ें भरी थीं जो उन्हें स्मरण कराती थीं: कोने में रखा पालना, तह करके रखा एक छोटा वस्त्र, और एक दीपक जिसे माता हर संध्या जलाती थीं और बुझाने का मन नहीं कर पाती थीं। पड़ोसी भोजन लाते और धीरे बोलते। पत्नी उस व्यक्ति की तरह चुप हो गई थी जो बोलने से अधिक रो चुका हो।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सल्लागारांनी सांगितले की शौनक वंशातील एक ब्राह्मण फार पूर्वी स्वतःच्या हाताने मरण पावला होता, जेव्हा एक ऋण फेडले गेले नव्हते, आणि त्याचा अशांत आत्मा त्या स्त्रीमध्ये आणि तिच्या मुलांमध्ये उभा आहे. त्या काळात अशा प्रकारे एका दुःखाचे स्पष्टीकरण दिले जात असे, जे त्यांना अन्यथा समजत नव्हते.\n\nत्यांनी सुचवलेला उपाय दीर्घ होता. तिला एक महिना उपवास करायचा होता, पापविनाशिनीत स्नान करायचे होते, औदुंबर वृक्षाची पूजा करायची होती, गुरूंचा अभिषेक करायचा होता, मग कामतीर्थात पुन्हा स्नान करायचे होते, एका शौनक ब्राह्मणाला दान द्यायचे होते, आणि मृत माणसासाठी श्राद्ध करायचे होते. शांती प्रस्थापित करण्याच्या आशेने केलेला हा संयम आणि नम्रतेचा मार्ग होता. त्यांच्या घरात लहान गोष्टी भरलेल्या होत्या ज्या त्यांची आठवण करून देत: कोपऱ्यात ठेवलेला पाळणा, घडी करून ठेवलेला एक लहान कपडा, आणि एक दिवा जो आई दररोज संध्याकाळी लावत आणि विझवण्याचे तिला मन होत नसे. शेजारी अन्न आणत आणि आवाज खाली ठेवत. पत्नी त्या माणसासारखी शांत झाली होती ज्याने बोलण्यापेक्षा जास्त रडले आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Dream at the Audumbar",
+    "hi": {
+     "text": "औदुंबर के नीचे स्वप्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "औदुंबराखाली स्वप्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The woman followed the remedy with care. One night she dreamed that the spirit came to her in anger and struck her. In fear she ran and took shelter under the audumbar tree, and there she felt safe.\n\nThe Guru, who was there, spoke to the spirit. He told it to accept her offering and to stop troubling her. The spirit listened. Over ten days, with the rites completed, it was freed from its wandering. The woman woke from her dream, lighter than she had been in years, and her husband saw that something had changed. A modern reader may prefer to hear the tale as a story of patience and of peace-making, and the Gurucharitra allows this reading. The woman is never called guilty. She is simply a mother who is told what to do, and who does it, keeping her fast and her bathings, with a faith that was as much hope as belief.",
+    "hi": {
+     "text": "स्त्री ने उपाय का सावधानी से पालन किया। एक रात उसने स्वप्न देखा कि प्रेत क्रोध में उसके पास आया और उसे मारा। भय से वह भागी और औदुंबर वृक्ष की शरण ली, और वहाँ उसे सुरक्षित लगा।\n\nवहाँ उपस्थित गुरु ने प्रेत से बात की। उन्होंने उससे कहा कि वह उसका अर्पण स्वीकार करे और उसे कष्ट देना बंद करे। प्रेत ने सुना। दस दिनों में, अनुष्ठान पूरे होने पर, वह अपने भटकाव से मुक्त हो गया। स्त्री स्वप्न से जागी, वर्षों बाद इतनी हल्की अनुभव करती हुई, और उसके पति ने देखा कि कुछ बदल गया है। आज का पाठक इस कथा को धैर्य और शांति-स्थापना की कथा के रूप में सुनना चाह सकता है, और श्री गुरुचरित्र इस पाठ की अनुमति भी देता है। स्त्री को कभी दोषी नहीं कहा गया। वह केवल एक माता है जिसे बताया गया कि क्या करना है, और वह करती है, अपना उपवास और स्नान निभाते हुए, ऐसी श्रद्धा के साथ जो विश्वास जितनी ही आशा भी थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "स्त्रीने उपाय काळजीपूर्वक पाळला. एका रात्री तिला स्वप्न पडले की प्रेत रागाने तिच्याकडे आले आणि तिला मारले. भयाने ती पळाली आणि औदुंबर वृक्षाखाली आश्रयाला गेली, आणि तिथे तिला सुरक्षित वाटले.\n\nतिथे उपस्थित असलेल्या गुरूंनी प्रेताशी बोलले. त्यांनी त्याला सांगितले की त्याने तिचे अर्पण स्वीकारावे आणि तिला त्रास देणे थांबवावे. प्रेताने ऐकले. दहा दिवसांत, विधी पूर्ण झाल्यावर, ते आपल्या भटकंतीपासून मुक्त झाले. ती स्त्री स्वप्नातून जागी झाली, वर्षांनंतर इतकी हलकी वाटत होती, आणि तिच्या पतीने पाहिले की काहीतरी बदलले आहे. आजचा वाचक ही कथा संयम आणि शांतता प्रस्थापनेची कथा म्हणून ऐकू इच्छित असेल, आणि श्री गुरुचरित्र या वाचनाला परवानगी देते. स्त्रीला कधीही दोषी म्हटले गेले नाही. ती फक्त एक माता आहे, जिला काय करायचे ते सांगितले जाते, आणि ती ते करते, आपले उपवास आणि स्नान पाळत, अशा श्रद्धेने जी विश्वासाइतकीच आशाही होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two Sons",
+    "hi": {
+     "text": "दो पुत्र",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन पुत्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In time two sons were born to the couple, and this time the cradle was not empty. The mother brought them to the Guru and the family's days were full of the ordinary noise of children. The village that had whispered of her sorrow now spoke of her blessing.\n\nThe Siddha tells this part simply, as if the happiness needed no decoration. A mother who had spent her best years in grief now spent them tending two boys, and she was grateful to the Guru. Whatever the spirit may have been, the Siddha treats it as a sorrowing being, and not as a monster. It is the Guru who speaks, and his tone is one of authority and care. The spirit’s release had taken ten days of rites, and the household that had known only mourning now knew a quieter peace.",
+    "hi": {
+     "text": "समय के साथ दंपति के दो पुत्र हुए, और इस बार पालना खाली नहीं था। माता उन्हें गुरु के पास लाईं, और परिवार के दिन बच्चों के साधारण शोर से भर गए। जो गाँव उनके शोक की फुसफुसाहट करता था, वह अब उनके आशीर्वाद की चर्चा करने लगा।\n\nसिद्ध इस भाग को सीधे-सादे ढंग से सुनाते हैं, मानो सुख को किसी सजावट की आवश्यकता न हो। जिस माता ने अपने श्रेष्ठ वर्ष शोक में बिताए थे, वह अब दो बालकों की देखभाल में वर्ष बिता रही थी, और वह गुरु के प्रति कृतज्ञ थी। प्रेत जो भी रहा हो, सिद्ध उसे एक दुःखी प्राणी के रूप में देखते हैं, राक्षस के रूप में नहीं। गुरु ही बोलते हैं, और उनका स्वर अधिकार और करुणा का है। प्रेत की मुक्ति में दस दिनों के अनुष्ठान लगे, और जिस घर ने केवल शोक जाना था, वहाँ अब एक शांत सुख आ गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कालांतराने दांपत्याला दोन पुत्र झाले, आणि यावेळी पाळणा रिकामा नव्हता. आई त्यांना गुरूंकडे घेऊन आली, आणि कुटुंबाचे दिवस मुलांच्या साध्या गोंगाटाने भरले. ज्या गावाने तिच्या दुःखाची कुजबुज केली होती, ते आता तिच्या आशीर्वादाविषयी बोलू लागले.\n\nसिद्ध हा भाग साधेपणाने सांगतात, जणू सुखाला सजावटीची गरज नव्हती. ज्या मातेने आपली उमेदीची वर्षे दुःखात घालवली होती, ती आता दोन मुलांची काळजी घेत वर्षे घालवत होती, आणि ती गुरूंची ऋणी होती. प्रेत जे कोणी असेल, सिद्ध त्याला एक दुःखी प्राणी मानतात, राक्षस नव्हे. गुरू स्वतः बोलतात, आणि त्यांचा स्वर अधिकार आणि करुणेचा आहे. प्रेताच्या मुक्तीला दहा दिवसांचे विधी लागले, आणि ज्या घराला केवळ शोक माहीत होता, तिथे आता शांत आनंद आला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Younger Son Falls Ill",
+    "hi": {
+     "text": "छोटा पुत्र बीमार पड़ता है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "धाकटा पुत्र आजारी पडतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The story does not end with joy alone. When the younger son was still a child he fell sick with tetanus and died. The mother could not accept it. She held the little body and would not let it be taken for burial, saying that she would burn with it rather than live another day.\n\nThe chapter closes at this moment of grief, with the people around her unable to move her. At that moment a sanyasi arrived, calm and unhurried, and sat down near the sorrowing woman. The Siddha says he will tell what followed in the next adhyaya. After years of loss the family had finally had two sons, and now the younger was taken as well. The Gurucharitra does not soften how cruel this must have felt, and the chapter closes at the edge of her grief, with a sanyasi sitting near her to counsel her in the next adhyaya.",
+    "hi": {
+     "text": "कथा केवल आनंद पर समाप्त नहीं होती। जब छोटा पुत्र अभी बालक ही था, वह धनुष्टंकार से बीमार पड़ा और उसकी मृत्यु हो गई। माता इसे स्वीकार नहीं कर सकीं। वे उस छोटे शरीर को थामे रहीं और उसे दफ़नाने नहीं दिया, यह कहते हुए कि वे उसके साथ जल जाएँगी, पर एक और दिन जीवित नहीं रहेंगी।\n\nअध्याय इसी शोक के क्षण पर समाप्त होता है, जब उनके आसपास के लोग उन्हें हिला नहीं पाते। उसी क्षण एक संन्यासी शांत और धीमी गति से पहुँचे और शोकग्रस्त स्त्री के समीप बैठ गए। सिद्ध कहते हैं कि आगे क्या हुआ, यह वे अगले अध्याय में बताएँगे। वर्षों के वियोग के बाद परिवार को आखिरकार दो पुत्र मिले थे, और अब छोटा भी छीन लिया गया। श्री गुरुचरित्र यह नहीं बताता कि यह उन्हें कितना क्रूर लगा होगा, और अध्याय उनके शोक की कगार पर समाप्त होता है, जहाँ एक संन्यासी अगले अध्याय में उन्हें परामर्श देने के लिए उनके पास बैठे हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथा केवळ आनंदावर संपत नाही. धाकटा मुलगा अजून लहान असतानाच धनुर्वाताने आजारी पडला आणि त्याचा मृत्यू झाला. आई हे स्वीकारू शकली नाही. तिने त्या लहान शरीराला घट्ट धरून ठेवले आणि दफनासाठी नेऊ दिले नाही, म्हणत की ती त्याच्याबरोबर जळून जाईल, पण आणखी एक दिवस जगणार नाही.\n\nअध्याय याच शोकाच्या क्षणी संपतो, जेव्हा तिच्या आसपासचे लोक तिला हलवू शकत नाहीत. त्याच क्षणी एक संन्यासी शांत आणि सावकाश येऊन दुःखी स्त्रीजवळ बसले. पुढे काय घडले ते सिद्ध पुढच्या अध्यायात सांगतील असे म्हणतात. अनेक वर्षांच्या हानीनंतर कुटुंबाला अखेर दोन पुत्र मिळाले होते, आणि आता धाकटाही हिरावला गेला. श्री गुरुचरित्र हे किती क्रूर वाटले असेल ते मऊ करत नाही, आणि अध्याय तिच्या शोकाच्या काठावर संपतो, जिथे एक संन्यासी पुढच्या अध्यायात तिला मार्गदर्शन करण्यासाठी तिच्याजवळ बसलेले आहेत.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Think of someone you know who has endured a loss. What small thing could you do for them this week, without trying to explain the loss away?",
+  "hi": {
+   "text": "अपने किसी परिचित के बारे में सोचिए जिसने कोई हानि सही है। इस सप्ताह उनके लिए कौन-सा छोटा कार्य कर सकते हैं, बिना उनकी हानि को समझाने या हल्का करने की कोशिश किए?",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या एखाद्या परिचिताने नुकसान सोसले आहे का, याचा विचार करा. या आठवड्यात त्यांच्यासाठी कोणते छोटे कार्य करू शकता, त्यांचे नुकसान समजावून किंवा हलके करण्याचा प्रयत्न न करता?",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Sorrow is not a verdict on the one who suffers; the Guru meets a grieving mother with shelter and not with judgement.",
+  "hi": {
+   "text": "शोक किसी पीड़ित व्यक्ति पर फैसला नहीं है; गुरु एक शोकग्रस्त माता से निर्णय नहीं, आश्रय के साथ मिलते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुःख हा त्रस्त व्यक्तीवरचा निर्णय नाही; गुरू शोकग्रस्त मातेला निवाऱ्याने भेटतात, निकालाने नव्हे.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 20; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 20; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 20; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

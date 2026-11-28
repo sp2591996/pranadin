@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "sayamdev-serves-the-guru",
+ "order": 41,
+ "part": "bhakti",
+ "figure": {
+  "en": "Narasimha Saraswati and Sayamdev",
+  "hi": {
+   "text": "नृसिंह सरस्वती और सायंदेव",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि सायंदेव",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Fire in the Storm",
+  "hi": {
+   "text": "आँधी में अग्नि",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वादळात अग्नी",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The Siddha's own forefather Sayamdev serves the Guru at Gangapur, walks through a storm with two cobras beside him, and learns of the great pilgrimage to Kashi.",
+  "hi": {
+   "text": "सिद्ध के अपने पूर्वज सायंदेव गाणगापुर में गुरु की सेवा करते हैं, आँधी में दो नागों के साथ चलते हैं, और काशी की महान यात्रा की कथा सुनते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "सिद्धांचे स्वतःचे पूर्वज सायंदेव गाणगापूरला गुरूंची सेवा करतात, वादळात दोन नागांसोबत चालतात, आणि काशीच्या महान यात्रेची कथा ऐकतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-cart-farm.webp",
+   "w": 1200,
+   "h": 649,
+   "caption": {
+    "en": "A bullock cart on a Maharashtra farm",
+    "hi": {
+     "text": "महाराष्ट्र के खेत में बैलगाड़ी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "महाराष्ट्रातील शेतात बैलगाडी",
+     "reviewed": false
+    }
+   },
+   "credit": "Abhi, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cart_in_a_farm_in_Maharashtra,_India.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Sayamdev's Service",
+    "hi": {
+     "text": "सायंदेव की सेवा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सायंदेवांची सेवा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha turned to a name that Namdharak already knew: Sayamdev, who had been Namdharak's own forefather. Sayamdev had served the Guru first at Osargram and then at Gangapur. He served the Guru faithfully in both places.\n\nWhen Sayamdev arrived at Gangapur, the Guru told him to go and bathe at the sangam. He went, and for three months he lived near the Guru, rising early, doing whatever was asked and expecting nothing in return. He did whatever was asked and expected nothing in return. Their relation was one of ease and mutual trust, built from small, daily acts of service. The Guru told him to bathe at the sangam, and after three months of that quiet service came the evening of the storm. Sayamdev is the ancestor of the author of the Gurucharitra, and the book passes down the story of his service as a family treasure.",
+    "hi": {
+     "text": "सिद्ध ने एक ऐसे नाम की ओर रुख किया जो नामधारक पहले से जानते थे: सायंदेव, जो नामधारक के अपने पूर्वज थे। सायंदेव ने गुरु की सेवा पहले ओसरग्राम में और फिर गाणगापुर में की। दोनों स्थानों पर उन्होंने निष्ठा से सेवा की।\n\nजब सायंदेव गाणगापुर पहुँचे, तो गुरु ने उन्हें संगम पर स्नान करने को कहा। वे गए, और तीन मास तक गुरु के निकट रहे, प्रातः जल्दी उठते, जो कहा जाता वह करते, और बदले में कुछ नहीं चाहते। वे जो कहा जाता वह करते और बदले में कुछ नहीं चाहते थे। उनका संबंध सहजता और पारस्परिक विश्वास का था, छोटे-छोटे दैनिक सेवा-कर्मों से बना। गुरु ने उन्हें संगम पर स्नान करने को कहा था, और उस शांत सेवा के तीन मास बाद आँधी की संध्या आई। सायंदेव श्री गुरुचरित्र के रचयिता के पूर्वज हैं, और ग्रंथ उनकी सेवा की कथा को पारिवारिक धरोहर के रूप में आगे पहुँचाता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी एका नावाकडे वळण घेतले जे नामधारकांना आधीच माहीत होते: सायंदेव, जे नामधारकांचे स्वतःचे पूर्वज होते. सायंदेवांनी गुरूंची सेवा आधी ओसरग्रामात आणि मग गाणगापूरला केली. दोन्ही ठिकाणी त्यांनी निष्ठेने सेवा केली.\n\nजेव्हा सायंदेव गाणगापूरला आले, तेव्हा गुरूंनी त्यांना संगमावर स्नान करायला सांगितले. ते गेले, आणि तीन महिने गुरूंच्या जवळ राहिले, पहाटे उठत, जे सांगितले ते करत, आणि बदल्यात काहीही अपेक्षा न करता. ते जे सांगितले ते करत आणि बदल्यात काही अपेक्षा ठेवत नसत. त्यांचे नाते सहजता आणि परस्पर विश्वासाचे होते, दररोजच्या लहान सेवेने बनलेले. गुरूंनी त्यांना संगमावर स्नान करायला सांगितले होते, आणि त्या शांत सेवेच्या तीन महिन्यांनंतर वादळाची संध्याकाळ आली. सायंदेव श्री गुरुचरित्राच्या रचयित्याचे पूर्वज आहेत, आणि ग्रंथ त्यांच्या सेवेची कथा कौटुंबिक ठेवा म्हणून पुढे नेतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Storm Under the Ashvattha",
+    "hi": {
+     "text": "अश्वत्थ के नीचे आँधी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अश्वत्थाखाली वादळ",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "One evening a storm came down on the town. The Guru was seated under the ashvattha tree near the sangam, and the rain was heavy. He called Sayamdev and told him to go to the math and bring fire. There was one condition: Sayamdev was not to look to either side as he walked.\n\nSayamdev went out into the wind and the rain. The road was dark and the path was wet, but he kept his eyes in front of him. He did not understand the order, and he did not question it. The wind pulled at his cloth and the rain ran down his face. Behind him the Guru sat under the tree, calm. Sayamdev walked slowly, as he had been told, with his gaze fixed ahead, and the road felt much longer than it was in daylight.",
+    "hi": {
+     "text": "एक संध्या नगर पर आँधी उतरी। गुरु संगम के समीप अश्वत्थ वृक्ष के नीचे बैठे थे, और वर्षा भारी थी। उन्होंने सायंदेव को बुलाया और कहा कि मठ जाकर अग्नि लाओ। एक शर्त थी: चलते समय सायंदेव दोनों ओर न देखें।\n\nसायंदेव आँधी और वर्षा में निकल पड़े। मार्ग अँधेरा था और रास्ता गीला था, पर उन्होंने अपनी दृष्टि सामने रखी। उन्होंने आज्ञा को समझा नहीं, और उस पर प्रश्न भी नहीं किया। हवा उनके वस्त्र खींच रही थी और वर्षा उनके मुख पर बह रही थी। उनके पीछे गुरु वृक्ष के नीचे शांत बैठे थे। सायंदेव धीरे-धीरे चले, जैसा उन्हें कहा गया था, दृष्टि आगे टिकी हुई, और मार्ग दिन के उजाले की तुलना में बहुत लंबा लग रहा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एका संध्याकाळी नगरावर वादळ आले. गुरू संगमाजवळ अश्वत्थ वृक्षाखाली बसले होते, आणि पाऊस जोरात होता. त्यांनी सायंदेवांना बोलावून मठातून अग्नी आणायला सांगितले. एक अट होती: चालताना सायंदेवांनी दोन्ही बाजूंना पाहू नये.\n\nसायंदेव वारा आणि पावसात बाहेर पडले. रस्ता अंधारा होता आणि वाट ओली होती, पण त्यांनी नजर समोर ठेवली. त्यांना आज्ञा समजली नाही, आणि त्यावर प्रश्नही केला नाही. वारा त्यांचे वस्त्र ओढत होता आणि पाऊस त्यांच्या चेहऱ्यावरून ओघळत होता. त्यांच्या मागे गुरू वृक्षाखाली शांत बसले होते. सायंदेव हळूहळू चालले, जसे सांगितले होते, नजर पुढे खिळलेली, आणि वाट दिवसाच्या उजेडापेक्षा खूप लांब वाटत होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Two Cobras",
+    "hi": {
+     "text": "दो नाग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन नाग",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Two cobras walked beside him through the storm. He did not look aside, as he had been told. They kept pace with him, and he reached the math and returned unharmed.\n\nWhen he came back to the Guru, the Guru smiled. He had trusted the instruction, and his trust had been enough. That was the lesson of the evening. The Gurucharitra says only that the two cobras were beside him, and leaves us to imagine the calm of a man who walks on, eyes forward, because his teacher told him to. The Guru had sent him to the math for fire during a storm, warning him not to look sideways, and the story treats the cobras as a quiet sign that the instruction came with protection. Sayamdev did not need to understand it, only to trust it.",
+    "hi": {
+     "text": "आँधी में दो नाग उनके साथ-साथ चले। उन्होंने आज्ञा के अनुसार बगल में नहीं देखा। वे उनके साथ चलते रहे, और वे मठ तक पहुँचे और सुरक्षित लौट आए।\n\nजब वे गुरु के पास लौटे, तो गुरु मुस्कुराए। उन्होंने आज्ञा पर विश्वास किया था, और उनका विश्वास ही पर्याप्त था। उस संध्या का यही पाठ था। श्री गुरुचरित्र केवल इतना कहता है कि दो नाग उनके पास थे, और हमें उस व्यक्ति की शांति की कल्पना करने देता है जो सामने दृष्टि टिकाए आगे बढ़ता है, क्योंकि उसके गुरु ने ऐसा कहा है। गुरु ने आँधी में मठ से अग्नि लाने भेजा था, और दोनों ओर न देखने की चेतावनी दी थी, और कथा नागों को इस बात का शांत चिह्न मानती है कि आज्ञा के साथ संरक्षण भी था। सायंदेव को उसे समझने की आवश्यकता नहीं थी, केवल उस पर विश्वास करने की।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वादळातून चालताना दोन नाग त्यांच्या बरोबर चालले. त्यांनी सांगितल्याप्रमाणे बाजूला पाहिले नाही. ते त्यांच्या बरोबर चालले, आणि सायंदेव मठात पोहोचून सुखरूप परतले.\n\nते गुरूंकडे परत आले तेव्हा गुरू हसले. त्यांनी आज्ञेवर विश्वास ठेवला होता, आणि त्यांचा विश्वासच पुरेसा होता. त्या संध्याकाळचा हाच धडा होता. श्री गुरुचरित्र फक्त इतकेच सांगते की दोन नाग त्यांच्याजवळ होते, आणि आपल्याला त्या माणसाच्या शांततेची कल्पना करायला सोडते जो समोर नजर ठेवून चालत राहतो, कारण त्याच्या गुरूंनी तसे सांगितले. गुरूंनी वादळात मठातून अग्नी आणायला पाठवले होते, आणि बाजूला न पाहण्याची चेतावणी दिली होती, आणि कथा नागांना हे शांत चिन्ह मानते की आज्ञेबरोबर संरक्षणही होते. सायंदेवांना ते समजण्याची गरज नव्हती, फक्त त्यावर विश्वास ठेवण्याची.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Brahmachari and Kashi",
+    "hi": {
+     "text": "ब्रह्मचारी और काशी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ब्रह्मचारी आणि काशी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "While they sat, the Guru told a tale. A brahmachari, a student and the son of Tvashtri, was sent by his teacher to fetch impossible things. An ascetic told him to go to Kashi. There he did all the yatras, the holy circuits, and worshipped Vishweshwar. Shiva was pleased, and gave him a skill equal to that of Vishwakarma, the divine craftsman.\n\nSayamdev listened to the story, and it moved him. He understood that the Guru was drawing a picture of what the old pilgrimage meant, and what could be gained from devotion. The brahmachari had been given an impossible errand, and he had not given up. He had gone to Kashi, and there Shiva had met him. Sayamdev listened with his hands folded, thinking of his own small tasks.",
+    "hi": {
+     "text": "जब वे बैठे थे, गुरु ने एक कथा सुनाई। एक ब्रह्मचारी, जो त्वष्टा का पुत्र और छात्र था, को उसके गुरु ने असंभव वस्तुएँ लाने भेजा था। एक तपस्वी ने उसे काशी जाने को कहा। वहाँ उसने सभी यात्राएँ, यानी पवित्र परिक्रमाएँ, कीं और विश्वेश्वर की पूजा की। शिव प्रसन्न हुए, और उन्होंने उसे देवताओं के शिल्पी विश्वकर्मा के समान कौशल प्रदान किया।\n\nसायंदेव ने यह कथा सुनी, और वह उनके मन को छू गई। उन्होंने समझा कि गुरु प्राचीन तीर्थयात्रा का अर्थ और भक्ति से क्या प्राप्त हो सकता है, इसका चित्र खींच रहे हैं। ब्रह्मचारी को एक असंभव कार्य सौंपा गया था, और उसने हार नहीं मानी। वह काशी गया, और वहाँ शिव उससे मिले। सायंदेव हाथ जोड़े सुनते रहे, अपने छोटे-छोटे कार्यों के विषय में सोचते हुए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ते बसले असताना गुरूंनी एक कथा सांगितली. एक ब्रह्मचारी, जो त्वष्टाचा पुत्र आणि विद्यार्थी होता, त्याला त्याच्या गुरूंनी अशक्य वस्तू आणायला पाठवले होते. एका तपस्व्याने त्याला काशीला जायला सांगितले. तिथे त्याने सर्व यात्रा, म्हणजे पवित्र प्रदक्षिणा, केल्या आणि विश्वेश्वराची पूजा केली. शिव प्रसन्न झाले, आणि त्यांनी त्याला देवांचे शिल्पी विश्वकर्म्याच्या बरोबरीचे कौशल्य दिले.\n\nसायंदेवांनी ती कथा ऐकली, आणि ती त्यांच्या मनाला स्पर्शून गेली. प्राचीन तीर्थयात्रेचा अर्थ आणि भक्तीमधून काय मिळू शकते याचे चित्र गुरू काढत आहेत हे त्यांना समजले. ब्रह्मचाऱ्याला अशक्य कामगिरी देण्यात आली होती, आणि त्याने हार मानली नाही. तो काशीला गेला, आणि तिथे शिव त्याला भेटले. सायंदेव हात जोडून, आपल्या छोट्या कामांचा विचार करत ऐकत राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Eight Verses and the Anant Puja",
+    "hi": {
+     "text": "आठ श्लोक और अनंत पूजा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आठ श्लोक आणि अनंत पूजा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sayamdev was so moved that he praised the Guru in eight verses. He returned with his family on the day of Anant Chaturdashi.\n\nThe Guru then told Sayamdev that he should perform the Anant puja, the worship of the fourteen-knotted thread. Sayamdev bowed. Namdharak sat very still, hearing his own forefather's name in the voice of the Siddha. The instruction about Anant, the Siddha explained, is where the next chapter begins. Sayamdev praised the Guru in eight verses, was moved by the tale of the brahmachari and Kashi, and was told to keep the Anant puja. The Gurucharitra closes this adhyaya on that note of gratitude and duty, and the Siddha turns to the vow itself, which Namdharak was about to hear explained, thread by thread and knot by knot, in the story that follows.",
+    "hi": {
+     "text": "सायंदेव इतने भावविभोर हुए कि उन्होंने आठ श्लोकों में गुरु की स्तुति की। वे अनंत चतुर्दशी के दिन अपने परिवार के साथ लौटे।\n\nफिर गुरु ने सायंदेव से कहा कि उन्हें अनंत पूजा करनी चाहिए, चौदह गाँठों वाले धागे की पूजा। सायंदेव ने प्रणाम किया। नामधारक अपने पूर्वज का नाम सिद्ध की वाणी में सुनकर स्थिर बैठे रहे। सिद्ध ने समझाया कि अनंत के विषय में आदेश से अगला अध्याय आरंभ होता है। सायंदेव ने आठ श्लोकों में गुरु की स्तुति की, ब्रह्मचारी और काशी की कथा से भावविभोर हुए, और उन्हें अनंत पूजा करने का आदेश मिला। श्री गुरुचरित्र इस अध्याय को कृतज्ञता और कर्तव्य के इस स्वर पर समाप्त करता है, और सिद्ध उस व्रत की ओर मुड़ते हैं, जिसे नामधारक अगली कथा में धागे-धागे और गाँठ-गाँठ समझाए जाते हुए सुनने वाले थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सायंदेव इतके भावविभोर झाले की त्यांनी आठ श्लोकांत गुरूंची स्तुती केली. ते अनंत चतुर्दशीच्या दिवशी आपल्या कुटुंबासह परतले.\n\nमग गुरूंनी सायंदेवांना सांगितले की त्यांनी अनंत पूजा करावी, चौदा गाठींच्या धाग्याची पूजा. सायंदेवांनी नमस्कार केला. नामधारक आपल्या पूर्वजाचे नाव सिद्धांच्या तोंडून ऐकून स्थिर बसले. सिद्धांनी समजावले की अनंताविषयीच्या आदेशापासून पुढचा अध्याय सुरू होतो. सायंदेवांनी आठ श्लोकांत गुरूंची स्तुती केली, ब्रह्मचारी आणि काशीच्या कथेने ते भावविभोर झाले, आणि त्यांना अनंत पूजा करण्याचा आदेश मिळाला. श्री गुरुचरित्र कृतज्ञता आणि कर्तव्याच्या या स्वरावर अध्याय संपवते, आणि सिद्ध त्या व्रताकडे वळतात, जे नामधारक पुढच्या कथेत धाग्याधाग्याने आणि गाठीगाठीने समजावले जाताना ऐकणार होते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there an instruction you have ignored because you did not understand it? Try following it without understanding, once, and see what happens.",
+  "hi": {
+   "text": "क्या कोई ऐसा निर्देश है जिसे आपने इसलिए नहीं माना क्योंकि आप उसे समझ नहीं पाए? एक बार उसे बिना समझे मानने का प्रयास कीजिए, और देखिए क्या होता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुम्ही कोणती सूचना पाळली नाही कारण ती तुम्हाला समजली नाही? एकदा ती समजून न घेता पाळण्याचा प्रयत्न करा, आणि काय घडते ते पाहा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Trust that keeps its eyes on the road is protected in ways it never sees.",
+  "hi": {
+   "text": "जो विश्वास अपनी दृष्टि मार्ग पर रखता है, उसकी ऐसी रक्षा होती है जिसे वह स्वयं कभी नहीं देखता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "जो विश्वास आपली नजर वाटेवर ठेवतो, त्याचे अशा प्रकारे रक्षण होते जे त्याला कधीच दिसत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 41; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 41; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 41; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

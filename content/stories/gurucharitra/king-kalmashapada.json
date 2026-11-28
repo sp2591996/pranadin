@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "king-kalmashapada",
+ "order": 7,
+ "part": "jnana",
+ "figure": {
+  "en": "King Kalmashapada and the Leprous Widow",
+  "hi": {
+   "text": "राजा कल्माषपाद और कुष्ठ-पीड़ित विधवा",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "राजा कल्माषपाद आणि कुष्ठरोगी विधवा",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Freed at Gokarna",
+  "hi": {
+   "text": "गोकर्ण में मुक्ति",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गोकर्णात मुक्ती",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A cursed king and a suffering woman find release at the same shrine.",
+  "hi": {
+   "text": "एक शापित राजा और एक पीड़ित स्त्री, दोनों उसी एक तीर्थ में मुक्ति पाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एक शापित राजा आणि एक पीडित स्त्री, दोघेही त्याच एका देवस्थानात मुक्ती मिळवतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-gokarna-beach.webp",
+   "w": 1200,
+   "h": 900,
+   "caption": {
+    "en": "Gokarna beach",
+    "hi": {
+     "text": "गोकर्ण का समुद्र तट",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गोकर्णाचा समुद्रकिनारा",
+     "reviewed": false
+    }
+   },
+   "credit": "Axis of eran, CC0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gokarna_temple_beach.JPG"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Who Is Healed There?",
+    "hi": {
+     "text": "वहाँ किसका उद्धार हुआ?",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिथे कोणाचा उद्धार झाला?",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Namdharak asked who had actually benefited from Gokarna. The Siddha answered with the story of a king of the Ikshvaku line who, while hunting, killed a demon. The demon’s brother, bent on revenge, took service in the king’s kitchen as a cook, and one day served human flesh to the sage Vasishtha, who had come to dine.\n\nVasishtha, outraged, cursed the king to become a rakshasa. The king, hurt and angry, began to prepare a counter-curse, taking water in his hand to pour it. But his queen Madayanti stopped him, reminding him that vengeance against a sage is no answer. He held back, accepted the curse, and from then on was known as Kalmashapada. Ikshvaku is the royal line of Rama, so this was a king of high family, and his fall from favour was all the sadder.",
+    "hi": {
+     "text": "नामधारक ने पूछा कि गोकर्ण से वास्तव में किसका कल्याण हुआ। सिद्ध ने इक्ष्वाकु वंश के एक राजा की कथा सुनाई, जिन्होंने शिकार के समय एक राक्षस का वध किया था। उस राक्षस का भाई बदला लेने पर उतारू हो गया, और राजा की रसोई में रसोइए के रूप में काम करने लगा। एक दिन उसने भोजन के लिए आए ऋषि वसिष्ठ को मानव-मांस परोस दिया।\n\nक्रोधित होकर वसिष्ठ ने राजा को राक्षस बनने का शाप दे दिया। राजा आहत और क्रुद्ध होकर जल हाथ में लेकर प्रतिशाप देने लगे। पर उनकी रानी मदयंती ने उन्हें रोका, यह याद दिलाते हुए कि किसी ऋषि से बदला लेना उत्तर नहीं है। राजा रुक गए, शाप स्वीकार किया, और उसी समय से वे कल्माषपाद कहलाने लगे। इक्ष्वाकु राम का राजवंश था, इसलिए यह उच्च कुल के राजा थे, और उनका पतन और भी दुःखद था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नामधारकांनी विचारले की गोकर्णमुळे प्रत्यक्षात कोणाचे कल्याण झाले. सिद्धांनी इक्ष्वाकु वंशातील एका राजाची कथा सांगितली, ज्याने शिकारीत एका राक्षसाला मारले. राक्षसाचा भाऊ सूड घेण्यासाठी राजाच्या स्वयंपाकघरात आचारी म्हणून रुजू झाला, आणि एके दिवशी जेवायला आलेल्या ऋषी वसिष्ठांना त्याने मानवी मांस वाढले.\n\nसंतापलेल्या वसिष्ठांनी राजाला राक्षस होण्याचा शाप दिला. राजा दुखावला आणि रागावला, हातात पाणी घेऊन प्रतिशाप देण्याच्या तयारीत होता. पण त्याची राणी मदयंती हिने त्याला थांबवले, आठवण करून देत की ऋषींवर सूड घेणे हे उत्तर नाही. राजा थांबला, शाप स्वीकारला, आणि तेव्हापासून तो कल्माषपाद म्हणून ओळखला गेला. इक्ष्वाकु हा रामाचा राजवंश होता, म्हणून हा उच्च कुळातील राजा होता, आणि त्याचे पतन अधिकच दुःखद होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Heavy Weight",
+    "hi": {
+     "text": "एक भारी बोझ",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक जड ओझे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The curse darkened his life. As Kalmashapada, the king later killed a brahmin in the forest, who was with his wife. The brahmin’s wife, in her grief, cursed him: if he touched his own wife after twelve years, he would die on the spot. Madayanti, who had saved him once, now had to live beside a husband she could not embrace.\n\nGuilt-ridden and afraid, the king went to the sage Gautama for counsel. Gautama listened and sent him to Gokarna, saying that Shiva there removes even the sin of a thousand brahmin-killings. The text uses the strong language of its age about sin and release; we can read it as the story of a person who has done grave harm and longs to be clean. Twelve years is a long time for a king and queen to live in the shadow of a curse spoken in a forest.",
+    "hi": {
+     "text": "शाप ने उनका जीवन अंधकारमय कर दिया। कल्माषपाद के रूप में राजा ने बाद में वन में एक ब्राह्मण को मार डाला, जो अपनी पत्नी के साथ था। ब्राह्मण की पत्नी ने शोक में उन्हें शाप दिया: यदि बारह वर्ष बाद वे अपनी पत्नी को स्पर्श करेंगे, तो तत्क्षण उनकी मृत्यु हो जाएगी। मदयंती, जिन्होंने एक बार उन्हें बचाया था, अब ऐसे पति के साथ रहने को विवश थीं जिन्हें वे गले भी नहीं लगा सकती थीं।\n\nअपराध-बोध और भय से ग्रस्त राजा परामर्श के लिए ऋषि गौतम के पास गए। गौतम ने सुना और उन्हें गोकर्ण भेजा, यह कहते हुए कि वहाँ के शिव हज़ार ब्राह्मण-हत्याओं का पाप भी हर लेते हैं। ग्रंथ अपने युग की पाप और मुक्ति संबंधी कठोर भाषा का प्रयोग करता है; हम इसे उस व्यक्ति की कथा के रूप में पढ़ सकते हैं जिसने गंभीर हानि की और अब शुद्ध होने की लालसा रखता है। जंगल में दिए गए शाप की छाया में बारह वर्ष एक राजा और रानी के लिए बहुत लंबा समय है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शापाने त्याचे जीवन अंधारले. कल्माषपाद म्हणून राजाने नंतर जंगलात एका ब्राह्मणाला, जो आपल्या पत्नीसोबत होता, ठार केले. दुःखाने ब्राह्मण पत्नीने शाप दिला: बारा वर्षांनी जर त्याने आपल्या पत्नीला स्पर्श केला, तर तत्क्षणी त्याचा मृत्यू होईल. एकदा त्याला वाचवणारी मदयंती आता अशा पतीसोबत राहायला विवश होती, ज्याला ती आलिंगनही देऊ शकत नव्हती.\n\nअपराधी आणि भयभीत राजा सल्ल्यासाठी ऋषी गौतमांकडे गेला. गौतमांनी ऐकले आणि त्याला गोकर्णला पाठवले, म्हणाले की तिथले शिव हजार ब्राह्मणहत्यांचे पापही हरतात. ग्रंथ आपल्या काळातील पाप आणि मुक्तीविषयीची कठोर भाषा वापरतो; आपण ती अशा माणसाची कथा म्हणून वाचू शकतो ज्याने गंभीर हानी केली आणि आता शुद्ध होण्याची तीव्र इच्छा आहे. जंगलात उच्चारलेल्या शापाच्या छायेत बारा वर्षे राजा आणि राणीसाठी दीर्घ काळ आहे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Widow Who Hurt Without Knowing",
+    "hi": {
+     "text": "वह विधवा जिसने अनजाने में कष्ट दिया",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नकळत दुखावणारी विधवा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Gautama also told him another tale. A widow, suffering from leprosy, had once killed a calf without knowing it, and was said to have wandered through hell and many births because of it. The telling is sad, and we should not read it as blame on any suffering person today. It speaks of how harm done unknowingly can still weigh on the heart for a lifetime.\n\nHer release came by accident. On Mahashivaratri, she unknowingly dropped bel leaves on the linga at Gokarna. Shiva’s attendants came and led her to Shivaloka. The Gurucharitra says that grace does not wait for perfect understanding, and that a single act of offering, even half-aware, can open a door that years of suffering could not. The widow’s story ends not with punishment but with Shiva’s own attendants arriving to lead her away to his heaven.",
+    "hi": {
+     "text": "गौतम ने उन्हें एक और कथा भी सुनाई। एक कुष्ठ-पीड़ित विधवा ने अनजाने में एक बछड़े को मार डाला था, और कहा जाता है कि उसी कारण वह नरक और अनेक जन्मों में भटकती रही। यह कथा दुःखद है, और इसे आज के किसी भी पीड़ित व्यक्ति पर दोष के रूप में नहीं पढ़ना चाहिए। यह बताती है कि अनजाने में हुई हानि भी जीवन भर हृदय पर भार बनी रह सकती है।\n\nउसकी मुक्ति संयोग से हुई। महाशिवरात्रि के दिन उसने अनजाने में गोकर्ण के शिवलिंग पर बेल-पत्र चढ़ा दिए। शिव के गण आए और उसे शिवलोक ले गए। श्री गुरुचरित्र कहता है कि कृपा पूर्ण समझ की प्रतीक्षा नहीं करती, और एक अधजागी-सी भी अर्पण की क्रिया वह द्वार खोल सकती है, जो वर्षों का दुःख नहीं खोल पाया। उस विधवा की कथा दंड पर नहीं, बल्कि शिव के अपने गणों के उसे अपने स्वर्ग ले जाने पर समाप्त होती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गौतमांनी त्याला आणखी एक कथा सांगितली. एक कुष्ठरोगी विधवा हिने नकळत एका वासराची हत्या केली होती, आणि असे मानले जाते की त्यामुळे ती नरक आणि अनेक जन्मांत भटकली. ही कथा दुःखद आहे, आणि आजच्या कोणत्याही पीडित माणसावर दोष ठेवणारी म्हणून तिचे वाचन करू नये. ती सांगते की नकळत झालेली हानीही आयुष्यभर हृदयावर ओझे बनून राहू शकते.\n\nतिची मुक्ती अपघाताने झाली. महाशिवरात्रीला तिने नकळत गोकर्णच्या शिवलिंगावर बेलपत्र वाहिले. शिवाचे गण आले आणि तिला शिवलोकात नेले. श्री गुरुचरित्र म्हणते की कृपा पूर्ण समजेची वाट पाहत नाही, आणि अर्धवट जाणिवेनेही केलेले एक अर्पण ते दार उघडू शकते, जे वर्षानुवर्षांच्या दुःखाने उघडले नव्हते. त्या विधवेची कथा शिक्षेने नव्हे, तर शिवाच्या स्वतःच्या गणांनी तिला त्यांच्या स्वर्गात नेण्याने संपते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The King Goes",
+    "hi": {
+     "text": "राजा चलते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा निघतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "King Kalmashapada took Gautama’s words to heart. He travelled to Gokarna and stood before the Atmalinga with his whole history in his hands: the curse, the killings, the long years of fear, and the twelve-year spell hanging over his marriage. He worshipped there and asked for nothing but release.\n\nThe Gurucharitra says that he was freed. The sorrow of his story is not cancelled, since a brahmin had died and a household was broken. But the shrine is described as a place where heavy things can be set down, and the king at last set his down. Madayanti, who had waited beside him through the years, could now breathe again. The cleansing was not a clever rite but a plain act: a king coming to the shrine and bowing before a stone. Gokarna’s Mahabaleshwar temple, to this day, receives pilgrims who come seeking freedom from heavy memories.",
+    "hi": {
+     "text": "राजा कल्माषपाद ने गौतम के शब्दों को हृदय में बसा लिया। वे गोकर्ण पहुँचे और आत्मलिंग के सामने अपना पूरा इतिहास हाथों में लिए खड़े हो गए: शाप, हत्याएँ, भय के लंबे वर्ष, और अपने दांपत्य पर छाया बारह वर्ष का वह शाप। वहाँ उन्होंने पूजा की और मुक्ति के सिवा कुछ नहीं माँगा।\n\nश्री गुरुचरित्र कहता है कि वे मुक्त हो गए। उनकी कथा का शोक मिटता नहीं, क्योंकि एक ब्राह्मण का प्राण गया था और एक गृहस्थी टूट गई थी। पर इस तीर्थ का वर्णन ऐसे स्थान के रूप में है जहाँ भारी बोझ उतारा जा सकता है, और राजा ने अंततः अपना बोझ उतार दिया। मदयंती, जो वर्षों तक उनके साथ प्रतीक्षा करती रही थीं, अब फिर से साँस ले सकीं। शुद्धि कोई चतुर विधान नहीं थी, बल्कि एक सीधा कर्म था: एक राजा मंदिर में आया और एक पत्थर के सामने झुका। आज भी गोकर्ण का महाबलेश्वर मंदिर उन यात्रियों का स्वागत करता है जो भारी स्मृतियों से मुक्ति खोजने आते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "राजा कल्माषपादाने गौतमांचे शब्द हृदयात घेतले. तो गोकर्णला गेला आणि आत्मलिंगासमोर आपला संपूर्ण इतिहास हाती घेऊन उभा राहिला: शाप, हत्या, भयाची दीर्घ वर्षे, आणि त्याच्या संसारावर लटकलेला बारा वर्षांचा शाप. तिथे त्याने पूजा केली आणि मुक्तीशिवाय काहीही मागितले नाही.\n\nश्री गुरुचरित्र म्हणते की तो मुक्त झाला. त्याच्या कथेचे दुःख पुसले जात नाही, कारण एका ब्राह्मणाचा प्राण गेला होता आणि एक संसार तुटला होता. पण हे देवस्थान असे वर्णिले आहे जिथे जड गोष्टी ठेवता येतात, आणि राजाने शेवटी आपले ओझे ठेवले. मदयंती, जी वर्षानुवर्षे त्याच्या शेजारी वाट पाहत होती, ती आता पुन्हा श्वास घेऊ शकली. शुद्धी हा कोणताही चतुर विधी नव्हता, तर एक साधे कृत्य होते: एक राजा मंदिरात आला आणि एका दगडासमोर नतमस्तक झाला. आजही गोकर्णचे महाबळेश्वर मंदिर जड आठवणींपासून मुक्ती शोधणाऱ्या यात्रेकरूंचे स्वागत करते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Shripad at Gokarna",
+    "hi": {
+     "text": "गोकर्ण में श्रीपाद",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गोकर्णात श्रीपाद",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha ended by telling Namdharak that Shripad Shrivallabha himself lived at Gokarna for three years, quietly and without announcement. It was as if the place that frees the burdened had also become the Guru’s resting house, a seaside shrine where the young ascetic sat while kings and widows came and went.\n\nNamdharak noticed a pattern in the Siddha’s tales. The Guru goes where people are heaviest. A cursed king, a suffering widow and a wandering young ascetic all meet at one shrine, and each finds what he needs. After three years, the Siddha said, Shripad went on toward Shrigiri and the Nivritti Sangam, and finally to Kuravpur on the river Krishna. The sea wind blew over Gokarna, the lamps burned before the linga, and the young Guru sat quietly among the pilgrims without announcing himself. It is also the place where the Siddha said Shripad’s own story would turn toward the Krishna.",
+    "hi": {
+     "text": "सिद्ध ने यह कहकर अध्याय समाप्त किया कि स्वयं श्रीपाद श्रीवल्लभ गोकर्ण में तीन वर्ष रहे, शांत भाव से और बिना किसी घोषणा के। मानो जिस स्थान ने बोझ से दबे लोगों को मुक्त किया, वही गुरु का विश्राम-गृह भी बन गया, एक समुद्र-तटीय तीर्थ, जहाँ युवा संन्यासी बैठे रहते थे, जबकि राजा और विधवाएँ आते-जाते रहते थे।\n\nनामधारक ने सिद्ध की कथाओं में एक क्रम देखा। गुरु वहाँ जाते हैं जहाँ लोग सबसे अधिक भारी होते हैं। एक शापित राजा, एक पीड़ित विधवा और एक भटकता युवा संन्यासी, सब एक ही तीर्थ में मिलते हैं, और हर एक को वह मिल जाता है जिसकी उसे आवश्यकता है। सिद्ध ने कहा कि तीन वर्ष बाद श्रीपाद श्रीगिरि और निवृत्ति संगम की ओर बढ़े, और अंततः कृष्णा नदी के तट पर कुरवपुर पहुँचे। समुद्र की हवा गोकर्ण पर बहती रही, शिवलिंग के सामने दीपक जलते रहे, और युवा गुरु बिना अपना परिचय दिए यात्रियों के बीच शांति से बैठे रहे। यही वह स्थान भी है जहाँ से सिद्ध के अनुसार श्रीपाद की अपनी कथा कृष्णा की ओर मुड़ती है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी नामधारकांना सांगून कथा संपवली की स्वतः श्रीपाद श्रीवल्लभ गोकर्णात तीन वर्षे राहिले, शांतपणे आणि कोणतीही घोषणा न करता. जणू ज्या ठिकाणाने ओझ्याखाली दबलेल्यांना मुक्त केले, तेच गुरूंचे विश्रामगृह बनले, एक समुद्रकिनाऱ्यावरील तीर्थ, जिथे तरुण संन्यासी बसत, आणि राजे व विधवा येत-जात.\n\nनामधारकांना सिद्धांच्या कथांमध्ये एक क्रम दिसला. गुरू तिथे जातात जिथे लोक सर्वात जड असतात. एक शापित राजा, एक पीडित विधवा आणि एक भटका तरुण संन्यासी, हे सर्व एकाच देवस्थानात भेटतात, आणि प्रत्येकाला जे हवे ते मिळते. सिद्ध म्हणाले की तीन वर्षांनी श्रीपाद श्रीगिरी आणि निवृत्ती संगमाकडे गेले, आणि शेवटी कृष्णा नदीवरील कुरवपूरला पोहोचले. समुद्राचा वारा गोकर्णवर वाहत राहिला, शिवलिंगासमोर दिवे जळत राहिले, आणि तरुण गुरू स्वतःची ओळख न देता यात्रेकरूंमध्ये शांत बसले. सिद्धांच्या मते हेच ते ठिकाण आहे जिथून श्रीपादांची स्वतःची कथा कृष्णेकडे वळते.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there a mistake from your past you still carry? Spend two quiet minutes today letting yourself imagine it set down, then do one small repairing act.",
+  "hi": {
+   "text": "क्या आपके अतीत की कोई भूल अब भी आपके साथ है? आज दो शांत मिनट कल्पना कीजिए कि वह बोझ नीचे रखा जा चुका है, फिर कोई एक छोटा-सा सुधारने वाला कर्म कीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या भूतकाळातील एखादी चूक अजूनही तुमच्यासोबत आहे का? आज दोन शांत मिनिटे कल्पना करा की ते ओझे खाली ठेवले गेले आहे, मग एक छोटे दुरुस्तीचे कृत्य करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Grace meets us where we are heaviest, and even a half-aware offering can open a door.",
+  "hi": {
+   "text": "कृपा हमसे वहीं मिलती है जहाँ हम सबसे अधिक बोझिल होते हैं, और अधजागा-सा अर्पण भी एक द्वार खोल सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कृपा आपल्याला तिथे भेटते जिथे आपण सर्वात जड असतो, आणि अर्धवट जाणिवेतील अर्पणही दार उघडू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 7; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 7; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 7; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

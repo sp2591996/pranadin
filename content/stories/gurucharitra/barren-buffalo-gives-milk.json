@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "barren-buffalo-gives-milk",
+ "order": 22,
+ "part": "jnana",
+ "figure": {
+  "en": "Narasimha Saraswati and a poor brahmin couple of Gangapur",
+  "hi": {
+   "text": "नृसिंह सरस्वती और गाणगापुर के एक दरिद्र ब्राह्मण दंपति",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि गाणगापूरचे एक गरीब ब्राह्मण दांपत्य",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Milk from a Barren Buffalo",
+  "hi": {
+   "text": "बाँझ भैंस से दूध",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "वांझ म्हशीचे दूध",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The Guru begs for milk from a worn-out buffalo at a poor home in Gangapur, and the house is blessed.",
+  "hi": {
+   "text": "गाणगापुर के एक दरिद्र घर में गुरु एक थकी हुई भैंस से दूध माँगते हैं, और वह घर आशीर्वादित हो जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गाणगापूरमधील एका गरीब घरात गुरू एका थकलेल्या म्हशीचे दूध मागतात, आणि ते घर आशीर्वादित होते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-kamdhenu.webp",
+   "w": 1200,
+   "h": 924,
+   "caption": {
+    "en": "Kamadhenu, the wish-giving cow",
+    "hi": {
+     "text": "कामधेनु, इच्छापूर्ति करने वाली गाय",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कामधेनू, इच्छा पुरवणारी गाय",
+     "reviewed": false
+    }
+   },
+   "credit": "Kamdhenu, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kamdhenu.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Begging at Gangapur",
+    "hi": {
+     "text": "गाणगापुर में भिक्षा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गाणगापूरमध्ये भिक्षा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru left the sangam, the place where the Bhima and Amarja rivers meet, and went into the town of Gangapur to beg for food, as a sanyasi does. He passed from house to house. There were about a hundred households of brahmins in the town, and he moved among them without any display.\n\nOne home he stopped at was very poor. A brahmin lived there with his devoted wife, and they owned very little. Their one valuable possession was an old she-buffalo that had never given milk and could not bear young. His rounds were slow and quiet, and he asked for little. The Gurucharitra says little of the other houses, and moves quickly toward the one where something remarkable would happen. The Siddha tells Namdharak that the Guru went on foot, as a sanyasi does, asking only what each household could spare, and that in a town of about a hundred brahmin homes he stopped at the poorest of them.",
+    "hi": {
+     "text": "गुरु भीमा और अमरजा के संगम से निकलकर गाणगापुर नगर में भिक्षा माँगने गए, जैसे एक संन्यासी करता है। वे घर-घर गए। नगर में लगभग सौ ब्राह्मण परिवार थे, और वे उनके बीच बिना किसी दिखावे के घूमते रहे।\n\nजिस एक घर पर वे रुके, वह बहुत दरिद्र था। वहाँ एक ब्राह्मण अपनी समर्पित पत्नी के साथ रहते थे, और उनके पास बहुत कम था। उनकी एक मूल्यवान संपत्ति एक बूढ़ी मादा भैंस थी, जिसने कभी दूध नहीं दिया था और न बच्चे जने थे। उनका भ्रमण धीमा और शांत था, और वे बहुत कम माँगते थे। श्री गुरुचरित्र अन्य घरों के विषय में बहुत कम कहता है, और जल्दी उस घर की ओर बढ़ता है जहाँ कुछ असाधारण घटने वाला था। सिद्ध नामधारक को बताते हैं कि गुरु पैदल चले, जैसे संन्यासी चलते हैं, और केवल वही माँगते रहे जो हर घर दे सकता था, और लगभग सौ ब्राह्मण परिवारों वाले नगर में उन्होंने सबसे दरिद्र घर को चुना।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू भीमा आणि अमरजा यांच्या संगमावरून निघून गाणगापूर नगरात संन्याशाप्रमाणे भिक्षा मागायला गेले. ते घरोघर फिरले. नगरात सुमारे शंभर ब्राह्मण कुटुंबे होती, आणि ते कोणताही दिखावा न करता त्यांच्यामध्ये फिरले.\n\nज्या एका घरी ते थांबले ते फार गरीब होते. तिथे एक ब्राह्मण आपल्या निष्ठावान पत्नीसोबत राहत होते, आणि त्यांच्याजवळ फार थोडे होते. त्यांची एक मौल्यवान मालमत्ता एक जुनी मादी म्हैस होती, जिने कधी दूध दिले नव्हते आणि वासरू दिले नव्हते. गुरूंच्या फेऱ्या संथ आणि शांत होत्या, आणि ते फार थोडे मागत. श्री गुरुचरित्र इतर घरांविषयी फार कमी सांगते, आणि जिथे काहीतरी विलक्षण घडणार होते त्या घराकडे पटकन वळते. सिद्ध नामधारकांना सांगतात की गुरू संन्याशाप्रमाणे पायी चालले, प्रत्येक घर काय देऊ शकेल तेवढेच मागत, आणि सुमारे शंभर ब्राह्मण घरांच्या नगरात त्यांनी सर्वात गरीब घर निवडले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Hired Buffalo",
+    "hi": {
+     "text": "किराए पर लगी भैंस",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भाड्याने दिलेली म्हैस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Since the buffalo gave no milk, the couple had found another use for her. They hired her out to carry loads, and the small payment helped them to eat. She was thin and tired from years of work, but she was part of the household, and the wife fed her faithfully. The little they earned from hiring her out was a thin thread of income, and the couple lived close to want.\n\nThat day in the hot month of Vaishakh, the husband was away from home. The sun stood overhead and the street was empty. It was at this time of day that the Guru reached the door. The wife spoke to her in the evenings, as one speaks to an old friend, and gave her water and fodder before she thought of her own supper. It was a small kindness repeated every day, with no one to see it.",
+    "hi": {
+     "text": "चूँकि भैंस दूध नहीं देती थी, दंपति ने उसके लिए दूसरा उपयोग खोज लिया था। वे उसे बोझ ढोने के लिए किराए पर देते थे, और उस छोटी-सी आय से उन्हें भोजन मिलता था। वर्षों के काम से वह दुबली और थकी हुई थी, पर वह परिवार का हिस्सा थी, और पत्नी उसे निष्ठा से चारा देती थी। किराए से जो थोड़ी कमाई होती, वह एक पतले धागे जैसी आय थी, और दंपति अभाव के बहुत निकट जीते थे।\n\nउस दिन वैशाख के गरम महीने में पति घर से बाहर थे। सूरज सिर पर था और गली सूनी थी। दिन के इसी समय गुरु द्वार तक पहुँचे। पत्नी शाम को उससे ऐसे बात करती थी जैसे किसी पुरानी सखी से करते हैं, और अपने भोजन से पहले उसे पानी और चारा देती थी। यह एक छोटी-सी दयालुता थी, जो हर दिन दोहराई जाती थी, और जिसे देखने वाला कोई नहीं था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "म्हैस दूध देत नसल्यामुळे दांपत्याने तिचा दुसरा उपयोग शोधला होता. ते तिला ओझे वाहण्यासाठी भाड्याने देत, आणि त्या छोट्या पैशांनी त्यांना अन्न मिळे. वर्षानुवर्षांच्या कामामुळे ती बारीक आणि थकलेली होती, पण ती कुटुंबाचा भाग होती, आणि पत्नी तिला निष्ठेने चारा देत असे. भाड्यातून मिळणारी थोडीशी कमाई हा एक पातळ धागा होता, आणि ते दांपत्य गरजेच्या अगदी जवळ जगत होते.\n\nत्या दिवशी वैशाखाच्या उन्हाळ्यात पती घराबाहेर होते. सूर्य डोक्यावर होता आणि रस्ता सुनसान होता. दिवसाच्या याच वेळी गुरू दारात पोहोचले. पत्नी संध्याकाळी तिच्याशी जुन्या सखीसारखी बोलत असे, आणि स्वतःच्या जेवणाआधी तिला पाणी व चारा देत असे. ही रोज पुनरावृत्त होणारी एक छोटीशी दयाळूपणा होती, जी पाहणारे कोणी नव्हते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Request for Milk",
+    "hi": {
+     "text": "दूध की माँग",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुधाची मागणी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The wife saw a sanyasi standing in the heat and came out and offered him a seat, as any host would. She had little to give him, and she was worried about that. She asked what she could bring him.\n\nThe Guru looked at the buffalo and asked why she did not give him milk from it. The woman said gently that the animal was old and barren and had never given a drop. But the Guru asked again. He did not tell her to hope. He simply asked her to try. The wife was embarrassed. A guest had asked for something she could not give, and she did not wish to say no to a sanyasi. She explained, kindly and apologetically, that the buffalo was old and had never given milk. The Guru's reply was unchanged. There was something in his face that made her stand up and go for the pot.",
+    "hi": {
+     "text": "पत्नी ने गरमी में खड़े एक संन्यासी को देखा, और जैसे हर गृहस्थ करता, बाहर आकर उन्हें बैठने को कहा। उनके पास देने को बहुत कम था, और इस बात की उन्हें चिंता थी। उन्होंने पूछा कि वे उनके लिए क्या ला सकती हैं।\n\nगुरु ने भैंस की ओर देखा और पूछा कि वह उनको उसका दूध क्यों नहीं देती। स्त्री ने कोमलता से कहा कि पशु बूढ़ा और बाँझ है, और उसने एक बूँद भी कभी नहीं दी। पर गुरु ने फिर पूछा। उन्होंने उसे आशा रखने को नहीं कहा। उन्होंने केवल प्रयास करने को कहा। पत्नी संकोच में पड़ गई। एक अतिथि ने ऐसी वस्तु माँगी थी जो वह दे नहीं सकती थी, और वह किसी संन्यासी को न कहना नहीं चाहती थी। उसने विनम्रता और क्षमा-याचना के साथ समझाया कि भैंस बूढ़ी है और उसने कभी दूध नहीं दिया। गुरु का उत्तर वही रहा। उनके चेहरे पर कुछ ऐसा था जिसने उसे उठकर बर्तन लेने के लिए प्रेरित कर दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पत्नीने उन्हात उभ्या असलेल्या एका संन्याशाला पाहिले, आणि कोणताही गृहस्थ करेल तसे बाहेर येऊन त्यांना बसायला सांगितले. तिच्याजवळ देण्यासारखे फार थोडे होते, आणि त्याची तिला काळजी वाटत होती. तिने विचारले की ती त्यांच्यासाठी काय आणू शकते.\n\nगुरूंनी म्हशीकडे पाहिले आणि विचारले की ती त्यांना तिचे दूध का देत नाही. स्त्रीने कोमलतेने सांगितले की प्राणी म्हातारा आणि वांझ आहे, आणि त्याने एक थेंबही दिला नाही. पण गुरूंनी पुन्हा विचारले. त्यांनी तिला आशा ठेवायला सांगितले नाही. त्यांनी फक्त प्रयत्न करायला सांगितले. पत्नी संकोचली. एका पाहुण्याने असे काही मागितले होते जे ती देऊ शकत नव्हती, आणि तिला संन्याशाला नाही म्हणायचे नव्हते. तिने नम्रतेने आणि क्षमायाचनेने समजावले की म्हैस म्हातारी आहे आणि तिने कधीच दूध दिले नाही. गुरूंचे उत्तर तसेच राहिले. त्यांच्या चेहऱ्यावर असे काहीतरी होते ज्याने तिला उठून भांडे आणायला प्रवृत्त केले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Two Pots Full",
+    "hi": {
+     "text": "दो बर्तन भरे",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दोन भांडी भरली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "She took a pot and sat by the animal, not believing it would help, but unwilling to refuse a guest. To her wonder, the milk came. It came until two pots were full. She carried it into the house, boiled it and offered it to the Guru with folded hands.\n\nHe drank and was pleased. He blessed the house, saying that Lakshmi would stay there. The woman stood in her small kitchen beside the pots, hardly able to understand what had happened. The woman's hands shook as she poured the milk into the pot and set it on the fire. She watched it rise and thought of the poor years behind her. When she carried it out in a clean bowl, the Guru took it with a nod, drank it slowly and handed back the bowl. Then he spoke of Lakshmi, and of a house that would not know want again.",
+    "hi": {
+     "text": "उसने एक बर्तन लिया और पशु के पास बैठ गई, इस विश्वास के बिना कि इससे कुछ होगा, पर एक अतिथि को मना करना भी नहीं चाहती थी। उसके आश्चर्य का ठिकाना न रहा, दूध निकल आया। दूध तब तक आता रहा जब तक दो बर्तन भर न गए। वह उसे घर लाई, उबाला और हाथ जोड़कर गुरु को अर्पित किया।\n\nउन्होंने पिया और प्रसन्न हुए। उन्होंने घर को आशीर्वाद दिया, कहते हुए कि लक्ष्मी वहीं रहेंगी। वह स्त्री अपनी छोटी रसोई में बर्तनों के पास खड़ी थी, और मुश्किल से समझ पा रही थी कि क्या हुआ है। बर्तन में दूध डालते समय उसके हाथ काँप रहे थे, और उसने उसे आग पर रखा। उसने उसे उठते देखा और अपने पीछे के दरिद्र वर्षों की सोचने लगी। जब वह उसे स्वच्छ कटोरे में लेकर बाहर आई, तो गुरु ने सिर हिलाकर उसे लिया, धीरे-धीरे पिया और कटोरा लौटा दिया। फिर उन्होंने लक्ष्मी की बात की, और एक ऐसे घर की, जो फिर कभी अभाव नहीं जानेगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तिने एक भांडे घेतले आणि प्राण्याजवळ बसली, मदत होईल यावर विश्वास नसताना, पण पाहुण्याला नकार देण्याची इच्छा नसल्याने. तिच्या आश्चर्याचा पार उरला नाही, दूध निघाले. ते दोन भांडी भरेपर्यंत येत राहिले. तिने ते घरी आणले, उकळले आणि हात जोडून गुरूंना अर्पण केले.\n\nत्यांनी ते प्याले आणि प्रसन्न झाले. त्यांनी घराला आशीर्वाद दिला, लक्ष्मी तिथेच राहील असे म्हणत. ती स्त्री आपल्या छोट्या स्वयंपाकघरात भांड्यांजवळ उभी होती, आणि काय घडले ते क्वचितच समजत होती. भांड्यात दूध ओतताना तिचे हात थरथरत होते, आणि तिने ते आगीवर ठेवले. ते उकळताना पाहत तिने आपल्या मागील गरीब वर्षांचा विचार केला. जेव्हा ती स्वच्छ वाटीत ते घेऊन बाहेर आली, तेव्हा गुरूंनी होकार देत ते घेतले, हळूहळू प्याले आणि वाटी परत दिली. मग त्यांनी लक्ष्मीविषयी सांगितले, आणि अशा घराविषयी जे पुन्हा कधीच दारिद्र्य अनुभवणार नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Husband Returns",
+    "hi": {
+     "text": "पति लौटते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पती परततात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the husband came home, his wife told him everything: the sanyasi, the request, the milk. He listened with growing astonishment and looked at the old buffalo, who stood chewing quietly in the yard as if nothing had changed.\n\nThe poverty of the couple ended from that day. They had a son and a daughter, and a comfortable home, and a long life together. The Siddha says plainly that this was the Guru's blessing, given for a small act of welcome and a woman's willingness to try one more time. The next day the buffalo drew a crowd, and the couple, who had never had visitors, found their yard full of people asking questions. They answered each one as honestly as they could, and did not claim the credit. It was the first sign that the Guru's stay in Gangapur would change the town, and it began with a poor woman's willingness to try.",
+    "hi": {
+     "text": "जब पति घर लौटे, तो पत्नी ने उन्हें सब कुछ बताया: संन्यासी, माँग और दूध। उन्होंने बढ़ते विस्मय के साथ सुना और उस बूढ़ी भैंस को देखा, जो आँगन में शांति से जुगाली कर रही थी, मानो कुछ बदला ही न हो।\n\nउस दिन से उस दंपति की दरिद्रता समाप्त हो गई। उनके एक पुत्र और एक पुत्री हुई, एक सुखद घर हुआ, और साथ में एक लंबा जीवन। सिद्ध स्पष्ट रूप से कहते हैं कि यह गुरु का आशीर्वाद था, जो एक छोटे-से स्वागत-भाव और एक स्त्री की एक और बार प्रयास करने की इच्छा के बदले में दिया गया। अगले दिन उस भैंस को देखने भीड़ जुट गई, और वह दंपति, जिसके यहाँ कभी कोई आता नहीं था, अपना आँगन लोगों से भरा हुआ पाने लगा। उन्होंने हर एक का प्रश्न यथासंभव ईमानदारी से उत्तर दिया और श्रेय अपने लिए नहीं लिया। यह पहला संकेत था कि गाणगापुर में गुरु का निवास नगर को बदल देगा, और यह एक दरिद्र स्त्री की प्रयास करने की इच्छा से आरंभ हुआ।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "जेव्हा पती घरी परतले, तेव्हा पत्नीने त्यांना सर्वकाही सांगितले: संन्यासी, मागणी आणि दूध. त्यांनी वाढत्या आश्चर्याने ऐकले, आणि आवारात शांतपणे रवंथ करत उभ्या असलेल्या त्या म्हातारी म्हशीकडे पाहिले, जणू काहीच बदलले नव्हते.\n\nत्या दिवसापासून दांपत्याची दरिद्रता संपली. त्यांना एक मुलगा आणि एक मुलगी झाली, एक सुखी घर झाले, आणि एकत्र दीर्घायुष्य मिळाले. सिद्ध स्पष्टपणे सांगतात की हा गुरूंचा आशीर्वाद होता, एका छोट्या स्वागताच्या कृतीसाठी आणि एका स्त्रीच्या आणखी एकदा प्रयत्न करण्याच्या तयारीसाठी दिलेला. दुसऱ्या दिवशी त्या म्हशीला पाहायला गर्दी जमली, आणि कधीच कोणी पाहुणे न आलेल्या दांपत्याचे अंगण प्रश्न विचारणाऱ्या लोकांनी भरले. त्यांनी प्रत्येकाच्या प्रश्नाचे शक्य तितक्या प्रामाणिकपणे उत्तर दिले, आणि श्रेय स्वतःकडे घेतले नाही. गाणगापूरमध्ये गुरूंच्या वास्तव्याने नगर बदलेल याचे हे पहिले चिन्ह होते, आणि ते एका गरीब स्त्रीच्या प्रयत्नाच्या इच्छेने सुरू झाले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "What is one thing you have written off as useless or too old to change? Give it one honest try today.",
+  "hi": {
+   "text": "आपने किस चीज़ को बेकार या बदलने के लिए बहुत पुरानी मान लिया है? आज उसे एक ईमानदार प्रयास दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणती अशी गोष्ट आहे जी तुम्ही निरुपयोगी किंवा बदलण्यासाठी फार जुनी समजून बाजूला टाकली आहे? आज तिला एक प्रामाणिक प्रयत्न द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A sincere welcome, however poor the home, draws blessings that wealth cannot buy.",
+  "hi": {
+   "text": "हृदय से किया गया स्वागत, चाहे घर कितना भी दरिद्र हो, वे आशीर्वाद लाता है जिन्हें धन नहीं खरीद सकता।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "हृदयापासून दिलेले स्वागत, घर कितीही गरीब असले तरी, असे आशीर्वाद आणते जे संपत्ती विकत घेऊ शकत नाही.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 22; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 22; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 22; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

@@ -4,165 +4,213 @@
  "version": "2026-11-28.1",
  "status": "draft",
  "id": "washerman-who-became-king",
- "order": 6,
+ "order": 9,
  "part": "jnana",
  "figure": {
-  "en": "Shripad Shrivallabha and a humble washerman",
+  "en": "Shripad and the washerman",
   "hi": {
-   "text": "श्रीपाद श्रीवल्लभ और एक साधारण धोबी",
+   "text": "श्रीपाद और धोबी",
    "reviewed": false
   },
   "mr": {
-   "text": "श्रीपाद श्रीवल्लभ आणि एक साधा परीट",
+   "text": "श्रीपाद आणि धोबी",
    "reviewed": false
   }
  },
  "title": {
-  "en": "The Washerman’s Wish",
+  "en": "A Washerman’s Wish",
   "hi": {
-   "text": "धोबी की इच्छा",
+   "text": "एक धोबी की इच्छा",
    "reviewed": false
   },
   "mr": {
-   "text": "परिटाची इच्छा",
+   "text": "एका धोब्याची इच्छा",
    "reviewed": false
   }
  },
  "teaser": {
-  "en": "A man who washes clothes by the river watches a king ride past and wonders. The Guru hears the wonder.",
+  "en": "A humble servant watches a king’s procession, and the Guru reads his heart.",
   "hi": {
-   "text": "नदी किनारे कपड़े धोने वाला एक मनुष्य एक राजा को गुज़रते देखता है और सोचता है। गुरु उस सोच को सुन लेते हैं।",
+   "text": "एक विनम्र सेवक एक राजा का जुलूस देखता है, और गुरु उसके हृदय को पढ़ लेते हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "नदीकाठी कपडे धुणारा एक माणूस एका राजाला जाताना पाहतो आणि विचार करतो. गुरू तो विचार ऐकतात.",
+   "text": "एक नम्र सेवक राजाची मिरवणूक पाहतो, आणि गुरू त्याचे मन ओळखतात.",
    "reviewed": false
   }
  },
  "images": [
   {
-   "src": "/stories/gurucharitra/gc-5.webp",
-   "w": 764,
-   "h": 1100,
+   "src": "/stories/gurucharitra/n-krishnai.webp",
+   "w": 1200,
+   "h": 900,
    "caption": {
-    "en": "Pithapuram, birthplace of Shripad Shrivallabha",
+    "en": "Krishnai temple on the bank of the Krishna river",
     "hi": {
-     "text": "पीठापुरम, श्रीपाद श्रीवल्लभ की जन्मभूमि",
+     "text": "कृष्णा नदी तट पर कृष्णाई मंदिर",
      "reviewed": false
     },
     "mr": {
-     "text": "पीठापूर, श्रीपाद श्रीवल्लभांचे जन्मस्थान",
+     "text": "कृष्णा नदीकाठचे कृष्णाई मंदिर",
      "reviewed": false
     }
    },
-   "credit": "Adityamadhav83, CC BY-SA 3.0, via Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Pithapuram_Montage.jpg"
+   "credit": "DesiBoy101, CC BY 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Krishnai_Temple.jpg"
   }
  ],
  "scenes": [
   {
    "title": {
-    "en": "A mother and her slow son",
+    "en": "The Faithful Washerman",
     "hi": {
-     "text": "एक माँ और उसका धीमा पुत्र",
+     "text": "विश्वासी धोबी",
      "reviewed": false
     },
     "mr": {
-     "text": "एक आई आणि तिचा मंद मुलगा",
+     "text": "निष्ठावान धोबी",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The Siddha told of days when Shripad Shrivallabha walked among ordinary families. One brahmin woman came to him in worry for her son, who learned slowly and was teased for it. She feared for his future, and she poured her heart out at the Guru’s feet. She had been to many teachers before, and each had told her to be patient, but nobody had actually sat with her.\n\nShripad listened tenderly. He told her that no child is a lost cause, and he gave the boy his blessing and a share of his calm. The Gurucharitra tells that the family found peace, and the mother went home lighter. The Siddha told Namdharak that the Guru’s first gift is often just to listen without judging. The boy, who had been braced for scolding, looked up at the Guru and smiled shyly, as if a fear had lifted.",
+    "en": "At Kuravpur a washerman served Shripad with great devotion. He washed his clothes, and later he swept the ground and sprinkled water around the place where the Guru stayed. He asked for nothing, and he did every task with quiet care. Once, Shripad told him to go home and live happily with his family, but the washerman could not leave. He gave up his household life and stayed on to serve.\n\nSuch service has no show in it. A washerman is invisible in the world’s eyes, yet the Gurucharitra gives him a whole chapter. It says, in its own way, that the Guru sees servants and kings alike, and that the quiet heart of the one who sweeps may be dearer to him than the learning of the one who recites. Kuravpur lies on the bank of the Krishna, where the work of washing and sweeping went on day after day.",
     "hi": {
-     "text": "सिद्ध ने उन दिनों की बात की जब श्रीपाद श्रीवल्लभ साधारण परिवारों के बीच चलते थे। एक ब्राह्मण स्त्री अपने पुत्र की चिंता लेकर उनके पास आई, जो धीरे सीखता था और जिसका इसके लिए उपहास होता था। उसे उसके भविष्य का भय था, और उसने गुरु के चरणों में अपना हृदय उँडेल दिया। वह पहले अनेक गुरुओं के पास जा चुकी थी, और हर किसी ने धैर्य रखने को कहा था, पर किसी ने सचमुच उसके साथ बैठकर बात नहीं की थी।\n\nश्रीपाद ने कोमलता से सुना। उन्होंने उससे कहा कि कोई बालक हारा हुआ नहीं होता, और उन्होंने बालक को आशीर्वाद दिया और अपनी शांति का एक अंश भी। गुरुचरित्र बताता है कि परिवार को शांति मिली, और माँ हल्की होकर घर लौटी। सिद्ध ने नामधारक से कहा कि गुरु का पहला उपहार अक्सर बस बिना परखे सुनना होता है। बालक, जो डाँट के लिए तैयार खड़ा था, गुरु की ओर देखकर शरमाकर मुस्कुराया, मानो कोई भय उतर गया हो।",
+     "text": "कुरवपुर में एक धोबी श्रीपाद की बड़ी भक्ति से सेवा करता था। वह उनके वस्त्र धोता, और बाद में वह उस स्थान को बुहारता और जल छिड़कता जहाँ गुरु रहते थे। उसने कुछ नहीं माँगा, और हर काम शांत सावधानी से किया। एक बार श्रीपाद ने उससे कहा कि वह घर लौटकर परिवार के साथ सुखी रहे, पर धोबी नहीं जा सका। उसने गृहस्थ जीवन छोड़ दिया और सेवा के लिए वहीं रुक गया।\n\nऐसी सेवा में कोई दिखावा नहीं होता। संसार की दृष्टि में धोबी अदृश्य रहता है, फिर भी श्री गुरुचरित्र उसे एक पूरा अध्याय देता है। वह अपनी रीति से कहता है कि गुरु सेवक और राजा, दोनों को देखते हैं, और जो बुहारता है उसका शांत हृदय उन्हें उस व्यक्ति से भी प्रिय हो सकता है जो केवल पाठ करता है। कुरवपुर कृष्णा के तट पर बसा है, जहाँ धोने और बुहारने का कार्य दिन-प्रतिदिन चलता रहता था।",
      "reviewed": false
     },
     "mr": {
-     "text": "सिद्धांनी त्या दिवसांची गोष्ट सांगितली जेव्हा श्रीपाद श्रीवल्लभ सामान्य कुटुंबांमध्ये फिरत. एक ब्राह्मण स्त्री आपल्या मुलाच्या काळजीने त्यांच्याकडे आली, जो हळू शिकत असे आणि त्यामुळे त्याची टिंगल होई. तिला त्याच्या भविष्याची भीती वाटत होती, आणि तिने गुरूंच्या चरणी आपले हृदय ओतले. ती याआधी अनेक गुरूंकडे गेली होती, आणि प्रत्येकाने तिला धीर धर म्हटले होते, पण कोणीही खरोखर तिच्याबरोबर बसले नव्हते.\n\nश्रीपादांनी मायेने ऐकले. त्यांनी तिला सांगितले की कोणतेही मूल वाया गेलेले नसते, आणि त्यांनी मुलाला आशीर्वाद दिला आणि आपल्या शांततेचा एक वाटा दिला. गुरुचरित्र सांगते की कुटुंबाला शांती लाभली, आणि आई हलकी होऊन घरी गेली. सिद्धांनी नामधारकाला सांगितले की गुरूंची पहिली देणगी अनेकदा फक्त दोष न देता ऐकणे असते. मुलगा, जो रागावण्याला सज्ज होऊन उभा होता, गुरूंकडे पाहून लाजून हसला, जणू एखादी भीती उतरली होती.",
+     "text": "कुरवपूरमध्ये एक धोबी श्रीपादांची मोठ्या भक्तीने सेवा करत असे. तो त्यांचे कपडे धुवत, आणि नंतर गुरू जिथे राहत त्या जागेची झाडलोट करून पाणी शिंपडत. त्याने काहीही मागितले नाही, आणि प्रत्येक काम शांत काळजीने केले. एकदा श्रीपादांनी त्याला घरी जाऊन कुटुंबासोबत सुखाने राहण्यास सांगितले, पण धोबी जाऊ शकला नाही. त्याने संसार सोडला आणि सेवेसाठी तिथेच थांबला.\n\nअशा सेवेत कोणताही दिखावा नसतो. जगाच्या नजरेत धोबी अदृश्य असतो, तरीही श्री गुरुचरित्र त्याला एक संपूर्ण अध्याय देते. ते आपल्या पद्धतीने सांगते की गुरू सेवक आणि राजा दोघांनाही पाहतात, आणि जो झाडलोट करतो त्याचे शांत अंतःकरण त्यांना जो पठण करतो त्याच्या विद्येपेक्षाही प्रिय असू शकते. कुरवपूर कृष्णेच्या काठी आहे, जिथे धुणे आणि झाडलोट दिवसेंदिवस चालत असे.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "The man at the riverbank",
+    "en": "A Procession Passes",
     "hi": {
-     "text": "नदी किनारे का मनुष्य",
+     "text": "एक जुलूस गुजरता है",
      "reviewed": false
     },
     "mr": {
-     "text": "नदीकाठचा माणूस",
+     "text": "एक मिरवणूक जाते",
      "reviewed": false
     }
    },
    "text": {
-    "en": "On the riverbank worked a washerman, a man of humble standing in a society that placed him low. He washed clothes all day, and in the evenings he served the Guru with devotion, bringing water, sweeping the ground and asking nothing. In that world of rank and birth, this was simply love, offered without calculation. His hands were rough from the river, and his clothes were always damp, yet no one at the Guru’s side was gladder or more faithful.\n\nOne day the washerman saw a royal procession pass, with elephants, banners and a king in splendour. A small wish rose in his heart, and he did not hide it. Shripad, who sees what hearts hold, called him close and asked gently what was on his mind. The washerman admitted the wish, a little ashamed. He wished only to know, for one day, what it might feel like to be looked at with respect by the whole world.",
+    "en": "One spring a Muslim king passed by Kuravpur on a journey. He came with his harem, his elephants and his musicians, and the whole road shimmered with silk and gold. The washerman stood at the edge of the road, with the dust of the procession settling on his clothes, and a thought rose in him that he could not put down: how wonderful it would be to live like that.\n\nThere was no shame in the wish. It was a plain human longing, the kind that arises in almost anyone when the world parades its comforts. The tale does not mock him for it. It simply notes that even a heart devoted to the Guru can feel the pull of what it does not have, and that the Guru, who sees every thought, had been watching. The king’s drums could be heard from far off, and the villagers ran to the road to see elephants painted with coloured designs.",
     "hi": {
-     "text": "नदी के तट पर एक धोबी काम करता था, ऐसे समाज में साधारण हैसियत का मनुष्य जिसने उसे नीचा स्थान दिया था। वह दिन भर कपड़े धोता, और संध्या को भक्ति से गुरु की सेवा करता, पानी लाता, भूमि बुहारता और कुछ न माँगता। पद और जन्म के उस संसार में यह केवल प्रेम था, बिना हिसाब के अर्पित। उसके हाथ नदी से खुरदरे हो गए थे, और उसके कपड़े सदा गीले रहते, फिर भी गुरु के पास कोई उससे अधिक प्रसन्न या निष्ठावान न था।\n\nएक दिन धोबी ने एक राजसी जुलूस गुज़रते देखा, हाथियों, ध्वजाओं और वैभव में सजे एक राजा के साथ। उसके हृदय में एक छोटी-सी इच्छा उठी, और उसने उसे छिपाया नहीं। श्रीपाद ने, जो हृदयों में बसा देख लेते हैं, उसे पास बुलाया और कोमलता से पूछा कि मन में क्या है। धोबी ने इच्छा स्वीकार की, थोड़ा लज्जित होकर। वह बस इतना जानना चाहता था कि एक दिन के लिए सारे संसार की आदरभरी दृष्टि का केंद्र होना कैसा लगता है।",
+     "text": "एक वसंत में एक मुस्लिम बादशाह यात्रा करते हुए कुरवपुर से गुज़रे। वे अपनी रानियों, हाथियों और संगीतकारों के साथ आए, और पूरा मार्ग रेशम और सोने से चमक उठा। धोबी मार्ग के किनारे खड़ा था, जुलूस की धूल उसके वस्त्रों पर बैठ रही थी, और उसके मन में एक ऐसा विचार उठा जिसे वह दबा न सका: कैसा अच्छा होता यदि वह भी ऐसे ही जीता।\n\nइस इच्छा में कोई लज्जा नहीं थी। यह एक सामान्य मानवीय लालसा थी, वैसी जो लगभग हर किसी के मन में तब उठती है जब संसार अपनी सुख-सुविधाओं का प्रदर्शन करता है। कथा उसका उपहास नहीं करती। वह केवल इतना कहती है कि गुरु के प्रति समर्पित हृदय भी उस ओर खिंच सकता है जो उसके पास नहीं है, और वे गुरु, जो हर विचार देखते हैं, यह सब देख रहे थे। बादशाह के नगाड़े दूर से सुनाई दे रहे थे, और गाँव के लोग रंग-बिरंगी चित्रकारी वाले हाथियों को देखने सड़क पर दौड़ पड़े।",
      "reviewed": false
     },
     "mr": {
-     "text": "नदीच्या काठावर एक परीट काम करीत असे, अशा समाजात साधा माणूस ज्याने त्याला खालचे स्थान दिले होते. तो दिवसभर कपडे धुवी, आणि संध्याकाळी भक्तीने गुरूंची सेवा करी, पाणी आणी, जमीन झाडी आणि काही मागत नसे. पद आणि जन्माच्या त्या जगात हे केवळ प्रेम होते, हिशोबाविना अर्पण केलेले. त्याचे हात नदीमुळे खरखरीत झाले होते, आणि त्याचे कपडे सदा ओले असत, तरीही गुरूंच्या शेजारी त्याच्यापेक्षा आनंदी किंवा निष्ठावान कोणी नव्हते.\n\nएके दिवशी परिटाने एक राजेशाही मिरवणूक जाताना पाहिली, हत्ती, पताका आणि वैभवात सजलेल्या राजासह. त्याच्या हृदयात एक छोटी इच्छा उठली, आणि त्याने ती लपवली नाही. श्रीपादांनी, जे हृदयात वसणारे पाहतात, त्याला जवळ बोलावले आणि हळुवारपणे विचारले की मनात काय आहे. परिटाने इच्छा कबूल केली, थोडा लाजून. त्याला फक्त हे जाणून घ्यायचे होते की एका दिवसासाठी सर्व जगाने आदराने पाहणे कसे वाटते.",
+     "text": "एका वसंतात एक मुस्लिम बादशहा प्रवासात कुरवपूरमधून गेला. तो आपल्या हरममधील स्त्रिया, हत्ती आणि वादकांसह आला, आणि संपूर्ण रस्ता रेशीम आणि सोन्याने झगमगला. धोबी रस्त्याच्या कडेला उभा होता, मिरवणुकीची धूळ त्याच्या कपड्यांवर बसत होती, आणि त्याच्या मनात एक विचार उठला जो तो दाबू शकला नाही: असे जगता आले असते तर किती छान झाले असते.\n\nया इच्छेत लाजण्यासारखे काही नव्हते. ती एक साधी मानवी आकांक्षा होती, जशी जग आपली सुखे मिरवते तेव्हा जवळजवळ प्रत्येकाच्या मनात उठते. कथा त्याची थट्टा करत नाही. ती फक्त इतके नोंदवते की गुरूंना समर्पित हृदयालाही जे नाही त्याची ओढ लागू शकते, आणि प्रत्येक विचार पाहणारे गुरू हे सर्व पाहत होते. बादशहाचे नगारे दुरून ऐकू येत होते, आणि गावकरी रंगीत नक्षीच्या हत्तींना पाहण्यासाठी रस्त्यावर धावले.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Grace without borders",
+    "en": "The Guru Reads the Mind",
     "hi": {
-     "text": "सीमाओं से परे कृपा",
+     "text": "गुरु मन को पढ़ते हैं",
      "reviewed": false
     },
     "mr": {
-     "text": "सीमा नसलेली कृपा",
+     "text": "गुरू मन वाचतात",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The Gurucharitra tells that Shripad blessed him: in a later life, the washerman would be born as a king. And so it was said that he took birth in a royal house in a kingdom ruled by Muslim kings, and ruled in his turn. It is told as grace, not as any change of faith or a bargain, because grace does not stop at the borders of caste, rank or religion. There is no mention of the Guru asking him to change his faith, his work or his ways to earn this blessing.\n\nThe Siddha said that the tale holds two quiet lessons. A servant’s love is never wasted, and even a wish voiced honestly is heard. Namdharak noticed, too, that nobody in the story was too low for the Guru’s attention, which is why so many people loved him. Namdharak reflected that a person’s true worth is seen first by those who look with love, and only later by the world.",
+    "en": "Shripad, who sees what is in every mind, called the washerman to him. He said gently that sensual enjoyment is an obstacle to liberation, and that the pleasures the washerman admired are not as satisfying as they look. But he did not scold him. He told him that he would indeed be born into royalty.\n\nThen Shripad added something Namdharak found thrilling: he himself would later be known as Narasimha Saraswati and would live as a sannyasi. The Guru offered a servant not only his wish but a glimpse of his own future. It was a moment of closeness, as if the master were saying that the story they were living together would continue across lifetimes, and that they would meet again. He had spoken, he said, of what is lasting and what is not, and he left it to the washerman to remember.",
     "hi": {
-     "text": "गुरुचरित्र बताता है कि श्रीपाद ने उसे आशीर्वाद दिया: अगले जन्म में धोबी राजा बनकर जन्म लेगा। और कहा जाता है कि उसने मुस्लिम राजाओं द्वारा शासित एक राज्य के राजघराने में जन्म लिया, और अपनी बारी में राज किया। यह कृपा के रूप में कहा गया है, किसी धर्म-परिवर्तन या सौदे के रूप में नहीं, क्योंकि कृपा जाति, पद या धर्म की सीमाओं पर नहीं रुकती। कहीं यह उल्लेख नहीं कि गुरु ने इस आशीर्वाद के लिए उससे अपनी आस्था, अपना काम या अपने ढंग बदलने को कहा।\n\nसिद्ध ने कहा कि कथा में दो शांत सीखें हैं। सेवक का प्रेम कभी व्यर्थ नहीं जाता, और ईमानदारी से कही गई इच्छा भी सुनी जाती है। नामधारक ने यह भी देखा कि कथा में कोई इतना छोटा नहीं था कि गुरु का ध्यान उस पर न जाए, इसीलिए इतने लोग उन्हें चाहते थे। नामधारक ने सोचा कि मनुष्य का सच्चा मूल्य पहले उन्हें दिखता है जो प्रेम से देखते हैं, और संसार को बाद में।",
+     "text": "श्रीपाद, जो हर मन में जो है उसे देख लेते हैं, धोबी को अपने पास बुलाया। उन्होंने कोमलता से कहा कि इंद्रिय-सुख मुक्ति में बाधा है, और जिन सुखों को धोबी सराह रहा था, वे दिखने जितने संतोषजनक नहीं होते। पर उन्होंने उसे डाँटा नहीं। उन्होंने कहा कि वह सचमुच राजवंश में जन्म लेगा।\n\nफिर श्रीपाद ने कुछ ऐसा जोड़ा जिसे सुनकर नामधारक रोमांचित हो उठे: वे स्वयं आगे चलकर नृसिंह सरस्वती के नाम से जाने जाएँगे और संन्यासी बनकर रहेंगे। गुरु ने एक सेवक को केवल उसकी इच्छा का उत्तर ही नहीं दिया, बल्कि अपना भविष्य भी झलका दिया। वह निकटता का क्षण था, मानो स्वामी कह रहे हों कि जो कथा वे साथ जी रहे हैं, वह जन्मों तक चलेगी, और वे फिर मिलेंगे। उन्होंने कहा कि उन्होंने जो स्थायी है और जो अस्थायी है, उसके विषय में बात की है, और उसे याद रखने का भार धोबी पर छोड़ दिया।",
      "reviewed": false
     },
     "mr": {
-     "text": "गुरुचरित्र सांगते की श्रीपादांनी त्याला आशीर्वाद दिला: पुढच्या जन्मी परीट राजा होऊन जन्म घेईल. आणि सांगतात की त्याने मुस्लिम राजांच्या सत्तेखालील एका राज्यात राजघराण्यात जन्म घेतला, आणि आपल्या पाळीला राज्य केले. हे कृपा म्हणून सांगितले जाते, धर्मांतर किंवा सौदा म्हणून नव्हे, कारण कृपा जात, पद किंवा धर्म यांच्या सीमेवर थांबत नाही. या आशीर्वादासाठी गुरूंनी त्याला आपली श्रद्धा, आपले काम किंवा आपल्या पद्धती बदलायला सांगितल्याचा उल्लेख कुठेही नाही.\n\nसिद्ध म्हणाले की कथेत दोन शांत धडे आहेत. सेवकाचे प्रेम कधी वाया जात नाही, आणि प्रामाणिकपणे बोललेली इच्छाही ऐकली जाते. नामधारकाच्या हेही लक्षात आले की कथेत कोणीच इतका खालचा नव्हता की गुरूंचे लक्ष त्याच्यावर जाणार नाही, म्हणूनच इतके लोक त्यांच्यावर प्रेम करीत. नामधारकाने विचार केला की माणसाचे खरे मोल प्रथम प्रेमाने पाहणाऱ्यांना दिसते, आणि जगाला नंतर.",
+     "text": "श्रीपाद, जे प्रत्येक मनातले पाहतात, त्यांनी धोब्याला जवळ बोलावले. त्यांनी हळुवारपणे सांगितले की इंद्रिय-सुख मुक्तीत अडथळा आहे, आणि धोबी ज्या सुखांचे कौतुक करत होता ती दिसतात तितकी समाधानकारक नसतात. पण त्यांनी त्याला फटकारले नाही. त्यांनी सांगितले की तो खरोखरच राजघराण्यात जन्म घेईल.\n\nमग श्रीपादांनी असे काही जोडले, जे ऐकून नामधारक रोमांचित झाले: ते स्वतः पुढे नृसिंह सरस्वती या नावाने ओळखले जातील आणि संन्यासी म्हणून राहतील. गुरूंनी सेवकाला फक्त त्याच्या इच्छेचे उत्तर दिले नाही, तर आपले भविष्यही दाखवले. तो जवळिकीचा क्षण होता, जणू स्वामी सांगत होते की ते एकत्र जगत असलेली कथा जन्मानुजन्म चालेल, आणि ते पुन्हा भेटतील. ते म्हणाले की त्यांनी जे शाश्वत आहे आणि जे अशाश्वत आहे त्याबद्दल सांगितले आहे, आणि ते लक्षात ठेवण्याचा भार त्यांनी धोब्यावर सोडला.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Choice About When",
+    "hi": {
+     "text": "कब, इसका चुनाव",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कधी, याची निवड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Shripad asked the washerman whether he wanted this kingship in his present life or in the next. The washerman, perhaps wise in his simplicity, chose a royal childhood in his next birth. He trusted that the promise would be kept.\n\nHe died, and the Gurucharitra tells that he was reborn into the royal family of Bidar, where in the Marathi text he is named Ranjaka. His story is not over; the Siddha said it would return in adhyaya fifty. We may read this in the spirit of the age: grace crossing the boundaries of birth and faith, without any demand for conversion, simply meeting a person where his heart was. Bidar was a great city of the Deccan, and a royal childhood there would mean palaces, tutors and horses, a world far from the riverbank.",
+    "hi": {
+     "text": "श्रीपाद ने धोबी से पूछा कि वह यह राजत्व इसी जीवन में चाहता है या अगले में। धोबी ने, शायद अपनी सरलता में बुद्धिमानी से, अगले जन्म में राजसी बचपन चुना। उसे विश्वास था कि यह वचन पूरा होगा।\n\nवह मर गया, और श्री गुरुचरित्र बताता है कि उसने बीदर के राजवंश में जन्म लिया, जहाँ मराठी पाठ में उसका नाम रंजक कहा गया है। उसकी कथा अभी समाप्त नहीं हुई; सिद्ध ने कहा था कि वह पचासवें अध्याय में लौटेगी। हम इसे उस युग की भावना में पढ़ सकते हैं: कृपा जन्म और आस्था की सीमाएँ लाँघती है, बिना किसी धर्मांतरण की माँग के, बस एक व्यक्ति से उसके हृदय की स्थिति पर मिलती हुई। बीदर दक्कन का एक महान नगर था, और वहाँ राजसी बचपन का अर्थ था महल, शिक्षक और घोड़े, उस नदी-तट के संसार से बहुत दूर का जीवन।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीपादांनी धोब्याला विचारले की त्याला हे राजपद या जन्मात हवे आहे की पुढच्या. धोब्याने, कदाचित आपल्या साधेपणात शहाणपणाने, पुढच्या जन्मात राजेशाही बालपण निवडले. त्याला विश्वास होता की हे वचन पाळले जाईल.\n\nतो मरण पावला, आणि श्री गुरुचरित्र सांगते की त्याने बिदरच्या राजघराण्यात जन्म घेतला, जिथे मराठी पाठात त्याचे नाव रंजक असे दिले आहे. त्याची कथा अजून संपलेली नाही; सिद्धांनी सांगितले होते की ती पन्नासाव्या अध्यायात परत येईल. आपण हे त्या काळाच्या भावनेत वाचू शकतो: कृपा जन्म आणि श्रद्धेच्या सीमा ओलांडते, धर्मांतराची मागणी न करता, फक्त एका माणसाला त्याच्या हृदयाच्या स्थितीवर भेटत. बिदर दख्खनमधील एक मोठे नगर होते, आणि तिथे राजेशाही बालपण म्हणजे महाल, शिक्षक आणि घोडे, त्या नदीकाठच्या जगापासून दूरचे जीवन.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Shripad Enters the River",
+    "hi": {
+     "text": "श्रीपाद नदी में प्रवेश करते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीपाद नदीत विलीन होतात",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The chapter closes with a quiet departure. On Ashwin Vadya 12, known to devotees as Guru Dwadashi, Shripad Shrivallabha disappeared into the waters of the Krishna. He did not die in the usual sense. He withdrew from sight, leaving behind a village and a cluster of devoted hearts on the bank.\n\nFor Namdharak this was the end of the first great chapter of the Guru’s life. Shripad had come as a young brahmachari from Pithapur, healed a family at Kuravpur and promised a washerman a kingdom, and now he vanished as a mystery. But the washerman’s promise and the Guru’s own foretold return, as Narasimha Saraswati, hung in the air like a bell still ringing. Disciples of the Guru still keep the day as Guru Dwadashi, and the Siddha told it to Namdharak with a catch in his voice.",
+    "hi": {
+     "text": "अध्याय का समापन एक शांत प्रस्थान से होता है। आश्विन वद्य द्वादशी को, जिसे भक्त गुरु द्वादशी कहते हैं, श्रीपाद श्रीवल्लभ कृष्णा के जल में अंतर्धान हो गए। वे सामान्य अर्थ में मरे नहीं। वे दृष्टि से ओझल हो गए, और तट पर एक गाँव तथा समर्पित हृदयों का एक समूह छोड़ गए।\n\nनामधारक के लिए यह गुरु के जीवन के पहले महान अध्याय का अंत था। श्रीपाद पीठापुर से एक युवा ब्रह्मचारी के रूप में आए थे, कुरवपुर में एक परिवार को स्वस्थ किया था और एक धोबी को राज्य का वचन दिया था, और अब वे एक रहस्य बनकर लुप्त हो गए। पर धोबी का वचन, और नृसिंह सरस्वती के रूप में गुरु की अपनी भविष्यवाणी की हुई वापसी, हवा में ऐसे लटकी रही जैसे कोई घंटी अब भी बज रही हो। गुरु के शिष्य आज भी उस दिन को गुरु द्वादशी के रूप में मनाते हैं, और सिद्ध ने यह बात नामधारक को गले की रुँधी आवाज़ में सुनाई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अध्याय एका शांत प्रस्थानाने संपतो. आश्विन वद्य द्वादशीला, ज्याला भक्त गुरुद्वादशी म्हणतात, श्रीपाद श्रीवल्लभ कृष्णेच्या पाण्यात अंतर्धान पावले. ते नेहमीच्या अर्थाने मरण पावले नाहीत. ते दृष्टीआड झाले, आणि काठावर एक गाव आणि निष्ठावान हृदयांचा समूह मागे ठेवला.\n\nनामधारकांसाठी हा गुरूंच्या जीवनातील पहिल्या महान अध्यायाचा शेवट होता. श्रीपाद पीठापूरहून एक तरुण ब्रह्मचारी म्हणून आले होते, कुरवपूरमध्ये एका कुटुंबाला बरे केले होते आणि एका धोब्याला राज्याचे वचन दिले होते, आणि आता ते एक रहस्य बनून लुप्त झाले. पण धोब्याचे वचन, आणि नृसिंह सरस्वतींच्या रूपात गुरूंचे स्वतःचे भाकित केलेले पुनरागमन, हवेत अशा लटकून राहिले जसे कोणतीतरी घंटा अजूनही वाजत आहे. गुरूंचे शिष्य आजही तो दिवस गुरुद्वादशी म्हणून पाळतात, आणि सिद्धांनी ही गोष्ट नामधारकांना घशात दाटलेल्या आवाजात सांगितली.",
      "reviewed": false
     }
    }
   }
  ],
  "reflect": {
-  "en": "What is one quiet wish you have never said aloud? Offer it in prayer today, and add a request that it may serve others too.",
+  "en": "What do you quietly envy in someone else? Name it without shame, then ask what real need sits underneath it.",
   "hi": {
-   "text": "आपकी कोई एक चुप-सी इच्छा क्या है जो आपने कभी ज़ोर से नहीं कही? आज उसे प्रार्थना में रखिए, और यह भी माँगिए कि वह औरों के भी काम आए।",
+   "text": "आप किसी और के बारे में चुपचाप किस बात से ईर्ष्या करते हैं? उसे बिना लज्जा के नाम दीजिए, फिर सोचिए कि उसके नीचे कौन-सी सच्ची आवश्यकता छिपी है।",
    "reviewed": false
   },
   "mr": {
-   "text": "तुमची अशी एखादी शांत इच्छा कोणती जी तुम्ही कधी मोठ्याने बोलला नाही? आज ती प्रार्थनेत ठेवा, आणि ती इतरांच्याही उपयोगी पडावी अशीही मागणी करा.",
+   "text": "तुम्ही इतरांबद्दल शांतपणे कशाचा हेवा करता? लाज न बाळगता त्याला नाव द्या, मग विचारा की त्याखाली कोणती खरी गरज दडलेली आहे.",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "Grace looks at a person’s love, not their birth, rank or faith.",
+  "en": "The Guru sees every honest wish, and grace crosses the lines that people draw between themselves.",
   "hi": {
-   "text": "कृपा मनुष्य के प्रेम को देखती है, उसके जन्म, पद या आस्था को नहीं।",
+   "text": "गुरु हर ईमानदार इच्छा को देखते हैं, और कृपा उन रेखाओं को लाँघ जाती है जो लोग अपने बीच खींचते हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "कृपा माणसाचे प्रेम पाहते, त्याचा जन्म, पद किंवा श्रद्धा नव्हे.",
+   "text": "गुरू प्रत्येक प्रामाणिक इच्छा पाहतात, आणि कृपा माणसे आपापसात आखत असलेल्या रेषा ओलांडते.",
    "reviewed": false
   }
  },
  "source": {
-  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 8-9; retold in our own words",
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 9; retold in our own words",
   "hi": {
-   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 8 और 9; अपने शब्दों में पुनः कहा गया",
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 9; अपने शब्दों में पुनः कहा गया",
    "reviewed": false
   },
   "mr": {
-   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय ८ व ९; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 9; आमच्या शब्दांत पुनर्कथन",
    "reviewed": false
   }
  }

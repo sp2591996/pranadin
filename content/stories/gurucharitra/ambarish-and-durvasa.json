@@ -4,10 +4,10 @@
  "version": "2026-11-28.1",
  "status": "draft",
  "id": "ambarish-and-durvasa",
- "order": 2,
+ "order": 3,
  "part": "jnana",
  "figure": {
-  "en": "King Ambarish and the sage Durvasa",
+  "en": "King Ambarish and Sage Durvasa",
   "hi": {
    "text": "राजा अंबरीष और ऋषि दुर्वासा",
    "reviewed": false
@@ -18,140 +18,188 @@
   }
  },
  "title": {
-  "en": "The King Who Bowed",
+  "en": "The King Who Broke His Fast",
   "hi": {
-   "text": "जो राजा झुक गया",
+   "text": "जो राजा उपवास न तोड़ सका",
    "reviewed": false
   },
   "mr": {
-   "text": "नम्र झालेला राजा",
+   "text": "उपवास न तोडलेला राजा",
    "reviewed": false
   }
  },
  "teaser": {
-  "en": "A mighty sage in a rage and a king with folded hands: who will be saved when the blazing wheel is sent?",
+  "en": "A scrupulous king, a fiery sage and a curse that explains why God keeps taking birth.",
   "hi": {
-   "text": "क्रोध में जलते एक महान ऋषि और हाथ जोड़े खड़े एक राजा। जब प्रज्वलित चक्र छूटा, तो कौन बचा?",
+   "text": "एक सजग राजा, एक तेजस्वी ऋषि और वह शाप जो बताता है कि ईश्वर बार-बार जन्म क्यों लेते हैं।",
    "reviewed": false
   },
   "mr": {
-   "text": "रागाने पेटलेले थोर ऋषी आणि हात जोडून उभा असलेला राजा. तेजस्वी चक्र सुटले, तेव्हा कोण वाचले?",
+   "text": "एक काटेकोर राजा, एक तेजस्वी ऋषी आणि असा शाप, जो सांगतो की भगवान वारंवार जन्म का घेतात.",
    "reviewed": false
   }
  },
  "images": [
   {
-   "src": "/stories/gurucharitra/gc-7.webp",
-   "w": 1200,
-   "h": 900,
+   "src": "/stories/gurucharitra/n-durvasa.webp",
+   "w": 565,
+   "h": 820,
    "caption": {
-    "en": "Dattatreya surrounded by yogis (19th-century wall painting, Punjab)",
+    "en": "Durvasa asks pardon at the feet of Ambarish",
     "hi": {
-     "text": "योगियों से घिरे दत्तात्रेय (उन्नीसवीं सदी का भित्ति चित्र, पंजाब)",
+     "text": "अंबरीष के चरणों में दुर्वासा क्षमा मांगते हुए",
      "reviewed": false
     },
     "mr": {
-     "text": "योग्यांनी वेढलेले दत्तात्रेय (एकोणिसाव्या शतकातील भित्तिचित्र, पंजाब)",
+     "text": "अंबरीषाच्या चरणी दुर्वास क्षमा मागताना",
      "reviewed": false
     }
    },
-   "credit": "Unknown Kangra muralists (and at-least one artist from Jalandhar named Sarfuddin as per as per Jatinder Mauhar), presuma, Public domain, via Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mural_depicting_Dattatreya_with_yogis_surrounding_him,_from_Ramtatwali_Dham,_Hoshiarpur_district,_Punjab,_circa_19th_century.jpg"
+   "credit": "Unknown author, Public domain, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Durvasa_falls_at_the_feet_of_Ambarish_and_asks_for_pardon.jpg"
   }
  ],
  "scenes": [
   {
    "title": {
-    "en": "The king’s fast",
+    "en": "A Disciple Is Accepted",
     "hi": {
-     "text": "राजा का व्रत",
+     "text": "एक शिष्य स्वीकार किया जाता है",
      "reviewed": false
     },
     "mr": {
-     "text": "राजाचे व्रत",
+     "text": "शिष्याचा स्वीकार",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The Siddha began with King Ambarish, a ruler so devoted to Vishnu that he governed as a servant and not as a master. Every Ekadashi, the eleventh day of the lunar fortnight, he kept a strict fast, and he broke it only at the proper hour on the following morning. His people loved him, for his kingdom was fair and his heart was humble.\n\nOn one such morning, as the fast was about to be completed, the sage Durvasa arrived at the palace. Durvasa was famed across the land for his learning and for his quick temper. Ambarish welcomed him with honour and invited him to share the meal, for in that age a guest was treated as a gift from God.",
+    "en": "Namdharak thanked the Siddha and asked to be his disciple. The Siddha embraced him and showed him a book called The Life of Shri Guru, saying that reading it brings joy and relief from disease and from heavy sin. Namdharak asked to hear it, and the Siddha seated him under an ashvattha tree.\n\nThe Guru, he said, is an ocean of mercy, like rain that falls on every field alike; those who doubt suffer by their own doubt, not by any refusal of the rain. Then Namdharak asked why the Guru took birth in the land of Bharat at all. The Siddha began with the three qualities, rajas of Brahma, sattva of Vishnu and tamas of Rudra, and came to a story of a king who loved Vishnu. The tree’s leaves moved gently, and the Siddha began. It was the Siddha who first spoke of the sacred book, and Namdharak who first wished to hear it.",
     "hi": {
-     "text": "सिद्ध ने कथा राजा अंबरीष से आरंभ की। वे भगवान विष्णु के ऐसे भक्त थे कि राज्य को स्वामी बनकर नहीं, सेवक बनकर चलाते थे। हर एकादशी को, यानी पखवाड़े के ग्यारहवें दिन, वे कठोर उपवास रखते और अगले दिन प्रातः ठीक समय पर ही उसे खोलते थे। प्रजा उनसे प्रेम करती थी, क्योंकि उनका राज्य न्यायपूर्ण था और उनका हृदय विनम्र।\n\nऐसे ही एक प्रातः, जब उपवास पूरा होने को था, ऋषि दुर्वासा महल में पधारे। दुर्वासा अपनी विद्या के लिए जितने प्रसिद्ध थे, अपने तीव्र क्रोध के लिए भी उतने ही। अंबरीष ने आदर से उनका स्वागत किया और भोजन का निमंत्रण दिया, क्योंकि उस युग में अतिथि को ईश्वर का भेजा हुआ उपहार माना जाता था।",
+     "text": "नामधारक ने सिद्ध का धन्यवाद किया और उनसे शिष्य बनाने की विनती की। सिद्ध ने उन्हें गले लगाया और \"श्री गुरु चरित्र\" नाम का एक ग्रंथ दिखाया, और कहा कि उसे पढ़ने से आनंद मिलता है और रोग तथा भारी पापों से मुक्ति मिलती है। नामधारक ने उसे सुनने की इच्छा प्रकट की, और सिद्ध ने उन्हें एक अश्वत्थ वृक्ष के नीचे बैठाया।\n\nगुरु, उन्होंने कहा, करुणा का सागर हैं, उस वर्षा के समान जो हर खेत पर एक-सा बरसती है। जो संदेह करते हैं, वे अपने ही संदेह से कष्ट पाते हैं, वर्षा के इनकार से नहीं। फिर नामधारक ने पूछा कि गुरु ने भारतभूमि में जन्म ही क्यों लिया। सिद्ध ने तीन गुणों से आरंभ किया, ब्रह्मा का रजस, विष्णु का सत्त्व और रुद्र का तमस, और फिर एक ऐसे राजा की कथा पर पहुँचे जो विष्णु से प्रेम करता था। वृक्ष के पत्ते धीरे-धीरे हिल रहे थे, और सिद्ध ने कथा आरंभ की। पवित्र ग्रंथ की बात पहले सिद्ध ने छेड़ी थी, और उसे सुनने की इच्छा पहले नामधारक ने की।",
      "reviewed": false
     },
     "mr": {
-     "text": "सिद्धांनी कथेची सुरुवात राजा अंबरीषापासून केली. ते भगवान विष्णूंचे असे भक्त होते की राज्य मालकासारखे नव्हे, तर सेवकासारखे चालवत. दर एकादशीला, म्हणजे पंधरवड्याच्या अकराव्या दिवशी, ते कडक उपवास करीत आणि दुसऱ्या दिवशी योग्य वेळीच तो सोडीत. प्रजा त्यांच्यावर प्रेम करी, कारण त्यांचे राज्य न्यायाचे होते आणि अंतःकरण नम्र होते.\n\nअशाच एका सकाळी, उपवास पूर्ण होण्याच्या बेतात असताना, ऋषी दुर्वास राजवाड्यात आले. दुर्वास आपल्या विद्येसाठी जितके प्रसिद्ध, तितकेच आपल्या तापट स्वभावासाठीही. अंबरीषाने आदराने त्यांचे स्वागत केले आणि भोजनाचे आमंत्रण दिले, कारण त्या काळी अतिथी म्हणजे देवाने पाठवलेली देणगी मानली जाई.",
+     "text": "नामधारकांनी सिद्धांचे आभार मानले आणि त्यांचे शिष्य होण्याची विनंती केली. सिद्धांनी त्यांना मिठी मारली आणि \"श्री गुरूंचे चरित्र\" नावाचा एक ग्रंथ दाखवला, आणि सांगितले की तो वाचल्याने आनंद आणि रोग व मोठ्या पापांपासून मुक्ती मिळते. नामधारकांनी तो ऐकण्याची इच्छा व्यक्त केली, आणि सिद्धांनी त्यांना एका अश्वत्थ वृक्षाखाली बसवले.\n\nगुरू, ते म्हणाले, करुणेचा सागर आहेत, प्रत्येक शेतावर सारखा पडणाऱ्या पावसासारखे. जे शंका घेतात ते आपल्या शंकेमुळे दुःख भोगतात, पावसाने नकार दिल्यामुळे नव्हे. मग नामधारकांनी विचारले की गुरूंनी भारतभूमीत जन्म का घेतला. सिद्धांनी तीन गुणांपासून सुरुवात केली, ब्रह्मदेवाचा रजोगुण, विष्णूचा सत्त्वगुण आणि रुद्राचा तमोगुण, आणि मग विष्णूवर प्रेम करणाऱ्या एका राजाच्या कथेपर्यंत आले. वृक्षाची पाने हळूच हलत होती, आणि सिद्धांनी कथा सुरू केली. पवित्र ग्रंथाचा विषय सिद्धांनी आधी काढला होता, आणि तो ऐकण्याची इच्छा नामधारकांनी आधी व्यक्त केली होती.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Durvasa’s anger",
+    "en": "The Fasting King",
     "hi": {
-     "text": "दुर्वासा का क्रोध",
+     "text": "उपवास करने वाला राजा",
      "reviewed": false
     },
     "mr": {
-     "text": "दुर्वासांचा क्रोध",
+     "text": "उपवास करणारा राजा",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Durvasa said he would first bathe in the river, and then he lingered there for a long time. The hour for ending the fast was slipping away. Ambarish was torn between two duties: not to eat before his guest, and not to break his vow. Wise brahmins advised him to take a sip of water, which would keep both promises. Everyone in the hall held their breath, for the sage’s fury was famous, and no one dared to speak.\n\nWhen Durvasa returned and learned of it, his anger flared. He pulled a lock of hair from his head and created a fearful being to destroy the king. Ambarish did not run, argue or raise a weapon. He stood quietly, folded his hands and turned his mind to Vishnu, ready to accept whatever came. He had spent his whole life learning to bow, and now that practice stood between him and fear.",
+    "en": "King Ambarish was devoted to Vishnu and kept the ekadashi fast faithfully. The rule of that observance asks the devotee to break the fast at the proper moment on the following day, dwadashi, and Ambarish held to it with great care. His whole kingdom knew of his devotion.\n\nOne day, just as the time to break his fast arrived, the sage Durvasa came to his door. Durvasa was known across the worlds for his short temper and his great power. Ambarish welcomed him with respect as his guest, and the king sat down to wait, watching the hour slip by. It was the hour when the day cooled, and the palace bells rang for the evening. Ekadashi falls on the eleventh day of each lunar fortnight, and the vow was never light for a king with a court to run.",
     "hi": {
-     "text": "दुर्वासा ने कहा कि पहले वे नदी में स्नान करेंगे, और फिर वहीं बहुत देर तक रुके रहे। उपवास खोलने की घड़ी बीती जा रही थी। अंबरीष दो कर्तव्यों के बीच उलझ गए: अतिथि से पहले भोजन न करें, और अपना व्रत भी न तोड़ें। ज्ञानी ब्राह्मणों ने सलाह दी कि वे जल का एक घूँट ले लें, इससे दोनों बातें निभ जाएँगी। सभा में सब साँस रोके बैठे थे, क्योंकि ऋषि का कोप जगत में प्रसिद्ध था और कोई कुछ कहने का साहस नहीं कर रहा था।\n\nजब दुर्वासा लौटे और यह जाना, तो उनका क्रोध भड़क उठा। उन्होंने अपने सिर से एक जटा उखाड़ी और राजा को नष्ट करने के लिए एक भयंकर प्राणी रच दिया। अंबरीष न भागे, न बहस की, न शस्त्र उठाया। वे चुपचाप खड़े रहे, हाथ जोड़े और मन को विष्णु में लगा दिया, जो भी हो उसे स्वीकारने को तैयार। उन्होंने सारा जीवन झुकना सीखने में बिताया था, और आज वही अभ्यास उनके और भय के बीच खड़ा था।",
+     "text": "राजा अंबरीष विष्णु के भक्त थे और एकादशी का व्रत निष्ठा से रखते थे। इस व्रत का नियम है कि भक्त अगले दिन, यानी द्वादशी को, उचित समय पर व्रत खोले, और अंबरीष इसका पालन बड़े ध्यान से करते थे। उनके पूरे राज्य को उनकी भक्ति का पता था।\n\nएक दिन, ठीक उस समय जब व्रत खोलने की घड़ी आई, ऋषि दुर्वासा उनके द्वार पर पधारे। दुर्वासा अपने तीव्र स्वभाव और अपार शक्ति के लिए लोकों में प्रसिद्ध थे। अंबरीष ने अतिथि के रूप में उनका आदर से स्वागत किया, और राजा बैठकर प्रतीक्षा करने लगे, घड़ी को धीरे-धीरे बीतते देखते हुए। वह वह समय था जब दिन ढलने लगता है और राजमहल में संध्या के घंटे बजते हैं। एकादशी हर पक्ष के ग्यारहवें दिन पड़ती है, और जिस राजा पर दरबार का भार हो, उसके लिए यह व्रत कभी हल्का नहीं होता था।",
      "reviewed": false
     },
     "mr": {
-     "text": "दुर्वास म्हणाले की आधी नदीवर स्नान करून येतो, आणि मग तिथेच ते बराच वेळ रेंगाळले. उपवास सोडण्याची वेळ निघून चालली होती. अंबरीष दोन कर्तव्यांत अडकले: अतिथीच्या आधी जेवायचे नाही, आणि आपले व्रतही मोडायचे नाही. जाणत्या ब्राह्मणांनी सांगितले की पाण्याचा एक घोट घ्यावा, म्हणजे दोन्ही वचने पाळली जातील. सभेतील सारे श्वास रोखून बसले होते, कारण ऋषींचा कोप प्रसिद्ध होता आणि कोणाचीही बोलण्याची हिंमत झाली नाही.\n\nदुर्वास परत आले आणि त्यांना हे कळले, तेव्हा त्यांचा संताप उसळला. त्यांनी आपल्या डोक्यातून एक जटा उपटली आणि राजाचा नाश करण्यासाठी एक भयंकर प्राणी निर्माण केला. अंबरीष पळाले नाहीत, वाद घातला नाही, शस्त्र उचलले नाही. ते शांतपणे उभे राहिले, हात जोडले आणि मन विष्णूंकडे लावले, जे येईल ते स्वीकारायला तयार होऊन. आयुष्यभर त्यांनी नम्र होणे शिकले होते, आणि आज तोच अभ्यास त्यांच्या आणि भयाच्या मध्ये उभा ठाकला.",
+     "text": "राजा अंबरीष विष्णूचे भक्त होते आणि एकादशीचा उपवास निष्ठेने करत. या व्रताचा नियम असा आहे की भक्ताने पुढच्या दिवशी, म्हणजे द्वादशीला, योग्य वेळी उपवास सोडावा, आणि अंबरीष हे नियम काळजीपूर्वक पाळत. त्यांच्या सगळ्या राज्याला त्यांच्या भक्तीची कल्पना होती.\n\nएके दिवशी, उपवास सोडायची वेळ आली असतानाच, ऋषी दुर्वास त्यांच्या दारी आले. दुर्वास आपल्या तीव्र स्वभावासाठी आणि अफाट सामर्थ्यासाठी सर्व लोकांत प्रसिद्ध होते. अंबरीषांनी अतिथी म्हणून आदराने त्यांचे स्वागत केले, आणि राजा बसून वाट पाहू लागले, वेळ हळूहळू सरकताना पाहत. ही ती वेळ होती जेव्हा दिवस उतरणीला लागतो आणि राजवाड्यात संध्याकाळचे घंटानाद होतात. एकादशी प्रत्येक पक्षाच्या अकराव्या दिवशी येते, आणि दरबार चालवणाऱ्या राजासाठी हे व्रत कधीच सोपे नसे.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "The wheel that would not rest",
+    "en": "The Sip of Water",
     "hi": {
-     "text": "वह चक्र जो रुका नहीं",
+     "text": "जल का एक घूँट",
      "reviewed": false
     },
     "mr": {
-     "text": "थांबायचे नाव न घेणारे चक्र",
+     "text": "पाण्याचा एक घोट",
      "reviewed": false
     }
    },
    "text": {
-    "en": "The Gurucharitra tells that the divine discus, the Sudarshana, rose to protect the king. It swept away the fierce being and then chased Durvasa himself across the heavens. He ran to Brahma and to Shiva, but neither could stop the wheel. At last he reached Vishnu, who said gently that he is bound by the love of his devotees, and that Durvasa must seek pardon from Ambarish.\n\nDurvasa came back, weary and humbled. The king bowed to him at once, held no grudge, and asked the wheel to rest, and it did. The Siddha told Namdharak that the sage’s learning had not lacked power, only humility. In the Guru’s house, he said, a bowed head counts for more than a sharp temper.",
+    "en": "Durvasa did not return in time. The moment for ending the fast was slipping away, and Ambarish was caught between two duties: to honour his guest and to keep his vow, since missing dwadashi would spoil the observance. Troubled, he chose a middle path. To avoid missing dwadashi he ended the fast with a mere sip of water, which the tradition treats as neither a full meal nor a broken vow, and he went on waiting for the sage.\n\nWhen Durvasa learned what had happened, he took offence. He saw not a king who had tried to keep both duties as best he could, but a host who had tasted something before his guest. His anger flared like dry grass catching a spark. The scene is tense, and the Siddha lets the pause hang before he speaks of the sage’s reaction.",
     "hi": {
-     "text": "श्री गुरुचरित्र बताता है कि राजा की रक्षा के लिए दिव्य सुदर्शन चक्र उठ खड़ा हुआ। उसने उस भयंकर प्राणी को उड़ा दिया और फिर स्वयं दुर्वासा का आकाश भर में पीछा किया। वे ब्रह्मा और शिव के पास भागे, पर कोई चक्र को रोक न सका। अंत में वे विष्णु के पास पहुँचे। भगवान ने कोमलता से कहा कि वे तो अपने भक्तों के प्रेम से बँधे हैं, और दुर्वासा को अंबरीष से ही क्षमा माँगनी होगी।\n\nदुर्वासा थके और विनम्र होकर लौटे। राजा ने तुरंत उन्हें प्रणाम किया, मन में कोई गाँठ नहीं रखी, और चक्र से शांत होने की प्रार्थना की, और चक्र शांत हो गया। सिद्ध ने नामधारक से कहा कि ऋषि की विद्या में शक्ति की कमी नहीं थी, कमी केवल विनम्रता की थी। गुरु के घर में, उन्होंने कहा, झुका हुआ सिर तीखे क्रोध से कहीं अधिक मोल रखता है।",
+     "text": "दुर्वासा समय पर नहीं लौटे। व्रत खोलने का क्षण बीता जा रहा था, और अंबरीष दो कर्तव्यों के बीच फँस गए: अतिथि का सत्कार करें, और अपना व्रत भी निभाएँ, क्योंकि द्वादशी छूट जाने से व्रत अधूरा रह जाता। चिंतित होकर उन्होंने बीच का मार्ग चुना। द्वादशी न छूटे, इसलिए उन्होंने केवल जल का एक घूँट लेकर व्रत खोला, जिसे परंपरा न पूरा भोजन मानती है न व्रत का भंग, और वे ऋषि की प्रतीक्षा करते रहे।\n\nजब दुर्वासा को यह पता चला, तो वे रुष्ट हो गए। उन्होंने एक ऐसे राजा को नहीं देखा जिसने दोनों कर्तव्य यथासंभव निभाने का प्रयास किया था, बल्कि एक ऐसे आतिथेय को देखा जिसने अतिथि से पहले कुछ चख लिया था। उनका क्रोध सूखी घास में लगी चिंगारी की तरह भड़क उठा। यह दृश्य तनावपूर्ण है, और सिद्ध ऋषि की प्रतिक्रिया की चर्चा से पहले उस ठहराव को कुछ क्षण तक बने रहने देते हैं।",
      "reviewed": false
     },
     "mr": {
-     "text": "श्री गुरुचरित्र सांगते की राजाच्या रक्षणासाठी दिव्य सुदर्शन चक्र उठले. त्याने त्या भयंकर प्राण्याला उडवून लावले आणि मग स्वतः दुर्वासांचा आकाशभर पाठलाग केला. ते ब्रह्मदेवांकडे आणि शंकराकडे धावले, पण चक्राला कोणीच रोखू शकले नाही. शेवटी ते विष्णूंकडे पोहोचले. भगवान हळुवारपणे म्हणाले की ते तर आपल्या भक्तांच्या प्रेमाने बांधले गेले आहेत, आणि दुर्वासांनी अंबरीषांकडेच क्षमा मागितली पाहिजे.\n\nदुर्वास थकून आणि नम्र होऊन परतले. राजाने लगेच त्यांना नमस्कार केला, मनात राग धरला नाही, आणि चक्राला शांत होण्याची प्रार्थना केली, आणि चक्र शांत झाले. सिद्धांनी नामधारकाला सांगितले की ऋषींच्या विद्येत सामर्थ्याची उणीव नव्हती, उणीव होती ती नम्रतेची. गुरूंच्या घरी, ते म्हणाले, वाकलेले मस्तक तीक्ष्ण रागापेक्षा कितीतरी अधिक मोलाचे असते.",
+     "text": "दुर्वास वेळेत परत आले नाहीत. उपवास सोडण्याची वेळ निसटत होती, आणि अंबरीष दोन कर्तव्यांमध्ये अडकले: अतिथीचा सन्मान करणे आणि आपले व्रतही पाळणे, कारण द्वादशी चुकली तर व्रत अपूर्ण राहील. चिंताग्रस्त होऊन त्यांनी मधला मार्ग निवडला. द्वादशी चुकू नये म्हणून त्यांनी फक्त पाण्याचा एक घोट घेऊन उपवास सोडला, जो परंपरेनुसार पूर्ण भोजनही नाही आणि व्रत-भंगही नाही, आणि ते ऋषींची वाट पाहत राहिले.\n\nजेव्हा दुर्वासांना हे कळले, तेव्हा ते संतापले. त्यांनी असा राजा पाहिला नाही जो दोन्ही कर्तव्ये शक्य तितक्या चांगल्या प्रकारे निभावण्याचा प्रयत्न करत होता, तर असा यजमान पाहिला ज्याने अतिथीच्या आधी काहीतरी चाखले होते. त्यांचा राग कोरड्या गवतात पडलेल्या ठिणगीसारखा भडकला. हा प्रसंग तणावाचा आहे, आणि सिद्ध ऋषींच्या प्रतिक्रियेबद्दल बोलण्याआधी तो क्षण थोडा तसाच राहू देतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Curse and Vishnu’s Answer",
+    "hi": {
+     "text": "शाप और विष्णु का उत्तर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शाप आणि विष्णूंचे उत्तर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Gurucharitra tells that Durvasa cursed Ambarish. In this telling the tale is shorter than in some other scriptures, and the Siddha moves quickly to what it explains. Vishnu, who loved his devotee, took the curse upon himself. That, says the Siddha, is the reason for his repeated births on earth, the avatars.\n\nSo a king who had tried honestly to keep faith with everyone was not left to carry the weight alone. The Lord stepped in front of him. Namdharak, hearing this, thought of his own forefathers who had served the Guru, and wondered whether the Guru might also stand in front of him. The Siddha smiled and said that this was exactly the point of the story, and that the next tale would show how the Guru himself came to be born. The Siddha let the silence after this sentence do its work.",
+    "hi": {
+     "text": "श्री गुरुचरित्र बताता है कि दुर्वासा ने अंबरीष को शाप दिया। इस वर्णन में यह कथा कुछ अन्य शास्त्रों की तुलना में छोटी है, और सिद्ध शीघ्र ही उस बात पर आ जाते हैं जिसे यह कथा समझाती है। विष्णु, जो अपने भक्त से प्रेम करते थे, वह शाप अपने ऊपर ले लेते हैं। यही, सिद्ध कहते हैं, पृथ्वी पर उनके बार-बार अवतार लेने का कारण है।\n\nइस प्रकार जिस राजा ने सबके प्रति ईमानदारी से धर्म निभाने का प्रयास किया, उसे अकेले उसका भार नहीं उठाना पड़ा। प्रभु उसके आगे आ खड़े हुए। यह सुनकर नामधारक को अपने पूर्वजों की याद आई, जिन्होंने गुरु की सेवा की थी, और उन्होंने सोचा कि क्या गुरु भी उनके आगे इसी प्रकार खड़े हो सकते हैं। सिद्ध मुस्कुराए और बोले कि कथा का यही मर्म है, और अगली कथा दिखाएगी कि स्वयं गुरु ने जन्म कैसे लिया। इस वाक्य के बाद सिद्ध ने मौन को अपना काम करने दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री गुरुचरित्र सांगते की दुर्वासांनी अंबरीषांना शाप दिला. या वर्णनात ही कथा इतर काही ग्रंथांपेक्षा लहान आहे, आणि सिद्ध ती जी गोष्ट समजावते तिकडे लवकर वळतात. विष्णू, जे आपल्या भक्तावर प्रेम करत होते, तो शाप स्वतःवर घेतात. हेच, सिद्ध म्हणतात, पृथ्वीवर त्यांच्या वारंवार अवतारांचे कारण आहे.\n\nअशा प्रकारे ज्या राजाने सर्वांशी प्रामाणिकपणे धर्म पाळण्याचा प्रयत्न केला, त्याला एकट्याने ओझे वाहावे लागले नाही. प्रभू त्याच्यासमोर उभे राहिले. हे ऐकून नामधारकांना आपल्या पूर्वजांची आठवण झाली, ज्यांनी गुरूंची सेवा केली होती, आणि त्यांना प्रश्न पडला की गुरूही त्यांच्यासमोर असेच उभे राहू शकतात का. सिद्ध हसले आणि म्हणाले की कथेचा मुद्दा नेमका हाच आहे, आणि पुढची कथा दाखवेल की स्वतः गुरूंनी जन्म कसा घेतला. या वाक्यानंतर सिद्धांनी आपले काम मौनाला करू दिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "On to Atri and Anasuya",
+    "hi": {
+     "text": "अत्रि और अनसूया की ओर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अत्री आणि अनसूयेकडे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha then turned Namdharak’s attention onward. The story of Ambarish had answered one part of his question: the Lord takes human birth because he takes his devotees’ burdens as his own. But the Guru of this tale was more than an avatar of Vishnu. He was a gathering of Brahma, Vishnu and Shiva in a single form.\n\nTo show how that came to be, the Siddha closed the chapter by pointing to the story of the sage Atri and his wife Anasuya, in whose house the three gods were once children. Namdharak, sitting beneath the ashvattha tree, leaned forward. He had come for relief from his own troubles, and had been given the whole history of heaven’s care instead. Namdharak asked only that the Siddha continue. Atri was a mind-born son of Brahma, and Anasuya a woman whose devotion had become famous even in heaven.",
+    "hi": {
+     "text": "सिद्ध ने फिर नामधारक का ध्यान आगे की ओर मोड़ा। अंबरीष की कथा ने उनके प्रश्न का एक भाग उत्तरित कर दिया था: प्रभु मनुष्य रूप में इसलिए जन्म लेते हैं क्योंकि वे अपने भक्तों का भार अपना मानकर उठाते हैं। पर इस कथा के गुरु केवल विष्णु के अवतार भर नहीं थे। वे ब्रह्मा, विष्णु और शिव का एक ही रूप में समन्वय थे।\n\nयह कैसे हुआ, यह दिखाने के लिए सिद्ध ने ऋषि अत्रि और उनकी पत्नी अनसूया की कथा की ओर संकेत करते हुए अध्याय का समापन किया, जिनके घर में कभी तीनों देव बालक बने थे। नामधारक अश्वत्थ वृक्ष के नीचे बैठे आगे झुक गए। वे अपने कष्टों से राहत पाने आए थे, और उन्हें स्वर्ग की सुरक्षा की पूरी कथा मिल गई। नामधारक ने केवल इतना कहा कि सिद्ध कथा जारी रखें। अत्रि ब्रह्मा के मानस पुत्र थे, और अनसूया वह स्त्री थीं जिनकी भक्ति स्वर्ग में भी प्रसिद्ध थी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग सिद्धांनी नामधारकांचे लक्ष पुढे वळवले. अंबरीषांच्या कथेने त्यांच्या प्रश्नाचा एक भाग उत्तरित केला होता: प्रभू मानवी रूपात जन्म घेतात कारण ते आपल्या भक्तांचे ओझे स्वतःचे मानून उचलतात. पण या कथेतील गुरू केवळ विष्णूचा अवतार नव्हते. ते ब्रह्मा, विष्णू आणि शिव यांचे एका रूपात एकत्र आलेले रूप होते.\n\nते कसे घडले हे दाखवण्यासाठी सिद्धांनी ऋषी अत्री आणि त्यांची पत्नी अनसूया यांच्या कथेकडे निर्देश करून अध्याय संपवला, ज्यांच्या घरी एकदा तिन्ही देव बालक झाले होते. नामधारक अश्वत्थ वृक्षाखाली बसून पुढे झुकले. ते स्वतःच्या दुःखांपासून आराम शोधायला आले होते, आणि त्यांना स्वर्गाच्या काळजीची संपूर्ण कथा मिळाली. नामधारकांनी फक्त इतकेच म्हटले की सिद्धांनी कथा चालू ठेवावी. अत्री ब्रह्मदेवांचे मानसपुत्र होते, आणि अनसूया अशी स्त्री होती जिची भक्ती स्वर्गातही प्रसिद्ध होती.",
      "reviewed": false
     }
    }
   }
  ],
  "reflect": {
-  "en": "Think of a time someone upset you and you wanted to answer back. Today, in one small moment, pause and answer kindly instead.",
+  "en": "Where might pride, even about doing the right thing, be getting in the way of humility today? Name one place and soften it with a kind word.",
   "hi": {
-   "text": "याद कीजिए, कब किसी ने आपका मन दुखाया और आप पलटकर जवाब देना चाहते थे। आज किसी एक छोटे क्षण में रुकिए और जवाब कठोरता से नहीं, कोमलता से दीजिए।",
+   "text": "आज अभिमान, भले ही वह सही काम करने का हो, विनम्रता के बीच कहाँ बाधा बन रहा है? एक ऐसी जगह पहचानिए और उसे किसी दयालु शब्द से नरम कीजिए।",
    "reviewed": false
   },
   "mr": {
-   "text": "कधीतरी कोणीतरी तुम्हाला दुखावले आणि तुम्हाला उलट उत्तर द्यावेसे वाटले, ते आठवा. आज एखाद्या छोट्या क्षणी थांबा आणि कठोरपणे नव्हे, तर प्रेमाने उत्तर द्या.",
+   "text": "आज अभिमान, जरी तो योग्य गोष्ट करण्याचा असला तरी, नम्रतेच्या आड कुठे येत आहे? एक जागा ओळखा आणि ती एका दयाळू शब्दाने मऊ करा.",
    "reviewed": false
   }
  },
  "lesson": {
-  "en": "Humility and devotion protect a person more surely than power or learning.",
+  "en": "God stands in front of a sincere devotee; humility is safer than being right.",
   "hi": {
-   "text": "विनम्रता और भक्ति मनुष्य की रक्षा शक्ति और विद्या से कहीं अधिक पक्के ढंग से करती हैं।",
+   "text": "ईश्वर सच्चे भक्त के आगे खड़े होते हैं; विनम्रता, सही होने पर अड़े रहने से अधिक सुरक्षित है।",
    "reviewed": false
   },
   "mr": {
-   "text": "नम्रता आणि भक्ती माणसाचे रक्षण सत्ता आणि विद्येपेक्षाही अधिक खात्रीने करतात.",
+   "text": "विनम्रता आणि भक्ती माणसाचे रक्षण सामर्थ्य आणि विद्येपेक्षा अधिक खात्रीने करतात.",
    "reviewed": false
   }
  },
@@ -162,7 +210,7 @@
    "reviewed": false
   },
   "mr": {
-   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय ३; स्वतःच्या शब्दांत पुन्हा सांगितलेले",
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 3; आमच्या शब्दांत पुनर्कथन",
    "reviewed": false
   }
  }

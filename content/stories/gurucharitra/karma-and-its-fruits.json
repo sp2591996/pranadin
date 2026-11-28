@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "karma-and-its-fruits",
+ "order": 28,
+ "part": "karma",
+ "figure": {
+  "en": "Narasimha Saraswati, Trivikram Bharati and the transformed man",
+  "hi": {
+   "text": "नृसिंह सरस्वती, त्रिविक्रम भारती और परिवर्तित पुरुष",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती, त्रिविक्रम भारती आणि परिवर्तित झालेला पुरुष",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "How Deeds Shape a Life",
+  "hi": {
+   "text": "कर्म जीवन को कैसे गढ़ते हैं",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कर्म जीवन कसे घडवते",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "Questions about karma and repair, answered with the stories of Vishwamitra and a sinful brahmin saved by ash.",
+  "hi": {
+   "text": "कर्म और उसके सुधार के प्रश्नों के उत्तर विश्वामित्र की कथा और भस्म से बचे एक पापी ब्राह्मण की कथा से दिए जाते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कर्म आणि त्याच्या सुधारणेविषयीचे प्रश्न विश्वामित्रांच्या कथेने आणि भस्माने वाचवलेल्या एका पापी ब्राह्मणाच्या कथेने उत्तरले जातात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-ganesh-gokarna.webp",
+   "w": 1024,
+   "h": 768,
+   "caption": {
+    "en": "Shri Ganesh temple at Gokarna",
+    "hi": {
+     "text": "गोकर्ण का श्री गणेश मंदिर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गोकर्णातील श्री गणेश मंदिर",
+     "reviewed": false
+    }
+   },
+   "credit": "Deepak Patil, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shri_Ganesh_Temple_at_Gokarna_-_panoramio.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A Question About Falling",
+    "hi": {
+     "text": "गिरने का प्रश्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पतनाचा प्रश्न",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The man who had crossed the seven lines asked the Guru a hard question. How could a person born as a brahmin fall so low? The Guru answered in the language of his age. Wrong deeds, he said, bring lower births, and he listed some of them: abandoning one's parents or guru, neglecting one's duties, killing a cow.\n\nThese were the sins that the old texts named, and they reflect the worldview of the time. The Gurucharitra presents them as part of a larger teaching about how a life can be bent by its actions, and not as a ladder for judging others. A later reader will notice how heavily the Gurucharitra leans on caste and birth, and may want to set the passage down. It helps to remember that the question itself came from a man of low birth asking honestly about justice, and that the Guru's answers keep returning to repair and grace. The list of faults is a warning about conduct, and not a ranking of people.",
+    "hi": {
+     "text": "जिस व्यक्ति ने सात रेखाएँ पार की थीं, उसने गुरु से एक कठिन प्रश्न पूछा। ब्राह्मण के रूप में जन्मा व्यक्ति इतना नीचे कैसे गिर सकता है? गुरु ने अपने युग की भाषा में उत्तर दिया। बुरे कर्म निम्न योनियाँ लाते हैं, उन्होंने कहा, और कुछ उदाहरण गिनाए: माता-पिता या गुरु को त्यागना, अपने कर्तव्यों की उपेक्षा करना, गाय की हत्या करना।\n\nये वे पाप थे जिन्हें प्राचीन ग्रंथों ने गिनाया है, और वे उस समय के विश्वदृष्टिकोण को प्रतिबिंबित करते हैं। श्री गुरुचरित्र इन्हें उस बड़ी शिक्षा के भाग के रूप में प्रस्तुत करता है कि कर्मों से जीवन कैसे मुड़ सकता है, न कि दूसरों को आँकने की सीढ़ी के रूप में। बाद के पाठक देखेंगे कि श्री गुरुचरित्र जाति और जन्म पर कितना बल देता है, और वे इस अंश को अलग रखना चाह सकते हैं। यह याद रखना सहायक है कि प्रश्न स्वयं एक निम्न जन्म के व्यक्ति ने न्याय के विषय में ईमानदारी से पूछा था, और गुरु के उत्तर बार-बार सुधार और कृपा की ओर लौटते हैं। दोषों की सूची आचरण के विषय में एक चेतावनी है, लोगों की श्रेणी-विभाजन नहीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ज्या माणसाने सात रेषा ओलांडल्या होत्या, त्याने गुरूंना एक कठीण प्रश्न विचारला. ब्राह्मण म्हणून जन्मलेला माणूस इतका खाली कसा पडू शकतो? गुरूंनी आपल्या काळाच्या भाषेत उत्तर दिले. वाईट कर्मे निम्न योनी आणतात, ते म्हणाले, आणि काही उदाहरणे दिली: आई-वडील किंवा गुरूंचा त्याग करणे, आपल्या कर्तव्यांकडे दुर्लक्ष करणे, गाईची हत्या करणे.\n\nही ती पापे होती जी प्राचीन ग्रंथांनी नोंदवली आहेत, आणि ती त्या काळच्या विश्वदृष्टीचे प्रतिबिंब आहेत. श्री गुरुचरित्र त्यांना कर्म माणसाचे जीवन कसे वाकवू शकते याच्या मोठ्या शिकवणीचा भाग म्हणून सादर करते, इतरांना तोलण्याची शिडी म्हणून नव्हे. नंतरचे वाचक पाहतील की श्री गुरुचरित्र जात आणि जन्मावर किती भर देते, आणि कदाचित हा उतारा बाजूला ठेवावासा वाटेल. हे लक्षात ठेवणे उपयुक्त आहे की हा प्रश्न स्वतः एका निम्न जन्माच्या माणसाने न्यायाविषयी प्रामाणिकपणे विचारला होता, आणि गुरूंची उत्तरे वारंवार सुधारणा आणि कृपेकडे परत येतात. दोषांची यादी आचरणाविषयी इशारा आहे, लोकांची श्रेणी लावणारी यादी नव्हे.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "How Sin Is Undone",
+    "hi": {
+     "text": "पाप कैसे मिटते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पाप कसे पुसले जाते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Trivikram Bharati then asked how such wrongs could be set right. The Guru described the prayashchittas, the acts of repair that the tradition prescribed. Among them were the gift of a cow with ornaments to brahmins, the recitation of the Gayatri, fasts of several days, bathing at Setubandha, and the use of panchagavya, the five products of the cow.\n\nThe point he made was that no wrong was beyond repair for a person willing to make the effort. The doors of return were left open. The Guru did not make them sound easy or hard. He spoke as a physician speaks of a treatment, in plain terms, listing what was needed and why. The Gurucharitra presents repair as a path open to anyone who truly regrets a wrong and sets out to make it right.",
+    "hi": {
+     "text": "फिर त्रिविक्रम भारती ने पूछा कि ऐसे अपराध कैसे ठीक किए जा सकते हैं। गुरु ने प्रायश्चित्तों का वर्णन किया, वे सुधार के कर्म जो परंपरा ने बताए थे। उनमें ब्राह्मणों को आभूषणों सहित गाय का दान, गायत्री का पाठ, कई दिनों के उपवास, सेतुबंध पर स्नान, और पंचगव्य, गाय के पाँच पदार्थों का सेवन, शामिल थे।\n\nउनका मुख्य बिंदु यह था कि जो व्यक्ति प्रयास करने को तैयार हो, उसके लिए कोई भी अपराध सुधार से परे नहीं। लौटने के द्वार खुले छोड़े गए थे। गुरु ने इन्हें न आसान बताया, न कठिन। उन्होंने एक वैद्य की भाँति बात की, जो किसी उपचार के विषय में सरल शब्दों में बताता है, क्या आवश्यक है और क्यों। श्री गुरुचरित्र सुधार को उस हर व्यक्ति के लिए खुला मार्ग बताता है जो किसी अपराध पर सचमुच पश्चात्ताप करता है और उसे ठीक करने निकलता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग त्रिविक्रम भारतींनी विचारले की असे अपराध कसे दुरुस्त करता येतील. गुरूंनी प्रायश्चित्तांचे वर्णन केले, परंपरेने सांगितलेली सुधारणेची कर्मे. त्यात ब्राह्मणांना आभूषणांसह गाय दान देणे, गायत्रीचे पठण, अनेक दिवसांचे उपवास, सेतुबंधावर स्नान, आणि पंचगव्याचा, गाईच्या पाच पदार्थांचा, वापर यांचा समावेश होता.\n\nत्यांचा मुख्य मुद्दा असा होता की प्रयत्न करण्याची तयारी असलेल्या माणसासाठी कोणताही अपराध सुधारण्याच्या पलीकडे नाही. परतीची दारे उघडी ठेवलेली होती. गुरूंनी त्यांना सोपे किंवा कठीण असे भासवले नाही. वैद्य एखाद्या उपचाराविषयी बोलतो तसे ते बोलले, साध्या शब्दात, काय आवश्यक आहे आणि का ते सांगत. श्री गुरुचरित्र सुधारणेला त्या प्रत्येकासाठी खुला मार्ग म्हणून मांडते जो खऱ्या अर्थाने एखाद्या अपराधाबद्दल पश्चात्ताप करतो आणि तो दुरुस्त करण्यासाठी निघतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Vishwamitra's Climb",
+    "hi": {
+     "text": "विश्वामित्र की चढ़ाई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "विश्वामित्रांची चढाई",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The outcaste man then asked to be counted as a brahmin. In answer, the Guru told the story of Vishwamitra. He was born a king, a Kshatriya, and he longed for the rank of a brahmin sage. Through long and fierce penance he became a Brahmarishi, the highest of seers.\n\nThe tale tells that rank comes through effort and grace and not birth alone. It is one of the clearest moments in the chapter, and the Siddha lingers on it for Namdharak's benefit. Vishwamitra's story was well known to everyone in the hall. It is told as an old example of how far a person can travel. The Guru kept the telling short. What mattered was the shape of it: a man began in one place and, by sheer persistence, arrived in another, and no one could take that away.",
+    "hi": {
+     "text": "उस अंत्यज व्यक्ति ने फिर पूछा कि उसे ब्राह्मण माना जाए। इसके उत्तर में गुरु ने विश्वामित्र की कथा सुनाई। वे एक राजा के रूप में जन्मे थे, क्षत्रिय, और उन्होंने ब्राह्मण ऋषि का पद पाने की लालसा की। लंबी और कठोर तपस्या से वे ब्रह्मर्षि, ऋषियों में सर्वोच्च, बन गए।\n\nकथा बताती है कि पद प्रयास और कृपा से मिलता है, केवल जन्म से नहीं। अध्याय के सबसे स्पष्ट क्षणों में यह एक है, और सिद्ध नामधारक के लाभ के लिए इस पर ठहरते हैं। विश्वामित्र की कथा सभा में सभी को ज्ञात थी। इसे एक व्यक्ति कितनी दूर तक जा सकता है, इसके प्राचीन उदाहरण के रूप में सुनाया जाता है। गुरु ने कथा संक्षिप्त रखी। महत्व उसके स्वरूप का था: एक व्यक्ति एक स्थान से आरंभ करता है और केवल दृढ़ता से दूसरे स्थान तक पहुँचता है, और उसे यह कोई छीन नहीं सकता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या अस्पृश्य माणसाने मग विचारले की त्याला ब्राह्मण म्हणून गणले जावे. त्याच्या उत्तरादाखल गुरूंनी विश्वामित्रांची कथा सांगितली. ते राजा म्हणून जन्मले होते, क्षत्रिय, आणि त्यांना ब्राह्मण ऋषींचे पद हवे होते. दीर्घ आणि कठोर तपस्येने ते ब्रह्मर्षी, ऋषींमधील सर्वोच्च, झाले.\n\nकथा सांगते की पद प्रयत्न आणि कृपेने मिळते, केवळ जन्माने नव्हे. अध्यायातील हा सर्वात स्पष्ट क्षणांपैकी एक आहे, आणि सिद्ध नामधारकांच्या लाभासाठी त्यावर रेंगाळतात. विश्वामित्रांची कथा सभेतील सर्वांना ठाऊक होती. एखादा माणूस किती दूरवर जाऊ शकतो याचे प्राचीन उदाहरण म्हणून ती सांगितली जाते. गुरूंनी कथा संक्षिप्त ठेवली. महत्त्व तिच्या स्वरूपाचे होते: एक माणूस एका ठिकाणापासून सुरू करतो आणि केवळ चिकाटीने दुसऱ्या ठिकाणी पोहोचतो, आणि ते कोणीही त्याच्याकडून हिरावू शकत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Ash and the Messengers of Yama",
+    "hi": {
+     "text": "भस्म और यम के दूत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भस्म आणि यमदूत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Next the Guru told of a brahmin who had lived badly and died, and whom the messengers of Yama came to carry away. But the dead man's body had been marked with the ash of Shiva, and the messengers could not take him. The ash had protected him.\n\nThe story is a reminder that the smallest sign of devotion can outweigh a long record of mistakes. The Guru told it with a quiet confidence, as one who has seen how such things go. Yama's messengers are said to be stern and hard to turn aside, and the story gives them a moment of real surprise. They stood before the dead man and could not touch him. A small mark of ash on his body, perhaps placed there out of habit or in the last hour of his life, had been enough. The Guru let the listeners wonder at the smallness of it.",
+    "hi": {
+     "text": "फिर गुरु ने एक ऐसे ब्राह्मण की कथा सुनाई जिसने बुरा जीवन बिताया और मर गया, और जिसे लेने यम के दूत आए। पर मृत पुरुष के शरीर पर शिव की भस्म लगी थी, और दूत उसे नहीं ले जा सके। भस्म ने उसकी रक्षा की थी।\n\nयह कथा याद दिलाती है कि भक्ति का सबसे छोटा चिह्न भी त्रुटियों के लंबे लेखे पर भारी पड़ सकता है। गुरु ने इसे शांत विश्वास के साथ सुनाया, उस व्यक्ति की तरह जिसने देखा है कि ऐसी बातें कैसे होती हैं। यम के दूत कठोर और सरलता से न हटने वाले माने जाते हैं, और कथा उन्हें एक सच्चे आश्चर्य का क्षण देती है। वे मृत पुरुष के सामने खड़े रहे और उसे छू नहीं सके। उसके शरीर पर भस्म का एक छोटा-सा चिह्न, शायद आदतवश या जीवन के अंतिम घंटे में लगाया गया, पर्याप्त था। गुरु ने श्रोताओं को उस छोटेपन पर आश्चर्य करने दिया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पुढे गुरूंनी एका ब्राह्मणाची कथा सांगितली ज्याने वाईट जीवन जगले आणि मरण पावला, आणि ज्याला नेण्यासाठी यमदूत आले. पण मृत पुरुषाच्या शरीरावर शिवाचे भस्म लावलेले होते, आणि दूत त्याला नेऊ शकले नाहीत. भस्माने त्याचे रक्षण केले होते.\n\nही कथा आठवण करून देते की भक्तीचे सर्वात लहान चिन्हसुद्धा चुकांच्या दीर्घ नोंदीवर भारी पडू शकते. गुरूंनी ती शांत आत्मविश्वासाने सांगितली, जणू अशा गोष्टी कशा घडतात हे पाहिलेला माणूस. यमदूत कठोर आणि सहज न वळणारे मानले जातात, आणि कथा त्यांना एक खरे आश्चर्याचे क्षण देते. ते मृत पुरुषासमोर उभे राहिले आणि त्याला स्पर्श करू शकले नाहीत. त्याच्या शरीरावर भस्माची एक लहानशी खूण, कदाचित सवयीने किंवा जीवनाच्या शेवटच्या तासात लावलेली, पुरेशी होती. गुरूंनी श्रोत्यांना त्या लहानपणाविषयी आश्चर्य वाटू दिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Vamadeva and the Rakshasa",
+    "hi": {
+     "text": "वामदेव और राक्षस",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वामदेव आणि राक्षस",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Finally the Guru spoke of the sage Vamadeva, who taught a brahma-rakshasa to apply bhasma and the tripundra marks. The spirit, who had been bound for a long time, followed the teaching, and was set free.\n\nThe tale ties together the whole discussion. A person may fall, and a person may be lifted. The ash, the mark and the teacher's word were the means. The chapter ends with the man of the seven lines listening, as if he were hearing for the first time that his own life could be changed. Vamadeva is a gentle figure in these tales, a sage who wanders and teaches without display. The rakshasa, bound by an old fault, approached him not with anger but with a request. The Gurucharitra says it was set free.",
+    "hi": {
+     "text": "अंत में गुरु ने ऋषि वामदेव की चर्चा की, जिन्होंने एक ब्रह्मराक्षस को भस्म और त्रिपुंड लगाना सिखाया। वह प्रेत, जो लंबे समय से बँधा था, इस उपदेश का पालन करने लगा, और मुक्त हो गया।\n\nयह कथा पूरी चर्चा को जोड़ती है। व्यक्ति गिर सकता है, और व्यक्ति ऊपर उठाया भी जा सकता है। भस्म, चिह्न और गुरु का वचन ही साधन थे। अध्याय सात रेखाओं वाले व्यक्ति के सुनते हुए समाप्त होता है, मानो उसने पहली बार सुना हो कि उसका अपना जीवन भी बदल सकता है। वामदेव इन कथाओं में एक कोमल व्यक्तित्व हैं, एक ऋषि जो बिना आडंबर के भ्रमण करते और शिक्षा देते हैं। पुराने दोष से बँधा राक्षस क्रोध से नहीं, एक याचना के साथ उनके पास गया। श्री गुरुचरित्र कहता है कि वह मुक्त हो गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेवटी गुरूंनी ऋषी वामदेवांची चर्चा केली, ज्यांनी एका ब्रह्मराक्षसाला भस्म आणि त्रिपुंड्र लावायला शिकवले. तो प्रेत, जो बराच काळ बांधलेला होता, या उपदेशाचे पालन करू लागला, आणि मुक्त झाला.\n\nही कथा संपूर्ण चर्चा जोडते. माणूस पडू शकतो, आणि माणसाला वर उचलले जाऊ शकते. भस्म, चिन्ह आणि गुरूंचा शब्द ही साधने होती. सात रेषांवरचा माणूस ऐकत असताना अध्याय संपतो, जणू त्याला पहिल्यांदाच कळले की त्याचे स्वतःचे जीवनही बदलू शकते. या कथांमध्ये वामदेव एक सौम्य व्यक्तिरेखा आहेत, असे ऋषी जे कोणताही दिखावा न करता भ्रमण करतात आणि शिकवतात. जुन्या दोषाने बांधलेला राक्षस क्रोधाने नव्हे, तर याचनेने त्यांच्याकडे गेला. श्री गुरुचरित्र म्हणते की तो मुक्त झाला.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there a mistake you are still carrying? Take one small step today to repair it.",
+  "hi": {
+   "text": "क्या कोई भूल अब भी आपके साथ है? आज उसे सुधारने की दिशा में एक छोटा कदम उठाइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या मनावर अजूनही एखादी चूक ओझे आहे का? ती सुधारण्यासाठी आज एक छोटे पाऊल उचला.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "No fall is final in the Guru's teaching, and a sincere turn of heart is always the start of repair.",
+  "hi": {
+   "text": "गुरु की शिक्षा में कोई पतन अंतिम नहीं है, और हृदय का सच्चा मोड़ सदा सुधार की शुरुआत है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरूंच्या शिकवणीत कोणतेही पतन अंतिम नसते, आणि हृदयाचे प्रामाणिक वळण हीच नेहमी सुधारणेची सुरुवात असते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 28; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 28; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 28; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

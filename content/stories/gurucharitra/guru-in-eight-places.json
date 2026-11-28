@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "guru-in-eight-places",
+ "order": 46,
+ "part": "bhakti",
+ "figure": {
+  "en": "Narasimha Saraswati and seven devotees",
+  "hi": {
+   "text": "नृसिंह सरस्वती और सात भक्त",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि सात भक्त",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "Eight Forms on One Night",
+  "hi": {
+   "text": "एक रात आठ रूप",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "एका रात्री आठ रूपे",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "At Diwali, seven devotees each invite the Guru home. He loves them equally and finds a way to be with all of them.",
+  "hi": {
+   "text": "दीवाली पर सात भक्त गुरु को अपने घर आमंत्रित करते हैं। वे सबको समान प्रेम करते हैं, और सबके साथ रहने का मार्ग खोज लेते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दिवाळीला सात भक्त प्रत्येकजण गुरूंना आपल्या घरी बोलावतो. ते सर्वांवर सारखे प्रेम करतात आणि सर्वांसोबत राहण्याचा मार्ग शोधतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-datta-paduka.webp",
+   "w": 825,
+   "h": 1100,
+   "caption": {
+    "en": "Datta paduka shrine, the Guru's footprints",
+    "hi": {
+     "text": "दत्त पादुका मंदिर, गुरु के चरण-चिह्न",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दत्त पादुका मंदिर, गुरूंच्या पावलांचे ठसे",
+     "reviewed": false
+    }
+   },
+   "credit": "Rajasekhar1961, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Datta_Paduka_Mandir_01.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Seven Invitations",
+    "hi": {
+     "text": "सात निमंत्रण",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सात निमंत्रणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At Diwali time, seven devotees from different towns each came to Ganagapur to invite the Guru to their homes for the festival. All of them loved him. All of them wanted him to come. The Guru loved each of them equally, and he could not go to all seven at once.\n\nEach one insisted that he come to his house first. The discussion grew into a quarrel, and the devotees, who had come in joy, began to speak sharply to one another. The Guru listened without taking sides. Each of them was sure of his claim, and the lamps of the festival burned around the math while they argued. The quarrel was not bitter, but it was loud, and the Guru listened to all of it. The Gurucharitra gives no names to the seven devotees, which lets each of us stand among them. They came from different towns, each with a sincere invitation, and each meant it with all his heart.",
+    "hi": {
+     "text": "दीवाली के समय सात भक्त अलग-अलग नगरों से गाणगापुर आए, ताकि उत्सव के लिए गुरु को अपने घर आमंत्रित करें। वे सब गुरु से प्रेम करते थे। सब चाहते थे कि वे आएँ। गुरु हर एक से समान प्रेम करते थे, और वे सातों के पास एक साथ नहीं जा सकते थे।\n\nहर एक ने आग्रह किया कि गुरु पहले उसके घर आएँ। बात बढ़ते-बढ़ते विवाद बन गई, और जो भक्त आनंद से आए थे, वे एक-दूसरे से कड़ाई से बोलने लगे। गुरु ने किसी का पक्ष लिए बिना सब सुना। उनमें से हर एक अपने दावे पर पूरी तरह निश्चित था, और मठ के चारों ओर उत्सव के दीपक जलते रहे जब वे बहस करते रहे। विवाद कटु नहीं था, पर ऊँचा था, और गुरु ने उसका हर शब्द सुना। श्री गुरुचरित्र सात भक्तों को नाम नहीं देता, जिससे हम में से हर कोई उनके बीच खड़ा हो सके। वे भिन्न नगरों से आए थे, हर एक के मन में सच्चा निमंत्रण था, और हर एक उसे पूरे हृदय से चाहता था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दिवाळीच्या सुमारास सात भक्त वेगवेगळ्या गावांहून गाणगापूरला आले, गुरूंना सणासाठी आपल्या घरी बोलावण्यासाठी. ते सर्वजण त्यांच्यावर प्रेम करत होते. सर्वांना वाटत होते की त्यांनी यावे. गुरू प्रत्येकावर समान प्रेम करत होते, आणि ते सातही जणांकडे एकाच वेळी जाऊ शकत नव्हते.\n\nप्रत्येकाने आग्रह धरला की गुरूंनी आधी त्याच्या घरी यावे. चर्चा वादात बदलली, आणि आनंदाने आलेले भक्त एकमेकांशी कडक शब्दांत बोलू लागले. गुरूंनी कोणाचीही बाजू न घेता सर्व ऐकले. प्रत्येकाला आपल्या दाव्याची खात्री होती, आणि ते वाद घालत असताना मठाभोवती उत्सवाचे दिवे जळत होते. वाद कडवट नव्हता, पण मोठा होता, आणि गुरूंनी त्याचा प्रत्येक शब्द ऐकला. श्री गुरुचरित्र सात भक्तांना नावे देत नाही, ज्यामुळे आपल्यापैकी प्रत्येकाला त्यांच्यात उभे राहता येते. ते वेगवेगळ्या गावांहून आले होते, प्रत्येकाकडे प्रामाणिक निमंत्रण होते, आणि प्रत्येकाने ते पूर्ण मनाने अर्थाने दिले होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Private Promise",
+    "hi": {
+     "text": "एक गोपनीय वचन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "एक गुपित वचन",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru spoke to each of them in private. To each one, quietly, he promised that he would visit. None of them knew what he had told the others. Each went away satisfied, certain that his own house would be honoured.\n\nMeanwhile the devotees of Ganagapur itself came to him, and asked him to stay in town for the festival. Their wish was as sincere as the others'. He did not refuse them. He did not want any of them to feel second, and he found a way to hold all their wishes at once. The Ganagapur devotees asked him to stay in the town for the festival, and he did not refuse them either. Each of them was left feeling that his own wish had been heard, and the Gurucharitra says that in a sense this was simply true. He told each in a soft voice, and each believed him, because it was true.",
+    "hi": {
+     "text": "गुरु ने हर एक से अलग-अलग बात की। हर एक को धीरे से उन्होंने वचन दिया कि वे उसके घर आएँगे। कोई नहीं जानता था कि उन्होंने दूसरों से क्या कहा है। हर एक संतुष्ट होकर लौटा, इस विश्वास से कि उसका अपना घर सम्मानित होगा।\n\nइसी बीच गाणगापुर के भक्त स्वयं उनके पास आए, और उत्सव के लिए नगर में रुकने की विनती की। उनकी इच्छा भी उतनी ही सच्ची थी जितनी दूसरों की। गुरु ने उन्हें भी मना नहीं किया। वे नहीं चाहते थे कि कोई भी स्वयं को दूसरे दर्जे पर अनुभव करे, और उन्होंने सभी इच्छाओं को एक साथ थामने का मार्ग खोज लिया। गाणगापुर के भक्तों ने गुरु से उत्सव के लिए नगर में रुकने की विनती की, और उन्होंने उन्हें भी मना नहीं किया। हर एक को लगा कि उसकी अपनी इच्छा सुनी गई है, और श्री गुरुचरित्र कहता है कि एक अर्थ में यह सीधा सत्य था। उन्होंने हर एक से धीमे स्वर में बात की, और हर एक ने उन पर विश्वास किया, क्योंकि यह सत्य था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी प्रत्येकाशी वेगळे बोलले. प्रत्येकाला शांतपणे त्यांनी वचन दिले की ते त्याच्या घरी येतील. कोणालाही माहीत नव्हते की त्यांनी इतरांना काय सांगितले आहे. प्रत्येक जण समाधानाने परत गेला, खात्री बाळगून की त्याच्या स्वतःच्या घराचा सन्मान होईल.\n\nदरम्यान गाणगापूरच्या भक्तांनीही त्यांच्याकडे येऊन सणासाठी नगरात राहण्याची विनंती केली. त्यांची इच्छा इतरांइतकीच प्रामाणिक होती. गुरूंनी त्यांनाही नकार दिला नाही. कोणालाही दुसऱ्या दर्जाचे वाटावे असे त्यांना वाटत नव्हते, आणि त्यांनी सर्व इच्छा एकाच वेळी धरण्याचा मार्ग शोधला. गाणगापूरच्या भक्तांनी गुरूंना सणासाठी नगरात राहण्याची विनंती केली, आणि त्यांनी त्यांनाही नकार दिला नाही. प्रत्येकाला आपली इच्छा ऐकली गेली असे वाटले, आणि श्री गुरुचरित्र सांगते की एका अर्थाने हे केवळ खरे होते. त्यांनी प्रत्येकाशी मृदू स्वरात बोलले, आणि प्रत्येकाने त्यांच्यावर विश्वास ठेवला, कारण ते खरे होते.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Night of Narak Chaturdashi",
+    "hi": {
+     "text": "नरक चतुर्दशी की रात",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नरक चतुर्दशीची रात्र",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On Narak Chaturdashi the Guru took eight forms. One of them visited each of the seven homes, and one remained at the Ganagapur math. At each house the family welcomed him as a festival guest, while another form of the Guru remained at the Ganagapur math. In this way he visited seven homes and was still in the town, and no one among them knew it that night. The Gurucharitra tells it plainly and lets the wonder speak.\n\nHe gave each of the seven hosts a cloth as a gift. No one in any of the towns had any idea that the guest in their home was also the guest in six other homes. Seven households lit lamps that night. In each there were sweets, new clothes and children in the doorway. A guest arrived at the time each family expected him, sat in the place prepared for him and ate what was served. No one thought to ask whether he was somewhere else.",
+    "hi": {
+     "text": "नरक चतुर्दशी पर गुरु ने आठ रूप धारण किए। एक रूप ने सात घरों में से हर एक की यात्रा की, और एक रूप गाणगापुर के मठ में रहा। हर घर में परिवार ने उन्हें उत्सव के अतिथि के रूप में स्वागत किया, जबकि गुरु का एक और रूप गाणगापुर के मठ में बना रहा। इस प्रकार वे सात घरों में गए और फिर भी नगर में थे, और उस रात उनमें से किसी को इसका पता नहीं चला। श्री गुरुचरित्र इसे सीधे-सादे ढंग से कहता है और आश्चर्य को बोलने देता है।\n\nउन्होंने सातों गृहस्वामियों को भेंटस्वरूप एक वस्त्र दिया। किसी भी नगर में किसी को नहीं पता था कि उनके घर का अतिथि छह अन्य घरों का भी अतिथि है। उस रात सात परिवारों ने दीप जलाए। हर घर में मिठाइयाँ थीं, नए वस्त्र थे, और द्वार पर बच्चे थे। अतिथि उसी समय पहुँचा जब हर परिवार ने उसकी अपेक्षा की थी, तैयार किए गए स्थान पर बैठा और परोसा गया भोजन किया। किसी ने यह पूछने की बात नहीं सोची कि क्या वह कहीं और भी है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नरक चतुर्दशीला गुरूंनी आठ रूपे धारण केली. एक रूप सातपैकी प्रत्येक घरी गेले, आणि एक रूप गाणगापूरच्या मठात राहिले. प्रत्येक घरात कुटुंबाने त्यांचे सणाचे पाहुणे म्हणून स्वागत केले, तर गुरूंचे दुसरे रूप गाणगापूरच्या मठात राहिले. अशा प्रकारे ते सात घरी गेले आणि तरीही नगरात होते, आणि त्या रात्री त्यांच्यापैकी कोणालाही हे कळले नाही. श्री गुरुचरित्र हे सरळ सांगते आणि आश्चर्याला बोलू देते.\n\nत्यांनी सातही गृहस्थांना भेट म्हणून एक वस्त्र दिले. कोणत्याही नगरात कोणालाही कल्पना नव्हती की त्यांच्या घरातला पाहुणा इतर सहा घरांचाही पाहुणा आहे. त्या रात्री सात कुटुंबांनी दिवे लावले. प्रत्येक घरात मिठाई होती, नवे वस्त्र होते, आणि दारात मुले होती. प्रत्येक कुटुंबाने अपेक्षा केली होती त्याच वेळी पाहुणा आला, त्याला ठेवलेल्या जागी बसला आणि वाढलेले अन्न खाल्ले. कोणीही विचारले नाही की तो दुसरीकडे कुठे आहे का.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Comparing the Cloths",
+    "hi": {
+     "text": "वस्त्रों की तुलना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वस्त्रांची तुलना",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "On Kartik Purnima, the full moon after Diwali, the seven devotees met again. They began to talk about the festival, and each described how the Guru had come to his house. Then each showed the cloth the Guru had given him.\n\nThey looked at each other in silence. The cloths were alike. The days were the same, the hours were the same, and each of them had been with the Guru at once. They understood that he had been in eight places on one night, and the quarrel they had had over his visit felt very small. It took a moment to understand, and then the quarrel was forgotten in the shared wonder. On Kartik Purnima they compared the cloths the Guru had given each of them, and the cloths and the days matched. They had each had the Guru at once, and the realisation settled over them slowly.",
+    "hi": {
+     "text": "कार्तिक पूर्णिमा पर, दीवाली के बाद की पूर्णिमा को, सातों भक्त फिर मिले। वे उत्सव की बात करने लगे, और हर एक ने बताया कि गुरु उसके घर कैसे आए थे। फिर हर एक ने वह वस्त्र दिखाया जो गुरु ने उसे दिया था।\n\nवे मौन में एक-दूसरे को देखने लगे। वस्त्र एक जैसे थे। दिन वही थे, समय वही था, और उनमें से हर एक एक साथ गुरु के समीप था। उन्होंने समझा कि वे एक ही रात में आठ स्थानों पर थे, और उनके बीच उनके आगमन को लेकर हुआ विवाद उन्हें बहुत छोटा लगने लगा। समझने में एक क्षण लगा, और फिर साझा विस्मय में विवाद भुला दिया गया। कार्तिक पूर्णिमा पर उन्होंने गुरु द्वारा दिए गए वस्त्रों की तुलना की, और वस्त्र तथा दिन मेल खा गए। हर एक को गुरु एक साथ मिले थे, और यह बोध धीरे-धीरे उन पर उतरा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कार्तिक पौर्णिमेला, दिवाळीनंतरच्या पौर्णिमेला, सात भक्त पुन्हा भेटले. ते सणाविषयी बोलू लागले, आणि प्रत्येकाने गुरू त्याच्या घरी कसे आले होते ते सांगितले. मग प्रत्येकाने गुरूंनी दिलेले वस्त्र दाखवले.\n\nते एकमेकांकडे मौनात पाहू लागले. वस्त्रे सारखी होती. दिवस तेच होते, वेळ तीच होती, आणि त्यांच्यातील प्रत्येकाजवळ गुरू एकाच वेळी होते. त्यांना समजले की गुरू एकाच रात्री आठ ठिकाणी होते, आणि त्यांच्यातील भेटीवरून झालेला वाद त्यांना फार लहान वाटू लागला. समजायला एक क्षण लागला, आणि मग सामायिक विस्मयात तो वाद विसरला गेला. कार्तिक पौर्णिमेला त्यांनी गुरूंनी दिलेली वस्त्रे एकमेकांशी पडताळली, आणि वस्त्रे व दिवस जुळले. प्रत्येकाला गुरू एकाच वेळी लाभले होते, आणि ही जाणीव हळूहळू त्यांच्यावर उतरली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Faith Made Firm",
+    "hi": {
+     "text": "श्रद्धा दृढ़ हुई",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रद्धा दृढ झाली",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "From that day their faith was firm. The seven did not need a second proof. They had seen that the Guru's love was large enough to be given in full to each of them, without taking anything from the others.\n\nThe chapter closes by affirming that serving the Guru fulfils a devotee's wishes, and that the Gurucharitra itself is worthy to stand beside the Vedas and the shastras. Namdharak, listening, felt his own old question about whether the Guru could be near to an ordinary householder quietly answered. They returned to their towns quietly changed. The quarrel was gone, and none of them spoke of it again, and in its place was something steadier. The Siddha tells Namdharak that devotion is not a competition for the Guru's attention, but a shared recognition that there is enough for everyone.",
+    "hi": {
+     "text": "उस दिन से उनकी श्रद्धा दृढ़ हो गई। सातों को दूसरे प्रमाण की आवश्यकता नहीं रही। उन्होंने देखा कि गुरु का प्रेम इतना विशाल है कि वह हर एक को पूर्णता से दिया जा सकता है, बिना किसी दूसरे से कुछ छीने।\n\nअध्याय यह पुष्टि करते हुए समाप्त होता है कि गुरु की सेवा भक्त की इच्छाएँ पूरी करती है, और श्री गुरुचरित्र स्वयं वेदों और शास्त्रों के साथ खड़े होने योग्य है। नामधारक ने सुना, और उनका अपना पुराना प्रश्न, कि क्या गुरु एक साधारण गृहस्थ के समीप हो सकते हैं, शांति से उत्तरित हो गया। वे कुछ बदले हुए मन से अपने-अपने नगर लौटे। विवाद समाप्त हो गया था, और उनमें से किसी ने उसकी फिर चर्चा नहीं की, और उसके स्थान पर कुछ अधिक स्थिर आ गया था। सिद्ध नामधारक को बताते हैं कि भक्ति गुरु के ध्यान के लिए कोई प्रतियोगिता नहीं, बल्कि इस साझा बोध का नाम है कि सबके लिए पर्याप्त है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या दिवसापासून त्यांची श्रद्धा दृढ झाली. सातही जणांना दुसऱ्या पुराव्याची गरज नव्हती. त्यांनी पाहिले होते की गुरूंचे प्रेम इतके विशाल आहे की ते प्रत्येकाला पूर्णपणे दिले जाऊ शकते, इतरांकडून काहीही न घेता.\n\nअध्याय असे पुष्टी करून संपतो की गुरूंची सेवा भक्ताच्या इच्छा पूर्ण करते, आणि श्री गुरुचरित्र स्वतः वेद आणि शास्त्रांच्या बरोबरीने उभे राहण्यास योग्य आहे. नामधारकांनी ऐकले, आणि त्यांचा स्वतःचा जुना प्रश्न, की गुरू एका साध्या गृहस्थाच्या जवळ असू शकतात का, शांतपणे उत्तरला गेला. ते काहीसे बदललेल्या मनाने आपापल्या गावी परतले. वाद संपला होता, आणि त्यांच्यापैकी कोणीही त्याची पुन्हा चर्चा केली नाही, आणि त्याच्या जागी काहीतरी अधिक स्थिर आले होते. सिद्ध नामधारकांना सांगतात की भक्ती म्हणजे गुरूंच्या लक्षासाठी स्पर्धा नसून, सर्वांसाठी पुरेसे आहे या सामायिक जाणिवेचे नाव आहे.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there someone you feel you cannot give enough time to? Give one of them a full ten minutes of your attention today.",
+  "hi": {
+   "text": "क्या कोई ऐसा है जिसे आप समय नहीं दे पाते हैं? आज उनमें से किसी एक को पूरे दस मिनट का ध्यान दीजिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "असे कोणी आहे का ज्याला तुम्ही पुरेसा वेळ देऊ शकत नाही असे वाटते? आज त्यांच्यापैकी एकाला पूर्ण दहा मिनिटांचे लक्ष द्या.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Love that is real is not divided by the number of those it loves, and a heart can be wholly present to many.",
+  "hi": {
+   "text": "सच्चा प्रेम उसकी संख्या से विभाजित नहीं होता जिसे वह प्रेम करता है, और एक हृदय अनेकों के प्रति पूर्ण रूप से उपस्थित हो सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "खरे प्रेम ज्यांच्यावर ते करते त्यांच्या संख्येने विभागले जात नाही, आणि एक हृदय अनेकांसाठी पूर्णपणे उपस्थित असू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 46; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 46; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 46; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

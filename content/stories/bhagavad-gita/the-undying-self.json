@@ -24,18 +24,18 @@
    "reviewed": false
   },
   "mr": {
-   "text": "अमर आत्मा",
+   "text": "अविनाशी आत्मा",
    "reviewed": false
   }
  },
  "teaser": {
   "en": "Krishna answers Arjuna’s grief by pointing to what in us never dies, and shows how to act without clinging to results.",
   "hi": {
-   "text": "श्रीकृष्ण अर्जुन के शोक का उत्तर उस तत्त्व की ओर संकेत करके देते हैं जो हममें कभी नहीं मरता, और फल की आसक्ति के बिना कर्म करना सिखाते हैं।",
+   "text": "श्रीकृष्ण अर्जुन के शोक का उत्तर देते हैं, वह बताकर जो हमारे भीतर कभी नहीं मरता, और यह सिखाकर कि फल से चिपके बिना कर्म कैसे करें।",
    "reviewed": false
   },
   "mr": {
-   "text": "अर्जुनाच्या दुःखाला श्रीकृष्ण आपल्यातल्या कधीही न मरणाऱ्या तत्त्वाकडे बोट दाखवून उत्तर देतात, आणि फळाची आसक्ती न धरता कर्म कसे करावे ते सांगतात.",
+   "text": "श्रीकृष्ण अर्जुनाच्या शोकाला उत्तर देतात, आपल्यातील जे कधीच मरत नाही ते दाखवून, आणि फळाला चिकटून न राहता कर्म कसे करावे हे शिकवून.",
    "reviewed": false
   }
  },
@@ -62,72 +62,144 @@
  "scenes": [
   {
    "title": {
-    "en": "A friend becomes a teacher",
+    "en": "A friend asks to be taught",
     "hi": {
-     "text": "मित्र गुरु बन जाता है",
+     "text": "एक मित्र शिक्षा माँगता है",
      "reviewed": false
     },
     "mr": {
-     "text": "मित्र गुरू होतो",
+     "text": "एक मित्र शिकवण मागतो",
      "reviewed": false
     }
    },
    "text": {
-    "en": "Arjuna, overwhelmed, turns to Krishna and says plainly that he does not know what is right. He asks to be taken as a student, since his own mind has failed him. With that, the friend on the chariot becomes a teacher, and the real conversation of the Gita starts.\n\nKrishna first gently points out that Arjuna is grieving for those who need no grief. Then he begins with the deepest idea: the self inside every being is never born and never dies. Weapons do not cut it, fire does not burn it, and water does not wet it. Bodies come and go like clothes that are worn and set aside, while the one who wears them goes on.",
+    "en": "Sanjaya reports that Krishna looks at the tearful, sinking Arjuna and begins to speak. First he gently asks where this weakness came from at such a moment, for it suits neither courage nor clear thinking (2.2-3). Arjuna replies by naming the knot in his heart: how can he aim arrows at Bhishma and Drona, who deserve his reverence?\n\nHe admits his mind is confused about duty and says he would rather live on alms than win a kingdom by such a victory. Then he says the words that change everything: I am your student, please instruct me (2.7). He says he will not fight, and falls silent. With that surrender of pride, the friend on the chariot becomes a teacher. It is striking that the teaching begins only after the student admits he needs one.",
     "hi": {
-     "text": "अर्जुन, व्याकुल होकर, श्रीकृष्ण की ओर मुड़ते हैं और सीधे कहते हैं कि उन्हें नहीं पता क्या उचित है। वे शिष्य के रूप में स्वीकार किए जाने की प्रार्थना करते हैं, क्योंकि उनके अपने मन ने उन्हें धोखा दे दिया है। इसी क्षण रथ का सखा गुरु बन जाता है, और गीता का सच्चा संवाद आरंभ होता है।\n\nश्रीकृष्ण पहले कोमलता से कहते हैं कि अर्जुन उनके लिए शोक कर रहे हैं जिनके लिए शोक नहीं करना चाहिए। फिर वे सबसे गहरे विचार से आरंभ करते हैं: हर प्राणी के भीतर की आत्मा न कभी जन्मती है, न कभी मरती है। शस्त्र उसे काट नहीं सकते, अग्नि जला नहीं सकती, जल भिगो नहीं सकता। शरीर वस्त्रों की तरह आते-जाते हैं, जो पहने जाते और फिर उतार दिए जाते हैं, पर उन्हें पहनने वाला बना रहता है।",
+     "text": "संजय बताते हैं कि श्रीकृष्ण रोते और डूबते हुए अर्जुन की ओर देखते हैं और बोलना आरंभ करते हैं। पहले वे कोमलता से पूछते हैं कि इस संकट की घड़ी में यह दुर्बलता कहाँ से आई, क्योंकि यह न वीरता को शोभा देती है न स्पष्ट विचार को (2.2-3)। अर्जुन अपने हृदय की गाँठ बताकर उत्तर देते हैं: मैं भीष्म और द्रोण जैसे पूज्य गुरुजनों पर बाण कैसे चलाऊँ?\n\nवे स्वीकार करते हैं कि कर्तव्य के विषय में उनका मन उलझा हुआ है, और कहते हैं कि ऐसी विजय से राज्य पाने की अपेक्षा वे भिक्षा माँगकर जीना पसंद करेंगे। फिर वे वे शब्द कहते हैं जो सब कुछ बदल देते हैं: मैं आपका शिष्य हूँ, कृपया मुझे उपदेश दीजिए (2.7)। वे कहते हैं कि वे युद्ध नहीं करेंगे, और चुप हो जाते हैं। अहंकार के इस समर्पण से रथ पर बैठा मित्र गुरु बन जाता है। यह ध्यान देने योग्य है कि उपदेश तभी आरंभ होता है जब शिष्य स्वीकार करता है कि उसे इसकी आवश्यकता है।",
      "reviewed": false
     },
     "mr": {
-     "text": "भारावून गेलेला अर्जुन श्रीकृष्णाकडे वळतो आणि स्पष्ट सांगतो की काय योग्य आहे ते मला कळत नाही. आपल्याच मनाने साथ सोडल्यामुळे तो शिष्य म्हणून स्वीकारण्याची विनंती करतो. इथे रथावरचा मित्र गुरू होतो, आणि गीतेचा खरा संवाद सुरू होतो.\n\nश्रीकृष्ण आधी हळूच दाखवतात की ज्यांच्यासाठी शोक करू नये त्यांच्यासाठी तू शोक करत आहेस. मग ते सर्वांत गहन कल्पनेने सुरुवात करतात: प्रत्येक प्राण्यातला आत्मा कधीही जन्मत नाही आणि कधीही मरत नाही. शस्त्रे त्याला कापत नाहीत, अग्नी त्याला जाळत नाही आणि पाणी त्याला भिजवत नाही. शरीरे येतात आणि जातात, जशी वस्त्रे घालून टाकून दिली जातात, पण ती घालणारा पुढे चालत राहतो.",
+     "text": "संजय सांगतात की श्रीकृष्ण अश्रू ढाळणाऱ्या आणि खचलेल्या अर्जुनाकडे पाहतात आणि बोलू लागतात. प्रथम ते सौम्यपणे विचारतात की अशा क्षणी ही दुर्बलता कुठून आली, कारण ती वीरतेला शोभत नाही आणि स्पष्ट विचारालाही नाही (2.2-3)। अर्जुन आपल्या हृदयातील गाठ सांगून उत्तर देतो: ज्यांचा मी आदर करतो अशा भीष्म आणि द्रोण यांच्यावर मी बाण कसे चालवू?\n\nतो कबूल करतो की कर्तव्याबाबत त्याचे मन गोंधळलेले आहे, आणि अशा विजयाने राज्य मिळवण्यापेक्षा भिक्षा मागून जगणे त्याला श्रेयस्कर वाटते. मग तो ते शब्द उच्चारतो जे सर्व बदलून टाकतात: मी आपला शिष्य आहे, कृपया मला उपदेश करा (2.7)। तो म्हणतो की तो युद्ध करणार नाही, आणि गप्प बसतो. अहंकाराच्या या शरणागतीने रथावर बसलेला मित्र गुरू बनतो. लक्षणीय गोष्ट म्हणजे शिष्य गरज मान्य करतो तेव्हाच शिकवण सुरू होते.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Act, but let go of the fruit",
+    "en": "The one who never dies",
     "hi": {
-     "text": "कर्म करो, फल छोड़ो",
+     "text": "जो कभी नहीं मरता",
      "reviewed": false
     },
     "mr": {
-     "text": "कर्म करा, पण फळ सोडा",
+     "text": "जो कधीच मरत नाही",
      "reviewed": false
     }
    },
    "text": {
-    "en": "From this foundation Krishna turns to daily life. Do what is yours to do, he says, and give it your full care. You have a right to your effort, but not to how things turn out. If you work only for rewards, every setback shatters you; if you refuse to work, you waste your life. The path lies between: act well, and release the outcome.\n\nHe also paints a portrait of the steady-minded person, the sthita-prajna. Such a person is not pushed about by pleasure and pain. Like a tortoise drawing in its limbs, they can bring the senses home. They stay calm in praise and blame, and find a quiet joy that does not depend on circumstances.",
+    "en": "Krishna begins with the deepest layer. The wise, he says, grieve neither for the living nor for the dead (2.11). The self was never not here, nor will it ever cease to be. Just as a body passes from childhood to youth to old age, the dweller in the body moves on to another, and a steady person is not shaken by it (2.13).\n\nHe describes this self in images that are easy to remember. Weapons cannot cut it, fire cannot burn it, water cannot wet it and wind cannot dry it (2.23). It is never born and never dies; it is ancient and unchanging (2.20). As someone puts aside worn clothes and puts on new ones, the self takes up new bodies (2.22). Grief, Krishna suggests, comes from taking the passing for the permanent.",
     "hi": {
-     "text": "इसी नींव से श्रीकृष्ण रोज़ के जीवन की ओर मुड़ते हैं। जो तुम्हारे करने का है, वह करो, वे कहते हैं, और उसमें पूरा मन लगाओ। तुम्हारा अधिकार तुम्हारे प्रयास पर है, उसके परिणाम पर नहीं। यदि तुम केवल पुरस्कार के लिए काम करोगे, तो हर असफलता तुम्हें तोड़ देगी; और यदि काम से इनकार करोगे, तो जीवन व्यर्थ गँवाओगे। मार्ग इन दोनों के बीच है: अच्छी तरह कर्म करो, और परिणाम को छोड़ दो।\n\nवे स्थितप्रज्ञ, स्थिर बुद्धि वाले मनुष्य का चित्र भी खींचते हैं। ऐसा मनुष्य सुख और दुख से इधर-उधर नहीं धकेला जाता। कछुए के अपने अंग समेट लेने की तरह, वह इंद्रियों को भीतर लौटा सकता है। वह प्रशंसा और निंदा में शांत रहता है, और ऐसे शांत आनंद को पाता है जो परिस्थितियों पर निर्भर नहीं।",
+     "text": "श्रीकृष्ण सबसे गहरे स्तर से आरंभ करते हैं। ज्ञानी, वे कहते हैं, न जीवितों के लिए शोक करते हैं न मृतकों के लिए (2.11)। आत्मा ऐसी नहीं थी कि कभी न रही हो, और न ऐसी होगी कि कभी न रहेगी। जैसे देह बचपन से यौवन और फिर वृद्धावस्था में जाती है, वैसे ही देह में रहने वाला दूसरी देह को प्राप्त होता है, और धीर व्यक्ति उससे विचलित नहीं होता (2.13)।\n\nवे इस आत्मा का वर्णन ऐसे चित्रों में करते हैं जो याद रखने में सरल हैं। शस्त्र इसे काट नहीं सकते, अग्नि इसे जला नहीं सकती, जल इसे गीला नहीं कर सकता और वायु इसे सुखा नहीं सकती (2.23)। यह न कभी जन्म लेती है न कभी मरती है; यह पुरातन और अविकारी है (2.20)। जैसे कोई पुराने वस्त्र उतारकर नए धारण करता है, वैसे ही आत्मा नई देहें धारण करती है (2.22)। शोक, श्रीकृष्ण संकेत देते हैं, तब आता है जब मनुष्य नश्वर को स्थायी समझ लेता है।",
      "reviewed": false
     },
     "mr": {
-     "text": "या पायावरून श्रीकृष्ण रोजच्या जीवनाकडे वळतात. जे तुझे कर्तव्य आहे ते कर, आणि त्यात पूर्ण काळजी घे. तुझा अधिकार प्रयत्नावर आहे, परिणामावर नाही. जर तू फक्त बक्षिसासाठी काम केलेस तर प्रत्येक अपयशाने तू खचशील; आणि जर काम करण्यास नकार दिलास तर आयुष्य वाया घालवशील. मार्ग मधला आहे: चांगले कर्म करा आणि परिणाम सोडून द्या.\n\nते स्थिर मनाच्या माणसाचे, स्थितप्रज्ञाचे चित्रही रंगवतात. असा माणूस सुखदुःखाने इकडेतिकडे ढकलला जात नाही. कासव आपले अवयव आत ओढून घेते तसे तो इंद्रियांना घरी परत आणू शकतो. स्तुती आणि निंदेत तो शांत राहतो, आणि परिस्थितीवर अवलंबून नसलेला एक शांत आनंद त्याला मिळतो.",
+     "text": "श्रीकृष्ण सर्वात खोल थरापासून सुरुवात करतात. ज्ञानी, ते म्हणतात, न जिवंतांसाठी शोक करतात न मृतांसाठी (2.11)। आत्मा असा कधी नव्हता की नाही, आणि असा कधी नसणार की नाही असेही नाही। जसे देह बालपणातून तारुण्यात आणि मग वृद्धापकाळात जातो, तसाच देहात राहणारा दुसऱ्या देहात जातो, आणि धीर माणूस त्याने विचलित होत नाही (2.13)।\n\nते या आत्म्याचे वर्णन सहज लक्षात राहतील अशा प्रतिमांमधून करतात. शस्त्रे त्याला छेदू शकत नाहीत, अग्नी त्याला जाळू शकत नाही, पाणी त्याला भिजवू शकत नाही आणि वारा त्याला सुकवू शकत नाही (2.23)। तो कधी जन्मत नाही आणि कधी मरत नाही; तो पुरातन आणि अविकारी आहे (2.20)। जसा कोणी जुने वस्त्र टाकून नवे परिधान करतो, तसा आत्मा नवे देह धारण करतो (2.22)। शोक, श्रीकृष्ण सुचवतात, तेव्हा येतो जेव्हा माणूस नश्वराला शाश्वत समजतो.",
      "reviewed": false
     }
    }
   },
   {
    "title": {
-    "en": "Steadiness in a shaky world",
+    "en": "Duty and the courage to meet it",
     "hi": {
-     "text": "डगमगाते संसार में स्थिरता",
+     "text": "कर्तव्य और उसका सामना करने का साहस",
      "reviewed": false
     },
     "mr": {
-     "text": "डळमळत्या जगात स्थिरता",
+     "text": "कर्तव्य आणि त्याला सामोरे जाण्याचे धैर्य",
      "reviewed": false
     }
    },
    "text": {
-    "en": "In modern life we pour ourselves into exams, jobs and projects, and then our mood rises and falls with every result. This chapter offers another way to live. Care deeply about the work, prepare well, do your part, and then loosen your grip on what you cannot control. Many people find this brings more focus, not less.\n\nIt also helps in loss. Knowing that something in us is deeper than the changing body, many teachers explain, softens fear and grief without asking us to stop loving. Try it in a small way today: finish one task with full attention, and when it is done, let the result be what it is.",
+    "en": "Krishna then turns to Arjuna’s own situation. A warrior has no better path than a just fight, and such a chance comes like an open door to heaven (2.31-32). If he walks away, people will remember it as shame, and for an honoured man that is worse than death (2.34). Many teachers explain that this is not a love of war but a call to do the duty that has landed in your lap.\n\nHe adds a practical way of facing it. Treat pleasure and pain, gain and loss, victory and defeat as the same, and then take up the work (2.38). Do it without stirring up fear of sin, since a mind that is balanced is not stained by honest action. Krishna does not hide that duty can be hard, and he places honour on the side of acting with courage, not on the side of hatred.",
     "hi": {
-     "text": "आधुनिक जीवन में हम परीक्षाओं, नौकरियों और योजनाओं में अपने को झोंक देते हैं, और फिर हर परिणाम के साथ हमारा मन चढ़ता-उतरता है। यह अध्याय जीने का दूसरा ढंग देता है। काम की गहरी परवाह कीजिए, अच्छी तैयारी कीजिए, अपना हिस्सा निभाइए, और फिर जो आपके हाथ में नहीं, उस पर पकड़ ढीली कीजिए। बहुतों को इससे ध्यान घटता नहीं, बढ़ता है।\n\nयह क्षति में भी सहारा देता है। यह जानना कि हममें कुछ बदलते शरीर से गहरा है, बहुत आचार्य समझाते हैं, भय और शोक को नरम करता है, बिना प्रेम करना छोड़ने को कहे। आज इसे छोटे रूप में आज़माइए: एक काम पूरे ध्यान से पूरा कीजिए, और जब वह हो जाए, तो परिणाम को जैसा है वैसा रहने दीजिए।",
+     "text": "फिर श्रीकृष्ण अर्जुन की अपनी स्थिति की ओर मुड़ते हैं। क्षत्रिय के लिए धर्मयुक्त युद्ध से श्रेष्ठ कोई मार्ग नहीं है, और ऐसा अवसर स्वर्ग के खुले द्वार की भाँति आता है (2.31-32)। यदि वह पीछे हट गया, तो लोग इसे अपयश के रूप में याद रखेंगे, और सम्माननीय व्यक्ति के लिए वह मृत्यु से भी बुरा है (2.34)। अनेक शिक्षक समझाते हैं कि यह युद्ध के प्रति प्रेम नहीं, बल्कि उस कर्तव्य को करने का आह्वान है जो अचानक सामने आ पड़ा है।\n\nवे इसका सामना करने का एक व्यावहारिक तरीका जोड़ते हैं। सुख और दुःख, लाभ और हानि, जय और पराजय को समान मानकर फिर कर्म में लगो (2.38)। पाप के भय को मन में जगाए बिना कर्म करो, क्योंकि संतुलित मन ईमानदार कर्म से दूषित नहीं होता। श्रीकृष्ण यह नहीं छिपाते कि कर्तव्य कठिन हो सकता है, और वे सम्मान को घृणा के पक्ष में नहीं, बल्कि साहस से कर्म करने के पक्ष में रखते हैं।",
      "reviewed": false
     },
     "mr": {
-     "text": "आजच्या जीवनात आपण परीक्षा, नोकऱ्या आणि प्रकल्पांमध्ये स्वतःला झोकून देतो, आणि मग प्रत्येक निकालाबरोबर आपली मनःस्थिती वर-खाली होते. हा अध्याय जगण्याचा दुसरा मार्ग दाखवतो. कामाची मनापासून काळजी घ्या, नीट तयारी करा, आपला वाटा पार पाडा, आणि मग जे आपल्या हातात नाही त्यावरची पकड सैल करा. यामुळे लक्ष कमी होत नाही, उलट वाढते, असे अनेकांना जाणवते.\n\nहे नुकसानातही मदत करते. आपल्यातले काहीतरी बदलत्या शरीरापेक्षा खोलवर आहे हे जाणल्याने, अनेक गुरू सांगतात, प्रेम सोडायला न सांगता भीती आणि शोक मऊ होतात. आज एखाद्या लहान प्रकारे हे करून पाहा: एक काम पूर्ण लक्ष देऊन संपवा, आणि ते झाल्यावर निकाल जसा आहे तसा राहू द्या.",
+     "text": "मग श्रीकृष्ण अर्जुनाच्या स्वतःच्या परिस्थितीकडे वळतात. क्षत्रियासाठी धर्मयुक्त युद्धापेक्षा श्रेष्ठ मार्ग नाही, आणि अशी संधी स्वर्गाच्या उघड्या दारासारखी येते (2.31-32)। जर तो मागे हटला, तर लोक त्याला अपकीर्ती म्हणून आठवतील, आणि सन्माननीय माणसासाठी ते मृत्यूपेक्षाही वाईट आहे (2.34)। अनेक शिक्षक हे स्पष्ट करतात की हे युद्धाचे प्रेम नाही, तर अचानक समोर आलेले कर्तव्य पार पाडण्याचे आवाहन आहे।\n\nते त्याला सामोरे जाण्याचा एक व्यावहारिक मार्गही सांगतात. सुख-दुःख, लाभ-हानी, जय-पराजय यांना समान मानून मग कर्मात उतर (2.38)। पापाचे भय मनात जागवून कर्म करू नकोस, कारण संतुलित मन प्रामाणिक कर्माने दूषित होत नाही। कर्तव्य कठीण असू शकते हे श्रीकृष्ण लपवत नाहीत, आणि ते सन्मान द्वेषाच्या बाजूने नव्हे तर धैर्याने कर्म करण्याच्या बाजूने ठेवतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Your right is to the work",
+    "hi": {
+     "text": "तुम्हारा अधिकार कर्म पर है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "तुझा अधिकार कर्मावर आहे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Now comes the most quoted teaching. Until now Krishna has spoken of knowledge; he now speaks of acting with a wise mind. You have a claim only on the doing, never on the fruits; do not let the fruit be your motive, and do not drift into idleness either (2.47). Stand firm in yoga and act, letting go of attachment, equal in success and failure. That evenness, he says, is what yoga means (2.48).\n\nHe also warns against those who speak flowery words about rituals and rewards, craving heaven and pleasure (2.42-44). A mind drawn this way cannot rest on one steady resolve. The wise act with skill, and skill in action, he says, is yoga (2.50). Notice how practical this is. He is not asking us to stop caring, only to stop being owned by the outcome.",
+    "hi": {
+     "text": "अब वह सबसे अधिक उद्धृत उपदेश आता है। अब तक श्रीकृष्ण ज्ञान की बात कर रहे थे; अब वे ज्ञानयुक्त बुद्धि से कर्म करने की बात करते हैं। तुम्हारा अधिकार केवल कर्म पर है, फल पर कभी नहीं; फल को अपना प्रेरक मत बनाओ, और आलस्य में भी मत पड़ो (2.47)। योग में स्थिर रहकर आसक्ति छोड़कर कर्म करो, सफलता और असफलता में समान रहकर। यही समत्व योग कहलाता है (2.48)।\n\nवे उन लोगों से भी सावधान करते हैं जो यज्ञों और फलों के बारे में आडंबरपूर्ण शब्द बोलते हैं, और स्वर्ग तथा सुख की कामना रखते हैं (2.42-44)। ऐसा खिंचा हुआ मन एक दृढ़ निश्चय पर स्थिर नहीं रह सकता। ज्ञानी कुशलता से कर्म करते हैं, और कर्म में कुशलता ही योग है, वे कहते हैं (2.50)। देखिए यह कितना व्यावहारिक है। वे हमसे परवाह करना बंद करने को नहीं कहते, केवल यह कहते हैं कि हम फल के वश में न हों।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता सर्वाधिक उद्धृत केली जाणारी शिकवण येते. आतापर्यंत श्रीकृष्ण ज्ञानाविषयी बोलत होते; आता ते ज्ञानी बुद्धीने कर्म करण्याविषयी बोलतात. तुझा अधिकार केवळ कर्मावर आहे, फळावर कधीच नाही; फळाला आपली प्रेरणा बनवू नकोस, आणि आळसातही पडू नकोस (2.47)। योगात स्थिर राहून, आसक्ती सोडून, यशात आणि अपयशात समान राहून कर्म कर. हीच समता योग म्हणवली जाते (2.48)।\n\nते अशा लोकांविषयीही सावध करतात जे यज्ञ आणि फळांविषयी आडंबरी शब्द बोलतात, आणि स्वर्ग व सुखाची इच्छा बाळगतात (2.42-44)। असे ओढलेले मन एका दृढ निश्चयावर स्थिर राहू शकत नाही। ज्ञानी कुशलतेने कर्म करतात, आणि कर्मातील कुशलताच योग आहे, असे ते म्हणतात (2.50)। हे किती व्यावहारिक आहे ते पाहा. ते आपली काळजी घेणे थांबवायला सांगत नाहीत; फक्त फळाच्या ताब्यात न जाण्यास सांगतात.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Arjuna asks about the steady one",
+    "hi": {
+     "text": "अर्जुन स्थिर बुद्धि वाले के विषय में पूछते हैं",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अर्जुन स्थितप्रज्ञाविषयी विचारतो",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Arjuna now puts a plain question. How can one recognise a person of steady wisdom? How do they speak, sit and walk (2.54)? It is the first of the great questions in the dialogue, and Krishna answers it at length.\n\nSuch a person is content within the self, free of craving and fear. They are not shaken by sorrow nor puffed up by joy (2.55-56). Like a tortoise drawing in its limbs, they can withdraw the senses from their objects when needed (2.58). Krishna is honest about the difficulty: the restless senses can carry away even a wise mind (2.60). Dwelling on objects breeds attachment, attachment breeds desire, desire breeds anger, and anger clouds memory and ruins judgment (2.62-63). These few verses give a map of how a restless mind slides downhill, and therefore how to catch it early.",
+    "hi": {
+     "text": "अब अर्जुन एक सीधा प्रश्न करते हैं। स्थिर प्रज्ञा वाले व्यक्ति को कैसे पहचाना जाए? वह कैसे बोलता है, कैसे बैठता है और कैसे चलता है (2.54)? यह संवाद के महान प्रश्नों में पहला है, और श्रीकृष्ण इसका विस्तार से उत्तर देते हैं।\n\nऐसा व्यक्ति आत्मा में संतुष्ट रहता है, कामना और भय से मुक्त होता है। वह दुःख से विचलित नहीं होता और सुख में फूलता नहीं (2.55-56)। जैसे कछुआ अपने अंग समेट लेता है, वैसे ही वह आवश्यकता पड़ने पर इंद्रियों को विषयों से खींच सकता है (2.58)। श्रीकृष्ण कठिनाई के विषय में ईमानदार हैं: चंचल इंद्रियाँ ज्ञानी मन को भी बहा ले जा सकती हैं (2.60)। विषयों का चिंतन आसक्ति पैदा करता है, आसक्ति कामना को जन्म देती है, कामना से क्रोध उत्पन्न होता है, और क्रोध स्मृति को धुंधला करके विवेक नष्ट कर देता है (2.62-63)। ये कुछ श्लोक दिखाते हैं कि चंचल मन नीचे की ओर कैसे फिसलता है, और इसलिए उसे जल्दी कैसे पकड़ा जाए।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आता अर्जुन एक सरळ प्रश्न विचारतो. स्थिर प्रज्ञा असलेल्या माणसाला कसे ओळखायचे? तो कसा बोलतो, कसा बसतो आणि कसा चालतो (2.54)? संवादातील हा पहिला महान प्रश्न आहे, आणि श्रीकृष्ण त्याचे सविस्तर उत्तर देतात।\n\nअसा माणूस आत्म्यात संतुष्ट असतो, कामना आणि भयापासून मुक्त असतो. तो दुःखाने विचलित होत नाही आणि सुखाने फुगत नाही (2.55-56)। कासव जसे आपले अवयव आत ओढून घेते, तसेच गरज पडल्यास तो इंद्रियांना विषयांपासून मागे खेचू शकतो (2.58)। श्रीकृष्ण अडचणीविषयी प्रामाणिक आहेत: चंचल इंद्रिये ज्ञानी मनालाही वाहून नेऊ शकतात (2.60)। विषयांचे चिंतन आसक्ती निर्माण करते, आसक्ती कामना जन्माला घालते, कामनेतून क्रोध उत्पन्न होतो, आणि क्रोध स्मृती धूसर करून विवेक नष्ट करतो (2.62-63)। हे काही श्लोक दाखवतात की चंचल मन खाली कसे घसरते, आणि म्हणून ते लवकर कसे पकडायचे।",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The ocean that stays full",
+    "hi": {
+     "text": "भरा रहने वाला सागर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "भरलेला राहणारा सागर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Krishna closes with calm and hopeful pictures. A person who moves among the senses with love and hate under control finds peace, and in peace all sorrow fades (2.64-65). The night of ordinary beings is the waking of the wise, and the other way around (2.69). Many read this as a reminder that values look different from deeper ground.\n\nHis final image is the ocean. Rivers pour in from every side, yet the ocean remains full and still. In the same way, the one into whom desires flow without disturbing them finds peace, and not the one who runs after desires (2.70). Letting go of craving and the sense of I and mine, such a person reaches the state of Brahman. Even at the hour of death, Krishna says, one may stand in it (2.71-72).",
+    "hi": {
+     "text": "श्रीकृष्ण शांत और आशावान चित्रों के साथ समाप्त करते हैं। जो व्यक्ति इंद्रियों के बीच रहते हुए राग और द्वेष को वश में रखता है, वह शांति पाता है, और शांति में सारा दुःख मिट जाता है (2.64-65)। साधारण प्राणियों की जो रात है, वही संयमी ज्ञानी के जागने का समय है, और इसके विपरीत भी (2.69)। अनेक लोग इसे याद दिलाने वाला मानते हैं कि गहरी भूमि से देखने पर मूल्य भिन्न दिखते हैं।\n\nउनका अंतिम चित्र सागर का है। चारों ओर से नदियाँ उसमें आकर गिरती हैं, फिर भी सागर भरा और स्थिर रहता है। इसी प्रकार, जिसमें कामनाएँ बिना विक्षोभ पैदा किए प्रवेश करती हैं, उसे शांति मिलती है, न कि उसे जो कामनाओं के पीछे दौड़ता है (2.70)। कामना और 'मैं' तथा 'मेरा' का भाव छोड़कर वह ब्रह्म की स्थिति को प्राप्त होता है। श्रीकृष्ण कहते हैं कि मृत्यु की घड़ी में भी व्यक्ति उसमें स्थित हो सकता है (2.71-72)।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्रीकृष्ण शांत आणि आशादायी चित्रांनी समारोप करतात. जो माणूस इंद्रियांमध्ये वावरताना राग आणि द्वेष वश ठेवतो, तो शांती मिळवतो, आणि शांतीत सर्व दुःख लोप पावते (2.64-65)। सामान्य प्राण्यांची जी रात्र असते, तीच संयमी ज्ञान्याची जागरणाची वेळ असते, आणि उलटही (2.69)। अनेक जण हे आठवण म्हणून वाचतात की खोल भूमीवरून पाहिले तर मूल्ये वेगळी दिसतात।\n\nत्यांची अंतिम प्रतिमा सागराची आहे. चारही बाजूंनी नद्या त्यात वाहून येतात, तरी सागर भरलेला आणि स्थिर राहतो. त्याचप्रमाणे, ज्याच्यात कामना कोणताही क्षोभ न करता प्रवेश करतात, त्यालाच शांती मिळते, कामनांच्या मागे धावणाऱ्याला नव्हे (2.70)। कामना आणि 'मी' व 'माझे' ही भावना सोडून तो ब्रह्मस्थितीला पोहोचतो. मृत्यूच्या क्षणीही माणूस त्या स्थितीत उभा राहू शकतो, असे श्रीकृष्ण सांगतात (2.71-72)।",
      "reviewed": false
     }
    }
@@ -142,18 +214,18 @@
     "reviewed": false
    },
    "mr": {
-    "text": "भगवद्गीता २.४७",
+    "text": "भगवद्गीता 2.47",
     "reviewed": false
    }
   },
   "meaning": {
    "en": "Your claim is on the doing, never on what the doing brings. Do not make rewards your reason for acting, and do not slip into idleness either.",
    "hi": {
-    "text": "तुम्हारा अधिकार केवल कर्म करने पर है, उसके फलों पर कभी नहीं। फल को कर्म का कारण मत बनाओ, और अकर्मण्यता में भी मत फँसो।",
+    "text": "तुम्हारा अधिकार कर्म पर है, उसके फल पर कभी नहीं। फल को कर्म करने का कारण मत बनाओ, और आलस्य में भी मत पड़ो।",
     "reviewed": false
    },
    "mr": {
-    "text": "तुझा अधिकार केवळ कर्मावर आहे, त्याच्या फळावर कधीच नाही. फळाला कर्माचे कारण बनवू नकोस, आणि अकर्मात आसक्तही धरू नकोस.",
+    "text": "तुझा अधिकार कर्मावर आहे, त्याच्या फळावर कधीच नाही. फळाला कर्म करण्याचे कारण बनवू नकोस, आणि आळसातही पडू नकोस.",
     "reviewed": false
    }
   }
@@ -161,22 +233,22 @@
  "reflect": {
   "en": "Where do you tie your peace to a result you cannot control? Today, do one task as well as you can and notice what it feels like to let the outcome go.",
   "hi": {
-   "text": "आप अपनी शांति किस ऐसे परिणाम से बाँध देते हैं जो आपके वश में नहीं? आज एक काम पूरी लगन से कीजिए और परिणाम को जाने देने का अनुभव देखिए।",
+   "text": "आप अपनी शांति किस परिणाम से बाँधते हैं, जिसे आप नियंत्रित नहीं कर सकते? आज एक कार्य अपनी पूरी क्षमता से कीजिए, और देखिए कि फल को छोड़ देने पर कैसा लगता है।",
    "reviewed": false
   },
   "mr": {
-   "text": "तुमची शांतता तुम्ही कोणत्या न आवरता येणाऱ्या निकालाशी बांधली आहे? आज एक काम शक्य तितके चांगले करा आणि निकाल सोडून देणे कसे वाटते ते अनुभवा.",
+   "text": "आपण आपली शांती अशा परिणामाशी कुठे जोडतो जो आपण नियंत्रित करू शकत नाही? आज एक काम आपल्या सर्वोत्तम क्षमतेने करा, आणि फळ सोडून देताना कसे वाटते ते पाहा.",
    "reviewed": false
   }
  },
  "lesson": {
   "en": "Give your best to the work itself and release your grip on the result.",
   "hi": {
-   "text": "अपना सर्वश्रेष्ठ कर्म को दीजिए और परिणाम पर पकड़ छोड़ दीजिए।",
+   "text": "कर्म को अपना सर्वश्रेष्ठ दीजिए, और परिणाम पर से अपनी पकड़ ढीली कर दीजिए।",
    "reviewed": false
   },
   "mr": {
-   "text": "कामाला आपले सर्वोत्तम द्या आणि निकालावरची पकड सोडा.",
+   "text": "कर्मालाच आपले सर्वोत्तम द्या, आणि परिणामावरची पकड सैल करा.",
    "reviewed": false
   }
  },
@@ -187,7 +259,7 @@
    "reviewed": false
   },
   "mr": {
-   "text": "भगवद्गीता, अध्याय २ (महाभारत, भीष्मपर्व); आमच्या शब्दांत सारांश",
+   "text": "भगवद्गीता, अध्याय 2 (महाभारत, भीष्म पर्व); आमच्या स्वतःच्या शब्दांत सारांश",
    "reviewed": false
   }
  }

@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "poor-brahmin-and-the-creeper",
+ "order": 18,
+ "part": "jnana",
+ "figure": {
+  "en": "The Guru and a poor brahmin couple",
+  "hi": {
+   "text": "गुरु और एक दरिद्र ब्राह्मण दंपति",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरू आणि एक गरीब ब्राह्मण दांपत्य",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Creeper at the Door",
+  "hi": {
+   "text": "द्वार पर की बेल",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दारावरील वेल",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "In the Kashi of the south, a hungry couple’s hospitality meets a Guru’s quiet blessing.",
+  "hi": {
+   "text": "दक्षिण के काशी में एक भूखे दंपति का आतिथ्य गुरु के शांत आशीर्वाद से मिलता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दक्षिणेतील काशीत एका भुकेल्या दांपत्याचे आतिथ्य गुरूंच्या शांत आशीर्वादाशी भेटते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-monsoon.webp",
+   "w": 1200,
+   "h": 750,
+   "caption": {
+    "en": "Monsoon clouds over the farms",
+    "hi": {
+     "text": "खेतों के ऊपर मानसून के बादल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शेतांवरील पावसाळी ढग",
+     "reviewed": false
+    }
+   },
+   "credit": "Abhi, CC BY-SA 3.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Monsoon_clouds_over_farms.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Amarapur, the Kashi of the South",
+    "hi": {
+     "text": "अमरापुर, दक्षिण की काशी",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अमरापूर, दक्षिणेची काशी",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru came from Bhilavadi to Amarapur, at the Panchaganga, or Varuna, sangam. He stayed there twelve years. Five rivers are named at the place: Shiva, Bhadra, Bhogavati, Kumbhi and Saraswati. The town is called the Kashi of the south, and it holds the temple of Amareshwar, an audumbar tree said to grant every wish, and sixty-four yoginis.\n\nThe Siddha described it with delight, as a place of great beauty and quiet power. For twelve years the Guru lived here, making it his home, and the town slowly became a hidden centre of pilgrimage without ever being told why. Namdharak, listening under his ashvattha tree, could almost smell the river and hear the temple bells of Amarapur. The twelve years were a long gift, and the Siddha seemed to savour them as a man savours a long-remembered summer.",
+    "hi": {
+     "text": "गुरु भिलवडी से अमरापुर आए, जो पंचगंगा, या वरुणा, के संगम पर है। वे वहाँ बारह वर्ष रहे। इस स्थान पर पाँच नदियों का उल्लेख है: शिवा, भद्रा, भोगवती, कुंभी और सरस्वती। यह नगर दक्षिण की काशी कहलाता है, और यहाँ अमरेश्वर का मंदिर है, एक औदुंबर वृक्ष जो हर इच्छा पूरी करने वाला माना जाता है, और चौंसठ योगिनियाँ हैं।\n\nसिद्ध ने इसका वर्णन आनंद के साथ किया, जैसे यह अत्यंत सुंदर और शांत शक्ति का स्थान हो। बारह वर्ष गुरु यहाँ रहे, इसे अपना घर बनाकर, और यह नगर बिना बताए ही धीरे-धीरे एक गुप्त तीर्थ-केंद्र बन गया। वृक्ष के नीचे बैठे नामधारक सुनते-सुनते लगभग नदी की गंध और अमरापुर के मंदिर की घंटियाँ सुन पा रहे थे। बारह वर्ष एक लंबा उपहार थे, और सिद्ध उन्हें ऐसे स्वाद लेकर बता रहे थे जैसे कोई बहुत पहले बीती लंबी गर्मी का स्मरण करता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू भिलवडीहून अमरापूरला आले, जे पंचगंगा किंवा वरुणा संगमावर आहे. ते तिथे बारा वर्षे राहिले. या ठिकाणी पाच नद्यांचा उल्लेख आहे: शिवा, भद्रा, भोगवती, कुंभी आणि सरस्वती. या नगराला दक्षिणेची काशी म्हटले जाते, आणि इथे अमरेश्वराचे मंदिर आहे, एक औदुंबर वृक्ष जो प्रत्येक इच्छा पूर्ण करतो असे मानले जाते, आणि चौसष्ट योगिनी आहेत.\n\nसिद्धांनी त्याचे वर्णन आनंदाने केले, मोठ्या सौंदर्याचे आणि शांत सामर्थ्याचे स्थान म्हणून. बारा वर्षे गुरू इथे राहिले, हे आपले घर बनवून, आणि हे नगर कोणालाही न सांगता हळूहळू एक गुप्त तीर्थकेंद्र बनले. झाडाखाली बसलेल्या नामधारकांना ऐकताना जवळजवळ नदीचा गंध आणि अमरापूरच्या मंदिराच्या घंटा ऐकू येत होत्या. बारा वर्षे हे एक दीर्घ दान होते, आणि सिद्ध ती खूप आवडीने सांगत होते, जसा माणूस एखाद्या दीर्घ आठवणीतल्या उन्हाळ्याची चव घेतो.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Begging at the Door",
+    "hi": {
+     "text": "द्वार पर भिक्षा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दारावर भिक्षा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "While at Amarapur, the Guru went out to beg alms, as a sannyasi does. In the town lived a Vedic brahmin with a devout wife. They were so poor that they survived on the boiled seeds or beans of a creeper that grew at their door. It was nothing, and they ate it without complaint, saving whatever dignity they had.\n\nThe Guru came to their door and asked for food. The couple, who had so little, did not hesitate. They welcomed him and gave what they had. The gift of the poor, offered without calculation, is the one the text honours most. Namdharak thought of his own table and of how many times he had treated a guest as an inconvenience. The Guru, as a sannyasi, took only a little from each house..",
+    "hi": {
+     "text": "अमरापुर में रहते हुए गुरु एक संन्यासी की भाँति भिक्षा माँगने निकले। नगर में एक वैदिक ब्राह्मण अपनी धर्मपरायण पत्नी के साथ रहते थे। वे इतने दरिद्र थे कि उनके द्वार पर उगी एक बेल की उबली हुई फलियों पर जीते थे। वह कुछ नहीं था, फिर भी वे बिना शिकायत उसे खाते थे और अपनी जो भी गरिमा बची थी, उसे सँभाले रहते थे।\n\nगुरु उनके द्वार पर आए और भोजन माँगा। वह दंपति, जिनके पास इतना कम था, बिना हिचक के उनका स्वागत किया और जो था वह दिया। दरिद्र का दान, बिना हिसाब के दिया गया, वही है जिसे ग्रंथ सबसे अधिक सम्मान देता है। नामधारक ने अपनी थाली और उन अनेक अवसरों के बारे में सोचा जब उन्होंने किसी अतिथि को कष्ट समझा था। गुरु, संन्यासी के रूप में, हर घर से थोड़ा-सा ही लेते थे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "अमरापूरमध्ये असताना गुरू संन्याशाप्रमाणे भिक्षा मागायला बाहेर पडले. गावात एक वैदिक ब्राह्मण आपल्या धार्मिक पत्नीसोबत राहत होता. ते इतके गरीब होते की त्यांच्या दारात उगवलेल्या एका वेलीच्या उकडलेल्या बिया किंवा शेंगांवर जगत होते. ती काही नव्हती, तरीही ते तक्रार न करता खात होते, आणि त्यांच्याकडे जी थोडी प्रतिष्ठा होती ती सांभाळून ठेवत होते.\n\nगुरू त्यांच्या दारी आले आणि अन्न मागितले. ज्यांच्याकडे इतके कमी होते, ते दांपत्य क्षणभरही न थांबता त्यांचे स्वागत केले आणि जे होते ते दिले. गरिबाचे दान, हिशेबाशिवाय दिलेले, हेच ग्रंथ सर्वाधिक सन्मानित करते. नामधारकांनी आपल्या स्वतःच्या ताटाचा आणि अतिथीला ओझे मानल्याच्या अनेक प्रसंगांचा विचार केला. गुरू, संन्यासी म्हणून, प्रत्येक घरातून थोडेच घेत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Promise and an Uprooting",
+    "hi": {
+     "text": "वचन और बेल उखाड़ना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "वचन आणि वेल उपटणे",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru ate and was satisfied. He told them that their poverty would end. Then, as he left, he asked that the root of the creeper be cut out and uprooted. The wife was stricken, for the creeper was their only food, and she lamented that they would now starve with nothing left at their door.\n\nHer husband told her to trust. It is a lovely moment of marital faith: he did not know why the Guru had said it, but he trusted the one who had blessed them. Many of us, in difficult times, are asked to give up the one small thing that has kept us alive and to trust that the reason will be shown later. The two of them went to the creeper and began to dig out its root.",
+    "hi": {
+     "text": "गुरु ने भोजन किया और संतुष्ट हुए। उन्होंने उनसे कहा कि उनकी दरिद्रता समाप्त होगी। फिर जाते समय उन्होंने कहा कि बेल की जड़ काटकर उखाड़ दी जाए। पत्नी स्तब्ध रह गई, क्योंकि वह बेल ही उनका एकमात्र भोजन थी, और उसने विलाप किया कि अब द्वार पर कुछ न बचने पर वे भूखे मर जाएँगे।\n\nउसके पति ने उससे विश्वास रखने को कहा। यह दांपत्य विश्वास का सुंदर क्षण है: वह नहीं जानता था कि गुरु ने ऐसा क्यों कहा, पर वह उस पर भरोसा करता था जिसने उन्हें आशीर्वाद दिया था। कठिन समय में हममें से कई लोगों से वह एक छोटी-सी चीज़ छोड़ने को कहा जाता है जिसने हमें जीवित रखा है, और यह भरोसा करने को कि कारण बाद में दिखेगा। दोनों बेल के पास गए और उसकी जड़ खोदने लगे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंनी जेवण केले आणि तृप्त झाले. त्यांनी त्यांना सांगितले की त्यांची दरिद्रता संपेल. मग जाताना त्यांनी सांगितले की वेलीचे मूळ तोडून उपटून टाका. पत्नी स्तब्ध झाली, कारण तीच वेल त्यांचे एकमेव अन्न होते, आणि दारावर काहीच न राहिल्यावर ते उपाशी मरतील असे म्हणत तिने विलाप केला.\n\nतिच्या पतीने तिला विश्वास ठेवायला सांगितले. हा दांपत्य-श्रद्धेचा सुंदर क्षण आहे: गुरूंनी असे का सांगितले ते त्याला ठाऊक नव्हते, पण ज्याने त्यांना आशीर्वाद दिला होता त्याच्यावर तो विश्वास ठेवत होता. कठीण काळात आपल्यापैकी अनेकांना, जे आपल्याला जिवंत ठेवत आले आहे ती एक छोटी गोष्ट सोडायला सांगितले जाते, आणि कारण नंतर दिसेल असा विश्वास ठेवायला सांगितले जाते. दोघे वेलीजवळ गेले आणि तिचे मूळ खणू लागले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "The Vessel of Coins",
+    "hi": {
+     "text": "सिक्कों का घड़ा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "नाण्यांचा घडा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "While digging out the root they found a vessel full of coins. In a flash they understood, and they went at once to thank the Guru. He told them to keep it secret, or Lakshmi, the goddess of wealth, would leave them. He blessed them, saying that Lakshmi would stay in their family for generations.\n\nThe tale carries a quiet warning inside the blessing. Wealth, it says, does not stay where it is displayed and boasted of; it lingers where there is modesty and gratitude. The couple, who had known hunger, had learned how fragile their old life was, and the story invites us to imagine them holding the gift lightly. They went at once to thank the Guru who had told them to trust. He told them to keep the find secret, or Lakshmi would leave, and he blessed them that she would stay in their family for generations.",
+    "hi": {
+     "text": "जड़ खोदते समय उन्हें सिक्कों से भरा एक घड़ा मिला। क्षण भर में वे समझ गए, और तुरंत गुरु को धन्यवाद देने गए। उन्होंने कहा कि इसे गुप्त रखें, नहीं तो धन की देवी लक्ष्मी उन्हें छोड़ देंगी। उन्होंने आशीर्वाद दिया कि लक्ष्मी पीढ़ियों तक उनके परिवार में रहेंगी।\n\nआशीर्वाद के भीतर कथा एक शांत चेतावनी भी छिपाती है। धन, वह कहती है, वहाँ नहीं ठहरता जहाँ उसका प्रदर्शन और गर्व हो; वह वहीं टिकता है जहाँ विनम्रता और कृतज्ञता हों। वह दंपति, जिसने भूख देखी थी, जानता था कि उनका पुराना जीवन कितना नाज़ुक था, और कथा हमें कल्पना करने को कहती है कि वे उस उपहार को हल्के से थामे हुए हैं। वे उस गुरु को धन्यवाद देने तुरंत गए जिन्होंने उन्हें विश्वास रखने को कहा था। उन्होंने कहा कि इस प्राप्ति को गुप्त रखें, नहीं तो लक्ष्मी चली जाएँगी, और आशीर्वाद दिया कि वे पीढ़ियों तक उनके परिवार में रहेंगी।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मूळ खणताना त्यांना नाण्यांनी भरलेला एक घडा सापडला. क्षणात ते समजले, आणि तडक गुरूंचे आभार मानायला गेले. त्यांनी सांगितले की हे गुप्त ठेवा, नाहीतर धनलक्ष्मी त्यांना सोडून जाईल. त्यांनी आशीर्वाद दिला की लक्ष्मी पिढ्यानपिढ्या त्यांच्या कुटुंबात राहील.\n\nआशीर्वादाच्या आत कथा एक शांत इशाराही दडवते. संपत्ती, ती सांगते, जिथे तिचे प्रदर्शन आणि बढाई होते तिथे टिकत नाही; ती जिथे नम्रता आणि कृतज्ञता असते तिथे राहते. भूक अनुभवलेले ते दांपत्य आपले जुने जीवन किती नाजूक होते हे जाणून होते, आणि कथा आपल्याला कल्पना करायला सांगते की ते ती देणगी हलक्या हाताने धरून आहेत. ज्या गुरूंनी त्यांना विश्वास ठेवायला सांगितले होते, त्यांचे आभार मानायला ते लगेच गेले. त्यांनी सांगितले की हा शोध गुप्त ठेवा, नाहीतर लक्ष्मी निघून जाईल, आणि त्यांनी आशीर्वाद दिला की ती पिढ्यानपिढ्या त्यांच्या कुटुंबात राहील.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "What the Story Teaches",
+    "hi": {
+     "text": "कथा क्या सिखाती है",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कथा काय शिकवते",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Siddha ended by saying that the grace of the Guru removes poverty and sin alike. He did not promise that every devotee would find coins under a creeper; the story is told as a sign of how the Guru cares for those who feed him without thought of return. The Guru, meanwhile, went on living in Amarapur, begging his alms and sitting under the audumbar tree.\n\nNamdharak, who had left his own home with troubles that were partly about money, listened closely. He understood that he was being told to trust more than to grasp. The Guru, he thought, does not forget a bowl of simple food, and the Siddha, seeing his face, nodded: the next tales would show the audumbar tree itself. Amarapur, with its five rivers, kept its Guru for twelve years, and the town never again forgot him.",
+    "hi": {
+     "text": "सिद्ध ने यह कहकर समाप्त किया कि गुरु की कृपा दरिद्रता और पाप, दोनों को हर लेती है। उन्होंने यह वचन नहीं दिया कि हर भक्त को बेल के नीचे सिक्के मिलेंगे; यह कथा इस बात का संकेत है कि गुरु उन पर कैसे कृपा करते हैं जो बिना किसी प्रतिफल के विचार के उन्हें भोजन कराते हैं। इस बीच गुरु अमरापुर में रहते रहे, भिक्षा माँगते और औदुंबर वृक्ष के नीचे बैठते।\n\nनामधारक, जो अपने घर से ऐसी चिंताएँ लेकर निकले थे जो कुछ हद तक धन से जुड़ी थीं, ध्यान से सुनते रहे। वे समझ गए कि उन्हें पकड़ने से अधिक भरोसा करने को कहा जा रहा है। गुरु, उन्होंने सोचा, साधारण भोजन की एक थाली को भी नहीं भूलते, और सिद्ध ने उनका चेहरा देखकर सिर हिलाया: आगे की कथाएँ स्वयं औदुंबर वृक्ष को दिखाएँगी। पाँच नदियों वाला अमरापुर बारह वर्ष अपने गुरु को धारण किए रहा, और वह नगर उन्हें फिर कभी नहीं भूला।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सिद्धांनी समारोप करताना सांगितले की गुरूंची कृपा दारिद्र्य आणि पाप दोन्ही हरते. त्यांनी हमी दिली नाही की प्रत्येक भक्ताला वेलीखाली नाणी सापडतील; ही कथा अशा संकेताच्या रूपात सांगितली आहे की गुरू अशा लोकांची कशी काळजी घेतात जे बिनाअपेक्षेच्या विचाराने त्यांना अन्न देतात. या दरम्यान गुरू अमरापूरमध्ये राहत राहिले, भिक्षा मागत आणि औदुंबर वृक्षाखाली बसत.\n\nनामधारक, जे घरून निघाले होते तेव्हा काही प्रमाणात पैशाशी संबंधित चिंता घेऊन, काळजीपूर्वक ऐकत होते. त्यांना समजले की त्यांना धरून ठेवण्यापेक्षा अधिक विश्वास ठेवण्यास सांगितले जात आहे. गुरू, त्यांना वाटले, साध्या अन्नाची थाळीही विसरत नाहीत. सिद्धांनी त्यांचा चेहरा पाहून मान हलवली: पुढच्या कथा स्वतः औदुंबर वृक्ष दाखवतील. पाच नद्यांचे अमरापूर बारा वर्षे आपल्या गुरूंना धारण करत राहिले, आणि ते नगर त्यांना पुन्हा कधीही विसरले नाही.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "What small thing could you give today, with no thought of return? Do it quietly and tell no one.",
+  "hi": {
+   "text": "आज आप बिना किसी प्रतिफल की आशा के कौन-सी छोटी चीज़ दे सकते हैं? उसे चुपचाप कीजिए और किसी से मत कहिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "आज कोणती छोटी गोष्ट, कोणत्याही परताव्याच्या अपेक्षेशिवाय, तुम्ही देऊ शकता? ती शांतपणे करा आणि कोणालाही सांगू नका.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Generosity from little is the gift the Guru honours most, and wealth that stays is held with modesty.",
+  "hi": {
+   "text": "थोड़े में से दी गई उदारता वह उपहार है जिसे गुरु सबसे अधिक सम्मान देते हैं, और टिकने वाला धन विनम्रता से सँभाला जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "थोड्यातून दिलेली उदारता ही गुरू सर्वाधिक सन्मानित करतात अशी देणगी आहे, आणि टिकणारे धन नम्रतेने जपले जाते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 18; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 18; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 18; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

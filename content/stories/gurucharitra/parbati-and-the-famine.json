@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "parbati-and-the-famine",
+ "order": 47,
+ "part": "bhakti",
+ "figure": {
+  "en": "Narasimha Saraswati and the farmer Parbati",
+  "hi": {
+   "text": "नृसिंह सरस्वती और किसान पार्वती",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती आणि शेतकरी पार्वती",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Crop Cut Before Noon",
+  "hi": {
+   "text": "दोपहर से पहले कटी फसल",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "दुपारपूर्वी कापलेले पीक",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "A farmer on the Guru's daily route is told to reap his crop early, and his family doubts him.",
+  "hi": {
+   "text": "गुरु के दैनिक मार्ग पर एक किसान से कहा जाता है कि वह अपनी फसल जल्दी काट ले, और उसका परिवार उस पर संदेह करता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरूंच्या दैनंदिन मार्गावरील एका शेतकऱ्याला पीक लवकर कापायला सांगितले जाते, आणि त्याचे कुटुंब त्याच्यावर संशय घेते.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-paddy.webp",
+   "w": 1200,
+   "h": 675,
+   "caption": {
+    "en": "Paddy fields in Karnataka",
+    "hi": {
+     "text": "कर्नाटक में धान के खेत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "कर्नाटकातील भाताची शेती",
+     "reviewed": false
+    }
+   },
+   "credit": "Pramodv1993, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Paddy_field_in_Karnataka,_India_2014.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "A Field on the Guru's Road",
+    "hi": {
+     "text": "गुरु के मार्ग पर एक खेत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरूंच्या वाटेवरील शेत",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Parbati was a farmer of Ganagapur whose field lay along the path the Guru walked to the sangam each day. He was a pious man, and each time the Guru passed he bowed. It was a small ritual, repeated without fuss, in the morning light, beside rows of ripening jowar.\n\nOne day the Guru stopped and asked him what he wished for. Parbati did not answer with any long request. The Guru then told him to reap his jowar crop before midday. It was an odd instruction, and Parbati did not know its reason. The Guru walked past that field every day on his way to the sangam, and Parbati was there to bow. He was a pious farmer of Ganagapur, and his bow was a small ritual repeated without fuss, in the morning light, beside rows of ripening jowar.",
+    "hi": {
+     "text": "पार्वती गाणगापुर के एक किसान थे, जिनका खेत उस मार्ग के किनारे था जिस पर गुरु हर दिन संगम की ओर चलते थे। वे धर्मनिष्ठ व्यक्ति थे, और जब भी गुरु वहाँ से गुज़रते, वे झुककर प्रणाम करते। यह एक छोटा-सा नियम था, जो बिना किसी आडंबर के दोहराया जाता था, सुबह के प्रकाश में, पकती हुई ज्वार की पंक्तियों के बीच।\n\nएक दिन गुरु रुके और उनसे पूछा कि वे क्या चाहते हैं। पार्वती ने कोई लंबी माँग नहीं रखी। तब गुरु ने उनसे कहा कि अपनी ज्वार की फसल दोपहर से पहले काट लो। यह एक विचित्र आदेश था, और पार्वती को उसका कारण नहीं पता था। गुरु हर दिन संगम जाते समय उस खेत के पास से गुज़रते थे, और पार्वती झुककर प्रणाम करने वहाँ होते थे। वे गाणगापुर के एक धर्मनिष्ठ किसान थे, और उनका प्रणाम सुबह के प्रकाश में, पकती ज्वार की पंक्तियों के बीच, बिना आडंबर के दोहराया जाने वाला एक छोटा-सा नियम था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पार्वती गाणगापूरचे एक शेतकरी होते, ज्यांचे शेत गुरू दररोज संगमाकडे चालत जात त्या वाटेवर होते. ते धार्मिक माणूस होते, आणि गुरू जाताना प्रत्येक वेळी ते नमस्कार करत. सकाळच्या प्रकाशात, पिकणाऱ्या ज्वारीच्या ओळींजवळ, बिनआडंबर पुनरावृत्त होणारी ही एक लहानशी प्रथा होती.\n\nएके दिवशी गुरू थांबले आणि त्यांना काय हवे आहे ते विचारले. पार्वतींनी कोणतीही लांब मागणी केली नाही. तेव्हा गुरूंनी त्यांना सांगितले की ज्वारीचे पीक दुपारपूर्वी कापा. हा एक विचित्र आदेश होता, आणि पार्वतींना त्याचे कारण माहीत नव्हते. गुरू रोज संगमावर जाताना त्या शेताजवळून जात, आणि पार्वती त्यांना नमस्कार करण्यासाठी तिथे असत. ते गाणगापूरचे धार्मिक शेतकरी होते, आणि त्यांचा नमस्कार सकाळच्या प्रकाशात, पिकणाऱ्या ज्वारीच्या ओळींजवळ, आडंबराशिवाय केली जाणारी एक लहानशी प्रथा होती.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Double Rent",
+    "hi": {
+     "text": "दोगुना लगान",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "दुप्पट खंड",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "To reap the crop he needed the permission of the revenue officer, since the field was held under the town's arrangement. Parbati went to the officer and offered to pay double rent for the right. The officer agreed.\n\nAt home the matter was less simple. Parbati's wife and children objected. They feared that a sensible farmer did not act in haste on an unexplained word. The extra rent was a plain gamble on a word he did not understand, and Parbati was neither bold nor reckless, but simply certain that he knew whom he was trusting. To reap the crop he needed the permission of the revenue officer, and he offered to pay double rent to be allowed to cut early. His wife and children objected, and the household was uneasy.",
+    "hi": {
+     "text": "फसल काटने के लिए उन्हें राजस्व अधिकारी की अनुमति चाहिए थी, क्योंकि वह खेत नगर की व्यवस्था के अंतर्गत था। पार्वती अधिकारी के पास गए और उस अधिकार के बदले दोगुना लगान देने का प्रस्ताव रखा। अधिकारी मान गए।\n\nघर पर बात इतनी सरल नहीं थी। पार्वती की पत्नी और बच्चों ने आपत्ति की। उन्हें डर था कि समझदार किसान बिना समझाए गए एक शब्द पर जल्दबाज़ी नहीं करता। अतिरिक्त लगान एक ऐसे शब्द पर सीधा दाँव था जिसे वे समझते नहीं थे, और पार्वती न दुस्साहसी थे न लापरवाह, बस इस बात पर निश्चित थे कि वे किस पर भरोसा कर रहे हैं। फसल काटने के लिए उन्हें राजस्व अधिकारी की अनुमति चाहिए थी, और उन्होंने जल्दी काटने की अनुमति के लिए दोगुना लगान देने का प्रस्ताव रखा। उनकी पत्नी और बच्चों ने आपत्ति की, और घर में बेचैनी फैल गई।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पीक कापण्यासाठी त्यांना महसूल अधिकाऱ्याची परवानगी हवी होती, कारण ते शेत नगराच्या व्यवस्थेखाली होते. पार्वती अधिकाऱ्याकडे गेले आणि त्या हक्कासाठी दुप्पट खंड देऊ केला. अधिकाऱ्याने मान्य केले.\n\nघरी मात्र ही गोष्ट इतकी सोपी नव्हती. पार्वतींची पत्नी आणि मुले आक्षेप घेत होती. शहाण्या शेतकऱ्याने न समजवलेल्या शब्दावर घाईने पाऊल टाकू नये असे त्यांना वाटत होते. जास्तीचा खंड हा त्यांना न समजणाऱ्या शब्दावर साधा जुगार होता, आणि पार्वती धाडसीही नव्हते आणि बेपर्वाही नव्हते, फक्त ज्याच्यावर विश्वास ठेवत आहेत त्याबद्दल निश्चित होते. पीक कापण्यासाठी त्यांना महसूल अधिकाऱ्याची परवानगी हवी होती, आणि त्यांनी लवकर कापण्यासाठी दुप्पट खंड देऊ केला. पत्नी आणि मुलांनी आक्षेप घेतला, आणि घरात अस्वस्थता पसरली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Wife Complains",
+    "hi": {
+     "text": "एक पत्नी की शिकायत",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पत्नीची तक्रार",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The wife went so far as to complain to the officer herself. She was afraid for the family's livelihood, and her fear was a fair one. She did not mean any disrespect to the Guru, but she had mouths to feed, and nothing in the Guru's word looked like a promise to her.\n\nParbati listened to them and stood firm. He told them he had the Guru's word, and that was enough. He cut the crop that morning, before noon, and brought it in. It must have been a hard day in that house, with the family frightened and Parbati calm. His wife's anger can be read as love, and her complaint to the officer as her way of saying that she was afraid. The Gurucharitra does not hold it against her.",
+    "hi": {
+     "text": "पत्नी ने स्वयं अधिकारी से शिकायत करने तक का साहस किया। वह परिवार की जीविका के लिए डरी हुई थी, और उसका भय उचित था। उसका गुरु के प्रति कोई अनादर नहीं था, पर उसके पास पेट भरने को मुँह थे, और गुरु के वचन में उसे कोई ऐसा वचन नहीं दिखा जिस पर वह भरोसा करती।\n\nपार्वती ने उनकी बात सुनी और दृढ़ रहे। उन्होंने कहा कि उनके पास गुरु का वचन है, और वह पर्याप्त है। उन्होंने उस सुबह दोपहर से पहले फसल काटी और उसे घर ले आए। उस घर के लिए वह कठिन दिन रहा होगा, परिवार भयभीत और पार्वती शांत। पत्नी का क्रोध प्रेम के रूप में पढ़ा जा सकता है, और अधिकारी से उसकी शिकायत उसके भय की अभिव्यक्ति थी। श्री गुरुचरित्र उसे इसके लिए दोष नहीं देता।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "पत्नीने स्वतः अधिकाऱ्याकडे तक्रार करण्याचेही धाडस केले. कुटुंबाच्या उपजीविकेविषयी ती घाबरली होती, आणि तिची भीती योग्य होती. तिचा गुरूंविषयी अनादर नव्हता, पण तिच्या पदरी पोट भरण्याची जबाबदारी होती, आणि गुरूंच्या शब्दात तिला असे काहीही दिसले नाही जे आश्वासनासारखे वाटेल.\n\nपार्वतींनी त्यांचे ऐकले आणि ठाम राहिले. त्यांनी सांगितले की त्यांच्याकडे गुरूंचा शब्द आहे, आणि तो पुरेसा आहे. त्यांनी त्या सकाळी दुपारपूर्वी पीक कापले आणि घरी आणले. त्या घरासाठी तो कठीण दिवस असेल, कुटुंब घाबरलेले आणि पार्वती शांत. पत्नीचा राग प्रेमाच्या रूपात वाचता येतो, आणि अधिकाऱ्याकडे तिची तक्रार तिची भीती व्यक्त करण्याचा तिचा मार्ग होता. श्री गुरुचरित्र तिला त्यासाठी दोष देत नाही.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Reaped in Vain",
+    "hi": {
+     "text": "व्यर्थ काटी गई फसल",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "व्यर्थ कापलेले पीक",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "When the Guru passed by again, he looked at the cut field and told Parbati that he had reaped in vain. Parbati did not argue. He said only that he trusted the Guru. It was an answer that asked for nothing.\n\nThe Guru said nothing more, and walked on. The Guru said nothing more, and walked on. The Gurucharitra does not hide that it was a trial, with no outward sign of reward. Parbati simply went back to his work, keeping to his trust as a man keeps hold of a rope. There was no explanation. The Guru did not say what he meant, and Parbati did not ask. That evening he sat on the edge of his doorstep and watched the light fade over the field, wondering what the word 'vain' might finally mean.",
+    "hi": {
+     "text": "जब गुरु फिर वहाँ से गुज़रे, तो उन्होंने कटे हुए खेत को देखा और पार्वती से कहा कि उन्होंने व्यर्थ काटा। पार्वती ने विवाद नहीं किया। उन्होंने केवल इतना कहा कि वे गुरु पर भरोसा करते हैं। वह ऐसा उत्तर था जो कुछ नहीं माँगता था।\n\nगुरु ने और कुछ नहीं कहा, और आगे चल दिए। गुरु ने और कुछ नहीं कहा, और आगे चल दिए। श्री गुरुचरित्र यह नहीं छिपाता कि यह एक परीक्षा थी, जिसमें पुरस्कार का कोई बाहरी संकेत नहीं था। पार्वती अपने काम पर लौट गए, अपने विश्वास को उसी प्रकार थामे रहे जैसे कोई व्यक्ति रस्सी थामता है। कोई स्पष्टीकरण नहीं था। गुरु ने यह नहीं बताया कि उनका अभिप्राय क्या था, और पार्वती ने पूछा नहीं। उस संध्या वे अपने द्वार की देहरी पर बैठे रहे, खेत पर उतरते प्रकाश को देखते हुए, यह सोचते हुए कि 'व्यर्थ' शब्द का अंततः क्या अर्थ हो सकता है।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू पुन्हा तिथून जात असताना त्यांनी कापलेले शेत पाहिले, आणि पार्वतींना सांगितले की त्यांनी व्यर्थ कापले. पार्वतींनी वाद घातला नाही. त्यांनी फक्त इतकेच सांगितले की ते गुरूंवर विश्वास ठेवतात. ते असे उत्तर होते जे काहीही मागत नव्हते.\n\nगुरू आणखी काहीही न बोलता पुढे गेले. गुरू आणखी काहीही न बोलता पुढे गेले. श्री गुरुचरित्र लपवत नाही की ही एक परीक्षा होती, ज्यात बक्षिसाचे कोणतेही बाह्य चिन्ह नव्हते. पार्वती आपल्या कामाकडे परत गेले, आपला विश्वास दोरी धरणाऱ्या माणसासारखा धरून. कोणताही खुलासा नव्हता. गुरूंनी आपला अर्थ सांगितला नाही, आणि पार्वतींनी विचारले नाही. त्या संध्याकाळी ते आपल्या दारच्या उंबऱ्यावर बसून शेतावर उतरणाऱ्या प्रकाशाकडे पाहत राहिले, 'व्यर्थ' या शब्दाचा शेवटी काय अर्थ असू शकतो याचा विचार करत.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Hundredfold",
+    "hi": {
+     "text": "सौ गुना",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "शंभरपट",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Then a severe drought came to the region. Fields dried and crops failed across the countryside. But Parbati's field, which had been cut early and left alone, gave a hundredfold. His family, who had doubted him, repented.\n\nThe Siddha tells it without fuss. The lesson of the story lies in the days between the word and its fulfilment, when trust has nothing to lean on but itself. The family's repentance, the Gurucharitra suggests, was as real as their earlier fear, and the Guru's word had been proved in the harshest season of the year. The hundredfold yield was the answer to the word that had seemed to mean loss. A severe drought had struck the region and crops failed across the countryside, yet Parbati’s field, cut early on the Guru’s word, gave a hundredfold. His family, who had doubted him, repented, and the story leaves them with the lesson that fear and trust can live in the same house.",
+    "hi": {
+     "text": "फिर इस क्षेत्र में भयंकर सूखा पड़ा। खेत सूख गए, और पूरे देहात में फसलें नष्ट हो गईं। पर पार्वती का खेत, जो जल्दी काटकर छोड़ दिया गया था, सौ गुना उपजा। उनका परिवार, जिसने उन पर संदेह किया था, पश्चाताप से भर गया।\n\nसिद्ध इसे बिना अधिक आडंबर के कहते हैं। कथा की शिक्षा उस अवधि में है जो वचन और उसकी पूर्ति के बीच के दिनों में होती है, जब विश्वास के पास अपने अतिरिक्त कुछ भी टिकने को नहीं होता। श्री गुरुचरित्र संकेत देता है कि परिवार का पश्चाताप उतना ही सच्चा था जितना उनका पहले का भय, और गुरु का वचन वर्ष की सबसे कठोर ऋतु में सिद्ध हुआ। सौ गुना उपज उस वचन का उत्तर थी जो हानि जैसा लगा था। क्षेत्र में भयंकर सूखा पड़ा और पूरे देहात में फसलें नष्ट हुईं, फिर भी पार्वती का खेत, जो गुरु के वचन पर जल्दी काटा गया था, सौ गुना फला। उनके परिवार ने, जिसने उन पर संदेह किया था, पश्चाताप किया, और कथा उन्हें इस शिक्षा के साथ छोड़ती है कि भय और विश्वास एक ही घर में रह सकते हैं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मग या प्रदेशात भयंकर दुष्काळ आला. शेते सुकली, आणि सगळीकडे पिके नष्ट झाली. पण पार्वतींचे शेत, जे लवकर कापून सोडले होते, ते शंभरपट उपजले. त्यांच्या कुटुंबाने, ज्याने त्यांच्यावर संशय घेतला होता, पश्चात्ताप केला.\n\nसिद्ध हे कोणताही गाजावाजा न करता सांगतात. कथेचा धडा शब्द आणि त्याच्या पूर्ततेमधील दिवसांत आहे, जेव्हा विश्वासाला स्वतःशिवाय टेकायला काहीच नसते. कुटुंबाचा पश्चात्ताप, श्री गुरुचरित्र सुचवते, त्यांच्या आधीच्या भीतीइतकाच खरा होता, आणि गुरूंचा शब्द वर्षातील सर्वात कठोर ऋतूत सिद्ध झाला. शंभरपट उत्पन्न हे त्या शब्दाचे उत्तर होते ज्याने हानी वाटली होती. प्रदेशात भयंकर दुष्काळ पडला आणि सर्वत्र पिके नष्ट झाली, तरीही पार्वतींचे शेत, जे गुरूंच्या शब्दावर लवकर कापले गेले होते, ते शंभरपट फळले. त्यांच्या कुटुंबाने, ज्याने त्यांच्यावर संशय घेतला होता, पश्चात्ताप केला, आणि कथा त्यांना या शिकवणीसह सोडते की भीती आणि विश्वास एकाच घरात राहू शकतात.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Where are you being asked to trust something you cannot yet see? Take one small step in that direction.",
+  "hi": {
+   "text": "आपसे किस ऐसी वस्तु पर भरोसा करने को कहा जा रहा है जिसे आप अभी देख नहीं पा रहे? उस दिशा में एक छोटा कदम उठाइए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणत्या गोष्टीवर विश्वास ठेवण्यास तुम्हाला सांगितले जात आहे जी तुम्ही अजून पाहू शकत नाही? त्या दिशेने एक छोटे पाऊल टाका.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "Trust shown before any sign of reward is the kind the Guru honours, and even a family's fear is held with gentleness.",
+  "hi": {
+   "text": "पुरस्कार के किसी संकेत से पहले दिखाया गया विश्वास ही वह है जिसे गुरु सम्मान देते हैं, और परिवार का भय भी कोमलता से थामा जाता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "कोणत्याही बक्षिसाच्या चिन्हाआधी दाखवलेला विश्वास हाच असा आहे जो गुरू सन्मानित करतात, आणि कुटुंबाच्या भीतीलाही सौम्यपणे धरले जाते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 47; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 47; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 47; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}

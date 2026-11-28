@@ -1,0 +1,217 @@
+{
+ "$schema": "pranadin-content/1.0",
+ "namespace": "story",
+ "version": "2026-11-28.1",
+ "status": "draft",
+ "id": "colic-cured",
+ "order": 13,
+ "part": "jnana",
+ "figure": {
+  "en": "Narasimha Saraswati, Sayamdev and a suffering brahmin",
+  "hi": {
+   "text": "नृसिंह सरस्वती, सायंदेव और एक पीड़ित ब्राह्मण",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री नृसिंह सरस्वती, सायंदेव आणि एक पीडित ब्राह्मण",
+   "reviewed": false
+  }
+ },
+ "title": {
+  "en": "The Man Who Meant to Drown Himself",
+  "hi": {
+   "text": "वह व्यक्ति जो डूबने चला था",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "ज्याने जीव देण्याचे ठरवले होते तो माणूस",
+   "reviewed": false
+  }
+ },
+ "teaser": {
+  "en": "The Guru gathers his disciples, visits his mother, and rescues a brahmin from despair at Brahmeshwar.",
+  "hi": {
+   "text": "गुरु अपने शिष्यों को एकत्र करते हैं, माता से मिलते हैं, और ब्रह्मेश्वर पर एक ब्राह्मण को निराशा से उबारते हैं।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "गुरू शिष्यांना एकत्र करतात, आईची भेट घेतात, आणि ब्रह्मेश्वरावर एका ब्राह्मणाला निराशेतून वाचवतात.",
+   "reviewed": false
+  }
+ },
+ "images": [
+  {
+   "src": "/stories/gurucharitra/n-karanja.webp",
+   "w": 728,
+   "h": 409,
+   "caption": {
+    "en": "Karanja, the Guru Mandir",
+    "hi": {
+     "text": "करंजा का गुरु मंदिर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "करंजा येथील गुरू मंदिर",
+     "reviewed": false
+    }
+   },
+   "credit": "Satish-ansingkar, CC BY-SA 4.0, via Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Karanja_Guru_Mandir.jpg"
+  }
+ ],
+ "scenes": [
+  {
+   "title": {
+    "en": "Seven Chief Disciples",
+    "hi": {
+     "text": "सात प्रमुख शिष्य",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सात प्रमुख शिष्य",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "At Prayag, the Gurucharitra tells, Narasimha Saraswati had gathered seven chief disciples: Bal Saraswati, Krishna Saraswati, Upendra Saraswati, Madhav Saraswati, Sadanand Saraswati, Dnyanjyoti Saraswati and the Siddha who was now telling the story to Namdharak. The Siddha mentioned his own name only in passing, as one of a company, without a word of boasting.\n\nFrom Prayag the Guru turned south, on a long road that would eventually bring him to Ganagapur. He travelled as a wandering sannyasi, quietly, with his disciples at his side. It is a small gift of the text that the narrator himself walks in the story, an ordinary man among teachers who loves what he describes, and who is now passing that love on to a tired householder under a tree. His disciples walked with him as he went.",
+    "hi": {
+     "text": "श्री गुरुचरित्र बताता है कि प्रयाग में नृसिंह सरस्वती ने सात प्रमुख शिष्य एकत्र किए थे: बाल सरस्वती, कृष्ण सरस्वती, उपेंद्र सरस्वती, माधव सरस्वती, सदानंद सरस्वती, ज्ञानज्योति सरस्वती, और वह सिद्ध जो अब नामधारक को यह कथा सुना रहे थे। सिद्ध ने अपना नाम केवल प्रसंगवश लिया, एक समूह के सदस्य के रूप में, बिना किसी आत्मप्रशंसा के।\n\nप्रयाग से गुरु दक्षिण की ओर मुड़े, एक लंबे मार्ग पर, जो अंततः उन्हें गाणगापुर ले जाने वाला था। वे एक भटकते संन्यासी की तरह शांति से चले, उनके शिष्य उनके साथ थे। ग्रंथ का एक छोटा-सा उपहार यह है कि कथावाचक स्वयं कथा में चलता है, गुरुओं के बीच का एक साधारण मनुष्य जो अपने वर्णन किए जा रहे प्रेम को प्यार करता है, और अब वही प्रेम एक थके हुए गृहस्थ को वृक्ष के नीचे सौंप रहा है। उनके शिष्य उनके साथ चलते रहे।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "श्री गुरुचरित्र सांगते की प्रयागला नृसिंह सरस्वतींनी सात प्रमुख शिष्य एकत्र केले होते: बाल सरस्वती, कृष्ण सरस्वती, उपेंद्र सरस्वती, माधव सरस्वती, सदानंद सरस्वती, ज्ञानज्योती सरस्वती, आणि जो सिद्ध आता नामधारकांना ही कथा सांगत होता. सिद्धांनी स्वतःचे नाव फक्त ओघात, एका गटाचा सदस्य म्हणून घेतले, कोणत्याही आत्मप्रशंसेविना.\n\nप्रयागहून गुरू दक्षिणेकडे वळले, एका लांब मार्गावर, जो शेवटी त्यांना गाणगापूरला नेणार होता. ते एका भटक्या संन्याशाप्रमाणे शांतपणे चालले, त्यांचे शिष्य सोबत होते. ग्रंथाची एक लहानशी देणगी अशी आहे की कथाकार स्वतः कथेत चालतो, गुरूंमधला एक सामान्य माणूस जो आपण वर्णन करत असलेल्या प्रेमावर प्रेम करतो, आणि आता तेच प्रेम एका थकलेल्या गृहस्थाला वृक्षाखाली देत आहे. त्यांचे शिष्य त्यांच्याबरोबर चालत राहिले.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Karanja and a Sister",
+    "hi": {
+     "text": "करंजा और एक बहन",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "करंजा आणि एक बहीण",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The road led to Karanja, the town of his birth. His mother recognised him at once, not as Narahari but as the radiant Shripad of whom she had heard, and the Guru promised her that sannyasa, the life of renunciation, would free forty-two generations of her family. For a mother who had once fainted at his leaving, it was a greater comfort than any words about duty.\n\nHis sister Ratnai also came, asking to be released from family ties. The Guru told her to serve her husband faithfully, and foretold that she would suffer leprosy for a time and be cured at Papavinashi. Her brother had come home as a Guru, and she was still his sister. She had known him as a brother, and now she saw in him a Guru.",
+    "hi": {
+     "text": "राह उनके जन्मस्थान करंजा की ओर गई। उनकी माता ने उन्हें तुरंत पहचान लिया, नरहरि के रूप में नहीं, बल्कि उस तेजस्वी श्रीपाद के रूप में जिनके विषय में उन्होंने सुना था, और गुरु ने उन्हें वचन दिया कि संन्यास, यानी त्याग का जीवन, उनके परिवार की बयालीस पीढ़ियों का उद्धार करेगा। जो माता उनके विदा होते समय मूर्छित हो गई थीं, उनके लिए यह कर्तव्य की किसी भी बात से बड़ी सांत्वना थी।\n\nउनकी बहन रत्नई भी आईं, और परिवार के बंधनों से मुक्ति माँगने लगीं। गुरु ने उन्हें अपने पति की निष्ठा से सेवा करने को कहा, और भविष्यवाणी की कि उन्हें कुछ समय के लिए कुष्ठ रोग सहना होगा और वे पापविनाशिनी में स्वस्थ होंगी। उनका भाई गुरु बनकर घर लौटा था, फिर भी वह उनकी बहन थीं। उन्होंने उसे भाई के रूप में जाना था, और अब उसमें गुरु को देखने लगीं।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "मार्ग त्यांच्या जन्मगावी, करंजाकडे गेला. त्यांच्या आईने त्यांना लगेच ओळखले, नरहरी म्हणून नव्हे तर ज्यांच्याविषयी ऐकले होते त्या तेजस्वी श्रीपाद म्हणून, आणि गुरूंनी तिला वचन दिले की संन्यास, म्हणजे त्यागाचे जीवन, तिच्या कुटुंबातील बेचाळीस पिढ्यांचा उद्धार करेल. जिने त्यांच्या विदाईच्या वेळी मूर्च्छा घेतली होती, तिच्यासाठी हे कर्तव्याच्या कोणत्याही शब्दांपेक्षा मोठे सांत्वन होते.\n\nत्यांची बहीण रत्नाई सुद्धा आली, कौटुंबिक बंधनांतून मुक्त होण्याची विनंती करत. गुरूंनी तिला पतीची निष्ठेने सेवा करण्यास सांगितले, आणि भविष्य वर्तवले की तिला काही काळ कुष्ठरोग सहन करावा लागेल आणि ती पापविनाशिनीत बरी होईल. तिचा भाऊ गुरू बनून घरी परतला होता, तरीही ती त्याची बहीण होती. तिने त्याला भाऊ म्हणून ओळखले होते, आणि आता त्याच्यात गुरू पाहू लागली.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Despair at Brahmeshwar",
+    "hi": {
+     "text": "ब्रह्मेश्वर पर निराशा",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "ब्रह्मेश्वरावर निराशा",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "The Guru moved on through Manjarika, where Madhavaranya, a devoted worshipper of Narasimha, praised him warmly, and reached Brahmeshwar. There a brahmin lay in the grip of severe colic pain. He had been fasting, exhausted and out of hope, and he meant to drown himself in the river rather than suffer another day.\n\nThe Guru saw him on the bank and stopped him. He did not lecture or pity. He simply promised that there was a remedy, and told the man to wait. The brahmin must have thought that no one in the world had seen his pain, and the Guru’s calm voice was the first sign otherwise. He stood very still, the river behind him, and listened as one who has been called back from far away. The river at Brahmeshwar ran swift and cold, and the brahmin stood at its edge with his hands pressed to his belly.",
+    "hi": {
+     "text": "गुरु मंजरिका होते हुए आगे बढ़े, जहाँ माधवारण्य, नृसिंह के एक समर्पित उपासक, ने उनकी हार्दिक प्रशंसा की, और फिर वे ब्रह्मेश्वर पहुँचे। वहाँ एक ब्राह्मण तीव्र पेट-दर्द की पकड़ में पड़ा था। वह उपवास कर रहा था, थका हुआ और आशाहीन, और दिन-रात के इस कष्ट को और झेलने के बजाय नदी में डूब मरना चाहता था।\n\nगुरु ने उसे तट पर देखा और रोक लिया। उन्होंने न उपदेश दिया, न दया दिखाई। बस इतना वचन दिया कि इसका उपाय है, और उस व्यक्ति से प्रतीक्षा करने को कहा। ब्राह्मण ने सोचा होगा कि संसार में किसी ने उसका कष्ट नहीं देखा, और गुरु की शांत वाणी ने पहला संकेत दिया कि ऐसा नहीं है। वह पीछे नदी लिए बहुत स्थिर खड़ा रहा, और सुनता रहा जैसे कोई दूर से वापस बुलाया गया हो। ब्रह्मेश्वर की नदी तेज़ और ठंडी बह रही थी, और ब्राह्मण पेट पर हाथ दबाए उसके किनारे खड़ा था।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "गुरू मंजरिकेमार्गे पुढे गेले, जिथे माधवारण्य, नृसिंहांचे एक समर्पित उपासक, यांनी त्यांची मनापासून स्तुती केली, आणि मग ते ब्रह्मेश्वरला पोहोचले. तिथे एक ब्राह्मण तीव्र पोटदुखीने तडफडत होता. तो उपवास करत होता, थकलेला आणि आशाहीन, आणि आणखी एक दिवस सहन करण्यापेक्षा नदीत बुडून जीव देण्याच्या विचारात होता.\n\nगुरूंनी त्याला काठावर पाहिले आणि थांबवले. त्यांनी उपदेश केला नाही, दया दाखवली नाही. फक्त इतकेच वचन दिले की यावर उपाय आहे, आणि त्या माणसाला थांबायला सांगितले. ब्राह्मणाला वाटले असेल की जगात कोणीही त्याचे दुःख पाहिलेले नाही, आणि गुरूंच्या शांत आवाजाने पहिला संकेत दिला की तसे नाही. तो मागे नदी ठेवून अगदी स्थिर उभा राहिला, दूरून परत बोलावले गेलेल्याप्रमाणे ऐकत. ब्रह्मेश्वरची नदी वेगाने आणि थंडपणे वाहत होती, आणि ब्राह्मण पोटावर हात दाबून तिच्या काठावर उभा होता.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "Sayamdev’s House",
+    "hi": {
+     "text": "सायंदेव का घर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सायंदेवांचे घर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "In the town lived an officer named Sayamdev, a Kanchi brahmin, who came, bowed before the Guru and invited him to his home. The Guru, who often accepted the hospitality of the humble, went with him. There he gave the sick brahmin a simple medicine and told him to eat, though the man had been fasting out of misery.\n\nThe pain vanished. The text states it with quiet matter-of-factness, as if the remedy was less important than the kindness that came with it. A man who had walked to the river in despair sat at a householder’s table and ate, and the world looked different to him. Sayamdev, watching, understood that his guest was no common ascetic, and his heart opened. The medicine was nothing grand, and the Guru simply told the man that it was time to eat and that all would be well.",
+    "hi": {
+     "text": "उस नगर में सायंदेव नाम के एक अधिकारी रहते थे, जो कांची के ब्राह्मण थे। वे आए, गुरु के सामने झुके और उन्हें अपने घर आमंत्रित किया। गुरु, जो प्रायः विनम्र लोगों का आतिथ्य स्वीकार करते थे, उनके साथ चले गए। वहाँ उन्होंने बीमार ब्राह्मण को एक सादी औषधि दी और भोजन करने को कहा, यद्यपि वह व्यक्ति दुःख के कारण उपवास कर रहा था।\n\nदर्द मिट गया। ग्रंथ इसे शांत सहजता से कहता है, मानो औषधि उस दयालुता से कम महत्वपूर्ण थी जो उसके साथ आई थी। जो व्यक्ति निराशा में नदी की ओर चला था, वह अब एक गृहस्थ की थाली पर बैठकर भोजन कर रहा था, और संसार उसे अलग दिखने लगा। सायंदेव ने देखा और समझ गए कि उनके अतिथि कोई साधारण संन्यासी नहीं हैं, और उनका हृदय खुल गया। औषधि कोई बड़ी चीज़ नहीं थी; गुरु ने बस उस व्यक्ति से कहा कि भोजन का समय हो गया है और सब ठीक हो जाएगा।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "त्या गावात सायंदेव नावाचे एक अधिकारी राहत होते, जे कांचीचे ब्राह्मण होते. ते आले, गुरूंच्या समोर नतमस्तक झाले आणि त्यांना आपल्या घरी आमंत्रण दिले. गुरू, जे अनेकदा नम्र लोकांचा आदरातिथ्य स्वीकारत, त्यांच्याबरोबर गेले. तिथे त्यांनी आजारी ब्राह्मणाला एक साधे औषध दिले आणि जेवायला सांगितले, जरी तो दुःखामुळे उपवास करत होता.\n\nवेदना नाहीशी झाली. ग्रंथ हे शांत साधेपणाने सांगतो, जणू त्या दयाळूपणापुढे औषध कमी महत्त्वाचे होते. जो माणूस निराशेत नदीकडे चालत गेला होता, तो आता एका गृहस्थाच्या ताटावर बसून जेवत होता, आणि जग त्याला वेगळे दिसू लागले. सायंदेवांनी हे पाहिले आणि समजले की त्यांचे अतिथी साधारण संन्यासी नाहीत, आणि त्यांचे हृदय उघडले. औषध काही भव्य नव्हते; गुरूंनी फक्त त्या माणसाला सांगितले की जेवणाची वेळ झाली आहे आणि सर्व ठीक होईल.",
+     "reviewed": false
+    }
+   }
+  },
+  {
+   "title": {
+    "en": "A Blessed Household",
+    "hi": {
+     "text": "एक आशीर्वादित घर",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "आशीर्वादित घर",
+     "reviewed": false
+    }
+   },
+   "text": {
+    "en": "Sayamdev’s wife Jakhai served the Guru and his disciples with great care, preparing food and tending to all their needs. The Guru was pleased with the family and blessed them. They did not know it yet, but their household would become one of the most important in the whole story, for the author of the Gurucharitra traces his own line to Sayamdev.\n\nThe Siddha, telling this to Namdharak, was perhaps hinting at something. Namdharak’s own forefathers had served this Guru, as he had said in his prayer on the road. Faithful households form a long chain of small kindnesses, and the Guru remembers each link. A meal given to a hungry stranger becomes, in time, a family’s inheritance of grace. The family’s simple welcome, the Gurucharitra suggests, was remembered for generations.",
+    "hi": {
+     "text": "सायंदेव की पत्नी जाखई ने गुरु और उनके शिष्यों की बड़ी सावधानी से सेवा की, भोजन बनाया और उनकी हर आवश्यकता का ध्यान रखा। गुरु इस परिवार से प्रसन्न हुए और उन्हें आशीर्वाद दिया। वे अभी नहीं जानते थे, पर उनका यह घर पूरी कथा के सबसे महत्वपूर्ण घरों में से एक बनने वाला था, क्योंकि श्री गुरुचरित्र के रचयिता अपना वंश सायंदेव तक जोड़ते हैं।\n\nसिद्ध यह नामधारक को सुनाते हुए शायद किसी बात का संकेत दे रहे थे। नामधारक के अपने पूर्वज इसी गुरु की सेवा कर चुके थे, जैसा उन्होंने राह में अपनी प्रार्थना में कहा था। निष्ठावान घर छोटी-छोटी दयालुताओं की एक लंबी श्रृंखला बनाते हैं, और गुरु हर कड़ी को याद रखते हैं। किसी भूखे अजनबी को दिया गया भोजन समय के साथ एक परिवार की कृपा की विरासत बन जाता है। श्री गुरुचरित्र संकेत देता है कि उस परिवार का सरल स्वागत पीढ़ियों तक याद रखा गया।",
+     "reviewed": false
+    },
+    "mr": {
+     "text": "सायंदेवांची पत्नी जाखई हिने गुरू आणि शिष्यांची मोठ्या काळजीने सेवा केली, अन्न तयार केले आणि त्यांच्या प्रत्येक गरजेकडे लक्ष दिले. गुरू या कुटुंबावर प्रसन्न झाले आणि त्यांनी आशीर्वाद दिला. त्यांना अजून माहीत नव्हते, पण त्यांचे हे घर संपूर्ण कथेतील सर्वात महत्त्वाच्या घरांपैकी एक होणार होते, कारण श्री गुरुचरित्राचे रचयिता आपला वंश सायंदेवांपर्यंत नेतात.\n\nहे सिद्ध नामधारकांना सांगताना कदाचित काहीतरी सूचित करत होते. नामधारकांच्या स्वतःच्या पूर्वजांनीही याच गुरूंची सेवा केली होती, जसे त्यांनी रस्त्यावरील प्रार्थनेत म्हटले होते. निष्ठावान घरे लहान दयाळूपणाची एक लांब साखळी बनवतात, आणि गुरू प्रत्येक दुवा लक्षात ठेवतात. भुकेल्या अनोळखी माणसाला दिलेले जेवण कालांतराने कुटुंबासाठी कृपेचा वारसा बनते. श्री गुरुचरित्र सुचवते की त्या कुटुंबाचे साधे स्वागत पिढ्यानपिढ्या स्मरणात राहिले.",
+     "reviewed": false
+    }
+   }
+  }
+ ],
+ "reflect": {
+  "en": "Is there a person near you who might be feeling the same despair as the brahmin at the river? Check in on them today, with a call or a small meal.",
+  "hi": {
+   "text": "क्या आपके आसपास कोई ऐसा व्यक्ति है जो शायद नदी-तट के उस ब्राह्मण जैसी निराशा महसूस कर रहा हो? आज फोन या एक छोटे भोजन के साथ उसका हालचाल पूछिए।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "तुमच्या जवळ कोणी असा आहे का जो नदीकाठच्या ब्राह्मणासारखी निराशा अनुभवत असेल? आज फोन करून किंवा एका छोट्या जेवणाने त्याची विचारपूस करा.",
+   "reviewed": false
+  }
+ },
+ "lesson": {
+  "en": "A calm voice at the right moment can turn a person from the edge, and a meal shared with kindness can heal more than medicine.",
+  "hi": {
+   "text": "सही समय पर एक शांत स्वर किसी को किनारे से वापस ला सकता है, और दयालुता से बाँटा गया भोजन औषधि से भी अधिक उपचार कर सकता है।",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "योग्य क्षणी एक शांत स्वर माणसाला काठावरून परत आणू शकतो, आणि दयाळूपणे वाटलेले जेवण औषधापेक्षाही अधिक बरे करू शकते.",
+   "reviewed": false
+  }
+ },
+ "source": {
+  "en": "Shri Gurucharitra by Saraswati Gangadhar, adhyaya 13; retold in our own words",
+  "hi": {
+   "text": "श्री गुरुचरित्र (सरस्वती गंगाधर), अध्याय 13; अपने शब्दों में पुनः कहा गया",
+   "reviewed": false
+  },
+  "mr": {
+   "text": "श्री गुरुचरित्र, सरस्वती गंगाधर, अध्याय 13; आमच्या शब्दांत पुनर्कथन",
+   "reviewed": false
+  }
+ }
+}
